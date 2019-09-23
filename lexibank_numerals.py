@@ -54,7 +54,7 @@ class Dataset(BaseDataset):
 
             pathlib.Path("raw/" + mc).mkdir(parents=True, exist_ok=True)
 
-            with open("raw/" + mc + "/" + lid, "w") as outfile:
+            with open("raw/" + mc + "/" + lid + ".csv", "w") as outfile:
                 fp = csv.DictWriter(outfile, entry[0].keys())
                 fp.writeheader()
                 fp.writerows(sorted(entry, key=lambda x: int(x["Parameter_ID"])))
