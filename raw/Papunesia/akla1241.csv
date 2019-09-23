@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
 akla1241-1-1,,akla1241,1,isaɣáh* | ú:noh | ala ú:na '1 o'clock',isaɣáh* | ú:noh | ala ú:na '1 o'clock',[],,[],,False,Inakeanon-Aklanon.htm,True,,1
 akla1241-1-2,,akla1241,1,ʔi'sah,ʔi'sah,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
-akla1241-2-1,,akla1241,2,dáywah | alas dos 'two o'clock',dáywah | alas dos 'two o'clock',[],,[],,False,Inakeanon-Aklanon.htm,False,,1
+akla1241-2-1,,akla1241,2,dáywah | alas dos 'two o'clock',dáywah | alas dos 'two o'clock',[],,[],,False,Inakeanon-Aklanon.htm,True,,1
 akla1241-2-2,,akla1241,2,'daywa,'daywa,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
-akla1241-3-1,,akla1241,3,tátloh | alas trés 'three o'clock',tátloh | alas trés 'three o'clock',[],,[],,False,Inakeanon-Aklanon.htm,False,,1
+akla1241-3-1,,akla1241,3,tátloh | alas trés 'three o'clock',tátloh | alas trés 'three o'clock',[],,[],,False,Inakeanon-Aklanon.htm,True,,1
 akla1241-3-2,,akla1241,3,'tatloh,'tatloh,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
 akla1241-4-1,,akla1241,4,ápʔat | alas kwátro,ápʔat | alas kwátro,[],,[],,False,Inakeanon-Aklanon.htm,False,,1
 akla1241-4-2,,akla1241,4,ʔa'pat,ʔa'pat,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
-akla1241-5-1,,akla1241,5,limáh | alas síŋkoh '5 o'clock',limáh | alas síŋkoh '5 o'clock',[],,[],,False,Inakeanon-Aklanon.htm,False,,1
+akla1241-5-1,,akla1241,5,limáh | alas síŋkoh '5 o'clock',limáh | alas síŋkoh '5 o'clock',[],,[],,False,Inakeanon-Aklanon.htm,True,,1
 akla1241-5-2,,akla1241,5,li'ma,li'ma,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
 akla1241-6-1,,akla1241,6,ánʔom | alas,ánʔom | alas,[],,[],,False,Inakeanon-Aklanon.htm,False,,1
 akla1241-6-2,,akla1241,6,ʔa'nom,ʔa'nom,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
@@ -19,9 +19,9 @@ akla1241-9-1,,akla1241,9,siyám | alas nwébe,siyám | alas nwébe,[],,[],,False
 akla1241-9-2,,akla1241,9,si'yam,si'yam,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
 akla1241-10-1,,akla1241,10,pú:ɣoʔ | alas dyés,pú:ɣoʔ | alas dyés,[],,[],,False,Inakeanon-Aklanon.htm,False,,1
 akla1241-10-2,,akla1241,10,na'puoʔ,na'puoʔ,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
-akla1241-11-1,,akla1241,11,ónse | alas ónse '11 o'clock',ónse | alas ónse '11 o'clock',[],,[],,False,Inakeanon-Aklanon.htm,False,,1
+akla1241-11-1,,akla1241,11,ónse | alas ónse '11 o'clock',ónse | alas ónse '11 o'clock',[],,[],,False,Inakeanon-Aklanon.htm,True,,1
 akla1241-11-2,,akla1241,11,onsi,onsi,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
-akla1241-12-1,,akla1241,12,dóse | alas dóse '12 o'clock',dóse | alas dóse '12 o'clock',[],,[],,False,Inakeanon-Aklanon.htm,False,,1
+akla1241-12-1,,akla1241,12,dóse | alas dóse '12 o'clock',dóse | alas dóse '12 o'clock',[],,[],,False,Inakeanon-Aklanon.htm,True,,1
 akla1241-12-2,,akla1241,12,duːsi,duːsi,[],,[],,False,Inakeanon-Aklanon.htm,False,,2
 akla1241-13-1,,akla1241,13,trése,trése,[],,[],,False,Inakeanon-Aklanon.htm,False,,1
 akla1241-13-2,,akla1241,13,tresi,tresi,[],,[],,False,Inakeanon-Aklanon.htm,False,,2

@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
 mant1265-1-1,,mant1265,1,ta53,ta53,[],,[],,False,Mantsi.htm,False,,1
 mant1265-1-2,,mant1265,1,ta31,ta31,[],( Vietnam),[],,False,Mantsi.htm,False,,1
-mant1265-1-3,,mant1265,1,China,China,[],,[],,False,Mantsi.htm,False,,1
+mant1265-1-3,,mant1265,1,China,China,[],,[],,False,Mantsi.htm,True,,1
 mant1265-2-1,,mant1265,2,ni44,ni44,[],,[],,False,Mantsi.htm,False,,1
 mant1265-2-2,,mant1265,2,ni44,ni44,[],,[],,False,Mantsi.htm,False,,1
 mant1265-3-1,,mant1265,3,sɔ312,sɔ312,[],,[],,False,Mantsi.htm,False,,1
