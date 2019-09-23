@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+yala1263-1-1,,yala1263,1,ósè,ósè,[],,[],,False,Yala.htm,False,,1
+yala1263-2-1,,yala1263,2,ɛ̀pà,ɛ̀pà,[],,[],,False,Yala.htm,False,,1
+yala1263-3-1,,yala1263,3,ɛ̀ta,ɛ̀ta,[],,[],,False,Yala.htm,False,,1
+yala1263-4-1,,yala1263,4,ɛ̀nɛ̀,ɛ̀nɛ̀,[],,[],,False,Yala.htm,False,,1
+yala1263-5-1,,yala1263,5,èrwɔ,èrwɔ,[],,[],,False,Yala.htm,False,,1
+yala1263-6-1,,yala1263,6,èríwi,èríwi,[],,[],,False,Yala.htm,False,,1
+yala1263-7-1,,yala1263,7,àrapà,àrapà,[],,[],,False,Yala.htm,False,,1
+yala1263-8-1,,yala1263,8,àratá,àratá,[],,[],,False,Yala.htm,False,,1
+yala1263-9-1,,yala1263,9,àranɛ̀,àranɛ̀,[],,[],,False,Yala.htm,False,,1
+yala1263-10-1,,yala1263,10,ìɡwó,ìɡwó,[],,[],,False,Yala.htm,False,,1
+yala1263-11-1,,yala1263,11,ìɡwólósè,ìɡwólósè,[],,[],,False,Yala.htm,False,,1
+yala1263-12-1,,yala1263,12,ìɡwólɛ̀pà,ìɡwólɛ̀pà,[],,[],,False,Yala.htm,False,,1
+yala1263-13-1,,yala1263,13,ìɡwólɛ̀ta,ìɡwólɛ̀ta,[],,[],,False,Yala.htm,False,,1
+yala1263-14-1,,yala1263,14,ìɡwólɛ̀nɛ̀,ìɡwólɛ̀nɛ̀,[],,[],,False,Yala.htm,False,,1
+yala1263-15-1,,yala1263,15,ìɡwólèrwɔ,ìɡwólèrwɔ,[],,[],,False,Yala.htm,False,,1
+yala1263-16-1,,yala1263,16,ìɡwólèríwi,ìɡwólèríwi,[],,[],,False,Yala.htm,False,,1
+yala1263-17-1,,yala1263,17,ìɡwólàrapà,ìɡwólàrapà,[],,[],,False,Yala.htm,False,,1
+yala1263-18-1,,yala1263,18,ìɡwólàratá,ìɡwólàratá,[],,[],,False,Yala.htm,False,,1
+yala1263-19-1,,yala1263,19,ìɡwólàranɛ̀,ìɡwólàranɛ̀,[],,[],,False,Yala.htm,False,,1
+yala1263-20-1,,yala1263,20,òfù,òfù,[],,[],,False,Yala.htm,False,,1
+yala1263-21-1,,yala1263,21,òfùsǒsísè,òfùsǒsísè,[],,[],,False,Yala.htm,False,,1
+yala1263-22-1,,yala1263,22,òfùsɛ̀pà,òfùsɛ̀pà,[],,[],,False,Yala.htm,False,,1
+yala1263-23-1,,yala1263,23,òfùsɛ̀ta,òfùsɛ̀ta,[],,[],,False,Yala.htm,False,,1
+yala1263-24-1,,yala1263,24,òfùsɛ̀nɛ̀,òfùsɛ̀nɛ̀,[],,[],,False,Yala.htm,False,,1
+yala1263-25-1,,yala1263,25,òfùsèrwɔ,òfùsèrwɔ,[],,[],,False,Yala.htm,False,,1
+yala1263-26-1,,yala1263,26,òfùsèríwi,òfùsèríwi,[],,[],,False,Yala.htm,False,,1
+yala1263-27-1,,yala1263,27,òfùsàrapà,òfùsàrapà,[],,[],,False,Yala.htm,False,,1
+yala1263-28-1,,yala1263,28,òfùsàratá,òfùsàratá,[],,[],,False,Yala.htm,False,,1
+yala1263-29-1,,yala1263,29,òfùsàranɛ̀,òfùsàranɛ̀,[],,[],,False,Yala.htm,False,,1
+yala1263-30-1,,yala1263,30,òfùsìɡwó,òfùsìɡwó,[],( 20+10 ),[],,False,Yala.htm,False,,1
+yala1263-40-1,,yala1263,40,òfùɛ̀pà,òfùɛ̀pà,[],( 20 x 2 ),[],,False,Yala.htm,False,,1
+yala1263-50-1,,yala1263,50,òfɛ̀pàsìɡwó,òfɛ̀pàsìɡwó,[],( 20+10 ),[],,False,Yala.htm,False,,1
+yala1263-60-1,,yala1263,60,òfùɛ̀ta,òfùɛ̀ta,[],( 20 x 3 ),[],,False,Yala.htm,False,,1
+yala1263-70-1,,yala1263,70,òfùɛ̀taɡwó,òfùɛ̀taɡwó,[],( 20+10 ),[],,False,Yala.htm,False,,1
+yala1263-80-1,,yala1263,80,òfùɛnɛ̀,òfùɛnɛ̀,[],( 20 x 4 ),[],,False,Yala.htm,False,,1
+yala1263-90-1,,yala1263,90,òfùɛnɛ̀sìɡwó,òfùɛnɛ̀sìɡwó,[],( 20+10 ),[],,False,Yala.htm,False,,1
+yala1263-100-1,,yala1263,100,òfùèrwɔ̀,òfùèrwɔ̀,[],( 20 x 5 ),[],,False,Yala.htm,False,,1
+yala1263-200-1,,yala1263,200,òfùìɡwó,òfùìɡwó,[],,[],,False,Yala.htm,False,,1
+yala1263-1000-1,,yala1263,1000,únɔ̀ɛ̀pàsìòfùìɡwó,únɔ̀ɛ̀pàsìòfùìɡwó,[],,[],,False,Yala.htm,False,,1
+yala1263-2000-1,,yala1263,2000,únɔ̀ ɛ̀rwɔ̀,únɔ̀ ɛ̀rwɔ̀,[],,[],,False,Yala.htm,False,,1

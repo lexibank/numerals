@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+dobu1241-1-1,,dobu1241,1,ʔebwuna,ʔebwuna,[],,[],,False,Dobu.htm,False,,1
+dobu1241-1-2,,dobu1241,1,ʔebweu,ʔebweu,[],,[],,False,Dobu.htm,False,,1
+dobu1241-2-1,,dobu1241,2,ʔeluwa,ʔeluwa,[],,[],,False,Dobu.htm,False,,1
+dobu1241-3-1,,dobu1241,3,ʔetoi,ʔetoi,[],,[],,False,Dobu.htm,False,,1
+dobu1241-4-1,,dobu1241,4,ʔata,ʔata,[],,[],,False,Dobu.htm,False,,1
+dobu1241-5-1,,dobu1241,5,nima,nima,[],,[],,False,Dobu.htm,False,,1
+dobu1241-6-1,,dobu1241,6,nima ta ebweu,nima ta ebweu,[],( 5 + 1 ),[],,False,Dobu.htm,False,,1
+dobu1241-7-1,,dobu1241,7,nima ta eluwa,nima ta eluwa,[],( 5 + 2 ),[],,False,Dobu.htm,False,,1
+dobu1241-8-1,,dobu1241,8,nima ta etoi,nima ta etoi,[],( 5 + 3 ),[],,False,Dobu.htm,False,,1
+dobu1241-9-1,,dobu1241,9,nima ta ata,nima ta ata,[],( 5 + 4 ),[],,False,Dobu.htm,False,,1
+dobu1241-10-1,,dobu1241,10,sanau,sanau,[],,[],,False,Dobu.htm,False,,1
+dobu1241-11-1,,dobu1241,11,sanau ta ebweu,sanau ta ebweu,[],(na),[],,False,Dobu.htm,False,,1
+dobu1241-12-1,,dobu1241,12,sanau ta eluwa,sanau ta eluwa,[],,[],,False,Dobu.htm,False,,1
+dobu1241-13-1,,dobu1241,13,sanau ta etoi,sanau ta etoi,[],,[],,False,Dobu.htm,False,,1
+dobu1241-14-1,,dobu1241,14,sanau ta ata,sanau ta ata,[],,[],,False,Dobu.htm,False,,1
+dobu1241-15-1,,dobu1241,15,sanau ta nima,sanau ta nima,[],,[],,False,Dobu.htm,False,,1
+dobu1241-16-1,,dobu1241,16,sanau ta nima ebweu,sanau ta nima ebweu,[],,[],,False,Dobu.htm,False,,1
+dobu1241-17-1,,dobu1241,17,sanau ta nima eluwa,sanau ta nima eluwa,[],,[],,False,Dobu.htm,False,,1
+dobu1241-18-1,,dobu1241,18,sanau ta nima etoi,sanau ta nima etoi,[],,[],,False,Dobu.htm,False,,1
+dobu1241-19-1,,dobu1241,19,sanau ta nima ata,sanau ta nima ata,[],,[],,False,Dobu.htm,False,,1
+dobu1241-20-1,,dobu1241,20,toʔebweu,toʔebweu,[],,[],,False,Dobu.htm,False,,1
+dobu1241-20-2,,dobu1241,20,ebweu tomotoi,ebweu tomotoi,[],,[],,False,Dobu.htm,False,,1

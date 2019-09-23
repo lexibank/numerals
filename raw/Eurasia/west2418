@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+west2418-1-1,,west2418,1,kat,kat,[],,[],,False,Magar-West.htm,False,,1
+west2418-2-1,,west2418,2,nɦisŋ,nɦisŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-3-1,,west2418,3,som,som,[],,[],,False,Magar-West.htm,False,,1
+west2418-4-1,,west2418,4,buli,buli,[],,[],,False,Magar-West.htm,False,,1
+west2418-5-1,,west2418,5,baŋa,baŋa,[],,[],,False,Magar-West.htm,False,,1
+west2418-6-1,,west2418,6,caŋ,caŋ,[],( < Nepali),[],,True,Magar-West.htm,False,,1
+west2418-7-1,,west2418,7,saŋ,saŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-8-1,,west2418,8,aŋ,aŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-9-1,,west2418,9,naŋ,naŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-10-1,,west2418,10,daŋ,daŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-11-1,,west2418,11,dʌs rʌ kat,dʌs rʌ kat,[],,[],,False,Magar-West.htm,False,,1
+west2418-12-1,,west2418,12,dʌs rʌ nɦis,dʌs rʌ nɦis,[],,[],,False,Magar-West.htm,False,,1
+west2418-13-1,,west2418,13,dʌs rʌ som,dʌs rʌ som,[],,[],,False,Magar-West.htm,False,,1
+west2418-14-1,,west2418,14,dʌs rʌ buli,dʌs rʌ buli,[],,[],,False,Magar-West.htm,False,,1
+west2418-15-1,,west2418,15,dʌs rʌ baŋa,dʌs rʌ baŋa,[],,[],,False,Magar-West.htm,False,,1
+west2418-16-1,,west2418,16,dʌs rʌ caŋ,dʌs rʌ caŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-17-1,,west2418,17,dʌs rʌ saŋ,dʌs rʌ saŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-18-1,,west2418,18,dʌs rʌ aŋ,dʌs rʌ aŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-19-1,,west2418,19,dʌs rʌ naŋ,dʌs rʌ naŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-20-1,,west2418,20,bis,bis,[],,[],,False,Magar-West.htm,False,,1
+west2418-21-1,,west2418,21,bis (rʌ) kat,bis (rʌ) kat,[],,[],,False,Magar-West.htm,False,,1
+west2418-22-1,,west2418,22,bis (rʌ) nɦis,bis (rʌ) nɦis,[],,[],,False,Magar-West.htm,False,,1
+west2418-23-1,,west2418,23,kat bise som,kat bise som,[],,[],,False,Magar-West.htm,False,,1
+west2418-24-1,,west2418,24,kat bise buli,kat bise buli,[],,[],,False,Magar-West.htm,False,,1
+west2418-25-1,,west2418,25,kat bise baŋa,kat bise baŋa,[],,[],,False,Magar-West.htm,False,,1
+west2418-26-1,,west2418,26,kat bise caŋ,kat bise caŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-27-1,,west2418,27,kat bise saŋ,kat bise saŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-28-1,,west2418,28,kat bise aŋ,kat bise aŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-29-1,,west2418,29,kat bise naŋ,kat bise naŋ,[],,[],,False,Magar-West.htm,False,,1
+west2418-30-1,,west2418,30,bis dʌs,bis dʌs,[],,[],,False,Magar-West.htm,False,,1
+west2418-40-1,,west2418,40,nɦis bis,nɦis bis,[],( 2 x 20 ),[],,False,Magar-West.htm,False,,1
+west2418-50-1,,west2418,50,nɦis bis dʌs,nɦis bis dʌs,[],,[],,False,Magar-West.htm,False,,1
+west2418-60-1,,west2418,60,som bise,som bise,[],( 3 x 20 ),[],,False,Magar-West.htm,False,,1
+west2418-70-1,,west2418,70,som bise dʌs,som bise dʌs,[],,[],,False,Magar-West.htm,False,,1
+west2418-80-1,,west2418,80,buli bis,buli bis,[],( 4 x 20 ),[],,False,Magar-West.htm,False,,1
+west2418-90-1,,west2418,90,buli bise dʌs,buli bise dʌs,[],,[],,False,Magar-West.htm,False,,1
+west2418-100-1,,west2418,100,kat saye,kat saye,[],< Nepali ,[],,True,Magar-West.htm,False,,1
+west2418-200-1,,west2418,200,nɦis saye,nɦis saye,[],,[],,False,Magar-West.htm,False,,1
+west2418-1000-1,,west2418,1000,hʌjar,hʌjar,[],< Nepali ,[],,True,Magar-West.htm,False,,1
+west2418-2000-1,,west2418,2000,nɦis hʌjar,nɦis hʌjar,[],,[],,False,Magar-West.htm,False,,1

@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+prov1247-1-1,,prov1247,1,ˈyŋ,ˈyŋ,[],,[],,False,Provencal.htm,False,un,1
+prov1247-1-2,,prov1247,1,ˈynɔ,ˈynɔ,[],(masc./fem.),[],,False,Provencal.htm,False,yno,1
+prov1247-2-1,,prov1247,2,ˈdus,ˈdus,[],,[],,False,Provencal.htm,False,dous,1
+prov1247-2-2,,prov1247,2,ˈdwas,ˈdwas,[],(m./f.),[],,False,Provencal.htm,False,douas,1
+prov1247-3-1,,prov1247,3,ˈtʀes,ˈtʀes,[],,[],,False,Provencal.htm,False,tres,1
+prov1247-4-1,,prov1247,4,ˈkatʀə,ˈkatʀə,[],,[],,False,Provencal.htm,False,quatre,1
+prov1247-5-1,,prov1247,5,ˈsiŋ,ˈsiŋ,[],,[],,False,Provencal.htm,False,cinq,1
+prov1247-6-1,,prov1247,6,ˈsjɛj,ˈsjɛj,[],,[],,False,Provencal.htm,False,sieìs,1
+prov1247-7-1,,prov1247,7,ˈsɛ,ˈsɛ,[],,[],,False,Provencal.htm,False,sèt,1
+prov1247-8-1,,prov1247,8,ˈvɥe,ˈvɥe,[],,[],,False,Provencal.htm,False,vue,1
+prov1247-9-1,,prov1247,9,ˈnu,ˈnu,[],,[],,False,Provencal.htm,False,nòu,1
+prov1247-10-1,,prov1247,10,ˈdɛs,ˈdɛs,[],,[],,False,Provencal.htm,False,dès,1
+prov1247-11-1,,prov1247,11,ˈvund͡ʒe,ˈvund͡ʒe,[],,[],,False,Provencal.htm,False,vounge,1
+prov1247-12-1,,prov1247,12,ˈdud͡ʒe,ˈdud͡ʒe,[],,[],,False,Provencal.htm,False,douge,1
+prov1247-13-1,,prov1247,13,ˈtʀed͡ʒe,ˈtʀed͡ʒe,[],,[],,False,Provencal.htm,False,trege,1
+prov1247-14-1,,prov1247,14,kaˈtɔʀd͡ʒe,kaˈtɔʀd͡ʒe,[],,[],,False,Provencal.htm,False,quatorge,1
+prov1247-15-1,,prov1247,15,ˈkind͡ʒe,ˈkind͡ʒe,[],,[],,False,Provencal.htm,False,quinge,1
+prov1247-16-1,,prov1247,16,ˈsɛd͡ʒe,ˈsɛd͡ʒe,[],,[],,False,Provencal.htm,False,sege,1
+prov1247-17-1,,prov1247,17,dɛzeˈsɛ,dɛzeˈsɛ,[],,[],,False,Provencal.htm,False,dès-e-sèt,1
+prov1247-18-1,,prov1247,18,dɛzeˈvɥe,dɛzeˈvɥe,[],,[],,False,Provencal.htm,False,dès-e-vue,1
+prov1247-19-1,,prov1247,19,dɛzeˈnɔw,dɛzeˈnɔw,[],,[],,False,Provencal.htm,False,dès-e-nòu,1
+prov1247-20-1,,prov1247,20,ˈviŋ,ˈviŋ,[],,[],,False,Provencal.htm,False,vint,1
+prov1247-21-1,,prov1247,21,vint-un,vint-un,[],,[],,False,Provencal.htm,False,,1
+prov1247-21-2,,prov1247,21,vintˈyŋ / vinˈtynɔ,vintˈyŋ,[],(m./f.),[],,False,Provencal.htm,True,uno,1
+prov1247-21-3,,prov1247,21,vintˈyŋ / vinˈtynɔ,vinˈtynɔ,[],(m./f.),[],,False,Provencal.htm,True,uno,1
+prov1247-22-1,,prov1247,22,vinto-dous,vinto-dous,[],,[],,False,Provencal.htm,False,,1
+prov1247-22-2,,prov1247,22,vintoˈdus /dwas,vintoˈdus,[],,[],,False,Provencal.htm,True,douas,1
+prov1247-22-3,,prov1247,22,vintoˈdus /dwas,dwas,[],,[],,False,Provencal.htm,True,douas,1
+prov1247-23-1,,prov1247,23,vintoˈtʀe,vintoˈtʀe,[],,[],,False,Provencal.htm,False,vinto-tres,1
+prov1247-24-1,,prov1247,24,vintoˈkatʀə,vintoˈkatʀə,[],,[],,False,Provencal.htm,False,vinto-quatre,1
+prov1247-25-1,,prov1247,25,vintoˈsiŋ,vintoˈsiŋ,[],,[],,False,Provencal.htm,False,vinto-cinq,1
+prov1247-26-1,,prov1247,26,vintoˈsjɛj,vintoˈsjɛj,[],,[],,False,Provencal.htm,False,vinto-sieìs,1
+prov1247-27-1,,prov1247,27,vintoˈsɛ,vintoˈsɛ,[],,[],,False,Provencal.htm,False,vinto-sèt,1
+prov1247-28-1,,prov1247,28,vintoˈvɥe,vintoˈvɥe,[],,[],,False,Provencal.htm,False,vinto-vue,1
+prov1247-29-1,,prov1247,29,vintoˈnɔw,vintoˈnɔw,[],,[],,False,Provencal.htm,False,vinto-nòu,1
+prov1247-30-1,,prov1247,30,ˈtʀentɔ,ˈtʀentɔ,[],,[],,False,Provencal.htm,False,trento,1
+prov1247-40-1,,prov1247,40,kaˈrantɔ,kaˈrantɔ,[],,[],,False,Provencal.htm,False,quaranto,1
+prov1247-50-1,,prov1247,50,siŋˈkantɔ,siŋˈkantɔ,[],,[],,False,Provencal.htm,False,cinquanto,1
+prov1247-60-1,,prov1247,60,sjɛjˈsantɔ,sjɛjˈsantɔ,[],,[],,False,Provencal.htm,False,sieissanto,1
+prov1247-70-1,,prov1247,70,seˈtantɔ,seˈtantɔ,[],,[],,False,Provencal.htm,False,setanto,1
+prov1247-80-1,,prov1247,80,vɥeˈtantɔ,vɥeˈtantɔ,[],,[],,False,Provencal.htm,False,vuetanto,1
+prov1247-90-1,,prov1247,90,nuˈnantɔ,nuˈnantɔ,[],,[],,False,Provencal.htm,False,nounanto,1
+prov1247-100-1,,prov1247,100,ˈsɛŋ,ˈsɛŋ,[],,[],,False,Provencal.htm,False,cènt,1
+prov1247-200-1,,prov1247,200,duˈsɛŋ,duˈsɛŋ,[],,[],,False,Provencal.htm,False,dous cènt,1
+prov1247-1000-1,,prov1247,1000,ˈmilɔ,ˈmilɔ,[],,[],,False,Provencal.htm,False,milo,1
+prov1247-2000-1,,prov1247,2000,duzˈmilɔ,duzˈmilɔ,[],,[],,False,Provencal.htm,False,dousmilo,1

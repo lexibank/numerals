@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+juho1239-1-1,,juho1239,1,nǀèǃé,nǀèǃé,[],,[],,False,Julhoan.htm,False,,1
+juho1239-2-1,,juho1239,2,tsàqn,tsàqn,[],,[],,False,Julhoan.htm,False,,1
+juho1239-3-1,,juho1239,3,nǃànì,nǃànì,[],,[],,False,Julhoan.htm,False,,1
+juho1239-4-1,,juho1239,4,tsàqn ko tsàqn,tsàqn ko tsàqn,[],( 2 + 2 ),[],,False,Julhoan.htm,False,,1
+juho1239-5-1,,juho1239,5,tsàqn ko nǃànì,tsàqn ko nǃànì,[],( 2 + 3 ),[],,False,Julhoan.htm,False,,1
+juho1239-6-1,,juho1239,6,nǃànì ko nǃànì,nǃànì ko nǃànì,[],( 3 + 3 ),[],,False,Julhoan.htm,False,,1
+juho1239-7-1,,juho1239,7,tsàqn ko tsàqn ko nǃànì,tsàqn ko tsàqn ko nǃànì,[],( 2 + 2 + 3 ),[],,False,Julhoan.htm,False,,1
+juho1239-8-1,,juho1239,8,tsàqn ko tsàqn ko tsàqn ko tsàqn ( 2 + 2 + 2 + 2 ) or ax,tsàqn ko tsàqn ko tsàqn ko tsàqn ( 2 + 2 + 2 + 2 ) or ax,[],,[],,False,Julhoan.htm,True,,1
+juho1239-9-1,,juho1239,9,nǃànì ko nǃànì ko nǃànì ( 3 + 3 + 3 ) or nixa,nǃànì ko nǃànì ko nǃànì ( 3 + 3 + 3 ) or nixa,[],,[],,False,Julhoan.htm,True,,1
+juho1239-10-1,,juho1239,10,tini,tini,[],,[],,False,Julhoan.htm,False,,1

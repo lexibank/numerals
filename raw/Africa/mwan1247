@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mwan1247-1-1,,mwan1247,1,mʼmodʒa,mʼmodʒa,[],,[],,False,Mwani.htm,False,mʼmoja,1
+mwan1247-2-1,,mwan1247,2,mbire,mbire,[],,[],,False,Mwani.htm,False,,1
+mwan1247-3-1,,mwan1247,3,natu,natu,[],,[],,False,Mwani.htm,False,,1
+mwan1247-4-1,,mwan1247,4,nʼné,nʼné,[],,[],,False,Mwani.htm,False,,1
+mwan1247-5-1,,mwan1247,5,nʼtano,nʼtano,[],,[],,False,Mwani.htm,False,,1
+mwan1247-6-1,,mwan1247,6,sita,sita,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-7-1,,mwan1247,7,saba,saba,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-8-1,,mwan1247,8,nane,nane,[],( < Swahili ),[],,True,Mwani.htm,False,,1
+mwan1247-9-1,,mwan1247,9,kʰɛ́nta,kʰɛ́nta,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-10-1,,mwan1247,10,kume,kume,[],,[],,False,Mwani.htm,False,,1
+mwan1247-11-1,,mwan1247,11,kume na mʼmoja,kume na mʼmoja,[],,[],,False,Mwani.htm,False,,1
+mwan1247-12-1,,mwan1247,12,kume na mbire,kume na mbire,[],,[],,False,Mwani.htm,False,,1
+mwan1247-13-1,,mwan1247,13,kume na natu,kume na natu,[],,[],,False,Mwani.htm,False,,1
+mwan1247-14-1,,mwan1247,14,kume na nʼné,kume na nʼné,[],,[],,False,Mwani.htm,False,,1
+mwan1247-15-1,,mwan1247,15,kume na nʼtano,kume na nʼtano,[],,[],,False,Mwani.htm,False,,1
+mwan1247-16-1,,mwan1247,16,kume na sita,kume na sita,[],,[],,False,Mwani.htm,False,,1
+mwan1247-17-1,,mwan1247,17,kume na saba,kume na saba,[],,[],,False,Mwani.htm,False,,1
+mwan1247-18-1,,mwan1247,18,kume na nane,kume na nane,[],,[],,False,Mwani.htm,False,,1
+mwan1247-19-1,,mwan1247,19,kume na kʰɛ́nta,kume na kʰɛ́nta,[],,[],,False,Mwani.htm,False,,1
+mwan1247-20-1,,mwan1247,20,ʃirini,ʃirini,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-21-1,,mwan1247,21,ʃirini na mʼmoja,ʃirini na mʼmoja,[],( Arabic + Bantu),[],,False,Mwani.htm,False,,1
+mwan1247-22-1,,mwan1247,22,ʃirini na mbire,ʃirini na mbire,[],,[],,False,Mwani.htm,False,,1
+mwan1247-23-1,,mwan1247,23,ʃirini na natu,ʃirini na natu,[],,[],,False,Mwani.htm,False,,1
+mwan1247-24-1,,mwan1247,24,ʃirini na nʼné,ʃirini na nʼné,[],,[],,False,Mwani.htm,False,,1
+mwan1247-25-1,,mwan1247,25,ʃirini na nʼtano,ʃirini na nʼtano,[],,[],,False,Mwani.htm,False,,1
+mwan1247-26-1,,mwan1247,26,ʃirini na sita,ʃirini na sita,[],,[],,False,Mwani.htm,False,,1
+mwan1247-27-1,,mwan1247,27,ʃirini na saba,ʃirini na saba,[],,[],,False,Mwani.htm,False,,1
+mwan1247-28-1,,mwan1247,28,ʃirini na nane,ʃirini na nane,[],,[],,False,Mwani.htm,False,,1
+mwan1247-29-1,,mwan1247,29,ʃirini na kʰɛ́nta,ʃirini na kʰɛ́nta,[],,[],,False,Mwani.htm,False,,1
+mwan1247-30-1,,mwan1247,30,talatini,talatini,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-40-1,,mwan1247,40,arubaine,arubaine,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-50-1,,mwan1247,50,amusine,amusine,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-60-1,,mwan1247,60,sitine,sitine,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-70-1,,mwan1247,70,sabine,sabine,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-80-1,,mwan1247,80,tamanine,tamanine,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-90-1,,mwan1247,90,tusuine,tusuine,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-100-1,,mwan1247,100,mia,mia,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-200-1,,mwan1247,200,mia mbire,mia mbire,[],,[],,False,Mwani.htm,False,,1
+mwan1247-1000-1,,mwan1247,1000,álufu,álufu,[],( < Swahili / Arabic ),[],,True,Mwani.htm,False,,1
+mwan1247-2000-1,,mwan1247,2000,álufu mbire,álufu mbire,[],,[],,False,Mwani.htm,False,,1

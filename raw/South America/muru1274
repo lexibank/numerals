@@ -1,0 +1,51 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+muru1274-1-1,,muru1274,1,da-je,da-je,[],(one-clf:genericreferred further to as clf:g),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-1-2,,muru1274,1,dahe,dahe,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-1-3,,muru1274,1,da.e,da.e,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-2-1,,muru1274,2,mena,mena,[],,[],,False,Huitoto-Murui.htm,False,,1
+muru1274-2-2,,muru1274,2,mena,mena,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-3-1,,muru1274,3,da-je aama-ni,da-je aama-ni,[],(one-clf:gbrother-privative),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-3-2,,muru1274,3,dahe áma-ni,dahe áma-ni,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-3-3,,muru1274,3,da.e áma-ni,da.e áma-ni,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-4-1,,muru1274,4,naga aama-ga,naga aama-ga,[],(each brother-quantifier),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-4-2,,muru1274,4,naɡa áma-ɡa,naɡa áma-ɡa,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-4-3,,muru1274,4,naɡámaɡa,naɡámaɡa,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-5-1,,muru1274,5,(ono-yɨ) da-be-kuiro (hand-clf:bushy one-clf:leaf-clf:peel) or da-be-yɨ,(ono-yɨ) da-be-kuiro (hand-clf:bushy one-clf:leaf-clf:peel) or da-be-yɨ,[],(one-clf:leaf-clf:bushy),[],,False,Huitoto-Murui.htm,True,,1
+muru1274-5-2,,muru1274,5,da-be-kuiro,da-be-kuiro,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-5-3,,muru1274,5,onollɨ dabellɨ,onollɨ dabellɨ,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-6-1,,muru1274,6,da-be-kuiro emodo-mo da-kaɨ,da-be-kuiro emodo-mo da-kaɨ,[],(one-clf:leaf-clf:peelover-loc one-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-6-2,,muru1274,6,enefebellɨmo dakaɨ (uaide) ''one finger (is marked) on the other hand'',enefebellɨmo dakaɨ (uaide) ''one finger (is marked) on the other hand'',[],,[],,False,Huitoto-Murui.htm,True,,2
+muru1274-7-1,,muru1274,7,da-be-kuiro emodo-mo mena-kaɨ,da-be-kuiro emodo-mo mena-kaɨ,[],(one-clf:leaf-clf:peel over-loc two-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-7-2,,muru1274,7,enefebellɨmo menakai,enefebellɨmo menakai,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-8-1,,muru1274,8,da-be-kuiro emodo-mo da-je aama-ni-kaɨ,da-be-kuiro emodo-mo da-je aama-ni-kaɨ,[],(one-clf:leaf-clf:peel over-loc one-clf:g   brother-privative-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-8-2,,muru1274,8,enefebellɨmo dakaɨ ámani,enefebellɨmo dakaɨ ámani,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-9-1,,muru1274,9,da-be-kuiro emodo-mo naga aama-ga-kaɨ,da-be-kuiro emodo-mo naga aama-ga-kaɨ,[],(one-clf:leaf-clf:peel over-loceach    brother-quantifier-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-9-2,,muru1274,9,enefebellɨmo naɡa ámaɡakai,enefebellɨmo naɡa ámaɡakai,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-10-1,,muru1274,10,naga-fe-be-kuiro,naga-fe-be-kuiro,[],(each-clf:side-clf:leaf-clf:peel),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-10-2,,muru1274,10,(onollɨ) naɡafebellɨ,(onollɨ) naɡafebellɨ,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-10-3,,muru1274,10,onollɨ naɡafebekuiro (uaide) '' both hands (are marked )'',onollɨ naɡafebekuiro (uaide) '' both hands (are marked )'',[],,[],,False,Huitoto-Murui.htm,True,,2
+muru1274-11-1,,muru1274,11,eɨ-yɨ-mo da-kaɨ,eɨ-yɨ-mo da-kaɨ,[],(foot-clf:bushy-loc one-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-11-2,,muru1274,11,eɨllɨmo dakaɨ (uaide) ''one toe on the foot'',eɨllɨmo dakaɨ (uaide) ''one toe on the foot'',[],,[],,False,Huitoto-Murui.htm,True,,2
+muru1274-12-1,,muru1274,12,eɨ-yɨ-mo mena-kaɨ,eɨ-yɨ-mo mena-kaɨ,[],(foot-clf:bushy-loc two-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-12-2,,muru1274,12,eɨllɨmo menakaɨ,eɨllɨmo menakaɨ,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-13-1,,muru1274,13,eɨ-yɨ-moda-je aama-ni-kaɨ,eɨ-yɨ-moda-je aama-ni-kaɨ,[],(foot-clf:bushy-locone-clf:g brother-privative-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-13-2,,muru1274,13,eɨllɨmo ámanikaɨ,eɨllɨmo ámanikaɨ,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-14-1,,muru1274,14,eɨ-yɨ-monaga aama-ga-kaɨ,eɨ-yɨ-monaga aama-ga-kaɨ,[],(foot-clf:bushy-loceach brother-quantifier-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-14-2,,muru1274,14,eɨllɨmo naɡa ámaɡakaɨ,eɨllɨmo naɡa ámaɡakaɨ,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-15-1,,muru1274,15,ei-yɨ da-fe-be-kuiro,ei-yɨ da-fe-be-kuiro,[],(foot-clf:bushy one-clf:side-clf:leaf-clf:peel),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-15-2,,muru1274,15,eɨllɨ dabekuiro ''one (whole) foot'',eɨllɨ dabekuiro ''one (whole) foot'',[],,[],,False,Huitoto-Murui.htm,True,,2
+muru1274-16-1,,muru1274,16,eɨ-yɨ ene-fe-be-mo da-kaɨ,eɨ-yɨ ene-fe-be-mo da-kaɨ,[],(foot-clf:bushy  reverse-clf:side-clf:leaf-loc one-      clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-16-2,,muru1274,16,onollɨ naɡafebellɨ fuite,onollɨ naɡafebellɨ fuite,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-16-3,,muru1274,16,eɨllɨ dabellɨ enefebellɨmo dakaɨ,eɨllɨ dabellɨ enefebellɨmo dakaɨ,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-17-1,,muru1274,17,eɨ-yɨ ene-fe-be-mo mena-kaɨ,eɨ-yɨ ene-fe-be-mo mena-kaɨ,[],(foot-clf:bushy  reverse-clf:side-clf:leaf-loc two-      clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-17-2,,muru1274,17,onollɨ naɡafebellɨ fuite,onollɨ naɡafebellɨ fuite,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-17-3,,muru1274,17,eɨllɨ dabellɨ enefebellɨmo menakaɨ,eɨllɨ dabellɨ enefebellɨmo menakaɨ,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-18-1,,muru1274,18,eɨ-yɨ ene-fe-be-mo da-je aama-ni-kaɨ,eɨ-yɨ ene-fe-be-mo da-je aama-ni-kaɨ,[],(foot-clf:bushy  reverse-clf:side-clf:leaf-loc     one-clf:gbrother-privative-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-18-2,,muru1274,18,onollɨ naɡafebellɨ fuite,onollɨ naɡafebellɨ fuite,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-18-3,,muru1274,18,eɨllɨ dabellɨ enefebellɨmo ámanikaɨ,eɨllɨ dabellɨ enefebellɨmo ámanikaɨ,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-19-1,,muru1274,19,eɨ-yɨ ene-fe-be-mo naga aama-ga-kaɨ,eɨ-yɨ ene-fe-be-mo naga aama-ga-kaɨ,[],(foot-clf:bushy  reverse-clf:side-clf:leaf-loc      eachbrother-quantifier-clf:stem),[],,False,Huitoto-Murui.htm,False,,1
+muru1274-19-2,,muru1274,19,onollɨ naɡafebellɨ fuite,onollɨ naɡafebellɨ fuite,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-19-3,,muru1274,19,eɨllɨ dabellɨ enefebellɨmo naɡa ámaɡakaɨkaɨ,eɨllɨ dabellɨ enefebellɨmo naɡa ámaɡakaɨkaɨ,[],(uaide),[],,False,Huitoto-Murui.htm,False,,2
+muru1274-20-1,,muru1274,20,eɨ-yɨ naga-fe-be-yɨ (foot-clf:bushyeach-clf:side-clf:leaf-clf:bushy) or naga-be-kuiro emodo-mo mena-kuiro (each-clf:side-clf:leaf-clf:peelover-loc two-clf:peel).,eɨ-yɨ naga-fe-be-yɨ (foot-clf:bushyeach-clf:side-clf:leaf-clf:bushy) or naga-be-kuiro emodo-mo mena-kuiro (each-clf:side-clf:leaf-clf:peelover-loc two-clf:peel).,[],,[],,False,Huitoto-Murui.htm,True,,1
+muru1274-20-2,,muru1274,20,onollɨ naɡafebellɨ fuite,onollɨ naɡafebellɨ fuite,[],,[],,False,Huitoto-Murui.htm,False,,2
+muru1274-20-3,,muru1274,20,onollɨ naɡafebellɨ hɨaì fuite,onollɨ naɡafebellɨ hɨaì fuite,[],,[],,False,Huitoto-Murui.htm,False,,2

@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kana1291-1-1,,kana1291,1,ikik,ikik,[],,[],,False,Kanamari.htm,False,,1
+kana1291-2-1,,kana1291,2,obowa,obowa,[],,[],,False,Kanamari.htm,False,,1
+kana1291-3-1,,kana1291,3,ikik obowa hokatu,ikik obowa hokatu,[],( one plus two ),[],,False,Kanamari.htm,False,,1
+kana1291-4-1,,kana1291,4,obowa obowa hokatu,obowa obowa hokatu,[],( two plus two ),[],,False,Kanamari.htm,False,,1
+kana1291-5-1,,kana1291,5,ba ikik,ba ikik,[],( lit: 'one hand' ),[],,False,Kanamari.htm,False,,1
+kana1291-6-1,,kana1291,6,ba ikik ikik hokatu,ba ikik ikik hokatu,[],( lit: 'one hand plus one' ),[],,False,Kanamari.htm,False,,1
+kana1291-7-1,,kana1291,7,ba ikik obowa hokatu,ba ikik obowa hokatu,[],( lit: 'one hand plus two' ),[],,False,Kanamari.htm,False,,1
+kana1291-8-1,,kana1291,8,ba ikik ikik obowa hokatu,ba ikik ikik obowa hokatu,[],( lit: ' one hand plus two plus one plus two' ),[],,False,Kanamari.htm,False,,1
+kana1291-9-1,,kana1291,9,ba ikik obowa obowa hokatu,ba ikik obowa obowa hokatu,[],( lit: 'one hand plus two plus two plus two' ),[],,False,Kanamari.htm,False,,1
+kana1291-10-1,,kana1291,10,ba obowa,ba obowa,[],( lit: 'two hands' ),[],,False,Kanamari.htm,False,,1

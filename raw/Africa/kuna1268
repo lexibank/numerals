@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kuna1268-1-1,,kuna1268,1,élla,élla,[],,[],,False,Kunama.htm,False,,1
+kuna1268-1-2,,kuna1268,1,ēlláá,ēlláá,[],,[],,False,Kunama.htm,False,,2
+kuna1268-2-1,,kuna1268,2,barè,barè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-2-2,,kuna1268,2,bāārè,bāārè,[],,[],,False,Kunama.htm,False,,2
+kuna1268-3-1,,kuna1268,3,sāttê,sāttê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-3-2,,kuna1268,3,sāttēē,sāttēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-4-1,,kuna1268,4,sàllè,sàllè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-4-2,,kuna1268,4,sāllēē,sāllēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-5-1,,kuna1268,5,kūssúmè,kūssúmè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-5-2,,kuna1268,5,kūssūmè,kūssūmè,[],,[],,False,Kunama.htm,False,,2
+kuna1268-6-1,,kuna1268,6,kōntállê,kōntállê,[],( 5 + 1 ),[],,False,Kunama.htm,False,,1
+kuna1268-6-2,,kuna1268,6,kōntállè,kōntállè,[],( 5 + 1 ),[],,False,Kunama.htm,False,,2
+kuna1268-7-1,,kuna1268,7,kōntábáárè,kōntábáárè,[],( 5 + 2 ),[],,False,Kunama.htm,False,,1
+kuna1268-7-2,,kuna1268,7,kōntábáarè,kōntábáarè,[],( 5 + 2 ),[],,False,Kunama.htm,False,,2
+kuna1268-8-1,,kuna1268,8,kōnsàttê,kōnsàttê,[],( 5 + 3 ),[],,False,Kunama.htm,False,,1
+kuna1268-8-2,,kuna1268,8,kōntásàttēē,kōntásàttēē,[],( 5 + 3 ),[],,False,Kunama.htm,False,,2
+kuna1268-9-1,,kuna1268,9,éldawdè,éldawdè,[],( litː 'ˈone less than ten''),[],,False,Kunama.htm,False,,1
+kuna1268-9-2,,kuna1268,9,ēllidáùdāā,ēllidáùdāā,[],( ˈone less than ten '),[],,False,Kunama.htm,False,,2
+kuna1268-10-1,,kuna1268,10,ʃěbè,ʃěbè,[],( ʃ = š),[],,False,Kunama.htm,False,,1
+kuna1268-10-2,,kuna1268,10,ʃēēbà,ʃēēbà,[],,[],,False,Kunama.htm,False,,2
+kuna1268-11-1,,kuna1268,11,ʃěbnáàlà élla,ʃěbnáàlà élla,[],,[],,False,Kunama.htm,False,,1
+kuna1268-11-2,,kuna1268,11,ʃēb-ānáálà ēlláá,ʃēb-ānáálà ēlláá,[],,[],,False,Kunama.htm,False,,2
+kuna1268-12-1,,kuna1268,12,ʃěbnáàlà barè,ʃěbnáàlà barè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-12-2,,kuna1268,12,ʃēb-ānáálà bāāre,ʃēb-ānáálà bāāre,[],,[],,False,Kunama.htm,False,,2
+kuna1268-13-1,,kuna1268,13,ʃěbnáàlà sāttê,ʃěbnáàlà sāttê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-13-2,,kuna1268,13,ʃēb-ānáálà sāttēē,ʃēb-ānáálà sāttēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-14-1,,kuna1268,14,ʃěbnáàlà sàllè,ʃěbnáàlà sàllè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-14-2,,kuna1268,14,ʃēb-ānáálà sāllēē,ʃēb-ānáálà sāllēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-15-1,,kuna1268,15,ʃěbnáàlà kūssúmè,ʃěbnáàlà kūssúmè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-15-2,,kuna1268,15,ʃēb-ānáálà kūssūmè,ʃēb-ānáálà kūssūmè,[],,[],,False,Kunama.htm,False,,2
+kuna1268-16-1,,kuna1268,16,ʃěbnáàlà kōntállê,ʃěbnáàlà kōntállê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-16-2,,kuna1268,16,ʃēb-ānáálà kōntálle,ʃēb-ānáálà kōntálle,[],,[],,False,Kunama.htm,False,,2
+kuna1268-17-1,,kuna1268,17,ʃěbnáàlà kōntábáárè,ʃěbnáàlà kōntábáárè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-17-2,,kuna1268,17,ʃēb-ānáálà kōntábáare,ʃēb-ānáálà kōntábáare,[],,[],,False,Kunama.htm,False,,2
+kuna1268-18-1,,kuna1268,18,ʃěbnáàlà kōnsàttê,ʃěbnáàlà kōnsàttê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-18-2,,kuna1268,18,ʃēb-ānáálà kōntásàttēe,ʃēb-ānáálà kōntásàttēe,[],,[],,False,Kunama.htm,False,,2
+kuna1268-19-1,,kuna1268,19,ʃěbnáàlà éldawdè,ʃěbnáàlà éldawdè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-19-2,,kuna1268,19,ʃēb-ānáálà ēllidáùdāā,ʃēb-ānáálà ēllidáùdāā,[],,[],,False,Kunama.htm,False,,2
+kuna1268-20-1,,kuna1268,20,ʃěbbáárè,ʃěbbáárè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-20-2,,kuna1268,20,ʃēb-báárè,ʃēb-báárè,[],,[],,False,Kunama.htm,False,,2
+kuna1268-21-1,,kuna1268,21,ʃěbbáárè élla,ʃěbbáárè élla,[],,[],,False,Kunama.htm,False,,1
+kuna1268-21-2,,kuna1268,21,ʃēb-báárè ēlláá,ʃēb-báárè ēlláá,[],,[],,False,Kunama.htm,False,,2
+kuna1268-22-1,,kuna1268,22,ʃěbbáárè barè,ʃěbbáárè barè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-22-2,,kuna1268,22,ʃēb-báárè bāāre,ʃēb-báárè bāāre,[],,[],,False,Kunama.htm,False,,2
+kuna1268-23-1,,kuna1268,23,ʃěbbáárè sāttê,ʃěbbáárè sāttê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-23-2,,kuna1268,23,ʃēb-báárè sāttēē,ʃēb-báárè sāttēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-24-1,,kuna1268,24,ʃěbbáárè sàllè,ʃěbbáárè sàllè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-24-2,,kuna1268,24,ʃēb-báárè sāllēē,ʃēb-báárè sāllēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-25-1,,kuna1268,25,ʃěbbáárè kūssúmè,ʃěbbáárè kūssúmè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-25-2,,kuna1268,25,ʃēb-báárè kūssūmè,ʃēb-báárè kūssūmè,[],,[],,False,Kunama.htm,False,,2
+kuna1268-26-1,,kuna1268,26,ʃěbbáárè kōntállê,ʃěbbáárè kōntállê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-26-2,,kuna1268,26,ʃēb-báárè kōntálle,ʃēb-báárè kōntálle,[],,[],,False,Kunama.htm,False,,2
+kuna1268-27-1,,kuna1268,27,ʃěbbáárè kōntábáárè,ʃěbbáárè kōntábáárè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-27-2,,kuna1268,27,ʃēb-báárè kōntábáare,ʃēb-báárè kōntábáare,[],,[],,False,Kunama.htm,False,,2
+kuna1268-28-1,,kuna1268,28,ʃěbbáárè kōnsàttê,ʃěbbáárè kōnsàttê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-28-2,,kuna1268,28,ʃēb-báárè kōntásàttēe,ʃēb-báárè kōntásàttēe,[],,[],,False,Kunama.htm,False,,2
+kuna1268-29-1,,kuna1268,29,ʃěbbáárè éldawdè,ʃěbbáárè éldawdè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-29-2,,kuna1268,29,ʃēb-báárè ēllidáùdāā,ʃēb-báárè ēllidáùdāā,[],,[],,False,Kunama.htm,False,,2
+kuna1268-30-1,,kuna1268,30,ʃěbsāttê,ʃěbsāttê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-30-2,,kuna1268,30,ʃēb-sāttēē,ʃēb-sāttēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-40-1,,kuna1268,40,ʃěbsàllè,ʃěbsàllè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-40-2,,kuna1268,40,ʃēb-sāllēē,ʃēb-sāllēē,[],,[],,False,Kunama.htm,False,,2
+kuna1268-50-1,,kuna1268,50,ʃěbkūssūmè,ʃěbkūssūmè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-50-2,,kuna1268,50,ʃēb-kūssūmè,ʃēb-kūssūmè,[],,[],,False,Kunama.htm,False,,2
+kuna1268-60-1,,kuna1268,60,ʃěbkōntállè,ʃěbkōntállè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-60-2,,kuna1268,60,ʃēb-kōntálle,ʃēb-kōntálle,[],,[],,False,Kunama.htm,False,,2
+kuna1268-70-1,,kuna1268,70,ʃěbkōntábáárè,ʃěbkōntábáárè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-70-2,,kuna1268,70,ʃēb-kōntábáare,ʃēb-kōntábáare,[],,[],,False,Kunama.htm,False,,2
+kuna1268-80-1,,kuna1268,80,ʃěbkōntásàttê,ʃěbkōntásàttê,[],,[],,False,Kunama.htm,False,,1
+kuna1268-80-2,,kuna1268,80,ʃēb-kōntásàttēe,ʃēb-kōntásàttēe,[],,[],,False,Kunama.htm,False,,2
+kuna1268-90-1,,kuna1268,90,ʃěbéldawdè,ʃěbéldawdè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-90-2,,kuna1268,90,ʃēb-ēllidáùdāā,ʃēb-ēllidáùdāā,[],,[],,False,Kunama.htm,False,,2
+kuna1268-100-1,,kuna1268,100,múja,múja,[],,[],,False,Kunama.htm,False,,1
+kuna1268-100-2,,kuna1268,100,mūjāā,mūjāā,[],,[],,False,Kunama.htm,False,,2
+kuna1268-100-3,,kuna1268,100,mūj-ēlláá,mūj-ēlláá,[],,[],,False,Kunama.htm,False,,2
+kuna1268-200-1,,kuna1268,200,mújê barè,mújê barè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-200-2,,kuna1268,200,muj-bāāre,muj-bāāre,[],,[],,False,Kunama.htm,False,,2
+kuna1268-1000-1,,kuna1268,1000,álùfā,álùfā,[],,[],,False,Kunama.htm,False,,1
+kuna1268-1000-2,,kuna1268,1000,ālūfāā,ālūfāā,[],,[],,False,Kunama.htm,False,,2
+kuna1268-2000-1,,kuna1268,2000,álùfe barè,álùfe barè,[],,[],,False,Kunama.htm,False,,1
+kuna1268-2000-2,,kuna1268,2000,ālūfāy bāāre,ālūfāy bāāre,[],,[],,False,Kunama.htm,False,,2

@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nzak1247-1-1,,nzak1247,1,kílī,kílī,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-1-2,,nzak1247,1,kílī,kílī,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-2-1,,nzak1247,2,īyō,īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-2-2,,nzak1247,2,ījō,ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-3-1,,nzak1247,3,ātā,ātā,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-3-2,,nzak1247,3,ātā,ātā,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-4-1,,nzak1247,4,ālù,ālù,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-4-2,,nzak1247,4,ālù,ālù,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-5-1,,nzak1247,5,ìsìbē,ìsìbē,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-5-2,,nzak1247,5,ìsìbē,ìsìbē,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-6-1,,nzak1247,6,ìsìbē-ālí-kílī,ìsìbē-ālí-kílī,[],( 5 + 1 ),[],,False,Nzakara.htm,False,,1
+nzak1247-6-2,,nzak1247,6,ìsìbē-ālí-kílī,ìsìbē-ālí-kílī,[],( 5 + 1 ),[],,False,Nzakara.htm,False,,2
+nzak1247-7-1,,nzak1247,7,ìsìbē-ālí-īyō,ìsìbē-ālí-īyō,[],( 5 + 2 ),[],,False,Nzakara.htm,False,,1
+nzak1247-7-2,,nzak1247,7,ìsìbē-ālí-ījō,ìsìbē-ālí-ījō,[],( 5 + 2 ),[],,False,Nzakara.htm,False,,2
+nzak1247-8-1,,nzak1247,8,ìsìbē-ālí-ātā,ìsìbē-ālí-ātā,[],( 5 + 3 ),[],,False,Nzakara.htm,False,,1
+nzak1247-8-2,,nzak1247,8,ìsìbē-ālí-ātā,ìsìbē-ālí-ātā,[],( 5 + 3 ),[],,False,Nzakara.htm,False,,2
+nzak1247-9-1,,nzak1247,9,ìsìbē-ālí-ālù,ìsìbē-ālí-ālù,[],( 5 + 4 ),[],,False,Nzakara.htm,False,,1
+nzak1247-9-2,,nzak1247,9,ìsìbē-ālí-ālù,ìsìbē-ālí-ālù,[],( 5 + 4 ),[],,False,Nzakara.htm,False,,2
+nzak1247-10-1,,nzak1247,10,ŋɡ͡bō,ŋɡ͡bō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-10-2,,nzak1247,10,ŋɡ͡bɔ̃̄,ŋɡ͡bɔ̃̄,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-11-1,,nzak1247,11,ŋɡ͡bō-ālí-kílī ( litː 'ten with one' )̄,ŋɡ͡bō-ālí-kílī ( litː 'ten with one' )̄,[],,[],,False,Nzakara.htm,True,,1
+nzak1247-11-2,,nzak1247,11,ŋɡ͡bɔ̃̄-ālí-kílī ( litː 'ten with one' )̄,ŋɡ͡bɔ̃̄-ālí-kílī ( litː 'ten with one' )̄,[],,[],,False,Nzakara.htm,True,,2
+nzak1247-12-1,,nzak1247,12,ŋɡ͡bō-ālí-īyō,ŋɡ͡bō-ālí-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-12-2,,nzak1247,12,ŋɡ͡bɔ̃̄-ālí-ījō,ŋɡ͡bɔ̃̄-ālí-ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-13-1,,nzak1247,13,ŋɡ͡bō-ālí-ātā,ŋɡ͡bō-ālí-ātā,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-13-2,,nzak1247,13,ŋɡ͡bɔ̃̄-ālí-ātā,ŋɡ͡bɔ̃̄-ālí-ātā,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-14-1,,nzak1247,14,ŋɡ͡bō-ālí-ālù,ŋɡ͡bō-ālí-ālù,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-14-2,,nzak1247,14,ŋɡ͡bɔ̃̄-ālí-ālù,ŋɡ͡bɔ̃̄-ālí-ālù,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-15-1,,nzak1247,15,ŋɡ͡bō-ālí-ìsìbē,ŋɡ͡bō-ālí-ìsìbē,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-15-2,,nzak1247,15,ŋɡ͡bɔ̃̄-ālí-ìsìbē,ŋɡ͡bɔ̃̄-ālí-ìsìbē,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-16-1,,nzak1247,16,ŋɡ͡bō-ālí-ìsìbē-ālí-kílī,ŋɡ͡bō-ālí-ìsìbē-ālí-kílī,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-16-2,,nzak1247,16,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-kílī,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-kílī,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-17-1,,nzak1247,17,ŋɡ͡bō-ālí-ìsìbē-ālí-īyō,ŋɡ͡bō-ālí-ìsìbē-ālí-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-17-2,,nzak1247,17,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-ījō,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-18-1,,nzak1247,18,ŋɡ͡bō-ālí-ìsìbē-ālí-ātā,ŋɡ͡bō-ālí-ìsìbē-ālí-ātā,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-18-2,,nzak1247,18,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-ātā,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-ātā,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-19-1,,nzak1247,19,ŋɡ͡bō-ālí-ìsìbē-ālí-ālù,ŋɡ͡bō-ālí-ìsìbē-ālí-ālù,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-19-2,,nzak1247,19,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-ālù,ŋɡ͡bɔ̃̄-ālí-ìsìbē-ālí-ālù,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-20-1,,nzak1247,20,ŋɡ͡bʉ́tʉ́-īyō,ŋɡ͡bʉ́tʉ́-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-20-2,,nzak1247,20,ŋɡ͡bʊ́tʊ́-ījō,ŋɡ͡bʊ́tʊ́-ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-21-1,,nzak1247,21,ŋɡ͡bʉ́tʉ́-īyō-ālí-kílī,ŋɡ͡bʉ́tʉ́-īyō-ālí-kílī,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-21-2,,nzak1247,21,ŋɡ͡bʊ́tʊ́-ījō-ālí-kílī,ŋɡ͡bʊ́tʊ́-ījō-ālí-kílī,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-22-1,,nzak1247,22,ŋɡ͡bʉ́tʉ́-īyō-ālí-īyō,ŋɡ͡bʉ́tʉ́-īyō-ālí-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-22-2,,nzak1247,22,ŋɡ͡bʊ́tʊ́-ījō-ālí-ījō,ŋɡ͡bʊ́tʊ́-ījō-ālí-ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-23-1,,nzak1247,23,ŋɡ͡bʉ́tʉ́-īyō-ālí-ātā,ŋɡ͡bʉ́tʉ́-īyō-ālí-ātā,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-23-2,,nzak1247,23,ŋɡ͡bʊ́tʊ́-ījō-ālí-ātā,ŋɡ͡bʊ́tʊ́-ījō-ālí-ātā,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-24-1,,nzak1247,24,ŋɡ͡bʉ́tʉ́-īyō-ālí-ālù,ŋɡ͡bʉ́tʉ́-īyō-ālí-ālù,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-24-2,,nzak1247,24,ŋɡ͡bʊ́tʊ́-ījō-ālí-ālù,ŋɡ͡bʊ́tʊ́-ījō-ālí-ālù,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-25-1,,nzak1247,25,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-25-2,,nzak1247,25,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-26-1,,nzak1247,26,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-kílī,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-kílī,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-26-2,,nzak1247,26,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-kílī,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-kílī,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-27-1,,nzak1247,27,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-īyō,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-27-2,,nzak1247,27,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-ījō,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-28-1,,nzak1247,28,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-ātā,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-ātā,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-28-2,,nzak1247,28,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-ātā,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-ātā,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-29-1,,nzak1247,29,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-ālù,ŋɡ͡bʉ́tʉ́-īyō-ālí-ìsìbē-ālí-ālù,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-29-2,,nzak1247,29,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-ālù,ŋɡ͡bʊ́tʊ́-ījō-ālí-ìsìbē-ālí-ālù,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-30-1,,nzak1247,30,ŋɡ͡bʉ́tʉ́-ātā,ŋɡ͡bʉ́tʉ́-ātā,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-30-2,,nzak1247,30,ŋɡ͡bʊ́tʊ́-ātā,ŋɡ͡bʊ́tʊ́-ātā,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-40-1,,nzak1247,40,ŋɡ͡bʉ́tʉ́-ālù,ŋɡ͡bʉ́tʉ́-ālù,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-40-2,,nzak1247,40,ŋɡ͡bʊ́tʊ́-ālù,ŋɡ͡bʊ́tʊ́-ālù,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-50-1,,nzak1247,50,ŋɡ͡bʉ́tʉ́-ìsìbē,ŋɡ͡bʉ́tʉ́-ìsìbē,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-50-2,,nzak1247,50,ŋɡ͡bʊ́tʊ́-ìsìbē,ŋɡ͡bʊ́tʊ́-ìsìbē,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-60-1,,nzak1247,60,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-kílī,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-kílī,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-60-2,,nzak1247,60,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-kílī,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-kílī,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-70-1,,nzak1247,70,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-īyō,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-70-2,,nzak1247,70,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-ījō,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-80-1,,nzak1247,80,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-ātā,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-ātā,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-80-2,,nzak1247,80,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-ātā,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-ātā,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-90-1,,nzak1247,90,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-ālù,ŋɡ͡bʉ́tʉ́-ìsìbē-ālí-ālù,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-90-2,,nzak1247,90,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-ālù,ŋɡ͡bʊ́tʊ́-ìsìbē-ālí-ālù,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-100-1,,nzak1247,100,ndɔ̄ŋɡ͡bʉ́-kílī,ndɔ̄ŋɡ͡bʉ́-kílī,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-100-2,,nzak1247,100,ndɔ̄ŋɡ͡bʊ́-kílī,ndɔ̄ŋɡ͡bʊ́-kílī,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-200-1,,nzak1247,200,ndɔ̄ŋɡ͡bʉ́-īyō,ndɔ̄ŋɡ͡bʉ́-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-200-2,,nzak1247,200,ndɔ̄ŋɡ͡bʊ́-ījō,ndɔ̄ŋɡ͡bʊ́-ījō,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-1000-1,,nzak1247,1000,sákì,sákì,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-1000-2,,nzak1247,1000,sākè,sākè,[],( < Sango ),[],,True,Nzakara.htm,False,,1
+nzak1247-1000-3,,nzak1247,1000,sákɪ̀,sákɪ̀,[],,[],,False,Nzakara.htm,False,,2
+nzak1247-2000-1,,nzak1247,2000,sákì-īyō,sákì-īyō,[],,[],,False,Nzakara.htm,False,,1
+nzak1247-2000-2,,nzak1247,2000,sákì-īō,sákì-īō,[],,[],,False,Nzakara.htm,False,,2

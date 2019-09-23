@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+shan1282-1-1,,shan1282,1,do,do,[],,[],,False,Shanga.htm,False,,1
+shan1282-2-1,,shan1282,2,ʍa,ʍa,[],,[],,False,Shanga.htm,False,,1
+shan1282-3-1,,shan1282,3,ʔà,ʔà,[],,[],,False,Shanga.htm,False,,1
+shan1282-4-1,,shan1282,4,ʃí,ʃí,[],,[],,False,Shanga.htm,False,,1
+shan1282-5-1,,shan1282,5,sɔ́ɔ,sɔ́ɔ,[],,[],,False,Shanga.htm,False,,1
+shan1282-6-1,,shan1282,6,sɔbodo,sɔbodo,[],( 5 + 1 ),[],,False,Shanga.htm,False,,1
+shan1282-7-1,,shan1282,7,sɔhia,sɔhia,[],( 5 + 2 ),[],,False,Shanga.htm,False,,1
+shan1282-8-1,,shan1282,8,sɔboʔà,sɔboʔà,[],( 5 + 3 ),[],,False,Shanga.htm,False,,1
+shan1282-9-1,,shan1282,9,sɔdoʃí,sɔdoʃí,[],( 5 + 4 ),[],,False,Shanga.htm,False,,1
+shan1282-10-1,,shan1282,10,wókòì,wókòì,[],,[],,False,Shanga.htm,False,,1
+shan1282-11-1,,shan1282,11,wókòì wodonizò,wókòì wodonizò,[],(litː 10 + 1 ),[],,False,Shanga.htm,False,,1
+shan1282-12-1,,shan1282,12,wókòì woʍaazò,wókòì woʍaazò,[],(litː 10 + 2 ),[],,False,Shanga.htm,False,,1
+shan1282-13-1,,shan1282,13,wókòì waʔàzò,wókòì waʔàzò,[],(litː 10 + 3 ),[],,False,Shanga.htm,False,,1
+shan1282-14-1,,shan1282,14,wókòì woʃízò,wókòì woʃízò,[],(litː 10 + 4 ),[],,False,Shanga.htm,False,,1
+shan1282-15-1,,shan1282,15,wókòì wosɔ́ɔ,wókòì wosɔ́ɔ,[],(litː 10 + 5 ),[],,False,Shanga.htm,False,,1
+shan1282-16-1,,shan1282,16,wókòì wosɔ́ɔ wodonizò,wókòì wosɔ́ɔ wodonizò,[],,[],,False,Shanga.htm,False,,1
+shan1282-17-1,,shan1282,17,wókòì wosɔ́ɔ woʍaazò,wókòì wosɔ́ɔ woʍaazò,[],,[],,False,Shanga.htm,False,,1
+shan1282-18-1,,shan1282,18,wókòì wosɔ́ɔ waʔàzò,wókòì wosɔ́ɔ waʔàzò,[],,[],,False,Shanga.htm,False,,1
+shan1282-19-1,,shan1282,19,wókòì wosɔ́ɔ woʃízò,wókòì wosɔ́ɔ woʃízò,[],,[],,False,Shanga.htm,False,,1
+shan1282-20-1,,shan1282,20,kado,kado,[],,[],,False,Shanga.htm,False,,1
+shan1282-21-1,,shan1282,21,kado wodonizò,kado wodonizò,[],,[],,False,Shanga.htm,False,,1
+shan1282-22-1,,shan1282,22,kado woʍaazò,kado woʍaazò,[],,[],,False,Shanga.htm,False,,1
+shan1282-23-1,,shan1282,23,kado waʔàzò,kado waʔàzò,[],,[],,False,Shanga.htm,False,,1
+shan1282-24-1,,shan1282,24,kado woʃízò,kado woʃízò,[],,[],,False,Shanga.htm,False,,1
+shan1282-25-1,,shan1282,25,kadowↄsɔ́ɔ,kadowↄsɔ́ɔ,[],,[],,False,Shanga.htm,False,,1
+shan1282-26-1,,shan1282,26,kadowosɔↄ wodonizò,kadowosɔↄ wodonizò,[],,[],,False,Shanga.htm,False,,1
+shan1282-27-1,,shan1282,27,kadowosɔɔ woʍaazò,kadowosɔɔ woʍaazò,[],,[],,False,Shanga.htm,False,,1
+shan1282-28-1,,shan1282,28,kadowosɔↄ woʔàzò,kadowosɔↄ woʔàzò,[],,[],,False,Shanga.htm,False,,1
+shan1282-29-1,,shan1282,29,kadowosɔↄ woʃízò,kadowosɔↄ woʃízò,[],,[],,False,Shanga.htm,False,,1
+shan1282-30-1,,shan1282,30,kadowókòì,kadowókòì,[],( 20 + 10 ),[],,False,Shanga.htm,False,,1
+shan1282-40-1,,shan1282,40,kaʍaa,kaʍaa,[],( 20 x 2 ),[],,False,Shanga.htm,False,,1
+shan1282-50-1,,shan1282,50,kaʍaawókòì,kaʍaawókòì,[],( 40 + 10 ),[],,False,Shanga.htm,False,,1
+shan1282-60-1,,shan1282,60,kaʔà,kaʔà,[],( 20 x 3 ),[],,False,Shanga.htm,False,,1
+shan1282-70-1,,shan1282,70,kaʔàwókòì,kaʔàwókòì,[],( 60 + 10 ),[],,False,Shanga.htm,False,,1
+shan1282-80-1,,shan1282,80,kaʃí,kaʃí,[],( 20 x 4 ),[],,False,Shanga.htm,False,,1
+shan1282-90-1,,shan1282,90,kaʃíwókòì,kaʃíwókòì,[],( 80 + 10 ),[],,False,Shanga.htm,False,,1
+shan1282-100-1,,shan1282,100,kasɔ́ɔ,kasɔ́ɔ,[],( 20 x 5 ),[],,False,Shanga.htm,False,,1
+shan1282-200-1,,shan1282,200,kasɔ́ɔ ʍaa,kasɔ́ɔ ʍaa,[],( 20 x 5 x 2 ),[],,False,Shanga.htm,False,,1
+shan1282-200-2,,shan1282,200,koi,koi,[],,[],,False,Shanga.htm,False,,1
+shan1282-1000-1,,shan1282,1000,kasↄ́ↄ wókòì,kasↄ́ↄ wókòì,[],,[],,False,Shanga.htm,False,,1
+shan1282-2000-1,,shan1282,2000,koi wókòì,koi wókòì,[],,[],,False,Shanga.htm,False,,1

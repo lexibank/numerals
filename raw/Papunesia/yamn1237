@@ -1,0 +1,15 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+yamn1237-1-1,,yamn1237,1,'tɛs,'tɛs,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-1-2,,yamn1237,1,tes,tes,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-2-1,,yamn1237,2,aru,aru,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-3-1,,yamn1237,3,tau,tau,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-4-1,,yamn1237,4,fau,fau,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-5-1,,yamn1237,5,rim,rim,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-5-2,,yamn1237,5,jim,jim,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-6-1,,yamn1237,6,rim 'tes,rim 'tes,[],( 5+1 ),[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-7-1,,yamn1237,7,rim ru,rim ru,[],( 5+2 ),[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-8-1,,yamn1237,8,rim tau,rim tau,[],( 5+3 ),[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-9-1,,yamn1237,9,rim fau,rim fau,[],( 5+4 ),[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-10-1,,yamn1237,10,rim rim,rim rim,[],( 5+5 ),[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-10-2,,yamn1237,10,ru'rim,ru'rim,[],,[],,False,Sunum-Yamna.htm,False,,1
+yamn1237-10-3,,yamn1237,10,sinafui,sinafui,[],,[],,False,Sunum-Yamna.htm,False,,1

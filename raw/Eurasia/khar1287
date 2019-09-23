@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+khar1287-1-1,,khar1287,1,mõɲ,mõɲ,[],,[],,False,Kharia.htm,False,,1
+khar1287-2-1,,khar1287,2,ubar,ubar,[],,[],,False,Kharia.htm,False,,1
+khar1287-3-1,,khar1287,3,uafe,uafe,[],,[],,False,Kharia.htm,False,,1
+khar1287-4-1,,khar1287,4,eafɔn,eafɔn,[],,[],,False,Kharia.htm,False,,1
+khar1287-5-1,,khar1287,5,mɔlɔy,mɔlɔy,[],,[],,False,Kharia.htm,False,,1
+khar1287-6-1,,khar1287,6,tibru,tibru,[],,[],,False,Kharia.htm,False,,1
+khar1287-7-1,,khar1287,7,tʰam,tʰam,[],,[],,False,Kharia.htm,False,,1
+khar1287-8-1,,khar1287,8,tʰɔm,tʰɔm,[],,[],,False,Kharia.htm,False,,1
+khar1287-9-1,,khar1287,9,tʰɔmsiŋ,tʰɔmsiŋ,[],,[],,False,Kharia.htm,False,,1
+khar1287-10-1,,khar1287,10,gʰɔl,gʰɔl,[],,[],,False,Kharia.htm,False,,1
+khar1287-11-1,,khar1287,11,gʰɔl mõɲ,gʰɔl mõɲ,[],,[],,False,Kharia.htm,False,,1
+khar1287-12-1,,khar1287,12,gʰɔl ubar,gʰɔl ubar,[],,[],,False,Kharia.htm,False,,1
+khar1287-13-1,,khar1287,13,gʰɔl uafe,gʰɔl uafe,[],,[],,False,Kharia.htm,False,,1
+khar1287-14-1,,khar1287,14,gʰɔl eafɔn,gʰɔl eafɔn,[],,[],,False,Kharia.htm,False,,1
+khar1287-15-1,,khar1287,15,gʰɔl mɔlɔy,gʰɔl mɔlɔy,[],,[],,False,Kharia.htm,False,,1
+khar1287-16-1,,khar1287,16,gʰɔl tibru,gʰɔl tibru,[],,[],,False,Kharia.htm,False,,1
+khar1287-17-1,,khar1287,17,gʰɔl tʰam,gʰɔl tʰam,[],,[],,False,Kharia.htm,False,,1
+khar1287-18-1,,khar1287,18,gʰɔl tʰɔm,gʰɔl tʰɔm,[],,[],,False,Kharia.htm,False,,1
+khar1287-19-1,,khar1287,19,gʰɔl tʰɔmsiŋ,gʰɔl tʰɔmsiŋ,[],,[],,False,Kharia.htm,False,,1
+khar1287-20-1,,khar1287,20,ekri,ekri,[],,[],,False,Kharia.htm,False,,1
+khar1287-20-2,,khar1287,20,biːs,biːs,[],< Indo-Aryan ,[],,True,Kharia.htm,False,,1
+khar1287-21-1,,khar1287,21,ekri mõɲ,ekri mõɲ,[],,[],,False,Kharia.htm,False,,1
+khar1287-22-1,,khar1287,22,ekri ubar,ekri ubar,[],,[],,False,Kharia.htm,False,,1
+khar1287-23-1,,khar1287,23,ekri uafe,ekri uafe,[],,[],,False,Kharia.htm,False,,1
+khar1287-24-1,,khar1287,24,ekri eafɔn,ekri eafɔn,[],,[],,False,Kharia.htm,False,,1
+khar1287-25-1,,khar1287,25,ekri mɔlɔy,ekri mɔlɔy,[],,[],,False,Kharia.htm,False,,1
+khar1287-26-1,,khar1287,26,ekri tibru,ekri tibru,[],,[],,False,Kharia.htm,False,,1
+khar1287-27-1,,khar1287,27,ekri tʰam,ekri tʰam,[],,[],,False,Kharia.htm,False,,1
+khar1287-28-1,,khar1287,28,ekri tʰɔm,ekri tʰɔm,[],,[],,False,Kharia.htm,False,,1
+khar1287-29-1,,khar1287,29,ekri tʰɔmsiŋ,ekri tʰɔmsiŋ,[],,[],,False,Kharia.htm,False,,1
+khar1287-30-1,,khar1287,30,ekri gʰɔl,ekri gʰɔl,[],,[],,False,Kharia.htm,False,,1
+khar1287-40-1,,khar1287,40,ubar ekri,ubar ekri,[],,[],,False,Kharia.htm,False,,1
+khar1287-50-1,,khar1287,50,ubar ekri gʰɔl,ubar ekri gʰɔl,[],,[],,False,Kharia.htm,False,,1
+khar1287-60-1,,khar1287,60,uafe ekri,uafe ekri,[],,[],,False,Kharia.htm,False,,1
+khar1287-70-1,,khar1287,70,uafe ekri gʰɔl,uafe ekri gʰɔl,[],,[],,False,Kharia.htm,False,,1
+khar1287-80-1,,khar1287,80,eafɔn ekri,eafɔn ekri,[],,[],,False,Kharia.htm,False,,1
+khar1287-90-1,,khar1287,90,eafɔn ekri gʰɔl,eafɔn ekri gʰɔl,[],,[],,False,Kharia.htm,False,,1
+khar1287-100-1,,khar1287,100,say,say,[],< Indo-Aryan ,[],,True,Kharia.htm,False,,1
+khar1287-200-1,,khar1287,200,ubar say,ubar say,[],,[],,False,Kharia.htm,False,,1
+khar1287-1000-1,,khar1287,1000,mõɲ had͡ʒaɾ,mõɲ had͡ʒaɾ,[],< Indo-Aryan ,[],,True,Kharia.htm,False,,1
+khar1287-2000-1,,khar1287,2000,ubar had͡ʒaɾ,ubar had͡ʒaɾ,[],,[],,False,Kharia.htm,False,,1

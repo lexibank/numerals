@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nyin1250-1-1,,nyin1250,1,ari,ari,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-2-1,,nyin1250,2,la-uh,la-uh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-3-1,,nyin1250,3,taloh,taloh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-4-1,,nyin1250,4,hahuw,hahuw,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-5-1,,nyin1250,5,limeh,limeh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-6-1,,nyin1250,6,onoh,onoh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-7-1,,nyin1250,7,ndro taloh,ndro taloh,[],( 10 - 3 ),[],,False,Nyindrou.htm,False,,1
+nyin1250-8-1,,nyin1250,8,ndro la-uh,ndro la-uh,[],( 10 - 2 ),[],,False,Nyindrou.htm,False,,1
+nyin1250-9-1,,nyin1250,9,ndro ari,ndro ari,[],( 10 - 1 ),[],,False,Nyindrou.htm,False,,1
+nyin1250-10-1,,nyin1250,10,ronoh,ronoh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-11-1,,nyin1250,11,ronoh ari,ronoh ari,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-12-1,,nyin1250,12,ronoh la-uh,ronoh la-uh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-13-1,,nyin1250,13,ronoh taloh,ronoh taloh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-14-1,,nyin1250,14,ronoh hahuw,ronoh hahuw,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-15-1,,nyin1250,15,ronoh limeh,ronoh limeh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-16-1,,nyin1250,16,ronoh onoh,ronoh onoh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-17-1,,nyin1250,17,ronoh ndro taloh,ronoh ndro taloh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-18-1,,nyin1250,18,ronoh ndro la-uh,ronoh ndro la-uh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-19-1,,nyin1250,19,lunoh ndro ari,lunoh ndro ari,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-20-1,,nyin1250,20,luŋui,luŋui,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-21-1,,nyin1250,21,lunoh ari,lunoh ari,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-22-1,,nyin1250,22,lunoh la-uh,lunoh la-uh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-23-1,,nyin1250,23,lunoh taloh,lunoh taloh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-24-1,,nyin1250,24,lunoh hahuw,lunoh hahuw,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-25-1,,nyin1250,25,lunoh limeh,lunoh limeh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-26-1,,nyin1250,26,lunoh onoh,lunoh onoh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-27-1,,nyin1250,27,lunoh ndro taloh,lunoh ndro taloh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-28-1,,nyin1250,28,lunoh ndro la-uh,lunoh ndro la-uh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-29-1,,nyin1250,29,lunoh ndro ari,lunoh ndro ari,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-30-1,,nyin1250,30,tonoh,tonoh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-40-1,,nyin1250,40,hanoh,hanoh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-50-1,,nyin1250,50,lomonoh,lomonoh,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-60-1,,nyin1250,60,ndro hanoh,ndro hanoh,[],( 100 - 40 ),[],,False,Nyindrou.htm,False,,1
+nyin1250-70-1,,nyin1250,70,ndro tonoh,ndro tonoh,[],( 100 - 30 ),[],,False,Nyindrou.htm,False,,1
+nyin1250-80-1,,nyin1250,80,ndro lunoh,ndro lunoh,[],( 100 - 20 ),[],,False,Nyindrou.htm,False,,1
+nyin1250-90-1,,nyin1250,90,ndro ronoh,ndro ronoh,[],( 100 - 10 ),[],,False,Nyindrou.htm,False,,1
+nyin1250-100-1,,nyin1250,100,rinek,rinek,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-200-1,,nyin1250,200,lunek,lunek,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-1000-1,,nyin1250,1000,rawa,rawa,[],,[],,False,Nyindrou.htm,False,,1
+nyin1250-2000-1,,nyin1250,2000,luwa,luwa,[],,[],,False,Nyindrou.htm,False,,1

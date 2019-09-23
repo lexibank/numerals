@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kura1250-1-1,,kura1250,1,kelen,kelen,[],,[],,False,Kuranko.htm,False,,1
+kura1250-2-1,,kura1250,2,fila,fila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-3-1,,kura1250,3,sawa,sawa,[],,[],,False,Kuranko.htm,False,,1
+kura1250-3-2,,kura1250,3,saba,saba,[],,[],,False,Kuranko.htm,False,,1
+kura1250-4-1,,kura1250,4,nani,nani,[],,[],,False,Kuranko.htm,False,,1
+kura1250-5-1,,kura1250,5,loli,loli,[],,[],,False,Kuranko.htm,False,,1
+kura1250-6-1,,kura1250,6,wɔrɔ,wɔrɔ,[],,[],,False,Kuranko.htm,False,,1
+kura1250-7-1,,kura1250,7,wɔrɔnfila,wɔrɔnfila,[],( 6 + 1 ) ?,[],,False,Kuranko.htm,False,,1
+kura1250-8-1,,kura1250,8,seɡin,seɡin,[],,[],,False,Kuranko.htm,False,,1
+kura1250-9-1,,kura1250,9,kɔnɔnt,kɔnɔnt,[],,[],,False,Kuranko.htm,False,,1
+kura1250-10-1,,kura1250,10,tan,tan,[],,[],,False,Kuranko.htm,False,,1
+kura1250-11-1,,kura1250,11,tan ni kelen,tan ni kelen,[],,[],,False,Kuranko.htm,False,,1
+kura1250-12-1,,kura1250,12,tan ni fila,tan ni fila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-13-1,,kura1250,13,tan ni sawa,tan ni sawa,[],,[],,False,Kuranko.htm,False,,1
+kura1250-14-1,,kura1250,14,tan ni nani,tan ni nani,[],,[],,False,Kuranko.htm,False,,1
+kura1250-15-1,,kura1250,15,tan ni loli,tan ni loli,[],,[],,False,Kuranko.htm,False,,1
+kura1250-16-1,,kura1250,16,tan ni wɔrɔ,tan ni wɔrɔ,[],,[],,False,Kuranko.htm,False,,1
+kura1250-17-1,,kura1250,17,tan ni wɔrɔnfila,tan ni wɔrɔnfila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-18-1,,kura1250,18,tan ni seɡin,tan ni seɡin,[],,[],,False,Kuranko.htm,False,,1
+kura1250-19-1,,kura1250,19,tan ni kɔnɔnt,tan ni kɔnɔnt,[],,[],,False,Kuranko.htm,False,,1
+kura1250-20-1,,kura1250,20,moɡan,moɡan,[],,[],,False,Kuranko.htm,False,,1
+kura1250-21-1,,kura1250,21,moɡan ni kelen,moɡan ni kelen,[],,[],,False,Kuranko.htm,False,,1
+kura1250-22-1,,kura1250,22,moɡan ni fila,moɡan ni fila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-23-1,,kura1250,23,moɡan ni sawa,moɡan ni sawa,[],,[],,False,Kuranko.htm,False,,1
+kura1250-24-1,,kura1250,24,moɡan ni nani,moɡan ni nani,[],,[],,False,Kuranko.htm,False,,1
+kura1250-25-1,,kura1250,25,moɡan ni loli,moɡan ni loli,[],,[],,False,Kuranko.htm,False,,1
+kura1250-26-1,,kura1250,26,moɡan ni wɔrɔ,moɡan ni wɔrɔ,[],,[],,False,Kuranko.htm,False,,1
+kura1250-27-1,,kura1250,27,moɡan ni wɔrɔnfila,moɡan ni wɔrɔnfila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-28-1,,kura1250,28,moɡan ni seɡin,moɡan ni seɡin,[],,[],,False,Kuranko.htm,False,,1
+kura1250-29-1,,kura1250,29,moɡan ni kɔnɔnt,moɡan ni kɔnɔnt,[],,[],,False,Kuranko.htm,False,,1
+kura1250-30-1,,kura1250,30,bi-sawa,bi-sawa,[],,[],,False,Kuranko.htm,False,,1
+kura1250-30-2,,kura1250,30,bi-saba,bi-saba,[],,[],,False,Kuranko.htm,False,,1
+kura1250-40-1,,kura1250,40,bi-nani,bi-nani,[],,[],,False,Kuranko.htm,False,,1
+kura1250-50-1,,kura1250,50,bi-loli,bi-loli,[],,[],,False,Kuranko.htm,False,,1
+kura1250-60-1,,kura1250,60,bi-wɔrɔ,bi-wɔrɔ,[],,[],,False,Kuranko.htm,False,,1
+kura1250-70-1,,kura1250,70,bi-wɔrɔnfila,bi-wɔrɔnfila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-80-1,,kura1250,80,bi-seɡin,bi-seɡin,[],,[],,False,Kuranko.htm,False,,1
+kura1250-90-1,,kura1250,90,bi-kɔnɔnt,bi-kɔnɔnt,[],,[],,False,Kuranko.htm,False,,1
+kura1250-100-1,,kura1250,100,kɛmɛ,kɛmɛ,[],,[],,False,Kuranko.htm,False,,1
+kura1250-200-1,,kura1250,200,kɛmɛ fila,kɛmɛ fila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-1000-1,,kura1250,1000,waɡa,waɡa,[],,[],,False,Kuranko.htm,False,,1
+kura1250-2000-1,,kura1250,2000,waɡa fila,waɡa fila,[],,[],,False,Kuranko.htm,False,,1
+kura1250-2000-2,,kura1250,2000,wa'a fila,wa'a fila,[],,[],,False,Kuranko.htm,False,,1

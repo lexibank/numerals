@@ -1,0 +1,30 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tifa1245-1-1,,tifa1245,1,makop,makop,[],(litː ' left little finger'),[],,False,Tifal.htm,False,,1
+tifa1245-2-1,,tifa1245,2,alep,alep,[],(litː 'ring finger'),[],,False,Tifal.htm,False,,1
+tifa1245-3-1,,tifa1245,3,asumano,asumano,[],(litː 'middle finger'),[],,False,Tifal.htm,False,,1
+tifa1245-4-1,,tifa1245,4,atailingkal,atailingkal,[],( litː 'index finger'),[],,False,Tifal.htm,False,,1
+tifa1245-5-1,,tifa1245,5,awakal litː 'thumb' ),awakal litː 'thumb' ),[],,[],,False,Tifal.htm,True,,1
+tifa1245-6-1,,tifa1245,6,bukupkal,bukupkal,[],( litː 'wrist' ),[],,False,Tifal.htm,False,,1
+tifa1245-7-1,,tifa1245,7,fetkal,fetkal,[],(litː 'lower arm'),[],,False,Tifal.htm,False,,1
+tifa1245-8-1,,tifa1245,8,oklungkal,oklungkal,[],(litː 'elbow'),[],,False,Tifal.htm,False,,1
+tifa1245-9-1,,tifa1245,9,betikal,betikal,[],( litː 'upper arm' ),[],,False,Tifal.htm,False,,1
+tifa1245-10-1,,tifa1245,10,nakalkal,nakalkal,[],( litː 'shoulder' ),[],,False,Tifal.htm,False,,1
+tifa1245-11-1,,tifa1245,11,kumkal,kumkal,[],( 'neck' ),[],,False,Tifal.htm,False,,1
+tifa1245-12-1,,tifa1245,12,talangkal,talangkal,[],( litː 'ear' ),[],,False,Tifal.htm,False,,1
+tifa1245-13-1,,tifa1245,13,tiinkal,tiinkal,[],( litː 'eye' ),[],,False,Tifal.htm,False,,1
+tifa1245-14-1,,tifa1245,14,miilt,miilt,[],,[],,False,Tifal.htm,False,,1
+tifa1245-14-2,,tifa1245,14,mutum,mutum,[],( litː 'nose'),[],,False,Tifal.htm,False,,1
+tifa1245-15-1,,tifa1245,15,tiin madi,tiin madi,[],(litː 'right eye'),[],,False,Tifal.htm,False,,1
+tifa1245-16-1,,tifa1245,16,taliang mali foko foko,taliang mali foko foko,[],('right ear'),[],,False,Tifal.htm,False,,1
+tifa1245-17-1,,tifa1245,17,kum mali foko,kum mali foko,[],(litː 'right neck'),[],,False,Tifal.htm,False,,1
+tifa1245-18-1,,tifa1245,18,nakal mali foko,nakal mali foko,[],(litː 'right shoulder'),[],,False,Tifal.htm,False,,1
+tifa1245-19-1,,tifa1245,19,beti mali foko,beti mali foko,[],('right upper arm'),[],,False,Tifal.htm,False,,1
+tifa1245-20-1,,tifa1245,20,oklung mali foko,oklung mali foko,[],('right wrist'),[],,False,Tifal.htm,False,,1
+tifa1245-21-1,,tifa1245,21,fet mali foko,fet mali foko,[],('right lower arm'),[],,False,Tifal.htm,False,,1
+tifa1245-22-1,,tifa1245,22,bukup mali foko,bukup mali foko,[],('right wrist'),[],,False,Tifal.htm,False,,1
+tifa1245-23-1,,tifa1245,23,awak mali foko,awak mali foko,[],('right thumb'),[],,False,Tifal.htm,False,,1
+tifa1245-24-1,,tifa1245,24,atailing mali foko,atailing mali foko,[],('right index finger'),[],,False,Tifal.htm,False,,1
+tifa1245-25-1,,tifa1245,25,asumano mali,asumano mali,[],('right middle finger'),[],,False,Tifal.htm,False,,1
+tifa1245-26-1,,tifa1245,26,alep mali foko,alep mali foko,[],('right ringer finger'),[],,False,Tifal.htm,False,,1
+tifa1245-27-1,,tifa1245,27,makop madi,makop madi,[],('right little finger'),[],,False,Tifal.htm,False,,1
+tifa1245-28-1,,tifa1245,28,deng,deng,[],,[],,False,Tifal.htm,False,,1

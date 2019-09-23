@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+koko1265-1-1,,koko1265,1,onasia,onasia,[],,[],,False,Kokoda.htm,False,,1
+koko1265-1-2,,koko1265,1,mutu,mutu,[],,[],,False,Konda.htm,False,,1
+koko1265-2-1,,koko1265,2,oɡia,oɡia,[],,[],,False,Kokoda.htm,False,,1
+koko1265-2-2,,koko1265,2,iɾe'ɡe,iɾe'ɡe,[],,[],,False,Konda.htm,False,,1
+koko1265-3-1,,koko1265,3,aɾia,aɾia,[],,[],,False,Kokoda.htm,False,,1
+koko1265-3-2,,koko1265,3,odɾioɾɡe,odɾioɾɡe,[],,[],,False,Konda.htm,False,,1
+koko1265-4-1,,koko1265,4,hidasa,hidasa,[],,[],,False,Kokoda.htm,False,,1
+koko1265-4-2,,koko1265,4,ɑdeŋɡo'se,ɑdeŋɡo'se,[],,[],,False,Konda.htm,False,,1
+koko1265-5-1,,koko1265,5,yoboɾaɾaɡaneɾa,yoboɾaɾaɡaneɾa,[],,[],,False,Kokoda.htm,False,,1
+koko1265-5-2,,koko1265,5,deɾebuye'ri,deɾebuye'ri,[],,[],,False,Konda.htm,False,,1
+koko1265-6-1,,koko1265,6,yoboɾaɾaɡane eketo onasia,yoboɾaɾaɡane eketo onasia,[],( 5 + 1 ),[],,False,Kokoda.htm,False,,1
+koko1265-6-2,,koko1265,6,ɑdenɑmu mu'tu,ɑdenɑmu mu'tu,[],( 5 + 1 ),[],,False,Konda.htm,False,,1
+koko1265-7-1,,koko1265,7,yoboɾaɾaɡane eketo oɡia,yoboɾaɾaɡane eketo oɡia,[],( 5 + 2 ),[],,False,Kokoda.htm,False,,1
+koko1265-7-2,,koko1265,7,ɑdenɑmu iɾe'ɡe,ɑdenɑmu iɾe'ɡe,[],( 5 + 2 ),[],,False,Konda.htm,False,,1
+koko1265-8-1,,koko1265,8,yoboɾaɾaɡane eketo aɾia,yoboɾaɾaɡane eketo aɾia,[],( 5 + 3 ),[],,False,Kokoda.htm,False,,1
+koko1265-8-2,,koko1265,8,ɑdenɑmu oɾioɾ'ɡe,ɑdenɑmu oɾioɾ'ɡe,[],( 5 + 3 ),[],,False,Konda.htm,False,,1
+koko1265-9-1,,koko1265,9,yoboɾaɾaɡane eketo hidasa,yoboɾaɾaɡane eketo hidasa,[],( 5 + 4 ),[],,False,Kokoda.htm,False,,1
+koko1265-9-2,,koko1265,9,ɑdenɑmu ɑdeŋɡo'šieɾ,ɑdenɑmu ɑdeŋɡo'šieɾ,[],( 5 + 4 ),[],,False,Konda.htm,False,,1
+koko1265-10-1,,koko1265,10,tobusia,tobusia,[],,[],,False,Kokoda.htm,False,,1
+koko1265-10-2,,koko1265,10,deɾebɾe'ɡe,deɾebɾe'ɡe,[],( 2 x 5 ),[],,False,Konda.htm,False,,1

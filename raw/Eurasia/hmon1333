@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+hmon1333-1-1,,hmon1333,1,i55,i55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-1-2,,hmon1333,1,ʔi55,ʔi55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-2-1,,hmon1333,2,ɔ55,ɔ55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-2-2,,hmon1333,2,ʔɑu55,ʔɑu55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-3-1,,hmon1333,3,pe55,pe55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-3-2,,hmon1333,3,pei55,pei55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-4-1,,hmon1333,4,plau55,plau55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-4-2,,hmon1333,4,plou55,plou55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-5-1,,hmon1333,5,tʂi55,tʂi55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-5-2,,hmon1333,5,tʃɹ̩55,tʃɹ̩55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-6-1,,hmon1333,6,ʈau33,ʈau33,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-6-2,,hmon1333,6,ʈɻou44,ʈɻou44,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-7-1,,hmon1333,7,ɕa33,ɕa33,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-7-2,,hmon1333,7,ɕã44,ɕã44,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-8-1,,hmon1333,8,ji21,ji21,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-8-2,,hmon1333,8,ʑi21,ʑi21,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-9-1,,hmon1333,9,cua52,cua52,[],(?),[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-9-2,,hmon1333,9,tɕuɑ42,tɕuɑ42,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-10-1,,hmon1333,10,kau21,kau21,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-10-2,,hmon1333,10,kou21,kou21,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-11-1,,hmon1333,11,kau21 i55,kau21 i55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-11-2,,hmon1333,11,kou21 ʔi55,kou21 ʔi55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-12-1,,hmon1333,12,kau21 ɔ55,kau21 ɔ55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-12-2,,hmon1333,12,kou21 ʔɑu55,kou21 ʔɑu55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-13-1,,hmon1333,13,kau21 pe5,kau21 pe5,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-13-2,,hmon1333,13,kou21 pei55,kou21 pei55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-14-1,,hmon1333,14,kau21 plau55,kau21 plau55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-14-2,,hmon1333,14,kou21 plou55,kou21 plou55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-15-1,,hmon1333,15,kau21 tʂi55,kau21 tʂi55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-15-2,,hmon1333,15,kou21 tʃɹ̩55,kou21 tʃɹ̩55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-16-1,,hmon1333,16,kau21 ʈau33,kau21 ʈau33,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-16-2,,hmon1333,16,kou21 ʈɻou44,kou21 ʈɻou44,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-17-1,,hmon1333,17,kau21 ɕa33,kau21 ɕa33,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-17-2,,hmon1333,17,kou21 ɕaŋ44,kou21 ɕaŋ44,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-18-1,,hmon1333,18,kau21 ji21,kau21 ji21,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-18-2,,hmon1333,18,kou21 ʑi21,kou21 ʑi21,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-19-1,,hmon1333,19,kau21 cua52,kau21 cua52,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-19-2,,hmon1333,19,kou21 tɕuɑ42,kou21 tɕuɑ42,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-20-1,,hmon1333,20,nɛŋ22ŋkau21 ?,nɛŋ22ŋkau21 ?,[],,[],,False,Hmong-Dleub.htm,True,,1
+hmon1333-20-2,,hmon1333,20,neŋ33kou21,neŋ33kou21,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-21-1,,hmon1333,21,nɛŋ22ŋkau21i55,nɛŋ22ŋkau21i55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-21-2,,hmon1333,21,neŋ33kou21ʔi55,neŋ33kou21ʔi55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-22-1,,hmon1333,22,nɛŋ22ŋkau21 ɔ55,nɛŋ22ŋkau21 ɔ55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-22-2,,hmon1333,22,neŋ33kou21 ʔɑu55,neŋ33kou21 ʔɑu55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-23-1,,hmon1333,23,nɛŋ22ŋkau21pe55,nɛŋ22ŋkau21pe55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-23-2,,hmon1333,23,neŋ33kou21pei55,neŋ33kou21pei55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-24-1,,hmon1333,24,nɛŋ22ŋkau21plau55,nɛŋ22ŋkau21plau55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-24-2,,hmon1333,24,neŋ33kou21plou54,neŋ33kou21plou54,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-25-1,,hmon1333,25,nɛŋ22ŋkau21 tʂi55,nɛŋ22ŋkau21 tʂi55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-25-2,,hmon1333,25,neŋ33kou21tʃɹ̩55,neŋ33kou21tʃɹ̩55,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-26-1,,hmon1333,26,nɛŋ22ŋkau21ʈau33,nɛŋ22ŋkau21ʈau33,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-26-2,,hmon1333,26,neŋ33kou21 ʈɻou44,neŋ33kou21 ʈɻou44,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-27-1,,hmon1333,27,nɛŋ22ŋkau21ɕa33,nɛŋ22ŋkau21ɕa33,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-27-2,,hmon1333,27,neŋ33kou21 ɕã44,neŋ33kou21 ɕã44,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-28-1,,hmon1333,28,nɛŋ22ŋkau21ji21,nɛŋ22ŋkau21ji21,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-28-2,,hmon1333,28,neŋ33kou21ʑi21,neŋ33kou21ʑi21,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-29-1,,hmon1333,29,nɛŋ22ŋkau21 cua52,nɛŋ22ŋkau21 cua52,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-29-2,,hmon1333,29,neŋ33kou21tɕuɑ42,neŋ33kou21tɕuɑ42,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-30-1,,hmon1333,30,pe55 ca̤ṳ42,pe55 ca̤ṳ42,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-30-2,,hmon1333,30,pei55 tɕo̤ṳ22,pei55 tɕo̤ṳ22,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-40-1,,hmon1333,40,plau55 ca̤ṳ42,plau55 ca̤ṳ42,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-40-2,,hmon1333,40,plou55 tɕo̤ṳ22,plou55 tɕo̤ṳ22,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-50-1,,hmon1333,50,tʂi̩55 ca̤ṳ42,tʂi̩55 ca̤ṳ42,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-50-2,,hmon1333,50,tʃɹ̩55 tɕo̤ṳ22,tʃɹ̩55 tɕo̤ṳ22,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-60-1,,hmon1333,60,ʈau33 ca̤ṳ42,ʈau33 ca̤ṳ42,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-60-2,,hmon1333,60,ʈɻou44 tɕo̤ṳ22,ʈɻou44 tɕo̤ṳ22,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-70-1,,hmon1333,70,ɕa33 ca̤ṳ42,ɕa33 ca̤ṳ42,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-70-2,,hmon1333,70,ɕã44 tɕo̤ṳ22,ɕã44 tɕo̤ṳ22,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-80-1,,hmon1333,80,ji21 ca̤ṳ42,ji21 ca̤ṳ42,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-80-2,,hmon1333,80,ʑi21 tɕo̤ṳ22,ʑi21 tɕo̤ṳ22,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-90-1,,hmon1333,90,cua52 ca̤ṳ42,cua52 ca̤ṳ42,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-90-2,,hmon1333,90,tɕuɑ42 tɕo̤ṳ22,tɕuɑ42 tɕo̤ṳ22,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-100-1,,hmon1333,100,pua33,pua33,[],( < Chinese),[],,True,Hmong-Dleub.htm,False,,1
+hmon1333-100-2,,hmon1333,100,ʔi54puɑ33,ʔi54puɑ33,[],( < Chinese),[],,True,Hmong-Dleub.htm,False,,2
+hmon1333-200-1,,hmon1333,200,ɔ55 pua33,ɔ55 pua33,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-200-2,,hmon1333,200,ʔɑu55 puɑ33,ʔɑu55 puɑ33,[],,[],,False,Hmong-Dleub.htm,False,,2
+hmon1333-1000-1,,hmon1333,1000,tsʰia55,tsʰia55,[],< Chinese ,[],,True,Hmong-Dleub.htm,False,,1
+hmon1333-1000-2,,hmon1333,1000,ʔi55tsʰiɛ55,ʔi55tsʰiɛ55,[],< Chinese ,[],,True,Hmong-Dleub.htm,False,,2
+hmon1333-2000-1,,hmon1333,2000,ɔ55 tsʰia55,ɔ55 tsʰia55,[],,[],,False,Hmong-Dleub.htm,False,,1
+hmon1333-2000-2,,hmon1333,2000,ʔɑu55 tsʰiɛ55,ʔɑu55 tsʰiɛ55,[],,[],,False,Hmong-Dleub.htm,False,,2

@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ngom1270-1-1,,ngom1270,1,-wutu,-wutu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-2-1,,ngom1270,2,-ba,-ba,[],,[],,False,Ngom.htm,False,,1
+ngom1270-3-1,,ngom1270,3,-lalu,-lalu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-4-1,,ngom1270,4,-nai,-nai,[],,[],,False,Ngom.htm,False,,1
+ngom1270-5-1,,ngom1270,5,-tanu,-tanu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-6-1,,ngom1270,6,-tanu na -wutu,-tanu na -wutu,[],( 5 + 1 ),[],,False,Ngom.htm,False,,1
+ngom1270-7-1,,ngom1270,7,-tanu na -ba,-tanu na -ba,[],( 5 + 2 ),[],,False,Ngom.htm,False,,1
+ngom1270-8-1,,ngom1270,8,-tanu na -lalu,-tanu na -lalu,[],( 5 + 3 ),[],,False,Ngom.htm,False,,1
+ngom1270-9-1,,ngom1270,9,-tanu na -nai,-tanu na -nai,[],( 5 + 4 ),[],,False,Ngom.htm,False,,1
+ngom1270-10-1,,ngom1270,10,dyumu,dyumu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-11-1,,ngom1270,11,dyumu na -wutu,dyumu na -wutu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-12-1,,ngom1270,12,dyumu na -ba,dyumu na -ba,[],,[],,False,Ngom.htm,False,,1
+ngom1270-13-1,,ngom1270,13,dyumu na -lalu,dyumu na -lalu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-14-1,,ngom1270,14,dyumu na -nai,dyumu na -nai,[],,[],,False,Ngom.htm,False,,1
+ngom1270-15-1,,ngom1270,15,dyumu na -tanu,dyumu na -tanu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-16-1,,ngom1270,16,dyumu na -tanu na -wutu,dyumu na -tanu na -wutu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-17-1,,ngom1270,17,dyumu na -tanu na -ba,dyumu na -tanu na -ba,[],,[],,False,Ngom.htm,False,,1
+ngom1270-18-1,,ngom1270,18,dyumu na -tanu na -lalu,dyumu na -tanu na -lalu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-19-1,,ngom1270,19,dyumu na -tanu na -nai,dyumu na -tanu na -nai,[],,[],,False,Ngom.htm,False,,1
+ngom1270-20-1,,ngom1270,20,mi-ku mi-ba,mi-ku mi-ba,[],,[],,False,Ngom.htm,False,,1
+ngom1270-21-1,,ngom1270,21,mi-ku mi-ba na -wutu,mi-ku mi-ba na -wutu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-22-1,,ngom1270,22,mi-ku mi-ba na -ba,mi-ku mi-ba na -ba,[],,[],,False,Ngom.htm,False,,1
+ngom1270-23-1,,ngom1270,23,mi-ku mi-ba na -lalu,mi-ku mi-ba na -lalu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-24-1,,ngom1270,24,mi-ku mi-ba na -nai,mi-ku mi-ba na -nai,[],,[],,False,Ngom.htm,False,,1
+ngom1270-25-1,,ngom1270,25,mi-ku mi-ba na -tanu,mi-ku mi-ba na -tanu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-26-1,,ngom1270,26,mi-ku mi-ba na -tanu na -wutu,mi-ku mi-ba na -tanu na -wutu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-27-1,,ngom1270,27,mi-ku mi-ba na -tanu na -ba,mi-ku mi-ba na -tanu na -ba,[],,[],,False,Ngom.htm,False,,1
+ngom1270-28-1,,ngom1270,28,mi-ku mi-ba na -tanu na -lalu,mi-ku mi-ba na -tanu na -lalu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-29-1,,ngom1270,29,mi-ku mi-ba na -tanu na -nai,mi-ku mi-ba na -tanu na -nai,[],,[],,False,Ngom.htm,False,,1
+ngom1270-30-1,,ngom1270,30,mi-ku mi-lalu,mi-ku mi-lalu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-40-1,,ngom1270,40,mi-ku mi-nai,mi-ku mi-nai,[],,[],,False,Ngom.htm,False,,1
+ngom1270-50-1,,ngom1270,50,mi-ku mi-tanu,mi-ku mi-tanu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-60-1,,ngom1270,60,mi-ku mi-tanu na mi-wutu,mi-ku mi-tanu na mi-wutu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-70-1,,ngom1270,70,mi-ku mi-ta na mi-ba,mi-ku mi-ta na mi-ba,[],,[],,False,Ngom.htm,False,,1
+ngom1270-80-1,,ngom1270,80,mi-ku mi-ta na mi-lalu,mi-ku mi-ta na mi-lalu,[],,[],,False,Ngom.htm,False,,1
+ngom1270-90-1,,ngom1270,90,mi-ku mi-ta na mi-nai,mi-ku mi-ta na mi-nai,[],,[],,False,Ngom.htm,False,,1
+ngom1270-100-1,,ngom1270,100,silɛ,silɛ,[],,[],,False,Ngom.htm,False,,1
+ngom1270-200-1,,ngom1270,200,ba-silɛ ba-ba,ba-silɛ ba-ba,[],,[],,False,Ngom.htm,False,,1

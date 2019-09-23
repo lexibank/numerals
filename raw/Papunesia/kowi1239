@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kowi1239-1-1,,kowi1239,1,isamos,isamos,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-2-1,,kowi1239,2,wet,wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-3-1,,kowi1239,3,tor,tor,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-4-1,,kowi1239,4,fat,fat,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-5-1,,kowi1239,5,rim,rim,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-6-1,,kowi1239,6,rim isamos,rim isamos,[],( 5 + 1 ),[],,False,Kowiai.htm,False,,1
+kowi1239-7-1,,kowi1239,7,rim wet,rim wet,[],( 5 + 2 ),[],,False,Kowiai.htm,False,,1
+kowi1239-8-1,,kowi1239,8,rim tor,rim tor,[],( 5 + 3 ),[],,False,Kowiai.htm,False,,1
+kowi1239-9-1,,kowi1239,9,rim fat,rim fat,[],( 5 + 4 ),[],,False,Kowiai.htm,False,,1
+kowi1239-10-1,,kowi1239,10,fuca,fuca,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-11-1,,kowi1239,11,fuca resin isamos,fuca resin isamos,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-12-1,,kowi1239,12,fuca resin wet,fuca resin wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-13-1,,kowi1239,13,fuca resin tor,fuca resin tor,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-14-1,,kowi1239,14,fuca resin fat,fuca resin fat,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-15-1,,kowi1239,15,fuca resin rim,fuca resin rim,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-16-1,,kowi1239,16,fuca resin rim isamos,fuca resin rim isamos,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-17-1,,kowi1239,17,fuca resin rim wet,fuca resin rim wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-18-1,,kowi1239,18,fuca resin rim tor,fuca resin rim tor,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-19-1,,kowi1239,19,fuca resin rim fat,fuca resin rim fat,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-20-1,,kowi1239,20,subut wet,subut wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-21-1,,kowi1239,21,subut wet resin isamos,subut wet resin isamos,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-22-1,,kowi1239,22,subut wet resin wet,subut wet resin wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-23-1,,kowi1239,23,subut wet resin tor,subut wet resin tor,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-24-1,,kowi1239,24,subut wet resin fat,subut wet resin fat,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-25-1,,kowi1239,25,subut wet resin rim,subut wet resin rim,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-26-1,,kowi1239,26,subut wet resin rim isamos,subut wet resin rim isamos,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-27-1,,kowi1239,27,subut wet resin rim wet,subut wet resin rim wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-28-1,,kowi1239,28,subut wet resin rim tor,subut wet resin rim tor,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-29-1,,kowi1239,29,subut wet resin rim fat,subut wet resin rim fat,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-30-1,,kowi1239,30,subut tor,subut tor,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-40-1,,kowi1239,40,subut fat,subut fat,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-50-1,,kowi1239,50,subut rim,subut rim,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-60-1,,kowi1239,60,subutrim isamos,subutrim isamos,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-70-1,,kowi1239,70,subutrim wet,subutrim wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-80-1,,kowi1239,80,subutrim tor,subutrim tor,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-90-1,,kowi1239,90,subutrim fat,subutrim fat,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-100-1,,kowi1239,100,raca,raca,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-200-1,,kowi1239,200,rat wet,rat wet,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-1000-1,,kowi1239,1000,rifun,rifun,[],,[],,False,Kowiai.htm,False,,1
+kowi1239-2000-1,,kowi1239,2000,rifun wet,rifun wet,[],,[],,False,Kowiai.htm,False,,1

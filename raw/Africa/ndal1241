@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ndal1241-1-1,,ndal1241,1,ka-mukene,ka-mukene,[],,[],,False,Ndali.htm,False,,1
+ndal1241-2-1,,ndal1241,2,fi-ŵiri,fi-ŵiri,[],,[],,False,Ndali.htm,False,,1
+ndal1241-3-1,,ndal1241,3,fi-tatʊ,fi-tatʊ,[],,[],,False,Ndali.htm,False,,1
+ndal1241-4-1,,ndal1241,4,fi-na,fi-na,[],,[],,False,Ndali.htm,False,,1
+ndal1241-5-1,,ndal1241,5,fi-hano,fi-hano,[],,[],,False,Ndali.htm,False,,1
+ndal1241-6-1,,ndal1241,6,fi-hano na ka-mo,fi-hano na ka-mo,[],( 5 + 1 ),[],,False,Ndali.htm,False,,1
+ndal1241-7-1,,ndal1241,7,fi-hano ni fi-ŵiri,fi-hano ni fi-ŵiri,[],( 5 + 2 ),[],,False,Ndali.htm,False,,1
+ndal1241-8-1,,ndal1241,8,fi-hano ni fi-tatʊ,fi-hano ni fi-tatʊ,[],( 5 + 3 ),[],,False,Ndali.htm,False,,1
+ndal1241-9-1,,ndal1241,9,fi-hano ni fi-na,fi-hano ni fi-na,[],( 5 + 4 ),[],,False,Ndali.htm,False,,1
+ndal1241-10-1,,ndal1241,10,kaloᵑɡo,kaloᵑɡo,[],,[],,False,Ndali.htm,False,,1
+ndal1241-11-1,,ndal1241,11,kaloᵑɡo na kamo,kaloᵑɡo na kamo,[],,[],,False,Ndali.htm,False,,1
+ndal1241-12-1,,ndal1241,12,kaloᵑɡo ni fi-ŵiri,kaloᵑɡo ni fi-ŵiri,[],,[],,False,Ndali.htm,False,,1
+ndal1241-13-1,,ndal1241,13,kaloᵑɡo ni fi-tatʊ,kaloᵑɡo ni fi-tatʊ,[],,[],,False,Ndali.htm,False,,1
+ndal1241-14-1,,ndal1241,14,kaloᵑɡo ni fi-na,kaloᵑɡo ni fi-na,[],,[],,False,Ndali.htm,False,,1
+ndal1241-15-1,,ndal1241,15,kaloᵑɡo ni fi-hano,kaloᵑɡo ni fi-hano,[],,[],,False,Ndali.htm,False,,1
+ndal1241-16-1,,ndal1241,16,kaloᵑɡo ni fi-hano na ka-mo,kaloᵑɡo ni fi-hano na ka-mo,[],,[],,False,Ndali.htm,False,,1
+ndal1241-17-1,,ndal1241,17,kaloᵑɡo ni fi-hano ni fi-ŵiri,kaloᵑɡo ni fi-hano ni fi-ŵiri,[],,[],,False,Ndali.htm,False,,1
+ndal1241-18-1,,ndal1241,18,kaloᵑɡo ni fi-hano ni fi-tatʊ,kaloᵑɡo ni fi-hano ni fi-tatʊ,[],,[],,False,Ndali.htm,False,,1
+ndal1241-19-1,,ndal1241,19,kaloᵑɡo ni fi-hano ni fi-na,kaloᵑɡo ni fi-hano ni fi-na,[],,[],,False,Ndali.htm,False,,1
+ndal1241-20-1,,ndal1241,20,ma-loᵑɡo ma-ŵiri,ma-loᵑɡo ma-ŵiri,[],,[],,False,Ndali.htm,False,,1
+ndal1241-21-1,,ndal1241,21,ma-loᵑɡo ma-ŵiri na kamo,ma-loᵑɡo ma-ŵiri na kamo,[],,[],,False,Ndali.htm,False,,1
+ndal1241-22-1,,ndal1241,22,ma-loᵑɡo ma-ŵiri ni fi-ŵiri,ma-loᵑɡo ma-ŵiri ni fi-ŵiri,[],,[],,False,Ndali.htm,False,,1
+ndal1241-23-1,,ndal1241,23,ma-loᵑɡo ma-ŵiri ni fi-tatʊ,ma-loᵑɡo ma-ŵiri ni fi-tatʊ,[],,[],,False,Ndali.htm,False,,1
+ndal1241-24-1,,ndal1241,24,ma-loᵑɡo ma-ŵiri ni fi-na,ma-loᵑɡo ma-ŵiri ni fi-na,[],,[],,False,Ndali.htm,False,,1
+ndal1241-25-1,,ndal1241,25,ma-loᵑɡo ma-ŵiri ni fi-hano,ma-loᵑɡo ma-ŵiri ni fi-hano,[],,[],,False,Ndali.htm,False,,1
+ndal1241-26-1,,ndal1241,26,ma-loᵑɡo ma-ŵiri ni + 6,ma-loᵑɡo ma-ŵiri ni + 6,[],,[],,False,Ndali.htm,True,,1
+ndal1241-27-1,,ndal1241,27,ma-loᵑɡo ma-ŵiri ni + 7,ma-loᵑɡo ma-ŵiri ni + 7,[],,[],,False,Ndali.htm,True,,1
+ndal1241-28-1,,ndal1241,28,ma-loᵑɡo ma-ŵiri ni + 8,ma-loᵑɡo ma-ŵiri ni + 8,[],,[],,False,Ndali.htm,True,,1
+ndal1241-29-1,,ndal1241,29,ma-loᵑɡo ma-ŵiri ni + 9,ma-loᵑɡo ma-ŵiri ni + 9,[],,[],,False,Ndali.htm,True,,1
+ndal1241-30-1,,ndal1241,30,ma-loᵑɡo ma-tatʊ,ma-loᵑɡo ma-tatʊ,[],,[],,False,Ndali.htm,False,,1
+ndal1241-40-1,,ndal1241,40,ma-loᵑɡo ma-na,ma-loᵑɡo ma-na,[],,[],,False,Ndali.htm,False,,1
+ndal1241-50-1,,ndal1241,50,ma-loᵑɡo ma-hano,ma-loᵑɡo ma-hano,[],,[],,False,Ndali.htm,False,,1
+ndal1241-60-1,,ndal1241,60,ma-loᵑɡo ma-hano ni li-loᵑɡo li-mo,ma-loᵑɡo ma-hano ni li-loᵑɡo li-mo,[],,[],,False,Ndali.htm,False,,1
+ndal1241-70-1,,ndal1241,70,ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-ŵiri,ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-ŵiri,[],,[],,False,Ndali.htm,False,,1
+ndal1241-80-1,,ndal1241,80,ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-tatʊ,ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-tatʊ,[],,[],,False,Ndali.htm,False,,1
+ndal1241-90-1,,ndal1241,90,ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-na,ma-loᵑɡo ma-hano na ma-loᵑɡo -ma-na,[],,[],,False,Ndali.htm,False,,1
+ndal1241-100-1,,ndal1241,100,mʲa < ''mʲa'' from Swahili,mʲa < ''mʲa'' from Swahili,[],,[],,False,Ndali.htm,True,,1
+ndal1241-200-1,,ndal1241,200,awo mʲa ŵa-ŵiri,awo mʲa ŵa-ŵiri,[],,[],,False,Ndali.htm,False,,1
+ndal1241-1000-1,,ndal1241,1000,awo mʲa mʲa,awo mʲa mʲa,[],( 100 x 100 ),[],,False,Ndali.htm,False,,1
+ndal1241-2000-1,,ndal1241,2000,awo mʲa mʲa ŵa-ŵiri,awo mʲa mʲa ŵa-ŵiri,[],( 100 x 100 x 2),[],,False,Ndali.htm,False,,1

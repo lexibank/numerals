@@ -1,0 +1,72 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tama1331-1-1,,tama1331,1,kúˑr,kúˑr,[],,[],,False,Tama.htm,False,,1
+tama1331-1-2,,tama1331,1,kʊ́rʊ́,kʊ́rʊ́,[],,[],,False,Tama.htm,False,,2
+tama1331-2-1,,tama1331,2,wárí,wárí,[],,[],,False,Tama.htm,False,,1
+tama1331-2-2,,tama1331,2,wɛ̀rːɛ̀,wɛ̀rːɛ̀,[],,[],,False,Tama.htm,False,,2
+tama1331-3-1,,tama1331,3,íɕí,íɕí,[],,[],,False,Tama.htm,False,,1
+tama1331-3-2,,tama1331,3,ɪ̀cːáʔ,ɪ̀cːáʔ,[],,[],,False,Tama.htm,False,,2
+tama1331-4-1,,tama1331,4,kús,kús,[],,[],,False,Tama.htm,False,,1
+tama1331-4-2,,tama1331,4,kus,kus,[],,[],,False,Tama.htm,False,,1
+tama1331-4-3,,tama1331,4,kʊʃ,kʊʃ,[],,[],,False,Tama.htm,False,,2
+tama1331-5-1,,tama1331,5,massi,massi,[],,[],,False,Tama.htm,False,,1
+tama1331-5-2,,tama1331,5,masi,masi,[],,[],,False,Tama.htm,False,,1
+tama1331-5-3,,tama1331,5,masɛː,masɛː,[],,[],,False,Tama.htm,False,,2
+tama1331-6-1,,tama1331,6,tɔˑ́r,tɔˑ́r,[],,[],,False,Tama.htm,False,,1
+tama1331-6-2,,tama1331,6,t̪ɔ́rː,t̪ɔ́rː,[],,[],,False,Tama.htm,False,,2
+tama1331-7-1,,tama1331,7,kâl,kâl,[],,[],,False,Tama.htm,False,,1
+tama1331-7-2,,tama1331,7,kəl,kəl,[],,[],,False,Tama.htm,False,,2
+tama1331-8-1,,tama1331,8,kímís,kímís,[],,[],,False,Tama.htm,False,,1
+tama1331-8-2,,tama1331,8,kíbìs,kíbìs,[],,[],,False,Tama.htm,False,,2
+tama1331-9-1,,tama1331,9,úkū,úkū,[],,[],,False,Tama.htm,False,,1
+tama1331-9-2,,tama1331,9,ʊ́kːʊ́,ʊ́kːʊ́,[],,[],,False,Tama.htm,False,,2
+tama1331-10-1,,tama1331,10,mír,mír,[],,[],,False,Tama.htm,False,,1
+tama1331-10-2,,tama1331,10,mɛ̀ːr,mɛ̀ːr,[],,[],,False,Tama.htm,False,,2
+tama1331-11-1,,tama1331,11,mír-kʊ̀n-tɛ̀rɛ́k or Arabic numbers,mír-kʊ̀n-tɛ̀rɛ́k or Arabic numbers,[],,[],,False,Tama.htm,True,,1
+tama1331-11-2,,tama1331,11,mɛ̀ːr kʊ́rt̪ɛ̀rɛ̀k,mɛ̀ːr kʊ́rt̪ɛ̀rɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-12-1,,tama1331,12,mír-wár-tɛ̀rɛ́k,mír-wár-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-12-2,,tama1331,12,mɛ̀ːr wart̪ɛ̀rɛ́k,mɛ̀ːr wart̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-13-1,,tama1331,13,mír-íɕí-tɛ̀rɛ́k,mír-íɕí-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-13-2,,tama1331,13,mɛ̀ːr ɪ̀ct̪ɛ̀rɛ́k,mɛ̀ːr ɪ̀ct̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-14-1,,tama1331,14,mír-kus-tɛ̀rɛ́k,mír-kus-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-14-2,,tama1331,14,mɛ̀ːr kust̪ɛ̀rɛ́k,mɛ̀ːr kust̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-15-1,,tama1331,15,mír-maasi-tɛ̀rɛ́k,mír-maasi-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-15-2,,tama1331,15,mɛ̀ːr maːst̪ɛ̀rɛ́k,mɛ̀ːr maːst̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-16-1,,tama1331,16,mír-tɔˑ́r-tɛ̀rɛ́k,mír-tɔˑ́r-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-16-2,,tama1331,16,mɛ̀ːr t̪ɔ́rːt̪ɛ̀rɛ́k,mɛ̀ːr t̪ɔ́rːt̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-17-1,,tama1331,17,mír-kâl-tɛ̀rɛ́k,mír-kâl-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-17-2,,tama1331,17,mɛ̀ːr kə̀lt̪ɛ̀rɛ́k,mɛ̀ːr kə̀lt̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-18-1,,tama1331,18,mír-kímís-tɛ̀rɛ́k,mír-kímís-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-18-2,,tama1331,18,mɛ̀ːr kɪ́bìst̪ɛ̀rɛ́k,mɛ̀ːr kɪ́bìst̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-19-1,,tama1331,19,mír-̀úkū-tɛ̀rɛ́k,mír-̀úkū-tɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,1
+tama1331-19-2,,tama1331,19,mɛ̀ːr ʊ́kːʊ́t̪ɛ̀rɛ́k,mɛ̀ːr ʊ́kːʊ́t̪ɛ̀rɛ́k,[],,[],,False,Tama.htm,False,,2
+tama1331-20-1,,tama1331,20,tili,tili,[],,[],,False,Tama.htm,False,,1
+tama1331-20-2,,tama1331,20,tiɽí,tiɽí,[],,[],,False,Tama.htm,False,,1
+tama1331-20-3,,tama1331,20,mɛ̀ːrmɛ́ːr wɛ̀rːɛ̀,mɛ̀ːrmɛ́ːr wɛ̀rːɛ̀,[],,[],,False,Tama.htm,False,,2
+tama1331-21-1,,tama1331,21,kʊ́rt̪ɛrɛ̀k,kʊ́rt̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-22-1,,tama1331,22,wart̪ɛrɛ̀k,wart̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-23-1,,tama1331,23,ict̪ɛrɛ̀k,ict̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-24-1,,tama1331,24,kɔst̪ɛrɛ̀k,kɔst̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-25-1,,tama1331,25,mast̪ɛrɛ̀k,mast̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-26-1,,tama1331,26,t̪ɔrt̪ɛrɛ̀k,t̪ɔrt̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-27-1,,tama1331,27,kalt̪ɛrɛ̀k,kalt̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-28-1,,tama1331,28,kíbìst̪ɛrɛ̀k,kíbìst̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-29-1,,tama1331,29,ʊ́kːʊ́t̪ɛrɛ̀k,ʊ́kːʊ́t̪ɛrɛ̀k,[],,[],,False,Tama.htm,False,,2
+tama1331-30-1,,tama1331,30,tili íɕí,tili íɕí,[],,[],,False,Tama.htm,False,,1
+tama1331-30-2,,tama1331,30,mɛ̀rmɛ́ːrɪ̀cːáʔ,mɛ̀rmɛ́ːrɪ̀cːáʔ,[],,[],,False,Tama.htm,False,,2
+tama1331-40-1,,tama1331,40,tili kus,tili kus,[],,[],,False,Tama.htm,False,,1
+tama1331-40-2,,tama1331,40,mɛ̀rmɛ́ːr kʊ̀s,mɛ̀rmɛ́ːr kʊ̀s,[],,[],,False,Tama.htm,False,,2
+tama1331-50-1,,tama1331,50,tili masi,tili masi,[],,[],,False,Tama.htm,False,,1
+tama1331-50-2,,tama1331,50,mɛ̀rmɛ́ːr masɛː,mɛ̀rmɛ́ːr masɛː,[],,[],,False,Tama.htm,False,,2
+tama1331-60-1,,tama1331,60,tili tɔˑ́r,tili tɔˑ́r,[],,[],,False,Tama.htm,False,,1
+tama1331-60-2,,tama1331,60,mɛ̀rmɛ́ːr t̪ɔ́rː,mɛ̀rmɛ́ːr t̪ɔ́rː,[],,[],,False,Tama.htm,False,,2
+tama1331-70-1,,tama1331,70,tili kâl,tili kâl,[],,[],,False,Tama.htm,False,,1
+tama1331-70-2,,tama1331,70,mɛ̀rmɛ́ːr kəl,mɛ̀rmɛ́ːr kəl,[],,[],,False,Tama.htm,False,,2
+tama1331-80-1,,tama1331,80,tili kímís,tili kímís,[],,[],,False,Tama.htm,False,,1
+tama1331-80-2,,tama1331,80,mɛ̀rmɛ́ːrkíbìs,mɛ̀rmɛ́ːrkíbìs,[],,[],,False,Tama.htm,False,,2
+tama1331-90-1,,tama1331,90,tili úkū,tili úkū,[],,[],,False,Tama.htm,False,,1
+tama1331-90-2,,tama1331,90,mɛ̀rmɛ́ːrʊ́kːʊ́,mɛ̀rmɛ́ːrʊ́kːʊ́,[],,[],,False,Tama.htm,False,,2
+tama1331-100-1,,tama1331,100,mil'a,mil'a,[],< Arabic ,[],,True,Tama.htm,False,,1
+tama1331-100-2,,tama1331,100,mɛ̀rmɛ́ːr mɛ̀r,mɛ̀rmɛ́ːr mɛ̀r,[],,[],,False,Tama.htm,False,,2
+tama1331-200-1,,tama1331,200,mɛ̀rmɛ̀ri,mɛ̀rmɛ̀ri,[],,[],,False,Tama.htm,False,,2
+tama1331-1000-1,,tama1331,1000,kúrː,kúrː,[],,[],,False,Tama.htm,False,,2
+tama1331-2000-1,,tama1331,2000,kúrː wárːɛ̀,kúrː wárːɛ̀,[],,[],,False,Tama.htm,False,,2

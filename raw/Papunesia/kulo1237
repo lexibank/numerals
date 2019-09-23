@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kulo1237-1-1,,kulo1237,1,ida,ida,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-1-2,,kulo1237,1,adaŋ,adaŋ,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-2-1,,kulo1237,2,dusa,dusa,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-3-1,,kulo1237,3,turu,turu,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-4-1,,kulo1237,4,supat,supat,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-5-1,,kulo1237,5,xasəp,xasəp,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-6-1,,kulo1237,6,xasəpbuza,xasəpbuza,[],( 5 + 1 ),[],,False,Pazeh.htm,False,,1
+kulo1237-7-1,,kulo1237,7,xasəbidusa,xasəbidusa,[],( 5 + 2 ),[],,False,Pazeh.htm,False,,1
+kulo1237-8-1,,kulo1237,8,xasəbituru,xasəbituru,[],( 5 + 3 ),[],,False,Pazeh.htm,False,,1
+kulo1237-9-1,,kulo1237,9,xasəbisupat,xasəbisupat,[],( 5 + 4 ),[],,False,Pazeh.htm,False,,1
+kulo1237-10-1,,kulo1237,10,isit,isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-11-1,,kulo1237,11,isidu ida,isidu ida,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-12-1,,kulo1237,12,isidu dusa,isidu dusa,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-13-1,,kulo1237,13,isidu turu,isidu turu,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-14-1,,kulo1237,14,isidu supat,isidu supat,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-15-1,,kulo1237,15,isidu xasəp,isidu xasəp,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-16-1,,kulo1237,16,isidu xasəbuza,isidu xasəbuza,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-17-1,,kulo1237,17,isidu xasəbidusa,isidu xasəbidusa,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-18-1,,kulo1237,18,isidu xasəbituru,isidu xasəbituru,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-19-1,,kulo1237,19,isidu xasəbisupat,isidu xasəbisupat,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-20-1,,kulo1237,20,dusa isit,dusa isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-21-1,,kulo1237,21,dusa isit ida,dusa isit ida,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-22-1,,kulo1237,22,dusa isit dusa,dusa isit dusa,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-23-1,,kulo1237,23,dusa isit turu,dusa isit turu,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-24-1,,kulo1237,24,dusa isit supat,dusa isit supat,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-25-1,,kulo1237,25,dusa isit xasəp,dusa isit xasəp,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-26-1,,kulo1237,26,dusa isit xasəbuza,dusa isit xasəbuza,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-27-1,,kulo1237,27,dusa isit xasəbidusa,dusa isit xasəbidusa,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-28-1,,kulo1237,28,dusa isit xasəbituru,dusa isit xasəbituru,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-29-1,,kulo1237,29,dusa isit xasəbisupat,dusa isit xasəbisupat,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-30-1,,kulo1237,30,turu a isit,turu a isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-40-1,,kulo1237,40,supaza isit,supaza isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-50-1,,kulo1237,50,xasəba isit,xasəba isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-60-1,,kulo1237,60,xasəbuza isit,xasəbuza isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-70-1,,kulo1237,70,xasəbidusa isit,xasəbidusa isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-80-1,,kulo1237,80,xasəbituru isit,xasəbituru isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-90-1,,kulo1237,90,xasəbisupat isit,xasəbisupat isit,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-100-1,,kulo1237,100,adaŋ a hatəl,adaŋ a hatəl,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-200-1,,kulo1237,200,dusa hatəl,dusa hatəl,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-1000-1,,kulo1237,1000,adaŋ a sahal,adaŋ a sahal,[],,[],,False,Pazeh.htm,False,,1
+kulo1237-2000-1,,kulo1237,2000,dusa sahal,dusa sahal,[],,[],,False,Pazeh.htm,False,,1

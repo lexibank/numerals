@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bang1363-1-1,,bang1363,1,tòré,tòré,[],,[],,False,Bangime.htm,False,,1
+bang1363-1-2,,bang1363,1,tǐyɛ́,tǐyɛ́,[],(in counting ),[],,False,Bangime.htm,False,,1
+bang1363-2-1,,bang1363,2,jíndò,jíndò,[],,[],,False,Bangime.htm,False,,1
+bang1363-3-1,,bang1363,3,táárù,táárù,[],,[],,False,Bangime.htm,False,,1
+bang1363-4-1,,bang1363,4,nìjɛ́,nìjɛ́,[],,[],,False,Bangime.htm,False,,1
+bang1363-5-1,,bang1363,5,nǔndí,nǔndí,[],,[],,False,Bangime.htm,False,,1
+bang1363-6-1,,bang1363,6,kěré,kěré,[],,[],,False,Bangime.htm,False,,1
+bang1363-7-1,,bang1363,7,kǐjé,kǐjé,[],,[],,False,Bangime.htm,False,,1
+bang1363-8-1,,bang1363,8,sàáɡín,sàáɡín,[],,[],,False,Bangime.htm,False,,1
+bang1363-9-1,,bang1363,9,tɛ́ɡò,tɛ́ɡò,[],,[],,False,Bangime.htm,False,,1
+bang1363-10-1,,bang1363,10,kúrɛ́,kúrɛ́,[],,[],,False,Bangime.htm,False,,1
+bang1363-11-1,,bang1363,11,kɔ̀ndɔ̀ɡɔ́ tòré,kɔ̀ndɔ̀ɡɔ́ tòré,[],,[],,False,Bangime.htm,False,,1
+bang1363-12-1,,bang1363,12,kɔ̀ndɔ̀ɡɔ́ jíndò,kɔ̀ndɔ̀ɡɔ́ jíndò,[],,[],,False,Bangime.htm,False,,1
+bang1363-13-1,,bang1363,13,kɔ̀ndɔ̀ɡɔ́ táárù,kɔ̀ndɔ̀ɡɔ́ táárù,[],,[],,False,Bangime.htm,False,,1
+bang1363-14-1,,bang1363,14,kɔ̀ndɔ̀ɡɔ́ nìjɛ́,kɔ̀ndɔ̀ɡɔ́ nìjɛ́,[],,[],,False,Bangime.htm,False,,1
+bang1363-15-1,,bang1363,15,kɔ̀ndɔ̀ɡɔ́ nǔndí ??,kɔ̀ndɔ̀ɡɔ́ nǔndí ??,[],,[],,False,Bangime.htm,True,,1
+bang1363-16-1,,bang1363,16,kɔ̀ndɔ̀ɡɔ́ kěré ??,kɔ̀ndɔ̀ɡɔ́ kěré ??,[],,[],,False,Bangime.htm,True,,1
+bang1363-17-1,,bang1363,17,kɔ̀ndɔ̀ɡɔ́ kǐjé ??,kɔ̀ndɔ̀ɡɔ́ kǐjé ??,[],,[],,False,Bangime.htm,True,,1
+bang1363-18-1,,bang1363,18,kɔ̀ndɔ̀ɡɔ́ sàáɡín ??,kɔ̀ndɔ̀ɡɔ́ sàáɡín ??,[],,[],,False,Bangime.htm,True,,1
+bang1363-19-1,,bang1363,19,kɔ̀ndɔ̀ɡɔ́ tɛ́ɡò ??,kɔ̀ndɔ̀ɡɔ́ tɛ́ɡò ??,[],,[],,False,Bangime.htm,True,,1
+bang1363-20-1,,bang1363,20,tàáw̃á,tàáw̃á,[],,[],,False,Bangime.htm,False,,1
+bang1363-21-1,,bang1363,21,tàáw̃á tòré ??,tàáw̃á tòré ??,[],,[],,False,Bangime.htm,True,,1
+bang1363-30-1,,bang1363,30,tàáwná nà bìjɛ́ kùrɛ́,tàáwná nà bìjɛ́ kùrɛ́,[],( 20 + 10 ),[],,False,Bangime.htm,False,,1
+bang1363-40-1,,bang1363,40,dɛ̀ʋɛ́,dɛ̀ʋɛ́,[],,[],,False,Bangime.htm,False,,1
+bang1363-50-1,,bang1363,50,dɛ̀ʋɛ́ nà bìjɛ́ kùrɛ́,dɛ̀ʋɛ́ nà bìjɛ́ kùrɛ́,[],( 40 + 10 ),[],,False,Bangime.htm,False,,1
+bang1363-60-1,,bang1363,60,tàáwná sǐɡó,tàáwná sǐɡó,[],,[],,False,Bangime.htm,False,,1
+bang1363-70-1,,bang1363,70,tàáwná sǐɡó nà bìjɛ́ kùrɛ́,tàáwná sǐɡó nà bìjɛ́ kùrɛ́,[],,[],,False,Bangime.htm,False,,1
+bang1363-80-1,,bang1363,80,ʒòórò,ʒòórò,[],,[],,False,Bangime.htm,False,,1
+bang1363-90-1,,bang1363,90,ʒòórò nà bìjɛ́ kùrɛ́,ʒòórò nà bìjɛ́ kùrɛ́,[],( 80 + 10 ),[],,False,Bangime.htm,False,,1
+bang1363-100-1,,bang1363,100,tɛ̀ɛ̀mɛ̀dɛ́rɛ́,tɛ̀ɛ̀mɛ̀dɛ́rɛ́,[],( < Fulfulde ),[],,True,Bangime.htm,False,,1
+bang1363-200-1,,bang1363,200,tɛ̀ɛ̀mɛ̀dɛ́rɛ́ jíndò ??,tɛ̀ɛ̀mɛ̀dɛ́rɛ́ jíndò ??,[],,[],,False,Bangime.htm,True,,1
+bang1363-1000-1,,bang1363,1000,mǔʒú,mǔʒú,[],,[],,False,Bangime.htm,False,,1
+bang1363-2000-1,,bang1363,2000,mǔʒú jíndò ??,mǔʒú jíndò ??,[],,[],,False,Bangime.htm,True,,1

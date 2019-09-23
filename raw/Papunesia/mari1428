@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mari1428-1-1,,mari1428,1,tekelei,tekelei,[],,[],,False,Marik.htm,False,,1
+mari1428-1-2,,mari1428,1,wan,wan,[],,[],,False,Marik.htm,False,,1
+mari1428-2-1,,mari1428,2,uru,uru,[],,[],,False,Marik.htm,False,,1
+mari1428-2-2,,mari1428,2,tu,tu,[],,[],,False,Marik.htm,False,,1
+mari1428-3-1,,mari1428,3,towo,towo,[],,[],,False,Marik.htm,False,,1
+mari1428-3-2,,mari1428,3,tri,tri,[],,[],,False,Marik.htm,False,,1
+mari1428-4-1,,mari1428,4,aiwadodo,aiwadodo,[],,[],,False,Marik.htm,False,,1
+mari1428-4-2,,mari1428,4,aiwapenia,aiwapenia,[],,[],,False,Marik.htm,False,,1
+mari1428-4-3,,mari1428,4,fo,fo,[],,[],,False,Marik.htm,False,,1
+mari1428-5-1,,mari1428,5,ima tekelai ku fese-ya,ima tekelai ku fese-ya,[],,[],,False,Marik.htm,False,,1
+mari1428-5-2,,mari1428,5,faiv,faiv,[],,[],,False,Marik.htm,False,,1
+mari1428-6-1,,mari1428,6,ima tekelei ɡeɡe tekelei,ima tekelei ɡeɡe tekelei,[],( 5 + 1 ),[],,False,Marik.htm,False,,1
+mari1428-6-2,,mari1428,6,sikis,sikis,[],,[],,False,Marik.htm,False,,1
+mari1428-7-1,,mari1428,7,ima tekelei ɡeɡe uru,ima tekelei ɡeɡe uru,[],( 5 + 2 ),[],,False,Marik.htm,False,,1
+mari1428-7-2,,mari1428,7,seben,seben,[],,[],,False,Marik.htm,False,,1
+mari1428-8-1,,mari1428,8,ima tekelei ɡeɡe towo,ima tekelei ɡeɡe towo,[],( 5 + 3 ),[],,False,Marik.htm,False,,1
+mari1428-8-2,,mari1428,8,eiti,eiti,[],,[],,False,Marik.htm,False,,1
+mari1428-9-1,,mari1428,9,ima tekelei ɡeɡe aiwadodo,ima tekelei ɡeɡe aiwadodo,[],( 5 + 4),[],,False,Marik.htm,False,,1
+mari1428-9-2,,mari1428,9,naen,naen,[],,[],,False,Marik.htm,False,,1
+mari1428-10-1,,mari1428,10,ima uru,ima uru,[],( lit: 'hand two'),[],,False,Marik.htm,False,,1
+mari1428-10-2,,mari1428,10,ten,ten,[],,[],,False,Marik.htm,False,,1
+mari1428-11-1,,mari1428,11,eleben,eleben,[],,[],,False,Marik.htm,False,,1
+mari1428-11-2,,mari1428,11,12. tuwelf,12. tuwelf,[],,[],,False,Marik.htm,True,,1
+mari1428-11-3,,mari1428,11,13.tətin,13.tətin,[],,[],,False,Marik.htm,True,,1
+mari1428-11-4,,mari1428,11,14.fotin,14.fotin,[],,[],,False,Marik.htm,True,,1
+mari1428-11-5,,mari1428,11,15.fiftin,15.fiftin,[],,[],,False,Marik.htm,True,,1
+mari1428-11-6,,mari1428,11,16.sikstin,16.sikstin,[],,[],,False,Marik.htm,True,,1
+mari1428-11-7,,mari1428,11,17.sebentin,17.sebentin,[],,[],,False,Marik.htm,True,,1
+mari1428-11-8,,mari1428,11,18.eitin,18.eitin,[],,[],,False,Marik.htm,True,,1
+mari1428-19-1,,mari1428,19,naintin,naintin,[],,[],,False,Marik.htm,False,,1
+mari1428-19-2,,mari1428,19,20. ima uru ye uru,20. ima uru ye uru,[],(litː '' two hands and two feet of one man''),[],,False,Marik.htm,True,,1
+mari1428-19-3,,mari1428,19,tuwentie,tuwentie,[],,[],,False,Marik.htm,False,,1
+mari1428-21-1,,mari1428,21,tuwentiy wan,tuwentiy wan,[],,[],,False,Marik.htm,False,,1
+mari1428-21-2,,mari1428,21,22. tuwentiy tu,22. tuwentiy tu,[],,[],,False,Marik.htm,True,,1
+mari1428-21-3,,mari1428,21,23. tuwentiy tri,23. tuwentiy tri,[],,[],,False,Marik.htm,True,,1
+mari1428-30-1,,mari1428,30,tətiy,tətiy,[],,[],,False,Marik.htm,False,,1
+mari1428-30-2,,mari1428,30,40. fotiy,40. fotiy,[],,[],,False,Marik.htm,True,,1
+mari1428-30-3,,mari1428,30,50. faivtiy,50. faivtiy,[],,[],,False,Marik.htm,True,,1
+mari1428-30-4,,mari1428,30,60. sikistiy,60. sikistiy,[],,[],,False,Marik.htm,True,,1
+mari1428-30-5,,mari1428,30,70. sebentiy,70. sebentiy,[],,[],,False,Marik.htm,True,,1
+mari1428-30-6,,mari1428,30,80. eitiy,80. eitiy,[],,[],,False,Marik.htm,True,,1
+mari1428-90-1,,mari1428,90,naentiy,naentiy,[],,[],,False,Marik.htm,False,,1
+mari1428-90-2,,mari1428,90,100. wan handed,100. wan handed,[],,[],,False,Marik.htm,True,,1
+mari1428-90-3,,mari1428,90,200. tu handed,200. tu handed,[],,[],,False,Marik.htm,True,,1
+mari1428-90-4,,mari1428,90,1000. wan tausan,1000. wan tausan,[],,[],,False,Marik.htm,True,,1
+mari1428-90-5,,mari1428,90,2000. tu tausan,2000. tu tausan,[],,[],,False,Marik.htm,True,,1

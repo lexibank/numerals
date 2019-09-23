@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+uman1240-1-1,,uman1240,1,eyaka mena,eyaka mena,[],(litː 'one only'),[],,False,Umanakaina.htm,False,,1
+uman1240-2-1,,uman1240,2,apeya,apeya,[],(litː 'two'),[],,False,Umanakaina.htm,False,,1
+uman1240-3-1,,uman1240,3,apeya eyaka,apeya eyaka,[],('two one'),[],,False,Umanakaina.htm,False,,1
+uman1240-4-1,,uman1240,4,apeya apeya,apeya apeya,[],('two two'),[],,False,Umanakaina.htm,False,,1
+uman1240-5-1,,uman1240,5,ida daikere mena,ida daikere mena,[],(litː 'hand one-side only),[],,False,Umanakaina.htm,False,,1
+uman1240-6-1,,uman1240,6,ida daikere mena daikere eyaka mena,ida daikere mena daikere eyaka mena,[],('hand one-side finished one-side one only'),[],,False,Umanakaina.htm,False,,1
+uman1240-7-1,,uman1240,7,ida daikere mena daikere apeya,ida daikere mena daikere apeya,[],('hand one-side finished one-side two'),[],,False,Umanakaina.htm,False,,1
+uman1240-8-1,,uman1240,8,ida daikere mena daikere apeya eyaka,ida daikere mena daikere apeya eyaka,[],('hand one-side finished one-side two one'),[],,False,Umanakaina.htm,False,,1
+uman1240-9-1,,uman1240,9,ida daikere mena daikere apeya apeya,ida daikere mena daikere apeya apeya,[],('hand one-side finished one-side two two'),[],,False,Umanakaina.htm,False,,1
+uman1240-10-1,,uman1240,10,ida eside mean,ida eside mean,[],(litː 'hand above only'),[],,False,Umanakaina.htm,True,,1
+uman1240-11-1,,uman1240,11,ida eside kewowena kerapu eyaka mena,ida eside kewowena kerapu eyaka mena,[],('hand above finished foot one only'),[],,False,Umanakaina.htm,False,,1
+uman1240-12-1,,uman1240,12,ida eside kewowena kerapu apeya,ida eside kewowena kerapu apeya,[],,[],,False,Umanakaina.htm,False,,1
+uman1240-13-1,,uman1240,13,ida eside kewowena kerapu apeya eyaka,ida eside kewowena kerapu apeya eyaka,[],,[],,False,Umanakaina.htm,False,,1
+uman1240-14-1,,uman1240,14,ida eside kewowena kerapu apeya apeya,ida eside kewowena kerapu apeya apeya,[],,[],,False,Umanakaina.htm,False,,1
+uman1240-15-1,,uman1240,15,ida eside kewowena kerapu daikere mena,ida eside kewowena kerapu daikere mena,[],(litː 'hand above finished foot one-side finished one-side only'),[],,False,Umanakaina.htm,False,,1
+uman1240-16-1,,uman1240,16,ida eside kewowena kerapu daikere kewowena daikere eyake mena,ida eside kewowena kerapu daikere kewowena daikere eyake mena,[],(litː 'hand above finished foot one-side finished one-side one only'),[],,False,Umanakaina.htm,False,,1
+uman1240-17-1,,uman1240,17,ida eside kewowena kerapu daikere kewowena daikere apeya,ida eside kewowena kerapu daikere kewowena daikere apeya,[],,[],,False,Umanakaina.htm,False,,1
+uman1240-18-1,,uman1240,18,ida eside kewowena kerapu daikere kewowena daikere apeya eyaka,ida eside kewowena kerapu daikere kewowena daikere apeya eyaka,[],,[],,False,Umanakaina.htm,False,,1
+uman1240-19-1,,uman1240,19,ida eside kewowena kerapu daikere kewowena daikere apeya apeya,ida eside kewowena kerapu daikere kewowena daikere apeya apeya,[],,[],,False,Umanakaina.htm,False,,1
+uman1240-20-1,,uman1240,20,iyapana eyaka mena,iyapana eyaka mena,[],(litː 'person one only'),[],,False,Umanakaina.htm,False,,1

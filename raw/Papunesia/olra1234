@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+olra1234-1-1,,olra1234,1,tuwa,tuwa,[],,[],,False,Olrat.htm,False,,1
+olra1234-2-1,,olra1234,2,ni-rʊ,ni-rʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-3-1,,olra1234,3,ni-tɪl,ni-tɪl,[],,[],,False,Olrat.htm,False,,1
+olra1234-4-1,,olra1234,4,ni-βat,ni-βat,[],,[],,False,Olrat.htm,False,,1
+olra1234-5-1,,olra1234,5,taβalɪm,taβalɪm,[],,[],,False,Olrat.htm,False,,1
+olra1234-6-1,,olra1234,6,lɛβɛtɛ,lɛβɛtɛ,[],( 5 + 1),[],,False,Olrat.htm,False,,1
+olra1234-7-1,,olra1234,7,lɛβɛrʊ,lɛβɛrʊ,[],( 5 + 2),[],,False,Olrat.htm,False,,1
+olra1234-8-1,,olra1234,8,lɛβɛtɪl,lɛβɛtɪl,[],( 5 + 3),[],,False,Olrat.htm,False,,1
+olra1234-9-1,,olra1234,9,lɛβɛβat,lɛβɛβat,[],( 5 + 4),[],,False,Olrat.htm,False,,1
+olra1234-10-1,,olra1234,10,ɣapra,ɣapra,[],,[],,False,Olrat.htm,False,,1
+olra1234-11-1,,olra1234,11,ɣapra tuwa tʃimʷin tuwa,ɣapra tuwa tʃimʷin tuwa,[],,[],,False,Olrat.htm,False,,1
+olra1234-12-1,,olra1234,12,ɣapra tuwa tʃimʷin ni-rʊ,ɣapra tuwa tʃimʷin ni-rʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-13-1,,olra1234,13,ɣapra tuwa tʃimʷin ni-tɪl,ɣapra tuwa tʃimʷin ni-tɪl,[],,[],,False,Olrat.htm,False,,1
+olra1234-14-1,,olra1234,14,ɣapra tuwa tʃimʷin ni-βæs,ɣapra tuwa tʃimʷin ni-βæs,[],,[],,False,Olrat.htm,False,,1
+olra1234-15-1,,olra1234,15,ɣapra tuwa tʃimʷin taβalɪm,ɣapra tuwa tʃimʷin taβalɪm,[],,[],,False,Olrat.htm,False,,1
+olra1234-16-1,,olra1234,16,ɣapra tuwa tʃimʷin lɛβɛtɛ,ɣapra tuwa tʃimʷin lɛβɛtɛ,[],,[],,False,Olrat.htm,False,,1
+olra1234-17-1,,olra1234,17,ɣapra tuwa tʃimʷin lɛβɛrʊ,ɣapra tuwa tʃimʷin lɛβɛrʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-18-1,,olra1234,18,ɣapra tuwa tʃimʷin lɛβɛtɪl,ɣapra tuwa tʃimʷin lɛβɛtɪl,[],,[],,False,Olrat.htm,False,,1
+olra1234-19-1,,olra1234,19,ɣapra tuwa tʃimʷin lɛβɛβat,ɣapra tuwa tʃimʷin lɛβɛβat,[],,[],,False,Olrat.htm,False,,1
+olra1234-20-1,,olra1234,20,ɣapra rʊ,ɣapra rʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-21-1,,olra1234,21,ɣapra rʊ tʃimʷin tuwa,ɣapra rʊ tʃimʷin tuwa,[],,[],,False,Olrat.htm,False,,1
+olra1234-22-1,,olra1234,22,ɣapra rʊ tʃimʷin ni-rʊ,ɣapra rʊ tʃimʷin ni-rʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-23-1,,olra1234,23,ɣapra rʊ tʃimʷin ni-tɪl,ɣapra rʊ tʃimʷin ni-tɪl,[],,[],,False,Olrat.htm,False,,1
+olra1234-24-1,,olra1234,24,ɣapra rʊ tʃimʷin ni-βat,ɣapra rʊ tʃimʷin ni-βat,[],,[],,False,Olrat.htm,False,,1
+olra1234-25-1,,olra1234,25,ɣapra rʊ tʃimʷin taβalɪm,ɣapra rʊ tʃimʷin taβalɪm,[],,[],,False,Olrat.htm,False,,1
+olra1234-26-1,,olra1234,26,ɣapra rʊ tʃimʷin lɛβɛtɛ,ɣapra rʊ tʃimʷin lɛβɛtɛ,[],,[],,False,Olrat.htm,False,,1
+olra1234-27-1,,olra1234,27,ɣapra rʊ tʃimʷin lɛβɛrʊ,ɣapra rʊ tʃimʷin lɛβɛrʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-28-1,,olra1234,28,ɣapra rʊ tʃimʷin lɛβɛtɪl,ɣapra rʊ tʃimʷin lɛβɛtɪl,[],,[],,False,Olrat.htm,False,,1
+olra1234-29-1,,olra1234,29,ɣapra rʊ tʃimʷin lɛβɛβat,ɣapra rʊ tʃimʷin lɛβɛβat,[],,[],,False,Olrat.htm,False,,1
+olra1234-30-1,,olra1234,30,ɣapra tɪl,ɣapra tɪl,[],,[],,False,Olrat.htm,False,,1
+olra1234-40-1,,olra1234,40,ɣapra βat,ɣapra βat,[],,[],,False,Olrat.htm,False,,1
+olra1234-50-1,,olra1234,50,ɣapra taβalɪm,ɣapra taβalɪm,[],,[],,False,Olrat.htm,False,,1
+olra1234-60-1,,olra1234,60,ɣapra lɛβɛtɛ,ɣapra lɛβɛtɛ,[],,[],,False,Olrat.htm,False,,1
+olra1234-70-1,,olra1234,70,ɣapra lɛβɛrʊ,ɣapra lɛβɛrʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-80-1,,olra1234,80,ɣapra lɛβɛtɪl,ɣapra lɛβɛtɪl,[],,[],,False,Olrat.htm,False,,1
+olra1234-90-1,,olra1234,90,ɣapra lɛβɛβat,ɣapra lɛβɛβat,[],,[],,False,Olrat.htm,False,,1
+olra1234-100-1,,olra1234,100,mʷɪlɪtʃʊl βaː-tuwa,mʷɪlɪtʃʊl βaː-tuwa,[],,[],,False,Olrat.htm,False,,1
+olra1234-200-1,,olra1234,200,mʷɪlɪtʃʊl βaːrʊ,mʷɪlɪtʃʊl βaːrʊ,[],,[],,False,Olrat.htm,False,,1
+olra1234-1000-1,,olra1234,1000,taj βaː-tuwa,taj βaː-tuwa,[],,[],,False,Olrat.htm,False,,1
+olra1234-2000-1,,olra1234,2000,tæː βaɣrʊ,tæː βaɣrʊ,[],,[],,False,Olrat.htm,False,,1

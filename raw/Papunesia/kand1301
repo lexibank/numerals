@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kand1301-1-1,,kand1301,1,takai,takai,[],,[],,False,Kandas.htm,False,,1
+kand1301-2-1,,kand1301,2,aru,aru,[],,[],,False,Kandas.htm,False,,1
+kand1301-3-1,,kand1301,3,utul,utul,[],,[],,False,Kandas.htm,False,,1
+kand1301-4-1,,kand1301,4,luwat,luwat,[],,[],,False,Kandas.htm,False,,1
+kand1301-5-1,,kand1301,5,tilim,tilim,[],,[],,False,Kandas.htm,False,,1
+kand1301-6-1,,kand1301,6,wonom,wonom,[],,[],,False,Kandas.htm,False,,1
+kand1301-7-1,,kand1301,7,mawit,mawit,[],,[],,False,Kandas.htm,False,,1
+kand1301-8-1,,kand1301,8,tiwal,tiwal,[],,[],,False,Kandas.htm,False,,1
+kand1301-9-1,,kand1301,9,lisu,lisu,[],,[],,False,Kandas.htm,False,,1
+kand1301-10-1,,kand1301,10,siɡino,siɡino,[],,[],,False,Kandas.htm,False,,1
+kand1301-11-1,,kand1301,11,noino ma ra,noino ma ra,[],( < Ramoaaina  ),[],,True,Kandas.htm,False,,1
+kand1301-12-1,,kand1301,12,noino ma ru,noino ma ru,[],,[],,False,Kandas.htm,False,,1
+kand1301-13-1,,kand1301,13,noino ma tul,noino ma tul,[],,[],,False,Kandas.htm,False,,1
+kand1301-14-1,,kand1301,14,noino ma wat,noino ma wat,[],,[],,False,Kandas.htm,False,,1
+kand1301-15-1,,kand1301,15,noino ma limo,noino ma limo,[],,[],,False,Kandas.htm,False,,1
+kand1301-16-1,,kand1301,16,noino ma wonom,noino ma wonom,[],,[],,False,Kandas.htm,False,,1
+kand1301-17-1,,kand1301,17,noino ma wonomawit,noino ma wonomawit,[],,[],,False,Kandas.htm,False,,1
+kand1301-18-1,,kand1301,18,noino ma tiwal,noino ma tiwal,[],,[],,False,Kandas.htm,False,,1
+kand1301-19-1,,kand1301,19,noino ma lisu,noino ma lisu,[],,[],,False,Kandas.htm,False,,1
+kand1301-20-1,,kand1301,20,ru noino,ru noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-21-1,,kand1301,21,ru noino ma ra,ru noino ma ra,[],,[],,False,Kandas.htm,False,,1
+kand1301-22-1,,kand1301,22,ru noino ma ru,ru noino ma ru,[],,[],,False,Kandas.htm,False,,1
+kand1301-23-1,,kand1301,23,ru noino ma tul,ru noino ma tul,[],,[],,False,Kandas.htm,False,,1
+kand1301-24-1,,kand1301,24,ru noino ma wat,ru noino ma wat,[],,[],,False,Kandas.htm,False,,1
+kand1301-25-1,,kand1301,25,ru noino ma limo,ru noino ma limo,[],,[],,False,Kandas.htm,False,,1
+kand1301-26-1,,kand1301,26,ru noino ma wonom,ru noino ma wonom,[],,[],,False,Kandas.htm,False,,1
+kand1301-27-1,,kand1301,27,ru noino ma wonomawit,ru noino ma wonomawit,[],,[],,False,Kandas.htm,False,,1
+kand1301-28-1,,kand1301,28,ru noino ma tiwal,ru noino ma tiwal,[],,[],,False,Kandas.htm,False,,1
+kand1301-29-1,,kand1301,29,ru noino ma lisu,ru noino ma lisu,[],,[],,False,Kandas.htm,False,,1
+kand1301-30-1,,kand1301,30,tulu noino,tulu noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-40-1,,kand1301,40,wat na noino,wat na noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-50-1,,kand1301,50,limo na noino,limo na noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-60-1,,kand1301,60,wonom na noino,wonom na noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-70-1,,kand1301,70,wonomawit na noino,wonomawit na noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-80-1,,kand1301,80,tiwal na noino,tiwal na noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-90-1,,kand1301,90,lisu na noino,lisu na noino,[],,[],,False,Kandas.htm,False,,1
+kand1301-100-1,,kand1301,100,ara mar,ara mar,[],,[],,False,Kandas.htm,False,,1
+kand1301-200-1,,kand1301,200,aru mar,aru mar,[],,[],,False,Kandas.htm,False,,1
+kand1301-1000-1,,kand1301,1000,ara rip,ara rip,[],,[],,False,Kandas.htm,False,,1
+kand1301-2000-1,,kand1301,2000,aru rip,aru rip,[],,[],,False,Kandas.htm,False,,1
+kand1301-2000-2,,kand1301,2000,aru arip,aru arip,[],,[],,False,Kandas.htm,False,,1

@@ -1,0 +1,15 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+leco1242-1-1,,leco1242,1,ber,ber,[],,[],,False,Leco.htm,False,,1
+leco1242-2-1,,leco1242,2,toi,toi,[],,[],,False,Leco.htm,False,,1
+leco1242-3-1,,leco1242,3,tʃai,tʃai,[],,[],,False,Leco.htm,False,,1
+leco1242-4-1,,leco1242,4,dirai,dirai,[],,[],,False,Leco.htm,False,,1
+leco1242-5-1,,leco1242,5,bertʃa,bertʃa,[],( litː ''one fist'' ),[],,False,Leco.htm,False,,1
+leco1242-6-1,,leco1242,6,berpʰaxmo or bertʃa-ber-berpʰaxmo,berpʰaxmo or bertʃa-ber-berpʰaxmo,[],( litː 'five-one-adding'' ),[],,False,Leco.htm,True,,1
+leco1242-7-1,,leco1242,7,toipʰaxmo,toipʰaxmo,[],,[],,False,Leco.htm,False,,1
+leco1242-8-1,,leco1242,8,tʃaipʰaxmo,tʃaipʰaxmo,[],,[],,False,Leco.htm,False,,1
+leco1242-9-1,,leco1242,9,berpila,berpila,[],( 10 - 1 ? ),[],,False,Leco.htm,False,,1
+leco1242-10-1,,leco1242,10,beriki,beriki,[],,[],,False,Leco.htm,False,,1
+leco1242-10-2,,leco1242,10,20.toi beriki,20.toi beriki,[],,[],,False,Leco.htm,True,,1
+leco1242-10-3,,leco1242,10,22. toi beriki toihote,22. toi beriki toihote,[],,[],,False,Leco.htm,True,,1
+leco1242-10-4,,leco1242,10,100. pataka,100. pataka,[],,[],,False,Leco.htm,True,,1
+leco1242-10-5,,leco1242,10,1000. waraŋka,1000. waraŋka,[],,[],,False,Leco.htm,True,,1

@@ -1,0 +1,87 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+karb1241-1-1,,karb1241,1,isī,isī,[],,[],,False,Mikir.htm,False,,1
+karb1241-1-2,,karb1241,1,itʃʰi,itʃʰi,[],,[],,False,Mikir.htm,False,,2
+karb1241-2-1,,karb1241,2,hiní,hiní,[],,[],,False,Mikir.htm,False,,1
+karb1241-2-2,,karb1241,2,hini,hini,[],,[],,False,Mikir.htm,False,,2
+karb1241-3-1,,karb1241,3,ketʰòm,ketʰòm,[],,[],,False,Mikir.htm,False,,1
+karb1241-3-2,,karb1241,3,ketʰɔm,ketʰɔm,[],,[],,False,Mikir.htm,False,,2
+karb1241-4-1,,karb1241,4,pʰlī,pʰlī,[],,[],,False,Mikir.htm,False,,1
+karb1241-4-2,,karb1241,4,pʰli,pʰli,[],,[],,False,Mikir.htm,False,,2
+karb1241-5-1,,karb1241,5,pʰō,pʰō,[],,[],,False,Mikir.htm,False,,1
+karb1241-5-2,,karb1241,5,pʰo,pʰo,[],,[],,False,Mikir.htm,False,,2
+karb1241-6-1,,karb1241,6,tʰrók,tʰrók,[],,[],,False,Mikir.htm,False,,1
+karb1241-6-2,,karb1241,6,tʰrɔk,tʰrɔk,[],,[],,False,Mikir.htm,False,,2
+karb1241-7-1,,karb1241,7,tʰróksí,tʰróksí,[],(litː '6 + 1'),[],,False,Mikir.htm,False,,1
+karb1241-7-2,,karb1241,7,tʰrɔk-itʃʰi,tʰrɔk-itʃʰi,[],( lit: 6 + 1 ),[],,False,Mikir.htm,False,,2
+karb1241-8-1,,karb1241,8,nerkép,nerkép,[],(litː '2 less 10'),[],,False,Mikir.htm,False,,1
+karb1241-8-2,,karb1241,8,ner-kep,ner-kep,[],( lit: 2 less 10 ),[],,False,Mikir.htm,False,,2
+karb1241-9-1,,karb1241,9,sirkép,sirkép,[],(litː '1 less 10'),[],,False,Mikir.htm,False,,1
+karb1241-9-2,,karb1241,9,itʃʰir-kep,itʃʰir-kep,[],(lit: 1 less 10),[],,False,Mikir.htm,False,,2
+karb1241-10-1,,karb1241,10,kép,kép,[],( bound form),[],,False,Mikir.htm,False,,1
+karb1241-10-2,,karb1241,10,kep,kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-10-3,,karb1241,10,kre,kre,[],( bound form),[],,False,Mikir.htm,False,,2
+karb1241-11-1,,karb1241,11,kré-isī,kré-isī,[],,[],,False,Mikir.htm,False,,1
+karb1241-11-2,,karb1241,11,kreitʃʰi,kreitʃʰi,[],,[],,False,Mikir.htm,False,,2
+karb1241-12-1,,karb1241,12,kré-hiní,kré-hiní,[],,[],,False,Mikir.htm,False,,1
+karb1241-12-2,,karb1241,12,krehini,krehini,[],,[],,False,Mikir.htm,False,,2
+karb1241-13-1,,karb1241,13,kré-ketʰòm,kré-ketʰòm,[],,[],,False,Mikir.htm,False,,1
+karb1241-13-2,,karb1241,13,kreketʰɔm,kreketʰɔm,[],,[],,False,Mikir.htm,False,,2
+karb1241-14-1,,karb1241,14,kré-pʰlī,kré-pʰlī,[],,[],,False,Mikir.htm,False,,1
+karb1241-14-2,,karb1241,14,krepʰli,krepʰli,[],,[],,False,Mikir.htm,False,,2
+karb1241-15-1,,karb1241,15,kré-pʰō,kré-pʰō,[],,[],,False,Mikir.htm,False,,1
+karb1241-15-2,,karb1241,15,krepʰo,krepʰo,[],,[],,False,Mikir.htm,False,,2
+karb1241-16-1,,karb1241,16,kré-tʰrók,kré-tʰrók,[],,[],,False,Mikir.htm,False,,1
+karb1241-16-2,,karb1241,16,kretʰrɔk,kretʰrɔk,[],,[],,False,Mikir.htm,False,,2
+karb1241-17-1,,karb1241,17,kré-tʰróksí,kré-tʰróksí,[],,[],,False,Mikir.htm,False,,1
+karb1241-17-2,,karb1241,17,kretʰrɔk-itʃʰi,kretʰrɔk-itʃʰi,[],,[],,False,Mikir.htm,False,,2
+karb1241-18-1,,karb1241,18,kré-nerkép,kré-nerkép,[],,[],,False,Mikir.htm,False,,1
+karb1241-18-2,,karb1241,18,krenerkep,krenerkep,[],,[],,False,Mikir.htm,False,,2
+karb1241-19-1,,karb1241,19,kré-sirkép,kré-sirkép,[],,[],,False,Mikir.htm,False,,1
+karb1241-19-2,,karb1241,19,kreitʃʰir-kep,kreitʃʰir-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-20-1,,karb1241,20,iŋkòy,iŋkòy,[],,[],,False,Mikir.htm,False,,1
+karb1241-20-2,,karb1241,20,iŋkɔj,iŋkɔj,[],,[],,False,Mikir.htm,False,,2
+karb1241-20-3,,karb1241,20,kuri,kuri,[],< Assamese ,[],,True,Mikir.htm,False,,2
+karb1241-21-1,,karb1241,21,iŋkòy-rá-isī,iŋkòy-rá-isī,[],,[],,False,Mikir.htm,False,,1
+karb1241-21-2,,karb1241,21,iŋkɔj-ra-itʃʰi,iŋkɔj-ra-itʃʰi,[],,[],,False,Mikir.htm,False,,2
+karb1241-21-3,,karb1241,21,iŋkɔrrra-itʃʰi,iŋkɔrrra-itʃʰi,[],,[],,False,Mikir.htm,False,,2
+karb1241-22-1,,karb1241,22,iŋkòy-rá hiní,iŋkòy-rá hiní,[],,[],,False,Mikir.htm,False,,1
+karb1241-22-2,,karb1241,22,iŋkɔj-ra-hini,iŋkɔj-ra-hini,[],,[],,False,Mikir.htm,False,,2
+karb1241-23-1,,karb1241,23,iŋkòy-rá ketʰòm,iŋkòy-rá ketʰòm,[],,[],,False,Mikir.htm,False,,1
+karb1241-23-2,,karb1241,23,iŋkɔj-ra-ketʰɔm,iŋkɔj-ra-ketʰɔm,[],,[],,False,Mikir.htm,False,,2
+karb1241-24-1,,karb1241,24,iŋkòy-rá pʰlī,iŋkòy-rá pʰlī,[],,[],,False,Mikir.htm,False,,1
+karb1241-24-2,,karb1241,24,iŋkɔj-ra-pʰli,iŋkɔj-ra-pʰli,[],,[],,False,Mikir.htm,False,,2
+karb1241-25-1,,karb1241,25,iŋkòy-rá pʰō,iŋkòy-rá pʰō,[],,[],,False,Mikir.htm,False,,1
+karb1241-25-2,,karb1241,25,iŋkɔj-ra-pʰo,iŋkɔj-ra-pʰo,[],,[],,False,Mikir.htm,False,,2
+karb1241-26-1,,karb1241,26,iŋkòy-rá tʰrók,iŋkòy-rá tʰrók,[],,[],,False,Mikir.htm,False,,1
+karb1241-26-2,,karb1241,26,iŋkɔj-ra-tʰrɔk,iŋkɔj-ra-tʰrɔk,[],,[],,False,Mikir.htm,False,,2
+karb1241-27-1,,karb1241,27,iŋkòy-rá tʰróksí,iŋkòy-rá tʰróksí,[],,[],,False,Mikir.htm,False,,1
+karb1241-27-2,,karb1241,27,iŋkɔj-ra-tʰrɔk-itʃʰi,iŋkɔj-ra-tʰrɔk-itʃʰi,[],,[],,False,Mikir.htm,False,,2
+karb1241-28-1,,karb1241,28,iŋkòy-rá nerkép,iŋkòy-rá nerkép,[],,[],,False,Mikir.htm,False,,1
+karb1241-28-2,,karb1241,28,iŋkɔj-ra-ner-kep,iŋkɔj-ra-ner-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-29-1,,karb1241,29,iŋkòy-rá sirkép,iŋkòy-rá sirkép,[],,[],,False,Mikir.htm,False,,1
+karb1241-29-2,,karb1241,29,iŋkɔj-ra-itʃʰir-kep,iŋkɔj-ra-itʃʰir-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-30-1,,karb1241,30,tʰòm-kép,tʰòm-kép,[],,[],,False,Mikir.htm,False,,1
+karb1241-30-2,,karb1241,30,tʰɔm-kep,tʰɔm-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-40-1,,karb1241,40,pʰlī-kép,pʰlī-kép,[],,[],,False,Mikir.htm,False,,1
+karb1241-40-2,,karb1241,40,pʰli-kep,pʰli-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-40-3,,karb1241,40,du kuri,du kuri,[],( 2 x 20 ),[],,False,Mikir.htm,False,,2
+karb1241-50-1,,karb1241,50,pʰō-kép,pʰō-kép,[],,[],,False,Mikir.htm,False,,1
+karb1241-50-2,,karb1241,50,pʰɔh-kep,pʰɔh-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-60-1,,karb1241,60,tʰrók-kép,tʰrók-kép,[],,[],,False,Mikir.htm,False,,1
+karb1241-60-2,,karb1241,60,tʰrɔk-kep,tʰrɔk-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-70-1,,karb1241,70,tʰrɔksí-kép,tʰrɔksí-kép,[],,[],,False,Mikir.htm,False,,1
+karb1241-70-2,,karb1241,70,tʰrɔk-itʃʰi-kep,tʰrɔk-itʃʰi-kep,[],( 6 + 1  x 10 ),[],,False,Mikir.htm,False,,2
+karb1241-80-1,,karb1241,80,tʰók-nerkép,tʰók-nerkép,[],,[],,False,Mikir.htm,False,,1
+karb1241-80-2,,karb1241,80,tʰɔk-ner-kep,tʰɔk-ner-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-80-3,,karb1241,80,tʃʰari kuri,tʃʰari kuri,[],( 4 x 20),[],,False,Mikir.htm,False,,2
+karb1241-90-1,,karb1241,90,tʰók-sirkép,tʰók-sirkép,[],,[],,False,Mikir.htm,False,,1
+karb1241-90-2,,karb1241,90,tʰɔk-itʃʰir-kep,tʰɔk-itʃʰir-kep,[],,[],,False,Mikir.htm,False,,2
+karb1241-100-1,,karb1241,100,pʰaró,pʰaró,[],,[],,False,Mikir.htm,False,,1
+karb1241-100-2,,karb1241,100,pʰaro,pʰaro,[],,[],,False,Mikir.htm,False,,2
+karb1241-100-3,,karb1241,100,patʃʰ kuri,patʃʰ kuri,[],,[],,False,Mikir.htm,False,,2
+karb1241-100-4,,karb1241,100,ek ho,ek ho,[],< Assamese ,[],,True,Mikir.htm,False,,2
+karb1241-200-1,,karb1241,200,pʰaró hiní,pʰaró hiní,[],,[],,False,Mikir.htm,False,,1
+karb1241-1000-1,,karb1241,1000,surí,surí,[],,[],,False,Mikir.htm,False,,1
+karb1241-1000-2,,karb1241,1000,tʃʰuri,tʃʰuri,[],,[],,False,Mikir.htm,False,,2
+karb1241-1000-3,,karb1241,1000,itʃʰi ra itʃʰi,itʃʰi ra itʃʰi,[],,[],,False,Mikir.htm,False,,2
+karb1241-2000-1,,karb1241,2000,surí hiní,surí hiní,[],,[],,False,Mikir.htm,False,,1

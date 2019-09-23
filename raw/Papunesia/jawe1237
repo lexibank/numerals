@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+jawe1237-1-1,,jawe1237,1,siic,siic,[],,[],,False,Jawe.htm,False,,1
+jawe1237-1-2,,jawe1237,1,seec,seec,[],,[],,False,Jawe.htm,False,,1
+jawe1237-2-1,,jawe1237,2,seluk,seluk,[],,[],,False,Jawe.htm,False,,1
+jawe1237-3-1,,jawe1237,3,seen,seen,[],,[],,False,Jawe.htm,False,,1
+jawe1237-4-1,,jawe1237,4,phoec,phoec,[],,[],,False,Jawe.htm,False,,1
+jawe1237-5-1,,jawe1237,5,nim,nim,[],,[],,False,Jawe.htm,False,,1
+jawe1237-6-1,,jawe1237,6,ni-siic,ni-siic,[],,[],,False,Jawe.htm,False,,1
+jawe1237-6-2,,jawe1237,6,ni seec,ni seec,[],( 5 + 1 ),[],,False,Jawe.htm,False,,1
+jawe1237-7-1,,jawe1237,7,ni-seluk,ni-seluk,[],( 5 + 2 ),[],,False,Jawe.htm,False,,1
+jawe1237-8-1,,jawe1237,8,ni-seen,ni-seen,[],( 5 + 3 ),[],,False,Jawe.htm,False,,1
+jawe1237-9-1,,jawe1237,9,ni-phoec,ni-phoec,[],( 5 + 4 ),[],,False,Jawe.htm,False,,1
+jawe1237-10-1,,jawe1237,10,paidu,paidu,[],( litː ''two hands''),[],,False,Jawe.htm,False,,1
+jawe1237-11-1,,jawe1237,11,paidu bwan siic,paidu bwan siic,[],,[],,False,Jawe.htm,False,,1
+jawe1237-12-1,,jawe1237,12,paidu bwan selu,paidu bwan selu,[],,[],,False,Jawe.htm,False,,1
+jawe1237-13-1,,jawe1237,13,paidu bwan seen,paidu bwan seen,[],,[],,False,Jawe.htm,False,,1
+jawe1237-14-1,,jawe1237,14,paidu bwan phoec,paidu bwan phoec,[],,[],,False,Jawe.htm,False,,1
+jawe1237-15-1,,jawe1237,15,paidu bwan nim,paidu bwan nim,[],,[],,False,Jawe.htm,False,,1
+jawe1237-16-1,,jawe1237,16,paidu bwan ni-siic,paidu bwan ni-siic,[],,[],,False,Jawe.htm,False,,1
+jawe1237-17-1,,jawe1237,17,paidu bwan ni-seluk,paidu bwan ni-seluk,[],,[],,False,Jawe.htm,False,,1
+jawe1237-18-1,,jawe1237,18,paidu bwan ni-seen,paidu bwan ni-seen,[],,[],,False,Jawe.htm,False,,1
+jawe1237-19-1,,jawe1237,19,paidu bwan ni-phoec,paidu bwan ni-phoec,[],,[],,False,Jawe.htm,False,,1
+jawe1237-20-1,,jawe1237,20,siic kac,siic kac,[],(lit: ''kac = 'person''),[],,False,Jawe.htm,False,,1
+jawe1237-30-1,,jawe1237,30,siic kac bwan paidu,siic kac bwan paidu,[],,[],,False,Jawe.htm,False,,1
+jawe1237-40-1,,jawe1237,40,seluk kac,seluk kac,[],(lit: ''two persons''),[],,False,Jawe.htm,False,,1
+jawe1237-50-1,,jawe1237,50,seluk kac bwan paidu,seluk kac bwan paidu,[],,[],,False,Jawe.htm,False,,1
+jawe1237-60-1,,jawe1237,60,seen kac,seen kac,[],(lit: ''three persons''),[],,False,Jawe.htm,False,,1
+jawe1237-70-1,,jawe1237,70,seen kac bwan paidu,seen kac bwan paidu,[],,[],,False,Jawe.htm,False,,1
+jawe1237-80-1,,jawe1237,80,phoec kac,phoec kac,[],(lit: ''four persons''),[],,False,Jawe.htm,False,,1
+jawe1237-90-1,,jawe1237,90,phoec kac bwan paidu,phoec kac bwan paidu,[],,[],,False,Jawe.htm,False,,1
+jawe1237-100-1,,jawe1237,100,nim kac,nim kac,[],(lit: ''five persons''),[],,False,Jawe.htm,False,,1

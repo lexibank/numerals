@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+teop1238-1-1,,teop1238,1,'peha,'peha,[],,[],,False,Teop.htm,False,,1
+teop1238-1-2,,teop1238,1,peha,peha,[],,[],,False,Teop.htm,False,,2
+teop1238-2-1,,teop1238,2,'buaku,'buaku,[],,[],,False,Teop.htm,False,,1
+teop1238-2-2,,teop1238,2,buaku,buaku,[],,[],,False,Teop.htm,False,,2
+teop1238-3-1,,teop1238,3,ku'kan,ku'kan,[],,[],,False,Teop.htm,False,,1
+teop1238-3-2,,teop1238,3,kukan,kukan,[],,[],,False,Teop.htm,False,,2
+teop1238-4-1,,teop1238,4,do'rana,do'rana,[],,[],,False,Teop.htm,False,,1
+teop1238-4-2,,teop1238,4,dorana,dorana,[],,[],,False,Teop.htm,False,,2
+teop1238-5-1,,teop1238,5,taᵒ'nim,taᵒ'nim,[],,[],,False,Teop.htm,False,,1
+teop1238-5-2,,teop1238,5,taonim,taonim,[],,[],,False,Teop.htm,False,,2
+teop1238-6-1,,teop1238,6,'peha to'toka,'peha to'toka,[],( 1+ 5 ),[],,False,Teop.htm,False,,1
+teop1238-6-2,,teop1238,6,peha to toka,peha to toka,[],( 1+ 5 ),[],,False,Teop.htm,False,,2
+teop1238-7-1,,teop1238,7,'buaku to'toka,'buaku to'toka,[],( 2+ 5 ),[],,False,Teop.htm,False,,1
+teop1238-7-2,,teop1238,7,buaku to toka,buaku to toka,[],( 2+ 5 ),[],,False,Teop.htm,False,,2
+teop1238-8-1,,teop1238,8,ku'kan to'toka,ku'kan to'toka,[],( 3+ 5 ),[],,False,Teop.htm,False,,1
+teop1238-8-2,,teop1238,8,kukan to toka,kukan to toka,[],( 3+ 5 ),[],,False,Teop.htm,False,,2
+teop1238-9-1,,teop1238,9,do'rana to'toka,do'rana to'toka,[],( 4+ 5 ),[],,False,Teop.htm,False,,1
+teop1238-9-2,,teop1238,9,dorana to toka,dorana to toka,[],( 4+ 5 ),[],,False,Teop.htm,False,,2
+teop1238-10-1,,teop1238,10,'peha 'saːβun,'peha 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-10-2,,teop1238,10,peha savun,peha savun,[],,[],,False,Teop.htm,False,,2
+teop1238-11-1,,teop1238,11,'peha 'saːβun 'peha,'peha 'saːβun 'peha,[],,[],,False,Teop.htm,False,,1
+teop1238-11-2,,teop1238,11,peha savun peha,peha savun peha,[],,[],,False,Teop.htm,False,,2
+teop1238-12-1,,teop1238,12,'peha 'saːβun 'buaku,'peha 'saːβun 'buaku,[],,[],,False,Teop.htm,False,,1
+teop1238-12-2,,teop1238,12,peha savun buaku,peha savun buaku,[],,[],,False,Teop.htm,False,,2
+teop1238-13-1,,teop1238,13,'peha 'saːβun ku'kan,'peha 'saːβun ku'kan,[],,[],,False,Teop.htm,False,,1
+teop1238-13-2,,teop1238,13,peha savun kukan,peha savun kukan,[],,[],,False,Teop.htm,False,,2
+teop1238-14-1,,teop1238,14,'peha 'saːβun do'rana,'peha 'saːβun do'rana,[],,[],,False,Teop.htm,False,,1
+teop1238-14-2,,teop1238,14,peha savun dorana,peha savun dorana,[],,[],,False,Teop.htm,False,,2
+teop1238-15-1,,teop1238,15,'peha 'saːβun taᵒ'nim,'peha 'saːβun taᵒ'nim,[],,[],,False,Teop.htm,False,,1
+teop1238-15-2,,teop1238,15,peha savun taonim,peha savun taonim,[],,[],,False,Teop.htm,False,,2
+teop1238-16-1,,teop1238,16,'peha 'saːβun 'peha to'toka,'peha 'saːβun 'peha to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-16-2,,teop1238,16,peha savun peha to toka,peha savun peha to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-17-1,,teop1238,17,'peha 'saːβun 'buaku to'toka,'peha 'saːβun 'buaku to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-17-2,,teop1238,17,peha savun buaku to toka,peha savun buaku to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-18-1,,teop1238,18,'peha 'saːβun ku'kan to'toka,'peha 'saːβun ku'kan to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-18-2,,teop1238,18,peha savun kukan to toka,peha savun kukan to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-19-1,,teop1238,19,'peha 'saːβun do'rana to'toka,'peha 'saːβun do'rana to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-19-2,,teop1238,19,peha savun dorana to toka,peha savun dorana to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-20-1,,teop1238,20,'buaku 'saːβun,'buaku 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-20-2,,teop1238,20,buaku savun,buaku savun,[],,[],,False,Teop.htm,False,,2
+teop1238-21-1,,teop1238,21,'buaku 'saːβun 'peha,'buaku 'saːβun 'peha,[],,[],,False,Teop.htm,False,,1
+teop1238-21-2,,teop1238,21,buaku savun peha,buaku savun peha,[],,[],,False,Teop.htm,False,,2
+teop1238-22-1,,teop1238,22,'buaku 'saːβun 'buaku,'buaku 'saːβun 'buaku,[],,[],,False,Teop.htm,False,,1
+teop1238-22-2,,teop1238,22,buaku savun buaku,buaku savun buaku,[],,[],,False,Teop.htm,False,,2
+teop1238-23-1,,teop1238,23,'buaku 'saːβun ku'kan,'buaku 'saːβun ku'kan,[],,[],,False,Teop.htm,False,,1
+teop1238-23-2,,teop1238,23,buaku savun kukan,buaku savun kukan,[],,[],,False,Teop.htm,False,,2
+teop1238-24-1,,teop1238,24,'buaku 'saːβun do'rana,'buaku 'saːβun do'rana,[],,[],,False,Teop.htm,False,,1
+teop1238-24-2,,teop1238,24,buaku savun dorana,buaku savun dorana,[],,[],,False,Teop.htm,False,,2
+teop1238-25-1,,teop1238,25,'buaku 'saːβun taᵒ'nim,'buaku 'saːβun taᵒ'nim,[],,[],,False,Teop.htm,False,,1
+teop1238-25-2,,teop1238,25,buaku savun taonim,buaku savun taonim,[],,[],,False,Teop.htm,False,,2
+teop1238-26-1,,teop1238,26,'buaku 'saːβun 'peha to'toka,'buaku 'saːβun 'peha to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-26-2,,teop1238,26,buaku savun peha to toka,buaku savun peha to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-27-1,,teop1238,27,'buaku 'saːβun 'buaku to'toka,'buaku 'saːβun 'buaku to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-27-2,,teop1238,27,buaku savun buaku to toka,buaku savun buaku to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-28-1,,teop1238,28,'buaku 'saːβun ku'kan to'toka,'buaku 'saːβun ku'kan to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-28-2,,teop1238,28,buaku savun kukan to toka,buaku savun kukan to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-29-1,,teop1238,29,'buaku 'saːβun do'rana to'toka,'buaku 'saːβun do'rana to'toka,[],,[],,False,Teop.htm,False,,1
+teop1238-29-2,,teop1238,29,buaku savun dorana to toka,buaku savun dorana to toka,[],,[],,False,Teop.htm,False,,2
+teop1238-30-1,,teop1238,30,ku'kan 'saːβun,ku'kan 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-30-2,,teop1238,30,kukan savun,kukan savun,[],,[],,False,Teop.htm,False,,2
+teop1238-40-1,,teop1238,40,do'rana 'saːβun,do'rana 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-40-2,,teop1238,40,dorana savun,dorana savun,[],,[],,False,Teop.htm,False,,2
+teop1238-50-1,,teop1238,50,taᵒ'nim 'saːβun,taᵒ'nim 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-50-2,,teop1238,50,taonim savun,taonim savun,[],,[],,False,Teop.htm,False,,2
+teop1238-60-1,,teop1238,60,'peha to'toka 'saːβun,'peha to'toka 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-60-2,,teop1238,60,peha to toka savun,peha to toka savun,[],,[],,False,Teop.htm,False,,2
+teop1238-70-1,,teop1238,70,'buaku to'toka 'saːβun,'buaku to'toka 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-70-2,,teop1238,70,buaku to toka savun,buaku to toka savun,[],,[],,False,Teop.htm,False,,2
+teop1238-80-1,,teop1238,80,ku,ku,[],,[],,False,Teop.htm,False,,1
+teop1238-80-2,,teop1238,80,kan to'toka 'saːβun,kan to'toka 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-80-3,,teop1238,80,kukan to toka savun,kukan to toka savun,[],,[],,False,Teop.htm,False,,2
+teop1238-90-1,,teop1238,90,do'rana to'toka 'saːβun,do'rana to'toka 'saːβun,[],,[],,False,Teop.htm,False,,1
+teop1238-90-2,,teop1238,90,dorana to toka savun,dorana to toka savun,[],,[],,False,Teop.htm,False,,2
+teop1238-100-1,,teop1238,100,'peha 'handrɛt,'peha 'handrɛt,[],,[],,False,Teop.htm,False,,1
+teop1238-100-2,,teop1238,100,oan hantət,oan hantət,[],,[],,False,Teop.htm,False,,2
+teop1238-200-1,,teop1238,200,'buaku 'handrɛt,'buaku 'handrɛt,[],,[],,False,Teop.htm,False,,1
+teop1238-200-2,,teop1238,200,tu hantət ?,tu hantət ?,[],,[],,False,Teop.htm,True,,2
+teop1238-1000-1,,teop1238,1000,'peha 'tausen,'peha 'tausen,[],,[],,False,Teop.htm,False,,1
+teop1238-1000-2,,teop1238,1000,tausen ?,tausen ?,[],,[],,False,Teop.htm,True,,2
+teop1238-2000-1,,teop1238,2000,'buaku 'tausen,'buaku 'tausen,[],,[],,False,Teop.htm,False,,1
+teop1238-2000-2,,teop1238,2000,tu tausen ?,tu tausen ?,[],,[],,False,Teop.htm,True,,2

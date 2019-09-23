@@ -1,0 +1,19 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kasa1248-1-1,,kasa1248,1,-tɛɛna,-tɛɛna,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-2-1,,kasa1248,2,-naandiid,-naandiid,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-3-1,,kasa1248,3,-taar,-taar,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-4-1,,kasa1248,4,-sannaʔ,-sannaʔ,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-5-1,,kasa1248,5,jurooɡ,jurooɡ,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-6-1,,kasa1248,6,jurooɡ -tɛɛna,jurooɡ -tɛɛna,[],( 5 + 1 ),[],,False,Kasanga.htm,False,,1
+kasa1248-7-1,,kasa1248,7,jurooɡ -naandiid,jurooɡ -naandiid,[],( 5 + 2 ),[],,False,Kasanga.htm,False,,1
+kasa1248-8-1,,kasa1248,8,ɡasansanna,ɡasansanna,[],( cf. 'four'),[],,False,Kasanga.htm,False,,1
+kasa1248-9-1,,kasa1248,9,jurooɡ -sannaʔ,jurooɡ -sannaʔ,[],( 5 + 4 ),[],,False,Kasanga.htm,False,,1
+kasa1248-10-1,,kasa1248,10,ŋaarooɡ,ŋaarooɡ,[],( litː 'fives'),[],,False,Kasanga.htm,False,,1
+kasa1248-20-1,,kasa1248,20,muwã,muwã,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-30-1,,kasa1248,30,muwã ɡär,muwã ɡär,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-40-1,,kasa1248,40,ŋaarooɡ -sannaʔ,ŋaarooɡ -sannaʔ,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-50-1,,kasa1248,50,ŋaarooɡ jurooɡ,ŋaarooɡ jurooɡ,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-80-1,,kasa1248,80,ŋaarooɡ jiroosannaʔ,ŋaarooɡ jiroosannaʔ,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-100-1,,kasa1248,100,kɛmɛ,kɛmɛ,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-200-1,,kasa1248,200,kɛmaa ɡanaandiid,kɛmaa ɡanaandiid,[],,[],,False,Kasanga.htm,False,,1
+kasa1248-1000-1,,kasa1248,1000,ntunku,ntunku,[],,[],,False,Kasanga.htm,False,,1

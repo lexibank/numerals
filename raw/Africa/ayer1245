@@ -1,0 +1,105 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ayer1245-1-1,,ayer1245,1,ĩ̀kã̌,ĩ̀kã̌,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-1-2,,ayer1245,1,ɪdɪ,ɪdɪ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-2-1,,ayer1245,2,ìd͡ʒì,ìd͡ʒì,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-2-2,,ayer1245,2,ahwa,ahwa,[],,[],,False,Ayu.htm,False,,1
+ayer1245-2-3,,ayer1245,2,afah,afah,[],,[],,False,Ayu.htm,False,,1
+ayer1245-3-1,,ayer1245,3,ītā,ītā,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-3-2,,ayer1245,3,ataar,ataar,[],,[],,False,Ayu.htm,False,,1
+ayer1245-4-1,,ayer1245,4,ĩ̄jẽ̄,ĩ̄jẽ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-4-2,,ayer1245,4,anaŋaʃ,anaŋaʃ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-5-1,,ayer1245,5,ĩ̄tṹ,ĩ̄tṹ,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-5-2,,ayer1245,5,atuɡen,atuɡen,[],,[],,False,Ayu.htm,False,,1
+ayer1245-6-1,,ayer1245,6,ìfà,ìfà,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-6-2,,ayer1245,6,atɛɛr,atɛɛr,[],,[],,False,Ayu.htm,False,,1
+ayer1245-7-1,,ayer1245,7,īd͡ʒʷī,īd͡ʒʷī,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-7-2,,ayer1245,7,ataraŋaʃ,ataraŋaʃ,[],( 3 ? ),[],,False,Ayu.htm,False,,1
+ayer1245-8-1,,ayer1245,8,īrō,īrō,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-8-2,,ayer1245,8,anababoɡ,anababoɡ,[],( 4 ? ),[],,False,Ayu.htm,False,,1
+ayer1245-9-1,,ayer1245,9,ĩ̄dã̂,ĩ̄dã̂,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-9-2,,ayer1245,9,atuluboɡ,atuluboɡ,[],( 5 ? ),[],,False,Ayu.htm,False,,1
+ayer1245-10-1,,ayer1245,10,īɡʷá,īɡʷá,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-10-2,,ayer1245,10,iʃoɡ,iʃoɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-10-3,,ayer1245,10,ajalaboɡ,ajalaboɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-11-1,,ayer1245,11,īɡʷá-õːnĩ̄-ĩ̀kã̌,īɡʷá-õːnĩ̄-ĩ̀kã̌,[],( 10 + 1 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-11-2,,ayer1245,11,iʃoɡ na ɪdɪ,iʃoɡ na ɪdɪ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-12-1,,ayer1245,12,īɡʷá-õːnĩ̄-īd͡ʒwī,īɡʷá-õːnĩ̄-īd͡ʒwī,[],( 10 + 2 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-12-2,,ayer1245,12,iʃoɡ na ahwa,iʃoɡ na ahwa,[],,[],,False,Ayu.htm,False,,1
+ayer1245-13-1,,ayer1245,13,īɡʷá-õːnĩ̄-ītā,īɡʷá-õːnĩ̄-ītā,[],( 10 + 3 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-13-2,,ayer1245,13,iʃoɡ na ataar,iʃoɡ na ataar,[],,[],,False,Ayu.htm,False,,1
+ayer1245-14-1,,ayer1245,14,īɡʷá-õːnĩ̄-ĩ̄jẽ̄,īɡʷá-õːnĩ̄-ĩ̄jẽ̄,[],( 10 + 4 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-14-2,,ayer1245,14,iʃoɡ na anaŋaʃ,iʃoɡ na anaŋaʃ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-15-1,,ayer1245,15,āfìlî-ĩ̄jẽ̄ ĩ̄tṹ,āfìlî-ĩ̄jẽ̄ ĩ̄tṹ,[],( 20 - 5 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-15-2,,ayer1245,15,iʃoɡ na atuɡen,iʃoɡ na atuɡen,[],,[],,False,Ayu.htm,False,,1
+ayer1245-16-1,,ayer1245,16,āfìlî-ĩ̄jẽ̄ ēɡbɔ̄lɔ̄,āfìlî-ĩ̄jẽ̄ ēɡbɔ̄lɔ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-16-2,,ayer1245,16,īɡʷá-õːnĩ̄-ĩ̄jẽ̄,īɡʷá-õːnĩ̄-ĩ̄jẽ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-16-3,,ayer1245,16,iʃoɡ na atɛɛr,iʃoɡ na atɛɛr,[],,[],,False,Ayu.htm,False,,1
+ayer1245-17-1,,ayer1245,17,āfìlî-ītā ēɡbɔ̄lɔ̄,āfìlî-ītā ēɡbɔ̄lɔ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-17-2,,ayer1245,17,īɡʷá-õːnĩ̄-īd͡ʒʷī,īɡʷá-õːnĩ̄-īd͡ʒʷī,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-17-3,,ayer1245,17,iʃoɡ na ataraŋaʃ,iʃoɡ na ataraŋaʃ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-18-1,,ayer1245,18,āfìlî-ìd͡ʒì ēɡbɔ̄lɔ̄,āfìlî-ìd͡ʒì ēɡbɔ̄lɔ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-18-2,,ayer1245,18,īɡʷá-õːnĩ̄-īrō,īɡʷá-õːnĩ̄-īrō,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-18-3,,ayer1245,18,iʃoɡ na anababoɡ,iʃoɡ na anababoɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-19-1,,ayer1245,19,āfìlî-ĩ̀kã̌ ēɡbɔ̄lɔ̄,āfìlî-ĩ̀kã̌ ēɡbɔ̄lɔ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-19-2,,ayer1245,19,īɡʷá-õːnĩ̄- ĩ̄dã̂,īɡʷá-õːnĩ̄- ĩ̄dã̂,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-19-3,,ayer1245,19,iʃoɡ na atuluboɡ,iʃoɡ na atuluboɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-20-1,,ayer1245,20,ēɡbɔ̄lɔ̄,ēɡbɔ̄lɔ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-20-2,,ayer1245,20,iʃoɡ ahwa,iʃoɡ ahwa,[],,[],,False,Ayu.htm,False,,1
+ayer1245-21-1,,ayer1245,21,ēɡbɔ̄-ĩ̀kã̌,ēɡbɔ̄-ĩ̀kã̌,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-21-2,,ayer1245,21,ēɡbɔ̄lɔ̄-ēlî-ĩ̀kã̌,ēɡbɔ̄lɔ̄-ēlî-ĩ̀kã̌,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-21-3,,ayer1245,21,iʃoɡ ahwa na ɪdɪ,iʃoɡ ahwa na ɪdɪ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-22-1,,ayer1245,22,ēɡbɔ̄-ìd͡ʒì,ēɡbɔ̄-ìd͡ʒì,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-22-2,,ayer1245,22,ēɡbɔ̄lɔ̄-ēlî-ìd͡ʒì,ēɡbɔ̄lɔ̄-ēlî-ìd͡ʒì,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-22-3,,ayer1245,22,iʃoɡ ahwa na ahwa,iʃoɡ ahwa na ahwa,[],,[],,False,Ayu.htm,False,,1
+ayer1245-23-1,,ayer1245,23,ēɡbɔ̄-ītā,ēɡbɔ̄-ītā,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-23-2,,ayer1245,23,ēɡbɔ̄lɔ̄-ēlî-ītā,ēɡbɔ̄lɔ̄-ēlî-ītā,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-23-3,,ayer1245,23,iʃoɡ ahwa na ataar,iʃoɡ ahwa na ataar,[],,[],,False,Ayu.htm,False,,1
+ayer1245-24-1,,ayer1245,24,ēɡbɔ̄-ĩ̄jẽ̄,ēɡbɔ̄-ĩ̄jẽ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-24-2,,ayer1245,24,ēɡbɔ̄lɔ̄-ēlî-ĩ̄jẽ̄,ēɡbɔ̄lɔ̄-ēlî-ĩ̄jẽ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-24-3,,ayer1245,24,iʃoɡ ahwa na anaŋaʃ,iʃoɡ ahwa na anaŋaʃ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-25-1,,ayer1245,25,ēɡbɔ̄-ĩ̄tṹ,ēɡbɔ̄-ĩ̄tṹ,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-25-2,,ayer1245,25,ēɡbɔ̄lɔ̄-ēlî-ĩ̄tṹ,ēɡbɔ̄lɔ̄-ēlî-ĩ̄tṹ,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-25-3,,ayer1245,25,iʃoɡ ahwa na atuɡen,iʃoɡ ahwa na atuɡen,[],,[],,False,Ayu.htm,False,,1
+ayer1245-26-1,,ayer1245,26,ēɡbɔ̄-ìfà,ēɡbɔ̄-ìfà,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-26-2,,ayer1245,26,ēɡbɔ̄lɔ̄-ìfà,ēɡbɔ̄lɔ̄-ìfà,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-26-3,,ayer1245,26,iʃoɡ ahwa na atɛɛr,iʃoɡ ahwa na atɛɛr,[],,[],,False,Ayu.htm,False,,1
+ayer1245-27-1,,ayer1245,27,ēɡbɔ̄-īd͡ʒʷī,ēɡbɔ̄-īd͡ʒʷī,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-27-2,,ayer1245,27,ēɡbɔ̄lɔ̄-īd͡ʒʷī,ēɡbɔ̄lɔ̄-īd͡ʒʷī,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-27-3,,ayer1245,27,iʃoɡ ahwa na ataraŋaʃ,iʃoɡ ahwa na ataraŋaʃ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-28-1,,ayer1245,28,ēɡbɔ̄-īrō,ēɡbɔ̄-īrō,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-28-2,,ayer1245,28,ēɡbɔ̄lɔ̄-īrō,ēɡbɔ̄lɔ̄-īrō,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-28-3,,ayer1245,28,iʃoɡ ahwa na anababoɡ,iʃoɡ ahwa na anababoɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-29-1,,ayer1245,29,ēɡbɔ̄-ĩ̄dã̂,ēɡbɔ̄-ĩ̄dã̂,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-29-2,,ayer1245,29,ēɡbɔ̄lɔ̄- ĩ̄dã̂,ēɡbɔ̄lɔ̄- ĩ̄dã̂,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-29-3,,ayer1245,29,iʃoɡ ahwa na atuluboɡ,iʃoɡ ahwa na atuluboɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-30-1,,ayer1245,30,īɡʷáɛ̃̄ɡɛ̃̄-ītā,īɡʷáɛ̃̄ɡɛ̃̄-ītā,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-30-2,,ayer1245,30,ēɡbɔ̄lɔ̄ ēlî-īɡʷá,ēɡbɔ̄lɔ̄ ēlî-īɡʷá,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-30-3,,ayer1245,30,iʃoɡ ataar,iʃoɡ ataar,[],,[],,False,Ayu.htm,False,,1
+ayer1245-40-1,,ayer1245,40,īɡʷáɛ̃̄ɡɛ̃̄-ĩ̄jẽ̄,īɡʷáɛ̃̄ɡɛ̃̄-ĩ̄jẽ̄,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-40-2,,ayer1245,40,ēɡbɔ̄-ìd͡ʒi,ēɡbɔ̄-ìd͡ʒi,[],( 20 x 2 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-40-3,,ayer1245,40,iʃoɡ anaŋaʃ,iʃoɡ anaŋaʃ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-50-1,,ayer1245,50,īɡʷáɛ̃̄ɡɛ̃̄-ĩ̄tṹ,īɡʷáɛ̃̄ɡɛ̃̄-ĩ̄tṹ,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-50-2,,ayer1245,50,ēɡbɔ̄-ìd͡ʒì ēlî-īɡʷá,ēɡbɔ̄-ìd͡ʒì ēlî-īɡʷá,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-50-3,,ayer1245,50,iʃoɡ atuɡen,iʃoɡ atuɡen,[],,[],,False,Ayu.htm,False,,1
+ayer1245-60-1,,ayer1245,60,īɡʷáɛ̃̄ɡɛ̃̄-ìfà,īɡʷáɛ̃̄ɡɛ̃̄-ìfà,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-60-2,,ayer1245,60,ēɡbɔ̄-ītā,ēɡbɔ̄-ītā,[],( 20 x 3 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-60-3,,ayer1245,60,iʃoɡ atɛɛr,iʃoɡ atɛɛr,[],,[],,False,Ayu.htm,False,,1
+ayer1245-70-1,,ayer1245,70,īɡʷáɛ̃̄ɡɛ̃̄-īd͡ʒʷī,īɡʷáɛ̃̄ɡɛ̃̄-īd͡ʒʷī,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-70-2,,ayer1245,70,ēɡbɔ̄-ītā ēlî-īɡʷá,ēɡbɔ̄-ītā ēlî-īɡʷá,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-70-3,,ayer1245,70,iʃoɡ ataraŋaʃ,iʃoɡ ataraŋaʃ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-80-1,,ayer1245,80,īɡʷáɛ̃̄ɡɛ̃̄-īrō,īɡʷáɛ̃̄ɡɛ̃̄-īrō,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-80-2,,ayer1245,80,ēɡbɔ̄-ĩ̄jẽ̄,ēɡbɔ̄-ĩ̄jẽ̄,[],( 20 x 4 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-80-3,,ayer1245,80,iʃoɡ anababoɡ,iʃoɡ anababoɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-90-1,,ayer1245,90,īɡʷáɛ̃̄ɡɛ̃̄-ĩ̄dã̂,īɡʷáɛ̃̄ɡɛ̃̄-ĩ̄dã̂,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-90-2,,ayer1245,90,ēɡbɔ̄-ĩ̄jẽ̄ ēlî-īɡʷa,ēɡbɔ̄-ĩ̄jẽ̄ ēlî-īɡʷa,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-90-3,,ayer1245,90,iʃoɡ atuluboɡ,iʃoɡ atuluboɡ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-100-1,,ayer1245,100,ēɡbɔ̄-ĩ̄tṹ,ēɡbɔ̄-ĩ̄tṹ,[],( 20 x 5 ),[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-100-2,,ayer1245,100,maɡ ɪdɪ,maɡ ɪdɪ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-200-1,,ayer1245,200,ēɡbɔ̄lɔ̄-īɡʷá,ēɡbɔ̄lɔ̄-īɡʷá,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-200-2,,ayer1245,200,ēɡbɔ̄-ĩ̄tṹ ɛ̃̄ɡɛ̃̄-ìd͡ʒì,ēɡbɔ̄-ĩ̄tṹ ɛ̃̄ɡɛ̃̄-ìd͡ʒì,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-200-3,,ayer1245,200,àk͡pù,àk͡pù,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-200-4,,ayer1245,200,maɡ ahwa,maɡ ahwa,[],,[],,False,Ayu.htm,False,,1
+ayer1245-1000-1,,ayer1245,1000,ēɡbɔ̄lɔ̄-īɡʷá ɛ̃̄ɡɛ̃̄-ĩ̄tṹ,ēɡbɔ̄lɔ̄-īɡʷá ɛ̃̄ɡɛ̃̄-ĩ̄tṹ,[],,[],,False,Ayere-Uwu.htm,False,,1
+ayer1245-1000-2,,ayer1245,1000,maɡ kwɪ,maɡ kwɪ,[],,[],,False,Ayu.htm,False,,1
+ayer1245-1000-3,,ayer1245,1000,ɪkwar,ɪkwar,[],,[],,False,Ayu.htm,False,,1
+ayer1245-2000-1,,ayer1245,2000,ēɡbɔ̄lɔ̄-īɡʷá ɛ̃̄ɡɛ̃̄-īɡʷá,ēɡbɔ̄lɔ̄-īɡʷá ɛ̃̄ɡɛ̃̄-īɡʷá,[],,[],,False,Ayere-Uwu.htm,False,,1

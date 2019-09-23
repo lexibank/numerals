@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+beam1240-1-1,,beam1240,1,aɡe,aɡe,[],(''little finger''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-2-1,,beam1240,2,aɡeadu,aɡeadu,[],(''ring finger''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-3-1,,beam1240,3,osoda,osoda,[],(''middle finger''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-4-1,,beam1240,4,biadu,biadu,[],(''index finger''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-5-1,,beam1240,5,bi,bi,[],(''thumb''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-6-1,,beam1240,6,ɡafe,ɡafe,[],(''palm''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-7-1,,beam1240,7,lobofasele,lobofasele,[],"(''wrist"")",[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-8-1,,beam1240,8,''lower arm (midway)'',''lower arm (midway)'',[],,[],,False,Beami-Bedamuni-Beo.htm,True,ɡodo,1
+beam1240-9-1,,beam1240,9,''elbow (inner)'',''elbow (inner)'',[],,[],,False,Beami-Bedamuni-Beo.htm,True,seseɡe,1
+beam1240-10-1,,beam1240,10,nabu,nabu,[],(''upper arm''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-11-1,,beam1240,11,ɡida,ɡida,[],,[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-11-2,,beam1240,11,hu,hu,[],(''shoulder''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-12-1,,beam1240,12,faɡo,faɡo,[],(''collar bone''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-13-1,,beam1240,13,ɡalo,ɡalo,[],(''neck''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-14-1,,beam1240,14,ɡehe,ɡehe,[],,[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-14-2,,beam1240,14,aida,aida,[],(''ear''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-15-1,,beam1240,15,baː,baː,[],(''cheek''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-16-1,,beam1240,16,si,si,[],(''eye''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-17-1,,beam1240,17,halida,halida,[],(''nose''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-18-1,,beam1240,18,lai si,lai si,[],(''other eye''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-19-1,,beam1240,19,lai baː,lai baː,[],(''other cheek''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-20-1,,beam1240,20,lai ɡehe,lai ɡehe,[],,[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-20-2,,beam1240,20,lai aida,lai aida,[],(''other ear''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-21-1,,beam1240,21,lai ɡalo,lai ɡalo,[],(''neck of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-22-1,,beam1240,22,lai faɡo,lai faɡo,[],(''collar bone of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-23-1,,beam1240,23,lai ɡida,lai ɡida,[],,[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-23-2,,beam1240,23,hu,hu,[],(''shoulder of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-24-1,,beam1240,24,lai nabu,lai nabu,[],(''upper arm of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-25-1,,beam1240,25,lai seseɡe,lai seseɡe,[],(''elbow (inner)''other side),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-26-1,,beam1240,26,lai ɡodo,lai ɡodo,[],(''lower arm of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-27-1,,beam1240,27,lai lobofasele,lai lobofasele,[],(''wrist of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-28-1,,beam1240,28,lai ɡafe,lai ɡafe,[],(''palm of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-29-1,,beam1240,29,lai bi,lai bi,[],(''thumb of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-30-1,,beam1240,30,lai biadu,lai biadu,[],(''index finger of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-31-1,,beam1240,31,lai osoda,lai osoda,[],(''middle finger other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-32-1,,beam1240,32,lai aɡeadu,lai aɡeadu,[],(''ring finger of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1
+beam1240-33-1,,beam1240,33,lai aɡe,lai aɡe,[],(''little finger of other side''),[],,False,Beami-Bedamuni-Beo.htm,False,,1

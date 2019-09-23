@@ -1,0 +1,99 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+myen1241-1-1,,myen1241,1,mɔ̀ɾì,mɔ̀ɾì,[],,[],,False,Myene.htm,False,,1
+myen1241-1-2,,myen1241,1,-w̃ɔri,-w̃ɔri,[],,[],,False,Myene.htm,False,,2
+myen1241-2-1,,myen1241,2,mbànì,mbànì,[],,[],,False,Myene.htm,False,,1
+myen1241-2-2,,myen1241,2,-wani,-wani,[],,[],,False,Myene.htm,False,,2
+myen1241-2-3,,myen1241,2,bani,bani,[],,[],,False,Myene.htm,False,,2
+myen1241-2-4,,myen1241,2,mbani,mbani,[],,[],,False,Myene.htm,False,,2
+myen1241-3-1,,myen1241,3,tʃáɾó,tʃáɾó,[],,[],,False,Myene.htm,False,,1
+myen1241-3-2,,myen1241,3,-raro,-raro,[],,[],,False,Myene.htm,False,,2
+myen1241-3-3,,myen1241,3,taro,taro,[],,[],,False,Myene.htm,False,,2
+myen1241-3-4,,myen1241,3,ncaro,ncaro,[],,[],,False,Myene.htm,False,,2
+myen1241-4-1,,myen1241,4,náyì,náyì,[],,[],,False,Myene.htm,False,,1
+myen1241-4-2,,myen1241,4,-nayi,-nayi,[],,[],,False,Myene.htm,False,,2
+myen1241-5-1,,myen1241,5,òtání,òtání,[],,[],,False,Myene.htm,False,,1
+myen1241-5-2,,myen1241,5,-tani,-tani,[],,[],,False,Myene.htm,False,,2
+myen1241-5-3,,myen1241,5,ncani,ncani,[],,[],,False,Myene.htm,False,,2
+myen1241-6-1,,myen1241,6,òɾówá,òɾówá,[],,[],,False,Myene.htm,False,,1
+myen1241-6-2,,myen1241,6,o-rowa,o-rowa,[],,[],,False,Myene.htm,False,,2
+myen1241-7-1,,myen1241,7,òɾwáɣénô,òɾwáɣénô,[],,[],,False,Myene.htm,False,,1
+myen1241-7-2,,myen1241,7,òɾwáɣénómò,òɾwáɣénómò,[],( 6 + 1 ),[],,False,Myene.htm,False,,1
+myen1241-7-3,,myen1241,7,o-rowa ɡe now̃o,o-rowa ɡe now̃o,[],( 6 + 1 ),[],,False,Myene.htm,False,,2
+myen1241-8-1,,myen1241,8,ènánáyì,ènánáyì,[],( 2 x 4 ),[],,False,Myene.htm,False,,1
+myen1241-8-2,,myen1241,8,e-nanayi,e-nanayi,[],( 2 x 4 ) ?,[],,False,Myene.htm,False,,2
+myen1241-9-1,,myen1241,9,ènóɣòmì,ènóɣòmì,[],( 10 - 1 ),[],,False,Myene.htm,False,,1
+myen1241-9-2,,myen1241,9,e-niɡow̃i,e-niɡow̃i,[],( 10 - 1 ) ?,[],,False,Myene.htm,False,,2
+myen1241-10-1,,myen1241,10,ìɣómí,ìɣómí,[],,[],,False,Myene.htm,False,,1
+myen1241-10-2,,myen1241,10,i-ɡow̃i,i-ɡow̃i,[],,[],,False,Myene.htm,False,,2
+myen1241-11-1,,myen1241,11,ìɣómí n ìmɔ̀ɾì,ìɣómí n ìmɔ̀ɾì,[],,[],,False,Myene.htm,False,,1
+myen1241-11-2,,myen1241,11,i-ɡow̃i ni -mɔ,i-ɡow̃i ni -mɔ,[],,[],,False,Myene.htm,False,,2
+myen1241-12-1,,myen1241,12,ìɣómí n ìmbànì,ìɣómí n ìmbànì,[],,[],,False,Myene.htm,False,,1
+myen1241-12-2,,myen1241,12,i-ɡow̃i ni -wani,i-ɡow̃i ni -wani,[],,[],,False,Myene.htm,False,,2
+myen1241-12-3,,myen1241,12,bani,bani,[],,[],,False,Myene.htm,False,,2
+myen1241-12-4,,myen1241,12,mbani,mbani,[],,[],,False,Myene.htm,False,,2
+myen1241-13-1,,myen1241,13,ìɣómí n ìtʃáɾó,ìɣómí n ìtʃáɾó,[],,[],,False,Myene.htm,False,,1
+myen1241-13-2,,myen1241,13,i-ɡow̃i ni -raro,i-ɡow̃i ni -raro,[],,[],,False,Myene.htm,False,,2
+myen1241-13-3,,myen1241,13,taro,taro,[],,[],,False,Myene.htm,False,,2
+myen1241-13-4,,myen1241,13,ncaro,ncaro,[],,[],,False,Myene.htm,False,,2
+myen1241-14-1,,myen1241,14,ìɣómí n ìnáyì,ìɣómí n ìnáyì,[],,[],,False,Myene.htm,False,,1
+myen1241-14-2,,myen1241,14,i-ɡow̃i ni -nayi,i-ɡow̃i ni -nayi,[],,[],,False,Myene.htm,False,,2
+myen1241-15-1,,myen1241,15,ìɣómí n òtání,ìɣómí n òtání,[],,[],,False,Myene.htm,False,,1
+myen1241-15-2,,myen1241,15,i-ɡow̃i n(i) -tani,i-ɡow̃i n(i) -tani,[],,[],,False,Myene.htm,False,,2
+myen1241-15-3,,myen1241,15,ncani,ncani,[],,[],,False,Myene.htm,False,,2
+myen1241-16-1,,myen1241,16,ìɣómí n òɾówá,ìɣómí n òɾówá,[],,[],,False,Myene.htm,False,,1
+myen1241-16-2,,myen1241,16,i-ɡow̃i n(i) o-rowa,i-ɡow̃i n(i) o-rowa,[],,[],,False,Myene.htm,False,,2
+myen1241-17-1,,myen1241,17,ìɣómí n òɾwáɣénô,ìɣómí n òɾwáɣénô,[],,[],,False,Myene.htm,False,,1
+myen1241-17-2,,myen1241,17,òɾwáɣénómo,òɾwáɣénómo,[],,[],,False,Myene.htm,False,,1
+myen1241-17-3,,myen1241,17,i-ɡow̃i n(i) o-rowa ɡe now̃o,i-ɡow̃i n(i) o-rowa ɡe now̃o,[],,[],,False,Myene.htm,False,,2
+myen1241-18-1,,myen1241,18,ìɣómí n ènánáyì,ìɣómí n ènánáyì,[],,[],,False,Myene.htm,False,,1
+myen1241-18-2,,myen1241,18,i-ɡow̃i n(i) e-nanayi,i-ɡow̃i n(i) e-nanayi,[],,[],,False,Myene.htm,False,,2
+myen1241-19-1,,myen1241,19,ìɣómí n ènóɣòmì,ìɣómí n ènóɣòmì,[],,[],,False,Myene.htm,False,,1
+myen1241-19-2,,myen1241,19,i-ɡow̃i n(i) e-niɡow̃i,i-ɡow̃i n(i) e-niɡow̃i,[],,[],,False,Myene.htm,False,,2
+myen1241-20-1,,myen1241,20,àɣóm ámbánì,àɣóm ámbánì,[],,[],,False,Myene.htm,False,,1
+myen1241-20-2,,myen1241,20,a-ɡow̃(i) a-mbani,a-ɡow̃(i) a-mbani,[],,[],,False,Myene.htm,False,,2
+myen1241-21-1,,myen1241,21,àɣóm ámbánì n ìmɔ̀ɾì,àɣóm ámbánì n ìmɔ̀ɾì,[],,[],,False,Myene.htm,False,,1
+myen1241-21-2,,myen1241,21,a-ɡow̃(i) a-mbani ni -mɔ,a-ɡow̃(i) a-mbani ni -mɔ,[],,[],,False,Myene.htm,False,,2
+myen1241-22-1,,myen1241,22,àɣóm ámbánì n ìmbànì,àɣóm ámbánì n ìmbànì,[],,[],,False,Myene.htm,False,,1
+myen1241-22-2,,myen1241,22,a-ɡow̃(i) a-mbani ni -wani,a-ɡow̃(i) a-mbani ni -wani,[],,[],,False,Myene.htm,False,,2
+myen1241-22-3,,myen1241,22,bani,bani,[],,[],,False,Myene.htm,False,,2
+myen1241-23-1,,myen1241,23,àɣóm ámbánì n ìtʃáɾó,àɣóm ámbánì n ìtʃáɾó,[],,[],,False,Myene.htm,False,,1
+myen1241-23-2,,myen1241,23,a-ɡow̃(i) a-mbani ni -raro,a-ɡow̃(i) a-mbani ni -raro,[],,[],,False,Myene.htm,False,,2
+myen1241-23-3,,myen1241,23,taro,taro,[],,[],,False,Myene.htm,False,,2
+myen1241-23-4,,myen1241,23,ncaro,ncaro,[],,[],,False,Myene.htm,False,,2
+myen1241-24-1,,myen1241,24,àɣóm ámbánì n ìnáyì,àɣóm ámbánì n ìnáyì,[],,[],,False,Myene.htm,False,,1
+myen1241-24-2,,myen1241,24,a-ɡow̃(i) a-mbani ni -nayi,a-ɡow̃(i) a-mbani ni -nayi,[],,[],,False,Myene.htm,False,,2
+myen1241-25-1,,myen1241,25,àɣóm ámbánì n òtání,àɣóm ámbánì n òtání,[],,[],,False,Myene.htm,False,,1
+myen1241-25-2,,myen1241,25,a-ɡow̃(i) a-mbani ni -tani,a-ɡow̃(i) a-mbani ni -tani,[],,[],,False,Myene.htm,False,,2
+myen1241-25-3,,myen1241,25,ncani,ncani,[],,[],,False,Myene.htm,False,,2
+myen1241-26-1,,myen1241,26,àɣóm ámbánì n òɾówá,àɣóm ámbánì n òɾówá,[],,[],,False,Myene.htm,False,,1
+myen1241-26-2,,myen1241,26,a-ɡow̃(i) a-mbani n(i) o-rowa,a-ɡow̃(i) a-mbani n(i) o-rowa,[],,[],,False,Myene.htm,False,,2
+myen1241-27-1,,myen1241,27,àɣóm ámbánì n òɾwáɣénô,àɣóm ámbánì n òɾwáɣénô,[],,[],,False,Myene.htm,False,,1
+myen1241-27-2,,myen1241,27,òɾwáɣénómò,òɾwáɣénómò,[],,[],,False,Myene.htm,False,,1
+myen1241-27-3,,myen1241,27,a-ɡow̃(i) a-mbani n(i) o-rowa ɡe now̃o,a-ɡow̃(i) a-mbani n(i) o-rowa ɡe now̃o,[],,[],,False,Myene.htm,False,,2
+myen1241-28-1,,myen1241,28,àɣóm ámbánì n ènánáyì,àɣóm ámbánì n ènánáyì,[],,[],,False,Myene.htm,False,,1
+myen1241-28-2,,myen1241,28,a-ɡow̃(i) a-mbani n(i) e-nanayi,a-ɡow̃(i) a-mbani n(i) e-nanayi,[],,[],,False,Myene.htm,False,,2
+myen1241-29-1,,myen1241,29,àɣóm ámbánì n ènóɣòmì,àɣóm ámbánì n ènóɣòmì,[],,[],,False,Myene.htm,False,,1
+myen1241-29-2,,myen1241,29,a-ɡow̃(i) a-mbani n(i) e-niɡow̃i,a-ɡow̃(i) a-mbani n(i) e-niɡow̃i,[],,[],,False,Myene.htm,False,,2
+myen1241-30-1,,myen1241,30,àɣóm áɾáɾò,àɣóm áɾáɾò,[],,[],,False,Myene.htm,False,,1
+myen1241-30-2,,myen1241,30,a-ɡow̃(i) a-raro,a-ɡow̃(i) a-raro,[],,[],,False,Myene.htm,False,,2
+myen1241-40-1,,myen1241,40,àɣóm ánáyì,àɣóm ánáyì,[],,[],,False,Myene.htm,False,,1
+myen1241-40-2,,myen1241,40,a-ɡow̃(i) a-nayi,a-ɡow̃(i) a-nayi,[],,[],,False,Myene.htm,False,,2
+myen1241-50-1,,myen1241,50,àɣóm átánì,àɣóm átánì,[],,[],,False,Myene.htm,False,,1
+myen1241-50-2,,myen1241,50,a-ɡow̃(i) a-tani,a-ɡow̃(i) a-tani,[],,[],,False,Myene.htm,False,,2
+myen1241-60-1,,myen1241,60,àɣóm óɾówà,àɣóm óɾówà,[],,[],,False,Myene.htm,False,,1
+myen1241-60-2,,myen1241,60,a-ɡow̃(i) o-rowa,a-ɡow̃(i) o-rowa,[],,[],,False,Myene.htm,False,,2
+myen1241-70-1,,myen1241,70,àɣóm óɾwáɣénô,àɣóm óɾwáɣénô,[],,[],,False,Myene.htm,False,,1
+myen1241-70-2,,myen1241,70,àɣóm óɾwáɣénómò,àɣóm óɾwáɣénómò,[],,[],,False,Myene.htm,False,,1
+myen1241-70-3,,myen1241,70,a-ɡow̃(i) o-rowa ɡe now̃o,a-ɡow̃(i) o-rowa ɡe now̃o,[],,[],,False,Myene.htm,False,,2
+myen1241-80-1,,myen1241,80,àɣóm énánáyì,àɣóm énánáyì,[],,[],,False,Myene.htm,False,,1
+myen1241-80-2,,myen1241,80,a-ɡow̃(i) e-nanayi,a-ɡow̃(i) e-nanayi,[],,[],,False,Myene.htm,False,,2
+myen1241-90-1,,myen1241,90,àɣóm énóɣòmì,àɣóm énóɣòmì,[],,[],,False,Myene.htm,False,,1
+myen1241-90-2,,myen1241,90,a-ɡow̃(i) e-niɡow̃i,a-ɡow̃(i) e-niɡow̃i,[],,[],,False,Myene.htm,False,,2
+myen1241-100-1,,myen1241,100,kámá,kámá,[],,[],,False,Myene.htm,False,,1
+myen1241-100-2,,myen1241,100,ŋkaw̃a,ŋkaw̃a,[],,[],,False,Myene.htm,False,,2
+myen1241-200-1,,myen1241,200,kámá mbání,kámá mbání,[],,[],,False,Myene.htm,False,,1
+myen1241-200-2,,myen1241,200,ŋkam̃a mbani,ŋkam̃a mbani,[],,[],,False,Myene.htm,False,,2
+myen1241-1000-1,,myen1241,1000,tɔ̀zénì,tɔ̀zénì,[],( <English 'thousand'),[],,True,Myene.htm,False,,1
+myen1241-1000-2,,myen1241,1000,ntɔzeni,ntɔzeni,[],,[],,False,Myene.htm,False,,2
+myen1241-2000-1,,myen1241,2000,tɔ̀zén ímbànì,tɔ̀zén ímbànì,[],,[],,False,Myene.htm,False,,1
+myen1241-2000-2,,myen1241,2000,ntɔzeni mbani,ntɔzeni mbani,[],,[],,False,Myene.htm,False,,2

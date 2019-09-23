@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nara1263-1-1,,nara1263,1,mate,mate,[],,[],,False,Narango.htm,False,,1
+nara1263-2-1,,nara1263,2,mo rua,mo rua,[],,[],,False,Narango.htm,False,,1
+nara1263-3-1,,nara1263,3,mo tol,mo tol,[],,[],,False,Narango.htm,False,,1
+nara1263-4-1,,nara1263,4,mo fat,mo fat,[],,[],,False,Narango.htm,False,,1
+nara1263-5-1,,nara1263,5,mo lima,mo lima,[],,[],,False,Narango.htm,False,,1
+nara1263-6-1,,nara1263,6,mo lima-raf,mo lima-raf,[],( 5 + 1 ),[],,False,Narango.htm,False,,1
+nara1263-7-1,,nara1263,7,mo raf-rua,mo raf-rua,[],( 5 + 2 ),[],,False,Narango.htm,False,,1
+nara1263-8-1,,nara1263,8,mo raf-tolu,mo raf-tolu,[],( 5 + 3 ),[],,False,Narango.htm,False,,1
+nara1263-9-1,,nara1263,9,mo rapat,mo rapat,[],( 5 + 4 ),[],,False,Narango.htm,False,,1
+nara1263-10-1,,nara1263,10,mo sanaful,mo sanaful,[],,[],,False,Narango.htm,False,,1
+nara1263-11-1,,nara1263,11,mo sanaful roman-mate,mo sanaful roman-mate,[],,[],,False,Narango.htm,False,,1
+nara1263-12-1,,nara1263,12,mo sanaful roman-rua,mo sanaful roman-rua,[],,[],,False,Narango.htm,False,,1
+nara1263-13-1,,nara1263,13,mo sanaful roman-tol,mo sanaful roman-tol,[],,[],,False,Narango.htm,False,,1
+nara1263-14-1,,nara1263,14,mo sanaful roman-fat,mo sanaful roman-fat,[],,[],,False,Narango.htm,False,,1
+nara1263-15-1,,nara1263,15,mo sanaful roman-lima,mo sanaful roman-lima,[],,[],,False,Narango.htm,False,,1
+nara1263-16-1,,nara1263,16,mo sanaful roman-lima-raf,mo sanaful roman-lima-raf,[],,[],,False,Narango.htm,False,,1
+nara1263-17-1,,nara1263,17,mo sanaful roman-raf-rua,mo sanaful roman-raf-rua,[],,[],,False,Narango.htm,False,,1
+nara1263-18-1,,nara1263,18,mo sanaful roman-raf-tol,mo sanaful roman-raf-tol,[],,[],,False,Narango.htm,False,,1
+nara1263-19-1,,nara1263,19,mo sanaful roman-rapat,mo sanaful roman-rapat,[],,[],,False,Narango.htm,False,,1
+nara1263-20-1,,nara1263,20,mo naful rua,mo naful rua,[],,[],,False,Narango.htm,False,,1
+nara1263-21-1,,nara1263,21,mo naful rua romon-mate,mo naful rua romon-mate,[],,[],,False,Narango.htm,False,,1
+nara1263-22-1,,nara1263,22,mo naful rua romon-rua,mo naful rua romon-rua,[],,[],,False,Narango.htm,False,,1
+nara1263-23-1,,nara1263,23,mo naful rua romon-tol,mo naful rua romon-tol,[],,[],,False,Narango.htm,False,,1
+nara1263-24-1,,nara1263,24,mo naful rua romon-fat,mo naful rua romon-fat,[],,[],,False,Narango.htm,False,,1
+nara1263-25-1,,nara1263,25,mo naful rua romon-lima,mo naful rua romon-lima,[],,[],,False,Narango.htm,False,,1
+nara1263-26-1,,nara1263,26,mo naful rua romon-lima-raf,mo naful rua romon-lima-raf,[],,[],,False,Narango.htm,False,,1
+nara1263-27-1,,nara1263,27,mo naful rua romon-raf-rua,mo naful rua romon-raf-rua,[],,[],,False,Narango.htm,False,,1
+nara1263-28-1,,nara1263,28,mo naful rua romon-raf-tol,mo naful rua romon-raf-tol,[],,[],,False,Narango.htm,False,,1
+nara1263-29-1,,nara1263,29,mo naful rua romon-rapat,mo naful rua romon-rapat,[],,[],,False,Narango.htm,False,,1
+nara1263-30-1,,nara1263,30,mo naful tol,mo naful tol,[],,[],,False,Narango.htm,False,,1
+nara1263-40-1,,nara1263,40,mo naful fat,mo naful fat,[],,[],,False,Narango.htm,False,,1
+nara1263-50-1,,nara1263,50,mo naful lima,mo naful lima,[],,[],,False,Narango.htm,False,,1
+nara1263-60-1,,nara1263,60,mo naful lima-raf,mo naful lima-raf,[],,[],,False,Narango.htm,False,,1
+nara1263-70-1,,nara1263,70,mo naful raf-rua,mo naful raf-rua,[],,[],,False,Narango.htm,False,,1
+nara1263-80-1,,nara1263,80,mo naful raf-tol,mo naful raf-tol,[],,[],,False,Narango.htm,False,,1
+nara1263-90-1,,nara1263,90,mo naful rapat,mo naful rapat,[],,[],,False,Narango.htm,False,,1
+nara1263-100-1,,nara1263,100,mo laful mate,mo laful mate,[],,[],,False,Narango.htm,False,,1
+nara1263-200-1,,nara1263,200,mo laful mo rua,mo laful mo rua,[],,[],,False,Narango.htm,False,,1
+nara1263-1000-1,,nara1263,1000,tau mate,tau mate,[],,[],,False,Narango.htm,False,,1
+nara1263-2000-1,,nara1263,2000,tau mo rua,tau mo rua,[],,[],,False,Narango.htm,False,,1

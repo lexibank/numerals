@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ansu1237-1-1,,ansu1237,1,kaoiri,kaoiri,[],,[],,False,Ansus.htm,False,,1
+ansu1237-1-2,,ansu1237,1,hohiri,hohiri,[],,[],,False,Ansus.htm,False,,2
+ansu1237-2-1,,ansu1237,2,kodu,kodu,[],,[],,False,Ansus.htm,False,,1
+ansu1237-2-2,,ansu1237,2,kodu,kodu,[],,[],,False,Ansus.htm,False,,2
+ansu1237-3-1,,ansu1237,3,toru,toru,[],,[],,False,Ansus.htm,False,,1
+ansu1237-3-2,,ansu1237,3,toru,toru,[],,[],,False,Ansus.htm,False,,2
+ansu1237-4-1,,ansu1237,4,manua,manua,[],,[],,False,Ansus.htm,False,,1
+ansu1237-4-2,,ansu1237,4,mɑnʷɑ,mɑnʷɑ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-5-1,,ansu1237,5,riŋ,riŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-5-2,,ansu1237,5,riŋ,riŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-6-1,,ansu1237,6,wonaŋ,wonaŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-6-2,,ansu1237,6,wonɑŋ,wonɑŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-7-1,,ansu1237,7,itu,itu,[],,[],,False,Ansus.htm,False,,1
+ansu1237-7-2,,ansu1237,7,itu,itu,[],,[],,False,Ansus.htm,False,,2
+ansu1237-8-1,,ansu1237,8,injatoru,injatoru,[],( 2 x 4 ),[],,False,Ansus.htm,False,,1
+ansu1237-8-2,,ansu1237,8,injɑtoru,injɑtoru,[],( 2 x 4 ),[],,False,Ansus.htm,False,,2
+ansu1237-9-1,,ansu1237,9,injataŋ,injataŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-9-2,,ansu1237,9,injɑtɑŋ,injɑtɑŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-10-1,,ansu1237,10,ura,ura,[],,[],,False,Ansus.htm,False,,1
+ansu1237-10-2,,ansu1237,10,urɑː,urɑː,[],,[],,False,Ansus.htm,False,,2
+ansu1237-11-1,,ansu1237,11,uraea koiri,uraea koiri,[],,[],,False,Ansus.htm,False,,1
+ansu1237-11-2,,ansu1237,11,urɑː ehɑ hohiri,urɑː ehɑ hohiri,[],,[],,False,Ansus.htm,False,,2
+ansu1237-12-1,,ansu1237,12,uraea kodu,uraea kodu,[],,[],,False,Ansus.htm,False,,1
+ansu1237-12-2,,ansu1237,12,urɑː ehɑ kodu,urɑː ehɑ kodu,[],,[],,False,Ansus.htm,False,,2
+ansu1237-13-1,,ansu1237,13,uraea toru,uraea toru,[],,[],,False,Ansus.htm,False,,1
+ansu1237-13-2,,ansu1237,13,urɑː ehɑ mantoru,urɑː ehɑ mantoru,[],,[],,False,Ansus.htm,False,,2
+ansu1237-14-1,,ansu1237,14,uraea manua,uraea manua,[],,[],,False,Ansus.htm,False,,1
+ansu1237-14-2,,ansu1237,14,urɑː ehɑ mɑnʷɑ,urɑː ehɑ mɑnʷɑ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-15-1,,ansu1237,15,uraea riŋ,uraea riŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-15-2,,ansu1237,15,urɑː ehɑ riŋ,urɑː ehɑ riŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-16-1,,ansu1237,16,uraea wonaŋ,uraea wonaŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-16-2,,ansu1237,16,urɑː ehɑ wonɑŋ,urɑː ehɑ wonɑŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-17-1,,ansu1237,17,uraea itu,uraea itu,[],,[],,False,Ansus.htm,False,,1
+ansu1237-17-2,,ansu1237,17,urɑː ehɑ itu,urɑː ehɑ itu,[],,[],,False,Ansus.htm,False,,2
+ansu1237-18-1,,ansu1237,18,uraea injatoru,uraea injatoru,[],,[],,False,Ansus.htm,False,,1
+ansu1237-18-2,,ansu1237,18,urɑː ehɑ injɑtoru,urɑː ehɑ injɑtoru,[],,[],,False,Ansus.htm,False,,2
+ansu1237-19-1,,ansu1237,19,uraea injataŋ,uraea injataŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-19-2,,ansu1237,19,urɑː ehɑ injɑtɑŋ,urɑː ehɑ injɑtɑŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-20-1,,ansu1237,20,piarei,piarei,[],(litː 'one person'),[],,False,Ansus.htm,False,,1
+ansu1237-20-2,,ansu1237,20,piɑrei,piɑrei,[],( litː 'man one'),[],,False,Ansus.htm,False,,2
+ansu1237-21-1,,ansu1237,21,piarei ea koiri,piarei ea koiri,[],,[],,False,Ansus.htm,False,,1
+ansu1237-21-2,,ansu1237,21,piɑrei ehɑ hohiri,piɑrei ehɑ hohiri,[],,[],,False,Ansus.htm,False,,2
+ansu1237-22-1,,ansu1237,22,piarei ea kodu,piarei ea kodu,[],,[],,False,Ansus.htm,False,,1
+ansu1237-22-2,,ansu1237,22,piɑrei ehɑ kodu,piɑrei ehɑ kodu,[],,[],,False,Ansus.htm,False,,2
+ansu1237-23-1,,ansu1237,23,piarei ea toru,piarei ea toru,[],,[],,False,Ansus.htm,False,,1
+ansu1237-23-2,,ansu1237,23,piɑrei ehɑ toru,piɑrei ehɑ toru,[],,[],,False,Ansus.htm,False,,2
+ansu1237-24-1,,ansu1237,24,piarei ea manua,piarei ea manua,[],,[],,False,Ansus.htm,False,,1
+ansu1237-24-2,,ansu1237,24,piɑrei ehɑ mɑnʷɑ,piɑrei ehɑ mɑnʷɑ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-25-1,,ansu1237,25,piarei ea riŋ,piarei ea riŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-25-2,,ansu1237,25,piɑrei ehɑ riŋ,piɑrei ehɑ riŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-26-1,,ansu1237,26,piarei ea wonaŋ,piarei ea wonaŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-26-2,,ansu1237,26,piɑrei ehɑ wonɑŋ,piɑrei ehɑ wonɑŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-27-1,,ansu1237,27,piarei ea itu,piarei ea itu,[],,[],,False,Ansus.htm,False,,1
+ansu1237-27-2,,ansu1237,27,piɑrei ehɑ itu,piɑrei ehɑ itu,[],,[],,False,Ansus.htm,False,,2
+ansu1237-28-1,,ansu1237,28,piarei ea injatoru,piarei ea injatoru,[],,[],,False,Ansus.htm,False,,1
+ansu1237-28-2,,ansu1237,28,piɑrei ehɑ injɑtoru,piɑrei ehɑ injɑtoru,[],,[],,False,Ansus.htm,False,,2
+ansu1237-29-1,,ansu1237,29,piarei ea injataŋ,piarei ea injataŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-29-2,,ansu1237,29,piɑrei ehɑ injɑtɑŋ,piɑrei ehɑ injɑtɑŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-30-1,,ansu1237,30,piarei ea ura,piarei ea ura,[],,[],,False,Ansus.htm,False,,1
+ansu1237-30-2,,ansu1237,30,31. piarei ea koiri,31. piarei ea koiri,[],,[],,False,Ansus.htm,True,,1
+ansu1237-30-3,,ansu1237,30,piɑrei ehɑ urɑ,piɑrei ehɑ urɑ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-40-1,,ansu1237,40,piakodu,piakodu,[],(litː 'two persons'),[],,False,Ansus.htm,False,,1
+ansu1237-40-2,,ansu1237,40,piɑkodu,piɑkodu,[],( 20 x 2 ),[],,False,Ansus.htm,False,,2
+ansu1237-50-1,,ansu1237,50,piakodu ea ura,piakodu ea ura,[],,[],,False,Ansus.htm,False,,1
+ansu1237-50-2,,ansu1237,50,piɑkodu ehɑ urɑ,piɑkodu ehɑ urɑ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-60-1,,ansu1237,60,piatoru,piatoru,[],(litː 'three persons'),[],,False,Ansus.htm,False,,1
+ansu1237-60-2,,ansu1237,60,piɑtoru,piɑtoru,[],( 20 x 3 ),[],,False,Ansus.htm,False,,2
+ansu1237-70-1,,ansu1237,70,piatoru ea ura,piatoru ea ura,[],,[],,False,Ansus.htm,False,,1
+ansu1237-70-2,,ansu1237,70,piɑtoru ehɑ urɑ,piɑtoru ehɑ urɑ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-80-1,,ansu1237,80,piamanua,piamanua,[],(litː 'four persons'),[],,False,Ansus.htm,False,,1
+ansu1237-80-2,,ansu1237,80,piɑmɑnʷɑ,piɑmɑnʷɑ,[],( 20 x 4 ),[],,False,Ansus.htm,False,,2
+ansu1237-90-1,,ansu1237,90,piamana ea ura,piamana ea ura,[],,[],,False,Ansus.htm,False,,1
+ansu1237-90-2,,ansu1237,90,piɑmɑnʷɑ ehɑ urɑ,piɑmɑnʷɑ ehɑ urɑ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-100-1,,ansu1237,100,piariŋ,piariŋ,[],(litː 'five persons'),[],,False,Ansus.htm,False,,1
+ansu1237-100-2,,ansu1237,100,piɑriŋ,piɑriŋ,[],( 20 x 5 ),[],,False,Ansus.htm,False,,2
+ansu1237-200-1,,ansu1237,200,pia ura,pia ura,[],(litː 'ten persons'),[],,False,Ansus.htm,False,,1
+ansu1237-200-2,,ansu1237,200,piɑʔurɑ,piɑʔurɑ,[],( 20 x 10 ),[],,False,Ansus.htm,False,,2
+ansu1237-1000-1,,ansu1237,1000,piaura we riŋ,piaura we riŋ,[],,[],,False,Ansus.htm,False,,1
+ansu1237-1000-2,,ansu1237,1000,piɑʔurɑ we riŋ,piɑʔurɑ we riŋ,[],,[],,False,Ansus.htm,False,,2
+ansu1237-2000-1,,ansu1237,2000,piɑʔurɑ we urɑ,piɑʔurɑ we urɑ,[],,[],,False,Ansus.htm,False,,2

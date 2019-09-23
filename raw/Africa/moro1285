@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+moro1285-1-1,,moro1285,1,ɡónto,ɡónto,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-2-1,,moro1285,2,lə́ɡə́tʃan,lə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-3-1,,moro1285,3,lə́ɡɪ́tʃɪn,lə́ɡɪ́tʃɪn,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-4-1,,moro1285,4,márlon,márlon,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-5-1,,moro1285,5,ðénə́ŋ,ðénə́ŋ,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-6-1,,moro1285,6,ðénə́ŋ nəɡónto,ðénə́ŋ nəɡónto,[],( 5+ 1 ),[],,False,Moro-Sudan.htm,False,,1
+moro1285-7-1,,moro1285,7,ðénə́ŋ lə́ɡə́tʃan,ðénə́ŋ lə́ɡə́tʃan,[],( 5+ 2 ),[],,False,Moro-Sudan.htm,False,,1
+moro1285-8-1,,moro1285,8,ðénə́ŋ lə́ɡɪ́tʃan,ðénə́ŋ lə́ɡɪ́tʃan,[],( 5+ 3 ),[],,False,Moro-Sudan.htm,False,,1
+moro1285-9-1,,moro1285,9,ðénə́ŋ nəmárlon,ðénə́ŋ nəmárlon,[],( 5+ 4 ),[],,False,Moro-Sudan.htm,False,,1
+moro1285-10-1,,moro1285,10,rɛ́θ,rɛ́θ,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-11-1,,moro1285,11,rɛ́θ nəɡónto,rɛ́θ nəɡónto,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-12-1,,moro1285,12,rɛ́θ lə́ɡə́tʃan,rɛ́θ lə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-13-1,,moro1285,13,rɛ́θ lə́ɡɪ́tʃɪn,rɛ́θ lə́ɡɪ́tʃɪn,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-14-1,,moro1285,14,rɛ́θ nəmárlon,rɛ́θ nəmárlon,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-15-1,,moro1285,15,rɛ́θ nðénə́ŋ,rɛ́θ nðénə́ŋ,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-16-1,,moro1285,16,rɛ́θ nðénə́ŋ nəɡónto,rɛ́θ nðénə́ŋ nəɡónto,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-17-1,,moro1285,17,rɛ́θ nðénə́ŋ lə́ɡə́tʃan,rɛ́θ nðénə́ŋ lə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-18-1,,moro1285,18,rɛ́θ nðénə́ŋ lə́ɡɪ́tʃɪn,rɛ́θ nðénə́ŋ lə́ɡɪ́tʃɪn,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-19-1,,moro1285,19,rɛ́θ nðénə́ŋ nəmárlon,rɛ́θ nðénə́ŋ nəmárlon,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-20-1,,moro1285,20,ndréðiə nə́ɡə́tʃan or eréðiə ɡə́ɡə́tʃan,ndréðiə nə́ɡə́tʃan or eréðiə ɡə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,True,,1
+moro1285-21-1,,moro1285,21,eréðiə ɡə́ɡə́tʃan nəɡónto,eréðiə ɡə́ɡə́tʃan nəɡónto,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-22-1,,moro1285,22,eréðiə ɡə́ɡə́tʃan lə́ɡə́tʃan,eréðiə ɡə́ɡə́tʃan lə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-23-1,,moro1285,23,eréðiə ɡə́ɡə́tʃan lə́ɡɪ́tʃɪn,eréðiə ɡə́ɡə́tʃan lə́ɡɪ́tʃɪn,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-24-1,,moro1285,24,eréðiə ɡə́ɡə́tʃan nəmárlon,eréðiə ɡə́ɡə́tʃan nəmárlon,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-25-1,,moro1285,25,eréðiə ɡə́ɡə́tʃan nðénə́ŋ,eréðiə ɡə́ɡə́tʃan nðénə́ŋ,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-26-1,,moro1285,26,eréðiə ɡə́ɡə́tʃan nðénə́ŋ nəɡónto,eréðiə ɡə́ɡə́tʃan nðénə́ŋ nəɡónto,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-27-1,,moro1285,27,eréðiə ɡə́ɡə́tʃan nðénə́ŋ lə́ɡə́tʃan,eréðiə ɡə́ɡə́tʃan nðénə́ŋ lə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-28-1,,moro1285,28,eréðiə ɡə́ɡə́tʃan nðénə́ŋ lə́ɡɪ́tʃɪn,eréðiə ɡə́ɡə́tʃan nðénə́ŋ lə́ɡɪ́tʃɪn,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-29-1,,moro1285,29,eréðiə ɡə́ɡə́tʃan nðénə́ŋ nəmárlon,eréðiə ɡə́ɡə́tʃan nðénə́ŋ nəmárlon,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-30-1,,moro1285,30,ndréðiə lə́ɡɪ́tʃɪn,ndréðiə lə́ɡɪ́tʃɪn,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-40-1,,moro1285,40,ndréðiə márlon,ndréðiə márlon,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-50-1,,moro1285,50,ndréðiə ðénə́ŋ,ndréðiə ðénə́ŋ,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-60-1,,moro1285,60,ndréðiə ðénə́ŋ nəɡónto,ndréðiə ðénə́ŋ nəɡónto,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-70-1,,moro1285,70,ndréðiə ðénə́ŋ lə́ɡə́tʃan,ndréðiə ðénə́ŋ lə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-80-1,,moro1285,80,ndréðiə ðénə́ŋ lə́ɡɪ́tʃɪn,ndréðiə ðénə́ŋ lə́ɡɪ́tʃɪn,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-90-1,,moro1285,90,ndréðiə ðénə́ŋ nəmárlon,ndréðiə ðénə́ŋ nəmárlon,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-100-1,,moro1285,100,ndréðiə rɛ́θ,ndréðiə rɛ́θ,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-100-2,,moro1285,100,mija,mija,[],( < Arabic ),[],,True,Moro-Sudan.htm,False,,1
+moro1285-200-1,,moro1285,200,ndréðiə rɛ́θ lə́ɡə́tʃan,ndréðiə rɛ́θ lə́ɡə́tʃan,[],,[],,False,Moro-Sudan.htm,False,,1
+moro1285-1000-1,,moro1285,1000,ʌlf,ʌlf,[],( < Arabic ),[],,True,Moro-Sudan.htm,False,,1

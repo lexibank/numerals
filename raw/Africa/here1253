@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+here1253-1-1,,here1253,1,-mwe,-mwe,[],,[],,False,Herero.htm,False,,1
+here1253-1-2,,here1253,1,imwè,imwè,[],,[],,False,Herero.htm,False,,2
+here1253-2-1,,here1253,2,-vári,-vári,[],,[],,False,Herero.htm,False,,1
+here1253-2-2,,here1253,2,ivárì,ivárì,[],,[],,False,Herero.htm,False,,2
+here1253-3-1,,here1253,3,-tátú,-tátú,[],,[],,False,Herero.htm,False,,1
+here1253-3-2,,here1253,3,intátú,intátú,[],,[],,False,Herero.htm,False,,2
+here1253-4-1,,here1253,4,-íné,-íné,[],,[],,False,Herero.htm,False,,1
+here1253-4-2,,here1253,4,iiné,iiné,[],,[],,False,Herero.htm,False,,2
+here1253-5-1,,here1253,5,-táno,-táno,[],,[],,False,Herero.htm,False,,1
+here1253-5-2,,here1253,5,intánò,intánò,[],,[],,False,Herero.htm,False,,2
+here1253-6-1,,here1253,6,hámboúmwe,hámboúmwe,[],( 5+ 1 ),[],,False,Herero.htm,False,,1
+here1253-6-2,,here1253,6,ihámbò-úmwè,ihámbò-úmwè,[],( 5+ 1 ),[],,False,Herero.htm,False,,2
+here1253-7-1,,here1253,7,hámbombári,hámbombári,[],( 5+ 2 ),[],,False,Herero.htm,False,,1
+here1253-7-2,,here1253,7,ihámbò-mbárì,ihámbò-mbárì,[],( 5+ 2 ),[],,False,Herero.htm,False,,2
+here1253-8-1,,here1253,8,hámbondátú,hámbondátú,[],( 5+ 3 ),[],,False,Herero.htm,False,,1
+here1253-8-2,,here1253,8,ihámbò-ndátú,ihámbò-ndátú,[],( 5+ 3 ),[],,False,Herero.htm,False,,2
+here1253-9-1,,here1253,9,muvyú,muvyú,[],,[],,False,Herero.htm,False,,1
+here1253-9-2,,here1253,9,imùvyú,imùvyú,[],,[],,False,Herero.htm,False,,2
+here1253-10-1,,here1253,10,omuronɡo,omuronɡo,[],,[],,False,Herero.htm,False,,1
+here1253-10-2,,here1253,10,òmùronɡò,òmùronɡò,[],,[],,False,Herero.htm,False,,2
+here1253-11-1,,here1253,11,omuronɡo na -mwe,omuronɡo na -mwe,[],,[],,False,Herero.htm,False,,1
+here1253-11-2,,here1253,11,òmùronɡò nà -mwè,òmùronɡò nà -mwè,[],,[],,False,Herero.htm,False,,2
+here1253-12-1,,here1253,12,omuronɡo na -vári,omuronɡo na -vári,[],,[],,False,Herero.htm,False,,1
+here1253-12-2,,here1253,12,òmùronɡò nà -várì,òmùronɡò nà -várì,[],,[],,False,Herero.htm,False,,2
+here1253-13-1,,here1253,13,omuronɡo na -tátú,omuronɡo na -tátú,[],,[],,False,Herero.htm,False,,1
+here1253-13-2,,here1253,13,òmùronɡò nà -tátú,òmùronɡò nà -tátú,[],,[],,False,Herero.htm,False,,2
+here1253-14-1,,here1253,14,omuronɡo na -íné,omuronɡo na -íné,[],,[],,False,Herero.htm,False,,1
+here1253-14-2,,here1253,14,òmùronɡò nà -né,òmùronɡò nà -né,[],,[],,False,Herero.htm,False,,2
+here1253-15-1,,here1253,15,omuronɡo na -táno,omuronɡo na -táno,[],,[],,False,Herero.htm,False,,1
+here1253-15-2,,here1253,15,òmùronɡò nà -tánò,òmùronɡò nà -tánò,[],,[],,False,Herero.htm,False,,2
+here1253-16-1,,here1253,16,omuronɡo na hámboúmwe,omuronɡo na hámboúmwe,[],,[],,False,Herero.htm,False,,1
+here1253-16-2,,here1253,16,òmùronɡò nà hámbò-úmwe,òmùronɡò nà hámbò-úmwe,[],,[],,False,Herero.htm,False,,2
+here1253-17-1,,here1253,17,omuronɡo na hámbombári,omuronɡo na hámbombári,[],,[],,False,Herero.htm,False,,1
+here1253-17-2,,here1253,17,òmùronɡò nà hámbò-mbárì,òmùronɡò nà hámbò-mbárì,[],,[],,False,Herero.htm,False,,2
+here1253-18-1,,here1253,18,omuronɡo na hámbondátú,omuronɡo na hámbondátú,[],,[],,False,Herero.htm,False,,1
+here1253-18-2,,here1253,18,òmùronɡò nà hámbò-ndátú,òmùronɡò nà hámbò-ndátú,[],,[],,False,Herero.htm,False,,2
+here1253-19-1,,here1253,19,omuronɡo na muvyú,omuronɡo na muvyú,[],,[],,False,Herero.htm,False,,1
+here1253-19-2,,here1253,19,òmùronɡò nà mùvyú,òmùronɡò nà mùvyú,[],,[],,False,Herero.htm,False,,2
+here1253-20-1,,here1253,20,omironɡo vívári,omironɡo vívári,[],,[],,False,Herero.htm,False,,1
+here1253-20-2,,here1253,20,òmìronɡò vívárì,òmìronɡò vívárì,[],,[],,False,Herero.htm,False,,2
+here1253-21-1,,here1253,21,omironɡo vívári na -mwe,omironɡo vívári na -mwe,[],,[],,False,Herero.htm,False,,1
+here1253-21-2,,here1253,21,òmìronɡò vívárì nà imwè,òmìronɡò vívárì nà imwè,[],,[],,False,Herero.htm,False,,2
+here1253-22-1,,here1253,22,omironɡo vívári na -vári,omironɡo vívári na -vári,[],,[],,False,Herero.htm,False,,1
+here1253-22-2,,here1253,22,òmìronɡò vívárì nà ivárì,òmìronɡò vívárì nà ivárì,[],,[],,False,Herero.htm,False,,2
+here1253-23-1,,here1253,23,omironɡo vívári na -tátú,omironɡo vívári na -tátú,[],,[],,False,Herero.htm,False,,1
+here1253-23-2,,here1253,23,òmìronɡò vívárì nà intátú,òmìronɡò vívárì nà intátú,[],,[],,False,Herero.htm,False,,2
+here1253-24-1,,here1253,24,omironɡo vívári na -íné,omironɡo vívári na -íné,[],,[],,False,Herero.htm,False,,1
+here1253-24-2,,here1253,24,òmìronɡò vívárì nà iiné,òmìronɡò vívárì nà iiné,[],,[],,False,Herero.htm,False,,2
+here1253-25-1,,here1253,25,omironɡo vívári na -tánò,omironɡo vívári na -tánò,[],,[],,False,Herero.htm,False,,1
+here1253-25-2,,here1253,25,òmìronɡò vívárì nà intánò,òmìronɡò vívárì nà intánò,[],,[],,False,Herero.htm,False,,2
+here1253-26-1,,here1253,26,omironɡo vívári na hámboúmwe,omironɡo vívári na hámboúmwe,[],,[],,False,Herero.htm,False,,1
+here1253-26-2,,here1253,26,òmìronɡò vívárì nà hámbò-úmwe,òmìronɡò vívárì nà hámbò-úmwe,[],,[],,False,Herero.htm,False,,2
+here1253-27-1,,here1253,27,omironɡo vívári na hámbombári,omironɡo vívári na hámbombári,[],,[],,False,Herero.htm,False,,1
+here1253-27-2,,here1253,27,òmìronɡò vívárì nà hámbò-mbárì,òmìronɡò vívárì nà hámbò-mbárì,[],,[],,False,Herero.htm,False,,2
+here1253-28-1,,here1253,28,omironɡo vívári na hámbondátú,omironɡo vívári na hámbondátú,[],,[],,False,Herero.htm,False,,1
+here1253-28-2,,here1253,28,òmìronɡò vívárì nà hámbò-ndátú,òmìronɡò vívárì nà hámbò-ndátú,[],,[],,False,Herero.htm,False,,2
+here1253-29-1,,here1253,29,omironɡo vívári na muvyú,omironɡo vívári na muvyú,[],,[],,False,Herero.htm,False,,1
+here1253-29-2,,here1253,29,òmìronɡò vívárì nà mùvyú,òmìronɡò vívárì nà mùvyú,[],,[],,False,Herero.htm,False,,2
+here1253-30-1,,here1253,30,omironɡo vítátú,omironɡo vítátú,[],,[],,False,Herero.htm,False,,1
+here1253-30-2,,here1253,30,òmìronɡò vítátú,òmìronɡò vítátú,[],,[],,False,Herero.htm,False,,2
+here1253-40-1,,here1253,40,omironɡo víné,omironɡo víné,[],,[],,False,Herero.htm,False,,1
+here1253-40-2,,here1253,40,òmìronɡò víné,òmìronɡò víné,[],,[],,False,Herero.htm,False,,2
+here1253-50-1,,here1253,50,omironɡo vítáno,omironɡo vítáno,[],,[],,False,Herero.htm,False,,1
+here1253-50-2,,here1253,50,òmìronɡò vítánò,òmìronɡò vítánò,[],,[],,False,Herero.htm,False,,2
+here1253-60-1,,here1253,60,omironɡo hámboúmwe,omironɡo hámboúmwe,[],,[],,False,Herero.htm,False,,1
+here1253-60-2,,here1253,60,òmìronɡò hámbò-úmwe,òmìronɡò hámbò-úmwe,[],,[],,False,Herero.htm,False,,2
+here1253-70-1,,here1253,70,omironɡo hámbombári,omironɡo hámbombári,[],,[],,False,Herero.htm,False,,1
+here1253-70-2,,here1253,70,òmìronɡò hámbò-mbárì,òmìronɡò hámbò-mbárì,[],,[],,False,Herero.htm,False,,2
+here1253-80-1,,here1253,80,omironɡo hámbondátú,omironɡo hámbondátú,[],,[],,False,Herero.htm,False,,1
+here1253-80-2,,here1253,80,òmìronɡò hámbò-ndátú,òmìronɡò hámbò-ndátú,[],,[],,False,Herero.htm,False,,2
+here1253-90-1,,here1253,90,omironɡo muvyú,omironɡo muvyú,[],,[],,False,Herero.htm,False,,1
+here1253-90-2,,here1253,90,òmìronɡò mùvyú,òmìronɡò mùvyú,[],,[],,False,Herero.htm,False,,2
+here1253-100-1,,here1253,100,eséré,eséré,[],( s = θ),[],,False,Herero.htm,False,,1
+here1253-100-2,,here1253,100,ès̪éré,ès̪éré,[],,[],,False,Herero.htm,False,,2
+here1253-200-1,,here1253,200,omaséré yévári,omaséré yévári,[],,[],,False,Herero.htm,False,,1
+here1253-200-2,,here1253,200,òmàs̪éré yévári,òmàs̪éré yévári,[],,[],,False,Herero.htm,False,,2
+here1253-1000-1,,here1253,1000,eyoví,eyoví,[],,[],,False,Herero.htm,False,,1
+here1253-1000-2,,here1253,1000,èyòví,èyòví,[],,[],,False,Herero.htm,False,,2
+here1253-2000-1,,here1253,2000,omayoví yévárí,omayoví yévárí,[],,[],,False,Herero.htm,False,,1
+here1253-2000-2,,here1253,2000,òmà.yòvì yévarí,òmà.yòvì yévarí,[],,[],,False,Herero.htm,False,,2

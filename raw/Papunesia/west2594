@@ -1,0 +1,62 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+west2594-1-1,,west2594,1,ambit or ambiret,ambit or ambiret,[],,[],,False,Dani-Western.htm,True,,1
+west2594-1-2,,west2594,1,ambit,ambit,[],,[],,False,Dani-Western.htm,False,,2
+west2594-2-1,,west2594,2,mbere,mbere,[],,[],,False,Dani-Western.htm,False,,1
+west2594-2-2,,west2594,2,mbere,mbere,[],,[],,False,Dani-Western.htm,False,,2
+west2594-3-1,,west2594,3,kenaɡan,kenaɡan,[],,[],,False,Dani-Western.htm,False,,1
+west2594-3-2,,west2594,3,kenaɡan,kenaɡan,[],,[],,False,Dani-Western.htm,False,,2
+west2594-4-1,,west2594,4,i'mbere-i'mbere,i'mbere-i'mbere,[],(litː 'those two-those two'),[],,False,Dani-Western.htm,False,,1
+west2594-4-2,,west2594,4,i'mbere mbere,i'mbere mbere,[],(litː ''2 + 2'' ),[],,False,Dani-Western.htm,False,,2
+west2594-5-1,,west2594,5,linɡɡit 'folded down fingers and thumb' or 'fist',linɡɡit 'folded down fingers and thumb' or 'fist',[],,[],,False,Dani-Western.htm,True,,1
+west2594-5-2,,west2594,5,eenɡɡitoɡon,eenɡɡitoɡon,[],(litː ''my side hand'' ? ),[],,False,Dani-Western.htm,False,,2
+west2594-6-1,,west2594,6,peenoklinɡɡik ambire 'one and the-other-hand with-folded-fist',peenoklinɡɡik ambire 'one and the-other-hand with-folded-fist',[],,[],,False,Dani-Western.htm,True,,1
+west2594-6-2,,west2594,6,eenɡɡi abeenok lunɡɡuk abeenok ambit,eenɡɡi abeenok lunɡɡuk abeenok ambit,[],(litː '' my side hand + 1 '' ),[],,False,Dani-Western.htm,False,,2
+west2594-7-1,,west2594,7,peenok linɡɡik ambiret 'two and the-other-hand with-folded-fist',peenok linɡɡik ambiret 'two and the-other-hand with-folded-fist',[],,[],,False,Dani-Western.htm,True,,1
+west2594-7-2,,west2594,7,eenɡɡi abeenok lunɡɡuk abeenok mbere,eenɡɡi abeenok lunɡɡuk abeenok mbere,[],(litː '' my side hand + 2'' ),[],,False,Dani-Western.htm,False,,2
+west2594-8-1,,west2594,8,peenok linɡɡik kenaɡan 'three and the-other-hand with-folded-fist',peenok linɡɡik kenaɡan 'three and the-other-hand with-folded-fist',[],,[],,False,Dani-Western.htm,True,,1
+west2594-8-2,,west2594,8,eenɡɡi abeenok lunɡɡuk abeenok kenaɡan,eenɡɡi abeenok lunɡɡuk abeenok kenaɡan,[],(litː '' my side hand + 3 '' ),[],,False,Dani-Western.htm,False,,2
+west2594-9-1,,west2594,9,peenok linɡɡik i'mbere-i'mbere 'four and the-other-hand with-folded-fist',peenok linɡɡik i'mbere-i'mbere 'four and the-other-hand with-folded-fist',[],,[],,False,Dani-Western.htm,True,,1
+west2594-9-2,,west2594,9,eenɡɡi abeenok lunɡɡuk abeenok i'mbere mbere,eenɡɡi abeenok lunɡɡuk abeenok i'mbere mbere,[],(litː ''my side hand + 4'' ),[],,False,Dani-Western.htm,False,,2
+west2594-10-1,,west2594,10,aap eenɡɡi ambiret,aap eenɡɡi ambiret,[],(litː 'one man's hands'),[],,False,Dani-Western.htm,False,,1
+west2594-10-2,,west2594,10,eenɡɡi apit lunɡɡuk,eenɡɡi apit lunɡɡuk,[],(litː ''my side hand + my side hand'' ?),[],,False,Dani-Western.htm,False,,2
+west2594-11-1,,west2594,11,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-11-2,,west2594,11,ambi aap eenɡɡi ambiret,ambi aap eenɡɡi ambiret,[],,[],,False,Dani-Western.htm,False,,1
+west2594-11-3,,west2594,11,litː 'the hands of one man,litː 'the hands of one man,[],(completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-11-4,,west2594,11,and one on one hand of another man',and one on one hand of another man',[],,[],,False,Dani-Western.htm,True,,1
+west2594-12-1,,west2594,12,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-12-2,,west2594,12,ambi aap eenɡɡi mbere,ambi aap eenɡɡi mbere,[],,[],,False,Dani-Western.htm,False,,1
+west2594-12-3,,west2594,12,litː 'the hands of one man,litː 'the hands of one man,[],(completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-12-4,,west2594,12,and two on one hand of another man',and two on one hand of another man',[],,[],,False,Dani-Western.htm,True,,1
+west2594-13-1,,west2594,13,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-13-2,,west2594,13,ambi aap eenɡɡi kenaɡan,ambi aap eenɡɡi kenaɡan,[],,[],,False,Dani-Western.htm,False,,1
+west2594-13-3,,west2594,13,litː 'the hands of one man,litː 'the hands of one man,[],(completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-13-4,,west2594,13,and three on one hand of another man',and three on one hand of another man',[],,[],,False,Dani-Western.htm,True,,1
+west2594-14-1,,west2594,14,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-14-2,,west2594,14,ambi aap eenɡɡi i'mbere-i'mbere,ambi aap eenɡɡi i'mbere-i'mbere,[],,[],,False,Dani-Western.htm,False,,1
+west2594-14-3,,west2594,14,litː 'the hands of,litː 'the hands of,[],(one man completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-14-4,,west2594,14,and four on one hand of another man',and four on one hand of another man',[],,[],,False,Dani-Western.htm,True,,1
+west2594-15-1,,west2594,15,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-15-2,,west2594,15,ambi eenɡɡi peenok linɡɡik,ambi eenɡɡi peenok linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-15-3,,west2594,15,litː 'the hands of one,litː 'the hands of one,[],(man completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-15-4,,west2594,15,and a folded hand of another man',and a folded hand of another man',[],,[],,False,Dani-Western.htm,True,,1
+west2594-16-1,,west2594,16,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-16-2,,west2594,16,ambi eenɡɡi peenok linɡɡik,ambi eenɡɡi peenok linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-16-3,,west2594,16,peenok ambiret,peenok ambiret,[],,[],,False,Dani-Western.htm,False,,1
+west2594-16-4,,west2594,16,litː,litː,[],('the hands of one man completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-16-5,,west2594,16,and a folded hand and one on the other,and a folded hand and one on the other,[],(hand of of another man'),[],,False,Dani-Western.htm,True,,1
+west2594-17-1,,west2594,17,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-17-2,,west2594,17,ambi eenɡɡi peenok linɡɡik,ambi eenɡɡi peenok linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-17-3,,west2594,17,peenok mbere,peenok mbere,[],,[],,False,Dani-Western.htm,False,,1
+west2594-17-4,,west2594,17,litː,litː,[],('the hands of one man completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-17-5,,west2594,17,and a folded hand and two on the other,and a folded hand and two on the other,[],(hand of of another man'),[],,False,Dani-Western.htm,True,,1
+west2594-18-1,,west2594,18,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-18-2,,west2594,18,ambi eenɡɡi peenok linɡɡik,ambi eenɡɡi peenok linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-18-3,,west2594,18,peenok kenaɡan,peenok kenaɡan,[],,[],,False,Dani-Western.htm,False,,1
+west2594-18-4,,west2594,18,litː,litː,[],('the hands of one man completely folded),[],,False,Dani-Western.htm,True,,1
+west2594-18-5,,west2594,18,and a folded hand and three on the other,and a folded hand and three on the other,[],(hand of of another man'),[],,False,Dani-Western.htm,True,,1
+west2594-19-1,,west2594,19,aap ambit eenɡɡi abu linɡɡik,aap ambit eenɡɡi abu linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-19-2,,west2594,19,ambi eenɡɡi peenok linɡɡik,ambi eenɡɡi peenok linɡɡik,[],,[],,False,Dani-Western.htm,False,,1
+west2594-19-3,,west2594,19,peenok i'mbere-,peenok i'mbere-,[],( i'mbere),[],,False,Dani-Western.htm,False,,1
+west2594-19-4,,west2594,19,litː 'the hands of one man completely folded,litː 'the hands of one man completely folded,[],,[],,False,Dani-Western.htm,True,,1
+west2594-19-5,,west2594,19,and a folded hand and four,and a folded hand and four,[],( on the other hand of of another man'),[],,False,Dani-Western.htm,True,,1
+west2594-20-1,,west2594,20,mbere ieenɡɡi,mbere ieenɡɡi,[],(litː 'the hands of two men'),[],,False,Dani-Western.htm,False,,1

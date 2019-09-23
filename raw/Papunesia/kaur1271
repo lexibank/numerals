@@ -1,0 +1,17 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kaur1271-1-1,,kaur1271,1,kakojan,kakojan,[],,[],,False,Kaure.htm,False,,1
+kaur1271-1-2,,kaur1271,1,kaux'džaʔ,kaux'džaʔ,[],,[],,False,Kaure.htm,False,,1
+kaur1271-2-1,,kaur1271,2,tlaplik,tlaplik,[],,[],,False,Kaure.htm,False,,1
+kaur1271-2-2,,kaur1271,2,tɾa'pli,tɾa'pli,[],,[],,False,Kaure.htm,False,,1
+kaur1271-3-1,,kaur1271,3,tlaplik soltok,tlaplik soltok,[],,[],,False,Kaure.htm,False,,1
+kaur1271-3-2,,kaur1271,3,tɾa'pli 'sutu,tɾa'pli 'sutu,[],( 2 + 1 ),[],,False,Kaure.htm,False,,1
+kaur1271-4-1,,kaur1271,4,tlaplik tlaplik,tlaplik tlaplik,[],,[],,False,Kaure.htm,False,,1
+kaur1271-4-2,,kaur1271,4,tɾa'pli tɾaplit,tɾa'pli tɾaplit,[],( 2 + 2 ),[],,False,Kaure.htm,False,,1
+kaur1271-5-1,,kaur1271,5,tlaplik tlaplik soltok,tlaplik tlaplik soltok,[],,[],,False,Kaure.htm,False,,1
+kaur1271-5-2,,kaur1271,5,tɾa'pli tɾaplisutu,tɾa'pli tɾaplisutu,[],( 2 + 2 + 1 ),[],,False,Kaure.htm,False,,1
+kaur1271-6-1,,kaur1271,6,tlaplik tlaplik tlaplik,tlaplik tlaplik tlaplik,[],,[],,False,Kaure.htm,False,,1
+kaur1271-6-2,,kaur1271,6,tɾapli 'sutu tɾapli 'sutu,tɾapli 'sutu tɾapli 'sutu,[],( 2 + 2 + 2 ),[],,False,Kaure.htm,False,,1
+kaur1271-7-1,,kaur1271,7,tlaplik soltok tlaplik soltok kakojan,tlaplik soltok tlaplik soltok kakojan,[],( 2 + 2 + 2 + 1 ),[],,False,Kaure.htm,False,,1
+kaur1271-8-1,,kaur1271,8,tlaplik tlaplik tlaplik tlaplik,tlaplik tlaplik tlaplik tlaplik,[],( 2 + 2 + 2 + 2 ),[],,False,Kaure.htm,False,,1
+kaur1271-9-1,,kaur1271,9,tlaplik soltok tlaplik soltok tlaplik,tlaplik soltok tlaplik soltok tlaplik,[],( 2 + 2 + 2 + 2 + 1),[],,False,Kaure.htm,False,,1
+kaur1271-10-1,,kaur1271,10,tlaplik soltok tlaplik soltok kakojan. kolsoik,tlaplik soltok tlaplik soltok kakojan. kolsoik,[],( litː many ),[],,False,Kaure.htm,True,,1

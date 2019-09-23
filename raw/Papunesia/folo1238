@@ -1,0 +1,12 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+folo1238-1-1,,folo1238,1,beta,beta,[],,[],,False,Folopa.htm,False,,1
+folo1238-2-1,,folo1238,2,tamo,tamo,[],,[],,False,Folopa.htm,False,,1
+folo1238-3-1,,folo1238,3,sore,sore,[],,[],,False,Folopa.htm,False,,1
+folo1238-4-1,,folo1238,4,douro,douro,[],,[],,False,Folopa.htm,False,,1
+folo1238-5-1,,folo1238,5,apo or apo mi or naase beta,apo or apo mi or naase beta,[],( litː 'one hand'),[],,False,Folopa.htm,True,,1
+folo1238-6-1,,folo1238,6,me naase beta,me naase beta,[],( litː 'another hand one'),[],,False,Folopa.htm,False,,1
+folo1238-7-1,,folo1238,7,me naase tamo,me naase tamo,[],( litː 'another hand two'),[],,False,Folopa.htm,False,,1
+folo1238-8-1,,folo1238,8,me naase sore ( litː 'another hand three') boko wale,me naase sore ( litː 'another hand three') boko wale,[],(litː 'wrist'),[],,False,Folopa.htm,True,,1
+folo1238-9-1,,folo1238,9,me naase douro,me naase douro,[],( litː 'another hand  four'),[],,False,Folopa.htm,False,,1
+folo1238-10-1,,folo1238,10,naase tamo,naase tamo,[],(litː 'two hands'),[],,False,Folopa.htm,False,,1
+folo1238-20-1,,folo1238,20,whi beta,whi beta,[],(litː 'one man / two hands and two feet'),[],,False,Folopa.htm,False,,1

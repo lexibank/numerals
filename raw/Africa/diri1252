@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+diri1252-1-1,,diri1252,1,-mwé,-mwé,[],,[],,False,Diriku.htm,False,,1
+diri1252-2-1,,diri1252,2,-víli,-víli,[],,[],,False,Diriku.htm,False,,1
+diri1252-3-1,,diri1252,3,-tátu,-tátu,[],,[],,False,Diriku.htm,False,,1
+diri1252-4-1,,diri1252,4,-nè,-nè,[],,[],,False,Diriku.htm,False,,1
+diri1252-5-1,,diri1252,5,-táno,-táno,[],,[],,False,Diriku.htm,False,,1
+diri1252-6-1,,diri1252,6,-táno ná -mwé,-táno ná -mwé,[],( 5 + 1 ),[],,False,Diriku.htm,False,,1
+diri1252-7-1,,diri1252,7,-táno ná -víli,-táno ná -víli,[],( 5 + 2 ),[],,False,Diriku.htm,False,,1
+diri1252-8-1,,diri1252,8,-táno ná -tátu,-táno ná -tátu,[],( 5 + 3 ),[],,False,Diriku.htm,False,,1
+diri1252-9-1,,diri1252,9,-táno ná -nè,-táno ná -nè,[],( 5 + 4 ),[],,False,Diriku.htm,False,,1
+diri1252-10-1,,diri1252,10,muronɡó,muronɡó,[],,[],,False,Diriku.htm,False,,1
+diri1252-11-1,,diri1252,11,muronɡó -mwé,muronɡó -mwé,[],,[],,False,Diriku.htm,False,,1
+diri1252-12-1,,diri1252,12,muronɡó -víli,muronɡó -víli,[],,[],,False,Diriku.htm,False,,1
+diri1252-13-1,,diri1252,13,muronɡó -tátu,muronɡó -tátu,[],,[],,False,Diriku.htm,False,,1
+diri1252-14-1,,diri1252,14,muronɡó -nè,muronɡó -nè,[],,[],,False,Diriku.htm,False,,1
+diri1252-15-1,,diri1252,15,muronɡó -táno,muronɡó -táno,[],,[],,False,Diriku.htm,False,,1
+diri1252-16-1,,diri1252,16,muronɡó -táno ná -mwé,muronɡó -táno ná -mwé,[],,[],,False,Diriku.htm,False,,1
+diri1252-17-1,,diri1252,17,muronɡó -táno ná -víli,muronɡó -táno ná -víli,[],,[],,False,Diriku.htm,False,,1
+diri1252-18-1,,diri1252,18,muronɡó -táno ná -tátu,muronɡó -táno ná -tátu,[],,[],,False,Diriku.htm,False,,1
+diri1252-19-1,,diri1252,19,muronɡó -táno ná -nè,muronɡó -táno ná -nè,[],,[],,False,Diriku.htm,False,,1
+diri1252-20-1,,diri1252,20,muronɡó mbíri,muronɡó mbíri,[],,[],,False,Diriku.htm,False,,1
+diri1252-21-1,,diri1252,21,muronɡó mbíri -mwé,muronɡó mbíri -mwé,[],,[],,False,Diriku.htm,False,,1
+diri1252-22-1,,diri1252,22,muronɡó mbíri -víli,muronɡó mbíri -víli,[],,[],,False,Diriku.htm,False,,1
+diri1252-23-1,,diri1252,23,muronɡó mbíri -tátu,muronɡó mbíri -tátu,[],,[],,False,Diriku.htm,False,,1
+diri1252-24-1,,diri1252,24,muronɡó mbíri -nè,muronɡó mbíri -nè,[],,[],,False,Diriku.htm,False,,1
+diri1252-25-1,,diri1252,25,muronɡó mbíri -táno,muronɡó mbíri -táno,[],,[],,False,Diriku.htm,False,,1
+diri1252-26-1,,diri1252,26,muronɡó mbíri -táno ná -mwé,muronɡó mbíri -táno ná -mwé,[],,[],,False,Diriku.htm,False,,1
+diri1252-27-1,,diri1252,27,muronɡó mbíri -táno ná -víli,muronɡó mbíri -táno ná -víli,[],,[],,False,Diriku.htm,False,,1
+diri1252-28-1,,diri1252,28,muronɡó mbíri -táno ná -tátu,muronɡó mbíri -táno ná -tátu,[],,[],,False,Diriku.htm,False,,1
+diri1252-29-1,,diri1252,29,muronɡó mbíri -táno ná -nè,muronɡó mbíri -táno ná -nè,[],,[],,False,Diriku.htm,False,,1
+diri1252-30-1,,diri1252,30,muronɡó -tátu,muronɡó -tátu,[],,[],,False,Diriku.htm,False,,1
+diri1252-40-1,,diri1252,40,muronɡó -nè,muronɡó -nè,[],,[],,False,Diriku.htm,False,,1
+diri1252-50-1,,diri1252,50,muronɡó -táno,muronɡó -táno,[],,[],,False,Diriku.htm,False,,1
+diri1252-60-1,,diri1252,60,muronɡó -táno ná-mwé,muronɡó -táno ná-mwé,[],,[],,False,Diriku.htm,False,,1
+diri1252-70-1,,diri1252,70,muronɡó -táno ná-víli,muronɡó -táno ná-víli,[],,[],,False,Diriku.htm,False,,1
+diri1252-80-1,,diri1252,80,muronɡó -táno ná-tátu,muronɡó -táno ná-tátu,[],,[],,False,Diriku.htm,False,,1
+diri1252-90-1,,diri1252,90,muronɡó -táno ná -nè,muronɡó -táno ná -nè,[],,[],,False,Diriku.htm,False,,1
+diri1252-100-1,,diri1252,100,lifêre,lifêre,[],,[],,False,Diriku.htm,False,,1
+diri1252-200-1,,diri1252,200,mafêre mavíri,mafêre mavíri,[],,[],,False,Diriku.htm,False,,1
+diri1252-1000-1,,diri1252,1000,liyoví or mafêre muronɡó,liyoví or mafêre muronɡó,[],,[],,False,Diriku.htm,True,,1
+diri1252-2000-1,,diri1252,2000,mayoví muronɡó,mayoví muronɡó,[],,[],,False,Diriku.htm,False,,1

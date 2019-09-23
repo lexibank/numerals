@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+noma1260-1-1,,noma1260,1,ɔmɔtɛ́,ɔmɔtɛ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-2-1,,noma1260,2,béfendí,béfendí,[],,[],,False,Nomaande.htm,False,,1
+noma1260-3-1,,noma1260,3,batátɔ́,batátɔ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-4-1,,noma1260,4,bényíse,bényíse,[],,[],,False,Nomaande.htm,False,,1
+noma1260-5-1,,noma1260,5,batáánɔ́,batáánɔ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-6-1,,noma1260,6,betíndétú,betíndétú,[],,[],,False,Nomaande.htm,False,,1
+noma1260-7-1,,noma1260,7,betíndétú nɔ́mɔ,betíndétú nɔ́mɔ,[],( 6 + 1),[],,False,Nomaande.htm,False,,1
+noma1260-8-1,,noma1260,8,banámányɛ́,banámányɛ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-9-1,,noma1260,9,banámányɛ́ nɔ́mɔ,banámányɛ́ nɔ́mɔ,[],( 8 + 1),[],,False,Nomaande.htm,False,,1
+noma1260-10-1,,noma1260,10,bɔ́ɔ́háta,bɔ́ɔ́háta,[],,[],,False,Nomaande.htm,False,,1
+noma1260-11-1,,noma1260,11,bɔ́ɔ́háta na ɔmɔtɛ́,bɔ́ɔ́háta na ɔmɔtɛ́,[],( 10 + 1 ),[],,False,Nomaande.htm,False,,1
+noma1260-12-1,,noma1260,12,bɔ́ɔ́háta na béfendí,bɔ́ɔ́háta na béfendí,[],( 10 + 2 ),[],,False,Nomaande.htm,False,,1
+noma1260-13-1,,noma1260,13,bɔ́ɔ́háta na batátɔ́,bɔ́ɔ́háta na batátɔ́,[],( 10 + 3 ),[],,False,Nomaande.htm,False,,1
+noma1260-14-1,,noma1260,14,bɔ́ɔ́háta na bényíse,bɔ́ɔ́háta na bényíse,[],( 10 + 4 ),[],,False,Nomaande.htm,False,,1
+noma1260-15-1,,noma1260,15,buunyi,buunyi,[],,[],,False,Nomaande.htm,False,,1
+noma1260-16-1,,noma1260,16,buunyi na ɔmɔtɛ,buunyi na ɔmɔtɛ,[],( 15 + 1 ),[],,False,Nomaande.htm,False,,1
+noma1260-17-1,,noma1260,17,buunyi na béfendí,buunyi na béfendí,[],( 15 + 2),[],,False,Nomaande.htm,False,,1
+noma1260-18-1,,noma1260,18,buunyi na batátɔ́,buunyi na batátɔ́,[],( 15 + 3 ),[],,False,Nomaande.htm,False,,1
+noma1260-19-1,,noma1260,19,buunyi na bényíse,buunyi na bényíse,[],( 15 + 4 ),[],,False,Nomaande.htm,False,,1
+noma1260-20-1,,noma1260,20,nyitíne,nyitíne,[],,[],,False,Nomaande.htm,False,,1
+noma1260-21-1,,noma1260,21,nyitíne na ɔmɔtɛ́,nyitíne na ɔmɔtɛ́,[],( '20 with 1'),[],,False,Nomaande.htm,False,,1
+noma1260-22-1,,noma1260,22,nyitíne na béfendí,nyitíne na béfendí,[],,[],,False,Nomaande.htm,False,,1
+noma1260-23-1,,noma1260,23,nyitíne na batátɔ́,nyitíne na batátɔ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-24-1,,noma1260,24,nyitíne na bényíse,nyitíne na bényíse,[],,[],,False,Nomaande.htm,False,,1
+noma1260-25-1,,noma1260,25,nyitíne na batáánɔ́,nyitíne na batáánɔ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-26-1,,noma1260,26,nyitíne na betíndétú,nyitíne na betíndétú,[],,[],,False,Nomaande.htm,False,,1
+noma1260-27-1,,noma1260,27,nyitíne na betíndétú nɔ́mɔ,nyitíne na betíndétú nɔ́mɔ,[],,[],,False,Nomaande.htm,False,,1
+noma1260-28-1,,noma1260,28,nyitíne na banámányɛ́,nyitíne na banámányɛ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-29-1,,noma1260,29,nyitíne na banámányɛ́ nɔ́mɔ,nyitíne na banámányɛ́ nɔ́mɔ,[],,[],,False,Nomaande.htm,False,,1
+noma1260-30-1,,noma1260,30,nyitíne na bɔ́ɔ́háta,nyitíne na bɔ́ɔ́háta,[],( '20 with 10 '),[],,False,Nomaande.htm,False,,1
+noma1260-40-1,,noma1260,40,etíne éfendí,etíne éfendí,[],( 20's two ),[],,False,Nomaande.htm,False,,1
+noma1260-50-1,,noma1260,50,etíne éfendí na bɔ́ɔ́háta,etíne éfendí na bɔ́ɔ́háta,[],,[],,False,Nomaande.htm,False,,1
+noma1260-60-1,,noma1260,60,etíne ɛtátɔ́,etíne ɛtátɔ́,[],( 20's three ),[],,False,Nomaande.htm,False,,1
+noma1260-70-1,,noma1260,70,etíne ɛtátɔ́ na bɔ́ɔ́háta,etíne ɛtátɔ́ na bɔ́ɔ́háta,[],,[],,False,Nomaande.htm,False,,1
+noma1260-80-1,,noma1260,80,etíne ínyíse,etíne ínyíse,[],( 20's four ),[],,False,Nomaande.htm,False,,1
+noma1260-90-1,,noma1260,90,etíne ínyíse na bɔ́ɔ́háta,etíne ínyíse na bɔ́ɔ́háta,[],,[],,False,Nomaande.htm,False,,1
+noma1260-100-1,,noma1260,100,etíne ɛtátɔ́,etíne ɛtátɔ́,[],,[],,False,Nomaande.htm,False,,1
+noma1260-100-2,,noma1260,100,hɔ́ndɛ́tɛ,hɔ́ndɛ́tɛ,[],( < English ),[],,True,Nomaande.htm,False,,1
+noma1260-200-1,,noma1260,200,hɔ́ndɛ́tɛ ífendí,hɔ́ndɛ́tɛ ífendí,[],,[],,False,Nomaande.htm,False,,1
+noma1260-1000-1,,noma1260,1000,tɔ́sɛ́nd ɛ́mɔtɛ́,tɔ́sɛ́nd ɛ́mɔtɛ́,[],( ' tɔ́sɛ́nd ' from English ),[],,False,Nomaande.htm,False,,1
+noma1260-2000-1,,noma1260,2000,tɔ́sɛ́nd ífendí,tɔ́sɛ́nd ífendí,[],,[],,False,Nomaande.htm,False,,1

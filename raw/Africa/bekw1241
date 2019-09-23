@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bekw1241-1-1,,bekw1241,1,kìn,kìn,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-2-1,,bekw1241,2,-hà,-hà,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-3-1,,bekw1241,3,-cià,-cià,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-4-1,,bekw1241,4,-nè,-nè,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-5-1,,bekw1241,5,-dyaŋ,-dyaŋ,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-6-1,,bekw1241,6,-dyaàkìn,-dyaàkìn,[],( 5 + 1 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-7-1,,bekw1241,7,-dièhà,-dièhà,[],( 5 + 2 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-8-1,,bekw1241,8,-diècià,-diècià,[],( 5 + 3 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-9-1,,bekw1241,9,-diènè,-diènè,[],( 5 + 4 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-10-1,,bekw1241,10,irifo,irifo,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-11-1,,bekw1241,11,irifo r'ikìn,irifo r'ikìn,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-12-1,,bekw1241,12,irifo r'ìhà,irifo r'ìhà,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-13-1,,bekw1241,13,irifo r'ìcià,irifo r'ìcià,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-14-1,,bekw1241,14,irifo r'ìnè,irifo r'ìnè,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-15-1,,bekw1241,15,irifo r'ìdyaŋ,irifo r'ìdyaŋ,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-16-1,,bekw1241,16,irifo r'ìdyaŋkìn,irifo r'ìdyaŋkìn,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-17-1,,bekw1241,17,irifo r'ìdièhà,irifo r'ìdièhà,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-18-1,,bekw1241,18,irifo r'ìdiècià,irifo r'ìdiècià,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-19-1,,bekw1241,19,irifo r'ìdiènè,irifo r'ìdiènè,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-20-1,,bekw1241,20,ìrìcì,ìrìcì,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-21-1,,bekw1241,21,ìrìcì r'àhe ìtàŋ́ kìn,ìrìcì r'àhe ìtàŋ́ kìn,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-22-1,,bekw1241,22,ìrìcì r'àhe ìhá,ìrìcì r'àhe ìhá,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-23-1,,bekw1241,23,ìrìcì r'àhe ìcià,ìrìcì r'àhe ìcià,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-24-1,,bekw1241,24,ìrìcì r'àhe ìnè,ìrìcì r'àhe ìnè,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-25-1,,bekw1241,25,ìrìcì r'àhe ìdyaŋ,ìrìcì r'àhe ìdyaŋ,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-26-1,,bekw1241,26,ìrìcì r'àhe ìdyaŋkìn,ìrìcì r'àhe ìdyaŋkìn,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-27-1,,bekw1241,27,ìrìcì r'àhe ìdièhà,ìrìcì r'àhe ìdièhà,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-28-1,,bekw1241,28,ìrìcì r'àhe ìdiècià,ìrìcì r'àhe ìdiècià,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-29-1,,bekw1241,29,ìrìcì r'àhe ìdiènè,ìrìcì r'àhe ìdiènè,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-30-1,,bekw1241,30,ìrìcì r'àhe irifo,ìrìcì r'àhe irifo,[],( 20 + 10 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-40-1,,bekw1241,40,àcí àhà,àcí àhà,[],( 20 x 2 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-50-1,,bekw1241,50,àcí àhà irifo,àcí àhà irifo,[],( 20 x 2 + 10 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-60-1,,bekw1241,60,àcí àcià,àcí àcià,[],( 20 x 3 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-70-1,,bekw1241,70,àcí àcià irifo,àcí àcià irifo,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-80-1,,bekw1241,80,àcí ànè,àcí ànè,[],( 20 x 4 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-90-1,,bekw1241,90,àcí ànè irifo,àcí ànè irifo,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-100-1,,bekw1241,100,àcí àdyaŋ,àcí àdyaŋ,[],( 20 x 5 ),[],,False,Bekwarra.htm,False,,1
+bekw1241-200-1,,bekw1241,200,àcí irifo,àcí irifo,[],,[],,False,Bekwarra.htm,False,,1
+bekw1241-200-2,,bekw1241,200,400. únò,400. únò,[],,[],,False,Bekwarra.htm,True,,1

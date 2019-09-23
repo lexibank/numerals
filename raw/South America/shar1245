@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+shar1245-1-1,,shar1245,1,fusti,fusti,[],,[],,False,Sharanahua.htm,False,,1
+shar1245-2-1,,shar1245,2,rafu,rafu,[],,[],,False,Sharanahua.htm,False,,1
+shar1245-3-1,,shar1245,3,rafu nõ fusti,rafu nõ fusti,[],( 2 + 1 ),[],,False,Sharanahua.htm,False,,1
+shar1245-4-1,,shar1245,4,rafu nõ rafu,rafu nõ rafu,[],( 2 + 2 ),[],,False,Sharanahua.htm,False,,1
+shar1245-5-1,,shar1245,5,mutsu fusti,mutsu fusti,[],"(litː 'hand one', mutsu= hand  )",[],,False,Sharanahua.htm,False,,1
+shar1245-6-1,,shar1245,6,mutsu fusti nõ futsi,mutsu fusti nõ futsi,[],(litː 'hand one and one' ),[],,False,Sharanahua.htm,False,,1
+shar1245-7-1,,shar1245,7,mutsu fusti nõ rafu,mutsu fusti nõ rafu,[],(litː 'hand one and two' ),[],,False,Sharanahua.htm,False,,1
+shar1245-8-1,,shar1245,8,mutsu namantsajanoa,mutsu namantsajanoa,[],(the word 'namantsajanoa' means 'located in the middle'),[],,False,Sharanahua.htm,False,,1
+shar1245-9-1,,shar1245,9,mutsu fustiti nõ mutsu tʃituʃu,mutsu fustiti nõ mutsu tʃituʃu,[],(the word 'tʃituʃu' means 'next to it'),[],,False,Sharanahua.htm,False,,1
+shar1245-10-1,,shar1245,10,mutsu rafuti,mutsu rafuti,[],(litː 'hands two'),[],,False,Sharanahua.htm,False,,1

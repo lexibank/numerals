@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kwom1262-1-1,,kwom1262,1,pochi,pochi,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-1-2,,kwom1262,1,pondat,pondat,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-2-1,,kwom1262,2,upurus,upurus,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-3-1,,kwom1262,3,purachara,purachara,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-3-2,,kwom1262,3,dupura kara,dupura kara,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-4-1,,kwom1262,4,dupura kapura,dupura kapura,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-5-1,,kwom1262,5,yoko tapa,yoko tapa,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-6-1,,kwom1262,6,yoko tapa pondat,yoko tapa pondat,[],( 5 + 1 ),[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-7-1,,kwom1262,7,yoko tapa upurus,yoko tapa upurus,[],( 5 + 2 ),[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-8-1,,kwom1262,8,yoko tapa purachara,yoko tapa purachara,[],( 5 + 3 ),[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-9-1,,kwom1262,9,yoko tapa dupura kapura,yoko tapa dupura kapura,[],( 5 + 4 ),[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-10-1,,kwom1262,10,yoko tapa yoko tapa,yoko tapa yoko tapa,[],( 5 + 5 ),[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-11-1,,kwom1262,11,yoko tapa yoko tapa yatii pondat,yoko tapa yoko tapa yatii pondat,[],( litː 'yatii' means 'foot'),[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-12-1,,kwom1262,12,yoko tapa yoko tapa yatii upurus,yoko tapa yoko tapa yatii upurus,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-13-1,,kwom1262,13,yoko tapa yoko tapa yatii purachara,yoko tapa yoko tapa yatii purachara,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-14-1,,kwom1262,14,yoko tapa yoko tapa yatii dupura kapura,yoko tapa yoko tapa yatii dupura kapura,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-15-1,,kwom1262,15,yoko tapa yoko tapa yatii yoko tapa,yoko tapa yoko tapa yatii yoko tapa,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-16-1,,kwom1262,16,yoko tapa yoko tapa yatii yoko tapa pondat,yoko tapa yoko tapa yatii yoko tapa pondat,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-17-1,,kwom1262,17,yoko tapa yoko tapa yatii yoko tapa upurus,yoko tapa yoko tapa yatii yoko tapa upurus,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-18-1,,kwom1262,18,yoko tapa yoko tapa yatii yoko tapa purachara,yoko tapa yoko tapa yatii yoko tapa purachara,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-19-1,,kwom1262,19,yoko tapa yoko tapa yatii yoko tapa dupura kapura,yoko tapa yoko tapa yatii yoko tapa dupura kapura,[],,[],,False,Kwoma-PNG.htm,False,,1
+kwom1262-20-1,,kwom1262,20,ma pondat,ma pondat,[],,[],,False,Kwoma-PNG.htm,False,,1

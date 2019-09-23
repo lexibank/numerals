@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+poko1263-1-1,,poko1263,1,àkɔ́ɔ́ŋkɔ̀,àkɔ́ɔ́ŋkɔ̀,[],,[],,False,Pakot.htm,False,,1
+poko1263-2-1,,poko1263,2,oɣë̀ë̀ŋ,oɣë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-2-2,,poko1263,2,òdë̀ë̀ŋ,òdë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-3-1,,poko1263,3,sä́mä́k,sä́mä́k,[],,[],,False,Pakot.htm,False,,1
+poko1263-4-1,,poko1263,4,àŋwân,àŋwân,[],,[],,False,Pakot.htm,False,,1
+poko1263-5-1,,poko1263,5,múut,múut,[],,[],,False,Pakot.htm,False,,1
+poko1263-6-1,,poko1263,6,múut ŋɡɔ́ àkɔ́ɔ́ŋɔ̀,múut ŋɡɔ́ àkɔ́ɔ́ŋɔ̀,[],( 5 + 1 ),[],,False,Pakot.htm,False,,1
+poko1263-7-1,,poko1263,7,múut ŋɡɔ́ òdë̀ë̀ŋ,múut ŋɡɔ́ òdë̀ë̀ŋ,[],( 5 + 2 ),[],,False,Pakot.htm,False,,1
+poko1263-8-1,,poko1263,8,múut ŋɡɔ́ sä́mä́k,múut ŋɡɔ́ sä́mä́k,[],( 5 + 3 ),[],,False,Pakot.htm,False,,1
+poko1263-9-1,,poko1263,9,múut ŋɡɔ́ àŋwân,múut ŋɡɔ́ àŋwân,[],( 5 + 4 ),[],,False,Pakot.htm,False,,1
+poko1263-10-1,,poko1263,10,támàn,támàn,[],,[],,False,Pakot.htm,False,,1
+poko1263-11-1,,poko1263,11,támàn kɔ àkɔ́ɔ́ŋɔ̀,támàn kɔ àkɔ́ɔ́ŋɔ̀,[],,[],,False,Pakot.htm,False,,1
+poko1263-12-1,,poko1263,12,támàn ŋɡɔ́ òdë̀ë̀ŋ,támàn ŋɡɔ́ òdë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-13-1,,poko1263,13,támàn ŋɡɔ́ sä́mä́k,támàn ŋɡɔ́ sä́mä́k,[],,[],,False,Pakot.htm,False,,1
+poko1263-14-1,,poko1263,14,támàn ŋɡɔ́ àŋwân,támàn ŋɡɔ́ àŋwân,[],,[],,False,Pakot.htm,False,,1
+poko1263-15-1,,poko1263,15,támàn ŋɡɔ́ múut,támàn ŋɡɔ́ múut,[],,[],,False,Pakot.htm,False,,1
+poko1263-16-1,,poko1263,16,támàn ŋɡɔ́ múut kɔ́ àkɔ́ɔ́ŋɔ̀,támàn ŋɡɔ́ múut kɔ́ àkɔ́ɔ́ŋɔ̀,[],,[],,False,Pakot.htm,False,,1
+poko1263-17-1,,poko1263,17,támàn ŋɡɔ́ múut ŋɡɔ́ òdë̀ë̀ŋ,támàn ŋɡɔ́ múut ŋɡɔ́ òdë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-18-1,,poko1263,18,támàn ŋɡɔ́ múut ŋɡɔ́ sä́mä́k,támàn ŋɡɔ́ múut ŋɡɔ́ sä́mä́k,[],,[],,False,Pakot.htm,False,,1
+poko1263-19-1,,poko1263,19,támàn ŋɡɔ́ múut ŋɡɔ́ àŋwân,támàn ŋɡɔ́ múut ŋɡɔ́ àŋwân,[],,[],,False,Pakot.htm,False,,1
+poko1263-20-1,,poko1263,20,tamanút òdë̀ë̀ŋ,tamanút òdë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-21-1,,poko1263,21,tamanút òdë̀ë̀ŋ ŋɡɔ́ àkɔ́ɔ́ŋɔ̀,tamanút òdë̀ë̀ŋ ŋɡɔ́ àkɔ́ɔ́ŋɔ̀,[],,[],,False,Pakot.htm,False,,1
+poko1263-22-1,,poko1263,22,tamanút òdë̀ë̀ŋ ŋɡɔ́ òdë̀ë̀ŋ,tamanút òdë̀ë̀ŋ ŋɡɔ́ òdë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-23-1,,poko1263,23,tamanút òdë̀ë̀ŋ ŋɡɔ́ sä́mä́k,tamanút òdë̀ë̀ŋ ŋɡɔ́ sä́mä́k,[],,[],,False,Pakot.htm,False,,1
+poko1263-24-1,,poko1263,24,tamanút òdë̀ë̀ŋ ŋɡɔ́ àŋwân,tamanút òdë̀ë̀ŋ ŋɡɔ́ àŋwân,[],,[],,False,Pakot.htm,False,,1
+poko1263-25-1,,poko1263,25,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut,[],,[],,False,Pakot.htm,False,,1
+poko1263-26-1,,poko1263,26,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut kɔ́ àkɔ́ɔ́ŋɔ̀,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut kɔ́ àkɔ́ɔ́ŋɔ̀,[],,[],,False,Pakot.htm,False,,1
+poko1263-27-1,,poko1263,27,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ òdë̀ë̀ŋ,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ òdë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-28-1,,poko1263,28,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ sä́mä́k,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ sä́mä́k,[],,[],,False,Pakot.htm,False,,1
+poko1263-29-1,,poko1263,29,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ àŋwân,tamanút òdë̀ë̀ŋ ŋɡɔ́ múut ŋɡɔ́ àŋwân,[],,[],,False,Pakot.htm,False,,1
+poko1263-30-1,,poko1263,30,tamanút sä́mä́k,tamanút sä́mä́k,[],,[],,False,Pakot.htm,False,,1
+poko1263-30-2,,poko1263,30,sɔsɔ́m,sɔsɔ́m,[],,[],,False,Pakot.htm,False,,1
+poko1263-40-1,,poko1263,40,tamanút àŋwân,tamanút àŋwân,[],,[],,False,Pakot.htm,False,,1
+poko1263-40-2,,poko1263,40,artam,artam,[],,[],,False,Pakot.htm,False,,1
+poko1263-50-1,,poko1263,50,tamanút múut,tamanút múut,[],,[],,False,Pakot.htm,False,,1
+poko1263-50-2,,poko1263,50,kɔnɔ́m,kɔnɔ́m,[],,[],,False,Pakot.htm,False,,1
+poko1263-60-1,,poko1263,60,tamanút múut kɔ́ àkɔ́ɔ́ŋkɔ̀,tamanút múut kɔ́ àkɔ́ɔ́ŋkɔ̀,[],,[],,False,Pakot.htm,False,,1
+poko1263-70-1,,poko1263,70,tamanút múut ŋɡɔ́ òdë̀ë̀ŋ,tamanút múut ŋɡɔ́ òdë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-80-1,,poko1263,80,tamanút múut ŋɡɔ́ sä́mä́k,tamanút múut ŋɡɔ́ sä́mä́k,[],,[],,False,Pakot.htm,False,,1
+poko1263-90-1,,poko1263,90,tamanút múut ŋɡɔ́ àŋwân,tamanút múut ŋɡɔ́ àŋwân,[],,[],,False,Pakot.htm,False,,1
+poko1263-100-1,,poko1263,100,pɔ́kɔ́l àkɔ́ɔ́ŋɔ̀,pɔ́kɔ́l àkɔ́ɔ́ŋɔ̀,[],,[],,False,Pakot.htm,False,,1
+poko1263-200-1,,poko1263,200,pɔ́kɔ́l oɣë̀ë̀ŋ,pɔ́kɔ́l oɣë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1
+poko1263-1000-1,,poko1263,1000,ŋíŋútìan àkɔ́ɔ́ŋɔ,ŋíŋútìan àkɔ́ɔ́ŋɔ,[],,[],,False,Pakot.htm,False,,1
+poko1263-2000-1,,poko1263,2000,ŋiŋwáŋ oɣë̀ë̀ŋ,ŋiŋwáŋ oɣë̀ë̀ŋ,[],,[],,False,Pakot.htm,False,,1

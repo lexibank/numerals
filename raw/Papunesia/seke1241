@@ -1,0 +1,62 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+seke1241-1-1,,seke1241,1,alβʷal,alβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-1-2,,seke1241,1,al-βʷal,al-βʷal,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-2-1,,seke1241,2,aru,aru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-2-2,,seke1241,2,a-ru,a-ru,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-3-1,,seke1241,3,azⁱol,azⁱol,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-3-2,,seke1241,3,a-ziul,a-ziul,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-4-1,,seke1241,4,avⁱet,avⁱet,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-4-2,,seke1241,4,a-βiet,a-βiet,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-5-1,,seke1241,5,alim,alim,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-5-2,,seke1241,5,a-lim,a-lim,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-6-1,,seke1241,6,laβʷal,laβʷal,[],( 5 + 1 ),[],,False,Seke-Ske.htm,False,,1
+seke1241-6-2,,seke1241,6,la-βʷal,la-βʷal,[],( 5 + 1 ),[],,False,Seke-Ske.htm,False,,2
+seke1241-7-1,,seke1241,7,livru,livru,[],( 5 + 2 ),[],,False,Seke-Ske.htm,False,,1
+seke1241-7-2,,seke1241,7,liβ-ru,liβ-ru,[],( 5 + 2 ),[],,False,Seke-Ske.htm,False,,2
+seke1241-8-1,,seke1241,8,liptol,liptol,[],( 5 + 3 ),[],,False,Seke-Ske.htm,False,,1
+seke1241-8-2,,seke1241,8,lip-tol,lip-tol,[],( 5 + 3 ),[],,False,Seke-Ske.htm,False,,2
+seke1241-9-1,,seke1241,9,liapɛt,liapɛt,[],( 5 + 4 ),[],,False,Seke-Ske.htm,False,,1
+seke1241-9-2,,seke1241,9,lia-pet,lia-pet,[],( 5 + 4 ),[],,False,Seke-Ske.htm,False,,2
+seke1241-10-1,,seke1241,10,sɛᵐbrɛnɔk,sɛᵐbrɛnɔk,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-10-2,,seke1241,10,s(i)eᵐbrenok,s(i)eᵐbrenok,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-11-1,,seke1241,11,sɛᵐbrɛnɔk nan alβʷal,sɛᵐbrɛnɔk nan alβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-12-1,,seke1241,12,sɛᵐbrɛnɔk nan aru,sɛᵐbrɛnɔk nan aru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-13-1,,seke1241,13,sɛᵐbrɛnɔk nan azⁱol,sɛᵐbrɛnɔk nan azⁱol,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-14-1,,seke1241,14,sɛᵐbrɛnɔk nan avⁱet,sɛᵐbrɛnɔk nan avⁱet,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-15-1,,seke1241,15,sɛᵐbrɛnɔk nan alim,sɛᵐbrɛnɔk nan alim,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-16-1,,seke1241,16,sɛᵐbrɛnɔk nan laβʷal,sɛᵐbrɛnɔk nan laβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-17-1,,seke1241,17,sɛᵐbrɛnɔk nan livru,sɛᵐbrɛnɔk nan livru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-18-1,,seke1241,18,sɛᵐbrɛnɔk nan liptol,sɛᵐbrɛnɔk nan liptol,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-19-1,,seke1241,19,sɛᵐbrɛnɔk nan liapɛt,sɛᵐbrɛnɔk nan liapɛt,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-20-1,,seke1241,20,maβʷul aru,maβʷul aru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-20-2,,seke1241,20,maβul a-ru,maβul a-ru,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-21-1,,seke1241,21,maβʷul aru nan alβʷal,maβʷul aru nan alβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-22-1,,seke1241,22,maβʷul aru nan aru,maβʷul aru nan aru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-23-1,,seke1241,23,maβʷul aru nan azⁱol,maβʷul aru nan azⁱol,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-24-1,,seke1241,24,maβʷul aru nan avⁱet,maβʷul aru nan avⁱet,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-25-1,,seke1241,25,maβʷul aru nan alim,maβʷul aru nan alim,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-26-1,,seke1241,26,maβʷul aru nan laβʷal,maβʷul aru nan laβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-27-1,,seke1241,27,maβʷul aru nan livru,maβʷul aru nan livru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-28-1,,seke1241,28,maβʷul aru nan liptol,maβʷul aru nan liptol,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-29-1,,seke1241,29,maβʷul aru nan liapɛt,maβʷul aru nan liapɛt,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-30-1,,seke1241,30,maβʷul azⁱol,maβʷul azⁱol,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-30-2,,seke1241,30,maβul a-ziul,maβul a-ziul,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-40-1,,seke1241,40,maβʷul avⁱet,maβʷul avⁱet,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-40-2,,seke1241,40,maβul a-βiet,maβul a-βiet,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-50-1,,seke1241,50,maβʷul alim,maβʷul alim,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-50-2,,seke1241,50,maβul a-lim,maβul a-lim,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-60-1,,seke1241,60,maβʷul laβʷal,maβʷul laβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-60-2,,seke1241,60,maβul la-βʷal,maβul la-βʷal,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-70-1,,seke1241,70,maβʷul livru,maβʷul livru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-70-2,,seke1241,70,maβul liβ-ru,maβul liβ-ru,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-80-1,,seke1241,80,maβʷul liptol,maβʷul liptol,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-80-2,,seke1241,80,maβul lip-tol,maβul lip-tol,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-90-1,,seke1241,90,maβʷul liapɛt,maβʷul liapɛt,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-90-2,,seke1241,90,maβul lia-pet,maβul lia-pet,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-100-1,,seke1241,100,aᵐroᵐb alβʷal,aᵐroᵐb alβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-100-2,,seke1241,100,mavwul sɛᵐbrɛnɔk,mavwul sɛᵐbrɛnɔk,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-100-3,,seke1241,100,am(-)ruᵐb,am(-)ruᵐb,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-200-1,,seke1241,200,aᵐroᵐb aru,aᵐroᵐb aru,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-200-2,,seke1241,200,am(-)ruᵐb ba-ru,am(-)ruᵐb ba-ru,[],,[],,False,Seke-Ske.htm,False,,2
+seke1241-1000-1,,seke1241,1000,atar alβʷal,atar alβʷal,[],,[],,False,Seke-Ske.htm,False,,1
+seke1241-2000-1,,seke1241,2000,atar aru,atar aru,[],,[],,False,Seke-Ske.htm,False,,1

@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mand1440-1-1,,mand1440,1,kes,kes,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-2-1,,mand1440,2,lua,lua,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-3-1,,mand1440,3,tour,tour,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-4-1,,mand1440,4,vovet,vovet,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-5-1,,mand1440,5,napaririem,napaririem,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-6-1,,mand1440,6,napaririem poutsu kes,napaririem poutsu kes,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-7-1,,mand1440,7,napaririem poutsu lua,napaririem poutsu lua,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-8-1,,mand1440,8,napaririem poutsu tour,napaririem poutsu tour,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-9-1,,mand1440,9,napaririem poutsu vovet,napaririem poutsu vovet,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-10-1,,mand1440,10,mi sinaŋavour kes,mi sinaŋavour kes,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-11-1,,mand1440,11,mi sinaŋavour kes ma kes,mi sinaŋavour kes ma kes,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-12-1,,mand1440,12,mi sinaŋavour kes ma lua,mi sinaŋavour kes ma lua,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-13-1,,mand1440,13,mi sinaŋavour kes ma tour,mi sinaŋavour kes ma tour,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-14-1,,mand1440,14,mi sinaŋavour kes ma vovet,mi sinaŋavour kes ma vovet,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-15-1,,mand1440,15,mi sinaŋavour kes ma napaririem,mi sinaŋavour kes ma napaririem,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-16-1,,mand1440,16,mi si. kes ma napaririem kes,mi si. kes ma napaririem kes,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-17-1,,mand1440,17,mi si. kes ma napaririem lua,mi si. kes ma napaririem lua,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-18-1,,mand1440,18,mi si. kes ma napaririem tour,mi si. kes ma napaririem tour,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-19-1,,mand1440,19,mi si. kes ma napaririem vovet,mi si. kes ma napaririem vovet,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-20-1,,mand1440,20,ba sinaŋavour luo,ba sinaŋavour luo,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-21-1,,mand1440,21,ba sinaŋavour luo ma kes,ba sinaŋavour luo ma kes,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-22-1,,mand1440,22,ba sinaŋavour luo ma lua,ba sinaŋavour luo ma lua,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-23-1,,mand1440,23,ba sinaŋavour luo ma tour,ba sinaŋavour luo ma tour,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-24-1,,mand1440,24,ba sinaŋavour luo ma vovet,ba sinaŋavour luo ma vovet,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-25-1,,mand1440,25,ba sinaŋavour luo ma napariiem,ba sinaŋavour luo ma napariiem,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-26-1,,mand1440,26,ba si. luo ma napariiem poutsu kes,ba si. luo ma napariiem poutsu kes,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-27-1,,mand1440,27,ba si. luo ma napariiem poutsu lua,ba si. luo ma napariiem poutsu lua,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-28-1,,mand1440,28,ba si. luo ma napariiem poutsu tour,ba si. luo ma napariiem poutsu tour,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-29-1,,mand1440,29,ba si. luo ma napariiem poutsu vovet,ba si. luo ma napariiem poutsu vovet,[],,[],,False,Mandara-Tabar.htm,True,,1
+mand1440-30-1,,mand1440,30,ba sinaŋavour tour,ba sinaŋavour tour,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-40-1,,mand1440,40,ba sinaŋavour vovet,ba sinaŋavour vovet,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-50-1,,mand1440,50,ba sinaŋavour napaririem,ba sinaŋavour napaririem,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-60-1,,mand1440,60,ba sinaŋavour napaririem poutsu kes,ba sinaŋavour napaririem poutsu kes,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-70-1,,mand1440,70,ba sinaŋavour napaririem poutsu lua,ba sinaŋavour napaririem poutsu lua,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-80-1,,mand1440,80,ba sinaŋavour napaririem poutsu tour,ba sinaŋavour napaririem poutsu tour,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-90-1,,mand1440,90,ba sinaŋavour napaririem poutsu vovet,ba sinaŋavour napaririem poutsu vovet,[],,[],,False,Mandara-Tabar.htm,False,,1
+mand1440-100-1,,mand1440,100,mi sinaŋavour koboit,mi sinaŋavour koboit,[],,[],,False,Mandara-Tabar.htm,False,,1

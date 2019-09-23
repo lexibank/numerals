@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+shem1239-1-1,,shem1239,1,ninɡin,ninɡin,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-1-2,,shem1239,1,nanbin,nanbin,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-2-1,,shem1239,2,ʃuunni,ʃuunni,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-2-2,,shem1239,2,ʃuunni,ʃuunni,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-3-1,,shem1239,3,taanri,taanri,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-3-2,,shem1239,3,taanri,taanri,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-4-1,,shem1239,4,sicɛɛrɛ,sicɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-4-2,,shem1239,4,sicɛɛrɛ,sicɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-5-1,,shem1239,5,kaɡuru,kaɡuru,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-5-2,,shem1239,5,kaɡro,kaɡro,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-6-1,,shem1239,6,ɡ͡baani,ɡ͡baani,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-6-2,,shem1239,6,ɡ͡baani,ɡ͡baani,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-7-1,,shem1239,7,ɡ͡baʃuuni,ɡ͡baʃuuni,[],( 5 + 2 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-7-2,,shem1239,7,ɡ͡baʃuuni,ɡ͡baʃuuni,[],( 5 + 2 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-8-1,,shem1239,8,ɡ͡bataanri,ɡ͡bataanri,[],( 5 + 3 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-8-2,,shem1239,8,ɡ͡bataanri,ɡ͡bataanri,[],( 5 + 3 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-9-1,,shem1239,9,ɡ͡baɛɛrɛ,ɡ͡baɛɛrɛ,[],( 5 + 4 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-9-2,,shem1239,9,ɡ͡baɛɛrɛ,ɡ͡baɛɛrɛ,[],( 5 + 4 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-10-1,,shem1239,10,kɛ,kɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-10-2,,shem1239,10,kɛ,kɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-11-1,,shem1239,11,kɛ na ninɡin,kɛ na ninɡin,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-11-2,,shem1239,11,kɛ ni ninɡin,kɛ ni ninɡin,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-12-1,,shem1239,12,kɛ na ʃuunni,kɛ na ʃuunni,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-12-2,,shem1239,12,kɛ ni ʃuunni,kɛ ni ʃuunni,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-13-1,,shem1239,13,kɛ na taanri,kɛ na taanri,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-13-2,,shem1239,13,kɛ ni taanri,kɛ ni taanri,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-14-1,,shem1239,14,kɛ na sicɛɛrɛ,kɛ na sicɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-14-2,,shem1239,14,kɛ ni sicɛɛrɛ,kɛ ni sicɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-15-1,,shem1239,15,kɛ na kaɡuru,kɛ na kaɡuru,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-15-2,,shem1239,15,kɛ ni kaɡro,kɛ ni kaɡro,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-16-1,,shem1239,16,kɛ na ɡ͡baani,kɛ na ɡ͡baani,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-16-2,,shem1239,16,kɛ ni ɡ͡baani,kɛ ni ɡ͡baani,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-17-1,,shem1239,17,kɛ na ɡ͡baʃuuni,kɛ na ɡ͡baʃuuni,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-17-2,,shem1239,17,kɛ ni ɡ͡baʃuuni,kɛ ni ɡ͡baʃuuni,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-18-1,,shem1239,18,kɛ na ɡ͡bataanri,kɛ na ɡ͡bataanri,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-18-2,,shem1239,18,kɛ ni ɡ͡bataanri,kɛ ni ɡ͡bataanri,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-19-1,,shem1239,19,kɛ na ɡ͡baɛɛrɛ,kɛ na ɡ͡baɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-19-2,,shem1239,19,kɛ ni ɡ͡baɛɛrɛ,kɛ ni ɡ͡baɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-20-1,,shem1239,20,toroɡo,toroɡo,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-20-2,,shem1239,20,toloɡo,toloɡo,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-21-1,,shem1239,21,toroɡo na ninɡin,toroɡo na ninɡin,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-21-2,,shem1239,21,toloɡo ni nanbin,toloɡo ni nanbin,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-22-1,,shem1239,22,toroɡo na ʃuunni,toroɡo na ʃuunni,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-22-2,,shem1239,22,toloɡo ni ʃuunni,toloɡo ni ʃuunni,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-23-1,,shem1239,23,toroɡo na taanri,toroɡo na taanri,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-23-2,,shem1239,23,toloɡo ni taanri,toloɡo ni taanri,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-24-1,,shem1239,24,toroɡo na cicɛɛrɛ,toroɡo na cicɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-24-2,,shem1239,24,toloɡo ni cicɛɛrɛ,toloɡo ni cicɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-25-1,,shem1239,25,toroɡo na kaɡuro,toroɡo na kaɡuro,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-25-2,,shem1239,25,toloɡo ni kaɡro,toloɡo ni kaɡro,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-26-1,,shem1239,26,toroɡo na ɡ͡baani,toroɡo na ɡ͡baani,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-26-2,,shem1239,26,toloɡo ni ɡ͡baani,toloɡo ni ɡ͡baani,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-27-1,,shem1239,27,toroɡo na ɡ͡baʃuuni,toroɡo na ɡ͡baʃuuni,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-27-2,,shem1239,27,toloɡo ni ɡ͡baʃuuni,toloɡo ni ɡ͡baʃuuni,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-28-1,,shem1239,28,toroɡo na ɡ͡bataanri,toroɡo na ɡ͡bataanri,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-28-2,,shem1239,28,toloɡo ni ɡ͡bataanri,toloɡo ni ɡ͡bataanri,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-29-1,,shem1239,29,toroɡo na ɡ͡baɛɛrɛ,toroɡo na ɡ͡baɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-29-2,,shem1239,29,toloɡo ni ɡ͡baɛɛrɛ,toloɡo ni ɡ͡baɛɛrɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-30-1,,shem1239,30,toroɡo na kɛ,toroɡo na kɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-30-2,,shem1239,30,toloɡo ni kɛ,toloɡo ni kɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-40-1,,shem1239,40,ti-ʃuuni,ti-ʃuuni,[],( 20 x 2 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-40-2,,shem1239,40,to-ʃuuni,to-ʃuuni,[],( 20 x 2 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-50-1,,shem1239,50,ti-ʃuunni na kɛ,ti-ʃuunni na kɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-50-2,,shem1239,50,to-ʃuunni ni kɛ,to-ʃuunni ni kɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-60-1,,shem1239,60,ti-taanri,ti-taanri,[],( 20 x 3 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-60-2,,shem1239,60,to-taanri,to-taanri,[],( 20 x 3 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-70-1,,shem1239,70,ti-taanri na kɛ,ti-taanri na kɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-70-2,,shem1239,70,to-taanri ni kɛ,to-taanri ni kɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-80-1,,shem1239,80,ti-sicɛɛrɛ,ti-sicɛɛrɛ,[],( 20 x 4 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-80-2,,shem1239,80,to-sicɛɛrɛ,to-sicɛɛrɛ,[],( 20 x 4 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-90-1,,shem1239,90,ti-sicɛɛrɛ na kɛ,ti-sicɛɛrɛ na kɛ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-90-2,,shem1239,90,to-sicɛɛrɛ ni kɛ,to-sicɛɛrɛ ni kɛ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-100-1,,shem1239,100,ti-kaɡuru,ti-kaɡuru,[],( 20 x 5 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-100-2,,shem1239,100,to-kaɡro,to-kaɡro,[],( 20 x 5 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-200-1,,shem1239,200,ti-kɛ,ti-kɛ,[],( 20 x 10 ),[],,False,Senufo-Shempire.htm,False,,1
+shem1239-200-2,,shem1239,200,to-kɛ,to-kɛ,[],( 20 x 10 ),[],,False,Senufo-Shempire.htm,False,,2
+shem1239-1000-1,,shem1239,1000,inconnu,inconnu,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-1000-2,,shem1239,1000,bebɔlɔ,bebɔlɔ,[],,[],,False,Senufo-Shempire.htm,False,,2
+shem1239-2000-1,,shem1239,2000,kabwɔhɔ,kabwɔhɔ,[],,[],,False,Senufo-Shempire.htm,False,,1
+shem1239-2000-2,,shem1239,2000,bebwahaɡe ʃuunni,bebwahaɡe ʃuunni,[],,[],,False,Senufo-Shempire.htm,False,,2

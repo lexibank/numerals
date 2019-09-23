@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+urim1252-1-1,,urim1252,1,wɾis,wɾis,[],,[],,False,Urim.htm,False,,1
+urim1252-2-1,,urim1252,2,we.kŋ,we.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-3-1,,urim1252,3,wrɑu.ɾ,wrɑu.ɾ,[],,[],,False,Urim.htm,False,,1
+urim1252-4-1,,urim1252,4,wi.kŋwi.kŋ,wi.kŋwi.kŋ,[],( 2 + 2 ),[],,False,Urim.htm,False,,1
+urim1252-5-1,,urim1252,5,wɑmbomis,wɑmbomis,[],,[],,False,Urim.htm,False,,1
+urim1252-6-1,,urim1252,6,wɑmbomis wɑmbom wɾis,wɑmbomis wɑmbom wɾis,[],,[],,False,Urim.htm,False,,1
+urim1252-7-1,,urim1252,7,wɑmbomis wɑmbom we.kŋ,wɑmbomis wɑmbom we.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-8-1,,urim1252,8,wɑmbomis wɑmbom wrɑu.ɾ,wɑmbomis wɑmbom wrɑu.ɾ,[],,[],,False,Urim.htm,False,,1
+urim1252-9-1,,urim1252,9,wɑmbomis wɑmbom wi.kŋwi.kŋ,wɑmbomis wɑmbom wi.kŋwi.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-10-1,,urim1252,10,wɑmbwɑm,wɑmbwɑm,[],,[],,False,Urim.htm,False,,1
+urim1252-11-1,,urim1252,11,wɑmbwɑm yikɑk wɾis,wɑmbwɑm yikɑk wɾis,[],,[],,False,Urim.htm,False,,1
+urim1252-12-1,,urim1252,12,wɑmbwɑm yikɑk we.kŋ,wɑmbwɑm yikɑk we.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-13-1,,urim1252,13,wɑmbwɑm yikɑk wrɑu.ɾ,wɑmbwɑm yikɑk wrɑu.ɾ,[],,[],,False,Urim.htm,False,,1
+urim1252-14-1,,urim1252,14,wɑmbwɑm yikɑk wi.kŋwi.kŋ,wɑmbwɑm yikɑk wi.kŋwi.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-15-1,,urim1252,15,wɑmbwɑm yikɑk wɑmbomis,wɑmbwɑm yikɑk wɑmbomis,[],,[],,False,Urim.htm,False,,1
+urim1252-16-1,,urim1252,16,wɑmbwɑm yikɑk + 6,wɑmbwɑm yikɑk + 6,[],,[],,False,Urim.htm,True,,1
+urim1252-17-1,,urim1252,17,wɑmbwɑm yikɑk + 7,wɑmbwɑm yikɑk + 7,[],,[],,False,Urim.htm,True,,1
+urim1252-18-1,,urim1252,18,wɑmbwɑm yikɑk + 8,wɑmbwɑm yikɑk + 8,[],,[],,False,Urim.htm,True,,1
+urim1252-19-1,,urim1252,19,wɑmbwɑm yikɑk + 9,wɑmbwɑm yikɑk + 9,[],,[],,False,Urim.htm,True,,1
+urim1252-20-1,,urim1252,20,kɑmel wɾis,kɑmel wɾis,[],( 'one person'),[],,False,Urim.htm,False,,1
+urim1252-21-1,,urim1252,21,kɑmel wɾis tuwe.k wɾis,kɑmel wɾis tuwe.k wɾis,[],,[],,False,Urim.htm,False,,1
+urim1252-22-1,,urim1252,22,kɑmel wɾis tuwe.k we.kŋ,kɑmel wɾis tuwe.k we.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-23-1,,urim1252,23,kɑmel wɾis tuwe.k wrɑu.ɾ,kɑmel wɾis tuwe.k wrɑu.ɾ,[],,[],,False,Urim.htm,False,,1
+urim1252-24-1,,urim1252,24,kɑmel wɾis tuwe.k wi.kŋwi.kŋ,kɑmel wɾis tuwe.k wi.kŋwi.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-25-1,,urim1252,25,kɑmel wɾis tuwe.k wɑmbomis,kɑmel wɾis tuwe.k wɑmbomis,[],,[],,False,Urim.htm,False,,1
+urim1252-26-1,,urim1252,26,kɑmel wɾis tuwe.k + 6,kɑmel wɾis tuwe.k + 6,[],,[],,False,Urim.htm,True,,1
+urim1252-27-1,,urim1252,27,kɑmel wɾis tuwe.k + 7,kɑmel wɾis tuwe.k + 7,[],,[],,False,Urim.htm,True,,1
+urim1252-28-1,,urim1252,28,kɑmel wɾis tuwe.k + 8,kɑmel wɾis tuwe.k + 8,[],,[],,False,Urim.htm,True,,1
+urim1252-29-1,,urim1252,29,kɑmel wɾis tuwe.k + 9,kɑmel wɾis tuwe.k + 9,[],,[],,False,Urim.htm,True,,1
+urim1252-30-1,,urim1252,30,kɑmel wɾis tuwe.k wɑmbwɑm,kɑmel wɾis tuwe.k wɑmbwɑm,[],,[],,False,Urim.htm,False,,1
+urim1252-40-1,,urim1252,40,kɑmel we.kŋ,kɑmel we.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-50-1,,urim1252,50,kɑmel we.kŋ tuwe.k wɑmbwɑm,kɑmel we.kŋ tuwe.k wɑmbwɑm,[],,[],,False,Urim.htm,False,,1
+urim1252-60-1,,urim1252,60,kɑmel wrɑu.ɾ,kɑmel wrɑu.ɾ,[],,[],,False,Urim.htm,False,,1
+urim1252-70-1,,urim1252,70,kɑmel wrɑu.ɾ tuwe.k wɑmbwɑm,kɑmel wrɑu.ɾ tuwe.k wɑmbwɑm,[],,[],,False,Urim.htm,False,,1
+urim1252-80-1,,urim1252,80,kɑmel wi.kŋwi.kŋ,kɑmel wi.kŋwi.kŋ,[],,[],,False,Urim.htm,False,,1
+urim1252-90-1,,urim1252,90,kɑmel wi.kŋwi.kŋ tuwe.k wɑmbwɑm,kɑmel wi.kŋwi.kŋ tuwe.k wɑmbwɑm,[],,[],,False,Urim.htm,False,,1
+urim1252-100-1,,urim1252,100,kɑmel wɑmbomis,kɑmel wɑmbomis,[],,[],,False,Urim.htm,False,,1
+urim1252-200-1,,urim1252,200,kɑmel wampwam,kɑmel wampwam,[],,[],,False,Urim.htm,False,,1
+urim1252-1000-1,,urim1252,1000,wan tausen,wan tausen,[],,[],,False,Urim.htm,False,,1
+urim1252-1000-2,,urim1252,1000,kɑmel kɑmel,kɑmel kɑmel,[],,[],,False,Urim.htm,False,,1
+urim1252-2000-1,,urim1252,2000,tu tausen,tu tausen,[],,[],,False,Urim.htm,False,,1
+urim1252-2000-2,,urim1252,2000,tausen we.kŋ,tausen we.kŋ,[],,[],,False,Urim.htm,False,,1

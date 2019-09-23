@@ -1,0 +1,60 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ngon1269-1-1,,ngon1269,1,-'iːmu,-'iːmu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-1-2,,ngon1269,1,-moŋa or moᵑɡa ??,-moŋa or moᵑɡa ??,[],,[],,False,Chingoni.htm,True,,2
+ngon1269-2-1,,ngon1269,2,-'veːna,-'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-2-2,,ngon1269,2,-vili,-vili,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-3-1,,ngon1269,3,-'taːtu,-'taːtu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-3-2,,ngon1269,3,-ɗatu,-ɗatu,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-4-1,,ngon1269,4,n'̩t͡ʃɛːt͡ʃɛ,n'̩t͡ʃɛːt͡ʃɛ,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-4-2,,ngon1269,4,mčeče,mčeče,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-5-1,,ngon1269,5,'ŋaːnu,'ŋaːnu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-5-2,,ngon1269,5,mhanu,mhanu,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-6-1,,ngon1269,6,'ŋaːnu ni -'iːmu,'ŋaːnu ni -'iːmu,[],( 5 + 1 ),[],,False,Chingoni.htm,False,,1
+ngon1269-6-2,,ngon1269,6,mhanu na -moŋa,mhanu na -moŋa,[],( 5 + 1 ),[],,False,Chingoni.htm,False,,2
+ngon1269-7-1,,ngon1269,7,'ŋaːnu ni -'veːna,'ŋaːnu ni -'veːna,[],( 5 + 2 ),[],,False,Chingoni.htm,False,,1
+ngon1269-7-2,,ngon1269,7,mhanu na -vili,mhanu na -vili,[],( 5 + 2 ),[],,False,Chingoni.htm,False,,2
+ngon1269-8-1,,ngon1269,8,'ŋaːnu ni -'taːtu,'ŋaːnu ni -'taːtu,[],( 5 + 3 ),[],,False,Chingoni.htm,False,,1
+ngon1269-8-2,,ngon1269,8,mhanu na -ɗatu,mhanu na -ɗatu,[],( 5 + 3 ),[],,False,Chingoni.htm,False,,2
+ngon1269-9-1,,ngon1269,9,'ŋaːnu ni n'̩t͡ʃɛːt͡ʃɛ,'ŋaːnu ni n'̩t͡ʃɛːt͡ʃɛ,[],( 5 + 4 ),[],,False,Chingoni.htm,False,,1
+ngon1269-9-2,,ngon1269,9,mhanu na mčeče,mhanu na mčeče,[],( 5 + 4 ),[],,False,Chingoni.htm,False,,2
+ngon1269-10-1,,ngon1269,10,'koːmi,'koːmi,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-10-2,,ngon1269,10,kumi,kumi,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-11-1,,ngon1269,11,'koːmi ni -'iːmu,'koːmi ni -'iːmu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-11-2,,ngon1269,11,kumi na -moŋa,kumi na -moŋa,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-12-1,,ngon1269,12,'koːmi ni -'veːna,'koːmi ni -'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-12-2,,ngon1269,12,kumi na -vili,kumi na -vili,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-13-1,,ngon1269,13,'koːmi ni -'taːtu,'koːmi ni -'taːtu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-13-2,,ngon1269,13,kumi na -ɗatu,kumi na -ɗatu,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-14-1,,ngon1269,14,'koːmi ni n'̩t͡ʃɛːt͡ʃɛ,'koːmi ni n'̩t͡ʃɛːt͡ʃɛ,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-14-2,,ngon1269,14,kumi na -mčeče,kumi na -mčeče,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-15-1,,ngon1269,15,'koːmi ni 'ŋaːnu,'koːmi ni 'ŋaːnu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-15-2,,ngon1269,15,kumi na mhanu,kumi na mhanu,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-16-1,,ngon1269,16,'koːmi ni 'ŋaːnu ni -'iːmu,'koːmi ni 'ŋaːnu ni -'iːmu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-16-2,,ngon1269,16,kumi na mhanu na -moŋa,kumi na mhanu na -moŋa,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-17-1,,ngon1269,17,'koːmi ni 'ŋaːnu ni -'veːna,'koːmi ni 'ŋaːnu ni -'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-17-2,,ngon1269,17,kumi na mhanu na -vili,kumi na mhanu na -vili,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-18-1,,ngon1269,18,'koːmi ni 'ŋaːnu ni -'taːtu,'koːmi ni 'ŋaːnu ni -'taːtu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-18-2,,ngon1269,18,kumi ne mhanu na -ɗatu,kumi ne mhanu na -ɗatu,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-19-1,,ngon1269,19,'koːmi ni 'ŋaːnu ni n̩'t͡ʃɛːt͡ʃɛ,'koːmi ni 'ŋaːnu ni n̩'t͡ʃɛːt͡ʃɛ,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-19-2,,ngon1269,19,kumi na mhanu na mčeče,kumi na mhanu na mčeče,[],,[],,False,Chingoni.htm,False,,2
+ngon1269-20-1,,ngon1269,20,ma'koːmi ɡa'veːna,ma'koːmi ɡa'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-21-1,,ngon1269,21,ma'koːmi ɡa'veːna ni -'iːmu,ma'koːmi ɡa'veːna ni -'iːmu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-22-1,,ngon1269,22,ma'koːmi ɡa'veːna ni -'veːna,ma'koːmi ɡa'veːna ni -'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-23-1,,ngon1269,23,ma'koːmi ɡa'veːna ni -'taːtu,ma'koːmi ɡa'veːna ni -'taːtu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-24-1,,ngon1269,24,ma'koːmi ɡa'veːna ni n'̩t͡ʃɛːt͡ʃɛ,ma'koːmi ɡa'veːna ni n'̩t͡ʃɛːt͡ʃɛ,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-25-1,,ngon1269,25,ma'koːmi ɡa'veːna ni 'ŋaːnu,ma'koːmi ɡa'veːna ni 'ŋaːnu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-26-1,,ngon1269,26,ma'koːmi ɡa'veːna ni 'ŋaːnu ni -'iːmu,ma'koːmi ɡa'veːna ni 'ŋaːnu ni -'iːmu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-27-1,,ngon1269,27,ma'koːmi ɡa'veːna ni 'ŋaːnu ni -'veːna,ma'koːmi ɡa'veːna ni 'ŋaːnu ni -'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-28-1,,ngon1269,28,ma'koːmi ɡa'veːna ni 'ŋaːnu ni -'taːtu,ma'koːmi ɡa'veːna ni 'ŋaːnu ni -'taːtu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-29-1,,ngon1269,29,ma'koːmi ɡa'veːna ni 'ŋaːnu ni n̩'t͡ʃɛːt͡ʃɛ,ma'koːmi ɡa'veːna ni 'ŋaːnu ni n̩'t͡ʃɛːt͡ʃɛ,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-30-1,,ngon1269,30,ma'koːmi ɡa'veːna,ma'koːmi ɡa'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-40-1,,ngon1269,40,ma'koːmi ɡa'taːtu,ma'koːmi ɡa'taːtu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-50-1,,ngon1269,50,ma'koːmi 'ŋaːnu,ma'koːmi 'ŋaːnu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-60-1,,ngon1269,60,ma'koːmi 'ŋaːnu ni (li'koːmi) 'liːmu,ma'koːmi 'ŋaːnu ni (li'koːmi) 'liːmu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-70-1,,ngon1269,70,ma'koːmi 'ŋaːnu ni (ma'koːmi) ɡa'veːna,ma'koːmi 'ŋaːnu ni (ma'koːmi) ɡa'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-80-1,,ngon1269,80,ma'koːmi 'ŋaːnu ni (ma'koːmi) ɡa'taːtu,ma'koːmi 'ŋaːnu ni (ma'koːmi) ɡa'taːtu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-90-1,,ngon1269,90,ma'koːmi 'ŋaːnu ni (ma'koːmi) n'̩t͡ʃɛːt͡ʃɛ,ma'koːmi 'ŋaːnu ni (ma'koːmi) n'̩t͡ʃɛːt͡ʃɛ,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-100-1,,ngon1269,100,'miːa,'miːa,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-200-1,,ngon1269,200,'miːa pa'veːna,'miːa pa'veːna,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-1000-1,,ngon1269,1000,'kɔːndu,'kɔːndu,[],,[],,False,Chingoni.htm,False,,1
+ngon1269-2000-1,,ngon1269,2000,'kɔːndu i'veːna,'kɔːndu i'veːna,[],,[],,False,Chingoni.htm,False,,1

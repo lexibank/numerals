@@ -1,0 +1,26 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+gitu1237-1-1,,gitu1237,1,eze,eze,[],,[],,False,Gitua.htm,False,,1
+gitu1237-2-1,,gitu1237,2,rua,rua,[],,[],,False,Gitua.htm,False,,1
+gitu1237-3-1,,gitu1237,3,tolu,tolu,[],,[],,False,Gitua.htm,False,,1
+gitu1237-4-1,,gitu1237,4,paŋe,paŋe,[],,[],,False,Gitua.htm,False,,1
+gitu1237-5-1,,gitu1237,5,nimanda sirip,nimanda sirip,[],"( lit: 'hand half ?"")",[],,False,Gitua.htm,False,,1
+gitu1237-6-1,,gitu1237,6,nimanda sirip wolo eze,nimanda sirip wolo eze,[],( 5 + 1 ),[],,False,Gitua.htm,False,,1
+gitu1237-7-1,,gitu1237,7,nimanda sirip wolo rua,nimanda sirip wolo rua,[],( 5 + 2 ),[],,False,Gitua.htm,False,,1
+gitu1237-8-1,,gitu1237,8,nimanda sirip wolo tolu,nimanda sirip wolo tolu,[],( 5 + 3 ),[],,False,Gitua.htm,False,,1
+gitu1237-9-1,,gitu1237,9,nimanda sirip wolo paŋe,nimanda sirip wolo paŋe,[],( 5 + 4 ),[],,False,Gitua.htm,False,,1
+gitu1237-10-1,,gitu1237,10,nimanda rua,nimanda rua,[],"( lit: ''hands two"")",[],,False,Gitua.htm,False,,1
+gitu1237-11-1,,gitu1237,11,nimanda rua wolo eze,nimanda rua wolo eze,[],,[],,False,Gitua.htm,False,,1
+gitu1237-12-1,,gitu1237,12,nimanda rua wolo rua,nimanda rua wolo rua,[],,[],,False,Gitua.htm,False,,1
+gitu1237-13-1,,gitu1237,13,nimanda rua wolo tolu,nimanda rua wolo tolu,[],,[],,False,Gitua.htm,False,,1
+gitu1237-14-1,,gitu1237,14,nimanda rua wolo paŋe,nimanda rua wolo paŋe,[],,[],,False,Gitua.htm,False,,1
+gitu1237-15-1,,gitu1237,15,nimanda rua aɡenda sirip,nimanda rua aɡenda sirip,[],,[],,False,Gitua.htm,False,,1
+gitu1237-16-1,,gitu1237,16,nimanda rua aɡenda sirip wolo eze,nimanda rua aɡenda sirip wolo eze,[],,[],,False,Gitua.htm,False,,1
+gitu1237-17-1,,gitu1237,17,nimanda rua aɡenda sirip wolo rua,nimanda rua aɡenda sirip wolo rua,[],,[],,False,Gitua.htm,False,,1
+gitu1237-18-1,,gitu1237,18,nimanda rua aɡenda sirip wolo tolu,nimanda rua aɡenda sirip wolo tolu,[],,[],,False,Gitua.htm,False,,1
+gitu1237-19-1,,gitu1237,19,nimanda rua aɡenda sirip wolo paŋe,nimanda rua aɡenda sirip wolo paŋe,[],,[],,False,Gitua.htm,False,,1
+gitu1237-20-1,,gitu1237,20,onɡere eze,onɡere eze,[],( lit: one man''),[],,False,Gitua.htm,False,,1
+gitu1237-30-1,,gitu1237,30,nɡere eze nimanda rua,nɡere eze nimanda rua,[],,[],,False,Gitua.htm,False,,1
+gitu1237-40-1,,gitu1237,40,nɡere rua,nɡere rua,[],"( litː ''two person"")",[],,False,Gitua.htm,False,,1
+gitu1237-60-1,,gitu1237,60,nɡere tolu,nɡere tolu,[],"( litː ''three person"")",[],,False,Gitua.htm,False,,1
+gitu1237-80-1,,gitu1237,80,nɡere paŋe,nɡere paŋe,[],"( litː ''four person"")",[],,False,Gitua.htm,False,,1
+gitu1237-100-1,,gitu1237,100,ai eze,ai eze,[],,[],,False,Gitua.htm,False,,1

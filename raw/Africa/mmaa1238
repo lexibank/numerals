@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mmaa1238-1-1,,mmaa1238,1,bùmʷòm,bùmʷòm,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-2-1,,mmaa1238,2,mâːndɛ̀,mâːndɛ̀,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-3-1,,mmaa1238,3,mádád̥ɔ̀,mádád̥ɔ̀,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-4-1,,mmaa1238,4,ménî,ménî,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-5-1,,mmaa1238,5,mátʰán,mátʰán,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-6-1,,mmaa1238,6,màtʰíndàd̥,màtʰíndàd̥,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-7-1,,mmaa1238,7,màtʰíndàd̥ nò mʷòm,màtʰíndàd̥ nò mʷòm,[],( 6 + 1),[],,False,Mmaala.htm,False,,1
+mmaa1238-8-1,,mmaa1238,8,máɲí-màɲɛ̀,máɲí-màɲɛ̀,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-9-1,,mmaa1238,9,máɲí-màɲɛ́ nò mʷòm,máɲí-màɲɛ́ nò mʷòm,[],( 8 + 1),[],,False,Mmaala.htm,False,,1
+mmaa1238-10-1,,mmaa1238,10,mátʰ,mátʰ,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-11-1,,mmaa1238,11,mátʰ nò bùmʷòm,mátʰ nò bùmʷòm,[],( 10 + 1 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-12-1,,mmaa1238,12,mátʰ nà mâːndɛ̀,mátʰ nà mâːndɛ̀,[],( 10 + 2 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-13-1,,mmaa1238,13,mátʰ nà mádád̥ɔ̀,mátʰ nà mádád̥ɔ̀,[],( 10 + 3 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-14-1,,mmaa1238,14,mátʰ nè ménì,mátʰ nè ménì,[],( 10 + 4 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-15-1,,mmaa1238,15,bùɲò,bùɲò,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-16-1,,mmaa1238,16,bùɲò nò bùmʷòm,bùɲò nò bùmʷòm,[],( 15 + 1 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-17-1,,mmaa1238,17,bùɲò nà mâːndɛ̀,bùɲò nà mâːndɛ̀,[],( 15 + 2 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-18-1,,mmaa1238,18,bùɲò nà mádád̥ɔ̀,bùɲò nà mádád̥ɔ̀,[],( 15 + 3 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-19-1,,mmaa1238,19,bùɲò nè ménì,bùɲò nè ménì,[],( 15 + 4 ),[],,False,Mmaala.htm,False,,1
+mmaa1238-20-1,,mmaa1238,20,nìtʰín,nìtʰín,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-21-1,,mmaa1238,21,nìtʰín nò bùmʷòm,nìtʰín nò bùmʷòm,[],( 20 + 1),[],,False,Mmaala.htm,False,,1
+mmaa1238-22-1,,mmaa1238,22,nìtʰín nà mâːndɛ̀,nìtʰín nà mâːndɛ̀,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-23-1,,mmaa1238,23,nìtʰín nà bádád̥ɔ̀,nìtʰín nà bádád̥ɔ̀,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-24-1,,mmaa1238,24,nìtʰín nè bénî,nìtʰín nè bénî,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-25-1,,mmaa1238,25,nìtʰín nà mátʰán,nìtʰín nà mátʰán,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-26-1,,mmaa1238,26,nìtʰín nà màtʰíndàd̥,nìtʰín nà màtʰíndàd̥,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-27-1,,mmaa1238,27,nìtʰín nà màtʰíndàd̥ nò mʷòm,nìtʰín nà màtʰíndàd̥ nò mʷòm,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-28-1,,mmaa1238,28,nìtʰín nà máɲí-màɲɛ̀,nìtʰín nà máɲí-màɲɛ̀,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-29-1,,mmaa1238,29,nìtʰín nà máɲí-màɲɛ́ nò mʷòm,nìtʰín nà máɲí-màɲɛ́ nò mʷòm,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-30-1,,mmaa1238,30,nìtʰín nà bátʰ,nìtʰín nà bátʰ,[],( '20 with 10 '),[],,False,Mmaala.htm,False,,1
+mmaa1238-40-1,,mmaa1238,40,ètʰín àndɛ́,ètʰín àndɛ́,[],( 20's two ),[],,False,Mmaala.htm,False,,1
+mmaa1238-50-1,,mmaa1238,50,ètʰín àndɛ́ nà bátʰ,ètʰín àndɛ́ nà bátʰ,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-60-1,,mmaa1238,60,ètʰín àdád̥ɔ̀,ètʰín àdád̥ɔ̀,[],( 20's three ),[],,False,Mmaala.htm,False,,1
+mmaa1238-70-1,,mmaa1238,70,ètín àdád̥ɔ̀ nà bátʰ,ètín àdád̥ɔ̀ nà bátʰ,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-80-1,,mmaa1238,80,ètʰín énì,ètʰín énì,[],( 20's four ),[],,False,Mmaala.htm,False,,1
+mmaa1238-90-1,,mmaa1238,90,ètʰín énì nà bátʰ,ètʰín énì nà bátʰ,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-100-1,,mmaa1238,100,ètʰín àtʰán,ètʰín àtʰán,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-100-2,,mmaa1238,100,nʊ̀ɡɔ́n,nʊ̀ɡɔ́n,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-200-1,,mmaa1238,200,dʊ̀ɡɔ́n dʷândɛ̀,dʊ̀ɡɔ́n dʷândɛ̀,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-1000-1,,mmaa1238,1000,dʊ̀ɡɔ́n dʷàtʰ,dʊ̀ɡɔ́n dʷàtʰ,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-1000-2,,mmaa1238,1000,tʰɔ́sɛ̀n,tʰɔ́sɛ̀n,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-1000-3,,mmaa1238,1000,nɔ̀ntʃ,nɔ̀ntʃ,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-2000-1,,mmaa1238,2000,bɔ̀tʰɔ́sɛ̀n bândɛ́,bɔ̀tʰɔ́sɛ̀n bândɛ́,[],,[],,False,Mmaala.htm,False,,1
+mmaa1238-2000-2,,mmaa1238,2000,dɔ̀ntʃ dʷândɛ̀,dɔ̀ntʃ dʷândɛ̀,[],,[],,False,Mmaala.htm,False,,1

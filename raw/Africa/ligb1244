@@ -1,0 +1,58 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ligb1244-1-1,,ligb1244,1,díén,díén,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-1-2,,ligb1244,1,díyé,díyé,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-2-1,,ligb1244,2,fàlà,fàlà,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-2-2,,ligb1244,2,fàlá,fàlá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-3-1,,ligb1244,3,sèɡ͡bá,sèɡ͡bá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-3-2,,ligb1244,3,siɡ͡bá,siɡ͡bá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-4-1,,ligb1244,4,náánè,náánè,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-4-2,,ligb1244,4,náani,náani,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-5-1,,ligb1244,5,sóólò,sóólò,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-5-2,,ligb1244,5,sóolo,sóolo,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-6-1,,ligb1244,6,mɔ̀ɔ̀dó,mɔ̀ɔ̀dó,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-6-2,,ligb1244,6,mooró,mooró,[],( 5 + 1 ),[],,False,Ligbi.htm,False,,1
+ligb1244-7-1,,ligb1244,7,màúlà,màúlà,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-7-2,,ligb1244,7,mafála,mafála,[],( 5 + 2 ),[],,False,Ligbi.htm,False,,1
+ligb1244-8-1,,ligb1244,8,másèɡ͡bá,másèɡ͡bá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-8-2,,ligb1244,8,masiɡ͡bá,masiɡ͡bá,[],( 5 + 3 ),[],,False,Ligbi.htm,False,,1
+ligb1244-9-1,,ligb1244,9,màdááné,màdááné,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-9-2,,ligb1244,9,maráni,maráni,[],( 5 + 4 ),[],,False,Ligbi.htm,False,,1
+ligb1244-10-1,,ligb1244,10,táàn,táàn,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-10-2,,ligb1244,10,táa,táa,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-11-1,,ligb1244,11,tánó,tánó,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-11-2,,ligb1244,11,tándó,tándó,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-12-1,,ligb1244,12,tánfálá,tánfálá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-13-1,,ligb1244,13,tansiɡ͡bá,tansiɡ͡bá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-14-1,,ligb1244,14,tanaani,tanaani,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-15-1,,ligb1244,15,tíɡán,tíɡán,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-15-2,,ligb1244,15,tiɡa,tiɡa,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-16-1,,ligb1244,16,tíɡáló,tíɡáló,[],( 15 + 1 ),[],,False,Ligbi.htm,False,,1
+ligb1244-17-1,,ligb1244,17,tiɡanfala,tiɡanfala,[],( 15 + 2 ),[],,False,Ligbi.htm,False,,1
+ligb1244-18-1,,ligb1244,18,tiɡánsiɡ͡bá,tiɡánsiɡ͡bá,[],( 15 + 3 ),[],,False,Ligbi.htm,False,,1
+ligb1244-19-1,,ligb1244,19,tíɡãnani,tíɡãnani,[],( 15 + 4 ),[],,False,Ligbi.htm,False,,1
+ligb1244-20-1,,ligb1244,20,kèlɛ̀mó,kèlɛ̀mó,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-20-2,,ligb1244,20,t͡ʃɛlɛmɔ́,t͡ʃɛlɛmɔ́,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-21-1,,ligb1244,21,t͡ʃɛlɛmɔ́ndó,t͡ʃɛlɛmɔ́ndó,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-30-1,,ligb1244,30,túdó,túdó,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-30-2,,ligb1244,30,tírró,tírró,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-40-1,,ligb1244,40,čɛ̌lè fàlà,čɛ̌lè fàlà,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-40-2,,ligb1244,40,t͡ʃɛ́lífàla,t͡ʃɛ́lífàla,[],( 20 x 2 ),[],,False,Ligbi.htm,False,,1
+ligb1244-50-1,,ligb1244,50,čɛ̌lè fàlà tɔ́ táà,čɛ̌lè fàlà tɔ́ táà,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-50-2,,ligb1244,50,čǐmé tàdá,čǐmé tàdá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-50-3,,ligb1244,50,t͡ʃinutara,t͡ʃinutara,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-60-1,,ligb1244,60,čɛ̌lè sèɡ͡bá,čɛ̌lè sèɡ͡bá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-60-2,,ligb1244,60,t͡ʃɛlésiɡ͡bá,t͡ʃɛlésiɡ͡bá,[],( 20 x 3 ),[],,False,Ligbi.htm,False,,1
+ligb1244-70-1,,ligb1244,70,čɛ̌lè sèɡ͡bá tɔ́ táa,čɛ̌lè sèɡ͡bá tɔ́ táa,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-70-2,,ligb1244,70,t͡ʃɛlɛsiɡ͡bafófá,t͡ʃɛlɛsiɡ͡bafófá,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-80-1,,ligb1244,80,čɛ̌lè náánè,čɛ̌lè náánè,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-80-2,,ligb1244,80,t͡ʃɛ́lɛnáani,t͡ʃɛ́lɛnáani,[],( 20 x 4 ),[],,False,Ligbi.htm,False,,1
+ligb1244-90-1,,ligb1244,90,čɛ̌lè náánè tɔ́ táa,čɛ̌lè náánè tɔ́ táa,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-90-2,,ligb1244,90,t͡ʃɛ́lennaanitota,t͡ʃɛ́lennaanitota,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-100-1,,ligb1244,100,čɛ̌mé,čɛ̌mé,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-100-2,,ligb1244,100,t͡ʃímí,t͡ʃímí,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-200-1,,ligb1244,200,čɛ̌mé fàlà,čɛ̌mé fàlà,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-200-2,,ligb1244,200,t͡ʃimifala,t͡ʃimifala,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-1000-1,,ligb1244,1000,wúlú díèn,wúlú díèn,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-1000-2,,ligb1244,1000,múlúdó,múlúdó,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-2000-1,,ligb1244,2000,wúlú fàlà,wúlú fàlà,[],,[],,False,Ligbi.htm,False,,1
+ligb1244-2000-2,,ligb1244,2000,wúlúfàlá,wúlúfàlá,[],,[],,False,Ligbi.htm,False,,1

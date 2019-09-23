@@ -1,0 +1,32 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bati1251-1-1,,bati1251,1,pɔ́ɔɣ,pɔ́ɔɣ,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-2-1,,bati1251,2,ɓáānd,ɓáānd,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-3-1,,bati1251,3,táāk,táāk,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-4-1,,bati1251,4,ɲììn,ɲììn,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-5-1,,bati1251,5,táân,táân,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-6-1,,bati1251,6,tʃíndāā,tʃíndāā,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-7-1,,bati1251,7,tʃíndá nì mù,tʃíndá nì mù,[],( 6 + 1),[],,False,Bati-Cam.htm,False,,1
+bati1251-8-1,,bati1251,8,ŋwîn māān,ŋwîn māān,[],( 4 x 2),[],,False,Bati-Cam.htm,False,,1
+bati1251-9-1,,bati1251,9,ŋwîn mǎn mù,ŋwîn mǎn mù,[],(4 x 2+1),[],,False,Bati-Cam.htm,False,,1
+bati1251-10-1,,bati1251,10,ŋwɔ́ɔ́r,ŋwɔ́ɔ́r,[],(3ᵉ base ),[],,False,Bati-Cam.htm,False,,1
+bati1251-11-1,,bati1251,11,ŋwɔ́ɔ́r nì mû,ŋwɔ́ɔ́r nì mû,[],( 10 + 1 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-12-1,,bati1251,12,ŋwɔ́ɔ́r nì múɓáànd,ŋwɔ́ɔ́r nì múɓáànd,[],( 10 + 2 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-13-1,,bati1251,13,ŋwɔ́ɔ́r nì mútār,ŋwɔ́ɔ́r nì mútār,[],( 10 + 3 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-14-1,,bati1251,14,ŋwɔ́ɔ́r nì múɲíìn,ŋwɔ́ɔ́r nì múɲíìn,[],( 10 + 4 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-15-1,,bati1251,15,pùùnù,pùùnù,[],(4ᵉ base ),[],,False,Bati-Cam.htm,False,,1
+bati1251-16-1,,bati1251,16,pùùnù nì mû,pùùnù nì mû,[],( 15 + 1 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-17-1,,bati1251,17,pùùnù nì múɓáànd,pùùnù nì múɓáànd,[],( 15 + 2),[],,False,Bati-Cam.htm,False,,1
+bati1251-18-1,,bati1251,18,pùùnù nì mútār,pùùnù nì mútār,[],( 15 + 3 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-19-1,,bati1251,19,pùùnù nì ŋwîn mǎn nì mù,pùùnù nì ŋwîn mǎn nì mù,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-20-1,,bati1251,20,ǹtʃìn,ǹtʃìn,[],(5ᵉ base ),[],,False,Bati-Cam.htm,False,,1
+bati1251-21-1,,bati1251,21,ǹtʃìn nì mû,ǹtʃìn nì mû,[],,[],,False,Bati-Cam.htm,False,,1
+bati1251-30-1,,bati1251,30,ǹtʃìn nì ŋwɔ́ɔ́r,ǹtʃìn nì ŋwɔ́ɔ́r,[],( 20+10 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-40-1,,bati1251,40,ǹtʃìná ɓàānd,ǹtʃìná ɓàānd,[],( 20 x 2 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-50-1,,bati1251,50,ǹtʃìná ɓàānd nì ŋwɔ́ɔ́r,ǹtʃìná ɓàānd nì ŋwɔ́ɔ́r,[],( 20 x 2 +10 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-60-1,,bati1251,60,ǹtʃìná tāār,ǹtʃìná tāār,[],( 20 x 3 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-70-1,,bati1251,70,ǹtʃìná tāār nì ŋwɔ́ɔ́r,ǹtʃìná tāār nì ŋwɔ́ɔ́r,[],( 20 x 3 +10 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-80-1,,bati1251,80,ǹtʃìná ɲíìn,ǹtʃìná ɲíìn,[],( 20 x 4 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-90-1,,bati1251,90,ǹtʃìná ɲíìn nì ŋwɔ́ɔ́r,ǹtʃìná ɲíìn nì ŋwɔ́ɔ́r,[],( 20 x 4 +10 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-100-1,,bati1251,100,ǹtʃìna táân,ǹtʃìna táân,[],( 20 x 5 ),[],,False,Bati-Cam.htm,False,,1
+bati1251-200-1,,bati1251,200,ǹtʃìna táân bìkɔ̀lá bí ɓáānd,ǹtʃìna táân bìkɔ̀lá bí ɓáānd,[],(20 x 5 x 2),[],,False,Bati-Cam.htm,False,,1
+bati1251-300-1,,bati1251,300,ǹtʃìna táân bìkɔ̀lá bí tāār,ǹtʃìna táân bìkɔ̀lá bí tāār,[],(20 x 5 x 3),[],,False,Bati-Cam.htm,False,,1

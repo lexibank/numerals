@@ -1,0 +1,121 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tson1249-1-1,,tson1249,1,ŋwè,ŋwè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-1-2,,tson1249,1,-nʼwè,-nʼwè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-1-3,,tson1249,1,-nʼwè,-nʼwè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-2-1,,tson1249,2,ᵐbìr̤í,ᵐbìr̤í,[],,[],,False,Tsonga.htm,False,,1
+tson1249-2-2,,tson1249,2,-mbirhí,-mbirhí,[],,[],,False,Tsonga.htm,False,,2
+tson1249-2-3,,tson1249,2,-mbirhí,-mbirhí,[],,[],,False,Tsonga.htm,False,,3
+tson1249-3-1,,tson1249,3,n̤árù,n̤árù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-3-2,,tson1249,3,-nhárhù,-nhárhù,[],,[],,False,Tsonga.htm,False,,2
+tson1249-3-3,,tson1249,3,-nhárhù,-nhárhù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-4-1,,tson1249,4,mùnè,mùnè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-4-2,,tson1249,4,-múnè,-múnè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-4-3,,tson1249,4,-múnè,-múnè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-5-1,,tson1249,5,ⁿtlʰánù,ⁿtlʰánù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-5-2,,tson1249,5,ntlhánù,ntlhánù,[],,[],,False,Tsonga.htm,False,,2
+tson1249-5-3,,tson1249,5,ntlhánù,ntlhánù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-6-1,,tson1249,6,tsèβú,tsèβú,[],,[],,False,Tsonga.htm,False,,1
+tson1249-6-2,,tson1249,6,ntlhánù ni -nʼwè,ntlhánù ni -nʼwè,[],( 5 + 1 ),[],,False,Tsonga.htm,False,,2
+tson1249-6-3,,tson1249,6,tsévù,tsévù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-7-1,,tson1249,7,ⁿkómbó,ⁿkómbó,[],,[],,False,Tsonga.htm,False,,1
+tson1249-7-2,,tson1249,7,ntlhánù ni-mbìrhì,ntlhánù ni-mbìrhì,[],( 5 + 2 ),[],,False,Tsonga.htm,False,,2
+tson1249-7-3,,tson1249,7,nkómbò,nkómbò,[],,[],,False,Tsonga.htm,False,,3
+tson1249-8-1,,tson1249,8,ⁿh̤ùŋɡú,ⁿh̤ùŋɡú,[],,[],,False,Tsonga.htm,False,,1
+tson1249-8-2,,tson1249,8,ntlhánù ni -nhárhù,ntlhánù ni -nhárhù,[],( 5 + 3 ),[],,False,Tsonga.htm,False,,2
+tson1249-8-3,,tson1249,8,nhúnɡù,nhúnɡù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-9-1,,tson1249,9,ᵑkájé,ᵑkájé,[],,[],,False,Tsonga.htm,False,,1
+tson1249-9-2,,tson1249,9,ntlhánù ni -múnè,ntlhánù ni -múnè,[],( 5 + 4 ),[],,False,Tsonga.htm,False,,2
+tson1249-9-3,,tson1249,9,káyí,káyí,[],,[],,False,Tsonga.htm,False,,3
+tson1249-10-1,,tson1249,10,kʰúmè,kʰúmè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-10-2,,tson1249,10,khúmè,khúmè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-10-3,,tson1249,10,khúmè,khúmè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-11-1,,tson1249,11,kʰúmèŋwè,kʰúmèŋwè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-11-2,,tson1249,11,khúmè ni dí -nʼwè,khúmè ni dí -nʼwè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-11-3,,tson1249,11,khúmè nʼwè,khúmè nʼwè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-12-1,,tson1249,12,kʰúmèmbir̤í,kʰúmèmbir̤í,[],,[],,False,Tsonga.htm,False,,1
+tson1249-12-2,,tson1249,12,khúmè ni màbídì,khúmè ni màbídì,[],,[],,False,Tsonga.htm,False,,2
+tson1249-12-3,,tson1249,12,khúmè mbirhí,khúmè mbirhí,[],,[],,False,Tsonga.htm,False,,3
+tson1249-13-1,,tson1249,13,kʰúmèn̤àrù,kʰúmèn̤àrù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-13-2,,tson1249,13,khúmè ni màrárú,khúmè ni màrárú,[],,[],,False,Tsonga.htm,False,,2
+tson1249-13-3,,tson1249,13,khúmè nhárhù,khúmè nhárhù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-14-1,,tson1249,14,kʰúmèmùnè,kʰúmèmùnè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-14-2,,tson1249,14,khúmè ni mùní,khúmè ni mùní,[],,[],,False,Tsonga.htm,False,,2
+tson1249-14-3,,tson1249,14,khúmè múnè,khúmè múnè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-15-1,,tson1249,15,kʰúmèntlʰánù,kʰúmèntlʰánù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-15-2,,tson1249,15,khúmè ni,khúmè ni,[],,[],,False,Tsonga.htm,False,,2
+tson1249-15-3,,tson1249,15,khúmè ntlhánù,khúmè ntlhánù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-16-1,,tson1249,16,kʰúmètsèβù,kʰúmètsèβù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-16-2,,tson1249,16,khúmè ni ntlhánù ni -nʼwè,khúmè ni ntlhánù ni -nʼwè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-16-3,,tson1249,16,khúmè tsévù,khúmè tsévù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-17-1,,tson1249,17,kʰúmèŋkómbó,kʰúmèŋkómbó,[],,[],,False,Tsonga.htm,False,,1
+tson1249-17-2,,tson1249,17,khúme ni ntlhánù ni -mbìrhi,khúme ni ntlhánù ni -mbìrhi,[],,[],,False,Tsonga.htm,False,,2
+tson1249-17-3,,tson1249,17,khúmè nkómbò,khúmè nkómbò,[],,[],,False,Tsonga.htm,False,,3
+tson1249-18-1,,tson1249,18,kʰúmèn̤ùnɡú,kʰúmèn̤ùnɡú,[],,[],,False,Tsonga.htm,False,,1
+tson1249-18-2,,tson1249,18,khúme ni ntlhánù ni -nhárhù,khúme ni ntlhánù ni -nhárhù,[],,[],,False,Tsonga.htm,False,,2
+tson1249-18-3,,tson1249,18,khúmè nhúnɡù,khúmè nhúnɡù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-19-1,,tson1249,19,kʰúmèkájé,kʰúmèkájé,[],,[],,False,Tsonga.htm,False,,1
+tson1249-19-2,,tson1249,19,khúme ni ntlhánù ni -múnè,khúme ni ntlhánù ni -múnè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-19-3,,tson1249,19,khúmè káyí,khúmè káyí,[],,[],,False,Tsonga.htm,False,,3
+tson1249-20-1,,tson1249,20,màkúmèmbìr̤ì,màkúmèmbìr̤ì,[],,[],,False,Tsonga.htm,False,,1
+tson1249-20-2,,tson1249,20,màkúmè màmbírhì,màkúmè màmbírhì,[],,[],,False,Tsonga.htm,False,,2
+tson1249-20-3,,tson1249,20,màkúmè mbirhí,màkúmè mbirhí,[],,[],,False,Tsonga.htm,False,,3
+tson1249-21-1,,tson1249,21,màkúmémbír̤íŋwè,màkúmémbír̤íŋwè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-21-2,,tson1249,21,màkúmè màmbírhì ni -nʼwè,màkúmè màmbírhì ni -nʼwè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-21-3,,tson1249,21,màkúmè mbirhí nʼwè,màkúmè mbirhí nʼwè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-22-1,,tson1249,22,màkúmémbír̤ímbìr̤ì,màkúmémbír̤ímbìr̤ì,[],,[],,False,Tsonga.htm,False,,1
+tson1249-22-2,,tson1249,22,màkúmè màmbírhì ni -mbìrhì,màkúmè màmbírhì ni -mbìrhì,[],,[],,False,Tsonga.htm,False,,2
+tson1249-22-3,,tson1249,22,màkúmè mbirhí mbìrhì,màkúmè mbirhí mbìrhì,[],,[],,False,Tsonga.htm,False,,3
+tson1249-23-1,,tson1249,23,màkúmémbír̤ín̤árù,màkúmémbír̤ín̤árù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-23-2,,tson1249,23,màkúmè màmbírhì ni -nhárhù,màkúmè màmbírhì ni -nhárhù,[],,[],,False,Tsonga.htm,False,,2
+tson1249-23-3,,tson1249,23,màkúmè mbirhí nhárhù,màkúmè mbirhí nhárhù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-24-1,,tson1249,24,màkúmémbír̤ímùnè,màkúmémbír̤ímùnè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-24-2,,tson1249,24,màkúmè màmbírhì ni -múnè,màkúmè màmbírhì ni -múnè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-24-3,,tson1249,24,màkúmè mbirhí múnè,màkúmè mbirhí múnè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-25-1,,tson1249,25,màkúmémbír̤íntlʰánù,màkúmémbír̤íntlʰánù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-25-2,,tson1249,25,màkúmè màmbírhì ni ntlhánù,màkúmè màmbírhì ni ntlhánù,[],,[],,False,Tsonga.htm,False,,2
+tson1249-25-3,,tson1249,25,màkúmè mbirhí ntlhánù,màkúmè mbirhí ntlhánù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-26-1,,tson1249,26,màkúmémbír̤ítsèβú,màkúmémbír̤ítsèβú,[],,[],,False,Tsonga.htm,False,,1
+tson1249-26-2,,tson1249,26,màkúmè màmbírhì ni ntlh. ni -nʼwè,màkúmè màmbírhì ni ntlh. ni -nʼwè,[],,[],,False,Tsonga.htm,True,,2
+tson1249-26-3,,tson1249,26,màkúmè mbirhí tsévù,màkúmè mbirhí tsévù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-27-1,,tson1249,27,màkúmémbír̤íŋkómbó,màkúmémbír̤íŋkómbó,[],,[],,False,Tsonga.htm,False,,1
+tson1249-27-2,,tson1249,27,màkúmè màmbírhì ni ntlh. ni -mbìrhì,màkúmè màmbírhì ni ntlh. ni -mbìrhì,[],,[],,False,Tsonga.htm,True,,2
+tson1249-27-3,,tson1249,27,màkúmè mbirhí nkómbò,màkúmè mbirhí nkómbò,[],,[],,False,Tsonga.htm,False,,3
+tson1249-28-1,,tson1249,28,màkúmémbír̤íŋhùŋɡú,màkúmémbír̤íŋhùŋɡú,[],,[],,False,Tsonga.htm,False,,1
+tson1249-28-2,,tson1249,28,màkúmè màmbírhì ni ntlh. ni -nhárhù,màkúmè màmbírhì ni ntlh. ni -nhárhù,[],,[],,False,Tsonga.htm,True,,2
+tson1249-28-3,,tson1249,28,màkúmè mbirhí nhúnɡù,màkúmè mbirhí nhúnɡù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-29-1,,tson1249,29,màkúmémbír̤íkájé,màkúmémbír̤íkájé,[],,[],,False,Tsonga.htm,False,,1
+tson1249-29-2,,tson1249,29,màkúmè màmbírhì ni ntlh. ni -múnè,màkúmè màmbírhì ni ntlh. ni -múnè,[],,[],,False,Tsonga.htm,True,,2
+tson1249-29-3,,tson1249,29,màkúmè mbirhí káyí,màkúmè mbirhí káyí,[],,[],,False,Tsonga.htm,False,,3
+tson1249-30-1,,tson1249,30,màkúmén̤àrù,màkúmén̤àrù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-30-2,,tson1249,30,màkúmè mànhárhù,màkúmè mànhárhù,[],,[],,False,Tsonga.htm,False,,2
+tson1249-30-3,,tson1249,30,màkúmè mànhárhù,màkúmè mànhárhù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-40-1,,tson1249,40,màkúmémùnè,màkúmémùnè,[],,[],,False,Tsonga.htm,False,,1
+tson1249-40-2,,tson1249,40,màkúmè wà màmúnè,màkúmè wà màmúnè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-40-3,,tson1249,40,múnè wá màkúmè,múnè wá màkúmè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-50-1,,tson1249,50,màkúmétlʰánù,màkúmétlʰánù,[],,[],,False,Tsonga.htm,False,,1
+tson1249-50-2,,tson1249,50,màkúmè wà màkúmè,màkúmè wà màkúmè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-50-3,,tson1249,50,ntlhánù wá màkúmè,ntlhánù wá màkúmè,[],,[],,False,Tsonga.htm,False,,3
+tson1249-60-1,,tson1249,60,màkúmétsèβú,màkúmétsèβú,[],,[],,False,Tsonga.htm,False,,1
+tson1249-60-2,,tson1249,60,màkúmè wà màkúmè ni -nʼwè,màkúmè wà màkúmè ni -nʼwè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-60-3,,tson1249,60,màkúmè tsévù,màkúmè tsévù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-70-1,,tson1249,70,màkúmékómbó,màkúmékómbó,[],,[],,False,Tsonga.htm,False,,1
+tson1249-70-2,,tson1249,70,màkúmè wà màkúmè ni -mbìrhì,màkúmè wà màkúmè ni -mbìrhì,[],,[],,False,Tsonga.htm,False,,2
+tson1249-70-3,,tson1249,70,màkúmè nkómbò,màkúmè nkómbò,[],,[],,False,Tsonga.htm,False,,3
+tson1249-80-1,,tson1249,80,màkúmén̤ùŋɡú,màkúmén̤ùŋɡú,[],,[],,False,Tsonga.htm,False,,1
+tson1249-80-2,,tson1249,80,màkúmè wà màkúmè ni -nhárhù,màkúmè wà màkúmè ni -nhárhù,[],,[],,False,Tsonga.htm,False,,2
+tson1249-80-3,,tson1249,80,màkúmè nhúnɡù,màkúmè nhúnɡù,[],,[],,False,Tsonga.htm,False,,3
+tson1249-90-1,,tson1249,90,màkúmékájé,màkúmékájé,[],,[],,False,Tsonga.htm,False,,1
+tson1249-90-2,,tson1249,90,màkúmè wà màkúmè ni -múnè,màkúmè wà màkúmè ni -múnè,[],,[],,False,Tsonga.htm,False,,2
+tson1249-90-3,,tson1249,90,màkúmè káyí,màkúmè káyí,[],,[],,False,Tsonga.htm,False,,3
+tson1249-100-1,,tson1249,100,ⁿdzànà,ⁿdzànà,[],,[],,False,Tsonga.htm,False,,1
+tson1249-100-2,,tson1249,100,dzànà,dzànà,[],,[],,False,Tsonga.htm,False,,2
+tson1249-100-3,,tson1249,100,dzànà,dzànà,[],,[],,False,Tsonga.htm,False,,3
+tson1249-200-1,,tson1249,200,màdzànàmbìr̤ì,màdzànàmbìr̤ì,[],,[],,False,Tsonga.htm,False,,1
+tson1249-200-2,,tson1249,200,madzànà màmbìrhì,madzànà màmbìrhì,[],,[],,False,Tsonga.htm,False,,2
+tson1249-200-3,,tson1249,200,madzànà mbìrhì,madzànà mbìrhì,[],,[],,False,Tsonga.htm,False,,3
+tson1249-1000-1,,tson1249,1000,ɡìdì,ɡìdì,[],,[],,False,Tsonga.htm,False,,1
+tson1249-1000-2,,tson1249,1000,ɡìdì,ɡìdì,[],,[],,False,Tsonga.htm,False,,2
+tson1249-1000-3,,tson1249,1000,ɡìdì,ɡìdì,[],,[],,False,Tsonga.htm,False,,3
+tson1249-2000-1,,tson1249,2000,màɡìdìmbìr̤ì,màɡìdìmbìr̤ì,[],,[],,False,Tsonga.htm,False,,1
+tson1249-2000-2,,tson1249,2000,maɡìdì màmbìrhì,maɡìdì màmbìrhì,[],,[],,False,Tsonga.htm,False,,2
+tson1249-2000-3,,tson1249,2000,maɡìdì mbìrhì,maɡìdì mbìrhì,[],,[],,False,Tsonga.htm,False,,3

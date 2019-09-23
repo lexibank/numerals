@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+fort1240-1-1,,fort1240,1,mo ese,mo ese,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-2-1,,fort1240,2,mo rua,mo rua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-3-1,,fort1240,3,mo tolu,mo tolu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-4-1,,fort1240,4,mo βati,mo βati,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-5-1,,fort1240,5,mo lima,mo lima,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-6-1,,fort1240,6,limaraβe,limaraβe,[],( 5 + 1 ),[],,False,Fortsenal.htm,False,,1
+fort1240-7-1,,fort1240,7,raβrua,raβrua,[],( 5 + 2 ),[],,False,Fortsenal.htm,False,,1
+fort1240-8-1,,fort1240,8,raβtolu,raβtolu,[],( 5 + 3 ),[],,False,Fortsenal.htm,False,,1
+fort1240-9-1,,fort1240,9,ramβati,ramβati,[],( 5 + 4 ),[],,False,Fortsenal.htm,False,,1
+fort1240-10-1,,fort1240,10,sanaβulu,sanaβulu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-11-1,,fort1240,11,sanaβulu mo ese,sanaβulu mo ese,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-12-1,,fort1240,12,sanaβulu mo rua,sanaβulu mo rua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-13-1,,fort1240,13,sanaβulu mo tolu,sanaβulu mo tolu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-14-1,,fort1240,14,sanaβulu mo βati,sanaβulu mo βati,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-15-1,,fort1240,15,sanaβulu mo lima,sanaβulu mo lima,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-16-1,,fort1240,16,sanaβulu mo limaraβe,sanaβulu mo limaraβe,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-17-1,,fort1240,17,sanaβulu mo raβrua,sanaβulu mo raβrua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-18-1,,fort1240,18,sanaβulu mo raβtolu,sanaβulu mo raβtolu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-19-1,,fort1240,19,sanaβulu mo ramβati,sanaβulu mo ramβati,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-20-1,,fort1240,20,naβulrua rua,naβulrua rua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-21-1,,fort1240,21,naβulrua rua mo ese,naβulrua rua mo ese,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-22-1,,fort1240,22,naβulrua rua mo rua,naβulrua rua mo rua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-23-1,,fort1240,23,naβulrua rua mo tolu,naβulrua rua mo tolu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-24-1,,fort1240,24,naβulrua rua mo βati,naβulrua rua mo βati,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-25-1,,fort1240,25,naβulrua rua mo lima,naβulrua rua mo lima,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-26-1,,fort1240,26,naβulrua rua mo limaraβe,naβulrua rua mo limaraβe,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-27-1,,fort1240,27,naβulrua rua mo raβrua,naβulrua rua mo raβrua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-28-1,,fort1240,28,naβulrua rua mo raβtolu,naβulrua rua mo raβtolu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-29-1,,fort1240,29,naβulrua rua mo ramβati,naβulrua rua mo ramβati,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-30-1,,fort1240,30,naβultolu,naβultolu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-40-1,,fort1240,40,naβulβati,naβulβati,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-50-1,,fort1240,50,naβullima,naβullima,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-60-1,,fort1240,60,naβullimaraβe,naβullimaraβe,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-70-1,,fort1240,70,naβulraβrua,naβulraβrua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-80-1,,fort1240,80,naβulraβtolu,naβulraβtolu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-90-1,,fort1240,90,naβulramβati,naβulramβati,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-100-1,,fort1240,100,laβul,laβul,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-200-1,,fort1240,200,laβulrua,laβulrua,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-1000-1,,fort1240,1000,laβul βasanβulu,laβul βasanβulu,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-1000-2,,fort1240,1000,wan tasusen,wan tasusen,[],,[],,False,Fortsenal.htm,False,,1
+fort1240-2000-1,,fort1240,2000,laβul βa naβulrua,laβul βa naβulrua,[],,[],,False,Fortsenal.htm,False,,1

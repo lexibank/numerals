@@ -1,0 +1,32 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+acol1236-1-1,,acol1236,1,àcíèl,àcíèl,[],,[],,False,Acholi.htm,False,,1
+acol1236-2-1,,acol1236,2,àríò,àríò,[],,[],,False,Acholi.htm,False,,1
+acol1236-3-1,,acol1236,3,àdék,àdék,[],,[],,False,Acholi.htm,False,,1
+acol1236-4-1,,acol1236,4,àŋwɛ̂n,àŋwɛ̂n,[],,[],,False,Acholi.htm,False,,1
+acol1236-5-1,,acol1236,5,àbîc,àbîc,[],,[],,False,Acholi.htm,False,,1
+acol1236-6-1,,acol1236,6,àbícíèl,àbícíèl,[],( 5+ 1 ),[],,False,Acholi.htm,False,,1
+acol1236-7-1,,acol1236,7,àbíìrɔ́,àbíìrɔ́,[],( 5+ 2 ),[],,False,Acholi.htm,False,,1
+acol1236-8-1,,acol1236,8,àboôrà,àboôrà,[],( 5+ 3 ),[],,False,Acholi.htm,False,,1
+acol1236-9-1,,acol1236,9,àbúŋwɛ́n,àbúŋwɛ́n,[],( 5+ 4 ),[],,False,Acholi.htm,False,,1
+acol1236-10-1,,acol1236,10,àpáàr,àpáàr,[],,[],,False,Acholi.htm,False,,1
+acol1236-11-1,,acol1236,11,àpáàr wí àcíèl,àpáàr wí àcíèl,[],,[],,False,Acholi.htm,False,,1
+acol1236-12-1,,acol1236,12,àpáàr wí àríò,àpáàr wí àríò,[],,[],,False,Acholi.htm,False,,1
+acol1236-13-1,,acol1236,13,àpáàr wí àdék,àpáàr wí àdék,[],,[],,False,Acholi.htm,False,,1
+acol1236-14-1,,acol1236,14,àpáàr wí àŋwɛ̂n,àpáàr wí àŋwɛ̂n,[],,[],,False,Acholi.htm,False,,1
+acol1236-15-1,,acol1236,15,àpáàr wí àbîc,àpáàr wí àbîc,[],,[],,False,Acholi.htm,False,,1
+acol1236-16-1,,acol1236,16,àpáàr wí àbícíèl,àpáàr wí àbícíèl,[],,[],,False,Acholi.htm,False,,1
+acol1236-17-1,,acol1236,17,àpáàr wí àbíìrɔ́,àpáàr wí àbíìrɔ́,[],,[],,False,Acholi.htm,False,,1
+acol1236-18-1,,acol1236,18,àpáàr wí àboôrà,àpáàr wí àboôrà,[],,[],,False,Acholi.htm,False,,1
+acol1236-19-1,,acol1236,19,àpáàr wí àbúŋwɛ́n,àpáàr wí àbúŋwɛ́n,[],,[],,False,Acholi.htm,False,,1
+acol1236-20-1,,acol1236,20,píèr àríò,píèr àríò,[],,[],,False,Acholi.htm,False,,1
+acol1236-21-1,,acol1236,21,píèr àríò wí àcíèl,píèr àríò wí àcíèl,[],,[],,False,Acholi.htm,False,,1
+acol1236-30-1,,acol1236,30,píèr àdék,píèr àdék,[],,[],,False,Acholi.htm,False,,1
+acol1236-40-1,,acol1236,40,píèr àŋwɛ̂n,píèr àŋwɛ̂n,[],,[],,False,Acholi.htm,False,,1
+acol1236-50-1,,acol1236,50,píèr àbîc,píèr àbîc,[],,[],,False,Acholi.htm,False,,1
+acol1236-60-1,,acol1236,60,píèr àbícíèl,píèr àbícíèl,[],,[],,False,Acholi.htm,False,,1
+acol1236-70-1,,acol1236,70,píèr àbíìrɔ́,píèr àbíìrɔ́,[],,[],,False,Acholi.htm,False,,1
+acol1236-80-1,,acol1236,80,píèr àboôrà,píèr àboôrà,[],,[],,False,Acholi.htm,False,,1
+acol1236-90-1,,acol1236,90,píèr àbúŋwɛ́n,píèr àbúŋwɛ́n,[],,[],,False,Acholi.htm,False,,1
+acol1236-100-1,,acol1236,100,míyá,míyá,[],( < Swahili / Arabic ),[],,True,Acholi.htm,False,,1
+acol1236-200-1,,acol1236,200,míyá àríò,míyá àríò,[],,[],,False,Acholi.htm,False,,1
+acol1236-1000-1,,acol1236,1000,élípàcíèl,élípàcíèl,[],( < Swahili / Arabic ),[],,True,Acholi.htm,False,,1

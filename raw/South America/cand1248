@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+cand1248-1-1,,cand1248,1,mínamda,mínamda,[],,[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-2-1,,cand1248,2,tsíbonada,tsíbonada,[],,[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-3-1,,cand1248,3,toóchipa,toóchipa,[],,[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-4-1,,cand1248,4,ipónponaro,ipónponaro,[],,[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-5-1,,cand1248,5,zamiátpata (lit: 'with the thumb' ) or kowíz muchiáro,zamiátpata (lit: 'with the thumb' ) or kowíz muchiáro,[],(litː 'hand becoming a head' ),[],,False,Candoshi-Shapra.htm,True,,1
+cand1248-6-1,,cand1248,6,lit: 'one arriving on the other (hand)',lit: 'one arriving on the other (hand)',[],,[],,False,Candoshi-Shapra.htm,True,mínam matáyaro,1
+cand1248-7-1,,cand1248,7,lit: 'two arriving on the other (hand)',lit: 'two arriving on the other (hand)',[],,[],,False,Candoshi-Shapra.htm,True,tsíbon matáyaro,1
+cand1248-8-1,,cand1248,8,lit: 'three arriving on the other (hand)',lit: 'three arriving on the other (hand)',[],,[],,False,Candoshi-Shapra.htm,True,toóchipa matáyaro,1
+cand1248-9-1,,cand1248,9,lit: 'four arriving on the other (hand)',lit: 'four arriving on the other (hand)',[],,[],,False,Candoshi-Shapra.htm,True,ipónponaro matáyaro,1
+cand1248-10-1,,cand1248,10,kowíz íptaro,kowíz íptaro,[],(lit: 'both hands together'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-11-1,,cand1248,11,kutsás mínam matáyaro,kutsás mínam matáyaro,[],(lit: 'on the foot one arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-12-1,,cand1248,12,kutsástsíbon matáyaro,kutsástsíbon matáyaro,[],(lit: 'on the foot two arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-13-1,,cand1248,13,kutsás toóchipa matáyaro,kutsás toóchipa matáyaro,[],(lit: 'on the foot three arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-14-1,,cand1248,14,kutsás ipónponaro matáyaro,kutsás ipónponaro matáyaro,[],(lit: 'on the foot four arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-15-1,,cand1248,15,aráɡich kutsás matáyaro,aráɡich kutsás matáyaro,[],(lit: 'arriving on the other foot '),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-16-1,,cand1248,16,mínam aráɡich kutsás matáyaro,mínam aráɡich kutsás matáyaro,[],(lit: 'one on the other foot arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-17-1,,cand1248,17,tsíbon aráɡich kutsás matáyaro,tsíbon aráɡich kutsás matáyaro,[],(lit: 'two on the other foot arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-18-1,,cand1248,18,toóchipa aráɡich kutsás matáyaro,toóchipa aráɡich kutsás matáyaro,[],(lit: 'three on the other foot arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-19-1,,cand1248,19,ipónponaro aráɡich kutsás matáyaro,ipónponaro aráɡich kutsás matáyaro,[],(lit: 'four on the other foot arriving'),[],,False,Candoshi-Shapra.htm,False,,1
+cand1248-20-1,,cand1248,20,aráɡich kutsás íptaro (lit: 'both feet arriving' ) or mínam tpoótsi,aráɡich kutsás íptaro (lit: 'both feet arriving' ) or mínam tpoótsi,[],( litː 'one person'),[],,False,Candoshi-Shapra.htm,True,,1

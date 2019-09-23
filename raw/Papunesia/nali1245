@@ -1,0 +1,72 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nali1245-1-1,,nali1245,1,sih,sih,[],,[],,False,Nali.htm,False,,1
+nali1245-1-2,,nali1245,1,sih,sih,[],,[],,False,Nali.htm,False,,2
+nali1245-2-1,,nali1245,2,malwoh,malwoh,[],,[],,False,Nali.htm,False,,1
+nali1245-2-2,,nali1245,2,luwoh,luwoh,[],,[],,False,Nali.htm,False,,2
+nali1245-3-1,,nali1245,3,motojoh,motojoh,[],,[],,False,Nali.htm,False,,1
+nali1245-3-2,,nali1245,3,royoh,royoh,[],( see notes below),[],,False,Nali.htm,False,,2
+nali1245-4-1,,nali1245,4,mahahu,mahahu,[],,[],,False,Nali.htm,False,,1
+nali1245-4-2,,nali1245,4,hahiu,hahiu,[],,[],,False,Nali.htm,False,,2
+nali1245-5-1,,nali1245,5,majimah,majimah,[],,[],,False,Nali.htm,False,,1
+nali1245-5-2,,nali1245,5,yimah,yimah,[],,[],,False,Nali.htm,False,,2
+nali1245-6-1,,nali1245,6,manonoh,manonoh,[],,[],,False,Nali.htm,False,,1
+nali1245-6-2,,nali1245,6,annoh,annoh,[],( 10 - 4 ) ( anonoh ),[],,False,Nali.htm,False,,2
+nali1245-7-1,,nali1245,7,manondrtojoh,manondrtojoh,[],( 10 - 3 ),[],,False,Nali.htm,False,,1
+nali1245-7-2,,nali1245,7,andrtoyoh,andrtoyoh,[],( 10 - 3 ) ( androtoyoh ),[],,False,Nali.htm,False,,2
+nali1245-8-1,,nali1245,8,mandondolwoh,mandondolwoh,[],( 10 - 2 ),[],,False,Nali.htm,False,,1
+nali1245-8-2,,nali1245,8,andrluwoh,andrluwoh,[],( 10 - 2 ) (androluwoh ),[],,False,Nali.htm,False,,2
+nali1245-9-1,,nali1245,9,manondrsih,manondrsih,[],( 10 - 1 ),[],,False,Nali.htm,False,,1
+nali1245-9-2,,nali1245,9,androsih,androsih,[],( 10 - 1 ),[],,False,Nali.htm,False,,2
+nali1245-10-1,,nali1245,10,masuŋui,masuŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-10-2,,nali1245,10,soŋui,soŋui,[],,[],,False,Nali.htm,False,,2
+nali1245-11-1,,nali1245,11,masuŋui e sih,masuŋui e sih,[],,[],,False,Nali.htm,False,,1
+nali1245-11-2,,nali1245,11,soŋui pe sih,soŋui pe sih,[],,[],,False,Nali.htm,False,,2
+nali1245-12-1,,nali1245,12,masuŋui e luwoh,masuŋui e luwoh,[],,[],,False,Nali.htm,False,,1
+nali1245-12-2,,nali1245,12,soŋui pe luwoh,soŋui pe luwoh,[],,[],,False,Nali.htm,False,,2
+nali1245-13-1,,nali1245,13,masuŋui e tojoh,masuŋui e tojoh,[],,[],,False,Nali.htm,False,,1
+nali1245-13-2,,nali1245,13,soŋui pe royoh,soŋui pe royoh,[],,[],,False,Nali.htm,False,,2
+nali1245-14-1,,nali1245,14,masuŋui e hahu,masuŋui e hahu,[],,[],,False,Nali.htm,False,,1
+nali1245-14-2,,nali1245,14,soŋui pe hahiu,soŋui pe hahiu,[],,[],,False,Nali.htm,False,,2
+nali1245-15-1,,nali1245,15,masuŋui e jimah,masuŋui e jimah,[],,[],,False,Nali.htm,False,,1
+nali1245-15-2,,nali1245,15,soŋui pe yimah,soŋui pe yimah,[],,[],,False,Nali.htm,False,,2
+nali1245-16-1,,nali1245,16,masuŋui e onoh,masuŋui e onoh,[],,[],,False,Nali.htm,False,,1
+nali1245-16-2,,nali1245,16,soŋui pe annoh,soŋui pe annoh,[],,[],,False,Nali.htm,False,,2
+nali1245-17-1,,nali1245,17,masuŋui e ondrtojoh,masuŋui e ondrtojoh,[],,[],,False,Nali.htm,False,,1
+nali1245-17-2,,nali1245,17,soŋui pe andrtoyoh,soŋui pe andrtoyoh,[],,[],,False,Nali.htm,False,,2
+nali1245-18-1,,nali1245,18,masuŋui e ondondolwoh,masuŋui e ondondolwoh,[],,[],,False,Nali.htm,False,,1
+nali1245-18-2,,nali1245,18,soŋui pe andrluwoh,soŋui pe andrluwoh,[],( androluwoh),[],,False,Nali.htm,False,,2
+nali1245-19-1,,nali1245,19,masuŋui e ondrosih,masuŋui e ondrosih,[],,[],,False,Nali.htm,False,,1
+nali1245-19-2,,nali1245,19,soŋui pe androsih,soŋui pe androsih,[],,[],,False,Nali.htm,False,,2
+nali1245-20-1,,nali1245,20,maluŋui,maluŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-20-2,,nali1245,20,luŋui,luŋui,[],,[],,False,Nali.htm,False,,2
+nali1245-21-1,,nali1245,21,luŋui pe sih,luŋui pe sih,[],,[],,False,Nali.htm,False,,2
+nali1245-22-1,,nali1245,22,luŋui pe luwoh,luŋui pe luwoh,[],,[],,False,Nali.htm,False,,2
+nali1245-23-1,,nali1245,23,luŋui pe royoh,luŋui pe royoh,[],,[],,False,Nali.htm,False,,2
+nali1245-24-1,,nali1245,24,luŋui pe hahiu,luŋui pe hahiu,[],,[],,False,Nali.htm,False,,2
+nali1245-25-1,,nali1245,25,luŋui pe yimah,luŋui pe yimah,[],,[],,False,Nali.htm,False,,2
+nali1245-26-1,,nali1245,26,luŋui pe annoh,luŋui pe annoh,[],,[],,False,Nali.htm,False,,2
+nali1245-27-1,,nali1245,27,luŋui pe andrtoyoh,luŋui pe andrtoyoh,[],,[],,False,Nali.htm,False,,2
+nali1245-28-1,,nali1245,28,luŋui pe andrluwoh,luŋui pe andrluwoh,[],( androluwoh),[],,False,Nali.htm,False,,2
+nali1245-29-1,,nali1245,29,luŋui pe androsih,luŋui pe androsih,[],,[],,False,Nali.htm,False,,2
+nali1245-30-1,,nali1245,30,matiŋui,matiŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-30-2,,nali1245,30,tiŋui,tiŋui,[],,[],,False,Nali.htm,False,,2
+nali1245-40-1,,nali1245,40,mahaŋui,mahaŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-40-2,,nali1245,40,haŋui or haaŋui,haŋui or haaŋui,[],,[],,False,Nali.htm,True,,2
+nali1245-50-1,,nali1245,50,majimŋui,majimŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-50-2,,nali1245,50,yimiŋui,yimiŋui,[],,[],,False,Nali.htm,False,,2
+nali1245-60-1,,nali1245,60,manoŋui,manoŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-60-2,,nali1245,60,anoŋui,anoŋui,[],,[],,False,Nali.htm,False,,2
+nali1245-70-1,,nali1245,70,manondrtiŋui,manondrtiŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-70-2,,nali1245,70,andrtiŋui,andrtiŋui,[],,[],,False,Nali.htm,False,,2
+nali1245-80-1,,nali1245,80,mandondolŋui,mandondolŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-80-2,,nali1245,80,andrluŋui,andrluŋui,[],( androluŋui ),[],,False,Nali.htm,False,,2
+nali1245-90-1,,nali1245,90,manonndrsuŋui,manonndrsuŋui,[],,[],,False,Nali.htm,False,,1
+nali1245-90-2,,nali1245,90,androsoŋui,androsoŋui,[],( androsoŋui ),[],,False,Nali.htm,False,,2
+nali1245-100-1,,nali1245,100,masaŋat,masaŋat,[],,[],,False,Nali.htm,False,,1
+nali1245-100-2,,nali1245,100,saŋat,saŋat,[],,[],,False,Nali.htm,False,,2
+nali1245-200-1,,nali1245,200,malŋet,malŋet,[],,[],,False,Nali.htm,False,,1
+nali1245-200-2,,nali1245,200,luŋat,luŋat,[],,[],,False,Nali.htm,False,,2
+nali1245-1000-1,,nali1245,1000,mosapou,mosapou,[],,[],,False,Nali.htm,False,,1
+nali1245-1000-2,,nali1245,1000,sopou,sopou,[],,[],,False,Nali.htm,False,,2
+nali1245-2000-1,,nali1245,2000,malpou,malpou,[],,[],,False,Nali.htm,False,,1
+nali1245-2000-2,,nali1245,2000,lupou,lupou,[],,[],,False,Nali.htm,False,,2

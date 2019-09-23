@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sumu1234-1-1,,sumu1234,1,as,as,[],(lah),[],,False,Sumu.htm,False,,1
+sumu1234-1-2,,sumu1234,1,aslah,aslah,[],,[],,False,Sumu.htm,False,,1
+sumu1234-2-1,,sumu1234,2,bu,bu,[],,[],,False,Sumu.htm,False,,1
+sumu1234-2-2,,sumu1234,2,bû,bû,[],,[],,False,Sumu.htm,False,,1
+sumu1234-3-1,,sumu1234,3,bas,bas,[],,[],,False,Sumu.htm,False,,1
+sumu1234-4-1,,sumu1234,4,aruŋka,aruŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-5-1,,sumu1234,5,siŋka,siŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-6-1,,sumu1234,6,tiaskau as,tiaskau as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-6-2,,sumu1234,6,tiŋ askau as,tiŋ askau as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-7-1,,sumu1234,7,tiaskau bu,tiaskau bu,[],,[],,False,Sumu.htm,False,,1
+sumu1234-7-2,,sumu1234,7,tiŋ askau bû,tiŋ askau bû,[],,[],,False,Sumu.htm,False,,1
+sumu1234-8-1,,sumu1234,8,tiaskau bas,tiaskau bas,[],,[],,False,Sumu.htm,False,,1
+sumu1234-8-2,,sumu1234,8,tiŋ askau bas,tiŋ askau bas,[],,[],,False,Sumu.htm,False,,1
+sumu1234-9-1,,sumu1234,9,tiaskau aruŋka,tiaskau aruŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-9-2,,sumu1234,9,tiŋ askau aruŋka,tiŋ askau aruŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-10-1,,sumu1234,10,salap,salap,[],,[],,False,Sumu.htm,False,,1
+sumu1234-11-1,,sumu1234,11,salap minit as,salap minit as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-11-2,,sumu1234,11,salap kalniku as,salap kalniku as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-12-1,,sumu1234,12,salap minit bu,salap minit bu,[],,[],,False,Sumu.htm,False,,1
+sumu1234-12-2,,sumu1234,12,salap kalniku bû,salap kalniku bû,[],,[],,False,Sumu.htm,False,,1
+sumu1234-13-1,,sumu1234,13,salap minit bas,salap minit bas,[],,[],,False,Sumu.htm,False,,1
+sumu1234-13-2,,sumu1234,13,salap kalniku bas,salap kalniku bas,[],,[],,False,Sumu.htm,False,,1
+sumu1234-14-1,,sumu1234,14,salap minit aruŋka,salap minit aruŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-15-1,,sumu1234,15,salap minit siŋka,salap minit siŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-16-1,,sumu1234,16,matawalsip tiaskau as,matawalsip tiaskau as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-17-1,,sumu1234,17,matawalsip tiaskau bu,matawalsip tiaskau bu,[],,[],,False,Sumu.htm,False,,1
+sumu1234-18-1,,sumu1234,18,matawalsip tiaskau bas,matawalsip tiaskau bas,[],,[],,False,Sumu.htm,False,,1
+sumu1234-19-1,,sumu1234,19,matawalsip tiaskau aruŋka,matawalsip tiaskau aruŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-20-1,,sumu1234,20,muih as luih,muih as luih,[],,[],,False,Sumu.htm,False,,1
+sumu1234-21-1,,sumu1234,21,muih as luih minit as,muih as luih minit as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-30-1,,sumu1234,30,muih as luih minit kau salap,muih as luih minit kau salap,[],,[],,False,Sumu.htm,False,,1
+sumu1234-40-1,,sumu1234,40,muih as luih bu,muih as luih bu,[],,[],,False,Sumu.htm,False,,1
+sumu1234-50-1,,sumu1234,50,muih as luih bu minit kau salap,muih as luih bu minit kau salap,[],,[],,False,Sumu.htm,False,,1
+sumu1234-60-1,,sumu1234,60,muih as luih bas,muih as luih bas,[],,[],,False,Sumu.htm,False,,1
+sumu1234-70-1,,sumu1234,70,muih as luih bas minit kau salap,muih as luih bas minit kau salap,[],,[],,False,Sumu.htm,False,,1
+sumu1234-80-1,,sumu1234,80,muih as luih aruŋka,muih as luih aruŋka,[],,[],,False,Sumu.htm,False,,1
+sumu1234-90-1,,sumu1234,90,muih as luih aruŋka minit kau salap,muih as luih aruŋka minit kau salap,[],,[],,False,Sumu.htm,False,,1
+sumu1234-100-1,,sumu1234,100,basni as,basni as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-100-2,,sumu1234,100,panka as,panka as,[],,[],,False,Sumu.htm,False,,1
+sumu1234-100-3,,sumu1234,100,andat,andat,[],,[],,False,Sumu.htm,False,,1
+sumu1234-200-1,,sumu1234,200,basni bu,basni bu,[],,[],,False,Sumu.htm,False,,1
+sumu1234-200-2,,sumu1234,200,panka bû,panka bû,[],,[],,False,Sumu.htm,False,,1
+sumu1234-200-3,,sumu1234,200,andat bu,andat bu,[],,[],,False,Sumu.htm,False,,1
+sumu1234-1000-1,,sumu1234,1000,tawsin as,tawsin as,[],,[],,False,Sumu.htm,False,,1

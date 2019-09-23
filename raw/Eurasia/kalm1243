@@ -1,0 +1,119 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kalm1243-1-1,,kalm1243,1,neg(n),neg(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-1-2,,kalm1243,1,nege,nege,[],,[],,False,Oirat.htm,False,,1
+kalm1243-1-3,,kalm1243,1,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-1-4,,kalm1243,1,nige(n),nige(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-2-1,,kalm1243,2,xɔjr,xɔjr,[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-2-2,,kalm1243,2,xɔjra,xɔjra,[],,[],,False,Oirat.htm,False,,1
+kalm1243-2-3,,kalm1243,2,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-2-4,,kalm1243,2,xujra,xujra,[],(n),[],,False,Oirat.htm,False,,1
+kalm1243-3-1,,kalm1243,3,gʊrw(n),gʊrw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-3-2,,kalm1243,3,ɡʊrwa(n),ɡʊrwa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-4-1,,kalm1243,4,dørw(n),dørw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-4-2,,kalm1243,4,dørwe(n),dørwe(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-5-1,,kalm1243,5,taw(n),taw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-5-2,,kalm1243,5,tawa(n),tawa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-6-1,,kalm1243,6,zʊrga(n),zʊrga(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-6-2,,kalm1243,6,zʊrɡaː,zʊrɡaː,[],,[],,False,Oirat.htm,False,,1
+kalm1243-6-3,,kalm1243,6,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-6-4,,kalm1243,6,dzʊrɡaː(n),dzʊrɡaː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-7-1,,kalm1243,7,dola(n),dola(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-7-2,,kalm1243,7,dɔlaː(n),dɔlaː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-8-1,,kalm1243,8,næ:m(n),næ:m(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-8-2,,kalm1243,8,næːmæ(n),næːmæ(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-9-1,,kalm1243,9,jis(n),jis(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-9-2,,kalm1243,9,jise(n),jise(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-10-1,,kalm1243,10,arw(n),arw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-10-2,,kalm1243,10,arwa(n),arwa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-11-1,,kalm1243,11,arwn neg(n),arwn neg(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-11-2,,kalm1243,11,arwannege,arwannege,[],,[],,False,Oirat.htm,False,,1
+kalm1243-11-3,,kalm1243,11,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-11-4,,kalm1243,11,arwan nigi(n),arwan nigi(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-12-1,,kalm1243,12,arwn xɔjr,arwn xɔjr,[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-12-2,,kalm1243,12,arwanxɔjra,arwanxɔjra,[],,[],,False,Oirat.htm,False,,1
+kalm1243-12-3,,kalm1243,12,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-12-4,,kalm1243,12,arwan xujra,arwan xujra,[],(n),[],,False,Oirat.htm,False,,1
+kalm1243-13-1,,kalm1243,13,arwn gʊrb(n),arwn gʊrb(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-13-2,,kalm1243,13,arwanɡʊrwa(n),arwanɡʊrwa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-14-1,,kalm1243,14,arwn dørw(n),arwn dørw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-14-2,,kalm1243,14,arwandørwe(n),arwandørwe(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-15-1,,kalm1243,15,arwn taw(n),arwn taw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-15-2,,kalm1243,15,arwan tawa(n),arwan tawa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-16-1,,kalm1243,16,arwn zʊrga(n),arwn zʊrga(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-16-2,,kalm1243,16,arwandzʊrɡaː,arwandzʊrɡaː,[],,[],,False,Oirat.htm,False,,1
+kalm1243-16-3,,kalm1243,16,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-16-4,,kalm1243,16,arwan dzʊɡaː(n),arwan dzʊɡaː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-17-1,,kalm1243,17,arwn dɔla(n),arwn dɔla(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-17-2,,kalm1243,17,arwandɔlaː(n),arwandɔlaː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-18-1,,kalm1243,18,arwn næːm(n),arwn næːm(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-18-2,,kalm1243,18,arwannæːmæ(n),arwannæːmæ(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-19-1,,kalm1243,19,arwn jis(n),arwn jis(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-19-2,,kalm1243,19,arwan jise(n),arwan jise(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-20-1,,kalm1243,20,xør(n),xør(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-20-2,,kalm1243,20,xori,xori,[],,[],,False,Oirat.htm,False,,1
+kalm1243-20-3,,kalm1243,20,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-20-4,,kalm1243,20,xøri(n),xøri(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-21-1,,kalm1243,21,xørn neg(n),xørn neg(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-21-2,,kalm1243,21,xɔrin nege,xɔrin nege,[],,[],,False,Oirat.htm,False,,1
+kalm1243-21-3,,kalm1243,21,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-21-4,,kalm1243,21,xørin nege(n),xørin nege(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-22-1,,kalm1243,22,xørn xɔjr,xørn xɔjr,[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-22-2,,kalm1243,22,xɔrin xɔjra,xɔrin xɔjra,[],,[],,False,Oirat.htm,False,,1
+kalm1243-22-3,,kalm1243,22,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-22-4,,kalm1243,22,xørin xujra,xørin xujra,[],(n),[],,False,Oirat.htm,False,,1
+kalm1243-23-1,,kalm1243,23,xørn gʊrw(n),xørn gʊrw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-23-2,,kalm1243,23,xɔrinɡʊrwa,xɔrinɡʊrwa,[],,[],,False,Oirat.htm,False,,1
+kalm1243-23-3,,kalm1243,23,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-23-4,,kalm1243,23,xørin ɡʊrwa(n),xørin ɡʊrwa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-24-1,,kalm1243,24,xørn dørw(n),xørn dørw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-24-2,,kalm1243,24,xɔrindørwe,xɔrindørwe,[],,[],,False,Oirat.htm,False,,1
+kalm1243-24-3,,kalm1243,24,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-24-4,,kalm1243,24,xørin dørwe(n),xørin dørwe(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-25-1,,kalm1243,25,xørn taw(n),xørn taw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-25-2,,kalm1243,25,xɔrin tawa,xɔrin tawa,[],,[],,False,Oirat.htm,False,,1
+kalm1243-25-3,,kalm1243,25,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-25-4,,kalm1243,25,xørin tawa(n),xørin tawa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-26-1,,kalm1243,26,xørn zʊrga(n),xørn zʊrga(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-26-2,,kalm1243,26,xɔrinzʊrɡaː,xɔrinzʊrɡaː,[],,[],,False,Oirat.htm,False,,1
+kalm1243-26-3,,kalm1243,26,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-26-4,,kalm1243,26,xørin zʊrɡaː(n),xørin zʊrɡaː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-27-1,,kalm1243,27,xørn dɔla(n),xørn dɔla(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-27-2,,kalm1243,27,xɔrindɔlaː,xɔrindɔlaː,[],,[],,False,Oirat.htm,False,,1
+kalm1243-27-3,,kalm1243,27,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-27-4,,kalm1243,27,xørin dɔlaː(n),xørin dɔlaː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-28-1,,kalm1243,28,xørn næːm(n),xørn næːm(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-28-2,,kalm1243,28,xɔrinnæːmæ,xɔrinnæːmæ,[],,[],,False,Oirat.htm,False,,1
+kalm1243-28-3,,kalm1243,28,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-28-4,,kalm1243,28,xørin næːmæ(n),xørin næːmæ(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-29-1,,kalm1243,29,xørn jis(n),xørn jis(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-29-2,,kalm1243,29,xɔrin jisi,xɔrin jisi,[],,[],,False,Oirat.htm,False,,1
+kalm1243-29-3,,kalm1243,29,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-29-4,,kalm1243,29,xørin jisi(n),xørin jisi(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-30-1,,kalm1243,30,gutʃ(n),gutʃ(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-30-2,,kalm1243,30,ɡʊtʃi(n),ɡʊtʃi(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-40-1,,kalm1243,40,døtʃ(n),døtʃ(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-40-2,,kalm1243,40,døtʃi(n),døtʃi(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-50-1,,kalm1243,50,tæw(n),tæw(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-50-2,,kalm1243,50,tæːwi(n),tæːwi(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-60-1,,kalm1243,60,dʒir(n),dʒir(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-60-2,,kalm1243,60,dʒiri(n),dʒiri(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-70-1,,kalm1243,70,dal(n),dal(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-70-2,,kalm1243,70,dala(n),dala(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-80-1,,kalm1243,80,naj(n),naj(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-80-2,,kalm1243,80,naja(n),naja(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-90-1,,kalm1243,90,jir(n),jir(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-90-2,,kalm1243,90,jere(n),jere(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-100-1,,kalm1243,100,zuː(n),zuː(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-100-2,,kalm1243,100,zʊː,zʊː,[],,[],,False,Oirat.htm,False,,1
+kalm1243-100-3,,kalm1243,100,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-100-4,,kalm1243,100,dzʊː(n),dzʊː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-200-1,,kalm1243,200,xɔjr zuː(n),xɔjr zuː(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-200-2,,kalm1243,200,xɔjr zʊː,xɔjr zʊː,[],,[],,False,Oirat.htm,False,,1
+kalm1243-200-3,,kalm1243,200,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-200-4,,kalm1243,200,xɔjr dzʊː(n),xɔjr dzʊː(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-1000-1,,kalm1243,1000,miaŋg(n),miaŋg(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-1000-2,,kalm1243,1000,miŋɡa(n),miŋɡa(n),[],,[],,False,Oirat.htm,False,,1
+kalm1243-2000-1,,kalm1243,2000,xɔjr miaŋg(n),xɔjr miaŋg(n),[],,[],,False,Kalmyk.htm,False,,1
+kalm1243-2000-2,,kalm1243,2000,xɔjar miŋɡa,xɔjar miŋɡa,[],,[],,False,Oirat.htm,False,,1
+kalm1243-2000-3,,kalm1243,2000,n,n,[],,[],,False,Oirat.htm,True,,1
+kalm1243-2000-4,,kalm1243,2000,xujar miŋɡa(n),xujar miŋɡa(n),[],,[],,False,Oirat.htm,False,,1

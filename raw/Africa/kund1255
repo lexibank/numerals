@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kund1255-1-1,,kund1255,1,-mo or -mozi,-mo or -mozi,[],,[],,False,Kunda.htm,True,,1
+kund1255-2-1,,kund1255,2,-ŵili,-ŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-3-1,,kund1255,3,-tatu,-tatu,[],,[],,False,Kunda.htm,False,,1
+kund1255-4-1,,kund1255,4,-nai,-nai,[],,[],,False,Kunda.htm,False,,1
+kund1255-5-1,,kund1255,5,-sano,-sano,[],,[],,False,Kunda.htm,False,,1
+kund1255-6-1,,kund1255,6,-sano na -mo,-sano na -mo,[],( 5 + 1 ),[],,False,Kunda.htm,False,,1
+kund1255-7-1,,kund1255,7,-sano na -ŵîli,-sano na -ŵîli,[],( 5 + 2 ),[],,False,Kunda.htm,False,,1
+kund1255-8-1,,kund1255,8,-sano na -tatu,-sano na -tatu,[],( 5 + 3 ),[],,False,Kunda.htm,False,,1
+kund1255-9-1,,kund1255,9,-sano na -nai,-sano na -nai,[],( 5 + 4 ),[],,False,Kunda.htm,False,,1
+kund1255-10-1,,kund1255,10,kʰumi,kʰumi,[],,[],,False,Kunda.htm,False,,1
+kund1255-11-1,,kund1255,11,kʰumi na -mo,kʰumi na -mo,[],,[],,False,Kunda.htm,False,,1
+kund1255-12-1,,kund1255,12,kʰumi na -ŵili,kʰumi na -ŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-13-1,,kund1255,13,kʰumi na -tatu,kʰumi na -tatu,[],,[],,False,Kunda.htm,False,,1
+kund1255-14-1,,kund1255,14,kʰumi na -nái,kʰumi na -nái,[],,[],,False,Kunda.htm,False,,1
+kund1255-15-1,,kund1255,15,kʰumi na -sano,kʰumi na -sano,[],,[],,False,Kunda.htm,False,,1
+kund1255-16-1,,kund1255,16,kʰumi na -sano na -mo,kʰumi na -sano na -mo,[],,[],,False,Kunda.htm,False,,1
+kund1255-17-1,,kund1255,17,kʰumi na -sano na -ŵili,kʰumi na -sano na -ŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-18-1,,kund1255,18,kʰûmi na -sano na -tatu,kʰûmi na -sano na -tatu,[],,[],,False,Kunda.htm,False,,1
+kund1255-19-1,,kund1255,19,kʰûmi na -sano na -nai,kʰûmi na -sano na -nai,[],,[],,False,Kunda.htm,False,,1
+kund1255-20-1,,kund1255,20,makumi áŵili,makumi áŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-21-1,,kund1255,21,makumi áŵili na -mo,makumi áŵili na -mo,[],,[],,False,Kunda.htm,False,,1
+kund1255-22-1,,kund1255,22,makumi áŵili na -ŵili,makumi áŵili na -ŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-23-1,,kund1255,23,makumi áŵili na -tatu,makumi áŵili na -tatu,[],,[],,False,Kunda.htm,False,,1
+kund1255-24-1,,kund1255,24,makumi áŵili na -nai,makumi áŵili na -nai,[],,[],,False,Kunda.htm,False,,1
+kund1255-25-1,,kund1255,25,makumi áŵili na -sano,makumi áŵili na -sano,[],,[],,False,Kunda.htm,False,,1
+kund1255-26-1,,kund1255,26,makumi áŵili na -sano na -mo,makumi áŵili na -sano na -mo,[],,[],,False,Kunda.htm,False,,1
+kund1255-27-1,,kund1255,27,makumi áŵili na -sano na -ŵili,makumi áŵili na -sano na -ŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-28-1,,kund1255,28,makumi áŵili na -sano na -tatu,makumi áŵili na -sano na -tatu,[],,[],,False,Kunda.htm,False,,1
+kund1255-29-1,,kund1255,29,makumi áŵili na -sano na -nai,makumi áŵili na -sano na -nai,[],,[],,False,Kunda.htm,False,,1
+kund1255-30-1,,kund1255,30,makumi atatu,makumi atatu,[],,[],,False,Kunda.htm,False,,1
+kund1255-40-1,,kund1255,40,makumi anai,makumi anai,[],,[],,False,Kunda.htm,False,,1
+kund1255-50-1,,kund1255,50,makumi asano,makumi asano,[],,[],,False,Kunda.htm,False,,1
+kund1255-60-1,,kund1255,60,makumi asano na -mo,makumi asano na -mo,[],,[],,False,Kunda.htm,False,,1
+kund1255-70-1,,kund1255,70,makumi asano na -ŵili,makumi asano na -ŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-80-1,,kund1255,80,makumi asano na -tatu,makumi asano na -tatu,[],,[],,False,Kunda.htm,False,,1
+kund1255-90-1,,kund1255,90,makumi asano na -nai,makumi asano na -nai,[],,[],,False,Kunda.htm,False,,1
+kund1255-100-1,,kund1255,100,makumi kʰûmi,makumi kʰûmi,[],( 10 x 10 ),[],,False,Kunda.htm,False,,1
+kund1255-200-1,,kund1255,200,makumi kʰumi aŵili,makumi kʰumi aŵili,[],,[],,False,Kunda.htm,False,,1
+kund1255-1000-1,,kund1255,1000,-saŵeleŋeka * or sauzande,-saŵeleŋeka * or sauzande,[],,[],,False,Kunda.htm,True,,1
+kund1255-2000-1,,kund1255,2000,-saŵeleŋeka or -masauzande aŵili,-saŵeleŋeka or -masauzande aŵili,[],,[],,False,Kunda.htm,True,,1

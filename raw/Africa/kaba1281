@@ -1,0 +1,83 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kaba1281-1-1,,kaba1281,1,kaára,kaára,[],,[],,False,Kaba.htm,False,,1
+kaba1281-1-2,,kaba1281,1,káɾā,káɾā,[],,[],,False,Kaba.htm,False,,2
+kaba1281-2-1,,kaba1281,2,jooà,jooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-2-2,,kaba1281,2,dʒōó,dʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-3-1,,kaba1281,3,moètaà,moètaà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-3-2,,kaba1281,3,mòtá,mòtá,[],,[],,False,Kaba.htm,False,,2
+kaba1281-4-1,,kaba1281,4,sóà,sóà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-4-2,,kaba1281,4,sɔ́,sɔ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-5-1,,kaba1281,5,mïù,mïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-5-2,,kaba1281,5,mĩ́,mĩ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-6-1,,kaba1281,6,mïìsaàn,mïìsaàn,[],,[],,False,Kaba.htm,False,,1
+kaba1281-6-2,,kaba1281,6,mĩ̀sã́n,mĩ̀sã́n,[],,[],,False,Kaba.htm,False,,2
+kaba1281-7-1,,kaba1281,7,sirïù,sirïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-7-2,,kaba1281,7,sīɾí,sīɾí,[],,[],,False,Kaba.htm,False,,2
+kaba1281-8-1,,kaba1281,8,jijooà,jijooà,[],( 4 + 4 ),[],,False,Kaba.htm,False,,1
+kaba1281-8-2,,kaba1281,8,dʒīdʒōó,dʒīdʒōó,[],( 4 + 4 ),[],,False,Kaba.htm,False,,2
+kaba1281-9-1,,kaba1281,9,jikaàra,jikaàra,[],( 10 - 1),[],,False,Kaba.htm,False,,1
+kaba1281-9-2,,kaba1281,9,dʒīkáɾā,dʒīkáɾā,[],( 10 - 1),[],,False,Kaba.htm,False,,2
+kaba1281-10-1,,kaba1281,10,dóèkuè,dóèkuè,[],,[],,False,Kaba.htm,False,,1
+kaba1281-10-2,,kaba1281,10,dɔ̀kù,dɔ̀kù,[],,[],,False,Kaba.htm,False,,2
+kaba1281-11-1,,kaba1281,11,dóèkuè ɡeèreà kaára,dóèkuè ɡeèreà kaára,[],,[],,False,Kaba.htm,False,,1
+kaba1281-11-2,,kaba1281,11,dɔ̀kù ɡìɾé káɾā,dɔ̀kù ɡìɾé káɾā,[],,[],,False,Kaba.htm,False,,2
+kaba1281-12-1,,kaba1281,12,dóèkuè ɡeèreà jooà,dóèkuè ɡeèreà jooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-12-2,,kaba1281,12,dɔ̀kù ɡìɾé dʒōó,dɔ̀kù ɡìɾé dʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-13-1,,kaba1281,13,dóèkuè ɡeèreà moètaà,dóèkuè ɡeèreà moètaà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-13-2,,kaba1281,13,dɔ̀kù ɡìɾé mòtá,dɔ̀kù ɡìɾé mòtá,[],,[],,False,Kaba.htm,False,,2
+kaba1281-14-1,,kaba1281,14,dóèkuè ɡeèreà sóà,dóèkuè ɡeèreà sóà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-14-2,,kaba1281,14,dɔ̀kù ɡìɾé sɔ́,dɔ̀kù ɡìɾé sɔ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-15-1,,kaba1281,15,dóèkuè ɡeèreà mïù,dóèkuè ɡeèreà mïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-15-2,,kaba1281,15,dɔ̀kù ɡìɾé mĩ́,dɔ̀kù ɡìɾé mĩ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-16-1,,kaba1281,16,dóèkuè ɡeèreà mïìsaàn,dóèkuè ɡeèreà mïìsaàn,[],,[],,False,Kaba.htm,False,,1
+kaba1281-16-2,,kaba1281,16,dɔ̀kù ɡìɾé mĩ̀sã́n,dɔ̀kù ɡìɾé mĩ̀sã́n,[],,[],,False,Kaba.htm,False,,2
+kaba1281-17-1,,kaba1281,17,dóèkuè ɡeèreà sirïù,dóèkuè ɡeèreà sirïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-17-2,,kaba1281,17,dɔ̀kù ɡìɾé sīɾí,dɔ̀kù ɡìɾé sīɾí,[],,[],,False,Kaba.htm,False,,2
+kaba1281-18-1,,kaba1281,18,dóèkuè ɡeèreà jijooà,dóèkuè ɡeèreà jijooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-18-2,,kaba1281,18,dɔ̀kù ɡìɾé dʒīdʒōó,dɔ̀kù ɡìɾé dʒīdʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-19-1,,kaba1281,19,dóèkuè ɡeèreà jikaàra,dóèkuè ɡeèreà jikaàra,[],,[],,False,Kaba.htm,False,,1
+kaba1281-19-2,,kaba1281,19,dɔ̀kù ɡìɾé dʒīkáɾā,dɔ̀kù ɡìɾé dʒīkáɾā,[],,[],,False,Kaba.htm,False,,2
+kaba1281-20-1,,kaba1281,20,dóèjooà,dóèjooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-20-2,,kaba1281,20,dɔ̀dʒōó,dɔ̀dʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-21-1,,kaba1281,21,dóèjooà ɡeèreà kaára,dóèjooà ɡeèreà kaára,[],,[],,False,Kaba.htm,False,,1
+kaba1281-21-2,,kaba1281,21,dɔ̀dʒōó ɡìɾé káɾā,dɔ̀dʒōó ɡìɾé káɾā,[],,[],,False,Kaba.htm,False,,2
+kaba1281-22-1,,kaba1281,22,dóèjooà ɡeèreà jooà,dóèjooà ɡeèreà jooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-22-2,,kaba1281,22,dɔ̀dʒōó ɡìɾé dʒōó,dɔ̀dʒōó ɡìɾé dʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-23-1,,kaba1281,23,dóèjooà ɡeèreà moètaà,dóèjooà ɡeèreà moètaà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-23-2,,kaba1281,23,dɔ̀dʒōó ɡìɾé mòtá,dɔ̀dʒōó ɡìɾé mòtá,[],,[],,False,Kaba.htm,False,,2
+kaba1281-24-1,,kaba1281,24,dóèjooà ɡeèreà sóà,dóèjooà ɡeèreà sóà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-24-2,,kaba1281,24,dɔ̀dʒōó ɡìɾé sɔ́,dɔ̀dʒōó ɡìɾé sɔ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-25-1,,kaba1281,25,dóèjooà ɡeèreà mïù,dóèjooà ɡeèreà mïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-25-2,,kaba1281,25,dɔ̀dʒōó ɡìɾé mĩ́,dɔ̀dʒōó ɡìɾé mĩ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-26-1,,kaba1281,26,dóèjooà ɡeèreà mïìsaàn,dóèjooà ɡeèreà mïìsaàn,[],,[],,False,Kaba.htm,False,,1
+kaba1281-26-2,,kaba1281,26,dɔ̀dʒōó ɡìɾé mĩ̀sã́n,dɔ̀dʒōó ɡìɾé mĩ̀sã́n,[],,[],,False,Kaba.htm,False,,2
+kaba1281-27-1,,kaba1281,27,dóèjooà ɡeèreà sirïù,dóèjooà ɡeèreà sirïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-27-2,,kaba1281,27,dɔ̀dʒōó ɡìɾé sīɾí,dɔ̀dʒōó ɡìɾé sīɾí,[],,[],,False,Kaba.htm,False,,2
+kaba1281-28-1,,kaba1281,28,dóèjooà ɡeèreà jijooà,dóèjooà ɡeèreà jijooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-28-2,,kaba1281,28,dɔ̀dʒōó ɡìɾé dʒīdʒōó,dɔ̀dʒōó ɡìɾé dʒīdʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-29-1,,kaba1281,29,dóèjooà ɡeèreà jikaàra,dóèjooà ɡeèreà jikaàra,[],,[],,False,Kaba.htm,False,,1
+kaba1281-29-2,,kaba1281,29,dɔ̀dʒōó ɡìɾé dʒīkáɾā,dɔ̀dʒōó ɡìɾé dʒīkáɾā,[],,[],,False,Kaba.htm,False,,2
+kaba1281-30-1,,kaba1281,30,dóèmoètaà,dóèmoètaà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-30-2,,kaba1281,30,dɔ̀mòtá,dɔ̀mòtá,[],,[],,False,Kaba.htm,False,,2
+kaba1281-40-1,,kaba1281,40,dóèsóà,dóèsóà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-40-2,,kaba1281,40,dɔ̀sɔ́,dɔ̀sɔ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-50-1,,kaba1281,50,dóèmïù,dóèmïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-50-2,,kaba1281,50,dɔ̀mĩ́,dɔ̀mĩ́,[],,[],,False,Kaba.htm,False,,2
+kaba1281-60-1,,kaba1281,60,dóèmïìsaàn,dóèmïìsaàn,[],,[],,False,Kaba.htm,False,,1
+kaba1281-60-2,,kaba1281,60,dɔ̀mĩ̀sã́n,dɔ̀mĩ̀sã́n,[],,[],,False,Kaba.htm,False,,2
+kaba1281-70-1,,kaba1281,70,dóèsirïù,dóèsirïù,[],,[],,False,Kaba.htm,False,,1
+kaba1281-70-2,,kaba1281,70,dɔ̀sīɾí,dɔ̀sīɾí,[],,[],,False,Kaba.htm,False,,2
+kaba1281-80-1,,kaba1281,80,dóèjijooà,dóèjijooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-80-2,,kaba1281,80,dɔ̀dʒīdʒōó,dɔ̀dʒīdʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-90-1,,kaba1281,90,dóèjikaàra,dóèjikaàra,[],,[],,False,Kaba.htm,False,,1
+kaba1281-90-2,,kaba1281,90,dɔ̀dʒīkáɾā,dɔ̀dʒīkáɾā,[],,[],,False,Kaba.htm,False,,2
+kaba1281-100-1,,kaba1281,100,dóèdóekuè,dóèdóekuè,[],( 10 x 10 ),[],,False,Kaba.htm,False,,1
+kaba1281-100-2,,kaba1281,100,tól,tól,[],,[],,False,Kaba.htm,False,,1
+kaba1281-100-3,,kaba1281,100,dɔ̀dɔ̀kù,dɔ̀dɔ̀kù,[],( 10 x 10 ),[],,False,Kaba.htm,False,,2
+kaba1281-100-4,,kaba1281,100,kɔ̄ɾ káɾā,kɔ̄ɾ káɾā,[],,[],,False,Kaba.htm,False,,2
+kaba1281-200-1,,kaba1281,200,dóèdóejooà,dóèdóejooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-200-2,,kaba1281,200,kɔ̄ɾ dʒōó,kɔ̄ɾ dʒōó,[],,[],,False,Kaba.htm,False,,2
+kaba1281-1000-1,,kaba1281,1000,saàkïì kaàra,saàkïì kaàra,[],,[],,False,Kaba.htm,False,,1
+kaba1281-1000-2,,kaba1281,1000,dòɾò,dòɾò,[],(káɾā),[],,False,Kaba.htm,False,,2
+kaba1281-2000-1,,kaba1281,2000,saàkïi jooà,saàkïi jooà,[],,[],,False,Kaba.htm,False,,1
+kaba1281-2000-2,,kaba1281,2000,dòɾò dʒōó,dòɾò dʒōó,[],,[],,False,Kaba.htm,False,,2

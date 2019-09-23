@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tswa1255-1-1,,tswa1255,1,-nʼwè,-nʼwè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-1-2,,tswa1255,1,-nʼwè,-nʼwè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-2-1,,tswa1255,2,-mbirhí,-mbirhí,[],,[],,False,Tswa.htm,False,,1
+tswa1255-2-2,,tswa1255,2,-mbirhí,-mbirhí,[],,[],,False,Tswa.htm,False,,2
+tswa1255-3-1,,tswa1255,3,-nhárhù,-nhárhù,[],,[],,False,Tswa.htm,False,,1
+tswa1255-3-2,,tswa1255,3,-nhárhù,-nhárhù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-4-1,,tswa1255,4,-múnè,-múnè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-4-2,,tswa1255,4,-múnè,-múnè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-5-1,,tswa1255,5,ntlhánù,ntlhánù,[],,[],,False,Tswa.htm,False,,1
+tswa1255-5-2,,tswa1255,5,ntlhánù,ntlhánù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-6-1,,tswa1255,6,ntlhánù ni -nʼwè,ntlhánù ni -nʼwè,[],( 5 + 1 ),[],,False,Tswa.htm,False,,1
+tswa1255-6-2,,tswa1255,6,tsévù,tsévù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-7-1,,tswa1255,7,ntlhánù ni-mbìrhì,ntlhánù ni-mbìrhì,[],( 5 + 2 ),[],,False,Tswa.htm,False,,1
+tswa1255-7-2,,tswa1255,7,nkómbò,nkómbò,[],,[],,False,Tswa.htm,False,,2
+tswa1255-8-1,,tswa1255,8,ntlhánù ni -nhárhù,ntlhánù ni -nhárhù,[],( 5 + 3 ),[],,False,Tswa.htm,False,,1
+tswa1255-8-2,,tswa1255,8,nhúnɡù,nhúnɡù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-9-1,,tswa1255,9,ntlhánù ni -múnè,ntlhánù ni -múnè,[],( 5 + 4 ),[],,False,Tswa.htm,False,,1
+tswa1255-9-2,,tswa1255,9,káyí,káyí,[],,[],,False,Tswa.htm,False,,2
+tswa1255-10-1,,tswa1255,10,khúmè,khúmè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-10-2,,tswa1255,10,khúmè,khúmè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-11-1,,tswa1255,11,khúmè ni dí -nʼwè,khúmè ni dí -nʼwè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-11-2,,tswa1255,11,khúmè nʼwè,khúmè nʼwè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-12-1,,tswa1255,12,khúmè ni màbídì,khúmè ni màbídì,[],,[],,False,Tswa.htm,False,,1
+tswa1255-12-2,,tswa1255,12,khúmè mbirhí,khúmè mbirhí,[],,[],,False,Tswa.htm,False,,2
+tswa1255-13-1,,tswa1255,13,khúmè ni màrárú,khúmè ni màrárú,[],,[],,False,Tswa.htm,False,,1
+tswa1255-13-2,,tswa1255,13,khúmè nhárhù,khúmè nhárhù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-14-1,,tswa1255,14,khúmè ni mùní,khúmè ni mùní,[],,[],,False,Tswa.htm,False,,1
+tswa1255-14-2,,tswa1255,14,khúmè múnè,khúmè múnè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-15-1,,tswa1255,15,khúmè ni,khúmè ni,[],,[],,False,Tswa.htm,False,,1
+tswa1255-15-2,,tswa1255,15,khúmè ntlhánù,khúmè ntlhánù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-16-1,,tswa1255,16,khúmè ni ntlhánù ni -nʼwè,khúmè ni ntlhánù ni -nʼwè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-16-2,,tswa1255,16,khúmè tsévù,khúmè tsévù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-17-1,,tswa1255,17,khúme ni ntlhánù ni -mbìrhi,khúme ni ntlhánù ni -mbìrhi,[],,[],,False,Tswa.htm,False,,1
+tswa1255-17-2,,tswa1255,17,khúmè nkómbò,khúmè nkómbò,[],,[],,False,Tswa.htm,False,,2
+tswa1255-18-1,,tswa1255,18,khúme ni ntlhánù ni -nhárhù,khúme ni ntlhánù ni -nhárhù,[],,[],,False,Tswa.htm,False,,1
+tswa1255-18-2,,tswa1255,18,khúmè nhúnɡù,khúmè nhúnɡù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-19-1,,tswa1255,19,khúme ni ntlhánù ni -múnè,khúme ni ntlhánù ni -múnè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-19-2,,tswa1255,19,khúmè káyí,khúmè káyí,[],,[],,False,Tswa.htm,False,,2
+tswa1255-20-1,,tswa1255,20,màkúmè màmbírhì,màkúmè màmbírhì,[],,[],,False,Tswa.htm,False,,1
+tswa1255-20-2,,tswa1255,20,màkúmè mbirhí,màkúmè mbirhí,[],,[],,False,Tswa.htm,False,,2
+tswa1255-21-1,,tswa1255,21,màkúmè màmbírhì ni -nʼwè,màkúmè màmbírhì ni -nʼwè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-21-2,,tswa1255,21,màkúmè mbirhí nʼwè,màkúmè mbirhí nʼwè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-22-1,,tswa1255,22,màkúmè màmbírhì ni -mbìrhì,màkúmè màmbírhì ni -mbìrhì,[],,[],,False,Tswa.htm,False,,1
+tswa1255-22-2,,tswa1255,22,màkúmè mbirhí mbìrhì,màkúmè mbirhí mbìrhì,[],,[],,False,Tswa.htm,False,,2
+tswa1255-23-1,,tswa1255,23,màkúmè màmbírhì ni -nhárhù,màkúmè màmbírhì ni -nhárhù,[],,[],,False,Tswa.htm,False,,1
+tswa1255-23-2,,tswa1255,23,màkúmè mbirhí nhárhù,màkúmè mbirhí nhárhù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-24-1,,tswa1255,24,màkúmè màmbírhì ni -múnè,màkúmè màmbírhì ni -múnè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-24-2,,tswa1255,24,màkúmè mbirhí múnè,màkúmè mbirhí múnè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-25-1,,tswa1255,25,màkúmè màmbírhì ni ntlhánù,màkúmè màmbírhì ni ntlhánù,[],,[],,False,Tswa.htm,False,,1
+tswa1255-25-2,,tswa1255,25,màkúmè mbirhí ntlhánù,màkúmè mbirhí ntlhánù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-26-1,,tswa1255,26,màkúmè màmbírhì ni ntlh. ni -nʼwè,màkúmè màmbírhì ni ntlh. ni -nʼwè,[],,[],,False,Tswa.htm,True,,1
+tswa1255-26-2,,tswa1255,26,màkúmè mbirhí tsévù,màkúmè mbirhí tsévù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-27-1,,tswa1255,27,màkúmè màmbírhì ni ntlh. ni -mbìrhì,màkúmè màmbírhì ni ntlh. ni -mbìrhì,[],,[],,False,Tswa.htm,True,,1
+tswa1255-27-2,,tswa1255,27,màkúmè mbirhí nkómbò,màkúmè mbirhí nkómbò,[],,[],,False,Tswa.htm,False,,2
+tswa1255-28-1,,tswa1255,28,màkúmè màmbírhì ni ntlh. ni -nhárhù,màkúmè màmbírhì ni ntlh. ni -nhárhù,[],,[],,False,Tswa.htm,True,,1
+tswa1255-28-2,,tswa1255,28,màkúmè mbirhí nhúnɡù,màkúmè mbirhí nhúnɡù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-29-1,,tswa1255,29,màkúmè màmbírhì ni ntlh. ni -múnè,màkúmè màmbírhì ni ntlh. ni -múnè,[],,[],,False,Tswa.htm,True,,1
+tswa1255-29-2,,tswa1255,29,màkúmè mbirhí káyí,màkúmè mbirhí káyí,[],,[],,False,Tswa.htm,False,,2
+tswa1255-30-1,,tswa1255,30,màkúmè mànhárhù,màkúmè mànhárhù,[],,[],,False,Tswa.htm,False,,1
+tswa1255-30-2,,tswa1255,30,màkúmè mànhárhù,màkúmè mànhárhù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-40-1,,tswa1255,40,màkúmè wà màmúnè,màkúmè wà màmúnè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-40-2,,tswa1255,40,múnè wá màkúmè,múnè wá màkúmè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-50-1,,tswa1255,50,màkúmè wà màkúmè,màkúmè wà màkúmè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-50-2,,tswa1255,50,ntlhánù wá màkúmè,ntlhánù wá màkúmè,[],,[],,False,Tswa.htm,False,,2
+tswa1255-60-1,,tswa1255,60,màkúmè wà màkúmè ni -nʼwè,màkúmè wà màkúmè ni -nʼwè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-60-2,,tswa1255,60,màkúmè tsévù,màkúmè tsévù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-70-1,,tswa1255,70,màkúmè wà màkúmè ni -mbìrhì,màkúmè wà màkúmè ni -mbìrhì,[],,[],,False,Tswa.htm,False,,1
+tswa1255-70-2,,tswa1255,70,màkúmè nkómbò,màkúmè nkómbò,[],,[],,False,Tswa.htm,False,,2
+tswa1255-80-1,,tswa1255,80,màkúmè wà màkúmè ni -nhárhù,màkúmè wà màkúmè ni -nhárhù,[],,[],,False,Tswa.htm,False,,1
+tswa1255-80-2,,tswa1255,80,màkúmè nhúnɡù,màkúmè nhúnɡù,[],,[],,False,Tswa.htm,False,,2
+tswa1255-90-1,,tswa1255,90,màkúmè wà màkúmè ni -múnè,màkúmè wà màkúmè ni -múnè,[],,[],,False,Tswa.htm,False,,1
+tswa1255-90-2,,tswa1255,90,màkúmè káyí,màkúmè káyí,[],,[],,False,Tswa.htm,False,,2
+tswa1255-100-1,,tswa1255,100,dzànà,dzànà,[],,[],,False,Tswa.htm,False,,1
+tswa1255-100-2,,tswa1255,100,dzànà,dzànà,[],,[],,False,Tswa.htm,False,,2
+tswa1255-200-1,,tswa1255,200,madzànà màmbìrhì,madzànà màmbìrhì,[],,[],,False,Tswa.htm,False,,1
+tswa1255-200-2,,tswa1255,200,madzànà mbìrhì,madzànà mbìrhì,[],,[],,False,Tswa.htm,False,,2
+tswa1255-1000-1,,tswa1255,1000,ɡìdì,ɡìdì,[],,[],,False,Tswa.htm,False,,1
+tswa1255-1000-2,,tswa1255,1000,ɡìdì,ɡìdì,[],,[],,False,Tswa.htm,False,,2
+tswa1255-2000-1,,tswa1255,2000,maɡìdì màmbìrhì,maɡìdì màmbìrhì,[],,[],,False,Tswa.htm,False,,1
+tswa1255-2000-2,,tswa1255,2000,maɡìdì mbìrhì,maɡìdì mbìrhì,[],,[],,False,Tswa.htm,False,,2

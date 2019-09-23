@@ -1,0 +1,51 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sooo1256-1-1,,sooo1256,1,'nɛ́dɛ̀s,'nɛ́dɛ̀s,[],,[],,False,So.htm,False,,1
+sooo1256-1-2,,sooo1256,1,ɛdɛs,ɛdɛs,[],,[],,False,So.htm,False,,2
+sooo1256-2-1,,sooo1256,2,ínɛ̀'bɛ́c,ínɛ̀'bɛ́c,[],,[],,False,So.htm,False,,1
+sooo1256-2-2,,sooo1256,2,nɛbɛc,nɛbɛc,[],,[],,False,So.htm,False,,2
+sooo1256-3-1,,sooo1256,3,ínì'jɔ̀n,ínì'jɔ̀n,[],,[],,False,So.htm,False,,1
+sooo1256-3-2,,sooo1256,3,iyon,iyon,[],,[],,False,So.htm,False,,2
+sooo1256-4-1,,sooo1256,4,ín'ùáʔ,ín'ùáʔ,[],,[],,False,So.htm,False,,1
+sooo1256-4-2,,sooo1256,4,nowa,nowa,[],,[],,False,So.htm,False,,2
+sooo1256-5-1,,sooo1256,5,'íntùd,'íntùd,[],,[],,False,So.htm,False,,1
+sooo1256-5-2,,sooo1256,5,tuɗ,tuɗ,[],,[],,False,So.htm,False,,2
+sooo1256-6-1,,sooo1256,6,ˌíntùd ká ˈnɛ́dɛ̀s,ˌíntùd ká ˈnɛ́dɛ̀s,[],( 5+ 1 ),[],,False,So.htm,False,,1
+sooo1256-6-2,,sooo1256,6,tuɗ ka nɪ ɛdɛs,tuɗ ka nɪ ɛdɛs,[],( 5+ 1 ),[],,False,So.htm,False,,2
+sooo1256-7-1,,sooo1256,7,ˌíntùd ká ínɛ̀'bɛ̀c,ˌíntùd ká ínɛ̀'bɛ̀c,[],( 5+ 2 ),[],,False,So.htm,False,,1
+sooo1256-7-2,,sooo1256,7,tuɗ ka nɪ nɛbɛc,tuɗ ka nɪ nɛbɛc,[],( 5+ 2 ),[],,False,So.htm,False,,2
+sooo1256-8-1,,sooo1256,8,ˌíntùd ká ínì'jɔ́n,ˌíntùd ká ínì'jɔ́n,[],( 5+ 3 ),[],,False,So.htm,False,,1
+sooo1256-8-2,,sooo1256,8,tuɗ ka nɪ iyon,tuɗ ka nɪ iyon,[],( 5+ 3 ),[],,False,So.htm,False,,2
+sooo1256-9-1,,sooo1256,9,ˌíntùd ká ínùáʔ,ˌíntùd ká ínùáʔ,[],( 5+ 4 ),[],,False,So.htm,False,,1
+sooo1256-9-2,,sooo1256,9,tuɗ ka nɪ nowa,tuɗ ka nɪ nowa,[],( 5+ 4 ),[],,False,So.htm,False,,2
+sooo1256-10-1,,sooo1256,10,mì'míɾínìk,mì'míɾínìk,[],,[],,False,So.htm,False,,1
+sooo1256-10-2,,sooo1256,10,tuɗ en-ek iɠe,tuɗ en-ek iɠe,[],( hand-PL all),[],,False,So.htm,False,,2
+sooo1256-11-1,,sooo1256,11,mìmí 'ɾínìk ká 'nɛ́dɛ̀s,mìmí 'ɾínìk ká 'nɛ́dɛ̀s,[],,[],,False,So.htm,False,,1
+sooo1256-11-2,,sooo1256,11,tuɗ en-ek iɠe ka in ɛdɛs,tuɗ en-ek iɠe ka in ɛdɛs,[],,[],,False,So.htm,False,,2
+sooo1256-12-1,,sooo1256,12,mìmí 'ɾínìk ká ínɛ̀'bɛ̀c,mìmí 'ɾínìk ká ínɛ̀'bɛ̀c,[],,[],,False,So.htm,False,,1
+sooo1256-12-2,,sooo1256,12,tuɗ en-ek iɠe ka in nɛbɛc,tuɗ en-ek iɠe ka in nɛbɛc,[],,[],,False,So.htm,False,,2
+sooo1256-13-1,,sooo1256,13,mìmí 'ɾínìk ká ínì'jɔ́n,mìmí 'ɾínìk ká ínì'jɔ́n,[],,[],,False,So.htm,False,,1
+sooo1256-13-2,,sooo1256,13,tuɗ en-ek iɠe ka in iyon,tuɗ en-ek iɠe ka in iyon,[],,[],,False,So.htm,False,,2
+sooo1256-14-1,,sooo1256,14,mìmí 'ɾínìk ká ínùáʔ,mìmí 'ɾínìk ká ínùáʔ,[],,[],,False,So.htm,False,,1
+sooo1256-14-2,,sooo1256,14,tuɗ en-ek iɠe ka in nowa,tuɗ en-ek iɠe ka in nowa,[],,[],,False,So.htm,False,,2
+sooo1256-15-1,,sooo1256,15,mìmí 'ɾínìk ká ˌíntùd,mìmí 'ɾínìk ká ˌíntùd,[],,[],,False,So.htm,False,,1
+sooo1256-15-2,,sooo1256,15,tuɗ en-ek iɠe ka in + 6,tuɗ en-ek iɠe ka in + 6,[],,[],,False,So.htm,True,,2
+sooo1256-16-1,,sooo1256,16,mìmí 'ɾínìk ká ˌíntùd ká ˈnɛ́dɛ̀s,mìmí 'ɾínìk ká ˌíntùd ká ˈnɛ́dɛ̀s,[],,[],,False,So.htm,False,,1
+sooo1256-16-2,,sooo1256,16,tuɗ en-ek iɠe ka in + 7,tuɗ en-ek iɠe ka in + 7,[],,[],,False,So.htm,True,,2
+sooo1256-17-1,,sooo1256,17,mìmí 'ɾínìk ká ˌíntùd ká ínɛ̀'bɛ̀c,mìmí 'ɾínìk ká ˌíntùd ká ínɛ̀'bɛ̀c,[],,[],,False,So.htm,False,,1
+sooo1256-17-2,,sooo1256,17,tuɗ en-ek iɠe ka in + 8,tuɗ en-ek iɠe ka in + 8,[],,[],,False,So.htm,True,,2
+sooo1256-18-1,,sooo1256,18,mìmí 'ɾínìk ká ˌíntùd ká ínì'jɔ́n,mìmí 'ɾínìk ká ˌíntùd ká ínì'jɔ́n,[],,[],,False,So.htm,False,,1
+sooo1256-18-2,,sooo1256,18,tuɗ en-ek iɠe ka in + 9,tuɗ en-ek iɠe ka in + 9,[],,[],,False,So.htm,True,,2
+sooo1256-19-1,,sooo1256,19,mìmí 'ɾínìk ká in ˌíntùd ká ínùáʔ,mìmí 'ɾínìk ká in ˌíntùd ká ínùáʔ,[],,[],,False,So.htm,False,,1
+sooo1256-19-2,,sooo1256,19,tuɗ en-ek iɠe ka in,tuɗ en-ek iɠe ka in,[],,[],,False,So.htm,False,,2
+sooo1256-20-1,,sooo1256,20,mì'míɾínìk 'írkòn nɛ̀bɛ́c,mì'míɾínìk 'írkòn nɛ̀bɛ́c,[],,[],,False,So.htm,False,,1
+sooo1256-20-2,,sooo1256,20,ir-kon in nɛbɛc,ir-kon in nɛbɛc,[],( house -PL ),[],,False,So.htm,False,,2
+sooo1256-30-1,,sooo1256,30,ir-kon in iyon,ir-kon in iyon,[],,[],,False,So.htm,False,,2
+sooo1256-40-1,,sooo1256,40,ir-kon in nowa,ir-kon in nowa,[],,[],,False,So.htm,False,,2
+sooo1256-50-1,,sooo1256,50,mɪmɪr ka in tuɗ,mɪmɪr ka in tuɗ,[],,[],,False,So.htm,False,,2
+sooo1256-60-1,,sooo1256,60,mɪmɪr ka in tuɗ ka nɪ ɛdɛs,mɪmɪr ka in tuɗ ka nɪ ɛdɛs,[],,[],,False,So.htm,False,,2
+sooo1256-70-1,,sooo1256,70,mɪmɪr ka in tuɗ ka nɪ nɛbɛc,mɪmɪr ka in tuɗ ka nɪ nɛbɛc,[],,[],,False,So.htm,False,,2
+sooo1256-80-1,,sooo1256,80,mɪmɪr ka in tuɗ ka nɪ iyon,mɪmɪr ka in tuɗ ka nɪ iyon,[],,[],,False,So.htm,False,,2
+sooo1256-90-1,,sooo1256,90,mɪmɪr ka in tuɗ ka nɪ nowa,mɪmɪr ka in tuɗ ka nɪ nowa,[],,[],,False,So.htm,False,,2
+sooo1256-100-1,,sooo1256,100,ir ɛdɛs,ir ɛdɛs,[],,[],,False,So.htm,False,,2
+sooo1256-100-2,,sooo1256,100,ɪmia ka ni ɛdɛs,ɪmia ka ni ɛdɛs,[],,[],,False,So.htm,False,,2
+sooo1256-200-1,,sooo1256,200,ɪmia ka ni nɛbɛc,ɪmia ka ni nɛbɛc,[],,[],,False,So.htm,False,,2

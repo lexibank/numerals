@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mpot1241-1-1,,mpot1241,1,matˢe,matˢe,[],,[],,False,Morouas.htm,False,,1
+mpot1241-1-2,,mpot1241,1,hual,hual,[],,[],,False,Mpotovoro.htm,False,,1
+mpot1241-2-1,,mpot1241,2,rua,rua,[],,[],,False,Morouas.htm,False,,1
+mpot1241-2-2,,mpot1241,2,rue,rue,[],,[],,False,Mpotovoro.htm,False,,1
+mpot1241-3-1,,mpot1241,3,tolu,tolu,[],,[],,False,Morouas.htm,False,,1
+mpot1241-3-2,,mpot1241,3,til,til,[],,[],,False,Mpotovoro.htm,False,,1
+mpot1241-4-1,,mpot1241,4,βat,βat,[],,[],,False,Morouas.htm,False,,1
+mpot1241-4-2,,mpot1241,4,v̈at,v̈at,[],,[],,False,Mpotovoro.htm,False,,1
+mpot1241-5-1,,mpot1241,5,lima,lima,[],,[],,False,Morouas.htm,False,,1
+mpot1241-5-2,,mpot1241,5,lim̈e,lim̈e,[],,[],,False,Mpotovoro.htm,False,,1
+mpot1241-6-1,,mpot1241,6,lima-raβe,lima-raβe,[],( 5 + 1),[],,False,Morouas.htm,False,,1
+mpot1241-6-2,,mpot1241,6,hon,hon,[],,[],,False,Mpotovoro.htm,False,,1
+mpot1241-7-1,,mpot1241,7,lima-raβurua,lima-raβurua,[],( 5 + 2),[],,False,Morouas.htm,False,,1
+mpot1241-7-2,,mpot1241,7,huon-tit,huon-tit,[],( 5 + 2) ?,[],,False,Mpotovoro.htm,False,,1
+mpot1241-8-1,,mpot1241,8,lima-raβutol,lima-raβutol,[],( 5 + 3),[],,False,Morouas.htm,False,,1
+mpot1241-8-2,,mpot1241,8,ho-al,ho-al,[],( 5 + 3) ?,[],,False,Mpotovoro.htm,False,,1
+mpot1241-9-1,,mpot1241,9,lima-rapati,lima-rapati,[],( 5 + 4),[],,False,Morouas.htm,False,,1
+mpot1241-9-2,,mpot1241,9,xe-xβe,xe-xβe,[],( 5 + 4) ?,[],,False,Mpotovoro.htm,False,,1
+mpot1241-10-1,,mpot1241,10,sanaβulu,sanaβulu,[],,[],,False,Morouas.htm,False,,1
+mpot1241-10-2,,mpot1241,10,haŋav̈il,haŋav̈il,[],,[],,False,Mpotovoro.htm,False,,1

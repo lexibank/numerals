@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+busa1253-1-1,,busa1253,1,do,do,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-1-2,,busa1253,1,do,do,[],,[],,False,Busa.htm,False,,1
+busa1253-2-1,,busa1253,2,pia,pia,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-2-2,,busa1253,2,pla,pla,[],,[],,False,Busa.htm,False,,1
+busa1253-3-1,,busa1253,3,ʔààkɔ̃,ʔààkɔ̃,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-3-2,,busa1253,3,ʔààkɔ̃,ʔààkɔ̃,[],,[],,False,Busa.htm,False,,1
+busa1253-4-1,,busa1253,4,ʃííkɔ̃,ʃííkɔ̃,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-4-2,,busa1253,4,sííkɔ̃,sííkɔ̃,[],,[],,False,Busa.htm,False,,1
+busa1253-5-1,,busa1253,5,sɔ́o,sɔ́o,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-5-2,,busa1253,5,sɔ́ɔ́ro,sɔ́ɔ́ro,[],,[],,False,Busa.htm,False,,1
+busa1253-6-1,,busa1253,6,sóodo,sóodo,[],( 5 + 1 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-6-2,,busa1253,6,súddo,súddo,[],( 5 + 1 ),[],,False,Busa.htm,False,,1
+busa1253-7-1,,busa1253,7,soopia,soopia,[],( 5 + 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-7-2,,busa1253,7,súppla,súppla,[],( 5 + 2 ),[],,False,Busa.htm,False,,1
+busa1253-8-1,,busa1253,8,swààkɔ̃,swààkɔ̃,[],( 5 + 3 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-8-2,,busa1253,8,sɔ́rààkɔ̃,sɔ́rààkɔ̃,[],( 5 + 3 ),[],,False,Busa.htm,False,,1
+busa1253-9-1,,busa1253,9,kĩ́ṇdokwi,kĩ́ṇdokwi,[],[litː tear away 1 (from) 10],[],,False,Busa-Illo.htm,False,,1
+busa1253-9-2,,busa1253,9,kɛ̃́ndo,kɛ̃́ndo,[],( 10 - 1),[],,False,Busa.htm,False,,1
+busa1253-10-1,,busa1253,10,kwi,kwi,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-10-2,,busa1253,10,kurì,kurì,[],,[],,False,Busa.htm,False,,1
+busa1253-11-1,,busa1253,11,kwi wɛɛdo,kwi wɛɛdo,[],(litː 10 + 1 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-11-2,,busa1253,11,kurì awɛ́ɛ́do,kurì awɛ́ɛ́do,[],( 10 + 1 ),[],,False,Busa.htm,False,,1
+busa1253-12-1,,busa1253,12,kwi wɛɛpia,kwi wɛɛpia,[],(litː 10 + 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-12-2,,busa1253,12,kurì awɛ́ɛpla,kurì awɛ́ɛpla,[],( 10 + 2 ),[],,False,Busa.htm,False,,1
+busa1253-13-1,,busa1253,13,kwi wɛɛʔààkɔ̃,kwi wɛɛʔààkɔ̃,[],( litː 10 + 3 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-13-2,,busa1253,13,kurì awɛ́ɛʔààkɔ̃,kurì awɛ́ɛʔààkɔ̃,[],( 10 + 3 ),[],,False,Busa.htm,False,,1
+busa1253-14-1,,busa1253,14,ɡɛ̃̀o mɛ̀ǹ̩dosàí,ɡɛ̃̀o mɛ̀ǹ̩dosàí,[],( litː 15 less 1 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-14-2,,busa1253,14,ɡɛ̃̀ro donsàrí,ɡɛ̃̀ro donsàrí,[],( 15 - 1 ),[],,False,Busa.htm,False,,1
+busa1253-15-1,,busa1253,15,ɡɛ̃̀o,ɡɛ̃̀o,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-15-2,,busa1253,15,ɡɛ̃̀ro,ɡɛ̃̀ro,[],,[],,False,Busa.htm,False,,1
+busa1253-16-1,,busa1253,16,ɡɛ̃̀o wɛɛdo,ɡɛ̃̀o wɛɛdo,[],(litː 15 + 1 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-16-2,,busa1253,16,ɡɛ̃̀ro awɛ́ɛ́do,ɡɛ̃̀ro awɛ́ɛ́do,[],( 15 + 1 ),[],,False,Busa.htm,False,,1
+busa1253-17-1,,busa1253,17,ɡɛ̃̀o wɛɛpia,ɡɛ̃̀o wɛɛpia,[],(litː 15 + 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-17-2,,busa1253,17,ɡɛ̃̀ro awɛ́ɛpla,ɡɛ̃̀ro awɛ́ɛpla,[],( 15 + 2 ),[],,False,Busa.htm,False,,1
+busa1253-18-1,,busa1253,18,gɛ̃̀o wɛɛʔààkɔ̃,gɛ̃̀o wɛɛʔààkɔ̃,[],(litː 20 - 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-18-2,,busa1253,18,ɡɛ̃̀ro awɛ́ɛʔààkɔ̃,ɡɛ̃̀ro awɛ́ɛʔààkɔ̃,[],( 15 + 3 ),[],,False,Busa.htm,False,,1
+busa1253-19-1,,busa1253,19,bào mɛ̀ǹ̩dosàí,bào mɛ̀ǹ̩dosàí,[],(litː 20 less 1 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-19-2,,busa1253,19,bàro donsàrí,bàro donsàrí,[],( 20 - 1 ),[],,False,Busa.htm,False,,1
+busa1253-20-1,,busa1253,20,bào,bào,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-20-2,,busa1253,20,bàro,bàro,[],,[],,False,Busa.htm,False,,1
+busa1253-21-1,,busa1253,21,bào wɛɛdo,bào wɛɛdo,[],( litː 20 + 1 unit ),[],,False,Busa-Illo.htm,False,,1
+busa1253-21-2,,busa1253,21,bàro awɛ́ɛ́do,bàro awɛ́ɛ́do,[],( 20 + 1 ),[],,False,Busa.htm,False,,1
+busa1253-22-1,,busa1253,22,bào wɛɛpia,bào wɛɛpia,[],( litː 20 + 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-22-2,,busa1253,22,bàro awɛ́ɛpla,bàro awɛ́ɛpla,[],( 20 + 2 ),[],,False,Busa.htm,False,,1
+busa1253-23-1,,busa1253,23,bào wɛɛʔààkɔ̃,bào wɛɛʔààkɔ̃,[],( litː 20 + 3 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-23-2,,busa1253,23,bàro awɛ́ɛʔààkɔ̃,bàro awɛ́ɛʔààkɔ̃,[],( 20 + 3 ),[],,False,Busa.htm,False,,1
+busa1253-24-1,,busa1253,24,bào wɛɛʃííkↄ̃,bào wɛɛʃííkↄ̃,[],( litː 25 less 1),[],,False,Busa-Illo.htm,False,,1
+busa1253-24-2,,busa1253,24,bàrasɔ́ɔ́ro donsàrí,bàrasɔ́ɔ́ro donsàrí,[],( 25 - 1 ),[],,False,Busa.htm,False,,1
+busa1253-25-1,,busa1253,25,bàasɔ́odò,bàasɔ́odò,[],( lit: 20 + ),[],,False,Busa-Illo.htm,False,,1
+busa1253-25-2,,busa1253,25,bàrasɔ́ɔ́ro,bàrasɔ́ɔ́ro,[],,[],,False,Busa.htm,False,,1
+busa1253-26-1,,busa1253,26,bàasɔ́odò wɛɛdo,bàasɔ́odò wɛɛdo,[],( litː 25 + 1 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-26-2,,busa1253,26,bàrasɔ́ɔ́ro awɛ́ɛ́do,bàrasɔ́ɔ́ro awɛ́ɛ́do,[],( 25 + 1 ),[],,False,Busa.htm,False,,1
+busa1253-27-1,,busa1253,27,bàasɔ́odò wɛɛpia,bàasɔ́odò wɛɛpia,[],( litː 25 + 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-27-2,,busa1253,27,bàrasɔ́ɔ́ro awɛ́ɛpla,bàrasɔ́ɔ́ro awɛ́ɛpla,[],( 25 + 2 ),[],,False,Busa.htm,False,,1
+busa1253-28-1,,busa1253,28,bàasↄ́odo wɛɛʔààkɔ̃,bàasↄ́odo wɛɛʔààkɔ̃,[],( litː 30 - 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-28-2,,busa1253,28,bàrakurì plansàrí,bàrakurì plansàrí,[],( 20 + 10 - 2 ),[],,False,Busa.htm,False,,1
+busa1253-29-1,,busa1253,29,bàakwi mɛ̀ṇ̀dosàí,bàakwi mɛ̀ṇ̀dosàí,[],( litː 30 - 1 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-29-2,,busa1253,29,bàrakurì donsàrí,bàrakurì donsàrí,[],( 20 + 10 - 1 ),[],,False,Busa.htm,False,,1
+busa1253-30-1,,busa1253,30,bàakwi,bàakwi,[],( 20 + 10 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-30-2,,busa1253,30,bàrakurì,bàrakurì,[],( 20 + 10 ),[],,False,Busa.htm,False,,1
+busa1253-40-1,,busa1253,40,bàpia,bàpia,[],( 20 x 2 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-40-2,,busa1253,40,bùpla,bùpla,[],( 20 x 2 ),[],,False,Busa.htm,False,,1
+busa1253-50-1,,busa1253,50,bàpiakwi,bàpiakwi,[],( 20 x 2 + 10),[],,False,Busa-Illo.htm,False,,1
+busa1253-50-2,,busa1253,50,bùplaakurì,bùplaakurì,[],,[],,False,Busa.htm,False,,1
+busa1253-60-1,,busa1253,60,bààkɔ̃,bààkɔ̃,[],( 20 x 3 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-60-2,,busa1253,60,bàààkɔ̃,bàààkɔ̃,[],( 20 x 3 ),[],,False,Busa.htm,False,,1
+busa1253-70-1,,busa1253,70,bààkɔ̃kwi,bààkɔ̃kwi,[],( 60 + 10 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-70-2,,busa1253,70,bàààkɔ̃akurì,bàààkɔ̃akurì,[],,[],,False,Busa.htm,False,,1
+busa1253-80-1,,busa1253,80,bàʃííɔ̃,bàʃííɔ̃,[],( 20 x 4 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-80-2,,busa1253,80,bàsííkɔ̃,bàsííkɔ̃,[],( 20 x 4 ),[],,False,Busa.htm,False,,1
+busa1253-90-1,,busa1253,90,bàʃííɔ̃kwì,bàʃííɔ̃kwì,[],( 80 + 10 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-90-2,,busa1253,90,bàsííkɔ̃akurì,bàsííkɔ̃akurì,[],,[],,False,Busa.htm,False,,1
+busa1253-100-1,,busa1253,100,bàsɔo,bàsɔo,[],( 20 x 5 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-100-2,,busa1253,100,bàsɔ́ɔ́ro,bàsɔ́ɔ́ro,[],( 20 x 5 ),[],,False,Busa.htm,False,,1
+busa1253-200-1,,busa1253,200,ʔòaa,ʔòaa,[],,[],,False,Busa-Illo.htm,False,,1
+busa1253-200-2,,busa1253,200,wàà do,wàà do,[],,[],,False,Busa.htm,False,,1
+busa1253-1000-1,,busa1253,1000,ʔòaa sɔ́o,ʔòaa sɔ́o,[],( 200 x 5 ),[],,False,Busa-Illo.htm,False,,1
+busa1253-1000-2,,busa1253,1000,wàà sɔ́ɔ́ro,wàà sɔ́ɔ́ro,[],( 200 x 5 ),[],,False,Busa.htm,False,,1
+busa1253-2000-1,,busa1253,2000,ʔòaa kwi,ʔòaa kwi,[],( 200 x 10),[],,False,Busa-Illo.htm,False,,1
+busa1253-2000-2,,busa1253,2000,wàà sɔ́sɔ́ɔ́ro lɛ́ò pla,wàà sɔ́sɔ́ɔ́ro lɛ́ò pla,[],( 200 x 5 x 2 ),[],,False,Busa.htm,False,,1

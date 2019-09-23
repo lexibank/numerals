@@ -1,0 +1,25 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bong1287-1-1,,bong1287,1,itkwase,itkwase,[],,[],,False,Bonggo.htm,False,,1
+bong1287-1-2,,bong1287,1,tekuase,tekuase,[],,[],,False,Bonggo.htm,False,,1
+bong1287-2-1,,bong1287,2,erkuat,erkuat,[],,[],,False,Bonggo.htm,False,,1
+bong1287-2-2,,bong1287,2,arkwat,arkwat,[],,[],,False,Bonggo.htm,False,,1
+bong1287-3-1,,bong1287,3,tor,tor,[],,[],,False,Bonggo.htm,False,,1
+bong1287-4-1,,bong1287,4,fau,fau,[],,[],,False,Bonggo.htm,False,,1
+bong1287-5-1,,bong1287,5,miekfirpose,miekfirpose,[],,[],,False,Bonggo.htm,False,,1
+bong1287-5-2,,bong1287,5,rim,rim,[],,[],,False,Bonggo.htm,False,,1
+bong1287-6-1,,bong1287,6,miekfari tekuase,miekfari tekuase,[],( 5+1 ),[],,False,Bonggo.htm,False,,1
+bong1287-7-1,,bong1287,7,miekfari erkuat,miekfari erkuat,[],( 5+2 ),[],,False,Bonggo.htm,False,,1
+bong1287-8-1,,bong1287,8,miekfari tor,miekfari tor,[],( 5+3 ),[],,False,Bonggo.htm,False,,1
+bong1287-9-1,,bong1287,9,miekfari fau,miekfari fau,[],( 5+4 ),[],,False,Bonggo.htm,False,,1
+bong1287-10-1,,bong1287,10,miekfari foroma,miekfari foroma,[],,[],,False,Bonggo.htm,False,,1
+bong1287-11-1,,bong1287,11,miekfari foroma-dakfarui tekuase,miekfari foroma-dakfarui tekuase,[],,[],,False,Bonggo.htm,False,,1
+bong1287-12-1,,bong1287,12,miekfari foroma-dakfarui erkuat,miekfari foroma-dakfarui erkuat,[],,[],,False,Bonggo.htm,False,,1
+bong1287-13-1,,bong1287,13,miekfari foroma-dakfarui tor,miekfari foroma-dakfarui tor,[],,[],,False,Bonggo.htm,False,,1
+bong1287-14-1,,bong1287,14,miekfari foroma-dakfarui fau,miekfari foroma-dakfarui fau,[],,[],,False,Bonggo.htm,False,,1
+bong1287-15-1,,bong1287,15,miekfari foroma-dakfarui rim,miekfari foroma-dakfarui rim,[],,[],,False,Bonggo.htm,False,,1
+bong1287-16-1,,bong1287,16,miekfari foroma-dakfarui miekfari tekuase,miekfari foroma-dakfarui miekfari tekuase,[],,[],,False,Bonggo.htm,False,,1
+bong1287-17-1,,bong1287,17,miekfari foroma-dakfarui miekfari erkuat,miekfari foroma-dakfarui miekfari erkuat,[],,[],,False,Bonggo.htm,False,,1
+bong1287-18-1,,bong1287,18,miekfari foroma-dakfarui miekfari tor,miekfari foroma-dakfarui miekfari tor,[],,[],,False,Bonggo.htm,False,,1
+bong1287-19-1,,bong1287,19,miekfari foroma-dakfarui miekfari fau,miekfari foroma-dakfarui miekfari fau,[],,[],,False,Bonggo.htm,False,,1
+bong1287-20-1,,bong1287,20,temot tekuase,temot tekuase,[],( lit: 'one person'),[],,False,Bonggo.htm,False,,1
+bong1287-40-1,,bong1287,40,temot erkuart,temot erkuart,[],( lit: 'two persons'),[],,False,Bonggo.htm,False,,1

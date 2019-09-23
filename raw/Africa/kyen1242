@@ -1,0 +1,116 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kyen1242-1-1,,kyen1242,1,dúú,dúú,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-1-2,,kyen1242,1,dūː,dūː,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-1-3,,kyen1242,1,do,do,[],,[],,False,Kyenga.htm,False,,3
+kyen1242-2-1,,kyen1242,2,fʸáā,fʸáā,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-2-2,,kyen1242,2,fʲâː,fʲâː,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-2-3,,kyen1242,2,hia,hia,[],,[],,False,Kyenga.htm,False,,3
+kyen1242-2-4,,kyen1242,2,fia,fia,[],,[],,False,Kyenga.htm,False,,3
+kyen1242-3-1,,kyen1242,3,ˀāàː,ˀāàː,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-3-2,,kyen1242,3,ʔàː,ʔàː,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-3-3,,kyen1242,3,ʔà,ʔà,[],,[],,False,Kyenga.htm,False,,3
+kyen1242-4-1,,kyen1242,4,ʃíí,ʃíí,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-4-2,,kyen1242,4,ʃíː,ʃíː,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-4-3,,kyen1242,4,ʃí,ʃí,[],,[],,False,Kyenga.htm,False,,3
+kyen1242-5-1,,kyen1242,5,sɔ́ɔ́rū,sɔ́ɔ́rū,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-5-2,,kyen1242,5,sɔ̂ːwû,sɔ̂ːwû,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-5-3,,kyen1242,5,sɔɔlu,sɔɔlu,[],,[],,False,Kyenga.htm,False,,3
+kyen1242-6-1,,kyen1242,6,sɔ̄ɔ̄dū,sɔ̄ɔ̄dū,[],( 5 + 1 ),[],,False,Kyenga.htm,False,,1
+kyen1242-6-2,,kyen1242,6,sɔ̂ːdū,sɔ̂ːdū,[],( 5 + 1 ),[],,False,Kyenga.htm,False,,2
+kyen1242-6-3,,kyen1242,6,sɔɔdu,sɔɔdu,[],( 5 + 1 ),[],,False,Kyenga.htm,False,,3
+kyen1242-7-1,,kyen1242,7,sʷāhʸáā,sʷāhʸáā,[],( 5 + 2 ),[],,False,Kyenga.htm,False,,1
+kyen1242-7-2,,kyen1242,7,sɔ̂ːfʲá,sɔ̂ːfʲá,[],( 5 + 2 ),[],,False,Kyenga.htm,False,,2
+kyen1242-7-3,,kyen1242,7,sɔɔhia,sɔɔhia,[],( 5 + 2 ),[],,False,Kyenga.htm,False,,3
+kyen1242-8-1,,kyen1242,8,sōōwà,sōōwà,[],( 5 + 3 ),[],,False,Kyenga.htm,False,,1
+kyen1242-8-2,,kyen1242,8,sōːuwà,sōːuwà,[],( 5 + 3 ),[],,False,Kyenga.htm,False,,2
+kyen1242-8-3,,kyen1242,8,soowà,soowà,[],( 5 + 3 ),[],,False,Kyenga.htm,False,,3
+kyen1242-9-1,,kyen1242,9,sòòʃí,sòòʃí,[],( 5 + 4 ),[],,False,Kyenga.htm,False,,1
+kyen1242-9-2,,kyen1242,9,sōwēʃíː,sōwēʃíː,[],( 5 + 4 ),[],,False,Kyenga.htm,False,,2
+kyen1242-9-3,,kyen1242,9,sooʃí,sooʃí,[],( 5 + 4 ),[],,False,Kyenga.htm,False,,3
+kyen1242-10-1,,kyen1242,10,kōōrì,kōōrì,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-10-2,,kyen1242,10,kōːlì,kōːlì,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-10-3,,kyen1242,10,korì,korì,[],,[],,False,Kyenga.htm,False,,3
+kyen1242-11-1,,kyen1242,11,kōōlì ˀā wōlē dù zɔ̏,kōōlì ˀā wōlē dù zɔ̏,[],(litː 10 + 1 ),[],,False,Kyenga.htm,False,,1
+kyen1242-11-2,,kyen1242,11,kōːlāːwēːduzò,kōːlāːwēːduzò,[],(litː 10 + 1 ),[],,False,Kyenga.htm,False,,2
+kyen1242-11-3,,kyen1242,11,korì awéréduzↄ̀,korì awéréduzↄ̀,[],(litː 10 + 1 ),[],,False,Kyenga.htm,False,,3
+kyen1242-12-1,,kyen1242,12,kōōlì ˀā wōlē hʸáa zɔ̀,kōōlì ˀā wōlē hʸáa zɔ̀,[],(litː 10 + 2 ),[],,False,Kyenga.htm,False,,1
+kyen1242-12-2,,kyen1242,12,kōːlāːwēːfʲâːdò,kōːlāːwēːfʲâːdò,[],(litː 10 + 2 ),[],,False,Kyenga.htm,False,,2
+kyen1242-12-3,,kyen1242,12,korì awéréhiazↄ̀,korì awéréhiazↄ̀,[],(litː 10 + 2 ),[],,False,Kyenga.htm,False,,3
+kyen1242-13-1,,kyen1242,13,kōōlì ˀā wōlē ˀà zɔ̀,kōōlì ˀā wōlē ˀà zɔ̀,[],(litː 10 + 3 ),[],,False,Kyenga.htm,False,,1
+kyen1242-13-2,,kyen1242,13,kōːlāːwéːʔàzↄ̀,kōːlāːwéːʔàzↄ̀,[],(litː 10 + 3 ),[],,False,Kyenga.htm,False,,2
+kyen1242-13-3,,kyen1242,13,korì awéréʔàzↄ̀,korì awéréʔàzↄ̀,[],(litː 10 + 3 ),[],,False,Kyenga.htm,False,,3
+kyen1242-14-1,,kyen1242,14,kōōlì ˀā wōlē ʃíí zɔ̀,kōōlì ˀā wōlē ʃíí zɔ̀,[],(litː 10 + 4 ),[],,False,Kyenga.htm,False,,1
+kyen1242-14-2,,kyen1242,14,kōːlāːwēːʃīːdō,kōːlāːwēːʃīːdō,[],(litː 10 + 4 ),[],,False,Kyenga.htm,False,,2
+kyen1242-14-3,,kyen1242,14,korì awéréʃízↄ̀,korì awéréʃízↄ̀,[],(litː 10 + 4 ),[],,False,Kyenga.htm,False,,3
+kyen1242-15-1,,kyen1242,15,kōōlì ˀā wōlē sɔ́ɔ́rū zɔ̀,kōōlì ˀā wōlē sɔ́ɔ́rū zɔ̀,[],(litː 10 + 5 ),[],,False,Kyenga.htm,False,,1
+kyen1242-15-2,,kyen1242,15,kōːlāːwēːsɔ̂lzò,kōːlāːwēːsɔ̂lzò,[],(litː 10 + 5 ),[],,False,Kyenga.htm,False,,2
+kyen1242-15-3,,kyen1242,15,wakasɔlu,wakasɔlu,[],(litː 10 + 5 ),[],,False,Kyenga.htm,False,,3
+kyen1242-16-1,,kyen1242,16,kōōlì ˀā wōlē sɔ̄ɔ̄dū zɔ̏,kōōlì ˀā wōlē sɔ̄ɔ̄dū zɔ̏,[],(10+5+1 ),[],,False,Kyenga.htm,False,,1
+kyen1242-16-2,,kyen1242,16,kōːlāːwésɔ̀dùzò,kōːlāːwésɔ̀dùzò,[],(litː 10 + 5 +1 ),[],,False,Kyenga.htm,False,,2
+kyen1242-16-3,,kyen1242,16,korì awérésɔↄdu,korì awérésɔↄdu,[],(litː 10 + 5 + 1 ),[],,False,Kyenga.htm,False,,3
+kyen1242-17-1,,kyen1242,17,kōōlì ˀā wōlē sʷāhʸá zɔ̀,kōōlì ˀā wōlē sʷāhʸá zɔ̀,[],(10+5+2 ),[],,False,Kyenga.htm,False,,1
+kyen1242-17-2,,kyen1242,17,kōːlāːwésɔ̄fʲâzò,kōːlāːwésɔ̄fʲâzò,[],(litː 10 + 5 + 2 ),[],,False,Kyenga.htm,False,,2
+kyen1242-17-3,,kyen1242,17,korìawérésɔɔhia,korìawérésɔɔhia,[],(litː 10 + 5 + 2 ),[],,False,Kyenga.htm,False,,3
+kyen1242-18-1,,kyen1242,18,kōōlì ˀā wōlē sōōwà zɔ̏,kōōlì ˀā wōlē sōōwà zɔ̏,[],(10+5+3 ),[],,False,Kyenga.htm,False,,1
+kyen1242-18-2,,kyen1242,18,kōːlāːwésùwɔ̀l,kōːlāːwésùwɔ̀l,[],(litː 10 + 5 + 3 ),[],,False,Kyenga.htm,False,,2
+kyen1242-18-3,,kyen1242,18,korìawérésoowà,korìawérésoowà,[],(litː 10 + 5 + 3 ),[],,False,Kyenga.htm,False,,3
+kyen1242-19-1,,kyen1242,19,kōōlì ˀā wōlē sòòʃīī zɔ̀,kōōlì ˀā wōlē sòòʃīī zɔ̀,[],(10+5 +4),[],,False,Kyenga.htm,False,,1
+kyen1242-19-2,,kyen1242,19,kōːlāːwésɔ̀ʃīːdō,kōːlāːwésɔ̀ʃīːdō,[],(litː 10 + 5  + 4),[],,False,Kyenga.htm,False,,2
+kyen1242-19-3,,kyen1242,19,korìawérésooʃí,korìawérésooʃí,[],(litː 10 + 5 + 4),[],,False,Kyenga.htm,False,,3
+kyen1242-20-1,,kyen1242,20,kèèdù,kèèdù,[],(20 x 1),[],,False,Kyenga.htm,False,,1
+kyen1242-20-2,,kyen1242,20,kēːdū,kēːdū,[],(20 x 1),[],,False,Kyenga.htm,False,,2
+kyen1242-20-3,,kyen1242,20,keedu,keedu,[],(20 x 1),[],,False,Kyenga.htm,False,,3
+kyen1242-21-1,,kyen1242,21,kèèdù ˀā wōlē dù zɔ̏,kèèdù ˀā wōlē dù zɔ̏,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-21-2,,kyen1242,21,keedu awéréduzɔ̀,keedu awéréduzɔ̀,[],(20 + 1),[],,False,Kyenga.htm,False,,3
+kyen1242-22-1,,kyen1242,22,kèèdù ˀā wōlē hʸáa zɔ̀,kèèdù ˀā wōlē hʸáa zɔ̀,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-22-2,,kyen1242,22,keedu awéréhiazɔ̀,keedu awéréhiazɔ̀,[],(20 + 2),[],,False,Kyenga.htm,False,,3
+kyen1242-23-1,,kyen1242,23,kèèdù ˀā wōlē ˀà zɔ̀,kèèdù ˀā wōlē ˀà zɔ̀,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-23-2,,kyen1242,23,keedu awéréʔàzɔ̀,keedu awéréʔàzɔ̀,[],(20 + 3),[],,False,Kyenga.htm,False,,3
+kyen1242-24-1,,kyen1242,24,kèèdù ˀā wōlē ʃíí zɔ̀,kèèdù ˀā wōlē ʃíí zɔ̀,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-24-2,,kyen1242,24,keedu awéréʃízɔ̀,keedu awéréʃízɔ̀,[],(20 + 4),[],,False,Kyenga.htm,False,,3
+kyen1242-25-1,,kyen1242,25,kèèdù ˀā wōlē sɔ́ɔ́rū zɔ̀,kèèdù ˀā wōlē sɔ́ɔ́rū zɔ̀,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-25-2,,kyen1242,25,kedosɔlu,kedosɔlu,[],(20 + 5),[],,False,Kyenga.htm,False,,3
+kyen1242-26-1,,kyen1242,26,kèèdù ˀā wōlē sɔ̄ɔ̄dū zɔ̏,kèèdù ˀā wōlē sɔ̄ɔ̄dū zɔ̏,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-26-2,,kyen1242,26,keedu awérésↄↄduzɔ̀,keedu awérésↄↄduzɔ̀,[],(20 + 6),[],,False,Kyenga.htm,False,,3
+kyen1242-27-1,,kyen1242,27,kèèdù ˀā wōlē sʷāhʸá zɔ̀,kèèdù ˀā wōlē sʷāhʸá zɔ̀,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-27-2,,kyen1242,27,keedu awérésↄↄhiazɔ̀,keedu awérésↄↄhiazɔ̀,[],(20 + 7),[],,False,Kyenga.htm,False,,3
+kyen1242-28-1,,kyen1242,28,kèèdù ˀā wōlē sōōwà zɔ̏,kèèdù ˀā wōlē sōōwà zɔ̏,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-28-2,,kyen1242,28,keedu awérésoowàzɔ̀,keedu awérésoowàzɔ̀,[],(20 + 8),[],,False,Kyenga.htm,False,,3
+kyen1242-29-1,,kyen1242,29,kèèdù ˀā wōlē sòòʃīī zɔ̀,kèèdù ˀā wōlē sòòʃīī zɔ̀,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-29-2,,kyen1242,29,keedu awérésooʃízɔ̀,keedu awérésooʃízɔ̀,[],(20 + 9),[],,False,Kyenga.htm,False,,3
+kyen1242-30-1,,kyen1242,30,kèdóó kólì,kèdóó kólì,[],"( 20 x 1, 10 )",[],,False,Kyenga.htm,False,,1
+kyen1242-30-2,,kyen1242,30,kēdóːkólì,kēdóːkólì,[],( 20 + 10 ),[],,False,Kyenga.htm,False,,2
+kyen1242-30-3,,kyen1242,30,kedokorì,kedokorì,[],( 20 + 10 ),[],,False,Kyenga.htm,False,,3
+kyen1242-40-1,,kyen1242,40,kèè fʸáà,kèè fʸáà,[],( 20 x 2 ),[],,False,Kyenga.htm,False,,1
+kyen1242-40-2,,kyen1242,40,kēːfʲâː,kēːfʲâː,[],( 20 x 2 ),[],,False,Kyenga.htm,False,,2
+kyen1242-40-3,,kyen1242,40,keehia,keehia,[],( 20 x 2 ),[],,False,Kyenga.htm,False,,3
+kyen1242-50-1,,kyen1242,50,kèè fʸá ˀà wòlè kólì zɔ̏,kèè fʸá ˀà wòlè kólì zɔ̏,[],( 20 x 2 with 10 ),[],,False,Kyenga.htm,False,,1
+kyen1242-50-2,,kyen1242,50,ke̊ːfʲâːwékūlzò,ke̊ːfʲâːwékūlzò,[],( 40 + 10 ),[],,False,Kyenga.htm,False,,2
+kyen1242-50-3,,kyen1242,50,keehia awokorìzɔ̀,keehia awokorìzɔ̀,[],( 40 + 10 ),[],,False,Kyenga.htm,False,,3
+kyen1242-60-1,,kyen1242,60,kèè ˀȁ,kèè ˀȁ,[],( 20 x 3 ),[],,False,Kyenga.htm,False,,1
+kyen1242-60-2,,kyen1242,60,kēːʔà,kēːʔà,[],( 20 x 3 ),[],,False,Kyenga.htm,False,,2
+kyen1242-60-3,,kyen1242,60,keeʔà,keeʔà,[],( 20 x 3 ),[],,False,Kyenga.htm,False,,3
+kyen1242-70-1,,kyen1242,70,kèè ˀà wòlè kólì zɔ̏,kèè ˀà wòlè kólì zɔ̏,[],( 20 x 3 with 10),[],,False,Kyenga.htm,False,,1
+kyen1242-70-2,,kyen1242,70,kēːʔàːwékūlzò,kēːʔàːwékūlzò,[],( 60 + 10 ),[],,False,Kyenga.htm,False,,2
+kyen1242-70-3,,kyen1242,70,keeʔà awokorìzɔ̀,keeʔà awokorìzɔ̀,[],( 60 + 10 ),[],,False,Kyenga.htm,False,,3
+kyen1242-80-1,,kyen1242,80,kèè ʃí,kèè ʃí,[],( 20 x 4 ),[],,False,Kyenga.htm,False,,1
+kyen1242-80-2,,kyen1242,80,kēːʃíː,kēːʃíː,[],( 20 x 4 ),[],,False,Kyenga.htm,False,,2
+kyen1242-80-3,,kyen1242,80,keeʃí,keeʃí,[],( 20 x 4 ),[],,False,Kyenga.htm,False,,3
+kyen1242-90-1,,kyen1242,90,kèè ʃí ˀà wòlè kólì zɔ̏,kèè ʃí ˀà wòlè kólì zɔ̏,[],( 20 x 4 with 10 ),[],,False,Kyenga.htm,False,,1
+kyen1242-90-2,,kyen1242,90,kēːʃíːwékūlzò,kēːʃíːwékūlzò,[],( 80 + 10 ),[],,False,Kyenga.htm,False,,2
+kyen1242-90-3,,kyen1242,90,keeʃí awokorìzɔ̀,keeʃí awokorìzɔ̀,[],( 80 + 10 ),[],,False,Kyenga.htm,False,,3
+kyen1242-100-1,,kyen1242,100,kèdɔ́ɔ́ sɔ́rù,kèdɔ́ɔ́ sɔ́rù,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-100-2,,kyen1242,100,kèèssɔ́ɔ́rù,kèèssɔ́ɔ́rù,[],( 20 x 5 ),[],,False,Kyenga.htm,False,,1
+kyen1242-100-3,,kyen1242,100,kēːsó͡ù,kēːsó͡ù,[],( 20 x 5 ),[],,False,Kyenga.htm,False,,2
+kyen1242-100-4,,kyen1242,100,keesɔlu,keesɔlu,[],( 20 x 5 ),[],,False,Kyenga.htm,False,,3
+kyen1242-200-1,,kyen1242,200,kèèkórì,kèèkórì,[],( 20 x 10 ),[],,False,Kyenga.htm,False,,1
+kyen1242-200-2,,kyen1242,200,kèèsɔ́ɔ́rù fʸá,kèèsɔ́ɔ́rù fʸá,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-200-3,,kyen1242,200,kēːʔōkūːlì,kēːʔōkūːlì,[],( 20 x 10 ),[],,False,Kyenga.htm,False,,2
+kyen1242-200-4,,kyen1242,200,keekorì,keekorì,[],( 20 x 10 ),[],,False,Kyenga.htm,False,,3
+kyen1242-300-1,,kyen1242,300,ɡūrkīnkó͡ìdù,ɡūrkīnkó͡ìdù,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-300-2,,kyen1242,300,400. ɡēːkólì,400. ɡēːkólì,[],,[],,False,Kyenga.htm,True,,2
+kyen1242-1000-1,,kyen1242,1000,kèèsɔ́ɔ́rù kóórì,kèèsɔ́ɔ́rù kóórì,[],(100 x 10),[],,False,Kyenga.htm,False,,1
+kyen1242-1000-2,,kyen1242,1000,kó͡ī̀wàsói kōːʷ,kó͡ī̀wàsói kōːʷ,[],,[],,False,Kyenga.htm,False,,2
+kyen1242-1000-3,,kyen1242,1000,keekorì sↄↄlu,keekorì sↄↄlu,[],(20 x 10 x 5),[],,False,Kyenga.htm,False,,3
+kyen1242-2000-1,,kyen1242,2000,kèèsɔ́ɔ́rù kèèdù,kèèsɔ́ɔ́rù kèèdù,[],,[],,False,Kyenga.htm,False,,1
+kyen1242-2000-2,,kyen1242,2000,keekorì korì,keekorì korì,[],(20 x 10 x 10),[],,False,Kyenga.htm,False,,3

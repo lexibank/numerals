@@ -1,0 +1,27 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+taii1241-1-1,,taii1241,1,nokom,nokom,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-2-1,,taii1241,2,omɨŋal,omɨŋal,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-3-1,,taii1241,3,omɨŋal nokom,omɨŋal nokom,[],( 2 + 1),[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-4-1,,taii1241,4,omɨŋal omɨŋal,omɨŋal omɨŋal,[],( 2 + 2),[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-4-2,,taii1241,4,tɨŋɡaup,tɨŋɡaup,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-5-1,,taii1241,5,mamɨnt,mamɨnt,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-6-1,,taii1241,6,kaŋɡol,kaŋɡol,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-7-1,,taii1241,7,kuŋɡul,kuŋɡul,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-8-1,,taii1241,8,ñjel,ñjel,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-9-1,,taii1241,9,añjɨp,añjɨp,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-10-1,,taii1241,10,wañjɨlem,wañjɨlem,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-11-1,,taii1241,11,aŋɡɨp,aŋɡɨp,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-12-1,,taii1241,12,umɨŋɡan,umɨŋɡan,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-13-1,,taii1241,13,aŋɡɨp pɨs,aŋɡɨp pɨs,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-14-1,,taii1241,14,wañjɨlem pɨs,wañjɨlem pɨs,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-15-1,,taii1241,15,aŋɡɨp pɨs,aŋɡɨp pɨs,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-15-2,,taii1241,15,16. ñjel pɨs,16. ñjel pɨs,[],,[],,False,Tai-Tay-NPG.htm,True,,1
+taii1241-15-3,,taii1241,15,17. kuŋɡul pɨs,17. kuŋɡul pɨs,[],,[],,False,Tai-Tay-NPG.htm,True,,1
+taii1241-15-4,,taii1241,15,18. kaŋɡol pɨs,18. kaŋɡol pɨs,[],,[],,False,Tai-Tay-NPG.htm,True,,1
+taii1241-19-1,,taii1241,19,mamɨnt pɨs,mamɨnt pɨs,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-19-2,,taii1241,19,20. tɨŋɡaup pɨs,20. tɨŋɡaup pɨs,[],,[],,False,Tai-Tay-NPG.htm,True,,1
+taii1241-19-3,,taii1241,19,ñɨn jul,ñɨn jul,[],,[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-40-1,,taii1241,40,ñɨn jul omɨŋal,ñɨn jul omɨŋal,[],(20 x 2),[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-60-1,,taii1241,60,ñɨn jul omɨŋal nokom,ñɨn jul omɨŋal nokom,[],( 20 x 3),[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-80-1,,taii1241,80,ñɨn jul omɨŋal omɨŋal,ñɨn jul omɨŋal omɨŋal,[],( 20 x 2 x 2),[],,False,Tai-Tay-NPG.htm,False,,1
+taii1241-100-1,,taii1241,100,ñɨn jul mamɨnt,ñɨn jul mamɨnt,[],( 20 x 5),[],,False,Tai-Tay-NPG.htm,False,,1

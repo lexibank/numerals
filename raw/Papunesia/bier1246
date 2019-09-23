@@ -1,0 +1,12 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bier1246-1-1,,bier1246,1,sakai,sakai,[],,[],,False,Bieria.htm,False,,1
+bier1246-1-2,,bier1246,1,seket,seket,[],,[],,False,Bieria.htm,False,,1
+bier1246-2-1,,bier1246,2,i-lua,i-lua,[],,[],,False,Bieria.htm,False,,1
+bier1246-3-1,,bier1246,3,i-tou,i-tou,[],,[],,False,Bieria.htm,False,,1
+bier1246-4-1,,bier1246,4,i-βas,i-βas,[],,[],,False,Bieria.htm,False,,1
+bier1246-5-1,,bier1246,5,i-lima,i-lima,[],,[],,False,Bieria.htm,False,,1
+bier1246-6-1,,bier1246,6,loktaᵑɡai,loktaᵑɡai,[],(5 + 1),[],,False,Bieria.htm,False,,1
+bier1246-7-1,,bier1246,7,lokua,lokua,[],(5 + 2),[],,False,Bieria.htm,False,,1
+bier1246-8-1,,bier1246,8,loko-tou,loko-tou,[],(5 + 3),[],,False,Bieria.htm,False,,1
+bier1246-9-1,,bier1246,9,loko-βas,loko-βas,[],(5 + 4),[],,False,Bieria.htm,False,,1
+bier1246-10-1,,bier1246,10,lualima,lualima,[],(5 + 5),[],,False,Bieria.htm,False,,1

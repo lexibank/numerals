@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kagu1239-1-1,,kagu1239,1,-mwedu,-mwedu,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-2-1,,kagu1239,2,-ili,-ili,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-3-1,,kagu1239,3,-datu,-datu,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-4-1,,kagu1239,4,-ne,-ne,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-5-1,,kagu1239,5,-ʃano,-ʃano,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-6-1,,kagu1239,6,sita or mtandatu,sita or mtandatu,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-7-1,,kagu1239,7,saba or mfuŋɡate,saba or mfuŋɡate,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-7-2,,kagu1239,7,mfuŋʰate,mfuŋʰate,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-8-1,,kagu1239,8,munana or mnana,munana or mnana,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-9-1,,kagu1239,9,ikenda,ikenda,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-10-1,,kagu1239,10,ikumi or dikumi,ikumi or dikumi,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-11-1,,kagu1239,11,ikumi na -mwedu,ikumi na -mwedu,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-12-1,,kagu1239,12,ikumi na -ili,ikumi na -ili,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-13-1,,kagu1239,13,ikumi na -datu,ikumi na -datu,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-14-1,,kagu1239,14,ikumi na -ne,ikumi na -ne,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-15-1,,kagu1239,15,ikumi na -ʃano,ikumi na -ʃano,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-16-1,,kagu1239,16,ikumi na sita or mtandatu,ikumi na sita or mtandatu,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-17-1,,kagu1239,17,ikumi na saba ormfuŋɡate,ikumi na saba ormfuŋɡate,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-17-2,,kagu1239,17,mfuŋʰate,mfuŋʰate,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-18-1,,kagu1239,18,ikumi na munana or mnana,ikumi na munana or mnana,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-19-1,,kagu1239,19,ikumi na ikenda,ikumi na ikenda,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-20-1,,kagu1239,20,iʃilini or makumi meli,iʃilini or makumi meli,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-21-1,,kagu1239,21,iʃilini na -mwedu,iʃilini na -mwedu,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-22-1,,kagu1239,22,iʃilini na-ili,iʃilini na-ili,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-23-1,,kagu1239,23,iʃilini na-datu,iʃilini na-datu,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-24-1,,kagu1239,24,iʃilini na -ne,iʃilini na -ne,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-25-1,,kagu1239,25,iʃilini na -ʃano,iʃilini na -ʃano,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-26-1,,kagu1239,26,iʃilini na sita or mtandatu,iʃilini na sita or mtandatu,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-27-1,,kagu1239,27,iʃilini nasaba or mfuŋɡate,iʃilini nasaba or mfuŋɡate,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-27-2,,kagu1239,27,mfuŋʰate,mfuŋʰate,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-28-1,,kagu1239,28,iʃilini namunana or mnana,iʃilini namunana or mnana,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-29-1,,kagu1239,29,iʃilini naikenda,iʃilini naikenda,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-30-1,,kagu1239,30,makumi madatu,makumi madatu,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-40-1,,kagu1239,40,makumi mane,makumi mane,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-50-1,,kagu1239,50,makumi maʃano or hamsini,makumi maʃano or hamsini,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-60-1,,kagu1239,60,makumi mtandatu or sitini,makumi mtandatu or sitini,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-70-1,,kagu1239,70,makumi mfuŋɡate,makumi mfuŋɡate,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-70-2,,kagu1239,70,mfuŋʰate or sibini,mfuŋʰate or sibini,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-80-1,,kagu1239,80,makumi mnana,makumi mnana,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-90-1,,kagu1239,90,makumi ikenda or tisini,makumi ikenda or tisini,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-100-1,,kagu1239,100,iɡana,iɡana,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-200-1,,kagu1239,200,maɡana meli,maɡana meli,[],,[],,False,Kagulu.htm,False,,1
+kagu1239-1000-1,,kagu1239,1000,elfu or dole,elfu or dole,[],,[],,False,Kagulu.htm,True,,1
+kagu1239-2000-1,,kagu1239,2000,elfu mbili or dole mbili,elfu mbili or dole mbili,[],,[],,False,Kagulu.htm,True,,1

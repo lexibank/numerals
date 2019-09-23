@@ -1,0 +1,80 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mpie1238-1-1,,mpie1238,1,wɔrɔ,wɔrɔ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-1-2,,mpie1238,1,nɡuatɔ,nɡuatɔ,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-2-1,,mpie1238,2,ɓɑ,ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-2-2,,mpie1238,2,ɓá,ɓá,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-3-1,,mpie1238,3,lɑli,lɑli,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-3-2,,mpie1238,3,laali,laali,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-4-1,,mpie1238,4,nɑ̃,nɑ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-4-2,,mpie1238,4,nán,nán,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-5-1,,mpie1238,5,tɑnĩ,tɑnĩ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-5-2,,mpie1238,5,taáni,taáni,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-6-1,,mpie1238,6,tɑnɔ̃ wɔrɔ,tɑnɔ̃ wɔrɔ,[],( 5 + 1 ),[],,False,Mpyemo.htm,False,,1
+mpie1238-6-2,,mpie1238,6,taán(i) nɛ nɡuatɔ,taán(i) nɛ nɡuatɔ,[],( 5 + 1 ),[],,False,Mpyemo.htm,False,,2
+mpie1238-7-1,,mpie1238,7,tɑnɔ̃ ɓɑ,tɑnɔ̃ ɓɑ,[],( 5 + 2 ),[],,False,Mpyemo.htm,False,,1
+mpie1238-7-2,,mpie1238,7,taán(i) nɛ ɓá,taán(i) nɛ ɓá,[],( 5 + 2 ),[],,False,Mpyemo.htm,False,,2
+mpie1238-8-1,,mpie1238,8,tɑnɔ̃ lɑli,tɑnɔ̃ lɑli,[],( 5 + 3 ),[],,False,Mpyemo.htm,False,,1
+mpie1238-8-2,,mpie1238,8,taán(i) nɛ laali,taán(i) nɛ laali,[],( 5 + 3 ),[],,False,Mpyemo.htm,False,,2
+mpie1238-9-1,,mpie1238,9,tɑnɔ̃ nɑ̃,tɑnɔ̃ nɑ̃,[],( 5 + 4 ),[],,False,Mpyemo.htm,False,,1
+mpie1238-9-2,,mpie1238,9,taán(i) nɛ nán,taán(i) nɛ nán,[],( 5 + 4 ),[],,False,Mpyemo.htm,False,,2
+mpie1238-10-1,,mpie1238,10,kɑmɔ̃,kɑmɔ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-10-2,,mpie1238,10,kaamó,kaamó,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-11-1,,mpie1238,11,kɑmɔ̃ nɛ̃ wɔrɔ,kɑmɔ̃ nɛ̃ wɔrɔ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-11-2,,mpie1238,11,kaamó nɛ nɡuatɔ,kaamó nɛ nɡuatɔ,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-12-1,,mpie1238,12,kɑmɔ̃ nɛ̃ ɓɑ,kɑmɔ̃ nɛ̃ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-12-2,,mpie1238,12,kaamó nɛ ɓá,kaamó nɛ ɓá,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-13-1,,mpie1238,13,kɑmɔ̃ nɛ̃ lɑli,kɑmɔ̃ nɛ̃ lɑli,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-13-2,,mpie1238,13,kaamó nɛ laali,kaamó nɛ laali,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-14-1,,mpie1238,14,kɑmɔ̃ nɛ̃ nɑ̃,kɑmɔ̃ nɛ̃ nɑ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-14-2,,mpie1238,14,kaamó nɛ nán,kaamó nɛ nán,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-15-1,,mpie1238,15,kɑmɔ̃ nɛ̃ tɑnĩ,kɑmɔ̃ nɛ̃ tɑnĩ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-15-2,,mpie1238,15,kaamó nɛ taáni,kaamó nɛ taáni,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-16-1,,mpie1238,16,kɑmɔ̃ nɛ̃ tɑnɔ̃ wɔrɔ,kɑmɔ̃ nɛ̃ tɑnɔ̃ wɔrɔ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-16-2,,mpie1238,16,kaamó nɛ taán(i) nɛ nɡuatɔ,kaamó nɛ taán(i) nɛ nɡuatɔ,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-17-1,,mpie1238,17,kɑmɔ̃ nɛ̃ tɑnɔ̃ ɓɑ,kɑmɔ̃ nɛ̃ tɑnɔ̃ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-17-2,,mpie1238,17,kaamó nɛ taán(i) nɛ ɓá,kaamó nɛ taán(i) nɛ ɓá,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-18-1,,mpie1238,18,kɑmɔ̃ nɛ̃ tɑnɔ̃ lɑli,kɑmɔ̃ nɛ̃ tɑnɔ̃ lɑli,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-18-2,,mpie1238,18,kaamó nɛ taán(i) nɛ laali,kaamó nɛ taán(i) nɛ laali,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-19-1,,mpie1238,19,kɑmɔ̃ nɛ̃ tɑnɔ̃ nɑ̃,kɑmɔ̃ nɛ̃ tɑnɔ̃ nɑ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-19-2,,mpie1238,19,kaamó nɛ taán(i) nɛ nán,kaamó nɛ taán(i) nɛ nán,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-20-1,,mpie1238,20,mɛ̃kɑ ɓɑ,mɛ̃kɑ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-20-2,,mpie1238,20,mɛkaa ɓá,mɛkaa ɓá,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-21-1,,mpie1238,21,mɛ̃kɑ ɓɑ nɛ̃ wɔrɔ,mɛ̃kɑ ɓɑ nɛ̃ wɔrɔ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-21-2,,mpie1238,21,mɛkaa ɓá nɛ nɡuatɔ,mɛkaa ɓá nɛ nɡuatɔ,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-22-1,,mpie1238,22,mɛ̃kɑ ɓɑ nɛ̃ ɓɑ,mɛ̃kɑ ɓɑ nɛ̃ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-22-2,,mpie1238,22,mɛkaa ɓá nɛ ɓá,mɛkaa ɓá nɛ ɓá,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-23-1,,mpie1238,23,mɛ̃kɑ ɓɑ nɛ̃ lɑli,mɛ̃kɑ ɓɑ nɛ̃ lɑli,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-23-2,,mpie1238,23,mɛkaa ɓá nɛ laali,mɛkaa ɓá nɛ laali,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-24-1,,mpie1238,24,mɛ̃kɑ ɓɑ nɛ̃ nɑ̃,mɛ̃kɑ ɓɑ nɛ̃ nɑ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-24-2,,mpie1238,24,mɛkaa ɓá nɛ nán,mɛkaa ɓá nɛ nán,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-25-1,,mpie1238,25,mɛ̃kɑ ɓɑ nɛ̃ tɑnĩ,mɛ̃kɑ ɓɑ nɛ̃ tɑnĩ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-25-2,,mpie1238,25,mɛkaa ɓá nɛ taáni,mɛkaa ɓá nɛ taáni,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-26-1,,mpie1238,26,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ wɔrɔ,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ wɔrɔ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-26-2,,mpie1238,26,mɛkaa ɓá nɛ taán(i) nɛ nɡuatɔ,mɛkaa ɓá nɛ taán(i) nɛ nɡuatɔ,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-27-1,,mpie1238,27,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ ɓɑ,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-27-2,,mpie1238,27,mɛkaa ɓá nɛ taán(i) nɛ ɓá,mɛkaa ɓá nɛ taán(i) nɛ ɓá,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-28-1,,mpie1238,28,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ lɑli,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ lɑli,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-28-2,,mpie1238,28,mɛkaa ɓá nɛ taán(i) nɛ laali,mɛkaa ɓá nɛ taán(i) nɛ laali,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-29-1,,mpie1238,29,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ nɑ̃,mɛ̃kɑ ɓɑ nɛ̃ tɑnɔ̃ nɑ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-29-2,,mpie1238,29,mɛkaa ɓá nɛ taán(i) nɛ nán,mɛkaa ɓá nɛ taán(i) nɛ nán,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-30-1,,mpie1238,30,mɛ̃kɑ lɑli,mɛ̃kɑ lɑli,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-30-2,,mpie1238,30,mɛkaa laali,mɛkaa laali,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-40-1,,mpie1238,40,mɛ̃kɑ nɑ̃,mɛ̃kɑ nɑ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-40-2,,mpie1238,40,mɛkaa nán,mɛkaa nán,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-50-1,,mpie1238,50,mɛ̃kɑ tɑnĩ,mɛ̃kɑ tɑnĩ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-50-2,,mpie1238,50,mɛkaa taáni,mɛkaa taáni,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-60-1,,mpie1238,60,mɛ̃kɑ tɑnɔ̃ wɔrɔ,mɛ̃kɑ tɑnɔ̃ wɔrɔ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-60-2,,mpie1238,60,mɛkaa taáni nɛ nɡuatɔ,mɛkaa taáni nɛ nɡuatɔ,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-70-1,,mpie1238,70,mɛ̃kɑ tɑnɔ̃ ɓɑ,mɛ̃kɑ tɑnɔ̃ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-70-2,,mpie1238,70,mɛkaa taáni nɛ ɓá,mɛkaa taáni nɛ ɓá,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-80-1,,mpie1238,80,mɛ̃kɑ tɑnɔ̃ lɑli,mɛ̃kɑ tɑnɔ̃ lɑli,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-80-2,,mpie1238,80,mɛkaa taáni nɛ laali,mɛkaa taáni nɛ laali,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-90-1,,mpie1238,90,mɛ̃kɑ tɑnɔ̃ nɑ̃,mɛ̃kɑ tɑnɔ̃ nɑ̃,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-90-2,,mpie1238,90,mɛkaa taáni nɛ nán,mɛkaa taáni nɛ nán,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-100-1,,mpie1238,100,ɡomɑ̃ɛ,ɡomɑ̃ɛ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-100-2,,mpie1238,100,ɡɔmaí,ɡɔmaí,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-100-3,,mpie1238,100,101. ɡɔmaí nɛ nɡuatɔ,101. ɡɔmaí nɛ nɡuatɔ,[],,[],,False,Mpyemo.htm,True,,2
+mpie1238-200-1,,mpie1238,200,ɡomɑ̃ɛ ɓɑ,ɡomɑ̃ɛ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-1000-1,,mpie1238,1000,tomɑ̃ɛ,tomɑ̃ɛ,[],,[],,False,Mpyemo.htm,False,,1
+mpie1238-1000-2,,mpie1238,1000,tɔmaí nɡuatɔ,tɔmaí nɡuatɔ,[],,[],,False,Mpyemo.htm,False,,2
+mpie1238-2000-1,,mpie1238,2000,tomɑ̃ɛ ɓɑ,tomɑ̃ɛ ɓɑ,[],,[],,False,Mpyemo.htm,False,,1

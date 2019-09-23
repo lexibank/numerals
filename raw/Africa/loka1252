@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+loka1252-1-1,,loka1252,1,wàná,wàná,[],,[],,False,Lokaa.htm,False,,1
+loka1252-2-1,,loka1252,2,yàpòó,yàpòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-3-1,,loka1252,3,yàtélé,yàtélé,[],,[],,False,Lokaa.htm,False,,1
+loka1252-4-1,,loka1252,4,yànàá,yànàá,[],,[],,False,Lokaa.htm,False,,1
+loka1252-5-1,,loka1252,5,yàtə́ə́n,yàtə́ə́n,[],,[],,False,Lokaa.htm,False,,1
+loka1252-6-1,,loka1252,6,yàtə́ə́n-wàná,yàtə́ə́n-wàná,[],( 5 + 1 ),[],,False,Lokaa.htm,False,,1
+loka1252-7-1,,loka1252,7,yàtə́ə́n-yàpòó,yàtə́ə́n-yàpòó,[],( 5 + 2 ),[],,False,Lokaa.htm,False,,1
+loka1252-8-1,,loka1252,8,yàtə́ə́n-yàtélé,yàtə́ə́n-yàtélé,[],( 5 + 3 ),[],,False,Lokaa.htm,False,,1
+loka1252-9-1,,loka1252,9,yàtə́ə́n-yànàá,yàtə́ə́n-yànàá,[],( 5 + 4 ),[],,False,Lokaa.htm,False,,1
+loka1252-10-1,,loka1252,10,jòó,jòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-11-1,,loka1252,11,jòó-wàná,jòó-wàná,[],( 10 + 1 ),[],,False,Lokaa.htm,False,,1
+loka1252-12-1,,loka1252,12,jòó-yàpòó,jòó-yàpòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-13-1,,loka1252,13,jòó-yàtélé,jòó-yàtélé,[],,[],,False,Lokaa.htm,False,,1
+loka1252-14-1,,loka1252,14,jòó-yànàá,jòó-yànàá,[],,[],,False,Lokaa.htm,False,,1
+loka1252-15-1,,loka1252,15,jìb,jìb,[],,[],,False,Lokaa.htm,False,,1
+loka1252-16-1,,loka1252,16,jìb-wàná,jìb-wàná,[],( 15 + 1 ),[],,False,Lokaa.htm,False,,1
+loka1252-17-1,,loka1252,17,jìb-yàpòó,jìb-yàpòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-18-1,,loka1252,18,jìb-yàtélé,jìb-yàtélé,[],,[],,False,Lokaa.htm,False,,1
+loka1252-19-1,,loka1252,19,jìb-yànàá,jìb-yànàá,[],,[],,False,Lokaa.htm,False,,1
+loka1252-20-1,,loka1252,20,lɛ̀yáú,lɛ̀yáú,[],,[],,False,Lokaa.htm,False,,1
+loka1252-21-1,,loka1252,21,lɛ̀yáú òpə́lì wàná,lɛ̀yáú òpə́lì wàná,[],,[],,False,Lokaa.htm,False,,1
+loka1252-22-1,,loka1252,22,lɛ̀yáú òpə́lì yàpòó,lɛ̀yáú òpə́lì yàpòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-23-1,,loka1252,23,lɛ̀yáú òpə́lì yàtélé,lɛ̀yáú òpə́lì yàtélé,[],,[],,False,Lokaa.htm,False,,1
+loka1252-24-1,,loka1252,24,lɛ̀yáú òpə́lì yànàá,lɛ̀yáú òpə́lì yànàá,[],,[],,False,Lokaa.htm,False,,1
+loka1252-25-1,,loka1252,25,lɛ̀yáú òpə́lì yàtə́ə́n,lɛ̀yáú òpə́lì yàtə́ə́n,[],,[],,False,Lokaa.htm,False,,1
+loka1252-26-1,,loka1252,26,lɛ̀yáú òpə́lì yàtə́ə́n-wàná,lɛ̀yáú òpə́lì yàtə́ə́n-wàná,[],,[],,False,Lokaa.htm,False,,1
+loka1252-27-1,,loka1252,27,lɛ̀yáú òpə́lì yàtə́ə́n-yàpòó,lɛ̀yáú òpə́lì yàtə́ə́n-yàpòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-28-1,,loka1252,28,lɛ̀yáú òpə́lì yàtə́ə́n-yàtélé,lɛ̀yáú òpə́lì yàtə́ə́n-yàtélé,[],,[],,False,Lokaa.htm,False,,1
+loka1252-29-1,,loka1252,29,lɛ̀yáú òpə́lì yàtə́ə́n-yànàá,lɛ̀yáú òpə́lì yàtə́ə́n-yànàá,[],,[],,False,Lokaa.htm,False,,1
+loka1252-30-1,,loka1252,30,lɛ̀yáú òpə́lì jòó,lɛ̀yáú òpə́lì jòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-40-1,,loka1252,40,àápòó,àápòó,[],( 20 x 2 ),[],,False,Lokaa.htm,False,,1
+loka1252-50-1,,loka1252,50,àápòó òpə́lì jòó,àápòó òpə́lì jòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-60-1,,loka1252,60,àátélé,àátélé,[],( 20 x 3 ),[],,False,Lokaa.htm,False,,1
+loka1252-70-1,,loka1252,70,àátélé òpə́lì jòó,àátélé òpə́lì jòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-80-1,,loka1252,80,àánàá,àánàá,[],( 20 x 4 ),[],,False,Lokaa.htm,False,,1
+loka1252-90-1,,loka1252,90,àánàá òpə́lì jòó,àánàá òpə́lì jòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-100-1,,loka1252,100,àátə́ə́n,àátə́ə́n,[],( 20 x 5 ),[],,False,Lokaa.htm,False,,1
+loka1252-200-1,,loka1252,200,àájòó,àájòó,[],,[],,False,Lokaa.htm,False,,1
+loka1252-200-2,,loka1252,200,400. lédù,400. lédù,[],,[],,False,Lokaa.htm,True,,1
+loka1252-200-3,,loka1252,200,800. ádù àpòó,800. ádù àpòó,[],,[],,False,Lokaa.htm,True,,1
+loka1252-1000-1,,loka1252,1000,ádù àpòó òpə́lì àájòó,ádù àpòó òpə́lì àájòó,[],( 800 + 200 ),[],,False,Lokaa.htm,False,,1
+loka1252-2000-1,,loka1252,2000,ádù àtə́ə́n,ádù àtə́ə́n,[],,[],,False,Lokaa.htm,False,,1

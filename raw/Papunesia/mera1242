@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mera1242-1-1,,mera1242,1,tasa,tasa,[],,[],,False,Melemela.htm,False,,1
+mera1242-2-1,,mera1242,2,lua,lua,[],,[],,False,Melemela.htm,False,,1
+mera1242-3-1,,mera1242,3,tolu,tolu,[],,[],,False,Melemela.htm,False,,1
+mera1242-4-1,,mera1242,4,hiva,hiva,[],,[],,False,Melemela.htm,False,,1
+mera1242-5-1,,mera1242,5,lima,lima,[],,[],,False,Melemela.htm,False,,1
+mera1242-6-1,,mera1242,6,pantasa,pantasa,[],( 5 + 1 ),[],,False,Melemela.htm,False,,1
+mera1242-7-1,,mera1242,7,pandilua,pandilua,[],( 5 + 2 ),[],,False,Melemela.htm,False,,1
+mera1242-8-1,,mera1242,8,pantolu,pantolu,[],( 5 + 3 ),[],,False,Melemela.htm,False,,1
+mera1242-9-1,,mera1242,9,yalasue,yalasue,[],,[],,False,Melemela.htm,False,,1
+mera1242-10-1,,mera1242,10,savulu,savulu,[],(tasa),[],,False,Melemela.htm,False,,1
+mera1242-11-1,,mera1242,11,savulu tasa timana tasa,savulu tasa timana tasa,[],,[],,False,Melemela.htm,False,,1
+mera1242-12-1,,mera1242,12,savulu tasa timana lua,savulu tasa timana lua,[],,[],,False,Melemela.htm,False,,1
+mera1242-13-1,,mera1242,13,savulu tasa timana tolu,savulu tasa timana tolu,[],,[],,False,Melemela.htm,False,,1
+mera1242-14-1,,mera1242,14,savulu tasa timana hiva,savulu tasa timana hiva,[],,[],,False,Melemela.htm,False,,1
+mera1242-15-1,,mera1242,15,savulu tasa timana lima,savulu tasa timana lima,[],,[],,False,Melemela.htm,False,,1
+mera1242-16-1,,mera1242,16,savulu tasa timana pantasa,savulu tasa timana pantasa,[],,[],,False,Melemela.htm,False,,1
+mera1242-17-1,,mera1242,17,savulu tasa timana pandilua,savulu tasa timana pandilua,[],,[],,False,Melemela.htm,False,,1
+mera1242-18-1,,mera1242,18,savulu tasa timana pantolu,savulu tasa timana pantolu,[],,[],,False,Melemela.htm,False,,1
+mera1242-19-1,,mera1242,19,savulu tasa timana yalasue,savulu tasa timana yalasue,[],,[],,False,Melemela.htm,False,,1
+mera1242-20-1,,mera1242,20,savulu lua,savulu lua,[],,[],,False,Melemela.htm,False,,1
+mera1242-21-1,,mera1242,21,savulu lua timana tasa,savulu lua timana tasa,[],,[],,False,Melemela.htm,False,,1
+mera1242-22-1,,mera1242,22,savulu lua timana lua,savulu lua timana lua,[],,[],,False,Melemela.htm,False,,1
+mera1242-23-1,,mera1242,23,savulu lua timana tolu,savulu lua timana tolu,[],,[],,False,Melemela.htm,False,,1
+mera1242-24-1,,mera1242,24,savulu lua timana hiva,savulu lua timana hiva,[],,[],,False,Melemela.htm,False,,1
+mera1242-25-1,,mera1242,25,savulu lua timana lima,savulu lua timana lima,[],,[],,False,Melemela.htm,False,,1
+mera1242-26-1,,mera1242,26,savulu lua timana pantasa,savulu lua timana pantasa,[],,[],,False,Melemela.htm,False,,1
+mera1242-27-1,,mera1242,27,savulu lua timana pandilua,savulu lua timana pandilua,[],,[],,False,Melemela.htm,False,,1
+mera1242-28-1,,mera1242,28,savulu lua timana pantolu,savulu lua timana pantolu,[],,[],,False,Melemela.htm,False,,1
+mera1242-29-1,,mera1242,29,savulu lua timana yalasue,savulu lua timana yalasue,[],,[],,False,Melemela.htm,False,,1
+mera1242-30-1,,mera1242,30,savulu tolu,savulu tolu,[],,[],,False,Melemela.htm,False,,1
+mera1242-40-1,,mera1242,40,savulu hiva,savulu hiva,[],,[],,False,Melemela.htm,False,,1
+mera1242-50-1,,mera1242,50,savulu lima,savulu lima,[],,[],,False,Melemela.htm,False,,1
+mera1242-60-1,,mera1242,60,savulu pantasa,savulu pantasa,[],,[],,False,Melemela.htm,False,,1
+mera1242-70-1,,mera1242,70,savulu pandilua,savulu pandilua,[],,[],,False,Melemela.htm,False,,1
+mera1242-80-1,,mera1242,80,savulu pantolu,savulu pantolu,[],,[],,False,Melemela.htm,False,,1
+mera1242-90-1,,mera1242,90,savulu yalasue,savulu yalasue,[],,[],,False,Melemela.htm,False,,1
+mera1242-100-1,,mera1242,100,savulu savulu,savulu savulu,[],,[],,False,Melemela.htm,False,,1
+mera1242-100-2,,mera1242,100,savulu sobo,savulu sobo,[],,[],,False,Melemela.htm,False,,1
+mera1242-200-1,,mera1242,200,savulu savulu lua,savulu savulu lua,[],,[],,False,Melemela.htm,False,,1
+mera1242-1000-1,,mera1242,1000,savulu sobo savulu,savulu sobo savulu,[],,[],,False,Melemela.htm,False,,1
+mera1242-2000-1,,mera1242,2000,savulu sobo savulu lua,savulu sobo savulu lua,[],,[],,False,Melemela.htm,False,,1

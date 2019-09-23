@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nkoy1244-1-1,,nkoy1244,1,kamo,kamo,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-2-1,,nkoy1244,2,tubili,tubili,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-3-1,,nkoy1244,3,tuhatu,tuhatu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-4-1,,nkoy1244,4,tuna,tuna,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-5-1,,nkoy1244,5,mutanu,mutanu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-6-1,,nkoy1244,6,mutanu na kamo,mutanu na kamo,[],( 5 + 1 ),[],,False,Nkoya.htm,False,,1
+nkoy1244-7-1,,nkoy1244,7,mutanu na tubili,mutanu na tubili,[],( 5 + 2 ),[],,False,Nkoya.htm,False,,1
+nkoy1244-8-1,,nkoy1244,8,mutanu na tahatu,mutanu na tahatu,[],( 5 + 3 ),[],,False,Nkoya.htm,False,,1
+nkoy1244-9-1,,nkoy1244,9,mutanu na tuna,mutanu na tuna,[],( 5 + 4 ),[],,False,Nkoya.htm,False,,1
+nkoy1244-10-1,,nkoy1244,10,likumi,likumi,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-11-1,,nkoy1244,11,likumi na kamo,likumi na kamo,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-12-1,,nkoy1244,12,likumi na tubili,likumi na tubili,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-13-1,,nkoy1244,13,likumi na tuhatu,likumi na tuhatu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-14-1,,nkoy1244,14,likumi na tuna,likumi na tuna,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-15-1,,nkoy1244,15,likumi na mutanu,likumi na mutanu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-16-1,,nkoy1244,16,likumi na mutanu na kamo,likumi na mutanu na kamo,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-17-1,,nkoy1244,17,likumi na mutanu na tubili,likumi na mutanu na tubili,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-18-1,,nkoy1244,18,likumi na mutanu na tuhatu,likumi na mutanu na tuhatu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-19-1,,nkoy1244,19,likumi na mutanu na tuna,likumi na mutanu na tuna,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-20-1,,nkoy1244,20,makumi abali,makumi abali,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-21-1,,nkoy1244,21,makumi abili na kamo,makumi abili na kamo,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-22-1,,nkoy1244,22,makumi abili na tubili,makumi abili na tubili,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-23-1,,nkoy1244,23,makumi abili na tuhatu,makumi abili na tuhatu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-24-1,,nkoy1244,24,makumi abili na tuna,makumi abili na tuna,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-25-1,,nkoy1244,25,makumi abili na mutanu,makumi abili na mutanu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-26-1,,nkoy1244,26,makumi abili na mutanu na kamo,makumi abili na mutanu na kamo,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-27-1,,nkoy1244,27,makumi abili na mutanu na tubili,makumi abili na mutanu na tubili,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-28-1,,nkoy1244,28,makumi abili na mutanu na tahatu,makumi abili na mutanu na tahatu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-29-1,,nkoy1244,29,makumi abili na mutanu na tuna,makumi abili na mutanu na tuna,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-30-1,,nkoy1244,30,makumi ahatu,makumi ahatu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-40-1,,nkoy1244,40,makumi ana,makumi ana,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-50-1,,nkoy1244,50,makumi mutanu,makumi mutanu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-60-1,,nkoy1244,60,makumi mutanu na limo,makumi mutanu na limo,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-70-1,,nkoy1244,70,makumi mutanu na abali,makumi mutanu na abali,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-80-1,,nkoy1244,80,makumi mutanu na ahatu,makumi mutanu na ahatu,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-90-1,,nkoy1244,90,makumi mutanu na ana,makumi mutanu na ana,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-100-1,,nkoy1244,100,mwanda,mwanda,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-200-1,,nkoy1244,200,myanda yibili,myanda yibili,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-1000-1,,nkoy1244,1000,likulukazi,likulukazi,[],,[],,False,Nkoya.htm,False,,1
+nkoy1244-2000-1,,nkoy1244,2000,makulukazi abili,makulukazi abili,[],,[],,False,Nkoya.htm,False,,1

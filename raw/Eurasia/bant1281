@@ -1,0 +1,80 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bant1281-1-1,,bant1281,1,ɨk-,ɨk-,[],,[],,False,Bantawa.htm,False,,1
+bant1281-1-2,,bant1281,1,ɔk,ɔk,[],,[],,False,Bantawa.htm,False,,2
+bant1281-1-3,,bant1281,1,ʉkʈa,ʉkʈa,[],,[],,False,Bantawa.htm,False,,3
+bant1281-2-1,,bant1281,2,hwa- alsoː hɨwa,hwa- alsoː hɨwa,[],,[],,False,Bantawa.htm,False,,1
+bant1281-2-2,,bant1281,2,hɔwa,hɔwa,[],,[],,False,Bantawa.htm,False,,2
+bant1281-2-3,,bant1281,2,hʉsaʈ,hʉsaʈ,[],,[],,False,Bantawa.htm,False,,3
+bant1281-3-1,,bant1281,3,sum-ka-,sum-ka-,[],,[],,False,Bantawa.htm,False,,1
+bant1281-3-2,,bant1281,3,sum,sum,[],,[],,False,Bantawa.htm,False,,2
+bant1281-3-3,,bant1281,3,sumkaʈaʈ,sumkaʈaʈ,[],,[],,False,Bantawa.htm,False,,3
+bant1281-4-1,,bant1281,4,lek-ka-,lek-ka-,[],,[],,False,Bantawa.htm,False,,1
+bant1281-4-2,,bant1281,4,lu,lu,[],,[],,False,Bantawa.htm,False,,2
+bant1281-4-3,,bant1281,4,reʈkaʈaʈ,reʈkaʈaʈ,[],,[],,False,Bantawa.htm,False,,3
+bant1281-5-1,,bant1281,5,cʰuk-ka-,cʰuk-ka-,[],(litː '' cʰuk' = hand ),[],,False,Bantawa.htm,False,,1
+bant1281-5-2,,bant1281,5,ŋa,ŋa,[],,[],,False,Bantawa.htm,False,,2
+bant1281-5-3,,bant1281,5,ʉkchuk,ʉkchuk,[],( litː ''one hand''),[],,False,Bantawa.htm,False,,3
+bant1281-6-1,,bant1281,6,sek-ka-,sek-ka-,[],,[],,False,Bantawa.htm,False,,1
+bant1281-6-2,,bant1281,6,t̪uk,t̪uk,[],,[],,False,Bantawa.htm,False,,2
+bant1281-6-3,,bant1281,6,ʉkchuk ʉkʈa,ʉkchuk ʉkʈa,[],( one hand and one),[],,False,Bantawa.htm,False,,3
+bant1281-7-1,,bant1281,7,rek-ka- ? questionable,rek-ka- ? questionable,[],,[],,False,Bantawa.htm,True,,1
+bant1281-7-2,,bant1281,7,e,e,[],,[],,False,Bantawa.htm,False,,2
+bant1281-7-3,,bant1281,7,ʉkchuk hʉsaʈ,ʉkchuk hʉsaʈ,[],( one hand and two),[],,False,Bantawa.htm,False,,3
+bant1281-8-1,,bant1281,8,lek-ka-,lek-ka-,[],,[],,False,Bantawa.htm,False,,1
+bant1281-8-2,,bant1281,8,re,re,[],,[],,False,Bantawa.htm,False,,2
+bant1281-8-3,,bant1281,8,ʉkchuk sumkaʈaʈ,ʉkchuk sumkaʈaʈ,[],,[],,False,Bantawa.htm,False,,3
+bant1281-9-1,,bant1281,9,nu-ka-,nu-ka-,[],,[],,False,Bantawa.htm,False,,1
+bant1281-9-2,,bant1281,9,bʰɔu,bʰɔu,[],,[],,False,Bantawa.htm,False,,2
+bant1281-9-3,,bant1281,9,ʉkchuk reʈkaʈaʈ nau,ʉkchuk reʈkaʈaʈ nau,[],,[],,False,Bantawa.htm,False,,3
+bant1281-10-1,,bant1281,10,ina-nam-,ina-nam-,[],,[],,False,Bantawa.htm,False,,1
+bant1281-10-2,,bant1281,10,pɔu,pɔu,[],,[],,False,Bantawa.htm,False,,2
+bant1281-10-3,,bant1281,10,hʉachuk,hʉachuk,[],( litː ''two hands''),[],,False,Bantawa.htm,False,,3
+bant1281-11-1,,bant1281,11,pɔu ɔk,pɔu ɔk,[],,[],,False,Bantawa.htm,False,,2
+bant1281-11-2,,bant1281,11,eghar,eghar,[],,[],,False,Bantawa.htm,False,,3
+bant1281-12-1,,bant1281,12,pɔu hɔwa,pɔu hɔwa,[],,[],,False,Bantawa.htm,False,,2
+bant1281-12-2,,bant1281,12,bara,bara,[],,[],,False,Bantawa.htm,False,,3
+bant1281-13-1,,bant1281,13,pɔu sum,pɔu sum,[],,[],,False,Bantawa.htm,False,,2
+bant1281-13-2,,bant1281,13,tera,tera,[],,[],,False,Bantawa.htm,False,,3
+bant1281-14-1,,bant1281,14,pɔu lu,pɔu lu,[],,[],,False,Bantawa.htm,False,,2
+bant1281-14-2,,bant1281,14,caudha,caudha,[],,[],,False,Bantawa.htm,False,,3
+bant1281-15-1,,bant1281,15,pɔu ŋa,pɔu ŋa,[],,[],,False,Bantawa.htm,False,,2
+bant1281-15-2,,bant1281,15,sumkachuk,sumkachuk,[],( two hands),[],,False,Bantawa.htm,False,,3
+bant1281-16-1,,bant1281,16,pɔu t̪uk,pɔu t̪uk,[],,[],,False,Bantawa.htm,False,,2
+bant1281-16-2,,bant1281,16,sora,sora,[],,[],,False,Bantawa.htm,False,,3
+bant1281-17-1,,bant1281,17,pɔu e,pɔu e,[],,[],,False,Bantawa.htm,False,,2
+bant1281-17-2,,bant1281,17,satra,satra,[],,[],,False,Bantawa.htm,False,,3
+bant1281-18-1,,bant1281,18,pɔu re,pɔu re,[],,[],,False,Bantawa.htm,False,,2
+bant1281-18-2,,bant1281,18,athara,athara,[],,[],,False,Bantawa.htm,False,,3
+bant1281-19-1,,bant1281,19,pɔu bʰɔu,pɔu bʰɔu,[],,[],,False,Bantawa.htm,False,,2
+bant1281-19-2,,bant1281,19,unnais,unnais,[],,[],,False,Bantawa.htm,False,,3
+bant1281-20-1,,bant1281,20,hit͡ʃi,hit͡ʃi,[],,[],,False,Bantawa.htm,False,,2
+bant1281-20-2,,bant1281,20,cuppabhuŋ,cuppabhuŋ,[],( litː ''small hundred''),[],,False,Bantawa.htm,False,,3
+bant1281-21-1,,bant1281,21,ekkais,ekkais,[],,[],,False,Bantawa.htm,False,,3
+bant1281-22-1,,bant1281,22,bais,bais,[],,[],,False,Bantawa.htm,False,,3
+bant1281-23-1,,bant1281,23,teis,teis,[],,[],,False,Bantawa.htm,False,,3
+bant1281-24-1,,bant1281,24,caubis,caubis,[],,[],,False,Bantawa.htm,False,,3
+bant1281-25-1,,bant1281,25,paccis,paccis,[],,[],,False,Bantawa.htm,False,,3
+bant1281-26-1,,bant1281,26,chabbis,chabbis,[],,[],,False,Bantawa.htm,False,,3
+bant1281-27-1,,bant1281,27,satais,satais,[],,[],,False,Bantawa.htm,False,,3
+bant1281-28-1,,bant1281,28,aththais,aththais,[],,[],,False,Bantawa.htm,False,,3
+bant1281-29-1,,bant1281,29,unantīs,unantīs,[],,[],,False,Bantawa.htm,False,,3
+bant1281-30-1,,bant1281,30,sukki,sukki,[],,[],,False,Bantawa.htm,False,,2
+bant1281-30-2,,bant1281,30,tis,tis,[],,[],,False,Bantawa.htm,False,,3
+bant1281-40-1,,bant1281,40,lukki,lukki,[],,[],,False,Bantawa.htm,False,,2
+bant1281-40-2,,bant1281,40,calīs,calīs,[],,[],,False,Bantawa.htm,False,,3
+bant1281-50-1,,bant1281,50,ŋakki,ŋakki,[],,[],,False,Bantawa.htm,False,,2
+bant1281-50-2,,bant1281,50,pacas,pacas,[],,[],,False,Bantawa.htm,False,,3
+bant1281-60-1,,bant1281,60,t̪ukki,t̪ukki,[],,[],,False,Bantawa.htm,False,,2
+bant1281-60-2,,bant1281,60,sathi,sathi,[],,[],,False,Bantawa.htm,False,,3
+bant1281-70-1,,bant1281,70,ekki,ekki,[],,[],,False,Bantawa.htm,False,,2
+bant1281-70-2,,bant1281,70,sattari,sattari,[],,[],,False,Bantawa.htm,False,,3
+bant1281-80-1,,bant1281,80,rekki,rekki,[],,[],,False,Bantawa.htm,False,,2
+bant1281-80-2,,bant1281,80,asi,asi,[],,[],,False,Bantawa.htm,False,,3
+bant1281-90-1,,bant1281,90,bʰɔukki,bʰɔukki,[],,[],,False,Bantawa.htm,False,,2
+bant1281-90-2,,bant1281,90,nabbe,nabbe,[],,[],,False,Bantawa.htm,False,,3
+bant1281-100-1,,bant1281,100,ʉkbhuŋ,ʉkbhuŋ,[],,[],,False,Bantawa.htm,False,,3
+bant1281-100-2,,bant1281,100,sau,sau,[],,[],,False,Bantawa.htm,False,,3
+bant1281-100-3,,bant1281,100,sae,sae,[],,[],,False,Bantawa.htm,False,,3
+bant1281-200-1,,bant1281,200,dui sau,dui sau,[],(sae),[],,False,Bantawa.htm,False,,3
+bant1281-1000-1,,bant1281,1000,ʉɡhakma (i.e. big hundred) hajar,ʉɡhakma (i.e. big hundred) hajar,[],,[],,False,Bantawa.htm,True,,3
+bant1281-2000-1,,bant1281,2000,dui hajar,dui hajar,[],,[],,False,Bantawa.htm,False,,3

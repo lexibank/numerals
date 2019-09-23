@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+fonn1241-1-1,,fonn1241,1,ɖě,ɖě,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-2-1,,fonn1241,2,we,we,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-3-1,,fonn1241,3,atɔn,atɔn,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-4-1,,fonn1241,4,ɛnɛ,ɛnɛ,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-5-1,,fonn1241,5,atɔ́ɔ́n,atɔ́ɔ́n,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-6-1,,fonn1241,6,ayizɛ́n,ayizɛ́n,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-7-1,,fonn1241,7,tɛ́nwe,tɛ́nwe,[],( 5 + 2 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-8-1,,fonn1241,8,tántɔn,tántɔn,[],( 5 + 3 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-9-1,,fonn1241,9,tɛ́nnɛ,tɛ́nnɛ,[],( 5 + 5 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-10-1,,fonn1241,10,wǒ,wǒ,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-11-1,,fonn1241,11,wǒ-ɖok͡pó,wǒ-ɖok͡pó,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-11-2,,fonn1241,11,wěɖok͡pó,wěɖok͡pó,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-12-1,,fonn1241,12,wǒwe,wǒwe,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-12-2,,fonn1241,12,wěwe,wěwe,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-13-1,,fonn1241,13,wǒ-atɔn,wǒ-atɔn,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-13-2,,fonn1241,13,wǎtɔn,wǎtɔn,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-14-1,,fonn1241,14,wǒ-ɛnɛ,wǒ-ɛnɛ,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-14-2,,fonn1241,14,wɛ̌nɛ,wɛ̌nɛ,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-15-1,,fonn1241,15,afɔtɔn,afɔtɔn,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-16-1,,fonn1241,16,afɔtɔn-nukún-ɖok͡pó,afɔtɔn-nukún-ɖok͡pó,[],( 15 + 1 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-17-1,,fonn1241,17,afɔtɔn-nukún-we,afɔtɔn-nukún-we,[],( 15 + 2 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-18-1,,fonn1241,18,afɔtɔn-nukún-atɔn,afɔtɔn-nukún-atɔn,[],( 15 + 3 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-19-1,,fonn1241,19,afɔtɔn-nukún-ɛnɛ,afɔtɔn-nukún-ɛnɛ,[],( 15 + 4 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-20-1,,fonn1241,20,ko,ko,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-21-1,,fonn1241,21,ko nukún ɖok͡pó,ko nukún ɖok͡pó,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-22-1,,fonn1241,22,ko nukún we,ko nukún we,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-23-1,,fonn1241,23,ko nukún atɔn,ko nukún atɔn,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-24-1,,fonn1241,24,ko nukún ɛnɛ,ko nukún ɛnɛ,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-25-1,,fonn1241,25,ko atɔ́ɔ́n,ko atɔ́ɔ́n,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-26-1,,fonn1241,26,ko atɔ́ɔ́n nukún ɖok͡pó,ko atɔ́ɔ́n nukún ɖok͡pó,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-27-1,,fonn1241,27,ko atɔ́ɔ́n nukún we,ko atɔ́ɔ́n nukún we,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-28-1,,fonn1241,28,ko atɔ́ɔ́n nukún atɔn,ko atɔ́ɔ́n nukún atɔn,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-29-1,,fonn1241,29,ko atɔ́ɔ́n nukún ɛnɛ,ko atɔ́ɔ́n nukún ɛnɛ,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-30-1,,fonn1241,30,ɡ͡ban,ɡ͡ban,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-40-1,,fonn1241,40,kanɖé,kanɖé,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-50-1,,fonn1241,50,kanɖé-wǒ,kanɖé-wǒ,[],( 40 + 10 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-60-1,,fonn1241,60,kanɖé-ko,kanɖé-ko,[],( 40 + 20 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-70-1,,fonn1241,70,kanɖé-ɡ͡ban,kanɖé-ɡ͡ban,[],( 40 + 30 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-80-1,,fonn1241,80,kanwe,kanwe,[],( 40 x 2 ) ?,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-90-1,,fonn1241,90,kanwe-wǒ,kanwe-wǒ,[],( 80 + 10 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-100-1,,fonn1241,100,kanwe-ko,kanwe-ko,[],( 80 + 20 ),[],,False,Fon-Gbe.htm,False,,1
+fonn1241-200-1,,fonn1241,200,afɔɖé,afɔɖé,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-1000-1,,fonn1241,1000,afɔ-atɔ́ɔn,afɔ-atɔ́ɔn,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-1000-2,,fonn1241,1000,afatɔ́n,afatɔ́n,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-2000-1,,fonn1241,2000,afɔ-wǒ,afɔ-wǒ,[],,[],,False,Fon-Gbe.htm,False,,1
+fonn1241-2000-2,,fonn1241,2000,afɔwó,afɔwó,[],,[],,False,Fon-Gbe.htm,False,,1

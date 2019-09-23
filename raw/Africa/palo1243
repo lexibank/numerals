@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+palo1243-1-1,,palo1243,1,yino,yino,[],,[],,False,Palor.htm,False,,1
+palo1243-2-1,,palo1243,2,ana,ana,[],,[],,False,Palor.htm,False,,1
+palo1243-3-1,,palo1243,3,eye,eye,[],,[],,False,Palor.htm,False,,1
+palo1243-4-1,,palo1243,4,iniil,iniil,[],,[],,False,Palor.htm,False,,1
+palo1243-5-1,,palo1243,5,iip,iip,[],,[],,False,Palor.htm,False,,1
+palo1243-6-1,,palo1243,6,poyno,poyno,[],( 5 + 1 ),[],,False,Palor.htm,False,,1
+palo1243-7-1,,palo1243,7,paana,paana,[],( 5 + 2 ),[],,False,Palor.htm,False,,1
+palo1243-8-1,,palo1243,8,peeye,peeye,[],( 5 + 3 ),[],,False,Palor.htm,False,,1
+palo1243-9-1,,palo1243,9,payniil,payniil,[],( 5 + 4 ),[],,False,Palor.htm,False,,1
+palo1243-10-1,,palo1243,10,saɓo,saɓo,[],,[],,False,Palor.htm,False,,1
+palo1243-11-1,,palo1243,11,saɓo a yino,saɓo a yino,[],,[],,False,Palor.htm,False,,1
+palo1243-12-1,,palo1243,12,saɓo a ana,saɓo a ana,[],,[],,False,Palor.htm,False,,1
+palo1243-13-1,,palo1243,13,saɓo a eye,saɓo a eye,[],,[],,False,Palor.htm,False,,1
+palo1243-14-1,,palo1243,14,saɓo a iniil,saɓo a iniil,[],,[],,False,Palor.htm,False,,1
+palo1243-15-1,,palo1243,15,saɓo a iip,saɓo a iip,[],,[],,False,Palor.htm,False,,1
+palo1243-16-1,,palo1243,16,saɓo a poyno,saɓo a poyno,[],,[],,False,Palor.htm,False,,1
+palo1243-17-1,,palo1243,17,saɓo a paana,saɓo a paana,[],,[],,False,Palor.htm,False,,1
+palo1243-18-1,,palo1243,18,saɓo a peeye,saɓo a peeye,[],,[],,False,Palor.htm,False,,1
+palo1243-19-1,,palo1243,19,saɓo a payniil,saɓo a payniil,[],,[],,False,Palor.htm,False,,1
+palo1243-20-1,,palo1243,20,saɓo ana,saɓo ana,[],,[],,False,Palor.htm,False,,1
+palo1243-21-1,,palo1243,21,saɓo ana a yino,saɓo ana a yino,[],,[],,False,Palor.htm,False,,1
+palo1243-22-1,,palo1243,22,saɓo ana a ana,saɓo ana a ana,[],,[],,False,Palor.htm,False,,1
+palo1243-23-1,,palo1243,23,saɓo ana a eye,saɓo ana a eye,[],,[],,False,Palor.htm,False,,1
+palo1243-24-1,,palo1243,24,saɓo ana a iniil,saɓo ana a iniil,[],,[],,False,Palor.htm,False,,1
+palo1243-25-1,,palo1243,25,saɓo ana a iip,saɓo ana a iip,[],,[],,False,Palor.htm,False,,1
+palo1243-26-1,,palo1243,26,saɓo ana a poyno,saɓo ana a poyno,[],,[],,False,Palor.htm,False,,1
+palo1243-27-1,,palo1243,27,saɓo ana a paana,saɓo ana a paana,[],,[],,False,Palor.htm,False,,1
+palo1243-28-1,,palo1243,28,saɓo ana a peeye,saɓo ana a peeye,[],,[],,False,Palor.htm,False,,1
+palo1243-29-1,,palo1243,29,saɓo ana a payniil,saɓo ana a payniil,[],,[],,False,Palor.htm,False,,1
+palo1243-30-1,,palo1243,30,saɓo eye,saɓo eye,[],,[],,False,Palor.htm,False,,1
+palo1243-40-1,,palo1243,40,saɓo iniil,saɓo iniil,[],,[],,False,Palor.htm,False,,1
+palo1243-50-1,,palo1243,50,saɓo iip,saɓo iip,[],,[],,False,Palor.htm,False,,1
+palo1243-60-1,,palo1243,60,saɓo poyno,saɓo poyno,[],,[],,False,Palor.htm,False,,1
+palo1243-70-1,,palo1243,70,saɓo paana,saɓo paana,[],,[],,False,Palor.htm,False,,1
+palo1243-80-1,,palo1243,80,saɓo peeye,saɓo peeye,[],,[],,False,Palor.htm,False,,1
+palo1243-90-1,,palo1243,90,saɓo payniil,saɓo payniil,[],,[],,False,Palor.htm,False,,1
+palo1243-100-1,,palo1243,100,teemeer,teemeer,[],,[],,False,Palor.htm,False,,1
+palo1243-200-1,,palo1243,200,teemeer ana,teemeer ana,[],,[],,False,Palor.htm,False,,1
+palo1243-1000-1,,palo1243,1000,juni,juni,[],,[],,False,Palor.htm,False,,1

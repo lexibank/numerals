@@ -1,0 +1,84 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+pamo1252-1-1,,pamo1252,1,isa,isa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-1-2,,pamo1252,1,sambaʔa,sambaʔa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-1-3,,pamo1252,1,sa,sa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-1-4,,pamo1252,1,sambaʔa,sambaʔa,[],,[],,False,Pamona.htm,False,,2
+pamo1252-2-1,,pamo1252,2,radua,radua,[],,[],,False,Pamona.htm,False,,1
+pamo1252-2-2,,pamo1252,2,radua,radua,[],,[],,False,Pamona.htm,False,,2
+pamo1252-3-1,,pamo1252,3,tatoɡo,tatoɡo,[],,[],,False,Pamona.htm,False,,1
+pamo1252-3-2,,pamo1252,3,tatoɡo,tatoɡo,[],,[],,False,Pamona.htm,False,,2
+pamo1252-4-1,,pamo1252,4,aopa,aopa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-4-2,,pamo1252,4,aopa,aopa,[],,[],,False,Pamona.htm,False,,2
+pamo1252-5-1,,pamo1252,5,alima,alima,[],,[],,False,Pamona.htm,False,,1
+pamo1252-5-2,,pamo1252,5,alima,alima,[],,[],,False,Pamona.htm,False,,2
+pamo1252-6-1,,pamo1252,6,aono,aono,[],,[],,False,Pamona.htm,False,,1
+pamo1252-6-2,,pamo1252,6,aono,aono,[],,[],,False,Pamona.htm,False,,2
+pamo1252-7-1,,pamo1252,7,papitu,papitu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-7-2,,pamo1252,7,papitu,papitu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-8-1,,pamo1252,8,uayu,uayu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-8-2,,pamo1252,8,uayu,uayu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-9-1,,pamo1252,9,sasio,sasio,[],,[],,False,Pamona.htm,False,,1
+pamo1252-9-2,,pamo1252,9,sasio,sasio,[],,[],,False,Pamona.htm,False,,2
+pamo1252-10-1,,pamo1252,10,sampuyu,sampuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-10-2,,pamo1252,10,sampuyu,sampuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-11-1,,pamo1252,11,sampuyu (pai) sambaʔa,sampuyu (pai) sambaʔa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-11-2,,pamo1252,11,sampuyu sambaʔa,sampuyu sambaʔa,[],,[],,False,Pamona.htm,False,,2
+pamo1252-12-1,,pamo1252,12,sampuyu (pai) radua,sampuyu (pai) radua,[],,[],,False,Pamona.htm,False,,1
+pamo1252-12-2,,pamo1252,12,sampuyu radua,sampuyu radua,[],,[],,False,Pamona.htm,False,,2
+pamo1252-13-1,,pamo1252,13,sampuyu (pai) tatoɡo,sampuyu (pai) tatoɡo,[],,[],,False,Pamona.htm,False,,1
+pamo1252-13-2,,pamo1252,13,sampuyu tatoɡo,sampuyu tatoɡo,[],,[],,False,Pamona.htm,False,,2
+pamo1252-14-1,,pamo1252,14,sampuyu (pai) aopa,sampuyu (pai) aopa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-14-2,,pamo1252,14,sampuyu aopa,sampuyu aopa,[],,[],,False,Pamona.htm,False,,2
+pamo1252-15-1,,pamo1252,15,sampuyu (pai) alima,sampuyu (pai) alima,[],,[],,False,Pamona.htm,False,,1
+pamo1252-15-2,,pamo1252,15,sampuyu alima,sampuyu alima,[],,[],,False,Pamona.htm,False,,2
+pamo1252-16-1,,pamo1252,16,sampuyu (pai) aono,sampuyu (pai) aono,[],,[],,False,Pamona.htm,False,,1
+pamo1252-16-2,,pamo1252,16,sampuyu aono,sampuyu aono,[],,[],,False,Pamona.htm,False,,2
+pamo1252-17-1,,pamo1252,17,sampuyu (pai) papitu,sampuyu (pai) papitu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-17-2,,pamo1252,17,sampuyu papitu,sampuyu papitu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-18-1,,pamo1252,18,sampuyu (pai) uayu,sampuyu (pai) uayu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-18-2,,pamo1252,18,sampuyu uayu,sampuyu uayu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-19-1,,pamo1252,19,sampuyu (pai) sasio,sampuyu (pai) sasio,[],,[],,False,Pamona.htm,False,,1
+pamo1252-19-2,,pamo1252,19,sampuyu sasio,sampuyu sasio,[],,[],,False,Pamona.htm,False,,2
+pamo1252-20-1,,pamo1252,20,ruampuyu,ruampuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-20-2,,pamo1252,20,radua mpuyu,radua mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-21-1,,pamo1252,21,ruampuyu (pai) sambaʔa,ruampuyu (pai) sambaʔa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-21-2,,pamo1252,21,radua mpuyu sambaʔa,radua mpuyu sambaʔa,[],,[],,False,Pamona.htm,False,,2
+pamo1252-22-1,,pamo1252,22,ruampuyu (pai) radua,ruampuyu (pai) radua,[],,[],,False,Pamona.htm,False,,1
+pamo1252-22-2,,pamo1252,22,radua mpuyu radua,radua mpuyu radua,[],,[],,False,Pamona.htm,False,,2
+pamo1252-23-1,,pamo1252,23,ruampuyu (pai) tatoɡo,ruampuyu (pai) tatoɡo,[],,[],,False,Pamona.htm,False,,1
+pamo1252-23-2,,pamo1252,23,radua mpuyu tatoɡo,radua mpuyu tatoɡo,[],,[],,False,Pamona.htm,False,,2
+pamo1252-24-1,,pamo1252,24,ruampuyu (pai) aopa,ruampuyu (pai) aopa,[],,[],,False,Pamona.htm,False,,1
+pamo1252-24-2,,pamo1252,24,radua mpuyu aopa,radua mpuyu aopa,[],,[],,False,Pamona.htm,False,,2
+pamo1252-25-1,,pamo1252,25,ruampuyu (pai) alima,ruampuyu (pai) alima,[],,[],,False,Pamona.htm,False,,1
+pamo1252-25-2,,pamo1252,25,radua mpuyu alima,radua mpuyu alima,[],,[],,False,Pamona.htm,False,,2
+pamo1252-26-1,,pamo1252,26,ruampuyu (pai) aono,ruampuyu (pai) aono,[],,[],,False,Pamona.htm,False,,1
+pamo1252-26-2,,pamo1252,26,radua mpuyu aono,radua mpuyu aono,[],,[],,False,Pamona.htm,False,,2
+pamo1252-27-1,,pamo1252,27,ruampuyu (pai) papitu,ruampuyu (pai) papitu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-27-2,,pamo1252,27,radua mpuyu papitu,radua mpuyu papitu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-28-1,,pamo1252,28,ruampuyu (pai) uayu,ruampuyu (pai) uayu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-28-2,,pamo1252,28,radua mpuyu uayu,radua mpuyu uayu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-29-1,,pamo1252,29,ruampuyu (pai) sasio,ruampuyu (pai) sasio,[],,[],,False,Pamona.htm,False,,1
+pamo1252-29-2,,pamo1252,29,radua mpuyu sasio,radua mpuyu sasio,[],,[],,False,Pamona.htm,False,,2
+pamo1252-30-1,,pamo1252,30,tatompuyu,tatompuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-30-2,,pamo1252,30,tatoɡo mpuyu,tatoɡo mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-40-1,,pamo1252,40,patampuyu,patampuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-40-2,,pamo1252,40,opompuyu,opompuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-40-3,,pamo1252,40,aopa mpuyu,aopa mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-50-1,,pamo1252,50,limampuyu,limampuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-50-2,,pamo1252,50,alima mpuyu,alima mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-60-1,,pamo1252,60,onompuyu,onompuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-60-2,,pamo1252,60,aono mpuyu,aono mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-70-1,,pamo1252,70,pitumpuyu,pitumpuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-70-2,,pamo1252,70,papitu mpuyu,papitu mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-80-1,,pamo1252,80,uayumpuyu,uayumpuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-80-2,,pamo1252,80,uayu mpuyu,uayu mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-90-1,,pamo1252,90,siompuyu,siompuyu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-90-2,,pamo1252,90,sasio mpuyu,sasio mpuyu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-100-1,,pamo1252,100,saatu,saatu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-100-2,,pamo1252,100,saatu,saatu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-200-1,,pamo1252,200,raatu,raatu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-200-2,,pamo1252,200,radua atu,radua atu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-1000-1,,pamo1252,1000,sant͡ʃowu,sant͡ʃowu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-1000-2,,pamo1252,1000,sant͡ʃowu,sant͡ʃowu,[],,[],,False,Pamona.htm,False,,2
+pamo1252-2000-1,,pamo1252,2000,ruant͡ʃowu,ruant͡ʃowu,[],,[],,False,Pamona.htm,False,,1
+pamo1252-2000-2,,pamo1252,2000,radua nt͡ʃowu,radua nt͡ʃowu,[],,[],,False,Pamona.htm,False,,2

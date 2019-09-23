@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+alut1245-1-1,,alut1245,1,ənnan,ənnan,[],,[],,False,Alyutor.htm,False,,1
+alut1245-2-1,,alut1245,2,ŋitaq,ŋitaq,[],,[],,False,Alyutor.htm,False,,1
+alut1245-3-1,,alut1245,3,ŋəruqqə,ŋəruqqə,[],,[],,False,Alyutor.htm,False,,1
+alut1245-4-1,,alut1245,4,ŋəraqqə,ŋəraqqə,[],,[],,False,Alyutor.htm,False,,1
+alut1245-5-1,,alut1245,5,məlləŋən,məlləŋən,[],,[],,False,Alyutor.htm,False,,1
+alut1245-6-1,,alut1245,6,ənnanməlləŋən,ənnanməlləŋən,[],( 1 + 5 ),[],,False,Alyutor.htm,False,,1
+alut1245-7-1,,alut1245,7,ŋitaqməlləŋən,ŋitaqməlləŋən,[],( 2 + 5 ),[],,False,Alyutor.htm,False,,1
+alut1245-8-1,,alut1245,8,ŋəruqməlləŋən,ŋəruqməlləŋən,[],( 3 + 5 ),[],,False,Alyutor.htm,False,,1
+alut1245-9-1,,alut1245,9,ŋəraqməlləŋən,ŋəraqməlləŋən,[],( 4 + 5 ),[],,False,Alyutor.htm,False,,1
+alut1245-10-1,,alut1245,10,mənɣəkin,mənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-11-1,,alut1245,11,mənɣətək ənnan,mənɣətək ənnan,[],(ɣapasus/pasus ),[],,False,Alyutor.htm,False,,1
+alut1245-12-1,,alut1245,12,mənɣətək ŋitaq,mənɣətək ŋitaq,[],(ɣapasus/pasus ),[],,False,Alyutor.htm,False,,1
+alut1245-13-1,,alut1245,13,mənɣətək ŋəruqqə,mənɣətək ŋəruqqə,[],(... //...),[],,False,Alyutor.htm,False,,1
+alut1245-14-1,,alut1245,14,mənɣətək ŋəraqqə,mənɣətək ŋəraqqə,[],(... //...),[],,False,Alyutor.htm,False,,1
+alut1245-15-1,,alut1245,15,mənɣətək məlləŋən,mənɣətək məlləŋən,[],(... //...),[],,False,Alyutor.htm,False,,1
+alut1245-16-1,,alut1245,16,mənɣətək ənnanməlləŋən,mənɣətək ənnanməlləŋən,[],(... //...),[],,False,Alyutor.htm,False,,1
+alut1245-17-1,,alut1245,17,mənɣətəkŋitaqməlləŋən,mənɣətəkŋitaqməlləŋən,[],(... //...),[],,False,Alyutor.htm,False,,1
+alut1245-18-1,,alut1245,18,mənɣətək ŋəruqməlləŋən,mənɣətək ŋəruqməlləŋən,[],(... //...),[],,False,Alyutor.htm,False,,1
+alut1245-19-1,,alut1245,19,mənɣətəkŋəraqməlləŋən,mənɣətəkŋəraqməlləŋən,[],(... //...),[],,False,Alyutor.htm,False,,1
+alut1245-20-1,,alut1245,20,qəlikkə,qəlikkə,[],,[],,False,Alyutor.htm,False,,1
+alut1245-21-1,,alut1245,21,qəlikək ənnan,qəlikək ənnan,[],,[],,False,Alyutor.htm,False,,1
+alut1245-22-1,,alut1245,22,qəlikək ŋitaq,qəlikək ŋitaq,[],,[],,False,Alyutor.htm,False,,1
+alut1245-23-1,,alut1245,23,qəlikək ŋəruqqə,qəlikək ŋəruqqə,[],,[],,False,Alyutor.htm,False,,1
+alut1245-24-1,,alut1245,24,qəlikək ŋəraqqə,qəlikək ŋəraqqə,[],,[],,False,Alyutor.htm,False,,1
+alut1245-25-1,,alut1245,25,qəlikək məlləŋən,qəlikək məlləŋən,[],,[],,False,Alyutor.htm,False,,1
+alut1245-26-1,,alut1245,26,qəlikək ənnanməlləŋən,qəlikək ənnanməlləŋən,[],,[],,False,Alyutor.htm,False,,1
+alut1245-27-1,,alut1245,27,qəlikək ŋitaqməlləŋən,qəlikək ŋitaqməlləŋən,[],,[],,False,Alyutor.htm,False,,1
+alut1245-28-1,,alut1245,28,qəlikək ŋəruqməlləŋən,qəlikək ŋəruqməlləŋən,[],,[],,False,Alyutor.htm,False,,1
+alut1245-29-1,,alut1245,29,qəlikək ŋəraqməlləŋən,qəlikək ŋəraqməlləŋən,[],,[],,False,Alyutor.htm,False,,1
+alut1245-30-1,,alut1245,30,ŋəruqmənɣəkin,ŋəruqmənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-40-1,,alut1245,40,ŋəraqmənɣəkin,ŋəraqmənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-50-1,,alut1245,50,məlləŋən mənɣəkin,məlləŋən mənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-60-1,,alut1245,60,ənnanməlləŋən mənɣəkin,ənnanməlləŋən mənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-70-1,,alut1245,70,ŋitaqməlləŋən mənɣəkin,ŋitaqməlləŋən mənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-80-1,,alut1245,80,ŋəruqməlləŋən mənɣəkin,ŋəruqməlləŋən mənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-90-1,,alut1245,90,ŋəraqməlləŋən mənɣəkin,ŋəraqməlləŋən mənɣəkin,[],,[],,False,Alyutor.htm,False,,1
+alut1245-100-1,,alut1245,100,əstun,əstun,[],< Russian ,[],,True,Alyutor.htm,False,,1
+alut1245-200-1,,alut1245,200,ŋitaq əstun,ŋitaq əstun,[],,[],,False,Alyutor.htm,False,,1
+alut1245-1000-1,,alut1245,1000,tət͡ɕat͡ɕan,tət͡ɕat͡ɕan,[],< Russian ,[],,True,Alyutor.htm,False,,1
+alut1245-2000-1,,alut1245,2000,ŋitaq tət͡ɕat͡ɕan,ŋitaq tət͡ɕat͡ɕan,[],,[],,False,Alyutor.htm,False,,1

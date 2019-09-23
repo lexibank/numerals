@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tumb1250-1-1,,tumb1250,1,ka-môza,ka-môza,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-2-1,,tumb1250,2,tu-ŵîri,tu-ŵîri,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-3-1,,tumb1250,3,tu-tâtu,tu-tâtu,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-4-1,,tumb1250,4,tu-nâyi,tu-nâyi,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-5-1,,tumb1250,5,tu-nkʰonde,tu-nkʰonde,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-6-1,,tumb1250,6,tu-nkʰonde na ka-môza,tu-nkʰonde na ka-môza,[],( 5 + 1 ),[],,False,Tumbuka.htm,False,,1
+tumb1250-7-1,,tumb1250,7,tu-nkʰonde na tu-ŵîri,tu-nkʰonde na tu-ŵîri,[],( 5 + 2 ),[],,False,Tumbuka.htm,False,,1
+tumb1250-8-1,,tumb1250,8,tu-nkʰonde na tu-tâtu,tu-nkʰonde na tu-tâtu,[],( 5 + 3 ),[],,False,Tumbuka.htm,False,,1
+tumb1250-9-1,,tumb1250,9,tu-nkʰonde na tu-nâyi,tu-nkʰonde na tu-nâyi,[],( 5 + 4 ),[],,False,Tumbuka.htm,False,,1
+tumb1250-10-1,,tumb1250,10,kʰûmi,kʰûmi,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-11-1,,tumb1250,11,kʰûmi na ka-môza,kʰûmi na ka-môza,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-12-1,,tumb1250,12,kʰûmi na tu-ŵîri,kʰûmi na tu-ŵîri,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-13-1,,tumb1250,13,kʰûmi na tu-tâtu,kʰûmi na tu-tâtu,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-14-1,,tumb1250,14,kʰûmi na tu-nâyi,kʰûmi na tu-nâyi,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-15-1,,tumb1250,15,kʰûmi na tu-nkʰonde,kʰûmi na tu-nkʰonde,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-16-1,,tumb1250,16,kʰûmi na tu-nkʰonde na ka-môza,kʰûmi na tu-nkʰonde na ka-môza,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-17-1,,tumb1250,17,kʰûmi na tu-nkʰonde na tu-ŵîr,kʰûmi na tu-nkʰonde na tu-ŵîr,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-18-1,,tumb1250,18,kʰûmi na tu-nkʰonde na tu-tâtu,kʰûmi na tu-nkʰonde na tu-tâtu,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-19-1,,tumb1250,19,kʰûmi na tu-nkʰonde na tu-nâyi,kʰûmi na tu-nkʰonde na tu-nâyi,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-20-1,,tumb1250,20,makúmí ɡʰá-ŵîri or ɣá-ŵîri ???,makúmí ɡʰá-ŵîri or ɣá-ŵîri ???,[],,[],,False,Tumbuka.htm,True,,1
+tumb1250-21-1,,tumb1250,21,makúmí ɡʰá-ŵîri na ka-môza,makúmí ɡʰá-ŵîri na ka-môza,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-22-1,,tumb1250,22,makúmí ɡʰá-ŵîrí na tu-ŵîri,makúmí ɡʰá-ŵîrí na tu-ŵîri,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-23-1,,tumb1250,23,makúmí ɡʰá-ŵîrí na tu-tâtu,makúmí ɡʰá-ŵîrí na tu-tâtu,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-24-1,,tumb1250,24,makúmí ɡʰá-ŵîrí na tu-nâyi,makúmí ɡʰá-ŵîrí na tu-nâyi,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-25-1,,tumb1250,25,makúmí ɡʰá-ŵîrí na tu-nkʰonde,makúmí ɡʰá-ŵîrí na tu-nkʰonde,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-26-1,,tumb1250,26,makúmí ɡʰá-ŵîrí na + 6,makúmí ɡʰá-ŵîrí na + 6,[],,[],,False,Tumbuka.htm,True,,1
+tumb1250-27-1,,tumb1250,27,makúmí ɡʰá-ŵîrí na + 7,makúmí ɡʰá-ŵîrí na + 7,[],,[],,False,Tumbuka.htm,True,,1
+tumb1250-28-1,,tumb1250,28,makúmí ɡʰá-ŵîrí na + 8,makúmí ɡʰá-ŵîrí na + 8,[],,[],,False,Tumbuka.htm,True,,1
+tumb1250-29-1,,tumb1250,29,makúmí ɡʰá-ŵîrí na + 9,makúmí ɡʰá-ŵîrí na + 9,[],,[],,False,Tumbuka.htm,True,,1
+tumb1250-30-1,,tumb1250,30,makúmí ɡʰá-tátu,makúmí ɡʰá-tátu,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-40-1,,tumb1250,40,makúmí ɡʰá-nâyi,makúmí ɡʰá-nâyi,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-50-1,,tumb1250,50,makúmí ɡʰá-nkʰonde,makúmí ɡʰá-nkʰonde,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-60-1,,tumb1250,60,makúmí ɡʰá-nkʰonde na li-môza,makúmí ɡʰá-nkʰonde na li-môza,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-70-1,,tumb1250,70,makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri,makúmí ɡʰá-nkʰonde na ɡʰá-ŵîri,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-80-1,,tumb1250,80,makúmí ɡʰá-nkʰonde na ɡʰá-tâtu,makúmí ɡʰá-nkʰonde na ɡʰá-tâtu,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-90-1,,tumb1250,90,makúmí ɡʰá-nkʰonde na ɡʰá-nâyi,makúmí ɡʰá-nkʰonde na ɡʰá-nâyi,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-100-1,,tumb1250,100,makúmí kʰûmi,makúmí kʰûmi,[],( 10 x 10 ),[],,False,Tumbuka.htm,False,,1
+tumb1250-200-1,,tumb1250,200,makúmí kʰûmi na ɡʰáŵîri,makúmí kʰûmi na ɡʰáŵîri,[],,[],,False,Tumbuka.htm,False,,1
+tumb1250-1000-1,,tumb1250,1000,ci-kwi = tʃikwi ?,ci-kwi = tʃikwi ?,[],,[],,False,Tumbuka.htm,True,,1
+tumb1250-2000-1,,tumb1250,2000,vi-kwi ví-ŵîri,vi-kwi ví-ŵîri,[],,[],,False,Tumbuka.htm,False,,1

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sout2856-1-1,,sout2856,1,i-skei,i-skei,[],,[],,False,Efate-South.htm,False,,1
+sout2856-2-1,,sout2856,2,i-nru,i-nru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-3-1,,sout2856,3,i-tol,i-tol,[],,[],,False,Efate-South.htm,False,,1
+sout2856-4-1,,sout2856,4,i-pat,i-pat,[],,[],,False,Efate-South.htm,False,,1
+sout2856-5-1,,sout2856,5,i-lim,i-lim,[],,[],,False,Efate-South.htm,False,,1
+sout2856-6-1,,sout2856,6,i-lates,i-lates,[],( 5 + 1 ),[],,False,Efate-South.htm,False,,1
+sout2856-7-1,,sout2856,7,i-laru,i-laru,[],( 5 + 2 ),[],,False,Efate-South.htm,False,,1
+sout2856-8-1,,sout2856,8,i-latol,i-latol,[],( 5 + 3 ),[],,False,Efate-South.htm,False,,1
+sout2856-9-1,,sout2856,9,i-lfot,i-lfot,[],( 5 + 4 ),[],,False,Efate-South.htm,False,,1
+sout2856-10-1,,sout2856,10,ralim iskei,ralim iskei,[],( 5 + 5 ),[],,False,Efate-South.htm,False,,1
+sout2856-11-1,,sout2856,11,ralim iskei atmat skei,ralim iskei atmat skei,[],,[],,False,Efate-South.htm,False,,1
+sout2856-12-1,,sout2856,12,ralim iskei atmat inru,ralim iskei atmat inru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-13-1,,sout2856,13,ralim iskei atmat itol,ralim iskei atmat itol,[],,[],,False,Efate-South.htm,False,,1
+sout2856-14-1,,sout2856,14,ralim iskei atmat ipat,ralim iskei atmat ipat,[],,[],,False,Efate-South.htm,False,,1
+sout2856-15-1,,sout2856,15,ralim iskei atmat ilim,ralim iskei atmat ilim,[],,[],,False,Efate-South.htm,False,,1
+sout2856-16-1,,sout2856,16,ralim iskei atmat ilates,ralim iskei atmat ilates,[],,[],,False,Efate-South.htm,False,,1
+sout2856-17-1,,sout2856,17,ralim iskei atmat ilaru,ralim iskei atmat ilaru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-18-1,,sout2856,18,ralim iskei atmat ilatol,ralim iskei atmat ilatol,[],,[],,False,Efate-South.htm,False,,1
+sout2856-19-1,,sout2856,19,ralim iskei atmat ilfot,ralim iskei atmat ilfot,[],,[],,False,Efate-South.htm,False,,1
+sout2856-20-1,,sout2856,20,ralim inru,ralim inru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-21-1,,sout2856,21,ralim inru atamat iskei,ralim inru atamat iskei,[],,[],,False,Efate-South.htm,False,,1
+sout2856-22-1,,sout2856,22,ralim inru atamat inru,ralim inru atamat inru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-23-1,,sout2856,23,ralim inru atamat itol,ralim inru atamat itol,[],,[],,False,Efate-South.htm,False,,1
+sout2856-24-1,,sout2856,24,ralim inru atamat ipat,ralim inru atamat ipat,[],,[],,False,Efate-South.htm,False,,1
+sout2856-25-1,,sout2856,25,ralim inru atamat ilim,ralim inru atamat ilim,[],,[],,False,Efate-South.htm,False,,1
+sout2856-26-1,,sout2856,26,ralim inru atamat ilates,ralim inru atamat ilates,[],,[],,False,Efate-South.htm,False,,1
+sout2856-27-1,,sout2856,27,ralim inru atamat ilaru,ralim inru atamat ilaru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-28-1,,sout2856,28,ralim inru atamat ilatol,ralim inru atamat ilatol,[],,[],,False,Efate-South.htm,False,,1
+sout2856-29-1,,sout2856,29,ralim inru atamat ilfot,ralim inru atamat ilfot,[],,[],,False,Efate-South.htm,False,,1
+sout2856-30-1,,sout2856,30,ralim itol,ralim itol,[],,[],,False,Efate-South.htm,False,,1
+sout2856-40-1,,sout2856,40,ralim ipat,ralim ipat,[],,[],,False,Efate-South.htm,False,,1
+sout2856-50-1,,sout2856,50,ralim ilim,ralim ilim,[],,[],,False,Efate-South.htm,False,,1
+sout2856-60-1,,sout2856,60,ralim ilates,ralim ilates,[],,[],,False,Efate-South.htm,False,,1
+sout2856-70-1,,sout2856,70,ralim ilaru,ralim ilaru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-80-1,,sout2856,80,ralim ilatol,ralim ilatol,[],,[],,False,Efate-South.htm,False,,1
+sout2856-90-1,,sout2856,90,ralim ilfot,ralim ilfot,[],,[],,False,Efate-South.htm,False,,1
+sout2856-100-1,,sout2856,100,tifli iskei,tifli iskei,[],,[],,False,Efate-South.htm,False,,1
+sout2856-200-1,,sout2856,200,tifli inru,tifli inru,[],,[],,False,Efate-South.htm,False,,1
+sout2856-1000-1,,sout2856,1000,p͡kon iskei,p͡kon iskei,[],,[],,False,Efate-South.htm,False,,1
+sout2856-2000-1,,sout2856,2000,p͡kon inru,p͡kon inru,[],,[],,False,Efate-South.htm,False,,1

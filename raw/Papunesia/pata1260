@@ -1,0 +1,20 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+pata1260-1-1,,pata1260,1,pisɔ,pisɔ,[],,[],,False,Patani.htm,False,,1
+pata1260-2-1,,pata1260,2,pilu,pilu,[],,[],,False,Patani.htm,False,,1
+pata1260-3-1,,pata1260,3,pitel,pitel,[],,[],,False,Patani.htm,False,,1
+pata1260-4-1,,pata1260,4,pifɔt,pifɔt,[],,[],,False,Patani.htm,False,,1
+pata1260-5-1,,pata1260,5,pilim,pilim,[],,[],,False,Patani.htm,False,,1
+pata1260-6-1,,pata1260,6,pwonom,pwonom,[],,[],,False,Patani.htm,False,,1
+pata1260-7-1,,pata1260,7,pifit,pifit,[],,[],,False,Patani.htm,False,,1
+pata1260-8-1,,pata1260,8,puwal,puwal,[],,[],,False,Patani.htm,False,,1
+pata1260-9-1,,pata1260,9,fapolo,fapolo,[],,[],,False,Patani.htm,False,,1
+pata1260-10-1,,pata1260,10,yɔfɔ sɔ,yɔfɔ sɔ,[],,[],,False,Patani.htm,False,,1
+pata1260-11-1,,pata1260,11,yɔfɔ sɔ re pisɔ,yɔfɔ sɔ re pisɔ,[],,[],,False,Patani.htm,False,,1
+pata1260-19-1,,pata1260,19,yɔfɔ sɔ re fapolo,yɔfɔ sɔ re fapolo,[],,[],,False,Patani.htm,False,,1
+pata1260-20-1,,pata1260,20,yɔfɔ lu,yɔfɔ lu,[],,[],,False,Patani.htm,False,,1
+pata1260-21-1,,pata1260,21,yɔfɔ lu re pisɔ,yɔfɔ lu re pisɔ,[],,[],,False,Patani.htm,False,,1
+pata1260-100-1,,pata1260,100,slibi sɔ,slibi sɔ,[],,[],,False,Patani.htm,False,,1
+pata1260-200-1,,pata1260,200,silibi lu,silibi lu,[],,[],,False,Patani.htm,False,,1
+pata1260-200-2,,pata1260,200,201. silibi lu re pisɔ,201. silibi lu re pisɔ,[],,[],,False,Patani.htm,True,,1
+pata1260-1000-1,,pata1260,1000,t͡ʃalan t͡ʃɔ,t͡ʃalan t͡ʃɔ,[],(*),[],,False,Patani.htm,False,,1
+pata1260-1000000-1,,pata1260,1000000,maliyoŋ,maliyoŋ,[],( < miliion ?),[],,False,Patani.htm,False,,1

@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kapi1250-1-1,,kapi1250,1,ti,ti,[],,[],,False,Kapin.htm,False,,1
+kapi1250-2-1,,kapi1250,2,yu,yu,[],,[],,False,Kapin.htm,False,,1
+kapi1250-2-2,,kapi1250,2,yuv,yuv,[],,[],,False,Kapin.htm,False,,1
+kapi1250-3-1,,kapi1250,3,yal,yal,[],,[],,False,Kapin.htm,False,,1
+kapi1250-3-2,,kapi1250,3,yar,yar,[],,[],,False,Kapin.htm,False,,1
+kapi1250-4-1,,kapi1250,4,vei,vei,[],,[],,False,Kapin.htm,False,,1
+kapi1250-5-1,,kapi1250,5,lim,lim,[],(lit: 'hand' ),[],,False,Kapin.htm,False,,1
+kapi1250-6-1,,kapi1250,6,lima sakti,lima sakti,[],( 5 + 1 ),[],,False,Kapin.htm,False,,1
+kapi1250-7-1,,kapi1250,7,lima sakayu,lima sakayu,[],(5 + 2 ),[],,False,Kapin.htm,False,,1
+kapi1250-8-1,,kapi1250,8,lima sakyal,lima sakyal,[],(5 + 3 ),[],,False,Kapin.htm,False,,1
+kapi1250-9-1,,kapi1250,9,lima sakvei,lima sakvei,[],(5 + 4 ),[],,False,Kapin.htm,False,,1
+kapi1250-10-1,,kapi1250,10,omin,omin,[],,[],,False,Kapin.htm,False,,1
+kapi1250-11-1,,kapi1250,11,omin tedem ti,omin tedem ti,[],,[],,False,Kapin.htm,False,,1
+kapi1250-12-1,,kapi1250,12,omin tedem yu,omin tedem yu,[],,[],,False,Kapin.htm,False,,1
+kapi1250-13-1,,kapi1250,13,omin tedem yar,omin tedem yar,[],,[],,False,Kapin.htm,False,,1
+kapi1250-14-1,,kapi1250,14,omin tedem vei,omin tedem vei,[],,[],,False,Kapin.htm,False,,1
+kapi1250-15-1,,kapi1250,15,omin tedem lim,omin tedem lim,[],,[],,False,Kapin.htm,False,,1
+kapi1250-16-1,,kapi1250,16,omin tedem limasek ti,omin tedem limasek ti,[],,[],,False,Kapin.htm,False,,1
+kapi1250-17-1,,kapi1250,17,omin tedem limasek yuv,omin tedem limasek yuv,[],,[],,False,Kapin.htm,False,,1
+kapi1250-18-1,,kapi1250,18,omin tedem limasek yar,omin tedem limasek yar,[],,[],,False,Kapin.htm,False,,1
+kapi1250-19-1,,kapi1250,19,omin tedem limasek vei,omin tedem limasek vei,[],,[],,False,Kapin.htm,False,,1
+kapi1250-20-1,,kapi1250,20,mepie ti,mepie ti,[],,[],,False,Kapin.htm,False,,1
+kapi1250-21-1,,kapi1250,21,mepie ti me lak ti,mepie ti me lak ti,[],,[],,False,Kapin.htm,False,,1
+kapi1250-22-1,,kapi1250,22,mepie ti me lak yuv,mepie ti me lak yuv,[],,[],,False,Kapin.htm,False,,1
+kapi1250-23-1,,kapi1250,23,mepie ti me lak yar,mepie ti me lak yar,[],,[],,False,Kapin.htm,False,,1
+kapi1250-24-1,,kapi1250,24,mepie ti me lak vei,mepie ti me lak vei,[],,[],,False,Kapin.htm,False,,1
+kapi1250-25-1,,kapi1250,25,mepie ti me lak lim,mepie ti me lak lim,[],,[],,False,Kapin.htm,False,,1
+kapi1250-26-1,,kapi1250,26,mepie ti me lak limasek ti,mepie ti me lak limasek ti,[],,[],,False,Kapin.htm,False,,1
+kapi1250-27-1,,kapi1250,27,mepie ti me lak limasek yuv,mepie ti me lak limasek yuv,[],,[],,False,Kapin.htm,False,,1
+kapi1250-28-1,,kapi1250,28,mepie ti me laklimasek yar,mepie ti me laklimasek yar,[],,[],,False,Kapin.htm,False,,1
+kapi1250-29-1,,kapi1250,29,mepie ti me lak limasek vei,mepie ti me lak limasek vei,[],,[],,False,Kapin.htm,False,,1
+kapi1250-30-1,,kapi1250,30,mepie ti me lak omin,mepie ti me lak omin,[],,[],,False,Kapin.htm,False,,1
+kapi1250-40-1,,kapi1250,40,mepie yuv,mepie yuv,[],( 20 x 2 ),[],,False,Kapin.htm,False,,1
+kapi1250-50-1,,kapi1250,50,mepie yuv lak omin,mepie yuv lak omin,[],,[],,False,Kapin.htm,False,,1
+kapi1250-60-1,,kapi1250,60,mepie yar,mepie yar,[],( 20 x 3 ),[],,False,Kapin.htm,False,,1
+kapi1250-70-1,,kapi1250,70,mepie yar lak omin,mepie yar lak omin,[],,[],,False,Kapin.htm,False,,1
+kapi1250-80-1,,kapi1250,80,mepie yar,mepie yar,[],( 20 x 4 ),[],,False,Kapin.htm,False,,1
+kapi1250-90-1,,kapi1250,90,mepie yar lak omin,mepie yar lak omin,[],,[],,False,Kapin.htm,False,,1
+kapi1250-100-1,,kapi1250,100,vaɣak ti,vaɣak ti,[],,[],,False,Kapin.htm,False,,1
+kapi1250-200-1,,kapi1250,200,vaɣak yuv,vaɣak yuv,[],,[],,False,Kapin.htm,False,,1
+kapi1250-1000-1,,kapi1250,1000,vaɣak omin,vaɣak omin,[],,[],,False,Kapin.htm,False,,1
+kapi1250-2000-1,,kapi1250,2000,vaɣak mepie ti,vaɣak mepie ti,[],,[],,False,Kapin.htm,False,,1

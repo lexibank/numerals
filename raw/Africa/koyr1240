@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+koyr1240-1-1,,koyr1240,1,foo,foo,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-1-2,,koyr1240,1,a-foo,a-foo,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-2-1,,koyr1240,2,hiŋka,hiŋka,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-3-1,,koyr1240,3,hindʒa,hindʒa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-4-1,,koyr1240,4,taatʃi,taatʃi,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-5-1,,koyr1240,5,ɡuu,ɡuu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-6-1,,koyr1240,6,iddu,iddu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-7-1,,koyr1240,7,iiye,iiye,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-8-1,,koyr1240,8,yaaha,yaaha,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-9-1,,koyr1240,9,yaɡɡa,yaɡɡa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-10-1,,koyr1240,10,woy,woy,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-10-2,,koyr1240,10,wey,wey,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-11-1,,koyr1240,11,woy tʃindi foo,woy tʃindi foo,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-12-1,,koyr1240,12,woy tʃindi hiŋka,woy tʃindi hiŋka,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-13-1,,koyr1240,13,woy tʃindi hindʒa,woy tʃindi hindʒa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-14-1,,koyr1240,14,woy tʃindi taatʃi,woy tʃindi taatʃi,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-15-1,,koyr1240,15,woy tʃindi ɡuu,woy tʃindi ɡuu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-16-1,,koyr1240,16,woy tʃindi duu,woy tʃindi duu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-17-1,,koyr1240,17,woy tʃindi iyye,woy tʃindi iyye,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-18-1,,koyr1240,18,woy tʃindi yaaha,woy tʃindi yaaha,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-19-1,,koyr1240,19,woy tʃindi yaɡɡa,woy tʃindi yaɡɡa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-20-1,,koyr1240,20,waraŋka,waraŋka,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-21-1,,koyr1240,21,waraŋka tʃindi foo,waraŋka tʃindi foo,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-22-1,,koyr1240,22,waraŋka tʃindi hiŋka,waraŋka tʃindi hiŋka,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-23-1,,koyr1240,23,waraŋka tʃindi hindʒa,waraŋka tʃindi hindʒa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-24-1,,koyr1240,24,waraŋka tʃindi taatʃi,waraŋka tʃindi taatʃi,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-25-1,,koyr1240,25,waraŋka tʃindi ɡuu,waraŋka tʃindi ɡuu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-26-1,,koyr1240,26,waraŋka tʃindi duu,waraŋka tʃindi duu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-27-1,,koyr1240,27,waraŋka tʃindi iyye,waraŋka tʃindi iyye,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-28-1,,koyr1240,28,waraŋka tʃindi yaaha,waraŋka tʃindi yaaha,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-29-1,,koyr1240,29,waraŋka tʃindi yaɡɡa,waraŋka tʃindi yaɡɡa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-30-1,,koyr1240,30,warandʒa,warandʒa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-40-1,,koyr1240,40,woy-taatʃi,woy-taatʃi,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-50-1,,koyr1240,50,woy-ɡu,woy-ɡu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-60-1,,koyr1240,60,woy-du,woy-du,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-70-1,,koyr1240,70,woy-ye,woy-ye,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-80-1,,koyr1240,80,woy-yaaha,woy-yaaha,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-90-1,,koyr1240,90,woy-yaɡɡa,woy-yaɡɡa,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-100-1,,koyr1240,100,dʒoŋɡu,dʒoŋɡu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-100-2,,koyr1240,100,dʒaŋɡu,dʒaŋɡu,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-200-1,,koyr1240,200,dʒoŋɡu hiŋka,dʒoŋɡu hiŋka,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-1000-1,,koyr1240,1000,dʒember,dʒember,[],,[],,False,Songhai-Koyra.htm,False,,1
+koyr1240-2000-1,,koyr1240,2000,dʒember hiŋka,dʒember hiŋka,[],,[],,False,Songhai-Koyra.htm,False,,1

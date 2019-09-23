@@ -1,0 +1,52 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mand1423-1-1,,mand1423,1,imonɡa,imonɡa,[],(imonɡa = IPA [imoᵑɡa]),[],,False,Manda-Bantu.htm,False,,1
+mand1423-2-1,,mand1423,2,sivɨlɨ,sivɨlɨ,[],(sivɨlɨ = IPA [siʋɨlɪ]),[],,False,Manda-Bantu.htm,False,,1
+mand1423-3-1,,mand1423,3,sidatu,sidatu,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-4-1,,mand1423,4,ncheche,ncheche,[],(ncheche = IPA [ntʃetʃe]),[],,False,Manda-Bantu.htm,False,,1
+mand1423-5-1,,mand1423,5,muhanʉ,muhanʉ,[],(muhanʉ = IPA [ muhanʊ]),[],,False,Manda-Bantu.htm,False,,1
+mand1423-6-1,,mand1423,6,muhanʉ na imonɡa,muhanʉ na imonɡa,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-6-2,,mand1423,6,sita,sita,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-7-1,,mand1423,7,muhanʉ na sivɨlɨ,muhanʉ na sivɨlɨ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-7-2,,mand1423,7,saba,saba,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-8-1,,mand1423,8,muhanʉ na sidatu,muhanʉ na sidatu,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-8-2,,mand1423,8,nane,nane,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-9-1,,mand1423,9,muhanʉ na ncheche,muhanʉ na ncheche,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-9-2,,mand1423,9,tisa,tisa,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-10-1,,mand1423,10,likumi limonɡa,likumi limonɡa,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-10-2,,mand1423,10,kumi,kumi,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-11-1,,mand1423,11,likumi limonɡa na,likumi limonɡa na,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-11-2,,mand1423,11,kumi na moja,kumi na moja,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-12-1,,mand1423,12,likumi limonɡa na sivɨlɨ,likumi limonɡa na sivɨlɨ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-13-1,,mand1423,13,likumi limonɡa na sidatu,likumi limonɡa na sidatu,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-14-1,,mand1423,14,likumi limonɡa na ncheche,likumi limonɡa na ncheche,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-15-1,,mand1423,15,likumi limonɡa na muhanʉ,likumi limonɡa na muhanʉ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-16-1,,mand1423,16,likumi limonɡa na sita,likumi limonɡa na sita,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-17-1,,mand1423,17,likumi limonɡa na saba,likumi limonɡa na saba,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-18-1,,mand1423,18,likumi limonɡa na nane,likumi limonɡa na nane,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-19-1,,mand1423,19,likumi limonɡa na tisa,likumi limonɡa na tisa,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-20-1,,mand1423,20,makumi ɡavɨlɨ,makumi ɡavɨlɨ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-20-2,,mand1423,20,ishilini,ishilini,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-21-1,,mand1423,21,makumi ɡavɨlɨ na imonɡa,makumi ɡavɨlɨ na imonɡa,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-22-1,,mand1423,22,makumi ɡavɨlɨ na sivɨlɨ,makumi ɡavɨlɨ na sivɨlɨ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-23-1,,mand1423,23,makumi ɡavɨlɨ na sidatu,makumi ɡavɨlɨ na sidatu,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-24-1,,mand1423,24,makumi ɡavɨlɨ na ncheche,makumi ɡavɨlɨ na ncheche,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-25-1,,mand1423,25,makumi ɡavɨlɨ na muhanʉ,makumi ɡavɨlɨ na muhanʉ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-26-1,,mand1423,26,makumi ɡavɨlɨ na sita,makumi ɡavɨlɨ na sita,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-27-1,,mand1423,27,makumi ɡavɨlɨ na saba,makumi ɡavɨlɨ na saba,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-28-1,,mand1423,28,makumi ɡavɨlɨ na nane,makumi ɡavɨlɨ na nane,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-29-1,,mand1423,29,makumi ɡavɨlɨ na tisa,makumi ɡavɨlɨ na tisa,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-30-1,,mand1423,30,makumi ɡadatu,makumi ɡadatu,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-30-2,,mand1423,30,thelathini,thelathini,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-40-1,,mand1423,40,makumi ncheche,makumi ncheche,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-40-2,,mand1423,40,arobaini,arobaini,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-50-1,,mand1423,50,makumi muhanʉ,makumi muhanʉ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-50-2,,mand1423,50,hamsini,hamsini,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-60-1,,mand1423,60,makumi muhanʉ na likumi limonɡa,makumi muhanʉ na likumi limonɡa,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-70-1,,mand1423,70,makumi muhanʉ na makumi ɡavɨlɨ,makumi muhanʉ na makumi ɡavɨlɨ,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-80-1,,mand1423,80,makumi muhanʉ na makumi ɡadatu,makumi muhanʉ na makumi ɡadatu,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-90-1,,mand1423,90,makumi muhanʉ na makumi ncheche,makumi muhanʉ na makumi ncheche,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-100-1,,mand1423,100,malonɡo kumi,malonɡo kumi,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-100-2,,mand1423,100,mia moja,mia moja,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-200-1,,mand1423,200,mia mbili,mia mbili,[],,[],,False,Manda-Bantu.htm,False,,1
+mand1423-1000-1,,mand1423,1000,elfu moja,elfu moja,[],< Swahili ,[],,True,Manda-Bantu.htm,False,,1
+mand1423-2000-1,,mand1423,2000,elfu mbili,elfu mbili,[],,[],,False,Manda-Bantu.htm,False,,1

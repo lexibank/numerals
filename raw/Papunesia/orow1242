@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+orow1242-1-1,,orow1242,1,rakẽ,rakẽ,[],,[],,False,Orowe.htm,False,,1
+orow1242-2-1,,orow1242,2,kẽaɾu,kẽaɾu,[],,[],,False,Orowe.htm,False,,1
+orow1242-2-2,,orow1242,2,kẽʌhɾu,kẽʌhɾu,[],,[],,False,Orowe.htm,False,,1
+orow1242-3-1,,orow1242,3,kẽɾeɾe,kẽɾeɾe,[],,[],,False,Orowe.htm,False,,1
+orow1242-4-1,,orow1242,4,kẽvɛɛ,kẽvɛɛ,[],,[],,False,Orowe.htm,False,,1
+orow1242-4-2,,orow1242,4,kẽvwɛ,kẽvwɛ,[],,[],,False,Orowe.htm,False,,1
+orow1242-5-1,,orow1242,5,kẽnĩ,kẽnĩ,[],,[],,False,Orowe.htm,False,,1
+orow1242-5-2,,orow1242,5,kẽni,kẽni,[],,[],,False,Orowe.htm,False,,1
+orow1242-6-1,,orow1242,6,kẽnĩ mɛ rakẽ,kẽnĩ mɛ rakẽ,[],( 5 + 1 ),[],,False,Orowe.htm,False,,1
+orow1242-7-1,,orow1242,7,kẽnĩ mɛ kẽaɾu,kẽnĩ mɛ kẽaɾu,[],( 5 + 2 ),[],,False,Orowe.htm,False,,1
+orow1242-8-1,,orow1242,8,kẽnĩ mɛ kẽɾeɾe,kẽnĩ mɛ kẽɾeɾe,[],( 5 + 3 ),[],,False,Orowe.htm,False,,1
+orow1242-9-1,,orow1242,9,kẽnĩ mɛ kẽvɛɛ,kẽnĩ mɛ kẽvɛɛ,[],( 5 + 4 ),[],,False,Orowe.htm,False,,1
+orow1242-10-1,,orow1242,10,kẽnĩ mɛ kẽnĩ,kẽnĩ mɛ kẽnĩ,[],( litː ' two hands' ),[],,False,Orowe.htm,False,,1
+orow1242-11-1,,orow1242,11,pauru mɛ rakẽ,pauru mɛ rakẽ,[],,[],,False,Orowe.htm,False,,1
+orow1242-12-1,,orow1242,12,pauru mɛ kẽʌhɾu,pauru mɛ kẽʌhɾu,[],,[],,False,Orowe.htm,False,,1
+orow1242-13-1,,orow1242,13,pauru mɛ kẽɾeɾe,pauru mɛ kẽɾeɾe,[],,[],,False,Orowe.htm,False,,1
+orow1242-14-1,,orow1242,14,pauru mɛ kẽvwɛ,pauru mɛ kẽvwɛ,[],,[],,False,Orowe.htm,False,,1
+orow1242-15-1,,orow1242,15,pauru mɛ kẽni,pauru mɛ kẽni,[],,[],,False,Orowe.htm,False,,1
+orow1242-16-1,,orow1242,16,pauru mɛ kẽni rake *̃,pauru mɛ kẽni rake *̃,[],,[],,False,Orowe.htm,True,,1
+orow1242-17-1,,orow1242,17,pauru mɛ kẽni kẽʌhɾu,pauru mɛ kẽni kẽʌhɾu,[],,[],,False,Orowe.htm,False,,1
+orow1242-18-1,,orow1242,18,pauru mɛ kẽni kẽɾeɾe,pauru mɛ kẽni kẽɾeɾe,[],,[],,False,Orowe.htm,False,,1
+orow1242-19-1,,orow1242,19,pauru mɛ kẽni kẽvwɛ,pauru mɛ kẽni kẽvwɛ,[],,[],,False,Orowe.htm,False,,1
+orow1242-20-1,,orow1242,20,raʔɔ,raʔɔ,[],,[],,False,Orowe.htm,False,,1
+orow1242-20-2,,orow1242,20,rakẽ oː,rakẽ oː,[],,[],,False,Orowe.htm,False,,1
+orow1242-30-1,,orow1242,30,rakẽ oː mɛ pauru,rakẽ oː mɛ pauru,[],,[],,False,Orowe.htm,False,,1
+orow1242-40-1,,orow1242,40,kẽʌhɾu oː,kẽʌhɾu oː,[],( 2  x 20 ),[],,False,Orowe.htm,False,,1
+orow1242-50-1,,orow1242,50,kẽʌhɾu oː mɛ pauru,kẽʌhɾu oː mɛ pauru,[],,[],,False,Orowe.htm,False,,1
+orow1242-60-1,,orow1242,60,kẽɾeɾe oː,kẽɾeɾe oː,[],( 3  x 20 ),[],,False,Orowe.htm,False,,1
+orow1242-70-1,,orow1242,70,kẽɾeɾe oː mɛ pauru,kẽɾeɾe oː mɛ pauru,[],,[],,False,Orowe.htm,False,,1
+orow1242-80-1,,orow1242,80,kẽvwɛ oː,kẽvwɛ oː,[],( 4  x 20 ),[],,False,Orowe.htm,False,,1
+orow1242-90-1,,orow1242,90,kẽvwɛ oː mɛ pauru,kẽvwɛ oː mɛ pauru,[],,[],,False,Orowe.htm,False,,1
+orow1242-100-1,,orow1242,100,kẽni oː,kẽni oː,[],( 5  x 20 ),[],,False,Orowe.htm,False,,1

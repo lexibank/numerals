@@ -1,0 +1,73 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+band1344-1-1,,band1344,1,bale,bale,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-1-2,,band1344,1,bɑ̀lē,bɑ̀lē,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-2-1,,band1344,2,biʃi,biʃi,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-2-2,,band1344,2,bīʃì,bīʃì,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-3-1,,band1344,3,vɘta,vɘta,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-3-2,,band1344,3,və̀tɑ̀,və̀tɑ̀,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-4-1,,band1344,4,vana,vana,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-4-2,,band1344,4,və̀nɑ̄,və̀nɑ̄,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-5-1,,band1344,5,mīndū,mīndū,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-5-2,,band1344,5,mīndû,mīndû,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-6-1,,band1344,6,mīndū ama nɘ bale ( 5 + 1 )̄,mīndū ama nɘ bale ( 5 + 1 )̄,[],,[],,False,Banda-Linda.htm,True,,1
+band1344-6-2,,band1344,6,mīndû ɑ̀ bɑ̀le ( 5 + 1 )̄,mīndû ɑ̀ bɑ̀le ( 5 + 1 )̄,[],,[],,False,Banda-Linda.htm,True,,2
+band1344-7-1,,band1344,7,mīndū ama nɘ bīʃi,mīndū ama nɘ bīʃi,[],( 5 + 2 ),[],,False,Banda-Linda.htm,False,,1
+band1344-7-2,,band1344,7,mīndû ɑ̀ bīʃì,mīndû ɑ̀ bīʃì,[],( 5 + 2 ),[],,False,Banda-Linda.htm,False,,2
+band1344-8-1,,band1344,8,mīndū ama nɘ vɘta,mīndū ama nɘ vɘta,[],( 5 + 3 ),[],,False,Banda-Linda.htm,False,,1
+band1344-8-2,,band1344,8,mīndû ɑ̀ və̀tɑ̀,mīndû ɑ̀ və̀tɑ̀,[],( 5 + 3 ),[],,False,Banda-Linda.htm,False,,2
+band1344-9-1,,band1344,9,mīndū ama nɘ vana,mīndū ama nɘ vana,[],( 5 + 4 ),[],,False,Banda-Linda.htm,False,,1
+band1344-9-2,,band1344,9,mīndû ɑ̀ və̀nɑ̄,mīndû ɑ̀ və̀nɑ̄,[],( 5 + 4 ),[],,False,Banda-Linda.htm,False,,2
+band1344-10-1,,band1344,10,moɾofo,moɾofo,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-10-2,,band1344,10,mórófō,mórófō,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-11-1,,band1344,11,moɾofo ama nɘ bale,moɾofo ama nɘ bale,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-11-2,,band1344,11,mórófō ɑ̀mɑ̀ nə̀ bɑ̀lē,mórófō ɑ̀mɑ̀ nə̀ bɑ̀lē,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-12-1,,band1344,12,moɾofo ama nɘ bīʃi,moɾofo ama nɘ bīʃi,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-12-2,,band1344,12,mórófō ɑ̀mɑ̀ nə̀ bīʃì,mórófō ɑ̀mɑ̀ nə̀ bīʃì,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-13-1,,band1344,13,moɾofo ama nɘ vɘta,moɾofo ama nɘ vɘta,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-13-2,,band1344,13,mórófō ɑ̀mɑ̀ nə̀ və̀tɑ̀,mórófō ɑ̀mɑ̀ nə̀ və̀tɑ̀,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-14-1,,band1344,14,moɾofo ama nɘ vana,moɾofo ama nɘ vana,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-14-2,,band1344,14,mórófō ɑ̀mɑ̀ nə̀ və̀nɑ̄,mórófō ɑ̀mɑ̀ nə̀ və̀nɑ̄,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-15-1,,band1344,15,ɡrɘvɘta,ɡrɘvɘta,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-15-2,,band1344,15,ɡɨ̄ɾɨ̄və̄tɑ̀,ɡɨ̄ɾɨ̄və̄tɑ̀,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-16-1,,band1344,16,ɡrɘvɘta ama nɘ bale,ɡrɘvɘta ama nɘ bale,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-16-2,,band1344,16,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ bɑ̀lē,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ bɑ̀lē,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-17-1,,band1344,17,ɡrɘvɘta ama nɘ bīʃi,ɡrɘvɘta ama nɘ bīʃi,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-17-2,,band1344,17,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ bīʃì,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ bīʃì,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-18-1,,band1344,18,ɡrɘvɘta ama nɘ vɘta,ɡrɘvɘta ama nɘ vɘta,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-18-2,,band1344,18,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ və̀tɑ̀,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ və̀tɑ̀,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-19-1,,band1344,19,ɡrɘvɘta ama nɘ vana,ɡrɘvɘta ama nɘ vana,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-19-2,,band1344,19,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ və̀nɑ̄,ɡɨ̄ɾɨ̄və̄tɑ̀ ɑ̀mɑ̀ nə̀ və̀nɑ̄,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-20-1,,band1344,20,zazu bale,zazu bale,[],(litː 'one person' ),[],,False,Banda-Linda.htm,False,,1
+band1344-20-2,,band1344,20,zòzū bɑ̀lē,zòzū bɑ̀lē,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-21-1,,band1344,21,zazu bale ama nɘ bale,zazu bale ama nɘ bale,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-21-2,,band1344,21,zòzū bɑ̀lē də̀ bɑ̀lē,zòzū bɑ̀lē də̀ bɑ̀lē,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-22-1,,band1344,22,zazu bale ama nɘ biʃi,zazu bale ama nɘ biʃi,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-22-2,,band1344,22,zòzū bɑ̀lē də̀ bīʃì,zòzū bɑ̀lē də̀ bīʃì,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-23-1,,band1344,23,zazu bale ama nɘ vɘta,zazu bale ama nɘ vɘta,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-23-2,,band1344,23,zòzū bɑ̀lē də̀ və̀tɑ̀,zòzū bɑ̀lē də̀ və̀tɑ̀,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-24-1,,band1344,24,zazu bale ama nɘ vana,zazu bale ama nɘ vana,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-24-2,,band1344,24,zòzū bɑ̀lē də̀ və̀nɑ̄,zòzū bɑ̀lē də̀ və̀nɑ̄,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-25-1,,band1344,25,zazu bale ama nɘ mīndū,zazu bale ama nɘ mīndū,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-26-1,,band1344,26,zazu bale ama nɘ mīndū ama nɘ bale,zazu bale ama nɘ mīndū ama nɘ bale,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-27-1,,band1344,27,zazu bale ama nɘ mīndū ama nɘ bīʃi,zazu bale ama nɘ mīndū ama nɘ bīʃi,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-28-1,,band1344,28,zazu bale ama nɘ mīndū ama nɘ vɘta,zazu bale ama nɘ mīndū ama nɘ vɘta,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-29-1,,band1344,29,zazu bale ama nɘ mīndū ama nɘ vana,zazu bale ama nɘ mīndū ama nɘ vana,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-30-1,,band1344,30,zazu bale de moɾofo,zazu bale de moɾofo,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-30-2,,band1344,30,zòzū bɑ̀lē də̀ mórófō,zòzū bɑ̀lē də̀ mórófō,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-40-1,,band1344,40,zazu bīʃì,zazu bīʃì,[],( 'two persons' ),[],,False,Banda-Linda.htm,False,,1
+band1344-40-2,,band1344,40,zòzū bīʃì,zòzū bīʃì,[],( 'two persons' ),[],,False,Banda-Linda.htm,False,,2
+band1344-50-1,,band1344,50,zazu bīʃì de moɾofo,zazu bīʃì de moɾofo,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-50-2,,band1344,50,zòzū bīʃì də̀ mórófō,zòzū bīʃì də̀ mórófō,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-60-1,,band1344,60,zazu vɘta,zazu vɘta,[],( 'three persons' ),[],,False,Banda-Linda.htm,False,,1
+band1344-60-2,,band1344,60,zòzū və̀tɑ̀,zòzū və̀tɑ̀,[],( 'three persons' ),[],,False,Banda-Linda.htm,False,,2
+band1344-70-1,,band1344,70,zazu vɘta de moɾofo,zazu vɘta de moɾofo,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-70-2,,band1344,70,zòzū vòtɑ̀ də̀ mórófō,zòzū vòtɑ̀ də̀ mórófō,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-80-1,,band1344,80,zazu vana,zazu vana,[],( 'four persons' ),[],,False,Banda-Linda.htm,False,,1
+band1344-80-2,,band1344,80,zòzū və̀nɑ̄,zòzū və̀nɑ̄,[],( 'four persons' ),[],,False,Banda-Linda.htm,False,,2
+band1344-90-1,,band1344,90,zazu vana de moɾofo,zazu vana de moɾofo,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-90-2,,band1344,90,zòzū və̀nɑ̄ də̀ mórófō,zòzū və̀nɑ̄ də̀ mórófō,[],,[],,False,Banda-Linda.htm,False,,2
+band1344-100-1,,band1344,100,zazu mīndū,zazu mīndū,[],( 'five persons' ),[],,False,Banda-Linda.htm,False,,1
+band1344-100-2,,band1344,100,zòzū mīndû,zòzū mīndû,[],( 'five persons' ),[],,False,Banda-Linda.htm,False,,2
+band1344-200-1,,band1344,200,nɡ͡banɡ͡bo biʃi,nɡ͡banɡ͡bo biʃi,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-1000-1,,band1344,1000,sake bale,sake bale,[],,[],,False,Banda-Linda.htm,False,,1
+band1344-2000-1,,band1344,2000,sake biʃi,sake biʃi,[],,[],,False,Banda-Linda.htm,False,,1

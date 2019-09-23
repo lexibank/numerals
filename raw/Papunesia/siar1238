@@ -1,0 +1,124 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+siar1238-1-1,,siar1238,1,i tik,i tik,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-1-2,,siar1238,1,i tik,i tik,[],(lit: 'it is one'),[],,False,Siar.htm,False,,1
+siar1238-1-3,,siar1238,1,itik,itik,[],,[],,False,Siar.htm,False,,2
+siar1238-2-1,,siar1238,2,i ru,i ru,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-2-2,,siar1238,2,i ru,i ru,[],(lit: 'it is two'),[],,False,Siar.htm,False,,1
+siar1238-2-3,,siar1238,2,irul,irul,[],,[],,False,Siar.htm,False,,2
+siar1238-3-1,,siar1238,3,i tól,i tól,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-3-2,,siar1238,3,i tòl,i tòl,[],(lit: 'it is three'),[],,False,Siar.htm,False,,1
+siar1238-3-3,,siar1238,3,itol,itol,[],,[],,False,Siar.htm,False,,2
+siar1238-4-1,,siar1238,4,i at,i at,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-4-2,,siar1238,4,i at,i at,[],(lit: 'it is four'),[],,False,Siar.htm,False,,1
+siar1238-4-3,,siar1238,4,iyat,iyat,[],,[],,False,Siar.htm,False,,2
+siar1238-5-1,,siar1238,5,i lim,i lim,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-5-2,,siar1238,5,i lim,i lim,[],(lit: 'it is five'),[],,False,Siar.htm,False,,1
+siar1238-5-3,,siar1238,5,ilim,ilim,[],,[],,False,Siar.htm,False,,2
+siar1238-6-1,,siar1238,6,i won,i won,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-6-2,,siar1238,6,i wón,i wón,[],(lit: 'it is six'),[],,False,Siar.htm,False,,1
+siar1238-6-3,,siar1238,6,iwan,iwan,[],,[],,False,Siar.htm,False,,2
+siar1238-7-1,,siar1238,7,i is,i is,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-7-2,,siar1238,7,i (f)is,i (f)is,[],(lit: 'it is seven'),[],,False,Siar.htm,False,,1
+siar1238-7-3,,siar1238,7,iis,iis,[],,[],,False,Siar.htm,False,,2
+siar1238-8-1,,siar1238,8,i wal,i wal,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-8-2,,siar1238,8,i wal,i wal,[],(lit: 'it is eight'),[],,False,Siar.htm,False,,1
+siar1238-8-3,,siar1238,8,iwal,iwal,[],,[],,False,Siar.htm,False,,2
+siar1238-9-1,,siar1238,9,i siwok,i siwok,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-9-2,,siar1238,9,i siwòk,i siwòk,[],(lit: 'it is nine'),[],,False,Siar.htm,False,,1
+siar1238-9-3,,siar1238,9,siwok,siwok,[],,[],,False,Siar.htm,False,,2
+siar1238-10-1,,siar1238,10,i saŋuli,i saŋuli,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-10-2,,siar1238,10,i tik ep bónót,i tik ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-10-3,,siar1238,10,i tik ép bònòt,i tik ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-10-4,,siar1238,10,i saŋulih,i saŋulih,[],,[],,False,Siar.htm,False,,1
+siar1238-10-5,,siar1238,10,saŋul,saŋul,[],,[],,False,Siar.htm,False,,2
+siar1238-10-6,,siar1238,10,itik ep bonot,itik ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-11-1,,siar1238,11,i tik ep bónót api pisir i tik,i tik ep bónót api pisir i tik,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-11-2,,siar1238,11,i tik ép bonot apipisir i tik,i tik ép bonot apipisir i tik,[],,[],,False,Siar.htm,False,,1
+siar1238-11-3,,siar1238,11,itik ep bonot ya pisir itik,itik ep bonot ya pisir itik,[],,[],,False,Siar.htm,False,,2
+siar1238-12-1,,siar1238,12,i tik ep bónót api pisir i ru,i tik ep bónót api pisir i ru,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-12-2,,siar1238,12,i tik ép bonot apipisir i ru,i tik ép bonot apipisir i ru,[],,[],,False,Siar.htm,False,,1
+siar1238-12-3,,siar1238,12,itik ep bonot ya pisir irul,itik ep bonot ya pisir irul,[],,[],,False,Siar.htm,False,,2
+siar1238-13-1,,siar1238,13,i tik ep bónót api pisir i tól,i tik ep bónót api pisir i tól,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-13-2,,siar1238,13,i tik ép bonot apipisir i tòl,i tik ép bonot apipisir i tòl,[],,[],,False,Siar.htm,False,,1
+siar1238-13-3,,siar1238,13,itik ep bonot ya pisir itol,itik ep bonot ya pisir itol,[],,[],,False,Siar.htm,False,,2
+siar1238-14-1,,siar1238,14,i tik ep bónót api pisir i at,i tik ep bónót api pisir i at,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-14-2,,siar1238,14,i tik ép bonot apipisir i at,i tik ép bonot apipisir i at,[],,[],,False,Siar.htm,False,,1
+siar1238-14-3,,siar1238,14,itik ep bonot ya pisir iyat,itik ep bonot ya pisir iyat,[],,[],,False,Siar.htm,False,,2
+siar1238-15-1,,siar1238,15,i tik ep bónót api pisir i lim,i tik ep bónót api pisir i lim,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-15-2,,siar1238,15,i tik ép bonot apipisir i lim,i tik ép bonot apipisir i lim,[],,[],,False,Siar.htm,False,,1
+siar1238-15-3,,siar1238,15,itik ep bonot ya pisir ilim,itik ep bonot ya pisir ilim,[],,[],,False,Siar.htm,False,,2
+siar1238-16-1,,siar1238,16,i tik ep bónót api pisir i won,i tik ep bónót api pisir i won,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-16-2,,siar1238,16,i tik ép bonot apipisir i wón,i tik ép bonot apipisir i wón,[],,[],,False,Siar.htm,False,,1
+siar1238-16-3,,siar1238,16,itik ep bonot ya pisir iwan,itik ep bonot ya pisir iwan,[],,[],,False,Siar.htm,False,,2
+siar1238-17-1,,siar1238,17,i tik ep bónót api pisir i is,i tik ep bónót api pisir i is,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-17-2,,siar1238,17,i tik ép bonot apipisir i (f)is,i tik ép bonot apipisir i (f)is,[],,[],,False,Siar.htm,False,,1
+siar1238-17-3,,siar1238,17,itik ep bonot ya pisir iis,itik ep bonot ya pisir iis,[],,[],,False,Siar.htm,False,,2
+siar1238-18-1,,siar1238,18,i tik ep bónót api pisir i wal,i tik ep bónót api pisir i wal,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-18-2,,siar1238,18,i tik ép bonot apipisir i wal,i tik ép bonot apipisir i wal,[],,[],,False,Siar.htm,False,,1
+siar1238-18-3,,siar1238,18,itik ep bonot ya pisir iwal,itik ep bonot ya pisir iwal,[],,[],,False,Siar.htm,False,,2
+siar1238-19-1,,siar1238,19,i tik ep bónót api pisir i siwok,i tik ep bónót api pisir i siwok,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-19-2,,siar1238,19,i tik ép bonot apipisir i siwòk,i tik ép bonot apipisir i siwòk,[],,[],,False,Siar.htm,False,,1
+siar1238-19-3,,siar1238,19,itik ep bonot ya pisir siwok,itik ep bonot ya pisir siwok,[],,[],,False,Siar.htm,False,,2
+siar1238-20-1,,siar1238,20,i ru ru bónót,i ru ru bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-20-2,,siar1238,20,i ru ru bònòt,i ru ru bònòt,[],(litː ' it is two tens'),[],,False,Siar.htm,False,,1
+siar1238-20-3,,siar1238,20,iruru bonot,iruru bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-21-1,,siar1238,21,i ru ru bónót api pisir i tik,i ru ru bónót api pisir i tik,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-21-2,,siar1238,21,i ru ru bònòt apipisir i tik,i ru ru bònòt apipisir i tik,[],,[],,False,Siar.htm,False,,1
+siar1238-21-3,,siar1238,21,iruru bonot ya pisir itik,iruru bonot ya pisir itik,[],,[],,False,Siar.htm,False,,2
+siar1238-22-1,,siar1238,22,i ru ru bónót api pisir i ru,i ru ru bónót api pisir i ru,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-22-2,,siar1238,22,i ru ru bònòt apipisir i ru,i ru ru bònòt apipisir i ru,[],,[],,False,Siar.htm,False,,1
+siar1238-22-3,,siar1238,22,iruru bonot ya pisir irul,iruru bonot ya pisir irul,[],,[],,False,Siar.htm,False,,2
+siar1238-23-1,,siar1238,23,i ru ru bónót api pisir i tól,i ru ru bónót api pisir i tól,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-23-2,,siar1238,23,i ru ru bònòt apipisir i tòl,i ru ru bònòt apipisir i tòl,[],,[],,False,Siar.htm,False,,1
+siar1238-23-3,,siar1238,23,iruru bonot ya pisir itol,iruru bonot ya pisir itol,[],,[],,False,Siar.htm,False,,2
+siar1238-24-1,,siar1238,24,i ru ru bónót api pisir i at,i ru ru bónót api pisir i at,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-24-2,,siar1238,24,i ru ru bònòt apipisir i at,i ru ru bònòt apipisir i at,[],,[],,False,Siar.htm,False,,1
+siar1238-24-3,,siar1238,24,iruru bonot ya pisir iyat,iruru bonot ya pisir iyat,[],,[],,False,Siar.htm,False,,2
+siar1238-25-1,,siar1238,25,i ru ru bónót api pisir i lim,i ru ru bónót api pisir i lim,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-25-2,,siar1238,25,i ru ru bònòt apipisir i lim,i ru ru bònòt apipisir i lim,[],,[],,False,Siar.htm,False,,1
+siar1238-25-3,,siar1238,25,iruru bonot ya pisir ilim,iruru bonot ya pisir ilim,[],,[],,False,Siar.htm,False,,2
+siar1238-26-1,,siar1238,26,i ru ru bónót api pisir i won,i ru ru bónót api pisir i won,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-26-2,,siar1238,26,i ru ru bònòt apipisir i wón,i ru ru bònòt apipisir i wón,[],,[],,False,Siar.htm,False,,1
+siar1238-26-3,,siar1238,26,iruru bonot ya pisir iwan,iruru bonot ya pisir iwan,[],,[],,False,Siar.htm,False,,2
+siar1238-27-1,,siar1238,27,i ru ru bónót api pisir i is,i ru ru bónót api pisir i is,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-27-2,,siar1238,27,i ru ru bònòt apipisir i (f)is,i ru ru bònòt apipisir i (f)is,[],,[],,False,Siar.htm,False,,1
+siar1238-27-3,,siar1238,27,iruru bonot ya pisir iis,iruru bonot ya pisir iis,[],,[],,False,Siar.htm,False,,2
+siar1238-28-1,,siar1238,28,i ru ru bónót api pisir i wal,i ru ru bónót api pisir i wal,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-28-2,,siar1238,28,i ru ru bònòt apipisir i wal,i ru ru bònòt apipisir i wal,[],,[],,False,Siar.htm,False,,1
+siar1238-28-3,,siar1238,28,iruru bonot ya pisir iwal,iruru bonot ya pisir iwal,[],,[],,False,Siar.htm,False,,2
+siar1238-29-1,,siar1238,29,i ru ru bónót api pisir i siwok,i ru ru bónót api pisir i siwok,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-29-2,,siar1238,29,i ru ru bònòt apipisir i siwòk,i ru ru bònòt apipisir i siwòk,[],,[],,False,Siar.htm,False,,1
+siar1238-29-3,,siar1238,29,iruru bonot ya pisir siwok,iruru bonot ya pisir siwok,[],,[],,False,Siar.htm,False,,2
+siar1238-30-1,,siar1238,30,i tól ep bónót,i tól ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-30-2,,siar1238,30,i tòl ép bònòt,i tòl ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-30-3,,siar1238,30,itol ep bonot,itol ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-40-1,,siar1238,40,i at ep bónót,i at ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-40-2,,siar1238,40,i at ép bònòt,i at ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-40-3,,siar1238,40,iyat ep bonot,iyat ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-50-1,,siar1238,50,i lim ep bónót,i lim ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-50-2,,siar1238,50,i lim ép bònòt,i lim ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-50-3,,siar1238,50,ilim ep bonot,ilim ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-60-1,,siar1238,60,i won ep bónót,i won ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-60-2,,siar1238,60,i wan ép bònòt,i wan ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-60-3,,siar1238,60,iwan ep bonot,iwan ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-70-1,,siar1238,70,i is ep bónót,i is ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-70-2,,siar1238,70,i (f)is ép bònòt,i (f)is ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-70-3,,siar1238,70,iis ep bonot,iis ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-80-1,,siar1238,80,i wal ep bónót,i wal ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-80-2,,siar1238,80,i wal ép bònòt,i wal ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-80-3,,siar1238,80,iwal ep bonot,iwal ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-90-1,,siar1238,90,i siwok ep bónót,i siwok ep bónót,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-90-2,,siar1238,90,i siwol ép bònòt,i siwol ép bònòt,[],,[],,False,Siar.htm,False,,1
+siar1238-90-3,,siar1238,90,siwol ep bonot,siwol ep bonot,[],,[],,False,Siar.htm,False,,2
+siar1238-100-1,,siar1238,100,i tik ep mar,i tik ep mar,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-100-2,,siar1238,100,i tik ép mar,i tik ép mar,[],,[],,False,Siar.htm,False,,1
+siar1238-100-3,,siar1238,100,i tik ép yah,i tik ép yah,[],,[],,False,Siar.htm,False,,1
+siar1238-100-4,,siar1238,100,itik ep mar,itik ep mar,[],,[],,False,Siar.htm,False,,2
+siar1238-200-1,,siar1238,200,i ru ru mar,i ru ru mar,[],,[],,False,Siar-Lak.htm,False,,1
+siar1238-200-2,,siar1238,200,i ru ru mar,i ru ru mar,[],,[],,False,Siar.htm,False,,1
+siar1238-200-3,,siar1238,200,300,300,[],,[],,False,Siar.htm,True,,1
+siar1238-200-4,,siar1238,200,i tòl ép mar,i tòl ép mar,[],,[],,False,Siar.htm,False,,1
+siar1238-200-5,,siar1238,200,iruru mar,iruru mar,[],,[],,False,Siar.htm,False,,2
+siar1238-1000-1,,siar1238,1000,itik ép tausén,itik ép tausén,[],( tausén < English),[],,True,Siar.htm,False,,1
+siar1238-1000-2,,siar1238,1000,kɛsi arip,kɛsi arip,[],,[],,False,Siar.htm,False,,2
+siar1238-2000-1,,siar1238,2000,a ru i arip,a ru i arip,[],,[],,False,Siar.htm,False,,2

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mpur1239-1-1,,mpur1239,1,tu⁴,tu⁴,[],,[],,False,Mpur.htm,False,,1
+mpur1239-2-1,,mpur1239,2,dokir,dokir,[],,[],,False,Mpur.htm,False,,1
+mpur1239-3-1,,mpur1239,3,de⁴ nur,de⁴ nur,[],,[],,False,Mpur.htm,False,,1
+mpur1239-4-1,,mpur1239,4,bwat,bwat,[],,[],,False,Mpur.htm,False,,1
+mpur1239-5-1,,mpur1239,5,me,me,[],,[],,False,Mpur.htm,False,,1
+mpur1239-6-1,,mpur1239,6,me ma⁴mbi¹ tu⁴,me ma⁴mbi¹ tu⁴,[],(5 ''plus'' 1 ),[],,False,Mpur.htm,False,,1
+mpur1239-7-1,,mpur1239,7,me ma⁴mbi¹ dokir,me ma⁴mbi¹ dokir,[],( 5 ''plus'' 2 ),[],,False,Mpur.htm,False,,1
+mpur1239-8-1,,mpur1239,8,me ma⁴mbi¹ de⁴ nur,me ma⁴mbi¹ de⁴ nur,[],( 5 ''plus'' 3 ),[],,False,Mpur.htm,False,,1
+mpur1239-9-1,,mpur1239,9,me ma⁴mbi¹ bwat,me ma⁴mbi¹ bwat,[],( 5 ''plus'' 4 ),[],,False,Mpur.htm,False,,1
+mpur1239-10-1,,mpur1239,10,unki¹r tu⁴,unki¹r tu⁴,[],(lit: ''one ten''),[],,False,Mpur.htm,False,,1
+mpur1239-11-1,,mpur1239,11,unki¹r tu⁴ tu⁴ a⁴ se⁴n,unki¹r tu⁴ tu⁴ a⁴ se⁴n,[],( *),[],,False,Mpur.htm,False,,1
+mpur1239-12-1,,mpur1239,12,unki¹r tu⁴ dokira⁴ se⁴n,unki¹r tu⁴ dokira⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-13-1,,mpur1239,13,unki¹r tu⁴ de⁴ nura⁴ se⁴n,unki¹r tu⁴ de⁴ nura⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-14-1,,mpur1239,14,unki¹r tu⁴ bwata⁴ se⁴n,unki¹r tu⁴ bwata⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-15-1,,mpur1239,15,unki¹r tu⁴ me a⁴ se⁴n,unki¹r tu⁴ me a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-16-1,,mpur1239,16,unki¹r tu⁴ ma⁴ mbi¹ tu⁴ a⁴ se⁴n,unki¹r tu⁴ ma⁴ mbi¹ tu⁴ a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-17-1,,mpur1239,17,unki¹r tu⁴ ma⁴ mbi¹ rokir a⁴ se⁴n,unki¹r tu⁴ ma⁴ mbi¹ rokir a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-18-1,,mpur1239,18,unki¹r tu⁴ ma⁴ mbi¹ re⁴ nur a⁴ se⁴n,unki¹r tu⁴ ma⁴ mbi¹ re⁴ nur a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-19-1,,mpur1239,19,unki¹r tu⁴ ma⁴ mbi¹ bwat a⁴ se⁴n,unki¹r tu⁴ ma⁴ mbi¹ bwat a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-20-1,,mpur1239,20,unki¹r dokir,unki¹r dokir,[],,[],,False,Mpur.htm,False,,1
+mpur1239-21-1,,mpur1239,21,unki¹r dokir tu⁴ a⁴ se⁴n,unki¹r dokir tu⁴ a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-22-1,,mpur1239,22,unki¹r dokir dokir a⁴ se⁴n,unki¹r dokir dokir a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-23-1,,mpur1239,23,unki¹r dokir de⁴ nur a⁴ se⁴n,unki¹r dokir de⁴ nur a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-24-1,,mpur1239,24,unki¹r dokir bwata⁴ se⁴n,unki¹r dokir bwata⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-25-1,,mpur1239,25,unki¹r dokir me⁴ a⁴ se⁴n,unki¹r dokir me⁴ a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-26-1,,mpur1239,26,unki¹r dokir ma⁴ mbi¹ tu⁴r a⁴ se⁴n,unki¹r dokir ma⁴ mbi¹ tu⁴r a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-27-1,,mpur1239,27,unki¹r dokir ma⁴ mbi¹ rokir a⁴ se⁴n,unki¹r dokir ma⁴ mbi¹ rokir a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-28-1,,mpur1239,28,unki¹r dokir ma⁴ mbi¹ re⁴nur se⁴n,unki¹r dokir ma⁴ mbi¹ re⁴nur se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-29-1,,mpur1239,29,unki¹r dokir ma⁴ mbi¹ bwat a⁴ se⁴n,unki¹r dokir ma⁴ mbi¹ bwat a⁴ se⁴n,[],,[],,False,Mpur.htm,False,,1
+mpur1239-30-1,,mpur1239,30,unki¹r re⁴ nur,unki¹r re⁴ nur,[],,[],,False,Mpur.htm,False,,1
+mpur1239-40-1,,mpur1239,40,unki¹r bwat,unki¹r bwat,[],,[],,False,Mpur.htm,False,,1
+mpur1239-50-1,,mpur1239,50,unki¹r me,unki¹r me,[],,[],,False,Mpur.htm,False,,1
+mpur1239-60-1,,mpur1239,60,unki¹r ma⁴ mbi¹ tu⁴,unki¹r ma⁴ mbi¹ tu⁴,[],,[],,False,Mpur.htm,False,,1
+mpur1239-70-1,,mpur1239,70,unki¹r ma⁴ mbi¹ rokir,unki¹r ma⁴ mbi¹ rokir,[],,[],,False,Mpur.htm,False,,1
+mpur1239-80-1,,mpur1239,80,unki¹r ma⁴ mbi¹ re⁴ nur,unki¹r ma⁴ mbi¹ re⁴ nur,[],,[],,False,Mpur.htm,False,,1
+mpur1239-90-1,,mpur1239,90,unki¹r ma⁴ mbi¹ bwat,unki¹r ma⁴ mbi¹ bwat,[],,[],,False,Mpur.htm,False,,1
+mpur1239-100-1,,mpur1239,100,u3ntin tu⁴,u3ntin tu⁴,[],(from Austronesian ),[],,False,Mpur.htm,False,,1
+mpur1239-200-1,,mpur1239,200,u3ntin dokir,u3ntin dokir,[],,[],,False,Mpur.htm,False,,1
+mpur1239-1000-1,,mpur1239,1000,ribu tu⁴,ribu tu⁴,[],(from Austronesian ),[],,False,Mpur.htm,False,,1
+mpur1239-2000-1,,mpur1239,2000,ribu dokir,ribu dokir,[],,[],,False,Mpur.htm,False,,1

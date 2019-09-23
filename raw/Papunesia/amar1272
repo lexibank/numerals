@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+amar1272-1-1,,amar1272,1,kapuk,kapuk,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-2-1,,amar1272,2,ruo,ruo,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-3-1,,amar1272,3,tel,tel,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-4-1,,amar1272,4,paŋ,paŋ,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-5-1,,amar1272,5,lume,lume,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-6-1,,amar1272,6,lume kapuk,lume kapuk,[],( 5 + 1 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-7-1,,amar1272,7,lume ruo,lume ruo,[],( 5 + 2 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-8-1,,amar1272,8,lume tel,lume tel,[],( 5 + 3 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-9-1,,amar1272,9,lume paŋ,lume paŋ,[],( 5 + 4 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-10-1,,amar1272,10,soŋoul,soŋoul,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-11-1,,amar1272,11,soŋoul kapuk,soŋoul kapuk,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-12-1,,amar1272,12,soŋoul ruo,soŋoul ruo,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-13-1,,amar1272,13,soŋoul tel,soŋoul tel,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-14-1,,amar1272,14,soŋoul paŋ,soŋoul paŋ,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-15-1,,amar1272,15,soŋoul lume,soŋoul lume,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-16-1,,amar1272,16,soŋoul lume kapuk,soŋoul lume kapuk,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-17-1,,amar1272,17,soŋoul luma ruo,soŋoul luma ruo,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-18-1,,amar1272,18,soŋoul luma tel,soŋoul luma tel,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-19-1,,amar1272,19,soŋoul luma paŋ,soŋoul luma paŋ,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-20-1,,amar1272,20,suŋuruo,suŋuruo,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-21-1,,amar1272,21,suŋuruo kapuk,suŋuruo kapuk,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-22-1,,amar1272,22,suŋuruo ruo,suŋuruo ruo,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-23-1,,amar1272,23,suŋuruo tel,suŋuruo tel,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-24-1,,amar1272,24,suŋuruo paŋ,suŋuruo paŋ,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-25-1,,amar1272,25,suŋuruo lume,suŋuruo lume,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-26-1,,amar1272,26,suŋuruo lume kapuk,suŋuruo lume kapuk,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-27-1,,amar1272,27,suŋuruo lume ruo,suŋuruo lume ruo,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-28-1,,amar1272,28,suŋuruo lume tel,suŋuruo lume tel,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-29-1,,amar1272,29,suŋuruo lume paŋ,suŋuruo lume paŋ,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-30-1,,amar1272,30,suŋtelio,suŋtelio,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-40-1,,amar1272,40,silpaŋio,silpaŋio,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-50-1,,amar1272,50,siŋilme,siŋilme,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-60-1,,amar1272,60,siŋilme soŋoul,siŋilme soŋoul,[],( 50 + 10 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-70-1,,amar1272,70,siŋilme suŋuruo,siŋilme suŋuruo,[],( 50 + 20 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-80-1,,amar1272,80,siŋilme suŋtelio,siŋilme suŋtelio,[],( 50 + 30 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-90-1,,amar1272,90,siŋilme silpaŋio,siŋilme silpaŋio,[],( 50 + 40 ),[],,False,Amara-Longa.htm,False,,1
+amar1272-100-1,,amar1272,100,kuvusŋe,kuvusŋe,[],,[],,False,Amara-Longa.htm,False,,1
+amar1272-200-1,,amar1272,200,kuvusŋe ruo,kuvusŋe ruo,[],,[],,False,Amara-Longa.htm,False,,1

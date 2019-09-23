@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mbul1262-1-1,,mbul1262,1,m̀mʷə̀,m̀mʷə̀,[],,[],,False,Mbule.htm,False,,1
+mbul1262-1-2,,mbul1262,1,pɔ́k,pɔ́k,[],,[],,False,Mbule.htm,False,,1
+mbul1262-2-1,,mbul1262,2,ḿbântʰ,ḿbântʰ,[],,[],,False,Mbule.htm,False,,1
+mbul1262-3-1,,mbul1262,3,ítáːt,ítáːt,[],,[],,False,Mbule.htm,False,,1
+mbul1262-4-1,,mbul1262,4,íɲə̂n,íɲə̂n,[],,[],,False,Mbule.htm,False,,1
+mbul1262-5-1,,mbul1262,5,ítán,ítán,[],,[],,False,Mbule.htm,False,,1
+mbul1262-6-1,,mbul1262,6,íʃíndât,íʃíndât,[],,[],,False,Mbule.htm,False,,1
+mbul1262-7-1,,mbul1262,7,íʃíndât nì mʷə́,íʃíndât nì mʷə́,[],( 6 + 1),[],,False,Mbule.htm,False,,1
+mbul1262-8-1,,mbul1262,8,ínámâ,ínámâ,[],,[],,False,Mbule.htm,False,,1
+mbul1262-9-1,,mbul1262,9,ínámâ nì mʷə́,ínámâ nì mʷə́,[],( 8 + 1),[],,False,Mbule.htm,False,,1
+mbul1262-10-1,,mbul1262,10,dʒùwát,dʒùwát,[],,[],,False,Mbule.htm,False,,1
+mbul1262-11-1,,mbul1262,11,dʒùwát nì mʷə̀,dʒùwát nì mʷə̀,[],( 10 + 1 ),[],,False,Mbule.htm,False,,1
+mbul1262-12-1,,mbul1262,12,dʒùwát nì m̀bântʰ,dʒùwát nì m̀bântʰ,[],( 10 + 2 ),[],,False,Mbule.htm,False,,1
+mbul1262-13-1,,mbul1262,13,dʒùwát nì ítáːt,dʒùwát nì ítáːt,[],( 10 + 3 ),[],,False,Mbule.htm,False,,1
+mbul1262-14-1,,mbul1262,14,dʒùwát nì íɲə̂n,dʒùwát nì íɲə̂n,[],( 10 + 4 ),[],,False,Mbule.htm,False,,1
+mbul1262-15-1,,mbul1262,15,púɲù,púɲù,[],,[],,False,Mbule.htm,False,,1
+mbul1262-16-1,,mbul1262,16,púɲù nì mʷə̀,púɲù nì mʷə̀,[],( 15 + 1 ),[],,False,Mbule.htm,False,,1
+mbul1262-17-1,,mbul1262,17,púɲù nì m̀bântʰ,púɲù nì m̀bântʰ,[],( 15 + 2 ),[],,False,Mbule.htm,False,,1
+mbul1262-18-1,,mbul1262,18,púɲù nì ítáːt,púɲù nì ítáːt,[],( 15 + 3 ),[],,False,Mbule.htm,False,,1
+mbul1262-19-1,,mbul1262,19,púɲù nì íɲə̂n,púɲù nì íɲə̂n,[],( 15 + 4 ),[],,False,Mbule.htm,False,,1
+mbul1262-20-1,,mbul1262,20,nìtʃín,nìtʃín,[],,[],,False,Mbule.htm,False,,1
+mbul1262-21-1,,mbul1262,21,nìtʃín nì mʷə̀,nìtʃín nì mʷə̀,[],,[],,False,Mbule.htm,False,,1
+mbul1262-22-1,,mbul1262,22,nìtʃín nì m̀bântʰ,nìtʃín nì m̀bântʰ,[],,[],,False,Mbule.htm,False,,1
+mbul1262-23-1,,mbul1262,23,nìtʃín nì ítáːt,nìtʃín nì ítáːt,[],,[],,False,Mbule.htm,False,,1
+mbul1262-24-1,,mbul1262,24,nìtʃín nì íɲə̂n,nìtʃín nì íɲə̂n,[],,[],,False,Mbule.htm,False,,1
+mbul1262-25-1,,mbul1262,25,nìtʃín nì ítán,nìtʃín nì ítán,[],,[],,False,Mbule.htm,False,,1
+mbul1262-26-1,,mbul1262,26,nìtʃín nì íʃíndât,nìtʃín nì íʃíndât,[],,[],,False,Mbule.htm,False,,1
+mbul1262-27-1,,mbul1262,27,nìtʃín nì íʃíndât nì mʷə́,nìtʃín nì íʃíndât nì mʷə́,[],,[],,False,Mbule.htm,False,,1
+mbul1262-28-1,,mbul1262,28,nìtʃín nì ínámâ,nìtʃín nì ínámâ,[],,[],,False,Mbule.htm,False,,1
+mbul1262-29-1,,mbul1262,29,nìtʃín nì ínámâ nì mʷə́,nìtʃín nì ínámâ nì mʷə́,[],,[],,False,Mbule.htm,False,,1
+mbul1262-30-1,,mbul1262,30,nìtʃín nì nì dʒùwát,nìtʃín nì nì dʒùwát,[],( '20 with 10 '),[],,False,Mbule.htm,False,,1
+mbul1262-40-1,,mbul1262,40,nìtʃín bàn,nìtʃín bàn,[],( 20's two ),[],,False,Mbule.htm,False,,1
+mbul1262-50-1,,mbul1262,50,màhó màtàn,màhó màtàn,[],,[],,False,Mbule.htm,False,,1
+mbul1262-60-1,,mbul1262,60,nìtʃín ní ítàːt,nìtʃín ní ítàːt,[],( 20's three ),[],,False,Mbule.htm,False,,1
+mbul1262-70-1,,mbul1262,70,nìtʃín ní ítàːt nì dʒùwát,nìtʃín ní ítàːt nì dʒùwát,[],,[],,False,Mbule.htm,False,,1
+mbul1262-80-1,,mbul1262,80,nìtʃín ní íɲə̂n,nìtʃín ní íɲə̂n,[],( 20's four ),[],,False,Mbule.htm,False,,1
+mbul1262-90-1,,mbul1262,90,nìtʃín nì íɲə̂n nì dʒùwát,nìtʃín nì íɲə̂n nì dʒùwát,[],,[],,False,Mbule.htm,False,,1
+mbul1262-100-1,,mbul1262,100,ǹtə̂t,ǹtə̂t,[],( < English 'hundred' ),[],,True,Mbule.htm,False,,1
+mbul1262-200-1,,mbul1262,200,ǹtə̂t ìbàn,ǹtə̂t ìbàn,[],,[],,False,Mbule.htm,False,,1
+mbul1262-1000-1,,mbul1262,1000,tósə̀nə̀,tósə̀nə̀,[],( < English 'thousand' ),[],,True,Mbule.htm,False,,1
+mbul1262-2000-1,,mbul1262,2000,tósə̀nə̀ ìbàn,tósə̀nə̀ ìbàn,[],,[],,False,Mbule.htm,False,,1

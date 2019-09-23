@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+baka1272-1-1,,baka1272,1,kpóde,kpóde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-2-1,,baka1272,2,bíde,bíde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-3-1,,baka1272,3,batà,batà,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-4-1,,baka1272,4,bàna,bàna,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-5-1,,baka1272,5,θuwè,θuwè,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-6-1,,baka1272,6,θuwè tɛ kpóde,θuwè tɛ kpóde,[],( 5+ 1 ),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-7-1,,baka1272,7,θuwè tɛ bíde,θuwè tɛ bíde,[],( 5+ 2 ),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-8-1,,baka1272,8,θuwè tɛ batà,θuwè tɛ batà,[],( 5+ 3 ),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-9-1,,baka1272,9,θuwè tɛ bàna,θuwè tɛ bàna,[],( 5+ 4 ),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-10-1,,baka1272,10,kamo,kamo,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-10-2,,baka1272,10,θuwè tɛ θuwè,θuwè tɛ θuwè,[],( 5+ 5 ),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-11-1,,baka1272,11,kamo tɛ kpóde,kamo tɛ kpóde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-11-2,,baka1272,11,θuwè tɛ θuwè tɛ+1,θuwè tɛ θuwè tɛ+1,[],,[],,False,Baka-Cameroun.htm,True,,1
+baka1272-12-1,,baka1272,12,kamo tɛ bíde,kamo tɛ bíde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-13-1,,baka1272,13,kamo tɛ batà,kamo tɛ batà,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-14-1,,baka1272,14,kamo tɛ bàna,kamo tɛ bàna,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-15-1,,baka1272,15,kamo tɛ θuwè,kamo tɛ θuwè,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-16-1,,baka1272,16,kamo tɛ θuwè tɛ kpóde,kamo tɛ θuwè tɛ kpóde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-17-1,,baka1272,17,kamo tɛ θuwè tɛ bíde,kamo tɛ θuwè tɛ bíde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-18-1,,baka1272,18,kamo tɛ θuwè tɛ batà,kamo tɛ θuwè tɛ batà,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-19-1,,baka1272,19,kamo tɛ θuwè tɛ bàna,kamo tɛ θuwè tɛ bàna,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-20-1,,baka1272,20,kamo tɛ kamo,kamo tɛ kamo,[],( 10 + 10 ),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-21-1,,baka1272,21,kamo tɛ kamo tɛ kpóde,kamo tɛ kamo tɛ kpóde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-22-1,,baka1272,22,kamo tɛ kamo tɛ bíde,kamo tɛ kamo tɛ bíde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-23-1,,baka1272,23,kamo tɛ kamo tɛ batà,kamo tɛ kamo tɛ batà,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-24-1,,baka1272,24,kamo tɛ kamo tɛ bàna,kamo tɛ kamo tɛ bàna,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-25-1,,baka1272,25,kamo tɛ kamo tɛ θuwè,kamo tɛ kamo tɛ θuwè,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-26-1,,baka1272,26,kamo tɛ kamo tɛ θuwè tɛ kpóde,kamo tɛ kamo tɛ θuwè tɛ kpóde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-27-1,,baka1272,27,kamo tɛ kamo tɛ θuwè tɛ bíde,kamo tɛ kamo tɛ θuwè tɛ bíde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-28-1,,baka1272,28,kamo tɛ kamo tɛ θuwè tɛ batà,kamo tɛ kamo tɛ θuwè tɛ batà,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-29-1,,baka1272,29,kamo tɛ kamo tɛ θuwè tɛ bàna,kamo tɛ kamo tɛ θuwè tɛ bàna,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-30-1,,baka1272,30,kamo tɛ kamo tɛ kamo,kamo tɛ kamo tɛ kamo,[],( 10+10+10),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-40-1,,baka1272,40,kamo tɛ kamo tɛ kamo tɛ kamo,kamo tɛ kamo tɛ kamo tɛ kamo,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-50-1,,baka1272,50,kamo tɛ kamo tɛ kamo tɛ kamo tɛ+10,kamo tɛ kamo tɛ kamo tɛ kamo tɛ+10,[],,[],,False,Baka-Cameroun.htm,True,,1
+baka1272-100-1,,baka1272,100,kpóde,kpóde,[],( for counting money ),[],,False,Baka-Cameroun.htm,False,,1
+baka1272-200-1,,baka1272,200,bíde,bíde,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-1000-1,,baka1272,1000,kamo,kamo,[],,[],,False,Baka-Cameroun.htm,False,,1
+baka1272-2000-1,,baka1272,2000,kamo tɛ kamo,kamo tɛ kamo,[],,[],,False,Baka-Cameroun.htm,False,,1

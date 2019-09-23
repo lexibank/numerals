@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kpas1242-1-1,,kpas1242,1,ɓíní,ɓíní,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-2-1,,kpas1242,2,ʔíè,ʔíè,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-3-1,,kpas1242,3,tátˢ,tátˢ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-4-1,,kpas1242,4,nātˢ,nātˢ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-5-1,,kpas1242,5,nɔ̃́ŋ,nɔ̃́ŋ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-6-1,,kpas1242,6,nāɓíní,nāɓíní,[],( 5+ 1 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-7-1,,kpas1242,7,nāk͡píē,nāk͡píē,[],( 5+ 2 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-8-1,,kpas1242,8,nātáts,nātáts,[],( 5+ 3 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-9-1,,kpas1242,9,nānāts,nānāts,[],( 5+ 4 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-10-1,,kpas1242,10,kópʰ,kópʰ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-11-1,,kpas1242,11,kób-ɲán-ɓínì,kób-ɲán-ɓínì,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-12-1,,kpas1242,12,kób-ɲán-íe,kób-ɲán-íe,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-13-1,,kpas1242,13,kób-ɲá-táts,kób-ɲá-táts,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-14-1,,kpas1242,14,kób-ɲá-náts,kób-ɲá-náts,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-15-1,,kpas1242,15,kób-ɲã́n-nɔ̃́ŋ,kób-ɲã́n-nɔ̃́ŋ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-16-1,,kpas1242,16,kób-ɲán-náɓíní,kób-ɲán-náɓíní,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-17-1,,kpas1242,17,kób-ɲán-nák͡píe,kób-ɲán-nák͡píe,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-18-1,,kpas1242,18,kób-ɲá-nátats,kób-ɲá-nátats,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-19-1,,kpas1242,19,kób-ɲán-nānāts,kób-ɲán-nānāts,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-20-1,,kpas1242,20,kéé-ɓíní,kéé-ɓíní,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-21-1,,kpas1242,21,ké-ɓíní-ɲán-ɓíní,ké-ɓíní-ɲán-ɓíní,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-22-1,,kpas1242,22,ké-ɓíní-ɲán-ʔíéʔ,ké-ɓíní-ɲán-ʔíéʔ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-30-1,,kpas1242,30,kéé-ɓíní-ɲán-kópʰ,kéé-ɓíní-ɲán-kópʰ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-40-1,,kpas1242,40,káá ʔíé,káá ʔíé,[],( 20 x 2 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-50-1,,kpas1242,50,káá-ʔíé-ɲán-kópʰ,káá-ʔíé-ɲán-kópʰ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-60-1,,kpas1242,60,ká-táts,ká-táts,[],( 20 x 3 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-70-1,,kpas1242,70,kā-táts-ɲān-kópʰ,kā-táts-ɲān-kópʰ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-80-1,,kpas1242,80,ká-nāts,ká-nāts,[],( 20 x 4 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-90-1,,kpas1242,90,ká-nāts-ɲān-kōpʰ,ká-nāts-ɲān-kōpʰ,[],,[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-100-1,,kpas1242,100,káá-nɔ̃́ŋ,káá-nɔ̃́ŋ,[],( 20 x 5 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-200-1,,kpas1242,200,káá-nɔ̃́ŋ-ʔíē,káá-nɔ̃́ŋ-ʔíē,[],( 20 x 5 x 2 ),[],,False,Kpasham-Nyesam.htm,False,,1
+kpas1242-1000-1,,kpas1242,1000,kób-kób-tām-kópʰ,kób-kób-tām-kópʰ,[],,[],,False,Kpasham-Nyesam.htm,False,,1

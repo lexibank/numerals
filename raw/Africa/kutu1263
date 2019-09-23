@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kutu1263-1-1,,kutu1263,1,-imwe,-imwe,[],,[],,False,Kutu.htm,False,,1
+kutu1263-2-1,,kutu1263,2,-bili,-bili,[],,[],,False,Kutu.htm,False,,1
+kutu1263-3-1,,kutu1263,3,-datu,-datu,[],,[],,False,Kutu.htm,False,,1
+kutu1263-4-1,,kutu1263,4,-ne,-ne,[],,[],,False,Kutu.htm,False,,1
+kutu1263-5-1,,kutu1263,5,-tano,-tano,[],,[],,False,Kutu.htm,False,,1
+kutu1263-6-1,,kutu1263,6,sita,sita,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-7-1,,kutu1263,7,saba,saba,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-8-1,,kutu1263,8,name,name,[],,[],,False,Kutu.htm,False,,1
+kutu1263-9-1,,kutu1263,9,tisa,tisa,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-10-1,,kutu1263,10,kumi,kumi,[],,[],,False,Kutu.htm,False,,1
+kutu1263-11-1,,kutu1263,11,kumi na -imwe,kumi na -imwe,[],,[],,False,Kutu.htm,False,,1
+kutu1263-12-1,,kutu1263,12,kumi na -bili,kumi na -bili,[],,[],,False,Kutu.htm,False,,1
+kutu1263-13-1,,kutu1263,13,kumi na -datu,kumi na -datu,[],,[],,False,Kutu.htm,False,,1
+kutu1263-14-1,,kutu1263,14,kumi na -ne,kumi na -ne,[],,[],,False,Kutu.htm,False,,1
+kutu1263-15-1,,kutu1263,15,kumi na -tano,kumi na -tano,[],,[],,False,Kutu.htm,False,,1
+kutu1263-16-1,,kutu1263,16,kumi na sita,kumi na sita,[],,[],,False,Kutu.htm,False,,1
+kutu1263-17-1,,kutu1263,17,kumi na saba,kumi na saba,[],,[],,False,Kutu.htm,False,,1
+kutu1263-18-1,,kutu1263,18,kumi na name,kumi na name,[],,[],,False,Kutu.htm,False,,1
+kutu1263-19-1,,kutu1263,19,kumi na tisa,kumi na tisa,[],,[],,False,Kutu.htm,False,,1
+kutu1263-20-1,,kutu1263,20,iʃilini,iʃilini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-21-1,,kutu1263,21,iʃilini na -imwe,iʃilini na -imwe,[],,[],,False,Kutu.htm,False,,1
+kutu1263-22-1,,kutu1263,22,iʃilini na -bili,iʃilini na -bili,[],,[],,False,Kutu.htm,False,,1
+kutu1263-23-1,,kutu1263,23,iʃilini na -datu,iʃilini na -datu,[],,[],,False,Kutu.htm,False,,1
+kutu1263-24-1,,kutu1263,24,iʃilini na -ne,iʃilini na -ne,[],,[],,False,Kutu.htm,False,,1
+kutu1263-25-1,,kutu1263,25,iʃilini na -tano,iʃilini na -tano,[],,[],,False,Kutu.htm,False,,1
+kutu1263-26-1,,kutu1263,26,iʃilini na sita,iʃilini na sita,[],,[],,False,Kutu.htm,False,,1
+kutu1263-27-1,,kutu1263,27,iʃilini na saba,iʃilini na saba,[],,[],,False,Kutu.htm,False,,1
+kutu1263-28-1,,kutu1263,28,iʃilini na name,iʃilini na name,[],,[],,False,Kutu.htm,False,,1
+kutu1263-29-1,,kutu1263,29,iʃilini na tisa,iʃilini na tisa,[],,[],,False,Kutu.htm,False,,1
+kutu1263-30-1,,kutu1263,30,selasini,selasini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-40-1,,kutu1263,40,alubaini,alubaini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-50-1,,kutu1263,50,hamsini,hamsini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-60-1,,kutu1263,60,sitini,sitini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-70-1,,kutu1263,70,sabini,sabini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-80-1,,kutu1263,80,semanini,semanini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-90-1,,kutu1263,90,tisini,tisini,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-100-1,,kutu1263,100,mia,mia,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-200-1,,kutu1263,200,mia mbili,mia mbili,[],,[],,False,Kutu.htm,False,,1
+kutu1263-1000-1,,kutu1263,1000,elfu,elfu,[],( < Kiswahili < Arabic ),[],,True,Kutu.htm,False,,1
+kutu1263-2000-1,,kutu1263,2000,elfu mbili,elfu mbili,[],,[],,False,Kutu.htm,False,,1

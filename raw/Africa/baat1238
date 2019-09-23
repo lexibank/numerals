@@ -1,0 +1,90 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+baat1238-1-1,,baat1238,1,tía,tía,[],,[],,False,Baatonum.htm,False,,1
+baat1238-1-2,,baat1238,1,tiā,tiā,[],,[],,False,Baatonum.htm,False,,2
+baat1238-2-1,,baat1238,2,ìru,ìru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-2-2,,baat1238,2,yìru,yìru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-3-1,,baat1238,3,ìta,ìta,[],,[],,False,Baatonum.htm,False,,1
+baat1238-3-2,,baat1238,3,ìta,ìta,[],,[],,False,Baatonum.htm,False,,2
+baat1238-3-3,,baat1238,3,yìta,yìta,[],,[],,False,Baatonum.htm,False,,2
+baat1238-4-1,,baat1238,4,ǹnɛ,ǹnɛ,[],,[],,False,Baatonum.htm,False,,1
+baat1238-4-2,,baat1238,4,ǹnɛ,ǹnɛ,[],,[],,False,Baatonum.htm,False,,2
+baat1238-5-1,,baat1238,5,nɔɔbù,nɔɔbù,[],,[],,False,Baatonum.htm,False,,1
+baat1238-5-2,,baat1238,5,nɔ̀ɔbù,nɔ̀ɔbù,[],,[],,False,Baatonum.htm,False,,2
+baat1238-6-1,,baat1238,6,nɔɔbù ka tía > nɔɔbatía ka = and,nɔɔbù ka tía > nɔɔbatía ka = and,[],,[],,False,Baatonum.htm,True,,1
+baat1238-6-2,,baat1238,6,nɔ̀ɔbâ tiā,nɔ̀ɔbâ tiā,[],( 5 + 1 ),[],,False,Baatonum.htm,False,,2
+baat1238-7-1,,baat1238,7,nɔɔbù ka ìru > nɔɔbaìru,nɔɔbù ka ìru > nɔɔbaìru,[],,[],,False,Baatonum.htm,True,,1
+baat1238-7-2,,baat1238,7,nɔ̀ɔbá yìru,nɔ̀ɔbá yìru,[],( 5 + 2 ),[],,False,Baatonum.htm,False,,2
+baat1238-8-1,,baat1238,8,nɔɔbù ka ìta > nɔɔbaìta,nɔɔbù ka ìta > nɔɔbaìta,[],,[],,False,Baatonum.htm,True,,1
+baat1238-8-2,,baat1238,8,nɔ̀ɔbâ yìta,nɔ̀ɔbâ yìta,[],( 5 + 3 ),[],,False,Baatonum.htm,False,,2
+baat1238-9-1,,baat1238,9,nɔɔbù ka ǹnɛ> nɔɔbaǹnɛ,nɔɔbù ka ǹnɛ> nɔɔbaǹnɛ,[],,[],,False,Baatonum.htm,True,,1
+baat1238-9-2,,baat1238,9,nɔ̀ɔbâ ǹnɛ,nɔ̀ɔbâ ǹnɛ,[],( 5 + 4 ),[],,False,Baatonum.htm,False,,2
+baat1238-10-1,,baat1238,10,ɔkuru,ɔkuru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-10-2,,baat1238,10,wɔkuru,wɔkuru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-11-1,,baat1238,11,ɔkuru kà tía > ɔkuratía,ɔkuru kà tía > ɔkuratía,[],,[],,False,Baatonum.htm,True,,1
+baat1238-11-2,,baat1238,11,wɔkurá tiā,wɔkurá tiā,[],,[],,False,Baatonum.htm,False,,2
+baat1238-12-1,,baat1238,12,ɔkuru kà ìru > ɔkuraìru,ɔkuru kà ìru > ɔkuraìru,[],,[],,False,Baatonum.htm,True,,1
+baat1238-12-2,,baat1238,12,wɔkurá yìru,wɔkurá yìru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-13-1,,baat1238,13,ɔkuru kà ìta > ɔkuraìta,ɔkuru kà ìta > ɔkuraìta,[],,[],,False,Baatonum.htm,True,,1
+baat1238-13-2,,baat1238,13,wɔkurá ìta,wɔkurá ìta,[],,[],,False,Baatonum.htm,False,,2
+baat1238-14-1,,baat1238,14,ɔkuru kà ǹnɛ > ɔkuraǹnɛ,ɔkuru kà ǹnɛ > ɔkuraǹnɛ,[],,[],,False,Baatonum.htm,True,,1
+baat1238-14-2,,baat1238,14,wɔkurá ǹnɛ,wɔkurá ǹnɛ,[],,[],,False,Baatonum.htm,False,,2
+baat1238-15-1,,baat1238,15,ɔkuranɔɔbù,ɔkuranɔɔbù,[],,[],,False,Baatonum.htm,False,,1
+baat1238-15-2,,baat1238,15,wɔkurá nɔ̀ɔbù,wɔkurá nɔ̀ɔbù,[],,[],,False,Baatonum.htm,False,,2
+baat1238-16-1,,baat1238,16,ɔkuranɔɔbatía,ɔkuranɔɔbatía,[],,[],,False,Baatonum.htm,False,,1
+baat1238-16-2,,baat1238,16,wɔkurá nɔ̀ɔbù kà tiā,wɔkurá nɔ̀ɔbù kà tiā,[],,[],,False,Baatonum.htm,False,,2
+baat1238-17-1,,baat1238,17,ɔkuranɔɔbaìru,ɔkuranɔɔbaìru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-17-2,,baat1238,17,wɔkurá nɔ̀ɔbù kà yìru,wɔkurá nɔ̀ɔbù kà yìru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-18-1,,baat1238,18,ɔkuranɔɔbaìta,ɔkuranɔɔbaìta,[],,[],,False,Baatonum.htm,False,,1
+baat1238-18-2,,baat1238,18,wɔkurá nɔ̀ɔbù kà ìta,wɔkurá nɔ̀ɔbù kà ìta,[],,[],,False,Baatonum.htm,False,,2
+baat1238-19-1,,baat1238,19,ɔkuranɔɔbaǹnɛ,ɔkuranɔɔbaǹnɛ,[],,[],,False,Baatonum.htm,False,,1
+baat1238-19-2,,baat1238,19,wɔkurá nɔ̀ɔbù kà ǹnɛ,wɔkurá nɔ̀ɔbù kà ǹnɛ,[],,[],,False,Baatonum.htm,False,,2
+baat1238-20-1,,baat1238,20,yɛndu,yɛndu,[],,[],,False,Baatonum.htm,False,,1
+baat1238-20-2,,baat1238,20,yɛndu,yɛndu,[],,[],,False,Baatonum.htm,False,,2
+baat1238-21-1,,baat1238,21,yɛndu kà tía > yɛndatía,yɛndu kà tía > yɛndatía,[],,[],,False,Baatonum.htm,True,,1
+baat1238-21-2,,baat1238,21,yɛndá tiā,yɛndá tiā,[],,[],,False,Baatonum.htm,False,,2
+baat1238-22-1,,baat1238,22,yɛndaìru,yɛndaìru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-22-2,,baat1238,22,yɛndá yìru,yɛndá yìru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-23-1,,baat1238,23,yɛndaìta,yɛndaìta,[],,[],,False,Baatonum.htm,False,,1
+baat1238-23-2,,baat1238,23,yɛndá ìta,yɛndá ìta,[],,[],,False,Baatonum.htm,False,,2
+baat1238-24-1,,baat1238,24,yɛndaǹnɛ,yɛndaǹnɛ,[],,[],,False,Baatonum.htm,False,,1
+baat1238-24-2,,baat1238,24,yɛndá ǹnɛ,yɛndá ǹnɛ,[],,[],,False,Baatonum.htm,False,,2
+baat1238-25-1,,baat1238,25,yɛndanɔɔbù,yɛndanɔɔbù,[],,[],,False,Baatonum.htm,False,,1
+baat1238-25-2,,baat1238,25,yɛndá nɔ̀ɔbù,yɛndá nɔ̀ɔbù,[],,[],,False,Baatonum.htm,False,,2
+baat1238-26-1,,baat1238,26,yɛndanɔɔbatía,yɛndanɔɔbatía,[],,[],,False,Baatonum.htm,False,,1
+baat1238-26-2,,baat1238,26,yɛndá nɔ̀ɔbù kà tiā,yɛndá nɔ̀ɔbù kà tiā,[],,[],,False,Baatonum.htm,False,,2
+baat1238-27-1,,baat1238,27,yɛndanɔɔbaìru,yɛndanɔɔbaìru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-27-2,,baat1238,27,yɛndá nɔ̀ɔbù kà yìru,yɛndá nɔ̀ɔbù kà yìru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-28-1,,baat1238,28,yɛndanɔɔbaìta,yɛndanɔɔbaìta,[],,[],,False,Baatonum.htm,False,,1
+baat1238-28-2,,baat1238,28,yɛndá nɔ̀ɔbù kà ìta,yɛndá nɔ̀ɔbù kà ìta,[],,[],,False,Baatonum.htm,False,,2
+baat1238-29-1,,baat1238,29,yɛndanɔɔbaǹnɛ,yɛndanɔɔbaǹnɛ,[],,[],,False,Baatonum.htm,False,,1
+baat1238-29-2,,baat1238,29,yɛndá nɔ̀ɔbù kà ǹnɛ,yɛndá nɔ̀ɔbù kà ǹnɛ,[],,[],,False,Baatonum.htm,False,,2
+baat1238-30-1,,baat1238,30,tɛ̀na,tɛ̀na,[],,[],,False,Baatonum.htm,False,,1
+baat1238-30-2,,baat1238,30,tɛ̀nā,tɛ̀nā,[],,[],,False,Baatonum.htm,False,,2
+baat1238-40-1,,baat1238,40,wɛ̀ru,wɛ̀ru,[],( 20 x 2 ),[],,False,Baatonum.htm,False,,1
+baat1238-40-2,,baat1238,40,wèeru,wèeru,[],( 20 x 2 ),[],,False,Baatonum.htm,False,,2
+baat1238-50-1,,baat1238,50,wɛ̀raɔkuru,wɛ̀raɔkuru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-50-2,,baat1238,50,wɛ̀rakuru,wɛ̀rakuru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-50-3,,baat1238,50,wèera àkuru,wèera àkuru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-50-4,,baat1238,50,wèeru kà wɔkuru,wèeru kà wɔkuru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-60-1,,baat1238,60,wàta,wàta,[],( 20 x 3 ),[],,False,Baatonum.htm,False,,1
+baat1238-60-2,,baat1238,60,wàta,wàta,[],( 20 x 3 ),[],,False,Baatonum.htm,False,,2
+baat1238-70-1,,baat1238,70,wàtaɔkuru,wàtaɔkuru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-70-2,,baat1238,70,wàtakuru,wàtakuru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-70-3,,baat1238,70,wàta ka wɔkuru,wàta ka wɔkuru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-80-1,,baat1238,80,wʊnɛ,wʊnɛ,[],( 20 x 4 ),[],,False,Baatonum.htm,False,,1
+baat1238-80-2,,baat1238,80,wɛ̀nɛ̀,wɛ̀nɛ̀,[],( 20 x 4 ),[],,False,Baatonum.htm,False,,2
+baat1238-90-1,,baat1238,90,wʊnaɔkuru,wʊnaɔkuru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-90-2,,baat1238,90,wʊnakuru,wʊnakuru,[],,[],,False,Baatonum.htm,False,,1
+baat1238-90-3,,baat1238,90,wɛ̀nɛ̀ ka wɔkuru,wɛ̀nɛ̀ ka wɔkuru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-100-1,,baat1238,100,wùnɔbù,wùnɔbù,[],( 20 x 5 ),[],,False,Baatonum.htm,False,,1
+baat1238-100-2,,baat1238,100,wùnɔbu,wùnɔbu,[],( 20 x 5 ),[],,False,Baatonum.htm,False,,2
+baat1238-100-3,,baat1238,100,nõnu,nõnu,[],,[],,False,Baatonum.htm,False,,2
+baat1238-200-1,,baat1238,200,ɡoòbū,ɡoòbū,[],,[],,False,Baatonum.htm,False,,2
+baat1238-200-2,,baat1238,200,400. nɛ̀ɛru,400. nɛ̀ɛru,[],,[],,False,Baatonum.htm,True,,2
+baat1238-200-3,,baat1238,200,600. nàta,600. nàta,[],,[],,False,Baatonum.htm,True,,2
+baat1238-800-1,,baat1238,800,1000,1000,[],,[],,False,Baatonum.htm,True,,1
+baat1238-800-2,,baat1238,800,nɛ̀nɛ,nɛ̀nɛ,[],,[],,False,Baatonum.htm,False,,2
+baat1238-800-3,,baat1238,800,1000. nɔ̀rɔbù,1000. nɔ̀rɔbù,[],,[],,False,Baatonum.htm,True,,2
+baat1238-800-4,,baat1238,800,fɔ̀rɔ̀tɔ tiā,fɔ̀rɔ̀tɔ tiā,[],,[],,False,Baatonum.htm,False,,2
+baat1238-2000-1,,baat1238,2000,nɔra yìru,nɔra yìru,[],,[],,False,Baatonum.htm,False,,2
+baat1238-2000-2,,baat1238,2000,nɔ̀rɔbùn suba yìru,nɔ̀rɔbùn suba yìru,[],,[],,False,Baatonum.htm,False,,2

@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+komb1273-1-1,,komb1273,1,kənok or konok,kənok or konok,[],,[],,False,Komba.htm,True,,1
+komb1273-2-1,,komb1273,2,zaɣat,zaɣat,[],,[],,False,Komba.htm,False,,1
+komb1273-3-1,,komb1273,3,karambut,karambut,[],,[],,False,Komba.htm,False,,1
+komb1273-4-1,,komb1273,4,kimembut,kimembut,[],,[],,False,Komba.htm,False,,1
+komb1273-5-1,,komb1273,5,bet nambut,bet nambut,[],(litː ''hand side'' ),[],,False,Komba.htm,False,,1
+komb1273-6-1,,komb1273,6,namburan kənok,namburan kənok,[],"(litː ''hand side side, one'')",[],,False,Komba.htm,False,,1
+komb1273-7-1,,komb1273,7,namburan zaɣat,namburan zaɣat,[],,[],,False,Komba.htm,False,,1
+komb1273-8-1,,komb1273,8,namburan karambut,namburan karambut,[],,[],,False,Komba.htm,False,,1
+komb1273-9-1,,komb1273,9,namburan kimembut,namburan kimembut,[],,[],,False,Komba.htm,False,,1
+komb1273-10-1,,komb1273,10,bet zaɣat (litː ''hand two'' ) or bet nambul nambul,bet zaɣat (litː ''hand two'' ) or bet nambul nambul,[],(litː 'hand side side'),[],,False,Komba.htm,True,,1
+komb1273-11-1,,komb1273,11,kin kənok,kin kənok,[],(litː ''foot one''),[],,False,Komba.htm,False,,1
+komb1273-12-1,,komb1273,12,kin zaɣat,kin zaɣat,[],,[],,False,Komba.htm,False,,1
+komb1273-13-1,,komb1273,13,kin karambut,kin karambut,[],,[],,False,Komba.htm,False,,1
+komb1273-14-1,,komb1273,14,kin kimembut,kin kimembut,[],,[],,False,Komba.htm,False,,1
+komb1273-15-1,,komb1273,15,kin bet nambut,kin bet nambut,[],,[],,False,Komba.htm,False,,1
+komb1273-16-1,,komb1273,16,kin namburan kənok,kin namburan kənok,[],"(litː ''foot one, hand side side, one'')",[],,False,Komba.htm,False,,1
+komb1273-17-1,,komb1273,17,kin namburan zaɣat,kin namburan zaɣat,[],,[],,False,Komba.htm,False,,1
+komb1273-18-1,,komb1273,18,kin namburan karambut,kin namburan karambut,[],,[],,False,Komba.htm,False,,1
+komb1273-19-1,,komb1273,19,kin namburan kimembut,kin namburan kimembut,[],,[],,False,Komba.htm,False,,1
+komb1273-20-1,,komb1273,20,a kənok,a kənok,[],(litː ''man one''),[],,False,Komba.htm,False,,1

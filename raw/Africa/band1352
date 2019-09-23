@@ -1,0 +1,86 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+band1352-1-1,,band1352,1,ìtá(ŋ),ìtá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-1-2,,band1352,1,hítà(ŋ),hítà(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-1-3,,band1352,1,iitá,iitá,[],,[],,False,Bandi.htm,False,,2
+band1352-2-1,,band1352,2,fèlé(ŋ),fèlé(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-2-2,,band1352,2,feelé,feelé,[],,[],,False,Bandi.htm,False,,2
+band1352-3-1,,band1352,3,sàwá(ŋ),sàwá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-3-2,,band1352,3,sàá(ŋ),sàá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-3-3,,band1352,3,saawá,saawá,[],,[],,False,Bandi.htm,False,,2
+band1352-4-1,,band1352,4,náánì(ŋ),náánì(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-4-2,,band1352,4,naáni,naáni,[],,[],,False,Bandi.htm,False,,2
+band1352-5-1,,band1352,5,ndɔ̀ɔ́lú(ŋ),ndɔ̀ɔ́lú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-5-2,,band1352,5,ndɔɔ́lu,ndɔɔ́lu,[],,[],,False,Bandi.htm,False,,2
+band1352-6-1,,band1352,6,nɡɔ̀hítá(ŋ),nɡɔ̀hítá(ŋ),[],( 5 + 1 ),[],,False,Bandi.htm,False,,1
+band1352-6-2,,band1352,6,nɡɔhíta,nɡɔhíta,[],( 5 + 1 ),[],,False,Bandi.htm,False,,2
+band1352-7-1,,band1352,7,ŋɡɔ̀félà(ŋ),ŋɡɔ̀félà(ŋ),[],( 5 + 2 ),[],,False,Bandi.htm,False,,1
+band1352-7-2,,band1352,7,nɡɔféla,nɡɔféla,[],( 5 + 2 ),[],,False,Bandi.htm,False,,2
+band1352-8-1,,band1352,8,ŋɡɔ̀hák͡pá(ŋ),ŋɡɔ̀hák͡pá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-8-2,,band1352,8,ŋɡwahák͡pá(ŋ),ŋɡwahák͡pá(ŋ),[],( 5+ 4),[],,False,Bandi.htm,False,,1
+band1352-8-3,,band1352,8,nɡwahák͡pa,nɡwahák͡pa,[],( 5 + 3 ),[],,False,Bandi.htm,False,,2
+band1352-9-1,,band1352,9,tààwú(ŋ),tààwú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-9-2,,band1352,9,tààvú(ŋ),tààvú(ŋ),[],( 10 - 1 ) ?,[],,False,Bandi.htm,False,,1
+band1352-9-3,,band1352,9,taávu,taávu,[],( 10 - 1 ) ?,[],,False,Bandi.htm,False,,2
+band1352-10-1,,band1352,10,pû(ŋ),pû(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-10-2,,band1352,10,púù(ŋ),púù(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-10-3,,band1352,10,púu,púu,[],,[],,False,Bandi.htm,False,,2
+band1352-11-1,,band1352,11,pû màhũ yílà(ŋ),pû màhũ yílà(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-11-2,,band1352,11,púu maahu yíla,púu maahu yíla,[],,[],,False,Bandi.htm,False,,2
+band1352-12-1,,band1352,12,pû màhũ fèlé(ŋ),pû màhũ fèlé(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-12-2,,band1352,12,púu maahu felé,púu maahu felé,[],,[],,False,Bandi.htm,False,,2
+band1352-13-1,,band1352,13,pû màhũ sàwà(ŋ),pû màhũ sàwà(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-13-2,,band1352,13,púu maahu sawá,púu maahu sawá,[],,[],,False,Bandi.htm,False,,2
+band1352-14-1,,band1352,14,pû màhũ nàànì(ŋ),pû màhũ nàànì(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-14-2,,band1352,14,púu maahu naáni,púu maahu naáni,[],,[],,False,Bandi.htm,False,,2
+band1352-15-1,,band1352,15,pû màhũ lɔ̀ɔ̀lú(ŋ),pû màhũ lɔ̀ɔ̀lú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-15-2,,band1352,15,púu maahu lɔɔ́lu,púu maahu lɔɔ́lu,[],,[],,False,Bandi.htm,False,,2
+band1352-16-1,,band1352,16,pû màhũ wɔ̀hítá(ŋ),pû màhũ wɔ̀hítá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-16-2,,band1352,16,púu maahu wɔhíta,púu maahu wɔhíta,[],,[],,False,Bandi.htm,False,,2
+band1352-17-1,,band1352,17,pû màhũ wɔ̀félà(ŋ),pû màhũ wɔ̀félà(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-17-2,,band1352,17,púu maahu wɔféla,púu maahu wɔféla,[],,[],,False,Bandi.htm,False,,2
+band1352-18-1,,band1352,18,pû màhũ wɔ̀hák͡pá(ŋ),pû màhũ wɔ̀hák͡pá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-18-2,,band1352,18,púu maahu wahák͡pa,púu maahu wahák͡pa,[],,[],,False,Bandi.htm,False,,2
+band1352-19-1,,band1352,19,pû màhũ tààwú(ŋ),pû màhũ tààwú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-19-2,,band1352,19,púu maahu taávu,púu maahu taávu,[],,[],,False,Bandi.htm,False,,2
+band1352-20-1,,band1352,20,pù félé(ŋ),pù félé(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-20-2,,band1352,20,púu felénɡɔ,púu felénɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-21-1,,band1352,21,pù félé màhũ yílà(ŋ),pù félé màhũ yílà(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-21-2,,band1352,21,púu felénɡɔ maahu yíla,púu felénɡɔ maahu yíla,[],,[],,False,Bandi.htm,False,,2
+band1352-22-1,,band1352,22,pù félé màhũ fèlé(ŋ),pù félé màhũ fèlé(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-22-2,,band1352,22,púu felénɡɔ maahu felé,púu felénɡɔ maahu felé,[],,[],,False,Bandi.htm,False,,2
+band1352-23-1,,band1352,23,pù félé màhũ sàwá(ŋ),pù félé màhũ sàwá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-23-2,,band1352,23,púu felénɡɔ maahu sawá,púu felénɡɔ maahu sawá,[],,[],,False,Bandi.htm,False,,2
+band1352-24-1,,band1352,24,pù félé màhũ náánì(ŋ),pù félé màhũ náánì(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-24-2,,band1352,24,púu felénɡɔ maahu naáni,púu felénɡɔ maahu naáni,[],,[],,False,Bandi.htm,False,,2
+band1352-25-1,,band1352,25,pù félé màhũ lɔ̀ɔ́lú(ŋ),pù félé màhũ lɔ̀ɔ́lú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-25-2,,band1352,25,púu felénɡɔ maahu lɔɔ́lu,púu felénɡɔ maahu lɔɔ́lu,[],,[],,False,Bandi.htm,False,,2
+band1352-26-1,,band1352,26,pù félé màhũ wɔ̀hítá(ŋ),pù félé màhũ wɔ̀hítá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-26-2,,band1352,26,púu felénɡɔ maahu wɔhíta,púu felénɡɔ maahu wɔhíta,[],,[],,False,Bandi.htm,False,,2
+band1352-27-1,,band1352,27,pù félé màhũ wɔ̀félà(ŋ),pù félé màhũ wɔ̀félà(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-27-2,,band1352,27,púu felénɡɔ maahu wɔféla,púu felénɡɔ maahu wɔféla,[],,[],,False,Bandi.htm,False,,2
+band1352-28-1,,band1352,28,pù félé màhũ wɔ̀hák͡pá(ŋ),pù félé màhũ wɔ̀hák͡pá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-28-2,,band1352,28,púu felénɡɔ maahu wahák͡pa,púu felénɡɔ maahu wahák͡pa,[],,[],,False,Bandi.htm,False,,2
+band1352-29-1,,band1352,29,pù félé màhũ tààwú(ŋ),pù félé màhũ tààwú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-29-2,,band1352,29,púu felénɡɔ maahu taávu,púu felénɡɔ maahu taávu,[],,[],,False,Bandi.htm,False,,2
+band1352-30-1,,band1352,30,pù sáwá(ŋ),pù sáwá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-30-2,,band1352,30,púu sáánɡɔ,púu sáánɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-40-1,,band1352,40,pù náání(ŋ),pù náání(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-40-2,,band1352,40,púu naanínɡɔ,púu naanínɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-50-1,,band1352,50,pù lɔ́ɔ́lú(ŋ),pù lɔ́ɔ́lú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-50-2,,band1352,50,púu ndɔɔlunɡɔ,púu ndɔɔlunɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-60-1,,band1352,60,pù wɔ̀hítá(ŋ),pù wɔ̀hítá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-60-2,,band1352,60,púu nɡɔhítanɡɔ,púu nɡɔhítanɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-70-1,,band1352,70,pù wɔ̀félà(ŋ),pù wɔ̀félà(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-70-2,,band1352,70,púu nɡɔfélanɡɔ,púu nɡɔfélanɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-80-1,,band1352,80,pù wɔ̀hák͡pá(ŋ),pù wɔ̀hák͡pá(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-80-2,,band1352,80,púu nɡwahák͡panɡɔ,púu nɡwahák͡panɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-90-1,,band1352,90,pù tààwú(ŋ),pù tààwú(ŋ),[],,[],,False,Bandi.htm,False,,1
+band1352-90-2,,band1352,90,púu taávunɡɔ,púu taávunɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-100-1,,band1352,100,hɔndɔlɔ nɡila,hɔndɔlɔ nɡila,[],( 'hɔ́ndɔlɔ' < English ),[],,True,Bandi.htm,False,,1
+band1352-100-2,,band1352,100,hɔ́ndɔlɔ nɡilá,hɔ́ndɔlɔ nɡilá,[],( ' hɔ́ndɔlɔ' < English ),[],,True,Bandi.htm,False,,2
+band1352-200-1,,band1352,200,hɔndɔlɔ fele,hɔndɔlɔ fele,[],,[],,False,Bandi.htm,False,,1
+band1352-200-2,,band1352,200,hɔ́ndɔlɔ felénɡɔ,hɔ́ndɔlɔ felénɡɔ,[],,[],,False,Bandi.htm,False,,2
+band1352-1000-1,,band1352,1000,tásuu nɡila,tásuu nɡila,[],('tásuu' < English ),[],,True,Bandi.htm,False,,1
+band1352-1000-2,,band1352,1000,tásuu nɡilá,tásuu nɡilá,[],( ' tásuu' < English ),[],,True,Bandi.htm,False,,2
+band1352-2000-1,,band1352,2000,tásuu fele,tásuu fele,[],,[],,False,Bandi.htm,False,,1
+band1352-2000-2,,band1352,2000,tásuu felénɡɔ,tásuu felénɡɔ,[],,[],,False,Bandi.htm,False,,2

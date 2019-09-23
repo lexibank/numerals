@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kamv1242-1-1,,kamv1242,1,ev,ev,[],,[],,False,Kamviri.htm,False,ˈev,1
+kamv1242-2-1,,kamv1242,2,dy,dy,[],,[],,False,Kamviri.htm,False,dˈü,1
+kamv1242-3-1,,kamv1242,3,tre,tre,[],,[],,False,Kamviri.htm,False,trˈe,1
+kamv1242-4-1,,kamv1242,4,ʃto,ʃto,[],,[],,False,Kamviri.htm,False,štˈo,1
+kamv1242-5-1,,kamv1242,5,put͡s,put͡s,[],,[],,False,Kamviri.htm,False,pˈuc,1
+kamv1242-6-1,,kamv1242,6,ʂu,ʂu,[],,[],,False,Kamviri.htm,False,ṣ̌ˈu,1
+kamv1242-7-1,,kamv1242,7,sut,sut,[],,[],,False,Kamviri.htm,False,sˈut,1
+kamv1242-8-1,,kamv1242,8,uʂʈ,uʂʈ,[],,[],,False,Kamviri.htm,False,ˈuṣṭ,1
+kamv1242-9-1,,kamv1242,9,nu,nu,[],,[],,False,Kamviri.htm,False,nˈu,1
+kamv1242-10-1,,kamv1242,10,dut͡s,dut͡s,[],,[],,False,Kamviri.htm,False,dˈuc,1
+kamv1242-11-1,,kamv1242,11,jənit͡s,jənit͡s,[],,[],,False,Kamviri.htm,False,iânˈic,1
+kamv1242-12-1,,kamv1242,12,dit͡s,dit͡s,[],,[],,False,Kamviri.htm,False,dˈic,1
+kamv1242-13-1,,kamv1242,13,trit͡s,trit͡s,[],,[],,False,Kamviri.htm,False,trˈic,1
+kamv1242-14-1,,kamv1242,14,ʃtredit͡s,ʃtredit͡s,[],,[],,False,Kamviri.htm,False,štrˈec,1
+kamv1242-15-1,,kamv1242,15,pət͡sit͡s,pət͡sit͡s,[],,[],,False,Kamviri.htm,False,pâcˈic,1
+kamv1242-16-1,,kamv1242,16,ʂet͡s,ʂet͡s,[],,[],,False,Kamviri.htm,False,ṣ̌ˈec,1
+kamv1242-17-1,,kamv1242,17,sətit͡s,sətit͡s,[],,[],,False,Kamviri.htm,False,sâtˈic,1
+kamv1242-18-1,,kamv1242,18,əʂʈit͡s,əʂʈit͡s,[],,[],,False,Kamviri.htm,False,âṣ̌tˈ̣is,1
+kamv1242-19-1,,kamv1242,19,net͡s,net͡s,[],,[],,False,Kamviri.htm,False,nˈec,1
+kamv1242-20-1,,kamv1242,20,viˈt͡si,viˈt͡si,[],,[],,False,Kamviri.htm,False,vicˈi,1
+kamv1242-21-1,,kamv1242,21,vicˈâ ev,vicˈâ ev,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-22-1,,kamv1242,22,vicˈâ dü,vicˈâ dü,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-23-1,,kamv1242,23,vicˈâ tre,vicˈâ tre,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-24-1,,kamv1242,24,vicˈâ što,vicˈâ što,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-25-1,,kamv1242,25,vicˈâ puc,vicˈâ puc,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-26-1,,kamv1242,26,vicˈâ ṣ̌u,vicˈâ ṣ̌u,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-27-1,,kamv1242,27,vicˈâ sut,vicˈâ sut,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-28-1,,kamv1242,28,vicˈâ uṣṭ,vicˈâ uṣṭ,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-29-1,,kamv1242,29,vicˈâ nu,vicˈâ nu,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-30-1,,kamv1242,30,vicˈâ duc,vicˈâ duc,[],(20 + 10),[],,False,Kamviri.htm,False,,1
+kamv1242-40-1,,kamv1242,40,dˈü vici,dˈü vici,[],( 2 x 20),[],,False,Kamviri.htm,False,,1
+kamv1242-50-1,,kamv1242,50,dˈü vicˈâ duc,dˈü vicˈâ duc,[],,[],,False,Kamviri.htm,False,,1
+kamv1242-60-1,,kamv1242,60,trˈe vici,trˈe vici,[],( 3 x 20),[],,False,Kamviri.htm,False,,1
+kamv1242-80-1,,kamv1242,80,štˈo vici,štˈo vici,[],( 4 x 20),[],,False,Kamviri.htm,False,,1
+kamv1242-100-1,,kamv1242,100,put͡sːi,put͡sːi,[],( 5 x 20),[],,False,Kamviri.htm,False,pˈucci,1
+kamv1242-200-1,,kamv1242,200,ducci,ducci,[],( 10 x 20),[],,False,Kamviri.htm,False,,1
+kamv1242-400-1,,kamv1242,400,əzor,əzor,[],,[],,False,Kamviri.htm,False,âzˈor,1

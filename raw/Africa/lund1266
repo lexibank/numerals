@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+lund1266-1-1,,lund1266,1,t͡ʃimú,t͡ʃimú,[],,[],,False,Lunda.htm,False,,1
+lund1266-1-2,,lund1266,1,kamú,kamú,[],,[],,False,Lunda.htm,False,,1
+lund1266-2-1,,lund1266,2,yiyedí,yiyedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-2-2,,lund1266,2,kayedí,kayedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-3-1,,lund1266,3,yisatú,yisatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-3-2,,lund1266,3,kasatú,kasatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-4-1,,lund1266,4,yiwaná,yiwaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-4-2,,lund1266,4,kawaná,kawaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-5-1,,lund1266,5,yitanú,yitanú,[],,[],,False,Lunda.htm,False,,1
+lund1266-5-2,,lund1266,5,katanú,katanú,[],,[],,False,Lunda.htm,False,,1
+lund1266-6-1,,lund1266,6,katanú nakamú,katanú nakamú,[],( 5 + 1 ),[],,False,Lunda.htm,False,,1
+lund1266-7-1,,lund1266,7,katanú nakayedí,katanú nakayedí,[],( 5 + 2 ),[],,False,Lunda.htm,False,,1
+lund1266-8-1,,lund1266,8,katanú nakasatú,katanú nakasatú,[],( 5 + 3 ),[],,False,Lunda.htm,False,,1
+lund1266-9-1,,lund1266,9,katanú nakawaná,katanú nakawaná,[],( 5 + 4 ),[],,False,Lunda.htm,False,,1
+lund1266-10-1,,lund1266,10,ikúmi,ikúmi,[],,[],,False,Lunda.htm,False,,1
+lund1266-11-1,,lund1266,11,ikúmi nakamú,ikúmi nakamú,[],,[],,False,Lunda.htm,False,,1
+lund1266-12-1,,lund1266,12,ikúmi nakayedí,ikúmi nakayedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-13-1,,lund1266,13,ikúmi nakasatú,ikúmi nakasatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-14-1,,lund1266,14,ikúmi nakawaná,ikúmi nakawaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-15-1,,lund1266,15,ikúmi nakatanú,ikúmi nakatanú,[],,[],,False,Lunda.htm,False,,1
+lund1266-16-1,,lund1266,16,ikúmi nakatanú nakamú,ikúmi nakatanú nakamú,[],,[],,False,Lunda.htm,False,,1
+lund1266-17-1,,lund1266,17,ikúmi nakatanú nakayedí,ikúmi nakatanú nakayedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-18-1,,lund1266,18,ikúmi nakatanú nakasatú,ikúmi nakatanú nakasatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-19-1,,lund1266,19,ikúmi nakatanú nakawaná,ikúmi nakatanú nakawaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-20-1,,lund1266,20,makúmi ayedí,makúmi ayedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-21-1,,lund1266,21,makúmi ayedí nakamú,makúmi ayedí nakamú,[],,[],,False,Lunda.htm,False,,1
+lund1266-22-1,,lund1266,22,makúmi ayedí nakayedí,makúmi ayedí nakayedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-23-1,,lund1266,23,makúmi ayedí nakasatú,makúmi ayedí nakasatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-24-1,,lund1266,24,makúmi ayedí nakawaná,makúmi ayedí nakawaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-25-1,,lund1266,25,makúmi ayedí nakatanú,makúmi ayedí nakatanú,[],,[],,False,Lunda.htm,False,,1
+lund1266-26-1,,lund1266,26,makúmi ayedí nakatanú nakamú,makúmi ayedí nakatanú nakamú,[],,[],,False,Lunda.htm,False,,1
+lund1266-27-1,,lund1266,27,makúmi ayedí nakatanú nakayedí,makúmi ayedí nakatanú nakayedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-28-1,,lund1266,28,makúmi ayedí nakatanú nakasatú,makúmi ayedí nakatanú nakasatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-29-1,,lund1266,29,makúmi ayedí nakatanú nakawaná,makúmi ayedí nakatanú nakawaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-30-1,,lund1266,30,makúmi asatú,makúmi asatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-40-1,,lund1266,40,makúmi awaná,makúmi awaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-50-1,,lund1266,50,makúmi atanú,makúmi atanú,[],,[],,False,Lunda.htm,False,,1
+lund1266-60-1,,lund1266,60,makúmi atanú nakamú,makúmi atanú nakamú,[],,[],,False,Lunda.htm,False,,1
+lund1266-70-1,,lund1266,70,makúmi atanú nayedí,makúmi atanú nayedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-80-1,,lund1266,80,makúmi atanú nasatú,makúmi atanú nasatú,[],,[],,False,Lunda.htm,False,,1
+lund1266-90-1,,lund1266,90,makúmi atanú nawaná,makúmi atanú nawaná,[],,[],,False,Lunda.htm,False,,1
+lund1266-100-1,,lund1266,100,nkulakad͡ʒi,nkulakad͡ʒi,[],,[],,False,Lunda.htm,False,,1
+lund1266-200-1,,lund1266,200,inkulakad͡ʒi d͡ʒiyedí,inkulakad͡ʒi d͡ʒiyedí,[],,[],,False,Lunda.htm,False,,1
+lund1266-1000-1,,lund1266,1000,ikombakad͡ʒi,ikombakad͡ʒi,[],,[],,False,Lunda.htm,False,,1
+lund1266-2000-1,,lund1266,2000,makombakad͡ʒi ayedí,makombakad͡ʒi ayedí,[],,[],,False,Lunda.htm,False,,1

@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tung1290-1-1,,tung1290,1,sikei,sikei,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-1-2,,tung1290,1,sikeⁱ,sikeⁱ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-2-1,,tung1290,2,poŋua,poŋua,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-2-2,,tung1290,2,pɔŋᵘʌ,pɔŋᵘʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-3-1,,tung1290,3,potol,potol,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-3-2,,tung1290,3,pɔtɔl,pɔtɔl,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-4-1,,tung1290,4,puat,puat,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-4-2,,tung1290,4,puat,puat,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-5-1,,tung1290,5,palpallima,palpallima,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-5-2,,tung1290,5,palpal limʌ,palpal limʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-6-1,,tung1290,6,limalesikei,limalesikei,[],( 5 + 1 ),[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-6-2,,tung1290,6,limʌ le sikeⁱ,limʌ le sikeⁱ,[],( 5 + 1 ),[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-7-1,,tung1290,7,limaleŋua,limaleŋua,[],( 5 + 2 ),[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-7-2,,tung1290,7,limʌ le ŋᵘʌ,limʌ le ŋᵘʌ,[],( 5 + 2 ),[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-8-1,,tung1290,8,limaleat,limaleat,[],( 5 + 3 ),[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-8-2,,tung1290,8,limʌ le leat,limʌ le leat,[],( 5 + 3 ),[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-9-1,,tung1290,9,limaletul,limaletul,[],( 5 + 4 ),[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-9-2,,tung1290,9,limʌ le tul,limʌ le tul,[],( 5 + 4 ),[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-10-1,,tung1290,10,sikei a saŋauli,sikei a saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-10-2,,tung1290,10,sʌŋʌᵘli,sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-11-1,,tung1290,11,sikei a saŋauli na sikei,sikei a saŋauli na sikei,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-11-2,,tung1290,11,sʌŋʌᵘli na sikeⁱ,sʌŋʌᵘli na sikeⁱ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-12-1,,tung1290,12,sikei a saŋauli na poŋua,sikei a saŋauli na poŋua,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-12-2,,tung1290,12,sʌŋʌᵘli na pɔŋᵘʌ,sʌŋʌᵘli na pɔŋᵘʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-13-1,,tung1290,13,sikei a saŋauli na potol,sikei a saŋauli na potol,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-13-2,,tung1290,13,sʌŋʌᵘli na pɔtɔl,sʌŋʌᵘli na pɔtɔl,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-14-1,,tung1290,14,sikei a saŋauli na puat,sikei a saŋauli na puat,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-14-2,,tung1290,14,sʌŋʌᵘli na puat,sʌŋʌᵘli na puat,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-15-1,,tung1290,15,sikei a saŋauli na palpallima,sikei a saŋauli na palpallima,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-15-2,,tung1290,15,sʌŋʌᵘli na palpal limʌ,sʌŋʌᵘli na palpal limʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-16-1,,tung1290,16,sikei a saŋauli na limalesikei,sikei a saŋauli na limalesikei,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-16-2,,tung1290,16,sʌŋʌᵘli na limʌ le sikeⁱ,sʌŋʌᵘli na limʌ le sikeⁱ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-17-1,,tung1290,17,sikei a saŋauli na limaleŋua,sikei a saŋauli na limaleŋua,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-17-2,,tung1290,17,sʌŋʌᵘli na limʌ le ŋᵘʌ,sʌŋʌᵘli na limʌ le ŋᵘʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-18-1,,tung1290,18,sikei a saŋauli na limaleat,sikei a saŋauli na limaleat,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-18-2,,tung1290,18,sʌŋʌᵘli na limʌ le leat,sʌŋʌᵘli na limʌ le leat,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-19-1,,tung1290,19,sikei a saŋauli na limaletul,sikei a saŋauli na limaletul,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-19-2,,tung1290,19,sʌŋʌᵘli na limʌ le tul,sʌŋʌᵘli na limʌ le tul,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-20-1,,tung1290,20,poŋua na saŋauli,poŋua na saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-20-2,,tung1290,20,pɔŋᵘʌ na sʌŋʌᵘli,pɔŋᵘʌ na sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-21-1,,tung1290,21,poŋua na saŋauli na sikei,poŋua na saŋauli na sikei,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-21-2,,tung1290,21,pɔŋᵘʌ na sʌŋʌᵘli na sikeⁱ,pɔŋᵘʌ na sʌŋʌᵘli na sikeⁱ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-22-1,,tung1290,22,poŋua na saŋauli na poŋua,poŋua na saŋauli na poŋua,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-22-2,,tung1290,22,pɔŋᵘʌ na sʌŋʌᵘli na pɔŋᵘʌ,pɔŋᵘʌ na sʌŋʌᵘli na pɔŋᵘʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-23-1,,tung1290,23,poŋua na saŋauli na potol,poŋua na saŋauli na potol,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-23-2,,tung1290,23,pɔŋᵘʌ na sʌŋʌᵘli na pɔtɔl,pɔŋᵘʌ na sʌŋʌᵘli na pɔtɔl,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-24-1,,tung1290,24,poŋua na saŋauli na puat,poŋua na saŋauli na puat,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-24-2,,tung1290,24,pɔŋᵘʌ na sʌŋʌᵘli na puat,pɔŋᵘʌ na sʌŋʌᵘli na puat,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-25-1,,tung1290,25,poŋua na saŋauli na palpallima,poŋua na saŋauli na palpallima,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-25-2,,tung1290,25,pɔŋᵘʌ na sʌŋʌᵘli na palpal limʌ,pɔŋᵘʌ na sʌŋʌᵘli na palpal limʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-26-1,,tung1290,26,poŋua na saŋauli na limalesikei,poŋua na saŋauli na limalesikei,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-26-2,,tung1290,26,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le sikeⁱ,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le sikeⁱ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-27-1,,tung1290,27,poŋua na saŋauli na limaleŋua,poŋua na saŋauli na limaleŋua,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-27-2,,tung1290,27,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le ŋᵘʌ,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le ŋᵘʌ,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-28-1,,tung1290,28,poŋua na saŋauli na limaleat,poŋua na saŋauli na limaleat,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-28-2,,tung1290,28,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le leat,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le leat,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-29-1,,tung1290,29,poŋua na saŋauli na limaletul,poŋua na saŋauli na limaletul,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-29-2,,tung1290,29,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le tul,pɔŋᵘʌ na sʌŋʌᵘli na limʌ le tul,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-30-1,,tung1290,30,potol a saŋauli,potol a saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-30-2,,tung1290,30,pɔtɔl a sʌŋʌᵘli,pɔtɔl a sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-40-1,,tung1290,40,puat a saŋauli,puat a saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-40-2,,tung1290,40,puat a sʌŋʌᵘli,puat a sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-50-1,,tung1290,50,palpallima na saŋauli,palpallima na saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-50-2,,tung1290,50,palpal limʌ na sʌŋʌᵘli,palpal limʌ na sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-60-1,,tung1290,60,limalesikei na saŋauli,limalesikei na saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-60-2,,tung1290,60,limʌ le sikeⁱ na sʌŋʌᵘli,limʌ le sikeⁱ na sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-70-1,,tung1290,70,limaleŋua saŋauli,limaleŋua saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-70-2,,tung1290,70,limʌ le ŋᵘʌ sʌŋʌᵘli,limʌ le ŋᵘʌ sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-80-1,,tung1290,80,limaleat saŋauli,limaleat saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-80-2,,tung1290,80,limʌ le leat sʌŋʌᵘli,limʌ le leat sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-90-1,,tung1290,90,limaletul saŋauli,limaletul saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-90-2,,tung1290,90,limʌ le tul sʌŋʌᵘli,limʌ le tul sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-100-1,,tung1290,100,sikei a lelen saŋauli,sikei a lelen saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-100-2,,tung1290,100,lelen sʌŋʌᵘli,lelen sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-200-1,,tung1290,200,poŋua na lelen saŋauli,poŋua na lelen saŋauli,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-200-2,,tung1290,200,pɔŋᵘʌ na lelen sʌŋʌᵘli,pɔŋᵘʌ na lelen sʌŋʌᵘli,[],,[],,False,Tungag-Lavongai.htm,False,,2
+tung1290-1000-1,,tung1290,1000,sikei a tausen,sikei a tausen,[],( < English),[],,True,Tungag-Lavongai.htm,False,,1
+tung1290-1000-2,,tung1290,1000,sikeⁱ a tʌusen,sikeⁱ a tʌusen,[],( < English),[],,True,Tungag-Lavongai.htm,False,,2
+tung1290-2000-1,,tung1290,2000,poŋua na tausen,poŋua na tausen,[],,[],,False,Tungag-Lavongai.htm,False,,1
+tung1290-2000-2,,tung1290,2000,pɔŋᵘʌ na tʌusen,pɔŋᵘʌ na tʌusen,[],,[],,False,Tungag-Lavongai.htm,False,,2

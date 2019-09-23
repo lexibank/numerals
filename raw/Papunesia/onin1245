@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+onin1245-1-1,,onin1245,1,sa,sa,[],,[],,False,Onin.htm,False,,1
+onin1245-1-2,,onin1245,1,sawatan,sawatan,[],,[],,False,Onin.htm,False,,1
+onin1245-2-1,,onin1245,2,lua,lua,[],,[],,False,Onin.htm,False,,1
+onin1245-2-2,,onin1245,2,nua,nua,[],,[],,False,Onin.htm,False,,1
+onin1245-3-1,,onin1245,3,téni,téni,[],,[],,False,Onin.htm,False,,1
+onin1245-4-1,,onin1245,4,fat,fat,[],,[],,False,Onin.htm,False,,1
+onin1245-5-1,,onin1245,5,níma,níma,[],,[],,False,Onin.htm,False,,1
+onin1245-6-1,,onin1245,6,nɛm,nɛm,[],,[],,False,Onin.htm,False,,1
+onin1245-6-2,,onin1245,6,anèm,anèm,[],,[],,False,Onin.htm,False,,1
+onin1245-7-1,,onin1245,7,tařasá,tařasá,[],,[],,False,Onin.htm,False,,1
+onin1245-7-2,,onin1245,7,butères,butères,[],( 6+1 ),[],,False,Onin.htm,False,,1
+onin1245-8-1,,onin1245,8,tařanua,tařanua,[],,[],,False,Onin.htm,False,,1
+onin1245-8-2,,onin1245,8,butènua,butènua,[],( 6+2 ),[],,False,Onin.htm,False,,1
+onin1245-9-1,,onin1245,9,səpútih,səpútih,[],,[],,False,Onin.htm,False,,1
+onin1245-9-2,,onin1245,9,sabuti,sabuti,[],(10 - 1 ),[],,False,Onin.htm,False,,1
+onin1245-10-1,,onin1245,10,pusúa,pusúa,[],,[],,False,Onin.htm,False,,1
+onin1245-10-2,,onin1245,10,busua,busua,[],,[],,False,Onin.htm,False,,1
+onin1245-11-1,,onin1245,11,busua-resi-sa,busua-resi-sa,[],,[],,False,Onin.htm,False,,1
+onin1245-12-1,,onin1245,12,busua-resi-nua,busua-resi-nua,[],,[],,False,Onin.htm,False,,1
+onin1245-13-1,,onin1245,13,busua-resi-teni,busua-resi-teni,[],,[],,False,Onin.htm,False,,1
+onin1245-14-1,,onin1245,14,busua-resi-fat,busua-resi-fat,[],,[],,False,Onin.htm,False,,1
+onin1245-15-1,,onin1245,15,busua-resi-nima,busua-resi-nima,[],,[],,False,Onin.htm,False,,1
+onin1245-16-1,,onin1245,16,busua-resi-nɛm,busua-resi-nɛm,[],,[],,False,Onin.htm,False,,1
+onin1245-17-1,,onin1245,17,busua-resi-tařasá,busua-resi-tařasá,[],,[],,False,Onin.htm,False,,1
+onin1245-18-1,,onin1245,18,busua-resi-tařanua,busua-resi-tařanua,[],,[],,False,Onin.htm,False,,1
+onin1245-19-1,,onin1245,19,busua-resi-səputih,busua-resi-səputih,[],,[],,False,Onin.htm,False,,1
+onin1245-20-1,,onin1245,20,buti-nua,buti-nua,[],,[],,False,Onin.htm,False,,1
+onin1245-20-2,,onin1245,20,tumate sa,tumate sa,[],( litː 'man one'),[],,False,Onin.htm,False,,1
+onin1245-40-1,,onin1245,40,buti fat,buti fat,[],,[],,False,Onin.htm,False,,1
+onin1245-40-2,,onin1245,40,tumate rua,tumate rua,[],,[],,False,Onin.htm,False,,1

@@ -1,0 +1,28 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kaul1240-1-1,,kaul1240,1,tehen,tehen,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-1-2,,kaul1240,1,ta,ta,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-2-1,,kaul1240,2,ponβal,ponβal,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-3-1,,kaul1240,3,miuk,miuk,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-4-1,,kaul1240,4,mnal,mnal,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-4-2,,kaul1240,4,nal,nal,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-5-1,,kaul1240,5,eip,eip,[],( lit: 'one hand' ),[],,False,Kaulong.htm,False,,1
+kaul1240-6-1,,kaul1240,6,(eip si ) ta mesup,(eip si ) ta mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-7-1,,kaul1240,7,(eip si ) ponβal mesup,(eip si ) ponβal mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-8-1,,kaul1240,8,(eip si ) miuk mesup,(eip si ) miuk mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-9-1,,kaul1240,9,(eip si ) mnal mesup,(eip si ) mnal mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-10-1,,kaul1240,10,eip ponβal,eip ponβal,[],(lit: 'two hands' ),[],,False,Kaulong.htm,False,,1
+kaul1240-11-1,,kaul1240,11,eip ponβal u ta mesup,eip ponβal u ta mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-12-1,,kaul1240,12,eip ponβal u ponβal mesup,eip ponβal u ponβal mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-13-1,,kaul1240,13,eip ponβal u miuk mesup,eip ponβal u miuk mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-14-1,,kaul1240,14,eip ponβal u mnal mesup,eip ponβal u mnal mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-15-1,,kaul1240,15,eip miuk,eip miuk,[],(lit: 'three hands'),[],,False,Kaulong.htm,False,,1
+kaul1240-15-2,,kaul1240,15,eip nu marasul,eip nu marasul,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-16-1,,kaul1240,16,eip miuk u ta mesup,eip miuk u ta mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-17-1,,kaul1240,17,eip miuk u ponβal mesup,eip miuk u ponβal mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-18-1,,kaul1240,18,eip miuk u miuk mesup,eip miuk u miuk mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-19-1,,kaul1240,19,eip miuk u mnal mesup,eip miuk u mnal mesup,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-20-1,,kaul1240,20,eip nal,eip nal,[],(litː 'four hands'),[],,False,Kaulong.htm,False,,1
+kaul1240-100-1,,kaul1240,100,eip eip nal,eip eip nal,[],(litː 'four four hands' ),[],,False,Kaulong.htm,False,,1
+kaul1240-100-2,,kaul1240,100,eipunwal eipunwal,eipunwal eipunwal,[],,[],,False,Kaulong.htm,False,,1
+kaul1240-100-3,,kaul1240,100,handet,handet,[],< English ,[],,True,Kaulong.htm,False,,1
+kaul1240-1000-1,,kaul1240,1000,tausen,tausen,[],,[],,False,Kaulong.htm,False,,1

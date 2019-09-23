@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+oroo1241-1-1,,oroo1241,1,ki,ki,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-2-1,,oroo1241,2,íbà,íbà,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-3-1,,oroo1241,3,íté,íté,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-4-1,,oroo1241,4,ínîaŋ,ínîaŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-5-1,,oroo1241,5,ítiŋ,ítiŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-6-1,,oroo1241,6,itiŋoŋki,itiŋoŋki,[],( 5+ 1 ),[],,False,Oro-NG.htm,False,,1
+oroo1241-7-1,,oroo1241,7,itiŋaba,itiŋaba,[],( 5+ 2 ),[],,False,Oro-NG.htm,False,,1
+oroo1241-8-1,,oroo1241,8,itiŋate,itiŋate,[],( 5+ 3 ),[],,False,Oro-NG.htm,False,,1
+oroo1241-9-1,,oroo1241,9,itiŋaniaŋ,itiŋaniaŋ,[],( 5+ 4 ),[],,False,Oro-NG.htm,False,,1
+oroo1241-10-1,,oroo1241,10,luɡhu or luhu,luɡhu or luhu,[],,[],,False,Oro-NG.htm,True,,1
+oroo1241-11-1,,oroo1241,11,luɡhu-oŋki,luɡhu-oŋki,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-12-1,,oroo1241,12,luɡhu-iba,luɡhu-iba,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-13-1,,oroo1241,13,luɡhu-ita,luɡhu-ita,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-14-1,,oroo1241,14,luɡhu-iniaŋ,luɡhu-iniaŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-15-1,,oroo1241,15,efu,efu,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-16-1,,oroo1241,16,efu-maki,efu-maki,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-17-1,,oroo1241,17,efu-miba,efu-miba,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-18-1,,oroo1241,18,efu-mite,efu-mite,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-19-1,,oroo1241,19,efu-miniaŋ,efu-miniaŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-20-1,,oroo1241,20,edip,edip,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-21-1,,oroo1241,21,edip-maki,edip-maki,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-22-1,,oroo1241,22,edip-miba,edip-miba,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-23-1,,oroo1241,23,edip-mite,edip-mite,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-24-1,,oroo1241,24,edip-miniaŋ,edip-miniaŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-25-1,,oroo1241,25,edip-mitiŋ,edip-mitiŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-26-1,,oroo1241,26,edip-mitoŋoki,edip-mitoŋoki,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-27-1,,oroo1241,27,edip-mitaŋaba,edip-mitaŋaba,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-28-1,,oroo1241,28,edip-mitaŋate,edip-mitaŋate,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-29-1,,oroo1241,29,edip-mitaŋaniaŋ,edip-mitaŋaniaŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-30-1,,oroo1241,30,edip-maluɡhu,edip-maluɡhu,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-40-1,,oroo1241,40,aba,aba,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-50-1,,oroo1241,50,aba--maluɡhu,aba--maluɡhu,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-60-1,,oroo1241,60,ete,ete,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-70-1,,oroo1241,70,ete--maluɡhu,ete--maluɡhu,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-80-1,,oroo1241,80,aniaŋ,aniaŋ,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-90-1,,oroo1241,90,aniaŋ-maluɡhu,aniaŋ-maluɡhu,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-100-1,,oroo1241,100,ikie,ikie,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-200-1,,oroo1241,200,ikie-miba,ikie-miba,[],,[],,False,Oro-NG.htm,False,,1
+oroo1241-200-2,,oroo1241,200,400.ikie ínîaŋ,400.ikie ínîaŋ,[],,[],,False,Oro-NG.htm,True,,1
+oroo1241-1000-1,,oroo1241,1000,tasin iki 'tasin' from English 'thousand',tasin iki 'tasin' from English 'thousand',[],,[],,False,Oro-NG.htm,True,,1
+oroo1241-2000-1,,oroo1241,2000,tasin iba,tasin iba,[],,[],,False,Oro-NG.htm,False,,1

@@ -1,0 +1,83 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+dyan1251-1-1,,dyan1251,1,bɛ̃̀ɡ,bɛ̃̀ɡ,[],,[],,False,Dyan.htm,False,,1
+dyan1251-1-2,,dyan1251,1,bɪ̀ɛlè,bɪ̀ɛlè,[],,[],,False,Dyan.htm,False,,1
+dyan1251-1-3,,dyan1251,1,bɛ̃ɡ,bɛ̃ɡ,[],,[],,False,Dyan.htm,False,,2
+dyan1251-1-4,,dyan1251,1,bɪɛle,bɪɛle,[],,[],,False,Dyan.htm,False,,2
+dyan1251-2-1,,dyan1251,2,yèɲɔ̃̀,yèɲɔ̃̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-2-2,,dyan1251,2,yenyɔ̃,yenyɔ̃,[],,[],,False,Dyan.htm,False,,2
+dyan1251-3-1,,dyan1251,3,yèthɛ̃̀sì,yèthɛ̃̀sì,[],,[],,False,Dyan.htm,False,,1
+dyan1251-3-2,,dyan1251,3,yethɛ̃si,yethɛ̃si,[],,[],,False,Dyan.htm,False,,2
+dyan1251-4-1,,dyan1251,4,yènàa,yènàa,[],,[],,False,Dyan.htm,False,,1
+dyan1251-4-2,,dyan1251,4,yenaa,yenaa,[],,[],,False,Dyan.htm,False,,2
+dyan1251-5-1,,dyan1251,5,dìemà,dìemà,[],,[],,False,Dyan.htm,False,,1
+dyan1251-5-2,,dyan1251,5,diema,diema,[],,[],,False,Dyan.htm,False,,2
+dyan1251-6-1,,dyan1251,6,mɔ̀lɔ̀dũ̀,mɔ̀lɔ̀dũ̀,[],( 5 + 1 ),[],,False,Dyan.htm,False,,1
+dyan1251-6-2,,dyan1251,6,mɔlɔdũ,mɔlɔdũ,[],( 5 + 1 ),[],,False,Dyan.htm,False,,2
+dyan1251-7-1,,dyan1251,7,mɔ̀lɔ̀ɲɔ̃̀,mɔ̀lɔ̀ɲɔ̃̀,[],( 5 + 2 ),[],,False,Dyan.htm,False,,1
+dyan1251-7-2,,dyan1251,7,mɔlɔnyɔ̃,mɔlɔnyɔ̃,[],( 5 + 2 ),[],,False,Dyan.htm,False,,2
+dyan1251-8-1,,dyan1251,8,mɔ̀lɔ̀thɛ̃̀sì,mɔ̀lɔ̀thɛ̃̀sì,[],( 5 + 3 ),[],,False,Dyan.htm,False,,1
+dyan1251-8-2,,dyan1251,8,mɔlɔthɛ̃si,mɔlɔthɛ̃si,[],( 5 + 3 ),[],,False,Dyan.htm,False,,2
+dyan1251-9-1,,dyan1251,9,nĩ́kpó-cí-bèrè,nĩ́kpó-cí-bèrè,[],( 10 - 1 ) ?,[],,False,Dyan.htm,False,,1
+dyan1251-9-2,,dyan1251,9,nĩkpo-ci-bere,nĩkpo-ci-bere,[],( 10 - 1 ) ?,[],,False,Dyan.htm,False,,2
+dyan1251-10-1,,dyan1251,10,nĩ́kpó,nĩ́kpó,[],,[],,False,Dyan.htm,False,,1
+dyan1251-10-2,,dyan1251,10,nĩkpo,nĩkpo,[],,[],,False,Dyan.htm,False,,2
+dyan1251-11-1,,dyan1251,11,nĩ́kpó-bèrè,nĩ́kpó-bèrè,[],,[],,False,Dyan.htm,False,,1
+dyan1251-11-2,,dyan1251,11,nĩkpo-bere,nĩkpo-bere,[],,[],,False,Dyan.htm,False,,2
+dyan1251-12-1,,dyan1251,12,nĩ́kpó-yéɲɔ̃̀,nĩ́kpó-yéɲɔ̃̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-12-2,,dyan1251,12,nĩkpo-yenyɔ̃,nĩkpo-yenyɔ̃,[],,[],,False,Dyan.htm,False,,2
+dyan1251-13-1,,dyan1251,13,nĩ́kpó-yéthɛ̃̀sì,nĩ́kpó-yéthɛ̃̀sì,[],,[],,False,Dyan.htm,False,,1
+dyan1251-13-2,,dyan1251,13,nĩkpo-yethɛ̃si,nĩkpo-yethɛ̃si,[],,[],,False,Dyan.htm,False,,2
+dyan1251-14-1,,dyan1251,14,nĩ́kpó-yénàa,nĩ́kpó-yénàa,[],,[],,False,Dyan.htm,False,,1
+dyan1251-14-2,,dyan1251,14,nĩkpo-yenaa,nĩkpo-yenaa,[],,[],,False,Dyan.htm,False,,2
+dyan1251-15-1,,dyan1251,15,nĩ́kpó-dìemà,nĩ́kpó-dìemà,[],,[],,False,Dyan.htm,False,,1
+dyan1251-15-2,,dyan1251,15,nĩkpo-diema,nĩkpo-diema,[],,[],,False,Dyan.htm,False,,2
+dyan1251-16-1,,dyan1251,16,nĩ́kpó-mɔ́lɔ̀dũ̀,nĩ́kpó-mɔ́lɔ̀dũ̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-16-2,,dyan1251,16,nĩkpo-mɔlɔdũ,nĩkpo-mɔlɔdũ,[],,[],,False,Dyan.htm,False,,2
+dyan1251-17-1,,dyan1251,17,nĩ́kpó-mɔ́lɔ̀ɲɔ̃̀,nĩ́kpó-mɔ́lɔ̀ɲɔ̃̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-17-2,,dyan1251,17,nĩkpo-mɔlɔnyɔ̃,nĩkpo-mɔlɔnyɔ̃,[],,[],,False,Dyan.htm,False,,2
+dyan1251-18-1,,dyan1251,18,nĩ́kpó-mɔ́lɔ̀thɛ̃̀sì,nĩ́kpó-mɔ́lɔ̀thɛ̃̀sì,[],,[],,False,Dyan.htm,False,,1
+dyan1251-18-2,,dyan1251,18,nĩkpo-mɔlɔthɛ̃si,nĩkpo-mɔlɔthɛ̃si,[],,[],,False,Dyan.htm,False,,2
+dyan1251-19-1,,dyan1251,19,cèerù-cí-bèrè,cèerù-cí-bèrè,[],( 20 - 1 ) ?,[],,False,Dyan.htm,False,,1
+dyan1251-19-2,,dyan1251,19,ceeru-ci-bere,ceeru-ci-bere,[],( 20 - 1 ) ?,[],,False,Dyan.htm,False,,2
+dyan1251-20-1,,dyan1251,20,cèerù,cèerù,[],,[],,False,Dyan.htm,False,,1
+dyan1251-20-2,,dyan1251,20,ceeru,ceeru,[],,[],,False,Dyan.htm,False,,2
+dyan1251-21-1,,dyan1251,21,cèerù-bèrè,cèerù-bèrè,[],,[],,False,Dyan.htm,False,,1
+dyan1251-21-2,,dyan1251,21,ceeru-bere,ceeru-bere,[],,[],,False,Dyan.htm,False,,2
+dyan1251-22-1,,dyan1251,22,cèerù-bɛ̀-ɲɔ̃̀,cèerù-bɛ̀-ɲɔ̃̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-22-2,,dyan1251,22,ceeru-bɛ-nyɔ̃,ceeru-bɛ-nyɔ̃,[],,[],,False,Dyan.htm,False,,2
+dyan1251-23-1,,dyan1251,23,cèerù-bɛ̀-thɛ̃̀sì,cèerù-bɛ̀-thɛ̃̀sì,[],,[],,False,Dyan.htm,False,,1
+dyan1251-23-2,,dyan1251,23,ceeru-bɛ-thɛ̃si,ceeru-bɛ-thɛ̃si,[],,[],,False,Dyan.htm,False,,2
+dyan1251-24-1,,dyan1251,24,cèerù-bɛ̀-nàa,cèerù-bɛ̀-nàa,[],,[],,False,Dyan.htm,False,,1
+dyan1251-24-2,,dyan1251,24,ceeru-bɛ-naa,ceeru-bɛ-naa,[],,[],,False,Dyan.htm,False,,2
+dyan1251-25-1,,dyan1251,25,cèerù-dìemà,cèerù-dìemà,[],,[],,False,Dyan.htm,False,,1
+dyan1251-25-2,,dyan1251,25,ceeru-diema,ceeru-diema,[],,[],,False,Dyan.htm,False,,2
+dyan1251-26-1,,dyan1251,26,cèerù-bɛ̀-mɔ̀lɔ̀dũ̀,cèerù-bɛ̀-mɔ̀lɔ̀dũ̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-26-2,,dyan1251,26,ceeru-bɛ-mɔlɔdũ,ceeru-bɛ-mɔlɔdũ,[],,[],,False,Dyan.htm,False,,2
+dyan1251-27-1,,dyan1251,27,cèerù-bɛ̀-mɔ̀lɔ̀ɲɔ̃̀,cèerù-bɛ̀-mɔ̀lɔ̀ɲɔ̃̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-27-2,,dyan1251,27,ceeru-bɛ-mɔlɔnyɔ̃,ceeru-bɛ-mɔlɔnyɔ̃,[],,[],,False,Dyan.htm,False,,2
+dyan1251-28-1,,dyan1251,28,cèerù-bɛ̀-mɔ̀lɔ̀thɛ̃̀sì,cèerù-bɛ̀-mɔ̀lɔ̀thɛ̃̀sì,[],,[],,False,Dyan.htm,False,,1
+dyan1251-28-2,,dyan1251,28,ceeru-bɛ-mɔlɔthɛ̃si,ceeru-bɛ-mɔlɔthɛ̃si,[],,[],,False,Dyan.htm,False,,2
+dyan1251-29-1,,dyan1251,29,cèerù-nĩ́kpó-cí-bèrè,cèerù-nĩ́kpó-cí-bèrè,[],( 20 + 10 -1),[],,False,Dyan.htm,False,,1
+dyan1251-29-2,,dyan1251,29,ceeru-nĩkpo-ci-bere,ceeru-nĩkpo-ci-bere,[],( 20 + 10 -1),[],,False,Dyan.htm,False,,2
+dyan1251-30-1,,dyan1251,30,cèerù-nĩ́kpó,cèerù-nĩ́kpó,[],( 20 + 10 ),[],,False,Dyan.htm,False,,1
+dyan1251-30-2,,dyan1251,30,ceeru-nĩkpo,ceeru-nĩkpo,[],( 20 + 10 ),[],,False,Dyan.htm,False,,2
+dyan1251-40-1,,dyan1251,40,mùɲɔ̃̀,mùɲɔ̃̀,[],( 20 x 2 ),[],,False,Dyan.htm,False,,1
+dyan1251-40-2,,dyan1251,40,munyɔ̃,munyɔ̃,[],( 20 x 2 ),[],,False,Dyan.htm,False,,2
+dyan1251-50-1,,dyan1251,50,mùɲɔ̃̀-nĩ́kpó,mùɲɔ̃̀-nĩ́kpó,[],,[],,False,Dyan.htm,False,,1
+dyan1251-50-2,,dyan1251,50,munyɔ̃-nĩkpo,munyɔ̃-nĩkpo,[],,[],,False,Dyan.htm,False,,2
+dyan1251-60-1,,dyan1251,60,mùthɛ̃̀sì,mùthɛ̃̀sì,[],( 20 x 3 ),[],,False,Dyan.htm,False,,1
+dyan1251-60-2,,dyan1251,60,muthɛ̃si,muthɛ̃si,[],( 20 x 3 ),[],,False,Dyan.htm,False,,2
+dyan1251-70-1,,dyan1251,70,mùthɛ̃̀sì-nĩ́kpó,mùthɛ̃̀sì-nĩ́kpó,[],,[],,False,Dyan.htm,False,,1
+dyan1251-70-2,,dyan1251,70,muthɛ̃si-nĩkpo,muthɛ̃si-nĩkpo,[],,[],,False,Dyan.htm,False,,2
+dyan1251-80-1,,dyan1251,80,mùnàa,mùnàa,[],( 20 x 4 ),[],,False,Dyan.htm,False,,1
+dyan1251-80-2,,dyan1251,80,munaa,munaa,[],( 20 x 4 ),[],,False,Dyan.htm,False,,2
+dyan1251-90-1,,dyan1251,90,mùnàa-nĩ́kpó,mùnàa-nĩ́kpó,[],,[],,False,Dyan.htm,False,,1
+dyan1251-90-2,,dyan1251,90,munaa-nĩkpo,munaa-nĩkpo,[],,[],,False,Dyan.htm,False,,2
+dyan1251-100-1,,dyan1251,100,tàmúɡú,tàmúɡú,[],,[],,False,Dyan.htm,False,,1
+dyan1251-100-2,,dyan1251,100,tamɡu,tamɡu,[],,[],,False,Dyan.htm,False,,2
+dyan1251-200-1,,dyan1251,200,tã̀á-ɲɔ̃́,tã̀á-ɲɔ̃́,[],,[],,False,Dyan.htm,False,,1
+dyan1251-200-2,,dyan1251,200,tãa-nyɔ̃,tãa-nyɔ̃,[],,[],,False,Dyan.htm,False,,2
+dyan1251-1000-1,,dyan1251,1000,tã̀a-nĩ́kpó,tã̀a-nĩ́kpó,[],,[],,False,Dyan.htm,False,,1
+dyan1251-1000-2,,dyan1251,1000,tãa-nĩkpo,tãa-nĩkpo,[],,[],,False,Dyan.htm,False,,2
+dyan1251-2000-1,,dyan1251,2000,ɡbèlmà-ɲɔ̃̀,ɡbèlmà-ɲɔ̃̀,[],,[],,False,Dyan.htm,False,,1
+dyan1251-2000-2,,dyan1251,2000,ɡbelma-nyɔ̃,ɡbelma-nyɔ̃,[],,[],,False,Dyan.htm,False,,2

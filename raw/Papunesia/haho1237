@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+haho1237-1-1,,haho1237,1,'paya,'paya,[],,[],,False,Hahon.htm,False,,1
+haho1237-1-2,,haho1237,1,paia,paia,[],,[],,False,Hahon.htm,False,,1
+haho1237-2-1,,haho1237,2,'buaku,'buaku,[],,[],,False,Hahon.htm,False,,1
+haho1237-3-1,,haho1237,3,ku'kana,ku'kana,[],,[],,False,Hahon.htm,False,,1
+haho1237-4-1,,haho1237,4,'tana,'tana,[],,[],,False,Hahon.htm,False,,1
+haho1237-5-1,,haho1237,5,'taunima,'taunima,[],,[],,False,Hahon.htm,False,,1
+haho1237-6-1,,haho1237,6,'taunima mana paia,'taunima mana paia,[],( 1+ 5 ),[],,False,Hahon.htm,False,,1
+haho1237-7-1,,haho1237,7,'taunima mana 'buaku,'taunima mana 'buaku,[],( 2+ 5 ),[],,False,Hahon.htm,False,,1
+haho1237-8-1,,haho1237,8,'taunima mana ku'kana,'taunima mana ku'kana,[],( 3+ 5 ),[],,False,Hahon.htm,False,,1
+haho1237-9-1,,haho1237,9,'taunima mana 'tana,'taunima mana 'tana,[],( 4+ 5 ),[],,False,Hahon.htm,False,,1
+haho1237-10-1,,haho1237,10,savun,savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-11-1,,haho1237,11,savun mana paia,savun mana paia,[],,[],,False,Hahon.htm,False,,1
+haho1237-12-1,,haho1237,12,savun mana 'buaku,savun mana 'buaku,[],,[],,False,Hahon.htm,False,,1
+haho1237-13-1,,haho1237,13,savun mana ku'kana,savun mana ku'kana,[],,[],,False,Hahon.htm,False,,1
+haho1237-14-1,,haho1237,14,savun mana 'tana,savun mana 'tana,[],,[],,False,Hahon.htm,False,,1
+haho1237-15-1,,haho1237,15,savun mana 'taunima,savun mana 'taunima,[],,[],,False,Hahon.htm,False,,1
+haho1237-16-1,,haho1237,16,savun mana 'taunima mana paia,savun mana 'taunima mana paia,[],,[],,False,Hahon.htm,False,,1
+haho1237-17-1,,haho1237,17,savun mana 'taunima mana 'buaku,savun mana 'taunima mana 'buaku,[],,[],,False,Hahon.htm,False,,1
+haho1237-18-1,,haho1237,18,savun mana 'taunima mana 'ku'kana,savun mana 'taunima mana 'ku'kana,[],,[],,False,Hahon.htm,False,,1
+haho1237-19-1,,haho1237,19,savun mana 'taunima mana 'tana,savun mana 'taunima mana 'tana,[],,[],,False,Hahon.htm,False,,1
+haho1237-20-1,,haho1237,20,bua savun,bua savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-21-1,,haho1237,21,bua savun mana paia,bua savun mana paia,[],,[],,False,Hahon.htm,False,,1
+haho1237-22-1,,haho1237,22,bua savun mana 'buaku,bua savun mana 'buaku,[],,[],,False,Hahon.htm,False,,1
+haho1237-23-1,,haho1237,23,bua savun mana ku'kana,bua savun mana ku'kana,[],,[],,False,Hahon.htm,False,,1
+haho1237-24-1,,haho1237,24,bua savun mana 'tana,bua savun mana 'tana,[],,[],,False,Hahon.htm,False,,1
+haho1237-25-1,,haho1237,25,bua savun mana 'tau'nima,bua savun mana 'tau'nima,[],,[],,False,Hahon.htm,False,,1
+haho1237-26-1,,haho1237,26,bua savun mana 'tau'nima mana paia,bua savun mana 'tau'nima mana paia,[],,[],,False,Hahon.htm,False,,1
+haho1237-27-1,,haho1237,27,bua savun mana 'tau'nima mana 'buaku,bua savun mana 'tau'nima mana 'buaku,[],,[],,False,Hahon.htm,False,,1
+haho1237-28-1,,haho1237,28,bua savun mana 'tau'nima mana ku'kana,bua savun mana 'tau'nima mana ku'kana,[],,[],,False,Hahon.htm,False,,1
+haho1237-29-1,,haho1237,29,bua savun mana 'tau'nima mana 'tana,bua savun mana 'tau'nima mana 'tana,[],,[],,False,Hahon.htm,False,,1
+haho1237-30-1,,haho1237,30,ku'ka 'savun,ku'ka 'savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-40-1,,haho1237,40,'tana 'savun,'tana 'savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-50-1,,haho1237,50,tau'nima 'savun,tau'nima 'savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-60-1,,haho1237,60,'taunima (mana) paia 'savun,'taunima (mana) paia 'savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-70-1,,haho1237,70,'taunima (mana) 'buaku 'savun,'taunima (mana) 'buaku 'savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-80-1,,haho1237,80,'taunima (mana) 'ku'kana 'savun,'taunima (mana) 'ku'kana 'savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-90-1,,haho1237,90,'taunima (mana) 'tana 'savun,'taunima (mana) 'tana 'savun,[],,[],,False,Hahon.htm,False,,1
+haho1237-100-1,,haho1237,100,oan 'handrət,oan 'handrət,[],< Tok Pijin ,[],,True,Hahon.htm,False,,1
+haho1237-200-1,,haho1237,200,tu 'handrət,tu 'handrət,[],< Tok Pijin ,[],,True,Hahon.htm,False,,1
+haho1237-1000-1,,haho1237,1000,oan 'tausen,oan 'tausen,[],< Tok Pijin ,[],,True,Hahon.htm,False,,1
+haho1237-2000-1,,haho1237,2000,tu 'tausen,tu 'tausen,[],< Tok Pijin ,[],,True,Hahon.htm,False,,1

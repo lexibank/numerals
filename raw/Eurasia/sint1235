@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sint1235-1-1,,sint1235,1,jek,jek,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-2-1,,sint1235,2,duj,duj,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-3-1,,sint1235,3,trin,trin,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-4-1,,sint1235,4,schtar,schtar,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-5-1,,sint1235,5,pantsch,pantsch,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-6-1,,sint1235,6,schop,schop,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-6-2,,sint1235,6,schow,schow,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-7-1,,sint1235,7,efta,efta,[],< Greek ,[],,True,Romani-Sinti.htm,False,,1
+sint1235-8-1,,sint1235,8,ochto,ochto,[],< Greek ,[],,True,Romani-Sinti.htm,False,,1
+sint1235-9-1,,sint1235,9,enja,enja,[],< Greek ,[],,True,Romani-Sinti.htm,False,,1
+sint1235-10-1,,sint1235,10,desch,desch,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-11-1,,sint1235,11,desch-jek,desch-jek,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-12-1,,sint1235,12,desch-duj,desch-duj,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-13-1,,sint1235,13,desch-trin,desch-trin,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-14-1,,sint1235,14,desch-schtar,desch-schtar,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-15-1,,sint1235,15,desch-pantsch,desch-pantsch,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-16-1,,sint1235,16,desch-schop,desch-schop,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-17-1,,sint1235,17,desch-efta,desch-efta,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-18-1,,sint1235,18,desch-ochto,desch-ochto,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-19-1,,sint1235,19,desch-enja,desch-enja,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-20-1,,sint1235,20,bisch,bisch,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-21-1,,sint1235,21,bisch-jek,bisch-jek,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-22-1,,sint1235,22,bisch-duj,bisch-duj,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-23-1,,sint1235,23,bisch-trin,bisch-trin,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-24-1,,sint1235,24,bisch-schtar,bisch-schtar,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-25-1,,sint1235,25,bisch-pantsch,bisch-pantsch,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-26-1,,sint1235,26,bisch-schop,bisch-schop,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-27-1,,sint1235,27,bisch-efta,bisch-efta,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-28-1,,sint1235,28,bisch-ochto,bisch-ochto,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-29-1,,sint1235,29,bisch-enja,bisch-enja,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-30-1,,sint1235,30,bisch te desch,bisch te desch,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-40-1,,sint1235,40,duj bisch,duj bisch,[],( 2 x 20),[],,False,Romani-Sinti.htm,False,,1
+sint1235-50-1,,sint1235,50,pasch schel,pasch schel,[],( half hundred),[],,False,Romani-Sinti.htm,False,,1
+sint1235-60-1,,sint1235,60,trin bisch,trin bisch,[],( 3 x 20),[],,False,Romani-Sinti.htm,False,,1
+sint1235-80-1,,sint1235,80,schtar bisch,schtar bisch,[],( 4 x 20),[],,False,Romani-Sinti.htm,False,,1
+sint1235-100-1,,sint1235,100,schel,schel,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-200-1,,sint1235,200,duj schel,duj schel,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-1000-1,,sint1235,1000,tausento,tausento,[],< German ,[],,True,Romani-Sinti.htm,False,,1
+sint1235-1000-2,,sint1235,1000,desch schel,desch schel,[],,[],,False,Romani-Sinti.htm,False,,1
+sint1235-2000-1,,sint1235,2000,duj tausenti,duj tausenti,[],,[],,False,Romani-Sinti.htm,False,,1

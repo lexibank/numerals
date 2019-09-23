@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ngge1241-1-1,,ngge1241,1,ambit 'one',ambit 'one',[],,[],,False,Nggem.htm,False,,1
+ngge1241-1-2,,ngge1241,1,ambit,ambit,[],,[],,False,Nggem.htm,False,,2
+ngge1241-2-1,,ngge1241,2,mberen 'two',mberen 'two',[],,[],,False,Nggem.htm,False,,1
+ngge1241-2-2,,ngge1241,2,beren,beren,[],,[],,False,Nggem.htm,False,,2
+ngge1241-3-1,,ngge1241,3,henɡɡam 'three',henɡɡam 'three',[],,[],,False,Nggem.htm,False,,1
+ngge1241-3-2,,ngge1241,3,kenaɡan,kenaɡan,[],,[],,False,Nggem.htm,False,,2
+ngge1241-4-1,,ngge1241,4,mberen-mberen,mberen-mberen,[],(litː ''two-two'' ),[],,False,Nggem.htm,False,,1
+ngge1241-4-2,,ngge1241,4,beren-beren eroɡo,beren-beren eroɡo,[],(litː ''2 + 2'' ),[],,False,Nggem.htm,False,,2
+ngge1241-5-1,,ngge1241,5,ninɡɡis ambi dinɡɡilik,ninɡɡis ambi dinɡɡilik,[],(litː ''my one hand rolled up''),[],,False,Nggem.htm,False,,1
+ngge1241-5-2,,ngge1241,5,ninɡɡis ambi dinɡɡik,ninɡɡis ambi dinɡɡik,[],(litː ''side hand'' ? ),[],,False,Nggem.htm,False,,2
+ngge1241-6-1,,ngge1241,6,ninɡɡis ambiva ambi inim dinɡɡilik (litː ''my one hand and one rolled up'') or henɡɡam-henɡɡam 'six',ninɡɡis ambiva ambi inim dinɡɡilik (litː ''my one hand and one rolled up'') or henɡɡam-henɡɡam 'six',[],,[],,False,Nggem.htm,True,,1
+ngge1241-6-2,,ngge1241,6,iteke henɡɡam henɡɡam ?,iteke henɡɡam henɡɡam ?,[],,[],,False,Nggem.htm,True,,2
+ngge1241-7-1,,ngge1241,7,ninɡɡis ambiva mberen inim dinɡɡilik,ninɡɡis ambiva mberen inim dinɡɡilik,[],(litː ''my one hand and two rolled up''),[],,False,Nggem.htm,False,,1
+ngge1241-7-2,,ngge1241,7,ninɡɡis ambi dinɡɡi berein,ninɡɡis ambi dinɡɡi berein,[],,[],,False,Nggem.htm,False,,2
+ngge1241-8-1,,ngge1241,8,ninɡɡis ambiva henɡɡam eroɡo inim dinɡɡilik,ninɡɡis ambiva henɡɡam eroɡo inim dinɡɡilik,[],(litː ''my one hand and three rolled    up''),[],,False,Nggem.htm,False,,1
+ngge1241-8-2,,ngge1241,8,ninɡɡis obok berein dik,ninɡɡis obok berein dik,[],,[],,False,Nggem.htm,False,,2
+ngge1241-9-1,,ngge1241,9,ninɡɡis ambiva mberen-mberen eroɡo inim dinɡɡilik,ninɡɡis ambiva mberen-mberen eroɡo inim dinɡɡilik,[],(litː ''my one hand and      two-two rolled up''),[],,False,Nggem.htm,False,,1
+ngge1241-9-2,,ngge1241,9,ninɡɡis obok ambiat dik,ninɡɡis obok ambiat dik,[],,[],,False,Nggem.htm,False,,2
+ngge1241-10-1,,ngge1241,10,ninɡɡis penak-penak obok dinɡɡilik,ninɡɡis penak-penak obok dinɡɡilik,[],(litː ''my hand both sides all and rolled up''),[],,False,Nggem.htm,False,,1
+ngge1241-10-2,,ngge1241,10,ninɡɡis obok dinɡɡik,ninɡɡis obok dinɡɡik,[],,[],,False,Nggem.htm,False,,2

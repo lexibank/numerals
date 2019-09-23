@@ -1,0 +1,73 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kula1280-1-1,,kula1280,1,'sona,'sona,[],,[],,False,Kula.htm,False,,1
+kula1280-1-2,,kula1280,1,sɔnaʔ,sɔnaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-2-1,,kula1280,2,'yɘku,'yɘku,[],,[],,False,Kula.htm,False,,1
+kula1280-2-2,,kula1280,2,yəkwana,yəkwana,[],,[],,False,Kula.htm,False,,1
+kula1280-2-3,,kula1280,2,jɘkuʔ,jɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-3-1,,kula1280,3,tu,tu,[],,[],,False,Kula.htm,False,,1
+kula1280-3-2,,kula1280,3,'tukana,'tukana,[],,[],,False,Kula.htm,False,,1
+kula1280-3-3,,kula1280,3,t̪wɘʔ,t̪wɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-4-1,,kula1280,4,a'rasiku,a'rasiku,[],,[],,False,Kula.htm,False,,1
+kula1280-4-2,,kula1280,4,aɾasikuʔ,aɾasikuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-5-1,,kula1280,5,yawa'tɪn,yawa'tɪn,[],,[],,False,Kula.htm,False,,1
+kula1280-5-2,,kula1280,5,jawat̪inaʔ,jawat̪inaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-6-1,,kula1280,6,yawa'tɪn 'sona,yawa'tɪn 'sona,[],( 5 + 1 ),[],,False,Kula.htm,False,,1
+kula1280-6-2,,kula1280,6,jawat̪iŋ sɔnaʔ,jawat̪iŋ sɔnaʔ,[],( 5 + 1 ),[],,False,Kula.htm,False,,2
+kula1280-7-1,,kula1280,7,yawa'tɪn 'yɘku,yawa'tɪn 'yɘku,[],( 5 + 2 ),[],,False,Kula.htm,False,,1
+kula1280-7-2,,kula1280,7,jawat̪iŋ jɘkuʔ,jawat̪iŋ jɘkuʔ,[],( 5 + 2 ),[],,False,Kula.htm,False,,2
+kula1280-8-1,,kula1280,8,yawa'tɪn tu,yawa'tɪn tu,[],( 5 + 3 ),[],,False,Kula.htm,False,,1
+kula1280-8-2,,kula1280,8,jawat̪iŋ t̪wɘʔ,jawat̪iŋ t̪wɘʔ,[],( 5 + 3 ),[],,False,Kula.htm,False,,2
+kula1280-9-1,,kula1280,9,yawa'tɪn a'rasiku,yawa'tɪn a'rasiku,[],( 5 + 4 ),[],,False,Kula.htm,False,,1
+kula1280-9-2,,kula1280,9,jawat̪iŋ ɾasikuʔ,jawat̪iŋ ɾasikuʔ,[],( 5 + 4 ),[],,False,Kula.htm,False,,2
+kula1280-10-1,,kula1280,10,ada'yəku,ada'yəku,[],,[],,False,Kula.htm,False,,1
+kula1280-10-2,,kula1280,10,adajakuʔ,adajakuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-11-1,,kula1280,11,ada'yəku 'arasɪn sona,ada'yəku 'arasɪn sona,[],,[],,False,Kula.htm,False,,1
+kula1280-11-2,,kula1280,11,adajakuʔ aɾasŋ sɔnaʔ,adajakuʔ aɾasŋ sɔnaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-12-1,,kula1280,12,ada'yəku 'arasɪn yɘku,ada'yəku 'arasɪn yɘku,[],,[],,False,Kula.htm,False,,1
+kula1280-12-2,,kula1280,12,adajakuʔ aɾasŋ jɘkuʔ,adajakuʔ aɾasŋ jɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-13-1,,kula1280,13,ada'yəku 'arasɪn tu,ada'yəku 'arasɪn tu,[],,[],,False,Kula.htm,False,,1
+kula1280-13-2,,kula1280,13,adajakuʔ aɾasŋ t̪wɘʔ,adajakuʔ aɾasŋ t̪wɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-14-1,,kula1280,14,ada'yəku 'arasɪn arasiku,ada'yəku 'arasɪn arasiku,[],,[],,False,Kula.htm,False,,1
+kula1280-14-2,,kula1280,14,adajakuʔ aɾasŋ aɾasikuʔ,adajakuʔ aɾasŋ aɾasikuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-15-1,,kula1280,15,ada'yəku 'arasɪn yawatɪn,ada'yəku 'arasɪn yawatɪn,[],,[],,False,Kula.htm,False,,1
+kula1280-15-2,,kula1280,15,adajakuʔ aɾasŋ jawat̪inaʔ,adajakuʔ aɾasŋ jawat̪inaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-16-1,,kula1280,16,ada'yəku 'arasɪn yawatɪn sona,ada'yəku 'arasɪn yawatɪn sona,[],,[],,False,Kula.htm,False,,1
+kula1280-16-2,,kula1280,16,adajakuʔ aɾasŋ jawat̪iŋ sɔnaʔ,adajakuʔ aɾasŋ jawat̪iŋ sɔnaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-17-1,,kula1280,17,ada'yəku 'arasɪn yawatɪn yɘku,ada'yəku 'arasɪn yawatɪn yɘku,[],,[],,False,Kula.htm,False,,1
+kula1280-17-2,,kula1280,17,adajakuʔ aɾasŋ jawat̪iŋ jɘkuʔ,adajakuʔ aɾasŋ jawat̪iŋ jɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-18-1,,kula1280,18,ada'yəku 'arasɪn yawatɪn tu,ada'yəku 'arasɪn yawatɪn tu,[],,[],,False,Kula.htm,False,,1
+kula1280-18-2,,kula1280,18,adajakuʔ aɾasŋ jawat̪iŋ t̪wɘʔ,adajakuʔ aɾasŋ jawat̪iŋ t̪wɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-19-1,,kula1280,19,ada'yəku 'arasɪn yawatɪn arasiku,ada'yəku 'arasɪn yawatɪn arasiku,[],,[],,False,Kula.htm,False,,1
+kula1280-19-2,,kula1280,19,adajakuʔ aɾasŋ jawat̪iŋ ɾasikuʔ,adajakuʔ aɾasŋ jawat̪iŋ ɾasikuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-20-1,,kula1280,20,ada'yəku mi'yɘku,ada'yəku mi'yɘku,[],,[],,False,Kula.htm,False,,1
+kula1280-20-2,,kula1280,20,adajakuʔ mijɘkuʔ,adajakuʔ mijɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-21-1,,kula1280,21,adajakuʔ mijɘkuʔ aɾɘsŋ sɔnaʔ,adajakuʔ mijɘkuʔ aɾɘsŋ sɔnaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-22-1,,kula1280,22,adajakuʔ mijɘkuʔ aɾɘsŋ jɘkuʔ,adajakuʔ mijɘkuʔ aɾɘsŋ jɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-23-1,,kula1280,23,adajakuʔ mijɘkuʔ aɾɘsŋ t̪wɘʔ,adajakuʔ mijɘkuʔ aɾɘsŋ t̪wɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-24-1,,kula1280,24,adajakuʔ mijɘkuʔ aɾɘsŋ aɾasikuʔ,adajakuʔ mijɘkuʔ aɾɘsŋ aɾasikuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-25-1,,kula1280,25,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪inaʔ,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪inaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-26-1,,kula1280,26,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ sɔnaʔ,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ sɔnaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-27-1,,kula1280,27,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ jɘkuʔ,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ jɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-28-1,,kula1280,28,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ t̪waʔ,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ t̪waʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-29-1,,kula1280,29,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ ɾasikuʔ,adajakuʔ mijɘkuʔ aɾɘsŋ jawat̪iŋ ɾasikuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-30-1,,kula1280,30,ada'yəku mitu,ada'yəku mitu,[],,[],,False,Kula.htm,False,,1
+kula1280-30-2,,kula1280,30,adajakuʔ mit̪ujɘʔ,adajakuʔ mit̪ujɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-40-1,,kula1280,40,ada'yəku mi'arasiku,ada'yəku mi'arasiku,[],,[],,False,Kula.htm,False,,1
+kula1280-40-2,,kula1280,40,adajakuʔ mijɘɾasikuʔ,adajakuʔ mijɘɾasikuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-50-1,,kula1280,50,ada'yəku miyawatɪn,ada'yəku miyawatɪn,[],,[],,False,Kula.htm,False,,1
+kula1280-50-2,,kula1280,50,adajakuʔ mijɘwat̪inaʔ,adajakuʔ mijɘwat̪inaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-60-1,,kula1280,60,ada'yəku miyawatɪn sona,ada'yəku miyawatɪn sona,[],,[],,False,Kula.htm,False,,1
+kula1280-60-2,,kula1280,60,adajakuʔ mijɘwat̪inaʔ sɔnaʔ,adajakuʔ mijɘwat̪inaʔ sɔnaʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-70-1,,kula1280,70,ada'yəku miyawatɪn yɘku,ada'yəku miyawatɪn yɘku,[],,[],,False,Kula.htm,False,,1
+kula1280-70-2,,kula1280,70,adajakuʔ mijɘwat̪inaʔ jɘkuʔ,adajakuʔ mijɘwat̪inaʔ jɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-80-1,,kula1280,80,ada'yəku miyawatɪn tu,ada'yəku miyawatɪn tu,[],,[],,False,Kula.htm,False,,1
+kula1280-80-2,,kula1280,80,adajakuʔ mijɘwat̪inaʔ t̪wɘʔ,adajakuʔ mijɘwat̪inaʔ t̪wɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-90-1,,kula1280,90,ada'yəku miyawatɪn arasiku,ada'yəku miyawatɪn arasiku,[],,[],,False,Kula.htm,False,,1
+kula1280-90-2,,kula1280,90,adajakuʔ mijɘwat̪inaʔ ɾasikuʔ,adajakuʔ mijɘwat̪inaʔ ɾasikuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-100-1,,kula1280,100,ɡasaka,ɡasaka,[],(dɛna),[],,False,Kula.htm,False,,1
+kula1280-100-2,,kula1280,100,asɘkɑʔ dɘnɘʔ,asɘkɑʔ dɘnɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-200-1,,kula1280,200,asɘkɑʔ jɘkuʔ,asɘkɑʔ jɘkuʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-1000-1,,kula1280,1000,rib,rib,[],(dɛna),[],,False,Kula.htm,False,,1
+kula1280-1000-2,,kula1280,1000,ɾib dɘnɘʔ,ɾib dɘnɘʔ,[],,[],,False,Kula.htm,False,,2
+kula1280-2000-1,,kula1280,2000,rib yɘkwana,rib yɘkwana,[],,[],,False,Kula.htm,False,,1
+kula1280-2000-2,,kula1280,2000,ɾib jɘkuʔ,ɾib jɘkuʔ,[],,[],,False,Kula.htm,False,,2

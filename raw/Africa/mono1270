@@ -1,0 +1,77 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mono1270-1-1,,mono1270,1,bàlē,bàlē,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-1-2,,mono1270,1,bɑ̀lé,bɑ̀lé,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-2-1,,mono1270,2,bīʃà,bīʃà,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-2-2,,mono1270,2,bíʃɑ̀,bíʃɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-3-1,,mono1270,3,vōtɔ̀,vōtɔ̀,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-3-2,,mono1270,3,vɔ́tɔ̀,vɔ́tɔ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-4-1,,mono1270,4,vànā,vànā,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-4-2,,mono1270,4,vɑ̀nɑ́,vɑ̀nɑ́,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-5-1,,mono1270,5,mīndúù,mīndúù,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-5-2,,mono1270,5,mìndú,mìndú,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-6-1,,mono1270,6,mīndúù dàmà nə̀ bàlē,mīndúù dàmà nə̀ bàlē,[],( 5 + 1 ),[],,False,Mono-Congo.htm,False,,1
+mono1270-6-2,,mono1270,6,mìndú dɑ̀mɑ̀nɑ̀ bɑ̀lé,mìndú dɑ̀mɑ̀nɑ̀ bɑ̀lé,[],( 5 + 1 ),[],,False,Mono-Congo.htm,False,,2
+mono1270-7-1,,mono1270,7,mīndúù dàmà nə̀ bīʃà,mīndúù dàmà nə̀ bīʃà,[],( 5 + 2 ),[],,False,Mono-Congo.htm,False,,1
+mono1270-7-2,,mono1270,7,mìndú dɑ̀mɑ̀nɑ̀ bíʃɑ̀,mìndú dɑ̀mɑ̀nɑ̀ bíʃɑ̀,[],( 5 + 2 ),[],,False,Mono-Congo.htm,False,,2
+mono1270-8-1,,mono1270,8,mīndúù dàmà nə̀ vōtɔ̀,mīndúù dàmà nə̀ vōtɔ̀,[],( 5 + 3 ),[],,False,Mono-Congo.htm,False,,1
+mono1270-8-2,,mono1270,8,mìndú dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,mìndú dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,[],( 5 + 3 ),[],,False,Mono-Congo.htm,False,,2
+mono1270-9-1,,mono1270,9,mīndúù dàmà nə̀ vànā,mīndúù dàmà nə̀ vànā,[],( 5 + 4 ),[],,False,Mono-Congo.htm,False,,1
+mono1270-9-2,,mono1270,9,mìndú dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,mìndú dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,[],( 5 + 4 ),[],,False,Mono-Congo.htm,False,,2
+mono1270-10-1,,mono1270,10,ndʒòkpā,ndʒòkpā,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-10-2,,mono1270,10,ndʒò kpɑ̀,ndʒò kpɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-11-1,,mono1270,11,ndʒòkpā dàmà nə̀ bàlē,ndʒòkpā dàmà nə̀ bàlē,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-11-2,,mono1270,11,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ bɑ̀lé,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ bɑ̀lé,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-12-1,,mono1270,12,ndʒòkpā dàmà nə̀ bīʃà,ndʒòkpā dàmà nə̀ bīʃà,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-12-2,,mono1270,12,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ bíʃɑ̀,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ bíʃɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-13-1,,mono1270,13,ndʒòkpā dàmà nə̀ vōtɔ̀,ndʒòkpā dàmà nə̀ vōtɔ̀,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-13-2,,mono1270,13,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-14-1,,mono1270,14,ndʒòkpā dàmà nə̀ vànā,ndʒòkpā dàmà nə̀ vànā,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-14-2,,mono1270,14,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-15-1,,mono1270,15,ndʒòkpā dàmà nə̀ mīndúù,ndʒòkpā dàmà nə̀ mīndúù,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-15-2,,mono1270,15,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ mìndú,ndʒò kpɑ̀ dɑ̀mɑ̀nɑ̀ mìndú,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-16-1,,mono1270,16,ndʒòkpā dàmà nə̀ m. n. 5 + 1,ndʒòkpā dàmà nə̀ m. n. 5 + 1,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-16-2,,mono1270,16,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ bɑ̀lé,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ bɑ̀lé,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-17-1,,mono1270,17,ndʒòkpā dàmà nə̀ m. n. 5 + 2,ndʒòkpā dàmà nə̀ m. n. 5 + 2,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-17-2,,mono1270,17,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ bíʃɑ̀,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ bíʃɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-18-1,,mono1270,18,ndʒòkpā dàmà nə̀ m. n. 5 + 3,ndʒòkpā dàmà nə̀ m. n. 5 + 3,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-18-2,,mono1270,18,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-19-1,,mono1270,19,ndʒòkpā dàmà nə̀ m. n. 5 + 4,ndʒòkpā dàmà nə̀ m. n. 5 + 4,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-19-2,,mono1270,19,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,ndʒò kpɑ̀ də̀mìndú dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-20-1,,mono1270,20,kpə́tə́ ūzū bàlē,kpə́tə́ ūzū bàlē,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-20-2,,mono1270,20,zɑ̀zù,zɑ̀zù,[],( litː one whole person),[],,False,Mono-Congo.htm,False,,2
+mono1270-21-1,,mono1270,21,kpə́tə́ ūzū bàlē dàmà nə̀ bàlē,kpə́tə́ ūzū bàlē dàmà nə̀ bàlē,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-21-2,,mono1270,21,zɑ̀zù dɑ̀mɑ̀nɑ̀ bɑ̀lé,zɑ̀zù dɑ̀mɑ̀nɑ̀ bɑ̀lé,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-22-1,,mono1270,22,kpə́tə́ ūzū bàlē dàmà nə̀ bīʃà,kpə́tə́ ūzū bàlē dàmà nə̀ bīʃà,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-22-2,,mono1270,22,zɑ̀zù dɑ̀mɑ̀nɑ̀ bíʃɑ̀,zɑ̀zù dɑ̀mɑ̀nɑ̀ bíʃɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-23-1,,mono1270,23,kpə́tə́ ūzū bàlē dàmà nə̀ vōtɔ̀,kpə́tə́ ūzū bàlē dàmà nə̀ vōtɔ̀,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-23-2,,mono1270,23,zɑ̀zù dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,zɑ̀zù dɑ̀mɑ̀nɑ̀ vɔ́tɔ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-24-1,,mono1270,24,kpə́tə́ ūzū bàlē dàmà nə̀ vàná,kpə́tə́ ūzū bàlē dàmà nə̀ vàná,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-24-2,,mono1270,24,zɑ̀zù dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,zɑ̀zù dɑ̀mɑ̀nɑ̀ vɑ̀nɑ́,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-25-1,,mono1270,25,kpə́tə́ ūzū bàlē dàmà nə̀ mīndúù,kpə́tə́ ūzū bàlē dàmà nə̀ mīndúù,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-25-2,,mono1270,25,zɑ̀zù dɑ̀mɑ̀nɑ̀ mìndú,zɑ̀zù dɑ̀mɑ̀nɑ̀ mìndú,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-26-1,,mono1270,26,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 1,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 1,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-27-1,,mono1270,27,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 2,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 2,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-28-1,,mono1270,28,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 3,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 3,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-29-1,,mono1270,29,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 4,kpə́tə́ ūzū bàlē dàmà nə̀ m. n. 5 + 4,[],,[],,False,Mono-Congo.htm,True,,1
+mono1270-30-1,,mono1270,30,kpə́tə́ ūzū bàlē də̀ ndʒòkpā,kpə́tə́ ūzū bàlē də̀ ndʒòkpā,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-30-2,,mono1270,30,zɑ̀zù də̀ ndʒò kpɑ̀,zɑ̀zù də̀ ndʒò kpɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-40-1,,mono1270,40,kpə́tə́ àzū bīʃà,kpə́tə́ àzū bīʃà,[],( 20 x 2 ),[],,False,Mono-Congo.htm,False,,1
+mono1270-40-2,,mono1270,40,zɑ̀zù bíʃɑ̀,zɑ̀zù bíʃɑ̀,[],( 20 x 2 ),[],,False,Mono-Congo.htm,False,,2
+mono1270-50-1,,mono1270,50,kpə́tə́ àzū bīʃà də̀ ndʒòkpā,kpə́tə́ àzū bīʃà də̀ ndʒòkpā,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-50-2,,mono1270,50,zɑ̀zù bíʃɑ̀ də̀ ndʒò kpɑ̀,zɑ̀zù bíʃɑ̀ də̀ ndʒò kpɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-60-1,,mono1270,60,kpə́tə́ àzū vōtɔ̀,kpə́tə́ àzū vōtɔ̀,[],( 20 x 3 ),[],,False,Mono-Congo.htm,False,,1
+mono1270-60-2,,mono1270,60,zɑ̀zù vɔ́tɔ̀,zɑ̀zù vɔ́tɔ̀,[],( 20 x 3 ),[],,False,Mono-Congo.htm,False,,2
+mono1270-70-1,,mono1270,70,kpə́tə́ àzū vōtɔ̀ də̀ ndʒòkpā,kpə́tə́ àzū vōtɔ̀ də̀ ndʒòkpā,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-70-2,,mono1270,70,zɑ̀zù vɔ́tɔ̀ də̀ ndʒò kpɑ̀,zɑ̀zù vɔ́tɔ̀ də̀ ndʒò kpɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-80-1,,mono1270,80,kpə́tə́ àzū vànā,kpə́tə́ àzū vànā,[],( 20 x 4 ),[],,False,Mono-Congo.htm,False,,1
+mono1270-80-2,,mono1270,80,zɑ̀zù vɑ̀nɑ́,zɑ̀zù vɑ̀nɑ́,[],( 20 x 4 ),[],,False,Mono-Congo.htm,False,,2
+mono1270-90-1,,mono1270,90,kpə́tə́ àzū vànā də̀ ndʒòkpā,kpə́tə́ àzū vànā də̀ ndʒòkpā,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-90-2,,mono1270,90,zɑ̀zù vɑ̀nɑ́ də̀ ndʒò kpɑ̀,zɑ̀zù vɑ̀nɑ́ də̀ ndʒò kpɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-100-1,,mono1270,100,jèròwá,jèròwá,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-100-2,,mono1270,100,kɑ̀mɑ̀,kɑ̀mɑ̀,[],( < Bangala),[],,True,Mono-Congo.htm,False,,2
+mono1270-200-1,,mono1270,200,jèròwá bīʃà,jèròwá bīʃà,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-200-2,,mono1270,200,kɑ̀mɑ̀ bíʃɑ̀,kɑ̀mɑ̀ bíʃɑ̀,[],,[],,False,Mono-Congo.htm,False,,2
+mono1270-1000-1,,mono1270,1000,nɡ͡banɡ͡bò,nɡ͡banɡ͡bò,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-1000-2,,mono1270,1000,kútù,kútù,[],< Bangala ,[],,True,Mono-Congo.htm,False,,2
+mono1270-2000-1,,mono1270,2000,nɡ͡banɡ͡bò bīʃà,nɡ͡banɡ͡bò bīʃà,[],,[],,False,Mono-Congo.htm,False,,1
+mono1270-2000-2,,mono1270,2000,kútu bíʃà,kútu bíʃà,[],,[],,False,Mono-Congo.htm,False,,2

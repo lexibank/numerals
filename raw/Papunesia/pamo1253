@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+pamo1253-1-1,,pamo1253,1,tuku,tuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-2-1,,pamo1253,2,iloβ,iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-3-1,,pamo1253,3,iloβ otuku,iloβ otuku,[],( 2 + 1 ),[],,False,Pamosu.htm,False,,1
+pamo1253-4-1,,pamo1253,4,iloβ iloβ,iloβ iloβ,[],( 2 + 2 ),[],,False,Pamosu.htm,False,,1
+pamo1253-5-1,,pamo1253,5,iloβ iloβ otuku,iloβ iloβ otuku,[],( 2 + 2 + 1 ),[],,False,Pamosu.htm,False,,1
+pamo1253-6-1,,pamo1253,6,iloβ iloβ iloβ,iloβ iloβ iloβ,[],( 2 + 2 + 2 ),[],,False,Pamosu.htm,False,,1
+pamo1253-7-1,,pamo1253,7,iloβ iloβ iloβ otuku,iloβ iloβ iloβ otuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-8-1,,pamo1253,8,iloβ iloβ iloβ iloβ,iloβ iloβ iloβ iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-9-1,,pamo1253,9,iloβ iloβ iloβ iloβ iloβ otuku,iloβ iloβ iloβ iloβ iloβ otuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-10-1,,pamo1253,10,iloβ iloβ iloβ iloβ iloβ,iloβ iloβ iloβ iloβ iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-11-1,,pamo1253,11,apemosu hev apemosu heve ise tuku,apemosu hev apemosu heve ise tuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-12-1,,pamo1253,12,apemosu hev ap. heve ise tuku loβi,apemosu hev ap. heve ise tuku loβi,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-13-1,,pamo1253,13,apemosu hev ap. heve ise t. + 3,apemosu hev ap. heve ise t. + 3,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-14-1,,pamo1253,14,apemosu hev ap. heve ise t. + 4,apemosu hev ap. heve ise t. + 4,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-15-1,,pamo1253,15,apemosu hev ap. heve ise t. + 5,apemosu hev ap. heve ise t. + 5,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-16-1,,pamo1253,16,apemosu hev ap. heve ise t. + 6,apemosu hev ap. heve ise t. + 6,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-17-1,,pamo1253,17,apemosu hev ap. heve ise t. + 7,apemosu hev ap. heve ise t. + 7,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-18-1,,pamo1253,18,apemosu hev ap. heve ise t. + 8,apemosu hev ap. heve ise t. + 8,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-19-1,,pamo1253,19,apemosu hev ap. heve ise t. + 9,apemosu hev ap. heve ise t. + 9,[],,[],,False,Pamosu.htm,True,,1
+pamo1253-20-1,,pamo1253,20,apemosu hev ehev,apemosu hev ehev,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-21-1,,pamo1253,21,ten iloβ ise tuku,ten iloβ ise tuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-22-1,,pamo1253,22,ten iloβ ise iloβ,ten iloβ ise iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-23-1,,pamo1253,23,ten iloβ ise iloβ otuku,ten iloβ ise iloβ otuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-24-1,,pamo1253,24,ten iloβ ise iloβ iloβ,ten iloβ ise iloβ iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-25-1,,pamo1253,25,ten iloβ ise iloβ iloβ otuku,ten iloβ ise iloβ iloβ otuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-26-1,,pamo1253,26,ten iloβ ise iloβ iloβ iloβ,ten iloβ ise iloβ iloβ iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-27-1,,pamo1253,27,ten iloβ ise iloβ iloβ iloβ otuku,ten iloβ ise iloβ iloβ iloβ otuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-28-1,,pamo1253,28,ten iloβ ise iloβ iloβ iloβ iloβ,ten iloβ ise iloβ iloβ iloβ iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-29-1,,pamo1253,29,ten iloβ ise iloβ iloβ iloβ iloβ iloβ otuku,ten iloβ ise iloβ iloβ iloβ iloβ iloβ otuku,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-30-1,,pamo1253,30,ten tri,ten tri,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-40-1,,pamo1253,40,ten fo,ten fo,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-50-1,,pamo1253,50,ten faiv,ten faiv,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-60-1,,pamo1253,60,ten siks,ten siks,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-70-1,,pamo1253,70,ten seven,ten seven,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-80-1,,pamo1253,80,ten eit,ten eit,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-90-1,,pamo1253,90,ten nain,ten nain,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-100-1,,pamo1253,100,nakenav,nakenav,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-100-2,,pamo1253,100,apemosu,apemosu,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-200-1,,pamo1253,200,nakenav iloβ,nakenav iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-200-2,,pamo1253,200,apemosu iloβ,apemosu iloβ,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-1000-1,,pamo1253,1000,wan taosen,wan taosen,[],,[],,False,Pamosu.htm,False,,1
+pamo1253-2000-1,,pamo1253,2000,tu taosen,tu taosen,[],,[],,False,Pamosu.htm,False,,1

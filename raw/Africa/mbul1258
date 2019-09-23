@@ -1,0 +1,52 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mbul1258-1-1,,mbul1258,1,kiben,kiben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-2-1,,mbul1258,2,ʃidi,ʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-2-2,,mbul1258,2,tʃidi,tʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-3-1,,mbul1258,3,ʃitɛt,ʃitɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-3-2,,mbul1258,3,tʃitɛt,tʃitɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-4-1,,mbul1258,4,ʃinɛŋ,ʃinɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-4-2,,mbul1258,4,tʃinɛŋ,tʃinɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-5-1,,mbul1258,5,susɑ,susɑ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-6-1,,mbul1258,6,sɑkben,sɑkben,[],( 5 + 1 ),[],,False,Mbulungish.htm,False,,1
+mbul1258-7-1,,mbul1258,7,sɑkdi,sɑkdi,[],( 5 + 2 ),[],,False,Mbulungish.htm,False,,1
+mbul1258-8-1,,mbul1258,8,sɑktɛt,sɑktɛt,[],( 5 + 3 ),[],,False,Mbulungish.htm,False,,1
+mbul1258-9-1,,mbul1258,9,sɑknɛŋ,sɑknɛŋ,[],( 5 + 4 ),[],,False,Mbulungish.htm,False,,1
+mbul1258-10-1,,mbul1258,10,ɛtɛlɛ,ɛtɛlɛ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-11-1,,mbul1258,11,ɛtɛlɛ nɛ mdeendek,ɛtɛlɛ nɛ mdeendek,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-12-1,,mbul1258,12,ɛtɛlɛ nɛ kiben,ɛtɛlɛ nɛ kiben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-13-1,,mbul1258,13,ɛtɛlɛ nɛ ʃidi,ɛtɛlɛ nɛ ʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-13-2,,mbul1258,13,tʃidi,tʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-14-1,,mbul1258,14,ɛtɛlɛ nɛ ʃitɛt,ɛtɛlɛ nɛ ʃitɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-14-2,,mbul1258,14,tʃitɛt,tʃitɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-15-1,,mbul1258,15,ɛtɛlɛ nɛ ʃinɛŋ,ɛtɛlɛ nɛ ʃinɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-15-2,,mbul1258,15,tʃinɛŋ,tʃinɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-16-1,,mbul1258,16,ɛtɛlɛ nɛ susɑ,ɛtɛlɛ nɛ susɑ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-17-1,,mbul1258,17,ɛtɛlɛ nɛ sɑkben,ɛtɛlɛ nɛ sɑkben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-18-1,,mbul1258,18,ɛtɛlɛ nɛ sɑktɛt,ɛtɛlɛ nɛ sɑktɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-19-1,,mbul1258,19,ɛtɛlɛ nɛ sɑknɛŋ,ɛtɛlɛ nɛ sɑknɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-20-1,,mbul1258,20,ɛtɛlɛ mɛndi,ɛtɛlɛ mɛndi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-21-1,,mbul1258,21,ɛtɛlɛ mɛndi nɛ kiben,ɛtɛlɛ mɛndi nɛ kiben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-22-1,,mbul1258,22,ɛtɛlɛ mɛndi nɛ ʃidi,ɛtɛlɛ mɛndi nɛ ʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-22-2,,mbul1258,22,tʃidi,tʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-23-1,,mbul1258,23,ɛtɛlɛ mɛndi nɛ ʃitɛt,ɛtɛlɛ mɛndi nɛ ʃitɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-23-2,,mbul1258,23,tʃitɛt,tʃitɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-24-1,,mbul1258,24,ɛtɛlɛ mɛndi nɛ ʃinɛŋ,ɛtɛlɛ mɛndi nɛ ʃinɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-24-2,,mbul1258,24,tʃinɛŋ,tʃinɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-25-1,,mbul1258,25,ɛtɛlɛ mɛndi nɛ susɑ,ɛtɛlɛ mɛndi nɛ susɑ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-26-1,,mbul1258,26,ɛtɛlɛ mɛndi nɛ sɑkben,ɛtɛlɛ mɛndi nɛ sɑkben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-27-1,,mbul1258,27,ɛtɛlɛ mɛndi nɛ sɑkdi,ɛtɛlɛ mɛndi nɛ sɑkdi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-28-1,,mbul1258,28,ɛtɛlɛ mɛndi nɛ sɑktɛt,ɛtɛlɛ mɛndi nɛ sɑktɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-29-1,,mbul1258,29,ɛtɛlɛ mɛndi nɛ sɑknɛŋ,ɛtɛlɛ mɛndi nɛ sɑknɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-30-1,,mbul1258,30,ɛtɛlɛ mɛntɛt,ɛtɛlɛ mɛntɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-40-1,,mbul1258,40,ɛtɛlɛ mɛnɛŋ,ɛtɛlɛ mɛnɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-50-1,,mbul1258,50,ɛtɛlɛ mɔnsɑ,ɛtɛlɛ mɔnsɑ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-60-1,,mbul1258,60,ɛtɛlɛ mɔnsɑkben,ɛtɛlɛ mɔnsɑkben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-70-1,,mbul1258,70,ɛtɛlɛ mɔnsɑkdi,ɛtɛlɛ mɔnsɑkdi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-80-1,,mbul1258,80,ɛtɛlɛ mɔnsɑktɛt,ɛtɛlɛ mɔnsɑktɛt,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-90-1,,mbul1258,90,ɛtɛlɛ mɔnsɑknɛŋ,ɛtɛlɛ mɔnsɑknɛŋ,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-100-1,,mbul1258,100,bɔben,bɔben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-200-1,,mbul1258,200,ʃubɔ ʃidi,ʃubɔ ʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-200-2,,mbul1258,200,tʃubɔ tʃidi,tʃubɔ tʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-1000-1,,mbul1258,1000,tɛnɡbeŋ ben,tɛnɡbeŋ ben,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-2000-1,,mbul1258,2000,ʃitɛnɡbeŋ ʃidi,ʃitɛnɡbeŋ ʃidi,[],,[],,False,Mbulungish.htm,False,,1
+mbul1258-2000-2,,mbul1258,2000,tʃitɛnɡbeŋ tʃidi,tʃitɛnɡbeŋ tʃidi,[],,[],,False,Mbulungish.htm,False,,1

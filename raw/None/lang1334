@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+lang1334-1-1,,lang1334,1,ˈỹ,ˈỹ,[],,[],,False,Languedocin.htm,False,un,1
+lang1334-1-2,,lang1334,1,ˈyno,ˈyno,[],(masc./fem.),[],,False,Languedocin.htm,False,una,1
+lang1334-2-1,,lang1334,2,ˈdus,ˈdus,[],,[],,False,Languedocin.htm,False,dos,1
+lang1334-2-2,,lang1334,2,ˈduos,ˈduos,[],(m./f.),[],,False,Languedocin.htm,False,doas,1
+lang1334-3-1,,lang1334,3,ˈtɾes,ˈtɾes,[],,[],,False,Languedocin.htm,False,tres,1
+lang1334-4-1,,lang1334,4,ˈkatɾe,ˈkatɾe,[],,[],,False,Languedocin.htm,False,quatre,1
+lang1334-5-1,,lang1334,5,ˈsiŋk,ˈsiŋk,[],,[],,False,Languedocin.htm,False,cinq,1
+lang1334-6-1,,lang1334,6,ˈsjɛjs,ˈsjɛjs,[],,[],,False,Languedocin.htm,False,sièis,1
+lang1334-7-1,,lang1334,7,ˈsɛt,ˈsɛt,[],,[],,False,Languedocin.htm,False,sèt,1
+lang1334-8-1,,lang1334,8,ˈɥɛt͡ʃ,ˈɥɛt͡ʃ,[],,[],,False,Languedocin.htm,False,uèch,1
+lang1334-9-1,,lang1334,9,ˈnɔw,ˈnɔw,[],,[],,False,Languedocin.htm,False,nòu,1
+lang1334-10-1,,lang1334,10,ˈdɛt͡s,ˈdɛt͡s,[],,[],,False,Languedocin.htm,False,dèts,1
+lang1334-11-1,,lang1334,11,ˈunze,ˈunze,[],,[],,False,Languedocin.htm,False,onze,1
+lang1334-12-1,,lang1334,12,ˈdut͡se,ˈdut͡se,[],,[],,False,Languedocin.htm,False,dortze,1
+lang1334-13-1,,lang1334,13,ˈtɾet͡se,ˈtɾet͡se,[],,[],,False,Languedocin.htm,False,tretze,1
+lang1334-14-1,,lang1334,14,kaˈtɔɾze,kaˈtɔɾze,[],,[],,False,Languedocin.htm,False,catòrze,1
+lang1334-15-1,,lang1334,15,ˈkinze,ˈkinze,[],,[],,False,Languedocin.htm,False,quinze,1
+lang1334-16-1,,lang1334,16,ˈsɛt͡se,ˈsɛt͡se,[],,[],,False,Languedocin.htm,False,setze,1
+lang1334-17-1,,lang1334,17,dɛt͡seˈsɛt,dɛt͡seˈsɛt,[],,[],,False,Languedocin.htm,False,dèts-e-sèt,1
+lang1334-18-1,,lang1334,18,dɛt͡seˈɛt͡ʃ,dɛt͡seˈɛt͡ʃ,[],,[],,False,Languedocin.htm,False,dèts-e-uèch,1
+lang1334-19-1,,lang1334,19,dɛt͡seˈnɔw,dɛt͡seˈnɔw,[],,[],,False,Languedocin.htm,False,dèts-e-nòu,1
+lang1334-20-1,,lang1334,20,ˈbint,ˈbint,[],,[],,False,Languedocin.htm,False,vint,1
+lang1334-21-1,,lang1334,21,vint-e--un,vint-e--un,[],,[],,False,Languedocin.htm,False,,1
+lang1334-21-2,,lang1334,21,binteˈỹ /yno,binteˈỹ,[],(m./f.),[],,False,Languedocin.htm,True,uno,1
+lang1334-21-3,,lang1334,21,binteˈỹ /yno,yno,[],(m./f.),[],,False,Languedocin.htm,True,uno,1
+lang1334-22-1,,lang1334,22,vint-e-dos,vint-e-dos,[],,[],,False,Languedocin.htm,False,,1
+lang1334-22-2,,lang1334,22,binteˈdus /duos,binteˈdus,[],(m./f.),[],,False,Languedocin.htm,True,doas,1
+lang1334-22-3,,lang1334,22,binteˈdus /duos,duos,[],(m./f.),[],,False,Languedocin.htm,True,doas,1
+lang1334-23-1,,lang1334,23,binteˈtɾes,binteˈtɾes,[],,[],,False,Languedocin.htm,False,vint-e-tres,1
+lang1334-24-1,,lang1334,24,binteˈkatɾe,binteˈkatɾe,[],,[],,False,Languedocin.htm,False,vint-e-quatre,1
+lang1334-25-1,,lang1334,25,binteˈsiŋk,binteˈsiŋk,[],,[],,False,Languedocin.htm,False,vint-e-cinq,1
+lang1334-26-1,,lang1334,26,binteˈsjɛjs,binteˈsjɛjs,[],,[],,False,Languedocin.htm,False,vint-e-sièis,1
+lang1334-27-1,,lang1334,27,binteˈsɛt,binteˈsɛt,[],,[],,False,Languedocin.htm,False,vint-e-sèt,1
+lang1334-28-1,,lang1334,28,binteˈɥɛt͡ʃ,binteˈɥɛt͡ʃ,[],,[],,False,Languedocin.htm,False,vint-e-uèch,1
+lang1334-29-1,,lang1334,29,binteˈnɔw,binteˈnɔw,[],,[],,False,Languedocin.htm,False,vint-e-nòu,1
+lang1334-30-1,,lang1334,30,ˈtɾento,ˈtɾento,[],,[],,False,Languedocin.htm,False,trenta,1
+lang1334-40-1,,lang1334,40,kaˈɾanto,kaˈɾanto,[],,[],,False,Languedocin.htm,False,quaranta,1
+lang1334-50-1,,lang1334,50,siŋˈkanto,siŋˈkanto,[],,[],,False,Languedocin.htm,False,cinquanta,1
+lang1334-60-1,,lang1334,60,sejˈsanto,sejˈsanto,[],,[],,False,Languedocin.htm,False,seissanto,1
+lang1334-70-1,,lang1334,70,seˈtanto,seˈtanto,[],,[],,False,Languedocin.htm,False,setanto,1
+lang1334-80-1,,lang1334,80,uˈt͡ʃanto,uˈt͡ʃanto,[],,[],,False,Languedocin.htm,False,ochanta,1
+lang1334-90-1,,lang1334,90,nuˈnanto,nuˈnanto,[],,[],,False,Languedocin.htm,False,nonanta,1
+lang1334-100-1,,lang1334,100,ˈsen,ˈsen,[],,[],,False,Languedocin.htm,False,cent,1
+lang1334-200-1,,lang1334,200,duˈsens,duˈsens,[],,[],,False,Languedocin.htm,False,dos cents,1
+lang1334-1000-1,,lang1334,1000,ˈmilo,ˈmilo,[],,[],,False,Languedocin.htm,False,mila,1
+lang1334-2000-1,,lang1334,2000,dusˈmilo,dusˈmilo,[],,[],,False,Languedocin.htm,False,dosmila,1

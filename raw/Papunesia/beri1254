@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+beri1254-1-1,,beri1254,1,daanfena,daanfena,[],,[],,False,Berik.htm,False,,1
+beri1254-1-2,,beri1254,1,daanfena,daanfena,[],,[],,False,Berik.htm,False,,2
+beri1254-2-1,,beri1254,2,naura,naura,[],,[],,False,Berik.htm,False,,1
+beri1254-2-2,,beri1254,2,naura,naura,[],,[],,False,Berik.htm,False,,2
+beri1254-3-1,,beri1254,3,nauniŋna,nauniŋna,[],,[],,False,Berik.htm,False,,1
+beri1254-3-2,,beri1254,3,nauniŋna,nauniŋna,[],,[],,False,Berik.htm,False,,2
+beri1254-4-1,,beri1254,4,naunaura,naunaura,[],(litː '2 + 2'),[],,False,Berik.htm,False,,1
+beri1254-4-2,,beri1254,4,naunaura,naunaura,[],,[],,False,Berik.htm,False,,2
+beri1254-5-1,,beri1254,5,tafna ɡuri,tafna ɡuri,[],(lit: 'hand all'),[],,False,Berik.htm,False,,1
+beri1254-5-2,,beri1254,5,tafna ɡuri,tafna ɡuri,[],,[],,False,Berik.htm,False,,2
+beri1254-6-1,,beri1254,6,tafa afwer daanfena,tafa afwer daanfena,[],(lit: 'hand other one'),[],,False,Berik.htm,False,,1
+beri1254-6-2,,beri1254,6,tafa aafwer daanfena,tafa aafwer daanfena,[],,[],,False,Berik.htm,False,,2
+beri1254-7-1,,beri1254,7,tafa afwer naura,tafa afwer naura,[],,[],,False,Berik.htm,False,,1
+beri1254-7-2,,beri1254,7,tafa aafwer naura,tafa aafwer naura,[],,[],,False,Berik.htm,False,,2
+beri1254-8-1,,beri1254,8,tafa afwer nauniŋna,tafa afwer nauniŋna,[],,[],,False,Berik.htm,False,,1
+beri1254-8-2,,beri1254,8,tafa aafwer nauniŋna,tafa aafwer nauniŋna,[],,[],,False,Berik.htm,False,,2
+beri1254-9-1,,beri1254,9,tafa afwer naunaura,tafa afwer naunaura,[],,[],,False,Berik.htm,False,,1
+beri1254-9-2,,beri1254,9,tafa aafwer naunaura,tafa aafwer naunaura,[],,[],,False,Berik.htm,False,,2
+beri1254-10-1,,beri1254,10,tafa afwer sama ɡuri,tafa afwer sama ɡuri,[],(lit: hand two both all'),[],,False,Berik.htm,False,,1
+beri1254-10-2,,beri1254,10,tafa aafwer samaɡuri,tafa aafwer samaɡuri,[],,[],,False,Berik.htm,False,,2
+beri1254-11-1,,beri1254,11,"tafa nau sama ɡuri tufa daanfena (lit: 'hand two both all, foot one') or tufa daafena","tafa nau sama ɡuri tufa daanfena (lit: 'hand two both all, foot one') or tufa daafena",[],(lit: 'foot one'),[],,False,Berik.htm,True,,1
+beri1254-12-1,,beri1254,12,tafa nau sama ɡuri tufa naura,tafa nau sama ɡuri tufa naura,[],,[],,False,Berik.htm,False,,1
+beri1254-13-1,,beri1254,13,tafa nau sama ɡuri tufa nauniŋna,tafa nau sama ɡuri tufa nauniŋna,[],,[],,False,Berik.htm,False,,1
+beri1254-14-1,,beri1254,14,tafa nau sama ɡuri tufa naunaura,tafa nau sama ɡuri tufa naunaura,[],,[],,False,Berik.htm,False,,1
+beri1254-15-1,,beri1254,15,"tafa nau sama ɡuri tufa tafna ɡuri (lit: 'hand two both all, foot all') or tufa ɡuri","tafa nau sama ɡuri tufa tafna ɡuri (lit: 'hand two both all, foot all') or tufa ɡuri",[],,[],,False,Berik.htm,True,,1
+beri1254-16-1,,beri1254,16,"tafa nau sama ɡuri tufa tafa afwer daanfena (lit: 'hand two both all, foot all, one') or tufa afwer daanfena","tafa nau sama ɡuri tufa tafa afwer daanfena (lit: 'hand two both all, foot all, one') or tufa afwer daanfena",[],(lit: 'foot other one'),[],,False,Berik.htm,True,,1
+beri1254-17-1,,beri1254,17,tafa nau sama ɡuri tufa tafa afwer naura,tafa nau sama ɡuri tufa tafa afwer naura,[],,[],,False,Berik.htm,False,,1
+beri1254-18-1,,beri1254,18,tafa nau sama ɡuri tufa tafa afwer nauniŋna,tafa nau sama ɡuri tufa tafa afwer nauniŋna,[],,[],,False,Berik.htm,False,,1
+beri1254-19-1,,beri1254,19,tafa nau sama ɡuri tufa tafa afwer naunaura,tafa nau sama ɡuri tufa tafa afwer naunaura,[],,[],,False,Berik.htm,False,,1
+beri1254-20-1,,beri1254,20,tafa nau sama ɡuri tufa nau sama ɡuri ( lit: 'foot two both all')21. tufa nao sama ɡuri daanfena,tafa nau sama ɡuri tufa nau sama ɡuri ( lit: 'foot two both all')21. tufa nao sama ɡuri daanfena,[],(lit: foot two both all one'),[],,False,Berik.htm,True,,1

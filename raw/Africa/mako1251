@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mako1251-1-1,,mako1251,1,iímo,iímo,[],,[],,False,Makonde.htm,False,,1
+mako1251-2-1,,mako1251,2,mbiíli,mbiíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-3-1,,mako1251,3,nnaátu,nnaátu,[],,[],,False,Makonde.htm,False,,1
+mako1251-4-1,,mako1251,4,nt͡ʃe:ʃɛ,nt͡ʃe:ʃɛ,[],,[],,False,Makonde.htm,False,,1
+mako1251-5-1,,mako1251,5,mwaánu,mwaánu,[],,[],,False,Makonde.htm,False,,1
+mako1251-6-1,,mako1251,6,mwaánu na iímo,mwaánu na iímo,[],( 5 + 1 ),[],,False,Makonde.htm,False,,1
+mako1251-7-1,,mako1251,7,mwaánu na mbiíli,mwaánu na mbiíli,[],( 5 + 2 ),[],,False,Makonde.htm,False,,1
+mako1251-8-1,,mako1251,8,mwaánu na naátu,mwaánu na naátu,[],( 5 + 3 ),[],,False,Makonde.htm,False,,1
+mako1251-9-1,,mako1251,9,mwaánu na nt͡ʃe:ʃɛ,mwaánu na nt͡ʃe:ʃɛ,[],( 5 + 4 ),[],,False,Makonde.htm,False,,1
+mako1251-10-1,,mako1251,10,likuúmi or kuúmi,likuúmi or kuúmi,[],,[],,False,Makonde.htm,True,,1
+mako1251-11-1,,mako1251,11,likuúmi liímo na iímo,likuúmi liímo na iímo,[],,[],,False,Makonde.htm,False,,1
+mako1251-12-1,,mako1251,12,likuúmi liímo na mbiíli,likuúmi liímo na mbiíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-13-1,,mako1251,13,likuúmi liímo na nnaátu,likuúmi liímo na nnaátu,[],,[],,False,Makonde.htm,False,,1
+mako1251-14-1,,mako1251,14,likuúmi liímo na nt͡ʃe:ʃɛ,likuúmi liímo na nt͡ʃe:ʃɛ,[],,[],,False,Makonde.htm,False,,1
+mako1251-15-1,,mako1251,15,likuúmi liímo na mwaánu,likuúmi liímo na mwaánu,[],,[],,False,Makonde.htm,False,,1
+mako1251-16-1,,mako1251,16,likuúmi liímo na mwaánu na iímo,likuúmi liímo na mwaánu na iímo,[],,[],,False,Makonde.htm,False,,1
+mako1251-17-1,,mako1251,17,likuúmi liímo na mwaánu na mbiíli,likuúmi liímo na mwaánu na mbiíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-18-1,,mako1251,18,likuúmi liímo na mwaánu na naátu,likuúmi liímo na mwaánu na naátu,[],,[],,False,Makonde.htm,False,,1
+mako1251-19-1,,mako1251,19,likuúmi liímo na mwaánu na n̩t͡ʃɛʃɛ,likuúmi liímo na mwaánu na n̩t͡ʃɛʃɛ,[],,[],,False,Makonde.htm,False,,1
+mako1251-20-1,,mako1251,20,makuúmi maviíli,makuúmi maviíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-20-2,,mako1251,20,iʃiliíni,iʃiliíni,[],( < Sw. ),[],,True,Makonde.htm,False,,1
+mako1251-21-1,,mako1251,21,makuúmi maviíli na iímo,makuúmi maviíli na iímo,[],,[],,False,Makonde.htm,False,,1
+mako1251-22-1,,mako1251,22,makuúmi maviíli na mbiíli,makuúmi maviíli na mbiíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-23-1,,mako1251,23,makuúmi maviíli na nnaátu,makuúmi maviíli na nnaátu,[],,[],,False,Makonde.htm,False,,1
+mako1251-24-1,,mako1251,24,makuúmi maviíli na nt͡ʃe:ʃɛ,makuúmi maviíli na nt͡ʃe:ʃɛ,[],,[],,False,Makonde.htm,False,,1
+mako1251-25-1,,mako1251,25,makuúmi maviíli na mwaánu,makuúmi maviíli na mwaánu,[],,[],,False,Makonde.htm,False,,1
+mako1251-26-1,,mako1251,26,makuúmi maviíli na mwaánu na iímo,makuúmi maviíli na mwaánu na iímo,[],,[],,False,Makonde.htm,False,,1
+mako1251-27-1,,mako1251,27,makuúmi maviíli na mwaánu na mbiíli,makuúmi maviíli na mwaánu na mbiíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-28-1,,mako1251,28,makuúmi maviíli na mwaánu na naátu,makuúmi maviíli na mwaánu na naátu,[],,[],,False,Makonde.htm,False,,1
+mako1251-29-1,,mako1251,29,makuúmi maviíli na mwaánu na nt͡ʃe:ʃɛ,makuúmi maviíli na mwaánu na nt͡ʃe:ʃɛ,[],,[],,False,Makonde.htm,False,,1
+mako1251-30-1,,mako1251,30,makuúmi mataátu,makuúmi mataátu,[],,[],,False,Makonde.htm,False,,1
+mako1251-40-1,,mako1251,40,makuúmi nt͡ʃe:ʃɛ,makuúmi nt͡ʃe:ʃɛ,[],,[],,False,Makonde.htm,False,,1
+mako1251-50-1,,mako1251,50,makuúmi mwaánu,makuúmi mwaánu,[],,[],,False,Makonde.htm,False,,1
+mako1251-60-1,,mako1251,60,makuúmi mwaánu na likuúmi liímo,makuúmi mwaánu na likuúmi liímo,[],,[],,False,Makonde.htm,False,,1
+mako1251-70-1,,mako1251,70,makuúmi mwaánu na makuúmi maviíli,makuúmi mwaánu na makuúmi maviíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-80-1,,mako1251,80,makuúmi mwaánu na makuúmi mataátu,makuúmi mwaánu na makuúmi mataátu,[],,[],,False,Makonde.htm,False,,1
+mako1251-90-1,,mako1251,90,makuúmi mwaánu na makuúmi nt͡ʃe:ʃɛ,makuúmi mwaánu na makuúmi nt͡ʃe:ʃɛ,[],,[],,False,Makonde.htm,False,,1
+mako1251-100-1,,mako1251,100,makuúmi makuúmi or míía,makuúmi makuúmi or míía,[],( < Sw. ),[],,True,Makonde.htm,True,,1
+mako1251-200-1,,mako1251,200,dímííya mbiíli,dímííya mbiíli,[],,[],,False,Makonde.htm,False,,1
+mako1251-1000-1,,mako1251,1000,áluupu,áluupu,[],( < Swahili ),[],,True,Makonde.htm,False,,1
+mako1251-2000-1,,mako1251,2000,dyááluupu mbiíli,dyááluupu mbiíli,[],,[],,False,Makonde.htm,False,,1

@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+maba1273-1-1,,maba1273,1,cyɛ́ɛlɔ̀,cyɛ́ɛlɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-2-1,,maba1273,2,yɛ́ɛwɔ̀,yɛ́ɛwɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-3-1,,maba1273,3,ɗɔ́ɔ́ɡɔ́,ɗɔ́ɔ́ɡɔ́,[],,[],,False,Mabaan.htm,False,,1
+maba1273-4-1,,maba1273,4,ŋáánɔ̀,ŋáánɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-5-1,,maba1273,5,d̪ɔ́ɔ́yɔ̀,d̪ɔ́ɔ́yɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-6-1,,maba1273,6,d̪ɔ́ɔ́yɔ̀ wílin nè cyɛ́ɛlɔ̀,d̪ɔ́ɔ́yɔ̀ wílin nè cyɛ́ɛlɔ̀,[],( 5 + 1 ),[],,False,Mabaan.htm,False,,1
+maba1273-7-1,,maba1273,7,d̪ɔ́ɔ́yɔ̀ wítkɛ̀n nè yɛ́ɛwɔ̀,d̪ɔ́ɔ́yɔ̀ wítkɛ̀n nè yɛ́ɛwɔ̀,[],( 5 + 2 ),[],,False,Mabaan.htm,False,,1
+maba1273-8-1,,maba1273,8,d̪ɔ́ɔ́yɔ̀ wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,d̪ɔ́ɔ́yɔ̀ wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,[],( 5 + 3 ),[],,False,Mabaan.htm,False,,1
+maba1273-9-1,,maba1273,9,d̪ɔ́ɔ́yɔ̀ wítkɛ̀n nè ŋáánɔ̀,d̪ɔ́ɔ́yɔ̀ wítkɛ̀n nè ŋáánɔ̀,[],( 5 + 4 ),[],,False,Mabaan.htm,False,,1
+maba1273-10-1,,maba1273,10,ínyáákkɛ̀n,ínyáákkɛ̀n,[],( lit: both hands),[],,False,Mabaan.htm,False,,1
+maba1273-11-1,,maba1273,11,ínyáákkɛ̀n wílin nè cyɛ́ɛlɔ̀,ínyáákkɛ̀n wílin nè cyɛ́ɛlɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-12-1,,maba1273,12,ínyáákkɛ̀n wítkɛ̀n nè yɛ́ɛwɔ̀,ínyáákkɛ̀n wítkɛ̀n nè yɛ́ɛwɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-13-1,,maba1273,13,ínyáákkɛ̀n wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,ínyáákkɛ̀n wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,[],,[],,False,Mabaan.htm,False,,1
+maba1273-14-1,,maba1273,14,ínyáákkɛ̀n wítkɛ̀n nè ŋáánɔ̀,ínyáákkɛ̀n wítkɛ̀n nè ŋáánɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-15-1,,maba1273,15,ínyáákkɛ̀n om nè,ínyáákkɛ̀n om nè,[],,[],,False,Mabaan.htm,False,,1
+maba1273-16-1,,maba1273,16,ínyáákkɛ̀n om nè wílin nè + 6,ínyáákkɛ̀n om nè wílin nè + 6,[],,[],,False,Mabaan.htm,True,,1
+maba1273-17-1,,maba1273,17,ínyáákkɛ̀n om nè wítkɛ̀n nè + 7,ínyáákkɛ̀n om nè wítkɛ̀n nè + 7,[],,[],,False,Mabaan.htm,True,,1
+maba1273-18-1,,maba1273,18,ínyáákkɛ̀n om nè wítkɛ̀n nè + 8,ínyáákkɛ̀n om nè wítkɛ̀n nè + 8,[],,[],,False,Mabaan.htm,True,,1
+maba1273-19-1,,maba1273,19,ínyáákkɛ̀n om nè wítkɛ̀n nè + 9,ínyáákkɛ̀n om nè wítkɛ̀n nè + 9,[],,[],,False,Mabaan.htm,True,,1
+maba1273-20-1,,maba1273,20,mɨn báánò,mɨn báánò,[],( lit: person),[],,False,Mabaan.htm,False,,1
+maba1273-21-1,,maba1273,21,mɨn báán wílin nè cyɛ́ɛlɔ̀,mɨn báán wílin nè cyɛ́ɛlɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-22-1,,maba1273,22,mɨn báán wítkɛ̀n nè yɛ́ɛwɔ̀,mɨn báán wítkɛ̀n nè yɛ́ɛwɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-23-1,,maba1273,23,mɨn báán wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,mɨn báán wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,[],,[],,False,Mabaan.htm,False,,1
+maba1273-24-1,,maba1273,24,mɨn báán wítkɛ̀n nè ŋáánɔ̀,mɨn báán wítkɛ̀n nè ŋáánɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-25-1,,maba1273,25,mɨn báán mɨn byiŋɛ,mɨn báán mɨn byiŋɛ,[],,[],,False,Mabaan.htm,False,,1
+maba1273-26-1,,maba1273,26,mɨn báán mɨn byiŋɛ wílin nè cyɛ́ɛlɔ̀,mɨn báán mɨn byiŋɛ wílin nè cyɛ́ɛlɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-27-1,,maba1273,27,mɨn báán mɨn byiŋɛ wítkɛ̀n nè yɛ́ɛwɔ̀,mɨn báán mɨn byiŋɛ wítkɛ̀n nè yɛ́ɛwɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-28-1,,maba1273,28,mɨn báán mɨn byiŋɛ wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,mɨn báán mɨn byiŋɛ wítkɛ̀n nè ɗɔ́ɔ́ɡɔ́,[],,[],,False,Mabaan.htm,False,,1
+maba1273-29-1,,maba1273,29,mɨn báán mɨn byiŋɛ wítkɛ̀n nè ŋáánɔ̀,mɨn báán mɨn byiŋɛ wítkɛ̀n nè ŋáánɔ̀,[],,[],,False,Mabaan.htm,False,,1
+maba1273-30-1,,maba1273,30,mɨn báán mɨn byiŋɛ kɛ,mɨn báán mɨn byiŋɛ kɛ,[],,[],,False,Mabaan.htm,False,,1
+maba1273-40-1,,maba1273,40,má báán nè yɛ́ɛwɔ̀,má báán nè yɛ́ɛwɔ̀,[],( 20 x 2 ),[],,False,Mabaan.htm,False,,1
+maba1273-50-1,,maba1273,50,má báán nè yɛ́ɛwɔ̀ mɨn byiŋɛ kɛ,má báán nè yɛ́ɛwɔ̀ mɨn byiŋɛ kɛ,[],,[],,False,Mabaan.htm,False,,1
+maba1273-60-1,,maba1273,60,má báán nè ɗɔ́ɔ́ɡɔ́,má báán nè ɗɔ́ɔ́ɡɔ́,[],( 20 x 3 ),[],,False,Mabaan.htm,False,,1
+maba1273-70-1,,maba1273,70,má báán nè ɗɔ́ɔ́ɡɔ́ mɨn byiŋɛ kɛ,má báán nè ɗɔ́ɔ́ɡɔ́ mɨn byiŋɛ kɛ,[],,[],,False,Mabaan.htm,False,,1
+maba1273-80-1,,maba1273,80,má báán nè ŋáánɔ̀,má báán nè ŋáánɔ̀,[],( 20 x 4 ),[],,False,Mabaan.htm,False,,1
+maba1273-90-1,,maba1273,90,má báán nè ŋáánɔ̀ mɨn byiŋɛ kɛ,má báán nè ŋáánɔ̀ mɨn byiŋɛ kɛ,[],,[],,False,Mabaan.htm,False,,1
+maba1273-100-1,,maba1273,100,má báán nè d̪ɔ́ɔ́yɔ̀,má báán nè d̪ɔ́ɔ́yɔ̀,[],( 20 x 5 ),[],,False,Mabaan.htm,False,,1
+maba1273-100-2,,maba1273,100,miyya,miyya,[],,[],,False,Mabaan.htm,False,,1
+maba1273-200-1,,maba1273,200,má báán nè ínyáákkɛ̀n,má báán nè ínyáákkɛ̀n,[],( 20 x 10 ),[],,False,Mabaan.htm,False,,1
+maba1273-1000-1,,maba1273,1000,alp,alp,[],( < Arabic ),[],,True,Mabaan.htm,False,,1
+maba1273-2000-1,,maba1273,2000,alpin nè yɛ́ɛwɔ̀,alpin nè yɛ́ɛwɔ̀,[],,[],,False,Mabaan.htm,False,,1

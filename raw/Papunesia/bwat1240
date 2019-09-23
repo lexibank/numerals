@@ -1,0 +1,24 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bwat1240-1-1,,bwat1240,1,θaːŋ,θaːŋ,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-1-2,,bwat1240,1,θaː,θaː,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-2-1,,bwat1240,2,ʈalo,ʈalo,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-3-1,,bwat1240,3,ʈien,ʈien,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-4-1,,bwat1240,4,fae,fae,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-4-2,,bwat1240,4,faeː,faeː,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-5-1,,bwat1240,5,nim,nim,[],( litː 'hand' ),[],,False,Bwatoo.htm,False,,1
+bwat1240-6-1,,bwat1240,6,nim ᵐbʷa θaːŋ,nim ᵐbʷa θaːŋ,[],( 5 + 1 ),[],,False,Bwatoo.htm,False,,1
+bwat1240-7-1,,bwat1240,7,nim ᵐbʷa ʈalo,nim ᵐbʷa ʈalo,[],( 5 + 2 ),[],,False,Bwatoo.htm,False,,1
+bwat1240-8-1,,bwat1240,8,nim ᵐbʷa ʈien,nim ᵐbʷa ʈien,[],( 5 + 3 ),[],,False,Bwatoo.htm,False,,1
+bwat1240-9-1,,bwat1240,9,nim ᵐbʷa faeː,nim ᵐbʷa faeː,[],( 5 + 4 ),[],,False,Bwatoo.htm,False,,1
+bwat1240-10-1,,bwat1240,10,ᶮɟoa-lu-θiː-ᶮɟe,ᶮɟoa-lu-θiː-ᶮɟe,[],( litː 'completed two hands'),[],,False,Bwatoo.htm,False,,1
+bwat1240-11-1,,bwat1240,11,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa θaːŋ,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa θaːŋ,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-12-1,,bwat1240,12,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈalo,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈalo,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-13-1,,bwat1240,13,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈien,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈien,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-14-1,,bwat1240,14,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa faeː,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa faeː,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-15-1,,bwat1240,15,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-16-1,,bwat1240,16,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa θaːŋ,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa θaːŋ,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-17-1,,bwat1240,17,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈalo,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈalo,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-18-1,,bwat1240,18,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈien,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈien,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-19-1,,bwat1240,19,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa faeː,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa faeː,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-20-1,,bwat1240,20,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ᶮɟoa-lu-xa-ᶮɟe,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ᶮɟoa-lu-xa-ᶮɟe,[],,[],,False,Bwatoo.htm,False,,1
+bwat1240-20-2,,bwat1240,20,or θaːŋe-a-ɣaːᵐbuit,or θaːŋe-a-ɣaːᵐbuit,[],(litː 'one person'),[],,False,Bwatoo.htm,False,,1

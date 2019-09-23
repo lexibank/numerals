@@ -1,0 +1,56 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+laal1242-1-1,,laal1242,1,ɓɨ̀dɨ́l,ɓɨ̀dɨ́l,[],,[],,False,Laal.htm,False,,1
+laal1242-1-2,,laal1242,1,ɓɨ̀dɨ́l,ɓɨ̀dɨ́l,[],,[],,False,Laal.htm,False,,2
+laal1242-2-1,,laal1242,2,ʔīsī,ʔīsī,[],,[],,False,Laal.htm,False,,1
+laal1242-2-2,,laal1242,2,ʔīsī,ʔīsī,[],,[],,False,Laal.htm,False,,2
+laal1242-3-1,,laal1242,3,maː̄,maː̄,[],,[],,False,Laal.htm,False,,1
+laal1242-3-2,,laal1242,3,māā,māā,[],,[],,False,Laal.htm,False,,2
+laal1242-4-1,,laal1242,4,ɓīsān,ɓīsān,[],,[],,False,Laal.htm,False,,1
+laal1242-4-2,,laal1242,4,ɓīsān,ɓīsān,[],,[],,False,Laal.htm,False,,2
+laal1242-5-1,,laal1242,5,sāb,sāb,[],,[],,False,Laal.htm,False,,1
+laal1242-5-2,,laal1242,5,sāb,sāb,[],,[],,False,Laal.htm,False,,2
+laal1242-6-1,,laal1242,6,cìcaː̀n,cìcaː̀n,[],,[],,False,Laal.htm,False,,1
+laal1242-6-2,,laal1242,6,cìcààn,cìcààn,[],,[],,False,Laal.htm,False,,2
+laal1242-7-1,,laal1242,7,swàːr.ʔīsi,swàːr.ʔīsi,[],{?.two},[],,False,Laal.htm,False,,1
+laal1242-7-2,,laal1242,7,suàr.ʔīsi,suàr.ʔīsi,[],( ?  2 ),[],,False,Laal.htm,False,,2
+laal1242-8-1,,laal1242,8,ɓīsān.ɓīsān,ɓīsān.ɓīsān,[],{four.four},[],,False,Laal.htm,False,,1
+laal1242-8-2,,laal1242,8,ɓīsān ɓīsān,ɓīsān ɓīsān,[],( 4 + 4 ),[],,False,Laal.htm,False,,2
+laal1242-9-1,,laal1242,9,yàŋjáŋ,yàŋjáŋ,[],,[],,False,Laal.htm,False,,1
+laal1242-9-2,,laal1242,9,yàŋ jáŋ,yàŋ jáŋ,[],,[],,False,Laal.htm,False,,2
+laal1242-10-1,,laal1242,10,tūː,tūː,[],,[],,False,Laal.htm,False,,1
+laal1242-10-2,,laal1242,10,tūū,tūū,[],,[],,False,Laal.htm,False,,2
+laal1242-11-1,,laal1242,11,? /one},one},[],,[],,False,Laal.htm,True,tūː yàw ɓɨ̀dɨ́l{ten/its ̠mouth,1
+laal1242-11-2,,laal1242,11,tūū yàw ɓɨ̀dɨ́l or Baguirmi,tūū yàw ɓɨ̀dɨ́l or Baguirmi,[],,[],,False,Laal.htm,True,,2
+laal1242-12-1,,laal1242,12,? /two},two},[],,[],,False,Laal.htm,True,tūː yàw ʔīsī {ten/its ̠mouth,1
+laal1242-12-2,,laal1242,12,tūū yàw ʔīsī,tūū yàw ʔīsī,[],,[],,False,Laal.htm,False,,2
+laal1242-13-1,,laal1242,13,tūū yàw māā,tūū yàw māā,[],,[],,False,Laal.htm,False,,2
+laal1242-14-1,,laal1242,14,tūū yàw ɓīsān,tūū yàw ɓīsān,[],,[],,False,Laal.htm,False,,2
+laal1242-15-1,,laal1242,15,tūū yàw sāb,tūū yàw sāb,[],,[],,False,Laal.htm,False,,2
+laal1242-16-1,,laal1242,16,tūū yàw cìcààn,tūū yàw cìcààn,[],,[],,False,Laal.htm,False,,2
+laal1242-17-1,,laal1242,17,tūū yàw suàr.ʔīsi,tūū yàw suàr.ʔīsi,[],,[],,False,Laal.htm,False,,2
+laal1242-18-1,,laal1242,18,tūū yàw ɓīsān ɓīsān,tūū yàw ɓīsān ɓīsān,[],,[],,False,Laal.htm,False,,2
+laal1242-19-1,,laal1242,19,tūū yàw yàŋ jáŋ,tūū yàw yàŋ jáŋ,[],,[],,False,Laal.htm,False,,2
+laal1242-20-1,,laal1242,20,tùɡúr ʔīsī,tùɡúr ʔīsī,[],{ten;PLURAL/two},[],,False,Laal.htm,False,,1
+laal1242-20-2,,laal1242,20,tùɡúr ʔīsī,tùɡúr ʔīsī,[],(litː ''two tens''),[],,False,Laal.htm,False,,2
+laal1242-21-1,,laal1242,21,tùɡúr ʔīsī yàw ɓɨ̀dɨ́l,tùɡúr ʔīsī yàw ɓɨ̀dɨ́l,[],,[],,False,Laal.htm,False,,2
+laal1242-22-1,,laal1242,22,tùɡúr ʔīsī yàw ʔīsī,tùɡúr ʔīsī yàw ʔīsī,[],,[],,False,Laal.htm,False,,2
+laal1242-23-1,,laal1242,23,tùɡúr ʔīsī yàw māā,tùɡúr ʔīsī yàw māā,[],,[],,False,Laal.htm,False,,2
+laal1242-24-1,,laal1242,24,tùɡúr ʔīsī yàw ɓīsān,tùɡúr ʔīsī yàw ɓīsān,[],,[],,False,Laal.htm,False,,2
+laal1242-25-1,,laal1242,25,tùɡúr ʔīsī yàw sāb,tùɡúr ʔīsī yàw sāb,[],,[],,False,Laal.htm,False,,2
+laal1242-26-1,,laal1242,26,tùɡúr ʔīsī yàw cìcààn,tùɡúr ʔīsī yàw cìcààn,[],,[],,False,Laal.htm,False,,2
+laal1242-27-1,,laal1242,27,tùɡúr ʔīsī yàw suàr.ʔīsi,tùɡúr ʔīsī yàw suàr.ʔīsi,[],,[],,False,Laal.htm,False,,2
+laal1242-28-1,,laal1242,28,tùɡúr ʔīsī yàw ɓīsān ɓīsān,tùɡúr ʔīsī yàw ɓīsān ɓīsān,[],,[],,False,Laal.htm,False,,2
+laal1242-29-1,,laal1242,29,tùɡúr ʔīsī yàw yàŋ jáŋ,tùɡúr ʔīsī yàw yàŋ jáŋ,[],,[],,False,Laal.htm,False,,2
+laal1242-30-1,,laal1242,30,tùɡúr māā,tùɡúr māā,[],,[],,False,Laal.htm,False,,2
+laal1242-40-1,,laal1242,40,tùɡúr ɓīsān,tùɡúr ɓīsān,[],,[],,False,Laal.htm,False,,2
+laal1242-50-1,,laal1242,50,tùɡúr sāb,tùɡúr sāb,[],,[],,False,Laal.htm,False,,2
+laal1242-60-1,,laal1242,60,tùɡúr cìcààn,tùɡúr cìcààn,[],,[],,False,Laal.htm,False,,2
+laal1242-70-1,,laal1242,70,tùɡúr suàr.ʔīsi,tùɡúr suàr.ʔīsi,[],,[],,False,Laal.htm,False,,2
+laal1242-80-1,,laal1242,80,tùɡúr ɓīsān ɓīsān,tùɡúr ɓīsān ɓīsān,[],,[],,False,Laal.htm,False,,2
+laal1242-90-1,,laal1242,90,tùɡúr yàŋ jáŋ,tùɡúr yàŋ jáŋ,[],,[],,False,Laal.htm,False,,2
+laal1242-100-1,,laal1242,100,tūː ́ɡūdā,tūː ́ɡūdā,[],(ten/ be ̠big ),[],,False,Laal.htm,False,,1
+laal1242-100-2,,laal1242,100,tūú yí ɡūdā,tūú yí ɡūdā,[],(litː ''big ten''),[],,False,Laal.htm,False,,2
+laal1242-200-1,,laal1242,200,tūː ́ɡūdāɡ ʔīsī,tūː ́ɡūdāɡ ʔīsī,[],{ten/be ̠bigːPLURAL /two},[],,False,Laal.htm,False,,1
+laal1242-200-2,,laal1242,200,???,???,[],,[],,False,Laal.htm,True,,2
+laal1242-1000-1,,laal1242,1000,dəbu,dəbu,[],< Baguirmi < Hausa ,[],,True,Laal.htm,False,,2
+laal1242-2000-1,,laal1242,2000,dəbu sap,dəbu sap,[],< Baguirmi ,[],,True,Laal.htm,False,,2

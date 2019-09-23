@@ -1,0 +1,108 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+oksa1245-1-1,,oksa1245,1,tiβəna,tiβəna,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-1-2,,oksa1245,1,tiβən,tiβən,[],(litː 'thumb'),[],,False,Oksapmin.htm,False,,1
+oksa1245-1-3,,oksa1245,1,tita,tita,[],,[],,False,Oksapmin.htm,False,,2
+oksa1245-1-4,,oksa1245,1,tit ‘one’,tit ‘one’,[],,[],,False,Oksapmin.htm,True,,2
+oksa1245-1-5,,oksa1245,1,tipun,tipun,[],( litː 'thumb' ),[],,False,Oksapmin.htm,False,,3
+oksa1245-2-1,,oksa1245,2,tipneɾip,tipneɾip,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-2-2,,oksa1245,2,tipneɾipᶲ,tipneɾipᶲ,[],(litː 'index finger'),[],,False,Oksapmin.htm,False,,1
+oksa1245-2-3,,oksa1245,2,yota,yota,[],,[],,False,Oksapmin.htm,False,,2
+oksa1245-2-4,,oksa1245,2,yot ‘two’,yot ‘two’,[],,[],,False,Oksapmin.htm,True,,2
+oksa1245-2-5,,oksa1245,2,ləwatipun,ləwatipun,[],( litː 'index finger'),[],,False,Oksapmin.htm,False,,3
+oksa1245-3-1,,oksa1245,3,bumɾup,bumɾup,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-3-2,,oksa1245,3,bumɾupᶲ,bumɾupᶲ,[],(litː 'middle finger'),[],,False,Oksapmin.htm,False,,1
+oksa1245-3-3,,oksa1245,3,yitiɾ ‘three’,yitiɾ ‘three’,[],,[],,False,Oksapmin.htm,True,,2
+oksa1245-3-4,,oksa1245,3,bumlip,bumlip,[],( litː 'middle finger'),[],,False,Oksapmin.htm,False,,3
+oksa1245-4-1,,oksa1245,4,xətɾip,xətɾip,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-4-2,,oksa1245,4,xətɾipᶲ,xətɾipᶲ,[],(litː 'ring finger'),[],,False,Oksapmin.htm,False,,1
+oksa1245-4-3,,oksa1245,4,yotayota,yotayota,[],,[],,False,Oksapmin.htm,False,,2
+oksa1245-4-4,,oksa1245,4,yotyot ‘four’,yotyot ‘four’,[],(lit: ‘two two’),[],,False,Oksapmin.htm,True,,2
+oksa1245-4-5,,oksa1245,4,xətlip,xətlip,[],( litː 'ring finger'),[],,False,Oksapmin.htm,False,,3
+oksa1245-5-1,,oksa1245,5,xətxəta,xətxəta,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-5-2,,oksa1245,5,xətxət,xətxət,[],(litː 'little finger'),[],,False,Oksapmin.htm,False,,1
+oksa1245-5-3,,oksa1245,5,xətxət timbəs or xanin ‘five’,xətxət timbəs or xanin ‘five’,[],,[],,False,Oksapmin.htm,True,,2
+oksa1245-5-4,,oksa1245,5,xətxət,xətxət,[],( litː 'little finger'),[],,False,Oksapmin.htm,False,,3
+oksa1245-6-1,,oksa1245,6,doβa,doβa,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-6-2,,oksa1245,6,dop,dop,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-6-3,,oksa1245,6,dopᶲ,dopᶲ,[],(litː 'inner wrist'),[],,False,Oksapmin.htm,False,,1
+oksa1245-6-4,,oksa1245,6,doβxeⁱ,doβxeⁱ,[],"(from here on to the end of   the unit, quantity numbers use the   counting number plus the quantity   marker -xeⁱ) (lit: ‘inner wrist + quantity   marker’)",[],,False,Oksapmin.htm,False,,2
+oksa1245-6-5,,oksa1245,6,xədəp,xədəp,[],( litː 'wrist'),[],,False,Oksapmin.htm,False,,3
+oksa1245-7-1,,oksa1245,7,beza,beza,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-7-2,,oksa1245,7,bes,bes,[],(litː 'forearm'),[],,False,Oksapmin.htm,False,,1
+oksa1245-7-3,,oksa1245,7,besxeⁱ,besxeⁱ,[],(litː 'forearm + quantity   marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-7-4,,oksa1245,7,bes,bes,[],( litː 'forearm'),[],,False,Oksapmin.htm,False,,3
+oksa1245-8-1,,oksa1245,8,kiɾ,kiɾ,[],(litː 'elbow'),[],,False,Oksapmin.htm,False,,1
+oksa1245-8-2,,oksa1245,8,kiɾxeⁱ,kiɾxeⁱ,[],(lit: ‘elbow + quantity marker’),[],,False,Oksapmin.htm,False,,2
+oksa1245-8-3,,oksa1245,8,armun,armun,[],( litː 'elbow'),[],,False,Oksapmin.htm,False,,3
+oksa1245-9-1,,oksa1245,9,towat,towat,[],(litː 'upper arm'),[],,False,Oksapmin.htm,False,,1
+oksa1245-9-2,,oksa1245,9,towatxeⁱ,towatxeⁱ,[],(litː 'upper arm+ quantity   marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-9-3,,oksa1245,9,tuwət,tuwət,[],( litː 'upper arm'),[],,False,Oksapmin.htm,False,,3
+oksa1245-10-1,,oksa1245,10,kata,kata,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-10-2,,oksa1245,10,kat,kat,[],(litː 'shoulder'),[],,False,Oksapmin.htm,False,,1
+oksa1245-10-3,,oksa1245,10,katxeⁱ,katxeⁱ,[],(litː 'shoulder+ quantity     marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-10-4,,oksa1245,10,kat,kat,[],( litː 'shoulder'),[],,False,Oksapmin.htm,False,,3
+oksa1245-11-1,,oksa1245,11,ɡweɾa,ɡweɾa,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-11-2,,oksa1245,11,ɡweɾ,ɡweɾ,[],(litː 'side of neck'),[],,False,Oksapmin.htm,False,,1
+oksa1245-11-3,,oksa1245,11,ɡweɾxeⁱ,ɡweɾxeⁱ,[],(litː 'side of neck+ quantity     marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-11-4,,oksa1245,11,ɡwel,ɡwel,[],( litː 'side of neck'),[],,False,Oksapmin.htm,False,,3
+oksa1245-12-1,,oksa1245,12,nata,nata,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-12-2,,oksa1245,12,nat,nat,[],(litː 'ear'),[],,False,Oksapmin.htm,False,,1
+oksa1245-12-3,,oksa1245,12,natxeⁱ,natxeⁱ,[],(litː 'ear+ quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-12-4,,oksa1245,12,nat,nat,[],( litː 'ear'),[],,False,Oksapmin.htm,False,,3
+oksa1245-13-1,,oksa1245,13,kina,kina,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-13-2,,oksa1245,13,kin,kin,[],(litː 'eye'),[],,False,Oksapmin.htm,False,,1
+oksa1245-13-3,,oksa1245,13,kinxeⁱ,kinxeⁱ,[],(litː 'eye+ quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-13-4,,oksa1245,13,kin,kin,[],( litː 'eye'),[],,False,Oksapmin.htm,False,,3
+oksa1245-14-1,,oksa1245,14,ɾuma,ɾuma,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-14-2,,oksa1245,14,ɾum,ɾum,[],(litː 'nose'),[],,False,Oksapmin.htm,False,,1
+oksa1245-14-3,,oksa1245,14,ɾumxeⁱ,ɾumxeⁱ,[],(litː 'nose+ quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-14-4,,oksa1245,14,lum,lum,[],( litː 'nose'),[],,False,Oksapmin.htm,False,,3
+oksa1245-15-1,,oksa1245,15,tən kin(a),tən kin(a),[],(litː 'side eye'),[],,False,Oksapmin.htm,False,,1
+oksa1245-15-2,,oksa1245,15,tən kinxeⁱ,tən kinxeⁱ,[],(litː 'side eye+ quantity     marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-15-3,,oksa1245,15,kin tən,kin tən,[],(litː '(other) side eye'),[],,False,Oksapmin.htm,False,,3
+oksa1245-16-1,,oksa1245,16,tən nata,tən nata,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-16-2,,oksa1245,16,nat,nat,[],(litː 'side ear'),[],,False,Oksapmin.htm,False,,1
+oksa1245-16-3,,oksa1245,16,tən natxeⁱ,tən natxeⁱ,[],(litː 'side ear+ quantity     marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-16-4,,oksa1245,16,nat tən,nat tən,[],( litː '(other) side ear'),[],,False,Oksapmin.htm,False,,3
+oksa1245-17-1,,oksa1245,17,tən ɡweɾ,tən ɡweɾ,[],( litː 'side side of neck'),[],,False,Oksapmin.htm,False,,1
+oksa1245-17-2,,oksa1245,17,tən ɡweɾxeⁱ,tən ɡweɾxeⁱ,[],(litː 'side side of neck+     quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-17-3,,oksa1245,17,ɡwel tən,ɡwel tən,[],( litː '(other) side of neck'),[],,False,Oksapmin.htm,False,,3
+oksa1245-18-1,,oksa1245,18,tən kata,tən kata,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-18-2,,oksa1245,18,kat,kat,[],(litː 'side shoulder'),[],,False,Oksapmin.htm,False,,1
+oksa1245-18-3,,oksa1245,18,tən katxeⁱ,tən katxeⁱ,[],(litː 'side shoulder+     quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-18-4,,oksa1245,18,kat tən,kat tən,[],( litː '(other) shoulder'),[],,False,Oksapmin.htm,False,,3
+oksa1245-19-1,,oksa1245,19,tən towat,tən towat,[],(litː' side upper arm'),[],,False,Oksapmin.htm,False,,1
+oksa1245-19-2,,oksa1245,19,tən towatxeⁱ,tən towatxeⁱ,[],(lit: 'side upper arm+     quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-19-3,,oksa1245,19,tuwət tən '(other) side upper arm',tuwət tən '(other) side upper arm',[],,[],,False,Oksapmin.htm,True,,3
+oksa1245-20-1,,oksa1245,20,tən kiɾ,tən kiɾ,[],( litː 'side elbow'),[],,False,Oksapmin.htm,False,,1
+oksa1245-20-2,,oksa1245,20,tən kiɾxeⁱ,tən kiɾxeⁱ,[],(litː 'side elbow+     quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-20-3,,oksa1245,20,amun tən,amun tən,[],( litː '(other) side elbow'),[],,False,Oksapmin.htm,False,,3
+oksa1245-21-1,,oksa1245,21,tən beza,tən beza,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-21-2,,oksa1245,21,bez,bez,[],(litː 'side forearm'),[],,False,Oksapmin.htm,False,,1
+oksa1245-21-3,,oksa1245,21,tən besxeⁱ,tən besxeⁱ,[],(lit: ‘side forearm+ quantity     marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-21-4,,oksa1245,21,bes tən '(other) side forearm',bes tən '(other) side forearm',[],,[],,False,Oksapmin.htm,True,,3
+oksa1245-22-1,,oksa1245,22,tən doβa,tən doβa,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-22-2,,oksa1245,22,dop,dop,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-22-3,,oksa1245,22,dopᶲ,dopᶲ,[],(litː 'side inner     wrist'),[],,False,Oksapmin.htm,False,,1
+oksa1245-22-4,,oksa1245,22,tən dopxeⁱ,tən dopxeⁱ,[],(lit: ‘side inner wrist+     quantity marker’),[],,False,Oksapmin.htm,False,,2
+oksa1245-22-5,,oksa1245,22,xadəp tən '(other) side wrist',xadəp tən '(other) side wrist',[],,[],,False,Oksapmin.htm,True,,3
+oksa1245-23-1,,oksa1245,23,tən tiβəna,tən tiβəna,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-23-2,,oksa1245,23,tiβən,tiβən,[],(Often the word 'tən' is left out from      here to the end.) (litː 'side thumb),[],,False,Oksapmin.htm,False,,1
+oksa1245-23-3,,oksa1245,23,tən tiβənxeⁱ,tən tiβənxeⁱ,[],(litː 'side thumb+ quantity      marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-23-4,,oksa1245,23,xətxət tən '(other) side little finger',xətxət tən '(other) side little finger',[],,[],,False,Oksapmin.htm,True,,3
+oksa1245-24-1,,oksa1245,24,tən tipneɾip,tən tipneɾip,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-24-2,,oksa1245,24,tipneɾipᶲ,tipneɾipᶲ,[],(litː 'side index     finger'),[],,False,Oksapmin.htm,False,,1
+oksa1245-24-3,,oksa1245,24,tən tipneɾipxeⁱ,tən tipneɾipxeⁱ,[],('lit: side index finger+      quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-24-4,,oksa1245,24,xətlip tən '(other) side ring finger',xətlip tən '(other) side ring finger',[],,[],,False,Oksapmin.htm,True,,3
+oksa1245-25-1,,oksa1245,25,tən bumɾup,tən bumɾup,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-25-2,,oksa1245,25,bumɾupᶲ,bumɾupᶲ,[],"(litː ""side middle     finger')",[],,False,Oksapmin.htm,False,,1
+oksa1245-25-3,,oksa1245,25,tən bumɾupxeⁱ,tən bumɾupxeⁱ,[],(lit: ‘side middle finger+      quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-25-4,,oksa1245,25,bumlip tən '(other) side middle finger',bumlip tən '(other) side middle finger',[],,[],,False,Oksapmin.htm,True,,3
+oksa1245-26-1,,oksa1245,26,tən xətɾip,tən xətɾip,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-26-2,,oksa1245,26,xətɾipᶲ,xətɾipᶲ,[],(litː 'side ring finger'),[],,False,Oksapmin.htm,False,,1
+oksa1245-26-3,,oksa1245,26,tən xətɾipxeⁱ,tən xətɾipxeⁱ,[],(lit: 'side ring finger+      quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-26-4,,oksa1245,26,ləwatipun tən 'side index finger',ləwatipun tən 'side index finger',[],,[],,False,Oksapmin.htm,True,,3
+oksa1245-27-1,,oksa1245,27,tən xətxəta,tən xətxəta,[],,[],,False,Oksapmin.htm,False,,1
+oksa1245-27-2,,oksa1245,27,xətxət,xətxət,[],(litː 'side little finger),[],,False,Oksapmin.htm,False,,1
+oksa1245-27-3,,oksa1245,27,tən xətxətxeⁱ,tən xətxətxeⁱ,[],(lit: ‘side little finger+     quantity marker'),[],,False,Oksapmin.htm,False,,2
+oksa1245-27-4,,oksa1245,27,tipun tən '(other) side thumb',tipun tən '(other) side thumb',[],,[],,False,Oksapmin.htm,True,,3

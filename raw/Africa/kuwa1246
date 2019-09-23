@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kuwa1246-1-1,,kuwa1246,1,hifeeneŋ,hifeeneŋ,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-2-1,,kuwa1246,2,kúsuba,kúsuba,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-3-1,,kuwa1246,3,kíhaaji,kíhaaji,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-4-1,,kuwa1246,4,kibaakir,kibaakir,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-5-1,,kuwa1246,5,hutok,hutok,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-6-1,,kuwa1246,6,hutok ni hifeeneŋ,hutok ni hifeeneŋ,[],( 5 + 1 ),[],,False,Kwatay.htm,False,,1
+kuwa1246-7-1,,kuwa1246,7,hutok nu kúsuba,hutok nu kúsuba,[],( 5 + 2 ),[],,False,Kwatay.htm,False,,1
+kuwa1246-8-1,,kuwa1246,8,hutok ni kíhaaji,hutok ni kíhaaji,[],( 5 + 3 ),[],,False,Kwatay.htm,False,,1
+kuwa1246-9-1,,kuwa1246,9,hutok ni kibaakir,hutok ni kibaakir,[],( 5 + 4 ),[],,False,Kwatay.htm,False,,1
+kuwa1246-10-1,,kuwa1246,10,sumoŋu,sumoŋu,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-11-1,,kuwa1246,11,sumoŋu ni hifeeneŋ,sumoŋu ni hifeeneŋ,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-12-1,,kuwa1246,12,sumoŋu nu kúsuba,sumoŋu nu kúsuba,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-13-1,,kuwa1246,13,sumoŋu ni kíhaaji,sumoŋu ni kíhaaji,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-14-1,,kuwa1246,14,sumoŋu ni kibaakir,sumoŋu ni kibaakir,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-15-1,,kuwa1246,15,sumoŋu nu hutok,sumoŋu nu hutok,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-16-1,,kuwa1246,16,sumoŋu nu hutok ni hifeeneŋ,sumoŋu nu hutok ni hifeeneŋ,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-17-1,,kuwa1246,17,sumoŋu nu hutok nu kúsuba,sumoŋu nu hutok nu kúsuba,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-18-1,,kuwa1246,18,sumoŋu nu hutok ni kíhaaji,sumoŋu nu hutok ni kíhaaji,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-19-1,,kuwa1246,19,sumoŋu nu hutok ni kibaakir,sumoŋu nu hutok ni kibaakir,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-20-1,,kuwa1246,20,butuman,butuman,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-21-1,,kuwa1246,21,butuman ni hifeeneŋ,butuman ni hifeeneŋ,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-22-1,,kuwa1246,22,butuman nu kúsuba,butuman nu kúsuba,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-23-1,,kuwa1246,23,butuman ni kíhaaji,butuman ni kíhaaji,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-24-1,,kuwa1246,24,butuman ni kibaakir,butuman ni kibaakir,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-25-1,,kuwa1246,25,butuman nu hutok,butuman nu hutok,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-26-1,,kuwa1246,26,butuman nu hutok ni hifeeneŋ,butuman nu hutok ni hifeeneŋ,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-27-1,,kuwa1246,27,butuman nu hutok nu kúsuba,butuman nu hutok nu kúsuba,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-28-1,,kuwa1246,28,butuman nu hutok ni kíhaaji,butuman nu hutok ni kíhaaji,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-29-1,,kuwa1246,29,butuman nu hutok ni kibaakir,butuman nu hutok ni kibaakir,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-30-1,,kuwa1246,30,butuman nu sumoŋu,butuman nu sumoŋu,[],( 20 + 10),[],,False,Kwatay.htm,False,,1
+kuwa1246-40-1,,kuwa1246,40,bakan bákasuba,bakan bákasuba,[],( ' persons two '),[],,False,Kwatay.htm,False,,1
+kuwa1246-50-1,,kuwa1246,50,bakan bákasuba nu sumoŋu,bakan bákasuba nu sumoŋu,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-60-1,,kuwa1246,60,bakan bákahaaji,bakan bákahaaji,[],(' persons three '),[],,False,Kwatay.htm,False,,1
+kuwa1246-70-1,,kuwa1246,70,bakan bákahaaji nu sumoŋu,bakan bákahaaji nu sumoŋu,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-80-1,,kuwa1246,80,bakan bákabaakir,bakan bákabaakir,[],( ' persons four '),[],,False,Kwatay.htm,False,,1
+kuwa1246-90-1,,kuwa1246,90,bakan bákabaakir nu sumoŋu,bakan bákabaakir nu sumoŋu,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-100-1,,kuwa1246,100,temer,temer,[],< Wolof ,[],,True,Kwatay.htm,False,,1
+kuwa1246-200-1,,kuwa1246,200,sitemer súsuba,sitemer súsuba,[],,[],,False,Kwatay.htm,False,,1
+kuwa1246-1000-1,,kuwa1246,1000,ẽñjune,ẽñjune,[],< Wolof ,[],,True,Kwatay.htm,False,,1
+kuwa1246-2000-1,,kuwa1246,2000,súñjune súsuba,súñjune súsuba,[],,[],,False,Kwatay.htm,False,,1

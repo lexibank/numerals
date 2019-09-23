@@ -1,0 +1,18 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+para1310-1-1,,para1310,1,anane,anane,[],,[],,False,Arara-of-Para.htm,False,,1
+para1310-2-1,,para1310,2,adak,adak,[],"( lit: ''pair, two'' )",[],,False,Arara-of-Para.htm,False,,1
+para1310-3-1,,para1310,3,adak anane,adak anane,[],( 2 + 1 ),[],,False,Arara-of-Para.htm,False,,1
+para1310-4-1,,para1310,4,adak adak,adak adak,[],( 2 + 2 ),[],,False,Arara-of-Para.htm,False,,1
+para1310-5-1,,para1310,5,adak adak anane or iedune,adak adak anane or iedune,[],"( litː ''of a hand'', (i)edune ''one side'')",[],,False,Arara-of-Para.htm,True,,1
+para1310-6-1,,para1310,6,adak adak adak,adak adak adak,[],( 2 + 2 + 2  ),[],,False,Arara-of-Para.htm,False,,1
+para1310-7-1,,para1310,7,adak adak adak anane,adak adak adak anane,[],( 2 + 2 + 2 + 1 ),[],,False,Arara-of-Para.htm,False,,1
+para1310-8-1,,para1310,8,adak adak adak adak,adak adak adak adak,[],( 2 + 2 + 2 + 2 ),[],,False,Arara-of-Para.htm,False,,1
+para1310-9-1,,para1310,9,adak adak adak adak anane,adak adak adak adak anane,[],( 2 + 2 + 2 + 2 + 1 ),[],,False,Arara-of-Para.htm,False,,1
+para1310-10-1,,para1310,10,"lit: 'omiat ''hand'', pene ''and (post-position)''",lit: 'omiat ''hand'',[],,[],,False,Arara-of-Para.htm,True,omiat omiat pene,1
+para1310-10-2,,para1310,10,"lit: 'omiat ''hand'', pene ''and (post-position)''",pene ''and (post-position)'',[],,[],,False,Arara-of-Para.htm,True,omiat omiat pene,1
+para1310-11-1,,para1310,11,aɡomi,aɡomi,[],(lit: ''minimal finger'' ),[],,False,Arara-of-Para.htm,False,,1
+para1310-12-1,,para1310,12,ibok aɡomi,ibok aɡomi,[],(lit: ibok ''over'' ),[],,False,Arara-of-Para.htm,False,,1
+para1310-13-1,,para1310,13,iɾoptalɯ,iɾoptalɯ,[],(lit: ''the one from the middle''),[],,False,Arara-of-Para.htm,False,,1
+para1310-14-1,,para1310,14,iɾoptalɯ imɯ,iɾoptalɯ imɯ,[],"(lit: imɯ ''big, father'' )",[],,False,Arara-of-Para.htm,False,,1
+para1310-15-1,,para1310,15,omiat omiat puɡuŋo edune,omiat omiat puɡuŋo edune,[],(lit: ''hand plus hand and foot one side'' ),[],,False,Arara-of-Para.htm,False,,1
+para1310-20-1,,para1310,20,omiat omiat puɡuŋo puɡuŋo ( lit: puɡuŋo ''foot'' ) = two hands and two feet,omiat omiat puɡuŋo puɡuŋo ( lit: puɡuŋo ''foot'' ) = two hands and two feet,[],,[],,False,Arara-of-Para.htm,True,,1

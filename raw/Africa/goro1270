@@ -1,0 +1,84 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+goro1270-1-1,,goro1270,1,wák,wák,[],,[],,False,Gorowa.htm,False,,1
+goro1270-1-2,,goro1270,1,wak,wak,[],,[],,False,Gorowa.htm,False,,2
+goro1270-2-1,,goro1270,2,ts’ár,ts’ár,[],,[],,False,Gorowa.htm,False,,1
+goro1270-2-2,,goro1270,2,tsʼar,tsʼar,[],,[],,False,Gorowa.htm,False,,2
+goro1270-3-1,,goro1270,3,tám,tám,[],,[],,False,Gorowa.htm,False,,1
+goro1270-3-2,,goro1270,3,tám,tám,[],,[],,False,Gorowa.htm,False,,2
+goro1270-4-1,,goro1270,4,ts’iyéħ,ts’iyéħ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-4-2,,goro1270,4,tsʼiyáħ,tsʼiyáħ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-5-1,,goro1270,5,koɁán,koɁán,[],,[],,False,Gorowa.htm,False,,1
+goro1270-5-2,,goro1270,5,kooʔán,kooʔán,[],,[],,False,Gorowa.htm,False,,2
+goro1270-6-1,,goro1270,6,leħó,leħó,[],,[],,False,Gorowa.htm,False,,1
+goro1270-6-2,,goro1270,6,laħóoʔ,laħóoʔ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-7-1,,goro1270,7,faːnqʷʼ,faːnqʷʼ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-7-2,,goro1270,7,fâanqʼw,fâanqʼw,[],,[],,False,Gorowa.htm,False,,2
+goro1270-8-1,,goro1270,8,daká:t,daká:t,[],,[],,False,Gorowa.htm,False,,1
+goro1270-8-2,,goro1270,8,dakáat,dakáat,[],,[],,False,Gorowa.htm,False,,2
+goro1270-9-1,,goro1270,9,gwalé:l,gwalé:l,[],,[],,False,Gorowa.htm,False,,1
+goro1270-9-2,,goro1270,9,ɡwaléel,ɡwaléel,[],,[],,False,Gorowa.htm,False,,2
+goro1270-9-3,,goro1270,9,ɡweléel,ɡweléel,[],,[],,False,Gorowa.htm,False,,2
+goro1270-10-1,,goro1270,10,miba:nɡʷ,miba:nɡʷ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-10-2,,goro1270,10,mibaanɡw,mibaanɡw,[],,[],,False,Gorowa.htm,False,,2
+goro1270-11-1,,goro1270,11,miba#ne:#wák,miba#ne:#wák,[],,[],,False,Gorowa.htm,False,,1
+goro1270-11-2,,goro1270,11,mibaanɡw nee wák,mibaanɡw nee wák,[],,[],,False,Gorowa.htm,False,,2
+goro1270-12-1,,goro1270,12,miba#ne:#tsár,miba#ne:#tsár,[],,[],,False,Gorowa.htm,False,,1
+goro1270-12-2,,goro1270,12,mibaanɡw nee tsár,mibaanɡw nee tsár,[],,[],,False,Gorowa.htm,False,,2
+goro1270-13-1,,goro1270,13,miba#ne:#tám,miba#ne:#tám,[],,[],,False,Gorowa.htm,False,,1
+goro1270-13-2,,goro1270,13,mibaanɡw nee tám,mibaanɡw nee tám,[],,[],,False,Gorowa.htm,False,,2
+goro1270-14-1,,goro1270,14,miba#ne:#ts’iyéħ,miba#ne:#ts’iyéħ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-14-2,,goro1270,14,mibaanɡw nee tsíyáħ,mibaanɡw nee tsíyáħ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-15-1,,goro1270,15,miba#ne:#koɁán,miba#ne:#koɁán,[],,[],,False,Gorowa.htm,False,,1
+goro1270-15-2,,goro1270,15,mibaanɡw nee kooán,mibaanɡw nee kooán,[],,[],,False,Gorowa.htm,False,,2
+goro1270-16-1,,goro1270,16,miba#ne:#leħó,miba#ne:#leħó,[],,[],,False,Gorowa.htm,False,,1
+goro1270-16-2,,goro1270,16,mibaanɡw nee laħoóʔ,mibaanɡw nee laħoóʔ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-17-1,,goro1270,17,miba#ne# faːnqʷʼ,miba#ne# faːnqʷʼ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-17-2,,goro1270,17,mibaanɡw nee faaɴw,mibaanɡw nee faaɴw,[],,[],,False,Gorowa.htm,False,,2
+goro1270-18-1,,goro1270,18,miba#ne#daká:t,miba#ne#daká:t,[],,[],,False,Gorowa.htm,False,,1
+goro1270-18-2,,goro1270,18,mibaanɡw nee dakaát,mibaanɡw nee dakaát,[],,[],,False,Gorowa.htm,False,,2
+goro1270-19-1,,goro1270,19,miba#ne#gwalé:l,miba#ne#gwalé:l,[],,[],,False,Gorowa.htm,False,,1
+goro1270-19-2,,goro1270,19,mibaanɡw nee ɡwaleél,mibaanɡw nee ɡwaleél,[],,[],,False,Gorowa.htm,False,,2
+goro1270-20-1,,goro1270,20,mibe:rí#tsár,mibe:rí#tsár,[],,[],,False,Gorowa.htm,False,,1
+goro1270-20-2,,goro1270,20,mibeeriʔ tsʼár,mibeeriʔ tsʼár,[],,[],,False,Gorowa.htm,False,,2
+goro1270-21-1,,goro1270,21,mibe:rí#tsár#ne#wák,mibe:rí#tsár#ne#wák,[],,[],,False,Gorowa.htm,False,,1
+goro1270-21-2,,goro1270,21,mibeeriʔ tsʼár nee wak,mibeeriʔ tsʼár nee wak,[],,[],,False,Gorowa.htm,False,,2
+goro1270-22-1,,goro1270,22,mibe:rí#tsár#ne#tsár,mibe:rí#tsár#ne#tsár,[],,[],,False,Gorowa.htm,False,,1
+goro1270-22-2,,goro1270,22,mibeeriʔ tsʼár nee tsár,mibeeriʔ tsʼár nee tsár,[],,[],,False,Gorowa.htm,False,,2
+goro1270-23-1,,goro1270,23,mibe:rí#tsár#ne#tám,mibe:rí#tsár#ne#tám,[],,[],,False,Gorowa.htm,False,,1
+goro1270-23-2,,goro1270,23,mibeeriʔ tsʼár nee tám,mibeeriʔ tsʼár nee tám,[],,[],,False,Gorowa.htm,False,,2
+goro1270-24-1,,goro1270,24,mibe:rí#tsár#ne#ts’iyéħ,mibe:rí#tsár#ne#ts’iyéħ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-24-2,,goro1270,24,mibeeriʔ tsʼár nee tsíyáħ,mibeeriʔ tsʼár nee tsíyáħ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-25-1,,goro1270,25,mibe:rí#tsár#ne#koɁán,mibe:rí#tsár#ne#koɁán,[],,[],,False,Gorowa.htm,False,,1
+goro1270-25-2,,goro1270,25,mibeeriʔ tsʼár nee kooán,mibeeriʔ tsʼár nee kooán,[],,[],,False,Gorowa.htm,False,,2
+goro1270-26-1,,goro1270,26,mibe:rí#tsár#ne#leħó,mibe:rí#tsár#ne#leħó,[],,[],,False,Gorowa.htm,False,,1
+goro1270-26-2,,goro1270,26,mibeeriʔ tsʼár nee laħoóʔ,mibeeriʔ tsʼár nee laħoóʔ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-27-1,,goro1270,27,mibe:rí#tsár#ne# faːnqʷʼ,mibe:rí#tsár#ne# faːnqʷʼ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-27-2,,goro1270,27,mibeeriʔ tsʼár nee faaɴw,mibeeriʔ tsʼár nee faaɴw,[],,[],,False,Gorowa.htm,False,,2
+goro1270-28-1,,goro1270,28,mibe:rí#tsár#ne#daká:t,mibe:rí#tsár#ne#daká:t,[],,[],,False,Gorowa.htm,False,,1
+goro1270-28-2,,goro1270,28,mibeeriʔ tsʼár nee dakaát,mibeeriʔ tsʼár nee dakaát,[],,[],,False,Gorowa.htm,False,,2
+goro1270-29-1,,goro1270,29,[mibe:rí#tsár#ne#gwalé:l,[mibe:rí#tsár#ne#gwalé:l,[],,[],,False,Gorowa.htm,True,,1
+goro1270-29-2,,goro1270,29,mibeeriʔ tsʼár nee ɡwaleél,mibeeriʔ tsʼár nee ɡwaleél,[],,[],,False,Gorowa.htm,False,,2
+goro1270-30-1,,goro1270,30,mibe:rí#tám,mibe:rí#tám,[],,[],,False,Gorowa.htm,False,,1
+goro1270-30-2,,goro1270,30,mibeeriʔ tám,mibeeriʔ tám,[],,[],,False,Gorowa.htm,False,,2
+goro1270-40-1,,goro1270,40,mibe:rí#ts’iyéħ,mibe:rí#ts’iyéħ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-40-2,,goro1270,40,mibeeriʔ tsíyáħ,mibeeriʔ tsíyáħ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-50-1,,goro1270,50,mibe:rí#koɁán,mibe:rí#koɁán,[],,[],,False,Gorowa.htm,False,,1
+goro1270-50-2,,goro1270,50,mibeeriʔ kooán,mibeeriʔ kooán,[],,[],,False,Gorowa.htm,False,,2
+goro1270-60-1,,goro1270,60,mibe:rí#leħó,mibe:rí#leħó,[],,[],,False,Gorowa.htm,False,,1
+goro1270-60-2,,goro1270,60,mibeeriʔ laħoóʔ,mibeeriʔ laħoóʔ,[],,[],,False,Gorowa.htm,False,,2
+goro1270-70-1,,goro1270,70,mibe:rí#faːnqʷʼ,mibe:rí#faːnqʷʼ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-70-2,,goro1270,70,mibeeriʔ faaɴw,mibeeriʔ faaɴw,[],,[],,False,Gorowa.htm,False,,2
+goro1270-80-1,,goro1270,80,mibe:rí#daká:t,mibe:rí#daká:t,[],,[],,False,Gorowa.htm,False,,1
+goro1270-80-2,,goro1270,80,mibeeriʔ dakaát,mibeeriʔ dakaát,[],,[],,False,Gorowa.htm,False,,2
+goro1270-90-1,,goro1270,90,mibe:rí#gwalé:l,mibe:rí#gwalé:l,[],,[],,False,Gorowa.htm,False,,1
+goro1270-90-2,,goro1270,90,mibeeriʔ ɡwaleél,mibeeriʔ ɡwaleél,[],,[],,False,Gorowa.htm,False,,2
+goro1270-100-1,,goro1270,100,ts’iru,ts’iru,[],,[],,False,Gorowa.htm,False,,1
+goro1270-100-2,,goro1270,100,ts’ireé#tsár,ts’ireé#tsár,[],,[],,False,Gorowa.htm,False,200.,1
+goro1270-100-3,,goro1270,100,tsʼiiru,tsʼiiru,[],,[],,False,Gorowa.htm,False,,2
+goro1270-200-1,,goro1270,200,tsʼiire tsʼár,tsʼiire tsʼár,[],,[],,False,Gorowa.htm,False,,2
+goro1270-400-1,,goro1270,400,ts’ireé#ts’iyéħ,ts’ireé#ts’iyéħ,[],,[],,False,Gorowa.htm,False,,1
+goro1270-1000-1,,goro1270,1000,kumá or [kumá#wák],kumá or [kumá#wák],[],( 100 x 10 ),[],,False,Gorowa.htm,True,,1
+goro1270-1000-2,,goro1270,1000,kumu,kumu,[],,[],,False,Gorowa.htm,False,,2
+goro1270-1000-3,,goro1270,1000,tsʼiirrér mibaanɡw,tsʼiirrér mibaanɡw,[],( 100 x 10 ),[],,False,Gorowa.htm,False,,2
+goro1270-2000-1,,goro1270,2000,kumeé#tsár,kumeé#tsár,[],,[],,False,Gorowa.htm,False,,1
+goro1270-2000-2,,goro1270,2000,kummér tsʼár,kummér tsʼár,[],,[],,False,Gorowa.htm,False,,2

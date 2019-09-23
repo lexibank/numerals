@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+yiry1245-1-1,,yiry1245,1,yirr,yirr,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-2-1,,yiry1245,2,koyrr,koyrr,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-3-1,,yiry1245,3,wapayrr,wapayrr,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-4-1,,yiry1245,4,morr-maq,morr-maq,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-5-1,,yiry1245,5,yor-thelemrr,yor-thelemrr,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-6-1,,yiry1245,6,pul-koyrr or wapayrr-wapayrr,pul-koyrr or wapayrr-wapayrr,[],,[],,False,Yir-Yoront.htm,True,,1
+yiry1245-7-1,,yiry1245,7,yor-thelemrr yor-mart koyrr,yor-thelemrr yor-mart koyrr,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-8-1,,yiry1245,8,yor-thelemrr yor-mart wapayrr,yor-thelemrr yor-mart wapayrr,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-9-1,,yiry1245,9,yor-thelemrr morr-maq,yor-thelemrr morr-maq,[],,[],,False,Yir-Yoront.htm,False,,1
+yiry1245-10-1,,yiry1245,10,yor koyrr or yor-koyrr,yor koyrr or yor-koyrr,[],(lit: 'two hands'),[],,False,Yir-Yoront.htm,True,,1

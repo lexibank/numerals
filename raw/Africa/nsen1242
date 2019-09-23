@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nsen1242-1-1,,nsen1242,1,-môzi,-môzi,[],,[],,False,Senga.htm,False,,1
+nsen1242-2-1,,nsen1242,2,-ŵîli,-ŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-3-1,,nsen1242,3,-tâtu,-tâtu,[],,[],,False,Senga.htm,False,,1
+nsen1242-4-1,,nsen1242,4,-nâi,-nâi,[],,[],,False,Senga.htm,False,,1
+nsen1242-5-1,,nsen1242,5,-sanu,-sanu,[],,[],,False,Senga.htm,False,,1
+nsen1242-6-1,,nsen1242,6,-sanu na -môzi,-sanu na -môzi,[],( 5 + 1 ),[],,False,Senga.htm,False,,1
+nsen1242-7-1,,nsen1242,7,-sanu na -ŵîli,-sanu na -ŵîli,[],( 5 + 2 ),[],,False,Senga.htm,False,,1
+nsen1242-8-1,,nsen1242,8,-sanu na -tátu,-sanu na -tátu,[],( 5 + 3 ),[],,False,Senga.htm,False,,1
+nsen1242-9-1,,nsen1242,9,-sanu na -nâi,-sanu na -nâi,[],( 5 + 4 ),[],,False,Senga.htm,False,,1
+nsen1242-10-1,,nsen1242,10,kʰûmi,kʰûmi,[],,[],,False,Senga.htm,False,,1
+nsen1242-11-1,,nsen1242,11,kʰûmi na -môzi,kʰûmi na -môzi,[],,[],,False,Senga.htm,False,,1
+nsen1242-12-1,,nsen1242,12,kʰûmi na -ŵîli,kʰûmi na -ŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-13-1,,nsen1242,13,kʰûmi na -tátu,kʰûmi na -tátu,[],,[],,False,Senga.htm,False,,1
+nsen1242-14-1,,nsen1242,14,kʰûmi na -nái,kʰûmi na -nái,[],,[],,False,Senga.htm,False,,1
+nsen1242-15-1,,nsen1242,15,kʰûmi na -sanu,kʰûmi na -sanu,[],,[],,False,Senga.htm,False,,1
+nsen1242-16-1,,nsen1242,16,kʰûmi na -sanu na -môzi,kʰûmi na -sanu na -môzi,[],,[],,False,Senga.htm,False,,1
+nsen1242-17-1,,nsen1242,17,kʰûmi na -sanu na -ŵîli,kʰûmi na -sanu na -ŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-18-1,,nsen1242,18,kʰûmi na -sanu na -tátu,kʰûmi na -sanu na -tátu,[],,[],,False,Senga.htm,False,,1
+nsen1242-19-1,,nsen1242,19,kʰûmi na -sanu na -nái,kʰûmi na -sanu na -nái,[],,[],,False,Senga.htm,False,,1
+nsen1242-20-1,,nsen1242,20,makúmí áŵîli,makúmí áŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-21-1,,nsen1242,21,makúmí áŵîli na -môzi,makúmí áŵîli na -môzi,[],,[],,False,Senga.htm,False,,1
+nsen1242-22-1,,nsen1242,22,makúmí áŵîli na -ŵîli,makúmí áŵîli na -ŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-23-1,,nsen1242,23,makúmí áŵîli na -tátu,makúmí áŵîli na -tátu,[],,[],,False,Senga.htm,False,,1
+nsen1242-24-1,,nsen1242,24,makúmí áŵîli na -nâi,makúmí áŵîli na -nâi,[],,[],,False,Senga.htm,False,,1
+nsen1242-25-1,,nsen1242,25,makúmí áŵîli na -sanu,makúmí áŵîli na -sanu,[],,[],,False,Senga.htm,False,,1
+nsen1242-26-1,,nsen1242,26,makúmí áŵîli na -sanu na -môzi,makúmí áŵîli na -sanu na -môzi,[],,[],,False,Senga.htm,False,,1
+nsen1242-27-1,,nsen1242,27,makúmí áŵîli na -sanu na -ŵîli,makúmí áŵîli na -sanu na -ŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-28-1,,nsen1242,28,makúmí áŵîli na -sanu na -tátu,makúmí áŵîli na -sanu na -tátu,[],,[],,False,Senga.htm,False,,1
+nsen1242-29-1,,nsen1242,29,makúmí áŵîli na -sanu na -nâi,makúmí áŵîli na -sanu na -nâi,[],,[],,False,Senga.htm,False,,1
+nsen1242-30-1,,nsen1242,30,makúmí átátu,makúmí átátu,[],,[],,False,Senga.htm,False,,1
+nsen1242-40-1,,nsen1242,40,makúmí ánái,makúmí ánái,[],,[],,False,Senga.htm,False,,1
+nsen1242-50-1,,nsen1242,50,makúmí asanu,makúmí asanu,[],,[],,False,Senga.htm,False,,1
+nsen1242-60-1,,nsen1242,60,makúmí asanu na (kʰúmí) limôzi,makúmí asanu na (kʰúmí) limôzi,[],,[],,False,Senga.htm,False,,1
+nsen1242-70-1,,nsen1242,70,makúmí asanu na (makʰúmí) aŵîli,makúmí asanu na (makʰúmí) aŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-80-1,,nsen1242,80,makúmí asanu na (makʰúmí) atátu,makúmí asanu na (makʰúmí) atátu,[],,[],,False,Senga.htm,False,,1
+nsen1242-90-1,,nsen1242,90,makúmí asanu na (makʰúmí) anâi,makúmí asanu na (makʰúmí) anâi,[],,[],,False,Senga.htm,False,,1
+nsen1242-100-1,,nsen1242,100,makúmí kʰûmi,makúmí kʰûmi,[],( 10 x 10 ),[],,False,Senga.htm,False,,1
+nsen1242-200-1,,nsen1242,200,makúmí kʰûmi áŵîli,makúmí kʰûmi áŵîli,[],,[],,False,Senga.htm,False,,1
+nsen1242-1000-1,,nsen1242,1000,zana,zana,[],,[],,False,Senga.htm,False,,1
+nsen1242-2000-1,,nsen1242,2000,mazana áŵîli,mazana áŵîli,[],,[],,False,Senga.htm,False,,1

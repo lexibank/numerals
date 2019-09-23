@@ -1,0 +1,56 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kela1255-1-1,,kela1255,1,ˈnuã,ˈnuã,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-1-2,,kela1255,1,tumeme,tumeme,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-1-3,,kela1255,1,tunome,tunome,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-1-4,,kela1255,1,taumuna,taumuna,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-2-1,,kela1255,2,ˈɾua,ˈɾua,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-2-2,,kela1255,2,lua,lua,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-2-3,,kela1255,2,rua,rua,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-3-1,,kela1255,3,taˈɾawa,taˈɾawa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-3-2,,kela1255,3,tarawa,tarawa,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-4-1,,kela1255,4,ŋa,ŋa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-4-2,,kela1255,4,nɡa,nɡa,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-4-3,,kela1255,4,ŋai,ŋai,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-5-1,,kela1255,5,ˈɾita,ˈɾita,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-5-2,,kela1255,5,lita,lita,[],( < lima ta ? =hand one ?),[],,False,Kala-Kela.htm,False,,2
+kela1255-6-1,,kela1255,6,ˈɾita ma ˈaŋa ˈnuã,ˈɾita ma ˈaŋa ˈnuã,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-6-2,,kela1255,6,lita manɡo nua,lita manɡo nua,[],(litː '' 5+1''),[],,False,Kala-Kela.htm,False,,2
+kela1255-7-1,,kela1255,7,'ɾita ma 'aŋa 'ɾua,'ɾita ma 'aŋa 'ɾua,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-7-2,,kela1255,7,lita manɡo lua,lita manɡo lua,[],(litː '' 5+2''),[],,False,Kala-Kela.htm,False,,2
+kela1255-8-1,,kela1255,8,ˈɾita ma ˈaŋa taˈɾawa,ˈɾita ma ˈaŋa taˈɾawa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-8-2,,kela1255,8,lita manɡo tarawa,lita manɡo tarawa,[],(litː '' 5+3''),[],,False,Kala-Kela.htm,False,,2
+kela1255-9-1,,kela1255,9,ˈɾita ma ˈaŋa ŋa,ˈɾita ma ˈaŋa ŋa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-9-2,,kela1255,9,lita manɡo nɡa,lita manɡo nɡa,[],(litː '' 5+4''),[],,False,Kala-Kela.htm,False,,2
+kela1255-10-1,,kela1255,10,ˈtaume,ˈtaume,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-10-2,,kela1255,10,taomo,taomo,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-10-3,,kela1255,10,taumen,taumen,[],,[],,False,Kala-Kela.htm,False,,2
+kela1255-11-1,,kela1255,11,ˈtaume ma ˈaŋa ˈnuã,ˈtaume ma ˈaŋa ˈnuã,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-12-1,,kela1255,12,ˈtaume ma ˈaŋa ˈɾua,ˈtaume ma ˈaŋa ˈɾua,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-13-1,,kela1255,13,ˈtaume ma ˈaŋa taˈɾawa,ˈtaume ma ˈaŋa taˈɾawa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-14-1,,kela1255,14,ˈtaume ma ˈaŋa ŋa,ˈtaume ma ˈaŋa ŋa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-15-1,,kela1255,15,ˈtaume ma ˈaŋa ˈɾita,ˈtaume ma ˈaŋa ˈɾita,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-16-1,,kela1255,16,ˈtaume ma ˈaŋa ˈɾita ma aŋa ˈnuã,ˈtaume ma ˈaŋa ˈɾita ma aŋa ˈnuã,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-17-1,,kela1255,17,ˈtaume ma ˈaŋa ˈɾita ma aŋa ˈɾua,ˈtaume ma ˈaŋa ˈɾita ma aŋa ˈɾua,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-18-1,,kela1255,18,ˈtaume ma ˈaŋa ˈɾita ma aŋa taˈɾawa,ˈtaume ma ˈaŋa ˈɾita ma aŋa taˈɾawa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-19-1,,kela1255,19,ˈtaume ma ˈaŋa ˈɾita ma aŋa ŋa,ˈtaume ma ˈaŋa ˈɾita ma aŋa ŋa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-20-1,,kela1255,20,ˈtambu ˈnuã,ˈtambu ˈnuã,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-21-1,,kela1255,21,ˈtambu ˈnuã ma ˈaŋa ˈnuã,ˈtambu ˈnuã ma ˈaŋa ˈnuã,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-22-1,,kela1255,22,ˈtambu ˈnuã ma ˈaŋa ˈɾua,ˈtambu ˈnuã ma ˈaŋa ˈɾua,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-23-1,,kela1255,23,ˈtambu ˈnuã ma ˈaŋa taˈɾawa,ˈtambu ˈnuã ma ˈaŋa taˈɾawa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-24-1,,kela1255,24,ˈtambu ˈnuã ma ˈaŋa ŋa,ˈtambu ˈnuã ma ˈaŋa ŋa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-25-1,,kela1255,25,ˈtambu ˈnuã ma ˈaŋa ˈɾita,ˈtambu ˈnuã ma ˈaŋa ˈɾita,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-26-1,,kela1255,26,ˈtambu ˈnuã ma ˈaŋa ˈɾita ma ˈaŋa ˈnuã,ˈtambu ˈnuã ma ˈaŋa ˈɾita ma ˈaŋa ˈnuã,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-27-1,,kela1255,27,ˈtambu ˈnuã ma ˈaŋa ˈɾita ma ˈaŋa ˈɾua,ˈtambu ˈnuã ma ˈaŋa ˈɾita ma ˈaŋa ˈɾua,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-28-1,,kela1255,28,ˈtambu ˈnuã ma ˈaŋa ˈɾita ma ˈaŋa taˈɾawa,ˈtambu ˈnuã ma ˈaŋa ˈɾita ma ˈaŋa taˈɾawa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-29-1,,kela1255,29,ˈtambu ˈnuã ma ˈaŋa ˈɾitaa ma ˈaŋa ŋa,ˈtambu ˈnuã ma ˈaŋa ˈɾitaa ma ˈaŋa ŋa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-30-1,,kela1255,30,ˈtambu ˈnuã ma ˈaŋa ˈtaume,ˈtambu ˈnuã ma ˈaŋa ˈtaume,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-40-1,,kela1255,40,ˈtambu ˈɾua,ˈtambu ˈɾua,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-50-1,,kela1255,50,ˈtambu ˈɾua ma ˈaŋa ˈtaume,ˈtambu ˈɾua ma ˈaŋa ˈtaume,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-60-1,,kela1255,60,ˈtambu taˈɾawa,ˈtambu taˈɾawa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-70-1,,kela1255,70,ˈtambu taˈɾawa ma ˈaŋa ˈtaume,ˈtambu taˈɾawa ma ˈaŋa ˈtaume,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-80-1,,kela1255,80,ˈtambu ŋa,ˈtambu ŋa,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-90-1,,kela1255,90,ˈtambu ŋa ma ˈaŋa ˈtaume,ˈtambu ŋa ma ˈaŋa ˈtaume,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-100-1,,kela1255,100,ˈtambu ˈɾita,ˈtambu ˈɾita,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-200-1,,kela1255,200,tambu ˈtaume,tambu ˈtaume,[],,[],,False,Kala-Kela.htm,False,,1
+kela1255-1000-1,,kela1255,1000,use Tok Pisin,use Tok Pisin,[],,[],,False,Kala-Kela.htm,True,,1
+kela1255-2000-1,,kela1255,2000,use Tok Pisin,use Tok Pisin,[],,[],,False,Kala-Kela.htm,True,,1

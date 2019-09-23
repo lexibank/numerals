@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+hama1240-1-1,,hama1240,1,nu,nu,[],,[],,False,Hamap.htm,False,,1
+hama1240-2-1,,hama1240,2,alo,alo,[],,[],,False,Hamap.htm,False,,1
+hama1240-3-1,,hama1240,3,tof,tof,[],,[],,False,Hamap.htm,False,,1
+hama1240-4-1,,hama1240,4,ut,ut,[],,[],,False,Hamap.htm,False,,1
+hama1240-5-1,,hama1240,5,ivehiŋ,ivehiŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-6-1,,hama1240,6,talaŋ,talaŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-7-1,,hama1240,7,itito,itito,[],('seven three'),[],,False,Hamap.htm,False,,1
+hama1240-8-1,,hama1240,8,turalo,turalo,[],( 'ten minus two'),[],,False,Hamap.htm,False,,1
+hama1240-9-1,,hama1240,9,tieu,tieu,[],( 'ten minus one'),[],,False,Hamap.htm,False,,1
+hama1240-10-1,,hama1240,10,air nu,air nu,[],,[],,False,Hamap.htm,False,,1
+hama1240-11-1,,hama1240,11,air nu faliŋ nu ???,air nu faliŋ nu ???,[],,[],,False,Hamap.htm,True,,1
+hama1240-12-1,,hama1240,12,ʡɛr nu faliŋ alo,ʡɛr nu faliŋ alo,[],,[],,False,Hamap.htm,False,,1
+hama1240-13-1,,hama1240,13,ʡɛr nu faliŋ tof,ʡɛr nu faliŋ tof,[],,[],,False,Hamap.htm,False,,1
+hama1240-14-1,,hama1240,14,ʡɛr nu faliŋ ut,ʡɛr nu faliŋ ut,[],,[],,False,Hamap.htm,False,,1
+hama1240-15-1,,hama1240,15,ʡɛr nu faliŋ ivehiŋ,ʡɛr nu faliŋ ivehiŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-16-1,,hama1240,16,ʡɛr nu faliŋ talaŋ,ʡɛr nu faliŋ talaŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-17-1,,hama1240,17,ʡɛr nu faliŋ itito,ʡɛr nu faliŋ itito,[],,[],,False,Hamap.htm,False,,1
+hama1240-18-1,,hama1240,18,ʡɛr nu faliŋ turalo,ʡɛr nu faliŋ turalo,[],,[],,False,Hamap.htm,False,,1
+hama1240-19-1,,hama1240,19,ʡɛr nu faliŋ tieu,ʡɛr nu faliŋ tieu,[],,[],,False,Hamap.htm,False,,1
+hama1240-20-1,,hama1240,20,air alo,air alo,[],,[],,False,Hamap.htm,False,,1
+hama1240-21-1,,hama1240,21,air alo faliŋ nu,air alo faliŋ nu,[],,[],,False,Hamap.htm,False,,1
+hama1240-22-1,,hama1240,22,air alo faliŋ alo,air alo faliŋ alo,[],,[],,False,Hamap.htm,False,,1
+hama1240-23-1,,hama1240,23,air alo faliŋ tof,air alo faliŋ tof,[],,[],,False,Hamap.htm,False,,1
+hama1240-24-1,,hama1240,24,air alo faliŋ ut,air alo faliŋ ut,[],,[],,False,Hamap.htm,False,,1
+hama1240-25-1,,hama1240,25,air alo faliŋ ivehiŋ,air alo faliŋ ivehiŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-26-1,,hama1240,26,air alo faliŋ talaŋ,air alo faliŋ talaŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-27-1,,hama1240,27,air alo faliŋ itito,air alo faliŋ itito,[],,[],,False,Hamap.htm,False,,1
+hama1240-28-1,,hama1240,28,air alo faliŋ turalo,air alo faliŋ turalo,[],,[],,False,Hamap.htm,False,,1
+hama1240-29-1,,hama1240,29,air alo faliŋ tieu,air alo faliŋ tieu,[],,[],,False,Hamap.htm,False,,1
+hama1240-30-1,,hama1240,30,air tof,air tof,[],,[],,False,Hamap.htm,False,,1
+hama1240-40-1,,hama1240,40,air ut,air ut,[],,[],,False,Hamap.htm,False,,1
+hama1240-50-1,,hama1240,50,air ivehiŋ,air ivehiŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-60-1,,hama1240,60,air talaŋ,air talaŋ,[],,[],,False,Hamap.htm,False,,1
+hama1240-70-1,,hama1240,70,air itito,air itito,[],,[],,False,Hamap.htm,False,,1
+hama1240-80-1,,hama1240,80,air turalo,air turalo,[],,[],,False,Hamap.htm,False,,1
+hama1240-90-1,,hama1240,90,air tieu,air tieu,[],,[],,False,Hamap.htm,False,,1
+hama1240-100-1,,hama1240,100,rat nu,rat nu,[],,[],,False,Hamap.htm,False,,1
+hama1240-200-1,,hama1240,200,rat alo,rat alo,[],,[],,False,Hamap.htm,False,,1
+hama1240-1000-1,,hama1240,1000,??,??,[],,[],,False,Hamap.htm,True,,1
+hama1240-2000-1,,hama1240,2000,??,??,[],,[],,False,Hamap.htm,True,,1

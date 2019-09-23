@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mago1248-1-1,,mago1248,1,ana,ana,[],,[],,False,Magori.htm,False,,1
+mago1248-1-2,,mago1248,1,anaoni,anaoni,[],,[],,False,Magori.htm,False,,1
+mago1248-2-1,,mago1248,2,buau,buau,[],,[],,False,Magori.htm,False,,1
+mago1248-3-1,,mago1248,3,aiteri,aiteri,[],,[],,False,Magori.htm,False,,1
+mago1248-3-2,,mago1248,3,aiseri,aiseri,[],,[],,False,Magori.htm,False,,1
+mago1248-4-1,,mago1248,4,vati,vati,[],,[],,False,Magori.htm,False,,1
+mago1248-4-2,,mago1248,4,vasi,vasi,[],,[],,False,Magori.htm,False,,1
+mago1248-5-1,,mago1248,5,ima,ima,[],,[],,False,Magori.htm,False,,1
+mago1248-6-1,,mago1248,6,ima reria ana,ima reria ana,[],( 5 + 1 ),[],,False,Magori.htm,False,,1
+mago1248-7-1,,mago1248,7,ima reia buau,ima reia buau,[],( 5 + 2 ),[],,False,Magori.htm,False,,1
+mago1248-8-1,,mago1248,8,ima reria aiteri,ima reria aiteri,[],( 5 + 3 ),[],,False,Magori.htm,False,,1
+mago1248-9-1,,mago1248,9,ima reria vati,ima reria vati,[],( 5 + 4 ),[],,False,Magori.htm,False,,1
+mago1248-10-1,,mago1248,10,nanau ana,nanau ana,[],( 'nanau' < Magi),[],,True,Magori.htm,False,,1
+mago1248-11-1,,mago1248,11,nanau ana ana,nanau ana ana,[],,[],,False,Magori.htm,False,,1
+mago1248-12-1,,mago1248,12,nanau ana buau,nanau ana buau,[],,[],,False,Magori.htm,False,,1
+mago1248-13-1,,mago1248,13,nanau ana aiseri,nanau ana aiseri,[],,[],,False,Magori.htm,False,,1
+mago1248-14-1,,mago1248,14,nanau ana vasi,nanau ana vasi,[],,[],,False,Magori.htm,False,,1
+mago1248-15-1,,mago1248,15,nanau ana ima,nanau ana ima,[],,[],,False,Magori.htm,False,,1
+mago1248-16-1,,mago1248,16,nanau ana ima reria ana,nanau ana ima reria ana,[],,[],,False,Magori.htm,False,,1
+mago1248-17-1,,mago1248,17,nanau ana ima reria buau,nanau ana ima reria buau,[],,[],,False,Magori.htm,False,,1
+mago1248-18-1,,mago1248,18,nanau ana ima reria aiseri,nanau ana ima reria aiseri,[],,[],,False,Magori.htm,False,,1
+mago1248-19-1,,mago1248,19,nanau ana ima reria vasi,nanau ana ima reria vasi,[],,[],,False,Magori.htm,False,,1
+mago1248-20-1,,mago1248,20,nanau buau,nanau buau,[],,[],,False,Magori.htm,False,,1
+mago1248-21-1,,mago1248,21,nanau buau ana,nanau buau ana,[],,[],,False,Magori.htm,False,,1
+mago1248-22-1,,mago1248,22,nanau buau buau,nanau buau buau,[],,[],,False,Magori.htm,False,,1
+mago1248-23-1,,mago1248,23,nanau buau aiseri,nanau buau aiseri,[],,[],,False,Magori.htm,False,,1
+mago1248-24-1,,mago1248,24,nanau buau vasi,nanau buau vasi,[],,[],,False,Magori.htm,False,,1
+mago1248-25-1,,mago1248,25,nanau buau ima,nanau buau ima,[],,[],,False,Magori.htm,False,,1
+mago1248-26-1,,mago1248,26,nanau buau ima reria ana,nanau buau ima reria ana,[],,[],,False,Magori.htm,False,,1
+mago1248-27-1,,mago1248,27,nanau buau ima reria buau,nanau buau ima reria buau,[],,[],,False,Magori.htm,False,,1
+mago1248-28-1,,mago1248,28,nanau buau ima reria aiteri,nanau buau ima reria aiteri,[],,[],,False,Magori.htm,False,,1
+mago1248-29-1,,mago1248,29,nanau buau ima reria vasi,nanau buau ima reria vasi,[],,[],,False,Magori.htm,False,,1
+mago1248-30-1,,mago1248,30,nanau aiseri,nanau aiseri,[],,[],,False,Magori.htm,False,,1
+mago1248-40-1,,mago1248,40,nanau vasi,nanau vasi,[],,[],,False,Magori.htm,False,,1
+mago1248-50-1,,mago1248,50,nanau ima,nanau ima,[],,[],,False,Magori.htm,False,,1
+mago1248-60-1,,mago1248,60,nanau ima reria ana,nanau ima reria ana,[],,[],,False,Magori.htm,False,,1
+mago1248-70-1,,mago1248,70,nanau ima reria buau,nanau ima reria buau,[],,[],,False,Magori.htm,False,,1
+mago1248-80-1,,mago1248,80,nanau ima reria aiseri,nanau ima reria aiseri,[],,[],,False,Magori.htm,False,,1
+mago1248-90-1,,mago1248,90,nanau ima reria vasi,nanau ima reria vasi,[],,[],,False,Magori.htm,False,,1
+mago1248-100-1,,mago1248,100,wuwuru ana,wuwuru ana,[],('wuwuru' < Magi),[],,True,Magori.htm,False,,1
+mago1248-200-1,,mago1248,200,wuwuru buau,wuwuru buau,[],,[],,False,Magori.htm,False,,1
+mago1248-1000-1,,mago1248,1000,wuwuru ima buau,wuwuru ima buau,[],,[],,False,Magori.htm,False,,1
+mago1248-2000-1,,mago1248,2000,wuwuru ima vasi,wuwuru ima vasi,[],,[],,False,Magori.htm,False,,1

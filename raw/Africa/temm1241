@@ -1,0 +1,84 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+temm1241-1-1,,temm1241,1,káɔ́ɖe,káɔ́ɖe,[],,[],,False,Tem.htm,False,,1
+temm1241-1-2,,temm1241,1,káɔ́ɖe,káɔ́ɖe,[],,[],,False,Tem.htm,False,,2
+temm1241-2-1,,temm1241,2,sííɛ̀,sííɛ̀,[],,[],,False,Tem.htm,False,,1
+temm1241-2-2,,temm1241,2,sííɛ̀,sííɛ̀,[],,[],,False,Tem.htm,False,,2
+temm1241-3-1,,temm1241,3,tóózo,tóózo,[],,[],,False,Tem.htm,False,,1
+temm1241-3-2,,temm1241,3,tóózó,tóózó,[],,[],,False,Tem.htm,False,,2
+temm1241-4-1,,temm1241,4,nááza,nááza,[],,[],,False,Tem.htm,False,,1
+temm1241-4-2,,temm1241,4,náázá,náázá,[],,[],,False,Tem.htm,False,,2
+temm1241-5-1,,temm1241,5,nʊ́ʊ́wa,nʊ́ʊ́wa,[],,[],,False,Tem.htm,False,,1
+temm1241-5-2,,temm1241,5,nʊ́ʊ́wa,nʊ́ʊ́wa,[],,[],,False,Tem.htm,False,,2
+temm1241-6-1,,temm1241,6,loɖo,loɖo,[],,[],,False,Tem.htm,False,,1
+temm1241-6-2,,temm1241,6,loɖo,loɖo,[],,[],,False,Tem.htm,False,,2
+temm1241-7-1,,temm1241,7,lʊbɛ,lʊbɛ,[],,[],,False,Tem.htm,False,,1
+temm1241-7-2,,temm1241,7,lʊbɛ,lʊbɛ,[],,[],,False,Tem.htm,False,,2
+temm1241-8-1,,temm1241,8,lutoozo,lutoozo,[],,[],,False,Tem.htm,False,,1
+temm1241-8-2,,temm1241,8,lutoozo,lutoozo,[],,[],,False,Tem.htm,False,,2
+temm1241-9-1,,temm1241,9,kéénííré,kéénííré,[],,[],,False,Tem.htm,False,,1
+temm1241-9-2,,temm1241,9,kéénííré,kéénííré,[],,[],,False,Tem.htm,False,,2
+temm1241-10-1,,temm1241,10,fuú,fuú,[],,[],,False,Tem.htm,False,,1
+temm1241-10-2,,temm1241,10,fuú,fuú,[],,[],,False,Tem.htm,False,,2
+temm1241-11-1,,temm1241,11,fuú na nakírɪ,fuú na nakírɪ,[],,[],,False,Tem.htm,False,,1
+temm1241-11-2,,temm1241,11,fuú na nakʊ́ru,fuú na nakʊ́ru,[],,[],,False,Tem.htm,False,,2
+temm1241-12-1,,temm1241,12,fuú na natílɛ,fuú na natílɛ,[],,[],,False,Tem.htm,False,,1
+temm1241-12-2,,temm1241,12,fuú na natílɛ,fuú na natílɛ,[],,[],,False,Tem.htm,False,,2
+temm1241-13-1,,temm1241,13,fuú na natúdoozo,fuú na natúdoozo,[],,[],,False,Tem.htm,False,,1
+temm1241-13-2,,temm1241,13,fuú na natútoozo,fuú na natútoozo,[],,[],,False,Tem.htm,False,,2
+temm1241-14-1,,temm1241,14,fuú na natínáázá,fuú na natínáázá,[],,[],,False,Tem.htm,False,,1
+temm1241-14-2,,temm1241,14,fuú na natínáázá,fuú na natínáázá,[],,[],,False,Tem.htm,False,,2
+temm1241-15-1,,temm1241,15,ákɪzaalʊʊ́,ákɪzaalʊʊ́,[],,[],,False,Tem.htm,False,,1
+temm1241-15-2,,temm1241,15,ákizɔɔlʊʊ́,ákizɔɔlʊʊ́,[],,[],,False,Tem.htm,False,,2
+temm1241-16-1,,temm1241,16,ákɪzaalʊʊ́ na nakʊ́ru,ákɪzaalʊʊ́ na nakʊ́ru,[],(15 + 1),[],,False,Tem.htm,False,,1
+temm1241-16-2,,temm1241,16,ákizɔɔlʊʊ́ na nakʊ́ru,ákizɔɔlʊʊ́ na nakʊ́ru,[],( 15 + 1 ),[],,False,Tem.htm,False,,2
+temm1241-17-1,,temm1241,17,ákɪzaalʊʊ́ na natílɛ,ákɪzaalʊʊ́ na natílɛ,[],(15 + 2 ),[],,False,Tem.htm,False,,1
+temm1241-17-2,,temm1241,17,ákizɔɔlʊʊ́ na natílɛ,ákizɔɔlʊʊ́ na natílɛ,[],( 15 + 2 ),[],,False,Tem.htm,False,,2
+temm1241-18-1,,temm1241,18,ákɪzaalʊʊ́ na natútoozo,ákɪzaalʊʊ́ na natútoozo,[],(15 + 3 ),[],,False,Tem.htm,False,,1
+temm1241-18-2,,temm1241,18,ákizɔɔlʊʊ́ na natútoozo,ákizɔɔlʊʊ́ na natútoozo,[],( 15 + 3 ),[],,False,Tem.htm,False,,2
+temm1241-19-1,,temm1241,19,ákɪzaalʊʊ́ na natútoozo,ákɪzaalʊʊ́ na natútoozo,[],(15 + 4),[],,False,Tem.htm,False,,1
+temm1241-19-2,,temm1241,19,ákoowú nakʊ́rʊ fɛ́yí,ákoowú nakʊ́rʊ fɛ́yí,[],( 20 - 1 ),[],,False,Tem.htm,False,,2
+temm1241-20-1,,temm1241,20,ákoowú,ákoowú,[],,[],,False,Tem.htm,False,,1
+temm1241-20-2,,temm1241,20,ákoowú,ákoowú,[],,[],,False,Tem.htm,False,,2
+temm1241-21-1,,temm1241,21,ákoowú na nakírɪ,ákoowú na nakírɪ,[],,[],,False,Tem.htm,False,,1
+temm1241-21-2,,temm1241,21,ákoowú na nakʊ́ru,ákoowú na nakʊ́ru,[],,[],,False,Tem.htm,False,,2
+temm1241-22-1,,temm1241,22,ákoowú na natílɛ,ákoowú na natílɛ,[],,[],,False,Tem.htm,False,,1
+temm1241-22-2,,temm1241,22,ákoowú na natílɛ,ákoowú na natílɛ,[],,[],,False,Tem.htm,False,,2
+temm1241-23-1,,temm1241,23,ákoowú na natútoozo,ákoowú na natútoozo,[],,[],,False,Tem.htm,False,,1
+temm1241-23-2,,temm1241,23,ákoowú na natútoozo,ákoowú na natútoozo,[],,[],,False,Tem.htm,False,,2
+temm1241-24-1,,temm1241,24,ákoowú na natínáázá,ákoowú na natínáázá,[],,[],,False,Tem.htm,False,,1
+temm1241-24-2,,temm1241,24,ákoowú na natínáázá,ákoowú na natínáázá,[],,[],,False,Tem.htm,False,,2
+temm1241-25-1,,temm1241,25,ákoowú na natínʊ́ʊ́wa,ákoowú na natínʊ́ʊ́wa,[],,[],,False,Tem.htm,False,,1
+temm1241-25-2,,temm1241,25,ákoowú na natínʊ́ʊ́wa,ákoowú na natínʊ́ʊ́wa,[],,[],,False,Tem.htm,False,,2
+temm1241-26-1,,temm1241,26,ákoowú na loɖo,ákoowú na loɖo,[],,[],,False,Tem.htm,False,,1
+temm1241-26-2,,temm1241,26,ákoowú na loɖo,ákoowú na loɖo,[],,[],,False,Tem.htm,False,,2
+temm1241-27-1,,temm1241,27,ákoowú na lʊbɛ,ákoowú na lʊbɛ,[],,[],,False,Tem.htm,False,,1
+temm1241-27-2,,temm1241,27,ákoowú na lʊbɛ,ákoowú na lʊbɛ,[],,[],,False,Tem.htm,False,,2
+temm1241-28-1,,temm1241,28,ákoowú na lutoozo,ákoowú na lutoozo,[],,[],,False,Tem.htm,False,,1
+temm1241-28-2,,temm1241,28,ákoowú na lutoozo,ákoowú na lutoozo,[],,[],,False,Tem.htm,False,,2
+temm1241-29-1,,temm1241,29,ákoowú na kéénííré,ákoowú na kéénííré,[],,[],,False,Tem.htm,False,,1
+temm1241-29-2,,temm1241,29,ákoowú na kéénííré,ákoowú na kéénííré,[],,[],,False,Tem.htm,False,,2
+temm1241-30-1,,temm1241,30,ákoo saaláa,ákoo saaláa,[],,[],,False,Tem.htm,False,,1
+temm1241-30-2,,temm1241,30,ákoo saaláa,ákoo saaláa,[],,[],,False,Tem.htm,False,,2
+temm1241-40-1,,temm1241,40,nɛ́ɛ́lɛ,nɛ́ɛ́lɛ,[],( 20 x 2 ),[],,False,Tem.htm,False,,1
+temm1241-40-2,,temm1241,40,nɛɛ́lɛ,nɛɛ́lɛ,[],( 20 x 2 ),[],,False,Tem.htm,False,,2
+temm1241-50-1,,temm1241,50,nɛɛ́lɛ saaláa,nɛɛ́lɛ saaláa,[],,[],,False,Tem.htm,False,,1
+temm1241-50-2,,temm1241,50,nɛɛ́lɛ na saaláa,nɛɛ́lɛ na saaláa,[],,[],,False,Tem.htm,False,,2
+temm1241-60-1,,temm1241,60,niídóozo,niídóozo,[],( 20 x 3 ),[],,False,Tem.htm,False,,1
+temm1241-60-2,,temm1241,60,niídoozo,niídoozo,[],( 20 x 3 ),[],,False,Tem.htm,False,,2
+temm1241-70-1,,temm1241,70,niídóozo na saaláa,niídóozo na saaláa,[],,[],,False,Tem.htm,False,,1
+temm1241-70-2,,temm1241,70,niídoozo na saaláa,niídoozo na saaláa,[],,[],,False,Tem.htm,False,,2
+temm1241-80-1,,temm1241,80,niínáázá,niínáázá,[],( 20 x 4 ),[],,False,Tem.htm,False,,1
+temm1241-80-2,,temm1241,80,niínáázá,niínáázá,[],( 20 x 4 ),[],,False,Tem.htm,False,,2
+temm1241-90-1,,temm1241,90,niínááza na saaláa,niínááza na saaláa,[],,[],,False,Tem.htm,False,,1
+temm1241-90-2,,temm1241,90,niínááza na saaláa,niínááza na saaláa,[],,[],,False,Tem.htm,False,,2
+temm1241-100-1,,temm1241,100,nɪɪnʊ́wá,nɪɪnʊ́wá,[],,[],,False,Tem.htm,False,,1
+temm1241-100-2,,temm1241,100,200. kák͡píízɪ kák͡píízɪ,200. kák͡píízɪ kák͡píízɪ,[],,[],,False,Tem.htm,True,,1
+temm1241-100-3,,temm1241,100,niínʊ́ʊ́wá,niínʊ́ʊ́wá,[],( 20 x 5 ),[],,False,Tem.htm,False,,2
+temm1241-100-4,,temm1241,100,yika-kodoma,yika-kodoma,[],,[],,False,Tem.htm,False,,2
+temm1241-200-1,,temm1241,200,yisi na sííɛ̀,yisi na sííɛ̀,[],,[],,False,Tem.htm,False,,2
+temm1241-400-1,,temm1241,400,kák͡píízɪ nasílɛ,kák͡píízɪ nasílɛ,[],,[],,False,Tem.htm,False,,1
+temm1241-400-2,,temm1241,400,800. kák͡píízɪ nasɪnáázá,800. kák͡píízɪ nasɪnáázá,[],,[],,False,Tem.htm,True,,1
+temm1241-1000-1,,temm1241,1000,mííli,mííli,[],< French ,[],,True,Tem.htm,False,,1
+temm1241-1000-2,,temm1241,1000,yisi fuú,yisi fuú,[],( 100 x 10 ),[],,False,Tem.htm,False,,2
+temm1241-2000-1,,temm1241,2000,mííli natílɛ,mííli natílɛ,[],,[],,False,Tem.htm,False,,1
+temm1241-2000-2,,temm1241,2000,yisi ákoowú,yisi ákoowú,[],( 100 x 20 ),[],,False,Tem.htm,False,,2

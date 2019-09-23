@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kati1270-1-1,,kati1270,1,ɛw,ɛw,[],,[],,False,Kati.htm,False,ɛw,1
+kati1270-2-1,,kati1270,2,dʲu,dʲu,[],,[],,False,Kati.htm,False,dˈu,1
+kati1270-3-1,,kati1270,3,trɛ,trɛ,[],,[],,False,Kati.htm,False,trɛ,1
+kati1270-4-1,,kati1270,4,ʃtwɒ,ʃtwɒ,[],,[],,False,Kati.htm,False,štwa,1
+kati1270-5-1,,kati1270,5,put͡ʃ,put͡ʃ,[],,[],,False,Kati.htm,False,puč,1
+kati1270-6-1,,kati1270,6,ʂu,ʂu,[],,[],,False,Kati.htm,False,ṣ̌u,1
+kati1270-7-1,,kati1270,7,sut,sut,[],,[],,False,Kati.htm,False,sut,1
+kati1270-8-1,,kati1270,8,uʂʈ,uʂʈ,[],,[],,False,Kati.htm,False,uṣṭ,1
+kati1270-9-1,,kati1270,9,nu,nu,[],,[],,False,Kati.htm,False,nu,1
+kati1270-10-1,,kati1270,10,dut͡s,dut͡s,[],,[],,False,Kati.htm,False,duc,1
+kati1270-11-1,,kati1270,11,jæˈnit͡s,jæˈnit͡s,[],,[],,False,Kati.htm,False,yæníc,1
+kati1270-12-1,,kati1270,12,dit͡s,dit͡s,[],,[],,False,Kati.htm,False,dic,1
+kati1270-13-1,,kati1270,13,trit͡s,trit͡s,[],,[],,False,Kati.htm,False,tric,1
+kati1270-14-1,,kati1270,14,ʃtrudit͡s,ʃtrudit͡s,[],,[],,False,Kati.htm,False,štruc,1
+kati1270-14-2,,kati1270,14,ʃtuɽit͡s,ʃtuɽit͡s,[],,[],,False,Kati.htm,False,štuṛic,1
+kati1270-15-1,,kati1270,15,pt͡sit͡s,pt͡sit͡s,[],,[],,False,Kati.htm,False,pcic,1
+kati1270-15-2,,kati1270,15,pt͡ʃit͡s,pt͡ʃit͡s,[],,[],,False,Kati.htm,False,pčic,1
+kati1270-16-1,,kati1270,16,ʂɛt͡s,ʂɛt͡s,[],,[],,False,Kati.htm,False,ṣ̌ɛc,1
+kati1270-17-1,,kati1270,17,stit͡s,stit͡s,[],,[],,False,Kati.htm,False,stic,1
+kati1270-18-1,,kati1270,18,ʂʈit͡s,ʂʈit͡s,[],,[],,False,Kati.htm,False,ṣ̌ṭis,1
+kati1270-19-1,,kati1270,19,nɛt͡s,nɛt͡s,[],,[],,False,Kati.htm,False,nɛc,1
+kati1270-20-1,,kati1270,20,wəˈt͡sə,wəˈt͡sə,[],,[],,False,Kati.htm,False,wəcə́,1
+kati1270-21-1,,kati1270,21,wəˈt͡sɒ ɛw,wəˈt͡sɒ ɛw,[],,[],,False,Kati.htm,False,wəcá ɛw,1
+kati1270-22-1,,kati1270,22,wəcá dˈu,wəcá dˈu,[],,[],,False,Kati.htm,False,,1
+kati1270-23-1,,kati1270,23,wəcá trɛ,wəcá trɛ,[],,[],,False,Kati.htm,False,,1
+kati1270-24-1,,kati1270,24,wəcá štwa,wəcá štwa,[],,[],,False,Kati.htm,False,,1
+kati1270-25-1,,kati1270,25,wəcá puč,wəcá puč,[],,[],,False,Kati.htm,False,,1
+kati1270-26-1,,kati1270,26,wəcá ṣ̌u,wəcá ṣ̌u,[],,[],,False,Kati.htm,False,,1
+kati1270-27-1,,kati1270,27,wəcá sut,wəcá sut,[],,[],,False,Kati.htm,False,,1
+kati1270-28-1,,kati1270,28,wəcá uṣṭ,wəcá uṣṭ,[],,[],,False,Kati.htm,False,,1
+kati1270-29-1,,kati1270,29,wəcá nu,wəcá nu,[],,[],,False,Kati.htm,False,,1
+kati1270-30-1,,kati1270,30,wəcá duc,wəcá duc,[],(20 + 10),[],,False,Kati.htm,False,,1
+kati1270-40-1,,kati1270,40,dˈú wəcə,dˈú wəcə,[],( 2 x 20),[],,False,Kati.htm,False,,1
+kati1270-50-1,,kati1270,50,ˈdʲu wət͡sɒ ˌdut͡s,ˈdʲu wət͡sɒ ˌdut͡s,[],,[],,False,Kati.htm,False,dˈú wəcá dùc,1
+kati1270-60-1,,kati1270,60,trɛ́ wəcə,trɛ́ wəcə,[],( 3 x 20),[],,False,Kati.htm,False,,1
+kati1270-70-1,,kati1270,70,trɛ́ wəcə dùc,trɛ́ wəcə dùc,[],[(3 x 20) + 10 ],[],,False,Kati.htm,False,,1
+kati1270-80-1,,kati1270,80,štwá wəcə,štwá wəcə,[],( 4 x 20),[],,False,Kati.htm,False,,1
+kati1270-90-1,,kati1270,90,štwá wəcə dùc,štwá wəcə dùc,[],[ (4 x 20) + 10],[],,False,Kati.htm,False,,1
+kati1270-100-1,,kati1270,100,púč wəcə,púč wəcə,[],( 5 x 20),[],,False,Kati.htm,False,,1
+kati1270-200-1,,kati1270,200,dúc wəcə,dúc wəcə,[],( 10 x 20),[],,False,Kati.htm,False,,1
+kati1270-1000-1,,kati1270,1000,æˈzɒr,æˈzɒr,[],,[],,False,Kati.htm,False,æzár,1
+kati1270-2000-1,,kati1270,2000,dˈú æzar,dˈú æzar,[],,[],,False,Kati.htm,False,,1

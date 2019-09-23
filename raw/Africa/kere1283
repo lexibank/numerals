@@ -1,0 +1,85 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kere1283-1-1,,kere1283,1,-mo,-mo,[],,[],,False,Kerewe.htm,False,,1
+kere1283-1-2,,kere1283,1,émó,émó,[],,[],,False,Kerewe.htm,False,,3
+kere1283-1-3,,kere1283,1,ímó,ímó,[],,[],,False,Kerewe.htm,False,,3
+kere1283-2-1,,kere1283,2,-βili,-βili,[],,[],,False,Kerewe.htm,False,,1
+kere1283-2-2,,kere1283,2,ibili,ibili,[],,[],,False,Kerewe.htm,False,,3
+kere1283-3-1,,kere1283,3,-satu,-satu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-3-2,,kere1283,3,isatu,isatu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-4-1,,kere1283,4,-na,-na,[],,[],,False,Kerewe.htm,False,,1
+kere1283-4-2,,kere1283,4,ina,ina,[],,[],,False,Kerewe.htm,False,,3
+kere1283-5-1,,kere1283,5,-tanu,-tanu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-5-2,,kere1283,5,CLten,CLten,[],,[],,False,Kerewe.htm,False,,2
+kere1283-5-3,,kere1283,5,itaanu,itaanu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-6-1,,kere1283,6,mu.kaɡa,mu.kaɡa,[],,[],,False,Kerewe.htm,False,,1
+kere1283-6-2,,kere1283,6,CLkumi.CL3.numbers 6,CLkumi.CL3.numbers 6,[],(9),[],,False,Kerewe.htm,True,,2
+kere1283-6-3,,kere1283,6,mukááɡa,mukááɡa,[],,[],,False,Kerewe.htm,False,,3
+kere1283-7-1,,kere1283,7,mu.saanzu,mu.saanzu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-7-2,,kere1283,7,músáanzu,músáanzu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-8-1,,kere1283,8,mu.nana,mu.nana,[],,[],,False,Kerewe.htm,False,,1
+kere1283-8-2,,kere1283,8,CM CLfour,CM CLfour,[],,[],,False,Kerewe.htm,False,,2
+kere1283-8-3,,kere1283,8,munáána,munáána,[],,[],,False,Kerewe.htm,False,,3
+kere1283-9-1,,kere1283,9,mu.eenda,mu.eenda,[],,[],,False,Kerewe.htm,False,,1
+kere1283-9-2,,kere1283,9,mweenda,mweenda,[],,[],,False,Kerewe.htm,False,,3
+kere1283-10-1,,kere1283,10,i.kumi,i.kumi,[],,[],,False,Kerewe.htm,False,,1
+kere1283-10-2,,kere1283,10,ikúmi,ikúmi,[],,[],,False,Kerewe.htm,False,,3
+kere1283-11-1,,kere1283,11,i.kumi na -mu,i.kumi na -mu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-11-2,,kere1283,11,ikúmí nʼ éémó,ikúmí nʼ éémó,[],,[],,False,Kerewe.htm,False,,3
+kere1283-12-1,,kere1283,12,i.kumi na -βili,i.kumi na -βili,[],,[],,False,Kerewe.htm,False,,1
+kere1283-12-2,,kere1283,12,ikúmí nʼ eebili,ikúmí nʼ eebili,[],,[],,False,Kerewe.htm,False,,3
+kere1283-13-1,,kere1283,13,i.kumi na -satu,i.kumi na -satu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-13-2,,kere1283,13,ikúmí nʼ eesatu,ikúmí nʼ eesatu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-14-1,,kere1283,14,i.kumi na -na,i.kumi na -na,[],,[],,False,Kerewe.htm,False,,1
+kere1283-14-2,,kere1283,14,ikúmí nʼ ééná,ikúmí nʼ ééná,[],,[],,False,Kerewe.htm,False,,3
+kere1283-15-1,,kere1283,15,i.kumi na -tanu,i.kumi na -tanu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-15-2,,kere1283,15,ikúmí nʼ eetaanu,ikúmí nʼ eetaanu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-16-1,,kere1283,16,i.kumi na mu.kaɡa,i.kumi na mu.kaɡa,[],,[],,False,Kerewe.htm,False,,1
+kere1283-16-2,,kere1283,16,ikúmí na mukááɡa,ikúmí na mukááɡa,[],,[],,False,Kerewe.htm,False,,3
+kere1283-17-1,,kere1283,17,i.kumi na mu.saanzu,i.kumi na mu.saanzu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-17-2,,kere1283,17,ikúmí na músáanzu,ikúmí na músáanzu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-18-1,,kere1283,18,i.kumi na mu.nana,i.kumi na mu.nana,[],,[],,False,Kerewe.htm,False,,1
+kere1283-18-2,,kere1283,18,ikúmí na munáána,ikúmí na munáána,[],,[],,False,Kerewe.htm,False,,3
+kere1283-19-1,,kere1283,19,i.kumi na mu.eenda,i.kumi na mu.eenda,[],,[],,False,Kerewe.htm,False,,1
+kere1283-19-2,,kere1283,19,ikúmí na mweenda,ikúmí na mweenda,[],,[],,False,Kerewe.htm,False,,3
+kere1283-20-1,,kere1283,20,ma.kumi a.βili,ma.kumi a.βili,[],,[],,False,Kerewe.htm,False,,1
+kere1283-20-2,,kere1283,20,makúmyʼ áábili,makúmyʼ áábili,[],,[],,False,Kerewe.htm,False,,3
+kere1283-21-1,,kere1283,21,ma.kumi a.βili na -mu,ma.kumi a.βili na -mu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-21-2,,kere1283,21,makúmyʼ áábili nʼ éémó,makúmyʼ áábili nʼ éémó,[],,[],,False,Kerewe.htm,False,,3
+kere1283-22-1,,kere1283,22,ma.kumi a.βili na -βili,ma.kumi a.βili na -βili,[],,[],,False,Kerewe.htm,False,,1
+kere1283-22-2,,kere1283,22,makúmyʼ áábili nʼ eebili,makúmyʼ áábili nʼ eebili,[],,[],,False,Kerewe.htm,False,,3
+kere1283-23-1,,kere1283,23,ma.kumi a.βili na -satu,ma.kumi a.βili na -satu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-23-2,,kere1283,23,makúmyʼ áábili nʼ eesatu,makúmyʼ áábili nʼ eesatu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-24-1,,kere1283,24,ma.kumi a.βili na -na,ma.kumi a.βili na -na,[],,[],,False,Kerewe.htm,False,,1
+kere1283-24-2,,kere1283,24,makúmyʼ áábili nʼ ééná,makúmyʼ áábili nʼ ééná,[],,[],,False,Kerewe.htm,False,,3
+kere1283-25-1,,kere1283,25,ma.kumi a.βili na -tanu,ma.kumi a.βili na -tanu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-25-2,,kere1283,25,makúmyʼ áábili nʼ eetaanu,makúmyʼ áábili nʼ eetaanu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-26-1,,kere1283,26,ma.kumi a.βili na mu.kaɡa,ma.kumi a.βili na mu.kaɡa,[],,[],,False,Kerewe.htm,False,,1
+kere1283-26-2,,kere1283,26,makúmyʼ áábili na mukááɡa,makúmyʼ áábili na mukááɡa,[],,[],,False,Kerewe.htm,False,,3
+kere1283-27-1,,kere1283,27,ma.kumi a.βili na mu.saanzu,ma.kumi a.βili na mu.saanzu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-27-2,,kere1283,27,makúmyʼ áábili na músáanzu,makúmyʼ áábili na músáanzu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-28-1,,kere1283,28,ma.kumi a.βili na mu.nana,ma.kumi a.βili na mu.nana,[],,[],,False,Kerewe.htm,False,,1
+kere1283-28-2,,kere1283,28,makúmyʼ áábili na munáána,makúmyʼ áábili na munáána,[],,[],,False,Kerewe.htm,False,,3
+kere1283-29-1,,kere1283,29,ma.kumi a.βili na mu.eenda,ma.kumi a.βili na mu.eenda,[],,[],,False,Kerewe.htm,False,,1
+kere1283-29-2,,kere1283,29,makúmyʼ áábili na mweenda,makúmyʼ áábili na mweenda,[],,[],,False,Kerewe.htm,False,,3
+kere1283-30-1,,kere1283,30,ma.kumi a.satu,ma.kumi a.satu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-30-2,,kere1283,30,makúmyʼ áásatu,makúmyʼ áásatu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-40-1,,kere1283,40,ma.kumi a.na,ma.kumi a.na,[],,[],,False,Kerewe.htm,False,,1
+kere1283-40-2,,kere1283,40,makúmyʼ ááná,makúmyʼ ááná,[],,[],,False,Kerewe.htm,False,,3
+kere1283-50-1,,kere1283,50,ma.kumi a.taanu,ma.kumi a.taanu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-50-2,,kere1283,50,makúmyʼ áátaanu,makúmyʼ áátaanu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-60-1,,kere1283,60,ma.kumi mu.kaɡa,ma.kumi mu.kaɡa,[],,[],,False,Kerewe.htm,False,,1
+kere1283-60-2,,kere1283,60,makúmí mukááɡa,makúmí mukááɡa,[],,[],,False,Kerewe.htm,False,,3
+kere1283-70-1,,kere1283,70,ma.kumi mu.saanzu,ma.kumi mu.saanzu,[],,[],,False,Kerewe.htm,False,,1
+kere1283-70-2,,kere1283,70,makúmí musaanzu,makúmí musaanzu,[],,[],,False,Kerewe.htm,False,,3
+kere1283-80-1,,kere1283,80,ma.kumi mu.nana,ma.kumi mu.nana,[],,[],,False,Kerewe.htm,False,,1
+kere1283-80-2,,kere1283,80,makúmí munáána,makúmí munáána,[],,[],,False,Kerewe.htm,False,,3
+kere1283-90-1,,kere1283,90,ma.kumi mu.eenda,ma.kumi mu.eenda,[],,[],,False,Kerewe.htm,False,,1
+kere1283-90-2,,kere1283,90,makúmí mweenda,makúmí mweenda,[],,[],,False,Kerewe.htm,False,,3
+kere1283-100-1,,kere1283,100,iɡana,iɡana,[],,[],,False,Kerewe.htm,False,,1
+kere1283-100-2,,kere1283,100,iɡana,iɡana,[],,[],,False,Kerewe.htm,False,,3
+kere1283-200-1,,kere1283,200,magan a.βili,magan a.βili,[],,[],,False,Kerewe.htm,False,,1
+kere1283-200-2,,kere1283,200,maganʼ áábíli,maganʼ áábíli,[],,[],,False,Kerewe.htm,False,,3
+kere1283-1000-1,,kere1283,1000,ekihuumβi,ekihuumβi,[],,[],,False,Kerewe.htm,False,,1
+kere1283-1000-2,,kere1283,1000,ekihuumbi,ekihuumbi,[],,[],,False,Kerewe.htm,False,,3
+kere1283-2000-1,,kere1283,2000,βihuumbi βiβili,βihuumbi βiβili,[],,[],,False,Kerewe.htm,False,,1
+kere1283-2000-2,,kere1283,2000,bihuumbi bíbíli,bihuumbi bíbíli,[],,[],,False,Kerewe.htm,False,,3

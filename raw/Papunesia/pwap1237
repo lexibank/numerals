@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+pwap1237-1-1,,pwap1237,1,chaac,chaac,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-2-1,,pwap1237,2,cheluk,cheluk,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-3-1,,pwap1237,3,pwaceen,pwaceen,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-4-1,,pwap1237,4,pweovec,pweovec,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-5-1,,pwap1237,5,nim,nim,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-6-1,,pwap1237,6,nim ɡwa chaac,nim ɡwa chaac,[],( 5 + 1 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-7-1,,pwap1237,7,nim ɡwa cheluk,nim ɡwa cheluk,[],( 5 + 2 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-8-1,,pwap1237,8,nim ɡwa pwaceen,nim ɡwa pwaceen,[],( 5 + 3 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-9-1,,pwap1237,9,nim ɡwa pweovec,nim ɡwa pweovec,[],( 5 + 4 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-10-1,,pwap1237,10,paidu,paidu,[],(lit: 'plating bones'),[],,False,Pwapwa.htm,False,,1
+pwap1237-11-1,,pwap1237,11,paidu ɡwa chaac,paidu ɡwa chaac,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-12-1,,pwap1237,12,paidu ɡwa cheluk,paidu ɡwa cheluk,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-13-1,,pwap1237,13,paidu ɡwa pwaceen,paidu ɡwa pwaceen,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-14-1,,pwap1237,14,paidu ɡwa pweovec,paidu ɡwa pweovec,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-15-1,,pwap1237,15,paidu ɡwa nim,paidu ɡwa nim,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-16-1,,pwap1237,16,paidu ɡwa nim ɡwa chaac,paidu ɡwa nim ɡwa chaac,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-17-1,,pwap1237,17,paidu ɡwa nim ɡwa cheluk,paidu ɡwa nim ɡwa cheluk,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-18-1,,pwap1237,18,paidu ɡwa nim ɡwa pwaceen,paidu ɡwa nim ɡwa pwaceen,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-19-1,,pwap1237,19,paidu ɡwa nim ɡwa pweovec,paidu ɡwa nim ɡwa pweovec,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-20-1,,pwap1237,20,chaac i kac,chaac i kac,[],(litː 'kac' = man),[],,False,Pwapwa.htm,False,,1
+pwap1237-21-1,,pwap1237,21,chaac i kac ɡwa chaac,chaac i kac ɡwa chaac,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-22-1,,pwap1237,22,chaac i kac ɡwa cheluk,chaac i kac ɡwa cheluk,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-23-1,,pwap1237,23,chaac i kac ɡwa pwaceen,chaac i kac ɡwa pwaceen,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-24-1,,pwap1237,24,chaac i kac ɡwa pweovec,chaac i kac ɡwa pweovec,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-25-1,,pwap1237,25,chaac i kac ɡwa nim,chaac i kac ɡwa nim,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-26-1,,pwap1237,26,chaac i kac ɡwa nim ɡwa chaac,chaac i kac ɡwa nim ɡwa chaac,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-27-1,,pwap1237,27,chaac i kac ɡwa nim ɡwa cheluk,chaac i kac ɡwa nim ɡwa cheluk,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-28-1,,pwap1237,28,chaac i kac ɡwa nim ɡwa pwaceen,chaac i kac ɡwa nim ɡwa pwaceen,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-29-1,,pwap1237,29,chaac i kac ɡwa nim ɡwa pweovec,chaac i kac ɡwa nim ɡwa pweovec,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-30-1,,pwap1237,30,chaac i kac ɡwa paidu,chaac i kac ɡwa paidu,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-40-1,,pwap1237,40,cheluk i kac,cheluk i kac,[],( 2  x 20 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-50-1,,pwap1237,50,cheluk i kac ɡwa paidu,cheluk i kac ɡwa paidu,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-60-1,,pwap1237,60,pwaceen i kac,pwaceen i kac,[],( 3  x 20 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-70-1,,pwap1237,70,pwaceen i kac ɡwa paidu,pwaceen i kac ɡwa paidu,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-80-1,,pwap1237,80,pweovec i kac,pweovec i kac,[],(4  x 20 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-90-1,,pwap1237,90,pweovec i kac ɡwa paidu,pweovec i kac ɡwa paidu,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-100-1,,pwap1237,100,nim i kac,nim i kac,[],( 5  x 20 ),[],,False,Pwapwa.htm,False,,1
+pwap1237-100-2,,pwap1237,100,101 nim i kac,101 nim i kac,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-110-1,,pwap1237,110,nim i kac ɡwa paidu,nim i kac ɡwa paidu,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-120-1,,pwap1237,120,nim ɡwa chaac i kac,nim ɡwa chaac i kac,[],,[],,False,Pwapwa.htm,False,,1
+pwap1237-160-1,,pwap1237,160,nim ɡwa pwaceen i kac,nim ɡwa pwaceen i kac,[],,[],,False,Pwapwa.htm,False,,1

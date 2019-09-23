@@ -1,0 +1,109 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+noct1238-1-1,,noct1238,1,tʰé,tʰé,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-1-2,,noct1238,1,vantʰé,vantʰé,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-1-3,,noct1238,1,vantʰe,vantʰe,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-2-1,,noct1238,2,ní,ní,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-2-2,,noct1238,2,vanní,vanní,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-2-3,,noct1238,2,vañi,vañi,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-3-1,,noct1238,3,rə̄m,rə̄m,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-3-2,,noct1238,3,vanrə́m,vanrə́m,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-3-3,,noct1238,3,vanram,vanram,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-4-1,,noct1238,4,bəlí,bəlí,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-4-2,,noct1238,4,vanbəlí or bəlí,vanbəlí or bəlí,[],,[],,False,Nocte-Naga.htm,True,,2
+noct1238-4-3,,noct1238,4,valvali,valvali,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-5-1,,noct1238,5,bəŋɑ́,bəŋɑ́,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-5-2,,noct1238,5,vanbəŋá or bəŋá,vanbəŋá or bəŋá,[],,[],,False,Nocte-Naga.htm,True,,2
+noct1238-5-3,,noct1238,5,vanbaŋa,vanbaŋa,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-6-1,,noct1238,6,ərók,ərók,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-6-2,,noct1238,6,vanrók or ərók,vanrók or ərók,[],,[],,False,Nocte-Naga.htm,True,,2
+noct1238-6-3,,noct1238,6,vanerok,vanerok,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-7-1,,noct1238,7,əŋīt̚,əŋīt̚,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-7-2,,noct1238,7,vanŋít or əŋít,vanŋít or əŋít,[],,[],,False,Nocte-Naga.htm,True,,2
+noct1238-7-3,,noct1238,7,vaniŋik,vaniŋik,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-8-1,,noct1238,8,əsət,əsət,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-8-2,,noct1238,8,vansét or əsét,vansét or əsét,[],,[],,False,Nocte-Naga.htm,True,,2
+noct1238-8-3,,noct1238,8,vansesat,vansesat,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-9-1,,noct1238,9,ikʰɨ,ikʰɨ,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-9-2,,noct1238,9,vankʰú or əkʰú,vankʰú or əkʰú,[],,[],,False,Nocte-Naga.htm,True,,2
+noct1238-9-3,,noct1238,9,vanekʰú,vanekʰú,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-10-1,,noct1238,10,itʃʰí,itʃʰí,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-10-2,,noct1238,10,vancʰí or əcʰí,vancʰí or əcʰí,[],,[],,False,Nocte-Naga.htm,True,,2
+noct1238-10-3,,noct1238,10,vanchi,vanchi,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-11-1,,noct1238,11,itʃʰí wantʰé,itʃʰí wantʰé,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-11-2,,noct1238,11,əcʰí vantʰé,əcʰí vantʰé,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-11-3,,noct1238,11,əchi vantʰe,əchi vantʰe,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-12-1,,noct1238,12,itʃʰí wə̄nní,itʃʰí wə̄nní,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-12-2,,noct1238,12,əcʰí vanní,əcʰí vanní,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-12-3,,noct1238,12,əchi vañi,əchi vañi,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-13-1,,noct1238,13,itʃʰí wənrə̄m,itʃʰí wənrə̄m,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-13-2,,noct1238,13,əcʰí vanrə́m,əcʰí vanrə́m,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-13-3,,noct1238,13,əchi vanram,əchi vanram,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-14-1,,noct1238,14,itʃʰí bəlí,itʃʰí bəlí,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-14-2,,noct1238,14,əcʰí vanbəlí,əcʰí vanbəlí,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-14-3,,noct1238,14,əchi vanvali,əchi vanvali,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-15-1,,noct1238,15,itʃʰí bəŋɑ́,itʃʰí bəŋɑ́,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-15-2,,noct1238,15,əcʰí vanbəŋá,əcʰí vanbəŋá,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-15-3,,noct1238,15,əchi vanbaŋa,əchi vanbaŋa,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-16-1,,noct1238,16,itʃʰí irók,itʃʰí irók,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-16-2,,noct1238,16,əcʰí vanrók,əcʰí vanrók,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-16-3,,noct1238,16,əchi vanrok,əchi vanrok,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-17-1,,noct1238,17,itʃʰí iŋīd̚,itʃʰí iŋīd̚,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-17-2,,noct1238,17,əcʰí vanŋít,əcʰí vanŋít,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-17-3,,noct1238,17,əchi vanŋik,əchi vanŋik,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-18-1,,noct1238,18,itʃʰí isət,itʃʰí isət,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-18-2,,noct1238,18,əcʰí vansét,əcʰí vansét,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-18-3,,noct1238,18,əchi vansat,əchi vansat,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-19-1,,noct1238,19,itʃʰí ikʰu,itʃʰí ikʰu,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-19-2,,noct1238,19,əcʰí vankʰú,əcʰí vankʰú,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-19-3,,noct1238,19,əchi van kʰú,əchi van kʰú,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-20-1,,noct1238,20,ruwokni,ruwokni,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-20-2,,noct1238,20,roakní,roakní,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-20-3,,noct1238,20,ruək ñi,ruək ñi,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-21-1,,noct1238,21,ruwokni wantʰé,ruwokni wantʰé,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-21-2,,noct1238,21,roakní vantʰé,roakní vantʰé,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-22-1,,noct1238,22,ruwokni wənrə̄m,ruwokni wənrə̄m,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-22-2,,noct1238,22,roakní vanrə́m,roakní vanrə́m,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-24-1,,noct1238,24,ruwokni bəlí,ruwokni bəlí,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-24-2,,noct1238,24,roakní vanbəlí,roakní vanbəlí,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-25-1,,noct1238,25,ruwokni bəŋɑ́,ruwokni bəŋɑ́,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-25-2,,noct1238,25,roakní vanbəŋá,roakní vanbəŋá,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-26-1,,noct1238,26,ruwokni irók,ruwokni irók,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-26-2,,noct1238,26,roakní vanrók,roakní vanrók,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-27-1,,noct1238,27,ruwokni iŋīd̚,ruwokni iŋīd̚,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-27-2,,noct1238,27,roakní vanŋít,roakní vanŋít,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-28-1,,noct1238,28,ruwokni isət,ruwokni isət,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-28-2,,noct1238,28,roakní vansét,roakní vansét,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-29-1,,noct1238,29,ruwokni ikʰɨ,ruwokni ikʰɨ,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-29-2,,noct1238,29,roakní vankʰú,roakní vankʰú,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-30-1,,noct1238,30,ruwok-rə̄m,ruwok-rə̄m,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-30-2,,noct1238,30,roak-rəm,roak-rəm,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-30-3,,noct1238,30,ruək rəm,ruək rəm,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-40-1,,noct1238,40,ruwok-bəlí,ruwok-bəlí,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-40-2,,noct1238,40,roak-bəlí,roak-bəlí,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-40-3,,noct1238,40,ruək bəli,ruək bəli,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-50-1,,noct1238,50,ruwok-bəŋɑ́,ruwok-bəŋɑ́,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-50-2,,noct1238,50,roak-bəŋá,roak-bəŋá,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-50-3,,noct1238,50,ruək bəŋa,ruək bəŋa,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-60-1,,noct1238,60,ruwok-irók,ruwok-irók,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-60-2,,noct1238,60,roak-rók,roak-rók,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-60-3,,noct1238,60,ruək erok,ruək erok,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-70-1,,noct1238,70,ruwok-iŋīd̚,ruwok-iŋīd̚,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-70-2,,noct1238,70,roak-ŋík,roak-ŋík,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-70-3,,noct1238,70,ruək eŋik,ruək eŋik,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-80-1,,noct1238,80,ruwok-isət,ruwok-isət,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-80-2,,noct1238,80,roak-sét,roak-sét,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-80-3,,noct1238,80,ruək sat,ruək sat,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-90-1,,noct1238,90,ruwok-ikʰɨ,ruwok-ikʰɨ,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-90-2,,noct1238,90,roak-kʰú,roak-kʰú,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-90-3,,noct1238,90,ruək ekʰú,ruək ekʰú,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-100-1,,noct1238,100,tʃɑ-tʰé,tʃɑ-tʰé,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-100-2,,noct1238,100,200. tʃɑ--ní,200. tʃɑ--ní,[],,[],,False,Nocte-Naga.htm,True,,1
+noct1238-100-3,,noct1238,100,400. tʃɑ-bəlí,400. tʃɑ-bəlí,[],,[],,False,Nocte-Naga.htm,True,,1
+noct1238-100-4,,noct1238,100,ca-tʰé,ca-tʰé,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-100-5,,noct1238,100,cátʰè,cátʰè,[],,[],,False,Nocte-Naga.htm,False,,3
+noct1238-200-1,,noct1238,200,ca-ní,ca-ní,[],,[],,False,Nocte-Naga.htm,False,,2
+noct1238-500-1,,noct1238,500,tʃɑ-bəŋɑ́,tʃɑ-bəŋɑ́,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-500-2,,noct1238,500,800. tʃɑ-isət,800. tʃɑ-isət,[],,[],,False,Nocte-Naga.htm,True,,1
+noct1238-1000-1,,noct1238,1000,tʃʰi tʃɑ-tʰé,tʃʰi tʃɑ-tʰé,[],,[],,False,Nocte-Naga.htm,False,,1
+noct1238-1000-2,,noct1238,1000,hajat-tʰé,hajat-tʰé,[],( < Indo-Aryan ),[],,True,Nocte-Naga.htm,False,,2
+noct1238-2000-1,,noct1238,2000,hajat-ní,hajat-ní,[],,[],,False,Nocte-Naga.htm,False,,2

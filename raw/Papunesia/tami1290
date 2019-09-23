@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tami1290-1-1,,tami1290,1,ti,ti,[],(timoŋ),[],,False,Tami.htm,False,,1
+tami1290-2-1,,tami1290,2,lu,lu,[],,[],,False,Tami.htm,False,,1
+tami1290-3-1,,tami1290,3,tôl,tôl,[],,[],,False,Tami.htm,False,,1
+tami1290-4-1,,tami1290,4,pat,pat,[],,[],,False,Tami.htm,False,,1
+tami1290-5-1,,tami1290,5,lim,lim,[],,[],,False,Tami.htm,False,,1
+tami1290-6-1,,tami1290,6,limatimoŋ,limatimoŋ,[],( 5 + 1 ),[],,False,Tami.htm,False,,1
+tami1290-7-1,,tami1290,7,limalu,limalu,[],( 5 + 2 ),[],,False,Tami.htm,False,,1
+tami1290-8-1,,tami1290,8,limatôl,limatôl,[],( 5 + 3 ),[],,False,Tami.htm,False,,1
+tami1290-9-1,,tami1290,9,limapat,limapat,[],( 5 + 4 ),[],,False,Tami.htm,False,,1
+tami1290-10-1,,tami1290,10,limandalu,limandalu,[],,[],,False,Tami.htm,False,,1
+tami1290-11-1,,tami1290,11,limandalumatimoŋ,limandalumatimoŋ,[],,[],,False,Tami.htm,False,,1
+tami1290-12-1,,tami1290,12,limandalumalu,limandalumalu,[],,[],,False,Tami.htm,False,,1
+tami1290-13-1,,tami1290,13,limandalumatôl,limandalumatôl,[],,[],,False,Tami.htm,False,,1
+tami1290-14-1,,tami1290,14,limandalumapat,limandalumapat,[],,[],,False,Tami.htm,False,,1
+tami1290-15-1,,tami1290,15,limandalumalima,limandalumalima,[],,[],,False,Tami.htm,False,,1
+tami1290-16-1,,tami1290,16,limandalumalimatimoŋ,limandalumalimatimoŋ,[],,[],,False,Tami.htm,False,,1
+tami1290-17-1,,tami1290,17,limandalumalimalu,limandalumalimalu,[],,[],,False,Tami.htm,False,,1
+tami1290-18-1,,tami1290,18,limandalumalimatôl,limandalumalimatôl,[],,[],,False,Tami.htm,False,,1
+tami1290-19-1,,tami1290,19,limandalumalimapat,limandalumalimapat,[],,[],,False,Tami.htm,False,,1
+tami1290-20-1,,tami1290,20,taumoandeʔ,taumoandeʔ,[],( litː ''person one''),[],,False,Tami.htm,False,,1
+tami1290-21-1,,tami1290,21,taumoandeʔmatimoŋ,taumoandeʔmatimoŋ,[],,[],,False,Tami.htm,False,,1
+tami1290-22-1,,tami1290,22,taumoandeʔmalu,taumoandeʔmalu,[],,[],,False,Tami.htm,False,,1
+tami1290-23-1,,tami1290,23,taumoandeʔmatôl,taumoandeʔmatôl,[],,[],,False,Tami.htm,False,,1
+tami1290-24-1,,tami1290,24,taumoandeʔmapat,taumoandeʔmapat,[],,[],,False,Tami.htm,False,,1
+tami1290-25-1,,tami1290,25,taumoandeʔmalim,taumoandeʔmalim,[],,[],,False,Tami.htm,False,,1
+tami1290-26-1,,tami1290,26,taumoandeʔmalimatimoŋ,taumoandeʔmalimatimoŋ,[],,[],,False,Tami.htm,False,,1
+tami1290-27-1,,tami1290,27,taumoandeʔmalimalu,taumoandeʔmalimalu,[],,[],,False,Tami.htm,False,,1
+tami1290-28-1,,tami1290,28,taumoandeʔmalimatôl,taumoandeʔmalimatôl,[],,[],,False,Tami.htm,False,,1
+tami1290-29-1,,tami1290,29,taumoandeʔmalimapat,taumoandeʔmalimapat,[],,[],,False,Tami.htm,False,,1
+tami1290-30-1,,tami1290,30,taumoandeʔmalimandalu,taumoandeʔmalimandalu,[],,[],,False,Tami.htm,False,,1
+tami1290-40-1,,tami1290,40,taumoandeʔlu,taumoandeʔlu,[],,[],,False,Tami.htm,False,,1
+tami1290-50-1,,tami1290,50,taumoandeʔlumalimandalu,taumoandeʔlumalimandalu,[],,[],,False,Tami.htm,False,,1
+tami1290-60-1,,tami1290,60,taumoandeʔmatôl,taumoandeʔmatôl,[],,[],,False,Tami.htm,False,,1
+tami1290-70-1,,tami1290,70,taumoandeʔmatôlmalimandalu,taumoandeʔmatôlmalimandalu,[],,[],,False,Tami.htm,False,,1
+tami1290-80-1,,tami1290,80,taumoandeʔpat,taumoandeʔpat,[],,[],,False,Tami.htm,False,,1
+tami1290-90-1,,tami1290,90,taumoandeʔpatmalimandalu,taumoandeʔpatmalimandalu,[],,[],,False,Tami.htm,False,,1
+tami1290-100-1,,tami1290,100,taumoandeʔlim,taumoandeʔlim,[],,[],,False,Tami.htm,False,,1
+tami1290-200-1,,tami1290,200,taumoandeʔlim ma taumoandeʔlim poet,taumoandeʔlim ma taumoandeʔlim poet,[],,[],,False,Tami.htm,False,,1
+tami1290-1000-1,,tami1290,1000,akanoŋ tau tau,akanoŋ tau tau,[],,[],,False,Tami.htm,False,,1
+tami1290-2000-1,,tami1290,2000,akanoŋ tau tau isan,akanoŋ tau tau isan,[],,[],,False,Tami.htm,False,,1

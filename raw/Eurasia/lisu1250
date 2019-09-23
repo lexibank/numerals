@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+lisu1250-1-1,,lisu1250,1,tʰi21,tʰi21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-1-2,,lisu1250,1,tʰi31,tʰi31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-2-1,,lisu1250,2,ɲi21,ɲi21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-2-2,,lisu1250,2,ȵi31,ȵi31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-3-1,,lisu1250,3,sa33,sa33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-3-2,,lisu1250,3,sɑ44,sɑ44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-4-1,,lisu1250,4,li33,li33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-4-2,,lisu1250,4,li33,li33,[],,[],,False,Lisu.htm,False,,2
+lisu1250-5-1,,lisu1250,5,ŋʷa21,ŋʷa21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-5-2,,lisu1250,5,ŋuɑ31,ŋuɑ31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-6-1,,lisu1250,6,ço32,ço32,[],,[],,False,Lisu.htm,False,,1
+lisu1250-6-2,,lisu1250,6,tʃʰo41,tʃʰo41,[],,[],,False,Lisu.htm,False,,2
+lisu1250-7-1,,lisu1250,7,ʃy21,ʃy21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-7-2,,lisu1250,7,ʃɿ31,ʃɿ31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-8-1,,lisu1250,8,xe21,xe21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-8-2,,lisu1250,8,he41,he41,[],,[],,False,Lisu.htm,False,,2
+lisu1250-9-1,,lisu1250,9,ku33,ku33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-9-2,,lisu1250,9,ku55,ku55,[],,[],,False,Lisu.htm,False,,2
+lisu1250-10-1,,lisu1250,10,tsʰɨ33,tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-10-2,,lisu1250,10,tsʰi44,tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-11-1,,lisu1250,11,tsʰɨ33tʰi31,tsʰɨ33tʰi31,[],,[],,False,Lisu.htm,False,,1
+lisu1250-11-2,,lisu1250,11,tsʰi44tʰi31,tsʰi44tʰi31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-12-1,,lisu1250,12,tsʰɨ33ȵi31,tsʰɨ33ȵi31,[],,[],,False,Lisu.htm,False,,1
+lisu1250-12-2,,lisu1250,12,tsʰi44ȵi31,tsʰi44ȵi31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-13-1,,lisu1250,13,tsʰɨ33sa33,tsʰɨ33sa33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-13-2,,lisu1250,13,tsʰi44sɑ44,tsʰi44sɑ44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-14-1,,lisu1250,14,tsʰɨ33li33,tsʰɨ33li33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-14-2,,lisu1250,14,tsʰi44li33,tsʰi44li33,[],,[],,False,Lisu.htm,False,,2
+lisu1250-15-1,,lisu1250,15,tsʰɨ33ŋʷa21,tsʰɨ33ŋʷa21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-15-2,,lisu1250,15,tsʰi44ŋuɑ31,tsʰi44ŋuɑ31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-16-1,,lisu1250,16,tsʰɨ33ço32,tsʰɨ33ço32,[],,[],,False,Lisu.htm,False,,1
+lisu1250-16-2,,lisu1250,16,tsʰi44tʃʰo41,tsʰi44tʃʰo41,[],,[],,False,Lisu.htm,False,,2
+lisu1250-17-1,,lisu1250,17,tsʰɨ33ʃy21,tsʰɨ33ʃy21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-17-2,,lisu1250,17,tsʰi44ʃɿ31,tsʰi44ʃɿ31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-18-1,,lisu1250,18,tsʰɨ33xe21,tsʰɨ33xe21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-18-2,,lisu1250,18,tsʰi44he41,tsʰi44he41,[],,[],,False,Lisu.htm,False,,2
+lisu1250-19-1,,lisu1250,19,tsʰɨ33ku33,tsʰɨ33ku33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-19-2,,lisu1250,19,tsʰi44ku55,tsʰi44ku55,[],,[],,False,Lisu.htm,False,,2
+lisu1250-20-1,,lisu1250,20,ɲi21tsʰi33,ɲi21tsʰi33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-20-2,,lisu1250,20,ȵi31tsʰi44,ȵi31tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-21-1,,lisu1250,21,ɲi21tsʰi33 tʰi21,ɲi21tsʰi33 tʰi21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-21-2,,lisu1250,21,ȵi31tsʰi44 tʰi31,ȵi31tsʰi44 tʰi31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-22-1,,lisu1250,22,ɲi21tsʰi33 ɲi21,ɲi21tsʰi33 ɲi21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-22-2,,lisu1250,22,ȵi31tsʰi44 ȵi31,ȵi31tsʰi44 ȵi31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-23-1,,lisu1250,23,ɲi21tsʰi33 sa33,ɲi21tsʰi33 sa33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-23-2,,lisu1250,23,ȵi31tsʰi44 sɑ44,ȵi31tsʰi44 sɑ44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-24-1,,lisu1250,24,ɲi21tsʰi33 li33,ɲi21tsʰi33 li33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-24-2,,lisu1250,24,ȵi31tsʰi44 li33,ȵi31tsʰi44 li33,[],,[],,False,Lisu.htm,False,,2
+lisu1250-25-1,,lisu1250,25,ɲi21tsʰi33 ŋʷa21,ɲi21tsʰi33 ŋʷa21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-25-2,,lisu1250,25,ȵi31tsʰi44 ŋuɑ31,ȵi31tsʰi44 ŋuɑ31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-26-1,,lisu1250,26,ɲi21tsʰi33 ço32,ɲi21tsʰi33 ço32,[],,[],,False,Lisu.htm,False,,1
+lisu1250-26-2,,lisu1250,26,ȵi31tsʰi44 tʃʰo41,ȵi31tsʰi44 tʃʰo41,[],,[],,False,Lisu.htm,False,,2
+lisu1250-27-1,,lisu1250,27,ɲi21tsʰi33 ʃy21,ɲi21tsʰi33 ʃy21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-27-2,,lisu1250,27,ȵi31tsʰi44 ʃɿ31,ȵi31tsʰi44 ʃɿ31,[],,[],,False,Lisu.htm,False,,2
+lisu1250-28-1,,lisu1250,28,ɲi21tsʰi33 xe21,ɲi21tsʰi33 xe21,[],,[],,False,Lisu.htm,False,,1
+lisu1250-28-2,,lisu1250,28,ȵi31tsʰi44 he41,ȵi31tsʰi44 he41,[],,[],,False,Lisu.htm,False,,2
+lisu1250-29-1,,lisu1250,29,ɲi21tsʰi33 ku33,ɲi21tsʰi33 ku33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-29-2,,lisu1250,29,ȵi31tsʰi44 ku55,ȵi31tsʰi44 ku55,[],,[],,False,Lisu.htm,False,,2
+lisu1250-30-1,,lisu1250,30,sa33 tsʰɨ33,sa33 tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-30-2,,lisu1250,30,sɑ44tsʰi44,sɑ44tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-40-1,,lisu1250,40,li33 tsʰɨ33,li33 tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-40-2,,lisu1250,40,li33 tsʰi44,li33 tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-50-1,,lisu1250,50,ŋʷa21 tsʰɨ33,ŋʷa21 tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-50-2,,lisu1250,50,ŋuɑ31 tsʰi44,ŋuɑ31 tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-60-1,,lisu1250,60,ço32 tsʰɨ33,ço32 tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-60-2,,lisu1250,60,tʃʰo41 tsʰi44,tʃʰo41 tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-70-1,,lisu1250,70,ʃy21 tsʰɨ33,ʃy21 tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-70-2,,lisu1250,70,ʃɿ31 tsʰi44,ʃɿ31 tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-80-1,,lisu1250,80,xe21 tsʰɨ33,xe21 tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-80-2,,lisu1250,80,he41 tsʰi44,he41 tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-90-1,,lisu1250,90,ku33 tsʰɨ33,ku33 tsʰɨ33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-90-2,,lisu1250,90,ku55 tsʰi44,ku55 tsʰi44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-100-1,,lisu1250,100,tʰi31 xʲa33,tʰi31 xʲa33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-100-2,,lisu1250,100,tʰi31 hɛ33,tʰi31 hɛ33,[],,[],,False,Lisu.htm,False,,2
+lisu1250-200-1,,lisu1250,200,ɲi21xʲa33,ɲi21xʲa33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-200-2,,lisu1250,200,ȵi31hɛ33,ȵi31hɛ33,[],,[],,False,Lisu.htm,False,,2
+lisu1250-1000-1,,lisu1250,1000,tʰi31 tu33,tʰi31 tu33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-1000-2,,lisu1250,1000,tʰi31 tu44,tʰi31 tu44,[],,[],,False,Lisu.htm,False,,2
+lisu1250-2000-1,,lisu1250,2000,ɲi21tu33,ɲi21tu33,[],,[],,False,Lisu.htm,False,,1
+lisu1250-2000-2,,lisu1250,2000,ȵi31tu44,ȵi31tu44,[],,[],,False,Lisu.htm,False,,2

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nyem1238-1-1,,nyem1238,1,-mo,-mo,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-2-1,,nyem1238,2,-vali,-vali,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-3-1,,nyem1238,3,-tatu,-tatu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-4-1,,nyem1238,4,-wána,-wána,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-5-1,,nyem1238,5,-tanu,-tanu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-6-1,,nyem1238,6,pàndù,pàndù,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-7-1,,nyem1238,7,pàndù vàlì,pàndù vàlì,[],( 5 + 2 ),[],,False,Nyemba.htm,False,,1
+nyem1238-8-1,,nyem1238,8,cínana,cínana,[],( 2 x 4 ) ?,[],,False,Nyemba.htm,False,,1
+nyem1238-9-1,,nyem1238,9,célà,célà,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-10-1,,nyem1238,10,líkumi,líkumi,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-11-1,,nyem1238,11,líkumi na cimo,líkumi na cimo,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-12-1,,nyem1238,12,líkumi na viváli,líkumi na viváli,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-13-1,,nyem1238,13,líkumi na vitátu,líkumi na vitátu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-14-1,,nyem1238,14,líkumi na viwána,líkumi na viwána,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-15-1,,nyem1238,15,líkumi na vitánu,líkumi na vitánu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-16-1,,nyem1238,16,líkumi na pàndù,líkumi na pàndù,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-17-1,,nyem1238,17,líkumi na pàndù vàlì,líkumi na pàndù vàlì,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-18-1,,nyem1238,18,líkumi na cínana,líkumi na cínana,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-19-1,,nyem1238,19,líkumi na célà,líkumi na célà,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-20-1,,nyem1238,20,mákumi aváli,mákumi aváli,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-21-1,,nyem1238,21,mákumi aváli na cimo,mákumi aváli na cimo,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-22-1,,nyem1238,22,mákumi aváli na viváli,mákumi aváli na viváli,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-23-1,,nyem1238,23,mákumi aváli na vitátu,mákumi aváli na vitátu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-24-1,,nyem1238,24,mákumi aváli na viwána,mákumi aváli na viwána,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-25-1,,nyem1238,25,mákumi aváli na vitánu,mákumi aváli na vitánu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-26-1,,nyem1238,26,mákumi aváli na pàndù,mákumi aváli na pàndù,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-27-1,,nyem1238,27,mákumi aváli na pàndù vàlì,mákumi aváli na pàndù vàlì,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-28-1,,nyem1238,28,mákumi aváli na cínana,mákumi aváli na cínana,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-29-1,,nyem1238,29,mákumi aváli na célà,mákumi aváli na célà,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-30-1,,nyem1238,30,mákumi atátu,mákumi atátu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-40-1,,nyem1238,40,mákumi awána,mákumi awána,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-50-1,,nyem1238,50,mákumi atánu,mákumi atánu,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-60-1,,nyem1238,60,mákumi pàndù,mákumi pàndù,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-70-1,,nyem1238,70,mákumi pàndù vàlì,mákumi pàndù vàlì,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-80-1,,nyem1238,80,mákumi cínana,mákumi cínana,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-90-1,,nyem1238,90,mákumi célà,mákumi célà,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-100-1,,nyem1238,100,víta,víta,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-200-1,,nyem1238,200,víta viváli,víta viváli,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-1000-1,,nyem1238,1000,víta líkumi,víta líkumi,[],,[],,False,Nyemba.htm,False,,1
+nyem1238-2000-1,,nyem1238,2000,víta mákumi aváli,víta mákumi aváli,[],,[],,False,Nyemba.htm,False,,1

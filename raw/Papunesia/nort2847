@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nort2847-1-1,,nort2847,1,kitiə,kitiə,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-2-1,,nort2847,2,kəiu,kəiu,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-3-1,,nort2847,3,kɨsɨl,kɨsɨl,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-4-1,,nort2847,4,kuβɨt,kuβɨt,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-5-1,,nort2847,5,kariem,kariem,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-6-1,,nort2847,6,kariem kitiə,kariem kitiə,[],( 5 + 1 ),[],,False,Tanna-North.htm,False,,1
+nort2847-6-2,,nort2847,6,sikis,sikis,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-7-1,,nort2847,7,kariem kəiu,kariem kəiu,[],( 5 + 2 ),[],,False,Tanna-North.htm,False,,1
+nort2847-7-2,,nort2847,7,seven,seven,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-8-1,,nort2847,8,kariem kɨsɨl,kariem kɨsɨl,[],( 5 + 3 ),[],,False,Tanna-North.htm,False,,1
+nort2847-8-2,,nort2847,8,eit,eit,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-9-1,,nort2847,9,kariemkuβɨt,kariemkuβɨt,[],( 5 + 4 ),[],,False,Tanna-North.htm,False,,1
+nort2847-9-2,,nort2847,9,naen,naen,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-10-1,,nort2847,10,kariem kariem,kariem kariem,[],( 5 + 5 ),[],,False,Tanna-North.htm,False,,1
+nort2847-10-2,,nort2847,10,ten,ten,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-11-1,,nort2847,11,leven,leven,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-12-1,,nort2847,12,twelev,twelev,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-13-1,,nort2847,13,tetin,tetin,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-14-1,,nort2847,14,fortin,fortin,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-15-1,,nort2847,15,fiftin,fiftin,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-16-1,,nort2847,16,siksitin,siksitin,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-17-1,,nort2847,17,seventin,seventin,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-18-1,,nort2847,18,eitin,eitin,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-19-1,,nort2847,19,naetin,naetin,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-20-1,,nort2847,20,twante,twante,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-21-1,,nort2847,21,twante wan,twante wan,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-22-1,,nort2847,22,twante tu,twante tu,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-23-1,,nort2847,23,twante tri,twante tri,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-24-1,,nort2847,24,twante fo,twante fo,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-25-1,,nort2847,25,twante faev,twante faev,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-26-1,,nort2847,26,twante sikis,twante sikis,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-27-1,,nort2847,27,twante seven,twante seven,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-28-1,,nort2847,28,twante eit,twante eit,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-29-1,,nort2847,29,twante naen,twante naen,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-30-1,,nort2847,30,toti,toti,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-40-1,,nort2847,40,foti,foti,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-50-1,,nort2847,50,fifti,fifti,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-60-1,,nort2847,60,sikisti,sikisti,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-70-1,,nort2847,70,seventi,seventi,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-80-1,,nort2847,80,eiti,eiti,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-90-1,,nort2847,90,naenti,naenti,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-100-1,,nort2847,100,handred,handred,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-200-1,,nort2847,200,tu handred,tu handred,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-1000-1,,nort2847,1000,taosen,taosen,[],,[],,False,Tanna-North.htm,False,,1
+nort2847-2000-1,,nort2847,2000,tu taosen,tu taosen,[],,[],,False,Tanna-North.htm,False,,1

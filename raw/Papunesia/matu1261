@@ -1,0 +1,50 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+matu1261-1-1,,matu1261,1,tahaik,tahaik,[],,[],,False,Matukar.htm,False,,1
+matu1261-1-2,,matu1261,1,tahek,tahek,[],,[],,False,Matukar.htm,False,,2
+matu1261-2-1,,matu1261,2,aru,aru,[],,[],,False,Matukar.htm,False,,1
+matu1261-2-2,,matu1261,2,aru,aru,[],,[],,False,Matukar.htm,False,,2
+matu1261-3-1,,matu1261,3,tol,tol,[],,[],,False,Matukar.htm,False,,1
+matu1261-3-2,,matu1261,3,tol,tol,[],,[],,False,Matukar.htm,False,,2
+matu1261-4-1,,matu1261,4,yawa-yawa,yawa-yawa,[],,[],,False,Matukar.htm,False,,1
+matu1261-4-2,,matu1261,4,aru aru,aru aru,[],( 2 x 2 ),[],,False,Matukar.htm,False,,1
+matu1261-4-3,,matu1261,4,yawa-yawa,yawa-yawa,[],( 2 x 2 ),[],,False,Matukar.htm,False,,2
+matu1261-5-1,,matu1261,5,namau,namau,[],( < nima < lima ?? ),[],,False,Matukar.htm,False,,1
+matu1261-5-2,,matu1261,5,skun tahek,skun tahek,[],( lit: 'hand one' ),[],,False,Matukar.htm,False,,2
+matu1261-6-1,,matu1261,6,namau skun tahaik,namau skun tahaik,[],,[],,False,Matukar.htm,False,,1
+matu1261-6-2,,matu1261,6,numau tahaik ainta te tah,numau tahaik ainta te tah,[],,[],,False,Matukar.htm,False,,1
+matu1261-6-3,,matu1261,6,skun tahek tahek,skun tahek tahek,[],,[],,False,Matukar.htm,False,,2
+matu1261-7-1,,matu1261,7,namau skun aru,namau skun aru,[],,[],,False,Matukar.htm,False,,1
+matu1261-7-2,,matu1261,7,numau tahaik ainta te aru,numau tahaik ainta te aru,[],,[],,False,Matukar.htm,False,,1
+matu1261-7-3,,matu1261,7,skun tahek aru,skun tahek aru,[],,[],,False,Matukar.htm,False,,2
+matu1261-8-1,,matu1261,8,namau skun tol,namau skun tol,[],,[],,False,Matukar.htm,False,,1
+matu1261-8-2,,matu1261,8,numau tahaik ainta te tol,numau tahaik ainta te tol,[],,[],,False,Matukar.htm,False,,1
+matu1261-8-3,,matu1261,8,skun tahek tol,skun tahek tol,[],,[],,False,Matukar.htm,False,,2
+matu1261-9-1,,matu1261,9,namau skun yawayawa,namau skun yawayawa,[],,[],,False,Matukar.htm,False,,1
+matu1261-9-2,,matu1261,9,skun tahek yawayawa,skun tahek yawayawa,[],,[],,False,Matukar.htm,False,,2
+matu1261-10-1,,matu1261,10,numau aru,numau aru,[],,[],,False,Matukar.htm,False,,1
+matu1261-10-2,,matu1261,10,numau aruru,numau aruru,[],( lit: 'hands two' ),[],,False,Matukar.htm,False,,1
+matu1261-10-3,,matu1261,10,skun aru,skun aru,[],( lit: 'hands two' ),[],,False,Matukar.htm,False,,2
+matu1261-11-1,,matu1261,11,numau aru tote hon neu skun tahaik,numau aru tote hon neu skun tahaik,[],,[],,False,Matukar.htm,False,,1
+matu1261-11-2,,matu1261,11,numau arurur taute neu kukun tahaik,numau arurur taute neu kukun tahaik,[],,[],,False,Matukar.htm,False,,1
+matu1261-11-3,,matu1261,11,skun aru tahek,skun aru tahek,[],,[],,False,Matukar.htm,False,,2
+matu1261-12-1,,matu1261,12,numau aru tote hon neu skun aru,numau aru tote hon neu skun aru,[],,[],,False,Matukar.htm,False,,1
+matu1261-12-2,,matu1261,12,numau arurur taute neu kukun aru ??,numau arurur taute neu kukun aru ??,[],,[],,False,Matukar.htm,True,,1
+matu1261-12-3,,matu1261,12,skun aru aru,skun aru aru,[],,[],,False,Matukar.htm,False,,2
+matu1261-13-1,,matu1261,13,numau aru tote hon neu skun tol,numau aru tote hon neu skun tol,[],,[],,False,Matukar.htm,False,,1
+matu1261-13-2,,matu1261,13,numau arurur taute neu kukun tol ??,numau arurur taute neu kukun tol ??,[],,[],,False,Matukar.htm,True,,1
+matu1261-13-3,,matu1261,13,skun aru tol,skun aru tol,[],,[],,False,Matukar.htm,False,,2
+matu1261-14-1,,matu1261,14,numau aru tote hon neu skun yawayawa,numau aru tote hon neu skun yawayawa,[],,[],,False,Matukar.htm,False,,1
+matu1261-14-2,,matu1261,14,numau arurur taute neu kukun yawayawa,numau arurur taute neu kukun yawayawa,[],,[],,False,Matukar.htm,False,,1
+matu1261-14-3,,matu1261,14,skun aru yawayawa,skun aru yawayawa,[],,[],,False,Matukar.htm,False,,2
+matu1261-15-1,,matu1261,15,numau ɡudun tol,numau ɡudun tol,[],(lit: 'hands three'),[],,False,Matukar.htm,False,,1
+matu1261-15-2,,matu1261,15,numau aruru,numau aruru,[],,[],,False,Matukar.htm,False,,1
+matu1261-15-3,,matu1261,15,skun tol,skun tol,[],(lit: 'hands three'),[],,False,Matukar.htm,False,,2
+matu1261-16-1,,matu1261,16,skun tol tahek,skun tol tahek,[],,[],,False,Matukar.htm,False,,2
+matu1261-17-1,,matu1261,17,skun tol aru,skun tol aru,[],,[],,False,Matukar.htm,False,,2
+matu1261-18-1,,matu1261,18,skun tol tol,skun tol tol,[],,[],,False,Matukar.htm,False,,2
+matu1261-19-1,,matu1261,19,skun tol yawayawa,skun tol yawayawa,[],,[],,False,Matukar.htm,False,,2
+matu1261-20-1,,matu1261,20,numau ɡudun yawa yawa,numau ɡudun yawa yawa,[],(lit: 'hands four'),[],,False,Matukar.htm,False,,1
+matu1261-20-2,,matu1261,20,neu da numau da,neu da numau da,[],,[],,False,Matukar.htm,False,,1
+matu1261-20-3,,matu1261,20,neu aru,neu aru,[],,[],,False,Matukar.htm,False,,1
+matu1261-20-4,,matu1261,20,numau,numau,[],(arurur taute neu aruru taute),[],,False,Matukar.htm,False,,1
+matu1261-20-5,,matu1261,20,skun yawayawa,skun yawayawa,[],(lit: 'hands four'),[],,False,Matukar.htm,False,,2

@@ -1,0 +1,133 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nucl1417-1-1,,nucl1417,1,ótù,ótù,[],,[],,False,Igbo.htm,False,,1
+nucl1417-1-2,,nucl1417,1,otù,otù,[],,[],,False,Igbo.htm,False,,2
+nucl1417-1-3,,nucl1417,1,otù,otù,[],,[],,False,Igbo.htm,False,,3
+nucl1417-2-1,,nucl1417,2,àbʊ̄ɔ́,àbʊ̄ɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-2-2,,nucl1417,2,àbʊ̀ɔ́,àbʊ̀ɔ́,[],,[],,False,Igbo.htm,False,,2
+nucl1417-2-3,,nucl1417,2,m̀bʊ̀ɔ̀,m̀bʊ̀ɔ̀,[],,[],,False,Igbo.htm,False,,2
+nucl1417-2-4,,nucl1417,2,nam̀̀,nam̀̀,[],,[],,False,Igbo.htm,False,,2
+nucl1417-2-5,,nucl1417,2,àbʊɔ́,àbʊɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-3-1,,nucl1417,3,àtɔ́,àtɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-3-2,,nucl1417,3,tɔ,tɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-3-3,,nucl1417,3,àtɔ,àtɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-3-4,,nucl1417,3,àtɔ,àtɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-4-1,,nucl1417,4,ànɔ́,ànɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-4-2,,nucl1417,4,(ǹ)nɔ,(ǹ)nɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-4-3,,nucl1417,4,ànɔ,ànɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-4-4,,nucl1417,4,ànɔ,ànɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-5-1,,nucl1417,5,ìsé,ìsé,[],,[],,False,Igbo.htm,False,,1
+nucl1417-5-2,,nucl1417,5,se~ ìse,se~ ìse,[],,[],,False,Igbo.htm,True,,2
+nucl1417-5-3,,nucl1417,5,ìse,ìse,[],,[],,False,Igbo.htm,False,,3
+nucl1417-6-1,,nucl1417,6,ìsiì,ìsiì,[],,[],,False,Igbo.htm,False,,1
+nucl1417-6-2,,nucl1417,6,ʃiì,ʃiì,[],,[],,False,Igbo.htm,False,,2
+nucl1417-6-3,,nucl1417,6,ìʃiì,ìʃiì,[],,[],,False,Igbo.htm,False,,2
+nucl1417-6-4,,nucl1417,6,ìsiì,ìsiì,[],,[],,False,Igbo.htm,False,,3
+nucl1417-7-1,,nucl1417,7,àsáà,àsáà,[],,[],,False,Igbo.htm,False,,1
+nucl1417-7-2,,nucl1417,7,saà,saà,[],,[],,False,Igbo.htm,False,,2
+nucl1417-7-3,,nucl1417,7,àsaà,àsaà,[],,[],,False,Igbo.htm,False,,2
+nucl1417-7-4,,nucl1417,7,àsaà,àsaà,[],,[],,False,Igbo.htm,False,,3
+nucl1417-8-1,,nucl1417,8,àsátɔ́,àsátɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-8-2,,nucl1417,8,satɔ̄,satɔ̄,[],,[],,False,Igbo.htm,False,,2
+nucl1417-8-3,,nucl1417,8,àsatɔ̄,àsatɔ̄,[],,[],,False,Igbo.htm,False,,2
+nucl1417-8-4,,nucl1417,8,àsatɔ́,àsatɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-9-1,,nucl1417,9,ìtólú,ìtólú,[],,[],,False,Igbo.htm,False,,1
+nucl1417-9-2,,nucl1417,9,totū,totū,[],,[],,False,Igbo.htm,False,,2
+nucl1417-9-3,,nucl1417,9,ìtolū,ìtolū,[],,[],,False,Igbo.htm,False,,2
+nucl1417-9-4,,nucl1417,9,ìtolú,ìtolú,[],,[],,False,Igbo.htm,False,,3
+nucl1417-9-5,,nucl1417,9,̀tolú,̀tolú,[],,[],,False,Igbo.htm,False,,3
+nucl1417-10-1,,nucl1417,10,ìri,ìri,[],,[],,False,Igbo.htm,False,,1
+nucl1417-10-2,,nucl1417,10,ìri,ìri,[],,[],,False,Igbo.htm,False,,2
+nucl1417-10-3,,nucl1417,10,ìri,ìri,[],,[],,False,Igbo.htm,False,,3
+nucl1417-11-1,,nucl1417,11,ìrí nà ótù,ìrí nà ótù,[],,[],,False,Igbo.htm,False,,1
+nucl1417-11-2,,nucl1417,11,ìri nā otù,ìri nā otù,[],,[],,False,Igbo.htm,False,,2
+nucl1417-11-3,,nucl1417,11,ìri nà otù,ìri nà otù,[],,[],,False,Igbo.htm,False,,3
+nucl1417-12-1,,nucl1417,12,ìrí nà àbʊ̄ɔ́,ìrí nà àbʊ̄ɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-12-2,,nucl1417,12,ìri nà àbʊ̀ɔ̀,ìri nà àbʊ̀ɔ̀,[],,[],,False,Igbo.htm,False,,2
+nucl1417-12-3,,nucl1417,12,ìri nà àbʊɔ́,ìri nà àbʊɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-13-1,,nucl1417,13,ìrí nà àtɔ́,ìrí nà àtɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-13-2,,nucl1417,13,ìri nà àtɔ,ìri nà àtɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-13-3,,nucl1417,13,ìri nà àtɔ,ìri nà àtɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-14-1,,nucl1417,14,ìrí nà ànɔ́,ìrí nà ànɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-14-2,,nucl1417,14,ìri nà ànɔ,ìri nà ànɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-14-3,,nucl1417,14,ìri nà ànɔ,ìri nà ànɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-15-1,,nucl1417,15,ìrí nà ìsé,ìrí nà ìsé,[],,[],,False,Igbo.htm,False,,1
+nucl1417-15-2,,nucl1417,15,ìri nà ìse,ìri nà ìse,[],,[],,False,Igbo.htm,False,,2
+nucl1417-15-3,,nucl1417,15,ìri nà ìse,ìri nà ìse,[],,[],,False,Igbo.htm,False,,3
+nucl1417-16-1,,nucl1417,16,ìrí nà ìsiì,ìrí nà ìsiì,[],,[],,False,Igbo.htm,False,,1
+nucl1417-16-2,,nucl1417,16,ìri nà ìʃiì,ìri nà ìʃiì,[],,[],,False,Igbo.htm,False,,2
+nucl1417-16-3,,nucl1417,16,ìri nà ìsiì,ìri nà ìsiì,[],,[],,False,Igbo.htm,False,,3
+nucl1417-17-1,,nucl1417,17,ìrí nà àsáà,ìrí nà àsáà,[],,[],,False,Igbo.htm,False,,1
+nucl1417-17-2,,nucl1417,17,ìri nà àsaà,ìri nà àsaà,[],,[],,False,Igbo.htm,False,,2
+nucl1417-17-3,,nucl1417,17,ìri nà àsaà,ìri nà àsaà,[],,[],,False,Igbo.htm,False,,3
+nucl1417-18-1,,nucl1417,18,ìrí nà àsátɔ́,ìrí nà àsátɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-18-2,,nucl1417,18,ìri nà àsatɔ̄,ìri nà àsatɔ̄,[],,[],,False,Igbo.htm,False,,2
+nucl1417-18-3,,nucl1417,18,ìri nà àsatɔ́,ìri nà àsatɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-19-1,,nucl1417,19,ìrí nà ìtólú,ìrí nà ìtólú,[],,[],,False,Igbo.htm,False,,1
+nucl1417-19-2,,nucl1417,19,ìri nà ìtolū,ìri nà ìtolū,[],,[],,False,Igbo.htm,False,,2
+nucl1417-19-3,,nucl1417,19,ìri nà ìtolú,ìri nà ìtolú,[],,[],,False,Igbo.htm,False,,3
+nucl1417-20-1,,nucl1417,20,ìrí àbʊ́ɔ́,ìrí àbʊ́ɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-20-2,,nucl1417,20,ɔɣʰʊ̄,ɔɣʰʊ̄,[],,[],,False,Igbo.htm,False,,2
+nucl1417-20-3,,nucl1417,20,ìri àbʊɔ́,ìri àbʊɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-21-1,,nucl1417,21,ìrí àbʊ̀ɔ̄ nà ótù,ìrí àbʊ̀ɔ̄ nà ótù,[],,[],,False,Igbo.htm,False,,1
+nucl1417-21-2,,nucl1417,21,ɔɣʰʊ̄ na otù,ɔɣʰʊ̄ na otù,[],,[],,False,Igbo.htm,False,,2
+nucl1417-21-3,,nucl1417,21,ìri àbʊɔ́ nà otù,ìri àbʊɔ́ nà otù,[],,[],,False,Igbo.htm,False,,3
+nucl1417-22-1,,nucl1417,22,ìrí àbʊ̀ɔ̄ nà àbʊ̄ɔ́,ìrí àbʊ̀ɔ̄ nà àbʊ̄ɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-22-2,,nucl1417,22,ɔɣʰʊ̄ nà àbʊ̀ɔ́,ɔɣʰʊ̄ nà àbʊ̀ɔ́,[],,[],,False,Igbo.htm,False,,2
+nucl1417-22-3,,nucl1417,22,ìri àbʊɔ́ nà àbʊɔ́,ìri àbʊɔ́ nà àbʊɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-23-1,,nucl1417,23,ìrí àbʊ̀ɔ̄ nà àtɔ́,ìrí àbʊ̀ɔ̄ nà àtɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-23-2,,nucl1417,23,ɔɣʰʊ̄ nà àtɔ,ɔɣʰʊ̄ nà àtɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-23-3,,nucl1417,23,ìri àbʊɔ́ nà àtɔ,ìri àbʊɔ́ nà àtɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-24-1,,nucl1417,24,ìrí àbʊ̀ɔ̄ nà ànɔ́,ìrí àbʊ̀ɔ̄ nà ànɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-24-2,,nucl1417,24,ɔɣʰʊ̄ nà ànɔ,ɔɣʰʊ̄ nà ànɔ,[],,[],,False,Igbo.htm,False,,2
+nucl1417-24-3,,nucl1417,24,ìri àbʊɔ́ nà ànɔ,ìri àbʊɔ́ nà ànɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-25-1,,nucl1417,25,ìrí àbʊ̀ɔ̄ nà ìsé,ìrí àbʊ̀ɔ̄ nà ìsé,[],,[],,False,Igbo.htm,False,,1
+nucl1417-25-2,,nucl1417,25,ɔɣʰʊ̄ nà ìse,ɔɣʰʊ̄ nà ìse,[],,[],,False,Igbo.htm,False,,2
+nucl1417-25-3,,nucl1417,25,ìri àbʊɔ́ nà ìse,ìri àbʊɔ́ nà ìse,[],,[],,False,Igbo.htm,False,,3
+nucl1417-26-1,,nucl1417,26,ìrí àbʊ̀ɔ̄ nà ìsiì,ìrí àbʊ̀ɔ̄ nà ìsiì,[],,[],,False,Igbo.htm,False,,1
+nucl1417-26-2,,nucl1417,26,ɔɣʰʊ̄ nà ìʃiì,ɔɣʰʊ̄ nà ìʃiì,[],,[],,False,Igbo.htm,False,,2
+nucl1417-26-3,,nucl1417,26,ìri àbʊɔ́ nà ìsiì,ìri àbʊɔ́ nà ìsiì,[],,[],,False,Igbo.htm,False,,3
+nucl1417-27-1,,nucl1417,27,ìrí àbʊ̀ɔ̄ nà àsáà,ìrí àbʊ̀ɔ̄ nà àsáà,[],,[],,False,Igbo.htm,False,,1
+nucl1417-27-2,,nucl1417,27,ɔɣʰʊ̄ nà àsaà,ɔɣʰʊ̄ nà àsaà,[],,[],,False,Igbo.htm,False,,2
+nucl1417-27-3,,nucl1417,27,ìri àbʊɔ́ nà àsaà,ìri àbʊɔ́ nà àsaà,[],,[],,False,Igbo.htm,False,,3
+nucl1417-28-1,,nucl1417,28,ìrí àbʊ̀ɔ̄ nà àsátɔ́,ìrí àbʊ̀ɔ̄ nà àsátɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-28-2,,nucl1417,28,ɔɣʰʊ̄ nà àsatɔ̀,ɔɣʰʊ̄ nà àsatɔ̀,[],,[],,False,Igbo.htm,False,,2
+nucl1417-28-3,,nucl1417,28,ìri àbʊɔ́ nà àsatɔ́,ìri àbʊɔ́ nà àsatɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-29-1,,nucl1417,29,ìrí àbʊ̀ɔ̄ nà ìtólú,ìrí àbʊ̀ɔ̄ nà ìtólú,[],,[],,False,Igbo.htm,False,,1
+nucl1417-29-2,,nucl1417,29,ɔɣʰʊ̄ nà ìtolū,ɔɣʰʊ̄ nà ìtolū,[],,[],,False,Igbo.htm,False,,2
+nucl1417-29-3,,nucl1417,29,ìri àbʊɔ́ nà ìtolú,ìri àbʊɔ́ nà ìtolú,[],,[],,False,Igbo.htm,False,,3
+nucl1417-30-1,,nucl1417,30,ìrí àtɔ́,ìrí àtɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-30-2,,nucl1417,30,ɔɣʰʊ̄ na ìri,ɔɣʰʊ̄ na ìri,[],[20+10],[],,False,Igbo.htm,False,,2
+nucl1417-30-3,,nucl1417,30,ìri átɔ,ìri átɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-40-1,,nucl1417,40,ìrí ànɔ́,ìrí ànɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-40-2,,nucl1417,40,ɔɣʰʊ̄ nam̀,ɔɣʰʊ̄ nam̀,[],[20 x 2],[],,False,Igbo.htm,False,,2
+nucl1417-40-3,,nucl1417,40,ìri ánɔ,ìri ánɔ,[],,[],,False,Igbo.htm,False,,3
+nucl1417-50-1,,nucl1417,50,ìrí ìsé,ìrí ìsé,[],,[],,False,Igbo.htm,False,,1
+nucl1417-50-2,,nucl1417,50,ɔɣʰʊ̄ nam̀ na ìri,ɔɣʰʊ̄ nam̀ na ìri,[],,[],,False,Igbo.htm,False,,2
+nucl1417-50-3,,nucl1417,50,ìri íse,ìri íse,[],,[],,False,Igbo.htm,False,,3
+nucl1417-60-1,,nucl1417,60,ìrí isiì,ìrí isiì,[],,[],,False,Igbo.htm,False,,1
+nucl1417-60-2,,nucl1417,60,ɔɣʰʊ̄ atɔ,ɔɣʰʊ̄ atɔ,[],[20 x 3],[],,False,Igbo.htm,False,,2
+nucl1417-60-3,,nucl1417,60,ìri isiì,ìri isiì,[],,[],,False,Igbo.htm,False,,3
+nucl1417-70-1,,nucl1417,70,ìrí àsáà,ìrí àsáà,[],,[],,False,Igbo.htm,False,,1
+nucl1417-70-2,,nucl1417,70,ɔɣʰʊ̄ atɔ na ìri,ɔɣʰʊ̄ atɔ na ìri,[],,[],,False,Igbo.htm,False,,2
+nucl1417-70-3,,nucl1417,70,ìri asaà,ìri asaà,[],,[],,False,Igbo.htm,False,,3
+nucl1417-80-1,,nucl1417,80,ìrí àsátɔ́,ìrí àsátɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-80-2,,nucl1417,80,ɔɣʰʊ̄ atɔ,ɔɣʰʊ̄ atɔ,[],[20 x 4],[],,False,Igbo.htm,False,,2
+nucl1417-80-3,,nucl1417,80,ìri asatɔ́,ìri asatɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-90-1,,nucl1417,90,ìrí itólú,ìrí itólú,[],,[],,False,Igbo.htm,False,,1
+nucl1417-90-2,,nucl1417,90,ɔɣʰʊ̄ atɔ na ìri,ɔɣʰʊ̄ atɔ na ìri,[],,[],,False,Igbo.htm,False,,2
+nucl1417-90-3,,nucl1417,90,ìri itolú,ìri itolú,[],,[],,False,Igbo.htm,False,,3
+nucl1417-100-1,,nucl1417,100,nàrɪ̀,nàrɪ̀,[],,[],,False,Igbo.htm,False,,1
+nucl1417-100-2,,nucl1417,100,200. nàrɪ̀ àbʊ̄ɔ̄,200. nàrɪ̀ àbʊ̄ɔ̄,[],,[],,False,Igbo.htm,True,,1
+nucl1417-100-3,,nucl1417,100,ɔɣʰʊ̄ ise,ɔɣʰʊ̄ ise,[],[20 x 5],[],,False,Igbo.htm,False,,2
+nucl1417-100-4,,nucl1417,100,ǹnàrɪ̀,ǹnàrɪ̀,[],,[],,False,Igbo.htm,False,,3
+nucl1417-200-1,,nucl1417,200,ɔɣʰʊ̄ ìri,ɔɣʰʊ̄ ìri,[],[20 x 10],[],,False,Igbo.htm,False,,2
+nucl1417-200-2,,nucl1417,200,400. nnʊ̀,400. nnʊ̀,[],,[],,False,Igbo.htm,True,,2
+nucl1417-200-3,,nucl1417,200,ǹnàrɪ̀ àbʊɔ́,ǹnàrɪ̀ àbʊɔ́,[],,[],,False,Igbo.htm,False,,3
+nucl1417-400-1,,nucl1417,400,nàrɪ̀ ànɔ́,nàrɪ̀ ànɔ́,[],,[],,False,Igbo.htm,False,,1
+nucl1417-400-2,,nucl1417,400,800.nàrɪ̀ àsátɔ́,800.nàrɪ̀ àsátɔ́,[],,[],,False,Igbo.htm,True,,1
+nucl1417-800-1,,nucl1417,800,nnʊ̀ nam̀,nnʊ̀ nam̀,[],[400 x 2],[],,False,Igbo.htm,False,,2
+nucl1417-1000-1,,nucl1417,1000,pùkú,pùkú,[],,[],,False,Igbo.htm,False,,1
+nucl1417-1000-2,,nucl1417,1000,nnʊ̀ nam̀ nà ɔɣʰʊ̄ ìri,nnʊ̀ nam̀ nà ɔɣʰʊ̄ ìri,[],[400 x 2+20 x10],[],,False,Igbo.htm,False,,2
+nucl1417-1000-3,,nucl1417,1000,puku,puku,[],,[],,False,Igbo.htm,False,,3
+nucl1417-2000-1,,nucl1417,2000,pùkú àbʊ́ɔ̄,pùkú àbʊ́ɔ̄,[],,[],,False,Igbo.htm,False,,1
+nucl1417-2000-2,,nucl1417,2000,puku àbʊɔ́,puku àbʊɔ́,[],,[],,False,Igbo.htm,False,,3

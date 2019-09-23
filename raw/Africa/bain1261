@@ -1,0 +1,128 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bain1261-1-1,,bain1261,1,-nduk,-nduk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-1-2,,bain1261,1,uŋɡonduk,uŋɡonduk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-1-3,,bain1261,1,-duk,-duk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-2-1,,bain1261,2,-na:k,-na:k,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-2-2,,bain1261,2,hanakk,hanakk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-2-3,,bain1261,2,-nak,-nak,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-3-1,,bain1261,3,-lal:,-lal:,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-3-2,,bain1261,3,halall,halall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-3-3,,bain1261,3,-lall,-lall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-4-1,,bain1261,4,-rendek,-rendek,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-4-2,,bain1261,4,harɛnɛk,harɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-4-3,,bain1261,4,-rɛnɛk,-rɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-5-1,,bain1261,5,cilax,cilax,[],(lit: ''hand''),[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-5-2,,bain1261,5,hɐməkila,hɐməkila,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-5-3,,bain1261,5,-məkila,-məkila,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-6-1,,bain1261,6,cilax aŋɡa -nduk,cilax aŋɡa -nduk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-6-2,,bain1261,6,hɐməkila iŋɡi uŋɡonduk,hɐməkila iŋɡi uŋɡonduk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-6-3,,bain1261,6,-məkila iŋɡi -duk,-məkila iŋɡi -duk,[],( 5 + 1 ),[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-7-1,,bain1261,7,cilax aŋɡa -na:k,cilax aŋɡa -na:k,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-7-2,,bain1261,7,hɐməkila iŋɡi hanakk,hɐməkila iŋɡi hanakk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-7-3,,bain1261,7,-məkila iŋɡi -nak,-məkila iŋɡi -nak,[],( 5 + 2 ),[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-8-1,,bain1261,8,cilax aŋɡa -lal:,cilax aŋɡa -lal:,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-8-2,,bain1261,8,hɐməkila iŋɡi halall,hɐməkila iŋɡi halall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-8-3,,bain1261,8,-məkila iŋɡi -lall,-məkila iŋɡi -lall,[],( 5 + 3 ),[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-9-1,,bain1261,9,cilax aŋɡa -rɛndɛk,cilax aŋɡa -rɛndɛk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-9-2,,bain1261,9,hɐməkila iŋɡi harɛnɛk,hɐməkila iŋɡi harɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-9-3,,bain1261,9,-məkila iŋɡi -rɛnɛk,-məkila iŋɡi -rɛnɛk,[],( 5 + 4 ),[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-10-1,,bain1261,10,ha:lax,ha:lax,[],( litː ''feet''),[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-10-2,,bain1261,10,haala,haala,[],(litː hands),[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-10-3,,bain1261,10,ha-lah,ha-lah,[],( litː hands),[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-11-1,,bain1261,11,ha:lax aŋɡa -nduk,ha:lax aŋɡa -nduk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-11-2,,bain1261,11,haala iŋɡi uŋɡonduk,haala iŋɡi uŋɡonduk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-11-3,,bain1261,11,ha-lah iŋɡi -duk,ha-lah iŋɡi -duk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-12-1,,bain1261,12,ha:lax aŋɡa -na:k,ha:lax aŋɡa -na:k,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-12-2,,bain1261,12,haala iŋɡi hanakk,haala iŋɡi hanakk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-12-3,,bain1261,12,ha-lah iŋɡi -nak,ha-lah iŋɡi -nak,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-13-1,,bain1261,13,ha:lax aŋɡa -lal:,ha:lax aŋɡa -lal:,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-13-2,,bain1261,13,haala iŋɡi halall,haala iŋɡi halall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-13-3,,bain1261,13,ha-lah iŋɡi -lall,ha-lah iŋɡi -lall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-14-1,,bain1261,14,ha:lax aŋɡa -rɛndɛk,ha:lax aŋɡa -rɛndɛk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-14-2,,bain1261,14,haala iŋɡi harɛnɛk,haala iŋɡi harɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-14-3,,bain1261,14,ha-lah iŋɡi -rɛnɛk,ha-lah iŋɡi -rɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-15-1,,bain1261,15,ha:lasidi:x,ha:lasidi:x,[],(lit: ''feet and hand''),[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-15-2,,bain1261,15,butiken,butiken,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-15-3,,bain1261,15,butiŋken,butiŋken,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-15-4,,bain1261,15,ha-lah iŋɡi -məkila,ha-lah iŋɡi -məkila,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-16-1,,bain1261,16,ha:lasidi:x aŋɡa -nduk,ha:lasidi:x aŋɡa -nduk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-16-2,,bain1261,16,butiken iŋɡi uŋɡonduk,butiken iŋɡi uŋɡonduk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-16-3,,bain1261,16,butiŋken iŋɡi-duk,butiŋken iŋɡi-duk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-16-4,,bain1261,16,ha-lah iŋɡi + 6,ha-lah iŋɡi + 6,[],,[],,False,Banyun-Gunyaamolo.htm,True,,2
+bain1261-17-1,,bain1261,17,ha:lasidi:x aŋɡa -na:k,ha:lasidi:x aŋɡa -na:k,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-17-2,,bain1261,17,butiken iŋɡi hanakk,butiken iŋɡi hanakk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-17-3,,bain1261,17,butiŋken iŋɡi-nak,butiŋken iŋɡi-nak,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-17-4,,bain1261,17,ha-lah iŋɡi + 7,ha-lah iŋɡi + 7,[],,[],,False,Banyun-Gunyaamolo.htm,True,,2
+bain1261-18-1,,bain1261,18,ha:lasidi:x aŋɡa -lal:,ha:lasidi:x aŋɡa -lal:,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-18-2,,bain1261,18,butiken iŋɡi halall,butiken iŋɡi halall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-18-3,,bain1261,18,butiŋken iŋɡ lall,butiŋken iŋɡ lall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-18-4,,bain1261,18,ha-lah iŋɡi + 8,ha-lah iŋɡi + 8,[],,[],,False,Banyun-Gunyaamolo.htm,True,,2
+bain1261-19-1,,bain1261,19,ha:lasidi:x aŋɡa -rɛndɛk,ha:lasidi:x aŋɡa -rɛndɛk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-19-2,,bain1261,19,butiken iŋɡi harɛnɛk,butiken iŋɡi harɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-19-3,,bain1261,19,butiŋken iŋɡi-rɛnɛk,butiŋken iŋɡi-rɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-19-4,,bain1261,19,ha-lah iŋɡi+9,ha-lah iŋɡi+9,[],,[],,False,Banyun-Gunyaamolo.htm,True,,2
+bain1261-20-1,,bain1261,20,unam,unam,[],(lit: ''king''),[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-20-2,,bain1261,20,buruhur,buruhur,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-20-3,,bain1261,20,buruhur,buruhur,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-21-1,,bain1261,21,unam aŋɡa -nduk,unam aŋɡa -nduk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-21-2,,bain1261,21,buruhur iŋɡi uŋɡonduk,buruhur iŋɡi uŋɡonduk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-21-3,,bain1261,21,buruhur iŋɡi -duk,buruhur iŋɡi -duk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-22-1,,bain1261,22,unam aŋɡa -naːk,unam aŋɡa -naːk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-22-2,,bain1261,22,buruhur iŋɡi hanakk,buruhur iŋɡi hanakk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-22-3,,bain1261,22,buruhur iŋɡi -nak,buruhur iŋɡi -nak,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-23-1,,bain1261,23,unam aŋɡa -lalː,unam aŋɡa -lalː,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-23-2,,bain1261,23,buruhur iŋɡi halall,buruhur iŋɡi halall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-23-3,,bain1261,23,buruhur iŋɡi -lall,buruhur iŋɡi -lall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-24-1,,bain1261,24,unam aŋɡa -rɛndɛk,unam aŋɡa -rɛndɛk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-24-2,,bain1261,24,buruhur iŋɡi harɛnɛk,buruhur iŋɡi harɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-24-3,,bain1261,24,buruhur iŋɡi -rɛnɛk,buruhur iŋɡi -rɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-25-1,,bain1261,25,unam aŋɡa cilax,unam aŋɡa cilax,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-25-2,,bain1261,25,buruhur iŋɡi hɐməkila,buruhur iŋɡi hɐməkila,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-25-3,,bain1261,25,buruhur iŋɡi -məkila,buruhur iŋɡi -məkila,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-26-1,,bain1261,26,unam aŋɡa cilax aŋɡa -nduk,unam aŋɡa cilax aŋɡa -nduk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-26-2,,bain1261,26,buruhur iŋɡi hɐməkila iŋɡi uŋɡonduk,buruhur iŋɡi hɐməkila iŋɡi uŋɡonduk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-26-3,,bain1261,26,buruhur iŋɡi -məkila iŋɡi -duk,buruhur iŋɡi -məkila iŋɡi -duk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-27-1,,bain1261,27,unam aŋɡa cilax aŋɡa -naːk,unam aŋɡa cilax aŋɡa -naːk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-27-2,,bain1261,27,buruhur iŋɡi hɐməkila iŋɡi hanak,buruhur iŋɡi hɐməkila iŋɡi hanak,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-27-3,,bain1261,27,buruhur iŋɡi -məkila iŋɡi -nak,buruhur iŋɡi -məkila iŋɡi -nak,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-28-1,,bain1261,28,unam aŋɡa cilax aŋɡa -lalː,unam aŋɡa cilax aŋɡa -lalː,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-28-2,,bain1261,28,buruhur iŋɡi hɐməkila iŋɡi halall,buruhur iŋɡi hɐməkila iŋɡi halall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-28-3,,bain1261,28,buruhur iŋɡi -məkila iŋɡi -lall,buruhur iŋɡi -məkila iŋɡi -lall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-29-1,,bain1261,29,unam aŋɡa cilax aŋɡa -rɛndɛk,unam aŋɡa cilax aŋɡa -rɛndɛk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-29-2,,bain1261,29,buruhur iŋɡi hɐməkila iŋɡi harɛnɛk,buruhur iŋɡi hɐməkila iŋɡi harɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-29-3,,bain1261,29,buruhur iŋɡi -məkila iŋɡi -rɛnɛk,buruhur iŋɡi -məkila iŋɡi -rɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-30-1,,bain1261,30,unam aŋɡa haːlax,unam aŋɡa haːlax,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-30-2,,bain1261,30,buruhur iŋɡi haala,buruhur iŋɡi haala,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-30-3,,bain1261,30,buruhur iŋɡi ha-lah,buruhur iŋɡi ha-lah,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-40-1,,bain1261,40,ɲannaminak,ɲannaminak,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-40-2,,bain1261,40,ɟamaŋ ɪnakk,ɟamaŋ ɪnakk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-40-3,,bain1261,40,ɟamã ɪn-nak,ɟamã ɪn-nak,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-50-1,,bain1261,50,ɲannaminak aŋɡa haːlax,ɲannaminak aŋɡa haːlax,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-50-2,,bain1261,50,ɟamaŋ ɪnakk iŋɡi haala,ɟamaŋ ɪnakk iŋɡi haala,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-50-3,,bain1261,50,ɟamã ɪn-nak iŋɡi ha-lah,ɟamã ɪn-nak iŋɡi ha-lah,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-60-1,,bain1261,60,ɲannamillal,ɲannamillal,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-60-2,,bain1261,60,ɟamaŋ ɪlall,ɟamaŋ ɪlall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-60-3,,bain1261,60,ɟamã ɪ-lall,ɟamã ɪ-lall,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-70-1,,bain1261,70,ɲannamillal aŋɡa haːlax,ɲannamillal aŋɡa haːlax,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-70-2,,bain1261,70,ɟamaŋ ɪlall iŋɡi haala,ɟamaŋ ɪlall iŋɡi haala,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-70-3,,bain1261,70,ɟamã ɪ-lall iŋɡi ha-lah,ɟamã ɪ-lall iŋɡi ha-lah,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-80-1,,bain1261,80,ɲannamirɛndɛk,ɲannamirɛndɛk,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-80-2,,bain1261,80,ɟamaŋ ɪrɛnɛk,ɟamaŋ ɪrɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-80-3,,bain1261,80,ɟamã ɪ-rɛnɛk,ɟamã ɪ-rɛnɛk,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-90-1,,bain1261,90,ɲannamirɛndɛk aŋɡa haːlax,ɲannamirɛndɛk aŋɡa haːlax,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-90-2,,bain1261,90,ɟamaŋ ɪrɛnɛk iŋɡi haala,ɟamaŋ ɪrɛnɛk iŋɡi haala,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-90-3,,bain1261,90,ɟamã ɪ-rɛnɛk iŋɡi ha-lah,ɟamã ɪ-rɛnɛk iŋɡi ha-lah,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-100-1,,bain1261,100,teːmer,teːmer,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-100-2,,bain1261,100,200. teːmeŋ anaːkaŋ,200. teːmeŋ anaːkaŋ,[],,[],,False,Banyun-Gubeeher.htm,True,,1
+bain1261-100-3,,bain1261,100,kɛmɛ,kɛmɛ,[],( < Madinke ),[],,True,Banyun-Gunyaamolo.htm,False,,1
+bain1261-100-4,,bain1261,100,kɛmɛ,kɛmɛ,[],( < Madinke ),[],,True,Banyun-Gunyaamolo.htm,False,,2
+bain1261-200-1,,bain1261,200,kɛmɛŋ anakaŋ,kɛmɛŋ anakaŋ,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-200-2,,bain1261,200,kɛmɛ a-nak-ã,kɛmɛ a-nak-ã,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2
+bain1261-400-1,,bain1261,400,teːmeŋ arendekeŋ,teːmeŋ arendekeŋ,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-800-1,,bain1261,800,teːmeŋ cilax aŋɡa alal:aŋ,teːmeŋ cilax aŋɡa alal:aŋ,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-1000-1,,bain1261,1000,wuli,wuli,[],,[],,False,Banyun-Gubeeher.htm,False,,1
+bain1261-1000-2,,bain1261,1000,2000. wulieŋ anaːkaŋ,2000. wulieŋ anaːkaŋ,[],,[],,False,Banyun-Gubeeher.htm,True,,1
+bain1261-1000-3,,bain1261,1000,wʊlɪ,wʊlɪ,[],( < Mandinke),[],,True,Banyun-Gunyaamolo.htm,False,,1
+bain1261-1000-4,,bain1261,1000,wuli,wuli,[],( < Mandinke),[],,True,Banyun-Gunyaamolo.htm,False,,2
+bain1261-2000-1,,bain1261,2000,wʊlɪ anakaŋ,wʊlɪ anakaŋ,[],,[],,False,Banyun-Gunyaamolo.htm,False,,1
+bain1261-2000-2,,bain1261,2000,wuli a-nak-ã,wuli a-nak-ã,[],,[],,False,Banyun-Gunyaamolo.htm,False,,2

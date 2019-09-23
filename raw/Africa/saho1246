@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+saho1246-1-1,,saho1246,1,inik,inik,[],,[],,False,Saho.htm,False,,1
+saho1246-2-1,,saho1246,2,lam:a,lam:a,[],,[],,False,Saho.htm,False,,1
+saho1246-3-1,,saho1246,3,adoħ,adoħ,[],,[],,False,Saho.htm,False,,1
+saho1246-4-1,,saho1246,4,afar,afar,[],,[],,False,Saho.htm,False,,1
+saho1246-5-1,,saho1246,5,ko:n,ko:n,[],,[],,False,Saho.htm,False,,1
+saho1246-6-1,,saho1246,6,liħ,liħ,[],,[],,False,Saho.htm,False,,1
+saho1246-7-1,,saho1246,7,malħin,malħin,[],,[],,False,Saho.htm,False,,1
+saho1246-8-1,,saho1246,8,baħar,baħar,[],,[],,False,Saho.htm,False,,1
+saho1246-9-1,,saho1246,9,saɡal,saɡal,[],,[],,False,Saho.htm,False,,1
+saho1246-10-1,,saho1246,10,taman,taman,[],,[],,False,Saho.htm,False,,1
+saho1246-11-1,,saho1246,11,inikan ke: taman,inikan ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-12-1,,saho1246,12,lam:an ke: taman,lam:an ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-13-1,,saho1246,13,ado:ħan ke: taman,ado:ħan ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-14-1,,saho1246,14,af:aran ke: taman,af:aran ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-15-1,,saho1246,15,ko:nan ke: taman,ko:nan ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-16-1,,saho1246,16,liħan ke: taman,liħan ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-17-1,,saho1246,17,malħinan ke: taman,malħinan ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-18-1,,saho1246,18,baħ:aran ke: taman,baħ:aran ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-19-1,,saho1246,19,saɡ:alan ke: taman,saɡ:alan ke: taman,[],,[],,False,Saho.htm,False,,1
+saho1246-20-1,,saho1246,20,lama:tan:a,lama:tan:a,[],,[],,False,Saho.htm,False,,1
+saho1246-21-1,,saho1246,21,lama:tan:a ke: inik,lama:tan:a ke: inik,[],,[],,False,Saho.htm,False,,1
+saho1246-22-1,,saho1246,22,lama:tan:a ke: lam:a,lama:tan:a ke: lam:a,[],,[],,False,Saho.htm,False,,1
+saho1246-23-1,,saho1246,23,lama:tan:a ke: adoħ,lama:tan:a ke: adoħ,[],,[],,False,Saho.htm,False,,1
+saho1246-24-1,,saho1246,24,lama:tan:a ke: afar,lama:tan:a ke: afar,[],,[],,False,Saho.htm,False,,1
+saho1246-25-1,,saho1246,25,lama:tan:a ke: ko:n,lama:tan:a ke: ko:n,[],,[],,False,Saho.htm,False,,1
+saho1246-26-1,,saho1246,26,lama:tan:a ke: liħ,lama:tan:a ke: liħ,[],,[],,False,Saho.htm,False,,1
+saho1246-27-1,,saho1246,27,lama:tan:a ke: malħin,lama:tan:a ke: malħin,[],,[],,False,Saho.htm,False,,1
+saho1246-28-1,,saho1246,28,lama:tan:a ke: baħar,lama:tan:a ke: baħar,[],,[],,False,Saho.htm,False,,1
+saho1246-29-1,,saho1246,29,lama:tan:a ke: saɡal,lama:tan:a ke: saɡal,[],,[],,False,Saho.htm,False,,1
+saho1246-30-1,,saho1246,30,sod:om,sod:om,[],,[],,False,Saho.htm,False,,1
+saho1246-30-2,,saho1246,30,saz:am,saz:am,[],,[],,False,Saho.htm,False,,1
+saho1246-40-1,,saho1246,40,maro:tom,maro:tom,[],,[],,False,Saho.htm,False,,1
+saho1246-50-1,,saho1246,50,kontom,kontom,[],,[],,False,Saho.htm,False,,1
+saho1246-60-1,,saho1246,60,laħtam,laħtam,[],,[],,False,Saho.htm,False,,1
+saho1246-70-1,,saho1246,70,malħintomon,malħintomon,[],,[],,False,Saho.htm,False,,1
+saho1246-80-1,,saho1246,80,boħortomon,boħortomon,[],,[],,False,Saho.htm,False,,1
+saho1246-90-1,,saho1246,90,saɡala taman,saɡala taman,[],,[],,False,Saho.htm,False,,1
+saho1246-90-2,,saho1246,90,bo:l saɡal,bo:l saɡal,[],,[],,False,Saho.htm,False,,1
+saho1246-100-1,,saho1246,100,bo:l,bo:l,[],,[],,False,Saho.htm,False,,1
+saho1246-200-1,,saho1246,200,lam:a bo:l,lam:a bo:l,[],,[],,False,Saho.htm,False,,1
+saho1246-1000-1,,saho1246,1000,ʃi:ħ,ʃi:ħ,[],( < Amharic ),[],,True,Saho.htm,False,,1
+saho1246-2000-1,,saho1246,2000,lam:a ʃi:ħ,lam:a ʃi:ħ,[],,[],,False,Saho.htm,False,,1

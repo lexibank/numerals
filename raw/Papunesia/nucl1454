@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nucl1454-1-1,,nucl1454,1,intabo,intabo,[],,[],,False,Yawa.htm,False,,1
+nucl1454-2-1,,nucl1454,2,jirum,jirum,[],( * j = dʒ),[],,False,Yawa.htm,False,,1
+nucl1454-3-1,,nucl1454,3,mandeij,mandeij,[],,[],,False,Yawa.htm,False,,1
+nucl1454-4-1,,nucl1454,4,mambisy,mambisy,[],,[],,False,Yawa.htm,False,,1
+nucl1454-5-1,,nucl1454,5,radani,radani,[],,[],,False,Yawa.htm,False,,1
+nucl1454-5-2,,nucl1454,5,na,na,[],,[],,False,Yawa.htm,False,,1
+nucl1454-6-1,,nucl1454,6,kaujentabo,kaujentabo,[],( 5 + 1 ),[],,False,Yawa.htm,False,,1
+nucl1454-7-1,,nucl1454,7,kaujiru,kaujiru,[],( 5 + 2 ),[],,False,Yawa.htm,False,,1
+nucl1454-8-1,,nucl1454,8,kaumandeij,kaumandeij,[],( 5 + 3 ),[],,False,Yawa.htm,False,,1
+nucl1454-9-1,,nucl1454,9,kaimambisy,kaimambisy,[],( 5 + 4 ),[],,False,Yawa.htm,False,,1
+nucl1454-10-1,,nucl1454,10,abusyin,abusyin,[],,[],,False,Yawa.htm,False,,1
+nucl1454-11-1,,nucl1454,11,abusyin eyane intabo,abusyin eyane intabo,[],,[],,False,Yawa.htm,False,,1
+nucl1454-12-1,,nucl1454,12,abusyin eyane jirum,abusyin eyane jirum,[],,[],,False,Yawa.htm,False,,1
+nucl1454-13-1,,nucl1454,13,abusyin eyane mandeij,abusyin eyane mandeij,[],,[],,False,Yawa.htm,False,,1
+nucl1454-14-1,,nucl1454,14,abusyin eyane mambisy,abusyin eyane mambisy,[],,[],,False,Yawa.htm,False,,1
+nucl1454-15-1,,nucl1454,15,abusyin eyane mambisy,abusyin eyane mambisy,[],,[],,False,Yawa.htm,False,,1
+nucl1454-16-1,,nucl1454,16,abusyin eyane kaujentabo,abusyin eyane kaujentabo,[],,[],,False,Yawa.htm,False,,1
+nucl1454-17-1,,nucl1454,17,abusyin eyane kaujiru,abusyin eyane kaujiru,[],,[],,False,Yawa.htm,False,,1
+nucl1454-18-1,,nucl1454,18,abusyin eyane kaumandeij,abusyin eyane kaumandeij,[],,[],,False,Yawa.htm,False,,1
+nucl1454-19-1,,nucl1454,19,abusyin eyane kaimambisy,abusyin eyane kaimambisy,[],,[],,False,Yawa.htm,False,,1
+nucl1454-20-1,,nucl1454,20,vatan intabo,vatan intabo,[],( ''one person'' * ),[],,False,Yawa.htm,False,,1
+nucl1454-21-1,,nucl1454,21,vatan intabo eyane intabo,vatan intabo eyane intabo,[],,[],,False,Yawa.htm,False,,1
+nucl1454-22-1,,nucl1454,22,vatan intabo eyane jirum,vatan intabo eyane jirum,[],,[],,False,Yawa.htm,False,,1
+nucl1454-23-1,,nucl1454,23,vatan intabo eyane mandeij,vatan intabo eyane mandeij,[],,[],,False,Yawa.htm,False,,1
+nucl1454-24-1,,nucl1454,24,vatan intabo eyane mambisy,vatan intabo eyane mambisy,[],,[],,False,Yawa.htm,False,,1
+nucl1454-25-1,,nucl1454,25,vatan intabo eyane mambisy,vatan intabo eyane mambisy,[],,[],,False,Yawa.htm,False,,1
+nucl1454-26-1,,nucl1454,26,vatan intabo eyane kaujentabo,vatan intabo eyane kaujentabo,[],,[],,False,Yawa.htm,False,,1
+nucl1454-27-1,,nucl1454,27,vatan intabo eyane kaujiru,vatan intabo eyane kaujiru,[],,[],,False,Yawa.htm,False,,1
+nucl1454-28-1,,nucl1454,28,vatan intabo eyane kaumandeij,vatan intabo eyane kaumandeij,[],,[],,False,Yawa.htm,False,,1
+nucl1454-29-1,,nucl1454,29,vatan intabo eyane kaimambisy,vatan intabo eyane kaimambisy,[],,[],,False,Yawa.htm,False,,1
+nucl1454-30-1,,nucl1454,30,vatan intabo eyane abusyin,vatan intabo eyane abusyin,[],,[],,False,Yawa.htm,False,,1
+nucl1454-40-1,,nucl1454,40,vatane jirum,vatane jirum,[],( ''two people'' ),[],,False,Yawa.htm,False,,1
+nucl1454-50-1,,nucl1454,50,vatane jirum eyane abusyin,vatane jirum eyane abusyin,[],,[],,False,Yawa.htm,False,,1
+nucl1454-60-1,,nucl1454,60,vatane mandeij,vatane mandeij,[],( ''three people'' ),[],,False,Yawa.htm,False,,1
+nucl1454-70-1,,nucl1454,70,vatane mandeij eyane abusyin,vatane mandeij eyane abusyin,[],,[],,False,Yawa.htm,False,,1
+nucl1454-80-1,,nucl1454,80,vatane mambisy,vatane mambisy,[],( ''four people'' ),[],,False,Yawa.htm,False,,1
+nucl1454-90-1,,nucl1454,90,vatane mambisy eyane abusyin,vatane mambisy eyane abusyin,[],,[],,False,Yawa.htm,False,,1
+nucl1454-100-1,,nucl1454,100,vatane radani,vatane radani,[],( ''five people'' ),[],,False,Yawa.htm,False,,1

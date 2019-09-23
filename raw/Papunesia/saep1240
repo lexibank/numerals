@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+saep1240-1-1,,saep1240,1,'ha.le.be,'ha.le.be,[],,[],,False,Saep.htm,False,,1
+saep1240-2-1,,saep1240,2,'a.bo.de,'a.bo.de,[],,[],,False,Saep.htm,False,,1
+saep1240-3-1,,saep1240,3,'a.bo.kʰoŋ,'a.bo.kʰoŋ,[],,[],,False,Saep.htm,False,,1
+saep1240-4-1,,saep1240,4,'daːkʰo,'daːkʰo,[],,[],,False,Saep.htm,False,,1
+saep1240-5-1,,saep1240,5,'wam.be,'wam.be,[],,[],,False,Saep.htm,False,,1
+saep1240-6-1,,saep1240,6,'wam.be 'diŋ.ɡek 'ha.le.be,'wam.be 'diŋ.ɡek 'ha.le.be,[],,[],,False,Saep.htm,False,,1
+saep1240-7-1,,saep1240,7,'wam.be 'diŋ.ɡek 'a.bo.de,'wam.be 'diŋ.ɡek 'a.bo.de,[],,[],,False,Saep.htm,False,,1
+saep1240-8-1,,saep1240,8,'wam.be 'diŋ.ɡek 'a.bo.kʰoŋ,'wam.be 'diŋ.ɡek 'a.bo.kʰoŋ,[],,[],,False,Saep.htm,False,,1
+saep1240-9-1,,saep1240,9,'wam.be 'diŋ.ɡek 'daːkʰo,'wam.be 'diŋ.ɡek 'daːkʰo,[],,[],,False,Saep.htm,False,,1
+saep1240-10-1,,saep1240,10,'wam.be 'a.bo.de,'wam.be 'a.bo.de,[],,[],,False,Saep.htm,False,,1
+saep1240-11-1,,saep1240,11,'wam.be 'a.bo.de 'diŋ.ɡek 'ha.le.be,'wam.be 'a.bo.de 'diŋ.ɡek 'ha.le.be,[],,[],,False,Saep.htm,False,,1
+saep1240-12-1,,saep1240,12,'wam.be 'a.bo.de 'diŋ.ɡek 'a.bo.de,'wam.be 'a.bo.de 'diŋ.ɡek 'a.bo.de,[],,[],,False,Saep.htm,False,,1
+saep1240-13-1,,saep1240,13,'wam.be 'a.bo.de 'diŋ.ɡek 'a.bo.kʰoŋ,'wam.be 'a.bo.de 'diŋ.ɡek 'a.bo.kʰoŋ,[],,[],,False,Saep.htm,False,,1
+saep1240-14-1,,saep1240,14,'wam.be 'a.bo.de 'diŋ.ɡek 'daːkʰo,'wam.be 'a.bo.de 'diŋ.ɡek 'daːkʰo,[],,[],,False,Saep.htm,False,,1
+saep1240-15-1,,saep1240,15,'wam.be 'a.bo.de 'a.ni be,'wam.be 'a.bo.de 'a.ni be,[],,[],,False,Saep.htm,False,,1
+saep1240-16-1,,saep1240,16,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 1,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 1,[],,[],,False,Saep.htm,True,,1
+saep1240-17-1,,saep1240,17,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 2,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 2,[],,[],,False,Saep.htm,True,,1
+saep1240-18-1,,saep1240,18,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 3,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 3,[],,[],,False,Saep.htm,True,,1
+saep1240-19-1,,saep1240,19,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 4,'wam.be 'a.bo.de 'a.ni be 'diŋ.ɡek + 4,[],,[],,False,Saep.htm,True,,1
+saep1240-20-1,,saep1240,20,'si.me 'mok.ᵑɡo,'si.me 'mok.ᵑɡo,[],,[],,False,Saep.htm,False,,1
+saep1240-21-1,,saep1240,21,'s. 'm. 'kʰa.ba 'si.me be wam'diŋ.ɡek 'ha.le.be,'s. 'm. 'kʰa.ba 'si.me be wam'diŋ.ɡek 'ha.le.be,[],,[],,False,Saep.htm,True,,1
+saep1240-22-1,,saep1240,22,'s. 'm. 'kʰa.ba 'si.me be wam'diŋ.ɡek 'a.bo.de,'s. 'm. 'kʰa.ba 'si.me be wam'diŋ.ɡek 'a.bo.de,[],,[],,False,Saep.htm,True,,1
+saep1240-23-1,,saep1240,23,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'a.bo.kʰoŋ,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'a.bo.kʰoŋ,[],,[],,False,Saep.htm,True,,1
+saep1240-24-1,,saep1240,24,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'daːkʰo,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'daːkʰo,[],,[],,False,Saep.htm,True,,1
+saep1240-25-1,,saep1240,25,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'wam.be,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'wam.be,[],,[],,False,Saep.htm,True,,1
+saep1240-26-1,,saep1240,26,'s. 'm. 'kʰa.'si.me be w.ɡek 'wam.be 'ha.le.be,'s. 'm. 'kʰa.'si.me be w.ɡek 'wam.be 'ha.le.be,[],,[],,False,Saep.htm,True,,1
+saep1240-27-1,,saep1240,27,'s. 'm. 'kʰa.'si.me be w.ɡek 'wam.be 'a.bo.de,'s. 'm. 'kʰa.'si.me be w.ɡek 'wam.be 'a.bo.de,[],,[],,False,Saep.htm,True,,1
+saep1240-28-1,,saep1240,28,'s. 'm. 'kʰa.'si.me be w.ɡek 'w.b. 'a.bo.kʰoŋ,'s. 'm. 'kʰa.'si.me be w.ɡek 'w.b. 'a.bo.kʰoŋ,[],,[],,False,Saep.htm,True,,1
+saep1240-29-1,,saep1240,29,'s. 'm. 'kʰa.'si.me be w.ɡek 'wam.be 'daːkʰo,'s. 'm. 'kʰa.'si.me be w.ɡek 'wam.be 'daːkʰo,[],,[],,False,Saep.htm,True,,1
+saep1240-30-1,,saep1240,30,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'wam.be,'s. 'm. 'kʰa.'si.me be wam'diŋ.ɡek 'wam.be,[],,[],,False,Saep.htm,True,,1
+saep1240-40-1,,saep1240,40,'si.me 'a.bo.de 'mon,'si.me 'a.bo.de 'mon,[],,[],,False,Saep.htm,False,,1
+saep1240-50-1,,saep1240,50,40 + 10,40 + 10,[],,[],,False,Saep.htm,True,,1
+saep1240-60-1,,saep1240,60,'si.me 'a.bo.kʰoŋ 'mon,'si.me 'a.bo.kʰoŋ 'mon,[],,[],,False,Saep.htm,False,,1
+saep1240-70-1,,saep1240,70,60 + 10,60 + 10,[],,[],,False,Saep.htm,True,,1
+saep1240-80-1,,saep1240,80,'si.me 'daːkʰo 'mon,'si.me 'daːkʰo 'mon,[],,[],,False,Saep.htm,False,,1
+saep1240-90-1,,saep1240,90,80 + 10,80 + 10,[],,[],,False,Saep.htm,True,,1
+saep1240-100-1,,saep1240,100,'si.me 'wam.be 'mon,'si.me 'wam.be 'mon,[],,[],,False,Saep.htm,False,,1
+saep1240-200-1,,saep1240,200,'si.me 'wam.be 'a.bo.de 'mon,'si.me 'wam.be 'a.bo.de 'mon,[],,[],,False,Saep.htm,False,,1
+saep1240-1000-1,,saep1240,1000,wanpela tausen,wanpela tausen,[],,[],,False,Saep.htm,False,,1
+saep1240-2000-1,,saep1240,2000,tupela tausen,tupela tausen,[],,[],,False,Saep.htm,False,,1

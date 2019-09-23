@@ -1,0 +1,98 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+abui1241-1-1,,abui1241,1,ˈnu.qu,ˈnu.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-1-2,,abui1241,1,nuku,nuku,[],,[],,False,Abui.htm,False,,2
+abui1241-1-3,,abui1241,1,nʊkʊ,nʊkʊ,[],,[],,False,Papuna.htm,False,,1
+abui1241-2-1,,abui1241,2,ä.jo.ˈqu,ä.jo.ˈqu,[],,[],,False,Abui.htm,False,,1
+abui1241-2-2,,abui1241,2,ɑjɔku,ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-2-3,,abui1241,2,ɑjʊkʊ,ɑjʊkʊ,[],,[],,False,Papuna.htm,False,,1
+abui1241-3-1,,abui1241,3,ˈsu.ä,ˈsu.ä,[],,[],,False,Abui.htm,False,,1
+abui1241-3-2,,abui1241,3,suɑ,suɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-3-3,,abui1241,3,sʊɑ,sʊɑ,[],,[],,False,Papuna.htm,False,,1
+abui1241-4-1,,abui1241,4,ˈbu.ti,ˈbu.ti,[],,[],,False,Abui.htm,False,,1
+abui1241-4-2,,abui1241,4,butɪ,butɪ,[],,[],,False,Abui.htm,False,,2
+abui1241-4-3,,abui1241,4,bʊsɪ,bʊsɪ,[],,[],,False,Papuna.htm,False,,1
+abui1241-5-1,,abui1241,5,jeˈ̞tiŋ,jeˈ̞tiŋ,[],,[],,False,Abui.htm,False,,1
+abui1241-5-2,,abui1241,5,jɛtɪŋ,jɛtɪŋ,[],,[],,False,Abui.htm,False,,2
+abui1241-5-3,,abui1241,5,jɛsɪŋ,jɛsɪŋ,[],,[],,False,Papuna.htm,False,,1
+abui1241-6-1,,abui1241,6,tä.ˈlä.mä,tä.ˈlä.mä,[],,[],,False,Abui.htm,False,,1
+abui1241-6-2,,abui1241,6,tɑlɑmɑ,tɑlɑmɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-6-3,,abui1241,6,tɑːmɑ,tɑːmɑ,[],,[],,False,Papuna.htm,False,,1
+abui1241-7-1,,abui1241,7,je̞ti.ˈä.jo.qu,je̞ti.ˈä.jo.qu,[],( ? + 2 ),[],,False,Abui.htm,False,,1
+abui1241-7-2,,abui1241,7,jɛtɪŋ-ɑjɔku,jɛtɪŋ-ɑjɔku,[],( ? + 2 ),[],,False,Abui.htm,False,,2
+abui1241-7-3,,abui1241,7,jɛsɪŋ-ɑjʊkʊ,jɛsɪŋ-ɑjʊkʊ,[],( ? + 2 ),[],,False,Papuna.htm,False,,1
+abui1241-8-1,,abui1241,8,je̞ti.ˈsu.ä,je̞ti.ˈsu.ä,[],( ? + 3 ),[],,False,Abui.htm,False,,1
+abui1241-8-2,,abui1241,8,jɛtɪŋ-suɑ,jɛtɪŋ-suɑ,[],( ? + 3 ),[],,False,Abui.htm,False,,2
+abui1241-8-3,,abui1241,8,jɛsɪŋ-sʊɑ,jɛsɪŋ-sʊɑ,[],( ? + 3 ),[],,False,Papuna.htm,False,,1
+abui1241-9-1,,abui1241,9,je̞ti.ˈbu.ti,je̞ti.ˈbu.ti,[],( ? + 4 ),[],,False,Abui.htm,False,,1
+abui1241-9-2,,abui1241,9,jɛtɪŋ-butɪ,jɛtɪŋ-butɪ,[],( ? + 4 ),[],,False,Abui.htm,False,,2
+abui1241-9-3,,abui1241,9,jɛsɪŋ-bʊsɪ,jɛsɪŋ-bʊsɪ,[],( ? + 4 ),[],,False,Papuna.htm,False,,1
+abui1241-10-1,,abui1241,10,kär ˈnu.qu,kär ˈnu.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-10-2,,abui1241,10,kɑr-nuku,kɑr-nuku,[],,[],,False,Abui.htm,False,,2
+abui1241-10-3,,abui1241,10,kɑr-nʊkʊ,kɑr-nʊkʊ,[],,[],,False,Papuna.htm,False,,1
+abui1241-11-1,,abui1241,11,kär.ˈnu.qu.wäl 'nu.qu,kär.ˈnu.qu.wäl 'nu.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-11-2,,abui1241,11,kɑr-nuku wɑl nuku,kɑr-nuku wɑl nuku,[],,[],,False,Abui.htm,False,,2
+abui1241-11-3,,abui1241,11,kɑr-nʊkʊ wɑl nʊkʊ,kɑr-nʊkʊ wɑl nʊkʊ,[],,[],,False,Papuna.htm,False,,1
+abui1241-12-1,,abui1241,12,kär.ˈnu.qu.wäl ä.jo.ˈqu,kär.ˈnu.qu.wäl ä.jo.ˈqu,[],,[],,False,Abui.htm,False,,1
+abui1241-12-2,,abui1241,12,kɑr-nuku wɑl ɑjɔku,kɑr-nuku wɑl ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-13-1,,abui1241,13,kär.ˈnu.qu.wäl ˈsu.ä,kär.ˈnu.qu.wäl ˈsu.ä,[],,[],,False,Abui.htm,False,,1
+abui1241-13-2,,abui1241,13,kɑr-nuku wɑl suɑ,kɑr-nuku wɑl suɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-14-1,,abui1241,14,kär.ˈnu.qu.wäl ˈbu.ti,kär.ˈnu.qu.wäl ˈbu.ti,[],,[],,False,Abui.htm,False,,1
+abui1241-14-2,,abui1241,14,kɑr-nuku wɑl butɪ,kɑr-nuku wɑl butɪ,[],,[],,False,Abui.htm,False,,2
+abui1241-15-1,,abui1241,15,kär.ˈnu.qu.wäl jeˈ̞tiŋ,kär.ˈnu.qu.wäl jeˈ̞tiŋ,[],,[],,False,Abui.htm,False,,1
+abui1241-15-2,,abui1241,15,kɑr-nuku wɑl jɛtɪŋ,kɑr-nuku wɑl jɛtɪŋ,[],,[],,False,Abui.htm,False,,2
+abui1241-16-1,,abui1241,16,kär.ˈnu.qu.wäl tä.ˈlä.mä,kär.ˈnu.qu.wäl tä.ˈlä.mä,[],,[],,False,Abui.htm,False,,1
+abui1241-16-2,,abui1241,16,kɑr-nuku wɑl tɑlɑmɑ,kɑr-nuku wɑl tɑlɑmɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-17-1,,abui1241,17,kär.ˈnu.qu.wäl je̞tiˈ.ä.jo.qu,kär.ˈnu.qu.wäl je̞tiˈ.ä.jo.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-17-2,,abui1241,17,kɑr-nuku wɑl jɛtɪŋ-ɑjɔku,kɑr-nuku wɑl jɛtɪŋ-ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-18-1,,abui1241,18,kär.ˈnu.qu.wäl je̞ti.ˈsu.ä,kär.ˈnu.qu.wäl je̞ti.ˈsu.ä,[],,[],,False,Abui.htm,False,,1
+abui1241-18-2,,abui1241,18,kɑr-nuku wɑl jɛtɪŋ-suɑ,kɑr-nuku wɑl jɛtɪŋ-suɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-19-1,,abui1241,19,kär.ˈnu.qu.wäl je̞ti.ˈbu.ti,kär.ˈnu.qu.wäl je̞ti.ˈbu.ti,[],,[],,False,Abui.htm,False,,1
+abui1241-19-2,,abui1241,19,kɑr-nuku wɑl jɛtɪŋ-butɪ,kɑr-nuku wɑl jɛtɪŋ-butɪ,[],,[],,False,Abui.htm,False,,2
+abui1241-20-1,,abui1241,20,kär.ˈä.jo.qu,kär.ˈä.jo.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-20-2,,abui1241,20,kɑr-ɑjɔku,kɑr-ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-20-3,,abui1241,20,kɑr nʊkʊ,kɑr nʊkʊ,[],,[],,False,Papuna.htm,False,,1
+abui1241-21-1,,abui1241,21,kär.ˈä.jo.qu.wäl ˈnu.qu,kär.ˈä.jo.qu.wäl ˈnu.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-21-2,,abui1241,21,kɑr-ɑjɔku wɑl nuku,kɑr-ɑjɔku wɑl nuku,[],,[],,False,Abui.htm,False,,2
+abui1241-22-1,,abui1241,22,kär.ˈä.jo.qu.wäl ä.jo.ˈqu,kär.ˈä.jo.qu.wäl ä.jo.ˈqu,[],,[],,False,Abui.htm,False,,1
+abui1241-22-2,,abui1241,22,kɑr-ɑjɔku wɑl ɑjɔku,kɑr-ɑjɔku wɑl ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-23-1,,abui1241,23,kär.ˈä.jo.qu.wäl ˈsu.ä,kär.ˈä.jo.qu.wäl ˈsu.ä,[],,[],,False,Abui.htm,False,,1
+abui1241-23-2,,abui1241,23,kɑr-ɑjɔku wɑl suɑ,kɑr-ɑjɔku wɑl suɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-24-1,,abui1241,24,kär.ˈä.jo.qu.wäl ˈbu.ti,kär.ˈä.jo.qu.wäl ˈbu.ti,[],,[],,False,Abui.htm,False,,1
+abui1241-24-2,,abui1241,24,kɑr-ɑjɔku wɑl butɪ,kɑr-ɑjɔku wɑl butɪ,[],,[],,False,Abui.htm,False,,2
+abui1241-25-1,,abui1241,25,kär.ˈä.jo.qu.wäl jeˈ̞tiŋ,kär.ˈä.jo.qu.wäl jeˈ̞tiŋ,[],,[],,False,Abui.htm,False,,1
+abui1241-25-2,,abui1241,25,kɑr-ɑjɔku wɑl jɛtɪŋ,kɑr-ɑjɔku wɑl jɛtɪŋ,[],,[],,False,Abui.htm,False,,2
+abui1241-26-1,,abui1241,26,kär.ˈä.jo.qu.wäl tä.ˈlä.mä,kär.ˈä.jo.qu.wäl tä.ˈlä.mä,[],,[],,False,Abui.htm,False,,1
+abui1241-26-2,,abui1241,26,kɑr-ɑjɔku wɑl tɑlɑmɑ,kɑr-ɑjɔku wɑl tɑlɑmɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-27-1,,abui1241,27,kär.ˈä.jo.qu.wäl je̞ti.ˈä.jo.qu,kär.ˈä.jo.qu.wäl je̞ti.ˈä.jo.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-27-2,,abui1241,27,kɑr-ɑjɔku wɑl jɛtɪŋ-ɑjɔku,kɑr-ɑjɔku wɑl jɛtɪŋ-ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-28-1,,abui1241,28,kär.ˈä.jo.qu.wäl je̞ti.ˈsu.ä,kär.ˈä.jo.qu.wäl je̞ti.ˈsu.ä,[],,[],,False,Abui.htm,False,,1
+abui1241-28-2,,abui1241,28,kɑr-ɑjɔku wɑl jɛtɪŋ-suɑ,kɑr-ɑjɔku wɑl jɛtɪŋ-suɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-29-1,,abui1241,29,kär.ˈä.jo.qu.wäl je̞ti.ˈbu.ti,kär.ˈä.jo.qu.wäl je̞ti.ˈbu.ti,[],,[],,False,Abui.htm,False,,1
+abui1241-29-2,,abui1241,29,kɑr-ɑjɔku wɑl jɛtɪŋ-butɪ,kɑr-ɑjɔku wɑl jɛtɪŋ-butɪ,[],,[],,False,Abui.htm,False,,2
+abui1241-30-1,,abui1241,30,kär.ˈsu.a,kär.ˈsu.a,[],,[],,False,Abui.htm,False,,1
+abui1241-30-2,,abui1241,30,kɑr-suɑ,kɑr-suɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-30-3,,abui1241,30,kɑr sʊɑ,kɑr sʊɑ,[],,[],,False,Papuna.htm,False,,1
+abui1241-40-1,,abui1241,40,kär.ˈbu.ti,kär.ˈbu.ti,[],,[],,False,Abui.htm,False,,1
+abui1241-40-2,,abui1241,40,kɑr-butu,kɑr-butu,[],,[],,False,Abui.htm,False,,2
+abui1241-50-1,,abui1241,50,kär.jeˈ̞tiŋ,kär.jeˈ̞tiŋ,[],,[],,False,Abui.htm,False,,1
+abui1241-50-2,,abui1241,50,kɑr-jɛtɪŋ,kɑr-jɛtɪŋ,[],,[],,False,Abui.htm,False,,2
+abui1241-60-1,,abui1241,60,kär.tä.ˈlä.mä,kär.tä.ˈlä.mä,[],,[],,False,Abui.htm,False,,1
+abui1241-60-2,,abui1241,60,kɑr-tɑlɑmɑ,kɑr-tɑlɑmɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-70-1,,abui1241,70,kär.je̞ti.ˈä.jo.qu,kär.je̞ti.ˈä.jo.qu,[],,[],,False,Abui.htm,False,,1
+abui1241-70-2,,abui1241,70,kɑr-jɛtɪŋ-ɑjɔku,kɑr-jɛtɪŋ-ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-80-1,,abui1241,80,kär.je̞ti.ˈsu.ä,kär.je̞ti.ˈsu.ä,[],,[],,False,Abui.htm,False,,1
+abui1241-80-2,,abui1241,80,kɑr-jɛtɪŋ-suɑ,kɑr-jɛtɪŋ-suɑ,[],,[],,False,Abui.htm,False,,2
+abui1241-90-1,,abui1241,90,kär.je̞ti.ˈbu.ti,kär.je̞ti.ˈbu.ti,[],,[],,False,Abui.htm,False,,1
+abui1241-90-2,,abui1241,90,kɑr-jɛtɪŋ-butɪ,kɑr-jɛtɪŋ-butɪ,[],,[],,False,Abui.htm,False,,2
+abui1241-100-1,,abui1241,100,äi.sä.hä nu.ˈqu,äi.sä.hä nu.ˈqu,[],,[],,False,Abui.htm,False,,1
+abui1241-100-2,,abui1241,100,ɑɪsɑhɑ nuku,ɑɪsɑhɑ nuku,[],,[],,False,Abui.htm,False,,2
+abui1241-100-3,,abui1241,100,ɑsɑkɑɪ nʊkʊ,ɑsɑkɑɪ nʊkʊ,[],,[],,False,Papuna.htm,False,,1
+abui1241-123-1,,abui1241,123,ɑsɑkɑɪ nʊkʊ kɑr ɑjʊkʊ wɑl sʊɑ,ɑsɑkɑɪ nʊkʊ kɑr ɑjʊkʊ wɑl sʊɑ,[],,[],,False,Papuna.htm,False,,1
+abui1241-200-1,,abui1241,200,äi.sä.ha ä.jo.ˈqu,äi.sä.ha ä.jo.ˈqu,[],,[],,False,Abui.htm,False,,1
+abui1241-200-2,,abui1241,200,ɑɪsɑhɑ ɑjɔku,ɑɪsɑhɑ ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-200-3,,abui1241,200,1000. ribɪ nʊkʊ,1000. ribɪ nʊkʊ,[],,[],,False,Papuna.htm,True,,1
+abui1241-1000-1,,abui1241,1000,ri.ˈfi nu.ˈqu,ri.ˈfi nu.ˈqu,[],,[],,False,Abui.htm,False,,1
+abui1241-1000-2,,abui1241,1000,rifi nuku,rifi nuku,[],,[],,False,Abui.htm,False,,2
+abui1241-2000-1,,abui1241,2000,ri.ˈfi ä.jo.ˈqu,ri.ˈfi ä.jo.ˈqu,[],,[],,False,Abui.htm,False,,1
+abui1241-2000-2,,abui1241,2000,rifi ɑjɔku,rifi ɑjɔku,[],,[],,False,Abui.htm,False,,2
+abui1241-2000-3,,abui1241,2000,rifi ɑjɔku,rifi ɑjɔku,[],,[],,False,Papuna.htm,False,,1

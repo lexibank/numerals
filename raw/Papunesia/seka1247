@@ -1,0 +1,35 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+seka1247-1-1,,seka1247,1,sa,sa,[],,[],,False,Sekar.htm,False,,1
+seka1247-1-2,,seka1247,1,isáʔ,isáʔ,[],,[],,False,Sekar.htm,False,,1
+seka1247-2-1,,seka1247,2,nua,nua,[],,[],,False,Sekar.htm,False,,1
+seka1247-3-1,,seka1247,3,teni,teni,[],,[],,False,Sekar.htm,False,,1
+seka1247-4-1,,seka1247,4,fat,fat,[],,[],,False,Sekar.htm,False,,1
+seka1247-5-1,,seka1247,5,nima,nima,[],,[],,False,Sekar.htm,False,,1
+seka1247-6-1,,seka1247,6,nema,nema,[],,[],,False,Sekar.htm,False,,1
+seka1247-6-2,,seka1247,6,nɛm,nɛm,[],,[],,False,Sekar.htm,False,,1
+seka1247-7-1,,seka1247,7,buteres,buteres,[],,[],,False,Sekar.htm,False,,1
+seka1247-7-2,,seka1247,7,buteras,buteras,[],( 6+1 ),[],,False,Sekar.htm,False,,1
+seka1247-8-1,,seka1247,8,buturua,buturua,[],,[],,False,Sekar.htm,False,,1
+seka1247-8-2,,seka1247,8,bete'rua,bete'rua,[],( 6+2 ),[],,False,Sekar.htm,False,,1
+seka1247-9-1,,seka1247,9,masbuti,masbuti,[],,[],,False,Sekar.htm,False,,1
+seka1247-10-1,,seka1247,10,busuwa,busuwa,[],,[],,False,Sekar.htm,False,,1
+seka1247-10-2,,seka1247,10,busu'a,busu'a,[],,[],,False,Sekar.htm,False,,1
+seka1247-11-1,,seka1247,11,busuwa resi sa,busuwa resi sa,[],,[],,False,Sekar.htm,False,,1
+seka1247-12-1,,seka1247,12,busuwa resi nua,busuwa resi nua,[],,[],,False,Sekar.htm,False,,1
+seka1247-13-1,,seka1247,13,busuwa resi teni,busuwa resi teni,[],,[],,False,Sekar.htm,False,,1
+seka1247-14-1,,seka1247,14,busuwa resi fat,busuwa resi fat,[],,[],,False,Sekar.htm,False,,1
+seka1247-15-1,,seka1247,15,busuwa resi nima,busuwa resi nima,[],,[],,False,Sekar.htm,False,,1
+seka1247-16-1,,seka1247,16,busuwa resi nɛm,busuwa resi nɛm,[],,[],,False,Sekar.htm,False,,1
+seka1247-17-1,,seka1247,17,busuwa resi tařasá,busuwa resi tařasá,[],,[],,False,Sekar.htm,False,,1
+seka1247-18-1,,seka1247,18,busuwa resi tařanua,busuwa resi tařanua,[],,[],,False,Sekar.htm,False,,1
+seka1247-19-1,,seka1247,19,busuwa resi səputih,busuwa resi səputih,[],,[],,False,Sekar.htm,False,,1
+seka1247-20-1,,seka1247,20,tumate sa,tumate sa,[],( litː 'man one'),[],,False,Sekar.htm,False,,1
+seka1247-30-1,,seka1247,30,tumate sa busawa,tumate sa busawa,[],,[],,False,Sekar.htm,False,,1
+seka1247-40-1,,seka1247,40,tumate nua,tumate nua,[],( 20 x 2 ),[],,False,Sekar.htm,False,,1
+seka1247-50-1,,seka1247,50,tumate nua busawa,tumate nua busawa,[],,[],,False,Sekar.htm,False,,1
+seka1247-60-1,,seka1247,60,tumate teni,tumate teni,[],( 20 x 3 ),[],,False,Sekar.htm,False,,1
+seka1247-70-1,,seka1247,70,tumate teni busawa,tumate teni busawa,[],,[],,False,Sekar.htm,False,,1
+seka1247-80-1,,seka1247,80,tumate fat,tumate fat,[],( 20 x 4 ),[],,False,Sekar.htm,False,,1
+seka1247-90-1,,seka1247,90,tumate fatbusawa,tumate fatbusawa,[],,[],,False,Sekar.htm,False,,1
+seka1247-100-1,,seka1247,100,ratisa,ratisa,[],,[],,False,Sekar.htm,False,,1
+seka1247-1000-1,,seka1247,1000,ripisa,ripisa,[],,[],,False,Sekar.htm,False,,1

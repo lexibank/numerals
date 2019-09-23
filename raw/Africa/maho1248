@@ -1,0 +1,49 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+maho1248-1-1,,maho1248,1,ɔ̀ɔ̃́ŋkɔ̀,ɔ̀ɔ̃́ŋkɔ̀,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-1-2,,maho1248,1,-ɛɛkɔ,-ɛɛkɔ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-2-1,,maho1248,2,byɔ́lɛ́,byɔ́lɛ́,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-2-2,,maho1248,2,-ɔlɛ,-ɔlɛ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-3-1,,maho1248,3,(mè)hã́ntò,(mè)hã́ntò,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-3-2,,maho1248,3,-hato,-hato,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-4-1,,maho1248,4,ìnáyì,ìnáyì,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-4-2,,maho1248,4,-nai,-nai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-5-1,,maho1248,5,ǹ̩táyì,ǹ̩táyì,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-5-2,,maho1248,5,-tai,-tai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-6-1,,maho1248,6,ǹ̩tóbà,ǹ̩tóbà,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-6-2,,maho1248,6,toba,toba,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-7-1,,maho1248,7,náyìnàhã́ntò,náyìnàhã́ntò,[],( 4 + 3 ),[],,False,Mahongwe.htm,False,,1
+maho1248-7-2,,maho1248,7,-nai na -hato,-nai na -hato,[],( 4 + 3 ),[],,False,Mahongwe.htm,False,,2
+maho1248-8-1,,maho1248,8,mwã́mbì,mwã́mbì,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-8-2,,maho1248,8,mwambi,mwambi,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-9-1,,maho1248,9,ǹtáyìnànáyì,ǹtáyìnànáyì,[],( 5 + 4 ),[],,False,Mahongwe.htm,False,,1
+maho1248-9-2,,maho1248,9,-tai na -nai,-tai na -nai,[],( 5 + 4 ),[],,False,Mahongwe.htm,False,,2
+maho1248-10-1,,maho1248,10,dʒóhũ̀,dʒóhũ̀,[],,[],,False,Mahongwe.htm,False,,1
+maho1248-10-2,,maho1248,10,d͡ʒyɔũ,d͡ʒyɔũ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-11-1,,maho1248,11,d͡ʒyɔũ na -ɛɛkɔ,d͡ʒyɔũ na -ɛɛkɔ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-12-1,,maho1248,12,d͡ʒyɔũ na -ɔlɛ,d͡ʒyɔũ na -ɔlɛ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-13-1,,maho1248,13,d͡ʒyɔũ na -hato,d͡ʒyɔũ na -hato,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-14-1,,maho1248,14,d͡ʒyɔũ na -nai,d͡ʒyɔũ na -nai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-15-1,,maho1248,15,d͡ʒyɔũ na -tai,d͡ʒyɔũ na -tai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-16-1,,maho1248,16,d͡ʒyɔũ na toba,d͡ʒyɔũ na toba,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-17-1,,maho1248,17,d͡ʒyɔũ na -nai na -hato,d͡ʒyɔũ na -nai na -hato,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-18-1,,maho1248,18,d͡ʒyɔũ na mwambi,d͡ʒyɔũ na mwambi,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-19-1,,maho1248,19,d͡ʒyɔũ na -tai na -nai,d͡ʒyɔũ na -tai na -nai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-20-1,,maho1248,20,me-butu my-ɔlɛ,me-butu my-ɔlɛ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-21-1,,maho1248,21,me-butu my-ɔlɛ na -ɛɛkɔ,me-butu my-ɔlɛ na -ɛɛkɔ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-22-1,,maho1248,22,me-butu my-ɔlɛ na -ɔlɛ,me-butu my-ɔlɛ na -ɔlɛ,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-23-1,,maho1248,23,me-butu my-ɔlɛ na -hato,me-butu my-ɔlɛ na -hato,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-24-1,,maho1248,24,me-butu my-ɔlɛ na -nai,me-butu my-ɔlɛ na -nai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-25-1,,maho1248,25,me-butu my-ɔlɛ na -tai,me-butu my-ɔlɛ na -tai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-26-1,,maho1248,26,me-butu my-ɔlɛ na toba,me-butu my-ɔlɛ na toba,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-27-1,,maho1248,27,me-butu my-ɔlɛ na -nai na -hato,me-butu my-ɔlɛ na -nai na -hato,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-28-1,,maho1248,28,me-butu my-ɔlɛ na mwambi,me-butu my-ɔlɛ na mwambi,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-29-1,,maho1248,29,me-butu my-ɔlɛ na -tai na -nai,me-butu my-ɔlɛ na -tai na -nai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-30-1,,maho1248,30,me-butu me-hato,me-butu me-hato,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-40-1,,maho1248,40,me-butu me-nai,me-butu me-nai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-50-1,,maho1248,50,me-butu me-tai,me-butu me-tai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-60-1,,maho1248,60,me-butu toba,me-butu toba,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-70-1,,maho1248,70,me-butu me-nai na me-hato,me-butu me-nai na me-hato,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-80-1,,maho1248,80,me-butu mwambi,me-butu mwambi,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-90-1,,maho1248,90,me-butu me-tai na me-nai,me-butu me-tai na me-nai,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-100-1,,maho1248,100,sini,sini,[],,[],,False,Mahongwe.htm,False,,2
+maho1248-200-1,,maho1248,200,ba-sini b-ɔlɛ,ba-sini b-ɔlɛ,[],,[],,False,Mahongwe.htm,False,,2

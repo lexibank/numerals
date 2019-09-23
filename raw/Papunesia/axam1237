@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+axam1237-1-1,,axam1237,1,ŋa-jkai,ŋa-jkai,[],,[],,False,Axamb.htm,False,,1
+axam1237-1-2,,axam1237,1,ŋa-ikenene,ŋa-ikenene,[],,[],,False,Axamb.htm,False,,1
+axam1237-2-1,,axam1237,2,ŋa-ru,ŋa-ru,[],,[],,False,Axamb.htm,False,,1
+axam1237-3-1,,axam1237,3,ŋa-rür,ŋa-rür,[],,[],,False,Axamb.htm,False,,1
+axam1237-4-1,,axam1237,4,ŋa-vaj,ŋa-vaj,[],,[],,False,Axamb.htm,False,,1
+axam1237-5-1,,axam1237,5,ŋa-rëm,ŋa-rëm,[],(ŋa-rym),[],,False,Axamb.htm,False,,1
+axam1237-6-1,,axam1237,6,ŋa-rëm-rëjkai,ŋa-rëm-rëjkai,[],( 5 + 1 ),[],,False,Axamb.htm,False,,1
+axam1237-7-1,,axam1237,7,ŋa-rëm-rahru,ŋa-rëm-rahru,[],( 5 + 2 ),[],,False,Axamb.htm,False,,1
+axam1237-8-1,,axam1237,8,ŋa-rëm-rahrür,ŋa-rëm-rahrür,[],( 5 + 3 ),[],,False,Axamb.htm,False,,1
+axam1237-9-1,,axam1237,9,ŋa-rëm-rahpaj,ŋa-rëm-rahpaj,[],( 5 + 4 ),[],,False,Axamb.htm,False,,1
+axam1237-10-1,,axam1237,10,ŋa-sŋavur,ŋa-sŋavur,[],,[],,False,Axamb.htm,False,,1
+axam1237-11-1,,axam1237,11,ŋa-sŋavur ŋa-jkai,ŋa-sŋavur ŋa-jkai,[],,[],,False,Axamb.htm,False,,1
+axam1237-11-2,,axam1237,11,ŋa-jkenene,ŋa-jkenene,[],,[],,False,Axamb.htm,False,,1
+axam1237-12-1,,axam1237,12,ŋa-sŋavur ŋa-ru,ŋa-sŋavur ŋa-ru,[],,[],,False,Axamb.htm,False,,1
+axam1237-13-1,,axam1237,13,ŋa-sŋavur ŋa-rür,ŋa-sŋavur ŋa-rür,[],,[],,False,Axamb.htm,False,,1
+axam1237-14-1,,axam1237,14,ŋa-sŋavur ŋa-vaj,ŋa-sŋavur ŋa-vaj,[],,[],,False,Axamb.htm,False,,1
+axam1237-15-1,,axam1237,15,ŋa-sŋavur ŋa-rëm,ŋa-sŋavur ŋa-rëm,[],,[],,False,Axamb.htm,False,,1
+axam1237-16-1,,axam1237,16,ŋa-sŋavur ŋa-rëm-rëjkai,ŋa-sŋavur ŋa-rëm-rëjkai,[],,[],,False,Axamb.htm,False,,1
+axam1237-17-1,,axam1237,17,ŋa-sŋavur ŋa-rëm-rahru,ŋa-sŋavur ŋa-rëm-rahru,[],,[],,False,Axamb.htm,False,,1
+axam1237-18-1,,axam1237,18,ŋa-sŋavur ŋa-rëm-rahrü,ŋa-sŋavur ŋa-rëm-rahrü,[],,[],,False,Axamb.htm,False,,1
+axam1237-19-1,,axam1237,19,ŋa-sŋavur ŋa-rëm-rahpaj,ŋa-sŋavur ŋa-rëm-rahpaj,[],,[],,False,Axamb.htm,False,,1
+axam1237-20-1,,axam1237,20,nrenhavui,nrenhavui,[],(20 x 1) (ŋa-jkenene),[],,False,Axamb.htm,False,,1
+axam1237-21-1,,axam1237,21,nrenhavui ŋa-jkenene ŋa-jkai,nrenhavui ŋa-jkenene ŋa-jkai,[],,[],,False,Axamb.htm,False,,1
+axam1237-22-1,,axam1237,22,nrenhavui ŋa-jkenene ŋa-ru,nrenhavui ŋa-jkenene ŋa-ru,[],,[],,False,Axamb.htm,False,,1
+axam1237-23-1,,axam1237,23,nrenhavui ŋa-jkenene ŋa-rür,nrenhavui ŋa-jkenene ŋa-rür,[],,[],,False,Axamb.htm,False,,1
+axam1237-24-1,,axam1237,24,nrenhavui ŋa-jkenene ŋa-vaj,nrenhavui ŋa-jkenene ŋa-vaj,[],,[],,False,Axamb.htm,False,,1
+axam1237-25-1,,axam1237,25,nrenhavui ŋa-jkenene ŋa-rëm,nrenhavui ŋa-jkenene ŋa-rëm,[],,[],,False,Axamb.htm,False,,1
+axam1237-26-1,,axam1237,26,nrenhavui ŋa-jkenene ŋa-rëm-rëjkai,nrenhavui ŋa-jkenene ŋa-rëm-rëjkai,[],,[],,False,Axamb.htm,False,,1
+axam1237-27-1,,axam1237,27,nrenhavui ŋa-jkenene ŋa-rëm-rahru,nrenhavui ŋa-jkenene ŋa-rëm-rahru,[],,[],,False,Axamb.htm,False,,1
+axam1237-28-1,,axam1237,28,nrenhavui ŋa-jkenene ŋa-rëm-rahrür,nrenhavui ŋa-jkenene ŋa-rëm-rahrür,[],,[],,False,Axamb.htm,False,,1
+axam1237-29-1,,axam1237,29,nrenhavui ŋa-jkenene ŋa-rëm-rahp,nrenhavui ŋa-jkenene ŋa-rëm-rahp,[],,[],,False,Axamb.htm,False,,1
+axam1237-30-1,,axam1237,30,nrenhavui ŋa-jkenene sŋavur,nrenhavui ŋa-jkenene sŋavur,[],(20+10),[],,False,Axamb.htm,False,,1
+axam1237-40-1,,axam1237,40,nrenhavui ŋa-ru,nrenhavui ŋa-ru,[],(20 x 2),[],,False,Axamb.htm,False,,1
+axam1237-50-1,,axam1237,50,nrenhavui ŋa-ru sŋavur,nrenhavui ŋa-ru sŋavur,[],(20 x 2+10),[],,False,Axamb.htm,False,,1
+axam1237-60-1,,axam1237,60,nrenhavui ŋa-rür,nrenhavui ŋa-rür,[],(20 x 3),[],,False,Axamb.htm,False,,1
+axam1237-70-1,,axam1237,70,nrenhavui ŋa-rür sŋavur,nrenhavui ŋa-rür sŋavur,[],(20 x 3+10),[],,False,Axamb.htm,False,,1
+axam1237-80-1,,axam1237,80,nrenhavui ŋa-vaj,nrenhavui ŋa-vaj,[],(20 x 4),[],,False,Axamb.htm,False,,1
+axam1237-90-1,,axam1237,90,nrenhavui ŋa-vaj sŋavur,nrenhavui ŋa-vaj sŋavur,[],(20 x 4+10),[],,False,Axamb.htm,False,,1
+axam1237-100-1,,axam1237,100,nrenhavui ŋa-rëm,nrenhavui ŋa-rëm,[],(20 x 5),[],,False,Axamb.htm,False,,1
+axam1237-120-1,,axam1237,120,nrenhavui ŋa-rëm-rëjkai,nrenhavui ŋa-rëm-rëjkai,[],(20 x 6),[],,False,Axamb.htm,False,,1
+axam1237-200-1,,axam1237,200,nrenhavui ŋa-sŋavur,nrenhavui ŋa-sŋavur,[],(20 x 10),[],,False,Axamb.htm,False,,1
+axam1237-300-1,,axam1237,300,to 1000. unknown,to 1000. unknown,[],,[],,False,Axamb.htm,True,,1

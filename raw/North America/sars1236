@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sars1236-1-1,,sars1236,1,tɬìkʼāzá,tɬìkʼāzá,[],,[],,False,Sarsi.htm,False,,1
+sars1236-2-1,,sars1236,2,èkíyē,èkíyē,[],( *),[],,False,Sarsi.htm,False,,1
+sars1236-3-1,,sars1236,3,tá.kʼē,tá.kʼē,[],,[],,False,Sarsi.htm,False,,1
+sars1236-4-1,,sars1236,4,díítšʼē,díítšʼē,[],,[],,False,Sarsi.htm,False,,1
+sars1236-5-1,,sars1236,5,ɡúùtʼáá,ɡúùtʼáá,[],,[],,False,Sarsi.htm,False,,1
+sars1236-6-1,,sars1236,6,ɡùstánē,ɡùstánē,[],,[],,False,Sarsi.htm,False,,1
+sars1236-7-1,,sars1236,7,tšìšdíítšʼē,tšìšdíítšʼē,[],,[],,False,Sarsi.htm,False,,1
+sars1236-8-1,,sars1236,8,tɬàšdíítšʼē,tɬàšdíítšʼē,[],( 2 x 4 ),[],,False,Sarsi.htm,False,,1
+sars1236-9-1,,sars1236,9,tɬìkʼúyāwá,tɬìkʼúyāwá,[],,[],,False,Sarsi.htm,False,,1
+sars1236-10-1,,sars1236,10,ɡūnèsnánē,ɡūnèsnánē,[],,[],,False,Sarsi.htm,False,,1
+sars1236-11-1,,sars1236,11,tɬìkʼ é mītāā,tɬìkʼ é mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-12-1,,sars1236,12,èká. mītāā,èká. mītāā,[],,[],,False,Sarsi.htm,True,,1
+sars1236-13-1,,sars1236,13,tá.kʼē mītāā,tá.kʼē mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-14-1,,sars1236,14,díítšʼ ē mītāā,díítšʼ ē mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-15-1,,sars1236,15,ɡúùtʼáá mītāā,ɡúùtʼáá mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-16-1,,sars1236,16,ɡùstá mītāā,ɡùstá mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-17-1,,sars1236,17,tšìšdíítšʼe mītāā,tšìšdíítšʼe mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-18-1,,sars1236,18,tɬàšdíítšʼe mītāā,tɬàšdíítšʼe mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-19-1,,sars1236,19,tɬìkʼúyāwá mītāā,tɬìkʼúyāwá mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-20-1,,sars1236,20,èkádēē,èkádēē,[],( < èkíyē + dēē  ),[],,False,Sarsi.htm,False,,1
+sars1236-21-1,,sars1236,21,èkádēē tɬìkʼ é mītāā,èkádēē tɬìkʼ é mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-22-1,,sars1236,22,èkádēē tɬìkʼ ē mītāā,èkádēē tɬìkʼ ē mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-23-1,,sars1236,23,èkádēē tá.kʼ ē mītāā,èkádēē tá.kʼ ē mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-24-1,,sars1236,24,èkádēē díítšʼē mītāā,èkádēē díítšʼē mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-25-1,,sars1236,25,èkádēē ɡúùtʼáá mītāā,èkádēē ɡúùtʼáá mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-26-1,,sars1236,26,èkádēē ɡùstá mītāā,èkádēē ɡùstá mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-27-1,,sars1236,27,èkádēē tšìšdíítšʼe mītāā,èkádēē tšìšdíítšʼe mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-28-1,,sars1236,28,èkádēē tɬàšdíítšʼe mītāā,èkádēē tɬàšdíítšʼe mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-29-1,,sars1236,29,èkádēē tɬìkʼúyāwá mītāā,èkádēē tɬìkʼúyāwá mītāā,[],,[],,False,Sarsi.htm,False,,1
+sars1236-30-1,,sars1236,30,tá.dēē,tá.dēē,[],( < tá.kʼē + dēē ),[],,False,Sarsi.htm,False,,1
+sars1236-40-1,,sars1236,40,díítšdēē,díítšdēē,[],( < díítšʼē + dēē ),[],,False,Sarsi.htm,False,,1
+sars1236-50-1,,sars1236,50,ɡúùtʼádēē,ɡúùtʼádēē,[],( < ɡúùtʼáá+ dēē ),[],,False,Sarsi.htm,False,,1
+sars1236-60-1,,sars1236,60,ɡùstádēē,ɡùstádēē,[],( <ɡùstánē + dēē ),[],,False,Sarsi.htm,False,,1
+sars1236-70-1,,sars1236,70,tšìšdíítšʼídēnē,tšìšdíítšʼídēnē,[],( <tšìšdíítšʼe + dēnē ),[],,False,Sarsi.htm,False,,1
+sars1236-80-1,,sars1236,80,tɬàšdíítšʼēdēē,tɬàšdíítšʼēdēē,[],( <tɬàšdíítšʼē + dēē ),[],,False,Sarsi.htm,False,,1
+sars1236-90-1,,sars1236,90,tɬìkʼúyāwádēnē,tɬìkʼúyāwádēnē,[],(<tɬìkʼúyāwá + dēnē),[],,False,Sarsi.htm,False,,1
+sars1236-100-1,,sars1236,100,ɡūnèsnádēē,ɡūnèsnádēē,[],( < ɡūnèsnánē+ dēē),[],,False,Sarsi.htm,False,,1
+sars1236-200-1,,sars1236,200,èkádē ɡūnèsnádēē,èkádē ɡūnèsnádēē,[],,[],,False,Sarsi.htm,False,,1
+sars1236-1000-1,,sars1236,1000,tɬádé ɡūnèsnádá,tɬádé ɡūnèsnádá,[],,[],,False,Sarsi.htm,False,,1
+sars1236-2000-1,,sars1236,2000,èkádē ɡūnèsnádá ??,èkádē ɡūnèsnádá ??,[],,[],,False,Sarsi.htm,True,,1

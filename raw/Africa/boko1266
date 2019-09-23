@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+boko1266-1-1,,boko1266,1,do,do,[],,[],,False,Boko.htm,False,,1
+boko1266-2-1,,boko1266,2,pla,pla,[],,[],,False,Boko.htm,False,,1
+boko1266-3-1,,boko1266,3,ʔààɔ̃,ʔààɔ̃,[],,[],,False,Boko.htm,False,,1
+boko1266-4-1,,boko1266,4,sííɔ̃,sííɔ̃,[],,[],,False,Boko.htm,False,,1
+boko1266-5-1,,boko1266,5,sɔ́o,sɔ́o,[],,[],,False,Boko.htm,False,,1
+boko1266-6-1,,boko1266,6,soolo,soolo,[],( 5 + 1 ),[],,False,Boko.htm,False,,1
+boko1266-7-1,,boko1266,7,sopla,sopla,[],( 5 + 2 ),[],,False,Boko.htm,False,,1
+boko1266-8-1,,boko1266,8,swaàɔ̃,swaàɔ̃,[],( 5 + 3 ),[],,False,Boko.htm,False,,1
+boko1266-9-1,,boko1266,9,kɛ̃̀okwi,kɛ̃̀okwi,[],[ litː tear away 1 (from) 10 ],[],,False,Boko.htm,False,,1
+boko1266-10-1,,boko1266,10,kwi,kwi,[],,[],,False,Boko.htm,False,,1
+boko1266-11-1,,boko1266,11,kuɛ̀do,kuɛ̀do,[],(litː 10 + 1 ),[],,False,Boko.htm,False,,1
+boko1266-12-1,,boko1266,12,kuɛ̀pla,kuɛ̀pla,[],(litː 10 + 2 ),[],,False,Boko.htm,False,,1
+boko1266-13-1,,boko1266,13,kuɛ̀ʔààɔ̃,kuɛ̀ʔààɔ̃,[],( litː 10 + 3 ),[],,False,Boko.htm,False,,1
+boko1266-14-1,,boko1266,14,ɡɛ̃̀o mɛ̀ǹ̩dosàí,ɡɛ̃̀o mɛ̀ǹ̩dosàí,[],( litː 15 less 1 ),[],,False,Boko.htm,False,,1
+boko1266-15-1,,boko1266,15,ɡɛ̃̀o,ɡɛ̃̀o,[],,[],,False,Boko.htm,False,,1
+boko1266-16-1,,boko1266,16,ɡɛ̃̀o ń̩ mɛ̀ǹ̩doò,ɡɛ̃̀o ń̩ mɛ̀ǹ̩doò,[],(litː 15 + 1 ),[],,False,Boko.htm,False,,1
+boko1266-17-1,,boko1266,17,ɡɛ̃̀o ń̩ plaò,ɡɛ̃̀o ń̩ plaò,[],(litː 15 + 2 ),[],,False,Boko.htm,False,,1
+boko1266-18-1,,boko1266,18,bào pla sàí,bào pla sàí,[],(litː 20 - 2 ),[],,False,Boko.htm,False,,1
+boko1266-19-1,,boko1266,19,bào mɛ̀ǹ̩dosàí,bào mɛ̀ǹ̩dosàí,[],(litː 20 less 1 ),[],,False,Boko.htm,False,,1
+boko1266-20-1,,boko1266,20,bào,bào,[],,[],,False,Boko.htm,False,,1
+boko1266-21-1,,boko1266,21,bào ń̩ mɛ̀ǹ̩doò,bào ń̩ mɛ̀ǹ̩doò,[],( litː 20 + 1 unit ),[],,False,Boko.htm,False,,1
+boko1266-22-1,,boko1266,22,bào ń̩ plaò,bào ń̩ plaò,[],( litː 20 + 2 ),[],,False,Boko.htm,False,,1
+boko1266-23-1,,boko1266,23,bào ń̩ ààɔ̃ò,bào ń̩ ààɔ̃ò,[],( litː 20 + 3 ),[],,False,Boko.htm,False,,1
+boko1266-24-1,,boko1266,24,bàasɔ́o mɛ̀ǹ̩dosàí,bàasɔ́o mɛ̀ǹ̩dosàí,[],( litː 25 less 1),[],,False,Boko.htm,False,,1
+boko1266-25-1,,boko1266,25,bàasɔ́o,bàasɔ́o,[],,[],,False,Boko.htm,False,,1
+boko1266-26-1,,boko1266,26,bàasɔ́o ń̩ mɛ̀ǹ̩ doò,bàasɔ́o ń̩ mɛ̀ǹ̩ doò,[],( litː 25 + 1 ),[],,False,Boko.htm,False,,1
+boko1266-27-1,,boko1266,27,bàasɔ́o ń̩ plaò,bàasɔ́o ń̩ plaò,[],( litː 25 + 2 ),[],,False,Boko.htm,False,,1
+boko1266-28-1,,boko1266,28,bàakwi pla sàí,bàakwi pla sàí,[],( litː 30 - 2 ),[],,False,Boko.htm,False,,1
+boko1266-29-1,,boko1266,29,bàakwi do sàí,bàakwi do sàí,[],( litː 30 - 1 ),[],,False,Boko.htm,False,,1
+boko1266-30-1,,boko1266,30,bàakwi,bàakwi,[],( 20 + 10 ),[],,False,Boko.htm,False,,1
+boko1266-40-1,,boko1266,40,b̩la,b̩la,[],( 20 x 2 ),[],,False,Boko.htm,False,,1
+boko1266-50-1,,boko1266,50,b̩lakwi,b̩lakwi,[],,[],,False,Boko.htm,False,,1
+boko1266-60-1,,boko1266,60,bàààɔ̃,bàààɔ̃,[],( 20 x 3 ),[],,False,Boko.htm,False,,1
+boko1266-70-1,,boko1266,70,bààɔ̃kwi,bààɔ̃kwi,[],( 60 + 10 ),[],,False,Boko.htm,False,,1
+boko1266-80-1,,boko1266,80,bàsííɔ̃,bàsííɔ̃,[],( 20 x 4 ),[],,False,Boko.htm,False,,1
+boko1266-90-1,,boko1266,90,bàsííɔ̃kwì,bàsííɔ̃kwì,[],( 80 + 10 ),[],,False,Boko.htm,False,,1
+boko1266-100-1,,boko1266,100,bàsɔo,bàsɔo,[],( 20 x 5 ),[],,False,Boko.htm,False,,1
+boko1266-200-1,,boko1266,200,ʔɔ̀aà,ʔɔ̀aà,[],,[],,False,Boko.htm,False,,1
+boko1266-1000-1,,boko1266,1000,ʔɔ̀à sɔ́o,ʔɔ̀à sɔ́o,[],( 200 x 5 ),[],,False,Boko.htm,False,,1
+boko1266-2000-1,,boko1266,2000,ʔɔ̀àsɔ́sɔ́o lɛ̀ɛ́ pla,ʔɔ̀àsɔ́sɔ́o lɛ̀ɛ́ pla,[],(1000 reduplicated  x 2 ),[],,False,Boko.htm,False,,1

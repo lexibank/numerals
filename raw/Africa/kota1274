@@ -1,0 +1,67 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kota1274-1-1,,kota1274,1,mɔ́kɔ̌,mɔ́kɔ̌,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-1-2,,kota1274,1,-kɔlɔ,-kɔlɔ,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-2-1,,kota1274,2,bàbá,bàbá,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-2-2,,kota1274,2,-ba,-ba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-3-1,,kota1274,3,ìhã́tò,ìhã́tò,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-3-2,,kota1274,3,-hato,-hato,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-4-1,,kota1274,4,náyì,náyì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-4-2,,kota1274,4,-nai,-nai,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-5-1,,kota1274,5,ntã́yì,ntã́yì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-5-2,,kota1274,5,-taɲi,-taɲi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-6-1,,kota1274,6,ntóbà,ntóbà,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-6-2,,kota1274,6,tooba,tooba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-7-1,,kota1274,7,náyìnàhã́tò,náyìnàhã́tò,[],( 4 + 3 ),[],,False,Kota-Bantu.htm,False,,1
+kota1274-7-2,,kota1274,7,-nai na -hato,-nai na -hato,[],( 4 + 3 ),[],,False,Kota-Bantu.htm,False,,2
+kota1274-8-1,,kota1274,8,mwã́mbì,mwã́mbì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-8-2,,kota1274,8,mwaambi,mwaambi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-9-1,,kota1274,9,ntánànáyì,ntánànáyì,[],( 5 + 4 ),[],,False,Kota-Bantu.htm,False,,1
+kota1274-9-2,,kota1274,9,-taɲi na -nai,-taɲi na -nai,[],( 5 + 4 ),[],,False,Kota-Bantu.htm,False,,2
+kota1274-10-1,,kota1274,10,dʒóhũ̀,dʒóhũ̀,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-10-2,,kota1274,10,dyɔhm,dyɔhm,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-11-1,,kota1274,11,dʒóhũ̀nàmɔ́kɔ̌,dʒóhũ̀nàmɔ́kɔ̌,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-11-2,,kota1274,11,dyɔhm na -kɔlɔ,dyɔhm na -kɔlɔ,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-12-1,,kota1274,12,dʒóhũ̀nàbàbá,dʒóhũ̀nàbàbá,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-12-2,,kota1274,12,dyɔhm na -ba,dyɔhm na -ba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-13-1,,kota1274,13,dʒóhũ̀nàhã́tò,dʒóhũ̀nàhã́tò,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-13-2,,kota1274,13,dyɔhm na -hato,dyɔhm na -hato,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-14-1,,kota1274,14,dʒóhũ̀nànáyì,dʒóhũ̀nànáyì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-14-2,,kota1274,14,dyɔhm na -nai,dyɔhm na -nai,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-15-1,,kota1274,15,dʒóhũ̀nàtã́yì,dʒóhũ̀nàtã́yì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-15-2,,kota1274,15,dyɔhm na -taɲi,dyɔhm na -taɲi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-16-1,,kota1274,16,dʒóhũ̀nàntóbà,dʒóhũ̀nàntóbà,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-16-2,,kota1274,16,dyɔhm na tooba,dyɔhm na tooba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-17-1,,kota1274,17,dʒóhũ̀náyìnàhã́tò,dʒóhũ̀náyìnàhã́tò,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-17-2,,kota1274,17,dyɔhm na -nai na -hato,dyɔhm na -nai na -hato,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-18-1,,kota1274,18,dʒóhũ̀nàmwã́mbì,dʒóhũ̀nàmwã́mbì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-18-2,,kota1274,18,dyɔhm na mwaambi,dyɔhm na mwaambi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-19-1,,kota1274,19,dʒóhũ̀nàntã́yìnànáyì,dʒóhũ̀nàntã́yìnànáyì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-19-2,,kota1274,19,dyɔhm na -taɲi na -nai,dyɔhm na -taɲi na -nai,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-20-1,,kota1274,20,mèmbótò,mèmbótò,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-20-2,,kota1274,20,ma-ko ma-ba,ma-ko ma-ba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-21-1,,kota1274,21,ma-ko ma-ba na -kɔlɔ,ma-ko ma-ba na -kɔlɔ,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-22-1,,kota1274,22,ma-ko ma-ba na -ba,ma-ko ma-ba na -ba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-23-1,,kota1274,23,ma-ko ma-ba na -hato,ma-ko ma-ba na -hato,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-24-1,,kota1274,24,ma-ko ma-ba na -nai,ma-ko ma-ba na -nai,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-25-1,,kota1274,25,ma-ko ma-ba na -taɲi,ma-ko ma-ba na -taɲi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-26-1,,kota1274,26,ma-ko ma-ba na tooba,ma-ko ma-ba na tooba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-27-1,,kota1274,27,ma-ko ma-ba na -nai na -hato,ma-ko ma-ba na -nai na -hato,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-28-1,,kota1274,28,ma-ko ma-ba na mwaambi,ma-ko ma-ba na mwaambi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-29-1,,kota1274,29,ma-ko ma-ba na -taɲi na -nai,ma-ko ma-ba na -taɲi na -nai,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-30-1,,kota1274,30,mèmbótàmìhã́tò,mèmbótàmìhã́tò,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-30-2,,kota1274,30,ma-ko ma-hato,ma-ko ma-hato,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-40-1,,kota1274,40,mèmbótomyènáyì,mèmbótomyènáyì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-40-2,,kota1274,40,ma-ko ma-nai,ma-ko ma-nai,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-50-1,,kota1274,50,mèmbótòmyèntã́yì,mèmbótòmyèntã́yì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-50-2,,kota1274,50,ma-ko ma-taɲi,ma-ko ma-taɲi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-60-1,,kota1274,60,mèmbótòntóbà,mèmbótòntóbà,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-60-2,,kota1274,60,ma-ko tooba,ma-ko tooba,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-70-1,,kota1274,70,mèmbòtónáyìnàhã́tò,mèmbòtónáyìnàhã́tò,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-70-2,,kota1274,70,ma-ko ma--nai na ma-hato,ma-ko ma--nai na ma-hato,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-80-1,,kota1274,80,mèmbótòmwã́mbì,mèmbótòmwã́mbì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-80-2,,kota1274,80,ma-ko mwaambi,ma-ko mwaambi,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-90-1,,kota1274,90,mèmbótòntánànáyì,mèmbótòntánànáyì,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-90-2,,kota1274,90,ma-ko ma--taɲi na ma-nai,ma-ko ma--taɲi na ma-nai,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-100-1,,kota1274,100,mèmbótòmyémbà,mèmbótòmyémbà,[],,[],,False,Kota-Bantu.htm,False,,1
+kota1274-100-2,,kota1274,100,sini,sini,[],,[],,False,Kota-Bantu.htm,False,,2
+kota1274-200-1,,kota1274,200,ba-sini ba-ba,ba-sini ba-ba,[],,[],,False,Kota-Bantu.htm,False,,2

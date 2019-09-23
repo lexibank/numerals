@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+shat1244-1-1,,shat1244,1,núuxù,núuxù,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-2-1,,shat1244,2,pɨ̀dàx,pɨ̀dàx,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-3-1,,shat1244,3,kòdòs,kòdòs,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-4-1,,shat1244,4,tèspèt,tèspèt,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-5-1,,shat1244,5,mɨ̀dɨ̀k,mɨ̀dɨ̀k,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-6-1,,shat1244,6,áaràn,áaràn,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-7-1,,shat1244,7,pàxtíndìɲ,pàxtíndìɲ,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-8-1,,shat1244,8,kòs(s)èndàŋ tèspédèspè,kòs(s)èndàŋ tèspédèspè,[],{four.four},[],,False,Shatt-Damam.htm,False,,1
+shat1244-9-1,,shat1244,9,dábàs(s)éndàŋ ~bây.núuxù,dábàs(s)éndàŋ ~bây.núuxù,[],,[],,False,Shatt-Damam.htm,True,,1
+shat1244-10-1,,shat1244,10,àsìɲ,àsìɲ,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-11-1,,shat1244,11,àsìɲ wàŋìcɨ̀ núuxù,àsìɲ wàŋìcɨ̀ núuxù,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-12-1,,shat1244,12,àsìɲ wàŋ pɨ̀dàx,àsìɲ wàŋ pɨ̀dàx,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-20-1,,shat1244,20,ùut wàŋ àsìɲ,ùut wàŋ àsìɲ,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-21-1,,shat1244,21,ùut wàŋìcɨ̀ núuxù,ùut wàŋìcɨ̀ núuxù,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-22-1,,shat1244,22,ùut wàŋì pɨ̀dàx,ùut wàŋì pɨ̀dàx,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-30-1,,shat1244,30,? /ten},ten},[],,[],,False,Shatt-Damam.htm,True,ùut wàŋ àsìɲ {twenty/near,1
+shat1244-40-1,,shat1244,40,ùudìɲ pɨ̀dàx,ùudìɲ pɨ̀dàx,[],{twentyː PLURAL /two},[],,False,Shatt-Damam.htm,False,,1
+shat1244-80-1,,shat1244,80,ùudìɲ tèspèt,ùudìɲ tèspèt,[],{twenty: PLURAL /four},[],,False,Shatt-Damam.htm,False,,1
+shat1244-90-1,,shat1244,90,ùudìɲ tèspèt wàŋ àsìɲ,ùudìɲ tèspèt wàŋ àsìɲ,[],,[],,False,Shatt-Damam.htm,False,,1
+shat1244-100-1,,shat1244,100,ùudìɲ mɨ̀dɨ̀k,ùudìɲ mɨ̀dɨ̀k,[],{twenty: PLURAL /five},[],,False,Shatt-Damam.htm,False,,1

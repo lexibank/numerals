@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nauk1242-1-1,,nauk1242,1,ataːsiq,ataːsiq,[],,[],,False,Naukan.htm,False,,1
+nauk1242-2-1,,nauk1242,2,maːlʁuk,maːlʁuk,[],,[],,False,Naukan.htm,False,,1
+nauk1242-3-1,,nauk1242,3,piŋayut,piŋayut,[],,[],,False,Naukan.htm,False,,1
+nauk1242-4-1,,nauk1242,4,sitamat,sitamat,[],,[],,False,Naukan.htm,False,,1
+nauk1242-5-1,,nauk1242,5,taɬimat,taɬimat,[],,[],,False,Naukan.htm,False,,1
+nauk1242-6-1,,nauk1242,6,aʁvinlək or ataːsimaɣləɡən,aʁvinlək or ataːsimaɣləɡən,[],,[],,False,Naukan.htm,True,,1
+nauk1242-7-1,,nauk1242,7,maːlʁuɡnəŋ aʁvinlək,maːlʁuɡnəŋ aʁvinlək,[],,[],,False,Naukan.htm,False,,1
+nauk1242-8-1,,nauk1242,8,piŋayunəŋ aʁvinlək,piŋayunəŋ aʁvinlək,[],,[],,False,Naukan.htm,False,,1
+nauk1242-9-1,,nauk1242,9,qulŋuʁitilŋuq,qulŋuʁitilŋuq,[],( 10 - 1 ?),[],,False,Naukan.htm,False,,1
+nauk1242-10-1,,nauk1242,10,qule,qule,[],,[],,False,Naukan.htm,False,,1
+nauk1242-11-1,,nauk1242,11,atɣanələk,atɣanələk,[],,[],,False,Naukan.htm,False,,1
+nauk1242-12-1,,nauk1242,12,maːlʁuɡnəŋ atɣanələk,maːlʁuɡnəŋ atɣanələk,[],,[],,False,Naukan.htm,False,,1
+nauk1242-13-1,,nauk1242,13,pi'ŋayut atɣanələk,pi'ŋayut atɣanələk,[],,[],,False,Naukan.htm,False,,1
+nauk1242-14-1,,nauk1242,14,akimiaʁutŋilŋuq,akimiaʁutŋilŋuq,[],(15 - 1),[],,False,Naukan.htm,False,,1
+nauk1242-15-1,,nauk1242,15,akimiaq,akimiaq,[],,[],,False,Naukan.htm,False,,1
+nauk1242-16-1,,nauk1242,16,akimiaq ataːsiq,akimiaq ataːsiq,[],(15+1),[],,False,Naukan.htm,False,,1
+nauk1242-17-1,,nauk1242,17,akimiaq maːlʁuk,akimiaq maːlʁuk,[],,[],,False,Naukan.htm,False,,1
+nauk1242-18-1,,nauk1242,18,akimiaq piŋayut,akimiaq piŋayut,[],,[],,False,Naukan.htm,False,,1
+nauk1242-19-1,,nauk1242,19,akimiaq sitamat,akimiaq sitamat,[],,[],,False,Naukan.htm,False,,1
+nauk1242-20-1,,nauk1242,20,yuɡinaq,yuɡinaq,[],,[],,False,Naukan.htm,False,,1
+nauk1242-21-1,,nauk1242,21,yuɡinaq ataːsiq,yuɡinaq ataːsiq,[],,[],,False,Naukan.htm,False,,1
+nauk1242-22-1,,nauk1242,22,yuɡinaq maːlʁuk,yuɡinaq maːlʁuk,[],,[],,False,Naukan.htm,False,,1
+nauk1242-30-1,,nauk1242,30,yuɡinaq qule,yuɡinaq qule,[],( 20 + 10 ),[],,False,Naukan.htm,False,,1
+nauk1242-40-1,,nauk1242,40,maːlʁum ipia,maːlʁum ipia,[],( 20 x 2 ),[],,False,Naukan.htm,False,,1
+nauk1242-50-1,,nauk1242,50,maːlʁum ipia qule,maːlʁum ipia qule,[],,[],,False,Naukan.htm,False,,1
+nauk1242-60-1,,nauk1242,60,piŋayun ipia,piŋayun ipia,[],( 20 x 3 ),[],,False,Naukan.htm,False,,1
+nauk1242-70-1,,nauk1242,70,piŋayun ipia qule,piŋayun ipia qule,[],,[],,False,Naukan.htm,False,,1
+nauk1242-80-1,,nauk1242,80,sitamam ipia,sitamam ipia,[],( 20 x 4 ),[],,False,Naukan.htm,False,,1
+nauk1242-90-1,,nauk1242,90,sitamam ipia qulməŋ,sitamam ipia qulməŋ,[],,[],,False,Naukan.htm,False,,1
+nauk1242-100-1,,nauk1242,100,taɬimam ipia,taɬimam ipia,[],( 20 x 5 ),[],,False,Naukan.htm,False,,1
+nauk1242-200-1,,nauk1242,200,qule ipia,qule ipia,[],( 20 x 10 ),[],,False,Naukan.htm,False,,1
+nauk1242-400-1,,nauk1242,400,yuɡinam yuum ipia,yuɡinam yuum ipia,[],( 20 x 20 ),[],,False,Naukan.htm,False,,1
+nauk1242-1000-1,,nauk1242,1000,kamutəm imaɣaː,kamutəm imaɣaː,[],,[],,False,Naukan.htm,False,,1

@@ -1,0 +1,77 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+buku1249-1-1,,buku1249,1,ndala,ndala,[],,[],,False,Bukusu.htm,False,,1
+buku1249-1-2,,buku1249,1,móótʃa,móótʃa,[],(< Swahili ),[],,True,Bukusu.htm,False,,1
+buku1249-2-1,,buku1249,2,tʃiβili,tʃiβili,[],,[],,False,Bukusu.htm,False,,1
+buku1249-2-2,,buku1249,2,mbííli,mbííli,[],(< Swahili ),[],,True,Bukusu.htm,False,,1
+buku1249-3-1,,buku1249,3,tʃitaru,tʃitaru,[],,[],,False,Bukusu.htm,False,,1
+buku1249-3-2,,buku1249,3,táátu,táátu,[],( Swahili ),[],,False,Bukusu.htm,False,,1
+buku1249-4-1,,buku1249,4,tʃiné,tʃiné,[],,[],,False,Bukusu.htm,False,,1
+buku1249-4-2,,buku1249,4,yine,yine,[],(< Swahili ),[],,True,Bukusu.htm,False,,1
+buku1249-5-1,,buku1249,5,tʃiraano,tʃiraano,[],,[],,False,Bukusu.htm,False,,1
+buku1249-5-2,,buku1249,5,tááno,tááno,[],(< Swahili ),[],,True,Bukusu.htm,False,,1
+buku1249-6-1,,buku1249,6,sííta,sííta,[],,[],,False,Bukusu.htm,False,,1
+buku1249-6-2,,buku1249,6,sííta,sííta,[],(< Arabic ),[],,True,Bukusu.htm,False,,1
+buku1249-7-1,,buku1249,7,saβá,saβá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-7-2,,buku1249,7,saβá,saβá,[],(< Arabic ),[],,True,Bukusu.htm,False,,1
+buku1249-8-1,,buku1249,8,munaane,munaane,[],,[],,False,Bukusu.htm,False,,1
+buku1249-8-2,,buku1249,8,nááne,nááne,[],(< Swahili ),[],,True,Bukusu.htm,False,,1
+buku1249-9-1,,buku1249,9,tisá,tisá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-9-2,,buku1249,9,tisá,tisá,[],(< Arabic ),[],,True,Bukusu.htm,False,,1
+buku1249-10-1,,buku1249,10,kúúmi,kúúmi,[],(< Swahili ),[],,True,Bukusu.htm,False,,1
+buku1249-10-2,,buku1249,10,lííkʰumi,lííkʰumi,[],,[],,False,Bukusu.htm,False,,1
+buku1249-11-1,,buku1249,11,kúmi ná móótʃa,kúmi ná móótʃa,[],,[],,False,Bukusu.htm,False,,1
+buku1249-11-2,,buku1249,11,lííkʰumi na ndala,lííkʰumi na ndala,[],,[],,False,Bukusu.htm,False,,1
+buku1249-12-1,,buku1249,12,kúmi ná mbííli,kúmi ná mbííli,[],,[],,False,Bukusu.htm,False,,1
+buku1249-12-2,,buku1249,12,lííkʰumi na tʃiβili,lííkʰumi na tʃiβili,[],,[],,False,Bukusu.htm,False,,1
+buku1249-13-1,,buku1249,13,kúmi ná táátu,kúmi ná táátu,[],,[],,False,Bukusu.htm,False,,1
+buku1249-13-2,,buku1249,13,lííkʰumi na tʃitaru,lííkʰumi na tʃitaru,[],,[],,False,Bukusu.htm,False,,1
+buku1249-14-1,,buku1249,14,kúmi ná yine,kúmi ná yine,[],,[],,False,Bukusu.htm,False,,1
+buku1249-14-2,,buku1249,14,lííkʰumi na tʃine,lííkʰumi na tʃine,[],,[],,False,Bukusu.htm,False,,1
+buku1249-15-1,,buku1249,15,kúmi ná tááno,kúmi ná tááno,[],,[],,False,Bukusu.htm,False,,1
+buku1249-15-2,,buku1249,15,lííkʰumi na tʃiraan.,lííkʰumi na tʃiraan.,[],,[],,False,Bukusu.htm,False,,1
+buku1249-16-1,,buku1249,16,kúmi ná sííta,kúmi ná sííta,[],,[],,False,Bukusu.htm,False,,1
+buku1249-16-2,,buku1249,16,lííkʰumi na sííta,lííkʰumi na sííta,[],,[],,False,Bukusu.htm,False,,1
+buku1249-17-1,,buku1249,17,kúmi ná sáβá,kúmi ná sáβá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-17-2,,buku1249,17,lííkʰumi na saβá,lííkʰumi na saβá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-18-1,,buku1249,18,kúmi ná nááne,kúmi ná nááne,[],,[],,False,Bukusu.htm,False,,1
+buku1249-18-2,,buku1249,18,lííkʰumi na mun.,lííkʰumi na mun.,[],,[],,False,Bukusu.htm,False,,1
+buku1249-19-1,,buku1249,19,kúmi ná tisá,kúmi ná tisá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-19-2,,buku1249,19,lííkʰumi na tisá,lííkʰumi na tisá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-20-1,,buku1249,20,ʃurííni,ʃurííni,[],(<Ar.),[],,True,Bukusu.htm,False,,1
+buku1249-20-2,,buku1249,20,kámákʰúmí káβíli,kámákʰúmí káβíli,[],,[],,False,Bukusu.htm,False,,1
+buku1249-21-1,,buku1249,21,ʃurííná móótʃa,ʃurííná móótʃa,[],,[],,False,Bukusu.htm,False,,1
+buku1249-21-2,,buku1249,21,kámákʰúmí káβíli n. n.,kámákʰúmí káβíli n. n.,[],,[],,False,Bukusu.htm,True,,1
+buku1249-22-1,,buku1249,22,ʃurííná mbííli,ʃurííná mbííli,[],,[],,False,Bukusu.htm,False,,1
+buku1249-22-2,,buku1249,22,kámákʰúmí káβíli n. tʃ.,kámákʰúmí káβíli n. tʃ.,[],,[],,False,Bukusu.htm,True,,1
+buku1249-23-1,,buku1249,23,ʃurííná táátu,ʃurííná táátu,[],,[],,False,Bukusu.htm,False,,1
+buku1249-23-2,,buku1249,23,kámákʰúmí káβíli n. tʃit.,kámákʰúmí káβíli n. tʃit.,[],,[],,False,Bukusu.htm,True,,1
+buku1249-24-1,,buku1249,24,ʃurííná yine,ʃurííná yine,[],,[],,False,Bukusu.htm,False,,1
+buku1249-24-2,,buku1249,24,kámákʰúmí káβíli n. tʃiné,kámákʰúmí káβíli n. tʃiné,[],,[],,False,Bukusu.htm,True,,1
+buku1249-25-1,,buku1249,25,ʃurííná tááno,ʃurííná tááno,[],,[],,False,Bukusu.htm,False,,1
+buku1249-25-2,,buku1249,25,kámákʰúmí káβíli n. tʃ.,kámákʰúmí káβíli n. tʃ.,[],,[],,False,Bukusu.htm,True,,1
+buku1249-26-1,,buku1249,26,ʃurííná sííta,ʃurííná sííta,[],,[],,False,Bukusu.htm,False,,1
+buku1249-26-2,,buku1249,26,kámákʰúmí káβíli na sííta,kámákʰúmí káβíli na sííta,[],,[],,False,Bukusu.htm,False,,1
+buku1249-27-1,,buku1249,27,ʃurííná sáβá,ʃurííná sáβá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-27-2,,buku1249,27,kámákʰúmí káβíli na saβá,kámákʰúmí káβíli na saβá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-28-1,,buku1249,28,ʃurííná nááne,ʃurííná nááne,[],,[],,False,Bukusu.htm,False,,1
+buku1249-28-2,,buku1249,28,kámákʰúmí káβíli n. m.,kámákʰúmí káβíli n. m.,[],,[],,False,Bukusu.htm,True,,1
+buku1249-29-1,,buku1249,29,ʃurííná tisá,ʃurííná tisá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-29-2,,buku1249,29,kámákʰúmí káβíli na tisá,kámákʰúmí káβíli na tisá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-30-1,,buku1249,30,salasííni,salasííni,[],(<Ar.),[],,True,Bukusu.htm,False,,1
+buku1249-30-2,,buku1249,30,kámákʰúmí kataru,kámákʰúmí kataru,[],,[],,False,Bukusu.htm,False,,1
+buku1249-40-1,,buku1249,40,árúpáyíne,árúpáyíne,[],(<Ar.),[],,True,Bukusu.htm,False,,1
+buku1249-40-2,,buku1249,40,kámákʰúmí káné,kámákʰúmí káné,[],,[],,False,Bukusu.htm,False,,1
+buku1249-50-1,,buku1249,50,kʰaamusííni,kʰaamusííni,[],(Ar.),[],,False,Bukusu.htm,False,,1
+buku1249-50-2,,buku1249,50,kámákʰúmí káraano,kámákʰúmí káraano,[],,[],,False,Bukusu.htm,False,,1
+buku1249-60-1,,buku1249,60,sitííni,sitííni,[],(<Ar.),[],,True,Bukusu.htm,False,,1
+buku1249-60-2,,buku1249,60,kámákʰúmí sííta,kámákʰúmí sííta,[],,[],,False,Bukusu.htm,False,,1
+buku1249-70-1,,buku1249,70,saβaíini,saβaíini,[],(<Ar.),[],,True,Bukusu.htm,False,,1
+buku1249-70-2,,buku1249,70,kámákʰúmí saβá,kámákʰúmí saβá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-80-1,,buku1249,80,samánííni,samánííni,[],(Ar.),[],,False,Bukusu.htm,False,,1
+buku1249-80-2,,buku1249,80,kámákʰúmí munaane,kámákʰúmí munaane,[],,[],,False,Bukusu.htm,False,,1
+buku1249-90-1,,buku1249,90,tísáyíne,tísáyíne,[],(<Ar.),[],,True,Bukusu.htm,False,,1
+buku1249-90-2,,buku1249,90,kámákʰúmí tisá,kámákʰúmí tisá,[],,[],,False,Bukusu.htm,False,,1
+buku1249-100-1,,buku1249,100,miya móótʃa,miya móótʃa,[],( miya < Arabic ),[],,True,Bukusu.htm,False,,1
+buku1249-200-1,,buku1249,200,miya mbííli,miya mbííli,[],,[],,False,Bukusu.htm,False,,1
+buku1249-1000-1,,buku1249,1000,elefu móótʃa,elefu móótʃa,[],( elefu < Arabic ),[],,True,Bukusu.htm,False,,1
+buku1249-2000-1,,buku1249,2000,elefu mbííli,elefu mbííli,[],,[],,False,Bukusu.htm,False,,1

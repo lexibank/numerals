@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+patp1243-1-1,,patp1243,1,tikai,tikai,[],,[],,False,Patpatar.htm,False,,1
+patp1243-2-1,,patp1243,2,a-iruo,a-iruo,[],,[],,False,Patpatar.htm,False,,1
+patp1243-3-1,,patp1243,3,a-itul,a-itul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-4-1,,patp1243,4,a-ihat,a-ihat,[],,[],,False,Patpatar.htm,False,,1
+patp1243-5-1,,patp1243,5,liman,liman,[],,[],,False,Patpatar.htm,False,,1
+patp1243-6-1,,patp1243,6,liman ma tikai,liman ma tikai,[],( 5 + 1 ),[],,False,Patpatar.htm,False,,1
+patp1243-7-1,,patp1243,7,liman ma iruo,liman ma iruo,[],( 5 + 2 ),[],,False,Patpatar.htm,False,,1
+patp1243-8-1,,patp1243,8,liman ma itul,liman ma itul,[],( 5 + 3 ),[],,False,Patpatar.htm,False,,1
+patp1243-9-1,,patp1243,9,liman ma ihat,liman ma ihat,[],( 5 + 4 ),[],,False,Patpatar.htm,False,,1
+patp1243-10-1,,patp1243,10,saŋahul,saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-11-1,,patp1243,11,saŋahul ma tikai,saŋahul ma tikai,[],,[],,False,Patpatar.htm,False,,1
+patp1243-12-1,,patp1243,12,saŋahul ma iruo,saŋahul ma iruo,[],,[],,False,Patpatar.htm,False,,1
+patp1243-13-1,,patp1243,13,saŋahul ma itul,saŋahul ma itul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-14-1,,patp1243,14,saŋahul ma ihat,saŋahul ma ihat,[],,[],,False,Patpatar.htm,False,,1
+patp1243-15-1,,patp1243,15,saŋahul ma liman,saŋahul ma liman,[],,[],,False,Patpatar.htm,False,,1
+patp1243-16-1,,patp1243,16,saŋahul ma liman ma tikai,saŋahul ma liman ma tikai,[],,[],,False,Patpatar.htm,False,,1
+patp1243-17-1,,patp1243,17,saŋahul ma liman ma iruo,saŋahul ma liman ma iruo,[],,[],,False,Patpatar.htm,False,,1
+patp1243-18-1,,patp1243,18,saŋahul ma liman ma itul,saŋahul ma liman ma itul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-19-1,,patp1243,19,saŋahul ma liman ma ihat,saŋahul ma liman ma ihat,[],,[],,False,Patpatar.htm,False,,1
+patp1243-20-1,,patp1243,20,a-iruo saŋahul,a-iruo saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-21-1,,patp1243,21,a-iruo saŋahul ma tikai,a-iruo saŋahul ma tikai,[],,[],,False,Patpatar.htm,False,,1
+patp1243-22-1,,patp1243,22,a-iruo saŋahul ma iruo,a-iruo saŋahul ma iruo,[],,[],,False,Patpatar.htm,False,,1
+patp1243-23-1,,patp1243,23,a-iruo saŋahul ma itul,a-iruo saŋahul ma itul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-24-1,,patp1243,24,a-iruo saŋahul ma ihat,a-iruo saŋahul ma ihat,[],,[],,False,Patpatar.htm,False,,1
+patp1243-25-1,,patp1243,25,a-iruo saŋahul ma liman,a-iruo saŋahul ma liman,[],,[],,False,Patpatar.htm,False,,1
+patp1243-26-1,,patp1243,26,a-iruo saŋahul ma liman ma tikai,a-iruo saŋahul ma liman ma tikai,[],,[],,False,Patpatar.htm,False,,1
+patp1243-27-1,,patp1243,27,a-iruo saŋahul ma liman ma iruo,a-iruo saŋahul ma liman ma iruo,[],,[],,False,Patpatar.htm,False,,1
+patp1243-28-1,,patp1243,28,a-iruo saŋahul ma liman ma itul,a-iruo saŋahul ma liman ma itul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-29-1,,patp1243,29,a-iruo saŋahul ma liman ma ihat,a-iruo saŋahul ma liman ma ihat,[],,[],,False,Patpatar.htm,False,,1
+patp1243-30-1,,patp1243,30,a-itul saŋahul,a-itul saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-40-1,,patp1243,40,a-ihat saŋahul,a-ihat saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-50-1,,patp1243,50,liman saŋahul,liman saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-60-1,,patp1243,60,liman ma tikai saŋahul,liman ma tikai saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-70-1,,patp1243,70,liman ma iruosaŋahul,liman ma iruosaŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-80-1,,patp1243,80,liman ma itul saŋahul,liman ma itul saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-90-1,,patp1243,90,liman ma ihat saŋahul,liman ma ihat saŋahul,[],,[],,False,Patpatar.htm,False,,1
+patp1243-100-1,,patp1243,100,tiɡa maːr,tiɡa maːr,[],,[],,False,Patpatar.htm,False,,1
+patp1243-200-1,,patp1243,200,a-iruo maːr,a-iruo maːr,[],,[],,False,Patpatar.htm,False,,1
+patp1243-1000-1,,patp1243,1000,tiɡa arip,tiɡa arip,[],,[],,False,Patpatar.htm,False,,1
+patp1243-2000-1,,patp1243,2000,a-iruo arip,a-iruo arip,[],,[],,False,Patpatar.htm,False,,1

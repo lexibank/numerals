@@ -1,0 +1,79 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+chac1249-1-1,,chac1249,1,maⁱn,maⁱn,[],,[],,False,Chachi.htm,False,,1
+chac1249-1-2,,chac1249,1,main,main,[],,[],,False,Chachi.htm,False,,2
+chac1249-2-1,,chac1249,2,'palʸu,'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-2-2,,chac1249,2,'pa.ʎu,'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-3-1,,chac1249,3,'pema,'pema,[],,[],,False,Chachi.htm,False,,1
+chac1249-3-2,,chac1249,3,'pe.ma,'pe.ma,[],,[],,False,Chachi.htm,False,,2
+chac1249-4-1,,chac1249,4,taa'palʸu,taa'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-4-2,,chac1249,4,taː.'pa.ʎu,taː.'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-5-1,,chac1249,5,'manda,'manda,[],,[],,False,Chachi.htm,False,,1
+chac1249-5-2,,chac1249,5,'mã.da,'mã.da,[],,[],,False,Chachi.htm,False,,2
+chac1249-6-1,,chac1249,6,man'dišmaⁱn,man'dišmaⁱn,[],( 5 + 1 ),[],,False,Chachi.htm,False,,1
+chac1249-6-2,,chac1249,6,mã.diʃ.'ma.ʎu,mã.diʃ.'ma.ʎu,[],( 5 + 1 ),[],,False,Chachi.htm,False,,2
+chac1249-7-1,,chac1249,7,mandiš'palʸu,mandiš'palʸu,[],( 5 + 2 ),[],,False,Chachi.htm,False,,1
+chac1249-7-2,,chac1249,7,mã.diʃ.'pa.ʎu,mã.diʃ.'pa.ʎu,[],( 5 + 2 ),[],,False,Chachi.htm,False,,2
+chac1249-8-1,,chac1249,8,mandiš'pema,mandiš'pema,[],( 5 + 3 ),[],,False,Chachi.htm,False,,1
+chac1249-8-2,,chac1249,8,mã.diʃ.'pe.ma,mã.diʃ.'pe.ma,[],( 5 + 3 ),[],,False,Chachi.htm,False,,2
+chac1249-9-1,,chac1249,9,man'diš'taa'palʸu,man'diš'taa'palʸu,[],( 5 + 4 ),[],,False,Chachi.htm,False,,1
+chac1249-9-2,,chac1249,9,mã.diʃ.'taː.'pa.ʎu,mã.diʃ.'taː.'pa.ʎu,[],( 5 + 4 ),[],,False,Chachi.htm,False,,2
+chac1249-10-1,,chac1249,10,'paⁱtʸa,'paⁱtʸa,[],,[],,False,Chachi.htm,False,,1
+chac1249-10-2,,chac1249,10,'pai.tʸa,'pai.tʸa,[],,[],,False,Chachi.htm,False,,2
+chac1249-11-1,,chac1249,11,'paⁱtʸa maⁱn,'paⁱtʸa maⁱn,[],,[],,False,Chachi.htm,False,,1
+chac1249-11-2,,chac1249,11,'pai.tʸa main,'pai.tʸa main,[],,[],,False,Chachi.htm,False,,2
+chac1249-12-1,,chac1249,12,'paⁱtʸa 'palʸu,'paⁱtʸa 'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-12-2,,chac1249,12,'pai.tʸa 'pa.ʎu,'pai.tʸa 'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-13-1,,chac1249,13,'paⁱtʸa 'pema,'paⁱtʸa 'pema,[],,[],,False,Chachi.htm,False,,1
+chac1249-13-2,,chac1249,13,'pai.tʸa 'pe.ma,'pai.tʸa 'pe.ma,[],,[],,False,Chachi.htm,False,,2
+chac1249-14-1,,chac1249,14,'paⁱtʸa taa'palʸu,'paⁱtʸa taa'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-14-2,,chac1249,14,'pai.tʸa taː.'pa.ʎu,'pai.tʸa taː.'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-15-1,,chac1249,15,'paⁱtʸa 'manda,'paⁱtʸa 'manda,[],,[],,False,Chachi.htm,False,,1
+chac1249-15-2,,chac1249,15,'pai.tʸa 'mã.da,'pai.tʸa 'mã.da,[],,[],,False,Chachi.htm,False,,2
+chac1249-16-1,,chac1249,16,'paⁱtʸaman'dišmaⁱn,'paⁱtʸaman'dišmaⁱn,[],,[],,False,Chachi.htm,False,,1
+chac1249-16-2,,chac1249,16,'pai.tʸa mã.diʃ.'ma.ʎu,'pai.tʸa mã.diʃ.'ma.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-17-1,,chac1249,17,'paⁱtʸa mandiš'palʸu,'paⁱtʸa mandiš'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-17-2,,chac1249,17,'pai.tʸa mã.diʃ.'pa.ʎu,'pai.tʸa mã.diʃ.'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-18-1,,chac1249,18,'paⁱtʸa mandiš'pema,'paⁱtʸa mandiš'pema,[],,[],,False,Chachi.htm,False,,1
+chac1249-18-2,,chac1249,18,'pai.tʸa mã.diʃ.'pe.ma,'pai.tʸa mã.diʃ.'pe.ma,[],,[],,False,Chachi.htm,False,,2
+chac1249-19-1,,chac1249,19,'paⁱtʸa man'diš'taa'palʸu,'paⁱtʸa man'diš'taa'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-19-2,,chac1249,19,'pai.tʸa mã.diʃ.'taː.'pa.ʎu,'pai.tʸa mã.diʃ.'taː.'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-20-1,,chac1249,20,'man'čaʔ'lura,'man'čaʔ'lura,[],,[],,False,Chachi.htm,False,,1
+chac1249-20-2,,chac1249,20,ˌmã.tʃaʔ.'lu.ɾa,ˌmã.tʃaʔ.'lu.ɾa,[],,[],,False,Chachi.htm,False,,2
+chac1249-21-1,,chac1249,21,'man'čaʔ'lura maⁱn,'man'čaʔ'lura maⁱn,[],,[],,False,Chachi.htm,False,,1
+chac1249-21-2,,chac1249,21,ˌmã.tʃaʔ.'lu.ɾa main,ˌmã.tʃaʔ.'lu.ɾa main,[],,[],,False,Chachi.htm,False,,2
+chac1249-22-1,,chac1249,22,'man'čaʔ'lura 'palʸu,'man'čaʔ'lura 'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-22-2,,chac1249,22,ˌmã.tʃaʔ.'lu.ɾa 'pa.ʎu,ˌmã.tʃaʔ.'lu.ɾa 'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-23-1,,chac1249,23,'man'čaʔ'lura 'pema,'man'čaʔ'lura 'pema,[],,[],,False,Chachi.htm,False,,1
+chac1249-23-2,,chac1249,23,ˌmã.tʃaʔ.'lu.ɾa 'pe.ma,ˌmã.tʃaʔ.'lu.ɾa 'pe.ma,[],,[],,False,Chachi.htm,False,,2
+chac1249-24-1,,chac1249,24,'man'čaʔ'lura taa'palʸu,'man'čaʔ'lura taa'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-24-2,,chac1249,24,ˌmã.tʃaʔ.'lu.ɾa taː.'pa.ʎu,ˌmã.tʃaʔ.'lu.ɾa taː.'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-25-1,,chac1249,25,'man'čaʔ'lura 'manda,'man'čaʔ'lura 'manda,[],,[],,False,Chachi.htm,False,,1
+chac1249-25-2,,chac1249,25,ˌmã.tʃaʔ.'lu.ɾa 'mã.da,ˌmã.tʃaʔ.'lu.ɾa 'mã.da,[],,[],,False,Chachi.htm,False,,2
+chac1249-26-1,,chac1249,26,'man'čaʔ'luraman'dišmaⁱn,'man'čaʔ'luraman'dišmaⁱn,[],,[],,False,Chachi.htm,False,,1
+chac1249-26-2,,chac1249,26,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'ma.ʎu,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'ma.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-27-1,,chac1249,27,'man'čaʔ'lura mandiš'palʸu,'man'čaʔ'lura mandiš'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-27-2,,chac1249,27,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'pa.ʎu,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-28-1,,chac1249,28,'man'čaʔ'lura mandiš'pema,'man'čaʔ'lura mandiš'pema,[],,[],,False,Chachi.htm,False,,1
+chac1249-28-2,,chac1249,28,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'pe.ma,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'pe.ma,[],,[],,False,Chachi.htm,False,,2
+chac1249-29-1,,chac1249,29,'man'čaʔ'lura man'diš'taa'palʸu,'man'čaʔ'lura man'diš'taa'palʸu,[],,[],,False,Chachi.htm,False,,1
+chac1249-29-2,,chac1249,29,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'taː.'pa.ʎu,ˌmã.tʃaʔ.'lu.ɾa mã.diʃ.'taː.'pa.ʎu,[],,[],,False,Chachi.htm,False,,2
+chac1249-30-1,,chac1249,30,'pɛŋ ˈčuŋɡa,'pɛŋ ˈčuŋɡa,[],,[],,False,Chachi.htm,False,,1
+chac1249-30-2,,chac1249,30,pen.ˈtʃun.ɡa,pen.ˈtʃun.ɡa,[],,[],,False,Chachi.htm,False,,2
+chac1249-40-1,,chac1249,40,'taapaⁱ ˈčuŋɡa,'taapaⁱ ˈčuŋɡa,[],,[],,False,Chachi.htm,False,,1
+chac1249-40-2,,chac1249,40,ˌtaː.pai.ˈtʃun.ɡa,ˌtaː.pai.ˈtʃun.ɡa,[],,[],,False,Chachi.htm,False,,2
+chac1249-50-1,,chac1249,50,'maŋ ˈčuŋɡa,'maŋ ˈčuŋɡa,[],,[],,False,Chachi.htm,False,,1
+chac1249-50-2,,chac1249,50,mã.ˈtʃun.ɡa,mã.ˈtʃun.ɡa,[],,[],,False,Chachi.htm,False,,2
+chac1249-60-1,,chac1249,60,'man'dišmaⁱn ˈčuŋɡa,'man'dišmaⁱn ˈčuŋɡa,[],,[],,False,Chachi.htm,False,,1
+chac1249-60-2,,chac1249,60,ˌmã.diʃ.ˌmai.ˈtʃun.ɡa,ˌmã.diʃ.ˌmai.ˈtʃun.ɡa,[],,[],,False,Chachi.htm,False,,2
+chac1249-70-1,,chac1249,70,mandiš'paⁱ ˈčuŋɡa,mandiš'paⁱ ˈčuŋɡa,[],,[],,False,Chachi.htm,False,,1
+chac1249-70-2,,chac1249,70,ˌmã.diʃ.ˌpai.ˈtʃun.ɡa,ˌmã.diʃ.ˌpai.ˈtʃun.ɡa,[],,[],,False,Chachi.htm,False,,2
+chac1249-80-1,,chac1249,80,'mandiš'pɛŋˈčuŋɡa,'mandiš'pɛŋˈčuŋɡa,[],,[],,False,Chachi.htm,False,,1
+chac1249-80-2,,chac1249,80,ˌmã.diʃ.ˌpẽ.ˈtʃun.ɡa,ˌmã.diʃ.ˌpẽ.ˈtʃun.ɡa,[],,[],,False,Chachi.htm,False,,2
+chac1249-90-1,,chac1249,90,man'diš'taa'paⁱ ˈčuŋɡa,man'diš'taa'paⁱ ˈčuŋɡa,[],,[],,False,Chachi.htm,False,,1
+chac1249-90-2,,chac1249,90,ˌmã.diʃ.ˌtaː.pai.ˈtʃun.ɡa,ˌmã.diʃ.ˌtaː.pai.ˈtʃun.ɡa,[],,[],,False,Chachi.htm,False,,2
+chac1249-100-1,,chac1249,100,'mam'batsaʔ,'mam'batsaʔ,[],,[],,False,Chachi.htm,False,,1
+chac1249-100-2,,chac1249,100,ˌmã.ba.'tsaʔ,ˌmã.ba.'tsaʔ,[],,[],,False,Chachi.htm,False,,2
+chac1249-200-1,,chac1249,200,'paⁱ'patsaʔ,'paⁱ'patsaʔ,[],,[],,False,Chachi.htm,False,,1
+chac1249-200-2,,chac1249,200,ˌpai.pa.'tsaʔ,ˌpai.pa.'tsaʔ,[],,[],,False,Chachi.htm,False,,2
+chac1249-1000-1,,chac1249,1000,mil,mil,[],( < Spanish ),[],,True,Chachi.htm,False,,1
+chac1249-2000-1,,chac1249,2000,paⁱ mil,paⁱ mil,[],,[],,False,Chachi.htm,False,,1

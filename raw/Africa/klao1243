@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+klao1243-1-1,,klao1243,1,dô,dô,[],,[],,False,Klao.htm,False,,1
+klao1243-2-1,,klao1243,2,sɔ́n,sɔ́n,[],,[],,False,Klao.htm,False,,1
+klao1243-3-1,,klao1243,3,tan,tan,[],,[],,False,Klao.htm,False,,1
+klao1243-4-1,,klao1243,4,nyìɛ̀,nyìɛ̀,[],,[],,False,Klao.htm,False,,1
+klao1243-5-1,,klao1243,5,mù,mù,[],,[],,False,Klao.htm,False,,1
+klao1243-6-1,,klao1243,6,mùnéɛ́do,mùnéɛ́do,[],( 5 + 1 ),[],,False,Klao.htm,False,,1
+klao1243-7-1,,klao1243,7,mùnéɛ́sɔ́n,mùnéɛ́sɔ́n,[],( 5 + 2 ),[],,False,Klao.htm,False,,1
+klao1243-8-1,,klao1243,8,mùnéɛtan,mùnéɛtan,[],( 5 + 3 ),[],,False,Klao.htm,False,,1
+klao1243-9-1,,klao1243,9,sopádo,sopádo,[],( 10 - 1 ),[],,False,Klao.htm,False,,1
+klao1243-10-1,,klao1243,10,puè,puè,[],,[],,False,Klao.htm,False,,1
+klao1243-11-1,,klao1243,11,puè neɛ dôɛ̀,puè neɛ dôɛ̀,[],,[],,False,Klao.htm,False,,1
+klao1243-12-1,,klao1243,12,puè neɛ sɔn,puè neɛ sɔn,[],,[],,False,Klao.htm,False,,1
+klao1243-13-1,,klao1243,13,puè neɛ tan,puè neɛ tan,[],,[],,False,Klao.htm,False,,1
+klao1243-14-1,,klao1243,14,puè neɛ nyìɛ̀,puè neɛ nyìɛ̀,[],,[],,False,Klao.htm,False,,1
+klao1243-15-1,,klao1243,15,puè neɛ mù,puè neɛ mù,[],,[],,False,Klao.htm,False,,1
+klao1243-16-1,,klao1243,16,puè neɛ mùnéɛ́do,puè neɛ mùnéɛ́do,[],,[],,False,Klao.htm,False,,1
+klao1243-17-1,,klao1243,17,puè neɛ mùnéɛ́sɔ́n,puè neɛ mùnéɛ́sɔ́n,[],,[],,False,Klao.htm,False,,1
+klao1243-18-1,,klao1243,18,puè neɛ mùnéɛtan,puè neɛ mùnéɛtan,[],,[],,False,Klao.htm,False,,1
+klao1243-19-1,,klao1243,19,puè neɛ sopádo,puè neɛ sopádo,[],,[],,False,Klao.htm,False,,1
+klao1243-20-1,,klao1243,20,wlòh,wlòh,[],,[],,False,Klao.htm,False,,1
+klao1243-21-1,,klao1243,21,wlòh neɛ dôɛ̀,wlòh neɛ dôɛ̀,[],,[],,False,Klao.htm,False,,1
+klao1243-22-1,,klao1243,22,wlòh neɛ sɔń,wlòh neɛ sɔń,[],,[],,False,Klao.htm,False,,1
+klao1243-23-1,,klao1243,23,wlòh neɛ tan,wlòh neɛ tan,[],,[],,False,Klao.htm,False,,1
+klao1243-24-1,,klao1243,24,wlòh neɛ nyìɛ̀,wlòh neɛ nyìɛ̀,[],,[],,False,Klao.htm,False,,1
+klao1243-25-1,,klao1243,25,wlòh neɛ mù,wlòh neɛ mù,[],,[],,False,Klao.htm,False,,1
+klao1243-26-1,,klao1243,26,wlòh neɛ mùnéɛ́do,wlòh neɛ mùnéɛ́do,[],,[],,False,Klao.htm,False,,1
+klao1243-27-1,,klao1243,27,wlòh neɛ mùnéɛ́sɔ́n,wlòh neɛ mùnéɛ́sɔ́n,[],,[],,False,Klao.htm,False,,1
+klao1243-28-1,,klao1243,28,wlòh neɛ mùnéɛtan,wlòh neɛ mùnéɛtan,[],,[],,False,Klao.htm,False,,1
+klao1243-29-1,,klao1243,29,wlòh neɛ sopádo,wlòh neɛ sopádo,[],,[],,False,Klao.htm,False,,1
+klao1243-30-1,,klao1243,30,wlòh neɛ puè,wlòh neɛ puè,[],,[],,False,Klao.htm,False,,1
+klao1243-40-1,,klao1243,40,wlòh sɔ́n,wlòh sɔ́n,[],( 20 x 2 ),[],,False,Klao.htm,False,,1
+klao1243-50-1,,klao1243,50,wlòh sɔ́n neɛ puè,wlòh sɔ́n neɛ puè,[],,[],,False,Klao.htm,False,,1
+klao1243-60-1,,klao1243,60,wlòh tan,wlòh tan,[],( 20 x 3 ),[],,False,Klao.htm,False,,1
+klao1243-70-1,,klao1243,70,wlòh tan neɛ puè,wlòh tan neɛ puè,[],,[],,False,Klao.htm,False,,1
+klao1243-80-1,,klao1243,80,wlòh nyìɛ̀,wlòh nyìɛ̀,[],( 20 x 4 ),[],,False,Klao.htm,False,,1
+klao1243-90-1,,klao1243,90,wlòh nyìɛ̀ neɛ puè,wlòh nyìɛ̀ neɛ puè,[],,[],,False,Klao.htm,False,,1
+klao1243-100-1,,klao1243,100,wlòh mù,wlòh mù,[],( 20 x 5 ),[],,False,Klao.htm,False,,1
+klao1243-200-1,,klao1243,200,wlòh puè,wlòh puè,[],( 20 x 10 ),[],,False,Klao.htm,False,,1
+klao1243-1000-1,,klao1243,1000,fuɡ͡bɛ̀,fuɡ͡bɛ̀,[],,[],,False,Klao.htm,False,,1
+klao1243-2000-1,,klao1243,2000,fuɡ͡bɛ̀ sɔ́n,fuɡ͡bɛ̀ sɔ́n,[],,[],,False,Klao.htm,False,,1

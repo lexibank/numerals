@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sima1258-1-1,,sima1258,1,-mweya,-mweya,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-2-1,,sima1258,2,-ili,-ili,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-3-1,,sima1258,3,-atu,-atu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-4-1,,sima1258,4,-ne,-ne,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-5-1,,sima1258,5,mu-tanu,mu-tanu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-6-1,,sima1258,6,mutanu na -mweya,mutanu na -mweya,[],( 5 + 1 ),[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-7-1,,sima1258,7,mutanu na -ili,mutanu na -ili,[],( 5 + 2 ),[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-8-1,,sima1258,8,mutanu na -atu,mutanu na -atu,[],( 5 + 3 ),[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-9-1,,sima1258,9,mutanu na -ne,mutanu na -ne,[],( 5 + 4 ),[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-10-1,,sima1258,10,likumi,likumi,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-11-1,,sima1258,11,likumi na -mweya,likumi na -mweya,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-12-1,,sima1258,12,likumi na -ili,likumi na -ili,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-13-1,,sima1258,13,likumi na -atu,likumi na -atu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-14-1,,sima1258,14,likumi na -ne,likumi na -ne,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-15-1,,sima1258,15,likumi na mutanu,likumi na mutanu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-16-1,,sima1258,16,likumi mutanu na -mweya,likumi mutanu na -mweya,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-17-1,,sima1258,17,likumi mutanu na -ili,likumi mutanu na -ili,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-18-1,,sima1258,18,likumi mutanu na -atu,likumi mutanu na -atu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-19-1,,sima1258,19,likumi mutanu na -ne,likumi mutanu na -ne,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-20-1,,sima1258,20,makumi meli,makumi meli,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-21-1,,sima1258,21,makumi meli na -mweya,makumi meli na -mweya,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-22-1,,sima1258,22,makumi meli na -ili,makumi meli na -ili,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-23-1,,sima1258,23,makumi meli na -atu,makumi meli na -atu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-24-1,,sima1258,24,makumi meli na -ne,makumi meli na -ne,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-25-1,,sima1258,25,makumi meli na mutanu,makumi meli na mutanu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-26-1,,sima1258,26,makumi meli na mutanu na -mweya,makumi meli na mutanu na -mweya,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-27-1,,sima1258,27,makumi meli na mutanu na -ili,makumi meli na mutanu na -ili,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-28-1,,sima1258,28,makumi meli na mutanu na -atu,makumi meli na mutanu na -atu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-29-1,,sima1258,29,makumi meli na mutanu na -ne,makumi meli na mutanu na -ne,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-30-1,,sima1258,30,makumi maatu,makumi maatu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-40-1,,sima1258,40,makumi mane,makumi mane,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-50-1,,sima1258,50,makumi a mutanu,makumi a mutanu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-60-1,,sima1258,60,makumi a mutanu na likumi,makumi a mutanu na likumi,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-70-1,,sima1258,70,makumi a mutanu na makumi -ili,makumi a mutanu na makumi -ili,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-80-1,,sima1258,80,makumi a mutanu na makumi -atu,makumi a mutanu na makumi -atu,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-90-1,,sima1258,90,makumi a mutanu na makumi -ne,makumi a mutanu na makumi -ne,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-100-1,,sima1258,100,mwanda,mwanda,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-100-2,,sima1258,100,mwanja,mwanja,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-200-1,,sima1258,200,mianda -ili,mianda -ili,[],,[],,False,Simaa-Mwenyi.htm,False,,1
+sima1258-1000-1,,sima1258,1000,mianda ca likumi,mianda ca likumi,[],,[],,False,Simaa-Mwenyi.htm,False,,1

@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+morm1235-1-1,,morm1235,1,tatá,tatá,[],,[],,False,Moor2.htm,False,,1
+morm1235-2-1,,morm1235,2,rúró,rúró,[],,[],,False,Moor2.htm,False,,1
+morm1235-3-1,,morm1235,3,óró,óró,[],,[],,False,Moor2.htm,False,,1
+morm1235-4-1,,morm1235,4,áʔó,áʔó,[],,[],,False,Moor2.htm,False,,1
+morm1235-5-1,,morm1235,5,rímó,rímó,[],,[],,False,Moor2.htm,False,,1
+morm1235-6-1,,morm1235,6,rímó maʔa tatá,rímó maʔa tatá,[],( 5 + 1),[],,False,Moor2.htm,False,,1
+morm1235-7-1,,morm1235,7,rímó maʔa rúró,rímó maʔa rúró,[],( 5 + 2),[],,False,Moor2.htm,False,,1
+morm1235-8-1,,morm1235,8,rímó maʔa óró,rímó maʔa óró,[],( 5 + 3),[],,False,Moor2.htm,False,,1
+morm1235-9-1,,morm1235,9,rímó maʔa áʔó,rímó maʔa áʔó,[],( 5 + 4),[],,False,Moor2.htm,False,,1
+morm1235-10-1,,morm1235,10,tàura,tàura,[],,[],,False,Moor2.htm,False,,1
+morm1235-11-1,,morm1235,11,tàura maʔa tatá,tàura maʔa tatá,[],,[],,False,Moor2.htm,False,,1
+morm1235-12-1,,morm1235,12,tàura maʔa rúró,tàura maʔa rúró,[],,[],,False,Moor2.htm,False,,1
+morm1235-13-1,,morm1235,13,tàura maʔa óró,tàura maʔa óró,[],,[],,False,Moor2.htm,False,,1
+morm1235-14-1,,morm1235,14,tàura maʔa áʔó,tàura maʔa áʔó,[],,[],,False,Moor2.htm,False,,1
+morm1235-15-1,,morm1235,15,tàura maʔa rímó,tàura maʔa rímó,[],,[],,False,Moor2.htm,False,,1
+morm1235-16-1,,morm1235,16,tàura maʔa rímó maʔa tatá,tàura maʔa rímó maʔa tatá,[],,[],,False,Moor2.htm,False,,1
+morm1235-17-1,,morm1235,17,tàura maʔa rímó maʔa rúró,tàura maʔa rímó maʔa rúró,[],,[],,False,Moor2.htm,False,,1
+morm1235-18-1,,morm1235,18,tàura maʔa rímó maʔa óró,tàura maʔa rímó maʔa óró,[],,[],,False,Moor2.htm,False,,1
+morm1235-19-1,,morm1235,19,tàura maʔa rímó maʔa áʔó,tàura maʔa rímó maʔa áʔó,[],,[],,False,Moor2.htm,False,,1
+morm1235-20-1,,morm1235,20,naʔu tatá,naʔu tatá,[],( litː ''person'' ),[],,False,Moor2.htm,False,,1
+morm1235-21-1,,morm1235,21,naʔu tatá maʔa tatá,naʔu tatá maʔa tatá,[],,[],,False,Moor2.htm,False,,1
+morm1235-22-1,,morm1235,22,naʔu tatá maʔa rúró,naʔu tatá maʔa rúró,[],,[],,False,Moor2.htm,False,,1
+morm1235-23-1,,morm1235,23,naʔu tatá maʔa óró,naʔu tatá maʔa óró,[],,[],,False,Moor2.htm,False,,1
+morm1235-24-1,,morm1235,24,naʔu tatá maʔa áʔó,naʔu tatá maʔa áʔó,[],,[],,False,Moor2.htm,False,,1
+morm1235-25-1,,morm1235,25,naʔu tatá maʔa rímó,naʔu tatá maʔa rímó,[],,[],,False,Moor2.htm,False,,1
+morm1235-26-1,,morm1235,26,naʔu tatá maʔa rímó maʔa tatá,naʔu tatá maʔa rímó maʔa tatá,[],,[],,False,Moor2.htm,False,,1
+morm1235-27-1,,morm1235,27,naʔu tatá maʔa rímó maʔa rúró,naʔu tatá maʔa rímó maʔa rúró,[],,[],,False,Moor2.htm,False,,1
+morm1235-28-1,,morm1235,28,naʔu tatá maʔa rímó maʔa óró,naʔu tatá maʔa rímó maʔa óró,[],,[],,False,Moor2.htm,False,,1
+morm1235-29-1,,morm1235,29,naʔu tatá maʔa rímó maʔa áʔo,naʔu tatá maʔa rímó maʔa áʔo,[],,[],,False,Moor2.htm,False,,1
+morm1235-30-1,,morm1235,30,naʔu tatá maʔa tàura,naʔu tatá maʔa tàura,[],( 20 + 10),[],,False,Moor2.htm,False,,1
+morm1235-40-1,,morm1235,40,naʔu rúró,naʔu rúró,[],( 20 x 2 ),[],,False,Moor2.htm,False,,1
+morm1235-50-1,,morm1235,50,naʔu rúró maʔa tàura,naʔu rúró maʔa tàura,[],,[],,False,Moor2.htm,False,,1
+morm1235-60-1,,morm1235,60,naʔu óró,naʔu óró,[],( 20 x 3 ),[],,False,Moor2.htm,False,,1
+morm1235-70-1,,morm1235,70,naʔu óró maʔa tàura,naʔu óró maʔa tàura,[],,[],,False,Moor2.htm,False,,1
+morm1235-80-1,,morm1235,80,naʔu áʔó,naʔu áʔó,[],( 20 x 4 ),[],,False,Moor2.htm,False,,1
+morm1235-90-1,,morm1235,90,naʔu áʔó maʔa tàura,naʔu áʔó maʔa tàura,[],,[],,False,Moor2.htm,False,,1
+morm1235-100-1,,morm1235,100,naʔu rímó,naʔu rímó,[],( 20 x 5 ),[],,False,Moor2.htm,False,,1
+morm1235-200-1,,morm1235,200,naʔu tàura,naʔu tàura,[],( 20 x 10 ),[],,False,Moor2.htm,False,,1

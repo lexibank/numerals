@@ -1,0 +1,35 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nucl1595-1-1,,nucl1595,1,abɛrias,abɛrias,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-1-2,,nucl1595,1,abɛrias,abɛrias,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-2-1,,nucl1595,2,nenumʷano,nenumʷano,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-2-2,,nucl1595,2,nenumʷano,nenumʷano,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-3-1,,nucl1595,3,ɪ̌sini,ɪ̌sini,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-3-2,,nucl1595,3,ɪsini,ɪsini,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-4-1,,nucl1595,4,ɪ̌sinimaro,ɪ̌sinimaro,[],(litː ''2 + 2''),[],,False,Kwerba.htm,False,,1
+nucl1595-4-2,,nucl1595,4,ɪsini maro,ɪsini maro,[],(litː ''2 + 2''),[],,False,Kwerba.htm,False,,2
+nucl1595-5-1,,nucl1595,5,matantac ( litː 'this hand') * c =,matantac ( litː 'this hand') * c =,[],[tʃ],[],,False,Kwerba.htm,True,,1
+nucl1595-5-2,,nucl1595,5,matantac,matantac,[],( litː 'hand' ? ),[],,False,Kwerba.htm,False,,2
+nucl1595-6-1,,nucl1595,6,matantac abɛrias,matantac abɛrias,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-6-2,,nucl1595,6,matantac abɛrias,matantac abɛrias,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-7-1,,nucl1595,7,matantac nenumʷano,matantac nenumʷano,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-7-2,,nucl1595,7,matantac nenumʷano,matantac nenumʷano,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-8-1,,nucl1595,8,matantac ɪ̌sini,matantac ɪ̌sini,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-8-2,,nucl1595,8,matantac ɪsini,matantac ɪsini,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-9-1,,nucl1595,9,matantac ɪ̌sinimaro,matantac ɪ̌sinimaro,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-9-2,,nucl1595,9,matantac ɪsinimaro,matantac ɪsinimaro,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-10-1,,nucl1595,10,matantac matantac,matantac matantac,[],"(litː 'this hand, this hand')",[],,False,Kwerba.htm,False,,1
+nucl1595-10-2,,nucl1595,10,matantac matantac,matantac matantac,[],,[],,False,Kwerba.htm,False,,2
+nucl1595-11-1,,nucl1595,11,matantac matantac abɛrias or (matan) tenica abɛrias,matantac matantac abɛrias or (matan) tenica abɛrias,[],"(litː 'this foot, one')",[],,False,Kwerba.htm,True,,1
+nucl1595-12-1,,nucl1595,12,matantac matantac nenumʷano or (matan) tenica abɛrias nenumʷano,matantac matantac nenumʷano or (matan) tenica abɛrias nenumʷano,[],,[],,False,Kwerba.htm,True,,1
+nucl1595-13-1,,nucl1595,13,matantac matantac ɪ̌sini or (matan) tenica abɛrias ɪ̌sini,matantac matantac ɪ̌sini or (matan) tenica abɛrias ɪ̌sini,[],,[],,False,Kwerba.htm,True,,1
+nucl1595-14-1,,nucl1595,14,matantac matantac ɪ̌sinimaro or (matan) tenica abɛrias ̌sinimaro,matantac matantac ɪ̌sinimaro or (matan) tenica abɛrias ̌sinimaro,[],,[],,False,Kwerba.htm,True,,1
+nucl1595-15-1,,nucl1595,15,matantac matantac matantac mantan tenica or matan tenicaba,matantac matantac matantac mantan tenica or matan tenicaba,[],(burukwe),[],,False,Kwerba.htm,True,,1
+nucl1595-16-1,,nucl1595,16,tenic awotan abɛrias,tenic awotan abɛrias,[],(litː 'foot other one'),[],,False,Kwerba.htm,False,,1
+nucl1595-17-1,,nucl1595,17,tenic awotan nenumʷano,tenic awotan nenumʷano,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-18-1,,nucl1595,18,tenic awotan ɪ̌sini,tenic awotan ɪ̌sini,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-19-1,,nucl1595,19,tenic awotan ɪ̌sinimaro,tenic awotan ɪ̌sinimaro,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-20-1,,nucl1595,20,abacaba abɛriasaba (litː 'man one') or anaba abɛriasaba,abacaba abɛriasaba (litː 'man one') or anaba abɛriasaba,[],(litː 'man one'),[],,False,Kwerba.htm,True,,1
+nucl1595-30-1,,nucl1595,30,abacaba abɛriasaba bar matantac matantac,abacaba abɛriasaba bar matantac matantac,[],,[],,False,Kwerba.htm,False,,1
+nucl1595-30-2,,nucl1595,30,40. matantac nenumʷano,40. matantac nenumʷano,[],,[],,False,Kwerba.htm,True,,1
+nucl1595-100-1,,nucl1595,100,abacaba matantacaba or seratus,abacaba matantacaba or seratus,[],( < Bahasa Indonesia),[],,True,Kwerba.htm,True,,1
+nucl1595-1000-1,,nucl1595,1000,seribu,seribu,[],( < Bahasa Indonesia),[],,True,Kwerba.htm,False,,1

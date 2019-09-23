@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+metl1238-1-1,,metl1238,1,ĩː,ĩː,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-1-2,,metl1238,1,ɨ̃̀ː,ɨ̃̀ː,[],( ɨ̃̀ɨ̃̀ ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-2-1,,metl1238,2,ùvì,ùvì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-2-2,,metl1238,2,ūː,ūː,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-3-1,,metl1238,3,ùnì,ùnì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-3-2,,metl1238,3,ūnì,ūnì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-4-1,,metl1238,4,kùmí,kùmí,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-4-2,,metl1238,4,kṹũ̄,kṹũ̄,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-5-1,,metl1238,5,ũ̀ʔũ̀,ũ̀ʔũ̀,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-5-2,,metl1238,5,ũ̀ʔũ̀,ũ̀ʔũ̀,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-6-1,,metl1238,6,ìɲù,ìɲù,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-6-2,,metl1238,6,ìɲù,ìɲù,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-7-1,,metl1238,7,ùxà = ùhà ?,ùxà = ùhà ?,[],,[],,False,Mixteco-Metlatonic.htm,True,,1
+metl1238-7-2,,metl1238,7,ūhʲà,ūhʲà,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-8-1,,metl1238,8,ùnà,ùnà,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-8-2,,metl1238,8,ūná,ūná,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-9-1,,metl1238,9,ĩĩ̀,ĩĩ̀,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-9-2,,metl1238,9,ɨ̃̄ː,ɨ̃̄ː,[],(ɨ̃ɨ̃),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-10-1,,metl1238,10,ùhì,ùhì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-10-2,,metl1238,10,ūhì,ūhì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-11-1,,metl1238,11,ùhì ĩː,ùhì ĩː,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-11-2,,metl1238,11,ūhì ɨ̃̀ː,ūhì ɨ̃̀ː,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-12-1,,metl1238,12,ùhì ùvì,ùhì ùvì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-12-2,,metl1238,12,ūhì ūː,ūhì ūː,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-13-1,,metl1238,13,ùhì ùnì,ùhì ùnì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-13-2,,metl1238,13,ūhì ūnì,ūhì ūnì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-14-1,,metl1238,14,ùhì kùmí,ùhì kùmí,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-14-2,,metl1238,14,ūhì kṹũ̄,ūhì kṹũ̄,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-15-1,,metl1238,15,hàʔũ̀,hàʔũ̀,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-15-2,,metl1238,15,hʲã̀ʔũ̀,hʲã̀ʔũ̀,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-16-1,,metl1238,16,hàʔu ĩː,hàʔu ĩː,[],( 15 + 1 ),[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-16-2,,metl1238,16,hʲã̀ʔũ̀ ĩ̀ː,hʲã̀ʔũ̀ ĩ̀ː,[],( 15 + 1 ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-17-1,,metl1238,17,hàʔu ùvì,hàʔu ùvì,[],( 15 + 2 ),[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-17-2,,metl1238,17,hʲã̀ʔũ̀ ūː,hʲã̀ʔũ̀ ūː,[],( 15 + 2 ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-18-1,,metl1238,18,hàʔu ùnì,hàʔu ùnì,[],( 15 + 3 ),[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-18-2,,metl1238,18,hʲã̀ʔũ̀ ùnì,hʲã̀ʔũ̀ ùnì,[],( 15 + 3 ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-19-1,,metl1238,19,hàʔu kùmí,hàʔu kùmí,[],( 15 + 4 ),[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-19-2,,metl1238,19,hʲã̀ʔũ̀ kṹũ̄,hʲã̀ʔũ̀ kṹũ̄,[],( 15 + 4 ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-20-1,,metl1238,20,òkò,òkò,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-20-2,,metl1238,20,ōkò,ōkò,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-21-1,,metl1238,21,òkò ĩː,òkò ĩː,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-21-2,,metl1238,21,ōkò ĩ̀ː,ōkò ĩ̀ː,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-22-1,,metl1238,22,òkò ùvì,òkò ùvì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-22-2,,metl1238,22,ōkò ūː,ōkò ūː,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-23-1,,metl1238,23,òkò ùnì,òkò ùnì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-23-2,,metl1238,23,ōkò ūnì,ōkò ūnì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-24-1,,metl1238,24,òkò kùmí,òkò kùmí,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-24-2,,metl1238,24,ōkò kṹũ̄,ōkò kṹũ̄,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-25-1,,metl1238,25,òkò ũ̀ʔũ̀,òkò ũ̀ʔũ̀,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-25-2,,metl1238,25,ōkò ũ̀ʔũ̀,ōkò ũ̀ʔũ̀,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-26-1,,metl1238,26,òkò ìɲù,òkò ìɲù,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-26-2,,metl1238,26,ōkò ìɲù,ōkò ìɲù,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-27-1,,metl1238,27,òkò ùhà,òkò ùhà,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-27-2,,metl1238,27,ōkò ùhà,ōkò ùhà,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-28-1,,metl1238,28,òkò ùnà,òkò ùnà,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-28-2,,metl1238,28,ōkò ùnà,ōkò ùnà,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-29-1,,metl1238,29,òkò ĩĩ̀,òkò ĩĩ̀,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-29-2,,metl1238,29,ōkò ĩ̄ː,ōkò ĩ̄ː,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-30-1,,metl1238,30,òkò ùhì,òkò ùhì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-30-2,,metl1238,30,ōkò ùhì,ōkò ùhì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-40-1,,metl1238,40,ùvì hìko,ùvì hìko,[],( 2 x 20 ),[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-40-2,,metl1238,40,ūː ʃīkō,ūː ʃīkō,[],( 2 x 20 ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-50-1,,metl1238,50,ùvì hìko hì,ùvì hìko hì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-50-2,,metl1238,50,ūː ʃīkō ùhì,ūː ʃīkō ùhì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-60-1,,metl1238,60,ùnì hìko,ùnì hìko,[],( 3 x 20 ),[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-60-2,,metl1238,60,ùnì ʃīkō,ùnì ʃīkō,[],( 3 x 20 ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-70-1,,metl1238,70,ùnì hìko hì,ùnì hìko hì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-70-2,,metl1238,70,ùnì ʃīkō ùhì,ùnì ʃīkō ùhì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-80-1,,metl1238,80,kùmí hìko,kùmí hìko,[],( 4 x 20 ),[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-80-2,,metl1238,80,kṹũ̄ ʃīkō,kṹũ̄ ʃīkō,[],( 4 x 20 ),[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-90-1,,metl1238,90,kùmí hìko hì,kùmí hìko hì,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-90-2,,metl1238,90,kṹũ̄ ʃīkō ùhì,kṹũ̄ ʃīkō ùhì,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-100-1,,metl1238,100,síendo,síendo,[],( síendo < Spanish ),[],,True,Mixteco-Metlatonic.htm,False,,1
+metl1238-100-2,,metl1238,100,ɨ̃̀ː cíéntú,ɨ̃̀ː cíéntú,[],( cíéntú < Spanish ),[],,True,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-200-1,,metl1238,200,ùvì síendó,ùvì síendó,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-200-2,,metl1238,200,ūː cíéntú,ūː cíéntú,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-1000-1,,metl1238,1000,mílĩ,mílĩ,[],( mílĩ < Spanish ),[],,True,Mixteco-Metlatonic.htm,False,,1
+metl1238-1000-2,,metl1238,1000,ɨ̃̀ː míl,ɨ̃̀ː míl,[],( míl < Spanish ),[],,True,Mixteco-Santa-Lucia-Monteverde.htm,False,,1
+metl1238-2000-1,,metl1238,2000,ùvì mílĩ,ùvì mílĩ,[],,[],,False,Mixteco-Metlatonic.htm,False,,1
+metl1238-2000-2,,metl1238,2000,ūː míl,ūː míl,[],,[],,False,Mixteco-Santa-Lucia-Monteverde.htm,False,,1

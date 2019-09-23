@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kala1373-1-1,,kala1373,1,aːk,aːk,[],,[],,False,Kalami.htm,False,,1
+kala1373-2-1,,kala1373,2,duː,duː,[],,[],,False,Kalami.htm,False,,1
+kala1373-3-1,,kala1373,3,ɬɑː,ɬɑː,[],,[],,False,Kalami.htm,False,,1
+kala1373-4-1,,kala1373,4,t͡ʃoːr,t͡ʃoːr,[],,[],,False,Kalami.htm,False,,1
+kala1373-5-1,,kala1373,5,pɑ̃t͡ʃ,pɑ̃t͡ʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-6-1,,kala1373,6,ʂo,ʂo,[],,[],,False,Kalami.htm,False,,1
+kala1373-7-1,,kala1373,7,sɑt,sɑt,[],,[],,False,Kalami.htm,False,,1
+kala1373-8-1,,kala1373,8,aʈ͡ʂ,aʈ͡ʂ,[],,[],,False,Kalami.htm,False,,1
+kala1373-9-1,,kala1373,9,nom,nom,[],,[],,False,Kalami.htm,False,,1
+kala1373-10-1,,kala1373,10,daʃ,daʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-11-1,,kala1373,11,ikaː,ikaː,[],,[],,False,Kalami.htm,False,,1
+kala1373-12-1,,kala1373,12,baː,baː,[],,[],,False,Kalami.htm,False,,1
+kala1373-13-1,,kala1373,13,ɬoː,ɬoː,[],,[],,False,Kalami.htm,False,,1
+kala1373-14-1,,kala1373,14,t͡ʃuːn,t͡ʃuːn,[],,[],,False,Kalami.htm,False,,1
+kala1373-15-1,,kala1373,15,pand͡ʒaː,pand͡ʒaː,[],,[],,False,Kalami.htm,False,,1
+kala1373-16-1,,kala1373,16,ʂoːr,ʂoːr,[],,[],,False,Kalami.htm,False,,1
+kala1373-17-1,,kala1373,17,səttaː,səttaː,[],,[],,False,Kalami.htm,False,,1
+kala1373-18-1,,kala1373,18,aʈ͡ʂaː,aʈ͡ʂaː,[],,[],,False,Kalami.htm,False,,1
+kala1373-19-1,,kala1373,19,anbiʃ,anbiʃ,[],( 20 -1 ),[],,False,Kalami.htm,False,,1
+kala1373-20-1,,kala1373,20,biʃ,biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-21-1,,kala1373,21,aːk teː biʃ,aːk teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-22-1,,kala1373,22,du teː biʃ,du teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-23-1,,kala1373,23,ɬɑː teː biʃ,ɬɑː teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-24-1,,kala1373,24,t͡ʃoːr teː biʃ,t͡ʃoːr teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-25-1,,kala1373,25,pɑ̃t͡ʃ teː biʃ,pɑ̃t͡ʃ teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-26-1,,kala1373,26,ʂo teː biʃ,ʂo teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-27-1,,kala1373,27,sɑt teː biʃ,sɑt teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-28-1,,kala1373,28,aʈ͡ʂ teː biʃ,aʈ͡ʂ teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-29-1,,kala1373,29,nom teː biʃ,nom teː biʃ,[],,[],,False,Kalami.htm,False,,1
+kala1373-30-1,,kala1373,30,daːʃ teː biʃ,daːʃ teː biʃ,[],(10 + 20),[],,False,Kalami.htm,False,,1
+kala1373-40-1,,kala1373,40,dubiʃ,dubiʃ,[],( 2 x 20),[],,False,Kalami.htm,False,,1
+kala1373-50-1,,kala1373,50,daːʃ teː dubiʃ,daːʃ teː dubiʃ,[],[10 +(3 x 20)],[],,False,Kalami.htm,False,,1
+kala1373-60-1,,kala1373,60,ɬɑːbiʃ,ɬɑːbiʃ,[],( 3 x 20),[],,False,Kalami.htm,False,,1
+kala1373-70-1,,kala1373,70,daːʃ teː ɬɑːbiʃ,daːʃ teː ɬɑːbiʃ,[],[10 + (3 x 20)],[],,False,Kalami.htm,False,,1
+kala1373-80-1,,kala1373,80,t͡ʃoːrbiʃ,t͡ʃoːrbiʃ,[],( 4 x 20),[],,False,Kalami.htm,False,,1
+kala1373-90-1,,kala1373,90,daːʃ teː t͡ʃoːrbiʃ,daːʃ teː t͡ʃoːrbiʃ,[],[10 + (4 x 20)],[],,False,Kalami.htm,False,,1
+kala1373-100-1,,kala1373,100,pɑ̃t͡ʃbiʃ,pɑ̃t͡ʃbiʃ,[],( 5 x 20),[],,False,Kalami.htm,False,,1
+kala1373-200-1,,kala1373,200,du soː,du soː,[],,[],,False,Kalami.htm,False,,1
+kala1373-1000-1,,kala1373,1000,a zir,a zir,[],,[],,False,Kalami.htm,False,,1
+kala1373-2000-1,,kala1373,2000,duː zir,duː zir,[],,[],,False,Kalami.htm,False,,1

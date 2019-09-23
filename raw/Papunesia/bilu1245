@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bilu1245-1-1,,bilu1245,1,ɔmaⁿdeu,ɔmaⁿdeu,[],,[],,False,Bilua.htm,False,,1
+bilu1245-2-1,,bilu1245,2,ɔmuᵑɡa,ɔmuᵑɡa,[],,[],,False,Bilua.htm,False,,1
+bilu1245-3-1,,bilu1245,3,zouke,zouke,[],,[],,False,Bilua.htm,False,,1
+bilu1245-4-1,,bilu1245,4,ariku,ariku,[],,[],,False,Bilua.htm,False,,1
+bilu1245-5-1,,bilu1245,5,sike,sike,[],,[],,False,Bilua.htm,False,,1
+bilu1245-6-1,,bilu1245,6,varimuⁿɟa,varimuⁿɟa,[],,[],,False,Bilua.htm,False,,1
+bilu1245-7-1,,bilu1245,7,sikeura,sikeura,[],( 5 + 2 ? ),[],,False,Bilua.htm,False,,1
+bilu1245-8-1,,bilu1245,8,siotolu,siotolu,[],( 5 + 3 ? ),[],,False,Bilua.htm,False,,1
+bilu1245-9-1,,bilu1245,9,siakava,siakava,[],( 5 + 4 ? ),[],,False,Bilua.htm,False,,1
+bilu1245-10-1,,bilu1245,10,toni,toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-11-1,,bilu1245,11,toni ɔmaⁿdeu,toni ɔmaⁿdeu,[],,[],,False,Bilua.htm,False,,1
+bilu1245-12-1,,bilu1245,12,toni ɔmuᵑɡa,toni ɔmuᵑɡa,[],,[],,False,Bilua.htm,False,,1
+bilu1245-13-1,,bilu1245,13,toni zouke,toni zouke,[],,[],,False,Bilua.htm,False,,1
+bilu1245-14-1,,bilu1245,14,toni ariku,toni ariku,[],,[],,False,Bilua.htm,False,,1
+bilu1245-15-1,,bilu1245,15,toni sike,toni sike,[],,[],,False,Bilua.htm,False,,1
+bilu1245-16-1,,bilu1245,16,toni varimuⁿɟa,toni varimuⁿɟa,[],,[],,False,Bilua.htm,False,,1
+bilu1245-17-1,,bilu1245,17,toni sikeura,toni sikeura,[],,[],,False,Bilua.htm,False,,1
+bilu1245-18-1,,bilu1245,18,toni siotolu,toni siotolu,[],,[],,False,Bilua.htm,False,,1
+bilu1245-19-1,,bilu1245,19,toni siakava,toni siakava,[],,[],,False,Bilua.htm,False,,1
+bilu1245-20-1,,bilu1245,20,karabete,karabete,[],( borrow from Choiseul ),[],,False,Bilua.htm,False,,1
+bilu1245-21-1,,bilu1245,21,karabete ɔmaⁿdeu,karabete ɔmaⁿdeu,[],,[],,False,Bilua.htm,False,,1
+bilu1245-22-1,,bilu1245,22,karabete ɔmuᵑɡa,karabete ɔmuᵑɡa,[],,[],,False,Bilua.htm,False,,1
+bilu1245-23-1,,bilu1245,23,karabete zouke,karabete zouke,[],,[],,False,Bilua.htm,False,,1
+bilu1245-24-1,,bilu1245,24,karabete ariku,karabete ariku,[],,[],,False,Bilua.htm,False,,1
+bilu1245-25-1,,bilu1245,25,karabete sike,karabete sike,[],,[],,False,Bilua.htm,False,,1
+bilu1245-26-1,,bilu1245,26,karabete varimuⁿɟa,karabete varimuⁿɟa,[],,[],,False,Bilua.htm,False,,1
+bilu1245-27-1,,bilu1245,27,karabete sikeura,karabete sikeura,[],,[],,False,Bilua.htm,False,,1
+bilu1245-28-1,,bilu1245,28,karabete siotolu,karabete siotolu,[],,[],,False,Bilua.htm,False,,1
+bilu1245-29-1,,bilu1245,29,karabete siakava,karabete siakava,[],,[],,False,Bilua.htm,False,,1
+bilu1245-30-1,,bilu1245,30,zouke toni,zouke toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-40-1,,bilu1245,40,ariku toni,ariku toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-50-1,,bilu1245,50,sike toni,sike toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-60-1,,bilu1245,60,varimuⁿɟa toni,varimuⁿɟa toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-70-1,,bilu1245,70,sikeura toni,sikeura toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-80-1,,bilu1245,80,siotolu toni,siotolu toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-90-1,,bilu1245,90,siakava toni,siakava toni,[],,[],,False,Bilua.htm,False,,1
+bilu1245-100-1,,bilu1245,100,ɔmaⁿdeu paizana,ɔmaⁿdeu paizana,[],,[],,False,Bilua.htm,False,,1
+bilu1245-200-1,,bilu1245,200,ɔmuᵑɡa paizana,ɔmuᵑɡa paizana,[],,[],,False,Bilua.htm,False,,1
+bilu1245-1000-1,,bilu1245,1000,ɔmaⁿdeu vurɔ,ɔmaⁿdeu vurɔ,[],,[],,False,Bilua.htm,False,,1
+bilu1245-2000-1,,bilu1245,2000,ɔmuᵑɡa vurɔ,ɔmuᵑɡa vurɔ,[],,[],,False,Bilua.htm,False,,1

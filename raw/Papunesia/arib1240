@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+arib1240-1-1,,arib1240,1,uruts,uruts,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-2-1,,arib1240,2,siruc c = ʔ ?,siruc c = ʔ ?,[],,[],,False,Aribwaung-Yalu.htm,True,,1
+arib1240-3-1,,arib1240,3,siruc aruts,siruc aruts,[],( 2 + 1 ),[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-4-1,,arib1240,4,siruc siruc,siruc siruc,[],( 2 + 2 ),[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-5-1,,arib1240,5,paŋɡi-ŋɡ lefen,paŋɡi-ŋɡ lefen,[],(litː 'hand half'),[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-6-1,,arib1240,6,paŋɡi-ŋɡ lefen nitsin uruts,paŋɡi-ŋɡ lefen nitsin uruts,[],(litː 'hand half and one'),[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-7-1,,arib1240,7,paŋɡi-ŋɡ lefen nitsin siruc,paŋɡi-ŋɡ lefen nitsin siruc,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-8-1,,arib1240,8,paŋɡi-ŋɡ lefen nitsin siruc aruts,paŋɡi-ŋɡ lefen nitsin siruc aruts,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-9-1,,arib1240,9,paŋɡi-ŋɡ lefen nitsin siruc siruc,paŋɡi-ŋɡ lefen nitsin siruc siruc,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-10-1,,arib1240,10,paŋɡi-ŋɡ siruc,paŋɡi-ŋɡ siruc,[],(litː 'hands two'),[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-11-1,,arib1240,11,paŋɡi-ŋɡ siruc nitsin uruts,paŋɡi-ŋɡ siruc nitsin uruts,[],(litː 'hands two and one'),[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-12-1,,arib1240,12,paŋɡi-ŋɡ siruc nitsin siruc,paŋɡi-ŋɡ siruc nitsin siruc,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-13-1,,arib1240,13,paŋɡi-ŋɡ siruc nitsin siruc aruts,paŋɡi-ŋɡ siruc nitsin siruc aruts,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-14-1,,arib1240,14,paŋɡi-ŋɡ siruc nitsin siruc siruc,paŋɡi-ŋɡ siruc nitsin siruc siruc,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-15-1,,arib1240,15,paŋɡi-ŋɡ siruc ofoŋ menen,paŋɡi-ŋɡ siruc ofoŋ menen,[],"(litː 'hands two, foot one')",[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-16-1,,arib1240,16,paŋɡi-ŋɡ siruc ofoŋ menen nidzin uruts,paŋɡi-ŋɡ siruc ofoŋ menen nidzin uruts,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-17-1,,arib1240,17,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-18-1,,arib1240,18,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc aruts,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc aruts,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-19-1,,arib1240,19,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc siruc,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc siruc,[],,[],,False,Aribwaung-Yalu.htm,False,,1
+arib1240-20-1,,arib1240,20,"paŋɡi-ŋɡ siruc ofoŋ siruc (litː 'hands two, feet two') or artsamo","paŋɡi-ŋɡ siruc ofoŋ siruc (litː 'hands two, feet two') or artsamo",[],(litː 'whole man'),[],,False,Aribwaung-Yalu.htm,True,,1

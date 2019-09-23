@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+haus1257-1-1,,haus1257,1,ɗájá,ɗájá,[],,[],,False,Hausa.htm,False,,1
+haus1257-2-1,,haus1257,2,bíjú,bíjú,[],,[],,False,Hausa.htm,False,,1
+haus1257-3-1,,haus1257,3,ʔúkù,ʔúkù,[],,[],,False,Hausa.htm,False,,1
+haus1257-3-2,,haus1257,3,ʔúkkù,ʔúkkù,[],( West Hausa),[],,False,Hausa.htm,False,,1
+haus1257-4-1,,haus1257,4,fúɗú,fúɗú,[],,[],,False,Hausa.htm,False,,1
+haus1257-5-1,,haus1257,5,bìjár,bìjár,[],,[],,False,Hausa.htm,False,,1
+haus1257-6-1,,haus1257,6,ʃídà,ʃídà,[],,[],,False,Hausa.htm,False,,1
+haus1257-6-2,,haus1257,6,ʃíddà,ʃíddà,[],( West Hausa),[],,False,Hausa.htm,False,,1
+haus1257-7-1,,haus1257,7,bákwài,bákwài,[],,[],,False,Hausa.htm,False,,1
+haus1257-8-1,,haus1257,8,tákwàs,tákwàs,[],,[],,False,Hausa.htm,False,,1
+haus1257-9-1,,haus1257,9,tárà,tárà,[],,[],,False,Hausa.htm,False,,1
+haus1257-10-1,,haus1257,10,ɡóːmà,ɡóːmà,[],,[],,False,Hausa.htm,False,,1
+haus1257-11-1,,haus1257,11,(ɡóːmà) ʃâː ɗájá,(ɡóːmà) ʃâː ɗájá,[],,[],,False,Hausa.htm,False,,1
+haus1257-12-1,,haus1257,12,(ɡóːmà) ʃâː bíjú,(ɡóːmà) ʃâː bíjú,[],,[],,False,Hausa.htm,False,,1
+haus1257-13-1,,haus1257,13,(ɡóːmà) ʃâː ʔúku,(ɡóːmà) ʃâː ʔúku,[],,[],,False,Hausa.htm,False,,1
+haus1257-14-1,,haus1257,14,(ɡóːmà) ʃâː fúɗú,(ɡóːmà) ʃâː fúɗú,[],,[],,False,Hausa.htm,False,,1
+haus1257-15-1,,haus1257,15,(ɡóːmà) ʃâː bìjár,(ɡóːmà) ʃâː bìjár,[],,[],,False,Hausa.htm,False,,1
+haus1257-16-1,,haus1257,16,(ɡóːmà) ʃâː ʃídà,(ɡóːmà) ʃâː ʃídà,[],,[],,False,Hausa.htm,False,,1
+haus1257-17-1,,haus1257,17,(ɡóːmà) ʃâː bákwài,(ɡóːmà) ʃâː bákwài,[],,[],,False,Hausa.htm,False,,1
+haus1257-18-1,,haus1257,18,(ɡóːmà) ʃâː tákwàs,(ɡóːmà) ʃâː tákwàs,[],,[],,False,Hausa.htm,False,,1
+haus1257-19-1,,haus1257,19,(ɡóːmà) ʃâː tárà,(ɡóːmà) ʃâː tárà,[],,[],,False,Hausa.htm,False,,1
+haus1257-20-1,,haus1257,20,àʃȉrín,àʃȉrín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-21-1,,haus1257,21,àʃȉrín dà ɗájá,àʃȉrín dà ɗájá,[],( Arabic + Hausa),[],,False,Hausa.htm,False,,1
+haus1257-22-1,,haus1257,22,àʃȉrín dà bíjú,àʃȉrín dà bíjú,[],,[],,False,Hausa.htm,False,,1
+haus1257-23-1,,haus1257,23,àʃȉrín dà ʔúku,àʃȉrín dà ʔúku,[],,[],,False,Hausa.htm,False,,1
+haus1257-24-1,,haus1257,24,àʃȉrín dà fúɗú,àʃȉrín dà fúɗú,[],,[],,False,Hausa.htm,False,,1
+haus1257-25-1,,haus1257,25,àʃȉrín dà bìjár,àʃȉrín dà bìjár,[],,[],,False,Hausa.htm,False,,1
+haus1257-26-1,,haus1257,26,àʃȉrín dà ʃídà,àʃȉrín dà ʃídà,[],,[],,False,Hausa.htm,False,,1
+haus1257-27-1,,haus1257,27,àʃȉrín dà bákwài,àʃȉrín dà bákwài,[],,[],,False,Hausa.htm,False,,1
+haus1257-28-1,,haus1257,28,àʃȉrín dà tákwàs,àʃȉrín dà tákwàs,[],,[],,False,Hausa.htm,False,,1
+haus1257-29-1,,haus1257,29,àʃȉrín dà tárà,àʃȉrín dà tárà,[],,[],,False,Hausa.htm,False,,1
+haus1257-30-1,,haus1257,30,tàlàːtín,tàlàːtín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-40-1,,haus1257,40,ʔàrbàʔín,ʔàrbàʔín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-50-1,,haus1257,50,hàmsín,hàmsín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-60-1,,haus1257,60,sìttín,sìttín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-70-1,,haus1257,70,sàbàʔín,sàbàʔín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-80-1,,haus1257,80,tàmàːnín,tàmàːnín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-90-1,,haus1257,90,tʃàsàʔín,tʃàsàʔín,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-100-1,,haus1257,100,ɗàɽíː,ɗàɽíː,[],,[],,False,Hausa.htm,False,,1
+haus1257-200-1,,haus1257,200,ɗàɽíː bíjú,ɗàɽíː bíjú,[],,[],,False,Hausa.htm,False,,1
+haus1257-1000-1,,haus1257,1000,dúbúː,dúbúː,[],,[],,False,Hausa.htm,False,,1
+haus1257-1000-2,,haus1257,1000,ʔálìf,ʔálìf,[],< Arabic ,[],,True,Hausa.htm,False,,1
+haus1257-2000-1,,haus1257,2000,dúbúː bíjú,dúbúː bíjú,[],,[],,False,Hausa.htm,False,,1

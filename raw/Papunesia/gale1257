@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+gale1257-1-1,,gale1257,1,ʔiesina,ʔiesina,[],,[],,False,Galeya.htm,False,,1
+gale1257-2-1,,gale1257,2,meluwa,meluwa,[],,[],,False,Galeya.htm,False,,1
+gale1257-3-1,,gale1257,3,metɔ,metɔ,[],,[],,False,Galeya.htm,False,,1
+gale1257-4-1,,gale1257,4,daʔina,daʔina,[],,[],,False,Galeya.htm,False,,1
+gale1257-5-1,,gale1257,5,dimanina,dimanina,[],,[],,False,Galeya.htm,False,,1
+gale1257-6-1,,gale1257,6,dimanina ʔiesina,dimanina ʔiesina,[],( 5 + 1 ),[],,False,Galeya.htm,False,,1
+gale1257-7-1,,gale1257,7,dimanina luwa,dimanina luwa,[],( 5 + 2 ),[],,False,Galeya.htm,False,,1
+gale1257-8-1,,gale1257,8,dimanina metɔ,dimanina metɔ,[],( 5 + 3 ),[],,False,Galeya.htm,False,,1
+gale1257-9-1,,gale1257,9,dimanina daʔina,dimanina daʔina,[],( 5 + 4 ),[],,False,Galeya.htm,False,,1
+gale1257-10-1,,gale1257,10,lʌwoᵘ,lʌwoᵘ,[],,[],,False,Galeya.htm,False,,1

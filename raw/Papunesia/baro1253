@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+baro1253-1-1,,baro1253,1,oŋ,oŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-2-1,,baro1253,2,ninoŋ,ninoŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-2-2,,baro1253,2,ni,ni,[],,[],,False,Barok.htm,False,,1
+baro1253-3-1,,baro1253,3,narun,narun,[],,[],,False,Barok.htm,False,,1
+baro1253-4-1,,baro1253,4,nit,nit,[],,[],,False,Barok.htm,False,,1
+baro1253-5-1,,baro1253,5,pitno,pitno,[],,[],,False,Barok.htm,False,,1
+baro1253-6-1,,baro1253,6,pitno ma oŋ,pitno ma oŋ,[],( 5 + 1 ),[],,False,Barok.htm,False,,1
+baro1253-7-1,,baro1253,7,pitno ma ninoŋ,pitno ma ninoŋ,[],( 5 + 2 ),[],,False,Barok.htm,False,,1
+baro1253-8-1,,baro1253,8,pitno ma narun,pitno ma narun,[],( 5 + 3 ),[],,False,Barok.htm,False,,1
+baro1253-9-1,,baro1253,9,pitno ma nit,pitno ma nit,[],( 5 + 4 ),[],,False,Barok.htm,False,,1
+baro1253-10-1,,baro1253,10,saŋaun,saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-11-1,,baro1253,11,saŋaun ma oŋ,saŋaun ma oŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-12-1,,baro1253,12,saŋaun ma ninoŋ,saŋaun ma ninoŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-13-1,,baro1253,13,saŋaun ma narun,saŋaun ma narun,[],,[],,False,Barok.htm,False,,1
+baro1253-14-1,,baro1253,14,saŋaun ma nit,saŋaun ma nit,[],,[],,False,Barok.htm,False,,1
+baro1253-15-1,,baro1253,15,saŋaun ma pitno,saŋaun ma pitno,[],,[],,False,Barok.htm,False,,1
+baro1253-16-1,,baro1253,16,saŋaun ma pitno ma oŋ,saŋaun ma pitno ma oŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-17-1,,baro1253,17,saŋaun ma pitno ma ninoŋ,saŋaun ma pitno ma ninoŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-18-1,,baro1253,18,saŋaun ma pitno ma narun,saŋaun ma pitno ma narun,[],,[],,False,Barok.htm,False,,1
+baro1253-19-1,,baro1253,19,saŋaun ma pitno ma nit,saŋaun ma pitno ma nit,[],,[],,False,Barok.htm,False,,1
+baro1253-20-1,,baro1253,20,ni ne saŋaun,ni ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-21-1,,baro1253,21,ni ne saŋaun ma oŋ,ni ne saŋaun ma oŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-22-1,,baro1253,22,ni ne saŋaun ma ninoŋ,ni ne saŋaun ma ninoŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-23-1,,baro1253,23,ni ne saŋaun ma narun,ni ne saŋaun ma narun,[],,[],,False,Barok.htm,False,,1
+baro1253-24-1,,baro1253,24,ni ne saŋaun ma nit,ni ne saŋaun ma nit,[],,[],,False,Barok.htm,False,,1
+baro1253-25-1,,baro1253,25,ni ne saŋaun ma pitno,ni ne saŋaun ma pitno,[],,[],,False,Barok.htm,False,,1
+baro1253-26-1,,baro1253,26,ni ne saŋaun ma pitno ma oŋ,ni ne saŋaun ma pitno ma oŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-27-1,,baro1253,27,ni ne saŋaun ma pitno ma ninoŋ,ni ne saŋaun ma pitno ma ninoŋ,[],,[],,False,Barok.htm,False,,1
+baro1253-28-1,,baro1253,28,ni ne saŋaun ma pitno ma narun,ni ne saŋaun ma pitno ma narun,[],,[],,False,Barok.htm,False,,1
+baro1253-29-1,,baro1253,29,ni ne saŋaun ma pitno ma nit,ni ne saŋaun ma pitno ma nit,[],,[],,False,Barok.htm,False,,1
+baro1253-30-1,,baro1253,30,narun ne saŋaun,narun ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-40-1,,baro1253,40,nit ne saŋaun,nit ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-50-1,,baro1253,50,pitno ne saŋaun,pitno ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-60-1,,baro1253,60,pitno ma oŋ ne saŋaun,pitno ma oŋ ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-70-1,,baro1253,70,pitno ma ninoŋ ne saŋaun,pitno ma ninoŋ ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-80-1,,baro1253,80,pitno ma narun ne saŋaun,pitno ma narun ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-90-1,,baro1253,90,pitno ma nit ne saŋaun,pitno ma nit ne saŋaun,[],,[],,False,Barok.htm,False,,1
+baro1253-100-1,,baro1253,100,oŋ a mar,oŋ a mar,[],( < Tolai ),[],,True,Barok.htm,False,,1
+baro1253-200-1,,baro1253,200,ninoŋ ne mar,ninoŋ ne mar,[],,[],,False,Barok.htm,False,,1
+baro1253-1000-1,,baro1253,1000,oŋ a arip,oŋ a arip,[],( < Tolai ),[],,True,Barok.htm,False,,1
+baro1253-2000-1,,baro1253,2000,ninoŋ ne arip,ninoŋ ne arip,[],,[],,False,Barok.htm,False,,1

@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sere1260-1-1,,sere1260,1,leŋ,leŋ,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-1-2,,sere1260,1,leŋ,leŋ,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-2-1,,sere1260,2,ƭik,ƭik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-2-2,,sere1260,2,ɗik,ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-3-1,,sere1260,3,tadik,tadik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-3-2,,sere1260,3,tadik,tadik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-4-1,,sere1260,4,nahik,nahik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-4-2,,sere1260,4,nahik,nahik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-5-1,,sere1260,5,ƥetik,ƥetik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-5-2,,sere1260,5,ɓedik,ɓedik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-6-1,,sere1260,6,ɓetaa fo leŋ,ɓetaa fo leŋ,[],( 5 + 1 ),[],,False,Serer-Sine.htm,False,,1
+sere1260-6-2,,sere1260,6,ɓetuː fa leŋ,ɓetuː fa leŋ,[],( 5 + 1 ),[],,False,Serer-Sine.htm,False,,2
+sere1260-7-1,,sere1260,7,ɓetaa ƭak,ɓetaa ƭak,[],( 5 + 2 ),[],,False,Serer-Sine.htm,False,,1
+sere1260-7-2,,sere1260,7,ɓetuː ɗik,ɓetuː ɗik,[],( 5 + 2 ),[],,False,Serer-Sine.htm,False,,2
+sere1260-8-1,,sere1260,8,ɓetaa tadak,ɓetaa tadak,[],( 5 + 3 ),[],,False,Serer-Sine.htm,False,,1
+sere1260-8-2,,sere1260,8,ɓetuː tadik,ɓetuː tadik,[],( 5 + 3 ),[],,False,Serer-Sine.htm,False,,2
+sere1260-9-1,,sere1260,9,ɓetaa nahak,ɓetaa nahak,[],( 5 + 4 ),[],,False,Serer-Sine.htm,False,,1
+sere1260-9-2,,sere1260,9,ɓetuː nahik,ɓetuː nahik,[],( 5 + 4 ),[],,False,Serer-Sine.htm,False,,2
+sere1260-10-1,,sere1260,10,xarɓaxaay,xarɓaxaay,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-10-2,,sere1260,10,xarɓaxay,xarɓaxay,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-11-1,,sere1260,11,xarɓaxaay fo leŋ,xarɓaxaay fo leŋ,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-11-2,,sere1260,11,xarɓaxay fo leŋ,xarɓaxay fo leŋ,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-12-1,,sere1260,12,xarɓaxaay fo ƭik,xarɓaxaay fo ƭik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-12-2,,sere1260,12,xarɓaxay fo ɗik,xarɓaxay fo ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-13-1,,sere1260,13,xarɓaxaay fo tadik,xarɓaxaay fo tadik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-13-2,,sere1260,13,xarɓaxay fo tadik,xarɓaxay fo tadik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-14-1,,sere1260,14,xarɓaxaay fo nahik,xarɓaxaay fo nahik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-14-2,,sere1260,14,xarɓaxay fo nahik,xarɓaxay fo nahik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-15-1,,sere1260,15,xarɓaxaay fo ƥetik,xarɓaxaay fo ƥetik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-15-2,,sere1260,15,xarɓaxay fo ɓedik,xarɓaxay fo ɓedik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-16-1,,sere1260,16,xarɓaxaay fo ɓetaa fo leŋ,xarɓaxaay fo ɓetaa fo leŋ,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-16-2,,sere1260,16,xarɓaxay fo ɓetuː fa leŋ,xarɓaxay fo ɓetuː fa leŋ,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-17-1,,sere1260,17,xarɓaxaay fo ɓetaa ƭak,xarɓaxaay fo ɓetaa ƭak,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-17-2,,sere1260,17,xarɓaxay fo ɓetuː ɗik,xarɓaxay fo ɓetuː ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-18-1,,sere1260,18,xarɓaxaay fo ɓetaa tadik,xarɓaxaay fo ɓetaa tadik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-18-2,,sere1260,18,xarɓaxay fo ɓetuː tadik,xarɓaxay fo ɓetuː tadik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-19-1,,sere1260,19,xarɓaxaay fo ɓetaa nahik,xarɓaxaay fo ɓetaa nahik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-19-2,,sere1260,19,xarɓaxay fo ɓetuː nahik,xarɓaxay fo ɓetuː nahik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-20-1,,sere1260,20,qarɓeen ƭik,qarɓeen ƭik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-20-2,,sere1260,20,qarɓeːn ɗik,qarɓeːn ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-21-1,,sere1260,21,qarɓeen ƭik fo leŋ,qarɓeen ƭik fo leŋ,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-21-2,,sere1260,21,qarɓeːn ɗik fo leŋ,qarɓeːn ɗik fo leŋ,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-22-1,,sere1260,22,qarɓeen ƭik fo ƭik,qarɓeen ƭik fo ƭik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-22-2,,sere1260,22,qarɓeːn ɗik ɗik,qarɓeːn ɗik ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-23-1,,sere1260,23,qarɓeen ƭik fo tadik,qarɓeen ƭik fo tadik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-23-2,,sere1260,23,qarɓeːn ɗik tadik,qarɓeːn ɗik tadik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-24-1,,sere1260,24,qarɓeen ƭik fo nahik,qarɓeen ƭik fo nahik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-24-2,,sere1260,24,qarɓeːn ɗik nahik,qarɓeːn ɗik nahik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-25-1,,sere1260,25,qarɓeen ƭik fo ƥetik,qarɓeen ƭik fo ƥetik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-25-2,,sere1260,25,qarɓeːn ɗik ɓedik,qarɓeːn ɗik ɓedik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-26-1,,sere1260,26,qarɓeen ƭik fo ɓetuː fa leŋ,qarɓeen ƭik fo ɓetuː fa leŋ,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-26-2,,sere1260,26,qarɓeːn ɗik ɓetuː fa leŋ,qarɓeːn ɗik ɓetuː fa leŋ,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-27-1,,sere1260,27,qarɓeen ƭik fo ɓetaa ƭak,qarɓeen ƭik fo ɓetaa ƭak,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-27-2,,sere1260,27,qarɓeːn ɗik ɓetuː ɗik,qarɓeːn ɗik ɓetuː ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-28-1,,sere1260,28,qarɓeen ƭik fo ɓetaa tadik,qarɓeen ƭik fo ɓetaa tadik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-28-2,,sere1260,28,qarɓeːn ɗik ɓetuː tadik,qarɓeːn ɗik ɓetuː tadik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-29-1,,sere1260,29,qarɓeen ƭik ɓetaa nahik,qarɓeen ƭik ɓetaa nahik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-29-2,,sere1260,29,qarɓeːn ɗik ɓetuː nahik,qarɓeːn ɗik ɓetuː nahik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-30-1,,sere1260,30,qarɓeen tadik,qarɓeen tadik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-30-2,,sere1260,30,qarɓeːn tadik,qarɓeːn tadik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-40-1,,sere1260,40,qarɓeen nahik,qarɓeen nahik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-40-2,,sere1260,40,qarɓeːn nahik,qarɓeːn nahik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-50-1,,sere1260,50,qarɓeen ƥetik,qarɓeen ƥetik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-50-2,,sere1260,50,qarɓeːn ɓedik,qarɓeːn ɓedik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-60-1,,sere1260,60,qarɓeen ɓetaa fo leŋ,qarɓeen ɓetaa fo leŋ,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-60-2,,sere1260,60,qarɓeːn ɓetuː fa leŋ,qarɓeːn ɓetuː fa leŋ,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-70-1,,sere1260,70,qarɓeen ɓetaa ƭik,qarɓeen ɓetaa ƭik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-70-2,,sere1260,70,qarɓeːn ɓetuː ɗik,qarɓeːn ɓetuː ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-80-1,,sere1260,80,qarɓeen ɓetaa tadik,qarɓeen ɓetaa tadik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-80-2,,sere1260,80,qarɓeːn ɓetuː tadik,qarɓeːn ɓetuː tadik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-90-1,,sere1260,90,qarɓeen ɓetaa nahik,qarɓeen ɓetaa nahik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-90-2,,sere1260,90,qarɓeːn ɓetuː nahik,qarɓeːn ɓetuː nahik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-100-1,,sere1260,100,teemed,teemed,[],( < Fula ),[],,True,Serer-Sine.htm,False,,1
+sere1260-100-2,,sere1260,100,teːmeːd,teːmeːd,[],( < Fula ),[],,True,Serer-Sine.htm,False,,2
+sere1260-200-1,,sere1260,200,teemed ƭik,teemed ƭik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-200-2,,sere1260,200,teːmeːd ɗik,teːmeːd ɗik,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-1000-1,,sere1260,1000,cuni,cuni,[],(<Wolof ),[],,True,Serer-Sine.htm,False,,1
+sere1260-1000-2,,sere1260,1000,dʒuniʔ,dʒuniʔ,[],(<Wolof ),[],,True,Serer-Sine.htm,False,,2
+sere1260-1000-3,,sere1260,1000,teːmeːdxarɓaxay,teːmeːdxarɓaxay,[],,[],,False,Serer-Sine.htm,False,,2
+sere1260-2000-1,,sere1260,2000,cuni ƭik,cuni ƭik,[],,[],,False,Serer-Sine.htm,False,,1
+sere1260-2000-2,,sere1260,2000,dʒuniʔ ɗik,dʒuniʔ ɗik,[],,[],,False,Serer-Sine.htm,False,,2

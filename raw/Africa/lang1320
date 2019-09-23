@@ -1,0 +1,83 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+lang1320-1-1,,lang1320,1,ɪmwɪ,ɪmwɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-1-2,,lang1320,1,imudu,imudu,[],,[],,False,Rangi.htm,False,,1
+lang1320-1-3,,lang1320,1,imudu or imwɪ,imudu or imwɪ,[],,[],,False,Rangi.htm,True,,2
+lang1320-2-1,,lang1320,2,ivɪɾi,ivɪɾi,[],,[],,False,Rangi.htm,False,,1
+lang1320-2-2,,lang1320,2,ivɪrɪ,ivɪrɪ,[],,[],,False,Rangi.htm,False,,2
+lang1320-3-1,,lang1320,3,itatʊ,itatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-3-2,,lang1320,3,itatu,itatu,[],,[],,False,Rangi.htm,False,,2
+lang1320-4-1,,lang1320,4,ínɛ,ínɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-4-2,,lang1320,4,inɛ,inɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-5-1,,lang1320,5,isâːnɔ,isâːnɔ,[],,[],,False,Rangi.htm,False,,1
+lang1320-5-2,,lang1320,5,isanʊ,isanʊ,[],,[],,False,Rangi.htm,False,,2
+lang1320-6-1,,lang1320,6,isásatʊ,isásatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-6-2,,lang1320,6,sita,sita,[],( < Swahili ),[],,True,Rangi.htm,False,,2
+lang1320-7-1,,lang1320,7,mʊfʊ́ŋɡatɪ,mʊfʊ́ŋɡatɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-7-2,,lang1320,7,mʊfʊŋɡatɛ,mʊfʊŋɡatɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-8-1,,lang1320,8,inâːnɛ,inâːnɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-8-2,,lang1320,8,saba,saba,[],( < Swahili ),[],,True,Rangi.htm,False,,2
+lang1320-9-1,,lang1320,9,kɛːnda,kɛːnda,[],,[],,False,Rangi.htm,False,,1
+lang1320-9-2,,lang1320,9,kɛnda,kɛnda,[],,[],,False,Rangi.htm,False,,2
+lang1320-10-1,,lang1320,10,ikími,ikími,[],,[],,False,Rangi.htm,False,,1
+lang1320-10-2,,lang1320,10,ikúmi,ikúmi,[],,[],,False,Rangi.htm,False,,1
+lang1320-10-3,,lang1320,10,ikimi,ikimi,[],,[],,False,Rangi.htm,False,,2
+lang1320-11-1,,lang1320,11,ikími na ɪmwɪ,ikími na ɪmwɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-11-2,,lang1320,11,ikimi na imudu,ikimi na imudu,[],,[],,False,Rangi.htm,False,,2
+lang1320-12-1,,lang1320,12,ikími na ivɪɾi,ikími na ivɪɾi,[],,[],,False,Rangi.htm,False,,1
+lang1320-12-2,,lang1320,12,ikimi na ivɪrɪ,ikimi na ivɪrɪ,[],,[],,False,Rangi.htm,False,,2
+lang1320-13-1,,lang1320,13,ikími na itatʊ,ikími na itatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-13-2,,lang1320,13,ikimi na itatu,ikimi na itatu,[],,[],,False,Rangi.htm,False,,2
+lang1320-14-1,,lang1320,14,ikími na ínɛ,ikími na ínɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-14-2,,lang1320,14,ikimi na inɛ,ikimi na inɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-15-1,,lang1320,15,ikími na isâːnɔ,ikími na isâːnɔ,[],,[],,False,Rangi.htm,False,,1
+lang1320-15-2,,lang1320,15,ikimi na isanʊ,ikimi na isanʊ,[],,[],,False,Rangi.htm,False,,2
+lang1320-16-1,,lang1320,16,ikími na isásatʊ,ikími na isásatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-16-2,,lang1320,16,ikimi na sita,ikimi na sita,[],,[],,False,Rangi.htm,False,,2
+lang1320-17-1,,lang1320,17,ikími na mʊfʊ́ŋɡatɪ,ikími na mʊfʊ́ŋɡatɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-17-2,,lang1320,17,ikimi na mʊfʊŋɡatɛ,ikimi na mʊfʊŋɡatɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-18-1,,lang1320,18,ikími na inâːnɛ,ikími na inâːnɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-18-2,,lang1320,18,ikimi na saba,ikimi na saba,[],,[],,False,Rangi.htm,False,,2
+lang1320-19-1,,lang1320,19,ikími na kɛːnda,ikími na kɛːnda,[],,[],,False,Rangi.htm,False,,1
+lang1320-19-2,,lang1320,19,ikimi na kɛnda,ikimi na kɛnda,[],,[],,False,Rangi.htm,False,,2
+lang1320-20-1,,lang1320,20,makími javɪɪɾɪ,makími javɪɪɾɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-20-2,,lang1320,20,makumi yaavɪɪrɪ,makumi yaavɪɪrɪ,[],,[],,False,Rangi.htm,False,,2
+lang1320-21-1,,lang1320,21,makími javɪɪɾɪ na ɪmwɪ,makími javɪɪɾɪ na ɪmwɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-21-2,,lang1320,21,makumi yaavɪɪrɪ na imudu,makumi yaavɪɪrɪ na imudu,[],,[],,False,Rangi.htm,False,,2
+lang1320-22-1,,lang1320,22,makími javɪɪɾɪ na ivɪɾi,makími javɪɪɾɪ na ivɪɾi,[],,[],,False,Rangi.htm,False,,1
+lang1320-22-2,,lang1320,22,makumi yaavɪɪrɪ na ivɪrɪ,makumi yaavɪɪrɪ na ivɪrɪ,[],,[],,False,Rangi.htm,False,,2
+lang1320-23-1,,lang1320,23,makími javɪɪɾɪ na itatʊ,makími javɪɪɾɪ na itatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-23-2,,lang1320,23,makumi yaavɪɪrɪ na itatu,makumi yaavɪɪrɪ na itatu,[],,[],,False,Rangi.htm,False,,2
+lang1320-24-1,,lang1320,24,makími javɪɪɾɪ na ínɛ,makími javɪɪɾɪ na ínɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-24-2,,lang1320,24,makumi yaavɪɪrɪ na inɛ,makumi yaavɪɪrɪ na inɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-25-1,,lang1320,25,makími javɪɪɾɪ na isâːnɔ,makími javɪɪɾɪ na isâːnɔ,[],,[],,False,Rangi.htm,False,,1
+lang1320-25-2,,lang1320,25,makumi yaavɪɪrɪ na isanʊ,makumi yaavɪɪrɪ na isanʊ,[],,[],,False,Rangi.htm,False,,2
+lang1320-26-1,,lang1320,26,makími javɪɪɾɪ na isásatʊ,makími javɪɪɾɪ na isásatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-26-2,,lang1320,26,makumi yaavɪɪrɪ na sita,makumi yaavɪɪrɪ na sita,[],,[],,False,Rangi.htm,False,,2
+lang1320-27-1,,lang1320,27,makími javɪɪɾɪ na mʊfʊ́ŋɡatɪ,makími javɪɪɾɪ na mʊfʊ́ŋɡatɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-27-2,,lang1320,27,makumi yaavɪɪrɪ na mʊfʊŋɡatɛ,makumi yaavɪɪrɪ na mʊfʊŋɡatɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-28-1,,lang1320,28,makími javɪɪɾɪ na inâːnɛ,makími javɪɪɾɪ na inâːnɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-28-2,,lang1320,28,makumi yaavɪɪrɪ na saba,makumi yaavɪɪrɪ na saba,[],,[],,False,Rangi.htm,False,,2
+lang1320-29-1,,lang1320,29,makími javɪɪɾɪ na kɛːnda,makími javɪɪɾɪ na kɛːnda,[],,[],,False,Rangi.htm,False,,1
+lang1320-29-2,,lang1320,29,makumi yaavɪɪrɪ na kɛnda,makumi yaavɪɪrɪ na kɛnda,[],,[],,False,Rangi.htm,False,,2
+lang1320-30-1,,lang1320,30,makími jatatʊ,makími jatatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-30-2,,lang1320,30,makumi yatatu,makumi yatatu,[],,[],,False,Rangi.htm,False,,2
+lang1320-40-1,,lang1320,40,makími janɛ,makími janɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-40-2,,lang1320,40,makumi yanɛ,makumi yanɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-50-1,,lang1320,50,makími jasâːnɔ,makími jasâːnɔ,[],,[],,False,Rangi.htm,False,,1
+lang1320-50-2,,lang1320,50,makumi yasanʊ,makumi yasanʊ,[],,[],,False,Rangi.htm,False,,2
+lang1320-60-1,,lang1320,60,makími isásatʊ,makími isásatʊ,[],,[],,False,Rangi.htm,False,,1
+lang1320-60-2,,lang1320,60,makumi sita,makumi sita,[],,[],,False,Rangi.htm,False,,2
+lang1320-70-1,,lang1320,70,makími mʊfʊ́ŋɡatɪ,makími mʊfʊ́ŋɡatɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-70-2,,lang1320,70,makumi mʊfʊŋɡatɛ,makumi mʊfʊŋɡatɛ,[],,[],,False,Rangi.htm,False,,2
+lang1320-80-1,,lang1320,80,makími janâːnɛ,makími janâːnɛ,[],,[],,False,Rangi.htm,False,,1
+lang1320-80-2,,lang1320,80,makumi saba,makumi saba,[],,[],,False,Rangi.htm,False,,2
+lang1320-90-1,,lang1320,90,makími kɛːnda,makími kɛːnda,[],,[],,False,Rangi.htm,False,,1
+lang1320-90-2,,lang1320,90,makumi kɛnda,makumi kɛnda,[],,[],,False,Rangi.htm,False,,2
+lang1320-100-1,,lang1320,100,iɡana ɾimwɪ,iɡana ɾimwɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-100-2,,lang1320,100,mʊɾjɔːŋgɔ ʊmwɪ,mʊɾjɔːŋgɔ ʊmwɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-100-3,,lang1320,100,makumi ikimi,makumi ikimi,[],,[],,False,Rangi.htm,False,,2
+lang1320-200-1,,lang1320,200,maɡana javɪɾɪ,maɡana javɪɾɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-200-2,,lang1320,200,miɾjɔːŋgɔ ivɪɾɪ,miɾjɔːŋgɔ ivɪɾɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-200-3,,lang1320,200,Use Swahili upwards,Use Swahili upwards,[],,[],,False,Rangi.htm,True,,2
+lang1320-1000-1,,lang1320,1000,ijaːnda ɾimwɪ,ijaːnda ɾimwɪ,[],,[],,False,Rangi.htm,False,,1
+lang1320-2000-1,,lang1320,2000,majaːnda javɪɾɪ,majaːnda javɪɾɪ,[],,[],,False,Rangi.htm,False,,1

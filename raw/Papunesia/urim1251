@@ -1,0 +1,17 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+urim1251-1-1,,urim1251,1,khlana,khlana,[],,[],,False,Urimo.htm,False,,1
+urim1251-1-2,,urim1251,1,IPA qlana,IPA qlana,[],,[],,False,Urimo.htm,True,,1
+urim1251-2-1,,urim1251,2,mlavina,mlavina,[],,[],,False,Urimo.htm,False,,1
+urim1251-2-2,,urim1251,2,IPA mlɛvina,IPA mlɛvina,[],,[],,False,Urimo.htm,True,,1
+urim1251-3-1,,urim1251,3,mlavikhaikla,mlavikhaikla,[],,[],,False,Urimo.htm,False,,1
+urim1251-3-2,,urim1251,3,IPA mlɛviəqaiəkla,IPA mlɛviəqaiəkla,[],,[],,False,Urimo.htm,True,,1
+urim1251-4-1,,urim1251,4,mlavina mlavina,mlavina mlavina,[],,[],,False,Urimo.htm,False,,1
+urim1251-4-2,,urim1251,4,IPA mlɛvina mlɛvina,IPA mlɛvina mlɛvina,[],,[],,False,Urimo.htm,True,,1
+urim1251-5-1,,urim1251,5,mlavina mlavina khlana,mlavina mlavina khlana,[],,[],,False,Urimo.htm,False,,1
+urim1251-5-2,,urim1251,5,IPA mlɛvina mlɛvina qlana,IPA mlɛvina mlɛvina qlana,[],,[],,False,Urimo.htm,True,,1
+urim1251-6-1,,urim1251,6,mlavikhaikla mlavikhaikla,mlavikhaikla mlavikhaikla,[],,[],,False,Urimo.htm,False,,1
+urim1251-6-2,,urim1251,6,IPA mlɛviəqaiəkla mlɛviəqaiəkla,IPA mlɛviəqaiəkla mlɛviəqaiəkla,[],,[],,False,Urimo.htm,True,,1
+urim1251-7-1,,urim1251,7,mlavikhaikla mlavikhaikla khlana,mlavikhaikla mlavikhaikla khlana,[],,[],,False,Urimo.htm,False,,1
+urim1251-8-1,,urim1251,8,mlavina mlavina mlavina mlavina,mlavina mlavina mlavina mlavina,[],,[],,False,Urimo.htm,False,,1
+urim1251-9-1,,urim1251,9,mlavina mlavina mlavina mlavina khlana,mlavina mlavina mlavina mlavina khlana,[],,[],,False,Urimo.htm,False,,1
+urim1251-10-1,,urim1251,10,mlavina mlavina khlana mlavina mlavina khlana,mlavina mlavina khlana mlavina mlavina khlana,[],,[],,False,Urimo.htm,False,,1

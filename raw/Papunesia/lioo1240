@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+lioo1240-1-1,,lioo1240,1,saʔəsa,saʔəsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-2-1,,lioo1240,2,əsa rua,əsa rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-3-1,,lioo1240,3,əsa təlu,əsa təlu,[],,[],,False,Lio.htm,False,,1
+lioo1240-4-1,,lioo1240,4,əsa sutu,əsa sutu,[],,[],,False,Lio.htm,False,,1
+lioo1240-5-1,,lioo1240,5,əsa lima,əsa lima,[],,[],,False,Lio.htm,False,,1
+lioo1240-6-1,,lioo1240,6,əsa lima əsa,əsa lima əsa,[],(5 + 1),[],,False,Lio.htm,False,,1
+lioo1240-7-1,,lioo1240,7,əsa lima rua,əsa lima rua,[],(5 + 2),[],,False,Lio.htm,False,,1
+lioo1240-8-1,,lioo1240,8,əsa rua mbutu,əsa rua mbutu,[],(2  x  4),[],,False,Lio.htm,False,,1
+lioo1240-9-1,,lioo1240,9,əsa təra əsa,əsa təra əsa,[],(10 -  1),[],,False,Lio.htm,False,,1
+lioo1240-10-1,,lioo1240,10,əsa sambulu,əsa sambulu,[],,[],,False,Lio.htm,False,,1
+lioo1240-11-1,,lioo1240,11,sambulu saʔəsa,sambulu saʔəsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-12-1,,lioo1240,12,sambulu əsə rua,sambulu əsə rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-13-1,,lioo1240,13,sambulu əsə təlu,sambulu əsə təlu,[],,[],,False,Lio.htm,False,,1
+lioo1240-14-1,,lioo1240,14,sambulu əsə sutu,sambulu əsə sutu,[],,[],,False,Lio.htm,False,,1
+lioo1240-15-1,,lioo1240,15,sambulu əsə lima,sambulu əsə lima,[],,[],,False,Lio.htm,False,,1
+lioo1240-16-1,,lioo1240,16,sambulu əsə lima əsa,sambulu əsə lima əsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-17-1,,lioo1240,17,sambulu əsə lima rua,sambulu əsə lima rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-18-1,,lioo1240,18,sambulu əsə lima rua mbutu,sambulu əsə lima rua mbutu,[],,[],,False,Lio.htm,False,,1
+lioo1240-19-1,,lioo1240,19,sambulu əsə əsa təra əsa,sambulu əsə əsa təra əsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-20-1,,lioo1240,20,əsa mbulu rua,əsa mbulu rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-21-1,,lioo1240,21,mbulu rua saʔəsa,mbulu rua saʔəsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-22-1,,lioo1240,22,mbulu rua əsa rua,mbulu rua əsa rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-23-1,,lioo1240,23,mbulu rua əsa təlu,mbulu rua əsa təlu,[],,[],,False,Lio.htm,False,,1
+lioo1240-24-1,,lioo1240,24,mbulu rua əsa sutu,mbulu rua əsa sutu,[],,[],,False,Lio.htm,False,,1
+lioo1240-25-1,,lioo1240,25,mbulu rua əsa lima,mbulu rua əsa lima,[],,[],,False,Lio.htm,False,,1
+lioo1240-26-1,,lioo1240,26,mbulu rua əsa lima əsa,mbulu rua əsa lima əsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-27-1,,lioo1240,27,mbulu rua əsa lima rua,mbulu rua əsa lima rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-28-1,,lioo1240,28,mbulu rua əsa rua mbutu,mbulu rua əsa rua mbutu,[],,[],,False,Lio.htm,False,,1
+lioo1240-29-1,,lioo1240,29,mbulu rua əsa təra əsa,mbulu rua əsa təra əsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-30-1,,lioo1240,30,mbulu təlu,mbulu təlu,[],,[],,False,Lio.htm,False,,1
+lioo1240-40-1,,lioo1240,40,mbulu sutu,mbulu sutu,[],,[],,False,Lio.htm,False,,1
+lioo1240-50-1,,lioo1240,50,mbulu lima,mbulu lima,[],,[],,False,Lio.htm,False,,1
+lioo1240-60-1,,lioo1240,60,mbulu lima əsa,mbulu lima əsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-70-1,,lioo1240,70,mbulu lima rua,mbulu lima rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-80-1,,lioo1240,80,mbulu rua mbutu,mbulu rua mbutu,[],,[],,False,Lio.htm,False,,1
+lioo1240-90-1,,lioo1240,90,mbulu təra əsa,mbulu təra əsa,[],,[],,False,Lio.htm,False,,1
+lioo1240-100-1,,lioo1240,100,sa ŋasu,sa ŋasu,[],,[],,False,Lio.htm,False,,1
+lioo1240-200-1,,lioo1240,200,ŋasu rua,ŋasu rua,[],,[],,False,Lio.htm,False,,1
+lioo1240-1000-1,,lioo1240,1000,sa riʋu,sa riʋu,[],,[],,False,Lio.htm,False,,1
+lioo1240-2000-1,,lioo1240,2000,riʋu rua,riʋu rua,[],,[],,False,Lio.htm,False,,1

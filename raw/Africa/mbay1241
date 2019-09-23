@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mbay1241-1-1,,mbay1241,1,kə́rā,kə́rā,[],,[],,False,Mbay.htm,False,,1
+mbay1241-1-2,,mbay1241,1,kə́rā,kə́rā,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-2-1,,mbay1241,2,jōó,jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-2-2,,mbay1241,2,jōó,jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-3-1,,mbay1241,3,mə̀tá,mə̀tá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-3-2,,mbay1241,3,mə̀tá,mə̀tá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-4-1,,mbay1241,4,sɔ̄ɔ́,sɔ̄ɔ́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-4-2,,mbay1241,4,sɔ̄ɔ́,sɔ̄ɔ́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-5-1,,mbay1241,5,mḭ̄́ḭ,mḭ̄́ḭ,[],,[],,False,Mbay.htm,False,,1
+mbay1241-5-2,,mbay1241,5,mḭ̄́ḭ,mḭ̄́ḭ,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-6-1,,mbay1241,6,kə́-bɔ̀y-dètə́,kə́-bɔ̀y-dètə́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-6-2,,mbay1241,6,kə́-bɔ̀y-dètə́,kə́-bɔ̀y-dètə́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-7-1,,mbay1241,7,tènə̀-mə̀tá,tènə̀-mə̀tá,[],( 5 + 1 ),[],,False,Mbay.htm,False,,1
+mbay1241-7-2,,mbay1241,7,tènə̀-mə̀tá,tènə̀-mə̀tá,[],( 5 + 1 ),[],,False,Ngamay.htm,False,,1
+mbay1241-8-1,,mbay1241,8,jī-jōó,jī-jōó,[],( 10 - 2 ),[],,False,Mbay.htm,False,,1
+mbay1241-8-2,,mbay1241,8,jī-jōó,jī-jōó,[],( 10 - 2 ),[],,False,Ngamay.htm,False,,1
+mbay1241-9-1,,mbay1241,9,jī-kə́rā,jī-kə́rā,[],( 10 - 1 ),[],,False,Mbay.htm,False,,1
+mbay1241-9-2,,mbay1241,9,jī-kə́rā,jī-kə́rā,[],( 10 - 1 ),[],,False,Ngamay.htm,False,,1
+mbay1241-10-1,,mbay1241,10,kə̀lá,kə̀lá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-10-2,,mbay1241,10,kə̀lá,kə̀lá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-11-1,,mbay1241,11,kə̀lá-ɡìdə̀-kə̀-kə́rā,kə̀lá-ɡìdə̀-kə̀-kə́rā,[],,[],,False,Mbay.htm,False,,1
+mbay1241-11-2,,mbay1241,11,kə̀lá-ɡìdə̀-kə̀-kə́rā,kə̀lá-ɡìdə̀-kə̀-kə́rā,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-12-1,,mbay1241,12,kə̀lá-ɡìdə̀-kə̀-jōó,kə̀lá-ɡìdə̀-kə̀-jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-12-2,,mbay1241,12,kə̀lá-ɡìdə̀-kə̀-jōó,kə̀lá-ɡìdə̀-kə̀-jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-13-1,,mbay1241,13,kə̀lá-ɡìdə̀-kə̀-mə̀tá,kə̀lá-ɡìdə̀-kə̀-mə̀tá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-13-2,,mbay1241,13,kə̀lá-ɡìdə̀-kə̀-mə̀tá,kə̀lá-ɡìdə̀-kə̀-mə̀tá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-14-1,,mbay1241,14,kə̀lá-ɡìdə̀-kə̀-sɔ̄ɔ́,kə̀lá-ɡìdə̀-kə̀-sɔ̄ɔ́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-14-2,,mbay1241,14,kə̀lá-ɡìdə̀-kə̀-sɔ̄ɔ́,kə̀lá-ɡìdə̀-kə̀-sɔ̄ɔ́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-15-1,,mbay1241,15,kə̀lá-ɡìdə̀-kə̀-mḭ̄́ḭ,kə̀lá-ɡìdə̀-kə̀-mḭ̄́ḭ,[],,[],,False,Mbay.htm,False,,1
+mbay1241-15-2,,mbay1241,15,kə̀lá-ɡìdə̀-kə̀-mḭ̄́ḭ,kə̀lá-ɡìdə̀-kə̀-mḭ̄́ḭ,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-16-1,,mbay1241,16,kə̀lá-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,kə̀lá-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-16-2,,mbay1241,16,kə̀lá-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,kə̀lá-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-17-1,,mbay1241,17,kə̀lá-ɡìdə̀-kə̀-tènə̀-mə̀tá,kə̀lá-ɡìdə̀-kə̀-tènə̀-mə̀tá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-17-2,,mbay1241,17,kə̀lá-ɡìdə̀-kə̀-tènə̀-mə̀tá,kə̀lá-ɡìdə̀-kə̀-tènə̀-mə̀tá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-18-1,,mbay1241,18,kə̀lá-ɡìdə̀-kə̀-jī-jōó,kə̀lá-ɡìdə̀-kə̀-jī-jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-18-2,,mbay1241,18,kə̀lá-ɡìdə̀-kə̀-jī-jōó,kə̀lá-ɡìdə̀-kə̀-jī-jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-19-1,,mbay1241,19,kə̀lá-ɡìdə̀-kə̀-jī-kə́rā,kə̀lá-ɡìdə̀-kə̀-jī-kə́rā,[],,[],,False,Mbay.htm,False,,1
+mbay1241-19-2,,mbay1241,19,kə̀lá-ɡìdə̀-kə̀-jī-kə́rā,kə̀lá-ɡìdə̀-kə̀-jī-kə́rā,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-20-1,,mbay1241,20,dɔ̀-jōó,dɔ̀-jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-20-2,,mbay1241,20,dɔ̀-jōó,dɔ̀-jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-21-1,,mbay1241,21,dɔ̀-jōó-ɡìdə̀-kə̀-kə́rā,dɔ̀-jōó-ɡìdə̀-kə̀-kə́rā,[],,[],,False,Mbay.htm,False,,1
+mbay1241-21-2,,mbay1241,21,dɔ̀-jōó-ɡìdə̀-kə̀-kə́rā,dɔ̀-jōó-ɡìdə̀-kə̀-kə́rā,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-22-1,,mbay1241,22,dɔ̀-jōó-ɡìdə̀-kə̀-jōó,dɔ̀-jōó-ɡìdə̀-kə̀-jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-22-2,,mbay1241,22,dɔ̀-jōó-ɡìdə̀-kə̀-jōó,dɔ̀-jōó-ɡìdə̀-kə̀-jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-23-1,,mbay1241,23,dɔ̀-jōó-ɡìdə̀-kə̀-mə̀tá,dɔ̀-jōó-ɡìdə̀-kə̀-mə̀tá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-23-2,,mbay1241,23,dɔ̀-jōó-ɡìdə̀-kə̀-mə̀tá,dɔ̀-jōó-ɡìdə̀-kə̀-mə̀tá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-24-1,,mbay1241,24,dɔ̀-jōó-ɡìdə̀-kə̀-sɔ̄ɔ́,dɔ̀-jōó-ɡìdə̀-kə̀-sɔ̄ɔ́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-24-2,,mbay1241,24,dɔ̀-jōó-ɡìdə̀-kə̀-sɔ̄ɔ́,dɔ̀-jōó-ɡìdə̀-kə̀-sɔ̄ɔ́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-25-1,,mbay1241,25,dɔ̀-jōó-ɡìdə̀-kə̀-mḭ̄́ḭ,dɔ̀-jōó-ɡìdə̀-kə̀-mḭ̄́ḭ,[],,[],,False,Mbay.htm,False,,1
+mbay1241-25-2,,mbay1241,25,dɔ̀-jōó-ɡìdə̀-kə̀-mḭ̄́ḭ,dɔ̀-jōó-ɡìdə̀-kə̀-mḭ̄́ḭ,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-26-1,,mbay1241,26,dɔ̀-jōó-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,dɔ̀-jōó-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-26-2,,mbay1241,26,dɔ̀-jōó-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,dɔ̀-jōó-ɡìdə̀-kə̀-kə́-bɔ̀y-dètə́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-27-1,,mbay1241,27,dɔ̀-jōó-ɡìdə̀-kə̀-tènə̀-mə̀tá,dɔ̀-jōó-ɡìdə̀-kə̀-tènə̀-mə̀tá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-27-2,,mbay1241,27,dɔ̀-jōó-ɡìdə̀-kə̀-tènə̀-mə̀tá,dɔ̀-jōó-ɡìdə̀-kə̀-tènə̀-mə̀tá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-28-1,,mbay1241,28,dɔ̀-jōó-ɡìdə̀-kə̀-jī-jōó,dɔ̀-jōó-ɡìdə̀-kə̀-jī-jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-28-2,,mbay1241,28,dɔ̀-jōó-ɡìdə̀-kə̀-jī-jōó,dɔ̀-jōó-ɡìdə̀-kə̀-jī-jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-29-1,,mbay1241,29,dɔ̀-jōó-ɡìdə̀-kə̀-jī-kə́rā,dɔ̀-jōó-ɡìdə̀-kə̀-jī-kə́rā,[],,[],,False,Mbay.htm,False,,1
+mbay1241-29-2,,mbay1241,29,dɔ̀-jōó-ɡìdə̀-kə̀-jī-kə́rā,dɔ̀-jōó-ɡìdə̀-kə̀-jī-kə́rā,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-30-1,,mbay1241,30,dɔ̀-mə̀tá,dɔ̀-mə̀tá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-30-2,,mbay1241,30,dɔ̀-mə̀tá,dɔ̀-mə̀tá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-40-1,,mbay1241,40,dɔ̀-sɔ̄ɔ́,dɔ̀-sɔ̄ɔ́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-40-2,,mbay1241,40,dɔ̀-sɔ̄ɔ́,dɔ̀-sɔ̄ɔ́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-50-1,,mbay1241,50,dɔ̀-mḭ̄́ḭ,dɔ̀-mḭ̄́ḭ,[],,[],,False,Mbay.htm,False,,1
+mbay1241-50-2,,mbay1241,50,dɔ̀-mḭ̄́ḭ,dɔ̀-mḭ̄́ḭ,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-60-1,,mbay1241,60,dɔ̀-kə́-bɔ̀y-dètə́,dɔ̀-kə́-bɔ̀y-dètə́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-60-2,,mbay1241,60,dɔ̀-kə́-bɔ̀y-dètə́,dɔ̀-kə́-bɔ̀y-dètə́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-70-1,,mbay1241,70,dɔ̀-tènə̀-mə̀tá,dɔ̀-tènə̀-mə̀tá,[],,[],,False,Mbay.htm,False,,1
+mbay1241-70-2,,mbay1241,70,dɔ̀-tènə̀-mə̀tá,dɔ̀-tènə̀-mə̀tá,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-80-1,,mbay1241,80,dɔ̀-jī-jōó,dɔ̀-jī-jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-80-2,,mbay1241,80,dɔ̀-jī-jōó,dɔ̀-jī-jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-90-1,,mbay1241,90,dɔ̀-jī-kə́rā,dɔ̀-jī-kə́rā,[],,[],,False,Mbay.htm,False,,1
+mbay1241-90-2,,mbay1241,90,dɔ̀-jī-kə́rā,dɔ̀-jī-kə́rā,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-100-1,,mbay1241,100,ɓúu,ɓúu,[],,[],,False,Mbay.htm,False,,1
+mbay1241-100-2,,mbay1241,100,ɓúu,ɓúu,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-200-1,,mbay1241,200,ɓúu jōó,ɓúu jōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-200-2,,mbay1241,200,ɓúu jōó,ɓúu jōó,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-1000-1,,mbay1241,1000,dūbə́,dūbə́,[],,[],,False,Mbay.htm,False,,1
+mbay1241-1000-2,,mbay1241,1000,dūbə́,dūbə́,[],,[],,False,Ngamay.htm,False,,1
+mbay1241-2000-1,,mbay1241,2000,dūbə́-djōó,dūbə́-djōó,[],,[],,False,Mbay.htm,False,,1
+mbay1241-2000-2,,mbay1241,2000,dūbə́-djōó,dūbə́-djōó,[],,[],,False,Ngamay.htm,False,,1

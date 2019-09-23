@@ -1,0 +1,13 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sewa1251-1-1,,sewa1251,1,kaikeda,kaikeda,[],,[],,False,Sewa-Bay.htm,False,,1
+sewa1251-1-2,,sewa1251,1,kenabona,kenabona,[],,[],,False,Sewa-Bay.htm,False,,1
+sewa1251-2-1,,sewa1251,2,manáu,manáu,[],,[],,False,Sewa-Bay.htm,False,,1
+sewa1251-2-2,,sewa1251,2,eluwa,eluwa,[],,[],,False,Sewa-Bay.htm,False,,1
+sewa1251-3-1,,sewa1251,3,luwa abwa kaikeda,luwa abwa kaikeda,[],( 2 + 1 ),[],,False,Sewa-Bay.htm,False,,1
+sewa1251-4-1,,sewa1251,4,aiɡe sieluwa aiɡe sieluwa,aiɡe sieluwa aiɡe sieluwa,[],( 2 + 2 ),[],,False,Sewa-Bay.htm,False,,1
+sewa1251-5-1,,sewa1251,5,nima kaikeda,nima kaikeda,[],,[],,False,Sewa-Bay.htm,False,,1
+sewa1251-6-1,,sewa1251,6,nima soᵘbařaⁱ kaiɡeda,nima soᵘbařaⁱ kaiɡeda,[],( 5 + 1 ),[],,False,Sewa-Bay.htm,False,,1
+sewa1251-7-1,,sewa1251,7,nima soᵘbařaⁱ manáu,nima soᵘbařaⁱ manáu,[],( 5 + 2 ),[],,False,Sewa-Bay.htm,False,,1
+sewa1251-8-1,,sewa1251,8,nima soᵘbařaⁱ luwa abwa kaikeda,nima soᵘbařaⁱ luwa abwa kaikeda,[],( 5 + 2 + 1 ),[],,False,Sewa-Bay.htm,False,,1
+sewa1251-9-1,,sewa1251,9,nima soᵘbařaⁱ aiɡe sieluwa aiɡe sieluwa,nima soᵘbařaⁱ aiɡe sieluwa aiɡe sieluwa,[],( 5 + 2 + 2 ),[],,False,Sewa-Bay.htm,False,,1
+sewa1251-10-1,,sewa1251,10,nima luwa,nima luwa,[],,[],,False,Sewa-Bay.htm,False,,1

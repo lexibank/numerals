@@ -1,0 +1,28 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+gali1262-1-1,,gali1262,1,òwin,òwin,[],,[],,False,Galibi.htm,False,,1
+gali1262-2-1,,gali1262,2,oko,oko,[],,[],,False,Galibi.htm,False,,1
+gali1262-3-1,,gali1262,3,oruwa,oruwa,[],,[],,False,Galibi.htm,False,,1
+gali1262-4-1,,gali1262,4,okupàen,okupàen,[],,[],,False,Galibi.htm,False,,1
+gali1262-4-2,,gali1262,4,okupaime,okupaime,[],( litː from oko (oko) pai me 'two by two' ),[],,False,Galibi.htm,False,,1
+gali1262-5-1,,gali1262,5,ainatone,ainatone,[],( litː from aina 'hand' and atone 'on one side' ),[],,False,Galibi.htm,False,,1
+gali1262-6-1,,gali1262,6,òwin-tòima,òwin-tòima,[],( litː from 'one' and tywopyima 'crossed over' ),[],,False,Galibi.htm,False,,1
+gali1262-7-1,,gali1262,7,oko-tòima,oko-tòima,[],( litː from 'two' and tywopyima 'crossed over' ),[],,False,Galibi.htm,False,,1
+gali1262-8-1,,gali1262,8,oruwa-tòima,oruwa-tòima,[],( litː from 'three' and tywopyima 'crossed over' ),[],,False,Galibi.htm,False,,1
+gali1262-9-1,,gali1262,9,okupaen-tòima,okupaen-tòima,[],( litː from 'four' and tywopyima 'crossed over' ),[],,False,Galibi.htm,False,,1
+gali1262-10-1,,gali1262,10,ainapatoro,ainapatoro,[],( litː from aina 'hand' and opatoro 'on both sides' ),[],,False,Galibi.htm,False,,1
+gali1262-11-1,,gali1262,11,ainapatoro tùponaka òwin,ainapatoro tùponaka òwin,[],( litː 'one on top of ten ' ),[],,False,Galibi.htm,False,,1
+gali1262-12-1,,gali1262,12,ainapatoro tùponaka oko,ainapatoro tùponaka oko,[],( litː 'two on top of ten ' ),[],,False,Galibi.htm,False,,1
+gali1262-13-1,,gali1262,13,ainapatoro tùponaka oruwa,ainapatoro tùponaka oruwa,[],( litː 'three on top of ten ' ),[],,False,Galibi.htm,False,,1
+gali1262-14-1,,gali1262,14,ainapatoro tùponaka okupàen,ainapatoro tùponaka okupàen,[],( litː 'four on top of ten ' ),[],,False,Galibi.htm,False,,1
+gali1262-15-1,,gali1262,15,atonèpy,atonèpy,[],( litː from atone 'on one side' and pupu 'foot' ),[],,False,Galibi.htm,False,,1
+gali1262-16-1,,gali1262,16,atonèpy tùponaka òwin,atonèpy tùponaka òwin,[],( litː 'one on top of fifteen' ),[],,False,Galibi.htm,False,,1
+gali1262-17-1,,gali1262,17,atonèpy tùponaka oko,atonèpy tùponaka oko,[],( litː 'two on top of fifteen' ),[],,False,Galibi.htm,False,,1
+gali1262-18-1,,gali1262,18,atonèpy tùponaka oruwa,atonèpy tùponaka oruwa,[],( litː 'three on top of fifteen' ),[],,False,Galibi.htm,False,,1
+gali1262-19-1,,gali1262,19,atonèpy tùponaka okupàen,atonèpy tùponaka okupàen,[],( litː 'fouron top of fifteen' ),[],,False,Galibi.htm,False,,1
+gali1262-20-1,,gali1262,20,òwin-karìna,òwin-karìna,[],(litː one Carob 'one person'),[],,False,Galibi.htm,False,,1
+gali1262-21-1,,gali1262,21,òwin-karìna tùponaka òwin,òwin-karìna tùponaka òwin,[],(litː 'one on top of twenty'),[],,False,Galibi.htm,False,,1
+gali1262-30-1,,gali1262,30,òwin-karina tùponaka ainapatoro,òwin-karina tùponaka ainapatoro,[],(litː 'ten on top of twenty'),[],,False,Galibi.htm,False,,1
+gali1262-40-1,,gali1262,40,òko-karìna,òko-karìna,[],,[],,False,Galibi.htm,False,,1
+gali1262-40-2,,gali1262,40,60. oruwa-karìna,60. oruwa-karìna,[],,[],,False,Galibi.htm,True,,1
+gali1262-40-3,,gali1262,40,80. okupaen-karìna,80. okupaen-karìna,[],,[],,False,Galibi.htm,True,,1
+gali1262-40-4,,gali1262,40,100. ainatone-karìna,100. ainatone-karìna,[],,[],,False,Galibi.htm,True,,1

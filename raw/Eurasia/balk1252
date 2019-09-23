@@ -1,0 +1,86 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+balk1252-1-1,,balk1252,1,jekʰ,jekʰ,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-1-2,,balk1252,1,jek(h),jek(h),[],,[],,False,Zargari.htm,False,,1
+balk1252-2-1,,balk1252,2,dui,dui,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-2-2,,balk1252,2,duj,duj,[],,[],,False,Zargari.htm,False,,1
+balk1252-3-1,,balk1252,3,tri,tri,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-3-2,,balk1252,3,terin,terin,[],,[],,False,Zargari.htm,False,,1
+balk1252-4-1,,balk1252,4,ʃtar,ʃtar,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-4-2,,balk1252,4,ištār,ištār,[],,[],,False,Zargari.htm,False,,1
+balk1252-5-1,,balk1252,5,pan(ʒ),pan(ʒ),[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-5-2,,balk1252,5,pāndž,pāndž,[],,[],,False,Zargari.htm,False,,1
+balk1252-6-1,,balk1252,6,ʃov,ʃov,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-6-2,,balk1252,6,šov,šov,[],,[],,False,Zargari.htm,False,,1
+balk1252-7-1,,balk1252,7,efta,efta,[],< Greek ,[],,True,Romani-Balkan.htm,False,,1
+balk1252-7-2,,balk1252,7,eftā,eftā,[],< Greek ,[],,True,Zargari.htm,False,,1
+balk1252-8-1,,balk1252,8,oxto,oxto,[],< Greek ,[],,True,Romani-Balkan.htm,False,,1
+balk1252-8-2,,balk1252,8,oxto,oxto,[],< Greek ,[],,True,Zargari.htm,False,,1
+balk1252-9-1,,balk1252,9,eɲa,eɲa,[],< Greek ,[],,True,Romani-Balkan.htm,False,,1
+balk1252-9-2,,balk1252,9,enna,enna,[],< Greek ,[],,True,Zargari.htm,False,,1
+balk1252-10-1,,balk1252,10,de,de,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-10-2,,balk1252,10,deʃ,deʃ,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-10-3,,balk1252,10,deš,deš,[],,[],,False,Zargari.htm,False,,1
+balk1252-11-1,,balk1252,11,deʃujekʰ,deʃujekʰ,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-11-2,,balk1252,11,deš-jek(h),deš-jek(h),[],,[],,False,Zargari.htm,False,,1
+balk1252-12-1,,balk1252,12,deʃudui,deʃudui,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-12-2,,balk1252,12,deš-duj,deš-duj,[],,[],,False,Zargari.htm,False,,1
+balk1252-13-1,,balk1252,13,deʃutri,deʃutri,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-13-2,,balk1252,13,deš-terin,deš-terin,[],,[],,False,Zargari.htm,False,,1
+balk1252-14-1,,balk1252,14,deʃuʃtar,deʃuʃtar,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-14-2,,balk1252,14,deš-ištār,deš-ištār,[],,[],,False,Zargari.htm,False,,1
+balk1252-15-1,,balk1252,15,deʃupanʒ,deʃupanʒ,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-15-2,,balk1252,15,dekapende,dekapende,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-15-3,,balk1252,15,deš-pāndž,deš-pāndž,[],,[],,False,Zargari.htm,False,,1
+balk1252-16-1,,balk1252,16,deʃuʃov,deʃuʃov,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-16-2,,balk1252,16,deš-šov,deš-šov,[],,[],,False,Zargari.htm,False,,1
+balk1252-17-1,,balk1252,17,deʃuefta,deʃuefta,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-17-2,,balk1252,17,deš-eftā,deš-eftā,[],,[],,False,Zargari.htm,False,,1
+balk1252-18-1,,balk1252,18,deʃuoxto,deʃuoxto,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-18-2,,balk1252,18,deš-oxto,deš-oxto,[],,[],,False,Zargari.htm,False,,1
+balk1252-19-1,,balk1252,19,deʃueɲa,deʃueɲa,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-19-2,,balk1252,19,deš-enna,deš-enna,[],,[],,False,Zargari.htm,False,,1
+balk1252-20-1,,balk1252,20,bi,bi,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-20-2,,balk1252,20,bis,bis,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-20-3,,balk1252,20,jokus,jokus,[],,[],,False,Zargari.htm,False,,1
+balk1252-21-1,,balk1252,21,bi ta ekʰ,bi ta ekʰ,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-21-2,,balk1252,21,bis ta ekʰ,bis ta ekʰ,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-21-3,,balk1252,21,jokus-jek(h),jokus-jek(h),[],,[],,False,Zargari.htm,False,,1
+balk1252-22-1,,balk1252,22,bis ta dui,bis ta dui,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-22-2,,balk1252,22,jokus-duj,jokus-duj,[],,[],,False,Zargari.htm,False,,1
+balk1252-23-1,,balk1252,23,bis ta tri,bis ta tri,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-23-2,,balk1252,23,jokus-terin,jokus-terin,[],,[],,False,Zargari.htm,False,,1
+balk1252-24-1,,balk1252,24,bis ta ʃtar,bis ta ʃtar,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-24-2,,balk1252,24,jokus-ištār,jokus-ištār,[],,[],,False,Zargari.htm,False,,1
+balk1252-25-1,,balk1252,25,bis ta pan(ʒ),bis ta pan(ʒ),[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-25-2,,balk1252,25,jokus-pāndž,jokus-pāndž,[],,[],,False,Zargari.htm,False,,1
+balk1252-26-1,,balk1252,26,bis ta ʃov,bis ta ʃov,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-26-2,,balk1252,26,jokus-šov,jokus-šov,[],,[],,False,Zargari.htm,False,,1
+balk1252-27-1,,balk1252,27,bis ta efta,bis ta efta,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-27-2,,balk1252,27,jokus-eftā,jokus-eftā,[],,[],,False,Zargari.htm,False,,1
+balk1252-28-1,,balk1252,28,bis ta oxto,bis ta oxto,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-28-2,,balk1252,28,jokus-oxto,jokus-oxto,[],,[],,False,Zargari.htm,False,,1
+balk1252-29-1,,balk1252,29,bis ta eɲa,bis ta eɲa,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-29-2,,balk1252,29,jokus-enna,jokus-enna,[],,[],,False,Zargari.htm,False,,1
+balk1252-30-1,,balk1252,30,trianda,trianda,[],< Greek ,[],,True,Romani-Balkan.htm,False,,1
+balk1252-30-2,,balk1252,30,tirāndā,tirāndā,[],< Greek ,[],,True,Zargari.htm,False,,1
+balk1252-40-1,,balk1252,40,saranda,saranda,[],< Greek ,[],,True,Romani-Balkan.htm,False,,1
+balk1252-40-2,,balk1252,40,sārāndā,sārāndā,[],< Greek ,[],,True,Zargari.htm,False,,1
+balk1252-50-1,,balk1252,50,peninda,peninda,[],< Greek ,[],,True,Romani-Balkan.htm,False,,1
+balk1252-50-2,,balk1252,50,pejindā,pejindā,[],< Greek ,[],,True,Zargari.htm,False,,1
+balk1252-60-1,,balk1252,60,ʃov-var-de(ʃ),ʃov-var-de(ʃ),[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-60-2,,balk1252,60,pejindā-deš,pejindā-deš,[],( 50 + 10 ),[],,False,Zargari.htm,False,,1
+balk1252-70-1,,balk1252,70,efta-var-de(ʃ),efta-var-de(ʃ),[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-70-2,,balk1252,70,pejindā-jokus,pejindā-jokus,[],( 50 + 20 ),[],,False,Zargari.htm,False,,1
+balk1252-80-1,,balk1252,80,oxto-var-de(ʃ),oxto-var-de(ʃ),[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-80-2,,balk1252,80,pejindā-tirāndā,pejindā-tirāndā,[],( 50 + 30 ),[],,False,Zargari.htm,False,,1
+balk1252-90-1,,balk1252,90,eɲa-var-de(ʃ),eɲa-var-de(ʃ),[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-90-2,,balk1252,90,pejindā-sārāndā,pejindā-sārāndā,[],( 50 + 40 ),[],,False,Zargari.htm,False,,1
+balk1252-100-1,,balk1252,100,ʃel,ʃel,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-100-2,,balk1252,100,šel,šel,[],,[],,False,Zargari.htm,False,,1
+balk1252-200-1,,balk1252,200,dui ʃel,dui ʃel,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-200-2,,balk1252,200,duj šel,duj šel,[],,[],,False,Zargari.htm,False,,1
+balk1252-1000-1,,balk1252,1000,hijiada,hijiada,[],< Bulgarian < Greek ,[],,True,Romani-Balkan.htm,False,,1
+balk1252-1000-2,,balk1252,1000,sila,sila,[],,[],,False,Zargari.htm,False,,1
+balk1252-2000-1,,balk1252,2000,dui hiljada,dui hiljada,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-2000-2,,balk1252,2000,dui hiliade,dui hiliade,[],,[],,False,Romani-Balkan.htm,False,,1
+balk1252-2000-3,,balk1252,2000,duj sila,duj sila,[],,[],,False,Zargari.htm,False,,1

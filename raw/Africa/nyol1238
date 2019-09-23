@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nyol1238-1-1,,nyol1238,1,ndala,ndala,[],,[],,False,Nyole.htm,False,,1
+nyol1238-2-1,,nyol1238,2,ebiri,ebiri,[],,[],,False,Nyole.htm,False,,1
+nyol1238-3-1,,nyol1238,3,edatu,edatu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-4-1,,nyol1238,4,ené,ené,[],,[],,False,Nyole.htm,False,,1
+nyol1238-5-1,,nyol1238,5,etaanu,etaanu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-6-1,,nyol1238,6,etaanu nendala,etaanu nendala,[],( 5 + 1 ),[],,False,Nyole.htm,False,,1
+nyol1238-7-1,,nyol1238,7,etaanu nebiri,etaanu nebiri,[],( 5 + 2 ),[],,False,Nyole.htm,False,,1
+nyol1238-8-1,,nyol1238,8,etaanu nedatu,etaanu nedatu,[],( 5 + 3 ),[],,False,Nyole.htm,False,,1
+nyol1238-9-1,,nyol1238,9,etaanu nené,etaanu nené,[],( 5 + 4 ),[],,False,Nyole.htm,False,,1
+nyol1238-10-1,,nyol1238,10,ehúmi njereere,ehúmi njereere,[],,[],,False,Nyole.htm,False,,1
+nyol1238-11-1,,nyol1238,11,ehúmi nandala,ehúmi nandala,[],,[],,False,Nyole.htm,False,,1
+nyol1238-12-1,,nyol1238,12,ehúmi nebiri,ehúmi nebiri,[],,[],,False,Nyole.htm,False,,1
+nyol1238-13-1,,nyol1238,13,ehúmi nedatu,ehúmi nedatu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-14-1,,nyol1238,14,ehúmi nené,ehúmi nené,[],,[],,False,Nyole.htm,False,,1
+nyol1238-15-1,,nyol1238,15,ehúmi netaanu,ehúmi netaanu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-16-1,,nyol1238,16,ehúmi netaanu nendala,ehúmi netaanu nendala,[],,[],,False,Nyole.htm,False,,1
+nyol1238-17-1,,nyol1238,17,ehúmi netaanu nebiri,ehúmi netaanu nebiri,[],,[],,False,Nyole.htm,False,,1
+nyol1238-18-1,,nyol1238,18,ehúmi netaanu nedatu,ehúmi netaanu nedatu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-19-1,,nyol1238,19,ehúmi netaanu nené,ehúmi netaanu nené,[],,[],,False,Nyole.htm,False,,1
+nyol1238-20-1,,nyol1238,20,ábíri memeere,ábíri memeere,[],,[],,False,Nyole.htm,False,,1
+nyol1238-21-1,,nyol1238,21,ábiri nendala,ábiri nendala,[],,[],,False,Nyole.htm,False,,1
+nyol1238-22-1,,nyol1238,22,ábiri nebiri,ábiri nebiri,[],,[],,False,Nyole.htm,False,,1
+nyol1238-23-1,,nyol1238,23,ábiri nedatu,ábiri nedatu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-24-1,,nyol1238,24,ábiri nené,ábiri nené,[],,[],,False,Nyole.htm,False,,1
+nyol1238-25-1,,nyol1238,25,ábiri netaanu,ábiri netaanu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-26-1,,nyol1238,26,ábiri netaanu nendala,ábiri netaanu nendala,[],,[],,False,Nyole.htm,False,,1
+nyol1238-27-1,,nyol1238,27,ábiri netaanu nebiri,ábiri netaanu nebiri,[],,[],,False,Nyole.htm,False,,1
+nyol1238-28-1,,nyol1238,28,ábiri netaanu nedatu,ábiri netaanu nedatu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-29-1,,nyol1238,29,ábiri netaanu nené,ábiri netaanu nené,[],,[],,False,Nyole.htm,False,,1
+nyol1238-30-1,,nyol1238,30,ádatu,ádatu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-40-1,,nyol1238,40,áné,áné,[],,[],,False,Nyole.htm,False,,1
+nyol1238-50-1,,nyol1238,50,átaanu,átaanu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-60-1,,nyol1238,60,nkaaɡa,nkaaɡa,[],,[],,False,Nyole.htm,False,,1
+nyol1238-70-1,,nyol1238,70,sanvu,sanvu,[],,[],,False,Nyole.htm,False,,1
+nyol1238-80-1,,nyol1238,80,cinaana,cinaana,[],,[],,False,Nyole.htm,False,,1
+nyol1238-90-1,,nyol1238,90,cenda,cenda,[],,[],,False,Nyole.htm,False,,1
+nyol1238-100-1,,nyol1238,100,hyasa,hyasa,[],,[],,False,Nyole.htm,False,,1
+nyol1238-200-1,,nyol1238,200,ebyasa bibiri,ebyasa bibiri,[],,[],,False,Nyole.htm,False,,1
+nyol1238-1000-1,,nyol1238,1000,ebyasa ehúmi,ebyasa ehúmi,[],( 100 x 10 ),[],,False,Nyole.htm,False,,1
+nyol1238-2000-1,,nyol1238,2000,ebya abiri,ebya abiri,[],,[],,False,Nyole.htm,False,,1

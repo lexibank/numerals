@@ -1,0 +1,17 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+sepa1242-1-1,,sepa1242,1,ʔisa,ʔisa,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-2-1,,sepa1242,2,rua,rua,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-2-2,,sepa1242,2,lua,lua,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-3-1,,sepa1242,3,'toru,'toru,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-3-2,,sepa1242,3,tou,tou,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-4-1,,sepa1242,4,'hale,'hale,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-4-2,,sepa1242,4,hae,hae,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-5-1,,sepa1242,5,rima,rima,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-5-2,,sepa1242,5,lima,lima,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-6-1,,sepa1242,6,noʔo,noʔo,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-6-2,,sepa1242,6,noe,noe,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-7-1,,sepa1242,7,hitu,hitu,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-8-1,,sepa1242,8,waru,waru,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-9-1,,sepa1242,9,siwa,siwa,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-10-1,,sepa1242,10,hu'sai,hu'sai,[],,[],,False,Sepa-Maluku.htm,False,,1
+sepa1242-100-1,,sepa1242,100,',',[],,[],,False,Sepa-Maluku.htm,True,,1

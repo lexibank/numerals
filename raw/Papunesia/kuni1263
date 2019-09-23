@@ -1,0 +1,22 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kuni1263-1-1,,kuni1263,1,kaona,kaona,[],,[],,False,Kuni.htm,False,,1
+kuni1263-2-1,,kuni1263,2,lua,lua,[],,[],,False,Kuni.htm,False,,1
+kuni1263-3-1,,kuni1263,3,koi,koi,[],,[],,False,Kuni.htm,False,,1
+kuni1263-4-1,,kuni1263,4,lualua,lualua,[],,[],,False,Kuni.htm,False,,1
+kuni1263-4-2,,kuni1263,4,bani,bani,[],,[],,False,Kuni.htm,False,,1
+kuni1263-5-1,,kuni1263,5,ima kaona,ima kaona,[],( litː 'one hand'),[],,False,Kuni.htm,False,,1
+kuni1263-6-1,,kuni1263,6,ima kaona kaona,ima kaona kaona,[],( 5+ 1 ),[],,False,Kuni.htm,False,,1
+kuni1263-7-1,,kuni1263,7,ima kaona lua,ima kaona lua,[],( 5+ 2 ),[],,False,Kuni.htm,False,,1
+kuni1263-8-1,,kuni1263,8,ima kaona koi,ima kaona koi,[],( 5+ 3 ),[],,False,Kuni.htm,False,,1
+kuni1263-9-1,,kuni1263,9,ima kaona lualua,ima kaona lualua,[],( 5+ 2 + 2  ),[],,False,Kuni.htm,False,,1
+kuni1263-10-1,,kuni1263,10,ima lua,ima lua,[],( litː ' two hands'),[],,False,Kuni.htm,False,,1
+kuni1263-11-1,,kuni1263,11,ima lua kaona,ima lua kaona,[],,[],,False,Kuni.htm,False,,1
+kuni1263-12-1,,kuni1263,12,ima lua lua,ima lua lua,[],,[],,False,Kuni.htm,False,,1
+kuni1263-13-1,,kuni1263,13,ima lua koi,ima lua koi,[],,[],,False,Kuni.htm,False,,1
+kuni1263-14-1,,kuni1263,14,ima lua lualua,ima lua lualua,[],,[],,False,Kuni.htm,False,,1
+kuni1263-15-1,,kuni1263,15,ima koi,ima koi,[],( litː 'three hands'),[],,False,Kuni.htm,False,,1
+kuni1263-16-1,,kuni1263,16,ima koi kaona,ima koi kaona,[],,[],,False,Kuni.htm,False,,1
+kuni1263-17-1,,kuni1263,17,ima koi lua,ima koi lua,[],,[],,False,Kuni.htm,False,,1
+kuni1263-18-1,,kuni1263,18,ima koi koi,ima koi koi,[],,[],,False,Kuni.htm,False,,1
+kuni1263-19-1,,kuni1263,19,ima koi lualaua,ima koi lualaua,[],,[],,False,Kuni.htm,False,,1
+kuni1263-20-1,,kuni1263,20,ima lualua,ima lualua,[],( litː 'four hands'),[],,False,Kuni.htm,False,,1

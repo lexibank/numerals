@@ -1,0 +1,49 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+zara1247-1-1,,zara1247,1,-imwe,-imwe,[],,[],,False,Zaramo.htm,False,,1
+zara1247-2-1,,zara1247,2,-bili,-bili,[],,[],,False,Zaramo.htm,False,,1
+zara1247-3-1,,zara1247,3,-datu,-datu,[],,[],,False,Zaramo.htm,False,,1
+zara1247-4-1,,zara1247,4,-ne,-ne,[],,[],,False,Zaramo.htm,False,,1
+zara1247-5-1,,zara1247,5,-tano,-tano,[],,[],,False,Zaramo.htm,False,,1
+zara1247-6-1,,zara1247,6,sita,sita,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-7-1,,zara1247,7,saba,saba,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-8-1,,zara1247,8,-nane,-nane,[],,[],,False,Zaramo.htm,False,,1
+zara1247-9-1,,zara1247,9,kenda,kenda,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-10-1,,zara1247,10,kumi,kumi,[],,[],,False,Zaramo.htm,False,,1
+zara1247-10-2,,zara1247,10,loŋo,loŋo,[],,[],,False,Zaramo.htm,False,,1
+zara1247-11-1,,zara1247,11,kumi na modʒa,kumi na modʒa,[],,[],,False,Zaramo.htm,False,,1
+zara1247-11-2,,zara1247,11,loŋo na -imwe,loŋo na -imwe,[],,[],,False,Zaramo.htm,False,,1
+zara1247-12-1,,zara1247,12,kumi na -bili,kumi na -bili,[],,[],,False,Zaramo.htm,False,,1
+zara1247-12-2,,zara1247,12,loŋo na -bili,loŋo na -bili,[],,[],,False,Zaramo.htm,False,,1
+zara1247-13-1,,zara1247,13,kumi na -datu,kumi na -datu,[],,[],,False,Zaramo.htm,False,,1
+zara1247-13-2,,zara1247,13,loŋo na -data,loŋo na -data,[],,[],,False,Zaramo.htm,False,,1
+zara1247-14-1,,zara1247,14,kumi na -nne,kumi na -nne,[],,[],,False,Zaramo.htm,False,,1
+zara1247-14-2,,zara1247,14,loŋo na -ne,loŋo na -ne,[],,[],,False,Zaramo.htm,False,,1
+zara1247-15-1,,zara1247,15,kumi na -tano,kumi na -tano,[],,[],,False,Zaramo.htm,False,,1
+zara1247-15-2,,zara1247,15,loŋo na -tano,loŋo na -tano,[],,[],,False,Zaramo.htm,False,,1
+zara1247-16-1,,zara1247,16,kumi na sita,kumi na sita,[],,[],,False,Zaramo.htm,False,,1
+zara1247-16-2,,zara1247,16,loŋo na sita,loŋo na sita,[],,[],,False,Zaramo.htm,False,,1
+zara1247-17-1,,zara1247,17,kumi na saba,kumi na saba,[],,[],,False,Zaramo.htm,False,,1
+zara1247-17-2,,zara1247,17,loŋo na mtandatu,loŋo na mtandatu,[],,[],,False,Zaramo.htm,False,,1
+zara1247-18-1,,zara1247,18,kumi na nane,kumi na nane,[],,[],,False,Zaramo.htm,False,,1
+zara1247-19-1,,zara1247,19,kumi na kenda,kumi na kenda,[],,[],,False,Zaramo.htm,False,,1
+zara1247-20-1,,zara1247,20,iʃirini,iʃirini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-21-1,,zara1247,21,iʃirini na modʒa,iʃirini na modʒa,[],,[],,False,Zaramo.htm,False,,1
+zara1247-22-1,,zara1247,22,iʃirini na -bili,iʃirini na -bili,[],,[],,False,Zaramo.htm,False,,1
+zara1247-23-1,,zara1247,23,iʃirini na -datu,iʃirini na -datu,[],,[],,False,Zaramo.htm,False,,1
+zara1247-24-1,,zara1247,24,iʃirini na -ne,iʃirini na -ne,[],,[],,False,Zaramo.htm,False,,1
+zara1247-25-1,,zara1247,25,iʃirini na -tano,iʃirini na -tano,[],,[],,False,Zaramo.htm,False,,1
+zara1247-26-1,,zara1247,26,iʃirini na sita,iʃirini na sita,[],,[],,False,Zaramo.htm,False,,1
+zara1247-27-1,,zara1247,27,iʃirini na saba,iʃirini na saba,[],,[],,False,Zaramo.htm,False,,1
+zara1247-28-1,,zara1247,28,iʃirini na nane,iʃirini na nane,[],,[],,False,Zaramo.htm,False,,1
+zara1247-29-1,,zara1247,29,iʃilini na kenda,iʃilini na kenda,[],,[],,False,Zaramo.htm,False,,1
+zara1247-30-1,,zara1247,30,θelasini,θelasini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-40-1,,zara1247,40,arobaini,arobaini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-50-1,,zara1247,50,hamsini,hamsini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-60-1,,zara1247,60,sitini,sitini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-70-1,,zara1247,70,sabini,sabini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-80-1,,zara1247,80,θemanini,θemanini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-90-1,,zara1247,90,tisini,tisini,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-100-1,,zara1247,100,mia modʒa,mia modʒa,[],( < Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-200-1,,zara1247,200,mia -bili,mia -bili,[],,[],,False,Zaramo.htm,False,,1
+zara1247-1000-1,,zara1247,1000,alfu imweŋa,alfu imweŋa,[],(< Kiswahili < Arabic ),[],,True,Zaramo.htm,False,,1
+zara1247-2000-1,,zara1247,2000,alfu mbili,alfu mbili,[],,[],,False,Zaramo.htm,False,,1

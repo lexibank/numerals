@@ -1,0 +1,19 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bian1252-1-1,,bian1252,1,nak,nak,[],(litː ''one''),[],,False,Biangai.htm,False,,1
+bian1252-1-2,,bian1252,1,wame-nak,wame-nak,[],(litː ''only / just one''),[],,False,Biangai.htm,False,,1
+bian1252-2-1,,bian1252,2,na-yau,na-yau,[],,[],,False,Biangai.htm,False,,1
+bian1252-3-1,,bian1252,3,nayau ga nak,nayau ga nak,[],(litː ''two and one'' ),[],,False,Biangai.htm,False,,1
+bian1252-4-1,,bian1252,4,manga-bek-tau no,manga-bek-tau no,[],(lit: five minus one''),[],,False,Biangai.htm,False,,1
+bian1252-5-1,,bian1252,5,mele na zik,mele na zik,[],(litː ''hand one'' ),[],,False,Biangai.htm,False,,1
+bian1252-6-1,,bian1252,6,mele na zik nak,mele na zik nak,[],,[],,False,Biangai.htm,False,,1
+bian1252-7-1,,bian1252,7,mele na zik nayau,mele na zik nayau,[],,[],,False,Biangai.htm,False,,1
+bian1252-8-1,,bian1252,8,mele na zik nayau ga nak,mele na zik nayau ga nak,[],,[],,False,Biangai.htm,False,,1
+bian1252-9-1,,bian1252,9,mele na zik manga-bek-tau no,mele na zik manga-bek-tau no,[],,[],,False,Biangai.htm,False,,1
+bian1252-10-1,,bian1252,10,mele yau,mele yau,[],(litː ''hands two'' ),[],,False,Biangai.htm,False,,1
+bian1252-11-1,,bian1252,11,mele yau keya pongo inge na-zik ka nak,mele yau keya pongo inge na-zik ka nak,[],,[],,False,Biangai.htm,False,,1
+bian1252-15-1,,bian1252,15,mele yau keya pongo inge nz-zik keya mangobektau,mele yau keya pongo inge nz-zik keya mangobektau,[],,[],,False,Biangai.htm,False,,1
+bian1252-20-1,,bian1252,20,mele yau keya pongo inge na-zik-ka nazik-ka mangobektau or yompu nak,mele yau keya pongo inge na-zik-ka nazik-ka mangobektau or yompu nak,[],,[],,False,Biangai.htm,True,,1
+bian1252-40-1,,bian1252,40,yompu nayau,yompu nayau,[],,[],,False,Biangai.htm,False,,1
+bian1252-60-1,,bian1252,60,jombunajauganak,jombunajauganak,[],,[],,False,Biangai.htm,False,yompu nayauganak,1
+bian1252-80-1,,bian1252,80,yompu manga-bek-tau-no,yompu manga-bek-tau-no,[],,[],,False,Biangai.htm,False,,1
+bian1252-100-1,,bian1252,100,yompu mele na-zik,yompu mele na-zik,[],,[],,False,Biangai.htm,False,,1

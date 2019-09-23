@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+yidg1240-1-1,,yidg1240,1,ju,ju,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-1-2,,yidg1240,1,yu,yu,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-2-1,,yidg1240,2,loh,loh,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-2-2,,yidg1240,2,loʰ,loʰ,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-3-1,,yidg1240,3,ɕɪ'ɾoːi,ɕɪ'ɾoːi,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-3-2,,yidg1240,3,ʃɪroi,ʃɪroi,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-4-1,,yidg1240,4,t͡ɕiːɾ,t͡ɕiːɾ,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-4-2,,yidg1240,4,t͡ʃir,t͡ʃir,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-5-1,,yidg1240,5,pãːɲt͡ɕ,pãːɲt͡ɕ,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-5-2,,yidg1240,5,pant͡ʃ,pant͡ʃ,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-6-1,,yidg1240,6,ʊχ'ʂo,ʊχ'ʂo,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-6-2,,yidg1240,6,uxʃo,uxʃo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-7-1,,yidg1240,7,av'd̪o,av'd̪o,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-7-2,,yidg1240,7,ʌfdo,ʌfdo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-8-1,,yidg1240,8,ah't͡ɕo,ah't͡ɕo,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-8-2,,yidg1240,8,oʃt͡ʃo,oʃt͡ʃo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-9-1,,yidg1240,9,'n̪oːʊ,'n̪oːʊ,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-9-2,,yidg1240,9,no,no,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-10-1,,yidg1240,10,les,les,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-10-2,,yidg1240,10,los,los,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-11-1,,yidg1240,11,les'ju,les'ju,[],(10 +1),[],,False,Yidgha.htm,False,,1
+yidg1240-11-2,,yidg1240,11,los yu,los yu,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-12-1,,yidg1240,12,les'lo,les'lo,[],(10 +2),[],,False,Yidgha.htm,False,,1
+yidg1240-12-2,,yidg1240,12,los loʰ,los loʰ,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-13-1,,yidg1240,13,lesɕʉ'ɾoːi,lesɕʉ'ɾoːi,[],(10 +3),[],,False,Yidgha.htm,False,,1
+yidg1240-13-2,,yidg1240,13,los ʃɪroi,los ʃɪroi,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-14-1,,yidg1240,14,les'ɕiːɾ,les'ɕiːɾ,[],(10 +4),[],,False,Yidgha.htm,False,,1
+yidg1240-14-2,,yidg1240,14,los t͡ʃir,los t͡ʃir,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-15-1,,yidg1240,15,lesˈpãːɲt͡ɕ,lesˈpãːɲt͡ɕ,[],(10 +5),[],,False,Yidgha.htm,False,,1
+yidg1240-15-2,,yidg1240,15,los pant͡ʃ,los pant͡ʃ,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-16-1,,yidg1240,16,lesʊχ'ʂo,lesʊχ'ʂo,[],(10 +6),[],,False,Yidgha.htm,False,,1
+yidg1240-16-2,,yidg1240,16,los uxʃo,los uxʃo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-17-1,,yidg1240,17,lesav'd̪o,lesav'd̪o,[],(10 +7),[],,False,Yidgha.htm,False,,1
+yidg1240-17-2,,yidg1240,17,los ʌfdo,los ʌfdo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-18-1,,yidg1240,18,lesah't͡ɕo,lesah't͡ɕo,[],(10 +8),[],,False,Yidgha.htm,False,,1
+yidg1240-18-2,,yidg1240,18,los oʃt͡ʃo,los oʃt͡ʃo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-19-1,,yidg1240,19,les'n̪oˑʊ,les'n̪oˑʊ,[],(10 +9),[],,False,Yidgha.htm,False,,1
+yidg1240-19-2,,yidg1240,19,los no,los no,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-20-1,,yidg1240,20,ʉs't̪o,ʉs't̪o,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-20-2,,yidg1240,20,wisto,wisto,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-21-1,,yidg1240,21,ʉst̪ʉ'ju,ʉst̪ʉ'ju,[],(20 +1),[],,False,Yidgha.htm,False,,1
+yidg1240-21-2,,yidg1240,21,wisto yu,wisto yu,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-22-1,,yidg1240,22,ʉst̪ʉ'loh,ʉst̪ʉ'loh,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-22-2,,yidg1240,22,wisto loʰ,wisto loʰ,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-23-1,,yidg1240,23,ʉsˌt̪ʉɕɪ'ɾoːi,ʉsˌt̪ʉɕɪ'ɾoːi,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-23-2,,yidg1240,23,wisto ʃɪroi,wisto ʃɪroi,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-24-1,,yidg1240,24,ʉst̪ʉ't͡ɕiːɾ,ʉst̪ʉ't͡ɕiːɾ,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-24-2,,yidg1240,24,wisto t͡ʃir,wisto t͡ʃir,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-25-1,,yidg1240,25,ʉst̪ʉ'pãːɲt͡ɕ,ʉst̪ʉ'pãːɲt͡ɕ,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-25-2,,yidg1240,25,wisto pant͡ʃ,wisto pant͡ʃ,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-26-1,,yidg1240,26,ʉst̪ʉˌwɔχ'ʂo,ʉst̪ʉˌwɔχ'ʂo,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-26-2,,yidg1240,26,wisto uxʃo,wisto uxʃo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-27-1,,yidg1240,27,ʉst̪ʉ'ˌwav'd̪o,ʉst̪ʉ'ˌwav'd̪o,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-27-2,,yidg1240,27,wisto ʌfdo,wisto ʌfdo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-28-1,,yidg1240,28,ʉst̪ʉˌwah't͡ɕo,ʉst̪ʉˌwah't͡ɕo,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-28-2,,yidg1240,28,wisto oʃt͡ʃo,wisto oʃt͡ʃo,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-29-1,,yidg1240,29,ʉst̪ʉ'n̪oːʊ,ʉst̪ʉ'n̪oːʊ,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-29-2,,yidg1240,29,wisto no,wisto no,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-30-1,,yidg1240,30,ʉst̪ʉ'les,ʉst̪ʉ'les,[],(20 +10),[],,False,Yidgha.htm,False,,1
+yidg1240-30-2,,yidg1240,30,wisto los,wisto los,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-40-1,,yidg1240,40,lə'wist,lə'wist,[],(2 x 20 ),[],,False,Yidgha.htm,False,,1
+yidg1240-40-2,,yidg1240,40,loʰ wist,loʰ wist,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-50-1,,yidg1240,50,lʉˌwistʊ'les,lʉˌwistʊ'les,[],(2 x 20+10),[],,False,Yidgha.htm,False,,1
+yidg1240-50-2,,yidg1240,50,loʰ wisto los,loʰ wisto los,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-60-1,,yidg1240,60,ɕʉˌɾoːˈjist,ɕʉˌɾoːˈjist,[],(3 x 20 ),[],,False,Yidgha.htm,False,,1
+yidg1240-60-2,,yidg1240,60,ʃɪroi wist,ʃɪroi wist,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-70-1,,yidg1240,70,ɕʉˌɾoːˈjist'les,ɕʉˌɾoːˈjist'les,[],(3 x 20+10),[],,False,Yidgha.htm,False,,1
+yidg1240-70-2,,yidg1240,70,ʃɪroi wisto los,ʃɪroi wisto los,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-80-1,,yidg1240,80,ˈt͡ɕiːɾwist,ˈt͡ɕiːɾwist,[],(4 x 20 ),[],,False,Yidgha.htm,False,,1
+yidg1240-80-2,,yidg1240,80,t͡ʃir wist,t͡ʃir wist,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-90-1,,yidg1240,90,ˌt͡ɕiːɾwistʊˈles,ˌt͡ɕiːɾwistʊˈles,[],(4 x 20+10),[],,False,Yidgha.htm,False,,1
+yidg1240-90-2,,yidg1240,90,t͡ʃir wisto los,t͡ʃir wisto los,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-100-1,,yidg1240,100,ɕoːɾ,ɕoːɾ,[],,[],,False,Yidgha.htm,False,,1
+yidg1240-100-2,,yidg1240,100,ʃor,ʃor,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-100-3,,yidg1240,100,pant͡ʃ wist,pant͡ʃ wist,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-200-1,,yidg1240,200,lohˈɕoːɾ,lohˈɕoːɾ,[],( 2 x 100),[],,False,Yidgha.htm,False,,1
+yidg1240-200-2,,yidg1240,200,loʰ ʃor,loʰ ʃor,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-1000-1,,yidg1240,1000,"ha""zaːɾ","ha""zaːɾ",[],,[],,False,Yidgha.htm,False,,1
+yidg1240-1000-2,,yidg1240,1000,hazar,hazar,[],,[],,False,Yidgha.htm,False,,2
+yidg1240-2000-1,,yidg1240,2000,loʰ hazar,loʰ hazar,[],,[],,False,Yidgha.htm,False,,2

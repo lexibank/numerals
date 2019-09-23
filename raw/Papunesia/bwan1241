@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bwan1241-1-1,,bwan1241,1,kaiɡeda,kaiɡeda,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-1-2,,bwan1241,1,keseɡa in other dialects,keseɡa in other dialects,[],,[],,False,Bwanabwana.htm,True,,1
+bwan1241-2-1,,bwan1241,2,labui,labui,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-3-1,,bwan1241,3,yaiyona,yaiyona,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-3-2,,bwan1241,3,tolu in other dialects,tolu in other dialects,[],,[],,False,Bwanabwana.htm,True,,1
+bwan1241-4-1,,bwan1241,4,esopali,esopali,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-5-1,,bwan1241,5,valiɡiɡi,valiɡiɡi,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-6-1,,bwan1241,6,valiɡiɡi kaiɡeda,valiɡiɡi kaiɡeda,[],( 5 + 1 ),[],,False,Bwanabwana.htm,False,,1
+bwan1241-7-1,,bwan1241,7,valiɡiɡi labui,valiɡiɡi labui,[],( 5 + 2 ),[],,False,Bwanabwana.htm,False,,1
+bwan1241-8-1,,bwan1241,8,valiɡiɡi yaiyona,valiɡiɡi yaiyona,[],( 5 + 3 ),[],,False,Bwanabwana.htm,False,,1
+bwan1241-9-1,,bwan1241,9,valiɡiɡi esopali,valiɡiɡi esopali,[],( 5 + 4 ),[],,False,Bwanabwana.htm,False,,1
+bwan1241-10-1,,bwan1241,10,sanaulu,sanaulu,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-11-1,,bwan1241,11,sanaulu kaiɡeda,sanaulu kaiɡeda,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-12-1,,bwan1241,12,sanaulu labui,sanaulu labui,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-13-1,,bwan1241,13,sanaulu yaiyona,sanaulu yaiyona,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-14-1,,bwan1241,14,sanaulu esopali,sanaulu esopali,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-15-1,,bwan1241,15,sanaulu valiɡiɡi,sanaulu valiɡiɡi,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-16-1,,bwan1241,16,sanaulu valiɡiɡi kaiɡeda,sanaulu valiɡiɡi kaiɡeda,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-17-1,,bwan1241,17,sanaulu valiɡiɡi labui,sanaulu valiɡiɡi labui,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-18-1,,bwan1241,18,sanaulu valiɡiɡi yaiyona,sanaulu valiɡiɡi yaiyona,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-19-1,,bwan1241,19,sanaulu valiɡiɡi esopali,sanaulu valiɡiɡi esopali,[],,[],,False,Bwanabwana.htm,False,,1
+bwan1241-20-1,,bwan1241,20,tau kaiɡeda simate,tau kaiɡeda simate,[],(lit: ''they (prefix si-) killed one male/man''),[],,False,Bwanabwana.htm,False,,1

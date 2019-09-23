@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+idom1241-1-1,,idom1241,1,éjè,éjè,[],,[],,False,Idoma.htm,False,éyè,1
+idom1241-2-1,,idom1241,2,ɛ́pà,ɛ́pà,[],,[],,False,Idoma.htm,False,ẹpà,1
+idom1241-3-1,,idom1241,3,ɛtá,ɛtá,[],,[],,False,Idoma.htm,False,ẹtá,1
+idom1241-4-1,,idom1241,4,ɛ́hɛ́,ɛ́hɛ́,[],,[],,False,Idoma.htm,False,ẹhẹ,1
+idom1241-5-1,,idom1241,5,ɛ́hɔ,ɛ́hɔ,[],,[],,False,Idoma.htm,False,ẹhọ,1
+idom1241-6-1,,idom1241,6,ɛ́hili,ɛ́hili,[],,[],,False,Idoma.htm,False,ẹhili,1
+idom1241-7-1,,idom1241,7,àhapà,àhapà,[],,[],,False,Idoma.htm,False,àhapà,1
+idom1241-8-1,,idom1241,8,àhátá,àhátá,[],,[],,False,Idoma.htm,False,àhátá,1
+idom1241-9-1,,idom1241,9,àhánɛ́,àhánɛ́,[],,[],,False,Idoma.htm,False,àhánẹ,1
+idom1241-10-1,,idom1241,10,iɡwó,iɡwó,[],,[],,False,Idoma.htm,False,iɡwó,1
+idom1241-11-1,,idom1241,11,iɡwó lèé,iɡwó lèé,[],,[],,False,Idoma.htm,False,iɡwó lèé,1
+idom1241-12-1,,idom1241,12,iɡwó ẹpà,iɡwó ẹpà,[],,[],,False,Idoma.htm,False,,1
+idom1241-13-1,,idom1241,13,iɡwó ẹtá,iɡwó ẹtá,[],,[],,False,Idoma.htm,False,,1
+idom1241-14-1,,idom1241,14,iɡwó ẹhẹ,iɡwó ẹhẹ,[],,[],,False,Idoma.htm,False,,1
+idom1241-15-1,,idom1241,15,iɡwó ẹhọ,iɡwó ẹhọ,[],,[],,False,Idoma.htm,False,,1
+idom1241-16-1,,idom1241,16,iɡwó ẹhili,iɡwó ẹhili,[],,[],,False,Idoma.htm,False,,1
+idom1241-17-1,,idom1241,17,iɡwó àhapà,iɡwó àhapà,[],,[],,False,Idoma.htm,False,,1
+idom1241-18-1,,idom1241,18,iɡwó àhátá,iɡwó àhátá,[],,[],,False,Idoma.htm,False,,1
+idom1241-19-1,,idom1241,19,iɡwó àhánẹ,iɡwó àhánẹ,[],,[],,False,Idoma.htm,False,,1
+idom1241-20-1,,idom1241,20,òfù,òfù,[],,[],,False,Idoma.htm,False,,1
+idom1241-21-1,,idom1241,21,òfu tʃé éjè,òfu tʃé éjè,[],,[],,False,Idoma.htm,False,òfù ché éyè,1
+idom1241-22-1,,idom1241,22,òfù ché ẹpà,òfù ché ẹpà,[],,[],,False,Idoma.htm,False,,1
+idom1241-23-1,,idom1241,23,òfù ché ẹtá,òfù ché ẹtá,[],,[],,False,Idoma.htm,False,,1
+idom1241-24-1,,idom1241,24,òfù ché ẹhẹ,òfù ché ẹhẹ,[],,[],,False,Idoma.htm,False,,1
+idom1241-25-1,,idom1241,25,òfù ché ẹhọ,òfù ché ẹhọ,[],,[],,False,Idoma.htm,False,,1
+idom1241-26-1,,idom1241,26,òfù ché ẹhili,òfù ché ẹhili,[],,[],,False,Idoma.htm,False,,1
+idom1241-27-1,,idom1241,27,òfù ché àhapà,òfù ché àhapà,[],,[],,False,Idoma.htm,False,,1
+idom1241-28-1,,idom1241,28,òfù ché àhátá,òfù ché àhátá,[],,[],,False,Idoma.htm,False,,1
+idom1241-29-1,,idom1241,29,òfù ché àhánẹ,òfù ché àhánẹ,[],,[],,False,Idoma.htm,False,,1
+idom1241-30-1,,idom1241,30,òfù ché iɡwó,òfù ché iɡwó,[],,[],,False,Idoma.htm,False,,1
+idom1241-40-1,,idom1241,40,òfu ẹpà,òfu ẹpà,[],( 20 x 2 ),[],,False,Idoma.htm,False,,1
+idom1241-50-1,,idom1241,50,òfu ẹpà ché iɡwó,òfu ẹpà ché iɡwó,[],,[],,False,Idoma.htm,False,,1
+idom1241-60-1,,idom1241,60,òfù ẹtá,òfù ẹtá,[],( 20 x 3 ),[],,False,Idoma.htm,False,,1
+idom1241-70-1,,idom1241,70,òfù ẹtá ché iɡwó,òfù ẹtá ché iɡwó,[],,[],,False,Idoma.htm,False,,1
+idom1241-80-1,,idom1241,80,òfù ẹhẹ,òfù ẹhẹ,[],( 20 x 4 ),[],,False,Idoma.htm,False,,1
+idom1241-90-1,,idom1241,90,òfù ẹhẹ ché iɡwó,òfù ẹhẹ ché iɡwó,[],,[],,False,Idoma.htm,False,,1
+idom1241-100-1,,idom1241,100,òfù ẹhọ,òfù ẹhọ,[],,[],,False,Idoma.htm,False,,1
+idom1241-200-1,,idom1241,200,ōhwīwō,ōhwīwō,[],,[],,False,Idoma.htm,False,,1
+idom1241-200-2,,idom1241,200,400. úla,400. úla,[],,[],,False,Idoma.htm,True,,1
+idom1241-1000-1,,idom1241,1000,úla ɛpà tʃèòfùiɡwó ),úla ɛpà tʃèòfùiɡwó ),[],,[],,False,Idoma.htm,True,úla ẹpà chéòfùiɡwó  (,1
+idom1241-2000-1,,idom1241,2000,úla ɛ́hɔ,úla ɛ́hɔ,[],( 400 x 5 ),[],,False,Idoma.htm,False,úla ẹhọ,1

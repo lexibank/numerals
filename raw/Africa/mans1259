@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mans1259-1-1,,mans1259,1,sɔn,sɔn,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-2-1,,mans1259,2,cen,cen,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-3-1,,mans1259,3,b-rar,b-rar,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-4-1,,mans1259,4,b-nan,b-nan,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-5-1,,mans1259,5,sɔŋɡun,sɔŋɡun,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-6-1,,mans1259,6,sɔŋɡun də sɔnsɔn,sɔŋɡun də sɔnsɔn,[],( 5 + 1 ),[],,False,Mansoanka.htm,False,,1
+mans1259-7-1,,mans1259,7,sɔŋɡun də mcen,sɔŋɡun də mcen,[],( 5 + 2 ),[],,False,Mansoanka.htm,False,,1
+mans1259-8-1,,mans1259,8,sɔŋɡun də mbrar,sɔŋɡun də mbrar,[],( 5 + 3 ),[],,False,Mansoanka.htm,False,,1
+mans1259-9-1,,mans1259,9,sɔŋɡun də mnan,sɔŋɡun də mnan,[],( 5 + 4 ),[],,False,Mansoanka.htm,False,,1
+mans1259-10-1,,mans1259,10,tɛŋi,tɛŋi,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-11-1,,mans1259,11,tɛŋi də sɔnsɔŋ,tɛŋi də sɔnsɔŋ,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-12-1,,mans1259,12,tɛŋi də kcen,tɛŋi də kcen,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-13-1,,mans1259,13,tɛŋi də kbrar,tɛŋi də kbrar,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-14-1,,mans1259,14,tɛŋi də knan,tɛŋi də knan,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-15-1,,mans1259,15,tɛŋi də ksɔŋɡun,tɛŋi də ksɔŋɡun,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-16-1,,mans1259,16,tɛŋi də ksɔŋɡun də sɔnsɔn,tɛŋi də ksɔŋɡun də sɔnsɔn,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-17-1,,mans1259,17,tɛŋi də ksɔŋɡun də kcen,tɛŋi də ksɔŋɡun də kcen,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-18-1,,mans1259,18,tɛŋi də ksɔŋɡun də kbrar,tɛŋi də ksɔŋɡun də kbrar,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-19-1,,mans1259,19,tɛŋi də ksɔŋɡun də knan,tɛŋi də ksɔŋɡun də knan,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-20-1,,mans1259,20,itɛŋi iceŋ,itɛŋi iceŋ,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-21-1,,mans1259,21,itɛŋi iceŋ də sɔnsɔŋ,itɛŋi iceŋ də sɔnsɔŋ,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-30-1,,mans1259,30,itɛŋi irar,itɛŋi irar,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-40-1,,mans1259,40,itɛŋi inaŋ,itɛŋi inaŋ,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-50-1,,mans1259,50,itɛŋi ksɔŋɡun,itɛŋi ksɔŋɡun,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-60-1,,mans1259,60,itɛŋi saandrɛsɔn,itɛŋi saandrɛsɔn,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-70-1,,mans1259,70,itɛŋi ksɔŋɡun də itɛŋi iceŋ,itɛŋi ksɔŋɡun də itɛŋi iceŋ,[],( 50+ 20 ),[],,False,Mansoanka.htm,False,,1
+mans1259-80-1,,mans1259,80,itɛŋi ksɔŋɡun də itɛŋi irar,itɛŋi ksɔŋɡun də itɛŋi irar,[],( 50+ 30 ),[],,False,Mansoanka.htm,False,,1
+mans1259-90-1,,mans1259,90,itɛŋi ksɔŋɡun də itɛŋi inan,itɛŋi ksɔŋɡun də itɛŋi inan,[],( 50+ 40 ),[],,False,Mansoanka.htm,False,,1
+mans1259-100-1,,mans1259,100,kɛmɛ ksɔnsɔŋ,kɛmɛ ksɔnsɔŋ,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-200-1,,mans1259,200,kɛmɛ icen,kɛmɛ icen,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-1000-1,,mans1259,1000,uŋkɔntu,uŋkɔntu,[],,[],,False,Mansoanka.htm,False,,1
+mans1259-2000-1,,mans1259,2000,kɔntu icen,kɔntu icen,[],,[],,False,Mansoanka.htm,False,,1

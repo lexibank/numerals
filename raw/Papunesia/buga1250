@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+buga1250-1-1,,buga1250,1,tíɡèŋ,tíɡèŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-2-1,,buga1250,2,lú,lú,[],,[],,False,Bukawac.htm,False,,1
+buga1250-3-1,,buga1250,3,tǿ,tǿ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-4-1,,buga1250,4,hálè,hálè,[],,[],,False,Bukawac.htm,False,,1
+buga1250-5-1,,buga1250,5,àmáŋdàŋ,àmáŋdàŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-5-2,,buga1250,5,límdàŋ,límdàŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-6-1,,buga1250,6,àmáŋdàŋ ŋàndʊ̀tíɡèŋ,àmáŋdàŋ ŋàndʊ̀tíɡèŋ,[],( 5 + 1 ),[],,False,Bukawac.htm,False,,1
+buga1250-7-1,,buga1250,7,àmáŋdàŋ ŋàndʊ́lú,àmáŋdàŋ ŋàndʊ́lú,[],( 5 + 2 ),[],,False,Bukawac.htm,False,,1
+buga1250-8-1,,buga1250,8,àmáŋdàŋ ŋàndʊ̀tǿ,àmáŋdàŋ ŋàndʊ̀tǿ,[],( 5 + 3 ),[],,False,Bukawac.htm,False,,1
+buga1250-9-1,,buga1250,9,àmáŋdàŋ ŋàndʊ́hálè,àmáŋdàŋ ŋàndʊ́hálè,[],( 5 + 4 ),[],,False,Bukawac.htm,False,,1
+buga1250-10-1,,buga1250,10,àmáŋlù,àmáŋlù,[],,[],,False,Bukawac.htm,False,,1
+buga1250-10-2,,buga1250,10,sàhúʔ,sàhúʔ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-11-1,,buga1250,11,àmáŋlù ŋàndʊ̀tíɡèŋ,àmáŋlù ŋàndʊ̀tíɡèŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-12-1,,buga1250,12,àmáŋlù ŋàndʊ́lú,àmáŋlù ŋàndʊ́lú,[],,[],,False,Bukawac.htm,False,,1
+buga1250-13-1,,buga1250,13,àmáŋlù ŋàndʊ̀tǿ,àmáŋlù ŋàndʊ̀tǿ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-14-1,,buga1250,14,àmáŋlù ŋàndʊ́hálè,àmáŋlù ŋàndʊ́hálè,[],,[],,False,Bukawac.htm,False,,1
+buga1250-15-1,,buga1250,15,sàhúʔ ŋàlím,sàhúʔ ŋàlím,[],,[],,False,Bukawac.htm,False,,1
+buga1250-16-1,,buga1250,16,sàhúʔ ŋàlím ŋàndʊ́tíɡèŋ,sàhúʔ ŋàlím ŋàndʊ́tíɡèŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-17-1,,buga1250,17,sàhúʔ ŋàlím ŋàndʊ́lú,sàhúʔ ŋàlím ŋàndʊ́lú,[],,[],,False,Bukawac.htm,False,,1
+buga1250-18-1,,buga1250,18,sàhúʔ ŋàlím ŋàndʊ̀tǿ,sàhúʔ ŋàlím ŋàndʊ̀tǿ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-19-1,,buga1250,19,sàhúʔ ŋàlím ŋàndʊ́hálè,sàhúʔ ŋàlím ŋàndʊ́hálè,[],,[],,False,Bukawac.htm,False,,1
+buga1250-20-1,,buga1250,20,ŋɡáʔsàmbúʔ dàŋ,ŋɡáʔsàmbúʔ dàŋ,[],( = one person),[],,False,Bukawac.htm,False,,1
+buga1250-21-1,,buga1250,21,ŋɡáʔsàmbúʔ dàŋ ma tíɡèŋ,ŋɡáʔsàmbúʔ dàŋ ma tíɡèŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-22-1,,buga1250,22,ŋɡáʔsàmbúʔ dàŋ ma lú,ŋɡáʔsàmbúʔ dàŋ ma lú,[],,[],,False,Bukawac.htm,False,,1
+buga1250-23-1,,buga1250,23,ŋɡáʔsàmbúʔ dàŋ ma tǿ,ŋɡáʔsàmbúʔ dàŋ ma tǿ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-24-1,,buga1250,24,ŋɡáʔsàmbúʔ dàŋ ma hálè,ŋɡáʔsàmbúʔ dàŋ ma hálè,[],,[],,False,Bukawac.htm,False,,1
+buga1250-25-1,,buga1250,25,ŋɡáʔsàmbúʔ dàŋ ma àmáŋdàŋ,ŋɡáʔsàmbúʔ dàŋ ma àmáŋdàŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-26-1,,buga1250,26,ŋɡáʔsàmbúʔ dàŋ ma àmáŋ. ŋàndʊ̀tíɡèŋ,ŋɡáʔsàmbúʔ dàŋ ma àmáŋ. ŋàndʊ̀tíɡèŋ,[],,[],,False,Bukawac.htm,True,,1
+buga1250-27-1,,buga1250,27,ŋɡáʔsàmbúʔ dàŋ ma àmáŋdàŋ ŋàndʊ́lú,ŋɡáʔsàmbúʔ dàŋ ma àmáŋdàŋ ŋàndʊ́lú,[],,[],,False,Bukawac.htm,False,,1
+buga1250-28-1,,buga1250,28,ŋɡáʔsàmbúʔ dàŋ ma àmáŋdàŋ ŋàndʊ̀tǿ,ŋɡáʔsàmbúʔ dàŋ ma àmáŋdàŋ ŋàndʊ̀tǿ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-29-1,,buga1250,29,ŋɡáʔsàmbúʔ dàŋ ma àmáŋ. ŋàndʊ́hálè,ŋɡáʔsàmbúʔ dàŋ ma àmáŋ. ŋàndʊ́hálè,[],,[],,False,Bukawac.htm,True,,1
+buga1250-30-1,,buga1250,30,ŋɡáʔsàmbúʔ dàŋ ma àmáŋlù,ŋɡáʔsàmbúʔ dàŋ ma àmáŋlù,[],,[],,False,Bukawac.htm,False,,1
+buga1250-30-2,,buga1250,30,sàhúʔ,sàhúʔ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-40-1,,buga1250,40,ŋɡáʔsàmbúʔ lú,ŋɡáʔsàmbúʔ lú,[],,[],,False,Bukawac.htm,False,,1
+buga1250-50-1,,buga1250,50,ŋɡáʔsàmbúʔ lú ma sàhúʔ,ŋɡáʔsàmbúʔ lú ma sàhúʔ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-60-1,,buga1250,60,ŋɡáʔsàmbúʔ tǿ,ŋɡáʔsàmbúʔ tǿ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-70-1,,buga1250,70,ŋɡáʔsàmbúʔ tǿ ma sàhúʔ,ŋɡáʔsàmbúʔ tǿ ma sàhúʔ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-80-1,,buga1250,80,ŋɡáʔsàmbúʔ hálè,ŋɡáʔsàmbúʔ hálè,[],,[],,False,Bukawac.htm,False,,1
+buga1250-90-1,,buga1250,90,ŋɡáʔsàmbúʔ hále ma sàhúʔ,ŋɡáʔsàmbúʔ hále ma sàhúʔ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-100-1,,buga1250,100,ŋɡáʔsàmbúʔ àmáŋdàŋ,ŋɡáʔsàmbúʔ àmáŋdàŋ,[],,[],,False,Bukawac.htm,False,,1
+buga1250-1000-1,,buga1250,1000,tausen,tausen,[],( < English ),[],,True,Bukawac.htm,False,,1

@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+pije1237-1-1,,pije1237,1,heec,heec,[],,[],,False,Pije.htm,False,,1
+pije1237-2-1,,pije1237,2,haluk,haluk,[],,[],,False,Pije.htm,False,,1
+pije1237-3-1,,pije1237,3,hien,hien,[],,[],,False,Pije.htm,False,,1
+pije1237-4-1,,pije1237,4,hovac,hovac,[],,[],,False,Pije.htm,False,,1
+pije1237-5-1,,pije1237,5,nim,nim,[],,[],,False,Pije.htm,False,,1
+pije1237-6-1,,pije1237,6,ni-bweec,ni-bweec,[],,[],,False,Pije.htm,False,,1
+pije1237-6-2,,pije1237,6,hemen heec,hemen heec,[],( 5 + 1 ),[],,False,Pije.htm,False,,1
+pije1237-7-1,,pije1237,7,ni-bwaluk,ni-bwaluk,[],,[],,False,Pije.htm,False,,1
+pije1237-7-2,,pije1237,7,hemen haluk,hemen haluk,[],( 5 + 2 ),[],,False,Pije.htm,False,,1
+pije1237-8-1,,pije1237,8,ni-bwien,ni-bwien,[],,[],,False,Pije.htm,False,,1
+pije1237-8-2,,pije1237,8,hemen hien,hemen hien,[],( 5 + 3 ),[],,False,Pije.htm,False,,1
+pije1237-9-1,,pije1237,9,ni-bovac,ni-bovac,[],,[],,False,Pije.htm,False,,1
+pije1237-9-2,,pije1237,9,hemen hovac,hemen hovac,[],( 5 + 4 ),[],,False,Pije.htm,False,,1
+pije1237-10-1,,pije1237,10,paidu,paidu,[],( litː ''two hands''),[],,False,Pije.htm,False,,1
+pije1237-11-1,,pije1237,11,paidu ɡan heec,paidu ɡan heec,[],,[],,False,Pije.htm,False,,1
+pije1237-12-1,,pije1237,12,paidu ɡan haluk,paidu ɡan haluk,[],,[],,False,Pije.htm,False,,1
+pije1237-13-1,,pije1237,13,paidu ɡan hien,paidu ɡan hien,[],,[],,False,Pije.htm,False,,1
+pije1237-14-1,,pije1237,14,paidu ɡan hovac,paidu ɡan hovac,[],,[],,False,Pije.htm,False,,1
+pije1237-15-1,,pije1237,15,paidu ɡan nim,paidu ɡan nim,[],,[],,False,Pije.htm,False,,1
+pije1237-16-1,,pije1237,16,paidu ɡan nibweec,paidu ɡan nibweec,[],,[],,False,Pije.htm,False,,1
+pije1237-17-1,,pije1237,17,paidu ɡan nibwaluk,paidu ɡan nibwaluk,[],,[],,False,Pije.htm,False,,1
+pije1237-18-1,,pije1237,18,paidu ɡan nibwien,paidu ɡan nibwien,[],,[],,False,Pije.htm,False,,1
+pije1237-19-1,,pije1237,19,paidu ɡan nibovac,paidu ɡan nibovac,[],,[],,False,Pije.htm,False,,1
+pije1237-20-1,,pije1237,20,hee kahyuk,hee kahyuk,[],(lit: ''kahyuk='person''),[],,False,Pije.htm,False,,1
+pije1237-30-1,,pije1237,30,hee kahyuk ɡan paidu,hee kahyuk ɡan paidu,[],,[],,False,Pije.htm,False,,1
+pije1237-40-1,,pije1237,40,halu kahyuk,halu kahyuk,[],(lit: ''two persons''),[],,False,Pije.htm,False,,1
+pije1237-50-1,,pije1237,50,halu kahyuk ɡan paidu,halu kahyuk ɡan paidu,[],,[],,False,Pije.htm,False,,1
+pije1237-60-1,,pije1237,60,hien kahyuk,hien kahyuk,[],(lit: ''three persons''),[],,False,Pije.htm,False,,1
+pije1237-70-1,,pije1237,70,hien kahyuk ɡan paidu,hien kahyuk ɡan paidu,[],,[],,False,Pije.htm,False,,1
+pije1237-80-1,,pije1237,80,hovac kahyuk,hovac kahyuk,[],(lit: ''four persons''),[],,False,Pije.htm,False,,1
+pije1237-90-1,,pije1237,90,hovac kahyuk ɡan paidu,hovac kahyuk ɡan paidu,[],,[],,False,Pije.htm,False,,1
+pije1237-100-1,,pije1237,100,nim kahyuk,nim kahyuk,[],(lit: ''five persons''),[],,False,Pije.htm,False,,1

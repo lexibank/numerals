@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+yaoo1241-1-1,,yaoo1241,1,jimo,jimo,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-1-2,,yaoo1241,1,-mo,-mo,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-2-1,,yaoo1241,2,sivili,sivili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-2-2,,yaoo1241,2,-uidi,-uidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-3-1,,yaoo1241,3,sitatu,sitatu,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-3-2,,yaoo1241,3,-tatu,-tatu,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-4-1,,yaoo1241,4,ntʃetʃe,ntʃetʃe,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-4-2,,yaoo1241,4,ncece,ncece,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-5-1,,yaoo1241,5,nsaano,nsaano,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-5-2,,yaoo1241,5,nsaano,nsaano,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-6-1,,yaoo1241,6,nsaano ní jimo,nsaano ní jimo,[],( 5 + 1 ),[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-6-2,,yaoo1241,6,nsaaná -mo,nsaaná -mo,[],( 5 + 1 ),[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-7-1,,yaoo1241,7,nsaano ní sivili,nsaano ní sivili,[],( 5 + 2 ),[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-7-2,,yaoo1241,7,nsaaná -uidi,nsaaná -uidi,[],( 5 + 2 ),[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-8-1,,yaoo1241,8,nsaano ní sitatu,nsaano ní sitatu,[],( 5 + 3 ),[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-8-2,,yaoo1241,8,nsaaná -tatu,nsaaná -tatu,[],( 5 + 3 ),[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-9-1,,yaoo1241,9,nsaano ní ntʃetʃe,nsaano ní ntʃetʃe,[],( 5 + 4 ),[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-9-2,,yaoo1241,9,nsaaná ncece,nsaaná ncece,[],( 5 + 4 ),[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-10-1,,yaoo1241,10,likúmí límo,likúmí límo,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-10-2,,yaoo1241,10,diikúmí,diikúmí,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-11-1,,yaoo1241,11,likúmí limo ní jimo,likúmí limo ní jimo,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-11-2,,yaoo1241,11,diikúmí kwíísá -mo,diikúmí kwíísá -mo,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-12-1,,yaoo1241,12,likúmí limo ní uidi,likúmí limo ní uidi,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-12-2,,yaoo1241,12,diikúmí kwíísá -uidi,diikúmí kwíísá -uidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-13-1,,yaoo1241,13,likúmí limo ní sitatu,likúmí limo ní sitatu,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-13-2,,yaoo1241,13,diikúmí kwíísá -tatu,diikúmí kwíísá -tatu,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-14-1,,yaoo1241,14,likúmí limo ní ntʃetʃe,likúmí limo ní ntʃetʃe,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-14-2,,yaoo1241,14,diikúmí kwíísá ncece,diikúmí kwíísá ncece,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-15-1,,yaoo1241,15,likúmí limo ní nsaano,likúmí limo ní nsaano,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-15-2,,yaoo1241,15,diikúmí kwíísá nsaano,diikúmí kwíísá nsaano,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-16-1,,yaoo1241,16,likúmí limo ní nsaano ní jimo,likúmí limo ní nsaano ní jimo,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-16-2,,yaoo1241,16,diikúmí kwíísá nsaaná -mo,diikúmí kwíísá nsaaná -mo,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-17-1,,yaoo1241,17,likúmí limo ní nsaano ní sivili,likúmí limo ní nsaano ní sivili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-17-2,,yaoo1241,17,diikúmí kwíísánsaaná -uidi,diikúmí kwíísánsaaná -uidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-18-1,,yaoo1241,18,likúmí limo ní nsaano ní sitatu,likúmí limo ní nsaano ní sitatu,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-18-2,,yaoo1241,18,diikúmí kwíísánsaaná -tatu,diikúmí kwíísánsaaná -tatu,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-19-1,,yaoo1241,19,likúmí limo ní nsaano ní ntʃetʃe,likúmí limo ní nsaano ní ntʃetʃe,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-19-2,,yaoo1241,19,diikúmí kwíísánsaaná ncece,diikúmí kwíísánsaaná ncece,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-20-1,,yaoo1241,20,makúmí ɡávili,makúmí ɡávili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-20-2,,yaoo1241,20,makúmí ɡáuidi,makúmí ɡáuidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-21-1,,yaoo1241,21,makúmí ɡávili ní jimo,makúmí ɡávili ní jimo,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-21-2,,yaoo1241,21,makúmí ɡáuidi kwíísá -mo,makúmí ɡáuidi kwíísá -mo,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-22-1,,yaoo1241,22,makúmí ɡávili ní sivili,makúmí ɡávili ní sivili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-22-2,,yaoo1241,22,makúmí ɡáuidi kwíísá -uidi,makúmí ɡáuidi kwíísá -uidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-23-1,,yaoo1241,23,makúmí ɡávili ní sitatu,makúmí ɡávili ní sitatu,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-23-2,,yaoo1241,23,makúmí ɡáuidi kwíísá -tatu,makúmí ɡáuidi kwíísá -tatu,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-24-1,,yaoo1241,24,makúmí ɡávili ní ntʃetʃe,makúmí ɡávili ní ntʃetʃe,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-24-2,,yaoo1241,24,makúmí ɡáuidi kwíísá ncece,makúmí ɡáuidi kwíísá ncece,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-25-1,,yaoo1241,25,makúmí ɡávili nínsaano,makúmí ɡávili nínsaano,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-25-2,,yaoo1241,25,makúmí ɡáuidi kwíísá nsaano,makúmí ɡáuidi kwíísá nsaano,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-26-1,,yaoo1241,26,makúmí ɡávili nínsaano ní jimo,makúmí ɡávili nínsaano ní jimo,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-26-2,,yaoo1241,26,makúmí ɡáuidi kwíísá nsaaná -mo,makúmí ɡáuidi kwíísá nsaaná -mo,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-27-1,,yaoo1241,27,makúmí ɡávili nínsaano ní sivili,makúmí ɡávili nínsaano ní sivili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-27-2,,yaoo1241,27,makúmí ɡáuidi kwíísá nsaaná -uidi,makúmí ɡáuidi kwíísá nsaaná -uidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-28-1,,yaoo1241,28,makúmí ɡávili nínsaano ní sitatu,makúmí ɡávili nínsaano ní sitatu,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-28-2,,yaoo1241,28,makúmí ɡáuidi kwíísá nsaaná -tatu,makúmí ɡáuidi kwíísá nsaaná -tatu,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-29-1,,yaoo1241,29,makúmí ɡávili nínsaano ní ntʃetʃe,makúmí ɡávili nínsaano ní ntʃetʃe,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-29-2,,yaoo1241,29,makúmí ɡáuidi kwíísá nsaaná ncece,makúmí ɡáuidi kwíísá nsaaná ncece,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-30-1,,yaoo1241,30,makúmí ɡátatu,makúmí ɡátatu,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-30-2,,yaoo1241,30,makúmí ɡátatu,makúmí ɡátatu,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-40-1,,yaoo1241,40,makúmí ntʃetʃe,makúmí ntʃetʃe,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-40-2,,yaoo1241,40,makúmí ncece,makúmí ncece,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-50-1,,yaoo1241,50,makúmí nsaano,makúmí nsaano,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-50-2,,yaoo1241,50,makúmí nsaano,makúmí nsaano,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-60-1,,yaoo1241,60,makúmí nsaano ní jimo,makúmí nsaano ní jimo,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-60-2,,yaoo1241,60,makúmí nsaaná dímo,makúmí nsaaná dímo,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-70-1,,yaoo1241,70,makúmí nsaano ní ɡavili,makúmí nsaano ní ɡavili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-70-2,,yaoo1241,70,makúmí nsaaná ɡáuidi,makúmí nsaaná ɡáuidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-80-1,,yaoo1241,80,makúmí nsaano ní ɡatatu,makúmí nsaano ní ɡatatu,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-80-2,,yaoo1241,80,makúmí nsaaná ɡátatu,makúmí nsaaná ɡátatu,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-90-1,,yaoo1241,90,makúmí nsaano ní ntʃetʃe,makúmí nsaano ní ntʃetʃe,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-90-2,,yaoo1241,90,makúmí nsaaná ncece,makúmí nsaaná ncece,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-100-1,,yaoo1241,100,mia moja,mia moja,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-100-2,,yaoo1241,100,dicíla,dicíla,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-200-1,,yaoo1241,200,mia mbili,mia mbili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-200-2,,yaoo1241,200,maciilá ɡáuidi,maciilá ɡáuidi,[],,[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-1000-1,,yaoo1241,1000,elfu moja,elfu moja,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-1000-2,,yaoo1241,1000,maciilá diikúmí,maciilá diikúmí,[],( 100 x 10 ),[],,False,Yao-Bantu.htm,False,,2
+yaoo1241-2000-1,,yaoo1241,2000,elfu mbili,elfu mbili,[],,[],,False,Yao-Bantu.htm,False,,1
+yaoo1241-2000-2,,yaoo1241,2000,maciilá diikúmí ɡáuidi,maciilá diikúmí ɡáuidi,[],,[],,False,Yao-Bantu.htm,False,,2

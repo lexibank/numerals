@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nucl1235-1-1,,nucl1235,1,mɛk,mɛk,[],,[],,False,Armenian.htm,False,mek,1
+nucl1235-2-1,,nucl1235,2,jɛɾˈku,jɛɾˈku,[],,[],,False,Armenian.htm,False,erku,1
+nucl1235-3-1,,nucl1235,3,jɛˈɾɛkʰ,jɛˈɾɛkʰ,[],,[],,False,Armenian.htm,False,erekh,1
+nucl1235-4-1,,nucl1235,4,t͡ʃʰoɾs,t͡ʃʰoɾs,[],,[],,False,Armenian.htm,False,chors,1
+nucl1235-5-1,,nucl1235,5,hin.g,hin.g,[],,[],,False,Armenian.htm,False,hing,1
+nucl1235-6-1,,nucl1235,6,vɛt͡sʰ,vɛt͡sʰ,[],,[],,False,Armenian.htm,False,vec,1
+nucl1235-7-1,,nucl1235,7,ˈjotʰ,ˈjotʰ,[],,[],,False,Armenian.htm,False,yoth,1
+nucl1235-7-2,,nucl1235,7,ˈjotʰə,ˈjotʰə,[],(colloquial),[],,False,Armenian.htm,False,,1
+nucl1235-8-1,,nucl1235,8,ˈutʰ,ˈutʰ,[],,[],,False,Armenian.htm,False,uth,1
+nucl1235-8-2,,nucl1235,8,ˈutʰʊ,ˈutʰʊ,[],(colloquial),[],,False,Armenian.htm,False,,1
+nucl1235-9-1,,nucl1235,9,ˈinʊ,ˈinʊ,[],,[],,False,Armenian.htm,False,inn,1
+nucl1235-10-1,,nucl1235,10,tɑs,tɑs,[],,[],,False,Armenian.htm,False,tas,1
+nucl1235-10-2,,nucl1235,10,ˈtasʊ,ˈtasʊ,[],,[],,False,Armenian.htm,False,,1
+nucl1235-11-1,,nucl1235,11,tɑsnʊˈmɛk,tɑsnʊˈmɛk,[],,[],,False,Armenian.htm,False,tasn-mek,1
+nucl1235-11-2,,nucl1235,11,tasnʊˈmɛk,tasnʊˈmɛk,[],,[],,False,Armenian.htm,False,,1
+nucl1235-12-1,,nucl1235,12,tɑsnɛɾˈku,tɑsnɛɾˈku,[],,[],,False,Armenian.htm,False,tasn-ereku,1
+nucl1235-13-1,,nucl1235,13,tɑsnɛˈɾɛkʰ,tɑsnɛˈɾɛkʰ,[],,[],,False,Armenian.htm,False,tasn-erekh,1
+nucl1235-14-1,,nucl1235,14,tɑsnʊˈt͡ʃʰoɾs,tɑsnʊˈt͡ʃʰoɾs,[],,[],,False,Armenian.htm,False,tasn-chors,1
+nucl1235-15-1,,nucl1235,15,tɑsnʊˈhing,tɑsnʊˈhing,[],,[],,False,Armenian.htm,False,tasn-hing,1
+nucl1235-16-1,,nucl1235,16,tɑsnʊˈvɛt͡sʰ,tɑsnʊˈvɛt͡sʰ,[],,[],,False,Armenian.htm,False,tasn-vec,1
+nucl1235-17-1,,nucl1235,17,tɑsnʊˈjotʰ,tɑsnʊˈjotʰ,[],,[],,False,Armenian.htm,False,tasn-yoth,1
+nucl1235-18-1,,nucl1235,18,tɑsˈnʊtʰ,tɑsˈnʊtʰ,[],,[],,False,Armenian.htm,False,tasn-uth,1
+nucl1235-19-1,,nucl1235,19,tɑsˈninʊ,tɑsˈninʊ,[],,[],,False,Armenian.htm,False,tasn-inn,1
+nucl1235-20-1,,nucl1235,20,kʰsan / kʰʊˈsɑn,kʰsan,[],,[],,False,Armenian.htm,True,khsan,1
+nucl1235-20-2,,nucl1235,20,kʰsan / kʰʊˈsɑn,kʰʊˈsɑn,[],,[],,False,Armenian.htm,True,khsan,1
+nucl1235-21-1,,nucl1235,21,ˌkʰsɑn ˈmɛk,ˌkʰsɑn ˈmɛk,[],,[],,False,Armenian.htm,False,khsan-mek,1
+nucl1235-22-1,,nucl1235,22,ˌkʰsɑn jɛɾˈku,ˌkʰsɑn jɛɾˈku,[],,[],,False,Armenian.htm,False,khsan-erku,1
+nucl1235-23-1,,nucl1235,23,ˌkʰsɑn jɛˈɾɛkʰ,ˌkʰsɑn jɛˈɾɛkʰ,[],,[],,False,Armenian.htm,False,khsan-erekh,1
+nucl1235-24-1,,nucl1235,24,ˌkʰsɑn ˈt͡ʃʰoɾs,ˌkʰsɑn ˈt͡ʃʰoɾs,[],,[],,False,Armenian.htm,False,khsan-chors,1
+nucl1235-25-1,,nucl1235,25,ˌkʰsɑn ˈhin.g,ˌkʰsɑn ˈhin.g,[],,[],,False,Armenian.htm,False,khsan-hing,1
+nucl1235-26-1,,nucl1235,26,ˌkʰsɑn ˈvɛt͡sʰ,ˌkʰsɑn ˈvɛt͡sʰ,[],,[],,False,Armenian.htm,False,khsan-vec,1
+nucl1235-27-1,,nucl1235,27,ˌkʰsɑn ˈjotʰ,ˌkʰsɑn ˈjotʰ,[],,[],,False,Armenian.htm,False,khsan-yoth,1
+nucl1235-28-1,,nucl1235,28,ˌkʰsɑn ˈutʰ,ˌkʰsɑn ˈutʰ,[],,[],,False,Armenian.htm,False,khsan-uth,1
+nucl1235-29-1,,nucl1235,29,ˌkʰsɑn ˈinʊ,ˌkʰsɑn ˈinʊ,[],,[],,False,Armenian.htm,False,khsan-inn,1
+nucl1235-30-1,,nucl1235,30,jɛɾɛˈsun,jɛɾɛˈsun,[],,[],,False,Armenian.htm,False,eresun,1
+nucl1235-40-1,,nucl1235,40,kʰɑraˈsun,kʰɑraˈsun,[],,[],,False,Armenian.htm,False,kharrasun,1
+nucl1235-50-1,,nucl1235,50,hiˈsun,hiˈsun,[],,[],,False,Armenian.htm,False,hisun,1
+nucl1235-60-1,,nucl1235,60,vɑtʰˈsun,vɑtʰˈsun,[],,[],,False,Armenian.htm,False,vatsun,1
+nucl1235-70-1,,nucl1235,70,jotʰɑnɑˈsun,jotʰɑnɑˈsun,[],,[],,False,Armenian.htm,False,yothanasun,1
+nucl1235-80-1,,nucl1235,80,utʰˈsun,utʰˈsun,[],,[],,False,Armenian.htm,False,utsun,1
+nucl1235-90-1,,nucl1235,90,innʊˈsun,innʊˈsun,[],,[],,False,Armenian.htm,False,innsun,1
+nucl1235-100-1,,nucl1235,100,hɑɾˈjuɾ,hɑɾˈjuɾ,[],,[],,False,Armenian.htm,False,haryur,1
+nucl1235-200-1,,nucl1235,200,jɛɾˈku hɑɾˈjur,jɛɾˈku hɑɾˈjur,[],,[],,False,Armenian.htm,False,erku-haryur,1
+nucl1235-1000-1,,nucl1235,1000,hɑˈzɑɾ,hɑˈzɑɾ,[],< Irianian ,[],,True,Armenian.htm,False,hazar,1
+nucl1235-2000-1,,nucl1235,2000,jɛɾˈku hɑˈzɑɾ,jɛɾˈku hɑˈzɑɾ,[],,[],,False,Armenian.htm,False,erku-hazar,1

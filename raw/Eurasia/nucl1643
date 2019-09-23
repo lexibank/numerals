@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nucl1643-1-1,,nucl1643,1,itɕi,itɕi,[],,[],,False,Japanese.htm,False,ichi,1
+nucl1643-1-2,,nucl1643,1,çitotsɯ,çitotsɯ,[],,[],,False,Japanese.htm,False,hitotsu,1
+nucl1643-2-1,,nucl1643,2,ɲi,ɲi,[],,[],,False,Japanese.htm,False,ni,1
+nucl1643-2-2,,nucl1643,2,ɸɯtɑtsɯ,ɸɯtɑtsɯ,[],,[],,False,Japanese.htm,False,futatsu,1
+nucl1643-3-1,,nucl1643,3,saɴ,saɴ,[],,[],,False,Japanese.htm,False,san,1
+nucl1643-3-2,,nucl1643,3,mitːsɯ,mitːsɯ,[],,[],,False,Japanese.htm,False,mittsu,1
+nucl1643-4-1,,nucl1643,4,ɕi,ɕi,[],,[],,False,Japanese.htm,False,shi,1
+nucl1643-4-2,,nucl1643,4,jotːsɯ,jotːsɯ,[],,[],,False,Japanese.htm,False,yottsu,1
+nucl1643-5-1,,nucl1643,5,ɡo,ɡo,[],,[],,False,Japanese.htm,False,ɡo,1
+nucl1643-5-2,,nucl1643,5,itsɯtsɯ,itsɯtsɯ,[],,[],,False,Japanese.htm,False,itsutsu,1
+nucl1643-6-1,,nucl1643,6,ɾokɯ,ɾokɯ,[],,[],,False,Japanese.htm,False,roku,1
+nucl1643-6-2,,nucl1643,6,mɯtːsɯ,mɯtːsɯ,[],,[],,False,Japanese.htm,False,muttsu,1
+nucl1643-7-1,,nucl1643,7,ɕitɕi,ɕitɕi,[],,[],,False,Japanese.htm,False,shichi,1
+nucl1643-7-2,,nucl1643,7,nɑnɑtsɯ,nɑnɑtsɯ,[],,[],,False,Japanese.htm,False,nanatsu,1
+nucl1643-8-1,,nucl1643,8,hɑtɕi,hɑtɕi,[],,[],,False,Japanese.htm,False,hachi,1
+nucl1643-8-2,,nucl1643,8,jɑtːsɯ,jɑtːsɯ,[],,[],,False,Japanese.htm,False,yattsu,1
+nucl1643-9-1,,nucl1643,9,kʲɯː,kʲɯː,[],,[],,False,Japanese.htm,False,kyuu,1
+nucl1643-9-2,,nucl1643,9,kokonotsɯ,kokonotsɯ,[],,[],,False,Japanese.htm,False,kokonotsu,1
+nucl1643-10-1,,nucl1643,10,dʑɯː,dʑɯː,[],,[],,False,Japanese.htm,False,juu,1
+nucl1643-10-2,,nucl1643,10,toː,toː,[],,[],,False,Japanese.htm,False,too,1
+nucl1643-11-1,,nucl1643,11,juuichi,juuichi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-11-2,,nucl1643,11,too amari hitotsu,too amari hitotsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-12-1,,nucl1643,12,juuni,juuni,[],,[],,False,Japanese.htm,False,,1
+nucl1643-12-2,,nucl1643,12,too amari futatsu,too amari futatsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-13-1,,nucl1643,13,juusan,juusan,[],,[],,False,Japanese.htm,False,,1
+nucl1643-13-2,,nucl1643,13,too amari mittsu,too amari mittsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-14-1,,nucl1643,14,juushi,juushi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-14-2,,nucl1643,14,too amari yottsu,too amari yottsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-15-1,,nucl1643,15,juuɡo,juuɡo,[],,[],,False,Japanese.htm,False,,1
+nucl1643-15-2,,nucl1643,15,too amari itsutsu,too amari itsutsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-16-1,,nucl1643,16,juuroku,juuroku,[],,[],,False,Japanese.htm,False,,1
+nucl1643-16-2,,nucl1643,16,too amari muttsu,too amari muttsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-17-1,,nucl1643,17,juushichi,juushichi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-17-2,,nucl1643,17,too amari nanatsu,too amari nanatsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-18-1,,nucl1643,18,juuhachi,juuhachi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-18-2,,nucl1643,18,too amari yattsu,too amari yattsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-19-1,,nucl1643,19,juukyuu,juukyuu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-19-2,,nucl1643,19,too amari kokonotsu,too amari kokonotsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-20-1,,nucl1643,20,ɲidʑɯː,ɲidʑɯː,[],,[],,False,Japanese.htm,False,nijuu,1
+nucl1643-20-2,,nucl1643,20,hɑtɑtɕi,hɑtɑtɕi,[],,[],,False,Japanese.htm,False,hatachi,1
+nucl1643-21-1,,nucl1643,21,nijuuichi,nijuuichi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-21-2,,nucl1643,21,hatachi amari hitotsu,hatachi amari hitotsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-22-1,,nucl1643,22,nijuuni,nijuuni,[],,[],,False,Japanese.htm,False,,1
+nucl1643-22-2,,nucl1643,22,hatachi amari futatsu,hatachi amari futatsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-23-1,,nucl1643,23,nijuusan,nijuusan,[],,[],,False,Japanese.htm,False,,1
+nucl1643-23-2,,nucl1643,23,hatachi amari mittsu,hatachi amari mittsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-24-1,,nucl1643,24,nijuushi,nijuushi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-24-2,,nucl1643,24,hatachi amari yottsu,hatachi amari yottsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-25-1,,nucl1643,25,nijuuɡo,nijuuɡo,[],,[],,False,Japanese.htm,False,,1
+nucl1643-25-2,,nucl1643,25,hatachi amari itsutsu,hatachi amari itsutsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-26-1,,nucl1643,26,nijuuroku,nijuuroku,[],,[],,False,Japanese.htm,False,,1
+nucl1643-26-2,,nucl1643,26,hatachi amari muttsu,hatachi amari muttsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-27-1,,nucl1643,27,nijuushichi,nijuushichi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-27-2,,nucl1643,27,hatachi amari nanatsu,hatachi amari nanatsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-28-1,,nucl1643,28,nijuuhachi,nijuuhachi,[],,[],,False,Japanese.htm,False,,1
+nucl1643-28-2,,nucl1643,28,hatachi amari yattsu,hatachi amari yattsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-29-1,,nucl1643,29,nijuuku,nijuuku,[],,[],,False,Japanese.htm,False,,1
+nucl1643-29-2,,nucl1643,29,hatachi amari kokonotsu,hatachi amari kokonotsu,[],,[],,False,Japanese.htm,False,,1
+nucl1643-30-1,,nucl1643,30,saɴdʑɯː,saɴdʑɯː,[],,[],,False,Japanese.htm,False,sanjuu,1
+nucl1643-30-2,,nucl1643,30,misodʑi,misodʑi,[],,[],,False,Japanese.htm,False,misoji,1
+nucl1643-40-1,,nucl1643,40,joɴdʑɯː,joɴdʑɯː,[],,[],,False,Japanese.htm,False,yonjuu,1
+nucl1643-40-2,,nucl1643,40,josodʑi,josodʑi,[],,[],,False,Japanese.htm,False,yosoji,1
+nucl1643-50-1,,nucl1643,50,ɡodʑɯː,ɡodʑɯː,[],,[],,False,Japanese.htm,False,ɡojuu,1
+nucl1643-50-2,,nucl1643,50,isodʑi,isodʑi,[],,[],,False,Japanese.htm,False,isoji,1
+nucl1643-60-1,,nucl1643,60,ɾokɯdʑɯː,ɾokɯdʑɯː,[],,[],,False,Japanese.htm,False,rokujuu,1
+nucl1643-60-2,,nucl1643,60,mɯsodʑi,mɯsodʑi,[],,[],,False,Japanese.htm,False,musoji,1
+nucl1643-70-1,,nucl1643,70,nɑnɑdʑɯː,nɑnɑdʑɯː,[],,[],,False,Japanese.htm,False,nanajuu,1
+nucl1643-70-2,,nucl1643,70,nanasoji,nanasoji,[],,[],,False,Japanese.htm,False,,1
+nucl1643-80-1,,nucl1643,80,hɑtɕidʑɯː,hɑtɕidʑɯː,[],,[],,False,Japanese.htm,False,hachijuu,1
+nucl1643-80-2,,nucl1643,80,jɑsodʑi,jɑsodʑi,[],,[],,False,Japanese.htm,False,yasoji,1
+nucl1643-90-1,,nucl1643,90,kʲɯːdʑɯː,kʲɯːdʑɯː,[],,[],,False,Japanese.htm,False,kyuujuu,1
+nucl1643-90-2,,nucl1643,90,kokonosoji,kokonosoji,[],,[],,False,Japanese.htm,False,,1
+nucl1643-100-1,,nucl1643,100,çɑkɯ,çɑkɯ,[],,[],,False,Japanese.htm,False,hyaku,1
+nucl1643-100-2,,nucl1643,100,momo,momo,[],,[],,False,Japanese.htm,False,momo,1
+nucl1643-200-1,,nucl1643,200,ɲiçɑkɯ,ɲiçɑkɯ,[],,[],,False,Japanese.htm,False,nihyaku,1
+nucl1643-200-2,,nucl1643,200,ɸɯtɑo,ɸɯtɑo,[],,[],,False,Japanese.htm,False,futao,1
+nucl1643-1000-1,,nucl1643,1000,seɴ,seɴ,[],,[],,False,Japanese.htm,False,sen,1
+nucl1643-1000-2,,nucl1643,1000,tɕi,tɕi,[],,[],,False,Japanese.htm,False,chi,1
+nucl1643-2000-1,,nucl1643,2000,niseɴ,niseɴ,[],,[],,False,Japanese.htm,False,nisen,1
+nucl1643-2000-2,,nucl1643,2000,ɸɯtɑtɕi,ɸɯtɑtɕi,[],,[],,False,Japanese.htm,False,futachi,1

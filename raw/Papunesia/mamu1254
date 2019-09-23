@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mamu1254-1-1,,mamu1254,1,kena,kena,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-1-2,,mamu1254,1,kenaman,kenaman,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-2-1,,mamu1254,2,luo,luo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-3-1,,mamu1254,3,moloi,moloi,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-4-1,,mamu1254,4,tul,tul,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-5-1,,mamu1254,5,lima,lima,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-6-1,,mamu1254,6,loteli kena,loteli kena,[],( 5 + 1 ),[],,False,Mamusi.htm,False,,1
+mamu1254-7-1,,mamu1254,7,loteli luo,loteli luo,[],( 5 + 2 ),[],,False,Mamusi.htm,False,,1
+mamu1254-8-1,,mamu1254,8,loteli moloi,loteli moloi,[],( 5 + 3 ),[],,False,Mamusi.htm,False,,1
+mamu1254-9-1,,mamu1254,9,loteli tul,loteli tul,[],( 5 + 4 ),[],,False,Mamusi.htm,False,,1
+mamu1254-10-1,,mamu1254,10,waili kena,waili kena,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-11-1,,mamu1254,11,waili kena kenaman,waili kena kenaman,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-12-1,,mamu1254,12,waili kena luo,waili kena luo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-13-1,,mamu1254,13,waili kena moloi,waili kena moloi,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-14-1,,mamu1254,14,waili kena tul,waili kena tul,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-15-1,,mamu1254,15,waili kena lima,waili kena lima,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-16-1,,mamu1254,16,waili kena loteli kena,waili kena loteli kena,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-17-1,,mamu1254,17,waili kena loteli luo,waili kena loteli luo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-18-1,,mamu1254,18,waili kena loteli moloi,waili kena loteli moloi,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-19-1,,mamu1254,19,waili kena loteli tul,waili kena loteli tul,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-20-1,,mamu1254,20,waili luo,waili luo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-21-1,,mamu1254,21,waili luo kenaman,waili luo kenaman,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-22-1,,mamu1254,22,waili luo luo,waili luo luo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-23-1,,mamu1254,23,waili luo moloi,waili luo moloi,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-24-1,,mamu1254,24,waili luo tul,waili luo tul,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-25-1,,mamu1254,25,waili luo lima,waili luo lima,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-26-1,,mamu1254,26,waili luo loteli kena,waili luo loteli kena,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-27-1,,mamu1254,27,waili luo loteli luo,waili luo loteli luo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-28-1,,mamu1254,28,waili luo loteli moloi,waili luo loteli moloi,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-29-1,,mamu1254,29,waili luo loteli tul,waili luo loteli tul,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-30-1,,mamu1254,30,waili moloi,waili moloi,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-40-1,,mamu1254,40,waili tul,waili tul,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-50-1,,mamu1254,50,waili lima,waili lima,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-60-1,,mamu1254,60,waili loteli kena,waili loteli kena,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-70-1,,mamu1254,70,waili loteli luo,waili loteli luo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-80-1,,mamu1254,80,waili loteli moloi,waili loteli moloi,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-90-1,,mamu1254,90,waili loteli tul,waili loteli tul,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-100-1,,mamu1254,100,kana pilo,kana pilo,[],,[],,False,Mamusi.htm,False,,1
+mamu1254-200-1,,mamu1254,200,kana pilo luo,kana pilo luo,[],,[],,False,Mamusi.htm,False,,1

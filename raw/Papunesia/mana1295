@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mana1295-1-1,,mana1295,1,teke,teke,[],,[],,False,Manam.htm,False,,1
+mana1295-1-2,,mana1295,1,teʔe,teʔe,[],,[],,False,Manam.htm,False,,1
+mana1295-2-1,,mana1295,2,rua,rua,[],,[],,False,Manam.htm,False,,1
+mana1295-3-1,,mana1295,3,toli,toli,[],,[],,False,Manam.htm,False,,1
+mana1295-4-1,,mana1295,4,wati,wati,[],,[],,False,Manam.htm,False,,1
+mana1295-5-1,,mana1295,5,lima,lima,[],(litː 'hand'̠),[],,False,Manam.htm,False,,1
+mana1295-6-1,,mana1295,6,lima teʔe,lima teʔe,[],( 5 + 1 ),[],,False,Manam.htm,False,,1
+mana1295-7-1,,mana1295,7,lima rua,lima rua,[],( 5 + 2 ),[],,False,Manam.htm,False,,1
+mana1295-8-1,,mana1295,8,lima toli,lima toli,[],( 5 + 3 ),[],,False,Manam.htm,False,,1
+mana1295-9-1,,mana1295,9,lima wati,lima wati,[],( 5 + 4 ),[],,False,Manam.htm,False,,1
+mana1295-10-1,,mana1295,10,ʔulemʷa,ʔulemʷa,[],,[],,False,Manam.htm,False,,1
+mana1295-11-1,,mana1295,11,ʔulemʷa a-be teʔe,ʔulemʷa a-be teʔe,[],,[],,False,Manam.htm,False,,1
+mana1295-12-1,,mana1295,12,ʔulemʷa a-be rua,ʔulemʷa a-be rua,[],,[],,False,Manam.htm,False,,1
+mana1295-13-1,,mana1295,13,ʔulemʷa a-be toli,ʔulemʷa a-be toli,[],,[],,False,Manam.htm,False,,1
+mana1295-14-1,,mana1295,14,ʔulemʷa a-be wati,ʔulemʷa a-be wati,[],,[],,False,Manam.htm,False,,1
+mana1295-15-1,,mana1295,15,ʔulemʷa a-be lima,ʔulemʷa a-be lima,[],,[],,False,Manam.htm,False,,1
+mana1295-16-1,,mana1295,16,ʔulemʷa a-be lima teʔe,ʔulemʷa a-be lima teʔe,[],,[],,False,Manam.htm,False,,1
+mana1295-17-1,,mana1295,17,ʔulemʷa a-be lima rua,ʔulemʷa a-be lima rua,[],,[],,False,Manam.htm,False,,1
+mana1295-18-1,,mana1295,18,ʔulemʷa a-be lima toli,ʔulemʷa a-be lima toli,[],,[],,False,Manam.htm,False,,1
+mana1295-19-1,,mana1295,19,ʔulemʷa a-be lima wati,ʔulemʷa a-be lima wati,[],,[],,False,Manam.htm,False,,1
+mana1295-20-1,,mana1295,20,ʔulemʷa a-be rua,ʔulemʷa a-be rua,[],,[],,False,Manam.htm,False,,1
+mana1295-20-2,,mana1295,20,tamoata teʔe,tamoata teʔe,[],,[],,False,Manam.htm,False,,1
+mana1295-21-1,,mana1295,21,ʔulemʷa rua a-be teʔe,ʔulemʷa rua a-be teʔe,[],,[],,False,Manam.htm,False,,1
+mana1295-22-1,,mana1295,22,ʔulemʷa rua a-be rua,ʔulemʷa rua a-be rua,[],,[],,False,Manam.htm,False,,1
+mana1295-23-1,,mana1295,23,ʔulemʷa rua a-be toli,ʔulemʷa rua a-be toli,[],,[],,False,Manam.htm,False,,1
+mana1295-24-1,,mana1295,24,ʔulemʷa rua a-be wati,ʔulemʷa rua a-be wati,[],,[],,False,Manam.htm,False,,1
+mana1295-25-1,,mana1295,25,ʔulemʷa rua a-be lima,ʔulemʷa rua a-be lima,[],,[],,False,Manam.htm,False,,1
+mana1295-26-1,,mana1295,26,ʔulemʷa rua a-be lima teʔe,ʔulemʷa rua a-be lima teʔe,[],,[],,False,Manam.htm,False,,1
+mana1295-27-1,,mana1295,27,ʔulemʷa rua a-be lima rua,ʔulemʷa rua a-be lima rua,[],,[],,False,Manam.htm,False,,1
+mana1295-28-1,,mana1295,28,ʔulemʷa rua a-be lima toli,ʔulemʷa rua a-be lima toli,[],,[],,False,Manam.htm,False,,1
+mana1295-29-1,,mana1295,29,ʔulemʷa rua a-be lima wati,ʔulemʷa rua a-be lima wati,[],,[],,False,Manam.htm,False,,1
+mana1295-30-1,,mana1295,30,ʔulemʷa toli,ʔulemʷa toli,[],,[],,False,Manam.htm,False,,1
+mana1295-40-1,,mana1295,40,ʔulemʷa wati,ʔulemʷa wati,[],,[],,False,Manam.htm,False,,1
+mana1295-40-2,,mana1295,40,tamoata rua,tamoata rua,[],"(""man two"")",[],,False,Manam.htm,False,,1
+mana1295-50-1,,mana1295,50,ʔulemʷa lima,ʔulemʷa lima,[],,[],,False,Manam.htm,False,,1
+mana1295-60-1,,mana1295,60,ʔulemʷa lima teʔe,ʔulemʷa lima teʔe,[],,[],,False,Manam.htm,False,,1
+mana1295-60-2,,mana1295,60,tamoata toli,tamoata toli,[],,[],,False,Manam.htm,False,,1
+mana1295-70-1,,mana1295,70,ʔulemʷa lima rua,ʔulemʷa lima rua,[],,[],,False,Manam.htm,False,,1
+mana1295-80-1,,mana1295,80,ʔulemʷa lima toli,ʔulemʷa lima toli,[],,[],,False,Manam.htm,False,,1
+mana1295-90-1,,mana1295,90,ʔulemʷa lima wati,ʔulemʷa lima wati,[],,[],,False,Manam.htm,False,,1
+mana1295-100-1,,mana1295,100,tamoata lima,tamoata lima,[],"(""man five"")",[],,False,Manam.htm,False,,1
+mana1295-1000-1,,mana1295,1000,tausen teʔe,tausen teʔe,[],,[],,False,Manam.htm,False,,1

@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+saka1289-1-1,,saka1289,1,tei,tei,[],,[],,False,Sakao.htm,False,,1
+saka1289-1-2,,saka1289,1,te tkyn,te tkyn,[],,[],,False,Sakao.htm,False,,2
+saka1289-2-1,,saka1289,2,ru,ru,[],,[],,False,Sakao.htm,False,,1
+saka1289-2-2,,saka1289,2,ru,ru,[],,[],,False,Sakao.htm,False,,2
+saka1289-3-1,,saka1289,3,tël,tël,[],,[],,False,Sakao.htm,False,,1
+saka1289-3-2,,saka1289,3,ë = IPA [ɤ] ??,ë = IPA [ɤ] ??,[],,[],,False,Sakao.htm,True,,1
+saka1289-3-3,,saka1289,3,ðœl,ðœl,[],,[],,False,Sakao.htm,False,,2
+saka1289-4-1,,saka1289,4,iet = IPA,iet = IPA,[],[iɛt]? ?,[],,False,Sakao.htm,True,,1
+saka1289-4-2,,saka1289,4,iɛð,iɛð,[],,[],,False,Sakao.htm,False,,2
+saka1289-5-1,,saka1289,5,kəlön = kəløn ?,kəlön = kəløn ?,[],( < lima < hand ),[],,False,Sakao.htm,True,,1
+saka1289-5-2,,saka1289,5,løn,løn,[],( < lima < hand ),[],,False,Sakao.htm,False,,2
+saka1289-6-1,,saka1289,6,hora =,hora =,[],( 5 + 1 ) ??,[],,False,Sakao.htm,False,,1
+saka1289-6-2,,saka1289,6,lønara,lønara,[],( 5 + 1 ),[],,False,Sakao.htm,False,,2
+saka1289-7-1,,saka1289,7,karu =,karu =,[],( 5 + 2 ) ??,[],,False,Sakao.htm,False,,1
+saka1289-7-2,,saka1289,7,lønɛrɛru,lønɛrɛru,[],( 5 + 2 ),[],,False,Sakao.htm,False,,2
+saka1289-8-1,,saka1289,8,ratël =,ratël =,[],( 5 + 3 ) ??,[],,False,Sakao.htm,False,,1
+saka1289-8-2,,saka1289,8,lønɛrɛðœl,lønɛrɛðœl,[],( 5 + 3 ),[],,False,Sakao.htm,False,,2
+saka1289-9-1,,saka1289,9,sacël c=IPA [c] or [t͡s] ?,sacël c=IPA [c] or [t͡s] ?,[],( 5+4 ) ??,[],,False,Sakao.htm,True,,1
+saka1289-9-2,,saka1289,9,lønɛrɛpɛð,lønɛrɛpɛð,[],( 5 + 4 ),[],,False,Sakao.htm,False,,2
+saka1289-10-1,,saka1289,10,möltei van mœɣœlte,möltei van mœɣœlte,[],,[],,False,Sakao.htm,False,,1
+saka1289-10-2,,saka1289,10,mœɣœlte,mœɣœlte,[],,[],,False,Sakao.htm,False,,2
+saka1289-11-1,,saka1289,11,möltei van tetkün,möltei van tetkün,[],(ü = IPA [y] ??),[],,False,Sakao.htm,False,,1
+saka1289-11-2,,saka1289,11,mœɣœlte βan te tkyn,mœɣœlte βan te tkyn,[],,[],,False,Sakao.htm,False,,2
+saka1289-12-1,,saka1289,12,möltei van ru v = v or β ??,möltei van ru v = v or β ??,[],,[],,False,Sakao.htm,True,,1
+saka1289-12-2,,saka1289,12,mœɣœlte βan ru,mœɣœlte βan ru,[],,[],,False,Sakao.htm,False,,2
+saka1289-13-1,,saka1289,13,möltei van thël,möltei van thël,[],(th = IPA [θ or ð]?),[],,False,Sakao.htm,False,,1
+saka1289-13-2,,saka1289,13,mœɣœlte βan ðœl,mœɣœlte βan ðœl,[],,[],,False,Sakao.htm,False,,2
+saka1289-14-1,,saka1289,14,möltei van ieth,möltei van ieth,[],,[],,False,Sakao.htm,False,,1
+saka1289-14-2,,saka1289,14,mœɣœlte βan iɛð,mœɣœlte βan iɛð,[],,[],,False,Sakao.htm,False,,2
+saka1289-15-1,,saka1289,15,möltei van lön,möltei van lön,[],,[],,False,Sakao.htm,False,,1
+saka1289-15-2,,saka1289,15,mœɣœlte βan løn,mœɣœlte βan løn,[],,[],,False,Sakao.htm,False,,2
+saka1289-16-1,,saka1289,16,möltei van lönëra,möltei van lönëra,[],,[],,False,Sakao.htm,False,,1
+saka1289-16-2,,saka1289,16,mœɣœlte βan lønara,mœɣœlte βan lønara,[],,[],,False,Sakao.htm,False,,2
+saka1289-17-1,,saka1289,17,möltei van lairu,möltei van lairu,[],,[],,False,Sakao.htm,False,,1
+saka1289-17-2,,saka1289,17,mœɣœlte βan lønɛrɛru,mœɣœlte βan lønɛrɛru,[],,[],,False,Sakao.htm,False,,2
+saka1289-18-1,,saka1289,18,möltei van raitël,möltei van raitël,[],,[],,False,Sakao.htm,False,,1
+saka1289-18-2,,saka1289,18,mœɣœlte βan lønɛrɛðœl,mœɣœlte βan lønɛrɛðœl,[],,[],,False,Sakao.htm,False,,2
+saka1289-19-1,,saka1289,19,raipeθ ?,raipeθ ?,[],,[],,False,Sakao.htm,True,möltei van raipeth,1
+saka1289-19-2,,saka1289,19,mœɣœlte βan lønɛrɛpɛð,mœɣœlte βan lønɛrɛpɛð,[],,[],,False,Sakao.htm,False,,2
+saka1289-20-1,,saka1289,20,mølru ??,mølru ??,[],,[],,False,Sakao.htm,True,mölru,1
+saka1289-20-2,,saka1289,20,mœɣœlru,mœɣœlru,[],,[],,False,Sakao.htm,False,,2
+saka1289-21-1,,saka1289,21,mölru van tetkün,mölru van tetkün,[],,[],,False,Sakao.htm,False,,1
+saka1289-21-2,,saka1289,21,mœɣœlru βan te tkyn,mœɣœlru βan te tkyn,[],,[],,False,Sakao.htm,False,,2
+saka1289-22-1,,saka1289,22,mölru van ru,mölru van ru,[],,[],,False,Sakao.htm,False,,1
+saka1289-22-2,,saka1289,22,mœɣœlru βan ru,mœɣœlru βan ru,[],,[],,False,Sakao.htm,False,,2
+saka1289-23-1,,saka1289,23,mölru van theël,mölru van theël,[],,[],,False,Sakao.htm,False,,1
+saka1289-23-2,,saka1289,23,mœɣœlru βan ðœl,mœɣœlru βan ðœl,[],,[],,False,Sakao.htm,False,,2
+saka1289-24-1,,saka1289,24,mölru van ieth,mölru van ieth,[],,[],,False,Sakao.htm,False,,1
+saka1289-24-2,,saka1289,24,mœɣœlru βan iɛð,mœɣœlru βan iɛð,[],,[],,False,Sakao.htm,False,,2
+saka1289-25-1,,saka1289,25,mölru van lön,mölru van lön,[],,[],,False,Sakao.htm,False,,1
+saka1289-25-2,,saka1289,25,mœɣœlru βan løn,mœɣœlru βan løn,[],,[],,False,Sakao.htm,False,,2
+saka1289-26-1,,saka1289,26,mölru van lönëra,mölru van lönëra,[],,[],,False,Sakao.htm,False,,1
+saka1289-26-2,,saka1289,26,mœɣœlru βan lønara,mœɣœlru βan lønara,[],,[],,False,Sakao.htm,False,,2
+saka1289-27-1,,saka1289,27,mölru van lairu,mölru van lairu,[],,[],,False,Sakao.htm,False,,1
+saka1289-27-2,,saka1289,27,mœɣœlru βan lønɛrɛru,mœɣœlru βan lønɛrɛru,[],,[],,False,Sakao.htm,False,,2
+saka1289-28-1,,saka1289,28,mölru van raitël,mölru van raitël,[],,[],,False,Sakao.htm,False,,1
+saka1289-28-2,,saka1289,28,mœɣœlru βan lønɛrɛðœl,mœɣœlru βan lønɛrɛðœl,[],,[],,False,Sakao.htm,False,,2
+saka1289-29-1,,saka1289,29,mölru van raipeth,mölru van raipeth,[],,[],,False,Sakao.htm,False,,1
+saka1289-29-2,,saka1289,29,mœɣœlru βan lønɛrɛpɛð,mœɣœlru βan lønɛrɛpɛð,[],,[],,False,Sakao.htm,False,,2
+saka1289-30-1,,saka1289,30,mölthël,mölthël,[],,[],,False,Sakao.htm,False,,1
+saka1289-30-2,,saka1289,30,mœɣœlðœl,mœɣœlðœl,[],,[],,False,Sakao.htm,False,,2
+saka1289-40-1,,saka1289,40,cëlieth,cëlieth,[],,[],,False,Sakao.htm,False,,1
+saka1289-40-2,,saka1289,40,mœɣœliɛð,mœɣœliɛð,[],,[],,False,Sakao.htm,False,,2
+saka1289-50-1,,saka1289,50,cëlon,cëlon,[],,[],,False,Sakao.htm,False,,1
+saka1289-50-2,,saka1289,50,mœɣœløn,mœɣœløn,[],,[],,False,Sakao.htm,False,,2
+saka1289-60-1,,saka1289,60,??,??,[],,[],,False,Sakao.htm,True,,1
+saka1289-60-2,,saka1289,60,mœɣœlønara,mœɣœlønara,[],,[],,False,Sakao.htm,False,,2
+saka1289-70-1,,saka1289,70,??,??,[],,[],,False,Sakao.htm,True,,1
+saka1289-70-2,,saka1289,70,mœɣœlønɛrɛru,mœɣœlønɛrɛru,[],,[],,False,Sakao.htm,False,,2
+saka1289-80-1,,saka1289,80,??,??,[],,[],,False,Sakao.htm,True,,1
+saka1289-80-2,,saka1289,80,mœɣœlønɛrɛðœl,mœɣœlønɛrɛðœl,[],,[],,False,Sakao.htm,False,,2
+saka1289-90-1,,saka1289,90,??,??,[],,[],,False,Sakao.htm,True,,1
+saka1289-90-2,,saka1289,90,mœɣœlønɛrɛpɛð,mœɣœlønɛrɛpɛð,[],,[],,False,Sakao.htm,False,,2
+saka1289-100-1,,saka1289,100,mteire,mteire,[],(r = IPA [r] or [ɾ] ??),[],,False,Sakao.htm,False,,1
+saka1289-100-2,,saka1289,100,meter,meter,[],,[],,False,Sakao.htm,False,,2
+saka1289-200-1,,saka1289,200,??,??,[],,[],,False,Sakao.htm,True,,1
+saka1289-200-2,,saka1289,200,meter daru,meter daru,[],,[],,False,Sakao.htm,False,,2
+saka1289-1000-1,,saka1289,1000,nën,nën,[],,[],,False,Sakao.htm,False,,1
+saka1289-1000-2,,saka1289,1000,mœn,mœn,[],,[],,False,Sakao.htm,False,,2
+saka1289-2000-1,,saka1289,2000,nɤn θa løn ?),nɤn θa løn ?),[],,[],,False,Sakao.htm,True,?? ( 5000. nën tha lön,1
+saka1289-2000-2,,saka1289,2000,mœn daru,mœn daru,[],,[],,False,Sakao.htm,False,,2

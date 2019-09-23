@@ -1,0 +1,87 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+otuh1238-1-1,,otuh1238,1,ábótè,ábótè,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-1-2,,otuh1238,1,ʌ̀bóíté,ʌ̀bóíté,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-1-3,,otuh1238,1,âbotye,âbotye,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-2-1,,otuh1238,2,áréhè,áréhè,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-2-2,,otuh1238,2,ʌ̀ríxèy,ʌ̀ríxèy,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-2-3,,otuh1238,2,árrexai,árrexai,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-3-1,,otuh1238,3,húníhe,húníhe,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-3-2,,otuh1238,3,xúnixòì,xúnixòì,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-3-3,,otuh1238,3,xunixoi,xunixoi,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-4-1,,otuh1238,4,áŋwàn,áŋwàn,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-4-2,,otuh1238,4,aŋwân,aŋwân,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-5-1,,otuh1238,5,mìyyàt,mìyyàt,[],(litː < 'hand'),[],,False,Lotuho.htm,False,,1
+otuh1238-5-2,,otuh1238,5,míèt,míèt,[],(< 'hand'),[],,False,Lotuho.htm,False,,2
+otuh1238-6-1,,otuh1238,6,ɪ́lle,ɪ́lle,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-6-2,,otuh1238,6,ɪ́llɛ́,ɪ́llɛ́,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-7-1,,otuh1238,7,hàtmɪk,hàtmɪk,[],( 5 + 2 ),[],,False,Lotuho.htm,False,,1
+otuh1238-7-2,,otuh1238,7,xáttàrɪ̀k,xáttàrɪ̀k,[],( 5 + 2 ),[],,False,Lotuho.htm,False,,2
+otuh1238-8-1,,otuh1238,8,hùtohunɪk,hùtohunɪk,[],( 5 + 3 ),[],,False,Lotuho.htm,False,,1
+otuh1238-8-2,,otuh1238,8,xóttóxúnìk,xóttóxúnìk,[],( 5 + 3 ),[],,False,Lotuho.htm,False,,2
+otuh1238-9-1,,otuh1238,9,hùtoŋwan,hùtoŋwan,[],( 5 + 4 ),[],,False,Lotuho.htm,False,,1
+otuh1238-9-2,,otuh1238,9,xɔ́ttɔ́ŋwàn,xɔ́ttɔ́ŋwàn,[],( 5 + 4 ),[],,False,Lotuho.htm,False,,2
+otuh1238-10-1,,otuh1238,10,tòmmòn,tòmmòn,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-10-2,,otuh1238,10,tɔ́mɔ̀n,tɔ́mɔ̀n,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-11-1,,otuh1238,11,tòmmòn xʼâbotye,tòmmòn xʼâbotye,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-11-2,,otuh1238,11,tɔ́mɔ̀n xʼâbotye,tɔ́mɔ̀n xʼâbotye,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-12-1,,otuh1238,12,tòmmòn xʼ árrexai,tòmmòn xʼ árrexai,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-12-2,,otuh1238,12,tɔ́mɔ̀n xʼ árrexai,tɔ́mɔ̀n xʼ árrexai,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-13-1,,otuh1238,13,tòmmòn xo xunixoi,tòmmòn xo xunixoi,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-13-2,,otuh1238,13,tɔ́mɔ̀n xo xunixoi,tɔ́mɔ̀n xo xunixoi,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-14-1,,otuh1238,14,tòmmòn xʼaŋwân,tòmmòn xʼaŋwân,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-14-2,,otuh1238,14,tɔ́mɔ̀n xʼaŋwân,tɔ́mɔ̀n xʼaŋwân,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-15-1,,otuh1238,15,tòmmòn xo míèt,tòmmòn xo míèt,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-15-2,,otuh1238,15,tɔ́mɔ̀n xo míèt,tɔ́mɔ̀n xo míèt,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-16-1,,otuh1238,16,tòmmòn xɔ ɪ́llɛ,tòmmòn xɔ ɪ́llɛ,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-16-2,,otuh1238,16,tɔ́mɔ̀n xɔ ɪ́llɛ,tɔ́mɔ̀n xɔ ɪ́llɛ,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-17-1,,otuh1238,17,tòmmòn xɔ xáttàrɪ̀k,tòmmòn xɔ xáttàrɪ̀k,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-17-2,,otuh1238,17,tɔ́mɔ̀n xɔ xáttàrɪ̀k,tɔ́mɔ̀n xɔ xáttàrɪ̀k,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-18-1,,otuh1238,18,tòmmòn xɔ xóttóxúnìk,tòmmòn xɔ xóttóxúnìk,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-18-2,,otuh1238,18,tɔ́mɔ̀n xɔ xóttóxúnìk,tɔ́mɔ̀n xɔ xóttóxúnìk,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-19-1,,otuh1238,19,tòmmòn xɔ xɔ́ttɔ́ŋwàn,tòmmòn xɔ xɔ́ttɔ́ŋwàn,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-19-2,,otuh1238,19,tɔ́mɔ̀n xɔ xɔ́ttɔ́ŋwàn,tɔ́mɔ̀n xɔ xɔ́ttɔ́ŋwàn,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-20-1,,otuh1238,20,atɔmwənə ârrexai,atɔmwənə ârrexai,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-20-2,,otuh1238,20,atɔmwənə ârrexai,atɔmwənə ârrexai,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-21-1,,otuh1238,21,atɔmwana ârrexai xʼâbotye,atɔmwana ârrexai xʼâbotye,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-21-2,,otuh1238,21,atɔmwana ârrexai xʼâbotye,atɔmwana ârrexai xʼâbotye,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-22-1,,otuh1238,22,atɔmwana ârrexai xʼ árrexai,atɔmwana ârrexai xʼ árrexai,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-22-2,,otuh1238,22,atɔmwana ârrexai xʼ árrexai,atɔmwana ârrexai xʼ árrexai,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-23-1,,otuh1238,23,atɔmwana ârrexai xo xunixoi,atɔmwana ârrexai xo xunixoi,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-23-2,,otuh1238,23,atɔmwana ârrexai xo xunixoi,atɔmwana ârrexai xo xunixoi,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-24-1,,otuh1238,24,atɔmwana ârrexai xʼaŋwân,atɔmwana ârrexai xʼaŋwân,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-24-2,,otuh1238,24,atɔmwana ârrexai xʼaŋwân,atɔmwana ârrexai xʼaŋwân,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-25-1,,otuh1238,25,atɔmwana ârrexai xo míèt,atɔmwana ârrexai xo míèt,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-25-2,,otuh1238,25,atɔmwana ârrexai xo míèt,atɔmwana ârrexai xo míèt,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-26-1,,otuh1238,26,atɔmwana ârrexai xɔ ɪ́llɛ,atɔmwana ârrexai xɔ ɪ́llɛ,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-26-2,,otuh1238,26,atɔmwana ârrexai xɔ ɪ́llɛ,atɔmwana ârrexai xɔ ɪ́llɛ,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-27-1,,otuh1238,27,atɔmwana ârrexai xɔ xáttàrɪ̀k,atɔmwana ârrexai xɔ xáttàrɪ̀k,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-27-2,,otuh1238,27,atɔmwana ârrexai xɔ xáttàrɪ̀k,atɔmwana ârrexai xɔ xáttàrɪ̀k,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-28-1,,otuh1238,28,atɔmwana ârrexai xóttóxúnìk,atɔmwana ârrexai xóttóxúnìk,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-28-2,,otuh1238,28,atɔmwana ârrexai xóttóxúnìk,atɔmwana ârrexai xóttóxúnìk,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-29-1,,otuh1238,29,atɔmwana ârrexai xɔ xɔ́ttɔ́ŋwàn,atɔmwana ârrexai xɔ xɔ́ttɔ́ŋwàn,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-29-2,,otuh1238,29,atɔmwana ârrexai xɔ xɔ́ttɔ́ŋwàn,atɔmwana ârrexai xɔ xɔ́ttɔ́ŋwàn,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-30-1,,otuh1238,30,atɔmwana xunixoi,atɔmwana xunixoi,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-30-2,,otuh1238,30,atɔmwana xunixoi,atɔmwana xunixoi,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-40-1,,otuh1238,40,atɔmwana aŋwân,atɔmwana aŋwân,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-40-2,,otuh1238,40,atɔmwana aŋwân,atɔmwana aŋwân,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-50-1,,otuh1238,50,atɔmwana míèt,atɔmwana míèt,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-50-2,,otuh1238,50,atɔmwana míèt,atɔmwana míèt,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-60-1,,otuh1238,60,atɔmwana ɪ́llɛ́,atɔmwana ɪ́llɛ́,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-60-2,,otuh1238,60,atɔmwana ɪ́llɛ́,atɔmwana ɪ́llɛ́,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-70-1,,otuh1238,70,atɔmwana xáttàrɪ̀k,atɔmwana xáttàrɪ̀k,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-70-2,,otuh1238,70,atɔmwana xáttàrɪ̀k,atɔmwana xáttàrɪ̀k,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-80-1,,otuh1238,80,atɔmwana xóttóxúnìk,atɔmwana xóttóxúnìk,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-80-2,,otuh1238,80,atɔmwana xóttóxúnìk,atɔmwana xóttóxúnìk,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-90-1,,otuh1238,90,atɔmwana xɔ́ttɔ́ŋwàn,atɔmwana xɔ́ttɔ́ŋwàn,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-90-2,,otuh1238,90,atɔmwana xɔ́ttɔ́ŋwàn,atɔmwana xɔ́ttɔ́ŋwàn,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-100-1,,otuh1238,100,ɛsssɪxa âbotye,ɛsssɪxa âbotye,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-100-2,,otuh1238,100,atɔmwana tɔ́mɔ̀n,atɔmwana tɔ́mɔ̀n,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-100-3,,otuh1238,100,ɛsssɪxa âbotye,ɛsssɪxa âbotye,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-100-4,,otuh1238,100,atɔmwana tɔ́mɔ̀n,atɔmwana tɔ́mɔ̀n,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-200-1,,otuh1238,200,ɛsssɪxa árrexai,ɛsssɪxa árrexai,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-200-2,,otuh1238,200,ɛsssɪxa árrexai,ɛsssɪxa árrexai,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-1000-1,,otuh1238,1000,ɛsssɪxa tɔ́mɔ̀n,ɛsssɪxa tɔ́mɔ̀n,[],,[],,False,Lotuho.htm,False,,1
+otuh1238-1000-2,,otuh1238,1000,táusand,táusand,[],< English ,[],,True,Lotuho.htm,False,,1
+otuh1238-1000-3,,otuh1238,1000,ɛsssɪxa tɔ́mɔ̀n,ɛsssɪxa tɔ́mɔ̀n,[],,[],,False,Lotuho.htm,False,,2
+otuh1238-1000-4,,otuh1238,1000,táusand,táusand,[],< English ,[],,True,Lotuho.htm,False,,2
+otuh1238-2000-1,,otuh1238,2000,???,???,[],,[],,False,Lotuho.htm,True,,1

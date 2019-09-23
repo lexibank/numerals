@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+vile1241-1-1,,vile1241,1,alapea,alapea,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-2-1,,vile1241,2,tamop,tamop,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-3-1,,vile1241,3,tamlip,tamlip,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-4-1,,vile1241,4,lokwep,lokwep,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-5-1,,vile1241,5,lokwep moitle alapea,lokwep moitle alapea,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-6-1,,vile1241,6,lokwep moitle tamop,lokwep moitle tamop,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-7-1,,vile1241,7,lokwep moitle tamlip,lokwep moitle tamlip,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-8-1,,vile1241,8,lokwep moitle lokwep,lokwep moitle lokwep,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-9-1,,vile1241,9,lokwep moitle lokwep alapea,lokwep moitle lokwep alapea,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-10-1,,vile1241,10,is yawon-p,is yawon-p,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-11-1,,vile1241,11,is yawonp moitle alapea,is yawonp moitle alapea,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-12-1,,vile1241,12,is yawonp moitle tamop,is yawonp moitle tamop,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-13-1,,vile1241,13,is yawonp moitle tamlip,is yawonp moitle tamlip,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-20-1,,vile1241,20,tamop is yawonp,tamop is yawonp,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-30-1,,vile1241,30,tamlip is yamonp,tamlip is yamonp,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-40-1,,vile1241,40,lokwep is yamonp,lokwep is yamonp,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-80-1,,vile1241,80,is yamonp moitle tekep tamop,is yamonp moitle tekep tamop,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-200-1,,vile1241,200,is yamonp moitle tekep tamop,is yamonp moitle tekep tamop,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-300-1,,vile1241,300,is yamonp moitle tekep tamlip,is yamonp moitle tekep tamlip,[],,[],,False,Lule-Vilela.htm,False,,1
+vile1241-1000-1,,vile1241,1000,is yamonp moitle tekep is yamonp,is yamonp moitle tekep is yamonp,[],,[],,False,Lule-Vilela.htm,False,,1

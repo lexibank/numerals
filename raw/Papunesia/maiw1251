@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+maiw1251-1-1,,maiw1251,1,desirom,desirom,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-2-1,,maiw1251,2,duwam,duwam,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-3-1,,maiw1251,3,duwamdesi,duwamdesi,[],('two plus one'),[],,False,Maiwa.htm,False,,1
+maiw1251-4-1,,maiw1251,4,duwam ɡe duwam,duwam ɡe duwam,[],('two plus two'),[],,False,Maiwa.htm,False,,1
+maiw1251-5-1,,maiw1251,5,nanin ɡambenit,nanin ɡambenit,[],"(litː 'hand half', 'nanin' = hand)",[],,False,Maiwa.htm,False,,1
+maiw1251-6-1,,maiw1251,6,nanin ɡamben desirom,nanin ɡamben desirom,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-7-1,,maiw1251,7,nanin ɡamben duwam,nanin ɡamben duwam,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-8-1,,maiw1251,8,nanin ɡamben duwamdesi,nanin ɡamben duwamdesi,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-9-1,,maiw1251,9,nanin ɡamben duwam ɡe duwam,nanin ɡamben duwam ɡe duwam,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-10-1,,maiw1251,10,naninwanit,naninwanit,[],(litː 'both hands'),[],,False,Maiwa.htm,False,,1
+maiw1251-11-1,,maiw1251,11,naninwanit desirom,naninwanit desirom,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-12-1,,maiw1251,12,naninwanit duwam,naninwanit duwam,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-13-1,,maiw1251,13,naninwanit duwamdesi,naninwanit duwamdesi,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-14-1,,maiw1251,14,naninwanit duwam ɡe duwam,naninwanit duwam ɡe duwam,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-15-1,,maiw1251,15,naninwanit nanin ɡambenit,naninwanit nanin ɡambenit,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-16-1,,maiw1251,16,naninwanit nanin ɡambenit desirom,naninwanit nanin ɡambenit desirom,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-17-1,,maiw1251,17,naninwanit nanin ɡambenit duwam,naninwanit nanin ɡambenit duwam,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-18-1,,maiw1251,18,naninwanit nanin ɡambenit duwamdesi,naninwanit nanin ɡambenit duwamdesi,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-19-1,,maiw1251,19,naninwanit nanin ɡambenit duwam ɡe duwam,naninwanit nanin ɡambenit duwam ɡe duwam,[],,[],,False,Maiwa.htm,False,,1
+maiw1251-20-1,,maiw1251,20,apan desirom,apan desirom,[],(litː 'one man = 20 fingers'),[],,False,Maiwa.htm,False,,1

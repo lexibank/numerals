@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+paam1238-1-1,,paam1238,1,taːi,taːi,[],,[],,False,Paamese.htm,False,,1
+paam1238-2-1,,paam1238,2,elu,elu,[],,[],,False,Paamese.htm,False,,1
+paam1238-3-1,,paam1238,3,etel,etel,[],,[],,False,Paamese.htm,False,,1
+paam1238-4-1,,paam1238,4,ehat,ehat,[],,[],,False,Paamese.htm,False,,1
+paam1238-5-1,,paam1238,5,elim,elim,[],,[],,False,Paamese.htm,False,,1
+paam1238-6-1,,paam1238,6,lahitaːi,lahitaːi,[],( 5 + 1 ),[],,False,Paamese.htm,False,,1
+paam1238-7-1,,paam1238,7,laulu,laulu,[],( 5 + 2 ),[],,False,Paamese.htm,False,,1
+paam1238-8-1,,paam1238,8,lautel,lautel,[],( 5 + 3 ),[],,False,Paamese.htm,False,,1
+paam1238-9-1,,paam1238,9,lauhat,lauhat,[],( 5 + 4 ),[],,False,Paamese.htm,False,,1
+paam1238-10-1,,paam1238,10,haːlualim,haːlualim,[],( 5 + 5 ),[],,False,Paamese.htm,False,,1
+paam1238-11-1,,paam1238,11,taːi dan taːi,taːi dan taːi,[],,[],,False,Paamese.htm,False,,1
+paam1238-12-1,,paam1238,12,taːi dan elu,taːi dan elu,[],,[],,False,Paamese.htm,False,,1
+paam1238-13-1,,paam1238,13,taːi dan etel,taːi dan etel,[],,[],,False,Paamese.htm,False,,1
+paam1238-14-1,,paam1238,14,taːi dan ehat,taːi dan ehat,[],,[],,False,Paamese.htm,False,,1
+paam1238-15-1,,paam1238,15,taːi dan elim,taːi dan elim,[],,[],,False,Paamese.htm,False,,1
+paam1238-16-1,,paam1238,16,taːi dan lahitaːi,taːi dan lahitaːi,[],,[],,False,Paamese.htm,False,,1
+paam1238-17-1,,paam1238,17,taːi dan laulu,taːi dan laulu,[],,[],,False,Paamese.htm,False,,1
+paam1238-18-1,,paam1238,18,taːi dan lautel,taːi dan lautel,[],,[],,False,Paamese.htm,False,,1
+paam1238-19-1,,paam1238,19,taːi dan lauhat,taːi dan lauhat,[],,[],,False,Paamese.htm,False,,1
+paam1238-20-1,,paam1238,20,hanu mau,hanu mau,[],,[],,False,Paamese.htm,False,,1
+paam1238-21-1,,paam1238,21,hanu mau sav taːi,hanu mau sav taːi,[],,[],,False,Paamese.htm,False,,1
+paam1238-22-1,,paam1238,22,hanu mau sav elu,hanu mau sav elu,[],,[],,False,Paamese.htm,False,,1
+paam1238-23-1,,paam1238,23,hanu mau sav etel,hanu mau sav etel,[],,[],,False,Paamese.htm,False,,1
+paam1238-24-1,,paam1238,24,hanu mau sav ehat,hanu mau sav ehat,[],,[],,False,Paamese.htm,False,,1
+paam1238-25-1,,paam1238,25,hanu mau sav elim,hanu mau sav elim,[],,[],,False,Paamese.htm,False,,1
+paam1238-26-1,,paam1238,26,hanu mau sav lahitaːi,hanu mau sav lahitaːi,[],,[],,False,Paamese.htm,False,,1
+paam1238-27-1,,paam1238,27,hanu mau sav laulu,hanu mau sav laulu,[],,[],,False,Paamese.htm,False,,1
+paam1238-28-1,,paam1238,28,hanu mau sav lautel,hanu mau sav lautel,[],,[],,False,Paamese.htm,False,,1
+paam1238-29-1,,paam1238,29,hanu mau sav lauhat,hanu mau sav lauhat,[],,[],,False,Paamese.htm,False,,1
+paam1238-30-1,,paam1238,30,hanu mau sav haːlualim,hanu mau sav haːlualim,[],( 20+10),[],,False,Paamese.htm,False,,1
+paam1238-40-1,,paam1238,40,hanu mau elu,hanu mau elu,[],( 20 x 2 ),[],,False,Paamese.htm,False,,1
+paam1238-50-1,,paam1238,50,hanu mau elu sav haːlualim,hanu mau elu sav haːlualim,[],,[],,False,Paamese.htm,False,,1
+paam1238-60-1,,paam1238,60,hanu mau etel,hanu mau etel,[],( 20 x 3 ),[],,False,Paamese.htm,False,,1
+paam1238-70-1,,paam1238,70,hanu mau etel sav haːlualim,hanu mau etel sav haːlualim,[],,[],,False,Paamese.htm,False,,1
+paam1238-80-1,,paam1238,80,hanu mau ehat,hanu mau ehat,[],( 20 x 4 ),[],,False,Paamese.htm,False,,1
+paam1238-90-1,,paam1238,90,hanu mau ehat sav haːlualim,hanu mau ehat sav haːlualim,[],,[],,False,Paamese.htm,False,,1
+paam1238-100-1,,paam1238,100,hanu mau elim,hanu mau elim,[],( 20 x 5 ),[],,False,Paamese.htm,False,,1
+paam1238-100-2,,paam1238,100,handet,handet,[],,[],,False,Paamese.htm,False,,1

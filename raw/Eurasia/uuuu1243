@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+uuuu1243-1-1,,uuuu1243,1,moŋ,moŋ,[],,[],,False,U.htm,False,,1
+uuuu1243-1-2,,uuuu1243,1,mu,mu,[],,[],,False,U.htm,False,,1
+uuuu1243-2-1,,uuuu1243,2,ɒʔ,ɒʔ,[],,[],,False,U.htm,False,,1
+uuuu1243-2-2,,uuuu1243,2,ɑ,ɑ,[],,[],,False,U.htm,False,,1
+uuuu1243-3-1,,uuuu1243,3,ue,ue,[],,[],,False,U.htm,False,,1
+uuuu1243-3-2,,uuuu1243,3,uəi,uəi,[],,[],,False,U.htm,False,,1
+uuuu1243-4-1,,uuuu1243,4,poŋ,poŋ,[],,[],,False,U.htm,False,,1
+uuuu1243-4-2,,uuuu1243,4,pu,pu,[],,[],,False,U.htm,False,,1
+uuuu1243-4-3,,uuuu1243,4,puən,puən,[],,[],,False,U.htm,False,,1
+uuuu1243-5-1,,uuuu1243,5,sɑ,sɑ,[],,[],,False,U.htm,False,,1
+uuuu1243-5-2,,uuuu1243,5,sɑ,sɑ,[],,[],,False,U.htm,False,,1
+uuuu1243-6-1,,uuuu1243,6,dhou ~ntʌv,dhou ~ntʌv,[],,[],,False,U.htm,True,,1
+uuuu1243-6-2,,uuuu1243,6,to,to,[],,[],,False,U.htm,False,,1
+uuuu1243-7-1,,uuuu1243,7,bh̥u ~mph̥u,bh̥u ~mph̥u,[],,[],,False,U.htm,True,,1
+uuuu1243-7-2,,uuuu1243,7,pɯ,pɯ,[],,[],,False,U.htm,False,,1
+uuuu1243-8-1,,uuuu1243,8,tɒʔ,tɒʔ,[],,[],,False,U.htm,False,,1
+uuuu1243-8-2,,uuuu1243,8,tɑ,tɑ,[],,[],,False,U.htm,False,,1
+uuuu1243-9-1,,uuuu1243,9,te ~ti,te ~ti,[],,[],,False,U.htm,True,,1
+uuuu1243-9-2,,uuuu1243,9,tiən,tiən,[],,[],,False,U.htm,False,,1
+uuuu1243-10-1,,uuuu1243,10,tʃɯu,tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-20-1,,uuuu1243,20,ɒʔ tʃɯu,ɒʔ tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-20-2,,uuuu1243,20,ɑ tʃo,ɑ tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-30-1,,uuuu1243,30,ue tʃɯu,ue tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-30-2,,uuuu1243,30,uəi tʃo,uəi tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-40-1,,uuuu1243,40,poŋ tʃɯu,poŋ tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-40-2,,uuuu1243,40,puən tʃo,puən tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-50-1,,uuuu1243,50,sɑ tʃɯu,sɑ tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-50-2,,uuuu1243,50,sɑ tʃo,sɑ tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-60-1,,uuuu1243,60,dhou tʃɯu,dhou tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-60-2,,uuuu1243,60,to tʃo,to tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-70-1,,uuuu1243,70,bh̥u tʃɯu,bh̥u tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-70-2,,uuuu1243,70,pɯ tʃo,pɯ tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-80-1,,uuuu1243,80,tɒʔ tʃɯu,tɒʔ tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-80-2,,uuuu1243,80,tɑ tʃo,tɑ tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-90-1,,uuuu1243,90,ti tʃɯu,ti tʃɯu,[],,[],,False,U.htm,False,,1
+uuuu1243-90-2,,uuuu1243,90,tiən tʃo,tiən tʃo,[],,[],,False,U.htm,False,,1
+uuuu1243-100-1,,uuuu1243,100,piɒ,piɒ,[],,[],,False,U.htm,False,,1
+uuuu1243-100-2,,uuuu1243,100,piɑ,piɑ,[],< Chinese ,[],,True,U.htm,False,,1
+uuuu1243-1000-1,,uuuu1243,1000,tʂuɑn,tʂuɑn,[],,[],,False,U.htm,False,,1
+uuuu1243-1000-2,,uuuu1243,1000,tsuan,tsuan,[],< Chinese ,[],,True,U.htm,False,,1

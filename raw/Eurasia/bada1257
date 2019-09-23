@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bada1257-1-1,,bada1257,1,ondu,ondu,[],,[],,False,Badaga.htm,False,,1
+bada1257-2-1,,bada1257,2,eraɖu,eraɖu,[],,[],,False,Badaga.htm,False,,1
+bada1257-2-2,,bada1257,2,ir-,ir-,[],(bound form),[],,False,Badaga.htm,False,,1
+bada1257-3-1,,bada1257,3,muːru,muːru,[],,[],,False,Badaga.htm,False,,1
+bada1257-4-1,,bada1257,4,naːku,naːku,[],,[],,False,Badaga.htm,False,,1
+bada1257-5-1,,bada1257,5,aydu,aydu,[],,[],,False,Badaga.htm,False,,1
+bada1257-6-1,,bada1257,6,aːru,aːru,[],,[],,False,Badaga.htm,False,,1
+bada1257-7-1,,bada1257,7,eːyu,eːyu,[],,[],,False,Badaga.htm,False,,1
+bada1257-7-2,,bada1257,7,i:yu,i:yu,[],,[],,False,Badaga.htm,False,,1
+bada1257-8-1,,bada1257,8,eʈʈu,eʈʈu,[],,[],,False,Badaga.htm,False,,1
+bada1257-9-1,,bada1257,9,ombatu,ombatu,[],,[],,False,Badaga.htm,False,,1
+bada1257-10-1,,bada1257,10,hattu,hattu,[],,[],,False,Badaga.htm,False,,1
+bada1257-11-1,,bada1257,11,hannondu,hannondu,[],( < han-ondu),[],,False,Badaga.htm,False,,1
+bada1257-12-1,,bada1257,12,hanneraɖu,hanneraɖu,[],(< han-eraɖu),[],,False,Badaga.htm,False,,1
+bada1257-13-1,,bada1257,13,hadimuːru,hadimuːru,[],( <hadin-muːru),[],,False,Badaga.htm,False,,1
+bada1257-14-1,,bada1257,14,hadanaːku,hadanaːku,[],(<hadin-naːku),[],,False,Badaga.htm,False,,1
+bada1257-15-1,,bada1257,15,hadanaydu,hadanaydu,[],(<hadin-aydu),[],,False,Badaga.htm,False,,1
+bada1257-16-1,,bada1257,16,hadinaːru,hadinaːru,[],( <hadin-aːru),[],,False,Badaga.htm,False,,1
+bada1257-17-1,,bada1257,17,hadiniːyu,hadiniːyu,[],,[],,False,Badaga.htm,False,,1
+bada1257-18-1,,bada1257,18,hadineɳʈu,hadineɳʈu,[],(<hadin-eʈʈu),[],,False,Badaga.htm,False,,1
+bada1257-19-1,,bada1257,19,hattombatu,hattombatu,[],,[],,False,Badaga.htm,False,,1
+bada1257-20-1,,bada1257,20,ippatu,ippatu,[],( < ir-patu ),[],,False,Badaga.htm,False,,1
+bada1257-21-1,,bada1257,21,ippatu ondu,ippatu ondu,[],,[],,False,Badaga.htm,False,,1
+bada1257-22-1,,bada1257,22,ippatu eraɖu,ippatu eraɖu,[],,[],,False,Badaga.htm,False,,1
+bada1257-23-1,,bada1257,23,ippatu muːru,ippatu muːru,[],,[],,False,Badaga.htm,False,,1
+bada1257-24-1,,bada1257,24,ippatu naːku,ippatu naːku,[],,[],,False,Badaga.htm,False,,1
+bada1257-25-1,,bada1257,25,ippatu aydu,ippatu aydu,[],,[],,False,Badaga.htm,False,,1
+bada1257-26-1,,bada1257,26,ippatu aːru,ippatu aːru,[],,[],,False,Badaga.htm,False,,1
+bada1257-27-1,,bada1257,27,ippatu eːyu,ippatu eːyu,[],,[],,False,Badaga.htm,False,,1
+bada1257-27-2,,bada1257,27,iːyu,iːyu,[],,[],,False,Badaga.htm,False,,1
+bada1257-28-1,,bada1257,28,ippatu eʈʈu,ippatu eʈʈu,[],,[],,False,Badaga.htm,False,,1
+bada1257-29-1,,bada1257,29,ippatu ombatu,ippatu ombatu,[],,[],,False,Badaga.htm,False,,1
+bada1257-30-1,,bada1257,30,muːvatu,muːvatu,[],,[],,False,Badaga.htm,False,,1
+bada1257-40-1,,bada1257,40,nalavatu,nalavatu,[],,[],,False,Badaga.htm,False,,1
+bada1257-50-1,,bada1257,50,ayvatu,ayvatu,[],,[],,False,Badaga.htm,False,,1
+bada1257-60-1,,bada1257,60,aravatu,aravatu,[],( <aru-vatu),[],,False,Badaga.htm,False,,1
+bada1257-70-1,,bada1257,70,eyavatu,eyavatu,[],( < eyu-vatu),[],,False,Badaga.htm,False,,1
+bada1257-80-1,,bada1257,80,embatu,embatu,[],(<em-patu),[],,False,Badaga.htm,False,,1
+bada1257-90-1,,bada1257,90,tombatu,tombatu,[],(< tom-patu),[],,False,Badaga.htm,False,,1
+bada1257-100-1,,bada1257,100,nuːru,nuːru,[],,[],,False,Badaga.htm,False,,1
+bada1257-200-1,,bada1257,200,innuːru,innuːru,[],( <ir-nuːru),[],,False,Badaga.htm,False,,1
+bada1257-1000-1,,bada1257,1000,saːvira,saːvira,[],< Sanskrit sahasra ,[],,True,Badaga.htm,False,,1

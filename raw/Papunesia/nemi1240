@@ -1,0 +1,29 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+nemi1240-1-1,,nemi1240,1,hēc,hēc,[],,[],,False,Nemi.htm,False,,1
+nemi1240-2-1,,nemi1240,2,heluk,heluk,[],,[],,False,Nemi.htm,False,,1
+nemi1240-3-1,,nemi1240,3,heyen,heyen,[],,[],,False,Nemi.htm,False,,1
+nemi1240-4-1,,nemi1240,4,pʰoec,pʰoec,[],,[],,False,Nemi.htm,False,,1
+nemi1240-5-1,,nemi1240,5,nim,nim,[],,[],,False,Nemi.htm,False,,1
+nemi1240-6-1,,nemi1240,6,nibʷēc,nibʷēc,[],( 5 + 1 ),[],,False,Nemi.htm,False,,1
+nemi1240-7-1,,nemi1240,7,nibʷeluk,nibʷeluk,[],( 5 + 2 ),[],,False,Nemi.htm,False,,1
+nemi1240-8-1,,nemi1240,8,nibʷyen,nibʷyen,[],( 5 + 3 ),[],,False,Nemi.htm,False,,1
+nemi1240-9-1,,nemi1240,9,nibovac,nibovac,[],( 5 + 4 ),[],,False,Nemi.htm,False,,1
+nemi1240-10-1,,nemi1240,10,paidu,paidu,[],( litː ''two hands''),[],,False,Nemi.htm,False,,1
+nemi1240-11-1,,nemi1240,11,paidu bʷan hēc,paidu bʷan hēc,[],,[],,False,Nemi.htm,False,,1
+nemi1240-12-1,,nemi1240,12,paidu bʷan heluk,paidu bʷan heluk,[],,[],,False,Nemi.htm,False,,1
+nemi1240-13-1,,nemi1240,13,paidu bʷan heyen,paidu bʷan heyen,[],,[],,False,Nemi.htm,False,,1
+nemi1240-14-1,,nemi1240,14,paidu bʷan pʰovec,paidu bʷan pʰovec,[],,[],,False,Nemi.htm,False,,1
+nemi1240-15-1,,nemi1240,15,paidu bʷan nim,paidu bʷan nim,[],,[],,False,Nemi.htm,False,,1
+nemi1240-16-1,,nemi1240,16,paidu bʷan nibʷēc,paidu bʷan nibʷēc,[],,[],,False,Nemi.htm,False,,1
+nemi1240-17-1,,nemi1240,17,paidu bʷan nibʷeluk,paidu bʷan nibʷeluk,[],,[],,False,Nemi.htm,False,,1
+nemi1240-18-1,,nemi1240,18,paidu bʷan nibʷyen,paidu bʷan nibʷyen,[],,[],,False,Nemi.htm,False,,1
+nemi1240-19-1,,nemi1240,19,paidu bʷan nibovac,paidu bʷan nibovac,[],,[],,False,Nemi.htm,False,,1
+nemi1240-20-1,,nemi1240,20,hēc kac,hēc kac,[],(lit: ''kac = 'person''),[],,False,Nemi.htm,False,,1
+nemi1240-30-1,,nemi1240,30,hēc kac bʷan paidu,hēc kac bʷan paidu,[],,[],,False,Nemi.htm,False,,1
+nemi1240-40-1,,nemi1240,40,heluk kac,heluk kac,[],(lit: ''two persons''),[],,False,Nemi.htm,False,,1
+nemi1240-50-1,,nemi1240,50,heluk kac bʷan paidu,heluk kac bʷan paidu,[],,[],,False,Nemi.htm,False,,1
+nemi1240-60-1,,nemi1240,60,heyen kac,heyen kac,[],(lit: ''three persons''),[],,False,Nemi.htm,False,,1
+nemi1240-70-1,,nemi1240,70,heyen kac bʷan paidu,heyen kac bʷan paidu,[],,[],,False,Nemi.htm,False,,1
+nemi1240-80-1,,nemi1240,80,pʰovec kac,pʰovec kac,[],(lit: ''four persons''),[],,False,Nemi.htm,False,,1
+nemi1240-90-1,,nemi1240,90,pʰovec kac bʷan paidu,pʰovec kac bʷan paidu,[],,[],,False,Nemi.htm,False,,1
+nemi1240-100-1,,nemi1240,100,nim kac,nim kac,[],(lit: ''five persons''),[],,False,Nemi.htm,False,,1

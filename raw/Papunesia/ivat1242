@@ -1,0 +1,59 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ivat1242-1-1,,ivat1242,1,aʔsa,aʔsa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-2-1,,ivat1242,2,doha,doha,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-2-2,,ivat1242,2,dadoha,dadoha,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-3-1,,ivat1242,3,atlo,atlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-3-2,,ivat1242,3,hatlo ~tatlo,hatlo ~tatlo,[],,[],,False,Itbayaten.htm,True,,1
+ivat1242-4-1,,ivat1242,4,aʔpat,aʔpat,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-4-2,,ivat1242,4,haʔpat,haʔpat,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-5-1,,ivat1242,5,lima,lima,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-5-2,,ivat1242,5,lalima,lalima,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-6-1,,ivat1242,6,aʔnəm,aʔnəm,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-6-2,,ivat1242,6,haʔnəm,haʔnəm,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-7-1,,ivat1242,7,pito,pito,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-7-2,,ivat1242,7,papito,papito,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-8-1,,ivat1242,8,waxo,waxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-8-2,,ivat1242,8,wawaxo,wawaxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-9-1,,ivat1242,9,siyam,siyam,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-9-2,,ivat1242,9,sasiyam,sasiyam,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-10-1,,ivat1242,10,saːpoho,saːpoho,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-10-2,,ivat1242,10,saʔsaːpoxo,saʔsaːpoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-11-1,,ivat1242,11,aʔsast͡ʃarwa,aʔsast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-12-1,,ivat1242,12,dohast͡ʃarwa,dohast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-13-1,,ivat1242,13,atlwast͡ʃarwa,atlwast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-14-1,,ivat1242,14,aʔpatast͡ʃarwa,aʔpatast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-15-1,,ivat1242,15,limast͡ʃarwa,limast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-16-1,,ivat1242,16,aʔnəmast͡ʃarwa,aʔnəmast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-17-1,,ivat1242,17,pitwast͡ʃarwa,pitwast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-18-1,,ivat1242,18,waxwast͡ʃarwa,waxwast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-19-1,,ivat1242,19,(sa)siyamast͡ʃarwa,(sa)siyamast͡ʃarwa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-20-1,,ivat1242,20,dahaːpoxo poho,dahaːpoxo poho,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-21-1,,ivat1242,21,aʔsast͡ʃatlo,aʔsast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-21-2,,ivat1242,21,dahaːpoxo poho kano aʔsa,dahaːpoxo poho kano aʔsa,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-22-1,,ivat1242,22,dohast͡ʃatlo,dohast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-22-2,,ivat1242,22,dahaːpoxo poho kano doha,dahaːpoxo poho kano doha,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-23-1,,ivat1242,23,atlwast͡ʃatlo,atlwast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-23-2,,ivat1242,23,dahaːpoxo poho kano atlo,dahaːpoxo poho kano atlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-24-1,,ivat1242,24,aʔpatast͡ʃatlo,aʔpatast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-25-1,,ivat1242,25,limast͡ʃatlo,limast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-26-1,,ivat1242,26,aʔnəmast͡ʃatlo,aʔnəmast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-27-1,,ivat1242,27,pitwast͡ʃatlo,pitwast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-28-1,,ivat1242,28,waxwast͡ʃatlo,waxwast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-29-1,,ivat1242,29,siyamast͡ʃatlo,siyamast͡ʃatlo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-30-1,,ivat1242,30,atlwapoxo,atlwapoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-40-1,,ivat1242,40,aʔpatapoxo,aʔpatapoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-50-1,,ivat1242,50,limaːpoxo,limaːpoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-60-1,,ivat1242,60,aʔnəmapoxo,aʔnəmapoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-70-1,,ivat1242,70,pitwapoxo,pitwapoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-80-1,,ivat1242,80,waxwapoxo,waxwapoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-90-1,,ivat1242,90,siyampoxo,siyampoxo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-100-1,,ivat1242,100,omyatos,omyatos,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-100-2,,ivat1242,100,saʔa yatos,saʔa yatos,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-100-3,,ivat1242,100,sinto,sinto,[],( < Sp.),[],,True,Itbayaten.htm,False,,1
+ivat1242-200-1,,ivat1242,200,dohaːyatos,dohaːyatos,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-200-2,,ivat1242,200,dosintos,dosintos,[],( < Sp.),[],,True,Itbayaten.htm,False,,1
+ivat1242-1000-1,,ivat1242,1000,omrivo,omrivo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-1000-2,,ivat1242,1000,həmrivo,həmrivo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-1000-3,,ivat1242,1000,miːl,miːl,[],( < Sp.),[],,True,Itbayaten.htm,False,,1
+ivat1242-2000-1,,ivat1242,2000,doharivo,doharivo,[],,[],,False,Itbayaten.htm,False,,1
+ivat1242-2000-2,,ivat1242,2000,dosi miːl,dosi miːl,[],,[],,False,Itbayaten.htm,False,,1

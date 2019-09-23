@@ -1,0 +1,37 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+maib1239-1-1,,maib1239,1,sau,sau,[],( male ),[],,False,Mai-Brat.htm,False,,1
+maib1239-1-2,,maib1239,1,saɪt,saɪt,[],( female ),[],,False,Mai-Brat.htm,False,,1
+maib1239-2-1,,maib1239,2,ewok,ewok,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-3-1,,maib1239,3,tuuf,tuuf,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-4-1,,maib1239,4,jiit,jiit,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-5-1,,maib1239,5,maat,maat,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-6-1,,maib1239,6,tamam,tamam,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-7-1,,maib1239,7,krema,krema,[],( ''krem'' = finger ),[],,False,Mai-Brat.htm,False,,1
+maib1239-8-1,,maib1239,8,krentuuf,krentuuf,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-9-1,,maib1239,9,krenjiit,krenjiit,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-10-1,,maib1239,10,nsaa,nsaa,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-11-1,,maib1239,11,nsaa sau,nsaa sau,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-12-1,,maib1239,12,nsaa ewok,nsaa ewok,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-13-1,,maib1239,13,nsaa tuuf,nsaa tuuf,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-14-1,,maib1239,14,nsaa jiit,nsaa jiit,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-15-1,,maib1239,15,nsaa maat,nsaa maat,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-16-1,,maib1239,16,nsaa tamam,nsaa tamam,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-17-1,,maib1239,17,nsaa krema,nsaa krema,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-18-1,,maib1239,18,nsaa krentuuf,nsaa krentuuf,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-19-1,,maib1239,19,nsaa krenjiit,nsaa krenjiit,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-20-1,,maib1239,20,raa saɪt mhai,raa saɪt mhai,[],(lit: man one die ),[],,False,Mai-Brat.htm,False,,1
+maib1239-21-1,,maib1239,21,raa saɪt mhai (masin) sau,raa saɪt mhai (masin) sau,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-22-1,,maib1239,22,raa saɪt mhai (masin) ewok,raa saɪt mhai (masin) ewok,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-23-1,,maib1239,23,raa saɪt mhai (masin) tuuf,raa saɪt mhai (masin) tuuf,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-24-1,,maib1239,24,raa saɪt mhai (masin) jiit,raa saɪt mhai (masin) jiit,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-25-1,,maib1239,25,raa saɪt mhai (masin) maat,raa saɪt mhai (masin) maat,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-26-1,,maib1239,26,raa saɪt mhai (masin) tamam,raa saɪt mhai (masin) tamam,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-27-1,,maib1239,27,raa saɪt mhai (masin) krema,raa saɪt mhai (masin) krema,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-28-1,,maib1239,28,raa saɪt mhai (masin) krentuuf,raa saɪt mhai (masin) krentuuf,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-29-1,,maib1239,29,raa saɪt mhai (masin) krenjiit,raa saɪt mhai (masin) krenjiit,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-30-1,,maib1239,30,raa saɪt mhai (masin) nsaa,raa saɪt mhai (masin) nsaa,[],,[],,False,Mai-Brat.htm,False,,1
+maib1239-40-1,,maib1239,40,raa (mabo) ewok mhai,raa (mabo) ewok mhai,[],(men two die ),[],,False,Mai-Brat.htm,False,,1
+maib1239-60-1,,maib1239,60,raa (mabo) tuuf mhai,raa (mabo) tuuf mhai,[],(men three die ),[],,False,Mai-Brat.htm,False,,1
+maib1239-80-1,,maib1239,80,raa (mabo) jiit mhai,raa (mabo) jiit mhai,[],(men four die ),[],,False,Mai-Brat.htm,False,,1
+maib1239-100-1,,maib1239,100,raa (mabo) maat mhai,raa (mabo) maat mhai,[],(men five die ),[],,False,Mai-Brat.htm,False,,1
+maib1239-200-1,,maib1239,200,raa (mabo) nsaa mhai,raa (mabo) nsaa mhai,[],(men ten die ),[],,False,Mai-Brat.htm,False,,1

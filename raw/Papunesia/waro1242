@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+waro1242-1-1,,waro1242,1,wosio,wosio,[],,[],,False,Waropen.htm,False,,1
+waro1242-1-2,,waro1242,1,si,si,[],,[],,False,Waropen.htm,False,,2
+waro1242-2-1,,waro1242,2,woruo,woruo,[],,[],,False,Waropen.htm,False,,1
+waro1242-2-2,,waro1242,2,ru,ru,[],,[],,False,Waropen.htm,False,,2
+waro1242-3-1,,waro1242,3,oro,oro,[],,[],,False,Waropen.htm,False,,1
+waro1242-3-2,,waro1242,3,or,or,[],,[],,False,Waropen.htm,False,,2
+waro1242-4-1,,waro1242,4,ako,ako,[],,[],,False,Waropen.htm,False,,1
+waro1242-4-2,,waro1242,4,ak,ak,[],,[],,False,Waropen.htm,False,,2
+waro1242-5-1,,waro1242,5,rimo,rimo,[],,[],,False,Waropen.htm,False,,1
+waro1242-5-2,,waro1242,5,baŋɡei kenano,baŋɡei kenano,[],,[],,False,Waropen.htm,False,,2
+waro1242-5-3,,waro1242,5,rimo,rimo,[],,[],,False,Waropen.htm,False,,2
+waro1242-6-1,,waro1242,6,ono,ono,[],,[],,False,Waropen.htm,False,,1
+waro1242-6-2,,waro1242,6,baŋɡei kenano toka wosio,baŋɡei kenano toka wosio,[],,[],,False,Waropen.htm,False,,2
+waro1242-6-3,,waro1242,6,χono,χono,[],,[],,False,Waropen.htm,False,,2
+waro1242-7-1,,waro1242,7,iko,iko,[],(gh = IPA [χ]),[],,False,Waropen.htm,False,,1
+waro1242-7-2,,waro1242,7,baŋɡei kenano toka woruo,baŋɡei kenano toka woruo,[],,[],,False,Waropen.htm,False,,2
+waro1242-7-3,,waro1242,7,χiko,χiko,[],,[],,False,Waropen.htm,False,,2
+waro1242-8-1,,waro1242,8,χaro,χaro,[],,[],,False,Waropen.htm,False,ɡharo,1
+waro1242-8-2,,waro1242,8,gh = IPA [χ],gh = IPA [χ],[],,[],,False,Waropen.htm,True,,1
+waro1242-8-3,,waro1242,8,baŋɡei kenano toka oro,baŋɡei kenano toka oro,[],,[],,False,Waropen.htm,False,,2
+waro1242-8-4,,waro1242,8,χaro,χaro,[],,[],,False,Waropen.htm,False,,2
+waro1242-9-1,,waro1242,9,siχi,siχi,[],,[],,False,Waropen.htm,False,siɡhi,1
+waro1242-9-2,,waro1242,9,baŋɡei kenano toka ako,baŋɡei kenano toka ako,[],,[],,False,Waropen.htm,False,,2
+waro1242-9-3,,waro1242,9,siχiro,siχiro,[],,[],,False,Waropen.htm,False,,2
+waro1242-10-1,,waro1242,10,sauro,sauro,[],,[],,False,Waropen.htm,False,,1
+waro1242-10-2,,waro1242,10,sauro,sauro,[],,[],,False,Waropen.htm,False,,2
+waro1242-11-1,,waro1242,11,sauro oka wosio,sauro oka wosio,[],,[],,False,Waropen.htm,False,,1
+waro1242-11-2,,waro1242,11,sauro toka wosio,sauro toka wosio,[],,[],,False,Waropen.htm,False,,2
+waro1242-12-1,,waro1242,12,sauro oka woruo,sauro oka woruo,[],,[],,False,Waropen.htm,False,,1
+waro1242-12-2,,waro1242,12,sauro toka woruo,sauro toka woruo,[],,[],,False,Waropen.htm,False,,2
+waro1242-13-1,,waro1242,13,sauro oka oro,sauro oka oro,[],,[],,False,Waropen.htm,False,,1
+waro1242-13-2,,waro1242,13,sauro toka oro,sauro toka oro,[],,[],,False,Waropen.htm,False,,2
+waro1242-14-1,,waro1242,14,sauro oka ako,sauro oka ako,[],,[],,False,Waropen.htm,False,,1
+waro1242-14-2,,waro1242,14,sauro toka ako,sauro toka ako,[],,[],,False,Waropen.htm,False,,2
+waro1242-15-1,,waro1242,15,sauro oka rimo,sauro oka rimo,[],,[],,False,Waropen.htm,False,,1
+waro1242-15-2,,waro1242,15,sauro toka baŋɡei kenano,sauro toka baŋɡei kenano,[],,[],,False,Waropen.htm,False,,2
+waro1242-16-1,,waro1242,16,sauro oka ono,sauro oka ono,[],,[],,False,Waropen.htm,False,,1
+waro1242-16-2,,waro1242,16,sauro toka baŋɡei kena. toka wosio,sauro toka baŋɡei kena. toka wosio,[],,[],,False,Waropen.htm,True,,2
+waro1242-17-1,,waro1242,17,sauro oka iko,sauro oka iko,[],,[],,False,Waropen.htm,False,,1
+waro1242-17-2,,waro1242,17,sauro toka baŋɡei kena. toka woruo,sauro toka baŋɡei kena. toka woruo,[],,[],,False,Waropen.htm,True,,2
+waro1242-18-1,,waro1242,18,sauro oka χaro,sauro oka χaro,[],,[],,False,Waropen.htm,False,,1
+waro1242-18-2,,waro1242,18,sauro toka baŋɡei kena. toka oro,sauro toka baŋɡei kena. toka oro,[],,[],,False,Waropen.htm,True,,2
+waro1242-19-1,,waro1242,19,sauro oka siχi,sauro oka siχi,[],,[],,False,Waropen.htm,False,,1
+waro1242-19-2,,waro1242,19,sauro toka baŋɡei kena. toka ako,sauro toka baŋɡei kena. toka ako,[],,[],,False,Waropen.htm,True,,2
+waro1242-20-1,,waro1242,20,nuŋɡuetio,nuŋɡuetio,[],(litː ''one person''),[],,False,Waropen.htm,False,,1
+waro1242-20-2,,waro1242,20,asatio,asatio,[],,[],,False,Waropen.htm,False,,1
+waro1242-20-3,,waro1242,20,nuŋɡu,nuŋɡu,[],( litː 'full person'),[],,False,Waropen.htm,False,,2
+waro1242-21-1,,waro1242,21,asati oka wosio,asati oka wosio,[],,[],,False,Waropen.htm,False,,1
+waro1242-21-2,,waro1242,21,nuŋɡu natio wosio,nuŋɡu natio wosio,[],,[],,False,Waropen.htm,False,,2
+waro1242-22-1,,waro1242,22,asati oka woruo,asati oka woruo,[],,[],,False,Waropen.htm,False,,1
+waro1242-22-2,,waro1242,22,nuŋɡu natio woruo,nuŋɡu natio woruo,[],,[],,False,Waropen.htm,False,,2
+waro1242-23-1,,waro1242,23,asati oka oro,asati oka oro,[],,[],,False,Waropen.htm,False,,1
+waro1242-23-2,,waro1242,23,nuŋɡu natio oro,nuŋɡu natio oro,[],,[],,False,Waropen.htm,False,,2
+waro1242-24-1,,waro1242,24,asati oka ako,asati oka ako,[],,[],,False,Waropen.htm,False,,1
+waro1242-24-2,,waro1242,24,nuŋɡu natio ako,nuŋɡu natio ako,[],,[],,False,Waropen.htm,False,,2
+waro1242-25-1,,waro1242,25,asati oka rimo,asati oka rimo,[],,[],,False,Waropen.htm,False,,1
+waro1242-25-2,,waro1242,25,nuŋɡu natio baŋɡei kenano,nuŋɡu natio baŋɡei kenano,[],,[],,False,Waropen.htm,False,,2
+waro1242-26-1,,waro1242,26,asati oka iko,asati oka iko,[],,[],,False,Waropen.htm,False,,1
+waro1242-26-2,,waro1242,26,nuŋɡu natio baŋɡei kenano toka wosio,nuŋɡu natio baŋɡei kenano toka wosio,[],,[],,False,Waropen.htm,False,,2
+waro1242-27-1,,waro1242,27,asati oka χaro,asati oka χaro,[],,[],,False,Waropen.htm,False,,1
+waro1242-27-2,,waro1242,27,nuŋɡu natio baŋɡei kenano toka woruo,nuŋɡu natio baŋɡei kenano toka woruo,[],,[],,False,Waropen.htm,False,,2
+waro1242-28-1,,waro1242,28,asati oka siχo,asati oka siχo,[],,[],,False,Waropen.htm,False,,1
+waro1242-28-2,,waro1242,28,nuŋɡu natio baŋɡei kenano toka oro,nuŋɡu natio baŋɡei kenano toka oro,[],,[],,False,Waropen.htm,False,,2
+waro1242-29-1,,waro1242,29,asati oka siχi,asati oka siχi,[],,[],,False,Waropen.htm,False,,1
+waro1242-29-2,,waro1242,29,nuŋɡu natio baŋɡei kenano toka ako,nuŋɡu natio baŋɡei kenano toka ako,[],,[],,False,Waropen.htm,False,,2
+waro1242-30-1,,waro1242,30,asati oka sauro,asati oka sauro,[],,[],,False,Waropen.htm,False,,1
+waro1242-30-2,,waro1242,30,nuŋɡu natio ka sauro,nuŋɡu natio ka sauro,[],,[],,False,Waropen.htm,False,,2
+waro1242-40-1,,waro1242,40,asanduo,asanduo,[],(litː ''two persons),[],,False,Waropen.htm,False,,1
+waro1242-40-2,,waro1242,40,nuŋɡu nanduo,nuŋɡu nanduo,[],( 20 x 2 ),[],,False,Waropen.htm,False,,2
+waro1242-50-1,,waro1242,50,asanduo oka sauro,asanduo oka sauro,[],,[],,False,Waropen.htm,False,,1
+waro1242-50-2,,waro1242,50,nuŋɡu nanduo ka sauro,nuŋɡu nanduo ka sauro,[],,[],,False,Waropen.htm,False,,2
+waro1242-60-1,,waro1242,60,asaŋɡoro,asaŋɡoro,[],(litː ''three persons),[],,False,Waropen.htm,False,,1
+waro1242-60-2,,waro1242,60,nuŋɡu naŋɡoro,nuŋɡu naŋɡoro,[],( 20 x 3 ),[],,False,Waropen.htm,False,,2
+waro1242-70-1,,waro1242,70,asaŋɡoro oka sauro,asaŋɡoro oka sauro,[],,[],,False,Waropen.htm,False,,1
+waro1242-70-2,,waro1242,70,nuŋɡu naŋɡoro ka sauro,nuŋɡu naŋɡoro ka sauro,[],,[],,False,Waropen.htm,False,,2
+waro1242-80-1,,waro1242,80,asaŋɡoko,asaŋɡoko,[],(litː ''four persons),[],,False,Waropen.htm,False,,1
+waro1242-80-2,,waro1242,80,nuŋɡu naŋɡako,nuŋɡu naŋɡako,[],( 20 x 4 ),[],,False,Waropen.htm,False,,2
+waro1242-90-1,,waro1242,90,asaŋɡoko oka sauro,asaŋɡoko oka sauro,[],,[],,False,Waropen.htm,False,,1
+waro1242-90-2,,waro1242,90,nuŋɡu naŋɡako ka sauro,nuŋɡu naŋɡako ka sauro,[],,[],,False,Waropen.htm,False,,2
+waro1242-100-1,,waro1242,100,asandimo,asandimo,[],(litː ''five persons),[],,False,Waropen.htm,False,,1
+waro1242-100-2,,waro1242,100,nuŋɡu baŋɡei kenano,nuŋɡu baŋɡei kenano,[],( 20 x 5 ),[],,False,Waropen.htm,False,,2

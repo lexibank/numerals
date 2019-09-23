@@ -1,0 +1,71 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kara1500-1-1,,kara1500,1,soho'dʒi,soho'dʒi,[],,[],,False,Karaja.htm,False,sohoji,1
+kara1500-1-2,,kara1500,1,θoho'dʒi,θoho'dʒi,[],,[],,False,Karaja.htm,False,,2
+kara1500-2-1,,kara1500,2,ina'tʃi,ina'tʃi,[],,[],,False,Karaja.htm,False,inatxi,1
+kara1500-2-2,,kara1500,2,inɑ'tʃi,inɑ'tʃi,[],,[],,False,Karaja.htm,False,,2
+kara1500-3-1,,kara1500,3,ina'taõ,ina'taõ,[],,[],,False,Karaja.htm,False,inataõ,1
+kara1500-3-2,,kara1500,3,ina'tano,ina'tano,[],,[],,False,Karaja.htm,False,♀ inatano,1
+kara1500-3-3,,kara1500,3,inɑ'ɗɑʊ̃,inɑ'ɗɑʊ̃,[],,[],,False,Karaja.htm,False,,2
+kara1500-3-4,,kara1500,3,inɑ'ɗɑnʊ̃,inɑ'ɗɑnʊ̃,[],,[],,False,Karaja.htm,False,,2
+kara1500-4-1,,kara1500,4,inaˈubio'wa,inaˈubio'wa,[],,[],,False,Karaja.htm,False,inaubiòwa,1
+kara1500-4-2,,kara1500,4,inaˈkubiko'wa,inaˈkubiko'wa,[],,[],,False,Karaja.htm,False,♀ inakubikòwa,1
+kara1500-4-3,,kara1500,4,inɑubiɔ'wɑ,inɑubiɔ'wɑ,[],,[],,False,Karaja.htm,False,,2
+kara1500-4-4,,kara1500,4,inɑkubikɔ'wɑ,inɑkubikɔ'wɑ,[],,[],,False,Karaja.htm,False,,2
+kara1500-5-1,,kara1500,5,iruɨ'rɛ,iruɨ'rɛ,[],,[],,False,Karaja.htm,False,iruyrè,1
+kara1500-5-2,,kara1500,5,iruɨkɨ'rɛ,iruɨkɨ'rɛ,[],,[],,False,Karaja.htm,False,♀ irukyrè,1
+kara1500-5-3,,kara1500,5,ɨɾʊ'ɨɾæ,ɨɾʊ'ɨɾæ,[],,[],,False,Karaja.htm,False,,2
+kara1500-5-4,,kara1500,5,iɾʊ'kɨɾe,iɾʊ'kɨɾe,[],,[],,False,Karaja.htm,False,,2
+kara1500-6-1,,kara1500,6,debɔˈɔ soho'dʒi,debɔˈɔ soho'dʒi,[],,[],,False,Karaja.htm,False,dèbòò sohoji,1
+kara1500-6-2,,kara1500,6,debɔˈkɔ soho'dʒi,debɔˈkɔ soho'dʒi,[],('hand+one'),[],,False,Karaja.htm,False,♀dèbòkò sohoji,1
+kara1500-6-3,,kara1500,6,idɛ'bɔɔ θoho'dʒi ɾeyu'ɾɔ,idɛ'bɔɔ θoho'dʒi ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-6-4,,kara1500,6,idɛbɔ'kɔ θoho'dʒi ɾeyku'ɾɔ,idɛbɔ'kɔ θoho'dʒi ɾeyku'ɾɔ,[],( litː 'idɛ'bɔɔ' means 'hand'),[],,False,Karaja.htm,False,,2
+kara1500-7-1,,kara1500,7,debɔˈɔ ina'tʃi,debɔˈɔ ina'tʃi,[],,[],,False,Karaja.htm,False,dèbòò inatxi,1
+kara1500-7-2,,kara1500,7,debɔˈkɔ ina'tʃi ],debɔˈkɔ ina'tʃi ],[],('hand+two'),[],,False,Karaja.htm,True,♀dèbòkò inatxi,1
+kara1500-7-3,,kara1500,7,idɛ'bɔɔ inɑ'tʃi ɾeyu'ɾɔ,idɛ'bɔɔ inɑ'tʃi ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-7-4,,kara1500,7,idɛbɔ'kɔ inɑ'tʃi ɾeyku'ɾɔ,idɛbɔ'kɔ inɑ'tʃi ɾeyku'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-8-1,,kara1500,8,debɔˈɔ ina'taõ,debɔˈɔ ina'taõ,[],,[],,False,Karaja.htm,False,dèbòò inataõ,1
+kara1500-8-2,,kara1500,8,debɔˈkɔ inata'nõ,debɔˈkɔ inata'nõ,[],('hand+three'),[],,False,Karaja.htm,False,♀dèbòkò inatano,1
+kara1500-8-3,,kara1500,8,idɛ'bɔɔ inɑ'ɗɑʊ̃ ɾeyu'ɾɔ,idɛ'bɔɔ inɑ'ɗɑʊ̃ ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-8-4,,kara1500,8,idɛbɔ'kɔ inɑ'ɗɑnʊ̃ ɾeyku'ɾɔ,idɛbɔ'kɔ inɑ'ɗɑnʊ̃ ɾeyku'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-9-1,,kara1500,9,debɔˈɔ inaˈubio'wa,debɔˈɔ inaˈubio'wa,[],,[],,False,Karaja.htm,False,dèbòò inaubiòwa,1
+kara1500-9-2,,kara1500,9,debɔˈkɔ inaˈkubiko'wa,debɔˈkɔ inaˈkubiko'wa,[],('hand+four'),[],,False,Karaja.htm,False,♀dèbòkò inakubikòwa,1
+kara1500-9-3,,kara1500,9,idɛ'bɔɔ inɑubiɔ'wɑ ɾeyu'ɾɔ,idɛ'bɔɔ inɑubiɔ'wɑ ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-9-4,,kara1500,9,idɛbɔ'kɔ inɑkubikɔ'wɑ ɾeyku'ɾɔ,idɛbɔ'kɔ inɑkubikɔ'wɑ ɾeyku'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-10-1,,kara1500,10,de'bɔ itu'ɛ ('hands no more'],de'bɔ itu'ɛ ('hands no more'],[],,[],,False,Karaja.htm,True,dèbò ituè,1
+kara1500-10-2,,kara1500,10,dɛ'bɔ iɗu'ɛ,dɛ'bɔ iɗu'ɛ,[],,[],,False,Karaja.htm,False,,2
+kara1500-10-3,,kara1500,10,dɛbɔ'kɔ iɗu'ɛ,dɛbɔ'kɔ iɗu'ɛ,[],,[],,False,Karaja.htm,False,,2
+kara1500-11-1,,kara1500,11,wa'ɔ soho'dʒi,wa'ɔ soho'dʒi,[],,[],,False,Karaja.htm,False,waò sohoji,1
+kara1500-11-2,,kara1500,11,wa'kɔ soho'dʒi,wa'kɔ soho'dʒi,[],('foot+one'),[],,False,Karaja.htm,False,♀ wakò sohoji,1
+kara1500-11-3,,kara1500,11,wɑ'ɔ θoho'dʒi ɾeyu'ɾɔ,wɑ'ɔ θoho'dʒi ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-11-4,,kara1500,11,wɑ'kɔ θoho'dʒi ɾeyku'ɾɔ,wɑ'kɔ θoho'dʒi ɾeyku'ɾɔ,[],( litː 'wɑ'ɔ' means 'foot'),[],,False,Karaja.htm,False,,2
+kara1500-12-1,,kara1500,12,wa'ɔ ina'tʃi,wa'ɔ ina'tʃi,[],,[],,False,Karaja.htm,False,waò inatxi,1
+kara1500-12-2,,kara1500,12,wa'kɔ ina'tʃi,wa'kɔ ina'tʃi,[],('foot+two'),[],,False,Karaja.htm,False,♀ wakò  inatxi,1
+kara1500-12-3,,kara1500,12,wɑ'ɔ inɑ'tʃi ɾeyu'ɾɔ,wɑ'ɔ inɑ'tʃi ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-12-4,,kara1500,12,wɑ'kɔ inɑ'tʃi ɾeyku'ɾɔ,wɑ'kɔ inɑ'tʃi ɾeyku'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-13-1,,kara1500,13,wa'ɔ ina'taõ,wa'ɔ ina'taõ,[],,[],,False,Karaja.htm,False,waò inataõ,1
+kara1500-13-2,,kara1500,13,wa'kɔ ina'tano ],wa'kɔ ina'tano ],[],('foot+three'),[],,False,Karaja.htm,True,♀ wakò inatanõ,1
+kara1500-13-3,,kara1500,13,wɑ'ɔ inɑ'ɗɑʊ̃ ɾeyu'ɾɔ,wɑ'ɔ inɑ'ɗɑʊ̃ ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-13-4,,kara1500,13,wɑ'kɔ inɑ'ɗɑnʊ̃ ɾeyku'ɾɔ,wɑ'kɔ inɑ'ɗɑnʊ̃ ɾeyku'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-14-1,,kara1500,14,wa'ɔ inaˈubio'wa,wa'ɔ inaˈubio'wa,[],,[],,False,Karaja.htm,False,waò inaubiòwa,1
+kara1500-14-2,,kara1500,14,wa'kɔ inaˈkubiko'wa,wa'kɔ inaˈkubiko'wa,[],('foot+four'),[],,False,Karaja.htm,False,♀wakò inakubikòwa,1
+kara1500-14-3,,kara1500,14,wɑ'ɔ inɑubiɔ'wɑ ɾeyu'ɾɔ,wɑ'ɔ inɑubiɔ'wɑ ɾeyu'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-14-4,,kara1500,14,wɑ'kɔ inɑkubikɔ'wɑ ɾeyku'ɾɔ,wɑ'kɔ inɑkubikɔ'wɑ ɾeyku'ɾɔ,[],,[],,False,Karaja.htm,False,,2
+kara1500-15-1,,kara1500,15,waiɨ'rɛ,waiɨ'rɛ,[],,[],,False,Karaja.htm,False,waiyrè,1
+kara1500-15-2,,kara1500,15,waikɨ'rɛ,waikɨ'rɛ,[],,[],,False,Karaja.htm,False,♀ waikyrè,1
+kara1500-15-3,,kara1500,15,wɑiɨ'ɾæ,wɑiɨ'ɾæ,[],,[],,False,Karaja.htm,False,,2
+kara1500-15-4,,kara1500,15,wɑikɨ'ɾæ,wɑikɨ'ɾæ,[],,[],,False,Karaja.htm,False,,2
+kara1500-16-1,,kara1500,16,waiɨ're'ɔ soho'dʒi ɾeu'rɔ,waiɨ're'ɔ soho'dʒi ɾeu'rɔ,[],,[],,False,Karaja.htm,False,waiyrèò  sohoji reurò,1
+kara1500-16-2,,kara1500,16,waikɨ're'kɔ soho'dʒi reku'rɔ,waikɨ're'kɔ soho'dʒi reku'rɔ,[],,[],,False,Karaja.htm,False,♀ waikyrèkò sohoji rekurò,1
+kara1500-16-3,,kara1500,16,wɑwi'ɔ θoho'dʒi,wɑwi'ɔ θoho'dʒi,[],,[],,False,Karaja.htm,False,,2
+kara1500-17-1,,kara1500,17,waiɨ're'ɔ ina'tʃi ɾeu'rɔ,waiɨ're'ɔ ina'tʃi ɾeu'rɔ,[],,[],,False,Karaja.htm,False,waiyrèò  inatxi reurò,1
+kara1500-17-2,,kara1500,17,waikɨ're'kɔ ina'tʃi reku'rɔ,waikɨ're'kɔ ina'tʃi reku'rɔ,[],,[],,False,Karaja.htm,False,♀ waikyrèkò inatxi rekurò,1
+kara1500-17-3,,kara1500,17,wɑwi'ɔ inɑ'tʃi,wɑwi'ɔ inɑ'tʃi,[],,[],,False,Karaja.htm,False,,2
+kara1500-18-1,,kara1500,18,waiɨ're'ɔ ina'taõ ɾeu'rɔ,waiɨ're'ɔ ina'taõ ɾeu'rɔ,[],,[],,False,Karaja.htm,False,waiyrèò inataõ reurò,1
+kara1500-18-2,,kara1500,18,waikɨ're'kɔ inata'nõ reku'rɔ,waikɨ're'kɔ inata'nõ reku'rɔ,[],,[],,False,Karaja.htm,False,♀ waikyrèkò inatano rekurò,1
+kara1500-18-3,,kara1500,18,wɑwi'ɔ inɑ'ɗɑʊ̃,wɑwi'ɔ inɑ'ɗɑʊ̃,[],,[],,False,Karaja.htm,False,,2
+kara1500-19-1,,kara1500,19,waiɨ're'ɔ inaˈubio'wa ɾeu'rɔ,waiɨ're'ɔ inaˈubio'wa ɾeu'rɔ,[],,[],,False,Karaja.htm,False,waiyrèò inaubiòwa reurò,1
+kara1500-19-2,,kara1500,19,waikɨ're'kɔ inaˈkubiko'wa reku'rɔ,waikɨ're'kɔ inaˈkubiko'wa reku'rɔ,[],,[],,False,Karaja.htm,False,♀ waikyrèkò inakubikòwa rekurò,1
+kara1500-19-3,,kara1500,19,wɑwi'ɔ inɑubiɔ'wɑ,wɑwi'ɔ inɑubiɔ'wɑ,[],,[],,False,Karaja.htm,False,,2
+kara1500-20-1,,kara1500,20,waitu'ɛ,waitu'ɛ,[],('feet no more'),[],,False,Karaja.htm,False,waituè,1
+kara1500-20-2,,kara1500,20,wɑiɗu'ɛ,wɑiɗu'ɛ,[],,[],,False,Karaja.htm,False,,2
+kara1500-20-3,,kara1500,20,wawiò,wawiò,[],( litː 'a pair of feet' ),[],,False,Karaja.htm,False,,2

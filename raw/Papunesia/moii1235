@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+moii1235-1-1,,moii1235,1,meele,meele,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-1-2,,moii1235,1,mele,mele,[],,[],,False,Moi-Papua.htm,False,,2
+moii1235-2-1,,moii1235,2,aali,aali,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-2-2,,moii1235,2,ali,ali,[],,[],,False,Moi-Papua.htm,False,,2
+moii1235-3-1,,moii1235,3,tooluk,tooluk,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-3-2,,moii1235,3,tuluk,tuluk,[],,[],,False,Moi-Papua.htm,False,,2
+moii1235-4-1,,moii1235,4,fak,fak,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-4-2,,moii1235,4,fak,fak,[],,[],,False,Moi-Papua.htm,False,,2
+moii1235-5-1,,moii1235,5,maafuk,maafuk,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-5-2,,moii1235,5,mafuk,mafuk,[],,[],,False,Moi-Papua.htm,False,,2
+moii1235-6-1,,moii1235,6,matanan-meele,matanan-meele,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-6-2,,moii1235,6,maftaanim,maftaanim,[],( 5+1 ),[],,False,Moi-Papua.htm,False,,1
+moii1235-6-3,,moii1235,6,mafutani mele,mafutani mele,[],( 5 + 1 ),[],,False,Moi-Papua.htm,False,,2
+moii1235-7-1,,moii1235,7,matanan-aali,matanan-aali,[],( 5 + 2 ),[],,False,Moi-Papua.htm,False,,1
+moii1235-7-2,,moii1235,7,mafwatani ali,mafwatani ali,[],( 5 + 2 ),[],,False,Moi-Papua.htm,False,,2
+moii1235-8-1,,moii1235,8,matanan-tooluk,matanan-tooluk,[],( 5 + 3 ),[],,False,Moi-Papua.htm,False,,1
+moii1235-8-2,,moii1235,8,mafwatani tuluk,mafwatani tuluk,[],( 5 + 3 ),[],,False,Moi-Papua.htm,False,,2
+moii1235-9-1,,moii1235,9,matanan-fak,matanan-fak,[],( 5 + 4 ),[],,False,Moi-Papua.htm,False,,1
+moii1235-9-2,,moii1235,9,mafwatani fat,mafwatani fat,[],( 5 + 4 ),[],,False,Moi-Papua.htm,False,,2
+moii1235-10-1,,moii1235,10,matanan-maaful,matanan-maaful,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-10-2,,moii1235,10,fe,fe,[],,[],,False,Moi-Papua.htm,False,,2
+moii1235-11-1,,moii1235,11,fee-timaali-meele,fee-timaali-meele,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-12-1,,moii1235,12,fee-timaali-aali,fee-timaali-aali,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-13-1,,moii1235,13,fee-timaali-tooluk,fee-timaali-tooluk,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-14-1,,moii1235,14,fee-timaali-fak,fee-timaali-fak,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-15-1,,moii1235,15,fee-timaali-maafuk,fee-timaali-maafuk,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-16-1,,moii1235,16,fee-timaali-maafuk-matanan-meele,fee-timaali-maafuk-matanan-meele,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-17-1,,moii1235,17,fee-timaali-maafuk-matanan-aali,fee-timaali-maafuk-matanan-aali,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-18-1,,moii1235,18,fee-timaali-maafuk-matanan-tooluk,fee-timaali-maafuk-matanan-tooluk,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-19-1,,moii1235,19,fee-timaali-maafuk-matanan-fak,fee-timaali-maafuk-matanan-fak,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-20-1,,moii1235,20,nee-meele-w-aaɡi,nee-meele-w-aaɡi,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-21-1,,moii1235,21,nee-meele-w-aaɡi-nee-wi-nin-meele,nee-meele-w-aaɡi-nee-wi-nin-meele,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-26-1,,moii1235,26,nee-meele-w-aaɡi-n.wi-nin-ma.-meele,nee-meele-w-aaɡi-n.wi-nin-ma.-meele,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-30-1,,moii1235,30,nee-meele-w-aaɡi-nee-wi-nin-fee,nee-meele-w-aaɡi-nee-wi-nin-fee,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-40-1,,moii1235,40,nee-aali-y-iiɡi,nee-aali-y-iiɡi,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-50-1,,moii1235,50,nee-aali-y-iiɡi-nee-tooluk-wi-nin-fee,nee-aali-y-iiɡi-nee-tooluk-wi-nin-fee,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-60-1,,moii1235,60,nee-tooluk-y-iiɡi,nee-tooluk-y-iiɡi,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-70-1,,moii1235,70,nee-tooluk-y-iiɡi-nee-fak-wi-nin-fee,nee-tooluk-y-iiɡi-nee-fak-wi-nin-fee,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-80-1,,moii1235,80,nee-fak-y-iiɡi,nee-fak-y-iiɡi,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-90-1,,moii1235,90,nee-fak-y-iiɡi-nee-maafuk-wi-nin-fee,nee-fak-y-iiɡi-nee-maafuk-wi-nin-fee,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-100-1,,moii1235,100,nee-maafuk-y-iiɡi or witin meel,nee-maafuk-y-iiɡi or witin meel,[],,[],,False,Moi-Papua.htm,True,,1
+moii1235-200-1,,moii1235,200,witin aali,witin aali,[],,[],,False,Moi-Papua.htm,False,,1
+moii1235-1000-1,,moii1235,1000,witin fee,witin fee,[],( 100 x 10 ),[],,False,Moi-Papua.htm,False,,1

@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kuri1260-1-1,,kuri1260,1,eso,eso,[],,[],,False,Kuri.htm,False,,1
+kuri1260-1-2,,kuri1260,1,ɛso,ɛso,[],,[],,False,Kuri.htm,False,,1
+kuri1260-2-1,,kuri1260,2,ru,ru,[],,[],,False,Kuri.htm,False,,1
+kuri1260-2-2,,kuri1260,2,eřu,eřu,[],,[],,False,Kuri.htm,False,,1
+kuri1260-3-1,,kuri1260,3,tor,tor,[],,[],,False,Kuri.htm,False,,1
+kuri1260-3-2,,kuri1260,3,tuřu,tuřu,[],,[],,False,Kuri.htm,False,,1
+kuri1260-4-1,,kuri1260,4,ɡeɡte,ɡeɡte,[],,[],,False,Kuri.htm,False,,1
+kuri1260-4-2,,kuri1260,4,ɡɛɡatɛ,ɡɛɡatɛ,[],,[],,False,Kuri.htm,False,,1
+kuri1260-5-1,,kuri1260,5,βerari,βerari,[],,[],,False,Kuri.htm,False,,1
+kuri1260-5-2,,kuri1260,5,ɸuraduɸide,ɸuraduɸide,[],,[],,False,Kuri.htm,False,,1
+kuri1260-6-1,,kuri1260,6,torso,torso,[],,[],,False,Kuri.htm,False,,1
+kuri1260-6-2,,kuri1260,6,tuřesu,tuřesu,[],( 5 + 1 ),[],,False,Kuri.htm,False,,1
+kuri1260-7-1,,kuri1260,7,treru,treru,[],,[],,False,Kuri.htm,False,,1
+kuri1260-7-2,,kuri1260,7,tɛřeřu,tɛřeřu,[],( 5 + 2 ),[],,False,Kuri.htm,False,,1
+kuri1260-8-1,,kuri1260,8,tretor. tuřetuřu,tretor. tuřetuřu,[],( 5 + 3 ),[],,False,Kuri.htm,True,,1
+kuri1260-9-1,,kuri1260,9,trete,trete,[],,[],,False,Kuri.htm,False,,1
+kuri1260-9-2,,kuri1260,9,tɛřɛɡatɛ,tɛřɛɡatɛ,[],( 5 + 4 ),[],,False,Kuri.htm,False,,1
+kuri1260-10-1,,kuri1260,10,βeratru,βeratru,[],,[],,False,Kuri.htm,False,,1
+kuri1260-10-2,,kuri1260,10,ɸuraduru,ɸuraduru,[],,[],,False,Kuri.htm,False,,1
+kuri1260-20-1,,kuri1260,20,matueso,matueso,[],(litː 'one man'),[],,False,Kuri.htm,False,,1
+kuri1260-30-1,,kuri1260,30,matutor,matutor,[],,[],,False,Kuri.htm,False,,1
+kuri1260-100-1,,kuri1260,100,ratueso,ratueso,[],,[],,False,Kuri.htm,False,,1

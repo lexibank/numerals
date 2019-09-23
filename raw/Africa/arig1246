@@ -1,0 +1,87 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+arig1246-1-1,,arig1246,1,kɛ̀ɛ́ɲɛ̃,kɛ̀ɛ́ɲɛ̃,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-1-2,,arig1246,1,ékán,ékán,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-2-1,,arig1246,2,kèji,kèji,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-2-2,,arig1246,2,ìyí,ìyí,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-3-1,,arig1246,3,kedà,kedà,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-3-2,,arig1246,3,ídaː,ídaː,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-4-1,,arig1246,4,kenɛ,kenɛ,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-4-2,,arig1246,4,ínɛ́,ínɛ́,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-5-1,,arig1246,5,kéntɔ̀,kéntɔ̀,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-5-2,,arig1246,5,ítɔ̃̀,ítɔ̃̀,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-6-1,,arig1246,6,kefà,kefà,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-6-2,,arig1246,6,ìfà,ìfà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-7-1,,arig1246,7,keɸi,keɸi,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-7-2,,arig1246,7,ídʒúí,ídʒúí,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-8-1,,arig1246,8,kerò,kerò,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-8-2,,arig1246,8,írò,írò,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-9-1,,arig1246,9,kéndà,kéndà,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-9-2,,arig1246,9,ĩ́ŋa,ĩ́ŋa,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-10-1,,arig1246,10,kéjè,kéjè,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-10-2,,arig1246,10,íyè,íyè,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-11-1,,arig1246,11,nka rí jè,nka rí jè,[],(10+1),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-11-2,,arig1246,11,íyèkúakã,íyèkúakã,[],(10+1),[],,False,Owon-Oge.htm,False,,1
+arig1246-12-1,,arig1246,12,ìji rí jè,ìji rí jè,[],(10+2),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-12-2,,arig1246,12,íyèkúijé,íyèkúijé,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-13-1,,arig1246,13,ida rí jè,ida rí jè,[],(10+3),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-13-2,,arig1246,13,íyèkúidá,íyèkúidá,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-14-1,,arig1246,14,inɛ rí jè,inɛ rí jè,[],(10+4),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-14-2,,arig1246,14,íyèkúinɛ̀,íyèkúinɛ̀,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-15-1,,arig1246,15,íntɔ tutu ɡbɔrɔ̀,íntɔ tutu ɡbɔrɔ̀,[],(20-5),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-15-2,,arig1246,15,íyèkúitɔ̃̀,íyèkúitɔ̃̀,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-16-1,,arig1246,16,ínɛ tutu ɡbɔrɔ̀,ínɛ tutu ɡbɔrɔ̀,[],(20-4),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-16-2,,arig1246,16,íyèkúìfà,íyèkúìfà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-17-1,,arig1246,17,ida tutu ɡbɔrɔ̀,ida tutu ɡbɔrɔ̀,[],(20-3),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-17-2,,arig1246,17,íyèkúidʒúí,íyèkúidʒúí,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-18-1,,arig1246,18,ìji tutu ɡbɔrɔ̀,ìji tutu ɡbɔrɔ̀,[],(20-2),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-18-2,,arig1246,18,íyèkúíro,íyèkúíro,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-19-1,,arig1246,19,ikɔlɔ tutu ɡbɔrɔ̀,ikɔlɔ tutu ɡbɔrɔ̀,[],(20-1),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-19-2,,arig1246,19,íyèkúíŋà,íyèkúíŋà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-20-1,,arig1246,20,uɡbɔrɔ̀,uɡbɔrɔ̀,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-20-2,,arig1246,20,úɡbɔ́rɔ,úɡbɔ́rɔ,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-21-1,,arig1246,21,uɡbɔrɔ́ rɛ kirã̀,uɡbɔrɔ́ rɛ kirã̀,[],(20+1),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-21-2,,arig1246,21,úɡbɔ́rɔrɛ̀ɔlɔ,úɡbɔ́rɔrɛ̀ɔlɔ,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-22-1,,arig1246,22,uɡbɔrɔ́ rɛ ji,uɡbɔrɔ́ rɛ ji,[],(20+2),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-22-2,,arig1246,22,úɡbɔ́rɔrɛìyí,úɡbɔ́rɔrɛìyí,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-23-1,,arig1246,23,uɡbɔrɔ́ rɛ dà,uɡbɔrɔ́ rɛ dà,[],(20+3),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-23-2,,arig1246,23,úɡbɔ́rɔrɛídà,úɡbɔ́rɔrɛídà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-24-1,,arig1246,24,uɡbɔrɔ́ rɛ nɛ,uɡbɔrɔ́ rɛ nɛ,[],(20+4),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-24-2,,arig1246,24,úɡbɔ́rɔrɛ̀nɛ,úɡbɔ́rɔrɛ̀nɛ,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-25-1,,arig1246,25,íntɔ ʧìtu sɔ̃ɡbà,íntɔ ʧìtu sɔ̃ɡbà,[],(30-5),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-25-2,,arig1246,25,úɡbɔ́rɔrítɔ̃̀,úɡbɔ́rɔrítɔ̃̀,[],( 20+5),[],,False,Owon-Oge.htm,False,,1
+arig1246-26-1,,arig1246,26,inɛ́ʧìtu sɔ̃ɡbà,inɛ́ʧìtu sɔ̃ɡbà,[],(30-4),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-26-2,,arig1246,26,úɡbɔ́rɔrɛ̀fà,úɡbɔ́rɔrɛ̀fà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-27-1,,arig1246,27,idá ʧìtu sɔ̃ɡbà,idá ʧìtu sɔ̃ɡbà,[],(30-3),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-27-2,,arig1246,27,úɡbɔ́rɔrɛídʒúí,úɡbɔ́rɔrɛídʒúí,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-28-1,,arig1246,28,ɔ̃̀ɡbá ʧì ji,ɔ̃̀ɡbá ʧì ji,[],(30-2),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-28-2,,arig1246,28,úɡbɔ́rɔrɛ́írò,úɡbɔ́rɔrɛ́írò,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-29-1,,arig1246,29,ɔ̃̀ɡbá ʧì kirã̀,ɔ̃̀ɡbá ʧì kirã̀,[],(30-1),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-29-2,,arig1246,29,úɡbɔ́rɔrɛíŋà,úɡbɔ́rɔrɛíŋà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-30-1,,arig1246,30,ɔ̃ɡbà,ɔ̃ɡbà,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-30-2,,arig1246,30,ɔ̃̀ɡbà,ɔ̃̀ɡbà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-40-1,,arig1246,40,òrĩji,òrĩji,[],(20x2),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-40-2,,arig1246,40,òrĩ̀yí,òrĩ̀yí,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-50-1,,arig1246,50,òrĩdà ʧì íjè,òrĩdà ʧì íjè,[],(20x3-10),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-50-2,,arig1246,50,òrĩ̀yírɛ'yè 40+10,òrĩ̀yírɛ'yè 40+10,[],,[],,False,Owon-Oge.htm,True,,1
+arig1246-60-1,,arig1246,60,òrĩdà,òrĩdà,[],(20x3),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-60-2,,arig1246,60,orĩ́ŋà,orĩ́ŋà,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-70-1,,arig1246,70,òrĩnɛ́ ʧì íjè,òrĩnɛ́ ʧì íjè,[],(20x4-10),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-70-2,,arig1246,70,orĩ́ŋarɛ'ye 60+10,orĩ́ŋarɛ'ye 60+10,[],,[],,False,Owon-Oge.htm,True,,1
+arig1246-70-3,,arig1246,70,iyèrɛorĩ́da,iyèrɛorĩ́da,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-80-1,,arig1246,80,òrĩnɛ,òrĩnɛ,[],(20x4),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-80-2,,arig1246,80,òrĩnɛ́,òrĩnɛ́,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-90-1,,arig1246,90,orĩ́tɔ ʧì íjè,orĩ́tɔ ʧì íjè,[],(20x5-10),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-90-2,,arig1246,90,òrĩnɛ́rɛ'ye 80+10,òrĩnɛ́rɛ'ye 80+10,[],,[],,False,Owon-Oge.htm,True,,1
+arig1246-90-3,,arig1246,90,iyèrɛòrĩnɛ́,iyèrɛòrĩnɛ́,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-100-1,,arig1246,100,orĩ́tɔ̀,orĩ́tɔ̀,[],(20x5),[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-100-2,,arig1246,100,íjeɡbɔrɔ̀,íjeɡbɔrɔ̀,[],(20x10),[],,False,Arigidi-Igasi.htm,False,200.,1
+arig1246-100-3,,arig1246,100,orĩ́tɔ̃̀,orĩ́tɔ̃̀,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-100-4,,arig1246,100,íyèɡbɔ́rɔ,íyèɡbɔ́rɔ,[],,[],,False,Owon-Oge.htm,False,200.,1
+arig1246-400-1,,arig1246,400,íjɔɡbɔrɔ̀ 20 in 20 places,íjɔɡbɔrɔ̀ 20 in 20 places,[],,[],,False,Arigidi-Igasi.htm,True,,1
+arig1246-400-2,,arig1246,400,ìyíyeɡbɔ́rɔ 200 x 2,ìyíyeɡbɔ́rɔ 200 x 2,[],,[],,False,Owon-Oge.htm,True,,1
+arig1246-800-1,,arig1246,800,ɛgbɛ̀rĩ,ɛgbɛ̀rĩ,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-800-2,,arig1246,800,ɛɡbɛ̀rũ,ɛɡbɛ̀rũ,[],,[],,False,Arigidi-Igasi.htm,False,1000.,1
+arig1246-800-3,,arig1246,800,ínɛ̀yèɡbɔ́rɔ,ínɛ̀yèɡbɔ́rɔ,[],,[],,False,Owon-Oge.htm,False,,1
+arig1246-800-4,,arig1246,800,ítɔ̃̀yéɡbɔ́rɔ,ítɔ̃̀yéɡbɔ́rɔ,[],,[],,False,Owon-Oge.htm,False,1000.,1
+arig1246-2000-1,,arig1246,2000,ɛɡbɛ̀wa,ɛɡbɛ̀wa,[],,[],,False,Arigidi-Igasi.htm,False,,1
+arig1246-2000-2,,arig1246,2000,íyèyéɡbɔ́rɔ,íyèyéɡbɔ́rɔ,[],,[],,False,Owon-Oge.htm,False,,1

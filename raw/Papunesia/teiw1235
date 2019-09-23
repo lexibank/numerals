@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+teiw1235-1-1,,teiw1235,1,nuk,nuk,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-2-1,,teiw1235,2,raq,raq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-2-2,,teiw1235,2,haraq,haraq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-3-1,,teiw1235,3,jeriɡ,jeriɡ,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-4-1,,teiw1235,4,ut,ut,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-5-1,,teiw1235,5,jusan,jusan,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-6-1,,teiw1235,6,tia:m,tia:m,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-7-1,,teiw1235,7,jesraq,jesraq,[],( 'five two'),[],,False,Teiwa.htm,False,,1
+teiw1235-8-1,,teiw1235,8,jesneriɡ,jesneriɡ,[],( 'five three'),[],,False,Teiwa.htm,False,,1
+teiw1235-9-1,,teiw1235,9,jesnaʔut,jesnaʔut,[],( 'five four'),[],,False,Teiwa.htm,False,,1
+teiw1235-10-1,,teiw1235,10,qa:r nuk,qa:r nuk,[],('ten one'),[],,False,Teiwa.htm,False,,1
+teiw1235-11-1,,teiw1235,11,qa:r nuk ruɡ nuk,qa:r nuk ruɡ nuk,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-12-1,,teiw1235,12,qa:r nuk ruɡ raq,qa:r nuk ruɡ raq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-12-2,,teiw1235,12,haraq,haraq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-13-1,,teiw1235,13,qa:r nuk ruɡ jeriɡ,qa:r nuk ruɡ jeriɡ,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-14-1,,teiw1235,14,qa:r nuk ruɡ ut,qa:r nuk ruɡ ut,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-15-1,,teiw1235,15,qa:r nuk ruɡ jusan,qa:r nuk ruɡ jusan,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-16-1,,teiw1235,16,qa:r nuk ruɡ tia:m,qa:r nuk ruɡ tia:m,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-17-1,,teiw1235,17,qa:r nuk ruɡ jesraq,qa:r nuk ruɡ jesraq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-18-1,,teiw1235,18,qa:r nuk ruɡ jesneriɡ,qa:r nuk ruɡ jesneriɡ,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-19-1,,teiw1235,19,qa:r nuk ruɡ jesnaʔut,qa:r nuk ruɡ jesnaʔut,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-20-1,,teiw1235,20,qa:r raq,qa:r raq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-21-1,,teiw1235,21,qa:r raq ruɡ nuk,qa:r raq ruɡ nuk,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-22-1,,teiw1235,22,qa:r raq ruɡ raq,qa:r raq ruɡ raq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-22-2,,teiw1235,22,haraq,haraq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-23-1,,teiw1235,23,qa:r raq ruɡ jeriɡ,qa:r raq ruɡ jeriɡ,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-24-1,,teiw1235,24,qa:r raq ruɡ ut,qa:r raq ruɡ ut,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-25-1,,teiw1235,25,qa:r raq ruɡ jusan,qa:r raq ruɡ jusan,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-26-1,,teiw1235,26,qa:r raq ruɡ tia:m,qa:r raq ruɡ tia:m,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-27-1,,teiw1235,27,qa:r raq ruɡ jesraq,qa:r raq ruɡ jesraq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-28-1,,teiw1235,28,qa:r raq ruɡ jesneriɡ,qa:r raq ruɡ jesneriɡ,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-29-1,,teiw1235,29,qa:r raq ruɡ jesnaʔut,qa:r raq ruɡ jesnaʔut,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-30-1,,teiw1235,30,qa:r jeriɡ,qa:r jeriɡ,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-40-1,,teiw1235,40,qa:r ut,qa:r ut,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-50-1,,teiw1235,50,qa:r jusan,qa:r jusan,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-60-1,,teiw1235,60,qa:r tia:m nuk,qa:r tia:m nuk,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-70-1,,teiw1235,70,qa:r jesraq,qa:r jesraq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-80-1,,teiw1235,80,qa:r jesneriɡ,qa:r jesneriɡ,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-90-1,,teiw1235,90,qa:r jesnaʔut,qa:r jesnaʔut,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-100-1,,teiw1235,100,ratu,ratu,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-200-1,,teiw1235,200,ratu (ha)raq,ratu (ha)raq,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-1000-1,,teiw1235,1000,ribu nuk,ribu nuk,[],,[],,False,Teiwa.htm,False,,1
+teiw1235-2000-1,,teiw1235,2000,ribu raq,ribu raq,[],,[],,False,Teiwa.htm,False,,1

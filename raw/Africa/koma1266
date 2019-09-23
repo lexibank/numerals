@@ -1,0 +1,60 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+koma1266-1-1,,koma1266,1,mani,mani,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-1-2,,koma1266,1,màn,màn,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-1-3,,koma1266,1,màn,màn,[],,[],,False,Vomnem.htm,False,,1
+koma1266-2-1,,koma1266,2,tɛk,tɛk,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-2-2,,koma1266,2,ètên,ètên,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-2-3,,koma1266,2,ètên,ètên,[],,[],,False,Vomnem.htm,False,,1
+koma1266-3-1,,koma1266,3,taarək,taarək,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-3-2,,koma1266,3,tāán,tāán,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-3-3,,koma1266,3,tāán,tāán,[],,[],,False,Vomnem.htm,False,,1
+koma1266-4-1,,koma1266,4,náárə́k,náárə́k,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-4-2,,koma1266,4,nānnò,nānnò,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-4-3,,koma1266,4,nānnò,nānnò,[],,[],,False,Vomnem.htm,False,,1
+koma1266-5-1,,koma1266,5,nɔɔnɔ̀k,nɔɔnɔ̀k,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-5-2,,koma1266,5,ɡbà náárò,ɡbà náárò,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-5-3,,koma1266,5,ɡbà náárò,ɡbà náárò,[],,[],,False,Vomnem.htm,False,,1
+koma1266-6-1,,koma1266,6,nɔɔ waŋɡə,nɔɔ waŋɡə,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-6-2,,koma1266,6,ɡbāāsə̀ mâl,ɡbāāsə̀ mâl,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-6-3,,koma1266,6,ɡbāāsə̀ mâl,ɡbāāsə̀ mâl,[],,[],,False,Vomnem.htm,False,,1
+koma1266-7-1,,koma1266,7,náárə́k àp tāārə̀k,náárə́k àp tāārə̀k,[],( 4 + 3 ?),[],,False,Koma-Vomni.htm,False,,1
+koma1266-7-2,,koma1266,7,ɡbāāsə̀ ètên,ɡbāāsə̀ ètên,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-7-3,,koma1266,7,ɡbāāsə̀ ètên,ɡbāāsə̀ ètên,[],,[],,False,Vomnem.htm,False,,1
+koma1266-8-1,,koma1266,8,náárə́k àp náárə́k,náárə́k àp náárə́k,[],( 4 + 4 ?),[],,False,Koma-Vomni.htm,False,,1
+koma1266-8-2,,koma1266,8,ɡbāāsə̀ táān,ɡbāāsə̀ táān,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-8-3,,koma1266,8,ɡbāāsə̀ táān,ɡbāāsə̀ táān,[],,[],,False,Vomnem.htm,False,,1
+koma1266-9-1,,koma1266,9,náárə́k àp nɔɔnɔ̀k,náárə́k àp nɔɔnɔ̀k,[],( 4 + 5 ?),[],,False,Koma-Vomni.htm,False,,1
+koma1266-9-2,,koma1266,9,ɡbāāsə̀ nānnà,ɡbāāsə̀ nānnà,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-9-3,,koma1266,9,ɡbāāsə̀ nānnà,ɡbāāsə̀ nānnà,[],,[],,False,Vomnem.htm,False,,1
+koma1266-10-1,,koma1266,10,kóp,kóp,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-10-2,,koma1266,10,kòmnā,kòmnā,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-10-3,,koma1266,10,kòmnā,kòmnā,[],,[],,False,Vomnem.htm,False,,1
+koma1266-11-1,,koma1266,11,kóp dìˀ mani,kóp dìˀ mani,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-11-2,,koma1266,11,kòmnā sàà màn,kòmnā sàà màn,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-11-3,,koma1266,11,kòmnā sàà màn,kòmnā sàà màn,[],,[],,False,Vomnem.htm,False,,1
+koma1266-12-1,,koma1266,12,kóp dìˀ tɛk,kóp dìˀ tɛk,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-13-1,,koma1266,13,kóp dìˀ taarək,kóp dìˀ taarək,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-14-1,,koma1266,14,kóp dìˀ náárə́k,kóp dìˀ náárə́k,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-15-1,,koma1266,15,wàllə̀,wàllə̀,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-15-2,,koma1266,15,kòmnā sàà ɡbà náárò,kòmnā sàà ɡbà náárò,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-15-3,,koma1266,15,kòmnā sàà ɡbà náárò,kòmnā sàà ɡbà náárò,[],,[],,False,Vomnem.htm,False,,1
+koma1266-16-1,,koma1266,16,wàllə dìˀ mani,wàllə dìˀ mani,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-17-1,,koma1266,17,wàllə dìˀ tɛk,wàllə dìˀ tɛk,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-18-1,,koma1266,18,wàllə dìˀ taarək,wàllə dìˀ taarək,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-19-1,,koma1266,19,wàllə dìˀ náárə́k,wàllə dìˀ náárə́k,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-20-1,,koma1266,20,zul,zul,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-20-2,,koma1266,20,ráárò,ráárò,[],,[],,False,Koma-Vomni.htm,False,,2
+koma1266-20-3,,koma1266,20,ráárò,ráárò,[],,[],,False,Vomnem.htm,False,,1
+koma1266-21-1,,koma1266,21,zul dìˀ mani,zul dìˀ mani,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-22-1,,koma1266,22,zul dìˀ tɛk,zul dìˀ tɛk,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-30-1,,koma1266,30,zul dìˀ kóp,zul dìˀ kóp,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-40-1,,koma1266,40,zuuˀ tɛk,zuuˀ tɛk,[],(litː 'two heads'),[],,False,Koma-Vomni.htm,False,,1
+koma1266-40-2,,koma1266,40,zūū ēttɛ́,zūū ēttɛ́,[],(litː 'two heads'),[],,False,Koma-Vomni.htm,False,,2
+koma1266-40-3,,koma1266,40,zūū ēttɛ́,zūū ēttɛ́,[],(litː 'two heads'),[],,False,Vomnem.htm,False,,1
+koma1266-60-1,,koma1266,60,zuuˀ taari,zuuˀ taari,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-80-1,,koma1266,80,zuuˀ náárí,zuuˀ náárí,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-100-1,,koma1266,100,zuuˀnɔɔnì,zuuˀnɔɔnì,[],(litː 'five heads'),[],,False,Koma-Vomni.htm,False,,1
+koma1266-100-2,,koma1266,100,zūū ɡbà náárò,zūū ɡbà náárò,[],(litː 'five heads'),[],,False,Koma-Vomni.htm,False,,2
+koma1266-100-3,,koma1266,100,zūū ɡbà náárò,zūū ɡbà náárò,[],(litː 'five heads'),[],,False,Vomnem.htm,False,,1
+koma1266-200-1,,koma1266,200,zuuˀ kóp,zuuˀ kóp,[],,[],,False,Koma-Vomni.htm,False,,1
+koma1266-1000-1,,koma1266,1000,dukə,dukə,[],,[],,False,Koma-Vomni.htm,False,,1

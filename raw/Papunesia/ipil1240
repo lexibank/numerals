@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+ipil1240-1-1,,ipil1240,1,miⁿdi,miⁿdi,[],,[],,False,Ipili.htm,False,,1
+ipil1240-2-1,,ipil1240,2,ɭapo,ɭapo,[],,[],,False,Ipili.htm,False,,1
+ipil1240-3-1,,ipil1240,3,tepo,tepo,[],,[],,False,Ipili.htm,False,,1
+ipil1240-4-1,,ipil1240,4,tukumiⁿdi,tukumiⁿdi,[],,[],,False,Ipili.htm,False,,1
+ipil1240-5-1,,ipil1240,5,yau,yau,[],,[],,False,Ipili.htm,False,,1
+ipil1240-6-1,,ipil1240,6,wataka,wataka,[],,[],,False,Ipili.htm,False,,1
+ipil1240-7-1,,ipil1240,7,yanasia,yanasia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-8-1,,ipil1240,8,kitupasia,kitupasia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-9-1,,ipil1240,9,piɭisia,piɭisia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-10-1,,ipil1240,10,paiyasia,paiyasia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-11-1,,ipil1240,11,masia,masia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-12-1,,ipil1240,12,aɭesia,aɭesia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-13-1,,ipil1240,13,ɭeesia,ɭeesia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-14-1,,ipil1240,14,iⁿɡasia,iⁿɡasia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-15-1,,ipil1240,15,aⁿbi ɭene,aⁿbi ɭene,[],,[],,False,Ipili.htm,False,,1
+ipil1240-16-1,,ipil1240,16,aⁿbi aɭene,aⁿbi aɭene,[],,[],,False,Ipili.htm,False,,1
+ipil1240-17-1,,ipil1240,17,napi mane,napi mane,[],,[],,False,Ipili.htm,False,,1
+ipil1240-18-1,,ipil1240,18,napi paiyane,napi paiyane,[],,[],,False,Ipili.htm,False,,1
+ipil1240-19-1,,ipil1240,19,napi piɭini,napi piɭini,[],,[],,False,Ipili.htm,False,,1
+ipil1240-20-1,,ipil1240,20,napi kitupane,napi kitupane,[],,[],,False,Ipili.htm,False,,1
+ipil1240-21-1,,ipil1240,21,napi yanane,napi yanane,[],,[],,False,Ipili.htm,False,,1
+ipil1240-22-1,,ipil1240,22,napi watakane,napi watakane,[],,[],,False,Ipili.htm,False,,1
+ipil1240-23-1,,ipil1240,23,napi yauwini,napi yauwini,[],,[],,False,Ipili.htm,False,,1
+ipil1240-24-1,,ipil1240,24,napi tukuni,napi tukuni,[],,[],,False,Ipili.htm,False,,1
+ipil1240-25-1,,ipil1240,25,napi tepone,napi tepone,[],,[],,False,Ipili.htm,False,,1
+ipil1240-26-1,,ipil1240,26,napi ɭapone,napi ɭapone,[],,[],,False,Ipili.htm,False,,1
+ipil1240-27-1,,ipil1240,27,poⁿdo,poⁿdo,[],,[],,False,Ipili.htm,False,,1
+ipil1240-28-1,,ipil1240,28,unya miⁿdi,unya miⁿdi,[],,[],,False,Ipili.htm,False,,1
+ipil1240-29-1,,ipil1240,29,unya ɭapo or unya ɭapone,unya ɭapo or unya ɭapone,[],,[],,False,Ipili.htm,True,,1
+ipil1240-30-1,,ipil1240,30,paiyasia tepo,paiyasia tepo,[],,[],,False,Ipili.htm,False,,1
+ipil1240-40-1,,ipil1240,40,paiyasia tukumiⁿdi,paiyasia tukumiⁿdi,[],,[],,False,Ipili.htm,False,,1
+ipil1240-50-1,,ipil1240,50,paiyasia yau,paiyasia yau,[],,[],,False,Ipili.htm,False,,1
+ipil1240-60-1,,ipil1240,60,paiyasia wataka,paiyasia wataka,[],,[],,False,Ipili.htm,False,,1
+ipil1240-70-1,,ipil1240,70,paiyasia yanasia,paiyasia yanasia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-80-1,,ipil1240,80,paiyasia kitupasia,paiyasia kitupasia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-90-1,,ipil1240,90,paiyasia piɭisia,paiyasia piɭisia,[],,[],,False,Ipili.htm,False,,1
+ipil1240-100-1,,ipil1240,100,paiyasia paiyasia or andete,paiyasia paiyasia or andete,[],(< English),[],,True,Ipili.htm,True,,1
+ipil1240-200-1,,ipil1240,200,andete ɭapo,andete ɭapo,[],,[],,False,Ipili.htm,False,,1
+ipil1240-1000-1,,ipil1240,1000,tausene,tausene,[],( < English ),[],,True,Ipili.htm,False,,1
+ipil1240-2000-1,,ipil1240,2000,tausene ɭapo,tausene ɭapo,[],,[],,False,Ipili.htm,False,,1
