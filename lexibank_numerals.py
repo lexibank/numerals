@@ -55,6 +55,14 @@ def make_chan_link(s):
     return " ([Source]" + "(" + CHANURL + s + "))"
 
 
+def check_for_problems(entry):
+    for row in entry:
+        if row["Problematic"] == "True":
+            return " **(Problems)**"
+        else:
+            return ""
+
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "numerals"
@@ -62,6 +70,7 @@ class Dataset(BaseDataset):
     def cmd_download(self, **kw):
         index = Path(self.raw / "index.md")
 
+        # Create index always from scratch:
         if index.exists():
             Path.unlink(index)
 
@@ -103,14 +112,15 @@ class Dataset(BaseDataset):
         for entry in split_ft:
             lid = entry[0]["Language_ID"]
             chansrc = entry[0]["SourceFile"]
-            fam = "Other"
+            family = "Other"
+            problems = check_for_problems(entry)
 
             if languoids[lid].family and languoids[lid].family.name in FAMILIES:
-                fam = languoids[lid].family.name
+                family = languoids[lid].family.name
 
-            pathlib.Path("raw/" + fam).mkdir(parents=True, exist_ok=True)
+            pathlib.Path("raw/" + family).mkdir(parents=True, exist_ok=True)
 
-            with open("raw/" + fam + "/" + lid + ".csv", "w") as outfile:
+            with open("raw/" + family + "/" + lid + ".csv", "w") as outfile:
                 fp = csv.DictWriter(outfile, entry[0].keys())
                 fp.writeheader()
                 fp.writerows(sorted(entry, key=lambda x: int(x["Parameter_ID"])))
@@ -119,7 +129,7 @@ class Dataset(BaseDataset):
             with open(index, "a+") as outfile:
                 index_link = make_index_link(github_file)
                 chan_link = make_chan_link(chansrc)
-                outfile.write(index_link + chan_link + '\n')
+                outfile.write(index_link + chan_link + problems + '\n')
 
     def cmd_install(self, **kw):
         with self.cldf as _:
