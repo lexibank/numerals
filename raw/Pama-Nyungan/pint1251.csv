@@ -1,0 +1,9 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+pint1251-1-1,,pint1251,1,kutju,kutju,[],,[],,False,Pintiini-Wangkatja.htm,False,,1
+pint1251-1-2,,pint1251,1,kutju,kutju,[],,[],,False,Pintiini.htm,False,,1
+pint1251-2-1,,pint1251,2,kutjarra （3rd person dual = pula),kutjarra （3rd person dual = pula),[],,[],,False,Pintiini-Wangkatja.htm,True,,1
+pint1251-2-2,,pint1251,2,kutjarra （3rd person dual = pula),kutjarra （3rd person dual = pula),[],,[],,False,Pintiini.htm,True,,1
+pint1251-3-1,,pint1251,3,mankurrpa,mankurrpa,[],,[],,False,Pintiini-Wangkatja.htm,False,,1
+pint1251-3-2,,pint1251,3,mankurrpa,mankurrpa,[],,[],,False,Pintiini.htm,False,,1
+pint1251-4-1,,pint1251,4,kutjarra-kutjarra,kutjarra-kutjarra,[],( 2 + 2  ),[],,False,Pintiini-Wangkatja.htm,False,,1
+pint1251-4-2,,pint1251,4,kutjarra-kutjarra,kutjarra-kutjarra,[],( 2 + 2  ),[],,False,Pintiini.htm,False,,1

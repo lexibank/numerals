@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+chuk1273-1-1,,chuk1273,1,ənnen,ənnen,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-1-2,,chuk1273,1,ənnên,ənnên,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-2-1,,chuk1273,2,ŋireq,ŋireq,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-2-2,,chuk1273,2,ŋirêq,ŋirêq,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-2-3,,chuk1273,2,ŋicêq,ŋicêq,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-3-1,,chuk1273,3,ŋəroq,ŋəroq,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-3-2,,chuk1273,3,ŋəroq,ŋəroq,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-4-1,,chuk1273,4,ŋəraq,ŋəraq,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-4-2,,chuk1273,4,ŋəraq,ŋəraq,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-5-1,,chuk1273,5,mətləŋen,mətləŋen,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-5-2,,chuk1273,5,mətləŋên,mətləŋên,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-6-1,,chuk1273,6,ənnanmətɬəŋen,ənnanmətɬəŋen,[],( 1 + 5 ),[],,False,Chukchi.htm,False,,1
+chuk1273-6-2,,chuk1273,6,ənnanmətləŋên,ənnanmətləŋên,[],( 1 + 5 ),[],,False,Chukchi.htm,False,,2
+chuk1273-7-1,,chuk1273,7,ŋerʔamətɬəŋen,ŋerʔamətɬəŋen,[],( 2 + 5 ),[],,False,Chukchi.htm,False,,1
+chuk1273-7-2,,chuk1273,7,ŋêrʔamətləŋên,ŋêrʔamətləŋên,[],( 2 + 5 ),[],,False,Chukchi.htm,False,,2
+chuk1273-8-1,,chuk1273,8,amŋərootken,amŋərootken,[],"(litː ''just the third"")",[],,False,Chukchi.htm,False,,1
+chuk1273-8-2,,chuk1273,8,ŋəʔomətləŋên,ŋəʔomətləŋên,[],( 3 + 5 ),[],,False,Chukchi.htm,False,,2
+chuk1273-9-1,,chuk1273,9,qonʔacɣənen,qonʔacɣənen,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-9-2,,chuk1273,9,ŋərʔamətləŋên,ŋərʔamətləŋên,[],( 4 + 5 ),[],,False,Chukchi.htm,False,,2
+chuk1273-10-1,,chuk1273,10,mənɣətken,mənɣətken,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-10-2,,chuk1273,10,mənɣəkên,mənɣəkên,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-11-1,,chuk1273,11,mənɣətken ənnen parol,mənɣətken ənnen parol,[],"( ten, one       remaining)",[],,False,Chukchi.htm,False,,1
+chuk1273-11-2,,chuk1273,11,mənɣəkên ənnên parol,mənɣəkên ənnên parol,[],"( ten, one       remaining)",[],,False,Chukchi.htm,False,,2
+chuk1273-12-1,,chuk1273,12,mənɣətken ŋireq paroɬ,mənɣətken ŋireq paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-12-2,,chuk1273,12,mənɣəkên ŋirêq parol,mənɣəkên ŋirêq parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-13-1,,chuk1273,13,mənɣətken ŋəroq paroɬ,mənɣətken ŋəroq paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-13-2,,chuk1273,13,mənɣəkên ŋəroq parol,mənɣəkên ŋəroq parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-14-1,,chuk1273,14,mənɣətken ŋəraq paroɬ,mənɣətken ŋəraq paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-14-2,,chuk1273,14,mənɣəkên ŋəraq parol,mənɣəkên ŋəraq parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-15-1,,chuk1273,15,kəlɣənken,kəlɣənken,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-15-2,,chuk1273,15,kəlɣənkên,kəlɣənkên,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-16-1,,chuk1273,16,kəlɣəntken ənnen paroɬ,kəlɣəntken ənnen paroɬ,[],( 15 + 1 ),[],,False,Chukchi.htm,False,,1
+chuk1273-16-2,,chuk1273,16,kəlɣənkên ənnên parol,kəlɣənkên ənnên parol,[],( 15 + 1 ),[],,False,Chukchi.htm,False,,2
+chuk1273-17-1,,chuk1273,17,kəlɣənken ŋireq paroɬ,kəlɣənken ŋireq paroɬ,[],( 15 + 2 ),[],,False,Chukchi.htm,False,,1
+chuk1273-17-2,,chuk1273,17,kəlɣənkên ŋirêq parol,kəlɣənkên ŋirêq parol,[],( 15 + 2 ),[],,False,Chukchi.htm,False,,2
+chuk1273-18-1,,chuk1273,18,kəlɣənken ŋəroq paroɬ,kəlɣənken ŋəroq paroɬ,[],( 15 + 3 ),[],,False,Chukchi.htm,False,,1
+chuk1273-18-2,,chuk1273,18,kəlɣənkên ŋəroq parol,kəlɣənkên ŋəroq parol,[],( 15 + 3 ),[],,False,Chukchi.htm,False,,2
+chuk1273-19-1,,chuk1273,19,kəlɣənken ŋəraq paroɬ,kəlɣənken ŋəraq paroɬ,[],( 15 + 4 ),[],,False,Chukchi.htm,False,,1
+chuk1273-19-2,,chuk1273,19,kəlɣənkên ŋəraq parol,kəlɣənkên ŋəraq parol,[],( 15 + 4 ),[],,False,Chukchi.htm,False,,2
+chuk1273-20-1,,chuk1273,20,qɬikkin,qɬikkin,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-20-2,,chuk1273,20,qlikkin,qlikkin,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-21-1,,chuk1273,21,qɬikkin ənnen paroɬ,qɬikkin ənnen paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-21-2,,chuk1273,21,qlikkin ənnên parol,qlikkin ənnên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-22-1,,chuk1273,22,qɬikkin ŋireq paroɬ,qɬikkin ŋireq paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-22-2,,chuk1273,22,qlikkin ŋirêq parol,qlikkin ŋirêq parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-23-1,,chuk1273,23,qɬikkin ŋəroq paroɬ,qɬikkin ŋəroq paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-23-2,,chuk1273,23,qlikkin ŋəroq parol,qlikkin ŋəroq parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-24-1,,chuk1273,24,qɬikkin ŋəraq paroɬ,qɬikkin ŋəraq paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-24-2,,chuk1273,24,qlikkin ŋəraq parol,qlikkin ŋəraq parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-25-1,,chuk1273,25,qɬikkin mətləŋen paroɬ,qɬikkin mətləŋen paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-25-2,,chuk1273,25,qlikkin mətləŋên parol,qlikkin mətləŋên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-26-1,,chuk1273,26,qɬikkin ənnanmətɬəŋen paroɬ,qɬikkin ənnanmətɬəŋen paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-26-2,,chuk1273,26,qlikkin ənnanmətləŋên parol,qlikkin ənnanmətləŋên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-27-1,,chuk1273,27,qɬikkin ŋerʔamətɬəŋen paroɬ,qɬikkin ŋerʔamətɬəŋen paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-27-2,,chuk1273,27,qlikkin ŋêrʔamətləŋên parol,qlikkin ŋêrʔamətləŋên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-28-1,,chuk1273,28,qɬikkin amŋərootken paroɬ,qɬikkin amŋərootken paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-28-2,,chuk1273,28,qlikkin ŋəʔomətləŋên parol,qlikkin ŋəʔomətləŋên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-29-1,,chuk1273,29,qɬikkin qonʔacɣənen paroɬ,qɬikkin qonʔacɣənen paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-29-2,,chuk1273,29,qlikkin qonʔaɕɣənkên parol,qlikkin qonʔaɕɣənkên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-30-1,,chuk1273,30,qɬikkin mənɣətken paroɬ,qɬikkin mənɣətken paroɬ,[],( 20 + 10 ),[],,False,Chukchi.htm,False,,1
+chuk1273-30-2,,chuk1273,30,qlikkin mənɣəkên parol,qlikkin mənɣəkên parol,[],( 20 + 10 ),[],,False,Chukchi.htm,False,,2
+chuk1273-40-1,,chuk1273,40,ŋireqqəɬikkin,ŋireqqəɬikkin,[],( 2 x 20 ),[],,False,Chukchi.htm,False,,1
+chuk1273-40-2,,chuk1273,40,ŋirêqqlikkin,ŋirêqqlikkin,[],( 2 x 20 ),[],,False,Chukchi.htm,False,,2
+chuk1273-50-1,,chuk1273,50,ŋireqqəɬikkin mənɣətken paroɬ,ŋireqqəɬikkin mənɣətken paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-50-2,,chuk1273,50,ŋirêqqlikkin mənɣəkên parol,ŋirêqqlikkin mənɣəkên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-60-1,,chuk1273,60,ŋəroqqəɬekken,ŋəroqqəɬekken,[],( 3 x 20 ),[],,False,Chukchi.htm,False,,1
+chuk1273-60-2,,chuk1273,60,ŋəroqqlekkên,ŋəroqqlekkên,[],( 3 x 20 ),[],,False,Chukchi.htm,False,,2
+chuk1273-70-1,,chuk1273,70,ŋəroqqəɬekken mənɣətken paroɬ,ŋəroqqəɬekken mənɣətken paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-70-2,,chuk1273,70,ŋəroqqlekkên mənɣəkên parol,ŋəroqqlekkên mənɣəkên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-80-1,,chuk1273,80,ŋəraqqəɬekken,ŋəraqqəɬekken,[],( 4 x 20 ),[],,False,Chukchi.htm,False,,1
+chuk1273-80-2,,chuk1273,80,ŋəraqqlekkên,ŋəraqqlekkên,[],( 4 x 20 ),[],,False,Chukchi.htm,False,,2
+chuk1273-90-1,,chuk1273,90,ŋəraqqəɬekken mənɣətken paroɬ,ŋəraqqəɬekken mənɣətken paroɬ,[],,[],,False,Chukchi.htm,False,,1
+chuk1273-90-2,,chuk1273,90,ŋəraqqlekkên mənɣəkên parol,ŋəraqqlekkên mənɣəkên parol,[],,[],,False,Chukchi.htm,False,,2
+chuk1273-100-1,,chuk1273,100,mətɬəŋqəɬekken,mətɬəŋqəɬekken,[],( 5 x 20 ),[],,False,Chukchi.htm,False,,1
+chuk1273-100-2,,chuk1273,100,mətləŋ qlekkên,mətləŋ qlekkên,[],( 5 x 20 ),[],,False,Chukchi.htm,False,,2
+chuk1273-200-1,,chuk1273,200,mənɣətqəɬekken,mənɣətqəɬekken,[],( 10 x 20 ),[],,False,Chukchi.htm,False,,1
+chuk1273-200-2,,chuk1273,200,mənɣət qlekkên,mənɣət qlekkên,[],( 10 x 20 ),[],,False,Chukchi.htm,False,,2
+chuk1273-400-1,,chuk1273,400,qɬiqqəɬikkin,qɬiqqəɬikkin,[],( 20 x 20 ),[],,False,Chukchi.htm,False,,1
+chuk1273-400-2,,chuk1273,400,qliq-qləkkin,qliq-qləkkin,[],( 20 x 20 ),[],,False,Chukchi.htm,False,,2
+chuk1273-1000-1,,chuk1273,1000,ticəc(u),ticəc(u),[],< Russian 'tɨsʲatʃa' ,[],,True,Chukchi.htm,False,,2
+chuk1273-1000-2,,chuk1273,1000,tawcən,tawcən,[],< English ' thousand' ,[],,True,Chukchi.htm,False,,2

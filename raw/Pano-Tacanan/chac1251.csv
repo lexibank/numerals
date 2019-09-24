@@ -1,0 +1,9 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+chac1251-1-1,,chac1251,1,wɨstíta~wɨstí ‚ one,wɨstíta~wɨstí ‚ one,[],,[],,False,Chacobo.htm,True,,1
+chac1251-1-2,,chac1251,1,once,once,[],,[],,False,Chacobo.htm,False,,1
+chac1251-1-3,,chac1251,1,at least once‘,at least once‘,[],,[],,False,Chacobo.htm,False,,1
+chac1251-1-4,,chac1251,1,wïst'ta = one,wïst'ta = one,[],"(but in isolation, -ta final drops off )",[],,False,Chacobo.htm,True,,2
+chac1251-2-1,,chac1251,2,"raβɨ́ta~raβɨ ‘two, twice’",raβɨ́ta~raβɨ ‘two,[],,[],,False,Chacobo.htm,True,,1
+chac1251-2-2,,chac1251,2,"raβɨ́ta~raβɨ ‘two, twice’",twice’,[],,[],,False,Chacobo.htm,True,,1
+chac1251-2-3,,chac1251,2,rabḯta = a few,rabḯta = a few,[],,[],,False,Chacobo.htm,True,,2
+chac1251-3-1,,chac1251,3,tʃitimití,tʃitimití,[],(not in wide use),[],,False,Chacobo.htm,False,,1

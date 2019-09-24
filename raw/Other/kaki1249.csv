@@ -1,0 +1,8 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kaki1249-1-1,,kaki1249,1,oki,oki,[],,[],,False,Kaki-Ae.htm,False,,1
+kaki1249-2-1,,kaki1249,2,ü'üka,ü'üka,[],( ü = nasal u [ũ]  and ' = ʔ),[],,False,Kaki-Ae.htm,False,,1
+kaki1249-3-1,,kaki1249,3,ü'üka oki,ü'üka oki,[],( 2 + 1 ),[],,False,Kaki-Ae.htm,False,,1
+kaki1249-3-2,,kaki1249,3,ü'üka pau'a,ü'üka pau'a,[],,[],,False,Kaki-Ae.htm,False,,1
+kaki1249-4-1,,kaki1249,4,ü'üka ü'üka,ü'üka ü'üka,[],( 2 + 2 ),[],,False,Kaki-Ae.htm,False,,1
+kaki1249-5-1,,kaki1249,5,upu oka'i,upu oka'i,[],,[],,False,Kaki-Ae.htm,False,,1
+kaki1249-10-1,,kaki1249,10,(upu) oka'i oka'i,(upu) oka'i oka'i,[],,[],,False,Kaki-Ae.htm,False,,1

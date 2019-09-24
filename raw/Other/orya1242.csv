@@ -1,0 +1,8 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+orya1242-1-1,,orya1242,1,aha-en,aha-en,[],,[],,False,Orya.htm,False,,1
+orya1242-2-1,,orya1242,2,dan-dan,dan-dan,[],,[],,False,Orya.htm,False,,1
+orya1242-3-1,,orya1242,3,dan-ahan,dan-ahan,[],( 2 + 1 ),[],,False,Orya.htm,False,,1
+orya1242-4-1,,orya1242,4,dan-nër dan nër,dan-nër dan nër,[],( 2 + 2 ),[],,False,Orya.htm,False,,1
+orya1242-5-1,,orya1242,5,aha-ere taha tap,aha-ere taha tap,[],( litː 'one hand finished' ),[],,False,Orya.htm,False,,1
+orya1242-6-1,,orya1242,6,aha-ere taha tap lik ɡul irin aha-en,aha-ere taha tap lik ɡul irin aha-en,[],( litː ' one hand finished and add one ' ),[],,False,Orya.htm,False,,1
+orya1242-10-1,,orya1242,10,dare taha tap,dare taha tap,[],( litː 'two hands finished'),[],,False,Orya.htm,False,,1

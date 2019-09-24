@@ -1,0 +1,14 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+garr1260-1-1,,garr1260,1,yiŋɡimali,yiŋɡimali,[],,[],,False,Garrawa.htm,False,,1
+garr1260-2-1,,garr1260,2,ɡujarra,ɡujarra,[],,[],,False,Garrawa.htm,False,,1
+garr1260-3-1,,garr1260,3,ɡujarra-yiŋɡimali,ɡujarra-yiŋɡimali,[],( 2 + 1),[],,False,Garrawa.htm,False,,1
+garr1260-4-1,,garr1260,4,murrɡu,murrɡu,[],( lit: 'small mob'),[],,False,Garrawa.htm,False,,1
+garr1260-4-2,,garr1260,4,5. murrɡu,5. murrɡu,[],( lit: 'small mob'),[],,False,Garrawa.htm,True,,1
+garr1260-4-3,,garr1260,4,6. murrɡu,6. murrɡu,[],( lit: 'small mob'),[],,False,Garrawa.htm,True,,1
+garr1260-7-1,,garr1260,7,ɡaja,ɡaja,[],( lit: 'big mob'),[],,False,Garrawa.htm,False,,1
+garr1260-7-2,,garr1260,7,8. ɡaja,8. ɡaja,[],( lit: 'big mob'),[],,False,Garrawa.htm,True,,1
+garr1260-7-3,,garr1260,7,9. ɡaja,9. ɡaja,[],( lit: 'big mob'),[],,False,Garrawa.htm,True,,1
+garr1260-7-4,,garr1260,7,10. ɡaja,10. ɡaja,[],( lit: 'big mob'),[],,False,Garrawa.htm,True,,1
+garr1260-7-5,,garr1260,7,11. ɡaja,11. ɡaja,[],( lit: 'big mob'),[],,False,Garrawa.htm,True,,1
+garr1260-7-6,,garr1260,7,12. ɡaja,12. ɡaja,[],( lit: 'big mob'),[],,False,Garrawa.htm,True,,1
+garr1260-7-7,,garr1260,7,etc.,etc.,[],,[],,False,Garrawa.htm,False,,1

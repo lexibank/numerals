@@ -1,0 +1,7 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+wanm1242-1-1,,wanm1242,1,kumpinyu,kumpinyu,[],,[],,False,Wanman.htm,False,,1
+wanm1242-1-2,,wanm1242,1,partu,partu,[],,[],,False,Wanman.htm,False,,1
+wanm1242-2-1,,wanm1242,2,kujarra,kujarra,[],,[],,False,Wanman.htm,False,,1
+wanm1242-3-1,,wanm1242,3,kujarrakumpinyu,kujarrakumpinyu,[],,[],,False,Wanman.htm,False,,1
+wanm1242-4-1,,wanm1242,4,kujarrakujarra,kujarrakujarra,[],,[],,False,Wanman.htm,False,,1
+wanm1242-4-2,,wanm1242,4,5. kujarrakujarrakumpinyu kujarrakujarrapartu,5. kujarrakujarrakumpinyu kujarrakujarrapartu,[],(literally: 'few'),[],,False,Wanman.htm,True,,1

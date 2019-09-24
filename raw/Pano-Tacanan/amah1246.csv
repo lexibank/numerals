@@ -1,0 +1,58 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+amah1246-1-1,,amah1246,1,tɪ́ː ‘one’,tɪ́ː ‘one’,[],,[],,False,Amahuaca.htm,True,,1
+amah1246-1-2,,amah1246,1,tɪ́ː ‘one’,tɪ́ː ‘one’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-1-3,,amah1246,1,tíí = 'tiː?,tíí = 'tiː?,[],,[],,False,Amahuaca.htm,True,,3
+amah1246-2-1,,amah1246,2,ɾāwɨ̄ ‘two’,ɾāwɨ̄ ‘two’,[],,[],,False,Amahuaca.htm,True,,1
+amah1246-2-2,,amah1246,2,ɾāwɨ̄,ɾāwɨ̄,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-2-3,,amah1246,2,ɾáwɨ̄-tã̀ ‘two’,ɾáwɨ̄-tã̀ ‘two’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-2-4,,amah1246,2,rávuu,rávuu,[],,[],,False,Amahuaca.htm,False,,3
+amah1246-2-5,,amah1246,2,rávutan = 'raβuu?,rávutan = 'raβuu?,[],,[],,False,Amahuaca.htm,True,,3
+amah1246-3-1,,amah1246,3,cīmᵇīˈʃá,cīmᵇīˈʃá,[],,[],,False,Amahuaca.htm,False,,1
+amah1246-3-2,,amah1246,3,‘three’,‘three’,[],(loanword from Quechua 'kimʃa'),[],,False,Amahuaca.htm,False,,1
+amah1246-3-3,,amah1246,3,cīmᵇīˈʃá,cīmᵇīˈʃá,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-3-4,,amah1246,3,cīmᵇīˈʃá=wò,cīmᵇīˈʃá=wò,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-3-5,,amah1246,3,ɾāwɨ̄-hākɨ̃́ʃtī ‘three’,ɾāwɨ̄-hākɨ̃́ʃtī ‘three’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-3-6,,amah1246,3,ɾāwɨ̄-hākɨ̃́ʃtī ‘two and one’,ɾāwɨ̄-hākɨ̃́ʃtī ‘two and one’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-3-7,,amah1246,3,químshá,químshá,[],< Quechua ? ) = 'kimʃa ? ,[],,True,Amahuaca.htm,False,,3
+amah1246-4-1,,amah1246,4,ɾāwɨ̄-ɾīkɨ́-ɾāwɨ́-ɾɨ̀ ‘four’ or ‘two and two’,ɾāwɨ̄-ɾīkɨ́-ɾāwɨ́-ɾɨ̀ ‘four’ or ‘two and two’,[],,[],,False,Amahuaca.htm,True,,1
+amah1246-4-2,,amah1246,4,ɾāwɨ̄-ɾīkɨ́-ɾāwɨ́-ɾɨ̀,ɾāwɨ̄-ɾīkɨ́-ɾāwɨ́-ɾɨ̀,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-4-3,,amah1246,4,ɾāwɨ̄-ɾāwɨ̄-kɨ̃̀-ɾāwɨ́-ɾāwɨ̄ ‘four’,ɾāwɨ̄-ɾāwɨ̄-kɨ̃̀-ɾāwɨ́-ɾāwɨ̄ ‘four’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-4-4,,amah1246,4,-ɾíwī means ‘also’,-ɾíwī means ‘also’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-4-5,,amah1246,4,[ɾāw8̄-ɾīk8́ -ɾāw8̀ -ɾì 41] ‘four’ or ‘two and two’,[ɾāw8̄-ɾīk8́ -ɾāw8̀ -ɾì 41] ‘four’ or ‘two and two’,[],( 2 + 2 ),[],,False,Amahuaca.htm,True,,3
+amah1246-5-1,,amah1246,5,mɨ̄kɨ̃́ʃtɪ̄ ‘five’ ‘hand-one’,mɨ̄kɨ̃́ʃtɪ̄ ‘five’ ‘hand-one’,[],(with the epenthetic [ʃ]),[],,False,Amahuaca.htm,True,,1
+amah1246-5-2,,amah1246,5,mɨ̄kɨ̃́ʃtī,mɨ̄kɨ̃́ʃtī,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-5-3,,amah1246,5,mɨ̄kɨ̃́ʃtɪ̄=wò,mɨ̄kɨ̃́ʃtɪ̄=wò,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-5-4,,amah1246,5,mɨ̄kɨ̃́ʃtɪ̄-cíjò ‘five’ [mɨ̄kɨ̃́ʃtɪ̄-cíjò] ‘hand-entire’,mɨ̄kɨ̃́ʃtɪ̄-cíjò ‘five’ [mɨ̄kɨ̃́ʃtɪ̄-cíjò] ‘hand-entire’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-5-5,,amah1246,5,[m8̄k8̃ ́ʃtɪ̄] ‘five’ ‘hand-one’ (with the epenthetic [ʃ]) múcun - rámisti = 'mukũ?,[m8̄k8̃ ́ʃtɪ̄] ‘five’ ‘hand-one’ (with the epenthetic [ʃ]) múcun - rámisti = 'mukũ?,[],"(litː  ''hand one'' ?, múcun= hand  )",[],,False,Amahuaca.htm,True,,3
+amah1246-6-1,,amah1246,6,ɾāwɨ̄-ɾíwī-kɨ̃̀,ɾāwɨ̄-ɾíwī-kɨ̃̀,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-6-2,,amah1246,6,ɾāwɨ̄ɾíwīkɨ̃̀ʃtì ‘six’,ɾāwɨ̄ɾíwīkɨ̃̀ʃtì ‘six’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-6-3,,amah1246,6,rávuurívicún,rávuurívicún,[],,[],,False,Amahuaca.htm,False,,3
+amah1246-6-4,,amah1246,6,rávuurivicúnstii,rávuurivicúnstii,[],( = 'raβuː'riβikũ?),[],,False,Amahuaca.htm,False,,3
+amah1246-7-1,,amah1246,7,mɨ̄kɨ̃̄-tóʔāʃtɪ̀-nácīʔà ‘seven’ [tóʔā] ‘big’,mɨ̄kɨ̃̄-tóʔāʃtɪ̀-nácīʔà ‘seven’ [tóʔā] ‘big’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-7-2,,amah1246,7,nácīʔà part is unknown to me,nácīʔà part is unknown to me,[],,[],,False,Amahuaca.htm,True,the,2
+amah1246-7-3,,amah1246,7,múcun-tóhastináquiha = 'mukũ-tohastinakiha' ?,múcun-tóhastináquiha = 'mukũ-tohastinakiha' ?,[],,[],,False,Amahuaca.htm,True,,3
+amah1246-8-1,,amah1246,8,mɨ̄kɨ̃̄-pápī:-kɨ̃̀-kɨ̄tā-ʔáx] ‘eight’ [pápī,mɨ̄kɨ̃̄-pápī:-kɨ̃̀-kɨ̄tā-ʔáx] ‘eight’ [pápī,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-8-2,,amah1246,8,pápī:-kɨ̃̀ ‘(river)bank’,pápī:-kɨ̃̀ ‘(river)bank’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-8-3,,amah1246,8,múcun-papiicun-cutaháx = 'mukũ papiːkũ-kutahax ?,múcun-papiicun-cutaháx = 'mukũ papiːkũ-kutahax ?,[],,[],,False,Amahuaca.htm,True,,3
+amah1246-9-1,,amah1246,9,ɾāwɨ̄-ɾíwī-kɨ̃̀,ɾāwɨ̄-ɾíwī-kɨ̃̀,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-9-2,,amah1246,9,ɾāwɨ̄-ɾíwī-kɨ̃̀ʃtɪ̀ hàkɨ̃̀ /[ɾāwɨ̄ɾíwīkɨ̃̀] /[ɾāwɨ̄-ɾíwī́] ‘nine’,ɾāwɨ̄-ɾíwī-kɨ̃̀ʃtɪ̀ hàkɨ̃̀,[],,[],,False,Amahuaca.htm,True,[,2
+amah1246-9-3,,amah1246,9,ɾāwɨ̄-ɾíwī-kɨ̃̀ʃtɪ̀ hàkɨ̃̀ /[ɾāwɨ̄ɾíwīkɨ̃̀] /[ɾāwɨ̄-ɾíwī́] ‘nine’,[ɾāwɨ̄ɾíwīkɨ̃̀],[],,[],,False,Amahuaca.htm,True,[,2
+amah1246-9-4,,amah1246,9,ɾāwɨ̄-ɾíwī-kɨ̃̀ʃtɪ̀ hàkɨ̃̀ /[ɾāwɨ̄ɾíwīkɨ̃̀] /[ɾāwɨ̄-ɾíwī́] ‘nine’,[ɾāwɨ̄-ɾíwī́] ‘nine’,[],,[],,False,Amahuaca.htm,True,[,2
+amah1246-9-5,,amah1246,9,rávuurívicún,rávuurívicún,[],,[],,False,Amahuaca.htm,False,,3
+amah1246-9-6,,amah1246,9,rávuurivicúnstii jacun rávuurívicún,rávuurivicúnstii jacun rávuurívicún,[],,[],,False,Amahuaca.htm,False,,3
+amah1246-9-7,,amah1246,9,rávuuríví,rávuuríví,[],,[],,False,Amahuaca.htm,False,,3
+amah1246-10-1,,amah1246,10,mɨ̄kɨ̃̄-cíjò ‘ten’,mɨ̄kɨ̃̄-cíjò ‘ten’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-10-2,,amah1246,10,múcun-quíyoo = 'mukũ-kijoː ?,múcun-quíyoo = 'mukũ-kijoː ?,[],(litː  hands ? ),[],,False,Amahuaca.htm,True,,3
+amah1246-15-1,,amah1246,15,mɨ̄kɨ̃̄-cíjò,mɨ̄kɨ̃̄-cíjò,[],,[],,False,Amahuaca.htm,False,,2
+amah1246-15-2,,amah1246,15,hākɨ̃̄ tāʔɨ́ʃtì ‘fifteen’ [tāʔɨ́ ] ‘foot’,hākɨ̃̄ tāʔɨ́ʃtì ‘fifteen’ [tāʔɨ́ ] ‘foot’,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-15-3,,amah1246,15,múcun-quíyoo,múcun-quíyoo,[],,[],,False,Amahuaca.htm,False,,3
+amah1246-15-4,,amah1246,15,jacun tahústii = dʒacũ ta'hustiː ?,jacun tahústii = dʒacũ ta'hustiː ?,[],,[],,False,Amahuaca.htm,True,,3
+amah1246-20-1,,amah1246,20,mɨ̄kɨ̃̄--cíjò hākɨ̃̄ tāʔɨ́ cíjò ‘twenty’ [hand-entire-hàkɨ̃̀-foot-entire] The tables above show that there was,mɨ̄kɨ̃̄--cíjò hākɨ̃̄ tāʔɨ́ cíjò ‘twenty’ [hand-entire-hàkɨ̃̀-foot-entire] The tables above show that there was,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-20-2,,amah1246,20,(is) probably not a socially established numeric system for expressing high numbers among the Amawaka. Another related language,(is) probably not a socially established numeric system for expressing high numbers among the Amawaka. Another related language,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-20-3,,amah1246,20,Shipibo-Konibo,Shipibo-Konibo,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-20-4,,amah1246,20,has borrowed and phonologically readapted a decimal numeric system from Quechua,has borrowed and phonologically readapted a decimal numeric system from Quechua,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-20-5,,amah1246,20,the Amazonian Lingua Franca in Peru,the Amazonian Lingua Franca in Peru,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-20-6,,amah1246,20,"probably through the influence of Franciscan missionaries in earlier centuries (Fleck, 2013). In Amawaka","probably through the influence of Franciscan missionaries in earlier centuries (Fleck, 2013). In Amawaka",[],,[],,False,Amahuaca.htm,True,,2
+amah1246-20-7,,amah1246,20,the story of numbers is not clear yet. Most of the people nowadays use Spanish numbers (limited or extended code-switching technique in their discourse) for higher numerals than ‘five’ or they also use the constructed long Amawaka numerals,the story of numbers is not clear yet. Most of the people nowadays use Spanish numbers (limited or extended code-switching technique in their discourse) for higher numerals than ‘five’ or they also use the constructed long Amawaka numerals,[],,[],,False,Amahuaca.htm,True,,2
+amah1246-20-8,,amah1246,20,múcun-quíyoo,múcun-quíyoo,[],,[],,False,Amahuaca.htm,False,,3
+amah1246-20-9,,amah1246,20,jacun tóhuquíyoo =dʒacũ 'tohu'kijoː ?,jacun tóhuquíyoo =dʒacũ 'tohu'kijoː ?,[],,[],,False,Amahuaca.htm,True,,3

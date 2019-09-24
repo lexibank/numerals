@@ -1,0 +1,9 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+pana1307-1-1,,pana1307,1,(ĩ)pyti,(ĩ)pyti,[],"('one, once time')",[],,False,Panara.htm,False,,1
+pana1307-1-2,,pana1307,1,ipʉti,ipʉti,[],,[],,False,Panara.htm,False,,2
+pana1307-2-1,,pana1307,2,"'two, twice, some (in plural)'",'two,[],,[],,False,Panara.htm,True,pytira,1
+pana1307-2-2,,pana1307,2,"'two, twice, some (in plural)'",twice,[],,[],,False,Panara.htm,True,pytira,1
+pana1307-2-3,,pana1307,2,"'two, twice, some (in plural)'",some (in plural)',[],,[],,False,Panara.htm,True,pytira,1
+pana1307-2-4,,pana1307,2,pʉtira,pʉtira,[],,[],,False,Panara.htm,False,,2
+pana1307-3-1,,pana1307,3,nõpiõ,nõpiõ,[],"('three or four, several, a few')",[],,False,Panara.htm,False,,1
+pana1307-3-2,,pana1307,3,nəpĩə,nəpĩə,[],,[],,False,Panara.htm,False,,2

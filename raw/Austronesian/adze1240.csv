@@ -1,0 +1,24 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+adze1240-1-1,,adze1240,1,bɪtsɪⁿtɑ,bɪtsɪⁿtɑ,[],,[],,False,Adzera.htm,False,,1
+adze1240-1-2,,adze1240,1,bɪtʃɪⁿtɑʔ,bɪtʃɪⁿtɑʔ,[],,[],,False,Adzera.htm,False,,1
+adze1240-1-3,,adze1240,1,bɪtsɪtɑʔ,bɪtsɪtɑʔ,[],,[],,False,Adzera.htm,False,,1
+adze1240-1-4,,adze1240,1,bɪts,bɪts,[],,[],,False,Adzera.htm,False,,1
+adze1240-1-5,,adze1240,1,bitsinta,bitsinta,[],,[],,False,Adzera.htm,False,,2
+adze1240-1-6,,adze1240,1,biciⁿitaʔ,biciⁿitaʔ,[],,[],,False,Adzera.htm,False,,2
+adze1240-2-1,,adze1240,2,iɾuʔrun,iɾuʔrun,[],,[],,False,Adzera.htm,False,,1
+adze1240-2-2,,adze1240,2,iɾuʔ,iɾuʔ,[],( litː also means 'a few' ),[],,False,Adzera.htm,False,,1
+adze1240-2-3,,adze1240,2,iruʔ,iruʔ,[],,[],,False,Adzera.htm,False,,2
+adze1240-3-1,,adze1240,3,iɾuʔ dɑ bɪts,iɾuʔ dɑ bɪts,[],( 2 + 1 ),[],,False,Adzera.htm,False,,1
+adze1240-3-2,,adze1240,3,iruʔ da bits,iruʔ da bits,[],( 2 + 1 ),[],,False,Adzera.htm,False,,2
+adze1240-4-1,,adze1240,4,iɾuʔ dɑ iɾuʔ,iɾuʔ dɑ iɾuʔ,[],( 2 + 2 ),[],,False,Adzera.htm,False,,1
+adze1240-4-2,,adze1240,4,iruʔ da iruʔ,iruʔ da iruʔ,[],( 2 + 2 ),[],,False,Adzera.htm,False,,2
+adze1240-5-1,,adze1240,5,iɾuʔ dɑ iɾuʔ dɑ bɪts,iɾuʔ dɑ iɾuʔ dɑ bɪts,[],( 2 + 2 + 1),[],,False,Adzera.htm,False,,1
+adze1240-5-2,,adze1240,5,bɑŋin mɑɾɑfɑiʔ,bɑŋin mɑɾɑfɑiʔ,[],( litː one hand ),[],,False,Adzera.htm,False,,1
+adze1240-5-3,,adze1240,5,iruʔ da iruʔ ( 2 + 2 + 1 ) baŋ biciⁿitaʔ,iruʔ da iruʔ ( 2 + 2 + 1 ) baŋ biciⁿitaʔ,[],(litː 'one hand' ),[],,False,Adzera.htm,True,,2
+adze1240-6-1,,adze1240,6,iruʔ da iruʔ da iruʔ,iruʔ da iruʔ da iruʔ,[],( 2 + 2 + 2),[],,False,Adzera.htm,False,,2
+adze1240-7-1,,adze1240,7,iruʔ da iruʔ da iruʔ da bits,iruʔ da iruʔ da iruʔ da bits,[],( 2 + 2 + 2 + 1),[],,False,Adzera.htm,False,,2
+adze1240-8-1,,adze1240,8,iruʔ da iruʔ da iruʔ da iruʔ,iruʔ da iruʔ da iruʔ da iruʔ,[],( 2 + 2 + 2 + 2),[],,False,Adzera.htm,False,,2
+adze1240-9-1,,adze1240,9,iruʔ da iruʔ da iruʔ da iruʔ da bits,iruʔ da iruʔ da iruʔ da iruʔ da bits,[],( 2 + 2 + 2 + 2 + 1 ),[],,False,Adzera.htm,False,,2
+adze1240-10-1,,adze1240,10,baŋi marafain da baŋi marafain,baŋi marafain da baŋi marafain,[],(litː 'my hand one side and my hand other side),[],,False,Adzera.htm,False,,2
+adze1240-15-1,,adze1240,15,baŋi marafain da baŋi marafain da faɡa-ŋʔ marafain,baŋi marafain da baŋi marafain da faɡa-ŋʔ marafain,[],,[],,False,Adzera.htm,False,,2
+adze1240-20-1,,adze1240,20,baŋi-ŋʔ iruʔun da faɡa-ŋʔ iruʔun,baŋi-ŋʔ iruʔun da faɡa-ŋʔ iruʔun,[],(litː 'my hands two and feet two'),[],,False,Adzera.htm,False,,2

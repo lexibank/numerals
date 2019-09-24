@@ -1,0 +1,18 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+suki1245-1-1,,suki1245,1,nimap,nimap,[],,[],,False,Suki.htm,False,,1
+suki1245-1-2,,suki1245,1,nimap,nimap,[],,[],,False,Suki.htm,False,,2
+suki1245-2-1,,suki1245,2,menes,menes,[],,[],,False,Suki.htm,False,,1
+suki1245-2-2,,suki1245,2,menes,menes,[],,[],,False,Suki.htm,False,,2
+suki1245-3-1,,suki1245,3,menes nimap,menes nimap,[],,[],,False,Suki.htm,False,,1
+suki1245-3-2,,suki1245,3,menes nimap,menes nimap,[],,[],,False,Suki.htm,False,,2
+suki1245-4-1,,suki1245,4,menes menes,menes menes,[],,[],,False,Suki.htm,False,,1
+suki1245-4-2,,suki1245,4,menes menes,menes menes,[],,[],,False,Suki.htm,False,,2
+suki1245-4-3,,suki1245,4,pirebia,pirebia,[],(litː 'many'),[],,False,Suki.htm,False,,2
+suki1245-5-1,,suki1245,5,damti(yap),damti(yap),[],(kabse),[],,False,Suki.htm,False,,1
+suki1245-5-2,,suki1245,5,menes menes nimap,menes menes nimap,[],,[],,False,Suki.htm,False,,2
+suki1245-5-3,,suki1245,5,pira,pira,[],(litː 'many'),[],,False,Suki.htm,False,,2
+suki1245-6-1,,suki1245,6,damti(yap) kabse nimap,damti(yap) kabse nimap,[],,[],,False,Suki.htm,False,,1
+suki1245-7-1,,suki1245,7,damti(yap) kabse menes,damti(yap) kabse menes,[],,[],,False,Suki.htm,False,,1
+suki1245-8-1,,suki1245,8,damti(yap) kabse menes nimap,damti(yap) kabse menes nimap,[],,[],,False,Suki.htm,False,,1
+suki1245-9-1,,suki1245,9,damti(yap) kabse menes menes,damti(yap) kabse menes menes,[],,[],,False,Suki.htm,False,,1
+suki1245-10-1,,suki1245,10,damti damti,damti damti,[],,[],,False,Suki.htm,False,,1

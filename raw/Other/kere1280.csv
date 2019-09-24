@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kere1280-1-1,,kere1280,1,woy,woy,[],,[],,False,Jarawa.htm,False,,1
+kere1280-1-2,,kere1280,1,ənnan,ənnan,[],,[],,False,Kerek.htm,False,,1
+kere1280-2-1,,kere1280,2,na,na,[],,[],,False,Jarawa.htm,False,,1
+kere1280-2-2,,kere1280,2,ŋitɕtɕaq,ŋitɕtɕaq,[],,[],,False,Kerek.htm,False,,1
+kere1280-3-1,,kere1280,3,malawr,malawr,[],,[],,False,Jarawa.htm,False,,1
+kere1280-3-2,,kere1280,3,ŋijuq,ŋijuq,[],,[],,False,Kerek.htm,False,,1
+kere1280-4-1,,kere1280,4,ŋijaq,ŋijaq,[],,[],,False,Kerek.htm,False,,1
+kere1280-5-1,,kere1280,5,məlləŋi,məlləŋi,[],,[],,False,Kerek.htm,False,,1
+kere1280-6-1,,kere1280,6,ənnanməlləŋi,ənnanməlləŋi,[],( 1 + 5 ),[],,False,Kerek.htm,False,,1
+kere1280-7-1,,kere1280,7,ŋitɕtɕaqməlləŋi,ŋitɕtɕaqməlləŋi,[],( 2 + 5 ),[],,False,Kerek.htm,False,,1
+kere1280-8-1,,kere1280,8,ŋijuqməlləŋi,ŋijuqməlləŋi,[],,[],,False,Kerek.htm,False,,1
+kere1280-8-2,,kere1280,8,amŋjujutɕi,amŋjujutɕi,[],,[],,False,Kerek.htm,False,,1
+kere1280-9-1,,kere1280,9,ŋijaqməlləŋi,ŋijaqməlləŋi,[],,[],,False,Kerek.htm,False,,1
+kere1280-9-2,,kere1280,9,qunħajtɕiŋi,qunħajtɕiŋi,[],,[],,False,Kerek.htm,False,,1
+kere1280-10-1,,kere1280,10,mnətɕitɕi,mnətɕitɕi,[],,[],,False,Kerek.htm,False,,1
+kere1280-11-1,,kere1280,11,mnətɕitɕi ənnan pajul,mnətɕitɕi ənnan pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-12-1,,kere1280,12,mnətɕitɕi ŋitɕtɕaq pajul,mnətɕitɕi ŋitɕtɕaq pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-13-1,,kere1280,13,mnətɕitɕi ŋijuq pajul,mnətɕitɕi ŋijuq pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-14-1,,kere1280,14,mnətɕitɕi ŋijaq pajul,mnətɕitɕi ŋijaq pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-15-1,,kere1280,15,mnətɕitɕi məlləŋi pajul,mnətɕitɕi məlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-16-1,,kere1280,16,mnətɕitɕi ənnanməlləŋi pajul,mnətɕitɕi ənnanməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-17-1,,kere1280,17,mnətɕitɕi ŋitɕtɕaqməlləŋi pajul,mnətɕitɕi ŋitɕtɕaqməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-18-1,,kere1280,18,mnətɕitɕi ŋijuqməlləŋi pajul,mnətɕitɕi ŋijuqməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-19-1,,kere1280,19,mnətɕitɕi ŋijaqməlləŋi pajul,mnətɕitɕi ŋijaqməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-21-1,,kere1280,21,qlikki ənnan pajul,qlikki ənnan pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-22-1,,kere1280,22,qlikki ŋitɕtɕaq pajul,qlikki ŋitɕtɕaq pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-23-1,,kere1280,23,qlikki ŋijuq pajul,qlikki ŋijuq pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-24-1,,kere1280,24,qlikki ŋijaq pajul,qlikki ŋijaq pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-25-1,,kere1280,25,qlikki məlləŋi pajul,qlikki məlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-26-1,,kere1280,26,qlikki ənnanməlləŋi pajul,qlikki ənnanməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-27-1,,kere1280,27,qlikki ŋitɕtɕaqməlləŋi pajul,qlikki ŋitɕtɕaqməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-28-1,,kere1280,28,qlikki ŋijuqməlləŋi pajul,qlikki ŋijuqməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-29-1,,kere1280,29,qlikki ŋijaqməlləŋi pajul,qlikki ŋijaqməlləŋi pajul,[],,[],,False,Kerek.htm,False,,1
+kere1280-30-1,,kere1280,30,qlik-ək mnətɕitɕi,qlik-ək mnətɕitɕi,[],( 20 + 10),[],,False,Kerek.htm,False,,1
+kere1280-40-1,,kere1280,40,ŋitɕtɕaqqlik,ŋitɕtɕaqqlik,[],( 2 x 20 ),[],,False,Kerek.htm,False,,1
+kere1280-50-1,,kere1280,50,ŋitɕtɕaqqlik mnətɕitɕi,ŋitɕtɕaqqlik mnətɕitɕi,[],,[],,False,Kerek.htm,False,,1
+kere1280-60-1,,kere1280,60,ŋijuqqlik,ŋijuqqlik,[],( 3 x 20 ),[],,False,Kerek.htm,False,,1
+kere1280-70-1,,kere1280,70,ŋijuqqlik mnətɕitɕi,ŋijuqqlik mnətɕitɕi,[],( 60 + 10),[],,False,Kerek.htm,False,,1
+kere1280-80-1,,kere1280,80,ŋijaqalik,ŋijaqalik,[],( 4 x 20 ),[],,False,Kerek.htm,False,,1
+kere1280-90-1,,kere1280,90,ŋijaqalik mnətɕitɕi,ŋijaqalik mnətɕitɕi,[],,[],,False,Kerek.htm,False,,1
+kere1280-100-1,,kere1280,100,məlləŋqlik,məlləŋqlik,[],( 5 x 20 ),[],,False,Kerek.htm,False,,1

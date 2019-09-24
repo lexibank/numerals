@@ -1,0 +1,9 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+tain1253-1-1,,tain1253,1,fainu,fainu,[],(lit: 'one only'),[],,False,Tainae.htm,False,,1
+tain1253-2-1,,tain1253,2,fai'ka,fai'ka,[],(lit: 'two ones'),[],,False,Tainae.htm,False,,1
+tain1253-3-1,,tain1253,3,fai'kaifai,fai'kaifai,[],(lit: 'two ones (and) one'),[],,False,Tainae.htm,False,,1
+tain1253-4-1,,tain1253,4,fai'kaifai'ka,fai'kaifai'ka,[],(lit: 'two ones (and) two ones'),[],,False,Tainae.htm,False,,1
+tain1253-5-1,,tain1253,5,fai'kaifai'kafai (lit: 'two ones (and) two ones (and) one') or fayi'kafai'kafai,fai'kaifai'kafai (lit: 'two ones (and) two ones (and) one') or fayi'kafai'kafai,[],(lit: 'one hand (only)'),[],,False,Tainae.htm,True,,1
+tain1253-6-1,,tain1253,6,fai'kaifai'kafai'ka,fai'kaifai'kafai'ka,[],(lit: 'two ones (and) two ones (and) two ones'),[],,False,Tainae.htm,False,,1
+tain1253-10-1,,tain1253,10,fayifu'ka,fayifu'ka,[],(lit: 'two hands'),[],,False,Tainae.htm,False,,1
+tain1253-20-1,,tain1253,20,fayifu'ka hapki'fu'ka (lit: 'two hands (and) two feet') or fayifitiwau fitiwau hapkifitiwau fitiwau,fayifu'ka hapki'fu'ka (lit: 'two hands (and) two feet') or fayifitiwau fitiwau hapkifitiwau fitiwau,[],"(litː 'hand on one side, hand on one    side, foot on one side, foot on one side')",[],,False,Tainae.htm,True,,1

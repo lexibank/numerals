@@ -1,0 +1,25 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+kona1242-1-1,,kona1242,1,sesafei,sesafei,[],(''little finger''),[],,False,Konai.htm,False,,1
+kona1242-1-2,,kona1242,1,tano̠͡u,tano̠͡u,[],,[],,False,Konai.htm,False,,2
+kona1242-1-3,,kona1242,1,tano̠͡u,tano̠͡u,[],,[],,False,Konai.htm,False,,3
+kona1242-2-1,,kona1242,2,sesama,sesama,[],"(""ring finger"")",[],,False,Konai.htm,False,,1
+kona1242-2-2,,kona1242,2,bolo̠u,bolo̠u,[],,[],,False,Konai.htm,False,,2
+kona1242-2-3,,kona1242,2,bolo̠u,bolo̠u,[],,[],,False,Konai.htm,False,,3
+kona1242-3-1,,kona1242,3,koma,koma,[],"(""middle finger"")",[],,False,Konai.htm,False,,1
+kona1242-3-2,,kona1242,3,komadia,komadia,[],,[],,False,Konai.htm,False,,2
+kona1242-3-3,,kona1242,3,komadia,komadia,[],,[],,False,Konai.htm,False,,3
+kona1242-4-1,,kona1242,4,doso͡u,doso͡u,[],"(""index finger"")",[],,False,Konai.htm,False,,1
+kona1242-4-2,,kona1242,4,bolo̠u bolo̠u,bolo̠u bolo̠u,[],( 2 + 2 ),[],,False,Konai.htm,False,,2
+kona1242-4-3,,kona1242,4,bolo̠u bolo̠u,bolo̠u bolo̠u,[],( 2 + 2 ),[],,False,Konai.htm,False,,3
+kona1242-5-1,,kona1242,5,hou,hou,[],"(""thumb"")",[],,False,Konai.htm,False,,1
+kona1242-5-2,,kona1242,5,houyosi,houyosi,[],,[],,False,Konai.htm,False,,3
+kona1242-6-1,,kona1242,6,walai,walai,[],"(""wrist"")",[],,False,Konai.htm,False,,1
+kona1242-7-1,,kona1242,7,dio,dio,[],"(""lower arm"")",[],,False,Konai.htm,False,,1
+kona1242-8-1,,kona1242,8,dimaa,dimaa,[],"(""elbow"")",[],,False,Konai.htm,False,,1
+kona1242-9-1,,kona1242,9,dese,dese,[],"(""upper arm"")",[],,False,Konai.htm,False,,1
+kona1242-10-1,,kona1242,10,yetou,yetou,[],"(""shoulder"")",[],,False,Konai.htm,False,,1
+kona1242-11-1,,kona1242,11,kehe,kehe,[],"(""ear"")",[],,False,Konai.htm,False,,1
+kona1242-12-1,,kona1242,12,diho,diho,[],"(""ear"")",[],,False,Konai.htm,False,,1
+kona1242-13-1,,kona1242,13,mukuo,mukuo,[],"(""nose"")",[],,False,Konai.htm,False,,1
+kona1242-14-1,,kona1242,14,moɡou,moɡou,[],"(""mouth"")",[],,False,Konai.htm,False,,1
+kona1242-15-1,,kona1242,15,"''the other hand"": doboɡo̠͡u̠ to","''the other hand"": doboɡo̠͡u̠ to",[],,[],,False,Konai.htm,True,,1

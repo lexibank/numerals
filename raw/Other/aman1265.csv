@@ -1,0 +1,6 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+aman1265-1-1,,aman1265,1,munɡu,munɡu,[],,[],,False,Amanab.htm,False,,1
+aman1265-2-1,,aman1265,2,sambaɡa,sambaɡa,[],,[],,False,Amanab.htm,False,,1
+aman1265-3-1,,aman1265,3,sambaɡa munɡu,sambaɡa munɡu,[],(2 + 1 ),[],,False,Amanab.htm,False,,1
+aman1265-4-1,,aman1265,4,sambaɡa sambaɡa,sambaɡa sambaɡa,[],(2 + 2 ),[],,False,Amanab.htm,False,,1
+aman1265-5-1,,aman1265,5,sambaɡa sambaɡa munɡu (2 + 2 + 1) rarely used,sambaɡa sambaɡa munɡu (2 + 2 + 1) rarely used,[],,[],,False,Amanab.htm,True,,1

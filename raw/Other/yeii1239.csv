@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+yeii1239-1-1,,yeii1239,1,nampe,nampe,[],,[],,False,Yei.htm,False,,1
+yeii1239-1-2,,yeii1239,1,'nɑːmˌpɑj,'nɑːmˌpɑj,[],,[],,False,Yei.htm,False,,2
+yeii1239-2-1,,yeii1239,2,jətapai,jətapai,[],,[],,False,Yei.htm,False,,1
+yeii1239-2-2,,yeii1239,2,'jɛtɑːˌpɑj,'jɛtɑːˌpɑj,[],,[],,False,Yei.htm,False,,2
+yeii1239-3-1,,yeii1239,3,namku,namku,[],,[],,False,Yei.htm,False,,1
+yeii1239-3-2,,yeii1239,3,'jɛtɑːˌpɑj'nɑmpɑj,'jɛtɑːˌpɑj'nɑmpɑj,[],( 2 + 1 ),[],,False,Yei.htm,False,,2
+yeii1239-4-1,,yeii1239,4,jətapai jətapai,jətapai jətapai,[],( 2 + 2 ),[],,False,Yei.htm,False,,1
+yeii1239-5-1,,yeii1239,5,jətapai jətapai nampe,jətapai jətapai nampe,[],( 2 + 2 + 1 ),[],,False,Yei.htm,False,,1
+yeii1239-6-1,,yeii1239,6,nampe tiru nampe,nampe tiru nampe,[],,[],,False,Yei.htm,False,,1
+yeii1239-10-1,,yeii1239,10,jətapai tiru,jətapai tiru,[],,[],,False,Yei.htm,False,,1

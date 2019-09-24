@@ -1,0 +1,8 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+trin1274-1-1,,trin1274,1,eto-,eto-,[],,[],,False,Trinitario.htm,False,,1
+trin1274-1-2,,trin1274,1,étona,étona,[],,[],,False,Trinitario.htm,False,,2
+trin1274-2-1,,trin1274,2,api-,api-,[],,[],,False,Trinitario.htm,False,,1
+trin1274-2-2,,trin1274,2,apina,apina,[],,[],,False,Trinitario.htm,False,,2
+trin1274-3-1,,trin1274,3,mopo-,mopo-,[],,[],,False,Trinitario.htm,False,,1
+trin1274-3-2,,trin1274,3,mopona or mapana-,mopona or mapana-,[],,[],,False,Trinitario.htm,True,,2
+trin1274-4-1,,trin1274,4,kwatɾu,kwatɾu,[],(from four up from Spanish numerals ),[],,False,Trinitario.htm,False,,1

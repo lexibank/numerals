@@ -1,0 +1,63 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+mapu1245-1-1,,mapu1245,1,kiñe,kiñe,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-1-2,,mapu1245,1,kiɲe,kiɲe,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-2-1,,mapu1245,2,epu,epu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-2-2,,mapu1245,2,epu,epu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-3-1,,mapu1245,3,küla,küla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-3-2,,mapu1245,3,kɨla,kɨla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-3-3,,mapu1245,3,or,or,[],,[],,False,Mapuche.htm,True,,1
+mapu1245-3-4,,mapu1245,3,kɯla,kɯla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-4-1,,mapu1245,4,meli,meli,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-4-2,,mapu1245,4,meli,meli,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-5-1,,mapu1245,5,kechu,kechu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-5-2,,mapu1245,5,keču,keču,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-6-1,,mapu1245,6,kayu,kayu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-6-2,,mapu1245,6,kaju,kaju,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-7-1,,mapu1245,7,reɡle,reɡle,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-7-2,,mapu1245,7,ɻeɰle,ɻeɰle,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-7-3,,mapu1245,7,or,or,[],,[],,False,Mapuche.htm,True,,1
+mapu1245-7-4,,mapu1245,7,ɹeˠle,ɹeˠle,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-8-1,,mapu1245,8,pura,pura,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-8-2,,mapu1245,8,puɻa,puɻa,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-8-3,,mapu1245,8,or,or,[],,[],,False,Mapuche.htm,True,,1
+mapu1245-8-4,,mapu1245,8,puɹa,puɹa,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-9-1,,mapu1245,9,ailla,ailla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-9-2,,mapu1245,9,ajʎa,ajʎa,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-10-1,,mapu1245,10,mari,mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-10-2,,mapu1245,10,maɻi,maɻi,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-10-3,,mapu1245,10,or,or,[],,[],,False,Mapuche.htm,True,,1
+mapu1245-10-4,,mapu1245,10,maɹi,maɹi,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-11-1,,mapu1245,11,mari,mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-11-2,,mapu1245,11,maɻi kiɲe,maɻi kiɲe,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-12-1,,mapu1245,12,mari epu,mari epu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-13-1,,mapu1245,13,mari küla,mari küla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-14-1,,mapu1245,14,mari meli,mari meli,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-15-1,,mapu1245,15,mari kechu,mari kechu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-16-1,,mapu1245,16,mari kayu,mari kayu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-17-1,,mapu1245,17,mari reɡle,mari reɡle,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-18-1,,mapu1245,18,mari pura,mari pura,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-19-1,,mapu1245,19,mari ailla,mari ailla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-20-1,,mapu1245,20,epu mari,epu mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-20-2,,mapu1245,20,epu maɻi ],epu maɻi ],[],,[],,False,Mapuche.htm,True,,1
+mapu1245-21-1,,mapu1245,21,epu mari kiñe,epu mari kiñe,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-22-1,,mapu1245,22,epu mari epu,epu mari epu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-23-1,,mapu1245,23,epu mari küla,epu mari küla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-24-1,,mapu1245,24,epu mari meli,epu mari meli,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-25-1,,mapu1245,25,epu mari kechu,epu mari kechu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-26-1,,mapu1245,26,epu mari kayu,epu mari kayu,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-27-1,,mapu1245,27,epu mari reɡle,epu mari reɡle,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-28-1,,mapu1245,28,epu mari pura,epu mari pura,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-29-1,,mapu1245,29,epu mari ailla,epu mari ailla,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-30-1,,mapu1245,30,küla mari,küla mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-40-1,,mapu1245,40,meli mari,meli mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-50-1,,mapu1245,50,kechu mari,kechu mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-60-1,,mapu1245,60,kayu mari,kayu mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-70-1,,mapu1245,70,reɡle mari,reɡle mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-80-1,,mapu1245,80,pura mari,pura mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-90-1,,mapu1245,90,ailla mari,ailla mari,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-100-1,,mapu1245,100,pataka,pataka,[],( < Quechua ),[],,True,Mapuche.htm,False,,1
+mapu1245-200-1,,mapu1245,200,epu pataka,epu pataka,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-1000-1,,mapu1245,1000,waranka,waranka,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-1000-2,,mapu1245,1000,waɽaŋka or mil,waɽaŋka or mil,[],,[],,False,Mapuche.htm,True,,1
+mapu1245-1000-3,,mapu1245,1000,mil,mil,[],,[],,False,Mapuche.htm,False,,1
+mapu1245-2000-1,,mapu1245,2000,epu waranka or epu mil,epu waranka or epu mil,[],,[],,False,Mapuche.htm,True,,1

@@ -1,0 +1,13 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+amar1271-1-1,,amar1271,1,yabardan,yabardan,[],,[],,False,Amarag.htm,False,,1
+amar1271-1-2,,amar1271,1,yařbařan,yařbařan,[],,[],,False,Amarag.htm,False,,2
+amar1271-2-1,,amar1271,2,iluburduk,iluburduk,[],,[],,False,Amarag.htm,False,,1
+amar1271-2-2,,amar1271,2,iřulubuřuɡ,iřulubuřuɡ,[],,[],,False,Amarag.htm,False,,2
+amar1271-3-1,,amar1271,3,alaburduk,alaburduk,[],,[],,False,Amarag.htm,False,,1
+amar1271-3-2,,amar1271,3,alabuřuɡ,alabuřuɡ,[],,[],,False,Amarag.htm,False,,2
+amar1271-4-1,,amar1271,4,iluburduk iluburduk,iluburduk iluburduk,[],( 2 + 2 ),[],,False,Amarag.htm,False,,1
+amar1271-4-2,,amar1271,4,iřulubuřuɡ iřulubuřuɡ,iřulubuřuɡ iřulubuřuɡ,[],( 2 + 2 ),[],,False,Amarag.htm,False,,2
+amar1271-5-1,,amar1271,5,yabardan abara,yabardan abara,[],,[],,False,Amarag.htm,False,,1
+amar1271-5-2,,amar1271,5,iřulubuřuɡ iřulubuřuɡ yařbařan,iřulubuřuɡ iřulubuřuɡ yařbařan,[],( 2 + 2 + 1),[],,False,Amarag.htm,False,,2
+amar1271-6-1,,amar1271,6,yabardan abara ny yabardan,yabardan abara ny yabardan,[],,[],,False,Amarag.htm,False,,1
+amar1271-7-1,,amar1271,7,yabardan abara ny iluburduk,yabardan abara ny iluburduk,[],,[],,False,Amarag.htm,False,,1

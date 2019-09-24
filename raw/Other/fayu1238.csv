@@ -1,0 +1,18 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+fayu1238-1-1,,fayu1238,1,e'yakae,e'yakae,[],,[],,False,Biritai.htm,False,,1
+fayu1238-1-2,,fayu1238,1,'baha,'baha,[],,[],,False,Fayu.htm,False,,1
+fayu1238-2-1,,fayu1238,2,ti'ai,ti'ai,[],,[],,False,Biritai.htm,False,,1
+fayu1238-2-2,,fayu1238,2,tia,tia,[],,[],,False,Biritai.htm,False,,1
+fayu1238-2-3,,fayu1238,2,'buɾe,'buɾe,[],,[],,False,Fayu.htm,False,,1
+fayu1238-3-1,,fayu1238,3,'sidiye,'sidiye,[],,[],,False,Biritai.htm,False,,1
+fayu1238-3-2,,fayu1238,3,sidiʌ,sidiʌ,[],,[],,False,Biritai.htm,False,,1
+fayu1238-3-3,,fayu1238,3,'uɾu,'uɾu,[],,[],,False,Fayu.htm,False,,1
+fayu1238-4-1,,fayu1238,4,ato'tiyai,ato'tiyai,[],,[],,False,Biritai.htm,False,,1
+fayu1238-4-2,,fayu1238,4,atotiʌai,atotiʌai,[],,[],,False,Biritai.htm,False,,1
+fayu1238-4-3,,fayu1238,4,'uɾu 'baha,'uɾu 'baha,[],( 3 + 1 ),[],,False,Fayu.htm,False,,1
+fayu1238-4-4,,fayu1238,4,'buɾe 'buɾe,'buɾe 'buɾe,[],( 2 + 2 ),[],,False,Fayu.htm,False,,1
+fayu1238-5-1,,fayu1238,5,ato'tiyai,ato'tiyai,[],,[],,False,Biritai.htm,False,,1
+fayu1238-5-2,,fayu1238,5,atotiʌai,atotiʌai,[],( same as four ),[],,False,Biritai.htm,False,,1
+fayu1238-5-3,,fayu1238,5,ada 'haɾa,ada 'haɾa,[],,[],,False,Fayu.htm,False,,1
+fayu1238-5-4,,fayu1238,5,atahaɾa,atahaɾa,[],( ada = hand ? ),[],,False,Fayu.htm,False,,1
+fayu1238-6-1,,fayu1238,6,ada 'haɾa 'baha . ɡuti,ada 'haɾa 'baha . ɡuti,[],(litː many ),[],,False,Fayu.htm,True,,1

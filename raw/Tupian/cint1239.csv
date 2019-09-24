@@ -1,0 +1,7 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+cint1239-1-1,,cint1239,1,muuj,muuj,[],(litː 'one'),[],,False,Cinta-Larga.htm,False,,1
+cint1239-2-1,,cint1239,2,busyyt,busyyt,[],(litː 'two'),[],,False,Cinta-Larga.htm,False,,1
+cint1239-3-1,,cint1239,3,busyyt'muuj,busyyt'muuj,[],(litː 'two + one'?'),[],,False,Cinta-Larga.htm,False,,1
+cint1239-4-1,,cint1239,4,xisaj'pitpareteet,xisaj'pitpareteet,[],(meaning ?),[],,False,Cinta-Larga.htm,False,,1
+cint1239-5-1,,cint1239,5,muujpabe,muujpabe,[],(litː 'one hand' ?),[],,False,Cinta-Larga.htm,False,,1
+cint1239-6-1,,cint1239,6,muujpabe'muuj (litː 'both hands and one'?). Manyː ngulua,muujpabe'muuj (litː 'both hands and one'?). Manyː ngulua,[],,[],,False,Cinta-Larga.htm,True,,1

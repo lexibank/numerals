@@ -1,0 +1,16 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+bine1240-1-1,,bine1240,1,nɛtɛɾa,nɛtɛɾa,[],,[],,False,Bine.htm,False,,1
+bine1240-1-2,,bine1240,1,yepa,yepa,[],,[],,False,Bine.htm,False,,2
+bine1240-2-1,,bine1240,2,nɛnɛni,nɛnɛni,[],,[],,False,Bine.htm,False,,1
+bine1240-2-2,,bine1240,2,neneni,neneni,[],,[],,False,Bine.htm,False,,2
+bine1240-3-1,,bine1240,3,nesae,nesae,[],,[],,False,Bine.htm,False,,1
+bine1240-3-2,,bine1240,3,nesae,nesae,[],,[],,False,Bine.htm,False,,2
+bine1240-4-1,,bine1240,4,nasajɛ,nasajɛ,[],(nasaɛ),[],,False,Bine.htm,False,,1
+bine1240-4-2,,bine1240,4,neneni neneni,neneni neneni,[],,[],,False,Bine.htm,False,,2
+bine1240-5-1,,bine1240,5,nɛtɛɾa imɛ utɛ,nɛtɛɾa imɛ utɛ,[],(lit. 'one hand resting/sleeping'),[],,False,Bine.htm,False,,1
+bine1240-5-2,,bine1240,5,ime ɡube nɡalu,ime ɡube nɡalu,[],(lit: my hand all'),[],,False,Bine.htm,False,,2
+bine1240-6-1,,bine1240,6,ime ɡube nɡalu yepa or nesae nesae,ime ɡube nɡalu yepa or nesae nesae,[],,[],,False,Bine.htm,True,,2
+bine1240-7-1,,bine1240,7,ime ɡube nɡalu neneni or nesae nesae yepa,ime ɡube nɡalu neneni or nesae nesae yepa,[],,[],,False,Bine.htm,True,,2
+bine1240-8-1,,bine1240,8,ime ɡube nɡalu nesae or nesae nesae neneni,ime ɡube nɡalu nesae or nesae nesae neneni,[],,[],,False,Bine.htm,True,,2
+bine1240-9-1,,bine1240,9,ime ɡube nɡalu neneni,ime ɡube nɡalu neneni,[],,[],,False,Bine.htm,False,,2
+bine1240-10-1,,bine1240,10,nenei ime ɡube nɡalu,nenei ime ɡube nɡalu,[],(lit: 'two my hands all'),[],,False,Bine.htm,False,,2

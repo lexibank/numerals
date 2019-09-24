@@ -1,0 +1,36 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+piar1243-1-1,,piar1243,1,M yo-CL-tetæ,M yo-CL-tetæ,[],,[],,False,Piaroa.htm,True,jɑ̃tẽtæ̃,1
+piar1243-1-2,,piar1243,1,hi-CL-tetæ(inan.)ː ñatetæ,hi-CL-tetæ(inan.)ː ñatetæ,[],(an.masc),[],,False,Piaroa.htm,True,,1
+piar1243-1-3,,piar1243,1,K,K,[],,[],,False,Piaroa.htm,False,yahutetæ (an.fem),1
+piar1243-1-4,,piar1243,1,jaʔute,jaʔute,[],,[],,False,Piaroa.htm,False,,2
+piar1243-2-1,,piar1243,2,M to-CL-re,M to-CL-re,[],,[],,False,Piaroa.htm,True,tɑ̃hũ,1
+piar1243-2-2,,piar1243,2,ta-CL-re,ta-CL-re,[],(inan. ),[],,False,Piaroa.htm,True,,1
+piar1243-2-3,,piar1243,2,K,K,[],,[],,False,Piaroa.htm,False,tahu (anim. ),1
+piar1243-2-4,,piar1243,2,todære,todære,[],,[],,False,Piaroa.htm,False,,2
+piar1243-3-1,,piar1243,3,M wæbo-CL-tukʷæ,M wæbo-CL-tukʷæ,[],,[],,False,Piaroa.htm,True,wæmetukʷæ,1
+piar1243-3-2,,piar1243,3,K,K,[],,[],,False,Piaroa.htm,False,wæba-CL-tukʷæ[inan.); wæmetukʷæ[anim.),1
+piar1243-3-3,,piar1243,3,wæbodæcuæ,wæbodæcuæ,[],( c = a palatal stop [c]),[],,False,Piaroa.htm,False,,2
+piar1243-4-1,,piar1243,4,M ̃ pahakʷænɨo-CL,M ̃ pahakʷænɨo-CL,[],,[],,False,Piaroa.htm,True,pɑ̃hɑ̃kʷæ̃nɨ,1
+piar1243-4-2,,piar1243,4,pahakʷænɨa-CL,pahakʷænɨa-CL,[],(inan.),[],,False,Piaroa.htm,True,,1
+piar1243-4-3,,piar1243,4,K,K,[],,[],,False,Piaroa.htm,False,pahakʷænɨñætɨ (an.fem),1
+piar1243-4-4,,piar1243,4,pãhãcuæ̃nɨ̃,pãhãcuæ̃nɨ̃,[],,[],,False,Piaroa.htm,False,,2
+piar1243-5-1,,piar1243,5,M himɨte,M himɨte,[],[K ],[],,False,Piaroa.htm,False,himute,1
+piar1243-5-2,,piar1243,5,jimɨte hæwæ,jimɨte hæwæ,[],,[],,False,Piaroa.htm,False,,2
+piar1243-6-1,,piar1243,6,K,K,[],,[],,False,Piaroa.htm,False,kʰoromɨtʰɨnɨ yomɨte,1
+piar1243-6-2,,piar1243,6,koromɨtʰɨ jaʔutenɨ,koromɨtʰɨ jaʔutenɨ,[],( litː from one hand one ),[],,False,Piaroa.htm,False,,2
+piar1243-7-1,,piar1243,7,koromɨtʰɨ todærenɨ,koromɨtʰɨ todærenɨ,[],( litː from one hand two ),[],,False,Piaroa.htm,False,,2
+piar1243-8-1,,piar1243,8,koromɨtʰɨ wæbodæcuæ,koromɨtʰɨ wæbodæcuæ,[],( litː from one hand three ),[],,False,Piaroa.htm,False,,2
+piar1243-9-1,,piar1243,9,koromɨtʰɨ pãhãcuæ̃nɨ̃,koromɨtʰɨ pãhãcuæ̃nɨ̃,[],( litː from one hand four ),[],,False,Piaroa.htm,False,,2
+piar1243-10-1,,piar1243,10,tomɨre hæwæ,tomɨre hæwæ,[],( litː two hands worth ),[],,False,Piaroa.htm,False,,2
+piar1243-11-1,,piar1243,11,tʰɨ̃hæ̃pɨ̃tʰɨ̃ jaʔutenɨ,tʰɨ̃hæ̃pɨ̃tʰɨ̃ jaʔutenɨ,[],( litː from one foot one ),[],,False,Piaroa.htm,False,,2
+piar1243-12-1,,piar1243,12,tʰɨ̃hæ̃pɨ̃tʰɨ̃ todærenɨ,tʰɨ̃hæ̃pɨ̃tʰɨ̃ todærenɨ,[],( litː from one foot two ),[],,False,Piaroa.htm,False,,2
+piar1243-13-1,,piar1243,13,tʰɨ̃hæ̃pɨ̃tʰɨ̃ wæbodæcuæ,tʰɨ̃hæ̃pɨ̃tʰɨ̃ wæbodæcuæ,[],( litː from one foot three ),[],,False,Piaroa.htm,False,,2
+piar1243-14-1,,piar1243,14,tʰɨ̃hæ̃pɨ̃tʰɨ̃ pãhãcuæ̃nɨ̃,tʰɨ̃hæ̃pɨ̃tʰɨ̃ pãhãcuæ̃nɨ̃,[],( litː from one foot four ),[],,False,Piaroa.htm,False,,2
+piar1243-15-1,,piar1243,15,K,K,[],,[],,False,Piaroa.htm,False,tʰɨ̃hæpɨ̃ hiũtehamenæ,1
+piar1243-15-2,,piar1243,15,tʰɨ̃hæ̃pɨ̃tʰɨ̃ jimɨtehæwæ,tʰɨ̃hæ̃pɨ̃tʰɨ̃ jimɨtehæwæ,[],( litː from one foot one hand worth),[],,False,Piaroa.htm,False,,2
+piar1243-16-1,,piar1243,16,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ jaʔutenɨ,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ jaʔutenɨ,[],( litː from the other foot one ),[],,False,Piaroa.htm,False,,2
+piar1243-17-1,,piar1243,17,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ todærenɨ,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ todærenɨ,[],( litː from the other foot two ),[],,False,Piaroa.htm,False,,2
+piar1243-18-1,,piar1243,18,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ wæbodæcuæ,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ wæbodæcuæ,[],( litː from the other foot three ),[],,False,Piaroa.htm,False,,2
+piar1243-19-1,,piar1243,19,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ pãhãcuæ̃nɨ̃,tʰɨ̃hæ̃pɨ̃ kɨ̃rɨ̃ʔũtʰũ koromɨtʰɨ pãhãcuæ̃nɨ̃,[],( litː from the other foot four ),[],,False,Piaroa.htm,False,,2
+piar1243-20-1,,piar1243,20,tʰũmɨ̃pĩjæ̃tʰɨ̃ʔnæ̃ tʰɨ̃hæ̃pĩjæ̃tʰɨ̃ʔĩnæ̃ hɨ̃mẽnæ̃ ( litː the amount of feet and hands ) or tʰɨ̃hã jãtẽ,tʰũmɨ̃pĩjæ̃tʰɨ̃ʔnæ̃ tʰɨ̃hæ̃pĩjæ̃tʰɨ̃ʔĩnæ̃ hɨ̃mẽnæ̃ ( litː the amount of feet and hands ) or tʰɨ̃hã jãtẽ,[],( litː one person ),[],,False,Piaroa.htm,True,,2
+piar1243-40-1,,piar1243,40,tʰɨ̃hã tãhũ hɨ̃mẽnæ̃,tʰɨ̃hã tãhũ hɨ̃mẽnæ̃,[],( litː two people worth ),[],,False,Piaroa.htm,False,,2

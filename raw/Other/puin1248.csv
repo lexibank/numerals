@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+puin1248-1-1,,puin1248,1,tə̃̀m,tə̃̀m,[],,[],,False,Puinave.htm,False,,1
+puin1248-1-2,,puin1248,1,tɤ̃m,tɤ̃m,[],,[],,False,Puinave.htm,False,,2
+puin1248-2-1,,puin1248,2,kàw,kàw,[],,[],,False,Puinave.htm,False,,1
+puin1248-2-2,,puin1248,2,kâu,kâu,[],,[],,False,Puinave.htm,False,,2
+puin1248-3-1,,puin1248,3,pə̄i * high tone,pə̄i * high tone,[],,[],,False,Puinave.htm,True,,1
+puin1248-3-2,,puin1248,3,pɤ́i,pɤ́i,[],,[],,False,Puinave.htm,False,,2
+puin1248-4-1,,puin1248,4,káwnōk,káwnōk,[],(litː ''two going''),[],,False,Puinave.htm,False,,1
+puin1248-4-2,,puin1248,4,kaunṍk,kaunṍk,[],,[],,False,Puinave.htm,False,,2
+puin1248-5-1,,puin1248,5,dāptə̀m,dāptə̀m,[],( litː ''hand-one'' ),[],,False,Puinave.htm,False,,1
+puin1248-5-2,,puin1248,5,dáptɤ̃m,dáptɤ̃m,[],( litː ''hand-one'' ),[],,False,Puinave.htm,False,,2
+puin1248-6-1,,puin1248,6,tɤ̃mdábattabat,tɤ̃mdábattabat,[],"(litː  ""one crossing to the opposed hand"" )",[],,False,Puinave.htm,False,,2
+puin1248-7-1,,puin1248,7,kâudábattabat,kâudábattabat,[],,[],,False,Puinave.htm,False,,2
+puin1248-8-1,,puin1248,8,pɤ́idábattabat,pɤ́idábattabat,[],,[],,False,Puinave.htm,False,,2
+puin1248-9-1,,puin1248,9,kaunṍkdábattabat,kaunṍkdábattabat,[],,[],,False,Puinave.htm,False,,2
+puin1248-10-1,,puin1248,10,dábàt kàw,dábàt kàw,[],( litː ''two hands'' ),[],,False,Puinave.htm,False,,1
+puin1248-10-2,,puin1248,10,káumoɾap or dábatkâu,káumoɾap or dábatkâu,[],"( litː ""from the second hand"" )",[],,False,Puinave.htm,True,,2
+puin1248-20-1,,puin1248,20,tə̃̀m èpin,tə̃̀m èpin,[],(litː ''one person''),[],,False,Puinave.htm,False,,1
+puin1248-20-2,,puin1248,20,tɤ̃m épin,tɤ̃m épin,[],( lit: ''one person'' ),[],,False,Puinave.htm,False,,2
+puin1248-40-1,,puin1248,40,kàw èpin,kàw èpin,[],(litː ''two persons''),[],,False,Puinave.htm,False,,1
+puin1248-40-2,,puin1248,40,60. pə̄ièpin,60. pə̄ièpin,[],(litː ''three persons''),[],,False,Puinave.htm,True,,1
+puin1248-80-1,,puin1248,80,káwnōk èpin,káwnōk èpin,[],(litː ''four persons''),[],,False,Puinave.htm,False,,1
+puin1248-80-2,,puin1248,80,100. dāptə̀m èpin,100. dāptə̀m èpin,[],(litː ''five persons''),[],,False,Puinave.htm,True,,1

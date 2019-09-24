@@ -1,0 +1,16 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,SourceFile,Problematic,Other_Form,Variant_ID
+wask1241-1-1,,wask1241,1,su.'wɑn.tɑ,su.'wɑn.tɑ,[],,[],,False,Waskia.htm,False,,1
+wask1241-1-2,,wask1241,1,itoketa,itoketa,[],( < i-toke-ta ),[],,False,Waskia.htm,False,,2
+wask1241-2-1,,wask1241,2,i.lɑ.ɣɑ.lɑ,i.lɑ.ɣɑ.lɑ,[],,[],,False,Waskia.htm,False,,1
+wask1241-2-2,,wask1241,2,itelala,itelala,[],( < i-tel-ala),[],,False,Waskia.htm,False,,2
+wask1241-3-1,,wask1241,3,i.lɑ.ɣɑ.lɑ. su.'wɑn.tɑ,i.lɑ.ɣɑ.lɑ. su.'wɑn.tɑ,[],"( two, and one )",[],,False,Waskia.htm,True,,1
+wask1241-3-2,,wask1241,3,iteltoke,iteltoke,[],( < i-tel-toke ),[],,False,Waskia.htm,False,,2
+wask1241-4-1,,wask1241,4,i.lɑ.ɣɑ.lɑ i.lɑ.ɣɑ.lɑ,i.lɑ.ɣɑ.lɑ i.lɑ.ɣɑ.lɑ,[],( two times ),[],,False,Waskia.htm,False,,1
+wask1241-4-2,,wask1241,4,itelala-itelala,itelala-itelala,[],,[],,False,Waskia.htm,False,,2
+wask1241-5-1,,wask1241,5,i.lɑ.ɣɑ.lɑ su.'wɑn.tɑ,i.lɑ.ɣɑ.lɑ su.'wɑn.tɑ,[],"( two times, and one)",[],,False,Waskia.htm,False,,1
+wask1241-5-2,,wask1241,5,itelala-itelala-itoketa,itelala-itelala-itoketa,[],,[],,False,Waskia.htm,False,,2
+wask1241-6-1,,wask1241,6,iteltoke-iteltoke,iteltoke-iteltoke,[],,[],,False,Waskia.htm,False,,2
+wask1241-7-1,,wask1241,7,iteltoke-iteltoke-itoketa,iteltoke-iteltoke-itoketa,[],,[],,False,Waskia.htm,False,,2
+wask1241-8-1,,wask1241,8,iteltoke-iteltoke-itelala,iteltoke-iteltoke-itelala,[],,[],,False,Waskia.htm,False,,2
+wask1241-9-1,,wask1241,9,kuting dilisan sa itelala-itelala,kuting dilisan sa itelala-itelala,[],,[],,False,Waskia.htm,False,,2
+wask1241-10-1,,wask1241,10,kuting dilisan-dilisan,kuting dilisan-dilisan,[],,[],,False,Waskia.htm,False,,2
