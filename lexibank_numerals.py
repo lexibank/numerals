@@ -46,7 +46,8 @@ FAMILIES = [
 
 def make_index_link(s):
     stripped = s.strip("raw/")
-    return "* [" + stripped + "]" + "(" + stripped + ")"
+    stripped_link = s.strip("raw/").replace(" ", "%20")
+    return "* [" + stripped + "]" + "(" + stripped_link + ")"
 
 
 def make_chan_link(s):
