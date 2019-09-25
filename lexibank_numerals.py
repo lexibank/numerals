@@ -12,9 +12,6 @@ CHANURL = "https://mpi-lingweb.shh.mpg.de/numeral/"
 # FIXME: Point to Zenodo or GitHub API?
 URL = "http://localhost:8000/cldf.zip"
 
-# FIXME: Remove absolute path.
-GLOTTOLOG_DIR = "/home/rzymski@shh.mpg.de/Repositories/glottolog/glottolog"
-
 # Largest Glottolog families for sorting:
 FAMILIES = [
     "Austronesian",
@@ -82,7 +79,7 @@ class Dataset(BaseDataset):
             "parameters.csv",
         ]
 
-        glottolog = Glottolog(GLOTTOLOG_DIR)
+        glottolog = self.glottolog
         languoids = {l.id: l for l in glottolog.languoids()}
 
         self.raw.download_and_unpack(
