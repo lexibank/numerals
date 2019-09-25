@@ -42,14 +42,15 @@ FAMILIES = [
 
 
 def make_index_link(s):
-    stripped = s.strip("raw/")
-    stripped_link = s.strip("raw/").replace(" ", "%20")
-    return "* [" + stripped + "]" + "(" + stripped_link + ")"
+    stripped = s.split("raw/")[-1]
+    stripped_link = s.split("raw/")[-1].replace(" ", "%20")
+    return f"* [{stripped}]({stripped_link})"
 
 
 def make_chan_link(s):
     s = s.replace(" ", "%20")
-    return " ([Source]" + "(" + CHANURL + s + "))"
+    url = CHANURL + s
+    return f" ([Source]({url}))"
 
 
 def check_for_problems(entry):
@@ -58,6 +59,13 @@ def check_for_problems(entry):
             return " **(Problems)**"
         else:
             return ""
+
+
+def make_language_name(language_name=""):
+    if language_name:
+        return f" ({language_name})"
+    else:
+        return ""
 
 
 class Dataset(BaseDataset):
@@ -111,13 +119,14 @@ class Dataset(BaseDataset):
             chansrc = entry[0]["SourceFile"]
             family = "Other"
             problems = check_for_problems(entry)
+            csv_name = Path(lid + ".csv")
 
             if languoids[lid].family and languoids[lid].family.name in FAMILIES:
                 family = languoids[lid].family.name
 
-            pathlib.Path("raw/" + family).mkdir(parents=True, exist_ok=True)
+            pathlib.Path(self.raw / family).mkdir(parents=True, exist_ok=True)
 
-            with open("raw/" + family + "/" + lid + ".csv", "w") as outfile:
+            with open(self.raw / family / csv_name, "w") as outfile:
                 fp = csv.DictWriter(outfile, entry[0].keys())
                 fp.writeheader()
                 fp.writerows(sorted(entry, key=lambda x: int(x["Parameter_ID"])))
@@ -126,7 +135,8 @@ class Dataset(BaseDataset):
             with open(index, "a+") as outfile:
                 index_link = make_index_link(github_file)
                 chan_link = make_chan_link(chansrc)
-                outfile.write(index_link + chan_link + problems + '\n')
+                language_name = make_language_name(languoids[lid].name)
+                outfile.write(index_link + chan_link + language_name + problems + '\n')
 
     def cmd_install(self, **kw):
         with self.cldf as _:
