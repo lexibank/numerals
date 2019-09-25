@@ -57,8 +57,8 @@ def check_for_problems(entry):
     for row in entry:
         if row["Problematic"] == "True":
             return " **(Problems)**"
-        else:
-            return ""
+
+    return ""
 
 
 def make_language_name(language_name=""):
