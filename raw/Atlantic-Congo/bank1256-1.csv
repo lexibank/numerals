@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bank1256-1-1-1,,bank1256-1,1,(i)yǎ,(i)yǎ,[],,[],,False,False,,1
+bank1256-1-1-2,,bank1256-1,1,tʃàá,tʃàá,[],(SIL),[],,False,False,,1
+bank1256-1-2-1,,bank1256-1,2,(bi)ɓá,(bi)ɓá,[],,[],,False,False,,1
+bank1256-1-3-1,,bank1256-1,3,(bi)íyâ,(bi)íyâ,[],,[],,False,False,,1
+bank1256-1-4-1,,bank1256-1,4,(bi)nân,(bi)nân,[],,[],,False,False,,1
+bank1256-1-5-1,,bank1256-1,5,(bi)tán,(bi)tán,[],,[],,False,False,,1
+bank1256-1-6-1,,bank1256-1,6,(bi)sámà,(bi)sámà,[],,[],,False,False,,1
+bank1256-1-7-1,,bank1256-1,7,(bi)sámbɔ̀k,(bi)sámbɔ̀k,[],,[],,False,False,,1
+bank1256-1-7-2,,bank1256-1,7,ndʒààmbwɛ́,ndʒààmbwɛ́,[],(SIL),[],,False,False,,1
+bank1256-1-8-1,,bank1256-1,8,(bi)jwɛ̂m j=dʒ or ɟ ?,(bi)jwɛ̂m j=dʒ or ɟ ?,[],,[],,False,True,,1
+bank1256-1-8-2,,bank1256-1,8,mwàm,mwàm,[],(SIL),[],,False,False,,1
+bank1256-1-9-1,,bank1256-1,9,(bi)nâm,(bi)nâm,[],,[],,False,False,,1
+bank1256-1-10-1,,bank1256-1,10,iɓǒm,iɓǒm,[],,[],,False,False,,1
+bank1256-1-11-1,,bank1256-1,11,iɓǒm nî yǎ,iɓǒm nî yǎ,[],,[],,False,False,,1
+bank1256-1-12-1,,bank1256-1,12,iɓǒm ni bí ɓâ,iɓǒm ni bí ɓâ,[],,[],,False,False,,1
+bank1256-1-13-1,,bank1256-1,13,iɓǒm ni bí íyâ,iɓǒm ni bí íyâ,[],,[],,False,False,,1
+bank1256-1-14-1,,bank1256-1,14,iɓǒm ni bí nân,iɓǒm ni bí nân,[],,[],,False,False,,1
+bank1256-1-15-1,,bank1256-1,15,iɓǒm ni bí tán,iɓǒm ni bí tán,[],,[],,False,False,,1
+bank1256-1-16-1,,bank1256-1,16,iɓǒm ni bí sámà,iɓǒm ni bí sámà,[],,[],,False,False,,1
+bank1256-1-17-1,,bank1256-1,17,iɓǒm ni bí sámbɔ̀k,iɓǒm ni bí sámbɔ̀k,[],,[],,False,False,,1
+bank1256-1-18-1,,bank1256-1,18,iɓǒm ni bí jwɛ̂m,iɓǒm ni bí jwɛ̂m,[],,[],,False,False,,1
+bank1256-1-19-1,,bank1256-1,19,iɓǒm ni bí nâm,iɓǒm ni bí nâm,[],,[],,False,False,,1
+bank1256-1-20-1,,bank1256-1,20,biɓǒm bí ɓâ,biɓǒm bí ɓâ,[],,[],,False,False,,1
+bank1256-1-21-1,,bank1256-1,21,biɓǒm bí ɓâ nî yǎ,biɓǒm bí ɓâ nî yǎ,[],,[],,False,False,,1
+bank1256-1-22-1,,bank1256-1,22,biɓǒm bí ɓâ ni bí ɓá,biɓǒm bí ɓâ ni bí ɓá,[],,[],,False,False,,1
+bank1256-1-23-1,,bank1256-1,23,biɓǒm bí ɓâ ni bí íyâ,biɓǒm bí ɓâ ni bí íyâ,[],,[],,False,False,,1
+bank1256-1-24-1,,bank1256-1,24,biɓǒm bí ɓâ ni bí nân,biɓǒm bí ɓâ ni bí nân,[],,[],,False,False,,1
+bank1256-1-25-1,,bank1256-1,25,biɓǒm bí ɓâ ni bí tán,biɓǒm bí ɓâ ni bí tán,[],,[],,False,False,,1
+bank1256-1-26-1,,bank1256-1,26,biɓǒm bí ɓâ ni bí sámà,biɓǒm bí ɓâ ni bí sámà,[],,[],,False,False,,1
+bank1256-1-27-1,,bank1256-1,27,biɓǒm bí ɓâ ni bí sámbɔ̀k,biɓǒm bí ɓâ ni bí sámbɔ̀k,[],,[],,False,False,,1
+bank1256-1-28-1,,bank1256-1,28,biɓǒm bí ɓâ ni bí jwɛ̂m,biɓǒm bí ɓâ ni bí jwɛ̂m,[],,[],,False,False,,1
+bank1256-1-29-1,,bank1256-1,29,biɓǒm bí ɓâ ni bi nâm,biɓǒm bí ɓâ ni bi nâm,[],,[],,False,False,,1
+bank1256-1-30-1,,bank1256-1,30,biɓǒm bí íyâ,biɓǒm bí íyâ,[],,[],,False,False,,1
+bank1256-1-40-1,,bank1256-1,40,biɓǒm bí mínáà,biɓǒm bí mínáà,[],,[],,False,False,,1
+bank1256-1-50-1,,bank1256-1,50,biɓǒm bí mítáàn,biɓǒm bí mítáàn,[],,[],,False,False,,1
+bank1256-1-60-1,,bank1256-1,60,biɓǒm bí sámà,biɓǒm bí sámà,[],,[],,False,False,,1
+bank1256-1-70-1,,bank1256-1,70,biɓǒm bí sámbɔ̀k,biɓǒm bí sámbɔ̀k,[],,[],,False,False,,1
+bank1256-1-80-1,,bank1256-1,80,biɓǒm bí jwɛ̂m,biɓǒm bí jwɛ̂m,[],,[],,False,False,,1
+bank1256-1-90-1,,bank1256-1,90,biɓǒm bí nâm,biɓǒm bí nâm,[],,[],,False,False,,1
+bank1256-1-100-1,,bank1256-1,100,ibɔ́k,ibɔ́k,[],,[],,False,False,,1
+bank1256-1-1000-1,,bank1256-1,1000,ìkóː,ìkóː,[],,[],,False,False,,1

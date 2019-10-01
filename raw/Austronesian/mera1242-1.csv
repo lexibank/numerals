@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mera1242-1-1-1,,mera1242-1,1,tasa,tasa,[],,[],,False,False,,1
+mera1242-1-2-1,,mera1242-1,2,lua,lua,[],,[],,False,False,,1
+mera1242-1-3-1,,mera1242-1,3,tolu,tolu,[],,[],,False,False,,1
+mera1242-1-4-1,,mera1242-1,4,hiva,hiva,[],,[],,False,False,,1
+mera1242-1-5-1,,mera1242-1,5,lima,lima,[],,[],,False,False,,1
+mera1242-1-6-1,,mera1242-1,6,pantasa,pantasa,[],( 5 + 1 ),[],,False,False,,1
+mera1242-1-7-1,,mera1242-1,7,pandilua,pandilua,[],( 5 + 2 ),[],,False,False,,1
+mera1242-1-8-1,,mera1242-1,8,pantolu,pantolu,[],( 5 + 3 ),[],,False,False,,1
+mera1242-1-9-1,,mera1242-1,9,yalasue,yalasue,[],,[],,False,False,,1
+mera1242-1-10-1,,mera1242-1,10,savulu,savulu,[],(tasa),[],,False,False,,1
+mera1242-1-11-1,,mera1242-1,11,savulu tasa timana tasa,savulu tasa timana tasa,[],,[],,False,False,,1
+mera1242-1-12-1,,mera1242-1,12,savulu tasa timana lua,savulu tasa timana lua,[],,[],,False,False,,1
+mera1242-1-13-1,,mera1242-1,13,savulu tasa timana tolu,savulu tasa timana tolu,[],,[],,False,False,,1
+mera1242-1-14-1,,mera1242-1,14,savulu tasa timana hiva,savulu tasa timana hiva,[],,[],,False,False,,1
+mera1242-1-15-1,,mera1242-1,15,savulu tasa timana lima,savulu tasa timana lima,[],,[],,False,False,,1
+mera1242-1-16-1,,mera1242-1,16,savulu tasa timana pantasa,savulu tasa timana pantasa,[],,[],,False,False,,1
+mera1242-1-17-1,,mera1242-1,17,savulu tasa timana pandilua,savulu tasa timana pandilua,[],,[],,False,False,,1
+mera1242-1-18-1,,mera1242-1,18,savulu tasa timana pantolu,savulu tasa timana pantolu,[],,[],,False,False,,1
+mera1242-1-19-1,,mera1242-1,19,savulu tasa timana yalasue,savulu tasa timana yalasue,[],,[],,False,False,,1
+mera1242-1-20-1,,mera1242-1,20,savulu lua,savulu lua,[],,[],,False,False,,1
+mera1242-1-21-1,,mera1242-1,21,savulu lua timana tasa,savulu lua timana tasa,[],,[],,False,False,,1
+mera1242-1-22-1,,mera1242-1,22,savulu lua timana lua,savulu lua timana lua,[],,[],,False,False,,1
+mera1242-1-23-1,,mera1242-1,23,savulu lua timana tolu,savulu lua timana tolu,[],,[],,False,False,,1
+mera1242-1-24-1,,mera1242-1,24,savulu lua timana hiva,savulu lua timana hiva,[],,[],,False,False,,1
+mera1242-1-25-1,,mera1242-1,25,savulu lua timana lima,savulu lua timana lima,[],,[],,False,False,,1
+mera1242-1-26-1,,mera1242-1,26,savulu lua timana pantasa,savulu lua timana pantasa,[],,[],,False,False,,1
+mera1242-1-27-1,,mera1242-1,27,savulu lua timana pandilua,savulu lua timana pandilua,[],,[],,False,False,,1
+mera1242-1-28-1,,mera1242-1,28,savulu lua timana pantolu,savulu lua timana pantolu,[],,[],,False,False,,1
+mera1242-1-29-1,,mera1242-1,29,savulu lua timana yalasue,savulu lua timana yalasue,[],,[],,False,False,,1
+mera1242-1-30-1,,mera1242-1,30,savulu tolu,savulu tolu,[],,[],,False,False,,1
+mera1242-1-40-1,,mera1242-1,40,savulu hiva,savulu hiva,[],,[],,False,False,,1
+mera1242-1-50-1,,mera1242-1,50,savulu lima,savulu lima,[],,[],,False,False,,1
+mera1242-1-60-1,,mera1242-1,60,savulu pantasa,savulu pantasa,[],,[],,False,False,,1
+mera1242-1-70-1,,mera1242-1,70,savulu pandilua,savulu pandilua,[],,[],,False,False,,1
+mera1242-1-80-1,,mera1242-1,80,savulu pantolu,savulu pantolu,[],,[],,False,False,,1
+mera1242-1-90-1,,mera1242-1,90,savulu yalasue,savulu yalasue,[],,[],,False,False,,1
+mera1242-1-100-1,,mera1242-1,100,savulu savulu,savulu savulu,[],,[],,False,False,,1
+mera1242-1-100-2,,mera1242-1,100,savulu sobo,savulu sobo,[],,[],,False,False,,1
+mera1242-1-200-1,,mera1242-1,200,savulu savulu lua,savulu savulu lua,[],,[],,False,False,,1
+mera1242-1-1000-1,,mera1242-1,1000,savulu sobo savulu,savulu sobo savulu,[],,[],,False,False,,1
+mera1242-1-2000-1,,mera1242-1,2000,savulu sobo savulu lua,savulu sobo savulu lua,[],,[],,False,False,,1

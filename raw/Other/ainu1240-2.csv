@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ainu1240-2-1-1,,ainu1240-2,1,sine,sine,[],,[],,False,False,,2
+ainu1240-2-2-1,,ainu1240-2,2,tu,tu,[],,[],,False,False,,2
+ainu1240-2-3-1,,ainu1240-2,3,re,re,[],,[],,False,False,,2
+ainu1240-2-4-1,,ainu1240-2,4,ine,ine,[],,[],,False,False,,2
+ainu1240-2-5-1,,ainu1240-2,5,asikne,asikne,[],( < aske ' hand' ),[],,False,False,,2
+ainu1240-2-6-1,,ainu1240-2,6,iwan,iwan,[],( four to ten ),[],,False,False,,2
+ainu1240-2-7-1,,ainu1240-2,7,arwan,arwan,[],( three to ten),[],,False,False,,2
+ainu1240-2-8-1,,ainu1240-2,8,tupesan,tupesan,[],"( 10 - 2, lacking in two )",[],,False,False,,2
+ainu1240-2-9-1,,ainu1240-2,9,sinepesan,sinepesan,[],"( 10 - 1, lacking in one )",[],,False,False,,2
+ainu1240-2-10-1,,ainu1240-2,10,wan,wan,[],( < two sides ),[],,False,False,,2
+ainu1240-2-11-1,,ainu1240-2,11,sine ikasma wan,sine ikasma wan,[],,[],,False,False,,2
+ainu1240-2-12-1,,ainu1240-2,12,tu ikasma wan,tu ikasma wan,[],,[],,False,False,,2
+ainu1240-2-13-1,,ainu1240-2,13,re ikasma wan,re ikasma wan,[],,[],,False,False,,2
+ainu1240-2-14-1,,ainu1240-2,14,ine ikasma wan,ine ikasma wan,[],,[],,False,False,,2
+ainu1240-2-15-1,,ainu1240-2,15,asikne ikasma wan,asikne ikasma wan,[],,[],,False,False,,2
+ainu1240-2-16-1,,ainu1240-2,16,iwan ikasma wan,iwan ikasma wan,[],,[],,False,False,,2
+ainu1240-2-17-1,,ainu1240-2,17,arwan ikasma wan,arwan ikasma wan,[],,[],,False,False,,2
+ainu1240-2-18-1,,ainu1240-2,18,tupesan ikasma wan,tupesan ikasma wan,[],,[],,False,False,,2
+ainu1240-2-19-1,,ainu1240-2,19,sinepesan ikasma wan,sinepesan ikasma wan,[],,[],,False,False,,2
+ainu1240-2-20-1,,ainu1240-2,20,hotne,hotne,[],,[],,False,False,,2
+ainu1240-2-21-1,,ainu1240-2,21,sine ikasma hotne,sine ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-22-1,,ainu1240-2,22,tu ikasma hotne,tu ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-23-1,,ainu1240-2,23,re ikasma hotne,re ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-24-1,,ainu1240-2,24,ine ikasma hotne,ine ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-25-1,,ainu1240-2,25,asikne ikasma hotne,asikne ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-26-1,,ainu1240-2,26,iwan ikasma hotne,iwan ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-27-1,,ainu1240-2,27,arwan ikasma hotne,arwan ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-28-1,,ainu1240-2,28,tupesan ikasma hotne,tupesan ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-29-1,,ainu1240-2,29,sinepesan ikasma hotne,sinepesan ikasma hotne,[],,[],,False,False,,2
+ainu1240-2-30-1,,ainu1240-2,30,wan etu hotne,wan etu hotne,[],( 10 - 2 x 20 ),[],,False,False,,2
+ainu1240-2-40-1,,ainu1240-2,40,tu hotne,tu hotne,[],( 2 x 20 ),[],,False,False,,2
+ainu1240-2-50-1,,ainu1240-2,50,wan ere hotne,wan ere hotne,[],( 10 - 3 x 20 ),[],,False,False,,2
+ainu1240-2-60-1,,ainu1240-2,60,re hotne,re hotne,[],( 3 x 20 ),[],,False,False,,2
+ainu1240-2-70-1,,ainu1240-2,70,wan eine hotne,wan eine hotne,[],( 10 - 4 x 20 ),[],,False,False,,2
+ainu1240-2-80-1,,ainu1240-2,80,ine hotne,ine hotne,[],( 4 x 20 ),[],,False,False,,2
+ainu1240-2-90-1,,ainu1240-2,90,wan asikne hotne,wan asikne hotne,[],( 10 - 5 x 20 ),[],,False,False,,2
+ainu1240-2-100-1,,ainu1240-2,100,asikne hotne,asikne hotne,[],( 5 x 20 ),[],,False,False,,2

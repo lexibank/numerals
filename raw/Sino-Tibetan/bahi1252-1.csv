@@ -1,0 +1,68 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bahi1252-1-1-1,,bahi1252-1,1,koŋ,koŋ,[],,[],,False,False,,1
+bahi1252-1-1-2,,bahi1252-1,1,kʷāŋ,kʷāŋ,[],( from Rapacha 2006 ),[],,False,False,,1
+bahi1252-1-2-1,,bahi1252-1,2,niksi,niksi,[],,[],,False,False,,1
+bahi1252-1-2-2,,bahi1252-1,2,ni,ni,[],(ksi),[],,False,False,,1
+bahi1252-1-3-1,,bahi1252-1,3,sam,sam,[],,[],,False,False,,1
+bahi1252-1-3-2,,bahi1252-1,3,sām,sām,[],,[],,False,False,,1
+bahi1252-1-4-1,,bahi1252-1,4,lɛ,lɛ,[],,[],,False,False,,1
+bahi1252-1-4-2,,bahi1252-1,4,lɛ,lɛ,[],,[],,False,False,,1
+bahi1252-1-5-1,,bahi1252-1,5,ŋɔ,ŋɔ,[],,[],,False,False,,1
+bahi1252-1-5-2,,bahi1252-1,5,ŋo,ŋo,[],,[],,False,False,,1
+bahi1252-1-6-1,,bahi1252-1,6,rukʰu,rukʰu,[],,[],,False,False,,1
+bahi1252-1-6-2,,bahi1252-1,6,rukbā ~rukʰā,rukbā ~rukʰā,[],,[],,False,True,,1
+bahi1252-1-7-1,,bahi1252-1,7,cʉni,cʉni,[],,[],,False,False,,1
+bahi1252-1-7-2,,bahi1252-1,7,cənni,cənni,[],,[],,False,False,,1
+bahi1252-1-8-1,,bahi1252-1,8,ja,ja,[],,[],,False,False,,1
+bahi1252-1-8-2,,bahi1252-1,8,yā,yā,[],,[],,False,False,,1
+bahi1252-1-9-1,,bahi1252-1,9,ɡu,ɡu,[],,[],,False,False,,1
+bahi1252-1-9-2,,bahi1252-1,9,ɡʰu,ɡʰu,[],,[],,False,False,,1
+bahi1252-1-10-1,,bahi1252-1,10,kudum,kudum,[],,[],,False,False,,1
+bahi1252-1-10-2,,bahi1252-1,10,kʷaddiyum,kʷaddiyum,[],(āpʰlo),[],,False,False,,1
+bahi1252-1-11-1,,bahi1252-1,11,kwaddjumkwoŋ,kwaddjumkwoŋ,[],,[],,False,False,,1
+bahi1252-1-11-2,,bahi1252-1,11,kʷaddiyumkʷāŋ,kʷaddiyumkʷāŋ,[],,[],,False,False,,1
+bahi1252-1-12-1,,bahi1252-1,12,kwaddjumniksi,kwaddjumniksi,[],,[],,False,False,,1
+bahi1252-1-12-2,,bahi1252-1,12,kʷaddiyumni,kʷaddiyumni,[],(ksi),[],,False,False,,1
+bahi1252-1-13-1,,bahi1252-1,13,kwaddjumsam,kwaddjumsam,[],,[],,False,False,,1
+bahi1252-1-13-2,,bahi1252-1,13,kʷaddiyumsām,kʷaddiyumsām,[],,[],,False,False,,1
+bahi1252-1-14-1,,bahi1252-1,14,kwaddjumlɛ,kwaddjumlɛ,[],,[],,False,False,,1
+bahi1252-1-14-2,,bahi1252-1,14,kʷaddiyumlɛ,kʷaddiyumlɛ,[],,[],,False,False,,1
+bahi1252-1-15-1,,bahi1252-1,15,kwaddjumŋɔ,kwaddjumŋɔ,[],,[],,False,False,,1
+bahi1252-1-15-2,,bahi1252-1,15,kʷaddiyumŋo,kʷaddiyumŋo,[],,[],,False,False,,1
+bahi1252-1-16-1,,bahi1252-1,16,kwaddjumrukʰu,kwaddjumrukʰu,[],,[],,False,False,,1
+bahi1252-1-16-2,,bahi1252-1,16,kʷaddiyumrukbā,kʷaddiyumrukbā,[],,[],,False,False,,1
+bahi1252-1-17-1,,bahi1252-1,17,kwaddjumcʉni,kwaddjumcʉni,[],,[],,False,False,,1
+bahi1252-1-17-2,,bahi1252-1,17,kʷaddiyumcənni,kʷaddiyumcənni,[],,[],,False,False,,1
+bahi1252-1-18-1,,bahi1252-1,18,kwaddjumja,kwaddjumja,[],,[],,False,False,,1
+bahi1252-1-18-2,,bahi1252-1,18,kʷaddiyumyā,kʷaddiyumyā,[],,[],,False,False,,1
+bahi1252-1-19-1,,bahi1252-1,19,kwaddjumɡu,kwaddjumɡu,[],,[],,False,False,,1
+bahi1252-1-19-2,,bahi1252-1,19,kʷaddiyumɡʰu,kʷaddiyumɡʰu,[],,[],,False,False,,1
+bahi1252-1-20-1,,bahi1252-1,20,asim,asim,[],,[],,False,False,,1
+bahi1252-1-20-2,,bahi1252-1,20,āsim,āsim,[],,[],,False,False,,1
+bahi1252-1-21-1,,bahi1252-1,21,āsimkʷaŋ,āsimkʷaŋ,[],( from Rapacha 2006),[],,False,False,,1
+bahi1252-1-22-1,,bahi1252-1,22,āsimni,āsimni,[],(ksi),[],,False,False,,1
+bahi1252-1-23-1,,bahi1252-1,23,āsimsām,āsimsām,[],,[],,False,False,,1
+bahi1252-1-24-1,,bahi1252-1,24,āsimlɛ,āsimlɛ,[],,[],,False,False,,1
+bahi1252-1-25-1,,bahi1252-1,25,āsimŋo,āsimŋo,[],,[],,False,False,,1
+bahi1252-1-26-1,,bahi1252-1,26,āsimrukbā,āsimrukbā,[],,[],,False,False,,1
+bahi1252-1-27-1,,bahi1252-1,27,āsimcənni,āsimcənni,[],,[],,False,False,,1
+bahi1252-1-28-1,,bahi1252-1,28,āsimyā,āsimyā,[],,[],,False,False,,1
+bahi1252-1-29-1,,bahi1252-1,29,āsimɡʰu,āsimɡʰu,[],,[],,False,False,,1
+bahi1252-1-30-1,,bahi1252-1,30,asim apʰlo,asim apʰlo,[],,[],,False,False,,1
+bahi1252-1-30-2,,bahi1252-1,30,kʷaŋāsimkʷāŋāpʰlo,kʷaŋāsimkʷāŋāpʰlo,[],,[],,False,False,,1
+bahi1252-1-40-1,,bahi1252-1,40,niksi asim,niksi asim,[],,[],,False,False,,1
+bahi1252-1-40-2,,bahi1252-1,40,ni(ksi) āsim,ni(ksi) āsim,[],( 2 x 20 ),[],,False,False,,1
+bahi1252-1-50-1,,bahi1252-1,50,niksi asimapʰlo,niksi asimapʰlo,[],,[],,False,False,,1
+bahi1252-1-50-2,,bahi1252-1,50,ni(ksi)āsimkʷāŋāpʰlo,ni(ksi)āsimkʷāŋāpʰlo,[],,[],,False,False,,1
+bahi1252-1-60-1,,bahi1252-1,60,sam asim,sam asim,[],,[],,False,False,,1
+bahi1252-1-60-2,,bahi1252-1,60,sāmāsim,sāmāsim,[],( 3 x 20 ),[],,False,False,,1
+bahi1252-1-70-1,,bahi1252-1,70,sam asimapʰlo,sam asimapʰlo,[],,[],,False,False,,1
+bahi1252-1-70-2,,bahi1252-1,70,sāmāsimkʷāŋāpʰlo,sāmāsimkʷāŋāpʰlo,[],,[],,False,False,,1
+bahi1252-1-80-1,,bahi1252-1,80,lɛ asim,lɛ asim,[],,[],,False,False,,1
+bahi1252-1-80-2,,bahi1252-1,80,lɛāsim,lɛāsim,[],(4 x 20 ),[],,False,False,,1
+bahi1252-1-90-1,,bahi1252-1,90,lɛ asimapʰlo,lɛ asimapʰlo,[],,[],,False,False,,1
+bahi1252-1-90-2,,bahi1252-1,90,lɛāsimkʷāŋāpʰlo,lɛāsimkʷāŋāpʰlo,[],,[],,False,False,,1
+bahi1252-1-100-1,,bahi1252-1,100,ŋoāsim(ŋāwā),ŋoāsim(ŋāwā),[],( Rapacha) ( 5 x 20),[],,False,False,,1
+bahi1252-1-200-1,,bahi1252-1,200,ni(ksi)ŋoāsim,ni(ksi)ŋoāsim,[],( 2 x 5 x 20),[],,False,False,,1
+bahi1252-1-1000-1,,bahi1252-1,1000,ŋoŋoāpʰlo,ŋoŋoāpʰlo,[],( from Rapacha 2006 ),[],,False,False,,1
+bahi1252-1-2000-1,,bahi1252-1,2000,ni(ksi)ŋoŋoāpʰlo,ni(ksi)ŋoŋoāpʰlo,[],,[],,False,False,,1

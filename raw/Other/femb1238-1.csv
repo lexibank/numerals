@@ -1,0 +1,29 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+femb1238-1-1-1,,femb1238-1,1,sesafeng,sesafeng,[],('left little finger'),[],,False,False,,1
+femb1238-1-2-1,,femb1238-1,2,sesame,sesame,[],('left ring finger'),[],,False,False,,1
+femb1238-1-3-1,,femb1238-1,3,kama,kama,[],('left middle finger'),[],,False,False,,1
+femb1238-1-4-1,,femb1238-1,4,dosso,dosso,[],('left index finger' ),[],,False,False,,1
+femb1238-1-5-1,,femb1238-1,5,hou,hou,[],('left thumb'),[],,False,False,,1
+femb1238-1-6-1,,femb1238-1,6,weyay,weyay,[],('left wrist'),[],,False,False,,1
+femb1238-1-7-1,,femb1238-1,7,dyo,dyo,[],('left forearm'),[],,False,False,,1
+femb1238-1-8-1,,femb1238-1,8,doumay,doumay,[],('left elbow'),[],,False,False,,1
+femb1238-1-9-1,,femb1238-1,9,dobey,dobey,[],('left biceps'),[],,False,False,,1
+femb1238-1-10-1,,femb1238-1,10,ey,ey,[],('left shoulder'),[],,False,False,,1
+femb1238-1-11-1,,femb1238-1,11,ɡobay,ɡobay,[],('left neck'),[],,False,False,,1
+femb1238-1-12-1,,femb1238-1,12,douwo,douwo,[],('left ear'),[],,False,False,,1
+femb1238-1-13-1,,femb1238-1,13,dihon,dihon,[],('left eye'),[],,False,False,,1
+femb1238-1-14-1,,femb1238-1,14,miou,miou,[],('nose'),[],,False,False,,1
+femb1238-1-14-2,,femb1238-1,14,15. meagaon,15. meagaon,[],('mouth'),[],,False,True,,1
+femb1238-1-14-3,,femb1238-1,14,16. eyo dihon,16. eyo dihon,[],('right eye'),[],,False,True,,1
+femb1238-1-17-1,,femb1238-1,17,eyo douwo,eyo douwo,[],('right ear'),[],,False,False,,1
+femb1238-1-17-2,,femb1238-1,17,18. eyo ɡobay,18. eyo ɡobay,[],('right neck'),[],,False,True,,1
+femb1238-1-19-1,,femb1238-1,19,eyo ey,eyo ey,[],('right shoulder'),[],,False,False,,1
+femb1238-1-19-2,,femb1238-1,19,20. eyo dobey,20. eyo dobey,[],('right biceps'),[],,False,True,,1
+femb1238-1-21-1,,femb1238-1,21,eyo doumay,eyo doumay,[],('right elbow'),[],,False,False,,1
+femb1238-1-21-2,,femb1238-1,21,22. eyo dyo,22. eyo dyo,[],('right forearm'),[],,False,True,,1
+femb1238-1-23-1,,femb1238-1,23,eyo weyay,eyo weyay,[],('right wrist'),[],,False,False,,1
+femb1238-1-23-2,,femb1238-1,23,24. eyo hou,24. eyo hou,[],('right thumb'),[],,False,True,,1
+femb1238-1-25-1,,femb1238-1,25,eyo dosso,eyo dosso,[],('right index finger'),[],,False,False,,1
+femb1238-1-25-2,,femb1238-1,25,26. eyo kama,26. eyo kama,[],('right middle finger'),[],,False,True,,1
+femb1238-1-27-1,,femb1238-1,27,eyo sesame,eyo sesame,[],('right ring finger'),[],,False,False,,1
+femb1238-1-27-2,,femb1238-1,27,28. eyo sesafeng,28. eyo sesafeng,[],('right little finger'),[],,False,True,,1

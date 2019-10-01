@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+loth1237-1-1-1,,loth1237-1,1,ēkʰá,ēkʰá,[],,[],,False,False,,1
+loth1237-1-1-2,,loth1237-1,1,mótsə̄ŋà,mótsə̄ŋà,[],,[],,False,False,,1
+loth1237-1-2-1,,loth1237-1,2,ēnì,ēnì,[],,[],,False,False,,1
+loth1237-1-3-1,,loth1237-1,3,ētʰə̀m,ētʰə̀m,[],,[],,False,False,,1
+loth1237-1-4-1,,loth1237-1,4,mēʒə̀,mēʒə̀,[],,[],,False,False,,1
+loth1237-1-5-1,,loth1237-1,5,mūŋò,mūŋò,[],,[],,False,False,,1
+loth1237-1-6-1,,loth1237-1,6,tīrók,tīrók,[],,[],,False,False,,1
+loth1237-1-7-1,,loth1237-1,7,tíyìŋ,tíyìŋ,[],,[],,False,False,,1
+loth1237-1-8-1,,loth1237-1,8,tīzà,tīzà,[],,[],,False,False,,1
+loth1237-1-9-1,,loth1237-1,9,tōkù,tōkù,[],,[],,False,False,,1
+loth1237-1-10-1,,loth1237-1,10,tárò,tárò,[],,[],,False,False,,1
+loth1237-1-11-1,,loth1237-1,11,tárò ēkʰá,tárò ēkʰá,[],,[],,False,False,,1
+loth1237-1-12-1,,loth1237-1,12,tárò ēnì,tárò ēnì,[],,[],,False,False,,1
+loth1237-1-13-1,,loth1237-1,13,tárò ētʰə̀m,tárò ētʰə̀m,[],,[],,False,False,,1
+loth1237-1-14-1,,loth1237-1,14,tárò mēʒə̀,tárò mēʒə̀,[],,[],,False,False,,1
+loth1237-1-15-1,,loth1237-1,15,tárò mūŋò,tárò mūŋò,[],,[],,False,False,,1
+loth1237-1-16-1,,loth1237-1,16,tárò tīrók,tárò tīrók,[],,[],,False,False,,1
+loth1237-1-17-1,,loth1237-1,17,tárò tíyìŋ,tárò tíyìŋ,[],,[],,False,False,,1
+loth1237-1-18-1,,loth1237-1,18,tárò tīzà,tárò tīzà,[],,[],,False,False,,1
+loth1237-1-19-1,,loth1237-1,19,tárò tōkù,tárò tōkù,[],,[],,False,False,,1
+loth1237-1-20-1,,loth1237-1,20,mēkyù,mēkyù,[],,[],,False,False,,1
+loth1237-1-20-2,,loth1237-1,20,myúkyù,myúkyù,[],,[],,False,False,,1
+loth1237-1-21-1,,loth1237-1,21,mēkyù ēkʰá,mēkyù ēkʰá,[],,[],,False,False,,1
+loth1237-1-22-1,,loth1237-1,22,mēkyù ētʰə̀m,mēkyù ētʰə̀m,[],,[],,False,False,,1
+loth1237-1-24-1,,loth1237-1,24,mēkyù mēʒə̀,mēkyù mēʒə̀,[],,[],,False,False,,1
+loth1237-1-25-1,,loth1237-1,25,mēkyù mūŋò,mēkyù mūŋò,[],,[],,False,False,,1
+loth1237-1-26-1,,loth1237-1,26,mēkyù tīrók,mēkyù tīrók,[],,[],,False,False,,1
+loth1237-1-27-1,,loth1237-1,27,mēkyù tíyìŋ,mēkyù tíyìŋ,[],,[],,False,False,,1
+loth1237-1-28-1,,loth1237-1,28,mēkyù tīzà,mēkyù tīzà,[],,[],,False,False,,1
+loth1237-1-29-1,,loth1237-1,29,mēkyù tōkù,mēkyù tōkù,[],,[],,False,False,,1
+loth1237-1-30-1,,loth1237-1,30,tʰə̀mrò,tʰə̀mrò,[],( < tʰəm + rò ),[],,False,False,,1
+loth1237-1-40-1,,loth1237-1,40,ʒə̄rò,ʒə̄rò,[],( < mēʒə̀ + rò ),[],,False,False,,1
+loth1237-1-50-1,,loth1237-1,50,tīɲán,tīɲán,[],,[],,False,False,,1
+loth1237-1-60-1,,loth1237-1,60,rókrò,rókrò,[],( < tīrók+ rò ),[],,False,False,,1
+loth1237-1-70-1,,loth1237-1,70,ēkʰá tíyìŋ,ēkʰá tíyìŋ,[],"( 10 x 7,  'one ten' x 7 )",[],,False,False,,1
+loth1237-1-80-1,,loth1237-1,80,ēkʰá tīzà,ēkʰá tīzà,[],( 10 x 8 ),[],,False,False,,1
+loth1237-1-90-1,,loth1237-1,90,ēkʰá tōkù,ēkʰá tōkù,[],( 10 x 9 ),[],,False,False,,1
+loth1237-1-100-1,,loth1237-1,100,nzōà,nzōà,[],,[],,False,False,,1
+loth1237-1-200-1,,loth1237-1,200,nzōà ēnì,nzōà ēnì,[],,[],,False,False,,1
+loth1237-1-1000-1,,loth1237-1,1000,tuŋa,tuŋa,[],,[],,False,False,,1
+loth1237-1-1000-2,,loth1237-1,1000,ōtʰə̀ŋ mótsə̄ŋà,ōtʰə̀ŋ mótsə̄ŋà,[],,[],,False,False,,1
+loth1237-1-2000-1,,loth1237-1,2000,ōtʰə̀ŋ ēnì,ōtʰə̀ŋ ēnì,[],,[],,False,False,,1

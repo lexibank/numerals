@@ -1,0 +1,24 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nden1249-1-1-1,,nden1249-1,1,-mo,-mo,[],,[],,False,False,,1
+nden1249-1-2-1,,nden1249-1,2,-bele,-bele,[],,[],,False,False,,1
+nden1249-1-3-1,,nden1249-1,3,-tatu,-tatu,[],,[],,False,False,,1
+nden1249-1-4-1,,nden1249-1,4,-ncheche,-ncheche,[],,[],,False,False,,1
+nden1249-1-5-1,,nden1249-1,5,-nhanu,-nhanu,[],,[],,False,False,,1
+nden1249-1-6-1,,nden1249-1,6,-nhanu na -mo,-nhanu na -mo,[],( 5 + 1 ),[],,False,False,,1
+nden1249-1-7-1,,nden1249-1,7,-nhanu na -bele,-nhanu na -bele,[],( 5 + 2 ),[],,False,False,,1
+nden1249-1-8-1,,nden1249-1,8,-nhanu na -tatu,-nhanu na -tatu,[],( 5 + 3 ),[],,False,False,,1
+nden1249-1-9-1,,nden1249-1,9,-nhanu na -ncheche,-nhanu na -ncheche,[],( 5 + 4 ),[],,False,False,,1
+nden1249-1-10-1,,nden1249-1,10,komi,komi,[],,[],,False,False,,1
+nden1249-1-11-1,,nden1249-1,11,komi na -mo,komi na -mo,[],,[],,False,False,,1
+nden1249-1-12-1,,nden1249-1,12,komi na -bele,komi na -bele,[],,[],,False,False,,1
+nden1249-1-13-1,,nden1249-1,13,komi na -tatu,komi na -tatu,[],,[],,False,False,,1
+nden1249-1-14-1,,nden1249-1,14,komi na -ncheche,komi na -ncheche,[],,[],,False,False,,1
+nden1249-1-15-1,,nden1249-1,15,komi na nhanu,komi na nhanu,[],,[],,False,False,,1
+nden1249-1-16-1,,nden1249-1,16,komi na nhanu na -mo,komi na nhanu na -mo,[],,[],,False,False,,1
+nden1249-1-17-1,,nden1249-1,17,komi na nhanu na -bele,komi na nhanu na -bele,[],,[],,False,False,,1
+nden1249-1-18-1,,nden1249-1,18,komi ne nhanu na -tatu,komi ne nhanu na -tatu,[],,[],,False,False,,1
+nden1249-1-19-1,,nden1249-1,19,komi na nhanu na -ncheche,komi na nhanu na -ncheche,[],,[],,False,False,,1
+nden1249-1-20-1,,nden1249-1,20,makomi mabele,makomi mabele,[],( 'two tens '),[],,False,False,,1
+nden1249-1-30-1,,nden1249-1,30,makomi matatu,makomi matatu,[],( 'three tens '),[],,False,False,,1
+nden1249-1-40-1,,nden1249-1,40,makomi ncheche,makomi ncheche,[],( 'four tens '),[],,False,False,,1
+nden1249-1-50-1,,nden1249-1,50,makomi nhanu,makomi nhanu,[],( 'five tens '),[],,False,False,,1

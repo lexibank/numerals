@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+burm1263-1-1-1,,burm1263-1,1,soχa,soχa,[],,[],,False,False,,1
+burm1263-1-2-1,,burm1263-1,2,eru,eru,[],,[],,False,False,,1
+burm1263-1-3-1,,burm1263-1,3,eter,eter,[],,[],,False,False,,1
+burm1263-1-4-1,,burm1263-1,4,eβet,eβet,[],,[],,False,False,,1
+burm1263-1-5-1,,burm1263-1,5,erim,erim,[],,[],,False,False,,1
+burm1263-1-6-1,,burm1263-1,6,roptes,roptes,[],( 5 + 1 ),[],,False,False,,1
+burm1263-1-7-1,,burm1263-1,7,roβru,roβru,[],( 5 + 2 ),[],,False,False,,1
+burm1263-1-8-1,,burm1263-1,8,rupter,rupter,[],( 5 + 3 ),[],,False,False,,1
+burm1263-1-9-1,,burm1263-1,9,rope,rope,[],( 5 + 4 ),[],,False,False,,1
+burm1263-1-10-1,,burm1263-1,10,seŋaβur,seŋaβur,[],,[],,False,False,,1
+burm1263-1-11-1,,burm1263-1,11,βaβsoχa ⁿdromote soχa,βaβsoχa ⁿdromote soχa,[],,[],,False,False,,1
+burm1263-1-12-1,,burm1263-1,12,βaβsoχa ⁿdromote eru,βaβsoχa ⁿdromote eru,[],,[],,False,False,,1
+burm1263-1-13-1,,burm1263-1,13,βaβsoχa ⁿdromote eter,βaβsoχa ⁿdromote eter,[],,[],,False,False,,1
+burm1263-1-14-1,,burm1263-1,14,βaβsoχa ⁿdromote eβet,βaβsoχa ⁿdromote eβet,[],,[],,False,False,,1
+burm1263-1-15-1,,burm1263-1,15,βaβsoχa ⁿdromote erim,βaβsoχa ⁿdromote erim,[],,[],,False,False,,1
+burm1263-1-16-1,,burm1263-1,16,βaβsoχa ⁿdromote roptes,βaβsoχa ⁿdromote roptes,[],,[],,False,False,,1
+burm1263-1-17-1,,burm1263-1,17,βaβsoχa ⁿdromote roβru,βaβsoχa ⁿdromote roβru,[],,[],,False,False,,1
+burm1263-1-18-1,,burm1263-1,18,βaβsoχa ⁿdromote rupter,βaβsoχa ⁿdromote rupter,[],,[],,False,False,,1
+burm1263-1-19-1,,burm1263-1,19,βaβsoχa ⁿdromote rope,βaβsoχa ⁿdromote rope,[],,[],,False,False,,1
+burm1263-1-20-1,,burm1263-1,20,βaβreru,βaβreru,[],,[],,False,False,,1
+burm1263-1-21-1,,burm1263-1,21,βaβreru ⁿdromote soχa,βaβreru ⁿdromote soχa,[],,[],,False,False,,1
+burm1263-1-22-1,,burm1263-1,22,βaβreru ⁿdromote eru,βaβreru ⁿdromote eru,[],,[],,False,False,,1
+burm1263-1-23-1,,burm1263-1,23,βaβreru ⁿdromote eter,βaβreru ⁿdromote eter,[],,[],,False,False,,1
+burm1263-1-24-1,,burm1263-1,24,βaβreru ⁿdromote eβet,βaβreru ⁿdromote eβet,[],,[],,False,False,,1
+burm1263-1-25-1,,burm1263-1,25,βaβreru ⁿdromote erim,βaβreru ⁿdromote erim,[],,[],,False,False,,1
+burm1263-1-26-1,,burm1263-1,26,βaβreru ⁿdromote roptes,βaβreru ⁿdromote roptes,[],,[],,False,False,,1
+burm1263-1-27-1,,burm1263-1,27,βaβreru ⁿdromote roβru,βaβreru ⁿdromote roβru,[],,[],,False,False,,1
+burm1263-1-28-1,,burm1263-1,28,βaβreru ⁿdromote rupter,βaβreru ⁿdromote rupter,[],,[],,False,False,,1
+burm1263-1-29-1,,burm1263-1,29,βaβreru ⁿdromote rope,βaβreru ⁿdromote rope,[],,[],,False,False,,1
+burm1263-1-30-1,,burm1263-1,30,βaβreter,βaβreter,[],,[],,False,False,,1
+burm1263-1-40-1,,burm1263-1,40,βaβreβet,βaβreβet,[],,[],,False,False,,1
+burm1263-1-50-1,,burm1263-1,50,βaβrerim,βaβrerim,[],,[],,False,False,,1
+burm1263-1-60-1,,burm1263-1,60,βaβramaroptes,βaβramaroptes,[],,[],,False,False,,1
+burm1263-1-70-1,,burm1263-1,70,βaβramaroβru,βaβramaroβru,[],,[],,False,False,,1
+burm1263-1-80-1,,burm1263-1,80,βaβramarupter,βaβramarupter,[],,[],,False,False,,1
+burm1263-1-90-1,,burm1263-1,90,βaβramarope,βaβramarope,[],,[],,False,False,,1
+burm1263-1-100-1,,burm1263-1,100,maŋat,maŋat,[],,[],,False,False,,1
+burm1263-1-1000-1,,burm1263-1,1000,maŋat seŋaβur,maŋat seŋaβur,[],,[],,False,False,,1

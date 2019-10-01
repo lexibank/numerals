@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tuva1244-1-1-1,,tuva1244-1,1,tasi,tasi,[],,[],,False,False,,1
+tuva1244-1-2-1,,tuva1244-1,2,lua,lua,[],,[],,False,False,,1
+tuva1244-1-3-1,,tuva1244-1,3,tolu,tolu,[],,[],,False,False,,1
+tuva1244-1-4-1,,tuva1244-1,4,faː,faː,[],,[],,False,False,,1
+tuva1244-1-5-1,,tuva1244-1,5,lima,lima,[],,[],,False,False,,1
+tuva1244-1-6-1,,tuva1244-1,6,ono,ono,[],,[],,False,False,,1
+tuva1244-1-7-1,,tuva1244-1,7,fitu,fitu,[],,[],,False,False,,1
+tuva1244-1-8-1,,tuva1244-1,8,valu,valu,[],,[],,False,False,,1
+tuva1244-1-9-1,,tuva1244-1,9,iva,iva,[],,[],,False,False,,1
+tuva1244-1-10-1,,tuva1244-1,10,sefulu,sefulu,[],,[],,False,False,,1
+tuva1244-1-10-2,,tuva1244-1,10,toa,toa,[],,[],,False,False,,1
+tuva1244-1-10-3,,tuva1244-1,10,-aŋafulu,-aŋafulu,[],,[],,False,False,,1
+tuva1244-1-11-1,,tuva1244-1,11,sefulu tasi,sefulu tasi,[],,[],,False,False,,1
+tuva1244-1-12-1,,tuva1244-1,12,sefulu lua,sefulu lua,[],,[],,False,False,,1
+tuva1244-1-13-1,,tuva1244-1,13,sefulu tolu,sefulu tolu,[],,[],,False,False,,1
+tuva1244-1-14-1,,tuva1244-1,14,sefulu faː,sefulu faː,[],,[],,False,False,,1
+tuva1244-1-15-1,,tuva1244-1,15,sefulu lima,sefulu lima,[],,[],,False,False,,1
+tuva1244-1-16-1,,tuva1244-1,16,sefulu ono,sefulu ono,[],,[],,False,False,,1
+tuva1244-1-17-1,,tuva1244-1,17,sefulu fitu,sefulu fitu,[],,[],,False,False,,1
+tuva1244-1-18-1,,tuva1244-1,18,sefulu valu,sefulu valu,[],,[],,False,False,,1
+tuva1244-1-19-1,,tuva1244-1,19,sefulu iva,sefulu iva,[],,[],,False,False,,1
+tuva1244-1-20-1,,tuva1244-1,20,lua sefulu,lua sefulu,[],,[],,False,False,,1
+tuva1244-1-21-1,,tuva1244-1,21,lua sefulu tasi,lua sefulu tasi,[],,[],,False,False,,1
+tuva1244-1-22-1,,tuva1244-1,22,lua sefulu lua,lua sefulu lua,[],,[],,False,False,,1
+tuva1244-1-23-1,,tuva1244-1,23,lua sefulu tolu,lua sefulu tolu,[],,[],,False,False,,1
+tuva1244-1-24-1,,tuva1244-1,24,lua sefulu faː,lua sefulu faː,[],,[],,False,False,,1
+tuva1244-1-25-1,,tuva1244-1,25,lua sefulu lima,lua sefulu lima,[],,[],,False,False,,1
+tuva1244-1-26-1,,tuva1244-1,26,lua sefulu ono,lua sefulu ono,[],,[],,False,False,,1
+tuva1244-1-27-1,,tuva1244-1,27,lua sefulu fitu,lua sefulu fitu,[],,[],,False,False,,1
+tuva1244-1-28-1,,tuva1244-1,28,lua sefulu valu,lua sefulu valu,[],,[],,False,False,,1
+tuva1244-1-29-1,,tuva1244-1,29,lua sefulu iva,lua sefulu iva,[],,[],,False,False,,1
+tuva1244-1-30-1,,tuva1244-1,30,tolu sefulu,tolu sefulu,[],,[],,False,False,,1
+tuva1244-1-40-1,,tuva1244-1,40,faː sefulu,faː sefulu,[],,[],,False,False,,1
+tuva1244-1-50-1,,tuva1244-1,50,lima sefulu,lima sefulu,[],,[],,False,False,,1
+tuva1244-1-60-1,,tuva1244-1,60,ono sefulu,ono sefulu,[],,[],,False,False,,1
+tuva1244-1-70-1,,tuva1244-1,70,fitu sefulu,fitu sefulu,[],,[],,False,False,,1
+tuva1244-1-80-1,,tuva1244-1,80,valu sefulu,valu sefulu,[],,[],,False,False,,1
+tuva1244-1-90-1,,tuva1244-1,90,iva sefulu,iva sefulu,[],,[],,False,False,,1
+tuva1244-1-100-1,,tuva1244-1,100,selau,selau,[],,[],,False,False,,1
+tuva1244-1-200-1,,tuva1244-1,200,lua selau,lua selau,[],,[],,False,False,,1
+tuva1244-1-1000-1,,tuva1244-1,1000,afe,afe,[],,[],,False,False,,1
+tuva1244-1-2000-1,,tuva1244-1,2000,lua afe,lua afe,[],,[],,False,False,,1

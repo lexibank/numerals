@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sout2896-1-1-1,,sout2896-1,1,tu,tu,[],,[],,False,False,,1
+sout2896-1-2-1,,sout2896-1,2,'dʒua,'dʒua,[],,[],,False,False,,1
+sout2896-1-3-1,,sout2896-1,3,təl,təl,[],,[],,False,False,,1
+sout2896-1-4-1,,sout2896-1,4,'pate,'pate,[],,[],,False,False,,1
+sout2896-1-5-1,,sout2896-1,5,'lɛma,'lɛma,[],,[],,False,False,,1
+sout2896-1-6-1,,sout2896-1,6,ə'nam,ə'nam,[],,[],,False,False,,1
+sout2896-1-7-1,,sout2896-1,7,'pito,'pito,[],,[],,False,False,,1
+sout2896-1-8-1,,sout2896-1,8,'buto,'buto,[],,[],,False,False,,1
+sout2896-1-9-1,,sout2896-1,9,'hiva,'hiva,[],,[],,False,False,,1
+sout2896-1-10-1,,sout2896-1,10,he'pulo,he'pulo,[],,[],,False,False,,1
+sout2896-1-11-1,,sout2896-1,11,he'pulo no tu,he'pulo no tu,[],,[],,False,False,,1
+sout2896-1-12-1,,sout2896-1,12,he'pulo no 'dʒua,he'pulo no 'dʒua,[],,[],,False,False,,1
+sout2896-1-13-1,,sout2896-1,13,he'pulo no təl,he'pulo no təl,[],,[],,False,False,,1
+sout2896-1-14-1,,sout2896-1,14,he'pulo no 'pate,he'pulo no 'pate,[],,[],,False,False,,1
+sout2896-1-15-1,,sout2896-1,15,he'pulo no 'lɛma,he'pulo no 'lɛma,[],,[],,False,False,,1
+sout2896-1-16-1,,sout2896-1,16,he'pulo no ə'nəm,he'pulo no ə'nəm,[],,[],,False,False,,1
+sout2896-1-17-1,,sout2896-1,17,he'pulo no 'pito,he'pulo no 'pito,[],,[],,False,False,,1
+sout2896-1-18-1,,sout2896-1,18,he'pulo no 'buto,he'pulo no 'buto,[],,[],,False,False,,1
+sout2896-1-19-1,,sout2896-1,19,he'pulo no 'hiva,he'pulo no 'hiva,[],,[],,False,False,,1
+sout2896-1-20-1,,sout2896-1,20,pul 'dʒua,pul 'dʒua,[],,[],,False,False,,1
+sout2896-1-21-1,,sout2896-1,21,pul 'dʒə no tu,pul 'dʒə no tu,[],,[],,False,False,,1
+sout2896-1-22-1,,sout2896-1,22,pul 'dʒə no 'dʒua,pul 'dʒə no 'dʒua,[],,[],,False,False,,1
+sout2896-1-23-1,,sout2896-1,23,pul 'dʒə no təl,pul 'dʒə no təl,[],,[],,False,False,,1
+sout2896-1-24-1,,sout2896-1,24,pul 'dʒə no 'pate,pul 'dʒə no 'pate,[],,[],,False,False,,1
+sout2896-1-25-1,,sout2896-1,25,pul 'dʒə no 'lɛma,pul 'dʒə no 'lɛma,[],,[],,False,False,,1
+sout2896-1-26-1,,sout2896-1,26,pul 'dʒə no ə'nam,pul 'dʒə no ə'nam,[],,[],,False,False,,1
+sout2896-1-27-1,,sout2896-1,27,pul 'dʒə no 'pito,pul 'dʒə no 'pito,[],,[],,False,False,,1
+sout2896-1-28-1,,sout2896-1,28,pul 'dʒə no buto,pul 'dʒə no buto,[],,[],,False,False,,1
+sout2896-1-29-1,,sout2896-1,29,pul 'dʒə no 'hiva,pul 'dʒə no 'hiva,[],,[],,False,False,,1
+sout2896-1-30-1,,sout2896-1,30,pul təl,pul təl,[],,[],,False,False,,1
+sout2896-1-40-1,,sout2896-1,40,pul 'pata,pul 'pata,[],,[],,False,False,,1
+sout2896-1-50-1,,sout2896-1,50,pul 'lɛma,pul 'lɛma,[],,[],,False,False,,1
+sout2896-1-60-1,,sout2896-1,60,pul ə'nəm,pul ə'nəm,[],,[],,False,False,,1
+sout2896-1-70-1,,sout2896-1,70,pul 'pito,pul 'pito,[],,[],,False,False,,1
+sout2896-1-80-1,,sout2896-1,80,pul 'buto,pul 'buto,[],,[],,False,False,,1
+sout2896-1-90-1,,sout2896-1,90,pul 'hiva,pul 'hiva,[],,[],,False,False,,1
+sout2896-1-100-1,,sout2896-1,100,rat,rat,[],,[],,False,False,,1
+sout2896-1-100-2,,sout2896-1,100,123. rat tu no pul 'dʒua təl,123. rat tu no pul 'dʒua təl,[],,[],,False,True,,1
+sout2896-1-200-1,,sout2896-1,200,rat 'dʒua,rat 'dʒua,[],,[],,False,False,,1
+sout2896-1-1000-1,,sout2896-1,1000,rib tu,rib tu,[],,[],,False,False,,1
+sout2896-1-100000-1,,sout2896-1,100000,rib rat tu,rib rat tu,[],,[],,False,False,,1

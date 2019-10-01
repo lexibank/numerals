@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+dhim1246-2-1-1,,dhim1246-2,1,eloŋ,eloŋ,[],,[],,False,False,,2
+dhim1246-2-2-1,,dhim1246-2,2,n̤eloŋ,n̤eloŋ,[],,[],,False,False,,2
+dhim1246-2-3-1,,dhim1246-2,3,sumloŋ,sumloŋ,[],,[],,False,False,,2
+dhim1246-2-4-1,,dhim1246-2,4,djaloŋ,djaloŋ,[],,[],,False,False,,2
+dhim1246-2-5-1,,dhim1246-2,5,naloŋ,naloŋ,[],,[],,False,False,,2
+dhim1246-2-6-1,,dhim1246-2,6,tuloŋ,tuloŋ,[],,[],,False,False,,2
+dhim1246-2-7-1,,dhim1246-2,7,n̤iʔloŋ,n̤iʔloŋ,[],,[],,False,False,,2
+dhim1246-2-8-1,,dhim1246-2,8,jeʔloŋ,jeʔloŋ,[],,[],,False,False,,2
+dhim1246-2-9-1,,dhim1246-2,9,kohaloŋ,kohaloŋ,[],,[],,False,False,,2
+dhim1246-2-10-1,,dhim1246-2,10,teloŋ,teloŋ,[],,[],,False,False,,2
+dhim1246-2-11-1,,dhim1246-2,11,egʰaara,egʰaara,[],< Indo-Aryan language ,[],,True,False,,2
+dhim1246-2-12-1,,dhim1246-2,12,baara,baara,[],,[],,False,False,,2
+dhim1246-2-13-1,,dhim1246-2,13,tera,tera,[],,[],,False,False,,2
+dhim1246-2-14-1,,dhim1246-2,14,chaudʰra,chaudʰra,[],,[],,False,False,,2
+dhim1246-2-15-1,,dhim1246-2,15,pandʰra,pandʰra,[],,[],,False,False,,2
+dhim1246-2-16-1,,dhim1246-2,16,sora,sora,[],,[],,False,False,,2
+dhim1246-2-17-1,,dhim1246-2,17,satra,satra,[],,[],,False,False,,2
+dhim1246-2-18-1,,dhim1246-2,18,atʰaara,atʰaara,[],,[],,False,False,,2
+dhim1246-2-19-1,,dhim1246-2,19,unais,unais,[],,[],,False,False,,2
+dhim1246-2-20-1,,dhim1246-2,20,e kuri,e kuri,[],,[],,False,False,,2
+dhim1246-2-21-1,,dhim1246-2,21,e kurieloŋ,e kurieloŋ,[],,[],,False,False,,2
+dhim1246-2-22-1,,dhim1246-2,22,e kurin̤eloŋ,e kurin̤eloŋ,[],,[],,False,False,,2
+dhim1246-2-23-1,,dhim1246-2,23,e kurisumloŋ,e kurisumloŋ,[],,[],,False,False,,2
+dhim1246-2-24-1,,dhim1246-2,24,e kuridjaloŋ,e kuridjaloŋ,[],,[],,False,False,,2
+dhim1246-2-25-1,,dhim1246-2,25,e kurinaloŋ,e kurinaloŋ,[],,[],,False,False,,2
+dhim1246-2-26-1,,dhim1246-2,26,e kurituloŋ,e kurituloŋ,[],,[],,False,False,,2
+dhim1246-2-27-1,,dhim1246-2,27,e kurin̤iʔloŋ,e kurin̤iʔloŋ,[],,[],,False,False,,2
+dhim1246-2-28-1,,dhim1246-2,28,e kurijeʔloŋ,e kurijeʔloŋ,[],,[],,False,False,,2
+dhim1246-2-29-1,,dhim1246-2,29,e kurikohaloŋ,e kurikohaloŋ,[],,[],,False,False,,2
+dhim1246-2-30-1,,dhim1246-2,30,e kuri teloŋ,e kuri teloŋ,[],( 20 + 10 ),[],,False,False,,2
+dhim1246-2-40-1,,dhim1246-2,40,n̤e kuri,n̤e kuri,[],( 20 x 2 ),[],,False,False,,2
+dhim1246-2-50-1,,dhim1246-2,50,n̤e kuri teloŋ,n̤e kuri teloŋ,[],,[],,False,False,,2
+dhim1246-2-60-1,,dhim1246-2,60,sum kuri,sum kuri,[],( 20 x 3 ),[],,False,False,,2
+dhim1246-2-70-1,,dhim1246-2,70,sum kuri teloŋ,sum kuri teloŋ,[],,[],,False,False,,2
+dhim1246-2-80-1,,dhim1246-2,80,dja kuri,dja kuri,[],( 20 x 4 ),[],,False,False,,2
+dhim1246-2-90-1,,dhim1246-2,90,dia kuri teloŋ,dia kuri teloŋ,[],,[],,False,False,,2
+dhim1246-2-100-1,,dhim1246-2,100,e sai,e sai,[],( < Nepali sai ),[],,True,False,,2
+dhim1246-2-200-1,,dhim1246-2,200,n̤e sai,n̤e sai,[],,[],,False,False,,2
+dhim1246-2-1000-1,,dhim1246-2,1000,e hadʒaar,e hadʒaar,[],( < Nepali hajaar),[],,True,False,,2
+dhim1246-2-2000-1,,dhim1246-2,2000,n̤e hadʒaar,n̤e hadʒaar,[],,[],,False,False,,2

@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bari1286-2-1-1,,bari1286-2,1,ede,ede,[],,[],,False,False,,2
+bari1286-2-2-1,,bari1286-2,2,rua,rua,[],,[],,False,False,,2
+bari1286-2-3-1,,bari1286-2,3,tolu,tolu,[],,[],,False,False,,2
+bari1286-2-4-1,,bari1286-2,4,paŋe,paŋe,[],,[],,False,False,,2
+bari1286-2-5-1,,bari1286-2,5,lima,lima,[],,[],,False,False,,2
+bari1286-2-6-1,,bari1286-2,6,lima ɡa ede,lima ɡa ede,[],( 5 + 1 ),[],,False,False,,2
+bari1286-2-7-1,,bari1286-2,7,lima ɡa rua,lima ɡa rua,[],( 5 + 2 ),[],,False,False,,2
+bari1286-2-8-1,,bari1286-2,8,lima ɡa tolu,lima ɡa tolu,[],( 5 + 3 ),[],,False,False,,2
+bari1286-2-9-1,,bari1286-2,9,lima ɡa paŋe,lima ɡa paŋe,[],( 5 + 4 ),[],,False,False,,2
+bari1286-2-10-1,,bari1286-2,10,saŋaulu,saŋaulu,[],,[],,False,False,,2
+bari1286-2-11-1,,bari1286-2,11,saŋaulu ɡa ede,saŋaulu ɡa ede,[],,[],,False,False,,2
+bari1286-2-12-1,,bari1286-2,12,saŋaulu ɡa rua,saŋaulu ɡa rua,[],,[],,False,False,,2
+bari1286-2-13-1,,bari1286-2,13,saŋaulu ɡa tolu,saŋaulu ɡa tolu,[],,[],,False,False,,2
+bari1286-2-14-1,,bari1286-2,14,saŋaulu ɡa paŋe,saŋaulu ɡa paŋe,[],,[],,False,False,,2
+bari1286-2-15-1,,bari1286-2,15,saŋaulu ɡa lima,saŋaulu ɡa lima,[],,[],,False,False,,2
+bari1286-2-16-1,,bari1286-2,16,saŋaulu ɡa lima ɡa ede,saŋaulu ɡa lima ɡa ede,[],,[],,False,False,,2
+bari1286-2-17-1,,bari1286-2,17,saŋaulu ɡa lima ɡa rua,saŋaulu ɡa lima ɡa rua,[],,[],,False,False,,2
+bari1286-2-18-1,,bari1286-2,18,saŋaulu ɡa lima ɡa tolu,saŋaulu ɡa lima ɡa tolu,[],,[],,False,False,,2
+bari1286-2-19-1,,bari1286-2,19,saŋaulu ɡa lima ɡa paŋe,saŋaulu ɡa lima ɡa paŋe,[],,[],,False,False,,2
+bari1286-2-20-1,,bari1286-2,20,saŋaul rua,saŋaul rua,[],,[],,False,False,,2
+bari1286-2-21-1,,bari1286-2,21,saŋaul rua ede,saŋaul rua ede,[],,[],,False,False,,2
+bari1286-2-22-1,,bari1286-2,22,saŋaul rua rua,saŋaul rua rua,[],,[],,False,False,,2
+bari1286-2-23-1,,bari1286-2,23,saŋaul rua tolu,saŋaul rua tolu,[],,[],,False,False,,2
+bari1286-2-24-1,,bari1286-2,24,saŋaul rua paŋe,saŋaul rua paŋe,[],,[],,False,False,,2
+bari1286-2-25-1,,bari1286-2,25,saŋaul rua lima,saŋaul rua lima,[],,[],,False,False,,2
+bari1286-2-26-1,,bari1286-2,26,saŋaul rua lima ɡa ede,saŋaul rua lima ɡa ede,[],,[],,False,False,,2
+bari1286-2-27-1,,bari1286-2,27,saŋaul rua lima ɡa rua,saŋaul rua lima ɡa rua,[],,[],,False,False,,2
+bari1286-2-28-1,,bari1286-2,28,saŋaul rua lima ɡa tolu,saŋaul rua lima ɡa tolu,[],,[],,False,False,,2
+bari1286-2-29-1,,bari1286-2,29,saŋaul rua lima ɡa paŋe,saŋaul rua lima ɡa paŋe,[],,[],,False,False,,2
+bari1286-2-30-1,,bari1286-2,30,saŋaul tolu,saŋaul tolu,[],,[],,False,False,,2
+bari1286-2-40-1,,bari1286-2,40,saŋaul paŋe,saŋaul paŋe,[],,[],,False,False,,2
+bari1286-2-50-1,,bari1286-2,50,saŋaul lima,saŋaul lima,[],,[],,False,False,,2
+bari1286-2-60-1,,bari1286-2,60,saŋaul lima ɡa ede,saŋaul lima ɡa ede,[],,[],,False,False,,2
+bari1286-2-70-1,,bari1286-2,70,saŋaul lima ɡa rua,saŋaul lima ɡa rua,[],,[],,False,False,,2
+bari1286-2-80-1,,bari1286-2,80,saŋaul lima ɡa tolu,saŋaul lima ɡa tolu,[],,[],,False,False,,2
+bari1286-2-90-1,,bari1286-2,90,saŋaul lima ɡa paŋe,saŋaul lima ɡa paŋe,[],,[],,False,False,,2
+bari1286-2-100-1,,bari1286-2,100,buno,buno,[],,[],,False,False,,2
+bari1286-2-200-1,,bari1286-2,200,buno rua,buno rua,[],,[],,False,False,,2

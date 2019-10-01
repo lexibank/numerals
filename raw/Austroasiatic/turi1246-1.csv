@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+turi1246-1-1-1,,turi1246-1,1,miadˀ,miadˀ,[],,[],,False,False,,1
+turi1246-1-2-1,,turi1246-1,2,baria,baria,[],,[],,False,False,,1
+turi1246-1-3-1,,turi1246-1,3,pea,pea,[],,[],,False,False,,1
+turi1246-1-4-1,,turi1246-1,4,punia,punia,[],,[],,False,False,,1
+turi1246-1-5-1,,turi1246-1,5,miadˀti,miadˀti,[],,[],,False,False,,1
+turi1246-1-6-1,,turi1246-1,6,miadˀti miadˀ,miadˀti miadˀ,[],( 5 + 1),[],,False,False,,1
+turi1246-1-7-1,,turi1246-1,7,miadˀti baria,miadˀti baria,[],( 5 + 2 ),[],,False,False,,1
+turi1246-1-8-1,,turi1246-1,8,miadˀti pea,miadˀti pea,[],( 5 + 3 ),[],,False,False,,1
+turi1246-1-9-1,,turi1246-1,9,miadˀti punia,miadˀti punia,[],( 5 + 4 ),[],,False,False,,1
+turi1246-1-10-1,,turi1246-1,10,baranti,baranti,[],( 2 x 5),[],,False,False,,1
+turi1246-1-11-1,,turi1246-1,11,baranti miadˀ,baranti miadˀ,[],,[],,False,False,,1
+turi1246-1-12-1,,turi1246-1,12,baranti baria,baranti baria,[],,[],,False,False,,1
+turi1246-1-13-1,,turi1246-1,13,baranti pea,baranti pea,[],,[],,False,False,,1
+turi1246-1-14-1,,turi1246-1,14,baranti punia,baranti punia,[],,[],,False,False,,1
+turi1246-1-15-1,,turi1246-1,15,peati,peati,[],( 3 x 5),[],,False,False,,1
+turi1246-1-16-1,,turi1246-1,16,peati miadˀ,peati miadˀ,[],,[],,False,False,,1
+turi1246-1-17-1,,turi1246-1,17,peati baria,peati baria,[],,[],,False,False,,1
+turi1246-1-18-1,,turi1246-1,18,peati pea,peati pea,[],,[],,False,False,,1
+turi1246-1-19-1,,turi1246-1,19,peati punia,peati punia,[],,[],,False,False,,1
+turi1246-1-20-1,,turi1246-1,20,lekacaba,lekacaba,[],,[],,False,False,,1
+turi1246-1-21-1,,turi1246-1,21,lekacaba miadˀ,lekacaba miadˀ,[],,[],,False,False,,1
+turi1246-1-22-1,,turi1246-1,22,lekacaba baria,lekacaba baria,[],,[],,False,False,,1
+turi1246-1-30-1,,turi1246-1,30,lekacaba baranti,lekacaba baranti,[],,[],,False,False,,1
+turi1246-1-40-1,,turi1246-1,40,bar lekacaba,bar lekacaba,[],,[],,False,False,,1
+turi1246-1-50-1,,turi1246-1,50,bar lekacaba baranti,bar lekacaba baranti,[],,[],,False,False,,1
+turi1246-1-60-1,,turi1246-1,60,pea lekacaba,pea lekacaba,[],,[],,False,False,,1
+turi1246-1-70-1,,turi1246-1,70,pea lekacaba baranti,pea lekacaba baranti,[],,[],,False,False,,1
+turi1246-1-80-1,,turi1246-1,80,punia lekacaba,punia lekacaba,[],,[],,False,False,,1
+turi1246-1-90-1,,turi1246-1,90,punia lekacaba barabti,punia lekacaba barabti,[],,[],,False,False,,1
+turi1246-1-100-1,,turi1246-1,100,miadˀ ti lekacaba,miadˀ ti lekacaba,[],,[],,False,False,,1

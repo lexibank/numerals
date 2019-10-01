@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yima1243-1-1-1,,yima1243-1,1,mpa-m,mpa-m,[],,[],,False,False,,1
+yima1243-1-2-1,,yima1243-1,2,p-rpal,p-rpal,[],,[],,False,False,,1
+yima1243-1-3-1,,yima1243-1,3,p-ramnawt,p-ramnawt,[],,[],,False,False,,1
+yima1243-1-4-1,,yima1243-1,4,ma-mpl ama-mpl,ma-mpl ama-mpl,[],( 2 + 2 ),[],,False,False,,1
+yima1243-1-5-1,,yima1243-1,5,tam,tam,[],,[],,False,False,,1
+yima1243-1-6-1,,yima1243-1,6,tam mawŋkwat mpa-m,tam mawŋkwat mpa-m,[],"( 5 + 1, mawŋkwat means 'other side' plus 'one' )",[],,False,False,,1
+yima1243-1-7-1,,yima1243-1,7,tam mawŋkwat p-rpat,tam mawŋkwat p-rpat,[],( 5 + 2 ),[],,False,False,,1
+yima1243-1-8-1,,yima1243-1,8,tam mawŋkwat p-ramnawt,tam mawŋkwat p-ramnawt,[],( 5 + 3 ),[],,False,False,,1
+yima1243-1-9-1,,yima1243-1,9,tam mawŋkwat ma-mpl ama-mpl,tam mawŋkwat ma-mpl ama-mpl,[],( 5 + 4 ),[],,False,False,,1
+yima1243-1-10-1,,yima1243-1,10,nuŋkara-wl,nuŋkara-wl,[],( litː two hands),[],,False,False,,1
+yima1243-1-11-1,,yima1243-1,11,nuŋkarawl arm-tap-mpi pamk-n mpa-m,nuŋkarawl arm-tap-mpi pamk-n mpa-m,[],"( arm-tap-mpi means 'jump down', pamk means 'leg')",[],,False,False,,1
+yima1243-1-12-1,,yima1243-1,12,nuŋkarawl arm-tap-mpi pamk-n p-rpal,nuŋkarawl arm-tap-mpi pamk-n p-rpal,[],,[],,False,False,,1
+yima1243-1-13-1,,yima1243-1,13,nuŋkarawl arm-tap-mpi pamk-n p-ramnawt,nuŋkarawl arm-tap-mpi pamk-n p-ramnawt,[],,[],,False,False,,1
+yima1243-1-14-1,,yima1243-1,14,nuŋkarawl arm-tap-mpi pamk-n ma-mplamampl,nuŋkarawl arm-tap-mpi pamk-n ma-mplamampl,[],,[],,False,False,,1
+yima1243-1-15-1,,yima1243-1,15,nuŋkarawl arm-tap-mpi pamk-n mpa-m,nuŋkarawl arm-tap-mpi pamk-n mpa-m,[],,[],,False,False,,1
+yima1243-1-16-1,,yima1243-1,16,nuŋkarawl armtapmpi pamkn tam mawŋkwat mpam,nuŋkarawl armtapmpi pamkn tam mawŋkwat mpam,[],,[],,False,False,,1
+yima1243-1-17-1,,yima1243-1,17,nuŋkarawl armtapmpi pamkn tam mawŋkwat p-rpal,nuŋkarawl armtapmpi pamkn tam mawŋkwat p-rpal,[],,[],,False,False,,1
+yima1243-1-18-1,,yima1243-1,18,nuŋkarawl armtapmpi pamkn tam mawŋkwat p-ramnawt,nuŋkarawl armtapmpi pamkn tam mawŋkwat p-ramnawt,[],,[],,False,False,,1
+yima1243-1-19-1,,yima1243-1,19,nuŋkarawl armtapmpi pamkn tam mawŋkwat mamplamampl,nuŋkarawl armtapmpi pamkn tam mawŋkwat mamplamampl,[],,[],,False,False,,1
+yima1243-1-20-1,,yima1243-1,20,namarawt munta-k-n,namarawt munta-k-n,[],( litː a whole person'),[],,False,False,,1

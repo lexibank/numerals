@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+xxxx0001-1-1-1,,xxxx0001-1,1,iha,iha,[],,[],,False,False,,1
+xxxx0001-1-1-2,,xxxx0001-1,1,iha,iha,[],,[],,False,False,,1
+xxxx0001-1-1-3,,xxxx0001-1,1,hea,hea,[],,[],,False,False,,1
+xxxx0001-1-1-4,,xxxx0001-1,1,hia,hia,[],,[],,False,False,,1
+xxxx0001-1-2-1,,xxxx0001-1,2,paɾua,paɾua,[],,[],,False,False,,1
+xxxx0001-1-2-2,,xxxx0001-1,2,parua,parua,[],,[],,False,False,,1
+xxxx0001-1-2-3,,xxxx0001-1,2,herua,herua,[],,[],,False,False,,1
+xxxx0001-1-2-4,,xxxx0001-1,2,harua,harua,[],,[],,False,False,,1
+xxxx0001-1-3-1,,xxxx0001-1,3,pateilu,pateilu,[],,[],,False,False,,1
+xxxx0001-1-3-2,,xxxx0001-1,3,patelu,patelu,[],,[],,False,False,,1
+xxxx0001-1-3-3,,xxxx0001-1,3,hetelu,hetelu,[],,[],,False,False,,1
+xxxx0001-1-3-4,,xxxx0001-1,3,hatelu,hatelu,[],,[],,False,False,,1
+xxxx0001-1-4-1,,xxxx0001-1,4,waː,waː,[],,[],,False,False,,1
+xxxx0001-1-4-2,,xxxx0001-1,4,waa,waa,[],,[],,False,False,,1
+xxxx0001-1-4-3,,xxxx0001-1,4,haat,haat,[],,[],,False,False,,1
+xxxx0001-1-4-4,,xxxx0001-1,4,haak,haak,[],,[],,False,False,,1
+xxxx0001-1-5-1,,xxxx0001-1,5,palima,palima,[],,[],,False,False,,1
+xxxx0001-1-5-2,,xxxx0001-1,5,palima,palima,[],,[],,False,False,,1
+xxxx0001-1-5-3,,xxxx0001-1,5,helima,helima,[],,[],,False,False,,1
+xxxx0001-1-5-4,,xxxx0001-1,5,halima,halima,[],,[],,False,False,,1
+xxxx0001-1-6-1,,xxxx0001-1,6,pane,pane,[],,[],,False,False,,1
+xxxx0001-1-6-2,,xxxx0001-1,6,panee,panee,[],,[],,False,False,,1
+xxxx0001-1-6-3,,xxxx0001-1,6,heneen,heneen,[],,[],,False,False,,1
+xxxx0001-1-6-4,,xxxx0001-1,6,haneen,haneen,[],,[],,False,False,,1
+xxxx0001-1-7-1,,xxxx0001-1,7,paʔitu,paʔitu,[],,[],,False,False,,1
+xxxx0001-1-7-2,,xxxx0001-1,7,paʔitu,paʔitu,[],,[],,False,False,,1
+xxxx0001-1-7-3,,xxxx0001-1,7,heʔitu,heʔitu,[],,[],,False,False,,1
+xxxx0001-1-7-4,,xxxx0001-1,7,haʔitu,haʔitu,[],,[],,False,False,,1
+xxxx0001-1-8-1,,xxxx0001-1,8,paʔuː,paʔuː,[],,[],,False,False,,1
+xxxx0001-1-8-2,,xxxx0001-1,8,pau,pau,[],,[],,False,False,,1
+xxxx0001-1-8-3,,xxxx0001-1,8,heʔao,heʔao,[],,[],,False,False,,1
+xxxx0001-1-8-4,,xxxx0001-1,8,haʔoo,haʔoo,[],,[],,False,False,,1
+xxxx0001-1-9-1,,xxxx0001-1,9,pasia,pasia,[],,[],,False,False,,1
+xxxx0001-1-9-2,,xxxx0001-1,9,pasia,pasia,[],,[],,False,False,,1
+xxxx0001-1-9-3,,xxxx0001-1,9,hesee,hesee,[],,[],,False,False,,1
+xxxx0001-1-9-4,,xxxx0001-1,9,hasia,hasia,[],,[],,False,False,,1
+xxxx0001-1-10-1,,xxxx0001-1,10,sanulu,sanulu,[],,[],,False,False,,1
+xxxx0001-1-10-2,,xxxx0001-1,10,sanulu,sanulu,[],,[],,False,False,,1
+xxxx0001-1-10-3,,xxxx0001-1,10,seŋulu,seŋulu,[],,[],,False,False,,1
+xxxx0001-1-10-4,,xxxx0001-1,10,saŋulu,saŋulu,[],,[],,False,False,,1
+xxxx0001-1-11-1,,xxxx0001-1,11,sanulu ɾehe iha,sanulu ɾehe iha,[],,[],,False,False,,1
+xxxx0001-1-12-1,,xxxx0001-1,12,sanulu ɾehe paɾua,sanulu ɾehe paɾua,[],,[],,False,False,,1
+xxxx0001-1-13-1,,xxxx0001-1,13,sanulu ɾehe pateilu,sanulu ɾehe pateilu,[],,[],,False,False,,1
+xxxx0001-1-14-1,,xxxx0001-1,14,sanulu ɾehe waː,sanulu ɾehe waː,[],,[],,False,False,,1
+xxxx0001-1-15-1,,xxxx0001-1,15,sanulu ɾehe palima,sanulu ɾehe palima,[],,[],,False,False,,1
+xxxx0001-1-16-1,,xxxx0001-1,16,sanulu ɾehe paneː,sanulu ɾehe paneː,[],,[],,False,False,,1
+xxxx0001-1-17-1,,xxxx0001-1,17,sanulu ɾehe paʔitu,sanulu ɾehe paʔitu,[],,[],,False,False,,1
+xxxx0001-1-18-1,,xxxx0001-1,18,sanulu ɾehe paʔuː,sanulu ɾehe paʔuː,[],,[],,False,False,,1
+xxxx0001-1-19-1,,xxxx0001-1,19,sanulu ɾehe pasia,sanulu ɾehe pasia,[],,[],,False,False,,1
+xxxx0001-1-20-1,,xxxx0001-1,20,heleɾua,heleɾua,[],,[],,False,False,,1
+xxxx0001-1-21-1,,xxxx0001-1,21,heleɾua ɾehe iha,heleɾua ɾehe iha,[],,[],,False,False,,1
+xxxx0001-1-22-1,,xxxx0001-1,22,heleɾua ɾehe paɾua,heleɾua ɾehe paɾua,[],,[],,False,False,,1
+xxxx0001-1-23-1,,xxxx0001-1,23,heleɾua ɾehe pateilu,heleɾua ɾehe pateilu,[],,[],,False,False,,1
+xxxx0001-1-24-1,,xxxx0001-1,24,heleɾua ɾehe waː,heleɾua ɾehe waː,[],,[],,False,False,,1
+xxxx0001-1-25-1,,xxxx0001-1,25,heleɾua ɾehe palima,heleɾua ɾehe palima,[],,[],,False,False,,1
+xxxx0001-1-26-1,,xxxx0001-1,26,heleɾua ɾehe paneː,heleɾua ɾehe paneː,[],,[],,False,False,,1
+xxxx0001-1-27-1,,xxxx0001-1,27,heleɾua ɾehe paʔitu,heleɾua ɾehe paʔitu,[],,[],,False,False,,1
+xxxx0001-1-28-1,,xxxx0001-1,28,heleɾua ɾehe paʔuː,heleɾua ɾehe paʔuː,[],,[],,False,False,,1
+xxxx0001-1-29-1,,xxxx0001-1,29,heleɾua ɾehe pasia,heleɾua ɾehe pasia,[],,[],,False,False,,1
+xxxx0001-1-30-1,,xxxx0001-1,30,heleteilu,heleteilu,[],,[],,False,False,,1
+xxxx0001-1-40-1,,xxxx0001-1,40,helewaː,helewaː,[],,[],,False,False,,1
+xxxx0001-1-50-1,,xxxx0001-1,50,helelima,helelima,[],,[],,False,False,,1
+xxxx0001-1-60-1,,xxxx0001-1,60,heleneː,heleneː,[],,[],,False,False,,1
+xxxx0001-1-70-1,,xxxx0001-1,70,helehitu,helehitu,[],,[],,False,False,,1
+xxxx0001-1-80-1,,xxxx0001-1,80,helepaʔuː,helepaʔuː,[],,[],,False,False,,1
+xxxx0001-1-90-1,,xxxx0001-1,90,helesia,helesia,[],,[],,False,False,,1
+xxxx0001-1-100-1,,xxxx0001-1,100,atu hea,atu hea,[],,[],,False,False,,1
+xxxx0001-1-100-2,,xxxx0001-1,100,atu iha,atu iha,[],,[],,False,False,,1
+xxxx0001-1-100-3,,xxxx0001-1,100,atus hea,atus hea,[],,[],,False,False,,1
+xxxx0001-1-100-4,,xxxx0001-1,100,atus hia,atus hia,[],,[],,False,False,,1
+xxxx0001-1-200-1,,xxxx0001-1,200,atu paɾua,atu paɾua,[],,[],,False,False,,1
+xxxx0001-1-200-2,,xxxx0001-1,200,parua,parua,[],,[],,False,False,,1
+xxxx0001-1-200-3,,xxxx0001-1,200,atus herua,atus herua,[],,[],,False,False,,1
+xxxx0001-1-200-4,,xxxx0001-1,200,harua,harua,[],,[],,False,False,,1
+xxxx0001-1-1000-1,,xxxx0001-1,1000,rihu isa,rihu isa,[],,[],,False,False,,1
+xxxx0001-1-1000-2,,xxxx0001-1,1000,rihu iha,rihu iha,[],,[],,False,False,,1
+xxxx0001-1-1000-3,,xxxx0001-1,1000,rihun hea,rihun hea,[],,[],,False,False,,1
+xxxx0001-1-1000-4,,xxxx0001-1,1000,hia,hia,[],,[],,False,False,,1
+xxxx0001-1-2000-1,,xxxx0001-1,2000,rihu paɾua,rihu paɾua,[],,[],,False,False,,1
+xxxx0001-1-2000-2,,xxxx0001-1,2000,rihu parua,rihu parua,[],,[],,False,False,,1
+xxxx0001-1-2000-3,,xxxx0001-1,2000,rihun herua,rihun herua,[],,[],,False,False,,1

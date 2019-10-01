@@ -1,0 +1,16 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+shan1283-1-1-1,,shan1283-1,1,wisti,wisti,[],,[],,False,False,,1
+shan1283-1-2-1,,shan1283-1,2,ɾafu,ɾafu,[],,[],,False,False,,1
+shan1283-1-3-1,,shan1283-1,3,wistiɾafu,wistiɾafu,[],( 2 + 1 ),[],,False,False,,1
+shan1283-1-4-1,,shan1283-1,4,ɾafuɾafu,ɾafuɾafu,[],( 2 + 2 ),[],,False,False,,1
+shan1283-1-5-1,,shan1283-1,5,mɨfɨti,mɨfɨti,[],"(litː 'hand one', mɨfɨ = hand  )",[],,False,False,,1
+shan1283-1-6-1,,shan1283-1,6,mɨfɨ inun wisti,mɨfɨ inun wisti,[],"(litː 'hand one and one', inun = plus )",[],,False,False,,1
+shan1283-1-7-1,,shan1283-1,7,mɨfɨ inun ɾafu,mɨfɨ inun ɾafu,[],(litː 'hand one and two' ),[],,False,False,,1
+shan1283-1-8-1,,shan1283-1,8,mɨfɨ inun ɾafu inun wisti,mɨfɨ inun ɾafu inun wisti,[],,[],,False,False,,1
+shan1283-1-9-1,,shan1283-1,9,mɨfɨ inun ɾafu inun ɾafu,mɨfɨ inun ɾafu inun ɾafu,[],,[],,False,False,,1
+shan1283-1-10-1,,shan1283-1,10,mɨfɨtiɾafu,mɨfɨtiɾafu,[],(litː 'hands two'),[],,False,False,,1
+shan1283-1-11-1,,shan1283-1,11,mɨfɨtiɾafu inun wisti,mɨfɨtiɾafu inun wisti,[],,[],,False,False,,1
+shan1283-1-12-1,,shan1283-1,12,mɨfɨtiɾafu inun ɾafu,mɨfɨtiɾafu inun ɾafu,[],,[],,False,False,,1
+shan1283-1-20-1,,shan1283-1,20,mɨfɨtiɾafuɾafu,mɨfɨtiɾafuɾafu,[],,[],,False,False,,1
+shan1283-1-30-1,,shan1283-1,30,mɨfɨtiɾafuɾafuɾafu,mɨfɨtiɾafuɾafuɾafu,[],( litː 20 plus 10 ),[],,False,False,,1
+shan1283-1-40-1,,shan1283-1,40,mɨfɨtiɾafuɾafu inun mɨfɨtiɾafuɾafu,mɨfɨtiɾafuɾafu inun mɨfɨtiɾafuɾafu,[],( litː 20 plus 20 ),[],,False,False,,1

@@ -1,0 +1,32 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mish1244-2-1-1,,mish1244-2,1,me,me,[],,[],,False,False,,2
+mish1244-2-2-1,,mish1244-2,2,vɨl,vɨl,[],,[],,False,False,,2
+mish1244-2-3-1,,mish1244-2,3,kun,kun,[],,[],,False,False,,2
+mish1244-2-4-1,,mish1244-2,4,fɛr,fɛr,[],,[],,False,False,,2
+mish1244-2-5-1,,mish1244-2,5,paàt,paàt,[],,[],,False,False,,2
+mish1244-2-6-1,,mish1244-2,6,pemɛ,pemɛ,[],( 5+ 1 ),[],,False,False,,2
+mish1244-2-7-1,,mish1244-2,7,pɔ̀ɡɔ̀vɨl,pɔ̀ɡɔ̀vɨl,[],( 5+ 2 ),[],,False,False,,2
+mish1244-2-8-1,,mish1244-2,8,pɔ̀ɡɔ̀kun,pɔ̀ɡɔ̀kun,[],( 5+ 3 ),[],,False,False,,2
+mish1244-2-9-1,,mish1244-2,9,pɔ̀ɡɔ̀far,pɔ̀ɡɔ̀far,[],( 5+ 4 ),[],,False,False,,2
+mish1244-2-10-1,,mish1244-2,10,sə̀r,sə̀r,[],,[],,False,False,,2
+mish1244-2-11-1,,mish1244-2,11,sə̀r pò kɨ me,sə̀r pò kɨ me,[],,[],,False,False,,2
+mish1244-2-12-1,,mish1244-2,12,sə̀r pò kɨ vɨl,sə̀r pò kɨ vɨl,[],,[],,False,False,,2
+mish1244-2-13-1,,mish1244-2,13,sə̀r pò kɨ kun,sə̀r pò kɨ kun,[],,[],,False,False,,2
+mish1244-2-14-1,,mish1244-2,14,sə̀r pò kɨ fɛr,sə̀r pò kɨ fɛr,[],,[],,False,False,,2
+mish1244-2-15-1,,mish1244-2,15,sə̀r pò kɨ paàt,sə̀r pò kɨ paàt,[],,[],,False,False,,2
+mish1244-2-16-1,,mish1244-2,16,sə̀r pò kɨ pemɛ,sə̀r pò kɨ pemɛ,[],,[],,False,False,,2
+mish1244-2-17-1,,mish1244-2,17,sə̀r pò kɨ pɔ̀ɡɔ̀vɨl,sə̀r pò kɨ pɔ̀ɡɔ̀vɨl,[],,[],,False,False,,2
+mish1244-2-18-1,,mish1244-2,18,sə̀r pò kɨ pɔ̀ɡɔ̀kun,sə̀r pò kɨ pɔ̀ɡɔ̀kun,[],,[],,False,False,,2
+mish1244-2-19-1,,mish1244-2,19,sə̀r pò kɨ pɔ̀ɡɔ̀far,sə̀r pò kɨ pɔ̀ɡɔ̀far,[],,[],,False,False,,2
+mish1244-2-20-1,,mish1244-2,20,ya ɡurùm,ya ɡurùm,[],,[],,False,False,,2
+mish1244-2-21-1,,mish1244-2,21,ɡurùm pò kɨme,ɡurùm pò kɨme,[],,[],,False,False,,2
+mish1244-2-24-1,,mish1244-2,24,ɡurùm fɛr,ɡurùm fɛr,[],,[],,False,False,,2
+mish1244-2-25-1,,mish1244-2,25,ɡurùm paàt,ɡurùm paàt,[],,[],,False,False,,2
+mish1244-2-30-1,,mish1244-2,30,ɡurùm kɨsàr,ɡurùm kɨsàr,[],,[],,False,False,,2
+mish1244-2-40-1,,mish1244-2,40,ɡurùm vɨl,ɡurùm vɨl,[],( 20 x 2 ),[],,False,False,,2
+mish1244-2-50-1,,mish1244-2,50,ɡurùm vɨl kɨsàr,ɡurùm vɨl kɨsàr,[],,[],,False,False,,2
+mish1244-2-60-1,,mish1244-2,60,ɡurùm kǔn,ɡurùm kǔn,[],( 20 x 3 ),[],,False,False,,2
+mish1244-2-70-1,,mish1244-2,70,ɡurùm kǔn kɨsàr,ɡurùm kǔn kɨsàr,[],,[],,False,False,,2
+mish1244-2-80-1,,mish1244-2,80,ɡurùm fɛr,ɡurùm fɛr,[],( 20 x 4 ),[],,False,False,,2
+mish1244-2-90-1,,mish1244-2,90,ɡurùm fɛr kɨsàr,ɡurùm fɛr kɨsàr,[],,[],,False,False,,2
+mish1244-2-100-1,,mish1244-2,100,ɡurùm pàt,ɡurùm pàt,[],( 20 x 5 ),[],,False,False,,2

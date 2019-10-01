@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+seke1241-1-1-1,,seke1241-1,1,alβʷal,alβʷal,[],,[],,False,False,,1
+seke1241-1-2-1,,seke1241-1,2,aru,aru,[],,[],,False,False,,1
+seke1241-1-3-1,,seke1241-1,3,azⁱol,azⁱol,[],,[],,False,False,,1
+seke1241-1-4-1,,seke1241-1,4,avⁱet,avⁱet,[],,[],,False,False,,1
+seke1241-1-5-1,,seke1241-1,5,alim,alim,[],,[],,False,False,,1
+seke1241-1-6-1,,seke1241-1,6,laβʷal,laβʷal,[],( 5 + 1 ),[],,False,False,,1
+seke1241-1-7-1,,seke1241-1,7,livru,livru,[],( 5 + 2 ),[],,False,False,,1
+seke1241-1-8-1,,seke1241-1,8,liptol,liptol,[],( 5 + 3 ),[],,False,False,,1
+seke1241-1-9-1,,seke1241-1,9,liapɛt,liapɛt,[],( 5 + 4 ),[],,False,False,,1
+seke1241-1-10-1,,seke1241-1,10,sɛᵐbrɛnɔk,sɛᵐbrɛnɔk,[],,[],,False,False,,1
+seke1241-1-11-1,,seke1241-1,11,sɛᵐbrɛnɔk nan alβʷal,sɛᵐbrɛnɔk nan alβʷal,[],,[],,False,False,,1
+seke1241-1-12-1,,seke1241-1,12,sɛᵐbrɛnɔk nan aru,sɛᵐbrɛnɔk nan aru,[],,[],,False,False,,1
+seke1241-1-13-1,,seke1241-1,13,sɛᵐbrɛnɔk nan azⁱol,sɛᵐbrɛnɔk nan azⁱol,[],,[],,False,False,,1
+seke1241-1-14-1,,seke1241-1,14,sɛᵐbrɛnɔk nan avⁱet,sɛᵐbrɛnɔk nan avⁱet,[],,[],,False,False,,1
+seke1241-1-15-1,,seke1241-1,15,sɛᵐbrɛnɔk nan alim,sɛᵐbrɛnɔk nan alim,[],,[],,False,False,,1
+seke1241-1-16-1,,seke1241-1,16,sɛᵐbrɛnɔk nan laβʷal,sɛᵐbrɛnɔk nan laβʷal,[],,[],,False,False,,1
+seke1241-1-17-1,,seke1241-1,17,sɛᵐbrɛnɔk nan livru,sɛᵐbrɛnɔk nan livru,[],,[],,False,False,,1
+seke1241-1-18-1,,seke1241-1,18,sɛᵐbrɛnɔk nan liptol,sɛᵐbrɛnɔk nan liptol,[],,[],,False,False,,1
+seke1241-1-19-1,,seke1241-1,19,sɛᵐbrɛnɔk nan liapɛt,sɛᵐbrɛnɔk nan liapɛt,[],,[],,False,False,,1
+seke1241-1-20-1,,seke1241-1,20,maβʷul aru,maβʷul aru,[],,[],,False,False,,1
+seke1241-1-21-1,,seke1241-1,21,maβʷul aru nan alβʷal,maβʷul aru nan alβʷal,[],,[],,False,False,,1
+seke1241-1-22-1,,seke1241-1,22,maβʷul aru nan aru,maβʷul aru nan aru,[],,[],,False,False,,1
+seke1241-1-23-1,,seke1241-1,23,maβʷul aru nan azⁱol,maβʷul aru nan azⁱol,[],,[],,False,False,,1
+seke1241-1-24-1,,seke1241-1,24,maβʷul aru nan avⁱet,maβʷul aru nan avⁱet,[],,[],,False,False,,1
+seke1241-1-25-1,,seke1241-1,25,maβʷul aru nan alim,maβʷul aru nan alim,[],,[],,False,False,,1
+seke1241-1-26-1,,seke1241-1,26,maβʷul aru nan laβʷal,maβʷul aru nan laβʷal,[],,[],,False,False,,1
+seke1241-1-27-1,,seke1241-1,27,maβʷul aru nan livru,maβʷul aru nan livru,[],,[],,False,False,,1
+seke1241-1-28-1,,seke1241-1,28,maβʷul aru nan liptol,maβʷul aru nan liptol,[],,[],,False,False,,1
+seke1241-1-29-1,,seke1241-1,29,maβʷul aru nan liapɛt,maβʷul aru nan liapɛt,[],,[],,False,False,,1
+seke1241-1-30-1,,seke1241-1,30,maβʷul azⁱol,maβʷul azⁱol,[],,[],,False,False,,1
+seke1241-1-40-1,,seke1241-1,40,maβʷul avⁱet,maβʷul avⁱet,[],,[],,False,False,,1
+seke1241-1-50-1,,seke1241-1,50,maβʷul alim,maβʷul alim,[],,[],,False,False,,1
+seke1241-1-60-1,,seke1241-1,60,maβʷul laβʷal,maβʷul laβʷal,[],,[],,False,False,,1
+seke1241-1-70-1,,seke1241-1,70,maβʷul livru,maβʷul livru,[],,[],,False,False,,1
+seke1241-1-80-1,,seke1241-1,80,maβʷul liptol,maβʷul liptol,[],,[],,False,False,,1
+seke1241-1-90-1,,seke1241-1,90,maβʷul liapɛt,maβʷul liapɛt,[],,[],,False,False,,1
+seke1241-1-100-1,,seke1241-1,100,aᵐroᵐb alβʷal,aᵐroᵐb alβʷal,[],,[],,False,False,,1
+seke1241-1-100-2,,seke1241-1,100,mavwul sɛᵐbrɛnɔk,mavwul sɛᵐbrɛnɔk,[],,[],,False,False,,1
+seke1241-1-200-1,,seke1241-1,200,aᵐroᵐb aru,aᵐroᵐb aru,[],,[],,False,False,,1
+seke1241-1-1000-1,,seke1241-1,1000,atar alβʷal,atar alβʷal,[],,[],,False,False,,1
+seke1241-1-2000-1,,seke1241-1,2000,atar aru,atar aru,[],,[],,False,False,,1

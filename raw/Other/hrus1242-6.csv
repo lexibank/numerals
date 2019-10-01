@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hrus1242-6-1-1,,hrus1242-6,1,a,a,[],,[],,False,False,,6
+hrus1242-6-2-1,,hrus1242-6,2,ksi,ksi,[],,[],,False,False,,6
+hrus1242-6-3-1,,hrus1242-6,3,dzi,dzi,[],,[],,False,False,,6
+hrus1242-6-4-1,,hrus1242-6,4,pi,pi,[],,[],,False,False,,6
+hrus1242-6-4-2,,hrus1242-6,4,pj,pj,[],(í),[],,False,False,,6
+hrus1242-6-5-1,,hrus1242-6,5,pum,pum,[],,[],,False,False,,6
+hrus1242-6-6-1,,hrus1242-6,6,re,re,[],,[],,False,False,,6
+hrus1242-6-6-2,,hrus1242-6,6,ʑje,ʑje,[],,[],,False,False,,6
+hrus1242-6-7-1,,hrus1242-6,7,mhrɔ,mhrɔ,[],,[],,False,False,,6
+hrus1242-6-7-2,,hrus1242-6,7,mrɔ,mrɔ,[],,[],,False,False,,6
+hrus1242-6-8-1,,hrus1242-6,8,šiɡdzi,šiɡdzi,[],,[],,False,False,,6
+hrus1242-6-8-2,,hrus1242-6,8,sɨɣdʒɨ,sɨɣdʒɨ,[],,[],,False,False,,6
+hrus1242-6-9-1,,hrus1242-6,9,sthi,sthi,[],,[],,False,False,,6
+hrus1242-6-9-2,,hrus1242-6,9,stʰɨ,stʰɨ,[],,[],,False,False,,6
+hrus1242-6-10-1,,hrus1242-6,10,hrɨ,hrɨ,[],,[],,False,False,,6
+hrus1242-6-11-1,,hrus1242-6,11,hrɨ-o-a,hrɨ-o-a,[],,[],,False,False,,6
+hrus1242-6-12-1,,hrus1242-6,12,hrɨ-o-ksi,hrɨ-o-ksi,[],,[],,False,False,,6
+hrus1242-6-13-1,,hrus1242-6,13,hrɨ-o-dzi,hrɨ-o-dzi,[],,[],,False,False,,6
+hrus1242-6-14-1,,hrus1242-6,14,hrɨ-o-pi,hrɨ-o-pi,[],,[],,False,False,,6
+hrus1242-6-15-1,,hrus1242-6,15,hrɨ-o-pum,hrɨ-o-pum,[],,[],,False,False,,6
+hrus1242-6-16-1,,hrus1242-6,16,hrɨ-o-re,hrɨ-o-re,[],,[],,False,False,,6
+hrus1242-6-17-1,,hrus1242-6,17,hrɨ-o-mhrɔ,hrɨ-o-mhrɔ,[],,[],,False,False,,6
+hrus1242-6-18-1,,hrus1242-6,18,hrɨ-o-šiɡdzi,hrɨ-o-šiɡdzi,[],,[],,False,False,,6
+hrus1242-6-19-1,,hrus1242-6,19,hrɨ-o-sthi,hrɨ-o-sthi,[],,[],,False,False,,6
+hrus1242-6-20-1,,hrus1242-6,20,bɨša,bɨša,[],( loan from Indic),[],,False,False,,6
+hrus1242-6-21-1,,hrus1242-6,21,21 to 29 ??,21 to 29 ??,[],,[],,False,True,,6
+hrus1242-6-30-1,,hrus1242-6,30,dzi-hrɨ,dzi-hrɨ,[],,[],,False,False,,6
+hrus1242-6-40-1,,hrus1242-6,40,pi-hrɨ,pi-hrɨ,[],,[],,False,False,,6
+hrus1242-6-50-1,,hrus1242-6,50,pum-hrɨ,pum-hrɨ,[],,[],,False,False,,6
+hrus1242-6-60-1,,hrus1242-6,60,re-hrɨ,re-hrɨ,[],,[],,False,False,,6
+hrus1242-6-70-1,,hrus1242-6,70,mhrɔ-hrɨ,mhrɔ-hrɨ,[],,[],,False,False,,6
+hrus1242-6-80-1,,hrus1242-6,80,šiɡdzi-hrɨ,šiɡdzi-hrɨ,[],,[],,False,False,,6
+hrus1242-6-90-1,,hrus1242-6,90,sthi-hrɨ,sthi-hrɨ,[],,[],,False,False,,6
+hrus1242-6-100-1,,hrus1242-6,100,phoɡ-a,phoɡ-a,[],,[],,False,False,,6
+hrus1242-6-100-2,,hrus1242-6,100,??,??,[],,[],,False,True,,6
+hrus1242-6-200-1,,hrus1242-6,200,??,??,[],,[],,False,True,,6
+hrus1242-6-1000-1,,hrus1242-6,1000,hazar,hazar,[],( loan from Indic),[],,False,False,,6
+hrus1242-6-2000-1,,hrus1242-6,2000,??,??,[],,[],,False,True,,6

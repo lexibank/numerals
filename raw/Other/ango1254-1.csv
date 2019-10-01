@@ -1,0 +1,19 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ango1254-1-1-1,,ango1254-1,1,mamɨ,mamɨ,[],,[],,False,False,,1
+ango1254-1-2-1,,ango1254-1,2,yimbu,yimbu,[],,[],,False,False,,1
+ango1254-1-3-1,,ango1254-1,3,ŋɡɨmɨ,ŋɡɨmɨ,[],,[],,False,False,,1
+ango1254-1-4-1,,ango1254-1,4,yimbuyimbu,yimbuyimbu,[],,[],,False,False,,1
+ango1254-1-5-1,,ango1254-1,5,hondɨ,hondɨ,[],( litː 'thumb' ),[],,False,False,,1
+ango1254-1-6-1,,ango1254-1,6,hondɨrasi amberamɨdembü,hondɨrasi amberamɨdembü,[],( litː 'in the wrist' ),[],,False,False,,1
+ango1254-1-7-1,,ango1254-1,7,waranduhu amberamɨdembü,waranduhu amberamɨdembü,[],( litː 'in the elbow'),[],,False,False,,1
+ango1254-1-8-1,,ango1254-1,8,warambuhu amberamɨdembü,warambuhu amberamɨdembü,[],(litː 'in the shoulder'),[],,False,False,,1
+ango1254-1-9-1,,ango1254-1,9,tɨtɨ amberamɨdembü,tɨtɨ amberamɨdembü,[],(litː 'in the breast'),[],,False,False,,1
+ango1254-1-10-1,,ango1254-1,10,ŋɡopoa tɨtɨ amberamɨdembü,ŋɡopoa tɨtɨ amberamɨdembü,[],(litː 'in the other breast'),[],,False,False,,1
+ango1254-1-11-1,,ango1254-1,11,ŋɡopoa warambuhu amberamɨdembü,ŋɡopoa warambuhu amberamɨdembü,[],(litː 'in the other shoulder'),[],,False,False,,1
+ango1254-1-12-1,,ango1254-1,12,ŋɡopoa waranduhu amberamɨdembü,ŋɡopoa waranduhu amberamɨdembü,[],(litː 'in the other elbow'),[],,False,False,,1
+ango1254-1-13-1,,ango1254-1,13,ŋɡopoa hondɨ rasi amberamɨdembü,ŋɡopoa hondɨ rasi amberamɨdembü,[],(litː 'in the other wrist'),[],,False,False,,1
+ango1254-1-14-1,,ango1254-1,14,ŋɡopoa hondɨ,ŋɡopoa hondɨ,[],(litː 'other thumb'),[],,False,False,,1
+ango1254-1-15-1,,ango1254-1,15,ŋɡopoa batendɨ,ŋɡopoa batendɨ,[],(litː 'other index finger'),[],,False,False,,1
+ango1254-1-16-1,,ango1254-1,16,ŋɡopoa mamɨnɡasɨrɨ,ŋɡopoa mamɨnɡasɨrɨ,[],(litː 'other middle finger'),[],,False,False,,1
+ango1254-1-17-1,,ango1254-1,17,ŋɡopoa akɨdɨ kɨmɨnɨndɨ,ŋɡopoa akɨdɨ kɨmɨnɨndɨ,[],(litː 'other finger next to the small finger'),[],,False,False,,1
+ango1254-1-18-1,,ango1254-1,18,ŋɡopoa akɨdɨ,ŋɡopoa akɨdɨ,[],[litː 'other little one (small finger)'],[],,False,False,,1

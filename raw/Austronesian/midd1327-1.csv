@@ -1,0 +1,16 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+midd1327-1-1-1,,midd1327-1,1,bicits,bicits,[],,[],,False,False,,1
+midd1327-1-1-2,,midd1327-1,1,morots,morots,[],,[],,False,False,,1
+midd1327-1-2-1,,midd1327-1,2,siruc,siruc,[],,[],,False,False,,1
+midd1327-1-2-2,,midd1327-1,2,serok,serok,[],,[],,False,False,,1
+midd1327-1-3-1,,midd1327-1,3,siruc a bicits,siruc a bicits,[],,[],,False,False,,1
+midd1327-1-3-2,,midd1327-1,3,serok a morots,serok a morots,[],"(litː ''2+1"")",[],,False,False,,1
+midd1327-1-4-1,,midd1327-1,4,siruc a bicits,siruc a bicits,[],,[],,False,False,,1
+midd1327-1-4-2,,midd1327-1,4,serok a serok,serok a serok,[],(litː ''2+2''),[],,False,False,,1
+midd1327-1-5-1,,midd1327-1,5,biaŋkeʔ haits,biaŋkeʔ haits,[],(litː ''my hand half''),[],,False,False,,1
+midd1327-1-5-2,,midd1327-1,5,serok a serok a morots,serok a serok a morots,[],(litː ''2+2+1''),[],,False,False,,1
+midd1327-1-6-1,,midd1327-1,6,serok a serok a serok,serok a serok a serok,[],(litː ''2+2+2''),[],,False,False,,1
+midd1327-1-7-1,,midd1327-1,7,serok a serok a serok a morots,serok a serok a serok a morots,[],(litː ''2+2+2+1''),[],,False,False,,1
+midd1327-1-8-1,,midd1327-1,8,serok a serok a a serok a serok,serok a serok a a serok a serok,[],(litː ''2+2+2+2''),[],,False,False,,1
+midd1327-1-9-1,,midd1327-1,9,serok a serok a serok a a serok a morots,serok a serok a serok a a serok a morots,[],(litː ''2+2+2 +2+1''),[],,False,False,,1
+midd1327-1-10-1,,midd1327-1,10,ŋa biaŋke serok,ŋa biaŋke serok,[],(litː ''my hands two''),[],,False,False,,1

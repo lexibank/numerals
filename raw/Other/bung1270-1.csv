@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bung1270-1-1-1,,bung1270-1,1,yakat,yakat,[],(ad hoc orthography),[],,False,False,,1
+bung1270-1-2-1,,bung1270-1,2,jap,jap,[],,[],,False,False,,1
+bung1270-1-3-1,,bung1270-1,3,dam,dam,[],,[],,False,False,,1
+bung1270-1-4-1,,bung1270-1,4,iwhich iwhich,iwhich iwhich,[],,[],,False,True,,1
+bung1270-1-5-1,,bung1270-1,5,sar yakat,sar yakat,[],,[],,False,False,,1
+bung1270-1-6-1,,bung1270-1,6,sar yakat yakat,sar yakat yakat,[],,[],,False,False,,1
+bung1270-1-7-1,,bung1270-1,7,sar yakat jap,sar yakat jap,[],,[],,False,False,,1
+bung1270-1-8-1,,bung1270-1,8,sar yakat dam,sar yakat dam,[],,[],,False,False,,1
+bung1270-1-9-1,,bung1270-1,9,sar yakat iwhich iwhich,sar yakat iwhich iwhich,[],,[],,False,True,,1
+bung1270-1-10-1,,bung1270-1,10,sarha jap,sarha jap,[],,[],,False,False,,1
+bung1270-1-11-1,,bung1270-1,11,sarha jap yakat,sarha jap yakat,[],,[],,False,False,,1
+bung1270-1-12-1,,bung1270-1,12,sarha jap jap,sarha jap jap,[],,[],,False,False,,1
+bung1270-1-13-1,,bung1270-1,13,sarha jap dam,sarha jap dam,[],,[],,False,False,,1
+bung1270-1-14-1,,bung1270-1,14,sarha jap iwhich iwhich,sarha jap iwhich iwhich,[],,[],,False,True,,1
+bung1270-1-15-1,,bung1270-1,15,sarha jap saryakat,sarha jap saryakat,[],,[],,False,False,,1
+bung1270-1-16-1,,bung1270-1,16,sarha jap saryakat yakat,sarha jap saryakat yakat,[],,[],,False,False,,1
+bung1270-1-17-1,,bung1270-1,17,sarha jap saryakat jap,sarha jap saryakat jap,[],,[],,False,False,,1
+bung1270-1-18-1,,bung1270-1,18,sarha jap saryakat dam,sarha jap saryakat dam,[],,[],,False,False,,1
+bung1270-1-19-1,,bung1270-1,19,sarha jap saryakat iwhich iwhich,sarha jap saryakat iwhich iwhich,[],,[],,False,True,,1
+bung1270-1-20-1,,bung1270-1,20,sarha jap sarha jap,sarha jap sarha jap,[],,[],,False,False,,1

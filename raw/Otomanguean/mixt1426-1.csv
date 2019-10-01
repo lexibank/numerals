@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mixt1426-1-1-1,,mixt1426-1,1,tîb,tîb,[],,[],,False,False,,1
+mixt1426-1-2-1,,mixt1426-1,2,tʃòp,tʃòp,[],,[],,False,False,,1
+mixt1426-1-3-1,,mixt1426-1,3,tsónː,tsónː,[],,[],,False,False,,1
+mixt1426-1-4-1,,mixt1426-1,4,tàp,tàp,[],,[],,False,False,,1
+mixt1426-1-5-1,,mixt1426-1,5,ɡàʔaj,ɡàʔaj,[],,[],,False,False,,1
+mixt1426-1-6-1,,mixt1426-1,6,ʃòʔp,ʃòʔp,[],,[],,False,False,,1
+mixt1426-1-7-1,,mixt1426-1,7,ɡádz,ɡádz,[],,[],,False,False,,1
+mixt1426-1-8-1,,mixt1426-1,8,ʃòn,ʃòn,[],,[],,False,False,,1
+mixt1426-1-9-1,,mixt1426-1,9,ɡʲèʔe,ɡʲèʔe,[],,[],,False,False,,1
+mixt1426-1-10-1,,mixt1426-1,10,tsìʔi,tsìʔi,[],,[],,False,False,,1
+mixt1426-1-11-1,,mixt1426-1,11,tsìʔptîb,tsìʔptîb,[],,[],,False,False,,1
+mixt1426-1-12-1,,mixt1426-1,12,tsìʔptʃòp,tsìʔptʃòp,[],,[],,False,False,,1
+mixt1426-1-13-1,,mixt1426-1,13,tsìnː,tsìnː,[],,[],,False,False,,1
+mixt1426-1-14-1,,mixt1426-1,14,tsìdâ,tsìdâ,[],,[],,False,False,,1
+mixt1426-1-15-1,,mixt1426-1,15,tsìʔn,tsìʔn,[],,[],,False,False,,1
+mixt1426-1-16-1,,mixt1426-1,16,tsìʔmːptîb,tsìʔmːptîb,[],,[],,False,False,,1
+mixt1426-1-17-1,,mixt1426-1,17,tsìʔmːtʃòp,tsìʔmːtʃòp,[],,[],,False,False,,1
+mixt1426-1-18-1,,mixt1426-1,18,tsìʔmːptsónː,tsìʔmːptsónː,[],,[],,False,False,,1
+mixt1426-1-19-1,,mixt1426-1,19,tsìʔmːptàp,tsìʔmːptàp,[],,[],,False,False,,1
+mixt1426-1-20-1,,mixt1426-1,20,ɡálː,ɡálː,[],,[],,False,False,,1
+mixt1426-1-21-1,,mixt1426-1,21,ɡálːptîb,ɡálːptîb,[],,[],,False,False,,1
+mixt1426-1-22-1,,mixt1426-1,22,ɡálːptʃǒp,ɡálːptʃǒp,[],,[],,False,False,,1
+mixt1426-1-23-1,,mixt1426-1,23,ɡálːptsǒnː,ɡálːptsǒnː,[],,[],,False,False,,1
+mixt1426-1-24-1,,mixt1426-1,24,ɡálːptǎp,ɡálːptǎp,[],,[],,False,False,,1
+mixt1426-1-25-1,,mixt1426-1,25,ɡálːpɡʲǎj,ɡálːpɡʲǎj,[],,[],,False,False,,1
+mixt1426-1-26-1,,mixt1426-1,26,ɡálːpʃóʔp,ɡálːpʃóʔp,[],,[],,False,False,,1
+mixt1426-1-27-1,,mixt1426-1,27,ɡálːpɡádz,ɡálːpɡádz,[],,[],,False,False,,1
+mixt1426-1-28-1,,mixt1426-1,28,ɡálːpʃǒnː,ɡálːpʃǒnː,[],,[],,False,False,,1
+mixt1426-1-29-1,,mixt1426-1,29,ɡálːpɡʲéʔe,ɡálːpɡʲéʔe,[],,[],,False,False,,1
+mixt1426-1-30-1,,mixt1426-1,30,ɡálːptsíʔi,ɡálːptsíʔi,[],,[],,False,False,,1
+mixt1426-1-40-1,,mixt1426-1,40,tʃòʔo,tʃòʔo,[],( 2 x 20 ),[],,False,False,,1
+mixt1426-1-50-1,,mixt1426-1,50,tʃòʔptsíʔi,tʃòʔptsíʔi,[],,[],,False,False,,1
+mixt1426-1-60-1,,mixt1426-1,60,tsónːɡálː,tsónːɡálː,[],( 3 x 20 ),[],,False,False,,1
+mixt1426-1-70-1,,mixt1426-1,70,tsónːɡálːtsíʔi,tsónːɡálːtsíʔi,[],,[],,False,False,,1
+mixt1426-1-80-1,,mixt1426-1,80,tàpɡálː,tàpɡálː,[],( 4 x 20 ),[],,False,False,,1
+mixt1426-1-90-1,,mixt1426-1,90,tàpɡálːtsíʔi,tàpɡálːtsíʔi,[],,[],,False,False,,1
+mixt1426-1-100-1,,mixt1426-1,100,tìbɡàjòʔo,tìbɡàjòʔo,[],,[],,False,False,,1
+mixt1426-1-200-1,,mixt1426-1,200,tʃòpɡàjòʔo,tʃòpɡàjòʔo,[],,[],,False,False,,1
+mixt1426-1-1000-1,,mixt1426-1,1000,tsǐʔiɡàjòʔo,tsǐʔiɡàjòʔo,[],( 100 x 10 ),[],,False,False,,1
+mixt1426-1-2000-1,,mixt1426-1,2000,tʃòpmîl,tʃòpmîl,[],('mil' < Spanish ),[],,True,False,,1

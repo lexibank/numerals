@@ -1,0 +1,12 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+labo1244-1-1-1,,labo1244-1,1,sei,sei,[],,[],,False,False,,1
+labo1244-1-2-1,,labo1244-1,2,ɣuo,ɣuo,[],,[],,False,False,,1
+labo1244-1-3-1,,labo1244-1,3,tɬ,tɬ,[],,[],,False,False,,1
+labo1244-1-4-1,,labo1244-1,4,βes,βes,[],,[],,False,False,,1
+labo1244-1-5-1,,labo1244-1,5,selme,selme,[],,[],,False,False,,1
+labo1244-1-6-1,,labo1244-1,6,dumane sei,dumane sei,[],( 5 + 1 ),[],,False,False,,1
+labo1244-1-7-1,,labo1244-1,7,dumane ɣuo,dumane ɣuo,[],( 5 + 2 ),[],,False,False,,1
+labo1244-1-8-1,,labo1244-1,8,dumane tɬ,dumane tɬ,[],( 5 + 3 ),[],,False,False,,1
+labo1244-1-9-1,,labo1244-1,9,dumane βes,dumane βes,[],( 5 + 4 ),[],,False,False,,1
+labo1244-1-10-1,,labo1244-1,10,laŋɡal,laŋɡal,[],,[],,False,False,,1
+labo1244-1-11-1,,labo1244-1,11,used Bislama numerals now.,used Bislama numerals now.,[],,[],,False,True,,1

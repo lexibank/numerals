@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+boko1267-1-1-1,,boko1267-1,1,do,do,[],,[],,False,False,,1
+boko1267-1-2-1,,boko1267-1,2,pláa,pláa,[],,[],,False,False,,1
+boko1267-1-3-1,,boko1267-1,3,ʔààɡɔ̃,ʔààɡɔ̃,[],,[],,False,False,,1
+boko1267-1-4-1,,boko1267-1,4,sííɡɔ̃,sííɡɔ̃,[],,[],,False,False,,1
+boko1267-1-5-1,,boko1267-1,5,sɔ́ɔ́ro,sɔ́ɔ́ro,[],,[],,False,False,,1
+boko1267-1-6-1,,boko1267-1,6,swɛ́ɛ̀do,swɛ́ɛ̀do,[],( 5 + 1 ),[],,False,False,,1
+boko1267-1-7-1,,boko1267-1,7,swɛ́ɛ̀pláa,swɛ́ɛ̀pláa,[],( 5 + 2 ),[],,False,False,,1
+boko1267-1-8-1,,boko1267-1,8,sɔ́rààɡɔ̃,sɔ́rààɡɔ̃,[],( 5 + 3 ),[],,False,False,,1
+boko1267-1-9-1,,boko1267-1,9,kɛ̃́ndo,kɛ̃́ndo,[],( 10 - 1),[],,False,False,,1
+boko1267-1-10-1,,boko1267-1,10,kurì,kurì,[],,[],,False,False,,1
+boko1267-1-11-1,,boko1267-1,11,kurì awɛ́ɛ́do,kurì awɛ́ɛ́do,[],( 10 + 1 ),[],,False,False,,1
+boko1267-1-12-1,,boko1267-1,12,kurì awɛ́ɛ́pláa,kurì awɛ́ɛ́pláa,[],( 10 + 2 ),[],,False,False,,1
+boko1267-1-13-1,,boko1267-1,13,kurì awɛ́ɛʔààɡɔ̃,kurì awɛ́ɛʔààɡɔ̃,[],( 10 + 3 ),[],,False,False,,1
+boko1267-1-14-1,,boko1267-1,14,ɡɛ̃̀ro do sàí,ɡɛ̃̀ro do sàí,[],( 15 - 1 ),[],,False,False,,1
+boko1267-1-15-1,,boko1267-1,15,ɡɛ̃̀ro,ɡɛ̃̀ro,[],,[],,False,False,,1
+boko1267-1-16-1,,boko1267-1,16,ɡɛ̃̀ro awɛ́ɛ́do,ɡɛ̃̀ro awɛ́ɛ́do,[],( 15 + 1 ),[],,False,False,,1
+boko1267-1-17-1,,boko1267-1,17,ɡɛ̃̀ro awɛ́ɛ́pláa,ɡɛ̃̀ro awɛ́ɛ́pláa,[],( 15 + 2 ),[],,False,False,,1
+boko1267-1-18-1,,boko1267-1,18,ɡɛ̃̀ro páa sàí,ɡɛ̃̀ro páa sàí,[],( 20 - 2 ),[],,False,False,,1
+boko1267-1-19-1,,boko1267-1,19,bàro do sàí,bàro do sàí,[],( 20 - 1 ),[],,False,False,,1
+boko1267-1-20-1,,boko1267-1,20,bàro,bàro,[],,[],,False,False,,1
+boko1267-1-21-1,,boko1267-1,21,bàro awɛ́ɛ́do,bàro awɛ́ɛ́do,[],( 20 + 1 ),[],,False,False,,1
+boko1267-1-22-1,,boko1267-1,22,bàro awɛ́ɛ́pláa,bàro awɛ́ɛ́pláa,[],( 20 + 2 ),[],,False,False,,1
+boko1267-1-23-1,,boko1267-1,23,bàro awɛ́ɛ́ʔààɡɔ̃,bàro awɛ́ɛ́ʔààɡɔ̃,[],( 20 + 3 ),[],,False,False,,1
+boko1267-1-24-1,,boko1267-1,24,bàro awɛ́ɛ́sííɡɔ̃,bàro awɛ́ɛ́sííɡɔ̃,[],( 20 + 4 ),[],,False,False,,1
+boko1267-1-25-1,,boko1267-1,25,bàrasɔ́ɔ́ro,bàrasɔ́ɔ́ro,[],,[],,False,False,,1
+boko1267-1-26-1,,boko1267-1,26,bàrasɔ́ɔ́ro awɛ́ɛ́do,bàrasɔ́ɔ́ro awɛ́ɛ́do,[],( 25 + 1 ),[],,False,False,,1
+boko1267-1-27-1,,boko1267-1,27,bàrasɔ́ɔ́ro awɛ́ɛ́pláa,bàrasɔ́ɔ́ro awɛ́ɛ́pláa,[],( 25 + 2 ),[],,False,False,,1
+boko1267-1-28-1,,boko1267-1,28,bàrakurì pláa sàí,bàrakurì pláa sàí,[],( 20 + 10 - 2 ),[],,False,False,,1
+boko1267-1-29-1,,boko1267-1,29,bàrakurì do sàí,bàrakurì do sàí,[],( 20 + 10 - 1 ),[],,False,False,,1
+boko1267-1-30-1,,boko1267-1,30,bàrakurì,bàrakurì,[],,[],,False,False,,1
+boko1267-1-30-2,,boko1267-1,30,bàrakwì,bàrakwì,[],( 20 + 10 ),[],,False,False,,1
+boko1267-1-40-1,,boko1267-1,40,bàpláa,bàpláa,[],( 20 x 2 ),[],,False,False,,1
+boko1267-1-50-1,,boko1267-1,50,bàpláakurì,bàpláakurì,[],,[],,False,False,,1
+boko1267-1-50-2,,boko1267-1,50,bàpláakwì,bàpláakwì,[],,[],,False,False,,1
+boko1267-1-60-1,,boko1267-1,60,bàààɡɔ̃,bàààɡɔ̃,[],( 20 x 3 ),[],,False,False,,1
+boko1267-1-70-1,,boko1267-1,70,bàààɡɔ̃kurì,bàààɡɔ̃kurì,[],,[],,False,False,,1
+boko1267-1-70-2,,boko1267-1,70,bàààɡɔ̃kwì,bàààɡɔ̃kwì,[],,[],,False,False,,1
+boko1267-1-80-1,,boko1267-1,80,bàsííɡɔ̃,bàsííɡɔ̃,[],( 20 x 4 ),[],,False,False,,1
+boko1267-1-90-1,,boko1267-1,90,bàsííɡɔ̃kurì,bàsííɡɔ̃kurì,[],,[],,False,False,,1
+boko1267-1-90-2,,boko1267-1,90,bàsííɡɔ̃kwì,bàsííɡɔ̃kwì,[],,[],,False,False,,1
+boko1267-1-100-1,,boko1267-1,100,bàsɔ́ɔ́ro,bàsɔ́ɔ́ro,[],( 20 x 5 ),[],,False,False,,1
+boko1267-1-200-1,,boko1267-1,200,wàà do,wàà do,[],,[],,False,False,,1
+boko1267-1-1000-1,,boko1267-1,1000,wàà sɔ́ɔ́ro,wàà sɔ́ɔ́ro,[],( 200 x 5 ),[],,False,False,,1
+boko1267-1-1000-2,,boko1267-1,1000,bɔ̀rɔ̀ do,bɔ̀rɔ̀ do,[],,[],,False,False,,1
+boko1267-1-2000-1,,boko1267-1,2000,bɔ̀rɔ̀ pláa,bɔ̀rɔ̀ pláa,[],,[],,False,False,,1

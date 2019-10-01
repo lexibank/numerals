@@ -1,0 +1,50 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+xxxx0008-1-1-1,,xxxx0008-1,1,jot5,jot5,[],,[],,False,False,,1
+xxxx0008-1-2-1,,xxxx0008-1,2,ȵi214,ȵi214,[],,[],,False,False,,1
+xxxx0008-1-3-1,,xxxx0008-1,3,θam52,θam52,[],,[],,False,False,,1
+xxxx0008-1-4-1,,xxxx0008-1,4,θi45,θi45,[],,[],,False,False,,1
+xxxx0008-1-5-1,,xxxx0008-1,5,m̩24,m̩24,[],,[],,False,False,,1
+xxxx0008-1-6-1,,xxxx0008-1,6,luk214,luk214,[],,[],,False,False,,1
+xxxx0008-1-7-1,,xxxx0008-1,7,tʰot5,tʰot5,[],,[],,False,False,,1
+xxxx0008-1-8-1,,xxxx0008-1,8,pat34,pat34,[],,[],,False,False,,1
+xxxx0008-1-9-1,,xxxx0008-1,9,tʃou55,tʃou55,[],,[],,False,False,,1
+xxxx0008-1-10-1,,xxxx0008-1,10,ʃop214,ʃop214,[],,[],,False,False,,1
+xxxx0008-1-11-1,,xxxx0008-1,11,ʃop214jot5,ʃop214jot5,[],,[],,False,False,,1
+xxxx0008-1-12-1,,xxxx0008-1,12,ʃop214ȵi214,ʃop214ȵi214,[],,[],,False,False,,1
+xxxx0008-1-13-1,,xxxx0008-1,13,ʃop214θam52,ʃop214θam52,[],,[],,False,False,,1
+xxxx0008-1-14-1,,xxxx0008-1,14,ʃop214θi45,ʃop214θi45,[],,[],,False,False,,1
+xxxx0008-1-15-1,,xxxx0008-1,15,ʃop214m̩24,ʃop214m̩24,[],,[],,False,False,,1
+xxxx0008-1-16-1,,xxxx0008-1,16,ʃop214 luk214,ʃop214 luk214,[],,[],,False,False,,1
+xxxx0008-1-17-1,,xxxx0008-1,17,ʃop214tʰot5,ʃop214tʰot5,[],,[],,False,False,,1
+xxxx0008-1-18-1,,xxxx0008-1,18,ʃop214 pat34,ʃop214 pat34,[],,[],,False,False,,1
+xxxx0008-1-19-1,,xxxx0008-1,19,ʃop214tʃou55,ʃop214tʃou55,[],,[],,False,False,,1
+xxxx0008-1-20-1,,xxxx0008-1,20,ŋi53ʃop214,ŋi53ʃop214,[],,[],,False,False,,1
+xxxx0008-1-21-1,,xxxx0008-1,21,ȵia21 jot5,ȵia21 jot5,[],,[],,False,False,,1
+xxxx0008-1-21-2,,xxxx0008-1,21,ȵɛt2 jot5,ȵɛt2 jot5,[],,[],,False,False,,1
+xxxx0008-1-22-1,,xxxx0008-1,22,ȵia21 ȵi214,ȵia21 ȵi214,[],,[],,False,False,,1
+xxxx0008-1-22-2,,xxxx0008-1,22,ȵɛt2 ȵi214,ȵɛt2 ȵi214,[],,[],,False,False,,1
+xxxx0008-1-23-1,,xxxx0008-1,23,ȵia21 θam52,ȵia21 θam52,[],,[],,False,False,,1
+xxxx0008-1-23-2,,xxxx0008-1,23,ȵɛt2 θam52,ȵɛt2 θam52,[],,[],,False,False,,1
+xxxx0008-1-24-1,,xxxx0008-1,24,ȵia21 θi45,ȵia21 θi45,[],,[],,False,False,,1
+xxxx0008-1-24-2,,xxxx0008-1,24,ȵɛt2 θi45,ȵɛt2 θi45,[],,[],,False,False,,1
+xxxx0008-1-25-1,,xxxx0008-1,25,ȵia21 m̩24,ȵia21 m̩24,[],,[],,False,False,,1
+xxxx0008-1-25-2,,xxxx0008-1,25,ȵɛt2 m̩24,ȵɛt2 m̩24,[],,[],,False,False,,1
+xxxx0008-1-26-1,,xxxx0008-1,26,ȵia21 luk214,ȵia21 luk214,[],,[],,False,False,,1
+xxxx0008-1-26-2,,xxxx0008-1,26,ȵɛt2 luk214,ȵɛt2 luk214,[],,[],,False,False,,1
+xxxx0008-1-27-1,,xxxx0008-1,27,ȵia21 tʰot5,ȵia21 tʰot5,[],,[],,False,False,,1
+xxxx0008-1-27-2,,xxxx0008-1,27,ȵɛt2 tʰot5,ȵɛt2 tʰot5,[],,[],,False,False,,1
+xxxx0008-1-28-1,,xxxx0008-1,28,ȵia21 pat34,ȵia21 pat34,[],,[],,False,False,,1
+xxxx0008-1-28-2,,xxxx0008-1,28,ȵɛt2 pat34,ȵɛt2 pat34,[],,[],,False,False,,1
+xxxx0008-1-29-1,,xxxx0008-1,29,ȵia21 tʃou55,ȵia21 tʃou55,[],,[],,False,False,,1
+xxxx0008-1-29-2,,xxxx0008-1,29,ȵɛt2 tʃou55,ȵɛt2 tʃou55,[],,[],,False,False,,1
+xxxx0008-1-30-1,,xxxx0008-1,30,θam52 ʃop214,θam52 ʃop214,[],,[],,False,False,,1
+xxxx0008-1-40-1,,xxxx0008-1,40,θi45 ʃop214,θi45 ʃop214,[],,[],,False,False,,1
+xxxx0008-1-50-1,,xxxx0008-1,50,m̩24 ʃop214,m̩24 ʃop214,[],,[],,False,False,,1
+xxxx0008-1-60-1,,xxxx0008-1,60,luk214ʃop214,luk214ʃop214,[],,[],,False,False,,1
+xxxx0008-1-70-1,,xxxx0008-1,70,tʰot5 ʃop214,tʰot5 ʃop214,[],,[],,False,False,,1
+xxxx0008-1-80-1,,xxxx0008-1,80,pat34ʃop214,pat34ʃop214,[],,[],,False,False,,1
+xxxx0008-1-90-1,,xxxx0008-1,90,tʃou55 ʃop214,tʃou55 ʃop214,[],,[],,False,False,,1
+xxxx0008-1-100-1,,xxxx0008-1,100,ot5pak34,ot5pak34,[],,[],,False,False,,1
+xxxx0008-1-200-1,,xxxx0008-1,200,liaŋ24pak34,liaŋ24pak34,[],,[],,False,False,,1
+xxxx0008-1-1000-1,,xxxx0008-1,1000,ot5 tʰin52,ot5 tʰin52,[],,[],,False,False,,1
+xxxx0008-1-2000-1,,xxxx0008-1,2000,liaŋ24 tʰin52,liaŋ24 tʰin52,[],,[],,False,False,,1

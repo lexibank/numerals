@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mere1242-1-1-1,,mere1242-1,1,esa,esa,[],,[],,False,False,,1
+mere1242-1-2-1,,mere1242-1,2,rua,rua,[],,[],,False,False,,1
+mere1242-1-3-1,,mere1242-1,3,tol(u),tol(u),[],,[],,False,False,,1
+mere1242-1-4-1,,mere1242-1,4,βat(i),βat(i),[],,[],,False,False,,1
+mere1242-1-5-1,,mere1242-1,5,l(i)ma,l(i)ma,[],,[],,False,False,,1
+mere1242-1-6-1,,mere1242-1,6,l(i)ma-raβo,l(i)ma-raβo,[],,[],,False,False,,1
+mere1242-1-7-1,,mere1242-1,7,raβa-rua,raβa-rua,[],,[],,False,False,,1
+mere1242-1-8-1,,mere1242-1,8,rap-tol(u),rap-tol(u),[],,[],,False,False,,1
+mere1242-1-9-1,,mere1242-1,9,rai-tat,rai-tat,[],,[],,False,False,,1
+mere1242-1-10-1,,mere1242-1,10,saŋaβulu,saŋaβulu,[],,[],,False,False,,1
+mere1242-1-11-1,,mere1242-1,11,saŋaβulu ta esa,saŋaβulu ta esa,[],,[],,False,False,,1
+mere1242-1-12-1,,mere1242-1,12,saŋaβulu ta rua,saŋaβulu ta rua,[],,[],,False,False,,1
+mere1242-1-13-1,,mere1242-1,13,saŋaβulu ta tol(u),saŋaβulu ta tol(u),[],,[],,False,False,,1
+mere1242-1-14-1,,mere1242-1,14,saŋaβulu ta βat,saŋaβulu ta βat,[],,[],,False,False,,1
+mere1242-1-15-1,,mere1242-1,15,saŋaβulu ta lma,saŋaβulu ta lma,[],,[],,False,False,,1
+mere1242-1-16-1,,mere1242-1,16,saŋaβulu ta lma-raβo,saŋaβulu ta lma-raβo,[],,[],,False,False,,1
+mere1242-1-17-1,,mere1242-1,17,saŋaβulu ta raβa-rua,saŋaβulu ta raβa-rua,[],,[],,False,False,,1
+mere1242-1-18-1,,mere1242-1,18,saŋaβulu ta rap-tol,saŋaβulu ta rap-tol,[],,[],,False,False,,1
+mere1242-1-19-1,,mere1242-1,19,saŋaβulu ta rai-tat,saŋaβulu ta rai-tat,[],,[],,False,False,,1
+mere1242-1-20-1,,mere1242-1,20,ŋaβul-rua,ŋaβul-rua,[],,[],,False,False,,1
+mere1242-1-21-1,,mere1242-1,21,ŋaβul-rua ta esa,ŋaβul-rua ta esa,[],,[],,False,False,,1
+mere1242-1-22-1,,mere1242-1,22,ŋaβul-rua ta rua,ŋaβul-rua ta rua,[],,[],,False,False,,1
+mere1242-1-23-1,,mere1242-1,23,ŋaβul-rua ta tol,ŋaβul-rua ta tol,[],,[],,False,False,,1
+mere1242-1-24-1,,mere1242-1,24,ŋaβul-rua ta βat,ŋaβul-rua ta βat,[],,[],,False,False,,1
+mere1242-1-25-1,,mere1242-1,25,ŋaβul-rua ta lma,ŋaβul-rua ta lma,[],,[],,False,False,,1
+mere1242-1-26-1,,mere1242-1,26,ŋaβul-rua ta lma-raβo,ŋaβul-rua ta lma-raβo,[],,[],,False,False,,1
+mere1242-1-27-1,,mere1242-1,27,ŋaβul-rua ta raβa-rua,ŋaβul-rua ta raβa-rua,[],,[],,False,False,,1
+mere1242-1-28-1,,mere1242-1,28,ŋaβul-rua ta rap-tol,ŋaβul-rua ta rap-tol,[],,[],,False,False,,1
+mere1242-1-29-1,,mere1242-1,29,ŋaβul-rua ta rai-tat,ŋaβul-rua ta rai-tat,[],,[],,False,False,,1
+mere1242-1-30-1,,mere1242-1,30,ŋaβul-tol(u),ŋaβul-tol(u),[],,[],,False,False,,1
+mere1242-1-40-1,,mere1242-1,40,ŋaβul-βat,ŋaβul-βat,[],,[],,False,False,,1
+mere1242-1-50-1,,mere1242-1,50,ŋaβul-lma,ŋaβul-lma,[],,[],,False,False,,1
+mere1242-1-60-1,,mere1242-1,60,ŋaβul-lma-raβo,ŋaβul-lma-raβo,[],,[],,False,False,,1
+mere1242-1-70-1,,mere1242-1,70,ŋaβul-raβa-rua,ŋaβul-raβa-rua,[],,[],,False,False,,1
+mere1242-1-80-1,,mere1242-1,80,ŋaβul-rap-tol,ŋaβul-rap-tol,[],,[],,False,False,,1
+mere1242-1-90-1,,mere1242-1,90,ŋaβul-rai-tat,ŋaβul-rai-tat,[],,[],,False,False,,1
+mere1242-1-100-1,,mere1242-1,100,laβul,laβul,[],(< ''many'' ),[],,False,False,,1
+mere1242-1-200-1,,mere1242-1,200,laβul rua,laβul rua,[],,[],,False,False,,1
+mere1242-1-1000-1,,mere1242-1,1000,βatu,βatu,[],( < ''stone''),[],,False,False,,1
+mere1242-1-1000-2,,mere1242-1,1000,mil,mil,[],( < French ),[],,True,False,,1

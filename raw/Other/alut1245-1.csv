@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+alut1245-1-1-1,,alut1245-1,1,ənnan,ənnan,[],,[],,False,False,,1
+alut1245-1-2-1,,alut1245-1,2,ŋitaq,ŋitaq,[],,[],,False,False,,1
+alut1245-1-3-1,,alut1245-1,3,ŋəruqqə,ŋəruqqə,[],,[],,False,False,,1
+alut1245-1-4-1,,alut1245-1,4,ŋəraqqə,ŋəraqqə,[],,[],,False,False,,1
+alut1245-1-5-1,,alut1245-1,5,məlləŋən,məlləŋən,[],,[],,False,False,,1
+alut1245-1-6-1,,alut1245-1,6,ənnanməlləŋən,ənnanməlləŋən,[],( 1 + 5 ),[],,False,False,,1
+alut1245-1-7-1,,alut1245-1,7,ŋitaqməlləŋən,ŋitaqməlləŋən,[],( 2 + 5 ),[],,False,False,,1
+alut1245-1-8-1,,alut1245-1,8,ŋəruqməlləŋən,ŋəruqməlləŋən,[],( 3 + 5 ),[],,False,False,,1
+alut1245-1-9-1,,alut1245-1,9,ŋəraqməlləŋən,ŋəraqməlləŋən,[],( 4 + 5 ),[],,False,False,,1
+alut1245-1-10-1,,alut1245-1,10,mənɣəkin,mənɣəkin,[],,[],,False,False,,1
+alut1245-1-11-1,,alut1245-1,11,mənɣətək ənnan,mənɣətək ənnan,[],(ɣapasus/pasus ),[],,False,False,,1
+alut1245-1-12-1,,alut1245-1,12,mənɣətək ŋitaq,mənɣətək ŋitaq,[],(ɣapasus/pasus ),[],,False,False,,1
+alut1245-1-13-1,,alut1245-1,13,mənɣətək ŋəruqqə,mənɣətək ŋəruqqə,[],(... //...),[],,False,False,,1
+alut1245-1-14-1,,alut1245-1,14,mənɣətək ŋəraqqə,mənɣətək ŋəraqqə,[],(... //...),[],,False,False,,1
+alut1245-1-15-1,,alut1245-1,15,mənɣətək məlləŋən,mənɣətək məlləŋən,[],(... //...),[],,False,False,,1
+alut1245-1-16-1,,alut1245-1,16,mənɣətək ənnanməlləŋən,mənɣətək ənnanməlləŋən,[],(... //...),[],,False,False,,1
+alut1245-1-17-1,,alut1245-1,17,mənɣətəkŋitaqməlləŋən,mənɣətəkŋitaqməlləŋən,[],(... //...),[],,False,False,,1
+alut1245-1-18-1,,alut1245-1,18,mənɣətək ŋəruqməlləŋən,mənɣətək ŋəruqməlləŋən,[],(... //...),[],,False,False,,1
+alut1245-1-19-1,,alut1245-1,19,mənɣətəkŋəraqməlləŋən,mənɣətəkŋəraqməlləŋən,[],(... //...),[],,False,False,,1
+alut1245-1-20-1,,alut1245-1,20,qəlikkə,qəlikkə,[],,[],,False,False,,1
+alut1245-1-21-1,,alut1245-1,21,qəlikək ənnan,qəlikək ənnan,[],,[],,False,False,,1
+alut1245-1-22-1,,alut1245-1,22,qəlikək ŋitaq,qəlikək ŋitaq,[],,[],,False,False,,1
+alut1245-1-23-1,,alut1245-1,23,qəlikək ŋəruqqə,qəlikək ŋəruqqə,[],,[],,False,False,,1
+alut1245-1-24-1,,alut1245-1,24,qəlikək ŋəraqqə,qəlikək ŋəraqqə,[],,[],,False,False,,1
+alut1245-1-25-1,,alut1245-1,25,qəlikək məlləŋən,qəlikək məlləŋən,[],,[],,False,False,,1
+alut1245-1-26-1,,alut1245-1,26,qəlikək ənnanməlləŋən,qəlikək ənnanməlləŋən,[],,[],,False,False,,1
+alut1245-1-27-1,,alut1245-1,27,qəlikək ŋitaqməlləŋən,qəlikək ŋitaqməlləŋən,[],,[],,False,False,,1
+alut1245-1-28-1,,alut1245-1,28,qəlikək ŋəruqməlləŋən,qəlikək ŋəruqməlləŋən,[],,[],,False,False,,1
+alut1245-1-29-1,,alut1245-1,29,qəlikək ŋəraqməlləŋən,qəlikək ŋəraqməlləŋən,[],,[],,False,False,,1
+alut1245-1-30-1,,alut1245-1,30,ŋəruqmənɣəkin,ŋəruqmənɣəkin,[],,[],,False,False,,1
+alut1245-1-40-1,,alut1245-1,40,ŋəraqmənɣəkin,ŋəraqmənɣəkin,[],,[],,False,False,,1
+alut1245-1-50-1,,alut1245-1,50,məlləŋən mənɣəkin,məlləŋən mənɣəkin,[],,[],,False,False,,1
+alut1245-1-60-1,,alut1245-1,60,ənnanməlləŋən mənɣəkin,ənnanməlləŋən mənɣəkin,[],,[],,False,False,,1
+alut1245-1-70-1,,alut1245-1,70,ŋitaqməlləŋən mənɣəkin,ŋitaqməlləŋən mənɣəkin,[],,[],,False,False,,1
+alut1245-1-80-1,,alut1245-1,80,ŋəruqməlləŋən mənɣəkin,ŋəruqməlləŋən mənɣəkin,[],,[],,False,False,,1
+alut1245-1-90-1,,alut1245-1,90,ŋəraqməlləŋən mənɣəkin,ŋəraqməlləŋən mənɣəkin,[],,[],,False,False,,1
+alut1245-1-100-1,,alut1245-1,100,əstun,əstun,[],< Russian ,[],,True,False,,1
+alut1245-1-200-1,,alut1245-1,200,ŋitaq əstun,ŋitaq əstun,[],,[],,False,False,,1
+alut1245-1-1000-1,,alut1245-1,1000,tət͡ɕat͡ɕan,tət͡ɕat͡ɕan,[],< Russian ,[],,True,False,,1
+alut1245-1-2000-1,,alut1245-1,2000,ŋitaq tət͡ɕat͡ɕan,ŋitaq tət͡ɕat͡ɕan,[],,[],,False,False,,1

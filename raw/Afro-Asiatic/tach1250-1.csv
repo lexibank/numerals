@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tach1250-1-1-1,,tach1250-1,1,yan,yan,[],,[],,False,False,,1
+tach1250-1-2-1,,tach1250-1,2,sin,sin,[],,[],,False,False,,1
+tach1250-1-3-1,,tach1250-1,3,kradˤ,kradˤ,[],,[],,False,False,,1
+tach1250-1-4-1,,tach1250-1,4,kozˤ,kozˤ,[],,[],,False,False,,1
+tach1250-1-5-1,,tach1250-1,5,smːus,smːus,[],,[],,False,False,,1
+tach1250-1-6-1,,tach1250-1,6,sdˤis,sdˤis,[],,[],,False,False,,1
+tach1250-1-7-1,,tach1250-1,7,sa,sa,[],,[],,False,False,,1
+tach1250-1-8-1,,tach1250-1,8,tam,tam,[],,[],,False,False,,1
+tach1250-1-9-1,,tach1250-1,9,tzˤa,tzˤa,[],,[],,False,False,,1
+tach1250-1-10-1,,tach1250-1,10,mraw,mraw,[],,[],,False,False,,1
+tach1250-1-11-1,,tach1250-1,11,yan d mraw,yan d mraw,[],,[],,False,False,,1
+tach1250-1-12-1,,tach1250-1,12,sin d mraw,sin d mraw,[],,[],,False,False,,1
+tach1250-1-13-1,,tach1250-1,13,kradˤ d mraw,kradˤ d mraw,[],,[],,False,False,,1
+tach1250-1-14-1,,tach1250-1,14,kozˤ d mraw,kozˤ d mraw,[],,[],,False,False,,1
+tach1250-1-15-1,,tach1250-1,15,smːus d mraw,smːus d mraw,[],,[],,False,False,,1
+tach1250-1-16-1,,tach1250-1,16,sdˤis d mraw,sdˤis d mraw,[],,[],,False,False,,1
+tach1250-1-17-1,,tach1250-1,17,sa d mraw,sa d mraw,[],,[],,False,False,,1
+tach1250-1-18-1,,tach1250-1,18,tam d mraw,tam d mraw,[],,[],,False,False,,1
+tach1250-1-19-1,,tach1250-1,19,zˤa d mraw,zˤa d mraw,[],,[],,False,False,,1
+tach1250-1-20-1,,tach1250-1,20,ˤaʃrin,ˤaʃrin,[],( < Arabic),[],,True,False,,1
+tach1250-1-21-1,,tach1250-1,21,ˤaʃrin d yan,ˤaʃrin d yan,[],,[],,False,False,,1
+tach1250-1-22-1,,tach1250-1,22,ˤaʃrin d sin,ˤaʃrin d sin,[],,[],,False,False,,1
+tach1250-1-23-1,,tach1250-1,23,ˤaʃrin d kradˤ,ˤaʃrin d kradˤ,[],,[],,False,False,,1
+tach1250-1-24-1,,tach1250-1,24,ˤaʃrin d kozˤ,ˤaʃrin d kozˤ,[],,[],,False,False,,1
+tach1250-1-25-1,,tach1250-1,25,ˤaʃrin d smːus,ˤaʃrin d smːus,[],,[],,False,False,,1
+tach1250-1-26-1,,tach1250-1,26,ˤaʃrin d sdˤis,ˤaʃrin d sdˤis,[],,[],,False,False,,1
+tach1250-1-27-1,,tach1250-1,27,ˤaʃrin d sa,ˤaʃrin d sa,[],,[],,False,False,,1
+tach1250-1-28-1,,tach1250-1,28,ˤaʃrin d tam,ˤaʃrin d tam,[],,[],,False,False,,1
+tach1250-1-29-1,,tach1250-1,29,ˤaʃrin d zˤa,ˤaʃrin d zˤa,[],,[],,False,False,,1
+tach1250-1-30-1,,tach1250-1,30,ˤaʃrin d mraw,ˤaʃrin d mraw,[],( 20 + 10 ),[],,False,False,,1
+tach1250-1-40-1,,tach1250-1,40,sini d ˤaʃrin,sini d ˤaʃrin,[],( 2 x 20 ),[],,False,False,,1
+tach1250-1-50-1,,tach1250-1,50,sini d ˤaʃrin d mraw,sini d ˤaʃrin d mraw,[],,[],,False,False,,1
+tach1250-1-60-1,,tach1250-1,60,kradˤ id ˤaʃrin,kradˤ id ˤaʃrin,[],( 3 x 20 ),[],,False,False,,1
+tach1250-1-70-1,,tach1250-1,70,kradˤ id ˤaʃrin a mraw,kradˤ id ˤaʃrin a mraw,[],,[],,False,False,,1
+tach1250-1-80-1,,tach1250-1,80,kozˤ id ˤaʃrin,kozˤ id ˤaʃrin,[],( 4 x 20 ),[],,False,False,,1
+tach1250-1-90-1,,tach1250-1,90,kozˤ id ˤaʃrin d mraw,kozˤ id ˤaʃrin d mraw,[],,[],,False,False,,1
+tach1250-1-100-1,,tach1250-1,100,smːus id ˤaʃrin,smːus id ˤaʃrin,[],( 5 x 20 ),[],,False,False,,1
+tach1250-1-200-1,,tach1250-1,200,snat id miya,snat id miya,[],( miya < Arabic ),[],,True,False,,1
+tach1250-1-1000-1,,tach1250-1,1000,mrawt id miya,mrawt id miya,[],( 10 x 100 ),[],,False,False,,1
+tach1250-1-1000-2,,tach1250-1,1000,alf,alf,[],< Ar. ,[],,True,False,,1

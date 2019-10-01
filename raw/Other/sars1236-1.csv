@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sars1236-1-1-1,,sars1236-1,1,tɬìkʼāzá,tɬìkʼāzá,[],,[],,False,False,,1
+sars1236-1-2-1,,sars1236-1,2,èkíyē,èkíyē,[],( *),[],,False,False,,1
+sars1236-1-3-1,,sars1236-1,3,tá.kʼē,tá.kʼē,[],,[],,False,False,,1
+sars1236-1-4-1,,sars1236-1,4,díítšʼē,díítšʼē,[],,[],,False,False,,1
+sars1236-1-5-1,,sars1236-1,5,ɡúùtʼáá,ɡúùtʼáá,[],,[],,False,False,,1
+sars1236-1-6-1,,sars1236-1,6,ɡùstánē,ɡùstánē,[],,[],,False,False,,1
+sars1236-1-7-1,,sars1236-1,7,tšìšdíítšʼē,tšìšdíítšʼē,[],,[],,False,False,,1
+sars1236-1-8-1,,sars1236-1,8,tɬàšdíítšʼē,tɬàšdíítšʼē,[],( 2 x 4 ),[],,False,False,,1
+sars1236-1-9-1,,sars1236-1,9,tɬìkʼúyāwá,tɬìkʼúyāwá,[],,[],,False,False,,1
+sars1236-1-10-1,,sars1236-1,10,ɡūnèsnánē,ɡūnèsnánē,[],,[],,False,False,,1
+sars1236-1-11-1,,sars1236-1,11,tɬìkʼ é mītāā,tɬìkʼ é mītāā,[],,[],,False,False,,1
+sars1236-1-12-1,,sars1236-1,12,èká. mītāā,èká. mītāā,[],,[],,False,True,,1
+sars1236-1-13-1,,sars1236-1,13,tá.kʼē mītāā,tá.kʼē mītāā,[],,[],,False,False,,1
+sars1236-1-14-1,,sars1236-1,14,díítšʼ ē mītāā,díítšʼ ē mītāā,[],,[],,False,False,,1
+sars1236-1-15-1,,sars1236-1,15,ɡúùtʼáá mītāā,ɡúùtʼáá mītāā,[],,[],,False,False,,1
+sars1236-1-16-1,,sars1236-1,16,ɡùstá mītāā,ɡùstá mītāā,[],,[],,False,False,,1
+sars1236-1-17-1,,sars1236-1,17,tšìšdíítšʼe mītāā,tšìšdíítšʼe mītāā,[],,[],,False,False,,1
+sars1236-1-18-1,,sars1236-1,18,tɬàšdíítšʼe mītāā,tɬàšdíítšʼe mītāā,[],,[],,False,False,,1
+sars1236-1-19-1,,sars1236-1,19,tɬìkʼúyāwá mītāā,tɬìkʼúyāwá mītāā,[],,[],,False,False,,1
+sars1236-1-20-1,,sars1236-1,20,èkádēē,èkádēē,[],( < èkíyē + dēē  ),[],,False,False,,1
+sars1236-1-21-1,,sars1236-1,21,èkádēē tɬìkʼ é mītāā,èkádēē tɬìkʼ é mītāā,[],,[],,False,False,,1
+sars1236-1-22-1,,sars1236-1,22,èkádēē tɬìkʼ ē mītāā,èkádēē tɬìkʼ ē mītāā,[],,[],,False,False,,1
+sars1236-1-23-1,,sars1236-1,23,èkádēē tá.kʼ ē mītāā,èkádēē tá.kʼ ē mītāā,[],,[],,False,False,,1
+sars1236-1-24-1,,sars1236-1,24,èkádēē díítšʼē mītāā,èkádēē díítšʼē mītāā,[],,[],,False,False,,1
+sars1236-1-25-1,,sars1236-1,25,èkádēē ɡúùtʼáá mītāā,èkádēē ɡúùtʼáá mītāā,[],,[],,False,False,,1
+sars1236-1-26-1,,sars1236-1,26,èkádēē ɡùstá mītāā,èkádēē ɡùstá mītāā,[],,[],,False,False,,1
+sars1236-1-27-1,,sars1236-1,27,èkádēē tšìšdíítšʼe mītāā,èkádēē tšìšdíítšʼe mītāā,[],,[],,False,False,,1
+sars1236-1-28-1,,sars1236-1,28,èkádēē tɬàšdíítšʼe mītāā,èkádēē tɬàšdíítšʼe mītāā,[],,[],,False,False,,1
+sars1236-1-29-1,,sars1236-1,29,èkádēē tɬìkʼúyāwá mītāā,èkádēē tɬìkʼúyāwá mītāā,[],,[],,False,False,,1
+sars1236-1-30-1,,sars1236-1,30,tá.dēē,tá.dēē,[],( < tá.kʼē + dēē ),[],,False,False,,1
+sars1236-1-40-1,,sars1236-1,40,díítšdēē,díítšdēē,[],( < díítšʼē + dēē ),[],,False,False,,1
+sars1236-1-50-1,,sars1236-1,50,ɡúùtʼádēē,ɡúùtʼádēē,[],( < ɡúùtʼáá+ dēē ),[],,False,False,,1
+sars1236-1-60-1,,sars1236-1,60,ɡùstádēē,ɡùstádēē,[],( <ɡùstánē + dēē ),[],,False,False,,1
+sars1236-1-70-1,,sars1236-1,70,tšìšdíítšʼídēnē,tšìšdíítšʼídēnē,[],( <tšìšdíítšʼe + dēnē ),[],,False,False,,1
+sars1236-1-80-1,,sars1236-1,80,tɬàšdíítšʼēdēē,tɬàšdíítšʼēdēē,[],( <tɬàšdíítšʼē + dēē ),[],,False,False,,1
+sars1236-1-90-1,,sars1236-1,90,tɬìkʼúyāwádēnē,tɬìkʼúyāwádēnē,[],(<tɬìkʼúyāwá + dēnē),[],,False,False,,1
+sars1236-1-100-1,,sars1236-1,100,ɡūnèsnádēē,ɡūnèsnádēē,[],( < ɡūnèsnánē+ dēē),[],,False,False,,1
+sars1236-1-200-1,,sars1236-1,200,èkádē ɡūnèsnádēē,èkádē ɡūnèsnádēē,[],,[],,False,False,,1
+sars1236-1-1000-1,,sars1236-1,1000,tɬádé ɡūnèsnádá,tɬádé ɡūnèsnádá,[],,[],,False,False,,1
+sars1236-1-2000-1,,sars1236-1,2000,èkádē ɡūnèsnádá ??,èkádē ɡūnèsnádá ??,[],,[],,False,True,,1

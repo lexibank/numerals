@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mbun1249-1-1-1,,mbun1249-1,1,cimo,cimo,[],,[],,False,False,,1
+mbun1249-1-2-1,,mbun1249-1,2,vivali,vivali,[],,[],,False,False,,1
+mbun1249-1-3-1,,mbun1249-1,3,vitatu,vitatu,[],,[],,False,False,,1
+mbun1249-1-4-1,,mbun1249-1,4,viwana,viwana,[],,[],,False,False,,1
+mbun1249-1-5-1,,mbun1249-1,5,vitanu,vitanu,[],,[],,False,False,,1
+mbun1249-1-6-1,,mbun1249-1,6,vitanu na cimo,vitanu na cimo,[],( 5 + 1 ),[],,False,False,,1
+mbun1249-1-7-1,,mbun1249-1,7,vitanu na vivali,vitanu na vivali,[],( 5 + 2 ),[],,False,False,,1
+mbun1249-1-8-1,,mbun1249-1,8,vitanu na vitatu,vitanu na vitatu,[],( 5 + 3 ),[],,False,False,,1
+mbun1249-1-9-1,,mbun1249-1,9,vitanu na viwana,vitanu na viwana,[],( 5 + 4 ),[],,False,False,,1
+mbun1249-1-10-1,,mbun1249-1,10,likumi,likumi,[],,[],,False,False,,1
+mbun1249-1-11-1,,mbun1249-1,11,likumi na cimo,likumi na cimo,[],,[],,False,False,,1
+mbun1249-1-12-1,,mbun1249-1,12,likumi na vivali,likumi na vivali,[],,[],,False,False,,1
+mbun1249-1-13-1,,mbun1249-1,13,likumi na vitatu,likumi na vitatu,[],,[],,False,False,,1
+mbun1249-1-14-1,,mbun1249-1,14,likumi na viwana,likumi na viwana,[],,[],,False,False,,1
+mbun1249-1-15-1,,mbun1249-1,15,likumi na vitanu,likumi na vitanu,[],,[],,False,False,,1
+mbun1249-1-16-1,,mbun1249-1,16,likumi na vitanu na cimo,likumi na vitanu na cimo,[],,[],,False,False,,1
+mbun1249-1-17-1,,mbun1249-1,17,likumi na vitanu na vivali,likumi na vitanu na vivali,[],,[],,False,False,,1
+mbun1249-1-18-1,,mbun1249-1,18,likumi na vitanu na vitatu,likumi na vitanu na vitatu,[],,[],,False,False,,1
+mbun1249-1-19-1,,mbun1249-1,19,likumi na vitanu na viwana,likumi na vitanu na viwana,[],,[],,False,False,,1
+mbun1249-1-20-1,,mbun1249-1,20,makumi avali,makumi avali,[],,[],,False,False,,1
+mbun1249-1-21-1,,mbun1249-1,21,makumi avali na cimo,makumi avali na cimo,[],,[],,False,False,,1
+mbun1249-1-22-1,,mbun1249-1,22,makumi avali na vivali,makumi avali na vivali,[],,[],,False,False,,1
+mbun1249-1-23-1,,mbun1249-1,23,makumi avali na vitatu,makumi avali na vitatu,[],,[],,False,False,,1
+mbun1249-1-24-1,,mbun1249-1,24,makumi avali na viwana,makumi avali na viwana,[],,[],,False,False,,1
+mbun1249-1-25-1,,mbun1249-1,25,makumi avali na vitanu,makumi avali na vitanu,[],,[],,False,False,,1
+mbun1249-1-26-1,,mbun1249-1,26,makumi avali na vitanu na cimo,makumi avali na vitanu na cimo,[],,[],,False,False,,1
+mbun1249-1-27-1,,mbun1249-1,27,makumi avali na vitanu na vivali,makumi avali na vitanu na vivali,[],,[],,False,False,,1
+mbun1249-1-28-1,,mbun1249-1,28,makumi avali na vitanu na vitatu,makumi avali na vitanu na vitatu,[],,[],,False,False,,1
+mbun1249-1-29-1,,mbun1249-1,29,makumi avali na vitanu na viwana,makumi avali na vitanu na viwana,[],,[],,False,False,,1
+mbun1249-1-30-1,,mbun1249-1,30,makumi atatu,makumi atatu,[],,[],,False,False,,1
+mbun1249-1-40-1,,mbun1249-1,40,makumi awana,makumi awana,[],,[],,False,False,,1
+mbun1249-1-50-1,,mbun1249-1,50,makumi atanu,makumi atanu,[],,[],,False,False,,1
+mbun1249-1-60-1,,mbun1249-1,60,makumi atanu na limo,makumi atanu na limo,[],,[],,False,False,,1
+mbun1249-1-70-1,,mbun1249-1,70,makumi atanu na avali,makumi atanu na avali,[],,[],,False,False,,1
+mbun1249-1-80-1,,mbun1249-1,80,makumi atanu na atatu,makumi atanu na atatu,[],,[],,False,False,,1
+mbun1249-1-90-1,,mbun1249-1,90,makumi atanu na awana,makumi atanu na awana,[],,[],,False,False,,1
+mbun1249-1-100-1,,mbun1249-1,100,ciita,ciita,[],,[],,False,False,,1
+mbun1249-1-200-1,,mbun1249-1,200,ciita vivali,ciita vivali,[],,[],,False,False,,1
+mbun1249-1-1000-1,,mbun1249-1,1000,likulukazi,likulukazi,[],,[],,False,False,,1
+mbun1249-1-2000-1,,mbun1249-1,2000,kulukazi avali,kulukazi avali,[],,[],,False,False,,1

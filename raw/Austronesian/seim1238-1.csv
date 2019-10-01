@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+seim1238-1-1-1,,seim1238-1,1,tehu,tehu,[],,[],,False,False,,1
+seim1238-1-2-1,,seim1238-1,2,h:uohu,h:uohu,[],,[],,False,False,,1
+seim1238-1-3-1,,seim1238-1,3,toluhu,toluhu,[],,[],,False,False,,1
+seim1238-1-4-1,,seim1238-1,4,hinalo,hinalo,[],,[],,False,False,,1
+seim1238-1-5-1,,seim1238-1,5,tepanim,tepanim,[],(litː ''one hand''),[],,False,False,,1
+seim1238-1-6-1,,seim1238-1,6,tepanim tehu,tepanim tehu,[],,[],,False,False,,1
+seim1238-1-7-1,,seim1238-1,7,tepanim h:uohu,tepanim h:uohu,[],,[],,False,False,,1
+seim1238-1-8-1,,seim1238-1,8,tepanim toluhu,tepanim toluhu,[],,[],,False,False,,1
+seim1238-1-9-1,,seim1238-1,9,tepanim hinalo,tepanim hinalo,[],,[],,False,False,,1
+seim1238-1-10-1,,seim1238-1,10,h:uopanim,h:uopanim,[],( litː ''two hands'' ),[],,False,False,,1
+seim1238-1-11-1,,seim1238-1,11,h:uopanim tehu,h:uopanim tehu,[],,[],,False,False,,1
+seim1238-1-12-1,,seim1238-1,12,h:uopanim h:uohu,h:uopanim h:uohu,[],,[],,False,False,,1
+seim1238-1-13-1,,seim1238-1,13,h:uopanim toluhu,h:uopanim toluhu,[],,[],,False,False,,1
+seim1238-1-14-1,,seim1238-1,14,h:uopanimhinalo,h:uopanimhinalo,[],,[],,False,False,,1
+seim1238-1-15-1,,seim1238-1,15,tolupa,tolupa,[],( litː ''three hands'' ),[],,False,False,,1
+seim1238-1-16-1,,seim1238-1,16,tolupa tehu,tolupa tehu,[],,[],,False,False,,1
+seim1238-1-17-1,,seim1238-1,17,tolupa h:uhu,tolupa h:uhu,[],,[],,False,False,,1
+seim1238-1-18-1,,seim1238-1,18,tolupa toluhu,tolupa toluhu,[],,[],,False,False,,1
+seim1238-1-19-1,,seim1238-1,19,tolupa hinalo,tolupa hinalo,[],,[],,False,False,,1
+seim1238-1-20-1,,seim1238-1,20,seilon tel,seilon tel,[],( litː ''one man'' ),[],,False,False,,1
+seim1238-1-21-1,,seim1238-1,21,seilon tel tehu,seilon tel tehu,[],,[],,False,False,,1
+seim1238-1-22-1,,seim1238-1,22,seilon tel h:uohu,seilon tel h:uohu,[],,[],,False,False,,1
+seim1238-1-23-1,,seim1238-1,23,seilon tel toluhu,seilon tel toluhu,[],,[],,False,False,,1
+seim1238-1-24-1,,seim1238-1,24,seilon tel hinalo,seilon tel hinalo,[],,[],,False,False,,1
+seim1238-1-25-1,,seim1238-1,25,seilon tel tepanim,seilon tel tepanim,[],,[],,False,False,,1
+seim1238-1-26-1,,seim1238-1,26,seilon tel tepanim tehu,seilon tel tepanim tehu,[],,[],,False,False,,1
+seim1238-1-27-1,,seim1238-1,27,seilon tel tepanim h:uohu,seilon tel tepanim h:uohu,[],,[],,False,False,,1
+seim1238-1-28-1,,seim1238-1,28,seilon tel tepanim toluhu,seilon tel tepanim toluhu,[],,[],,False,False,,1
+seim1238-1-29-1,,seim1238-1,29,seilon tel tepanim hinalo,seilon tel tepanim hinalo,[],,[],,False,False,,1
+seim1238-1-30-1,,seim1238-1,30,seilon h:uopanim,seilon h:uopanim,[],,[],,False,False,,1
+seim1238-1-40-1,,seim1238-1,40,seilon h:uh:ua,seilon h:uh:ua,[],(lit: 'two people'),[],,False,False,,1
+seim1238-1-50-1,,seim1238-1,50,seilon h:uh:ua h:uopanim,seilon h:uh:ua h:uopanim,[],,[],,False,False,,1
+seim1238-1-60-1,,seim1238-1,60,seilon tolu,seilon tolu,[],(lit: 'three people'),[],,False,False,,1
+seim1238-1-70-1,,seim1238-1,70,seilon tolu h:uopanim,seilon tolu h:uopanim,[],,[],,False,False,,1
+seim1238-1-80-1,,seim1238-1,80,seilon hinalo,seilon hinalo,[],(lit: 'four people'),[],,False,False,,1
+seim1238-1-90-1,,seim1238-1,90,seilon hinalo h:uopanim,seilon hinalo h:uopanim,[],,[],,False,False,,1
+seim1238-1-100-1,,seim1238-1,100,seilon tepanim,seilon tepanim,[],(lit: 'five people'),[],,False,False,,1
+seim1238-1-200-1,,seim1238-1,200,seilon h:uopanim ?,seilon h:uopanim ?,[],,[],,False,True,,1
+seim1238-1-500-1,,seim1238-1,500,seilon hinalopanim tepanim ?,seilon hinalopanim tepanim ?,[],,[],,False,True,,1

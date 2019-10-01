@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+riri1237-1-1-1,,riri1237-1,1,kik,kik,[],,[],,False,False,,1
+riri1237-1-2-1,,riri1237-1,2,kér,kér,[],( é = IPA [ɛ]),[],,False,False,,1
+riri1237-1-3-1,,riri1237-1,3,pisa,pisa,[],,[],,False,False,,1
+riri1237-1-4-1,,riri1237-1,4,véc,véc,[],( c = IPA [ts]),[],,False,False,,1
+riri1237-1-5-1,,riri1237-1,5,lima,lima,[],,[],,False,False,,1
+riri1237-1-6-1,,riri1237-1,6,vónóm,vónóm,[],(ó = IPA [ɔ]),[],,False,False,,1
+riri1237-1-7-1,,riri1237-1,7,ziuc,ziuc,[],,[],,False,False,,1
+riri1237-1-8-1,,riri1237-1,8,zól,zól,[],,[],,False,False,,1
+riri1237-1-9-1,,riri1237-1,9,zia,zia,[],,[],,False,False,,1
+riri1237-1-10-1,,riri1237-1,10,manua,manua,[],,[],,False,False,,1
+riri1237-1-11-1,,riri1237-1,11,manua kik,manua kik,[],,[],,False,False,,1
+riri1237-1-12-1,,riri1237-1,12,manua kér,manua kér,[],,[],,False,False,,1
+riri1237-1-13-1,,riri1237-1,13,manua pisa,manua pisa,[],,[],,False,False,,1
+riri1237-1-14-1,,riri1237-1,14,manua véc,manua véc,[],,[],,False,False,,1
+riri1237-1-15-1,,riri1237-1,15,manua lima,manua lima,[],,[],,False,False,,1
+riri1237-1-16-1,,riri1237-1,16,manua vónóm,manua vónóm,[],,[],,False,False,,1
+riri1237-1-17-1,,riri1237-1,17,manua ziuc,manua ziuc,[],,[],,False,False,,1
+riri1237-1-18-1,,riri1237-1,18,manua zól,manua zól,[],,[],,False,False,,1
+riri1237-1-19-1,,riri1237-1,19,manua zia,manua zia,[],,[],,False,False,,1
+riri1237-1-20-1,,riri1237-1,20,karbet,karbet,[],,[],,False,False,,1
+riri1237-1-21-1,,riri1237-1,21,karbet kik,karbet kik,[],,[],,False,False,,1
+riri1237-1-22-1,,riri1237-1,22,karbet kér,karbet kér,[],,[],,False,False,,1
+riri1237-1-23-1,,riri1237-1,23,karbet pisa,karbet pisa,[],,[],,False,False,,1
+riri1237-1-24-1,,riri1237-1,24,karbet véc,karbet véc,[],,[],,False,False,,1
+riri1237-1-25-1,,riri1237-1,25,karbet lima,karbet lima,[],,[],,False,False,,1
+riri1237-1-26-1,,riri1237-1,26,karbet vónóm,karbet vónóm,[],,[],,False,False,,1
+riri1237-1-27-1,,riri1237-1,27,karbet ziuc,karbet ziuc,[],,[],,False,False,,1
+riri1237-1-28-1,,riri1237-1,28,karbet zól,karbet zól,[],,[],,False,False,,1
+riri1237-1-29-1,,riri1237-1,29,karbet zia,karbet zia,[],,[],,False,False,,1
+riri1237-1-30-1,,riri1237-1,30,pisa ñul,pisa ñul,[],( ñ = IPA [ŋ]),[],,False,False,,1
+riri1237-1-40-1,,riri1237-1,40,kér duik,kér duik,[],,[],,False,False,,1
+riri1237-1-50-1,,riri1237-1,50,nioq,nioq,[],( q = IPA [ŋɡ]),[],,False,False,,1
+riri1237-1-60-1,,riri1237-1,60,nioq manua,nioq manua,[],( 50 + 10 ),[],,False,False,,1
+riri1237-1-70-1,,riri1237-1,70,nioq karbet,nioq karbet,[],( 50 + 20 ),[],,False,False,,1
+riri1237-1-80-1,,riri1237-1,80,nioq pisa ñul,nioq pisa ñul,[],( 50 + 30 ),[],,False,False,,1
+riri1237-1-90-1,,riri1237-1,90,nioq kér duik,nioq kér duik,[],( 50 + 40 ),[],,False,False,,1
+riri1237-1-100-1,,riri1237-1,100,kik wuib,kik wuib,[],,[],,False,False,,1
+riri1237-1-200-1,,riri1237-1,200,kér wuib,kér wuib,[],,[],,False,False,,1
+riri1237-1-1000-1,,riri1237-1,1000,kik mó,kik mó,[],,[],,False,False,,1
+riri1237-1-100000-1,,riri1237-1,100000,wuib mó,wuib mó,[],,[],,False,False,,1

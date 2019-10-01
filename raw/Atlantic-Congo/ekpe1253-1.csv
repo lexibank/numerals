@@ -1,0 +1,24 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ekpe1253-1-1-1,,ekpe1253-1,1,nwùrnér,nwùrnér,[],,[],,False,False,,1
+ekpe1253-1-1-2,,ekpe1253-1,1,ŋìnɛ́,ŋìnɛ́,[],,[],,False,False,,1
+ekpe1253-1-2-1,,ekpe1253-1,2,ɓɨ̂bɔ́,ɓɨ̂bɔ́,[],(bh = IPA [ɓ]),[],,False,False,,1
+ekpe1253-1-3-1,,ekpe1253-1,3,ɓɨ́tɔ́,ɓɨ́tɔ́,[],( ir = IPA [ɨ]),[],,False,False,,1
+ekpe1253-1-4-1,,ekpe1253-1,4,ɓɨ́nɔ̂,ɓɨ́nɔ̂,[],(o̠r = IPA [ɔ]),[],,False,False,,1
+ekpe1253-1-5-1,,ekpe1253-1,5,ɓísê,ɓísê,[],,[],,False,False,,1
+ekpe1253-1-6-1,,ekpe1253-1,6,ɓísû,ɓísû,[],,[],,False,False,,1
+ekpe1253-1-7-1,,ekpe1253-1,7,ɓɨ́sábɔ̀,ɓɨ́sábɔ̀,[],,[],,False,False,,1
+ekpe1253-1-8-1,,ekpe1253-1,8,ɓɨ́sátɔ́,ɓɨ́sátɔ́,[],,[],,False,False,,1
+ekpe1253-1-9-1,,ekpe1253-1,9,ɓɨ́sánɔ̂ or nàzáma or nàzáma ɗi,ɓɨ́sánɔ̂ or nàzáma or nàzáma ɗi,[],,[],,False,True,,1
+ekpe1253-1-10-1,,ekpe1253-1,10,ɗì,ɗì,[],(dh = IPA [ɗ]),[],,False,False,,1
+ekpe1253-1-11-1,,ekpe1253-1,11,ɗì nwùrnér,ɗì nwùrnér,[],,[],,False,False,,1
+ekpe1253-1-15-1,,ekpe1253-1,15,ɗi ɓísê,ɗi ɓísê,[],,[],,False,False,,1
+ekpe1253-1-20-1,,ekpe1253-1,20,òóɡwu,òóɡwu,[],,[],,False,False,,1
+ekpe1253-1-30-1,,ekpe1253-1,30,òóɡwu lɨ̀ ɗì,òóɡwu lɨ̀ ɗì,[],[20+10],[],,False,False,,1
+ekpe1253-1-40-1,,ekpe1253-1,40,óɡwú ɨ́bɔ́,óɡwú ɨ́bɔ́,[],[20 x 2],[],,False,False,,1
+ekpe1253-1-50-1,,ekpe1253-1,50,óɡwú ɨ́bɔ́ lɨ̀ ɗi,óɡwú ɨ́bɔ́ lɨ̀ ɗi,[],,[],,False,False,,1
+ekpe1253-1-60-1,,ekpe1253-1,60,óɡwú ɨ́tɔ́,óɡwú ɨ́tɔ́,[],[20 x 3],[],,False,False,,1
+ekpe1253-1-70-1,,ekpe1253-1,70,óɡwú ɨ́tɔ́ lɨ̀ ɗi,óɡwú ɨ́tɔ́ lɨ̀ ɗi,[],,[],,False,False,,1
+ekpe1253-1-80-1,,ekpe1253-1,80,óɡwú ɨ́nɔ̂,óɡwú ɨ́nɔ̂,[],[20 x 4],[],,False,False,,1
+ekpe1253-1-90-1,,ekpe1253-1,90,óɡwú ɨ́nɔ̂ lɨ̀ ɗi,óɡwú ɨ́nɔ̂ lɨ̀ ɗi,[],,[],,False,False,,1
+ekpe1253-1-100-1,,ekpe1253-1,100,óɡwú ísê,óɡwú ísê,[],[20 x 5],[],,False,False,,1
+ekpe1253-1-200-1,,ekpe1253-1,200,ɗi óɡwu,ɗi óɡwu,[],[20 x 10],[],,False,False,,1

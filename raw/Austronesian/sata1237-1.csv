@@ -1,0 +1,59 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sata1237-1-1-1,,sata1237-1,1,eot,eot,[],,[],,False,False,,1
+sata1237-1-1-2,,sata1237-1,1,eota,eota,[],,[],,False,False,,1
+sata1237-1-1-3,,sata1237-1,1,ew,ew,[],,[],,False,False,,1
+sata1237-1-2-1,,sata1237-1,2,riuw,riuw,[],,[],,False,False,,1
+sata1237-1-2-2,,sata1237-1,2,riuwa,riuwa,[],,[],,False,False,,1
+sata1237-1-2-3,,sata1237-1,2,ruouw,ruouw,[],,[],,False,False,,1
+sata1237-1-3-1,,sata1237-1,3,eon,eon,[],,[],,False,False,,1
+sata1237-1-3-2,,sata1237-1,3,eoniu,eoniu,[],,[],,False,False,,1
+sata1237-1-3-3,,sata1237-1,3,eniuw,eniuw,[],,[],,False,False,,1
+sata1237-1-4-1,,sata1237-1,4,faen,faen,[],,[],,False,False,,1
+sata1237-1-4-2,,sata1237-1,4,faeni,faeni,[],,[],,False,False,,1
+sata1237-1-4-3,,sata1237-1,4,fauw,fauw,[],,[],,False,False,,1
+sata1237-1-5-1,,sata1237-1,5,nim,nim,[],,[],,False,False,,1
+sata1237-1-5-2,,sata1237-1,5,nima,nima,[],,[],,False,False,,1
+sata1237-1-5-3,,sata1237-1,5,nimouw,nimouw,[],,[],,False,False,,1
+sata1237-1-6-1,,sata1237-1,6,on,on,[],,[],,False,False,,1
+sata1237-1-6-2,,sata1237-1,6,wona,wona,[],,[],,False,False,,1
+sata1237-1-6-3,,sata1237-1,6,onouw,onouw,[],,[],,False,False,,1
+sata1237-1-7-1,,sata1237-1,7,fius,fius,[],,[],,False,False,,1
+sata1237-1-7-2,,sata1237-1,7,fiusa,fiusa,[],,[],,False,False,,1
+sata1237-1-7-3,,sata1237-1,7,fisuw,fisuw,[],,[],,False,False,,1
+sata1237-1-8-1,,sata1237-1,8,wan,wan,[],,[],,False,False,,1
+sata1237-1-8-2,,sata1237-1,8,waani,waani,[],,[],,False,False,,1
+sata1237-1-8-3,,sata1237-1,8,wanuw,wanuw,[],,[],,False,False,,1
+sata1237-1-9-1,,sata1237-1,9,tiw,tiw,[],,[],,False,False,,1
+sata1237-1-9-2,,sata1237-1,9,tiwa,tiwa,[],,[],,False,False,,1
+sata1237-1-9-3,,sata1237-1,9,tiwouw,tiwouw,[],,[],,False,False,,1
+sata1237-1-10-1,,sata1237-1,10,seik,seik,[],,[],,False,False,,1
+sata1237-1-11-1,,sata1237-1,11,seik me ew,seik me ew,[],,[],,False,False,,1
+sata1237-1-12-1,,sata1237-1,12,seik me ruouw,seik me ruouw,[],,[],,False,False,,1
+sata1237-1-13-1,,sata1237-1,13,seik me eniuw,seik me eniuw,[],,[],,False,False,,1
+sata1237-1-14-1,,sata1237-1,14,seik me fauw,seik me fauw,[],,[],,False,False,,1
+sata1237-1-15-1,,sata1237-1,15,seik me nimouw,seik me nimouw,[],,[],,False,False,,1
+sata1237-1-16-1,,sata1237-1,16,seik me onouw,seik me onouw,[],,[],,False,False,,1
+sata1237-1-17-1,,sata1237-1,17,seik me fisuw,seik me fisuw,[],,[],,False,False,,1
+sata1237-1-18-1,,sata1237-1,18,seik me wanuw,seik me wanuw,[],,[],,False,False,,1
+sata1237-1-19-1,,sata1237-1,19,seik me tiwouw,seik me tiwouw,[],,[],,False,False,,1
+sata1237-1-20-1,,sata1237-1,20,riuweiɡ,riuweiɡ,[],,[],,False,False,,1
+sata1237-1-21-1,,sata1237-1,21,riuweiɡ me ew,riuweiɡ me ew,[],,[],,False,False,,1
+sata1237-1-22-1,,sata1237-1,22,riuweiɡ me ruouw,riuweiɡ me ruouw,[],,[],,False,False,,1
+sata1237-1-23-1,,sata1237-1,23,riuweiɡ me eniuw,riuweiɡ me eniuw,[],,[],,False,False,,1
+sata1237-1-24-1,,sata1237-1,24,riuweiɡ me fauw,riuweiɡ me fauw,[],,[],,False,False,,1
+sata1237-1-25-1,,sata1237-1,25,riuweiɡ me nimouw,riuweiɡ me nimouw,[],,[],,False,False,,1
+sata1237-1-26-1,,sata1237-1,26,riuweiɡ me onouw,riuweiɡ me onouw,[],,[],,False,False,,1
+sata1237-1-27-1,,sata1237-1,27,riuweiɡ me fisuw,riuweiɡ me fisuw,[],,[],,False,False,,1
+sata1237-1-28-1,,sata1237-1,28,riuweiɡ me wanuw,riuweiɡ me wanuw,[],,[],,False,False,,1
+sata1237-1-29-1,,sata1237-1,29,riuweiɡ me tiwouw,riuweiɡ me tiwouw,[],,[],,False,False,,1
+sata1237-1-30-1,,sata1237-1,30,eniɡ,eniɡ,[],,[],,False,False,,1
+sata1237-1-40-1,,sata1237-1,40,faeiɡ,faeiɡ,[],,[],,False,False,,1
+sata1237-1-50-1,,sata1237-1,50,nimeiɡ,nimeiɡ,[],,[],,False,False,,1
+sata1237-1-60-1,,sata1237-1,60,oneiɡ,oneiɡ,[],,[],,False,False,,1
+sata1237-1-70-1,,sata1237-1,70,fisiɡ,fisiɡ,[],,[],,False,False,,1
+sata1237-1-80-1,,sata1237-1,80,waniɡ,waniɡ,[],,[],,False,False,,1
+sata1237-1-90-1,,sata1237-1,90,tiweiɡ,tiweiɡ,[],,[],,False,False,,1
+sata1237-1-100-1,,sata1237-1,100,epwiuɡiuw,epwiuɡiuw,[],,[],,False,False,,1
+sata1237-1-200-1,,sata1237-1,200,riuwapwiuɡiuw,riuwapwiuɡiuw,[],,[],,False,False,,1
+sata1237-1-1000-1,,sata1237-1,1000,saeŋeras,saeŋeras,[],,[],,False,False,,1
+sata1237-1-2000-1,,sata1237-1,2000,riuŋeras,riuŋeras,[],,[],,False,False,,1

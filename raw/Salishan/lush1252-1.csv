@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lush1252-1-1-1,,lush1252-1,1,dəčʼúʔ,dəčʼúʔ,[],,[],,False,False,,1
+lush1252-1-2-1,,lush1252-1,2,sáliʔ,sáliʔ,[],,[],,False,False,,1
+lush1252-1-3-1,,lush1252-1,3,ɬíxʷ,ɬíxʷ,[],,[],,False,False,,1
+lush1252-1-4-1,,lush1252-1,4,búus,búus,[],,[],,False,False,,1
+lush1252-1-5-1,,lush1252-1,5,cəlác,cəlác,[],,[],,False,False,,1
+lush1252-1-6-1,,lush1252-1,6,yəláʔ,yəláʔ,[],(Northern),[],,False,False,,1
+lush1252-1-6-2,,lush1252-1,6,dᶻəláčiʔ,dᶻəláčiʔ,[],(Southern),[],,False,False,,1
+lush1252-1-7-1,,lush1252-1,7,cʼúʔkʷs,cʼúʔkʷs,[],,[],,False,False,,1
+lush1252-1-8-1,,lush1252-1,8,təqáčiʔ,təqáčiʔ,[],,[],,False,False,,1
+lush1252-1-9-1,,lush1252-1,9,x̩ʷə́l,x̩ʷə́l,[],,[],,False,False,,1
+lush1252-1-9-2,,lush1252-1,9,x̌ʷə́l,x̌ʷə́l,[],,[],,False,False,,1
+lush1252-1-10-1,,lush1252-1,10,ʔúlub,ʔúlub,[],(Northern),[],,False,False,,1
+lush1252-1-10-2,,lush1252-1,10,pádəs,pádəs,[],(S.),[],,False,False,,1
+lush1252-1-11-1,,lush1252-1,11,ʔúlub ʔikʷi dčʼú?,ʔúlub ʔikʷi dčʼú?,[],,[],,False,True,,1
+lush1252-1-12-1,,lush1252-1,12,ʔúlub ʔi kʷi sáliʔ,ʔúlub ʔi kʷi sáliʔ,[],,[],,False,False,,1
+lush1252-1-13-1,,lush1252-1,13,ʔúlub ʔi kʷi ɬíxʷ,ʔúlub ʔi kʷi ɬíxʷ,[],,[],,False,False,,1
+lush1252-1-14-1,,lush1252-1,14,ʔúlub ʔi kʷi búus,ʔúlub ʔi kʷi búus,[],,[],,False,False,,1
+lush1252-1-15-1,,lush1252-1,15,ʔúlub ʔi kʷi cəlác,ʔúlub ʔi kʷi cəlác,[],,[],,False,False,,1
+lush1252-1-16-1,,lush1252-1,16,ʔúlub ʔi kʷi yəláʔ,ʔúlub ʔi kʷi yəláʔ,[],,[],,False,False,,1
+lush1252-1-17-1,,lush1252-1,17,ʔúlub ʔi kʷi cʼúʔkʷs,ʔúlub ʔi kʷi cʼúʔkʷs,[],,[],,False,False,,1
+lush1252-1-18-1,,lush1252-1,18,ʔúlub ʔi kʷi təqáčiʔ,ʔúlub ʔi kʷi təqáčiʔ,[],,[],,False,False,,1
+lush1252-1-19-1,,lush1252-1,19,ʔúlub ʔi kʷi x̌ʷə́l,ʔúlub ʔi kʷi x̌ʷə́l,[],,[],,False,False,,1
+lush1252-1-20-1,,lush1252-1,20,sáliʔačiʔ,sáliʔačiʔ,[],,[],,False,False,,1
+lush1252-1-21-1,,lush1252-1,21,sáliʔačiʔ ʔi kʷi dčúʔ,sáliʔačiʔ ʔi kʷi dčúʔ,[],,[],,False,False,,1
+lush1252-1-22-1,,lush1252-1,22,sáliʔačiʔ ʔi kʷi sáliʔ,sáliʔačiʔ ʔi kʷi sáliʔ,[],,[],,False,False,,1
+lush1252-1-23-1,,lush1252-1,23,sáliʔačiʔ ʔi kʷi ɬíxʷ,sáliʔačiʔ ʔi kʷi ɬíxʷ,[],,[],,False,False,,1
+lush1252-1-24-1,,lush1252-1,24,sáliʔačiʔ ʔi kʷi búus,sáliʔačiʔ ʔi kʷi búus,[],,[],,False,False,,1
+lush1252-1-25-1,,lush1252-1,25,sáliʔačiʔ ʔi kʷi cəlác,sáliʔačiʔ ʔi kʷi cəlác,[],,[],,False,False,,1
+lush1252-1-26-1,,lush1252-1,26,sáliʔačiʔ ʔi kʷi yəláʔ,sáliʔačiʔ ʔi kʷi yəláʔ,[],,[],,False,False,,1
+lush1252-1-27-1,,lush1252-1,27,sáliʔačiʔ ʔi kʷi cʼúʔkʷs,sáliʔačiʔ ʔi kʷi cʼúʔkʷs,[],,[],,False,False,,1
+lush1252-1-28-1,,lush1252-1,28,sáliʔačiʔ ʔi kʷi təqáčiʔ,sáliʔačiʔ ʔi kʷi təqáčiʔ,[],,[],,False,False,,1
+lush1252-1-29-1,,lush1252-1,29,sáliʔačiʔ ʔi kʷi x̌ʷə́l,sáliʔačiʔ ʔi kʷi x̌ʷə́l,[],,[],,False,False,,1
+lush1252-1-30-1,,lush1252-1,30,(s)ɬíxʷačiʔ,(s)ɬíxʷačiʔ,[],,[],,False,False,,1
+lush1252-1-40-1,,lush1252-1,40,sbúusàčiʔ,sbúusàčiʔ,[],,[],,False,False,,1
+lush1252-1-50-1,,lush1252-1,50,(s)cəlácačiʔ,(s)cəlácačiʔ,[],,[],,False,False,,1
+lush1252-1-60-1,,lush1252-1,60,yəlaʔcačiʔ,yəlaʔcačiʔ,[],( N.),[],,False,False,,1
+lush1252-1-60-2,,lush1252-1,60,dᶻəlačiʔači?,dᶻəlačiʔači?,[],(S.),[],,False,True,,1
+lush1252-1-70-1,,lush1252-1,70,cʼukʷsačiʔ,cʼukʷsačiʔ,[],,[],,False,False,,1
+lush1252-1-80-1,,lush1252-1,80,tqáčiʔačiʔ,tqáčiʔačiʔ,[],,[],,False,False,,1
+lush1252-1-80-2,,lush1252-1,80,təqáčiʔačiʔ,təqáčiʔačiʔ,[],,[],,False,False,,1
+lush1252-1-90-1,,lush1252-1,90,x̌ʷəlačiʔ,x̌ʷəlačiʔ,[],,[],,False,False,,1
+lush1252-1-100-1,,lush1252-1,100,dəčʼúʔ sbəkʼʷàčiʔ,dəčʼúʔ sbəkʼʷàčiʔ,[],,[],,False,False,,1
+lush1252-1-200-1,,lush1252-1,200,sáliʔ sbəkʼʷàčiʔ,sáliʔ sbəkʼʷàčiʔ,[],,[],,False,False,,1
+lush1252-1-1000-1,,lush1252-1,1000,ʔúlub sbəkʼʷàčiʔ,ʔúlub sbəkʼʷàčiʔ,[],(Northern dialect),[],,False,False,,1
+lush1252-1-2000-1,,lush1252-1,2000,sáliʔačiʔ sbəkʼʷàčiʔ,sáliʔačiʔ sbəkʼʷàčiʔ,[],( 20 x 100 ),[],,False,False,,1

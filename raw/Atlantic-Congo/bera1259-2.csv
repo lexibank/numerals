@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bera1259-2-1-1,,bera1259-2,1,nɡilini,nɡilini,[],,[],,False,False,,2
+bera1259-2-2-1,,bera1259-2,2,bali,bali,[],,[],,False,False,,2
+bera1259-2-3-1,,bera1259-2,3,salo,salo,[],,[],,False,False,,2
+bera1259-2-4-1,,bera1259-2,4,ini,ini,[],,[],,False,False,,2
+bera1259-2-5-1,,bera1259-2,5,tanu,tanu,[],( < Swahili ),[],,True,False,,2
+bera1259-2-6-1,,bera1259-2,6,sita,sita,[],( < Swahili ),[],,True,False,,2
+bera1259-2-7-1,,bera1259-2,7,saba,saba,[],( < Swahili ),[],,True,False,,2
+bera1259-2-8-1,,bera1259-2,8,munani,munani,[],( < Swahili ),[],,True,False,,2
+bera1259-2-9-1,,bera1259-2,9,tisa,tisa,[],( < Swahili ),[],,True,False,,2
+bera1259-2-10-1,,bera1259-2,10,kumi,kumi,[],,[],,False,False,,2
+bera1259-2-11-1,,bera1259-2,11,kumi na nɡilini,kumi na nɡilini,[],,[],,False,False,,2
+bera1259-2-12-1,,bera1259-2,12,kumi na bali,kumi na bali,[],,[],,False,False,,2
+bera1259-2-13-1,,bera1259-2,13,kumi na salo,kumi na salo,[],,[],,False,False,,2
+bera1259-2-14-1,,bera1259-2,14,kumi na ini,kumi na ini,[],,[],,False,False,,2
+bera1259-2-15-1,,bera1259-2,15,kumi na tanu,kumi na tanu,[],,[],,False,False,,2
+bera1259-2-16-1,,bera1259-2,16,kumi na sita,kumi na sita,[],,[],,False,False,,2
+bera1259-2-17-1,,bera1259-2,17,kumi na saba,kumi na saba,[],,[],,False,False,,2
+bera1259-2-18-1,,bera1259-2,18,kumi na munani,kumi na munani,[],,[],,False,False,,2
+bera1259-2-19-1,,bera1259-2,19,kumi na tisa,kumi na tisa,[],,[],,False,False,,2
+bera1259-2-20-1,,bera1259-2,20,makumi bali,makumi bali,[],,[],,False,False,,2
+bera1259-2-21-1,,bera1259-2,21,makumi bali nanɡilini,makumi bali nanɡilini,[],,[],,False,False,,2
+bera1259-2-22-1,,bera1259-2,22,makumi bali na bali,makumi bali na bali,[],,[],,False,False,,2
+bera1259-2-23-1,,bera1259-2,23,makumi bali na salo,makumi bali na salo,[],,[],,False,False,,2
+bera1259-2-24-1,,bera1259-2,24,makumi bali na ini,makumi bali na ini,[],,[],,False,False,,2
+bera1259-2-25-1,,bera1259-2,25,makumi bali na tanu,makumi bali na tanu,[],,[],,False,False,,2
+bera1259-2-26-1,,bera1259-2,26,makumi bali na sita,makumi bali na sita,[],,[],,False,False,,2
+bera1259-2-27-1,,bera1259-2,27,makumi bali na saba,makumi bali na saba,[],,[],,False,False,,2
+bera1259-2-28-1,,bera1259-2,28,makumi bali na munani,makumi bali na munani,[],,[],,False,False,,2
+bera1259-2-29-1,,bera1259-2,29,makumi bali na tisa,makumi bali na tisa,[],,[],,False,False,,2
+bera1259-2-30-1,,bera1259-2,30,makumi salo,makumi salo,[],,[],,False,False,,2
+bera1259-2-40-1,,bera1259-2,40,makumi ini,makumi ini,[],,[],,False,False,,2
+bera1259-2-50-1,,bera1259-2,50,makumi tanu,makumi tanu,[],,[],,False,False,,2
+bera1259-2-60-1,,bera1259-2,60,makumi sita,makumi sita,[],,[],,False,False,,2
+bera1259-2-70-1,,bera1259-2,70,makumi saba,makumi saba,[],,[],,False,False,,2
+bera1259-2-80-1,,bera1259-2,80,makumi munani,makumi munani,[],,[],,False,False,,2
+bera1259-2-90-1,,bera1259-2,90,makumi tisa,makumi tisa,[],,[],,False,False,,2
+bera1259-2-100-1,,bera1259-2,100,miya nɡilini,miya nɡilini,[],( 'miya' < Swahili ),[],,True,False,,2
+bera1259-2-200-1,,bera1259-2,200,miya bali,miya bali,[],,[],,False,False,,2
+bera1259-2-1000-1,,bera1259-2,1000,elfu nɡilini,elfu nɡilini,[],( 'elfu' < Swahili ),[],,True,False,,2
+bera1259-2-2000-1,,bera1259-2,2000,elfu bali,elfu bali,[],,[],,False,False,,2

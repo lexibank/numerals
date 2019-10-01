@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mini1251-1-1-1,,mini1251-1,1,tikai,tikai,[],,[],,False,False,,1
+mini1251-1-2-1,,mini1251-1,2,a uruə,a uruə,[],,[],,False,False,,1
+mini1251-1-3-1,,mini1251-1,3,a utulu,a utulu,[],,[],,False,False,,1
+mini1251-1-4-1,,mini1251-1,4,a ivati,a ivati,[],,[],,False,False,,1
+mini1251-1-5-1,,mini1251-1,5,a ilimə,a ilimə,[],,[],,False,False,,1
+mini1251-1-6-1,,mini1251-1,6,a ləptikai,a ləptikai,[],( 5 + 1 ),[],,False,False,,1
+mini1251-1-7-1,,mini1251-1,7,a ləvauruə,a ləvauruə,[],( 5 + 2 ),[],,False,False,,1
+mini1251-1-8-1,,mini1251-1,8,a ləvautul,a ləvautul,[],( 5 + 3 ),[],,False,False,,1
+mini1251-1-9-1,,mini1251-1,9,a ləvəivat,a ləvəivat,[],( 5 + 4 ),[],,False,False,,1
+mini1251-1-10-1,,mini1251-1,10,a vinunu,a vinunu,[],,[],,False,False,,1
+mini1251-1-11-1,,mini1251-1,11,a vinunu mə tikai,a vinunu mə tikai,[],,[],,False,False,,1
+mini1251-1-12-1,,mini1251-1,12,a vinunu mə a uruə,a vinunu mə a uruə,[],,[],,False,False,,1
+mini1251-1-13-1,,mini1251-1,13,a vinunu mə a utulu,a vinunu mə a utulu,[],,[],,False,False,,1
+mini1251-1-14-1,,mini1251-1,14,a vinunu mə a ivati,a vinunu mə a ivati,[],,[],,False,False,,1
+mini1251-1-15-1,,mini1251-1,15,a vinunu mə a ilimə,a vinunu mə a ilimə,[],,[],,False,False,,1
+mini1251-1-16-1,,mini1251-1,16,a vinunu mə ləptikai,a vinunu mə ləptikai,[],,[],,False,False,,1
+mini1251-1-17-1,,mini1251-1,17,a vinunu mə ləvauruə,a vinunu mə ləvauruə,[],,[],,False,False,,1
+mini1251-1-18-1,,mini1251-1,18,a vinunu mə ləvautul,a vinunu mə ləvautul,[],,[],,False,False,,1
+mini1251-1-19-1,,mini1251-1,19,a vinunu mə ləvəivat,a vinunu mə ləvəivat,[],,[],,False,False,,1
+mini1251-1-20-1,,mini1251-1,20,a ura vinunu,a ura vinunu,[],,[],,False,False,,1
+mini1251-1-21-1,,mini1251-1,21,a ura vinunu mə tikai,a ura vinunu mə tikai,[],,[],,False,False,,1
+mini1251-1-22-1,,mini1251-1,22,a ura vinunu mə a uruə,a ura vinunu mə a uruə,[],,[],,False,False,,1
+mini1251-1-23-1,,mini1251-1,23,a ura vinunu mə a utulu,a ura vinunu mə a utulu,[],,[],,False,False,,1
+mini1251-1-24-1,,mini1251-1,24,a ura vinunu mə a ivati,a ura vinunu mə a ivati,[],,[],,False,False,,1
+mini1251-1-25-1,,mini1251-1,25,a ura vinunu mə a ilimə,a ura vinunu mə a ilimə,[],,[],,False,False,,1
+mini1251-1-26-1,,mini1251-1,26,a ura vinunu mə ləptikai,a ura vinunu mə ləptikai,[],,[],,False,False,,1
+mini1251-1-27-1,,mini1251-1,27,a ura vinunu mə ləvauruə,a ura vinunu mə ləvauruə,[],,[],,False,False,,1
+mini1251-1-28-1,,mini1251-1,28,a ura vinunu mə ləvautul,a ura vinunu mə ləvautul,[],,[],,False,False,,1
+mini1251-1-29-1,,mini1251-1,29,a ura vinunu mə ləvəivat,a ura vinunu mə ləvəivat,[],,[],,False,False,,1
+mini1251-1-30-1,,mini1251-1,30,a uravinunu,a uravinunu,[],,[],,False,False,,1
+mini1251-1-40-1,,mini1251-1,40,a ivətnavinunu,a ivətnavinunu,[],,[],,False,False,,1
+mini1251-1-50-1,,mini1251-1,50,a ilimənavinunu,a ilimənavinunu,[],,[],,False,False,,1
+mini1251-1-60-1,,mini1251-1,60,a ləptikənavinunu,a ləptikənavinunu,[],,[],,False,False,,1
+mini1251-1-70-1,,mini1251-1,70,a ləvauruənavinunu,a ləvauruənavinunu,[],,[],,False,False,,1
+mini1251-1-80-1,,mini1251-1,80,a ləvutulnavinunu,a ləvutulnavinunu,[],,[],,False,False,,1
+mini1251-1-90-1,,mini1251-1,90,a levuvanavinunu,a levuvanavinunu,[],,[],,False,False,,1
+mini1251-1-100-1,,mini1251-1,100,a mari,a mari,[],,[],,False,False,,1
+mini1251-1-200-1,,mini1251-1,200,a ra mari,a ra mari,[],,[],,False,False,,1
+mini1251-1-1000-1,,mini1251-1,1000,a rip,a rip,[],,[],,False,False,,1
+mini1251-1-2000-1,,mini1251-1,2000,a ura rip,a ura rip,[],,[],,False,False,,1

@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bine1240-2-1-1,,bine1240-2,1,yepa,yepa,[],,[],,False,False,,2
+bine1240-2-2-1,,bine1240-2,2,neneni,neneni,[],,[],,False,False,,2
+bine1240-2-3-1,,bine1240-2,3,nesae,nesae,[],,[],,False,False,,2
+bine1240-2-4-1,,bine1240-2,4,neneni neneni,neneni neneni,[],,[],,False,False,,2
+bine1240-2-5-1,,bine1240-2,5,ime ɡube nɡalu,ime ɡube nɡalu,[],(lit: my hand all'),[],,False,False,,2
+bine1240-2-6-1,,bine1240-2,6,ime ɡube nɡalu yepa or nesae nesae,ime ɡube nɡalu yepa or nesae nesae,[],,[],,False,True,,2
+bine1240-2-7-1,,bine1240-2,7,ime ɡube nɡalu neneni or nesae nesae yepa,ime ɡube nɡalu neneni or nesae nesae yepa,[],,[],,False,True,,2
+bine1240-2-8-1,,bine1240-2,8,ime ɡube nɡalu nesae or nesae nesae neneni,ime ɡube nɡalu nesae or nesae nesae neneni,[],,[],,False,True,,2
+bine1240-2-9-1,,bine1240-2,9,ime ɡube nɡalu neneni,ime ɡube nɡalu neneni,[],,[],,False,False,,2
+bine1240-2-10-1,,bine1240-2,10,nenei ime ɡube nɡalu,nenei ime ɡube nɡalu,[],(lit: 'two my hands all'),[],,False,False,,2

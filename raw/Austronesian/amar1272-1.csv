@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+amar1272-1-1-1,,amar1272-1,1,kapuk,kapuk,[],,[],,False,False,,1
+amar1272-1-2-1,,amar1272-1,2,ruo,ruo,[],,[],,False,False,,1
+amar1272-1-3-1,,amar1272-1,3,tel,tel,[],,[],,False,False,,1
+amar1272-1-4-1,,amar1272-1,4,paŋ,paŋ,[],,[],,False,False,,1
+amar1272-1-5-1,,amar1272-1,5,lume,lume,[],,[],,False,False,,1
+amar1272-1-6-1,,amar1272-1,6,lume kapuk,lume kapuk,[],( 5 + 1 ),[],,False,False,,1
+amar1272-1-7-1,,amar1272-1,7,lume ruo,lume ruo,[],( 5 + 2 ),[],,False,False,,1
+amar1272-1-8-1,,amar1272-1,8,lume tel,lume tel,[],( 5 + 3 ),[],,False,False,,1
+amar1272-1-9-1,,amar1272-1,9,lume paŋ,lume paŋ,[],( 5 + 4 ),[],,False,False,,1
+amar1272-1-10-1,,amar1272-1,10,soŋoul,soŋoul,[],,[],,False,False,,1
+amar1272-1-11-1,,amar1272-1,11,soŋoul kapuk,soŋoul kapuk,[],,[],,False,False,,1
+amar1272-1-12-1,,amar1272-1,12,soŋoul ruo,soŋoul ruo,[],,[],,False,False,,1
+amar1272-1-13-1,,amar1272-1,13,soŋoul tel,soŋoul tel,[],,[],,False,False,,1
+amar1272-1-14-1,,amar1272-1,14,soŋoul paŋ,soŋoul paŋ,[],,[],,False,False,,1
+amar1272-1-15-1,,amar1272-1,15,soŋoul lume,soŋoul lume,[],,[],,False,False,,1
+amar1272-1-16-1,,amar1272-1,16,soŋoul lume kapuk,soŋoul lume kapuk,[],,[],,False,False,,1
+amar1272-1-17-1,,amar1272-1,17,soŋoul luma ruo,soŋoul luma ruo,[],,[],,False,False,,1
+amar1272-1-18-1,,amar1272-1,18,soŋoul luma tel,soŋoul luma tel,[],,[],,False,False,,1
+amar1272-1-19-1,,amar1272-1,19,soŋoul luma paŋ,soŋoul luma paŋ,[],,[],,False,False,,1
+amar1272-1-20-1,,amar1272-1,20,suŋuruo,suŋuruo,[],,[],,False,False,,1
+amar1272-1-21-1,,amar1272-1,21,suŋuruo kapuk,suŋuruo kapuk,[],,[],,False,False,,1
+amar1272-1-22-1,,amar1272-1,22,suŋuruo ruo,suŋuruo ruo,[],,[],,False,False,,1
+amar1272-1-23-1,,amar1272-1,23,suŋuruo tel,suŋuruo tel,[],,[],,False,False,,1
+amar1272-1-24-1,,amar1272-1,24,suŋuruo paŋ,suŋuruo paŋ,[],,[],,False,False,,1
+amar1272-1-25-1,,amar1272-1,25,suŋuruo lume,suŋuruo lume,[],,[],,False,False,,1
+amar1272-1-26-1,,amar1272-1,26,suŋuruo lume kapuk,suŋuruo lume kapuk,[],,[],,False,False,,1
+amar1272-1-27-1,,amar1272-1,27,suŋuruo lume ruo,suŋuruo lume ruo,[],,[],,False,False,,1
+amar1272-1-28-1,,amar1272-1,28,suŋuruo lume tel,suŋuruo lume tel,[],,[],,False,False,,1
+amar1272-1-29-1,,amar1272-1,29,suŋuruo lume paŋ,suŋuruo lume paŋ,[],,[],,False,False,,1
+amar1272-1-30-1,,amar1272-1,30,suŋtelio,suŋtelio,[],,[],,False,False,,1
+amar1272-1-40-1,,amar1272-1,40,silpaŋio,silpaŋio,[],,[],,False,False,,1
+amar1272-1-50-1,,amar1272-1,50,siŋilme,siŋilme,[],,[],,False,False,,1
+amar1272-1-60-1,,amar1272-1,60,siŋilme soŋoul,siŋilme soŋoul,[],( 50 + 10 ),[],,False,False,,1
+amar1272-1-70-1,,amar1272-1,70,siŋilme suŋuruo,siŋilme suŋuruo,[],( 50 + 20 ),[],,False,False,,1
+amar1272-1-80-1,,amar1272-1,80,siŋilme suŋtelio,siŋilme suŋtelio,[],( 50 + 30 ),[],,False,False,,1
+amar1272-1-90-1,,amar1272-1,90,siŋilme silpaŋio,siŋilme silpaŋio,[],( 50 + 40 ),[],,False,False,,1
+amar1272-1-100-1,,amar1272-1,100,kuvusŋe,kuvusŋe,[],,[],,False,False,,1
+amar1272-1-200-1,,amar1272-1,200,kuvusŋe ruo,kuvusŋe ruo,[],,[],,False,False,,1

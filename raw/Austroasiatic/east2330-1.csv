@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+east2330-1-1-1,,east2330-1,1,teˀ,teˀ,[],,[],,False,False,,1
+east2330-1-2-1,,east2330-1,2,laʔa,laʔa,[],,[],,False,False,,1
+east2330-1-3-1,,east2330-1,3,laʔɔi,laʔɔi,[],,[],,False,False,,1
+east2330-1-4-1,,east2330-1,4,paɨŋ (creaky) pa̰ɨŋ < v̰ >,paɨŋ (creaky) pa̰ɨŋ < v̰ >,[],,[],,False,True,,1
+east2330-1-5-1,,east2330-1,5,pʰuan,pʰuan,[],,[],,False,False,,1
+east2330-1-6-1,,east2330-1,6,leh,leh,[],,[],,False,False,,1
+east2330-1-7-1,,east2330-1,7,ˀa leh,ˀa leh,[],,[],,False,False,,1
+east2330-1-8-1,,east2330-1,8,sa teˀ,sa teˀ,[],,[],,False,False,,1
+east2330-1-9-1,,east2330-1,9,sa taɨɲ,sa taɨɲ,[],,[],,False,False,,1
+east2330-1-10-1,,east2330-1,10,kua,kua,[],,[],,False,False,,1
+east2330-1-11-1,,east2330-1,11,kua laʔteˀ,kua laʔteˀ,[],,[],,False,False,,1
+east2330-1-12-1,,east2330-1,12,kua laʔa,kua laʔa,[],,[],,False,False,,1
+east2330-1-13-1,,east2330-1,13,kua laʔɔi,kua laʔɔi,[],,[],,False,False,,1
+east2330-1-14-1,,east2330-1,14,kua raʔpa̰ɨŋ,kua raʔpa̰ɨŋ,[],,[],,False,False,,1
+east2330-1-15-1,,east2330-1,15,kua raʔpʰuan,kua raʔpʰuan,[],,[],,False,False,,1
+east2330-1-16-1,,east2330-1,16,kua laleh,kua laleh,[],,[],,False,False,,1
+east2330-1-17-1,,east2330-1,17,kua laʔ ˀa leh,kua laʔ ˀa leh,[],,[],,False,False,,1
+east2330-1-18-1,,east2330-1,18,kua sataiˀ,kua sataiˀ,[],,[],,False,False,,1
+east2330-1-19-1,,east2330-1,19,kua si taɨɲ,kua si taɨɲ,[],,[],,False,False,,1
+east2330-1-20-1,,east2330-1,20,ŋa,ŋa,[],,[],,False,False,,1
+east2330-1-21-1,,east2330-1,21,ŋa la teˀ,ŋa la teˀ,[],,[],,False,False,,1
+east2330-1-22-1,,east2330-1,22,ŋa laʔa,ŋa laʔa,[],,[],,False,False,,1
+east2330-1-23-1,,east2330-1,23,ŋa laʔɔi,ŋa laʔɔi,[],,[],,False,False,,1
+east2330-1-24-1,,east2330-1,24,ŋa raʔ pa̰ɨŋ,ŋa raʔ pa̰ɨŋ,[],,[],,False,False,,1
+east2330-1-25-1,,east2330-1,25,ŋa raʔ pʰuan,ŋa raʔ pʰuan,[],,[],,False,False,,1
+east2330-1-26-1,,east2330-1,26,ŋa la aʔ leh,ŋa la aʔ leh,[],,[],,False,False,,1
+east2330-1-27-1,,east2330-1,27,ŋa la ˀa leh,ŋa la ˀa leh,[],,[],,False,False,,1
+east2330-1-28-1,,east2330-1,28,ŋa sataiˀ,ŋa sataiˀ,[],,[],,False,False,,1
+east2330-1-29-1,,east2330-1,29,ŋa sataɨɲ,ŋa sataɨɲ,[],,[],,False,False,,1
+east2330-1-30-1,,east2330-1,30,ŋue,ŋue,[],,[],,False,False,,1
+east2330-1-30-2,,east2330-1,30,ŋuweʔ,ŋuweʔ,[],,[],,False,False,,1
+east2330-1-40-1,,east2330-1,40,raʔ pa̰ɨŋ,raʔ pa̰ɨŋ,[],,[],,False,False,,1
+east2330-1-50-1,,east2330-1,50,raʔ pʰuan,raʔ pʰuan,[],,[],,False,False,,1
+east2330-1-60-1,,east2330-1,60,laŋ kle,laŋ kle,[],,[],,False,False,,1
+east2330-1-70-1,,east2330-1,70,ˀaŋ kle,ˀaŋ kle,[],,[],,False,False,,1
+east2330-1-80-1,,east2330-1,80,raʔ taiʔ,raʔ taiʔ,[],,[],,False,False,,1
+east2330-1-90-1,,east2330-1,90,raʔ taɨɲ,raʔ taɨɲ,[],,[],,False,False,,1
+east2330-1-100-1,,east2330-1,100,tiʔ ajʉa,tiʔ ajʉa,[],,[],,False,False,,1
+east2330-1-200-1,,east2330-1,200,laʔ ajʉa,laʔ ajʉa,[],,[],,False,False,,1
+east2330-1-1000-1,,east2330-1,1000,tiʔ pʰʉan,tiʔ pʰʉan,[],( pʰʉan < Tai ),[],,True,False,,1
+east2330-1-2000-1,,east2330-1,2000,laʔa pʰʉan,laʔa pʰʉan,[],,[],,False,False,,1

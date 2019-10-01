@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nort2943-2-1-1,,nort2943-2,1,atausiq,atausiq,[],,[],,False,False,,2
+nort2943-2-2-1,,nort2943-2,2,malʁuk,malʁuk,[],,[],,False,False,,2
+nort2943-2-3-1,,nort2943-2,3,piŋasut,piŋasut,[],,[],,False,False,,2
+nort2943-2-4-1,,nort2943-2,4,sisamat,sisamat,[],,[],,False,False,,2
+nort2943-2-5-1,,nort2943-2,5,tallimat,tallimat,[],,[],,False,False,,2
+nort2943-2-6-1,,nort2943-2,6,iččakřaq,iččakřaq,[],,[],,False,False,,2
+nort2943-2-7-1,,nort2943-2,7,tallimat malʁuk,tallimat malʁuk,[],( plus two ?),[],,False,False,,2
+nort2943-2-8-1,,nort2943-2,8,tallimat piŋasut,tallimat piŋasut,[],( plus three ?),[],,False,False,,2
+nort2943-2-9-1,,nort2943-2,9,quliŋŋ̩uʁutailʲaq,quliŋŋ̩uʁutailʲaq,[],( ten minus one ? ),[],,False,False,,2
+nort2943-2-10-1,,nort2943-2,10,qulit,qulit,[],,[],,False,False,,2
+nort2943-2-11-1,,nort2943-2,11,qulit atausiq,qulit atausiq,[],,[],,False,False,,2
+nort2943-2-12-1,,nort2943-2,12,qulit malɡ̩uk,qulit malɡ̩uk,[],,[],,False,False,,2
+nort2943-2-13-1,,nort2943-2,13,qulit piŋajun,qulit piŋajun,[],,[],,False,False,,2
+nort2943-2-14-1,,nort2943-2,14,akimaʁutailʲaq,akimaʁutailʲaq,[],( 15 - 1 ),[],,False,False,,2
+nort2943-2-15-1,,nort2943-2,15,akimaq,akimaq,[],,[],,False,False,,2
+nort2943-2-16-1,,nort2943-2,16,akimaq atausiq,akimaq atausiq,[],(15+ 1),[],,False,False,,2
+nort2943-2-17-1,,nort2943-2,17,akimaq malʁuk,akimaq malʁuk,[],,[],,False,False,,2
+nort2943-2-18-1,,nort2943-2,18,akimaq piŋasut,akimaq piŋasut,[],,[],,False,False,,2
+nort2943-2-19-1,,nort2943-2,19,iñuiññaʁutailʲaq,iñuiññaʁutailʲaq,[],( 20 - 1 ) ?,[],,False,False,,2
+nort2943-2-20-1,,nort2943-2,20,iñuiññaq,iñuiññaq,[],,[],,False,False,,2
+nort2943-2-21-1,,nort2943-2,21,iñuiññaq atausiq,iñuiññaq atausiq,[],,[],,False,False,,2
+nort2943-2-22-1,,nort2943-2,22,iñuiññaq malʁuk,iñuiññaq malʁuk,[],,[],,False,False,,2
+nort2943-2-23-1,,nort2943-2,23,iñuiññaq piŋasut,iñuiññaq piŋasut,[],,[],,False,False,,2
+nort2943-2-24-1,,nort2943-2,24,iñuiññaq sisamat,iñuiññaq sisamat,[],,[],,False,False,,2
+nort2943-2-25-1,,nort2943-2,25,iñuiññaq tallimat,iñuiññaq tallimat,[],,[],,False,False,,2
+nort2943-2-26-1,,nort2943-2,26,iñuiññaq iččakřaq,iñuiññaq iččakřaq,[],,[],,False,False,,2
+nort2943-2-27-1,,nort2943-2,27,iñuiññaq tallimat malʁuk,iñuiññaq tallimat malʁuk,[],,[],,False,False,,2
+nort2943-2-28-1,,nort2943-2,28,iñuiññaq tallimat piŋasut,iñuiññaq tallimat piŋasut,[],,[],,False,False,,2
+nort2943-2-29-1,,nort2943-2,29,iñuiññaq quliŋŋ̩uʁutailʲaq,iñuiññaq quliŋŋ̩uʁutailʲaq,[],( 30 - 1 ) ?,[],,False,False,,2
+nort2943-2-30-1,,nort2943-2,30,iñuiññaq qulit,iñuiññaq qulit,[],( 20 + 10 ),[],,False,False,,2
+nort2943-2-40-1,,nort2943-2,40,malʁukipiaq,malʁukipiaq,[],( 2 x 20 ),[],,False,False,,2
+nort2943-2-50-1,,nort2943-2,50,malʁukipiaq qulit,malʁukipiaq qulit,[],,[],,False,False,,2
+nort2943-2-60-1,,nort2943-2,60,piŋasukipiaq,piŋasukipiaq,[],( 3 x 20 ),[],,False,False,,2
+nort2943-2-70-1,,nort2943-2,70,piŋasukipiaq qulit,piŋasukipiaq qulit,[],,[],,False,False,,2
+nort2943-2-80-1,,nort2943-2,80,sisamakipiaq,sisamakipiaq,[],( 4 x 20 ),[],,False,False,,2
+nort2943-2-90-1,,nort2943-2,90,sisamakipiaq qulit,sisamakipiaq qulit,[],,[],,False,False,,2
+nort2943-2-100-1,,nort2943-2,100,tallimakipiaq,tallimakipiaq,[],( 5 x 20 ),[],,False,False,,2
+nort2943-2-200-1,,nort2943-2,200,qulikpiaq,qulikpiaq,[],,[],,False,False,,2

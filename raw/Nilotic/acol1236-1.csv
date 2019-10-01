@@ -1,0 +1,32 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+acol1236-1-1-1,,acol1236-1,1,àcíèl,àcíèl,[],,[],,False,False,,1
+acol1236-1-2-1,,acol1236-1,2,àríò,àríò,[],,[],,False,False,,1
+acol1236-1-3-1,,acol1236-1,3,àdék,àdék,[],,[],,False,False,,1
+acol1236-1-4-1,,acol1236-1,4,àŋwɛ̂n,àŋwɛ̂n,[],,[],,False,False,,1
+acol1236-1-5-1,,acol1236-1,5,àbîc,àbîc,[],,[],,False,False,,1
+acol1236-1-6-1,,acol1236-1,6,àbícíèl,àbícíèl,[],( 5+ 1 ),[],,False,False,,1
+acol1236-1-7-1,,acol1236-1,7,àbíìrɔ́,àbíìrɔ́,[],( 5+ 2 ),[],,False,False,,1
+acol1236-1-8-1,,acol1236-1,8,àboôrà,àboôrà,[],( 5+ 3 ),[],,False,False,,1
+acol1236-1-9-1,,acol1236-1,9,àbúŋwɛ́n,àbúŋwɛ́n,[],( 5+ 4 ),[],,False,False,,1
+acol1236-1-10-1,,acol1236-1,10,àpáàr,àpáàr,[],,[],,False,False,,1
+acol1236-1-11-1,,acol1236-1,11,àpáàr wí àcíèl,àpáàr wí àcíèl,[],,[],,False,False,,1
+acol1236-1-12-1,,acol1236-1,12,àpáàr wí àríò,àpáàr wí àríò,[],,[],,False,False,,1
+acol1236-1-13-1,,acol1236-1,13,àpáàr wí àdék,àpáàr wí àdék,[],,[],,False,False,,1
+acol1236-1-14-1,,acol1236-1,14,àpáàr wí àŋwɛ̂n,àpáàr wí àŋwɛ̂n,[],,[],,False,False,,1
+acol1236-1-15-1,,acol1236-1,15,àpáàr wí àbîc,àpáàr wí àbîc,[],,[],,False,False,,1
+acol1236-1-16-1,,acol1236-1,16,àpáàr wí àbícíèl,àpáàr wí àbícíèl,[],,[],,False,False,,1
+acol1236-1-17-1,,acol1236-1,17,àpáàr wí àbíìrɔ́,àpáàr wí àbíìrɔ́,[],,[],,False,False,,1
+acol1236-1-18-1,,acol1236-1,18,àpáàr wí àboôrà,àpáàr wí àboôrà,[],,[],,False,False,,1
+acol1236-1-19-1,,acol1236-1,19,àpáàr wí àbúŋwɛ́n,àpáàr wí àbúŋwɛ́n,[],,[],,False,False,,1
+acol1236-1-20-1,,acol1236-1,20,píèr àríò,píèr àríò,[],,[],,False,False,,1
+acol1236-1-21-1,,acol1236-1,21,píèr àríò wí àcíèl,píèr àríò wí àcíèl,[],,[],,False,False,,1
+acol1236-1-30-1,,acol1236-1,30,píèr àdék,píèr àdék,[],,[],,False,False,,1
+acol1236-1-40-1,,acol1236-1,40,píèr àŋwɛ̂n,píèr àŋwɛ̂n,[],,[],,False,False,,1
+acol1236-1-50-1,,acol1236-1,50,píèr àbîc,píèr àbîc,[],,[],,False,False,,1
+acol1236-1-60-1,,acol1236-1,60,píèr àbícíèl,píèr àbícíèl,[],,[],,False,False,,1
+acol1236-1-70-1,,acol1236-1,70,píèr àbíìrɔ́,píèr àbíìrɔ́,[],,[],,False,False,,1
+acol1236-1-80-1,,acol1236-1,80,píèr àboôrà,píèr àboôrà,[],,[],,False,False,,1
+acol1236-1-90-1,,acol1236-1,90,píèr àbúŋwɛ́n,píèr àbúŋwɛ́n,[],,[],,False,False,,1
+acol1236-1-100-1,,acol1236-1,100,míyá,míyá,[],( < Swahili / Arabic ),[],,True,False,,1
+acol1236-1-200-1,,acol1236-1,200,míyá àríò,míyá àríò,[],,[],,False,False,,1
+acol1236-1-1000-1,,acol1236-1,1000,élípàcíèl,élípàcíèl,[],( < Swahili / Arabic ),[],,True,False,,1

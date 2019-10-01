@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kash1280-2-1-1,,kash1280-2,1,ku,ku,[],( a bound form cʼ ),[],,False,False,,2
+kash1280-2-2-1,,kash1280-2,2,qʰoˑ,qʰoˑ,[],,[],,False,False,,2
+kash1280-2-3-1,,kash1280-2,3,sibo,sibo,[],,[],,False,False,,2
+kash1280-2-4-1,,kash1280-2,4,minca,minca,[],,[],,False,False,,2
+kash1280-2-5-1,,kash1280-2,5,t̩uhšo,t̩uhšo,[],,[],,False,False,,2
+kash1280-2-6-1,,kash1280-2,6,lanhcʼa,lanhcʼa,[],(litː 'lanh'+caʼ ''one''),[],,False,False,,2
+kash1280-2-7-1,,kash1280-2,7,lanhkʰo,lanhkʰo,[],( litː ''lanh'+qʰoˑ'two''),[],,False,False,,2
+kash1280-2-8-1,,kash1280-2,8,kʰomhca,kʰomhca,[],( litː ''two-four''),[],,False,False,,2
+kash1280-2-9-1,,kash1280-2,9,cʼaʔcʰo,cʼaʔcʰo,[],( cʼa ''one'' + ʔcʰo ''without'' ),[],,False,False,,2
+kash1280-2-10-1,,kash1280-2,10,cʼa šot̩ʼo,cʼa šot̩ʼo,[],,[],,False,False,,2
+kash1280-2-11-1,,kash1280-2,11,náˑncʼa,náˑncʼa,[],[litː ''one on (ten) ],[],,False,False,,2
+kash1280-2-12-1,,kash1280-2,12,náˑqʰo,náˑqʰo,[],[litː ''two on (ten) ],[],,False,False,,2
+kash1280-2-13-1,,kash1280-2,13,náˑsibo,náˑsibo,[],[litː ''three on (ten) ],[],,False,False,,2
+kash1280-2-14-1,,kash1280-2,14,simhma šon,simhma šon,[],( 15 - 1),[],,False,False,,2
+kash1280-2-15-1,,kash1280-2,15,simhma,simhma,[],,[],,False,False,,2
+kash1280-2-16-1,,kash1280-2,16,simhma náˑncʼa,simhma náˑncʼa,[],( ''one on 15'' ),[],,False,False,,2
+kash1280-2-17-1,,kash1280-2,17,simhma náˑqʰo,simhma náˑqʰo,[],( ''two on 15'' ),[],,False,False,,2
+kash1280-2-18-1,,kash1280-2,18,simhma náˑsibo,simhma náˑsibo,[],( ''three on 15''),[],,False,False,,2
+kash1280-2-19-1,,kash1280-2,19,camhma šon,camhma šon,[],( 20 - 1 ),[],,False,False,,2
+kash1280-2-20-1,,kash1280-2,20,camhma,camhma,[],,[],,False,False,,2
+kash1280-2-21-1,,kash1280-2,21,camhma náˑncʼa,camhma náˑncʼa,[],,[],,False,False,,2
+kash1280-2-22-1,,kash1280-2,22,camhma náˑqʰo,camhma náˑqʰo,[],,[],,False,False,,2
+kash1280-2-23-1,,kash1280-2,23,camhma náˑsibo,camhma náˑsibo,[],,[],,False,False,,2
+kash1280-2-24-1,,kash1280-2,24,t̩uhšómhma šon,t̩uhšómhma šon,[],,[],,False,False,,2
+kash1280-2-25-1,,kash1280-2,25,t̩uhšómhma,t̩uhšómhma,[],,[],,False,False,,2
+kash1280-2-30-1,,kash1280-2,30,lanhcʼamhma,lanhcʼamhma,[],,[],,False,False,,2
+kash1280-2-40-1,,kash1280-2,40,kuhay,kuhay,[],( ''one stick'' ),[],,False,False,,2
+kash1280-2-50-1,,kash1280-2,50,šot̩ʼómhma,šot̩ʼómhma,[],,[],,False,False,,2
+kash1280-2-60-1,,kash1280-2,60,simákʰcidu,simákʰcidu,[],,[],,False,False,,2
+kash1280-2-80-1,,kash1280-2,80,qʰohay,qʰohay,[],( ''two sticks'' ),[],,False,False,,2
+kash1280-2-100-1,,kash1280-2,100,séˑntu,séˑntu,[],( < Spanish ''ciento''),[],,True,False,,2
+kash1280-2-1000-1,,kash1280-2,1000,míˑl,míˑl,[],( < Spanish ''mil''),[],,True,False,,2

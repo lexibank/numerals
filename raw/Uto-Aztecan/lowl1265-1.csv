@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lowl1265-1-1-1,,lowl1265-1,1,bilé,bilé,[],,[],,False,False,,1
+lowl1265-1-2-1,,lowl1265-1,2,okuá,okuá,[],,[],,False,False,,1
+lowl1265-1-3-1,,lowl1265-1,3,bakiá,bakiá,[],,[],,False,False,,1
+lowl1265-1-4-1,,lowl1265-1,4,naó,naó,[],,[],,False,False,,1
+lowl1265-1-5-1,,lowl1265-1,5,malí,malí,[],,[],,False,False,,1
+lowl1265-1-6-1,,lowl1265-1,6,usáni,usáni,[],,[],,False,False,,1
+lowl1265-1-7-1,,lowl1265-1,7,kicháo,kicháo,[],,[],,False,False,,1
+lowl1265-1-8-1,,lowl1265-1,8,osá naó,osá naó,[],( 2 x 4 ) ?,[],,False,False,,1
+lowl1265-1-9-1,,lowl1265-1,9,kímakói,kímakói,[],( 10 - 1 ) ?,[],,False,False,,1
+lowl1265-1-10-1,,lowl1265-1,10,makói,makói,[],,[],,False,False,,1
+lowl1265-1-11-1,,lowl1265-1,11,makói (miná) bilé,makói (miná) bilé,[],,[],,False,False,,1
+lowl1265-1-12-1,,lowl1265-1,12,makói (miná) bakiá,makói (miná) bakiá,[],,[],,False,False,,1
+lowl1265-1-13-1,,lowl1265-1,13,makói (miná) naó,makói (miná) naó,[],,[],,False,False,,1
+lowl1265-1-14-1,,lowl1265-1,14,makói (miná) malí,makói (miná) malí,[],,[],,False,False,,1
+lowl1265-1-15-1,,lowl1265-1,15,makói (miná) usáni,makói (miná) usáni,[],,[],,False,False,,1
+lowl1265-1-16-1,,lowl1265-1,16,makói (miná) kicháo,makói (miná) kicháo,[],,[],,False,False,,1
+lowl1265-1-17-1,,lowl1265-1,17,makói (miná) osá naó,makói (miná) osá naó,[],,[],,False,False,,1
+lowl1265-1-18-1,,lowl1265-1,18,makói (miná) kímakói,makói (miná) kímakói,[],,[],,False,False,,1
+lowl1265-1-19-1,,lowl1265-1,19,makói,makói,[],(miná),[],,False,False,,1
+lowl1265-1-20-1,,lowl1265-1,20,osá makói,osá makói,[],,[],,False,False,,1
+lowl1265-1-21-1,,lowl1265-1,21,osá makói (miná) bilé,osá makói (miná) bilé,[],,[],,False,False,,1
+lowl1265-1-22-1,,lowl1265-1,22,osá makói (miná) okuá,osá makói (miná) okuá,[],,[],,False,False,,1
+lowl1265-1-23-1,,lowl1265-1,23,osá makói (miná) bakiá,osá makói (miná) bakiá,[],,[],,False,False,,1
+lowl1265-1-24-1,,lowl1265-1,24,osá makói (miná) naó,osá makói (miná) naó,[],,[],,False,False,,1
+lowl1265-1-25-1,,lowl1265-1,25,osá makói (miná) malí,osá makói (miná) malí,[],,[],,False,False,,1
+lowl1265-1-26-1,,lowl1265-1,26,osá makói (miná) usáni,osá makói (miná) usáni,[],,[],,False,False,,1
+lowl1265-1-27-1,,lowl1265-1,27,osá makói (miná) kicháo,osá makói (miná) kicháo,[],,[],,False,False,,1
+lowl1265-1-28-1,,lowl1265-1,28,osá makói (miná) osá naó,osá makói (miná) osá naó,[],,[],,False,False,,1
+lowl1265-1-29-1,,lowl1265-1,29,osá makói (miná) kímakói,osá makói (miná) kímakói,[],,[],,False,False,,1
+lowl1265-1-30-1,,lowl1265-1,30,bakiá makói,bakiá makói,[],,[],,False,False,,1
+lowl1265-1-40-1,,lowl1265-1,40,naó makói,naó makói,[],,[],,False,False,,1
+lowl1265-1-50-1,,lowl1265-1,50,malí makói,malí makói,[],,[],,False,False,,1
+lowl1265-1-60-1,,lowl1265-1,60,usáni makói,usáni makói,[],,[],,False,False,,1
+lowl1265-1-70-1,,lowl1265-1,70,kicháo makói,kicháo makói,[],,[],,False,False,,1
+lowl1265-1-80-1,,lowl1265-1,80,osá naó makói,osá naó makói,[],,[],,False,False,,1
+lowl1265-1-90-1,,lowl1265-1,90,kímakói makói,kímakói makói,[],,[],,False,False,,1
+lowl1265-1-100-1,,lowl1265-1,100,bilé siénto,bilé siénto,[],( siénto < Spanish ),[],,True,False,,1
+lowl1265-1-200-1,,lowl1265-1,200,okuá siénto,okuá siénto,[],,[],,False,False,,1
+lowl1265-1-1000-1,,lowl1265-1,1000,bilé milé,bilé milé,[],( milé < < Spanish ),[],,True,False,,1
+lowl1265-1-2000-1,,lowl1265-1,2000,okuá milé,okuá milé,[],,[],,False,False,,1

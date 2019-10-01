@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+leng1258-1-1-1,,leng1258-1,1,temoyi,temoyi,[],,[],,False,False,,1
+leng1258-1-2-1,,leng1258-1,2,tabivili,tabivili,[],,[],,False,False,,1
+leng1258-1-3-1,,leng1258-1,3,tabisaso,tabisaso,[],,[],,False,False,,1
+leng1258-1-4-1,,leng1258-1,4,tabinayi,tabinayi,[],,[],,False,False,,1
+leng1258-1-5-1,,leng1258-1,5,tifvu,tifvu,[],,[],,False,False,,1
+leng1258-1-6-1,,leng1258-1,6,tifvu na mwandala,tifvu na mwandala,[],( 5 + 1 ),[],,False,False,,1
+leng1258-1-7-1,,leng1258-1,7,tifvu na bandala tabavhili,tifvu na bandala tabavhili,[],( 5 + 2 ),[],,False,False,,1
+leng1258-1-8-1,,leng1258-1,8,tifvu na bandala tabisaso,tifvu na bandala tabisaso,[],( 5 + 3 ),[],,False,False,,1
+leng1258-1-9-1,,leng1258-1,9,tifvu na bandala tabinayi,tifvu na bandala tabinayi,[],( 5 + 4 ),[],,False,False,,1
+leng1258-1-10-1,,leng1258-1,10,taɓu,taɓu,[],,[],,False,False,,1
+leng1258-1-11-1,,leng1258-1,11,taɓu na bomoyi,taɓu na bomoyi,[],,[],,False,False,,1
+leng1258-1-12-1,,leng1258-1,12,taɓu na bivili,taɓu na bivili,[],,[],,False,False,,1
+leng1258-1-13-1,,leng1258-1,13,taɓu na bisaso,taɓu na bisaso,[],,[],,False,False,,1
+leng1258-1-14-1,,leng1258-1,14,taɓu na binayi,taɓu na binayi,[],,[],,False,False,,1
+leng1258-1-15-1,,leng1258-1,15,taɓu na bifvu,taɓu na bifvu,[],,[],,False,False,,1
+leng1258-1-16-1,,leng1258-1,16,taɓu na mwandala,taɓu na mwandala,[],,[],,False,False,,1
+leng1258-1-17-1,,leng1258-1,17,taɓu na bandala tabavhili,taɓu na bandala tabavhili,[],,[],,False,False,,1
+leng1258-1-18-1,,leng1258-1,18,taɓu na bandala tabisaso,taɓu na bandala tabisaso,[],,[],,False,False,,1
+leng1258-1-19-1,,leng1258-1,19,taɓu na bandala tabinayi,taɓu na bandala tabinayi,[],,[],,False,False,,1
+leng1258-1-20-1,,leng1258-1,20,mitukhu tamivili,mitukhu tamivili,[],,[],,False,False,,1
+leng1258-1-21-1,,leng1258-1,21,mitukhu tamivili na emoyi,mitukhu tamivili na emoyi,[],,[],,False,False,,1
+leng1258-1-22-1,,leng1258-1,22,mitukhu tamivili na mivili,mitukhu tamivili na mivili,[],,[],,False,False,,1
+leng1258-1-23-1,,leng1258-1,23,mitukhu tamivili na misaso,mitukhu tamivili na misaso,[],,[],,False,False,,1
+leng1258-1-24-1,,leng1258-1,24,mitukhu tamivili na minayi,mitukhu tamivili na minayi,[],,[],,False,False,,1
+leng1258-1-25-1,,leng1258-1,25,mitukhu tifvu nifvu,mitukhu tifvu nifvu,[],,[],,False,False,,1
+leng1258-1-26-1,,leng1258-1,26,mitukhu tamivili na mwandala,mitukhu tamivili na mwandala,[],,[],,False,False,,1
+leng1258-1-27-1,,leng1258-1,27,mitukhu tamivili na bandala tabavhili,mitukhu tamivili na bandala tabavhili,[],,[],,False,False,,1
+leng1258-1-28-1,,leng1258-1,28,mitukhu tamivili na bandala tabisaso,mitukhu tamivili na bandala tabisaso,[],,[],,False,False,,1
+leng1258-1-29-1,,leng1258-1,29,mitukhu tamivili na bandala tabinayi,mitukhu tamivili na bandala tabinayi,[],,[],,False,False,,1
+leng1258-1-30-1,,leng1258-1,30,mitukhu tamisaso,mitukhu tamisaso,[],,[],,False,False,,1
+leng1258-1-40-1,,leng1258-1,40,mitukhu taminayi,mitukhu taminayi,[],,[],,False,False,,1
+leng1258-1-50-1,,leng1258-1,50,mitukhu tifvu,mitukhu tifvu,[],,[],,False,False,,1
+leng1258-1-60-1,,leng1258-1,60,mitukhu tifvu na mwandala,mitukhu tifvu na mwandala,[],,[],,False,False,,1
+leng1258-1-70-1,,leng1258-1,70,mitukhu tifvu na bandala tabavhili,mitukhu tifvu na bandala tabavhili,[],,[],,False,False,,1
+leng1258-1-80-1,,leng1258-1,80,mitukhu tifvu na bandala tabisaso,mitukhu tifvu na bandala tabisaso,[],,[],,False,False,,1
+leng1258-1-90-1,,leng1258-1,90,mitukhu tifvu na bandala tabinayi,mitukhu tifvu na bandala tabinayi,[],,[],,False,False,,1
+leng1258-1-100-1,,leng1258-1,100,nkama tomoyi,nkama tomoyi,[],,[],,False,False,,1
+leng1258-1-100-2,,leng1258-1,100,miya temoyi,miya temoyi,[],,[],,False,False,,1
+leng1258-1-200-1,,leng1258-1,200,mikama tamivili,mikama tamivili,[],,[],,False,False,,1
+leng1258-1-1000-1,,leng1258-1,1000,losambale,losambale,[],,[],,False,False,,1
+leng1258-1-1000-2,,leng1258-1,1000,elefu,elefu,[],( < Swahili ),[],,True,False,,1
+leng1258-1-2000-1,,leng1258-1,2000,misambel ta mivili,misambel ta mivili,[],,[],,False,False,,1
+leng1258-1-2000-2,,leng1258-1,2000,elefu tipili,elefu tipili,[],,[],,False,False,,1

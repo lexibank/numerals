@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+cakf1236-1-1-1,,cakf1236-1,1,kume,kume,[],,[],,False,False,,1
+cakf1236-1-2-1,,cakf1236-1,2,vel,vel,[],,[],,False,False,,1
+cakf1236-1-3-1,,cakf1236-1,3,kun,kun,[],,[],,False,False,,1
+cakf1236-1-4-1,,cakf1236-1,4,feer,feer,[],,[],,False,False,,1
+cakf1236-1-5-1,,cakf1236-1,5,paat,paat,[],,[],,False,False,,1
+cakf1236-1-6-1,,cakf1236-1,6,peemee,peemee,[],( 5+ 1 ),[],,False,False,,1
+cakf1236-1-7-1,,cakf1236-1,7,feermeekum,feermeekum,[],( 4+ 3 ) ??,[],,False,False,,1
+cakf1236-1-8-1,,cakf1236-1,8,feertiit,feertiit,[],( 4 x 2 ) ??,[],,False,False,,1
+cakf1236-1-9-1,,cakf1236-1,9,paatmeefeer,paatmeefeer,[],( 5+ 4 ),[],,False,False,,1
+cakf1236-1-10-1,,cakf1236-1,10,kakapaat,kakapaat,[],( 5 x 2 ) ??,[],,False,False,,1
+cakf1236-1-11-1,,cakf1236-1,11,kakapaat mba kume,kakapaat mba kume,[],,[],,False,False,,1
+cakf1236-1-12-1,,cakf1236-1,12,kakapaat mba vel,kakapaat mba vel,[],,[],,False,False,,1
+cakf1236-1-13-1,,cakf1236-1,13,kakapaat mba kun,kakapaat mba kun,[],,[],,False,False,,1
+cakf1236-1-14-1,,cakf1236-1,14,kakapaat mba feer,kakapaat mba feer,[],,[],,False,False,,1
+cakf1236-1-15-1,,cakf1236-1,15,kakapaat mba paat,kakapaat mba paat,[],,[],,False,False,,1
+cakf1236-1-16-1,,cakf1236-1,16,kakapaat mba peemee,kakapaat mba peemee,[],,[],,False,False,,1
+cakf1236-1-17-1,,cakf1236-1,17,kakapaat mba feermeekum,kakapaat mba feermeekum,[],,[],,False,False,,1
+cakf1236-1-18-1,,cakf1236-1,18,kakapaat mba feertiit,kakapaat mba feertiit,[],,[],,False,False,,1
+cakf1236-1-19-1,,cakf1236-1,19,kakapaat mba paatmeefeer,kakapaat mba paatmeefeer,[],,[],,False,False,,1
+cakf1236-1-20-1,,cakf1236-1,20,terepsar vel,terepsar vel,[],,[],,False,False,,1
+cakf1236-1-21-1,,cakf1236-1,21,terepsar vel mba kume,terepsar vel mba kume,[],,[],,False,False,,1
+cakf1236-1-22-1,,cakf1236-1,22,terepsar vel vel,terepsar vel vel,[],,[],,False,False,,1
+cakf1236-1-23-1,,cakf1236-1,23,terepsar vel kun,terepsar vel kun,[],,[],,False,False,,1
+cakf1236-1-24-1,,cakf1236-1,24,terepsar vel feer,terepsar vel feer,[],,[],,False,False,,1
+cakf1236-1-25-1,,cakf1236-1,25,terepsar vel paat,terepsar vel paat,[],,[],,False,False,,1
+cakf1236-1-26-1,,cakf1236-1,26,terepsar vel peemee,terepsar vel peemee,[],,[],,False,False,,1
+cakf1236-1-27-1,,cakf1236-1,27,terepsar vel feermeekum,terepsar vel feermeekum,[],,[],,False,False,,1
+cakf1236-1-28-1,,cakf1236-1,28,terepsar vel feertiit,terepsar vel feertiit,[],,[],,False,False,,1
+cakf1236-1-29-1,,cakf1236-1,29,terepsar vel paatmeefeer,terepsar vel paatmeefeer,[],,[],,False,False,,1
+cakf1236-1-30-1,,cakf1236-1,30,terepsar kun,terepsar kun,[],,[],,False,False,,1
+cakf1236-1-40-1,,cakf1236-1,40,terepsar vel,terepsar vel,[],,[],,False,False,,1
+cakf1236-1-50-1,,cakf1236-1,50,terepsar paat,terepsar paat,[],,[],,False,False,,1
+cakf1236-1-60-1,,cakf1236-1,60,terepsar peemee,terepsar peemee,[],,[],,False,False,,1
+cakf1236-1-70-1,,cakf1236-1,70,terepsar feermeekum,terepsar feermeekum,[],,[],,False,False,,1
+cakf1236-1-80-1,,cakf1236-1,80,terepsar feertiit,terepsar feertiit,[],,[],,False,False,,1
+cakf1236-1-90-1,,cakf1236-1,90,terepsar paatmeefeer,terepsar paatmeefeer,[],,[],,False,False,,1
+cakf1236-1-100-1,,cakf1236-1,100,terepsar kakapaat,terepsar kakapaat,[],,[],,False,False,,1
+cakf1236-1-200-1,,cakf1236-1,200,terepsar kakapaat vel ??,terepsar kakapaat vel ??,[],,[],,False,True,,1
+cakf1236-1-1000-1,,cakf1236-1,1000,daam,daam,[],,[],,False,False,,1
+cakf1236-1-2000-1,,cakf1236-1,2000,daam vel ??,daam vel ??,[],,[],,False,True,,1

@@ -1,0 +1,17 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+igna1246-1-1-1,,igna1246-1,1,eta-,eta-,[],,[],,False,False,,1
+igna1246-1-2-1,,igna1246-1,2,api-,api-,[],,[],,False,False,,1
+igna1246-1-3-1,,igna1246-1,3,mapa-,mapa-,[],,[],,False,False,,1
+igna1246-1-4-1,,igna1246-1,4,from four up from Spanish numerals with phonological adaptations,from four up from Spanish numerals with phonological adaptations,[],,[],,False,True,,1
+igna1246-1-20-1,,igna1246-1,20,veinte,veinte,[],,[],,False,False,,1
+igna1246-1-20-2,,igna1246-1,20,30. tereneinata,30. tereneinata,[],,[],,False,True,,1
+igna1246-1-20-3,,igna1246-1,20,40. kuarenta,40. kuarenta,[],,[],,False,True,,1
+igna1246-1-20-4,,igna1246-1,20,50. sincuenta,50. sincuenta,[],,[],,False,True,,1
+igna1246-1-60-1,,igna1246-1,60,sesenta,sesenta,[],,[],,False,False,,1
+igna1246-1-60-2,,igna1246-1,60,70. seteneta,70. seteneta,[],,[],,False,True,,1
+igna1246-1-60-3,,igna1246-1,60,80.utʃeneta,80.utʃeneta,[],,[],,False,True,,1
+igna1246-1-60-4,,igna1246-1,60,nuveneta,nuveneta,[],,[],,False,False,,1
+igna1246-1-100-1,,igna1246-1,100,entana sientu,entana sientu,[],( Ignaciano + Spanish ),[],,False,False,,1
+igna1246-1-200-1,,igna1246-1,200,apina sientu,apina sientu,[],( Ignaciano + Spanish ),[],,False,False,,1
+igna1246-1-1000-1,,igna1246-1,1000,entana mili,entana mili,[],( Ignaciano + Spanish ),[],,False,False,,1
+igna1246-1-2000-1,,igna1246-1,2000,apina mili,apina mili,[],( Ignaciano + Spanish ),[],,False,False,,1

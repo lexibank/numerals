@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+jang1254-1-1-1,,jang1254-1,1,it,it,[],,[],,False,False,,1
+jang1254-1-2-1,,jang1254-1,2,niɕ,niɕ,[],,[],,False,False,,1
+jang1254-1-3-1,,jang1254-1,3,hʊm,hʊm,[],,[],,False,False,,1
+jang1254-1-4-1,,jang1254-1,4,pɨ,pɨ,[],,[],,False,False,,1
+jang1254-1-5-1,,jang1254-1,5,ŋa,ŋa,[],,[],,False,False,,1
+jang1254-1-6-1,,jang1254-1,6,ʈu,ʈu,[],,[],,False,False,,1
+jang1254-1-7-1,,jang1254-1,7,ɕiɕ,ɕiɕ,[],,[],,False,False,,1
+jang1254-1-8-1,,jang1254-1,8,ɡjɛt,ɡjɛt,[],,[],,False,False,,1
+jang1254-1-9-1,,jang1254-1,9,ɡu,ɡu,[],,[],,False,False,,1
+jang1254-1-10-1,,jang1254-1,10,tɕui,tɕui,[],,[],,False,False,,1
+jang1254-1-11-1,,jang1254-1,11,tɕu it,tɕu it,[],,[],,False,False,,1
+jang1254-1-12-1,,jang1254-1,12,tɕu niɕ,tɕu niɕ,[],,[],,False,False,,1
+jang1254-1-13-1,,jang1254-1,13,tɕu hʊm,tɕu hʊm,[],,[],,False,False,,1
+jang1254-1-14-1,,jang1254-1,14,tɕu pɨ,tɕu pɨ,[],,[],,False,False,,1
+jang1254-1-15-1,,jang1254-1,15,tɕu ŋa,tɕu ŋa,[],,[],,False,False,,1
+jang1254-1-16-1,,jang1254-1,16,tɕu ʈu,tɕu ʈu,[],,[],,False,False,,1
+jang1254-1-17-1,,jang1254-1,17,tɕu ɕiɕ,tɕu ɕiɕ,[],,[],,False,False,,1
+jang1254-1-18-1,,jang1254-1,18,tɕu ɡjɛt,tɕu ɡjɛt,[],,[],,False,False,,1
+jang1254-1-19-1,,jang1254-1,19,tɕur ɡu,tɕur ɡu,[],,[],,False,False,,1
+jang1254-1-20-1,,jang1254-1,20,nisa,nisa,[],,[],,False,False,,1
+jang1254-1-21-1,,jang1254-1,21,nisai it,nisai it,[],,[],,False,False,,1
+jang1254-1-22-1,,jang1254-1,22,nisai niɕ,nisai niɕ,[],,[],,False,False,,1
+jang1254-1-23-1,,jang1254-1,23,nisai hʊm,nisai hʊm,[],,[],,False,False,,1
+jang1254-1-24-1,,jang1254-1,24,nisai pɨ,nisai pɨ,[],,[],,False,False,,1
+jang1254-1-25-1,,jang1254-1,25,nisai ŋa,nisai ŋa,[],,[],,False,False,,1
+jang1254-1-26-1,,jang1254-1,26,nisai ʈu,nisai ʈu,[],,[],,False,False,,1
+jang1254-1-27-1,,jang1254-1,27,nisai ɕiɕ,nisai ɕiɕ,[],,[],,False,False,,1
+jang1254-1-28-1,,jang1254-1,28,nisai ɡjɛt,nisai ɡjɛt,[],,[],,False,False,,1
+jang1254-1-29-1,,jang1254-1,29,nisai ɡu,nisai ɡu,[],,[],,False,False,,1
+jang1254-1-30-1,,jang1254-1,30,nisai tɕui,nisai tɕui,[],( 20 + 10),[],,False,False,,1
+jang1254-1-40-1,,jang1254-1,40,niɕ nisa,niɕ nisa,[],(2 x 20 ),[],,False,False,,1
+jang1254-1-50-1,,jang1254-1,50,niɕ nisai tɕui,niɕ nisai tɕui,[],(2 x 20 + 10),[],,False,False,,1
+jang1254-1-60-1,,jang1254-1,60,hʊm nisa,hʊm nisa,[],( 3 x 20 ),[],,False,False,,1
+jang1254-1-70-1,,jang1254-1,70,hʊm nisai tɕui,hʊm nisai tɕui,[],( 3 x 20 + 10),[],,False,False,,1
+jang1254-1-80-1,,jang1254-1,80,pɨ nisa,pɨ nisa,[],( 4 x 20 ),[],,False,False,,1
+jang1254-1-90-1,,jang1254-1,90,pɨ nisa tɕui,pɨ nisa tɕui,[],( 4 x 20 + 10 ),[],,False,False,,1
+jang1254-1-100-1,,jang1254-1,100,ra,ra,[],,[],,False,False,,1
+jang1254-1-200-1,,jang1254-1,200,niɕ ra,niɕ ra,[],,[],,False,False,,1
+jang1254-1-1000-1,,jang1254-1,1000,tɕui ra (10 x 100) or hɐzar,tɕui ra (10 x 100) or hɐzar,[],,[],,False,True,,1
+jang1254-1-2000-1,,jang1254-1,2000,niɕ hɐzar,niɕ hɐzar,[],,[],,False,False,,1

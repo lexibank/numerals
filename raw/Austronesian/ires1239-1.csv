@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ires1239-1-1-1,,ires1239-1,1,kéete,kéete,[],,[],,False,False,,1
+ires1239-1-2-1,,ires1239-1,2,rúuhi,rúuhi,[],,[],,False,False,,1
+ires1239-1-3-1,,ires1239-1,3,kóorihe,kóorihe,[],,[],,False,False,,1
+ires1239-1-4-1,,ires1239-1,4,áakà,áakà,[],,[],,False,False,,1
+ires1239-1-5-1,,ires1239-1,5,ríìma,ríìma,[],,[],,False,False,,1
+ires1239-1-6-1,,ires1239-1,6,ríìma iŋkana kéete,ríìma iŋkana kéete,[],( 5 + 1),[],,False,False,,1
+ires1239-1-7-1,,ires1239-1,7,ríìma iŋkana rúuhi,ríìma iŋkana rúuhi,[],( 5 + 2),[],,False,False,,1
+ires1239-1-8-1,,ires1239-1,8,ríìma iŋkanakóorihe,ríìma iŋkanakóorihe,[],( 5 + 3),[],,False,False,,1
+ires1239-1-9-1,,ires1239-1,9,ríìma iŋkana áakà,ríìma iŋkana áakà,[],( 5 + 4),[],,False,False,,1
+ires1239-1-10-1,,ires1239-1,10,bàkí rúuhi,bàkí rúuhi,[],(litː '' two arms''),[],,False,False,,1
+ires1239-1-11-1,,ires1239-1,11,bàkí rúuhi iŋkana kéete,bàkí rúuhi iŋkana kéete,[],,[],,False,False,,1
+ires1239-1-12-1,,ires1239-1,12,bàkí rúuhi iŋkanarúuhi,bàkí rúuhi iŋkanarúuhi,[],,[],,False,False,,1
+ires1239-1-13-1,,ires1239-1,13,bàkí rúuhi iŋkanakóorihe,bàkí rúuhi iŋkanakóorihe,[],,[],,False,False,,1
+ires1239-1-14-1,,ires1239-1,14,bàkí rúuhi iŋkanaáakà,bàkí rúuhi iŋkanaáakà,[],,[],,False,False,,1
+ires1239-1-15-1,,ires1239-1,15,bàkí rúuhi iŋkanaríìma,bàkí rúuhi iŋkanaríìma,[],,[],,False,False,,1
+ires1239-1-16-1,,ires1239-1,16,bàkí rúuhi iŋkanaríìma iŋk. kéete,bàkí rúuhi iŋkanaríìma iŋk. kéete,[],,[],,False,True,,1
+ires1239-1-17-1,,ires1239-1,17,bàkí rúuhi iŋkanaríìma iŋk. rúuhi,bàkí rúuhi iŋkanaríìma iŋk. rúuhi,[],,[],,False,True,,1
+ires1239-1-18-1,,ires1239-1,18,bàkí rúuhi iŋkanaríìma iŋ. kóorihe,bàkí rúuhi iŋkanaríìma iŋ. kóorihe,[],,[],,False,True,,1
+ires1239-1-19-1,,ires1239-1,19,bàkí rúuhi iŋkanaríìma iŋk.áakà,bàkí rúuhi iŋkanaríìma iŋk.áakà,[],,[],,False,False,,1
+ires1239-1-20-1,,ires1239-1,20,hàŋkú kúukarà kéete,hàŋkú kúukarà kéete,[],,[],,False,False,,1
+ires1239-1-21-1,,ires1239-1,21,hàŋkú kúukarà kéete iŋkana kéete,hàŋkú kúukarà kéete iŋkana kéete,[],,[],,False,False,,1
+ires1239-1-22-1,,ires1239-1,22,hàŋkú kúukarà kéete iŋkana rúuhi,hàŋkú kúukarà kéete iŋkana rúuhi,[],,[],,False,False,,1
+ires1239-1-23-1,,ires1239-1,23,hàŋkú kúukarà kéete iŋkana kóorihe,hàŋkú kúukarà kéete iŋkana kóorihe,[],,[],,False,False,,1
+ires1239-1-24-1,,ires1239-1,24,hàŋkú kúukarà kéete iŋkana áakà,hàŋkú kúukarà kéete iŋkana áakà,[],,[],,False,False,,1
+ires1239-1-25-1,,ires1239-1,25,hàŋkú kúukarà kéete iŋkana ríìma,hàŋkú kúukarà kéete iŋkana ríìma,[],,[],,False,False,,1
+ires1239-1-26-1,,ires1239-1,26,hàŋkú kúukarà kéete iŋkana kéete,hàŋkú kúukarà kéete iŋkana kéete,[],,[],,False,False,,1
+ires1239-1-27-1,,ires1239-1,27,hàŋkú kúukarà kéete iŋkana rúuhi,hàŋkú kúukarà kéete iŋkana rúuhi,[],,[],,False,False,,1
+ires1239-1-28-1,,ires1239-1,28,hàŋkú kúukarà kéete iŋkana kóorihe,hàŋkú kúukarà kéete iŋkana kóorihe,[],,[],,False,False,,1
+ires1239-1-29-1,,ires1239-1,29,hàŋkú kúukarà kéete iŋkana áakà,hàŋkú kúukarà kéete iŋkana áakà,[],,[],,False,False,,1
+ires1239-1-30-1,,ires1239-1,30,hàŋkú kúukarà kéete iŋkana bàkí rúuhi,hàŋkú kúukarà kéete iŋkana bàkí rúuhi,[],,[],,False,False,,1
+ires1239-1-40-1,,ires1239-1,40,hàŋkú kúukarà rúuhi,hàŋkú kúukarà rúuhi,[],( 20 x 2 ),[],,False,False,,1
+ires1239-1-50-1,,ires1239-1,50,hàŋkú kúukarà rúuhi iŋkana bàkí rúuhi,hàŋkú kúukarà rúuhi iŋkana bàkí rúuhi,[],,[],,False,False,,1
+ires1239-1-60-1,,ires1239-1,60,hàŋkú kúukarà kóorihe,hàŋkú kúukarà kóorihe,[],( 20 x 3 ),[],,False,False,,1
+ires1239-1-70-1,,ires1239-1,70,hàŋkú kúukarà kóorihe iŋkana b. rúuhi,hàŋkú kúukarà kóorihe iŋkana b. rúuhi,[],,[],,False,True,,1
+ires1239-1-80-1,,ires1239-1,80,hàŋkú kúukarà áakà,hàŋkú kúukarà áakà,[],( 20 x 4 ),[],,False,False,,1
+ires1239-1-90-1,,ires1239-1,90,hàŋkú kúukarà áakà iŋkana bàkí rúuhi,hàŋkú kúukarà áakà iŋkana bàkí rúuhi,[],,[],,False,False,,1
+ires1239-1-100-1,,ires1239-1,100,hàŋkú kúukarà ríìma,hàŋkú kúukarà ríìma,[],( 20 x 5 ),[],,False,False,,1
+ires1239-1-200-1,,ires1239-1,200,hàŋkú kúukarà bàkí rúuhi,hàŋkú kúukarà bàkí rúuhi,[],( 20 x 5 x 2 ),[],,False,False,,1

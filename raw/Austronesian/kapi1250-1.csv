@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kapi1250-1-1-1,,kapi1250-1,1,ti,ti,[],,[],,False,False,,1
+kapi1250-1-2-1,,kapi1250-1,2,yu,yu,[],,[],,False,False,,1
+kapi1250-1-2-2,,kapi1250-1,2,yuv,yuv,[],,[],,False,False,,1
+kapi1250-1-3-1,,kapi1250-1,3,yal,yal,[],,[],,False,False,,1
+kapi1250-1-3-2,,kapi1250-1,3,yar,yar,[],,[],,False,False,,1
+kapi1250-1-4-1,,kapi1250-1,4,vei,vei,[],,[],,False,False,,1
+kapi1250-1-5-1,,kapi1250-1,5,lim,lim,[],(lit: 'hand' ),[],,False,False,,1
+kapi1250-1-6-1,,kapi1250-1,6,lima sakti,lima sakti,[],( 5 + 1 ),[],,False,False,,1
+kapi1250-1-7-1,,kapi1250-1,7,lima sakayu,lima sakayu,[],(5 + 2 ),[],,False,False,,1
+kapi1250-1-8-1,,kapi1250-1,8,lima sakyal,lima sakyal,[],(5 + 3 ),[],,False,False,,1
+kapi1250-1-9-1,,kapi1250-1,9,lima sakvei,lima sakvei,[],(5 + 4 ),[],,False,False,,1
+kapi1250-1-10-1,,kapi1250-1,10,omin,omin,[],,[],,False,False,,1
+kapi1250-1-11-1,,kapi1250-1,11,omin tedem ti,omin tedem ti,[],,[],,False,False,,1
+kapi1250-1-12-1,,kapi1250-1,12,omin tedem yu,omin tedem yu,[],,[],,False,False,,1
+kapi1250-1-13-1,,kapi1250-1,13,omin tedem yar,omin tedem yar,[],,[],,False,False,,1
+kapi1250-1-14-1,,kapi1250-1,14,omin tedem vei,omin tedem vei,[],,[],,False,False,,1
+kapi1250-1-15-1,,kapi1250-1,15,omin tedem lim,omin tedem lim,[],,[],,False,False,,1
+kapi1250-1-16-1,,kapi1250-1,16,omin tedem limasek ti,omin tedem limasek ti,[],,[],,False,False,,1
+kapi1250-1-17-1,,kapi1250-1,17,omin tedem limasek yuv,omin tedem limasek yuv,[],,[],,False,False,,1
+kapi1250-1-18-1,,kapi1250-1,18,omin tedem limasek yar,omin tedem limasek yar,[],,[],,False,False,,1
+kapi1250-1-19-1,,kapi1250-1,19,omin tedem limasek vei,omin tedem limasek vei,[],,[],,False,False,,1
+kapi1250-1-20-1,,kapi1250-1,20,mepie ti,mepie ti,[],,[],,False,False,,1
+kapi1250-1-21-1,,kapi1250-1,21,mepie ti me lak ti,mepie ti me lak ti,[],,[],,False,False,,1
+kapi1250-1-22-1,,kapi1250-1,22,mepie ti me lak yuv,mepie ti me lak yuv,[],,[],,False,False,,1
+kapi1250-1-23-1,,kapi1250-1,23,mepie ti me lak yar,mepie ti me lak yar,[],,[],,False,False,,1
+kapi1250-1-24-1,,kapi1250-1,24,mepie ti me lak vei,mepie ti me lak vei,[],,[],,False,False,,1
+kapi1250-1-25-1,,kapi1250-1,25,mepie ti me lak lim,mepie ti me lak lim,[],,[],,False,False,,1
+kapi1250-1-26-1,,kapi1250-1,26,mepie ti me lak limasek ti,mepie ti me lak limasek ti,[],,[],,False,False,,1
+kapi1250-1-27-1,,kapi1250-1,27,mepie ti me lak limasek yuv,mepie ti me lak limasek yuv,[],,[],,False,False,,1
+kapi1250-1-28-1,,kapi1250-1,28,mepie ti me laklimasek yar,mepie ti me laklimasek yar,[],,[],,False,False,,1
+kapi1250-1-29-1,,kapi1250-1,29,mepie ti me lak limasek vei,mepie ti me lak limasek vei,[],,[],,False,False,,1
+kapi1250-1-30-1,,kapi1250-1,30,mepie ti me lak omin,mepie ti me lak omin,[],,[],,False,False,,1
+kapi1250-1-40-1,,kapi1250-1,40,mepie yuv,mepie yuv,[],( 20 x 2 ),[],,False,False,,1
+kapi1250-1-50-1,,kapi1250-1,50,mepie yuv lak omin,mepie yuv lak omin,[],,[],,False,False,,1
+kapi1250-1-60-1,,kapi1250-1,60,mepie yar,mepie yar,[],( 20 x 3 ),[],,False,False,,1
+kapi1250-1-70-1,,kapi1250-1,70,mepie yar lak omin,mepie yar lak omin,[],,[],,False,False,,1
+kapi1250-1-80-1,,kapi1250-1,80,mepie yar,mepie yar,[],( 20 x 4 ),[],,False,False,,1
+kapi1250-1-90-1,,kapi1250-1,90,mepie yar lak omin,mepie yar lak omin,[],,[],,False,False,,1
+kapi1250-1-100-1,,kapi1250-1,100,vaɣak ti,vaɣak ti,[],,[],,False,False,,1
+kapi1250-1-200-1,,kapi1250-1,200,vaɣak yuv,vaɣak yuv,[],,[],,False,False,,1
+kapi1250-1-1000-1,,kapi1250-1,1000,vaɣak omin,vaɣak omin,[],,[],,False,False,,1
+kapi1250-1-2000-1,,kapi1250-1,2000,vaɣak mepie ti,vaɣak mepie ti,[],,[],,False,False,,1

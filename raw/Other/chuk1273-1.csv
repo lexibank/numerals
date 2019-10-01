@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+chuk1273-1-1-1,,chuk1273-1,1,ənnen,ənnen,[],,[],,False,False,,1
+chuk1273-1-2-1,,chuk1273-1,2,ŋireq,ŋireq,[],,[],,False,False,,1
+chuk1273-1-3-1,,chuk1273-1,3,ŋəroq,ŋəroq,[],,[],,False,False,,1
+chuk1273-1-4-1,,chuk1273-1,4,ŋəraq,ŋəraq,[],,[],,False,False,,1
+chuk1273-1-5-1,,chuk1273-1,5,mətləŋen,mətləŋen,[],,[],,False,False,,1
+chuk1273-1-6-1,,chuk1273-1,6,ənnanmətɬəŋen,ənnanmətɬəŋen,[],( 1 + 5 ),[],,False,False,,1
+chuk1273-1-7-1,,chuk1273-1,7,ŋerʔamətɬəŋen,ŋerʔamətɬəŋen,[],( 2 + 5 ),[],,False,False,,1
+chuk1273-1-8-1,,chuk1273-1,8,amŋərootken,amŋərootken,[],"(litː ''just the third"")",[],,False,False,,1
+chuk1273-1-9-1,,chuk1273-1,9,qonʔacɣənen,qonʔacɣənen,[],,[],,False,False,,1
+chuk1273-1-10-1,,chuk1273-1,10,mənɣətken,mənɣətken,[],,[],,False,False,,1
+chuk1273-1-11-1,,chuk1273-1,11,mənɣətken ənnen parol,mənɣətken ənnen parol,[],"( ten, one       remaining)",[],,False,False,,1
+chuk1273-1-12-1,,chuk1273-1,12,mənɣətken ŋireq paroɬ,mənɣətken ŋireq paroɬ,[],,[],,False,False,,1
+chuk1273-1-13-1,,chuk1273-1,13,mənɣətken ŋəroq paroɬ,mənɣətken ŋəroq paroɬ,[],,[],,False,False,,1
+chuk1273-1-14-1,,chuk1273-1,14,mənɣətken ŋəraq paroɬ,mənɣətken ŋəraq paroɬ,[],,[],,False,False,,1
+chuk1273-1-15-1,,chuk1273-1,15,kəlɣənken,kəlɣənken,[],,[],,False,False,,1
+chuk1273-1-16-1,,chuk1273-1,16,kəlɣəntken ənnen paroɬ,kəlɣəntken ənnen paroɬ,[],( 15 + 1 ),[],,False,False,,1
+chuk1273-1-17-1,,chuk1273-1,17,kəlɣənken ŋireq paroɬ,kəlɣənken ŋireq paroɬ,[],( 15 + 2 ),[],,False,False,,1
+chuk1273-1-18-1,,chuk1273-1,18,kəlɣənken ŋəroq paroɬ,kəlɣənken ŋəroq paroɬ,[],( 15 + 3 ),[],,False,False,,1
+chuk1273-1-19-1,,chuk1273-1,19,kəlɣənken ŋəraq paroɬ,kəlɣənken ŋəraq paroɬ,[],( 15 + 4 ),[],,False,False,,1
+chuk1273-1-20-1,,chuk1273-1,20,qɬikkin,qɬikkin,[],,[],,False,False,,1
+chuk1273-1-21-1,,chuk1273-1,21,qɬikkin ənnen paroɬ,qɬikkin ənnen paroɬ,[],,[],,False,False,,1
+chuk1273-1-22-1,,chuk1273-1,22,qɬikkin ŋireq paroɬ,qɬikkin ŋireq paroɬ,[],,[],,False,False,,1
+chuk1273-1-23-1,,chuk1273-1,23,qɬikkin ŋəroq paroɬ,qɬikkin ŋəroq paroɬ,[],,[],,False,False,,1
+chuk1273-1-24-1,,chuk1273-1,24,qɬikkin ŋəraq paroɬ,qɬikkin ŋəraq paroɬ,[],,[],,False,False,,1
+chuk1273-1-25-1,,chuk1273-1,25,qɬikkin mətləŋen paroɬ,qɬikkin mətləŋen paroɬ,[],,[],,False,False,,1
+chuk1273-1-26-1,,chuk1273-1,26,qɬikkin ənnanmətɬəŋen paroɬ,qɬikkin ənnanmətɬəŋen paroɬ,[],,[],,False,False,,1
+chuk1273-1-27-1,,chuk1273-1,27,qɬikkin ŋerʔamətɬəŋen paroɬ,qɬikkin ŋerʔamətɬəŋen paroɬ,[],,[],,False,False,,1
+chuk1273-1-28-1,,chuk1273-1,28,qɬikkin amŋərootken paroɬ,qɬikkin amŋərootken paroɬ,[],,[],,False,False,,1
+chuk1273-1-29-1,,chuk1273-1,29,qɬikkin qonʔacɣənen paroɬ,qɬikkin qonʔacɣənen paroɬ,[],,[],,False,False,,1
+chuk1273-1-30-1,,chuk1273-1,30,qɬikkin mənɣətken paroɬ,qɬikkin mənɣətken paroɬ,[],( 20 + 10 ),[],,False,False,,1
+chuk1273-1-40-1,,chuk1273-1,40,ŋireqqəɬikkin,ŋireqqəɬikkin,[],( 2 x 20 ),[],,False,False,,1
+chuk1273-1-50-1,,chuk1273-1,50,ŋireqqəɬikkin mənɣətken paroɬ,ŋireqqəɬikkin mənɣətken paroɬ,[],,[],,False,False,,1
+chuk1273-1-60-1,,chuk1273-1,60,ŋəroqqəɬekken,ŋəroqqəɬekken,[],( 3 x 20 ),[],,False,False,,1
+chuk1273-1-70-1,,chuk1273-1,70,ŋəroqqəɬekken mənɣətken paroɬ,ŋəroqqəɬekken mənɣətken paroɬ,[],,[],,False,False,,1
+chuk1273-1-80-1,,chuk1273-1,80,ŋəraqqəɬekken,ŋəraqqəɬekken,[],( 4 x 20 ),[],,False,False,,1
+chuk1273-1-90-1,,chuk1273-1,90,ŋəraqqəɬekken mənɣətken paroɬ,ŋəraqqəɬekken mənɣətken paroɬ,[],,[],,False,False,,1
+chuk1273-1-100-1,,chuk1273-1,100,mətɬəŋqəɬekken,mətɬəŋqəɬekken,[],( 5 x 20 ),[],,False,False,,1
+chuk1273-1-200-1,,chuk1273-1,200,mənɣətqəɬekken,mənɣətqəɬekken,[],( 10 x 20 ),[],,False,False,,1
+chuk1273-1-400-1,,chuk1273-1,400,qɬiqqəɬikkin,qɬiqqəɬikkin,[],( 20 x 20 ),[],,False,False,,1

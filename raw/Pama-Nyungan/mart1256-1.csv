@@ -1,0 +1,13 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mart1256-1-1-1,,mart1256-1,1,kuju,kuju,[],,[],,False,False,,1
+mart1256-1-1-2,,mart1256-1,1,wanpa,wanpa,[],(English),[],,False,False,,1
+mart1256-1-2-1,,mart1256-1,2,kujarra,kujarra,[],,[],,False,False,,1
+mart1256-1-2-2,,mart1256-1,2,tuu,tuu,[],(English),[],,False,False,,1
+mart1256-1-3-1,,mart1256-1,3,jurri,jurri,[],(English),[],,False,False,,1
+mart1256-1-3-2,,mart1256-1,3,4.puu,4.puu,[],(English),[],,False,True,,1
+mart1256-1-3-3,,mart1256-1,3,5. payippa,5. payippa,[],,[],,False,True,,1
+mart1256-1-3-4,,mart1256-1,3,payipu,payipu,[],(English),[],,False,False,,1
+mart1256-1-3-5,,mart1256-1,3,6. jikaji,6. jikaji,[],(English),[],,False,True,,1
+mart1256-1-7-1,,mart1256-1,7,japanpa,japanpa,[],(English),[],,False,False,,1
+mart1256-1-7-2,,mart1256-1,7,100. yantarta,100. yantarta,[],(English),[],,False,True,,1
+mart1256-1-7-3,,mart1256-1,7,1000. jawujunpa,1000. jawujunpa,[],(English),[],,False,True,,1

@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lusi1240-1-1-1,,lusi1240-1,1,ere,ere,[],,[],,False,False,,1
+lusi1240-1-2-1,,lusi1240-1,2,rua,rua,[],,[],,False,False,,1
+lusi1240-1-3-1,,lusi1240-1,3,tolu,tolu,[],,[],,False,False,,1
+lusi1240-1-4-1,,lusi1240-1,4,paŋe,paŋe,[],,[],,False,False,,1
+lusi1240-1-5-1,,lusi1240-1,5,lima,lima,[],,[],,False,False,,1
+lusi1240-1-6-1,,lusi1240-1,6,lima ɣa ere,lima ɣa ere,[],( 5 + 1 ),[],,False,False,,1
+lusi1240-1-7-1,,lusi1240-1,7,lima ɣa hua,lima ɣa hua,[],( 5 + 2 ),[],,False,False,,1
+lusi1240-1-8-1,,lusi1240-1,8,lima ɣa tolu,lima ɣa tolu,[],( 5 + 3 ),[],,False,False,,1
+lusi1240-1-9-1,,lusi1240-1,9,lima ɣa paŋe,lima ɣa paŋe,[],( 5 + 4 ),[],,False,False,,1
+lusi1240-1-10-1,,lusi1240-1,10,saŋaulu,saŋaulu,[],,[],,False,False,,1
+lusi1240-1-11-1,,lusi1240-1,11,saŋaulu ɣa ere,saŋaulu ɣa ere,[],,[],,False,False,,1
+lusi1240-1-12-1,,lusi1240-1,12,saŋaulu ɣa rua,saŋaulu ɣa rua,[],,[],,False,False,,1
+lusi1240-1-13-1,,lusi1240-1,13,saŋaulu ɣa tolu,saŋaulu ɣa tolu,[],,[],,False,False,,1
+lusi1240-1-14-1,,lusi1240-1,14,saŋaulu ɣa paŋe,saŋaulu ɣa paŋe,[],,[],,False,False,,1
+lusi1240-1-15-1,,lusi1240-1,15,saŋaulu ɣa lima,saŋaulu ɣa lima,[],,[],,False,False,,1
+lusi1240-1-16-1,,lusi1240-1,16,saŋaulu ɣa lima ɣa ere,saŋaulu ɣa lima ɣa ere,[],,[],,False,False,,1
+lusi1240-1-17-1,,lusi1240-1,17,saŋaulu ɣa lima ɣa rua,saŋaulu ɣa lima ɣa rua,[],,[],,False,False,,1
+lusi1240-1-18-1,,lusi1240-1,18,saŋaulu ɣa lima ɣa tolu,saŋaulu ɣa lima ɣa tolu,[],,[],,False,False,,1
+lusi1240-1-19-1,,lusi1240-1,19,saŋaulu ɣa lima ɣa paŋe,saŋaulu ɣa lima ɣa paŋe,[],,[],,False,False,,1
+lusi1240-1-20-1,,lusi1240-1,20,saŋaulu rua,saŋaulu rua,[],,[],,False,False,,1
+lusi1240-1-21-1,,lusi1240-1,21,saŋaulu rua ere,saŋaulu rua ere,[],,[],,False,False,,1
+lusi1240-1-22-1,,lusi1240-1,22,saŋaulu rua rua,saŋaulu rua rua,[],,[],,False,False,,1
+lusi1240-1-23-1,,lusi1240-1,23,saŋaulu rua tolu,saŋaulu rua tolu,[],,[],,False,False,,1
+lusi1240-1-24-1,,lusi1240-1,24,saŋaulu rua paŋe,saŋaulu rua paŋe,[],,[],,False,False,,1
+lusi1240-1-25-1,,lusi1240-1,25,saŋaulu rua lima,saŋaulu rua lima,[],,[],,False,False,,1
+lusi1240-1-26-1,,lusi1240-1,26,saŋaulu rua lima ɣa ere,saŋaulu rua lima ɣa ere,[],,[],,False,False,,1
+lusi1240-1-27-1,,lusi1240-1,27,saŋaulu rua lima ɣa rua,saŋaulu rua lima ɣa rua,[],,[],,False,False,,1
+lusi1240-1-28-1,,lusi1240-1,28,saŋaulu rua lima ɣa tolu,saŋaulu rua lima ɣa tolu,[],,[],,False,False,,1
+lusi1240-1-29-1,,lusi1240-1,29,saŋaulu rua lima ɣa paŋe,saŋaulu rua lima ɣa paŋe,[],,[],,False,False,,1
+lusi1240-1-30-1,,lusi1240-1,30,saŋaulu tolu,saŋaulu tolu,[],,[],,False,False,,1
+lusi1240-1-40-1,,lusi1240-1,40,saŋaulu paŋe,saŋaulu paŋe,[],,[],,False,False,,1
+lusi1240-1-50-1,,lusi1240-1,50,saŋaulu lima,saŋaulu lima,[],,[],,False,False,,1
+lusi1240-1-60-1,,lusi1240-1,60,saŋaulu lima ɣa ere,saŋaulu lima ɣa ere,[],,[],,False,False,,1
+lusi1240-1-70-1,,lusi1240-1,70,saŋaulu lima ɣa rua,saŋaulu lima ɣa rua,[],,[],,False,False,,1
+lusi1240-1-80-1,,lusi1240-1,80,saŋaulu lima ɣa tolu,saŋaulu lima ɣa tolu,[],,[],,False,False,,1
+lusi1240-1-90-1,,lusi1240-1,90,saŋaulu lima ɣa paŋe,saŋaulu lima ɣa paŋe,[],,[],,False,False,,1
+lusi1240-1-100-1,,lusi1240-1,100,βuno,βuno,[],,[],,False,False,,1
+lusi1240-1-200-1,,lusi1240-1,200,βuno rua,βuno rua,[],,[],,False,False,,1

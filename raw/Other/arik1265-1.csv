@@ -1,0 +1,22 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+arik1265-1-1-1,,arik1265-1,1,tä̃jwẽ,tä̃jwẽ,[],,[],,False,False,,1
+arik1265-1-1-2,,arik1265-1,1,tə̃j'wɛ̃,tə̃j'wɛ̃,[],,[],,False,False,,1
+arik1265-1-1-3,,arik1265-1,1,tãj'wɛ̃ “one”,tãj'wɛ̃ “one”,[],,[],,False,True,also,1
+arik1265-1-2-1,,arik1265-1,2,heri,heri,[],,[],,False,False,,1
+arik1265-1-2-2,,arik1265-1,2,hɛ'ri “two”,hɛ'ri “two”,[],,[],,False,True,,1
+arik1265-1-3-1,,arik1265-1,3,miotä̃,miotä̃,[],,[],,False,False,,1
+arik1265-1-3-2,,arik1265-1,3,biɔ'tə̃ “three”,biɔ'tə̃ “three”,[],,[],,False,True,,1
+arik1265-1-3-3,,arik1265-1,3,“five”,“five”,[],,[],,False,True,,1
+arik1265-1-3-4,,arik1265-1,3,“thumb”,“thumb”,[],(lit. “without companion”),[],,False,True,,1
+arik1265-1-3-5,,arik1265-1,3,heri txitxanãjtä̃,heri txitxanãjtä̃,[],,[],,False,False,,1
+arik1265-1-3-6,,arik1265-1,3,hɛ'ri tʃitʃanã'tə̃ “three”,hɛ'ri tʃitʃanã'tə̃ “three”,[],(lit. “once two and once without     the other one”),[],,False,True,,1
+arik1265-1-4-1,,arik1265-1,4,heri heri,heri heri,[],,[],,False,False,,1
+arik1265-1-4-2,,arik1265-1,4,hɛ'ri hɛ'ri “four”,hɛ'ri hɛ'ri “four”,[],,[],,False,True,,1
+arik1265-1-4-3,,arik1265-1,4,hemihäj hemihäj,hemihäj hemihäj,[],,[],,False,False,,1
+arik1265-1-4-4,,arik1265-1,4,hɛm'bihəj hɛm'bihəj “four”,hɛm'bihəj hɛm'bihəj “four”,[],(this expression was only attested once and the etymology is not known),[],,False,True,,1
+arik1265-1-5-1,,arik1265-1,5,heriheri txitxanãjtä̃,heriheri txitxanãjtä̃,[],,[],,False,False,,1
+arik1265-1-5-2,,arik1265-1,5,hɛ'ri hɛ'ri tʃitʃanã'tə̃ “five”,hɛ'ri hɛ'ri tʃitʃanã'tə̃ “five”,[],(lit. “two two and once      without the other one”),[],,False,True,,1
+arik1265-1-5-3,,arik1265-1,5,txinikaj kä̃,txinikaj kä̃,[],,[],,False,False,,1
+arik1265-1-5-4,,arik1265-1,5,tʃinĩkaj 'kə̃ “more than five (e.g. seven)” (lit. “(our) fingers are finished”,tʃinĩkaj 'kə̃ “more than five (e.g. seven)” (lit. “(our) fingers are finished”,[],,[],,False,True,,1
+arik1265-1-6-1,,arik1265-1,6,hemihäj hemihäj hemihäj,hemihäj hemihäj hemihäj,[],,[],,False,False,,1
+arik1265-1-6-2,,arik1265-1,6,hɛm'bihə(j)hɛm'bihə(j) hɛm'bihə “six”,hɛm'bihə(j)hɛm'bihə(j) hɛm'bihə “six”,[],(this     expression was only attested once and the etymology is not known),[],,False,True,,1

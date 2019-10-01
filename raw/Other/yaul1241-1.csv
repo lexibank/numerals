@@ -1,0 +1,50 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yaul1241-1-1-1,,yaul1241-1,1,kwe,kwe,[],,[],,False,False,,1
+yaul1241-1-1-2,,yaul1241-1,1,kwa,kwa,[],,[],,False,False,,1
+yaul1241-1-2-1,,yaul1241-1,2,nini,nini,[],,[],,False,False,,1
+yaul1241-1-3-1,,yaul1241-1,3,lele,lele,[],,[],,False,False,,1
+yaul1241-1-4-1,,yaul1241-1,4,wataŋɡɨnila,wataŋɡɨnila,[],,[],,False,False,,1
+yaul1241-1-5-1,,yaul1241-1,5,aŋɡai̯,aŋɡai̯,[],(kwe),[],,False,False,,1
+yaul1241-1-6-1,,yaul1241-1,6,aŋɡai̯ kwe kwe mowon ndɨwatlɨp,aŋɡai̯ kwe kwe mowon ndɨwatlɨp,[],(5+1),[],,False,False,,1
+yaul1241-1-7-1,,yaul1241-1,7,aŋɡai̯ kwe nini minwon ndɨwatlɨp,aŋɡai̯ kwe nini minwon ndɨwatlɨp,[],(5+2),[],,False,False,,1
+yaul1241-1-8-1,,yaul1241-1,8,aŋɡai̯ kwe lele ndɨwonndɨwatlɨp,aŋɡai̯ kwe lele ndɨwonndɨwatlɨp,[],(5+3),[],,False,False,,1
+yaul1241-1-9-1,,yaul1241-1,9,aŋɡai̯ kwewataŋɡɨnilandɨwon ndɨwatlɨp,aŋɡai̯ kwewataŋɡɨnilandɨwon ndɨwatlɨp,[],(5+4),[],,False,False,,1
+yaul1241-1-10-1,,yaul1241-1,10,aŋɡai̯ nini,aŋɡai̯ nini,[],,[],,False,False,,1
+yaul1241-1-10-2,,yaul1241-1,10,nali,nali,[],(kwe),[],,False,False,,1
+yaul1241-1-11-1,,yaul1241-1,11,aŋɡai̯ nini mowon ndɨwatlɨp,aŋɡai̯ nini mowon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-11-2,,yaul1241-1,11,nali kwe kwe,nali kwe kwe,[],,[],,False,False,,1
+yaul1241-1-12-1,,yaul1241-1,12,aŋɡai̯ nini minwon ndɨwatlɨp,aŋɡai̯ nini minwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-12-2,,yaul1241-1,12,nali kwe nini,nali kwe nini,[],,[],,False,False,,1
+yaul1241-1-13-1,,yaul1241-1,13,aŋɡai̯ nini lele ndɨwon ndɨwatlɨp,aŋɡai̯ nini lele ndɨwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-13-2,,yaul1241-1,13,nali kwe ndɨwon,nali kwe ndɨwon,[],,[],,False,False,,1
+yaul1241-1-14-1,,yaul1241-1,14,aŋɡai̯ nini wataŋɡɨnila ndɨwon,aŋɡai̯ nini wataŋɡɨnila ndɨwon,[],(  ndɨwatlɨp),[],,False,False,,1
+yaul1241-1-14-2,,yaul1241-1,14,nali kwe wataŋɡɨnila,nali kwe wataŋɡɨnila,[],,[],,False,False,,1
+yaul1241-1-15-1,,yaul1241-1,15,aŋɡai̯ lele,aŋɡai̯ lele,[],,[],,False,False,,1
+yaul1241-1-16-1,,yaul1241-1,16,aŋɡai̯ lele kowan ndɨwatlɨp,aŋɡai̯ lele kowan ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-17-1,,yaul1241-1,17,aŋɡai̯ lele nini minwon ndɨwatlɨp,aŋɡai̯ lele nini minwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-18-1,,yaul1241-1,18,aŋɡai̯ lele lele ndɨwon ndɨwatlɨp,aŋɡai̯ lele lele ndɨwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-19-1,,yaul1241-1,19,aŋɡai̯ lele wataŋɡɨnilandɨwon,aŋɡai̯ lele wataŋɡɨnilandɨwon,[],(  ndɨwatlɨp),[],,False,False,,1
+yaul1241-1-20-1,,yaul1241-1,20,aŋɡai̯ wataŋɡɨnila,aŋɡai̯ wataŋɡɨnila,[],,[],,False,False,,1
+yaul1241-1-20-2,,yaul1241-1,20,nali nini,nali nini,[],,[],,False,False,,1
+yaul1241-1-20-3,,yaul1241-1,20,lamndu unduwan,lamndu unduwan,[],,[],,False,False,,1
+yaul1241-1-21-1,,yaul1241-1,21,aŋɡai̯ wataŋɡɨnila kwe mowon ndɨwatlɨp,aŋɡai̯ wataŋɡɨnila kwe mowon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-22-1,,yaul1241-1,22,aŋɡai̯ wataŋɡɨnila minwon ndɨwatlɨp,aŋɡai̯ wataŋɡɨnila minwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-23-1,,yaul1241-1,23,aŋɡai̯ wataŋɡɨnila lele ndɨwon ndɨwatlɨp,aŋɡai̯ wataŋɡɨnila lele ndɨwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-24-1,,yaul1241-1,24,aŋɡai̯ wataŋɡɨnilakwe ndɨwon ndɨwatlɨp,aŋɡai̯ wataŋɡɨnilakwe ndɨwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-25-1,,yaul1241-1,25,aŋɡai̯ aŋɡai,aŋɡai̯ aŋɡai,[],,[],,False,False,,1
+yaul1241-1-25-2,,yaul1241-1,25,nali nini aŋɡai̯,nali nini aŋɡai̯,[],,[],,False,False,,1
+yaul1241-1-26-1,,yaul1241-1,26,aŋɡai̯ aŋɡai kwe mowon ndɨwatlɨp,aŋɡai̯ aŋɡai kwe mowon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-27-1,,yaul1241-1,27,aŋɡai̯ aŋɡainini minwon ndɨwatlɨp,aŋɡai̯ aŋɡainini minwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-28-1,,yaul1241-1,28,aŋɡai̯ aŋɡai lele ndɨwon ndɨwatlɨp,aŋɡai̯ aŋɡai lele ndɨwon ndɨwatlɨp,[],,[],,False,False,,1
+yaul1241-1-29-1,,yaul1241-1,29,aŋɡai̯ aŋɡai wataŋɡɨnila ndɨwon,aŋɡai̯ aŋɡai wataŋɡɨnila ndɨwon,[],(  ndɨwatlɨp),[],,False,False,,1
+yaul1241-1-30-1,,yaul1241-1,30,nali lele,nali lele,[],,[],,False,False,,1
+yaul1241-1-40-1,,yaul1241-1,40,nali wataⁿɡinila,nali wataⁿɡinila,[],,[],,False,False,,1
+yaul1241-1-50-1,,yaul1241-1,50,nali aŋɡai̯,nali aŋɡai̯,[],,[],,False,False,,1
+yaul1241-1-50-2,,yaul1241-1,50,ankam unduwan,ankam unduwan,[],,[],,False,False,,1
+yaul1241-1-60-1,,yaul1241-1,60,ankam unduwan nali,ankam unduwan nali,[],(kwe),[],,False,False,,1
+yaul1241-1-70-1,,yaul1241-1,70,ankam unduwan nali nini,ankam unduwan nali nini,[],,[],,False,False,,1
+yaul1241-1-80-1,,yaul1241-1,80,ankam unduwan nali lele,ankam unduwan nali lele,[],,[],,False,False,,1
+yaul1241-1-90-1,,yaul1241-1,90,ankam unduwan nali wataŋɡɨnila,ankam unduwan nali wataŋɡɨnila,[],,[],,False,False,,1
+yaul1241-1-100-1,,yaul1241-1,100,uta,uta,[],(kwe),[],,False,False,,1
+yaul1241-1-200-1,,yaul1241-1,200,uta nini,uta nini,[],,[],,False,False,,1
+yaul1241-1-200-2,,yaul1241-1,200,300. uta lele,300. uta lele,[],,[],,False,True,,1

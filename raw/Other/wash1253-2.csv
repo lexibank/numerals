@@ -1,0 +1,17 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+wash1253-2-1-1,,wash1253-2,1,'lakʼaʔ,'lakʼaʔ,[],,[],,False,False,,2
+wash1253-2-2-1,,wash1253-2,2,'hesɡeʔ,'hesɡeʔ,[],,[],,False,False,,2
+wash1253-2-3-1,,wash1253-2,3,'helmeʔ,'helmeʔ,[],,[],,False,False,,2
+wash1253-2-4-1,,wash1253-2,4,haʔwa,haʔwa,[],,[],,False,False,,2
+wash1253-2-5-1,,wash1253-2,5,du'baldiʔ,du'baldiʔ,[],,[],,False,False,,2
+wash1253-2-6-1,,wash1253-2,6,du'baldiʔ ʔida 'lakaʔ,du'baldiʔ ʔida 'lakaʔ,[],( 5 + 1 ),[],,False,False,,2
+wash1253-2-7-1,,wash1253-2,7,du'baldiʔ ʔida 'hesɡeʔ,du'baldiʔ ʔida 'hesɡeʔ,[],( 5 + 2 ),[],,False,False,,2
+wash1253-2-8-1,,wash1253-2,8,haʔ'waʔwaʔ,haʔ'waʔwaʔ,[],( 4 x 2  ),[],,False,False,,2
+wash1253-2-9-1,,wash1253-2,9,haʔ'waʔwaʔ ʔida 'lakaʔ,haʔ'waʔwaʔ ʔida 'lakaʔ,[],( 8 + 1 ),[],,False,False,,2
+wash1253-2-10-1,,wash1253-2,10,'lakaʔ m̥uʔtsɨm,'lakaʔ m̥uʔtsɨm,[],,[],,False,False,,2
+wash1253-2-11-1,,wash1253-2,11,'lakaʔ m̥uʔtsɨm ʔida 'lakaʔ,'lakaʔ m̥uʔtsɨm ʔida 'lakaʔ,[],,[],,False,False,,2
+wash1253-2-20-1,,wash1253-2,20,'hesɡeʔ m̥uʔtsɨm,'hesɡeʔ m̥uʔtsɨm,[],,[],,False,False,,2
+wash1253-2-30-1,,wash1253-2,30,'helmeʔ m̥uʔtsɨm,'helmeʔ m̥uʔtsɨm,[],,[],,False,False,,2
+wash1253-2-100-1,,wash1253-2,100,'lakaʔ m̥uʔtsɨm m̥uʔtsɨm,'lakaʔ m̥uʔtsɨm m̥uʔtsɨm,[],( 1 x 10 x 10),[],,False,False,,2
+wash1253-2-200-1,,wash1253-2,200,'hesɡeʔ m̥uʔtsɨm m̥uʔtsɨm,'hesɡeʔ m̥uʔtsɨm m̥uʔtsɨm,[],,[],,False,False,,2
+wash1253-2-1000-1,,wash1253-2,1000,'lakaʔ m̥uʔtsɨm m̥uʔtsɨm m̥uʔtsɨm,'lakaʔ m̥uʔtsɨm m̥uʔtsɨm m̥uʔtsɨm,[],,[],,False,False,,2

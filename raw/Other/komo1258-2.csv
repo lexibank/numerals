@@ -1,0 +1,26 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+komo1258-2-1-1,,komo1258-2,1,ɗe(d),ɗe(d),[],,[],,False,False,,2
+komo1258-2-1-2,,komo1258-2,1,ɗɛʔ,ɗɛʔ,[],(SIL),[],,False,False,,2
+komo1258-2-2-1,,komo1258-2,2,suʔin,suʔin,[],,[],,False,False,,2
+komo1258-2-2-2,,komo1258-2,2,sʊʔ,sʊʔ,[],(SIL),[],,False,False,,2
+komo1258-2-3-1,,komo1258-2,3,dícin,dícin,[],,[],,False,False,,2
+komo1258-2-3-2,,komo1258-2,3,dǐʃǐn,dǐʃǐn,[],(SIL),[],,False,False,,2
+komo1258-2-4-1,,komo1258-2,4,dōɡɔne(n),dōɡɔne(n),[],,[],,False,False,,2
+komo1258-2-4-2,,komo1258-2,4,dɔ̄ɣɔ́n,dɔ̄ɣɔ́n,[],(SIL),[],,False,False,,2
+komo1258-2-5-1,,komo1258-2,5,busín,busín,[],,[],,False,False,,2
+komo1258-2-5-2,,komo1258-2,5,bʊ̀sʼín,bʊ̀sʼín,[],(SIL),[],,False,False,,2
+komo1258-2-6-1,,komo1258-2,6,kɛnɡɪɗe,kɛnɡɪɗe,[],,[],,False,False,,2
+komo1258-2-6-2,,komo1258-2,6,kàːnaɡǐɗɛ́,kàːnaɡǐɗɛ́,[],(SIL),[],,False,False,,2
+komo1258-2-7-1,,komo1258-2,7,kɛnnɛsɔ,kɛnnɛsɔ,[],,[],,False,False,,2
+komo1258-2-7-2,,komo1258-2,7,kàːnàsʊʔ,kàːnàsʊʔ,[],(SIL),[],,False,False,,2
+komo1258-2-8-1,,komo1258-2,8,kɛnnɛdiʃ,kɛnnɛdiʃ,[],,[],,False,False,,2
+komo1258-2-8-2,,komo1258-2,8,kàːnàdɪʃ,kàːnàdɪʃ,[],(SIL),[],,False,False,,2
+komo1258-2-9-1,,komo1258-2,9,kɛnnɛdɔɡɔn,kɛnnɛdɔɡɔn,[],,[],,False,False,,2
+komo1258-2-9-2,,komo1258-2,9,káːndɔ̀ɡɔ̀n,káːndɔ̀ɡɔ̀n,[],(SIL),[],,False,False,,2
+komo1258-2-10-1,,komo1258-2,10,kɔʃinkwolo,kɔʃinkwolo,[],,[],,False,False,,2
+komo1258-2-10-2,,komo1258-2,10,kʼɔ́ʃkʼɔ̀lɔ̀,kʼɔ́ʃkʼɔ̀lɔ̀,[],(SIL),[],,False,False,,2
+komo1258-2-20-1,,komo1258-2,20,telimbadé,telimbadé,[],,[],,False,False,,2
+komo1258-2-20-2,,komo1258-2,20,tɛ̀lbɛɡǐɗɛ́ʔ,tɛ̀lbɛɡǐɗɛ́ʔ,[],(SIL),[],,False,False,,2
+komo1258-2-30-1,,komo1258-2,30,telimbadé kɔʃinkwolo,telimbadé kɔʃinkwolo,[],( 20 + 10 ),[],,False,False,,2
+komo1258-2-100-1,,komo1258-2,100,kɛnnɛkumabus,kɛnnɛkumabus,[],,[],,False,False,,2
+komo1258-2-100-2,,komo1258-2,100,tɛ̀lbɛ́bʊsʼ,tɛ̀lbɛ́bʊsʼ,[],(SIL),[],,False,False,,2

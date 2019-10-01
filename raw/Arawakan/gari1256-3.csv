@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+gari1256-3-1-1,,gari1256-3,1,aba,aba,[],,[],,False,False,,2
+gari1256-3-2-1,,gari1256-3,2,biama,biama,[],,[],,False,False,,2
+gari1256-3-3-1,,gari1256-3,3,uruwa,uruwa,[],( < trois ),[],,False,False,,2
+gari1256-3-4-1,,gari1256-3,4,ɡadura,ɡadura,[],( < quatre ),[],,False,False,,2
+gari1256-3-5-1,,gari1256-3,5,senɡu,senɡu,[],( < cinq ),[],,False,False,,2
+gari1256-3-6-1,,gari1256-3,6,sisi,sisi,[],(<six ),[],,False,False,,2
+gari1256-3-7-1,,gari1256-3,7,seidi,seidi,[],(< sept ),[],,False,False,,2
+gari1256-3-8-1,,gari1256-3,8,widu,widu,[],( < huit ),[],,False,False,,2
+gari1256-3-9-1,,gari1256-3,9,nefu,nefu,[],( < neuf ),[],,False,False,,2
+gari1256-3-10-1,,gari1256-3,10,disi,disi,[],( < dix ),[],,False,False,,2
+gari1256-3-11-1,,gari1256-3,11,unsu,unsu,[],( < onze ),[],,False,False,,2
+gari1256-3-12-1,,gari1256-3,12,dusu,dusu,[],( < douze ),[],,False,False,,2
+gari1256-3-13-1,,gari1256-3,13,tereici,tereici,[],( <treize ),[],,False,False,,2
+gari1256-3-14-1,,gari1256-3,14,catorce,catorce,[],( <quatorze ),[],,False,False,,2
+gari1256-3-15-1,,gari1256-3,15,qensi ( quinze ) q = ?,qensi ( quinze ) q = ?,[],,[],,False,True,,2
+gari1256-3-16-1,,gari1256-3,16,disi sisi,disi sisi,[],( < dix-six ),[],,False,False,,2
+gari1256-3-17-1,,gari1256-3,17,disi desi,disi desi,[],( < dix-sept),[],,False,False,,2
+gari1256-3-18-1,,gari1256-3,18,disi widu,disi widu,[],( < dix-huit ),[],,False,False,,2
+gari1256-3-19-1,,gari1256-3,19,disi nefu,disi nefu,[],( < dix-neuf ),[],,False,False,,2
+gari1256-3-20-1,,gari1256-3,20,weŋ,weŋ,[],( < vingt ),[],,False,False,,2
+gari1256-3-21-1,,gari1256-3,21,weŋ aba,weŋ aba,[],,[],,False,False,,2
+gari1256-3-22-1,,gari1256-3,22,weŋ biama,weŋ biama,[],,[],,False,False,,2
+gari1256-3-23-1,,gari1256-3,23,weŋ uruwa,weŋ uruwa,[],,[],,False,False,,2
+gari1256-3-24-1,,gari1256-3,24,weŋ ɡadura,weŋ ɡadura,[],,[],,False,False,,2
+gari1256-3-25-1,,gari1256-3,25,weŋ senɡu,weŋ senɡu,[],,[],,False,False,,2
+gari1256-3-26-1,,gari1256-3,26,weŋ sisi,weŋ sisi,[],,[],,False,False,,2
+gari1256-3-27-1,,gari1256-3,27,weŋ seidi,weŋ seidi,[],,[],,False,False,,2
+gari1256-3-28-1,,gari1256-3,28,weŋ widu,weŋ widu,[],,[],,False,False,,2
+gari1256-3-29-1,,gari1256-3,29,weŋ nefu,weŋ nefu,[],,[],,False,False,,2
+gari1256-3-30-1,,gari1256-3,30,darandi,darandi,[],( < trente ),[],,False,False,,2
+gari1256-3-40-1,,gari1256-3,40,biama weŋ,biama weŋ,[],( < 2 + vingt ),[],,False,False,,2
+gari1256-3-50-1,,gari1256-3,50,biamawen disi,biamawen disi,[],,[],,False,False,,2
+gari1256-3-50-2,,gari1256-3,50,dimi san,dimi san,[],(<demi sent),[],,False,False,,2
+gari1256-3-60-1,,gari1256-3,60,uruwa weŋ,uruwa weŋ,[],,[],,False,False,,2
+gari1256-3-60-2,,gari1256-3,60,dimisaŋ disi,dimisaŋ disi,[],,[],,False,False,,2
+gari1256-3-70-1,,gari1256-3,70,uruwa weŋ disis,uruwa weŋ disis,[],,[],,False,False,,2
+gari1256-3-70-2,,gari1256-3,70,dimisaŋ weŋ,dimisaŋ weŋ,[],,[],,False,False,,2
+gari1256-3-80-1,,gari1256-3,80,ɡadura weŋ,ɡadura weŋ,[],,[],,False,False,,2
+gari1256-3-80-2,,gari1256-3,80,dimisaŋ darandi,dimisaŋ darandi,[],,[],,False,False,,2
+gari1256-3-90-1,,gari1256-3,90,ɡadura weŋ disi,ɡadura weŋ disi,[],,[],,False,False,,2
+gari1256-3-90-2,,gari1256-3,90,dimisaŋ biama weŋ,dimisaŋ biama weŋ,[],,[],,False,False,,2
+gari1256-3-100-1,,gari1256-3,100,saŋ,saŋ,[],( < cent ),[],,False,False,,2
+gari1256-3-200-1,,gari1256-3,200,biama saŋ,biama saŋ,[],,[],,False,False,,2
+gari1256-3-1000-1,,gari1256-3,1000,milu,milu,[],( < mil ),[],,False,False,,2
+gari1256-3-2000-1,,gari1256-3,2000,biama milu,biama milu,[],,[],,False,False,,2

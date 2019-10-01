@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ping1243-2-1-1,,ping1243-2,1,eu,eu,[],,[],,False,False,,2
+ping1243-2-2-1,,ping1243-2,2,riau,riau,[],,[],,False,False,,2
+ping1243-2-3-1,,ping1243-2,3,silu,silu,[],,[],,False,False,,2
+ping1243-2-4-1,,ping1243-2,4,pahu,pahu,[],,[],,False,False,,2
+ping1243-2-5-1,,ping1243-2,5,limau,limau,[],,[],,False,False,,2
+ping1243-2-6-1,,ping1243-2,6,wonou,wonou,[],,[],,False,False,,2
+ping1243-2-7-1,,ping1243-2,7,isu,isu,[],,[],,False,False,,2
+ping1243-2-8-1,,ping1243-2,8,waelu,waelu,[],,[],,False,False,,2
+ping1243-2-9-1,,ping1243-2,9,duoau,duoau,[],,[],,False,False,,2
+ping1243-2-10-1,,ping1243-2,10,eisaek,eisaek,[],,[],,False,False,,2
+ping1243-2-11-1,,ping1243-2,11,eisaek eu,eisaek eu,[],,[],,False,False,,2
+ping1243-2-12-1,,ping1243-2,12,eisaekriau,eisaekriau,[],,[],,False,False,,2
+ping1243-2-13-1,,ping1243-2,13,eisaeksilu,eisaeksilu,[],,[],,False,False,,2
+ping1243-2-14-1,,ping1243-2,14,eisaekpahu,eisaekpahu,[],,[],,False,False,,2
+ping1243-2-15-1,,ping1243-2,15,eisaeklimau,eisaeklimau,[],,[],,False,False,,2
+ping1243-2-16-1,,ping1243-2,16,eisaekwonou,eisaekwonou,[],,[],,False,False,,2
+ping1243-2-17-1,,ping1243-2,17,eisaekisu,eisaekisu,[],,[],,False,False,,2
+ping1243-2-18-1,,ping1243-2,18,eisaekwaelu,eisaekwaelu,[],,[],,False,False,,2
+ping1243-2-19-1,,ping1243-2,19,eisaek duoau,eisaek duoau,[],,[],,False,False,,2
+ping1243-2-20-1,,ping1243-2,20,rieisaek,rieisaek,[],,[],,False,False,,2
+ping1243-2-21-1,,ping1243-2,21,rieisaekeu,rieisaekeu,[],,[],,False,False,,2
+ping1243-2-22-1,,ping1243-2,22,rieisaekriau,rieisaekriau,[],,[],,False,False,,2
+ping1243-2-23-1,,ping1243-2,23,rieisaeksilu,rieisaeksilu,[],,[],,False,False,,2
+ping1243-2-24-1,,ping1243-2,24,rieisaekpahu,rieisaekpahu,[],,[],,False,False,,2
+ping1243-2-25-1,,ping1243-2,25,rieisaeklimau,rieisaeklimau,[],,[],,False,False,,2
+ping1243-2-26-1,,ping1243-2,26,rieisaek wonou,rieisaek wonou,[],,[],,False,False,,2
+ping1243-2-27-1,,ping1243-2,27,rieisaekisu,rieisaekisu,[],,[],,False,False,,2
+ping1243-2-28-1,,ping1243-2,28,rieisaekwaelu,rieisaekwaelu,[],,[],,False,False,,2
+ping1243-2-29-1,,ping1243-2,29,rieisaek duoau,rieisaek duoau,[],,[],,False,False,,2
+ping1243-2-30-1,,ping1243-2,30,silihsaek,silihsaek,[],,[],,False,False,,2
+ping1243-2-40-1,,ping1243-2,40,pahisaek,pahisaek,[],,[],,False,False,,2
+ping1243-2-50-1,,ping1243-2,50,limeisaek,limeisaek,[],,[],,False,False,,2
+ping1243-2-60-1,,ping1243-2,60,woneisaek,woneisaek,[],,[],,False,False,,2
+ping1243-2-70-1,,ping1243-2,70,isuhsaek,isuhsaek,[],,[],,False,False,,2
+ping1243-2-80-1,,ping1243-2,80,waelihsaek,waelihsaek,[],,[],,False,False,,2
+ping1243-2-90-1,,ping1243-2,90,tueisaek,tueisaek,[],,[],,False,False,,2
+ping1243-2-100-1,,ping1243-2,100,epwiki,epwiki,[],,[],,False,False,,2
+ping1243-2-200-1,,ping1243-2,200,repwiki,repwiki,[],,[],,False,False,,2
+ping1243-2-1000-1,,ping1243-2,1000,kid,kid,[],,[],,False,False,,2
+ping1243-2-2000-1,,ping1243-2,2000,riekid,riekid,[],,[],,False,False,,2

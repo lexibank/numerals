@@ -1,0 +1,51 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+latv1249-1-1-1,,latv1249-1,1,viɛns,viɛns,[],,[],,False,False,viens,1
+latv1249-1-1-2,,latv1249-1,1,viɛnɑ,viɛnɑ,[],(m./f.),[],,False,False,viena,1
+latv1249-1-2-1,,latv1249-1,2,ˈdivi,ˈdivi,[],,[],,False,False,divi,1
+latv1249-1-2-2,,latv1249-1,2,ˈdivɑs,ˈdivɑs,[],,[],,False,False,divas,1
+latv1249-1-3-1,,latv1249-1,3,triːs,triːs,[],,[],,False,False,tris,1
+latv1249-1-4-1,,latv1249-1,4,ˈt͡ʃɛtri,ˈt͡ʃɛtri,[],,[],,False,False,četri,1
+latv1249-1-4-2,,latv1249-1,4,ˈt͡ʃɛtrɑs,ˈt͡ʃɛtrɑs,[],,[],,False,False,četras,1
+latv1249-1-5-1,,latv1249-1,5,ˈpiɛt͡si,ˈpiɛt͡si,[],,[],,False,False,pieci,1
+latv1249-1-5-2,,latv1249-1,5,ˈpiɛt͡sɑs,ˈpiɛt͡sɑs,[],,[],,False,False,piecas,1
+latv1249-1-6-1,,latv1249-1,6,ˈseʃːi,ˈseʃːi,[],,[],,False,False,seši,1
+latv1249-1-6-2,,latv1249-1,6,ˈseʃːɑs,ˈseʃːɑs,[],,[],,False,False,sešas,1
+latv1249-1-7-1,,latv1249-1,7,ˈsɛptiɲi,ˈsɛptiɲi,[],,[],,False,False,septiṇi,1
+latv1249-1-7-2,,latv1249-1,7,ˈsɛptiɲɑs,ˈsɛptiɲɑs,[],,[],,False,False,septiṇas,1
+latv1249-1-8-1,,latv1249-1,8,ˈɑstuɔɲi,ˈɑstuɔɲi,[],,[],,False,False,astoṇi,1
+latv1249-1-8-2,,latv1249-1,8,ˈɑstuɔɲɑs,ˈɑstuɔɲɑs,[],,[],,False,False,astoṇas,1
+latv1249-1-9-1,,latv1249-1,9,ˈdɛviɲi,ˈdɛviɲi,[],,[],,False,False,deviṇi,1
+latv1249-1-9-2,,latv1249-1,9,ˈdɛviɲɑs,ˈdɛviɲɑs,[],,[],,False,False,deviṇas,1
+latv1249-1-10-1,,latv1249-1,10,ˈdɛsmit,ˈdɛsmit,[],,[],,False,False,desmit,1
+latv1249-1-11-1,,latv1249-1,11,ˈviɛnpɑt͡smit,ˈviɛnpɑt͡smit,[],,[],,False,False,vienpadsmit,1
+latv1249-1-12-1,,latv1249-1,12,ˈdiu̯pɑt͡smit,ˈdiu̯pɑt͡smit,[],,[],,False,False,divpadsmit,1
+latv1249-1-13-1,,latv1249-1,13,ˈtriːspɑt͡smit,ˈtriːspɑt͡smit,[],,[],,False,False,trispadsmit,1
+latv1249-1-14-1,,latv1249-1,14,ˈt͡ʃɛtrpɑt͡smit,ˈt͡ʃɛtrpɑt͡smit,[],,[],,False,False,četrpadsmit,1
+latv1249-1-15-1,,latv1249-1,15,ˈpiɛt͡spɑt͡smit,ˈpiɛt͡spɑt͡smit,[],,[],,False,False,piecpadsmit,1
+latv1249-1-16-1,,latv1249-1,16,ˈsɛʃpɑt͡smit,ˈsɛʃpɑt͡smit,[],,[],,False,False,sešpadsmit,1
+latv1249-1-17-1,,latv1249-1,17,ˈsɛptiɲpɑt͡smit,ˈsɛptiɲpɑt͡smit,[],,[],,False,False,septiṇpadsmit,1
+latv1249-1-18-1,,latv1249-1,18,ˈɑstuɔɲpɑt͡smit,ˈɑstuɔɲpɑt͡smit,[],,[],,False,False,astoṇpadsmit,1
+latv1249-1-19-1,,latv1249-1,19,ˈdɛviɲpɑt͡smit,ˈdɛviɲpɑt͡smit,[],,[],,False,False,deviṇpadsmit,1
+latv1249-1-20-1,,latv1249-1,20,ˈdiu̯dɛsmit,ˈdiu̯dɛsmit,[],,[],,False,False,divdesmit,1
+latv1249-1-21-1,,latv1249-1,21,ˌdiu̯dɛsmit ˈviɛns,ˌdiu̯dɛsmit ˈviɛns,[],,[],,False,False,divdesmit viens,1
+latv1249-1-22-1,,latv1249-1,22,ˌdiu̯dɛsmitˈdivi,ˌdiu̯dɛsmitˈdivi,[],,[],,False,False,divdesmit divi,1
+latv1249-1-23-1,,latv1249-1,23,ˌdiu̯dɛsmit ˈtriːs,ˌdiu̯dɛsmit ˈtriːs,[],,[],,False,False,divdesmit tris,1
+latv1249-1-24-1,,latv1249-1,24,ˌdiu̯dɛsmit ˈt͡ʃɛtri,ˌdiu̯dɛsmit ˈt͡ʃɛtri,[],,[],,False,False,divdesmit četri,1
+latv1249-1-25-1,,latv1249-1,25,ˌdiu̯dɛsmit ˈpiɛt͡si,ˌdiu̯dɛsmit ˈpiɛt͡si,[],,[],,False,False,divdesmit pieci,1
+latv1249-1-26-1,,latv1249-1,26,ˌdiu̯dɛsmit ˈseʃːi,ˌdiu̯dɛsmit ˈseʃːi,[],,[],,False,False,divdesmit seši,1
+latv1249-1-27-1,,latv1249-1,27,ˌdiu̯dɛsmit ˈsɛptiɲi,ˌdiu̯dɛsmit ˈsɛptiɲi,[],,[],,False,False,divdesmit septiṇi,1
+latv1249-1-28-1,,latv1249-1,28,ˌdiu̯dɛsmit ˈɑstuɔɲi,ˌdiu̯dɛsmit ˈɑstuɔɲi,[],,[],,False,False,divdesmit astoṇi,1
+latv1249-1-29-1,,latv1249-1,29,ˌdiu̯dɛsmit ˈdɛviɲi,ˌdiu̯dɛsmit ˈdɛviɲi,[],,[],,False,False,divdesmit deviṇi,1
+latv1249-1-30-1,,latv1249-1,30,ˈtriːsdɛsmit,ˈtriːsdɛsmit,[],,[],,False,False,trīsdesmit,1
+latv1249-1-40-1,,latv1249-1,40,ˈt͡ʃɛtrdɛsmit,ˈt͡ʃɛtrdɛsmit,[],,[],,False,False,četrdesmit,1
+latv1249-1-50-1,,latv1249-1,50,ˈpiɛt͡sdɛsmit,ˈpiɛt͡sdɛsmit,[],,[],,False,False,piecdesmit,1
+latv1249-1-60-1,,latv1249-1,60,ˈsɛʃdɛsmit ],ˈsɛʃdɛsmit ],[],,[],,False,True,sešdesmit,1
+latv1249-1-70-1,,latv1249-1,70,ˈsɛptiɲdɛsmit,ˈsɛptiɲdɛsmit,[],,[],,False,False,septiṇdesmit,1
+latv1249-1-80-1,,latv1249-1,80,ˈɑstuɔɲdɛsmit,ˈɑstuɔɲdɛsmit,[],,[],,False,False,astoṇdesmit,1
+latv1249-1-90-1,,latv1249-1,90,ˈdɛviɲdɛsmit,ˈdɛviɲdɛsmit,[],,[],,False,False,deviṇdesmit,1
+latv1249-1-100-1,,latv1249-1,100,simt͡s / simt,simt͡s,[],,[],,False,True,simt(s),1
+latv1249-1-100-2,,latv1249-1,100,simt͡s / simt,simt,[],,[],,False,True,simt(s),1
+latv1249-1-200-1,,latv1249-1,200,ˌdivi ˈsimti,ˌdivi ˈsimti,[],,[],,False,False,divi simti,1
+latv1249-1-200-2,,latv1249-1,200,ˈdiu̯simt,ˈdiu̯simt,[],,[],,False,False,divsim,1
+latv1249-1-1000-1,,latv1249-1,1000,ˈtuːkstuɔtis,ˈtuːkstuɔtis,[],,[],,False,False,tūkstotis,1
+latv1249-1-2000-1,,latv1249-1,2000,ˌdivi ˈtuːkstuɔʃi,ˌdivi ˈtuːkstuɔʃi,[],,[],,False,False,divi tūkstoši,1

@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lazz1240-1-1-1,,lazz1240-1,1,ɑɼ,ɑɼ,[],,[],,False,False,,1
+lazz1240-1-2-1,,lazz1240-1,2,ʒuɼ,ʒuɼ,[],,[],,False,False,,1
+lazz1240-1-3-1,,lazz1240-1,3,sum,sum,[],,[],,False,False,,1
+lazz1240-1-4-1,,lazz1240-1,4,ɔtxɔ,ɔtxɔ,[],,[],,False,False,,1
+lazz1240-1-5-1,,lazz1240-1,5,xut,xut,[],,[],,False,False,,1
+lazz1240-1-6-1,,lazz1240-1,6,ɑʃi,ɑʃi,[],,[],,False,False,,1
+lazz1240-1-7-1,,lazz1240-1,7,ʃkit,ʃkit,[],,[],,False,False,,1
+lazz1240-1-8-1,,lazz1240-1,8,ɔɣrɔ,ɔɣrɔ,[],,[],,False,False,,1
+lazz1240-1-9-1,,lazz1240-1,9,t͡ʃɔɣrɔ,t͡ʃɔɣrɔ,[],,[],,False,False,,1
+lazz1240-1-10-1,,lazz1240-1,10,vit,vit,[],,[],,False,False,,1
+lazz1240-1-11-1,,lazz1240-1,11,vitʼɔɑɼ,vitʼɔɑɼ,[],,[],,False,False,,1
+lazz1240-1-12-1,,lazz1240-1,12,vitʼɔʒuɼ,vitʼɔʒuɼ,[],,[],,False,False,,1
+lazz1240-1-13-1,,lazz1240-1,13,vitʼɔsum,vitʼɔsum,[],,[],,False,False,,1
+lazz1240-1-14-1,,lazz1240-1,14,vitʼɔɔtxɔ,vitʼɔɔtxɔ,[],,[],,False,False,,1
+lazz1240-1-15-1,,lazz1240-1,15,vitʼɔxut,vitʼɔxut,[],,[],,False,False,,1
+lazz1240-1-16-1,,lazz1240-1,16,vitʼɔɑʃi,vitʼɔɑʃi,[],,[],,False,False,,1
+lazz1240-1-17-1,,lazz1240-1,17,vitʼɔʃkit,vitʼɔʃkit,[],,[],,False,False,,1
+lazz1240-1-18-1,,lazz1240-1,18,vitʼɔɔɣrɔ,vitʼɔɔɣrɔ,[],,[],,False,False,,1
+lazz1240-1-19-1,,lazz1240-1,19,vitʼɔt͡ʃɔɣɔ,vitʼɔt͡ʃɔɣɔ,[],,[],,False,False,,1
+lazz1240-1-20-1,,lazz1240-1,20,ɛt͡ʃi,ɛt͡ʃi,[],,[],,False,False,,1
+lazz1240-1-21-1,,lazz1240-1,21,ɛt͡ʃdɔɑɼ,ɛt͡ʃdɔɑɼ,[],,[],,False,False,,1
+lazz1240-1-22-1,,lazz1240-1,22,ɛt͡ʃdɔʒuɼ,ɛt͡ʃdɔʒuɼ,[],,[],,False,False,,1
+lazz1240-1-23-1,,lazz1240-1,23,ɛt͡ʃdɔsum,ɛt͡ʃdɔsum,[],,[],,False,False,,1
+lazz1240-1-24-1,,lazz1240-1,24,ɛt͡ʃdɔɔtxɔ,ɛt͡ʃdɔɔtxɔ,[],,[],,False,False,,1
+lazz1240-1-25-1,,lazz1240-1,25,ɛt͡ʃdɔxut,ɛt͡ʃdɔxut,[],,[],,False,False,,1
+lazz1240-1-26-1,,lazz1240-1,26,ɛt͡ʃdɔɑʃi,ɛt͡ʃdɔɑʃi,[],,[],,False,False,,1
+lazz1240-1-27-1,,lazz1240-1,27,ɛt͡ʃdɔʃkit,ɛt͡ʃdɔʃkit,[],,[],,False,False,,1
+lazz1240-1-28-1,,lazz1240-1,28,ɛt͡ʃdɔɔɣrɔ,ɛt͡ʃdɔɔɣrɔ,[],,[],,False,False,,1
+lazz1240-1-29-1,,lazz1240-1,29,ɛt͡ʃdɔt͡ʃɔɣrɔ,ɛt͡ʃdɔt͡ʃɔɣrɔ,[],,[],,False,False,,1
+lazz1240-1-30-1,,lazz1240-1,30,ɛt͡ʃdɔvit,ɛt͡ʃdɔvit,[],( 20 + 10 ),[],,False,False,,1
+lazz1240-1-40-1,,lazz1240-1,40,ʒurdɔɛt͡ʃi,ʒurdɔɛt͡ʃi,[],( 2 x 20),[],,False,False,,1
+lazz1240-1-50-1,,lazz1240-1,50,ʒurdɔɛt͡ʃidɔvit,ʒurdɔɛt͡ʃidɔvit,[],,[],,False,False,,1
+lazz1240-1-60-1,,lazz1240-1,60,sumdɔɛt͡ʃi,sumdɔɛt͡ʃi,[],( 3 x 20),[],,False,False,,1
+lazz1240-1-70-1,,lazz1240-1,70,sumdɔɛt͡ʃdɔvit,sumdɔɛt͡ʃdɔvit,[],,[],,False,False,,1
+lazz1240-1-80-1,,lazz1240-1,80,ɔtxɔdɔɛt͡ʃi,ɔtxɔdɔɛt͡ʃi,[],( 4 x 20),[],,False,False,,1
+lazz1240-1-90-1,,lazz1240-1,90,ɔtxɔdɔɛt͡ʃdɔvit,ɔtxɔdɔɛt͡ʃdɔvit,[],,[],,False,False,,1
+lazz1240-1-100-1,,lazz1240-1,100,ɔʃi,ɔʃi,[],,[],,False,False,,1
+lazz1240-1-200-1,,lazz1240-1,200,ʒurɔʃi,ʒurɔʃi,[],,[],,False,False,,1
+lazz1240-1-1000-1,,lazz1240-1,1000,vitɔʃi,vitɔʃi,[],( 10 x 100),[],,False,False,,1
+lazz1240-1-1000-2,,lazz1240-1,1000,ʃilja,ʃilja,[],< Greek ,[],,True,False,,1
+lazz1240-1-2000-1,,lazz1240-1,2000,ʒurvitɔʃi,ʒurvitɔʃi,[],,[],,False,False,,1
+lazz1240-1-2000-2,,lazz1240-1,2000,ʒur ʃilja,ʒur ʃilja,[],,[],,False,False,,1

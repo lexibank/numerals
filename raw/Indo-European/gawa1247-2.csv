@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+gawa1247-2-1-1,,gawa1247-2,1,jak,jak,[],,[],,False,False,,2
+gawa1247-2-2-1,,gawa1247-2,2,d̪ʊ,d̪ʊ,[],,[],,False,False,,2
+gawa1247-2-3-1,,gawa1247-2,3,t̪ʰlˠɛ,t̪ʰlˠɛ,[],,[],,False,False,,2
+gawa1247-2-4-1,,gawa1247-2,4,t͡sʊr,t͡sʊr,[],,[],,False,False,,2
+gawa1247-2-5-1,,gawa1247-2,5,pant͡s,pant͡s,[],,[],,False,False,,2
+gawa1247-2-6-1,,gawa1247-2,6,ʃo,ʃo,[],,[],,False,False,,2
+gawa1247-2-7-1,,gawa1247-2,7,sat̪,sat̪,[],,[],,False,False,,2
+gawa1247-2-8-1,,gawa1247-2,8,oʂʈ,oʂʈ,[],,[],,False,False,,2
+gawa1247-2-9-1,,gawa1247-2,9,nʊ,nʊ,[],,[],,False,False,,2
+gawa1247-2-10-1,,gawa1247-2,10,d̪aʂ,d̪aʂ,[],,[],,False,False,,2
+gawa1247-2-11-1,,gawa1247-2,11,dʒaʃ,dʒaʃ,[],,[],,False,False,,2
+gawa1247-2-12-1,,gawa1247-2,12,baʂ,baʂ,[],,[],,False,False,,2
+gawa1247-2-13-1,,gawa1247-2,13,t̪ʰlˠamaʂ,t̪ʰlˠamaʂ,[],,[],,False,False,,2
+gawa1247-2-14-1,,gawa1247-2,14,t͡ʃʊd̪aʂ,t͡ʃʊd̪aʂ,[],,[],,False,False,,2
+gawa1247-2-15-1,,gawa1247-2,15,pɛnd͡ʒaʂ,pɛnd͡ʒaʂ,[],,[],,False,False,,2
+gawa1247-2-16-1,,gawa1247-2,16,ʂʊlˠaʂ,ʂʊlˠaʂ,[],,[],,False,False,,2
+gawa1247-2-17-1,,gawa1247-2,17,sat̪aʂ,sat̪aʂ,[],,[],,False,False,,2
+gawa1247-2-18-1,,gawa1247-2,18,oʂt̪as,oʂt̪as,[],,[],,False,False,,2
+gawa1247-2-19-1,,gawa1247-2,19,iːniʃ,iːniʃ,[],( 20 -1 ),[],,False,False,,2
+gawa1247-2-20-1,,gawa1247-2,20,iːʃi,iːʃi,[],,[],,False,False,,2
+gawa1247-2-21-1,,gawa1247-2,21,iʃo jak,iʃo jak,[],,[],,False,False,,2
+gawa1247-2-22-1,,gawa1247-2,22,iʃo d̪ʊ,iʃo d̪ʊ,[],,[],,False,False,,2
+gawa1247-2-23-1,,gawa1247-2,23,iʃo t̪ʰlˠɛ,iʃo t̪ʰlˠɛ,[],,[],,False,False,,2
+gawa1247-2-24-1,,gawa1247-2,24,iʃo t͡sʊr,iʃo t͡sʊr,[],,[],,False,False,,2
+gawa1247-2-25-1,,gawa1247-2,25,iʃo pant͡s,iʃo pant͡s,[],,[],,False,False,,2
+gawa1247-2-26-1,,gawa1247-2,26,iʃo ʃo,iʃo ʃo,[],,[],,False,False,,2
+gawa1247-2-27-1,,gawa1247-2,27,iʃo sat̪,iʃo sat̪,[],,[],,False,False,,2
+gawa1247-2-28-1,,gawa1247-2,28,iʃo oʂʈ,iʃo oʂʈ,[],,[],,False,False,,2
+gawa1247-2-29-1,,gawa1247-2,29,iʃo nʊ,iʃo nʊ,[],,[],,False,False,,2
+gawa1247-2-30-1,,gawa1247-2,30,iʃo d̪aʂ,iʃo d̪aʂ,[],(20 + 10),[],,False,False,,2
+gawa1247-2-40-1,,gawa1247-2,40,d̪ʊ iʃi,d̪ʊ iʃi,[],( 2 x 20),[],,False,False,,2
+gawa1247-2-50-1,,gawa1247-2,50,d̪ʊj ʃʊ d̪aʂ,d̪ʊj ʃʊ d̪aʂ,[],[(3 x 20) +10],[],,False,False,,2
+gawa1247-2-60-1,,gawa1247-2,60,t̪ʰlˠiʃ,t̪ʰlˠiʃ,[],( 3 x 20),[],,False,False,,2
+gawa1247-2-70-1,,gawa1247-2,70,t̪ʰlˠi ʃo d̪aʃ,t̪ʰlˠi ʃo d̪aʃ,[],[(3 x 20) +10],[],,False,False,,2
+gawa1247-2-80-1,,gawa1247-2,80,t͡sʊrsi,t͡sʊrsi,[],( 4 x 20),[],,False,False,,2
+gawa1247-2-90-1,,gawa1247-2,90,t͡sʊr ʃo d̪aʃ,t͡sʊr ʃo d̪aʃ,[],[(4 x 20) +10],[],,False,False,,2
+gawa1247-2-100-1,,gawa1247-2,100,paji ʃi,paji ʃi,[],( 5 x 20),[],,False,False,,2
+gawa1247-2-200-1,,gawa1247-2,200,d̪ʊ saʋa,d̪ʊ saʋa,[],,[],,False,False,,2
+gawa1247-2-1000-1,,gawa1247-2,1000,zar,zar,[],( pl. zara),[],,False,False,,2
+gawa1247-2-2000-1,,gawa1247-2,2000,d̪ʊ zara,d̪ʊ zara,[],,[],,False,False,,2

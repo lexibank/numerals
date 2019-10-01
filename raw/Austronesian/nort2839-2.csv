@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nort2839-2-1-1,,nort2839-2,1,hu,hu,[],,[],,False,False,,2
+nort2839-2-2-1,,nort2839-2,2,ru,ru,[],,[],,False,False,,2
+nort2839-2-3-1,,nort2839-2,3,sul,sul,[],,[],,False,False,,2
+nort2839-2-4-1,,nort2839-2,4,ver,ver,[],,[],,False,False,,2
+nort2839-2-4-2,,nort2839-2,4,vir,vir,[],,[],,False,False,,2
+nort2839-2-5-1,,nort2839-2,5,lim,lim,[],,[],,False,False,,2
+nort2839-2-6-1,,nort2839-2,6,lⁱuse,lⁱuse,[],( 5 + 1),[],,False,False,,2
+nort2839-2-7-1,,nort2839-2,7,lⁱuru,lⁱuru,[],( 5 + 2),[],,False,False,,2
+nort2839-2-8-1,,nort2839-2,8,lⁱusul,lⁱusul,[],( 5 + 3),[],,False,False,,2
+nort2839-2-9-1,,nort2839-2,9,yafɛ,yafɛ,[],,[],,False,False,,2
+nort2839-2-9-2,,nort2839-2,9,ljafɛr,ljafɛr,[],( 5 + 4),[],,False,False,,2
+nort2839-2-10-1,,nort2839-2,10,saŋul,saŋul,[],,[],,False,False,,2
+nort2839-2-11-1,,nort2839-2,11,saŋul a hu,saŋul a hu,[],,[],,False,False,,2
+nort2839-2-12-1,,nort2839-2,12,saŋul a ru,saŋul a ru,[],,[],,False,False,,2
+nort2839-2-13-1,,nort2839-2,13,saŋul a sul,saŋul a sul,[],,[],,False,False,,2
+nort2839-2-14-1,,nort2839-2,14,saŋul a ver,saŋul a ver,[],,[],,False,False,,2
+nort2839-2-15-1,,nort2839-2,15,saŋul a lim,saŋul a lim,[],,[],,False,False,,2
+nort2839-2-16-1,,nort2839-2,16,saŋul a lⁱuse,saŋul a lⁱuse,[],,[],,False,False,,2
+nort2839-2-17-1,,nort2839-2,17,saŋul a lⁱuru,saŋul a lⁱuru,[],,[],,False,False,,2
+nort2839-2-18-1,,nort2839-2,18,saŋul a lⁱusul,saŋul a lⁱusul,[],,[],,False,False,,2
+nort2839-2-19-1,,nort2839-2,19,saŋul a yafɛ,saŋul a yafɛ,[],,[],,False,False,,2
+nort2839-2-20-1,,nort2839-2,20,wiːŋil ŋaru,wiːŋil ŋaru,[],,[],,False,False,,2
+nort2839-2-21-1,,nort2839-2,21,wiːŋil ŋaru a hu,wiːŋil ŋaru a hu,[],,[],,False,False,,2
+nort2839-2-22-1,,nort2839-2,22,wiːŋil ŋaru a ru,wiːŋil ŋaru a ru,[],,[],,False,False,,2
+nort2839-2-23-1,,nort2839-2,23,wiːŋil ŋaru a sul,wiːŋil ŋaru a sul,[],,[],,False,False,,2
+nort2839-2-24-1,,nort2839-2,24,wiːŋil ŋaru a vel,wiːŋil ŋaru a vel,[],,[],,False,False,,2
+nort2839-2-25-1,,nort2839-2,25,wiːŋil ŋaru a lim,wiːŋil ŋaru a lim,[],,[],,False,False,,2
+nort2839-2-26-1,,nort2839-2,26,wiːŋil ŋaru a lⁱuse,wiːŋil ŋaru a lⁱuse,[],,[],,False,False,,2
+nort2839-2-27-1,,nort2839-2,27,wiːŋil ŋaru a lⁱuru,wiːŋil ŋaru a lⁱuru,[],,[],,False,False,,2
+nort2839-2-28-1,,nort2839-2,28,wiːŋil ŋaru a lⁱusul,wiːŋil ŋaru a lⁱusul,[],,[],,False,False,,2
+nort2839-2-29-1,,nort2839-2,29,wiːŋil ŋaru a yafɛ,wiːŋil ŋaru a yafɛ,[],,[],,False,False,,2
+nort2839-2-30-1,,nort2839-2,30,wiːŋil ŋasul,wiːŋil ŋasul,[],,[],,False,False,,2
+nort2839-2-40-1,,nort2839-2,40,wiːŋil ŋaver,wiːŋil ŋaver,[],,[],,False,False,,2
+nort2839-2-50-1,,nort2839-2,50,wiːŋil ŋalim,wiːŋil ŋalim,[],,[],,False,False,,2
+nort2839-2-60-1,,nort2839-2,60,wiːŋil ŋalⁱuse,wiːŋil ŋalⁱuse,[],,[],,False,False,,2
+nort2839-2-70-1,,nort2839-2,70,wiːŋil ŋalⁱuru,wiːŋil ŋalⁱuru,[],,[],,False,False,,2
+nort2839-2-80-1,,nort2839-2,80,wiːŋil ŋalⁱusul,wiːŋil ŋalⁱusul,[],,[],,False,False,,2
+nort2839-2-90-1,,nort2839-2,90,wiːŋil ŋayafɛ,wiːŋil ŋayafɛ,[],,[],,False,False,,2
+nort2839-2-100-1,,nort2839-2,100,wiːŋil ŋa be saŋul,wiːŋil ŋa be saŋul,[],( 10 x 10 ),[],,False,False,,2
+nort2839-2-200-1,,nort2839-2,200,wiːŋil mamrɔm ran beva ru,wiːŋil mamrɔm ran beva ru,[],,[],,False,False,,2
+nort2839-2-1000-1,,nort2839-2,1000,wiːŋil mamrɔm ran beva saŋul,wiːŋil mamrɔm ran beva saŋul,[],,[],,False,False,,2

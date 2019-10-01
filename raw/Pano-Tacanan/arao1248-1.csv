@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+arao1248-1-1-1,,arao1248-1,1,pea:da,pea:da,[],(litː one),[],,False,False,,1
+arao1248-1-2-1,,arao1248-1,2,betakata,betakata,[],(litː few restricted to two),[],,False,False,,1
+arao1248-1-3-1,,arao1248-1,3,kimiʃa,kimiʃa,[],( < Aymara or Quechua ),[],,True,False,,1
+arao1248-1-4-1,,arao1248-1,4,mipakata,mipakata,[],"(litː four, the etymology of this word is opaque)",[],,False,False,,1
+arao1248-1-5-1,,arao1248-1,5,eme ʃokwe,eme ʃokwe,[],"(litː other different finger, 'thumb')",[],,False,False,,1
+arao1248-1-6-1,,arao1248-1,6,eme ʃokwe peaːda nae,eme ʃokwe peaːda nae,[],(litː 'thumb with one'),[],,False,False,,1
+arao1248-1-7-1,,arao1248-1,7,eme ʃokwe betakata nae,eme ʃokwe betakata nae,[],(litː 'thumb with two'),[],,False,False,,1
+arao1248-1-8-1,,arao1248-1,8,eme ʃokwe kimiʃa nae,eme ʃokwe kimiʃa nae,[],(litː 'thumb with three'),[],,False,False,,1
+arao1248-1-9-1,,arao1248-1,9,eme ʃokwe mipakata nae,eme ʃokwe mipakata nae,[],(litː 'thumb with four'),[],,False,False,,1
+arao1248-1-10-1,,arao1248-1,10,eme detse,eme detse,[],(litː 'both hands'),[],,False,False,,1
+arao1248-1-11-1,,arao1248-1,11,eme detse peaːda nae,eme detse peaːda nae,[],(litː 'both hands with one'),[],,False,False,,1
+arao1248-1-12-1,,arao1248-1,12,eme detse betakata nae,eme detse betakata nae,[],(litː 'both hands with two'),[],,False,False,,1
+arao1248-1-13-1,,arao1248-1,13,eme detse peaːda nae,eme detse peaːda nae,[],(litː 'both hands with three'),[],,False,False,,1
+arao1248-1-14-1,,arao1248-1,14,eme detse mipakata nae,eme detse mipakata nae,[],(litː 'both hands with four'),[],,False,False,,1
+arao1248-1-15-1,,arao1248-1,15,eme kimʃa,eme kimʃa,[],(litː 'three hands'),[],,False,False,,1
+arao1248-1-16-1,,arao1248-1,16,eme kimʃakata peaːda nae,eme kimʃakata peaːda nae,[],(litː 'three hands with one'),[],,False,False,,1
+arao1248-1-17-1,,arao1248-1,17,eme kimʃakata betakata nae,eme kimʃakata betakata nae,[],(litː 'three hands with two'),[],,False,False,,1
+arao1248-1-18-1,,arao1248-1,18,eme kimʃakata kimiʃa nae,eme kimʃakata kimiʃa nae,[],(litː 'three hands with three'),[],,False,False,,1
+arao1248-1-19-1,,arao1248-1,19,eme kimʃakata mipakata nae,eme kimʃakata mipakata nae,[],(litː 'three hands with four'),[],,False,False,,1
+arao1248-1-20-1,,arao1248-1,20,eme mipakata,eme mipakata,[],(litː 'four hands'),[],,False,False,,1

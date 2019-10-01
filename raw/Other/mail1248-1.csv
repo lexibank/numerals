@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mail1248-1-1-1,,mail1248-1,1,ʔomu,ʔomu,[],,[],,False,False,,1
+mail1248-1-1-2,,mail1248-1,1,omuna,omuna,[],,[],,False,False,,1
+mail1248-1-2-1,,mail1248-1,2,ʔava,ʔava,[],,[],,False,False,,1
+mail1248-1-3-1,,mail1248-1,3,aiseri,aiseri,[],,[],,False,False,,1
+mail1248-1-4-1,,mail1248-1,4,tourai,tourai,[],,[],,False,False,,1
+mail1248-1-5-1,,mail1248-1,5,ima ʔomu,ima ʔomu,[],,[],,False,False,,1
+mail1248-1-6-1,,mail1248-1,6,ima lilia ʔomu,ima lilia ʔomu,[],( 5 + 1 ),[],,False,False,,1
+mail1248-1-7-1,,mail1248-1,7,ima lilia ʔava,ima lilia ʔava,[],( 5 + 2 ),[],,False,False,,1
+mail1248-1-8-1,,mail1248-1,8,ima lilia aiseri,ima lilia aiseri,[],( 5 + 3 ),[],,False,False,,1
+mail1248-1-9-1,,mail1248-1,9,ima lilia tourai,ima lilia tourai,[],( 5 + 4 ),[],,False,False,,1
+mail1248-1-10-1,,mail1248-1,10,nanau ʔomu,nanau ʔomu,[],,[],,False,False,,1
+mail1248-1-11-1,,mail1248-1,11,nanau ʔomu ʔomu,nanau ʔomu ʔomu,[],,[],,False,False,,1
+mail1248-1-12-1,,mail1248-1,12,nanau ʔomu ʔava,nanau ʔomu ʔava,[],,[],,False,False,,1
+mail1248-1-13-1,,mail1248-1,13,nanau ʔomu aiseri,nanau ʔomu aiseri,[],,[],,False,False,,1
+mail1248-1-14-1,,mail1248-1,14,nanau ʔomu tourai,nanau ʔomu tourai,[],,[],,False,False,,1
+mail1248-1-15-1,,mail1248-1,15,nanau ʔomu ima,nanau ʔomu ima,[],,[],,False,False,,1
+mail1248-1-16-1,,mail1248-1,16,nanau ʔomu ima lilia ʔomu,nanau ʔomu ima lilia ʔomu,[],,[],,False,False,,1
+mail1248-1-17-1,,mail1248-1,17,nanau ʔomu ima lilia ʔava,nanau ʔomu ima lilia ʔava,[],,[],,False,False,,1
+mail1248-1-18-1,,mail1248-1,18,nanau ʔomu ima lilia aiseri,nanau ʔomu ima lilia aiseri,[],,[],,False,False,,1
+mail1248-1-19-1,,mail1248-1,19,nanau ʔomu ima lilia tourai,nanau ʔomu ima lilia tourai,[],,[],,False,False,,1
+mail1248-1-20-1,,mail1248-1,20,nanau ʔava,nanau ʔava,[],,[],,False,False,,1
+mail1248-1-21-1,,mail1248-1,21,nanau ʔava ʔomu,nanau ʔava ʔomu,[],,[],,False,False,,1
+mail1248-1-22-1,,mail1248-1,22,nanau ʔavaʔava,nanau ʔavaʔava,[],,[],,False,False,,1
+mail1248-1-23-1,,mail1248-1,23,nanau ʔava aiseri,nanau ʔava aiseri,[],,[],,False,False,,1
+mail1248-1-24-1,,mail1248-1,24,nanau ʔava tourai,nanau ʔava tourai,[],,[],,False,False,,1
+mail1248-1-25-1,,mail1248-1,25,nanau ʔava ima,nanau ʔava ima,[],,[],,False,False,,1
+mail1248-1-26-1,,mail1248-1,26,nanau ʔava ima lilia ʔomu,nanau ʔava ima lilia ʔomu,[],,[],,False,False,,1
+mail1248-1-27-1,,mail1248-1,27,nanau ʔava ima lilia ʔava,nanau ʔava ima lilia ʔava,[],,[],,False,False,,1
+mail1248-1-28-1,,mail1248-1,28,nanau ʔava ima lilia aiseri,nanau ʔava ima lilia aiseri,[],,[],,False,False,,1
+mail1248-1-29-1,,mail1248-1,29,nanau ʔava ima lilia tourai,nanau ʔava ima lilia tourai,[],,[],,False,False,,1
+mail1248-1-30-1,,mail1248-1,30,nanau aiseri,nanau aiseri,[],,[],,False,False,,1
+mail1248-1-40-1,,mail1248-1,40,nanau tourai,nanau tourai,[],,[],,False,False,,1
+mail1248-1-50-1,,mail1248-1,50,nanau ima,nanau ima,[],,[],,False,False,,1
+mail1248-1-60-1,,mail1248-1,60,nanau ima lilia ʔomu,nanau ima lilia ʔomu,[],,[],,False,False,,1
+mail1248-1-70-1,,mail1248-1,70,nanau ima lilia ʔava,nanau ima lilia ʔava,[],,[],,False,False,,1
+mail1248-1-80-1,,mail1248-1,80,nanau ima lilia aiseri,nanau ima lilia aiseri,[],,[],,False,False,,1
+mail1248-1-90-1,,mail1248-1,90,nanau ima lilia tourai,nanau ima lilia tourai,[],,[],,False,False,,1
+mail1248-1-100-1,,mail1248-1,100,wuwuru ʔomu or nanau gabana ??,wuwuru ʔomu or nanau gabana ??,[],,[],,False,True,,1
+mail1248-1-200-1,,mail1248-1,200,wuwuru ʔava,wuwuru ʔava,[],,[],,False,False,,1
+mail1248-1-1000-1,,mail1248-1,1000,wuwuru ima ʔomu,wuwuru ima ʔomu,[],,[],,False,False,,1
+mail1248-1-2000-1,,mail1248-1,2000,wuwuru ima ʔava,wuwuru ima ʔava,[],,[],,False,False,,1

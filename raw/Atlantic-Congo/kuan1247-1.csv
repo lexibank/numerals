@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kuan1247-1-1-1,,kuan1247-1,1,i.mwé,i.mwé,[],,[],,False,False,,1
+kuan1247-1-2-1,,kuan1247-1,2,mba.lí,mba.lí,[],,[],,False,False,,1
+kuan1247-1-3-1,,kuan1247-1,3,n̥a.tú,n̥a.tú,[],,[],,False,False,,1
+kuan1247-1-4-1,,kuan1247-1,4,n̥e.é,n̥e.é,[],,[],,False,False,,1
+kuan1247-1-5-1,,kuan1247-1,5,n̥a.nó,n̥a.nó,[],,[],,False,False,,1
+kuan1247-1-6-1,,kuan1247-1,6,ha.má.nó,ha.má.nó,[],,[],,False,False,,1
+kuan1247-1-6-2,,kuan1247-1,6,n̥a.nó.na.i.mwé,n̥a.nó.na.i.mwé,[],( 5 + 1 ),[],,False,False,,1
+kuan1247-1-7-1,,kuan1247-1,7,he.yá.li,he.yá.li,[],,[],,False,False,,1
+kuan1247-1-7-2,,kuan1247-1,7,n̥a.nó.na.i.mba.lí,n̥a.nó.na.i.mba.lí,[],( 5 + 2 ),[],,False,False,,1
+kuan1247-1-8-1,,kuan1247-1,8,he.tá.tu,he.tá.tu,[],,[],,False,False,,1
+kuan1247-1-8-2,,kuan1247-1,8,n̥a.nó.na.n̥a.tú,n̥a.nó.na.n̥a.tú,[],( 5 + 3 ),[],,False,False,,1
+kuan1247-1-9-1,,kuan1247-1,9,o.ŋ.ŋɡo.yi,o.ŋ.ŋɡo.yi,[],,[],,False,False,,1
+kuan1247-1-9-2,,kuan1247-1,9,n̥a.nó.na.n̥e.é,n̥a.nó.na.n̥e.é,[],( 5 + 4 ),[],,False,False,,1
+kuan1247-1-10-1,,kuan1247-1,10,o.m.lo.ŋɡo,o.m.lo.ŋɡo,[],,[],,False,False,,1
+kuan1247-1-11-1,,kuan1247-1,11,o.m.lo.ŋɡo.na.i.mwé,o.m.lo.ŋɡo.na.i.mwé,[],,[],,False,False,,1
+kuan1247-1-12-1,,kuan1247-1,12,o.m.lo.ŋɡo.na.mba.lí,o.m.lo.ŋɡo.na.mba.lí,[],,[],,False,False,,1
+kuan1247-1-13-1,,kuan1247-1,13,o.m.lo.ŋɡo.na.n̥a.tú,o.m.lo.ŋɡo.na.n̥a.tú,[],,[],,False,False,,1
+kuan1247-1-14-1,,kuan1247-1,14,o.m.lo.ŋɡo.na.n̥e.é,o.m.lo.ŋɡo.na.n̥e.é,[],,[],,False,False,,1
+kuan1247-1-15-1,,kuan1247-1,15,o.m.lo.ŋɡo.na.n̥a.nó,o.m.lo.ŋɡo.na.n̥a.nó,[],,[],,False,False,,1
+kuan1247-1-16-1,,kuan1247-1,16,o.m.lo.ŋɡo.na.ha.má.nó,o.m.lo.ŋɡo.na.ha.má.nó,[],,[],,False,False,,1
+kuan1247-1-17-1,,kuan1247-1,17,o.m.lo.ŋɡo.na.he.yá.li,o.m.lo.ŋɡo.na.he.yá.li,[],,[],,False,False,,1
+kuan1247-1-18-1,,kuan1247-1,18,o.m.lo.ŋɡo.na.he.tá.tu,o.m.lo.ŋɡo.na.he.tá.tu,[],,[],,False,False,,1
+kuan1247-1-19-1,,kuan1247-1,19,o.m.lo.ŋɡo.na.o.ŋ.ŋɡo.yi,o.m.lo.ŋɡo.na.o.ŋ.ŋɡo.yi,[],,[],,False,False,,1
+kuan1247-1-20-1,,kuan1247-1,20,o.mi.lo.ŋɡo.na.mba.lí,o.mi.lo.ŋɡo.na.mba.lí,[],,[],,False,False,,1
+kuan1247-1-21-1,,kuan1247-1,21,o.mi.lo.ŋɡo.na.mba.lí.ná.i.mwé,o.mi.lo.ŋɡo.na.mba.lí.ná.i.mwé,[],,[],,False,False,,1
+kuan1247-1-22-1,,kuan1247-1,22,o.mi.lo.ŋɡo.na.mba.lí.ná.mba.lí,o.mi.lo.ŋɡo.na.mba.lí.ná.mba.lí,[],,[],,False,False,,1
+kuan1247-1-23-1,,kuan1247-1,23,o.mi.lo.ŋɡo.na.mba.lí.ná.n̥a.tú,o.mi.lo.ŋɡo.na.mba.lí.ná.n̥a.tú,[],,[],,False,False,,1
+kuan1247-1-24-1,,kuan1247-1,24,o.mi.lo.ŋɡo.na.mba.lí.ná.n̥e.é,o.mi.lo.ŋɡo.na.mba.lí.ná.n̥e.é,[],,[],,False,False,,1
+kuan1247-1-25-1,,kuan1247-1,25,o.mi.lo.ŋɡo.na.mba.lí.ná.n̥a.nó,o.mi.lo.ŋɡo.na.mba.lí.ná.n̥a.nó,[],,[],,False,False,,1
+kuan1247-1-26-1,,kuan1247-1,26,o.mi.lo.ŋɡo.na.mba.lí.ná.ha.má.nó,o.mi.lo.ŋɡo.na.mba.lí.ná.ha.má.nó,[],,[],,False,False,,1
+kuan1247-1-27-1,,kuan1247-1,27,o.mi.lo.ŋɡo.na.mba.lí.ná.he.yá.li,o.mi.lo.ŋɡo.na.mba.lí.ná.he.yá.li,[],,[],,False,False,,1
+kuan1247-1-28-1,,kuan1247-1,28,o.mi.lo.ŋɡo.na.mba.lí.ná.he.tá.tu,o.mi.lo.ŋɡo.na.mba.lí.ná.he.tá.tu,[],,[],,False,False,,1
+kuan1247-1-29-1,,kuan1247-1,29,o.mi.lo.ŋɡo.na.mba.lí.ná.o.ŋ.ŋɡo.yi,o.mi.lo.ŋɡo.na.mba.lí.ná.o.ŋ.ŋɡo.yi,[],,[],,False,False,,1
+kuan1247-1-30-1,,kuan1247-1,30,o.mi.lo.ŋɡo.na.n̥a.tú,o.mi.lo.ŋɡo.na.n̥a.tú,[],,[],,False,False,,1
+kuan1247-1-40-1,,kuan1247-1,40,o.mi.lo.ŋɡo.na.n̥e.é,o.mi.lo.ŋɡo.na.n̥e.é,[],,[],,False,False,,1
+kuan1247-1-50-1,,kuan1247-1,50,o.mi.lo.ŋɡo.na.n̥a.nó,o.mi.lo.ŋɡo.na.n̥a.nó,[],,[],,False,False,,1
+kuan1247-1-60-1,,kuan1247-1,60,o.mi.lo.ŋɡo.na.ha.má.nó,o.mi.lo.ŋɡo.na.ha.má.nó,[],,[],,False,False,,1
+kuan1247-1-70-1,,kuan1247-1,70,o.mi.lo.ŋɡo.na.he.yá.li,o.mi.lo.ŋɡo.na.he.yá.li,[],,[],,False,False,,1
+kuan1247-1-80-1,,kuan1247-1,80,o.mi.lo.ŋɡo.na.he.tá.tu,o.mi.lo.ŋɡo.na.he.tá.tu,[],,[],,False,False,,1
+kuan1247-1-90-1,,kuan1247-1,90,o.mi.lo.ŋɡo.na.(o.).ŋɡo.yi,o.mi.lo.ŋɡo.na.(o.).ŋɡo.yi,[],,[],,False,False,,1
+kuan1247-1-100-1,,kuan1247-1,100,e.fe.lé,e.fe.lé,[],,[],,False,False,,1
+kuan1247-1-200-1,,kuan1247-1,200,o.ma.fe.lé.á.vá.lí,o.ma.fe.lé.á.vá.lí,[],,[],,False,False,,1
+kuan1247-1-1000-1,,kuan1247-1,1000,e.yo.ví,e.yo.ví,[],,[],,False,False,,1
+kuan1247-1-2000-1,,kuan1247-1,2000,o.ma.yo.vʲá.á.vá.lí,o.ma.yo.vʲá.á.vá.lí,[],,[],,False,False,,1

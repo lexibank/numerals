@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+budu1248-1-1-1,,budu1248-1,1,säb,säb,[],,[],,False,False,,1
+budu1248-1-2-1,,budu1248-1,2,qʼab,qʼab,[],,[],,False,False,,1
+budu1248-1-3-1,,budu1248-1,3,şub,şub,[],,[],,False,False,,1
+budu1248-1-4-1,,budu1248-1,4,yuqʼub,yuqʼub,[],,[],,False,False,,1
+budu1248-1-5-1,,budu1248-1,5,fub,fub,[],,[],,False,False,,1
+budu1248-1-6-1,,budu1248-1,6,rɪxhɪb,rɪxhɪb,[],,[],,False,False,,1
+budu1248-1-7-1,,budu1248-1,7,yi'ib,yi'ib,[],,[],,False,False,,1
+budu1248-1-8-1,,budu1248-1,8,mɪyɪb,mɪyɪb,[],,[],,False,False,,1
+budu1248-1-9-1,,budu1248-1,9,viçʼɪb,viçʼɪb,[],,[],,False,False,,1
+budu1248-1-10-1,,budu1248-1,10,yitsʼɪb,yitsʼɪb,[],,[],,False,False,,1
+budu1248-1-11-1,,budu1248-1,11,ɪsnasäb,ɪsnasäb,[],,[],,False,False,,1
+budu1248-1-12-1,,budu1248-1,12,ɪsnaqʼab,ɪsnaqʼab,[],,[],,False,False,,1
+budu1248-1-13-1,,budu1248-1,13,ɪsnaşub,ɪsnaşub,[],,[],,False,False,,1
+budu1248-1-14-1,,budu1248-1,14,ɪsnayuqʼub,ɪsnayuqʼub,[],,[],,False,False,,1
+budu1248-1-15-1,,budu1248-1,15,ɪsnafub,ɪsnafub,[],,[],,False,False,,1
+budu1248-1-16-1,,budu1248-1,16,ɪsnarɪxhɪb,ɪsnarɪxhɪb,[],,[],,False,False,,1
+budu1248-1-17-1,,budu1248-1,17,ɪsnarɪ'ɪb,ɪsnarɪ'ɪb,[],,[],,False,False,,1
+budu1248-1-18-1,,budu1248-1,18,ɪsnamɪyɪb,ɪsnamɪyɪb,[],,[],,False,False,,1
+budu1248-1-19-1,,budu1248-1,19,ɪsnaviçʼɪb,ɪsnaviçʼɪb,[],,[],,False,False,,1
+budu1248-1-20-1,,budu1248-1,20,q:ab,q:ab,[],,[],,False,False,,1
+budu1248-1-21-1,,budu1248-1,21,q:anasäb,q:anasäb,[],,[],,False,False,,1
+budu1248-1-22-1,,budu1248-1,22,q:anaqʼab,q:anaqʼab,[],,[],,False,False,,1
+budu1248-1-23-1,,budu1248-1,23,q:anaşub,q:anaşub,[],,[],,False,False,,1
+budu1248-1-24-1,,budu1248-1,24,q:anayuqʼub,q:anayuqʼub,[],,[],,False,False,,1
+budu1248-1-25-1,,budu1248-1,25,q:anafub,q:anafub,[],,[],,False,False,,1
+budu1248-1-26-1,,budu1248-1,26,q:anarɪxhɪb,q:anarɪxhɪb,[],,[],,False,False,,1
+budu1248-1-27-1,,budu1248-1,27,q:anayi'ib,q:anayi'ib,[],,[],,False,False,,1
+budu1248-1-28-1,,budu1248-1,28,q:anamɪyɪb,q:anamɪyɪb,[],,[],,False,False,,1
+budu1248-1-29-1,,budu1248-1,29,q:anaviçʼɪb,q:anaviçʼɪb,[],,[],,False,False,,1
+budu1248-1-30-1,,budu1248-1,30,q:anɪ'snayitsʼɪb,q:anɪ'snayitsʼɪb,[],( 20 + 10 ),[],,False,False,,1
+budu1248-1-40-1,,budu1248-1,40,qʼukab,qʼukab,[],,[],,False,False,,1
+budu1248-1-50-1,,budu1248-1,50,qʼukanäyɪts'ɪb,qʼukanäyɪts'ɪb,[],,[],,False,False,,1
+budu1248-1-60-1,,budu1248-1,60,şubk'äb,şubk'äb,[],( 3 x 20),[],,False,False,,1
+budu1248-1-70-1,,budu1248-1,70,şubk'anäyitsʼɪb,şubk'anäyitsʼɪb,[],,[],,False,False,,1
+budu1248-1-80-1,,budu1248-1,80,yukʼab,yukʼab,[],( 4 x 20),[],,False,False,,1
+budu1248-1-90-1,,budu1248-1,90,yukʼanäyitsʼɪb,yukʼanäyitsʼɪb,[],,[],,False,False,,1
+budu1248-1-100-1,,budu1248-1,100,fuq:ad,fuq:ad,[],( 5 x 20),[],,False,False,,1
+budu1248-1-200-1,,budu1248-1,200,qʼadfuq:ad,qʼadfuq:ad,[],,[],,False,False,,1
+budu1248-1-1000-1,,budu1248-1,1000,hazar,hazar,[],< from Iranian ,[],,True,False,,1
+budu1248-1-2000-1,,budu1248-1,2000,qʼadhazar,qʼadhazar,[],,[],,False,False,,1
+budu1248-1-2000-2,,budu1248-1,2000,10000. yitsʼɪbhazar,10000. yitsʼɪbhazar,[],,[],,False,True,,1

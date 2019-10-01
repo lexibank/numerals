@@ -1,0 +1,36 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+urua1244-1-1-1,,urua1244-1,1,sa,sa,[],,[],,False,False,,1
+urua1244-1-2-1,,urua1244-1,2,nua,nua,[],,[],,False,False,,1
+urua1244-1-3-1,,urua1244-1,3,téni,téni,[],,[],,False,False,,1
+urua1244-1-4-1,,urua1244-1,4,fat,fat,[],,[],,False,False,,1
+urua1244-1-5-1,,urua1244-1,5,níma,níma,[],,[],,False,False,,1
+urua1244-1-6-1,,urua1244-1,6,nem,nem,[],,[],,False,False,,1
+urua1244-1-7-1,,urua1244-1,7,taransá,taransá,[],( 6+1 ),[],,False,False,,1
+urua1244-1-8-1,,urua1244-1,8,terinúa,terinúa,[],( 6+2 ),[],,False,False,,1
+urua1244-1-9-1,,urua1244-1,9,sapúti,sapúti,[],(10 - 1 ),[],,False,False,,1
+urua1244-1-10-1,,urua1244-1,10,putʃá,putʃá,[],,[],,False,False,,1
+urua1244-1-11-1,,urua1244-1,11,putça resinsa,putça resinsa,[],,[],,False,False,,1
+urua1244-1-12-1,,urua1244-1,12,putça resinnua,putça resinnua,[],,[],,False,False,,1
+urua1244-1-13-1,,urua1244-1,13,putça resinteni,putça resinteni,[],,[],,False,False,,1
+urua1244-1-14-1,,urua1244-1,14,putça resinfat,putça resinfat,[],,[],,False,False,,1
+urua1244-1-15-1,,urua1244-1,15,putça resinima,putça resinima,[],,[],,False,False,,1
+urua1244-1-16-1,,urua1244-1,16,putça resinem,putça resinem,[],,[],,False,False,,1
+urua1244-1-17-1,,urua1244-1,17,putça resintaransa,putça resintaransa,[],,[],,False,False,,1
+urua1244-1-18-1,,urua1244-1,18,putça resinterinua,putça resinterinua,[],,[],,False,False,,1
+urua1244-1-19-1,,urua1244-1,19,putça resinsaputi,putça resinsaputi,[],,[],,False,False,,1
+urua1244-1-20-1,,urua1244-1,20,putinúa,putinúa,[],,[],,False,False,,1
+urua1244-1-21-1,,urua1244-1,21,putinúa resinsa,putinúa resinsa,[],,[],,False,False,,1
+urua1244-1-22-1,,urua1244-1,22,putinúa resinnua,putinúa resinnua,[],,[],,False,False,,1
+urua1244-1-23-1,,urua1244-1,23,putinúa resinteni,putinúa resinteni,[],,[],,False,False,,1
+urua1244-1-24-1,,urua1244-1,24,putinúa resinfat,putinúa resinfat,[],,[],,False,False,,1
+urua1244-1-25-1,,urua1244-1,25,putinúa resinima,putinúa resinima,[],,[],,False,False,,1
+urua1244-1-30-1,,urua1244-1,30,puteni,puteni,[],,[],,False,False,,1
+urua1244-1-40-1,,urua1244-1,40,putifat,putifat,[],,[],,False,False,,1
+urua1244-1-50-1,,urua1244-1,50,putinima,putinima,[],,[],,False,False,,1
+urua1244-1-60-1,,urua1244-1,60,putinem,putinem,[],,[],,False,False,,1
+urua1244-1-70-1,,urua1244-1,70,putaransa,putaransa,[],,[],,False,False,,1
+urua1244-1-80-1,,urua1244-1,80,puterinua,puterinua,[],,[],,False,False,,1
+urua1244-1-90-1,,urua1244-1,90,puterinsaputi,puterinsaputi,[],( probably wrong),[],,False,False,,1
+urua1244-1-100-1,,urua1244-1,100,ra'ca,ra'ca,[],< Malay ,[],,True,False,,1
+urua1244-1-200-1,,urua1244-1,200,rati nua,rati nua,[],,[],,False,False,,1
+urua1244-1-1000-1,,urua1244-1,1000,ripi sa,ripi sa,[],< Malay ,[],,True,False,,1

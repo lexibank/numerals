@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kaba1281-1-1-1,,kaba1281-1,1,kaára,kaára,[],,[],,False,False,,1
+kaba1281-1-2-1,,kaba1281-1,2,jooà,jooà,[],,[],,False,False,,1
+kaba1281-1-3-1,,kaba1281-1,3,moètaà,moètaà,[],,[],,False,False,,1
+kaba1281-1-4-1,,kaba1281-1,4,sóà,sóà,[],,[],,False,False,,1
+kaba1281-1-5-1,,kaba1281-1,5,mïù,mïù,[],,[],,False,False,,1
+kaba1281-1-6-1,,kaba1281-1,6,mïìsaàn,mïìsaàn,[],,[],,False,False,,1
+kaba1281-1-7-1,,kaba1281-1,7,sirïù,sirïù,[],,[],,False,False,,1
+kaba1281-1-8-1,,kaba1281-1,8,jijooà,jijooà,[],( 4 + 4 ),[],,False,False,,1
+kaba1281-1-9-1,,kaba1281-1,9,jikaàra,jikaàra,[],( 10 - 1),[],,False,False,,1
+kaba1281-1-10-1,,kaba1281-1,10,dóèkuè,dóèkuè,[],,[],,False,False,,1
+kaba1281-1-11-1,,kaba1281-1,11,dóèkuè ɡeèreà kaára,dóèkuè ɡeèreà kaára,[],,[],,False,False,,1
+kaba1281-1-12-1,,kaba1281-1,12,dóèkuè ɡeèreà jooà,dóèkuè ɡeèreà jooà,[],,[],,False,False,,1
+kaba1281-1-13-1,,kaba1281-1,13,dóèkuè ɡeèreà moètaà,dóèkuè ɡeèreà moètaà,[],,[],,False,False,,1
+kaba1281-1-14-1,,kaba1281-1,14,dóèkuè ɡeèreà sóà,dóèkuè ɡeèreà sóà,[],,[],,False,False,,1
+kaba1281-1-15-1,,kaba1281-1,15,dóèkuè ɡeèreà mïù,dóèkuè ɡeèreà mïù,[],,[],,False,False,,1
+kaba1281-1-16-1,,kaba1281-1,16,dóèkuè ɡeèreà mïìsaàn,dóèkuè ɡeèreà mïìsaàn,[],,[],,False,False,,1
+kaba1281-1-17-1,,kaba1281-1,17,dóèkuè ɡeèreà sirïù,dóèkuè ɡeèreà sirïù,[],,[],,False,False,,1
+kaba1281-1-18-1,,kaba1281-1,18,dóèkuè ɡeèreà jijooà,dóèkuè ɡeèreà jijooà,[],,[],,False,False,,1
+kaba1281-1-19-1,,kaba1281-1,19,dóèkuè ɡeèreà jikaàra,dóèkuè ɡeèreà jikaàra,[],,[],,False,False,,1
+kaba1281-1-20-1,,kaba1281-1,20,dóèjooà,dóèjooà,[],,[],,False,False,,1
+kaba1281-1-21-1,,kaba1281-1,21,dóèjooà ɡeèreà kaára,dóèjooà ɡeèreà kaára,[],,[],,False,False,,1
+kaba1281-1-22-1,,kaba1281-1,22,dóèjooà ɡeèreà jooà,dóèjooà ɡeèreà jooà,[],,[],,False,False,,1
+kaba1281-1-23-1,,kaba1281-1,23,dóèjooà ɡeèreà moètaà,dóèjooà ɡeèreà moètaà,[],,[],,False,False,,1
+kaba1281-1-24-1,,kaba1281-1,24,dóèjooà ɡeèreà sóà,dóèjooà ɡeèreà sóà,[],,[],,False,False,,1
+kaba1281-1-25-1,,kaba1281-1,25,dóèjooà ɡeèreà mïù,dóèjooà ɡeèreà mïù,[],,[],,False,False,,1
+kaba1281-1-26-1,,kaba1281-1,26,dóèjooà ɡeèreà mïìsaàn,dóèjooà ɡeèreà mïìsaàn,[],,[],,False,False,,1
+kaba1281-1-27-1,,kaba1281-1,27,dóèjooà ɡeèreà sirïù,dóèjooà ɡeèreà sirïù,[],,[],,False,False,,1
+kaba1281-1-28-1,,kaba1281-1,28,dóèjooà ɡeèreà jijooà,dóèjooà ɡeèreà jijooà,[],,[],,False,False,,1
+kaba1281-1-29-1,,kaba1281-1,29,dóèjooà ɡeèreà jikaàra,dóèjooà ɡeèreà jikaàra,[],,[],,False,False,,1
+kaba1281-1-30-1,,kaba1281-1,30,dóèmoètaà,dóèmoètaà,[],,[],,False,False,,1
+kaba1281-1-40-1,,kaba1281-1,40,dóèsóà,dóèsóà,[],,[],,False,False,,1
+kaba1281-1-50-1,,kaba1281-1,50,dóèmïù,dóèmïù,[],,[],,False,False,,1
+kaba1281-1-60-1,,kaba1281-1,60,dóèmïìsaàn,dóèmïìsaàn,[],,[],,False,False,,1
+kaba1281-1-70-1,,kaba1281-1,70,dóèsirïù,dóèsirïù,[],,[],,False,False,,1
+kaba1281-1-80-1,,kaba1281-1,80,dóèjijooà,dóèjijooà,[],,[],,False,False,,1
+kaba1281-1-90-1,,kaba1281-1,90,dóèjikaàra,dóèjikaàra,[],,[],,False,False,,1
+kaba1281-1-100-1,,kaba1281-1,100,dóèdóekuè,dóèdóekuè,[],( 10 x 10 ),[],,False,False,,1
+kaba1281-1-100-2,,kaba1281-1,100,tól,tól,[],,[],,False,False,,1
+kaba1281-1-200-1,,kaba1281-1,200,dóèdóejooà,dóèdóejooà,[],,[],,False,False,,1
+kaba1281-1-1000-1,,kaba1281-1,1000,saàkïì kaàra,saàkïì kaàra,[],,[],,False,False,,1
+kaba1281-1-2000-1,,kaba1281-1,2000,saàkïi jooà,saàkïi jooà,[],,[],,False,False,,1

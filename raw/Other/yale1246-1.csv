@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yale1246-1-1-1,,yale1246-1,1,d͡ʒo.a,d͡ʒo.a,[],,[],,False,False,,1
+yale1246-1-2-1,,yale1246-1,2,te.ɹɛ,te.ɹɛ,[],,[],,False,False,,1
+yale1246-1-3-1,,yale1246-1,3,ao.na,ao.na,[],,[],,False,False,,1
+yale1246-1-4-1,,yale1246-1,4,ni.ɹi.na,ni.ɹi.na,[],,[],,False,False,,1
+yale1246-1-5-1,,yale1246-1,5,to.ba.ɹi,to.ba.ɹi,[],(''to.ba''=''hand'' ),[],,False,False,,1
+yale1246-1-6-1,,yale1246-1,6,to.ba.ɹi i.ta d͡ʒo.a,to.ba.ɹi i.ta d͡ʒo.a,[],( 5 + 1 ),[],,False,False,,1
+yale1246-1-7-1,,yale1246-1,7,to.ba.ɹi i.ta te.ɹɛ,to.ba.ɹi i.ta te.ɹɛ,[],( 5 + 2 ),[],,False,False,,1
+yale1246-1-8-1,,yale1246-1,8,to.ba.ɹi i.ta ao.na,to.ba.ɹi i.ta ao.na,[],( 5 + 3 ),[],,False,False,,1
+yale1246-1-9-1,,yale1246-1,9,to.ba.ɹi i.ta ni.ɹi.na,to.ba.ɹi i.ta ni.ɹi.na,[],( 5 + 4 ),[],,False,False,,1
+yale1246-1-10-1,,yale1246-1,10,uɛ,uɛ,[],,[],,False,False,,1
+yale1246-1-10-2,,yale1246-1,10,d͡ʒo.a aɸɛ uɛ,d͡ʒo.a aɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-11-1,,yale1246-1,11,d͡ʒo.a a.ɸɛ uɛ i.ta d͡ʒo.a,d͡ʒo.a a.ɸɛ uɛ i.ta d͡ʒo.a,[],,[],,False,False,,1
+yale1246-1-12-1,,yale1246-1,12,d͡ʒo.a a.ɸɛ uɛ i.ta te.ɹɛ,d͡ʒo.a a.ɸɛ uɛ i.ta te.ɹɛ,[],,[],,False,False,,1
+yale1246-1-13-1,,yale1246-1,13,d͡ʒo.a a.ɸɛ uɛ i.ta ao.na,d͡ʒo.a a.ɸɛ uɛ i.ta ao.na,[],,[],,False,False,,1
+yale1246-1-14-1,,yale1246-1,14,d͡ʒo.a a.ɸɛ uɛ i.ta ni.ɹi.na,d͡ʒo.a a.ɸɛ uɛ i.ta ni.ɹi.na,[],,[],,False,False,,1
+yale1246-1-15-1,,yale1246-1,15,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi,[],,[],,False,False,,1
+yale1246-1-16-1,,yale1246-1,16,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta d͡ʒo.a,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta d͡ʒo.a,[],,[],,False,False,,1
+yale1246-1-17-1,,yale1246-1,17,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta te.ɹɛ,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta te.ɹɛ,[],,[],,False,False,,1
+yale1246-1-18-1,,yale1246-1,18,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ao.na,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ao.na,[],,[],,False,False,,1
+yale1246-1-19-1,,yale1246-1,19,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ni.ɹi.na,d͡ʒo.a a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ni.ɹi.na,[],,[],,False,False,,1
+yale1246-1-20-1,,yale1246-1,20,te.ɹɛ a.ɸɛ uɛ,te.ɹɛ a.ɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-21-1,,yale1246-1,21,te.ɹɛ a.ɸɛ uɛ i.ta d͡ʒo.a,te.ɹɛ a.ɸɛ uɛ i.ta d͡ʒo.a,[],,[],,False,False,,1
+yale1246-1-22-1,,yale1246-1,22,te.ɹɛ a.ɸɛ uɛ i.ta te.ɹɛ,te.ɹɛ a.ɸɛ uɛ i.ta te.ɹɛ,[],,[],,False,False,,1
+yale1246-1-23-1,,yale1246-1,23,te.ɹɛ a.ɸɛ uɛ i.ta ao.na,te.ɹɛ a.ɸɛ uɛ i.ta ao.na,[],,[],,False,False,,1
+yale1246-1-24-1,,yale1246-1,24,te.ɹɛ a.ɸɛ uɛ i.ta ni.ɹi.na,te.ɹɛ a.ɸɛ uɛ i.ta ni.ɹi.na,[],,[],,False,False,,1
+yale1246-1-25-1,,yale1246-1,25,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi,[],,[],,False,False,,1
+yale1246-1-26-1,,yale1246-1,26,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta d͡ʒo.a,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta d͡ʒo.a,[],,[],,False,False,,1
+yale1246-1-27-1,,yale1246-1,27,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta te.ɹɛ,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta te.ɹɛ,[],,[],,False,False,,1
+yale1246-1-28-1,,yale1246-1,28,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ao.na,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ao.na,[],,[],,False,False,,1
+yale1246-1-29-1,,yale1246-1,29,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ni.ɹi.na,te.ɹɛ a.ɸɛ uɛ i.ta to.ba.ɹi i.ta ni.ɹi.na,[],,[],,False,False,,1
+yale1246-1-30-1,,yale1246-1,30,ao.na a.ɸɛ uɛ,ao.na a.ɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-40-1,,yale1246-1,40,ni.ɹi.na a.ɸɛ uɛ,ni.ɹi.na a.ɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-50-1,,yale1246-1,50,to.ba.ɹi a.ɸɛ uɛ,to.ba.ɹi a.ɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-60-1,,yale1246-1,60,to.ba.ɹi i.ta d͡ʒo.a a.ɸɛ uɛ,to.ba.ɹi i.ta d͡ʒo.a a.ɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-70-1,,yale1246-1,70,to.ba.ɹi i.ta te.ɹɛ a.ɸɛ uɛ,to.ba.ɹi i.ta te.ɹɛ a.ɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-80-1,,yale1246-1,80,to.ba.ɹi i.ta ao.na a.ɸɛ uɛ,to.ba.ɹi i.ta ao.na a.ɸɛ uɛ,[],,[],,False,False,,1
+yale1246-1-90-1,,yale1246-1,90,to.ba.ɹi i.ta ni.ɹi.na a.ɸɛ uɛ,to.ba.ɹi i.ta ni.ɹi.na a.ɸɛ uɛ,[],,[],,False,False,,1

@@ -1,0 +1,30 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+matu1261-1-1-1,,matu1261-1,1,tahaik,tahaik,[],,[],,False,False,,1
+matu1261-1-2-1,,matu1261-1,2,aru,aru,[],,[],,False,False,,1
+matu1261-1-3-1,,matu1261-1,3,tol,tol,[],,[],,False,False,,1
+matu1261-1-4-1,,matu1261-1,4,yawa-yawa,yawa-yawa,[],,[],,False,False,,1
+matu1261-1-4-2,,matu1261-1,4,aru aru,aru aru,[],( 2 x 2 ),[],,False,False,,1
+matu1261-1-5-1,,matu1261-1,5,namau,namau,[],( < nima < lima ?? ),[],,False,False,,1
+matu1261-1-6-1,,matu1261-1,6,namau skun tahaik,namau skun tahaik,[],,[],,False,False,,1
+matu1261-1-6-2,,matu1261-1,6,numau tahaik ainta te tah,numau tahaik ainta te tah,[],,[],,False,False,,1
+matu1261-1-7-1,,matu1261-1,7,namau skun aru,namau skun aru,[],,[],,False,False,,1
+matu1261-1-7-2,,matu1261-1,7,numau tahaik ainta te aru,numau tahaik ainta te aru,[],,[],,False,False,,1
+matu1261-1-8-1,,matu1261-1,8,namau skun tol,namau skun tol,[],,[],,False,False,,1
+matu1261-1-8-2,,matu1261-1,8,numau tahaik ainta te tol,numau tahaik ainta te tol,[],,[],,False,False,,1
+matu1261-1-9-1,,matu1261-1,9,namau skun yawayawa,namau skun yawayawa,[],,[],,False,False,,1
+matu1261-1-10-1,,matu1261-1,10,numau aru,numau aru,[],,[],,False,False,,1
+matu1261-1-10-2,,matu1261-1,10,numau aruru,numau aruru,[],( lit: 'hands two' ),[],,False,False,,1
+matu1261-1-11-1,,matu1261-1,11,numau aru tote hon neu skun tahaik,numau aru tote hon neu skun tahaik,[],,[],,False,False,,1
+matu1261-1-11-2,,matu1261-1,11,numau arurur taute neu kukun tahaik,numau arurur taute neu kukun tahaik,[],,[],,False,False,,1
+matu1261-1-12-1,,matu1261-1,12,numau aru tote hon neu skun aru,numau aru tote hon neu skun aru,[],,[],,False,False,,1
+matu1261-1-12-2,,matu1261-1,12,numau arurur taute neu kukun aru ??,numau arurur taute neu kukun aru ??,[],,[],,False,True,,1
+matu1261-1-13-1,,matu1261-1,13,numau aru tote hon neu skun tol,numau aru tote hon neu skun tol,[],,[],,False,False,,1
+matu1261-1-13-2,,matu1261-1,13,numau arurur taute neu kukun tol ??,numau arurur taute neu kukun tol ??,[],,[],,False,True,,1
+matu1261-1-14-1,,matu1261-1,14,numau aru tote hon neu skun yawayawa,numau aru tote hon neu skun yawayawa,[],,[],,False,False,,1
+matu1261-1-14-2,,matu1261-1,14,numau arurur taute neu kukun yawayawa,numau arurur taute neu kukun yawayawa,[],,[],,False,False,,1
+matu1261-1-15-1,,matu1261-1,15,numau ɡudun tol,numau ɡudun tol,[],(lit: 'hands three'),[],,False,False,,1
+matu1261-1-15-2,,matu1261-1,15,numau aruru,numau aruru,[],,[],,False,False,,1
+matu1261-1-20-1,,matu1261-1,20,numau ɡudun yawa yawa,numau ɡudun yawa yawa,[],(lit: 'hands four'),[],,False,False,,1
+matu1261-1-20-2,,matu1261-1,20,neu da numau da,neu da numau da,[],,[],,False,False,,1
+matu1261-1-20-3,,matu1261-1,20,neu aru,neu aru,[],,[],,False,False,,1
+matu1261-1-20-4,,matu1261-1,20,numau,numau,[],(arurur taute neu aruru taute),[],,False,False,,1

@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bwan1241-1-1-1,,bwan1241-1,1,kaiɡeda,kaiɡeda,[],,[],,False,False,,1
+bwan1241-1-1-2,,bwan1241-1,1,keseɡa in other dialects,keseɡa in other dialects,[],,[],,False,True,,1
+bwan1241-1-2-1,,bwan1241-1,2,labui,labui,[],,[],,False,False,,1
+bwan1241-1-3-1,,bwan1241-1,3,yaiyona,yaiyona,[],,[],,False,False,,1
+bwan1241-1-3-2,,bwan1241-1,3,tolu in other dialects,tolu in other dialects,[],,[],,False,True,,1
+bwan1241-1-4-1,,bwan1241-1,4,esopali,esopali,[],,[],,False,False,,1
+bwan1241-1-5-1,,bwan1241-1,5,valiɡiɡi,valiɡiɡi,[],,[],,False,False,,1
+bwan1241-1-6-1,,bwan1241-1,6,valiɡiɡi kaiɡeda,valiɡiɡi kaiɡeda,[],( 5 + 1 ),[],,False,False,,1
+bwan1241-1-7-1,,bwan1241-1,7,valiɡiɡi labui,valiɡiɡi labui,[],( 5 + 2 ),[],,False,False,,1
+bwan1241-1-8-1,,bwan1241-1,8,valiɡiɡi yaiyona,valiɡiɡi yaiyona,[],( 5 + 3 ),[],,False,False,,1
+bwan1241-1-9-1,,bwan1241-1,9,valiɡiɡi esopali,valiɡiɡi esopali,[],( 5 + 4 ),[],,False,False,,1
+bwan1241-1-10-1,,bwan1241-1,10,sanaulu,sanaulu,[],,[],,False,False,,1
+bwan1241-1-11-1,,bwan1241-1,11,sanaulu kaiɡeda,sanaulu kaiɡeda,[],,[],,False,False,,1
+bwan1241-1-12-1,,bwan1241-1,12,sanaulu labui,sanaulu labui,[],,[],,False,False,,1
+bwan1241-1-13-1,,bwan1241-1,13,sanaulu yaiyona,sanaulu yaiyona,[],,[],,False,False,,1
+bwan1241-1-14-1,,bwan1241-1,14,sanaulu esopali,sanaulu esopali,[],,[],,False,False,,1
+bwan1241-1-15-1,,bwan1241-1,15,sanaulu valiɡiɡi,sanaulu valiɡiɡi,[],,[],,False,False,,1
+bwan1241-1-16-1,,bwan1241-1,16,sanaulu valiɡiɡi kaiɡeda,sanaulu valiɡiɡi kaiɡeda,[],,[],,False,False,,1
+bwan1241-1-17-1,,bwan1241-1,17,sanaulu valiɡiɡi labui,sanaulu valiɡiɡi labui,[],,[],,False,False,,1
+bwan1241-1-18-1,,bwan1241-1,18,sanaulu valiɡiɡi yaiyona,sanaulu valiɡiɡi yaiyona,[],,[],,False,False,,1
+bwan1241-1-19-1,,bwan1241-1,19,sanaulu valiɡiɡi esopali,sanaulu valiɡiɡi esopali,[],,[],,False,False,,1
+bwan1241-1-20-1,,bwan1241-1,20,tau kaiɡeda simate,tau kaiɡeda simate,[],(lit: ''they (prefix si-) killed one male/man''),[],,False,False,,1

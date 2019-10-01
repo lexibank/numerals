@@ -1,0 +1,17 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+xxxx0002-1-1-1,,xxxx0002-1,1,kàlà,kàlà,[],,[],,False,False,,1
+xxxx0002-1-2-1,,xxxx0002-1,2,zó,zó,[],,[],,False,False,,1
+xxxx0002-1-3-1,,xxxx0002-1,3,mùtuá,mùtuá,[],,[],,False,False,,1
+xxxx0002-1-4-1,,xxxx0002-1,4,sɔ́,sɔ́,[],,[],,False,False,,1
+xxxx0002-1-5-1,,xxxx0002-1,5,mí,mí,[],,[],,False,False,,1
+xxxx0002-1-6-1,,xxxx0002-1,6,mí.ɲàlā.kàlà,mí.ɲàlā.kàlà,[],{five.add.one},[],,False,False,,1
+xxxx0002-1-7-1,,xxxx0002-1,7,sísì.mùtuá,sísì.mùtuá,[],,[],,False,False,,1
+xxxx0002-1-7-2,,xxxx0002-1,7,sí.mùtuá,sí.mùtuá,[],,[],,False,False,,1
+xxxx0002-1-7-3,,xxxx0002-1,7,sìnī.mùtuá.sìnī.sɔ́,sìnī.mùtuá.sìnī.sɔ́,[],,[],,False,False,,1
+xxxx0002-1-8-1,,xxxx0002-1,8,nɡbèɗē,nɡbèɗē,[],,[],,False,False,,1
+xxxx0002-1-9-1,,xxxx0002-1,9,tsínì.sɔ́ sî.sɔ́,tsínì.sɔ́ sî.sɔ́,[],,[],,False,False,,1
+xxxx0002-1-9-2,,xxxx0002-1,9,ɡūmbáyā,ɡūmbáyā,[],,[],,False,False,,1
+xxxx0002-1-10-1,,xxxx0002-1,10,bàléꜜ bǎꜜ,bàléꜜ bǎꜜ,[],< Ngbandi or Sango ? ,[],,True,False,,1
+xxxx0002-1-12-1,,xxxx0002-1,12,bàléꜜ.ná.kálà.zɔ̀.ná.zó,bàléꜜ.ná.kálà.zɔ̀.ná.zó,[],,[],,False,False,,1
+xxxx0002-1-20-1,,xxxx0002-1,20,bàléꜜ.ná.zó,bàléꜜ.ná.zó,[],{ten.DEFINITE.two},[],,False,False,,1
+xxxx0002-1-100-1,,xxxx0002-1,100,nɡbànɡbò,nɡbànɡbò,[],< Ngbandi or Sango ? ,[],,True,False,,1

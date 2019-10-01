@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+boro1282-1-1-1,,boro1282-1,1,mito,mito,[],(lit: 'one' ),[],,False,False,,1
+boro1282-1-2-1,,boro1282-1,2,pobe,pobe,[],(lit: 'two'),[],,False,False,,1
+boro1282-1-3-1,,boro1282-1,3,pobe metuila bokware,pobe metuila bokware,[],(litː 'two and a companionless' ),[],,False,False,,1
+boro1282-1-4-1,,boro1282-1,4,pobe puibiji,pobe puibiji,[],( litː 'two twos together' ),[],,False,False,,1
+boro1282-1-5-1,,boro1282-1,5,ikera aobodure,ikera aobodure,[],( litː 'my hand the one on this side' ),[],,False,False,,1
+boro1282-1-6-1,,boro1282-1,6,ikera aobodure mare iare mito( litː 'my hand the one on this side and another one,ikera aobodure mare iare mito( litː 'my hand the one on this side and another one,[],(finger),[],,False,True,,1
+boro1282-1-7-1,,boro1282-1,7,ikera aobodure mare iare pobe( litː 'my hand the one on this side and another two,ikera aobodure mare iare pobe( litː 'my hand the one on this side and another two,[],(fingers),[],,False,True,,1
+boro1282-1-8-1,,boro1282-1,8,ikera aobodure mare iare pobe metuila bokware,ikera aobodure mare iare pobe metuila bokware,[],( litː 'my hand the one on this   side and two and a companionless),[],,False,False,,1
+boro1282-1-9-1,,boro1282-1,9,ikera aobodure mare iare pobe puibiji,ikera aobodure mare iare pobe puibiji,[],( litː 'my hand the one on this side and     another two twos together companionless),[],,False,False,,1
+boro1282-1-10-1,,boro1282-1,10,ikera pudoɡidure,ikera pudoɡidure,[],( litː 'my hands together' ),[],,False,False,,1
+boro1282-1-11-1,,boro1282-1,11,ikera pudoɡidure mare iare mito,ikera pudoɡidure mare iare mito,[],( litː 'my hands together and another one' ),[],,False,False,,1
+boro1282-1-12-1,,boro1282-1,12,ikera pudoɡidure mare iare pobe,ikera pudoɡidure mare iare pobe,[],( litː 'my hands together and another two' ),[],,False,False,,1
+boro1282-1-13-1,,boro1282-1,13,ikera pudoɡidure mare iare pobe metuila bokware,ikera pudoɡidure mare iare pobe metuila bokware,[],( litː 'my hands together and    two and a companionless'),[],,False,False,,1
+boro1282-1-14-1,,boro1282-1,14,ikera pudoɡidure mare iare pobe puibiji,ikera pudoɡidure mare iare pobe puibiji,[],( litː 'my hands together and another      two twos together'),[],,False,False,,1
+boro1282-1-15-1,,boro1282-1,15,ikera pudoɡidure mare ikera aobodu,ikera pudoɡidure mare ikera aobodu,[],( litː 'my hands together and my hand on      this side'),[],,False,False,,1
+boro1282-1-16-1,,boro1282-1,16,ikera pudoɡidure mare ikera aobodu mare iare mito ( litː 'my hands together and my hand on this side and another one,ikera pudoɡidure mare ikera aobodu mare iare mito ( litː 'my hands together and my hand on this side and another one,[],(finger'),[],,False,True,,1
+boro1282-1-17-1,,boro1282-1,17,ikera pudoɡidure mare ikera aobodu mare iare pobe ( litː 'my hands together and my hand on this side and another two,ikera pudoɡidure mare ikera aobodu mare iare pobe ( litː 'my hands together and my hand on this side and another two,[],(fingers'),[],,False,True,,1
+boro1282-1-18-1,,boro1282-1,18,ikera pudoɡidure mare ikera aobodu mare iare pobe metuila bokware,ikera pudoɡidure mare ikera aobodu mare iare pobe metuila bokware,[],( litː 'my      hands together and my hand on this side and another two and a companionless'),[],,False,False,,1
+boro1282-1-19-1,,boro1282-1,19,ikera pudoɡidure mare ikera aobodu mare iare pobe puibiji,ikera pudoɡidure mare ikera aobodu mare iare pobe puibiji,[],( litː 'my hands      together and my hand on this side and another two twos together'),[],,False,False,,1
+boro1282-1-20-1,,boro1282-1,20,ikera pudoɡidure jore iwure pobedu todu,ikera pudoɡidure jore iwure pobedu todu,[],( litː 'my hands together going to my      two feet' ),[],,False,False,,1

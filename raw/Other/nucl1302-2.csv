@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nucl1302-2-1-1,,nucl1302-2,1,ɛrt.i,ɛrt.i,[],,[],,False,False,,2
+nucl1302-2-2-1,,nucl1302-2,2,ɔr.i,ɔr.i,[],,[],,False,False,,2
+nucl1302-2-3-1,,nucl1302-2,3,sɑm.i,sɑm.i,[],,[],,False,False,,2
+nucl1302-2-4-1,,nucl1302-2,4,ɔtχ.i,ɔtχ.i,[],,[],,False,False,,2
+nucl1302-2-5-1,,nucl1302-2,5,χut.i,χut.i,[],,[],,False,False,,2
+nucl1302-2-6-1,,nucl1302-2,6,ɛkvs.i,ɛkvs.i,[],,[],,False,False,,2
+nucl1302-2-7-1,,nucl1302-2,7,ʃvid.i,ʃvid.i,[],,[],,False,False,,2
+nucl1302-2-8-1,,nucl1302-2,8,rvɑ,rvɑ,[],,[],,False,False,,2
+nucl1302-2-9-1,,nucl1302-2,9,tsχrɑ,tsχrɑ,[],,[],,False,False,,2
+nucl1302-2-10-1,,nucl1302-2,10,ɑt.i,ɑt.i,[],,[],,False,False,,2
+nucl1302-2-11-1,,nucl1302-2,11,t.ɛrt.mɛtʼ.i,t.ɛrt.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-12-1,,nucl1302-2,12,t.ɔr.mɛtʼ.i,t.ɔr.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-13-1,,nucl1302-2,13,t(.)sɑm.(m)ɛtʼ.i,t(.)sɑm.(m)ɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-14-1,,nucl1302-2,14,t.ɔtχ.mɛtʼ.i,t.ɔtχ.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-15-1,,nucl1302-2,15,tχut.mɛtʼ.i,tχut.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-16-1,,nucl1302-2,16,ɛkvs.mɛtʼ.i,ɛkvs.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-17-1,,nucl1302-2,17,t(.)ʃvid.mɛtʼ.i,t(.)ʃvid.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-18-1,,nucl1302-2,18,rvɑ.mɛtʼ.i,rvɑ.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-19-1,,nucl1302-2,19,tsχrɑ.mɛtʼ.i,tsχrɑ.mɛtʼ.i,[],,[],,False,False,,2
+nucl1302-2-20-1,,nucl1302-2,20,ɔts.i,ɔts.i,[],,[],,False,False,,2
+nucl1302-2-21-1,,nucl1302-2,21,ɔts.dɑ.ɛrt.i,ɔts.dɑ.ɛrt.i,[],,[],,False,False,,2
+nucl1302-2-22-1,,nucl1302-2,22,ɔts.dɑ.ɔr.i,ɔts.dɑ.ɔr.i,[],,[],,False,False,,2
+nucl1302-2-23-1,,nucl1302-2,23,ɔts.dɑ.sɑm.i,ɔts.dɑ.sɑm.i,[],,[],,False,False,,2
+nucl1302-2-24-1,,nucl1302-2,24,ɔts.dɑ.ɔtχ.i,ɔts.dɑ.ɔtχ.i,[],,[],,False,False,,2
+nucl1302-2-25-1,,nucl1302-2,25,ɔts.dɑ.χut.i,ɔts.dɑ.χut.i,[],,[],,False,False,,2
+nucl1302-2-26-1,,nucl1302-2,26,ɔts.dɑ.ɛkvs.i,ɔts.dɑ.ɛkvs.i,[],,[],,False,False,,2
+nucl1302-2-27-1,,nucl1302-2,27,ɔts.dɑ.ʃvid.i,ɔts.dɑ.ʃvid.i,[],,[],,False,False,,2
+nucl1302-2-28-1,,nucl1302-2,28,ɔts.dɑ.rvɑ,ɔts.dɑ.rvɑ,[],,[],,False,False,,2
+nucl1302-2-29-1,,nucl1302-2,29,ɔts.dɑ.tsχrɑ,ɔts.dɑ.tsχrɑ,[],,[],,False,False,,2
+nucl1302-2-30-1,,nucl1302-2,30,ɔts.dɑ.ɑt.i,ɔts.dɑ.ɑt.i,[],( 20 + 10 ),[],,False,False,,2
+nucl1302-2-40-1,,nucl1302-2,40,ɔr.m.ɔts.i,ɔr.m.ɔts.i,[],( 2 x 20),[],,False,False,,2
+nucl1302-2-50-1,,nucl1302-2,50,ɔr.m.ɔts.dɑ.ɑt.i,ɔr.m.ɔts.dɑ.ɑt.i,[],,[],,False,False,,2
+nucl1302-2-60-1,,nucl1302-2,60,sɑm(m).ɔts.i,sɑm(m).ɔts.i,[],( 3 x 20),[],,False,False,,2
+nucl1302-2-70-1,,nucl1302-2,70,sɑm(m).ɔts.dɑ.ɑt.i,sɑm(m).ɔts.dɑ.ɑt.i,[],,[],,False,False,,2
+nucl1302-2-80-1,,nucl1302-2,80,ɔtχ.m.ɔts.i,ɔtχ.m.ɔts.i,[],( 4 x 20),[],,False,False,,2
+nucl1302-2-90-1,,nucl1302-2,90,ɔtχ.m.ɔts.dɑ.ɑt.i,ɔtχ.m.ɔts.dɑ.ɑt.i,[],,[],,False,False,,2
+nucl1302-2-100-1,,nucl1302-2,100,ɑs.i,ɑs.i,[],,[],,False,False,,2
+nucl1302-2-200-1,,nucl1302-2,200,ɔr.ɑs.i,ɔr.ɑs.i,[],,[],,False,False,,2
+nucl1302-2-1000-1,,nucl1302-2,1000,ɑt.ɑs.i,ɑt.ɑs.i,[],,[],,False,False,,2
+nucl1302-2-2000-1,,nucl1302-2,2000,ɔr.i ɑt.ɑs.i,ɔr.i ɑt.ɑs.i,[],,[],,False,False,,2

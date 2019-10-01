@@ -1,0 +1,51 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+cent2142-1-1-1,,cent2142-1,1,maya,maya,[],,[],,False,False,,1
+cent2142-1-1-2,,cent2142-1,1,maja,maja,[],,[],,False,False,,1
+cent2142-1-2-1,,cent2142-1,2,paya,paya,[],,[],,False,False,,1
+cent2142-1-2-2,,cent2142-1,2,paja,paja,[],,[],,False,False,,1
+cent2142-1-3-1,,cent2142-1,3,kimsa,kimsa,[],,[],,False,False,,1
+cent2142-1-3-2,,cent2142-1,3,kimsa,kimsa,[],,[],,False,False,,1
+cent2142-1-4-1,,cent2142-1,4,pusi,pusi,[],,[],,False,False,,1
+cent2142-1-4-2,,cent2142-1,4,pusi,pusi,[],,[],,False,False,,1
+cent2142-1-5-1,,cent2142-1,5,pesqa,pesqa,[],,[],,False,False,,1
+cent2142-1-5-2,,cent2142-1,5,peska,peska,[],,[],,False,False,,1
+cent2142-1-6-1,,cent2142-1,6,soxta,soxta,[],,[],,False,False,,1
+cent2142-1-6-2,,cent2142-1,6,soxta,soxta,[],,[],,False,False,,1
+cent2142-1-7-1,,cent2142-1,7,paqallqo,paqallqo,[],,[],,False,False,,1
+cent2142-1-7-2,,cent2142-1,7,pakaʎko,pakaʎko,[],,[],,False,False,,1
+cent2142-1-8-1,,cent2142-1,8,kimsaqalliqo,kimsaqalliqo,[],,[],,False,False,,1
+cent2142-1-8-2,,cent2142-1,8,kimsakaʎo,kimsakaʎo,[],,[],,False,False,,1
+cent2142-1-9-1,,cent2142-1,9,llatunka,llatunka,[],,[],,False,False,,1
+cent2142-1-9-2,,cent2142-1,9,ʎatuŋka,ʎatuŋka,[],,[],,False,False,,1
+cent2142-1-10-1,,cent2142-1,10,tunka,tunka,[],,[],,False,False,,1
+cent2142-1-10-2,,cent2142-1,10,tuŋka,tuŋka,[],,[],,False,False,,1
+cent2142-1-11-1,,cent2142-1,11,tunka mayani,tunka mayani,[],,[],,False,False,,1
+cent2142-1-12-1,,cent2142-1,12,tunka payani,tunka payani,[],,[],,False,False,,1
+cent2142-1-13-1,,cent2142-1,13,tunka kimsani,tunka kimsani,[],,[],,False,False,,1
+cent2142-1-14-1,,cent2142-1,14,tunka pusani,tunka pusani,[],,[],,False,False,,1
+cent2142-1-15-1,,cent2142-1,15,tunka pesqani,tunka pesqani,[],,[],,False,False,,1
+cent2142-1-16-1,,cent2142-1,16,tunka soxtani,tunka soxtani,[],,[],,False,False,,1
+cent2142-1-17-1,,cent2142-1,17,tunka paqallqoni,tunka paqallqoni,[],,[],,False,False,,1
+cent2142-1-18-1,,cent2142-1,18,tunka kimsaqalliqoni,tunka kimsaqalliqoni,[],,[],,False,False,,1
+cent2142-1-19-1,,cent2142-1,19,tunka llatunkani,tunka llatunkani,[],,[],,False,False,,1
+cent2142-1-20-1,,cent2142-1,20,pah tunka,pah tunka,[],,[],,False,False,,1
+cent2142-1-21-1,,cent2142-1,21,pah tunka mayani,pah tunka mayani,[],,[],,False,False,,1
+cent2142-1-22-1,,cent2142-1,22,pah tunka payani,pah tunka payani,[],,[],,False,False,,1
+cent2142-1-23-1,,cent2142-1,23,pah tunka kimsani,pah tunka kimsani,[],,[],,False,False,,1
+cent2142-1-24-1,,cent2142-1,24,pah tunka pusani,pah tunka pusani,[],,[],,False,False,,1
+cent2142-1-25-1,,cent2142-1,25,pah tunka pesqani,pah tunka pesqani,[],,[],,False,False,,1
+cent2142-1-26-1,,cent2142-1,26,pah tunka soxtani,pah tunka soxtani,[],,[],,False,False,,1
+cent2142-1-27-1,,cent2142-1,27,pah tunka paqallqoni,pah tunka paqallqoni,[],,[],,False,False,,1
+cent2142-1-28-1,,cent2142-1,28,pah tunka kimsaqalliqoni,pah tunka kimsaqalliqoni,[],,[],,False,False,,1
+cent2142-1-29-1,,cent2142-1,29,pah tunka llatunkani,pah tunka llatunkani,[],,[],,False,False,,1
+cent2142-1-30-1,,cent2142-1,30,kimsa tunka,kimsa tunka,[],,[],,False,False,,1
+cent2142-1-40-1,,cent2142-1,40,pusi tunka,pusi tunka,[],,[],,False,False,,1
+cent2142-1-50-1,,cent2142-1,50,pesqa tunka,pesqa tunka,[],,[],,False,False,,1
+cent2142-1-60-1,,cent2142-1,60,soxta tunka,soxta tunka,[],,[],,False,False,,1
+cent2142-1-70-1,,cent2142-1,70,paqallqo tunka,paqallqo tunka,[],,[],,False,False,,1
+cent2142-1-80-1,,cent2142-1,80,kimsakalliqo tunka,kimsakalliqo tunka,[],,[],,False,False,,1
+cent2142-1-90-1,,cent2142-1,90,llatunka tunka,llatunka tunka,[],,[],,False,False,,1
+cent2142-1-100-1,,cent2142-1,100,pataka,pataka,[],( < Quechua ),[],,True,False,,1
+cent2142-1-200-1,,cent2142-1,200,pa pataka,pa pataka,[],,[],,False,False,,1
+cent2142-1-1000-1,,cent2142-1,1000,waranka,waranka,[],( < Quechua ),[],,True,False,,1
+cent2142-1-2000-1,,cent2142-1,2000,pa waranka,pa waranka,[],,[],,False,False,,1

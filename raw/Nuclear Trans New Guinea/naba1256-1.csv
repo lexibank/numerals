@@ -1,0 +1,22 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+naba1256-1-1-1,,naba1256-1,1,kwep,kwep,[],,[],,False,False,,1
+naba1256-1-2-1,,naba1256-1,2,zut,zut,[],,[],,False,False,,1
+naba1256-1-2-2,,naba1256-1,2,dzut,dzut,[],,[],,False,False,,1
+naba1256-1-3-1,,naba1256-1,3,tuk,tuk,[],,[],,False,False,,1
+naba1256-1-4-1,,naba1256-1,4,zulak zulak,zulak zulak,[],(lit: ''two-with two-with''),[],,False,False,,1
+naba1256-1-5-1,,naba1256-1,5,bet nembert delaŋ,bet nembert delaŋ,[],(litː ''hand-half finish'' ),[],,False,False,,1
+naba1256-1-6-1,,naba1256-1,6,bet nembert delaŋ kwep,bet nembert delaŋ kwep,[],(litː ''hand-half finish one''),[],,False,False,,1
+naba1256-1-7-1,,naba1256-1,7,bet nembert delaŋ zut,bet nembert delaŋ zut,[],(litː ''hand-half finish two''),[],,False,False,,1
+naba1256-1-8-1,,naba1256-1,8,bet nembert delaŋ tuk,bet nembert delaŋ tuk,[],(litː ''hand-half finish three''),[],,False,False,,1
+naba1256-1-9-1,,naba1256-1,9,bet nembert delaŋ zulakzulak,bet nembert delaŋ zulakzulak,[],(litː ''hand-half finish two and two''),[],,False,False,,1
+naba1256-1-10-1,,naba1256-1,10,beduk delaŋ,beduk delaŋ,[],(litː ''hand-two finish''),[],,False,False,,1
+naba1256-1-11-1,,naba1256-1,11,beduk delaŋ nembeɡat kwep,beduk delaŋ nembeɡat kwep,[],"(litː ''hand-two finish pair-BEN, one'')",[],,False,False,,1
+naba1256-1-12-1,,naba1256-1,12,beduk delaŋ nembeɡat zup,beduk delaŋ nembeɡat zup,[],"(litː ''hand-two finish pair-BEN, two'')",[],,False,False,,1
+naba1256-1-13-1,,naba1256-1,13,beduk delaŋ nembeɡat tuk,beduk delaŋ nembeɡat tuk,[],"(litː ''hand-two finish pair-BEN, three'')",[],,False,False,,1
+naba1256-1-14-1,,naba1256-1,14,beduk delaŋ nembeɡat zulak zulak,beduk delaŋ nembeɡat zulak zulak,[],"(litː ''hand-two finish pair-BEN, two and two'')",[],,False,False,,1
+naba1256-1-15-1,,naba1256-1,15,beduk delaŋ set nembeɡat delaŋ,beduk delaŋ set nembeɡat delaŋ,[],"(litː ''hand-two finish foot pair-BEN, finish'')",[],,False,False,,1
+naba1256-1-16-1,,naba1256-1,16,beduk delaŋ set nembeɡat kwep,beduk delaŋ set nembeɡat kwep,[],"(litː ''hand-two finish foot pair-BEN, one'')",[],,False,False,,1
+naba1256-1-17-1,,naba1256-1,17,beduk delaŋ set nembeɡat zut,beduk delaŋ set nembeɡat zut,[],,[],,False,False,,1
+naba1256-1-18-1,,naba1256-1,18,beduk delaŋ set nembeɡat tuk,beduk delaŋ set nembeɡat tuk,[],,[],,False,False,,1
+naba1256-1-19-1,,naba1256-1,19,beduk delaŋ set nembeɡat delaŋ zulak zulak,beduk delaŋ set nembeɡat delaŋ zulak zulak,[],,[],,False,False,,1
+naba1256-1-20-1,,naba1256-1,20,sebet delaŋ,sebet delaŋ,[],(litː ''foot-hand finish''),[],,False,False,,1

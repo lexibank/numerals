@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+osos1238-1-1-1,,osos1238-1,1,òɡwò,òɡwò,[],,[],,False,False,oɡwo,1
+osos1238-1-2-1,,osos1238-1,2,èvá,èvá,[],,[],,False,False,eva,1
+osos1238-1-3-1,,osos1238-1,3,èsá,èsá,[],,[],,False,False,esa,1
+osos1238-1-4-1,,osos1238-1,4,èné,èné,[],,[],,False,False,ene,1
+osos1238-1-5-1,,osos1238-1,5,ìt͡ʃè,ìt͡ʃè,[],,[],,False,False,ichie,1
+osos1238-1-6-1,,osos1238-1,6,èsâsà,èsâsà,[],,[],,False,False,esesa,1
+osos1238-1-7-1,,osos1238-1,7,ìfwènà,ìfwènà,[],,[],,False,False,ifuena,1
+osos1238-1-8-1,,osos1238-1,8,ìɲèɲẽ́,ìɲèɲẽ́,[],,[],,False,False,inyenye,1
+osos1238-1-9-1,,osos1238-1,9,ìsĩ̀nĩ̀,ìsĩ̀nĩ̀,[],,[],,False,False,isini,1
+osos1238-1-10-1,,osos1238-1,10,ìɡ͡bé,ìɡ͡bé,[],,[],,False,False,iɡbe,1
+osos1238-1-11-1,,osos1238-1,11,ìɡ͡bánóɡwò,ìɡ͡bánóɡwò,[],,[],,False,False,iɡbanioɡwo,1
+osos1238-1-12-1,,osos1238-1,12,ìɡ͡bánêvá,ìɡ͡bánêvá,[],,[],,False,False,iɡbanieva,1
+osos1238-1-13-1,,osos1238-1,13,ìɡ͡bánêsà,ìɡ͡bánêsà,[],,[],,False,False,iɡbaniesa,1
+osos1238-1-14-1,,osos1238-1,14,ìɡ͡bánênè,ìɡ͡bánênè,[],,[],,False,False,iɡbaniene,1
+osos1238-1-15-1,,osos1238-1,15,ìɡ͡báníʃè,ìɡ͡báníʃè,[],,[],,False,False,iɡbanishie,1
+osos1238-1-16-1,,osos1238-1,16,ìɡ͡bánésêsà,ìɡ͡bánésêsà,[],,[],,False,False,iɡbaniesesa,1
+osos1238-1-17-1,,osos1238-1,17,ìɡ͡bánífwênà,ìɡ͡bánífwênà,[],,[],,False,False,iɡbanifwena,1
+osos1238-1-18-1,,osos1238-1,18,ìɡ͡báníɲêɲè,ìɡ͡báníɲêɲè,[],,[],,False,False,iɡbaniyeyen,1
+osos1238-1-19-1,,osos1238-1,19,ìɡ͡bánísìnì,ìɡ͡bánísìnì,[],,[],,False,False,iɡbanisini,1
+osos1238-1-20-1,,osos1238-1,20,ɔ̀ɡwɔ̀lɔ̀,ɔ̀ɡwɔ̀lɔ̀,[],,[],,False,False,ọɡwọlọ,1
+osos1238-1-21-1,,osos1238-1,21,ɔ̀ɡwɔ̀lànútò,ɔ̀ɡwɔ̀lànútò,[],,[],,False,False,ọɡwọlanuti,1
+osos1238-1-22-1,,osos1238-1,22,ɔ̀ɡwɔ̀lànétevà,ɔ̀ɡwɔ̀lànétevà,[],,[],,False,False,ọɡwọlọanieteva,1
+osos1238-1-30-1,,osos1238-1,30,ɔ̀ɡwɔ̀làntíɡbè,ɔ̀ɡwɔ̀làntíɡbè,[],,[],,False,False,ọɡwọlanutiɡbe,1
+osos1238-1-40-1,,osos1238-1,40,ífjèvá,ífjèvá,[],( 20 x 2 ),[],,False,False,ifieva,1
+osos1238-1-50-1,,osos1238-1,50,ífjèvâtíɡ͡bè,ífjèvâtíɡ͡bè,[],,[],,False,False,ifievantiɡbe iɡbe,1
+osos1238-1-60-1,,osos1238-1,60,ífjènè,ífjènè,[],( 20 x 3 ),[],,False,False,ifiene,1
+osos1238-1-70-1,,osos1238-1,70,ífjèsâtíɡ͡bè,ífjèsâtíɡ͡bè,[],,[],,False,False,ifiesantiɡbe,1
+osos1238-1-80-1,,osos1238-1,80,ífjèʃè,ífjèʃè,[],( 20 x 4 ),[],,False,False,ifieshe,1
+osos1238-1-90-1,,osos1238-1,90,ífjènè,ífjènè,[],,[],,False,False,ifieneantiɡbe,1
+osos1238-1-100-1,,osos1238-1,100,ífjèʃè,ífjèʃè,[],( 20 x 5 ),[],,False,False,ifieshe,1
+osos1238-1-200-1,,osos1238-1,200,ífìɡ͡bè,ífìɡ͡bè,[],( 20 x 10),[],,False,False,ifiɡbe,1
+osos1238-1-400-1,,osos1238-1,400,ífjòɡwɔ̀lɔ̀,ífjòɡwɔ̀lɔ̀,[],( 20 x 20 ),[],,False,False,ifiọɡwọlo,1

@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+irar1238-1-1-1,,irar1238-1,1,ɛsuɛm,ɛsuɛm,[],,[],,False,False,,1
+irar1238-1-1-2,,irar1238-1,1,ɛso,ɛso,[],,[],,False,False,,1
+irar1238-1-2-1,,irar1238-1,2,ru,ru,[],,[],,False,False,,1
+irar1238-1-3-1,,irar1238-1,3,tur,tur,[],,[],,False,False,,1
+irar1238-1-4-1,,irar1238-1,4,ɡiɡiti,ɡiɡiti,[],,[],,False,False,,1
+irar1238-1-5-1,,irar1238-1,5,fradfid,fradfid,[],,[],,False,False,,1
+irar1238-1-6-1,,irar1238-1,6,fradfid-ɛ-trɛ-(ɛ)su,fradfid-ɛ-trɛ-(ɛ)su,[],( 5 + 1 ),[],,False,False,,1
+irar1238-1-7-1,,irar1238-1,7,fradfid-ɛ-trɛ-ru,fradfid-ɛ-trɛ-ru,[],( 5 + 2 ),[],,False,False,,1
+irar1238-1-8-1,,irar1238-1,8,fradfid-ɛ-trɛ-tur,fradfid-ɛ-trɛ-tur,[],( 5 + 3 ),[],,False,False,,1
+irar1238-1-9-1,,irar1238-1,9,fradfid-ɛ-trɛ-ɡiɡiti,fradfid-ɛ-trɛ-ɡiɡiti,[],( 5 + 4 ),[],,False,False,,1
+irar1238-1-10-1,,irar1238-1,10,fradru,fradru,[],,[],,False,False,,1
+irar1238-1-11-1,,irar1238-1,11,fradru-risi-ɛsuɛm,fradru-risi-ɛsuɛm,[],,[],,False,False,,1
+irar1238-1-12-1,,irar1238-1,12,fradru-risi-ru,fradru-risi-ru,[],,[],,False,False,,1
+irar1238-1-13-1,,irar1238-1,13,fradru-risi-tur,fradru-risi-tur,[],,[],,False,False,,1
+irar1238-1-14-1,,irar1238-1,14,fradru-risi-ɡiɡiti,fradru-risi-ɡiɡiti,[],,[],,False,False,,1
+irar1238-1-15-1,,irar1238-1,15,fradru-risi-fradfid,fradru-risi-fradfid,[],,[],,False,False,,1
+irar1238-1-16-1,,irar1238-1,16,fradru-risi-fradfid-ɛ-trɛ-(ɛ)su,fradru-risi-fradfid-ɛ-trɛ-(ɛ)su,[],,[],,False,False,,1
+irar1238-1-17-1,,irar1238-1,17,fradru-risi-fradfid-ɛ-trɛ-ru,fradru-risi-fradfid-ɛ-trɛ-ru,[],,[],,False,False,,1
+irar1238-1-18-1,,irar1238-1,18,fradru-risi-fradfid-ɛ-trɛ-tur,fradru-risi-fradfid-ɛ-trɛ-tur,[],,[],,False,False,,1
+irar1238-1-19-1,,irar1238-1,19,fradru-risi-fradfid-ɛ-trɛ-ɡiɡiti,fradru-risi-fradfid-ɛ-trɛ-ɡiɡiti,[],,[],,False,False,,1
+irar1238-1-20-1,,irar1238-1,20,matu-tni,matu-tni,[],,[],,False,False,,1
+irar1238-1-20-2,,irar1238-1,20,matu-tɛni,matu-tɛni,[],(litː 'one man'),[],,False,False,,1
+irar1238-1-21-1,,irar1238-1,21,matu-tni-risi-ɛsuɛm,matu-tni-risi-ɛsuɛm,[],,[],,False,False,,1
+irar1238-1-22-1,,irar1238-1,22,matu-tni-risi-ru,matu-tni-risi-ru,[],,[],,False,False,,1
+irar1238-1-23-1,,irar1238-1,23,matu-tni-risi-tur,matu-tni-risi-tur,[],,[],,False,False,,1
+irar1238-1-24-1,,irar1238-1,24,matu-tni-risi-ɡiɡiti,matu-tni-risi-ɡiɡiti,[],,[],,False,False,,1
+irar1238-1-25-1,,irar1238-1,25,matu-tni-risi-fradfid,matu-tni-risi-fradfid,[],,[],,False,False,,1
+irar1238-1-26-1,,irar1238-1,26,matu-tni-risi-fradfid-ɛ-trɛ-(ɛ)su,matu-tni-risi-fradfid-ɛ-trɛ-(ɛ)su,[],,[],,False,False,,1
+irar1238-1-27-1,,irar1238-1,27,matu-tni-risi-fradfid-ɛ-trɛ-ru,matu-tni-risi-fradfid-ɛ-trɛ-ru,[],,[],,False,False,,1
+irar1238-1-28-1,,irar1238-1,28,matu-tni-risi-fradfid-ɛ-trɛ-tur,matu-tni-risi-fradfid-ɛ-trɛ-tur,[],,[],,False,False,,1
+irar1238-1-29-1,,irar1238-1,29,matu-tni-risi-fradfid-ɛ-trɛ-ɡiɡiti,matu-tni-risi-fradfid-ɛ-trɛ-ɡiɡiti,[],,[],,False,False,,1
+irar1238-1-30-1,,irar1238-1,30,matu-tni-risi-fradru,matu-tni-risi-fradru,[],,[],,False,False,,1
+irar1238-1-40-1,,irar1238-1,40,matu-tni-ru,matu-tni-ru,[],,[],,False,False,,1
+irar1238-1-50-1,,irar1238-1,50,matu-tni-ru-fradru,matu-tni-ru-fradru,[],,[],,False,False,,1
+irar1238-1-60-1,,irar1238-1,60,matu-tni-tur,matu-tni-tur,[],,[],,False,False,,1
+irar1238-1-70-1,,irar1238-1,70,matu-tni-tur-fradru,matu-tni-tur-fradru,[],,[],,False,False,,1
+irar1238-1-80-1,,irar1238-1,80,matu-tni-ɡiɡiti,matu-tni-ɡiɡiti,[],,[],,False,False,,1
+irar1238-1-90-1,,irar1238-1,90,matu-tni-ɡiɡiti-fradru,matu-tni-ɡiɡiti-fradru,[],,[],,False,False,,1
+irar1238-1-100-1,,irar1238-1,100,ratu ɛsuɛm,ratu ɛsuɛm,[],,[],,False,False,,1
+irar1238-1-100-2,,irar1238-1,100,ratu ɛso,ratu ɛso,[],,[],,False,False,,1
+irar1238-1-200-1,,irar1238-1,200,ratu ru,ratu ru,[],,[],,False,False,,1
+irar1238-1-1000-1,,irar1238-1,1000,rifunu ɛsuɛm,rifunu ɛsuɛm,[],,[],,False,False,,1
+irar1238-1-1000-2,,irar1238-1,1000,ribu,ribu,[],( < Malay ),[],,True,False,,1
+irar1238-1-2000-1,,irar1238-1,2000,rifunu ru,rifunu ru,[],,[],,False,False,,1

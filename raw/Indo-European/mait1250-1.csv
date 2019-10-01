@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mait1250-1-1-1,,mait1250-1,1,ek,ek,[],,[],,False,False,ek,1
+mait1250-1-2-1,,mait1250-1,2,du,du,[],,[],,False,False,dū,1
+mait1250-1-3-1,,mait1250-1,3,tin,tin,[],,[],,False,False,tīn,1
+mait1250-1-4-1,,mait1250-1,4,t͡ʃa:ri,t͡ʃa:ri,[],,[],,False,False,cāri,1
+mait1250-1-5-1,,mait1250-1,5,pãːt͡ʃ,pãːt͡ʃ,[],,[],,False,False,pā̃c,1
+mait1250-1-6-1,,mait1250-1,6,t͡ʃʰəː,t͡ʃʰəː,[],,[],,False,False,cʰah,1
+mait1250-1-7-1,,mait1250-1,7,saːt,saːt,[],,[],,False,False,sāt,1
+mait1250-1-8-1,,mait1250-1,8,aːʈʰ,aːʈʰ,[],,[],,False,False,āṭh,1
+mait1250-1-9-1,,mait1250-1,9,nəu,nəu,[],,[],,False,False,nau,1
+mait1250-1-10-1,,mait1250-1,10,dəs,dəs,[],,[],,False,False,das,1
+mait1250-1-11-1,,mait1250-1,11,egaːrəː,egaːrəː,[],,[],,False,False,egārah,1
+mait1250-1-12-1,,mait1250-1,12,baːrəː,baːrəː,[],,[],,False,False,bārah,1
+mait1250-1-13-1,,mait1250-1,13,terəː,terəː,[],,[],,False,False,terah,1
+mait1250-1-14-1,,mait1250-1,14,t͡ʃəudəː,t͡ʃəudəː,[],,[],,False,False,caudah,1
+mait1250-1-15-1,,mait1250-1,15,pəndrəː,pəndrəː,[],,[],,False,False,pandrah,1
+mait1250-1-16-1,,mait1250-1,16,soləː,soləː,[],,[],,False,False,solah,1
+mait1250-1-16-2,,mait1250-1,16,sorəː,sorəː,[],,[],,False,False,sorah,1
+mait1250-1-17-1,,mait1250-1,17,sətrəː,sətrəː,[],,[],,False,False,satarah,1
+mait1250-1-18-1,,mait1250-1,18,əʈʰaːrəː,əʈʰaːrəː,[],,[],,False,False,aṭhārah,1
+mait1250-1-19-1,,mait1250-1,19,unnəis,unnəis,[],( 20 - 1),[],,False,False,unnais,1
+mait1250-1-20-1,,mait1250-1,20,bis,bis,[],,[],,False,False,bīs,1
+mait1250-1-21-1,,mait1250-1,21,ekəis,ekəis,[],,[],,False,False,ekais,1
+mait1250-1-22-1,,mait1250-1,22,bais,bais,[],,[],,False,False,bāis,1
+mait1250-1-23-1,,mait1250-1,23,təis,təis,[],,[],,False,False,tais,1
+mait1250-1-24-1,,mait1250-1,24,t͡ʃəubis,t͡ʃəubis,[],,[],,False,False,caubis,1
+mait1250-1-25-1,,mait1250-1,25,pət͡ʃːis,pət͡ʃːis,[],,[],,False,False,paccīs,1
+mait1250-1-26-1,,mait1250-1,26,t͡ʃʰəbːis,t͡ʃʰəbːis,[],,[],,False,False,chabbīs,1
+mait1250-1-27-1,,mait1250-1,27,sətaːis,sətaːis,[],,[],,False,False,satāis,1
+mait1250-1-28-1,,mait1250-1,28,əʈʰːaːis,əʈʰːaːis,[],,[],,False,False,aṭhṭhāis,1
+mait1250-1-29-1,,mait1250-1,29,untis,untis,[],( 30 - 1),[],,False,False,untīs,1
+mait1250-1-30-1,,mait1250-1,30,tis,tis,[],,[],,False,False,tīs,1
+mait1250-1-40-1,,mait1250-1,40,t͡ʃaːlis,t͡ʃaːlis,[],,[],,False,False,cāḷīs,1
+mait1250-1-50-1,,mait1250-1,50,pət͡ʃːaːs,pət͡ʃːaːs,[],,[],,False,False,paccās,1
+mait1250-1-60-1,,mait1250-1,60,saːʈʰi,saːʈʰi,[],,[],,False,False,sāṭhi,1
+mait1250-1-70-1,,mait1250-1,70,sətːəri,sətːəri,[],,[],,False,False,sattari,1
+mait1250-1-80-1,,mait1250-1,80,əsːi,əsːi,[],,[],,False,False,assī,1
+mait1250-1-90-1,,mait1250-1,90,nabːe,nabːe,[],,[],,False,False,nabbe,1
+mait1250-1-100-1,,mait1250-1,100,sæ,sæ,[],,[],,False,False,say,1
+mait1250-1-200-1,,mait1250-1,200,du sæ,du sæ,[],,[],,False,False,du say,1
+mait1250-1-1000-1,,mait1250-1,1000,həd͡ʒaːr,həd͡ʒaːr,[],,[],,False,False,hajār,1
+mait1250-1-2000-1,,mait1250-1,2000,dui həd͡ʒaːr,dui həd͡ʒaːr,[],,[],,False,False,du hajār,1

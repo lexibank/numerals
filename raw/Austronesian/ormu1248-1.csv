@@ -1,0 +1,48 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ormu1248-1-1-1,,ormu1248-1,1,njeŋ,njeŋ,[],,[],,False,False,,1
+ormu1248-1-1-2,,ormu1248-1,1,nitj,nitj,[],,[],,False,False,,1
+ormu1248-1-2-1,,ormu1248-1,2,rohi,rohi,[],,[],,False,False,,1
+ormu1248-1-3-1,,ormu1248-1,3,toru,toru,[],,[],,False,False,,1
+ormu1248-1-4-1,,ormu1248-1,4,awaʔ,awaʔ,[],,[],,False,False,,1
+ormu1248-1-4-2,,ormu1248-1,4,wima,wima,[],,[],,False,False,,1
+ormu1248-1-4-3,,ormu1248-1,4,osama,osama,[],,[],,False,False,,1
+ormu1248-1-5-1,,ormu1248-1,5,arwate,arwate,[],(ma),[],,False,False,,1
+ormu1248-1-5-2,,ormu1248-1,5,aururatima,aururatima,[],,[],,False,False,,1
+ormu1248-1-5-3,,ormu1248-1,5,orenitjema,orenitjema,[],,[],,False,False,,1
+ormu1248-1-6-1,,ormu1248-1,6,mandohi,mandohi,[],(ma),[],,False,False,,1
+ormu1248-1-6-2,,ormu1248-1,6,manrohima,manrohima,[],,[],,False,False,,1
+ormu1248-1-7-1,,ormu1248-1,7,samchoi rondohi,samchoi rondohi,[],,[],,False,False,,1
+ormu1248-1-7-2,,ormu1248-1,7,nsaxo-rondohima,nsaxo-rondohima,[],,[],,False,False,,1
+ormu1248-1-8-1,,ormu1248-1,8,rondohi,rondohi,[],(ma),[],,False,False,,1
+ormu1248-1-8-2,,ormu1248-1,8,donohima,donohima,[],,[],,False,False,,1
+ormu1248-1-9-1,,ormu1248-1,9,rondohi ma fraya njiŋ,rondohi ma fraya njiŋ,[],(8 + 1),[],,False,False,,1
+ormu1248-1-10-1,,ormu1248-1,10,rondohi ma fraya rohi,rondohi ma fraya rohi,[],(8 + 2),[],,False,False,,1
+ormu1248-1-11-1,,ormu1248-1,11,rondohi ma fraya toru,rondohi ma fraya toru,[],,[],,False,False,,1
+ormu1248-1-12-1,,ormu1248-1,12,batoru,batoru,[],( 4 x 3 ?),[],,False,False,,1
+ormu1248-1-13-1,,ormu1248-1,13,batoru fraya njiŋ,batoru fraya njiŋ,[],(12 + 1),[],,False,False,,1
+ormu1248-1-14-1,,ormu1248-1,14,batoru fraya rohi,batoru fraya rohi,[],(12 + 2),[],,False,False,,1
+ormu1248-1-15-1,,ormu1248-1,15,batoru fraya toru,batoru fraya toru,[],(12 + 3),[],,False,False,,1
+ormu1248-1-16-1,,ormu1248-1,16,rafawa,rafawa,[],,[],,False,False,,1
+ormu1248-1-17-1,,ormu1248-1,17,rafawa fraya njiŋ,rafawa fraya njiŋ,[],(16 + 1),[],,False,False,,1
+ormu1248-1-18-1,,ormu1248-1,18,rafawa fraya rohi,rafawa fraya rohi,[],(16 + 2),[],,False,False,,1
+ormu1248-1-19-1,,ormu1248-1,19,rafawa fraya toru,rafawa fraya toru,[],(16 + 3),[],,False,False,,1
+ormu1248-1-20-1,,ormu1248-1,20,rafaru,rafaru,[],,[],,False,False,,1
+ormu1248-1-20-2,,ormu1248-1,20,depari,depari,[],,[],,False,False,,1
+ormu1248-1-21-1,,ormu1248-1,21,rafari fraya njiŋ,rafari fraya njiŋ,[],(20 + 1),[],,False,False,,1
+ormu1248-1-22-1,,ormu1248-1,22,rafari fraya rohi,rafari fraya rohi,[],(20 + 2),[],,False,False,,1
+ormu1248-1-23-1,,ormu1248-1,23,rafari fraya toru,rafari fraya toru,[],(20 + 3),[],,False,False,,1
+ormu1248-1-24-1,,ormu1248-1,24,nare,nare,[],(njiŋ),[],,False,False,,1
+ormu1248-1-25-1,,ormu1248-1,25,nare njiŋ fraya njiŋ,nare njiŋ fraya njiŋ,[],(24 + 1),[],,False,False,,1
+ormu1248-1-26-1,,ormu1248-1,26,nare njiŋ fraya rohi,nare njiŋ fraya rohi,[],(24 + 2),[],,False,False,,1
+ormu1248-1-27-1,,ormu1248-1,27,nare njiŋ fraya toru,nare njiŋ fraya toru,[],(24 + 3),[],,False,False,,1
+ormu1248-1-28-1,,ormu1248-1,28,nare njiŋ fraya toru,nare njiŋ fraya toru,[],(24 + 4),[],,False,False,,1
+ormu1248-1-29-1,,ormu1248-1,29,nare njiŋ fraya awa,nare njiŋ fraya awa,[],(24 + 5),[],,False,False,,1
+ormu1248-1-30-1,,ormu1248-1,30,nare njiŋ fraya arwatema,nare njiŋ fraya arwatema,[],(24 + 6),[],,False,False,,1
+ormu1248-1-40-1,,ormu1248-1,40,nare njiŋ fraya rafawa,nare njiŋ fraya rafawa,[],,[],,False,False,,1
+ormu1248-1-50-1,,ormu1248-1,50,nare rohi fraya rohi,nare rohi fraya rohi,[],(24 x 2 + 2),[],,False,False,,1
+ormu1248-1-60-1,,ormu1248-1,60,nare rohi fraya batoru,nare rohi fraya batoru,[],,[],,False,False,,1
+ormu1248-1-70-1,,ormu1248-1,70,nare rohi frara rafari fraya rohi,nare rohi frara rafari fraya rohi,[],,[],,False,False,,1
+ormu1248-1-80-1,,ormu1248-1,80,nare toru fraya rondohima,nare toru fraya rondohima,[],,[],,False,False,,1
+ormu1248-1-90-1,,ormu1248-1,90,nare toru fraya rafawa fraya rohi,nare toru fraya rafawa fraya rohi,[],,[],,False,False,,1
+ormu1248-1-100-1,,ormu1248-1,100,nare awa fraya awa,nare awa fraya awa,[],(24 x 4+ 4),[],,False,False,,1
+ormu1248-1-200-1,,ormu1248-1,200,nare rondohima fraya rondohima,nare rondohima fraya rondohima,[],,[],,False,False,,1

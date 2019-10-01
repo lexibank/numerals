@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mali1288-1-1-1,,mali1288-1,1,kɨte,kɨte,[],,[],,False,False,,1
+mali1288-1-2-1,,mali1288-1,2,βli,βli,[],,[],,False,False,,1
+mali1288-1-3-1,,mali1288-1,3,kɨβʉk,kɨβʉk,[],,[],,False,False,,1
+mali1288-1-4-1,,mali1288-1,4,ainak,ainak,[],,[],,False,False,,1
+mali1288-1-5-1,,mali1288-1,5,tambanak,tambanak,[],(lit: 'one hand' ),[],,False,False,,1
+mali1288-1-6-1,,mali1288-1,6,sla kɨte,sla kɨte,[],(lit: '(5) plus one' ),[],,False,False,,1
+mali1288-1-7-1,,mali1288-1,7,sla βli,sla βli,[],(lit: '(5) plus two' ),[],,False,False,,1
+mali1288-1-8-1,,mali1288-1,8,sla kɨβʉk,sla kɨβʉk,[],(lit: '(5) plus three' ),[],,False,False,,1
+mali1288-1-9-1,,mali1288-1,9,sla ainak,sla ainak,[],(lit: '(5) plus four' ),[],,False,False,,1
+mali1288-1-10-1,,mali1288-1,10,tambli,tambli,[],(lit: 'two hands' ),[],,False,False,,1
+mali1288-1-11-1,,mali1288-1,11,tambli keli kɨte,tambli keli kɨte,[],,[],,False,False,,1
+mali1288-1-12-1,,mali1288-1,12,tambli keli βli,tambli keli βli,[],,[],,False,False,,1
+mali1288-1-13-1,,mali1288-1,13,tambli keli kɨβʉk,tambli keli kɨβʉk,[],,[],,False,False,,1
+mali1288-1-14-1,,mali1288-1,14,tambli keli ainak,tambli keli ainak,[],,[],,False,False,,1
+mali1288-1-15-1,,mali1288-1,15,tambli keli tambanak,tambli keli tambanak,[],,[],,False,False,,1
+mali1288-1-16-1,,mali1288-1,16,tambli keli sla kɨte,tambli keli sla kɨte,[],,[],,False,False,,1
+mali1288-1-17-1,,mali1288-1,17,tambli keli sla βli,tambli keli sla βli,[],,[],,False,False,,1
+mali1288-1-18-1,,mali1288-1,18,tambli keli sla kɨβʉk,tambli keli sla kɨβʉk,[],,[],,False,False,,1
+mali1288-1-19-1,,mali1288-1,19,tambli keli sla ainak,tambli keli sla ainak,[],,[],,False,False,,1
+mali1288-1-20-1,,mali1288-1,20,ndɨmi,ndɨmi,[],(lit: 'whole man'),[],,False,False,,1
+mali1288-1-21-1,,mali1288-1,21,ndɨmi keli kɨte,ndɨmi keli kɨte,[],,[],,False,False,,1
+mali1288-1-22-1,,mali1288-1,22,ndɨmi keli βli,ndɨmi keli βli,[],,[],,False,False,,1
+mali1288-1-23-1,,mali1288-1,23,ndɨmi keli kɨβʉk,ndɨmi keli kɨβʉk,[],,[],,False,False,,1
+mali1288-1-24-1,,mali1288-1,24,ndɨmi keli ainak,ndɨmi keli ainak,[],,[],,False,False,,1
+mali1288-1-25-1,,mali1288-1,25,ndɨmi keli tambanak,ndɨmi keli tambanak,[],,[],,False,False,,1
+mali1288-1-26-1,,mali1288-1,26,ndɨmi keli sla kɨte,ndɨmi keli sla kɨte,[],,[],,False,False,,1
+mali1288-1-27-1,,mali1288-1,27,ndɨmi keli sla βli,ndɨmi keli sla βli,[],,[],,False,False,,1
+mali1288-1-28-1,,mali1288-1,28,ndɨmi keli sla kɨβʉk,ndɨmi keli sla kɨβʉk,[],,[],,False,False,,1
+mali1288-1-29-1,,mali1288-1,29,ndɨmi keli sla ainak,ndɨmi keli sla ainak,[],,[],,False,False,,1
+mali1288-1-30-1,,mali1288-1,30,ndɨmi keli tambli,ndɨmi keli tambli,[],,[],,False,False,,1
+mali1288-1-40-1,,mali1288-1,40,ndɨmi βli,ndɨmi βli,[],(lit: 'two whole men' ),[],,False,False,,1
+mali1288-1-50-1,,mali1288-1,50,ndɨmi βli keli tambli,ndɨmi βli keli tambli,[],,[],,False,False,,1
+mali1288-1-60-1,,mali1288-1,60,ndɨmi kɨβʉk,ndɨmi kɨβʉk,[],(lit: 'three whole men' ),[],,False,False,,1
+mali1288-1-70-1,,mali1288-1,70,ndɨmi kɨβʉk keli tambli,ndɨmi kɨβʉk keli tambli,[],,[],,False,False,,1
+mali1288-1-80-1,,mali1288-1,80,ndɨmi ainak,ndɨmi ainak,[],(lit: 'four whole men' ),[],,False,False,,1
+mali1288-1-90-1,,mali1288-1,90,ndɨmi ainak keli tambli,ndɨmi ainak keli tambli,[],,[],,False,False,,1
+mali1288-1-100-1,,mali1288-1,100,ndɨmi tambanak,ndɨmi tambanak,[],(lit: 'five whole men' ),[],,False,False,,1
+mali1288-1-200-1,,mali1288-1,200,ndɨmi kɨte nɨmba tambli,ndɨmi kɨte nɨmba tambli,[],,[],,False,False,,1
+mali1288-1-400-1,,mali1288-1,400,ndɨmi kɨte nɨmba ndɨmi,ndɨmi kɨte nɨmba ndɨmi,[],,[],,False,False,,1
+mali1288-1-600-1,,mali1288-1,600,ndɨmi kɨte keli tambli nɨmba tambli,ndɨmi kɨte keli tambli nɨmba tambli,[],,[],,False,False,,1

@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nasa1240-1-1-1,,nasa1240-1,1,i-sakaua,i-sakaua,[],,[],,False,False,,1
+nasa1240-1-2-1,,nasa1240-1,2,i-rua,i-rua,[],,[],,False,False,,1
+nasa1240-1-3-1,,nasa1240-1,3,i-tœl,i-tœl,[],,[],,False,False,,1
+nasa1240-1-4-1,,nasa1240-1,4,i-βas,i-βas,[],,[],,False,False,,1
+nasa1240-1-5-1,,nasa1240-1,5,i-salœme,i-salœme,[],,[],,False,False,,1
+nasa1240-1-6-1,,nasa1240-1,6,i-saus,i-saus,[],( 5 + 1 ),[],,False,False,,1
+nasa1240-1-7-1,,nasa1240-1,7,i-saurua,i-saurua,[],( 5 + 2 ),[],,False,False,,1
+nasa1240-1-8-1,,nasa1240-1,8,i-sautœl,i-sautœl,[],( 5 + 3 ),[],,False,False,,1
+nasa1240-1-9-1,,nasa1240-1,9,i-sauβas,i-sauβas,[],( 5 + 4 ),[],,False,False,,1
+nasa1240-1-10-1,,nasa1240-1,10,i-laŋaβœl,i-laŋaβœl,[],,[],,False,False,,1
+nasa1240-1-11-1,,nasa1240-1,11,i-laŋaβœl ande-mona i-sakaua,i-laŋaβœl ande-mona i-sakaua,[],,[],,False,False,,1
+nasa1240-1-12-1,,nasa1240-1,12,i-laŋaβœl ande-mona i-rua,i-laŋaβœl ande-mona i-rua,[],,[],,False,False,,1
+nasa1240-1-13-1,,nasa1240-1,13,i-laŋaβœl ande-mona i-tœl,i-laŋaβœl ande-mona i-tœl,[],,[],,False,False,,1
+nasa1240-1-14-1,,nasa1240-1,14,i-laŋaβœl ande-mona i-βas,i-laŋaβœl ande-mona i-βas,[],,[],,False,False,,1
+nasa1240-1-15-1,,nasa1240-1,15,i-laŋaβœl ande-mona i-salœme,i-laŋaβœl ande-mona i-salœme,[],,[],,False,False,,1
+nasa1240-1-16-1,,nasa1240-1,16,i-laŋaβœl ande-mona i-saus,i-laŋaβœl ande-mona i-saus,[],,[],,False,False,,1
+nasa1240-1-17-1,,nasa1240-1,17,i-laŋaβœl ande-mona i-saurua,i-laŋaβœl ande-mona i-saurua,[],,[],,False,False,,1
+nasa1240-1-18-1,,nasa1240-1,18,i-laŋaβœl ande-mona i-sautœl,i-laŋaβœl ande-mona i-sautœl,[],,[],,False,False,,1
+nasa1240-1-19-1,,nasa1240-1,19,i-laŋaβœl ande-mona i-sauβas,i-laŋaβœl ande-mona i-sauβas,[],,[],,False,False,,1
+nasa1240-1-20-1,,nasa1240-1,20,i-laŋaβœl i-rua,i-laŋaβœl i-rua,[],,[],,False,False,,1
+nasa1240-1-21-1,,nasa1240-1,21,i-laŋaβœl i-rua ande-mona i-sakaua,i-laŋaβœl i-rua ande-mona i-sakaua,[],,[],,False,False,,1
+nasa1240-1-22-1,,nasa1240-1,22,i-laŋaβœl i-rua ande-mona i-rua,i-laŋaβœl i-rua ande-mona i-rua,[],,[],,False,False,,1
+nasa1240-1-23-1,,nasa1240-1,23,i-laŋaβœl i-rua ande-mona i-tœl,i-laŋaβœl i-rua ande-mona i-tœl,[],,[],,False,False,,1
+nasa1240-1-24-1,,nasa1240-1,24,i-laŋaβœl i-rua ande-mona i-βas,i-laŋaβœl i-rua ande-mona i-βas,[],,[],,False,False,,1
+nasa1240-1-25-1,,nasa1240-1,25,i-laŋaβœl i-rua ande-mona i-salœme,i-laŋaβœl i-rua ande-mona i-salœme,[],,[],,False,False,,1
+nasa1240-1-26-1,,nasa1240-1,26,i-laŋaβœl i-rua ande-mona i-saus,i-laŋaβœl i-rua ande-mona i-saus,[],,[],,False,False,,1
+nasa1240-1-27-1,,nasa1240-1,27,i-laŋaβœl i-rua ande-mona i-saurua,i-laŋaβœl i-rua ande-mona i-saurua,[],,[],,False,False,,1
+nasa1240-1-28-1,,nasa1240-1,28,i-laŋaβœl i-rua ande-mona i-sautœl,i-laŋaβœl i-rua ande-mona i-sautœl,[],,[],,False,False,,1
+nasa1240-1-29-1,,nasa1240-1,29,i-laŋaβœl i-rua ande-mona i-sauβas,i-laŋaβœl i-rua ande-mona i-sauβas,[],,[],,False,False,,1
+nasa1240-1-30-1,,nasa1240-1,30,i-laŋaβœl i-tœl,i-laŋaβœl i-tœl,[],,[],,False,False,,1
+nasa1240-1-40-1,,nasa1240-1,40,i-laŋaβœl i-βas,i-laŋaβœl i-βas,[],,[],,False,False,,1
+nasa1240-1-50-1,,nasa1240-1,50,i-laŋaβœl i-salœme,i-laŋaβœl i-salœme,[],,[],,False,False,,1
+nasa1240-1-60-1,,nasa1240-1,60,i-laŋaβœl i-saus,i-laŋaβœl i-saus,[],,[],,False,False,,1
+nasa1240-1-70-1,,nasa1240-1,70,i-laŋaβœl i-saurua,i-laŋaβœl i-saurua,[],,[],,False,False,,1
+nasa1240-1-80-1,,nasa1240-1,80,i-laŋaβœl i-sautœl,i-laŋaβœl i-sautœl,[],,[],,False,False,,1
+nasa1240-1-90-1,,nasa1240-1,90,i-laŋaβœl i-sauβas,i-laŋaβœl i-sauβas,[],,[],,False,False,,1
+nasa1240-1-100-1,,nasa1240-1,100,na-ŋat i-sakaua,na-ŋat i-sakaua,[],,[],,False,False,,1
+nasa1240-1-200-1,,nasa1240-1,200,na-ŋat i-rua,na-ŋat i-rua,[],,[],,False,False,,1
+nasa1240-1-1000-1,,nasa1240-1,1000,na-ŋat i-laŋaβœl,na-ŋat i-laŋaβœl,[],,[],,False,False,,1

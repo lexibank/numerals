@@ -1,0 +1,81 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nucl1643-1-1-1,,nucl1643-1,1,itɕi,itɕi,[],,[],,False,False,ichi,1
+nucl1643-1-1-2,,nucl1643-1,1,çitotsɯ,çitotsɯ,[],,[],,False,False,hitotsu,1
+nucl1643-1-2-1,,nucl1643-1,2,ɲi,ɲi,[],,[],,False,False,ni,1
+nucl1643-1-2-2,,nucl1643-1,2,ɸɯtɑtsɯ,ɸɯtɑtsɯ,[],,[],,False,False,futatsu,1
+nucl1643-1-3-1,,nucl1643-1,3,saɴ,saɴ,[],,[],,False,False,san,1
+nucl1643-1-3-2,,nucl1643-1,3,mitːsɯ,mitːsɯ,[],,[],,False,False,mittsu,1
+nucl1643-1-4-1,,nucl1643-1,4,ɕi,ɕi,[],,[],,False,False,shi,1
+nucl1643-1-4-2,,nucl1643-1,4,jotːsɯ,jotːsɯ,[],,[],,False,False,yottsu,1
+nucl1643-1-5-1,,nucl1643-1,5,ɡo,ɡo,[],,[],,False,False,ɡo,1
+nucl1643-1-5-2,,nucl1643-1,5,itsɯtsɯ,itsɯtsɯ,[],,[],,False,False,itsutsu,1
+nucl1643-1-6-1,,nucl1643-1,6,ɾokɯ,ɾokɯ,[],,[],,False,False,roku,1
+nucl1643-1-6-2,,nucl1643-1,6,mɯtːsɯ,mɯtːsɯ,[],,[],,False,False,muttsu,1
+nucl1643-1-7-1,,nucl1643-1,7,ɕitɕi,ɕitɕi,[],,[],,False,False,shichi,1
+nucl1643-1-7-2,,nucl1643-1,7,nɑnɑtsɯ,nɑnɑtsɯ,[],,[],,False,False,nanatsu,1
+nucl1643-1-8-1,,nucl1643-1,8,hɑtɕi,hɑtɕi,[],,[],,False,False,hachi,1
+nucl1643-1-8-2,,nucl1643-1,8,jɑtːsɯ,jɑtːsɯ,[],,[],,False,False,yattsu,1
+nucl1643-1-9-1,,nucl1643-1,9,kʲɯː,kʲɯː,[],,[],,False,False,kyuu,1
+nucl1643-1-9-2,,nucl1643-1,9,kokonotsɯ,kokonotsɯ,[],,[],,False,False,kokonotsu,1
+nucl1643-1-10-1,,nucl1643-1,10,dʑɯː,dʑɯː,[],,[],,False,False,juu,1
+nucl1643-1-10-2,,nucl1643-1,10,toː,toː,[],,[],,False,False,too,1
+nucl1643-1-11-1,,nucl1643-1,11,juuichi,juuichi,[],,[],,False,False,,1
+nucl1643-1-11-2,,nucl1643-1,11,too amari hitotsu,too amari hitotsu,[],,[],,False,False,,1
+nucl1643-1-12-1,,nucl1643-1,12,juuni,juuni,[],,[],,False,False,,1
+nucl1643-1-12-2,,nucl1643-1,12,too amari futatsu,too amari futatsu,[],,[],,False,False,,1
+nucl1643-1-13-1,,nucl1643-1,13,juusan,juusan,[],,[],,False,False,,1
+nucl1643-1-13-2,,nucl1643-1,13,too amari mittsu,too amari mittsu,[],,[],,False,False,,1
+nucl1643-1-14-1,,nucl1643-1,14,juushi,juushi,[],,[],,False,False,,1
+nucl1643-1-14-2,,nucl1643-1,14,too amari yottsu,too amari yottsu,[],,[],,False,False,,1
+nucl1643-1-15-1,,nucl1643-1,15,juuɡo,juuɡo,[],,[],,False,False,,1
+nucl1643-1-15-2,,nucl1643-1,15,too amari itsutsu,too amari itsutsu,[],,[],,False,False,,1
+nucl1643-1-16-1,,nucl1643-1,16,juuroku,juuroku,[],,[],,False,False,,1
+nucl1643-1-16-2,,nucl1643-1,16,too amari muttsu,too amari muttsu,[],,[],,False,False,,1
+nucl1643-1-17-1,,nucl1643-1,17,juushichi,juushichi,[],,[],,False,False,,1
+nucl1643-1-17-2,,nucl1643-1,17,too amari nanatsu,too amari nanatsu,[],,[],,False,False,,1
+nucl1643-1-18-1,,nucl1643-1,18,juuhachi,juuhachi,[],,[],,False,False,,1
+nucl1643-1-18-2,,nucl1643-1,18,too amari yattsu,too amari yattsu,[],,[],,False,False,,1
+nucl1643-1-19-1,,nucl1643-1,19,juukyuu,juukyuu,[],,[],,False,False,,1
+nucl1643-1-19-2,,nucl1643-1,19,too amari kokonotsu,too amari kokonotsu,[],,[],,False,False,,1
+nucl1643-1-20-1,,nucl1643-1,20,ɲidʑɯː,ɲidʑɯː,[],,[],,False,False,nijuu,1
+nucl1643-1-20-2,,nucl1643-1,20,hɑtɑtɕi,hɑtɑtɕi,[],,[],,False,False,hatachi,1
+nucl1643-1-21-1,,nucl1643-1,21,nijuuichi,nijuuichi,[],,[],,False,False,,1
+nucl1643-1-21-2,,nucl1643-1,21,hatachi amari hitotsu,hatachi amari hitotsu,[],,[],,False,False,,1
+nucl1643-1-22-1,,nucl1643-1,22,nijuuni,nijuuni,[],,[],,False,False,,1
+nucl1643-1-22-2,,nucl1643-1,22,hatachi amari futatsu,hatachi amari futatsu,[],,[],,False,False,,1
+nucl1643-1-23-1,,nucl1643-1,23,nijuusan,nijuusan,[],,[],,False,False,,1
+nucl1643-1-23-2,,nucl1643-1,23,hatachi amari mittsu,hatachi amari mittsu,[],,[],,False,False,,1
+nucl1643-1-24-1,,nucl1643-1,24,nijuushi,nijuushi,[],,[],,False,False,,1
+nucl1643-1-24-2,,nucl1643-1,24,hatachi amari yottsu,hatachi amari yottsu,[],,[],,False,False,,1
+nucl1643-1-25-1,,nucl1643-1,25,nijuuɡo,nijuuɡo,[],,[],,False,False,,1
+nucl1643-1-25-2,,nucl1643-1,25,hatachi amari itsutsu,hatachi amari itsutsu,[],,[],,False,False,,1
+nucl1643-1-26-1,,nucl1643-1,26,nijuuroku,nijuuroku,[],,[],,False,False,,1
+nucl1643-1-26-2,,nucl1643-1,26,hatachi amari muttsu,hatachi amari muttsu,[],,[],,False,False,,1
+nucl1643-1-27-1,,nucl1643-1,27,nijuushichi,nijuushichi,[],,[],,False,False,,1
+nucl1643-1-27-2,,nucl1643-1,27,hatachi amari nanatsu,hatachi amari nanatsu,[],,[],,False,False,,1
+nucl1643-1-28-1,,nucl1643-1,28,nijuuhachi,nijuuhachi,[],,[],,False,False,,1
+nucl1643-1-28-2,,nucl1643-1,28,hatachi amari yattsu,hatachi amari yattsu,[],,[],,False,False,,1
+nucl1643-1-29-1,,nucl1643-1,29,nijuuku,nijuuku,[],,[],,False,False,,1
+nucl1643-1-29-2,,nucl1643-1,29,hatachi amari kokonotsu,hatachi amari kokonotsu,[],,[],,False,False,,1
+nucl1643-1-30-1,,nucl1643-1,30,saɴdʑɯː,saɴdʑɯː,[],,[],,False,False,sanjuu,1
+nucl1643-1-30-2,,nucl1643-1,30,misodʑi,misodʑi,[],,[],,False,False,misoji,1
+nucl1643-1-40-1,,nucl1643-1,40,joɴdʑɯː,joɴdʑɯː,[],,[],,False,False,yonjuu,1
+nucl1643-1-40-2,,nucl1643-1,40,josodʑi,josodʑi,[],,[],,False,False,yosoji,1
+nucl1643-1-50-1,,nucl1643-1,50,ɡodʑɯː,ɡodʑɯː,[],,[],,False,False,ɡojuu,1
+nucl1643-1-50-2,,nucl1643-1,50,isodʑi,isodʑi,[],,[],,False,False,isoji,1
+nucl1643-1-60-1,,nucl1643-1,60,ɾokɯdʑɯː,ɾokɯdʑɯː,[],,[],,False,False,rokujuu,1
+nucl1643-1-60-2,,nucl1643-1,60,mɯsodʑi,mɯsodʑi,[],,[],,False,False,musoji,1
+nucl1643-1-70-1,,nucl1643-1,70,nɑnɑdʑɯː,nɑnɑdʑɯː,[],,[],,False,False,nanajuu,1
+nucl1643-1-70-2,,nucl1643-1,70,nanasoji,nanasoji,[],,[],,False,False,,1
+nucl1643-1-80-1,,nucl1643-1,80,hɑtɕidʑɯː,hɑtɕidʑɯː,[],,[],,False,False,hachijuu,1
+nucl1643-1-80-2,,nucl1643-1,80,jɑsodʑi,jɑsodʑi,[],,[],,False,False,yasoji,1
+nucl1643-1-90-1,,nucl1643-1,90,kʲɯːdʑɯː,kʲɯːdʑɯː,[],,[],,False,False,kyuujuu,1
+nucl1643-1-90-2,,nucl1643-1,90,kokonosoji,kokonosoji,[],,[],,False,False,,1
+nucl1643-1-100-1,,nucl1643-1,100,çɑkɯ,çɑkɯ,[],,[],,False,False,hyaku,1
+nucl1643-1-100-2,,nucl1643-1,100,momo,momo,[],,[],,False,False,momo,1
+nucl1643-1-200-1,,nucl1643-1,200,ɲiçɑkɯ,ɲiçɑkɯ,[],,[],,False,False,nihyaku,1
+nucl1643-1-200-2,,nucl1643-1,200,ɸɯtɑo,ɸɯtɑo,[],,[],,False,False,futao,1
+nucl1643-1-1000-1,,nucl1643-1,1000,seɴ,seɴ,[],,[],,False,False,sen,1
+nucl1643-1-1000-2,,nucl1643-1,1000,tɕi,tɕi,[],,[],,False,False,chi,1
+nucl1643-1-2000-1,,nucl1643-1,2000,niseɴ,niseɴ,[],,[],,False,False,nisen,1
+nucl1643-1-2000-2,,nucl1643-1,2000,ɸɯtɑtɕi,ɸɯtɑtɕi,[],,[],,False,False,futachi,1

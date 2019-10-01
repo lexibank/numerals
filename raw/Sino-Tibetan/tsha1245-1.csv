@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tsha1245-1-1-1,,tsha1245-1,1,tʰeʔ53,tʰeʔ53,[],,[],,False,False,,1
+tsha1245-1-2-1,,tsha1245-1,2,na̟i13,na̟i13,[],,[],,False,False,,1
+tsha1245-1-3-1,,tsha1245-1,3,sum53,sum53,[],,[],,False,False,,1
+tsha1245-1-4-1,,tsha1245-1,4,pli53,pli53,[],,[],,False,False,,1
+tsha1245-1-5-1,,tsha1245-1,5,le31ŋe53,le31ŋe53,[],,[],,False,False,,1
+tsha1245-1-6-1,,tsha1245-1,6,kroʔ53,kroʔ53,[],,[],,False,False,,1
+tsha1245-1-7-1,,tsha1245-1,7,nis55,nis55,[],,[],,False,False,,1
+tsha1245-1-8-1,,tsha1245-1,8,cen13,cen13,[],,[],,False,False,,1
+tsha1245-1-9-1,,tsha1245-1,9,tu31ku53,tu31ku53,[],,[],,False,False,,1
+tsha1245-1-10-1,,tsha1245-1,10,tɕi53,tɕi53,[],,[],,False,False,,1
+tsha1245-1-11-1,,tsha1245-1,11,tɕi53 tʰeʔ53,tɕi53 tʰeʔ53,[],,[],,False,False,,1
+tsha1245-1-12-1,,tsha1245-1,12,tɕi53 na̟i13,tɕi53 na̟i13,[],,[],,False,False,,1
+tsha1245-1-13-1,,tsha1245-1,13,tɕi53 sum53,tɕi53 sum53,[],,[],,False,False,,1
+tsha1245-1-14-1,,tsha1245-1,14,tɕi53 pli53,tɕi53 pli53,[],,[],,False,False,,1
+tsha1245-1-15-1,,tsha1245-1,15,tɕi53 le31ŋe53,tɕi53 le31ŋe53,[],,[],,False,False,,1
+tsha1245-1-16-1,,tsha1245-1,16,tɕi53 kroʔ53,tɕi53 kroʔ53,[],,[],,False,False,,1
+tsha1245-1-17-1,,tsha1245-1,17,tɕi53 nis55,tɕi53 nis55,[],,[],,False,False,,1
+tsha1245-1-18-1,,tsha1245-1,18,tɕi53 cen13,tɕi53 cen13,[],,[],,False,False,,1
+tsha1245-1-19-1,,tsha1245-1,19,tɕi53 tu31ku53,tɕi53 tu31ku53,[],,[],,False,False,,1
+tsha1245-1-20-1,,tsha1245-1,20,kʰa̟55li53,kʰa̟55li53,[],,[],,False,False,,1
+tsha1245-1-21-1,,tsha1245-1,21,kʰa̟55li53 tʰeʔ53,kʰa̟55li53 tʰeʔ53,[],,[],,False,False,,1
+tsha1245-1-22-1,,tsha1245-1,22,kʰa̟55li53 na̟i13,kʰa̟55li53 na̟i13,[],,[],,False,False,,1
+tsha1245-1-23-1,,tsha1245-1,23,kʰa̟55li53 sum53,kʰa̟55li53 sum53,[],,[],,False,False,,1
+tsha1245-1-24-1,,tsha1245-1,24,kʰa̟55li53 pli53,kʰa̟55li53 pli53,[],,[],,False,False,,1
+tsha1245-1-25-1,,tsha1245-1,25,kʰa̟55li53 le31ŋe53,kʰa̟55li53 le31ŋe53,[],,[],,False,False,,1
+tsha1245-1-26-1,,tsha1245-1,26,kʰa̟55li53 kroʔ53,kʰa̟55li53 kroʔ53,[],,[],,False,False,,1
+tsha1245-1-27-1,,tsha1245-1,27,kʰa̟55li53 nis55,kʰa̟55li53 nis55,[],,[],,False,False,,1
+tsha1245-1-28-1,,tsha1245-1,28,kʰa̟55li53 cen13,kʰa̟55li53 cen13,[],,[],,False,False,,1
+tsha1245-1-29-1,,tsha1245-1,29,kʰa̟55li53 tu31ku53,kʰa̟55li53 tu31ku53,[],,[],,False,False,,1
+tsha1245-1-30-1,,tsha1245-1,30,kʰa̟55li53 tɕi53,kʰa̟55li53 tɕi53,[],( 20 + 10 ),[],,False,False,,1
+tsha1245-1-40-1,,tsha1245-1,40,cʰɛʔ52na̟i13,cʰɛʔ52na̟i13,[],( 20 x 2 ),[],,False,False,,1
+tsha1245-1-50-1,,tsha1245-1,50,cʰɛʔ52na̟i13 tɕi53,cʰɛʔ52na̟i13 tɕi53,[],,[],,False,False,,1
+tsha1245-1-60-1,,tsha1245-1,60,cʰɛʔ52sum53,cʰɛʔ52sum53,[],( 20 x 3 ),[],,False,False,,1
+tsha1245-1-70-1,,tsha1245-1,70,cʰɛʔ52sum53 tɕi53,cʰɛʔ52sum53 tɕi53,[],,[],,False,False,,1
+tsha1245-1-80-1,,tsha1245-1,80,cʰɛʔ52 pli53,cʰɛʔ52 pli53,[],( 20 x 4 ),[],,False,False,,1
+tsha1245-1-90-1,,tsha1245-1,90,cʰɛʔ52 pli53tɕi53,cʰɛʔ52 pli53tɕi53,[],,[],,False,False,,1
+tsha1245-1-100-1,,tsha1245-1,100,cʰɛʔ52le31ŋe53,cʰɛʔ52le31ŋe53,[],( 20 x 5 ),[],,False,False,,1
+tsha1245-1-200-1,,tsha1245-1,200,cʰɛʔ52tɕi53,cʰɛʔ52tɕi53,[],( 20 x 10),[],,False,False,,1
+tsha1245-1-1000-1,,tsha1245-1,1000,tɔŋ55,tɔŋ55,[],< Tibetan ,[],,True,False,,1

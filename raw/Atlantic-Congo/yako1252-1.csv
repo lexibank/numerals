@@ -1,0 +1,24 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yako1252-1-1-1,,yako1252-1,1,òkɔ̀,òkɔ̀,[],,[],,False,False,,1
+yako1252-1-1-2,,yako1252-1,1,̀kɔ̀,̀kɔ̀,[],,[],,False,False,,1
+yako1252-1-2-1,,yako1252-1,2,ǒsɛ̀,ǒsɛ̀,[],,[],,False,False,,1
+yako1252-1-2-2,,yako1252-1,2,̌sɛ̀,̌sɛ̀,[],,[],,False,False,,1
+yako1252-1-3-1,,yako1252-1,3,òtá,òtá,[],,[],,False,False,,1
+yako1252-1-3-2,,yako1252-1,3,̀tá,̀tá,[],,[],,False,False,,1
+yako1252-1-4-1,,yako1252-1,4,òsyɔ̄,òsyɔ̄,[],,[],,False,False,,1
+yako1252-1-4-2,,yako1252-1,4,̀syɔ̄,̀syɔ̄,[],,[],,False,False,,1
+yako1252-1-5-1,,yako1252-1,5,òkṵ̄,òkṵ̄,[],,[],,False,False,,1
+yako1252-1-5-2,,yako1252-1,5,̀kṵ̄,̀kṵ̄,[],,[],,False,False,,1
+yako1252-1-6-1,,yako1252-1,6,òmɛ̀rɛ̄,òmɛ̀rɛ̄,[],,[],,False,False,,1
+yako1252-1-6-2,,yako1252-1,6,̀mɛ̀rɛ̄,̀mɛ̀rɛ̄,[],,[],,False,False,,1
+yako1252-1-7-1,,yako1252-1,7,mbárámbárá,mbárámbárá,[],,[],,False,False,,1
+yako1252-1-8-1,,yako1252-1,8,myɔ̀mbè,myɔ̀mbè,[],,[],,False,False,,1
+yako1252-1-9-1,,yako1252-1,9,ɡūmbáyā,ɡūmbáyā,[],,[],,False,False,,1
+yako1252-1-10-1,,yako1252-1,10,bàlé.kɔ̀,bàlé.kɔ̀,[],( {ten.one}),[],,False,False,,1
+yako1252-1-11-1,,yako1252-1,11,bàlé.kɔ̀ nɛ̀ òkɔ̀,bàlé.kɔ̀ nɛ̀ òkɔ̀,[],,[],,False,False,,1
+yako1252-1-11-2,,yako1252-1,11,bàlé.kɔ̀ lì.ḭ́ kɔ̀,bàlé.kɔ̀ lì.ḭ́ kɔ̀,[],,[],,False,False,,1
+yako1252-1-12-1,,yako1252-1,12,bàlé.kɔ̀ nɛ̀ ǒsɛ̀,bàlé.kɔ̀ nɛ̀ ǒsɛ̀,[],,[],,False,False,,1
+yako1252-1-12-2,,yako1252-1,12,bàlé.kɔ̀ lì.ḭ́ sɛ̀,bàlé.kɔ̀ lì.ḭ́ sɛ̀,[],,[],,False,False,,1
+yako1252-1-20-1,,yako1252-1,20,bàlé.sɛ̀,bàlé.sɛ̀,[],{ten / two},[],,False,False,,1
+yako1252-1-30-1,,yako1252-1,30,bàlé. ̀tá,bàlé. ̀tá,[],{ten / three },[],,False,True,,1
+yako1252-1-100-1,,yako1252-1,100,nɡbànɡbò,nɡbànɡbò,[],,[],,False,False,,1

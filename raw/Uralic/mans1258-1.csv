@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mans1258-1-1-1,,mans1258-1,1,akʷa,akʷa,[],,[],,False,False,,1
+mans1258-1-1-2,,mans1258-1,1,akʷ,akʷ,[],,[],,False,False,,1
+mans1258-1-2-1,,mans1258-1,2,kit,kit,[],(iɣ),[],,False,False,,1
+mans1258-1-3-1,,mans1258-1,3,χuːrᵘm,χuːrᵘm,[],,[],,False,False,,1
+mans1258-1-4-1,,mans1258-1,4,nʲila,nʲila,[],,[],,False,False,,1
+mans1258-1-5-1,,mans1258-1,5,at,at,[],,[],,False,False,,1
+mans1258-1-6-1,,mans1258-1,6,χoːt,χoːt,[],,[],,False,False,,1
+mans1258-1-7-1,,mans1258-1,7,saːt,saːt,[],,[],,False,False,,1
+mans1258-1-8-1,,mans1258-1,8,nʲollow,nʲollow,[],(nʲol '8?' + low '10'),[],,False,False,,1
+mans1258-1-9-1,,mans1258-1,9,oːntəllow,oːntəllow,[],(oːntəl '9?' + low '10'),[],,False,False,,1
+mans1258-1-10-1,,mans1258-1,10,low,low,[],,[],,False,False,,1
+mans1258-1-11-1,,mans1258-1,11,akʷχujplow,akʷχujplow,[],(akʷ '1'+ χujp+low),[],,False,False,,1
+mans1258-1-12-1,,mans1258-1,12,kitχujplow,kitχujplow,[],,[],,False,False,,1
+mans1258-1-13-1,,mans1258-1,13,xuːrumχujplow,xuːrumχujplow,[],,[],,False,False,,1
+mans1258-1-14-1,,mans1258-1,14,nʲilaχujplow,nʲilaχujplow,[],,[],,False,False,,1
+mans1258-1-15-1,,mans1258-1,15,atχujplow,atχujplow,[],,[],,False,False,,1
+mans1258-1-16-1,,mans1258-1,16,xoːtχujplow,xoːtχujplow,[],,[],,False,False,,1
+mans1258-1-17-1,,mans1258-1,17,saːtχujplow,saːtχujplow,[],,[],,False,False,,1
+mans1258-1-18-1,,mans1258-1,18,nʲollowχujplow,nʲollowχujplow,[],,[],,False,False,,1
+mans1258-1-19-1,,mans1258-1,19,oːntəllowχujplow,oːntəllowχujplow,[],,[],,False,False,,1
+mans1258-1-20-1,,mans1258-1,20,χus,χus,[],,[],,False,False,,1
+mans1258-1-21-1,,mans1258-1,21,waːt nopəl akʷa,waːt nopəl akʷa,[],( litː '1 toward 30'),[],,False,False,,1
+mans1258-1-22-1,,mans1258-1,22,waːt nopəl kit,waːt nopəl kit,[],,[],,False,False,,1
+mans1258-1-23-1,,mans1258-1,23,waːt nopəl χuːrᵘm,waːt nopəl χuːrᵘm,[],,[],,False,False,,1
+mans1258-1-24-1,,mans1258-1,24,waːt nopəl nʲila,waːt nopəl nʲila,[],,[],,False,False,,1
+mans1258-1-25-1,,mans1258-1,25,waːt nopəl at,waːt nopəl at,[],,[],,False,False,,1
+mans1258-1-26-1,,mans1258-1,26,waːt nopəl χoːt,waːt nopəl χoːt,[],,[],,False,False,,1
+mans1258-1-27-1,,mans1258-1,27,waːt nopəl saːt,waːt nopəl saːt,[],,[],,False,False,,1
+mans1258-1-28-1,,mans1258-1,28,waːt nopəl nʲollow,waːt nopəl nʲollow,[],,[],,False,False,,1
+mans1258-1-29-1,,mans1258-1,29,waːt nopəl oːntəllow,waːt nopəl oːntəllow,[],,[],,False,False,,1
+mans1258-1-30-1,,mans1258-1,30,waːt,waːt,[],,[],,False,False,,1
+mans1258-1-40-1,,mans1258-1,40,naliman,naliman,[],(nʲali~nali'4'+ -pan/man?),[],,False,False,,1
+mans1258-1-50-1,,mans1258-1,50,atpan,atpan,[],(at '5'+ -pan/man?),[],,False,False,,1
+mans1258-1-60-1,,mans1258-1,60,χoːtpan,χoːtpan,[],(χoːt '6'+ -pan/man?),[],,False,False,,1
+mans1258-1-70-1,,mans1258-1,70,saːtlow,saːtlow,[],(saːt '7'+ -low '10'),[],,False,False,,1
+mans1258-1-80-1,,mans1258-1,80,nʲolsaːt,nʲolsaːt,[],( nʲol'8?' + saːt '100'),[],,False,False,,1
+mans1258-1-90-1,,mans1258-1,90,oːntəlsaːt,oːntəlsaːt,[],( oːntəl '9?' + saːt '100'),[],,False,False,,1
+mans1258-1-100-1,,mans1258-1,100,saːt,saːt,[],(it's exactly the same numerals as 7),[],,False,False,,1
+mans1258-1-200-1,,mans1258-1,200,kit saːt,kit saːt,[],,[],,False,False,,1
+mans1258-1-1000-1,,mans1258-1,1000,sotər,sotər,[],,[],,False,False,,1
+mans1258-1-2000-1,,mans1258-1,2000,kit sotər,kit sotər,[],,[],,False,False,,1

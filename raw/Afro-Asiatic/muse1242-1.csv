@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+muse1242-1-1-1,,muse1242-1,1,dèw,dèw,[],,[],,False,False,,1
+muse1242-1-2-1,,muse1242-1,2,ɓà,ɓà,[],,[],,False,False,,1
+muse1242-1-3-1,,muse1242-1,3,híndí,híndí,[],,[],,False,False,,1
+muse1242-1-4-1,,muse1242-1,4,fídí,fídí,[],,[],,False,False,,1
+muse1242-1-5-1,,muse1242-1,5,fàɬ,fàɬ,[],,[],,False,False,,1
+muse1242-1-6-1,,muse1242-1,6,kárɡìyá,kárɡìyá,[],,[],,False,False,,1
+muse1242-1-7-1,,muse1242-1,7,kídísìyá,kídísìyá,[],,[],,False,False,,1
+muse1242-1-8-1,,muse1242-1,8,kálvàndì,kálvàndì,[],,[],,False,False,,1
+muse1242-1-9-1,,muse1242-1,9,ɬèŋŋè,ɬèŋŋè,[],,[],,False,False,,1
+muse1242-1-10-1,,muse1242-1,10,dòɡò,dòɡò,[],,[],,False,False,,1
+muse1242-1-11-1,,muse1242-1,11,dòɡò yám dèw,dòɡò yám dèw,[],,[],,False,False,,1
+muse1242-1-12-1,,muse1242-1,12,dòɡò yám ɓà,dòɡò yám ɓà,[],,[],,False,False,,1
+muse1242-1-13-1,,muse1242-1,13,dòɡò yám híndí,dòɡò yám híndí,[],,[],,False,False,,1
+muse1242-1-14-1,,muse1242-1,14,dòɡò yám fídí,dòɡò yám fídí,[],,[],,False,False,,1
+muse1242-1-15-1,,muse1242-1,15,dòɡò yám fàɬ,dòɡò yám fàɬ,[],,[],,False,False,,1
+muse1242-1-16-1,,muse1242-1,16,dòɡò yám kárɡìyá,dòɡò yám kárɡìyá,[],,[],,False,False,,1
+muse1242-1-17-1,,muse1242-1,17,dòɡò yám kídísìyá,dòɡò yám kídísìyá,[],,[],,False,False,,1
+muse1242-1-18-1,,muse1242-1,18,dòɡò yámkálvàndì,dòɡò yámkálvàndì,[],,[],,False,False,,1
+muse1242-1-19-1,,muse1242-1,19,dòɡò yám ɬèŋŋè,dòɡò yám ɬèŋŋè,[],,[],,False,False,,1
+muse1242-1-20-1,,muse1242-1,20,dòk ɓà,dòk ɓà,[],,[],,False,False,,1
+muse1242-1-21-1,,muse1242-1,21,dòk ɓá yám dèw,dòk ɓá yám dèw,[],,[],,False,False,,1
+muse1242-1-22-1,,muse1242-1,22,dòk ɓá yám ɓà,dòk ɓá yám ɓà,[],,[],,False,False,,1
+muse1242-1-23-1,,muse1242-1,23,dòk ɓá yám híndí,dòk ɓá yám híndí,[],,[],,False,False,,1
+muse1242-1-24-1,,muse1242-1,24,dòk ɓá yám fídí,dòk ɓá yám fídí,[],,[],,False,False,,1
+muse1242-1-25-1,,muse1242-1,25,dòk ɓá yám fàɬ,dòk ɓá yám fàɬ,[],,[],,False,False,,1
+muse1242-1-26-1,,muse1242-1,26,dòk ɓá yám kárɡìyá,dòk ɓá yám kárɡìyá,[],,[],,False,False,,1
+muse1242-1-27-1,,muse1242-1,27,dòk ɓá yám kídísìyá,dòk ɓá yám kídísìyá,[],,[],,False,False,,1
+muse1242-1-28-1,,muse1242-1,28,dòk ɓá yám kálvàndì,dòk ɓá yám kálvàndì,[],,[],,False,False,,1
+muse1242-1-29-1,,muse1242-1,29,dòk ɓá yám ɬèŋŋè,dòk ɓá yám ɬèŋŋè,[],,[],,False,False,,1
+muse1242-1-30-1,,muse1242-1,30,dòk híndí,dòk híndí,[],,[],,False,False,,1
+muse1242-1-40-1,,muse1242-1,40,dòk fídí,dòk fídí,[],,[],,False,False,,1
+muse1242-1-50-1,,muse1242-1,50,dòk fàɬ,dòk fàɬ,[],,[],,False,False,,1
+muse1242-1-60-1,,muse1242-1,60,dòk kárɡìyá,dòk kárɡìyá,[],,[],,False,False,,1
+muse1242-1-70-1,,muse1242-1,70,dòk kídísìyá,dòk kídísìyá,[],,[],,False,False,,1
+muse1242-1-80-1,,muse1242-1,80,dòk kálvàndì,dòk kálvàndì,[],,[],,False,False,,1
+muse1242-1-90-1,,muse1242-1,90,dòk ɬèŋŋè,dòk ɬèŋŋè,[],,[],,False,False,,1
+muse1242-1-100-1,,muse1242-1,100,kís,kís,[],,[],,False,False,,1
+muse1242-1-100-2,,muse1242-1,100,200. kískís ɓà,200. kískís ɓà,[],,[],,False,True,,1
+muse1242-1-100-3,,muse1242-1,100,400. kískís fídí,400. kískís fídí,[],,[],,False,True,,1
+muse1242-1-500-1,,muse1242-1,500,kískísfàɬ,kískísfàɬ,[],,[],,False,False,,1
+muse1242-1-500-2,,muse1242-1,500,800.kískískálvàndì,800.kískískálvàndì,[],,[],,False,True,,1
+muse1242-1-900-1,,muse1242-1,900,kískísɬèŋŋè,kískísɬèŋŋè,[],,[],,False,False,,1
+muse1242-1-900-2,,muse1242-1,900,1000. bùbu,1000. bùbu,[],,[],,False,True,,1
+muse1242-1-2000-1,,muse1242-1,2000,bùbbùb ɓà,bùbbùb ɓà,[],,[],,False,False,,1

@@ -1,0 +1,62 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+faro1244-1-1-1,,faro1244-1,1,ăɪʰtː,ăɪʰtː,[],(n.),[],,False,False,eitt,1
+faro1244-1-1-2,,faro1244-1,1,ain,ain,[],(m. and f.),[],,False,False,ein,1
+faro1244-1-2-1,,faro1244-1,2,tʰvɛi,tʰvɛi,[],(n.),[],,False,False,tvey,1
+faro1244-1-2-2,,faro1244-1,2,ˈtʰveiːɾ,ˈtʰveiːɾ,[],(m.),[],,False,False,tveir,1
+faro1244-1-2-3,,faro1244-1,2,tʰɛaɹ,tʰɛaɹ,[],,[],,False,False,tvær,1
+faro1244-1-3-1,,faro1244-1,3,tʰɹʊi,tʰɹʊi,[],(n.),[],,False,False,trý,1
+faro1244-1-3-2,,faro1244-1,3,tʰɹʊd̥͡ʒːɪɹ,tʰɹʊd̥͡ʒːɪɹ,[],(m.),[],,False,False,tríggir,1
+faro1244-1-3-3,,faro1244-1,3,tʰɹʊd̥͡ʒːɪɹ,tʰɹʊd̥͡ʒːɪɹ,[],(f.),[],,False,False,tríggjar,1
+faro1244-1-4-1,,faro1244-1,4,ˈfʊiɹa,ˈfʊiɹa,[],,[],,False,False,fýra,1
+faro1244-1-5-1,,faro1244-1,5,ˈfɪmː,ˈfɪmː,[],,[],,False,False,fimm,1
+faro1244-1-6-1,,faro1244-1,6,ˈsɛg̊s,ˈsɛg̊s,[],,[],,False,False,seks,1
+faro1244-1-7-1,,faro1244-1,7,ʃɛi,ʃɛi,[],,[],,False,False,sjey,1
+faro1244-1-8-1,,faro1244-1,8,ˈɔʰtːa,ˈɔʰtːa,[],,[],,False,False,átta,1
+faro1244-1-9-1,,faro1244-1,9,ˈnʊd̥͡ʒːʊ,ˈnʊd̥͡ʒːʊ,[],,[],,False,False,níggju,1
+faro1244-1-10-1,,faro1244-1,10,ˈtʰʊd̥͡ʒːʊ,ˈtʰʊd̥͡ʒːʊ,[],,[],,False,False,tíggju,1
+faro1244-1-11-1,,faro1244-1,11,ˈɛd̥lɪvʊ,ˈɛd̥lɪvʊ,[],,[],,False,False,ellivu,1
+faro1244-1-12-1,,faro1244-1,12,ˈtʰœlv,ˈtʰœlv,[],,[],,False,False,tólv,1
+faro1244-1-13-1,,faro1244-1,13,ˈtʰɹɛʰtːan,ˈtʰɹɛʰtːan,[],,[],,False,False,trettan,1
+faro1244-1-14-1,,faro1244-1,14,ˈfjʏɹ̥tan,ˈfjʏɹ̥tan,[],,[],,False,False,fjúrtan,1
+faro1244-1-15-1,,faro1244-1,15,ˈfɪm̥tan,ˈfɪm̥tan,[],,[],,False,False,fimtan,1
+faro1244-1-16-1,,faro1244-1,16,ˈsɛg̊stan,ˈsɛg̊stan,[],,[],,False,False,sekstan,1
+faro1244-1-17-1,,faro1244-1,17,ˈʃɛid̥͡ʒan,ˈʃɛid̥͡ʒan,[],,[],,False,False,seytjan,1
+faro1244-1-18-1,,faro1244-1,18,ˈɔaʰt͡ʃan,ˈɔaʰt͡ʃan,[],,[],,False,False,átjan,1
+faro1244-1-19-1,,faro1244-1,19,ˈnʊid̥͡ʒan,ˈnʊid̥͡ʒan,[],,[],,False,False,nítjan,1
+faro1244-1-20-1,,faro1244-1,20,ˈt͡ʃʰʉuwʊ,ˈt͡ʃʰʉuwʊ,[],,[],,False,False,tjúgu,1
+faro1244-1-21-1,,faro1244-1,21,ˈainɔ ˈt͡ʃʰʉuwʊ,ˈainɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,einnog tjúgu,1
+faro1244-1-21-2,,faro1244-1,21,ˈt͡ʃʰʉuwʊɔ ˈain,ˈt͡ʃʰʉuwʊɔ ˈain,[],,[],,False,False,tjúgu ogeinn,1
+faro1244-1-22-1,,faro1244-1,22,tʰvɛi ɔ ˈt͡ʃʰʉuwʊ,tʰvɛi ɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,tvey og og tjúgu,1
+faro1244-1-22-2,,faro1244-1,22,ˈt͡ʃʰʉuwʊɔ ˈtʰvaiɹ,ˈt͡ʃʰʉuwʊɔ ˈtʰvaiɹ,[],,[],,False,False,tjúgu og tveir,1
+faro1244-1-23-1,,faro1244-1,23,tʰɹʊi ɔ ˈt͡ʃʰʉuwʊ,tʰɹʊi ɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,trý og tjúgu,1
+faro1244-1-23-2,,faro1244-1,23,ˈt͡ʃʰʉuwʊɔ ˈtʰɹʊd̥͡ʒːɪɹ,ˈt͡ʃʰʉuwʊɔ ˈtʰɹʊd̥͡ʒːɪɹ,[],,[],,False,False,tjúgu og tríggir,1
+faro1244-1-24-1,,faro1244-1,24,ˈfʊiɹa ɔ ˈt͡ʃʰʉuwʊ,ˈfʊiɹa ɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,fýraog tjúgu,1
+faro1244-1-24-2,,faro1244-1,24,ˈt͡ʃʰʉuwʊɔ ˈfʊiɹa,ˈt͡ʃʰʉuwʊɔ ˈfʊiɹa,[],,[],,False,False,tjúgu og fýra,1
+faro1244-1-25-1,,faro1244-1,25,ˈfɪmː ɔ ˈt͡ʃʰʉuwʊ,ˈfɪmː ɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,fimm og tjúgu,1
+faro1244-1-25-2,,faro1244-1,25,ˈt͡ʃʰʉuwʊɔ ˈfɪmː,ˈt͡ʃʰʉuwʊɔ ˈfɪmː,[],,[],,False,False,tjúguog fimm,1
+faro1244-1-26-1,,faro1244-1,26,ˈsɛg̊s ɔ ˈt͡ʃʰʉuwʊ,ˈsɛg̊s ɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,seks og tjúgu,1
+faro1244-1-26-2,,faro1244-1,26,ˈt͡ʃʰʉuwʊɔ ˈsɛg̊s,ˈt͡ʃʰʉuwʊɔ ˈsɛg̊s,[],,[],,False,False,tjúgu og seks,1
+faro1244-1-27-1,,faro1244-1,27,ʃɛi ɔ ˈt͡ʃʰʉuwʊ,ʃɛi ɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,sjey og tjúgu,1
+faro1244-1-27-2,,faro1244-1,27,ˈt͡ʃʰʉuwʊɔ ʃɛi,ˈt͡ʃʰʉuwʊɔ ʃɛi,[],,[],,False,False,tjúgu og sjey,1
+faro1244-1-28-1,,faro1244-1,28,ˈɔʰtːaɔ ˈt͡ʃʰʉuwʊ,ˈɔʰtːaɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,átta og tjúgu,1
+faro1244-1-28-2,,faro1244-1,28,ˈt͡ʃʰʉuwʊɔ ˈɔʰtːa,ˈt͡ʃʰʉuwʊɔ ˈɔʰtːa,[],,[],,False,False,tjúguog átta,1
+faro1244-1-29-1,,faro1244-1,29,ˈnʊd̥͡ʒːʊɔ ˈt͡ʃʰʉuwʊ,ˈnʊd̥͡ʒːʊɔ ˈt͡ʃʰʉuwʊ,[],,[],,False,False,níggju og tjúgu,1
+faro1244-1-29-2,,faro1244-1,29,ˈt͡ʃʰʉuwʊɔ ˈnʊd̥͡ʒːʊ,ˈt͡ʃʰʉuwʊɔ ˈnʊd̥͡ʒːʊ,[],,[],,False,False,tjúgu og níggju,1
+faro1244-1-30-1,,faro1244-1,30,ˈtʰɹeːd̥(ɪ)vʊ,ˈtʰɹeːd̥(ɪ)vʊ,[],,[],,False,False,tretivu,1
+faro1244-1-30-2,,faro1244-1,30,ˈtʰɹʊijad̥i,ˈtʰɹʊijad̥i,[],,[],,False,False,tríati,1
+faro1244-1-40-1,,faro1244-1,40,ˈfjøːɹʊd̥i,ˈfjøːɹʊd̥i,[],,[],,False,False,fjøruti,1
+faro1244-1-40-2,,faro1244-1,40,ˈfʊiɹad̥i,ˈfʊiɹad̥i,[],,[],,False,False,fýrati,1
+faro1244-1-50-1,,faro1244-1,50,hɔl̥ˈtʰɹʊʃː,hɔl̥ˈtʰɹʊʃː,[],,[],,False,False,hálvtrýss,1
+faro1244-1-50-2,,faro1244-1,50,ˈfim̥tɪ,ˈfim̥tɪ,[],,[],,False,False,fimmti,1
+faro1244-1-60-1,,faro1244-1,60,tʰɹʊʃː̥,tʰɹʊʃː̥,[],,[],,False,False,trýss,1
+faro1244-1-60-2,,faro1244-1,60,ˈsɛg̊sd̥i,ˈsɛg̊sd̥i,[],,[],,False,False,seksti,1
+faro1244-1-70-1,,faro1244-1,70,hɔl̥ˈfjɛʂː / sjeyti,hɔl̥ˈfjɛʂː,[],[ˈʃɛid̥i],[],,False,True,hálvfjerðs [,1
+faro1244-1-70-2,,faro1244-1,70,hɔl̥ˈfjɛʂː / sjeyti,sjeyti,[],[ˈʃɛid̥i],[],,False,True,hálvfjerðs [,1
+faro1244-1-80-1,,faro1244-1,80,fʊʂː̥,fʊʂː̥,[],,[],,False,False,fýrs,1
+faro1244-1-80-2,,faro1244-1,80,ˈɔʰtːad̥ɪ,ˈɔʰtːad̥ɪ,[],,[],,False,False,áttati,1
+faro1244-1-90-1,,faro1244-1,90,hɔl̥ˈfɛm̥s,hɔl̥ˈfɛm̥s,[],,[],,False,False,hálvfems,1
+faro1244-1-90-2,,faro1244-1,90,ˈnʊid̥ɪ,ˈnʊid̥ɪ,[],,[],,False,False,níti,1
+faro1244-1-100-1,,faro1244-1,100,ˈăĭʰtːˌhʊnd̥ɹa,ˈăĭʰtːˌhʊnd̥ɹa,[],,[],,False,False,(eitt) hundrað,1
+faro1244-1-200-1,,faro1244-1,200,ˈtvɛi ˌhʊnd̥ɹa,ˈtvɛi ˌhʊnd̥ɹa,[],,[],,False,False,tvey hundrað,1
+faro1244-1-1000-1,,faro1244-1,1000,ˈăĭʰtː ˌtʰʉusʊnd̥,ˈăĭʰtː ˌtʰʉusʊnd̥,[],,[],,False,False,(eitt) túsund,1
+faro1244-1-2000-1,,faro1244-1,2000,ˈtvɛi ˌtʰʉusʊnd̥,ˈtvɛi ˌtʰʉusʊnd̥,[],,[],,False,False,tveytúsund [,1

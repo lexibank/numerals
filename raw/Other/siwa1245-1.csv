@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+siwa1245-1-1-1,,siwa1245-1,1,nouru,nouru,[],,[],,False,False,,1
+siwa1245-1-2-1,,siwa1245-1,2,kiurukʷo,kiurukʷo,[],,[],,False,False,,1
+siwa1245-1-3-1,,siwa1245-1,3,peːmoŋu,peːmoŋu,[],,[],,False,False,,1
+siwa1245-1-4-1,,siwa1245-1,4,korimoŋu,korimoŋu,[],,[],,False,False,,1
+siwa1245-1-4-2,,siwa1245-1,4,korinoruː,korinoruː,[],,[],,False,False,,1
+siwa1245-1-5-1,,siwa1245-1,5,puːnoruː,puːnoruː,[],,[],,False,False,,1
+siwa1245-1-6-1,,siwa1245-1,6,nouruŋi noro,nouruŋi noro,[],,[],,False,False,,1
+siwa1245-1-7-1,,siwa1245-1,7,kiurukeː noro,kiurukeː noro,[],,[],,False,False,,1
+siwa1245-1-8-1,,siwa1245-1,8,peːmoŋui noro,peːmoŋui noro,[],,[],,False,False,,1
+siwa1245-1-9-1,,siwa1245-1,9,korimoŋui,korimoŋui,[],,[],,False,False,,1
+siwa1245-1-9-2,,siwa1245-1,9,korinoruːŋi noro,korinoruːŋi noro,[],,[],,False,False,,1
+siwa1245-1-10-1,,siwa1245-1,10,noro,noro,[],,[],,False,False,,1
+siwa1245-1-11-1,,siwa1245-1,11,nouruŋi kinoŋo,nouruŋi kinoŋo,[],,[],,False,False,,1
+siwa1245-1-12-1,,siwa1245-1,12,kiurukeː kinoŋo,kiurukeː kinoŋo,[],,[],,False,False,,1
+siwa1245-1-13-1,,siwa1245-1,13,peːmoŋui kinoŋo,peːmoŋui kinoŋo,[],,[],,False,False,,1
+siwa1245-1-14-1,,siwa1245-1,14,korimoŋui,korimoŋui,[],,[],,False,False,,1
+siwa1245-1-14-2,,siwa1245-1,14,korinoruːŋi kinoŋo,korinoruːŋi kinoŋo,[],,[],,False,False,,1
+siwa1245-1-15-1,,siwa1245-1,15,puːnoruːŋi kinoŋo,puːnoruːŋi kinoŋo,[],,[],,False,False,,1
+siwa1245-1-16-1,,siwa1245-1,16,nouruŋi noroŋi kinoŋo,nouruŋi noroŋi kinoŋo,[],,[],,False,False,,1
+siwa1245-1-17-1,,siwa1245-1,17,kiurukeː noroŋi kinoŋo,kiurukeː noroŋi kinoŋo,[],,[],,False,False,,1
+siwa1245-1-18-1,,siwa1245-1,18,peːmoŋui noroŋi kinoŋo,peːmoŋui noroŋi kinoŋo,[],,[],,False,False,,1
+siwa1245-1-19-1,,siwa1245-1,19,korimoŋui,korimoŋui,[],,[],,False,False,,1
+siwa1245-1-19-2,,siwa1245-1,19,korinoruːŋi noroŋi,korinoruːŋi noroŋi,[],(kinoŋo),[],,False,False,,1
+siwa1245-1-20-1,,siwa1245-1,20,kinoŋo,kinoŋo,[],,[],,False,False,,1
+siwa1245-1-21-1,,siwa1245-1,21,nouruŋi peːnoŋ,nouruŋi peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-22-1,,siwa1245-1,22,kiurukeː peːnoŋ,kiurukeː peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-23-1,,siwa1245-1,23,peːmoŋui peːnoŋ,peːmoŋui peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-24-1,,siwa1245-1,24,korimoŋui,korimoŋui,[],,[],,False,False,,1
+siwa1245-1-24-2,,siwa1245-1,24,korinoruːŋi peːnoŋ,korinoruːŋi peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-25-1,,siwa1245-1,25,puːnoruːŋi peːnoŋ,puːnoruːŋi peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-26-1,,siwa1245-1,26,nouruŋi noroŋi peːnoŋ,nouruŋi noroŋi peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-27-1,,siwa1245-1,27,kiurukeː noroŋi peːnoŋ,kiurukeː noroŋi peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-28-1,,siwa1245-1,28,peːmoŋui noroŋi peːnoŋ,peːmoŋui noroŋi peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-29-1,,siwa1245-1,29,korimoŋui,korimoŋui,[],,[],,False,False,,1
+siwa1245-1-29-2,,siwa1245-1,29,korinoruːŋi noroŋi peːnoŋ,korinoruːŋi noroŋi peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-30-1,,siwa1245-1,30,peːnoŋ,peːnoŋ,[],,[],,False,False,,1
+siwa1245-1-40-1,,siwa1245-1,40,korinoŋ,korinoŋ,[],,[],,False,False,,1
+siwa1245-1-50-1,,siwa1245-1,50,puːnoŋ,puːnoŋ,[],,[],,False,False,,1

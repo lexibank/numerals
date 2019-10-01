@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+papa1265-1-1-1,,papa1265-1,1,naʔaria,naʔaria,[],,[],,False,False,,1
+papa1265-1-2-1,,papa1265-1,2,nuata,nuata,[],,[],,False,False,,1
+papa1265-1-3-1,,papa1265-1,3,tauono,tauono,[],,[],,False,False,,1
+papa1265-1-3-2,,papa1265-1,3,taʊtɔnu,taʊtɔnu,[],,[],,False,False,,1
+papa1265-1-3-3,,papa1265-1,3,taʊtɔnɔ,taʊtɔnɔ,[],,[],,False,False,,1
+papa1265-1-4-1,,papa1265-1,4,tauvasi,tauvasi,[],,[],,False,False,,1
+papa1265-1-5-1,,papa1265-1,5,pepeitaunima,pepeitaunima,[],(litː ''one hand''),[],,False,False,,1
+papa1265-1-6-1,,papa1265-1,6,toatoa,toatoa,[],,[],,False,False,pepeitaunima naʔaria,1
+papa1265-1-7-1,,papa1265-1,7,toatoa,toatoa,[],,[],,False,False,pepeitaunima nuata,1
+papa1265-1-8-1,,papa1265-1,8,toatoa,toatoa,[],,[],,False,False,pepeitaunima tautono,1
+papa1265-1-9-1,,papa1265-1,9,toatoa,toatoa,[],,[],,False,False,pepeitaunima tauvasi,1
+papa1265-1-10-1,,papa1265-1,10,numanoa,numanoa,[],,[],,False,False,,1
+papa1265-1-11-1,,papa1265-1,11,toatoa,toatoa,[],,[],,False,False,numanoa naʔaria,1
+papa1265-1-12-1,,papa1265-1,12,toatoa,toatoa,[],,[],,False,False,numanoa nuata,1
+papa1265-1-13-1,,papa1265-1,13,toatoa,toatoa,[],,[],,False,False,numanoa tauono,1
+papa1265-1-14-1,,papa1265-1,14,toatoa,toatoa,[],,[],,False,False,numanoa tauvasi,1
+papa1265-1-15-1,,papa1265-1,15,toatoa,toatoa,[],,[],,False,False,numanoa pepeitaunima,1
+papa1265-1-16-1,,papa1265-1,16,toatoa,toatoa,[],,[],,False,False,numanoa pep. naʔaria,1
+papa1265-1-17-1,,papa1265-1,17,toatoa,toatoa,[],,[],,False,False,numanoa pep. nuata,1
+papa1265-1-18-1,,papa1265-1,18,toatoa,toatoa,[],,[],,False,False,numanoa pep. tauono,1
+papa1265-1-19-1,,papa1265-1,19,toatoa,toatoa,[],,[],,False,False,numanoa pep. tauvasi,1
+papa1265-1-20-1,,papa1265-1,20,nuau manoa,nuau manoa,[],,[],,False,False,,1
+papa1265-1-21-1,,papa1265-1,21,toatoa,toatoa,[],,[],,False,False,nuau manoa naʔaria,1
+papa1265-1-22-1,,papa1265-1,22,toatoa,toatoa,[],,[],,False,False,nuau manoa nuata,1
+papa1265-1-23-1,,papa1265-1,23,toatoa,toatoa,[],,[],,False,False,nuau manoa tauono,1
+papa1265-1-24-1,,papa1265-1,24,toatoa,toatoa,[],,[],,False,False,nuau manoa tauvasi,1
+papa1265-1-25-1,,papa1265-1,25,toatoa,toatoa,[],,[],,False,False,nuau manoa pepeitaunima,1
+papa1265-1-26-1,,papa1265-1,26,toatoa,toatoa,[],,[],,False,False,nuau manoa pep. naʔaria,1
+papa1265-1-27-1,,papa1265-1,27,toatoa,toatoa,[],,[],,False,False,nuau manoa pep. nuata,1
+papa1265-1-28-1,,papa1265-1,28,toatoa,toatoa,[],,[],,False,False,nuau manoa pep. tautono,1
+papa1265-1-29-1,,papa1265-1,29,toatoa,toatoa,[],,[],,False,False,nuau manoa pep. tauvasi,1
+papa1265-1-30-1,,papa1265-1,30,tauono manoa,tauono manoa,[],,[],,False,False,,1
+papa1265-1-40-1,,papa1265-1,40,tauvasi manoa,tauvasi manoa,[],,[],,False,False,,1
+papa1265-1-50-1,,papa1265-1,50,pepeitaunima manoa,pepeitaunima manoa,[],,[],,False,False,,1
+papa1265-1-60-1,,papa1265-1,60,pepeitaunima naʔaria manoa,pepeitaunima naʔaria manoa,[],,[],,False,False,,1
+papa1265-1-70-1,,papa1265-1,70,pepeitaunima nuata manoa,pepeitaunima nuata manoa,[],,[],,False,False,,1
+papa1265-1-80-1,,papa1265-1,80,pepeitaunima tautono manoa,pepeitaunima tautono manoa,[],,[],,False,False,,1
+papa1265-1-90-1,,papa1265-1,90,pepeitaunima tauvasi manoa,pepeitaunima tauvasi manoa,[],,[],,False,False,,1
+papa1265-1-100-1,,papa1265-1,100,nuau pepeitaunima manoa,nuau pepeitaunima manoa,[],,[],,False,False,,1
+papa1265-1-150-1,,papa1265-1,150,tautoi pepeitaunima manoa,tautoi pepeitaunima manoa,[],,[],,False,False,,1
+papa1265-1-1000-1,,papa1265-1,1000,manomanoana,manomanoana,[],,[],,False,False,,1
+papa1265-1-2000-1,,papa1265-1,2000,nuata manomanoana,nuata manomanoana,[],,[],,False,False,,1

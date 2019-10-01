@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sout2672-3-1-1,,sout2672-3,1,i,i,[],,[],,False,False,,3
+sout2672-3-2-1,,sout2672-3,2,do,do,[],,[],,False,False,,3
+sout2672-3-3-1,,sout2672-3,3,ɬe,ɬe,[],,[],,False,False,,3
+sout2672-3-4-1,,sout2672-3,4,t͡ʃaːɾ,t͡ʃaːɾ,[],,[],,False,False,,3
+sout2672-3-5-1,,sout2672-3,5,paind͡ʒ,paind͡ʒ,[],,[],,False,False,,3
+sout2672-3-6-1,,sout2672-3,6,ʃe,ʃe,[],,[],,False,False,,3
+sout2672-3-7-1,,sout2672-3,7,sat,sat,[],,[],,False,False,,3
+sout2672-3-8-1,,sout2672-3,8,aʃt,aʃt,[],,[],,False,False,,3
+sout2672-3-9-1,,sout2672-3,9,no,no,[],,[],,False,False,,3
+sout2672-3-10-1,,sout2672-3,10,de,de,[],,[],,False,False,,3
+sout2672-3-11-1,,sout2672-3,11,yaːi,yaːi,[],,[],,False,False,,3
+sout2672-3-12-1,,sout2672-3,12,doaːi,doaːi,[],,[],,False,False,,3
+sout2672-3-13-1,,sout2672-3,13,ɬwe,ɬwe,[],,[],,False,False,,3
+sout2672-3-14-1,,sout2672-3,14,t͡ʃade,t͡ʃade,[],,[],,False,False,,3
+sout2672-3-15-1,,sout2672-3,15,paind͡ʒu,paind͡ʒu,[],,[],,False,False,,3
+sout2672-3-16-1,,sout2672-3,16,ʃoɽ,ʃoɽ,[],,[],,False,False,,3
+sout2672-3-17-1,,sout2672-3,17,satu,satu,[],,[],,False,False,,3
+sout2672-3-18-1,,sout2672-3,18,aʃʈu,aʃʈu,[],,[],,False,False,,3
+sout2672-3-19-1,,sout2672-3,19,nəu,nəu,[],,[],,False,False,,3
+sout2672-3-20-1,,sout2672-3,20,west,west,[],,[],,False,False,,3
+sout2672-3-21-1,,sout2672-3,21,westoi,westoi,[],,[],,False,False,,3
+sout2672-3-22-1,,sout2672-3,22,westodo,westodo,[],,[],,False,False,,3
+sout2672-3-23-1,,sout2672-3,23,westoɬe,westoɬe,[],,[],,False,False,,3
+sout2672-3-24-1,,sout2672-3,24,westot͡ʃaːɾ,westot͡ʃaːɾ,[],,[],,False,False,,3
+sout2672-3-25-1,,sout2672-3,25,westopaind͡ʒ,westopaind͡ʒ,[],,[],,False,False,,3
+sout2672-3-26-1,,sout2672-3,26,westoʃe,westoʃe,[],,[],,False,False,,3
+sout2672-3-27-1,,sout2672-3,27,westosat,westosat,[],,[],,False,False,,3
+sout2672-3-28-1,,sout2672-3,28,westoaʃt,westoaʃt,[],,[],,False,False,,3
+sout2672-3-29-1,,sout2672-3,29,westono,westono,[],,[],,False,False,,3
+sout2672-3-30-1,,sout2672-3,30,westode,westode,[],(20 + 10),[],,False,False,,3
+sout2672-3-40-1,,sout2672-3,40,dowea,dowea,[],( 2 x 20),[],,False,False,,3
+sout2672-3-50-1,,sout2672-3,50,doweaode,doweaode,[],[(2 x 20) + 10 ],[],,False,False,,3
+sout2672-3-60-1,,sout2672-3,60,ɬewea,ɬewea,[],( 3 x 20),[],,False,False,,3
+sout2672-3-70-1,,sout2672-3,70,ɬeweaode,ɬeweaode,[],[(3 x 20) + 10],[],,False,False,,3
+sout2672-3-80-1,,sout2672-3,80,t͡ʃaɾwea,t͡ʃaɾwea,[],( 4 x 20),[],,False,False,,3
+sout2672-3-90-1,,sout2672-3,90,t͡ʃaɾweaode,t͡ʃaɾweaode,[],[(4 x 20) + 10],[],,False,False,,3
+sout2672-3-100-1,,sout2672-3,100,paind͡ʒwea,paind͡ʒwea,[],( 5 x 20),[],,False,False,,3
+sout2672-3-200-1,,sout2672-3,200,dewea,dewea,[],( 10 x 20),[],,False,False,,3
+sout2672-3-1000-1,,sout2672-3,1000,azaːɾ,azaːɾ,[],,[],,False,False,,3
+sout2672-3-1000-2,,sout2672-3,1000,iazaːɾ,iazaːɾ,[],,[],,False,False,,3
+sout2672-3-2000-1,,sout2672-3,2000,doazaːɾ,doazaːɾ,[],,[],,False,False,,3

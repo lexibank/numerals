@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+waig1243-3-1-1,,waig1243-3,1,ew,ew,[],,[],,False,False,ew,2
+waig1243-3-2-1,,waig1243-3,2,dʏ,dʏ,[],,[],,False,False,dü,2
+waig1243-3-3-1,,waig1243-3,3,trɛ,trɛ,[],,[],,False,False,tre,2
+waig1243-3-4-1,,waig1243-3,4,t͡ʃataː,t͡ʃataː,[],,[],,False,False,čatā,2
+waig1243-3-5-1,,waig1243-3,5,pont͡ʃ,pont͡ʃ,[],,[],,False,False,ponč,2
+waig1243-3-6-1,,waig1243-3,6,ʂu,ʂu,[],,[],,False,False,ṣ̌u,2
+waig1243-3-7-1,,waig1243-3,7,sot,sot,[],,[],,False,False,sot,2
+waig1243-3-8-1,,waig1243-3,8,oʂʈ,oʂʈ,[],,[],,False,False,oṣṭ,2
+waig1243-3-9-1,,waig1243-3,9,nu,nu,[],,[],,False,False,nu,2
+waig1243-3-10-1,,waig1243-3,10,doʃ,doʃ,[],,[],,False,False,doš,2
+waig1243-3-11-1,,waig1243-3,11,jaːʃ,jaːʃ,[],,[],,False,False,yāš,2
+waig1243-3-12-1,,waig1243-3,12,baːʃ,baːʃ,[],,[],,False,False,bāš,2
+waig1243-3-13-1,,waig1243-3,13,trõʃ,trõʃ,[],,[],,False,False,trõš,2
+waig1243-3-14-1,,waig1243-3,14,t͡ʃadis,t͡ʃadis,[],,[],,False,False,čadis,2
+waig1243-3-15-1,,waig1243-3,15,pat͡ʃiʃ,pat͡ʃiʃ,[],,[],,False,False,pačiš,2
+waig1243-3-16-1,,waig1243-3,16,ʂẽʃ,ʂẽʃ,[],,[],,False,False,ṣẽš,2
+waig1243-3-17-1,,waig1243-3,17,sataːʃ,sataːʃ,[],,[],,False,False,satāš,2
+waig1243-3-18-1,,waig1243-3,18,ʂʈaʃ,ʂʈaʃ,[],,[],,False,False,ṣṭaš,2
+waig1243-3-19-1,,waig1243-3,19,ẽʃi,ẽʃi,[],,[],,False,False,ẽši,2
+waig1243-3-20-1,,waig1243-3,20,wiʃi,wiʃi,[],,[],,False,False,wiši,2
+waig1243-3-21-1,,waig1243-3,21,wiše ew,wiše ew,[],,[],,False,False,,2
+waig1243-3-22-1,,waig1243-3,22,wiše dü,wiše dü,[],,[],,False,False,,2
+waig1243-3-23-1,,waig1243-3,23,wiše tre,wiše tre,[],,[],,False,False,,2
+waig1243-3-24-1,,waig1243-3,24,wiše čatā,wiše čatā,[],,[],,False,False,,2
+waig1243-3-25-1,,waig1243-3,25,wiše ponč,wiše ponč,[],,[],,False,False,,2
+waig1243-3-26-1,,waig1243-3,26,wiše ṣ̌u,wiše ṣ̌u,[],,[],,False,False,,2
+waig1243-3-27-1,,waig1243-3,27,wiše sot,wiše sot,[],,[],,False,False,,2
+waig1243-3-28-1,,waig1243-3,28,wiše oṣṭ,wiše oṣṭ,[],,[],,False,False,,2
+waig1243-3-29-1,,waig1243-3,29,wiše nu,wiše nu,[],,[],,False,False,,2
+waig1243-3-30-1,,waig1243-3,30,wiše doš,wiše doš,[],(20 + 10),[],,False,False,,2
+waig1243-3-40-1,,waig1243-3,40,dü-wiši,dü-wiši,[],( 2 x 20 ),[],,False,False,,2
+waig1243-3-50-1,,waig1243-3,50,dü-wiše-doši,dü-wiše-doši,[],[(2 x 20 ) + 10 ],[],,False,False,,2
+waig1243-3-60-1,,waig1243-3,60,tre-wiši,tre-wiši,[],( 3 x 20),[],,False,False,,2
+waig1243-3-70-1,,waig1243-3,70,tre-wiše-doši,tre-wiše-doši,[],[(3 x 20) + 10 ],[],,False,False,,2
+waig1243-3-80-1,,waig1243-3,80,čatā-wiši,čatā-wiši,[],( 4 x 20),[],,False,False,,2
+waig1243-3-90-1,,waig1243-3,90,čatā-wiše-doši,čatā-wiše-doši,[],[(4 x 20) + 10 ],[],,False,False,,2
+waig1243-3-100-1,,waig1243-3,100,ponč-wiši,ponč-wiši,[],( 5 x 20 ),[],,False,False,,2
+waig1243-3-200-1,,waig1243-3,200,doš-wiši,doš-wiši,[],( 10 x 20 ),[],,False,False,,2
+waig1243-3-400-1,,waig1243-3,400,wiši-wiši,wiši-wiši,[],( 20 x 20 ),[],,False,False,,2
+waig1243-3-1000-1,,waig1243-3,1000,azaːr,azaːr,[],,[],,False,False,azār,2

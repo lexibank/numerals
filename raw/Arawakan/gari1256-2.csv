@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+gari1256-2-1-1,,gari1256-2,1,aban,aban,[],,[],,False,False,,1
+gari1256-2-2-1,,gari1256-2,2,biama,biama,[],,[],,False,False,,1
+gari1256-2-3-1,,gari1256-2,3,ɨrɨwa,ɨrɨwa,[],( < trois ),[],,False,False,,1
+gari1256-2-4-1,,gari1256-2,4,ɡadɨrɨ,ɡadɨrɨ,[],( < quatre ),[],,False,False,,1
+gari1256-2-5-1,,gari1256-2,5,seiŋɨ,seiŋɨ,[],( < cinq ),[],,False,False,,1
+gari1256-2-6-1,,gari1256-2,6,sisi,sisi,[],(<six ),[],,False,False,,1
+gari1256-2-7-1,,gari1256-2,7,sedɨ,sedɨ,[],(< sept ),[],,False,False,,1
+gari1256-2-8-1,,gari1256-2,8,widɨ,widɨ,[],( < huit ),[],,False,False,,1
+gari1256-2-9-1,,gari1256-2,9,nefu,nefu,[],( < neuf ),[],,False,False,,1
+gari1256-2-10-1,,gari1256-2,10,diisi,diisi,[],( < dix ),[],,False,False,,1
+gari1256-2-11-1,,gari1256-2,11,onsu,onsu,[],( < onze ),[],,False,False,,1
+gari1256-2-12-1,,gari1256-2,12,duusu,duusu,[],( < douze ),[],,False,False,,1
+gari1256-2-13-1,,gari1256-2,13,tereisi,tereisi,[],( <treize ),[],,False,False,,1
+gari1256-2-14-1,,gari1256-2,14,katorusu,katorusu,[],( <quatorze ),[],,False,False,,1
+gari1256-2-15-1,,gari1256-2,15,keinsi,keinsi,[],( quinze ),[],,False,False,,1
+gari1256-2-16-1,,gari1256-2,16,disisi,disisi,[],( < dix-six ),[],,False,False,,1
+gari1256-2-17-1,,gari1256-2,17,disedɨ,disedɨ,[],( < dix-sept),[],,False,False,,1
+gari1256-2-18-1,,gari1256-2,18,disiwidɨ,disiwidɨ,[],( < dix-huit ),[],,False,False,,1
+gari1256-2-19-1,,gari1256-2,19,disinefu,disinefu,[],( < dix-neuf ),[],,False,False,,1
+gari1256-2-20-1,,gari1256-2,20,wein,wein,[],( < vingt ),[],,False,False,,1
+gari1256-2-21-1,,gari1256-2,21,wein aban,wein aban,[],,[],,False,False,,1
+gari1256-2-22-1,,gari1256-2,22,wein biama,wein biama,[],,[],,False,False,,1
+gari1256-2-23-1,,gari1256-2,23,wein ɨrɨwa,wein ɨrɨwa,[],,[],,False,False,,1
+gari1256-2-24-1,,gari1256-2,24,wein ɡadɨrɨ,wein ɡadɨrɨ,[],,[],,False,False,,1
+gari1256-2-25-1,,gari1256-2,25,wein seiŋɨ,wein seiŋɨ,[],,[],,False,False,,1
+gari1256-2-26-1,,gari1256-2,26,wein sisi,wein sisi,[],,[],,False,False,,1
+gari1256-2-27-1,,gari1256-2,27,wein sedɨ,wein sedɨ,[],,[],,False,False,,1
+gari1256-2-28-1,,gari1256-2,28,wein widɨ,wein widɨ,[],,[],,False,False,,1
+gari1256-2-29-1,,gari1256-2,29,wein nefu,wein nefu,[],,[],,False,False,,1
+gari1256-2-30-1,,gari1256-2,30,darandi,darandi,[],( < trente ),[],,False,False,,1
+gari1256-2-40-1,,gari1256-2,40,bian wein,bian wein,[],( < 2 + vingt ),[],,False,False,,1
+gari1256-2-50-1,,gari1256-2,50,demi san,demi san,[],(<demi sent),[],,False,False,,1
+gari1256-2-60-1,,gari1256-2,60,ɨrɨwa wein,ɨrɨwa wein,[],,[],,False,False,,1
+gari1256-2-70-1,,gari1256-2,70,ɨrɨwa wein diisi,ɨrɨwa wein diisi,[],,[],,False,False,,1
+gari1256-2-80-1,,gari1256-2,80,ɡadɨrɨ wein,ɡadɨrɨ wein,[],,[],,False,False,,1
+gari1256-2-90-1,,gari1256-2,90,ɡadɨrɨ wein diisi,ɡadɨrɨ wein diisi,[],,[],,False,False,,1
+gari1256-2-100-1,,gari1256-2,100,san,san,[],( < cent ),[],,False,False,,1
+gari1256-2-200-1,,gari1256-2,200,biama san,biama san,[],,[],,False,False,,1
+gari1256-2-1000-1,,gari1256-2,1000,milu,milu,[],( < mil ),[],,False,False,,1
+gari1256-2-2000-1,,gari1256-2,2000,biama milu,biama milu,[],,[],,False,False,,1
+gari1256-2-2000-2,,gari1256-2,2000,100,100,[],,[],,False,True,,1
+gari1256-2-2000-3,,gari1256-2,2000,000. miyounu,000. miyounu,[],,[],,False,True,,1

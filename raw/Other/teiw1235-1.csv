@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+teiw1235-1-1-1,,teiw1235-1,1,nuk,nuk,[],,[],,False,False,,1
+teiw1235-1-2-1,,teiw1235-1,2,raq,raq,[],,[],,False,False,,1
+teiw1235-1-2-2,,teiw1235-1,2,haraq,haraq,[],,[],,False,False,,1
+teiw1235-1-3-1,,teiw1235-1,3,jeriɡ,jeriɡ,[],,[],,False,False,,1
+teiw1235-1-4-1,,teiw1235-1,4,ut,ut,[],,[],,False,False,,1
+teiw1235-1-5-1,,teiw1235-1,5,jusan,jusan,[],,[],,False,False,,1
+teiw1235-1-6-1,,teiw1235-1,6,tia:m,tia:m,[],,[],,False,False,,1
+teiw1235-1-7-1,,teiw1235-1,7,jesraq,jesraq,[],( 'five two'),[],,False,False,,1
+teiw1235-1-8-1,,teiw1235-1,8,jesneriɡ,jesneriɡ,[],( 'five three'),[],,False,False,,1
+teiw1235-1-9-1,,teiw1235-1,9,jesnaʔut,jesnaʔut,[],( 'five four'),[],,False,False,,1
+teiw1235-1-10-1,,teiw1235-1,10,qa:r nuk,qa:r nuk,[],('ten one'),[],,False,False,,1
+teiw1235-1-11-1,,teiw1235-1,11,qa:r nuk ruɡ nuk,qa:r nuk ruɡ nuk,[],,[],,False,False,,1
+teiw1235-1-12-1,,teiw1235-1,12,qa:r nuk ruɡ raq,qa:r nuk ruɡ raq,[],,[],,False,False,,1
+teiw1235-1-12-2,,teiw1235-1,12,haraq,haraq,[],,[],,False,False,,1
+teiw1235-1-13-1,,teiw1235-1,13,qa:r nuk ruɡ jeriɡ,qa:r nuk ruɡ jeriɡ,[],,[],,False,False,,1
+teiw1235-1-14-1,,teiw1235-1,14,qa:r nuk ruɡ ut,qa:r nuk ruɡ ut,[],,[],,False,False,,1
+teiw1235-1-15-1,,teiw1235-1,15,qa:r nuk ruɡ jusan,qa:r nuk ruɡ jusan,[],,[],,False,False,,1
+teiw1235-1-16-1,,teiw1235-1,16,qa:r nuk ruɡ tia:m,qa:r nuk ruɡ tia:m,[],,[],,False,False,,1
+teiw1235-1-17-1,,teiw1235-1,17,qa:r nuk ruɡ jesraq,qa:r nuk ruɡ jesraq,[],,[],,False,False,,1
+teiw1235-1-18-1,,teiw1235-1,18,qa:r nuk ruɡ jesneriɡ,qa:r nuk ruɡ jesneriɡ,[],,[],,False,False,,1
+teiw1235-1-19-1,,teiw1235-1,19,qa:r nuk ruɡ jesnaʔut,qa:r nuk ruɡ jesnaʔut,[],,[],,False,False,,1
+teiw1235-1-20-1,,teiw1235-1,20,qa:r raq,qa:r raq,[],,[],,False,False,,1
+teiw1235-1-21-1,,teiw1235-1,21,qa:r raq ruɡ nuk,qa:r raq ruɡ nuk,[],,[],,False,False,,1
+teiw1235-1-22-1,,teiw1235-1,22,qa:r raq ruɡ raq,qa:r raq ruɡ raq,[],,[],,False,False,,1
+teiw1235-1-22-2,,teiw1235-1,22,haraq,haraq,[],,[],,False,False,,1
+teiw1235-1-23-1,,teiw1235-1,23,qa:r raq ruɡ jeriɡ,qa:r raq ruɡ jeriɡ,[],,[],,False,False,,1
+teiw1235-1-24-1,,teiw1235-1,24,qa:r raq ruɡ ut,qa:r raq ruɡ ut,[],,[],,False,False,,1
+teiw1235-1-25-1,,teiw1235-1,25,qa:r raq ruɡ jusan,qa:r raq ruɡ jusan,[],,[],,False,False,,1
+teiw1235-1-26-1,,teiw1235-1,26,qa:r raq ruɡ tia:m,qa:r raq ruɡ tia:m,[],,[],,False,False,,1
+teiw1235-1-27-1,,teiw1235-1,27,qa:r raq ruɡ jesraq,qa:r raq ruɡ jesraq,[],,[],,False,False,,1
+teiw1235-1-28-1,,teiw1235-1,28,qa:r raq ruɡ jesneriɡ,qa:r raq ruɡ jesneriɡ,[],,[],,False,False,,1
+teiw1235-1-29-1,,teiw1235-1,29,qa:r raq ruɡ jesnaʔut,qa:r raq ruɡ jesnaʔut,[],,[],,False,False,,1
+teiw1235-1-30-1,,teiw1235-1,30,qa:r jeriɡ,qa:r jeriɡ,[],,[],,False,False,,1
+teiw1235-1-40-1,,teiw1235-1,40,qa:r ut,qa:r ut,[],,[],,False,False,,1
+teiw1235-1-50-1,,teiw1235-1,50,qa:r jusan,qa:r jusan,[],,[],,False,False,,1
+teiw1235-1-60-1,,teiw1235-1,60,qa:r tia:m nuk,qa:r tia:m nuk,[],,[],,False,False,,1
+teiw1235-1-70-1,,teiw1235-1,70,qa:r jesraq,qa:r jesraq,[],,[],,False,False,,1
+teiw1235-1-80-1,,teiw1235-1,80,qa:r jesneriɡ,qa:r jesneriɡ,[],,[],,False,False,,1
+teiw1235-1-90-1,,teiw1235-1,90,qa:r jesnaʔut,qa:r jesnaʔut,[],,[],,False,False,,1
+teiw1235-1-100-1,,teiw1235-1,100,ratu,ratu,[],,[],,False,False,,1
+teiw1235-1-200-1,,teiw1235-1,200,ratu (ha)raq,ratu (ha)raq,[],,[],,False,False,,1
+teiw1235-1-1000-1,,teiw1235-1,1000,ribu nuk,ribu nuk,[],,[],,False,False,,1
+teiw1235-1-2000-1,,teiw1235-1,2000,ribu raq,ribu raq,[],,[],,False,False,,1

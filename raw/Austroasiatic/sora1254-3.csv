@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sora1254-3-1-1,,sora1254-3,1,əbɔy ~aboi,əbɔy ~aboi,[],,[],,False,True,,3
+sora1254-3-2-1,,sora1254-3,2,bagu,bagu,[],,[],,False,False,,3
+sora1254-3-3-1,,sora1254-3,3,yagi,yagi,[],,[],,False,False,,3
+sora1254-3-4-1,,sora1254-3,4,unɟi,unɟi,[],,[],,False,False,,3
+sora1254-3-5-1,,sora1254-3,5,mɔnlɔi,mɔnlɔi,[],,[],,False,False,,3
+sora1254-3-6-1,,sora1254-3,6,tudru,tudru,[],,[],,False,False,,3
+sora1254-3-7-1,,sora1254-3,7,gulɟi,gulɟi,[],,[],,False,False,,3
+sora1254-3-8-1,,sora1254-3,8,tamɟi,tamɟi,[],,[],,False,False,,3
+sora1254-3-9-1,,sora1254-3,9,tiɲɟi,tiɲɟi,[],,[],,False,False,,3
+sora1254-3-10-1,,sora1254-3,10,gəlɟi,gəlɟi,[],,[],,False,False,,3
+sora1254-3-11-1,,sora1254-3,11,gəlmuy,gəlmuy,[],,[],,False,False,,3
+sora1254-3-12-1,,sora1254-3,12,miggəl,miggəl,[],,[],,False,False,,3
+sora1254-3-13-1,,sora1254-3,13,miggəl-abɔy,miggəl-abɔy,[],( 12 + 1),[],,False,False,,3
+sora1254-3-14-1,,sora1254-3,14,miggəl-bagu,miggəl-bagu,[],,[],,False,False,,3
+sora1254-3-15-1,,sora1254-3,15,miggəl-yagi,miggəl-yagi,[],,[],,False,False,,3
+sora1254-3-16-1,,sora1254-3,16,miggəl-gulɟi,miggəl-gulɟi,[],,[],,False,False,,3
+sora1254-3-17-1,,sora1254-3,17,miggəl-tamɟi,miggəl-tamɟi,[],,[],,False,False,,3
+sora1254-3-18-1,,sora1254-3,18,miggəl-tiɲɟi,miggəl-tiɲɟi,[],,[],,False,False,,3
+sora1254-3-19-1,,sora1254-3,19,missing,missing,[],,[],,False,True,,3
+sora1254-3-20-1,,sora1254-3,20,bɔkʊɽi,bɔkʊɽi,[],,[],,False,False,,3
+sora1254-3-30-1,,sora1254-3,30,bɔkʊɽi gəlɟi,bɔkʊɽi gəlɟi,[],,[],,False,False,,3
+sora1254-3-40-1,,sora1254-3,40,bakʊɽi,bakʊɽi,[],( 2 x 20),[],,False,False,,3
+sora1254-3-50-1,,sora1254-3,50,bakʊɽi gəlɟi,bakʊɽi gəlɟi,[],,[],,False,False,,3
+sora1254-3-60-1,,sora1254-3,60,yakʊɽi,yakʊɽi,[],( 3 x 20),[],,False,False,,3
+sora1254-3-70-1,,sora1254-3,70,yakʊɽi gəlɟi,yakʊɽi gəlɟi,[],,[],,False,False,,3
+sora1254-3-80-1,,sora1254-3,80,unɟikʊɽi,unɟikʊɽi,[],( 4 x 20),[],,False,False,,3
+sora1254-3-90-1,,sora1254-3,90,unɟikuɽi gəlɟi,unɟikuɽi gəlɟi,[],,[],,False,False,,3
+sora1254-3-100-1,,sora1254-3,100,mɔnlɔikʊɽi,mɔnlɔikʊɽi,[],( 5 x 20),[],,False,False,,3
+sora1254-3-100-2,,sora1254-3,100,bo sʊa,bo sʊa,[],,[],,False,False,,3
+sora1254-3-1000-1,,sora1254-3,1000,bo maɽiɲ,bo maɽiɲ,[],,[],,False,False,,3

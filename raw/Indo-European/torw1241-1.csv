@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+torw1241-1-1-1,,torw1241-1,1,ek,ek,[],,[],,False,False,,1
+torw1241-1-1-2,,torw1241-1,1,e,e,[],,[],,False,False,,1
+torw1241-1-2-1,,torw1241-1,2,du,du,[],,[],,False,False,,1
+torw1241-1-3-1,,torw1241-1,3,t͡ʂa,t͡ʂa,[],,[],,False,False,,1
+torw1241-1-4-1,,torw1241-1,4,t͡ʃəw,t͡ʃəw,[],,[],,False,False,,1
+torw1241-1-5-1,,torw1241-1,5,pãy,pãy,[],,[],,False,False,,1
+torw1241-1-6-1,,torw1241-1,6,ʂo,ʂo,[],,[],,False,False,,1
+torw1241-1-7-1,,torw1241-1,7,sat,sat,[],,[],,False,False,,1
+torw1241-1-8-1,,torw1241-1,8,aʈʰ,aʈʰ,[],,[],,False,False,,1
+torw1241-1-9-1,,torw1241-1,9,nom,nom,[],,[],,False,False,,1
+torw1241-1-10-1,,torw1241-1,10,dəʃ,dəʃ,[],,[],,False,False,,1
+torw1241-1-11-1,,torw1241-1,11,əgaʃ,əgaʃ,[],,[],,False,False,,1
+torw1241-1-12-1,,torw1241-1,12,duaʃ,duaʃ,[],,[],,False,False,,1
+torw1241-1-13-1,,torw1241-1,13,t͡ʂeʃ,t͡ʂeʃ,[],,[],,False,False,,1
+torw1241-1-14-1,,torw1241-1,14,t͡ʃətəʃ,t͡ʃətəʃ,[],,[],,False,False,,1
+torw1241-1-15-1,,torw1241-1,15,pẽʃ,pẽʃ,[],,[],,False,False,,1
+torw1241-1-16-1,,torw1241-1,16,ʂeʃ,ʂeʃ,[],,[],,False,False,,1
+torw1241-1-17-1,,torw1241-1,17,sətaʃ,sətaʃ,[],,[],,False,False,,1
+torw1241-1-18-1,,torw1241-1,18,əʈʰaʃ,əʈʰaʃ,[],,[],,False,False,,1
+torw1241-1-19-1,,torw1241-1,19,anbiʃ,anbiʃ,[],( 20 - 1),[],,False,False,,1
+torw1241-1-20-1,,torw1241-1,20,biʃ,biʃ,[],,[],,False,False,,1
+torw1241-1-21-1,,torw1241-1,21,ek o biʃ,ek o biʃ,[],,[],,False,False,,1
+torw1241-1-22-1,,torw1241-1,22,du o biʃ,du o biʃ,[],,[],,False,False,,1
+torw1241-1-23-1,,torw1241-1,23,t͡ʂa o biʃ,t͡ʂa o biʃ,[],,[],,False,False,,1
+torw1241-1-24-1,,torw1241-1,24,t͡ʃəw o biʃ,t͡ʃəw o biʃ,[],,[],,False,False,,1
+torw1241-1-25-1,,torw1241-1,25,pand͡ʒ o biʃ,pand͡ʒ o biʃ,[],,[],,False,False,,1
+torw1241-1-26-1,,torw1241-1,26,ʂo o biʃ,ʂo o biʃ,[],,[],,False,False,,1
+torw1241-1-27-1,,torw1241-1,27,sat o biʃ,sat o biʃ,[],,[],,False,False,,1
+torw1241-1-28-1,,torw1241-1,28,aʈʰ o biʃ,aʈʰ o biʃ,[],,[],,False,False,,1
+torw1241-1-29-1,,torw1241-1,29,nom o biʃ,nom o biʃ,[],,[],,False,False,,1
+torw1241-1-30-1,,torw1241-1,30,dəʃ o biʃ,dəʃ o biʃ,[],(10 + 20),[],,False,False,,1
+torw1241-1-40-1,,torw1241-1,40,dubiʃ,dubiʃ,[],( 2 x 20),[],,False,False,,1
+torw1241-1-50-1,,torw1241-1,50,dəʃ o dubiʃ,dəʃ o dubiʃ,[],,[],,False,False,,1
+torw1241-1-60-1,,torw1241-1,60,t͡ʂabiʃ,t͡ʂabiʃ,[],( 3 x 20),[],,False,False,,1
+torw1241-1-70-1,,torw1241-1,70,dəʃ o t͡ʂabiʃ,dəʃ o t͡ʂabiʃ,[],[10 + (3 x 20) ],[],,False,False,,1
+torw1241-1-80-1,,torw1241-1,80,t͡ʃəw o biʃ,t͡ʃəw o biʃ,[],( 4 x 20),[],,False,False,,1
+torw1241-1-90-1,,torw1241-1,90,dəʃ o t͡ʃəwbiʃ,dəʃ o t͡ʃəwbiʃ,[],[10 + (4 x 20) ],[],,False,False,,1
+torw1241-1-100-1,,torw1241-1,100,pãybiʃ,pãybiʃ,[],( 5 x 20),[],,False,False,,1
+torw1241-1-100-2,,torw1241-1,100,so,so,[],,[],,False,False,,1
+torw1241-1-200-1,,torw1241-1,200,dəʃbiʃ,dəʃbiʃ,[],( 10 x 20),[],,False,False,,1
+torw1241-1-200-2,,torw1241-1,200,du so,du so,[],,[],,False,False,,1
+torw1241-1-1000-1,,torw1241-1,1000,e zər,e zər,[],,[],,False,False,,1
+torw1241-1-2000-1,,torw1241-1,2000,du zər,du zər,[],,[],,False,False,,1

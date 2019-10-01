@@ -1,0 +1,58 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+basq1248-1-1-1,,basq1248-1,1,bat,bat,[],,[],,False,False,,1
+basq1248-1-1-2,,basq1248-1,1,bat,bat,[],,[],,False,False,,1
+basq1248-1-2-1,,basq1248-1,2,bi,bi,[],,[],,False,False,,1
+basq1248-1-2-2,,basq1248-1,2,bi,bi,[],,[],,False,False,,1
+basq1248-1-3-1,,basq1248-1,3,hiru,hiru,[],,[],,False,False,,1
+basq1248-1-3-2,,basq1248-1,3,hiɾu,hiɾu,[],,[],,False,False,,1
+basq1248-1-4-1,,basq1248-1,4,lau,lau,[],,[],,False,False,,1
+basq1248-1-4-2,,basq1248-1,4,lau,lau,[],,[],,False,False,,1
+basq1248-1-5-1,,basq1248-1,5,bost,bost,[],,[],,False,False,,1
+basq1248-1-5-2,,basq1248-1,5,bos̪t,bos̪t,[],,[],,False,False,,1
+basq1248-1-6-1,,basq1248-1,6,sei,sei,[],,[],,False,False,,1
+basq1248-1-6-2,,basq1248-1,6,s̪ei,s̪ei,[],,[],,False,False,,1
+basq1248-1-7-1,,basq1248-1,7,zazpi,zazpi,[],,[],,False,False,,1
+basq1248-1-7-2,,basq1248-1,7,s̻aspi,s̻aspi,[],,[],,False,False,,1
+basq1248-1-8-1,,basq1248-1,8,zortzi,zortzi,[],,[],,False,False,,1
+basq1248-1-8-2,,basq1248-1,8,s̻ort͡s̻i,s̻ort͡s̻i,[],,[],,False,False,,1
+basq1248-1-9-1,,basq1248-1,9,bederatzi,bederatzi,[],,[],,False,False,,1
+basq1248-1-9-2,,basq1248-1,9,bedeɾat͡s̻i,bedeɾat͡s̻i,[],,[],,False,False,,1
+basq1248-1-10-1,,basq1248-1,10,hamar,hamar,[],,[],,False,False,,1
+basq1248-1-10-2,,basq1248-1,10,hamar,hamar,[],,[],,False,False,,1
+basq1248-1-11-1,,basq1248-1,11,hamaika,hamaika,[],,[],,False,False,,1
+basq1248-1-12-1,,basq1248-1,12,hamabi,hamabi,[],,[],,False,False,,1
+basq1248-1-13-1,,basq1248-1,13,hamahiru,hamahiru,[],,[],,False,False,,1
+basq1248-1-14-1,,basq1248-1,14,hamalau,hamalau,[],,[],,False,False,,1
+basq1248-1-15-1,,basq1248-1,15,hamabost,hamabost,[],,[],,False,False,,1
+basq1248-1-16-1,,basq1248-1,16,hamasei,hamasei,[],,[],,False,False,,1
+basq1248-1-17-1,,basq1248-1,17,hamazazpi,hamazazpi,[],,[],,False,False,,1
+basq1248-1-18-1,,basq1248-1,18,hemezortzi,hemezortzi,[],,[],,False,False,,1
+basq1248-1-19-1,,basq1248-1,19,hemeretzi,hemeretzi,[],,[],,False,False,,1
+basq1248-1-20-1,,basq1248-1,20,hoɡei,hoɡei,[],,[],,False,False,,1
+basq1248-1-20-2,,basq1248-1,20,hoɡei,hoɡei,[],,[],,False,False,,1
+basq1248-1-21-1,,basq1248-1,21,hoɡeitabat,hoɡeitabat,[],,[],,False,False,,1
+basq1248-1-21-2,,basq1248-1,21,hoɡeitabat,hoɡeitabat,[],,[],,False,False,,1
+basq1248-1-22-1,,basq1248-1,22,hoɡeitabi,hoɡeitabi,[],,[],,False,False,,1
+basq1248-1-23-1,,basq1248-1,23,hoɡeitahiru,hoɡeitahiru,[],,[],,False,False,,1
+basq1248-1-24-1,,basq1248-1,24,hoɡeitalau,hoɡeitalau,[],,[],,False,False,,1
+basq1248-1-25-1,,basq1248-1,25,hoɡeitabost,hoɡeitabost,[],,[],,False,False,,1
+basq1248-1-26-1,,basq1248-1,26,hoɡeitasei,hoɡeitasei,[],,[],,False,False,,1
+basq1248-1-27-1,,basq1248-1,27,hoɡeitazapzi,hoɡeitazapzi,[],,[],,False,False,,1
+basq1248-1-28-1,,basq1248-1,28,hoɡeitazortzi,hoɡeitazortzi,[],,[],,False,False,,1
+basq1248-1-29-1,,basq1248-1,29,hoɡeitabederatzi,hoɡeitabederatzi,[],,[],,False,False,,1
+basq1248-1-30-1,,basq1248-1,30,hoɡeitahamar,hoɡeitahamar,[],( 20 + 10 ),[],,False,False,,1
+basq1248-1-40-1,,basq1248-1,40,berroɡei,berroɡei,[],,[],,False,False,,1
+basq1248-1-40-2,,basq1248-1,40,beroɡei,beroɡei,[],,[],,False,False,,1
+basq1248-1-50-1,,basq1248-1,50,berroɡeitahamar,berroɡeitahamar,[],( 2 x 20 + 10 ),[],,False,False,,1
+basq1248-1-60-1,,basq1248-1,60,hiruroɡei,hiruroɡei,[],,[],,False,False,,1
+basq1248-1-60-2,,basq1248-1,60,hiɾoɾoɡei,hiɾoɾoɡei,[],,[],,False,False,,1
+basq1248-1-70-1,,basq1248-1,70,hiruroɡeitahamar,hiruroɡeitahamar,[],( 3 x 20 + 10 ),[],,False,False,,1
+basq1248-1-80-1,,basq1248-1,80,larroɡei,larroɡei,[],,[],,False,False,,1
+basq1248-1-80-2,,basq1248-1,80,laroɡei,laroɡei,[],,[],,False,False,,1
+basq1248-1-90-1,,basq1248-1,90,larroɡeitahamar,larroɡeitahamar,[],( 4 x 20 + 10 ),[],,False,False,,1
+basq1248-1-100-1,,basq1248-1,100,ehun,ehun,[],,[],,False,False,,1
+basq1248-1-100-2,,basq1248-1,100,ehun,ehun,[],,[],,False,False,,1
+basq1248-1-200-1,,basq1248-1,200,berrehun,berrehun,[],,[],,False,False,,1
+basq1248-1-200-2,,basq1248-1,200,erehun,erehun,[],,[],,False,False,,1
+basq1248-1-1000-1,,basq1248-1,1000,mila,mila,[],< Celtic < Latin ,[],,True,False,,1
+basq1248-1-2000-1,,basq1248-1,2000,bi mila,bi mila,[],,[],,False,False,,1

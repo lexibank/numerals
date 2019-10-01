@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+maiw1251-1-1-1,,maiw1251-1,1,desirom,desirom,[],,[],,False,False,,1
+maiw1251-1-2-1,,maiw1251-1,2,duwam,duwam,[],,[],,False,False,,1
+maiw1251-1-3-1,,maiw1251-1,3,duwamdesi,duwamdesi,[],('two plus one'),[],,False,False,,1
+maiw1251-1-4-1,,maiw1251-1,4,duwam ɡe duwam,duwam ɡe duwam,[],('two plus two'),[],,False,False,,1
+maiw1251-1-5-1,,maiw1251-1,5,nanin ɡambenit,nanin ɡambenit,[],"(litː 'hand half', 'nanin' = hand)",[],,False,False,,1
+maiw1251-1-6-1,,maiw1251-1,6,nanin ɡamben desirom,nanin ɡamben desirom,[],,[],,False,False,,1
+maiw1251-1-7-1,,maiw1251-1,7,nanin ɡamben duwam,nanin ɡamben duwam,[],,[],,False,False,,1
+maiw1251-1-8-1,,maiw1251-1,8,nanin ɡamben duwamdesi,nanin ɡamben duwamdesi,[],,[],,False,False,,1
+maiw1251-1-9-1,,maiw1251-1,9,nanin ɡamben duwam ɡe duwam,nanin ɡamben duwam ɡe duwam,[],,[],,False,False,,1
+maiw1251-1-10-1,,maiw1251-1,10,naninwanit,naninwanit,[],(litː 'both hands'),[],,False,False,,1
+maiw1251-1-11-1,,maiw1251-1,11,naninwanit desirom,naninwanit desirom,[],,[],,False,False,,1
+maiw1251-1-12-1,,maiw1251-1,12,naninwanit duwam,naninwanit duwam,[],,[],,False,False,,1
+maiw1251-1-13-1,,maiw1251-1,13,naninwanit duwamdesi,naninwanit duwamdesi,[],,[],,False,False,,1
+maiw1251-1-14-1,,maiw1251-1,14,naninwanit duwam ɡe duwam,naninwanit duwam ɡe duwam,[],,[],,False,False,,1
+maiw1251-1-15-1,,maiw1251-1,15,naninwanit nanin ɡambenit,naninwanit nanin ɡambenit,[],,[],,False,False,,1
+maiw1251-1-16-1,,maiw1251-1,16,naninwanit nanin ɡambenit desirom,naninwanit nanin ɡambenit desirom,[],,[],,False,False,,1
+maiw1251-1-17-1,,maiw1251-1,17,naninwanit nanin ɡambenit duwam,naninwanit nanin ɡambenit duwam,[],,[],,False,False,,1
+maiw1251-1-18-1,,maiw1251-1,18,naninwanit nanin ɡambenit duwamdesi,naninwanit nanin ɡambenit duwamdesi,[],,[],,False,False,,1
+maiw1251-1-19-1,,maiw1251-1,19,naninwanit nanin ɡambenit duwam ɡe duwam,naninwanit nanin ɡambenit duwam ɡe duwam,[],,[],,False,False,,1
+maiw1251-1-20-1,,maiw1251-1,20,apan desirom,apan desirom,[],(litː 'one man = 20 fingers'),[],,False,False,,1

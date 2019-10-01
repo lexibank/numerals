@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+toto1305-1-1-1,,toto1305-1,1,tuʔuk,tuʔuk,[],,[],,False,False,,1
+toto1305-1-2-1,,toto1305-1,2,mææht͡sk,mææht͡sk,[],,[],,False,False,,1
+toto1305-1-3-1,,toto1305-1,3,tɨkɨɨk,tɨkɨɨk,[],,[],,False,False,,1
+toto1305-1-4-1,,toto1305-1,4,taʃk,taʃk,[],,[],,False,False,,1
+toto1305-1-5-1,,toto1305-1,5,mɨkoʃk,mɨkoʃk,[],,[],,False,False,,1
+toto1305-1-6-1,,toto1305-1,6,tɨtuuhk,tɨtuuhk,[],,[],,False,False,,1
+toto1305-1-7-1,,toto1305-1,7,hʃtuuhk,hʃtuuhk,[],,[],,False,False,,1
+toto1305-1-8-1,,toto1305-1,8,tuktuuhk,tuktuuhk,[],,[],,False,False,,1
+toto1305-1-9-1,,toto1305-1,9,taʃtuuhk,taʃtuuhk,[],,[],,False,False,,1
+toto1305-1-10-1,,toto1305-1,10,maahk,maahk,[],,[],,False,False,,1
+toto1305-1-11-1,,toto1305-1,11,maahktuʔuk,maahktuʔuk,[],,[],,False,False,,1
+toto1305-1-12-1,,toto1305-1,12,mamææht͡sk,mamææht͡sk,[],,[],,False,False,,1
+toto1305-1-13-1,,toto1305-1,13,maahktɨkɨɨk,maahktɨkɨɨk,[],,[],,False,False,,1
+toto1305-1-14-1,,toto1305-1,14,mamaahkts,mamaahkts,[],,[],,False,False,,1
+toto1305-1-15-1,,toto1305-1,15,mamokʃ,mamokʃ,[],,[],,False,False,,1
+toto1305-1-16-1,,toto1305-1,16,mamokʃtuʔuk,mamokʃtuʔuk,[],( 15 + 1 ),[],,False,False,,1
+toto1305-1-17-1,,toto1305-1,17,mamokʃmææht͡sk,mamokʃmææht͡sk,[],( 15 + 2 ),[],,False,False,,1
+toto1305-1-18-1,,toto1305-1,18,mamokʃtɨkɨɨk,mamokʃtɨkɨɨk,[],( 15 + 3 ),[],,False,False,,1
+toto1305-1-19-1,,toto1305-1,19,mamokʃmataʃk,mamokʃmataʃk,[],( 15 + 4 ),[],,False,False,,1
+toto1305-1-20-1,,toto1305-1,20,iʔpʃ,iʔpʃ,[],,[],,False,False,,1
+toto1305-1-21-1,,toto1305-1,21,iʔpʃtuʔuk,iʔpʃtuʔuk,[],,[],,False,False,,1
+toto1305-1-22-1,,toto1305-1,22,iʔpʃmææht͡sk,iʔpʃmææht͡sk,[],,[],,False,False,,1
+toto1305-1-23-1,,toto1305-1,23,iʔpʃtɨkɨɨk,iʔpʃtɨkɨɨk,[],,[],,False,False,,1
+toto1305-1-24-1,,toto1305-1,24,iʔpʃtaʃk,iʔpʃtaʃk,[],,[],,False,False,,1
+toto1305-1-25-1,,toto1305-1,25,iʔpʃmɨkoʃk,iʔpʃmɨkoʃk,[],,[],,False,False,,1
+toto1305-1-26-1,,toto1305-1,26,iʔpʃtɨtuuhk,iʔpʃtɨtuuhk,[],,[],,False,False,,1
+toto1305-1-27-1,,toto1305-1,27,iʔpʃhʃtuuhk,iʔpʃhʃtuuhk,[],,[],,False,False,,1
+toto1305-1-28-1,,toto1305-1,28,iʔpʃtuktuuhk,iʔpʃtuktuuhk,[],,[],,False,False,,1
+toto1305-1-29-1,,toto1305-1,29,iʔpʃtaʃtuuhk,iʔpʃtaʃtuuhk,[],,[],,False,False,,1
+toto1305-1-30-1,,toto1305-1,30,iʔpʃmaahk,iʔpʃmaahk,[],,[],,False,False,,1
+toto1305-1-40-1,,toto1305-1,40,hʃiiksʲ,hʃiiksʲ,[],( 2 x 20 ),[],,False,False,,1
+toto1305-1-50-1,,toto1305-1,50,hʃiiksʲmaahk,hʃiiksʲmaahk,[],,[],,False,False,,1
+toto1305-1-60-1,,toto1305-1,60,tɨkɨʔpʃ,tɨkɨʔpʃ,[],( 3 x 20 ),[],,False,False,,1
+toto1305-1-70-1,,toto1305-1,70,tɨkɨʔpʃmaahk,tɨkɨʔpʃmaahk,[],,[],,False,False,,1
+toto1305-1-80-1,,toto1305-1,80,mataʔpʃ,mataʔpʃ,[],( 4 x 20 ),[],,False,False,,1
+toto1305-1-90-1,,toto1305-1,90,mataʔpʃmaahk,mataʔpʃmaahk,[],,[],,False,False,,1
+toto1305-1-100-1,,toto1305-1,100,mɨkoʔpʃ,mɨkoʔpʃ,[],( 5 x 20 ),[],,False,False,,1
+toto1305-1-200-1,,toto1305-1,200,mææhtskmɨkoʔpʃ,mææhtskmɨkoʔpʃ,[],,[],,False,False,,1
+toto1305-1-1000-1,,toto1305-1,1000,mil,mil,[],( from Spanish ),[],,False,False,,1
+toto1305-1-2000-1,,toto1305-1,2000,mææhtsk mil (?) - not yet elicited,mææhtsk mil (?) - not yet elicited,[],,[],,False,True,,1

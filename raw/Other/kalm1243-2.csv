@@ -1,0 +1,79 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kalm1243-2-1-1,,kalm1243-2,1,nege,nege,[],,[],,False,False,,1
+kalm1243-2-1-2,,kalm1243-2,1,n,n,[],,[],,False,True,,1
+kalm1243-2-1-3,,kalm1243-2,1,nige(n),nige(n),[],,[],,False,False,,1
+kalm1243-2-2-1,,kalm1243-2,2,xɔjra,xɔjra,[],,[],,False,False,,1
+kalm1243-2-2-2,,kalm1243-2,2,n,n,[],,[],,False,True,,1
+kalm1243-2-2-3,,kalm1243-2,2,xujra,xujra,[],(n),[],,False,False,,1
+kalm1243-2-3-1,,kalm1243-2,3,ɡʊrwa(n),ɡʊrwa(n),[],,[],,False,False,,1
+kalm1243-2-4-1,,kalm1243-2,4,dørwe(n),dørwe(n),[],,[],,False,False,,1
+kalm1243-2-5-1,,kalm1243-2,5,tawa(n),tawa(n),[],,[],,False,False,,1
+kalm1243-2-6-1,,kalm1243-2,6,zʊrɡaː,zʊrɡaː,[],,[],,False,False,,1
+kalm1243-2-6-2,,kalm1243-2,6,n,n,[],,[],,False,True,,1
+kalm1243-2-6-3,,kalm1243-2,6,dzʊrɡaː(n),dzʊrɡaː(n),[],,[],,False,False,,1
+kalm1243-2-7-1,,kalm1243-2,7,dɔlaː(n),dɔlaː(n),[],,[],,False,False,,1
+kalm1243-2-8-1,,kalm1243-2,8,næːmæ(n),næːmæ(n),[],,[],,False,False,,1
+kalm1243-2-9-1,,kalm1243-2,9,jise(n),jise(n),[],,[],,False,False,,1
+kalm1243-2-10-1,,kalm1243-2,10,arwa(n),arwa(n),[],,[],,False,False,,1
+kalm1243-2-11-1,,kalm1243-2,11,arwannege,arwannege,[],,[],,False,False,,1
+kalm1243-2-11-2,,kalm1243-2,11,n,n,[],,[],,False,True,,1
+kalm1243-2-11-3,,kalm1243-2,11,arwan nigi(n),arwan nigi(n),[],,[],,False,False,,1
+kalm1243-2-12-1,,kalm1243-2,12,arwanxɔjra,arwanxɔjra,[],,[],,False,False,,1
+kalm1243-2-12-2,,kalm1243-2,12,n,n,[],,[],,False,True,,1
+kalm1243-2-12-3,,kalm1243-2,12,arwan xujra,arwan xujra,[],(n),[],,False,False,,1
+kalm1243-2-13-1,,kalm1243-2,13,arwanɡʊrwa(n),arwanɡʊrwa(n),[],,[],,False,False,,1
+kalm1243-2-14-1,,kalm1243-2,14,arwandørwe(n),arwandørwe(n),[],,[],,False,False,,1
+kalm1243-2-15-1,,kalm1243-2,15,arwan tawa(n),arwan tawa(n),[],,[],,False,False,,1
+kalm1243-2-16-1,,kalm1243-2,16,arwandzʊrɡaː,arwandzʊrɡaː,[],,[],,False,False,,1
+kalm1243-2-16-2,,kalm1243-2,16,n,n,[],,[],,False,True,,1
+kalm1243-2-16-3,,kalm1243-2,16,arwan dzʊɡaː(n),arwan dzʊɡaː(n),[],,[],,False,False,,1
+kalm1243-2-17-1,,kalm1243-2,17,arwandɔlaː(n),arwandɔlaː(n),[],,[],,False,False,,1
+kalm1243-2-18-1,,kalm1243-2,18,arwannæːmæ(n),arwannæːmæ(n),[],,[],,False,False,,1
+kalm1243-2-19-1,,kalm1243-2,19,arwan jise(n),arwan jise(n),[],,[],,False,False,,1
+kalm1243-2-20-1,,kalm1243-2,20,xori,xori,[],,[],,False,False,,1
+kalm1243-2-20-2,,kalm1243-2,20,n,n,[],,[],,False,True,,1
+kalm1243-2-20-3,,kalm1243-2,20,xøri(n),xøri(n),[],,[],,False,False,,1
+kalm1243-2-21-1,,kalm1243-2,21,xɔrin nege,xɔrin nege,[],,[],,False,False,,1
+kalm1243-2-21-2,,kalm1243-2,21,n,n,[],,[],,False,True,,1
+kalm1243-2-21-3,,kalm1243-2,21,xørin nege(n),xørin nege(n),[],,[],,False,False,,1
+kalm1243-2-22-1,,kalm1243-2,22,xɔrin xɔjra,xɔrin xɔjra,[],,[],,False,False,,1
+kalm1243-2-22-2,,kalm1243-2,22,n,n,[],,[],,False,True,,1
+kalm1243-2-22-3,,kalm1243-2,22,xørin xujra,xørin xujra,[],(n),[],,False,False,,1
+kalm1243-2-23-1,,kalm1243-2,23,xɔrinɡʊrwa,xɔrinɡʊrwa,[],,[],,False,False,,1
+kalm1243-2-23-2,,kalm1243-2,23,n,n,[],,[],,False,True,,1
+kalm1243-2-23-3,,kalm1243-2,23,xørin ɡʊrwa(n),xørin ɡʊrwa(n),[],,[],,False,False,,1
+kalm1243-2-24-1,,kalm1243-2,24,xɔrindørwe,xɔrindørwe,[],,[],,False,False,,1
+kalm1243-2-24-2,,kalm1243-2,24,n,n,[],,[],,False,True,,1
+kalm1243-2-24-3,,kalm1243-2,24,xørin dørwe(n),xørin dørwe(n),[],,[],,False,False,,1
+kalm1243-2-25-1,,kalm1243-2,25,xɔrin tawa,xɔrin tawa,[],,[],,False,False,,1
+kalm1243-2-25-2,,kalm1243-2,25,n,n,[],,[],,False,True,,1
+kalm1243-2-25-3,,kalm1243-2,25,xørin tawa(n),xørin tawa(n),[],,[],,False,False,,1
+kalm1243-2-26-1,,kalm1243-2,26,xɔrinzʊrɡaː,xɔrinzʊrɡaː,[],,[],,False,False,,1
+kalm1243-2-26-2,,kalm1243-2,26,n,n,[],,[],,False,True,,1
+kalm1243-2-26-3,,kalm1243-2,26,xørin zʊrɡaː(n),xørin zʊrɡaː(n),[],,[],,False,False,,1
+kalm1243-2-27-1,,kalm1243-2,27,xɔrindɔlaː,xɔrindɔlaː,[],,[],,False,False,,1
+kalm1243-2-27-2,,kalm1243-2,27,n,n,[],,[],,False,True,,1
+kalm1243-2-27-3,,kalm1243-2,27,xørin dɔlaː(n),xørin dɔlaː(n),[],,[],,False,False,,1
+kalm1243-2-28-1,,kalm1243-2,28,xɔrinnæːmæ,xɔrinnæːmæ,[],,[],,False,False,,1
+kalm1243-2-28-2,,kalm1243-2,28,n,n,[],,[],,False,True,,1
+kalm1243-2-28-3,,kalm1243-2,28,xørin næːmæ(n),xørin næːmæ(n),[],,[],,False,False,,1
+kalm1243-2-29-1,,kalm1243-2,29,xɔrin jisi,xɔrin jisi,[],,[],,False,False,,1
+kalm1243-2-29-2,,kalm1243-2,29,n,n,[],,[],,False,True,,1
+kalm1243-2-29-3,,kalm1243-2,29,xørin jisi(n),xørin jisi(n),[],,[],,False,False,,1
+kalm1243-2-30-1,,kalm1243-2,30,ɡʊtʃi(n),ɡʊtʃi(n),[],,[],,False,False,,1
+kalm1243-2-40-1,,kalm1243-2,40,døtʃi(n),døtʃi(n),[],,[],,False,False,,1
+kalm1243-2-50-1,,kalm1243-2,50,tæːwi(n),tæːwi(n),[],,[],,False,False,,1
+kalm1243-2-60-1,,kalm1243-2,60,dʒiri(n),dʒiri(n),[],,[],,False,False,,1
+kalm1243-2-70-1,,kalm1243-2,70,dala(n),dala(n),[],,[],,False,False,,1
+kalm1243-2-80-1,,kalm1243-2,80,naja(n),naja(n),[],,[],,False,False,,1
+kalm1243-2-90-1,,kalm1243-2,90,jere(n),jere(n),[],,[],,False,False,,1
+kalm1243-2-100-1,,kalm1243-2,100,zʊː,zʊː,[],,[],,False,False,,1
+kalm1243-2-100-2,,kalm1243-2,100,n,n,[],,[],,False,True,,1
+kalm1243-2-100-3,,kalm1243-2,100,dzʊː(n),dzʊː(n),[],,[],,False,False,,1
+kalm1243-2-200-1,,kalm1243-2,200,xɔjr zʊː,xɔjr zʊː,[],,[],,False,False,,1
+kalm1243-2-200-2,,kalm1243-2,200,n,n,[],,[],,False,True,,1
+kalm1243-2-200-3,,kalm1243-2,200,xɔjr dzʊː(n),xɔjr dzʊː(n),[],,[],,False,False,,1
+kalm1243-2-1000-1,,kalm1243-2,1000,miŋɡa(n),miŋɡa(n),[],,[],,False,False,,1
+kalm1243-2-2000-1,,kalm1243-2,2000,xɔjar miŋɡa,xɔjar miŋɡa,[],,[],,False,False,,1
+kalm1243-2-2000-2,,kalm1243-2,2000,n,n,[],,[],,False,True,,1
+kalm1243-2-2000-3,,kalm1243-2,2000,xujar miŋɡa(n),xujar miŋɡa(n),[],,[],,False,False,,1

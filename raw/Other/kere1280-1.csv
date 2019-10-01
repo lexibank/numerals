@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kere1280-1-1-1,,kere1280-1,1,ənnan,ənnan,[],,[],,False,False,,1
+kere1280-1-2-1,,kere1280-1,2,ŋitɕtɕaq,ŋitɕtɕaq,[],,[],,False,False,,1
+kere1280-1-3-1,,kere1280-1,3,ŋijuq,ŋijuq,[],,[],,False,False,,1
+kere1280-1-4-1,,kere1280-1,4,ŋijaq,ŋijaq,[],,[],,False,False,,1
+kere1280-1-5-1,,kere1280-1,5,məlləŋi,məlləŋi,[],,[],,False,False,,1
+kere1280-1-6-1,,kere1280-1,6,ənnanməlləŋi,ənnanməlləŋi,[],( 1 + 5 ),[],,False,False,,1
+kere1280-1-7-1,,kere1280-1,7,ŋitɕtɕaqməlləŋi,ŋitɕtɕaqməlləŋi,[],( 2 + 5 ),[],,False,False,,1
+kere1280-1-8-1,,kere1280-1,8,ŋijuqməlləŋi,ŋijuqməlləŋi,[],,[],,False,False,,1
+kere1280-1-8-2,,kere1280-1,8,amŋjujutɕi,amŋjujutɕi,[],,[],,False,False,,1
+kere1280-1-9-1,,kere1280-1,9,ŋijaqməlləŋi,ŋijaqməlləŋi,[],,[],,False,False,,1
+kere1280-1-9-2,,kere1280-1,9,qunħajtɕiŋi,qunħajtɕiŋi,[],,[],,False,False,,1
+kere1280-1-10-1,,kere1280-1,10,mnətɕitɕi,mnətɕitɕi,[],,[],,False,False,,1
+kere1280-1-11-1,,kere1280-1,11,mnətɕitɕi ənnan pajul,mnətɕitɕi ənnan pajul,[],,[],,False,False,,1
+kere1280-1-12-1,,kere1280-1,12,mnətɕitɕi ŋitɕtɕaq pajul,mnətɕitɕi ŋitɕtɕaq pajul,[],,[],,False,False,,1
+kere1280-1-13-1,,kere1280-1,13,mnətɕitɕi ŋijuq pajul,mnətɕitɕi ŋijuq pajul,[],,[],,False,False,,1
+kere1280-1-14-1,,kere1280-1,14,mnətɕitɕi ŋijaq pajul,mnətɕitɕi ŋijaq pajul,[],,[],,False,False,,1
+kere1280-1-15-1,,kere1280-1,15,mnətɕitɕi məlləŋi pajul,mnətɕitɕi məlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-16-1,,kere1280-1,16,mnətɕitɕi ənnanməlləŋi pajul,mnətɕitɕi ənnanməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-17-1,,kere1280-1,17,mnətɕitɕi ŋitɕtɕaqməlləŋi pajul,mnətɕitɕi ŋitɕtɕaqməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-18-1,,kere1280-1,18,mnətɕitɕi ŋijuqməlləŋi pajul,mnətɕitɕi ŋijuqməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-19-1,,kere1280-1,19,mnətɕitɕi ŋijaqməlləŋi pajul,mnətɕitɕi ŋijaqməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-21-1,,kere1280-1,21,qlikki ənnan pajul,qlikki ənnan pajul,[],,[],,False,False,,1
+kere1280-1-22-1,,kere1280-1,22,qlikki ŋitɕtɕaq pajul,qlikki ŋitɕtɕaq pajul,[],,[],,False,False,,1
+kere1280-1-23-1,,kere1280-1,23,qlikki ŋijuq pajul,qlikki ŋijuq pajul,[],,[],,False,False,,1
+kere1280-1-24-1,,kere1280-1,24,qlikki ŋijaq pajul,qlikki ŋijaq pajul,[],,[],,False,False,,1
+kere1280-1-25-1,,kere1280-1,25,qlikki məlləŋi pajul,qlikki məlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-26-1,,kere1280-1,26,qlikki ənnanməlləŋi pajul,qlikki ənnanməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-27-1,,kere1280-1,27,qlikki ŋitɕtɕaqməlləŋi pajul,qlikki ŋitɕtɕaqməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-28-1,,kere1280-1,28,qlikki ŋijuqməlləŋi pajul,qlikki ŋijuqməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-29-1,,kere1280-1,29,qlikki ŋijaqməlləŋi pajul,qlikki ŋijaqməlləŋi pajul,[],,[],,False,False,,1
+kere1280-1-30-1,,kere1280-1,30,qlik-ək mnətɕitɕi,qlik-ək mnətɕitɕi,[],( 20 + 10),[],,False,False,,1
+kere1280-1-40-1,,kere1280-1,40,ŋitɕtɕaqqlik,ŋitɕtɕaqqlik,[],( 2 x 20 ),[],,False,False,,1
+kere1280-1-50-1,,kere1280-1,50,ŋitɕtɕaqqlik mnətɕitɕi,ŋitɕtɕaqqlik mnətɕitɕi,[],,[],,False,False,,1
+kere1280-1-60-1,,kere1280-1,60,ŋijuqqlik,ŋijuqqlik,[],( 3 x 20 ),[],,False,False,,1
+kere1280-1-70-1,,kere1280-1,70,ŋijuqqlik mnətɕitɕi,ŋijuqqlik mnətɕitɕi,[],( 60 + 10),[],,False,False,,1
+kere1280-1-80-1,,kere1280-1,80,ŋijaqalik,ŋijaqalik,[],( 4 x 20 ),[],,False,False,,1
+kere1280-1-90-1,,kere1280-1,90,ŋijaqalik mnətɕitɕi,ŋijaqalik mnətɕitɕi,[],,[],,False,False,,1
+kere1280-1-100-1,,kere1280-1,100,məlləŋqlik,məlləŋqlik,[],( 5 x 20 ),[],,False,False,,1

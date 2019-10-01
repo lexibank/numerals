@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+jara1263-1-1-1,,jara1263-1,1,mòk,mòk,[],,[],,False,False,,1
+jara1263-1-2-1,,jara1263-1,2,ɓàri,ɓàri,[],,[],,False,False,,1
+jara1263-1-3-1,,jara1263-1,3,tat,tat,[],,[],,False,False,,1
+jara1263-1-4-1,,jara1263-1,4,yǐn,yǐn,[],,[],,False,False,,1
+jara1263-1-5-1,,jara1263-1,5,towùn,towùn,[],,[],,False,False,,1
+jara1263-1-6-1,,jara1263-1,6,təŋsɛlmò,təŋsɛlmò,[],( 5 + 1 ),[],,False,False,,1
+jara1263-1-7-1,,jara1263-1,7,təŋsɛlɓàrì,təŋsɛlɓàrì,[],( 5 + 2 ),[],,False,False,,1
+jara1263-1-8-1,,jara1263-1,8,kɛsyǐn,kɛsyǐn,[],( 5 + 3 ),[],,False,False,,1
+jara1263-1-9-1,,jara1263-1,9,kɛ̀stowun,kɛ̀stowun,[],( 5 + 4 ),[],,False,False,,1
+jara1263-1-10-1,,jara1263-1,10,lùm,lùm,[],,[],,False,False,,1
+jara1263-1-11-1,,jara1263-1,11,lùm kwi mòk,lùm kwi mòk,[],,[],,False,False,,1
+jara1263-1-12-1,,jara1263-1,12,lùm kwi ɓàri,lùm kwi ɓàri,[],,[],,False,False,,1
+jara1263-1-13-1,,jara1263-1,13,lùm kwi tat,lùm kwi tat,[],,[],,False,False,,1
+jara1263-1-14-1,,jara1263-1,14,lùm kwi yǐn,lùm kwi yǐn,[],,[],,False,False,,1
+jara1263-1-15-1,,jara1263-1,15,lùm kwi towùn,lùm kwi towùn,[],,[],,False,False,,1
+jara1263-1-16-1,,jara1263-1,16,lùm kwi təŋsɛlmò,lùm kwi təŋsɛlmò,[],,[],,False,False,,1
+jara1263-1-17-1,,jara1263-1,17,lùm kwi təŋsɛlɓàrì,lùm kwi təŋsɛlɓàrì,[],,[],,False,False,,1
+jara1263-1-18-1,,jara1263-1,18,lùm kwi kɛsyǐn,lùm kwi kɛsyǐn,[],,[],,False,False,,1
+jara1263-1-19-1,,jara1263-1,19,lùm kwi kɛ̀stowun,lùm kwi kɛ̀stowun,[],,[],,False,False,,1
+jara1263-1-20-1,,jara1263-1,20,lùm kwi lùm,lùm kwi lùm,[],( 10 + 10 ),[],,False,False,,1
+jara1263-1-21-1,,jara1263-1,21,lùmi mòk,lùmi mòk,[],,[],,False,False,,1
+jara1263-1-22-1,,jara1263-1,22,lùmi ɓàri,lùmi ɓàri,[],,[],,False,False,,1
+jara1263-1-23-1,,jara1263-1,23,lùmi tat,lùmi tat,[],,[],,False,False,,1
+jara1263-1-24-1,,jara1263-1,24,lùmi yǐn,lùmi yǐn,[],,[],,False,False,,1
+jara1263-1-25-1,,jara1263-1,25,lùmi towùn,lùmi towùn,[],,[],,False,False,,1
+jara1263-1-26-1,,jara1263-1,26,lùmi təŋsɛlmò,lùmi təŋsɛlmò,[],,[],,False,False,,1
+jara1263-1-27-1,,jara1263-1,27,lùmi təŋsɛlɓàrì,lùmi təŋsɛlɓàrì,[],,[],,False,False,,1
+jara1263-1-28-1,,jara1263-1,28,lùmi kɛsyǐn,lùmi kɛsyǐn,[],,[],,False,False,,1
+jara1263-1-29-1,,jara1263-1,29,lùmi kɛ̀stowun,lùmi kɛ̀stowun,[],,[],,False,False,,1
+jara1263-1-30-1,,jara1263-1,30,lùmi tat,lùmi tat,[],,[],,False,False,,1
+jara1263-1-40-1,,jara1263-1,40,lùmi yǐn,lùmi yǐn,[],,[],,False,False,,1
+jara1263-1-50-1,,jara1263-1,50,lùmi towùn,lùmi towùn,[],,[],,False,False,,1
+jara1263-1-60-1,,jara1263-1,60,lùmi təŋsɛlmò,lùmi təŋsɛlmò,[],,[],,False,False,,1
+jara1263-1-70-1,,jara1263-1,70,lùmi təŋsɛlɓàrì,lùmi təŋsɛlɓàrì,[],,[],,False,False,,1
+jara1263-1-80-1,,jara1263-1,80,lùmi kɛsyǐn,lùmi kɛsyǐn,[],,[],,False,False,,1
+jara1263-1-90-1,,jara1263-1,90,lùmi kɛ̀stowun,lùmi kɛ̀stowun,[],,[],,False,False,,1
+jara1263-1-100-1,,jara1263-1,100,lùmi lùm,lùmi lùm,[],( 10 x 10 ),[],,False,False,,1

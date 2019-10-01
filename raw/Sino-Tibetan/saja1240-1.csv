@@ -1,0 +1,58 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+saja1240-1-1-1,,saja1240-1,1,'uŋ,'uŋ,[],,[],,False,False,,1
+saja1240-1-1-2,,saja1240-1,1,'ʉŋ,'ʉŋ,[],(HF),[],,False,False,,1
+saja1240-1-2-1,,saja1240-1,2,ɡə.'ni,ɡə.'ni,[],,[],,False,False,,1
+saja1240-1-2-2,,saja1240-1,2,ɡə̌.'ni,ɡə̌.'ni,[],,[],,False,False,,1
+saja1240-1-2-3,,saja1240-1,2,ɡ.'ni,ɡ.'ni,[],(M.HF),[],,False,False,,1
+saja1240-1-3-1,,saja1240-1,3,ɡə.'tɪn,ɡə.'tɪn,[],,[],,False,False,,1
+saja1240-1-3-2,,saja1240-1,3,ɡə.'tʰɪn,ɡə.'tʰɪn,[],,[],,False,False,,1
+saja1240-1-3-3,,saja1240-1,3,ɡ'tɪn,ɡ'tɪn,[],,[],,False,False,,1
+saja1240-1-3-4,,saja1240-1,3,ɡ.'tʰɪn,ɡ.'tʰɪn,[],(M.HF),[],,False,False,,1
+saja1240-1-4-1,,saja1240-1,4,b.'le,b.'le,[],,[],,False,False,,1
+saja1240-1-4-2,,saja1240-1,4,bə'le,bə'le,[],,[],,False,False,,1
+saja1240-1-4-3,,saja1240-1,4,bě.'le,bě.'le,[],,[],,False,False,,1
+saja1240-1-4-4,,saja1240-1,4,bɨ̌.le,bɨ̌.le,[],,[],,False,False,,1
+saja1240-1-4-5,,saja1240-1,4,'bli,'bli,[],(M.HF),[],,False,False,,1
+saja1240-1-5-1,,saja1240-1,5,bu.ˈŋu,bu.ˈŋu,[],(M.H),[],,False,False,,1
+saja1240-1-6-1,,saja1240-1,6,'ɾe(ʔ),'ɾe(ʔ),[],,[],,False,False,,1
+saja1240-1-6-2,,saja1240-1,6,'re(ʔ),'re(ʔ),[],(M or H),[],,False,False,,1
+saja1240-1-7-1,,saja1240-1,7,mi.'jɐ,mi.'jɐ,[],,[],,False,False,,1
+saja1240-1-7-2,,saja1240-1,7,mi.'ja,mi.'ja,[],,[],,False,False,,1
+saja1240-1-7-3,,saja1240-1,7,mʲɐ,mʲɐ,[],,[],,False,False,,1
+saja1240-1-7-4,,saja1240-1,7,'mʲa,'mʲa,[],(M.HF or HF),[],,False,False,,1
+saja1240-1-8-1,,saja1240-1,8,sə̌.'ɡɯj,sə̌.'ɡɯj,[],,[],,False,False,,1
+saja1240-1-8-2,,saja1240-1,8,s.'ɡɯj,s.'ɡɯj,[],(M.HF),[],,False,False,,1
+saja1240-1-9-1,,saja1240-1,9,'stən,'stən,[],,[],,False,False,,1
+saja1240-1-9-2,,saja1240-1,9,s.'tən,s.'tən,[],(MR or M.HF),[],,False,False,,1
+saja1240-1-10-1,,saja1240-1,10,'lən,'lən,[],(M or L),[],,False,False,,1
+saja1240-1-11-1,,saja1240-1,11,'lən 'uŋ,'lən 'uŋ,[],,[],,False,False,,1
+saja1240-1-12-1,,saja1240-1,12,'lən ɡ.'ni,'lən ɡ.'ni,[],,[],,False,False,,1
+saja1240-1-13-1,,saja1240-1,13,'lən ɡ'tɪn,'lən ɡ'tɪn,[],,[],,False,False,,1
+saja1240-1-14-1,,saja1240-1,14,'lən b.'le,'lən b.'le,[],,[],,False,False,,1
+saja1240-1-15-1,,saja1240-1,15,'lən bu.ˈŋu,'lən bu.ˈŋu,[],,[],,False,False,,1
+saja1240-1-16-1,,saja1240-1,16,'lən 'ɾe(ʔ),'lən 'ɾe(ʔ),[],,[],,False,False,,1
+saja1240-1-17-1,,saja1240-1,17,'lən mi.'jɐ,'lən mi.'jɐ,[],,[],,False,False,,1
+saja1240-1-18-1,,saja1240-1,18,'lən s.'ɡɯj,'lən s.'ɡɯj,[],,[],,False,False,,1
+saja1240-1-19-1,,saja1240-1,19,'lən 'stən,'lən 'stən,[],,[],,False,False,,1
+saja1240-1-20-1,,saja1240-1,20,ɡ.'ni 'lən,ɡ.'ni 'lən,[],,[],,False,False,,1
+saja1240-1-21-1,,saja1240-1,21,ɡ.'ni 'lən 'uŋ,ɡ.'ni 'lən 'uŋ,[],,[],,False,False,,1
+saja1240-1-22-1,,saja1240-1,22,ɡ.'ni 'lən ɡ.'ni,ɡ.'ni 'lən ɡ.'ni,[],,[],,False,False,,1
+saja1240-1-23-1,,saja1240-1,23,ɡ.'ni 'lən ɡ'tɪn,ɡ.'ni 'lən ɡ'tɪn,[],,[],,False,False,,1
+saja1240-1-24-1,,saja1240-1,24,ɡ.'ni 'lən b.'le,ɡ.'ni 'lən b.'le,[],,[],,False,False,,1
+saja1240-1-25-1,,saja1240-1,25,ɡ.'ni 'lən bu.ˈŋu,ɡ.'ni 'lən bu.ˈŋu,[],,[],,False,False,,1
+saja1240-1-26-1,,saja1240-1,26,ɡ.'ni 'lən 'ɾe(ʔ),ɡ.'ni 'lən 'ɾe(ʔ),[],,[],,False,False,,1
+saja1240-1-27-1,,saja1240-1,27,ɡ.'ni 'lən mi.'jɐ,ɡ.'ni 'lən mi.'jɐ,[],,[],,False,False,,1
+saja1240-1-28-1,,saja1240-1,28,ɡ.'ni 'lən s.'ɡɯj,ɡ.'ni 'lən s.'ɡɯj,[],,[],,False,False,,1
+saja1240-1-29-1,,saja1240-1,29,ɡ.'ni 'lən 'stən,ɡ.'ni 'lən 'stən,[],,[],,False,False,,1
+saja1240-1-30-1,,saja1240-1,30,ɡ'tɪn 'lən,ɡ'tɪn 'lən,[],,[],,False,False,,1
+saja1240-1-40-1,,saja1240-1,40,b.'le 'lən,b.'le 'lən,[],,[],,False,False,,1
+saja1240-1-50-1,,saja1240-1,50,bu.ˈŋu 'lən,bu.ˈŋu 'lən,[],,[],,False,False,,1
+saja1240-1-60-1,,saja1240-1,60,'ɾe(ʔ) 'lən,'ɾe(ʔ) 'lən,[],,[],,False,False,,1
+saja1240-1-70-1,,saja1240-1,70,mi.'jɐ 'lən,mi.'jɐ 'lən,[],,[],,False,False,,1
+saja1240-1-80-1,,saja1240-1,80,s.'ɡɯj 'lən,s.'ɡɯj 'lən,[],,[],,False,False,,1
+saja1240-1-90-1,,saja1240-1,90,'stən 'lən,'stən 'lən,[],,[],,False,False,,1
+saja1240-1-100-1,,saja1240-1,100,'bl̥ǒŋʔ (ə)ŋ,'bl̥ǒŋʔ (ə)ŋ,[],,[],,False,False,,1
+saja1240-1-100-2,,saja1240-1,100,bə̌.ˈl̥ǒŋʔ.ʉŋ,bə̌.ˈl̥ǒŋʔ.ʉŋ,[],(H.M orM.H.M),[],,False,False,,1
+saja1240-1-200-1,,saja1240-1,200,'bl̥ǒŋʔ ɡ.'ni,'bl̥ǒŋʔ ɡ.'ni,[],,[],,False,False,,1
+saja1240-1-1000-1,,saja1240-1,1000,hadʒar,hadʒar,[],< Hindi ,[],,True,False,,1
+saja1240-1-2000-1,,saja1240-1,2000,hadʒar ɡ.'ni,hadʒar ɡ.'ni,[],,[],,False,False,,1

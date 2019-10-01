@@ -1,0 +1,27 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+fore1270-1-1-1,,fore1270-1,1,káne,káne,[],,[],,False,False,,1
+fore1270-1-2-1,,fore1270-1,2,tarawe,tarawe,[],,[],,False,False,,1
+fore1270-1-3-1,,fore1270-1,3,kakágawé,kakágawé,[],(one-one-one),[],,False,False,,1
+fore1270-1-3-2,,fore1270-1,3,tarawakánakíné,tarawakánakíné,[],(two-one-and),[],,False,False,,1
+fore1270-1-4-1,,fore1270-1,4,tarawatarawakíné,tarawatarawakíné,[],(two-two-and),[],,False,False,,1
+fore1270-1-5-1,,fore1270-1,5,naya ká amúné,naya ká amúné,[],(my-hand one give),[],,False,False,,1
+fore1270-1-6-1,,fore1270-1,6,to náentisa ká umaemawé,to náentisa ká umaemawé,[],(another my-hand-from one there-get-and),[],,False,False,,1
+fore1270-1-7-1,,fore1270-1,7,to náentisa tara umaemawé,to náentisa tara umaemawé,[],(another my-hand-from two there-get-and),[],,False,False,,1
+fore1270-1-8-1,,fore1270-1,8,to náentisa kakága umaemawé (another my-hand-from one-one-one there-get-and) or: to náentisa tarawakánakí úmaemawé (another my-hand-from two-one-and there-get-and) or:to náentisa tara megasímawé,to náentisa kakága umaemawé (another my-hand-from one-one-one there-get-and) or: to náentisa tarawakánakí úmaemawé (another my-hand-from two-one-and there-get-and) or:to náentisa tara megasímawé,[],(another my-hand-from two    throwaway-and),[],,False,True,,1
+fore1270-1-9-1,,fore1270-1,9,to náentisa tarawatarawakí úmaemawé (another my-hand-from two-two-and there-get-and) or:to náentisa ká megasímawé,to náentisa tarawatarawakí úmaemawé (another my-hand-from two-two-and there-get-and) or:to náentisa ká megasímawé,[],(another my-hand-from one    throwaway-and),[],,False,True,,1
+fore1270-1-10-1,,fore1270-1,10,naya tára amúné,naya tára amúné,[],(my-hand two give),[],,False,False,,1
+fore1270-1-11-1,,fore1270-1,11,nagisarísa ká tumpaemawe,nagisarísa ká tumpaemawe,[],(my-foot-from one down-get-and),[],,False,False,,1
+fore1270-1-13-1,,fore1270-1,13,nagisarísa kakága tumpaemawe,nagisarísa kakága tumpaemawe,[],(my-foot-from three down-get-and),[],,False,False,,1
+fore1270-1-14-1,,fore1270-1,14,nagisarísa tarawatarawakí túmpaemawe,nagisarísa tarawatarawakí túmpaemawe,[],(my-foot-from four down-get-and),[],,False,False,,1
+fore1270-1-15-1,,fore1270-1,15,nagísarísa ká amú pumawe,nagísarísa ká amú pumawe,[],(my-foot-from one give do-and),[],,False,False,,1
+fore1270-1-16-1,,fore1270-1,16,to nagísarísa ká umaemawé,to nagísarísa ká umaemawé,[],(another my-foot-from one there-get-and),[],,False,False,,1
+fore1270-1-17-1,,fore1270-1,17,to nagísarísa tara umaemawé,to nagísarísa tara umaemawé,[],(another my-foot-from two there-get-and),[],,False,False,,1
+fore1270-1-18-1,,fore1270-1,18,to nagísarísa kakága umaemawé (another my-foot-from one-one-one there-get- and) or: to nagísarísa tarawakánakí úmaemawé (another my-foot-from two-one- and there-get-and) or: to nagísarísa tara megasímawé,to nagísarísa kakága umaemawé (another my-foot-from one-one-one there-get- and) or: to nagísarísa tarawakánakí úmaemawé (another my-foot-from two-one- and there-get-and) or: to nagísarísa tara megasímawé,[],(another my-foot-from two       throwaway-and),[],,False,True,,1
+fore1270-1-19-1,,fore1270-1,19,to nagísarísa tarawatarawakí úmaemawé,to nagísarísa tarawatarawakí úmaemawé,[],(another my-foot-from two-two-and      there-get-and),[],,False,False,,1
+fore1270-1-19-2,,fore1270-1,19,or: to nagísarísa [age] ká mégasimawé (another my-foot-from [little toe*] one throwaway-and) *little toe is optional,or: to nagísarísa [age] ká mégasimawé (another my-foot-from [little toe*] one throwaway-and) *little toe is optional,[],,[],,False,True,,1
+fore1270-1-20-1,,fore1270-1,20,Nagisá tára’mu naya tárá’mu pumawe,Nagisá tára’mu naya tárá’mu pumawe,[],(my-feet-from two-and my-hands two-and     do-and),[],,False,False,,1
+fore1270-1-20-2,,fore1270-1,20,or simply in context: ká kinane (one person*) *only 20 in context,or simply in context: ká kinane (one person*) *only 20 in context,[],,[],,False,True,,1
+fore1270-1-20-3,,fore1270-1,20,otherwise = two people,otherwise = two people,[],,[],,False,True,,1
+fore1270-1-21-1,,fore1270-1,21,ká kina puma káne,ká kina puma káne,[],(one person and one),[],,False,False,,1
+fore1270-1-40-1,,fore1270-1,40,tara kinane (two persons*) *only 40 in context,tara kinane (two persons*) *only 40 in context,[],,[],,False,True,,1
+fore1270-1-40-2,,fore1270-1,40,otherwise = two people,otherwise = two people,[],,[],,False,True,,1

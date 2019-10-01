@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kaer1234-1-1-1,,kaer1234-1,1,nuk(u),nuk(u),[],,[],,False,False,,1
+kaer1234-1-2-1,,kaer1234-1,2,(a)rax-,(a)rax-,[],,[],,False,False,,1
+kaer1234-1-3-1,,kaer1234-1,3,(i/u)tuɡ,(i/u)tuɡ,[],,[],,False,True,,1
+kaer1234-1-4-1,,kaer1234-1,4,ut,ut,[],,[],,False,False,,1
+kaer1234-1-5-1,,kaer1234-1,5,isim,isim,[],,[],,False,False,,1
+kaer1234-1-6-1,,kaer1234-1,6,tia:m,tia:m,[],,[],,False,False,,1
+kaer1234-1-7-1,,kaer1234-1,7,jesrax-,jesrax-,[],( 'five two'),[],,False,False,,1
+kaer1234-1-8-1,,kaer1234-1,8,jentuɡ,jentuɡ,[],( 'five three'),[],,False,False,,1
+kaer1234-1-9-1,,kaer1234-1,9,jeniut,jeniut,[],( 'five four'),[],,False,False,,1
+kaer1234-1-10-1,,kaer1234-1,10,xar nuk,xar nuk,[],('ten one'),[],,False,False,,1
+kaer1234-1-11-1,,kaer1234-1,11,xar nuk beti nuk,xar nuk beti nuk,[],,[],,False,False,,1
+kaer1234-1-12-1,,kaer1234-1,12,xar nuk beti (a)rax-,xar nuk beti (a)rax-,[],,[],,False,False,,1
+kaer1234-1-13-1,,kaer1234-1,13,xar nuk beti (i/u)tuɡ,xar nuk beti (i/u)tuɡ,[],,[],,False,True,,1
+kaer1234-1-14-1,,kaer1234-1,14,xar nuk beti ut,xar nuk beti ut,[],,[],,False,False,,1
+kaer1234-1-15-1,,kaer1234-1,15,xar nuk beti isim,xar nuk beti isim,[],,[],,False,False,,1
+kaer1234-1-16-1,,kaer1234-1,16,xar nuk beti tia:m,xar nuk beti tia:m,[],,[],,False,False,,1
+kaer1234-1-17-1,,kaer1234-1,17,xar nuk beti jesrax-,xar nuk beti jesrax-,[],,[],,False,False,,1
+kaer1234-1-18-1,,kaer1234-1,18,xar nuk beti jentuɡ,xar nuk beti jentuɡ,[],,[],,False,False,,1
+kaer1234-1-19-1,,kaer1234-1,19,xar nuk beti jeniut,xar nuk beti jeniut,[],,[],,False,False,,1
+kaer1234-1-20-1,,kaer1234-1,20,xar raxo,xar raxo,[],,[],,False,False,,1
+kaer1234-1-21-1,,kaer1234-1,21,xar raxo beti nuk(u),xar raxo beti nuk(u),[],,[],,False,False,,1
+kaer1234-1-22-1,,kaer1234-1,22,xar raxo beti (a)rax-,xar raxo beti (a)rax-,[],,[],,False,False,,1
+kaer1234-1-23-1,,kaer1234-1,23,xar raxo beti (i/u)tuɡ,xar raxo beti (i/u)tuɡ,[],,[],,False,True,,1
+kaer1234-1-24-1,,kaer1234-1,24,xar raxo beti ut,xar raxo beti ut,[],,[],,False,False,,1
+kaer1234-1-25-1,,kaer1234-1,25,xar raxo beti isim,xar raxo beti isim,[],,[],,False,False,,1
+kaer1234-1-26-1,,kaer1234-1,26,xar raxo beti tia:m,xar raxo beti tia:m,[],,[],,False,False,,1
+kaer1234-1-27-1,,kaer1234-1,27,xar raxo beti jesrax-,xar raxo beti jesrax-,[],,[],,False,False,,1
+kaer1234-1-28-1,,kaer1234-1,28,xar raxo beti jentuɡ,xar raxo beti jentuɡ,[],,[],,False,False,,1
+kaer1234-1-29-1,,kaer1234-1,29,xar raxo beti jeniut,xar raxo beti jeniut,[],,[],,False,False,,1
+kaer1234-1-30-1,,kaer1234-1,30,xar (i/u)tuɡ,xar (i/u)tuɡ,[],,[],,False,True,,1
+kaer1234-1-40-1,,kaer1234-1,40,xar ut,xar ut,[],,[],,False,False,,1
+kaer1234-1-50-1,,kaer1234-1,50,xar isim,xar isim,[],,[],,False,False,,1
+kaer1234-1-60-1,,kaer1234-1,60,xar tia:m,xar tia:m,[],,[],,False,False,,1
+kaer1234-1-70-1,,kaer1234-1,70,xar jesrax-,xar jesrax-,[],,[],,False,False,,1
+kaer1234-1-80-1,,kaer1234-1,80,xar jentuɡ,xar jentuɡ,[],,[],,False,False,,1
+kaer1234-1-90-1,,kaer1234-1,90,xar jeniut,xar jeniut,[],,[],,False,False,,1
+kaer1234-1-100-1,,kaer1234-1,100,ratu nuku,ratu nuku,[],,[],,False,False,,1
+kaer1234-1-200-1,,kaer1234-1,200,ratu rax-,ratu rax-,[],,[],,False,False,,1
+kaer1234-1-1000-1,,kaer1234-1,1000,ribu nuk,ribu nuk,[],,[],,False,False,,1
+kaer1234-1-2000-1,,kaer1234-1,2000,ribu rax-,ribu rax-,[],,[],,False,False,,1

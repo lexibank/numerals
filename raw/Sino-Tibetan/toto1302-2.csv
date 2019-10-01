@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+toto1302-2-1-1,,toto1302-2,1,ipu,ipu,[],,[],,False,False,,2
+toto1302-2-2-1,,toto1302-2,2,nihpu or nʰipu,nihpu or nʰipu,[],,[],,False,True,,2
+toto1302-2-3-1,,toto1302-2,3,suŋpu,suŋpu,[],,[],,False,False,,2
+toto1302-2-4-1,,toto1302-2,4,dipu,dipu,[],,[],,False,False,,2
+toto1302-2-5-1,,toto1302-2,5,napu,napu,[],,[],,False,False,,2
+toto1302-2-6-1,,toto1302-2,6,tupu,tupu,[],,[],,False,False,,2
+toto1302-2-7-1,,toto1302-2,7,nipu,nipu,[],,[],,False,False,,2
+toto1302-2-8-1,,toto1302-2,8,iapu,iapu,[],,[],,False,False,,2
+toto1302-2-9-1,,toto1302-2,9,ku,ku,[],,[],,False,False,,2
+toto1302-2-10-1,,toto1302-2,10,tæ,tæ,[],,[],,False,False,,2
+toto1302-2-11-1,,toto1302-2,11,tʃutʃi,tʃutʃi,[],,[],,False,False,,2
+toto1302-2-12-1,,toto1302-2,12,tʃunih,tʃunih,[],,[],,False,False,,2
+toto1302-2-13-1,,toto1302-2,13,tʃiʃoŋ,tʃiʃoŋ,[],,[],,False,False,,2
+toto1302-2-14-1,,toto1302-2,14,tʃudʒi,tʃudʒi,[],,[],,False,False,,2
+toto1302-2-15-1,,toto1302-2,15,tsoŋa,tsoŋa,[],,[],,False,False,,2
+toto1302-2-16-1,,toto1302-2,16,tʃuru,tʃuru,[],,[],,False,False,,2
+toto1302-2-17-1,,toto1302-2,17,tʃudoŋ,tʃudoŋ,[],,[],,False,False,,2
+toto1302-2-18-1,,toto1302-2,18,tʃoudʒe,tʃoudʒe,[],,[],,False,False,,2
+toto1302-2-19-1,,toto1302-2,19,tʃuɡu,tʃuɡu,[],,[],,False,False,,2
+toto1302-2-20-1,,toto1302-2,20,eke,eke,[],,[],,False,False,,2
+toto1302-2-21-1,,toto1302-2,21,ekaʃoitʃo,ekaʃoitʃo,[],,[],,False,False,,2
+toto1302-2-22-1,,toto1302-2,22,ekaʃonihʃo,ekaʃonihʃo,[],,[],,False,False,,2
+toto1302-2-23-1,,toto1302-2,23,ekaʃosuŋtʃo,ekaʃosuŋtʃo,[],,[],,False,False,,2
+toto1302-2-24-1,,toto1302-2,24,ekaʃoditʃo,ekaʃoditʃo,[],,[],,False,False,,2
+toto1302-2-25-1,,toto1302-2,25,ekaʃonatʃo,ekaʃonatʃo,[],,[],,False,False,,2
+toto1302-2-26-1,,toto1302-2,26,ekaʃotutʃo,ekaʃotutʃo,[],,[],,False,False,,2
+toto1302-2-27-1,,toto1302-2,27,ekaʃonitʃotʃo,ekaʃonitʃotʃo,[],,[],,False,False,,2
+toto1302-2-28-1,,toto1302-2,28,ekaʃiatʃo,ekaʃiatʃo,[],,[],,False,False,,2
+toto1302-2-29-1,,toto1302-2,29,ekaʃokutʃo,ekaʃokutʃo,[],,[],,False,False,,2
+toto1302-2-30-1,,toto1302-2,30,ekaʃogutʃo,ekaʃogutʃo,[],,[],,False,False,,2
+toto1302-2-40-1,,toto1302-2,40,nikai,nikai,[],( 2 x 20 ),[],,False,False,,2
+toto1302-2-50-1,,toto1302-2,50,nikaiʃotætʃo,nikaiʃotætʃo,[],,[],,False,False,,2
+toto1302-2-60-1,,toto1302-2,60,suŋkai,suŋkai,[],( 3 x 20 ),[],,False,False,,2
+toto1302-2-70-1,,toto1302-2,70,suŋkaiʃotætʃo,suŋkaiʃotætʃo,[],,[],,False,False,,2
+toto1302-2-80-1,,toto1302-2,80,dikai,dikai,[],( 4 x 20 ),[],,False,False,,2
+toto1302-2-90-1,,toto1302-2,90,dikaiʃotætʃo,dikaiʃotætʃo,[],,[],,False,False,,2
+toto1302-2-100-1,,toto1302-2,100,ŋakai,ŋakai,[],( 5 x 20 ),[],,False,False,,2
+toto1302-2-200-1,,toto1302-2,200,??,??,[],,[],,False,True,,2
+toto1302-2-1000-1,,toto1302-2,1000,??,??,[],,[],,False,True,,2

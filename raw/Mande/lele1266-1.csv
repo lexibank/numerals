@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lele1266-1-1-1,,lele1266-1,1,kelɛŋ,kelɛŋ,[],,[],,False,False,,1
+lele1266-1-2-1,,lele1266-1,2,fela,fela,[],,[],,False,False,,1
+lele1266-1-3-1,,lele1266-1,3,sawa,sawa,[],,[],,False,False,,1
+lele1266-1-4-1,,lele1266-1,4,nani,nani,[],,[],,False,False,,1
+lele1266-1-5-1,,lele1266-1,5,luuli,luuli,[],,[],,False,False,,1
+lele1266-1-6-1,,lele1266-1,6,wɔɔrɔ,wɔɔrɔ,[],,[],,False,False,,1
+lele1266-1-7-1,,lele1266-1,7,wɔrɔŋ kela,wɔrɔŋ kela,[],( 6 + 1 ),[],,False,False,,1
+lele1266-1-8-1,,lele1266-1,8,seŋ,seŋ,[],,[],,False,False,,1
+lele1266-1-9-1,,lele1266-1,9,kɔnɔndɔ,kɔnɔndɔ,[],,[],,False,False,,1
+lele1266-1-10-1,,lele1266-1,10,taŋ,taŋ,[],,[],,False,False,,1
+lele1266-1-11-1,,lele1266-1,11,taŋ ne kelɛŋ,taŋ ne kelɛŋ,[],,[],,False,False,,1
+lele1266-1-12-1,,lele1266-1,12,taŋ ne fela,taŋ ne fela,[],,[],,False,False,,1
+lele1266-1-13-1,,lele1266-1,13,taŋ ne sawa,taŋ ne sawa,[],,[],,False,False,,1
+lele1266-1-14-1,,lele1266-1,14,taŋ ne nani,taŋ ne nani,[],,[],,False,False,,1
+lele1266-1-15-1,,lele1266-1,15,taŋ ne luuli,taŋ ne luuli,[],,[],,False,False,,1
+lele1266-1-16-1,,lele1266-1,16,taŋ ne wɔɔrɔ,taŋ ne wɔɔrɔ,[],,[],,False,False,,1
+lele1266-1-17-1,,lele1266-1,17,taŋ ne wɔrɔŋ kela,taŋ ne wɔrɔŋ kela,[],,[],,False,False,,1
+lele1266-1-18-1,,lele1266-1,18,taŋ ne seŋ,taŋ ne seŋ,[],,[],,False,False,,1
+lele1266-1-19-1,,lele1266-1,19,taŋ ne kɔnɔndɔ,taŋ ne kɔnɔndɔ,[],,[],,False,False,,1
+lele1266-1-20-1,,lele1266-1,20,muaŋ,muaŋ,[],,[],,False,False,,1
+lele1266-1-21-1,,lele1266-1,21,muaŋ ne kelɛŋ,muaŋ ne kelɛŋ,[],,[],,False,False,,1
+lele1266-1-22-1,,lele1266-1,22,muaŋ ne fela,muaŋ ne fela,[],,[],,False,False,,1
+lele1266-1-23-1,,lele1266-1,23,muaŋ ne sawa,muaŋ ne sawa,[],,[],,False,False,,1
+lele1266-1-24-1,,lele1266-1,24,muaŋ ne nani,muaŋ ne nani,[],,[],,False,False,,1
+lele1266-1-25-1,,lele1266-1,25,muaŋ ne luuli,muaŋ ne luuli,[],,[],,False,False,,1
+lele1266-1-26-1,,lele1266-1,26,muaŋ ne wɔɔrɔ,muaŋ ne wɔɔrɔ,[],,[],,False,False,,1
+lele1266-1-27-1,,lele1266-1,27,muaŋ ne wɔrɔŋ kela,muaŋ ne wɔrɔŋ kela,[],,[],,False,False,,1
+lele1266-1-28-1,,lele1266-1,28,muaŋ ne seŋ,muaŋ ne seŋ,[],,[],,False,False,,1
+lele1266-1-29-1,,lele1266-1,29,muaŋ ne kɔnɔndɔ,muaŋ ne kɔnɔndɔ,[],,[],,False,False,,1
+lele1266-1-30-1,,lele1266-1,30,bi sawa,bi sawa,[],,[],,False,False,,1
+lele1266-1-40-1,,lele1266-1,40,bi nani,bi nani,[],,[],,False,False,,1
+lele1266-1-50-1,,lele1266-1,50,bi luuli,bi luuli,[],,[],,False,False,,1
+lele1266-1-60-1,,lele1266-1,60,bi wɔɔrɔ,bi wɔɔrɔ,[],,[],,False,False,,1
+lele1266-1-70-1,,lele1266-1,70,bi wɔrɔŋ kela,bi wɔrɔŋ kela,[],,[],,False,False,,1
+lele1266-1-80-1,,lele1266-1,80,bi seŋ,bi seŋ,[],,[],,False,False,,1
+lele1266-1-90-1,,lele1266-1,90,bi kɔnɔndɔ,bi kɔnɔndɔ,[],,[],,False,False,,1
+lele1266-1-100-1,,lele1266-1,100,kɛmɛ,kɛmɛ,[],,[],,False,False,,1
+lele1266-1-200-1,,lele1266-1,200,kɛmɛ fela,kɛmɛ fela,[],,[],,False,False,,1
+lele1266-1-1000-1,,lele1266-1,1000,wa kɛlɛn,wa kɛlɛn,[],,[],,False,False,,1
+lele1266-1-2000-1,,lele1266-1,2000,wa fela,wa fela,[],,[],,False,False,,1

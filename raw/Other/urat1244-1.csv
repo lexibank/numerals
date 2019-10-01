@@ -1,0 +1,27 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+urat1244-1-1-1,,urat1244-1,1,ŋiljeh,ŋiljeh,[],,[],,False,False,,1
+urat1244-1-2-1,,urat1244-1,2,hoi,hoi,[],,[],,False,False,,1
+urat1244-1-3-1,,urat1244-1,3,hun,hun,[],,[],,False,False,,1
+urat1244-1-4-1,,urat1244-1,4,hoje hoje,hoje hoje,[],( 2 + 2 ),[],,False,False,,1
+urat1244-1-5-1,,urat1244-1,5,ʃepumbur,ʃepumbur,[],,[],,False,False,,1
+urat1244-1-6-1,,urat1244-1,6,ʃepumbur ŋiljeh,ʃepumbur ŋiljeh,[],( 5 + 1 ),[],,False,False,,1
+urat1244-1-7-1,,urat1244-1,7,ʃepumbur hoi,ʃepumbur hoi,[],( 5 + 2 ),[],,False,False,,1
+urat1244-1-8-1,,urat1244-1,8,ʃepumbur hun,ʃepumbur hun,[],( 5 + 3 ),[],,False,False,,1
+urat1244-1-9-1,,urat1244-1,9,ʃepumbur hoje hoje,ʃepumbur hoje hoje,[],( 2 + 2 ),[],,False,False,,1
+urat1244-1-10-1,,urat1244-1,10,ʃepumbur umbur,ʃepumbur umbur,[],,[],,False,False,,1
+urat1244-1-11-1,,urat1244-1,11,ʃepumbur umbur ŋiljeh,ʃepumbur umbur ŋiljeh,[],,[],,False,False,,1
+urat1244-1-12-1,,urat1244-1,12,ʃepumbur umbur hoi,ʃepumbur umbur hoi,[],,[],,False,False,,1
+urat1244-1-13-1,,urat1244-1,13,ʃepumbur umbur hun,ʃepumbur umbur hun,[],,[],,False,False,,1
+urat1244-1-14-1,,urat1244-1,14,ʃepumbur umbur hoje hoje,ʃepumbur umbur hoje hoje,[],,[],,False,False,,1
+urat1244-1-15-1,,urat1244-1,15,ʃepumbur ŋihipumbur,ʃepumbur ŋihipumbur,[],,[],,False,False,,1
+urat1244-1-16-1,,urat1244-1,16,ʃepumbur ŋihipumbur ŋiljeh,ʃepumbur ŋihipumbur ŋiljeh,[],(nal umbur),[],,False,False,,1
+urat1244-1-17-1,,urat1244-1,17,ʃepumbur ŋihipumbur hoi,ʃepumbur ŋihipumbur hoi,[],(nal umbur),[],,False,False,,1
+urat1244-1-18-1,,urat1244-1,18,ʃepumbur ŋihipumbur hun,ʃepumbur ŋihipumbur hun,[],(nal umbur),[],,False,False,,1
+urat1244-1-19-1,,urat1244-1,19,ʃepumbur ŋihipumbur hoje hoje,ʃepumbur ŋihipumbur hoje hoje,[],(nal um.),[],,False,False,,1
+urat1244-1-20-1,,urat1244-1,20,ʃepumbumburme ŋihipumbumburme,ʃepumbumburme ŋihipumbumburme,[],,[],,False,False,,1
+urat1244-1-21-1,,urat1244-1,21,mijeʔ hoi ŋiljeh,mijeʔ hoi ŋiljeh,[],,[],,False,False,,1
+urat1244-1-22-1,,urat1244-1,22,mijeʔ hoi hoi,mijeʔ hoi hoi,[],,[],,False,False,,1
+urat1244-1-23-1,,urat1244-1,23,mijeʔ hoi hun,mijeʔ hoi hun,[],,[],,False,False,,1
+urat1244-1-50-1,,urat1244-1,50,mijeʔ ʃep umbur,mijeʔ ʃep umbur,[],,[],,False,False,,1
+urat1244-1-70-1,,urat1244-1,70,mijeʔ ʃep umbur,mijeʔ ʃep umbur,[],,[],,False,False,,1
+urat1244-1-70-2,,urat1244-1,70,mije hoi,mije hoi,[],,[],,False,False,,1

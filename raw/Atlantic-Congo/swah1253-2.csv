@@ -1,0 +1,48 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+swah1253-2-1-1,,swah1253-2,1,-móote,-móote,[],,[],,False,False,,1
+swah1253-2-1-2,,swah1253-2,1,wahiíti,wahiíti,[],(< Arabic ),[],,True,False,,1
+swah1253-2-2-1,,swah1253-2,2,-wíiri,-wíiri,[],,[],,False,False,,1
+swah1253-2-2-2,,swah1253-2,2,tʰeneéne,tʰeneéne,[],(< Arabic ),[],,True,False,,1
+swah1253-2-3-1,,swah1253-2,3,-ʈaáʈʰu,-ʈaáʈʰu,[],,[],,False,False,,1
+swah1253-2-3-2,,swah1253-2,3,talaátha,talaátha,[],(< Arabic ),[],,True,False,,1
+swah1253-2-4-1,,swah1253-2,4,-ne,-ne,[],,[],,False,False,,1
+swah1253-2-4-2,,swah1253-2,4,aáruba,aáruba,[],(< Arabic ),[],,True,False,,1
+swah1253-2-5-1,,swah1253-2,5,-tʰaáno,-tʰaáno,[],,[],,False,False,,1
+swah1253-2-5-2,,swah1253-2,5,haámsa,haámsa,[],(< Arabic ),[],,True,False,,1
+swah1253-2-6-1,,swah1253-2,6,siítʰa,siítʰa,[],( < Arabic ),[],,True,False,,1
+swah1253-2-7-1,,swah1253-2,7,sabáa,sabáa,[],( < Arabic ),[],,True,False,,1
+swah1253-2-8-1,,swah1253-2,8,-náane,-náane,[],,[],,False,False,,1
+swah1253-2-8-2,,swah1253-2,8,tʰamaáníya,tʰamaáníya,[],(< Arabic ),[],,True,False,,1
+swah1253-2-9-1,,swah1253-2,9,tiísíya,tiísíya,[],(< Arabic ),[],,True,False,,1
+swah1253-2-10-1,,swah1253-2,10,kʰuúmi,kʰuúmi,[],,[],,False,False,,1
+swah1253-2-10-2,,swah1253-2,10,ańʃára,ańʃára,[],(< Arabic ),[],,True,False,,1
+swah1253-2-11-1,,swah1253-2,11,kʰuúmi na móote,kʰuúmi na móote,[],,[],,False,False,,1
+swah1253-2-12-1,,swah1253-2,12,kʰuúmi na ᵐbiíri,kʰuúmi na ᵐbiíri,[],,[],,False,False,,1
+swah1253-2-13-1,,swah1253-2,13,kʰuúmi na ʈaáʈʰu,kʰuúmi na ʈaáʈʰu,[],,[],,False,False,,1
+swah1253-2-14-1,,swah1253-2,14,kʰuúmi naáne,kʰuúmi naáne,[],,[],,False,False,,1
+swah1253-2-15-1,,swah1253-2,15,kʰuúmi na tʰaáno,kʰuúmi na tʰaáno,[],,[],,False,False,,1
+swah1253-2-16-1,,swah1253-2,16,kʰuúmi na siítʰa,kʰuúmi na siítʰa,[],,[],,False,False,,1
+swah1253-2-17-1,,swah1253-2,17,kʰuúmi na sabáa,kʰuúmi na sabáa,[],,[],,False,False,,1
+swah1253-2-18-1,,swah1253-2,18,kʰuúmi na náane,kʰuúmi na náane,[],,[],,False,False,,1
+swah1253-2-19-1,,swah1253-2,19,kʰuúmi na tiísíya,kʰuúmi na tiísíya,[],,[],,False,False,,1
+swah1253-2-20-1,,swah1253-2,20,eʃiríini,eʃiríini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-21-1,,swah1253-2,21,eʃiríini na móote,eʃiríini na móote,[],( Arabic + Bantu),[],,False,False,,1
+swah1253-2-22-1,,swah1253-2,22,eʃiríini na ᵐbiíri,eʃiríini na ᵐbiíri,[],,[],,False,False,,1
+swah1253-2-23-1,,swah1253-2,23,eʃiríini na ʈaáʈʰu,eʃiríini na ʈaáʈʰu,[],,[],,False,False,,1
+swah1253-2-24-1,,swah1253-2,24,eʃiríini naáne,eʃiríini naáne,[],,[],,False,False,,1
+swah1253-2-25-1,,swah1253-2,25,eʃiríini na tʰaáno,eʃiríini na tʰaáno,[],,[],,False,False,,1
+swah1253-2-26-1,,swah1253-2,26,eʃiríini na siítʰa,eʃiríini na siítʰa,[],,[],,False,False,,1
+swah1253-2-27-1,,swah1253-2,27,eʃiríini na sabáa,eʃiríini na sabáa,[],,[],,False,False,,1
+swah1253-2-28-1,,swah1253-2,28,eʃiríini na náane,eʃiríini na náane,[],,[],,False,False,,1
+swah1253-2-29-1,,swah1253-2,29,eʃiríini na tiísíya,eʃiríini na tiísíya,[],,[],,False,False,,1
+swah1253-2-30-1,,swah1253-2,30,talaatʰíini,talaatʰíini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-40-1,,swah1253-2,40,arubaíini,arubaíini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-50-1,,swah1253-2,50,hamusíini,hamusíini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-60-1,,swah1253-2,60,sitʰíini,sitʰíini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-70-1,,swah1253-2,70,sabíini,sabíini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-80-1,,swah1253-2,80,tʰamaaníini,tʰamaaníini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-90-1,,swah1253-2,90,tuswíini,tuswíini,[],( < Arabic ),[],,True,False,,1
+swah1253-2-100-1,,swah1253-2,100,miíya,miíya,[],( < Arabic ),[],,True,False,,1
+swah1253-2-200-1,,swah1253-2,200,miyá ᵐbiíri,miyá ᵐbiíri,[],,[],,False,False,,1
+swah1253-2-1000-1,,swah1253-2,1000,álúfu,álúfu,[],( < Arabic ),[],,True,False,,1
+swah1253-2-2000-1,,swah1253-2,2000,álúfu ᵐbiíri,álúfu ᵐbiíri,[],,[],,False,False,,1

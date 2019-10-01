@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mais1250-1-1-1,,mais1250-1,1,sese,sese,[],,[],,False,False,,1
+mais1250-1-1-2,,mais1250-1,1,sesei,sesei,[],,[],,False,False,,1
+mais1250-1-2-1,,mais1250-1,2,sandei,sandei,[],,[],,False,False,,1
+mais1250-1-3-1,,mais1250-1,3,sinati,sinati,[],,[],,False,False,,1
+mais1250-1-4-1,,mais1250-1,4,fusese,fusese,[],,[],,False,False,,1
+mais1250-1-5-1,,mais1250-1,5,faketi tarosi,faketi tarosi,[],,[],,False,False,,1
+mais1250-1-6-1,,mais1250-1,6,faketi tarosi taure sese,faketi tarosi taure sese,[],,[],,False,False,,1
+mais1250-1-7-1,,mais1250-1,7,faketi tarosi taure sandei,faketi tarosi taure sandei,[],,[],,False,False,,1
+mais1250-1-8-1,,mais1250-1,8,faketi tarosi taure sinati,faketi tarosi taure sinati,[],,[],,False,False,,1
+mais1250-1-9-1,,mais1250-1,9,faketi tarosi taure fusese,faketi tarosi taure fusese,[],,[],,False,False,,1
+mais1250-1-10-1,,mais1250-1,10,faketi tau tau,faketi tau tau,[],(lit: both hands''),[],,False,False,,1
+mais1250-1-11-1,,mais1250-1,11,faketi tautau euki kete sese,faketi tautau euki kete sese,[],,[],,False,False,,1
+mais1250-1-12-1,,mais1250-1,12,faketi tautau euki kete sandei,faketi tautau euki kete sandei,[],,[],,False,False,,1
+mais1250-1-13-1,,mais1250-1,13,faketi tautau euki kete sinati,faketi tautau euki kete sinati,[],,[],,False,False,,1
+mais1250-1-14-1,,mais1250-1,14,faketi tautau euki kete fusese,faketi tautau euki kete fusese,[],,[],,False,False,,1
+mais1250-1-15-1,,mais1250-1,15,faketi tautau euki kete faketi tarosi,faketi tautau euki kete faketi tarosi,[],,[],,False,False,,1
+mais1250-1-16-1,,mais1250-1,16,faketi tautau euki kete 6,faketi tautau euki kete 6,[],,[],,False,True,,1
+mais1250-1-17-1,,mais1250-1,17,faketi tautau euki kete 7,faketi tautau euki kete 7,[],,[],,False,True,,1
+mais1250-1-18-1,,mais1250-1,18,faketi tautau euki kete 8,faketi tautau euki kete 8,[],,[],,False,True,,1
+mais1250-1-19-1,,mais1250-1,19,faketi tautau euki kete 9,faketi tautau euki kete 9,[],,[],,False,True,,1
+mais1250-1-20-1,,mais1250-1,20,tamati sese,tamati sese,[],(lit: ''one man''),[],,False,False,,1
+mais1250-1-21-1,,mais1250-1,21,in the same pattern as 11 to 19,in the same pattern as 11 to 19,[],,[],,False,True,,1
+mais1250-1-30-1,,mais1250-1,30,tamati seseina tamati itere faketi tau tau,tamati seseina tamati itere faketi tau tau,[],,[],,False,False,,1
+mais1250-1-40-1,,mais1250-1,40,tamati sandei,tamati sandei,[],(lit: “two men”),[],,False,False,,1
+mais1250-1-50-1,,mais1250-1,50,tamati sandei tamati itere faketi tau tau,tamati sandei tamati itere faketi tau tau,[],,[],,False,False,,1
+mais1250-1-60-1,,mais1250-1,60,tamati sinati,tamati sinati,[],(lit: “three men”),[],,False,False,,1
+mais1250-1-70-1,,mais1250-1,70,tamati sinati tamati itere faketi tau tau,tamati sinati tamati itere faketi tau tau,[],,[],,False,False,,1
+mais1250-1-80-1,,mais1250-1,80,tamati fusese,tamati fusese,[],(lit: “four men”),[],,False,False,,1
+mais1250-1-90-1,,mais1250-1,90,tamati fusese tamati itere faketi tau tau,tamati fusese tamati itere faketi tau tau,[],,[],,False,False,,1
+mais1250-1-100-1,,mais1250-1,100,tamati faketi tarosi,tamati faketi tarosi,[],(lit: “five men”),[],,False,False,,1

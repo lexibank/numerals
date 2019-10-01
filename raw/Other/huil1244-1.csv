@@ -1,0 +1,55 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+huil1244-1-1-1,,huil1244-1,1,kiñe,kiñe,[],,[],,False,False,,1
+huil1244-1-1-2,,huil1244-1,1,kiɲe,kiɲe,[],,[],,False,False,,1
+huil1244-1-2-1,,huil1244-1,2,epu,epu,[],,[],,False,False,,1
+huil1244-1-2-2,,huil1244-1,2,epu,epu,[],,[],,False,False,,1
+huil1244-1-3-1,,huil1244-1,3,küla,küla,[],,[],,False,False,,1
+huil1244-1-3-2,,huil1244-1,3,kɨla,kɨla,[],,[],,False,False,,1
+huil1244-1-4-1,,huil1244-1,4,meli,meli,[],,[],,False,False,,1
+huil1244-1-4-2,,huil1244-1,4,meli,meli,[],,[],,False,False,,1
+huil1244-1-5-1,,huil1244-1,5,kechu,kechu,[],,[],,False,False,,1
+huil1244-1-5-2,,huil1244-1,5,keču,keču,[],,[],,False,False,,1
+huil1244-1-6-1,,huil1244-1,6,kayu,kayu,[],,[],,False,False,,1
+huil1244-1-6-2,,huil1244-1,6,kaju,kaju,[],,[],,False,False,,1
+huil1244-1-7-1,,huil1244-1,7,s̥eɡle,s̥eɡle,[],,[],,False,False,,1
+huil1244-1-7-2,,huil1244-1,7,ʃeɰle * ?,ʃeɰle * ?,[],,[],,False,True,,1
+huil1244-1-8-1,,huil1244-1,8,pus̥a,pus̥a,[],,[],,False,False,,1
+huil1244-1-8-2,,huil1244-1,8,puʃa,puʃa,[],,[],,False,False,,1
+huil1244-1-8-3,,huil1244-1,8,* ?,* ?,[],,[],,False,True,,1
+huil1244-1-9-1,,huil1244-1,9,aylla,aylla,[],,[],,False,False,,1
+huil1244-1-9-2,,huil1244-1,9,ajʎa,ajʎa,[],,[],,False,False,,1
+huil1244-1-10-1,,huil1244-1,10,mas̥i,mas̥i,[],,[],,False,False,,1
+huil1244-1-10-2,,huil1244-1,10,maʃi,maʃi,[],,[],,False,False,,1
+huil1244-1-11-1,,huil1244-1,11,mas̥i,mas̥i,[],,[],,False,False,,1
+huil1244-1-11-2,,huil1244-1,11,maɻi kiɲe,maɻi kiɲe,[],,[],,False,False,,1
+huil1244-1-12-1,,huil1244-1,12,mas̥i epu,mas̥i epu,[],,[],,False,False,,1
+huil1244-1-13-1,,huil1244-1,13,mas̥i küla,mas̥i küla,[],,[],,False,False,,1
+huil1244-1-14-1,,huil1244-1,14,mas̥i meli,mas̥i meli,[],,[],,False,False,,1
+huil1244-1-15-1,,huil1244-1,15,mas̥i kechu,mas̥i kechu,[],,[],,False,False,,1
+huil1244-1-16-1,,huil1244-1,16,mas̥i kayu,mas̥i kayu,[],,[],,False,False,,1
+huil1244-1-17-1,,huil1244-1,17,mas̥i s̥eɡle,mas̥i s̥eɡle,[],,[],,False,False,,1
+huil1244-1-18-1,,huil1244-1,18,mas̥ipus̥a,mas̥ipus̥a,[],,[],,False,False,,1
+huil1244-1-19-1,,huil1244-1,19,mas̥i aylla,mas̥i aylla,[],,[],,False,False,,1
+huil1244-1-20-1,,huil1244-1,20,epu mas̥i,epu mas̥i,[],,[],,False,False,,1
+huil1244-1-20-2,,huil1244-1,20,epu maɻi ],epu maɻi ],[],,[],,False,True,,1
+huil1244-1-21-1,,huil1244-1,21,epu mas̥i kiñe,epu mas̥i kiñe,[],,[],,False,False,,1
+huil1244-1-22-1,,huil1244-1,22,epu mas̥i epu,epu mas̥i epu,[],,[],,False,False,,1
+huil1244-1-23-1,,huil1244-1,23,epu mas̥i küla,epu mas̥i küla,[],,[],,False,False,,1
+huil1244-1-24-1,,huil1244-1,24,epu mas̥i meli,epu mas̥i meli,[],,[],,False,False,,1
+huil1244-1-25-1,,huil1244-1,25,epu mas̥i kechu,epu mas̥i kechu,[],,[],,False,False,,1
+huil1244-1-26-1,,huil1244-1,26,epu mas̥i kayu,epu mas̥i kayu,[],,[],,False,False,,1
+huil1244-1-27-1,,huil1244-1,27,epu mas̥i s̥eɡle,epu mas̥i s̥eɡle,[],,[],,False,False,,1
+huil1244-1-28-1,,huil1244-1,28,epu mas̥i pus̥a,epu mas̥i pus̥a,[],,[],,False,False,,1
+huil1244-1-29-1,,huil1244-1,29,epu mas̥i aylla,epu mas̥i aylla,[],,[],,False,False,,1
+huil1244-1-30-1,,huil1244-1,30,küla mas̥i,küla mas̥i,[],,[],,False,False,,1
+huil1244-1-40-1,,huil1244-1,40,meli mas̥i,meli mas̥i,[],,[],,False,False,,1
+huil1244-1-50-1,,huil1244-1,50,kechu mari,kechu mari,[],,[],,False,False,,1
+huil1244-1-60-1,,huil1244-1,60,kayu mas̥i,kayu mas̥i,[],,[],,False,False,,1
+huil1244-1-70-1,,huil1244-1,70,s̥eɡle mas̥i,s̥eɡle mas̥i,[],,[],,False,False,,1
+huil1244-1-80-1,,huil1244-1,80,pus̥a mas̥i,pus̥a mas̥i,[],,[],,False,False,,1
+huil1244-1-90-1,,huil1244-1,90,aylla mas̥i,aylla mas̥i,[],,[],,False,False,,1
+huil1244-1-100-1,,huil1244-1,100,pataka,pataka,[],( < Quechua ),[],,True,False,,1
+huil1244-1-200-1,,huil1244-1,200,epu pataka,epu pataka,[],,[],,False,False,,1
+huil1244-1-1000-1,,huil1244-1,1000,was̥angka,was̥angka,[],,[],,False,False,,1
+huil1244-1-1000-2,,huil1244-1,1000,waʃaŋka,waʃaŋka,[],,[],,False,False,,1
+huil1244-1-2000-1,,huil1244-1,2000,epu was̥annka,epu was̥annka,[],,[],,False,False,,1

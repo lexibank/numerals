@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lihi1237-1-1-1,,lihi1237-1,1,a huoo,a huoo,[],,[],,False,False,,1
+lihi1237-1-2-1,,lihi1237-1,2,a loohuoo,a loohuoo,[],,[],,False,False,,1
+lihi1237-1-3-1,,lihi1237-1,3,a laktool,a laktool,[],,[],,False,False,,1
+lihi1237-1-4-1,,lihi1237-1,4,a burut,a burut,[],,[],,False,False,,1
+lihi1237-1-5-1,,lihi1237-1,5,a lieem,a lieem,[],,[],,False,False,,1
+lihi1237-1-6-1,,lihi1237-1,6,a lieem ka huoo,a lieem ka huoo,[],( 5 + 1 ),[],,False,False,,1
+lihi1237-1-7-1,,lihi1237-1,7,a lieem ka loohuoo,a lieem ka loohuoo,[],( 5 + 2 ),[],,False,False,,1
+lihi1237-1-8-1,,lihi1237-1,8,a lieem ka laktool,a lieem ka laktool,[],( 5 + 3 ),[],,False,False,,1
+lihi1237-1-9-1,,lihi1237-1,9,a lieem ka burut,a lieem ka burut,[],( 5 + 4 ),[],,False,False,,1
+lihi1237-1-10-1,,lihi1237-1,10,a loo lieem,a loo lieem,[],( 2 x 5 ),[],,False,False,,1
+lihi1237-1-11-1,,lihi1237-1,11,a loe lieem ka huoo,a loe lieem ka huoo,[],,[],,False,False,,1
+lihi1237-1-12-1,,lihi1237-1,12,a loo lieem ka loohuoo,a loo lieem ka loohuoo,[],,[],,False,False,,1
+lihi1237-1-13-1,,lihi1237-1,13,a loo lieem ka laktool,a loo lieem ka laktool,[],,[],,False,False,,1
+lihi1237-1-14-1,,lihi1237-1,14,a loo lieem ka burut,a loo lieem ka burut,[],,[],,False,False,,1
+lihi1237-1-15-1,,lihi1237-1,15,a laktool lieem,a laktool lieem,[],( 2 x 5 ),[],,False,False,,1
+lihi1237-1-16-1,,lihi1237-1,16,a laktool lieem ka huoo,a laktool lieem ka huoo,[],,[],,False,False,,1
+lihi1237-1-17-1,,lihi1237-1,17,a laktool lieem ka loohuoo,a laktool lieem ka loohuoo,[],,[],,False,False,,1
+lihi1237-1-18-1,,lihi1237-1,18,a laktool lieem ka laktool,a laktool lieem ka laktool,[],,[],,False,False,,1
+lihi1237-1-19-1,,lihi1237-1,19,a laktool lieem ka burut,a laktool lieem ka burut,[],,[],,False,False,,1
+lihi1237-1-20-1,,lihi1237-1,20,a tsiktun,a tsiktun,[],,[],,False,False,,1
+lihi1237-1-21-1,,lihi1237-1,21,a tsiktun ka huoo,a tsiktun ka huoo,[],,[],,False,False,,1
+lihi1237-1-22-1,,lihi1237-1,22,a tsiktun ka loohuoo,a tsiktun ka loohuoo,[],,[],,False,False,,1
+lihi1237-1-23-1,,lihi1237-1,23,a tsiktun ka laktool,a tsiktun ka laktool,[],,[],,False,False,,1
+lihi1237-1-24-1,,lihi1237-1,24,a tsiktun ka burut,a tsiktun ka burut,[],,[],,False,False,,1
+lihi1237-1-25-1,,lihi1237-1,25,a tsiktun ka lieem,a tsiktun ka lieem,[],,[],,False,False,,1
+lihi1237-1-26-1,,lihi1237-1,26,a tsiktun ka lieem ka huoo,a tsiktun ka lieem ka huoo,[],,[],,False,False,,1
+lihi1237-1-27-1,,lihi1237-1,27,a tsiktun ka lieem ka loohuoo,a tsiktun ka lieem ka loohuoo,[],,[],,False,False,,1
+lihi1237-1-28-1,,lihi1237-1,28,a tsiktun ka lieem ka laktool,a tsiktun ka lieem ka laktool,[],,[],,False,False,,1
+lihi1237-1-29-1,,lihi1237-1,29,a tsiktun ka lieem ka burut,a tsiktun ka lieem ka burut,[],,[],,False,False,,1
+lihi1237-1-30-1,,lihi1237-1,30,a tsiktun ka lieem ka loo lieem,a tsiktun ka lieem ka loo lieem,[],,[],,False,False,,1
+lihi1237-1-40-1,,lihi1237-1,40,a loo tsiktun,a loo tsiktun,[],( 2 x 20),[],,False,False,,1
+lihi1237-1-50-1,,lihi1237-1,50,a loo tsiktun ka loo lieem,a loo tsiktun ka loo lieem,[],,[],,False,False,,1
+lihi1237-1-60-1,,lihi1237-1,60,a laktool tsiktun,a laktool tsiktun,[],( 3 x 20),[],,False,False,,1
+lihi1237-1-70-1,,lihi1237-1,70,a laktool tsiktun ka loo lieem,a laktool tsiktun ka loo lieem,[],,[],,False,False,,1
+lihi1237-1-80-1,,lihi1237-1,80,a burut tsiktun,a burut tsiktun,[],( 4 x 20),[],,False,False,,1
+lihi1237-1-90-1,,lihi1237-1,90,a burut tsiktun ka loo lieem,a burut tsiktun ka loo lieem,[],,[],,False,False,,1
+lihi1237-1-100-1,,lihi1237-1,100,a limen tsiktun,a limen tsiktun,[],( 5 x 20),[],,False,False,,1
+lihi1237-1-200-1,,lihi1237-1,200,a loo limen tsiktun,a loo limen tsiktun,[],( 2 x 5 x 20),[],,False,False,,1
+lihi1237-1-500-1,,lihi1237-1,500,a limen limen tsiktun,a limen limen tsiktun,[],( 5 x 5 x 20),[],,False,False,,1
+lihi1237-1-1000-1,,lihi1237-1,1000,a loo limen limen tsiktun,a loo limen limen tsiktun,[],,[],,False,False,,1

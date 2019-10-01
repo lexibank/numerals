@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+waro1242-2-1-1,,waro1242-2,1,si,si,[],,[],,False,False,,2
+waro1242-2-2-1,,waro1242-2,2,ru,ru,[],,[],,False,False,,2
+waro1242-2-3-1,,waro1242-2,3,or,or,[],,[],,False,True,,2
+waro1242-2-4-1,,waro1242-2,4,ak,ak,[],,[],,False,False,,2
+waro1242-2-5-1,,waro1242-2,5,baŋɡei kenano,baŋɡei kenano,[],,[],,False,False,,2
+waro1242-2-5-2,,waro1242-2,5,rimo,rimo,[],,[],,False,False,,2
+waro1242-2-6-1,,waro1242-2,6,baŋɡei kenano toka wosio,baŋɡei kenano toka wosio,[],,[],,False,False,,2
+waro1242-2-6-2,,waro1242-2,6,χono,χono,[],,[],,False,False,,2
+waro1242-2-7-1,,waro1242-2,7,baŋɡei kenano toka woruo,baŋɡei kenano toka woruo,[],,[],,False,False,,2
+waro1242-2-7-2,,waro1242-2,7,χiko,χiko,[],,[],,False,False,,2
+waro1242-2-8-1,,waro1242-2,8,baŋɡei kenano toka oro,baŋɡei kenano toka oro,[],,[],,False,False,,2
+waro1242-2-8-2,,waro1242-2,8,χaro,χaro,[],,[],,False,False,,2
+waro1242-2-9-1,,waro1242-2,9,baŋɡei kenano toka ako,baŋɡei kenano toka ako,[],,[],,False,False,,2
+waro1242-2-9-2,,waro1242-2,9,siχiro,siχiro,[],,[],,False,False,,2
+waro1242-2-10-1,,waro1242-2,10,sauro,sauro,[],,[],,False,False,,2
+waro1242-2-11-1,,waro1242-2,11,sauro toka wosio,sauro toka wosio,[],,[],,False,False,,2
+waro1242-2-12-1,,waro1242-2,12,sauro toka woruo,sauro toka woruo,[],,[],,False,False,,2
+waro1242-2-13-1,,waro1242-2,13,sauro toka oro,sauro toka oro,[],,[],,False,False,,2
+waro1242-2-14-1,,waro1242-2,14,sauro toka ako,sauro toka ako,[],,[],,False,False,,2
+waro1242-2-15-1,,waro1242-2,15,sauro toka baŋɡei kenano,sauro toka baŋɡei kenano,[],,[],,False,False,,2
+waro1242-2-16-1,,waro1242-2,16,sauro toka baŋɡei kena. toka wosio,sauro toka baŋɡei kena. toka wosio,[],,[],,False,True,,2
+waro1242-2-17-1,,waro1242-2,17,sauro toka baŋɡei kena. toka woruo,sauro toka baŋɡei kena. toka woruo,[],,[],,False,True,,2
+waro1242-2-18-1,,waro1242-2,18,sauro toka baŋɡei kena. toka oro,sauro toka baŋɡei kena. toka oro,[],,[],,False,True,,2
+waro1242-2-19-1,,waro1242-2,19,sauro toka baŋɡei kena. toka ako,sauro toka baŋɡei kena. toka ako,[],,[],,False,True,,2
+waro1242-2-20-1,,waro1242-2,20,nuŋɡu,nuŋɡu,[],( litː 'full person'),[],,False,False,,2
+waro1242-2-21-1,,waro1242-2,21,nuŋɡu natio wosio,nuŋɡu natio wosio,[],,[],,False,False,,2
+waro1242-2-22-1,,waro1242-2,22,nuŋɡu natio woruo,nuŋɡu natio woruo,[],,[],,False,False,,2
+waro1242-2-23-1,,waro1242-2,23,nuŋɡu natio oro,nuŋɡu natio oro,[],,[],,False,False,,2
+waro1242-2-24-1,,waro1242-2,24,nuŋɡu natio ako,nuŋɡu natio ako,[],,[],,False,False,,2
+waro1242-2-25-1,,waro1242-2,25,nuŋɡu natio baŋɡei kenano,nuŋɡu natio baŋɡei kenano,[],,[],,False,False,,2
+waro1242-2-26-1,,waro1242-2,26,nuŋɡu natio baŋɡei kenano toka wosio,nuŋɡu natio baŋɡei kenano toka wosio,[],,[],,False,False,,2
+waro1242-2-27-1,,waro1242-2,27,nuŋɡu natio baŋɡei kenano toka woruo,nuŋɡu natio baŋɡei kenano toka woruo,[],,[],,False,False,,2
+waro1242-2-28-1,,waro1242-2,28,nuŋɡu natio baŋɡei kenano toka oro,nuŋɡu natio baŋɡei kenano toka oro,[],,[],,False,False,,2
+waro1242-2-29-1,,waro1242-2,29,nuŋɡu natio baŋɡei kenano toka ako,nuŋɡu natio baŋɡei kenano toka ako,[],,[],,False,False,,2
+waro1242-2-30-1,,waro1242-2,30,nuŋɡu natio ka sauro,nuŋɡu natio ka sauro,[],,[],,False,False,,2
+waro1242-2-40-1,,waro1242-2,40,nuŋɡu nanduo,nuŋɡu nanduo,[],( 20 x 2 ),[],,False,False,,2
+waro1242-2-50-1,,waro1242-2,50,nuŋɡu nanduo ka sauro,nuŋɡu nanduo ka sauro,[],,[],,False,False,,2
+waro1242-2-60-1,,waro1242-2,60,nuŋɡu naŋɡoro,nuŋɡu naŋɡoro,[],( 20 x 3 ),[],,False,False,,2
+waro1242-2-70-1,,waro1242-2,70,nuŋɡu naŋɡoro ka sauro,nuŋɡu naŋɡoro ka sauro,[],,[],,False,False,,2
+waro1242-2-80-1,,waro1242-2,80,nuŋɡu naŋɡako,nuŋɡu naŋɡako,[],( 20 x 4 ),[],,False,False,,2
+waro1242-2-90-1,,waro1242-2,90,nuŋɡu naŋɡako ka sauro,nuŋɡu naŋɡako ka sauro,[],,[],,False,False,,2
+waro1242-2-100-1,,waro1242-2,100,nuŋɡu baŋɡei kenano,nuŋɡu baŋɡei kenano,[],( 20 x 5 ),[],,False,False,,2

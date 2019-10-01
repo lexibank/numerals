@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bang1363-1-1-1,,bang1363-1,1,tòré,tòré,[],,[],,False,False,,1
+bang1363-1-1-2,,bang1363-1,1,tǐyɛ́,tǐyɛ́,[],(in counting ),[],,False,False,,1
+bang1363-1-2-1,,bang1363-1,2,jíndò,jíndò,[],,[],,False,False,,1
+bang1363-1-3-1,,bang1363-1,3,táárù,táárù,[],,[],,False,False,,1
+bang1363-1-4-1,,bang1363-1,4,nìjɛ́,nìjɛ́,[],,[],,False,False,,1
+bang1363-1-5-1,,bang1363-1,5,nǔndí,nǔndí,[],,[],,False,False,,1
+bang1363-1-6-1,,bang1363-1,6,kěré,kěré,[],,[],,False,False,,1
+bang1363-1-7-1,,bang1363-1,7,kǐjé,kǐjé,[],,[],,False,False,,1
+bang1363-1-8-1,,bang1363-1,8,sàáɡín,sàáɡín,[],,[],,False,False,,1
+bang1363-1-9-1,,bang1363-1,9,tɛ́ɡò,tɛ́ɡò,[],,[],,False,False,,1
+bang1363-1-10-1,,bang1363-1,10,kúrɛ́,kúrɛ́,[],,[],,False,False,,1
+bang1363-1-11-1,,bang1363-1,11,kɔ̀ndɔ̀ɡɔ́ tòré,kɔ̀ndɔ̀ɡɔ́ tòré,[],,[],,False,False,,1
+bang1363-1-12-1,,bang1363-1,12,kɔ̀ndɔ̀ɡɔ́ jíndò,kɔ̀ndɔ̀ɡɔ́ jíndò,[],,[],,False,False,,1
+bang1363-1-13-1,,bang1363-1,13,kɔ̀ndɔ̀ɡɔ́ táárù,kɔ̀ndɔ̀ɡɔ́ táárù,[],,[],,False,False,,1
+bang1363-1-14-1,,bang1363-1,14,kɔ̀ndɔ̀ɡɔ́ nìjɛ́,kɔ̀ndɔ̀ɡɔ́ nìjɛ́,[],,[],,False,False,,1
+bang1363-1-15-1,,bang1363-1,15,kɔ̀ndɔ̀ɡɔ́ nǔndí ??,kɔ̀ndɔ̀ɡɔ́ nǔndí ??,[],,[],,False,True,,1
+bang1363-1-16-1,,bang1363-1,16,kɔ̀ndɔ̀ɡɔ́ kěré ??,kɔ̀ndɔ̀ɡɔ́ kěré ??,[],,[],,False,True,,1
+bang1363-1-17-1,,bang1363-1,17,kɔ̀ndɔ̀ɡɔ́ kǐjé ??,kɔ̀ndɔ̀ɡɔ́ kǐjé ??,[],,[],,False,True,,1
+bang1363-1-18-1,,bang1363-1,18,kɔ̀ndɔ̀ɡɔ́ sàáɡín ??,kɔ̀ndɔ̀ɡɔ́ sàáɡín ??,[],,[],,False,True,,1
+bang1363-1-19-1,,bang1363-1,19,kɔ̀ndɔ̀ɡɔ́ tɛ́ɡò ??,kɔ̀ndɔ̀ɡɔ́ tɛ́ɡò ??,[],,[],,False,True,,1
+bang1363-1-20-1,,bang1363-1,20,tàáw̃á,tàáw̃á,[],,[],,False,False,,1
+bang1363-1-21-1,,bang1363-1,21,tàáw̃á tòré ??,tàáw̃á tòré ??,[],,[],,False,True,,1
+bang1363-1-30-1,,bang1363-1,30,tàáwná nà bìjɛ́ kùrɛ́,tàáwná nà bìjɛ́ kùrɛ́,[],( 20 + 10 ),[],,False,False,,1
+bang1363-1-40-1,,bang1363-1,40,dɛ̀ʋɛ́,dɛ̀ʋɛ́,[],,[],,False,False,,1
+bang1363-1-50-1,,bang1363-1,50,dɛ̀ʋɛ́ nà bìjɛ́ kùrɛ́,dɛ̀ʋɛ́ nà bìjɛ́ kùrɛ́,[],( 40 + 10 ),[],,False,False,,1
+bang1363-1-60-1,,bang1363-1,60,tàáwná sǐɡó,tàáwná sǐɡó,[],,[],,False,False,,1
+bang1363-1-70-1,,bang1363-1,70,tàáwná sǐɡó nà bìjɛ́ kùrɛ́,tàáwná sǐɡó nà bìjɛ́ kùrɛ́,[],,[],,False,False,,1
+bang1363-1-80-1,,bang1363-1,80,ʒòórò,ʒòórò,[],,[],,False,False,,1
+bang1363-1-90-1,,bang1363-1,90,ʒòórò nà bìjɛ́ kùrɛ́,ʒòórò nà bìjɛ́ kùrɛ́,[],( 80 + 10 ),[],,False,False,,1
+bang1363-1-100-1,,bang1363-1,100,tɛ̀ɛ̀mɛ̀dɛ́rɛ́,tɛ̀ɛ̀mɛ̀dɛ́rɛ́,[],( < Fulfulde ),[],,True,False,,1
+bang1363-1-200-1,,bang1363-1,200,tɛ̀ɛ̀mɛ̀dɛ́rɛ́ jíndò ??,tɛ̀ɛ̀mɛ̀dɛ́rɛ́ jíndò ??,[],,[],,False,True,,1
+bang1363-1-1000-1,,bang1363-1,1000,mǔʒú,mǔʒú,[],,[],,False,False,,1
+bang1363-1-2000-1,,bang1363-1,2000,mǔʒú jíndò ??,mǔʒú jíndò ??,[],,[],,False,True,,1

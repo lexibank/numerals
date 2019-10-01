@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+rett1240-1-1-1,,rett1240-1,1,anu,anu,[],,[],,False,False,,1
+rett1240-1-2-1,,rett1240-1,2,alo,alo,[],,[],,False,False,,1
+rett1240-1-3-1,,rett1240-1,3,atoɡa,atoɡa,[],,[],,False,False,,1
+rett1240-1-4-1,,rett1240-1,4,ɓuta,ɓuta,[],,[],,False,False,,1
+rett1240-1-5-1,,rett1240-1,5,avehaŋ,avehaŋ,[],,[],,False,False,,1
+rett1240-1-6-1,,rett1240-1,6,talaauŋ,talaauŋ,[],,[],,False,False,,1
+rett1240-1-7-1,,rett1240-1,7,bititoɡa,bititoɡa,[],('seven three'),[],,False,False,,1
+rett1240-1-8-1,,rett1240-1,8,tulalo,tulalo,[],('five two'),[],,False,False,,1
+rett1240-1-9-1,,rett1240-1,9,tukanu,tukanu,[],( 'ten minus one'),[],,False,False,,1
+rett1240-1-10-1,,rett1240-1,10,karanu,karanu,[],,[],,False,False,,1
+rett1240-1-11-1,,rett1240-1,11,karanu vaaluŋ anu,karanu vaaluŋ anu,[],,[],,False,False,,1
+rett1240-1-12-1,,rett1240-1,12,karanu vaaluŋ alo,karanu vaaluŋ alo,[],,[],,False,False,,1
+rett1240-1-13-1,,rett1240-1,13,karanu vaaluŋ atoɡa,karanu vaaluŋ atoɡa,[],,[],,False,False,,1
+rett1240-1-14-1,,rett1240-1,14,karanu vaaluŋ ɓuta,karanu vaaluŋ ɓuta,[],,[],,False,False,,1
+rett1240-1-15-1,,rett1240-1,15,karanu vaaluŋ avehaŋ,karanu vaaluŋ avehaŋ,[],,[],,False,False,,1
+rett1240-1-16-1,,rett1240-1,16,karanu vaaluŋ talaauŋ,karanu vaaluŋ talaauŋ,[],,[],,False,False,,1
+rett1240-1-17-1,,rett1240-1,17,karanu vaaluŋ bititoɡa,karanu vaaluŋ bititoɡa,[],,[],,False,False,,1
+rett1240-1-18-1,,rett1240-1,18,karanu vaaluŋ tulalo,karanu vaaluŋ tulalo,[],,[],,False,False,,1
+rett1240-1-19-1,,rett1240-1,19,karanu vaaluŋ tukanu,karanu vaaluŋ tukanu,[],,[],,False,False,,1
+rett1240-1-20-1,,rett1240-1,20,karaalo,karaalo,[],,[],,False,False,,1
+rett1240-1-21-1,,rett1240-1,21,karalo vaaluŋ anu,karalo vaaluŋ anu,[],,[],,False,False,,1
+rett1240-1-22-1,,rett1240-1,22,karalo vaaluŋ alo,karalo vaaluŋ alo,[],,[],,False,False,,1
+rett1240-1-23-1,,rett1240-1,23,karalo vaaluŋ atoɡa,karalo vaaluŋ atoɡa,[],,[],,False,False,,1
+rett1240-1-24-1,,rett1240-1,24,karalo vaaluŋ ɓuta,karalo vaaluŋ ɓuta,[],,[],,False,False,,1
+rett1240-1-25-1,,rett1240-1,25,karalo vaaluŋ avehaŋ,karalo vaaluŋ avehaŋ,[],,[],,False,False,,1
+rett1240-1-26-1,,rett1240-1,26,karalo vaaluŋ talaauŋ,karalo vaaluŋ talaauŋ,[],,[],,False,False,,1
+rett1240-1-27-1,,rett1240-1,27,karalo vaaluŋ bititoɡa,karalo vaaluŋ bititoɡa,[],,[],,False,False,,1
+rett1240-1-28-1,,rett1240-1,28,karalo vaaluŋ tulalo,karalo vaaluŋ tulalo,[],,[],,False,False,,1
+rett1240-1-29-1,,rett1240-1,29,karalo vaaluŋ tukanu,karalo vaaluŋ tukanu,[],,[],,False,False,,1
+rett1240-1-30-1,,rett1240-1,30,karaatoɡa,karaatoɡa,[],,[],,False,False,,1
+rett1240-1-40-1,,rett1240-1,40,karaɓuta,karaɓuta,[],,[],,False,False,,1
+rett1240-1-50-1,,rett1240-1,50,karaavehaŋ,karaavehaŋ,[],,[],,False,False,,1
+rett1240-1-60-1,,rett1240-1,60,karatalaauŋ,karatalaauŋ,[],,[],,False,False,,1
+rett1240-1-70-1,,rett1240-1,70,karabititoɡa,karabititoɡa,[],,[],,False,False,,1
+rett1240-1-80-1,,rett1240-1,80,karatulalo,karatulalo,[],,[],,False,False,,1
+rett1240-1-90-1,,rett1240-1,90,karatukanu,karatukanu,[],,[],,False,False,,1
+rett1240-1-100-1,,rett1240-1,100,raatu anu,raatu anu,[],,[],,False,False,,1
+rett1240-1-100-2,,rett1240-1,100,200. 100. raatu alo,200. 100. raatu alo,[],,[],,False,True,,1
+rett1240-1-400-1,,rett1240-1,400,raatu ɓuta,raatu ɓuta,[],,[],,False,False,,1
+rett1240-1-400-2,,rett1240-1,400,800. raatu tulalo,800. raatu tulalo,[],,[],,False,True,,1
+rett1240-1-1000-1,,rett1240-1,1000,ribu anu,ribu anu,[],,[],,False,False,,1
+rett1240-1-2000-1,,rett1240-1,2000,ribu alo,ribu alo,[],,[],,False,False,,1

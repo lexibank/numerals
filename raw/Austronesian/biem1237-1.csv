@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+biem1237-1-1-1,,biem1237-1,1,tini,tini,[],,[],,False,False,,1
+biem1237-1-2-1,,biem1237-1,2,ɑru,ɑru,[],,[],,False,False,,1
+biem1237-1-3-1,,biem1237-1,3,tuɛl,tuɛl,[],,[],,False,False,,1
+biem1237-1-4-1,,biem1237-1,4,kiki,kiki,[],,[],,False,False,,1
+biem1237-1-5-1,,biem1237-1,5,kiki be kubwɑ,kiki be kubwɑ,[],(4+1),[],,False,False,,1
+biem1237-1-6-1,,biem1237-1,6,kiki be ɑrɛɡdiru,kiki be ɑrɛɡdiru,[],(4+2),[],,False,False,,1
+biem1237-1-7-1,,biem1237-1,7,kiki be ɑrɛɡdituɛl,kiki be ɑrɛɡdituɛl,[],(4+3),[],,False,False,,1
+biem1237-1-8-1,,biem1237-1,8,kiki ru,kiki ru,[],(4 x 2),[],,False,False,,1
+biem1237-1-9-1,,biem1237-1,9,kiki ru be kubwɑ,kiki ru be kubwɑ,[],[(4 x 2 )+1],[],,False,False,,1
+biem1237-1-10-1,,biem1237-1,10,kiki ru be ɑrɛɡdiru,kiki ru be ɑrɛɡdiru,[],[(4 x 2 )+2],[],,False,False,,1
+biem1237-1-11-1,,biem1237-1,11,kiki ru be ɑrɛɡdituɛl,kiki ru be ɑrɛɡdituɛl,[],[(4 x 2 )+3],[],,False,False,,1
+biem1237-1-12-1,,biem1237-1,12,kiki tuɛl,kiki tuɛl,[],(4 x 3),[],,False,False,,1
+biem1237-1-13-1,,biem1237-1,13,kiki tuɛl be kubwɑ,kiki tuɛl be kubwɑ,[],[(4 x 3 )+1],[],,False,False,,1
+biem1237-1-14-1,,biem1237-1,14,kiki tuɛl be ɑrɛɡdiru,kiki tuɛl be ɑrɛɡdiru,[],[(4 x 3 )+2],[],,False,False,,1
+biem1237-1-15-1,,biem1237-1,15,kiki tuɛl be ɑrɛɡdituɛl,kiki tuɛl be ɑrɛɡdituɛl,[],[(4 x 3 )+3],[],,False,False,,1
+biem1237-1-16-1,,biem1237-1,16,kiki ɔt,kiki ɔt,[],(4 x 4),[],,False,False,,1
+biem1237-1-17-1,,biem1237-1,17,kiki ɔt be kubwɑ,kiki ɔt be kubwɑ,[],[(4 x 4 )+1],[],,False,False,,1
+biem1237-1-18-1,,biem1237-1,18,kiki ɔt be ɑrɛɡdiru,kiki ɔt be ɑrɛɡdiru,[],[(4 x 4 )+2],[],,False,False,,1
+biem1237-1-19-1,,biem1237-1,19,kiki ɔt be ɑrɛɡdituɛl,kiki ɔt be ɑrɛɡdituɛl,[],[(4 x 4 )+3],[],,False,False,,1
+biem1237-1-20-1,,biem1237-1,20,lim,lim,[],,[],,False,False,,1
+biem1237-1-21-1,,biem1237-1,21,lim be tini,lim be tini,[],,[],,False,False,,1
+biem1237-1-22-1,,biem1237-1,22,lim be ɑru,lim be ɑru,[],,[],,False,False,,1
+biem1237-1-23-1,,biem1237-1,23,lim be tuɛl,lim be tuɛl,[],,[],,False,False,,1
+biem1237-1-24-1,,biem1237-1,24,lim be kiki,lim be kiki,[],,[],,False,False,,1
+biem1237-1-25-1,,biem1237-1,25,lim be kiki be kubwɑ,lim be kiki be kubwɑ,[],,[],,False,False,,1
+biem1237-1-26-1,,biem1237-1,26,lim be kiki be ɑrɛɡdiru,lim be kiki be ɑrɛɡdiru,[],,[],,False,False,,1
+biem1237-1-27-1,,biem1237-1,27,lim be kiki be ɑrɛɡdituɛl,lim be kiki be ɑrɛɡdituɛl,[],,[],,False,False,,1
+biem1237-1-28-1,,biem1237-1,28,lim be kiki ru,lim be kiki ru,[],,[],,False,False,,1
+biem1237-1-29-1,,biem1237-1,29,lim be kiki ru be kubwɑ,lim be kiki ru be kubwɑ,[],,[],,False,False,,1
+biem1237-1-30-1,,biem1237-1,30,lim be kiki ru be ɑrɛɡdiru,lim be kiki ru be ɑrɛɡdiru,[],,[],,False,False,,1
+biem1237-1-31-1,,biem1237-1,31,lim be kiki ru be ɑrɛɡdituɛl,lim be kiki ru be ɑrɛɡdituɛl,[],,[],,False,False,,1
+biem1237-1-32-1,,biem1237-1,32,lim be kiki tuɛl,lim be kiki tuɛl,[],,[],,False,False,,1
+biem1237-1-33-1,,biem1237-1,33,lim be kiki tuɛl be kubwɑ,lim be kiki tuɛl be kubwɑ,[],,[],,False,False,,1
+biem1237-1-34-1,,biem1237-1,34,lim be kiki tuɛl be ɑrɛɡdiru,lim be kiki tuɛl be ɑrɛɡdiru,[],,[],,False,False,,1
+biem1237-1-35-1,,biem1237-1,35,lim be kiki tuɛl be ɑrɛɡdituɛl,lim be kiki tuɛl be ɑrɛɡdituɛl,[],,[],,False,False,,1
+biem1237-1-36-1,,biem1237-1,36,lim be kiki ɔt,lim be kiki ɔt,[],,[],,False,False,,1
+biem1237-1-37-1,,biem1237-1,37,lim be kiki ɔt be kubwɑ,lim be kiki ɔt be kubwɑ,[],,[],,False,False,,1
+biem1237-1-38-1,,biem1237-1,38,lim be kiki ɔt be ɑrɛɡdiru,lim be kiki ɔt be ɑrɛɡdiru,[],,[],,False,False,,1
+biem1237-1-39-1,,biem1237-1,39,lim be kiki ɔt be ɑrɛɡdituɛl,lim be kiki ɔt be ɑrɛɡdituɛl,[],,[],,False,False,,1
+biem1237-1-40-1,,biem1237-1,40,kolɛm,kolɛm,[],,[],,False,False,,1

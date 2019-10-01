@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sint1235-1-1-1,,sint1235-1,1,jek,jek,[],,[],,False,False,,1
+sint1235-1-2-1,,sint1235-1,2,duj,duj,[],,[],,False,False,,1
+sint1235-1-3-1,,sint1235-1,3,trin,trin,[],,[],,False,False,,1
+sint1235-1-4-1,,sint1235-1,4,schtar,schtar,[],,[],,False,False,,1
+sint1235-1-5-1,,sint1235-1,5,pantsch,pantsch,[],,[],,False,False,,1
+sint1235-1-6-1,,sint1235-1,6,schop,schop,[],,[],,False,False,,1
+sint1235-1-6-2,,sint1235-1,6,schow,schow,[],,[],,False,False,,1
+sint1235-1-7-1,,sint1235-1,7,efta,efta,[],< Greek ,[],,True,False,,1
+sint1235-1-8-1,,sint1235-1,8,ochto,ochto,[],< Greek ,[],,True,False,,1
+sint1235-1-9-1,,sint1235-1,9,enja,enja,[],< Greek ,[],,True,False,,1
+sint1235-1-10-1,,sint1235-1,10,desch,desch,[],,[],,False,False,,1
+sint1235-1-11-1,,sint1235-1,11,desch-jek,desch-jek,[],,[],,False,False,,1
+sint1235-1-12-1,,sint1235-1,12,desch-duj,desch-duj,[],,[],,False,False,,1
+sint1235-1-13-1,,sint1235-1,13,desch-trin,desch-trin,[],,[],,False,False,,1
+sint1235-1-14-1,,sint1235-1,14,desch-schtar,desch-schtar,[],,[],,False,False,,1
+sint1235-1-15-1,,sint1235-1,15,desch-pantsch,desch-pantsch,[],,[],,False,False,,1
+sint1235-1-16-1,,sint1235-1,16,desch-schop,desch-schop,[],,[],,False,False,,1
+sint1235-1-17-1,,sint1235-1,17,desch-efta,desch-efta,[],,[],,False,False,,1
+sint1235-1-18-1,,sint1235-1,18,desch-ochto,desch-ochto,[],,[],,False,False,,1
+sint1235-1-19-1,,sint1235-1,19,desch-enja,desch-enja,[],,[],,False,False,,1
+sint1235-1-20-1,,sint1235-1,20,bisch,bisch,[],,[],,False,False,,1
+sint1235-1-21-1,,sint1235-1,21,bisch-jek,bisch-jek,[],,[],,False,False,,1
+sint1235-1-22-1,,sint1235-1,22,bisch-duj,bisch-duj,[],,[],,False,False,,1
+sint1235-1-23-1,,sint1235-1,23,bisch-trin,bisch-trin,[],,[],,False,False,,1
+sint1235-1-24-1,,sint1235-1,24,bisch-schtar,bisch-schtar,[],,[],,False,False,,1
+sint1235-1-25-1,,sint1235-1,25,bisch-pantsch,bisch-pantsch,[],,[],,False,False,,1
+sint1235-1-26-1,,sint1235-1,26,bisch-schop,bisch-schop,[],,[],,False,False,,1
+sint1235-1-27-1,,sint1235-1,27,bisch-efta,bisch-efta,[],,[],,False,False,,1
+sint1235-1-28-1,,sint1235-1,28,bisch-ochto,bisch-ochto,[],,[],,False,False,,1
+sint1235-1-29-1,,sint1235-1,29,bisch-enja,bisch-enja,[],,[],,False,False,,1
+sint1235-1-30-1,,sint1235-1,30,bisch te desch,bisch te desch,[],,[],,False,False,,1
+sint1235-1-40-1,,sint1235-1,40,duj bisch,duj bisch,[],( 2 x 20),[],,False,False,,1
+sint1235-1-50-1,,sint1235-1,50,pasch schel,pasch schel,[],( half hundred),[],,False,False,,1
+sint1235-1-60-1,,sint1235-1,60,trin bisch,trin bisch,[],( 3 x 20),[],,False,False,,1
+sint1235-1-80-1,,sint1235-1,80,schtar bisch,schtar bisch,[],( 4 x 20),[],,False,False,,1
+sint1235-1-100-1,,sint1235-1,100,schel,schel,[],,[],,False,False,,1
+sint1235-1-200-1,,sint1235-1,200,duj schel,duj schel,[],,[],,False,False,,1
+sint1235-1-1000-1,,sint1235-1,1000,tausento,tausento,[],< German ,[],,True,False,,1
+sint1235-1-1000-2,,sint1235-1,1000,desch schel,desch schel,[],,[],,False,False,,1
+sint1235-1-2000-1,,sint1235-1,2000,duj tausenti,duj tausenti,[],,[],,False,False,,1

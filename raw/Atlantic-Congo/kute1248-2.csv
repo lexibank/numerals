@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kute1248-2-1-1,,kute1248-2,1,kínzō,kínzō,[],,[],,False,False,,2
+kute1248-2-2-1,,kute1248-2,2,ifaen,ifaen,[],,[],,False,False,,2
+kute1248-2-3-1,,kute1248-2,3,itā,itā,[],,[],,False,False,,2
+kute1248-2-4-1,,kute1248-2,4,inje,inje,[],,[],,False,False,,2
+kute1248-2-5-1,,kute1248-2,5,itsóŋ,itsóŋ,[],,[],,False,False,,2
+kute1248-2-6-1,,kute1248-2,6,itsóŋ-nzō,itsóŋ-nzō,[],( 5+ 1 ),[],,False,False,,2
+kute1248-2-7-1,,kute1248-2,7,itsóŋ-faen,itsóŋ-faen,[],( 5+ 2 ),[],,False,False,,2
+kute1248-2-8-1,,kute1248-2,8,itsóŋ-tā,itsóŋ-tā,[],( 5+ 3 ),[],,False,False,,2
+kute1248-2-9-1,,kute1248-2,9,itsóŋ-nje,itsóŋ-nje,[],( 5+ 4 ),[],,False,False,,2
+kute1248-2-10-1,,kute1248-2,10,rijwēr,rijwēr,[],,[],,False,False,,2
+kute1248-2-11-1,,kute1248-2,11,rijwēr-sū-kínzō,rijwēr-sū-kínzō,[],,[],,False,False,,2
+kute1248-2-12-1,,kute1248-2,12,rijwēr-sū-faen,rijwēr-sū-faen,[],,[],,False,False,,2
+kute1248-2-13-1,,kute1248-2,13,rijwēr-sū-tā,rijwēr-sū-tā,[],,[],,False,False,,2
+kute1248-2-14-1,,kute1248-2,14,rijwēr-sū-nje,rijwēr-sū-nje,[],,[],,False,False,,2
+kute1248-2-15-1,,kute1248-2,15,rijwēr-sū-tsóŋ,rijwēr-sū-tsóŋ,[],,[],,False,False,,2
+kute1248-2-16-1,,kute1248-2,16,rijwēr-sū-tsóŋ-nzō,rijwēr-sū-tsóŋ-nzō,[],,[],,False,False,,2
+kute1248-2-17-1,,kute1248-2,17,rijwēr-sū-tsóŋ-faen,rijwēr-sū-tsóŋ-faen,[],,[],,False,False,,2
+kute1248-2-18-1,,kute1248-2,18,rijwēr-sū-tsóŋ-tā,rijwēr-sū-tsóŋ-tā,[],,[],,False,False,,2
+kute1248-2-19-1,,kute1248-2,19,rijwēr-sū-tsóŋ-nje,rijwēr-sū-tsóŋ-nje,[],,[],,False,False,,2
+kute1248-2-20-1,,kute1248-2,20,rikōm,rikōm,[],,[],,False,False,,2
+kute1248-2-21-1,,kute1248-2,21,rikōm-sū-kínzō,rikōm-sū-kínzō,[],,[],,False,False,,2
+kute1248-2-22-1,,kute1248-2,22,rikōm-sū-faen,rikōm-sū-faen,[],,[],,False,False,,2
+kute1248-2-23-1,,kute1248-2,23,rikōm-sū-tā,rikōm-sū-tā,[],,[],,False,False,,2
+kute1248-2-24-1,,kute1248-2,24,rikōm-sū-nje,rikōm-sū-nje,[],,[],,False,False,,2
+kute1248-2-25-1,,kute1248-2,25,rikōm-sū-tsóŋ,rikōm-sū-tsóŋ,[],,[],,False,False,,2
+kute1248-2-26-1,,kute1248-2,26,rikōm-sū-tsóŋ-nzō,rikōm-sū-tsóŋ-nzō,[],,[],,False,False,,2
+kute1248-2-27-1,,kute1248-2,27,rikōm-sū-tsóŋ-faen,rikōm-sū-tsóŋ-faen,[],,[],,False,False,,2
+kute1248-2-28-1,,kute1248-2,28,rikōm-sū-tsóŋ-tā,rikōm-sū-tsóŋ-tā,[],,[],,False,False,,2
+kute1248-2-29-1,,kute1248-2,29,rikōm-sū-tsóŋ-nje,rikōm-sū-tsóŋ-nje,[],,[],,False,False,,2
+kute1248-2-30-1,,kute1248-2,30,rikōm-sū-rijwēr,rikōm-sū-rijwēr,[],,[],,False,False,,2
+kute1248-2-30-2,,kute1248-2,30,rijwēr tā,rijwēr tā,[],,[],,False,False,,2
+kute1248-2-40-1,,kute1248-2,40,mae-ifaen,mae-ifaen,[],,[],,False,False,,2
+kute1248-2-40-2,,kute1248-2,40,mae-rikōm-faen,mae-rikōm-faen,[],,[],,False,False,,2
+kute1248-2-50-1,,kute1248-2,50,mae-ifaen-mbé-rijwēr,mae-ifaen-mbé-rijwēr,[],,[],,False,False,,2
+kute1248-2-60-1,,kute1248-2,60,mae-itā,mae-itā,[],( 20 x 3 ),[],,False,False,,2
+kute1248-2-70-1,,kute1248-2,70,mae-itā-mbé-rijwēr,mae-itā-mbé-rijwēr,[],,[],,False,False,,2
+kute1248-2-80-1,,kute1248-2,80,mae-inje,mae-inje,[],( 20 x 4 ),[],,False,False,,2
+kute1248-2-90-1,,kute1248-2,90,mae-inje -mbé-rijwēr,mae-inje -mbé-rijwēr,[],,[],,False,False,,2
+kute1248-2-100-1,,kute1248-2,100,mae-itsóŋ,mae-itsóŋ,[],( 20 x 5 ),[],,False,False,,2
+kute1248-2-100-2,,kute1248-2,100,derī,derī,[],( < Hausa ),[],,True,False,,2
+kute1248-2-200-1,,kute1248-2,200,mae-rijwēr,mae-rijwēr,[],,[],,False,False,,2
+kute1248-2-200-2,,kute1248-2,200,derī ifaen,derī ifaen,[],,[],,False,False,,2
+kute1248-2-1000-1,,kute1248-2,1000,dúbú,dúbú,[],( < Hausa ),[],,True,False,,2
+kute1248-2-2000-1,,kute1248-2,2000,dúbú ifaen,dúbú ifaen,[],,[],,False,False,,2

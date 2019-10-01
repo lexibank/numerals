@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kofy1242-1-1-1,,kofy1242-1,1,mé,mé,[],,[],,False,False,,1
+kofy1242-1-2-1,,kofy1242-1,2,vəl,vəl,[],,[],,False,False,,1
+kofy1242-1-3-1,,kofy1242-1,3,kún,kún,[],,[],,False,False,,1
+kofy1242-1-4-1,,kofy1242-1,4,féer,féer,[],,[],,False,False,,1
+kofy1242-1-5-1,,kofy1242-1,5,paàt,paàt,[],,[],,False,False,,1
+kofy1242-1-6-1,,kofy1242-1,6,pèmə,pèmə,[],( 5 + 1 ),[],,False,False,,1
+kofy1242-1-7-1,,kofy1242-1,7,pòɡòvəl,pòɡòvəl,[],( 5 + 2 ),[],,False,False,,1
+kofy1242-1-8-1,,kofy1242-1,8,pòɡòkun,pòɡòkun,[],( 5 + 3 ),[],,False,False,,1
+kofy1242-1-9-1,,kofy1242-1,9,pòɡòfár,pòɡòfár,[],( 5 + 4 ),[],,False,False,,1
+kofy1242-1-10-1,,kofy1242-1,10,sàr,sàr,[],,[],,False,False,,1
+kofy1242-1-11-1,,kofy1242-1,11,sár kà kúme,sár kà kúme,[],,[],,False,False,,1
+kofy1242-1-12-1,,kofy1242-1,12,sár kà və́l,sár kà və́l,[],,[],,False,False,,1
+kofy1242-1-13-1,,kofy1242-1,13,sár kà kún,sár kà kún,[],,[],,False,False,,1
+kofy1242-1-14-1,,kofy1242-1,14,sár kà féer,sár kà féer,[],,[],,False,False,,1
+kofy1242-1-15-1,,kofy1242-1,15,sár kà paàt,sár kà paàt,[],,[],,False,False,,1
+kofy1242-1-16-1,,kofy1242-1,16,sár kà pèmə,sár kà pèmə,[],,[],,False,False,,1
+kofy1242-1-17-1,,kofy1242-1,17,sár kà pòɡòvəl,sár kà pòɡòvəl,[],,[],,False,False,,1
+kofy1242-1-18-1,,kofy1242-1,18,sár kà pòɡòkun,sár kà pòɡòkun,[],,[],,False,False,,1
+kofy1242-1-19-1,,kofy1242-1,19,sár kà pòɡòfár,sár kà pòɡòfár,[],,[],,False,False,,1
+kofy1242-1-20-1,,kofy1242-1,20,yàmɛɡwo,yàmɛɡwo,[],,[],,False,False,,1
+kofy1242-1-20-2,,kofy1242-1,20,yagurum,yagurum,[],,[],,False,False,,1
+kofy1242-1-21-1,,kofy1242-1,21,yagurum ká kúme,yagurum ká kúme,[],,[],,False,False,,1
+kofy1242-1-22-1,,kofy1242-1,22,yagurum ká vəl,yagurum ká vəl,[],,[],,False,False,,1
+kofy1242-1-23-1,,kofy1242-1,23,yagurum ká kún,yagurum ká kún,[],,[],,False,False,,1
+kofy1242-1-24-1,,kofy1242-1,24,yagurum ká féer,yagurum ká féer,[],,[],,False,False,,1
+kofy1242-1-25-1,,kofy1242-1,25,yagurum ká paàt,yagurum ká paàt,[],,[],,False,False,,1
+kofy1242-1-26-1,,kofy1242-1,26,yagurum ká pèmə,yagurum ká pèmə,[],,[],,False,False,,1
+kofy1242-1-27-1,,kofy1242-1,27,yagurum ká pòɡòvəl,yagurum ká pòɡòvəl,[],,[],,False,False,,1
+kofy1242-1-28-1,,kofy1242-1,28,yagurum ká pòɡòkun,yagurum ká pòɡòkun,[],,[],,False,False,,1
+kofy1242-1-29-1,,kofy1242-1,29,yagurum ká pòɡòfár,yagurum ká pòɡòfár,[],,[],,False,False,,1
+kofy1242-1-30-1,,kofy1242-1,30,yagurum ká sàr,yagurum ká sàr,[],,[],,False,False,,1
+kofy1242-1-40-1,,kofy1242-1,40,yagurum vəl,yagurum vəl,[],( 20 x 2 ),[],,False,False,,1
+kofy1242-1-50-1,,kofy1242-1,50,yagurum vəl ká sar,yagurum vəl ká sar,[],,[],,False,False,,1
+kofy1242-1-60-1,,kofy1242-1,60,yagurum kún,yagurum kún,[],( 20 x 3 ),[],,False,False,,1
+kofy1242-1-70-1,,kofy1242-1,70,yagurum kún ká sar,yagurum kún ká sar,[],,[],,False,False,,1
+kofy1242-1-80-1,,kofy1242-1,80,yagurum féer,yagurum féer,[],( 20 x 4 ),[],,False,False,,1
+kofy1242-1-90-1,,kofy1242-1,90,yagurum féer ká sar,yagurum féer ká sar,[],,[],,False,False,,1
+kofy1242-1-100-1,,kofy1242-1,100,yagurum paàt,yagurum paàt,[],( 20 x 5 ),[],,False,False,,1
+kofy1242-1-200-1,,kofy1242-1,200,yagurum sár,yagurum sár,[],( 20 x 10 ),[],,False,False,,1
+kofy1242-1-400-1,,kofy1242-1,400,yagurum ká sar ba cin sar,yagurum ká sar ba cin sar,[],,[],,False,False,,1

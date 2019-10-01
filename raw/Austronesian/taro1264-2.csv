@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+taro1264-2-1-1,,taro1264-2,1,kiŋal,kiŋal,[],,[],,False,False,,2
+taro1264-2-2-1,,taro1264-2,2,daha,daha,[],,[],,False,False,,2
+taro1264-2-3-1,,taro1264-2,3,teru,teru,[],,[],,False,False,,2
+taro1264-2-4-1,,taro1264-2,4,sepac,sepac,[],,[],,False,False,,2
+taro1264-2-5-1,,taro1264-2,5,rima,rima,[],,[],,False,False,,2
+taro1264-2-6-1,,taro1264-2,6,mteru,mteru,[],( 2 x 3 ),[],,False,False,,2
+taro1264-2-7-1,,taro1264-2,7,mpitu,mpitu,[],,[],,False,False,,2
+taro1264-2-8-1,,taro1264-2,8,msepac,msepac,[],( 2 x 4 ),[],,False,False,,2
+taro1264-2-9-1,,taro1264-2,9,mŋari,mŋari,[],,[],,False,False,,2
+taro1264-2-10-1,,taro1264-2,10,maxal,maxal,[],,[],,False,False,,2
+taro1264-2-11-1,,taro1264-2,11,maxal kiŋal,maxal kiŋal,[],,[],,False,False,,2
+taro1264-2-12-1,,taro1264-2,12,maxal daha,maxal daha,[],,[],,False,False,,2
+taro1264-2-13-1,,taro1264-2,13,maxal teru,maxal teru,[],,[],,False,False,,2
+taro1264-2-14-1,,taro1264-2,14,maxal sepac,maxal sepac,[],,[],,False,False,,2
+taro1264-2-15-1,,taro1264-2,15,maxal rima,maxal rima,[],,[],,False,False,,2
+taro1264-2-16-1,,taro1264-2,16,maxal mteru,maxal mteru,[],,[],,False,False,,2
+taro1264-2-17-1,,taro1264-2,17,maxal mpitu,maxal mpitu,[],,[],,False,False,,2
+taro1264-2-18-1,,taro1264-2,18,maxal msepac,maxal msepac,[],,[],,False,False,,2
+taro1264-2-19-1,,taro1264-2,19,maxal mŋari,maxal mŋari,[],,[],,False,False,,2
+taro1264-2-20-1,,taro1264-2,20,mapusal,mapusal,[],,[],,False,False,,2
+taro1264-2-21-1,,taro1264-2,21,mapusal kiŋal,mapusal kiŋal,[],,[],,False,False,,2
+taro1264-2-22-1,,taro1264-2,22,mapusal daha,mapusal daha,[],,[],,False,False,,2
+taro1264-2-23-1,,taro1264-2,23,mapusal teru,mapusal teru,[],,[],,False,False,,2
+taro1264-2-24-1,,taro1264-2,24,mapusal sepac,mapusal sepac,[],,[],,False,False,,2
+taro1264-2-25-1,,taro1264-2,25,mapusal rima,mapusal rima,[],,[],,False,False,,2
+taro1264-2-26-1,,taro1264-2,26,mapusal mteru,mapusal mteru,[],,[],,False,False,,2
+taro1264-2-27-1,,taro1264-2,27,mapusal mpitu,mapusal mpitu,[],,[],,False,False,,2
+taro1264-2-28-1,,taro1264-2,28,mapusal msepac,mapusal msepac,[],,[],,False,False,,2
+taro1264-2-29-1,,taro1264-2,29,mapusal mŋari,mapusal mŋari,[],,[],,False,False,,2
+taro1264-2-30-1,,taro1264-2,30,mterul,mterul,[],,[],,False,False,,2
+taro1264-2-40-1,,taro1264-2,40,mspatul,mspatul,[],,[],,False,False,,2
+taro1264-2-50-1,,taro1264-2,50,mrimal,mrimal,[],,[],,False,False,,2
+taro1264-2-60-1,,taro1264-2,60,mteru kmxalal,mteru kmxalal,[],,[],,False,False,,2
+taro1264-2-70-1,,taro1264-2,70,mpitu kmxalal,mpitu kmxalal,[],,[],,False,False,,2
+taro1264-2-80-1,,taro1264-2,80,msepac kmxalal,msepac kmxalal,[],,[],,False,False,,2
+taro1264-2-90-1,,taro1264-2,90,mŋari kmxalal,mŋari kmxalal,[],,[],,False,False,,2
+taro1264-2-100-1,,taro1264-2,100,kbekuy,kbekuy,[],,[],,False,False,,2
+taro1264-2-200-1,,taro1264-2,200,daha kbekuy,daha kbekuy,[],,[],,False,False,,2
+taro1264-2-1000-1,,taro1264-2,1000,maxal kbekuy,maxal kbekuy,[],( 10 x 100 ),[],,False,False,,2
+taro1264-2-2000-1,,taro1264-2,2000,mapusal kbekuy,mapusal kbekuy,[],( 20 x 100 ),[],,False,False,,2

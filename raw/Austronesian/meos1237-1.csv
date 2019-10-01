@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+meos1237-1-1-1,,meos1237-1,1,yoser,yoser,[],,[],,False,False,,1
+meos1237-1-2-1,,meos1237-1,2,suru,suru,[],,[],,False,False,,1
+meos1237-1-3-1,,meos1237-1,3,kior,kior,[],,[],,False,False,,1
+meos1237-1-4-1,,meos1237-1,4,fak,fak,[],,[],,False,False,,1
+meos1237-1-5-1,,meos1237-1,5,rim,rim,[],,[],,False,False,,1
+meos1237-1-6-1,,meos1237-1,6,wonem,wonem,[],,[],,False,False,,1
+meos1237-1-7-1,,meos1237-1,7,fik,fik,[],,[],,False,False,,1
+meos1237-1-8-1,,meos1237-1,8,war,war,[],,[],,False,False,,1
+meos1237-1-9-1,,meos1237-1,9,siw,siw,[],,[],,False,False,,1
+meos1237-1-10-1,,meos1237-1,10,samfur,samfur,[],,[],,False,False,,1
+meos1237-1-11-1,,meos1237-1,11,samfur yoser,samfur yoser,[],,[],,False,False,,1
+meos1237-1-12-1,,meos1237-1,12,samfur suru,samfur suru,[],,[],,False,False,,1
+meos1237-1-13-1,,meos1237-1,13,samfur kior,samfur kior,[],,[],,False,False,,1
+meos1237-1-14-1,,meos1237-1,14,samfur fak,samfur fak,[],,[],,False,False,,1
+meos1237-1-15-1,,meos1237-1,15,samfur rim,samfur rim,[],,[],,False,False,,1
+meos1237-1-16-1,,meos1237-1,16,samfur wonem,samfur wonem,[],,[],,False,False,,1
+meos1237-1-17-1,,meos1237-1,17,samfur fik,samfur fik,[],,[],,False,False,,1
+meos1237-1-18-1,,meos1237-1,18,samfur war,samfur war,[],,[],,False,False,,1
+meos1237-1-19-1,,meos1237-1,19,samfur siw,samfur siw,[],,[],,False,False,,1
+meos1237-1-20-1,,meos1237-1,20,ars yoser,ars yoser,[],,[],,False,False,,1
+meos1237-1-21-1,,meos1237-1,21,ars yoser yoser,ars yoser yoser,[],,[],,False,False,,1
+meos1237-1-22-1,,meos1237-1,22,ars yoser suru,ars yoser suru,[],,[],,False,False,,1
+meos1237-1-23-1,,meos1237-1,23,ars yoser kior,ars yoser kior,[],,[],,False,False,,1
+meos1237-1-24-1,,meos1237-1,24,ars yoser fak,ars yoser fak,[],,[],,False,False,,1
+meos1237-1-25-1,,meos1237-1,25,ars yoser rim,ars yoser rim,[],,[],,False,False,,1
+meos1237-1-26-1,,meos1237-1,26,ars yoser wonem,ars yoser wonem,[],,[],,False,False,,1
+meos1237-1-27-1,,meos1237-1,27,ars yoser fik,ars yoser fik,[],,[],,False,False,,1
+meos1237-1-28-1,,meos1237-1,28,ars yoser war,ars yoser war,[],,[],,False,False,,1
+meos1237-1-29-1,,meos1237-1,29,ars yoser siw,ars yoser siw,[],,[],,False,False,,1
+meos1237-1-30-1,,meos1237-1,30,ars yoser samfur,ars yoser samfur,[],( 20+10),[],,False,False,,1
+meos1237-1-40-1,,meos1237-1,40,ars di suru,ars di suru,[],( 20 x 2 ),[],,False,False,,1
+meos1237-1-50-1,,meos1237-1,50,ars di suru samfur,ars di suru samfur,[],,[],,False,False,,1
+meos1237-1-60-1,,meos1237-1,60,ars di kior,ars di kior,[],( 20 x 3 ),[],,False,False,,1
+meos1237-1-70-1,,meos1237-1,70,ars di kior samfur,ars di kior samfur,[],,[],,False,False,,1
+meos1237-1-80-1,,meos1237-1,80,ars di fak,ars di fak,[],( 20 x 4 ),[],,False,False,,1
+meos1237-1-90-1,,meos1237-1,90,ars di fak samfur,ars di fak samfur,[],,[],,False,False,,1
+meos1237-1-100-1,,meos1237-1,100,utin yoser,utin yoser,[],,[],,False,False,,1
+meos1237-1-200-1,,meos1237-1,200,utin suru,utin suru,[],,[],,False,False,,1
+meos1237-1-1000-1,,meos1237-1,1000,siaran yoser,siaran yoser,[],,[],,False,False,,1
+meos1237-1-2000-1,,meos1237-1,2000,siaran suru,siaran suru,[],,[],,False,False,,1

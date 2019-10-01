@@ -1,0 +1,15 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+djeo1235-1-1-1,,djeo1235-1,1,uitxi,uitxi,[],,[],,False,False,,1
+djeo1235-1-1-2,,djeo1235-1,1,oitxi “one”,oitxi “one”,[],,[],,False,True,,1
+djeo1235-1-2-1,,djeo1235-1,2,djebo “two”,djebo “two”,[],,[],,False,True,,1
+djeo1235-1-3-1,,djeo1235-1,3,djebo honotõ “three”,djebo honotõ “three”,[],,[],,False,True,,1
+djeo1235-1-4-1,,djeo1235-1,4,djebo djebo,djebo djebo,[],,[],,False,False,,1
+djeo1235-1-5-1,,djeo1235-1,5,djebo djebo honotõ,djebo djebo honotõ,[],,[],,False,False,,1
+djeo1235-1-6-1,,djeo1235-1,6,djebo djebo djebo,djebo djebo djebo,[],,[],,False,False,,1
+djeo1235-1-7-1,,djeo1235-1,7,djebo djebo djebo honotõ,djebo djebo djebo honotõ,[],,[],,False,False,,1
+djeo1235-1-8-1,,djeo1235-1,8,djebo djebo djebo djebo,djebo djebo djebo djebo,[],,[],,False,False,,1
+djeo1235-1-9-1,,djeo1235-1,9,djebo djebo djebo djebo honotõ,djebo djebo djebo djebo honotõ,[],,[],,False,False,,1
+djeo1235-1-10-1,,djeo1235-1,10,nihu djebo “hand two”,nihu djebo “hand two”,[],,[],,False,True,,1
+djeo1235-1-15-1,,djeo1235-1,15,nihu djebo pa (nihure) uixi “hand two foot (toes) one”,nihu djebo pa (nihure) uixi “hand two foot (toes) one”,[],,[],,False,True,,1
+djeo1235-1-20-1,,djeo1235-1,20,nihu djebo pa djebo “hand two,nihu djebo pa djebo “hand two,[],,[],,False,True,,1
+djeo1235-1-20-2,,djeo1235-1,20,foot two”,foot two”,[],,[],,False,True,,1

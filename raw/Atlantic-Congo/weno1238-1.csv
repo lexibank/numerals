@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+weno1238-1-1-1,,weno1238-1,1,too3,too3,[],,[],,False,False,,1
+weno1238-1-1-2,,weno1238-1,1,due1,due1,[],,[],,False,False,,1
+weno1238-1-2-1,,weno1238-1,2,sɔɔn2,sɔɔn2,[],,[],,False,False,,1
+weno1238-1-2-2,,weno1238-1,2,sɔn2,sɔn2,[],,[],,False,False,,1
+weno1238-1-3-1,,weno1238-1,3,taan3,taan3,[],,[],,False,False,,1
+weno1238-1-4-1,,weno1238-1,4,nyiɛ43,nyiɛ43,[],,[],,False,False,,1
+weno1238-1-5-1,,weno1238-1,5,mm41,mm41,[],,[],,False,False,,1
+weno1238-1-6-1,,weno1238-1,6,mɛ41o3,mɛ41o3,[],( 5 + 1 ),[],,False,False,,1
+weno1238-1-7-1,,weno1238-1,7,mɛ41sɔn2,mɛ41sɔn2,[],( 5 + 2 ),[],,False,False,,1
+weno1238-1-8-1,,weno1238-1,8,mɛ41na3,mɛ41na3,[],( 5 + 3 ),[],,False,False,,1
+weno1238-1-9-1,,weno1238-1,9,mɛ41nyiɛ3,mɛ41nyiɛ3,[],( 5 + 4 ),[],,False,False,,1
+weno1238-1-10-1,,weno1238-1,10,puue3,puue3,[],,[],,False,False,,1
+weno1238-1-11-1,,weno1238-1,11,puue3jɔ3 due1,puue3jɔ3 due1,[],,[],,False,False,,1
+weno1238-1-12-1,,weno1238-1,12,puue3jɔ3 sɔn2,puue3jɔ3 sɔn2,[],,[],,False,False,,1
+weno1238-1-13-1,,weno1238-1,13,puue3jɔ3 taan3,puue3jɔ3 taan3,[],,[],,False,False,,1
+weno1238-1-14-1,,weno1238-1,14,puue3jɔ3 nyiɛ43,puue3jɔ3 nyiɛ43,[],,[],,False,False,,1
+weno1238-1-15-1,,weno1238-1,15,puue3jɔ3 mm41,puue3jɔ3 mm41,[],,[],,False,False,,1
+weno1238-1-16-1,,weno1238-1,16,puue3 jɔ3 mɛ41o3,puue3 jɔ3 mɛ41o3,[],,[],,False,False,,1
+weno1238-1-17-1,,weno1238-1,17,puue3 jɔ3 mɛ41sɔn2,puue3 jɔ3 mɛ41sɔn2,[],,[],,False,False,,1
+weno1238-1-18-1,,weno1238-1,18,puue3 jɔ3 mɛ41na3,puue3 jɔ3 mɛ41na3,[],,[],,False,False,,1
+weno1238-1-19-1,,weno1238-1,19,puue3 jɔ3 mɛ41nyiɛ3,puue3 jɔ3 mɛ41nyiɛ3,[],,[],,False,False,,1
+weno1238-1-20-1,,weno1238-1,20,kwla3 sɔɔn2,kwla3 sɔɔn2,[],,[],,False,False,,1
+weno1238-1-21-1,,weno1238-1,21,kwla3 sɔɔn2 jɔ3 due1,kwla3 sɔɔn2 jɔ3 due1,[],,[],,False,False,,1
+weno1238-1-22-1,,weno1238-1,22,kwla3 sɔɔn2 jɔ3 sɔn2,kwla3 sɔɔn2 jɔ3 sɔn2,[],,[],,False,False,,1
+weno1238-1-23-1,,weno1238-1,23,kwla3 sɔɔn2 jɔ3 taan3,kwla3 sɔɔn2 jɔ3 taan3,[],,[],,False,False,,1
+weno1238-1-24-1,,weno1238-1,24,kwla3 sɔɔn2 jɔ3 nyiɛ43,kwla3 sɔɔn2 jɔ3 nyiɛ43,[],,[],,False,False,,1
+weno1238-1-25-1,,weno1238-1,25,kwla3 sɔɔn2 jɔ3 mm41,kwla3 sɔɔn2 jɔ3 mm41,[],,[],,False,False,,1
+weno1238-1-26-1,,weno1238-1,26,kwla3 sɔɔn2 jɔ3 mɛ41o3,kwla3 sɔɔn2 jɔ3 mɛ41o3,[],,[],,False,False,,1
+weno1238-1-27-1,,weno1238-1,27,kwla3 sɔɔn2 jɔ3 mɛ41sɔn2,kwla3 sɔɔn2 jɔ3 mɛ41sɔn2,[],,[],,False,False,,1
+weno1238-1-28-1,,weno1238-1,28,kwla3 sɔɔn2 jɔ3 mɛ41na3,kwla3 sɔɔn2 jɔ3 mɛ41na3,[],,[],,False,False,,1
+weno1238-1-29-1,,weno1238-1,29,kwla3 sɔɔn2 jɔ3 mɛ41nyiɛ3,kwla3 sɔɔn2 jɔ3 mɛ41nyiɛ3,[],,[],,False,False,,1
+weno1238-1-30-1,,weno1238-1,30,kwla3 taan3,kwla3 taan3,[],,[],,False,False,,1
+weno1238-1-40-1,,weno1238-1,40,kwla3 nyiɛ43,kwla3 nyiɛ43,[],,[],,False,False,,1
+weno1238-1-50-1,,weno1238-1,50,kwla3 mm41,kwla3 mm41,[],,[],,False,False,,1
+weno1238-1-60-1,,weno1238-1,60,kwla3 mɛ41o3,kwla3 mɛ41o3,[],,[],,False,False,,1
+weno1238-1-70-1,,weno1238-1,70,kwla3 mɛ41sɔn2,kwla3 mɛ41sɔn2,[],,[],,False,False,,1
+weno1238-1-80-1,,weno1238-1,80,kwla3mɛ41na3,kwla3mɛ41na3,[],,[],,False,False,,1
+weno1238-1-90-1,,weno1238-1,90,kwla3 mɛ41nyiɛ3,kwla3 mɛ41nyiɛ3,[],,[],,False,False,,1
+weno1238-1-100-1,,weno1238-1,100,kwɛ2due1,kwɛ2due1,[],,[],,False,False,,1
+weno1238-1-200-1,,weno1238-1,200,kwɛ2 sɔɔn2,kwɛ2 sɔɔn2,[],,[],,False,False,,1
+weno1238-1-1000-1,,weno1238-1,1000,wlu1 due34,wlu1 due34,[],,[],,False,False,,1
+weno1238-1-2000-1,,weno1238-1,2000,wlu1 sɔɔn2,wlu1 sɔɔn2,[],,[],,False,False,,1

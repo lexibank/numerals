@@ -1,0 +1,27 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tote1238-2-1-1,,tote1238-2,1,-nké,-nké,[],,[],,False,False,,2
+tote1238-2-2-1,,tote1238-2,2,-βíle,-βíle,[],,[],,False,False,,2
+tote1238-2-3-1,,tote1238-2,3,-tátwe,-tátwe,[],,[],,False,False,,2
+tote1238-2-4-1,,tote1238-2,4,-ne,-ne,[],,[],,False,False,,2
+tote1238-2-5-1,,tote1238-2,5,-sanwe,-sanwe,[],,[],,False,False,,2
+tote1238-2-6-1,,tote1238-2,6,-sanwe na konke,-sanwe na konke,[],( 5 + 1 ),[],,False,False,,2
+tote1238-2-7-1,,tote1238-2,7,-sanwe na twoβile,-sanwe na twoβile,[],( 5 + 2 ),[],,False,False,,2
+tote1238-2-8-1,,tote1238-2,8,-sanwe na totatwe,-sanwe na totatwe,[],( 5 + 3 ),[],,False,False,,2
+tote1238-2-9-1,,tote1238-2,9,-sanwe na tone,-sanwe na tone,[],( 5 + 4 ),[],,False,False,,2
+tote1238-2-10-1,,tote1238-2,10,-kumi,-kumi,[],,[],,False,False,,2
+tote1238-2-11-1,,tote1238-2,11,-kumi na konke,-kumi na konke,[],,[],,False,False,,2
+tote1238-2-12-1,,tote1238-2,12,-kumi na twoβile,-kumi na twoβile,[],,[],,False,False,,2
+tote1238-2-13-1,,tote1238-2,13,-kumi na totatwe,-kumi na totatwe,[],,[],,False,False,,2
+tote1238-2-14-1,,tote1238-2,14,-kumi na tone,-kumi na tone,[],,[],,False,False,,2
+tote1238-2-20-1,,tote1238-2,20,amakumi oβile,amakumi oβile,[],,[],,False,False,,2
+tote1238-2-21-1,,tote1238-2,21,amakumi oβile na konke,amakumi oβile na konke,[],,[],,False,False,,2
+tote1238-2-22-1,,tote1238-2,22,amakumi oβile na twoβile,amakumi oβile na twoβile,[],,[],,False,False,,2
+tote1238-2-23-1,,tote1238-2,23,amakumi oβile na totatwe,amakumi oβile na totatwe,[],,[],,False,False,,2
+tote1238-2-24-1,,tote1238-2,24,amakumi oβile na tone,amakumi oβile na tone,[],,[],,False,False,,2
+tote1238-2-30-1,,tote1238-2,30,amakumi otatwe,amakumi otatwe,[],,[],,False,False,,2
+tote1238-2-40-1,,tote1238-2,40,amakumi one,amakumi one,[],,[],,False,False,,2
+tote1238-2-50-1,,tote1238-2,50,amakumi osanwe,amakumi osanwe,[],,[],,False,False,,2
+tote1238-2-60-1,,tote1238-2,60,amakumi osanwe na lyonke,amakumi osanwe na lyonke,[],,[],,False,False,,2
+tote1238-2-100-1,,tote1238-2,100,omwanda,omwanda,[],,[],,False,False,,2
+tote1238-2-200-1,,tote1238-2,200,imyanda oβile,imyanda oβile,[],,[],,False,False,,2
+tote1238-2-1000-1,,tote1238-2,1000,imyanda ikumi,imyanda ikumi,[],( 100 x 10 ),[],,False,False,,2

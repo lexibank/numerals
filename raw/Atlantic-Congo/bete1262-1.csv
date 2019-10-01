@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bete1262-1-1-1,,bete1262-1,1,ìkèn,ìkèn,[],,[],,False,False,,1
+bete1262-1-2-1,,bete1262-1,2,ìfè,ìfè,[],,[],,False,False,,1
+bete1262-1-3-1,,bete1262-1,3,ìkíé,ìkíé,[],,[],,False,False,,1
+bete1262-1-4-1,,bete1262-1,4,ìnè,ìnè,[],,[],,False,False,,1
+bete1262-1-5-1,,bete1262-1,5,ìdíɔ́ŋ,ìdíɔ́ŋ,[],,[],,False,False,,1
+bete1262-1-6-1,,bete1262-1,6,ìdíɔ́ŋ ìkèn,ìdíɔ́ŋ ìkèn,[],( 5 + 1 ),[],,False,False,,1
+bete1262-1-7-1,,bete1262-1,7,ìdíɔ́ŋ ìfè,ìdíɔ́ŋ ìfè,[],( 5 + 2 ),[],,False,False,,1
+bete1262-1-8-1,,bete1262-1,8,ìdíɔ́ŋ ìkíé,ìdíɔ́ŋ ìkíé,[],( 5 + 3 ),[],,False,False,,1
+bete1262-1-9-1,,bete1262-1,9,ìdíɔ́ŋ ìnè,ìdíɔ́ŋ ìnè,[],( 5 + 4 ),[],,False,False,,1
+bete1262-1-10-1,,bete1262-1,10,lèhʷó,lèhʷó,[],,[],,False,False,,1
+bete1262-1-11-1,,bete1262-1,11,lèhʷó lè ìkèn,lèhʷó lè ìkèn,[],,[],,False,False,,1
+bete1262-1-12-1,,bete1262-1,12,lèhʷó lè ìfè,lèhʷó lè ìfè,[],,[],,False,False,,1
+bete1262-1-13-1,,bete1262-1,13,lèhʷó lè ìkíé,lèhʷó lè ìkíé,[],,[],,False,False,,1
+bete1262-1-14-1,,bete1262-1,14,lèhʷó lè ìnè,lèhʷó lè ìnè,[],,[],,False,False,,1
+bete1262-1-15-1,,bete1262-1,15,lèhʷó lè ìdíɔ́ŋ,lèhʷó lè ìdíɔ́ŋ,[],,[],,False,False,,1
+bete1262-1-16-1,,bete1262-1,16,lèhʷó lè ìdíɔ́ŋ ìkèn,lèhʷó lè ìdíɔ́ŋ ìkèn,[],,[],,False,False,,1
+bete1262-1-17-1,,bete1262-1,17,lèhʷó lè ìdíɔ́ŋ ìfè,lèhʷó lè ìdíɔ́ŋ ìfè,[],,[],,False,False,,1
+bete1262-1-18-1,,bete1262-1,18,lèhʷó lè ìdíɔ́ŋ ìkíé,lèhʷó lè ìdíɔ́ŋ ìkíé,[],,[],,False,False,,1
+bete1262-1-19-1,,bete1262-1,19,lèhʷó lè ìdíɔ́ŋ ìnè,lèhʷó lè ìdíɔ́ŋ ìnè,[],,[],,False,False,,1
+bete1262-1-20-1,,bete1262-1,20,lìsí,lìsí,[],,[],,False,False,,1
+bete1262-1-21-1,,bete1262-1,21,lìsí lè ìkèn,lìsí lè ìkèn,[],,[],,False,False,,1
+bete1262-1-22-1,,bete1262-1,22,lìsí lè ìfè,lìsí lè ìfè,[],,[],,False,False,,1
+bete1262-1-23-1,,bete1262-1,23,lìsí lè ìkíé,lìsí lè ìkíé,[],,[],,False,False,,1
+bete1262-1-24-1,,bete1262-1,24,lìsí lè ìnè,lìsí lè ìnè,[],,[],,False,False,,1
+bete1262-1-25-1,,bete1262-1,25,lìsí lè ìdíɔ́ŋ,lìsí lè ìdíɔ́ŋ,[],,[],,False,False,,1
+bete1262-1-26-1,,bete1262-1,26,lìsí lè ìdíɔ́ŋ ìkèn,lìsí lè ìdíɔ́ŋ ìkèn,[],,[],,False,False,,1
+bete1262-1-27-1,,bete1262-1,27,lìsí lè ìdíɔ́ŋ ìfè,lìsí lè ìdíɔ́ŋ ìfè,[],,[],,False,False,,1
+bete1262-1-28-1,,bete1262-1,28,lìsí lè ìdíɔ́ŋ ìkíé,lìsí lè ìdíɔ́ŋ ìkíé,[],,[],,False,False,,1
+bete1262-1-29-1,,bete1262-1,29,lìsí lè ìdíɔ́ŋ ìnè,lìsí lè ìdíɔ́ŋ ìnè,[],,[],,False,False,,1
+bete1262-1-30-1,,bete1262-1,30,lìsí lè lèhʷó,lìsí lè lèhʷó,[],( 20 + 10 ),[],,False,False,,1
+bete1262-1-40-1,,bete1262-1,40,àsí àfè,àsí àfè,[],( 20 x 2 ),[],,False,False,,1
+bete1262-1-50-1,,bete1262-1,50,àsí àfè lè lèhʷó,àsí àfè lè lèhʷó,[],[( 20 x 2 + 10 )],[],,False,False,,1
+bete1262-1-60-1,,bete1262-1,60,àsí àkíé,àsí àkíé,[],( 20 x 3 ),[],,False,False,,1
+bete1262-1-70-1,,bete1262-1,70,àsí àkíé lè lèhʷó,àsí àkíé lè lèhʷó,[],[( 20 x 3 + 10 )],[],,False,False,,1
+bete1262-1-80-1,,bete1262-1,80,àsí ànè,àsí ànè,[],( 20 x 4 ),[],,False,False,,1
+bete1262-1-90-1,,bete1262-1,90,àsí ànè lè lèhʷó,àsí ànè lè lèhʷó,[],[( 20 x 4 + 10 )],[],,False,False,,1
+bete1262-1-100-1,,bete1262-1,100,àsí ìdíɔ́ŋ,àsí ìdíɔ́ŋ,[],( 20 x 5 ),[],,False,False,,1
+bete1262-1-200-1,,bete1262-1,200,àsí lèhʷó,àsí lèhʷó,[],( 20 x 10 ),[],,False,False,,1
+bete1262-1-200-2,,bete1262-1,200,400. àsí lìsí,400. àsí lìsí,[],,[],,False,True,,1
+bete1262-1-1000-1,,bete1262-1,1000,àsí lìsí òɡbà àfè lè àsí lèhʷó,àsí lìsí òɡbà àfè lè àsí lèhʷó,[],,[],,False,False,,1
+bete1262-1-2000-1,,bete1262-1,2000,àsí lìsí òɡbà àfè ìdíɔ́ŋ,àsí lìsí òɡbà àfè ìdíɔ́ŋ,[],,[],,False,False,,1

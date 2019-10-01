@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tson1249-2-1-1,,tson1249-2,1,-nʼwè,-nʼwè,[],,[],,False,False,,2
+tson1249-2-2-1,,tson1249-2,2,-mbirhí,-mbirhí,[],,[],,False,False,,2
+tson1249-2-3-1,,tson1249-2,3,-nhárhù,-nhárhù,[],,[],,False,False,,2
+tson1249-2-4-1,,tson1249-2,4,-múnè,-múnè,[],,[],,False,False,,2
+tson1249-2-5-1,,tson1249-2,5,ntlhánù,ntlhánù,[],,[],,False,False,,2
+tson1249-2-6-1,,tson1249-2,6,ntlhánù ni -nʼwè,ntlhánù ni -nʼwè,[],( 5 + 1 ),[],,False,False,,2
+tson1249-2-7-1,,tson1249-2,7,ntlhánù ni-mbìrhì,ntlhánù ni-mbìrhì,[],( 5 + 2 ),[],,False,False,,2
+tson1249-2-8-1,,tson1249-2,8,ntlhánù ni -nhárhù,ntlhánù ni -nhárhù,[],( 5 + 3 ),[],,False,False,,2
+tson1249-2-9-1,,tson1249-2,9,ntlhánù ni -múnè,ntlhánù ni -múnè,[],( 5 + 4 ),[],,False,False,,2
+tson1249-2-10-1,,tson1249-2,10,khúmè,khúmè,[],,[],,False,False,,2
+tson1249-2-11-1,,tson1249-2,11,khúmè ni dí -nʼwè,khúmè ni dí -nʼwè,[],,[],,False,False,,2
+tson1249-2-12-1,,tson1249-2,12,khúmè ni màbídì,khúmè ni màbídì,[],,[],,False,False,,2
+tson1249-2-13-1,,tson1249-2,13,khúmè ni màrárú,khúmè ni màrárú,[],,[],,False,False,,2
+tson1249-2-14-1,,tson1249-2,14,khúmè ni mùní,khúmè ni mùní,[],,[],,False,False,,2
+tson1249-2-15-1,,tson1249-2,15,khúmè ni,khúmè ni,[],,[],,False,False,,2
+tson1249-2-16-1,,tson1249-2,16,khúmè ni ntlhánù ni -nʼwè,khúmè ni ntlhánù ni -nʼwè,[],,[],,False,False,,2
+tson1249-2-17-1,,tson1249-2,17,khúme ni ntlhánù ni -mbìrhi,khúme ni ntlhánù ni -mbìrhi,[],,[],,False,False,,2
+tson1249-2-18-1,,tson1249-2,18,khúme ni ntlhánù ni -nhárhù,khúme ni ntlhánù ni -nhárhù,[],,[],,False,False,,2
+tson1249-2-19-1,,tson1249-2,19,khúme ni ntlhánù ni -múnè,khúme ni ntlhánù ni -múnè,[],,[],,False,False,,2
+tson1249-2-20-1,,tson1249-2,20,màkúmè màmbírhì,màkúmè màmbírhì,[],,[],,False,False,,2
+tson1249-2-21-1,,tson1249-2,21,màkúmè màmbírhì ni -nʼwè,màkúmè màmbírhì ni -nʼwè,[],,[],,False,False,,2
+tson1249-2-22-1,,tson1249-2,22,màkúmè màmbírhì ni -mbìrhì,màkúmè màmbírhì ni -mbìrhì,[],,[],,False,False,,2
+tson1249-2-23-1,,tson1249-2,23,màkúmè màmbírhì ni -nhárhù,màkúmè màmbírhì ni -nhárhù,[],,[],,False,False,,2
+tson1249-2-24-1,,tson1249-2,24,màkúmè màmbírhì ni -múnè,màkúmè màmbírhì ni -múnè,[],,[],,False,False,,2
+tson1249-2-25-1,,tson1249-2,25,màkúmè màmbírhì ni ntlhánù,màkúmè màmbírhì ni ntlhánù,[],,[],,False,False,,2
+tson1249-2-26-1,,tson1249-2,26,màkúmè màmbírhì ni ntlh. ni -nʼwè,màkúmè màmbírhì ni ntlh. ni -nʼwè,[],,[],,False,True,,2
+tson1249-2-27-1,,tson1249-2,27,màkúmè màmbírhì ni ntlh. ni -mbìrhì,màkúmè màmbírhì ni ntlh. ni -mbìrhì,[],,[],,False,True,,2
+tson1249-2-28-1,,tson1249-2,28,màkúmè màmbírhì ni ntlh. ni -nhárhù,màkúmè màmbírhì ni ntlh. ni -nhárhù,[],,[],,False,True,,2
+tson1249-2-29-1,,tson1249-2,29,màkúmè màmbírhì ni ntlh. ni -múnè,màkúmè màmbírhì ni ntlh. ni -múnè,[],,[],,False,True,,2
+tson1249-2-30-1,,tson1249-2,30,màkúmè mànhárhù,màkúmè mànhárhù,[],,[],,False,False,,2
+tson1249-2-40-1,,tson1249-2,40,màkúmè wà màmúnè,màkúmè wà màmúnè,[],,[],,False,False,,2
+tson1249-2-50-1,,tson1249-2,50,màkúmè wà màkúmè,màkúmè wà màkúmè,[],,[],,False,False,,2
+tson1249-2-60-1,,tson1249-2,60,màkúmè wà màkúmè ni -nʼwè,màkúmè wà màkúmè ni -nʼwè,[],,[],,False,False,,2
+tson1249-2-70-1,,tson1249-2,70,màkúmè wà màkúmè ni -mbìrhì,màkúmè wà màkúmè ni -mbìrhì,[],,[],,False,False,,2
+tson1249-2-80-1,,tson1249-2,80,màkúmè wà màkúmè ni -nhárhù,màkúmè wà màkúmè ni -nhárhù,[],,[],,False,False,,2
+tson1249-2-90-1,,tson1249-2,90,màkúmè wà màkúmè ni -múnè,màkúmè wà màkúmè ni -múnè,[],,[],,False,False,,2
+tson1249-2-100-1,,tson1249-2,100,dzànà,dzànà,[],,[],,False,False,,2
+tson1249-2-200-1,,tson1249-2,200,madzànà màmbìrhì,madzànà màmbìrhì,[],,[],,False,False,,2
+tson1249-2-1000-1,,tson1249-2,1000,ɡìdì,ɡìdì,[],,[],,False,False,,2
+tson1249-2-2000-1,,tson1249-2,2000,maɡìdì màmbìrhì,maɡìdì màmbìrhì,[],,[],,False,False,,2

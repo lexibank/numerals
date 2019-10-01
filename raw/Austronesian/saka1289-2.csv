@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+saka1289-2-1-1,,saka1289-2,1,te tkyn,te tkyn,[],,[],,False,False,,2
+saka1289-2-2-1,,saka1289-2,2,ru,ru,[],,[],,False,False,,2
+saka1289-2-3-1,,saka1289-2,3,ðœl,ðœl,[],,[],,False,False,,2
+saka1289-2-4-1,,saka1289-2,4,iɛð,iɛð,[],,[],,False,False,,2
+saka1289-2-5-1,,saka1289-2,5,løn,løn,[],( < lima < hand ),[],,False,False,,2
+saka1289-2-6-1,,saka1289-2,6,lønara,lønara,[],( 5 + 1 ),[],,False,False,,2
+saka1289-2-7-1,,saka1289-2,7,lønɛrɛru,lønɛrɛru,[],( 5 + 2 ),[],,False,False,,2
+saka1289-2-8-1,,saka1289-2,8,lønɛrɛðœl,lønɛrɛðœl,[],( 5 + 3 ),[],,False,False,,2
+saka1289-2-9-1,,saka1289-2,9,lønɛrɛpɛð,lønɛrɛpɛð,[],( 5 + 4 ),[],,False,False,,2
+saka1289-2-10-1,,saka1289-2,10,mœɣœlte,mœɣœlte,[],,[],,False,False,,2
+saka1289-2-11-1,,saka1289-2,11,mœɣœlte βan te tkyn,mœɣœlte βan te tkyn,[],,[],,False,False,,2
+saka1289-2-12-1,,saka1289-2,12,mœɣœlte βan ru,mœɣœlte βan ru,[],,[],,False,False,,2
+saka1289-2-13-1,,saka1289-2,13,mœɣœlte βan ðœl,mœɣœlte βan ðœl,[],,[],,False,False,,2
+saka1289-2-14-1,,saka1289-2,14,mœɣœlte βan iɛð,mœɣœlte βan iɛð,[],,[],,False,False,,2
+saka1289-2-15-1,,saka1289-2,15,mœɣœlte βan løn,mœɣœlte βan løn,[],,[],,False,False,,2
+saka1289-2-16-1,,saka1289-2,16,mœɣœlte βan lønara,mœɣœlte βan lønara,[],,[],,False,False,,2
+saka1289-2-17-1,,saka1289-2,17,mœɣœlte βan lønɛrɛru,mœɣœlte βan lønɛrɛru,[],,[],,False,False,,2
+saka1289-2-18-1,,saka1289-2,18,mœɣœlte βan lønɛrɛðœl,mœɣœlte βan lønɛrɛðœl,[],,[],,False,False,,2
+saka1289-2-19-1,,saka1289-2,19,mœɣœlte βan lønɛrɛpɛð,mœɣœlte βan lønɛrɛpɛð,[],,[],,False,False,,2
+saka1289-2-20-1,,saka1289-2,20,mœɣœlru,mœɣœlru,[],,[],,False,False,,2
+saka1289-2-21-1,,saka1289-2,21,mœɣœlru βan te tkyn,mœɣœlru βan te tkyn,[],,[],,False,False,,2
+saka1289-2-22-1,,saka1289-2,22,mœɣœlru βan ru,mœɣœlru βan ru,[],,[],,False,False,,2
+saka1289-2-23-1,,saka1289-2,23,mœɣœlru βan ðœl,mœɣœlru βan ðœl,[],,[],,False,False,,2
+saka1289-2-24-1,,saka1289-2,24,mœɣœlru βan iɛð,mœɣœlru βan iɛð,[],,[],,False,False,,2
+saka1289-2-25-1,,saka1289-2,25,mœɣœlru βan løn,mœɣœlru βan løn,[],,[],,False,False,,2
+saka1289-2-26-1,,saka1289-2,26,mœɣœlru βan lønara,mœɣœlru βan lønara,[],,[],,False,False,,2
+saka1289-2-27-1,,saka1289-2,27,mœɣœlru βan lønɛrɛru,mœɣœlru βan lønɛrɛru,[],,[],,False,False,,2
+saka1289-2-28-1,,saka1289-2,28,mœɣœlru βan lønɛrɛðœl,mœɣœlru βan lønɛrɛðœl,[],,[],,False,False,,2
+saka1289-2-29-1,,saka1289-2,29,mœɣœlru βan lønɛrɛpɛð,mœɣœlru βan lønɛrɛpɛð,[],,[],,False,False,,2
+saka1289-2-30-1,,saka1289-2,30,mœɣœlðœl,mœɣœlðœl,[],,[],,False,False,,2
+saka1289-2-40-1,,saka1289-2,40,mœɣœliɛð,mœɣœliɛð,[],,[],,False,False,,2
+saka1289-2-50-1,,saka1289-2,50,mœɣœløn,mœɣœløn,[],,[],,False,False,,2
+saka1289-2-60-1,,saka1289-2,60,mœɣœlønara,mœɣœlønara,[],,[],,False,False,,2
+saka1289-2-70-1,,saka1289-2,70,mœɣœlønɛrɛru,mœɣœlønɛrɛru,[],,[],,False,False,,2
+saka1289-2-80-1,,saka1289-2,80,mœɣœlønɛrɛðœl,mœɣœlønɛrɛðœl,[],,[],,False,False,,2
+saka1289-2-90-1,,saka1289-2,90,mœɣœlønɛrɛpɛð,mœɣœlønɛrɛpɛð,[],,[],,False,False,,2
+saka1289-2-100-1,,saka1289-2,100,meter,meter,[],,[],,False,False,,2
+saka1289-2-200-1,,saka1289-2,200,meter daru,meter daru,[],,[],,False,False,,2
+saka1289-2-1000-1,,saka1289-2,1000,mœn,mœn,[],,[],,False,False,,2
+saka1289-2-2000-1,,saka1289-2,2000,mœn daru,mœn daru,[],,[],,False,False,,2

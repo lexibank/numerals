@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tiga1245-1-1-1,,tiga1245-1,1,sakai,sakai,[],,[],,False,False,,1
+tiga1245-1-2-1,,tiga1245-1,2,pouak,pouak,[],,[],,False,False,,1
+tiga1245-1-3-1,,tiga1245-1,3,potul,potul,[],,[],,False,False,,1
+tiga1245-1-4-1,,tiga1245-1,4,poiat,poiat,[],,[],,False,False,,1
+tiga1245-1-5-1,,tiga1245-1,5,palmit,palmit,[],,[],,False,False,,1
+tiga1245-1-6-1,,tiga1245-1,6,palmit sakai,palmit sakai,[],( 5 + 1 ),[],,False,False,,1
+tiga1245-1-7-1,,tiga1245-1,7,palmit pouak,palmit pouak,[],( 5 + 2 ),[],,False,False,,1
+tiga1245-1-8-1,,tiga1245-1,8,palmit potul,palmit potul,[],( 5 + 3 ),[],,False,False,,1
+tiga1245-1-9-1,,tiga1245-1,9,palmit poiat,palmit poiat,[],( 5 + 4 ),[],,False,False,,1
+tiga1245-1-10-1,,tiga1245-1,10,saŋauluŋ,saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-11-1,,tiga1245-1,11,saŋauluŋ e sakai,saŋauluŋ e sakai,[],,[],,False,False,,1
+tiga1245-1-12-1,,tiga1245-1,12,saŋauluŋ e pouak,saŋauluŋ e pouak,[],,[],,False,False,,1
+tiga1245-1-13-1,,tiga1245-1,13,saŋauluŋ e potul,saŋauluŋ e potul,[],,[],,False,False,,1
+tiga1245-1-14-1,,tiga1245-1,14,saŋauluŋ e poiat,saŋauluŋ e poiat,[],,[],,False,False,,1
+tiga1245-1-15-1,,tiga1245-1,15,saŋauluŋ e palmit,saŋauluŋ e palmit,[],,[],,False,False,,1
+tiga1245-1-16-1,,tiga1245-1,16,saŋauluŋ e palmit sakai,saŋauluŋ e palmit sakai,[],,[],,False,False,,1
+tiga1245-1-17-1,,tiga1245-1,17,saŋauluŋ e palmit pouak,saŋauluŋ e palmit pouak,[],,[],,False,False,,1
+tiga1245-1-18-1,,tiga1245-1,18,saŋauluŋ e palmit potul,saŋauluŋ e palmit potul,[],,[],,False,False,,1
+tiga1245-1-19-1,,tiga1245-1,19,saŋauluŋ e palmit poiat,saŋauluŋ e palmit poiat,[],,[],,False,False,,1
+tiga1245-1-20-1,,tiga1245-1,20,pouak saŋauluŋ,pouak saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-21-1,,tiga1245-1,21,pouak saŋauluŋ e sakai,pouak saŋauluŋ e sakai,[],,[],,False,False,,1
+tiga1245-1-22-1,,tiga1245-1,22,pouak saŋauluŋ e pouak,pouak saŋauluŋ e pouak,[],,[],,False,False,,1
+tiga1245-1-23-1,,tiga1245-1,23,pouak saŋauluŋ e potul,pouak saŋauluŋ e potul,[],,[],,False,False,,1
+tiga1245-1-24-1,,tiga1245-1,24,pouak saŋauluŋ e poiat,pouak saŋauluŋ e poiat,[],,[],,False,False,,1
+tiga1245-1-25-1,,tiga1245-1,25,pouak saŋauluŋ e palmit,pouak saŋauluŋ e palmit,[],,[],,False,False,,1
+tiga1245-1-26-1,,tiga1245-1,26,pouak saŋauluŋ e palmit sakai,pouak saŋauluŋ e palmit sakai,[],,[],,False,False,,1
+tiga1245-1-27-1,,tiga1245-1,27,pouak saŋauluŋ e palmit pouak,pouak saŋauluŋ e palmit pouak,[],,[],,False,False,,1
+tiga1245-1-28-1,,tiga1245-1,28,pouak saŋauluŋ e palmit potul,pouak saŋauluŋ e palmit potul,[],,[],,False,False,,1
+tiga1245-1-29-1,,tiga1245-1,29,pouak saŋauluŋ e palmit poiat,pouak saŋauluŋ e palmit poiat,[],,[],,False,False,,1
+tiga1245-1-30-1,,tiga1245-1,30,potul saŋauluŋ,potul saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-40-1,,tiga1245-1,40,poiat saŋauluŋ,poiat saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-50-1,,tiga1245-1,50,palmit saŋauluŋ,palmit saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-60-1,,tiga1245-1,60,palmit sakai saŋauluŋ,palmit sakai saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-70-1,,tiga1245-1,70,palmit pouak saŋauluŋ,palmit pouak saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-80-1,,tiga1245-1,80,palmit potul saŋauluŋ,palmit potul saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-90-1,,tiga1245-1,90,palmit poiat saŋauluŋ,palmit poiat saŋauluŋ,[],,[],,False,False,,1
+tiga1245-1-100-1,,tiga1245-1,100,sakai saŋsaŋauluŋ esuai,sakai saŋsaŋauluŋ esuai,[],,[],,False,False,,1
+tiga1245-1-200-1,,tiga1245-1,200,pouak saŋsaŋauluŋ esuai,pouak saŋsaŋauluŋ esuai,[],,[],,False,False,,1

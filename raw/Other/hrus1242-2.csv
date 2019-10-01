@@ -1,0 +1,54 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hrus1242-2-1-1,,hrus1242-2,1,a,a,[],,[],,False,False,a,2
+hrus1242-2-2-1,,hrus1242-2,2,ksɨ,ksɨ,[],,[],,False,False,ksü,2
+hrus1242-2-3-1,,hrus1242-2,3,dzɨ,dzɨ,[],,[],,False,False,dzü,2
+hrus1242-2-4-1,,hrus1242-2,4,piĝi,piĝi,[],,[],,False,False,,2
+hrus1242-2-4-2,,hrus1242-2,4,pçiʝi,pçiʝi,[],,[],,False,False,pi1,2
+hrus1242-2-4-3,,hrus1242-2,4,pçiː],pçiː],[],,[],,False,True,,2
+hrus1242-2-4-4,,hrus1242-2,4,piɣi,piɣi,[],,[],,False,False,,2
+hrus1242-2-4-5,,hrus1242-2,4,or,or,[],,[],,False,True,,2
+hrus1242-2-4-6,,hrus1242-2,4,pi,pi,[],,[],,False,False,,2
+hrus1242-2-5-1,,hrus1242-2,5,pom,pom,[],,[],,False,False,pom,2
+hrus1242-2-6-1,,hrus1242-2,6,ʝe,ʝe,[],,[],,False,False,ĝe,2
+hrus1242-2-6-2,,hrus1242-2,6,ɣe,ɣe,[],,[],,False,False,,2
+hrus1242-2-7-1,,hrus1242-2,7,mɹo,mɹo,[],,[],,False,False,mro,2
+hrus1242-2-7-2,,hrus1242-2,7,mʐo,mʐo,[],,[],,False,False,,2
+hrus1242-2-8-1,,hrus1242-2,8,sɨɡzɨ,sɨɡzɨ,[],,[],,False,False,ŝügzü,2
+hrus1242-2-9-1,,hrus1242-2,9,sɨ̥t̪ʰɨ́,sɨ̥t̪ʰɨ́,[],,[],,False,False,sütü,2
+hrus1242-2-9-2,,hrus1242-2,9,sɨtɨ́,sɨtɨ́,[],,[],,False,False,,2
+hrus1242-2-9-3,,hrus1242-2,9,2,2,[],,[],,False,True,,2
+hrus1242-2-10-1,,hrus1242-2,10,ɣɨ,ɣɨ,[],,[],,False,False,ĝü,2
+hrus1242-2-11-1,,hrus1242-2,11,ɣɨ́jo a,ɣɨ́jo a,[],,[],,False,False,ĝüyo a,2
+hrus1242-2-12-1,,hrus1242-2,12,ɣɨ́jo kʃɨ,ɣɨ́jo kʃɨ,[],,[],,False,False,ĝüyo ksü,2
+hrus1242-2-13-1,,hrus1242-2,13,ɣɨ́jo dzɨ,ɣɨ́jo dzɨ,[],,[],,False,False,ĝüyo dzü,2
+hrus1242-2-14-1,,hrus1242-2,14,ɣɨʈʂɨ́ pʝiʝi,ɣɨʈʂɨ́ pʝiʝi,[],,[],,False,False,ĝütrü piĝi,2
+hrus1242-2-15-1,,hrus1242-2,15,ɣɨʈʂɨ́ pom,ɣɨʈʂɨ́ pom,[],,[],,False,False,ĝütrü pom,2
+hrus1242-2-16-1,,hrus1242-2,16,ɣɨʈʂɨ ʝe,ɣɨʈʂɨ ʝe,[],,[],,False,False,ĝütrü ĝe,2
+hrus1242-2-16-2,,hrus1242-2,16,ɣɨʈʂɨ ɣe,ɣɨʈʂɨ ɣe,[],,[],,False,False,,2
+hrus1242-2-17-1,,hrus1242-2,17,ɣɨʈʂɨ mɹo,ɣɨʈʂɨ mɹo,[],,[],,False,False,ĝütrü mro,2
+hrus1242-2-18-1,,hrus1242-2,18,ɣɨʈʂɨ́ ʃɨɡzɨ,ɣɨʈʂɨ́ ʃɨɡzɨ,[],,[],,False,False,ĝütrǘ ŝügzü,2
+hrus1242-2-19-1,,hrus1242-2,19,ɣɨʈʂɨ́ sɨ̥t̪ʰɨ,ɣɨʈʂɨ́ sɨ̥t̪ʰɨ,[],,[],,False,False,ĝütrü sütü,2
+hrus1242-2-20-1,,hrus1242-2,20,bɨʂa,bɨʂa,[],"[biːs], < Assamese: ",[],,True,False,büsha,2
+hrus1242-2-21-1,,hrus1242-2,21,bɨʂa jo a,bɨʂa jo a,[],,[],,False,False,büsha yo a,2
+hrus1242-2-22-1,,hrus1242-2,22,bɨʂa jo ksɨ,bɨʂa jo ksɨ,[],,[],,False,False,büsha yo ksü,2
+hrus1242-2-23-1,,hrus1242-2,23,bɨʂa jo dzɨ,bɨʂa jo dzɨ,[],,[],,False,False,büsha yo dzü,2
+hrus1242-2-24-1,,hrus1242-2,24,bɨʂa jo pʝiʝi,bɨʂa jo pʝiʝi,[],,[],,False,False,büsha yo piĝi,2
+hrus1242-2-25-1,,hrus1242-2,25,bɨʂa jo pom,bɨʂa jo pom,[],,[],,False,False,büsha yo om,2
+hrus1242-2-26-1,,hrus1242-2,26,bɨʂa jo ʝé,bɨʂa jo ʝé,[],,[],,False,False,büsha yo ĝe,2
+hrus1242-2-27-1,,hrus1242-2,27,bɨʂa jo mɹó,bɨʂa jo mɹó,[],,[],,False,False,büsha yo mro,2
+hrus1242-2-28-1,,hrus1242-2,28,bɨʂa jo sɨɡzɨ,bɨʂa jo sɨɡzɨ,[],,[],,False,False,büsha yo ŝügzü,2
+hrus1242-2-29-1,,hrus1242-2,29,bɨʂa jo sɨ̥t̪ʰɨ,bɨʂa jo sɨ̥t̪ʰɨ,[],,[],,False,False,büsha yo sütü,2
+hrus1242-2-30-1,,hrus1242-2,30,dzɨɣɨ́,dzɨɣɨ́,[],,[],,False,False,dzüĝü,2
+hrus1242-2-40-1,,hrus1242-2,40,pçiɣɨ,pçiɣɨ,[],,[],,False,False,piĝü,2
+hrus1242-2-40-2,,hrus1242-2,40,piɣɨ́,piɣɨ́,[],,[],,False,False,,2
+hrus1242-2-50-1,,hrus1242-2,50,pomɣɨ́,pomɣɨ́,[],,[],,False,False,pomĝü,2
+hrus1242-2-60-1,,hrus1242-2,60,ʝeɣɨ́,ʝeɣɨ́,[],,[],,False,False,ĝeĝü,2
+hrus1242-2-60-2,,hrus1242-2,60,ɣeɣɨ́,ɣeɣɨ́,[],,[],,False,False,,2
+hrus1242-2-70-1,,hrus1242-2,70,mɹoɣɨ́,mɹoɣɨ́,[],,[],,False,False,mroĝü,2
+hrus1242-2-80-1,,hrus1242-2,80,sɨɡzɨɣɨ́,sɨɡzɨɣɨ́,[],,[],,False,False,sügzüĝü,2
+hrus1242-2-90-1,,hrus1242-2,90,sɨ̥t̪ʰɨɣɨ́,sɨ̥t̪ʰɨɣɨ́,[],,[],,False,False,sütüĝü,2
+hrus1242-2-100-1,,hrus1242-2,100,fuɣu a,fuɣu a,[],,[],,False,False,fúĝu a,2
+hrus1242-2-100-2,,hrus1242-2,100,fuɣa,fuɣa,[],,[],,False,False,or,2
+hrus1242-2-200-1,,hrus1242-2,200,fúɣu ksɨ,fúɣu ksɨ,[],,[],,False,False,fuĝu ksü,2
+hrus1242-2-1000-1,,hrus1242-2,1000,haza:r ),haza:r ),[],,[],,False,True,hadza a (loan word < Hindi:,2
+hrus1242-2-2000-1,,hrus1242-2,2000,hadza ksü,hadza ksü,[],,[],,False,False,,2

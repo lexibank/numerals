@@ -1,0 +1,51 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+zeme1240-3-1-1,,zeme1240-3,1,ket,ket,[],,[],,False,False,,3
+zeme1240-3-2-1,,zeme1240-3,2,kəna,kəna,[],,[],,False,False,,3
+zeme1240-3-3-1,,zeme1240-3,3,kət͡ʃum,kət͡ʃum,[],,[],,False,False,,3
+zeme1240-3-4-1,,zeme1240-3,4,mədai,mədai,[],,[],,False,False,,3
+zeme1240-3-5-1,,zeme1240-3,5,meŋeu,meŋeu,[],,[],,False,False,,3
+zeme1240-3-6-1,,zeme1240-3,6,səruk,səruk,[],,[],,False,False,,3
+zeme1240-3-7-1,,zeme1240-3,7,səna,səna,[],,[],,False,False,,3
+zeme1240-3-8-1,,zeme1240-3,8,dəset,dəset,[],,[],,False,False,,3
+zeme1240-3-9-1,,zeme1240-3,9,səkui,səkui,[],,[],,False,False,,3
+zeme1240-3-10-1,,zeme1240-3,10,kereu,kereu,[],,[],,False,False,,3
+zeme1240-3-11-1,,zeme1240-3,11,kereu-ket,kereu-ket,[],,[],,False,False,,3
+zeme1240-3-12-1,,zeme1240-3,12,kereu-kəna,kereu-kəna,[],,[],,False,False,,3
+zeme1240-3-13-1,,zeme1240-3,13,kereu-kət͡ʃum,kereu-kət͡ʃum,[],,[],,False,False,,3
+zeme1240-3-14-1,,zeme1240-3,14,kereu-mədai,kereu-mədai,[],,[],,False,False,,3
+zeme1240-3-15-1,,zeme1240-3,15,kereu-meŋeu,kereu-meŋeu,[],,[],,False,False,,3
+zeme1240-3-16-1,,zeme1240-3,16,kereu-səruk,kereu-səruk,[],,[],,False,False,,3
+zeme1240-3-17-1,,zeme1240-3,17,kereu-səna,kereu-səna,[],,[],,False,False,,3
+zeme1240-3-18-1,,zeme1240-3,18,kereu-dəset,kereu-dəset,[],,[],,False,False,,3
+zeme1240-3-19-1,,zeme1240-3,19,kereu-səkui,kereu-səkui,[],,[],,False,False,,3
+zeme1240-3-20-1,,zeme1240-3,20,əŋkai,əŋkai,[],,[],,False,False,,3
+zeme1240-3-21-1,,zeme1240-3,21,əŋkai-ket,əŋkai-ket,[],,[],,False,False,,3
+zeme1240-3-22-1,,zeme1240-3,22,əŋkai-kət͡ʃum,əŋkai-kət͡ʃum,[],,[],,False,False,,3
+zeme1240-3-24-1,,zeme1240-3,24,əŋkai-mədai,əŋkai-mədai,[],,[],,False,False,,3
+zeme1240-3-25-1,,zeme1240-3,25,əŋkai-meŋeu,əŋkai-meŋeu,[],,[],,False,False,,3
+zeme1240-3-26-1,,zeme1240-3,26,əŋkai-səruk,əŋkai-səruk,[],,[],,False,False,,3
+zeme1240-3-27-1,,zeme1240-3,27,əŋkai-səna,əŋkai-səna,[],,[],,False,False,,3
+zeme1240-3-28-1,,zeme1240-3,28,əŋkai-dəset,əŋkai-dəset,[],,[],,False,False,,3
+zeme1240-3-29-1,,zeme1240-3,29,əŋkai-səkui,əŋkai-səkui,[],,[],,False,False,,3
+zeme1240-3-30-1,,zeme1240-3,30,himreu,himreu,[],,[],,False,False,,3
+zeme1240-3-30-2,,zeme1240-3,30,36. himreu-səruk,36. himreu-səruk,[],,[],,False,True,,3
+zeme1240-3-40-1,,zeme1240-3,40,hədai,hədai,[],,[],,False,False,,3
+zeme1240-3-40-2,,zeme1240-3,40,48. hədai-dəset,48. hədai-dəset,[],,[],,False,True,,3
+zeme1240-3-50-1,,zeme1240-3,50,reŋeu,reŋeu,[],,[],,False,False,,3
+zeme1240-3-50-2,,zeme1240-3,50,55. reŋeu-meŋeu,55. reŋeu-meŋeu,[],,[],,False,True,,3
+zeme1240-3-60-1,,zeme1240-3,60,riak-səruk,riak-səruk,[],,[],,False,False,,3
+zeme1240-3-60-2,,zeme1240-3,60,61. riak-səruk-ze-ket,61. riak-səruk-ze-ket,[],,[],,False,True,,3
+zeme1240-3-70-1,,zeme1240-3,70,riak-səna,riak-səna,[],,[],,False,False,,3
+zeme1240-3-70-2,,zeme1240-3,70,75. raik-səna-ze-meŋeu,75. raik-səna-ze-meŋeu,[],,[],,False,True,,3
+zeme1240-3-80-1,,zeme1240-3,80,riak-dəset,riak-dəset,[],,[],,False,False,,3
+zeme1240-3-80-2,,zeme1240-3,80,87. riak-dəset-ze-səna,87. riak-dəset-ze-səna,[],,[],,False,True,,3
+zeme1240-3-90-1,,zeme1240-3,90,riak-səkui,riak-səkui,[],,[],,False,False,,3
+zeme1240-3-90-2,,zeme1240-3,90,99. riak-səkui-səkui,99. riak-səkui-səkui,[],,[],,False,True,,3
+zeme1240-3-100-1,,zeme1240-3,100,hai-ket,hai-ket,[],,[],,False,False,,3
+zeme1240-3-100-2,,zeme1240-3,100,200. hai-(kə)na,200. hai-(kə)na,[],,[],,False,True,,3
+zeme1240-3-300-1,,zeme1240-3,300,hai-(kə)t͡ʃum,hai-(kə)t͡ʃum,[],,[],,False,False,,3
+zeme1240-3-300-2,,zeme1240-3,300,400. hai-mədai,400. hai-mədai,[],,[],,False,True,,3
+zeme1240-3-1000-1,,zeme1240-3,1000,tʃaŋ,tʃaŋ,[],,[],,False,False,,3
+zeme1240-3-1000-2,,zeme1240-3,1000,2000. tʃaŋ-(kə)na,2000. tʃaŋ-(kə)na,[],,[],,False,True,,3
+zeme1240-3-3000-1,,zeme1240-3,3000,tʃaŋ-(kə)t͡ʃum,tʃaŋ-(kə)t͡ʃum,[],,[],,False,False,,3
+zeme1240-3-3000-2,,zeme1240-3,3000,9000. tʃaŋ-səkui,9000. tʃaŋ-səkui,[],,[],,False,True,,3

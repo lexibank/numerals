@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sowa1244-2-1-1,,sowa1244-2,1,tuwal,tuwal,[],,[],,False,False,,2
+sowa1244-2-2-1,,sowa1244-2,2,i-ru,i-ru,[],,[],,False,False,,2
+sowa1244-2-3-1,,sowa1244-2,3,i-zul,i-zul,[],,[],,False,False,,2
+sowa1244-2-4-1,,sowa1244-2,4,i-βet,i-βet,[],,[],,False,False,,2
+sowa1244-2-5-1,,sowa1244-2,5,i-lim,i-lim,[],,[],,False,False,,2
+sowa1244-2-6-1,,sowa1244-2,6,lo-wal,lo-wal,[],( 5 + 1 ),[],,False,False,,2
+sowa1244-2-7-1,,sowa1244-2,7,lew-ru,lew-ru,[],( 5 + 2 ),[],,False,False,,2
+sowa1244-2-8-1,,sowa1244-2,8,lep-tul,lep-tul,[],( 5 + 3 ),[],,False,False,,2
+sowa1244-2-9-1,,sowa1244-2,9,lak-pat,lak-pat,[],( 5 + 4 ),[],,False,False,,2
+sowa1244-2-10-1,,sowa1244-2,10,sebrenok,sebrenok,[],,[],,False,False,,2
+sowa1244-2-11-1,,sowa1244-2,11,sebrenok tuwal,sebrenok tuwal,[],,[],,False,False,,2
+sowa1244-2-12-1,,sowa1244-2,12,sebrenok i-ru,sebrenok i-ru,[],,[],,False,False,,2
+sowa1244-2-13-1,,sowa1244-2,13,sebrenok i-zul,sebrenok i-zul,[],,[],,False,False,,2
+sowa1244-2-14-1,,sowa1244-2,14,sebrenok i-βet,sebrenok i-βet,[],,[],,False,False,,2
+sowa1244-2-15-1,,sowa1244-2,15,sebrenok i-lim,sebrenok i-lim,[],,[],,False,False,,2
+sowa1244-2-16-1,,sowa1244-2,16,sebrenok lo-wal,sebrenok lo-wal,[],,[],,False,False,,2
+sowa1244-2-17-1,,sowa1244-2,17,sebrenok lew-ru,sebrenok lew-ru,[],,[],,False,False,,2
+sowa1244-2-18-1,,sowa1244-2,18,sebrenok lep-tul,sebrenok lep-tul,[],,[],,False,False,,2
+sowa1244-2-19-1,,sowa1244-2,19,sebrenok lak-pat,sebrenok lak-pat,[],,[],,False,False,,2
+sowa1244-2-20-1,,sowa1244-2,20,ŋawul i-ru,ŋawul i-ru,[],,[],,False,False,,2
+sowa1244-2-21-1,,sowa1244-2,21,ŋawul i-ru na(-)n tuwal,ŋawul i-ru na(-)n tuwal,[],,[],,False,False,,2
+sowa1244-2-22-1,,sowa1244-2,22,ŋawul i-ru na(-)n i-ru,ŋawul i-ru na(-)n i-ru,[],,[],,False,False,,2
+sowa1244-2-23-1,,sowa1244-2,23,ŋawul i-ru na(-)n i-zul,ŋawul i-ru na(-)n i-zul,[],,[],,False,False,,2
+sowa1244-2-24-1,,sowa1244-2,24,ŋawul i-ru na(-)n i-βet,ŋawul i-ru na(-)n i-βet,[],,[],,False,False,,2
+sowa1244-2-25-1,,sowa1244-2,25,ŋawul i-ru na(-)n i-lim,ŋawul i-ru na(-)n i-lim,[],,[],,False,False,,2
+sowa1244-2-26-1,,sowa1244-2,26,ŋawul i-ru na(-)n lo-wal,ŋawul i-ru na(-)n lo-wal,[],,[],,False,False,,2
+sowa1244-2-27-1,,sowa1244-2,27,ŋawul i-ru na(-)n lew-ru,ŋawul i-ru na(-)n lew-ru,[],,[],,False,False,,2
+sowa1244-2-28-1,,sowa1244-2,28,ŋawul i-ru na(-)n lep-tul,ŋawul i-ru na(-)n lep-tul,[],,[],,False,False,,2
+sowa1244-2-29-1,,sowa1244-2,29,ŋawul i-ru na(-)n lak-pat,ŋawul i-ru na(-)n lak-pat,[],,[],,False,False,,2
+sowa1244-2-30-1,,sowa1244-2,30,ŋawul i-zul,ŋawul i-zul,[],,[],,False,False,,2
+sowa1244-2-40-1,,sowa1244-2,40,ŋawul i-βet,ŋawul i-βet,[],,[],,False,False,,2
+sowa1244-2-50-1,,sowa1244-2,50,ŋawul i-lim,ŋawul i-lim,[],,[],,False,False,,2
+sowa1244-2-60-1,,sowa1244-2,60,ŋawul lo-wal,ŋawul lo-wal,[],,[],,False,False,,2
+sowa1244-2-70-1,,sowa1244-2,70,ŋawul lew-ru,ŋawul lew-ru,[],,[],,False,False,,2
+sowa1244-2-80-1,,sowa1244-2,80,ŋawul lep-tul,ŋawul lep-tul,[],,[],,False,False,,2
+sowa1244-2-90-1,,sowa1244-2,90,ŋawul lak-pat,ŋawul lak-pat,[],,[],,False,False,,2
+sowa1244-2-100-1,,sowa1244-2,100,am(-)rup,am(-)rup,[],,[],,False,False,,2
+sowa1244-2-200-1,,sowa1244-2,200,am(-)rup ba-ru,am(-)rup ba-ru,[],,[],,False,False,,2
+sowa1244-2-1000-1,,sowa1244-2,1000,βataa,βataa,[],,[],,False,False,,2

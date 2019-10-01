@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tagw1240-1-1-1,,tagw1240-1,1,nuɡ͡be,nuɡ͡be,[],,[],,False,False,,1
+tagw1240-1-2-1,,tagw1240-1,2,syẽ,syẽ,[],,[],,False,False,,1
+tagw1240-1-3-1,,tagw1240-1,3,tãri,tãri,[],,[],,False,False,,1
+tagw1240-1-4-1,,tagw1240-1,4,tityere,tityere,[],,[],,False,False,,1
+tagw1240-1-5-1,,tagw1240-1,5,koɡunu,koɡunu,[],,[],,False,False,,1
+tagw1240-1-6-1,,tagw1240-1,6,nõli,nõli,[],,[],,False,False,,1
+tagw1240-1-7-1,,tagw1240-1,7,nasyẽ,nasyẽ,[],( 5 + 2 ),[],,False,False,,1
+tagw1240-1-8-1,,tagw1240-1,8,natãri,natãri,[],( 5 + 3 ),[],,False,False,,1
+tagw1240-1-9-1,,tagw1240-1,9,natyere,natyere,[],( 5 + 4 ),[],,False,False,,1
+tagw1240-1-10-1,,tagw1240-1,10,kẽ,kẽ,[],,[],,False,False,,1
+tagw1240-1-10-2,,tagw1240-1,10,k͡prò,k͡prò,[],,[],,False,False,,1
+tagw1240-1-11-1,,tagw1240-1,11,kè makè nuɡ͡be,kè makè nuɡ͡be,[],,[],,False,False,,1
+tagw1240-1-12-1,,tagw1240-1,12,kè makè syẽ,kè makè syẽ,[],,[],,False,False,,1
+tagw1240-1-13-1,,tagw1240-1,13,kè makè tãri,kè makè tãri,[],,[],,False,False,,1
+tagw1240-1-14-1,,tagw1240-1,14,kè makè tityere,kè makè tityere,[],,[],,False,False,,1
+tagw1240-1-15-1,,tagw1240-1,15,kè makè koɡunu,kè makè koɡunu,[],,[],,False,False,,1
+tagw1240-1-16-1,,tagw1240-1,16,kè makè nõli,kè makè nõli,[],,[],,False,False,,1
+tagw1240-1-17-1,,tagw1240-1,17,kè makè nasyẽ,kè makè nasyẽ,[],,[],,False,False,,1
+tagw1240-1-18-1,,tagw1240-1,18,kè makè natãri,kè makè natãri,[],,[],,False,False,,1
+tagw1240-1-19-1,,tagw1240-1,19,kè makè natyere,kè makè natyere,[],,[],,False,False,,1
+tagw1240-1-20-1,,tagw1240-1,20,fonère,fonère,[],,[],,False,False,,1
+tagw1240-1-20-2,,tagw1240-1,20,funère,funère,[],,[],,False,False,,1
+tagw1240-1-21-1,,tagw1240-1,21,fonère maké nuɡ͡be,fonère maké nuɡ͡be,[],,[],,False,False,,1
+tagw1240-1-22-1,,tagw1240-1,22,fonère maké syẽ,fonère maké syẽ,[],,[],,False,False,,1
+tagw1240-1-23-1,,tagw1240-1,23,fonère maké tãri,fonère maké tãri,[],,[],,False,False,,1
+tagw1240-1-24-1,,tagw1240-1,24,fonère maké tityere,fonère maké tityere,[],,[],,False,False,,1
+tagw1240-1-25-1,,tagw1240-1,25,fonère maké koɡunu,fonère maké koɡunu,[],,[],,False,False,,1
+tagw1240-1-26-1,,tagw1240-1,26,fonère maké nõli,fonère maké nõli,[],,[],,False,False,,1
+tagw1240-1-27-1,,tagw1240-1,27,fonère maké nasyẽ,fonère maké nasyẽ,[],,[],,False,False,,1
+tagw1240-1-28-1,,tagw1240-1,28,fonère maké natãri,fonère maké natãri,[],,[],,False,False,,1
+tagw1240-1-29-1,,tagw1240-1,29,fonère maké natyere,fonère maké natyere,[],,[],,False,False,,1
+tagw1240-1-30-1,,tagw1240-1,30,fonère maké kè,fonère maké kè,[],,[],,False,False,,1
+tagw1240-1-40-1,,tagw1240-1,40,fonère syẽ,fonère syẽ,[],( 20 x 2 ),[],,False,False,,1
+tagw1240-1-50-1,,tagw1240-1,50,fonère syẽ maké kè,fonère syẽ maké kè,[],,[],,False,False,,1
+tagw1240-1-60-1,,tagw1240-1,60,fonère tãri,fonère tãri,[],( 20 x 3 ),[],,False,False,,1
+tagw1240-1-70-1,,tagw1240-1,70,fonère tãri maké kè,fonère tãri maké kè,[],,[],,False,False,,1
+tagw1240-1-80-1,,tagw1240-1,80,fonère tityere,fonère tityere,[],( 20 x 4 ),[],,False,False,,1
+tagw1240-1-90-1,,tagw1240-1,90,fonère tityere maké kè,fonère tityere maké kè,[],,[],,False,False,,1
+tagw1240-1-100-1,,tagw1240-1,100,to koɡunu,to koɡunu,[],( 20 x 5 ),[],,False,False,,1
+tagw1240-1-200-1,,tagw1240-1,200,to koɡunu syẽ,to koɡunu syẽ,[],,[],,False,False,,1
+tagw1240-1-1000-1,,tagw1240-1,1000,sakere,sakere,[],,[],,False,False,,1
+tagw1240-1-2000-1,,tagw1240-1,2000,sa syẽ,sa syẽ,[],,[],,False,False,,1

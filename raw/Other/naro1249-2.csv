@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+naro1249-2-1-1,,naro1249-2,1,ǀkúí,ǀkúí,[],,[],,False,False,,2
+naro1249-2-2-1,,naro1249-2,2,ǀkâm,ǀkâm,[],,[],,False,False,,2
+naro1249-2-3-1,,naro1249-2,3,ǃnóná,ǃnóná,[],,[],,False,False,,2
+naro1249-2-4-1,,naro1249-2,4,hàká,hàká,[],,[],,False,False,,2
+naro1249-2-5-1,,naro1249-2,5,koro,koro,[],,[],,False,False,,2
+naro1249-2-6-1,,naro1249-2,6,nǃání,nǃání,[],,[],,False,False,,2
+naro1249-2-7-1,,naro1249-2,7,hõ̀õ̀,hõ̀õ̀,[],,[],,False,False,,2
+naro1249-2-8-1,,naro1249-2,8,ǁkaisa,ǁkaisa,[],,[],,False,False,,2
+naro1249-2-9-1,,naro1249-2,9,kuesi,kuesi,[],,[],,False,False,,2
+naro1249-2-10-1,,naro1249-2,10,disi,disi,[],,[],,False,False,,2
+naro1249-2-11-1,,naro1249-2,11,disi ǀkúí,disi ǀkúí,[],,[],,False,False,,2
+naro1249-2-12-1,,naro1249-2,12,disi ǀkâm,disi ǀkâm,[],,[],,False,False,,2
+naro1249-2-13-1,,naro1249-2,13,disi ǃnóná,disi ǃnóná,[],,[],,False,False,,2
+naro1249-2-14-1,,naro1249-2,14,disi hàká,disi hàká,[],,[],,False,False,,2
+naro1249-2-15-1,,naro1249-2,15,disi koro,disi koro,[],,[],,False,False,,2
+naro1249-2-16-1,,naro1249-2,16,disi nǃání,disi nǃání,[],,[],,False,False,,2
+naro1249-2-17-1,,naro1249-2,17,disi hõ̀õ̀,disi hõ̀õ̀,[],,[],,False,False,,2
+naro1249-2-18-1,,naro1249-2,18,disi ǁkaisa,disi ǁkaisa,[],,[],,False,False,,2
+naro1249-2-19-1,,naro1249-2,19,disi kuesi,disi kuesi,[],,[],,False,False,,2
+naro1249-2-20-1,,naro1249-2,20,ǀkâm disi,ǀkâm disi,[],,[],,False,False,,2
+naro1249-2-21-1,,naro1249-2,21,ǀkâm disi ǀkúí,ǀkâm disi ǀkúí,[],,[],,False,False,,2
+naro1249-2-22-1,,naro1249-2,22,ǀkâm disi ǀkâm,ǀkâm disi ǀkâm,[],,[],,False,False,,2
+naro1249-2-23-1,,naro1249-2,23,ǀkâm disi ǃnóná,ǀkâm disi ǃnóná,[],,[],,False,False,,2
+naro1249-2-24-1,,naro1249-2,24,ǀkâm disi hàká,ǀkâm disi hàká,[],,[],,False,False,,2
+naro1249-2-25-1,,naro1249-2,25,ǀkâm disi koro,ǀkâm disi koro,[],,[],,False,False,,2
+naro1249-2-26-1,,naro1249-2,26,ǀkâm disi nǃání,ǀkâm disi nǃání,[],,[],,False,False,,2
+naro1249-2-27-1,,naro1249-2,27,ǀkâm disi hõ̀õ̀,ǀkâm disi hõ̀õ̀,[],,[],,False,False,,2
+naro1249-2-28-1,,naro1249-2,28,ǀkâm disi ǁkaisa,ǀkâm disi ǁkaisa,[],,[],,False,False,,2
+naro1249-2-29-1,,naro1249-2,29,ǀkâm disi kuesi,ǀkâm disi kuesi,[],,[],,False,False,,2
+naro1249-2-30-1,,naro1249-2,30,ǃnóná disi,ǃnóná disi,[],,[],,False,False,,2
+naro1249-2-40-1,,naro1249-2,40,hàká disi,hàká disi,[],,[],,False,False,,2
+naro1249-2-50-1,,naro1249-2,50,koro disi,koro disi,[],,[],,False,False,,2
+naro1249-2-60-1,,naro1249-2,60,nǃání disi,nǃání disi,[],,[],,False,False,,2
+naro1249-2-70-1,,naro1249-2,70,hõ̀õ̀ disi,hõ̀õ̀ disi,[],,[],,False,False,,2
+naro1249-2-80-1,,naro1249-2,80,ǁkaisa disi,ǁkaisa disi,[],,[],,False,False,,2
+naro1249-2-90-1,,naro1249-2,90,kuesi disi,kuesi disi,[],,[],,False,False,,2
+naro1249-2-100-1,,naro1249-2,100,disi disi,disi disi,[],( 10 x 10 ),[],,False,False,,2
+naro1249-2-100-2,,naro1249-2,100,disi.ǀã̂,disi.ǀã̂,[],,[],,False,False,,2
+naro1249-2-200-1,,naro1249-2,200,ǀkâm disi.ǀã̂,ǀkâm disi.ǀã̂,[],,[],,False,False,,2
+naro1249-2-1000-1,,naro1249-2,1000,disi.disi.ǀã̂,disi.disi.ǀã̂,[],( 10 x 10 x 10),[],,False,False,,2

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+akei1237-1-1-1,,akei1237-1,1,mɔʔɛse,mɔʔɛse,[],,[],,False,False,,1
+akei1237-1-2-1,,akei1237-1,2,mo-rua,mo-rua,[],,[],,False,False,,1
+akei1237-1-3-1,,akei1237-1,3,mo-tolu,mo-tolu,[],,[],,False,False,,1
+akei1237-1-4-1,,akei1237-1,4,mo-βati,mo-βati,[],,[],,False,False,,1
+akei1237-1-5-1,,akei1237-1,5,mo-lima,mo-lima,[],,[],,False,False,,1
+akei1237-1-6-1,,akei1237-1,6,haʔese,haʔese,[],( 5 + 1 ),[],,False,False,,1
+akei1237-1-7-1,,akei1237-1,7,raβaʔa-rua,raβaʔa-rua,[],( 5 + 2 ),[],,False,False,,1
+akei1237-1-8-1,,akei1237-1,8,raβaʔa-tolu,raβaʔa-tolu,[],( 5 + 3 ),[],,False,False,,1
+akei1237-1-9-1,,akei1237-1,9,raβaʔa-βati,raβaʔa-βati,[],( 5 + 4 ),[],,False,False,,1
+akei1237-1-10-1,,akei1237-1,10,saŋaβulu,saŋaβulu,[],,[],,False,False,,1
+akei1237-1-11-1,,akei1237-1,11,saŋaβulu komana mɔʔɛse,saŋaβulu komana mɔʔɛse,[],,[],,False,False,,1
+akei1237-1-12-1,,akei1237-1,12,saŋaβulu komana mo-rua,saŋaβulu komana mo-rua,[],,[],,False,False,,1
+akei1237-1-13-1,,akei1237-1,13,saŋaβulu komana mo-tolu,saŋaβulu komana mo-tolu,[],,[],,False,False,,1
+akei1237-1-14-1,,akei1237-1,14,saŋaβulu komana mo-βati,saŋaβulu komana mo-βati,[],,[],,False,False,,1
+akei1237-1-15-1,,akei1237-1,15,saŋaβulu komana mo-lima,saŋaβulu komana mo-lima,[],,[],,False,False,,1
+akei1237-1-16-1,,akei1237-1,16,saŋaβulu komana haʔese,saŋaβulu komana haʔese,[],,[],,False,False,,1
+akei1237-1-17-1,,akei1237-1,17,saŋaβulu komana raβaʔa-rua,saŋaβulu komana raβaʔa-rua,[],,[],,False,False,,1
+akei1237-1-18-1,,akei1237-1,18,saŋaβulu komana raβaʔa-tolu,saŋaβulu komana raβaʔa-tolu,[],,[],,False,False,,1
+akei1237-1-19-1,,akei1237-1,19,saŋaβulu komana raβaʔa-βati,saŋaβulu komana raβaʔa-βati,[],,[],,False,False,,1
+akei1237-1-20-1,,akei1237-1,20,naβulurua,naβulurua,[],,[],,False,False,,1
+akei1237-1-21-1,,akei1237-1,21,naβulurua komana mɔʔɛse,naβulurua komana mɔʔɛse,[],,[],,False,False,,1
+akei1237-1-22-1,,akei1237-1,22,naβulurua komana mo-rua,naβulurua komana mo-rua,[],,[],,False,False,,1
+akei1237-1-23-1,,akei1237-1,23,naβulurua komana mo-tolu,naβulurua komana mo-tolu,[],,[],,False,False,,1
+akei1237-1-24-1,,akei1237-1,24,naβulurua komana mo-βati,naβulurua komana mo-βati,[],,[],,False,False,,1
+akei1237-1-25-1,,akei1237-1,25,naβulurua komana mo-lima,naβulurua komana mo-lima,[],,[],,False,False,,1
+akei1237-1-26-1,,akei1237-1,26,naβulurua komana haʔese,naβulurua komana haʔese,[],,[],,False,False,,1
+akei1237-1-27-1,,akei1237-1,27,naβulurua komana raβaʔa-rua,naβulurua komana raβaʔa-rua,[],,[],,False,False,,1
+akei1237-1-28-1,,akei1237-1,28,naβulurua komana raβaʔa-tolu,naβulurua komana raβaʔa-tolu,[],,[],,False,False,,1
+akei1237-1-29-1,,akei1237-1,29,naβulurua komana raβaʔa-βati,naβulurua komana raβaʔa-βati,[],,[],,False,False,,1
+akei1237-1-30-1,,akei1237-1,30,naβulutolu,naβulutolu,[],,[],,False,False,,1
+akei1237-1-40-1,,akei1237-1,40,naβuluβati,naβuluβati,[],,[],,False,False,,1
+akei1237-1-50-1,,akei1237-1,50,naβululima,naβululima,[],,[],,False,False,,1
+akei1237-1-60-1,,akei1237-1,60,naβuluhaʔese,naβuluhaʔese,[],,[],,False,False,,1
+akei1237-1-70-1,,akei1237-1,70,naβuluraβaʔa-rua,naβuluraβaʔa-rua,[],,[],,False,False,,1
+akei1237-1-80-1,,akei1237-1,80,naβuluraβaʔa-tolu,naβuluraβaʔa-tolu,[],,[],,False,False,,1
+akei1237-1-90-1,,akei1237-1,90,naβuluraβaʔa-βati,naβuluraβaʔa-βati,[],,[],,False,False,,1
+akei1237-1-100-1,,akei1237-1,100,napsanaβulu,napsanaβulu,[],,[],,False,False,,1
+akei1237-1-200-1,,akei1237-1,200,napsanaβulu mo βaʔarua,napsanaβulu mo βaʔarua,[],,[],,False,False,,1
+akei1237-1-1000-1,,akei1237-1,1000,βanaβanaβu,βanaβanaβu,[],,[],,False,False,,1
+akei1237-1-2000-1,,akei1237-1,2000,mo βanaβanaβu βaʔarua,mo βanaβanaβu βaʔarua,[],,[],,False,False,,1

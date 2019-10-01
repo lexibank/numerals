@@ -1,0 +1,50 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sasa1249-1-1-1,,sasa1249-1,1,saiʔ,saiʔ,[],,[],,False,False,,1
+sasa1249-1-1-2,,sasa1249-1,1,sopoʔ,sopoʔ,[],,[],,False,False,,1
+sasa1249-1-1-3,,sasa1249-1,1,səkeʔ,səkeʔ,[],,[],,False,False,,1
+sasa1249-1-1-4,,sasa1249-1,1,sə-,sə-,[],,[],,False,False,,1
+sasa1249-1-2-1,,sasa1249-1,2,duə,duə,[],,[],,False,False,,1
+sasa1249-1-3-1,,sasa1249-1,3,təlu,təlu,[],,[],,False,False,,1
+sasa1249-1-4-1,,sasa1249-1,4,mpat,mpat,[],,[],,False,False,,1
+sasa1249-1-5-1,,sasa1249-1,5,limə,limə,[],,[],,False,False,,1
+sasa1249-1-6-1,,sasa1249-1,6,nəm,nəm,[],,[],,False,False,,1
+sasa1249-1-7-1,,sasa1249-1,7,pituʔ,pituʔ,[],,[],,False,False,,1
+sasa1249-1-8-1,,sasa1249-1,8,baluʔ,baluʔ,[],,[],,False,False,,1
+sasa1249-1-9-1,,sasa1249-1,9,siwaʔ,siwaʔ,[],,[],,False,False,,1
+sasa1249-1-10-1,,sasa1249-1,10,səpulu,səpulu,[],,[],,False,False,,1
+sasa1249-1-11-1,,sasa1249-1,11,solas,solas,[],( < sə- plus olas ),[],,False,False,,1
+sasa1249-1-12-1,,sasa1249-1,12,duə olas,duə olas,[],,[],,False,False,,1
+sasa1249-1-13-1,,sasa1249-1,13,təlu olas,təlu olas,[],,[],,False,False,,1
+sasa1249-1-14-1,,sasa1249-1,14,mpat olas,mpat olas,[],,[],,False,False,,1
+sasa1249-1-15-1,,sasa1249-1,15,limə olas,limə olas,[],,[],,False,False,,1
+sasa1249-1-16-1,,sasa1249-1,16,nəm olas,nəm olas,[],,[],,False,False,,1
+sasa1249-1-17-1,,sasa1249-1,17,pituʔ olas,pituʔ olas,[],,[],,False,False,,1
+sasa1249-1-18-1,,sasa1249-1,18,baluʔ olas,baluʔ olas,[],,[],,False,False,,1
+sasa1249-1-19-1,,sasa1249-1,19,siwaʔ olas,siwaʔ olas,[],,[],,False,False,,1
+sasa1249-1-20-1,,sasa1249-1,20,dua pulu,dua pulu,[],,[],,False,False,,1
+sasa1249-1-21-1,,sasa1249-1,21,səlikur,səlikur,[],,[],,False,False,,1
+sasa1249-1-22-1,,sasa1249-1,22,duə likur,duə likur,[],,[],,False,False,,1
+sasa1249-1-23-1,,sasa1249-1,23,təlu likur,təlu likur,[],,[],,False,False,,1
+sasa1249-1-24-1,,sasa1249-1,24,mpat likur,mpat likur,[],,[],,False,False,,1
+sasa1249-1-25-1,,sasa1249-1,25,limə likur,limə likur,[],,[],,False,False,,1
+sasa1249-1-26-1,,sasa1249-1,26,nəm likur,nəm likur,[],,[],,False,False,,1
+sasa1249-1-27-1,,sasa1249-1,27,pituʔ likur,pituʔ likur,[],,[],,False,False,,1
+sasa1249-1-28-1,,sasa1249-1,28,baluʔ likur,baluʔ likur,[],,[],,False,False,,1
+sasa1249-1-29-1,,sasa1249-1,29,siwaʔ likur,siwaʔ likur,[],,[],,False,False,,1
+sasa1249-1-30-1,,sasa1249-1,30,təluŋ dasə,təluŋ dasə,[],,[],,False,False,,1
+sasa1249-1-30-2,,sasa1249-1,30,təlu pulu,təlu pulu,[],,[],,False,False,,1
+sasa1249-1-40-1,,sasa1249-1,40,pituŋ dasə,pituŋ dasə,[],,[],,False,False,,1
+sasa1249-1-40-2,,sasa1249-1,40,pituʔ pulu,pituʔ pulu,[],,[],,False,False,,1
+sasa1249-1-50-1,,sasa1249-1,50,sekət,sekət,[],,[],,False,False,,1
+sasa1249-1-60-1,,sasa1249-1,60,nəm dasə,nəm dasə,[],,[],,False,False,,1
+sasa1249-1-60-2,,sasa1249-1,60,nəm pulu,nəm pulu,[],,[],,False,False,,1
+sasa1249-1-70-1,,sasa1249-1,70,pituʔ pulu,pituʔ pulu,[],,[],,False,False,,1
+sasa1249-1-80-1,,sasa1249-1,80,baluʔ pulu,baluʔ pulu,[],,[],,False,False,,1
+sasa1249-1-90-1,,sasa1249-1,90,siwaʔ pulu,siwaʔ pulu,[],,[],,False,False,,1
+sasa1249-1-100-1,,sasa1249-1,100,satus,satus,[],( < sə- pluas atus ),[],,False,False,,1
+sasa1249-1-200-1,,sasa1249-1,200,satak,satak,[],( < Balinese < Old Javanese ),[],,True,False,,1
+sasa1249-1-1000-1,,sasa1249-1,1000,səribu,səribu,[],,[],,False,False,,1
+sasa1249-1-1000-2,,sasa1249-1,1000,siu,siu,[],,[],,False,False,,1
+sasa1249-1-1000-3,,sasa1249-1,1000,sətali,sətali,[],,[],,False,False,,1
+sasa1249-1-2000-1,,sasa1249-1,2000,duə siu,duə siu,[],,[],,False,False,,1
+sasa1249-1-2000-2,,sasa1249-1,2000,duaŋ tali,duaŋ tali,[],,[],,False,False,,1

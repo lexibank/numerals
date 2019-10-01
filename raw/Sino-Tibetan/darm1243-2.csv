@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+darm1243-2-1-1,,darm1243-2,1,taka,taka,[],,[],,False,False,,2
+darm1243-2-1-2,,darm1243-2,1,taku,taku,[],,[],,False,False,,2
+darm1243-2-2-1,,darm1243-2,2,ñišu,ñišu,[],,[],,False,False,,2
+darm1243-2-3-1,,darm1243-2,3,sum,sum,[],,[],,False,False,,2
+darm1243-2-4-1,,darm1243-2,4,pi,pi,[],,[],,False,False,,2
+darm1243-2-5-1,,darm1243-2,5,ŋəi,ŋəi,[],,[],,False,False,,2
+darm1243-2-5-2,,darm1243-2,5,ŋe,ŋe,[],,[],,False,False,,2
+darm1243-2-6-1,,darm1243-2,6,ʈuku,ʈuku,[],,[],,False,False,,2
+darm1243-2-7-1,,darm1243-2,7,nisu,nisu,[],,[],,False,False,,2
+darm1243-2-8-1,,darm1243-2,8,zyədu,zyədu,[],,[],,False,False,,2
+darm1243-2-9-1,,darm1243-2,9,ɡui,ɡui,[],,[],,False,False,,2
+darm1243-2-10-1,,darm1243-2,10,cì,cì,[],,[],,False,False,,2
+darm1243-2-11-1,,darm1243-2,11,cyədte,cyədte,[],,[],,False,False,,2
+darm1243-2-12-1,,darm1243-2,12,cyəñi,cyəñi,[],,[],,False,False,,2
+darm1243-2-13-1,,darm1243-2,13,cyə-sum,cyə-sum,[],,[],,False,False,,2
+darm1243-2-14-1,,darm1243-2,14,cyə-pi,cyə-pi,[],,[],,False,False,,2
+darm1243-2-15-1,,darm1243-2,15,cyə-bəŋ,cyə-bəŋ,[],,[],,False,False,,2
+darm1243-2-16-1,,darm1243-2,16,cyə-ʈhu,cyə-ʈhu,[],,[],,False,False,,2
+darm1243-2-17-1,,darm1243-2,17,cyəni,cyəni,[],,[],,False,False,,2
+darm1243-2-18-1,,darm1243-2,18,cyəbci,cyəbci,[],,[],,False,False,,2
+darm1243-2-19-1,,darm1243-2,19,cirɡu,cirɡu,[],,[],,False,False,,2
+darm1243-2-20-1,,darm1243-2,20,nəsa,nəsa,[],,[],,False,False,,2
+darm1243-2-21-1,,darm1243-2,21,nəsa taku,nəsa taku,[],,[],,False,False,,2
+darm1243-2-22-1,,darm1243-2,22,nəsa ñišu,nəsa ñišu,[],,[],,False,False,,2
+darm1243-2-23-1,,darm1243-2,23,nəsa sum,nəsa sum,[],,[],,False,False,,2
+darm1243-2-24-1,,darm1243-2,24,nəsa pi,nəsa pi,[],,[],,False,False,,2
+darm1243-2-25-1,,darm1243-2,25,nəsa ŋəi,nəsa ŋəi,[],,[],,False,False,,2
+darm1243-2-26-1,,darm1243-2,26,nəsa ʈuku,nəsa ʈuku,[],,[],,False,False,,2
+darm1243-2-27-1,,darm1243-2,27,nəsa nisu,nəsa nisu,[],,[],,False,False,,2
+darm1243-2-28-1,,darm1243-2,28,nəsa zyədu,nəsa zyədu,[],,[],,False,False,,2
+darm1243-2-29-1,,darm1243-2,29,nəsa ɡui,nəsa ɡui,[],,[],,False,False,,2
+darm1243-2-30-1,,darm1243-2,30,sum-sa,sum-sa,[],,[],,False,False,,2
+darm1243-2-40-1,,darm1243-2,40,pi-sa,pi-sa,[],,[],,False,False,,2
+darm1243-2-50-1,,darm1243-2,50,ŋa-sa,ŋa-sa,[],,[],,False,False,,2
+darm1243-2-60-1,,darm1243-2,60,ʈuk-cha,ʈuk-cha,[],,[],,False,False,,2
+darm1243-2-70-1,,darm1243-2,70,nisu-sa,nisu-sa,[],,[],,False,False,,2
+darm1243-2-80-1,,darm1243-2,80,zyət-cha,zyət-cha,[],,[],,False,False,,2
+darm1243-2-90-1,,darm1243-2,90,ɡui-sa,ɡui-sa,[],,[],,False,False,,2
+darm1243-2-100-1,,darm1243-2,100,ra,ra,[],,[],,False,False,,2
+darm1243-2-100-2,,darm1243-2,100,sɛ,sɛ,[],< from Indo-Aryan ,[],,True,False,,2
+darm1243-2-200-1,,darm1243-2,200,ñisi ra,ñisi ra,[],,[],,False,False,,2
+darm1243-2-200-2,,darm1243-2,200,ñisi sɛ,ñisi sɛ,[],,[],,False,False,,2
+darm1243-2-1000-1,,darm1243-2,1000,toŋ,toŋ,[],,[],,False,False,,2
+darm1243-2-1000-2,,darm1243-2,1000,həzar,həzar,[],< from Indo-Aryan ,[],,True,False,,2
+darm1243-2-2000-1,,darm1243-2,2000,do həzar,do həzar,[],,[],,False,False,,2

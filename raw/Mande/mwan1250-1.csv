@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mwan1250-1-1-1,,mwan1250-1,1,do,do,[],,[],,False,False,,1
+mwan1250-1-2-1,,mwan1250-1,2,plɛ,plɛ,[],,[],,False,False,,1
+mwan1250-1-3-1,,mwan1250-1,3,yaɡa,yaɡa,[],,[],,False,False,,1
+mwan1250-1-4-1,,mwan1250-1,4,yiziɛ,yiziɛ,[],,[],,False,False,,1
+mwan1250-1-5-1,,mwan1250-1,5,sóó,sóó,[],,[],,False,False,,1
+mwan1250-1-6-1,,mwan1250-1,6,srɔádo,srɔádo,[],( 5 + 1 ),[],,False,False,,1
+mwan1250-1-7-1,,mwan1250-1,7,srɔáplɛ,srɔáplɛ,[],( 5 + 2 ),[],,False,False,,1
+mwan1250-1-8-1,,mwan1250-1,8,srɔ́a,srɔ́a,[],( 5 + 3 ),[],,False,False,,1
+mwan1250-1-9-1,,mwan1250-1,9,srɔáyiziɛ,srɔáyiziɛ,[],( 5 + 4 ),[],,False,False,,1
+mwan1250-1-10-1,,mwan1250-1,10,vu,vu,[],,[],,False,False,,1
+mwan1250-1-11-1,,mwan1250-1,11,vutado,vutado,[],,[],,False,False,,1
+mwan1250-1-12-1,,mwan1250-1,12,vutaplɛ,vutaplɛ,[],,[],,False,False,,1
+mwan1250-1-13-1,,mwan1250-1,13,vutayaɡa,vutayaɡa,[],,[],,False,False,,1
+mwan1250-1-14-1,,mwan1250-1,14,vutayiziɛ,vutayiziɛ,[],,[],,False,False,,1
+mwan1250-1-15-1,,mwan1250-1,15,vutasóó,vutasóó,[],,[],,False,False,,1
+mwan1250-1-16-1,,mwan1250-1,16,vutasrɔádo,vutasrɔádo,[],,[],,False,False,,1
+mwan1250-1-17-1,,mwan1250-1,17,vutasrɔáplɛ,vutasrɔáplɛ,[],,[],,False,False,,1
+mwan1250-1-18-1,,mwan1250-1,18,vutasrɔ́a,vutasrɔ́a,[],,[],,False,False,,1
+mwan1250-1-19-1,,mwan1250-1,19,vutasrɔáyiziɛ,vutasrɔáyiziɛ,[],,[],,False,False,,1
+mwan1250-1-20-1,,mwan1250-1,20,miando,miando,[],,[],,False,False,,1
+mwan1250-1-21-1,,mwan1250-1,21,miando ɓɛ do,miando ɓɛ do,[],,[],,False,False,,1
+mwan1250-1-22-1,,mwan1250-1,22,miando ɓɛ plɛ,miando ɓɛ plɛ,[],,[],,False,False,,1
+mwan1250-1-23-1,,mwan1250-1,23,miando ɓɛ yaɡa,miando ɓɛ yaɡa,[],,[],,False,False,,1
+mwan1250-1-24-1,,mwan1250-1,24,miando ɓɛ yiziɛ,miando ɓɛ yiziɛ,[],,[],,False,False,,1
+mwan1250-1-25-1,,mwan1250-1,25,miando ɓɛ sóó,miando ɓɛ sóó,[],,[],,False,False,,1
+mwan1250-1-26-1,,mwan1250-1,26,miando ɓɛ srɔádo,miando ɓɛ srɔádo,[],,[],,False,False,,1
+mwan1250-1-27-1,,mwan1250-1,27,miando ɓɛ srɔáplɛ,miando ɓɛ srɔáplɛ,[],,[],,False,False,,1
+mwan1250-1-28-1,,mwan1250-1,28,miando ɓɛ srɔ́a,miando ɓɛ srɔ́a,[],,[],,False,False,,1
+mwan1250-1-29-1,,mwan1250-1,29,miando ɓɛ srɔáyiziɛ,miando ɓɛ srɔáyiziɛ,[],,[],,False,False,,1
+mwan1250-1-30-1,,mwan1250-1,30,miando ɓɛ vu,miando ɓɛ vu,[],,[],,False,False,,1
+mwan1250-1-40-1,,mwan1250-1,40,ɓlìŋ plɛ,ɓlìŋ plɛ,[],( 20 x 2 ),[],,False,False,,1
+mwan1250-1-50-1,,mwan1250-1,50,ɓlìŋ plɛ ɓɛ vu,ɓlìŋ plɛ ɓɛ vu,[],,[],,False,False,,1
+mwan1250-1-60-1,,mwan1250-1,60,ɓlìŋ yaɡa,ɓlìŋ yaɡa,[],( 20 x 3 ),[],,False,False,,1
+mwan1250-1-70-1,,mwan1250-1,70,ɓlìŋ yaɡa ɓɛ vu,ɓlìŋ yaɡa ɓɛ vu,[],,[],,False,False,,1
+mwan1250-1-80-1,,mwan1250-1,80,ɓlìŋ yiziɛ,ɓlìŋ yiziɛ,[],( 20 x 4 ),[],,False,False,,1
+mwan1250-1-90-1,,mwan1250-1,90,ɓlìŋ yiziɛ ɓɛ vu,ɓlìŋ yiziɛ ɓɛ vu,[],,[],,False,False,,1
+mwan1250-1-100-1,,mwan1250-1,100,kɛ̀mɛ̀ do,kɛ̀mɛ̀ do,[],,[],,False,False,,1
+mwan1250-1-200-1,,mwan1250-1,200,kɛ̀mɛ̀ plɛ,kɛ̀mɛ̀ plɛ,[],,[],,False,False,,1
+mwan1250-1-1000-1,,mwan1250-1,1000,wáá do,wáá do,[],,[],,False,False,,1
+mwan1250-1-2000-1,,mwan1250-1,2000,wáá plɛ,wáá plɛ,[],,[],,False,False,,1

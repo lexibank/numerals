@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nort2665-1-1-1,,nort2665-1,1,i:,i:,[],,[],,False,False,,1
+nort2665-1-2-1,,nort2665-1,2,do:,do:,[],,[],,False,False,,1
+nort2665-1-3-1,,nort2665-1,3,tra,tra,[],,[],,False,False,,1
+nort2665-1-4-1,,nort2665-1,4,t͡ʃoːr,t͡ʃoːr,[],,[],,False,False,,1
+nort2665-1-5-1,,nort2665-1,5,paːnd͡ʒə,paːnd͡ʒə,[],,[],,False,False,,1
+nort2665-1-6-1,,nort2665-1,6,t͡ʃaː,t͡ʃaː,[],,[],,False,False,,1
+nort2665-1-7-1,,nort2665-1,7,sa:tə,sa:tə,[],,[],,False,False,,1
+nort2665-1-8-1,,nort2665-1,8,a:ʃʈə,a:ʃʈə,[],,[],,False,False,,1
+nort2665-1-9-1,,nort2665-1,9,na:u,na:u,[],,[],,False,False,,1
+nort2665-1-10-1,,nort2665-1,10,de,de,[],,[],,False,False,,1
+nort2665-1-11-1,,nort2665-1,11,ʒuiː,ʒuiː,[],,[],,False,False,,1
+nort2665-1-12-1,,nort2665-1,12,duiː,duiː,[],,[],,False,False,,1
+nort2665-1-13-1,,nort2665-1,13,truiː,truiː,[],,[],,False,False,,1
+nort2665-1-14-1,,nort2665-1,14,t͡ʃadeː,t͡ʃadeː,[],,[],,False,False,,1
+nort2665-1-15-1,,nort2665-1,15,pand͡ʒiː,pand͡ʒiː,[],,[],,False,False,,1
+nort2665-1-16-1,,nort2665-1,16,t͡ʃuiː,t͡ʃuiː,[],,[],,False,False,,1
+nort2665-1-17-1,,nort2665-1,17,satːi,satːi,[],,[],,False,False,,1
+nort2665-1-18-1,,nort2665-1,18,aːʃʈi:,aːʃʈi:,[],,[],,False,False,,1
+nort2665-1-19-1,,nort2665-1,19,nawiː,nawiː,[],,[],,False,False,,1
+nort2665-1-20-1,,nort2665-1,20,wast,wast,[],,[],,False,False,,1
+nort2665-1-21-1,,nort2665-1,21,wastu iː,wastu iː,[],,[],,False,False,,1
+nort2665-1-22-1,,nort2665-1,22,wastu do:,wastu do:,[],,[],,False,False,,1
+nort2665-1-23-1,,nort2665-1,23,wastu tra,wastu tra,[],,[],,False,False,,1
+nort2665-1-24-1,,nort2665-1,24,wastu t͡ʃoːr,wastu t͡ʃoːr,[],,[],,False,False,,1
+nort2665-1-25-1,,nort2665-1,25,wastu paːnd͡ʒə,wastu paːnd͡ʒə,[],,[],,False,False,,1
+nort2665-1-26-1,,nort2665-1,26,wastu t͡ʃaː,wastu t͡ʃaː,[],,[],,False,False,,1
+nort2665-1-27-1,,nort2665-1,27,wastu sa:tə,wastu sa:tə,[],,[],,False,False,,1
+nort2665-1-28-1,,nort2665-1,28,wastu a:ʃʈə,wastu a:ʃʈə,[],,[],,False,False,,1
+nort2665-1-29-1,,nort2665-1,29,wastu na:u,wastu na:u,[],,[],,False,False,,1
+nort2665-1-30-1,,nort2665-1,30,wastu de,wastu de,[],,[],,False,False,,1
+nort2665-1-30-2,,nort2665-1,30,31. wastu ʒuiː,31. wastu ʒuiː,[],(20 + 11),[],,False,True,,1
+nort2665-1-40-1,,nort2665-1,40,deːo,deːo,[],(2 x 20),[],,False,False,,1
+nort2665-1-50-1,,nort2665-1,50,deːo de,deːo de,[],[(2 x 20) + 10],[],,False,False,,1
+nort2665-1-60-1,,nort2665-1,60,traewo,traewo,[],(3 x 20),[],,False,False,,1
+nort2665-1-70-1,,nort2665-1,70,traewo,traewo,[],[(3 x 20) + 10],[],,False,False,,1
+nort2665-1-80-1,,nort2665-1,80,t͡ʃoːriju,t͡ʃoːriju,[],(4 x 20),[],,False,False,,1
+nort2665-1-90-1,,nort2665-1,90,t͡ʃoːriju,t͡ʃoːriju,[],[(4 x 20) + 10],[],,False,False,,1
+nort2665-1-100-1,,nort2665-1,100,iː sad,iː sad,[],,[],,False,False,,1
+nort2665-1-120-1,,nort2665-1,120,iː sadu wast,iː sadu wast,[],(100 + 20),[],,False,False,,1
+nort2665-1-200-1,,nort2665-1,200,doː sad,doː sad,[],,[],,False,False,,1
+nort2665-1-1000-1,,nort2665-1,1000,iː azaːr,iː azaːr,[],,[],,False,False,,1

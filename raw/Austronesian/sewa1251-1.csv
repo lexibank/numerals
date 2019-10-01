@@ -1,0 +1,13 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sewa1251-1-1-1,,sewa1251-1,1,kaikeda,kaikeda,[],,[],,False,False,,1
+sewa1251-1-1-2,,sewa1251-1,1,kenabona,kenabona,[],,[],,False,False,,1
+sewa1251-1-2-1,,sewa1251-1,2,manáu,manáu,[],,[],,False,False,,1
+sewa1251-1-2-2,,sewa1251-1,2,eluwa,eluwa,[],,[],,False,False,,1
+sewa1251-1-3-1,,sewa1251-1,3,luwa abwa kaikeda,luwa abwa kaikeda,[],( 2 + 1 ),[],,False,False,,1
+sewa1251-1-4-1,,sewa1251-1,4,aiɡe sieluwa aiɡe sieluwa,aiɡe sieluwa aiɡe sieluwa,[],( 2 + 2 ),[],,False,False,,1
+sewa1251-1-5-1,,sewa1251-1,5,nima kaikeda,nima kaikeda,[],,[],,False,False,,1
+sewa1251-1-6-1,,sewa1251-1,6,nima soᵘbařaⁱ kaiɡeda,nima soᵘbařaⁱ kaiɡeda,[],( 5 + 1 ),[],,False,False,,1
+sewa1251-1-7-1,,sewa1251-1,7,nima soᵘbařaⁱ manáu,nima soᵘbařaⁱ manáu,[],( 5 + 2 ),[],,False,False,,1
+sewa1251-1-8-1,,sewa1251-1,8,nima soᵘbařaⁱ luwa abwa kaikeda,nima soᵘbařaⁱ luwa abwa kaikeda,[],( 5 + 2 + 1 ),[],,False,False,,1
+sewa1251-1-9-1,,sewa1251-1,9,nima soᵘbařaⁱ aiɡe sieluwa aiɡe sieluwa,nima soᵘbařaⁱ aiɡe sieluwa aiɡe sieluwa,[],( 5 + 2 + 2 ),[],,False,False,,1
+sewa1251-1-10-1,,sewa1251-1,10,nima luwa,nima luwa,[],,[],,False,False,,1

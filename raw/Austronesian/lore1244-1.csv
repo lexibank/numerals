@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lore1244-1-1-1,,lore1244-1,1,te,te,[],,[],,False,False,,1
+lore1244-1-2-1,,lore1244-1,2,ruə,ruə,[],,[],,False,False,,1
+lore1244-1-3-1,,lore1244-1,3,tən,tən,[],,[],,False,False,,1
+lore1244-1-4-1,,lore1244-1,4,θar,θar,[],,[],,False,False,,1
+lore1244-1-5-1,,lore1244-1,5,linə,linə,[],,[],,False,False,,1
+lore1244-1-6-1,,lore1244-1,6,linə-raθ,linə-raθ,[],( 5 + 1),[],,False,False,,1
+lore1244-1-7-1,,lore1244-1,7,raθə-ru,raθə-ru,[],( 5 + 2),[],,False,False,,1
+lore1244-1-8-1,,lore1244-1,8,raθə-tən,raθə-tən,[],( 5 + 3),[],,False,False,,1
+lore1244-1-9-1,,lore1244-1,9,ra-θar,ra-θar,[],( 5 + 4),[],,False,False,,1
+lore1244-1-10-1,,lore1244-1,10,siθən,siθən,[],,[],,False,False,,1

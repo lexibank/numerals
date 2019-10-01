@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+oyda1235-1-1-1,,oyda1235-1,1,féttó,féttó,[],,[],,False,False,,1
+oyda1235-1-2-1,,oyda1235-1,2,lamʔí,lamʔí,[],,[],,False,False,,1
+oyda1235-1-3-1,,oyda1235-1,3,ɦaiddzí,ɦaiddzí,[],,[],,False,False,,1
+oyda1235-1-4-1,,oyda1235-1,4,ʔoiddí,ʔoiddí,[],,[],,False,False,,1
+oyda1235-1-5-1,,oyda1235-1,5,ʔíccin,ʔíccin,[],,[],,False,False,,1
+oyda1235-1-6-1,,oyda1235-1,6,ʔizíppun,ʔizíppun,[],(1+5),[],,False,False,,1
+oyda1235-1-7-1,,oyda1235-1,7,láappun,láappun,[],(2+5),[],,False,False,,1
+oyda1235-1-8-1,,oyda1235-1,8,ʔóspun,ʔóspun,[],(3+5),[],,False,False,,1
+oyda1235-1-9-1,,oyda1235-1,9,ʔiddífun,ʔiddífun,[],(4+5),[],,False,False,,1
+oyda1235-1-10-1,,oyda1235-1,10,táɓɓó,táɓɓó,[],,[],,False,False,,1
+oyda1235-1-11-1,,oyda1235-1,11,táɓɓó féttó,táɓɓó féttó,[],,[],,False,False,,1
+oyda1235-1-12-1,,oyda1235-1,12,táɓɓó lamʔ,táɓɓó lamʔ,[],,[],,False,False,,1
+oyda1235-1-13-1,,oyda1235-1,13,táɓɓó ɦaiddz,táɓɓó ɦaiddz,[],,[],,False,False,,1
+oyda1235-1-14-1,,oyda1235-1,14,táɓɓó ʔoidd,táɓɓó ʔoidd,[],,[],,False,False,,1
+oyda1235-1-15-1,,oyda1235-1,15,táɓɓó ʔíccin,táɓɓó ʔíccin,[],,[],,False,False,,1
+oyda1235-1-16-1,,oyda1235-1,16,táɓɓó ʔizíppun,táɓɓó ʔizíppun,[],,[],,False,False,,1
+oyda1235-1-17-1,,oyda1235-1,17,táɓɓó láappun,táɓɓó láappun,[],,[],,False,False,,1
+oyda1235-1-18-1,,oyda1235-1,18,táɓɓó ʔóspun,táɓɓó ʔóspun,[],,[],,False,False,,1
+oyda1235-1-19-1,,oyda1235-1,19,táɓɓó ʔiddífun,táɓɓó ʔiddífun,[],,[],,False,False,,1
+oyda1235-1-20-1,,oyda1235-1,20,lamʔ tám,lamʔ tám,[],,[],,False,False,,1
+oyda1235-1-21-1,,oyda1235-1,21,lamʔ tám féttó,lamʔ tám féttó,[],,[],,False,False,,1
+oyda1235-1-30-1,,oyda1235-1,30,ɦaas tám,ɦaas tám,[],,[],,False,False,,1
+oyda1235-1-40-1,,oyda1235-1,40,ʔoidd tám,ʔoidd tám,[],,[],,False,False,,1
+oyda1235-1-40-2,,oyda1235-1,40,ʔoittám,ʔoittám,[],,[],,False,False,,1
+oyda1235-1-50-1,,oyda1235-1,50,ʔíccin tam,ʔíccin tam,[],,[],,False,False,,1
+oyda1235-1-60-1,,oyda1235-1,60,ʔizíppun tam,ʔizíppun tam,[],,[],,False,False,,1
+oyda1235-1-70-1,,oyda1235-1,70,láappun tam,láappun tam,[],,[],,False,False,,1
+oyda1235-1-80-1,,oyda1235-1,80,ʔóspun tam,ʔóspun tam,[],,[],,False,False,,1
+oyda1235-1-90-1,,oyda1235-1,90,ʔiddífun tam,ʔiddífun tam,[],,[],,False,False,,1
+oyda1235-1-100-1,,oyda1235-1,100,ts’éet,ts’éet,[],,[],,False,False,,1
+oyda1235-1-100-2,,oyda1235-1,100,féttí ts’eet,féttí ts’eet,[],,[],,False,False,,1
+oyda1235-1-200-1,,oyda1235-1,200,lamʔ ts’éet,lamʔ ts’éet,[],,[],,False,False,,1
+oyda1235-1-1000-1,,oyda1235-1,1000,múkul,múkul,[],,[],,False,False,,1

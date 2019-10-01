@@ -1,0 +1,30 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kele1257-3-1-1,,kele1257-3,1,íwótó,íwótó,[],,[],,False,False,,1
+kele1257-3-2-1,,kele1257-3,2,bə́bà,bə́bà,[],,[],,False,False,,1
+kele1257-3-3-1,,kele1257-3,3,bə́rárè,bə́rárè,[],,[],,False,False,,1
+kele1257-3-4-1,,kele1257-3,4,bə́náyɛ̀,bə́náyɛ̀,[],,[],,False,False,,1
+kele1257-3-5-1,,kele1257-3,5,bə́tánè,bə́tánè,[],,[],,False,False,,1
+kele1257-3-6-1,,kele1257-3,6,bə́tánàyíwótó,bə́tánàyíwótó,[],( 5 + 1 ),[],,False,False,,1
+kele1257-3-7-1,,kele1257-3,7,bə́tánàbə́bà,bə́tánàbə́bà,[],( 5 + 2 ),[],,False,False,,1
+kele1257-3-8-1,,kele1257-3,8,bə́tánàbə́rárè,bə́tánàbə́rárè,[],( 5 + 3 ),[],,False,False,,1
+kele1257-3-9-1,,kele1257-3,9,bə́tánàbə́náyè,bə́tánàbə́náyè,[],( 5 + 4 ),[],,False,False,,1
+kele1257-3-10-1,,kele1257-3,10,dʒómɛ̀,dʒómɛ̀,[],,[],,False,False,,1
+kele1257-3-11-1,,kele1257-3,11,dʒómɛ̀naỳíwótó,dʒómɛ̀naỳíwótó,[],,[],,False,False,,1
+kele1257-3-12-1,,kele1257-3,12,dʒómùnàbə́bà,dʒómùnàbə́bà,[],,[],,False,False,,1
+kele1257-3-13-1,,kele1257-3,13,dʒómúnàbə́rár,dʒómúnàbə́rár,[],(è),[],,False,False,,1
+kele1257-3-14-1,,kele1257-3,14,dʒómúnàbə́náyɛ̀,dʒómúnàbə́náyɛ̀,[],,[],,False,False,,1
+kele1257-3-15-1,,kele1257-3,15,dʒómúnàbə́tán,dʒómúnàbə́tán,[],(ə̀),[],,False,False,,1
+kele1257-3-16-1,,kele1257-3,16,dʒómúnàtánnàyíwótò,dʒómúnàtánnàyíwótò,[],,[],,False,False,,1
+kele1257-3-17-1,,kele1257-3,17,dʒómúnàbə́tánnàbə́bà,dʒómúnàbə́tánnàbə́bà,[],,[],,False,False,,1
+kele1257-3-18-1,,kele1257-3,18,dʒómúnàbə́tánàbə́rárɛ̀,dʒómúnàbə́tánàbə́rárɛ̀,[],,[],,False,False,,1
+kele1257-3-19-1,,kele1257-3,19,dʒómúnàbə́tánnàbə́náyɛ̀,dʒómúnàbə́tánnàbə́náyɛ̀,[],,[],,False,False,,1
+kele1257-3-20-1,,kele1257-3,20,màbómábà,màbómábà,[],,[],,False,False,,1
+kele1257-3-21-1,,kele1257-3,21,màbómábànàyíwótò,màbómábànàyíwótò,[],,[],,False,False,,1
+kele1257-3-30-1,,kele1257-3,30,màbómárárɛ̀,màbómárárɛ̀,[],,[],,False,False,,1
+kele1257-3-40-1,,kele1257-3,40,màbómánáyɛ̀,màbómánáyɛ̀,[],,[],,False,False,,1
+kele1257-3-50-1,,kele1257-3,50,màbómátánɛ̀,màbómátánɛ̀,[],,[],,False,False,,1
+kele1257-3-60-1,,kele1257-3,60,màbómátánnàyíwótò,màbómátánnàyíwótò,[],,[],,False,False,,1
+kele1257-3-70-1,,kele1257-3,70,màbómátánàbə́bà,màbómátánàbə́bà,[],,[],,False,False,,1
+kele1257-3-80-1,,kele1257-3,80,màbómátánàbə́ráre,màbómátánàbə́ráre,[],(è),[],,False,False,,1
+kele1257-3-90-1,,kele1257-3,90,màbómátánàbə́náyɛ̀,màbómátánàbə́náyɛ̀,[],,[],,False,False,,1
+kele1257-3-100-1,,kele1257-3,100,nlónè,nlónè,[],,[],,False,False,,1

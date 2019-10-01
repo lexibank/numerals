@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+furr1244-1-1-1,,furr1244-1,1,díík,díík,[],,[],,False,False,,1
+furr1244-1-2-1,,furr1244-1,2,òù,òù,[],,[],,False,False,,1
+furr1244-1-3-1,,furr1244-1,3,ììs,ììs,[],,[],,False,False,,1
+furr1244-1-4-1,,furr1244-1,4,òŋàl,òŋàl,[],,[],,False,False,,1
+furr1244-1-5-1,,furr1244-1,5,òòs,òòs,[],,[],,False,False,,1
+furr1244-1-6-1,,furr1244-1,6,òsàndík,òsàndík,[],( 5 + 1 ),[],,False,False,,1
+furr1244-1-7-1,,furr1244-1,7,sààbè,sààbè,[],< Arabic ,[],,True,False,,1
+furr1244-1-8-1,,furr1244-1,8,tàmàn,tàmàn,[],< Arabic ,[],,True,False,,1
+furr1244-1-9-1,,furr1244-1,9,tììsè,tììsè,[],( < Arabic),[],,True,False,,1
+furr1244-1-10-1,,furr1244-1,10,wèyè,wèyè,[],,[],,False,False,,1
+furr1244-1-11-1,,furr1244-1,11,wèyè nà díík,wèyè nà díík,[],,[],,False,False,,1
+furr1244-1-12-1,,furr1244-1,12,wèyè nà òù,wèyè nà òù,[],,[],,False,False,,1
+furr1244-1-13-1,,furr1244-1,13,wèyè nà ììs,wèyè nà ììs,[],,[],,False,False,,1
+furr1244-1-14-1,,furr1244-1,14,wèyè nà òŋàl,wèyè nà òŋàl,[],,[],,False,False,,1
+furr1244-1-15-1,,furr1244-1,15,wèyè nà òòs,wèyè nà òòs,[],,[],,False,False,,1
+furr1244-1-16-1,,furr1244-1,16,wèyè nà òsàndík,wèyè nà òsàndík,[],,[],,False,False,,1
+furr1244-1-17-1,,furr1244-1,17,wèyè nà sààbè,wèyè nà sààbè,[],,[],,False,False,,1
+furr1244-1-18-1,,furr1244-1,18,wèyè nà tàmàn,wèyè nà tàmàn,[],,[],,False,False,,1
+furr1244-1-19-1,,furr1244-1,19,wèyè nà tììsè,wèyè nà tììsè,[],,[],,False,False,,1
+furr1244-1-20-1,,furr1244-1,20,wèyèŋa òù,wèyèŋa òù,[],,[],,False,False,,1
+furr1244-1-21-1,,furr1244-1,21,wèyèŋa òù nà díík,wèyèŋa òù nà díík,[],,[],,False,False,,1
+furr1244-1-22-1,,furr1244-1,22,wèyèŋa òù nà òù,wèyèŋa òù nà òù,[],,[],,False,False,,1
+furr1244-1-23-1,,furr1244-1,23,wèyèŋa òù nà ììs,wèyèŋa òù nà ììs,[],,[],,False,False,,1
+furr1244-1-24-1,,furr1244-1,24,wèyèŋa òù nà òŋàl,wèyèŋa òù nà òŋàl,[],,[],,False,False,,1
+furr1244-1-25-1,,furr1244-1,25,wèyèŋa òù nà òòs,wèyèŋa òù nà òòs,[],,[],,False,False,,1
+furr1244-1-26-1,,furr1244-1,26,wèyèŋa òù nà òsàndík,wèyèŋa òù nà òsàndík,[],,[],,False,False,,1
+furr1244-1-27-1,,furr1244-1,27,wèyèŋa òù nà sààbè,wèyèŋa òù nà sààbè,[],,[],,False,False,,1
+furr1244-1-28-1,,furr1244-1,28,wèyèŋa òù nà tàmàn,wèyèŋa òù nà tàmàn,[],,[],,False,False,,1
+furr1244-1-29-1,,furr1244-1,29,wèyèŋa òù nà tììsè,wèyèŋa òù nà tììsè,[],,[],,False,False,,1
+furr1244-1-30-1,,furr1244-1,30,wèyèŋa ììs,wèyèŋa ììs,[],,[],,False,False,,1
+furr1244-1-40-1,,furr1244-1,40,wèyèŋa òŋàl,wèyèŋa òŋàl,[],,[],,False,False,,1
+furr1244-1-50-1,,furr1244-1,50,wèyèŋa òòs,wèyèŋa òòs,[],,[],,False,False,,1
+furr1244-1-60-1,,furr1244-1,60,wèyèŋa sààbè,wèyèŋa sààbè,[],,[],,False,False,,1
+furr1244-1-70-1,,furr1244-1,70,wèyèŋa tàmàn,wèyèŋa tàmàn,[],,[],,False,False,,1
+furr1244-1-80-1,,furr1244-1,80,wèyèŋa tììsè,wèyèŋa tììsè,[],,[],,False,False,,1
+furr1244-1-90-1,,furr1244-1,90,wèyèŋa,wèyèŋa,[],,[],,False,False,,1
+furr1244-1-100-1,,furr1244-1,100,fírí,fírí,[],,[],,False,False,,1
+furr1244-1-200-1,,furr1244-1,200,fíríŋa òù,fíríŋa òù,[],,[],,False,False,,1

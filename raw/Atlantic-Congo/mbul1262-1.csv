@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mbul1262-1-1-1,,mbul1262-1,1,m̀mʷə̀,m̀mʷə̀,[],,[],,False,False,,1
+mbul1262-1-1-2,,mbul1262-1,1,pɔ́k,pɔ́k,[],,[],,False,False,,1
+mbul1262-1-2-1,,mbul1262-1,2,ḿbântʰ,ḿbântʰ,[],,[],,False,False,,1
+mbul1262-1-3-1,,mbul1262-1,3,ítáːt,ítáːt,[],,[],,False,False,,1
+mbul1262-1-4-1,,mbul1262-1,4,íɲə̂n,íɲə̂n,[],,[],,False,False,,1
+mbul1262-1-5-1,,mbul1262-1,5,ítán,ítán,[],,[],,False,False,,1
+mbul1262-1-6-1,,mbul1262-1,6,íʃíndât,íʃíndât,[],,[],,False,False,,1
+mbul1262-1-7-1,,mbul1262-1,7,íʃíndât nì mʷə́,íʃíndât nì mʷə́,[],( 6 + 1),[],,False,False,,1
+mbul1262-1-8-1,,mbul1262-1,8,ínámâ,ínámâ,[],,[],,False,False,,1
+mbul1262-1-9-1,,mbul1262-1,9,ínámâ nì mʷə́,ínámâ nì mʷə́,[],( 8 + 1),[],,False,False,,1
+mbul1262-1-10-1,,mbul1262-1,10,dʒùwát,dʒùwát,[],,[],,False,False,,1
+mbul1262-1-11-1,,mbul1262-1,11,dʒùwát nì mʷə̀,dʒùwát nì mʷə̀,[],( 10 + 1 ),[],,False,False,,1
+mbul1262-1-12-1,,mbul1262-1,12,dʒùwát nì m̀bântʰ,dʒùwát nì m̀bântʰ,[],( 10 + 2 ),[],,False,False,,1
+mbul1262-1-13-1,,mbul1262-1,13,dʒùwát nì ítáːt,dʒùwát nì ítáːt,[],( 10 + 3 ),[],,False,False,,1
+mbul1262-1-14-1,,mbul1262-1,14,dʒùwát nì íɲə̂n,dʒùwát nì íɲə̂n,[],( 10 + 4 ),[],,False,False,,1
+mbul1262-1-15-1,,mbul1262-1,15,púɲù,púɲù,[],,[],,False,False,,1
+mbul1262-1-16-1,,mbul1262-1,16,púɲù nì mʷə̀,púɲù nì mʷə̀,[],( 15 + 1 ),[],,False,False,,1
+mbul1262-1-17-1,,mbul1262-1,17,púɲù nì m̀bântʰ,púɲù nì m̀bântʰ,[],( 15 + 2 ),[],,False,False,,1
+mbul1262-1-18-1,,mbul1262-1,18,púɲù nì ítáːt,púɲù nì ítáːt,[],( 15 + 3 ),[],,False,False,,1
+mbul1262-1-19-1,,mbul1262-1,19,púɲù nì íɲə̂n,púɲù nì íɲə̂n,[],( 15 + 4 ),[],,False,False,,1
+mbul1262-1-20-1,,mbul1262-1,20,nìtʃín,nìtʃín,[],,[],,False,False,,1
+mbul1262-1-21-1,,mbul1262-1,21,nìtʃín nì mʷə̀,nìtʃín nì mʷə̀,[],,[],,False,False,,1
+mbul1262-1-22-1,,mbul1262-1,22,nìtʃín nì m̀bântʰ,nìtʃín nì m̀bântʰ,[],,[],,False,False,,1
+mbul1262-1-23-1,,mbul1262-1,23,nìtʃín nì ítáːt,nìtʃín nì ítáːt,[],,[],,False,False,,1
+mbul1262-1-24-1,,mbul1262-1,24,nìtʃín nì íɲə̂n,nìtʃín nì íɲə̂n,[],,[],,False,False,,1
+mbul1262-1-25-1,,mbul1262-1,25,nìtʃín nì ítán,nìtʃín nì ítán,[],,[],,False,False,,1
+mbul1262-1-26-1,,mbul1262-1,26,nìtʃín nì íʃíndât,nìtʃín nì íʃíndât,[],,[],,False,False,,1
+mbul1262-1-27-1,,mbul1262-1,27,nìtʃín nì íʃíndât nì mʷə́,nìtʃín nì íʃíndât nì mʷə́,[],,[],,False,False,,1
+mbul1262-1-28-1,,mbul1262-1,28,nìtʃín nì ínámâ,nìtʃín nì ínámâ,[],,[],,False,False,,1
+mbul1262-1-29-1,,mbul1262-1,29,nìtʃín nì ínámâ nì mʷə́,nìtʃín nì ínámâ nì mʷə́,[],,[],,False,False,,1
+mbul1262-1-30-1,,mbul1262-1,30,nìtʃín nì nì dʒùwát,nìtʃín nì nì dʒùwát,[],( '20 with 10 '),[],,False,False,,1
+mbul1262-1-40-1,,mbul1262-1,40,nìtʃín bàn,nìtʃín bàn,[],( 20's two ),[],,False,False,,1
+mbul1262-1-50-1,,mbul1262-1,50,màhó màtàn,màhó màtàn,[],,[],,False,False,,1
+mbul1262-1-60-1,,mbul1262-1,60,nìtʃín ní ítàːt,nìtʃín ní ítàːt,[],( 20's three ),[],,False,False,,1
+mbul1262-1-70-1,,mbul1262-1,70,nìtʃín ní ítàːt nì dʒùwát,nìtʃín ní ítàːt nì dʒùwát,[],,[],,False,False,,1
+mbul1262-1-80-1,,mbul1262-1,80,nìtʃín ní íɲə̂n,nìtʃín ní íɲə̂n,[],( 20's four ),[],,False,False,,1
+mbul1262-1-90-1,,mbul1262-1,90,nìtʃín nì íɲə̂n nì dʒùwát,nìtʃín nì íɲə̂n nì dʒùwát,[],,[],,False,False,,1
+mbul1262-1-100-1,,mbul1262-1,100,ǹtə̂t,ǹtə̂t,[],( < English 'hundred' ),[],,True,False,,1
+mbul1262-1-200-1,,mbul1262-1,200,ǹtə̂t ìbàn,ǹtə̂t ìbàn,[],,[],,False,False,,1
+mbul1262-1-1000-1,,mbul1262-1,1000,tósə̀nə̀,tósə̀nə̀,[],( < English 'thousand' ),[],,True,False,,1
+mbul1262-1-2000-1,,mbul1262-1,2000,tósə̀nə̀ ìbàn,tósə̀nə̀ ìbàn,[],,[],,False,False,,1

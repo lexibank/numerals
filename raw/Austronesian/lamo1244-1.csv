@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lamo1244-1-1-1,,lamo1244-1,1,isa,isa,[],,[],,False,False,,1
+lamo1244-1-2-1,,lamo1244-1,2,akap,akap,[],,[],,False,False,,1
+lamo1244-1-3-1,,lamo1244-1,3,itlu,itlu,[],,[],,False,False,,1
+lamo1244-1-4-1,,lamo1244-1,4,apanal,apanal,[],,[],,False,False,,1
+lamo1244-1-5-1,,lamo1244-1,5,elme,elme,[],,[],,False,False,,1
+lamo1244-1-6-1,,lamo1244-1,6,elme isa,elme isa,[],( 5 + 1 ),[],,False,False,,1
+lamo1244-1-7-1,,lamo1244-1,7,elme akap,elme akap,[],( 5 + 2 ),[],,False,False,,1
+lamo1244-1-8-1,,lamo1244-1,8,elme itlu,elme itlu,[],( 5 + 3 ),[],,False,False,,1
+lamo1244-1-9-1,,lamo1244-1,9,elme apanal,elme apanal,[],( 5 + 4 ),[],,False,False,,1
+lamo1244-1-10-1,,lamo1244-1,10,soŋotno,soŋotno,[],,[],,False,False,,1
+lamo1244-1-11-1,,lamo1244-1,11,soŋotno e isa la klou,soŋotno e isa la klou,[],,[],,False,False,,1
+lamo1244-1-12-1,,lamo1244-1,12,soŋotno e akap la klou,soŋotno e akap la klou,[],,[],,False,False,,1
+lamo1244-1-13-1,,lamo1244-1,13,soŋotno e itlu la klou,soŋotno e itlu la klou,[],,[],,False,False,,1
+lamo1244-1-14-1,,lamo1244-1,14,soŋotno e apanal la klou,soŋotno e apanal la klou,[],,[],,False,False,,1
+lamo1244-1-15-1,,lamo1244-1,15,soŋotno e elme la klou,soŋotno e elme la klou,[],,[],,False,False,,1
+lamo1244-1-16-1,,lamo1244-1,16,soŋotno e elme isa la klou,soŋotno e elme isa la klou,[],,[],,False,False,,1
+lamo1244-1-17-1,,lamo1244-1,17,soŋotno e elme akap la klou,soŋotno e elme akap la klou,[],,[],,False,False,,1
+lamo1244-1-18-1,,lamo1244-1,18,soŋotno e elme itlu la klou,soŋotno e elme itlu la klou,[],,[],,False,False,,1
+lamo1244-1-19-1,,lamo1244-1,19,soŋotno e elme apanal la klou,soŋotno e elme apanal la klou,[],,[],,False,False,,1
+lamo1244-1-20-1,,lamo1244-1,20,soŋotno akap,soŋotno akap,[],,[],,False,False,,1
+lamo1244-1-21-1,,lamo1244-1,21,soŋotno akap e isa la klou,soŋotno akap e isa la klou,[],,[],,False,False,,1
+lamo1244-1-22-1,,lamo1244-1,22,soŋotno akap e akap la klou,soŋotno akap e akap la klou,[],,[],,False,False,,1
+lamo1244-1-23-1,,lamo1244-1,23,soŋotno akap e itlu la klou,soŋotno akap e itlu la klou,[],,[],,False,False,,1
+lamo1244-1-24-1,,lamo1244-1,24,soŋotno akap e apanal la klou,soŋotno akap e apanal la klou,[],,[],,False,False,,1
+lamo1244-1-25-1,,lamo1244-1,25,soŋotno akap e elme la klou,soŋotno akap e elme la klou,[],,[],,False,False,,1
+lamo1244-1-26-1,,lamo1244-1,26,soŋotno akap e elme isa la klou,soŋotno akap e elme isa la klou,[],,[],,False,False,,1
+lamo1244-1-27-1,,lamo1244-1,27,soŋotno akap e elme akap la klou,soŋotno akap e elme akap la klou,[],,[],,False,False,,1
+lamo1244-1-28-1,,lamo1244-1,28,soŋotno akap e elme itlu la klou,soŋotno akap e elme itlu la klou,[],,[],,False,False,,1
+lamo1244-1-29-1,,lamo1244-1,29,soŋotno akap e elme apanal la klou,soŋotno akap e elme apanal la klou,[],,[],,False,False,,1
+lamo1244-1-30-1,,lamo1244-1,30,soŋotno itlu,soŋotno itlu,[],,[],,False,False,,1
+lamo1244-1-40-1,,lamo1244-1,40,soŋotno apanal,soŋotno apanal,[],,[],,False,False,,1
+lamo1244-1-50-1,,lamo1244-1,50,soŋotno elme,soŋotno elme,[],,[],,False,False,,1
+lamo1244-1-60-1,,lamo1244-1,60,soŋotno elme isa,soŋotno elme isa,[],,[],,False,False,,1
+lamo1244-1-70-1,,lamo1244-1,70,soŋotno elme akap,soŋotno elme akap,[],,[],,False,False,,1
+lamo1244-1-80-1,,lamo1244-1,80,soŋotno elme itlu,soŋotno elme itlu,[],,[],,False,False,,1
+lamo1244-1-90-1,,lamo1244-1,90,soŋotno elme apanal,soŋotno elme apanal,[],,[],,False,False,,1
+lamo1244-1-100-1,,lamo1244-1,100,vunoruo isa,vunoruo isa,[],,[],,False,False,,1
+lamo1244-1-200-1,,lamo1244-1,200,vunoruo akap,vunoruo akap,[],,[],,False,False,,1
+lamo1244-1-1000-1,,lamo1244-1,1000,van tausen,van tausen,[],,[],,False,False,,1
+lamo1244-1-2000-1,,lamo1244-1,2000,tu tausen,tu tausen,[],,[],,False,False,,1

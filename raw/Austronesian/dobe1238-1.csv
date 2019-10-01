@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+dobe1238-1-1-1,,dobe1238-1,1,ʔe'tu,ʔe'tu,[],,[],,False,False,,1
+dobe1238-1-1-2,,dobe1238-1,1,ye,ye,[],,[],,False,False,,1
+dobe1238-1-2-1,,dobe1238-1,2,ro,ro,[],,[],,False,False,,1
+dobe1238-1-3-1,,dobe1238-1,3,lay,lay,[],,[],,False,False,,1
+dobe1238-1-4-1,,dobe1238-1,4,ʔawa,ʔawa,[],,[],,False,False,,1
+dobe1238-1-5-1,,dobe1238-1,5,'lima,'lima,[],,[],,False,False,,1
+dobe1238-1-6-1,,dobe1238-1,6,'dubu,'dubu,[],,[],,False,False,,1
+dobe1238-1-7-1,,dobe1238-1,7,dubu'yam,dubu'yam,[],,[],,False,False,,1
+dobe1238-1-8-1,,dobe1238-1,8,ʔa'ro,ʔa'ro,[],(litː 'four two = 2 x 4'),[],,False,False,,1
+dobe1238-1-9-1,,dobe1238-1,9,'yera,'yera,[],,[],,False,False,,1
+dobe1238-1-10-1,,dobe1238-1,10,wur,wur,[],,[],,False,False,,1
+dobe1238-1-11-1,,dobe1238-1,11,wur na ye,wur na ye,[],,[],,False,False,,1
+dobe1238-1-12-1,,dobe1238-1,12,wur na ro,wur na ro,[],,[],,False,False,,1
+dobe1238-1-13-1,,dobe1238-1,13,wur na lay,wur na lay,[],,[],,False,False,,1
+dobe1238-1-14-1,,dobe1238-1,14,wur na ʔawa,wur na ʔawa,[],,[],,False,False,,1
+dobe1238-1-15-1,,dobe1238-1,15,wur na 'lima,wur na 'lima,[],,[],,False,False,,1
+dobe1238-1-16-1,,dobe1238-1,16,wur na 'dubu,wur na 'dubu,[],,[],,False,False,,1
+dobe1238-1-17-1,,dobe1238-1,17,wur na dubu'yam,wur na dubu'yam,[],,[],,False,False,,1
+dobe1238-1-18-1,,dobe1238-1,18,wur na ʔa'ro,wur na ʔa'ro,[],,[],,False,False,,1
+dobe1238-1-19-1,,dobe1238-1,19,wur na 'yera,wur na 'yera,[],,[],,False,False,,1
+dobe1238-1-20-1,,dobe1238-1,20,ʔu'raɸi ro,ʔu'raɸi ro,[],,[],,False,False,,1
+dobe1238-1-21-1,,dobe1238-1,21,ʔu'raɸi ro na ye,ʔu'raɸi ro na ye,[],,[],,False,False,,1
+dobe1238-1-22-1,,dobe1238-1,22,ʔu'raɸi ro na ro,ʔu'raɸi ro na ro,[],,[],,False,False,,1
+dobe1238-1-23-1,,dobe1238-1,23,ʔu'raɸi ro na lay,ʔu'raɸi ro na lay,[],,[],,False,False,,1
+dobe1238-1-24-1,,dobe1238-1,24,ʔu'raɸi ro na ʔawa,ʔu'raɸi ro na ʔawa,[],,[],,False,False,,1
+dobe1238-1-25-1,,dobe1238-1,25,ʔu'raɸi ro na lima,ʔu'raɸi ro na lima,[],,[],,False,False,,1
+dobe1238-1-26-1,,dobe1238-1,26,ʔu'raɸi ro na 'dubu,ʔu'raɸi ro na 'dubu,[],,[],,False,False,,1
+dobe1238-1-27-1,,dobe1238-1,27,ʔu'raɸi ro na dubu'yam,ʔu'raɸi ro na dubu'yam,[],,[],,False,False,,1
+dobe1238-1-28-1,,dobe1238-1,28,ʔu'raɸi ro na ʔa'ro,ʔu'raɸi ro na ʔa'ro,[],,[],,False,False,,1
+dobe1238-1-29-1,,dobe1238-1,29,ʔu'raɸi ro na 'yera,ʔu'raɸi ro na 'yera,[],,[],,False,False,,1
+dobe1238-1-30-1,,dobe1238-1,30,ʔu'raɸi lay,ʔu'raɸi lay,[],,[],,False,False,,1
+dobe1238-1-40-1,,dobe1238-1,40,ʔu'raɸi ʔawa,ʔu'raɸi ʔawa,[],,[],,False,False,,1
+dobe1238-1-50-1,,dobe1238-1,50,ʔu'raɸi lima,ʔu'raɸi lima,[],,[],,False,False,,1
+dobe1238-1-60-1,,dobe1238-1,60,ʔu'raɸi 'dubu,ʔu'raɸi 'dubu,[],,[],,False,False,,1
+dobe1238-1-70-1,,dobe1238-1,70,ʔu'raɸi dubu'yam,ʔu'raɸi dubu'yam,[],,[],,False,False,,1
+dobe1238-1-80-1,,dobe1238-1,80,ʔu'raɸi ʔa'ro,ʔu'raɸi ʔa'ro,[],,[],,False,False,,1
+dobe1238-1-90-1,,dobe1238-1,90,ʔu'raɸi 'yera,ʔu'raɸi 'yera,[],,[],,False,False,,1
+dobe1238-1-100-1,,dobe1238-1,100,ratu ye,ratu ye,[],,[],,False,False,,1
+dobe1238-1-200-1,,dobe1238-1,200,ratu ro,ratu ro,[],,[],,False,False,,1
+dobe1238-1-1000-1,,dobe1238-1,1000,riɸun ye,riɸun ye,[],,[],,False,False,,1
+dobe1238-1-1000-2,,dobe1238-1,1000,ribu ye,ribu ye,[],,[],,False,False,,1
+dobe1238-1-2000-1,,dobe1238-1,2000,riɸun ro,riɸun ro,[],,[],,False,False,,1
+dobe1238-1-2000-2,,dobe1238-1,2000,ribu ro,ribu ro,[],,[],,False,False,,1

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+chuw1238-1-1-1,,chuw1238-1,1,modʰa,modʰa,[],,[],,False,False,,1
+chuw1238-1-2-1,,chuw1238-1,2,biːli,biːli,[],,[],,False,False,,1
+chuw1238-1-3-1,,chuw1238-1,3,ʈ͡ʂaːru,ʈ͡ʂaːru,[],,[],,False,False,,1
+chuw1238-1-4-1,,chuw1238-1,4,nai,nai,[],,[],,False,False,,1
+chuw1238-1-5-1,,chuw1238-1,5,tanu,tanu,[],,[],,False,False,,1
+chuw1238-1-6-1,,chuw1238-1,6,tanunamodʰa,tanunamodʰa,[],( 5 + 1 ),[],,False,False,,1
+chuw1238-1-7-1,,chuw1238-1,7,tanunabiːli,tanunabiːli,[],( 5 + 2 ),[],,False,False,,1
+chuw1238-1-8-1,,chuw1238-1,8,tanaʈ͡ʂaːru,tanaʈ͡ʂaːru,[],( 5 + 3 ),[],,False,False,,1
+chuw1238-1-9-1,,chuw1238-1,9,tananai,tananai,[],( 5 + 4 ),[],,False,False,,1
+chuw1238-1-10-1,,chuw1238-1,10,kumi,kumi,[],,[],,False,False,,1
+chuw1238-1-11-1,,chuw1238-1,11,kumi na modʰa,kumi na modʰa,[],,[],,False,False,,1
+chuw1238-1-12-1,,chuw1238-1,12,kumi na biːli,kumi na biːli,[],,[],,False,False,,1
+chuw1238-1-13-1,,chuw1238-1,13,kumi na ʈ͡ʂaːru,kumi na ʈ͡ʂaːru,[],,[],,False,False,,1
+chuw1238-1-14-1,,chuw1238-1,14,kumi na nai,kumi na nai,[],,[],,False,False,,1
+chuw1238-1-15-1,,chuw1238-1,15,kumi na tanu,kumi na tanu,[],,[],,False,False,,1
+chuw1238-1-16-1,,chuw1238-1,16,kumi na tanunamodʰa,kumi na tanunamodʰa,[],,[],,False,False,,1
+chuw1238-1-17-1,,chuw1238-1,17,kumi na tanunabiːli,kumi na tanunabiːli,[],,[],,False,False,,1
+chuw1238-1-18-1,,chuw1238-1,18,kumi na tanaʈ͡ʂaːru,kumi na tanaʈ͡ʂaːru,[],,[],,False,False,,1
+chuw1238-1-19-1,,chuw1238-1,19,kumi na tananai,kumi na tananai,[],,[],,False,False,,1
+chuw1238-1-20-1,,chuw1238-1,20,makumi meːli,makumi meːli,[],,[],,False,False,,1
+chuw1238-1-21-1,,chuw1238-1,21,makumi meːli na modʰa,makumi meːli na modʰa,[],,[],,False,False,,1
+chuw1238-1-22-1,,chuw1238-1,22,makumi meːli na biːli,makumi meːli na biːli,[],,[],,False,False,,1
+chuw1238-1-23-1,,chuw1238-1,23,makumi meːli na ʈ͡ʂaːru,makumi meːli na ʈ͡ʂaːru,[],,[],,False,False,,1
+chuw1238-1-24-1,,chuw1238-1,24,makumi meːli na nai,makumi meːli na nai,[],,[],,False,False,,1
+chuw1238-1-25-1,,chuw1238-1,25,makumi meːli na tanu,makumi meːli na tanu,[],,[],,False,False,,1
+chuw1238-1-26-1,,chuw1238-1,26,makumi meːli na tanunamodʰa,makumi meːli na tanunamodʰa,[],,[],,False,False,,1
+chuw1238-1-27-1,,chuw1238-1,27,makumi meːli na tanunabiːli,makumi meːli na tanunabiːli,[],,[],,False,False,,1
+chuw1238-1-28-1,,chuw1238-1,28,makumi meːli na tanaʈ͡ʂaːru,makumi meːli na tanaʈ͡ʂaːru,[],,[],,False,False,,1
+chuw1238-1-29-1,,chuw1238-1,29,makumi meːli na tananai,makumi meːli na tananai,[],,[],,False,False,,1
+chuw1238-1-30-1,,chuw1238-1,30,woːkubanya,woːkubanya,[],,[],,False,False,,1
+chuw1238-1-40-1,,chuw1238-1,40,makumi manai,makumi manai,[],,[],,False,False,,1
+chuw1238-1-50-1,,chuw1238-1,50,makumi matanu,makumi matanu,[],,[],,False,False,,1
+chuw1238-1-60-1,,chuw1238-1,60,makumi matanu na nimodʰa,makumi matanu na nimodʰa,[],,[],,False,False,,1
+chuw1238-1-70-1,,chuw1238-1,70,makumi matanu na meːli,makumi matanu na meːli,[],,[],,False,False,,1
+chuw1238-1-80-1,,chuw1238-1,80,makumi matanu na maraːru,makumi matanu na maraːru,[],,[],,False,False,,1
+chuw1238-1-90-1,,chuw1238-1,90,makumi matanu na manai,makumi matanu na manai,[],,[],,False,False,,1
+chuw1238-1-100-1,,chuw1238-1,100,zana,zana,[],,[],,False,False,,1
+chuw1238-1-200-1,,chuw1238-1,200,mazana meːli,mazana meːli,[],,[],,False,False,,1
+chuw1238-1-1000-1,,chuw1238-1,1000,cikwi,cikwi,[],,[],,False,False,,1
+chuw1238-1-2000-1,,chuw1238-1,2000,macikwi meːli,macikwi meːli,[],,[],,False,False,,1

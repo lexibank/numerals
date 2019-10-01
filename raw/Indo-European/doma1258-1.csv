@@ -1,0 +1,59 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+doma1258-1-1-1,,doma1258-1,1,yēka,yēka,[],,[],,False,False,,1
+doma1258-1-1-2,,doma1258-1,1,yōka,yōka,[],(short forms yē /yō),[],,False,False,,1
+doma1258-1-2-1,,doma1258-1,2,dədī,dədī,[],,[],,False,False,,1
+doma1258-1-2-2,,doma1258-1,2,dī,dī,[],(modifier),[],,False,False,,1
+doma1258-1-3-1,,doma1258-1,3,trən,trən,[],,[],,False,False,,1
+doma1258-1-3-2,,doma1258-1,3,tɾən,tɾən,[],,[],,False,False,,1
+doma1258-1-4-1,,doma1258-1,4,štār,štār,[],,[],,False,False,,1
+doma1258-1-4-2,,doma1258-1,4,ʃtaːɾ,ʃtaːɾ,[],,[],,False,False,,1
+doma1258-1-5-1,,doma1258-1,5,panɡ̌,panɡ̌,[],,[],,False,False,,1
+doma1258-1-5-2,,doma1258-1,5,pandʒ,pandʒ,[],,[],,False,False,,1
+doma1258-1-6-1,,doma1258-1,6,šēš,šēš,[],,[],,False,False,,1
+doma1258-1-6-2,,doma1258-1,6,ʃeːʃ,ʃeːʃ,[],,[],,False,False,,1
+doma1258-1-7-1,,doma1258-1,7,ḥawt,ḥawt,[],,[],,False,False,,1
+doma1258-1-7-2,,doma1258-1,7,ḥaft,ḥaft,[],(Kurdish),[],,False,False,,1
+doma1258-1-8-1,,doma1258-1,8,ḥašt,ḥašt,[],(Kurdish),[],,False,False,,1
+doma1258-1-9-1,,doma1258-1,9,nu,nu,[],(Kurdish),[],,False,False,,1
+doma1258-1-9-2,,doma1258-1,9,nah,nah,[],(inherited),[],,False,False,,1
+doma1258-1-10-1,,doma1258-1,10,dazz,dazz,[],,[],,False,False,,1
+doma1258-1-10-2,,doma1258-1,10,dazː,dazː,[],,[],,False,False,,1
+doma1258-1-11-1,,doma1258-1,11,dazz yēk,dazz yēk,[],,[],,False,False,,1
+doma1258-1-12-1,,doma1258-1,12,dazz dī,dazz dī,[],,[],,False,False,,1
+doma1258-1-13-1,,doma1258-1,13,dazz trən,dazz trən,[],,[],,False,False,,1
+doma1258-1-14-1,,doma1258-1,14,dašštā < dazz štār,dašštā < dazz štār,[],,[],,False,True,,1
+doma1258-1-15-1,,doma1258-1,15,dazz panɡ̌,dazz panɡ̌,[],,[],,False,False,,1
+doma1258-1-16-1,,doma1258-1,16,daššēš < dazz šēš,daššēš < dazz šēš,[],,[],,False,True,,1
+doma1258-1-17-1,,doma1258-1,17,dazz ḥawṭ,dazz ḥawṭ,[],,[],,False,False,,1
+doma1258-1-17-2,,doma1258-1,17,dazz ḥaft,dazz ḥaft,[],,[],,False,False,,1
+doma1258-1-18-1,,doma1258-1,18,dazz h̩ašt,dazz h̩ašt,[],,[],,False,False,,1
+doma1258-1-19-1,,doma1258-1,19,dazz nah,dazz nah,[],,[],,False,False,,1
+doma1258-1-19-2,,doma1258-1,19,nu,nu,[],,[],,False,False,,1
+doma1258-1-20-1,,doma1258-1,20,wīst,wīst,[],(Kurdish),[],,False,False,,1
+doma1258-1-21-1,,doma1258-1,21,wīst yēka,wīst yēka,[],,[],,False,False,,1
+doma1258-1-22-1,,doma1258-1,22,wīst dədī,wīst dədī,[],,[],,False,False,,1
+doma1258-1-23-1,,doma1258-1,23,wīst trən,wīst trən,[],,[],,False,False,,1
+doma1258-1-24-1,,doma1258-1,24,wīšštār < wīst štār,wīšštār < wīst štār,[],,[],,False,True,,1
+doma1258-1-25-1,,doma1258-1,25,wīst panɡ̌,wīst panɡ̌,[],,[],,False,False,,1
+doma1258-1-26-1,,doma1258-1,26,wīššēš < wīst šēš,wīššēš < wīst šēš,[],,[],,False,True,,1
+doma1258-1-27-1,,doma1258-1,27,wīst ḥawṭ,wīst ḥawṭ,[],,[],,False,False,,1
+doma1258-1-27-2,,doma1258-1,27,ḥašt,ḥašt,[],,[],,False,False,,1
+doma1258-1-28-1,,doma1258-1,28,wīst ḥašt,wīst ḥašt,[],,[],,False,False,,1
+doma1258-1-29-1,,doma1258-1,29,wīst nah,wīst nah,[],,[],,False,False,,1
+doma1258-1-29-2,,doma1258-1,29,nu,nu,[],,[],,False,False,,1
+doma1258-1-30-1,,doma1258-1,30,sī,sī,[],,[],,False,False,,1
+doma1258-1-30-2,,doma1258-1,30,siː,siː,[],,[],,False,False,,1
+doma1258-1-40-1,,doma1258-1,40,čəl,čəl,[],,[],,False,False,,1
+doma1258-1-40-2,,doma1258-1,40,tʃəl,tʃəl,[],,[],,False,False,,1
+doma1258-1-50-1,,doma1258-1,50,pēnǧā,pēnǧā,[],,[],,False,False,,1
+doma1258-1-50-2,,doma1258-1,50,pe:ndʒaː,pe:ndʒaː,[],,[],,False,False,,1
+doma1258-1-60-1,,doma1258-1,60,trən wīst,trən wīst,[],,[],,False,False,,1
+doma1258-1-70-1,,doma1258-1,70,trən wīst dazz,trən wīst dazz,[],,[],,False,False,,1
+doma1258-1-80-1,,doma1258-1,80,trən wīst wīst,trən wīst wīst,[],,[],,False,False,,1
+doma1258-1-80-2,,doma1258-1,80,štār wīst,štār wīst,[],,[],,False,False,,1
+doma1258-1-90-1,,doma1258-1,90,ṣadd illa dazz,ṣadd illa dazz,[],,[],,False,False,,1
+doma1258-1-90-2,,doma1258-1,90,štār wīst dazz,štār wīst dazz,[],,[],,False,False,,1
+doma1258-1-100-1,,doma1258-1,100,ṣadd,ṣadd,[],(Kurdish),[],,False,False,,1
+doma1258-1-200-1,,doma1258-1,200,dī ṣadd,dī ṣadd,[],,[],,False,False,,1
+doma1258-1-1000-1,,doma1258-1,1000,hazār,hazār,[],(Kurdish),[],,False,False,,1
+doma1258-1-2000-1,,doma1258-1,2000,dī hazār,dī hazār,[],,[],,False,False,,1

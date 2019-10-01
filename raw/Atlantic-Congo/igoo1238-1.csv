@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+igoo1238-1-1-1,,igoo1238-1,1,ili,ili,[],,[],,False,False,,1
+igoo1238-1-2-1,,igoo1238-1,2,ìwà,ìwà,[],,[],,False,False,,1
+igoo1238-1-3-1,,igoo1238-1,3,ìtã,ìtã,[],,[],,False,False,,1
+igoo1238-1-4-1,,igoo1238-1,4,àlã̀,àlã̀,[],,[],,False,False,,1
+igoo1238-1-5-1,,igoo1238-1,5,ùtɔ,ùtɔ,[],,[],,False,False,,1
+igoo1238-1-6-1,,igoo1238-1,6,uɡo,uɡo,[],,[],,False,False,,1
+igoo1238-1-7-1,,igoo1238-1,7,ùzòni,ùzòni,[],,[],,False,False,,1
+igoo1238-1-8-1,,igoo1238-1,8,ùmàlà,ùmàlà,[],,[],,False,False,,1
+igoo1238-1-9-1,,igoo1238-1,9,úkàli,úkàli,[],,[],,False,False,,1
+igoo1238-1-10-1,,igoo1238-1,10,ɔ̀wú,ɔ̀wú,[],,[],,False,False,,1
+igoo1238-1-11-1,,igoo1238-1,11,ɔ̀wú ili,ɔ̀wú ili,[],,[],,False,False,,1
+igoo1238-1-12-1,,igoo1238-1,12,ɔ̀wú ìwà,ɔ̀wú ìwà,[],,[],,False,False,,1
+igoo1238-1-13-1,,igoo1238-1,13,ɔ̀wú ìtã,ɔ̀wú ìtã,[],,[],,False,False,,1
+igoo1238-1-14-1,,igoo1238-1,14,ɔ̀wú àlã̀,ɔ̀wú àlã̀,[],,[],,False,False,,1
+igoo1238-1-15-1,,igoo1238-1,15,ɔ̀wú (ù)tɔ,ɔ̀wú (ù)tɔ,[],,[],,False,False,,1
+igoo1238-1-16-1,,igoo1238-1,16,ɔ̀wú (u)ɡo,ɔ̀wú (u)ɡo,[],,[],,False,False,,1
+igoo1238-1-17-1,,igoo1238-1,17,ɔ̀wú (ù)zòni,ɔ̀wú (ù)zòni,[],,[],,False,False,,1
+igoo1238-1-18-1,,igoo1238-1,18,ɔ̀wú (ù)màlà,ɔ̀wú (ù)màlà,[],,[],,False,False,,1
+igoo1238-1-19-1,,igoo1238-1,19,ɔ̀wú (ú)kàli,ɔ̀wú (ú)kàli,[],,[],,False,False,,1
+igoo1238-1-20-1,,igoo1238-1,20,ìŋuéɖì,ìŋuéɖì,[],,[],,False,False,,1
+igoo1238-1-21-1,,igoo1238-1,21,ìŋuéɖì ili,ìŋuéɖì ili,[],,[],,False,False,,1
+igoo1238-1-22-1,,igoo1238-1,22,ìŋuéɖì ìwà,ìŋuéɖì ìwà,[],,[],,False,False,,1
+igoo1238-1-23-1,,igoo1238-1,23,ìŋuéɖì ìtã,ìŋuéɖì ìtã,[],,[],,False,False,,1
+igoo1238-1-24-1,,igoo1238-1,24,ìŋuéɖì àlã̀,ìŋuéɖì àlã̀,[],,[],,False,False,,1
+igoo1238-1-25-1,,igoo1238-1,25,ìŋuéɖì ùtɔ,ìŋuéɖì ùtɔ,[],,[],,False,False,,1
+igoo1238-1-26-1,,igoo1238-1,26,ìŋuéɖì uɡo,ìŋuéɖì uɡo,[],,[],,False,False,,1
+igoo1238-1-27-1,,igoo1238-1,27,ìŋuéɖì ùzòni,ìŋuéɖì ùzòni,[],,[],,False,False,,1
+igoo1238-1-28-1,,igoo1238-1,28,ìŋuéɖì ùmàlà,ìŋuéɖì ùmàlà,[],,[],,False,False,,1
+igoo1238-1-29-1,,igoo1238-1,29,ìŋuéɖì úkàli,ìŋuéɖì úkàli,[],,[],,False,False,,1
+igoo1238-1-30-1,,igoo1238-1,30,ìblatɔ̀,ìblatɔ̀,[],,[],,False,False,,1
+igoo1238-1-40-1,,igoo1238-1,40,ìŋuɛ́ɖì,ìŋuɛ́ɖì,[],,[],,False,False,,1
+igoo1238-1-50-1,,igoo1238-1,50,ìwotu,ìwotu,[],,[],,False,False,,1
+igoo1238-1-60-1,,igoo1238-1,60,ìwotu ɔ̀wú,ìwotu ɔ̀wú,[],( 50 + 10 ),[],,False,False,,1
+igoo1238-1-70-1,,igoo1238-1,70,ìwotu ìŋuéɖì,ìwotu ìŋuéɖì,[],( 50 + 20 ),[],,False,False,,1
+igoo1238-1-80-1,,igoo1238-1,80,ìwotu ìblatɔ̀,ìwotu ìblatɔ̀,[],( 50 + 30 ),[],,False,False,,1
+igoo1238-1-90-1,,igoo1238-1,90,ìwotu ìŋuɛ́ɖì,ìwotu ìŋuɛ́ɖì,[],( 50 + 40 ),[],,False,False,,1
+igoo1238-1-100-1,,igoo1238-1,100,alafázà,alafázà,[],( < Ewe ),[],,True,False,,1
+igoo1238-1-200-1,,igoo1238-1,200,alafá ínìwà,alafá ínìwà,[],,[],,False,False,,1
+igoo1238-1-1000-1,,igoo1238-1,1000,àk͡pizà,àk͡pizà,[],( < Ewe ),[],,True,False,,1
+igoo1238-1-2000-1,,igoo1238-1,2000,àk͡pi ínìwà,àk͡pi ínìwà,[],,[],,False,False,,1

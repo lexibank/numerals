@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+russ1263-1-1-1,,russ1263-1,1,yiw,yiw,[],,[],,False,False,,1
+russ1263-1-1-2,,russ1263-1,1,yi,yi,[],,[],,False,False,,1
+russ1263-1-2-1,,russ1263-1,2,ðaw,ðaw,[],,[],,False,False,,1
+russ1263-1-3-1,,russ1263-1,3,aráy,aráy,[],,[],,False,False,,1
+russ1263-1-4-1,,russ1263-1,4,cavōr,cavōr,[],,[],,False,False,,1
+russ1263-1-5-1,,russ1263-1,5,pinj,pinj,[],,[],,False,False,,1
+russ1263-1-6-1,,russ1263-1,6,xöw,xöw,[],,[],,False,False,,1
+russ1263-1-7-1,,russ1263-1,7,ūvd,ūvd,[],,[],,False,False,,1
+russ1263-1-8-1,,russ1263-1,8,wax̌t,wax̌t,[],,[],,False,False,,1
+russ1263-1-9-1,,russ1263-1,9,nāw,nāw,[],,[],,False,False,,1
+russ1263-1-10-1,,russ1263-1,10,ðus,ðus,[],,[],,False,False,,1
+russ1263-1-11-1,,russ1263-1,11,jozdah,jozdah,[],,[],,False,False,yozdah,1
+russ1263-1-12-1,,russ1263-1,12,duvozdah,duvozdah,[],,[],,False,False,duwozdah,1
+russ1263-1-13-1,,russ1263-1,13,sezdah,sezdah,[],,[],,False,False,sezdah,1
+russ1263-1-14-1,,russ1263-1,14,t͡ʃozdah,t͡ʃozdah,[],,[],,False,False,čorzdah,1
+russ1263-1-15-1,,russ1263-1,15,ponzdah,ponzdah,[],,[],,False,False,ponzdah,1
+russ1263-1-16-1,,russ1263-1,16,ʃonzdah,ʃonzdah,[],,[],,False,False,šonzdah,1
+russ1263-1-17-1,,russ1263-1,17,hafdah,hafdah,[],,[],,False,False,hafdah,1
+russ1263-1-18-1,,russ1263-1,18,haʒdah,haʒdah,[],,[],,False,False,haždah,1
+russ1263-1-19-1,,russ1263-1,19,nuzdah,nuzdah,[],,[],,False,False,nuzdah,1
+russ1263-1-20-1,,russ1263-1,20,bist,bist,[],,[],,False,False,bist,1
+russ1263-1-21-1,,russ1263-1,21,bistu yak,bistu yak,[],,[],,False,False,,1
+russ1263-1-22-1,,russ1263-1,22,bistu da,bistu da,[],,[],,False,False,,1
+russ1263-1-23-1,,russ1263-1,23,bistu se,bistu se,[],,[],,False,False,,1
+russ1263-1-24-1,,russ1263-1,24,bistu čor,bistu čor,[],,[],,False,False,,1
+russ1263-1-25-1,,russ1263-1,25,bistu panǰ,bistu panǰ,[],,[],,False,False,,1
+russ1263-1-26-1,,russ1263-1,26,bistu šaš,bistu šaš,[],,[],,False,False,,1
+russ1263-1-27-1,,russ1263-1,27,bistu aft,bistu aft,[],,[],,False,False,,1
+russ1263-1-28-1,,russ1263-1,28,bistu ašt,bistu ašt,[],,[],,False,False,,1
+russ1263-1-29-1,,russ1263-1,29,bistu nu,bistu nu,[],,[],,False,False,,1
+russ1263-1-30-1,,russ1263-1,30,si,si,[],,[],,False,False,,1
+russ1263-1-40-1,,russ1263-1,40,čol t͡ʃol],čol t͡ʃol],[],,[],,False,True,,1
+russ1263-1-50-1,,russ1263-1,50,pand͡ʒo,pand͡ʒo,[],,[],,False,False,panǰo,1
+russ1263-1-60-1,,russ1263-1,60,ʃast,ʃast,[],,[],,False,False,šast,1
+russ1263-1-70-1,,russ1263-1,70,aftod,aftod,[],,[],,False,False,aftod,1
+russ1263-1-80-1,,russ1263-1,80,aʃtod,aʃtod,[],,[],,False,False,aštod,1
+russ1263-1-90-1,,russ1263-1,90,nawad,nawad,[],,[],,False,False,nawad,1
+russ1263-1-100-1,,russ1263-1,100,sad,sad,[],,[],,False,False,,1
+russ1263-1-200-1,,russ1263-1,200,dusad,dusad,[],,[],,False,False,,1
+russ1263-1-1000-1,,russ1263-1,1000,hazor,hazor,[],,[],,False,False,,1
+russ1263-1-2000-1,,russ1263-1,2000,du hazor,du hazor,[],,[],,False,False,,1

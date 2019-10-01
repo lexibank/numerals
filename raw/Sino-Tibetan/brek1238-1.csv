@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+brek1238-1-1-1,,brek1238-1,1,dá,dá,[],,[],,False,False,,1
+brek1238-1-2-1,,brek1238-1,2,dáɡí,dáɡí,[],,[],,False,False,,1
+brek1238-1-3-1,,brek1238-1,3,sú,sú,[],,[],,False,False,,1
+brek1238-1-4-1,,brek1238-1,4,lí,lí,[],,[],,False,False,,1
+brek1238-1-5-1,,brek1238-1,5,jɛ́,jɛ́,[],,[],,False,False,,1
+brek1238-1-6-1,,brek1238-1,6,súʔsʊ́ʔ,súʔsʊ́ʔ,[],( 3 x 2 ),[],,False,False,,1
+brek1238-1-7-1,,brek1238-1,7,n̥ɛ́,n̥ɛ́,[],,[],,False,False,,1
+brek1238-1-8-1,,brek1238-1,8,ʃísó,ʃísó,[],( 4 x 2 ),[],,False,False,,1
+brek1238-1-9-1,,brek1238-1,9,kíʔ,kíʔ,[],,[],,False,False,,1
+brek1238-1-10-1,,brek1238-1,10,tʃʰí,tʃʰí,[],,[],,False,False,,1
+brek1238-1-11-1,,brek1238-1,11,ʃídà,ʃídà,[],,[],,False,False,,1
+brek1238-1-12-1,,brek1238-1,12,ʃíɡí,ʃíɡí,[],,[],,False,False,,1
+brek1238-1-13-1,,brek1238-1,13,ʃísúʔ,ʃísúʔ,[],,[],,False,False,,1
+brek1238-1-14-1,,brek1238-1,14,ʃílí,ʃílí,[],,[],,False,False,,1
+brek1238-1-15-1,,brek1238-1,15,ʃíjɛ́,ʃíjɛ́,[],,[],,False,False,,1
+brek1238-1-16-1,,brek1238-1,16,ʃísúsóʔ,ʃísúsóʔ,[],,[],,False,False,,1
+brek1238-1-17-1,,brek1238-1,17,ʃín̥ɛ́ʔ,ʃín̥ɛ́ʔ,[],,[],,False,False,,1
+brek1238-1-18-1,,brek1238-1,18,ʃílísóʔ,ʃílísóʔ,[],,[],,False,False,,1
+brek1238-1-19-1,,brek1238-1,19,ʃíkʰɛ́ʔ,ʃíkʰɛ́ʔ,[],,[],,False,False,,1
+brek1238-1-20-1,,brek1238-1,20,ɡìʃí,ɡìʃí,[],,[],,False,False,,1
+brek1238-1-21-1,,brek1238-1,21,ɡìʃídá,ɡìʃídá,[],,[],,False,False,,1
+brek1238-1-22-1,,brek1238-1,22,ɡìʃíɡí,ɡìʃíɡí,[],,[],,False,False,,1
+brek1238-1-23-1,,brek1238-1,23,ɡìʃísú,ɡìʃísú,[],,[],,False,False,,1
+brek1238-1-24-1,,brek1238-1,24,ɡìʃílí,ɡìʃílí,[],,[],,False,False,,1
+brek1238-1-25-1,,brek1238-1,25,ɡìʃíjɛ́,ɡìʃíjɛ́,[],,[],,False,False,,1
+brek1238-1-26-1,,brek1238-1,26,ɡìʃísúsóʔ,ɡìʃísúsóʔ,[],,[],,False,False,,1
+brek1238-1-27-1,,brek1238-1,27,ɡìʃín̥ɛ́,ɡìʃín̥ɛ́,[],,[],,False,False,,1
+brek1238-1-28-1,,brek1238-1,28,ɡìʃílìsóʔ,ɡìʃílìsóʔ,[],,[],,False,False,,1
+brek1238-1-29-1,,brek1238-1,29,ɡìʃíkʰé,ɡìʃíkʰé,[],,[],,False,False,,1
+brek1238-1-30-1,,brek1238-1,30,súʃí,súʃí,[],,[],,False,False,,1
+brek1238-1-40-1,,brek1238-1,40,líʃí,líʃí,[],,[],,False,False,,1
+brek1238-1-50-1,,brek1238-1,50,jɛ́ʃí,jɛ́ʃí,[],,[],,False,False,,1
+brek1238-1-60-1,,brek1238-1,60,ʃúʃí,ʃúʃí,[],,[],,False,False,,1
+brek1238-1-70-1,,brek1238-1,70,n̥ɛ́ʃí,n̥ɛ́ʃí,[],,[],,False,False,,1
+brek1238-1-80-1,,brek1238-1,80,ʃóʃí,ʃóʃí,[],,[],,False,False,,1
+brek1238-1-90-1,,brek1238-1,90,kʰéʃí,kʰéʃí,[],,[],,False,False,,1
+brek1238-1-100-1,,brek1238-1,100,tə̄jà,tə̄jà,[],(< Burmese),[],,True,False,,1
+brek1238-1-200-1,,brek1238-1,200,ɡìjà,ɡìjà,[],,[],,False,False,,1
+brek1238-1-1000-1,,brek1238-1,1000,dòtʰòʔ,dòtʰòʔ,[],< Burmese ,[],,True,False,,1
+brek1238-1-2000-1,,brek1238-1,2000,ɡítʰòʔ,ɡítʰòʔ,[],,[],,False,False,,1

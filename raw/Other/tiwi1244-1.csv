@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tiwi1244-1-1-1,,tiwi1244-1,1,yati,yati,[],,[],,False,False,,1
+tiwi1244-1-1-2,,tiwi1244-1,1,yati,yati,[],,[],,False,False,,1
+tiwi1244-1-1-3,,tiwi1244-1,1,nyatinga,nyatinga,[],,[],,False,False,,1
+tiwi1244-1-1-4,,tiwi1244-1,1,ɲatiŋa,ɲatiŋa,[],,[],,False,False,,1
+tiwi1244-1-1-5,,tiwi1244-1,1,natinga,natinga,[],,[],,False,False,,1
+tiwi1244-1-1-6,,tiwi1244-1,1,natiŋa,natiŋa,[],,[],,False,False,,1
+tiwi1244-1-2-1,,tiwi1244-1,2,yirrara,yirrara,[],,[],,False,False,,1
+tiwi1244-1-2-2,,tiwi1244-1,2,yiraɽa,yiraɽa,[],,[],,False,False,,1
+tiwi1244-1-2-3,,tiwi1244-1,2,jara,jara,[],,[],,False,False,,1
+tiwi1244-1-2-4,,tiwi1244-1,2,tʃaɽa,tʃaɽa,[],,[],,False,False,,1
+tiwi1244-1-2-5,,tiwi1244-1,2,yuwurrara,yuwurrara,[],,[],,False,False,,1
+tiwi1244-1-2-6,,tiwi1244-1,2,yuwuraɽa,yuwuraɽa,[],,[],,False,False,,1
+tiwi1244-1-3-1,,tiwi1244-1,3,yirrajirrima,yirrajirrima,[],,[],,False,False,,1
+tiwi1244-1-3-2,,tiwi1244-1,3,yiratʃirima,yiratʃirima,[],,[],,False,False,,1
+tiwi1244-1-3-3,,tiwi1244-1,3,jajirrima,jajirrima,[],,[],,False,False,,1
+tiwi1244-1-3-4,,tiwi1244-1,3,tʃatʃirima,tʃatʃirima,[],,[],,False,False,,1
+tiwi1244-1-3-5,,tiwi1244-1,3,yuwurrajirrima,yuwurrajirrima,[],,[],,False,False,,1
+tiwi1244-1-3-6,,tiwi1244-1,3,yuwuratʃirima,yuwuratʃirima,[],,[],,False,False,,1
+tiwi1244-1-4-1,,tiwi1244-1,4,yatapinti,yatapinti,[],,[],,False,False,,1
+tiwi1244-1-4-2,,tiwi1244-1,4,yatapinti,yatapinti,[],,[],,False,False,,1
+tiwi1244-1-4-3,,tiwi1244-1,4,yatawulingirri,yatawulingirri,[],,[],,False,False,,1
+tiwi1244-1-4-4,,tiwi1244-1,4,yatawuliŋiri,yatawuliŋiri,[],,[],,False,False,,1
+tiwi1244-1-4-5,,tiwi1244-1,4,yukurri,yukurri,[],,[],,False,False,,1
+tiwi1244-1-4-6,,tiwi1244-1,4,yukuri,yukuri,[],,[],,False,False,,1
+tiwi1244-1-5-1,,tiwi1244-1,5,pinginingita,pinginingita,[],,[],,False,False,,1
+tiwi1244-1-5-2,,tiwi1244-1,5,piŋiŋita,piŋiŋita,[],,[],,False,False,,1
+tiwi1244-1-6-1,,tiwi1244-1,6,kiringarra,kiringarra,[],,[],,False,False,,1
+tiwi1244-1-6-2,,tiwi1244-1,6,kiɽiŋara,kiɽiŋara,[],,[],,False,False,,1
+tiwi1244-1-7-1,,tiwi1244-1,7,kiringarra yati,kiringarra yati,[],( 6 + 1 ) ( masculine ),[],,False,False,,1
+tiwi1244-1-7-2,,tiwi1244-1,7,walimani,walimani,[],,[],,False,False,,1
+tiwi1244-1-7-3,,tiwi1244-1,7,walimani,walimani,[],,[],,False,False,,1
+tiwi1244-1-8-1,,tiwi1244-1,8,kiringarra yirrara,kiringarra yirrara,[],( 6 + 2 ),[],,False,False,,1
+tiwi1244-1-8-2,,tiwi1244-1,8,pinginingita yirrajirrima,pinginingita yirrajirrima,[],( 5 + 3 ),[],,False,False,,1
+tiwi1244-1-8-3,,tiwi1244-1,8,punyipunyinga,punyipunyinga,[],,[],,False,False,,1
+tiwi1244-1-8-4,,tiwi1244-1,8,punyipuŋiŋ,punyipuŋiŋ,[],,[],,False,False,,1
+tiwi1244-1-9-1,,tiwi1244-1,9,kiringarra yatawulingirri,kiringarra yatawulingirri,[],( 6 + 2 ),[],,False,False,,1
+tiwi1244-1-9-2,,tiwi1244-1,9,punyipunyinga yati,punyipunyinga yati,[],,[],,False,False,,1
+tiwi1244-1-9-3,,tiwi1244-1,9,natinga,natinga,[],( 8 + 1 ),[],,False,False,,1
+tiwi1244-1-10-1,,tiwi1244-1,10,wumutirrara,wumutirrara,[],,[],,False,False,,1

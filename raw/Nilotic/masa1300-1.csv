@@ -1,0 +1,54 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+masa1300-1-1-1,,masa1300-1,1,nabô,nabô,[],(fem),[],,False,False,,1
+masa1300-1-1-2,,masa1300-1,1,obô,obô,[],(masc),[],,False,False,,1
+masa1300-1-1-3,,masa1300-1,1,nebô,nebô,[],(place),[],,False,False,,1
+masa1300-1-2-1,,masa1300-1,2,aré,aré,[],(fem),[],,False,False,,1
+masa1300-1-2-2,,masa1300-1,2,aàre,aàre,[],,[],,False,False,,1
+masa1300-1-2-3,,masa1300-1,2,ɔáre,ɔáre,[],(masc),[],,False,False,,1
+masa1300-1-3-1,,masa1300-1,3,uní,uní,[],(fem),[],,False,False,,1
+masa1300-1-3-2,,masa1300-1,3,okúni,okúni,[],(masc),[],,False,False,,1
+masa1300-1-4-1,,masa1300-1,4,oŋwán,oŋwán,[],(fem),[],,False,False,,1
+masa1300-1-4-2,,masa1300-1,4,oóŋwan,oóŋwan,[],(masc),[],,False,False,,1
+masa1300-1-5-1,,masa1300-1,5,ímíêt,ímíêt,[],,[],,False,False,,1
+masa1300-1-6-1,,masa1300-1,6,ílɛ̂,ílɛ̂,[],,[],,False,False,,1
+masa1300-1-6-2,,masa1300-1,6,íllɛ̂,íllɛ̂,[],,[],,False,False,,1
+masa1300-1-7-1,,masa1300-1,7,naápishana,naápishana,[],(f.),[],,False,False,,1
+masa1300-1-7-2,,masa1300-1,7,oópishana,oópishana,[],(m.),[],,False,False,,1
+masa1300-1-8-1,,masa1300-1,8,ísíêt,ísíêt,[],< Kalenjin ,[],,True,False,,1
+masa1300-1-9-1,,masa1300-1,9,naáudo,naáudo,[],(fem),[],,False,False,,1
+masa1300-1-9-2,,masa1300-1,9,oódó,oódó,[],(masc),[],,False,False,,1
+masa1300-1-10-1,,masa1300-1,10,tɔ́mɔ̂n,tɔ́mɔ̂n,[],< Kalenjin ,[],,True,False,,1
+masa1300-1-11-1,,masa1300-1,11,tɔ́mɔ̂n o obô,tɔ́mɔ̂n o obô,[],,[],,False,False,,1
+masa1300-1-12-1,,masa1300-1,12,tɔ́mɔ̂n o aaré,tɔ́mɔ̂n o aaré,[],,[],,False,False,,1
+masa1300-1-12-2,,masa1300-1,12,tɔ́môn o aré,tɔ́môn o aré,[],,[],,False,False,,1
+masa1300-1-13-1,,masa1300-1,13,tɔ́mɔ̂n o uní,tɔ́mɔ̂n o uní,[],,[],,False,False,,1
+masa1300-1-14-1,,masa1300-1,14,tɔ́mɔ̂n o oŋwán,tɔ́mɔ̂n o oŋwán,[],,[],,False,False,,1
+masa1300-1-15-1,,masa1300-1,15,tɔ́mɔ̂n o ímíêt,tɔ́mɔ̂n o ímíêt,[],,[],,False,False,,1
+masa1300-1-16-1,,masa1300-1,16,tɔ́mɔ̂n o ílɛ̂,tɔ́mɔ̂n o ílɛ̂,[],,[],,False,False,,1
+masa1300-1-17-1,,masa1300-1,17,tɔ́mɔ̂n o naápishana,tɔ́mɔ̂n o naápishana,[],,[],,False,False,,1
+masa1300-1-18-1,,masa1300-1,18,tɔ́mɔ̂n o ísíêt,tɔ́mɔ̂n o ísíêt,[],,[],,False,False,,1
+masa1300-1-19-1,,masa1300-1,19,tɔ́mɔ̂n o oóudó,tɔ́mɔ̂n o oóudó,[],,[],,False,False,,1
+masa1300-1-19-2,,masa1300-1,19,tɔ́mɔ̂n o naáudo,tɔ́mɔ̂n o naáudo,[],,[],,False,False,,1
+masa1300-1-20-1,,masa1300-1,20,tikítam,tikítam,[],,[],,False,False,,1
+masa1300-1-21-1,,masa1300-1,21,t́ikítam (o) obô,t́ikítam (o) obô,[],,[],,False,False,,1
+masa1300-1-22-1,,masa1300-1,22,tíkítam aàre,tíkítam aàre,[],,[],,False,False,,1
+masa1300-1-22-2,,masa1300-1,22,tikítam ɔàre,tikítam ɔàre,[],,[],,False,False,,1
+masa1300-1-23-1,,masa1300-1,23,tíkítam o okúní,tíkítam o okúní,[],,[],,False,False,,1
+masa1300-1-24-1,,masa1300-1,24,tíkítam o oŋwán,tíkítam o oŋwán,[],,[],,False,False,,1
+masa1300-1-25-1,,masa1300-1,25,tíkítam o ímíêt,tíkítam o ímíêt,[],,[],,False,False,,1
+masa1300-1-26-1,,masa1300-1,26,tíkítam o ílɛ̂,tíkítam o ílɛ̂,[],,[],,False,False,,1
+masa1300-1-27-1,,masa1300-1,27,tíkítam o naápishana,tíkítam o naápishana,[],,[],,False,False,,1
+masa1300-1-28-1,,masa1300-1,28,tíkítam o ísíêt,tíkítam o ísíêt,[],,[],,False,False,,1
+masa1300-1-29-1,,masa1300-1,29,tíkítam oóudó,tíkítam oóudó,[],,[],,False,False,,1
+masa1300-1-30-1,,masa1300-1,30,tomoni uní,tomoni uní,[],,[],,False,False,,1
+masa1300-1-40-1,,masa1300-1,40,ártam,ártam,[],< from Proto-Kalenjin ,[],,True,False,,1
+masa1300-1-50-1,,masa1300-1,50,ɔ́nɔ̂m,ɔ́nɔ̂m,[],< from Proto-Kalenjin ,[],,True,False,,1
+masa1300-1-60-1,,masa1300-1,60,intomoni ílɛ̂,intomoni ílɛ̂,[],( litː 'six tens' ),[],,False,False,,1
+masa1300-1-70-1,,masa1300-1,70,intómóní naápishana,intómóní naápishana,[],,[],,False,False,,1
+masa1300-1-80-1,,masa1300-1,80,intómóní ísíêt,intómóní ísíêt,[],,[],,False,False,,1
+masa1300-1-90-1,,masa1300-1,90,intomoni nááudo,intomoni nááudo,[],,[],,False,False,,1
+masa1300-1-100-1,,masa1300-1,100,îîp,îîp,[],,[],,False,False,,1
+masa1300-1-200-1,,masa1300-1,200,îîp aré,îîp aré,[],,[],,False,False,,1
+masa1300-1-1000-1,,masa1300-1,1000,ipkát tɔ́mɔ̂n,ipkát tɔ́mɔ̂n,[],( 100 x 10),[],,False,False,,1
+masa1300-1-1000-2,,masa1300-1,1000,ɛncatá,ɛncatá,[],,[],,False,False,,1
+masa1300-1-2000-1,,masa1300-1,2000,îîp tɔ́mɔ̂n kát aré,îîp tɔ́mɔ̂n kát aré,[],,[],,False,False,,1

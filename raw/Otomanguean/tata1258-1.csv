@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tata1258-1-1-1,,tata1258-1,1,caka,caka,[],,[],,False,False,,1
+tata1258-1-2-1,,tata1258-1,2,tukʷa,tukʷa,[],,[],,False,False,,1
+tata1258-1-3-1,,tata1258-1,3,sna̜,sna̜,[],,[],,False,False,,1
+tata1258-1-4-1,,tata1258-1,4,hakʷa,hakʷa,[],,[],,False,False,,1
+tata1258-1-5-1,,tata1258-1,5,kaʔyu,kaʔyu,[],,[],,False,False,,1
+tata1258-1-6-1,,tata1258-1,6,skʷa,skʷa,[],,[],,False,False,,1
+tata1258-1-7-1,,tata1258-1,7,kati,kati,[],,[],,False,False,,1
+tata1258-1-8-1,,tata1258-1,8,snu̜ʔ,snu̜ʔ,[],,[],,False,False,,1
+tata1258-1-9-1,,tata1258-1,9,kaa,kaa,[],,[],,False,False,,1
+tata1258-1-10-1,,tata1258-1,10,tii,tii,[],,[],,False,False,,1
+tata1258-1-11-1,,tata1258-1,11,tičaka,tičaka,[],,[],,False,False,,1
+tata1258-1-12-1,,tata1258-1,12,titʸukʷa,titʸukʷa,[],,[],,False,False,,1
+tata1258-1-13-1,,tata1258-1,13,tišna̜,tišna̜,[],,[],,False,False,,1
+tata1258-1-14-1,,tata1258-1,14,tihlyakʷa,tihlyakʷa,[],,[],,False,False,,1
+tata1258-1-15-1,,tata1258-1,15,tiñu̜,tiñu̜,[],,[],,False,False,,1
+tata1258-1-16-1,,tata1258-1,16,tiñu̜ čaka,tiñu̜ čaka,[],( 15 + 1 ),[],,False,False,,1
+tata1258-1-17-1,,tata1258-1,17,tiñu̜ tʸukʷa,tiñu̜ tʸukʷa,[],( 15 + 2 ),[],,False,False,,1
+tata1258-1-18-1,,tata1258-1,18,tiñu̜ šna̜,tiñu̜ šna̜,[],( 15 + 3 ),[],,False,False,,1
+tata1258-1-19-1,,tata1258-1,19,tiñu̜ hlyakʷa,tiñu̜ hlyakʷa,[],( 15 + 4 ),[],,False,False,,1
+tata1258-1-20-1,,tata1258-1,20,kala,kala,[],,[],,False,False,,1
+tata1258-1-21-1,,tata1258-1,21,kala ndukʷa caka,kala ndukʷa caka,[],,[],,False,False,,1
+tata1258-1-22-1,,tata1258-1,22,kala ndukʷa tukʷa,kala ndukʷa tukʷa,[],,[],,False,False,,1
+tata1258-1-23-1,,tata1258-1,23,kala ndukʷa sna̜,kala ndukʷa sna̜,[],,[],,False,False,,1
+tata1258-1-24-1,,tata1258-1,24,kala ndukʷa hakʷa,kala ndukʷa hakʷa,[],,[],,False,False,,1
+tata1258-1-25-1,,tata1258-1,25,kala nɡaʔyu,kala nɡaʔyu,[],,[],,False,False,,1
+tata1258-1-26-1,,tata1258-1,26,kala skʷa,kala skʷa,[],,[],,False,False,,1
+tata1258-1-27-1,,tata1258-1,27,kala kati,kala kati,[],,[],,False,False,,1
+tata1258-1-28-1,,tata1258-1,28,kala snu̜ʔ,kala snu̜ʔ,[],,[],,False,False,,1
+tata1258-1-29-1,,tata1258-1,29,kala kaa,kala kaa,[],,[],,False,False,,1
+tata1258-1-30-1,,tata1258-1,30,kala tʸii,kala tʸii,[],,[],,False,False,,1
+tata1258-1-40-1,,tata1258-1,40,tuʔba,tuʔba,[],( 2 x 20 ),[],,False,False,,1
+tata1258-1-50-1,,tata1258-1,50,tuʔba tʸii,tuʔba tʸii,[],,[],,False,False,,1
+tata1258-1-60-1,,tata1258-1,60,sna̜ yala,sna̜ yala,[],( 3 x 20 ),[],,False,False,,1
+tata1258-1-70-1,,tata1258-1,70,sna̜ yala tʸii,sna̜ yala tʸii,[],,[],,False,False,,1
+tata1258-1-80-1,,tata1258-1,80,hakʷa yala,hakʷa yala,[],( 4 x 20 ),[],,False,False,,1
+tata1258-1-90-1,,tata1258-1,90,hakʷa yala tʸii,hakʷa yala tʸii,[],,[],,False,False,,1
+tata1258-1-100-1,,tata1258-1,100,ska siento,ska siento,[],( 'siento' < Spanish ),[],,True,False,,1
+tata1258-1-200-1,,tata1258-1,200,kala siento,kala siento,[],,[],,False,False,,1
+tata1258-1-1000-1,,tata1258-1,1000,tii siento,tii siento,[],( 10 x 100 ),[],,False,False,,1
+tata1258-1-2000-1,,tata1258-1,2000,kala siento,kala siento,[],( 20 x 100 ),[],,False,False,,1

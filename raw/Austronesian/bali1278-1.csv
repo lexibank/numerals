@@ -1,0 +1,48 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bali1278-1-1-1,,bali1278-1,1,sə,sə,[],,[],,False,False,,1
+bali1278-1-1-2,,bali1278-1,1,bəsik,bəsik,[],,[],,False,False,,1
+bali1278-1-2-1,,bali1278-1,2,duə,duə,[],,[],,False,False,,1
+bali1278-1-3-1,,bali1278-1,3,təlu,təlu,[],,[],,False,False,,1
+bali1278-1-4-1,,bali1278-1,4,pat,pat,[],,[],,False,False,,1
+bali1278-1-5-1,,bali1278-1,5,limə,limə,[],,[],,False,False,,1
+bali1278-1-6-1,,bali1278-1,6,nəm,nəm,[],,[],,False,False,,1
+bali1278-1-7-1,,bali1278-1,7,pitu,pitu,[],,[],,False,False,,1
+bali1278-1-8-1,,bali1278-1,8,kutus,kutus,[],( 10 -2 ),[],,False,False,,1
+bali1278-1-9-1,,bali1278-1,9,siə,siə,[],,[],,False,False,,1
+bali1278-1-10-1,,bali1278-1,10,dasə,dasə,[],( < Sanskrit ),[],,True,False,,1
+bali1278-1-11-1,,bali1278-1,11,sələs,sələs,[],( < sə- plus oləs ),[],,False,False,,1
+bali1278-1-12-1,,bali1278-1,12,roləs,roləs,[],,[],,False,False,,1
+bali1278-1-13-1,,bali1278-1,13,təluləs,təluləs,[],,[],,False,False,,1
+bali1278-1-13-2,,bali1278-1,13,tluləs,tluləs,[],,[],,False,False,,1
+bali1278-1-14-1,,bali1278-1,14,patbələs,patbələs,[],,[],,False,False,,1
+bali1278-1-15-1,,bali1278-1,15,limɔbələs,limɔbələs,[],,[],,False,False,,1
+bali1278-1-16-1,,bali1278-1,16,nəmbələs,nəmbələs,[],,[],,False,False,,1
+bali1278-1-16-2,,bali1278-1,16,nəmbləs,nəmbləs,[],,[],,False,False,,1
+bali1278-1-17-1,,bali1278-1,17,pituləs,pituləs,[],,[],,False,False,,1
+bali1278-1-18-1,,bali1278-1,18,pələkutus,pələkutus,[],,[],,False,False,,1
+bali1278-1-18-2,,bali1278-1,18,pləkutus,pləkutus,[],,[],,False,False,,1
+bali1278-1-19-1,,bali1278-1,19,siŋɔləs,siŋɔləs,[],,[],,False,False,,1
+bali1278-1-20-1,,bali1278-1,20,duaŋ dasəs,duaŋ dasəs,[],,[],,False,False,,1
+bali1278-1-21-1,,bali1278-1,21,səlikur,səlikur,[],,[],,False,False,,1
+bali1278-1-22-1,,bali1278-1,22,duəlikur,duəlikur,[],,[],,False,False,,1
+bali1278-1-23-1,,bali1278-1,23,təlulikur,təlulikur,[],,[],,False,False,,1
+bali1278-1-24-1,,bali1278-1,24,patlikur,patlikur,[],,[],,False,False,,1
+bali1278-1-25-1,,bali1278-1,25,sala.e,sala.e,[],,[],,False,False,,1
+bali1278-1-26-1,,bali1278-1,26,nəmlikur,nəmlikur,[],,[],,False,False,,1
+bali1278-1-27-1,,bali1278-1,27,pitulikur,pitulikur,[],,[],,False,False,,1
+bali1278-1-28-1,,bali1278-1,28,ululikur,ululikur,[],,[],,False,False,,1
+bali1278-1-29-1,,bali1278-1,29,siəlikur,siəlikur,[],,[],,False,False,,1
+bali1278-1-29-2,,bali1278-1,29,saŋolikur,saŋolikur,[],,[],,False,False,,1
+bali1278-1-30-1,,bali1278-1,30,tiɡaŋ dasə,tiɡaŋ dasə,[],,[],,False,False,,1
+bali1278-1-30-2,,bali1278-1,30,təluŋ dasə,təluŋ dasə,[],,[],,False,False,,1
+bali1278-1-40-1,,bali1278-1,40,pətaŋ dasə,pətaŋ dasə,[],,[],,False,False,,1
+bali1278-1-50-1,,bali1278-1,50,sekət,sekət,[],"(litː 'come off, tear off')",[],,False,False,,1
+bali1278-1-60-1,,bali1278-1,60,nəm dasə,nəm dasə,[],,[],,False,False,,1
+bali1278-1-70-1,,bali1278-1,70,pituŋ dasə,pituŋ dasə,[],,[],,False,False,,1
+bali1278-1-80-1,,bali1278-1,80,uluŋ dasə,uluŋ dasə,[],,[],,False,False,,1
+bali1278-1-90-1,,bali1278-1,90,saŋaŋ dasə,saŋaŋ dasə,[],,[],,False,False,,1
+bali1278-1-90-2,,bali1278-1,90,siɔdasə,siɔdasə,[],,[],,False,False,,1
+bali1278-1-100-1,,bali1278-1,100,satus,satus,[],( < sə- pluas atus ),[],,False,False,,1
+bali1278-1-200-1,,bali1278-1,200,satak,satak,[],( < Old Javanese ),[],,True,False,,1
+bali1278-1-1000-1,,bali1278-1,1000,siu,siu,[],,[],,False,False,,1
+bali1278-1-2000-1,,bali1278-1,2000,duaŋ tali,duaŋ tali,[],,[],,False,False,,1

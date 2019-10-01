@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yaqu1251-1-1-1,,yaqu1251-1,1,wepul,wepul,[],,[],,False,False,,1
+yaqu1251-1-1-2,,yaqu1251-1,1,wepulai,wepulai,[],,[],,False,False,,1
+yaqu1251-1-1-3,,yaqu1251-1,1,senu,senu,[],,[],,False,False,,1
+yaqu1251-1-2-1,,yaqu1251-1,2,woi,woi,[],,[],,False,False,,1
+yaqu1251-1-3-1,,yaqu1251-1,3,baji,baji,[],,[],,False,False,,1
+yaqu1251-1-4-1,,yaqu1251-1,4,naiki,naiki,[],,[],,False,False,,1
+yaqu1251-1-5-1,,yaqu1251-1,5,mamni,mamni,[],,[],,False,False,,1
+yaqu1251-1-6-1,,yaqu1251-1,6,busani,busani,[],,[],,False,False,,1
+yaqu1251-1-7-1,,yaqu1251-1,7,woobusani,woobusani,[],(   6 ? ),[],,False,False,,1
+yaqu1251-1-8-1,,yaqu1251-1,8,wojnaiki,wojnaiki,[],( 2 x 4 ),[],,False,False,,1
+yaqu1251-1-9-1,,yaqu1251-1,9,batani,batani,[],,[],,False,False,,1
+yaqu1251-1-10-1,,yaqu1251-1,10,wojmamni,wojmamni,[],( 2 x 5 ),[],,False,False,,1
+yaqu1251-1-11-1,,yaqu1251-1,11,wojmamni ama wepul,wojmamni ama wepul,[],,[],,False,False,,1
+yaqu1251-1-12-1,,yaqu1251-1,12,wojmamni ama woi,wojmamni ama woi,[],,[],,False,False,,1
+yaqu1251-1-13-1,,yaqu1251-1,13,wojmamni ama baji,wojmamni ama baji,[],,[],,False,False,,1
+yaqu1251-1-14-1,,yaqu1251-1,14,wojmamni ama naiki,wojmamni ama naiki,[],,[],,False,False,,1
+yaqu1251-1-15-1,,yaqu1251-1,15,wojmamni ama mamni,wojmamni ama mamni,[],,[],,False,False,,1
+yaqu1251-1-16-1,,yaqu1251-1,16,wojmamni ama busani,wojmamni ama busani,[],,[],,False,False,,1
+yaqu1251-1-17-1,,yaqu1251-1,17,wojmamni ama woobusani,wojmamni ama woobusani,[],,[],,False,False,,1
+yaqu1251-1-18-1,,yaqu1251-1,18,wojmamni ama wojnaiki,wojmamni ama wojnaiki,[],,[],,False,False,,1
+yaqu1251-1-19-1,,yaqu1251-1,19,wojmamni ama batani,wojmamni ama batani,[],,[],,False,False,,1
+yaqu1251-1-20-1,,yaqu1251-1,20,senu takaa,senu takaa,[],,[],,False,False,,1
+yaqu1251-1-21-1,,yaqu1251-1,21,senu takaa ama wepulai,senu takaa ama wepulai,[],,[],,False,False,,1
+yaqu1251-1-22-1,,yaqu1251-1,22,senu takaa ama woi,senu takaa ama woi,[],,[],,False,False,,1
+yaqu1251-1-23-1,,yaqu1251-1,23,senu takaa ama baji,senu takaa ama baji,[],,[],,False,False,,1
+yaqu1251-1-24-1,,yaqu1251-1,24,senu takaa ama naiki,senu takaa ama naiki,[],,[],,False,False,,1
+yaqu1251-1-25-1,,yaqu1251-1,25,senu takaa ama mamni,senu takaa ama mamni,[],,[],,False,False,,1
+yaqu1251-1-26-1,,yaqu1251-1,26,senu takaa ama busani,senu takaa ama busani,[],,[],,False,False,,1
+yaqu1251-1-27-1,,yaqu1251-1,27,senu takaa ama woobusani,senu takaa ama woobusani,[],,[],,False,False,,1
+yaqu1251-1-28-1,,yaqu1251-1,28,senu takaa ama wojnaiki,senu takaa ama wojnaiki,[],,[],,False,False,,1
+yaqu1251-1-29-1,,yaqu1251-1,29,senu takaa ama batani,senu takaa ama batani,[],,[],,False,False,,1
+yaqu1251-1-30-1,,yaqu1251-1,30,senu takaa ama wojmamni,senu takaa ama wojmamni,[],,[],,False,False,,1
+yaqu1251-1-40-1,,yaqu1251-1,40,woi takaa,woi takaa,[],,[],,False,False,,1
+yaqu1251-1-50-1,,yaqu1251-1,50,woi takaa ama wojmamni,woi takaa ama wojmamni,[],,[],,False,False,,1
+yaqu1251-1-60-1,,yaqu1251-1,60,bai takaa,bai takaa,[],( 3 x 20 ),[],,False,False,,1
+yaqu1251-1-70-1,,yaqu1251-1,70,bai takaa ama wojmamni,bai takaa ama wojmamni,[],,[],,False,False,,1
+yaqu1251-1-80-1,,yaqu1251-1,80,naiki takaa,naiki takaa,[],( 4 x 20 ),[],,False,False,,1
+yaqu1251-1-90-1,,yaqu1251-1,90,naiki takaaama wojmamni,naiki takaaama wojmamni,[],,[],,False,False,,1
+yaqu1251-1-100-1,,yaqu1251-1,100,mamni takaa,mamni takaa,[],( 5 x 20 ),[],,False,False,,1
+yaqu1251-1-200-1,,yaqu1251-1,200,woj mamni takaa,woj mamni takaa,[],( 2 x  5 x 20 ),[],,False,False,,1
+yaqu1251-1-1000-1,,yaqu1251-1,1000,mamni wojmamni takaa,mamni wojmamni takaa,[],,[],,False,False,,1
+yaqu1251-1-2000-1,,yaqu1251-1,2000,wojmamni wojmani takaa,wojmamni wojmani takaa,[],,[],,False,False,,1

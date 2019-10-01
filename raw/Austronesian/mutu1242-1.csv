@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mutu1242-1-1-1,,mutu1242-1,1,es,es,[],,[],,False,False,,1
+mutu1242-1-1-2,,mutu1242-1,1,eze,eze,[],,[],,False,False,,1
+mutu1242-1-2-1,,mutu1242-1,2,ru,ru,[],,[],,False,False,,1
+mutu1242-1-3-1,,mutu1242-1,3,tol,tol,[],,[],,False,False,,1
+mutu1242-1-4-1,,mutu1242-1,4,paŋ,paŋ,[],,[],,False,False,,1
+mutu1242-1-5-1,,mutu1242-1,5,lim,lim,[],,[],,False,False,,1
+mutu1242-1-6-1,,mutu1242-1,6,lim be es,lim be es,[],( 5 + 1 ),[],,False,False,,1
+mutu1242-1-7-1,,mutu1242-1,7,lim be ru,lim be ru,[],( 5 + 2 ),[],,False,False,,1
+mutu1242-1-8-1,,mutu1242-1,8,lim be tol,lim be tol,[],( 5 + 3 ),[],,False,False,,1
+mutu1242-1-9-1,,mutu1242-1,9,lim be paŋ,lim be paŋ,[],( 5 + 4 ),[],,False,False,,1
+mutu1242-1-10-1,,mutu1242-1,10,saŋul,saŋul,[],,[],,False,False,,1
+mutu1242-1-11-1,,mutu1242-1,11,saŋul be es,saŋul be es,[],,[],,False,False,,1
+mutu1242-1-12-1,,mutu1242-1,12,saŋul be ru,saŋul be ru,[],,[],,False,False,,1
+mutu1242-1-13-1,,mutu1242-1,13,saŋul be tol,saŋul be tol,[],,[],,False,False,,1
+mutu1242-1-14-1,,mutu1242-1,14,saŋul be paŋ,saŋul be paŋ,[],,[],,False,False,,1
+mutu1242-1-15-1,,mutu1242-1,15,saŋul be lim,saŋul be lim,[],,[],,False,False,,1
+mutu1242-1-16-1,,mutu1242-1,16,saŋul be lim be es,saŋul be lim be es,[],,[],,False,False,,1
+mutu1242-1-17-1,,mutu1242-1,17,saŋul be lim be ru,saŋul be lim be ru,[],,[],,False,False,,1
+mutu1242-1-18-1,,mutu1242-1,18,saŋul be lim be tol,saŋul be lim be tol,[],,[],,False,False,,1
+mutu1242-1-19-1,,mutu1242-1,19,saŋul be lim be paŋ,saŋul be lim be paŋ,[],,[],,False,False,,1
+mutu1242-1-20-1,,mutu1242-1,20,tamot es,tamot es,[],( litː ''person one''),[],,False,False,,1
+mutu1242-1-21-1,,mutu1242-1,21,tamote be es,tamote be es,[],,[],,False,False,,1
+mutu1242-1-22-1,,mutu1242-1,22,tamote be ru,tamote be ru,[],,[],,False,False,,1
+mutu1242-1-23-1,,mutu1242-1,23,tamote be tol,tamote be tol,[],,[],,False,False,,1
+mutu1242-1-24-1,,mutu1242-1,24,tamote be paŋ,tamote be paŋ,[],,[],,False,False,,1
+mutu1242-1-25-1,,mutu1242-1,25,tamote be lim,tamote be lim,[],,[],,False,False,,1
+mutu1242-1-26-1,,mutu1242-1,26,tamote be lim be es,tamote be lim be es,[],,[],,False,False,,1
+mutu1242-1-27-1,,mutu1242-1,27,tamote be lim be ru,tamote be lim be ru,[],,[],,False,False,,1
+mutu1242-1-28-1,,mutu1242-1,28,tamote be lim be tol,tamote be lim be tol,[],,[],,False,False,,1
+mutu1242-1-29-1,,mutu1242-1,29,tamote be lim be paŋ,tamote be lim be paŋ,[],,[],,False,False,,1
+mutu1242-1-30-1,,mutu1242-1,30,tamote be saŋul,tamote be saŋul,[],,[],,False,False,,1
+mutu1242-1-40-1,,mutu1242-1,40,tamotru,tamotru,[],( 20 x 2 ),[],,False,False,,1
+mutu1242-1-60-1,,mutu1242-1,60,tamotol,tamotol,[],( 20 x 3 ),[],,False,False,,1
+mutu1242-1-80-1,,mutu1242-1,80,tamotpaŋ,tamotpaŋ,[],( 20 x 4 ),[],,False,False,,1
+mutu1242-1-100-1,,mutu1242-1,100,tamot lim,tamot lim,[],( 20 x 5 ),[],,False,False,,1
+mutu1242-1-200-1,,mutu1242-1,200,tamot saŋul,tamot saŋul,[],( 20 x 10 ),[],,False,False,,1
+mutu1242-1-400-1,,mutu1242-1,400,ndiŋndiŋ,ndiŋndiŋ,[],,[],,False,False,,1

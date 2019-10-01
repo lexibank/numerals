@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+navu1237-1-1-1,,navu1237-1,1,ese,ese,[],,[],,False,False,,1
+navu1237-1-2-1,,navu1237-1,2,rua,rua,[],,[],,False,False,,1
+navu1237-1-3-1,,navu1237-1,3,tolu,tolu,[],,[],,False,False,,1
+navu1237-1-4-1,,navu1237-1,4,βati,βati,[],,[],,False,False,,1
+navu1237-1-5-1,,navu1237-1,5,lima,lima,[],,[],,False,False,,1
+navu1237-1-6-1,,navu1237-1,6,lima-raβe,lima-raβe,[],(5 + 1),[],,False,False,,1
+navu1237-1-7-1,,navu1237-1,7,raβe-rua,raβe-rua,[],(5 + 2),[],,False,False,,1
+navu1237-1-8-1,,navu1237-1,8,raβe-tolu,raβe-tolu,[],(5 + 3),[],,False,False,,1
+navu1237-1-9-1,,navu1237-1,9,ra-βati,ra-βati,[],(5 + 4),[],,False,False,,1
+navu1237-1-10-1,,navu1237-1,10,sanaβulu,sanaβulu,[],,[],,False,False,,1

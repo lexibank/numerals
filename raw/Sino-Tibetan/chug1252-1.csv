@@ -1,0 +1,51 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+chug1252-1-1-1,,chug1252-1,1,hin,hin,[],,[],,False,False,,1
+chug1252-1-2-1,,chug1252-1,2,ɲis,ɲis,[],,[],,False,False,,1
+chug1252-1-3-1,,chug1252-1,3,ˀom,ˀom,[],,[],,False,False,,1
+chug1252-1-4-1,,chug1252-1,4,pɕi,pɕi,[],,[],,False,False,,1
+chug1252-1-5-1,,chug1252-1,5,kʰaː,kʰaː,[],,[],,False,False,,1
+chug1252-1-6-1,,chug1252-1,6,t͡ɕʰuˀk,t͡ɕʰuˀk,[],,[],,False,False,,1
+chug1252-1-7-1,,chug1252-1,7,ɕis,ɕis,[],,[],,False,False,,1
+chug1252-1-8-1,,chug1252-1,8,saɹɡeˀt,saɹɡeˀt,[],,[],,False,False,,1
+chug1252-1-9-1,,chug1252-1,9,tʰikʰu,tʰikʰu,[],,[],,False,False,,1
+chug1252-1-10-1,,chug1252-1,10,san,san,[],,[],,False,False,,1
+chug1252-1-11-1,,chug1252-1,11,ɕamɕinhin,ɕamɕinhin,[],,[],,False,False,,1
+chug1252-1-12-1,,chug1252-1,12,ɕamɕinɲis,ɕamɕinɲis,[],,[],,False,False,,1
+chug1252-1-13-1,,chug1252-1,13,ɕamɕinˀom,ɕamɕinˀom,[],,[],,False,False,,1
+chug1252-1-14-1,,chug1252-1,14,ɕamɕinpɕi,ɕamɕinpɕi,[],,[],,False,False,,1
+chug1252-1-15-1,,chug1252-1,15,ɕamɕinkʰaː,ɕamɕinkʰaː,[],,[],,False,False,,1
+chug1252-1-16-1,,chug1252-1,16,ɕamɕint͡ɕʰuˀk,ɕamɕint͡ɕʰuˀk,[],,[],,False,False,,1
+chug1252-1-17-1,,chug1252-1,17,ɕamɕinɕis,ɕamɕinɕis,[],,[],,False,False,,1
+chug1252-1-18-1,,chug1252-1,18,samsaɹɡeˀt,samsaɹɡeˀt,[],,[],,False,False,,1
+chug1252-1-19-1,,chug1252-1,19,samtʰikʰu,samtʰikʰu,[],,[],,False,False,,1
+chug1252-1-20-1,,chug1252-1,20,kʰaihin,kʰaihin,[],,[],,False,False,,1
+chug1252-1-20-2,,chug1252-1,20,kʰai,kʰai,[],,[],,False,False,,1
+chug1252-1-21-1,,chug1252-1,21,kʰaihindaŋhin,kʰaihindaŋhin,[],,[],,False,False,,1
+chug1252-1-22-1,,chug1252-1,22,kʰaihindaŋɲis,kʰaihindaŋɲis,[],,[],,False,False,,1
+chug1252-1-23-1,,chug1252-1,23,kʰaihindaŋˀom,kʰaihindaŋˀom,[],,[],,False,False,,1
+chug1252-1-24-1,,chug1252-1,24,kʰaihindaŋpɕi,kʰaihindaŋpɕi,[],,[],,False,False,,1
+chug1252-1-25-1,,chug1252-1,25,kʰaihindaŋkʰaː,kʰaihindaŋkʰaː,[],,[],,False,False,,1
+chug1252-1-26-1,,chug1252-1,26,kʰaihindaŋt͡ɕʰuˀk,kʰaihindaŋt͡ɕʰuˀk,[],,[],,False,False,,1
+chug1252-1-27-1,,chug1252-1,27,kʰaihindaŋɕis,kʰaihindaŋɕis,[],,[],,False,False,,1
+chug1252-1-28-1,,chug1252-1,28,kʰaihinsaɹɡeˀt,kʰaihinsaɹɡeˀt,[],,[],,False,False,,1
+chug1252-1-29-1,,chug1252-1,29,kʰaihintʰikʰu,kʰaihintʰikʰu,[],,[],,False,False,,1
+chug1252-1-30-1,,chug1252-1,30,kʰaihindaŋsan,kʰaihindaŋsan,[],( 20 + 10 ),[],,False,False,,1
+chug1252-1-40-1,,chug1252-1,40,kʰaiɲis,kʰaiɲis,[],( 2 x 20 ),[],,False,False,,1
+chug1252-1-50-1,,chug1252-1,50,kʰaiɲisdaŋsan,kʰaiɲisdaŋsan,[],,[],,False,False,,1
+chug1252-1-50-2,,chug1252-1,50,ŋapt͡ɕutʰambaː,ŋapt͡ɕutʰambaː,[],,[],,False,False,,1
+chug1252-1-60-1,,chug1252-1,60,kʰaiˀom,kʰaiˀom,[],( 20 x 3),[],,False,False,,1
+chug1252-1-70-1,,chug1252-1,70,kʰaiˀomdaŋsan,kʰaiˀomdaŋsan,[],,[],,False,False,,1
+chug1252-1-80-1,,chug1252-1,80,kʰaipɕi,kʰaipɕi,[],( 20 x 4),[],,False,False,,1
+chug1252-1-90-1,,chug1252-1,90,kʰaipɕidaŋsan,kʰaipɕidaŋsan,[],,[],,False,False,,1
+chug1252-1-100-1,,chug1252-1,100,kʰaikʰaː,kʰaikʰaː,[],,[],,False,False,,1
+chug1252-1-100-2,,chug1252-1,100,d͡ʑaːhin,d͡ʑaːhin,[],,[],,False,False,,1
+chug1252-1-100-3,,chug1252-1,100,d͡ʑaː,d͡ʑaː,[],,[],,False,False,,1
+chug1252-1-100-4,,chug1252-1,100,ɡjaːhin,ɡjaːhin,[],,[],,False,False,,1
+chug1252-1-100-5,,chug1252-1,100,ɡja,ɡja,[],,[],,False,False,,1
+chug1252-1-200-1,,chug1252-1,200,kʰaisan,kʰaisan,[],,[],,False,False,,1
+chug1252-1-200-2,,chug1252-1,200,d͡ʑaːɲis,d͡ʑaːɲis,[],,[],,False,False,,1
+chug1252-1-200-3,,chug1252-1,200,ɡjaːɲis,ɡjaːɲis,[],,[],,False,False,,1
+chug1252-1-1000-1,,chug1252-1,1000,pʰuŋɲisdaŋkʰaisan,pʰuŋɲisdaŋkʰaisan,[],,[],,False,False,,1
+chug1252-1-1000-2,,chug1252-1,1000,toŋtaː,toŋtaː,[],,[],,False,False,,1
+chug1252-1-1000-3,,chug1252-1,1000,toŋtaːhin,toŋtaːhin,[],,[],,False,False,,1
+chug1252-1-2000-1,,chug1252-1,2000,pʰuŋkʰaː toŋtaːɲis,pʰuŋkʰaː toŋtaːɲis,[],,[],,False,False,,1

@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nauk1242-1-1-1,,nauk1242-1,1,ataːsiq,ataːsiq,[],,[],,False,False,,1
+nauk1242-1-2-1,,nauk1242-1,2,maːlʁuk,maːlʁuk,[],,[],,False,False,,1
+nauk1242-1-3-1,,nauk1242-1,3,piŋayut,piŋayut,[],,[],,False,False,,1
+nauk1242-1-4-1,,nauk1242-1,4,sitamat,sitamat,[],,[],,False,False,,1
+nauk1242-1-5-1,,nauk1242-1,5,taɬimat,taɬimat,[],,[],,False,False,,1
+nauk1242-1-6-1,,nauk1242-1,6,aʁvinlək or ataːsimaɣləɡən,aʁvinlək or ataːsimaɣləɡən,[],,[],,False,True,,1
+nauk1242-1-7-1,,nauk1242-1,7,maːlʁuɡnəŋ aʁvinlək,maːlʁuɡnəŋ aʁvinlək,[],,[],,False,False,,1
+nauk1242-1-8-1,,nauk1242-1,8,piŋayunəŋ aʁvinlək,piŋayunəŋ aʁvinlək,[],,[],,False,False,,1
+nauk1242-1-9-1,,nauk1242-1,9,qulŋuʁitilŋuq,qulŋuʁitilŋuq,[],( 10 - 1 ?),[],,False,False,,1
+nauk1242-1-10-1,,nauk1242-1,10,qule,qule,[],,[],,False,False,,1
+nauk1242-1-11-1,,nauk1242-1,11,atɣanələk,atɣanələk,[],,[],,False,False,,1
+nauk1242-1-12-1,,nauk1242-1,12,maːlʁuɡnəŋ atɣanələk,maːlʁuɡnəŋ atɣanələk,[],,[],,False,False,,1
+nauk1242-1-13-1,,nauk1242-1,13,pi'ŋayut atɣanələk,pi'ŋayut atɣanələk,[],,[],,False,False,,1
+nauk1242-1-14-1,,nauk1242-1,14,akimiaʁutŋilŋuq,akimiaʁutŋilŋuq,[],(15 - 1),[],,False,False,,1
+nauk1242-1-15-1,,nauk1242-1,15,akimiaq,akimiaq,[],,[],,False,False,,1
+nauk1242-1-16-1,,nauk1242-1,16,akimiaq ataːsiq,akimiaq ataːsiq,[],(15+1),[],,False,False,,1
+nauk1242-1-17-1,,nauk1242-1,17,akimiaq maːlʁuk,akimiaq maːlʁuk,[],,[],,False,False,,1
+nauk1242-1-18-1,,nauk1242-1,18,akimiaq piŋayut,akimiaq piŋayut,[],,[],,False,False,,1
+nauk1242-1-19-1,,nauk1242-1,19,akimiaq sitamat,akimiaq sitamat,[],,[],,False,False,,1
+nauk1242-1-20-1,,nauk1242-1,20,yuɡinaq,yuɡinaq,[],,[],,False,False,,1
+nauk1242-1-21-1,,nauk1242-1,21,yuɡinaq ataːsiq,yuɡinaq ataːsiq,[],,[],,False,False,,1
+nauk1242-1-22-1,,nauk1242-1,22,yuɡinaq maːlʁuk,yuɡinaq maːlʁuk,[],,[],,False,False,,1
+nauk1242-1-30-1,,nauk1242-1,30,yuɡinaq qule,yuɡinaq qule,[],( 20 + 10 ),[],,False,False,,1
+nauk1242-1-40-1,,nauk1242-1,40,maːlʁum ipia,maːlʁum ipia,[],( 20 x 2 ),[],,False,False,,1
+nauk1242-1-50-1,,nauk1242-1,50,maːlʁum ipia qule,maːlʁum ipia qule,[],,[],,False,False,,1
+nauk1242-1-60-1,,nauk1242-1,60,piŋayun ipia,piŋayun ipia,[],( 20 x 3 ),[],,False,False,,1
+nauk1242-1-70-1,,nauk1242-1,70,piŋayun ipia qule,piŋayun ipia qule,[],,[],,False,False,,1
+nauk1242-1-80-1,,nauk1242-1,80,sitamam ipia,sitamam ipia,[],( 20 x 4 ),[],,False,False,,1
+nauk1242-1-90-1,,nauk1242-1,90,sitamam ipia qulməŋ,sitamam ipia qulməŋ,[],,[],,False,False,,1
+nauk1242-1-100-1,,nauk1242-1,100,taɬimam ipia,taɬimam ipia,[],( 20 x 5 ),[],,False,False,,1
+nauk1242-1-200-1,,nauk1242-1,200,qule ipia,qule ipia,[],( 20 x 10 ),[],,False,False,,1
+nauk1242-1-400-1,,nauk1242-1,400,yuɡinam yuum ipia,yuɡinam yuum ipia,[],( 20 x 20 ),[],,False,False,,1
+nauk1242-1-1000-1,,nauk1242-1,1000,kamutəm imaɣaː,kamutəm imaɣaː,[],,[],,False,False,,1

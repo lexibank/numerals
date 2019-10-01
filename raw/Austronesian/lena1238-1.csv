@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lena1238-1-1-1,,lena1238-1,1,karena,karena,[],,[],,False,False,,1
+lena1238-1-2-1,,lena1238-1,2,k-iu,k-iu,[],,[],,False,False,,1
+lena1238-1-3-1,,lena1238-1,3,kɨsil,kɨsil,[],,[],,False,False,,1
+lena1238-1-4-1,,lena1238-1,4,kuvɨr,kuvɨr,[],,[],,False,False,,1
+lena1238-1-5-1,,lena1238-1,5,katilum,katilum,[],,[],,False,False,,1
+lena1238-1-6-1,,lena1238-1,6,katilum karena,katilum karena,[],( 5 + 1 ),[],,False,False,,1
+lena1238-1-6-2,,lena1238-1,6,sikis,sikis,[],,[],,False,False,,1
+lena1238-1-7-1,,lena1238-1,7,katilum kiu,katilum kiu,[],( 5 + 2 ),[],,False,False,,1
+lena1238-1-7-2,,lena1238-1,7,seven,seven,[],,[],,False,False,,1
+lena1238-1-8-1,,lena1238-1,8,katilum kɨsil,katilum kɨsil,[],( 5 + 3 ),[],,False,False,,1
+lena1238-1-8-2,,lena1238-1,8,eit,eit,[],,[],,False,False,,1
+lena1238-1-9-1,,lena1238-1,9,katilum kuvɨr,katilum kuvɨr,[],( 5 + 4 ),[],,False,False,,1
+lena1238-1-9-2,,lena1238-1,9,naen,naen,[],,[],,False,False,,1
+lena1238-1-10-1,,lena1238-1,10,katilum katilum,katilum katilum,[],( 5 + 5 ),[],,False,False,,1
+lena1238-1-10-2,,lena1238-1,10,ten,ten,[],,[],,False,False,,1
+lena1238-1-11-1,,lena1238-1,11,katilum katilum karena,katilum katilum karena,[],,[],,False,False,,1
+lena1238-1-12-1,,lena1238-1,12,katilum katilum kiu,katilum katilum kiu,[],,[],,False,False,,1
+lena1238-1-13-1,,lena1238-1,13,katilum katilum kɨsil,katilum katilum kɨsil,[],,[],,False,False,,1
+lena1238-1-14-1,,lena1238-1,14,katilum katilum kuvɨr,katilum katilum kuvɨr,[],,[],,False,False,,1
+lena1238-1-15-1,,lena1238-1,15,katilum katilum katilum,katilum katilum katilum,[],,[],,False,False,,1
+lena1238-1-16-1,,lena1238-1,16,katilum katilum katilum karena,katilum katilum katilum karena,[],,[],,False,False,,1
+lena1238-1-17-1,,lena1238-1,17,katilum katilum katilum kiu,katilum katilum katilum kiu,[],,[],,False,False,,1
+lena1238-1-18-1,,lena1238-1,18,katilum katilum katilum kɨsil,katilum katilum katilum kɨsil,[],,[],,False,False,,1
+lena1238-1-19-1,,lena1238-1,19,katilum katilum katilum kuvɨr,katilum katilum katilum kuvɨr,[],,[],,False,False,,1
+lena1238-1-20-1,,lena1238-1,20,ieramim karena rɨka,ieramim karena rɨka,[],,[],,False,False,,1
+lena1238-1-20-2,,lena1238-1,20,twante,twante,[],,[],,False,False,,1
+lena1238-1-21-1,,lena1238-1,21,twante wan,twante wan,[],,[],,False,False,,1
+lena1238-1-22-1,,lena1238-1,22,twante tu,twante tu,[],,[],,False,False,,1
+lena1238-1-23-1,,lena1238-1,23,twante tri,twante tri,[],,[],,False,False,,1
+lena1238-1-24-1,,lena1238-1,24,twante fo,twante fo,[],,[],,False,False,,1
+lena1238-1-25-1,,lena1238-1,25,twante faev,twante faev,[],,[],,False,False,,1
+lena1238-1-26-1,,lena1238-1,26,twante sikis,twante sikis,[],,[],,False,False,,1
+lena1238-1-27-1,,lena1238-1,27,twante seven,twante seven,[],,[],,False,False,,1
+lena1238-1-28-1,,lena1238-1,28,twante eit,twante eit,[],,[],,False,False,,1
+lena1238-1-29-1,,lena1238-1,29,twante naen,twante naen,[],,[],,False,False,,1
+lena1238-1-30-1,,lena1238-1,30,toti,toti,[],,[],,False,False,,1
+lena1238-1-40-1,,lena1238-1,40,foti,foti,[],,[],,False,False,,1
+lena1238-1-50-1,,lena1238-1,50,fifti,fifti,[],,[],,False,False,,1
+lena1238-1-60-1,,lena1238-1,60,sikisti,sikisti,[],,[],,False,False,,1
+lena1238-1-70-1,,lena1238-1,70,seventi,seventi,[],,[],,False,False,,1
+lena1238-1-80-1,,lena1238-1,80,eiti,eiti,[],,[],,False,False,,1
+lena1238-1-90-1,,lena1238-1,90,naenti,naenti,[],,[],,False,False,,1
+lena1238-1-100-1,,lena1238-1,100,handred,handred,[],,[],,False,False,,1
+lena1238-1-200-1,,lena1238-1,200,tu handred,tu handred,[],,[],,False,False,,1
+lena1238-1-1000-1,,lena1238-1,1000,taosen,taosen,[],,[],,False,False,,1
+lena1238-1-2000-1,,lena1238-1,2000,tu taosen,tu taosen,[],,[],,False,False,,1

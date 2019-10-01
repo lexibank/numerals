@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+waim1251-1-1-1,,waim1251-1,1,hamomo,hamomo,[],,[],,False,False,,1
+waim1251-1-2-1,,waim1251-1,2,rua,rua,[],,[],,False,False,,1
+waim1251-1-3-1,,waim1251-1,3,aihau,aihau,[],,[],,False,False,,1
+waim1251-1-4-1,,waim1251-1,4,bani,bani,[],,[],,False,False,,1
+waim1251-1-5-1,,waim1251-1,5,ima,ima,[],,[],,False,False,,1
+waim1251-1-6-1,,waim1251-1,6,ab aihau,ab aihau,[],(litː 'doubled 3' ),[],,False,False,,1
+waim1251-1-7-1,,waim1251-1,7,ab aihau hamomo,ab aihau hamomo,[],('doubled 3'+ 1),[],,False,False,,1
+waim1251-1-8-1,,waim1251-1,8,ab bani,ab bani,[],(litː 'doubled 4'),[],,False,False,,1
+waim1251-1-9-1,,waim1251-1,9,ab bani hamomo,ab bani hamomo,[],('doubled 4'+ 1),[],,False,False,,1
+waim1251-1-10-1,,waim1251-1,10,harauhaea,harauhaea,[],,[],,False,False,,1
+waim1251-1-11-1,,waim1251-1,11,harauhaea hamomo,harauhaea hamomo,[],,[],,False,False,,1
+waim1251-1-12-1,,waim1251-1,12,harauhaea rua,harauhaea rua,[],,[],,False,False,,1
+waim1251-1-13-1,,waim1251-1,13,harauhaea aihau,harauhaea aihau,[],,[],,False,False,,1
+waim1251-1-14-1,,waim1251-1,14,harauhaea bani,harauhaea bani,[],,[],,False,False,,1
+waim1251-1-15-1,,waim1251-1,15,harauhaea ima,harauhaea ima,[],,[],,False,False,,1
+waim1251-1-16-1,,waim1251-1,16,harauhaea ab aihau,harauhaea ab aihau,[],,[],,False,False,,1
+waim1251-1-17-1,,waim1251-1,17,harauhaea ab aihau hamomo,harauhaea ab aihau hamomo,[],,[],,False,False,,1
+waim1251-1-18-1,,waim1251-1,18,harauhaea ab bani,harauhaea ab bani,[],,[],,False,False,,1
+waim1251-1-19-1,,waim1251-1,19,harauhaea ab bani hamomo,harauhaea ab bani hamomo,[],,[],,False,False,,1
+waim1251-1-20-1,,waim1251-1,20,haraurua,haraurua,[],,[],,False,False,,1
+waim1251-1-21-1,,waim1251-1,21,haraurua hamomo,haraurua hamomo,[],,[],,False,False,,1
+waim1251-1-22-1,,waim1251-1,22,haraurua rua,haraurua rua,[],,[],,False,False,,1
+waim1251-1-23-1,,waim1251-1,23,haraurua aihau,haraurua aihau,[],,[],,False,False,,1
+waim1251-1-24-1,,waim1251-1,24,haraurua bani,haraurua bani,[],,[],,False,False,,1
+waim1251-1-25-1,,waim1251-1,25,haraurua ima,haraurua ima,[],,[],,False,False,,1
+waim1251-1-26-1,,waim1251-1,26,haraurua ab aihau,haraurua ab aihau,[],,[],,False,False,,1
+waim1251-1-27-1,,waim1251-1,27,haraurua ab aihau hamomo,haraurua ab aihau hamomo,[],,[],,False,False,,1
+waim1251-1-28-1,,waim1251-1,28,haraurua ab bani,haraurua ab bani,[],,[],,False,False,,1
+waim1251-1-29-1,,waim1251-1,29,haraurua ab bani hamomo,haraurua ab bani hamomo,[],,[],,False,False,,1
+waim1251-1-30-1,,waim1251-1,30,harau aihau,harau aihau,[],,[],,False,False,,1
+waim1251-1-40-1,,waim1251-1,40,harau abui,harau abui,[],,[],,False,False,,1
+waim1251-1-50-1,,waim1251-1,50,imabui,imabui,[],,[],,False,False,,1
+waim1251-1-60-1,,waim1251-1,60,imabui harau haea,imabui harau haea,[],,[],,False,False,,1
+waim1251-1-70-1,,waim1251-1,70,imabui harau rua,imabui harau rua,[],,[],,False,False,,1
+waim1251-1-80-1,,waim1251-1,80,imabui harau aihau,imabui harau aihau,[],,[],,False,False,,1
+waim1251-1-90-1,,waim1251-1,90,imabui bariabui,imabui bariabui,[],,[],,False,False,,1
+waim1251-1-100-1,,waim1251-1,100,hinabu hamomo,hinabu hamomo,[],,[],,False,False,,1
+waim1251-1-200-1,,waim1251-1,200,hinabu rua,hinabu rua,[],,[],,False,False,,1
+waim1251-1-1000-1,,waim1251-1,1000,hinabu hinabu,hinabu hinabu,[],,[],,False,False,,1
+waim1251-1-2000-1,,waim1251-1,2000,hinabu hinabu rua,hinabu hinabu rua,[],,[],,False,False,,1

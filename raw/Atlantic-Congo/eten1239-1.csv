@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+eten1239-1-1-1,,eten1239-1,1,dáy,dáy,[],,[],,False,False,,1
+eten1239-1-2-1,,eten1239-1,2,fà,fà,[],,[],,False,False,,1
+eten1239-1-3-1,,eten1239-1,3,tàt,tàt,[],,[],,False,False,,1
+eten1239-1-3-2,,eten1239-1,3,tʃàt,tʃàt,[],,[],,False,False,,1
+eten1239-1-4-1,,eten1239-1,4,nàːs,nàːs,[],,[],,False,False,,1
+eten1239-1-5-1,,eten1239-1,5,wí,wí,[],,[],,False,False,,1
+eten1239-1-6-1,,eten1239-1,6,tàːrà,tàːrà,[],,[],,False,False,,1
+eten1239-1-7-1,,eten1239-1,7,nìtà,nìtà,[],,[],,False,False,,1
+eten1239-1-8-1,,eten1239-1,8,nàràs,nàràs,[],,[],,False,False,,1
+eten1239-1-9-1,,eten1239-1,9,dùːdʒàŋ,dùːdʒàŋ,[],,[],,False,False,,1
+eten1239-1-10-1,,eten1239-1,10,dùːbɔ̀,dùːbɔ̀,[],,[],,False,False,,1
+eten1239-1-11-1,,eten1239-1,11,sàllà,sàllà,[],,[],,False,False,,1
+eten1239-1-12-1,,eten1239-1,12,kù,kù,[],,[],,False,False,,1
+eten1239-1-12-2,,eten1239-1,12,fɛ̀nɛ̀kù,fɛ̀nɛ̀kù,[],,[],,False,False,,1
+eten1239-1-13-1,,eten1239-1,13,kù nì fì dáy,kù nì fì dáy,[],( 12+ 1 ),[],,False,False,,1
+eten1239-1-14-1,,eten1239-1,14,kù nì fì fà,kù nì fì fà,[],( 12+ 2 ),[],,False,False,,1
+eten1239-1-15-1,,eten1239-1,15,kù nì fì tàt,kù nì fì tàt,[],( 12+ 3 ),[],,False,False,,1
+eten1239-1-16-1,,eten1239-1,16,kù nì fì nàːs,kù nì fì nàːs,[],( 12+ 4 ),[],,False,False,,1
+eten1239-1-17-1,,eten1239-1,17,kù nì fì wí,kù nì fì wí,[],( 12+ 5 ),[],,False,False,,1
+eten1239-1-18-1,,eten1239-1,18,kù nì fì tàːrà,kù nì fì tàːrà,[],( 12+ 6 ),[],,False,False,,1
+eten1239-1-19-1,,eten1239-1,19,kù nì fì nìtà,kù nì fì nìtà,[],( 12+ 7 ),[],,False,False,,1
+eten1239-1-20-1,,eten1239-1,20,fɛ̀nɛ̀kù nì fì nàràs,fɛ̀nɛ̀kù nì fì nàràs,[],( 12+ 8 ),[],,False,False,,1
+eten1239-1-21-1,,eten1239-1,21,fɛ̀nɛ̀kù nì fì ndùːdʒàŋ,fɛ̀nɛ̀kù nì fì ndùːdʒàŋ,[],( 12+ 9 ),[],,False,False,,1
+eten1239-1-22-1,,eten1239-1,22,fɛ̀nɛ̀kù nì fì ndùːbɔ̀,fɛ̀nɛ̀kù nì fì ndùːbɔ̀,[],( 12+ 10 ),[],,False,False,,1
+eten1239-1-23-1,,eten1239-1,23,fɛ̀nɛ̀kù nì fì sàllà,fɛ̀nɛ̀kù nì fì sàllà,[],( 12+ 11 ),[],,False,False,,1
+eten1239-1-24-1,,eten1239-1,24,pù yɛ̀ fà,pù yɛ̀ fà,[],( 12 x 2 ),[],,False,False,,1
+eten1239-1-25-1,,eten1239-1,25,pù yɛ̀ fà nì pìdáy,pù yɛ̀ fà nì pìdáy,[],( 12 x 2 ) + 1,[],,False,False,,1
+eten1239-1-26-1,,eten1239-1,26,pù yɛ̀ fà nì fìfà,pù yɛ̀ fà nì fìfà,[],( 12 x 2 ) + 2,[],,False,False,,1
+eten1239-1-27-1,,eten1239-1,27,pù yɛ̀ fà nì fìtàt,pù yɛ̀ fà nì fìtàt,[],( 12 x 2 ) + 3,[],,False,False,,1
+eten1239-1-28-1,,eten1239-1,28,pù yɛ̀ fà nì fìnàːs,pù yɛ̀ fà nì fìnàːs,[],( 12 x 2 ) + 4,[],,False,False,,1
+eten1239-1-29-1,,eten1239-1,29,pù yɛ̀ fà nì fìwí,pù yɛ̀ fà nì fìwí,[],( 12 x 2 ) + 5,[],,False,False,,1
+eten1239-1-30-1,,eten1239-1,30,pù yɛ̀ fà nì fìtàːrà,pù yɛ̀ fà nì fìtàːrà,[],( 12 x 2 ) + 6,[],,False,False,,1
+eten1239-1-40-1,,eten1239-1,40,pù yɛ̀ tàt nì fɛ̀ nàːs,pù yɛ̀ tàt nì fɛ̀ nàːs,[],( 12 x 3 ) + 4,[],,False,False,,1
+eten1239-1-50-1,,eten1239-1,50,pù yɛ̀ nàːs nì fìfà,pù yɛ̀ nàːs nì fìfà,[],( 12 x 4 ) + 2,[],,False,False,,1
+eten1239-1-60-1,,eten1239-1,60,pù yɛ̀ wí,pù yɛ̀ wí,[],( 12 x 5 ),[],,False,False,,1
+eten1239-1-70-1,,eten1239-1,70,pù yɛ̀ wí nì fɛ̀ dùːbɔ̀,pù yɛ̀ wí nì fɛ̀ dùːbɔ̀,[],( 12 x 5)+ 10,[],,False,False,,1
+eten1239-1-80-1,,eten1239-1,80,pù yɛ̀ tàːrà nì fɛ̀ nàràs,pù yɛ̀ tàːrà nì fɛ̀ nàràs,[],( 12 x 6 ) + 8,[],,False,False,,1
+eten1239-1-90-1,,eten1239-1,90,pù yɛ̀ nìtà nì fɛ̀ tàːra,pù yɛ̀ nìtà nì fɛ̀ tàːra,[],( 12 x 7 ) + 6,[],,False,False,,1
+eten1239-1-100-1,,eten1239-1,100,pù yɛ̀ nàràs nì fɛ̀ nàːs,pù yɛ̀ nàràs nì fɛ̀ nàːs,[],( 12 x 8 ) + 4,[],,False,False,,1
+eten1239-1-144-1,,eten1239-1,144,pùpù,pùpù,[],( 12 x 12 ),[],,False,False,,1
+eten1239-1-1000-1,,eten1239-1,1000,dúbú,dúbú,[],< Hausa ,[],,True,False,,1
+eten1239-1-2000-1,,eten1239-1,2000,dúbú fà,dúbú fà,[],,[],,False,False,,1

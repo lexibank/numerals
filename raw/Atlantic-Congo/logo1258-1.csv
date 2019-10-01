@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+logo1258-1-1-1,,logo1258-1,1,ndala,ndala,[],,[],,False,False,,1
+logo1258-1-2-1,,logo1258-1,2,zivili,zivili,[],,[],,False,False,,1
+logo1258-1-3-1,,logo1258-1,3,zivaɡa,zivaɡa,[],,[],,False,False,,1
+logo1258-1-4-1,,logo1258-1,4,zine,zine,[],,[],,False,False,,1
+logo1258-1-5-1,,logo1258-1,5,zitano,zitano,[],,[],,False,False,,1
+logo1258-1-6-1,,logo1258-1,6,sita,sita,[],( < Swahili ),[],,True,False,,1
+logo1258-1-7-1,,logo1258-1,7,saba,saba,[],( < Swahili ),[],,True,False,,1
+logo1258-1-8-1,,logo1258-1,8,munane,munane,[],( < Swahili ),[],,True,False,,1
+logo1258-1-9-1,,logo1258-1,9,tisa,tisa,[],( < Swahili ),[],,True,False,,1
+logo1258-1-10-1,,logo1258-1,10,likomi,likomi,[],,[],,False,False,,1
+logo1258-1-11-1,,logo1258-1,11,ilikomina ndala,ilikomina ndala,[],,[],,False,False,,1
+logo1258-1-12-1,,logo1258-1,12,ilikomina zivili,ilikomina zivili,[],,[],,False,False,,1
+logo1258-1-13-1,,logo1258-1,13,ilikomina zivaɡa,ilikomina zivaɡa,[],,[],,False,False,,1
+logo1258-1-14-1,,logo1258-1,14,ilikomina zine,ilikomina zine,[],,[],,False,False,,1
+logo1258-1-15-1,,logo1258-1,15,ilikomina zitanu,ilikomina zitanu,[],,[],,False,False,,1
+logo1258-1-16-1,,logo1258-1,16,ilikomina sita,ilikomina sita,[],,[],,False,False,,1
+logo1258-1-17-1,,logo1258-1,17,ilikomina saba,ilikomina saba,[],,[],,False,False,,1
+logo1258-1-18-1,,logo1258-1,18,ilikomina munane,ilikomina munane,[],,[],,False,False,,1
+logo1258-1-19-1,,logo1258-1,19,ilikomina tisa,ilikomina tisa,[],,[],,False,False,,1
+logo1258-1-20-1,,logo1258-1,20,amakomi ɡavili,amakomi ɡavili,[],,[],,False,False,,1
+logo1258-1-21-1,,logo1258-1,21,amakomi ɡavili na ndala,amakomi ɡavili na ndala,[],,[],,False,False,,1
+logo1258-1-22-1,,logo1258-1,22,amakomi ɡavili na zivili,amakomi ɡavili na zivili,[],,[],,False,False,,1
+logo1258-1-23-1,,logo1258-1,23,amakomi ɡavili na zivaɡa,amakomi ɡavili na zivaɡa,[],,[],,False,False,,1
+logo1258-1-24-1,,logo1258-1,24,amakomi ɡavili na zine,amakomi ɡavili na zine,[],,[],,False,False,,1
+logo1258-1-25-1,,logo1258-1,25,amakomi ɡavili na zitano,amakomi ɡavili na zitano,[],,[],,False,False,,1
+logo1258-1-26-1,,logo1258-1,26,amakomi ɡavili na sita,amakomi ɡavili na sita,[],,[],,False,False,,1
+logo1258-1-27-1,,logo1258-1,27,amakomi ɡavili na saba,amakomi ɡavili na saba,[],,[],,False,False,,1
+logo1258-1-28-1,,logo1258-1,28,amakomi ɡavili na munane,amakomi ɡavili na munane,[],,[],,False,False,,1
+logo1258-1-29-1,,logo1258-1,29,amakomi ɡavili na tisa,amakomi ɡavili na tisa,[],,[],,False,False,,1
+logo1258-1-30-1,,logo1258-1,30,amakomi ɡavaɡa,amakomi ɡavaɡa,[],,[],,False,False,,1
+logo1258-1-40-1,,logo1258-1,40,amakomi ɡane,amakomi ɡane,[],,[],,False,False,,1
+logo1258-1-50-1,,logo1258-1,50,amusini,amusini,[],(< Swahili ),[],,True,False,,1
+logo1258-1-60-1,,logo1258-1,60,amakomi sita,amakomi sita,[],,[],,False,False,,1
+logo1258-1-70-1,,logo1258-1,70,amakomi saba,amakomi saba,[],,[],,False,False,,1
+logo1258-1-80-1,,logo1258-1,80,amakomi munane,amakomi munane,[],,[],,False,False,,1
+logo1258-1-90-1,,logo1258-1,90,amakomi tisa,amakomi tisa,[],,[],,False,False,,1
+logo1258-1-100-1,,logo1258-1,100,imia,imia,[],( 'mia' < Swahili ),[],,True,False,,1
+logo1258-1-200-1,,logo1258-1,200,izimia zivili,izimia zivili,[],,[],,False,False,,1
+logo1258-1-1000-1,,logo1258-1,1000,elefu ndala,elefu ndala,[],(' elefu' < Swahili ),[],,True,False,,1
+logo1258-1-2000-1,,logo1258-1,2000,izielefu zivili,izielefu zivili,[],,[],,False,False,,1

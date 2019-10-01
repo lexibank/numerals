@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+huic1243-1-1-1,,huic1243-1,1,zewíi,zewíi,[],,[],,False,False,,1
+huic1243-1-2-1,,huic1243-1,2,huuta,huuta,[],,[],,False,False,,1
+huic1243-1-3-1,,huic1243-1,3,haika,haika,[],,[],,False,False,,1
+huic1243-1-4-1,,huic1243-1,4,nauka,nauka,[],,[],,False,False,,1
+huic1243-1-5-1,,huic1243-1,5,ʔauzɯ́wi,ʔauzɯ́wi,[],,[],,False,False,,1
+huic1243-1-6-1,,huic1243-1,6,ʔatazewíi,ʔatazewíi,[],( 5 + 1 ),[],,False,False,,1
+huic1243-1-7-1,,huic1243-1,7,ʔatahuuta,ʔatahuuta,[],( 5 + 2 ),[],,False,False,,1
+huic1243-1-8-1,,huic1243-1,8,ʔatahaika,ʔatahaika,[],( 5 + 3 ),[],,False,False,,1
+huic1243-1-9-1,,huic1243-1,9,ʔatanauka,ʔatanauka,[],( 5 + 4 ),[],,False,False,,1
+huic1243-1-10-1,,huic1243-1,10,tamáa.máta,tamáa.máta,[],( litː ''our-hand-plural''),[],,False,False,,1
+huic1243-1-11-1,,huic1243-1,11,tamáa.máta hei.mána zewíi,tamáa.máta hei.mána zewíi,[],,[],,False,False,,1
+huic1243-1-12-1,,huic1243-1,12,tamáa.máta hei.mána huuta,tamáa.máta hei.mána huuta,[],,[],,False,False,,1
+huic1243-1-13-1,,huic1243-1,13,tamáa.máta hei.mána haika,tamáa.máta hei.mána haika,[],,[],,False,False,,1
+huic1243-1-14-1,,huic1243-1,14,tamáa.máta hei.mána nauka,tamáa.máta hei.mána nauka,[],,[],,False,False,,1
+huic1243-1-15-1,,huic1243-1,15,tamáa.máta hei.mána ʔauzɯ́wi,tamáa.máta hei.mána ʔauzɯ́wi,[],,[],,False,False,,1
+huic1243-1-16-1,,huic1243-1,16,tamáa.máta hei.mána ʔatazewíi,tamáa.máta hei.mána ʔatazewíi,[],,[],,False,False,,1
+huic1243-1-17-1,,huic1243-1,17,tamáa.máta hei.mána ʔatahuuta,tamáa.máta hei.mána ʔatahuuta,[],,[],,False,False,,1
+huic1243-1-18-1,,huic1243-1,18,tamáa.máta hei.mána ʔatahaika,tamáa.máta hei.mána ʔatahaika,[],,[],,False,False,,1
+huic1243-1-19-1,,huic1243-1,19,tamáa.máta hei.mána ʔatanauka,tamáa.máta hei.mána ʔatanauka,[],,[],,False,False,,1
+huic1243-1-20-1,,huic1243-1,20,zei téwí.yaari,zei téwí.yaari,[],( litː ''one person'' ),[],,False,False,,1
+huic1243-1-21-1,,huic1243-1,21,zei téwí.yaari hei.mána zewíi,zei téwí.yaari hei.mána zewíi,[],,[],,False,False,,1
+huic1243-1-22-1,,huic1243-1,22,zei téwí.yaari hei.mána huuta,zei téwí.yaari hei.mána huuta,[],,[],,False,False,,1
+huic1243-1-23-1,,huic1243-1,23,zei téwí.yaari hei.mána haika,zei téwí.yaari hei.mána haika,[],,[],,False,False,,1
+huic1243-1-24-1,,huic1243-1,24,zei téwí.yaari hei.mána nauka,zei téwí.yaari hei.mána nauka,[],,[],,False,False,,1
+huic1243-1-25-1,,huic1243-1,25,zei téwí.yaari hei.mána ʔauzɯ́wi,zei téwí.yaari hei.mána ʔauzɯ́wi,[],,[],,False,False,,1
+huic1243-1-26-1,,huic1243-1,26,zei téwí.yaari hei.mána ʔatazewíi,zei téwí.yaari hei.mána ʔatazewíi,[],,[],,False,False,,1
+huic1243-1-27-1,,huic1243-1,27,zei téwí.yaari hei.mána ʔatahuuta,zei téwí.yaari hei.mána ʔatahuuta,[],,[],,False,False,,1
+huic1243-1-28-1,,huic1243-1,28,zei téwí.yaari hei.mána ʔatahaika,zei téwí.yaari hei.mána ʔatahaika,[],,[],,False,False,,1
+huic1243-1-29-1,,huic1243-1,29,zei téwí.yaari hei.mána ʔatanauka,zei téwí.yaari hei.mána ʔatanauka,[],,[],,False,False,,1
+huic1243-1-30-1,,huic1243-1,30,zei téwí.yaari hei.mána.tamáa.máta,zei téwí.yaari hei.mána.tamáa.máta,[],,[],,False,False,,1
+huic1243-1-40-1,,huic1243-1,40,huuta téwí.yaari,huuta téwí.yaari,[],,[],,False,False,,1
+huic1243-1-50-1,,huic1243-1,50,huuta téwí.yaari hei.mána.tamáa.máta,huuta téwí.yaari hei.mána.tamáa.máta,[],,[],,False,False,,1
+huic1243-1-60-1,,huic1243-1,60,haika téwí.yaari,haika téwí.yaari,[],,[],,False,False,,1
+huic1243-1-70-1,,huic1243-1,70,haika téwí.yaari hei.mána.tamáa.máta,haika téwí.yaari hei.mána.tamáa.máta,[],,[],,False,False,,1
+huic1243-1-80-1,,huic1243-1,80,nauka téwí.yaari,nauka téwí.yaari,[],,[],,False,False,,1
+huic1243-1-90-1,,huic1243-1,90,nauka téwí.yaari hei.mána.tamáa.máta,nauka téwí.yaari hei.mána.tamáa.máta,[],,[],,False,False,,1
+huic1243-1-100-1,,huic1243-1,100,zei siyénítú.yaari,zei siyénítú.yaari,[],( < Spanish ''ciento'' ),[],,True,False,,1
+huic1243-1-200-1,,huic1243-1,200,huuta siyénítú.yaari,huuta siyénítú.yaari,[],,[],,False,False,,1
+huic1243-1-1000-1,,huic1243-1,1000,zei mírí.yaari,zei mírí.yaari,[],( < Spanish ''mil''),[],,True,False,,1
+huic1243-1-2000-1,,huic1243-1,2000,huuta mírí.yaari,huuta mírí.yaari,[],,[],,False,False,,1

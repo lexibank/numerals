@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kwan1273-1-1-1,,kwan1273-1,1,-mwe,-mwe,[],,[],,False,False,,1
+kwan1273-1-2-1,,kwan1273-1,2,-vali,-vali,[],,[],,False,False,,1
+kwan1273-1-3-1,,kwan1273-1,3,-tatu,-tatu,[],,[],,False,False,,1
+kwan1273-1-4-1,,kwan1273-1,4,-ne,-ne,[],,[],,False,False,,1
+kwan1273-1-5-1,,kwan1273-1,5,-tano,-tano,[],,[],,False,False,,1
+kwan1273-1-6-1,,kwan1273-1,6,-tano na -mwe,-tano na -mwe,[],( 5 + 1 ),[],,False,False,,1
+kwan1273-1-7-1,,kwan1273-1,7,-tano na -vali,-tano na -vali,[],( 5 + 2 ),[],,False,False,,1
+kwan1273-1-8-1,,kwan1273-1,8,-tano na -tatu,-tano na -tatu,[],( 5 + 3 ),[],,False,False,,1
+kwan1273-1-9-1,,kwan1273-1,9,-tano na -ne,-tano na -ne,[],( 5 + 4 ),[],,False,False,,1
+kwan1273-1-10-1,,kwan1273-1,10,mronɡo,mronɡo,[],,[],,False,False,,1
+kwan1273-1-11-1,,kwan1273-1,11,mronɡo -mwe,mronɡo -mwe,[],,[],,False,False,,1
+kwan1273-1-12-1,,kwan1273-1,12,mronɡo -vali,mronɡo -vali,[],,[],,False,False,,1
+kwan1273-1-13-1,,kwan1273-1,13,mronɡo -tatu,mronɡo -tatu,[],,[],,False,False,,1
+kwan1273-1-14-1,,kwan1273-1,14,mronɡo -ne,mronɡo -ne,[],,[],,False,False,,1
+kwan1273-1-15-1,,kwan1273-1,15,mronɡo -tano,mronɡo -tano,[],,[],,False,False,,1
+kwan1273-1-16-1,,kwan1273-1,16,mronɡo -tano na -mwe,mronɡo -tano na -mwe,[],,[],,False,False,,1
+kwan1273-1-17-1,,kwan1273-1,17,mronɡo -tano na -vali,mronɡo -tano na -vali,[],,[],,False,False,,1
+kwan1273-1-18-1,,kwan1273-1,18,mronɡo -tano na -tatu,mronɡo -tano na -tatu,[],,[],,False,False,,1
+kwan1273-1-19-1,,kwan1273-1,19,mronɡo -tano na -ne,mronɡo -tano na -ne,[],,[],,False,False,,1
+kwan1273-1-20-1,,kwan1273-1,20,nomronɡo mbali,nomronɡo mbali,[],,[],,False,False,,1
+kwan1273-1-21-1,,kwan1273-1,21,nomronɡo mbali -mwe,nomronɡo mbali -mwe,[],,[],,False,False,,1
+kwan1273-1-22-1,,kwan1273-1,22,nomronɡo mbali -vali,nomronɡo mbali -vali,[],,[],,False,False,,1
+kwan1273-1-23-1,,kwan1273-1,23,nomronɡo mbali -tatu,nomronɡo mbali -tatu,[],,[],,False,False,,1
+kwan1273-1-24-1,,kwan1273-1,24,nomronɡo mbali -ne,nomronɡo mbali -ne,[],,[],,False,False,,1
+kwan1273-1-25-1,,kwan1273-1,25,nomronɡo mbali -tano,nomronɡo mbali -tano,[],,[],,False,False,,1
+kwan1273-1-26-1,,kwan1273-1,26,nomronɡo mbali -tano na -mwe,nomronɡo mbali -tano na -mwe,[],,[],,False,False,,1
+kwan1273-1-27-1,,kwan1273-1,27,nomronɡo mbali -tano na -vali,nomronɡo mbali -tano na -vali,[],,[],,False,False,,1
+kwan1273-1-28-1,,kwan1273-1,28,nomronɡo mbali -tano na -tatu,nomronɡo mbali -tano na -tatu,[],,[],,False,False,,1
+kwan1273-1-29-1,,kwan1273-1,29,nomronɡo mbali -tano na -ne,nomronɡo mbali -tano na -ne,[],,[],,False,False,,1
+kwan1273-1-30-1,,kwan1273-1,30,nomronɡo ntatu,nomronɡo ntatu,[],,[],,False,False,,1
+kwan1273-1-40-1,,kwan1273-1,40,nomronɡo nne,nomronɡo nne,[],,[],,False,False,,1
+kwan1273-1-50-1,,kwan1273-1,50,nomronɡo ntano,nomronɡo ntano,[],,[],,False,False,,1
+kwan1273-1-60-1,,kwan1273-1,60,nomronɡo ntáno nazimwe,nomronɡo ntáno nazimwe,[],,[],,False,False,,1
+kwan1273-1-70-1,,kwan1273-1,70,nomronɡo ntáno nambali,nomronɡo ntáno nambali,[],,[],,False,False,,1
+kwan1273-1-80-1,,kwan1273-1,80,nomronɡo ntáno nantatu,nomronɡo ntáno nantatu,[],,[],,False,False,,1
+kwan1273-1-90-1,,kwan1273-1,90,nomronɡo ntáno nane,nomronɡo ntáno nane,[],,[],,False,False,,1
+kwan1273-1-100-1,,kwan1273-1,100,esere,esere,[],,[],,False,False,,1
+kwan1273-1-200-1,,kwan1273-1,200,masere ɡavali,masere ɡavali,[],,[],,False,False,,1
+kwan1273-1-1000-1,,kwan1273-1,1000,eyuvi,eyuvi,[],,[],,False,False,,1
+kwan1273-1-2000-1,,kwan1273-1,2000,mayuvi nomronɡo,mayuvi nomronɡo,[],,[],,False,False,,1

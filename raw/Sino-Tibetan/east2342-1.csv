@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+east2342-1-1-1,,east2342-1,1,tə-,tə-,[],,[],,False,False,,1
+east2342-1-2-1,,east2342-1,2,nʌ̄,nʌ̄,[],,[],,False,False,,1
+east2342-1-3-1,,east2342-1,3,sō,sō,[],,[],,False,False,,1
+east2342-1-4-1,,east2342-1,4,lwī,lwī,[],,[],,False,False,,1
+east2342-1-5-1,,east2342-1,5,ŋɛ̄-,ŋɛ̄-,[],,[],,False,False,,1
+east2342-1-6-1,,east2342-1,6,sō swá,sō swá,[],( 3 x 2  'three doubled'),[],,False,False,,1
+east2342-1-7-1,,east2342-1,7,sō swá tə-,sō swá tə-,[],( 3 x 2 + 1 ),[],,False,False,,1
+east2342-1-8-1,,east2342-1,8,lwī swá,lwī swá,[],( 4 x 2  'four doubled' ),[],,False,False,,1
+east2342-1-9-1,,east2342-1,9,lwī swá tə-,lwī swá tə-,[],( 4 x 2 + 1),[],,False,False,,1
+east2342-1-10-1,,east2342-1,10,chʌ̄,chʌ̄,[],,[],,False,False,,1
+east2342-1-11-1,,east2342-1,11,chʌ̄ tə-,chʌ̄ tə-,[],,[],,False,False,,1
+east2342-1-12-1,,east2342-1,12,chʌ̄ nə̄,chʌ̄ nə̄,[],,[],,False,False,,1
+east2342-1-13-1,,east2342-1,13,chʌ̄ sō,chʌ̄ sō,[],,[],,False,False,,1
+east2342-1-14-1,,east2342-1,14,chʌ̄ lwī,chʌ̄ lwī,[],,[],,False,False,,1
+east2342-1-15-1,,east2342-1,15,chʌ̄ ŋɛ̄,chʌ̄ ŋɛ̄,[],,[],,False,False,,1
+east2342-1-16-1,,east2342-1,16,chʌ̄ sō swá,chʌ̄ sō swá,[],,[],,False,False,,1
+east2342-1-17-1,,east2342-1,17,chʌ̄ sō swá tə-,chʌ̄ sō swá tə-,[],,[],,False,False,,1
+east2342-1-18-1,,east2342-1,18,chʌ̄ lwī swá,chʌ̄ lwī swá,[],,[],,False,False,,1
+east2342-1-19-1,,east2342-1,19,chʌ̄ lwī swá tə-,chʌ̄ lwī swá tə-,[],,[],,False,False,,1
+east2342-1-20-1,,east2342-1,20,nʌ̄ chʌ̄,nʌ̄ chʌ̄,[],,[],,False,False,,1
+east2342-1-21-1,,east2342-1,21,nʌ̄ chʌ̄ tə-,nʌ̄ chʌ̄ tə-,[],,[],,False,False,,1
+east2342-1-22-1,,east2342-1,22,nʌ̄ chʌ̄ nʌ̄,nʌ̄ chʌ̄ nʌ̄,[],,[],,False,False,,1
+east2342-1-23-1,,east2342-1,23,nʌ̄ chʌ̄ sō,nʌ̄ chʌ̄ sō,[],,[],,False,False,,1
+east2342-1-24-1,,east2342-1,24,nʌ̄ chʌ̄ lwī,nʌ̄ chʌ̄ lwī,[],,[],,False,False,,1
+east2342-1-25-1,,east2342-1,25,nʌ̄ chʌ̄ ŋɛ̄,nʌ̄ chʌ̄ ŋɛ̄,[],,[],,False,False,,1
+east2342-1-26-1,,east2342-1,26,nʌ̄ chʌ̄ sō swá,nʌ̄ chʌ̄ sō swá,[],,[],,False,False,,1
+east2342-1-27-1,,east2342-1,27,nʌ̄ chʌ̄ sō swá tə-,nʌ̄ chʌ̄ sō swá tə-,[],,[],,False,False,,1
+east2342-1-28-1,,east2342-1,28,nʌ̄ chʌ̄ lwī swá,nʌ̄ chʌ̄ lwī swá,[],,[],,False,False,,1
+east2342-1-29-1,,east2342-1,29,nʌ̄ chʌ̄ lwī swá tə-,nʌ̄ chʌ̄ lwī swá tə-,[],,[],,False,False,,1
+east2342-1-30-1,,east2342-1,30,sō chʌ̄,sō chʌ̄,[],,[],,False,False,,1
+east2342-1-40-1,,east2342-1,40,lwī chʌ̄,lwī chʌ̄,[],,[],,False,False,,1
+east2342-1-50-1,,east2342-1,50,ŋɛ̄ chʌ̄,ŋɛ̄ chʌ̄,[],,[],,False,False,,1
+east2342-1-60-1,,east2342-1,60,chʌ̄ sō swá,chʌ̄ sō swá,[],,[],,False,False,,1
+east2342-1-70-1,,east2342-1,70,sō swá təchʌ̄,sō swá təchʌ̄,[],,[],,False,False,,1
+east2342-1-80-1,,east2342-1,80,chʌ̄ lwī swá,chʌ̄ lwī swá,[],,[],,False,False,,1
+east2342-1-90-1,,east2342-1,90,lwī swá təchʌ̄,lwī swá təchʌ̄,[],,[],,False,False,,1
+east2342-1-100-1,,east2342-1,100,(tə)jē,(tə)jē,[],,[],,False,False,,1
+east2342-1-200-1,,east2342-1,200,nʌ̄jē,nʌ̄jē,[],,[],,False,False,,1
+east2342-1-1000-1,,east2342-1,1000,(tə)̄rí,(tə)̄rí,[],,[],,False,False,,1
+east2342-1-2000-1,,east2342-1,2000,nʌ̄rí,nʌ̄rí,[],,[],,False,False,,1

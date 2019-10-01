@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ujir1237-1-1-1,,ujir1237-1,1,set,set,[],,[],,False,False,,1
+ujir1237-1-2-1,,ujir1237-1,2,rua,rua,[],,[],,False,False,,1
+ujir1237-1-3-1,,ujir1237-1,3,lati,lati,[],,[],,False,False,,1
+ujir1237-1-4-1,,ujir1237-1,4,ka,ka,[],,[],,False,False,,1
+ujir1237-1-5-1,,ujir1237-1,5,lima,lima,[],,[],,False,False,,1
+ujir1237-1-6-1,,ujir1237-1,6,dubu,dubu,[],,[],,False,False,,1
+ujir1237-1-7-1,,ujir1237-1,7,dubusam,dubusam,[],(6 +1),[],,False,False,,1
+ujir1237-1-8-1,,ujir1237-1,8,karua,karua,[],(4 x 2),[],,False,False,,1
+ujir1237-1-9-1,,ujir1237-1,9,tera,tera,[],,[],,False,False,,1
+ujir1237-1-10-1,,ujir1237-1,10,uisia,uisia,[],,[],,False,False,,1
+ujir1237-1-11-1,,ujir1237-1,11,uisia ma set,uisia ma set,[],( 10 + 1),[],,False,False,,1
+ujir1237-1-12-1,,ujir1237-1,12,uisia ma rua,uisia ma rua,[],,[],,False,False,,1
+ujir1237-1-13-1,,ujir1237-1,13,uisia ma lati,uisia ma lati,[],,[],,False,False,,1
+ujir1237-1-14-1,,ujir1237-1,14,uisia ma ka,uisia ma ka,[],,[],,False,False,,1
+ujir1237-1-15-1,,ujir1237-1,15,uisia ma lima,uisia ma lima,[],( 10 + 5),[],,False,False,,1
+ujir1237-1-16-1,,ujir1237-1,16,uisia ma duba,uisia ma duba,[],,[],,False,False,,1
+ujir1237-1-17-1,,ujir1237-1,17,uisia ma dubusam,uisia ma dubusam,[],,[],,False,False,,1
+ujir1237-1-18-1,,ujir1237-1,18,uisia ma karua,uisia ma karua,[],,[],,False,False,,1
+ujir1237-1-19-1,,ujir1237-1,19,uisia ma tera,uisia ma tera,[],,[],,False,False,,1
+ujir1237-1-20-1,,ujir1237-1,20,uirua,uirua,[],,[],,False,False,,1
+ujir1237-1-21-1,,ujir1237-1,21,uirua ma set,uirua ma set,[],,[],,False,False,,1
+ujir1237-1-22-1,,ujir1237-1,22,uirua ma rua,uirua ma rua,[],,[],,False,False,,1
+ujir1237-1-23-1,,ujir1237-1,23,uirua ma lati,uirua ma lati,[],,[],,False,False,,1
+ujir1237-1-24-1,,ujir1237-1,24,uirua ma ka,uirua ma ka,[],,[],,False,False,,1
+ujir1237-1-25-1,,ujir1237-1,25,uirua ma lima,uirua ma lima,[],,[],,False,False,,1
+ujir1237-1-26-1,,ujir1237-1,26,uirua ma dubu,uirua ma dubu,[],,[],,False,False,,1
+ujir1237-1-27-1,,ujir1237-1,27,uirua ma dubusam,uirua ma dubusam,[],,[],,False,False,,1
+ujir1237-1-28-1,,ujir1237-1,28,uirua ma karua,uirua ma karua,[],,[],,False,False,,1
+ujir1237-1-29-1,,ujir1237-1,29,uirua ma tera,uirua ma tera,[],,[],,False,False,,1
+ujir1237-1-30-1,,ujir1237-1,30,uilati,uilati,[],,[],,False,False,,1
+ujir1237-1-40-1,,ujir1237-1,40,uika,uika,[],,[],,False,False,,1
+ujir1237-1-50-1,,ujir1237-1,50,uilima,uilima,[],,[],,False,False,,1
+ujir1237-1-60-1,,ujir1237-1,60,uidubu,uidubu,[],,[],,False,False,,1
+ujir1237-1-70-1,,ujir1237-1,70,uidubusam,uidubusam,[],,[],,False,False,,1
+ujir1237-1-80-1,,ujir1237-1,80,uikarua,uikarua,[],,[],,False,False,,1
+ujir1237-1-90-1,,ujir1237-1,90,uitera,uitera,[],,[],,False,False,,1
+ujir1237-1-100-1,,ujir1237-1,100,rat sia,rat sia,[],,[],,False,False,,1
+ujir1237-1-200-1,,ujir1237-1,200,rat rua,rat rua,[],,[],,False,False,,1
+ujir1237-1-1000-1,,ujir1237-1,1000,rifun sia,rifun sia,[],,[],,False,False,,1
+ujir1237-1-2000-1,,ujir1237-1,2000,rifun rua,rifun rua,[],,[],,False,False,,1

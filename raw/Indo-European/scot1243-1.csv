@@ -1,0 +1,50 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+scot1243-1-1-1,,scot1243-1,1,en,en,[],,[],,False,False,ane,1
+scot1243-1-1-2,,scot1243-1,1,jin,jin,[],,[],,False,False,yin,1
+scot1243-1-2-1,,scot1243-1,2,tʰwa,tʰwa,[],,[],,False,False,twa,1
+scot1243-1-2-2,,scot1243-1,2,twe,twe,[],,[],,False,False,twae,1
+scot1243-1-3-1,,scot1243-1,3,θɹi /θri,θɹi,[],,[],,False,True,three,1
+scot1243-1-3-2,,scot1243-1,3,θɹi /θri,θri,[],,[],,False,True,three,1
+scot1243-1-4-1,,scot1243-1,4,fowər,fowər,[],,[],,False,False,fower,1
+scot1243-1-5-1,,scot1243-1,5,faɪv,faɪv,[],,[],,False,False,five,1
+scot1243-1-6-1,,scot1243-1,6,saks/seks,saks,[],,[],,False,True,sax,1
+scot1243-1-6-2,,scot1243-1,6,saks/seks,seks,[],,[],,False,True,sax,1
+scot1243-1-7-1,,scot1243-1,7,ˈsivən,ˈsivən,[],,[],,False,False,seeven,1
+scot1243-1-8-1,,scot1243-1,8,ext,ext,[],,[],,False,False,aicht,1
+scot1243-1-8-2,,scot1243-1,8,axt,axt,[],,[],,False,False,aucht,1
+scot1243-1-9-1,,scot1243-1,9,nəɪn,nəɪn,[],,[],,False,False,nine,1
+scot1243-1-10-1,,scot1243-1,10,tʰen,tʰen,[],,[],,False,False,ten,1
+scot1243-1-11-1,,scot1243-1,11,əˈlivən,əˈlivən,[],,[],,False,False,eleeven,1
+scot1243-1-12-1,,scot1243-1,12,ˈtwal,ˈtwal,[],,[],,False,False,twal,1
+scot1243-1-13-1,,scot1243-1,13,ˌθɾɛˈtin,ˌθɾɛˈtin,[],,[],,False,False,thretteen,1
+scot1243-1-14-1,,scot1243-1,14,ˌfʌuɾˈtin,ˌfʌuɾˈtin,[],,[],,False,False,fowerteen,1
+scot1243-1-15-1,,scot1243-1,15,ˌfɪfˈtin,ˌfɪfˈtin,[],,[],,False,False,fifteen,1
+scot1243-1-16-1,,scot1243-1,16,ˌseksˈtin,ˌseksˈtin,[],,[],,False,False,saxteen,1
+scot1243-1-17-1,,scot1243-1,17,ˌsiːvənˈˈtin,ˌsiːvənˈˈtin,[],,[],,False,False,seeventeen,1
+scot1243-1-18-1,,scot1243-1,18,ˌexˈtin,ˌexˈtin,[],,[],,False,False,aichteen,1
+scot1243-1-18-2,,scot1243-1,18,ˌaxˈtin,ˌaxˈtin,[],,[],,False,False,auchteen,1
+scot1243-1-19-1,,scot1243-1,19,ˌnaɪnˈtin,ˌnaɪnˈtin,[],,[],,False,False,nineteen,1
+scot1243-1-20-1,,scot1243-1,20,ˈtw̥ɪntɪ,ˈtw̥ɪntɪ,[],,[],,False,False,twentie,1
+scot1243-1-21-1,,scot1243-1,21,ˌtw̥ɪntɪ ˈen /ˈjin,ˌtw̥ɪntɪ ˈen,[],,[],,False,True,twintie ane,1
+scot1243-1-21-2,,scot1243-1,21,ˌtw̥ɪntɪ ˈen /ˈjin,ˈjin,[],,[],,False,True,twintie ane,1
+scot1243-1-22-1,,scot1243-1,22,ˌtw̥ɪntɪ ˈtʰwa,ˌtw̥ɪntɪ ˈtʰwa,[],,[],,False,False,twintietwa,1
+scot1243-1-23-1,,scot1243-1,23,ˌtw̥ɪntɪ ˈθɹi,ˌtw̥ɪntɪ ˈθɹi,[],,[],,False,False,twintiethree,1
+scot1243-1-24-1,,scot1243-1,24,ˌtw̥ɪntɪ ˈfowəɾ,ˌtw̥ɪntɪ ˈfowəɾ,[],,[],,False,False,twintiefower,1
+scot1243-1-25-1,,scot1243-1,25,ˌtw̥ɪntɪ ˈfaɪv,ˌtw̥ɪntɪ ˈfaɪv,[],,[],,False,False,twintiefive,1
+scot1243-1-26-1,,scot1243-1,26,ˌtw̥ɪntɪ ˈsaks,ˌtw̥ɪntɪ ˈsaks,[],,[],,False,False,twintiesax,1
+scot1243-1-27-1,,scot1243-1,27,ˌtw̥ɪntɪ ˈsivən,ˌtw̥ɪntɪ ˈsivən,[],,[],,False,False,twintiesieven,1
+scot1243-1-28-1,,scot1243-1,28,ˌtw̥ɪntɪ ˈext /axt,ˌtw̥ɪntɪ ˈext,[],,[],,False,True,twintie aicht,1
+scot1243-1-28-2,,scot1243-1,28,ˌtw̥ɪntɪ ˈext /axt,axt,[],,[],,False,True,twintie aicht,1
+scot1243-1-29-1,,scot1243-1,29,ˌtw̥ɪntɪ ˈnəɪn,ˌtw̥ɪntɪ ˈnəɪn,[],,[],,False,False,twintienine,1
+scot1243-1-30-1,,scot1243-1,30,ˈθɾɪti,ˈθɾɪti,[],,[],,False,False,thrittie,1
+scot1243-1-30-2,,scot1243-1,30,θɾɛtɪ,θɾɛtɪ,[],,[],,False,False,thretty,1
+scot1243-1-40-1,,scot1243-1,40,ˈfɔɾtɪ,ˈfɔɾtɪ,[],,[],,False,False,forty,1
+scot1243-1-50-1,,scot1243-1,50,ˈfɪftɪ,ˈfɪftɪ,[],,[],,False,False,fifty,1
+scot1243-1-60-1,,scot1243-1,60,ˈsekstɪ,ˈsekstɪ,[],,[],,False,False,saxtie,1
+scot1243-1-70-1,,scot1243-1,70,ˈsɪvn̩tɪ,ˈsɪvn̩tɪ,[],,[],,False,False,sieventie,1
+scot1243-1-80-1,,scot1243-1,80,ˈaxtɪ,ˈaxtɪ,[],,[],,False,False,aichtie,1
+scot1243-1-90-1,,scot1243-1,90,ˈnəɪntɪ,ˈnəɪntɪ,[],,[],,False,False,ninety,1
+scot1243-1-100-1,,scot1243-1,100,ˈhʌn(d)əɾ,ˈhʌn(d)əɾ,[],,[],,False,False,hundre,1
+scot1243-1-200-1,,scot1243-1,200,ˌtʰwaˈhʌn(d)əɾ,ˌtʰwaˈhʌn(d)əɾ,[],,[],,False,False,twa hundre,1
+scot1243-1-1000-1,,scot1243-1,1000,ˈθuzən(d),ˈθuzən(d),[],,[],,False,False,thoosand,1
+scot1243-1-2000-1,,scot1243-1,2000,ˌtʰwaˈθuzən(d),ˌtʰwaˈθuzən(d),[],,[],,False,False,twathoosand,1

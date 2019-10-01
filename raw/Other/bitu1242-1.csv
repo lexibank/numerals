@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bitu1242-1-1-1,,bitu1242-1,1,orag,orag,[],,[],,False,False,,1
+bitu1242-1-1-2,,bitu1242-1,1,‘one.N1’,‘one.N1’,[],,[],,False,True,,1
+bitu1242-1-1-3,,bitu1242-1,1,oreag,oreag,[],,[],,False,False,,1
+bitu1242-1-1-4,,bitu1242-1,1,‘one.ANIM’,‘one.ANIM’,[],,[],,False,True,,1
+bitu1242-1-1-5,,bitu1242-1,1,orieg,orieg,[],,[],,False,False,,1
+bitu1242-1-1-6,,bitu1242-1,1,‘one.N2’,‘one.N2’,[],,[],,False,True,,1
+bitu1242-1-2-1,,bitu1242-1,2,mita,mita,[],,[],,False,False,,1
+bitu1242-1-3-1,,bitu1242-1,3,mita orag,mita orag,[],,[],,False,False,,1
+bitu1242-1-4-1,,bitu1242-1,4,mita mita,mita mita,[],,[],,False,False,,1
+bitu1242-1-5-1,,bitu1242-1,5,mita mita orag,mita mita orag,[],,[],,False,False,,1
+bitu1242-1-5-2,,bitu1242-1,5,or,or,[],,[],,False,True,,1
+bitu1242-1-5-3,,bitu1242-1,5,(paroa) neai,(paroa) neai,[],,[],,False,False,,1
+bitu1242-1-5-4,,bitu1242-1,5,‘(side) fingers’ or,‘(side) fingers’ or,[],,[],,False,True,,1
+bitu1242-1-5-5,,bitu1242-1,5,(paroa) eaba,(paroa) eaba,[],,[],,False,False,,1
+bitu1242-1-5-6,,bitu1242-1,5,‘(side) hand’ **for this and all subsequent forms,‘(side) hand’ **for this and all subsequent forms,[],,[],,False,True,,1
+bitu1242-1-5-7,,bitu1242-1,5,neai,neai,[],,[],,False,False,,1
+bitu1242-1-5-8,,bitu1242-1,5,and,and,[],,[],,False,True,,1
+bitu1242-1-5-9,,bitu1242-1,5,eaba,eaba,[],,[],,False,False,,1
+bitu1242-1-5-10,,bitu1242-1,5,are used interchangeably,are used interchangeably,[],,[],,False,True,,1
+bitu1242-1-6-1,,bitu1242-1,6,mita mita mita,mita mita mita,[],,[],,False,False,,1
+bitu1242-1-6-2,,bitu1242-1,6,**can concatenate ‘two’ and ‘one’ indefinitely for higher,**can concatenate ‘two’ and ‘one’ indefinitely for higher,[],( numbers** or),[],,False,True,,1
+bitu1242-1-6-3,,bitu1242-1,6,(paroa) neai orag,(paroa) neai orag,[],,[],,False,False,,1
+bitu1242-1-7-1,,bitu1242-1,7,paroa neai mita,paroa neai mita,[],,[],,False,False,,1
+bitu1242-1-8-1,,bitu1242-1,8,paroa neai mita orag,paroa neai mita orag,[],,[],,False,False,,1
+bitu1242-1-9-1,,bitu1242-1,9,paroa neai mita mita,paroa neai mita mita,[],,[],,False,False,,1
+bitu1242-1-10-1,,bitu1242-1,10,mita tamuma neai,mita tamuma neai,[],,[],,False,False,,1
+bitu1242-1-10-2,,bitu1242-1,10,‘two eating fingers’ or,‘two eating fingers’ or,[],,[],,False,True,,1
+bitu1242-1-10-3,,bitu1242-1,10,mita neai,mita neai,[],,[],,False,False,,1
+bitu1242-1-11-1,,bitu1242-1,11,mita tamuma neai orag,mita tamuma neai orag,[],,[],,False,False,,1
+bitu1242-1-12-1,,bitu1242-1,12,mita tamuma neai mita,mita tamuma neai mita,[],,[],,False,False,,1
+bitu1242-1-13-1,,bitu1242-1,13,mita tamuma neai mita orag,mita tamuma neai mita orag,[],,[],,False,False,,1
+bitu1242-1-14-1,,bitu1242-1,14,mita tamuma neai mita mita,mita tamuma neai mita mita,[],,[],,False,False,,1
+bitu1242-1-15-1,,bitu1242-1,15,mita tamuma neai paroa sokei,mita tamuma neai paroa sokei,[],(neai),[],,False,False,,1
+bitu1242-1-15-2,,bitu1242-1,15,‘two eating fingers side leg (fingers)’ or,‘two eating fingers side leg (fingers)’ or,[],,[],,False,True,,1
+bitu1242-1-15-3,,bitu1242-1,15,mita tamuma neai paroa aworma neai,mita tamuma neai paroa aworma neai,[],,[],,False,False,,1
+bitu1242-1-15-4,,bitu1242-1,15,‘two eating fingers side walking fingers’,‘two eating fingers side walking fingers’,[],( **),[],,False,True,,1
+bitu1242-1-15-5,,bitu1242-1,15,sokei,sokei,[],(neai),[],,False,False,,1
+bitu1242-1-15-6,,bitu1242-1,15,and,and,[],,[],,False,True,,1
+bitu1242-1-15-7,,bitu1242-1,15,aworma neai,aworma neai,[],,[],,False,False,,1
+bitu1242-1-15-8,,bitu1242-1,15,are interchangeably used for referring to all,are interchangeably used for referring to all,[],( the toes on a foot**),[],,False,True,,1
+bitu1242-1-16-1,,bitu1242-1,16,mita tamuma neai paroa aworma neai orag,mita tamuma neai paroa aworma neai orag,[],,[],,False,False,,1
+bitu1242-1-17-1,,bitu1242-1,17,mita tamuma neai paroa aworma neai mita,mita tamuma neai paroa aworma neai mita,[],,[],,False,False,,1
+bitu1242-1-18-1,,bitu1242-1,18,mita tamuma neai paroa aworma neai mita orag,mita tamuma neai paroa aworma neai mita orag,[],,[],,False,False,,1
+bitu1242-1-19-1,,bitu1242-1,19,mita tamuma neai paroa aworma neai mita mita,mita tamuma neai paroa aworma neai mita mita,[],,[],,False,False,,1
+bitu1242-1-20-1,,bitu1242-1,20,mita tamuma neai mita aworma neai,mita tamuma neai mita aworma neai,[],,[],,False,False,,1

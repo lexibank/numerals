@@ -1,0 +1,48 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sant1410-1-1-1,,sant1410-1,1,mitˀ,mitˀ,[],,[],,False,False,,1
+sant1410-1-2-1,,sant1410-1,2,bar,bar,[],,[],,False,False,,1
+sant1410-1-3-1,,sant1410-1,3,pɛ,pɛ,[],,[],,False,False,,1
+sant1410-1-4-1,,sant1410-1,4,pon,pon,[],,[],,False,False,,1
+sant1410-1-5-1,,sant1410-1,5,mɔ̃ɽɛ̃,mɔ̃ɽɛ̃,[],,[],,False,False,,1
+sant1410-1-6-1,,sant1410-1,6,turui,turui,[],,[],,False,False,,1
+sant1410-1-7-1,,sant1410-1,7,eae,eae,[],,[],,False,False,,1
+sant1410-1-8-1,,sant1410-1,8,irəl,irəl,[],,[],,False,False,,1
+sant1410-1-9-1,,sant1410-1,9,arɛ,arɛ,[],,[],,False,False,,1
+sant1410-1-10-1,,sant1410-1,10,gɛl,gɛl,[],,[],,False,False,,1
+sant1410-1-11-1,,sant1410-1,11,gɛl mitˀ,gɛl mitˀ,[],,[],,False,False,,1
+sant1410-1-12-1,,sant1410-1,12,gɛl bar,gɛl bar,[],,[],,False,False,,1
+sant1410-1-13-1,,sant1410-1,13,gɛl pɛ,gɛl pɛ,[],,[],,False,False,,1
+sant1410-1-14-1,,sant1410-1,14,gel pon,gel pon,[],,[],,False,False,,1
+sant1410-1-15-1,,sant1410-1,15,gɛl mɔ̃ɽɛ̃,gɛl mɔ̃ɽɛ̃,[],,[],,False,False,,1
+sant1410-1-16-1,,sant1410-1,16,gɛl turui,gɛl turui,[],,[],,False,False,,1
+sant1410-1-17-1,,sant1410-1,17,gɛl eae,gɛl eae,[],,[],,False,False,,1
+sant1410-1-18-1,,sant1410-1,18,gɛl irəl,gɛl irəl,[],,[],,False,False,,1
+sant1410-1-19-1,,sant1410-1,19,gɛl are,gɛl are,[],,[],,False,False,,1
+sant1410-1-20-1,,sant1410-1,20,mitˀ isi,mitˀ isi,[],,[],,False,False,,1
+sant1410-1-21-1,,sant1410-1,21,mitˀ isi mitˀ,mitˀ isi mitˀ,[],,[],,False,False,,1
+sant1410-1-22-1,,sant1410-1,22,mitˀ isi bar,mitˀ isi bar,[],,[],,False,False,,1
+sant1410-1-23-1,,sant1410-1,23,mitˀ isi pɛ,mitˀ isi pɛ,[],,[],,False,False,,1
+sant1410-1-24-1,,sant1410-1,24,mitˀ isi pon,mitˀ isi pon,[],,[],,False,False,,1
+sant1410-1-25-1,,sant1410-1,25,mitˀ isi mɔ̃ɽɛ̃,mitˀ isi mɔ̃ɽɛ̃,[],,[],,False,False,,1
+sant1410-1-26-1,,sant1410-1,26,mitˀ isi turui,mitˀ isi turui,[],,[],,False,False,,1
+sant1410-1-27-1,,sant1410-1,27,mitˀ isi eae,mitˀ isi eae,[],,[],,False,False,,1
+sant1410-1-28-1,,sant1410-1,28,mitˀ isi irəl,mitˀ isi irəl,[],,[],,False,False,,1
+sant1410-1-29-1,,sant1410-1,29,mitˀ isi arɛ,mitˀ isi arɛ,[],,[],,False,False,,1
+sant1410-1-30-1,,sant1410-1,30,mitˀ isi gɛl,mitˀ isi gɛl,[],,[],,False,False,,1
+sant1410-1-30-2,,sant1410-1,30,pɛ gɛl,pɛ gɛl,[],,[],,False,False,,1
+sant1410-1-40-1,,sant1410-1,40,bar isi,bar isi,[],,[],,False,False,,1
+sant1410-1-40-2,,sant1410-1,40,pon gɛl,pon gɛl,[],,[],,False,False,,1
+sant1410-1-50-1,,sant1410-1,50,bar isi gɛl,bar isi gɛl,[],,[],,False,False,,1
+sant1410-1-50-2,,sant1410-1,50,mɔ̃ɽɛ̃ gel,mɔ̃ɽɛ̃ gel,[],,[],,False,False,,1
+sant1410-1-60-1,,sant1410-1,60,pɛ isi,pɛ isi,[],,[],,False,False,,1
+sant1410-1-60-2,,sant1410-1,60,turui gɛl,turui gɛl,[],,[],,False,False,,1
+sant1410-1-70-1,,sant1410-1,70,pɛ isi gɛl,pɛ isi gɛl,[],,[],,False,False,,1
+sant1410-1-70-2,,sant1410-1,70,eae gɛl,eae gɛl,[],,[],,False,False,,1
+sant1410-1-80-1,,sant1410-1,80,pon isi,pon isi,[],,[],,False,False,,1
+sant1410-1-80-2,,sant1410-1,80,irəl gɛl,irəl gɛl,[],,[],,False,False,,1
+sant1410-1-90-1,,sant1410-1,90,pon isi gɛl,pon isi gɛl,[],,[],,False,False,,1
+sant1410-1-90-2,,sant1410-1,90,arɛ gɛl,arɛ gɛl,[],,[],,False,False,,1
+sant1410-1-100-1,,sant1410-1,100,mɔ̃ɽɛ̃ gɛl,mɔ̃ɽɛ̃ gɛl,[],,[],,False,False,,1
+sant1410-1-100-2,,sant1410-1,100,mit sae,mit sae,[],( Hindi),[],,False,False,,1
+sant1410-1-200-1,,sant1410-1,200,bar sae,bar sae,[],,[],,False,False,,1
+sant1410-1-1000-1,,sant1410-1,1000,haɟar,haɟar,[],,[],,False,False,,1

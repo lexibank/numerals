@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bina1271-1-1-1,,bina1271-1,1,kanaoni,kanaoni,[],,[],,False,False,,1
+bina1271-1-2-1,,bina1271-1,2,buo,buo,[],,[],,False,False,,1
+bina1271-1-3-1,,bina1271-1,3,aiteri,aiteri,[],,[],,False,False,,1
+bina1271-1-4-1,,bina1271-1,4,vati,vati,[],,[],,False,False,,1
+bina1271-1-5-1,,bina1271-1,5,ima,ima,[],,[],,False,False,,1
+bina1271-1-6-1,,bina1271-1,6,ima riria kana,ima riria kana,[],( 5 + 1 ),[],,False,False,,1
+bina1271-1-7-1,,bina1271-1,7,ima riria bau,ima riria bau,[],( 5 + 2 ),[],,False,False,,1
+bina1271-1-8-1,,bina1271-1,8,ima riria aiteri,ima riria aiteri,[],( 5 + 3 ),[],,False,False,,1
+bina1271-1-9-1,,bina1271-1,9,ima riria vati,ima riria vati,[],( 5 + 4 ),[],,False,False,,1
+bina1271-1-10-1,,bina1271-1,10,aukana,aukana,[],,[],,False,False,,1

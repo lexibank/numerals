@@ -1,0 +1,50 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+piem1238-3-1-1,,piem1238-3,1,ˈjyŋ,ˈjyŋ,[],,[],,False,False,un,1
+piem1238-3-1-2,,piem1238-3,1,ˈjyna,ˈjyna,[],(masc./fem.),[],,False,False,una,1
+piem1238-3-2-1,,piem1238-3,2,ˈduj,ˈduj,[],,[],,False,False,doi,1
+piem1238-3-2-2,,piem1238-3,2,ˈduɛ,ˈduɛ,[],(masc./fem.),[],,False,False,due,1
+piem1238-3-3-1,,piem1238-3,3,ˈtrɛj,ˈtrɛj,[],,[],,False,False,trei,1
+piem1238-3-3-2,,piem1238-3,3,ˈtrɛ,ˈtrɛ,[],(masc./fem.),[],,False,False,tre,1
+piem1238-3-4-1,,piem1238-3,4,ˈkwɒtɾ,ˈkwɒtɾ,[],,[],,False,False,quatr,1
+piem1238-3-5-1,,piem1238-3,5,ˈt͡siŋk,ˈt͡siŋk,[],,[],,False,False,sinch,1
+piem1238-3-6-1,,piem1238-3,6,ˈseːʒ,ˈseːʒ,[],,[],,False,False,ses,1
+piem1238-3-7-1,,piem1238-3,7,ˈsɛt,ˈsɛt,[],,[],,False,False,set,1
+piem1238-3-8-1,,piem1238-3,8,ˈøːt,ˈøːt,[],,[],,False,False,eut,1
+piem1238-3-9-1,,piem1238-3,9,ˈnøv,ˈnøv,[],,[],,False,False,neuv,1
+piem1238-3-10-1,,piem1238-3,10,ˈdeːʒ,ˈdeːʒ,[],,[],,False,False,des,1
+piem1238-3-11-1,,piem1238-3,11,ˈundz,ˈundz,[],,[],,False,False,ondes,1
+piem1238-3-12-1,,piem1238-3,12,ˈdodz,ˈdodz,[],,[],,False,False,dodes,1
+piem1238-3-13-1,,piem1238-3,13,ˈtrɛdz,ˈtrɛdz,[],,[],,False,False,tërdes,1
+piem1238-3-14-1,,piem1238-3,14,kwaˈtɔrdz,kwaˈtɔrdz,[],,[],,False,False,quatòrdes,1
+piem1238-3-15-1,,piem1238-3,15,ˈkwindz,ˈkwindz,[],,[],,False,False,quindes,1
+piem1238-3-16-1,,piem1238-3,16,ˈsɛdz,ˈsɛdz,[],,[],,False,False,sëddes,1
+piem1238-3-17-1,,piem1238-3,17,diˈsɛt,diˈsɛt,[],,[],,False,False,disset,1
+piem1238-3-18-1,,piem1238-3,18,diʒˈdøt,diʒˈdøt,[],,[],,False,False,disdeut,1
+piem1238-3-19-1,,piem1238-3,19,diʒˈnøv,diʒˈnøv,[],,[],,False,False,disneuv,1
+piem1238-3-20-1,,piem1238-3,20,ˈviŋt,ˈviŋt,[],,[],,False,False,vinti,1
+piem1238-3-21-1,,piem1238-3,21,vintun,vintun,[],,[],,False,False,,1
+piem1238-3-21-2,,piem1238-3,21,vinˈtyŋ /tyna,vinˈtyŋ,[],,[],,False,True,tuna,1
+piem1238-3-21-3,,piem1238-3,21,vinˈtyŋ /tyna,tyna,[],,[],,False,True,tuna,1
+piem1238-3-22-1,,piem1238-3,22,vintedoi,vintedoi,[],,[],,False,False,,1
+piem1238-3-22-2,,piem1238-3,22,vinteˈduj /duɛ,vinteˈduj,[],,[],,False,True,due,1
+piem1238-3-22-3,,piem1238-3,22,vinteˈduj /duɛ,duɛ,[],,[],,False,True,due,1
+piem1238-3-23-1,,piem1238-3,23,vintetrei,vintetrei,[],,[],,False,False,,1
+piem1238-3-23-2,,piem1238-3,23,vinteˈtrɛj/ˈtrɛ,vinteˈtrɛj,[],,[],,False,True,tre,1
+piem1238-3-23-3,,piem1238-3,23,vinteˈtrɛj/ˈtrɛ,ˈtrɛ,[],,[],,False,True,tre,1
+piem1238-3-24-1,,piem1238-3,24,vintiˈkwɒtɾ,vintiˈkwɒtɾ,[],,[],,False,False,vintequatr,1
+piem1238-3-25-1,,piem1238-3,25,vinteˈt͡siŋk,vinteˈt͡siŋk,[],,[],,False,False,vintesinch,1
+piem1238-3-26-1,,piem1238-3,26,vinteˈseːʒ,vinteˈseːʒ,[],,[],,False,False,vinteses,1
+piem1238-3-27-1,,piem1238-3,27,vinteˈsɛt,vinteˈsɛt,[],,[],,False,False,vinteset,1
+piem1238-3-28-1,,piem1238-3,28,vinˈtøːt,vinˈtøːt,[],,[],,False,False,vinteut,1
+piem1238-3-29-1,,piem1238-3,29,vinteˈnøv,vinteˈnøv,[],,[],,False,False,vinti-nóve,1
+piem1238-3-30-1,,piem1238-3,30,ˈtɾan̪ta,ˈtɾan̪ta,[],,[],,False,False,tranta,1
+piem1238-3-40-1,,piem1238-3,40,kwaˈɾan̪ta,kwaˈɾan̪ta,[],,[],,False,False,quaranta,1
+piem1238-3-50-1,,piem1238-3,50,t͡siŋˈkwan̪ta,t͡siŋˈkwan̪ta,[],,[],,False,False,sinquanta,1
+piem1238-3-60-1,,piem1238-3,60,seˈʃan̪ta,seˈʃan̪ta,[],,[],,False,False,sessanta,1
+piem1238-3-70-1,,piem1238-3,70,sˈtan̪ta,sˈtan̪ta,[],,[],,False,False,stanta,1
+piem1238-3-80-1,,piem1238-3,80,oˈtan̪ta,oˈtan̪ta,[],,[],,False,False,otanta,1
+piem1238-3-90-1,,piem1238-3,90,nuˈwan̪ta,nuˈwan̪ta,[],,[],,False,False,novanta,1
+piem1238-3-100-1,,piem1238-3,100,ˈt͡sen̪t,ˈt͡sen̪t,[],,[],,False,False,sent,1
+piem1238-3-200-1,,piem1238-3,200,duˈʒen̪to,duˈʒen̪to,[],,[],,False,False,dosent,1
+piem1238-3-1000-1,,piem1238-3,1000,ˈmil,ˈmil,[],,[],,False,False,mila,1
+piem1238-3-2000-1,,piem1238-3,2000,dujˈmila,dujˈmila,[],,[],,False,False,doimila,1

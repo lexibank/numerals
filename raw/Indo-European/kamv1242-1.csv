@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kamv1242-1-1-1,,kamv1242-1,1,ev,ev,[],,[],,False,False,ˈev,1
+kamv1242-1-2-1,,kamv1242-1,2,dy,dy,[],,[],,False,False,dˈü,1
+kamv1242-1-3-1,,kamv1242-1,3,tre,tre,[],,[],,False,False,trˈe,1
+kamv1242-1-4-1,,kamv1242-1,4,ʃto,ʃto,[],,[],,False,False,štˈo,1
+kamv1242-1-5-1,,kamv1242-1,5,put͡s,put͡s,[],,[],,False,False,pˈuc,1
+kamv1242-1-6-1,,kamv1242-1,6,ʂu,ʂu,[],,[],,False,False,ṣ̌ˈu,1
+kamv1242-1-7-1,,kamv1242-1,7,sut,sut,[],,[],,False,False,sˈut,1
+kamv1242-1-8-1,,kamv1242-1,8,uʂʈ,uʂʈ,[],,[],,False,False,ˈuṣṭ,1
+kamv1242-1-9-1,,kamv1242-1,9,nu,nu,[],,[],,False,False,nˈu,1
+kamv1242-1-10-1,,kamv1242-1,10,dut͡s,dut͡s,[],,[],,False,False,dˈuc,1
+kamv1242-1-11-1,,kamv1242-1,11,jənit͡s,jənit͡s,[],,[],,False,False,iânˈic,1
+kamv1242-1-12-1,,kamv1242-1,12,dit͡s,dit͡s,[],,[],,False,False,dˈic,1
+kamv1242-1-13-1,,kamv1242-1,13,trit͡s,trit͡s,[],,[],,False,False,trˈic,1
+kamv1242-1-14-1,,kamv1242-1,14,ʃtredit͡s,ʃtredit͡s,[],,[],,False,False,štrˈec,1
+kamv1242-1-15-1,,kamv1242-1,15,pət͡sit͡s,pət͡sit͡s,[],,[],,False,False,pâcˈic,1
+kamv1242-1-16-1,,kamv1242-1,16,ʂet͡s,ʂet͡s,[],,[],,False,False,ṣ̌ˈec,1
+kamv1242-1-17-1,,kamv1242-1,17,sətit͡s,sətit͡s,[],,[],,False,False,sâtˈic,1
+kamv1242-1-18-1,,kamv1242-1,18,əʂʈit͡s,əʂʈit͡s,[],,[],,False,False,âṣ̌tˈ̣is,1
+kamv1242-1-19-1,,kamv1242-1,19,net͡s,net͡s,[],,[],,False,False,nˈec,1
+kamv1242-1-20-1,,kamv1242-1,20,viˈt͡si,viˈt͡si,[],,[],,False,False,vicˈi,1
+kamv1242-1-21-1,,kamv1242-1,21,vicˈâ ev,vicˈâ ev,[],,[],,False,False,,1
+kamv1242-1-22-1,,kamv1242-1,22,vicˈâ dü,vicˈâ dü,[],,[],,False,False,,1
+kamv1242-1-23-1,,kamv1242-1,23,vicˈâ tre,vicˈâ tre,[],,[],,False,False,,1
+kamv1242-1-24-1,,kamv1242-1,24,vicˈâ što,vicˈâ što,[],,[],,False,False,,1
+kamv1242-1-25-1,,kamv1242-1,25,vicˈâ puc,vicˈâ puc,[],,[],,False,False,,1
+kamv1242-1-26-1,,kamv1242-1,26,vicˈâ ṣ̌u,vicˈâ ṣ̌u,[],,[],,False,False,,1
+kamv1242-1-27-1,,kamv1242-1,27,vicˈâ sut,vicˈâ sut,[],,[],,False,False,,1
+kamv1242-1-28-1,,kamv1242-1,28,vicˈâ uṣṭ,vicˈâ uṣṭ,[],,[],,False,False,,1
+kamv1242-1-29-1,,kamv1242-1,29,vicˈâ nu,vicˈâ nu,[],,[],,False,False,,1
+kamv1242-1-30-1,,kamv1242-1,30,vicˈâ duc,vicˈâ duc,[],(20 + 10),[],,False,False,,1
+kamv1242-1-40-1,,kamv1242-1,40,dˈü vici,dˈü vici,[],( 2 x 20),[],,False,False,,1
+kamv1242-1-50-1,,kamv1242-1,50,dˈü vicˈâ duc,dˈü vicˈâ duc,[],,[],,False,False,,1
+kamv1242-1-60-1,,kamv1242-1,60,trˈe vici,trˈe vici,[],( 3 x 20),[],,False,False,,1
+kamv1242-1-80-1,,kamv1242-1,80,štˈo vici,štˈo vici,[],( 4 x 20),[],,False,False,,1
+kamv1242-1-100-1,,kamv1242-1,100,put͡sːi,put͡sːi,[],( 5 x 20),[],,False,False,pˈucci,1
+kamv1242-1-200-1,,kamv1242-1,200,ducci,ducci,[],( 10 x 20),[],,False,False,,1
+kamv1242-1-400-1,,kamv1242-1,400,əzor,əzor,[],,[],,False,False,âzˈor,1

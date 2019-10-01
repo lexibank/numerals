@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+atay1247-1-1-1,,atay1247-1,1,qutux,qutux,[],,[],,False,False,,1
+atay1247-1-2-1,,atay1247-1,2,saziŋ,saziŋ,[],,[],,False,False,,1
+atay1247-1-3-1,,atay1247-1,3,t͡sjuɣal,t͡sjuɣal,[],,[],,False,False,,1
+atay1247-1-4-1,,atay1247-1,4,pajat,pajat,[],,[],,False,False,,1
+atay1247-1-5-1,,atay1247-1,5,zəmaɣal,zəmaɣal,[],,[],,False,False,,1
+atay1247-1-6-1,,atay1247-1,6,mətəzjuʔ,mətəzjuʔ,[],,[],,False,False,,1
+atay1247-1-7-1,,atay1247-1,7,məpituʔ,məpituʔ,[],,[],,False,False,,1
+atay1247-1-8-1,,atay1247-1,8,masəpat,masəpat,[],,[],,False,False,,1
+atay1247-1-9-1,,atay1247-1,9,məqeruʔ,məqeruʔ,[],,[],,False,False,,1
+atay1247-1-10-1,,atay1247-1,10,məpuw,məpuw,[],,[],,False,False,,1
+atay1247-1-11-1,,atay1247-1,11,məpuw qutux,məpuw qutux,[],,[],,False,False,,1
+atay1247-1-12-1,,atay1247-1,12,məpuw saziŋ,məpuw saziŋ,[],,[],,False,False,,1
+atay1247-1-13-1,,atay1247-1,13,məpuw t͡sjuɣal,məpuw t͡sjuɣal,[],,[],,False,False,,1
+atay1247-1-14-1,,atay1247-1,14,məpuw pajat,məpuw pajat,[],,[],,False,False,,1
+atay1247-1-15-1,,atay1247-1,15,məpuw maɣal,məpuw maɣal,[],,[],,False,False,,1
+atay1247-1-16-1,,atay1247-1,16,məpuw təzjuʔ,məpuw təzjuʔ,[],,[],,False,False,,1
+atay1247-1-17-1,,atay1247-1,17,məpuw pituʔ,məpuw pituʔ,[],,[],,False,False,,1
+atay1247-1-18-1,,atay1247-1,18,məpuw səpat,məpuw səpat,[],,[],,False,False,,1
+atay1247-1-19-1,,atay1247-1,19,məpuw qeruʔ,məpuw qeruʔ,[],,[],,False,False,,1
+atay1247-1-20-1,,atay1247-1,20,məpusal,məpusal,[],,[],,False,False,,1
+atay1247-1-21-1,,atay1247-1,21,məpusal qutux,məpusal qutux,[],,[],,False,False,,1
+atay1247-1-22-1,,atay1247-1,22,məpusal saziŋ,məpusal saziŋ,[],,[],,False,False,,1
+atay1247-1-23-1,,atay1247-1,23,məpusal t͡sjuɣal,məpusal t͡sjuɣal,[],,[],,False,False,,1
+atay1247-1-24-1,,atay1247-1,24,məpusal pajat,məpusal pajat,[],,[],,False,False,,1
+atay1247-1-25-1,,atay1247-1,25,məpusal maɣal,məpusal maɣal,[],,[],,False,False,,1
+atay1247-1-26-1,,atay1247-1,26,məpusal təzjuʔ,məpusal təzjuʔ,[],,[],,False,False,,1
+atay1247-1-27-1,,atay1247-1,27,məpusal pituʔ,məpusal pituʔ,[],,[],,False,False,,1
+atay1247-1-28-1,,atay1247-1,28,məpusal səpat,məpusal səpat,[],,[],,False,False,,1
+atay1247-1-29-1,,atay1247-1,29,məpusal qeruʔ,məpusal qeruʔ,[],,[],,False,False,,1
+atay1247-1-30-1,,atay1247-1,30,mətəzjul,mətəzjul,[],,[],,False,False,,1
+atay1247-1-40-1,,atay1247-1,40,məpatul,məpatul,[],,[],,False,False,,1
+atay1247-1-50-1,,atay1247-1,50,məzimal,məzimal,[],,[],,False,False,,1
+atay1247-1-60-1,,atay1247-1,60,təzjuʔ pəɣan,təzjuʔ pəɣan,[],,[],,False,False,,1
+atay1247-1-70-1,,atay1247-1,70,pituʔ pəɣan,pituʔ pəɣan,[],,[],,False,False,,1
+atay1247-1-80-1,,atay1247-1,80,səpat pəɣan,səpat pəɣan,[],,[],,False,False,,1
+atay1247-1-90-1,,atay1247-1,90,qeruʔ pəɣan,qeruʔ pəɣan,[],,[],,False,False,,1
+atay1247-1-100-1,,atay1247-1,100,qutux kβhul,qutux kβhul,[],,[],,False,False,,1
+atay1247-1-200-1,,atay1247-1,200,sɑziŋ kβhul,sɑziŋ kβhul,[],,[],,False,False,,1
+atay1247-1-1000-1,,atay1247-1,1000,qutux seŋ,qutux seŋ,[],(seŋ < Japanese /Chinese ),[],,True,False,,1
+atay1247-1-2000-1,,atay1247-1,2000,saziŋ seŋ,saziŋ seŋ,[],,[],,False,False,,1

@@ -1,0 +1,9 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+fayu1238-2-1-1,,fayu1238-2,1,'baha,'baha,[],,[],,False,False,,1
+fayu1238-2-2-1,,fayu1238-2,2,'buɾe,'buɾe,[],,[],,False,False,,1
+fayu1238-2-3-1,,fayu1238-2,3,'uɾu,'uɾu,[],,[],,False,False,,1
+fayu1238-2-4-1,,fayu1238-2,4,'uɾu 'baha,'uɾu 'baha,[],( 3 + 1 ),[],,False,False,,1
+fayu1238-2-4-2,,fayu1238-2,4,'buɾe 'buɾe,'buɾe 'buɾe,[],( 2 + 2 ),[],,False,False,,1
+fayu1238-2-5-1,,fayu1238-2,5,ada 'haɾa,ada 'haɾa,[],,[],,False,False,,1
+fayu1238-2-5-2,,fayu1238-2,5,atahaɾa,atahaɾa,[],( ada = hand ? ),[],,False,False,,1
+fayu1238-2-6-1,,fayu1238-2,6,ada 'haɾa 'baha . ɡuti,ada 'haɾa 'baha . ɡuti,[],(litː many ),[],,False,True,,1

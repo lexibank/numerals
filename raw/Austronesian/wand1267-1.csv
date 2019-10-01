@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+wand1267-1-1-1,,wand1267-1,1,siri,siri,[],,[],,False,False,,1
+wand1267-1-2-1,,wand1267-1,2,muandu,muandu,[],,[],,False,False,,1
+wand1267-1-3-1,,wand1267-1,3,toru,toru,[],,[],,False,False,,1
+wand1267-1-4-1,,wand1267-1,4,at,at,[],,[],,False,False,,1
+wand1267-1-5-1,,wand1267-1,5,rim,rim,[],,[],,False,False,,1
+wand1267-1-6-1,,wand1267-1,6,rim e siri,rim e siri,[],( 5 + 1 ),[],,False,False,,1
+wand1267-1-7-1,,wand1267-1,7,rim e muandu,rim e muandu,[],( 5 + 2 ),[],,False,False,,1
+wand1267-1-8-1,,wand1267-1,8,rim e toru,rim e toru,[],( 5 + 3 ),[],,False,False,,1
+wand1267-1-9-1,,wand1267-1,9,rim e at,rim e at,[],( 5 + 4 ),[],,False,False,,1
+wand1267-1-10-1,,wand1267-1,10,sura,sura,[],,[],,False,False,,1
+wand1267-1-11-1,,wand1267-1,11,sura e siri,sura e siri,[],,[],,False,False,,1
+wand1267-1-12-1,,wand1267-1,12,sura e muandu,sura e muandu,[],,[],,False,False,,1
+wand1267-1-13-1,,wand1267-1,13,sura e toru,sura e toru,[],,[],,False,False,,1
+wand1267-1-14-1,,wand1267-1,14,sura e at,sura e at,[],,[],,False,False,,1
+wand1267-1-15-1,,wand1267-1,15,sura e rim,sura e rim,[],,[],,False,False,,1
+wand1267-1-16-1,,wand1267-1,16,sura e rim e siri,sura e rim e siri,[],,[],,False,False,,1
+wand1267-1-17-1,,wand1267-1,17,sura e rim e muandu,sura e rim e muandu,[],,[],,False,False,,1
+wand1267-1-18-1,,wand1267-1,18,sura e rim e toru,sura e rim e toru,[],,[],,False,False,,1
+wand1267-1-19-1,,wand1267-1,19,sura e rim e at,sura e rim e at,[],,[],,False,False,,1
+wand1267-1-20-1,,wand1267-1,20,siniotu siri,siniotu siri,[],(lit: ''one person''),[],,False,False,,1
+wand1267-1-21-1,,wand1267-1,21,siniotu siri e siri,siniotu siri e siri,[],,[],,False,False,,1
+wand1267-1-22-1,,wand1267-1,22,siniotu siri e muandu,siniotu siri e muandu,[],,[],,False,False,,1
+wand1267-1-23-1,,wand1267-1,23,siniotu siri e toru,siniotu siri e toru,[],,[],,False,False,,1
+wand1267-1-24-1,,wand1267-1,24,siniotu siri e at,siniotu siri e at,[],,[],,False,False,,1
+wand1267-1-25-1,,wand1267-1,25,siniotu siri e rim,siniotu siri e rim,[],,[],,False,False,,1
+wand1267-1-26-1,,wand1267-1,26,siniotu siri e rim e siri,siniotu siri e rim e siri,[],,[],,False,False,,1
+wand1267-1-27-1,,wand1267-1,27,siniotu siri e rim e muandu,siniotu siri e rim e muandu,[],,[],,False,False,,1
+wand1267-1-28-1,,wand1267-1,28,siniotu siri e rim e toru,siniotu siri e rim e toru,[],,[],,False,False,,1
+wand1267-1-29-1,,wand1267-1,29,siniotu siri e rim e at,siniotu siri e rim e at,[],,[],,False,False,,1
+wand1267-1-30-1,,wand1267-1,30,siniotu siri e rim e sura,siniotu siri e rim e sura,[],,[],,False,False,,1
+wand1267-1-40-1,,wand1267-1,40,siniotu muandu,siniotu muandu,[],(lit: ''two persons''),[],,False,False,,1
+wand1267-1-50-1,,wand1267-1,50,siniotu muandu e sura,siniotu muandu e sura,[],,[],,False,False,,1
+wand1267-1-60-1,,wand1267-1,60,siniotu toru,siniotu toru,[],(lit: ''three persons''),[],,False,False,,1
+wand1267-1-70-1,,wand1267-1,70,siniotu toru e sura,siniotu toru e sura,[],,[],,False,False,,1
+wand1267-1-80-1,,wand1267-1,80,siniotu at,siniotu at,[],(lit: ''four persons''),[],,False,False,,1
+wand1267-1-90-1,,wand1267-1,90,siniotu at e sura,siniotu at e sura,[],,[],,False,False,,1
+wand1267-1-100-1,,wand1267-1,100,utin siri,utin siri,[],,[],,False,False,,1

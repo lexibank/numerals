@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kiss1246-1-1-1,,kiss1246-1,1,aɡeib,aɡeib,[],,[],,False,False,,1
+kiss1246-1-2-1,,kiss1246-1,2,ulani,ulani,[],,[],,False,False,,1
+kiss1246-1-3-1,,kiss1246-1,3,tolni,tolni,[],,[],,False,False,,1
+kiss1246-1-4-1,,kiss1246-1,4,owani,owani,[],,[],,False,False,,1
+kiss1246-1-5-1,,kiss1246-1,5,lima,lima,[],(litː 'hand'̠),[],,False,False,,1
+kiss1246-1-6-1,,kiss1246-1,6,lima aɡeib,lima aɡeib,[],( 5 + 1 ),[],,False,False,,1
+kiss1246-1-7-1,,kiss1246-1,7,lima ulani,lima ulani,[],( 5 + 2 ),[],,False,False,,1
+kiss1246-1-8-1,,kiss1246-1,8,lima tolni,lima tolni,[],( 5 + 3 ),[],,False,False,,1
+kiss1246-1-9-1,,kiss1246-1,9,lima owani,lima owani,[],( 5 + 4 ),[],,False,False,,1
+kiss1246-1-10-1,,kiss1246-1,10,kulemua,kulemua,[],(litː 'two hands'),[],,False,False,,1
+kiss1246-1-11-1,,kiss1246-1,11,kulemua bala aɡeib,kulemua bala aɡeib,[],,[],,False,False,,1
+kiss1246-1-12-1,,kiss1246-1,12,kulemua bala ulani,kulemua bala ulani,[],,[],,False,False,,1
+kiss1246-1-13-1,,kiss1246-1,13,kulemua bala tolni,kulemua bala tolni,[],,[],,False,False,,1
+kiss1246-1-14-1,,kiss1246-1,14,kulemua bala owani,kulemua bala owani,[],,[],,False,False,,1
+kiss1246-1-15-1,,kiss1246-1,15,kulemua bala lima,kulemua bala lima,[],,[],,False,False,,1
+kiss1246-1-16-1,,kiss1246-1,16,kulemua bala lima aɡeib,kulemua bala lima aɡeib,[],,[],,False,False,,1
+kiss1246-1-17-1,,kiss1246-1,17,kulemua bala lima ulani,kulemua bala lima ulani,[],,[],,False,False,,1
+kiss1246-1-18-1,,kiss1246-1,18,kulemua bala lima tolni,kulemua bala lima tolni,[],,[],,False,False,,1
+kiss1246-1-19-1,,kiss1246-1,19,kulemua bala lima owani,kulemua bala lima owani,[],,[],,False,False,,1
+kiss1246-1-20-1,,kiss1246-1,20,kulemua ulani,kulemua ulani,[],,[],,False,False,,1
+kiss1246-1-21-1,,kiss1246-1,21,kulemua ulani bala aɡeib,kulemua ulani bala aɡeib,[],,[],,False,False,,1
+kiss1246-1-22-1,,kiss1246-1,22,kulemua ulani bala ulani,kulemua ulani bala ulani,[],,[],,False,False,,1
+kiss1246-1-23-1,,kiss1246-1,23,kulemua ulani bala tolni,kulemua ulani bala tolni,[],,[],,False,False,,1
+kiss1246-1-24-1,,kiss1246-1,24,kulemua ulani bala owani,kulemua ulani bala owani,[],,[],,False,False,,1
+kiss1246-1-25-1,,kiss1246-1,25,kulemua ulani bala lima,kulemua ulani bala lima,[],,[],,False,False,,1
+kiss1246-1-26-1,,kiss1246-1,26,kulemua ulani bala lima aɡeib,kulemua ulani bala lima aɡeib,[],,[],,False,False,,1
+kiss1246-1-27-1,,kiss1246-1,27,kulemua ulani bala lima ulani,kulemua ulani bala lima ulani,[],,[],,False,False,,1
+kiss1246-1-28-1,,kiss1246-1,28,kulemua ulani bala lima tolni,kulemua ulani bala lima tolni,[],,[],,False,False,,1
+kiss1246-1-29-1,,kiss1246-1,29,kulemua ulani bala lima owani,kulemua ulani bala lima owani,[],,[],,False,False,,1
+kiss1246-1-30-1,,kiss1246-1,30,kulemua tolni,kulemua tolni,[],,[],,False,False,,1
+kiss1246-1-40-1,,kiss1246-1,40,kulemua owani,kulemua owani,[],,[],,False,False,,1
+kiss1246-1-50-1,,kiss1246-1,50,kulemua lima,kulemua lima,[],,[],,False,False,,1
+kiss1246-1-60-1,,kiss1246-1,60,kulemua lima aɡeib,kulemua lima aɡeib,[],,[],,False,False,,1
+kiss1246-1-70-1,,kiss1246-1,70,kulemua lima ulani,kulemua lima ulani,[],,[],,False,False,,1
+kiss1246-1-80-1,,kiss1246-1,80,kulemua lima tolni,kulemua lima tolni,[],,[],,False,False,,1
+kiss1246-1-90-1,,kiss1246-1,90,kulemua lima owani,kulemua lima owani,[],,[],,False,False,,1
+kiss1246-1-100-1,,kiss1246-1,100,kulemua bala kulemua,kulemua bala kulemua,[],,[],,False,False,,1
+kiss1246-1-200-1,,kiss1246-1,200,kulemua bala kulemua ulani,kulemua bala kulemua ulani,[],,[],,False,False,,1
+kiss1246-1-1000-1,,kiss1246-1,1000,kulemua bala kulemua bala,kulemua bala kulemua bala,[],,[],,False,False,,1
+kiss1246-1-2000-1,,kiss1246-1,2000,kulemua bala kulemua ulani,kulemua bala kulemua ulani,[],,[],,False,False,,1

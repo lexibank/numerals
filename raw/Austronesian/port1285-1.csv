@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+port1285-1-1-1,,port1285-1,1,t͡ʃikai,t͡ʃikai,[],,[],,False,False,,1
+port1285-1-2-1,,port1285-1,2,e-y,e-y,[],,[],,False,False,,1
+port1285-1-3-1,,port1285-1,3,e-røi,e-røi,[],,[],,False,False,,1
+port1285-1-4-1,,port1285-1,4,e-pat͡ʃ,e-pat͡ʃ,[],,[],,False,False,,1
+port1285-1-5-1,,port1285-1,5,e-rim,e-rim,[],,[],,False,False,,1
+port1285-1-6-1,,port1285-1,6,e-mot͡ʃikai,e-mot͡ʃikai,[],( 5 + 1 ),[],,False,False,,1
+port1285-1-7-1,,port1285-1,7,e-moxy,e-moxy,[],( 5 + 2 ),[],,False,False,,1
+port1285-1-8-1,,port1285-1,8,e-moxurøi,e-moxurøi,[],( 5 + 3 ),[],,False,False,,1
+port1285-1-9-1,,port1285-1,9,e-moxupat͡ʃ,e-moxupat͡ʃ,[],( 5 + 4 ),[],,False,False,,1
+port1285-1-10-1,,port1285-1,10,saᵑɡeav,saᵑɡeav,[],,[],,False,False,,1
+port1285-1-11-1,,port1285-1,11,esa saᵑɡeav ⁿdʳumu-xer t͡ʃikai,esa saᵑɡeav ⁿdʳumu-xer t͡ʃikai,[],,[],,False,False,,1
+port1285-1-12-1,,port1285-1,12,esa saᵑɡeav ⁿdʳumu-xer e-y,esa saᵑɡeav ⁿdʳumu-xer e-y,[],,[],,False,False,,1
+port1285-1-13-1,,port1285-1,13,esa saᵑɡeav ⁿdʳumu-xer e-røi,esa saᵑɡeav ⁿdʳumu-xer e-røi,[],,[],,False,False,,1
+port1285-1-14-1,,port1285-1,14,esa saᵑɡeav ⁿdʳumu-xer e-pat͡ʃ,esa saᵑɡeav ⁿdʳumu-xer e-pat͡ʃ,[],,[],,False,False,,1
+port1285-1-15-1,,port1285-1,15,esa saᵑɡeav ⁿdʳumu-xer e-rim,esa saᵑɡeav ⁿdʳumu-xer e-rim,[],,[],,False,False,,1
+port1285-1-16-1,,port1285-1,16,esa saᵑɡeav ⁿdʳumu-xer e-mot͡ʃikai,esa saᵑɡeav ⁿdʳumu-xer e-mot͡ʃikai,[],,[],,False,False,,1
+port1285-1-17-1,,port1285-1,17,esa saᵑɡeav ⁿdʳumu-xer e-moxy,esa saᵑɡeav ⁿdʳumu-xer e-moxy,[],,[],,False,False,,1
+port1285-1-18-1,,port1285-1,18,esa saᵑɡeav ⁿdʳumu-xer e-moxurøi,esa saᵑɡeav ⁿdʳumu-xer e-moxurøi,[],,[],,False,False,,1
+port1285-1-19-1,,port1285-1,19,esa saᵑɡeav ⁿdʳumu-xer e-moxupat͡ʃ,esa saᵑɡeav ⁿdʳumu-xer e-moxupat͡ʃ,[],,[],,False,False,,1
+port1285-1-20-1,,port1285-1,20,ᵐbal e-y,ᵐbal e-y,[],,[],,False,False,,1
+port1285-1-21-1,,port1285-1,21,ᵐbal e-y ⁿdʳumu-xer t͡ʃikai,ᵐbal e-y ⁿdʳumu-xer t͡ʃikai,[],,[],,False,False,,1
+port1285-1-22-1,,port1285-1,22,ᵐbal e-y ⁿdʳumu-xer e-y,ᵐbal e-y ⁿdʳumu-xer e-y,[],,[],,False,False,,1
+port1285-1-23-1,,port1285-1,23,ᵐbal e-y ⁿdʳumu-xer e-røi,ᵐbal e-y ⁿdʳumu-xer e-røi,[],,[],,False,False,,1
+port1285-1-24-1,,port1285-1,24,ᵐbal e-y ⁿdʳumu-xer e-pat͡ʃ,ᵐbal e-y ⁿdʳumu-xer e-pat͡ʃ,[],,[],,False,False,,1
+port1285-1-25-1,,port1285-1,25,ᵐbal e-y ⁿdʳumu-xer e-rim,ᵐbal e-y ⁿdʳumu-xer e-rim,[],,[],,False,False,,1
+port1285-1-26-1,,port1285-1,26,ᵐbal e-y ⁿdʳumu-xer e-mot͡ʃikai,ᵐbal e-y ⁿdʳumu-xer e-mot͡ʃikai,[],,[],,False,False,,1
+port1285-1-27-1,,port1285-1,27,ᵐbal e-y ⁿdʳumu-xer e-moxy,ᵐbal e-y ⁿdʳumu-xer e-moxy,[],,[],,False,False,,1
+port1285-1-28-1,,port1285-1,28,ᵐbal e-y ⁿdʳumu-xer e-moxurøi,ᵐbal e-y ⁿdʳumu-xer e-moxurøi,[],,[],,False,False,,1
+port1285-1-29-1,,port1285-1,29,ᵐbal e-y ⁿdʳumu-xer e-moxupat͡ʃ,ᵐbal e-y ⁿdʳumu-xer e-moxupat͡ʃ,[],,[],,False,False,,1
+port1285-1-30-1,,port1285-1,30,ᵐbal e-røi,ᵐbal e-røi,[],,[],,False,False,,1
+port1285-1-40-1,,port1285-1,40,ᵐbal e-pat͡ʃ,ᵐbal e-pat͡ʃ,[],,[],,False,False,,1
+port1285-1-50-1,,port1285-1,50,ᵐbal e-rim,ᵐbal e-rim,[],,[],,False,False,,1
+port1285-1-60-1,,port1285-1,60,ᵐbal e-mot͡ʃikai,ᵐbal e-mot͡ʃikai,[],,[],,False,False,,1
+port1285-1-70-1,,port1285-1,70,ᵐbal e-moxy,ᵐbal e-moxy,[],,[],,False,False,,1
+port1285-1-80-1,,port1285-1,80,ᵐbal e-moxurøi,ᵐbal e-moxurøi,[],,[],,False,False,,1
+port1285-1-90-1,,port1285-1,90,ᵐbal e-moxupat͡ʃ,ᵐbal e-moxupat͡ʃ,[],,[],,False,False,,1
+port1285-1-100-1,,port1285-1,100,ᵐbal saᵑɡeav,ᵐbal saᵑɡeav,[],,[],,False,False,,1
+port1285-1-200-1,,port1285-1,200,ᵐbal saᵑɡeav vaxa-y,ᵐbal saᵑɡeav vaxa-y,[],,[],,False,False,,1
+port1285-1-1000-1,,port1285-1,1000,ᵐbal saᵑɡeav vaxa-saᵑɡeav,ᵐbal saᵑɡeav vaxa-saᵑɡeav,[],,[],,False,False,,1

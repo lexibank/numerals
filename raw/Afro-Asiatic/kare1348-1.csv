@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kare1348-1-1-1,,kare1348-1,1,wáɗí,wáɗí,[],,[],,False,False,,1
+kare1348-1-2-1,,kare1348-1,2,bèːlú,bèːlú,[],,[],,False,False,,1
+kare1348-1-3-1,,kare1348-1,3,kúːnùː,kúːnùː,[],,[],,False,False,,1
+kare1348-1-4-1,,kare1348-1,4,fèːɗú,fèːɗú,[],,[],,False,False,,1
+kare1348-1-5-1,,kare1348-1,5,bàːɗú,bàːɗú,[],,[],,False,False,,1
+kare1348-1-6-1,,kare1348-1,6,bàcóːɗì,bàcóːɗì,[],( 5 + 1 ),[],,False,False,,1
+kare1348-1-7-1,,kare1348-1,7,bàcíbèːlú,bàcíbèːlú,[],( 5 + 2 ),[],,False,False,,1
+kare1348-1-8-1,,kare1348-1,8,fífèːɗú,fífèːɗú,[],( 2 x 4 ),[],,False,False,,1
+kare1348-1-9-1,,kare1348-1,9,ɓànnù,ɓànnù,[],,[],,False,False,,1
+kare1348-1-10-1,,kare1348-1,10,mbáɗ,mbáɗ,[],,[],,False,False,,1
+kare1348-1-11-1,,kare1348-1,11,mbáɗ kà wáɗí,mbáɗ kà wáɗí,[],,[],,False,False,,1
+kare1348-1-12-1,,kare1348-1,12,mbáɗ kà bèːlú,mbáɗ kà bèːlú,[],,[],,False,False,,1
+kare1348-1-13-1,,kare1348-1,13,mbáɗ kà kúːnùː,mbáɗ kà kúːnùː,[],,[],,False,False,,1
+kare1348-1-14-1,,kare1348-1,14,mbáɗ kà fèːɗú,mbáɗ kà fèːɗú,[],,[],,False,False,,1
+kare1348-1-15-1,,kare1348-1,15,mbáɗ kà bàːɗú,mbáɗ kà bàːɗú,[],,[],,False,False,,1
+kare1348-1-16-1,,kare1348-1,16,mbáɗ kà bàcóːɗì,mbáɗ kà bàcóːɗì,[],,[],,False,False,,1
+kare1348-1-17-1,,kare1348-1,17,mbáɗ kà bàcíbèːlu,mbáɗ kà bàcíbèːlu,[],,[],,False,False,,1
+kare1348-1-18-1,,kare1348-1,18,mbáɗ kà fífèːɗu,mbáɗ kà fífèːɗu,[],,[],,False,False,,1
+kare1348-1-19-1,,kare1348-1,19,mbáɗ kà ɓànnù,mbáɗ kà ɓànnù,[],,[],,False,False,,1
+kare1348-1-20-1,,kare1348-1,20,hâujá,hâujá,[],,[],,False,False,,1
+kare1348-1-20-2,,kare1348-1,20,díccà bèːlú,díccà bèːlú,[],,[],,False,False,,1
+kare1348-1-21-1,,kare1348-1,21,hâujá kà wáɗí,hâujá kà wáɗí,[],,[],,False,False,,1
+kare1348-1-22-1,,kare1348-1,22,hâujá kà bèːlú,hâujá kà bèːlú,[],,[],,False,False,,1
+kare1348-1-23-1,,kare1348-1,23,hâujá kà kúːnùː,hâujá kà kúːnùː,[],,[],,False,False,,1
+kare1348-1-24-1,,kare1348-1,24,hâujá kà fèːɗú,hâujá kà fèːɗú,[],,[],,False,False,,1
+kare1348-1-25-1,,kare1348-1,25,hâujá kà bàːɗú,hâujá kà bàːɗú,[],,[],,False,False,,1
+kare1348-1-26-1,,kare1348-1,26,hâujá kà bàcóːɗì,hâujá kà bàcóːɗì,[],,[],,False,False,,1
+kare1348-1-27-1,,kare1348-1,27,hâujá kà bàcíbèːlu,hâujá kà bàcíbèːlu,[],,[],,False,False,,1
+kare1348-1-28-1,,kare1348-1,28,hâujá kà fífèːɗu,hâujá kà fífèːɗu,[],,[],,False,False,,1
+kare1348-1-29-1,,kare1348-1,29,hâujá kà ɓànnù,hâujá kà ɓànnù,[],,[],,False,False,,1
+kare1348-1-30-1,,kare1348-1,30,díccà kúːnùː,díccà kúːnùː,[],,[],,False,False,,1
+kare1348-1-40-1,,kare1348-1,40,díccà fèːɗú,díccà fèːɗú,[],,[],,False,False,,1
+kare1348-1-50-1,,kare1348-1,50,díccà bàːɗú,díccà bàːɗú,[],,[],,False,False,,1
+kare1348-1-60-1,,kare1348-1,60,díccà bàcóːɗì,díccà bàcóːɗì,[],,[],,False,False,,1
+kare1348-1-70-1,,kare1348-1,70,díccà bàcíbèːlu,díccà bàcíbèːlu,[],,[],,False,False,,1
+kare1348-1-80-1,,kare1348-1,80,díccà fífèːɗu,díccà fífèːɗu,[],,[],,False,False,,1
+kare1348-1-90-1,,kare1348-1,90,díccà ɓànnù,díccà ɓànnù,[],,[],,False,False,,1
+kare1348-1-100-1,,kare1348-1,100,díccà mbáɗ,díccà mbáɗ,[],( 10 x 10 ),[],,False,False,,1
+kare1348-1-200-1,,kare1348-1,200,díccà hâujá,díccà hâujá,[],( 10 x 20 ),[],,False,False,,1
+kare1348-1-1000-1,,kare1348-1,1000,dúbú wáɗí,dúbú wáɗí,[],< from Hausa 'dubu' ,[],,True,False,,1
+kare1348-1-2000-1,,kare1348-1,2000,dúbú bèːlú,dúbú bèːlú,[],,[],,False,False,,1

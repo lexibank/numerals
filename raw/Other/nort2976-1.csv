@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nort2976-1-1-1,,nort2976-1,1,ux,ux,[],,[],,False,False,,1
+nort2976-1-2-1,,nort2976-1,2,iskaj,iskaj,[],( y = IPA [ j ]),[],,False,False,,1
+nort2976-1-3-1,,nort2976-1,3,kinsa,kinsa,[],,[],,False,False,,1
+nort2976-1-4-1,,nort2976-1,4,tawa,tawa,[],,[],,False,False,,1
+nort2976-1-5-1,,nort2976-1,5,pʰiʃqa,pʰiʃqa,[],,[],,False,False,,1
+nort2976-1-6-1,,nort2976-1,6,sohta,sohta,[],( j = IPA [h ]),[],,False,False,,1
+nort2976-1-7-1,,nort2976-1,7,qantʃis,qantʃis,[],,[],,False,False,,1
+nort2976-1-8-1,,nort2976-1,8,pusah,pusah,[],(j = IPA [h ]),[],,False,False,,1
+nort2976-1-9-1,,nort2976-1,9,hisqʼon qʼ = ejective q ?,hisqʼon qʼ = ejective q ?,[],,[],,False,True,,1
+nort2976-1-10-1,,nort2976-1,10,tʃunka,tʃunka,[],,[],,False,False,,1
+nort2976-1-11-1,,nort2976-1,11,tʃunka uxnijoh,tʃunka uxnijoh,[],,[],,False,False,,1
+nort2976-1-12-1,,nort2976-1,12,tʃunka iskajnijoh,tʃunka iskajnijoh,[],,[],,False,False,,1
+nort2976-1-13-1,,nort2976-1,13,tʃunka kinsajoh,tʃunka kinsajoh,[],,[],,False,False,,1
+nort2976-1-14-1,,nort2976-1,14,tʃunka tawajoh,tʃunka tawajoh,[],,[],,False,False,,1
+nort2976-1-15-1,,nort2976-1,15,tʃunka pʰiʃqajoh,tʃunka pʰiʃqajoh,[],,[],,False,False,,1
+nort2976-1-16-1,,nort2976-1,16,tʃunka sohtajoh,tʃunka sohtajoh,[],,[],,False,False,,1
+nort2976-1-17-1,,nort2976-1,17,tʃunka qantʃisnjoh,tʃunka qantʃisnjoh,[],,[],,False,False,,1
+nort2976-1-18-1,,nort2976-1,18,tʃunka pusahnjoh,tʃunka pusahnjoh,[],,[],,False,False,,1
+nort2976-1-19-1,,nort2976-1,19,tʃunka hisqʼonnjoh,tʃunka hisqʼonnjoh,[],,[],,False,False,,1
+nort2976-1-20-1,,nort2976-1,20,iskaj tʃunka,iskaj tʃunka,[],,[],,False,False,,1
+nort2976-1-21-1,,nort2976-1,21,iskaj tʃunka uxnijoh,iskaj tʃunka uxnijoh,[],,[],,False,False,,1
+nort2976-1-22-1,,nort2976-1,22,iskaj tʃunka iskajnijoh,iskaj tʃunka iskajnijoh,[],,[],,False,False,,1
+nort2976-1-23-1,,nort2976-1,23,iskaj tʃunka kinsajoh,iskaj tʃunka kinsajoh,[],,[],,False,False,,1
+nort2976-1-24-1,,nort2976-1,24,iskaj tʃunka tawajoh,iskaj tʃunka tawajoh,[],,[],,False,False,,1
+nort2976-1-25-1,,nort2976-1,25,iskaj tʃunka pʰiʃqajoh,iskaj tʃunka pʰiʃqajoh,[],,[],,False,False,,1
+nort2976-1-26-1,,nort2976-1,26,iskaj tʃunka sohtajoh,iskaj tʃunka sohtajoh,[],,[],,False,False,,1
+nort2976-1-27-1,,nort2976-1,27,iskaj tʃunka qantʃisnjoh,iskaj tʃunka qantʃisnjoh,[],,[],,False,False,,1
+nort2976-1-28-1,,nort2976-1,28,iskaj tʃunka pusahnjoh,iskaj tʃunka pusahnjoh,[],,[],,False,False,,1
+nort2976-1-29-1,,nort2976-1,29,iskaj tʃunka hisqʼonnjoh,iskaj tʃunka hisqʼonnjoh,[],,[],,False,False,,1
+nort2976-1-30-1,,nort2976-1,30,kinsa tʃunka,kinsa tʃunka,[],,[],,False,False,,1
+nort2976-1-40-1,,nort2976-1,40,tawa tʃunka,tawa tʃunka,[],,[],,False,False,,1
+nort2976-1-50-1,,nort2976-1,50,pisqa tʃunka,pisqa tʃunka,[],,[],,False,False,,1
+nort2976-1-60-1,,nort2976-1,60,sohta tʃunka,sohta tʃunka,[],,[],,False,False,,1
+nort2976-1-70-1,,nort2976-1,70,qantʃis tʃunka,qantʃis tʃunka,[],,[],,False,False,,1
+nort2976-1-80-1,,nort2976-1,80,pusah tʃunka,pusah tʃunka,[],,[],,False,False,,1
+nort2976-1-90-1,,nort2976-1,90,hisqʼon tʃunka,hisqʼon tʃunka,[],,[],,False,False,,1
+nort2976-1-100-1,,nort2976-1,100,patʃah,patʃah,[],,[],,False,False,,1
+nort2976-1-200-1,,nort2976-1,200,iskaj patʃah,iskaj patʃah,[],,[],,False,False,,1
+nort2976-1-1000-1,,nort2976-1,1000,waranqa,waranqa,[],,[],,False,False,,1
+nort2976-1-2000-1,,nort2976-1,2000,iskaj waranqa,iskaj waranqa,[],,[],,False,False,,1

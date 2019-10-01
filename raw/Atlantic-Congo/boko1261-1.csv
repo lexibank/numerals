@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+boko1261-1-1-1,,boko1261-1,1,n͡dáŋ,n͡dáŋ,[],,[],,False,False,,1
+boko1261-1-2-1,,boko1261-1,2,bùwá,bùwá,[],,[],,False,False,,1
+boko1261-1-3-1,,boko1261-1,3,tàɾ,tàɾ,[],,[],,False,False,,1
+boko1261-1-4-1,,boko1261-1,4,nã́ɾ,nã́ɾ,[],,[],,False,False,,1
+boko1261-1-5-1,,boko1261-1,5,mȭɾkȭ,mȭɾkȭ,[],,[],,False,False,,1
+boko1261-1-6-1,,boko1261-1,6,mȭɾkȭ zã́ŋã́ n͡dáŋ,mȭɾkȭ zã́ŋã́ n͡dáŋ,[],( 5 + 1 ),[],,False,False,,1
+boko1261-1-7-1,,boko1261-1,7,mȭɾkȭ zã́ŋã́ bùwá,mȭɾkȭ zã́ŋã́ bùwá,[],( 5 + 2 ),[],,False,False,,1
+boko1261-1-8-1,,boko1261-1,8,mȭɾkȭ zã́ŋã́ tàɾ,mȭɾkȭ zã́ŋã́ tàɾ,[],( 5 + 3 ),[],,False,False,,1
+boko1261-1-9-1,,boko1261-1,9,mȭɾkȭ zã́ŋã́ nã́ɾ,mȭɾkȭ zã́ŋã́ nã́ɾ,[],( 5 + 4 ),[],,False,False,,1
+boko1261-1-10-1,,boko1261-1,10,ɓùkɔ̀,ɓùkɔ̀,[],,[],,False,False,,1
+boko1261-1-11-1,,boko1261-1,11,ɓùkɔ̀ zã́ŋã́ n͡dáŋ,ɓùkɔ̀ zã́ŋã́ n͡dáŋ,[],,[],,False,False,,1
+boko1261-1-12-1,,boko1261-1,12,ɓùkɔ̀ zã́ŋã́ bùwá,ɓùkɔ̀ zã́ŋã́ bùwá,[],,[],,False,False,,1
+boko1261-1-13-1,,boko1261-1,13,ɓùkɔ̀ zã́ŋã́ tàɾ,ɓùkɔ̀ zã́ŋã́ tàɾ,[],,[],,False,False,,1
+boko1261-1-14-1,,boko1261-1,14,ɓùkɔ̀ zã́ŋã́ nã́ɾ,ɓùkɔ̀ zã́ŋã́ nã́ɾ,[],,[],,False,False,,1
+boko1261-1-15-1,,boko1261-1,15,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ,[],,[],,False,False,,1
+boko1261-1-16-1,,boko1261-1,16,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ n͡dáŋ,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ n͡dáŋ,[],,[],,False,False,,1
+boko1261-1-17-1,,boko1261-1,17,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ bùwá,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ bùwá,[],,[],,False,False,,1
+boko1261-1-18-1,,boko1261-1,18,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ tàɾ,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ tàɾ,[],,[],,False,False,,1
+boko1261-1-19-1,,boko1261-1,19,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ nã́ɾ,ɓùkɔ̀ zã́ŋã́ mȭɾkȭ zã́ŋã́ nã́ɾ,[],,[],,False,False,,1
+boko1261-1-20-1,,boko1261-1,20,ɓúzɛ̀ bùwá,ɓúzɛ̀ bùwá,[],,[],,False,False,,1
+boko1261-1-21-1,,boko1261-1,21,ɓúzɛ̀ bùwá zã́ŋã́ n͡dáŋ,ɓúzɛ̀ bùwá zã́ŋã́ n͡dáŋ,[],,[],,False,False,,1
+boko1261-1-22-1,,boko1261-1,22,ɓúzɛ̀ bùwá zã́ŋã́ bùwá,ɓúzɛ̀ bùwá zã́ŋã́ bùwá,[],,[],,False,False,,1
+boko1261-1-23-1,,boko1261-1,23,ɓúzɛ̀ bùwá zã́ŋã́ tàɾ,ɓúzɛ̀ bùwá zã́ŋã́ tàɾ,[],,[],,False,False,,1
+boko1261-1-24-1,,boko1261-1,24,ɓúzɛ̀ bùwá zã́ŋã́ nã́ɾ,ɓúzɛ̀ bùwá zã́ŋã́ nã́ɾ,[],,[],,False,False,,1
+boko1261-1-25-1,,boko1261-1,25,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ,[],,[],,False,False,,1
+boko1261-1-26-1,,boko1261-1,26,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ n͡dáŋ,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ n͡dáŋ,[],,[],,False,False,,1
+boko1261-1-27-1,,boko1261-1,27,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ bùwá,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ bùwá,[],,[],,False,False,,1
+boko1261-1-28-1,,boko1261-1,28,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ tàɾ,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ tàɾ,[],,[],,False,False,,1
+boko1261-1-29-1,,boko1261-1,29,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ nã́ɾ,ɓúzɛ̀ bùwá zã́ŋã́ mȭɾkȭ zã́ŋã́ nã́ɾ,[],,[],,False,False,,1
+boko1261-1-30-1,,boko1261-1,30,ɓùká tàɾ,ɓùká tàɾ,[],,[],,False,False,,1
+boko1261-1-40-1,,boko1261-1,40,ɓùká nã́ɾ,ɓùká nã́ɾ,[],,[],,False,False,,1
+boko1261-1-50-1,,boko1261-1,50,ɓùká mȭɾkȭ,ɓùká mȭɾkȭ,[],,[],,False,False,,1
+boko1261-1-60-1,,boko1261-1,60,ɓùká mȭɾkȭ zã́ŋã́ n͡dáŋ,ɓùká mȭɾkȭ zã́ŋã́ n͡dáŋ,[],,[],,False,False,,1
+boko1261-1-70-1,,boko1261-1,70,ɓùká mȭɾkȭ zã́ŋã́ bùwá,ɓùká mȭɾkȭ zã́ŋã́ bùwá,[],,[],,False,False,,1
+boko1261-1-80-1,,boko1261-1,80,ɓùká mȭɾkȭ zã́ŋã́ tàɾ,ɓùká mȭɾkȭ zã́ŋã́ tàɾ,[],,[],,False,False,,1
+boko1261-1-90-1,,boko1261-1,90,ɓùká mȭɾkȭ zã́ŋã́ nã́ɾ,ɓùká mȭɾkȭ zã́ŋã́ nã́ɾ,[],,[],,False,False,,1
+boko1261-1-100-1,,boko1261-1,100,ɡɔ̃̀ŋmã́,ɡɔ̃̀ŋmã́,[],,[],,False,False,,1
+boko1261-1-200-1,,boko1261-1,200,ɡɔ̃̀ŋmã́ bùwá,ɡɔ̃̀ŋmã́ bùwá,[],,[],,False,False,,1
+boko1261-1-1000-1,,boko1261-1,1000,sàkì k͡pém,sàkì k͡pém,[],,[],,False,False,,1
+boko1261-1-2000-1,,boko1261-1,2000,sákí bùwá,sákí bùwá,[],,[],,False,False,,1

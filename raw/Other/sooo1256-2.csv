@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sooo1256-2-1-1,,sooo1256-2,1,ɛdɛs,ɛdɛs,[],,[],,False,False,,2
+sooo1256-2-2-1,,sooo1256-2,2,nɛbɛc,nɛbɛc,[],,[],,False,False,,2
+sooo1256-2-3-1,,sooo1256-2,3,iyon,iyon,[],,[],,False,False,,2
+sooo1256-2-4-1,,sooo1256-2,4,nowa,nowa,[],,[],,False,False,,2
+sooo1256-2-5-1,,sooo1256-2,5,tuɗ,tuɗ,[],,[],,False,False,,2
+sooo1256-2-6-1,,sooo1256-2,6,tuɗ ka nɪ ɛdɛs,tuɗ ka nɪ ɛdɛs,[],( 5+ 1 ),[],,False,False,,2
+sooo1256-2-7-1,,sooo1256-2,7,tuɗ ka nɪ nɛbɛc,tuɗ ka nɪ nɛbɛc,[],( 5+ 2 ),[],,False,False,,2
+sooo1256-2-8-1,,sooo1256-2,8,tuɗ ka nɪ iyon,tuɗ ka nɪ iyon,[],( 5+ 3 ),[],,False,False,,2
+sooo1256-2-9-1,,sooo1256-2,9,tuɗ ka nɪ nowa,tuɗ ka nɪ nowa,[],( 5+ 4 ),[],,False,False,,2
+sooo1256-2-10-1,,sooo1256-2,10,tuɗ en-ek iɠe,tuɗ en-ek iɠe,[],( hand-PL all),[],,False,False,,2
+sooo1256-2-11-1,,sooo1256-2,11,tuɗ en-ek iɠe ka in ɛdɛs,tuɗ en-ek iɠe ka in ɛdɛs,[],,[],,False,False,,2
+sooo1256-2-12-1,,sooo1256-2,12,tuɗ en-ek iɠe ka in nɛbɛc,tuɗ en-ek iɠe ka in nɛbɛc,[],,[],,False,False,,2
+sooo1256-2-13-1,,sooo1256-2,13,tuɗ en-ek iɠe ka in iyon,tuɗ en-ek iɠe ka in iyon,[],,[],,False,False,,2
+sooo1256-2-14-1,,sooo1256-2,14,tuɗ en-ek iɠe ka in nowa,tuɗ en-ek iɠe ka in nowa,[],,[],,False,False,,2
+sooo1256-2-15-1,,sooo1256-2,15,tuɗ en-ek iɠe ka in + 6,tuɗ en-ek iɠe ka in + 6,[],,[],,False,True,,2
+sooo1256-2-16-1,,sooo1256-2,16,tuɗ en-ek iɠe ka in + 7,tuɗ en-ek iɠe ka in + 7,[],,[],,False,True,,2
+sooo1256-2-17-1,,sooo1256-2,17,tuɗ en-ek iɠe ka in + 8,tuɗ en-ek iɠe ka in + 8,[],,[],,False,True,,2
+sooo1256-2-18-1,,sooo1256-2,18,tuɗ en-ek iɠe ka in + 9,tuɗ en-ek iɠe ka in + 9,[],,[],,False,True,,2
+sooo1256-2-19-1,,sooo1256-2,19,tuɗ en-ek iɠe ka in,tuɗ en-ek iɠe ka in,[],,[],,False,False,,2
+sooo1256-2-20-1,,sooo1256-2,20,ir-kon in nɛbɛc,ir-kon in nɛbɛc,[],( house -PL ),[],,False,False,,2
+sooo1256-2-30-1,,sooo1256-2,30,ir-kon in iyon,ir-kon in iyon,[],,[],,False,False,,2
+sooo1256-2-40-1,,sooo1256-2,40,ir-kon in nowa,ir-kon in nowa,[],,[],,False,False,,2
+sooo1256-2-50-1,,sooo1256-2,50,mɪmɪr ka in tuɗ,mɪmɪr ka in tuɗ,[],,[],,False,False,,2
+sooo1256-2-60-1,,sooo1256-2,60,mɪmɪr ka in tuɗ ka nɪ ɛdɛs,mɪmɪr ka in tuɗ ka nɪ ɛdɛs,[],,[],,False,False,,2
+sooo1256-2-70-1,,sooo1256-2,70,mɪmɪr ka in tuɗ ka nɪ nɛbɛc,mɪmɪr ka in tuɗ ka nɪ nɛbɛc,[],,[],,False,False,,2
+sooo1256-2-80-1,,sooo1256-2,80,mɪmɪr ka in tuɗ ka nɪ iyon,mɪmɪr ka in tuɗ ka nɪ iyon,[],,[],,False,False,,2
+sooo1256-2-90-1,,sooo1256-2,90,mɪmɪr ka in tuɗ ka nɪ nowa,mɪmɪr ka in tuɗ ka nɪ nowa,[],,[],,False,False,,2
+sooo1256-2-100-1,,sooo1256-2,100,ir ɛdɛs,ir ɛdɛs,[],,[],,False,False,,2
+sooo1256-2-100-2,,sooo1256-2,100,ɪmia ka ni ɛdɛs,ɪmia ka ni ɛdɛs,[],,[],,False,False,,2
+sooo1256-2-200-1,,sooo1256-2,200,ɪmia ka ni nɛbɛc,ɪmia ka ni nɛbɛc,[],,[],,False,False,,2

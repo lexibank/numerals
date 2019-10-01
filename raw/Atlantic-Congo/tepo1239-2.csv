@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tepo1239-2-1-1,,tepo1239-2,1,dô,dô,[],,[],,False,False,,2
+tepo1239-2-2-1,,tepo1239-2,2,ɔ̄ɛ́n,ɔ̄ɛ́n,[],,[],,False,False,,2
+tepo1239-2-3-1,,tepo1239-2,3,tā,tā,[],,[],,False,False,,2
+tepo1239-2-4-1,,tepo1239-2,4,hɛ̀n,hɛ̀n,[],,[],,False,False,,2
+tepo1239-2-5-1,,tepo1239-2,5,ùm,ùm,[],,[],,False,False,,2
+tepo1239-2-6-1,,tepo1239-2,6,ùmnɔ̄dô,ùmnɔ̄dô,[],( 5 + 1 ),[],,False,False,,2
+tepo1239-2-7-1,,tepo1239-2,7,ùmnɔ̄ɔ̄ɛ́n,ùmnɔ̄ɔ̄ɛ́n,[],( 5 + 2 ),[],,False,False,,2
+tepo1239-2-8-1,,tepo1239-2,8,blɛ̄nbìɛ̀n,blɛ̄nbìɛ̀n,[],,[],,False,False,,2
+tepo1239-2-9-1,,tepo1239-2,9,ùmīyándō,ùmīyándō,[],,[],,False,False,,2
+tepo1239-2-10-1,,tepo1239-2,10,pù,pù,[],,[],,False,False,,2
+tepo1239-2-11-1,,tepo1239-2,11,pù tûó dô,pù tûó dô,[],,[],,False,False,,2
+tepo1239-2-12-1,,tepo1239-2,12,pù tûó ɔ̄ɛ́n,pù tûó ɔ̄ɛ́n,[],,[],,False,False,,2
+tepo1239-2-13-1,,tepo1239-2,13,pù tûó tā,pù tûó tā,[],,[],,False,False,,2
+tepo1239-2-14-1,,tepo1239-2,14,pù tûó hɛ̀n,pù tûó hɛ̀n,[],,[],,False,False,,2
+tepo1239-2-15-1,,tepo1239-2,15,pù tûó ùm,pù tûó ùm,[],,[],,False,False,,2
+tepo1239-2-16-1,,tepo1239-2,16,pù tûó ùmnɔ̄dô,pù tûó ùmnɔ̄dô,[],,[],,False,False,,2
+tepo1239-2-17-1,,tepo1239-2,17,pù tûó ùmnɔ̄ɔ̄ɛ́n,pù tûó ùmnɔ̄ɔ̄ɛ́n,[],,[],,False,False,,2
+tepo1239-2-18-1,,tepo1239-2,18,pù tûó blɛ̄nbìɛ̀n,pù tûó blɛ̄nbìɛ̀n,[],,[],,False,False,,2
+tepo1239-2-19-1,,tepo1239-2,19,pù tûó ùmīyándō,pù tûó ùmīyándō,[],,[],,False,False,,2
+tepo1239-2-20-1,,tepo1239-2,20,wlòh,wlòh,[],,[],,False,False,,2
+tepo1239-2-21-1,,tepo1239-2,21,wlòh tûódô,wlòh tûódô,[],,[],,False,False,,2
+tepo1239-2-22-1,,tepo1239-2,22,wlòh tûôɔ̄ɛ́n,wlòh tûôɔ̄ɛ́n,[],,[],,False,False,,2
+tepo1239-2-23-1,,tepo1239-2,23,wlòh tûô tā,wlòh tûô tā,[],,[],,False,False,,2
+tepo1239-2-24-1,,tepo1239-2,24,wlòh tûô hɛ̀n,wlòh tûô hɛ̀n,[],,[],,False,False,,2
+tepo1239-2-25-1,,tepo1239-2,25,wlòh tûô ùm,wlòh tûô ùm,[],,[],,False,False,,2
+tepo1239-2-26-1,,tepo1239-2,26,wlòh tûô ùmnɔ̄dô,wlòh tûô ùmnɔ̄dô,[],,[],,False,False,,2
+tepo1239-2-27-1,,tepo1239-2,27,wlòh tûô ùmnɔ̄ɔ̄ɛ́n,wlòh tûô ùmnɔ̄ɔ̄ɛ́n,[],,[],,False,False,,2
+tepo1239-2-28-1,,tepo1239-2,28,wlòh tûô blɛ̄nbìɛ̀n,wlòh tûô blɛ̄nbìɛ̀n,[],,[],,False,False,,2
+tepo1239-2-29-1,,tepo1239-2,29,wlòh tûô ùmīyándō,wlòh tûô ùmīyándō,[],,[],,False,False,,2
+tepo1239-2-30-1,,tepo1239-2,30,wlòh tûô pù,wlòh tûô pù,[],( 20 + 10 ),[],,False,False,,2
+tepo1239-2-40-1,,tepo1239-2,40,wlèh nēɛ̄ ɔ̄ɛ́n,wlèh nēɛ̄ ɔ̄ɛ́n,[],( 20 x 2 ),[],,False,False,,2
+tepo1239-2-50-1,,tepo1239-2,50,wlèh nēɛ̄ ɔ̄ɛ́n tûô pù,wlèh nēɛ̄ ɔ̄ɛ́n tûô pù,[],,[],,False,False,,2
+tepo1239-2-60-1,,tepo1239-2,60,wlèh tā,wlèh tā,[],( 20 x 3 ),[],,False,False,,2
+tepo1239-2-70-1,,tepo1239-2,70,wlèh tā tûô pù,wlèh tā tûô pù,[],,[],,False,False,,2
+tepo1239-2-80-1,,tepo1239-2,80,wlèh nēɛ̄ hɛ̀n,wlèh nēɛ̄ hɛ̀n,[],( 20 x 4 ),[],,False,False,,2
+tepo1239-2-90-1,,tepo1239-2,90,wlèh nēɛ̄ hɛ̀n tûô pù,wlèh nēɛ̄ hɛ̀n tûô pù,[],,[],,False,False,,2
+tepo1239-2-100-1,,tepo1239-2,100,hɔndlɔ̄ wōh,hɔndlɔ̄ wōh,[],,[],,False,False,,2
+tepo1239-2-200-1,,tepo1239-2,200,hɔndlɔ̄ ɔ̄ɛ́n,hɔndlɔ̄ ɔ̄ɛ́n,[],,[],,False,False,,2
+tepo1239-2-1000-1,,tepo1239-2,1000,mīlíwɔ̀,mīlíwɔ̀,[],,[],,False,False,,2
+tepo1239-2-2000-1,,tepo1239-2,2000,mīlíwɔ̀ ɔ̄ɛ́n,mīlíwɔ̀ ɔ̄ɛ́n,[],,[],,False,False,,2

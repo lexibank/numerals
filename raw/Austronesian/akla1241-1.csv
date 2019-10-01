@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+akla1241-1-1-1,,akla1241-1,1,isaɣáh* | ú:noh | ala ú:na '1 o'clock',isaɣáh* | ú:noh | ala ú:na '1 o'clock',[],,[],,False,True,,1
+akla1241-1-2-1,,akla1241-1,2,dáywah | alas dos 'two o'clock',dáywah | alas dos 'two o'clock',[],,[],,False,True,,1
+akla1241-1-3-1,,akla1241-1,3,tátloh | alas trés 'three o'clock',tátloh | alas trés 'three o'clock',[],,[],,False,True,,1
+akla1241-1-4-1,,akla1241-1,4,ápʔat | alas kwátro,ápʔat | alas kwátro,[],,[],,False,False,,1
+akla1241-1-5-1,,akla1241-1,5,limáh | alas síŋkoh '5 o'clock',limáh | alas síŋkoh '5 o'clock',[],,[],,False,True,,1
+akla1241-1-6-1,,akla1241-1,6,ánʔom | alas,ánʔom | alas,[],,[],,False,False,,1
+akla1241-1-7-1,,akla1241-1,7,pitóh | alas,pitóh | alas,[],,[],,False,False,,1
+akla1241-1-8-1,,akla1241-1,8,waɣóh | alas ótso,waɣóh | alas ótso,[],,[],,False,False,,1
+akla1241-1-9-1,,akla1241-1,9,siyám | alas nwébe,siyám | alas nwébe,[],,[],,False,False,,1
+akla1241-1-10-1,,akla1241-1,10,pú:ɣoʔ | alas dyés,pú:ɣoʔ | alas dyés,[],,[],,False,False,,1
+akla1241-1-11-1,,akla1241-1,11,ónse | alas ónse '11 o'clock',ónse | alas ónse '11 o'clock',[],,[],,False,True,,1
+akla1241-1-12-1,,akla1241-1,12,dóse | alas dóse '12 o'clock',dóse | alas dóse '12 o'clock',[],,[],,False,True,,1
+akla1241-1-13-1,,akla1241-1,13,trése,trése,[],,[],,False,False,,1
+akla1241-1-14-1,,akla1241-1,14,katórse,katórse,[],,[],,False,False,,1
+akla1241-1-15-1,,akla1241-1,15,kínse | napú:ɣo'g limá,kínse | napú:ɣo'g limá,[],{rare},[],,False,False,,1
+akla1241-1-16-1,,akla1241-1,16,dyesesáys,dyesesáys,[],,[],,False,False,,1
+akla1241-1-17-1,,akla1241-1,17,dyesesyéte,dyesesyéte,[],,[],,False,False,,1
+akla1241-1-18-1,,akla1241-1,18,dyeseótso,dyeseótso,[],,[],,False,False,,1
+akla1241-1-19-1,,akla1241-1,19,dyesenwébe,dyesenwébe,[],,[],,False,False,,1
+akla1241-1-20-1,,akla1241-1,20,dáywaŋ púɣoʔ | báynte,dáywaŋ púɣoʔ | báynte,[],,[],,False,False,,1
+akla1241-1-21-1,,akla1241-1,21,báynte úno,báynte úno,[],,[],,False,False,,1
+akla1241-1-22-1,,akla1241-1,22,báynte dós,báynte dós,[],,[],,False,False,,1
+akla1241-1-23-1,,akla1241-1,23,báynte trés,báynte trés,[],,[],,False,False,,1
+akla1241-1-24-1,,akla1241-1,24,báynte kwátro,báynte kwátro,[],,[],,False,False,,1
+akla1241-1-25-1,,akla1241-1,25,báynte síŋkoh,báynte síŋkoh,[],,[],,False,False,,1
+akla1241-1-26-1,,akla1241-1,26,báynte sáys,báynte sáys,[],,[],,False,False,,1
+akla1241-1-27-1,,akla1241-1,27,báynte syéte,báynte syéte,[],,[],,False,False,,1
+akla1241-1-28-1,,akla1241-1,28,báynte ótso,báynte ótso,[],,[],,False,False,,1
+akla1241-1-29-1,,akla1241-1,29,báynte nwébe,báynte nwébe,[],,[],,False,False,,1
+akla1241-1-30-1,,akla1241-1,30,tráynta | tátloŋ pú:ɣoʔ,tráynta | tátloŋ pú:ɣoʔ,[],,[],,False,False,,1
+akla1241-1-40-1,,akla1241-1,40,kwarénta | ápʔat ka pú:ɣoʔ,kwarénta | ápʔat ka pú:ɣoʔ,[],,[],,False,False,,1
+akla1241-1-50-1,,akla1241-1,50,siŋkwénta | limáh ka pú:ɣoʔ,siŋkwénta | limáh ka pú:ɣoʔ,[],,[],,False,False,,1
+akla1241-1-60-1,,akla1241-1,60,saysyénta | ánʔom ka pú:ɣoʔ,saysyénta | ánʔom ka pú:ɣoʔ,[],,[],,False,False,,1
+akla1241-1-70-1,,akla1241-1,70,seténta | pitóh ka pú:ɣoʔ,seténta | pitóh ka pú:ɣoʔ,[],,[],,False,False,,1
+akla1241-1-80-1,,akla1241-1,80,otsénta | waɣóh ka pú:ɣoʔ,otsénta | waɣóh ka pú:ɣoʔ,[],,[],,False,False,,1
+akla1241-1-90-1,,akla1241-1,90,nobénta | siyám ka pú:ɣoʔ,nobénta | siyám ka pú:ɣoʔ,[],,[],,False,False,,1
+akla1241-1-100-1,,akla1241-1,100,saŋ gatós | syéntos,saŋ gatós | syéntos,[],,[],,False,False,,1
+akla1241-1-200-1,,akla1241-1,200,daywaŋ gatós | dos syéntos,daywaŋ gatós | dos syéntos,[],,[],,False,False,,1
+akla1241-1-1000-1,,akla1241-1,1000,saŋ ka lí:bo | mil,saŋ ka lí:bo | mil,[],,[],,False,False,,1
+akla1241-1-2000-1,,akla1241-1,2000,daywaŋ ka lí:bo | mil dos,daywaŋ ka lí:bo | mil dos,[],,[],,False,False,,1

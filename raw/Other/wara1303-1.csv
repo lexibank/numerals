@@ -1,0 +1,13 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+wara1303-1-1-1,,wara1303-1,1,hisaka,hisaka,[],,[],,False,False,,1
+wara1303-1-2-1,,wara1303-1,2,manamo,manamo,[],,[],,False,False,,1
+wara1303-1-3-1,,wara1303-1,3,dihanamo,dihanamo,[],,[],,False,False,,1
+wara1303-1-4-1,,wara1303-1,4,manamo-namohasi,manamo-namohasi,[],( 2 ? ),[],,False,False,,1
+wara1303-1-5-1,,wara1303-1,5,mohabasi,mohabasi,[],,[],,False,False,,1
+wara1303-1-6-1,,wara1303-1,6,mohabasi aria hisaka,mohabasi aria hisaka,[],( ... plus one),[],,False,False,,1
+wara1303-1-7-1,,wara1303-1,7,mohabasi aria manamo,mohabasi aria manamo,[],( ... plus two),[],,False,False,,1
+wara1303-1-8-1,,wara1303-1,8,mohabasi aria dihanamo,mohabasi aria dihanamo,[],( ... plus three),[],,False,False,,1
+wara1303-1-9-1,,wara1303-1,9,mohabasi aria manamo-namohasi,mohabasi aria manamo-namohasi,[],( ... plus four),[],,False,False,,1
+wara1303-1-10-1,,wara1303-1,10,= Two hands,= Two hands,[],,[],,False,True,,1
+wara1303-1-20-1,,wara1303-1,20,warao hisaka,warao hisaka,[],( lit: ''one warao / one person''),[],,False,False,,1
+wara1303-1-20-2,,wara1303-1,20,40. 'our two bodies',40. 'our two bodies',[],,[],,False,True,,1

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+dusn1237-1-1-1,,dusn1237-1,1,yoser,yoser,[],,[],,False,False,,1
+dusn1237-1-2-1,,dusn1237-1,2,nuru,nuru,[],,[],,False,False,,1
+dusn1237-1-3-1,,dusn1237-1,3,tori,tori,[],,[],,False,False,,1
+dusn1237-1-4-1,,dusn1237-1,4,pati,pati,[],,[],,False,False,,1
+dusn1237-1-5-1,,dusn1237-1,5,rimbi,rimbi,[],,[],,False,False,,1
+dusn1237-1-6-1,,dusn1237-1,6,rimbi yoser,rimbi yoser,[],( 5+ 1),[],,False,False,,1
+dusn1237-1-7-1,,dusn1237-1,7,rimbi nuru,rimbi nuru,[],( 5+ 2),[],,False,False,,1
+dusn1237-1-8-1,,dusn1237-1,8,rimbi tori,rimbi tori,[],( 5+ 3),[],,False,False,,1
+dusn1237-1-9-1,,dusn1237-1,9,rimbi pati,rimbi pati,[],( 5+ 4),[],,False,False,,1
+dusn1237-1-10-1,,dusn1237-1,10,sampu,sampu,[],,[],,False,False,,1
+dusn1237-1-11-1,,dusn1237-1,11,sampu yoser,sampu yoser,[],,[],,False,False,,1
+dusn1237-1-12-1,,dusn1237-1,12,sampu nuru,sampu nuru,[],,[],,False,False,,1
+dusn1237-1-13-1,,dusn1237-1,13,sampu tori,sampu tori,[],,[],,False,False,,1
+dusn1237-1-14-1,,dusn1237-1,14,sampu pati,sampu pati,[],,[],,False,False,,1
+dusn1237-1-15-1,,dusn1237-1,15,sampu rimbi,sampu rimbi,[],,[],,False,False,,1
+dusn1237-1-16-1,,dusn1237-1,16,sampu rimbi yoser,sampu rimbi yoser,[],,[],,False,False,,1
+dusn1237-1-17-1,,dusn1237-1,17,sampu rimbi nuru,sampu rimbi nuru,[],,[],,False,False,,1
+dusn1237-1-18-1,,dusn1237-1,18,sampu rimbi tori,sampu rimbi tori,[],,[],,False,False,,1
+dusn1237-1-19-1,,dusn1237-1,19,sampu rimbi pati,sampu rimbi pati,[],,[],,False,False,,1
+dusn1237-1-20-1,,dusn1237-1,20,snontu,snontu,[],,[],,False,False,,1
+dusn1237-1-21-1,,dusn1237-1,21,snontu yoser,snontu yoser,[],,[],,False,False,,1
+dusn1237-1-22-1,,dusn1237-1,22,snontu nuru,snontu nuru,[],,[],,False,False,,1
+dusn1237-1-23-1,,dusn1237-1,23,snontu tori,snontu tori,[],,[],,False,False,,1
+dusn1237-1-24-1,,dusn1237-1,24,snontu pati,snontu pati,[],,[],,False,False,,1
+dusn1237-1-25-1,,dusn1237-1,25,snontu rimbi,snontu rimbi,[],,[],,False,False,,1
+dusn1237-1-26-1,,dusn1237-1,26,snontu rimbi yoser,snontu rimbi yoser,[],,[],,False,False,,1
+dusn1237-1-27-1,,dusn1237-1,27,snontu rimbi nuru,snontu rimbi nuru,[],,[],,False,False,,1
+dusn1237-1-28-1,,dusn1237-1,28,snontu rimbi tori,snontu rimbi tori,[],,[],,False,False,,1
+dusn1237-1-29-1,,dusn1237-1,29,snontu rimbi pati,snontu rimbi pati,[],,[],,False,False,,1
+dusn1237-1-30-1,,dusn1237-1,30,snontu sur,snontu sur,[],,[],,False,False,,1
+dusn1237-1-40-1,,dusn1237-1,40,snontu nuru,snontu nuru,[],( 20 x 2 ),[],,False,False,,1
+dusn1237-1-50-1,,dusn1237-1,50,snontu nuru sur,snontu nuru sur,[],,[],,False,False,,1
+dusn1237-1-60-1,,dusn1237-1,60,snontu tori,snontu tori,[],( 20 x 3 ),[],,False,False,,1
+dusn1237-1-70-1,,dusn1237-1,70,snontu tori sur,snontu tori sur,[],,[],,False,False,,1
+dusn1237-1-80-1,,dusn1237-1,80,snontu pati,snontu pati,[],( 20 x 4 ),[],,False,False,,1
+dusn1237-1-90-1,,dusn1237-1,90,snontu pati sur,snontu pati sur,[],,[],,False,False,,1
+dusn1237-1-100-1,,dusn1237-1,100,utin,utin,[],,[],,False,False,,1
+dusn1237-1-200-1,,dusn1237-1,200,utin nuru,utin nuru,[],,[],,False,False,,1
+dusn1237-1-1000-1,,dusn1237-1,1000,siaran yoser ??,siaran yoser ??,[],,[],,False,True,,1
+dusn1237-1-2000-1,,dusn1237-1,2000,siaran nuru ??,siaran nuru ??,[],,[],,False,True,,1

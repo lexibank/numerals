@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sioo1240-1-1-1,,sioo1240-1,1,taitu,taitu,[],,[],,False,False,,1
+sioo1240-1-2-1,,sioo1240-1,2,ɾua,ɾua,[],,[],,False,False,,1
+sioo1240-1-3-1,,sioo1240-1,3,ŋato,ŋato,[],,[],,False,False,,1
+sioo1240-1-4-1,,sioo1240-1,4,ŋapa,ŋapa,[],,[],,False,False,,1
+sioo1240-1-5-1,,sioo1240-1,5,lima,lima,[],,[],,False,False,,1
+sioo1240-1-6-1,,sioo1240-1,6,lima kanaŋo taitu,lima kanaŋo taitu,[],( 5 + 1 ),[],,False,False,,1
+sioo1240-1-7-1,,sioo1240-1,7,lima kanaŋo ɾua,lima kanaŋo ɾua,[],( 5 + 2 ),[],,False,False,,1
+sioo1240-1-8-1,,sioo1240-1,8,lima kanaŋo ŋato,lima kanaŋo ŋato,[],( 5 + 3 ),[],,False,False,,1
+sioo1240-1-9-1,,sioo1240-1,9,lima kanaŋo ŋapa,lima kanaŋo ŋapa,[],( 5 + 4 ),[],,False,False,,1
+sioo1240-1-10-1,,sioo1240-1,10,saŋao,saŋao,[],,[],,False,False,,1
+sioo1240-1-11-1,,sioo1240-1,11,saŋao kanaŋo taitu,saŋao kanaŋo taitu,[],,[],,False,False,,1
+sioo1240-1-12-1,,sioo1240-1,12,saŋao kanaŋo ɾua,saŋao kanaŋo ɾua,[],,[],,False,False,,1
+sioo1240-1-13-1,,sioo1240-1,13,saŋao kanaŋo ŋato,saŋao kanaŋo ŋato,[],,[],,False,False,,1
+sioo1240-1-14-1,,sioo1240-1,14,saŋao kanaŋo ŋapa,saŋao kanaŋo ŋapa,[],,[],,False,False,,1
+sioo1240-1-15-1,,sioo1240-1,15,saŋao kanaŋo lima,saŋao kanaŋo lima,[],,[],,False,False,,1
+sioo1240-1-16-1,,sioo1240-1,16,saŋao kanaŋo lima kanaŋo taitu,saŋao kanaŋo lima kanaŋo taitu,[],,[],,False,False,,1
+sioo1240-1-17-1,,sioo1240-1,17,saŋao kanaŋo lima kanaŋo ɾua,saŋao kanaŋo lima kanaŋo ɾua,[],,[],,False,False,,1
+sioo1240-1-18-1,,sioo1240-1,18,saŋao kanaŋo lima kanaŋo ŋato,saŋao kanaŋo lima kanaŋo ŋato,[],,[],,False,False,,1
+sioo1240-1-19-1,,sioo1240-1,19,saŋao kanaŋo lima kanaŋo ŋapa,saŋao kanaŋo lima kanaŋo ŋapa,[],,[],,False,False,,1
+sioo1240-1-20-1,,sioo1240-1,20,tamɔta taitu,tamɔta taitu,[],(litː ''one person''),[],,False,False,,1
+sioo1240-1-21-1,,sioo1240-1,21,tamɔta taitu kanaŋo taitu,tamɔta taitu kanaŋo taitu,[],,[],,False,False,,1
+sioo1240-1-22-1,,sioo1240-1,22,tamɔta taitu kanaŋo ɾua,tamɔta taitu kanaŋo ɾua,[],,[],,False,False,,1
+sioo1240-1-23-1,,sioo1240-1,23,tamɔta taitu kanaŋo ŋato,tamɔta taitu kanaŋo ŋato,[],,[],,False,False,,1
+sioo1240-1-24-1,,sioo1240-1,24,tamɔta taitu kanaŋo ŋapa,tamɔta taitu kanaŋo ŋapa,[],,[],,False,False,,1
+sioo1240-1-25-1,,sioo1240-1,25,tamɔta taitu kanaŋo lima,tamɔta taitu kanaŋo lima,[],,[],,False,False,,1
+sioo1240-1-26-1,,sioo1240-1,26,tamɔta taitu kanaŋo lima kanaŋo taitu,tamɔta taitu kanaŋo lima kanaŋo taitu,[],,[],,False,False,,1
+sioo1240-1-27-1,,sioo1240-1,27,tamɔta taitu kanaŋo lima kanaŋo ɾua,tamɔta taitu kanaŋo lima kanaŋo ɾua,[],,[],,False,False,,1
+sioo1240-1-28-1,,sioo1240-1,28,tamɔta taitu kanaŋo lima kanaŋo ŋato,tamɔta taitu kanaŋo lima kanaŋo ŋato,[],,[],,False,False,,1
+sioo1240-1-29-1,,sioo1240-1,29,tamɔta taitu kanaŋo lima kanaŋo ŋapa,tamɔta taitu kanaŋo lima kanaŋo ŋapa,[],,[],,False,False,,1
+sioo1240-1-30-1,,sioo1240-1,30,tamɔta taitu kanaŋo saŋao,tamɔta taitu kanaŋo saŋao,[],,[],,False,False,,1
+sioo1240-1-40-1,,sioo1240-1,40,tamɔta ɾua,tamɔta ɾua,[],( 20 x 2 ),[],,False,False,,1
+sioo1240-1-50-1,,sioo1240-1,50,tamɔta ɾua kanaŋo saŋao,tamɔta ɾua kanaŋo saŋao,[],,[],,False,False,,1
+sioo1240-1-60-1,,sioo1240-1,60,tamɔta ŋato,tamɔta ŋato,[],( 20 x 3 ),[],,False,False,,1
+sioo1240-1-70-1,,sioo1240-1,70,tamɔta ŋato kanaŋo saŋao,tamɔta ŋato kanaŋo saŋao,[],,[],,False,False,,1
+sioo1240-1-80-1,,sioo1240-1,80,tamɔta ŋapa,tamɔta ŋapa,[],( 20 x 4 ),[],,False,False,,1
+sioo1240-1-90-1,,sioo1240-1,90,tamɔta ŋapa kanaŋo saŋao,tamɔta ŋapa kanaŋo saŋao,[],,[],,False,False,,1
+sioo1240-1-100-1,,sioo1240-1,100,tamɔta tamɔta,tamɔta tamɔta,[],( 20 x 20 ),[],,False,False,,1

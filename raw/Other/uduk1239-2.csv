@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+uduk1239-2-1-1,,uduk1239-2,1,ɗe,ɗe,[],,[],,False,False,,2
+uduk1239-2-2-1,,uduk1239-2,2,suʔ,suʔ,[],,[],,False,False,,2
+uduk1239-2-3-1,,uduk1239-2,3,kwara,kwara,[],,[],,False,False,,2
+uduk1239-2-4-1,,uduk1239-2,4,doŋon,doŋon,[],,[],,False,False,,2
+uduk1239-2-5-1,,uduk1239-2,5,mudheɗ,mudheɗ,[],( lit: hand closed ),[],,False,False,,2
+uduk1239-2-6-1,,uduk1239-2,6,(mudheɗ) peɗe,(mudheɗ) peɗe,[],( 5+ 1 ),[],,False,False,,2
+uduk1239-2-7-1,,uduk1239-2,7,(mudheɗ) pesuʔ,(mudheɗ) pesuʔ,[],( 5+ 2 ),[],,False,False,,2
+uduk1239-2-8-1,,uduk1239-2,8,(mudheɗ) pekwara,(mudheɗ) pekwara,[],( 5+ 3 ),[],,False,False,,2
+uduk1239-2-9-1,,uduk1239-2,9,(mudheɗ) pedoŋon,(mudheɗ) pedoŋon,[],( 5+ 4 ),[],,False,False,,2
+uduk1239-2-10-1,,uduk1239-2,10,kumeɗ,kumeɗ,[],,[],,False,False,,2
+uduk1239-2-11-1,,uduk1239-2,11,kumeɗi ceɗi ɗeʔ,kumeɗi ceɗi ɗeʔ,[],,[],,False,False,,2
+uduk1239-2-12-1,,uduk1239-2,12,kumeɗi ceɗi suʔ,kumeɗi ceɗi suʔ,[],,[],,False,False,,2
+uduk1239-2-13-1,,uduk1239-2,13,kumeɗi ceɗi kwara,kumeɗi ceɗi kwara,[],,[],,False,False,,2
+uduk1239-2-14-1,,uduk1239-2,14,kumeɗi ceɗi doŋon,kumeɗi ceɗi doŋon,[],,[],,False,False,,2
+uduk1239-2-15-1,,uduk1239-2,15,kumeɗi ceɗi mudheɗ,kumeɗi ceɗi mudheɗ,[],,[],,False,False,,2
+uduk1239-2-15-2,,uduk1239-2,15,ceɗ ka karbae,ceɗ ka karbae,[],,[],,False,False,,2
+uduk1239-2-16-1,,uduk1239-2,16,kumeɗi ceɗ (mudheɗ) peɗe,kumeɗi ceɗ (mudheɗ) peɗe,[],,[],,False,False,,2
+uduk1239-2-17-1,,uduk1239-2,17,kumeɗi ceɗi (mudheɗ) pesuʔ,kumeɗi ceɗi (mudheɗ) pesuʔ,[],,[],,False,False,,2
+uduk1239-2-18-1,,uduk1239-2,18,kumeɗi ceɗi (mudheɗ) pekwara,kumeɗi ceɗi (mudheɗ) pekwara,[],,[],,False,False,,2
+uduk1239-2-19-1,,uduk1239-2,19,kumeɗi ceɗi (mudheɗ) pedoŋon,kumeɗi ceɗi (mudheɗ) pedoŋon,[],,[],,False,False,,2
+uduk1239-2-20-1,,uduk1239-2,20,iss ɗeʔ,iss ɗeʔ,[],( one body ),[],,False,False,,2
+uduk1239-2-21-1,,uduk1239-2,21,iss ɗeʔ ceɗi ɗeʔ,iss ɗeʔ ceɗi ɗeʔ,[],,[],,False,False,,2
+uduk1239-2-22-1,,uduk1239-2,22,iss ɗeʔ ceɗi suʔ,iss ɗeʔ ceɗi suʔ,[],,[],,False,False,,2
+uduk1239-2-23-1,,uduk1239-2,23,iss ɗeʔ ceɗi kwara,iss ɗeʔ ceɗi kwara,[],,[],,False,False,,2
+uduk1239-2-24-1,,uduk1239-2,24,iss ɗeʔ ceɗi doŋon,iss ɗeʔ ceɗi doŋon,[],,[],,False,False,,2
+uduk1239-2-25-1,,uduk1239-2,25,iss ɗeʔ ceɗi mudheɗ,iss ɗeʔ ceɗi mudheɗ,[],,[],,False,False,,2
+uduk1239-2-26-1,,uduk1239-2,26,iss ɗeʔ ceɗi peɗe,iss ɗeʔ ceɗi peɗe,[],,[],,False,False,,2
+uduk1239-2-27-1,,uduk1239-2,27,iss ɗeʔ ceɗi pesuʔ,iss ɗeʔ ceɗi pesuʔ,[],,[],,False,False,,2
+uduk1239-2-28-1,,uduk1239-2,28,iss ɗeʔ ceɗi pekwara,iss ɗeʔ ceɗi pekwara,[],,[],,False,False,,2
+uduk1239-2-29-1,,uduk1239-2,29,iss ɗeʔ ceɗi pedoŋon,iss ɗeʔ ceɗi pedoŋon,[],,[],,False,False,,2
+uduk1239-2-30-1,,uduk1239-2,30,iss ɗeʔ ceɗi kumeɗ,iss ɗeʔ ceɗi kumeɗ,[],(aɸo),[],,False,False,,2
+uduk1239-2-40-1,,uduk1239-2,40,iss suʔ,iss suʔ,[],( 20 x 3 ),[],,False,False,,2
+uduk1239-2-50-1,,uduk1239-2,50,iss suʔ ceɗi kumeɗ,iss suʔ ceɗi kumeɗ,[],,[],,False,False,,2
+uduk1239-2-60-1,,uduk1239-2,60,iss kwara,iss kwara,[],( 20 x 3 ),[],,False,False,,2
+uduk1239-2-70-1,,uduk1239-2,70,iss kwara ceɗi kumeɗ,iss kwara ceɗi kumeɗ,[],,[],,False,False,,2
+uduk1239-2-80-1,,uduk1239-2,80,iss doŋon,iss doŋon,[],( 20 x 4 ),[],,False,False,,2
+uduk1239-2-90-1,,uduk1239-2,90,iss doŋon ceɗi kumeɗ,iss doŋon ceɗi kumeɗ,[],,[],,False,False,,2
+uduk1239-2-100-1,,uduk1239-2,100,iss mudheɗ,iss mudheɗ,[],,[],,False,False,,2
+uduk1239-2-200-1,,uduk1239-2,200,iss kumeɗ,iss kumeɗ,[],,[],,False,False,,2
+uduk1239-2-1000-1,,uduk1239-2,1000,aliɸ ɗeʔ,aliɸ ɗeʔ,[],( < Arabic ' alif ' ),[],,True,False,,2
+uduk1239-2-2000-1,,uduk1239-2,2000,aliɸ suʔ,aliɸ suʔ,[],,[],,False,False,,2

@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+arib1240-1-1-1,,arib1240-1,1,uruts,uruts,[],,[],,False,False,,1
+arib1240-1-2-1,,arib1240-1,2,siruc c = ʔ ?,siruc c = ʔ ?,[],,[],,False,True,,1
+arib1240-1-3-1,,arib1240-1,3,siruc aruts,siruc aruts,[],( 2 + 1 ),[],,False,False,,1
+arib1240-1-4-1,,arib1240-1,4,siruc siruc,siruc siruc,[],( 2 + 2 ),[],,False,False,,1
+arib1240-1-5-1,,arib1240-1,5,paŋɡi-ŋɡ lefen,paŋɡi-ŋɡ lefen,[],(litː 'hand half'),[],,False,False,,1
+arib1240-1-6-1,,arib1240-1,6,paŋɡi-ŋɡ lefen nitsin uruts,paŋɡi-ŋɡ lefen nitsin uruts,[],(litː 'hand half and one'),[],,False,False,,1
+arib1240-1-7-1,,arib1240-1,7,paŋɡi-ŋɡ lefen nitsin siruc,paŋɡi-ŋɡ lefen nitsin siruc,[],,[],,False,False,,1
+arib1240-1-8-1,,arib1240-1,8,paŋɡi-ŋɡ lefen nitsin siruc aruts,paŋɡi-ŋɡ lefen nitsin siruc aruts,[],,[],,False,False,,1
+arib1240-1-9-1,,arib1240-1,9,paŋɡi-ŋɡ lefen nitsin siruc siruc,paŋɡi-ŋɡ lefen nitsin siruc siruc,[],,[],,False,False,,1
+arib1240-1-10-1,,arib1240-1,10,paŋɡi-ŋɡ siruc,paŋɡi-ŋɡ siruc,[],(litː 'hands two'),[],,False,False,,1
+arib1240-1-11-1,,arib1240-1,11,paŋɡi-ŋɡ siruc nitsin uruts,paŋɡi-ŋɡ siruc nitsin uruts,[],(litː 'hands two and one'),[],,False,False,,1
+arib1240-1-12-1,,arib1240-1,12,paŋɡi-ŋɡ siruc nitsin siruc,paŋɡi-ŋɡ siruc nitsin siruc,[],,[],,False,False,,1
+arib1240-1-13-1,,arib1240-1,13,paŋɡi-ŋɡ siruc nitsin siruc aruts,paŋɡi-ŋɡ siruc nitsin siruc aruts,[],,[],,False,False,,1
+arib1240-1-14-1,,arib1240-1,14,paŋɡi-ŋɡ siruc nitsin siruc siruc,paŋɡi-ŋɡ siruc nitsin siruc siruc,[],,[],,False,False,,1
+arib1240-1-15-1,,arib1240-1,15,paŋɡi-ŋɡ siruc ofoŋ menen,paŋɡi-ŋɡ siruc ofoŋ menen,[],"(litː 'hands two, foot one')",[],,False,False,,1
+arib1240-1-16-1,,arib1240-1,16,paŋɡi-ŋɡ siruc ofoŋ menen nidzin uruts,paŋɡi-ŋɡ siruc ofoŋ menen nidzin uruts,[],,[],,False,False,,1
+arib1240-1-17-1,,arib1240-1,17,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc,[],,[],,False,False,,1
+arib1240-1-18-1,,arib1240-1,18,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc aruts,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc aruts,[],,[],,False,False,,1
+arib1240-1-19-1,,arib1240-1,19,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc siruc,paŋɡi-ŋɡ siruc ofoŋ menen nidzin siruc siruc,[],,[],,False,False,,1
+arib1240-1-20-1,,arib1240-1,20,"paŋɡi-ŋɡ siruc ofoŋ siruc (litː 'hands two, feet two') or artsamo","paŋɡi-ŋɡ siruc ofoŋ siruc (litː 'hands two, feet two') or artsamo",[],(litː 'whole man'),[],,False,True,,1

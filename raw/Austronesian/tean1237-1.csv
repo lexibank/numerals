@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tean1237-1-1-1,,tean1237-1,1,iune,iune,[],,[],,False,False,,1
+tean1237-1-2-1,,tean1237-1,2,tilu,tilu,[],,[],,False,False,,1
+tean1237-1-3-1,,tean1237-1,3,tete,tete,[],,[],,False,False,,1
+tean1237-1-4-1,,tean1237-1,4,teva,teva,[],,[],,False,False,,1
+tean1237-1-5-1,,tean1237-1,5,tili,tili,[],( < ti + lima ?),[],,False,False,,1
+tean1237-1-6-1,,tean1237-1,6,tuo,tuo,[],,[],,False,False,,1
+tean1237-1-7-1,,tean1237-1,7,tiᵐbi,tiᵐbi,[],,[],,False,False,,1
+tean1237-1-8-1,,tean1237-1,8,tua or tilu tae,tua or tilu tae,[],,[],,False,True,,1
+tean1237-1-9-1,,tean1237-1,9,tiⁿdi or iune tae,tiⁿdi or iune tae,[],,[],,False,True,,1
+tean1237-1-10-1,,tean1237-1,10,saŋaulu or uluko,saŋaulu or uluko,[],,[],,False,True,,1
+tean1237-1-11-1,,tean1237-1,11,uluko tamana iune,uluko tamana iune,[],,[],,False,False,,1
+tean1237-1-12-1,,tean1237-1,12,uluko tamana tilu,uluko tamana tilu,[],,[],,False,False,,1
+tean1237-1-13-1,,tean1237-1,13,uluko tamana tete,uluko tamana tete,[],,[],,False,False,,1
+tean1237-1-14-1,,tean1237-1,14,uluko tamana teva,uluko tamana teva,[],,[],,False,False,,1
+tean1237-1-15-1,,tean1237-1,15,uluko tamana tili,uluko tamana tili,[],,[],,False,False,,1
+tean1237-1-16-1,,tean1237-1,16,uluko tamana tuo,uluko tamana tuo,[],,[],,False,False,,1
+tean1237-1-17-1,,tean1237-1,17,uluko tamana tiᵐbi,uluko tamana tiᵐbi,[],,[],,False,False,,1
+tean1237-1-18-1,,tean1237-1,18,uluko tamana tua,uluko tamana tua,[],,[],,False,False,,1
+tean1237-1-19-1,,tean1237-1,19,uluko tamana tiⁿdi,uluko tamana tiⁿdi,[],,[],,False,False,,1
+tean1237-1-20-1,,tean1237-1,20,kwa tilu,kwa tilu,[],,[],,False,False,,1
+tean1237-1-21-1,,tean1237-1,21,kwa tilu tamana iune,kwa tilu tamana iune,[],,[],,False,False,,1
+tean1237-1-22-1,,tean1237-1,22,kwa tilu tamana tilu,kwa tilu tamana tilu,[],,[],,False,False,,1
+tean1237-1-23-1,,tean1237-1,23,kwa tilu tamana tete,kwa tilu tamana tete,[],,[],,False,False,,1
+tean1237-1-24-1,,tean1237-1,24,kwa tilu tamana teva,kwa tilu tamana teva,[],,[],,False,False,,1
+tean1237-1-25-1,,tean1237-1,25,kwa tilu tamana tili,kwa tilu tamana tili,[],,[],,False,False,,1
+tean1237-1-26-1,,tean1237-1,26,kwa tilu tamana tuo,kwa tilu tamana tuo,[],,[],,False,False,,1
+tean1237-1-27-1,,tean1237-1,27,kwa tilu tamana tiᵐbi,kwa tilu tamana tiᵐbi,[],,[],,False,False,,1
+tean1237-1-28-1,,tean1237-1,28,kwa tilu tamana tua,kwa tilu tamana tua,[],,[],,False,False,,1
+tean1237-1-29-1,,tean1237-1,29,kwa tilu tamana tiⁿdi,kwa tilu tamana tiⁿdi,[],,[],,False,False,,1
+tean1237-1-30-1,,tean1237-1,30,kwa tete,kwa tete,[],,[],,False,False,,1
+tean1237-1-40-1,,tean1237-1,40,kwa teva,kwa teva,[],,[],,False,False,,1
+tean1237-1-50-1,,tean1237-1,50,kwa tili,kwa tili,[],,[],,False,False,,1
+tean1237-1-60-1,,tean1237-1,60,kwa tuo,kwa tuo,[],,[],,False,False,,1
+tean1237-1-70-1,,tean1237-1,70,kwa tiᵐbi,kwa tiᵐbi,[],,[],,False,False,,1
+tean1237-1-80-1,,tean1237-1,80,kwa tua,kwa tua,[],,[],,False,False,,1
+tean1237-1-90-1,,tean1237-1,90,kwa tiⁿdi,kwa tiⁿdi,[],,[],,False,False,,1
+tean1237-1-100-1,,tean1237-1,100,rea iune,rea iune,[],,[],,False,False,,1
+tean1237-1-200-1,,tean1237-1,200,rea tilu,rea tilu,[],,[],,False,False,,1
+tean1237-1-1000-1,,tean1237-1,1000,imuo iune,imuo iune,[],,[],,False,False,,1
+tean1237-1-2000-1,,tean1237-1,2000,imuo tilu,imuo tilu,[],,[],,False,False,,1

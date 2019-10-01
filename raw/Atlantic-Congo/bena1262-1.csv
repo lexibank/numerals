@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bena1262-1-1-1,,bena1262-1,1,jímwi,jímwi,[],,[],,False,False,yimwi,1
+bena1262-1-2-1,,bena1262-1,2,tsívili,tsívili,[],,[],,False,False,dzivili,1
+bena1262-1-3-1,,bena1262-1,3,tsídatu,tsídatu,[],,[],,False,False,dzidatu,1
+bena1262-1-4-1,,bena1262-1,4,dzitaayi,dzitaayi,[],,[],,False,False,,1
+bena1262-1-4-2,,bena1262-1,4,tsitáːj,tsitáːj,[],,[],,False,False,dzitaaye,1
+bena1262-1-5-1,,bena1262-1,5,dzihaanu,dzihaanu,[],,[],,False,False,,1
+bena1262-1-5-2,,bena1262-1,5,tsiháːnu /o,tsiháːnu,[],,[],,False,True,dizihaano,1
+bena1262-1-5-3,,bena1262-1,5,tsiháːnu /o,o,[],,[],,False,True,dizihaano,1
+bena1262-1-6-1,,bena1262-1,6,mútaːⁿda,mútaːⁿda,[],,[],,False,False,mutanda,1
+bena1262-1-7-1,,bena1262-1,7,mufúŋati,mufúŋati,[],,[],,False,False,mufunɡʼati,1
+bena1262-1-8-1,,bena1262-1,8,múnaːna,múnaːna,[],,[],,False,False,munaana,1
+bena1262-1-9-1,,bena1262-1,9,múɡoːⁿza,múɡoːⁿza,[],,[],,False,False,muɡondza,1
+bena1262-1-10-1,,bena1262-1,10,ɲícçumi,ɲícçumi,[],,[],,False,False,nyikyumi,1
+bena1262-1-11-1,,bena1262-1,11,nyikyumi na yimwi,nyikyumi na yimwi,[],,[],,False,False,,1
+bena1262-1-12-1,,bena1262-1,12,nyikyumi na dzivili,nyikyumi na dzivili,[],,[],,False,False,,1
+bena1262-1-13-1,,bena1262-1,13,nyikyumi na dzidatu,nyikyumi na dzidatu,[],,[],,False,False,,1
+bena1262-1-14-1,,bena1262-1,14,nyikyumi na dzitaaye,nyikyumi na dzitaaye,[],,[],,False,False,,1
+bena1262-1-15-1,,bena1262-1,15,nyikyumi na dzihaanu,nyikyumi na dzihaanu,[],,[],,False,False,,1
+bena1262-1-16-1,,bena1262-1,16,nyikyumi na mutanda,nyikyumi na mutanda,[],,[],,False,False,,1
+bena1262-1-17-1,,bena1262-1,17,nyikyumi na mufunɡʼati,nyikyumi na mufunɡʼati,[],,[],,False,False,,1
+bena1262-1-18-1,,bena1262-1,18,nyikyumi na munaana,nyikyumi na munaana,[],,[],,False,False,,1
+bena1262-1-19-1,,bena1262-1,19,nyikyumi na muɡondza,nyikyumi na muɡondza,[],,[],,False,False,,1
+bena1262-1-20-1,,bena1262-1,20,mácçjumi ɡávili,mácçjumi ɡávili,[],,[],,False,False,makyuumi ɡavili,1
+bena1262-1-21-1,,bena1262-1,21,makyumi ɡavili na yimwi,makyumi ɡavili na yimwi,[],,[],,False,False,,1
+bena1262-1-22-1,,bena1262-1,22,makyumi ɡavili na dzivili,makyumi ɡavili na dzivili,[],,[],,False,False,,1
+bena1262-1-23-1,,bena1262-1,23,makyumi ɡavili na dzidatu,makyumi ɡavili na dzidatu,[],,[],,False,False,,1
+bena1262-1-24-1,,bena1262-1,24,makyumi ɡavili na dzitaayi,makyumi ɡavili na dzitaayi,[],,[],,False,False,,1
+bena1262-1-25-1,,bena1262-1,25,makyumi ɡavili na dzihaanu,makyumi ɡavili na dzihaanu,[],,[],,False,False,,1
+bena1262-1-26-1,,bena1262-1,26,makyumi ɡavili na mutanda,makyumi ɡavili na mutanda,[],,[],,False,False,,1
+bena1262-1-27-1,,bena1262-1,27,makyumi ɡavili na mufunɡʼati,makyumi ɡavili na mufunɡʼati,[],,[],,False,False,,1
+bena1262-1-28-1,,bena1262-1,28,makyumi ɡavili na munaana,makyumi ɡavili na munaana,[],,[],,False,False,,1
+bena1262-1-29-1,,bena1262-1,29,makyumi ɡavili na muɡondza,makyumi ɡavili na muɡondza,[],,[],,False,False,,1
+bena1262-1-30-1,,bena1262-1,30,mácçjumi ɡádatu,mácçjumi ɡádatu,[],,[],,False,False,makyumi ɡadatu,1
+bena1262-1-40-1,,bena1262-1,40,mácçjumi ɡátáːj,mácçjumi ɡátáːj,[],,[],,False,False,makyumi ɡatayi,1
+bena1262-1-50-1,,bena1262-1,50,mácçjumi ɡaháːnu,mácçjumi ɡaháːnu,[],,[],,False,False,makyumi dzihaanu,1
+bena1262-1-60-1,,bena1262-1,60,mácçjumi mútaːⁿda,mácçjumi mútaːⁿda,[],,[],,False,False,makyumi mutanda,1
+bena1262-1-70-1,,bena1262-1,70,mácçjumi mufúŋati,mácçjumi mufúŋati,[],,[],,False,False,makyumi mufunɡʼati,1
+bena1262-1-80-1,,bena1262-1,80,mácçjumi múnaːna,mácçjumi múnaːna,[],,[],,False,False,makyumi munaana,1
+bena1262-1-90-1,,bena1262-1,90,mácçjumi múɡoːⁿza,mácçjumi múɡoːⁿza,[],,[],,False,False,makyumi muɡondza,1
+bena1262-1-100-1,,bena1262-1,100,liɡána límwi,liɡána límwi,[],,[],,False,False,liɡana limwi,1
+bena1262-1-200-1,,bena1262-1,200,maɡána ɡávili,maɡána ɡávili,[],,[],,False,False,maɡana ɡavili,1
+bena1262-1-400-1,,bena1262-1,400,maɡana ɡataayi,maɡana ɡataayi,[],,[],,False,False,,1
+bena1262-1-400-2,,bena1262-1,400,1000. mbilíma,1000. mbilíma,[],,[],,False,True,,1
+bena1262-1-2000-1,,bena1262-1,2000,ᵐbilíma tsívili,ᵐbilíma tsívili,[],,[],,False,False,mbilima dzivili,1

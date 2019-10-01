@@ -1,0 +1,14 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+dera1245-1-1-1,,dera1245-1,1,mamʊ,mamʊ,[],,[],,False,False,mamo,1
+dera1245-1-2-1,,dera1245-1,2,imbu,imbu,[],,[],,False,False,,1
+dera1245-1-2-2,,dera1245-1,2,iᵐmbu,iᵐmbu,[],,[],,False,False,ibu,1
+dera1245-1-3-1,,dera1245-1,3,iᵐbumamʊ,iᵐbumamʊ,[],( litː 2 + 1 ),[],,False,False,imbumamo,1
+dera1245-1-4-1,,dera1245-1,4,barala,barala,[],(litː index finger ),[],,False,False,,1
+dera1245-1-5-1,,dera1245-1,5,xʷila,xʷila,[],( litː 'thumb' ),[],,False,False,hwila,1
+dera1245-1-6-1,,dera1245-1,6,laria,laria,[],( litː 'wrist' ),[],,False,False,,1
+dera1245-1-7-1,,dera1245-1,7,wala-tapa,wala-tapa,[],( litː 'lower arm'),[],,False,False,,1
+dera1245-1-8-1,,dera1245-1,8,wala-lu,wala-lu,[],(litː 'elbow'),[],,False,False,,1
+dera1245-1-9-1,,dera1245-1,9,walaⁿdaki,walaⁿdaki,[],(litː 'upper arm'),[],,False,False,wala-daki,1
+dera1245-1-10-1,,dera1245-1,10,walaᵐbuxa,walaᵐbuxa,[],(litː 'shoulder'),[],,False,False,wala-buha,1
+dera1245-1-11-1,,dera1245-1,11,tutu,tutu,[],(litː 'breast'),[],,False,False,,1
+dera1245-1-12-1,,dera1245-1,12,xumulu,xumulu,[],(litː 'sternum'),[],,False,False,humulu,1

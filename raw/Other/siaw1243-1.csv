@@ -1,0 +1,37 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+siaw1243-1-1-1,,siaw1243-1,1,somo,somo,[],,[],,False,False,,1
+siaw1243-1-2-1,,siaw1243-1,2,himolo,himolo,[],,[],,False,False,,1
+siaw1243-1-3-1,,siaw1243-1,3,hluelo,hluelo,[],( *),[],,False,False,,1
+siaw1243-1-4-1,,siaw1243-1,4,katukwiolo,katukwiolo,[],,[],,False,False,,1
+siaw1243-1-5-1,,siaw1243-1,5,katilo,katilo,[],(lit: 'one of the other hand'),[],,False,False,,1
+siaw1243-1-6-1,,siaw1243-1,6,somolo katilo,somolo katilo,[],( 1 + 5 ),[],,False,False,,1
+siaw1243-1-7-1,,siaw1243-1,7,himolo katilo,himolo katilo,[],( 2 + 5 ),[],,False,False,,1
+siaw1243-1-8-1,,siaw1243-1,8,hluelo katilo,hluelo katilo,[],( 3 + 5 ),[],,False,False,,1
+siaw1243-1-9-1,,siaw1243-1,9,katu katilo,katu katilo,[],( 4 + 5 ),[],,False,False,,1
+siaw1243-1-10-1,,siaw1243-1,10,okowolo,okowolo,[],,[],,False,False,,1
+siaw1243-1-11-1,,siaw1243-1,11,okowo lei somo,okowo lei somo,[],,[],,False,False,,1
+siaw1243-1-12-1,,siaw1243-1,12,okowo lei himolo,okowo lei himolo,[],,[],,False,False,,1
+siaw1243-1-13-1,,siaw1243-1,13,okowo lei hluelo,okowo lei hluelo,[],,[],,False,False,,1
+siaw1243-1-14-1,,siaw1243-1,14,okowo lei katukwiolo,okowo lei katukwiolo,[],,[],,False,False,,1
+siaw1243-1-15-1,,siaw1243-1,15,okowo lei katilo,okowo lei katilo,[],,[],,False,False,,1
+siaw1243-1-16-1,,siaw1243-1,16,okowo lei somolo katilo,okowo lei somolo katilo,[],,[],,False,False,,1
+siaw1243-1-17-1,,siaw1243-1,17,okowo lei himolo katilo,okowo lei himolo katilo,[],,[],,False,False,,1
+siaw1243-1-18-1,,siaw1243-1,18,okowo lei hluelo katilo,okowo lei hluelo katilo,[],,[],,False,False,,1
+siaw1243-1-19-1,,siaw1243-1,19,okowo lei katu katilo,okowo lei katu katilo,[],,[],,False,False,,1
+siaw1243-1-20-1,,siaw1243-1,20,okowo himolo,okowo himolo,[],,[],,False,False,,1
+siaw1243-1-21-1,,siaw1243-1,21,okowo himolo lei somo,okowo himolo lei somo,[],,[],,False,False,,1
+siaw1243-1-22-1,,siaw1243-1,22,okowo himolo lei himolo,okowo himolo lei himolo,[],,[],,False,False,,1
+siaw1243-1-23-1,,siaw1243-1,23,okowo himolo lei hluelo,okowo himolo lei hluelo,[],,[],,False,False,,1
+siaw1243-1-24-1,,siaw1243-1,24,okowo himolo lei katukwiolo,okowo himolo lei katukwiolo,[],,[],,False,False,,1
+siaw1243-1-25-1,,siaw1243-1,25,okowo himolo lei katilo,okowo himolo lei katilo,[],,[],,False,False,,1
+siaw1243-1-26-1,,siaw1243-1,26,okowo himolo lei somolo katilo,okowo himolo lei somolo katilo,[],,[],,False,False,,1
+siaw1243-1-27-1,,siaw1243-1,27,okowo himolo lei himolo katilo,okowo himolo lei himolo katilo,[],,[],,False,False,,1
+siaw1243-1-28-1,,siaw1243-1,28,okowo himolo lei hluelo katilo,okowo himolo lei hluelo katilo,[],,[],,False,False,,1
+siaw1243-1-29-1,,siaw1243-1,29,okowo himolo lei katu katilo,okowo himolo lei katu katilo,[],,[],,False,False,,1
+siaw1243-1-30-1,,siaw1243-1,30,okowo hluelo,okowo hluelo,[],,[],,False,False,,1
+siaw1243-1-40-1,,siaw1243-1,40,okowo katukwiolo,okowo katukwiolo,[],,[],,False,False,,1
+siaw1243-1-50-1,,siaw1243-1,50,okowo katilo,okowo katilo,[],,[],,False,False,,1
+siaw1243-1-60-1,,siaw1243-1,60,okowo somolo katilo,okowo somolo katilo,[],,[],,False,False,,1
+siaw1243-1-70-1,,siaw1243-1,70,okowo himolo katilo,okowo himolo katilo,[],,[],,False,False,,1
+siaw1243-1-80-1,,siaw1243-1,80,okowo hluelo katilo,okowo hluelo katilo,[],,[],,False,False,,1
+siaw1243-1-90-1,,siaw1243-1,90,okowo katu katilo,okowo katu katilo,[],,[],,False,False,,1

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kund1255-1-1-1,,kund1255-1,1,-mo or -mozi,-mo or -mozi,[],,[],,False,True,,1
+kund1255-1-2-1,,kund1255-1,2,-ŵili,-ŵili,[],,[],,False,False,,1
+kund1255-1-3-1,,kund1255-1,3,-tatu,-tatu,[],,[],,False,False,,1
+kund1255-1-4-1,,kund1255-1,4,-nai,-nai,[],,[],,False,False,,1
+kund1255-1-5-1,,kund1255-1,5,-sano,-sano,[],,[],,False,False,,1
+kund1255-1-6-1,,kund1255-1,6,-sano na -mo,-sano na -mo,[],( 5 + 1 ),[],,False,False,,1
+kund1255-1-7-1,,kund1255-1,7,-sano na -ŵîli,-sano na -ŵîli,[],( 5 + 2 ),[],,False,False,,1
+kund1255-1-8-1,,kund1255-1,8,-sano na -tatu,-sano na -tatu,[],( 5 + 3 ),[],,False,False,,1
+kund1255-1-9-1,,kund1255-1,9,-sano na -nai,-sano na -nai,[],( 5 + 4 ),[],,False,False,,1
+kund1255-1-10-1,,kund1255-1,10,kʰumi,kʰumi,[],,[],,False,False,,1
+kund1255-1-11-1,,kund1255-1,11,kʰumi na -mo,kʰumi na -mo,[],,[],,False,False,,1
+kund1255-1-12-1,,kund1255-1,12,kʰumi na -ŵili,kʰumi na -ŵili,[],,[],,False,False,,1
+kund1255-1-13-1,,kund1255-1,13,kʰumi na -tatu,kʰumi na -tatu,[],,[],,False,False,,1
+kund1255-1-14-1,,kund1255-1,14,kʰumi na -nái,kʰumi na -nái,[],,[],,False,False,,1
+kund1255-1-15-1,,kund1255-1,15,kʰumi na -sano,kʰumi na -sano,[],,[],,False,False,,1
+kund1255-1-16-1,,kund1255-1,16,kʰumi na -sano na -mo,kʰumi na -sano na -mo,[],,[],,False,False,,1
+kund1255-1-17-1,,kund1255-1,17,kʰumi na -sano na -ŵili,kʰumi na -sano na -ŵili,[],,[],,False,False,,1
+kund1255-1-18-1,,kund1255-1,18,kʰûmi na -sano na -tatu,kʰûmi na -sano na -tatu,[],,[],,False,False,,1
+kund1255-1-19-1,,kund1255-1,19,kʰûmi na -sano na -nai,kʰûmi na -sano na -nai,[],,[],,False,False,,1
+kund1255-1-20-1,,kund1255-1,20,makumi áŵili,makumi áŵili,[],,[],,False,False,,1
+kund1255-1-21-1,,kund1255-1,21,makumi áŵili na -mo,makumi áŵili na -mo,[],,[],,False,False,,1
+kund1255-1-22-1,,kund1255-1,22,makumi áŵili na -ŵili,makumi áŵili na -ŵili,[],,[],,False,False,,1
+kund1255-1-23-1,,kund1255-1,23,makumi áŵili na -tatu,makumi áŵili na -tatu,[],,[],,False,False,,1
+kund1255-1-24-1,,kund1255-1,24,makumi áŵili na -nai,makumi áŵili na -nai,[],,[],,False,False,,1
+kund1255-1-25-1,,kund1255-1,25,makumi áŵili na -sano,makumi áŵili na -sano,[],,[],,False,False,,1
+kund1255-1-26-1,,kund1255-1,26,makumi áŵili na -sano na -mo,makumi áŵili na -sano na -mo,[],,[],,False,False,,1
+kund1255-1-27-1,,kund1255-1,27,makumi áŵili na -sano na -ŵili,makumi áŵili na -sano na -ŵili,[],,[],,False,False,,1
+kund1255-1-28-1,,kund1255-1,28,makumi áŵili na -sano na -tatu,makumi áŵili na -sano na -tatu,[],,[],,False,False,,1
+kund1255-1-29-1,,kund1255-1,29,makumi áŵili na -sano na -nai,makumi áŵili na -sano na -nai,[],,[],,False,False,,1
+kund1255-1-30-1,,kund1255-1,30,makumi atatu,makumi atatu,[],,[],,False,False,,1
+kund1255-1-40-1,,kund1255-1,40,makumi anai,makumi anai,[],,[],,False,False,,1
+kund1255-1-50-1,,kund1255-1,50,makumi asano,makumi asano,[],,[],,False,False,,1
+kund1255-1-60-1,,kund1255-1,60,makumi asano na -mo,makumi asano na -mo,[],,[],,False,False,,1
+kund1255-1-70-1,,kund1255-1,70,makumi asano na -ŵili,makumi asano na -ŵili,[],,[],,False,False,,1
+kund1255-1-80-1,,kund1255-1,80,makumi asano na -tatu,makumi asano na -tatu,[],,[],,False,False,,1
+kund1255-1-90-1,,kund1255-1,90,makumi asano na -nai,makumi asano na -nai,[],,[],,False,False,,1
+kund1255-1-100-1,,kund1255-1,100,makumi kʰûmi,makumi kʰûmi,[],( 10 x 10 ),[],,False,False,,1
+kund1255-1-200-1,,kund1255-1,200,makumi kʰumi aŵili,makumi kʰumi aŵili,[],,[],,False,False,,1
+kund1255-1-1000-1,,kund1255-1,1000,-saŵeleŋeka * or sauzande,-saŵeleŋeka * or sauzande,[],,[],,False,True,,1
+kund1255-1-2000-1,,kund1255-1,2000,-saŵeleŋeka or -masauzande aŵili,-saŵeleŋeka or -masauzande aŵili,[],,[],,False,True,,1

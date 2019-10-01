@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+chop1243-1-1-1,,chop1243-1,1,-mué,-mué,[],,[],,False,False,,1
+chop1243-1-2-1,,chop1243-1,2,-mbiri,-mbiri,[],,[],,False,False,,1
+chop1243-1-3-1,,chop1243-1,3,-ràrú,-ràrú,[],,[],,False,False,,1
+chop1243-1-4-1,,chop1243-1,4,mùné,mùné,[],,[],,False,False,,1
+chop1243-1-5-1,,chop1243-1,5,nʼtʃànú,nʼtʃànú,[],,[],,False,False,,1
+chop1243-1-6-1,,chop1243-1,6,nʼtʃànú ní -mué,nʼtʃànú ní -mué,[],( 5 + 1 ),[],,False,False,,1
+chop1243-1-7-1,,chop1243-1,7,nʼtʃànú ní -mbiri,nʼtʃànú ní -mbiri,[],( 5 + 2 ),[],,False,False,,1
+chop1243-1-8-1,,chop1243-1,8,nʼtʃànú ní -ràrú,nʼtʃànú ní -ràrú,[],( 5 + 3 ),[],,False,False,,1
+chop1243-1-9-1,,chop1243-1,9,nʼtʃànú ní -mùné,nʼtʃànú ní -mùné,[],( 5 + 4 ),[],,False,False,,1
+chop1243-1-10-1,,chop1243-1,10,ɡúmí,ɡúmí,[],,[],,False,False,,1
+chop1243-1-11-1,,chop1243-1,11,ɡúmí ní mué,ɡúmí ní mué,[],,[],,False,False,,1
+chop1243-1-12-1,,chop1243-1,12,ɡúmí ní mbìrí,ɡúmí ní mbìrí,[],,[],,False,False,,1
+chop1243-1-13-1,,chop1243-1,13,ɡúmí ní rárú,ɡúmí ní rárú,[],,[],,False,False,,1
+chop1243-1-14-1,,chop1243-1,14,ɡúmí ní mùné,ɡúmí ní mùné,[],,[],,False,False,,1
+chop1243-1-15-1,,chop1243-1,15,ɡúmí ní nʼtʃànú,ɡúmí ní nʼtʃànú,[],,[],,False,False,,1
+chop1243-1-16-1,,chop1243-1,16,ɡúmí ní nʼtʃànú ní -mué,ɡúmí ní nʼtʃànú ní -mué,[],,[],,False,False,,1
+chop1243-1-17-1,,chop1243-1,17,ɡúmí ní nʼtʃànú ní -mbìrí,ɡúmí ní nʼtʃànú ní -mbìrí,[],,[],,False,False,,1
+chop1243-1-18-1,,chop1243-1,18,ɡúmí ní nʼtʃànú ní -ràrú,ɡúmí ní nʼtʃànú ní -ràrú,[],,[],,False,False,,1
+chop1243-1-19-1,,chop1243-1,19,ɡúmí ní nʼtʃànú ní -mùné,ɡúmí ní nʼtʃànú ní -mùné,[],,[],,False,False,,1
+chop1243-1-20-1,,chop1243-1,20,makúmé màmbìdí,makúmé màmbìdí,[],,[],,False,False,,1
+chop1243-1-21-1,,chop1243-1,21,makúmé màmbìdí ní -mwèyó,makúmé màmbìdí ní -mwèyó,[],,[],,False,False,,1
+chop1243-1-22-1,,chop1243-1,22,makúmé màmbìdí ní -bìdí,makúmé màmbìdí ní -bìdí,[],,[],,False,False,,1
+chop1243-1-23-1,,chop1243-1,23,makúmé màmbìdí ní -ràrú,makúmé màmbìdí ní -ràrú,[],,[],,False,False,,1
+chop1243-1-24-1,,chop1243-1,24,makúmé màmbìdí ní mùné,makúmé màmbìdí ní mùné,[],,[],,False,False,,1
+chop1243-1-25-1,,chop1243-1,25,makúmé màmbìdí ní nʼtʃànú,makúmé màmbìdí ní nʼtʃànú,[],,[],,False,False,,1
+chop1243-1-26-1,,chop1243-1,26,makúmé màmbìdí ní nʼtʃànú ní -mué,makúmé màmbìdí ní nʼtʃànú ní -mué,[],,[],,False,False,,1
+chop1243-1-27-1,,chop1243-1,27,makúmé màmbìdí ní nʼtʃànú ní -mbìrí,makúmé màmbìdí ní nʼtʃànú ní -mbìrí,[],,[],,False,False,,1
+chop1243-1-28-1,,chop1243-1,28,makúmé màmbìdí ní nʼtʃànú ní -ràrú,makúmé màmbìdí ní nʼtʃànú ní -ràrú,[],,[],,False,False,,1
+chop1243-1-29-1,,chop1243-1,29,makúmé màmbìdí ní nʼtʃànú ní -mùné,makúmé màmbìdí ní nʼtʃànú ní -mùné,[],,[],,False,False,,1
+chop1243-1-30-1,,chop1243-1,30,makúmé màràrú,makúmé màràrú,[],,[],,False,False,,1
+chop1243-1-40-1,,chop1243-1,40,mùné wá makúmé,mùné wá makúmé,[],,[],,False,False,,1
+chop1243-1-50-1,,chop1243-1,50,nʼtʃànú wá makúmé,nʼtʃànú wá makúmé,[],,[],,False,False,,1
+chop1243-1-60-1,,chop1243-1,60,nʼtʃànú ní -mué wá makúmé,nʼtʃànú ní -mué wá makúmé,[],,[],,False,False,,1
+chop1243-1-70-1,,chop1243-1,70,nʼtʃànú ní -mbìrí wá makúmé,nʼtʃànú ní -mbìrí wá makúmé,[],,[],,False,False,,1
+chop1243-1-80-1,,chop1243-1,80,nʼtʃànú ní -ràrú wá makúmé,nʼtʃànú ní -ràrú wá makúmé,[],,[],,False,False,,1
+chop1243-1-90-1,,chop1243-1,90,nʼtʃànú ní -mùné wá makúmé,nʼtʃànú ní -mùné wá makúmé,[],,[],,False,False,,1
+chop1243-1-100-1,,chop1243-1,100,dìzánà,dìzánà,[],,[],,False,False,,1
+chop1243-1-200-1,,chop1243-1,200,màzánà mábìdì,màzánà mábìdì,[],,[],,False,False,,1
+chop1243-1-1000-1,,chop1243-1,1000,kʰúlù,kʰúlù,[],,[],,False,False,,1
+chop1243-1-2000-1,,chop1243-1,2000,màkʰúlù màbìdí,màkʰúlù màbìdí,[],,[],,False,False,,1

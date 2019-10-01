@@ -1,0 +1,48 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+rong1264-2-1-1,,rong1264-2,1,tiɡɛ,tiɡɛ,[],,[],,False,False,,1
+rong1264-2-1-2,,rong1264-2,1,tiɡ,tiɡ,[],,[],,False,False,,1
+rong1264-2-2-1,,rong1264-2,2,nəʃɛ,nəʃɛ,[],,[],,False,False,,1
+rong1264-2-2-2,,rong1264-2,2,nhis,nhis,[],,[],,False,False,,1
+rong1264-2-3-1,,rong1264-2,3,sɯm,sɯm,[],,[],,False,False,,1
+rong1264-2-4-1,,rong1264-2,4,pi,pi,[],,[],,False,False,,1
+rong1264-2-5-1,,rong1264-2,5,ŋəĩ,ŋəĩ,[],,[],,False,False,,1
+rong1264-2-5-2,,rong1264-2,5,ŋa,ŋa,[],,[],,False,False,,1
+rong1264-2-6-1,,rong1264-2,6,tuɡu,tuɡu,[],,[],,False,False,,1
+rong1264-2-7-1,,rong1264-2,7,niʃɛ,niʃɛ,[],,[],,False,False,,1
+rong1264-2-8-1,,rong1264-2,8,jɛdɛ,jɛdɛ,[],,[],,False,False,,1
+rong1264-2-9-1,,rong1264-2,9,ɡui,ɡui,[],,[],,False,False,,1
+rong1264-2-10-1,,rong1264-2,10,t͡sì ??,t͡sì ??,[],,[],,False,True,cì,1
+rong1264-2-11-1,,rong1264-2,11,cɛtʰe,cɛtʰe,[],,[],,False,False,,1
+rong1264-2-12-1,,rong1264-2,12,t͡sɛɲe ?,t͡sɛɲe ?,[],,[],,False,True,cɛnye,1
+rong1264-2-13-1,,rong1264-2,13,cɛsɯm,cɛsɯm,[],,[],,False,False,,1
+rong1264-2-14-1,,rong1264-2,14,cɛpi,cɛpi,[],,[],,False,False,,1
+rong1264-2-15-1,,rong1264-2,15,cɛbaŋ,cɛbaŋ,[],,[],,False,False,,1
+rong1264-2-16-1,,rong1264-2,16,cɛto,cɛto,[],,[],,False,False,,1
+rong1264-2-17-1,,rong1264-2,17,cɛnye,cɛnye,[],,[],,False,False,,1
+rong1264-2-18-1,,rong1264-2,18,cɛbjɛ,cɛbjɛ,[],,[],,False,False,,1
+rong1264-2-19-1,,rong1264-2,19,cirɡù,cirɡù,[],,[],,False,False,,1
+rong1264-2-20-1,,rong1264-2,20,nə̀saː,nə̀saː,[],,[],,False,False,nə̀ssa,1
+rong1264-2-21-1,,rong1264-2,21,nə̀ssa tiɡɛ,nə̀ssa tiɡɛ,[],,[],,False,False,,1
+rong1264-2-22-1,,rong1264-2,22,nə̀ssa nəʃɛ,nə̀ssa nəʃɛ,[],,[],,False,False,,1
+rong1264-2-23-1,,rong1264-2,23,nə̀ssa sɯm,nə̀ssa sɯm,[],,[],,False,False,,1
+rong1264-2-24-1,,rong1264-2,24,nə̀ssa pi,nə̀ssa pi,[],,[],,False,False,,1
+rong1264-2-25-1,,rong1264-2,25,nə̀ssa ŋəĩ,nə̀ssa ŋəĩ,[],,[],,False,False,,1
+rong1264-2-26-1,,rong1264-2,26,nə̀ssa tuɡu,nə̀ssa tuɡu,[],,[],,False,False,,1
+rong1264-2-27-1,,rong1264-2,27,nə̀ssa niʃɛ,nə̀ssa niʃɛ,[],,[],,False,False,,1
+rong1264-2-28-1,,rong1264-2,28,nə̀ssa jɛdɛ,nə̀ssa jɛdɛ,[],,[],,False,False,,1
+rong1264-2-29-1,,rong1264-2,29,nə̀ssa ɡui,nə̀ssa ɡui,[],,[],,False,False,,1
+rong1264-2-30-1,,rong1264-2,30,sɯmsa,sɯmsa,[],,[],,False,False,,1
+rong1264-2-30-2,,rong1264-2,30,nəsa cì,nəsa cì,[],( 20 + 10),[],,False,False,,1
+rong1264-2-40-1,,rong1264-2,40,pisa,pisa,[],,[],,False,False,,1
+rong1264-2-50-1,,rong1264-2,50,ŋasa,ŋasa,[],,[],,False,False,,1
+rong1264-2-50-2,,rong1264-2,50,pisa cì,pisa cì,[],( 40 + 10),[],,False,False,,1
+rong1264-2-60-1,,rong1264-2,60,tuksa,tuksa,[],,[],,False,False,,1
+rong1264-2-70-1,,rong1264-2,70,tuksa cì,tuksa cì,[],( 60 + 10),[],,False,False,,1
+rong1264-2-80-1,,rong1264-2,80,jətsʰa [d͡ʒətsʰa],jətsʰa [d͡ʒətsʰa],[],( sʰ = ???),[],,False,True,,1
+rong1264-2-90-1,,rong1264-2,90,jətsʰa cì,jətsʰa cì,[],( 80 + 10),[],,False,False,,1
+rong1264-2-100-1,,rong1264-2,100,rà,rà,[],,[],,False,False,,1
+rong1264-2-100-2,,rong1264-2,100,səi,səi,[],< Indo-Aryan ,[],,True,False,,1
+rong1264-2-100-3,,rong1264-2,100,gya,gya,[],,[],,False,False,,1
+rong1264-2-200-1,,rong1264-2,200,nəʃɛ səi,nəʃɛ səi,[],,[],,False,False,,1
+rong1264-2-1000-1,,rong1264-2,1000,had͡ʒar,had͡ʒar,[],< Indo-Aryan ,[],,True,False,,1
+rong1264-2-2000-1,,rong1264-2,2000,nəʃɛ had͡ʒar,nəʃɛ had͡ʒar,[],,[],,False,False,,1

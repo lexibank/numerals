@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bamb1262-1-1-1,,bamb1262-1,1,hishkì,hishkì,[],,[],,False,False,,1
+bamb1262-1-2-1,,bamb1262-1,2,numbo,numbo,[],,[],,False,False,,1
+bamb1262-1-3-1,,bamb1262-1,3,teezè,teezè,[],,[],,False,False,,1
+bamb1262-1-4-1,,bamb1262-1,4,mesʼe,mesʼe,[],,[],,False,False,,1
+bamb1262-1-5-1,,bamb1262-1,5,kʼwíssí,kʼwíssí,[],,[],,False,False,,1
+bamb1262-1-6-1,,bamb1262-1,6,kyaansè,kyaansè,[],,[],,False,False,,1
+bamb1262-1-7-1,,bamb1262-1,7,kúlùmbò,kúlùmbò,[],( litː ''hand-two'' ? ),[],,False,False,,1
+bamb1262-1-8-1,,bamb1262-1,8,kúteezé,kúteezé,[],( litː ''hand-three''? ),[],,False,False,,1
+bamb1262-1-9-1,,bamb1262-1,9,kúsmésʼe,kúsmésʼe,[],( litː ''hand-four'' ? ),[],,False,False,,1
+bamb1262-1-10-1,,bamb1262-1,10,kúúsú,kúúsú,[],,[],,False,False,,1
+bamb1262-1-11-1,,bamb1262-1,11,kúús túɡét hishkì,kúús túɡét hishkì,[],( 10-foot-from-1 ),[],,False,False,,1
+bamb1262-1-12-1,,bamb1262-1,12,kúús túɡét numbo,kúús túɡét numbo,[],,[],,False,False,,1
+bamb1262-1-13-1,,bamb1262-1,13,kúús túɡét teezè,kúús túɡét teezè,[],,[],,False,False,,1
+bamb1262-1-14-1,,bamb1262-1,14,kúús túɡét mesʼe,kúús túɡét mesʼe,[],,[],,False,False,,1
+bamb1262-1-15-1,,bamb1262-1,15,kúús túɡét kʼwíssí,kúús túɡét kʼwíssí,[],,[],,False,False,,1
+bamb1262-1-16-1,,bamb1262-1,16,kúús túɡét kyaansè,kúús túɡét kyaansè,[],,[],,False,False,,1
+bamb1262-1-17-1,,bamb1262-1,17,kúús túɡét kúlùmbò,kúús túɡét kúlùmbò,[],,[],,False,False,,1
+bamb1262-1-18-1,,bamb1262-1,18,kúús túɡét kúreezé,kúús túɡét kúreezé,[],,[],,False,False,,1
+bamb1262-1-19-1,,bamb1262-1,19,kúús túɡét kúsmésʼe,kúús túɡét kúsmésʼe,[],,[],,False,False,,1
+bamb1262-1-20-1,,bamb1262-1,20,numbo kuuse,numbo kuuse,[],( 2 x 10 ),[],,False,False,,1
+bamb1262-1-21-1,,bamb1262-1,21,numbo kuusan hishkì,numbo kuusan hishkì,[],,[],,False,False,,1
+bamb1262-1-22-1,,bamb1262-1,22,numbo kuusan numbo,numbo kuusan numbo,[],,[],,False,False,,1
+bamb1262-1-23-1,,bamb1262-1,23,numbo kuusan teezè,numbo kuusan teezè,[],,[],,False,False,,1
+bamb1262-1-24-1,,bamb1262-1,24,numbo kuusan mesʼe,numbo kuusan mesʼe,[],,[],,False,False,,1
+bamb1262-1-25-1,,bamb1262-1,25,numbo kuusan kʼwíssí,numbo kuusan kʼwíssí,[],,[],,False,False,,1
+bamb1262-1-26-1,,bamb1262-1,26,numbo kuusan kyaansè,numbo kuusan kyaansè,[],,[],,False,False,,1
+bamb1262-1-27-1,,bamb1262-1,27,numbo kuusan kúlùmbò,numbo kuusan kúlùmbò,[],,[],,False,False,,1
+bamb1262-1-28-1,,bamb1262-1,28,numbo kuusan kúteezé,numbo kuusan kúteezé,[],,[],,False,False,,1
+bamb1262-1-29-1,,bamb1262-1,29,numbo kuusan kúsmésʼe,numbo kuusan kúsmésʼe,[],,[],,False,False,,1
+bamb1262-1-30-1,,bamb1262-1,30,teezè kuuse,teezè kuuse,[],,[],,False,False,,1
+bamb1262-1-40-1,,bamb1262-1,40,mesʼe kuuse,mesʼe kuuse,[],,[],,False,False,,1
+bamb1262-1-50-1,,bamb1262-1,50,kʼwíssí kuuse,kʼwíssí kuuse,[],,[],,False,False,,1
+bamb1262-1-60-1,,bamb1262-1,60,kyaansè kuuse,kyaansè kuuse,[],,[],,False,False,,1
+bamb1262-1-70-1,,bamb1262-1,70,kúlùmbò kuuse,kúlùmbò kuuse,[],,[],,False,False,,1
+bamb1262-1-80-1,,bamb1262-1,80,kúreezé kuuse,kúreezé kuuse,[],,[],,False,False,,1
+bamb1262-1-90-1,,bamb1262-1,90,kúsmésʼè kuuse,kúsmésʼè kuuse,[],,[],,False,False,,1
+bamb1262-1-100-1,,bamb1262-1,100,kúúsé kuuse,kúúsé kuuse,[],,[],,False,False,,1
+bamb1262-1-200-1,,bamb1262-1,200,numbo kuusan kúúsán,numbo kuusan kúúsán,[],,[],,False,False,,1
+bamb1262-1-1000-1,,bamb1262-1,1000,hishkì kuusan kúúsé kuusan,hishkì kuusan kúúsé kuusan,[],( *),[],,False,False,,1
+bamb1262-1-2000-1,,bamb1262-1,2000,numbo kuusan kúúsé kuusan,numbo kuusan kúúsé kuusan,[],,[],,False,False,,1

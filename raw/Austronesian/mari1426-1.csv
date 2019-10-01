@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mari1426-1-1-1,,mari1426-1,1,tewa,tewa,[],,[],,False,False,,1
+mari1426-1-2-1,,mari1426-1,2,rua,rua,[],,[],,False,False,,1
+mari1426-1-3-1,,mari1426-1,3,tolu,tolu,[],,[],,False,False,,1
+mari1426-1-4-1,,mari1426-1,4,fati,fati,[],,[],,False,False,,1
+mari1426-1-5-1,,mari1426-1,5,tafalima,tafalima,[],,[],,False,False,,1
+mari1426-1-6-1,,mari1426-1,6,lafatea,lafatea,[],( 5 + 1 ),[],,False,False,,1
+mari1426-1-7-1,,mari1426-1,7,lafarua,lafarua,[],( 5 + 2 ),[],,False,False,,1
+mari1426-1-8-1,,mari1426-1,8,lafatolu,lafatolu,[],( 5 + 3 ),[],,False,False,,1
+mari1426-1-9-1,,mari1426-1,9,lafati,lafati,[],( 5 + 4 ),[],,False,False,,1
+mari1426-1-10-1,,mari1426-1,10,saŋwul,saŋwul,[],,[],,False,False,,1
+mari1426-1-11-1,,mari1426-1,11,sawul tewa daŋwan tewa,sawul tewa daŋwan tewa,[],,[],,False,False,,1
+mari1426-1-12-1,,mari1426-1,12,sawul tewa daŋwan rua,sawul tewa daŋwan rua,[],,[],,False,False,,1
+mari1426-1-13-1,,mari1426-1,13,sawul tewa daŋwan tolu,sawul tewa daŋwan tolu,[],,[],,False,False,,1
+mari1426-1-14-1,,mari1426-1,14,sawul tewa daŋwan fati,sawul tewa daŋwan fati,[],,[],,False,False,,1
+mari1426-1-15-1,,mari1426-1,15,sawul tewa daŋwan tafalima,sawul tewa daŋwan tafalima,[],,[],,False,False,,1
+mari1426-1-16-1,,mari1426-1,16,sawul tewa daŋwan lafatea,sawul tewa daŋwan lafatea,[],,[],,False,False,,1
+mari1426-1-17-1,,mari1426-1,17,sawul tewa daŋwan lafarua,sawul tewa daŋwan lafarua,[],,[],,False,False,,1
+mari1426-1-18-1,,mari1426-1,18,sawul tewa daŋwan lafatolu,sawul tewa daŋwan lafatolu,[],,[],,False,False,,1
+mari1426-1-19-1,,mari1426-1,19,sawul tewa daŋwan lafati,sawul tewa daŋwan lafati,[],,[],,False,False,,1
+mari1426-1-20-1,,mari1426-1,20,sawul rua,sawul rua,[],,[],,False,False,,1
+mari1426-1-21-1,,mari1426-1,21,sawul rua daŋwan tewa,sawul rua daŋwan tewa,[],,[],,False,False,,1
+mari1426-1-22-1,,mari1426-1,22,sawul rua daŋwan rua,sawul rua daŋwan rua,[],,[],,False,False,,1
+mari1426-1-23-1,,mari1426-1,23,sawul rua daŋwan tolu,sawul rua daŋwan tolu,[],,[],,False,False,,1
+mari1426-1-24-1,,mari1426-1,24,sawul rua daŋwan fati,sawul rua daŋwan fati,[],,[],,False,False,,1
+mari1426-1-25-1,,mari1426-1,25,sawul rua daŋwan tafalima,sawul rua daŋwan tafalima,[],,[],,False,False,,1
+mari1426-1-26-1,,mari1426-1,26,sawul rua daŋwan lafatea,sawul rua daŋwan lafatea,[],,[],,False,False,,1
+mari1426-1-27-1,,mari1426-1,27,sawul rua daŋwan lafarua,sawul rua daŋwan lafarua,[],,[],,False,False,,1
+mari1426-1-28-1,,mari1426-1,28,sawul rua daŋwan lafatolu,sawul rua daŋwan lafatolu,[],,[],,False,False,,1
+mari1426-1-29-1,,mari1426-1,29,sawul rua daŋwan lafati,sawul rua daŋwan lafati,[],,[],,False,False,,1
+mari1426-1-30-1,,mari1426-1,30,sawul tolu,sawul tolu,[],,[],,False,False,,1
+mari1426-1-40-1,,mari1426-1,40,sawul fati,sawul fati,[],,[],,False,False,,1
+mari1426-1-50-1,,mari1426-1,50,sawul tafalima,sawul tafalima,[],,[],,False,False,,1
+mari1426-1-60-1,,mari1426-1,60,sawul lafatea,sawul lafatea,[],,[],,False,False,,1
+mari1426-1-70-1,,mari1426-1,70,sawul lafarua,sawul lafarua,[],,[],,False,False,,1
+mari1426-1-80-1,,mari1426-1,80,sawul lafatolu,sawul lafatolu,[],,[],,False,False,,1
+mari1426-1-90-1,,mari1426-1,90,sawul lafati,sawul lafati,[],,[],,False,False,,1
+mari1426-1-100-1,,mari1426-1,100,mwendol,mwendol,[],,[],,False,False,,1
+mari1426-1-200-1,,mari1426-1,200,mwendol rua,mwendol rua,[],,[],,False,False,,1
+mari1426-1-1000-1,,mari1426-1,1000,tari,tari,[],,[],,False,False,,1
+mari1426-1-2000-1,,mari1426-1,2000,tari rua ?,tari rua ?,[],( not sure),[],,False,True,,1
