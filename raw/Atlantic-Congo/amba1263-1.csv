@@ -1,31 +1,31 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-amba1263-1-1-1,,amba1263-1,1,moti,moti,[],,[],,False,False,,1
-amba1263-1-2-1,,amba1263-1,2,ɓalɪ,ɓalɪ,[],,[],,False,False,,1
-amba1263-1-3-1,,amba1263-1,3,salɔ,salɔ,[],,[],,False,False,,1
-amba1263-1-4-1,,amba1263-1,4,ini,ini,[],,[],,False,False,,1
-amba1263-1-5-1,,amba1263-1,5,tanɔ,tanɔ,[],,[],,False,False,,1
-amba1263-1-6-1,,amba1263-1,6,nkaɡa,nkaɡa,[],,[],,False,False,,1
-amba1263-1-7-1,,amba1263-1,7,ntʃambu,ntʃambu,[],,[],,False,False,,1
-amba1263-1-8-1,,amba1263-1,8,nanɛhɛ,nanɛhɛ,[],,[],,False,False,,1
-amba1263-1-9-1,,amba1263-1,9,soɓi,soɓi,[],,[],,False,False,,1
-amba1263-1-10-1,,amba1263-1,10,komi,komi,[],,[],,False,False,,1
-amba1263-1-11-1,,amba1263-1,11,komi na mulu moti,komi na mulu moti,[],,[],,False,False,,1
-amba1263-1-12-1,,amba1263-1,12,komi na mulu ɓalɪ,komi na mulu ɓalɪ,[],,[],,False,False,,1
-amba1263-1-13-1,,amba1263-1,13,komi na mulu salɔ,komi na mulu salɔ,[],,[],,False,False,,1
-amba1263-1-14-1,,amba1263-1,14,komi na mulu ini,komi na mulu ini,[],,[],,False,False,,1
-amba1263-1-15-1,,amba1263-1,15,komi na mulu tanɔ,komi na mulu tanɔ,[],,[],,False,False,,1
-amba1263-1-16-1,,amba1263-1,16,komi na mulu nkaɡa,komi na mulu nkaɡa,[],,[],,False,False,,1
-amba1263-1-17-1,,amba1263-1,17,komi na mulu ntʃambu,komi na mulu ntʃambu,[],,[],,False,False,,1
-amba1263-1-18-1,,amba1263-1,18,komi na mulu nanɛhɛ,komi na mulu nanɛhɛ,[],,[],,False,False,,1
-amba1263-1-19-1,,amba1263-1,19,komi na mulu soɓi,komi na mulu soɓi,[],,[],,False,False,,1
-amba1263-1-20-1,,amba1263-1,20,ɓwasi moti,ɓwasi moti,[],('twenty one'),[],,False,False,,1
-amba1263-1-21-1,,amba1263-1,21,ɓwasi moti na mulu moti,ɓwasi moti na mulu moti,[],,[],,False,False,,1
-amba1263-1-30-1,,amba1263-1,30,ɓwasi moti na komi,ɓwasi moti na komi,[],( 1 x 20 + 10),[],,False,False,,1
-amba1263-1-40-1,,amba1263-1,40,ɓwasi ɓalɪ,ɓwasi ɓalɪ,[],('twenty two'),[],,False,False,,1
-amba1263-1-50-1,,amba1263-1,50,ɓwasi ɓalɪ na komi,ɓwasi ɓalɪ na komi,[],,[],,False,False,,1
-amba1263-1-60-1,,amba1263-1,60,ɓwasi salɔ,ɓwasi salɔ,[],('twenty three'),[],,False,False,,1
-amba1263-1-70-1,,amba1263-1,70,ɓwasi salɔ na komi,ɓwasi salɔ na komi,[],,[],,False,False,,1
-amba1263-1-80-1,,amba1263-1,80,ɓwasi ini,ɓwasi ini,[],('twenty four'),[],,False,False,,1
-amba1263-1-90-1,,amba1263-1,90,ɓwasi ini na komi,ɓwasi ini na komi,[],,[],,False,False,,1
-amba1263-1-100-1,,amba1263-1,100,lʊka moti,lʊka moti,[],(literally: 'axe one'),[],,False,False,,1
-amba1263-1-1000-1,,amba1263-1,1000,ɓuebue,ɓuebue,[],,[],,False,False,,1
+amba1263-1-1-1,,amba1263-1,1,moti,moti,[],,['chan2019'],,False,False,,1
+amba1263-1-2-1,,amba1263-1,2,ɓalɪ,ɓalɪ,[],,['chan2019'],,False,False,,1
+amba1263-1-3-1,,amba1263-1,3,salɔ,salɔ,[],,['chan2019'],,False,False,,1
+amba1263-1-4-1,,amba1263-1,4,ini,ini,[],,['chan2019'],,False,False,,1
+amba1263-1-5-1,,amba1263-1,5,tanɔ,tanɔ,[],,['chan2019'],,False,False,,1
+amba1263-1-6-1,,amba1263-1,6,nkaɡa,nkaɡa,[],,['chan2019'],,False,False,,1
+amba1263-1-7-1,,amba1263-1,7,ntʃambu,ntʃambu,[],,['chan2019'],,False,False,,1
+amba1263-1-8-1,,amba1263-1,8,nanɛhɛ,nanɛhɛ,[],,['chan2019'],,False,False,,1
+amba1263-1-9-1,,amba1263-1,9,soɓi,soɓi,[],,['chan2019'],,False,False,,1
+amba1263-1-10-1,,amba1263-1,10,komi,komi,[],,['chan2019'],,False,False,,1
+amba1263-1-11-1,,amba1263-1,11,komi na mulu moti,komi na mulu moti,[],,['chan2019'],,False,False,,1
+amba1263-1-12-1,,amba1263-1,12,komi na mulu ɓalɪ,komi na mulu ɓalɪ,[],,['chan2019'],,False,False,,1
+amba1263-1-13-1,,amba1263-1,13,komi na mulu salɔ,komi na mulu salɔ,[],,['chan2019'],,False,False,,1
+amba1263-1-14-1,,amba1263-1,14,komi na mulu ini,komi na mulu ini,[],,['chan2019'],,False,False,,1
+amba1263-1-15-1,,amba1263-1,15,komi na mulu tanɔ,komi na mulu tanɔ,[],,['chan2019'],,False,False,,1
+amba1263-1-16-1,,amba1263-1,16,komi na mulu nkaɡa,komi na mulu nkaɡa,[],,['chan2019'],,False,False,,1
+amba1263-1-17-1,,amba1263-1,17,komi na mulu ntʃambu,komi na mulu ntʃambu,[],,['chan2019'],,False,False,,1
+amba1263-1-18-1,,amba1263-1,18,komi na mulu nanɛhɛ,komi na mulu nanɛhɛ,[],,['chan2019'],,False,False,,1
+amba1263-1-19-1,,amba1263-1,19,komi na mulu soɓi,komi na mulu soɓi,[],,['chan2019'],,False,False,,1
+amba1263-1-20-1,,amba1263-1,20,ɓwasi moti,ɓwasi moti,[],('twenty one'),['chan2019'],,False,False,,1
+amba1263-1-21-1,,amba1263-1,21,ɓwasi moti na mulu moti,ɓwasi moti na mulu moti,[],,['chan2019'],,False,False,,1
+amba1263-1-30-1,,amba1263-1,30,ɓwasi moti na komi,ɓwasi moti na komi,[],( 1 x 20 + 10),['chan2019'],,False,False,,1
+amba1263-1-40-1,,amba1263-1,40,ɓwasi ɓalɪ,ɓwasi ɓalɪ,[],('twenty two'),['chan2019'],,False,False,,1
+amba1263-1-50-1,,amba1263-1,50,ɓwasi ɓalɪ na komi,ɓwasi ɓalɪ na komi,[],,['chan2019'],,False,False,,1
+amba1263-1-60-1,,amba1263-1,60,ɓwasi salɔ,ɓwasi salɔ,[],('twenty three'),['chan2019'],,False,False,,1
+amba1263-1-70-1,,amba1263-1,70,ɓwasi salɔ na komi,ɓwasi salɔ na komi,[],,['chan2019'],,False,False,,1
+amba1263-1-80-1,,amba1263-1,80,ɓwasi ini,ɓwasi ini,[],('twenty four'),['chan2019'],,False,False,,1
+amba1263-1-90-1,,amba1263-1,90,ɓwasi ini na komi,ɓwasi ini na komi,[],,['chan2019'],,False,False,,1
+amba1263-1-100-1,,amba1263-1,100,lʊka moti,lʊka moti,[],(literally: 'axe one'),['chan2019'],,False,False,,1
+amba1263-1-1000-1,,amba1263-1,1000,ɓuebue,ɓuebue,[],,['chan2019'],,False,False,,1

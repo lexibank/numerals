@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pima1248-1-1-1,,pima1248-1,1,hɨmak,hɨmak,[],,[],,False,False,,1
-pima1248-1-2-1,,pima1248-1,2,ɡoːk,ɡoːk,[],,[],,False,False,,1
-pima1248-1-3-1,,pima1248-1,3,vaik,vaik,[],,[],,False,False,,1
-pima1248-1-4-1,,pima1248-1,4,ma:kav,ma:kav,[],,[],,False,False,,1
-pima1248-1-5-1,,pima1248-1,5,mavɨːs,mavɨːs,[],( litː 'the whole hand' ),[],,False,False,,1
-pima1248-1-6-1,,pima1248-1,6,vusin,vusin,[],,[],,False,False,,1
-pima1248-1-7-1,,pima1248-1,7,sieːt,sieːt,[],,[],,False,False,,1
-pima1248-1-8-1,,pima1248-1,8,ɡoko makav,ɡoko makav,[],( 2 x 4 ) ?,[],,False,False,,1
-pima1248-1-9-1,,pima1248-1,9,nueːv,nueːv,[],( < Spanish ),[],,True,False,,1
-pima1248-1-10-1,,pima1248-1,10,aipivɨːs,aipivɨːs,[],,[],,False,False,,1
-pima1248-1-11-1,,pima1248-1,11,aipivɨːs dam maːkav,aipivɨːs dam maːkav,[],,[],,False,False,,1
-pima1248-1-12-1,,pima1248-1,12,aipivɨːs dam ɡoːk,aipivɨːs dam ɡoːk,[],,[],,False,False,,1
-pima1248-1-13-1,,pima1248-1,13,aipivɨːs dam vaik,aipivɨːs dam vaik,[],,[],,False,False,,1
-pima1248-1-14-1,,pima1248-1,14,aipivɨːs dam ma:kav,aipivɨːs dam ma:kav,[],,[],,False,False,,1
-pima1248-1-15-1,,pima1248-1,15,kins,kins,[],( < Spanish ),[],,True,False,,1
-pima1248-1-16-1,,pima1248-1,16,aipivɨːs dam,aipivɨːs dam,[],,[],,False,False,,1
-pima1248-1-17-1,,pima1248-1,17,diesisieːt,diesisieːt,[],( < Spanish ),[],,True,False,,1
-pima1248-1-18-1,,pima1248-1,18,aipivɨːs dam,aipivɨːs dam,[],,[],,False,False,,1
-pima1248-1-19-1,,pima1248-1,19,diesinuev,diesinuev,[],( < Spanish ),[],,True,False,,1
-pima1248-1-20-1,,pima1248-1,20,hɨmk oːb,hɨmk oːb,[],(litː 'one person'),[],,False,False,,1
-pima1248-1-21-1,,pima1248-1,21,hɨmk oːb damhɨmako,hɨmk oːb damhɨmako,[],,[],,False,False,,1
-pima1248-1-22-1,,pima1248-1,22,hɨmk oːbɡoːk,hɨmk oːbɡoːk,[],,[],,False,False,,1
-pima1248-1-23-1,,pima1248-1,23,hɨmk oːbvaik,hɨmk oːbvaik,[],,[],,False,False,,1
-pima1248-1-24-1,,pima1248-1,24,hɨmk oːb ma:kav,hɨmk oːb ma:kav,[],,[],,False,False,,1
-pima1248-1-25-1,,pima1248-1,25,hɨmk oːb mavɨːs,hɨmk oːb mavɨːs,[],,[],,False,False,,1
-pima1248-1-26-1,,pima1248-1,26,hɨmk oːb vusin,hɨmk oːb vusin,[],,[],,False,False,,1
-pima1248-1-27-1,,pima1248-1,27,veintisiete,veintisiete,[],( < Spanish ),[],,True,False,,1
-pima1248-1-28-1,,pima1248-1,28,hɨmk oːb ɡoko makav,hɨmk oːb ɡoko makav,[],,[],,False,False,,1
-pima1248-1-29-1,,pima1248-1,29,veintinueve,veintinueve,[],( < Spanish ),[],,True,False,,1
-pima1248-1-30-1,,pima1248-1,30,hɨmk oːb dam aipivɨːs,hɨmk oːb dam aipivɨːs,[],,[],,False,False,,1
-pima1248-1-40-1,,pima1248-1,40,kuareːnt,kuareːnt,[],( < Spanish ),[],,True,False,,1
-pima1248-1-50-1,,pima1248-1,50,sinkueːnt,sinkueːnt,[],( < Spanish ),[],,True,False,,1
-pima1248-1-60-1,,pima1248-1,60,vaikoːb,vaikoːb,[],,[],,False,False,,1
-pima1248-1-70-1,,pima1248-1,70,vaikoːb dam aipivɨːs,vaikoːb dam aipivɨːs,[],,[],,False,False,,1
-pima1248-1-80-1,,pima1248-1,80,missing,missing,[],,[],,False,True,,1
-pima1248-1-90-1,,pima1248-1,90,noventa,noventa,[],( < Spanish ),[],,True,False,,1
-pima1248-1-100-1,,pima1248-1,100,hɨmksieːnt,hɨmksieːnt,[],( < Spanish ),[],,True,False,,1
-pima1248-1-200-1,,pima1248-1,200,ɡoːk sieːnt,ɡoːk sieːnt,[],,[],,False,False,,1
-pima1248-1-1000-1,,pima1248-1,1000,hɨmk mil,hɨmk mil,[],( < Spanish ),[],,True,False,,1
-pima1248-1-2000-1,,pima1248-1,2000,ɡoːk mil,ɡoːk mil,[],,[],,False,False,,1
+pima1248-1-1-1,,pima1248-1,1,hɨmak,hɨmak,[],,['chan2019'],,False,False,,1
+pima1248-1-2-1,,pima1248-1,2,ɡoːk,ɡoːk,[],,['chan2019'],,False,False,,1
+pima1248-1-3-1,,pima1248-1,3,vaik,vaik,[],,['chan2019'],,False,False,,1
+pima1248-1-4-1,,pima1248-1,4,ma:kav,ma:kav,[],,['chan2019'],,False,False,,1
+pima1248-1-5-1,,pima1248-1,5,mavɨːs,mavɨːs,[],( litː 'the whole hand' ),['chan2019'],,False,False,,1
+pima1248-1-6-1,,pima1248-1,6,vusin,vusin,[],,['chan2019'],,False,False,,1
+pima1248-1-7-1,,pima1248-1,7,sieːt,sieːt,[],,['chan2019'],,False,False,,1
+pima1248-1-8-1,,pima1248-1,8,ɡoko makav,ɡoko makav,[],( 2 x 4 ) ?,['chan2019'],,False,False,,1
+pima1248-1-9-1,,pima1248-1,9,nueːv,nueːv,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-10-1,,pima1248-1,10,aipivɨːs,aipivɨːs,[],,['chan2019'],,False,False,,1
+pima1248-1-11-1,,pima1248-1,11,aipivɨːs dam maːkav,aipivɨːs dam maːkav,[],,['chan2019'],,False,False,,1
+pima1248-1-12-1,,pima1248-1,12,aipivɨːs dam ɡoːk,aipivɨːs dam ɡoːk,[],,['chan2019'],,False,False,,1
+pima1248-1-13-1,,pima1248-1,13,aipivɨːs dam vaik,aipivɨːs dam vaik,[],,['chan2019'],,False,False,,1
+pima1248-1-14-1,,pima1248-1,14,aipivɨːs dam ma:kav,aipivɨːs dam ma:kav,[],,['chan2019'],,False,False,,1
+pima1248-1-15-1,,pima1248-1,15,kins,kins,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-16-1,,pima1248-1,16,aipivɨːs dam,aipivɨːs dam,[],,['chan2019'],,False,False,,1
+pima1248-1-17-1,,pima1248-1,17,diesisieːt,diesisieːt,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-18-1,,pima1248-1,18,aipivɨːs dam,aipivɨːs dam,[],,['chan2019'],,False,False,,1
+pima1248-1-19-1,,pima1248-1,19,diesinuev,diesinuev,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-20-1,,pima1248-1,20,hɨmk oːb,hɨmk oːb,[],(litː 'one person'),['chan2019'],,False,False,,1
+pima1248-1-21-1,,pima1248-1,21,hɨmk oːb damhɨmako,hɨmk oːb damhɨmako,[],,['chan2019'],,False,False,,1
+pima1248-1-22-1,,pima1248-1,22,hɨmk oːbɡoːk,hɨmk oːbɡoːk,[],,['chan2019'],,False,False,,1
+pima1248-1-23-1,,pima1248-1,23,hɨmk oːbvaik,hɨmk oːbvaik,[],,['chan2019'],,False,False,,1
+pima1248-1-24-1,,pima1248-1,24,hɨmk oːb ma:kav,hɨmk oːb ma:kav,[],,['chan2019'],,False,False,,1
+pima1248-1-25-1,,pima1248-1,25,hɨmk oːb mavɨːs,hɨmk oːb mavɨːs,[],,['chan2019'],,False,False,,1
+pima1248-1-26-1,,pima1248-1,26,hɨmk oːb vusin,hɨmk oːb vusin,[],,['chan2019'],,False,False,,1
+pima1248-1-27-1,,pima1248-1,27,veintisiete,veintisiete,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-28-1,,pima1248-1,28,hɨmk oːb ɡoko makav,hɨmk oːb ɡoko makav,[],,['chan2019'],,False,False,,1
+pima1248-1-29-1,,pima1248-1,29,veintinueve,veintinueve,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-30-1,,pima1248-1,30,hɨmk oːb dam aipivɨːs,hɨmk oːb dam aipivɨːs,[],,['chan2019'],,False,False,,1
+pima1248-1-40-1,,pima1248-1,40,kuareːnt,kuareːnt,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-50-1,,pima1248-1,50,sinkueːnt,sinkueːnt,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-60-1,,pima1248-1,60,vaikoːb,vaikoːb,[],,['chan2019'],,False,False,,1
+pima1248-1-70-1,,pima1248-1,70,vaikoːb dam aipivɨːs,vaikoːb dam aipivɨːs,[],,['chan2019'],,False,False,,1
+pima1248-1-80-1,,pima1248-1,80,missing,missing,[],,['chan2019'],,False,True,,1
+pima1248-1-90-1,,pima1248-1,90,noventa,noventa,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-100-1,,pima1248-1,100,hɨmksieːnt,hɨmksieːnt,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-200-1,,pima1248-1,200,ɡoːk sieːnt,ɡoːk sieːnt,[],,['chan2019'],,False,False,,1
+pima1248-1-1000-1,,pima1248-1,1000,hɨmk mil,hɨmk mil,[],( < Spanish ),['chan2019'],,True,False,,1
+pima1248-1-2000-1,,pima1248-1,2000,ɡoːk mil,ɡoːk mil,[],,['chan2019'],,False,False,,1

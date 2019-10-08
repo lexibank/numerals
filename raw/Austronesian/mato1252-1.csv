@@ -1,22 +1,22 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mato1252-1-1-1,,mato1252-1,1,tɑininɑu,tɑininɑu,[],,[],,False,False,,1
-mato1252-1-2-1,,mato1252-1,2,luwɑ,luwɑ,[],,[],,False,False,,1
-mato1252-1-3-1,,mato1252-1,3,tuwɑ,tuwɑ,[],,[],,False,False,,1
-mato1252-1-3-2,,mato1252-1,3,luɑ hiliɑnɑ,luɑ hiliɑnɑ,[],< Geoff Smith  ( 2 + 1 ),[],,True,False,,1
-mato1252-1-4-1,,mato1252-1,4,luwɑdi luwɑdi,luwɑdi luwɑdi,[],( 2 + 2 ),[],,False,False,,1
-mato1252-1-5-1,,mato1252-1,5,luwɑdi luwɑdi hiliɑdiŋɑ,luwɑdi luwɑdi hiliɑdiŋɑ,[],,[],,False,False,,1
-mato1252-1-5-2,,mato1252-1,5,hiliɑnadinɑ,hiliɑnadinɑ,[],< Geoff Smith 1984 ,[],,True,False,,1
-mato1252-1-6-1,,mato1252-1,6,luwɑ luwɑ luwɑ,luwɑ luwɑ luwɑ,[],,[],,False,False,,1
-mato1252-1-6-2,,mato1252-1,6,rima-rɑ tainrinɑ kisi hɑitɑino,rima-rɑ tainrinɑ kisi hɑitɑino,[],< Pete Lincoln 1976) ,[],,True,False,,1
-mato1252-1-7-1,,mato1252-1,7,luwɑ luwɑ tuwɑ,luwɑ luwɑ tuwɑ,[],,[],,False,False,,1
-mato1252-1-7-2,,mato1252-1,7,kisi luɑ,kisi luɑ,[],< Pete Lincoln 1976) ,[],,True,False,,1
-mato1252-1-8-1,,mato1252-1,8,luwɑdi luwɑdi luwɑdi luwɑdi,luwɑdi luwɑdi luwɑdi luwɑdi,[],,[],,False,False,,1
-mato1252-1-8-2,,mato1252-1,8,kisi tuɑ,kisi tuɑ,[],< Pete Lincoln 1976) ,[],,True,False,,1
-mato1252-1-9-1,,mato1252-1,9,rimɑ hɑtɑinɑ luwɑdi luwɑdi,rimɑ hɑtɑinɑ luwɑdi luwɑdi,[],( 2 + 2 ),[],,False,False,,1
-mato1252-1-9-2,,mato1252-1,9,kisi luɑlua,kisi luɑlua,[],< Pete Lincoln 1976) ,[],,True,False,,1
-mato1252-1-10-1,,mato1252-1,10,rimɑ hɑtɑiŋ hɑtɑinɑ,rimɑ hɑtɑiŋ hɑtɑinɑ,[],,[],,False,False,,1
-mato1252-1-10-2,,mato1252-1,10,nimɑrɑ luɑ,nimɑrɑ luɑ,[],< Pete Lincoln 1976) ,[],,True,False,,1
-mato1252-1-11-1,,mato1252-1,11,from numbers above 10 use Tok Pisn,from numbers above 10 use Tok Pisn,[],,[],,False,True,,1
-mato1252-1-11-2,,mato1252-1,11,kisi tɑininɑ,kisi tɑininɑ,[],< Pete Lincoln 1976) ,[],,True,False,,1
-mato1252-1-12-1,,mato1252-1,12,rimɑrɑ luɑ kisi luɑ,rimɑrɑ luɑ kisi luɑ,[],< Pete Lincoln 1976) ,[],,True,False,,1
-mato1252-1-20-1,,mato1252-1,20,lipu teninɑ kisi rimɑna kinɑ,lipu teninɑ kisi rimɑna kinɑ,[],< Pete Lincoln 1976) ,[],,True,False,,1
+mato1252-1-1-1,,mato1252-1,1,tɑininɑu,tɑininɑu,[],,['chan2019'],,False,False,,1
+mato1252-1-2-1,,mato1252-1,2,luwɑ,luwɑ,[],,['chan2019'],,False,False,,1
+mato1252-1-3-1,,mato1252-1,3,tuwɑ,tuwɑ,[],,['chan2019'],,False,False,,1
+mato1252-1-3-2,,mato1252-1,3,luɑ hiliɑnɑ,luɑ hiliɑnɑ,[],< Geoff Smith  ( 2 + 1 ),['chan2019'],,True,False,,1
+mato1252-1-4-1,,mato1252-1,4,luwɑdi luwɑdi,luwɑdi luwɑdi,[],( 2 + 2 ),['chan2019'],,False,False,,1
+mato1252-1-5-1,,mato1252-1,5,luwɑdi luwɑdi hiliɑdiŋɑ,luwɑdi luwɑdi hiliɑdiŋɑ,[],,['chan2019'],,False,False,,1
+mato1252-1-5-2,,mato1252-1,5,hiliɑnadinɑ,hiliɑnadinɑ,[],< Geoff Smith 1984 ,['chan2019'],,True,False,,1
+mato1252-1-6-1,,mato1252-1,6,luwɑ luwɑ luwɑ,luwɑ luwɑ luwɑ,[],,['chan2019'],,False,False,,1
+mato1252-1-6-2,,mato1252-1,6,rima-rɑ tainrinɑ kisi hɑitɑino,rima-rɑ tainrinɑ kisi hɑitɑino,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1
+mato1252-1-7-1,,mato1252-1,7,luwɑ luwɑ tuwɑ,luwɑ luwɑ tuwɑ,[],,['chan2019'],,False,False,,1
+mato1252-1-7-2,,mato1252-1,7,kisi luɑ,kisi luɑ,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1
+mato1252-1-8-1,,mato1252-1,8,luwɑdi luwɑdi luwɑdi luwɑdi,luwɑdi luwɑdi luwɑdi luwɑdi,[],,['chan2019'],,False,False,,1
+mato1252-1-8-2,,mato1252-1,8,kisi tuɑ,kisi tuɑ,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1
+mato1252-1-9-1,,mato1252-1,9,rimɑ hɑtɑinɑ luwɑdi luwɑdi,rimɑ hɑtɑinɑ luwɑdi luwɑdi,[],( 2 + 2 ),['chan2019'],,False,False,,1
+mato1252-1-9-2,,mato1252-1,9,kisi luɑlua,kisi luɑlua,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1
+mato1252-1-10-1,,mato1252-1,10,rimɑ hɑtɑiŋ hɑtɑinɑ,rimɑ hɑtɑiŋ hɑtɑinɑ,[],,['chan2019'],,False,False,,1
+mato1252-1-10-2,,mato1252-1,10,nimɑrɑ luɑ,nimɑrɑ luɑ,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1
+mato1252-1-11-1,,mato1252-1,11,from numbers above 10 use Tok Pisn,from numbers above 10 use Tok Pisn,[],,['chan2019'],,False,True,,1
+mato1252-1-11-2,,mato1252-1,11,kisi tɑininɑ,kisi tɑininɑ,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1
+mato1252-1-12-1,,mato1252-1,12,rimɑrɑ luɑ kisi luɑ,rimɑrɑ luɑ kisi luɑ,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1
+mato1252-1-20-1,,mato1252-1,20,lipu teninɑ kisi rimɑna kinɑ,lipu teninɑ kisi rimɑna kinɑ,[],< Pete Lincoln 1976) ,['chan2019'],,True,False,,1

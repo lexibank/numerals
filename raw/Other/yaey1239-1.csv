@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yaey1239-1-1-1,,yaey1239-1,1,pitutsy,pitutsy,[],,[],,False,False,,1
-yaey1239-1-2-1,,yaey1239-1,2,huta:tsy,huta:tsy,[],,[],,False,False,,1
-yaey1239-1-3-1,,yaey1239-1,3,my:tsy,my:tsy,[],,[],,False,False,,1
-yaey1239-1-4-1,,yaey1239-1,4,ju:tsy,ju:tsy,[],,[],,False,False,,1
-yaey1239-1-5-1,,yaey1239-1,5,issy,issy,[],,[],,False,False,,1
-yaey1239-1-6-1,,yaey1239-1,6,ny:tsy,ny:tsy,[],,[],,False,False,,1
-yaey1239-1-6-2,,yaey1239-1,6,mu:tsy,mu:tsy,[],,[],,False,False,,1
-yaey1239-1-7-1,,yaey1239-1,7,nanatsy,nanatsy,[],,[],,False,False,,1
-yaey1239-1-8-1,,yaey1239-1,8,ja:tsy,ja:tsy,[],,[],,False,False,,1
-yaey1239-1-9-1,,yaey1239-1,9,hakonatsy,hakonatsy,[],,[],,False,False,,1
-yaey1239-1-10-1,,yaey1239-1,10,tu:,tu:,[],,[],,False,False,,1
-yaey1239-1-11-1,,yaey1239-1,11,tu:pitutsy,tu:pitutsy,[],,[],,False,False,,1
-yaey1239-1-12-1,,yaey1239-1,12,tu:huta:tsy,tu:huta:tsy,[],,[],,False,False,,1
-yaey1239-1-13-1,,yaey1239-1,13,tu:my:tsy,tu:my:tsy,[],,[],,False,False,,1
-yaey1239-1-14-1,,yaey1239-1,14,tu:ju:tsy,tu:ju:tsy,[],,[],,False,False,,1
-yaey1239-1-15-1,,yaey1239-1,15,tu:issy,tu:issy,[],,[],,False,False,,1
-yaey1239-1-16-1,,yaey1239-1,16,tu:ny:tsy,tu:ny:tsy,[],,[],,False,False,,1
-yaey1239-1-17-1,,yaey1239-1,17,tu:nanatsy,tu:nanatsy,[],,[],,False,False,,1
-yaey1239-1-18-1,,yaey1239-1,18,tu:ja:tsy,tu:ja:tsy,[],,[],,False,False,,1
-yaey1239-1-19-1,,yaey1239-1,19,tu:hakonatsy,tu:hakonatsy,[],,[],,False,False,,1
-yaey1239-1-20-1,,yaey1239-1,20,ninzu,ninzu,[],,[],,False,False,,1
-yaey1239-1-21-1,,yaey1239-1,21,ninzu pitutsy,ninzu pitutsy,[],,[],,False,False,,1
-yaey1239-1-22-1,,yaey1239-1,22,ninzu huta:tsy,ninzu huta:tsy,[],,[],,False,False,,1
-yaey1239-1-23-1,,yaey1239-1,23,ninzu my:tsy,ninzu my:tsy,[],,[],,False,False,,1
-yaey1239-1-24-1,,yaey1239-1,24,ninzu ju:tsy,ninzu ju:tsy,[],,[],,False,False,,1
-yaey1239-1-25-1,,yaey1239-1,25,ninzu issy,ninzu issy,[],,[],,False,False,,1
-yaey1239-1-26-1,,yaey1239-1,26,ninzu ny:tsy,ninzu ny:tsy,[],,[],,False,False,,1
-yaey1239-1-27-1,,yaey1239-1,27,ninzu nanatsy,ninzu nanatsy,[],,[],,False,False,,1
-yaey1239-1-28-1,,yaey1239-1,28,ninzu ja:tsy,ninzu ja:tsy,[],,[],,False,False,,1
-yaey1239-1-29-1,,yaey1239-1,29,ninzu hakonatsy,ninzu hakonatsy,[],,[],,False,False,,1
-yaey1239-1-30-1,,yaey1239-1,30,sanzu,sanzu,[],,[],,False,False,,1
-yaey1239-1-40-1,,yaey1239-1,40,synzu,synzu,[],,[],,False,False,,1
-yaey1239-1-50-1,,yaey1239-1,50,ɡunzu,ɡunzu,[],,[],,False,False,,1
-yaey1239-1-60-1,,yaey1239-1,60,rukuzu,rukuzu,[],,[],,False,False,,1
-yaey1239-1-70-1,,yaey1239-1,70,systyzu,systyzu,[],,[],,False,False,,1
-yaey1239-1-70-2,,yaey1239-1,70,nanazu,nanazu,[],,[],,False,False,,1
-yaey1239-1-80-1,,yaey1239-1,80,patsyzu,patsyzu,[],,[],,False,False,,1
-yaey1239-1-90-1,,yaey1239-1,90,kunzu,kunzu,[],,[],,False,False,,1
-yaey1239-1-100-1,,yaey1239-1,100,pja:ɡu,pja:ɡu,[],,[],,False,False,,1
-yaey1239-1-200-1,,yaey1239-1,200,nipja:ɡu,nipja:ɡu,[],,[],,False,False,,1
-yaey1239-1-1000-1,,yaey1239-1,1000,sen,sen,[],,[],,False,False,,1
-yaey1239-1-2000-1,,yaey1239-1,2000,nisen,nisen,[],,[],,False,False,,1
+yaey1239-1-1-1,,yaey1239-1,1,pitutsy,pitutsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-2-1,,yaey1239-1,2,huta:tsy,huta:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-3-1,,yaey1239-1,3,my:tsy,my:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-4-1,,yaey1239-1,4,ju:tsy,ju:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-5-1,,yaey1239-1,5,issy,issy,[],,['chan2019'],,False,False,,1
+yaey1239-1-6-1,,yaey1239-1,6,ny:tsy,ny:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-6-2,,yaey1239-1,6,mu:tsy,mu:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-7-1,,yaey1239-1,7,nanatsy,nanatsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-8-1,,yaey1239-1,8,ja:tsy,ja:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-9-1,,yaey1239-1,9,hakonatsy,hakonatsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-10-1,,yaey1239-1,10,tu:,tu:,[],,['chan2019'],,False,False,,1
+yaey1239-1-11-1,,yaey1239-1,11,tu:pitutsy,tu:pitutsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-12-1,,yaey1239-1,12,tu:huta:tsy,tu:huta:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-13-1,,yaey1239-1,13,tu:my:tsy,tu:my:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-14-1,,yaey1239-1,14,tu:ju:tsy,tu:ju:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-15-1,,yaey1239-1,15,tu:issy,tu:issy,[],,['chan2019'],,False,False,,1
+yaey1239-1-16-1,,yaey1239-1,16,tu:ny:tsy,tu:ny:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-17-1,,yaey1239-1,17,tu:nanatsy,tu:nanatsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-18-1,,yaey1239-1,18,tu:ja:tsy,tu:ja:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-19-1,,yaey1239-1,19,tu:hakonatsy,tu:hakonatsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-20-1,,yaey1239-1,20,ninzu,ninzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-21-1,,yaey1239-1,21,ninzu pitutsy,ninzu pitutsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-22-1,,yaey1239-1,22,ninzu huta:tsy,ninzu huta:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-23-1,,yaey1239-1,23,ninzu my:tsy,ninzu my:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-24-1,,yaey1239-1,24,ninzu ju:tsy,ninzu ju:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-25-1,,yaey1239-1,25,ninzu issy,ninzu issy,[],,['chan2019'],,False,False,,1
+yaey1239-1-26-1,,yaey1239-1,26,ninzu ny:tsy,ninzu ny:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-27-1,,yaey1239-1,27,ninzu nanatsy,ninzu nanatsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-28-1,,yaey1239-1,28,ninzu ja:tsy,ninzu ja:tsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-29-1,,yaey1239-1,29,ninzu hakonatsy,ninzu hakonatsy,[],,['chan2019'],,False,False,,1
+yaey1239-1-30-1,,yaey1239-1,30,sanzu,sanzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-40-1,,yaey1239-1,40,synzu,synzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-50-1,,yaey1239-1,50,ɡunzu,ɡunzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-60-1,,yaey1239-1,60,rukuzu,rukuzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-70-1,,yaey1239-1,70,systyzu,systyzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-70-2,,yaey1239-1,70,nanazu,nanazu,[],,['chan2019'],,False,False,,1
+yaey1239-1-80-1,,yaey1239-1,80,patsyzu,patsyzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-90-1,,yaey1239-1,90,kunzu,kunzu,[],,['chan2019'],,False,False,,1
+yaey1239-1-100-1,,yaey1239-1,100,pja:ɡu,pja:ɡu,[],,['chan2019'],,False,False,,1
+yaey1239-1-200-1,,yaey1239-1,200,nipja:ɡu,nipja:ɡu,[],,['chan2019'],,False,False,,1
+yaey1239-1-1000-1,,yaey1239-1,1000,sen,sen,[],,['chan2019'],,False,False,,1
+yaey1239-1-2000-1,,yaey1239-1,2000,nisen,nisen,[],,['chan2019'],,False,False,,1

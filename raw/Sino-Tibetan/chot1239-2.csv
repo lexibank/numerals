@@ -1,35 +1,35 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chot1239-2-1-1,,chot1239-2,1,əkʰa,əkʰa,[],,[],,False,False,,2
-chot1239-2-2-1,,chot1239-2,2,əni,əni,[],,[],,False,False,,2
-chot1239-2-3-1,,chot1239-2,3,intʰum,intʰum,[],,[],,False,False,,2
-chot1239-2-4-1,,chot1239-2,4,inli,inli,[],,[],,False,False,,2
-chot1239-2-5-1,,chot1239-2,5,rəŋa,rəŋa,[],,[],,False,False,,2
-chot1239-2-6-1,,chot1239-2,6,əruk,əruk,[],,[],,False,False,,2
-chot1239-2-7-1,,chot1239-2,7,səri,səri,[],,[],,False,False,,2
-chot1239-2-8-1,,chot1239-2,8,ərit,ərit,[],,[],,False,False,,2
-chot1239-2-9-1,,chot1239-2,9,əku,əku,[],,[],,False,False,,2
-chot1239-2-10-1,,chot1239-2,10,əsom,əsom,[],,[],,False,False,,2
-chot1239-2-11-1,,chot1239-2,11,əsoməkʰa,əsoməkʰa,[],,[],,False,False,,2
-chot1239-2-12-1,,chot1239-2,12,əsoməni,əsoməni,[],,[],,False,False,,2
-chot1239-2-13-1,,chot1239-2,13,əsomətʰum,əsomətʰum,[],,[],,False,False,,2
-chot1239-2-14-1,,chot1239-2,14,əsoməli,əsoməli,[],,[],,False,False,,2
-chot1239-2-15-1,,chot1239-2,15,əsomərəŋa,əsomərəŋa,[],,[],,False,False,,2
-chot1239-2-16-1,,chot1239-2,16,əsoməruk,əsoməruk,[],,[],,False,False,,2
-chot1239-2-17-1,,chot1239-2,17,əsoməsəri,əsoməsəri,[],,[],,False,False,,2
-chot1239-2-18-1,,chot1239-2,18,əsomərit,əsomərit,[],,[],,False,False,,2
-chot1239-2-19-1,,chot1239-2,19,əsoməku,əsoməku,[],,[],,False,False,,2
-chot1239-2-20-1,,chot1239-2,20,somni,somni,[],,[],,False,False,,2
-chot1239-2-21-1,,chot1239-2,21,somni əkʰa,somni əkʰa,[],,[],,False,False,,2
-chot1239-2-22-1,,chot1239-2,22,somni əni,somni əni,[],,[],,False,False,,2
-chot1239-2-23-1,,chot1239-2,23,somni intʰum,somni intʰum,[],,[],,False,False,,2
-chot1239-2-30-1,,chot1239-2,30,somthum,somthum,[],,[],,False,False,,2
-chot1239-2-40-1,,chot1239-2,40,somli,somli,[],,[],,False,False,,2
-chot1239-2-50-1,,chot1239-2,50,somŋa,somŋa,[],,[],,False,False,,2
-chot1239-2-60-1,,chot1239-2,60,somruk,somruk,[],,[],,False,False,,2
-chot1239-2-70-1,,chot1239-2,70,somsəri,somsəri,[],,[],,False,False,,2
-chot1239-2-80-1,,chot1239-2,80,somrit,somrit,[],,[],,False,False,,2
-chot1239-2-90-1,,chot1239-2,90,somku,somku,[],,[],,False,False,,2
-chot1239-2-100-1,,chot1239-2,100,rihəkʰa,rihəkʰa,[],,[],,False,False,,2
-chot1239-2-200-1,,chot1239-2,200,rihəni,rihəni,[],,[],,False,False,,2
-chot1239-2-1000-1,,chot1239-2,1000,lisiŋkʰa,lisiŋkʰa,[],,[],,False,False,,2
-chot1239-2-2000-1,,chot1239-2,2000,lisiŋni,lisiŋni,[],,[],,False,False,,2
+chot1239-2-1-1,,chot1239-2,1,əkʰa,əkʰa,[],,['chan2019'],,False,False,,2
+chot1239-2-2-1,,chot1239-2,2,əni,əni,[],,['chan2019'],,False,False,,2
+chot1239-2-3-1,,chot1239-2,3,intʰum,intʰum,[],,['chan2019'],,False,False,,2
+chot1239-2-4-1,,chot1239-2,4,inli,inli,[],,['chan2019'],,False,False,,2
+chot1239-2-5-1,,chot1239-2,5,rəŋa,rəŋa,[],,['chan2019'],,False,False,,2
+chot1239-2-6-1,,chot1239-2,6,əruk,əruk,[],,['chan2019'],,False,False,,2
+chot1239-2-7-1,,chot1239-2,7,səri,səri,[],,['chan2019'],,False,False,,2
+chot1239-2-8-1,,chot1239-2,8,ərit,ərit,[],,['chan2019'],,False,False,,2
+chot1239-2-9-1,,chot1239-2,9,əku,əku,[],,['chan2019'],,False,False,,2
+chot1239-2-10-1,,chot1239-2,10,əsom,əsom,[],,['chan2019'],,False,False,,2
+chot1239-2-11-1,,chot1239-2,11,əsoməkʰa,əsoməkʰa,[],,['chan2019'],,False,False,,2
+chot1239-2-12-1,,chot1239-2,12,əsoməni,əsoməni,[],,['chan2019'],,False,False,,2
+chot1239-2-13-1,,chot1239-2,13,əsomətʰum,əsomətʰum,[],,['chan2019'],,False,False,,2
+chot1239-2-14-1,,chot1239-2,14,əsoməli,əsoməli,[],,['chan2019'],,False,False,,2
+chot1239-2-15-1,,chot1239-2,15,əsomərəŋa,əsomərəŋa,[],,['chan2019'],,False,False,,2
+chot1239-2-16-1,,chot1239-2,16,əsoməruk,əsoməruk,[],,['chan2019'],,False,False,,2
+chot1239-2-17-1,,chot1239-2,17,əsoməsəri,əsoməsəri,[],,['chan2019'],,False,False,,2
+chot1239-2-18-1,,chot1239-2,18,əsomərit,əsomərit,[],,['chan2019'],,False,False,,2
+chot1239-2-19-1,,chot1239-2,19,əsoməku,əsoməku,[],,['chan2019'],,False,False,,2
+chot1239-2-20-1,,chot1239-2,20,somni,somni,[],,['chan2019'],,False,False,,2
+chot1239-2-21-1,,chot1239-2,21,somni əkʰa,somni əkʰa,[],,['chan2019'],,False,False,,2
+chot1239-2-22-1,,chot1239-2,22,somni əni,somni əni,[],,['chan2019'],,False,False,,2
+chot1239-2-23-1,,chot1239-2,23,somni intʰum,somni intʰum,[],,['chan2019'],,False,False,,2
+chot1239-2-30-1,,chot1239-2,30,somthum,somthum,[],,['chan2019'],,False,False,,2
+chot1239-2-40-1,,chot1239-2,40,somli,somli,[],,['chan2019'],,False,False,,2
+chot1239-2-50-1,,chot1239-2,50,somŋa,somŋa,[],,['chan2019'],,False,False,,2
+chot1239-2-60-1,,chot1239-2,60,somruk,somruk,[],,['chan2019'],,False,False,,2
+chot1239-2-70-1,,chot1239-2,70,somsəri,somsəri,[],,['chan2019'],,False,False,,2
+chot1239-2-80-1,,chot1239-2,80,somrit,somrit,[],,['chan2019'],,False,False,,2
+chot1239-2-90-1,,chot1239-2,90,somku,somku,[],,['chan2019'],,False,False,,2
+chot1239-2-100-1,,chot1239-2,100,rihəkʰa,rihəkʰa,[],,['chan2019'],,False,False,,2
+chot1239-2-200-1,,chot1239-2,200,rihəni,rihəni,[],,['chan2019'],,False,False,,2
+chot1239-2-1000-1,,chot1239-2,1000,lisiŋkʰa,lisiŋkʰa,[],,['chan2019'],,False,False,,2
+chot1239-2-2000-1,,chot1239-2,2000,lisiŋni,lisiŋni,[],,['chan2019'],,False,False,,2

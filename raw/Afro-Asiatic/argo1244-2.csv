@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-argo1244-2-1-1,,argo1244-2,1,hand,hand,[],(masc),[],,False,False,,2
-argo1244-2-1-2,,argo1244-2,1,handit,handit,[],(fem),[],,False,False,,2
-argo1244-2-2-1,,argo1244-2,2,ket,ket,[],,[],,False,False,,2
-argo1244-2-3-1,,argo1244-2,3,sost,sost,[],,[],,False,False,,2
-argo1244-2-4-1,,argo1244-2,4,arbit,arbit,[],,[],,False,False,,2
-argo1244-2-5-1,,argo1244-2,5,amməst,amməst,[],,[],,False,False,,2
-argo1244-2-6-1,,argo1244-2,6,səddəst,səddəst,[],,[],,False,False,,2
-argo1244-2-7-1,,argo1244-2,7,saʔint,saʔint,[],,[],,False,False,,2
-argo1244-2-8-1,,argo1244-2,8,səmmənt,səmmənt,[],,[],,False,False,,2
-argo1244-2-9-1,,argo1244-2,9,ʒʌhtʼʷʌɲ,ʒʌhtʼʷʌɲ,[],,[],,False,False,,2
-argo1244-2-10-1,,argo1244-2,10,assər,assər,[],,[],,False,False,,2
-argo1244-2-11-1,,argo1244-2,11,assər hand,assər hand,[],,[],,False,False,,2
-argo1244-2-12-1,,argo1244-2,12,assər ket,assər ket,[],,[],,False,False,,2
-argo1244-2-13-1,,argo1244-2,13,assər sost,assər sost,[],,[],,False,False,,2
-argo1244-2-14-1,,argo1244-2,14,assər arbit,assər arbit,[],,[],,False,False,,2
-argo1244-2-15-1,,argo1244-2,15,assər amməst,assər amməst,[],,[],,False,False,,2
-argo1244-2-16-1,,argo1244-2,16,assər səddəst,assər səddəst,[],,[],,False,False,,2
-argo1244-2-17-1,,argo1244-2,17,assər saʔint,assər saʔint,[],,[],,False,False,,2
-argo1244-2-18-1,,argo1244-2,18,assər səmmənt,assər səmmənt,[],,[],,False,False,,2
-argo1244-2-19-1,,argo1244-2,19,assər ʒʌhtʼʷʌɲ,assər ʒʌhtʼʷʌɲ,[],,[],,False,False,,2
-argo1244-2-20-1,,argo1244-2,20,haya,haya,[],,[],,False,False,,2
-argo1244-2-21-1,,argo1244-2,21,haya hand,haya hand,[],,[],,False,False,,2
-argo1244-2-22-1,,argo1244-2,22,haya ket,haya ket,[],,[],,False,False,,2
-argo1244-2-23-1,,argo1244-2,23,haya sost,haya sost,[],,[],,False,False,,2
-argo1244-2-24-1,,argo1244-2,24,haya arbit,haya arbit,[],,[],,False,False,,2
-argo1244-2-25-1,,argo1244-2,25,haya amməst,haya amməst,[],,[],,False,False,,2
-argo1244-2-26-1,,argo1244-2,26,haya səddəst,haya səddəst,[],,[],,False,False,,2
-argo1244-2-27-1,,argo1244-2,27,haya saʔint,haya saʔint,[],,[],,False,False,,2
-argo1244-2-28-1,,argo1244-2,28,haya səmmənt,haya səmmənt,[],,[],,False,False,,2
-argo1244-2-29-1,,argo1244-2,29,haya ʒʌhtʼʷʌɲ,haya ʒʌhtʼʷʌɲ,[],,[],,False,False,,2
-argo1244-2-30-1,,argo1244-2,30,sasa,sasa,[],,[],,False,False,,2
-argo1244-2-40-1,,argo1244-2,40,harba,harba,[],,[],,False,False,,2
-argo1244-2-50-1,,argo1244-2,50,hamsa,hamsa,[],,[],,False,False,,2
-argo1244-2-60-1,,argo1244-2,60,səlsa,səlsa,[],,[],,False,False,,2
-argo1244-2-70-1,,argo1244-2,70,sʌba,sʌba,[],,[],,False,False,,2
-argo1244-2-80-1,,argo1244-2,80,sʌmanya,sʌmanya,[],,[],,False,False,,2
-argo1244-2-90-1,,argo1244-2,90,zʌtʼʌna,zʌtʼʌna,[],,[],,False,False,,2
-argo1244-2-100-1,,argo1244-2,100,mʌto,mʌto,[],,[],,False,False,,2
-argo1244-2-200-1,,argo1244-2,200,ket mʌto,ket mʌto,[],,[],,False,False,,2
-argo1244-2-1000-1,,argo1244-2,1000,ʃi,ʃi,[],,[],,False,False,,2
-argo1244-2-2000-1,,argo1244-2,2000,ket ʃi,ket ʃi,[],,[],,False,False,,2
+argo1244-2-1-1,,argo1244-2,1,hand,hand,[],(masc),['chan2019'],,False,False,,2
+argo1244-2-1-2,,argo1244-2,1,handit,handit,[],(fem),['chan2019'],,False,False,,2
+argo1244-2-2-1,,argo1244-2,2,ket,ket,[],,['chan2019'],,False,False,,2
+argo1244-2-3-1,,argo1244-2,3,sost,sost,[],,['chan2019'],,False,False,,2
+argo1244-2-4-1,,argo1244-2,4,arbit,arbit,[],,['chan2019'],,False,False,,2
+argo1244-2-5-1,,argo1244-2,5,amməst,amməst,[],,['chan2019'],,False,False,,2
+argo1244-2-6-1,,argo1244-2,6,səddəst,səddəst,[],,['chan2019'],,False,False,,2
+argo1244-2-7-1,,argo1244-2,7,saʔint,saʔint,[],,['chan2019'],,False,False,,2
+argo1244-2-8-1,,argo1244-2,8,səmmənt,səmmənt,[],,['chan2019'],,False,False,,2
+argo1244-2-9-1,,argo1244-2,9,ʒʌhtʼʷʌɲ,ʒʌhtʼʷʌɲ,[],,['chan2019'],,False,False,,2
+argo1244-2-10-1,,argo1244-2,10,assər,assər,[],,['chan2019'],,False,False,,2
+argo1244-2-11-1,,argo1244-2,11,assər hand,assər hand,[],,['chan2019'],,False,False,,2
+argo1244-2-12-1,,argo1244-2,12,assər ket,assər ket,[],,['chan2019'],,False,False,,2
+argo1244-2-13-1,,argo1244-2,13,assər sost,assər sost,[],,['chan2019'],,False,False,,2
+argo1244-2-14-1,,argo1244-2,14,assər arbit,assər arbit,[],,['chan2019'],,False,False,,2
+argo1244-2-15-1,,argo1244-2,15,assər amməst,assər amməst,[],,['chan2019'],,False,False,,2
+argo1244-2-16-1,,argo1244-2,16,assər səddəst,assər səddəst,[],,['chan2019'],,False,False,,2
+argo1244-2-17-1,,argo1244-2,17,assər saʔint,assər saʔint,[],,['chan2019'],,False,False,,2
+argo1244-2-18-1,,argo1244-2,18,assər səmmənt,assər səmmənt,[],,['chan2019'],,False,False,,2
+argo1244-2-19-1,,argo1244-2,19,assər ʒʌhtʼʷʌɲ,assər ʒʌhtʼʷʌɲ,[],,['chan2019'],,False,False,,2
+argo1244-2-20-1,,argo1244-2,20,haya,haya,[],,['chan2019'],,False,False,,2
+argo1244-2-21-1,,argo1244-2,21,haya hand,haya hand,[],,['chan2019'],,False,False,,2
+argo1244-2-22-1,,argo1244-2,22,haya ket,haya ket,[],,['chan2019'],,False,False,,2
+argo1244-2-23-1,,argo1244-2,23,haya sost,haya sost,[],,['chan2019'],,False,False,,2
+argo1244-2-24-1,,argo1244-2,24,haya arbit,haya arbit,[],,['chan2019'],,False,False,,2
+argo1244-2-25-1,,argo1244-2,25,haya amməst,haya amməst,[],,['chan2019'],,False,False,,2
+argo1244-2-26-1,,argo1244-2,26,haya səddəst,haya səddəst,[],,['chan2019'],,False,False,,2
+argo1244-2-27-1,,argo1244-2,27,haya saʔint,haya saʔint,[],,['chan2019'],,False,False,,2
+argo1244-2-28-1,,argo1244-2,28,haya səmmənt,haya səmmənt,[],,['chan2019'],,False,False,,2
+argo1244-2-29-1,,argo1244-2,29,haya ʒʌhtʼʷʌɲ,haya ʒʌhtʼʷʌɲ,[],,['chan2019'],,False,False,,2
+argo1244-2-30-1,,argo1244-2,30,sasa,sasa,[],,['chan2019'],,False,False,,2
+argo1244-2-40-1,,argo1244-2,40,harba,harba,[],,['chan2019'],,False,False,,2
+argo1244-2-50-1,,argo1244-2,50,hamsa,hamsa,[],,['chan2019'],,False,False,,2
+argo1244-2-60-1,,argo1244-2,60,səlsa,səlsa,[],,['chan2019'],,False,False,,2
+argo1244-2-70-1,,argo1244-2,70,sʌba,sʌba,[],,['chan2019'],,False,False,,2
+argo1244-2-80-1,,argo1244-2,80,sʌmanya,sʌmanya,[],,['chan2019'],,False,False,,2
+argo1244-2-90-1,,argo1244-2,90,zʌtʼʌna,zʌtʼʌna,[],,['chan2019'],,False,False,,2
+argo1244-2-100-1,,argo1244-2,100,mʌto,mʌto,[],,['chan2019'],,False,False,,2
+argo1244-2-200-1,,argo1244-2,200,ket mʌto,ket mʌto,[],,['chan2019'],,False,False,,2
+argo1244-2-1000-1,,argo1244-2,1000,ʃi,ʃi,[],,['chan2019'],,False,False,,2
+argo1244-2-2000-1,,argo1244-2,2000,ket ʃi,ket ʃi,[],,['chan2019'],,False,False,,2

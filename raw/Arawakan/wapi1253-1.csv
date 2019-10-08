@@ -1,19 +1,19 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wapi1253-1-1-1,,wapi1253-1,1,bauda'apa,bauda'apa,[],"( < pa-uuda-'ap, lit: 'its seed' )",[],,False,False,,1
-wapi1253-1-2-1,,wapi1253-1,2,dya'utam,dya'utam,[],"( < paminauda'u tuma, lit: 'with a companion' )",[],,False,False,,1
-wapi1253-1-3-1,,wapi1253-1,3,idikinauda'u,idikinauda'u,[],"(<idiki-nao kawana'ati-uda'u, lit: 'according to the stones under a pot' )",[],,False,False,,1
-wapi1253-1-4-1,,wapi1253-1,4,pamina'ut am-kida,pamina'ut am-kida,[],"( < paminauda'u tuma, lit: 'each with his companion' )",[],,False,False,,1
-wapi1253-1-5-1,,wapi1253-1,5,baka'iaud a'u,baka'iaud a'u,[],( lit: 'one hand' ),[],,False,False,,1
-wapi1253-1-6-1,,wapi1253-1,6,bauda'apa bakaunu'iti,bauda'apa bakaunu'iti,[],"( lit: 'one to its hand, five finger plus one other finger' )",[],,False,False,,1
-wapi1253-1-10-1,,wapi1253-1,10,baokooka'u,baokooka'u,[],"( < baoko waka'u, lit: 'both our hands, ten fingers' )",[],,False,False,,1
-wapi1253-1-11-1,,wapi1253-1,11,bauda'apa wakidiba'iti,bauda'apa wakidiba'iti,[],"( lit: 'one toe to our foot, ten fingers and one toe' )",[],,False,False,,1
-wapi1253-1-15-1,,wapi1253-1,15,badaarapa wakidiba'iti,badaarapa wakidiba'iti,[],"( lit: 'one side to our foot, ten fingers and five toes' )",[],,False,False,,1
-wapi1253-1-16-1,,wapi1253-1,16,bauda'apabakidibanu-'iti,bauda'apabakidibanu-'iti,[],( lit: 'one toe to his other foot ' ),[],,False,False,,1
-wapi1253-1-20-1,,wapi1253-1,20,banupapa-pidan,banupapa-pidan,[],"( lit: 'a whole person's body, all twenty fingers and toes ' )",[],,False,False,,1
-wapi1253-1-21-1,,wapi1253-1,21,banupapa-pidan bauda'apa powa'a,banupapa-pidan bauda'apa powa'a,[],(lit: 'a whole person and one more' ),[],,False,False,,1
-wapi1253-1-30-1,,wapi1253-1,30,banupapa-pidan-baokookai'u-powaîa,banupapa-pidan-baokookai'u-powaîa,[],(lit: 'a whole person and both hands more' ),[],,False,False,,1
-wapi1253-1-40-1,,wapi1253-1,40,dya'utam-pidan-nannaa,dya'utam-pidan-nannaa,[],(lit: 'two people's bodies' ),[],,False,False,,1
-wapi1253-1-50-1,,wapi1253-1,50,dya'utam-pidan-nannaa-baokookai'u-powaîa,dya'utam-pidan-nannaa-baokookai'u-powaîa,[],,[],,False,False,,1
-wapi1253-1-100-1,,wapi1253-1,100,bakai'iaudai'u-pidan-nannaa,bakai'iaudai'u-pidan-nannaa,[],(lit: 'five people's bodies' ),[],,False,False,,1
-wapi1253-1-200-1,,wapi1253-1,200,baokooka'u-pidan-nannaa,baokooka'u-pidan-nannaa,[],(lit: 'ten people's bodies' ),[],,False,False,,1
-wapi1253-1-1000-1,,wapi1253-1,1000,dya'utam-pidan-nannaa-baokooka'u-powa'a-pidan-nannaa,dya'utam-pidan-nannaa-baokooka'u-powa'a-pidan-nannaa,[],(lit: 'forty and ten more people's bodies' ),[],,False,False,,1
+wapi1253-1-1-1,,wapi1253-1,1,bauda'apa,bauda'apa,[],"( < pa-uuda-'ap, lit: 'its seed' )",['chan2019'],,False,False,,1
+wapi1253-1-2-1,,wapi1253-1,2,dya'utam,dya'utam,[],"( < paminauda'u tuma, lit: 'with a companion' )",['chan2019'],,False,False,,1
+wapi1253-1-3-1,,wapi1253-1,3,idikinauda'u,idikinauda'u,[],"(<idiki-nao kawana'ati-uda'u, lit: 'according to the stones under a pot' )",['chan2019'],,False,False,,1
+wapi1253-1-4-1,,wapi1253-1,4,pamina'ut am-kida,pamina'ut am-kida,[],"( < paminauda'u tuma, lit: 'each with his companion' )",['chan2019'],,False,False,,1
+wapi1253-1-5-1,,wapi1253-1,5,baka'iaud a'u,baka'iaud a'u,[],( lit: 'one hand' ),['chan2019'],,False,False,,1
+wapi1253-1-6-1,,wapi1253-1,6,bauda'apa bakaunu'iti,bauda'apa bakaunu'iti,[],"( lit: 'one to its hand, five finger plus one other finger' )",['chan2019'],,False,False,,1
+wapi1253-1-10-1,,wapi1253-1,10,baokooka'u,baokooka'u,[],"( < baoko waka'u, lit: 'both our hands, ten fingers' )",['chan2019'],,False,False,,1
+wapi1253-1-11-1,,wapi1253-1,11,bauda'apa wakidiba'iti,bauda'apa wakidiba'iti,[],"( lit: 'one toe to our foot, ten fingers and one toe' )",['chan2019'],,False,False,,1
+wapi1253-1-15-1,,wapi1253-1,15,badaarapa wakidiba'iti,badaarapa wakidiba'iti,[],"( lit: 'one side to our foot, ten fingers and five toes' )",['chan2019'],,False,False,,1
+wapi1253-1-16-1,,wapi1253-1,16,bauda'apabakidibanu-'iti,bauda'apabakidibanu-'iti,[],( lit: 'one toe to his other foot ' ),['chan2019'],,False,False,,1
+wapi1253-1-20-1,,wapi1253-1,20,banupapa-pidan,banupapa-pidan,[],"( lit: 'a whole person's body, all twenty fingers and toes ' )",['chan2019'],,False,False,,1
+wapi1253-1-21-1,,wapi1253-1,21,banupapa-pidan bauda'apa powa'a,banupapa-pidan bauda'apa powa'a,[],(lit: 'a whole person and one more' ),['chan2019'],,False,False,,1
+wapi1253-1-30-1,,wapi1253-1,30,banupapa-pidan-baokookai'u-powaîa,banupapa-pidan-baokookai'u-powaîa,[],(lit: 'a whole person and both hands more' ),['chan2019'],,False,False,,1
+wapi1253-1-40-1,,wapi1253-1,40,dya'utam-pidan-nannaa,dya'utam-pidan-nannaa,[],(lit: 'two people's bodies' ),['chan2019'],,False,False,,1
+wapi1253-1-50-1,,wapi1253-1,50,dya'utam-pidan-nannaa-baokookai'u-powaîa,dya'utam-pidan-nannaa-baokookai'u-powaîa,[],,['chan2019'],,False,False,,1
+wapi1253-1-100-1,,wapi1253-1,100,bakai'iaudai'u-pidan-nannaa,bakai'iaudai'u-pidan-nannaa,[],(lit: 'five people's bodies' ),['chan2019'],,False,False,,1
+wapi1253-1-200-1,,wapi1253-1,200,baokooka'u-pidan-nannaa,baokooka'u-pidan-nannaa,[],(lit: 'ten people's bodies' ),['chan2019'],,False,False,,1
+wapi1253-1-1000-1,,wapi1253-1,1000,dya'utam-pidan-nannaa-baokooka'u-powa'a-pidan-nannaa,dya'utam-pidan-nannaa-baokooka'u-powa'a-pidan-nannaa,[],(lit: 'forty and ten more people's bodies' ),['chan2019'],,False,False,,1

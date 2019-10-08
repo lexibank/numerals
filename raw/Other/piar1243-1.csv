@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-piar1243-1-1-1,,piar1243-1,1,M yo-CL-tetæ,M yo-CL-tetæ,[],,[],,False,True,jɑ̃tẽtæ̃,1
-piar1243-1-1-2,,piar1243-1,1,hi-CL-tetæ(inan.)ː ñatetæ,hi-CL-tetæ(inan.)ː ñatetæ,[],(an.masc),[],,False,True,,1
-piar1243-1-1-3,,piar1243-1,1,K,K,[],,[],,False,True,yahutetæ (an.fem),1
-piar1243-1-2-1,,piar1243-1,2,M to-CL-re,M to-CL-re,[],,[],,False,True,tɑ̃hũ,1
-piar1243-1-2-2,,piar1243-1,2,ta-CL-re,ta-CL-re,[],(inan. ),[],,False,True,,1
-piar1243-1-2-3,,piar1243-1,2,K,K,[],,[],,False,True,tahu (anim. ),1
-piar1243-1-3-1,,piar1243-1,3,M wæbo-CL-tukʷæ,M wæbo-CL-tukʷæ,[],,[],,False,True,wæmetukʷæ,1
-piar1243-1-3-2,,piar1243-1,3,K,K,[],,[],,False,True,wæba-CL-tukʷæ[inan.); wæmetukʷæ[anim.),1
-piar1243-1-4-1,,piar1243-1,4,M ̃ pahakʷænɨo-CL,M ̃ pahakʷænɨo-CL,[],,[],,False,True,pɑ̃hɑ̃kʷæ̃nɨ,1
-piar1243-1-4-2,,piar1243-1,4,pahakʷænɨa-CL,pahakʷænɨa-CL,[],(inan.),[],,False,True,,1
-piar1243-1-4-3,,piar1243-1,4,K,K,[],,[],,False,True,pahakʷænɨñætɨ (an.fem),1
-piar1243-1-5-1,,piar1243-1,5,M himɨte,M himɨte,[],[K ],[],,False,False,himute,1
-piar1243-1-6-1,,piar1243-1,6,K,K,[],,[],,False,True,kʰoromɨtʰɨnɨ yomɨte,1
-piar1243-1-15-1,,piar1243-1,15,K,K,[],,[],,False,True,tʰɨ̃hæpɨ̃ hiũtehamenæ,1
+piar1243-1-1-1,,piar1243-1,1,M yo-CL-tetæ,M yo-CL-tetæ,[],,['chan2019'],,False,True,jɑ̃tẽtæ̃,1
+piar1243-1-1-2,,piar1243-1,1,hi-CL-tetæ(inan.)ː ñatetæ,hi-CL-tetæ(inan.)ː ñatetæ,[],(an.masc),['chan2019'],,False,True,,1
+piar1243-1-1-3,,piar1243-1,1,K,K,[],,['chan2019'],,False,True,yahutetæ (an.fem),1
+piar1243-1-2-1,,piar1243-1,2,M to-CL-re,M to-CL-re,[],,['chan2019'],,False,True,tɑ̃hũ,1
+piar1243-1-2-2,,piar1243-1,2,ta-CL-re,ta-CL-re,[],(inan. ),['chan2019'],,False,True,,1
+piar1243-1-2-3,,piar1243-1,2,K,K,[],,['chan2019'],,False,True,tahu (anim. ),1
+piar1243-1-3-1,,piar1243-1,3,M wæbo-CL-tukʷæ,M wæbo-CL-tukʷæ,[],,['chan2019'],,False,True,wæmetukʷæ,1
+piar1243-1-3-2,,piar1243-1,3,K,K,[],,['chan2019'],,False,True,wæba-CL-tukʷæ[inan.); wæmetukʷæ[anim.),1
+piar1243-1-4-1,,piar1243-1,4,M ̃ pahakʷænɨo-CL,M ̃ pahakʷænɨo-CL,[],,['chan2019'],,False,True,pɑ̃hɑ̃kʷæ̃nɨ,1
+piar1243-1-4-2,,piar1243-1,4,pahakʷænɨa-CL,pahakʷænɨa-CL,[],(inan.),['chan2019'],,False,True,,1
+piar1243-1-4-3,,piar1243-1,4,K,K,[],,['chan2019'],,False,True,pahakʷænɨñætɨ (an.fem),1
+piar1243-1-5-1,,piar1243-1,5,M himɨte,M himɨte,[],[K ],['chan2019'],,False,False,himute,1
+piar1243-1-6-1,,piar1243-1,6,K,K,[],,['chan2019'],,False,True,kʰoromɨtʰɨnɨ yomɨte,1
+piar1243-1-15-1,,piar1243-1,15,K,K,[],,['chan2019'],,False,True,tʰɨ̃hæpɨ̃ hiũtehamenæ,1

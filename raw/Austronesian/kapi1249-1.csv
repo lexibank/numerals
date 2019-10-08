@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kapi1249-1-1-1,,kapi1249-1,1,e-tahi,e-tahi,[],,[],,False,False,,1
-kapi1249-1-2-1,,kapi1249-1,2,e-lua,e-lua,[],,[],,False,False,,1
-kapi1249-1-3-1,,kapi1249-1,3,e-tolu,e-tolu,[],,[],,False,False,,1
-kapi1249-1-4-1,,kapi1249-1,4,e-ha:,e-ha:,[],,[],,False,False,,1
-kapi1249-1-5-1,,kapi1249-1,5,e-lima,e-lima,[],,[],,False,False,,1
-kapi1249-1-6-1,,kapi1249-1,6,e-ono,e-ono,[],,[],,False,False,,1
-kapi1249-1-7-1,,kapi1249-1,7,e-hitu,e-hitu,[],,[],,False,False,,1
-kapi1249-1-8-1,,kapi1249-1,8,e-walu,e-walu,[],,[],,False,False,,1
-kapi1249-1-9-1,,kapi1249-1,9,e-hiwa,e-hiwa,[],,[],,False,False,,1
-kapi1249-1-10-1,,kapi1249-1,10,e-mataŋahulu,e-mataŋahulu,[],,[],,False,False,,1
-kapi1249-1-11-1,,kapi1249-1,11,mataŋahulu maː tahi,mataŋahulu maː tahi,[],,[],,False,False,,1
-kapi1249-1-12-1,,kapi1249-1,12,mataŋahulu maː lua,mataŋahulu maː lua,[],,[],,False,False,,1
-kapi1249-1-13-1,,kapi1249-1,13,mataŋahulu maː tolu,mataŋahulu maː tolu,[],,[],,False,False,,1
-kapi1249-1-14-1,,kapi1249-1,14,mataŋahulu maː haː,mataŋahulu maː haː,[],,[],,False,False,,1
-kapi1249-1-15-1,,kapi1249-1,15,mataŋahulu maː lima,mataŋahulu maː lima,[],,[],,False,False,,1
-kapi1249-1-16-1,,kapi1249-1,16,mataŋahulu maː ono,mataŋahulu maː ono,[],,[],,False,False,,1
-kapi1249-1-17-1,,kapi1249-1,17,mataŋahulu maː hitu,mataŋahulu maː hitu,[],,[],,False,False,,1
-kapi1249-1-18-1,,kapi1249-1,18,mataŋahulu maː walu,mataŋahulu maː walu,[],,[],,False,False,,1
-kapi1249-1-19-1,,kapi1249-1,19,mataŋahulu maː hiwa,mataŋahulu maː hiwa,[],,[],,False,False,,1
-kapi1249-1-20-1,,kapi1249-1,20,matalua,matalua,[],,[],,False,False,,1
-kapi1249-1-21-1,,kapi1249-1,21,matalua maː tahi,matalua maː tahi,[],,[],,False,False,,1
-kapi1249-1-22-1,,kapi1249-1,22,matalua maː lua,matalua maː lua,[],,[],,False,False,,1
-kapi1249-1-23-1,,kapi1249-1,23,matalua maː tolu,matalua maː tolu,[],,[],,False,False,,1
-kapi1249-1-24-1,,kapi1249-1,24,matalua maː haː,matalua maː haː,[],,[],,False,False,,1
-kapi1249-1-25-1,,kapi1249-1,25,matalua maː lima,matalua maː lima,[],,[],,False,False,,1
-kapi1249-1-26-1,,kapi1249-1,26,matalua maː ono,matalua maː ono,[],,[],,False,False,,1
-kapi1249-1-27-1,,kapi1249-1,27,matalua maː hitu,matalua maː hitu,[],,[],,False,False,,1
-kapi1249-1-28-1,,kapi1249-1,28,matalua maː walu,matalua maː walu,[],,[],,False,False,,1
-kapi1249-1-29-1,,kapi1249-1,29,matalua maː hiwa,matalua maː hiwa,[],,[],,False,False,,1
-kapi1249-1-30-1,,kapi1249-1,30,mosolu,mosolu,[],( < motʰolu < mototolu),[],,False,False,,1
-kapi1249-1-40-1,,kapi1249-1,40,matahaː,matahaː,[],,[],,False,False,,1
-kapi1249-1-50-1,,kapi1249-1,50,matalima,matalima,[],,[],,False,False,,1
-kapi1249-1-60-1,,kapi1249-1,60,motoːono,motoːono,[],,[],,False,False,,1
-kapi1249-1-70-1,,kapi1249-1,70,matahitu,matahitu,[],,[],,False,False,,1
-kapi1249-1-80-1,,kapi1249-1,80,matawalu,matawalu,[],,[],,False,False,,1
-kapi1249-1-90-1,,kapi1249-1,90,matahiwa,matahiwa,[],,[],,False,False,,1
-kapi1249-1-100-1,,kapi1249-1,100,e-lau,e-lau,[],,[],,False,False,,1
-kapi1249-1-200-1,,kapi1249-1,200,lualua,lualua,[],,[],,False,False,,1
-kapi1249-1-1000-1,,kapi1249-1,1000,e-mana,e-mana,[],,[],,False,False,,1
-kapi1249-1-2000-1,,kapi1249-1,2000,e lua mana,e lua mana,[],,[],,False,False,,1
+kapi1249-1-1-1,,kapi1249-1,1,e-tahi,e-tahi,[],,['chan2019'],,False,False,,1
+kapi1249-1-2-1,,kapi1249-1,2,e-lua,e-lua,[],,['chan2019'],,False,False,,1
+kapi1249-1-3-1,,kapi1249-1,3,e-tolu,e-tolu,[],,['chan2019'],,False,False,,1
+kapi1249-1-4-1,,kapi1249-1,4,e-ha:,e-ha:,[],,['chan2019'],,False,False,,1
+kapi1249-1-5-1,,kapi1249-1,5,e-lima,e-lima,[],,['chan2019'],,False,False,,1
+kapi1249-1-6-1,,kapi1249-1,6,e-ono,e-ono,[],,['chan2019'],,False,False,,1
+kapi1249-1-7-1,,kapi1249-1,7,e-hitu,e-hitu,[],,['chan2019'],,False,False,,1
+kapi1249-1-8-1,,kapi1249-1,8,e-walu,e-walu,[],,['chan2019'],,False,False,,1
+kapi1249-1-9-1,,kapi1249-1,9,e-hiwa,e-hiwa,[],,['chan2019'],,False,False,,1
+kapi1249-1-10-1,,kapi1249-1,10,e-mataŋahulu,e-mataŋahulu,[],,['chan2019'],,False,False,,1
+kapi1249-1-11-1,,kapi1249-1,11,mataŋahulu maː tahi,mataŋahulu maː tahi,[],,['chan2019'],,False,False,,1
+kapi1249-1-12-1,,kapi1249-1,12,mataŋahulu maː lua,mataŋahulu maː lua,[],,['chan2019'],,False,False,,1
+kapi1249-1-13-1,,kapi1249-1,13,mataŋahulu maː tolu,mataŋahulu maː tolu,[],,['chan2019'],,False,False,,1
+kapi1249-1-14-1,,kapi1249-1,14,mataŋahulu maː haː,mataŋahulu maː haː,[],,['chan2019'],,False,False,,1
+kapi1249-1-15-1,,kapi1249-1,15,mataŋahulu maː lima,mataŋahulu maː lima,[],,['chan2019'],,False,False,,1
+kapi1249-1-16-1,,kapi1249-1,16,mataŋahulu maː ono,mataŋahulu maː ono,[],,['chan2019'],,False,False,,1
+kapi1249-1-17-1,,kapi1249-1,17,mataŋahulu maː hitu,mataŋahulu maː hitu,[],,['chan2019'],,False,False,,1
+kapi1249-1-18-1,,kapi1249-1,18,mataŋahulu maː walu,mataŋahulu maː walu,[],,['chan2019'],,False,False,,1
+kapi1249-1-19-1,,kapi1249-1,19,mataŋahulu maː hiwa,mataŋahulu maː hiwa,[],,['chan2019'],,False,False,,1
+kapi1249-1-20-1,,kapi1249-1,20,matalua,matalua,[],,['chan2019'],,False,False,,1
+kapi1249-1-21-1,,kapi1249-1,21,matalua maː tahi,matalua maː tahi,[],,['chan2019'],,False,False,,1
+kapi1249-1-22-1,,kapi1249-1,22,matalua maː lua,matalua maː lua,[],,['chan2019'],,False,False,,1
+kapi1249-1-23-1,,kapi1249-1,23,matalua maː tolu,matalua maː tolu,[],,['chan2019'],,False,False,,1
+kapi1249-1-24-1,,kapi1249-1,24,matalua maː haː,matalua maː haː,[],,['chan2019'],,False,False,,1
+kapi1249-1-25-1,,kapi1249-1,25,matalua maː lima,matalua maː lima,[],,['chan2019'],,False,False,,1
+kapi1249-1-26-1,,kapi1249-1,26,matalua maː ono,matalua maː ono,[],,['chan2019'],,False,False,,1
+kapi1249-1-27-1,,kapi1249-1,27,matalua maː hitu,matalua maː hitu,[],,['chan2019'],,False,False,,1
+kapi1249-1-28-1,,kapi1249-1,28,matalua maː walu,matalua maː walu,[],,['chan2019'],,False,False,,1
+kapi1249-1-29-1,,kapi1249-1,29,matalua maː hiwa,matalua maː hiwa,[],,['chan2019'],,False,False,,1
+kapi1249-1-30-1,,kapi1249-1,30,mosolu,mosolu,[],( < motʰolu < mototolu),['chan2019'],,False,False,,1
+kapi1249-1-40-1,,kapi1249-1,40,matahaː,matahaː,[],,['chan2019'],,False,False,,1
+kapi1249-1-50-1,,kapi1249-1,50,matalima,matalima,[],,['chan2019'],,False,False,,1
+kapi1249-1-60-1,,kapi1249-1,60,motoːono,motoːono,[],,['chan2019'],,False,False,,1
+kapi1249-1-70-1,,kapi1249-1,70,matahitu,matahitu,[],,['chan2019'],,False,False,,1
+kapi1249-1-80-1,,kapi1249-1,80,matawalu,matawalu,[],,['chan2019'],,False,False,,1
+kapi1249-1-90-1,,kapi1249-1,90,matahiwa,matahiwa,[],,['chan2019'],,False,False,,1
+kapi1249-1-100-1,,kapi1249-1,100,e-lau,e-lau,[],,['chan2019'],,False,False,,1
+kapi1249-1-200-1,,kapi1249-1,200,lualua,lualua,[],,['chan2019'],,False,False,,1
+kapi1249-1-1000-1,,kapi1249-1,1000,e-mana,e-mana,[],,['chan2019'],,False,False,,1
+kapi1249-1-2000-1,,kapi1249-1,2000,e lua mana,e lua mana,[],,['chan2019'],,False,False,,1

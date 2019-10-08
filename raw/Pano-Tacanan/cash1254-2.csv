@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cash1254-2-1-1,,cash1254-2,1,bestit͡xai,bestit͡xai,[],"(litː 'a unite',  t͡x is a voiceless palatal occlusive )",[],,False,False,,2
-cash1254-2-2-1,,cash1254-2,2,dabe,dabe,[],( litː 'a pair' ),[],,False,False,,2
-cash1254-2-3-1,,cash1254-2,3,dabe inun besti,dabe inun besti,[],(litː 'a pair and a unite' ),[],,False,False,,2
-cash1254-2-4-1,,cash1254-2,4,dabe inun dabe,dabe inun dabe,[],( litː two pairs' ),[],,False,False,,2
-cash1254-2-5-1,,cash1254-2,5,meken besti,meken besti,[],,[],,False,False,,2
-cash1254-2-6-1,,cash1254-2,6,meken besti inun bestit͡xai,meken besti inun bestit͡xai,[],,[],,False,False,,2
-cash1254-2-7-1,,cash1254-2,7,meken besti inun dabe,meken besti inun dabe,[],,[],,False,False,,2
-cash1254-2-8-1,,cash1254-2,8,meken besti inun dabe inun besti,meken besti inun dabe inun besti,[],,[],,False,False,,2
-cash1254-2-9-1,,cash1254-2,9,meken dabe,meken dabe,[],,[],,False,False,,2
-cash1254-2-10-1,,cash1254-2,10,meken besti inun bestit͡xai,meken besti inun bestit͡xai,[],,[],,False,False,,2
-cash1254-2-15-1,,cash1254-2,15,meken dabeti inun besti,meken dabeti inun besti,[],,[],,False,False,,2
-cash1254-2-20-1,,cash1254-2,20,tae dabeti,tae dabeti,[],,[],,False,False,,2
-cash1254-2-20-2,,cash1254-2,20,meken dabeti,meken dabeti,[],,[],,False,False,,2
+cash1254-2-1-1,,cash1254-2,1,bestit͡xai,bestit͡xai,[],"(litː 'a unite',  t͡x is a voiceless palatal occlusive )",['chan2019'],,False,False,,2
+cash1254-2-2-1,,cash1254-2,2,dabe,dabe,[],( litː 'a pair' ),['chan2019'],,False,False,,2
+cash1254-2-3-1,,cash1254-2,3,dabe inun besti,dabe inun besti,[],(litː 'a pair and a unite' ),['chan2019'],,False,False,,2
+cash1254-2-4-1,,cash1254-2,4,dabe inun dabe,dabe inun dabe,[],( litː two pairs' ),['chan2019'],,False,False,,2
+cash1254-2-5-1,,cash1254-2,5,meken besti,meken besti,[],,['chan2019'],,False,False,,2
+cash1254-2-6-1,,cash1254-2,6,meken besti inun bestit͡xai,meken besti inun bestit͡xai,[],,['chan2019'],,False,False,,2
+cash1254-2-7-1,,cash1254-2,7,meken besti inun dabe,meken besti inun dabe,[],,['chan2019'],,False,False,,2
+cash1254-2-8-1,,cash1254-2,8,meken besti inun dabe inun besti,meken besti inun dabe inun besti,[],,['chan2019'],,False,False,,2
+cash1254-2-9-1,,cash1254-2,9,meken dabe,meken dabe,[],,['chan2019'],,False,False,,2
+cash1254-2-10-1,,cash1254-2,10,meken besti inun bestit͡xai,meken besti inun bestit͡xai,[],,['chan2019'],,False,False,,2
+cash1254-2-15-1,,cash1254-2,15,meken dabeti inun besti,meken dabeti inun besti,[],,['chan2019'],,False,False,,2
+cash1254-2-20-1,,cash1254-2,20,tae dabeti,tae dabeti,[],,['chan2019'],,False,False,,2
+cash1254-2-20-2,,cash1254-2,20,meken dabeti,meken dabeti,[],,['chan2019'],,False,False,,2

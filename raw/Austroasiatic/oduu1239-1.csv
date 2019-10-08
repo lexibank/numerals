@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-oduu1239-1-1-1,,oduu1239-1,1,dəəj,dəəj,[],,[],,False,False,,1
-oduu1239-1-2-1,,oduu1239-1,2,baar,baar,[],,[],,False,False,,1
-oduu1239-1-3-1,,oduu1239-1,3,pɛj,pɛj,[],,[],,False,False,,1
-oduu1239-1-4-1,,oduu1239-1,4,pan,pan,[],,[],,False,False,,1
-oduu1239-1-5-1,,oduu1239-1,5,sɔɔŋ,sɔɔŋ,[],,[],,False,False,,1
-oduu1239-1-6-1,,oduu1239-1,6,tuul,tuul,[],,[],,False,False,,1
-oduu1239-1-7-1,,oduu1239-1,7,kyguul,kyguul,[],,[],,False,False,,1
-oduu1239-1-8-1,,oduu1239-1,8,kntɛj,kntɛj,[],,[],,False,False,,1
-oduu1239-1-9-1,,oduu1239-1,9,kndrooŋ,kndrooŋ,[],,[],,False,False,,1
-oduu1239-1-10-1,,oduu1239-1,10,kngool,kngool,[],,[],,False,False,,1
-oduu1239-1-11-1,,oduu1239-1,11,kngool dəəj,kngool dəəj,[],,[],,False,False,,1
-oduu1239-1-11-2,,oduu1239-1,11,et,et,[],,[],,False,False,,1
-oduu1239-1-12-1,,oduu1239-1,12,sipsɔŋ,sipsɔŋ,[],,[],,False,False,,1
-oduu1239-1-13-1,,oduu1239-1,13,sipsam,sipsam,[],,[],,False,False,,1
-oduu1239-1-14-1,,oduu1239-1,14,sipsi,sipsi,[],,[],,False,False,,1
-oduu1239-1-15-1,,oduu1239-1,15,sipha,sipha,[],,[],,False,False,,1
-oduu1239-1-16-1,,oduu1239-1,16,siphok,siphok,[],,[],,False,False,,1
-oduu1239-1-17-1,,oduu1239-1,17,siptɕet,siptɕet,[],,[],,False,False,,1
-oduu1239-1-18-1,,oduu1239-1,18,sippɛt,sippɛt,[],,[],,False,False,,1
-oduu1239-1-19-1,,oduu1239-1,19,sipkau,sipkau,[],,[],,False,False,,1
-oduu1239-1-20-1,,oduu1239-1,20,sau,sau,[],,[],,False,False,,1
-oduu1239-1-21-1,,oduu1239-1,21,sau et,sau et,[],,[],,False,False,,1
-oduu1239-1-22-1,,oduu1239-1,22,sau sɔŋ,sau sɔŋ,[],,[],,False,False,,1
-oduu1239-1-23-1,,oduu1239-1,23,sau sam,sau sam,[],,[],,False,False,,1
-oduu1239-1-24-1,,oduu1239-1,24,sau si,sau si,[],,[],,False,False,,1
-oduu1239-1-25-1,,oduu1239-1,25,sau ha,sau ha,[],,[],,False,False,,1
-oduu1239-1-26-1,,oduu1239-1,26,sau hok,sau hok,[],,[],,False,False,,1
-oduu1239-1-27-1,,oduu1239-1,27,sau tɕet,sau tɕet,[],,[],,False,False,,1
-oduu1239-1-28-1,,oduu1239-1,28,sau pɛt,sau pɛt,[],,[],,False,False,,1
-oduu1239-1-29-1,,oduu1239-1,29,sau kau,sau kau,[],,[],,False,False,,1
-oduu1239-1-30-1,,oduu1239-1,30,sam sip,sam sip,[],,[],,False,False,,1
-oduu1239-1-40-1,,oduu1239-1,40,si sip,si sip,[],,[],,False,False,,1
-oduu1239-1-50-1,,oduu1239-1,50,hasip,hasip,[],,[],,False,False,,1
-oduu1239-1-60-1,,oduu1239-1,60,hok sip,hok sip,[],,[],,False,False,,1
-oduu1239-1-70-1,,oduu1239-1,70,tɕet sip,tɕet sip,[],,[],,False,False,,1
-oduu1239-1-80-1,,oduu1239-1,80,pɛt sip,pɛt sip,[],,[],,False,False,,1
-oduu1239-1-90-1,,oduu1239-1,90,kau sip,kau sip,[],,[],,False,False,,1
-oduu1239-1-100-1,,oduu1239-1,100,lɔi,lɔi,[],,[],,False,False,,1
-oduu1239-1-200-1,,oduu1239-1,200,sɔŋ lɔi,sɔŋ lɔi,[],,[],,False,False,,1
-oduu1239-1-1000-1,,oduu1239-1,1000,pan,pan,[],,[],,False,False,,1
-oduu1239-1-2000-1,,oduu1239-1,2000,sɔŋ pan,sɔŋ pan,[],,[],,False,False,,1
+oduu1239-1-1-1,,oduu1239-1,1,dəəj,dəəj,[],,['chan2019'],,False,False,,1
+oduu1239-1-2-1,,oduu1239-1,2,baar,baar,[],,['chan2019'],,False,False,,1
+oduu1239-1-3-1,,oduu1239-1,3,pɛj,pɛj,[],,['chan2019'],,False,False,,1
+oduu1239-1-4-1,,oduu1239-1,4,pan,pan,[],,['chan2019'],,False,False,,1
+oduu1239-1-5-1,,oduu1239-1,5,sɔɔŋ,sɔɔŋ,[],,['chan2019'],,False,False,,1
+oduu1239-1-6-1,,oduu1239-1,6,tuul,tuul,[],,['chan2019'],,False,False,,1
+oduu1239-1-7-1,,oduu1239-1,7,kyguul,kyguul,[],,['chan2019'],,False,False,,1
+oduu1239-1-8-1,,oduu1239-1,8,kntɛj,kntɛj,[],,['chan2019'],,False,False,,1
+oduu1239-1-9-1,,oduu1239-1,9,kndrooŋ,kndrooŋ,[],,['chan2019'],,False,False,,1
+oduu1239-1-10-1,,oduu1239-1,10,kngool,kngool,[],,['chan2019'],,False,False,,1
+oduu1239-1-11-1,,oduu1239-1,11,kngool dəəj,kngool dəəj,[],,['chan2019'],,False,False,,1
+oduu1239-1-11-2,,oduu1239-1,11,et,et,[],,['chan2019'],,False,False,,1
+oduu1239-1-12-1,,oduu1239-1,12,sipsɔŋ,sipsɔŋ,[],,['chan2019'],,False,False,,1
+oduu1239-1-13-1,,oduu1239-1,13,sipsam,sipsam,[],,['chan2019'],,False,False,,1
+oduu1239-1-14-1,,oduu1239-1,14,sipsi,sipsi,[],,['chan2019'],,False,False,,1
+oduu1239-1-15-1,,oduu1239-1,15,sipha,sipha,[],,['chan2019'],,False,False,,1
+oduu1239-1-16-1,,oduu1239-1,16,siphok,siphok,[],,['chan2019'],,False,False,,1
+oduu1239-1-17-1,,oduu1239-1,17,siptɕet,siptɕet,[],,['chan2019'],,False,False,,1
+oduu1239-1-18-1,,oduu1239-1,18,sippɛt,sippɛt,[],,['chan2019'],,False,False,,1
+oduu1239-1-19-1,,oduu1239-1,19,sipkau,sipkau,[],,['chan2019'],,False,False,,1
+oduu1239-1-20-1,,oduu1239-1,20,sau,sau,[],,['chan2019'],,False,False,,1
+oduu1239-1-21-1,,oduu1239-1,21,sau et,sau et,[],,['chan2019'],,False,False,,1
+oduu1239-1-22-1,,oduu1239-1,22,sau sɔŋ,sau sɔŋ,[],,['chan2019'],,False,False,,1
+oduu1239-1-23-1,,oduu1239-1,23,sau sam,sau sam,[],,['chan2019'],,False,False,,1
+oduu1239-1-24-1,,oduu1239-1,24,sau si,sau si,[],,['chan2019'],,False,False,,1
+oduu1239-1-25-1,,oduu1239-1,25,sau ha,sau ha,[],,['chan2019'],,False,False,,1
+oduu1239-1-26-1,,oduu1239-1,26,sau hok,sau hok,[],,['chan2019'],,False,False,,1
+oduu1239-1-27-1,,oduu1239-1,27,sau tɕet,sau tɕet,[],,['chan2019'],,False,False,,1
+oduu1239-1-28-1,,oduu1239-1,28,sau pɛt,sau pɛt,[],,['chan2019'],,False,False,,1
+oduu1239-1-29-1,,oduu1239-1,29,sau kau,sau kau,[],,['chan2019'],,False,False,,1
+oduu1239-1-30-1,,oduu1239-1,30,sam sip,sam sip,[],,['chan2019'],,False,False,,1
+oduu1239-1-40-1,,oduu1239-1,40,si sip,si sip,[],,['chan2019'],,False,False,,1
+oduu1239-1-50-1,,oduu1239-1,50,hasip,hasip,[],,['chan2019'],,False,False,,1
+oduu1239-1-60-1,,oduu1239-1,60,hok sip,hok sip,[],,['chan2019'],,False,False,,1
+oduu1239-1-70-1,,oduu1239-1,70,tɕet sip,tɕet sip,[],,['chan2019'],,False,False,,1
+oduu1239-1-80-1,,oduu1239-1,80,pɛt sip,pɛt sip,[],,['chan2019'],,False,False,,1
+oduu1239-1-90-1,,oduu1239-1,90,kau sip,kau sip,[],,['chan2019'],,False,False,,1
+oduu1239-1-100-1,,oduu1239-1,100,lɔi,lɔi,[],,['chan2019'],,False,False,,1
+oduu1239-1-200-1,,oduu1239-1,200,sɔŋ lɔi,sɔŋ lɔi,[],,['chan2019'],,False,False,,1
+oduu1239-1-1000-1,,oduu1239-1,1000,pan,pan,[],,['chan2019'],,False,False,,1
+oduu1239-1-2000-1,,oduu1239-1,2000,sɔŋ pan,sɔŋ pan,[],,['chan2019'],,False,False,,1

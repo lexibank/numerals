@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gora1262-1-1-1,,gora1262-1,1,ti,ti,[],,[],,False,False,,1
-gora1262-1-2-1,,gora1262-1,2,yuʷ,yuʷ,[],,[],,False,False,,1
-gora1262-1-3-1,,gora1262-1,3,yan,yan,[],,[],,False,False,,1
-gora1262-1-4-1,,gora1262-1,4,yundəyu,yundəyu,[],,[],,False,False,,1
-gora1262-1-5-1,,gora1262-1,5,nəma'βəlu,nəma'βəlu,[],( litː 'hand half' ?),[],,False,False,,1
-gora1262-1-10-1,,gora1262-1,10,nəma'yu,nəma'yu,[],( litː 'hands two' ?),[],,False,False,,1
+gora1262-1-1-1,,gora1262-1,1,ti,ti,[],,['chan2019'],,False,False,,1
+gora1262-1-2-1,,gora1262-1,2,yuʷ,yuʷ,[],,['chan2019'],,False,False,,1
+gora1262-1-3-1,,gora1262-1,3,yan,yan,[],,['chan2019'],,False,False,,1
+gora1262-1-4-1,,gora1262-1,4,yundəyu,yundəyu,[],,['chan2019'],,False,False,,1
+gora1262-1-5-1,,gora1262-1,5,nəma'βəlu,nəma'βəlu,[],( litː 'hand half' ?),['chan2019'],,False,False,,1
+gora1262-1-10-1,,gora1262-1,10,nəma'yu,nəma'yu,[],( litː 'hands two' ?),['chan2019'],,False,False,,1

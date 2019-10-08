@@ -1,49 +1,49 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xxxx0019-1-1-1,,xxxx0019-1,1,kúndé,kúndé,[],,[],,False,False,,1
-xxxx0019-1-2-1,,xxxx0019-1,2,nôːj,nôːj,[],,[],,False,False,,1
-xxxx0019-1-3-1,,xxxx0019-1,3,tàːndîː,tàːndîː,[],,[],,False,False,,1
-xxxx0019-1-4-1,,xxxx0019-1,4,kɛ́ːdʒɛ̀j,kɛ́ːdʒɛ̀j,[],,[],,False,False,,1
-xxxx0019-1-5-1,,xxxx0019-1,5,nùmîː,nùmîː,[],,[],,False,False,,1
-xxxx0019-1-6-1,,xxxx0019-1,6,kúlèj,kúlèj,[],,[],,False,False,,1
-xxxx0019-1-7-1,,xxxx0019-1,7,swɛ̂j,swɛ̂j,[],,[],,False,False,,1
-xxxx0019-1-8-1,,xxxx0019-1,8,sáːɡìː,sáːɡìː,[],,[],,False,False,,1
-xxxx0019-1-9-1,,xxxx0019-1,9,twâj,twâj,[],,[],,False,False,,1
-xxxx0019-1-10-1,,xxxx0019-1,10,píjɛ́lì,píjɛ́lì,[],,[],,False,False,,1
-xxxx0019-1-11-1,,xxxx0019-1,11,pɛ́ː sìɡà tómàj,pɛ́ː sìɡà tómàj,[],,[],,False,False,,1
-xxxx0019-1-12-1,,xxxx0019-1,12,pɛ́ː sìɡà nôːj,pɛ́ː sìɡà nôːj,[],,[],,False,False,,1
-xxxx0019-1-13-1,,xxxx0019-1,13,pɛ́ː sìɡà tàːndîː,pɛ́ː sìɡà tàːndîː,[],,[],,False,False,,1
-xxxx0019-1-14-1,,xxxx0019-1,14,pɛ́ː sìɡà kɛ́ːdʒɛ̀j,pɛ́ː sìɡà kɛ́ːdʒɛ̀j,[],,[],,False,False,,1
-xxxx0019-1-15-1,,xxxx0019-1,15,pɛ́ː sìɡà nùmîː,pɛ́ː sìɡà nùmîː,[],,[],,False,False,,1
-xxxx0019-1-16-1,,xxxx0019-1,16,pɛ́ː sìɡà kúlèj,pɛ́ː sìɡà kúlèj,[],,[],,False,False,,1
-xxxx0019-1-17-1,,xxxx0019-1,17,pɛ́ː sìɡà swɛ̂j,pɛ́ː sìɡà swɛ̂j,[],,[],,False,False,,1
-xxxx0019-1-18-1,,xxxx0019-1,18,pɛ́ː sìɡà sáːɡìː,pɛ́ː sìɡà sáːɡìː,[],,[],,False,False,,1
-xxxx0019-1-19-1,,xxxx0019-1,19,pɛ́ː sìɡà twâj,pɛ́ː sìɡà twâj,[],,[],,False,False,,1
-xxxx0019-1-20-1,,xxxx0019-1,20,pɔ̂ː nɔ̀j,pɔ̂ː nɔ̀j,[],,[],,False,False,,1
-xxxx0019-1-21-1,,xxxx0019-1,21,pɔ̂ː nɔ̀j sìɡà tómàj ??,pɔ̂ː nɔ̀j sìɡà tómàj ??,[],,[],,False,True,,1
-xxxx0019-1-22-1,,xxxx0019-1,22,pɔ̂ː nɔ̀j sìɡà nôːj,pɔ̂ː nɔ̀j sìɡà nôːj,[],,[],,False,False,,1
-xxxx0019-1-23-1,,xxxx0019-1,23,pɔ̂ː nɔ̀j sìɡà tàːndîː,pɔ̂ː nɔ̀j sìɡà tàːndîː,[],,[],,False,False,,1
-xxxx0019-1-24-1,,xxxx0019-1,24,pɔ̂ː nɔ̀j sìɡà kɛ́ːdʒɛ̀j,pɔ̂ː nɔ̀j sìɡà kɛ́ːdʒɛ̀j,[],,[],,False,False,,1
-xxxx0019-1-25-1,,xxxx0019-1,25,pɔ̂ː nɔ̀j sìɡà nùmîː,pɔ̂ː nɔ̀j sìɡà nùmîː,[],,[],,False,False,,1
-xxxx0019-1-26-1,,xxxx0019-1,26,pɔ̂ː nɔ̀j sìɡà kúlèj,pɔ̂ː nɔ̀j sìɡà kúlèj,[],,[],,False,False,,1
-xxxx0019-1-27-1,,xxxx0019-1,27,pɔ̂ː nɔ̀j sìɡà swɛ̂j,pɔ̂ː nɔ̀j sìɡà swɛ̂j,[],,[],,False,False,,1
-xxxx0019-1-28-1,,xxxx0019-1,28,pɔ̂ː nɔ̀j sìɡà sáːɡìː,pɔ̂ː nɔ̀j sìɡà sáːɡìː,[],,[],,False,False,,1
-xxxx0019-1-29-1,,xxxx0019-1,29,pɔ̂ː nɔ̀j sìɡà twâj,pɔ̂ː nɔ̀j sìɡà twâj,[],,[],,False,False,,1
-xxxx0019-1-30-1,,xxxx0019-1,30,pɔ̂ː tàːndîː,pɔ̂ː tàːndîː,[],,[],,False,False,,1
-xxxx0019-1-40-1,,xxxx0019-1,40,pɔ̀lɛ́-kɛ́ːdʒɛ̀j,pɔ̀lɛ́-kɛ́ːdʒɛ̀j,[],,[],,False,False,,1
-xxxx0019-1-40-2,,xxxx0019-1,40,pɔ̀lɔ́-kɛ́ːdʒɛ̀j,pɔ̀lɔ́-kɛ́ːdʒɛ̀j,[],,[],,False,False,,1
-xxxx0019-1-50-1,,xxxx0019-1,50,pɔ̀lɛ́-nùmîː,pɔ̀lɛ́-nùmîː,[],,[],,False,False,,1
-xxxx0019-1-50-2,,xxxx0019-1,50,pɔ̀lɔ́-kɛ́ːdʒɛ̀ ké píjɛ́lì,pɔ̀lɔ́-kɛ́ːdʒɛ̀ ké píjɛ́lì,[],,[],,False,False,,1
-xxxx0019-1-60-1,,xxxx0019-1,60,pɔ̀lɛ́-kúlèj,pɔ̀lɛ́-kúlèj,[],,[],,False,False,,1
-xxxx0019-1-70-1,,xxxx0019-1,70,pɔ̂ː swɛ̂j,pɔ̂ː swɛ̂j,[],,[],,False,False,,1
-xxxx0019-1-70-2,,xxxx0019-1,70,pɔ̀lɛ́-kúlèj ké píjɛ́lì,pɔ̀lɛ́-kúlèj ké píjɛ́lì,[],,[],,False,False,,1
-xxxx0019-1-80-1,,xxxx0019-1,80,pɔ̀lɛ́-sáːɡìː,pɔ̀lɛ́-sáːɡìː,[],,[],,False,False,,1
-xxxx0019-1-80-2,,xxxx0019-1,80,pɔ̀lɔ́ sáːɡìː,pɔ̀lɔ́ sáːɡìː,[],,[],,False,False,,1
-xxxx0019-1-80-3,,xxxx0019-1,80,sîm,sîm,[],,[],,False,False,,1
-xxxx0019-1-80-4,,xxxx0019-1,80,kɛ̀ːsǔm,kɛ̀ːsǔm,[],,[],,False,False,,1
-xxxx0019-1-90-1,,xxxx0019-1,90,pɔ̂ː twâj,pɔ̂ː twâj,[],,[],,False,False,,1
-xxxx0019-1-90-2,,xxxx0019-1,90,kɛ̀ːsǔm má ké píjɛ́lì,kɛ̀ːsǔm má ké píjɛ́lì,[],,[],,False,False,,1
-xxxx0019-1-100-1,,xxxx0019-1,100,kɛ̀ːsǔm má pɔ̂ː nɔ̀j,kɛ̀ːsǔm má pɔ̂ː nɔ̀j,[],,[],,False,False,,1
-xxxx0019-1-100-2,,xxxx0019-1,100,tɛ́ːmɛ́dɛ́rɛ̀,tɛ́ːmɛ́dɛ́rɛ̀,[],,[],,False,False,,1
-xxxx0019-1-200-1,,xxxx0019-1,200,tɛ́ːmɛ́dɛ́rɛ̀ nôːj ??,tɛ́ːmɛ́dɛ́rɛ̀ nôːj ??,[],,[],,False,True,,1
-xxxx0019-1-1000-1,,xxxx0019-1,1000,mùdʒú,mùdʒú,[],,[],,False,False,,1
-xxxx0019-1-2000-1,,xxxx0019-1,2000,mùdʒú nôːj ??,mùdʒú nôːj ??,[],,[],,False,True,,1
+xxxx0019-1-1-1,,xxxx0019-1,1,kúndé,kúndé,[],,['chan2019'],,False,False,,1
+xxxx0019-1-2-1,,xxxx0019-1,2,nôːj,nôːj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-3-1,,xxxx0019-1,3,tàːndîː,tàːndîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-4-1,,xxxx0019-1,4,kɛ́ːdʒɛ̀j,kɛ́ːdʒɛ̀j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-5-1,,xxxx0019-1,5,nùmîː,nùmîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-6-1,,xxxx0019-1,6,kúlèj,kúlèj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-7-1,,xxxx0019-1,7,swɛ̂j,swɛ̂j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-8-1,,xxxx0019-1,8,sáːɡìː,sáːɡìː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-9-1,,xxxx0019-1,9,twâj,twâj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-10-1,,xxxx0019-1,10,píjɛ́lì,píjɛ́lì,[],,['chan2019'],,False,False,,1
+xxxx0019-1-11-1,,xxxx0019-1,11,pɛ́ː sìɡà tómàj,pɛ́ː sìɡà tómàj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-12-1,,xxxx0019-1,12,pɛ́ː sìɡà nôːj,pɛ́ː sìɡà nôːj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-13-1,,xxxx0019-1,13,pɛ́ː sìɡà tàːndîː,pɛ́ː sìɡà tàːndîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-14-1,,xxxx0019-1,14,pɛ́ː sìɡà kɛ́ːdʒɛ̀j,pɛ́ː sìɡà kɛ́ːdʒɛ̀j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-15-1,,xxxx0019-1,15,pɛ́ː sìɡà nùmîː,pɛ́ː sìɡà nùmîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-16-1,,xxxx0019-1,16,pɛ́ː sìɡà kúlèj,pɛ́ː sìɡà kúlèj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-17-1,,xxxx0019-1,17,pɛ́ː sìɡà swɛ̂j,pɛ́ː sìɡà swɛ̂j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-18-1,,xxxx0019-1,18,pɛ́ː sìɡà sáːɡìː,pɛ́ː sìɡà sáːɡìː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-19-1,,xxxx0019-1,19,pɛ́ː sìɡà twâj,pɛ́ː sìɡà twâj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-20-1,,xxxx0019-1,20,pɔ̂ː nɔ̀j,pɔ̂ː nɔ̀j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-21-1,,xxxx0019-1,21,pɔ̂ː nɔ̀j sìɡà tómàj ??,pɔ̂ː nɔ̀j sìɡà tómàj ??,[],,['chan2019'],,False,True,,1
+xxxx0019-1-22-1,,xxxx0019-1,22,pɔ̂ː nɔ̀j sìɡà nôːj,pɔ̂ː nɔ̀j sìɡà nôːj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-23-1,,xxxx0019-1,23,pɔ̂ː nɔ̀j sìɡà tàːndîː,pɔ̂ː nɔ̀j sìɡà tàːndîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-24-1,,xxxx0019-1,24,pɔ̂ː nɔ̀j sìɡà kɛ́ːdʒɛ̀j,pɔ̂ː nɔ̀j sìɡà kɛ́ːdʒɛ̀j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-25-1,,xxxx0019-1,25,pɔ̂ː nɔ̀j sìɡà nùmîː,pɔ̂ː nɔ̀j sìɡà nùmîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-26-1,,xxxx0019-1,26,pɔ̂ː nɔ̀j sìɡà kúlèj,pɔ̂ː nɔ̀j sìɡà kúlèj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-27-1,,xxxx0019-1,27,pɔ̂ː nɔ̀j sìɡà swɛ̂j,pɔ̂ː nɔ̀j sìɡà swɛ̂j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-28-1,,xxxx0019-1,28,pɔ̂ː nɔ̀j sìɡà sáːɡìː,pɔ̂ː nɔ̀j sìɡà sáːɡìː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-29-1,,xxxx0019-1,29,pɔ̂ː nɔ̀j sìɡà twâj,pɔ̂ː nɔ̀j sìɡà twâj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-30-1,,xxxx0019-1,30,pɔ̂ː tàːndîː,pɔ̂ː tàːndîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-40-1,,xxxx0019-1,40,pɔ̀lɛ́-kɛ́ːdʒɛ̀j,pɔ̀lɛ́-kɛ́ːdʒɛ̀j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-40-2,,xxxx0019-1,40,pɔ̀lɔ́-kɛ́ːdʒɛ̀j,pɔ̀lɔ́-kɛ́ːdʒɛ̀j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-50-1,,xxxx0019-1,50,pɔ̀lɛ́-nùmîː,pɔ̀lɛ́-nùmîː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-50-2,,xxxx0019-1,50,pɔ̀lɔ́-kɛ́ːdʒɛ̀ ké píjɛ́lì,pɔ̀lɔ́-kɛ́ːdʒɛ̀ ké píjɛ́lì,[],,['chan2019'],,False,False,,1
+xxxx0019-1-60-1,,xxxx0019-1,60,pɔ̀lɛ́-kúlèj,pɔ̀lɛ́-kúlèj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-70-1,,xxxx0019-1,70,pɔ̂ː swɛ̂j,pɔ̂ː swɛ̂j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-70-2,,xxxx0019-1,70,pɔ̀lɛ́-kúlèj ké píjɛ́lì,pɔ̀lɛ́-kúlèj ké píjɛ́lì,[],,['chan2019'],,False,False,,1
+xxxx0019-1-80-1,,xxxx0019-1,80,pɔ̀lɛ́-sáːɡìː,pɔ̀lɛ́-sáːɡìː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-80-2,,xxxx0019-1,80,pɔ̀lɔ́ sáːɡìː,pɔ̀lɔ́ sáːɡìː,[],,['chan2019'],,False,False,,1
+xxxx0019-1-80-3,,xxxx0019-1,80,sîm,sîm,[],,['chan2019'],,False,False,,1
+xxxx0019-1-80-4,,xxxx0019-1,80,kɛ̀ːsǔm,kɛ̀ːsǔm,[],,['chan2019'],,False,False,,1
+xxxx0019-1-90-1,,xxxx0019-1,90,pɔ̂ː twâj,pɔ̂ː twâj,[],,['chan2019'],,False,False,,1
+xxxx0019-1-90-2,,xxxx0019-1,90,kɛ̀ːsǔm má ké píjɛ́lì,kɛ̀ːsǔm má ké píjɛ́lì,[],,['chan2019'],,False,False,,1
+xxxx0019-1-100-1,,xxxx0019-1,100,kɛ̀ːsǔm má pɔ̂ː nɔ̀j,kɛ̀ːsǔm má pɔ̂ː nɔ̀j,[],,['chan2019'],,False,False,,1
+xxxx0019-1-100-2,,xxxx0019-1,100,tɛ́ːmɛ́dɛ́rɛ̀,tɛ́ːmɛ́dɛ́rɛ̀,[],,['chan2019'],,False,False,,1
+xxxx0019-1-200-1,,xxxx0019-1,200,tɛ́ːmɛ́dɛ́rɛ̀ nôːj ??,tɛ́ːmɛ́dɛ́rɛ̀ nôːj ??,[],,['chan2019'],,False,True,,1
+xxxx0019-1-1000-1,,xxxx0019-1,1000,mùdʒú,mùdʒú,[],,['chan2019'],,False,False,,1
+xxxx0019-1-2000-1,,xxxx0019-1,2000,mùdʒú nôːj ??,mùdʒú nôːj ??,[],,['chan2019'],,False,True,,1

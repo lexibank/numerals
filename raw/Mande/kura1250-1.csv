@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kura1250-1-1-1,,kura1250-1,1,kelen,kelen,[],,[],,False,False,,1
-kura1250-1-2-1,,kura1250-1,2,fila,fila,[],,[],,False,False,,1
-kura1250-1-3-1,,kura1250-1,3,sawa,sawa,[],,[],,False,False,,1
-kura1250-1-3-2,,kura1250-1,3,saba,saba,[],,[],,False,False,,1
-kura1250-1-4-1,,kura1250-1,4,nani,nani,[],,[],,False,False,,1
-kura1250-1-5-1,,kura1250-1,5,loli,loli,[],,[],,False,False,,1
-kura1250-1-6-1,,kura1250-1,6,wɔrɔ,wɔrɔ,[],,[],,False,False,,1
-kura1250-1-7-1,,kura1250-1,7,wɔrɔnfila,wɔrɔnfila,[],( 6 + 1 ) ?,[],,False,False,,1
-kura1250-1-8-1,,kura1250-1,8,seɡin,seɡin,[],,[],,False,False,,1
-kura1250-1-9-1,,kura1250-1,9,kɔnɔnt,kɔnɔnt,[],,[],,False,False,,1
-kura1250-1-10-1,,kura1250-1,10,tan,tan,[],,[],,False,False,,1
-kura1250-1-11-1,,kura1250-1,11,tan ni kelen,tan ni kelen,[],,[],,False,False,,1
-kura1250-1-12-1,,kura1250-1,12,tan ni fila,tan ni fila,[],,[],,False,False,,1
-kura1250-1-13-1,,kura1250-1,13,tan ni sawa,tan ni sawa,[],,[],,False,False,,1
-kura1250-1-14-1,,kura1250-1,14,tan ni nani,tan ni nani,[],,[],,False,False,,1
-kura1250-1-15-1,,kura1250-1,15,tan ni loli,tan ni loli,[],,[],,False,False,,1
-kura1250-1-16-1,,kura1250-1,16,tan ni wɔrɔ,tan ni wɔrɔ,[],,[],,False,False,,1
-kura1250-1-17-1,,kura1250-1,17,tan ni wɔrɔnfila,tan ni wɔrɔnfila,[],,[],,False,False,,1
-kura1250-1-18-1,,kura1250-1,18,tan ni seɡin,tan ni seɡin,[],,[],,False,False,,1
-kura1250-1-19-1,,kura1250-1,19,tan ni kɔnɔnt,tan ni kɔnɔnt,[],,[],,False,False,,1
-kura1250-1-20-1,,kura1250-1,20,moɡan,moɡan,[],,[],,False,False,,1
-kura1250-1-21-1,,kura1250-1,21,moɡan ni kelen,moɡan ni kelen,[],,[],,False,False,,1
-kura1250-1-22-1,,kura1250-1,22,moɡan ni fila,moɡan ni fila,[],,[],,False,False,,1
-kura1250-1-23-1,,kura1250-1,23,moɡan ni sawa,moɡan ni sawa,[],,[],,False,False,,1
-kura1250-1-24-1,,kura1250-1,24,moɡan ni nani,moɡan ni nani,[],,[],,False,False,,1
-kura1250-1-25-1,,kura1250-1,25,moɡan ni loli,moɡan ni loli,[],,[],,False,False,,1
-kura1250-1-26-1,,kura1250-1,26,moɡan ni wɔrɔ,moɡan ni wɔrɔ,[],,[],,False,False,,1
-kura1250-1-27-1,,kura1250-1,27,moɡan ni wɔrɔnfila,moɡan ni wɔrɔnfila,[],,[],,False,False,,1
-kura1250-1-28-1,,kura1250-1,28,moɡan ni seɡin,moɡan ni seɡin,[],,[],,False,False,,1
-kura1250-1-29-1,,kura1250-1,29,moɡan ni kɔnɔnt,moɡan ni kɔnɔnt,[],,[],,False,False,,1
-kura1250-1-30-1,,kura1250-1,30,bi-sawa,bi-sawa,[],,[],,False,False,,1
-kura1250-1-30-2,,kura1250-1,30,bi-saba,bi-saba,[],,[],,False,False,,1
-kura1250-1-40-1,,kura1250-1,40,bi-nani,bi-nani,[],,[],,False,False,,1
-kura1250-1-50-1,,kura1250-1,50,bi-loli,bi-loli,[],,[],,False,False,,1
-kura1250-1-60-1,,kura1250-1,60,bi-wɔrɔ,bi-wɔrɔ,[],,[],,False,False,,1
-kura1250-1-70-1,,kura1250-1,70,bi-wɔrɔnfila,bi-wɔrɔnfila,[],,[],,False,False,,1
-kura1250-1-80-1,,kura1250-1,80,bi-seɡin,bi-seɡin,[],,[],,False,False,,1
-kura1250-1-90-1,,kura1250-1,90,bi-kɔnɔnt,bi-kɔnɔnt,[],,[],,False,False,,1
-kura1250-1-100-1,,kura1250-1,100,kɛmɛ,kɛmɛ,[],,[],,False,False,,1
-kura1250-1-200-1,,kura1250-1,200,kɛmɛ fila,kɛmɛ fila,[],,[],,False,False,,1
-kura1250-1-1000-1,,kura1250-1,1000,waɡa,waɡa,[],,[],,False,False,,1
-kura1250-1-2000-1,,kura1250-1,2000,waɡa fila,waɡa fila,[],,[],,False,False,,1
-kura1250-1-2000-2,,kura1250-1,2000,wa'a fila,wa'a fila,[],,[],,False,False,,1
+kura1250-1-1-1,,kura1250-1,1,kelen,kelen,[],,['chan2019'],,False,False,,1
+kura1250-1-2-1,,kura1250-1,2,fila,fila,[],,['chan2019'],,False,False,,1
+kura1250-1-3-1,,kura1250-1,3,sawa,sawa,[],,['chan2019'],,False,False,,1
+kura1250-1-3-2,,kura1250-1,3,saba,saba,[],,['chan2019'],,False,False,,1
+kura1250-1-4-1,,kura1250-1,4,nani,nani,[],,['chan2019'],,False,False,,1
+kura1250-1-5-1,,kura1250-1,5,loli,loli,[],,['chan2019'],,False,False,,1
+kura1250-1-6-1,,kura1250-1,6,wɔrɔ,wɔrɔ,[],,['chan2019'],,False,False,,1
+kura1250-1-7-1,,kura1250-1,7,wɔrɔnfila,wɔrɔnfila,[],( 6 + 1 ) ?,['chan2019'],,False,False,,1
+kura1250-1-8-1,,kura1250-1,8,seɡin,seɡin,[],,['chan2019'],,False,False,,1
+kura1250-1-9-1,,kura1250-1,9,kɔnɔnt,kɔnɔnt,[],,['chan2019'],,False,False,,1
+kura1250-1-10-1,,kura1250-1,10,tan,tan,[],,['chan2019'],,False,False,,1
+kura1250-1-11-1,,kura1250-1,11,tan ni kelen,tan ni kelen,[],,['chan2019'],,False,False,,1
+kura1250-1-12-1,,kura1250-1,12,tan ni fila,tan ni fila,[],,['chan2019'],,False,False,,1
+kura1250-1-13-1,,kura1250-1,13,tan ni sawa,tan ni sawa,[],,['chan2019'],,False,False,,1
+kura1250-1-14-1,,kura1250-1,14,tan ni nani,tan ni nani,[],,['chan2019'],,False,False,,1
+kura1250-1-15-1,,kura1250-1,15,tan ni loli,tan ni loli,[],,['chan2019'],,False,False,,1
+kura1250-1-16-1,,kura1250-1,16,tan ni wɔrɔ,tan ni wɔrɔ,[],,['chan2019'],,False,False,,1
+kura1250-1-17-1,,kura1250-1,17,tan ni wɔrɔnfila,tan ni wɔrɔnfila,[],,['chan2019'],,False,False,,1
+kura1250-1-18-1,,kura1250-1,18,tan ni seɡin,tan ni seɡin,[],,['chan2019'],,False,False,,1
+kura1250-1-19-1,,kura1250-1,19,tan ni kɔnɔnt,tan ni kɔnɔnt,[],,['chan2019'],,False,False,,1
+kura1250-1-20-1,,kura1250-1,20,moɡan,moɡan,[],,['chan2019'],,False,False,,1
+kura1250-1-21-1,,kura1250-1,21,moɡan ni kelen,moɡan ni kelen,[],,['chan2019'],,False,False,,1
+kura1250-1-22-1,,kura1250-1,22,moɡan ni fila,moɡan ni fila,[],,['chan2019'],,False,False,,1
+kura1250-1-23-1,,kura1250-1,23,moɡan ni sawa,moɡan ni sawa,[],,['chan2019'],,False,False,,1
+kura1250-1-24-1,,kura1250-1,24,moɡan ni nani,moɡan ni nani,[],,['chan2019'],,False,False,,1
+kura1250-1-25-1,,kura1250-1,25,moɡan ni loli,moɡan ni loli,[],,['chan2019'],,False,False,,1
+kura1250-1-26-1,,kura1250-1,26,moɡan ni wɔrɔ,moɡan ni wɔrɔ,[],,['chan2019'],,False,False,,1
+kura1250-1-27-1,,kura1250-1,27,moɡan ni wɔrɔnfila,moɡan ni wɔrɔnfila,[],,['chan2019'],,False,False,,1
+kura1250-1-28-1,,kura1250-1,28,moɡan ni seɡin,moɡan ni seɡin,[],,['chan2019'],,False,False,,1
+kura1250-1-29-1,,kura1250-1,29,moɡan ni kɔnɔnt,moɡan ni kɔnɔnt,[],,['chan2019'],,False,False,,1
+kura1250-1-30-1,,kura1250-1,30,bi-sawa,bi-sawa,[],,['chan2019'],,False,False,,1
+kura1250-1-30-2,,kura1250-1,30,bi-saba,bi-saba,[],,['chan2019'],,False,False,,1
+kura1250-1-40-1,,kura1250-1,40,bi-nani,bi-nani,[],,['chan2019'],,False,False,,1
+kura1250-1-50-1,,kura1250-1,50,bi-loli,bi-loli,[],,['chan2019'],,False,False,,1
+kura1250-1-60-1,,kura1250-1,60,bi-wɔrɔ,bi-wɔrɔ,[],,['chan2019'],,False,False,,1
+kura1250-1-70-1,,kura1250-1,70,bi-wɔrɔnfila,bi-wɔrɔnfila,[],,['chan2019'],,False,False,,1
+kura1250-1-80-1,,kura1250-1,80,bi-seɡin,bi-seɡin,[],,['chan2019'],,False,False,,1
+kura1250-1-90-1,,kura1250-1,90,bi-kɔnɔnt,bi-kɔnɔnt,[],,['chan2019'],,False,False,,1
+kura1250-1-100-1,,kura1250-1,100,kɛmɛ,kɛmɛ,[],,['chan2019'],,False,False,,1
+kura1250-1-200-1,,kura1250-1,200,kɛmɛ fila,kɛmɛ fila,[],,['chan2019'],,False,False,,1
+kura1250-1-1000-1,,kura1250-1,1000,waɡa,waɡa,[],,['chan2019'],,False,False,,1
+kura1250-1-2000-1,,kura1250-1,2000,waɡa fila,waɡa fila,[],,['chan2019'],,False,False,,1
+kura1250-1-2000-2,,kura1250-1,2000,wa'a fila,wa'a fila,[],,['chan2019'],,False,False,,1

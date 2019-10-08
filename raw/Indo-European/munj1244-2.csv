@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-munj1244-2-1-1,,munj1244-2,1,yu,yu,[],,[],,False,False,,2
-munj1244-2-2-1,,munj1244-2,2,lu,lu,[],,[],,False,False,,2
-munj1244-2-3-1,,munj1244-2,3,ʃiroi,ʃiroi,[],,[],,False,False,,2
-munj1244-2-4-1,,munj1244-2,4,t͡ʃfur,t͡ʃfur,[],,[],,False,False,,2
-munj1244-2-5-1,,munj1244-2,5,pond͡ʒ,pond͡ʒ,[],,[],,False,False,,2
-munj1244-2-6-1,,munj1244-2,6,oxʃa,oxʃa,[],,[],,False,False,,2
-munj1244-2-7-1,,munj1244-2,7,avdʌ,avdʌ,[],,[],,False,False,,2
-munj1244-2-8-1,,munj1244-2,8,oʃkya,oʃkya,[],,[],,False,False,,2
-munj1244-2-9-1,,munj1244-2,9,no,no,[],,[],,False,False,,2
-munj1244-2-10-1,,munj1244-2,10,da,da,[],,[],,False,False,,2
-munj1244-2-11-1,,munj1244-2,11,jozda,jozda,[],,[],,False,False,,2
-munj1244-2-12-1,,munj1244-2,12,dwozda,dwozda,[],,[],,False,False,,2
-munj1244-2-13-1,,munj1244-2,13,siʃdah,siʃdah,[],,[],,False,False,,2
-munj1244-2-14-1,,munj1244-2,14,t͡ʃohardah,t͡ʃohardah,[],,[],,False,False,,2
-munj1244-2-15-1,,munj1244-2,15,panzadah,panzadah,[],,[],,False,False,,2
-munj1244-2-16-1,,munj1244-2,16,ʃanzadah,ʃanzadah,[],,[],,False,False,,2
-munj1244-2-17-1,,munj1244-2,17,haftdah,haftdah,[],,[],,False,False,,2
-munj1244-2-18-1,,munj1244-2,18,haʒdah,haʒdah,[],,[],,False,False,haʃtdah,2
-munj1244-2-19-1,,munj1244-2,19,nuzdah,nuzdah,[],,[],,False,False,nuzdah,2
-munj1244-2-20-1,,munj1244-2,20,wiːst,wiːst,[],,[],,False,False,,2
-munj1244-2-21-1,,munj1244-2,21,wːistu yu,wːistu yu,[],,[],,False,False,,2
-munj1244-2-22-1,,munj1244-2,22,wiːstu lu,wiːstu lu,[],,[],,False,False,,2
-munj1244-2-23-1,,munj1244-2,23,wiːstu ʃiroi,wiːstu ʃiroi,[],,[],,False,False,,2
-munj1244-2-24-1,,munj1244-2,24,wiːstu t͡ʃfur,wiːstu t͡ʃfur,[],,[],,False,False,,2
-munj1244-2-25-1,,munj1244-2,25,wiːstu pond͡ʒ,wiːstu pond͡ʒ,[],,[],,False,False,,2
-munj1244-2-26-1,,munj1244-2,26,wiːstu oxʃa,wiːstu oxʃa,[],,[],,False,False,,2
-munj1244-2-27-1,,munj1244-2,27,wiːstu avdʌ,wiːstu avdʌ,[],,[],,False,False,,2
-munj1244-2-28-1,,munj1244-2,28,wisːtu oʃkya,wisːtu oʃkya,[],,[],,False,False,,2
-munj1244-2-29-1,,munj1244-2,29,wiːstu no,wiːstu no,[],,[],,False,False,,2
-munj1244-2-30-1,,munj1244-2,30,si,si,[],,[],,False,False,,2
-munj1244-2-40-1,,munj1244-2,40,t͡ʃihal,t͡ʃihal,[],,[],,False,False,,2
-munj1244-2-50-1,,munj1244-2,50,pand͡ʒah,pand͡ʒah,[],,[],,False,False,,2
-munj1244-2-60-1,,munj1244-2,60,ʃast,ʃast,[],,[],,False,False,,2
-munj1244-2-70-1,,munj1244-2,70,haftad,haftad,[],,[],,False,False,,2
-munj1244-2-80-1,,munj1244-2,80,haʃtad,haʃtad,[],,[],,False,False,,2
-munj1244-2-90-1,,munj1244-2,90,nud,nud,[],,[],,False,False,,2
-munj1244-2-100-1,,munj1244-2,100,sʌ,sʌ,[],,[],,False,False,,2
-munj1244-2-100-2,,munj1244-2,100,sad,sad,[],,[],,False,False,,2
-munj1244-2-200-1,,munj1244-2,200,dusad,dusad,[],,[],,False,False,,2
-munj1244-2-1000-1,,munj1244-2,1000,hazar,hazar,[],,[],,False,False,,2
-munj1244-2-2000-1,,munj1244-2,2000,du hazar,du hazar,[],,[],,False,False,,2
+munj1244-2-1-1,,munj1244-2,1,yu,yu,[],,['chan2019'],,False,False,,2
+munj1244-2-2-1,,munj1244-2,2,lu,lu,[],,['chan2019'],,False,False,,2
+munj1244-2-3-1,,munj1244-2,3,ʃiroi,ʃiroi,[],,['chan2019'],,False,False,,2
+munj1244-2-4-1,,munj1244-2,4,t͡ʃfur,t͡ʃfur,[],,['chan2019'],,False,False,,2
+munj1244-2-5-1,,munj1244-2,5,pond͡ʒ,pond͡ʒ,[],,['chan2019'],,False,False,,2
+munj1244-2-6-1,,munj1244-2,6,oxʃa,oxʃa,[],,['chan2019'],,False,False,,2
+munj1244-2-7-1,,munj1244-2,7,avdʌ,avdʌ,[],,['chan2019'],,False,False,,2
+munj1244-2-8-1,,munj1244-2,8,oʃkya,oʃkya,[],,['chan2019'],,False,False,,2
+munj1244-2-9-1,,munj1244-2,9,no,no,[],,['chan2019'],,False,False,,2
+munj1244-2-10-1,,munj1244-2,10,da,da,[],,['chan2019'],,False,False,,2
+munj1244-2-11-1,,munj1244-2,11,jozda,jozda,[],,['chan2019'],,False,False,,2
+munj1244-2-12-1,,munj1244-2,12,dwozda,dwozda,[],,['chan2019'],,False,False,,2
+munj1244-2-13-1,,munj1244-2,13,siʃdah,siʃdah,[],,['chan2019'],,False,False,,2
+munj1244-2-14-1,,munj1244-2,14,t͡ʃohardah,t͡ʃohardah,[],,['chan2019'],,False,False,,2
+munj1244-2-15-1,,munj1244-2,15,panzadah,panzadah,[],,['chan2019'],,False,False,,2
+munj1244-2-16-1,,munj1244-2,16,ʃanzadah,ʃanzadah,[],,['chan2019'],,False,False,,2
+munj1244-2-17-1,,munj1244-2,17,haftdah,haftdah,[],,['chan2019'],,False,False,,2
+munj1244-2-18-1,,munj1244-2,18,haʒdah,haʒdah,[],,['chan2019'],,False,False,haʃtdah,2
+munj1244-2-19-1,,munj1244-2,19,nuzdah,nuzdah,[],,['chan2019'],,False,False,nuzdah,2
+munj1244-2-20-1,,munj1244-2,20,wiːst,wiːst,[],,['chan2019'],,False,False,,2
+munj1244-2-21-1,,munj1244-2,21,wːistu yu,wːistu yu,[],,['chan2019'],,False,False,,2
+munj1244-2-22-1,,munj1244-2,22,wiːstu lu,wiːstu lu,[],,['chan2019'],,False,False,,2
+munj1244-2-23-1,,munj1244-2,23,wiːstu ʃiroi,wiːstu ʃiroi,[],,['chan2019'],,False,False,,2
+munj1244-2-24-1,,munj1244-2,24,wiːstu t͡ʃfur,wiːstu t͡ʃfur,[],,['chan2019'],,False,False,,2
+munj1244-2-25-1,,munj1244-2,25,wiːstu pond͡ʒ,wiːstu pond͡ʒ,[],,['chan2019'],,False,False,,2
+munj1244-2-26-1,,munj1244-2,26,wiːstu oxʃa,wiːstu oxʃa,[],,['chan2019'],,False,False,,2
+munj1244-2-27-1,,munj1244-2,27,wiːstu avdʌ,wiːstu avdʌ,[],,['chan2019'],,False,False,,2
+munj1244-2-28-1,,munj1244-2,28,wisːtu oʃkya,wisːtu oʃkya,[],,['chan2019'],,False,False,,2
+munj1244-2-29-1,,munj1244-2,29,wiːstu no,wiːstu no,[],,['chan2019'],,False,False,,2
+munj1244-2-30-1,,munj1244-2,30,si,si,[],,['chan2019'],,False,False,,2
+munj1244-2-40-1,,munj1244-2,40,t͡ʃihal,t͡ʃihal,[],,['chan2019'],,False,False,,2
+munj1244-2-50-1,,munj1244-2,50,pand͡ʒah,pand͡ʒah,[],,['chan2019'],,False,False,,2
+munj1244-2-60-1,,munj1244-2,60,ʃast,ʃast,[],,['chan2019'],,False,False,,2
+munj1244-2-70-1,,munj1244-2,70,haftad,haftad,[],,['chan2019'],,False,False,,2
+munj1244-2-80-1,,munj1244-2,80,haʃtad,haʃtad,[],,['chan2019'],,False,False,,2
+munj1244-2-90-1,,munj1244-2,90,nud,nud,[],,['chan2019'],,False,False,,2
+munj1244-2-100-1,,munj1244-2,100,sʌ,sʌ,[],,['chan2019'],,False,False,,2
+munj1244-2-100-2,,munj1244-2,100,sad,sad,[],,['chan2019'],,False,False,,2
+munj1244-2-200-1,,munj1244-2,200,dusad,dusad,[],,['chan2019'],,False,False,,2
+munj1244-2-1000-1,,munj1244-2,1000,hazar,hazar,[],,['chan2019'],,False,False,,2
+munj1244-2-2000-1,,munj1244-2,2000,du hazar,du hazar,[],,['chan2019'],,False,False,,2

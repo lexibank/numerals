@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-haka1240-2-1-1,,haka1240-2,1,pakhat,pakhat,[],,[],,False,False,,2
-haka1240-2-2-1,,haka1240-2,2,pahnih,pahnih,[],,[],,False,False,,2
-haka1240-2-3-1,,haka1240-2,3,pathum,pathum,[],,[],,False,False,,2
-haka1240-2-4-1,,haka1240-2,4,pali,pali,[],,[],,False,False,,2
-haka1240-2-5-1,,haka1240-2,5,panga,panga,[],,[],,False,False,,2
-haka1240-2-6-1,,haka1240-2,6,paruk,paruk,[],,[],,False,False,,2
-haka1240-2-7-1,,haka1240-2,7,pasarih,pasarih,[],,[],,False,False,,2
-haka1240-2-8-1,,haka1240-2,8,pariat,pariat,[],,[],,False,False,,2
-haka1240-2-9-1,,haka1240-2,9,pakua,pakua,[],,[],,False,False,,2
-haka1240-2-10-1,,haka1240-2,10,pahra,pahra,[],,[],,False,False,,2
-haka1240-2-11-1,,haka1240-2,11,hleikhat̞,hleikhat̞,[],,[],,False,False,,2
-haka1240-2-12-1,,haka1240-2,12,hlei hnih,hlei hnih,[],,[],,False,False,,2
-haka1240-2-13-1,,haka1240-2,13,hleithum,hleithum,[],,[],,False,False,,2
-haka1240-2-14-1,,haka1240-2,14,hlei li,hlei li,[],,[],,False,False,,2
-haka1240-2-15-1,,haka1240-2,15,hlei nga,hlei nga,[],,[],,False,False,,2
-haka1240-2-16-1,,haka1240-2,16,hlei ruk,hlei ruk,[],,[],,False,False,,2
-haka1240-2-17-1,,haka1240-2,17,hlei sarih,hlei sarih,[],,[],,False,False,,2
-haka1240-2-18-1,,haka1240-2,18,hlei riat,hlei riat,[],,[],,False,False,,2
-haka1240-2-19-1,,haka1240-2,19,hlei kua,hlei kua,[],,[],,False,False,,2
-haka1240-2-20-1,,haka1240-2,20,kul,kul,[],,[],,False,False,,2
-haka1240-2-21-1,,haka1240-2,21,kul le khat,kul le khat,[],,[],,False,False,,2
-haka1240-2-22-1,,haka1240-2,22,kul le hnih,kul le hnih,[],,[],,False,False,,2
-haka1240-2-23-1,,haka1240-2,23,kul le thum,kul le thum,[],,[],,False,False,,2
-haka1240-2-24-1,,haka1240-2,24,kul le li,kul le li,[],,[],,False,False,,2
-haka1240-2-25-1,,haka1240-2,25,kul le ngaː,kul le ngaː,[],,[],,False,False,,2
-haka1240-2-26-1,,haka1240-2,26,kul le ruk,kul le ruk,[],,[],,False,False,,2
-haka1240-2-27-1,,haka1240-2,27,kul le sarih,kul le sarih,[],,[],,False,False,,2
-haka1240-2-28-1,,haka1240-2,28,kul le riat,kul le riat,[],,[],,False,False,,2
-haka1240-2-29-1,,haka1240-2,29,kul le kua,kul le kua,[],,[],,False,False,,2
-haka1240-2-30-1,,haka1240-2,30,sawm thum,sawm thum,[],,[],,False,False,,2
-haka1240-2-40-1,,haka1240-2,40,sawm li,sawm li,[],,[],,False,False,,2
-haka1240-2-50-1,,haka1240-2,50,sawm nga,sawm nga,[],,[],,False,False,,2
-haka1240-2-60-1,,haka1240-2,60,sawm ruk,sawm ruk,[],,[],,False,False,,2
-haka1240-2-70-1,,haka1240-2,70,sawm sarih,sawm sarih,[],,[],,False,False,,2
-haka1240-2-80-1,,haka1240-2,80,sawm riat,sawm riat,[],,[],,False,False,,2
-haka1240-2-90-1,,haka1240-2,90,sawm kua,sawm kua,[],,[],,False,False,,2
-haka1240-2-100-1,,haka1240-2,100,za khat,za khat,[],,[],,False,False,,2
-haka1240-2-200-1,,haka1240-2,200,za hnih,za hnih,[],,[],,False,False,,2
-haka1240-2-1000-1,,haka1240-2,1000,thawng khat,thawng khat,[],,[],,False,False,,2
-haka1240-2-2000-1,,haka1240-2,2000,thawng hnih,thawng hnih,[],,[],,False,False,,2
-haka1240-2-2000-2,,haka1240-2,2000,thwang hra,thwang hra,[],,[],,False,False,,2
+haka1240-2-1-1,,haka1240-2,1,pakhat,pakhat,[],,['chan2019'],,False,False,,2
+haka1240-2-2-1,,haka1240-2,2,pahnih,pahnih,[],,['chan2019'],,False,False,,2
+haka1240-2-3-1,,haka1240-2,3,pathum,pathum,[],,['chan2019'],,False,False,,2
+haka1240-2-4-1,,haka1240-2,4,pali,pali,[],,['chan2019'],,False,False,,2
+haka1240-2-5-1,,haka1240-2,5,panga,panga,[],,['chan2019'],,False,False,,2
+haka1240-2-6-1,,haka1240-2,6,paruk,paruk,[],,['chan2019'],,False,False,,2
+haka1240-2-7-1,,haka1240-2,7,pasarih,pasarih,[],,['chan2019'],,False,False,,2
+haka1240-2-8-1,,haka1240-2,8,pariat,pariat,[],,['chan2019'],,False,False,,2
+haka1240-2-9-1,,haka1240-2,9,pakua,pakua,[],,['chan2019'],,False,False,,2
+haka1240-2-10-1,,haka1240-2,10,pahra,pahra,[],,['chan2019'],,False,False,,2
+haka1240-2-11-1,,haka1240-2,11,hleikhat̞,hleikhat̞,[],,['chan2019'],,False,False,,2
+haka1240-2-12-1,,haka1240-2,12,hlei hnih,hlei hnih,[],,['chan2019'],,False,False,,2
+haka1240-2-13-1,,haka1240-2,13,hleithum,hleithum,[],,['chan2019'],,False,False,,2
+haka1240-2-14-1,,haka1240-2,14,hlei li,hlei li,[],,['chan2019'],,False,False,,2
+haka1240-2-15-1,,haka1240-2,15,hlei nga,hlei nga,[],,['chan2019'],,False,False,,2
+haka1240-2-16-1,,haka1240-2,16,hlei ruk,hlei ruk,[],,['chan2019'],,False,False,,2
+haka1240-2-17-1,,haka1240-2,17,hlei sarih,hlei sarih,[],,['chan2019'],,False,False,,2
+haka1240-2-18-1,,haka1240-2,18,hlei riat,hlei riat,[],,['chan2019'],,False,False,,2
+haka1240-2-19-1,,haka1240-2,19,hlei kua,hlei kua,[],,['chan2019'],,False,False,,2
+haka1240-2-20-1,,haka1240-2,20,kul,kul,[],,['chan2019'],,False,False,,2
+haka1240-2-21-1,,haka1240-2,21,kul le khat,kul le khat,[],,['chan2019'],,False,False,,2
+haka1240-2-22-1,,haka1240-2,22,kul le hnih,kul le hnih,[],,['chan2019'],,False,False,,2
+haka1240-2-23-1,,haka1240-2,23,kul le thum,kul le thum,[],,['chan2019'],,False,False,,2
+haka1240-2-24-1,,haka1240-2,24,kul le li,kul le li,[],,['chan2019'],,False,False,,2
+haka1240-2-25-1,,haka1240-2,25,kul le ngaː,kul le ngaː,[],,['chan2019'],,False,False,,2
+haka1240-2-26-1,,haka1240-2,26,kul le ruk,kul le ruk,[],,['chan2019'],,False,False,,2
+haka1240-2-27-1,,haka1240-2,27,kul le sarih,kul le sarih,[],,['chan2019'],,False,False,,2
+haka1240-2-28-1,,haka1240-2,28,kul le riat,kul le riat,[],,['chan2019'],,False,False,,2
+haka1240-2-29-1,,haka1240-2,29,kul le kua,kul le kua,[],,['chan2019'],,False,False,,2
+haka1240-2-30-1,,haka1240-2,30,sawm thum,sawm thum,[],,['chan2019'],,False,False,,2
+haka1240-2-40-1,,haka1240-2,40,sawm li,sawm li,[],,['chan2019'],,False,False,,2
+haka1240-2-50-1,,haka1240-2,50,sawm nga,sawm nga,[],,['chan2019'],,False,False,,2
+haka1240-2-60-1,,haka1240-2,60,sawm ruk,sawm ruk,[],,['chan2019'],,False,False,,2
+haka1240-2-70-1,,haka1240-2,70,sawm sarih,sawm sarih,[],,['chan2019'],,False,False,,2
+haka1240-2-80-1,,haka1240-2,80,sawm riat,sawm riat,[],,['chan2019'],,False,False,,2
+haka1240-2-90-1,,haka1240-2,90,sawm kua,sawm kua,[],,['chan2019'],,False,False,,2
+haka1240-2-100-1,,haka1240-2,100,za khat,za khat,[],,['chan2019'],,False,False,,2
+haka1240-2-200-1,,haka1240-2,200,za hnih,za hnih,[],,['chan2019'],,False,False,,2
+haka1240-2-1000-1,,haka1240-2,1000,thawng khat,thawng khat,[],,['chan2019'],,False,False,,2
+haka1240-2-2000-1,,haka1240-2,2000,thawng hnih,thawng hnih,[],,['chan2019'],,False,False,,2
+haka1240-2-2000-2,,haka1240-2,2000,thwang hra,thwang hra,[],,['chan2019'],,False,False,,2

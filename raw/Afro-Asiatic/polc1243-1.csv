@@ -1,32 +1,32 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-polc1243-1-1-1,,polc1243-1,1,nɨ̀m,nɨ̀m,[],,[],,False,False,,1
-polc1243-1-2-1,,polc1243-1,2,rǒp,rǒp,[],,[],,False,False,,1
-polc1243-1-3-1,,polc1243-1,3,miyèn,miyèn,[],,[],,False,False,,1
-polc1243-1-4-1,,polc1243-1,4,wupsɨ̀,wupsɨ̀,[],,[],,False,False,,1
-polc1243-1-5-1,,polc1243-1,5,nə̀mtəm,nə̀mtəm,[],,[],,False,False,,1
-polc1243-1-6-1,,polc1243-1,6,maɣà,maɣà,[],,[],,False,False,,1
-polc1243-1-7-1,,polc1243-1,7,wusɨ̀rmìyen,wusɨ̀rmìyen,[],( 4 + 3 ) ?,[],,False,False,,1
-polc1243-1-8-1,,polc1243-1,8,wɨsɨpsɨ̀,wɨsɨpsɨ̀,[],( 2 x 4 ) ?,[],,False,False,,1
-polc1243-1-9-1,,polc1243-1,9,nàtoropsɨ̀,nàtoropsɨ̀,[],,[],,False,False,,1
-polc1243-1-10-1,,polc1243-1,10,zup,zup,[],,[],,False,False,,1
-polc1243-1-11-1,,polc1243-1,11,zup ɬiyè nɨ̀m,zup ɬiyè nɨ̀m,[],,[],,False,False,,1
-polc1243-1-12-1,,polc1243-1,12,zup ɬiyè ròp,zup ɬiyè ròp,[],,[],,False,False,,1
-polc1243-1-13-1,,polc1243-1,13,zup ɬiyè miyèn,zup ɬiyè miyèn,[],,[],,False,False,,1
-polc1243-1-14-1,,polc1243-1,14,zup ɬiyè wupsɨ̀,zup ɬiyè wupsɨ̀,[],,[],,False,False,,1
-polc1243-1-15-1,,polc1243-1,15,zup ɬiyè nə̀mtəm,zup ɬiyè nə̀mtəm,[],,[],,False,False,,1
-polc1243-1-16-1,,polc1243-1,16,zup ɬiyè maɣà,zup ɬiyè maɣà,[],,[],,False,False,,1
-polc1243-1-17-1,,polc1243-1,17,zup ɬiyè wusɨ̀rmìyen,zup ɬiyè wusɨ̀rmìyen,[],,[],,False,False,,1
-polc1243-1-18-1,,polc1243-1,18,zup ɬiyè wɨsɨpsɨ̀,zup ɬiyè wɨsɨpsɨ̀,[],,[],,False,False,,1
-polc1243-1-19-1,,polc1243-1,19,zup ɬiyè nə̀topsi,zup ɬiyè nə̀topsi,[],,[],,False,False,,1
-polc1243-1-20-1,,polc1243-1,20,zì rop,zì rop,[],,[],,False,False,,1
-polc1243-1-21-1,,polc1243-1,21,zì rop ɬiyè ni nɨ̀m,zì rop ɬiyè ni nɨ̀m,[],,[],,False,False,,1
-polc1243-1-24-1,,polc1243-1,24,zì rop ɬiyè ni wupsɨ̀,zì rop ɬiyè ni wupsɨ̀,[],,[],,False,False,,1
-polc1243-1-25-1,,polc1243-1,25,zì rop ɬiyè ni nə̀mtəm,zì rop ɬiyè ni nə̀mtəm,[],,[],,False,False,,1
-polc1243-1-30-1,,polc1243-1,30,zì miyèn,zì miyèn,[],,[],,False,False,,1
-polc1243-1-40-1,,polc1243-1,40,zì wupsɨ̀,zì wupsɨ̀,[],,[],,False,False,,1
-polc1243-1-50-1,,polc1243-1,50,zì nə̀mtəm,zì nə̀mtəm,[],,[],,False,False,,1
-polc1243-1-60-1,,polc1243-1,60,zì maɣà,zì maɣà,[],,[],,False,False,,1
-polc1243-1-70-1,,polc1243-1,70,zì wusɨ̀rmìyen,zì wusɨ̀rmìyen,[],,[],,False,False,,1
-polc1243-1-80-1,,polc1243-1,80,zì wɨsɨpsɨ̀,zì wɨsɨpsɨ̀,[],,[],,False,False,,1
-polc1243-1-90-1,,polc1243-1,90,zì nàtoropsɨ̀,zì nàtoropsɨ̀,[],,[],,False,False,,1
-polc1243-1-100-1,,polc1243-1,100,zì zup,zì zup,[],,[],,False,False,,1
+polc1243-1-1-1,,polc1243-1,1,nɨ̀m,nɨ̀m,[],,['chan2019'],,False,False,,1
+polc1243-1-2-1,,polc1243-1,2,rǒp,rǒp,[],,['chan2019'],,False,False,,1
+polc1243-1-3-1,,polc1243-1,3,miyèn,miyèn,[],,['chan2019'],,False,False,,1
+polc1243-1-4-1,,polc1243-1,4,wupsɨ̀,wupsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-5-1,,polc1243-1,5,nə̀mtəm,nə̀mtəm,[],,['chan2019'],,False,False,,1
+polc1243-1-6-1,,polc1243-1,6,maɣà,maɣà,[],,['chan2019'],,False,False,,1
+polc1243-1-7-1,,polc1243-1,7,wusɨ̀rmìyen,wusɨ̀rmìyen,[],( 4 + 3 ) ?,['chan2019'],,False,False,,1
+polc1243-1-8-1,,polc1243-1,8,wɨsɨpsɨ̀,wɨsɨpsɨ̀,[],( 2 x 4 ) ?,['chan2019'],,False,False,,1
+polc1243-1-9-1,,polc1243-1,9,nàtoropsɨ̀,nàtoropsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-10-1,,polc1243-1,10,zup,zup,[],,['chan2019'],,False,False,,1
+polc1243-1-11-1,,polc1243-1,11,zup ɬiyè nɨ̀m,zup ɬiyè nɨ̀m,[],,['chan2019'],,False,False,,1
+polc1243-1-12-1,,polc1243-1,12,zup ɬiyè ròp,zup ɬiyè ròp,[],,['chan2019'],,False,False,,1
+polc1243-1-13-1,,polc1243-1,13,zup ɬiyè miyèn,zup ɬiyè miyèn,[],,['chan2019'],,False,False,,1
+polc1243-1-14-1,,polc1243-1,14,zup ɬiyè wupsɨ̀,zup ɬiyè wupsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-15-1,,polc1243-1,15,zup ɬiyè nə̀mtəm,zup ɬiyè nə̀mtəm,[],,['chan2019'],,False,False,,1
+polc1243-1-16-1,,polc1243-1,16,zup ɬiyè maɣà,zup ɬiyè maɣà,[],,['chan2019'],,False,False,,1
+polc1243-1-17-1,,polc1243-1,17,zup ɬiyè wusɨ̀rmìyen,zup ɬiyè wusɨ̀rmìyen,[],,['chan2019'],,False,False,,1
+polc1243-1-18-1,,polc1243-1,18,zup ɬiyè wɨsɨpsɨ̀,zup ɬiyè wɨsɨpsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-19-1,,polc1243-1,19,zup ɬiyè nə̀topsi,zup ɬiyè nə̀topsi,[],,['chan2019'],,False,False,,1
+polc1243-1-20-1,,polc1243-1,20,zì rop,zì rop,[],,['chan2019'],,False,False,,1
+polc1243-1-21-1,,polc1243-1,21,zì rop ɬiyè ni nɨ̀m,zì rop ɬiyè ni nɨ̀m,[],,['chan2019'],,False,False,,1
+polc1243-1-24-1,,polc1243-1,24,zì rop ɬiyè ni wupsɨ̀,zì rop ɬiyè ni wupsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-25-1,,polc1243-1,25,zì rop ɬiyè ni nə̀mtəm,zì rop ɬiyè ni nə̀mtəm,[],,['chan2019'],,False,False,,1
+polc1243-1-30-1,,polc1243-1,30,zì miyèn,zì miyèn,[],,['chan2019'],,False,False,,1
+polc1243-1-40-1,,polc1243-1,40,zì wupsɨ̀,zì wupsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-50-1,,polc1243-1,50,zì nə̀mtəm,zì nə̀mtəm,[],,['chan2019'],,False,False,,1
+polc1243-1-60-1,,polc1243-1,60,zì maɣà,zì maɣà,[],,['chan2019'],,False,False,,1
+polc1243-1-70-1,,polc1243-1,70,zì wusɨ̀rmìyen,zì wusɨ̀rmìyen,[],,['chan2019'],,False,False,,1
+polc1243-1-80-1,,polc1243-1,80,zì wɨsɨpsɨ̀,zì wɨsɨpsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-90-1,,polc1243-1,90,zì nàtoropsɨ̀,zì nàtoropsɨ̀,[],,['chan2019'],,False,False,,1
+polc1243-1-100-1,,polc1243-1,100,zì zup,zì zup,[],,['chan2019'],,False,False,,1

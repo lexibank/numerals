@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-galo1242-1-1-1,,galo1242-1,1,əken,əken,[],,[],,False,False,,1
-galo1242-1-2-1,,galo1242-1,2,əɲi,əɲi,[],,[],,False,False,,1
-galo1242-1-3-1,,galo1242-1,3,aum,aum,[],,[],,False,False,,1
-galo1242-1-4-1,,galo1242-1,4,əpi,əpi,[],,[],,False,False,,1
-galo1242-1-5-1,,galo1242-1,5,əŋo,əŋo,[],,[],,False,False,,1
-galo1242-1-6-1,,galo1242-1,6,əkə,əkə,[],,[],,False,False,,1
-galo1242-1-7-1,,galo1242-1,7,kanə,kanə,[],,[],,False,False,,1
-galo1242-1-8-1,,galo1242-1,8,pinə,pinə,[],,[],,False,False,,1
-galo1242-1-9-1,,galo1242-1,9,kona,kona,[],,[],,False,False,,1
-galo1242-1-10-1,,galo1242-1,10,uyə,uyə,[],,[],,False,False,,1
-galo1242-1-11-1,,galo1242-1,11,uyə ɡola əken,uyə ɡola əken,[],,[],,False,False,,1
-galo1242-1-12-1,,galo1242-1,12,uyə ɡola əɲi,uyə ɡola əɲi,[],,[],,False,False,,1
-galo1242-1-13-1,,galo1242-1,13,uyə ɡola aum,uyə ɡola aum,[],,[],,False,False,,1
-galo1242-1-14-1,,galo1242-1,14,uyə ɡola əpi,uyə ɡola əpi,[],,[],,False,False,,1
-galo1242-1-15-1,,galo1242-1,15,uyə ɡola əŋo,uyə ɡola əŋo,[],,[],,False,False,,1
-galo1242-1-16-1,,galo1242-1,16,uyə ɡola əkə,uyə ɡola əkə,[],,[],,False,False,,1
-galo1242-1-17-1,,galo1242-1,17,uyə ɡola kanə,uyə ɡola kanə,[],,[],,False,False,,1
-galo1242-1-18-1,,galo1242-1,18,uyə ɡola pinə,uyə ɡola pinə,[],,[],,False,False,,1
-galo1242-1-19-1,,galo1242-1,19,uyə ɡola kona,uyə ɡola kona,[],,[],,False,False,,1
-galo1242-1-20-1,,galo1242-1,20,həmɲi,həmɲi,[],,[],,False,False,,1
-galo1242-1-21-1,,galo1242-1,21,həmɲi ɡola akèn,həmɲi ɡola akèn,[],,[],,False,False,,1
-galo1242-1-22-1,,galo1242-1,22,həmɲi ɡola aɲì,həmɲi ɡola aɲì,[],,[],,False,False,,1
-galo1242-1-23-1,,galo1242-1,23,həmɲi ɡola aúm,həmɲi ɡola aúm,[],,[],,False,False,,1
-galo1242-1-24-1,,galo1242-1,24,həmɲi ɡola əpi,həmɲi ɡola əpi,[],,[],,False,False,,1
-galo1242-1-25-1,,galo1242-1,25,həmɲi ɡola əŋo,həmɲi ɡola əŋo,[],,[],,False,False,,1
-galo1242-1-26-1,,galo1242-1,26,həmɲi ɡola əkə,həmɲi ɡola əkə,[],,[],,False,False,,1
-galo1242-1-27-1,,galo1242-1,27,həmɲi ɡola kanə,həmɲi ɡola kanə,[],,[],,False,False,,1
-galo1242-1-28-1,,galo1242-1,28,həmɲi ɡola pinə,həmɲi ɡola pinə,[],,[],,False,False,,1
-galo1242-1-29-1,,galo1242-1,29,həmɲi ɡola kona,həmɲi ɡola kona,[],,[],,False,False,,1
-galo1242-1-30-1,,galo1242-1,30,həmum,həmum,[],,[],,False,False,,1
-galo1242-1-40-1,,galo1242-1,40,həmpi,həmpi,[],,[],,False,False,,1
-galo1242-1-50-1,,galo1242-1,50,həmŋo,həmŋo,[],,[],,False,False,,1
-galo1242-1-60-1,,galo1242-1,60,həmkə,həmkə,[],,[],,False,False,,1
-galo1242-1-70-1,,galo1242-1,70,ahəmkanə,ahəmkanə,[],,[],,False,False,,1
-galo1242-1-80-1,,galo1242-1,80,ahəmpinə,ahəmpinə,[],,[],,False,False,,1
-galo1242-1-90-1,,galo1242-1,90,ahəmkona,ahəmkona,[],,[],,False,False,,1
-galo1242-1-100-1,,galo1242-1,100,həmyə,həmyə,[],,[],,False,False,,1
-galo1242-1-200-1,,galo1242-1,200,həmyə-əɲi,həmyə-əɲi,[],,[],,False,False,,1
-galo1242-1-1000-1,,galo1242-1,1000,haɟar,haɟar,[],( Assamese ),[],,False,False,,1
-galo1242-1-2000-1,,galo1242-1,2000,haɟar əɲi,haɟar əɲi,[],,[],,False,False,,1
+galo1242-1-1-1,,galo1242-1,1,əken,əken,[],,['chan2019'],,False,False,,1
+galo1242-1-2-1,,galo1242-1,2,əɲi,əɲi,[],,['chan2019'],,False,False,,1
+galo1242-1-3-1,,galo1242-1,3,aum,aum,[],,['chan2019'],,False,False,,1
+galo1242-1-4-1,,galo1242-1,4,əpi,əpi,[],,['chan2019'],,False,False,,1
+galo1242-1-5-1,,galo1242-1,5,əŋo,əŋo,[],,['chan2019'],,False,False,,1
+galo1242-1-6-1,,galo1242-1,6,əkə,əkə,[],,['chan2019'],,False,False,,1
+galo1242-1-7-1,,galo1242-1,7,kanə,kanə,[],,['chan2019'],,False,False,,1
+galo1242-1-8-1,,galo1242-1,8,pinə,pinə,[],,['chan2019'],,False,False,,1
+galo1242-1-9-1,,galo1242-1,9,kona,kona,[],,['chan2019'],,False,False,,1
+galo1242-1-10-1,,galo1242-1,10,uyə,uyə,[],,['chan2019'],,False,False,,1
+galo1242-1-11-1,,galo1242-1,11,uyə ɡola əken,uyə ɡola əken,[],,['chan2019'],,False,False,,1
+galo1242-1-12-1,,galo1242-1,12,uyə ɡola əɲi,uyə ɡola əɲi,[],,['chan2019'],,False,False,,1
+galo1242-1-13-1,,galo1242-1,13,uyə ɡola aum,uyə ɡola aum,[],,['chan2019'],,False,False,,1
+galo1242-1-14-1,,galo1242-1,14,uyə ɡola əpi,uyə ɡola əpi,[],,['chan2019'],,False,False,,1
+galo1242-1-15-1,,galo1242-1,15,uyə ɡola əŋo,uyə ɡola əŋo,[],,['chan2019'],,False,False,,1
+galo1242-1-16-1,,galo1242-1,16,uyə ɡola əkə,uyə ɡola əkə,[],,['chan2019'],,False,False,,1
+galo1242-1-17-1,,galo1242-1,17,uyə ɡola kanə,uyə ɡola kanə,[],,['chan2019'],,False,False,,1
+galo1242-1-18-1,,galo1242-1,18,uyə ɡola pinə,uyə ɡola pinə,[],,['chan2019'],,False,False,,1
+galo1242-1-19-1,,galo1242-1,19,uyə ɡola kona,uyə ɡola kona,[],,['chan2019'],,False,False,,1
+galo1242-1-20-1,,galo1242-1,20,həmɲi,həmɲi,[],,['chan2019'],,False,False,,1
+galo1242-1-21-1,,galo1242-1,21,həmɲi ɡola akèn,həmɲi ɡola akèn,[],,['chan2019'],,False,False,,1
+galo1242-1-22-1,,galo1242-1,22,həmɲi ɡola aɲì,həmɲi ɡola aɲì,[],,['chan2019'],,False,False,,1
+galo1242-1-23-1,,galo1242-1,23,həmɲi ɡola aúm,həmɲi ɡola aúm,[],,['chan2019'],,False,False,,1
+galo1242-1-24-1,,galo1242-1,24,həmɲi ɡola əpi,həmɲi ɡola əpi,[],,['chan2019'],,False,False,,1
+galo1242-1-25-1,,galo1242-1,25,həmɲi ɡola əŋo,həmɲi ɡola əŋo,[],,['chan2019'],,False,False,,1
+galo1242-1-26-1,,galo1242-1,26,həmɲi ɡola əkə,həmɲi ɡola əkə,[],,['chan2019'],,False,False,,1
+galo1242-1-27-1,,galo1242-1,27,həmɲi ɡola kanə,həmɲi ɡola kanə,[],,['chan2019'],,False,False,,1
+galo1242-1-28-1,,galo1242-1,28,həmɲi ɡola pinə,həmɲi ɡola pinə,[],,['chan2019'],,False,False,,1
+galo1242-1-29-1,,galo1242-1,29,həmɲi ɡola kona,həmɲi ɡola kona,[],,['chan2019'],,False,False,,1
+galo1242-1-30-1,,galo1242-1,30,həmum,həmum,[],,['chan2019'],,False,False,,1
+galo1242-1-40-1,,galo1242-1,40,həmpi,həmpi,[],,['chan2019'],,False,False,,1
+galo1242-1-50-1,,galo1242-1,50,həmŋo,həmŋo,[],,['chan2019'],,False,False,,1
+galo1242-1-60-1,,galo1242-1,60,həmkə,həmkə,[],,['chan2019'],,False,False,,1
+galo1242-1-70-1,,galo1242-1,70,ahəmkanə,ahəmkanə,[],,['chan2019'],,False,False,,1
+galo1242-1-80-1,,galo1242-1,80,ahəmpinə,ahəmpinə,[],,['chan2019'],,False,False,,1
+galo1242-1-90-1,,galo1242-1,90,ahəmkona,ahəmkona,[],,['chan2019'],,False,False,,1
+galo1242-1-100-1,,galo1242-1,100,həmyə,həmyə,[],,['chan2019'],,False,False,,1
+galo1242-1-200-1,,galo1242-1,200,həmyə-əɲi,həmyə-əɲi,[],,['chan2019'],,False,False,,1
+galo1242-1-1000-1,,galo1242-1,1000,haɟar,haɟar,[],( Assamese ),['chan2019'],,False,False,,1
+galo1242-1-2000-1,,galo1242-1,2000,haɟar əɲi,haɟar əɲi,[],,['chan2019'],,False,False,,1

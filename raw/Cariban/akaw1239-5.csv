@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-akaw1239-5-1-1,,akaw1239-5,1,ti.'ɡiŋ,ti.'ɡiŋ,[],,[],,False,False,tiɡinɡ,5
-akaw1239-5-2-1,,akaw1239-5,2,ʔɑ.zə.ʔɾɨ,ʔɑ.zə.ʔɾɨ,[],,[],,False,False,azaʔrî,5
-akaw1239-5-3-1,,akaw1239-5,3,'ʔo.zo.ɾɯ.'wɑu,'ʔo.zo.ɾɯ.'wɑu,[],,[],,False,False,ozorûwau,5
-akaw1239-5-4-1,,akaw1239-5,4,'ʔɑ.zə.ɡɨ.'ɾɨʔ.ne,'ʔɑ.zə.ɡɨ.'ɾɨʔ.ne,[],( *),[],,False,False,azaɡîrîʔne,5
-akaw1239-5-5-1,,akaw1239-5,5,tiiɡiinɡnö eemiiya,tiiɡiinɡnö eemiiya,[],( litː 'one hand' ),[],,False,False,,5
-akaw1239-5-6-1,,akaw1239-5,6,tiiɡiinɡnö eemiiya boona tiiɡiinɡnö eemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona tiiɡiinɡnö eemiiya muuɡuupö,[],( litː 'one hand and one' ),[],,False,False,,5
-akaw1239-5-7-1,,akaw1239-5,7,tiiɡiinɡnö eemiiya boona azarö eemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona azarö eemiiya muuɡuupö,[],( litː 'one hand' and two'),[],,False,False,,5
-akaw1239-5-8-1,,akaw1239-5,8,tiiɡiinɡnö eemiiya boona oozourau eemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona oozourau eemiiya muuɡuupö,[],( litː 'one hand' and three'),[],,False,False,,5
-akaw1239-5-9-1,,akaw1239-5,9,tiiɡiinɡnö eemiiya boona azaɡöröneeemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona azaɡöröneeemiiya muuɡuupö,[],( litː 'one hand' and four'),[],,False,False,,5
-akaw1239-5-10-1,,akaw1239-5,10,azarö eemiiya muuɡuu podong,azarö eemiiya muuɡuu podong,[],( litː 'two hands' ),[],,False,False,,5
-akaw1239-5-11-1,,akaw1239-5,11,azarö eemiiya muuɡuupö boona tiiɡiinɡnö pïda muuɡuupö,azarö eemiiya muuɡuupö boona tiiɡiinɡnö pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-12-1,,akaw1239-5,12,azarö eemiiya muuɡuupö boona azarö pïda muuɡuupö,azarö eemiiya muuɡuupö boona azarö pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-13-1,,akaw1239-5,13,azarö eemiiya muuɡuupö boona oozourau pïda muuɡuupö,azarö eemiiya muuɡuupö boona oozourau pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-14-1,,akaw1239-5,14,azarö eemiiya muuɡuupö boona azaɡöröne pïda muuɡuupö,azarö eemiiya muuɡuupö boona azaɡöröne pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-15-1,,akaw1239-5,15,azarö eemiiya muuɡuupö boona tamboro pïda muuɡuupö,azarö eemiiya muuɡuupö boona tamboro pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-16-1,,akaw1239-5,16,tamboro eemiiya tiiɡiinɡnö pïda boona tiiɡiinɡnö pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona tiiɡiinɡnö pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-17-1,,akaw1239-5,17,tamboro eemiiya tiiɡiinɡnö pïda boona azarö pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona azarö pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-18-1,,akaw1239-5,18,tamboro eemiiya tiiɡiinɡnö pïda boona oozourau pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona oozourau pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-19-1,,akaw1239-5,19,tamboro eemiiya tiiɡiinɡnö pïda boona azaɡöröne pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona azaɡöröne pïda muuɡuupö,[],,[],,False,False,,5
-akaw1239-5-20-1,,akaw1239-5,20,tamboro eemiiya muuɡuupö boona tamboro pïda muuɡuupö donɡ,tamboro eemiiya muuɡuupö boona tamboro pïda muuɡuupö donɡ,[],,[],,False,False,,5
+akaw1239-5-1-1,,akaw1239-5,1,ti.'ɡiŋ,ti.'ɡiŋ,[],,['chan2019'],,False,False,tiɡinɡ,5
+akaw1239-5-2-1,,akaw1239-5,2,ʔɑ.zə.ʔɾɨ,ʔɑ.zə.ʔɾɨ,[],,['chan2019'],,False,False,azaʔrî,5
+akaw1239-5-3-1,,akaw1239-5,3,'ʔo.zo.ɾɯ.'wɑu,'ʔo.zo.ɾɯ.'wɑu,[],,['chan2019'],,False,False,ozorûwau,5
+akaw1239-5-4-1,,akaw1239-5,4,'ʔɑ.zə.ɡɨ.'ɾɨʔ.ne,'ʔɑ.zə.ɡɨ.'ɾɨʔ.ne,[],( *),['chan2019'],,False,False,azaɡîrîʔne,5
+akaw1239-5-5-1,,akaw1239-5,5,tiiɡiinɡnö eemiiya,tiiɡiinɡnö eemiiya,[],( litː 'one hand' ),['chan2019'],,False,False,,5
+akaw1239-5-6-1,,akaw1239-5,6,tiiɡiinɡnö eemiiya boona tiiɡiinɡnö eemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona tiiɡiinɡnö eemiiya muuɡuupö,[],( litː 'one hand and one' ),['chan2019'],,False,False,,5
+akaw1239-5-7-1,,akaw1239-5,7,tiiɡiinɡnö eemiiya boona azarö eemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona azarö eemiiya muuɡuupö,[],( litː 'one hand' and two'),['chan2019'],,False,False,,5
+akaw1239-5-8-1,,akaw1239-5,8,tiiɡiinɡnö eemiiya boona oozourau eemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona oozourau eemiiya muuɡuupö,[],( litː 'one hand' and three'),['chan2019'],,False,False,,5
+akaw1239-5-9-1,,akaw1239-5,9,tiiɡiinɡnö eemiiya boona azaɡöröneeemiiya muuɡuupö,tiiɡiinɡnö eemiiya boona azaɡöröneeemiiya muuɡuupö,[],( litː 'one hand' and four'),['chan2019'],,False,False,,5
+akaw1239-5-10-1,,akaw1239-5,10,azarö eemiiya muuɡuu podong,azarö eemiiya muuɡuu podong,[],( litː 'two hands' ),['chan2019'],,False,False,,5
+akaw1239-5-11-1,,akaw1239-5,11,azarö eemiiya muuɡuupö boona tiiɡiinɡnö pïda muuɡuupö,azarö eemiiya muuɡuupö boona tiiɡiinɡnö pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-12-1,,akaw1239-5,12,azarö eemiiya muuɡuupö boona azarö pïda muuɡuupö,azarö eemiiya muuɡuupö boona azarö pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-13-1,,akaw1239-5,13,azarö eemiiya muuɡuupö boona oozourau pïda muuɡuupö,azarö eemiiya muuɡuupö boona oozourau pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-14-1,,akaw1239-5,14,azarö eemiiya muuɡuupö boona azaɡöröne pïda muuɡuupö,azarö eemiiya muuɡuupö boona azaɡöröne pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-15-1,,akaw1239-5,15,azarö eemiiya muuɡuupö boona tamboro pïda muuɡuupö,azarö eemiiya muuɡuupö boona tamboro pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-16-1,,akaw1239-5,16,tamboro eemiiya tiiɡiinɡnö pïda boona tiiɡiinɡnö pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona tiiɡiinɡnö pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-17-1,,akaw1239-5,17,tamboro eemiiya tiiɡiinɡnö pïda boona azarö pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona azarö pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-18-1,,akaw1239-5,18,tamboro eemiiya tiiɡiinɡnö pïda boona oozourau pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona oozourau pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-19-1,,akaw1239-5,19,tamboro eemiiya tiiɡiinɡnö pïda boona azaɡöröne pïda muuɡuupö,tamboro eemiiya tiiɡiinɡnö pïda boona azaɡöröne pïda muuɡuupö,[],,['chan2019'],,False,False,,5
+akaw1239-5-20-1,,akaw1239-5,20,tamboro eemiiya muuɡuupö boona tamboro pïda muuɡuupö donɡ,tamboro eemiiya muuɡuupö boona tamboro pïda muuɡuupö donɡ,[],,['chan2019'],,False,False,,5

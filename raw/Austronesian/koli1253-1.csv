@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-koli1253-1-1-1,,koli1253-1,1,'isaːʔ,'isaːʔ,[],,[],,False,False,,1
-koli1253-1-1-2,,koli1253-1,1,'sala,'sala,[],,[],,False,False,,1
-koli1253-1-2-1,,koli1253-1,2,'duaʔ,'duaʔ,[],,[],,False,False,,1
-koli1253-1-3-1,,koli1253-1,3,'tolu,'tolu,[],,[],,False,False,,1
-koli1253-1-4-1,,koli1253-1,4,'pat,'pat,[],,[],,False,False,,1
-koli1253-1-5-1,,koli1253-1,5,'lima,'lima,[],,[],,False,False,,1
-koli1253-1-6-1,,koli1253-1,6,'nom,'nom,[],,[],,False,False,,1
-koli1253-1-7-1,,koli1253-1,7,'pitu,'pitu,[],,[],,False,False,,1
-koli1253-1-8-1,,koli1253-1,8,'walu,'walu,[],,[],,False,False,,1
-koli1253-1-9-1,,koli1253-1,9,si'am,si'am,[],,[],,False,False,,1
-koli1253-1-10-1,,koli1253-1,10,so'puluʔ,so'puluʔ,[],,[],,False,False,,1
-koli1253-1-11-1,,koli1253-1,11,so'puluʔ bu 'sala,so'puluʔ bu 'sala,[],,[],,False,False,,1
-koli1253-1-12-1,,koli1253-1,12,so'puluʔ bu 'duaʔ,so'puluʔ bu 'duaʔ,[],,[],,False,False,,1
-koli1253-1-13-1,,koli1253-1,13,so'puluʔ bu 'tolu,so'puluʔ bu 'tolu,[],,[],,False,False,,1
-koli1253-1-14-1,,koli1253-1,14,so'puluʔ bu 'pat,so'puluʔ bu 'pat,[],,[],,False,False,,1
-koli1253-1-15-1,,koli1253-1,15,so'puluʔ bu 'lima,so'puluʔ bu 'lima,[],,[],,False,False,,1
-koli1253-1-16-1,,koli1253-1,16,so'puluʔ bu 'nom,so'puluʔ bu 'nom,[],,[],,False,False,,1
-koli1253-1-17-1,,koli1253-1,17,so'puluʔ bu 'pitu,so'puluʔ bu 'pitu,[],,[],,False,False,,1
-koli1253-1-18-1,,koli1253-1,18,so'puluʔ bu 'walu,so'puluʔ bu 'walu,[],,[],,False,False,,1
-koli1253-1-19-1,,koli1253-1,19,so'puluʔ bu si'am,so'puluʔ bu si'am,[],,[],,False,False,,1
-koli1253-1-20-1,,koli1253-1,20,duaʔ 'puluʔ,duaʔ 'puluʔ,[],,[],,False,False,,1
-koli1253-1-21-1,,koli1253-1,21,duaʔ 'puluʔ bu 'sala,duaʔ 'puluʔ bu 'sala,[],,[],,False,False,,1
-koli1253-1-22-1,,koli1253-1,22,duaʔ 'puluʔ bu 'duaʔ,duaʔ 'puluʔ bu 'duaʔ,[],,[],,False,False,,1
-koli1253-1-23-1,,koli1253-1,23,duaʔ 'puluʔ bu 'tolu,duaʔ 'puluʔ bu 'tolu,[],,[],,False,False,,1
-koli1253-1-24-1,,koli1253-1,24,duaʔ 'puluʔ bu 'pat,duaʔ 'puluʔ bu 'pat,[],,[],,False,False,,1
-koli1253-1-25-1,,koli1253-1,25,duaʔ 'puluʔ bu 'lima,duaʔ 'puluʔ bu 'lima,[],,[],,False,False,,1
-koli1253-1-26-1,,koli1253-1,26,duaʔ 'puluʔ bu 'nom,duaʔ 'puluʔ bu 'nom,[],,[],,False,False,,1
-koli1253-1-27-1,,koli1253-1,27,duaʔ 'puluʔ bu 'pitu,duaʔ 'puluʔ bu 'pitu,[],,[],,False,False,,1
-koli1253-1-28-1,,koli1253-1,28,duaʔ 'puluʔ bu 'walu,duaʔ 'puluʔ bu 'walu,[],,[],,False,False,,1
-koli1253-1-29-1,,koli1253-1,29,duaʔ 'puluʔ bu si'am,duaʔ 'puluʔ bu si'am,[],,[],,False,False,,1
-koli1253-1-30-1,,koli1253-1,30,tolu 'puluʔ,tolu 'puluʔ,[],,[],,False,False,,1
-koli1253-1-40-1,,koli1253-1,40,pat 'puluʔ,pat 'puluʔ,[],,[],,False,False,,1
-koli1253-1-50-1,,koli1253-1,50,lima 'puluʔ,lima 'puluʔ,[],,[],,False,False,,1
-koli1253-1-60-1,,koli1253-1,60,nom 'puluʔ,nom 'puluʔ,[],,[],,False,False,,1
-koli1253-1-70-1,,koli1253-1,70,pitu 'puluʔ,pitu 'puluʔ,[],,[],,False,False,,1
-koli1253-1-80-1,,koli1253-1,80,walu 'puluʔ,walu 'puluʔ,[],,[],,False,False,,1
-koli1253-1-90-1,,koli1253-1,90,siam 'puluʔ,siam 'puluʔ,[],,[],,False,False,,1
-koli1253-1-100-1,,koli1253-1,100,səʔ ɡatus,səʔ ɡatus,[],,[],,False,False,,1
-koli1253-1-200-1,,koli1253-1,200,duaʔ ɡatus,duaʔ ɡatus,[],,[],,False,False,,1
-koli1253-1-1000-1,,koli1253-1,1000,səʔ ŋibu,səʔ ŋibu,[],,[],,False,False,,1
-koli1253-1-2000-1,,koli1253-1,2000,duaʔ ŋibu,duaʔ ŋibu,[],,[],,False,False,,1
+koli1253-1-1-1,,koli1253-1,1,'isaːʔ,'isaːʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-1-2,,koli1253-1,1,'sala,'sala,[],,['chan2019'],,False,False,,1
+koli1253-1-2-1,,koli1253-1,2,'duaʔ,'duaʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-3-1,,koli1253-1,3,'tolu,'tolu,[],,['chan2019'],,False,False,,1
+koli1253-1-4-1,,koli1253-1,4,'pat,'pat,[],,['chan2019'],,False,False,,1
+koli1253-1-5-1,,koli1253-1,5,'lima,'lima,[],,['chan2019'],,False,False,,1
+koli1253-1-6-1,,koli1253-1,6,'nom,'nom,[],,['chan2019'],,False,False,,1
+koli1253-1-7-1,,koli1253-1,7,'pitu,'pitu,[],,['chan2019'],,False,False,,1
+koli1253-1-8-1,,koli1253-1,8,'walu,'walu,[],,['chan2019'],,False,False,,1
+koli1253-1-9-1,,koli1253-1,9,si'am,si'am,[],,['chan2019'],,False,False,,1
+koli1253-1-10-1,,koli1253-1,10,so'puluʔ,so'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-11-1,,koli1253-1,11,so'puluʔ bu 'sala,so'puluʔ bu 'sala,[],,['chan2019'],,False,False,,1
+koli1253-1-12-1,,koli1253-1,12,so'puluʔ bu 'duaʔ,so'puluʔ bu 'duaʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-13-1,,koli1253-1,13,so'puluʔ bu 'tolu,so'puluʔ bu 'tolu,[],,['chan2019'],,False,False,,1
+koli1253-1-14-1,,koli1253-1,14,so'puluʔ bu 'pat,so'puluʔ bu 'pat,[],,['chan2019'],,False,False,,1
+koli1253-1-15-1,,koli1253-1,15,so'puluʔ bu 'lima,so'puluʔ bu 'lima,[],,['chan2019'],,False,False,,1
+koli1253-1-16-1,,koli1253-1,16,so'puluʔ bu 'nom,so'puluʔ bu 'nom,[],,['chan2019'],,False,False,,1
+koli1253-1-17-1,,koli1253-1,17,so'puluʔ bu 'pitu,so'puluʔ bu 'pitu,[],,['chan2019'],,False,False,,1
+koli1253-1-18-1,,koli1253-1,18,so'puluʔ bu 'walu,so'puluʔ bu 'walu,[],,['chan2019'],,False,False,,1
+koli1253-1-19-1,,koli1253-1,19,so'puluʔ bu si'am,so'puluʔ bu si'am,[],,['chan2019'],,False,False,,1
+koli1253-1-20-1,,koli1253-1,20,duaʔ 'puluʔ,duaʔ 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-21-1,,koli1253-1,21,duaʔ 'puluʔ bu 'sala,duaʔ 'puluʔ bu 'sala,[],,['chan2019'],,False,False,,1
+koli1253-1-22-1,,koli1253-1,22,duaʔ 'puluʔ bu 'duaʔ,duaʔ 'puluʔ bu 'duaʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-23-1,,koli1253-1,23,duaʔ 'puluʔ bu 'tolu,duaʔ 'puluʔ bu 'tolu,[],,['chan2019'],,False,False,,1
+koli1253-1-24-1,,koli1253-1,24,duaʔ 'puluʔ bu 'pat,duaʔ 'puluʔ bu 'pat,[],,['chan2019'],,False,False,,1
+koli1253-1-25-1,,koli1253-1,25,duaʔ 'puluʔ bu 'lima,duaʔ 'puluʔ bu 'lima,[],,['chan2019'],,False,False,,1
+koli1253-1-26-1,,koli1253-1,26,duaʔ 'puluʔ bu 'nom,duaʔ 'puluʔ bu 'nom,[],,['chan2019'],,False,False,,1
+koli1253-1-27-1,,koli1253-1,27,duaʔ 'puluʔ bu 'pitu,duaʔ 'puluʔ bu 'pitu,[],,['chan2019'],,False,False,,1
+koli1253-1-28-1,,koli1253-1,28,duaʔ 'puluʔ bu 'walu,duaʔ 'puluʔ bu 'walu,[],,['chan2019'],,False,False,,1
+koli1253-1-29-1,,koli1253-1,29,duaʔ 'puluʔ bu si'am,duaʔ 'puluʔ bu si'am,[],,['chan2019'],,False,False,,1
+koli1253-1-30-1,,koli1253-1,30,tolu 'puluʔ,tolu 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-40-1,,koli1253-1,40,pat 'puluʔ,pat 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-50-1,,koli1253-1,50,lima 'puluʔ,lima 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-60-1,,koli1253-1,60,nom 'puluʔ,nom 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-70-1,,koli1253-1,70,pitu 'puluʔ,pitu 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-80-1,,koli1253-1,80,walu 'puluʔ,walu 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-90-1,,koli1253-1,90,siam 'puluʔ,siam 'puluʔ,[],,['chan2019'],,False,False,,1
+koli1253-1-100-1,,koli1253-1,100,səʔ ɡatus,səʔ ɡatus,[],,['chan2019'],,False,False,,1
+koli1253-1-200-1,,koli1253-1,200,duaʔ ɡatus,duaʔ ɡatus,[],,['chan2019'],,False,False,,1
+koli1253-1-1000-1,,koli1253-1,1000,səʔ ŋibu,səʔ ŋibu,[],,['chan2019'],,False,False,,1
+koli1253-1-2000-1,,koli1253-1,2000,duaʔ ŋibu,duaʔ ŋibu,[],,['chan2019'],,False,False,,1

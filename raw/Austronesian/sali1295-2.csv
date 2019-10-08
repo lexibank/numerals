@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sali1295-2-1-1,,sali1295-2,1,keseɡa,keseɡa,[],,[],,False,False,,2
-sali1295-2-2-1,,sali1295-2,2,lubui,lubui,[],,[],,False,False,,2
-sali1295-2-3-1,,sali1295-2,3,haeyona,haeyona,[],,[],,False,False,,2
-sali1295-2-4-1,,sali1295-2,4,haːsi,haːsi,[],,[],,False,False,,2
-sali1295-2-5-1,,sali1295-2,5,haliɡiɡi,haliɡiɡi,[],,[],,False,False,,2
-sali1295-2-6-1,,sali1295-2,6,haliɡiɡi keseɡa,haliɡiɡi keseɡa,[],( 5 + 1 ),[],,False,False,,2
-sali1295-2-7-1,,sali1295-2,7,haliɡiɡi lubui,haliɡiɡi lubui,[],( 5 + 2 ),[],,False,False,,2
-sali1295-2-8-1,,sali1295-2,8,haliɡiɡi haeyona,haliɡiɡi haeyona,[],( 5 + 3 ),[],,False,False,,2
-sali1295-2-9-1,,sali1295-2,9,haliɡiɡi haːsi,haliɡiɡi haːsi,[],( 5 + 4 ),[],,False,False,,2
-sali1295-2-10-1,,sali1295-2,10,saudoudoi,saudoudoi,[],,[],,False,False,,2
-sali1295-2-11-1,,sali1295-2,11,saudoudoi keseɡa,saudoudoi keseɡa,[],,[],,False,False,,2
-sali1295-2-12-1,,sali1295-2,12,saudoudoi lubui,saudoudoi lubui,[],,[],,False,False,,2
-sali1295-2-13-1,,sali1295-2,13,saudoudoi haeyona,saudoudoi haeyona,[],,[],,False,False,,2
-sali1295-2-14-1,,sali1295-2,14,saudoudoi haːsi,saudoudoi haːsi,[],,[],,False,False,,2
-sali1295-2-15-1,,sali1295-2,15,saudoudoi haliɡiɡi,saudoudoi haliɡiɡi,[],,[],,False,False,,2
-sali1295-2-16-1,,sali1295-2,16,saudoudoi haliɡiɡi keseɡa,saudoudoi haliɡiɡi keseɡa,[],,[],,False,False,,2
-sali1295-2-17-1,,sali1295-2,17,saudoudoi haliɡiɡi lubui,saudoudoi haliɡiɡi lubui,[],,[],,False,False,,2
-sali1295-2-18-1,,sali1295-2,18,saudoudoi haliɡiɡi haeyona,saudoudoi haliɡiɡi haeyona,[],,[],,False,False,,2
-sali1295-2-19-1,,sali1295-2,19,saudoudoi haliɡiɡi haːsi,saudoudoi haliɡiɡi haːsi,[],,[],,False,False,,2
-sali1295-2-20-1,,sali1295-2,20,tau keseɡa yamʷaloi,tau keseɡa yamʷaloi,[],,[],,False,False,,2
+sali1295-2-1-1,,sali1295-2,1,keseɡa,keseɡa,[],,['chan2019'],,False,False,,2
+sali1295-2-2-1,,sali1295-2,2,lubui,lubui,[],,['chan2019'],,False,False,,2
+sali1295-2-3-1,,sali1295-2,3,haeyona,haeyona,[],,['chan2019'],,False,False,,2
+sali1295-2-4-1,,sali1295-2,4,haːsi,haːsi,[],,['chan2019'],,False,False,,2
+sali1295-2-5-1,,sali1295-2,5,haliɡiɡi,haliɡiɡi,[],,['chan2019'],,False,False,,2
+sali1295-2-6-1,,sali1295-2,6,haliɡiɡi keseɡa,haliɡiɡi keseɡa,[],( 5 + 1 ),['chan2019'],,False,False,,2
+sali1295-2-7-1,,sali1295-2,7,haliɡiɡi lubui,haliɡiɡi lubui,[],( 5 + 2 ),['chan2019'],,False,False,,2
+sali1295-2-8-1,,sali1295-2,8,haliɡiɡi haeyona,haliɡiɡi haeyona,[],( 5 + 3 ),['chan2019'],,False,False,,2
+sali1295-2-9-1,,sali1295-2,9,haliɡiɡi haːsi,haliɡiɡi haːsi,[],( 5 + 4 ),['chan2019'],,False,False,,2
+sali1295-2-10-1,,sali1295-2,10,saudoudoi,saudoudoi,[],,['chan2019'],,False,False,,2
+sali1295-2-11-1,,sali1295-2,11,saudoudoi keseɡa,saudoudoi keseɡa,[],,['chan2019'],,False,False,,2
+sali1295-2-12-1,,sali1295-2,12,saudoudoi lubui,saudoudoi lubui,[],,['chan2019'],,False,False,,2
+sali1295-2-13-1,,sali1295-2,13,saudoudoi haeyona,saudoudoi haeyona,[],,['chan2019'],,False,False,,2
+sali1295-2-14-1,,sali1295-2,14,saudoudoi haːsi,saudoudoi haːsi,[],,['chan2019'],,False,False,,2
+sali1295-2-15-1,,sali1295-2,15,saudoudoi haliɡiɡi,saudoudoi haliɡiɡi,[],,['chan2019'],,False,False,,2
+sali1295-2-16-1,,sali1295-2,16,saudoudoi haliɡiɡi keseɡa,saudoudoi haliɡiɡi keseɡa,[],,['chan2019'],,False,False,,2
+sali1295-2-17-1,,sali1295-2,17,saudoudoi haliɡiɡi lubui,saudoudoi haliɡiɡi lubui,[],,['chan2019'],,False,False,,2
+sali1295-2-18-1,,sali1295-2,18,saudoudoi haliɡiɡi haeyona,saudoudoi haliɡiɡi haeyona,[],,['chan2019'],,False,False,,2
+sali1295-2-19-1,,sali1295-2,19,saudoudoi haliɡiɡi haːsi,saudoudoi haliɡiɡi haːsi,[],,['chan2019'],,False,False,,2
+sali1295-2-20-1,,sali1295-2,20,tau keseɡa yamʷaloi,tau keseɡa yamʷaloi,[],,['chan2019'],,False,False,,2

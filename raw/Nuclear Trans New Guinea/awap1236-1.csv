@@ -1,23 +1,23 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-awap1236-1-1-1,,awap1236-1,1,morə́,morə́,[],,[],,False,False,,1
-awap1236-1-2-1,,awap1236-1,2,tǽtɑ́re,tǽtɑ́re,[],(litː ''first-two ''),[],,False,False,,1
-awap1236-1-3-1,,awap1236-1,3,əpɑtə́ro,əpɑtə́ro,[],(litː ''that-three''),[],,False,False,,1
-awap1236-1-4-1,,awap1236-1,4,itəréitəre,itəréitəre,[],(litː ''that-two that-two'' ),[],,False,False,,1
-awap1236-1-5-1,,awap1236-1,5,moberíɑ,moberíɑ,[],(litː ''at one hand'' ),[],,False,False,,1
-awap1236-1-6-1,,awap1236-1,6,əbəpeʔte morə́,əbəpeʔte morə́,[],,[],,False,False,,1
-awap1236-1-7-1,,awap1236-1,7,əbəpeʔte tǽtɑ́re,əbəpeʔte tǽtɑ́re,[],,[],,False,False,,1
-awap1236-1-8-1,,awap1236-1,8,əbəpeʔte əpɑtə́ro,əbəpeʔte əpɑtə́ro,[],,[],,False,False,,1
-awap1236-1-9-1,,awap1236-1,9,əbəpeʔte itəréitəre,əbəpeʔte itəréitəre,[],,[],,False,False,,1
-awap1236-1-10-1,,awap1236-1,10,néjɑnkú,néjɑnkú,[],,[],,False,False,,1
-awap1236-1-10-2,,awap1236-1,10,najɑ́nkú,najɑ́nkú,[],,[],,False,False,,1
-awap1236-1-10-3,,awap1236-1,10,inajɑ́hnku,inajɑ́hnku,[],(litː ''his hand'' ),[],,False,False,,1
-awap1236-1-11-1,,awap1236-1,11,airəpete,airəpete,[],(litː ''his-foot from one'' ),[],,False,False,,1
-awap1236-1-12-1,,awap1236-1,12,airəpete,airəpete,[],,[],,False,False,,1
-awap1236-1-13-1,,awap1236-1,13,airaəpete,airaəpete,[],,[],,False,False,,1
-awap1236-1-14-1,,awap1236-1,14,airəpete,airəpete,[],,[],,False,False,,1
-awap1236-1-15-1,,awap1236-1,15,mobeʔ aiɡu,mobeʔ aiɡu,[],(litː ''this-side foot'' ),[],,False,False,,1
-awap1236-1-16-1,,awap1236-1,16,ebeʔ airəpete morá,ebeʔ airəpete morá,[],(litː ''this-side foot-from one'' ),[],,False,False,,1
-awap1236-1-17-1,,awap1236-1,17,ebeʔ airəpete tǽtɑ́re,ebeʔ airəpete tǽtɑ́re,[],,[],,False,False,,1
-awap1236-1-18-1,,awap1236-1,18,ebeʔ airəpete əpɑtə́ro,ebeʔ airəpete əpɑtə́ro,[],,[],,False,False,,1
-awap1236-1-19-1,,awap1236-1,19,ebeʔ airəpete itəréitəre,ebeʔ airəpete itəréitəre,[],,[],,False,False,,1
-awap1236-1-20-1,,awap1236-1,20,neɡa nəjəhuku,neɡa nəjəhuku,[],( litː 'his-hand' ),[],,False,False,,1
+awap1236-1-1-1,,awap1236-1,1,morə́,morə́,[],,['chan2019'],,False,False,,1
+awap1236-1-2-1,,awap1236-1,2,tǽtɑ́re,tǽtɑ́re,[],(litː ''first-two ''),['chan2019'],,False,False,,1
+awap1236-1-3-1,,awap1236-1,3,əpɑtə́ro,əpɑtə́ro,[],(litː ''that-three''),['chan2019'],,False,False,,1
+awap1236-1-4-1,,awap1236-1,4,itəréitəre,itəréitəre,[],(litː ''that-two that-two'' ),['chan2019'],,False,False,,1
+awap1236-1-5-1,,awap1236-1,5,moberíɑ,moberíɑ,[],(litː ''at one hand'' ),['chan2019'],,False,False,,1
+awap1236-1-6-1,,awap1236-1,6,əbəpeʔte morə́,əbəpeʔte morə́,[],,['chan2019'],,False,False,,1
+awap1236-1-7-1,,awap1236-1,7,əbəpeʔte tǽtɑ́re,əbəpeʔte tǽtɑ́re,[],,['chan2019'],,False,False,,1
+awap1236-1-8-1,,awap1236-1,8,əbəpeʔte əpɑtə́ro,əbəpeʔte əpɑtə́ro,[],,['chan2019'],,False,False,,1
+awap1236-1-9-1,,awap1236-1,9,əbəpeʔte itəréitəre,əbəpeʔte itəréitəre,[],,['chan2019'],,False,False,,1
+awap1236-1-10-1,,awap1236-1,10,néjɑnkú,néjɑnkú,[],,['chan2019'],,False,False,,1
+awap1236-1-10-2,,awap1236-1,10,najɑ́nkú,najɑ́nkú,[],,['chan2019'],,False,False,,1
+awap1236-1-10-3,,awap1236-1,10,inajɑ́hnku,inajɑ́hnku,[],(litː ''his hand'' ),['chan2019'],,False,False,,1
+awap1236-1-11-1,,awap1236-1,11,airəpete,airəpete,[],(litː ''his-foot from one'' ),['chan2019'],,False,False,,1
+awap1236-1-12-1,,awap1236-1,12,airəpete,airəpete,[],,['chan2019'],,False,False,,1
+awap1236-1-13-1,,awap1236-1,13,airaəpete,airaəpete,[],,['chan2019'],,False,False,,1
+awap1236-1-14-1,,awap1236-1,14,airəpete,airəpete,[],,['chan2019'],,False,False,,1
+awap1236-1-15-1,,awap1236-1,15,mobeʔ aiɡu,mobeʔ aiɡu,[],(litː ''this-side foot'' ),['chan2019'],,False,False,,1
+awap1236-1-16-1,,awap1236-1,16,ebeʔ airəpete morá,ebeʔ airəpete morá,[],(litː ''this-side foot-from one'' ),['chan2019'],,False,False,,1
+awap1236-1-17-1,,awap1236-1,17,ebeʔ airəpete tǽtɑ́re,ebeʔ airəpete tǽtɑ́re,[],,['chan2019'],,False,False,,1
+awap1236-1-18-1,,awap1236-1,18,ebeʔ airəpete əpɑtə́ro,ebeʔ airəpete əpɑtə́ro,[],,['chan2019'],,False,False,,1
+awap1236-1-19-1,,awap1236-1,19,ebeʔ airəpete itəréitəre,ebeʔ airəpete itəréitəre,[],,['chan2019'],,False,False,,1
+awap1236-1-20-1,,awap1236-1,20,neɡa nəjəhuku,neɡa nəjəhuku,[],( litː 'his-hand' ),['chan2019'],,False,False,,1

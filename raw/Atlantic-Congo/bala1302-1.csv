@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bala1302-1-1-1,,bala1302-1,1,-woda,-woda,[],,[],,False,False,,1
-bala1302-1-2-1,,bala1302-1,2,-sibi,-sibi,[],,[],,False,False,,1
-bala1302-1-3-1,,bala1302-1,3,-aabí,-aabí,[],,[],,False,False,,1
-bala1302-1-4-1,,bala1302-1,4,-tahla,-tahla,[],,[],,False,False,,1
-bala1302-1-5-1,,bala1302-1,5,-jíif,-jíif,[],,[],,False,False,,1
-bala1302-1-6-1,,bala1302-1,6,faaj,faaj,[],,[],,False,False,,1
-bala1302-1-7-1,,bala1302-1,7,faajinɡooda,faajinɡooda,[],( 6 + 1 ) ?,[],,False,False,,1
-bala1302-1-8-1,,bala1302-1,8,taataala,taataala,[],( 2 x 4 ) ?,[],,False,False,,1
-bala1302-1-9-1,,bala1302-1,9,-jíntahla,-jíntahla,[],( 5 + 4 ) ?,[],,False,False,,1
-bala1302-1-10-1,,bala1302-1,10,-jímmin,-jímmin,[],,[],,False,False,,1
-bala1302-1-11-1,,bala1302-1,11,njímmin nɡi -woda,njímmin nɡi -woda,[],,[],,False,False,,1
-bala1302-1-12-1,,bala1302-1,12,njímmin nɡi -sibi,njímmin nɡi -sibi,[],,[],,False,False,,1
-bala1302-1-13-1,,bala1302-1,13,njímmin nɡi -aabí,njímmin nɡi -aabí,[],,[],,False,False,,1
-bala1302-1-14-1,,bala1302-1,14,njímmin nɡi -tahla,njímmin nɡi -tahla,[],,[],,False,False,,1
-bala1302-1-15-1,,bala1302-1,15,njímmin nɡi -jíif,njímmin nɡi -jíif,[],,[],,False,False,,1
-bala1302-1-16-1,,bala1302-1,16,njímmin nɡi faaj,njímmin nɡi faaj,[],,[],,False,False,,1
-bala1302-1-17-1,,bala1302-1,17,njímmin nɡi faajinɡooda,njímmin nɡi faajinɡooda,[],,[],,False,False,,1
-bala1302-1-18-1,,bala1302-1,18,njímmin nɡi taataala,njímmin nɡi taataala,[],,[],,False,False,,1
-bala1302-1-19-1,,bala1302-1,19,njímmin nɡi -jíntahla,njímmin nɡi -jíntahla,[],,[],,False,False,,1
-bala1302-1-20-1,,bala1302-1,20,njímmin nsibi,njímmin nsibi,[],,[],,False,False,,1
-bala1302-1-21-1,,bala1302-1,21,njímmin nsibi nɡi -woda,njímmin nsibi nɡi -woda,[],,[],,False,False,,1
-bala1302-1-22-1,,bala1302-1,22,njímmin nsibi nɡi -sibi,njímmin nsibi nɡi -sibi,[],,[],,False,False,,1
-bala1302-1-23-1,,bala1302-1,23,njímmin nsibi nɡi -aabí,njímmin nsibi nɡi -aabí,[],,[],,False,False,,1
-bala1302-1-24-1,,bala1302-1,24,njímmin nsibi nɡi -tahla,njímmin nsibi nɡi -tahla,[],,[],,False,False,,1
-bala1302-1-25-1,,bala1302-1,25,njímmin nsibi nɡi -jíif,njímmin nsibi nɡi -jíif,[],,[],,False,False,,1
-bala1302-1-26-1,,bala1302-1,26,njímmin nsibi nɡi faaj,njímmin nsibi nɡi faaj,[],,[],,False,False,,1
-bala1302-1-27-1,,bala1302-1,27,njímmin nsibi nɡi faajinɡooda,njímmin nsibi nɡi faajinɡooda,[],,[],,False,False,,1
-bala1302-1-28-1,,bala1302-1,28,njímmin nsibi nɡi taataala,njímmin nsibi nɡi taataala,[],,[],,False,False,,1
-bala1302-1-29-1,,bala1302-1,29,njímmin nsibi nɡi -jíntahla,njímmin nsibi nɡi -jíntahla,[],,[],,False,False,,1
-bala1302-1-30-1,,bala1302-1,30,njímmin nhabí,njímmin nhabí,[],,[],,False,False,,1
-bala1302-1-40-1,,bala1302-1,40,njímmin ntahla,njímmin ntahla,[],,[],,False,False,,1
-bala1302-1-50-1,,bala1302-1,50,njímmin njíif,njímmin njíif,[],,[],,False,False,,1
-bala1302-1-60-1,,bala1302-1,60,njímmin faaj,njímmin faaj,[],,[],,False,False,,1
-bala1302-1-70-1,,bala1302-1,70,njímmin faajinɡooda,njímmin faajinɡooda,[],,[],,False,False,,1
-bala1302-1-80-1,,bala1302-1,80,njímmin ntaataala,njímmin ntaataala,[],,[],,False,False,,1
-bala1302-1-90-1,,bala1302-1,90,njímmin njíntahla,njímmin njíntahla,[],,[],,False,False,,1
-bala1302-1-100-1,,bala1302-1,100,ɡeme,ɡeme,[],,[],,False,False,,1
-bala1302-1-200-1,,bala1302-1,200,ɡɡeme ɡsibi,ɡɡeme ɡsibi,[],,[],,False,False,,1
-bala1302-1-1000-1,,bala1302-1,1000,wili mbooda,wili mbooda,[],,[],,False,False,,1
-bala1302-1-2000-1,,bala1302-1,2000,ɡwili ɡsibi,ɡwili ɡsibi,[],,[],,False,False,,1
+bala1302-1-1-1,,bala1302-1,1,-woda,-woda,[],,['chan2019'],,False,False,,1
+bala1302-1-2-1,,bala1302-1,2,-sibi,-sibi,[],,['chan2019'],,False,False,,1
+bala1302-1-3-1,,bala1302-1,3,-aabí,-aabí,[],,['chan2019'],,False,False,,1
+bala1302-1-4-1,,bala1302-1,4,-tahla,-tahla,[],,['chan2019'],,False,False,,1
+bala1302-1-5-1,,bala1302-1,5,-jíif,-jíif,[],,['chan2019'],,False,False,,1
+bala1302-1-6-1,,bala1302-1,6,faaj,faaj,[],,['chan2019'],,False,False,,1
+bala1302-1-7-1,,bala1302-1,7,faajinɡooda,faajinɡooda,[],( 6 + 1 ) ?,['chan2019'],,False,False,,1
+bala1302-1-8-1,,bala1302-1,8,taataala,taataala,[],( 2 x 4 ) ?,['chan2019'],,False,False,,1
+bala1302-1-9-1,,bala1302-1,9,-jíntahla,-jíntahla,[],( 5 + 4 ) ?,['chan2019'],,False,False,,1
+bala1302-1-10-1,,bala1302-1,10,-jímmin,-jímmin,[],,['chan2019'],,False,False,,1
+bala1302-1-11-1,,bala1302-1,11,njímmin nɡi -woda,njímmin nɡi -woda,[],,['chan2019'],,False,False,,1
+bala1302-1-12-1,,bala1302-1,12,njímmin nɡi -sibi,njímmin nɡi -sibi,[],,['chan2019'],,False,False,,1
+bala1302-1-13-1,,bala1302-1,13,njímmin nɡi -aabí,njímmin nɡi -aabí,[],,['chan2019'],,False,False,,1
+bala1302-1-14-1,,bala1302-1,14,njímmin nɡi -tahla,njímmin nɡi -tahla,[],,['chan2019'],,False,False,,1
+bala1302-1-15-1,,bala1302-1,15,njímmin nɡi -jíif,njímmin nɡi -jíif,[],,['chan2019'],,False,False,,1
+bala1302-1-16-1,,bala1302-1,16,njímmin nɡi faaj,njímmin nɡi faaj,[],,['chan2019'],,False,False,,1
+bala1302-1-17-1,,bala1302-1,17,njímmin nɡi faajinɡooda,njímmin nɡi faajinɡooda,[],,['chan2019'],,False,False,,1
+bala1302-1-18-1,,bala1302-1,18,njímmin nɡi taataala,njímmin nɡi taataala,[],,['chan2019'],,False,False,,1
+bala1302-1-19-1,,bala1302-1,19,njímmin nɡi -jíntahla,njímmin nɡi -jíntahla,[],,['chan2019'],,False,False,,1
+bala1302-1-20-1,,bala1302-1,20,njímmin nsibi,njímmin nsibi,[],,['chan2019'],,False,False,,1
+bala1302-1-21-1,,bala1302-1,21,njímmin nsibi nɡi -woda,njímmin nsibi nɡi -woda,[],,['chan2019'],,False,False,,1
+bala1302-1-22-1,,bala1302-1,22,njímmin nsibi nɡi -sibi,njímmin nsibi nɡi -sibi,[],,['chan2019'],,False,False,,1
+bala1302-1-23-1,,bala1302-1,23,njímmin nsibi nɡi -aabí,njímmin nsibi nɡi -aabí,[],,['chan2019'],,False,False,,1
+bala1302-1-24-1,,bala1302-1,24,njímmin nsibi nɡi -tahla,njímmin nsibi nɡi -tahla,[],,['chan2019'],,False,False,,1
+bala1302-1-25-1,,bala1302-1,25,njímmin nsibi nɡi -jíif,njímmin nsibi nɡi -jíif,[],,['chan2019'],,False,False,,1
+bala1302-1-26-1,,bala1302-1,26,njímmin nsibi nɡi faaj,njímmin nsibi nɡi faaj,[],,['chan2019'],,False,False,,1
+bala1302-1-27-1,,bala1302-1,27,njímmin nsibi nɡi faajinɡooda,njímmin nsibi nɡi faajinɡooda,[],,['chan2019'],,False,False,,1
+bala1302-1-28-1,,bala1302-1,28,njímmin nsibi nɡi taataala,njímmin nsibi nɡi taataala,[],,['chan2019'],,False,False,,1
+bala1302-1-29-1,,bala1302-1,29,njímmin nsibi nɡi -jíntahla,njímmin nsibi nɡi -jíntahla,[],,['chan2019'],,False,False,,1
+bala1302-1-30-1,,bala1302-1,30,njímmin nhabí,njímmin nhabí,[],,['chan2019'],,False,False,,1
+bala1302-1-40-1,,bala1302-1,40,njímmin ntahla,njímmin ntahla,[],,['chan2019'],,False,False,,1
+bala1302-1-50-1,,bala1302-1,50,njímmin njíif,njímmin njíif,[],,['chan2019'],,False,False,,1
+bala1302-1-60-1,,bala1302-1,60,njímmin faaj,njímmin faaj,[],,['chan2019'],,False,False,,1
+bala1302-1-70-1,,bala1302-1,70,njímmin faajinɡooda,njímmin faajinɡooda,[],,['chan2019'],,False,False,,1
+bala1302-1-80-1,,bala1302-1,80,njímmin ntaataala,njímmin ntaataala,[],,['chan2019'],,False,False,,1
+bala1302-1-90-1,,bala1302-1,90,njímmin njíntahla,njímmin njíntahla,[],,['chan2019'],,False,False,,1
+bala1302-1-100-1,,bala1302-1,100,ɡeme,ɡeme,[],,['chan2019'],,False,False,,1
+bala1302-1-200-1,,bala1302-1,200,ɡɡeme ɡsibi,ɡɡeme ɡsibi,[],,['chan2019'],,False,False,,1
+bala1302-1-1000-1,,bala1302-1,1000,wili mbooda,wili mbooda,[],,['chan2019'],,False,False,,1
+bala1302-1-2000-1,,bala1302-1,2000,ɡwili ɡsibi,ɡwili ɡsibi,[],,['chan2019'],,False,False,,1

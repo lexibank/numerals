@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gbay1288-1-1-1,,gbay1288-1,1,ɓälã,ɓälã,[],,[],,False,False,,1
-gbay1288-1-2-1,,gbay1288-1,2,rǒmó,rǒmó,[],,[],,False,False,,1
-gbay1288-1-3-1,,gbay1288-1,3,tötö,tötö,[],,[],,False,False,,1
-gbay1288-1-4-1,,gbay1288-1,4,sösö,sösö,[],,[],,False,False,,1
-gbay1288-1-5-1,,gbay1288-1,5,sálã,sálã,[],,[],,False,False,,1
-gbay1288-1-6-1,,gbay1288-1,6,sálã lẽmbẽ ɓälã,sálã lẽmbẽ ɓälã,[],( 5 + 1 ),[],,False,False,,1
-gbay1288-1-7-1,,gbay1288-1,7,sálã lẽmbẽ rǒmó,sálã lẽmbẽ rǒmó,[],( 5 + 2 ),[],,False,False,,1
-gbay1288-1-8-1,,gbay1288-1,8,sálã lẽmbẽ tötö,sálã lẽmbẽ tötö,[],( 5 + 3 ),[],,False,False,,1
-gbay1288-1-9-1,,gbay1288-1,9,sálã lẽmbẽ sösö,sálã lẽmbẽ sösö,[],( 5 + 4 ),[],,False,False,,1
-gbay1288-1-10-1,,gbay1288-1,10,kpú,kpú,[],,[],,False,False,,1
-gbay1288-1-11-1,,gbay1288-1,11,kpú lẽmbẽ ɓälã,kpú lẽmbẽ ɓälã,[],,[],,False,False,,1
-gbay1288-1-12-1,,gbay1288-1,12,kpú lẽmbẽ rǒmó,kpú lẽmbẽ rǒmó,[],,[],,False,False,,1
-gbay1288-1-13-1,,gbay1288-1,13,kpú lẽmbẽ tötö,kpú lẽmbẽ tötö,[],,[],,False,False,,1
-gbay1288-1-14-1,,gbay1288-1,14,kpú sösö,kpú sösö,[],,[],,False,False,,1
-gbay1288-1-15-1,,gbay1288-1,15,kpú sálã,kpú sálã,[],,[],,False,False,,1
-gbay1288-1-16-1,,gbay1288-1,16,kpú ĩʃíí sálã lẽmbẽ ɓälã,kpú ĩʃíí sálã lẽmbẽ ɓälã,[],,[],,False,False,,1
-gbay1288-1-17-1,,gbay1288-1,17,kpú ĩʃíí sálã lẽmbẽ rǒmó,kpú ĩʃíí sálã lẽmbẽ rǒmó,[],,[],,False,False,,1
-gbay1288-1-18-1,,gbay1288-1,18,kpú ĩʃíí sálã lẽmbẽ tötö,kpú ĩʃíí sálã lẽmbẽ tötö,[],,[],,False,False,,1
-gbay1288-1-19-1,,gbay1288-1,19,kpú ĩʃíí sálã lẽmbẽ sösö,kpú ĩʃíí sálã lẽmbẽ sösö,[],,[],,False,False,,1
-gbay1288-1-20-1,,gbay1288-1,20,ɡũfũ ɓälã,ɡũfũ ɓälã,[],,[],,False,False,,1
-gbay1288-1-21-1,,gbay1288-1,21,ɡũfũ ɓälã ĩʃíí lẽmbẽ ɓälã,ɡũfũ ɓälã ĩʃíí lẽmbẽ ɓälã,[],,[],,False,False,,1
-gbay1288-1-22-1,,gbay1288-1,22,ɡũfũ ɓälã ĩʃíí lẽmbẽ rǒmó,ɡũfũ ɓälã ĩʃíí lẽmbẽ rǒmó,[],,[],,False,False,,1
-gbay1288-1-23-1,,gbay1288-1,23,ɡũfũ ɓälã ĩʃíí lẽmbẽ tötö,ɡũfũ ɓälã ĩʃíí lẽmbẽ tötö,[],,[],,False,False,,1
-gbay1288-1-24-1,,gbay1288-1,24,ɡũfũ ɓälã ĩʃíí lẽmbẽ sösö,ɡũfũ ɓälã ĩʃíí lẽmbẽ sösö,[],,[],,False,False,,1
-gbay1288-1-25-1,,gbay1288-1,25,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã,[],,[],,False,False,,1
-gbay1288-1-26-1,,gbay1288-1,26,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ ɓälã,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ ɓälã,[],,[],,False,False,,1
-gbay1288-1-27-1,,gbay1288-1,27,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ rǒmó,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ rǒmó,[],,[],,False,False,,1
-gbay1288-1-28-1,,gbay1288-1,28,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ tötö,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ tötö,[],,[],,False,False,,1
-gbay1288-1-29-1,,gbay1288-1,29,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ sösö,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ sösö,[],,[],,False,False,,1
-gbay1288-1-30-1,,gbay1288-1,30,ɡũfũ ɓälã ĩʃíí kpú ẽɗẽ,ɡũfũ ɓälã ĩʃíí kpú ẽɗẽ,[],( 20 +10 ),[],,False,False,,1
-gbay1288-1-40-1,,gbay1288-1,40,ɡũfũ rǒmó,ɡũfũ rǒmó,[],( 20 x 2 ),[],,False,False,,1
-gbay1288-1-50-1,,gbay1288-1,50,ɡũfũ rǒmó ĩʃíí kpú ẽɗe,ɡũfũ rǒmó ĩʃíí kpú ẽɗe,[],,[],,False,False,,1
-gbay1288-1-60-1,,gbay1288-1,60,ɡũfũ tötö,ɡũfũ tötö,[],( 20 x 3 ),[],,False,False,,1
-gbay1288-1-70-1,,gbay1288-1,70,ɡũfũ tötö ĩʃíí kpú ẽɗe,ɡũfũ tötö ĩʃíí kpú ẽɗe,[],,[],,False,False,,1
-gbay1288-1-80-1,,gbay1288-1,80,ɡũfũ sösö,ɡũfũ sösö,[],( 20 x 4 ),[],,False,False,,1
-gbay1288-1-90-1,,gbay1288-1,90,ɡũfũ sösö ĩʃíí kpú ẽɗe,ɡũfũ sösö ĩʃíí kpú ẽɗe,[],,[],,False,False,,1
-gbay1288-1-100-1,,gbay1288-1,100,ɡũfũ sálã,ɡũfũ sálã,[],( 20 x 5 ),[],,False,False,,1
-gbay1288-1-200-1,,gbay1288-1,200,ɡũfũ kpú,ɡũfũ kpú,[],( 20 x 10 ),[],,False,False,,1
-gbay1288-1-1000-1,,gbay1288-1,1000,ɡũfũ sálã ká dĩtëyí kpú,ɡũfũ sálã ká dĩtëyí kpú,[],,[],,False,False,,1
-gbay1288-1-2000-1,,gbay1288-1,2000,ɡũfũ sálã ká dĩtëyí ɡũfũ ɓälã,ɡũfũ sálã ká dĩtëyí ɡũfũ ɓälã,[],,[],,False,False,,1
+gbay1288-1-1-1,,gbay1288-1,1,ɓälã,ɓälã,[],,['chan2019'],,False,False,,1
+gbay1288-1-2-1,,gbay1288-1,2,rǒmó,rǒmó,[],,['chan2019'],,False,False,,1
+gbay1288-1-3-1,,gbay1288-1,3,tötö,tötö,[],,['chan2019'],,False,False,,1
+gbay1288-1-4-1,,gbay1288-1,4,sösö,sösö,[],,['chan2019'],,False,False,,1
+gbay1288-1-5-1,,gbay1288-1,5,sálã,sálã,[],,['chan2019'],,False,False,,1
+gbay1288-1-6-1,,gbay1288-1,6,sálã lẽmbẽ ɓälã,sálã lẽmbẽ ɓälã,[],( 5 + 1 ),['chan2019'],,False,False,,1
+gbay1288-1-7-1,,gbay1288-1,7,sálã lẽmbẽ rǒmó,sálã lẽmbẽ rǒmó,[],( 5 + 2 ),['chan2019'],,False,False,,1
+gbay1288-1-8-1,,gbay1288-1,8,sálã lẽmbẽ tötö,sálã lẽmbẽ tötö,[],( 5 + 3 ),['chan2019'],,False,False,,1
+gbay1288-1-9-1,,gbay1288-1,9,sálã lẽmbẽ sösö,sálã lẽmbẽ sösö,[],( 5 + 4 ),['chan2019'],,False,False,,1
+gbay1288-1-10-1,,gbay1288-1,10,kpú,kpú,[],,['chan2019'],,False,False,,1
+gbay1288-1-11-1,,gbay1288-1,11,kpú lẽmbẽ ɓälã,kpú lẽmbẽ ɓälã,[],,['chan2019'],,False,False,,1
+gbay1288-1-12-1,,gbay1288-1,12,kpú lẽmbẽ rǒmó,kpú lẽmbẽ rǒmó,[],,['chan2019'],,False,False,,1
+gbay1288-1-13-1,,gbay1288-1,13,kpú lẽmbẽ tötö,kpú lẽmbẽ tötö,[],,['chan2019'],,False,False,,1
+gbay1288-1-14-1,,gbay1288-1,14,kpú sösö,kpú sösö,[],,['chan2019'],,False,False,,1
+gbay1288-1-15-1,,gbay1288-1,15,kpú sálã,kpú sálã,[],,['chan2019'],,False,False,,1
+gbay1288-1-16-1,,gbay1288-1,16,kpú ĩʃíí sálã lẽmbẽ ɓälã,kpú ĩʃíí sálã lẽmbẽ ɓälã,[],,['chan2019'],,False,False,,1
+gbay1288-1-17-1,,gbay1288-1,17,kpú ĩʃíí sálã lẽmbẽ rǒmó,kpú ĩʃíí sálã lẽmbẽ rǒmó,[],,['chan2019'],,False,False,,1
+gbay1288-1-18-1,,gbay1288-1,18,kpú ĩʃíí sálã lẽmbẽ tötö,kpú ĩʃíí sálã lẽmbẽ tötö,[],,['chan2019'],,False,False,,1
+gbay1288-1-19-1,,gbay1288-1,19,kpú ĩʃíí sálã lẽmbẽ sösö,kpú ĩʃíí sálã lẽmbẽ sösö,[],,['chan2019'],,False,False,,1
+gbay1288-1-20-1,,gbay1288-1,20,ɡũfũ ɓälã,ɡũfũ ɓälã,[],,['chan2019'],,False,False,,1
+gbay1288-1-21-1,,gbay1288-1,21,ɡũfũ ɓälã ĩʃíí lẽmbẽ ɓälã,ɡũfũ ɓälã ĩʃíí lẽmbẽ ɓälã,[],,['chan2019'],,False,False,,1
+gbay1288-1-22-1,,gbay1288-1,22,ɡũfũ ɓälã ĩʃíí lẽmbẽ rǒmó,ɡũfũ ɓälã ĩʃíí lẽmbẽ rǒmó,[],,['chan2019'],,False,False,,1
+gbay1288-1-23-1,,gbay1288-1,23,ɡũfũ ɓälã ĩʃíí lẽmbẽ tötö,ɡũfũ ɓälã ĩʃíí lẽmbẽ tötö,[],,['chan2019'],,False,False,,1
+gbay1288-1-24-1,,gbay1288-1,24,ɡũfũ ɓälã ĩʃíí lẽmbẽ sösö,ɡũfũ ɓälã ĩʃíí lẽmbẽ sösö,[],,['chan2019'],,False,False,,1
+gbay1288-1-25-1,,gbay1288-1,25,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã,[],,['chan2019'],,False,False,,1
+gbay1288-1-26-1,,gbay1288-1,26,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ ɓälã,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ ɓälã,[],,['chan2019'],,False,False,,1
+gbay1288-1-27-1,,gbay1288-1,27,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ rǒmó,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ rǒmó,[],,['chan2019'],,False,False,,1
+gbay1288-1-28-1,,gbay1288-1,28,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ tötö,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ tötö,[],,['chan2019'],,False,False,,1
+gbay1288-1-29-1,,gbay1288-1,29,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ sösö,ɡũfũ ɓälã ĩʃíí lẽmbẽ sálã lẽmbẽ sösö,[],,['chan2019'],,False,False,,1
+gbay1288-1-30-1,,gbay1288-1,30,ɡũfũ ɓälã ĩʃíí kpú ẽɗẽ,ɡũfũ ɓälã ĩʃíí kpú ẽɗẽ,[],( 20 +10 ),['chan2019'],,False,False,,1
+gbay1288-1-40-1,,gbay1288-1,40,ɡũfũ rǒmó,ɡũfũ rǒmó,[],( 20 x 2 ),['chan2019'],,False,False,,1
+gbay1288-1-50-1,,gbay1288-1,50,ɡũfũ rǒmó ĩʃíí kpú ẽɗe,ɡũfũ rǒmó ĩʃíí kpú ẽɗe,[],,['chan2019'],,False,False,,1
+gbay1288-1-60-1,,gbay1288-1,60,ɡũfũ tötö,ɡũfũ tötö,[],( 20 x 3 ),['chan2019'],,False,False,,1
+gbay1288-1-70-1,,gbay1288-1,70,ɡũfũ tötö ĩʃíí kpú ẽɗe,ɡũfũ tötö ĩʃíí kpú ẽɗe,[],,['chan2019'],,False,False,,1
+gbay1288-1-80-1,,gbay1288-1,80,ɡũfũ sösö,ɡũfũ sösö,[],( 20 x 4 ),['chan2019'],,False,False,,1
+gbay1288-1-90-1,,gbay1288-1,90,ɡũfũ sösö ĩʃíí kpú ẽɗe,ɡũfũ sösö ĩʃíí kpú ẽɗe,[],,['chan2019'],,False,False,,1
+gbay1288-1-100-1,,gbay1288-1,100,ɡũfũ sálã,ɡũfũ sálã,[],( 20 x 5 ),['chan2019'],,False,False,,1
+gbay1288-1-200-1,,gbay1288-1,200,ɡũfũ kpú,ɡũfũ kpú,[],( 20 x 10 ),['chan2019'],,False,False,,1
+gbay1288-1-1000-1,,gbay1288-1,1000,ɡũfũ sálã ká dĩtëyí kpú,ɡũfũ sálã ká dĩtëyí kpú,[],,['chan2019'],,False,False,,1
+gbay1288-1-2000-1,,gbay1288-1,2000,ɡũfũ sálã ká dĩtëyí ɡũfũ ɓälã,ɡũfũ sálã ká dĩtëyí ɡũfũ ɓälã,[],,['chan2019'],,False,False,,1

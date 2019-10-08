@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lyel1241-1-1-1,,lyel1241-1,1,èdù,èdù,[],,[],,False,False,,1
-lyel1241-1-2-1,,lyel1241-1,2,sə̀lyè,sə̀lyè,[],,[],,False,False,,1
-lyel1241-1-3-1,,lyel1241-1,3,sə̀tə̀,sə̀tə̀,[],,[],,False,False,,1
-lyel1241-1-4-1,,lyel1241-1,4,sə̀na,sə̀na,[],,[],,False,False,,1
-lyel1241-1-5-1,,lyel1241-1,5,sə̀nu,sə̀nu,[],,[],,False,False,,1
-lyel1241-1-6-1,,lyel1241-1,6,ʃə̀ldù,ʃə̀ldù,[],( 5 + 1 ) ?,[],,False,False,,1
-lyel1241-1-7-1,,lyel1241-1,7,ʃàlpyɛ̀,ʃàlpyɛ̀,[],( 5 + 2 ) ?,[],,False,False,,1
-lyel1241-1-8-1,,lyel1241-1,8,lyɛlɛ,lyɛlɛ,[],,[],,False,False,,1
-lyel1241-1-9-1,,lyel1241-1,9,nə̀bɔ́,nə̀bɔ́,[],,[],,False,False,,1
-lyel1241-1-10-1,,lyel1241-1,10,ʃíyə́,ʃíyə́,[],,[],,False,False,,1
-lyel1241-1-11-1,,lyel1241-1,11,ʃí ǹdə́ èdù,ʃí ǹdə́ èdù,[],,[],,False,False,,1
-lyel1241-1-12-1,,lyel1241-1,12,ʃí ǹdə́ sə̀lyè,ʃí ǹdə́ sə̀lyè,[],,[],,False,False,,1
-lyel1241-1-13-1,,lyel1241-1,13,ʃí ǹdə́ sə̀tə̀,ʃí ǹdə́ sə̀tə̀,[],,[],,False,False,,1
-lyel1241-1-14-1,,lyel1241-1,14,ʃí ǹdə́ sə̀na,ʃí ǹdə́ sə̀na,[],,[],,False,False,,1
-lyel1241-1-15-1,,lyel1241-1,15,ʃí ǹdə́ sə̀nu,ʃí ǹdə́ sə̀nu,[],,[],,False,False,,1
-lyel1241-1-16-1,,lyel1241-1,16,ʃí ǹdə́ ʃə̀ldù,ʃí ǹdə́ ʃə̀ldù,[],,[],,False,False,,1
-lyel1241-1-17-1,,lyel1241-1,17,ʃí ǹdə́ ʃàlpyɛ̀,ʃí ǹdə́ ʃàlpyɛ̀,[],,[],,False,False,,1
-lyel1241-1-18-1,,lyel1241-1,18,ʃí ǹdə́ lyɛlɛ,ʃí ǹdə́ lyɛlɛ,[],,[],,False,False,,1
-lyel1241-1-19-1,,lyel1241-1,19,ʃí ǹdə́ nə̀bɔ́,ʃí ǹdə́ nə̀bɔ́,[],,[],,False,False,,1
-lyel1241-1-20-1,,lyel1241-1,20,ʃí-èlyè,ʃí-èlyè,[],,[],,False,False,,1
-lyel1241-1-21-1,,lyel1241-1,21,ʃí-èlyè ǹdé èdù,ʃí-èlyè ǹdé èdù,[],,[],,False,False,,1
-lyel1241-1-22-1,,lyel1241-1,22,ʃí-èlyè ǹdé sə̀lyè,ʃí-èlyè ǹdé sə̀lyè,[],,[],,False,False,,1
-lyel1241-1-23-1,,lyel1241-1,23,ʃí-èlyè ǹdé sə̀tə̀,ʃí-èlyè ǹdé sə̀tə̀,[],,[],,False,False,,1
-lyel1241-1-24-1,,lyel1241-1,24,ʃí-èlyè ǹdé sə̀na,ʃí-èlyè ǹdé sə̀na,[],,[],,False,False,,1
-lyel1241-1-25-1,,lyel1241-1,25,ʃí-èlyè ǹdé sə̀nu,ʃí-èlyè ǹdé sə̀nu,[],,[],,False,False,,1
-lyel1241-1-26-1,,lyel1241-1,26,ʃí-èlyè ǹdé ʃə̀ldù,ʃí-èlyè ǹdé ʃə̀ldù,[],,[],,False,False,,1
-lyel1241-1-27-1,,lyel1241-1,27,ʃí-èlyè ǹdé ʃàlpyɛ̀,ʃí-èlyè ǹdé ʃàlpyɛ̀,[],,[],,False,False,,1
-lyel1241-1-28-1,,lyel1241-1,28,ʃí-èlyè ǹdé lyɛlɛ,ʃí-èlyè ǹdé lyɛlɛ,[],,[],,False,False,,1
-lyel1241-1-29-1,,lyel1241-1,29,ʃí-èlyè ǹdé nə̀bɔ́,ʃí-èlyè ǹdé nə̀bɔ́,[],,[],,False,False,,1
-lyel1241-1-30-1,,lyel1241-1,30,ʃí-ètə̀,ʃí-ètə̀,[],,[],,False,False,,1
-lyel1241-1-40-1,,lyel1241-1,40,ʃí-èna,ʃí-èna,[],,[],,False,False,,1
-lyel1241-1-50-1,,lyel1241-1,50,ʃí-ènu,ʃí-ènu,[],,[],,False,False,,1
-lyel1241-1-60-1,,lyel1241-1,60,ʃí-ʃə̀ldù,ʃí-ʃə̀ldù,[],,[],,False,False,,1
-lyel1241-1-70-1,,lyel1241-1,70,ʃí-ʃàlpyɛ̀,ʃí-ʃàlpyɛ̀,[],,[],,False,False,,1
-lyel1241-1-80-1,,lyel1241-1,80,ʃí-lyɛlɛ,ʃí-lyɛlɛ,[],,[],,False,False,,1
-lyel1241-1-90-1,,lyel1241-1,90,ʃí-nə̀bɔ́,ʃí-nə̀bɔ́,[],,[],,False,False,,1
-lyel1241-1-100-1,,lyel1241-1,100,zɔ̌m,zɔ̌m,[],,[],,False,False,,1
-lyel1241-1-200-1,,lyel1241-1,200,zwã̌-èlyè,zwã̌-èlyè,[],,[],,False,False,,1
-lyel1241-1-1000-1,,lyel1241-1,1000,mɔ̀rhɔ̀,mɔ̀rhɔ̀,[],,[],,False,False,,1
-lyel1241-1-2000-1,,lyel1241-1,2000,mɔ̀ɔ̀rhɛ̀ rə̀lyè,mɔ̀ɔ̀rhɛ̀ rə̀lyè,[],,[],,False,False,,1
+lyel1241-1-1-1,,lyel1241-1,1,èdù,èdù,[],,['chan2019'],,False,False,,1
+lyel1241-1-2-1,,lyel1241-1,2,sə̀lyè,sə̀lyè,[],,['chan2019'],,False,False,,1
+lyel1241-1-3-1,,lyel1241-1,3,sə̀tə̀,sə̀tə̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-4-1,,lyel1241-1,4,sə̀na,sə̀na,[],,['chan2019'],,False,False,,1
+lyel1241-1-5-1,,lyel1241-1,5,sə̀nu,sə̀nu,[],,['chan2019'],,False,False,,1
+lyel1241-1-6-1,,lyel1241-1,6,ʃə̀ldù,ʃə̀ldù,[],( 5 + 1 ) ?,['chan2019'],,False,False,,1
+lyel1241-1-7-1,,lyel1241-1,7,ʃàlpyɛ̀,ʃàlpyɛ̀,[],( 5 + 2 ) ?,['chan2019'],,False,False,,1
+lyel1241-1-8-1,,lyel1241-1,8,lyɛlɛ,lyɛlɛ,[],,['chan2019'],,False,False,,1
+lyel1241-1-9-1,,lyel1241-1,9,nə̀bɔ́,nə̀bɔ́,[],,['chan2019'],,False,False,,1
+lyel1241-1-10-1,,lyel1241-1,10,ʃíyə́,ʃíyə́,[],,['chan2019'],,False,False,,1
+lyel1241-1-11-1,,lyel1241-1,11,ʃí ǹdə́ èdù,ʃí ǹdə́ èdù,[],,['chan2019'],,False,False,,1
+lyel1241-1-12-1,,lyel1241-1,12,ʃí ǹdə́ sə̀lyè,ʃí ǹdə́ sə̀lyè,[],,['chan2019'],,False,False,,1
+lyel1241-1-13-1,,lyel1241-1,13,ʃí ǹdə́ sə̀tə̀,ʃí ǹdə́ sə̀tə̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-14-1,,lyel1241-1,14,ʃí ǹdə́ sə̀na,ʃí ǹdə́ sə̀na,[],,['chan2019'],,False,False,,1
+lyel1241-1-15-1,,lyel1241-1,15,ʃí ǹdə́ sə̀nu,ʃí ǹdə́ sə̀nu,[],,['chan2019'],,False,False,,1
+lyel1241-1-16-1,,lyel1241-1,16,ʃí ǹdə́ ʃə̀ldù,ʃí ǹdə́ ʃə̀ldù,[],,['chan2019'],,False,False,,1
+lyel1241-1-17-1,,lyel1241-1,17,ʃí ǹdə́ ʃàlpyɛ̀,ʃí ǹdə́ ʃàlpyɛ̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-18-1,,lyel1241-1,18,ʃí ǹdə́ lyɛlɛ,ʃí ǹdə́ lyɛlɛ,[],,['chan2019'],,False,False,,1
+lyel1241-1-19-1,,lyel1241-1,19,ʃí ǹdə́ nə̀bɔ́,ʃí ǹdə́ nə̀bɔ́,[],,['chan2019'],,False,False,,1
+lyel1241-1-20-1,,lyel1241-1,20,ʃí-èlyè,ʃí-èlyè,[],,['chan2019'],,False,False,,1
+lyel1241-1-21-1,,lyel1241-1,21,ʃí-èlyè ǹdé èdù,ʃí-èlyè ǹdé èdù,[],,['chan2019'],,False,False,,1
+lyel1241-1-22-1,,lyel1241-1,22,ʃí-èlyè ǹdé sə̀lyè,ʃí-èlyè ǹdé sə̀lyè,[],,['chan2019'],,False,False,,1
+lyel1241-1-23-1,,lyel1241-1,23,ʃí-èlyè ǹdé sə̀tə̀,ʃí-èlyè ǹdé sə̀tə̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-24-1,,lyel1241-1,24,ʃí-èlyè ǹdé sə̀na,ʃí-èlyè ǹdé sə̀na,[],,['chan2019'],,False,False,,1
+lyel1241-1-25-1,,lyel1241-1,25,ʃí-èlyè ǹdé sə̀nu,ʃí-èlyè ǹdé sə̀nu,[],,['chan2019'],,False,False,,1
+lyel1241-1-26-1,,lyel1241-1,26,ʃí-èlyè ǹdé ʃə̀ldù,ʃí-èlyè ǹdé ʃə̀ldù,[],,['chan2019'],,False,False,,1
+lyel1241-1-27-1,,lyel1241-1,27,ʃí-èlyè ǹdé ʃàlpyɛ̀,ʃí-èlyè ǹdé ʃàlpyɛ̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-28-1,,lyel1241-1,28,ʃí-èlyè ǹdé lyɛlɛ,ʃí-èlyè ǹdé lyɛlɛ,[],,['chan2019'],,False,False,,1
+lyel1241-1-29-1,,lyel1241-1,29,ʃí-èlyè ǹdé nə̀bɔ́,ʃí-èlyè ǹdé nə̀bɔ́,[],,['chan2019'],,False,False,,1
+lyel1241-1-30-1,,lyel1241-1,30,ʃí-ètə̀,ʃí-ètə̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-40-1,,lyel1241-1,40,ʃí-èna,ʃí-èna,[],,['chan2019'],,False,False,,1
+lyel1241-1-50-1,,lyel1241-1,50,ʃí-ènu,ʃí-ènu,[],,['chan2019'],,False,False,,1
+lyel1241-1-60-1,,lyel1241-1,60,ʃí-ʃə̀ldù,ʃí-ʃə̀ldù,[],,['chan2019'],,False,False,,1
+lyel1241-1-70-1,,lyel1241-1,70,ʃí-ʃàlpyɛ̀,ʃí-ʃàlpyɛ̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-80-1,,lyel1241-1,80,ʃí-lyɛlɛ,ʃí-lyɛlɛ,[],,['chan2019'],,False,False,,1
+lyel1241-1-90-1,,lyel1241-1,90,ʃí-nə̀bɔ́,ʃí-nə̀bɔ́,[],,['chan2019'],,False,False,,1
+lyel1241-1-100-1,,lyel1241-1,100,zɔ̌m,zɔ̌m,[],,['chan2019'],,False,False,,1
+lyel1241-1-200-1,,lyel1241-1,200,zwã̌-èlyè,zwã̌-èlyè,[],,['chan2019'],,False,False,,1
+lyel1241-1-1000-1,,lyel1241-1,1000,mɔ̀rhɔ̀,mɔ̀rhɔ̀,[],,['chan2019'],,False,False,,1
+lyel1241-1-2000-1,,lyel1241-1,2000,mɔ̀ɔ̀rhɛ̀ rə̀lyè,mɔ̀ɔ̀rhɛ̀ rə̀lyè,[],,['chan2019'],,False,False,,1

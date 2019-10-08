@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-shem1239-2-1-1,,shem1239-2,1,nanbin,nanbin,[],,[],,False,False,,2
-shem1239-2-2-1,,shem1239-2,2,ʃuunni,ʃuunni,[],,[],,False,False,,2
-shem1239-2-3-1,,shem1239-2,3,taanri,taanri,[],,[],,False,False,,2
-shem1239-2-4-1,,shem1239-2,4,sicɛɛrɛ,sicɛɛrɛ,[],,[],,False,False,,2
-shem1239-2-5-1,,shem1239-2,5,kaɡro,kaɡro,[],,[],,False,False,,2
-shem1239-2-6-1,,shem1239-2,6,ɡ͡baani,ɡ͡baani,[],,[],,False,False,,2
-shem1239-2-7-1,,shem1239-2,7,ɡ͡baʃuuni,ɡ͡baʃuuni,[],( 5 + 2 ),[],,False,False,,2
-shem1239-2-8-1,,shem1239-2,8,ɡ͡bataanri,ɡ͡bataanri,[],( 5 + 3 ),[],,False,False,,2
-shem1239-2-9-1,,shem1239-2,9,ɡ͡baɛɛrɛ,ɡ͡baɛɛrɛ,[],( 5 + 4 ),[],,False,False,,2
-shem1239-2-10-1,,shem1239-2,10,kɛ,kɛ,[],,[],,False,False,,2
-shem1239-2-11-1,,shem1239-2,11,kɛ ni ninɡin,kɛ ni ninɡin,[],,[],,False,False,,2
-shem1239-2-12-1,,shem1239-2,12,kɛ ni ʃuunni,kɛ ni ʃuunni,[],,[],,False,False,,2
-shem1239-2-13-1,,shem1239-2,13,kɛ ni taanri,kɛ ni taanri,[],,[],,False,False,,2
-shem1239-2-14-1,,shem1239-2,14,kɛ ni sicɛɛrɛ,kɛ ni sicɛɛrɛ,[],,[],,False,False,,2
-shem1239-2-15-1,,shem1239-2,15,kɛ ni kaɡro,kɛ ni kaɡro,[],,[],,False,False,,2
-shem1239-2-16-1,,shem1239-2,16,kɛ ni ɡ͡baani,kɛ ni ɡ͡baani,[],,[],,False,False,,2
-shem1239-2-17-1,,shem1239-2,17,kɛ ni ɡ͡baʃuuni,kɛ ni ɡ͡baʃuuni,[],,[],,False,False,,2
-shem1239-2-18-1,,shem1239-2,18,kɛ ni ɡ͡bataanri,kɛ ni ɡ͡bataanri,[],,[],,False,False,,2
-shem1239-2-19-1,,shem1239-2,19,kɛ ni ɡ͡baɛɛrɛ,kɛ ni ɡ͡baɛɛrɛ,[],,[],,False,False,,2
-shem1239-2-20-1,,shem1239-2,20,toloɡo,toloɡo,[],,[],,False,False,,2
-shem1239-2-21-1,,shem1239-2,21,toloɡo ni nanbin,toloɡo ni nanbin,[],,[],,False,False,,2
-shem1239-2-22-1,,shem1239-2,22,toloɡo ni ʃuunni,toloɡo ni ʃuunni,[],,[],,False,False,,2
-shem1239-2-23-1,,shem1239-2,23,toloɡo ni taanri,toloɡo ni taanri,[],,[],,False,False,,2
-shem1239-2-24-1,,shem1239-2,24,toloɡo ni cicɛɛrɛ,toloɡo ni cicɛɛrɛ,[],,[],,False,False,,2
-shem1239-2-25-1,,shem1239-2,25,toloɡo ni kaɡro,toloɡo ni kaɡro,[],,[],,False,False,,2
-shem1239-2-26-1,,shem1239-2,26,toloɡo ni ɡ͡baani,toloɡo ni ɡ͡baani,[],,[],,False,False,,2
-shem1239-2-27-1,,shem1239-2,27,toloɡo ni ɡ͡baʃuuni,toloɡo ni ɡ͡baʃuuni,[],,[],,False,False,,2
-shem1239-2-28-1,,shem1239-2,28,toloɡo ni ɡ͡bataanri,toloɡo ni ɡ͡bataanri,[],,[],,False,False,,2
-shem1239-2-29-1,,shem1239-2,29,toloɡo ni ɡ͡baɛɛrɛ,toloɡo ni ɡ͡baɛɛrɛ,[],,[],,False,False,,2
-shem1239-2-30-1,,shem1239-2,30,toloɡo ni kɛ,toloɡo ni kɛ,[],,[],,False,False,,2
-shem1239-2-40-1,,shem1239-2,40,to-ʃuuni,to-ʃuuni,[],( 20 x 2 ),[],,False,False,,2
-shem1239-2-50-1,,shem1239-2,50,to-ʃuunni ni kɛ,to-ʃuunni ni kɛ,[],,[],,False,False,,2
-shem1239-2-60-1,,shem1239-2,60,to-taanri,to-taanri,[],( 20 x 3 ),[],,False,False,,2
-shem1239-2-70-1,,shem1239-2,70,to-taanri ni kɛ,to-taanri ni kɛ,[],,[],,False,False,,2
-shem1239-2-80-1,,shem1239-2,80,to-sicɛɛrɛ,to-sicɛɛrɛ,[],( 20 x 4 ),[],,False,False,,2
-shem1239-2-90-1,,shem1239-2,90,to-sicɛɛrɛ ni kɛ,to-sicɛɛrɛ ni kɛ,[],,[],,False,False,,2
-shem1239-2-100-1,,shem1239-2,100,to-kaɡro,to-kaɡro,[],( 20 x 5 ),[],,False,False,,2
-shem1239-2-200-1,,shem1239-2,200,to-kɛ,to-kɛ,[],( 20 x 10 ),[],,False,False,,2
-shem1239-2-1000-1,,shem1239-2,1000,bebɔlɔ,bebɔlɔ,[],,[],,False,False,,2
-shem1239-2-2000-1,,shem1239-2,2000,bebwahaɡe ʃuunni,bebwahaɡe ʃuunni,[],,[],,False,False,,2
+shem1239-2-1-1,,shem1239-2,1,nanbin,nanbin,[],,['chan2019'],,False,False,,2
+shem1239-2-2-1,,shem1239-2,2,ʃuunni,ʃuunni,[],,['chan2019'],,False,False,,2
+shem1239-2-3-1,,shem1239-2,3,taanri,taanri,[],,['chan2019'],,False,False,,2
+shem1239-2-4-1,,shem1239-2,4,sicɛɛrɛ,sicɛɛrɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-5-1,,shem1239-2,5,kaɡro,kaɡro,[],,['chan2019'],,False,False,,2
+shem1239-2-6-1,,shem1239-2,6,ɡ͡baani,ɡ͡baani,[],,['chan2019'],,False,False,,2
+shem1239-2-7-1,,shem1239-2,7,ɡ͡baʃuuni,ɡ͡baʃuuni,[],( 5 + 2 ),['chan2019'],,False,False,,2
+shem1239-2-8-1,,shem1239-2,8,ɡ͡bataanri,ɡ͡bataanri,[],( 5 + 3 ),['chan2019'],,False,False,,2
+shem1239-2-9-1,,shem1239-2,9,ɡ͡baɛɛrɛ,ɡ͡baɛɛrɛ,[],( 5 + 4 ),['chan2019'],,False,False,,2
+shem1239-2-10-1,,shem1239-2,10,kɛ,kɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-11-1,,shem1239-2,11,kɛ ni ninɡin,kɛ ni ninɡin,[],,['chan2019'],,False,False,,2
+shem1239-2-12-1,,shem1239-2,12,kɛ ni ʃuunni,kɛ ni ʃuunni,[],,['chan2019'],,False,False,,2
+shem1239-2-13-1,,shem1239-2,13,kɛ ni taanri,kɛ ni taanri,[],,['chan2019'],,False,False,,2
+shem1239-2-14-1,,shem1239-2,14,kɛ ni sicɛɛrɛ,kɛ ni sicɛɛrɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-15-1,,shem1239-2,15,kɛ ni kaɡro,kɛ ni kaɡro,[],,['chan2019'],,False,False,,2
+shem1239-2-16-1,,shem1239-2,16,kɛ ni ɡ͡baani,kɛ ni ɡ͡baani,[],,['chan2019'],,False,False,,2
+shem1239-2-17-1,,shem1239-2,17,kɛ ni ɡ͡baʃuuni,kɛ ni ɡ͡baʃuuni,[],,['chan2019'],,False,False,,2
+shem1239-2-18-1,,shem1239-2,18,kɛ ni ɡ͡bataanri,kɛ ni ɡ͡bataanri,[],,['chan2019'],,False,False,,2
+shem1239-2-19-1,,shem1239-2,19,kɛ ni ɡ͡baɛɛrɛ,kɛ ni ɡ͡baɛɛrɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-20-1,,shem1239-2,20,toloɡo,toloɡo,[],,['chan2019'],,False,False,,2
+shem1239-2-21-1,,shem1239-2,21,toloɡo ni nanbin,toloɡo ni nanbin,[],,['chan2019'],,False,False,,2
+shem1239-2-22-1,,shem1239-2,22,toloɡo ni ʃuunni,toloɡo ni ʃuunni,[],,['chan2019'],,False,False,,2
+shem1239-2-23-1,,shem1239-2,23,toloɡo ni taanri,toloɡo ni taanri,[],,['chan2019'],,False,False,,2
+shem1239-2-24-1,,shem1239-2,24,toloɡo ni cicɛɛrɛ,toloɡo ni cicɛɛrɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-25-1,,shem1239-2,25,toloɡo ni kaɡro,toloɡo ni kaɡro,[],,['chan2019'],,False,False,,2
+shem1239-2-26-1,,shem1239-2,26,toloɡo ni ɡ͡baani,toloɡo ni ɡ͡baani,[],,['chan2019'],,False,False,,2
+shem1239-2-27-1,,shem1239-2,27,toloɡo ni ɡ͡baʃuuni,toloɡo ni ɡ͡baʃuuni,[],,['chan2019'],,False,False,,2
+shem1239-2-28-1,,shem1239-2,28,toloɡo ni ɡ͡bataanri,toloɡo ni ɡ͡bataanri,[],,['chan2019'],,False,False,,2
+shem1239-2-29-1,,shem1239-2,29,toloɡo ni ɡ͡baɛɛrɛ,toloɡo ni ɡ͡baɛɛrɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-30-1,,shem1239-2,30,toloɡo ni kɛ,toloɡo ni kɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-40-1,,shem1239-2,40,to-ʃuuni,to-ʃuuni,[],( 20 x 2 ),['chan2019'],,False,False,,2
+shem1239-2-50-1,,shem1239-2,50,to-ʃuunni ni kɛ,to-ʃuunni ni kɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-60-1,,shem1239-2,60,to-taanri,to-taanri,[],( 20 x 3 ),['chan2019'],,False,False,,2
+shem1239-2-70-1,,shem1239-2,70,to-taanri ni kɛ,to-taanri ni kɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-80-1,,shem1239-2,80,to-sicɛɛrɛ,to-sicɛɛrɛ,[],( 20 x 4 ),['chan2019'],,False,False,,2
+shem1239-2-90-1,,shem1239-2,90,to-sicɛɛrɛ ni kɛ,to-sicɛɛrɛ ni kɛ,[],,['chan2019'],,False,False,,2
+shem1239-2-100-1,,shem1239-2,100,to-kaɡro,to-kaɡro,[],( 20 x 5 ),['chan2019'],,False,False,,2
+shem1239-2-200-1,,shem1239-2,200,to-kɛ,to-kɛ,[],( 20 x 10 ),['chan2019'],,False,False,,2
+shem1239-2-1000-1,,shem1239-2,1000,bebɔlɔ,bebɔlɔ,[],,['chan2019'],,False,False,,2
+shem1239-2-2000-1,,shem1239-2,2000,bebwahaɡe ʃuunni,bebwahaɡe ʃuunni,[],,['chan2019'],,False,False,,2

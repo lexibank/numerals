@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lava1239-2-1-1,,lava1239-2,1,exas,exas,[],,[],,False,False,,2
-lava1239-2-2-1,,lava1239-2,2,eu,eu,[],,[],,False,False,,2
-lava1239-2-3-1,,lava1239-2,3,erun,erun,[],,[],,False,False,,2
-lava1239-2-4-1,,lava1239-2,4,euvet,euvet,[],,[],,False,False,,2
-lava1239-2-5-1,,lava1239-2,5,lima,lima,[],,[],,False,False,,2
-lava1239-2-6-1,,lava1239-2,6,eono,eono,[],,[],,False,False,,2
-lava1239-2-7-1,,lava1239-2,7,euti,euti,[],,[],,False,False,,2
-lava1239-2-8-1,,lava1239-2,8,evan,evan,[],,[],,False,False,,2
-lava1239-2-9-1,,lava1239-2,9,sik,sik,[],,[],,False,False,,2
-lava1239-2-10-1,,lava1239-2,10,sauŋaun,sauŋaun,[],,[],,False,False,,2
-lava1239-2-11-1,,lava1239-2,11,ezaŋaun me exazaa,ezaŋaun me exazaa,[],,[],,False,False,,2
-lava1239-2-12-1,,lava1239-2,12,ezaŋaun me evuta,ezaŋaun me evuta,[],,[],,False,False,,2
-lava1239-2-13-1,,lava1239-2,13,ezaŋaun me evantun,ezaŋaun me evantun,[],,[],,False,False,,2
-lava1239-2-14-1,,lava1239-2,14,ezaŋaun me evanet,ezaŋaun me evanet,[],,[],,False,False,,2
-lava1239-2-15-1,,lava1239-2,15,ezaŋaun me evaima,ezaŋaun me evaima,[],,[],,False,False,,2
-lava1239-2-16-1,,lava1239-2,16,ezaŋaun me eono,ezaŋaun me eono,[],,[],,False,False,,2
-lava1239-2-17-1,,lava1239-2,17,ezaŋaun me euti,ezaŋaun me euti,[],,[],,False,False,,2
-lava1239-2-18-1,,lava1239-2,18,ezaŋaun me eovan,ezaŋaun me eovan,[],,[],,False,False,,2
-lava1239-2-19-1,,lava1239-2,19,ezaŋaun me esik,ezaŋaun me esik,[],,[],,False,False,,2
-lava1239-2-20-1,,lava1239-2,20,evu saŋaun,evu saŋaun,[],,[],,False,False,,2
-lava1239-2-21-1,,lava1239-2,21,evu saŋaun me exazaa,evu saŋaun me exazaa,[],,[],,False,False,,2
-lava1239-2-22-1,,lava1239-2,22,evu saŋaun me evuta,evu saŋaun me evuta,[],,[],,False,False,,2
-lava1239-2-23-1,,lava1239-2,23,evu saŋaun me evantun,evu saŋaun me evantun,[],,[],,False,False,,2
-lava1239-2-24-1,,lava1239-2,24,evu saŋaun me evanet,evu saŋaun me evanet,[],,[],,False,False,,2
-lava1239-2-25-1,,lava1239-2,25,evu saŋaun me evalima,evu saŋaun me evalima,[],,[],,False,False,,2
-lava1239-2-26-1,,lava1239-2,26,evu saŋaun me eono,evu saŋaun me eono,[],,[],,False,False,,2
-lava1239-2-27-1,,lava1239-2,27,evu saŋaun me euti,evu saŋaun me euti,[],,[],,False,False,,2
-lava1239-2-28-1,,lava1239-2,28,evu saŋaun me eovan,evu saŋaun me eovan,[],,[],,False,False,,2
-lava1239-2-29-1,,lava1239-2,29,evu saŋaun me esik,evu saŋaun me esik,[],,[],,False,False,,2
-lava1239-2-30-1,,lava1239-2,30,evantun sauŋaun,evantun sauŋaun,[],,[],,False,False,,2
-lava1239-2-40-1,,lava1239-2,40,evanet sauŋaun,evanet sauŋaun,[],,[],,False,False,,2
-lava1239-2-50-1,,lava1239-2,50,evalima sauŋaun,evalima sauŋaun,[],,[],,False,False,,2
-lava1239-2-60-1,,lava1239-2,60,eono sauŋaun,eono sauŋaun,[],,[],,False,False,,2
-lava1239-2-70-1,,lava1239-2,70,evantit sauŋaun,evantit sauŋaun,[],,[],,False,False,,2
-lava1239-2-80-1,,lava1239-2,80,evanon sauŋaun,evanon sauŋaun,[],,[],,False,False,,2
-lava1239-2-90-1,,lava1239-2,90,evasik sauŋaun,evasik sauŋaun,[],,[],,False,False,,2
-lava1239-2-100-1,,lava1239-2,100,era sauŋaun kobot,era sauŋaun kobot,[],,[],,False,False,,2
-lava1239-2-200-1,,lava1239-2,200,evu sauŋaun kobot,evu sauŋaun kobot,[],,[],,False,False,,2
-lava1239-2-1000-1,,lava1239-2,1000,exazamara zaŋaun kobot,exazamara zaŋaun kobot,[],,[],,False,False,,2
-lava1239-2-2000-1,,lava1239-2,2000,evumara zaŋaun kobot,evumara zaŋaun kobot,[],,[],,False,False,,2
+lava1239-2-1-1,,lava1239-2,1,exas,exas,[],,['chan2019'],,False,False,,2
+lava1239-2-2-1,,lava1239-2,2,eu,eu,[],,['chan2019'],,False,False,,2
+lava1239-2-3-1,,lava1239-2,3,erun,erun,[],,['chan2019'],,False,False,,2
+lava1239-2-4-1,,lava1239-2,4,euvet,euvet,[],,['chan2019'],,False,False,,2
+lava1239-2-5-1,,lava1239-2,5,lima,lima,[],,['chan2019'],,False,False,,2
+lava1239-2-6-1,,lava1239-2,6,eono,eono,[],,['chan2019'],,False,False,,2
+lava1239-2-7-1,,lava1239-2,7,euti,euti,[],,['chan2019'],,False,False,,2
+lava1239-2-8-1,,lava1239-2,8,evan,evan,[],,['chan2019'],,False,False,,2
+lava1239-2-9-1,,lava1239-2,9,sik,sik,[],,['chan2019'],,False,False,,2
+lava1239-2-10-1,,lava1239-2,10,sauŋaun,sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-11-1,,lava1239-2,11,ezaŋaun me exazaa,ezaŋaun me exazaa,[],,['chan2019'],,False,False,,2
+lava1239-2-12-1,,lava1239-2,12,ezaŋaun me evuta,ezaŋaun me evuta,[],,['chan2019'],,False,False,,2
+lava1239-2-13-1,,lava1239-2,13,ezaŋaun me evantun,ezaŋaun me evantun,[],,['chan2019'],,False,False,,2
+lava1239-2-14-1,,lava1239-2,14,ezaŋaun me evanet,ezaŋaun me evanet,[],,['chan2019'],,False,False,,2
+lava1239-2-15-1,,lava1239-2,15,ezaŋaun me evaima,ezaŋaun me evaima,[],,['chan2019'],,False,False,,2
+lava1239-2-16-1,,lava1239-2,16,ezaŋaun me eono,ezaŋaun me eono,[],,['chan2019'],,False,False,,2
+lava1239-2-17-1,,lava1239-2,17,ezaŋaun me euti,ezaŋaun me euti,[],,['chan2019'],,False,False,,2
+lava1239-2-18-1,,lava1239-2,18,ezaŋaun me eovan,ezaŋaun me eovan,[],,['chan2019'],,False,False,,2
+lava1239-2-19-1,,lava1239-2,19,ezaŋaun me esik,ezaŋaun me esik,[],,['chan2019'],,False,False,,2
+lava1239-2-20-1,,lava1239-2,20,evu saŋaun,evu saŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-21-1,,lava1239-2,21,evu saŋaun me exazaa,evu saŋaun me exazaa,[],,['chan2019'],,False,False,,2
+lava1239-2-22-1,,lava1239-2,22,evu saŋaun me evuta,evu saŋaun me evuta,[],,['chan2019'],,False,False,,2
+lava1239-2-23-1,,lava1239-2,23,evu saŋaun me evantun,evu saŋaun me evantun,[],,['chan2019'],,False,False,,2
+lava1239-2-24-1,,lava1239-2,24,evu saŋaun me evanet,evu saŋaun me evanet,[],,['chan2019'],,False,False,,2
+lava1239-2-25-1,,lava1239-2,25,evu saŋaun me evalima,evu saŋaun me evalima,[],,['chan2019'],,False,False,,2
+lava1239-2-26-1,,lava1239-2,26,evu saŋaun me eono,evu saŋaun me eono,[],,['chan2019'],,False,False,,2
+lava1239-2-27-1,,lava1239-2,27,evu saŋaun me euti,evu saŋaun me euti,[],,['chan2019'],,False,False,,2
+lava1239-2-28-1,,lava1239-2,28,evu saŋaun me eovan,evu saŋaun me eovan,[],,['chan2019'],,False,False,,2
+lava1239-2-29-1,,lava1239-2,29,evu saŋaun me esik,evu saŋaun me esik,[],,['chan2019'],,False,False,,2
+lava1239-2-30-1,,lava1239-2,30,evantun sauŋaun,evantun sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-40-1,,lava1239-2,40,evanet sauŋaun,evanet sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-50-1,,lava1239-2,50,evalima sauŋaun,evalima sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-60-1,,lava1239-2,60,eono sauŋaun,eono sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-70-1,,lava1239-2,70,evantit sauŋaun,evantit sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-80-1,,lava1239-2,80,evanon sauŋaun,evanon sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-90-1,,lava1239-2,90,evasik sauŋaun,evasik sauŋaun,[],,['chan2019'],,False,False,,2
+lava1239-2-100-1,,lava1239-2,100,era sauŋaun kobot,era sauŋaun kobot,[],,['chan2019'],,False,False,,2
+lava1239-2-200-1,,lava1239-2,200,evu sauŋaun kobot,evu sauŋaun kobot,[],,['chan2019'],,False,False,,2
+lava1239-2-1000-1,,lava1239-2,1000,exazamara zaŋaun kobot,exazamara zaŋaun kobot,[],,['chan2019'],,False,False,,2
+lava1239-2-2000-1,,lava1239-2,2000,evumara zaŋaun kobot,evumara zaŋaun kobot,[],,['chan2019'],,False,False,,2

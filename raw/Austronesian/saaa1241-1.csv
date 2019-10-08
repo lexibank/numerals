@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-saaa1241-1-1-1,,saaa1241-1,1,sʏ,sʏ,[],,[],,False,False,,1
-saaa1241-1-2-1,,saaa1241-1,2,bɛ=rʏ,bɛ=rʏ,[],,[],,False,False,,1
-saaa1241-1-3-1,,saaa1241-1,3,bɛ=tɪl,bɛ=tɪl,[],,[],,False,False,,1
-saaa1241-1-4-1,,saaa1241-1,4,bɛ=ɪt,bɛ=ɪt,[],,[],,False,False,,1
-saaa1241-1-5-1,,saaa1241-1,5,bɛ=lim,bɛ=lim,[],,[],,False,False,,1
-saaa1241-1-6-1,,saaa1241-1,6,bɛ=lit͡ʃia,bɛ=lit͡ʃia,[],( 5 + 1 ),[],,False,False,,1
-saaa1241-1-7-1,,saaa1241-1,7,bɛ=lɪurʏ,bɛ=lɪurʏ,[],( 5 + 2 ),[],,False,False,,1
-saaa1241-1-8-1,,saaa1241-1,8,bɛ=lɪtɪl,bɛ=lɪtɪl,[],( 5 + 3 ),[],,False,False,,1
-saaa1241-1-9-1,,saaa1241-1,9,bɛ=liapat,bɛ=liapat,[],( 5 + 4 ),[],,False,False,,1
-saaa1241-1-10-1,,saaa1241-1,10,sʏŋʏl,sʏŋʏl,[],,[],,False,False,,1
-saaa1241-1-10-2,,saaa1241-1,10,nʏl sʏ,nʏl sʏ,[],,[],,False,False,,1
-saaa1241-1-11-1,,saaa1241-1,11,nʏl sʏ aɪ bɛsʏ,nʏl sʏ aɪ bɛsʏ,[],,[],,False,False,,1
-saaa1241-1-12-1,,saaa1241-1,12,nʏl sʏ aɪ bɛrʏ,nʏl sʏ aɪ bɛrʏ,[],,[],,False,False,,1
-saaa1241-1-13-1,,saaa1241-1,13,nʏl sʏ aɪ bɛtɪl,nʏl sʏ aɪ bɛtɪl,[],,[],,False,False,,1
-saaa1241-1-14-1,,saaa1241-1,14,nʏl sʏ aɪ bɛɪt,nʏl sʏ aɪ bɛɪt,[],,[],,False,False,,1
-saaa1241-1-15-1,,saaa1241-1,15,nʏl sʏ aɪ bɛlim,nʏl sʏ aɪ bɛlim,[],,[],,False,False,,1
-saaa1241-1-16-1,,saaa1241-1,16,nʏl sʏ aɪ bɛlit͡ʃia,nʏl sʏ aɪ bɛlit͡ʃia,[],,[],,False,False,,1
-saaa1241-1-17-1,,saaa1241-1,17,nʏl sʏ aɪ bɛlɪurʏ,nʏl sʏ aɪ bɛlɪurʏ,[],,[],,False,False,,1
-saaa1241-1-18-1,,saaa1241-1,18,nʏl sʏ aɪ bɛlɪtɪl,nʏl sʏ aɪ bɛlɪtɪl,[],,[],,False,False,,1
-saaa1241-1-19-1,,saaa1241-1,19,nʏl sʏ aɪ bɛliapat,nʏl sʏ aɪ bɛliapat,[],,[],,False,False,,1
-saaa1241-1-20-1,,saaa1241-1,20,nʏl bɛrʏ,nʏl bɛrʏ,[],,[],,False,False,,1
-saaa1241-1-21-1,,saaa1241-1,21,nʏl sʏ aɪ sʏ,nʏl sʏ aɪ sʏ,[],,[],,False,False,,1
-saaa1241-1-22-1,,saaa1241-1,22,nʏl bɛrʏ aɪ bɛrʏ,nʏl bɛrʏ aɪ bɛrʏ,[],,[],,False,False,,1
-saaa1241-1-23-1,,saaa1241-1,23,nʏl bɛrʏ aɪ bɛtɪl,nʏl bɛrʏ aɪ bɛtɪl,[],,[],,False,False,,1
-saaa1241-1-24-1,,saaa1241-1,24,nʏl bɛrʏ aɪ bɛɪt,nʏl bɛrʏ aɪ bɛɪt,[],,[],,False,False,,1
-saaa1241-1-25-1,,saaa1241-1,25,nʏl bɛrʏ aɪ bɛlim,nʏl bɛrʏ aɪ bɛlim,[],,[],,False,False,,1
-saaa1241-1-26-1,,saaa1241-1,26,nʏl bɛrʏ aɪ bɛlit͡ʃia,nʏl bɛrʏ aɪ bɛlit͡ʃia,[],,[],,False,False,,1
-saaa1241-1-27-1,,saaa1241-1,27,nʏl bɛrʏ aɪ bɛlɪuru,nʏl bɛrʏ aɪ bɛlɪuru,[],,[],,False,False,,1
-saaa1241-1-28-1,,saaa1241-1,28,nʏl bɛrʏ aɪ bɛlɪtɪl,nʏl bɛrʏ aɪ bɛlɪtɪl,[],,[],,False,False,,1
-saaa1241-1-29-1,,saaa1241-1,29,nʏl bɛrʏ aɪ bɛliapat,nʏl bɛrʏ aɪ bɛliapat,[],,[],,False,False,,1
-saaa1241-1-30-1,,saaa1241-1,30,nʏl bɛtil,nʏl bɛtil,[],,[],,False,False,,1
-saaa1241-1-40-1,,saaa1241-1,40,nʏl bɛɪt,nʏl bɛɪt,[],,[],,False,False,,1
-saaa1241-1-50-1,,saaa1241-1,50,nʏl bɛlim,nʏl bɛlim,[],,[],,False,False,,1
-saaa1241-1-60-1,,saaa1241-1,60,nʏl bɛlit͡ʃia,nʏl bɛlit͡ʃia,[],,[],,False,False,,1
-saaa1241-1-70-1,,saaa1241-1,70,nʏl bɛliuru,nʏl bɛliuru,[],,[],,False,False,,1
-saaa1241-1-80-1,,saaa1241-1,80,nʏl bɛlɪtɪl,nʏl bɛlɪtɪl,[],,[],,False,False,,1
-saaa1241-1-90-1,,saaa1241-1,90,nʏl bɛliapat,nʏl bɛliapat,[],,[],,False,False,,1
-saaa1241-1-100-1,,saaa1241-1,100,nʏl sʏŋʏl sʏ,nʏl sʏŋʏl sʏ,[],,[],,False,False,,1
-saaa1241-1-100-2,,saaa1241-1,100,ɛn sʏ,ɛn sʏ,[],,[],,False,False,muruban,1
-saaa1241-1-200-1,,saaa1241-1,200,ɛn bɛrʏ,ɛn bɛrʏ,[],,[],,False,False,muruban,1
-saaa1241-1-1000-1,,saaa1241-1,1000,ɛn sʏ,ɛn sʏ,[],,[],,False,False,mamtar,1
-saaa1241-1-2000-1,,saaa1241-1,2000,ɛn bɛrʏ,ɛn bɛrʏ,[],,[],,False,False,mantar,1
+saaa1241-1-1-1,,saaa1241-1,1,sʏ,sʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-2-1,,saaa1241-1,2,bɛ=rʏ,bɛ=rʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-3-1,,saaa1241-1,3,bɛ=tɪl,bɛ=tɪl,[],,['chan2019'],,False,False,,1
+saaa1241-1-4-1,,saaa1241-1,4,bɛ=ɪt,bɛ=ɪt,[],,['chan2019'],,False,False,,1
+saaa1241-1-5-1,,saaa1241-1,5,bɛ=lim,bɛ=lim,[],,['chan2019'],,False,False,,1
+saaa1241-1-6-1,,saaa1241-1,6,bɛ=lit͡ʃia,bɛ=lit͡ʃia,[],( 5 + 1 ),['chan2019'],,False,False,,1
+saaa1241-1-7-1,,saaa1241-1,7,bɛ=lɪurʏ,bɛ=lɪurʏ,[],( 5 + 2 ),['chan2019'],,False,False,,1
+saaa1241-1-8-1,,saaa1241-1,8,bɛ=lɪtɪl,bɛ=lɪtɪl,[],( 5 + 3 ),['chan2019'],,False,False,,1
+saaa1241-1-9-1,,saaa1241-1,9,bɛ=liapat,bɛ=liapat,[],( 5 + 4 ),['chan2019'],,False,False,,1
+saaa1241-1-10-1,,saaa1241-1,10,sʏŋʏl,sʏŋʏl,[],,['chan2019'],,False,False,,1
+saaa1241-1-10-2,,saaa1241-1,10,nʏl sʏ,nʏl sʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-11-1,,saaa1241-1,11,nʏl sʏ aɪ bɛsʏ,nʏl sʏ aɪ bɛsʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-12-1,,saaa1241-1,12,nʏl sʏ aɪ bɛrʏ,nʏl sʏ aɪ bɛrʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-13-1,,saaa1241-1,13,nʏl sʏ aɪ bɛtɪl,nʏl sʏ aɪ bɛtɪl,[],,['chan2019'],,False,False,,1
+saaa1241-1-14-1,,saaa1241-1,14,nʏl sʏ aɪ bɛɪt,nʏl sʏ aɪ bɛɪt,[],,['chan2019'],,False,False,,1
+saaa1241-1-15-1,,saaa1241-1,15,nʏl sʏ aɪ bɛlim,nʏl sʏ aɪ bɛlim,[],,['chan2019'],,False,False,,1
+saaa1241-1-16-1,,saaa1241-1,16,nʏl sʏ aɪ bɛlit͡ʃia,nʏl sʏ aɪ bɛlit͡ʃia,[],,['chan2019'],,False,False,,1
+saaa1241-1-17-1,,saaa1241-1,17,nʏl sʏ aɪ bɛlɪurʏ,nʏl sʏ aɪ bɛlɪurʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-18-1,,saaa1241-1,18,nʏl sʏ aɪ bɛlɪtɪl,nʏl sʏ aɪ bɛlɪtɪl,[],,['chan2019'],,False,False,,1
+saaa1241-1-19-1,,saaa1241-1,19,nʏl sʏ aɪ bɛliapat,nʏl sʏ aɪ bɛliapat,[],,['chan2019'],,False,False,,1
+saaa1241-1-20-1,,saaa1241-1,20,nʏl bɛrʏ,nʏl bɛrʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-21-1,,saaa1241-1,21,nʏl sʏ aɪ sʏ,nʏl sʏ aɪ sʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-22-1,,saaa1241-1,22,nʏl bɛrʏ aɪ bɛrʏ,nʏl bɛrʏ aɪ bɛrʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-23-1,,saaa1241-1,23,nʏl bɛrʏ aɪ bɛtɪl,nʏl bɛrʏ aɪ bɛtɪl,[],,['chan2019'],,False,False,,1
+saaa1241-1-24-1,,saaa1241-1,24,nʏl bɛrʏ aɪ bɛɪt,nʏl bɛrʏ aɪ bɛɪt,[],,['chan2019'],,False,False,,1
+saaa1241-1-25-1,,saaa1241-1,25,nʏl bɛrʏ aɪ bɛlim,nʏl bɛrʏ aɪ bɛlim,[],,['chan2019'],,False,False,,1
+saaa1241-1-26-1,,saaa1241-1,26,nʏl bɛrʏ aɪ bɛlit͡ʃia,nʏl bɛrʏ aɪ bɛlit͡ʃia,[],,['chan2019'],,False,False,,1
+saaa1241-1-27-1,,saaa1241-1,27,nʏl bɛrʏ aɪ bɛlɪuru,nʏl bɛrʏ aɪ bɛlɪuru,[],,['chan2019'],,False,False,,1
+saaa1241-1-28-1,,saaa1241-1,28,nʏl bɛrʏ aɪ bɛlɪtɪl,nʏl bɛrʏ aɪ bɛlɪtɪl,[],,['chan2019'],,False,False,,1
+saaa1241-1-29-1,,saaa1241-1,29,nʏl bɛrʏ aɪ bɛliapat,nʏl bɛrʏ aɪ bɛliapat,[],,['chan2019'],,False,False,,1
+saaa1241-1-30-1,,saaa1241-1,30,nʏl bɛtil,nʏl bɛtil,[],,['chan2019'],,False,False,,1
+saaa1241-1-40-1,,saaa1241-1,40,nʏl bɛɪt,nʏl bɛɪt,[],,['chan2019'],,False,False,,1
+saaa1241-1-50-1,,saaa1241-1,50,nʏl bɛlim,nʏl bɛlim,[],,['chan2019'],,False,False,,1
+saaa1241-1-60-1,,saaa1241-1,60,nʏl bɛlit͡ʃia,nʏl bɛlit͡ʃia,[],,['chan2019'],,False,False,,1
+saaa1241-1-70-1,,saaa1241-1,70,nʏl bɛliuru,nʏl bɛliuru,[],,['chan2019'],,False,False,,1
+saaa1241-1-80-1,,saaa1241-1,80,nʏl bɛlɪtɪl,nʏl bɛlɪtɪl,[],,['chan2019'],,False,False,,1
+saaa1241-1-90-1,,saaa1241-1,90,nʏl bɛliapat,nʏl bɛliapat,[],,['chan2019'],,False,False,,1
+saaa1241-1-100-1,,saaa1241-1,100,nʏl sʏŋʏl sʏ,nʏl sʏŋʏl sʏ,[],,['chan2019'],,False,False,,1
+saaa1241-1-100-2,,saaa1241-1,100,ɛn sʏ,ɛn sʏ,[],,['chan2019'],,False,False,muruban,1
+saaa1241-1-200-1,,saaa1241-1,200,ɛn bɛrʏ,ɛn bɛrʏ,[],,['chan2019'],,False,False,muruban,1
+saaa1241-1-1000-1,,saaa1241-1,1000,ɛn sʏ,ɛn sʏ,[],,['chan2019'],,False,False,mamtar,1
+saaa1241-1-2000-1,,saaa1241-1,2000,ɛn bɛrʏ,ɛn bɛrʏ,[],,['chan2019'],,False,False,mantar,1

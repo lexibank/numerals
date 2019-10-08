@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-waim1253-1-1-1,,waim1253-1,1,awini,awini,[],,[],,False,False,,1
-waim1253-1-1-2,,waim1253-1,1,awinini,awinini,[],,[],,False,False,,1
-waim1253-1-1-3,,waim1253-1,1,awinihe,awinihe,[],,[],,False,False,,1
-waim1253-1-1-4,,waim1253-1,1,awynihe,awynihe,[],,[],,False,False,,1
-waim1253-1-2-1,,waim1253-1,2,ɨ .),ɨ .),[],,[],,False,True,typytyna ( Note that the symbol ''y'' is the High central vowel,1
-waim1253-1-3-1,,waim1253-1,3,takynynapa,takynynapa,[],,[],,False,False,,1
-waim1253-1-4-1,,waim1253-1,4,from four up Portuguese,from four up Portuguese,[],,[],,False,True,,1
+waim1253-1-1-1,,waim1253-1,1,awini,awini,[],,['chan2019'],,False,False,,1
+waim1253-1-1-2,,waim1253-1,1,awinini,awinini,[],,['chan2019'],,False,False,,1
+waim1253-1-1-3,,waim1253-1,1,awinihe,awinihe,[],,['chan2019'],,False,False,,1
+waim1253-1-1-4,,waim1253-1,1,awynihe,awynihe,[],,['chan2019'],,False,False,,1
+waim1253-1-2-1,,waim1253-1,2,ɨ .),ɨ .),[],,['chan2019'],,False,True,typytyna ( Note that the symbol ''y'' is the High central vowel,1
+waim1253-1-3-1,,waim1253-1,3,takynynapa,takynynapa,[],,['chan2019'],,False,False,,1
+waim1253-1-4-1,,waim1253-1,4,from four up Portuguese,from four up Portuguese,[],,['chan2019'],,False,True,,1

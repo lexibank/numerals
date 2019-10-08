@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-rett1240-2-1-1,,rett1240-2,1,anu,anu,[],,[],,False,False,,2
-rett1240-2-2-1,,rett1240-2,2,alo,alo,[],,[],,False,False,,2
-rett1240-2-3-1,,rett1240-2,3,atoɡa,atoɡa,[],,[],,False,False,,2
-rett1240-2-4-1,,rett1240-2,4,ɓuta,ɓuta,[],,[],,False,False,,2
-rett1240-2-4-2,,rett1240-2,4,wuta,wuta,[],,[],,False,False,,2
-rett1240-2-5-1,,rett1240-2,5,avehaŋ,avehaŋ,[],,[],,False,False,,2
-rett1240-2-6-1,,rett1240-2,6,talaun,talaun,[],,[],,False,False,,2
-rett1240-2-7-1,,rett1240-2,7,bititoɡa,bititoɡa,[],('seven three'),[],,False,False,,2
-rett1240-2-8-1,,rett1240-2,8,tulalo,tulalo,[],('five two'),[],,False,False,,2
-rett1240-2-9-1,,rett1240-2,9,tukanu,tukanu,[],( 'ten minus one'),[],,False,False,,2
-rett1240-2-10-1,,rett1240-2,10,kara nu,kara nu,[],,[],,False,False,,2
-rett1240-2-11-1,,rett1240-2,11,kara nu anu,kara nu anu,[],,[],,False,False,,2
-rett1240-2-12-1,,rett1240-2,12,kara nu alaku,kara nu alaku,[],,[],,False,False,,2
-rett1240-2-13-1,,rett1240-2,13,kara nu atoɡa,kara nu atoɡa,[],,[],,False,False,,2
-rett1240-2-14-1,,rett1240-2,14,kara nu ɓuta,kara nu ɓuta,[],,[],,False,False,,2
-rett1240-2-14-2,,rett1240-2,14,wuta,wuta,[],,[],,False,False,,2
-rett1240-2-15-1,,rett1240-2,15,kara nu avehaŋ,kara nu avehaŋ,[],,[],,False,False,,2
-rett1240-2-16-1,,rett1240-2,16,kara nu talaun,kara nu talaun,[],,[],,False,False,,2
-rett1240-2-17-1,,rett1240-2,17,kara nu bititoɡa,kara nu bititoɡa,[],,[],,False,False,,2
-rett1240-2-18-1,,rett1240-2,18,kara nu tulalo,kara nu tulalo,[],,[],,False,False,,2
-rett1240-2-19-1,,rett1240-2,19,kara nu tukanu,kara nu tukanu,[],,[],,False,False,,2
-rett1240-2-20-1,,rett1240-2,20,kara alo,kara alo,[],,[],,False,False,,2
-rett1240-2-21-1,,rett1240-2,21,kara alo anu,kara alo anu,[],,[],,False,False,,2
-rett1240-2-22-1,,rett1240-2,22,kara alo alo,kara alo alo,[],,[],,False,False,,2
-rett1240-2-23-1,,rett1240-2,23,kara alo atoɡa,kara alo atoɡa,[],,[],,False,False,,2
-rett1240-2-24-1,,rett1240-2,24,kara alo ɓuta,kara alo ɓuta,[],,[],,False,False,,2
-rett1240-2-24-2,,rett1240-2,24,wuta,wuta,[],,[],,False,False,,2
-rett1240-2-25-1,,rett1240-2,25,kara alo avehaŋ,kara alo avehaŋ,[],,[],,False,False,,2
-rett1240-2-26-1,,rett1240-2,26,kara alo talaun,kara alo talaun,[],,[],,False,False,,2
-rett1240-2-27-1,,rett1240-2,27,kara alo bititoɡa,kara alo bititoɡa,[],,[],,False,False,,2
-rett1240-2-28-1,,rett1240-2,28,kara alo tulalo,kara alo tulalo,[],,[],,False,False,,2
-rett1240-2-29-1,,rett1240-2,29,kara alo tukanu,kara alo tukanu,[],,[],,False,False,,2
-rett1240-2-30-1,,rett1240-2,30,kara atoɡa,kara atoɡa,[],,[],,False,False,,2
-rett1240-2-40-1,,rett1240-2,40,kara ɓuta,kara ɓuta,[],,[],,False,False,,2
-rett1240-2-50-1,,rett1240-2,50,kara avehaŋ,kara avehaŋ,[],,[],,False,False,,2
-rett1240-2-60-1,,rett1240-2,60,kara talaun,kara talaun,[],,[],,False,False,,2
-rett1240-2-70-1,,rett1240-2,70,kara bititoɡa,kara bititoɡa,[],,[],,False,False,,2
-rett1240-2-80-1,,rett1240-2,80,kara tulalo,kara tulalo,[],,[],,False,False,,2
-rett1240-2-90-1,,rett1240-2,90,kara tukanu,kara tukanu,[],,[],,False,False,,2
-rett1240-2-100-1,,rett1240-2,100,ratu anu,ratu anu,[],,[],,False,False,,2
-rett1240-2-200-1,,rett1240-2,200,ratu alo,ratu alo,[],,[],,False,False,,2
-rett1240-2-1000-1,,rett1240-2,1000,ribu anu,ribu anu,[],,[],,False,False,,2
-rett1240-2-2000-1,,rett1240-2,2000,ribu alo,ribu alo,[],,[],,False,False,,2
+rett1240-2-1-1,,rett1240-2,1,anu,anu,[],,['chan2019'],,False,False,,2
+rett1240-2-2-1,,rett1240-2,2,alo,alo,[],,['chan2019'],,False,False,,2
+rett1240-2-3-1,,rett1240-2,3,atoɡa,atoɡa,[],,['chan2019'],,False,False,,2
+rett1240-2-4-1,,rett1240-2,4,ɓuta,ɓuta,[],,['chan2019'],,False,False,,2
+rett1240-2-4-2,,rett1240-2,4,wuta,wuta,[],,['chan2019'],,False,False,,2
+rett1240-2-5-1,,rett1240-2,5,avehaŋ,avehaŋ,[],,['chan2019'],,False,False,,2
+rett1240-2-6-1,,rett1240-2,6,talaun,talaun,[],,['chan2019'],,False,False,,2
+rett1240-2-7-1,,rett1240-2,7,bititoɡa,bititoɡa,[],('seven three'),['chan2019'],,False,False,,2
+rett1240-2-8-1,,rett1240-2,8,tulalo,tulalo,[],('five two'),['chan2019'],,False,False,,2
+rett1240-2-9-1,,rett1240-2,9,tukanu,tukanu,[],( 'ten minus one'),['chan2019'],,False,False,,2
+rett1240-2-10-1,,rett1240-2,10,kara nu,kara nu,[],,['chan2019'],,False,False,,2
+rett1240-2-11-1,,rett1240-2,11,kara nu anu,kara nu anu,[],,['chan2019'],,False,False,,2
+rett1240-2-12-1,,rett1240-2,12,kara nu alaku,kara nu alaku,[],,['chan2019'],,False,False,,2
+rett1240-2-13-1,,rett1240-2,13,kara nu atoɡa,kara nu atoɡa,[],,['chan2019'],,False,False,,2
+rett1240-2-14-1,,rett1240-2,14,kara nu ɓuta,kara nu ɓuta,[],,['chan2019'],,False,False,,2
+rett1240-2-14-2,,rett1240-2,14,wuta,wuta,[],,['chan2019'],,False,False,,2
+rett1240-2-15-1,,rett1240-2,15,kara nu avehaŋ,kara nu avehaŋ,[],,['chan2019'],,False,False,,2
+rett1240-2-16-1,,rett1240-2,16,kara nu talaun,kara nu talaun,[],,['chan2019'],,False,False,,2
+rett1240-2-17-1,,rett1240-2,17,kara nu bititoɡa,kara nu bititoɡa,[],,['chan2019'],,False,False,,2
+rett1240-2-18-1,,rett1240-2,18,kara nu tulalo,kara nu tulalo,[],,['chan2019'],,False,False,,2
+rett1240-2-19-1,,rett1240-2,19,kara nu tukanu,kara nu tukanu,[],,['chan2019'],,False,False,,2
+rett1240-2-20-1,,rett1240-2,20,kara alo,kara alo,[],,['chan2019'],,False,False,,2
+rett1240-2-21-1,,rett1240-2,21,kara alo anu,kara alo anu,[],,['chan2019'],,False,False,,2
+rett1240-2-22-1,,rett1240-2,22,kara alo alo,kara alo alo,[],,['chan2019'],,False,False,,2
+rett1240-2-23-1,,rett1240-2,23,kara alo atoɡa,kara alo atoɡa,[],,['chan2019'],,False,False,,2
+rett1240-2-24-1,,rett1240-2,24,kara alo ɓuta,kara alo ɓuta,[],,['chan2019'],,False,False,,2
+rett1240-2-24-2,,rett1240-2,24,wuta,wuta,[],,['chan2019'],,False,False,,2
+rett1240-2-25-1,,rett1240-2,25,kara alo avehaŋ,kara alo avehaŋ,[],,['chan2019'],,False,False,,2
+rett1240-2-26-1,,rett1240-2,26,kara alo talaun,kara alo talaun,[],,['chan2019'],,False,False,,2
+rett1240-2-27-1,,rett1240-2,27,kara alo bititoɡa,kara alo bititoɡa,[],,['chan2019'],,False,False,,2
+rett1240-2-28-1,,rett1240-2,28,kara alo tulalo,kara alo tulalo,[],,['chan2019'],,False,False,,2
+rett1240-2-29-1,,rett1240-2,29,kara alo tukanu,kara alo tukanu,[],,['chan2019'],,False,False,,2
+rett1240-2-30-1,,rett1240-2,30,kara atoɡa,kara atoɡa,[],,['chan2019'],,False,False,,2
+rett1240-2-40-1,,rett1240-2,40,kara ɓuta,kara ɓuta,[],,['chan2019'],,False,False,,2
+rett1240-2-50-1,,rett1240-2,50,kara avehaŋ,kara avehaŋ,[],,['chan2019'],,False,False,,2
+rett1240-2-60-1,,rett1240-2,60,kara talaun,kara talaun,[],,['chan2019'],,False,False,,2
+rett1240-2-70-1,,rett1240-2,70,kara bititoɡa,kara bititoɡa,[],,['chan2019'],,False,False,,2
+rett1240-2-80-1,,rett1240-2,80,kara tulalo,kara tulalo,[],,['chan2019'],,False,False,,2
+rett1240-2-90-1,,rett1240-2,90,kara tukanu,kara tukanu,[],,['chan2019'],,False,False,,2
+rett1240-2-100-1,,rett1240-2,100,ratu anu,ratu anu,[],,['chan2019'],,False,False,,2
+rett1240-2-200-1,,rett1240-2,200,ratu alo,ratu alo,[],,['chan2019'],,False,False,,2
+rett1240-2-1000-1,,rett1240-2,1000,ribu anu,ribu anu,[],,['chan2019'],,False,False,,2
+rett1240-2-2000-1,,rett1240-2,2000,ribu alo,ribu alo,[],,['chan2019'],,False,False,,2

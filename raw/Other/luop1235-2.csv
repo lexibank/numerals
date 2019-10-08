@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-luop1235-2-1-1,,luop1235-2,1,i55,i55,[],,[],,False,False,,1
-luop1235-2-2-1,,luop1235-2,2,u31,u31,[],,[],,False,False,,1
-luop1235-2-3-1,,luop1235-2,3,pzɿ31,pzɿ31,[],,[],,False,False,,1
-luop1235-2-4-1,,luop1235-2,4,pləu31,pləu31,[],,[],,False,False,,1
-luop1235-2-5-1,,luop1235-2,5,pja31,pja31,[],,[],,False,False,,1
-luop1235-2-6-1,,luop1235-2,6,ʈo24,ʈo24,[],,[],,False,False,,1
-luop1235-2-7-1,,luop1235-2,7,zuŋ24,zuŋ24,[],,[],,False,False,,1
-luop1235-2-8-1,,luop1235-2,8,ja33,ja33,[],,[],,False,False,,1
-luop1235-2-9-1,,luop1235-2,9,ja31,ja31,[],,[],,False,False,,1
-luop1235-2-10-1,,luop1235-2,10,ʁo31,ʁo31,[],,[],,False,False,,1
-luop1235-2-11-1,,luop1235-2,11,ʁo31 i55,ʁo31 i55,[],,[],,False,False,,1
-luop1235-2-12-1,,luop1235-2,12,ʁo31 u31,ʁo31 u31,[],,[],,False,False,,1
-luop1235-2-13-1,,luop1235-2,13,ʁo31 pzɿ31,ʁo31 pzɿ31,[],,[],,False,False,,1
-luop1235-2-14-1,,luop1235-2,14,ʁo31 pləu31,ʁo31 pləu31,[],,[],,False,False,,1
-luop1235-2-15-1,,luop1235-2,15,ʁo31 pja31,ʁo31 pja31,[],,[],,False,False,,1
-luop1235-2-16-1,,luop1235-2,16,ʁo31 ʈo24,ʁo31 ʈo24,[],,[],,False,False,,1
-luop1235-2-17-1,,luop1235-2,17,ʁo31 zuŋ24,ʁo31 zuŋ24,[],,[],,False,False,,1
-luop1235-2-19-1,,luop1235-2,19,ʁo31 ja31,ʁo31 ja31,[],,[],,False,False,,1
-luop1235-2-20-1,,luop1235-2,20,u31jo33,u31jo33,[],,[],,False,False,,1
-luop1235-2-21-1,,luop1235-2,21,u31 jo33 i55,u31 jo33 i55,[],,[],,False,False,,1
-luop1235-2-22-1,,luop1235-2,22,u31 jo33 u31,u31 jo33 u31,[],,[],,False,False,,1
-luop1235-2-23-1,,luop1235-2,23,u31 jo33 pzɿ31,u31 jo33 pzɿ31,[],,[],,False,False,,1
-luop1235-2-24-1,,luop1235-2,24,u31 jo33 pləu31,u31 jo33 pləu31,[],,[],,False,False,,1
-luop1235-2-25-1,,luop1235-2,25,u31 jo33 pja31,u31 jo33 pja31,[],,[],,False,False,,1
-luop1235-2-26-1,,luop1235-2,26,u31 jo33 ʈo24,u31 jo33 ʈo24,[],,[],,False,False,,1
-luop1235-2-27-1,,luop1235-2,27,u31 jo33 zuŋ24,u31 jo33 zuŋ24,[],,[],,False,False,,1
-luop1235-2-28-1,,luop1235-2,28,u31 jo33 ja33,u31 jo33 ja33,[],,[],,False,False,,1
-luop1235-2-29-1,,luop1235-2,29,u31 jo33 ja31,u31 jo33 ja31,[],,[],,False,False,,1
-luop1235-2-30-1,,luop1235-2,30,pzɿ31 jo33,pzɿ31 jo33,[],,[],,False,False,,1
-luop1235-2-40-1,,luop1235-2,40,pləu31 jo33,pləu31 jo33,[],,[],,False,False,,1
-luop1235-2-50-1,,luop1235-2,50,pja31 jo33,pja31 jo33,[],,[],,False,False,,1
-luop1235-2-60-1,,luop1235-2,60,ʈo24 jo33,ʈo24 jo33,[],,[],,False,False,,1
-luop1235-2-70-1,,luop1235-2,70,zuŋ24 jo33,zuŋ24 jo33,[],,[],,False,False,,1
-luop1235-2-80-1,,luop1235-2,80,ja33 jo33,ja33 jo33,[],,[],,False,False,,1
-luop1235-2-90-1,,luop1235-2,90,ja31 jo33,ja31 jo33,[],,[],,False,False,,1
-luop1235-2-100-1,,luop1235-2,100,i55pzɿ24,i55pzɿ24,[],< Chinese ,[],,True,False,,1
-luop1235-2-200-1,,luop1235-2,200,u31 pzɿ24,u31 pzɿ24,[],,[],,False,False,,1
-luop1235-2-1000-1,,luop1235-2,1000,i55 tsʰɛn31,i55 tsʰɛn31,[],< Chinese ,[],,True,False,,1
-luop1235-2-2000-1,,luop1235-2,2000,u31 tsʰɛn31,u31 tsʰɛn31,[],,[],,False,False,,1
+luop1235-2-1-1,,luop1235-2,1,i55,i55,[],,['chan2019'],,False,False,,1
+luop1235-2-2-1,,luop1235-2,2,u31,u31,[],,['chan2019'],,False,False,,1
+luop1235-2-3-1,,luop1235-2,3,pzɿ31,pzɿ31,[],,['chan2019'],,False,False,,1
+luop1235-2-4-1,,luop1235-2,4,pləu31,pləu31,[],,['chan2019'],,False,False,,1
+luop1235-2-5-1,,luop1235-2,5,pja31,pja31,[],,['chan2019'],,False,False,,1
+luop1235-2-6-1,,luop1235-2,6,ʈo24,ʈo24,[],,['chan2019'],,False,False,,1
+luop1235-2-7-1,,luop1235-2,7,zuŋ24,zuŋ24,[],,['chan2019'],,False,False,,1
+luop1235-2-8-1,,luop1235-2,8,ja33,ja33,[],,['chan2019'],,False,False,,1
+luop1235-2-9-1,,luop1235-2,9,ja31,ja31,[],,['chan2019'],,False,False,,1
+luop1235-2-10-1,,luop1235-2,10,ʁo31,ʁo31,[],,['chan2019'],,False,False,,1
+luop1235-2-11-1,,luop1235-2,11,ʁo31 i55,ʁo31 i55,[],,['chan2019'],,False,False,,1
+luop1235-2-12-1,,luop1235-2,12,ʁo31 u31,ʁo31 u31,[],,['chan2019'],,False,False,,1
+luop1235-2-13-1,,luop1235-2,13,ʁo31 pzɿ31,ʁo31 pzɿ31,[],,['chan2019'],,False,False,,1
+luop1235-2-14-1,,luop1235-2,14,ʁo31 pləu31,ʁo31 pləu31,[],,['chan2019'],,False,False,,1
+luop1235-2-15-1,,luop1235-2,15,ʁo31 pja31,ʁo31 pja31,[],,['chan2019'],,False,False,,1
+luop1235-2-16-1,,luop1235-2,16,ʁo31 ʈo24,ʁo31 ʈo24,[],,['chan2019'],,False,False,,1
+luop1235-2-17-1,,luop1235-2,17,ʁo31 zuŋ24,ʁo31 zuŋ24,[],,['chan2019'],,False,False,,1
+luop1235-2-19-1,,luop1235-2,19,ʁo31 ja31,ʁo31 ja31,[],,['chan2019'],,False,False,,1
+luop1235-2-20-1,,luop1235-2,20,u31jo33,u31jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-21-1,,luop1235-2,21,u31 jo33 i55,u31 jo33 i55,[],,['chan2019'],,False,False,,1
+luop1235-2-22-1,,luop1235-2,22,u31 jo33 u31,u31 jo33 u31,[],,['chan2019'],,False,False,,1
+luop1235-2-23-1,,luop1235-2,23,u31 jo33 pzɿ31,u31 jo33 pzɿ31,[],,['chan2019'],,False,False,,1
+luop1235-2-24-1,,luop1235-2,24,u31 jo33 pləu31,u31 jo33 pləu31,[],,['chan2019'],,False,False,,1
+luop1235-2-25-1,,luop1235-2,25,u31 jo33 pja31,u31 jo33 pja31,[],,['chan2019'],,False,False,,1
+luop1235-2-26-1,,luop1235-2,26,u31 jo33 ʈo24,u31 jo33 ʈo24,[],,['chan2019'],,False,False,,1
+luop1235-2-27-1,,luop1235-2,27,u31 jo33 zuŋ24,u31 jo33 zuŋ24,[],,['chan2019'],,False,False,,1
+luop1235-2-28-1,,luop1235-2,28,u31 jo33 ja33,u31 jo33 ja33,[],,['chan2019'],,False,False,,1
+luop1235-2-29-1,,luop1235-2,29,u31 jo33 ja31,u31 jo33 ja31,[],,['chan2019'],,False,False,,1
+luop1235-2-30-1,,luop1235-2,30,pzɿ31 jo33,pzɿ31 jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-40-1,,luop1235-2,40,pləu31 jo33,pləu31 jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-50-1,,luop1235-2,50,pja31 jo33,pja31 jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-60-1,,luop1235-2,60,ʈo24 jo33,ʈo24 jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-70-1,,luop1235-2,70,zuŋ24 jo33,zuŋ24 jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-80-1,,luop1235-2,80,ja33 jo33,ja33 jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-90-1,,luop1235-2,90,ja31 jo33,ja31 jo33,[],,['chan2019'],,False,False,,1
+luop1235-2-100-1,,luop1235-2,100,i55pzɿ24,i55pzɿ24,[],< Chinese ,['chan2019'],,True,False,,1
+luop1235-2-200-1,,luop1235-2,200,u31 pzɿ24,u31 pzɿ24,[],,['chan2019'],,False,False,,1
+luop1235-2-1000-1,,luop1235-2,1000,i55 tsʰɛn31,i55 tsʰɛn31,[],< Chinese ,['chan2019'],,True,False,,1
+luop1235-2-2000-1,,luop1235-2,2000,u31 tsʰɛn31,u31 tsʰɛn31,[],,['chan2019'],,False,False,,1

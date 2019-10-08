@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mars1254-1-1-1,,mars1254-1,1,tʃuʷʌn,tʃuʷʌn,[],,[],,False,False,juon,1
-mars1254-1-2-1,,mars1254-1,2,ruʷɔʷ,ruʷɔʷ,[],,[],,False,False,ruo,1
-mars1254-1-3-1,,mars1254-1,3,tʃiluʷ,tʃiluʷ,[],,[],,False,False,jilu,1
-mars1254-1-4-1,,mars1254-1,4,ᵋ̯ɛmæn,ᵋ̯ɛmæn,[],,[],,False,False,emān,1
-mars1254-1-5-1,,mars1254-1,5,lˠalem,lˠalem,[],,[],,False,False,l̹alem,1
-mars1254-1-6-1,,mars1254-1,6,tʃiltʃinoʷ,tʃiltʃinoʷ,[],(< jil-jil+no?),[],,False,False,jiljino,1
-mars1254-1-7-1,,mars1254-1,7,tʃiltʃillimtʃuʷʌn,tʃiltʃillimtʃuʷʌn,[],,[],,False,False,jiljilmjuon,1
-mars1254-1-8-1,,mars1254-1,8,ruwalitɤk,ruwalitɤk,[],( <  2 x 4 ),[],,False,False,rualitōk,1
-mars1254-1-9-1,,mars1254-1,9,ruwatimtʃuʷʌn,ruwatimtʃuʷʌn,[],,[],,False,False,ruatimjuon,1
-mars1254-1-10-1,,mars1254-1,10,tʃoŋoʷɯlʲ,tʃoŋoʷɯlʲ,[],(lit:' 10 x 1' ),[],,False,False,jon̄oul,1
-mars1254-1-11-1,,mars1254-1,11,jon̄oul juon,jon̄oul juon,[],,[],,False,False,,1
-mars1254-1-12-1,,mars1254-1,12,jon̄oul ruo,jon̄oul ruo,[],,[],,False,False,,1
-mars1254-1-13-1,,mars1254-1,13,jon̄oul jilu,jon̄oul jilu,[],,[],,False,False,,1
-mars1254-1-14-1,,mars1254-1,14,jon̄oul emān,jon̄oul emān,[],,[],,False,False,,1
-mars1254-1-15-1,,mars1254-1,15,jon̄oul l̹alem,jon̄oul l̹alem,[],,[],,False,False,,1
-mars1254-1-16-1,,mars1254-1,16,jon̄oul jiljino,jon̄oul jiljino,[],,[],,False,False,,1
-mars1254-1-17-1,,mars1254-1,17,jon̄oul jiljilmjuon,jon̄oul jiljilmjuon,[],,[],,False,False,,1
-mars1254-1-18-1,,mars1254-1,18,jon̄oul jiljilmjuon,jon̄oul jiljilmjuon,[],,[],,False,False,,1
-mars1254-1-19-1,,mars1254-1,19,jon̄oul ruatimjuon,jon̄oul ruatimjuon,[],,[],,False,False,,1
-mars1254-1-20-1,,mars1254-1,20,roŋoʷɯlʲ,roŋoʷɯlʲ,[],,[],,False,False,ron̄oul,1
-mars1254-1-21-1,,mars1254-1,21,ron̄oul juon,ron̄oul juon,[],,[],,False,False,,1
-mars1254-1-22-1,,mars1254-1,22,ron̄oul ruo,ron̄oul ruo,[],,[],,False,False,,1
-mars1254-1-23-1,,mars1254-1,23,ron̄oul jilu,ron̄oul jilu,[],,[],,False,False,,1
-mars1254-1-24-1,,mars1254-1,24,ron̄oul emān,ron̄oul emān,[],,[],,False,False,,1
-mars1254-1-25-1,,mars1254-1,25,ron̄oul l̹alem,ron̄oul l̹alem,[],,[],,False,False,,1
-mars1254-1-26-1,,mars1254-1,26,ron̄oul jiljino,ron̄oul jiljino,[],,[],,False,False,,1
-mars1254-1-27-1,,mars1254-1,27,ron̄oul jiljilmjuon,ron̄oul jiljilmjuon,[],,[],,False,False,,1
-mars1254-1-28-1,,mars1254-1,28,ron̄oul jiljilmjuon,ron̄oul jiljilmjuon,[],,[],,False,False,,1
-mars1254-1-29-1,,mars1254-1,29,ron̄oul ruatimjuon,ron̄oul ruatimjuon,[],,[],,False,False,,1
-mars1254-1-30-1,,mars1254-1,30,tʃilŋuʷɯlʲ,tʃilŋuʷɯlʲ,[],,[],,False,False,jiln̄uul,1
-mars1254-1-40-1,,mars1254-1,40,ᵋ̯ɛŋʷoɯlʲ,ᵋ̯ɛŋʷoɯlʲ,[],,[],,False,False,en̄oul,1
-mars1254-1-50-1,,mars1254-1,50,lemŋʷoɯlʲ,lemŋʷoɯlʲ,[],,[],,False,False,lemn̄oul,1
-mars1254-1-60-1,,mars1254-1,60,tʃiltʃinoŋʷoɯlʲ,tʃiltʃinoŋʷoɯlʲ,[],,[],,False,False,jiljinon̄oul,1
-mars1254-1-70-1,,mars1254-1,70,tʃiltʃilimtʃuʷʌnŋʷoɯlʲ,tʃiltʃilimtʃuʷʌnŋʷoɯlʲ,[],,[],,False,False,jiljilimjuonn̄oul,1
-mars1254-1-80-1,,mars1254-1,80,ruwalitɤŋŋʷoɯlʲ,ruwalitɤŋŋʷoɯlʲ,[],,[],,False,False,ruwalitōn̄n̄oul,1
-mars1254-1-90-1,,mars1254-1,90,ruwatimtʃuʷʌnŋʷoɯlʲ,ruwatimtʃuʷʌnŋʷoɯlʲ,[],,[],,False,False,ruwatimjuonn̄oul,1
-mars1254-1-100-1,,mars1254-1,100,tʃibukʷi,tʃibukʷi,[],,[],,False,False,jibukwi,1
-mars1254-1-200-1,,mars1254-1,200,rubukʷi,rubukʷi,[],,[],,False,False,rubukwi,1
-mars1254-1-1000-1,,mars1254-1,1000,tʃɛrapɛn,tʃɛrapɛn,[],,[],,False,False,jerapen,1
-mars1254-1-1000-2,,mars1254-1,1000,tautʃin,tautʃin,[],,[],,False,False,taujen,1
-mars1254-1-2000-1,,mars1254-1,2000,ruʷɔʷrapʲ,ruʷɔʷrapʲ,[],,[],,False,False,ruorap,1
+mars1254-1-1-1,,mars1254-1,1,tʃuʷʌn,tʃuʷʌn,[],,['chan2019'],,False,False,juon,1
+mars1254-1-2-1,,mars1254-1,2,ruʷɔʷ,ruʷɔʷ,[],,['chan2019'],,False,False,ruo,1
+mars1254-1-3-1,,mars1254-1,3,tʃiluʷ,tʃiluʷ,[],,['chan2019'],,False,False,jilu,1
+mars1254-1-4-1,,mars1254-1,4,ᵋ̯ɛmæn,ᵋ̯ɛmæn,[],,['chan2019'],,False,False,emān,1
+mars1254-1-5-1,,mars1254-1,5,lˠalem,lˠalem,[],,['chan2019'],,False,False,l̹alem,1
+mars1254-1-6-1,,mars1254-1,6,tʃiltʃinoʷ,tʃiltʃinoʷ,[],(< jil-jil+no?),['chan2019'],,False,False,jiljino,1
+mars1254-1-7-1,,mars1254-1,7,tʃiltʃillimtʃuʷʌn,tʃiltʃillimtʃuʷʌn,[],,['chan2019'],,False,False,jiljilmjuon,1
+mars1254-1-8-1,,mars1254-1,8,ruwalitɤk,ruwalitɤk,[],( <  2 x 4 ),['chan2019'],,False,False,rualitōk,1
+mars1254-1-9-1,,mars1254-1,9,ruwatimtʃuʷʌn,ruwatimtʃuʷʌn,[],,['chan2019'],,False,False,ruatimjuon,1
+mars1254-1-10-1,,mars1254-1,10,tʃoŋoʷɯlʲ,tʃoŋoʷɯlʲ,[],(lit:' 10 x 1' ),['chan2019'],,False,False,jon̄oul,1
+mars1254-1-11-1,,mars1254-1,11,jon̄oul juon,jon̄oul juon,[],,['chan2019'],,False,False,,1
+mars1254-1-12-1,,mars1254-1,12,jon̄oul ruo,jon̄oul ruo,[],,['chan2019'],,False,False,,1
+mars1254-1-13-1,,mars1254-1,13,jon̄oul jilu,jon̄oul jilu,[],,['chan2019'],,False,False,,1
+mars1254-1-14-1,,mars1254-1,14,jon̄oul emān,jon̄oul emān,[],,['chan2019'],,False,False,,1
+mars1254-1-15-1,,mars1254-1,15,jon̄oul l̹alem,jon̄oul l̹alem,[],,['chan2019'],,False,False,,1
+mars1254-1-16-1,,mars1254-1,16,jon̄oul jiljino,jon̄oul jiljino,[],,['chan2019'],,False,False,,1
+mars1254-1-17-1,,mars1254-1,17,jon̄oul jiljilmjuon,jon̄oul jiljilmjuon,[],,['chan2019'],,False,False,,1
+mars1254-1-18-1,,mars1254-1,18,jon̄oul jiljilmjuon,jon̄oul jiljilmjuon,[],,['chan2019'],,False,False,,1
+mars1254-1-19-1,,mars1254-1,19,jon̄oul ruatimjuon,jon̄oul ruatimjuon,[],,['chan2019'],,False,False,,1
+mars1254-1-20-1,,mars1254-1,20,roŋoʷɯlʲ,roŋoʷɯlʲ,[],,['chan2019'],,False,False,ron̄oul,1
+mars1254-1-21-1,,mars1254-1,21,ron̄oul juon,ron̄oul juon,[],,['chan2019'],,False,False,,1
+mars1254-1-22-1,,mars1254-1,22,ron̄oul ruo,ron̄oul ruo,[],,['chan2019'],,False,False,,1
+mars1254-1-23-1,,mars1254-1,23,ron̄oul jilu,ron̄oul jilu,[],,['chan2019'],,False,False,,1
+mars1254-1-24-1,,mars1254-1,24,ron̄oul emān,ron̄oul emān,[],,['chan2019'],,False,False,,1
+mars1254-1-25-1,,mars1254-1,25,ron̄oul l̹alem,ron̄oul l̹alem,[],,['chan2019'],,False,False,,1
+mars1254-1-26-1,,mars1254-1,26,ron̄oul jiljino,ron̄oul jiljino,[],,['chan2019'],,False,False,,1
+mars1254-1-27-1,,mars1254-1,27,ron̄oul jiljilmjuon,ron̄oul jiljilmjuon,[],,['chan2019'],,False,False,,1
+mars1254-1-28-1,,mars1254-1,28,ron̄oul jiljilmjuon,ron̄oul jiljilmjuon,[],,['chan2019'],,False,False,,1
+mars1254-1-29-1,,mars1254-1,29,ron̄oul ruatimjuon,ron̄oul ruatimjuon,[],,['chan2019'],,False,False,,1
+mars1254-1-30-1,,mars1254-1,30,tʃilŋuʷɯlʲ,tʃilŋuʷɯlʲ,[],,['chan2019'],,False,False,jiln̄uul,1
+mars1254-1-40-1,,mars1254-1,40,ᵋ̯ɛŋʷoɯlʲ,ᵋ̯ɛŋʷoɯlʲ,[],,['chan2019'],,False,False,en̄oul,1
+mars1254-1-50-1,,mars1254-1,50,lemŋʷoɯlʲ,lemŋʷoɯlʲ,[],,['chan2019'],,False,False,lemn̄oul,1
+mars1254-1-60-1,,mars1254-1,60,tʃiltʃinoŋʷoɯlʲ,tʃiltʃinoŋʷoɯlʲ,[],,['chan2019'],,False,False,jiljinon̄oul,1
+mars1254-1-70-1,,mars1254-1,70,tʃiltʃilimtʃuʷʌnŋʷoɯlʲ,tʃiltʃilimtʃuʷʌnŋʷoɯlʲ,[],,['chan2019'],,False,False,jiljilimjuonn̄oul,1
+mars1254-1-80-1,,mars1254-1,80,ruwalitɤŋŋʷoɯlʲ,ruwalitɤŋŋʷoɯlʲ,[],,['chan2019'],,False,False,ruwalitōn̄n̄oul,1
+mars1254-1-90-1,,mars1254-1,90,ruwatimtʃuʷʌnŋʷoɯlʲ,ruwatimtʃuʷʌnŋʷoɯlʲ,[],,['chan2019'],,False,False,ruwatimjuonn̄oul,1
+mars1254-1-100-1,,mars1254-1,100,tʃibukʷi,tʃibukʷi,[],,['chan2019'],,False,False,jibukwi,1
+mars1254-1-200-1,,mars1254-1,200,rubukʷi,rubukʷi,[],,['chan2019'],,False,False,rubukwi,1
+mars1254-1-1000-1,,mars1254-1,1000,tʃɛrapɛn,tʃɛrapɛn,[],,['chan2019'],,False,False,jerapen,1
+mars1254-1-1000-2,,mars1254-1,1000,tautʃin,tautʃin,[],,['chan2019'],,False,False,taujen,1
+mars1254-1-2000-1,,mars1254-1,2000,ruʷɔʷrapʲ,ruʷɔʷrapʲ,[],,['chan2019'],,False,False,ruorap,1

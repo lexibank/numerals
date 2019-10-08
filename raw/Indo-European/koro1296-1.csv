@@ -1,57 +1,57 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-koro1296-1-1-1,,koro1296-1,1,ye,ye,[],,[],,False,False,,1
-koro1296-1-1-2,,koro1296-1,1,yek,yek,[],,[],,False,False,,1
-koro1296-1-1-3,,koro1296-1,1,ya,ya,[],,[],,False,False,,1
-koro1296-1-1-4,,koro1296-1,1,yak,yak,[],,[],,False,False,,1
-koro1296-1-2-1,,koro1296-1,2,do,do,[],,[],,False,False,,1
-koro1296-1-3-1,,koro1296-1,3,say,say,[],,[],,False,False,,1
-koro1296-1-4-1,,koro1296-1,4,čār,čār,[],,[],,False,False,,1
-koro1296-1-5-1,,koro1296-1,5,panǰ,panǰ,[],,[],,False,False,,1
-koro1296-1-5-2,,koro1296-1,5,pan,pan,[],,[],,False,False,,1
-koro1296-1-6-1,,koro1296-1,6,šeš,šeš,[],,[],,False,False,,1
-koro1296-1-6-2,,koro1296-1,6,šaš,šaš,[],,[],,False,False,,1
-koro1296-1-7-1,,koro1296-1,7,haft,haft,[],,[],,False,False,,1
-koro1296-1-7-2,,koro1296-1,7,haf,haf,[],,[],,False,False,,1
-koro1296-1-8-1,,koro1296-1,8,hašt,hašt,[],,[],,False,False,,1
-koro1296-1-8-2,,koro1296-1,8,haš,haš,[],,[],,False,False,,1
-koro1296-1-9-1,,koro1296-1,9,noh,noh,[],,[],,False,False,,1
-koro1296-1-10-1,,koro1296-1,10,dah,dah,[],,[],,False,False,,1
-koro1296-1-10-2,,koro1296-1,10,da,da,[],,[],,False,False,,1
-koro1296-1-11-1,,koro1296-1,11,yāzda(h),yāzda(h),[],,[],,False,False,,1
-koro1296-1-12-1,,koro1296-1,12,dawāzda(h),dawāzda(h),[],,[],,False,False,,1
-koro1296-1-12-2,,koro1296-1,12,dāwāzda(h),dāwāzda(h),[],,[],,False,False,,1
-koro1296-1-13-1,,koro1296-1,13,sīzda(h),sīzda(h),[],,[],,False,False,,1
-koro1296-1-14-1,,koro1296-1,14,čārda(h),čārda(h),[],,[],,False,False,,1
-koro1296-1-15-1,,koro1296-1,15,pūnzda(h),pūnzda(h),[],,[],,False,False,,1
-koro1296-1-16-1,,koro1296-1,16,šūnzda(h),šūnzda(h),[],,[],,False,False,,1
-koro1296-1-17-1,,koro1296-1,17,hefda(h),hefda(h),[],,[],,False,False,,1
-koro1296-1-18-1,,koro1296-1,18,hažda(h),hažda(h),[],,[],,False,False,,1
-koro1296-1-19-1,,koro1296-1,19,nožda(h),nožda(h),[],,[],,False,False,,1
-koro1296-1-20-1,,koro1296-1,20,bīs,bīs,[],,[],,False,False,,1
-koro1296-1-21-1,,koro1296-1,21,bīs-o ye,bīs-o ye,[],,[],,False,False,,1
-koro1296-1-21-2,,koro1296-1,21,yek,yek,[],,[],,False,False,,1
-koro1296-1-21-3,,koro1296-1,21,ya,ya,[],,[],,False,False,,1
-koro1296-1-21-4,,koro1296-1,21,yak,yak,[],,[],,False,False,,1
-koro1296-1-22-1,,koro1296-1,22,bīs-o do,bīs-o do,[],,[],,False,False,,1
-koro1296-1-23-1,,koro1296-1,23,bīs-o say,bīs-o say,[],,[],,False,False,,1
-koro1296-1-24-1,,koro1296-1,24,bīs-o čār,bīs-o čār,[],,[],,False,False,,1
-koro1296-1-25-1,,koro1296-1,25,bīs-o panǰ,bīs-o panǰ,[],,[],,False,False,,1
-koro1296-1-25-2,,koro1296-1,25,pan,pan,[],,[],,False,False,,1
-koro1296-1-26-1,,koro1296-1,26,bīs-o šeš,bīs-o šeš,[],,[],,False,False,,1
-koro1296-1-26-2,,koro1296-1,26,šaš,šaš,[],,[],,False,False,,1
-koro1296-1-27-1,,koro1296-1,27,bīs-o haft,bīs-o haft,[],,[],,False,False,,1
-koro1296-1-27-2,,koro1296-1,27,haf,haf,[],,[],,False,False,,1
-koro1296-1-28-1,,koro1296-1,28,bīs-o hašt,bīs-o hašt,[],,[],,False,False,,1
-koro1296-1-28-2,,koro1296-1,28,haš,haš,[],,[],,False,False,,1
-koro1296-1-29-1,,koro1296-1,29,bīs-o noh,bīs-o noh,[],,[],,False,False,,1
-koro1296-1-30-1,,koro1296-1,30,sī,sī,[],,[],,False,False,,1
-koro1296-1-40-1,,koro1296-1,40,čel,čel,[],,[],,False,False,,1
-koro1296-1-50-1,,koro1296-1,50,panǰā,panǰā,[],,[],,False,False,,1
-koro1296-1-60-1,,koro1296-1,60,šast,šast,[],,[],,False,False,,1
-koro1296-1-70-1,,koro1296-1,70,haftād,haftād,[],,[],,False,False,,1
-koro1296-1-80-1,,koro1296-1,80,haštād,haštād,[],,[],,False,False,,1
-koro1296-1-90-1,,koro1296-1,90,nawad,nawad,[],,[],,False,False,,1
-koro1296-1-100-1,,koro1296-1,100,sad,sad,[],< from Persian ,[],,True,False,,1
-koro1296-1-200-1,,koro1296-1,200,dewisīt,dewisīt,[],,[],,False,False,,1
-koro1296-1-1000-1,,koro1296-1,1000,hezār,hezār,[],,[],,False,False,,1
-koro1296-1-2000-1,,koro1296-1,2000,do hezār,do hezār,[],,[],,False,False,,1
+koro1296-1-1-1,,koro1296-1,1,ye,ye,[],,['chan2019'],,False,False,,1
+koro1296-1-1-2,,koro1296-1,1,yek,yek,[],,['chan2019'],,False,False,,1
+koro1296-1-1-3,,koro1296-1,1,ya,ya,[],,['chan2019'],,False,False,,1
+koro1296-1-1-4,,koro1296-1,1,yak,yak,[],,['chan2019'],,False,False,,1
+koro1296-1-2-1,,koro1296-1,2,do,do,[],,['chan2019'],,False,False,,1
+koro1296-1-3-1,,koro1296-1,3,say,say,[],,['chan2019'],,False,False,,1
+koro1296-1-4-1,,koro1296-1,4,čār,čār,[],,['chan2019'],,False,False,,1
+koro1296-1-5-1,,koro1296-1,5,panǰ,panǰ,[],,['chan2019'],,False,False,,1
+koro1296-1-5-2,,koro1296-1,5,pan,pan,[],,['chan2019'],,False,False,,1
+koro1296-1-6-1,,koro1296-1,6,šeš,šeš,[],,['chan2019'],,False,False,,1
+koro1296-1-6-2,,koro1296-1,6,šaš,šaš,[],,['chan2019'],,False,False,,1
+koro1296-1-7-1,,koro1296-1,7,haft,haft,[],,['chan2019'],,False,False,,1
+koro1296-1-7-2,,koro1296-1,7,haf,haf,[],,['chan2019'],,False,False,,1
+koro1296-1-8-1,,koro1296-1,8,hašt,hašt,[],,['chan2019'],,False,False,,1
+koro1296-1-8-2,,koro1296-1,8,haš,haš,[],,['chan2019'],,False,False,,1
+koro1296-1-9-1,,koro1296-1,9,noh,noh,[],,['chan2019'],,False,False,,1
+koro1296-1-10-1,,koro1296-1,10,dah,dah,[],,['chan2019'],,False,False,,1
+koro1296-1-10-2,,koro1296-1,10,da,da,[],,['chan2019'],,False,False,,1
+koro1296-1-11-1,,koro1296-1,11,yāzda(h),yāzda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-12-1,,koro1296-1,12,dawāzda(h),dawāzda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-12-2,,koro1296-1,12,dāwāzda(h),dāwāzda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-13-1,,koro1296-1,13,sīzda(h),sīzda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-14-1,,koro1296-1,14,čārda(h),čārda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-15-1,,koro1296-1,15,pūnzda(h),pūnzda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-16-1,,koro1296-1,16,šūnzda(h),šūnzda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-17-1,,koro1296-1,17,hefda(h),hefda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-18-1,,koro1296-1,18,hažda(h),hažda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-19-1,,koro1296-1,19,nožda(h),nožda(h),[],,['chan2019'],,False,False,,1
+koro1296-1-20-1,,koro1296-1,20,bīs,bīs,[],,['chan2019'],,False,False,,1
+koro1296-1-21-1,,koro1296-1,21,bīs-o ye,bīs-o ye,[],,['chan2019'],,False,False,,1
+koro1296-1-21-2,,koro1296-1,21,yek,yek,[],,['chan2019'],,False,False,,1
+koro1296-1-21-3,,koro1296-1,21,ya,ya,[],,['chan2019'],,False,False,,1
+koro1296-1-21-4,,koro1296-1,21,yak,yak,[],,['chan2019'],,False,False,,1
+koro1296-1-22-1,,koro1296-1,22,bīs-o do,bīs-o do,[],,['chan2019'],,False,False,,1
+koro1296-1-23-1,,koro1296-1,23,bīs-o say,bīs-o say,[],,['chan2019'],,False,False,,1
+koro1296-1-24-1,,koro1296-1,24,bīs-o čār,bīs-o čār,[],,['chan2019'],,False,False,,1
+koro1296-1-25-1,,koro1296-1,25,bīs-o panǰ,bīs-o panǰ,[],,['chan2019'],,False,False,,1
+koro1296-1-25-2,,koro1296-1,25,pan,pan,[],,['chan2019'],,False,False,,1
+koro1296-1-26-1,,koro1296-1,26,bīs-o šeš,bīs-o šeš,[],,['chan2019'],,False,False,,1
+koro1296-1-26-2,,koro1296-1,26,šaš,šaš,[],,['chan2019'],,False,False,,1
+koro1296-1-27-1,,koro1296-1,27,bīs-o haft,bīs-o haft,[],,['chan2019'],,False,False,,1
+koro1296-1-27-2,,koro1296-1,27,haf,haf,[],,['chan2019'],,False,False,,1
+koro1296-1-28-1,,koro1296-1,28,bīs-o hašt,bīs-o hašt,[],,['chan2019'],,False,False,,1
+koro1296-1-28-2,,koro1296-1,28,haš,haš,[],,['chan2019'],,False,False,,1
+koro1296-1-29-1,,koro1296-1,29,bīs-o noh,bīs-o noh,[],,['chan2019'],,False,False,,1
+koro1296-1-30-1,,koro1296-1,30,sī,sī,[],,['chan2019'],,False,False,,1
+koro1296-1-40-1,,koro1296-1,40,čel,čel,[],,['chan2019'],,False,False,,1
+koro1296-1-50-1,,koro1296-1,50,panǰā,panǰā,[],,['chan2019'],,False,False,,1
+koro1296-1-60-1,,koro1296-1,60,šast,šast,[],,['chan2019'],,False,False,,1
+koro1296-1-70-1,,koro1296-1,70,haftād,haftād,[],,['chan2019'],,False,False,,1
+koro1296-1-80-1,,koro1296-1,80,haštād,haštād,[],,['chan2019'],,False,False,,1
+koro1296-1-90-1,,koro1296-1,90,nawad,nawad,[],,['chan2019'],,False,False,,1
+koro1296-1-100-1,,koro1296-1,100,sad,sad,[],< from Persian ,['chan2019'],,True,False,,1
+koro1296-1-200-1,,koro1296-1,200,dewisīt,dewisīt,[],,['chan2019'],,False,False,,1
+koro1296-1-1000-1,,koro1296-1,1000,hezār,hezār,[],,['chan2019'],,False,False,,1
+koro1296-1-2000-1,,koro1296-1,2000,do hezār,do hezār,[],,['chan2019'],,False,False,,1

@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bulo1242-1-1-1,,bulo1242-1,1,muoːi,muoːi,[],,[],,False,False,,1
-bulo1242-1-1-2,,bulo1242-1,1,du,du,[],,[],,False,False,,1
-bulo1242-1-2-1,,bulo1242-1,2,val,val,[],,[],,False,False,,1
-bulo1242-1-3-1,,bulo1242-1,3,pe,pe,[],,[],,False,False,,1
-bulo1242-1-4-1,,bulo1242-1,4,puoːn,puoːn,[],,[],,False,False,,1
-bulo1242-1-5-1,,bulo1242-1,5,prăm,prăm,[],,[],,False,False,,1
-bulo1242-1-6-1,,bulo1242-1,6,prau,prau,[],,[],,False,False,,1
-bulo1242-1-7-1,,bulo1242-1,7,pŏh,pŏh,[],,[],,False,False,,1
-bulo1242-1-7-2,,bulo1242-1,7,paːh,paːh,[],,[],,False,False,,1
-bulo1242-1-8-1,,bulo1242-1,8,pʰam,pʰam,[],,[],,False,False,,1
-bulo1242-1-9-1,,bulo1242-1,9,suˀn,suˀn,[],,[],,False,False,,1
-bulo1242-1-10-1,,bulo1242-1,10,maːt,maːt,[],,[],,False,False,,1
-bulo1242-1-11-1,,bulo1242-1,11,maːt ɟaːt muoːi,maːt ɟaːt muoːi,[],,[],,False,False,,1
-bulo1242-1-12-1,,bulo1242-1,12,maːt ɟaːt val,maːt ɟaːt val,[],,[],,False,False,,1
-bulo1242-1-13-1,,bulo1242-1,13,maːt ɟaːt pe,maːt ɟaːt pe,[],,[],,False,False,,1
-bulo1242-1-14-1,,bulo1242-1,14,maːt ɟaːt puoːn,maːt ɟaːt puoːn,[],,[],,False,False,,1
-bulo1242-1-15-1,,bulo1242-1,15,maːt ɟaːt prăm,maːt ɟaːt prăm,[],,[],,False,False,,1
-bulo1242-1-16-1,,bulo1242-1,16,maːt ɟaːt prau,maːt ɟaːt prau,[],,[],,False,False,,1
-bulo1242-1-17-1,,bulo1242-1,17,maːt ɟaːt pŏh,maːt ɟaːt pŏh,[],,[],,False,False,,1
-bulo1242-1-18-1,,bulo1242-1,18,maːt ɟaːt pʰam,maːt ɟaːt pʰam,[],,[],,False,False,,1
-bulo1242-1-19-1,,bulo1242-1,19,maːt ɟaːt suˀn,maːt ɟaːt suˀn,[],,[],,False,False,,1
-bulo1242-1-20-1,,bulo1242-1,20,val ɟaːt,val ɟaːt,[],,[],,False,False,,1
-bulo1242-1-21-1,,bulo1242-1,21,val ɟaːt muoːi,val ɟaːt muoːi,[],,[],,False,False,,1
-bulo1242-1-22-1,,bulo1242-1,22,val ɟaːt val,val ɟaːt val,[],,[],,False,False,,1
-bulo1242-1-23-1,,bulo1242-1,23,val ɟaːt pe,val ɟaːt pe,[],,[],,False,False,,1
-bulo1242-1-24-1,,bulo1242-1,24,val ɟaːt puoːn,val ɟaːt puoːn,[],,[],,False,False,,1
-bulo1242-1-25-1,,bulo1242-1,25,val ɟaːt prăm,val ɟaːt prăm,[],,[],,False,False,,1
-bulo1242-1-26-1,,bulo1242-1,26,val ɟaːt prau,val ɟaːt prau,[],,[],,False,False,,1
-bulo1242-1-27-1,,bulo1242-1,27,val ɟaːt pŏh,val ɟaːt pŏh,[],,[],,False,False,,1
-bulo1242-1-28-1,,bulo1242-1,28,val ɟaːt pʰam,val ɟaːt pʰam,[],,[],,False,False,,1
-bulo1242-1-29-1,,bulo1242-1,29,val ɟaːt suˀn,val ɟaːt suˀn,[],,[],,False,False,,1
-bulo1242-1-30-1,,bulo1242-1,30,pe ɟaːt,pe ɟaːt,[],,[],,False,False,,1
-bulo1242-1-40-1,,bulo1242-1,40,puoːn ɟaːt,puoːn ɟaːt,[],,[],,False,False,,1
-bulo1242-1-50-1,,bulo1242-1,50,prăm ɟaːt,prăm ɟaːt,[],,[],,False,False,,1
-bulo1242-1-60-1,,bulo1242-1,60,prau ɟaːt,prau ɟaːt,[],,[],,False,False,,1
-bulo1242-1-70-1,,bulo1242-1,70,pŏh ɟaːt,pŏh ɟaːt,[],,[],,False,False,,1
-bulo1242-1-80-1,,bulo1242-1,80,pʰam ɟaːt,pʰam ɟaːt,[],,[],,False,False,,1
-bulo1242-1-90-1,,bulo1242-1,90,suˀn ɟaːt,suˀn ɟaːt,[],,[],,False,False,,1
-bulo1242-1-100-1,,bulo1242-1,100,rajĕŋ,rajĕŋ,[],,[],,False,False,,1
-bulo1242-1-200-1,,bulo1242-1,200,val rajĕŋ,val rajĕŋ,[],,[],,False,False,,1
-bulo1242-1-1000-1,,bulo1242-1,1000,ravu,ravu,[],< Chamic ,[],,True,False,,1
-bulo1242-1-2000-1,,bulo1242-1,2000,bal ravu,bal ravu,[],,[],,False,False,,1
+bulo1242-1-1-1,,bulo1242-1,1,muoːi,muoːi,[],,['chan2019'],,False,False,,1
+bulo1242-1-1-2,,bulo1242-1,1,du,du,[],,['chan2019'],,False,False,,1
+bulo1242-1-2-1,,bulo1242-1,2,val,val,[],,['chan2019'],,False,False,,1
+bulo1242-1-3-1,,bulo1242-1,3,pe,pe,[],,['chan2019'],,False,False,,1
+bulo1242-1-4-1,,bulo1242-1,4,puoːn,puoːn,[],,['chan2019'],,False,False,,1
+bulo1242-1-5-1,,bulo1242-1,5,prăm,prăm,[],,['chan2019'],,False,False,,1
+bulo1242-1-6-1,,bulo1242-1,6,prau,prau,[],,['chan2019'],,False,False,,1
+bulo1242-1-7-1,,bulo1242-1,7,pŏh,pŏh,[],,['chan2019'],,False,False,,1
+bulo1242-1-7-2,,bulo1242-1,7,paːh,paːh,[],,['chan2019'],,False,False,,1
+bulo1242-1-8-1,,bulo1242-1,8,pʰam,pʰam,[],,['chan2019'],,False,False,,1
+bulo1242-1-9-1,,bulo1242-1,9,suˀn,suˀn,[],,['chan2019'],,False,False,,1
+bulo1242-1-10-1,,bulo1242-1,10,maːt,maːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-11-1,,bulo1242-1,11,maːt ɟaːt muoːi,maːt ɟaːt muoːi,[],,['chan2019'],,False,False,,1
+bulo1242-1-12-1,,bulo1242-1,12,maːt ɟaːt val,maːt ɟaːt val,[],,['chan2019'],,False,False,,1
+bulo1242-1-13-1,,bulo1242-1,13,maːt ɟaːt pe,maːt ɟaːt pe,[],,['chan2019'],,False,False,,1
+bulo1242-1-14-1,,bulo1242-1,14,maːt ɟaːt puoːn,maːt ɟaːt puoːn,[],,['chan2019'],,False,False,,1
+bulo1242-1-15-1,,bulo1242-1,15,maːt ɟaːt prăm,maːt ɟaːt prăm,[],,['chan2019'],,False,False,,1
+bulo1242-1-16-1,,bulo1242-1,16,maːt ɟaːt prau,maːt ɟaːt prau,[],,['chan2019'],,False,False,,1
+bulo1242-1-17-1,,bulo1242-1,17,maːt ɟaːt pŏh,maːt ɟaːt pŏh,[],,['chan2019'],,False,False,,1
+bulo1242-1-18-1,,bulo1242-1,18,maːt ɟaːt pʰam,maːt ɟaːt pʰam,[],,['chan2019'],,False,False,,1
+bulo1242-1-19-1,,bulo1242-1,19,maːt ɟaːt suˀn,maːt ɟaːt suˀn,[],,['chan2019'],,False,False,,1
+bulo1242-1-20-1,,bulo1242-1,20,val ɟaːt,val ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-21-1,,bulo1242-1,21,val ɟaːt muoːi,val ɟaːt muoːi,[],,['chan2019'],,False,False,,1
+bulo1242-1-22-1,,bulo1242-1,22,val ɟaːt val,val ɟaːt val,[],,['chan2019'],,False,False,,1
+bulo1242-1-23-1,,bulo1242-1,23,val ɟaːt pe,val ɟaːt pe,[],,['chan2019'],,False,False,,1
+bulo1242-1-24-1,,bulo1242-1,24,val ɟaːt puoːn,val ɟaːt puoːn,[],,['chan2019'],,False,False,,1
+bulo1242-1-25-1,,bulo1242-1,25,val ɟaːt prăm,val ɟaːt prăm,[],,['chan2019'],,False,False,,1
+bulo1242-1-26-1,,bulo1242-1,26,val ɟaːt prau,val ɟaːt prau,[],,['chan2019'],,False,False,,1
+bulo1242-1-27-1,,bulo1242-1,27,val ɟaːt pŏh,val ɟaːt pŏh,[],,['chan2019'],,False,False,,1
+bulo1242-1-28-1,,bulo1242-1,28,val ɟaːt pʰam,val ɟaːt pʰam,[],,['chan2019'],,False,False,,1
+bulo1242-1-29-1,,bulo1242-1,29,val ɟaːt suˀn,val ɟaːt suˀn,[],,['chan2019'],,False,False,,1
+bulo1242-1-30-1,,bulo1242-1,30,pe ɟaːt,pe ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-40-1,,bulo1242-1,40,puoːn ɟaːt,puoːn ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-50-1,,bulo1242-1,50,prăm ɟaːt,prăm ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-60-1,,bulo1242-1,60,prau ɟaːt,prau ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-70-1,,bulo1242-1,70,pŏh ɟaːt,pŏh ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-80-1,,bulo1242-1,80,pʰam ɟaːt,pʰam ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-90-1,,bulo1242-1,90,suˀn ɟaːt,suˀn ɟaːt,[],,['chan2019'],,False,False,,1
+bulo1242-1-100-1,,bulo1242-1,100,rajĕŋ,rajĕŋ,[],,['chan2019'],,False,False,,1
+bulo1242-1-200-1,,bulo1242-1,200,val rajĕŋ,val rajĕŋ,[],,['chan2019'],,False,False,,1
+bulo1242-1-1000-1,,bulo1242-1,1000,ravu,ravu,[],< Chamic ,['chan2019'],,True,False,,1
+bulo1242-1-2000-1,,bulo1242-1,2000,bal ravu,bal ravu,[],,['chan2019'],,False,False,,1

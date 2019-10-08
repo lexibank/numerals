@@ -1,29 +1,29 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-toto1302-1-1-1,,toto1302-1,1,itʃo,itʃo,[],,[],,False,False,icho,1
-toto1302-1-2-1,,toto1302-1,2,nitʃo,nitʃo,[],,[],,False,False,nicho,1
-toto1302-1-3-1,,toto1302-1,3,suŋtʃo,suŋtʃo,[],,[],,False,False,suŋcho,1
-toto1302-1-4-1,,toto1302-1,4,dotʃo,dotʃo,[],,[],,False,False,dicho,1
-toto1302-1-5-1,,toto1302-1,5,ŋatʃo,ŋatʃo,[],,[],,False,False,ŋacho,1
-toto1302-1-6-1,,toto1302-1,6,tutʃo,tutʃo,[],,[],,False,False,tucho,1
-toto1302-1-7-1,,toto1302-1,7,ŋitʃo,ŋitʃo,[],,[],,False,False,ŋicho,1
-toto1302-1-8-1,,toto1302-1,8,jetʃo ? or,jetʃo ? or,[],[dʒetʃo] ?,[],,False,True,jecho,1
-toto1302-1-9-1,,toto1302-1,9,kutʃo,kutʃo,[],,[],,False,False,kucho,1
-toto1302-1-10-1,,toto1302-1,10,tetʃo,tetʃo,[],,[],,False,False,techo,1
-toto1302-1-11-1,,toto1302-1,11,eɡaratʃo,eɡaratʃo,[],,[],,False,False,eɡaracho,1
-toto1302-1-12-1,,toto1302-1,12,bartʃo,bartʃo,[],,[],,False,False,barcho,1
-toto1302-1-13-1,,toto1302-1,13,tʰuiʃoŋ ?,tʰuiʃoŋ ?,[],,[],,False,True,thuisoŋ,1
-toto1302-1-14-1,,toto1302-1,14,tʃuidʒi,tʃuidʒi,[],,[],,False,False,chuiji,1
-toto1302-1-15-1,,toto1302-1,15,tʃeŋa,tʃeŋa,[],,[],,False,False,cheŋa,1
-toto1302-1-16-1,,toto1302-1,16,tʃuru,tʃuru,[],,[],,False,False,churu,1
-toto1302-1-17-1,,toto1302-1,17,niru,niru,[],,[],,False,False,,1
-toto1302-1-18-1,,toto1302-1,18,aru,aru,[],,[],,False,False,,1
-toto1302-1-19-1,,toto1302-1,19,tʃiɡu,tʃiɡu,[],,[],,False,False,chigu,1
-toto1302-1-20-1,,toto1302-1,20,ŋiʃo,ŋiʃo,[],,[],,False,False,,1
-toto1302-1-30-1,,toto1302-1,30,ekaʃotetʃo,ekaʃotetʃo,[],,[],,False,False,eka ʃo techo,1
-toto1302-1-40-1,,toto1302-1,40,ɳikai,ɳikai,[],( 2 x 20 ),[],,False,False,,1
-toto1302-1-50-1,,toto1302-1,50,nika ʃo techo,nika ʃo techo,[],,[],,False,False,,1
-toto1302-1-60-1,,toto1302-1,60,ʃuŋkai,ʃuŋkai,[],( 3 x 20 ),[],,False,False,,1
-toto1302-1-70-1,,toto1302-1,70,ʃuŋkai ʃo techo,ʃuŋkai ʃo techo,[],,[],,False,False,,1
-toto1302-1-80-1,,toto1302-1,80,ɖikai,ɖikai,[],( 4 x 20 ),[],,False,False,,1
-toto1302-1-90-1,,toto1302-1,90,ɖikaiʃo techo,ɖikaiʃo techo,[],,[],,False,False,,1
-toto1302-1-100-1,,toto1302-1,100,ŋakai,ŋakai,[],( 5 x 20 ),[],,False,False,,1
+toto1302-1-1-1,,toto1302-1,1,itʃo,itʃo,[],,['chan2019'],,False,False,icho,1
+toto1302-1-2-1,,toto1302-1,2,nitʃo,nitʃo,[],,['chan2019'],,False,False,nicho,1
+toto1302-1-3-1,,toto1302-1,3,suŋtʃo,suŋtʃo,[],,['chan2019'],,False,False,suŋcho,1
+toto1302-1-4-1,,toto1302-1,4,dotʃo,dotʃo,[],,['chan2019'],,False,False,dicho,1
+toto1302-1-5-1,,toto1302-1,5,ŋatʃo,ŋatʃo,[],,['chan2019'],,False,False,ŋacho,1
+toto1302-1-6-1,,toto1302-1,6,tutʃo,tutʃo,[],,['chan2019'],,False,False,tucho,1
+toto1302-1-7-1,,toto1302-1,7,ŋitʃo,ŋitʃo,[],,['chan2019'],,False,False,ŋicho,1
+toto1302-1-8-1,,toto1302-1,8,jetʃo ? or,jetʃo ? or,[],[dʒetʃo] ?,['chan2019'],,False,True,jecho,1
+toto1302-1-9-1,,toto1302-1,9,kutʃo,kutʃo,[],,['chan2019'],,False,False,kucho,1
+toto1302-1-10-1,,toto1302-1,10,tetʃo,tetʃo,[],,['chan2019'],,False,False,techo,1
+toto1302-1-11-1,,toto1302-1,11,eɡaratʃo,eɡaratʃo,[],,['chan2019'],,False,False,eɡaracho,1
+toto1302-1-12-1,,toto1302-1,12,bartʃo,bartʃo,[],,['chan2019'],,False,False,barcho,1
+toto1302-1-13-1,,toto1302-1,13,tʰuiʃoŋ ?,tʰuiʃoŋ ?,[],,['chan2019'],,False,True,thuisoŋ,1
+toto1302-1-14-1,,toto1302-1,14,tʃuidʒi,tʃuidʒi,[],,['chan2019'],,False,False,chuiji,1
+toto1302-1-15-1,,toto1302-1,15,tʃeŋa,tʃeŋa,[],,['chan2019'],,False,False,cheŋa,1
+toto1302-1-16-1,,toto1302-1,16,tʃuru,tʃuru,[],,['chan2019'],,False,False,churu,1
+toto1302-1-17-1,,toto1302-1,17,niru,niru,[],,['chan2019'],,False,False,,1
+toto1302-1-18-1,,toto1302-1,18,aru,aru,[],,['chan2019'],,False,False,,1
+toto1302-1-19-1,,toto1302-1,19,tʃiɡu,tʃiɡu,[],,['chan2019'],,False,False,chigu,1
+toto1302-1-20-1,,toto1302-1,20,ŋiʃo,ŋiʃo,[],,['chan2019'],,False,False,,1
+toto1302-1-30-1,,toto1302-1,30,ekaʃotetʃo,ekaʃotetʃo,[],,['chan2019'],,False,False,eka ʃo techo,1
+toto1302-1-40-1,,toto1302-1,40,ɳikai,ɳikai,[],( 2 x 20 ),['chan2019'],,False,False,,1
+toto1302-1-50-1,,toto1302-1,50,nika ʃo techo,nika ʃo techo,[],,['chan2019'],,False,False,,1
+toto1302-1-60-1,,toto1302-1,60,ʃuŋkai,ʃuŋkai,[],( 3 x 20 ),['chan2019'],,False,False,,1
+toto1302-1-70-1,,toto1302-1,70,ʃuŋkai ʃo techo,ʃuŋkai ʃo techo,[],,['chan2019'],,False,False,,1
+toto1302-1-80-1,,toto1302-1,80,ɖikai,ɖikai,[],( 4 x 20 ),['chan2019'],,False,False,,1
+toto1302-1-90-1,,toto1302-1,90,ɖikaiʃo techo,ɖikaiʃo techo,[],,['chan2019'],,False,False,,1
+toto1302-1-100-1,,toto1302-1,100,ŋakai,ŋakai,[],( 5 x 20 ),['chan2019'],,False,False,,1

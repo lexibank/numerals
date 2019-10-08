@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-katb1237-1-1-1,,katb1237-1,1,sapm,sapm,[],,[],,False,False,,1
-katb1237-1-2-1,,katb1237-1,2,iru,iru,[],,[],,False,False,,1
-katb1237-1-3-1,,katb1237-1,3,itl,itl,[],,[],,False,False,,1
-katb1237-1-4-1,,katb1237-1,4,iβat,iβat,[],,[],,False,False,,1
-katb1237-1-5-1,,katb1237-1,5,ilim,ilim,[],,[],,False,False,,1
-katb1237-1-6-1,,katb1237-1,6,sout,sout,[],( 5 + 1 ),[],,False,False,,1
-katb1237-1-7-1,,katb1237-1,7,souru,souru,[],( 5 + 2 ),[],,False,False,,1
-katb1237-1-8-1,,katb1237-1,8,setl,setl,[],( 5 + 3 ),[],,False,False,,1
-katb1237-1-9-1,,katb1237-1,9,saβat,saβat,[],( 5 + 4 ),[],,False,False,,1
-katb1237-1-10-1,,katb1237-1,10,laŋal,laŋal,[],,[],,False,False,,1
-katb1237-1-11-1,,katb1237-1,11,laŋal druman sapm,laŋal druman sapm,[],,[],,False,False,,1
-katb1237-1-12-1,,katb1237-1,12,laŋal druman iru,laŋal druman iru,[],,[],,False,False,,1
-katb1237-1-13-1,,katb1237-1,13,laŋal druman itl,laŋal druman itl,[],,[],,False,False,,1
-katb1237-1-14-1,,katb1237-1,14,laŋal druman iβat,laŋal druman iβat,[],,[],,False,False,,1
-katb1237-1-15-1,,katb1237-1,15,laŋal druman ilim,laŋal druman ilim,[],,[],,False,False,,1
-katb1237-1-16-1,,katb1237-1,16,laŋal druman sout,laŋal druman sout,[],,[],,False,False,,1
-katb1237-1-17-1,,katb1237-1,17,laŋal druman souru,laŋal druman souru,[],,[],,False,False,,1
-katb1237-1-18-1,,katb1237-1,18,laŋal druman setl,laŋal druman setl,[],,[],,False,False,,1
-katb1237-1-19-1,,katb1237-1,19,laŋal druman saβat,laŋal druman saβat,[],,[],,False,False,,1
-katb1237-1-20-1,,katb1237-1,20,ŋa iru,ŋa iru,[],,[],,False,False,,1
-katb1237-1-21-1,,katb1237-1,21,ŋa iru druman sapm,ŋa iru druman sapm,[],,[],,False,False,,1
-katb1237-1-22-1,,katb1237-1,22,ŋa iru druman iru,ŋa iru druman iru,[],,[],,False,False,,1
-katb1237-1-23-1,,katb1237-1,23,ŋa iru druman itl,ŋa iru druman itl,[],,[],,False,False,,1
-katb1237-1-24-1,,katb1237-1,24,ŋa iru druman iβat,ŋa iru druman iβat,[],,[],,False,False,,1
-katb1237-1-25-1,,katb1237-1,25,ŋa iru druman ilim,ŋa iru druman ilim,[],,[],,False,False,,1
-katb1237-1-26-1,,katb1237-1,26,ŋa iru druman sout,ŋa iru druman sout,[],,[],,False,False,,1
-katb1237-1-27-1,,katb1237-1,27,ŋa iru druman souru,ŋa iru druman souru,[],,[],,False,False,,1
-katb1237-1-28-1,,katb1237-1,28,ŋa iru druman setl,ŋa iru druman setl,[],,[],,False,False,,1
-katb1237-1-29-1,,katb1237-1,29,ŋa iru druman saβat,ŋa iru druman saβat,[],,[],,False,False,,1
-katb1237-1-30-1,,katb1237-1,30,ŋa itl,ŋa itl,[],,[],,False,False,,1
-katb1237-1-40-1,,katb1237-1,40,ŋa iβat,ŋa iβat,[],,[],,False,False,,1
-katb1237-1-50-1,,katb1237-1,50,ŋa ilim,ŋa ilim,[],,[],,False,False,,1
-katb1237-1-60-1,,katb1237-1,60,ŋa sout,ŋa sout,[],,[],,False,False,,1
-katb1237-1-70-1,,katb1237-1,70,ŋa souru,ŋa souru,[],,[],,False,False,,1
-katb1237-1-80-1,,katb1237-1,80,ŋa setl,ŋa setl,[],,[],,False,False,,1
-katb1237-1-90-1,,katb1237-1,90,ŋa saβat,ŋa saβat,[],,[],,False,False,,1
-katb1237-1-100-1,,katb1237-1,100,aŋat,aŋat,[],,[],,False,False,,1
-katb1237-1-200-1,,katb1237-1,200,aŋat iru,aŋat iru,[],,[],,False,False,,1
-katb1237-1-1000-1,,katb1237-1,1000,atar,atar,[],,[],,False,False,,1
-katb1237-1-2000-1,,katb1237-1,2000,atar,atar,[],,[],,False,False,,1
+katb1237-1-1-1,,katb1237-1,1,sapm,sapm,[],,['chan2019'],,False,False,,1
+katb1237-1-2-1,,katb1237-1,2,iru,iru,[],,['chan2019'],,False,False,,1
+katb1237-1-3-1,,katb1237-1,3,itl,itl,[],,['chan2019'],,False,False,,1
+katb1237-1-4-1,,katb1237-1,4,iβat,iβat,[],,['chan2019'],,False,False,,1
+katb1237-1-5-1,,katb1237-1,5,ilim,ilim,[],,['chan2019'],,False,False,,1
+katb1237-1-6-1,,katb1237-1,6,sout,sout,[],( 5 + 1 ),['chan2019'],,False,False,,1
+katb1237-1-7-1,,katb1237-1,7,souru,souru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+katb1237-1-8-1,,katb1237-1,8,setl,setl,[],( 5 + 3 ),['chan2019'],,False,False,,1
+katb1237-1-9-1,,katb1237-1,9,saβat,saβat,[],( 5 + 4 ),['chan2019'],,False,False,,1
+katb1237-1-10-1,,katb1237-1,10,laŋal,laŋal,[],,['chan2019'],,False,False,,1
+katb1237-1-11-1,,katb1237-1,11,laŋal druman sapm,laŋal druman sapm,[],,['chan2019'],,False,False,,1
+katb1237-1-12-1,,katb1237-1,12,laŋal druman iru,laŋal druman iru,[],,['chan2019'],,False,False,,1
+katb1237-1-13-1,,katb1237-1,13,laŋal druman itl,laŋal druman itl,[],,['chan2019'],,False,False,,1
+katb1237-1-14-1,,katb1237-1,14,laŋal druman iβat,laŋal druman iβat,[],,['chan2019'],,False,False,,1
+katb1237-1-15-1,,katb1237-1,15,laŋal druman ilim,laŋal druman ilim,[],,['chan2019'],,False,False,,1
+katb1237-1-16-1,,katb1237-1,16,laŋal druman sout,laŋal druman sout,[],,['chan2019'],,False,False,,1
+katb1237-1-17-1,,katb1237-1,17,laŋal druman souru,laŋal druman souru,[],,['chan2019'],,False,False,,1
+katb1237-1-18-1,,katb1237-1,18,laŋal druman setl,laŋal druman setl,[],,['chan2019'],,False,False,,1
+katb1237-1-19-1,,katb1237-1,19,laŋal druman saβat,laŋal druman saβat,[],,['chan2019'],,False,False,,1
+katb1237-1-20-1,,katb1237-1,20,ŋa iru,ŋa iru,[],,['chan2019'],,False,False,,1
+katb1237-1-21-1,,katb1237-1,21,ŋa iru druman sapm,ŋa iru druman sapm,[],,['chan2019'],,False,False,,1
+katb1237-1-22-1,,katb1237-1,22,ŋa iru druman iru,ŋa iru druman iru,[],,['chan2019'],,False,False,,1
+katb1237-1-23-1,,katb1237-1,23,ŋa iru druman itl,ŋa iru druman itl,[],,['chan2019'],,False,False,,1
+katb1237-1-24-1,,katb1237-1,24,ŋa iru druman iβat,ŋa iru druman iβat,[],,['chan2019'],,False,False,,1
+katb1237-1-25-1,,katb1237-1,25,ŋa iru druman ilim,ŋa iru druman ilim,[],,['chan2019'],,False,False,,1
+katb1237-1-26-1,,katb1237-1,26,ŋa iru druman sout,ŋa iru druman sout,[],,['chan2019'],,False,False,,1
+katb1237-1-27-1,,katb1237-1,27,ŋa iru druman souru,ŋa iru druman souru,[],,['chan2019'],,False,False,,1
+katb1237-1-28-1,,katb1237-1,28,ŋa iru druman setl,ŋa iru druman setl,[],,['chan2019'],,False,False,,1
+katb1237-1-29-1,,katb1237-1,29,ŋa iru druman saβat,ŋa iru druman saβat,[],,['chan2019'],,False,False,,1
+katb1237-1-30-1,,katb1237-1,30,ŋa itl,ŋa itl,[],,['chan2019'],,False,False,,1
+katb1237-1-40-1,,katb1237-1,40,ŋa iβat,ŋa iβat,[],,['chan2019'],,False,False,,1
+katb1237-1-50-1,,katb1237-1,50,ŋa ilim,ŋa ilim,[],,['chan2019'],,False,False,,1
+katb1237-1-60-1,,katb1237-1,60,ŋa sout,ŋa sout,[],,['chan2019'],,False,False,,1
+katb1237-1-70-1,,katb1237-1,70,ŋa souru,ŋa souru,[],,['chan2019'],,False,False,,1
+katb1237-1-80-1,,katb1237-1,80,ŋa setl,ŋa setl,[],,['chan2019'],,False,False,,1
+katb1237-1-90-1,,katb1237-1,90,ŋa saβat,ŋa saβat,[],,['chan2019'],,False,False,,1
+katb1237-1-100-1,,katb1237-1,100,aŋat,aŋat,[],,['chan2019'],,False,False,,1
+katb1237-1-200-1,,katb1237-1,200,aŋat iru,aŋat iru,[],,['chan2019'],,False,False,,1
+katb1237-1-1000-1,,katb1237-1,1000,atar,atar,[],,['chan2019'],,False,False,,1
+katb1237-1-2000-1,,katb1237-1,2000,atar,atar,[],,['chan2019'],,False,False,,1

@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kand1303-1-1-1,,kand1303-1,1,taimane,taimane,[],,[],,False,False,,1
-kand1303-1-2-1,,kand1303-1,2,soka,soka,[],,[],,False,False,,1
-kand1303-1-3-1,,kand1303-1,3,soka ta,soka ta,[],( 2+1),[],,False,False,,1
-kand1303-1-4-1,,kand1303-1,4,soka soka,soka soka,[],( 2+2),[],,False,False,,1
+kand1303-1-1-1,,kand1303-1,1,taimane,taimane,[],,['chan2019'],,False,False,,1
+kand1303-1-2-1,,kand1303-1,2,soka,soka,[],,['chan2019'],,False,False,,1
+kand1303-1-3-1,,kand1303-1,3,soka ta,soka ta,[],( 2+1),['chan2019'],,False,False,,1
+kand1303-1-4-1,,kand1303-1,4,soka soka,soka soka,[],( 2+2),['chan2019'],,False,False,,1

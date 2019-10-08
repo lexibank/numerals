@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kach1277-1-1-1,,kach1277-1,1,hekro,hekro,[],,[],,False,False,,1
-kach1277-1-2-1,,kach1277-1,2,b̥aː,b̥aː,[],,[],,False,False,,1
-kach1277-1-3-1,,kach1277-1,3,tre,tre,[],,[],,False,False,,1
-kach1277-1-4-1,,kach1277-1,4,t͡ʃaːr,t͡ʃaːr,[],,[],,False,False,,1
-kach1277-1-5-1,,kach1277-1,5,pənd͡ʒ,pənd͡ʒ,[],,[],,False,False,,1
-kach1277-1-6-1,,kach1277-1,6,t͡ʃʰə,t͡ʃʰə,[],,[],,False,False,,1
-kach1277-1-7-1,,kach1277-1,7,sattə,sattə,[],,[],,False,False,,1
-kach1277-1-8-1,,kach1277-1,8,aʈʰə,aʈʰə,[],,[],,False,False,,1
-kach1277-1-9-1,,kach1277-1,9,nɔ̃,nɔ̃,[],,[],,False,False,,1
-kach1277-1-10-1,,kach1277-1,10,ɖɔ,ɖɔ,[],,[],,False,False,,1
-kach1277-1-11-1,,kach1277-1,11,igyarɔ,igyarɔ,[],,[],,False,False,,1
-kach1277-1-12-1,,kach1277-1,12,barɔ,barɔ,[],,[],,False,False,,1
-kach1277-1-13-1,,kach1277-1,13,terɔ,terɔ,[],,[],,False,False,,1
-kach1277-1-14-1,,kach1277-1,14,t͡ʃɔdɔ,t͡ʃɔdɔ,[],,[],,False,False,,1
-kach1277-1-15-1,,kach1277-1,15,pəndrɔ,pəndrɔ,[],,[],,False,False,,1
-kach1277-1-16-1,,kach1277-1,16,soɭɔ,soɭɔ,[],,[],,False,False,,1
-kach1277-1-17-1,,kach1277-1,17,sətrɔ,sətrɔ,[],,[],,False,False,,1
-kach1277-1-18-1,,kach1277-1,18,aeɽɔ,aeɽɔ,[],,[],,False,False,,1
-kach1277-1-19-1,,kach1277-1,19,uɳai,uɳai,[],( 20 - 1),[],,False,False,,1
-kach1277-1-20-1,,kach1277-1,20,wih,wih,[],,[],,False,False,,1
-kach1277-1-20-2,,kach1277-1,20,vì,vì,[],,[],,False,False,,1
-kach1277-1-21-1,,kach1277-1,21,ekai,ekai,[],,[],,False,False,,1
-kach1277-1-22-1,,kach1277-1,22,bai,bai,[],,[],,False,False,,1
-kach1277-1-23-1,,kach1277-1,23,trei,trei,[],,[],,False,False,,1
-kach1277-1-24-1,,kach1277-1,24,t͡ʃoi,t͡ʃoi,[],,[],,False,False,,1
-kach1277-1-25-1,,kach1277-1,25,pend͡ʒi,pend͡ʒi,[],,[],,False,False,,1
-kach1277-1-26-1,,kach1277-1,26,t͡ʃəbi,t͡ʃəbi,[],,[],,False,False,,1
-kach1277-1-27-1,,kach1277-1,27,sətai,sətai,[],,[],,False,False,,1
-kach1277-1-28-1,,kach1277-1,28,ʈʰai,ʈʰai,[],,[],,False,False,,1
-kach1277-1-29-1,,kach1277-1,29,ogəntrih,ogəntrih,[],( 30 - 1),[],,False,False,,1
-kach1277-1-30-1,,kach1277-1,30,trih,trih,[],,[],,False,False,,1
-kach1277-1-40-1,,kach1277-1,40,t͡ʃaːɭi,t͡ʃaːɭi,[],,[],,False,False,,1
-kach1277-1-50-1,,kach1277-1,50,pand͡ʒaːh,pand͡ʒaːh,[],,[],,False,False,,1
-kach1277-1-60-1,,kach1277-1,60,saʈʈʰə,saʈʈʰə,[],,[],,False,False,,1
-kach1277-1-70-1,,kach1277-1,70,sənter,sənter,[],,[],,False,False,,1
-kach1277-1-80-1,,kach1277-1,80,ɛsi,ɛsi,[],,[],,False,False,,1
-kach1277-1-90-1,,kach1277-1,90,nəũ,nəũ,[],,[],,False,False,,1
-kach1277-1-100-1,,kach1277-1,100,sɔ,sɔ,[],,[],,False,False,,1
-kach1277-1-200-1,,kach1277-1,200,b̥a sɔ,b̥a sɔ,[],,[],,False,False,,1
-kach1277-1-1000-1,,kach1277-1,1000,həd͡ʒar,həd͡ʒar,[],,[],,False,False,,1
-kach1277-1-2000-1,,kach1277-1,2000,b̥e həd͡ʒar,b̥e həd͡ʒar,[],,[],,False,False,,1
+kach1277-1-1-1,,kach1277-1,1,hekro,hekro,[],,['chan2019'],,False,False,,1
+kach1277-1-2-1,,kach1277-1,2,b̥aː,b̥aː,[],,['chan2019'],,False,False,,1
+kach1277-1-3-1,,kach1277-1,3,tre,tre,[],,['chan2019'],,False,False,,1
+kach1277-1-4-1,,kach1277-1,4,t͡ʃaːr,t͡ʃaːr,[],,['chan2019'],,False,False,,1
+kach1277-1-5-1,,kach1277-1,5,pənd͡ʒ,pənd͡ʒ,[],,['chan2019'],,False,False,,1
+kach1277-1-6-1,,kach1277-1,6,t͡ʃʰə,t͡ʃʰə,[],,['chan2019'],,False,False,,1
+kach1277-1-7-1,,kach1277-1,7,sattə,sattə,[],,['chan2019'],,False,False,,1
+kach1277-1-8-1,,kach1277-1,8,aʈʰə,aʈʰə,[],,['chan2019'],,False,False,,1
+kach1277-1-9-1,,kach1277-1,9,nɔ̃,nɔ̃,[],,['chan2019'],,False,False,,1
+kach1277-1-10-1,,kach1277-1,10,ɖɔ,ɖɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-11-1,,kach1277-1,11,igyarɔ,igyarɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-12-1,,kach1277-1,12,barɔ,barɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-13-1,,kach1277-1,13,terɔ,terɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-14-1,,kach1277-1,14,t͡ʃɔdɔ,t͡ʃɔdɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-15-1,,kach1277-1,15,pəndrɔ,pəndrɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-16-1,,kach1277-1,16,soɭɔ,soɭɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-17-1,,kach1277-1,17,sətrɔ,sətrɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-18-1,,kach1277-1,18,aeɽɔ,aeɽɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-19-1,,kach1277-1,19,uɳai,uɳai,[],( 20 - 1),['chan2019'],,False,False,,1
+kach1277-1-20-1,,kach1277-1,20,wih,wih,[],,['chan2019'],,False,False,,1
+kach1277-1-20-2,,kach1277-1,20,vì,vì,[],,['chan2019'],,False,False,,1
+kach1277-1-21-1,,kach1277-1,21,ekai,ekai,[],,['chan2019'],,False,False,,1
+kach1277-1-22-1,,kach1277-1,22,bai,bai,[],,['chan2019'],,False,False,,1
+kach1277-1-23-1,,kach1277-1,23,trei,trei,[],,['chan2019'],,False,False,,1
+kach1277-1-24-1,,kach1277-1,24,t͡ʃoi,t͡ʃoi,[],,['chan2019'],,False,False,,1
+kach1277-1-25-1,,kach1277-1,25,pend͡ʒi,pend͡ʒi,[],,['chan2019'],,False,False,,1
+kach1277-1-26-1,,kach1277-1,26,t͡ʃəbi,t͡ʃəbi,[],,['chan2019'],,False,False,,1
+kach1277-1-27-1,,kach1277-1,27,sətai,sətai,[],,['chan2019'],,False,False,,1
+kach1277-1-28-1,,kach1277-1,28,ʈʰai,ʈʰai,[],,['chan2019'],,False,False,,1
+kach1277-1-29-1,,kach1277-1,29,ogəntrih,ogəntrih,[],( 30 - 1),['chan2019'],,False,False,,1
+kach1277-1-30-1,,kach1277-1,30,trih,trih,[],,['chan2019'],,False,False,,1
+kach1277-1-40-1,,kach1277-1,40,t͡ʃaːɭi,t͡ʃaːɭi,[],,['chan2019'],,False,False,,1
+kach1277-1-50-1,,kach1277-1,50,pand͡ʒaːh,pand͡ʒaːh,[],,['chan2019'],,False,False,,1
+kach1277-1-60-1,,kach1277-1,60,saʈʈʰə,saʈʈʰə,[],,['chan2019'],,False,False,,1
+kach1277-1-70-1,,kach1277-1,70,sənter,sənter,[],,['chan2019'],,False,False,,1
+kach1277-1-80-1,,kach1277-1,80,ɛsi,ɛsi,[],,['chan2019'],,False,False,,1
+kach1277-1-90-1,,kach1277-1,90,nəũ,nəũ,[],,['chan2019'],,False,False,,1
+kach1277-1-100-1,,kach1277-1,100,sɔ,sɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-200-1,,kach1277-1,200,b̥a sɔ,b̥a sɔ,[],,['chan2019'],,False,False,,1
+kach1277-1-1000-1,,kach1277-1,1000,həd͡ʒar,həd͡ʒar,[],,['chan2019'],,False,False,,1
+kach1277-1-2000-1,,kach1277-1,2000,b̥e həd͡ʒar,b̥e həd͡ʒar,[],,['chan2019'],,False,False,,1

@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cher1273-2-1-1,,cher1273-2,1,saɡwu,saɡwu,[],,[],,False,False,,2
-cher1273-2-2-1,,cher1273-2,2,taʔli,taʔli,[],,[],,False,False,,2
-cher1273-2-3-1,,cher1273-2,3,joʔi,joʔi,[],,[],,False,False,,2
-cher1273-2-4-1,,cher1273-2,4,nvhɡi,nvhɡi,[],,[],,False,False,,2
-cher1273-2-5-1,,cher1273-2,5,hisɡi,hisɡi,[],,[],,False,False,,2
-cher1273-2-6-1,,cher1273-2,6,sudali,sudali,[],,[],,False,False,,2
-cher1273-2-7-1,,cher1273-2,7,ɡahliɡwoɡi,ɡahliɡwoɡi,[],,[],,False,False,,2
-cher1273-2-8-1,,cher1273-2,8,chanela,chanela,[],,[],,False,False,,2
-cher1273-2-9-1,,cher1273-2,9,sohnela,sohnela,[],,[],,False,False,,2
-cher1273-2-10-1,,cher1273-2,10,sɡohi,sɡohi,[],,[],,False,False,,2
-cher1273-2-11-1,,cher1273-2,11,saʔdu,saʔdu,[],,[],,False,False,,2
-cher1273-2-12-1,,cher1273-2,12,taʔladu,taʔladu,[],,[],,False,False,,2
-cher1273-2-13-1,,cher1273-2,13,joʔɡaʔdu,joʔɡaʔdu,[],,[],,False,False,,2
-cher1273-2-14-1,,cher1273-2,14,niɡaʔdu,niɡaʔdu,[],,[],,False,False,,2
-cher1273-2-15-1,,cher1273-2,15,sɡiɡaʔdu,sɡiɡaʔdu,[],,[],,False,False,,2
-cher1273-2-16-1,,cher1273-2,16,daladu,daladu,[],,[],,False,False,,2
-cher1273-2-17-1,,cher1273-2,17,ɡahlɡwadu,ɡahlɡwadu,[],,[],,False,False,,2
-cher1273-2-18-1,,cher1273-2,18,neladu,neladu,[],,[],,False,False,,2
-cher1273-2-19-1,,cher1273-2,19,sohneladu,sohneladu,[],,[],,False,False,,2
-cher1273-2-20-1,,cher1273-2,20,taʔlasɡohi,taʔlasɡohi,[],,[],,False,False,,2
-cher1273-2-21-1,,cher1273-2,21,taʔlasɡo saɡwu,taʔlasɡo saɡwu,[],,[],,False,False,,2
-cher1273-2-22-1,,cher1273-2,22,taʔlasɡo taʔli,taʔlasɡo taʔli,[],,[],,False,False,,2
-cher1273-2-23-1,,cher1273-2,23,taʔlasɡo joʔi,taʔlasɡo joʔi,[],,[],,False,False,,2
-cher1273-2-24-1,,cher1273-2,24,taʔlasɡo nvhɡi,taʔlasɡo nvhɡi,[],,[],,False,False,,2
-cher1273-2-25-1,,cher1273-2,25,taʔlasɡo hisɡi,taʔlasɡo hisɡi,[],,[],,False,False,,2
-cher1273-2-26-1,,cher1273-2,26,taʔlasɡo sudali,taʔlasɡo sudali,[],,[],,False,False,,2
-cher1273-2-27-1,,cher1273-2,27,taʔlasɡo ɡahliɡwoɡi,taʔlasɡo ɡahliɡwoɡi,[],,[],,False,False,,2
-cher1273-2-28-1,,cher1273-2,28,taʔlasɡo chanela,taʔlasɡo chanela,[],,[],,False,False,,2
-cher1273-2-29-1,,cher1273-2,29,taʔlasɡo sohnela,taʔlasɡo sohnela,[],,[],,False,False,,2
-cher1273-2-30-1,,cher1273-2,30,joʔsɡohi,joʔsɡohi,[],,[],,False,False,,2
-cher1273-2-40-1,,cher1273-2,40,nvksɡohi,nvksɡohi,[],,[],,False,False,,2
-cher1273-2-50-1,,cher1273-2,50,hiksɡohi,hiksɡohi,[],,[],,False,False,,2
-cher1273-2-60-1,,cher1273-2,60,sudalsɡohi,sudalsɡohi,[],,[],,False,False,,2
-cher1273-2-70-1,,cher1273-2,70,ɡahliɡwasɡohi,ɡahliɡwasɡohi,[],,[],,False,False,,2
-cher1273-2-80-1,,cher1273-2,80,nelsɡohi,nelsɡohi,[],,[],,False,False,,2
-cher1273-2-90-1,,cher1273-2,90,sohnelsɡohi,sohnelsɡohi,[],,[],,False,False,,2
-cher1273-2-100-1,,cher1273-2,100,sɡohitsɡwa,sɡohitsɡwa,[],,[],,False,False,,2
-cher1273-2-200-1,,cher1273-2,200,talitsɡwa,talitsɡwa,[],,[],,False,False,,2
-cher1273-2-1000-1,,cher1273-2,1000,saɡwu iyaɡayvli,saɡwu iyaɡayvli,[],,[],,False,False,,2
+cher1273-2-1-1,,cher1273-2,1,saɡwu,saɡwu,[],,['chan2019'],,False,False,,2
+cher1273-2-2-1,,cher1273-2,2,taʔli,taʔli,[],,['chan2019'],,False,False,,2
+cher1273-2-3-1,,cher1273-2,3,joʔi,joʔi,[],,['chan2019'],,False,False,,2
+cher1273-2-4-1,,cher1273-2,4,nvhɡi,nvhɡi,[],,['chan2019'],,False,False,,2
+cher1273-2-5-1,,cher1273-2,5,hisɡi,hisɡi,[],,['chan2019'],,False,False,,2
+cher1273-2-6-1,,cher1273-2,6,sudali,sudali,[],,['chan2019'],,False,False,,2
+cher1273-2-7-1,,cher1273-2,7,ɡahliɡwoɡi,ɡahliɡwoɡi,[],,['chan2019'],,False,False,,2
+cher1273-2-8-1,,cher1273-2,8,chanela,chanela,[],,['chan2019'],,False,False,,2
+cher1273-2-9-1,,cher1273-2,9,sohnela,sohnela,[],,['chan2019'],,False,False,,2
+cher1273-2-10-1,,cher1273-2,10,sɡohi,sɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-11-1,,cher1273-2,11,saʔdu,saʔdu,[],,['chan2019'],,False,False,,2
+cher1273-2-12-1,,cher1273-2,12,taʔladu,taʔladu,[],,['chan2019'],,False,False,,2
+cher1273-2-13-1,,cher1273-2,13,joʔɡaʔdu,joʔɡaʔdu,[],,['chan2019'],,False,False,,2
+cher1273-2-14-1,,cher1273-2,14,niɡaʔdu,niɡaʔdu,[],,['chan2019'],,False,False,,2
+cher1273-2-15-1,,cher1273-2,15,sɡiɡaʔdu,sɡiɡaʔdu,[],,['chan2019'],,False,False,,2
+cher1273-2-16-1,,cher1273-2,16,daladu,daladu,[],,['chan2019'],,False,False,,2
+cher1273-2-17-1,,cher1273-2,17,ɡahlɡwadu,ɡahlɡwadu,[],,['chan2019'],,False,False,,2
+cher1273-2-18-1,,cher1273-2,18,neladu,neladu,[],,['chan2019'],,False,False,,2
+cher1273-2-19-1,,cher1273-2,19,sohneladu,sohneladu,[],,['chan2019'],,False,False,,2
+cher1273-2-20-1,,cher1273-2,20,taʔlasɡohi,taʔlasɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-21-1,,cher1273-2,21,taʔlasɡo saɡwu,taʔlasɡo saɡwu,[],,['chan2019'],,False,False,,2
+cher1273-2-22-1,,cher1273-2,22,taʔlasɡo taʔli,taʔlasɡo taʔli,[],,['chan2019'],,False,False,,2
+cher1273-2-23-1,,cher1273-2,23,taʔlasɡo joʔi,taʔlasɡo joʔi,[],,['chan2019'],,False,False,,2
+cher1273-2-24-1,,cher1273-2,24,taʔlasɡo nvhɡi,taʔlasɡo nvhɡi,[],,['chan2019'],,False,False,,2
+cher1273-2-25-1,,cher1273-2,25,taʔlasɡo hisɡi,taʔlasɡo hisɡi,[],,['chan2019'],,False,False,,2
+cher1273-2-26-1,,cher1273-2,26,taʔlasɡo sudali,taʔlasɡo sudali,[],,['chan2019'],,False,False,,2
+cher1273-2-27-1,,cher1273-2,27,taʔlasɡo ɡahliɡwoɡi,taʔlasɡo ɡahliɡwoɡi,[],,['chan2019'],,False,False,,2
+cher1273-2-28-1,,cher1273-2,28,taʔlasɡo chanela,taʔlasɡo chanela,[],,['chan2019'],,False,False,,2
+cher1273-2-29-1,,cher1273-2,29,taʔlasɡo sohnela,taʔlasɡo sohnela,[],,['chan2019'],,False,False,,2
+cher1273-2-30-1,,cher1273-2,30,joʔsɡohi,joʔsɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-40-1,,cher1273-2,40,nvksɡohi,nvksɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-50-1,,cher1273-2,50,hiksɡohi,hiksɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-60-1,,cher1273-2,60,sudalsɡohi,sudalsɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-70-1,,cher1273-2,70,ɡahliɡwasɡohi,ɡahliɡwasɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-80-1,,cher1273-2,80,nelsɡohi,nelsɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-90-1,,cher1273-2,90,sohnelsɡohi,sohnelsɡohi,[],,['chan2019'],,False,False,,2
+cher1273-2-100-1,,cher1273-2,100,sɡohitsɡwa,sɡohitsɡwa,[],,['chan2019'],,False,False,,2
+cher1273-2-200-1,,cher1273-2,200,talitsɡwa,talitsɡwa,[],,['chan2019'],,False,False,,2
+cher1273-2-1000-1,,cher1273-2,1000,saɡwu iyaɡayvli,saɡwu iyaɡayvli,[],,['chan2019'],,False,False,,2

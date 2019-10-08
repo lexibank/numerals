@@ -1,9 +1,9 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-guar1293-1-1-1,,guar1293-1,1,apása,apása,[],,[],,False,False,,1
-guar1293-1-2-1,,guar1293-1,2,dámatasa,dámatasa,[],,[],,False,False,,1
-guar1293-1-3-1,,guar1293-1,3,mbáitalisa,mbáitalisa,[],,[],,False,False,,1
-guar1293-1-4-1,,guar1293-1,4,kuátru,kuátru,[],( < Spanish loan),[],,True,False,,1
-guar1293-1-5-1,,guar1293-1,5,sínku,sínku,[],( < Spanish loan),[],,True,False,,1
-guar1293-1-6-1,,guar1293-1,6,séis,séis,[],< Spanish loan) and so on ,[],,True,False,,1
-guar1293-1-6-2,,guar1293-1,6,some adverbsː júbapeni ''many',some adverbsː júbapeni ''many',[],,[],,False,True,,1
-guar1293-1-6-3,,guar1293-1,6,népokjísana ''few'',népokjísana ''few'',[],,[],,False,True,,1
+guar1293-1-1-1,,guar1293-1,1,apása,apása,[],,['chan2019'],,False,False,,1
+guar1293-1-2-1,,guar1293-1,2,dámatasa,dámatasa,[],,['chan2019'],,False,False,,1
+guar1293-1-3-1,,guar1293-1,3,mbáitalisa,mbáitalisa,[],,['chan2019'],,False,False,,1
+guar1293-1-4-1,,guar1293-1,4,kuátru,kuátru,[],( < Spanish loan),['chan2019'],,True,False,,1
+guar1293-1-5-1,,guar1293-1,5,sínku,sínku,[],( < Spanish loan),['chan2019'],,True,False,,1
+guar1293-1-6-1,,guar1293-1,6,séis,séis,[],< Spanish loan) and so on ,['chan2019'],,True,False,,1
+guar1293-1-6-2,,guar1293-1,6,some adverbsː júbapeni ''many',some adverbsː júbapeni ''many',[],,['chan2019'],,False,True,,1
+guar1293-1-6-3,,guar1293-1,6,népokjísana ''few'',népokjísana ''few'',[],,['chan2019'],,False,True,,1

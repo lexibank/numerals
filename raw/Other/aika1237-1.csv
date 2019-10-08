@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-aika1237-1-1-1,,aika1237-1,1,ɑmeme,ɑmeme,[],,[],,False,False,,1
-aika1237-1-2-1,,aika1237-1,2,ɑtukɑ,ɑtukɑ,[],,[],,False,False,,1
-aika1237-1-3-1,,aika1237-1,3,ɑtukɑ ɑmeme,ɑtukɑ ɑmeme,[],,[],,False,False,,1
-aika1237-1-4-1,,aika1237-1,4,ɑtukɑ ɑtukɑ,ɑtukɑ ɑtukɑ,[],,[],,False,False,,1
-aika1237-1-5-1,,aika1237-1,5,ɑmeme hinɑ̃rikɑẽ ĩne (litː 'one hand finished') rejected by some,ɑmeme hinɑ̃rikɑẽ ĩne (litː 'one hand finished') rejected by some,[],,[],,False,True,,1
+aika1237-1-1-1,,aika1237-1,1,ɑmeme,ɑmeme,[],,['chan2019'],,False,False,,1
+aika1237-1-2-1,,aika1237-1,2,ɑtukɑ,ɑtukɑ,[],,['chan2019'],,False,False,,1
+aika1237-1-3-1,,aika1237-1,3,ɑtukɑ ɑmeme,ɑtukɑ ɑmeme,[],,['chan2019'],,False,False,,1
+aika1237-1-4-1,,aika1237-1,4,ɑtukɑ ɑtukɑ,ɑtukɑ ɑtukɑ,[],,['chan2019'],,False,False,,1
+aika1237-1-5-1,,aika1237-1,5,ɑmeme hinɑ̃rikɑẽ ĩne (litː 'one hand finished') rejected by some,ɑmeme hinɑ̃rikɑẽ ĩne (litː 'one hand finished') rejected by some,[],,['chan2019'],,False,True,,1

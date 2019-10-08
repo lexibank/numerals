@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-afri1274-1-1-1,,afri1274-1,1,eːn,eːn,[],,[],,False,False,een,1
-afri1274-1-2-1,,afri1274-1,2,tʷeː,tʷeː,[],,[],,False,False,twee,1
-afri1274-1-3-1,,afri1274-1,3,dri,dri,[],,[],,False,False,drie,1
-afri1274-1-4-1,,afri1274-1,4,fir,fir,[],,[],,False,False,vier,1
-afri1274-1-5-1,,afri1274-1,5,fəif,fəif,[],,[],,False,False,vyf,1
-afri1274-1-6-1,,afri1274-1,6,sɛs,sɛs,[],,[],,False,False,ses,1
-afri1274-1-7-1,,afri1274-1,7,seːvə,seːvə,[],,[],,False,False,sewe,1
-afri1274-1-8-1,,afri1274-1,8,ax(t),ax(t),[],,[],,False,False,agt,1
-afri1274-1-9-1,,afri1274-1,9,ˈneːxə,ˈneːxə,[],,[],,False,False,nege,1
-afri1274-1-10-1,,afri1274-1,10,tin,tin,[],,[],,False,False,tien,1
-afri1274-1-11-1,,afri1274-1,11,ɛlf,ɛlf,[],,[],,False,False,elf,1
-afri1274-1-12-1,,afri1274-1,12,ˈtʷaˑlf,ˈtʷaˑlf,[],,[],,False,False,twaalf,1
-afri1274-1-13-1,,afri1274-1,13,ˈdɛrtin,ˈdɛrtin,[],,[],,False,False,dertien,1
-afri1274-1-14-1,,afri1274-1,14,ˈfeːrtin,ˈfeːrtin,[],,[],,False,False,veertien,1
-afri1274-1-15-1,,afri1274-1,15,ˈfəiftin,ˈfəiftin,[],,[],,False,False,vyftien,1
-afri1274-1-16-1,,afri1274-1,16,ˈsɛstin,ˈsɛstin,[],,[],,False,False,sestien,1
-afri1274-1-17-1,,afri1274-1,17,ˈseːvəntin,ˈseːvəntin,[],,[],,False,False,sewentien,1
-afri1274-1-18-1,,afri1274-1,18,ˈaxtin,ˈaxtin,[],,[],,False,False,agttien,1
-afri1274-1-19-1,,afri1274-1,19,ˈneːxəntin,ˈneːxəntin,[],,[],,False,False,negentien,1
-afri1274-1-20-1,,afri1274-1,20,ˈtʷəntəx,ˈtʷəntəx,[],,[],,False,False,twintig,1
-afri1274-1-21-1,,afri1274-1,21,ˈeːnɛn ˌtʷəntəx,ˈeːnɛn ˌtʷəntəx,[],,[],,False,False,een en twintig,1
-afri1274-1-22-1,,afri1274-1,22,ˈtʷeːɛn ˌtʷəntəx,ˈtʷeːɛn ˌtʷəntəx,[],,[],,False,False,tweeen twintig,1
-afri1274-1-23-1,,afri1274-1,23,ˈdri ɛn ˌtʷəntəx,ˈdri ɛn ˌtʷəntəx,[],,[],,False,False,drie en twintig,1
-afri1274-1-24-1,,afri1274-1,24,ˈfir ɛn ˌtʷəntəx ),ˈfir ɛn ˌtʷəntəx ),[],,[],,False,True,vier en twintig (,1
-afri1274-1-25-1,,afri1274-1,25,ˈfəif ɛn ˌtʷəntəx,ˈfəif ɛn ˌtʷəntəx,[],,[],,False,False,vyf en twintig,1
-afri1274-1-26-1,,afri1274-1,26,ˈsɛs ɛn ˌtʷəntəx,ˈsɛs ɛn ˌtʷəntəx,[],,[],,False,False,ses en twintig,1
-afri1274-1-27-1,,afri1274-1,27,ˈseːvə ɛn ˌtʷəntəx,ˈseːvə ɛn ˌtʷəntəx,[],,[],,False,False,sewe en twintig,1
-afri1274-1-28-1,,afri1274-1,28,ˈax(t) ɛn ˌtʷəntəx,ˈax(t) ɛn ˌtʷəntəx,[],,[],,False,False,agt en twintig,1
-afri1274-1-29-1,,afri1274-1,29,ˈneːxə ɛn ˌtʷəntəx,ˈneːxə ɛn ˌtʷəntəx,[],,[],,False,False,nege en twintig,1
-afri1274-1-30-1,,afri1274-1,30,ˈdɛrtəx,ˈdɛrtəx,[],,[],,False,False,dertig,1
-afri1274-1-40-1,,afri1274-1,40,ˈfeːrtəx,ˈfeːrtəx,[],,[],,False,False,veertig,1
-afri1274-1-50-1,,afri1274-1,50,ˈfəiftəx,ˈfəiftəx,[],,[],,False,False,vyftig,1
-afri1274-1-60-1,,afri1274-1,60,ˈsɛkstəx,ˈsɛkstəx,[],,[],,False,False,sestig,1
-afri1274-1-70-1,,afri1274-1,70,ˈsevəːntəx,ˈsevəːntəx,[],,[],,False,False,sewentig,1
-afri1274-1-80-1,,afri1274-1,80,ˈtaxtəx,ˈtaxtəx,[],,[],,False,False,tagtig,1
-afri1274-1-90-1,,afri1274-1,90,ˈneːgəntəx,ˈneːgəntəx,[],,[],,False,False,negentig,1
-afri1274-1-100-1,,afri1274-1,100,ˈhɔndərt,ˈhɔndərt,[],,[],,False,False,honderd,1
-afri1274-1-200-1,,afri1274-1,200,ˈtʷeːˌhɔndərt,ˈtʷeːˌhɔndərt,[],,[],,False,False,tweehondert,1
-afri1274-1-1000-1,,afri1274-1,1000,ˈdœysənt,ˈdœysənt,[],,[],,False,False,duisend,1
-afri1274-1-2000-1,,afri1274-1,2000,ˈtʷeːdœysənt,ˈtʷeːdœysənt,[],,[],,False,False,tweeduisend,1
+afri1274-1-1-1,,afri1274-1,1,eːn,eːn,[],,['chan2019'],,False,False,een,1
+afri1274-1-2-1,,afri1274-1,2,tʷeː,tʷeː,[],,['chan2019'],,False,False,twee,1
+afri1274-1-3-1,,afri1274-1,3,dri,dri,[],,['chan2019'],,False,False,drie,1
+afri1274-1-4-1,,afri1274-1,4,fir,fir,[],,['chan2019'],,False,False,vier,1
+afri1274-1-5-1,,afri1274-1,5,fəif,fəif,[],,['chan2019'],,False,False,vyf,1
+afri1274-1-6-1,,afri1274-1,6,sɛs,sɛs,[],,['chan2019'],,False,False,ses,1
+afri1274-1-7-1,,afri1274-1,7,seːvə,seːvə,[],,['chan2019'],,False,False,sewe,1
+afri1274-1-8-1,,afri1274-1,8,ax(t),ax(t),[],,['chan2019'],,False,False,agt,1
+afri1274-1-9-1,,afri1274-1,9,ˈneːxə,ˈneːxə,[],,['chan2019'],,False,False,nege,1
+afri1274-1-10-1,,afri1274-1,10,tin,tin,[],,['chan2019'],,False,False,tien,1
+afri1274-1-11-1,,afri1274-1,11,ɛlf,ɛlf,[],,['chan2019'],,False,False,elf,1
+afri1274-1-12-1,,afri1274-1,12,ˈtʷaˑlf,ˈtʷaˑlf,[],,['chan2019'],,False,False,twaalf,1
+afri1274-1-13-1,,afri1274-1,13,ˈdɛrtin,ˈdɛrtin,[],,['chan2019'],,False,False,dertien,1
+afri1274-1-14-1,,afri1274-1,14,ˈfeːrtin,ˈfeːrtin,[],,['chan2019'],,False,False,veertien,1
+afri1274-1-15-1,,afri1274-1,15,ˈfəiftin,ˈfəiftin,[],,['chan2019'],,False,False,vyftien,1
+afri1274-1-16-1,,afri1274-1,16,ˈsɛstin,ˈsɛstin,[],,['chan2019'],,False,False,sestien,1
+afri1274-1-17-1,,afri1274-1,17,ˈseːvəntin,ˈseːvəntin,[],,['chan2019'],,False,False,sewentien,1
+afri1274-1-18-1,,afri1274-1,18,ˈaxtin,ˈaxtin,[],,['chan2019'],,False,False,agttien,1
+afri1274-1-19-1,,afri1274-1,19,ˈneːxəntin,ˈneːxəntin,[],,['chan2019'],,False,False,negentien,1
+afri1274-1-20-1,,afri1274-1,20,ˈtʷəntəx,ˈtʷəntəx,[],,['chan2019'],,False,False,twintig,1
+afri1274-1-21-1,,afri1274-1,21,ˈeːnɛn ˌtʷəntəx,ˈeːnɛn ˌtʷəntəx,[],,['chan2019'],,False,False,een en twintig,1
+afri1274-1-22-1,,afri1274-1,22,ˈtʷeːɛn ˌtʷəntəx,ˈtʷeːɛn ˌtʷəntəx,[],,['chan2019'],,False,False,tweeen twintig,1
+afri1274-1-23-1,,afri1274-1,23,ˈdri ɛn ˌtʷəntəx,ˈdri ɛn ˌtʷəntəx,[],,['chan2019'],,False,False,drie en twintig,1
+afri1274-1-24-1,,afri1274-1,24,ˈfir ɛn ˌtʷəntəx ),ˈfir ɛn ˌtʷəntəx ),[],,['chan2019'],,False,True,vier en twintig (,1
+afri1274-1-25-1,,afri1274-1,25,ˈfəif ɛn ˌtʷəntəx,ˈfəif ɛn ˌtʷəntəx,[],,['chan2019'],,False,False,vyf en twintig,1
+afri1274-1-26-1,,afri1274-1,26,ˈsɛs ɛn ˌtʷəntəx,ˈsɛs ɛn ˌtʷəntəx,[],,['chan2019'],,False,False,ses en twintig,1
+afri1274-1-27-1,,afri1274-1,27,ˈseːvə ɛn ˌtʷəntəx,ˈseːvə ɛn ˌtʷəntəx,[],,['chan2019'],,False,False,sewe en twintig,1
+afri1274-1-28-1,,afri1274-1,28,ˈax(t) ɛn ˌtʷəntəx,ˈax(t) ɛn ˌtʷəntəx,[],,['chan2019'],,False,False,agt en twintig,1
+afri1274-1-29-1,,afri1274-1,29,ˈneːxə ɛn ˌtʷəntəx,ˈneːxə ɛn ˌtʷəntəx,[],,['chan2019'],,False,False,nege en twintig,1
+afri1274-1-30-1,,afri1274-1,30,ˈdɛrtəx,ˈdɛrtəx,[],,['chan2019'],,False,False,dertig,1
+afri1274-1-40-1,,afri1274-1,40,ˈfeːrtəx,ˈfeːrtəx,[],,['chan2019'],,False,False,veertig,1
+afri1274-1-50-1,,afri1274-1,50,ˈfəiftəx,ˈfəiftəx,[],,['chan2019'],,False,False,vyftig,1
+afri1274-1-60-1,,afri1274-1,60,ˈsɛkstəx,ˈsɛkstəx,[],,['chan2019'],,False,False,sestig,1
+afri1274-1-70-1,,afri1274-1,70,ˈsevəːntəx,ˈsevəːntəx,[],,['chan2019'],,False,False,sewentig,1
+afri1274-1-80-1,,afri1274-1,80,ˈtaxtəx,ˈtaxtəx,[],,['chan2019'],,False,False,tagtig,1
+afri1274-1-90-1,,afri1274-1,90,ˈneːgəntəx,ˈneːgəntəx,[],,['chan2019'],,False,False,negentig,1
+afri1274-1-100-1,,afri1274-1,100,ˈhɔndərt,ˈhɔndərt,[],,['chan2019'],,False,False,honderd,1
+afri1274-1-200-1,,afri1274-1,200,ˈtʷeːˌhɔndərt,ˈtʷeːˌhɔndərt,[],,['chan2019'],,False,False,tweehondert,1
+afri1274-1-1000-1,,afri1274-1,1000,ˈdœysənt,ˈdœysənt,[],,['chan2019'],,False,False,duisend,1
+afri1274-1-2000-1,,afri1274-1,2000,ˈtʷeːdœysənt,ˈtʷeːdœysənt,[],,['chan2019'],,False,False,tweeduisend,1

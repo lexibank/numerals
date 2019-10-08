@@ -1,23 +1,23 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2599-2-1-1,,west2599-2,1,eɡata,eɡata,[],(lit: ''little finger'' ),[],,False,False,,2
-west2599-2-2-1,,west2599-2,2,laapo,laapo,[],(lit: ''ring finger'' ),[],,False,False,,2
-west2599-2-3-1,,west2599-2,3,repo,repo,[],(lit: ''middle finger'' ),[],,False,False,,2
-west2599-2-4-1,,west2599-2,4,ki,ki,[],(lit: ''hand'' ),[],,False,False,,2
-west2599-2-5-1,,west2599-2,5,konde,konde,[],(lit: ''thumb''),[],,False,False,,2
-west2599-2-6-1,,west2599-2,6,kina konde pandane (lit: ''na'' is a possessive suffix; ''pandane'' or ''pamende'' is ''one'',kina konde pandane (lit: ''na'' is a possessive suffix; ''pandane'' or ''pamende'' is ''one'',[],,[],,False,True,,2
-west2599-2-7-1,,west2599-2,7,kina konde laapo,kina konde laapo,[],,[],,False,False,,2
-west2599-2-8-1,,west2599-2,8,ki laapo,ki laapo,[],,[],,False,False,,2
-west2599-2-9-1,,west2599-2,9,ki laapona konde,ki laapona konde,[],,[],,False,False,,2
-west2599-2-10-1,,west2599-2,10,ki laapona konde repo,ki laapona konde repo,[],,[],,False,False,,2
-west2599-2-11-1,,west2599-2,11,ki repo,ki repo,[],,[],,False,False,,2
-west2599-2-12-1,,west2599-2,12,ki repona,ki repona,[],,[],,False,False,,2
-west2599-2-13-1,,west2599-2,13,ki repona konde,ki repona konde,[],,[],,False,False,,2
-west2599-2-14-1,,west2599-2,14,ki repona konde laapo,ki repona konde laapo,[],,[],,False,False,,2
-west2599-2-15-1,,west2599-2,15,ki repona konde repo,ki repona konde repo,[],,[],,False,False,,2
-west2599-2-16-1,,west2599-2,16,ki maala,ki maala,[],,[],,False,False,,2
-west2599-2-17-1,,west2599-2,17,ki maalana konde,ki maalana konde,[],,[],,False,False,,2
-west2599-2-18-1,,west2599-2,18,ki maalana konde laapo,ki maalana konde laapo,[],,[],,False,False,,2
-west2599-2-19-1,,west2599-2,19,ki maalana konde repo,ki maalana konde repo,[],,[],,False,False,,2
-west2599-2-20-1,,west2599-2,20,ki su,ki su,[],,[],,False,False,,2
-west2599-2-100-1,,west2599-2,100,paapu,paapu,[],,[],,False,False,,2
-west2599-2-200-1,,west2599-2,200,paapu laapo,paapu laapo,[],,[],,False,False,,2
+west2599-2-1-1,,west2599-2,1,eɡata,eɡata,[],(lit: ''little finger'' ),['chan2019'],,False,False,,2
+west2599-2-2-1,,west2599-2,2,laapo,laapo,[],(lit: ''ring finger'' ),['chan2019'],,False,False,,2
+west2599-2-3-1,,west2599-2,3,repo,repo,[],(lit: ''middle finger'' ),['chan2019'],,False,False,,2
+west2599-2-4-1,,west2599-2,4,ki,ki,[],(lit: ''hand'' ),['chan2019'],,False,False,,2
+west2599-2-5-1,,west2599-2,5,konde,konde,[],(lit: ''thumb''),['chan2019'],,False,False,,2
+west2599-2-6-1,,west2599-2,6,kina konde pandane (lit: ''na'' is a possessive suffix; ''pandane'' or ''pamende'' is ''one'',kina konde pandane (lit: ''na'' is a possessive suffix; ''pandane'' or ''pamende'' is ''one'',[],,['chan2019'],,False,True,,2
+west2599-2-7-1,,west2599-2,7,kina konde laapo,kina konde laapo,[],,['chan2019'],,False,False,,2
+west2599-2-8-1,,west2599-2,8,ki laapo,ki laapo,[],,['chan2019'],,False,False,,2
+west2599-2-9-1,,west2599-2,9,ki laapona konde,ki laapona konde,[],,['chan2019'],,False,False,,2
+west2599-2-10-1,,west2599-2,10,ki laapona konde repo,ki laapona konde repo,[],,['chan2019'],,False,False,,2
+west2599-2-11-1,,west2599-2,11,ki repo,ki repo,[],,['chan2019'],,False,False,,2
+west2599-2-12-1,,west2599-2,12,ki repona,ki repona,[],,['chan2019'],,False,False,,2
+west2599-2-13-1,,west2599-2,13,ki repona konde,ki repona konde,[],,['chan2019'],,False,False,,2
+west2599-2-14-1,,west2599-2,14,ki repona konde laapo,ki repona konde laapo,[],,['chan2019'],,False,False,,2
+west2599-2-15-1,,west2599-2,15,ki repona konde repo,ki repona konde repo,[],,['chan2019'],,False,False,,2
+west2599-2-16-1,,west2599-2,16,ki maala,ki maala,[],,['chan2019'],,False,False,,2
+west2599-2-17-1,,west2599-2,17,ki maalana konde,ki maalana konde,[],,['chan2019'],,False,False,,2
+west2599-2-18-1,,west2599-2,18,ki maalana konde laapo,ki maalana konde laapo,[],,['chan2019'],,False,False,,2
+west2599-2-19-1,,west2599-2,19,ki maalana konde repo,ki maalana konde repo,[],,['chan2019'],,False,False,,2
+west2599-2-20-1,,west2599-2,20,ki su,ki su,[],,['chan2019'],,False,False,,2
+west2599-2-100-1,,west2599-2,100,paapu,paapu,[],,['chan2019'],,False,False,,2
+west2599-2-200-1,,west2599-2,200,paapu laapo,paapu laapo,[],,['chan2019'],,False,False,,2

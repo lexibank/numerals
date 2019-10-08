@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-paci1278-1-1-1,,paci1278-1,1,allriluq,allriluq,[],,[],,False,False,,1
-paci1278-1-2-1,,paci1278-1,2,malʔuk,malʔuk,[],,[],,False,False,,1
-paci1278-1-3-1,,paci1278-1,3,piŋajun,piŋajun,[],,[],,False,False,,1
-paci1278-1-4-1,,paci1278-1,4,staːman,staːman,[],,[],,False,False,,1
-paci1278-1-5-1,,paci1278-1,5,taɬiman,taɬiman,[],,[],,False,False,,1
-paci1278-1-6-1,,paci1278-1,6,aʁwilɡən,aʁwilɡən,[],,[],,False,False,,1
-paci1278-1-7-1,,paci1278-1,7,maɬʀuːɡin,maɬʀuːɡin,[],,[],,False,False,,1
-paci1278-1-8-1,,paci1278-1,8,iŋlulɡən,iŋlulɡən,[],,[],,False,False,,1
-paci1278-1-9-1,,paci1278-1,9,qulŋujan,qulŋujan,[],,[],,False,False,,1
-paci1278-1-10-1,,paci1278-1,10,qulən,qulən,[],,[],,False,False,,1
-paci1278-1-11-1,,paci1278-1,11,qula allriluq,qula allriluq,[],,[],,False,False,,1
-paci1278-1-12-1,,paci1278-1,12,qula malʔuk,qula malʔuk,[],,[],,False,False,,1
-paci1278-1-13-1,,paci1278-1,13,qula piŋajun,qula piŋajun,[],,[],,False,False,,1
-paci1278-1-14-1,,paci1278-1,14,qula staːman,qula staːman,[],,[],,False,False,,1
-paci1278-1-15-1,,paci1278-1,15,qula taɬiman,qula taɬiman,[],,[],,False,False,,1
-paci1278-1-16-1,,paci1278-1,16,qula aʁvilɡən,qula aʁvilɡən,[],,[],,False,False,,1
-paci1278-1-17-1,,paci1278-1,17,qula maɬʀuːɡin,qula maɬʀuːɡin,[],,[],,False,False,,1
-paci1278-1-18-1,,paci1278-1,18,qula iŋlulɡən,qula iŋlulɡən,[],,[],,False,False,,1
-paci1278-1-19-1,,paci1278-1,19,qula qulŋujan,qula qulŋujan,[],,[],,False,False,,1
-paci1278-1-20-1,,paci1278-1,20,suinaq,suinaq,[],,[],,False,False,,1
-paci1278-1-21-1,,paci1278-1,21,suinaq allriluq,suinaq allriluq,[],,[],,False,False,,1
-paci1278-1-22-1,,paci1278-1,22,suinaq malʔuk,suinaq malʔuk,[],,[],,False,False,,1
-paci1278-1-23-1,,paci1278-1,23,suinaq piŋajun,suinaq piŋajun,[],,[],,False,False,,1
-paci1278-1-24-1,,paci1278-1,24,suinaq staːman,suinaq staːman,[],,[],,False,False,,1
-paci1278-1-25-1,,paci1278-1,25,suinaq taɬiman,suinaq taɬiman,[],,[],,False,False,,1
-paci1278-1-26-1,,paci1278-1,26,suinaq aʁvilɡən,suinaq aʁvilɡən,[],,[],,False,False,,1
-paci1278-1-27-1,,paci1278-1,27,suinaq maɬʀuːɡin,suinaq maɬʀuːɡin,[],,[],,False,False,,1
-paci1278-1-28-1,,paci1278-1,28,suinaq iŋlulɡən,suinaq iŋlulɡən,[],,[],,False,False,,1
-paci1278-1-29-1,,paci1278-1,29,suinaq qulŋujan,suinaq qulŋujan,[],,[],,False,False,,1
-paci1278-1-30-1,,paci1278-1,30,piŋajun qula,piŋajun qula,[],,[],,False,False,,1
-paci1278-1-30-2,,paci1278-1,30,suinaq qulnek ciplluku,suinaq qulnek ciplluku,[],,[],,False,False,,1
-paci1278-1-40-1,,paci1278-1,40,staːman qula,staːman qula,[],,[],,False,False,,1
-paci1278-1-40-2,,paci1278-1,40,malʔuk suinaak,malʔuk suinaak,[],,[],,False,False,,1
-paci1278-1-50-1,,paci1278-1,50,taɬiman qula,taɬiman qula,[],,[],,False,False,,1
-paci1278-1-60-1,,paci1278-1,60,aʁwilɡən qula,aʁwilɡən qula,[],,[],,False,False,,1
-paci1278-1-70-1,,paci1278-1,70,maɬʀuːɡin qula,maɬʀuːɡin qula,[],,[],,False,False,,1
-paci1278-1-80-1,,paci1278-1,80,iŋlulɡən qula,iŋlulɡən qula,[],,[],,False,False,,1
-paci1278-1-90-1,,paci1278-1,90,qulŋujan qula,qulŋujan qula,[],,[],,False,False,,1
-paci1278-1-100-1,,paci1278-1,100,taɬiman suinaːt,taɬiman suinaːt,[],( 5 x 20 ),[],,False,False,,1
-paci1278-1-200-1,,paci1278-1,200,qula suinaːt,qula suinaːt,[],( 10 x 20 ),[],,False,False,,1
-paci1278-1-400-1,,paci1278-1,400,suinaq suinaːt,suinaq suinaːt,[],( 20 x 20 ),[],,False,False,,1
+paci1278-1-1-1,,paci1278-1,1,allriluq,allriluq,[],,['chan2019'],,False,False,,1
+paci1278-1-2-1,,paci1278-1,2,malʔuk,malʔuk,[],,['chan2019'],,False,False,,1
+paci1278-1-3-1,,paci1278-1,3,piŋajun,piŋajun,[],,['chan2019'],,False,False,,1
+paci1278-1-4-1,,paci1278-1,4,staːman,staːman,[],,['chan2019'],,False,False,,1
+paci1278-1-5-1,,paci1278-1,5,taɬiman,taɬiman,[],,['chan2019'],,False,False,,1
+paci1278-1-6-1,,paci1278-1,6,aʁwilɡən,aʁwilɡən,[],,['chan2019'],,False,False,,1
+paci1278-1-7-1,,paci1278-1,7,maɬʀuːɡin,maɬʀuːɡin,[],,['chan2019'],,False,False,,1
+paci1278-1-8-1,,paci1278-1,8,iŋlulɡən,iŋlulɡən,[],,['chan2019'],,False,False,,1
+paci1278-1-9-1,,paci1278-1,9,qulŋujan,qulŋujan,[],,['chan2019'],,False,False,,1
+paci1278-1-10-1,,paci1278-1,10,qulən,qulən,[],,['chan2019'],,False,False,,1
+paci1278-1-11-1,,paci1278-1,11,qula allriluq,qula allriluq,[],,['chan2019'],,False,False,,1
+paci1278-1-12-1,,paci1278-1,12,qula malʔuk,qula malʔuk,[],,['chan2019'],,False,False,,1
+paci1278-1-13-1,,paci1278-1,13,qula piŋajun,qula piŋajun,[],,['chan2019'],,False,False,,1
+paci1278-1-14-1,,paci1278-1,14,qula staːman,qula staːman,[],,['chan2019'],,False,False,,1
+paci1278-1-15-1,,paci1278-1,15,qula taɬiman,qula taɬiman,[],,['chan2019'],,False,False,,1
+paci1278-1-16-1,,paci1278-1,16,qula aʁvilɡən,qula aʁvilɡən,[],,['chan2019'],,False,False,,1
+paci1278-1-17-1,,paci1278-1,17,qula maɬʀuːɡin,qula maɬʀuːɡin,[],,['chan2019'],,False,False,,1
+paci1278-1-18-1,,paci1278-1,18,qula iŋlulɡən,qula iŋlulɡən,[],,['chan2019'],,False,False,,1
+paci1278-1-19-1,,paci1278-1,19,qula qulŋujan,qula qulŋujan,[],,['chan2019'],,False,False,,1
+paci1278-1-20-1,,paci1278-1,20,suinaq,suinaq,[],,['chan2019'],,False,False,,1
+paci1278-1-21-1,,paci1278-1,21,suinaq allriluq,suinaq allriluq,[],,['chan2019'],,False,False,,1
+paci1278-1-22-1,,paci1278-1,22,suinaq malʔuk,suinaq malʔuk,[],,['chan2019'],,False,False,,1
+paci1278-1-23-1,,paci1278-1,23,suinaq piŋajun,suinaq piŋajun,[],,['chan2019'],,False,False,,1
+paci1278-1-24-1,,paci1278-1,24,suinaq staːman,suinaq staːman,[],,['chan2019'],,False,False,,1
+paci1278-1-25-1,,paci1278-1,25,suinaq taɬiman,suinaq taɬiman,[],,['chan2019'],,False,False,,1
+paci1278-1-26-1,,paci1278-1,26,suinaq aʁvilɡən,suinaq aʁvilɡən,[],,['chan2019'],,False,False,,1
+paci1278-1-27-1,,paci1278-1,27,suinaq maɬʀuːɡin,suinaq maɬʀuːɡin,[],,['chan2019'],,False,False,,1
+paci1278-1-28-1,,paci1278-1,28,suinaq iŋlulɡən,suinaq iŋlulɡən,[],,['chan2019'],,False,False,,1
+paci1278-1-29-1,,paci1278-1,29,suinaq qulŋujan,suinaq qulŋujan,[],,['chan2019'],,False,False,,1
+paci1278-1-30-1,,paci1278-1,30,piŋajun qula,piŋajun qula,[],,['chan2019'],,False,False,,1
+paci1278-1-30-2,,paci1278-1,30,suinaq qulnek ciplluku,suinaq qulnek ciplluku,[],,['chan2019'],,False,False,,1
+paci1278-1-40-1,,paci1278-1,40,staːman qula,staːman qula,[],,['chan2019'],,False,False,,1
+paci1278-1-40-2,,paci1278-1,40,malʔuk suinaak,malʔuk suinaak,[],,['chan2019'],,False,False,,1
+paci1278-1-50-1,,paci1278-1,50,taɬiman qula,taɬiman qula,[],,['chan2019'],,False,False,,1
+paci1278-1-60-1,,paci1278-1,60,aʁwilɡən qula,aʁwilɡən qula,[],,['chan2019'],,False,False,,1
+paci1278-1-70-1,,paci1278-1,70,maɬʀuːɡin qula,maɬʀuːɡin qula,[],,['chan2019'],,False,False,,1
+paci1278-1-80-1,,paci1278-1,80,iŋlulɡən qula,iŋlulɡən qula,[],,['chan2019'],,False,False,,1
+paci1278-1-90-1,,paci1278-1,90,qulŋujan qula,qulŋujan qula,[],,['chan2019'],,False,False,,1
+paci1278-1-100-1,,paci1278-1,100,taɬiman suinaːt,taɬiman suinaːt,[],( 5 x 20 ),['chan2019'],,False,False,,1
+paci1278-1-200-1,,paci1278-1,200,qula suinaːt,qula suinaːt,[],( 10 x 20 ),['chan2019'],,False,False,,1
+paci1278-1-400-1,,paci1278-1,400,suinaq suinaːt,suinaq suinaːt,[],( 20 x 20 ),['chan2019'],,False,False,,1

@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-iraq1241-1-1-1,,iraq1241-1,1,wák,wák,[],,[],,False,False,,1
-iraq1241-1-2-1,,iraq1241-1,2,tsár,tsár,[],,[],,False,False,,1
-iraq1241-1-3-1,,iraq1241-1,3,tám,tám,[],,[],,False,False,,1
-iraq1241-1-4-1,,iraq1241-1,4,tsíyáħ,tsíyáħ,[],,[],,False,False,,1
-iraq1241-1-5-1,,iraq1241-1,5,kooán,kooán,[],,[],,False,False,,1
-iraq1241-1-6-1,,iraq1241-1,6,laħoóʔ,laħoóʔ,[],,[],,False,False,,1
-iraq1241-1-7-1,,iraq1241-1,7,faaɴw,faaɴw,[],,[],,False,False,,1
-iraq1241-1-8-1,,iraq1241-1,8,dakaát,dakaát,[],,[],,False,False,,1
-iraq1241-1-9-1,,iraq1241-1,9,ɡwaleél,ɡwaleél,[],,[],,False,False,,1
-iraq1241-1-10-1,,iraq1241-1,10,mibaaɴw,mibaaɴw,[],,[],,False,False,,1
-iraq1241-1-11-1,,iraq1241-1,11,mibaá nee wák,mibaá nee wák,[],,[],,False,False,,1
-iraq1241-1-12-1,,iraq1241-1,12,mibaá nee tsár,mibaá nee tsár,[],,[],,False,False,,1
-iraq1241-1-13-1,,iraq1241-1,13,mibaá nee tám,mibaá nee tám,[],,[],,False,False,,1
-iraq1241-1-14-1,,iraq1241-1,14,mibaá nee tsíyáħ,mibaá nee tsíyáħ,[],,[],,False,False,,1
-iraq1241-1-15-1,,iraq1241-1,15,mibaá nee kooán,mibaá nee kooán,[],,[],,False,False,,1
-iraq1241-1-16-1,,iraq1241-1,16,mibaá nee laħoóʔ,mibaá nee laħoóʔ,[],,[],,False,False,,1
-iraq1241-1-17-1,,iraq1241-1,17,mibaá nee faaɴw,mibaá nee faaɴw,[],,[],,False,False,,1
-iraq1241-1-18-1,,iraq1241-1,18,mibaá nee dakaát,mibaá nee dakaát,[],,[],,False,False,,1
-iraq1241-1-19-1,,iraq1241-1,19,mibaá nee ɡwaleél,mibaá nee ɡwaleél,[],,[],,False,False,,1
-iraq1241-1-20-1,,iraq1241-1,20,mibeeri tsár,mibeeri tsár,[],,[],,False,False,,1
-iraq1241-1-21-1,,iraq1241-1,21,mibeeri tsár nee wak,mibeeri tsár nee wak,[],,[],,False,False,,1
-iraq1241-1-22-1,,iraq1241-1,22,mibeeri tsár nee tsár,mibeeri tsár nee tsár,[],,[],,False,False,,1
-iraq1241-1-23-1,,iraq1241-1,23,mibeeri tsár nee tám,mibeeri tsár nee tám,[],,[],,False,False,,1
-iraq1241-1-24-1,,iraq1241-1,24,mibeeri tsár nee tsíyáħ,mibeeri tsár nee tsíyáħ,[],,[],,False,False,,1
-iraq1241-1-25-1,,iraq1241-1,25,mibeeri tsár nee kooán,mibeeri tsár nee kooán,[],,[],,False,False,,1
-iraq1241-1-26-1,,iraq1241-1,26,mibeeri tsár nee laħoóʔ,mibeeri tsár nee laħoóʔ,[],,[],,False,False,,1
-iraq1241-1-27-1,,iraq1241-1,27,mibeeri tsár nee faaɴw,mibeeri tsár nee faaɴw,[],,[],,False,False,,1
-iraq1241-1-28-1,,iraq1241-1,28,mibeeri tsár nee dakaát,mibeeri tsár nee dakaát,[],,[],,False,False,,1
-iraq1241-1-29-1,,iraq1241-1,29,mibeeri tsár nee ɡwaleél,mibeeri tsár nee ɡwaleél,[],,[],,False,False,,1
-iraq1241-1-30-1,,iraq1241-1,30,mibeeri tám,mibeeri tám,[],,[],,False,False,,1
-iraq1241-1-40-1,,iraq1241-1,40,mibeeri tsíyáħ,mibeeri tsíyáħ,[],,[],,False,False,,1
-iraq1241-1-50-1,,iraq1241-1,50,mibeeri kooán,mibeeri kooán,[],,[],,False,False,,1
-iraq1241-1-60-1,,iraq1241-1,60,mibeeri laħoóʔ,mibeeri laħoóʔ,[],,[],,False,False,,1
-iraq1241-1-70-1,,iraq1241-1,70,mibeeri faaɴw,mibeeri faaɴw,[],,[],,False,False,,1
-iraq1241-1-80-1,,iraq1241-1,80,mibeeri dakaát,mibeeri dakaát,[],,[],,False,False,,1
-iraq1241-1-90-1,,iraq1241-1,90,mibeeri ɡwaleél,mibeeri ɡwaleél,[],,[],,False,False,,1
-iraq1241-1-100-1,,iraq1241-1,100,tsiiru,tsiiru,[],,[],,False,False,,1
-iraq1241-1-100-2,,iraq1241-1,100,tsiruú wák,tsiruú wák,[],,[],,False,False,,1
-iraq1241-1-200-1,,iraq1241-1,200,tsiire tsár,tsiire tsár,[],,[],,False,False,,1
-iraq1241-1-1000-1,,iraq1241-1,1000,kumu,kumu,[],,[],,False,False,,1
-iraq1241-1-1000-2,,iraq1241-1,1000,kumuú wák,kumuú wák,[],,[],,False,False,,1
-iraq1241-1-2000-1,,iraq1241-1,2000,kumér tsár,kumér tsár,[],,[],,False,False,,1
+iraq1241-1-1-1,,iraq1241-1,1,wák,wák,[],,['chan2019'],,False,False,,1
+iraq1241-1-2-1,,iraq1241-1,2,tsár,tsár,[],,['chan2019'],,False,False,,1
+iraq1241-1-3-1,,iraq1241-1,3,tám,tám,[],,['chan2019'],,False,False,,1
+iraq1241-1-4-1,,iraq1241-1,4,tsíyáħ,tsíyáħ,[],,['chan2019'],,False,False,,1
+iraq1241-1-5-1,,iraq1241-1,5,kooán,kooán,[],,['chan2019'],,False,False,,1
+iraq1241-1-6-1,,iraq1241-1,6,laħoóʔ,laħoóʔ,[],,['chan2019'],,False,False,,1
+iraq1241-1-7-1,,iraq1241-1,7,faaɴw,faaɴw,[],,['chan2019'],,False,False,,1
+iraq1241-1-8-1,,iraq1241-1,8,dakaát,dakaát,[],,['chan2019'],,False,False,,1
+iraq1241-1-9-1,,iraq1241-1,9,ɡwaleél,ɡwaleél,[],,['chan2019'],,False,False,,1
+iraq1241-1-10-1,,iraq1241-1,10,mibaaɴw,mibaaɴw,[],,['chan2019'],,False,False,,1
+iraq1241-1-11-1,,iraq1241-1,11,mibaá nee wák,mibaá nee wák,[],,['chan2019'],,False,False,,1
+iraq1241-1-12-1,,iraq1241-1,12,mibaá nee tsár,mibaá nee tsár,[],,['chan2019'],,False,False,,1
+iraq1241-1-13-1,,iraq1241-1,13,mibaá nee tám,mibaá nee tám,[],,['chan2019'],,False,False,,1
+iraq1241-1-14-1,,iraq1241-1,14,mibaá nee tsíyáħ,mibaá nee tsíyáħ,[],,['chan2019'],,False,False,,1
+iraq1241-1-15-1,,iraq1241-1,15,mibaá nee kooán,mibaá nee kooán,[],,['chan2019'],,False,False,,1
+iraq1241-1-16-1,,iraq1241-1,16,mibaá nee laħoóʔ,mibaá nee laħoóʔ,[],,['chan2019'],,False,False,,1
+iraq1241-1-17-1,,iraq1241-1,17,mibaá nee faaɴw,mibaá nee faaɴw,[],,['chan2019'],,False,False,,1
+iraq1241-1-18-1,,iraq1241-1,18,mibaá nee dakaát,mibaá nee dakaát,[],,['chan2019'],,False,False,,1
+iraq1241-1-19-1,,iraq1241-1,19,mibaá nee ɡwaleél,mibaá nee ɡwaleél,[],,['chan2019'],,False,False,,1
+iraq1241-1-20-1,,iraq1241-1,20,mibeeri tsár,mibeeri tsár,[],,['chan2019'],,False,False,,1
+iraq1241-1-21-1,,iraq1241-1,21,mibeeri tsár nee wak,mibeeri tsár nee wak,[],,['chan2019'],,False,False,,1
+iraq1241-1-22-1,,iraq1241-1,22,mibeeri tsár nee tsár,mibeeri tsár nee tsár,[],,['chan2019'],,False,False,,1
+iraq1241-1-23-1,,iraq1241-1,23,mibeeri tsár nee tám,mibeeri tsár nee tám,[],,['chan2019'],,False,False,,1
+iraq1241-1-24-1,,iraq1241-1,24,mibeeri tsár nee tsíyáħ,mibeeri tsár nee tsíyáħ,[],,['chan2019'],,False,False,,1
+iraq1241-1-25-1,,iraq1241-1,25,mibeeri tsár nee kooán,mibeeri tsár nee kooán,[],,['chan2019'],,False,False,,1
+iraq1241-1-26-1,,iraq1241-1,26,mibeeri tsár nee laħoóʔ,mibeeri tsár nee laħoóʔ,[],,['chan2019'],,False,False,,1
+iraq1241-1-27-1,,iraq1241-1,27,mibeeri tsár nee faaɴw,mibeeri tsár nee faaɴw,[],,['chan2019'],,False,False,,1
+iraq1241-1-28-1,,iraq1241-1,28,mibeeri tsár nee dakaát,mibeeri tsár nee dakaát,[],,['chan2019'],,False,False,,1
+iraq1241-1-29-1,,iraq1241-1,29,mibeeri tsár nee ɡwaleél,mibeeri tsár nee ɡwaleél,[],,['chan2019'],,False,False,,1
+iraq1241-1-30-1,,iraq1241-1,30,mibeeri tám,mibeeri tám,[],,['chan2019'],,False,False,,1
+iraq1241-1-40-1,,iraq1241-1,40,mibeeri tsíyáħ,mibeeri tsíyáħ,[],,['chan2019'],,False,False,,1
+iraq1241-1-50-1,,iraq1241-1,50,mibeeri kooán,mibeeri kooán,[],,['chan2019'],,False,False,,1
+iraq1241-1-60-1,,iraq1241-1,60,mibeeri laħoóʔ,mibeeri laħoóʔ,[],,['chan2019'],,False,False,,1
+iraq1241-1-70-1,,iraq1241-1,70,mibeeri faaɴw,mibeeri faaɴw,[],,['chan2019'],,False,False,,1
+iraq1241-1-80-1,,iraq1241-1,80,mibeeri dakaát,mibeeri dakaát,[],,['chan2019'],,False,False,,1
+iraq1241-1-90-1,,iraq1241-1,90,mibeeri ɡwaleél,mibeeri ɡwaleél,[],,['chan2019'],,False,False,,1
+iraq1241-1-100-1,,iraq1241-1,100,tsiiru,tsiiru,[],,['chan2019'],,False,False,,1
+iraq1241-1-100-2,,iraq1241-1,100,tsiruú wák,tsiruú wák,[],,['chan2019'],,False,False,,1
+iraq1241-1-200-1,,iraq1241-1,200,tsiire tsár,tsiire tsár,[],,['chan2019'],,False,False,,1
+iraq1241-1-1000-1,,iraq1241-1,1000,kumu,kumu,[],,['chan2019'],,False,False,,1
+iraq1241-1-1000-2,,iraq1241-1,1000,kumuú wák,kumuú wák,[],,['chan2019'],,False,False,,1
+iraq1241-1-2000-1,,iraq1241-1,2000,kumér tsár,kumér tsár,[],,['chan2019'],,False,False,,1

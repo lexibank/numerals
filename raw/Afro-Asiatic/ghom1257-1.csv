@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ghom1257-1-1-1,,ghom1257-1,1,waħit,waħit,[],,[],,False,False,,1
-ghom1257-1-1-2,,ghom1257-1,1,yan,yan,[],(mac.),[],,False,False,,1
-ghom1257-1-1-3,,ghom1257-1,1,yaθ,yaθ,[],(fem.),[],,False,False,,1
-ghom1257-1-2-1,,ghom1257-1,2,ʒuʒ,ʒuʒ,[],,[],,False,False,,1
-ghom1257-1-2-2,,ghom1257-1,2,tnayən,tnayən,[],,[],,False,False,,1
-ghom1257-1-3-1,,ghom1257-1,3,tlaθa,tlaθa,[],,[],,False,False,,1
-ghom1257-1-4-1,,ghom1257-1,4,arˤbˤa,arˤbˤa,[],,[],,False,False,,1
-ghom1257-1-5-1,,ghom1257-1,5,xəmsa,xəmsa,[],,[],,False,False,,1
-ghom1257-1-6-1,,ghom1257-1,6,sətta,sətta,[],,[],,False,False,,1
-ghom1257-1-7-1,,ghom1257-1,7,səβbʕa,səβbʕa,[],,[],,False,False,,1
-ghom1257-1-8-1,,ghom1257-1,8,tmənya,tmənya,[],,[],,False,False,,1
-ghom1257-1-9-1,,ghom1257-1,9,təsʕuθ,təsʕuθ,[],,[],,False,False,,1
-ghom1257-1-10-1,,ghom1257-1,10,ʕəʃra,ʕəʃra,[],,[],,False,False,,1
-ghom1257-1-11-1,,ghom1257-1,11,ħðaʃ,ħðaʃ,[],,[],,False,False,,1
-ghom1257-1-12-1,,ghom1257-1,12,tˤnaʃ,tˤnaʃ,[],,[],,False,False,,1
-ghom1257-1-13-1,,ghom1257-1,13,tləttˤaʃ,tləttˤaʃ,[],,[],,False,False,,1
-ghom1257-1-14-1,,ghom1257-1,14,arˤbəˤtˤaʃ,arˤbəˤtˤaʃ,[],,[],,False,False,,1
-ghom1257-1-15-1,,ghom1257-1,15,xəmməstˤaʃ,xəmməstˤaʃ,[],,[],,False,False,,1
-ghom1257-1-16-1,,ghom1257-1,16,səttˤaʃ,səttˤaʃ,[],,[],,False,False,,1
-ghom1257-1-17-1,,ghom1257-1,17,sβaʕtˤaʃ,sβaʕtˤaʃ,[],,[],,False,False,,1
-ghom1257-1-18-1,,ghom1257-1,18,tməntˤaʃ,tməntˤaʃ,[],,[],,False,False,,1
-ghom1257-1-19-1,,ghom1257-1,19,təsʕtˤaʃ,təsʕtˤaʃ,[],,[],,False,False,,1
-ghom1257-1-20-1,,ghom1257-1,20,ʕiʃrin,ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-21-1,,ghom1257-1,21,wʌħɜhd u ʕiʃrin,wʌħɜhd u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-22-1,,ghom1257-1,22,tnayən u ʕiʃrin,tnayən u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-23-1,,ghom1257-1,23,tlaθa u ʕiʃrin,tlaθa u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-24-1,,ghom1257-1,24,arˤbˤa u ʕiʃrin,arˤbˤa u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-25-1,,ghom1257-1,25,xəmsa u ʕiʃrin,xəmsa u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-26-1,,ghom1257-1,26,sətta u ʕiʃrin,sətta u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-27-1,,ghom1257-1,27,səβbʕa u ʕiʃrin,səβbʕa u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-28-1,,ghom1257-1,28,tmənya u ʕiʃrin,tmənya u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-29-1,,ghom1257-1,29,təsʕa u ʕiʃrin,təsʕa u ʕiʃrin,[],,[],,False,False,,1
-ghom1257-1-30-1,,ghom1257-1,30,tlaθin,tlaθin,[],,[],,False,False,,1
-ghom1257-1-40-1,,ghom1257-1,40,arˤbˤin,arˤbˤin,[],,[],,False,False,,1
-ghom1257-1-50-1,,ghom1257-1,50,xəmsin,xəmsin,[],,[],,False,False,,1
-ghom1257-1-60-1,,ghom1257-1,60,səttin,səttin,[],,[],,False,False,,1
-ghom1257-1-70-1,,ghom1257-1,70,səβbʕin,səβbʕin,[],,[],,False,False,,1
-ghom1257-1-80-1,,ghom1257-1,80,tmanin,tmanin,[],,[],,False,False,,1
-ghom1257-1-90-1,,ghom1257-1,90,təsʕin,təsʕin,[],,[],,False,False,,1
-ghom1257-1-100-1,,ghom1257-1,100,mya,mya,[],,[],,False,False,,1
-ghom1257-1-200-1,,ghom1257-1,200,myaθayn,myaθayn,[],,[],,False,False,,1
-ghom1257-1-1000-1,,ghom1257-1,1000,alef,alef,[],,[],,False,False,,1
-ghom1257-1-2000-1,,ghom1257-1,2000,alfayn,alfayn,[],,[],,False,False,,1
+ghom1257-1-1-1,,ghom1257-1,1,waħit,waħit,[],,['chan2019'],,False,False,,1
+ghom1257-1-1-2,,ghom1257-1,1,yan,yan,[],(mac.),['chan2019'],,False,False,,1
+ghom1257-1-1-3,,ghom1257-1,1,yaθ,yaθ,[],(fem.),['chan2019'],,False,False,,1
+ghom1257-1-2-1,,ghom1257-1,2,ʒuʒ,ʒuʒ,[],,['chan2019'],,False,False,,1
+ghom1257-1-2-2,,ghom1257-1,2,tnayən,tnayən,[],,['chan2019'],,False,False,,1
+ghom1257-1-3-1,,ghom1257-1,3,tlaθa,tlaθa,[],,['chan2019'],,False,False,,1
+ghom1257-1-4-1,,ghom1257-1,4,arˤbˤa,arˤbˤa,[],,['chan2019'],,False,False,,1
+ghom1257-1-5-1,,ghom1257-1,5,xəmsa,xəmsa,[],,['chan2019'],,False,False,,1
+ghom1257-1-6-1,,ghom1257-1,6,sətta,sətta,[],,['chan2019'],,False,False,,1
+ghom1257-1-7-1,,ghom1257-1,7,səβbʕa,səβbʕa,[],,['chan2019'],,False,False,,1
+ghom1257-1-8-1,,ghom1257-1,8,tmənya,tmənya,[],,['chan2019'],,False,False,,1
+ghom1257-1-9-1,,ghom1257-1,9,təsʕuθ,təsʕuθ,[],,['chan2019'],,False,False,,1
+ghom1257-1-10-1,,ghom1257-1,10,ʕəʃra,ʕəʃra,[],,['chan2019'],,False,False,,1
+ghom1257-1-11-1,,ghom1257-1,11,ħðaʃ,ħðaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-12-1,,ghom1257-1,12,tˤnaʃ,tˤnaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-13-1,,ghom1257-1,13,tləttˤaʃ,tləttˤaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-14-1,,ghom1257-1,14,arˤbəˤtˤaʃ,arˤbəˤtˤaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-15-1,,ghom1257-1,15,xəmməstˤaʃ,xəmməstˤaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-16-1,,ghom1257-1,16,səttˤaʃ,səttˤaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-17-1,,ghom1257-1,17,sβaʕtˤaʃ,sβaʕtˤaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-18-1,,ghom1257-1,18,tməntˤaʃ,tməntˤaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-19-1,,ghom1257-1,19,təsʕtˤaʃ,təsʕtˤaʃ,[],,['chan2019'],,False,False,,1
+ghom1257-1-20-1,,ghom1257-1,20,ʕiʃrin,ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-21-1,,ghom1257-1,21,wʌħɜhd u ʕiʃrin,wʌħɜhd u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-22-1,,ghom1257-1,22,tnayən u ʕiʃrin,tnayən u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-23-1,,ghom1257-1,23,tlaθa u ʕiʃrin,tlaθa u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-24-1,,ghom1257-1,24,arˤbˤa u ʕiʃrin,arˤbˤa u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-25-1,,ghom1257-1,25,xəmsa u ʕiʃrin,xəmsa u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-26-1,,ghom1257-1,26,sətta u ʕiʃrin,sətta u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-27-1,,ghom1257-1,27,səβbʕa u ʕiʃrin,səβbʕa u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-28-1,,ghom1257-1,28,tmənya u ʕiʃrin,tmənya u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-29-1,,ghom1257-1,29,təsʕa u ʕiʃrin,təsʕa u ʕiʃrin,[],,['chan2019'],,False,False,,1
+ghom1257-1-30-1,,ghom1257-1,30,tlaθin,tlaθin,[],,['chan2019'],,False,False,,1
+ghom1257-1-40-1,,ghom1257-1,40,arˤbˤin,arˤbˤin,[],,['chan2019'],,False,False,,1
+ghom1257-1-50-1,,ghom1257-1,50,xəmsin,xəmsin,[],,['chan2019'],,False,False,,1
+ghom1257-1-60-1,,ghom1257-1,60,səttin,səttin,[],,['chan2019'],,False,False,,1
+ghom1257-1-70-1,,ghom1257-1,70,səβbʕin,səβbʕin,[],,['chan2019'],,False,False,,1
+ghom1257-1-80-1,,ghom1257-1,80,tmanin,tmanin,[],,['chan2019'],,False,False,,1
+ghom1257-1-90-1,,ghom1257-1,90,təsʕin,təsʕin,[],,['chan2019'],,False,False,,1
+ghom1257-1-100-1,,ghom1257-1,100,mya,mya,[],,['chan2019'],,False,False,,1
+ghom1257-1-200-1,,ghom1257-1,200,myaθayn,myaθayn,[],,['chan2019'],,False,False,,1
+ghom1257-1-1000-1,,ghom1257-1,1000,alef,alef,[],,['chan2019'],,False,False,,1
+ghom1257-1-2000-1,,ghom1257-1,2000,alfayn,alfayn,[],,['chan2019'],,False,False,,1

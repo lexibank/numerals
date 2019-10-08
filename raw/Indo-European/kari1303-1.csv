@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kari1303-1-1-1,,kari1303-1,1,i,i,[],,[],,False,False,,1
-kari1303-1-2-1,,kari1303-1,2,de,de,[],,[],,False,False,,1
-kari1303-1-3-1,,kari1303-1,3,heri,heri,[],,[],,False,False,,1
-kari1303-1-4-1,,kari1303-1,4,t͡ʃu,t͡ʃu,[],,[],,False,False,,1
-kari1303-1-5-1,,kari1303-1,5,pind͡ʒ,pind͡ʒ,[],,[],,False,False,,1
-kari1303-1-5-2,,kari1303-1,5,pint͡ʃ,pint͡ʃ,[],,[],,False,False,,1
-kari1303-1-6-1,,kari1303-1,6,ʃɑːʃ,ʃɑːʃ,[],,[],,False,False,,1
-kari1303-1-7-1,,kari1303-1,7,hoft,hoft,[],,[],,False,False,,1
-kari1303-1-8-1,,kari1303-1,8,hæʃt,hæʃt,[],,[],,False,False,,1
-kari1303-1-9-1,,kari1303-1,9,nov,nov,[],,[],,False,False,,1
-kari1303-1-10-1,,kari1303-1,10,dɑː,dɑː,[],,[],,False,False,,1
-kari1303-1-11-1,,kari1303-1,11,dævɑː-i,dævɑː-i,[],,[],,False,False,,1
-kari1303-1-12-1,,kari1303-1,12,dævɑː-ide,dævɑː-ide,[],,[],,False,False,,1
-kari1303-1-13-1,,kari1303-1,13,dævɑː-heri,dævɑː-heri,[],,[],,False,False,,1
-kari1303-1-14-1,,kari1303-1,14,dævɑː-t͡ʃu,dævɑː-t͡ʃu,[],,[],,False,False,,1
-kari1303-1-15-1,,kari1303-1,15,dævɑː-pind͡ʒ,dævɑː-pind͡ʒ,[],,[],,False,False,,1
-kari1303-1-16-1,,kari1303-1,16,dævɑː-ʃɑːʃ,dævɑː-ʃɑːʃ,[],,[],,False,False,,1
-kari1303-1-17-1,,kari1303-1,17,dævɑː-hoft,dævɑː-hoft,[],,[],,False,False,,1
-kari1303-1-18-1,,kari1303-1,18,dævɑː-hæʃt,dævɑː-hæʃt,[],,[],,False,False,,1
-kari1303-1-19-1,,kari1303-1,19,dævɑː-nov,dævɑː-nov,[],,[],,False,False,,1
-kari1303-1-20-1,,kari1303-1,20,vist,vist,[],,[],,False,False,,1
-kari1303-1-21-1,,kari1303-1,21,vist-e-i,vist-e-i,[],,[],,False,False,,1
-kari1303-1-22-1,,kari1303-1,22,vist-e-de,vist-e-de,[],,[],,False,False,,1
-kari1303-1-23-1,,kari1303-1,23,vist-e-heri,vist-e-heri,[],,[],,False,False,,1
-kari1303-1-24-1,,kari1303-1,24,vist-e-t͡ʃu,vist-e-t͡ʃu,[],,[],,False,False,,1
-kari1303-1-25-1,,kari1303-1,25,vist-e-pind͡ʒ,vist-e-pind͡ʒ,[],,[],,False,False,,1
-kari1303-1-26-1,,kari1303-1,26,vist-e-ʃɑːʃ,vist-e-ʃɑːʃ,[],,[],,False,False,,1
-kari1303-1-27-1,,kari1303-1,27,vist-e-hoft,vist-e-hoft,[],,[],,False,False,,1
-kari1303-1-28-1,,kari1303-1,28,vist-e-hæʃt,vist-e-hæʃt,[],,[],,False,False,,1
-kari1303-1-29-1,,kari1303-1,29,vist-e-nov,vist-e-nov,[],,[],,False,False,,1
-kari1303-1-30-1,,kari1303-1,30,si,si,[],,[],,False,False,,1
-kari1303-1-40-1,,kari1303-1,40,t͡ʃel,t͡ʃel,[],,[],,False,False,,1
-kari1303-1-50-1,,kari1303-1,50,pind͡ʒo,pind͡ʒo,[],,[],,False,False,,1
-kari1303-1-60-1,,kari1303-1,60,de-si,de-si,[],( 2 x 30 ),[],,False,False,,1
-kari1303-1-70-1,,kari1303-1,70,pind͡ʒo -re-vist,pind͡ʒo -re-vist,[],( 50 + 20 ),[],,False,False,,1
-kari1303-1-80-1,,kari1303-1,80,pind͡ʒo -re-si,pind͡ʒo -re-si,[],( 50 + 30 ),[],,False,False,,1
-kari1303-1-90-1,,kari1303-1,90,pind͡ʒo -re-t͡ʃel,pind͡ʒo -re-t͡ʃel,[],( 50 + 40 ),[],,False,False,,1
-kari1303-1-100-1,,kari1303-1,100,sɑː,sɑː,[],,[],,False,False,,1
-kari1303-1-200-1,,kari1303-1,200,de-sɑː,de-sɑː,[],,[],,False,False,,1
-kari1303-1-1000-1,,kari1303-1,1000,hæzo,hæzo,[],,[],,False,False,,1
-kari1303-1-2000-1,,kari1303-1,2000,de hæzo,de hæzo,[],,[],,False,False,,1
+kari1303-1-1-1,,kari1303-1,1,i,i,[],,['chan2019'],,False,False,,1
+kari1303-1-2-1,,kari1303-1,2,de,de,[],,['chan2019'],,False,False,,1
+kari1303-1-3-1,,kari1303-1,3,heri,heri,[],,['chan2019'],,False,False,,1
+kari1303-1-4-1,,kari1303-1,4,t͡ʃu,t͡ʃu,[],,['chan2019'],,False,False,,1
+kari1303-1-5-1,,kari1303-1,5,pind͡ʒ,pind͡ʒ,[],,['chan2019'],,False,False,,1
+kari1303-1-5-2,,kari1303-1,5,pint͡ʃ,pint͡ʃ,[],,['chan2019'],,False,False,,1
+kari1303-1-6-1,,kari1303-1,6,ʃɑːʃ,ʃɑːʃ,[],,['chan2019'],,False,False,,1
+kari1303-1-7-1,,kari1303-1,7,hoft,hoft,[],,['chan2019'],,False,False,,1
+kari1303-1-8-1,,kari1303-1,8,hæʃt,hæʃt,[],,['chan2019'],,False,False,,1
+kari1303-1-9-1,,kari1303-1,9,nov,nov,[],,['chan2019'],,False,False,,1
+kari1303-1-10-1,,kari1303-1,10,dɑː,dɑː,[],,['chan2019'],,False,False,,1
+kari1303-1-11-1,,kari1303-1,11,dævɑː-i,dævɑː-i,[],,['chan2019'],,False,False,,1
+kari1303-1-12-1,,kari1303-1,12,dævɑː-ide,dævɑː-ide,[],,['chan2019'],,False,False,,1
+kari1303-1-13-1,,kari1303-1,13,dævɑː-heri,dævɑː-heri,[],,['chan2019'],,False,False,,1
+kari1303-1-14-1,,kari1303-1,14,dævɑː-t͡ʃu,dævɑː-t͡ʃu,[],,['chan2019'],,False,False,,1
+kari1303-1-15-1,,kari1303-1,15,dævɑː-pind͡ʒ,dævɑː-pind͡ʒ,[],,['chan2019'],,False,False,,1
+kari1303-1-16-1,,kari1303-1,16,dævɑː-ʃɑːʃ,dævɑː-ʃɑːʃ,[],,['chan2019'],,False,False,,1
+kari1303-1-17-1,,kari1303-1,17,dævɑː-hoft,dævɑː-hoft,[],,['chan2019'],,False,False,,1
+kari1303-1-18-1,,kari1303-1,18,dævɑː-hæʃt,dævɑː-hæʃt,[],,['chan2019'],,False,False,,1
+kari1303-1-19-1,,kari1303-1,19,dævɑː-nov,dævɑː-nov,[],,['chan2019'],,False,False,,1
+kari1303-1-20-1,,kari1303-1,20,vist,vist,[],,['chan2019'],,False,False,,1
+kari1303-1-21-1,,kari1303-1,21,vist-e-i,vist-e-i,[],,['chan2019'],,False,False,,1
+kari1303-1-22-1,,kari1303-1,22,vist-e-de,vist-e-de,[],,['chan2019'],,False,False,,1
+kari1303-1-23-1,,kari1303-1,23,vist-e-heri,vist-e-heri,[],,['chan2019'],,False,False,,1
+kari1303-1-24-1,,kari1303-1,24,vist-e-t͡ʃu,vist-e-t͡ʃu,[],,['chan2019'],,False,False,,1
+kari1303-1-25-1,,kari1303-1,25,vist-e-pind͡ʒ,vist-e-pind͡ʒ,[],,['chan2019'],,False,False,,1
+kari1303-1-26-1,,kari1303-1,26,vist-e-ʃɑːʃ,vist-e-ʃɑːʃ,[],,['chan2019'],,False,False,,1
+kari1303-1-27-1,,kari1303-1,27,vist-e-hoft,vist-e-hoft,[],,['chan2019'],,False,False,,1
+kari1303-1-28-1,,kari1303-1,28,vist-e-hæʃt,vist-e-hæʃt,[],,['chan2019'],,False,False,,1
+kari1303-1-29-1,,kari1303-1,29,vist-e-nov,vist-e-nov,[],,['chan2019'],,False,False,,1
+kari1303-1-30-1,,kari1303-1,30,si,si,[],,['chan2019'],,False,False,,1
+kari1303-1-40-1,,kari1303-1,40,t͡ʃel,t͡ʃel,[],,['chan2019'],,False,False,,1
+kari1303-1-50-1,,kari1303-1,50,pind͡ʒo,pind͡ʒo,[],,['chan2019'],,False,False,,1
+kari1303-1-60-1,,kari1303-1,60,de-si,de-si,[],( 2 x 30 ),['chan2019'],,False,False,,1
+kari1303-1-70-1,,kari1303-1,70,pind͡ʒo -re-vist,pind͡ʒo -re-vist,[],( 50 + 20 ),['chan2019'],,False,False,,1
+kari1303-1-80-1,,kari1303-1,80,pind͡ʒo -re-si,pind͡ʒo -re-si,[],( 50 + 30 ),['chan2019'],,False,False,,1
+kari1303-1-90-1,,kari1303-1,90,pind͡ʒo -re-t͡ʃel,pind͡ʒo -re-t͡ʃel,[],( 50 + 40 ),['chan2019'],,False,False,,1
+kari1303-1-100-1,,kari1303-1,100,sɑː,sɑː,[],,['chan2019'],,False,False,,1
+kari1303-1-200-1,,kari1303-1,200,de-sɑː,de-sɑː,[],,['chan2019'],,False,False,,1
+kari1303-1-1000-1,,kari1303-1,1000,hæzo,hæzo,[],,['chan2019'],,False,False,,1
+kari1303-1-2000-1,,kari1303-1,2000,de hæzo,de hæzo,[],,['chan2019'],,False,False,,1

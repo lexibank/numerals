@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-edop1238-1-1-1,,edop1238-1,1,busubei,busubei,[],,[],,False,False,,1
-edop1238-1-2-1,,edop1238-1,2,bodubei,bodubei,[],,[],,False,False,,1
-edop1238-1-3-1,,edop1238-1,3,hoibei,hoibei,[],( litː three or more),[],,False,False,,1
-edop1238-1-5-1,,edop1238-1,5,kay busu,kay busu,[],( litː 'one hand' ),[],,False,False,,1
-edop1238-1-10-1,,edop1238-1,10,kay bodubei,kay bodubei,[],( litː 'two hands'),[],,False,False,,1
-edop1238-1-15-1,,edop1238-1,15,kay bodubei boko ada busubei boko,kay bodubei boko ada busubei boko,[],( litː 'two hands and one foot' ),[],,False,False,,1
-edop1238-1-20-1,,edop1238-1,20,kay bodubei boko ada bodubei boko,kay bodubei boko ada bodubei boko,[],( litː two hands and two feet' ),[],,False,False,,1
+edop1238-1-1-1,,edop1238-1,1,busubei,busubei,[],,['chan2019'],,False,False,,1
+edop1238-1-2-1,,edop1238-1,2,bodubei,bodubei,[],,['chan2019'],,False,False,,1
+edop1238-1-3-1,,edop1238-1,3,hoibei,hoibei,[],( litː three or more),['chan2019'],,False,False,,1
+edop1238-1-5-1,,edop1238-1,5,kay busu,kay busu,[],( litː 'one hand' ),['chan2019'],,False,False,,1
+edop1238-1-10-1,,edop1238-1,10,kay bodubei,kay bodubei,[],( litː 'two hands'),['chan2019'],,False,False,,1
+edop1238-1-15-1,,edop1238-1,15,kay bodubei boko ada busubei boko,kay bodubei boko ada busubei boko,[],( litː 'two hands and one foot' ),['chan2019'],,False,False,,1
+edop1238-1-20-1,,edop1238-1,20,kay bodubei boko ada bodubei boko,kay bodubei boko ada bodubei boko,[],( litː two hands and two feet' ),['chan2019'],,False,False,,1

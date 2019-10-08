@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-aman1265-1-1-1,,aman1265-1,1,munɡu,munɡu,[],,[],,False,False,,1
-aman1265-1-2-1,,aman1265-1,2,sambaɡa,sambaɡa,[],,[],,False,False,,1
-aman1265-1-3-1,,aman1265-1,3,sambaɡa munɡu,sambaɡa munɡu,[],(2 + 1 ),[],,False,False,,1
-aman1265-1-4-1,,aman1265-1,4,sambaɡa sambaɡa,sambaɡa sambaɡa,[],(2 + 2 ),[],,False,False,,1
-aman1265-1-5-1,,aman1265-1,5,sambaɡa sambaɡa munɡu (2 + 2 + 1) rarely used,sambaɡa sambaɡa munɡu (2 + 2 + 1) rarely used,[],,[],,False,True,,1
+aman1265-1-1-1,,aman1265-1,1,munɡu,munɡu,[],,['chan2019'],,False,False,,1
+aman1265-1-2-1,,aman1265-1,2,sambaɡa,sambaɡa,[],,['chan2019'],,False,False,,1
+aman1265-1-3-1,,aman1265-1,3,sambaɡa munɡu,sambaɡa munɡu,[],(2 + 1 ),['chan2019'],,False,False,,1
+aman1265-1-4-1,,aman1265-1,4,sambaɡa sambaɡa,sambaɡa sambaɡa,[],(2 + 2 ),['chan2019'],,False,False,,1
+aman1265-1-5-1,,aman1265-1,5,sambaɡa sambaɡa munɡu (2 + 2 + 1) rarely used,sambaɡa sambaɡa munɡu (2 + 2 + 1) rarely used,[],,['chan2019'],,False,True,,1

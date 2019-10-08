@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ansu1237-1-1-1,,ansu1237-1,1,kaoiri,kaoiri,[],,[],,False,False,,1
-ansu1237-1-2-1,,ansu1237-1,2,kodu,kodu,[],,[],,False,False,,1
-ansu1237-1-3-1,,ansu1237-1,3,toru,toru,[],,[],,False,False,,1
-ansu1237-1-4-1,,ansu1237-1,4,manua,manua,[],,[],,False,False,,1
-ansu1237-1-5-1,,ansu1237-1,5,riŋ,riŋ,[],,[],,False,False,,1
-ansu1237-1-6-1,,ansu1237-1,6,wonaŋ,wonaŋ,[],,[],,False,False,,1
-ansu1237-1-7-1,,ansu1237-1,7,itu,itu,[],,[],,False,False,,1
-ansu1237-1-8-1,,ansu1237-1,8,injatoru,injatoru,[],( 2 x 4 ),[],,False,False,,1
-ansu1237-1-9-1,,ansu1237-1,9,injataŋ,injataŋ,[],,[],,False,False,,1
-ansu1237-1-10-1,,ansu1237-1,10,ura,ura,[],,[],,False,False,,1
-ansu1237-1-11-1,,ansu1237-1,11,uraea koiri,uraea koiri,[],,[],,False,False,,1
-ansu1237-1-12-1,,ansu1237-1,12,uraea kodu,uraea kodu,[],,[],,False,False,,1
-ansu1237-1-13-1,,ansu1237-1,13,uraea toru,uraea toru,[],,[],,False,False,,1
-ansu1237-1-14-1,,ansu1237-1,14,uraea manua,uraea manua,[],,[],,False,False,,1
-ansu1237-1-15-1,,ansu1237-1,15,uraea riŋ,uraea riŋ,[],,[],,False,False,,1
-ansu1237-1-16-1,,ansu1237-1,16,uraea wonaŋ,uraea wonaŋ,[],,[],,False,False,,1
-ansu1237-1-17-1,,ansu1237-1,17,uraea itu,uraea itu,[],,[],,False,False,,1
-ansu1237-1-18-1,,ansu1237-1,18,uraea injatoru,uraea injatoru,[],,[],,False,False,,1
-ansu1237-1-19-1,,ansu1237-1,19,uraea injataŋ,uraea injataŋ,[],,[],,False,False,,1
-ansu1237-1-20-1,,ansu1237-1,20,piarei,piarei,[],(litː 'one person'),[],,False,False,,1
-ansu1237-1-21-1,,ansu1237-1,21,piarei ea koiri,piarei ea koiri,[],,[],,False,False,,1
-ansu1237-1-22-1,,ansu1237-1,22,piarei ea kodu,piarei ea kodu,[],,[],,False,False,,1
-ansu1237-1-23-1,,ansu1237-1,23,piarei ea toru,piarei ea toru,[],,[],,False,False,,1
-ansu1237-1-24-1,,ansu1237-1,24,piarei ea manua,piarei ea manua,[],,[],,False,False,,1
-ansu1237-1-25-1,,ansu1237-1,25,piarei ea riŋ,piarei ea riŋ,[],,[],,False,False,,1
-ansu1237-1-26-1,,ansu1237-1,26,piarei ea wonaŋ,piarei ea wonaŋ,[],,[],,False,False,,1
-ansu1237-1-27-1,,ansu1237-1,27,piarei ea itu,piarei ea itu,[],,[],,False,False,,1
-ansu1237-1-28-1,,ansu1237-1,28,piarei ea injatoru,piarei ea injatoru,[],,[],,False,False,,1
-ansu1237-1-29-1,,ansu1237-1,29,piarei ea injataŋ,piarei ea injataŋ,[],,[],,False,False,,1
-ansu1237-1-30-1,,ansu1237-1,30,piarei ea ura,piarei ea ura,[],,[],,False,False,,1
-ansu1237-1-30-2,,ansu1237-1,30,31. piarei ea koiri,31. piarei ea koiri,[],,[],,False,True,,1
-ansu1237-1-40-1,,ansu1237-1,40,piakodu,piakodu,[],(litː 'two persons'),[],,False,False,,1
-ansu1237-1-50-1,,ansu1237-1,50,piakodu ea ura,piakodu ea ura,[],,[],,False,False,,1
-ansu1237-1-60-1,,ansu1237-1,60,piatoru,piatoru,[],(litː 'three persons'),[],,False,False,,1
-ansu1237-1-70-1,,ansu1237-1,70,piatoru ea ura,piatoru ea ura,[],,[],,False,False,,1
-ansu1237-1-80-1,,ansu1237-1,80,piamanua,piamanua,[],(litː 'four persons'),[],,False,False,,1
-ansu1237-1-90-1,,ansu1237-1,90,piamana ea ura,piamana ea ura,[],,[],,False,False,,1
-ansu1237-1-100-1,,ansu1237-1,100,piariŋ,piariŋ,[],(litː 'five persons'),[],,False,False,,1
-ansu1237-1-200-1,,ansu1237-1,200,pia ura,pia ura,[],(litː 'ten persons'),[],,False,False,,1
-ansu1237-1-1000-1,,ansu1237-1,1000,piaura we riŋ,piaura we riŋ,[],,[],,False,False,,1
+ansu1237-1-1-1,,ansu1237-1,1,kaoiri,kaoiri,[],,['chan2019'],,False,False,,1
+ansu1237-1-2-1,,ansu1237-1,2,kodu,kodu,[],,['chan2019'],,False,False,,1
+ansu1237-1-3-1,,ansu1237-1,3,toru,toru,[],,['chan2019'],,False,False,,1
+ansu1237-1-4-1,,ansu1237-1,4,manua,manua,[],,['chan2019'],,False,False,,1
+ansu1237-1-5-1,,ansu1237-1,5,riŋ,riŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-6-1,,ansu1237-1,6,wonaŋ,wonaŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-7-1,,ansu1237-1,7,itu,itu,[],,['chan2019'],,False,False,,1
+ansu1237-1-8-1,,ansu1237-1,8,injatoru,injatoru,[],( 2 x 4 ),['chan2019'],,False,False,,1
+ansu1237-1-9-1,,ansu1237-1,9,injataŋ,injataŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-10-1,,ansu1237-1,10,ura,ura,[],,['chan2019'],,False,False,,1
+ansu1237-1-11-1,,ansu1237-1,11,uraea koiri,uraea koiri,[],,['chan2019'],,False,False,,1
+ansu1237-1-12-1,,ansu1237-1,12,uraea kodu,uraea kodu,[],,['chan2019'],,False,False,,1
+ansu1237-1-13-1,,ansu1237-1,13,uraea toru,uraea toru,[],,['chan2019'],,False,False,,1
+ansu1237-1-14-1,,ansu1237-1,14,uraea manua,uraea manua,[],,['chan2019'],,False,False,,1
+ansu1237-1-15-1,,ansu1237-1,15,uraea riŋ,uraea riŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-16-1,,ansu1237-1,16,uraea wonaŋ,uraea wonaŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-17-1,,ansu1237-1,17,uraea itu,uraea itu,[],,['chan2019'],,False,False,,1
+ansu1237-1-18-1,,ansu1237-1,18,uraea injatoru,uraea injatoru,[],,['chan2019'],,False,False,,1
+ansu1237-1-19-1,,ansu1237-1,19,uraea injataŋ,uraea injataŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-20-1,,ansu1237-1,20,piarei,piarei,[],(litː 'one person'),['chan2019'],,False,False,,1
+ansu1237-1-21-1,,ansu1237-1,21,piarei ea koiri,piarei ea koiri,[],,['chan2019'],,False,False,,1
+ansu1237-1-22-1,,ansu1237-1,22,piarei ea kodu,piarei ea kodu,[],,['chan2019'],,False,False,,1
+ansu1237-1-23-1,,ansu1237-1,23,piarei ea toru,piarei ea toru,[],,['chan2019'],,False,False,,1
+ansu1237-1-24-1,,ansu1237-1,24,piarei ea manua,piarei ea manua,[],,['chan2019'],,False,False,,1
+ansu1237-1-25-1,,ansu1237-1,25,piarei ea riŋ,piarei ea riŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-26-1,,ansu1237-1,26,piarei ea wonaŋ,piarei ea wonaŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-27-1,,ansu1237-1,27,piarei ea itu,piarei ea itu,[],,['chan2019'],,False,False,,1
+ansu1237-1-28-1,,ansu1237-1,28,piarei ea injatoru,piarei ea injatoru,[],,['chan2019'],,False,False,,1
+ansu1237-1-29-1,,ansu1237-1,29,piarei ea injataŋ,piarei ea injataŋ,[],,['chan2019'],,False,False,,1
+ansu1237-1-30-1,,ansu1237-1,30,piarei ea ura,piarei ea ura,[],,['chan2019'],,False,False,,1
+ansu1237-1-30-2,,ansu1237-1,30,31. piarei ea koiri,31. piarei ea koiri,[],,['chan2019'],,False,True,,1
+ansu1237-1-40-1,,ansu1237-1,40,piakodu,piakodu,[],(litː 'two persons'),['chan2019'],,False,False,,1
+ansu1237-1-50-1,,ansu1237-1,50,piakodu ea ura,piakodu ea ura,[],,['chan2019'],,False,False,,1
+ansu1237-1-60-1,,ansu1237-1,60,piatoru,piatoru,[],(litː 'three persons'),['chan2019'],,False,False,,1
+ansu1237-1-70-1,,ansu1237-1,70,piatoru ea ura,piatoru ea ura,[],,['chan2019'],,False,False,,1
+ansu1237-1-80-1,,ansu1237-1,80,piamanua,piamanua,[],(litː 'four persons'),['chan2019'],,False,False,,1
+ansu1237-1-90-1,,ansu1237-1,90,piamana ea ura,piamana ea ura,[],,['chan2019'],,False,False,,1
+ansu1237-1-100-1,,ansu1237-1,100,piariŋ,piariŋ,[],(litː 'five persons'),['chan2019'],,False,False,,1
+ansu1237-1-200-1,,ansu1237-1,200,pia ura,pia ura,[],(litː 'ten persons'),['chan2019'],,False,False,,1
+ansu1237-1-1000-1,,ansu1237-1,1000,piaura we riŋ,piaura we riŋ,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bedj1245-2-1-1,,bedj1245-2,1,kárē,kárē,[],,[],,False,False,,1
-bedj1245-2-2-1,,bedj1245-2,2,jōó,jōó,[],,[],,False,False,,1
-bedj1245-2-3-1,,bedj1245-2,3,mə̀tá,mə̀tá,[],,[],,False,False,,1
-bedj1245-2-4-1,,bedj1245-2,4,sɔ́,sɔ́,[],,[],,False,False,,1
-bedj1245-2-5-1,,bedj1245-2,5,mí,mí,[],,[],,False,False,,1
-bedj1245-2-6-1,,bedj1245-2,6,mêhḛ́,mêhḛ́,[],,[],,False,False,,1
-bedj1245-2-7-1,,bedj1245-2,7,sīrí,sīrí,[],,[],,False,False,,1
-bedj1245-2-8-1,,bedj1245-2,8,jī jōó,jī jōó,[],( 10 -2),[],,False,False,,1
-bedj1245-2-9-1,,bedj1245-2,9,jī kárē,jī kárē,[],( 10 -1 ),[],,False,False,,1
-bedj1245-2-10-1,,bedj1245-2,10,dɔ̀ɡə̀,dɔ̀ɡə̀,[],,[],,False,False,,1
-bedj1245-2-11-1,,bedj1245-2,11,dɔ̀ɡ-ɡìdé-ə̀-kárē,dɔ̀ɡ-ɡìdé-ə̀-kárē,[],,[],,False,False,,1
-bedj1245-2-12-1,,bedj1245-2,12,dɔ̀ɡ-ɡìdé-ə̀-jōó,dɔ̀ɡ-ɡìdé-ə̀-jōó,[],,[],,False,False,,1
-bedj1245-2-13-1,,bedj1245-2,13,dɔ̀ɡ-ɡìdé-ə̀-mə̀tá,dɔ̀ɡ-ɡìdé-ə̀-mə̀tá,[],,[],,False,False,,1
-bedj1245-2-14-1,,bedj1245-2,14,dɔ̀ɡ-ɡìdé-ə̀-sɔ́,dɔ̀ɡ-ɡìdé-ə̀-sɔ́,[],,[],,False,False,,1
-bedj1245-2-15-1,,bedj1245-2,15,dɔ̀ɡ-ɡìdé-ə̀-mí,dɔ̀ɡ-ɡìdé-ə̀-mí,[],,[],,False,False,,1
-bedj1245-2-16-1,,bedj1245-2,16,dɔ̀ɡ-ɡìdé-ə̀-mêhḛ́,dɔ̀ɡ-ɡìdé-ə̀-mêhḛ́,[],,[],,False,False,,1
-bedj1245-2-17-1,,bedj1245-2,17,dɔ̀ɡ-ɡìdé-ə̀-sīrí,dɔ̀ɡ-ɡìdé-ə̀-sīrí,[],,[],,False,False,,1
-bedj1245-2-18-1,,bedj1245-2,18,dɔ̀ɡ-ɡìdé-ə̀-jī jōó,dɔ̀ɡ-ɡìdé-ə̀-jī jōó,[],,[],,False,False,,1
-bedj1245-2-19-1,,bedj1245-2,19,dɔ̀ɡ-ɡìdé-ə̀-jī kárē,dɔ̀ɡ-ɡìdé-ə̀-jī kárē,[],,[],,False,False,,1
-bedj1245-2-20-1,,bedj1245-2,20,kùtə̀-jōó,kùtə̀-jōó,[],,[],,False,False,,1
-bedj1245-2-21-1,,bedj1245-2,21,kùtə̀-jōó-ɡìdé-ə̀-kárē,kùtə̀-jōó-ɡìdé-ə̀-kárē,[],,[],,False,False,,1
-bedj1245-2-22-1,,bedj1245-2,22,kùtə̀-jōó-ɡìdé-ə̀-jōó,kùtə̀-jōó-ɡìdé-ə̀-jōó,[],,[],,False,False,,1
-bedj1245-2-23-1,,bedj1245-2,23,kùtə̀-jōó-ɡìdé-ə̀-mə̀tá,kùtə̀-jōó-ɡìdé-ə̀-mə̀tá,[],,[],,False,False,,1
-bedj1245-2-24-1,,bedj1245-2,24,kùtə̀-jōó-ɡìdé-ə̀-sɔ́,kùtə̀-jōó-ɡìdé-ə̀-sɔ́,[],,[],,False,False,,1
-bedj1245-2-25-1,,bedj1245-2,25,kùtə̀-jōó-ɡìdé-ə̀-mí,kùtə̀-jōó-ɡìdé-ə̀-mí,[],,[],,False,False,,1
-bedj1245-2-26-1,,bedj1245-2,26,kùtə̀-jōó-ɡìdé-ə̀-mêhḛ́,kùtə̀-jōó-ɡìdé-ə̀-mêhḛ́,[],,[],,False,False,,1
-bedj1245-2-27-1,,bedj1245-2,27,kùtə̀-jōó-ɡìdé-ə̀-sīrí,kùtə̀-jōó-ɡìdé-ə̀-sīrí,[],,[],,False,False,,1
-bedj1245-2-28-1,,bedj1245-2,28,kùtə̀-jōó-ɡìdé-ə̀-jī jōó,kùtə̀-jōó-ɡìdé-ə̀-jī jōó,[],,[],,False,False,,1
-bedj1245-2-29-1,,bedj1245-2,29,kùtə̀-jōó-ɡìdé-ə̀-jī kárē,kùtə̀-jōó-ɡìdé-ə̀-jī kárē,[],,[],,False,False,,1
-bedj1245-2-30-1,,bedj1245-2,30,kùtə̀-mə̀tá,kùtə̀-mə̀tá,[],,[],,False,False,,1
-bedj1245-2-40-1,,bedj1245-2,40,kùtə̀-sɔ́,kùtə̀-sɔ́,[],,[],,False,False,,1
-bedj1245-2-50-1,,bedj1245-2,50,kùtə̀-mí,kùtə̀-mí,[],,[],,False,False,,1
-bedj1245-2-60-1,,bedj1245-2,60,kùtə̀-mêhḛ́,kùtə̀-mêhḛ́,[],,[],,False,False,,1
-bedj1245-2-70-1,,bedj1245-2,70,kùtə̀-sīrí,kùtə̀-sīrí,[],,[],,False,False,,1
-bedj1245-2-80-1,,bedj1245-2,80,kùtə̀-jī jōó,kùtə̀-jī jōó,[],,[],,False,False,,1
-bedj1245-2-90-1,,bedj1245-2,90,kùtə̀-jī kárē,kùtə̀-jī kárē,[],,[],,False,False,,1
-bedj1245-2-100-1,,bedj1245-2,100,ɓú,ɓú,[],,[],,False,False,,1
-bedj1245-2-200-1,,bedj1245-2,200,ɓú jōó,ɓú jōó,[],,[],,False,False,,1
-bedj1245-2-1000-1,,bedj1245-2,1000,dūbə́,dūbə́,[],(kárē),[],,False,False,,1
-bedj1245-2-2000-1,,bedj1245-2,2000,dūbə́-jōó,dūbə́-jōó,[],,[],,False,False,,1
+bedj1245-2-1-1,,bedj1245-2,1,kárē,kárē,[],,['chan2019'],,False,False,,1
+bedj1245-2-2-1,,bedj1245-2,2,jōó,jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-3-1,,bedj1245-2,3,mə̀tá,mə̀tá,[],,['chan2019'],,False,False,,1
+bedj1245-2-4-1,,bedj1245-2,4,sɔ́,sɔ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-5-1,,bedj1245-2,5,mí,mí,[],,['chan2019'],,False,False,,1
+bedj1245-2-6-1,,bedj1245-2,6,mêhḛ́,mêhḛ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-7-1,,bedj1245-2,7,sīrí,sīrí,[],,['chan2019'],,False,False,,1
+bedj1245-2-8-1,,bedj1245-2,8,jī jōó,jī jōó,[],( 10 -2),['chan2019'],,False,False,,1
+bedj1245-2-9-1,,bedj1245-2,9,jī kárē,jī kárē,[],( 10 -1 ),['chan2019'],,False,False,,1
+bedj1245-2-10-1,,bedj1245-2,10,dɔ̀ɡə̀,dɔ̀ɡə̀,[],,['chan2019'],,False,False,,1
+bedj1245-2-11-1,,bedj1245-2,11,dɔ̀ɡ-ɡìdé-ə̀-kárē,dɔ̀ɡ-ɡìdé-ə̀-kárē,[],,['chan2019'],,False,False,,1
+bedj1245-2-12-1,,bedj1245-2,12,dɔ̀ɡ-ɡìdé-ə̀-jōó,dɔ̀ɡ-ɡìdé-ə̀-jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-13-1,,bedj1245-2,13,dɔ̀ɡ-ɡìdé-ə̀-mə̀tá,dɔ̀ɡ-ɡìdé-ə̀-mə̀tá,[],,['chan2019'],,False,False,,1
+bedj1245-2-14-1,,bedj1245-2,14,dɔ̀ɡ-ɡìdé-ə̀-sɔ́,dɔ̀ɡ-ɡìdé-ə̀-sɔ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-15-1,,bedj1245-2,15,dɔ̀ɡ-ɡìdé-ə̀-mí,dɔ̀ɡ-ɡìdé-ə̀-mí,[],,['chan2019'],,False,False,,1
+bedj1245-2-16-1,,bedj1245-2,16,dɔ̀ɡ-ɡìdé-ə̀-mêhḛ́,dɔ̀ɡ-ɡìdé-ə̀-mêhḛ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-17-1,,bedj1245-2,17,dɔ̀ɡ-ɡìdé-ə̀-sīrí,dɔ̀ɡ-ɡìdé-ə̀-sīrí,[],,['chan2019'],,False,False,,1
+bedj1245-2-18-1,,bedj1245-2,18,dɔ̀ɡ-ɡìdé-ə̀-jī jōó,dɔ̀ɡ-ɡìdé-ə̀-jī jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-19-1,,bedj1245-2,19,dɔ̀ɡ-ɡìdé-ə̀-jī kárē,dɔ̀ɡ-ɡìdé-ə̀-jī kárē,[],,['chan2019'],,False,False,,1
+bedj1245-2-20-1,,bedj1245-2,20,kùtə̀-jōó,kùtə̀-jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-21-1,,bedj1245-2,21,kùtə̀-jōó-ɡìdé-ə̀-kárē,kùtə̀-jōó-ɡìdé-ə̀-kárē,[],,['chan2019'],,False,False,,1
+bedj1245-2-22-1,,bedj1245-2,22,kùtə̀-jōó-ɡìdé-ə̀-jōó,kùtə̀-jōó-ɡìdé-ə̀-jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-23-1,,bedj1245-2,23,kùtə̀-jōó-ɡìdé-ə̀-mə̀tá,kùtə̀-jōó-ɡìdé-ə̀-mə̀tá,[],,['chan2019'],,False,False,,1
+bedj1245-2-24-1,,bedj1245-2,24,kùtə̀-jōó-ɡìdé-ə̀-sɔ́,kùtə̀-jōó-ɡìdé-ə̀-sɔ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-25-1,,bedj1245-2,25,kùtə̀-jōó-ɡìdé-ə̀-mí,kùtə̀-jōó-ɡìdé-ə̀-mí,[],,['chan2019'],,False,False,,1
+bedj1245-2-26-1,,bedj1245-2,26,kùtə̀-jōó-ɡìdé-ə̀-mêhḛ́,kùtə̀-jōó-ɡìdé-ə̀-mêhḛ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-27-1,,bedj1245-2,27,kùtə̀-jōó-ɡìdé-ə̀-sīrí,kùtə̀-jōó-ɡìdé-ə̀-sīrí,[],,['chan2019'],,False,False,,1
+bedj1245-2-28-1,,bedj1245-2,28,kùtə̀-jōó-ɡìdé-ə̀-jī jōó,kùtə̀-jōó-ɡìdé-ə̀-jī jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-29-1,,bedj1245-2,29,kùtə̀-jōó-ɡìdé-ə̀-jī kárē,kùtə̀-jōó-ɡìdé-ə̀-jī kárē,[],,['chan2019'],,False,False,,1
+bedj1245-2-30-1,,bedj1245-2,30,kùtə̀-mə̀tá,kùtə̀-mə̀tá,[],,['chan2019'],,False,False,,1
+bedj1245-2-40-1,,bedj1245-2,40,kùtə̀-sɔ́,kùtə̀-sɔ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-50-1,,bedj1245-2,50,kùtə̀-mí,kùtə̀-mí,[],,['chan2019'],,False,False,,1
+bedj1245-2-60-1,,bedj1245-2,60,kùtə̀-mêhḛ́,kùtə̀-mêhḛ́,[],,['chan2019'],,False,False,,1
+bedj1245-2-70-1,,bedj1245-2,70,kùtə̀-sīrí,kùtə̀-sīrí,[],,['chan2019'],,False,False,,1
+bedj1245-2-80-1,,bedj1245-2,80,kùtə̀-jī jōó,kùtə̀-jī jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-90-1,,bedj1245-2,90,kùtə̀-jī kárē,kùtə̀-jī kárē,[],,['chan2019'],,False,False,,1
+bedj1245-2-100-1,,bedj1245-2,100,ɓú,ɓú,[],,['chan2019'],,False,False,,1
+bedj1245-2-200-1,,bedj1245-2,200,ɓú jōó,ɓú jōó,[],,['chan2019'],,False,False,,1
+bedj1245-2-1000-1,,bedj1245-2,1000,dūbə́,dūbə́,[],(kárē),['chan2019'],,False,False,,1
+bedj1245-2-2000-1,,bedj1245-2,2000,dūbə́-jōó,dūbə́-jōó,[],,['chan2019'],,False,False,,1

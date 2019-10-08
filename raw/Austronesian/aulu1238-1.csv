@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-aulu1238-1-1-1,,aulu1238-1,1,ᵐboɣol,ᵐboɣol,[],,[],,False,False,,1
-aulu1238-1-2-1,,aulu1238-1,2,iⁿrua,iⁿrua,[],,[],,False,False,,1
-aulu1238-1-3-1,,aulu1238-1,3,iⁿdil,iⁿdil,[],,[],,False,False,,1
-aulu1238-1-4-1,,aulu1238-1,4,iᵐbes,iᵐbes,[],,[],,False,False,,1
-aulu1238-1-5-1,,aulu1238-1,5,ilma,ilma,[],,[],,False,False,,1
-aulu1238-1-6-1,,aulu1238-1,6,ⁿrovoɣol,ⁿrovoɣol,[],( 5 + 1 ),[],,False,False,,1
-aulu1238-1-7-1,,aulu1238-1,7,ⁿrohlua,ⁿrohlua,[],( 5 + 2 ),[],,False,False,,1
-aulu1238-1-8-1,,aulu1238-1,8,ⁿrohtil,ⁿrohtil,[],( 5 + 3 ),[],,False,False,,1
-aulu1238-1-9-1,,aulu1238-1,9,ⁿrohves,ⁿrohves,[],( 5 + 4 ),[],,False,False,,1
-aulu1238-1-10-1,,aulu1238-1,10,saŋavul,saŋavul,[],,[],,False,False,,1
-aulu1238-1-11-1,,aulu1238-1,11,saŋavul neⁿdmohte ᵐboɣol,saŋavul neⁿdmohte ᵐboɣol,[],,[],,False,False,,1
-aulu1238-1-12-1,,aulu1238-1,12,saŋavul neⁿdmohte iⁿrua,saŋavul neⁿdmohte iⁿrua,[],,[],,False,False,,1
-aulu1238-1-13-1,,aulu1238-1,13,saŋavul neⁿdmohte iⁿdil,saŋavul neⁿdmohte iⁿdil,[],,[],,False,False,,1
-aulu1238-1-14-1,,aulu1238-1,14,saŋavul neⁿdmohte iᵐbes,saŋavul neⁿdmohte iᵐbes,[],,[],,False,False,,1
-aulu1238-1-15-1,,aulu1238-1,15,saŋavul neⁿdmohte ilma,saŋavul neⁿdmohte ilma,[],,[],,False,False,,1
-aulu1238-1-16-1,,aulu1238-1,16,saŋavul neⁿdmohte ⁿrovoɣol,saŋavul neⁿdmohte ⁿrovoɣol,[],,[],,False,False,,1
-aulu1238-1-17-1,,aulu1238-1,17,saŋavul neⁿdmohte ⁿrohlua,saŋavul neⁿdmohte ⁿrohlua,[],,[],,False,False,,1
-aulu1238-1-18-1,,aulu1238-1,18,saŋavul neⁿdmohte ⁿrohtil,saŋavul neⁿdmohte ⁿrohtil,[],,[],,False,False,,1
-aulu1238-1-19-1,,aulu1238-1,19,saŋavul neⁿdmohte ⁿrohves,saŋavul neⁿdmohte ⁿrohves,[],,[],,False,False,,1
-aulu1238-1-20-1,,aulu1238-1,20,ŋavul iⁿrua,ŋavul iⁿrua,[],,[],,False,False,,1
-aulu1238-1-21-1,,aulu1238-1,21,ŋavul iⁿrua neⁿdmohte ᵐboɣol,ŋavul iⁿrua neⁿdmohte ᵐboɣol,[],,[],,False,False,,1
-aulu1238-1-22-1,,aulu1238-1,22,ŋavul iⁿrua neⁿdmohte iⁿrua,ŋavul iⁿrua neⁿdmohte iⁿrua,[],,[],,False,False,,1
-aulu1238-1-23-1,,aulu1238-1,23,ŋavul iⁿrua neⁿdmohte iⁿdil,ŋavul iⁿrua neⁿdmohte iⁿdil,[],,[],,False,False,,1
-aulu1238-1-24-1,,aulu1238-1,24,ŋavul iⁿrua neⁿdmohte iᵐbes,ŋavul iⁿrua neⁿdmohte iᵐbes,[],,[],,False,False,,1
-aulu1238-1-25-1,,aulu1238-1,25,ŋavul iⁿrua neⁿdmohte ilma,ŋavul iⁿrua neⁿdmohte ilma,[],,[],,False,False,,1
-aulu1238-1-26-1,,aulu1238-1,26,ŋavul iⁿrua neⁿdmohte ⁿrovoɣol,ŋavul iⁿrua neⁿdmohte ⁿrovoɣol,[],,[],,False,False,,1
-aulu1238-1-27-1,,aulu1238-1,27,ŋavul iⁿrua neⁿdmohte ⁿrohlua,ŋavul iⁿrua neⁿdmohte ⁿrohlua,[],,[],,False,False,,1
-aulu1238-1-28-1,,aulu1238-1,28,ŋavul iⁿrua neⁿdmohte ⁿrohtil,ŋavul iⁿrua neⁿdmohte ⁿrohtil,[],,[],,False,False,,1
-aulu1238-1-29-1,,aulu1238-1,29,ŋavul iⁿrua neⁿdmohte ⁿrohves,ŋavul iⁿrua neⁿdmohte ⁿrohves,[],,[],,False,False,,1
-aulu1238-1-30-1,,aulu1238-1,30,ŋavul iⁿdil,ŋavul iⁿdil,[],,[],,False,False,,1
-aulu1238-1-40-1,,aulu1238-1,40,ŋavul iᵐbes,ŋavul iᵐbes,[],,[],,False,False,,1
-aulu1238-1-50-1,,aulu1238-1,50,ŋavul ilma,ŋavul ilma,[],,[],,False,False,,1
-aulu1238-1-60-1,,aulu1238-1,60,ŋavul ⁿrovoɣol,ŋavul ⁿrovoɣol,[],,[],,False,False,,1
-aulu1238-1-70-1,,aulu1238-1,70,ŋavul ⁿrohlua,ŋavul ⁿrohlua,[],,[],,False,False,,1
-aulu1238-1-80-1,,aulu1238-1,80,ŋavul ⁿrohtil,ŋavul ⁿrohtil,[],,[],,False,False,,1
-aulu1238-1-90-1,,aulu1238-1,90,ŋavul ⁿrohves,ŋavul ⁿrohves,[],,[],,False,False,,1
-aulu1238-1-100-1,,aulu1238-1,100,ŋot ᵐbavoɣol,ŋot ᵐbavoɣol,[],,[],,False,False,,1
-aulu1238-1-200-1,,aulu1238-1,200,ŋot ᵐbarua,ŋot ᵐbarua,[],,[],,False,False,,1
-aulu1238-1-1000-1,,aulu1238-1,1000,ŋotsar ᵐbavoɣol,ŋotsar ᵐbavoɣol,[],,[],,False,False,,1
-aulu1238-1-2000-1,,aulu1238-1,2000,ŋotsar ᵐbarua,ŋotsar ᵐbarua,[],,[],,False,False,,1
+aulu1238-1-1-1,,aulu1238-1,1,ᵐboɣol,ᵐboɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-2-1,,aulu1238-1,2,iⁿrua,iⁿrua,[],,['chan2019'],,False,False,,1
+aulu1238-1-3-1,,aulu1238-1,3,iⁿdil,iⁿdil,[],,['chan2019'],,False,False,,1
+aulu1238-1-4-1,,aulu1238-1,4,iᵐbes,iᵐbes,[],,['chan2019'],,False,False,,1
+aulu1238-1-5-1,,aulu1238-1,5,ilma,ilma,[],,['chan2019'],,False,False,,1
+aulu1238-1-6-1,,aulu1238-1,6,ⁿrovoɣol,ⁿrovoɣol,[],( 5 + 1 ),['chan2019'],,False,False,,1
+aulu1238-1-7-1,,aulu1238-1,7,ⁿrohlua,ⁿrohlua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+aulu1238-1-8-1,,aulu1238-1,8,ⁿrohtil,ⁿrohtil,[],( 5 + 3 ),['chan2019'],,False,False,,1
+aulu1238-1-9-1,,aulu1238-1,9,ⁿrohves,ⁿrohves,[],( 5 + 4 ),['chan2019'],,False,False,,1
+aulu1238-1-10-1,,aulu1238-1,10,saŋavul,saŋavul,[],,['chan2019'],,False,False,,1
+aulu1238-1-11-1,,aulu1238-1,11,saŋavul neⁿdmohte ᵐboɣol,saŋavul neⁿdmohte ᵐboɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-12-1,,aulu1238-1,12,saŋavul neⁿdmohte iⁿrua,saŋavul neⁿdmohte iⁿrua,[],,['chan2019'],,False,False,,1
+aulu1238-1-13-1,,aulu1238-1,13,saŋavul neⁿdmohte iⁿdil,saŋavul neⁿdmohte iⁿdil,[],,['chan2019'],,False,False,,1
+aulu1238-1-14-1,,aulu1238-1,14,saŋavul neⁿdmohte iᵐbes,saŋavul neⁿdmohte iᵐbes,[],,['chan2019'],,False,False,,1
+aulu1238-1-15-1,,aulu1238-1,15,saŋavul neⁿdmohte ilma,saŋavul neⁿdmohte ilma,[],,['chan2019'],,False,False,,1
+aulu1238-1-16-1,,aulu1238-1,16,saŋavul neⁿdmohte ⁿrovoɣol,saŋavul neⁿdmohte ⁿrovoɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-17-1,,aulu1238-1,17,saŋavul neⁿdmohte ⁿrohlua,saŋavul neⁿdmohte ⁿrohlua,[],,['chan2019'],,False,False,,1
+aulu1238-1-18-1,,aulu1238-1,18,saŋavul neⁿdmohte ⁿrohtil,saŋavul neⁿdmohte ⁿrohtil,[],,['chan2019'],,False,False,,1
+aulu1238-1-19-1,,aulu1238-1,19,saŋavul neⁿdmohte ⁿrohves,saŋavul neⁿdmohte ⁿrohves,[],,['chan2019'],,False,False,,1
+aulu1238-1-20-1,,aulu1238-1,20,ŋavul iⁿrua,ŋavul iⁿrua,[],,['chan2019'],,False,False,,1
+aulu1238-1-21-1,,aulu1238-1,21,ŋavul iⁿrua neⁿdmohte ᵐboɣol,ŋavul iⁿrua neⁿdmohte ᵐboɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-22-1,,aulu1238-1,22,ŋavul iⁿrua neⁿdmohte iⁿrua,ŋavul iⁿrua neⁿdmohte iⁿrua,[],,['chan2019'],,False,False,,1
+aulu1238-1-23-1,,aulu1238-1,23,ŋavul iⁿrua neⁿdmohte iⁿdil,ŋavul iⁿrua neⁿdmohte iⁿdil,[],,['chan2019'],,False,False,,1
+aulu1238-1-24-1,,aulu1238-1,24,ŋavul iⁿrua neⁿdmohte iᵐbes,ŋavul iⁿrua neⁿdmohte iᵐbes,[],,['chan2019'],,False,False,,1
+aulu1238-1-25-1,,aulu1238-1,25,ŋavul iⁿrua neⁿdmohte ilma,ŋavul iⁿrua neⁿdmohte ilma,[],,['chan2019'],,False,False,,1
+aulu1238-1-26-1,,aulu1238-1,26,ŋavul iⁿrua neⁿdmohte ⁿrovoɣol,ŋavul iⁿrua neⁿdmohte ⁿrovoɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-27-1,,aulu1238-1,27,ŋavul iⁿrua neⁿdmohte ⁿrohlua,ŋavul iⁿrua neⁿdmohte ⁿrohlua,[],,['chan2019'],,False,False,,1
+aulu1238-1-28-1,,aulu1238-1,28,ŋavul iⁿrua neⁿdmohte ⁿrohtil,ŋavul iⁿrua neⁿdmohte ⁿrohtil,[],,['chan2019'],,False,False,,1
+aulu1238-1-29-1,,aulu1238-1,29,ŋavul iⁿrua neⁿdmohte ⁿrohves,ŋavul iⁿrua neⁿdmohte ⁿrohves,[],,['chan2019'],,False,False,,1
+aulu1238-1-30-1,,aulu1238-1,30,ŋavul iⁿdil,ŋavul iⁿdil,[],,['chan2019'],,False,False,,1
+aulu1238-1-40-1,,aulu1238-1,40,ŋavul iᵐbes,ŋavul iᵐbes,[],,['chan2019'],,False,False,,1
+aulu1238-1-50-1,,aulu1238-1,50,ŋavul ilma,ŋavul ilma,[],,['chan2019'],,False,False,,1
+aulu1238-1-60-1,,aulu1238-1,60,ŋavul ⁿrovoɣol,ŋavul ⁿrovoɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-70-1,,aulu1238-1,70,ŋavul ⁿrohlua,ŋavul ⁿrohlua,[],,['chan2019'],,False,False,,1
+aulu1238-1-80-1,,aulu1238-1,80,ŋavul ⁿrohtil,ŋavul ⁿrohtil,[],,['chan2019'],,False,False,,1
+aulu1238-1-90-1,,aulu1238-1,90,ŋavul ⁿrohves,ŋavul ⁿrohves,[],,['chan2019'],,False,False,,1
+aulu1238-1-100-1,,aulu1238-1,100,ŋot ᵐbavoɣol,ŋot ᵐbavoɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-200-1,,aulu1238-1,200,ŋot ᵐbarua,ŋot ᵐbarua,[],,['chan2019'],,False,False,,1
+aulu1238-1-1000-1,,aulu1238-1,1000,ŋotsar ᵐbavoɣol,ŋotsar ᵐbavoɣol,[],,['chan2019'],,False,False,,1
+aulu1238-1-2000-1,,aulu1238-1,2000,ŋotsar ᵐbarua,ŋotsar ᵐbarua,[],,['chan2019'],,False,False,,1

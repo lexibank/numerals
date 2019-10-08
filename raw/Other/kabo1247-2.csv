@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kabo1247-2-1-1,,kabo1247-2,1,nu,nu,[],,[],,False,False,,2
-kabo1247-2-2-1,,kabo1247-2,2,olo,olo,[],,[],,False,False,,2
-kabo1247-2-3-1,,kabo1247-2,3,towo,towo,[],,[],,False,False,,2
-kabo1247-2-4-1,,kabo1247-2,4,ut,ut,[],,[],,False,False,,2
-kabo1247-2-5-1,,kabo1247-2,5,weseng,weseng,[],,[],,False,False,,2
-kabo1247-2-6-1,,kabo1247-2,6,talang,talang,[],,[],,False,False,,2
-kabo1247-2-7-1,,kabo1247-2,7,utco,utco,[],,[],,False,False,,2
-kabo1247-2-8-1,,kabo1247-2,8,turlo,turlo,[],,[],,False,False,,2
-kabo1247-2-9-1,,kabo1247-2,9,tiinu,tiinu,[],,[],,False,False,,2
-kabo1247-2-10-1,,kabo1247-2,10,karnu,karnu,[],,[],,False,False,,2
-kabo1247-2-11-1,,kabo1247-2,11,karnu woling nu,karnu woling nu,[],,[],,False,False,,2
-kabo1247-2-12-1,,kabo1247-2,12,karnu woling olo,karnu woling olo,[],,[],,False,False,,2
-kabo1247-2-13-1,,kabo1247-2,13,karnu woling towo,karnu woling towo,[],,[],,False,False,,2
-kabo1247-2-14-1,,kabo1247-2,14,karnu woling ut,karnu woling ut,[],,[],,False,False,,2
-kabo1247-2-15-1,,kabo1247-2,15,karnu woling weseng,karnu woling weseng,[],,[],,False,False,,2
-kabo1247-2-16-1,,kabo1247-2,16,karnu woling talang,karnu woling talang,[],,[],,False,False,,2
-kabo1247-2-17-1,,kabo1247-2,17,karnu woling utco,karnu woling utco,[],,[],,False,False,,2
-kabo1247-2-18-1,,kabo1247-2,18,karnu woling turlo,karnu woling turlo,[],,[],,False,False,,2
-kabo1247-2-19-1,,kabo1247-2,19,karnu woling tiinu,karnu woling tiinu,[],,[],,False,False,,2
-kabo1247-2-20-1,,kabo1247-2,20,karjolo,karjolo,[],,[],,False,False,,2
-kabo1247-2-21-1,,kabo1247-2,21,karjolo woling nu,karjolo woling nu,[],,[],,False,False,,2
-kabo1247-2-22-1,,kabo1247-2,22,karjolo woling olo,karjolo woling olo,[],,[],,False,False,,2
-kabo1247-2-23-1,,kabo1247-2,23,karjolo woling towo,karjolo woling towo,[],,[],,False,False,,2
-kabo1247-2-24-1,,kabo1247-2,24,karjolo woling ut,karjolo woling ut,[],,[],,False,False,,2
-kabo1247-2-25-1,,kabo1247-2,25,karjolo woling weseng,karjolo woling weseng,[],,[],,False,False,,2
-kabo1247-2-26-1,,kabo1247-2,26,karjolo woling talang,karjolo woling talang,[],,[],,False,False,,2
-kabo1247-2-27-1,,kabo1247-2,27,karjolo woling utco,karjolo woling utco,[],,[],,False,False,,2
-kabo1247-2-28-1,,kabo1247-2,28,karjolo woling turlo,karjolo woling turlo,[],,[],,False,False,,2
-kabo1247-2-29-1,,kabo1247-2,29,karjolo woling tiinu,karjolo woling tiinu,[],,[],,False,False,,2
-kabo1247-2-30-1,,kabo1247-2,30,kar towo,kar towo,[],,[],,False,False,,2
-kabo1247-2-40-1,,kabo1247-2,40,kar ut,kar ut,[],,[],,False,False,,2
-kabo1247-2-50-1,,kabo1247-2,50,kar weseng,kar weseng,[],,[],,False,False,,2
-kabo1247-2-60-1,,kabo1247-2,60,kar talang,kar talang,[],,[],,False,False,,2
-kabo1247-2-70-1,,kabo1247-2,70,kar utco,kar utco,[],,[],,False,False,,2
-kabo1247-2-80-1,,kabo1247-2,80,kar turlo,kar turlo,[],,[],,False,False,,2
-kabo1247-2-90-1,,kabo1247-2,90,kar tiinu,kar tiinu,[],,[],,False,False,,2
-kabo1247-2-100-1,,kabo1247-2,100,ratnu,ratnu,[],,[],,False,False,,2
-kabo1247-2-200-1,,kabo1247-2,200,rat olo,rat olo,[],,[],,False,False,,2
-kabo1247-2-1000-1,,kabo1247-2,1000,ribnu,ribnu,[],,[],,False,False,,2
-kabo1247-2-2000-1,,kabo1247-2,2000,ribolo,ribolo,[],,[],,False,False,,2
+kabo1247-2-1-1,,kabo1247-2,1,nu,nu,[],,['chan2019'],,False,False,,2
+kabo1247-2-2-1,,kabo1247-2,2,olo,olo,[],,['chan2019'],,False,False,,2
+kabo1247-2-3-1,,kabo1247-2,3,towo,towo,[],,['chan2019'],,False,False,,2
+kabo1247-2-4-1,,kabo1247-2,4,ut,ut,[],,['chan2019'],,False,False,,2
+kabo1247-2-5-1,,kabo1247-2,5,weseng,weseng,[],,['chan2019'],,False,False,,2
+kabo1247-2-6-1,,kabo1247-2,6,talang,talang,[],,['chan2019'],,False,False,,2
+kabo1247-2-7-1,,kabo1247-2,7,utco,utco,[],,['chan2019'],,False,False,,2
+kabo1247-2-8-1,,kabo1247-2,8,turlo,turlo,[],,['chan2019'],,False,False,,2
+kabo1247-2-9-1,,kabo1247-2,9,tiinu,tiinu,[],,['chan2019'],,False,False,,2
+kabo1247-2-10-1,,kabo1247-2,10,karnu,karnu,[],,['chan2019'],,False,False,,2
+kabo1247-2-11-1,,kabo1247-2,11,karnu woling nu,karnu woling nu,[],,['chan2019'],,False,False,,2
+kabo1247-2-12-1,,kabo1247-2,12,karnu woling olo,karnu woling olo,[],,['chan2019'],,False,False,,2
+kabo1247-2-13-1,,kabo1247-2,13,karnu woling towo,karnu woling towo,[],,['chan2019'],,False,False,,2
+kabo1247-2-14-1,,kabo1247-2,14,karnu woling ut,karnu woling ut,[],,['chan2019'],,False,False,,2
+kabo1247-2-15-1,,kabo1247-2,15,karnu woling weseng,karnu woling weseng,[],,['chan2019'],,False,False,,2
+kabo1247-2-16-1,,kabo1247-2,16,karnu woling talang,karnu woling talang,[],,['chan2019'],,False,False,,2
+kabo1247-2-17-1,,kabo1247-2,17,karnu woling utco,karnu woling utco,[],,['chan2019'],,False,False,,2
+kabo1247-2-18-1,,kabo1247-2,18,karnu woling turlo,karnu woling turlo,[],,['chan2019'],,False,False,,2
+kabo1247-2-19-1,,kabo1247-2,19,karnu woling tiinu,karnu woling tiinu,[],,['chan2019'],,False,False,,2
+kabo1247-2-20-1,,kabo1247-2,20,karjolo,karjolo,[],,['chan2019'],,False,False,,2
+kabo1247-2-21-1,,kabo1247-2,21,karjolo woling nu,karjolo woling nu,[],,['chan2019'],,False,False,,2
+kabo1247-2-22-1,,kabo1247-2,22,karjolo woling olo,karjolo woling olo,[],,['chan2019'],,False,False,,2
+kabo1247-2-23-1,,kabo1247-2,23,karjolo woling towo,karjolo woling towo,[],,['chan2019'],,False,False,,2
+kabo1247-2-24-1,,kabo1247-2,24,karjolo woling ut,karjolo woling ut,[],,['chan2019'],,False,False,,2
+kabo1247-2-25-1,,kabo1247-2,25,karjolo woling weseng,karjolo woling weseng,[],,['chan2019'],,False,False,,2
+kabo1247-2-26-1,,kabo1247-2,26,karjolo woling talang,karjolo woling talang,[],,['chan2019'],,False,False,,2
+kabo1247-2-27-1,,kabo1247-2,27,karjolo woling utco,karjolo woling utco,[],,['chan2019'],,False,False,,2
+kabo1247-2-28-1,,kabo1247-2,28,karjolo woling turlo,karjolo woling turlo,[],,['chan2019'],,False,False,,2
+kabo1247-2-29-1,,kabo1247-2,29,karjolo woling tiinu,karjolo woling tiinu,[],,['chan2019'],,False,False,,2
+kabo1247-2-30-1,,kabo1247-2,30,kar towo,kar towo,[],,['chan2019'],,False,False,,2
+kabo1247-2-40-1,,kabo1247-2,40,kar ut,kar ut,[],,['chan2019'],,False,False,,2
+kabo1247-2-50-1,,kabo1247-2,50,kar weseng,kar weseng,[],,['chan2019'],,False,False,,2
+kabo1247-2-60-1,,kabo1247-2,60,kar talang,kar talang,[],,['chan2019'],,False,False,,2
+kabo1247-2-70-1,,kabo1247-2,70,kar utco,kar utco,[],,['chan2019'],,False,False,,2
+kabo1247-2-80-1,,kabo1247-2,80,kar turlo,kar turlo,[],,['chan2019'],,False,False,,2
+kabo1247-2-90-1,,kabo1247-2,90,kar tiinu,kar tiinu,[],,['chan2019'],,False,False,,2
+kabo1247-2-100-1,,kabo1247-2,100,ratnu,ratnu,[],,['chan2019'],,False,False,,2
+kabo1247-2-200-1,,kabo1247-2,200,rat olo,rat olo,[],,['chan2019'],,False,False,,2
+kabo1247-2-1000-1,,kabo1247-2,1000,ribnu,ribnu,[],,['chan2019'],,False,False,,2
+kabo1247-2-2000-1,,kabo1247-2,2000,ribolo,ribolo,[],,['chan2019'],,False,False,,2

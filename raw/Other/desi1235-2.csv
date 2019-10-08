@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-desi1235-2-1-1,,desi1235-2,1,goʈek,goʈek,[],,[],,False,False,,2
-desi1235-2-2-1,,desi1235-2,2,dui,dui,[],,[],,False,False,,2
-desi1235-2-2-2,,desi1235-2,2,duiʈa,duiʈa,[],,[],,False,False,,2
-desi1235-2-3-1,,desi1235-2,3,tin,tin,[],,[],,False,False,,2
-desi1235-2-4-1,,desi1235-2,4,t͡ʃari,t͡ʃari,[],,[],,False,False,,2
-desi1235-2-5-1,,desi1235-2,5,paːnt͡ʃ,paːnt͡ʃ,[],,[],,False,False,,2
-desi1235-2-6-1,,desi1235-2,6,t͡ʃo,t͡ʃo,[],,[],,False,False,,2
-desi1235-2-7-1,,desi1235-2,7,saːtʰ,saːtʰ,[],,[],,False,False,,2
-desi1235-2-8-1,,desi1235-2,8,aːʈʰ,aːʈʰ,[],,[],,False,False,,2
-desi1235-2-9-1,,desi1235-2,9,no,no,[],,[],,False,False,,2
-desi1235-2-10-1,,desi1235-2,10,dos,dos,[],,[],,False,False,,2
-desi1235-2-11-1,,desi1235-2,11,egaːro,egaːro,[],,[],,False,False,,2
-desi1235-2-12-1,,desi1235-2,12,baːro,baːro,[],,[],,False,False,,2
-desi1235-2-13-1,,desi1235-2,13,teːro,teːro,[],,[],,False,False,,2
-desi1235-2-14-1,,desi1235-2,14,soudo,soudo,[],,[],,False,False,,2
-desi1235-2-15-1,,desi1235-2,15,pontro,pontro,[],,[],,False,False,,2
-desi1235-2-16-1,,desi1235-2,16,soɭo,soɭo,[],,[],,False,False,,2
-desi1235-2-17-1,,desi1235-2,17,sɔtrɔ,sɔtrɔ,[],,[],,False,False,,2
-desi1235-2-18-1,,desi1235-2,18,oʈro,oʈro,[],,[],,False,False,,2
-desi1235-2-19-1,,desi1235-2,19,onis,onis,[],( 20 - 1),[],,False,False,,2
-desi1235-2-20-1,,desi1235-2,20,koɖe,koɖe,[],,[],,False,False,,2
-desi1235-2-21-1,,desi1235-2,21,koɖe goʈek,koɖe goʈek,[],,[],,False,False,,2
-desi1235-2-22-1,,desi1235-2,22,koɖe dui,koɖe dui,[],,[],,False,False,,2
-desi1235-2-23-1,,desi1235-2,23,koɖe tin,koɖe tin,[],,[],,False,False,,2
-desi1235-2-24-1,,desi1235-2,24,koɖe t͡ʃari,koɖe t͡ʃari,[],,[],,False,False,,2
-desi1235-2-25-1,,desi1235-2,25,koɖe paːnt͡ʃ,koɖe paːnt͡ʃ,[],,[],,False,False,,2
-desi1235-2-26-1,,desi1235-2,26,koɖe t͡ʃʰo,koɖe t͡ʃʰo,[],,[],,False,False,,2
-desi1235-2-27-1,,desi1235-2,27,koɖe saːtʰ,koɖe saːtʰ,[],,[],,False,False,,2
-desi1235-2-28-1,,desi1235-2,28,koɖe aːʈʰ,koɖe aːʈʰ,[],,[],,False,False,,2
-desi1235-2-29-1,,desi1235-2,29,koɖe no,koɖe no,[],,[],,False,False,,2
-desi1235-2-30-1,,desi1235-2,30,koɖe dos,koɖe dos,[],( 20 + 10),[],,False,False,,2
-desi1235-2-40-1,,desi1235-2,40,dui koɖe,dui koɖe,[],( 2 x 20 ),[],,False,False,,2
-desi1235-2-50-1,,desi1235-2,50,dui koɖe dos,dui koɖe dos,[],,[],,False,False,,2
-desi1235-2-60-1,,desi1235-2,60,tin koɖe,tin koɖe,[],( 3 x 20 ),[],,False,False,,2
-desi1235-2-70-1,,desi1235-2,70,tin koɖe dos,tin koɖe dos,[],,[],,False,False,,2
-desi1235-2-80-1,,desi1235-2,80,t͡ʃari koɖe,t͡ʃari koɖe,[],( 4 x 20 ),[],,False,False,,2
-desi1235-2-90-1,,desi1235-2,90,t͡ʃari koɖe dos,t͡ʃari koɖe dos,[],,[],,False,False,,2
-desi1235-2-100-1,,desi1235-2,100,soeː,soeː,[],,[],,False,False,,2
-desi1235-2-200-1,,desi1235-2,200,dui soː,dui soː,[],,[],,False,False,,2
-desi1235-2-1000-1,,desi1235-2,1000,od͡zaːr,od͡zaːr,[],,[],,False,False,,2
-desi1235-2-1000-2,,desi1235-2,1000,maːnek,maːnek,[],,[],,False,False,,2
-desi1235-2-2000-1,,desi1235-2,2000,dui od͡zaːr,dui od͡zaːr,[],,[],,False,False,,2
+desi1235-2-1-1,,desi1235-2,1,goʈek,goʈek,[],,['chan2019'],,False,False,,2
+desi1235-2-2-1,,desi1235-2,2,dui,dui,[],,['chan2019'],,False,False,,2
+desi1235-2-2-2,,desi1235-2,2,duiʈa,duiʈa,[],,['chan2019'],,False,False,,2
+desi1235-2-3-1,,desi1235-2,3,tin,tin,[],,['chan2019'],,False,False,,2
+desi1235-2-4-1,,desi1235-2,4,t͡ʃari,t͡ʃari,[],,['chan2019'],,False,False,,2
+desi1235-2-5-1,,desi1235-2,5,paːnt͡ʃ,paːnt͡ʃ,[],,['chan2019'],,False,False,,2
+desi1235-2-6-1,,desi1235-2,6,t͡ʃo,t͡ʃo,[],,['chan2019'],,False,False,,2
+desi1235-2-7-1,,desi1235-2,7,saːtʰ,saːtʰ,[],,['chan2019'],,False,False,,2
+desi1235-2-8-1,,desi1235-2,8,aːʈʰ,aːʈʰ,[],,['chan2019'],,False,False,,2
+desi1235-2-9-1,,desi1235-2,9,no,no,[],,['chan2019'],,False,False,,2
+desi1235-2-10-1,,desi1235-2,10,dos,dos,[],,['chan2019'],,False,False,,2
+desi1235-2-11-1,,desi1235-2,11,egaːro,egaːro,[],,['chan2019'],,False,False,,2
+desi1235-2-12-1,,desi1235-2,12,baːro,baːro,[],,['chan2019'],,False,False,,2
+desi1235-2-13-1,,desi1235-2,13,teːro,teːro,[],,['chan2019'],,False,False,,2
+desi1235-2-14-1,,desi1235-2,14,soudo,soudo,[],,['chan2019'],,False,False,,2
+desi1235-2-15-1,,desi1235-2,15,pontro,pontro,[],,['chan2019'],,False,False,,2
+desi1235-2-16-1,,desi1235-2,16,soɭo,soɭo,[],,['chan2019'],,False,False,,2
+desi1235-2-17-1,,desi1235-2,17,sɔtrɔ,sɔtrɔ,[],,['chan2019'],,False,False,,2
+desi1235-2-18-1,,desi1235-2,18,oʈro,oʈro,[],,['chan2019'],,False,False,,2
+desi1235-2-19-1,,desi1235-2,19,onis,onis,[],( 20 - 1),['chan2019'],,False,False,,2
+desi1235-2-20-1,,desi1235-2,20,koɖe,koɖe,[],,['chan2019'],,False,False,,2
+desi1235-2-21-1,,desi1235-2,21,koɖe goʈek,koɖe goʈek,[],,['chan2019'],,False,False,,2
+desi1235-2-22-1,,desi1235-2,22,koɖe dui,koɖe dui,[],,['chan2019'],,False,False,,2
+desi1235-2-23-1,,desi1235-2,23,koɖe tin,koɖe tin,[],,['chan2019'],,False,False,,2
+desi1235-2-24-1,,desi1235-2,24,koɖe t͡ʃari,koɖe t͡ʃari,[],,['chan2019'],,False,False,,2
+desi1235-2-25-1,,desi1235-2,25,koɖe paːnt͡ʃ,koɖe paːnt͡ʃ,[],,['chan2019'],,False,False,,2
+desi1235-2-26-1,,desi1235-2,26,koɖe t͡ʃʰo,koɖe t͡ʃʰo,[],,['chan2019'],,False,False,,2
+desi1235-2-27-1,,desi1235-2,27,koɖe saːtʰ,koɖe saːtʰ,[],,['chan2019'],,False,False,,2
+desi1235-2-28-1,,desi1235-2,28,koɖe aːʈʰ,koɖe aːʈʰ,[],,['chan2019'],,False,False,,2
+desi1235-2-29-1,,desi1235-2,29,koɖe no,koɖe no,[],,['chan2019'],,False,False,,2
+desi1235-2-30-1,,desi1235-2,30,koɖe dos,koɖe dos,[],( 20 + 10),['chan2019'],,False,False,,2
+desi1235-2-40-1,,desi1235-2,40,dui koɖe,dui koɖe,[],( 2 x 20 ),['chan2019'],,False,False,,2
+desi1235-2-50-1,,desi1235-2,50,dui koɖe dos,dui koɖe dos,[],,['chan2019'],,False,False,,2
+desi1235-2-60-1,,desi1235-2,60,tin koɖe,tin koɖe,[],( 3 x 20 ),['chan2019'],,False,False,,2
+desi1235-2-70-1,,desi1235-2,70,tin koɖe dos,tin koɖe dos,[],,['chan2019'],,False,False,,2
+desi1235-2-80-1,,desi1235-2,80,t͡ʃari koɖe,t͡ʃari koɖe,[],( 4 x 20 ),['chan2019'],,False,False,,2
+desi1235-2-90-1,,desi1235-2,90,t͡ʃari koɖe dos,t͡ʃari koɖe dos,[],,['chan2019'],,False,False,,2
+desi1235-2-100-1,,desi1235-2,100,soeː,soeː,[],,['chan2019'],,False,False,,2
+desi1235-2-200-1,,desi1235-2,200,dui soː,dui soː,[],,['chan2019'],,False,False,,2
+desi1235-2-1000-1,,desi1235-2,1000,od͡zaːr,od͡zaːr,[],,['chan2019'],,False,False,,2
+desi1235-2-1000-2,,desi1235-2,1000,maːnek,maːnek,[],,['chan2019'],,False,False,,2
+desi1235-2-2000-1,,desi1235-2,2000,dui od͡zaːr,dui od͡zaːr,[],,['chan2019'],,False,False,,2

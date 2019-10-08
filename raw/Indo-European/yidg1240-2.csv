@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yidg1240-2-1-1,,yidg1240-2,1,yu,yu,[],,[],,False,False,,2
-yidg1240-2-2-1,,yidg1240-2,2,loʰ,loʰ,[],,[],,False,False,,2
-yidg1240-2-3-1,,yidg1240-2,3,ʃɪroi,ʃɪroi,[],,[],,False,False,,2
-yidg1240-2-4-1,,yidg1240-2,4,t͡ʃir,t͡ʃir,[],,[],,False,False,,2
-yidg1240-2-5-1,,yidg1240-2,5,pant͡ʃ,pant͡ʃ,[],,[],,False,False,,2
-yidg1240-2-6-1,,yidg1240-2,6,uxʃo,uxʃo,[],,[],,False,False,,2
-yidg1240-2-7-1,,yidg1240-2,7,ʌfdo,ʌfdo,[],,[],,False,False,,2
-yidg1240-2-8-1,,yidg1240-2,8,oʃt͡ʃo,oʃt͡ʃo,[],,[],,False,False,,2
-yidg1240-2-9-1,,yidg1240-2,9,no,no,[],,[],,False,False,,2
-yidg1240-2-10-1,,yidg1240-2,10,los,los,[],,[],,False,False,,2
-yidg1240-2-11-1,,yidg1240-2,11,los yu,los yu,[],,[],,False,False,,2
-yidg1240-2-12-1,,yidg1240-2,12,los loʰ,los loʰ,[],,[],,False,False,,2
-yidg1240-2-13-1,,yidg1240-2,13,los ʃɪroi,los ʃɪroi,[],,[],,False,False,,2
-yidg1240-2-14-1,,yidg1240-2,14,los t͡ʃir,los t͡ʃir,[],,[],,False,False,,2
-yidg1240-2-15-1,,yidg1240-2,15,los pant͡ʃ,los pant͡ʃ,[],,[],,False,False,,2
-yidg1240-2-16-1,,yidg1240-2,16,los uxʃo,los uxʃo,[],,[],,False,False,,2
-yidg1240-2-17-1,,yidg1240-2,17,los ʌfdo,los ʌfdo,[],,[],,False,False,,2
-yidg1240-2-18-1,,yidg1240-2,18,los oʃt͡ʃo,los oʃt͡ʃo,[],,[],,False,False,,2
-yidg1240-2-19-1,,yidg1240-2,19,los no,los no,[],,[],,False,False,,2
-yidg1240-2-20-1,,yidg1240-2,20,wisto,wisto,[],,[],,False,False,,2
-yidg1240-2-21-1,,yidg1240-2,21,wisto yu,wisto yu,[],,[],,False,False,,2
-yidg1240-2-22-1,,yidg1240-2,22,wisto loʰ,wisto loʰ,[],,[],,False,False,,2
-yidg1240-2-23-1,,yidg1240-2,23,wisto ʃɪroi,wisto ʃɪroi,[],,[],,False,False,,2
-yidg1240-2-24-1,,yidg1240-2,24,wisto t͡ʃir,wisto t͡ʃir,[],,[],,False,False,,2
-yidg1240-2-25-1,,yidg1240-2,25,wisto pant͡ʃ,wisto pant͡ʃ,[],,[],,False,False,,2
-yidg1240-2-26-1,,yidg1240-2,26,wisto uxʃo,wisto uxʃo,[],,[],,False,False,,2
-yidg1240-2-27-1,,yidg1240-2,27,wisto ʌfdo,wisto ʌfdo,[],,[],,False,False,,2
-yidg1240-2-28-1,,yidg1240-2,28,wisto oʃt͡ʃo,wisto oʃt͡ʃo,[],,[],,False,False,,2
-yidg1240-2-29-1,,yidg1240-2,29,wisto no,wisto no,[],,[],,False,False,,2
-yidg1240-2-30-1,,yidg1240-2,30,wisto los,wisto los,[],,[],,False,False,,2
-yidg1240-2-40-1,,yidg1240-2,40,loʰ wist,loʰ wist,[],,[],,False,False,,2
-yidg1240-2-50-1,,yidg1240-2,50,loʰ wisto los,loʰ wisto los,[],,[],,False,False,,2
-yidg1240-2-60-1,,yidg1240-2,60,ʃɪroi wist,ʃɪroi wist,[],,[],,False,False,,2
-yidg1240-2-70-1,,yidg1240-2,70,ʃɪroi wisto los,ʃɪroi wisto los,[],,[],,False,False,,2
-yidg1240-2-80-1,,yidg1240-2,80,t͡ʃir wist,t͡ʃir wist,[],,[],,False,False,,2
-yidg1240-2-90-1,,yidg1240-2,90,t͡ʃir wisto los,t͡ʃir wisto los,[],,[],,False,False,,2
-yidg1240-2-100-1,,yidg1240-2,100,ʃor,ʃor,[],,[],,False,False,,2
-yidg1240-2-100-2,,yidg1240-2,100,pant͡ʃ wist,pant͡ʃ wist,[],,[],,False,False,,2
-yidg1240-2-200-1,,yidg1240-2,200,loʰ ʃor,loʰ ʃor,[],,[],,False,False,,2
-yidg1240-2-1000-1,,yidg1240-2,1000,hazar,hazar,[],,[],,False,False,,2
-yidg1240-2-2000-1,,yidg1240-2,2000,loʰ hazar,loʰ hazar,[],,[],,False,False,,2
+yidg1240-2-1-1,,yidg1240-2,1,yu,yu,[],,['chan2019'],,False,False,,2
+yidg1240-2-2-1,,yidg1240-2,2,loʰ,loʰ,[],,['chan2019'],,False,False,,2
+yidg1240-2-3-1,,yidg1240-2,3,ʃɪroi,ʃɪroi,[],,['chan2019'],,False,False,,2
+yidg1240-2-4-1,,yidg1240-2,4,t͡ʃir,t͡ʃir,[],,['chan2019'],,False,False,,2
+yidg1240-2-5-1,,yidg1240-2,5,pant͡ʃ,pant͡ʃ,[],,['chan2019'],,False,False,,2
+yidg1240-2-6-1,,yidg1240-2,6,uxʃo,uxʃo,[],,['chan2019'],,False,False,,2
+yidg1240-2-7-1,,yidg1240-2,7,ʌfdo,ʌfdo,[],,['chan2019'],,False,False,,2
+yidg1240-2-8-1,,yidg1240-2,8,oʃt͡ʃo,oʃt͡ʃo,[],,['chan2019'],,False,False,,2
+yidg1240-2-9-1,,yidg1240-2,9,no,no,[],,['chan2019'],,False,False,,2
+yidg1240-2-10-1,,yidg1240-2,10,los,los,[],,['chan2019'],,False,False,,2
+yidg1240-2-11-1,,yidg1240-2,11,los yu,los yu,[],,['chan2019'],,False,False,,2
+yidg1240-2-12-1,,yidg1240-2,12,los loʰ,los loʰ,[],,['chan2019'],,False,False,,2
+yidg1240-2-13-1,,yidg1240-2,13,los ʃɪroi,los ʃɪroi,[],,['chan2019'],,False,False,,2
+yidg1240-2-14-1,,yidg1240-2,14,los t͡ʃir,los t͡ʃir,[],,['chan2019'],,False,False,,2
+yidg1240-2-15-1,,yidg1240-2,15,los pant͡ʃ,los pant͡ʃ,[],,['chan2019'],,False,False,,2
+yidg1240-2-16-1,,yidg1240-2,16,los uxʃo,los uxʃo,[],,['chan2019'],,False,False,,2
+yidg1240-2-17-1,,yidg1240-2,17,los ʌfdo,los ʌfdo,[],,['chan2019'],,False,False,,2
+yidg1240-2-18-1,,yidg1240-2,18,los oʃt͡ʃo,los oʃt͡ʃo,[],,['chan2019'],,False,False,,2
+yidg1240-2-19-1,,yidg1240-2,19,los no,los no,[],,['chan2019'],,False,False,,2
+yidg1240-2-20-1,,yidg1240-2,20,wisto,wisto,[],,['chan2019'],,False,False,,2
+yidg1240-2-21-1,,yidg1240-2,21,wisto yu,wisto yu,[],,['chan2019'],,False,False,,2
+yidg1240-2-22-1,,yidg1240-2,22,wisto loʰ,wisto loʰ,[],,['chan2019'],,False,False,,2
+yidg1240-2-23-1,,yidg1240-2,23,wisto ʃɪroi,wisto ʃɪroi,[],,['chan2019'],,False,False,,2
+yidg1240-2-24-1,,yidg1240-2,24,wisto t͡ʃir,wisto t͡ʃir,[],,['chan2019'],,False,False,,2
+yidg1240-2-25-1,,yidg1240-2,25,wisto pant͡ʃ,wisto pant͡ʃ,[],,['chan2019'],,False,False,,2
+yidg1240-2-26-1,,yidg1240-2,26,wisto uxʃo,wisto uxʃo,[],,['chan2019'],,False,False,,2
+yidg1240-2-27-1,,yidg1240-2,27,wisto ʌfdo,wisto ʌfdo,[],,['chan2019'],,False,False,,2
+yidg1240-2-28-1,,yidg1240-2,28,wisto oʃt͡ʃo,wisto oʃt͡ʃo,[],,['chan2019'],,False,False,,2
+yidg1240-2-29-1,,yidg1240-2,29,wisto no,wisto no,[],,['chan2019'],,False,False,,2
+yidg1240-2-30-1,,yidg1240-2,30,wisto los,wisto los,[],,['chan2019'],,False,False,,2
+yidg1240-2-40-1,,yidg1240-2,40,loʰ wist,loʰ wist,[],,['chan2019'],,False,False,,2
+yidg1240-2-50-1,,yidg1240-2,50,loʰ wisto los,loʰ wisto los,[],,['chan2019'],,False,False,,2
+yidg1240-2-60-1,,yidg1240-2,60,ʃɪroi wist,ʃɪroi wist,[],,['chan2019'],,False,False,,2
+yidg1240-2-70-1,,yidg1240-2,70,ʃɪroi wisto los,ʃɪroi wisto los,[],,['chan2019'],,False,False,,2
+yidg1240-2-80-1,,yidg1240-2,80,t͡ʃir wist,t͡ʃir wist,[],,['chan2019'],,False,False,,2
+yidg1240-2-90-1,,yidg1240-2,90,t͡ʃir wisto los,t͡ʃir wisto los,[],,['chan2019'],,False,False,,2
+yidg1240-2-100-1,,yidg1240-2,100,ʃor,ʃor,[],,['chan2019'],,False,False,,2
+yidg1240-2-100-2,,yidg1240-2,100,pant͡ʃ wist,pant͡ʃ wist,[],,['chan2019'],,False,False,,2
+yidg1240-2-200-1,,yidg1240-2,200,loʰ ʃor,loʰ ʃor,[],,['chan2019'],,False,False,,2
+yidg1240-2-1000-1,,yidg1240-2,1000,hazar,hazar,[],,['chan2019'],,False,False,,2
+yidg1240-2-2000-1,,yidg1240-2,2000,loʰ hazar,loʰ hazar,[],,['chan2019'],,False,False,,2

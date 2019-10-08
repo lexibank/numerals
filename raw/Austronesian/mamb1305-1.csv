@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mamb1305-1-1-1,,mamb1305-1,1,dis(s)a,dis(s)a,[],,[],,False,False,,1
-mamb1305-1-2-1,,mamb1305-1,2,duada,duada,[],,[],,False,False,,1
-mamb1305-1-3-1,,mamb1305-1,3,taulu,taulu,[],,[],,False,False,,1
-mamb1305-1-4-1,,mamb1305-1,4,pata,pata,[],,[],,False,False,,1
-mamb1305-1-5-1,,mamb1305-1,5,limma,limma,[],,[],,False,False,,1
-mamb1305-1-6-1,,mamb1305-1,6,nammu,nammu,[],,[],,False,False,,1
-mamb1305-1-7-1,,mamb1305-1,7,pittu,pittu,[],,[],,False,False,,1
-mamb1305-1-8-1,,mamb1305-1,8,walu,walu,[],,[],,False,False,,1
-mamb1305-1-9-1,,mamb1305-1,9,siwwa,siwwa,[],,[],,False,False,,1
-mamb1305-1-10-1,,mamb1305-1,10,sakambullu,sakambullu,[],,[],,False,False,,1
-mamb1305-1-11-1,,mamb1305-1,11,sakambullu dis(s)a,sakambullu dis(s)a,[],,[],,False,False,,1
-mamb1305-1-12-1,,mamb1305-1,12,sakambullu duada,sakambullu duada,[],,[],,False,False,,1
-mamb1305-1-13-1,,mamb1305-1,13,sakambullu taulu,sakambullu taulu,[],,[],,False,False,,1
-mamb1305-1-14-1,,mamb1305-1,14,sakambullu pata,sakambullu pata,[],,[],,False,False,,1
-mamb1305-1-15-1,,mamb1305-1,15,sakambullu limma,sakambullu limma,[],,[],,False,False,,1
-mamb1305-1-16-1,,mamb1305-1,16,sakambullu nammu,sakambullu nammu,[],,[],,False,False,,1
-mamb1305-1-17-1,,mamb1305-1,17,sakambullu pittu,sakambullu pittu,[],,[],,False,False,,1
-mamb1305-1-18-1,,mamb1305-1,18,sakambullu walu,sakambullu walu,[],,[],,False,False,,1
-mamb1305-1-19-1,,mamb1305-1,19,sakambullu siwwa,sakambullu siwwa,[],,[],,False,False,,1
-mamb1305-1-20-1,,mamb1305-1,20,dua kambullu,dua kambullu,[],,[],,False,False,,1
-mamb1305-1-21-1,,mamb1305-1,21,dua kambullu dis(s)a,dua kambullu dis(s)a,[],,[],,False,False,,1
-mamb1305-1-22-1,,mamb1305-1,22,dua kambullu duada,dua kambullu duada,[],,[],,False,False,,1
-mamb1305-1-23-1,,mamb1305-1,23,dua kambullu taulu,dua kambullu taulu,[],,[],,False,False,,1
-mamb1305-1-24-1,,mamb1305-1,24,dua kambullu pata,dua kambullu pata,[],,[],,False,False,,1
-mamb1305-1-25-1,,mamb1305-1,25,dua kambullu limma,dua kambullu limma,[],,[],,False,False,,1
-mamb1305-1-26-1,,mamb1305-1,26,dua kambullu nammu,dua kambullu nammu,[],,[],,False,False,,1
-mamb1305-1-27-1,,mamb1305-1,27,dua kambullu pittu,dua kambullu pittu,[],,[],,False,False,,1
-mamb1305-1-28-1,,mamb1305-1,28,dua kambullu walu,dua kambullu walu,[],,[],,False,False,,1
-mamb1305-1-29-1,,mamb1305-1,29,dua kambullu siwwa,dua kambullu siwwa,[],,[],,False,False,,1
-mamb1305-1-30-1,,mamb1305-1,30,taulu kambullu,taulu kambullu,[],,[],,False,False,,1
-mamb1305-1-40-1,,mamb1305-1,40,pata kambullu,pata kambullu,[],,[],,False,False,,1
-mamb1305-1-50-1,,mamb1305-1,50,limma kambullu,limma kambullu,[],,[],,False,False,,1
-mamb1305-1-60-1,,mamb1305-1,60,nammu kambullu,nammu kambullu,[],,[],,False,False,,1
-mamb1305-1-70-1,,mamb1305-1,70,pittu kambullu,pittu kambullu,[],,[],,False,False,,1
-mamb1305-1-80-1,,mamb1305-1,80,walu kambullu,walu kambullu,[],,[],,False,False,,1
-mamb1305-1-90-1,,mamb1305-1,90,siwwa kambullu,siwwa kambullu,[],,[],,False,False,,1
-mamb1305-1-100-1,,mamb1305-1,100,saŋasu,saŋasu,[],,[],,False,False,,1
-mamb1305-1-200-1,,mamb1305-1,200,dua ŋasu,dua ŋasu,[],,[],,False,False,,1
-mamb1305-1-1000-1,,mamb1305-1,1000,sarata,sarata,[],,[],,False,False,,1
-mamb1305-1-2000-1,,mamb1305-1,2000,dua rata,dua rata,[],,[],,False,False,,1
+mamb1305-1-1-1,,mamb1305-1,1,dis(s)a,dis(s)a,[],,['chan2019'],,False,False,,1
+mamb1305-1-2-1,,mamb1305-1,2,duada,duada,[],,['chan2019'],,False,False,,1
+mamb1305-1-3-1,,mamb1305-1,3,taulu,taulu,[],,['chan2019'],,False,False,,1
+mamb1305-1-4-1,,mamb1305-1,4,pata,pata,[],,['chan2019'],,False,False,,1
+mamb1305-1-5-1,,mamb1305-1,5,limma,limma,[],,['chan2019'],,False,False,,1
+mamb1305-1-6-1,,mamb1305-1,6,nammu,nammu,[],,['chan2019'],,False,False,,1
+mamb1305-1-7-1,,mamb1305-1,7,pittu,pittu,[],,['chan2019'],,False,False,,1
+mamb1305-1-8-1,,mamb1305-1,8,walu,walu,[],,['chan2019'],,False,False,,1
+mamb1305-1-9-1,,mamb1305-1,9,siwwa,siwwa,[],,['chan2019'],,False,False,,1
+mamb1305-1-10-1,,mamb1305-1,10,sakambullu,sakambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-11-1,,mamb1305-1,11,sakambullu dis(s)a,sakambullu dis(s)a,[],,['chan2019'],,False,False,,1
+mamb1305-1-12-1,,mamb1305-1,12,sakambullu duada,sakambullu duada,[],,['chan2019'],,False,False,,1
+mamb1305-1-13-1,,mamb1305-1,13,sakambullu taulu,sakambullu taulu,[],,['chan2019'],,False,False,,1
+mamb1305-1-14-1,,mamb1305-1,14,sakambullu pata,sakambullu pata,[],,['chan2019'],,False,False,,1
+mamb1305-1-15-1,,mamb1305-1,15,sakambullu limma,sakambullu limma,[],,['chan2019'],,False,False,,1
+mamb1305-1-16-1,,mamb1305-1,16,sakambullu nammu,sakambullu nammu,[],,['chan2019'],,False,False,,1
+mamb1305-1-17-1,,mamb1305-1,17,sakambullu pittu,sakambullu pittu,[],,['chan2019'],,False,False,,1
+mamb1305-1-18-1,,mamb1305-1,18,sakambullu walu,sakambullu walu,[],,['chan2019'],,False,False,,1
+mamb1305-1-19-1,,mamb1305-1,19,sakambullu siwwa,sakambullu siwwa,[],,['chan2019'],,False,False,,1
+mamb1305-1-20-1,,mamb1305-1,20,dua kambullu,dua kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-21-1,,mamb1305-1,21,dua kambullu dis(s)a,dua kambullu dis(s)a,[],,['chan2019'],,False,False,,1
+mamb1305-1-22-1,,mamb1305-1,22,dua kambullu duada,dua kambullu duada,[],,['chan2019'],,False,False,,1
+mamb1305-1-23-1,,mamb1305-1,23,dua kambullu taulu,dua kambullu taulu,[],,['chan2019'],,False,False,,1
+mamb1305-1-24-1,,mamb1305-1,24,dua kambullu pata,dua kambullu pata,[],,['chan2019'],,False,False,,1
+mamb1305-1-25-1,,mamb1305-1,25,dua kambullu limma,dua kambullu limma,[],,['chan2019'],,False,False,,1
+mamb1305-1-26-1,,mamb1305-1,26,dua kambullu nammu,dua kambullu nammu,[],,['chan2019'],,False,False,,1
+mamb1305-1-27-1,,mamb1305-1,27,dua kambullu pittu,dua kambullu pittu,[],,['chan2019'],,False,False,,1
+mamb1305-1-28-1,,mamb1305-1,28,dua kambullu walu,dua kambullu walu,[],,['chan2019'],,False,False,,1
+mamb1305-1-29-1,,mamb1305-1,29,dua kambullu siwwa,dua kambullu siwwa,[],,['chan2019'],,False,False,,1
+mamb1305-1-30-1,,mamb1305-1,30,taulu kambullu,taulu kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-40-1,,mamb1305-1,40,pata kambullu,pata kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-50-1,,mamb1305-1,50,limma kambullu,limma kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-60-1,,mamb1305-1,60,nammu kambullu,nammu kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-70-1,,mamb1305-1,70,pittu kambullu,pittu kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-80-1,,mamb1305-1,80,walu kambullu,walu kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-90-1,,mamb1305-1,90,siwwa kambullu,siwwa kambullu,[],,['chan2019'],,False,False,,1
+mamb1305-1-100-1,,mamb1305-1,100,saŋasu,saŋasu,[],,['chan2019'],,False,False,,1
+mamb1305-1-200-1,,mamb1305-1,200,dua ŋasu,dua ŋasu,[],,['chan2019'],,False,False,,1
+mamb1305-1-1000-1,,mamb1305-1,1000,sarata,sarata,[],,['chan2019'],,False,False,,1
+mamb1305-1-2000-1,,mamb1305-1,2000,dua rata,dua rata,[],,['chan2019'],,False,False,,1

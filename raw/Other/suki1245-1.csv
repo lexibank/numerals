@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-suki1245-1-1-1,,suki1245-1,1,nimap,nimap,[],,[],,False,False,,1
-suki1245-1-2-1,,suki1245-1,2,menes,menes,[],,[],,False,False,,1
-suki1245-1-3-1,,suki1245-1,3,menes nimap,menes nimap,[],,[],,False,False,,1
-suki1245-1-4-1,,suki1245-1,4,menes menes,menes menes,[],,[],,False,False,,1
-suki1245-1-5-1,,suki1245-1,5,damti(yap),damti(yap),[],(kabse),[],,False,False,,1
-suki1245-1-6-1,,suki1245-1,6,damti(yap) kabse nimap,damti(yap) kabse nimap,[],,[],,False,False,,1
-suki1245-1-7-1,,suki1245-1,7,damti(yap) kabse menes,damti(yap) kabse menes,[],,[],,False,False,,1
-suki1245-1-8-1,,suki1245-1,8,damti(yap) kabse menes nimap,damti(yap) kabse menes nimap,[],,[],,False,False,,1
-suki1245-1-9-1,,suki1245-1,9,damti(yap) kabse menes menes,damti(yap) kabse menes menes,[],,[],,False,False,,1
-suki1245-1-10-1,,suki1245-1,10,damti damti,damti damti,[],,[],,False,False,,1
+suki1245-1-1-1,,suki1245-1,1,nimap,nimap,[],,['chan2019'],,False,False,,1
+suki1245-1-2-1,,suki1245-1,2,menes,menes,[],,['chan2019'],,False,False,,1
+suki1245-1-3-1,,suki1245-1,3,menes nimap,menes nimap,[],,['chan2019'],,False,False,,1
+suki1245-1-4-1,,suki1245-1,4,menes menes,menes menes,[],,['chan2019'],,False,False,,1
+suki1245-1-5-1,,suki1245-1,5,damti(yap),damti(yap),[],(kabse),['chan2019'],,False,False,,1
+suki1245-1-6-1,,suki1245-1,6,damti(yap) kabse nimap,damti(yap) kabse nimap,[],,['chan2019'],,False,False,,1
+suki1245-1-7-1,,suki1245-1,7,damti(yap) kabse menes,damti(yap) kabse menes,[],,['chan2019'],,False,False,,1
+suki1245-1-8-1,,suki1245-1,8,damti(yap) kabse menes nimap,damti(yap) kabse menes nimap,[],,['chan2019'],,False,False,,1
+suki1245-1-9-1,,suki1245-1,9,damti(yap) kabse menes menes,damti(yap) kabse menes menes,[],,['chan2019'],,False,False,,1
+suki1245-1-10-1,,suki1245-1,10,damti damti,damti damti,[],,['chan2019'],,False,False,,1

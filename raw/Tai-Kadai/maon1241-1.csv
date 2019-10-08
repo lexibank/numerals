@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maon1241-1-1-1,,maon1241-1,1,tɔ231,tɔ231,[],,[],,False,False,,1
-maon1241-1-2-1,,maon1241-1,2,ja42,ja42,[],,[],,False,False,,1
-maon1241-1-3-1,,maon1241-1,3,saːm42,saːm42,[],,[],,False,False,,1
-maon1241-1-4-1,,maon1241-1,4,si44,si44,[],,[],,False,False,,1
-maon1241-1-5-1,,maon1241-1,5,ŋɔ24,ŋɔ24,[],,[],,False,False,,1
-maon1241-1-6-1,,maon1241-1,6,ljɔk23,ljɔk23,[],,[],,False,False,,1
-maon1241-1-7-1,,maon1241-1,7,ɕit55,ɕit55,[],,[],,False,False,,1
-maon1241-1-8-1,,maon1241-1,8,pjaːt44,pjaːt44,[],,[],,False,False,,1
-maon1241-1-9-1,,maon1241-1,9,cu51,cu51,[],,[],,False,False,,1
-maon1241-1-10-1,,maon1241-1,10,zəp23,zəp23,[],,[],,False,False,,1
-maon1241-1-11-1,,maon1241-1,11,zəpʔ23jit55,zəpʔ23jit55,[],,[],,False,False,,1
-maon1241-1-12-1,,maon1241-1,12,zəpʔ23ȵi213,zəpʔ23ȵi213,[],,[],,False,False,,1
-maon1241-1-13-1,,maon1241-1,13,zəpʔ23saːm42,zəpʔ23saːm42,[],,[],,False,False,,1
-maon1241-1-14-1,,maon1241-1,14,zəpʔ23si44,zəpʔ23si44,[],,[],,False,False,,1
-maon1241-1-15-1,,maon1241-1,15,zəpʔ23ŋɔ24,zəpʔ23ŋɔ24,[],,[],,False,False,,1
-maon1241-1-16-1,,maon1241-1,16,zəpʔ23ljɔk23,zəpʔ23ljɔk23,[],,[],,False,False,,1
-maon1241-1-17-1,,maon1241-1,17,zəpʔ23ɕit55,zəpʔ23ɕit55,[],,[],,False,False,,1
-maon1241-1-18-1,,maon1241-1,18,zəpʔ23pjaːt44,zəpʔ23pjaːt44,[],,[],,False,False,,1
-maon1241-1-19-1,,maon1241-1,19,zəpʔ23ku54,zəpʔ23ku54,[],,[],,False,False,,1
-maon1241-1-20-1,,maon1241-1,20,ȵi213zəp23,ȵi213zəp23,[],,[],,False,False,,1
-maon1241-1-21-1,,maon1241-1,21,ȵi213zəp23 jit55,ȵi213zəp23 jit55,[],,[],,False,False,,1
-maon1241-1-22-1,,maon1241-1,22,ȵi213 zəp23 ȵi213,ȵi213 zəp23 ȵi213,[],,[],,False,False,,1
-maon1241-1-23-1,,maon1241-1,23,ȵi213 zəp23 saːm42,ȵi213 zəp23 saːm42,[],,[],,False,False,,1
-maon1241-1-24-1,,maon1241-1,24,ȵi213 zəp23 si44,ȵi213 zəp23 si44,[],,[],,False,False,,1
-maon1241-1-25-1,,maon1241-1,25,ȵi213 zəp23 ŋɔ24,ȵi213 zəp23 ŋɔ24,[],,[],,False,False,,1
-maon1241-1-26-1,,maon1241-1,26,ȵi213 zəp23 ljɔk23,ȵi213 zəp23 ljɔk23,[],,[],,False,False,,1
-maon1241-1-27-1,,maon1241-1,27,ȵi213 zəp23 ɕit55,ȵi213 zəp23 ɕit55,[],,[],,False,False,,1
-maon1241-1-28-1,,maon1241-1,28,ȵi213 zəp23 pjaːt44,ȵi213 zəp23 pjaːt44,[],,[],,False,False,,1
-maon1241-1-29-1,,maon1241-1,29,ȵi213 zəp23 cu51,ȵi213 zəp23 cu51,[],,[],,False,False,,1
-maon1241-1-30-1,,maon1241-1,30,saːm42 zəp23,saːm42 zəp23,[],,[],,False,False,,1
-maon1241-1-40-1,,maon1241-1,40,si44 zəp23,si44 zəp23,[],,[],,False,False,,1
-maon1241-1-50-1,,maon1241-1,50,ŋɔ24 zəp23,ŋɔ24 zəp23,[],,[],,False,False,,1
-maon1241-1-60-1,,maon1241-1,60,ljɔk23 zəp23,ljɔk23 zəp23,[],,[],,False,False,,1
-maon1241-1-70-1,,maon1241-1,70,ɕit55 zəp23,ɕit55 zəp23,[],,[],,False,False,,1
-maon1241-1-80-1,,maon1241-1,80,pjaːt44 zəp23,pjaːt44 zəp23,[],,[],,False,False,,1
-maon1241-1-90-1,,maon1241-1,90,cu51 zəp23,cu51 zəp23,[],,[],,False,False,,1
-maon1241-1-100-1,,maon1241-1,100,pɛk55 dɛu231,pɛk55 dɛu231,[],,[],,False,False,,1
-maon1241-1-200-1,,maon1241-1,200,ja42 pɛk55,ja42 pɛk55,[],,[],,False,False,,1
-maon1241-1-1000-1,,maon1241-1,1000,tʰjen42 dɛu231,tʰjen42 dɛu231,[],,[],,False,False,,1
-maon1241-1-1000-2,,maon1241-1,1000,ɕen42 dɛu231,ɕen42 dɛu231,[],,[],,False,False,,1
-maon1241-1-2000-1,,maon1241-1,2000,ja42 tʰjen42,ja42 tʰjen42,[],,[],,False,False,,1
-maon1241-1-2000-2,,maon1241-1,2000,ja42 ɕen42,ja42 ɕen42,[],,[],,False,False,,1
+maon1241-1-1-1,,maon1241-1,1,tɔ231,tɔ231,[],,['chan2019'],,False,False,,1
+maon1241-1-2-1,,maon1241-1,2,ja42,ja42,[],,['chan2019'],,False,False,,1
+maon1241-1-3-1,,maon1241-1,3,saːm42,saːm42,[],,['chan2019'],,False,False,,1
+maon1241-1-4-1,,maon1241-1,4,si44,si44,[],,['chan2019'],,False,False,,1
+maon1241-1-5-1,,maon1241-1,5,ŋɔ24,ŋɔ24,[],,['chan2019'],,False,False,,1
+maon1241-1-6-1,,maon1241-1,6,ljɔk23,ljɔk23,[],,['chan2019'],,False,False,,1
+maon1241-1-7-1,,maon1241-1,7,ɕit55,ɕit55,[],,['chan2019'],,False,False,,1
+maon1241-1-8-1,,maon1241-1,8,pjaːt44,pjaːt44,[],,['chan2019'],,False,False,,1
+maon1241-1-9-1,,maon1241-1,9,cu51,cu51,[],,['chan2019'],,False,False,,1
+maon1241-1-10-1,,maon1241-1,10,zəp23,zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-11-1,,maon1241-1,11,zəpʔ23jit55,zəpʔ23jit55,[],,['chan2019'],,False,False,,1
+maon1241-1-12-1,,maon1241-1,12,zəpʔ23ȵi213,zəpʔ23ȵi213,[],,['chan2019'],,False,False,,1
+maon1241-1-13-1,,maon1241-1,13,zəpʔ23saːm42,zəpʔ23saːm42,[],,['chan2019'],,False,False,,1
+maon1241-1-14-1,,maon1241-1,14,zəpʔ23si44,zəpʔ23si44,[],,['chan2019'],,False,False,,1
+maon1241-1-15-1,,maon1241-1,15,zəpʔ23ŋɔ24,zəpʔ23ŋɔ24,[],,['chan2019'],,False,False,,1
+maon1241-1-16-1,,maon1241-1,16,zəpʔ23ljɔk23,zəpʔ23ljɔk23,[],,['chan2019'],,False,False,,1
+maon1241-1-17-1,,maon1241-1,17,zəpʔ23ɕit55,zəpʔ23ɕit55,[],,['chan2019'],,False,False,,1
+maon1241-1-18-1,,maon1241-1,18,zəpʔ23pjaːt44,zəpʔ23pjaːt44,[],,['chan2019'],,False,False,,1
+maon1241-1-19-1,,maon1241-1,19,zəpʔ23ku54,zəpʔ23ku54,[],,['chan2019'],,False,False,,1
+maon1241-1-20-1,,maon1241-1,20,ȵi213zəp23,ȵi213zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-21-1,,maon1241-1,21,ȵi213zəp23 jit55,ȵi213zəp23 jit55,[],,['chan2019'],,False,False,,1
+maon1241-1-22-1,,maon1241-1,22,ȵi213 zəp23 ȵi213,ȵi213 zəp23 ȵi213,[],,['chan2019'],,False,False,,1
+maon1241-1-23-1,,maon1241-1,23,ȵi213 zəp23 saːm42,ȵi213 zəp23 saːm42,[],,['chan2019'],,False,False,,1
+maon1241-1-24-1,,maon1241-1,24,ȵi213 zəp23 si44,ȵi213 zəp23 si44,[],,['chan2019'],,False,False,,1
+maon1241-1-25-1,,maon1241-1,25,ȵi213 zəp23 ŋɔ24,ȵi213 zəp23 ŋɔ24,[],,['chan2019'],,False,False,,1
+maon1241-1-26-1,,maon1241-1,26,ȵi213 zəp23 ljɔk23,ȵi213 zəp23 ljɔk23,[],,['chan2019'],,False,False,,1
+maon1241-1-27-1,,maon1241-1,27,ȵi213 zəp23 ɕit55,ȵi213 zəp23 ɕit55,[],,['chan2019'],,False,False,,1
+maon1241-1-28-1,,maon1241-1,28,ȵi213 zəp23 pjaːt44,ȵi213 zəp23 pjaːt44,[],,['chan2019'],,False,False,,1
+maon1241-1-29-1,,maon1241-1,29,ȵi213 zəp23 cu51,ȵi213 zəp23 cu51,[],,['chan2019'],,False,False,,1
+maon1241-1-30-1,,maon1241-1,30,saːm42 zəp23,saːm42 zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-40-1,,maon1241-1,40,si44 zəp23,si44 zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-50-1,,maon1241-1,50,ŋɔ24 zəp23,ŋɔ24 zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-60-1,,maon1241-1,60,ljɔk23 zəp23,ljɔk23 zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-70-1,,maon1241-1,70,ɕit55 zəp23,ɕit55 zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-80-1,,maon1241-1,80,pjaːt44 zəp23,pjaːt44 zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-90-1,,maon1241-1,90,cu51 zəp23,cu51 zəp23,[],,['chan2019'],,False,False,,1
+maon1241-1-100-1,,maon1241-1,100,pɛk55 dɛu231,pɛk55 dɛu231,[],,['chan2019'],,False,False,,1
+maon1241-1-200-1,,maon1241-1,200,ja42 pɛk55,ja42 pɛk55,[],,['chan2019'],,False,False,,1
+maon1241-1-1000-1,,maon1241-1,1000,tʰjen42 dɛu231,tʰjen42 dɛu231,[],,['chan2019'],,False,False,,1
+maon1241-1-1000-2,,maon1241-1,1000,ɕen42 dɛu231,ɕen42 dɛu231,[],,['chan2019'],,False,False,,1
+maon1241-1-2000-1,,maon1241-1,2000,ja42 tʰjen42,ja42 tʰjen42,[],,['chan2019'],,False,False,,1
+maon1241-1-2000-2,,maon1241-1,2000,ja42 ɕen42,ja42 ɕen42,[],,['chan2019'],,False,False,,1

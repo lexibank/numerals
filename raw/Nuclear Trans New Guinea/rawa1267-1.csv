@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-rawa1267-1-1-1,,rawa1267-1,1,ɡura-nanɡɡe,ɡura-nanɡɡe,[],(lit: ''one-only''),[],,False,False,,1
-rawa1267-1-2-1,,rawa1267-1,2,eraya,eraya,[],(lit: 'two''),[],,False,False,,1
-rawa1267-1-3-1,,rawa1267-1,3,kabusa,kabusa,[],(lit: ''three''),[],,False,False,,1
-rawa1267-1-4-1,,rawa1267-1,4,namoraya,namoraya,[],(lit: ''four''),[],,False,False,,1
-rawa1267-1-5-1,,rawa1267-1,5,kande-ɡura,kande-ɡura,[],(litː ''hand-one'' ),[],,False,False,,1
-rawa1267-1-6-1,,rawa1267-1,6,kande-ɡuraɡidemboro ɡurananɡɡe,kande-ɡuraɡidemboro ɡurananɡɡe,[],"(lit: ""hand one, other plus one only"" )",[],,False,False,,1
-rawa1267-1-7-1,,rawa1267-1,7,kande-ɡuraɡidemboro eraya,kande-ɡuraɡidemboro eraya,[],"(lit: ""hand one, two more"" )",[],,False,False,,1
-rawa1267-1-8-1,,rawa1267-1,8,kande-ɡura ɡidemboro kabusa,kande-ɡura ɡidemboro kabusa,[],"(lit: ""hand one, plus three"" )",[],,False,False,,1
-rawa1267-1-9-1,,rawa1267-1,9,kande-ɡura ɡidemboro namoraya,kande-ɡura ɡidemboro namoraya,[],"(lit: ""hand one, plus four"" )",[],,False,False,,1
-rawa1267-1-10-1,,rawa1267-1,10,kande eraya,kande eraya,[],(litː ''two hands'' ),[],,False,False,,1
-rawa1267-1-11-1,,rawa1267-1,11,kande eraya ɡidemboro ɡurananɡɡe,kande eraya ɡidemboro ɡurananɡɡe,[],"(lit: ""hands two, plus one"" )",[],,False,False,,1
-rawa1267-1-12-1,,rawa1267-1,12,kande eraya ɡidemboro eraya,kande eraya ɡidemboro eraya,[],"(lit: ""hands two, plus two"" )",[],,False,False,,1
-rawa1267-1-13-1,,rawa1267-1,13,kande eraya ɡidemboro kabusa,kande eraya ɡidemboro kabusa,[],"(lit: ""hands two, plus three"" )",[],,False,False,,1
-rawa1267-1-14-1,,rawa1267-1,14,kande eraya ɡidemboro namoraya,kande eraya ɡidemboro namoraya,[],"(lit: ""hands two, plus four"" )",[],,False,False,,1
-rawa1267-1-15-1,,rawa1267-1,15,kande eraya ke-ɡidemboro,kande eraya ke-ɡidemboro,[],"(lit: ""hands two, plus leg /foot-plus"" )",[],,False,False,,1
-rawa1267-1-16-1,,rawa1267-1,16,kande eraya ke-ɡidemboro ɡurananɡɡe,kande eraya ke-ɡidemboro ɡurananɡɡe,[],"(lit: ""hands two, plus foot-plus one"" )",[],,False,False,,1
-rawa1267-1-17-1,,rawa1267-1,17,kande eraya ke-ɡidemboro eraya,kande eraya ke-ɡidemboro eraya,[],"(lit: ""hands two, plus foot-plus two"" )",[],,False,False,,1
-rawa1267-1-18-1,,rawa1267-1,18,kande eraya ke-ɡidemboro kabusa,kande eraya ke-ɡidemboro kabusa,[],"(lit: ""hands two, plus foot-plus three"" )",[],,False,False,,1
-rawa1267-1-19-1,,rawa1267-1,19,kande eraya ke-ɡidemboro namoraya,kande eraya ke-ɡidemboro namoraya,[],"(lit: ""hands two, plus foot-plus four"" )",[],,False,False,,1
-rawa1267-1-20-1,,rawa1267-1,20,oni-bi-ɡa,oni-bi-ɡa,[],"(lit: ""man-body /finished'', single unit designator; ''one man finished)",[],,False,False,,1
+rawa1267-1-1-1,,rawa1267-1,1,ɡura-nanɡɡe,ɡura-nanɡɡe,[],(lit: ''one-only''),['chan2019'],,False,False,,1
+rawa1267-1-2-1,,rawa1267-1,2,eraya,eraya,[],(lit: 'two''),['chan2019'],,False,False,,1
+rawa1267-1-3-1,,rawa1267-1,3,kabusa,kabusa,[],(lit: ''three''),['chan2019'],,False,False,,1
+rawa1267-1-4-1,,rawa1267-1,4,namoraya,namoraya,[],(lit: ''four''),['chan2019'],,False,False,,1
+rawa1267-1-5-1,,rawa1267-1,5,kande-ɡura,kande-ɡura,[],(litː ''hand-one'' ),['chan2019'],,False,False,,1
+rawa1267-1-6-1,,rawa1267-1,6,kande-ɡuraɡidemboro ɡurananɡɡe,kande-ɡuraɡidemboro ɡurananɡɡe,[],"(lit: ""hand one, other plus one only"" )",['chan2019'],,False,False,,1
+rawa1267-1-7-1,,rawa1267-1,7,kande-ɡuraɡidemboro eraya,kande-ɡuraɡidemboro eraya,[],"(lit: ""hand one, two more"" )",['chan2019'],,False,False,,1
+rawa1267-1-8-1,,rawa1267-1,8,kande-ɡura ɡidemboro kabusa,kande-ɡura ɡidemboro kabusa,[],"(lit: ""hand one, plus three"" )",['chan2019'],,False,False,,1
+rawa1267-1-9-1,,rawa1267-1,9,kande-ɡura ɡidemboro namoraya,kande-ɡura ɡidemboro namoraya,[],"(lit: ""hand one, plus four"" )",['chan2019'],,False,False,,1
+rawa1267-1-10-1,,rawa1267-1,10,kande eraya,kande eraya,[],(litː ''two hands'' ),['chan2019'],,False,False,,1
+rawa1267-1-11-1,,rawa1267-1,11,kande eraya ɡidemboro ɡurananɡɡe,kande eraya ɡidemboro ɡurananɡɡe,[],"(lit: ""hands two, plus one"" )",['chan2019'],,False,False,,1
+rawa1267-1-12-1,,rawa1267-1,12,kande eraya ɡidemboro eraya,kande eraya ɡidemboro eraya,[],"(lit: ""hands two, plus two"" )",['chan2019'],,False,False,,1
+rawa1267-1-13-1,,rawa1267-1,13,kande eraya ɡidemboro kabusa,kande eraya ɡidemboro kabusa,[],"(lit: ""hands two, plus three"" )",['chan2019'],,False,False,,1
+rawa1267-1-14-1,,rawa1267-1,14,kande eraya ɡidemboro namoraya,kande eraya ɡidemboro namoraya,[],"(lit: ""hands two, plus four"" )",['chan2019'],,False,False,,1
+rawa1267-1-15-1,,rawa1267-1,15,kande eraya ke-ɡidemboro,kande eraya ke-ɡidemboro,[],"(lit: ""hands two, plus leg /foot-plus"" )",['chan2019'],,False,False,,1
+rawa1267-1-16-1,,rawa1267-1,16,kande eraya ke-ɡidemboro ɡurananɡɡe,kande eraya ke-ɡidemboro ɡurananɡɡe,[],"(lit: ""hands two, plus foot-plus one"" )",['chan2019'],,False,False,,1
+rawa1267-1-17-1,,rawa1267-1,17,kande eraya ke-ɡidemboro eraya,kande eraya ke-ɡidemboro eraya,[],"(lit: ""hands two, plus foot-plus two"" )",['chan2019'],,False,False,,1
+rawa1267-1-18-1,,rawa1267-1,18,kande eraya ke-ɡidemboro kabusa,kande eraya ke-ɡidemboro kabusa,[],"(lit: ""hands two, plus foot-plus three"" )",['chan2019'],,False,False,,1
+rawa1267-1-19-1,,rawa1267-1,19,kande eraya ke-ɡidemboro namoraya,kande eraya ke-ɡidemboro namoraya,[],"(lit: ""hands two, plus foot-plus four"" )",['chan2019'],,False,False,,1
+rawa1267-1-20-1,,rawa1267-1,20,oni-bi-ɡa,oni-bi-ɡa,[],"(lit: ""man-body /finished'', single unit designator; ''one man finished)",['chan2019'],,False,False,,1

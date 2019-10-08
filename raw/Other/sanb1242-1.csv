@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sanb1242-1-1-1,,sanb1242-1,1,ɡwen,ɡwen,[],,[],,False,False,,1
-sanb1242-1-2-1,,sanb1242-1,2,bo,bo,[],,[],,False,False,,1
-sanb1242-1-3-1,,sanb1242-1,3,baa,baa,[],,[],,False,False,,1
-sanb1242-1-4-1,,sanb1242-1,4,bake,bake,[],,[],,False,False,,1
-sanb1242-1-5-1,,sanb1242-1,5,atar,atar,[],,[],,False,False,,1
-sanb1242-1-6-1,,sanb1242-1,6,nerɡwa,nerɡwa,[],,[],,False,False,,1
-sanb1242-1-7-1,,sanb1242-1,7,ɡuɡle,ɡuɡle,[],,[],,False,False,,1
-sanb1242-1-8-1,,sanb1242-1,8,baabak,baabak,[],,[],,False,False,,1
-sanb1242-1-9-1,,sanb1242-1,9,bakebak,bakebak,[],,[],,False,False,,1
-sanb1242-1-10-1,,sanb1242-1,10,ambe,ambe,[],,[],,False,False,,1
-sanb1242-1-11-1,,sanb1242-1,11,ambe ɡakaɡwen,ambe ɡakaɡwen,[],,[],,False,False,,1
-sanb1242-1-12-1,,sanb1242-1,12,ambe ɡakabo,ambe ɡakabo,[],,[],,False,False,,1
-sanb1242-1-13-1,,sanb1242-1,13,ambe ɡakabaa,ambe ɡakabaa,[],,[],,False,False,,1
-sanb1242-1-14-1,,sanb1242-1,14,ambe ɡakabake,ambe ɡakabake,[],,[],,False,False,,1
-sanb1242-1-15-1,,sanb1242-1,15,ambe ɡakaatr,ambe ɡakaatr,[],,[],,False,False,,1
-sanb1242-1-16-1,,sanb1242-1,16,ambe ɡakanerɡwa,ambe ɡakanerɡwa,[],,[],,False,False,,1
-sanb1242-1-17-1,,sanb1242-1,17,ambe ɡakaɡuɡle,ambe ɡakaɡuɡle,[],,[],,False,False,,1
-sanb1242-1-18-1,,sanb1242-1,18,ambe ɡakabaabak,ambe ɡakabaabak,[],,[],,False,False,,1
-sanb1242-1-19-1,,sanb1242-1,19,ambe ɡakabakebak,ambe ɡakabakebak,[],,[],,False,False,,1
-sanb1242-1-20-1,,sanb1242-1,20,dulaɡwen,dulaɡwen,[],,[],,False,False,,1
-sanb1242-1-21-1,,sanb1242-1,21,dulaɡwen ɡakaɡwen,dulaɡwen ɡakaɡwen,[],,[],,False,False,,1
-sanb1242-1-22-1,,sanb1242-1,22,dulaɡwen ɡakabo,dulaɡwen ɡakabo,[],,[],,False,False,,1
-sanb1242-1-23-1,,sanb1242-1,23,dulaɡwen ɡakabaa,dulaɡwen ɡakabaa,[],,[],,False,False,,1
-sanb1242-1-24-1,,sanb1242-1,24,dulaɡwen ɡakabake,dulaɡwen ɡakabake,[],,[],,False,False,,1
-sanb1242-1-25-1,,sanb1242-1,25,dulaɡwen ɡakatar,dulaɡwen ɡakatar,[],,[],,False,False,,1
-sanb1242-1-26-1,,sanb1242-1,26,dulaɡwen ɡakanerɡwa,dulaɡwen ɡakanerɡwa,[],,[],,False,False,,1
-sanb1242-1-27-1,,sanb1242-1,27,dulaɡwen ɡakaɡuɡle,dulaɡwen ɡakaɡuɡle,[],,[],,False,False,,1
-sanb1242-1-28-1,,sanb1242-1,28,dulaɡwen ɡakabaabak,dulaɡwen ɡakabaabak,[],,[],,False,False,,1
-sanb1242-1-29-1,,sanb1242-1,29,dulaɡwen ɡakabakebak,dulaɡwen ɡakabakebak,[],,[],,False,False,,1
-sanb1242-1-30-1,,sanb1242-1,30,dulaɡwen ɡakambe,dulaɡwen ɡakambe,[],,[],,False,False,,1
-sanb1242-1-40-1,,sanb1242-1,40,dulabo,dulabo,[],,[],,False,False,,1
-sanb1242-1-50-1,,sanb1242-1,50,dulabo ɡakambe,dulabo ɡakambe,[],,[],,False,False,,1
-sanb1242-1-60-1,,sanb1242-1,60,dulapaa,dulapaa,[],,[],,False,False,,1
-sanb1242-1-70-1,,sanb1242-1,70,dulapaa ɡakambe,dulapaa ɡakambe,[],,[],,False,False,,1
-sanb1242-1-80-1,,sanb1242-1,80,dulabake,dulabake,[],,[],,False,False,,1
-sanb1242-1-90-1,,sanb1242-1,90,dulabake ɡakambe,dulabake ɡakambe,[],,[],,False,False,,1
-sanb1242-1-100-1,,sanb1242-1,100,dulatar,dulatar,[],,[],,False,False,,1
-sanb1242-1-200-1,,sanb1242-1,200,dulatar ilabo,dulatar ilabo,[],,[],,False,False,,1
-sanb1242-1-1000-1,,sanb1242-1,1000,mil,mil,[],( < Spanish ),[],,True,False,,1
-sanb1242-1-2000-1,,sanb1242-1,2000,milibo,milibo,[],,[],,False,False,,1
+sanb1242-1-1-1,,sanb1242-1,1,ɡwen,ɡwen,[],,['chan2019'],,False,False,,1
+sanb1242-1-2-1,,sanb1242-1,2,bo,bo,[],,['chan2019'],,False,False,,1
+sanb1242-1-3-1,,sanb1242-1,3,baa,baa,[],,['chan2019'],,False,False,,1
+sanb1242-1-4-1,,sanb1242-1,4,bake,bake,[],,['chan2019'],,False,False,,1
+sanb1242-1-5-1,,sanb1242-1,5,atar,atar,[],,['chan2019'],,False,False,,1
+sanb1242-1-6-1,,sanb1242-1,6,nerɡwa,nerɡwa,[],,['chan2019'],,False,False,,1
+sanb1242-1-7-1,,sanb1242-1,7,ɡuɡle,ɡuɡle,[],,['chan2019'],,False,False,,1
+sanb1242-1-8-1,,sanb1242-1,8,baabak,baabak,[],,['chan2019'],,False,False,,1
+sanb1242-1-9-1,,sanb1242-1,9,bakebak,bakebak,[],,['chan2019'],,False,False,,1
+sanb1242-1-10-1,,sanb1242-1,10,ambe,ambe,[],,['chan2019'],,False,False,,1
+sanb1242-1-11-1,,sanb1242-1,11,ambe ɡakaɡwen,ambe ɡakaɡwen,[],,['chan2019'],,False,False,,1
+sanb1242-1-12-1,,sanb1242-1,12,ambe ɡakabo,ambe ɡakabo,[],,['chan2019'],,False,False,,1
+sanb1242-1-13-1,,sanb1242-1,13,ambe ɡakabaa,ambe ɡakabaa,[],,['chan2019'],,False,False,,1
+sanb1242-1-14-1,,sanb1242-1,14,ambe ɡakabake,ambe ɡakabake,[],,['chan2019'],,False,False,,1
+sanb1242-1-15-1,,sanb1242-1,15,ambe ɡakaatr,ambe ɡakaatr,[],,['chan2019'],,False,False,,1
+sanb1242-1-16-1,,sanb1242-1,16,ambe ɡakanerɡwa,ambe ɡakanerɡwa,[],,['chan2019'],,False,False,,1
+sanb1242-1-17-1,,sanb1242-1,17,ambe ɡakaɡuɡle,ambe ɡakaɡuɡle,[],,['chan2019'],,False,False,,1
+sanb1242-1-18-1,,sanb1242-1,18,ambe ɡakabaabak,ambe ɡakabaabak,[],,['chan2019'],,False,False,,1
+sanb1242-1-19-1,,sanb1242-1,19,ambe ɡakabakebak,ambe ɡakabakebak,[],,['chan2019'],,False,False,,1
+sanb1242-1-20-1,,sanb1242-1,20,dulaɡwen,dulaɡwen,[],,['chan2019'],,False,False,,1
+sanb1242-1-21-1,,sanb1242-1,21,dulaɡwen ɡakaɡwen,dulaɡwen ɡakaɡwen,[],,['chan2019'],,False,False,,1
+sanb1242-1-22-1,,sanb1242-1,22,dulaɡwen ɡakabo,dulaɡwen ɡakabo,[],,['chan2019'],,False,False,,1
+sanb1242-1-23-1,,sanb1242-1,23,dulaɡwen ɡakabaa,dulaɡwen ɡakabaa,[],,['chan2019'],,False,False,,1
+sanb1242-1-24-1,,sanb1242-1,24,dulaɡwen ɡakabake,dulaɡwen ɡakabake,[],,['chan2019'],,False,False,,1
+sanb1242-1-25-1,,sanb1242-1,25,dulaɡwen ɡakatar,dulaɡwen ɡakatar,[],,['chan2019'],,False,False,,1
+sanb1242-1-26-1,,sanb1242-1,26,dulaɡwen ɡakanerɡwa,dulaɡwen ɡakanerɡwa,[],,['chan2019'],,False,False,,1
+sanb1242-1-27-1,,sanb1242-1,27,dulaɡwen ɡakaɡuɡle,dulaɡwen ɡakaɡuɡle,[],,['chan2019'],,False,False,,1
+sanb1242-1-28-1,,sanb1242-1,28,dulaɡwen ɡakabaabak,dulaɡwen ɡakabaabak,[],,['chan2019'],,False,False,,1
+sanb1242-1-29-1,,sanb1242-1,29,dulaɡwen ɡakabakebak,dulaɡwen ɡakabakebak,[],,['chan2019'],,False,False,,1
+sanb1242-1-30-1,,sanb1242-1,30,dulaɡwen ɡakambe,dulaɡwen ɡakambe,[],,['chan2019'],,False,False,,1
+sanb1242-1-40-1,,sanb1242-1,40,dulabo,dulabo,[],,['chan2019'],,False,False,,1
+sanb1242-1-50-1,,sanb1242-1,50,dulabo ɡakambe,dulabo ɡakambe,[],,['chan2019'],,False,False,,1
+sanb1242-1-60-1,,sanb1242-1,60,dulapaa,dulapaa,[],,['chan2019'],,False,False,,1
+sanb1242-1-70-1,,sanb1242-1,70,dulapaa ɡakambe,dulapaa ɡakambe,[],,['chan2019'],,False,False,,1
+sanb1242-1-80-1,,sanb1242-1,80,dulabake,dulabake,[],,['chan2019'],,False,False,,1
+sanb1242-1-90-1,,sanb1242-1,90,dulabake ɡakambe,dulabake ɡakambe,[],,['chan2019'],,False,False,,1
+sanb1242-1-100-1,,sanb1242-1,100,dulatar,dulatar,[],,['chan2019'],,False,False,,1
+sanb1242-1-200-1,,sanb1242-1,200,dulatar ilabo,dulatar ilabo,[],,['chan2019'],,False,False,,1
+sanb1242-1-1000-1,,sanb1242-1,1000,mil,mil,[],( < Spanish ),['chan2019'],,True,False,,1
+sanb1242-1-2000-1,,sanb1242-1,2000,milibo,milibo,[],,['chan2019'],,False,False,,1

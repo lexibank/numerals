@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-urap1240-1-1-1,,urap1240-1,1,sə.ɡək,sə.ɡək,[],,[],,False,False,,1
-urap1240-1-2-1,,urap1240-1,2,u.di.om,u.di.om,[],,[],,False,False,,1
-urap1240-1-3-1,,urap1240-1,3,də.βɑ-uŋ,də.βɑ-uŋ,[],,[],,False,False,,1
-urap1240-1-4-1,,urap1240-1,4,le.βɑ.ɛt,le.βɑ.ɛt,[],,[],,False,False,,1
-urap1240-1-5-1,,urap1240-1,5,ŋə.ɻɪ.ʝɛt,ŋə.ɻɪ.ʝɛt,[],(litː 'one hand'),[],,False,False,,1
-urap1240-1-6-1,,urap1240-1,6,ŋə.ɻɪ.ʝɛt dɑ sə.ɡək,ŋə.ɻɪ.ʝɛt dɑ sə.ɡək,[],,[],,False,False,,1
-urap1240-1-7-1,,urap1240-1,7,ŋə.ɻɪ.ʝɛt dɑ u.di.om,ŋə.ɻɪ.ʝɛt dɑ u.di.om,[],,[],,False,False,,1
-urap1240-1-8-1,,urap1240-1,8,ŋə.ɻɪ.ʝɛt dɑ də.βɑ-uŋ,ŋə.ɻɪ.ʝɛt dɑ də.βɑ-uŋ,[],,[],,False,False,,1
-urap1240-1-9-1,,urap1240-1,9,ŋə.ɻɪ.ʝɛt dɑ le.βɑ.ɛt,ŋə.ɻɪ.ʝɛt dɑ le.βɑ.ɛt,[],,[],,False,False,,1
-urap1240-1-10-1,,urap1240-1,10,ŋə.ɻɪ.ji.sɛm,ŋə.ɻɪ.ji.sɛm,[],(litː 'two hands'),[],,False,False,,1
-urap1240-1-11-1,,urap1240-1,11,ŋə.ɻɪ.ji.sɛm dɑ sə.ɡək,ŋə.ɻɪ.ji.sɛm dɑ sə.ɡək,[],,[],,False,False,,1
-urap1240-1-12-1,,urap1240-1,12,ŋə.ɻɪ.ji.sɛm dɑ u.di.om,ŋə.ɻɪ.ji.sɛm dɑ u.di.om,[],,[],,False,False,,1
-urap1240-1-13-1,,urap1240-1,13,ŋə.ɻɪ.ji.sɛm dɑ də.βɑ-uŋ,ŋə.ɻɪ.ji.sɛm dɑ də.βɑ-uŋ,[],,[],,False,False,,1
-urap1240-1-14-1,,urap1240-1,14,ŋə.ɻɪ.ji.sɛm dɑ le.βɑ.ɛt,ŋə.ɻɪ.ji.sɛm dɑ le.βɑ.ɛt,[],,[],,False,False,,1
-urap1240-1-15-1,,urap1240-1,15,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt,[],,[],,False,False,,1
-urap1240-1-16-1,,urap1240-1,16,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ sə.ɡək,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ sə.ɡək,[],,[],,False,False,,1
-urap1240-1-17-1,,urap1240-1,17,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ u.di.om,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ u.di.om,[],,[],,False,False,,1
-urap1240-1-18-1,,urap1240-1,18,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ də.βɑ-uŋ,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ də.βɑ-uŋ,[],,[],,False,False,,1
-urap1240-1-19-1,,urap1240-1,19,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ le.βɑ.ɛt,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ le.βɑ.ɛt,[],,[],,False,False,,1
-urap1240-1-20-1,,urap1240-1,20,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ,[],,[],,False,False,,1
-urap1240-1-21-1,,urap1240-1,21,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ sə.ɡək,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ sə.ɡək,[],,[],,False,False,,1
-urap1240-1-22-1,,urap1240-1,22,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ u.di.om,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ u.di.om,[],,[],,False,False,,1
-urap1240-1-23-1,,urap1240-1,23,ɑ.m. ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ də.βɑ-uŋ,ɑ.m. ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ də.βɑ-uŋ,[],,[],,False,True,,1
-urap1240-1-24-1,,urap1240-1,24,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ le.βɑ.ɛt,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ le.βɑ.ɛt,[],,[],,False,False,,1
-urap1240-1-25-1,,urap1240-1,25,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ + 5,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ + 5,[],,[],,False,True,,1
-urap1240-1-26-1,,urap1240-1,26,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 6,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 6,[],,[],,False,True,,1
-urap1240-1-27-1,,urap1240-1,27,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 7,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 7,[],,[],,False,True,,1
-urap1240-1-28-1,,urap1240-1,28,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 8,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 8,[],,[],,False,True,,1
-urap1240-1-29-1,,urap1240-1,29,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 9,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 9,[],,[],,False,True,,1
-urap1240-1-30-1,,urap1240-1,30,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 10,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 10,[],,[],,False,True,,1
-urap1240-1-40-1,,urap1240-1,40,ɑ.mɑ ɾu.i.om ɑ mɑ u.di.om,ɑ.mɑ ɾu.i.om ɑ mɑ u.di.om,[],('two men'),[],,False,False,,1
-urap1240-1-50-1,,urap1240-1,50,40 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,40 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,[],,[],,False,True,,1
-urap1240-1-60-1,,urap1240-1,60,ɑ.mɑ ɾu.βɛk ɑ mɑ də.βɑ-uŋ nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ də.βɑ-uŋ nɑ ɻɑ,[],,[],,False,False,,1
-urap1240-1-70-1,,urap1240-1,70,60+ nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,60+ nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,[],,[],,False,True,,1
-urap1240-1-80-1,,urap1240-1,80,ɑ.mɑ ɾu.βɛk ɑ mɑ le.βɑ.ɛt nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ le.βɑ.ɛt nɑ ɻɑ,[],,[],,False,False,,1
-urap1240-1-90-1,,urap1240-1,90,80 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,80 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,[],,[],,False,True,,1
-urap1240-1-100-1,,urap1240-1,100,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ʝɛt nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ʝɛt nɑ ɻɑ,[],,[],,False,False,,1
-urap1240-1-200-1,,urap1240-1,200,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ji.sɛm nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ji.sɛm nɑ ɻɑ,[],,[],,False,False,,1
+urap1240-1-1-1,,urap1240-1,1,sə.ɡək,sə.ɡək,[],,['chan2019'],,False,False,,1
+urap1240-1-2-1,,urap1240-1,2,u.di.om,u.di.om,[],,['chan2019'],,False,False,,1
+urap1240-1-3-1,,urap1240-1,3,də.βɑ-uŋ,də.βɑ-uŋ,[],,['chan2019'],,False,False,,1
+urap1240-1-4-1,,urap1240-1,4,le.βɑ.ɛt,le.βɑ.ɛt,[],,['chan2019'],,False,False,,1
+urap1240-1-5-1,,urap1240-1,5,ŋə.ɻɪ.ʝɛt,ŋə.ɻɪ.ʝɛt,[],(litː 'one hand'),['chan2019'],,False,False,,1
+urap1240-1-6-1,,urap1240-1,6,ŋə.ɻɪ.ʝɛt dɑ sə.ɡək,ŋə.ɻɪ.ʝɛt dɑ sə.ɡək,[],,['chan2019'],,False,False,,1
+urap1240-1-7-1,,urap1240-1,7,ŋə.ɻɪ.ʝɛt dɑ u.di.om,ŋə.ɻɪ.ʝɛt dɑ u.di.om,[],,['chan2019'],,False,False,,1
+urap1240-1-8-1,,urap1240-1,8,ŋə.ɻɪ.ʝɛt dɑ də.βɑ-uŋ,ŋə.ɻɪ.ʝɛt dɑ də.βɑ-uŋ,[],,['chan2019'],,False,False,,1
+urap1240-1-9-1,,urap1240-1,9,ŋə.ɻɪ.ʝɛt dɑ le.βɑ.ɛt,ŋə.ɻɪ.ʝɛt dɑ le.βɑ.ɛt,[],,['chan2019'],,False,False,,1
+urap1240-1-10-1,,urap1240-1,10,ŋə.ɻɪ.ji.sɛm,ŋə.ɻɪ.ji.sɛm,[],(litː 'two hands'),['chan2019'],,False,False,,1
+urap1240-1-11-1,,urap1240-1,11,ŋə.ɻɪ.ji.sɛm dɑ sə.ɡək,ŋə.ɻɪ.ji.sɛm dɑ sə.ɡək,[],,['chan2019'],,False,False,,1
+urap1240-1-12-1,,urap1240-1,12,ŋə.ɻɪ.ji.sɛm dɑ u.di.om,ŋə.ɻɪ.ji.sɛm dɑ u.di.om,[],,['chan2019'],,False,False,,1
+urap1240-1-13-1,,urap1240-1,13,ŋə.ɻɪ.ji.sɛm dɑ də.βɑ-uŋ,ŋə.ɻɪ.ji.sɛm dɑ də.βɑ-uŋ,[],,['chan2019'],,False,False,,1
+urap1240-1-14-1,,urap1240-1,14,ŋə.ɻɪ.ji.sɛm dɑ le.βɑ.ɛt,ŋə.ɻɪ.ji.sɛm dɑ le.βɑ.ɛt,[],,['chan2019'],,False,False,,1
+urap1240-1-15-1,,urap1240-1,15,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt,[],,['chan2019'],,False,False,,1
+urap1240-1-16-1,,urap1240-1,16,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ sə.ɡək,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ sə.ɡək,[],,['chan2019'],,False,False,,1
+urap1240-1-17-1,,urap1240-1,17,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ u.di.om,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ u.di.om,[],,['chan2019'],,False,False,,1
+urap1240-1-18-1,,urap1240-1,18,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ də.βɑ-uŋ,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ də.βɑ-uŋ,[],,['chan2019'],,False,False,,1
+urap1240-1-19-1,,urap1240-1,19,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ le.βɑ.ɛt,ŋə.ɻɪ.ji.sɛm dɑ ɡɑ.ɾɑ.ɛt dɑ le.βɑ.ɛt,[],,['chan2019'],,False,False,,1
+urap1240-1-20-1,,urap1240-1,20,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ,[],,['chan2019'],,False,False,,1
+urap1240-1-21-1,,urap1240-1,21,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ sə.ɡək,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ sə.ɡək,[],,['chan2019'],,False,False,,1
+urap1240-1-22-1,,urap1240-1,22,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ u.di.om,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ u.di.om,[],,['chan2019'],,False,False,,1
+urap1240-1-23-1,,urap1240-1,23,ɑ.m. ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ də.βɑ-uŋ,ɑ.m. ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ də.βɑ-uŋ,[],,['chan2019'],,False,True,,1
+urap1240-1-24-1,,urap1240-1,24,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ le.βɑ.ɛt,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ le.βɑ.ɛt,[],,['chan2019'],,False,False,,1
+urap1240-1-25-1,,urap1240-1,25,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ + 5,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ dɑ + 5,[],,['chan2019'],,False,True,,1
+urap1240-1-26-1,,urap1240-1,26,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 6,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 6,[],,['chan2019'],,False,True,,1
+urap1240-1-27-1,,urap1240-1,27,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 7,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 7,[],,['chan2019'],,False,True,,1
+urap1240-1-28-1,,urap1240-1,28,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 8,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 8,[],,['chan2019'],,False,True,,1
+urap1240-1-29-1,,urap1240-1,29,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 9,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 9,[],,['chan2019'],,False,True,,1
+urap1240-1-30-1,,urap1240-1,30,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 10,ɑ.mɑ ɾu.ʏɑ ɑ mɑ ɻək.təm.ɡɑ + 10,[],,['chan2019'],,False,True,,1
+urap1240-1-40-1,,urap1240-1,40,ɑ.mɑ ɾu.i.om ɑ mɑ u.di.om,ɑ.mɑ ɾu.i.om ɑ mɑ u.di.om,[],('two men'),['chan2019'],,False,False,,1
+urap1240-1-50-1,,urap1240-1,50,40 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,40 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,[],,['chan2019'],,False,True,,1
+urap1240-1-60-1,,urap1240-1,60,ɑ.mɑ ɾu.βɛk ɑ mɑ də.βɑ-uŋ nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ də.βɑ-uŋ nɑ ɻɑ,[],,['chan2019'],,False,False,,1
+urap1240-1-70-1,,urap1240-1,70,60+ nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,60+ nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,[],,['chan2019'],,False,True,,1
+urap1240-1-80-1,,urap1240-1,80,ɑ.mɑ ɾu.βɛk ɑ mɑ le.βɑ.ɛt nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ le.βɑ.ɛt nɑ ɻɑ,[],,['chan2019'],,False,False,,1
+urap1240-1-90-1,,urap1240-1,90,80 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,80 + nɑ ɻɑ dɑ ŋə.ɻɪ.ji.sɛm,[],,['chan2019'],,False,True,,1
+urap1240-1-100-1,,urap1240-1,100,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ʝɛt nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ʝɛt nɑ ɻɑ,[],,['chan2019'],,False,False,,1
+urap1240-1-200-1,,urap1240-1,200,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ji.sɛm nɑ ɻɑ,ɑ.mɑ ɾu.βɛk ɑ mɑ ŋə.ɻɪ.ji.sɛm nɑ ɻɑ,[],,['chan2019'],,False,False,,1

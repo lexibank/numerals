@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-naur1243-1-1-1,,naur1243-1,1,eqʷʌn,eqʷʌn,[],,[],,False,False,aiquön,1
-naur1243-1-2-1,,naur1243-1,2,aːro,aːro,[],,[],,False,False,aro,1
-naur1243-1-3-1,,naur1243-1,3,eʝu,eʝu,[],,[],,False,False,aiju,1
-naur1243-1-4-1,,naur1243-1,4,aeq,aeq,[],,[],,False,False,aeoq,1
-naur1243-1-5-1,,naur1243-1,5,eːjimo,eːjimo,[],,[],,False,False,aijimo,1
-naur1243-1-6-1,,naur1243-1,6,aːŋo,aːŋo,[],,[],,False,False,año,1
-naur1243-1-7-1,,naur1243-1,7,eːju,eːju,[],,[],,False,False,aeu,1
-naur1243-1-8-1,,naur1243-1,8,oːju,oːju,[],,[],,False,False,aoju,1
-naur1243-1-9-1,,naur1243-1,9,aːdo,aːdo,[],,[],,False,False,ado,1
-naur1243-1-10-1,,naur1243-1,10,aːta,aːta,[],,[],,False,False,ata,1
-naur1243-1-11-1,,naur1243-1,11,ata ma aiquön,ata ma aiquön,[],,[],,False,False,,1
-naur1243-1-12-1,,naur1243-1,12,ata ma aro,ata ma aro,[],,[],,False,False,,1
-naur1243-1-13-1,,naur1243-1,13,ata ma aiju,ata ma aiju,[],,[],,False,False,,1
-naur1243-1-14-1,,naur1243-1,14,ata ma aeoq,ata ma aeoq,[],,[],,False,False,,1
-naur1243-1-15-1,,naur1243-1,15,ata ma aijimo,ata ma aijimo,[],,[],,False,False,,1
-naur1243-1-16-1,,naur1243-1,16,ata ma año,ata ma año,[],,[],,False,False,,1
-naur1243-1-17-1,,naur1243-1,17,ata ma aeu,ata ma aeu,[],,[],,False,False,,1
-naur1243-1-18-1,,naur1243-1,18,ata ma aoju,ata ma aoju,[],,[],,False,False,,1
-naur1243-1-19-1,,naur1243-1,19,ata ma ado,ata ma ado,[],,[],,False,False,,1
-naur1243-1-20-1,,naur1243-1,20,anarama,anarama,[],,[],,False,False,anarama,1
-naur1243-1-20-2,,naur1243-1,20,ararama,ararama,[],,[],,False,False,,1
-naur1243-1-21-1,,naur1243-1,21,ararama ma aiquön,ararama ma aiquön,[],,[],,False,False,,1
-naur1243-1-22-1,,naur1243-1,22,ararama ma aro,ararama ma aro,[],,[],,False,False,,1
-naur1243-1-23-1,,naur1243-1,23,ararama ma aiju,ararama ma aiju,[],,[],,False,False,,1
-naur1243-1-24-1,,naur1243-1,24,ararama ma aeoq,ararama ma aeoq,[],,[],,False,False,,1
-naur1243-1-25-1,,naur1243-1,25,ararama ma aijimo,ararama ma aijimo,[],,[],,False,False,,1
-naur1243-1-26-1,,naur1243-1,26,ararama ma año,ararama ma año,[],,[],,False,False,,1
-naur1243-1-27-1,,naur1243-1,27,ararama ma aeu,ararama ma aeu,[],,[],,False,False,,1
-naur1243-1-28-1,,naur1243-1,28,ararama ma aoju,ararama ma aoju,[],,[],,False,False,,1
-naur1243-1-29-1,,naur1243-1,29,ararama ma ado,ararama ma ado,[],,[],,False,False,,1
-naur1243-1-30-1,,naur1243-1,30,animo ??,animo ??,[],,[],,False,True,animo,1
-naur1243-1-40-1,,naur1243-1,40,amːa ??,amːa ??,[],,[],,False,True,amma,1
-naur1243-1-50-1,,naur1243-1,50,aijima??,aijima??,[],,[],,False,True,aijima,1
-naur1243-1-60-1,,naur1243-1,60,aŋama ??,aŋama ??,[],,[],,False,True,añama,1
-naur1243-1-70-1,,naur1243-1,70,eːmo??,eːmo??,[],,[],,False,True,aemo,1
-naur1243-1-80-1,,naur1243-1,80,oːjumo??,oːjumo??,[],,[],,False,True,aojumo,1
-naur1243-1-90-1,,naur1243-1,90,aːduma??,aːduma??,[],,[],,False,True,aduma,1
-naur1243-1-100-1,,naur1243-1,100,eːbu??,eːbu??,[],,[],,False,True,aibu,1
-naur1243-1-200-1,,naur1243-1,200,arobu ??,arobu ??,[],,[],,False,True,arobu,1
-naur1243-1-1000-1,,naur1243-1,1000,araŋa??,araŋa??,[],,[],,False,True,araña,1
-naur1243-1-2000-1,,naur1243-1,2000,aro araña,aro araña,[],,[],,False,False,,1
+naur1243-1-1-1,,naur1243-1,1,eqʷʌn,eqʷʌn,[],,['chan2019'],,False,False,aiquön,1
+naur1243-1-2-1,,naur1243-1,2,aːro,aːro,[],,['chan2019'],,False,False,aro,1
+naur1243-1-3-1,,naur1243-1,3,eʝu,eʝu,[],,['chan2019'],,False,False,aiju,1
+naur1243-1-4-1,,naur1243-1,4,aeq,aeq,[],,['chan2019'],,False,False,aeoq,1
+naur1243-1-5-1,,naur1243-1,5,eːjimo,eːjimo,[],,['chan2019'],,False,False,aijimo,1
+naur1243-1-6-1,,naur1243-1,6,aːŋo,aːŋo,[],,['chan2019'],,False,False,año,1
+naur1243-1-7-1,,naur1243-1,7,eːju,eːju,[],,['chan2019'],,False,False,aeu,1
+naur1243-1-8-1,,naur1243-1,8,oːju,oːju,[],,['chan2019'],,False,False,aoju,1
+naur1243-1-9-1,,naur1243-1,9,aːdo,aːdo,[],,['chan2019'],,False,False,ado,1
+naur1243-1-10-1,,naur1243-1,10,aːta,aːta,[],,['chan2019'],,False,False,ata,1
+naur1243-1-11-1,,naur1243-1,11,ata ma aiquön,ata ma aiquön,[],,['chan2019'],,False,False,,1
+naur1243-1-12-1,,naur1243-1,12,ata ma aro,ata ma aro,[],,['chan2019'],,False,False,,1
+naur1243-1-13-1,,naur1243-1,13,ata ma aiju,ata ma aiju,[],,['chan2019'],,False,False,,1
+naur1243-1-14-1,,naur1243-1,14,ata ma aeoq,ata ma aeoq,[],,['chan2019'],,False,False,,1
+naur1243-1-15-1,,naur1243-1,15,ata ma aijimo,ata ma aijimo,[],,['chan2019'],,False,False,,1
+naur1243-1-16-1,,naur1243-1,16,ata ma año,ata ma año,[],,['chan2019'],,False,False,,1
+naur1243-1-17-1,,naur1243-1,17,ata ma aeu,ata ma aeu,[],,['chan2019'],,False,False,,1
+naur1243-1-18-1,,naur1243-1,18,ata ma aoju,ata ma aoju,[],,['chan2019'],,False,False,,1
+naur1243-1-19-1,,naur1243-1,19,ata ma ado,ata ma ado,[],,['chan2019'],,False,False,,1
+naur1243-1-20-1,,naur1243-1,20,anarama,anarama,[],,['chan2019'],,False,False,anarama,1
+naur1243-1-20-2,,naur1243-1,20,ararama,ararama,[],,['chan2019'],,False,False,,1
+naur1243-1-21-1,,naur1243-1,21,ararama ma aiquön,ararama ma aiquön,[],,['chan2019'],,False,False,,1
+naur1243-1-22-1,,naur1243-1,22,ararama ma aro,ararama ma aro,[],,['chan2019'],,False,False,,1
+naur1243-1-23-1,,naur1243-1,23,ararama ma aiju,ararama ma aiju,[],,['chan2019'],,False,False,,1
+naur1243-1-24-1,,naur1243-1,24,ararama ma aeoq,ararama ma aeoq,[],,['chan2019'],,False,False,,1
+naur1243-1-25-1,,naur1243-1,25,ararama ma aijimo,ararama ma aijimo,[],,['chan2019'],,False,False,,1
+naur1243-1-26-1,,naur1243-1,26,ararama ma año,ararama ma año,[],,['chan2019'],,False,False,,1
+naur1243-1-27-1,,naur1243-1,27,ararama ma aeu,ararama ma aeu,[],,['chan2019'],,False,False,,1
+naur1243-1-28-1,,naur1243-1,28,ararama ma aoju,ararama ma aoju,[],,['chan2019'],,False,False,,1
+naur1243-1-29-1,,naur1243-1,29,ararama ma ado,ararama ma ado,[],,['chan2019'],,False,False,,1
+naur1243-1-30-1,,naur1243-1,30,animo ??,animo ??,[],,['chan2019'],,False,True,animo,1
+naur1243-1-40-1,,naur1243-1,40,amːa ??,amːa ??,[],,['chan2019'],,False,True,amma,1
+naur1243-1-50-1,,naur1243-1,50,aijima??,aijima??,[],,['chan2019'],,False,True,aijima,1
+naur1243-1-60-1,,naur1243-1,60,aŋama ??,aŋama ??,[],,['chan2019'],,False,True,añama,1
+naur1243-1-70-1,,naur1243-1,70,eːmo??,eːmo??,[],,['chan2019'],,False,True,aemo,1
+naur1243-1-80-1,,naur1243-1,80,oːjumo??,oːjumo??,[],,['chan2019'],,False,True,aojumo,1
+naur1243-1-90-1,,naur1243-1,90,aːduma??,aːduma??,[],,['chan2019'],,False,True,aduma,1
+naur1243-1-100-1,,naur1243-1,100,eːbu??,eːbu??,[],,['chan2019'],,False,True,aibu,1
+naur1243-1-200-1,,naur1243-1,200,arobu ??,arobu ??,[],,['chan2019'],,False,True,arobu,1
+naur1243-1-1000-1,,naur1243-1,1000,araŋa??,araŋa??,[],,['chan2019'],,False,True,araña,1
+naur1243-1-2000-1,,naur1243-1,2000,aro araña,aro araña,[],,['chan2019'],,False,False,,1

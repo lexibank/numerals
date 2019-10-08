@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-siam1242-1-1-1,,siam1242-1,1,byẽ́ẽ,byẽ́ẽ,[],,[],,False,False,,1
-siam1242-1-2-1,,siam1242-1,2,nĩ́ĩ̄,nĩ́ĩ̄,[],,[],,False,False,,1
-siam1242-1-3-1,,siam1242-1,3,tyáār,tyáār,[],,[],,False,False,,1
-siam1242-1-4-1,,siam1242-1,4,yūr,yūr,[],,[],,False,False,,1
-siam1242-1-5-1,,siam1242-1,5,kwɛ̃̄l,kwɛ̃̄l,[],,[],,False,False,,1
-siam1242-1-6-1,,siam1242-1,6,kpã̄â,kpã̄â,[],,[],,False,False,,1
-siam1242-1-7-1,,siam1242-1,7,kĩ̄î,kĩ̄î,[],,[],,False,False,,1
-siam1242-1-8-1,,siam1242-1,8,kprɛ̄n̂,kprɛ̄n̂,[],,[],,False,False,,1
-siam1242-1-9-1,,siam1242-1,9,kɛ̄l,kɛ̄l,[],,[],,False,False,,1
-siam1242-1-10-1,,siam1242-1,10,fú,fú,[],,[],,False,False,,1
-siam1242-1-11-1,,siam1242-1,11,fú-byẽ́ẽ,fú-byẽ́ẽ,[],,[],,False,False,,1
-siam1242-1-12-1,,siam1242-1,12,fú-nĩ́ĩ̄,fú-nĩ́ĩ̄,[],,[],,False,False,,1
-siam1242-1-13-1,,siam1242-1,13,fú-tyáār,fú-tyáār,[],,[],,False,False,,1
-siam1242-1-14-1,,siam1242-1,14,fú-yūr,fú-yūr,[],,[],,False,False,,1
-siam1242-1-15-1,,siam1242-1,15,fú-kwɛ̃̄l,fú-kwɛ̃̄l,[],,[],,False,False,,1
-siam1242-1-16-1,,siam1242-1,16,fú-kpã̄â,fú-kpã̄â,[],,[],,False,False,,1
-siam1242-1-17-1,,siam1242-1,17,fú-kĩ̄î,fú-kĩ̄î,[],,[],,False,False,,1
-siam1242-1-18-1,,siam1242-1,18,fú-kprɛ̄n̂,fú-kprɛ̄n̂,[],,[],,False,False,,1
-siam1242-1-19-1,,siam1242-1,19,fú-kɛ̄l,fú-kɛ̄l,[],,[],,False,False,,1
-siam1242-1-20-1,,siam1242-1,20,kār,kār,[],,[],,False,False,,1
-siam1242-1-21-1,,siam1242-1,21,kār-àmíī-byẽ́ẽ,kār-àmíī-byẽ́ẽ,[],,[],,False,False,,1
-siam1242-1-22-1,,siam1242-1,22,kār-àmíī-nĩ́ĩ̄,kār-àmíī-nĩ́ĩ̄,[],,[],,False,False,,1
-siam1242-1-23-1,,siam1242-1,23,kār-àmíī-tyáār,kār-àmíī-tyáār,[],,[],,False,False,,1
-siam1242-1-24-1,,siam1242-1,24,kār-àmíī-yūr,kār-àmíī-yūr,[],,[],,False,False,,1
-siam1242-1-25-1,,siam1242-1,25,kār-àmíī-kwɛ̃̄l,kār-àmíī-kwɛ̃̄l,[],,[],,False,False,,1
-siam1242-1-26-1,,siam1242-1,26,kār-àmíī-kpã̄â,kār-àmíī-kpã̄â,[],,[],,False,False,,1
-siam1242-1-27-1,,siam1242-1,27,kār-àmíī-kĩ̄î,kār-àmíī-kĩ̄î,[],,[],,False,False,,1
-siam1242-1-28-1,,siam1242-1,28,kār-àmíī-kprɛ̄n̂,kār-àmíī-kprɛ̄n̂,[],,[],,False,False,,1
-siam1242-1-29-1,,siam1242-1,29,kār-àmíī-kɛ̄l,kār-àmíī-kɛ̄l,[],,[],,False,False,,1
-siam1242-1-30-1,,siam1242-1,30,kū-fú,kū-fú,[],,[],,False,False,,1
-siam1242-1-40-1,,siam1242-1,40,k͡pɛ̃́-ǃkrɔ̂,k͡pɛ̃́-ǃkrɔ̂,[],(litː 'cowry' ? ),[],,False,False,,1
-siam1242-1-50-1,,siam1242-1,50,kúr-fú,kúr-fú,[],,[],,False,False,,1
-siam1242-1-60-1,,siam1242-1,60,jītyáār,jītyáār,[],(litː '? three'),[],,False,False,,1
-siam1242-1-70-1,,siam1242-1,70,jītyáǃár-fú,jītyáǃár-fú,[],,[],,False,False,,1
-siam1242-1-80-1,,siam1242-1,80,kpɛ̃́l-ŋmɛ̄,kpɛ̃́l-ŋmɛ̄,[],(litː 'cowry strike' ),[],,False,False,,1
-siam1242-1-90-1,,siam1242-1,90,kpɛ̃́l-ŋmɛ̄-áǃmín-fū,kpɛ̃́l-ŋmɛ̄-áǃmín-fū,[],(cowry strike and ten),[],,False,False,,1
-siam1242-1-100-1,,siam1242-1,100,kār-kwɛ̃̄l,kār-kwɛ̃̄l,[],(litː twenty five'),[],,False,False,,1
-siam1242-1-200-1,,siam1242-1,200,kpé-ǃnĩ́-kúr,kpé-ǃnĩ́-kúr,[],( '? two ? ),[],,False,False,,1
-siam1242-1-1000-1,,siam1242-1,1000,blē-byẽ́ẽ,blē-byẽ́ẽ,[],(litː 'goat one' ),[],,False,False,,1
-siam1242-1-2000-1,,siam1242-1,2000,kpɛ̃́l-kwɛ̃̄l,kpɛ̃́l-kwɛ̃̄l,[],(litː 'cowry ?' ),[],,False,False,,1
+siam1242-1-1-1,,siam1242-1,1,byẽ́ẽ,byẽ́ẽ,[],,['chan2019'],,False,False,,1
+siam1242-1-2-1,,siam1242-1,2,nĩ́ĩ̄,nĩ́ĩ̄,[],,['chan2019'],,False,False,,1
+siam1242-1-3-1,,siam1242-1,3,tyáār,tyáār,[],,['chan2019'],,False,False,,1
+siam1242-1-4-1,,siam1242-1,4,yūr,yūr,[],,['chan2019'],,False,False,,1
+siam1242-1-5-1,,siam1242-1,5,kwɛ̃̄l,kwɛ̃̄l,[],,['chan2019'],,False,False,,1
+siam1242-1-6-1,,siam1242-1,6,kpã̄â,kpã̄â,[],,['chan2019'],,False,False,,1
+siam1242-1-7-1,,siam1242-1,7,kĩ̄î,kĩ̄î,[],,['chan2019'],,False,False,,1
+siam1242-1-8-1,,siam1242-1,8,kprɛ̄n̂,kprɛ̄n̂,[],,['chan2019'],,False,False,,1
+siam1242-1-9-1,,siam1242-1,9,kɛ̄l,kɛ̄l,[],,['chan2019'],,False,False,,1
+siam1242-1-10-1,,siam1242-1,10,fú,fú,[],,['chan2019'],,False,False,,1
+siam1242-1-11-1,,siam1242-1,11,fú-byẽ́ẽ,fú-byẽ́ẽ,[],,['chan2019'],,False,False,,1
+siam1242-1-12-1,,siam1242-1,12,fú-nĩ́ĩ̄,fú-nĩ́ĩ̄,[],,['chan2019'],,False,False,,1
+siam1242-1-13-1,,siam1242-1,13,fú-tyáār,fú-tyáār,[],,['chan2019'],,False,False,,1
+siam1242-1-14-1,,siam1242-1,14,fú-yūr,fú-yūr,[],,['chan2019'],,False,False,,1
+siam1242-1-15-1,,siam1242-1,15,fú-kwɛ̃̄l,fú-kwɛ̃̄l,[],,['chan2019'],,False,False,,1
+siam1242-1-16-1,,siam1242-1,16,fú-kpã̄â,fú-kpã̄â,[],,['chan2019'],,False,False,,1
+siam1242-1-17-1,,siam1242-1,17,fú-kĩ̄î,fú-kĩ̄î,[],,['chan2019'],,False,False,,1
+siam1242-1-18-1,,siam1242-1,18,fú-kprɛ̄n̂,fú-kprɛ̄n̂,[],,['chan2019'],,False,False,,1
+siam1242-1-19-1,,siam1242-1,19,fú-kɛ̄l,fú-kɛ̄l,[],,['chan2019'],,False,False,,1
+siam1242-1-20-1,,siam1242-1,20,kār,kār,[],,['chan2019'],,False,False,,1
+siam1242-1-21-1,,siam1242-1,21,kār-àmíī-byẽ́ẽ,kār-àmíī-byẽ́ẽ,[],,['chan2019'],,False,False,,1
+siam1242-1-22-1,,siam1242-1,22,kār-àmíī-nĩ́ĩ̄,kār-àmíī-nĩ́ĩ̄,[],,['chan2019'],,False,False,,1
+siam1242-1-23-1,,siam1242-1,23,kār-àmíī-tyáār,kār-àmíī-tyáār,[],,['chan2019'],,False,False,,1
+siam1242-1-24-1,,siam1242-1,24,kār-àmíī-yūr,kār-àmíī-yūr,[],,['chan2019'],,False,False,,1
+siam1242-1-25-1,,siam1242-1,25,kār-àmíī-kwɛ̃̄l,kār-àmíī-kwɛ̃̄l,[],,['chan2019'],,False,False,,1
+siam1242-1-26-1,,siam1242-1,26,kār-àmíī-kpã̄â,kār-àmíī-kpã̄â,[],,['chan2019'],,False,False,,1
+siam1242-1-27-1,,siam1242-1,27,kār-àmíī-kĩ̄î,kār-àmíī-kĩ̄î,[],,['chan2019'],,False,False,,1
+siam1242-1-28-1,,siam1242-1,28,kār-àmíī-kprɛ̄n̂,kār-àmíī-kprɛ̄n̂,[],,['chan2019'],,False,False,,1
+siam1242-1-29-1,,siam1242-1,29,kār-àmíī-kɛ̄l,kār-àmíī-kɛ̄l,[],,['chan2019'],,False,False,,1
+siam1242-1-30-1,,siam1242-1,30,kū-fú,kū-fú,[],,['chan2019'],,False,False,,1
+siam1242-1-40-1,,siam1242-1,40,k͡pɛ̃́-ǃkrɔ̂,k͡pɛ̃́-ǃkrɔ̂,[],(litː 'cowry' ? ),['chan2019'],,False,False,,1
+siam1242-1-50-1,,siam1242-1,50,kúr-fú,kúr-fú,[],,['chan2019'],,False,False,,1
+siam1242-1-60-1,,siam1242-1,60,jītyáār,jītyáār,[],(litː '? three'),['chan2019'],,False,False,,1
+siam1242-1-70-1,,siam1242-1,70,jītyáǃár-fú,jītyáǃár-fú,[],,['chan2019'],,False,False,,1
+siam1242-1-80-1,,siam1242-1,80,kpɛ̃́l-ŋmɛ̄,kpɛ̃́l-ŋmɛ̄,[],(litː 'cowry strike' ),['chan2019'],,False,False,,1
+siam1242-1-90-1,,siam1242-1,90,kpɛ̃́l-ŋmɛ̄-áǃmín-fū,kpɛ̃́l-ŋmɛ̄-áǃmín-fū,[],(cowry strike and ten),['chan2019'],,False,False,,1
+siam1242-1-100-1,,siam1242-1,100,kār-kwɛ̃̄l,kār-kwɛ̃̄l,[],(litː twenty five'),['chan2019'],,False,False,,1
+siam1242-1-200-1,,siam1242-1,200,kpé-ǃnĩ́-kúr,kpé-ǃnĩ́-kúr,[],( '? two ? ),['chan2019'],,False,False,,1
+siam1242-1-1000-1,,siam1242-1,1000,blē-byẽ́ẽ,blē-byẽ́ẽ,[],(litː 'goat one' ),['chan2019'],,False,False,,1
+siam1242-1-2000-1,,siam1242-1,2000,kpɛ̃́l-kwɛ̃̄l,kpɛ̃́l-kwɛ̃̄l,[],(litː 'cowry ?' ),['chan2019'],,False,False,,1

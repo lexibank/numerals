@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tugu1246-1-1-1,,tugu1246-1,1,rimoi,rimoi,[],,[],,False,False,,1
-tugu1246-1-2-1,,tugu1246-1,2,hinooto,hinooto,[],,[],,False,False,,1
-tugu1246-1-3-1,,tugu1246-1,3,haŋe,haŋe,[],,[],,False,False,,1
-tugu1246-1-4-1,,tugu1246-1,4,iata,iata,[],,[],,False,False,,1
-tugu1246-1-5-1,,tugu1246-1,5,motoa,motoa,[],,[],,False,False,,1
-tugu1246-1-6-1,,tugu1246-1,6,butaaŋa,butaaŋa,[],,[],,False,False,,1
-tugu1246-1-7-1,,tugu1246-1,7,tumidi,tumidi,[],,[],,False,False,,1
-tugu1246-1-8-1,,tugu1246-1,8,tufaŋe,tufaŋe,[],,[],,False,False,,1
-tugu1246-1-9-1,,tugu1246-1,9,hiwo,hiwo,[],,[],,False,False,,1
-tugu1246-1-10-1,,tugu1246-1,10,ɲimoi,ɲimoi,[],,[],,False,False,,1
-tugu1246-1-11-1,,tugu1246-1,11,ɲimoi se rimoi,ɲimoi se rimoi,[],,[],,False,False,,1
-tugu1246-1-12-1,,tugu1246-1,12,ɲimoi se hinooto,ɲimoi se hinooto,[],,[],,False,False,,1
-tugu1246-1-13-1,,tugu1246-1,13,ɲimoi se haŋe,ɲimoi se haŋe,[],,[],,False,False,,1
-tugu1246-1-14-1,,tugu1246-1,14,ɲimoi se iata,ɲimoi se iata,[],,[],,False,False,,1
-tugu1246-1-15-1,,tugu1246-1,15,ɲimoi se motoa,ɲimoi se motoa,[],,[],,False,False,,1
-tugu1246-1-16-1,,tugu1246-1,16,ɲimoi se butaaŋa,ɲimoi se butaaŋa,[],,[],,False,False,,1
-tugu1246-1-17-1,,tugu1246-1,17,ɲimoi se tumodi,ɲimoi se tumodi,[],,[],,False,False,,1
-tugu1246-1-18-1,,tugu1246-1,18,ɲimoi se tufaŋe,ɲimoi se tufaŋe,[],,[],,False,False,,1
-tugu1246-1-19-1,,tugu1246-1,19,ɲimoi se hiwo,ɲimoi se hiwo,[],,[],,False,False,,1
-tugu1246-1-20-1,,tugu1246-1,20,monaoko,monaoko,[],,[],,False,False,,1
-tugu1246-1-21-1,,tugu1246-1,21,monaokose rimoi,monaokose rimoi,[],,[],,False,False,,1
-tugu1246-1-22-1,,tugu1246-1,22,monaokose hinooto,monaokose hinooto,[],,[],,False,False,,1
-tugu1246-1-23-1,,tugu1246-1,23,monaokose haŋe,monaokose haŋe,[],,[],,False,False,,1
-tugu1246-1-24-1,,tugu1246-1,24,monaokose iata,monaokose iata,[],,[],,False,False,,1
-tugu1246-1-25-1,,tugu1246-1,25,monaokose motoa,monaokose motoa,[],,[],,False,False,,1
-tugu1246-1-26-1,,tugu1246-1,26,monaokose butaaŋa,monaokose butaaŋa,[],,[],,False,False,,1
-tugu1246-1-27-1,,tugu1246-1,27,monaokose tumidi,monaokose tumidi,[],,[],,False,False,,1
-tugu1246-1-28-1,,tugu1246-1,28,monaokose tufaŋe,monaokose tufaŋe,[],,[],,False,False,,1
-tugu1246-1-29-1,,tugu1246-1,29,monaokose hiwo,monaokose hiwo,[],,[],,False,False,,1
-tugu1246-1-30-1,,tugu1246-1,30,muruaŋe,muruaŋe,[],,[],,False,False,,1
-tugu1246-1-40-1,,tugu1246-1,40,moruata,moruata,[],,[],,False,False,,1
-tugu1246-1-50-1,,tugu1246-1,50,moritoa,moritoa,[],,[],,False,False,,1
-tugu1246-1-60-1,,tugu1246-1,60,moributaaŋa,moributaaŋa,[],,[],,False,False,,1
-tugu1246-1-70-1,,tugu1246-1,70,moritumidi,moritumidi,[],,[],,False,False,,1
-tugu1246-1-80-1,,tugu1246-1,80,moritufaŋe,moritufaŋe,[],,[],,False,False,,1
-tugu1246-1-90-1,,tugu1246-1,90,morihiwo,morihiwo,[],,[],,False,False,,1
-tugu1246-1-100-1,,tugu1246-1,100,ratuhu moi,ratuhu moi,[],,[],,False,False,,1
-tugu1246-1-200-1,,tugu1246-1,200,ratuhu hinooto,ratuhu hinooto,[],,[],,False,False,,1
-tugu1246-1-1000-1,,tugu1246-1,1000,sana moi,sana moi,[],,[],,False,False,,1
-tugu1246-1-2000-1,,tugu1246-1,2000,sana hinooto,sana hinooto,[],,[],,False,False,,1
+tugu1246-1-1-1,,tugu1246-1,1,rimoi,rimoi,[],,['chan2019'],,False,False,,1
+tugu1246-1-2-1,,tugu1246-1,2,hinooto,hinooto,[],,['chan2019'],,False,False,,1
+tugu1246-1-3-1,,tugu1246-1,3,haŋe,haŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-4-1,,tugu1246-1,4,iata,iata,[],,['chan2019'],,False,False,,1
+tugu1246-1-5-1,,tugu1246-1,5,motoa,motoa,[],,['chan2019'],,False,False,,1
+tugu1246-1-6-1,,tugu1246-1,6,butaaŋa,butaaŋa,[],,['chan2019'],,False,False,,1
+tugu1246-1-7-1,,tugu1246-1,7,tumidi,tumidi,[],,['chan2019'],,False,False,,1
+tugu1246-1-8-1,,tugu1246-1,8,tufaŋe,tufaŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-9-1,,tugu1246-1,9,hiwo,hiwo,[],,['chan2019'],,False,False,,1
+tugu1246-1-10-1,,tugu1246-1,10,ɲimoi,ɲimoi,[],,['chan2019'],,False,False,,1
+tugu1246-1-11-1,,tugu1246-1,11,ɲimoi se rimoi,ɲimoi se rimoi,[],,['chan2019'],,False,False,,1
+tugu1246-1-12-1,,tugu1246-1,12,ɲimoi se hinooto,ɲimoi se hinooto,[],,['chan2019'],,False,False,,1
+tugu1246-1-13-1,,tugu1246-1,13,ɲimoi se haŋe,ɲimoi se haŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-14-1,,tugu1246-1,14,ɲimoi se iata,ɲimoi se iata,[],,['chan2019'],,False,False,,1
+tugu1246-1-15-1,,tugu1246-1,15,ɲimoi se motoa,ɲimoi se motoa,[],,['chan2019'],,False,False,,1
+tugu1246-1-16-1,,tugu1246-1,16,ɲimoi se butaaŋa,ɲimoi se butaaŋa,[],,['chan2019'],,False,False,,1
+tugu1246-1-17-1,,tugu1246-1,17,ɲimoi se tumodi,ɲimoi se tumodi,[],,['chan2019'],,False,False,,1
+tugu1246-1-18-1,,tugu1246-1,18,ɲimoi se tufaŋe,ɲimoi se tufaŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-19-1,,tugu1246-1,19,ɲimoi se hiwo,ɲimoi se hiwo,[],,['chan2019'],,False,False,,1
+tugu1246-1-20-1,,tugu1246-1,20,monaoko,monaoko,[],,['chan2019'],,False,False,,1
+tugu1246-1-21-1,,tugu1246-1,21,monaokose rimoi,monaokose rimoi,[],,['chan2019'],,False,False,,1
+tugu1246-1-22-1,,tugu1246-1,22,monaokose hinooto,monaokose hinooto,[],,['chan2019'],,False,False,,1
+tugu1246-1-23-1,,tugu1246-1,23,monaokose haŋe,monaokose haŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-24-1,,tugu1246-1,24,monaokose iata,monaokose iata,[],,['chan2019'],,False,False,,1
+tugu1246-1-25-1,,tugu1246-1,25,monaokose motoa,monaokose motoa,[],,['chan2019'],,False,False,,1
+tugu1246-1-26-1,,tugu1246-1,26,monaokose butaaŋa,monaokose butaaŋa,[],,['chan2019'],,False,False,,1
+tugu1246-1-27-1,,tugu1246-1,27,monaokose tumidi,monaokose tumidi,[],,['chan2019'],,False,False,,1
+tugu1246-1-28-1,,tugu1246-1,28,monaokose tufaŋe,monaokose tufaŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-29-1,,tugu1246-1,29,monaokose hiwo,monaokose hiwo,[],,['chan2019'],,False,False,,1
+tugu1246-1-30-1,,tugu1246-1,30,muruaŋe,muruaŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-40-1,,tugu1246-1,40,moruata,moruata,[],,['chan2019'],,False,False,,1
+tugu1246-1-50-1,,tugu1246-1,50,moritoa,moritoa,[],,['chan2019'],,False,False,,1
+tugu1246-1-60-1,,tugu1246-1,60,moributaaŋa,moributaaŋa,[],,['chan2019'],,False,False,,1
+tugu1246-1-70-1,,tugu1246-1,70,moritumidi,moritumidi,[],,['chan2019'],,False,False,,1
+tugu1246-1-80-1,,tugu1246-1,80,moritufaŋe,moritufaŋe,[],,['chan2019'],,False,False,,1
+tugu1246-1-90-1,,tugu1246-1,90,morihiwo,morihiwo,[],,['chan2019'],,False,False,,1
+tugu1246-1-100-1,,tugu1246-1,100,ratuhu moi,ratuhu moi,[],,['chan2019'],,False,False,,1
+tugu1246-1-200-1,,tugu1246-1,200,ratuhu hinooto,ratuhu hinooto,[],,['chan2019'],,False,False,,1
+tugu1246-1-1000-1,,tugu1246-1,1000,sana moi,sana moi,[],,['chan2019'],,False,False,,1
+tugu1246-1-2000-1,,tugu1246-1,2000,sana hinooto,sana hinooto,[],,['chan2019'],,False,False,,1

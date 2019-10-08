@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ghar1239-1-1-1,,ghar1239-1,1,kesa,kesa,[],,[],,False,False,,1
-ghar1239-1-2-1,,ghar1239-1,2,ruka,ruka,[],,[],,False,False,,1
-ghar1239-1-3-1,,ghar1239-1,3,tolu,tolu,[],,[],,False,False,,1
-ghar1239-1-4-1,,ghar1239-1,4,vati,vati,[],,[],,False,False,,1
-ghar1239-1-5-1,,ghar1239-1,5,tseɡe,tseɡe,[],,[],,False,False,,1
-ghar1239-1-6-1,,ghar1239-1,6,ono,ono,[],,[],,False,False,,1
-ghar1239-1-7-1,,ghar1239-1,7,vitu,vitu,[],,[],,False,False,,1
-ghar1239-1-8-1,,ghar1239-1,8,alu,alu,[],,[],,False,False,,1
-ghar1239-1-9-1,,ghar1239-1,9,siu,siu,[],,[],,False,False,,1
-ghar1239-1-10-1,,ghar1239-1,10,saŋavulu,saŋavulu,[],,[],,False,False,,1
-ghar1239-1-11-1,,ghar1239-1,11,saŋavulu kesa,saŋavulu kesa,[],,[],,False,False,,1
-ghar1239-1-12-1,,ghar1239-1,12,saŋavulu ruka,saŋavulu ruka,[],,[],,False,False,,1
-ghar1239-1-13-1,,ghar1239-1,13,saŋavulu tolu,saŋavulu tolu,[],,[],,False,False,,1
-ghar1239-1-14-1,,ghar1239-1,14,saŋavulu vati,saŋavulu vati,[],,[],,False,False,,1
-ghar1239-1-15-1,,ghar1239-1,15,saŋavulu tseɡe,saŋavulu tseɡe,[],,[],,False,False,,1
-ghar1239-1-16-1,,ghar1239-1,16,saŋavulu ono,saŋavulu ono,[],,[],,False,False,,1
-ghar1239-1-17-1,,ghar1239-1,17,saŋavulu vitu,saŋavulu vitu,[],,[],,False,False,,1
-ghar1239-1-18-1,,ghar1239-1,18,saŋavulu alu,saŋavulu alu,[],,[],,False,False,,1
-ghar1239-1-19-1,,ghar1239-1,19,saŋavulu siu,saŋavulu siu,[],,[],,False,False,,1
-ghar1239-1-20-1,,ghar1239-1,20,rukaputa,rukaputa,[],,[],,False,False,,1
-ghar1239-1-21-1,,ghar1239-1,21,rukaputa kesa,rukaputa kesa,[],,[],,False,False,,1
-ghar1239-1-22-1,,ghar1239-1,22,rukaputa ruka,rukaputa ruka,[],,[],,False,False,,1
-ghar1239-1-23-1,,ghar1239-1,23,rukaputa tolu,rukaputa tolu,[],,[],,False,False,,1
-ghar1239-1-24-1,,ghar1239-1,24,rukaputa vati,rukaputa vati,[],,[],,False,False,,1
-ghar1239-1-25-1,,ghar1239-1,25,rukaputa tseɡe,rukaputa tseɡe,[],,[],,False,False,,1
-ghar1239-1-26-1,,ghar1239-1,26,rukaputa ono,rukaputa ono,[],,[],,False,False,,1
-ghar1239-1-27-1,,ghar1239-1,27,rukaputa vitu,rukaputa vitu,[],,[],,False,False,,1
-ghar1239-1-28-1,,ghar1239-1,28,rukaputa alu,rukaputa alu,[],,[],,False,False,,1
-ghar1239-1-29-1,,ghar1239-1,29,rukaputa siu,rukaputa siu,[],,[],,False,False,,1
-ghar1239-1-30-1,,ghar1239-1,30,tolu saŋavulu,tolu saŋavulu,[],,[],,False,False,,1
-ghar1239-1-40-1,,ghar1239-1,40,vati saŋavulu,vati saŋavulu,[],,[],,False,False,,1
-ghar1239-1-50-1,,ghar1239-1,50,tseɡe saŋavulu,tseɡe saŋavulu,[],,[],,False,False,,1
-ghar1239-1-60-1,,ghar1239-1,60,ono saŋavulu,ono saŋavulu,[],,[],,False,False,,1
-ghar1239-1-70-1,,ghar1239-1,70,vitu saŋavulu,vitu saŋavulu,[],,[],,False,False,,1
-ghar1239-1-80-1,,ghar1239-1,80,alu saŋavulu,alu saŋavulu,[],,[],,False,False,,1
-ghar1239-1-90-1,,ghar1239-1,90,siu saŋavulu,siu saŋavulu,[],,[],,False,False,,1
-ghar1239-1-100-1,,ghar1239-1,100,kesa saŋatu,kesa saŋatu,[],,[],,False,False,,1
-ghar1239-1-200-1,,ghar1239-1,200,ruka saŋatu,ruka saŋatu,[],,[],,False,False,,1
-ghar1239-1-1000-1,,ghar1239-1,1000,kesa toɡa,kesa toɡa,[],,[],,False,False,,1
-ghar1239-1-2000-1,,ghar1239-1,2000,ruka toɡa,ruka toɡa,[],,[],,False,False,,1
+ghar1239-1-1-1,,ghar1239-1,1,kesa,kesa,[],,['chan2019'],,False,False,,1
+ghar1239-1-2-1,,ghar1239-1,2,ruka,ruka,[],,['chan2019'],,False,False,,1
+ghar1239-1-3-1,,ghar1239-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+ghar1239-1-4-1,,ghar1239-1,4,vati,vati,[],,['chan2019'],,False,False,,1
+ghar1239-1-5-1,,ghar1239-1,5,tseɡe,tseɡe,[],,['chan2019'],,False,False,,1
+ghar1239-1-6-1,,ghar1239-1,6,ono,ono,[],,['chan2019'],,False,False,,1
+ghar1239-1-7-1,,ghar1239-1,7,vitu,vitu,[],,['chan2019'],,False,False,,1
+ghar1239-1-8-1,,ghar1239-1,8,alu,alu,[],,['chan2019'],,False,False,,1
+ghar1239-1-9-1,,ghar1239-1,9,siu,siu,[],,['chan2019'],,False,False,,1
+ghar1239-1-10-1,,ghar1239-1,10,saŋavulu,saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-11-1,,ghar1239-1,11,saŋavulu kesa,saŋavulu kesa,[],,['chan2019'],,False,False,,1
+ghar1239-1-12-1,,ghar1239-1,12,saŋavulu ruka,saŋavulu ruka,[],,['chan2019'],,False,False,,1
+ghar1239-1-13-1,,ghar1239-1,13,saŋavulu tolu,saŋavulu tolu,[],,['chan2019'],,False,False,,1
+ghar1239-1-14-1,,ghar1239-1,14,saŋavulu vati,saŋavulu vati,[],,['chan2019'],,False,False,,1
+ghar1239-1-15-1,,ghar1239-1,15,saŋavulu tseɡe,saŋavulu tseɡe,[],,['chan2019'],,False,False,,1
+ghar1239-1-16-1,,ghar1239-1,16,saŋavulu ono,saŋavulu ono,[],,['chan2019'],,False,False,,1
+ghar1239-1-17-1,,ghar1239-1,17,saŋavulu vitu,saŋavulu vitu,[],,['chan2019'],,False,False,,1
+ghar1239-1-18-1,,ghar1239-1,18,saŋavulu alu,saŋavulu alu,[],,['chan2019'],,False,False,,1
+ghar1239-1-19-1,,ghar1239-1,19,saŋavulu siu,saŋavulu siu,[],,['chan2019'],,False,False,,1
+ghar1239-1-20-1,,ghar1239-1,20,rukaputa,rukaputa,[],,['chan2019'],,False,False,,1
+ghar1239-1-21-1,,ghar1239-1,21,rukaputa kesa,rukaputa kesa,[],,['chan2019'],,False,False,,1
+ghar1239-1-22-1,,ghar1239-1,22,rukaputa ruka,rukaputa ruka,[],,['chan2019'],,False,False,,1
+ghar1239-1-23-1,,ghar1239-1,23,rukaputa tolu,rukaputa tolu,[],,['chan2019'],,False,False,,1
+ghar1239-1-24-1,,ghar1239-1,24,rukaputa vati,rukaputa vati,[],,['chan2019'],,False,False,,1
+ghar1239-1-25-1,,ghar1239-1,25,rukaputa tseɡe,rukaputa tseɡe,[],,['chan2019'],,False,False,,1
+ghar1239-1-26-1,,ghar1239-1,26,rukaputa ono,rukaputa ono,[],,['chan2019'],,False,False,,1
+ghar1239-1-27-1,,ghar1239-1,27,rukaputa vitu,rukaputa vitu,[],,['chan2019'],,False,False,,1
+ghar1239-1-28-1,,ghar1239-1,28,rukaputa alu,rukaputa alu,[],,['chan2019'],,False,False,,1
+ghar1239-1-29-1,,ghar1239-1,29,rukaputa siu,rukaputa siu,[],,['chan2019'],,False,False,,1
+ghar1239-1-30-1,,ghar1239-1,30,tolu saŋavulu,tolu saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-40-1,,ghar1239-1,40,vati saŋavulu,vati saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-50-1,,ghar1239-1,50,tseɡe saŋavulu,tseɡe saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-60-1,,ghar1239-1,60,ono saŋavulu,ono saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-70-1,,ghar1239-1,70,vitu saŋavulu,vitu saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-80-1,,ghar1239-1,80,alu saŋavulu,alu saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-90-1,,ghar1239-1,90,siu saŋavulu,siu saŋavulu,[],,['chan2019'],,False,False,,1
+ghar1239-1-100-1,,ghar1239-1,100,kesa saŋatu,kesa saŋatu,[],,['chan2019'],,False,False,,1
+ghar1239-1-200-1,,ghar1239-1,200,ruka saŋatu,ruka saŋatu,[],,['chan2019'],,False,False,,1
+ghar1239-1-1000-1,,ghar1239-1,1000,kesa toɡa,kesa toɡa,[],,['chan2019'],,False,False,,1
+ghar1239-1-2000-1,,ghar1239-1,2000,ruka toɡa,ruka toɡa,[],,['chan2019'],,False,False,,1

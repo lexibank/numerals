@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1454-1-1-1,,nucl1454-1,1,intabo,intabo,[],,[],,False,False,,1
-nucl1454-1-2-1,,nucl1454-1,2,jirum,jirum,[],( * j = dʒ),[],,False,False,,1
-nucl1454-1-3-1,,nucl1454-1,3,mandeij,mandeij,[],,[],,False,False,,1
-nucl1454-1-4-1,,nucl1454-1,4,mambisy,mambisy,[],,[],,False,False,,1
-nucl1454-1-5-1,,nucl1454-1,5,radani,radani,[],,[],,False,False,,1
-nucl1454-1-5-2,,nucl1454-1,5,na,na,[],,[],,False,False,,1
-nucl1454-1-6-1,,nucl1454-1,6,kaujentabo,kaujentabo,[],( 5 + 1 ),[],,False,False,,1
-nucl1454-1-7-1,,nucl1454-1,7,kaujiru,kaujiru,[],( 5 + 2 ),[],,False,False,,1
-nucl1454-1-8-1,,nucl1454-1,8,kaumandeij,kaumandeij,[],( 5 + 3 ),[],,False,False,,1
-nucl1454-1-9-1,,nucl1454-1,9,kaimambisy,kaimambisy,[],( 5 + 4 ),[],,False,False,,1
-nucl1454-1-10-1,,nucl1454-1,10,abusyin,abusyin,[],,[],,False,False,,1
-nucl1454-1-11-1,,nucl1454-1,11,abusyin eyane intabo,abusyin eyane intabo,[],,[],,False,False,,1
-nucl1454-1-12-1,,nucl1454-1,12,abusyin eyane jirum,abusyin eyane jirum,[],,[],,False,False,,1
-nucl1454-1-13-1,,nucl1454-1,13,abusyin eyane mandeij,abusyin eyane mandeij,[],,[],,False,False,,1
-nucl1454-1-14-1,,nucl1454-1,14,abusyin eyane mambisy,abusyin eyane mambisy,[],,[],,False,False,,1
-nucl1454-1-15-1,,nucl1454-1,15,abusyin eyane mambisy,abusyin eyane mambisy,[],,[],,False,False,,1
-nucl1454-1-16-1,,nucl1454-1,16,abusyin eyane kaujentabo,abusyin eyane kaujentabo,[],,[],,False,False,,1
-nucl1454-1-17-1,,nucl1454-1,17,abusyin eyane kaujiru,abusyin eyane kaujiru,[],,[],,False,False,,1
-nucl1454-1-18-1,,nucl1454-1,18,abusyin eyane kaumandeij,abusyin eyane kaumandeij,[],,[],,False,False,,1
-nucl1454-1-19-1,,nucl1454-1,19,abusyin eyane kaimambisy,abusyin eyane kaimambisy,[],,[],,False,False,,1
-nucl1454-1-20-1,,nucl1454-1,20,vatan intabo,vatan intabo,[],( ''one person'' * ),[],,False,False,,1
-nucl1454-1-21-1,,nucl1454-1,21,vatan intabo eyane intabo,vatan intabo eyane intabo,[],,[],,False,False,,1
-nucl1454-1-22-1,,nucl1454-1,22,vatan intabo eyane jirum,vatan intabo eyane jirum,[],,[],,False,False,,1
-nucl1454-1-23-1,,nucl1454-1,23,vatan intabo eyane mandeij,vatan intabo eyane mandeij,[],,[],,False,False,,1
-nucl1454-1-24-1,,nucl1454-1,24,vatan intabo eyane mambisy,vatan intabo eyane mambisy,[],,[],,False,False,,1
-nucl1454-1-25-1,,nucl1454-1,25,vatan intabo eyane mambisy,vatan intabo eyane mambisy,[],,[],,False,False,,1
-nucl1454-1-26-1,,nucl1454-1,26,vatan intabo eyane kaujentabo,vatan intabo eyane kaujentabo,[],,[],,False,False,,1
-nucl1454-1-27-1,,nucl1454-1,27,vatan intabo eyane kaujiru,vatan intabo eyane kaujiru,[],,[],,False,False,,1
-nucl1454-1-28-1,,nucl1454-1,28,vatan intabo eyane kaumandeij,vatan intabo eyane kaumandeij,[],,[],,False,False,,1
-nucl1454-1-29-1,,nucl1454-1,29,vatan intabo eyane kaimambisy,vatan intabo eyane kaimambisy,[],,[],,False,False,,1
-nucl1454-1-30-1,,nucl1454-1,30,vatan intabo eyane abusyin,vatan intabo eyane abusyin,[],,[],,False,False,,1
-nucl1454-1-40-1,,nucl1454-1,40,vatane jirum,vatane jirum,[],( ''two people'' ),[],,False,False,,1
-nucl1454-1-50-1,,nucl1454-1,50,vatane jirum eyane abusyin,vatane jirum eyane abusyin,[],,[],,False,False,,1
-nucl1454-1-60-1,,nucl1454-1,60,vatane mandeij,vatane mandeij,[],( ''three people'' ),[],,False,False,,1
-nucl1454-1-70-1,,nucl1454-1,70,vatane mandeij eyane abusyin,vatane mandeij eyane abusyin,[],,[],,False,False,,1
-nucl1454-1-80-1,,nucl1454-1,80,vatane mambisy,vatane mambisy,[],( ''four people'' ),[],,False,False,,1
-nucl1454-1-90-1,,nucl1454-1,90,vatane mambisy eyane abusyin,vatane mambisy eyane abusyin,[],,[],,False,False,,1
-nucl1454-1-100-1,,nucl1454-1,100,vatane radani,vatane radani,[],( ''five people'' ),[],,False,False,,1
+nucl1454-1-1-1,,nucl1454-1,1,intabo,intabo,[],,['chan2019'],,False,False,,1
+nucl1454-1-2-1,,nucl1454-1,2,jirum,jirum,[],( * j = dʒ),['chan2019'],,False,False,,1
+nucl1454-1-3-1,,nucl1454-1,3,mandeij,mandeij,[],,['chan2019'],,False,False,,1
+nucl1454-1-4-1,,nucl1454-1,4,mambisy,mambisy,[],,['chan2019'],,False,False,,1
+nucl1454-1-5-1,,nucl1454-1,5,radani,radani,[],,['chan2019'],,False,False,,1
+nucl1454-1-5-2,,nucl1454-1,5,na,na,[],,['chan2019'],,False,False,,1
+nucl1454-1-6-1,,nucl1454-1,6,kaujentabo,kaujentabo,[],( 5 + 1 ),['chan2019'],,False,False,,1
+nucl1454-1-7-1,,nucl1454-1,7,kaujiru,kaujiru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+nucl1454-1-8-1,,nucl1454-1,8,kaumandeij,kaumandeij,[],( 5 + 3 ),['chan2019'],,False,False,,1
+nucl1454-1-9-1,,nucl1454-1,9,kaimambisy,kaimambisy,[],( 5 + 4 ),['chan2019'],,False,False,,1
+nucl1454-1-10-1,,nucl1454-1,10,abusyin,abusyin,[],,['chan2019'],,False,False,,1
+nucl1454-1-11-1,,nucl1454-1,11,abusyin eyane intabo,abusyin eyane intabo,[],,['chan2019'],,False,False,,1
+nucl1454-1-12-1,,nucl1454-1,12,abusyin eyane jirum,abusyin eyane jirum,[],,['chan2019'],,False,False,,1
+nucl1454-1-13-1,,nucl1454-1,13,abusyin eyane mandeij,abusyin eyane mandeij,[],,['chan2019'],,False,False,,1
+nucl1454-1-14-1,,nucl1454-1,14,abusyin eyane mambisy,abusyin eyane mambisy,[],,['chan2019'],,False,False,,1
+nucl1454-1-15-1,,nucl1454-1,15,abusyin eyane mambisy,abusyin eyane mambisy,[],,['chan2019'],,False,False,,1
+nucl1454-1-16-1,,nucl1454-1,16,abusyin eyane kaujentabo,abusyin eyane kaujentabo,[],,['chan2019'],,False,False,,1
+nucl1454-1-17-1,,nucl1454-1,17,abusyin eyane kaujiru,abusyin eyane kaujiru,[],,['chan2019'],,False,False,,1
+nucl1454-1-18-1,,nucl1454-1,18,abusyin eyane kaumandeij,abusyin eyane kaumandeij,[],,['chan2019'],,False,False,,1
+nucl1454-1-19-1,,nucl1454-1,19,abusyin eyane kaimambisy,abusyin eyane kaimambisy,[],,['chan2019'],,False,False,,1
+nucl1454-1-20-1,,nucl1454-1,20,vatan intabo,vatan intabo,[],( ''one person'' * ),['chan2019'],,False,False,,1
+nucl1454-1-21-1,,nucl1454-1,21,vatan intabo eyane intabo,vatan intabo eyane intabo,[],,['chan2019'],,False,False,,1
+nucl1454-1-22-1,,nucl1454-1,22,vatan intabo eyane jirum,vatan intabo eyane jirum,[],,['chan2019'],,False,False,,1
+nucl1454-1-23-1,,nucl1454-1,23,vatan intabo eyane mandeij,vatan intabo eyane mandeij,[],,['chan2019'],,False,False,,1
+nucl1454-1-24-1,,nucl1454-1,24,vatan intabo eyane mambisy,vatan intabo eyane mambisy,[],,['chan2019'],,False,False,,1
+nucl1454-1-25-1,,nucl1454-1,25,vatan intabo eyane mambisy,vatan intabo eyane mambisy,[],,['chan2019'],,False,False,,1
+nucl1454-1-26-1,,nucl1454-1,26,vatan intabo eyane kaujentabo,vatan intabo eyane kaujentabo,[],,['chan2019'],,False,False,,1
+nucl1454-1-27-1,,nucl1454-1,27,vatan intabo eyane kaujiru,vatan intabo eyane kaujiru,[],,['chan2019'],,False,False,,1
+nucl1454-1-28-1,,nucl1454-1,28,vatan intabo eyane kaumandeij,vatan intabo eyane kaumandeij,[],,['chan2019'],,False,False,,1
+nucl1454-1-29-1,,nucl1454-1,29,vatan intabo eyane kaimambisy,vatan intabo eyane kaimambisy,[],,['chan2019'],,False,False,,1
+nucl1454-1-30-1,,nucl1454-1,30,vatan intabo eyane abusyin,vatan intabo eyane abusyin,[],,['chan2019'],,False,False,,1
+nucl1454-1-40-1,,nucl1454-1,40,vatane jirum,vatane jirum,[],( ''two people'' ),['chan2019'],,False,False,,1
+nucl1454-1-50-1,,nucl1454-1,50,vatane jirum eyane abusyin,vatane jirum eyane abusyin,[],,['chan2019'],,False,False,,1
+nucl1454-1-60-1,,nucl1454-1,60,vatane mandeij,vatane mandeij,[],( ''three people'' ),['chan2019'],,False,False,,1
+nucl1454-1-70-1,,nucl1454-1,70,vatane mandeij eyane abusyin,vatane mandeij eyane abusyin,[],,['chan2019'],,False,False,,1
+nucl1454-1-80-1,,nucl1454-1,80,vatane mambisy,vatane mambisy,[],( ''four people'' ),['chan2019'],,False,False,,1
+nucl1454-1-90-1,,nucl1454-1,90,vatane mambisy eyane abusyin,vatane mambisy eyane abusyin,[],,['chan2019'],,False,False,,1
+nucl1454-1-100-1,,nucl1454-1,100,vatane radani,vatane radani,[],( ''five people'' ),['chan2019'],,False,False,,1

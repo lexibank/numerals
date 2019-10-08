@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dout1240-1-1-1,,dout1240-1,1,'kɛiki,'kɛiki,[],,[],,False,False,,1
-dout1240-1-2-1,,dout1240-1,2,'tibɑ,'tibɑ,[],,[],,False,False,,1
-dout1240-1-3-1,,dout1240-1,3,'tibɑkɑ 'kɛika,'tibɑkɑ 'kɛika,[],( 2 + 1 ),[],,False,False,,1
-dout1240-1-4-1,,dout1240-1,4,kɑbɾɛsɑ tibɑ kɑbɾɛsɑtibɑ,kɑbɾɛsɑ tibɑ kɑbɾɛsɑtibɑ,[],( 2 + 2 ),[],,False,False,,1
-dout1240-1-5-1,,dout1240-1,5,ɡɑiy sɑ'ɡɑri,ɡɑiy sɑ'ɡɑri,[],,[],,False,False,,1
+dout1240-1-1-1,,dout1240-1,1,'kɛiki,'kɛiki,[],,['chan2019'],,False,False,,1
+dout1240-1-2-1,,dout1240-1,2,'tibɑ,'tibɑ,[],,['chan2019'],,False,False,,1
+dout1240-1-3-1,,dout1240-1,3,'tibɑkɑ 'kɛika,'tibɑkɑ 'kɛika,[],( 2 + 1 ),['chan2019'],,False,False,,1
+dout1240-1-4-1,,dout1240-1,4,kɑbɾɛsɑ tibɑ kɑbɾɛsɑtibɑ,kɑbɾɛsɑ tibɑ kɑbɾɛsɑtibɑ,[],( 2 + 2 ),['chan2019'],,False,False,,1
+dout1240-1-5-1,,dout1240-1,5,ɡɑiy sɑ'ɡɑri,ɡɑiy sɑ'ɡɑri,[],,['chan2019'],,False,False,,1

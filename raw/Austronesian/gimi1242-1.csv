@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gimi1242-1-1-1,,gimi1242-1,1,nake,nake,[],,[],,False,False,,1
-gimi1242-1-2-1,,gimi1242-1,2,tip,tip,[],,[],,False,False,,1
-gimi1242-1-3-1,,gimi1242-1,3,mok,mok,[],,[],,False,False,,1
-gimi1242-1-4-1,,gimi1242-1,4,penɡ,penɡ,[],,[],,False,False,,1
-gimi1242-1-5-1,,gimi1242-1,5,liem,liem,[],,[],,False,False,,1
-gimi1242-1-6-1,,gimi1242-1,6,nake le kon liem nɡo,nake le kon liem nɡo,[],( 5 + 1 ),[],,False,False,,1
-gimi1242-1-7-1,,gimi1242-1,7,tip le kon liem nɡo,tip le kon liem nɡo,[],( 5 + 2 ),[],,False,False,,1
-gimi1242-1-8-1,,gimi1242-1,8,mok le kon liem nɡo,mok le kon liem nɡo,[],( 5 + 3 ),[],,False,False,,1
-gimi1242-1-9-1,,gimi1242-1,9,penɡ le kon liem nɡo,penɡ le kon liem nɡo,[],( 5 + 4 ),[],,False,False,,1
-gimi1242-1-10-1,,gimi1242-1,10,sunɡul,sunɡul,[],,[],,False,False,,1
-gimi1242-1-11-1,,gimi1242-1,11,sunɡul nake ile nake,sunɡul nake ile nake,[],,[],,False,False,,1
-gimi1242-1-12-1,,gimi1242-1,12,sunɡul nake ile tip,sunɡul nake ile tip,[],,[],,False,False,,1
-gimi1242-1-13-1,,gimi1242-1,13,sunɡul nake ile mok,sunɡul nake ile mok,[],,[],,False,False,,1
-gimi1242-1-14-1,,gimi1242-1,14,sunɡul nake ile penɡ,sunɡul nake ile penɡ,[],,[],,False,False,,1
-gimi1242-1-15-1,,gimi1242-1,15,sunɡul nake ile liem,sunɡul nake ile liem,[],,[],,False,False,,1
-gimi1242-1-16-1,,gimi1242-1,16,sunɡul nake ile nake ke kon liem nɡo,sunɡul nake ile nake ke kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-17-1,,gimi1242-1,17,sunɡul nake ile tip ke kon liem nɡo,sunɡul nake ile tip ke kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-18-1,,gimi1242-1,18,sunɡul nake ile mok ke kon liem nɡo,sunɡul nake ile mok ke kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-19-1,,gimi1242-1,19,sunɡul nake ile penɡ ke kon liem nɡo,sunɡul nake ile penɡ ke kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-20-1,,gimi1242-1,20,sunɡul tip,sunɡul tip,[],,[],,False,False,,1
-gimi1242-1-21-1,,gimi1242-1,21,sunɡul tip ile nake,sunɡul tip ile nake,[],,[],,False,False,,1
-gimi1242-1-22-1,,gimi1242-1,22,sunɡul tip ile tip,sunɡul tip ile tip,[],,[],,False,False,,1
-gimi1242-1-23-1,,gimi1242-1,23,sunɡul tip ile mok,sunɡul tip ile mok,[],,[],,False,False,,1
-gimi1242-1-24-1,,gimi1242-1,24,sunɡul tip ile penɡ,sunɡul tip ile penɡ,[],,[],,False,False,,1
-gimi1242-1-25-1,,gimi1242-1,25,sunɡul tip ile liem,sunɡul tip ile liem,[],,[],,False,False,,1
-gimi1242-1-26-1,,gimi1242-1,26,sunɡul tip ile nake le kon liem nɡo,sunɡul tip ile nake le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-27-1,,gimi1242-1,27,sunɡul tip ile tip le kon liem nɡo,sunɡul tip ile tip le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-28-1,,gimi1242-1,28,sunɡul tip ile mok le kon liem nɡo,sunɡul tip ile mok le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-29-1,,gimi1242-1,29,sunɡul tip ile penɡ le kon liem nɡo,sunɡul tip ile penɡ le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-30-1,,gimi1242-1,30,sunɡul mok,sunɡul mok,[],,[],,False,False,,1
-gimi1242-1-40-1,,gimi1242-1,40,sunɡul penɡ,sunɡul penɡ,[],,[],,False,False,,1
-gimi1242-1-50-1,,gimi1242-1,50,sunɡul liem,sunɡul liem,[],,[],,False,False,,1
-gimi1242-1-60-1,,gimi1242-1,60,sunɡul nake le kon liem nɡo,sunɡul nake le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-70-1,,gimi1242-1,70,sunɡul tip le kon liem nɡo,sunɡul tip le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-80-1,,gimi1242-1,80,sunɡul mok le kon liem nɡo,sunɡul mok le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-90-1,,gimi1242-1,90,sunɡul penɡ le kon liem nɡo,sunɡul penɡ le kon liem nɡo,[],,[],,False,False,,1
-gimi1242-1-100-1,,gimi1242-1,100,sunɡul sunɡul,sunɡul sunɡul,[],,[],,False,False,,1
-gimi1242-1-200-1,,gimi1242-1,200,tu handret,tu handret,[],< English 'hundred' ,[],,True,False,,1
-gimi1242-1-1000-1,,gimi1242-1,1000,wan tausen,wan tausen,[],< English 'thousand' ,[],,True,False,,1
-gimi1242-1-2000-1,,gimi1242-1,2000,tu tausen,tu tausen,[],,[],,False,False,,1
+gimi1242-1-1-1,,gimi1242-1,1,nake,nake,[],,['chan2019'],,False,False,,1
+gimi1242-1-2-1,,gimi1242-1,2,tip,tip,[],,['chan2019'],,False,False,,1
+gimi1242-1-3-1,,gimi1242-1,3,mok,mok,[],,['chan2019'],,False,False,,1
+gimi1242-1-4-1,,gimi1242-1,4,penɡ,penɡ,[],,['chan2019'],,False,False,,1
+gimi1242-1-5-1,,gimi1242-1,5,liem,liem,[],,['chan2019'],,False,False,,1
+gimi1242-1-6-1,,gimi1242-1,6,nake le kon liem nɡo,nake le kon liem nɡo,[],( 5 + 1 ),['chan2019'],,False,False,,1
+gimi1242-1-7-1,,gimi1242-1,7,tip le kon liem nɡo,tip le kon liem nɡo,[],( 5 + 2 ),['chan2019'],,False,False,,1
+gimi1242-1-8-1,,gimi1242-1,8,mok le kon liem nɡo,mok le kon liem nɡo,[],( 5 + 3 ),['chan2019'],,False,False,,1
+gimi1242-1-9-1,,gimi1242-1,9,penɡ le kon liem nɡo,penɡ le kon liem nɡo,[],( 5 + 4 ),['chan2019'],,False,False,,1
+gimi1242-1-10-1,,gimi1242-1,10,sunɡul,sunɡul,[],,['chan2019'],,False,False,,1
+gimi1242-1-11-1,,gimi1242-1,11,sunɡul nake ile nake,sunɡul nake ile nake,[],,['chan2019'],,False,False,,1
+gimi1242-1-12-1,,gimi1242-1,12,sunɡul nake ile tip,sunɡul nake ile tip,[],,['chan2019'],,False,False,,1
+gimi1242-1-13-1,,gimi1242-1,13,sunɡul nake ile mok,sunɡul nake ile mok,[],,['chan2019'],,False,False,,1
+gimi1242-1-14-1,,gimi1242-1,14,sunɡul nake ile penɡ,sunɡul nake ile penɡ,[],,['chan2019'],,False,False,,1
+gimi1242-1-15-1,,gimi1242-1,15,sunɡul nake ile liem,sunɡul nake ile liem,[],,['chan2019'],,False,False,,1
+gimi1242-1-16-1,,gimi1242-1,16,sunɡul nake ile nake ke kon liem nɡo,sunɡul nake ile nake ke kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-17-1,,gimi1242-1,17,sunɡul nake ile tip ke kon liem nɡo,sunɡul nake ile tip ke kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-18-1,,gimi1242-1,18,sunɡul nake ile mok ke kon liem nɡo,sunɡul nake ile mok ke kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-19-1,,gimi1242-1,19,sunɡul nake ile penɡ ke kon liem nɡo,sunɡul nake ile penɡ ke kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-20-1,,gimi1242-1,20,sunɡul tip,sunɡul tip,[],,['chan2019'],,False,False,,1
+gimi1242-1-21-1,,gimi1242-1,21,sunɡul tip ile nake,sunɡul tip ile nake,[],,['chan2019'],,False,False,,1
+gimi1242-1-22-1,,gimi1242-1,22,sunɡul tip ile tip,sunɡul tip ile tip,[],,['chan2019'],,False,False,,1
+gimi1242-1-23-1,,gimi1242-1,23,sunɡul tip ile mok,sunɡul tip ile mok,[],,['chan2019'],,False,False,,1
+gimi1242-1-24-1,,gimi1242-1,24,sunɡul tip ile penɡ,sunɡul tip ile penɡ,[],,['chan2019'],,False,False,,1
+gimi1242-1-25-1,,gimi1242-1,25,sunɡul tip ile liem,sunɡul tip ile liem,[],,['chan2019'],,False,False,,1
+gimi1242-1-26-1,,gimi1242-1,26,sunɡul tip ile nake le kon liem nɡo,sunɡul tip ile nake le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-27-1,,gimi1242-1,27,sunɡul tip ile tip le kon liem nɡo,sunɡul tip ile tip le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-28-1,,gimi1242-1,28,sunɡul tip ile mok le kon liem nɡo,sunɡul tip ile mok le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-29-1,,gimi1242-1,29,sunɡul tip ile penɡ le kon liem nɡo,sunɡul tip ile penɡ le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-30-1,,gimi1242-1,30,sunɡul mok,sunɡul mok,[],,['chan2019'],,False,False,,1
+gimi1242-1-40-1,,gimi1242-1,40,sunɡul penɡ,sunɡul penɡ,[],,['chan2019'],,False,False,,1
+gimi1242-1-50-1,,gimi1242-1,50,sunɡul liem,sunɡul liem,[],,['chan2019'],,False,False,,1
+gimi1242-1-60-1,,gimi1242-1,60,sunɡul nake le kon liem nɡo,sunɡul nake le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-70-1,,gimi1242-1,70,sunɡul tip le kon liem nɡo,sunɡul tip le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-80-1,,gimi1242-1,80,sunɡul mok le kon liem nɡo,sunɡul mok le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-90-1,,gimi1242-1,90,sunɡul penɡ le kon liem nɡo,sunɡul penɡ le kon liem nɡo,[],,['chan2019'],,False,False,,1
+gimi1242-1-100-1,,gimi1242-1,100,sunɡul sunɡul,sunɡul sunɡul,[],,['chan2019'],,False,False,,1
+gimi1242-1-200-1,,gimi1242-1,200,tu handret,tu handret,[],< English 'hundred' ,['chan2019'],,True,False,,1
+gimi1242-1-1000-1,,gimi1242-1,1000,wan tausen,wan tausen,[],< English 'thousand' ,['chan2019'],,True,False,,1
+gimi1242-1-2000-1,,gimi1242-1,2000,tu tausen,tu tausen,[],,['chan2019'],,False,False,,1

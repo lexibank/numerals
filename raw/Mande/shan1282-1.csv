@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-shan1282-1-1-1,,shan1282-1,1,do,do,[],,[],,False,False,,1
-shan1282-1-2-1,,shan1282-1,2,ʍa,ʍa,[],,[],,False,False,,1
-shan1282-1-3-1,,shan1282-1,3,ʔà,ʔà,[],,[],,False,False,,1
-shan1282-1-4-1,,shan1282-1,4,ʃí,ʃí,[],,[],,False,False,,1
-shan1282-1-5-1,,shan1282-1,5,sɔ́ɔ,sɔ́ɔ,[],,[],,False,False,,1
-shan1282-1-6-1,,shan1282-1,6,sɔbodo,sɔbodo,[],( 5 + 1 ),[],,False,False,,1
-shan1282-1-7-1,,shan1282-1,7,sɔhia,sɔhia,[],( 5 + 2 ),[],,False,False,,1
-shan1282-1-8-1,,shan1282-1,8,sɔboʔà,sɔboʔà,[],( 5 + 3 ),[],,False,False,,1
-shan1282-1-9-1,,shan1282-1,9,sɔdoʃí,sɔdoʃí,[],( 5 + 4 ),[],,False,False,,1
-shan1282-1-10-1,,shan1282-1,10,wókòì,wókòì,[],,[],,False,False,,1
-shan1282-1-11-1,,shan1282-1,11,wókòì wodonizò,wókòì wodonizò,[],(litː 10 + 1 ),[],,False,False,,1
-shan1282-1-12-1,,shan1282-1,12,wókòì woʍaazò,wókòì woʍaazò,[],(litː 10 + 2 ),[],,False,False,,1
-shan1282-1-13-1,,shan1282-1,13,wókòì waʔàzò,wókòì waʔàzò,[],(litː 10 + 3 ),[],,False,False,,1
-shan1282-1-14-1,,shan1282-1,14,wókòì woʃízò,wókòì woʃízò,[],(litː 10 + 4 ),[],,False,False,,1
-shan1282-1-15-1,,shan1282-1,15,wókòì wosɔ́ɔ,wókòì wosɔ́ɔ,[],(litː 10 + 5 ),[],,False,False,,1
-shan1282-1-16-1,,shan1282-1,16,wókòì wosɔ́ɔ wodonizò,wókòì wosɔ́ɔ wodonizò,[],,[],,False,False,,1
-shan1282-1-17-1,,shan1282-1,17,wókòì wosɔ́ɔ woʍaazò,wókòì wosɔ́ɔ woʍaazò,[],,[],,False,False,,1
-shan1282-1-18-1,,shan1282-1,18,wókòì wosɔ́ɔ waʔàzò,wókòì wosɔ́ɔ waʔàzò,[],,[],,False,False,,1
-shan1282-1-19-1,,shan1282-1,19,wókòì wosɔ́ɔ woʃízò,wókòì wosɔ́ɔ woʃízò,[],,[],,False,False,,1
-shan1282-1-20-1,,shan1282-1,20,kado,kado,[],,[],,False,False,,1
-shan1282-1-21-1,,shan1282-1,21,kado wodonizò,kado wodonizò,[],,[],,False,False,,1
-shan1282-1-22-1,,shan1282-1,22,kado woʍaazò,kado woʍaazò,[],,[],,False,False,,1
-shan1282-1-23-1,,shan1282-1,23,kado waʔàzò,kado waʔàzò,[],,[],,False,False,,1
-shan1282-1-24-1,,shan1282-1,24,kado woʃízò,kado woʃízò,[],,[],,False,False,,1
-shan1282-1-25-1,,shan1282-1,25,kadowↄsɔ́ɔ,kadowↄsɔ́ɔ,[],,[],,False,False,,1
-shan1282-1-26-1,,shan1282-1,26,kadowosɔↄ wodonizò,kadowosɔↄ wodonizò,[],,[],,False,False,,1
-shan1282-1-27-1,,shan1282-1,27,kadowosɔɔ woʍaazò,kadowosɔɔ woʍaazò,[],,[],,False,False,,1
-shan1282-1-28-1,,shan1282-1,28,kadowosɔↄ woʔàzò,kadowosɔↄ woʔàzò,[],,[],,False,False,,1
-shan1282-1-29-1,,shan1282-1,29,kadowosɔↄ woʃízò,kadowosɔↄ woʃízò,[],,[],,False,False,,1
-shan1282-1-30-1,,shan1282-1,30,kadowókòì,kadowókòì,[],( 20 + 10 ),[],,False,False,,1
-shan1282-1-40-1,,shan1282-1,40,kaʍaa,kaʍaa,[],( 20 x 2 ),[],,False,False,,1
-shan1282-1-50-1,,shan1282-1,50,kaʍaawókòì,kaʍaawókòì,[],( 40 + 10 ),[],,False,False,,1
-shan1282-1-60-1,,shan1282-1,60,kaʔà,kaʔà,[],( 20 x 3 ),[],,False,False,,1
-shan1282-1-70-1,,shan1282-1,70,kaʔàwókòì,kaʔàwókòì,[],( 60 + 10 ),[],,False,False,,1
-shan1282-1-80-1,,shan1282-1,80,kaʃí,kaʃí,[],( 20 x 4 ),[],,False,False,,1
-shan1282-1-90-1,,shan1282-1,90,kaʃíwókòì,kaʃíwókòì,[],( 80 + 10 ),[],,False,False,,1
-shan1282-1-100-1,,shan1282-1,100,kasɔ́ɔ,kasɔ́ɔ,[],( 20 x 5 ),[],,False,False,,1
-shan1282-1-200-1,,shan1282-1,200,kasɔ́ɔ ʍaa,kasɔ́ɔ ʍaa,[],( 20 x 5 x 2 ),[],,False,False,,1
-shan1282-1-200-2,,shan1282-1,200,koi,koi,[],,[],,False,False,,1
-shan1282-1-1000-1,,shan1282-1,1000,kasↄ́ↄ wókòì,kasↄ́ↄ wókòì,[],,[],,False,False,,1
-shan1282-1-2000-1,,shan1282-1,2000,koi wókòì,koi wókòì,[],,[],,False,False,,1
+shan1282-1-1-1,,shan1282-1,1,do,do,[],,['chan2019'],,False,False,,1
+shan1282-1-2-1,,shan1282-1,2,ʍa,ʍa,[],,['chan2019'],,False,False,,1
+shan1282-1-3-1,,shan1282-1,3,ʔà,ʔà,[],,['chan2019'],,False,False,,1
+shan1282-1-4-1,,shan1282-1,4,ʃí,ʃí,[],,['chan2019'],,False,False,,1
+shan1282-1-5-1,,shan1282-1,5,sɔ́ɔ,sɔ́ɔ,[],,['chan2019'],,False,False,,1
+shan1282-1-6-1,,shan1282-1,6,sɔbodo,sɔbodo,[],( 5 + 1 ),['chan2019'],,False,False,,1
+shan1282-1-7-1,,shan1282-1,7,sɔhia,sɔhia,[],( 5 + 2 ),['chan2019'],,False,False,,1
+shan1282-1-8-1,,shan1282-1,8,sɔboʔà,sɔboʔà,[],( 5 + 3 ),['chan2019'],,False,False,,1
+shan1282-1-9-1,,shan1282-1,9,sɔdoʃí,sɔdoʃí,[],( 5 + 4 ),['chan2019'],,False,False,,1
+shan1282-1-10-1,,shan1282-1,10,wókòì,wókòì,[],,['chan2019'],,False,False,,1
+shan1282-1-11-1,,shan1282-1,11,wókòì wodonizò,wókòì wodonizò,[],(litː 10 + 1 ),['chan2019'],,False,False,,1
+shan1282-1-12-1,,shan1282-1,12,wókòì woʍaazò,wókòì woʍaazò,[],(litː 10 + 2 ),['chan2019'],,False,False,,1
+shan1282-1-13-1,,shan1282-1,13,wókòì waʔàzò,wókòì waʔàzò,[],(litː 10 + 3 ),['chan2019'],,False,False,,1
+shan1282-1-14-1,,shan1282-1,14,wókòì woʃízò,wókòì woʃízò,[],(litː 10 + 4 ),['chan2019'],,False,False,,1
+shan1282-1-15-1,,shan1282-1,15,wókòì wosɔ́ɔ,wókòì wosɔ́ɔ,[],(litː 10 + 5 ),['chan2019'],,False,False,,1
+shan1282-1-16-1,,shan1282-1,16,wókòì wosɔ́ɔ wodonizò,wókòì wosɔ́ɔ wodonizò,[],,['chan2019'],,False,False,,1
+shan1282-1-17-1,,shan1282-1,17,wókòì wosɔ́ɔ woʍaazò,wókòì wosɔ́ɔ woʍaazò,[],,['chan2019'],,False,False,,1
+shan1282-1-18-1,,shan1282-1,18,wókòì wosɔ́ɔ waʔàzò,wókòì wosɔ́ɔ waʔàzò,[],,['chan2019'],,False,False,,1
+shan1282-1-19-1,,shan1282-1,19,wókòì wosɔ́ɔ woʃízò,wókòì wosɔ́ɔ woʃízò,[],,['chan2019'],,False,False,,1
+shan1282-1-20-1,,shan1282-1,20,kado,kado,[],,['chan2019'],,False,False,,1
+shan1282-1-21-1,,shan1282-1,21,kado wodonizò,kado wodonizò,[],,['chan2019'],,False,False,,1
+shan1282-1-22-1,,shan1282-1,22,kado woʍaazò,kado woʍaazò,[],,['chan2019'],,False,False,,1
+shan1282-1-23-1,,shan1282-1,23,kado waʔàzò,kado waʔàzò,[],,['chan2019'],,False,False,,1
+shan1282-1-24-1,,shan1282-1,24,kado woʃízò,kado woʃízò,[],,['chan2019'],,False,False,,1
+shan1282-1-25-1,,shan1282-1,25,kadowↄsɔ́ɔ,kadowↄsɔ́ɔ,[],,['chan2019'],,False,False,,1
+shan1282-1-26-1,,shan1282-1,26,kadowosɔↄ wodonizò,kadowosɔↄ wodonizò,[],,['chan2019'],,False,False,,1
+shan1282-1-27-1,,shan1282-1,27,kadowosɔɔ woʍaazò,kadowosɔɔ woʍaazò,[],,['chan2019'],,False,False,,1
+shan1282-1-28-1,,shan1282-1,28,kadowosɔↄ woʔàzò,kadowosɔↄ woʔàzò,[],,['chan2019'],,False,False,,1
+shan1282-1-29-1,,shan1282-1,29,kadowosɔↄ woʃízò,kadowosɔↄ woʃízò,[],,['chan2019'],,False,False,,1
+shan1282-1-30-1,,shan1282-1,30,kadowókòì,kadowókòì,[],( 20 + 10 ),['chan2019'],,False,False,,1
+shan1282-1-40-1,,shan1282-1,40,kaʍaa,kaʍaa,[],( 20 x 2 ),['chan2019'],,False,False,,1
+shan1282-1-50-1,,shan1282-1,50,kaʍaawókòì,kaʍaawókòì,[],( 40 + 10 ),['chan2019'],,False,False,,1
+shan1282-1-60-1,,shan1282-1,60,kaʔà,kaʔà,[],( 20 x 3 ),['chan2019'],,False,False,,1
+shan1282-1-70-1,,shan1282-1,70,kaʔàwókòì,kaʔàwókòì,[],( 60 + 10 ),['chan2019'],,False,False,,1
+shan1282-1-80-1,,shan1282-1,80,kaʃí,kaʃí,[],( 20 x 4 ),['chan2019'],,False,False,,1
+shan1282-1-90-1,,shan1282-1,90,kaʃíwókòì,kaʃíwókòì,[],( 80 + 10 ),['chan2019'],,False,False,,1
+shan1282-1-100-1,,shan1282-1,100,kasɔ́ɔ,kasɔ́ɔ,[],( 20 x 5 ),['chan2019'],,False,False,,1
+shan1282-1-200-1,,shan1282-1,200,kasɔ́ɔ ʍaa,kasɔ́ɔ ʍaa,[],( 20 x 5 x 2 ),['chan2019'],,False,False,,1
+shan1282-1-200-2,,shan1282-1,200,koi,koi,[],,['chan2019'],,False,False,,1
+shan1282-1-1000-1,,shan1282-1,1000,kasↄ́ↄ wókòì,kasↄ́ↄ wókòì,[],,['chan2019'],,False,False,,1
+shan1282-1-2000-1,,shan1282-1,2000,koi wókòì,koi wókòì,[],,['chan2019'],,False,False,,1

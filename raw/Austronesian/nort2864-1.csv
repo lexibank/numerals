@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nort2864-1-1-1,,nort2864-1,1,lai'sai,lai'sai,[],,[],,False,False,,1
-nort2864-1-2-1,,nort2864-1,2,'lua,'lua,[],,[],,False,False,,1
-nort2864-1-3-1,,nort2864-1,3,'telu,'telu,[],,[],,False,False,,1
-nort2864-1-4-1,,nort2864-1,4,'hale,'hale,[],,[],,False,False,,1
-nort2864-1-5-1,,nort2864-1,5,'lima,'lima,[],,[],,False,False,,1
-nort2864-1-6-1,,nort2864-1,6,ti'naine,ti'naine,[],,[],,False,False,,1
-nort2864-1-7-1,,nort2864-1,7,'hitu,'hitu,[],,[],,False,False,,1
-nort2864-1-8-1,,nort2864-1,8,'wau,'wau,[],,[],,False,False,,1
-nort2864-1-9-1,,nort2864-1,9,'siwa,'siwa,[],,[],,False,False,,1
-nort2864-1-10-1,,nort2864-1,10,pu'tusa,pu'tusa,[],,[],,False,False,,1
-nort2864-1-11-1,,nort2864-1,11,pu'tusa lesini lai'sai,pu'tusa lesini lai'sai,[],,[],,False,False,,1
-nort2864-1-12-1,,nort2864-1,12,pu'tusa lesini 'lua,pu'tusa lesini 'lua,[],,[],,False,False,,1
-nort2864-1-13-1,,nort2864-1,13,pu'tusa lesini 'telu,pu'tusa lesini 'telu,[],,[],,False,False,,1
-nort2864-1-14-1,,nort2864-1,14,pu'tusa lesini 'hale,pu'tusa lesini 'hale,[],,[],,False,False,,1
-nort2864-1-15-1,,nort2864-1,15,pu'tusa lesini 'lima,pu'tusa lesini 'lima,[],,[],,False,False,,1
-nort2864-1-16-1,,nort2864-1,16,pu'tusa lesini ti'naine,pu'tusa lesini ti'naine,[],,[],,False,False,,1
-nort2864-1-17-1,,nort2864-1,17,pu'tusa lesini 'hitu,pu'tusa lesini 'hitu,[],,[],,False,False,,1
-nort2864-1-18-1,,nort2864-1,18,pu'tusa lesini 'wau,pu'tusa lesini 'wau,[],,[],,False,False,,1
-nort2864-1-19-1,,nort2864-1,19,pu'tusa lesini 'siwa,pu'tusa lesini 'siwa,[],,[],,False,False,,1
-nort2864-1-20-1,,nort2864-1,20,putulua,putulua,[],,[],,False,False,,1
-nort2864-1-21-1,,nort2864-1,21,putulua lesini lai'sai,putulua lesini lai'sai,[],,[],,False,False,,1
-nort2864-1-22-1,,nort2864-1,22,putulua lesini 'lua,putulua lesini 'lua,[],,[],,False,False,,1
-nort2864-1-23-1,,nort2864-1,23,putulua lesini 'telu,putulua lesini 'telu,[],,[],,False,False,,1
-nort2864-1-24-1,,nort2864-1,24,putulua lesini 'hale,putulua lesini 'hale,[],,[],,False,False,,1
-nort2864-1-25-1,,nort2864-1,25,putulua lesini 'lima,putulua lesini 'lima,[],,[],,False,False,,1
-nort2864-1-26-1,,nort2864-1,26,putulua lesini ti'naine,putulua lesini ti'naine,[],,[],,False,False,,1
-nort2864-1-27-1,,nort2864-1,27,putulua lesini 'hitu,putulua lesini 'hitu,[],,[],,False,False,,1
-nort2864-1-28-1,,nort2864-1,28,putulua lesini 'wau,putulua lesini 'wau,[],,[],,False,False,,1
-nort2864-1-29-1,,nort2864-1,29,putulua lesini 'siwa,putulua lesini 'siwa,[],,[],,False,False,,1
-nort2864-1-30-1,,nort2864-1,30,pututelu,pututelu,[],,[],,False,False,,1
-nort2864-1-40-1,,nort2864-1,40,putuhale,putuhale,[],,[],,False,False,,1
-nort2864-1-50-1,,nort2864-1,50,putulima,putulima,[],,[],,False,False,,1
-nort2864-1-60-1,,nort2864-1,60,pututi'naine,pututi'naine,[],,[],,False,False,,1
-nort2864-1-70-1,,nort2864-1,70,putuhitu,putuhitu,[],,[],,False,False,,1
-nort2864-1-80-1,,nort2864-1,80,putuwau,putuwau,[],,[],,False,False,,1
-nort2864-1-90-1,,nort2864-1,90,putusiwa,putusiwa,[],,[],,False,False,,1
-nort2864-1-100-1,,nort2864-1,100,utune,utune,[],,[],,False,False,,1
-nort2864-1-200-1,,nort2864-1,200,utuna lua,utuna lua,[],,[],,False,False,,1
-nort2864-1-1000-1,,nort2864-1,1000,husate,husate,[],,[],,False,False,,1
-nort2864-1-2000-1,,nort2864-1,2000,husate lua,husate lua,[],,[],,False,False,,1
+nort2864-1-1-1,,nort2864-1,1,lai'sai,lai'sai,[],,['chan2019'],,False,False,,1
+nort2864-1-2-1,,nort2864-1,2,'lua,'lua,[],,['chan2019'],,False,False,,1
+nort2864-1-3-1,,nort2864-1,3,'telu,'telu,[],,['chan2019'],,False,False,,1
+nort2864-1-4-1,,nort2864-1,4,'hale,'hale,[],,['chan2019'],,False,False,,1
+nort2864-1-5-1,,nort2864-1,5,'lima,'lima,[],,['chan2019'],,False,False,,1
+nort2864-1-6-1,,nort2864-1,6,ti'naine,ti'naine,[],,['chan2019'],,False,False,,1
+nort2864-1-7-1,,nort2864-1,7,'hitu,'hitu,[],,['chan2019'],,False,False,,1
+nort2864-1-8-1,,nort2864-1,8,'wau,'wau,[],,['chan2019'],,False,False,,1
+nort2864-1-9-1,,nort2864-1,9,'siwa,'siwa,[],,['chan2019'],,False,False,,1
+nort2864-1-10-1,,nort2864-1,10,pu'tusa,pu'tusa,[],,['chan2019'],,False,False,,1
+nort2864-1-11-1,,nort2864-1,11,pu'tusa lesini lai'sai,pu'tusa lesini lai'sai,[],,['chan2019'],,False,False,,1
+nort2864-1-12-1,,nort2864-1,12,pu'tusa lesini 'lua,pu'tusa lesini 'lua,[],,['chan2019'],,False,False,,1
+nort2864-1-13-1,,nort2864-1,13,pu'tusa lesini 'telu,pu'tusa lesini 'telu,[],,['chan2019'],,False,False,,1
+nort2864-1-14-1,,nort2864-1,14,pu'tusa lesini 'hale,pu'tusa lesini 'hale,[],,['chan2019'],,False,False,,1
+nort2864-1-15-1,,nort2864-1,15,pu'tusa lesini 'lima,pu'tusa lesini 'lima,[],,['chan2019'],,False,False,,1
+nort2864-1-16-1,,nort2864-1,16,pu'tusa lesini ti'naine,pu'tusa lesini ti'naine,[],,['chan2019'],,False,False,,1
+nort2864-1-17-1,,nort2864-1,17,pu'tusa lesini 'hitu,pu'tusa lesini 'hitu,[],,['chan2019'],,False,False,,1
+nort2864-1-18-1,,nort2864-1,18,pu'tusa lesini 'wau,pu'tusa lesini 'wau,[],,['chan2019'],,False,False,,1
+nort2864-1-19-1,,nort2864-1,19,pu'tusa lesini 'siwa,pu'tusa lesini 'siwa,[],,['chan2019'],,False,False,,1
+nort2864-1-20-1,,nort2864-1,20,putulua,putulua,[],,['chan2019'],,False,False,,1
+nort2864-1-21-1,,nort2864-1,21,putulua lesini lai'sai,putulua lesini lai'sai,[],,['chan2019'],,False,False,,1
+nort2864-1-22-1,,nort2864-1,22,putulua lesini 'lua,putulua lesini 'lua,[],,['chan2019'],,False,False,,1
+nort2864-1-23-1,,nort2864-1,23,putulua lesini 'telu,putulua lesini 'telu,[],,['chan2019'],,False,False,,1
+nort2864-1-24-1,,nort2864-1,24,putulua lesini 'hale,putulua lesini 'hale,[],,['chan2019'],,False,False,,1
+nort2864-1-25-1,,nort2864-1,25,putulua lesini 'lima,putulua lesini 'lima,[],,['chan2019'],,False,False,,1
+nort2864-1-26-1,,nort2864-1,26,putulua lesini ti'naine,putulua lesini ti'naine,[],,['chan2019'],,False,False,,1
+nort2864-1-27-1,,nort2864-1,27,putulua lesini 'hitu,putulua lesini 'hitu,[],,['chan2019'],,False,False,,1
+nort2864-1-28-1,,nort2864-1,28,putulua lesini 'wau,putulua lesini 'wau,[],,['chan2019'],,False,False,,1
+nort2864-1-29-1,,nort2864-1,29,putulua lesini 'siwa,putulua lesini 'siwa,[],,['chan2019'],,False,False,,1
+nort2864-1-30-1,,nort2864-1,30,pututelu,pututelu,[],,['chan2019'],,False,False,,1
+nort2864-1-40-1,,nort2864-1,40,putuhale,putuhale,[],,['chan2019'],,False,False,,1
+nort2864-1-50-1,,nort2864-1,50,putulima,putulima,[],,['chan2019'],,False,False,,1
+nort2864-1-60-1,,nort2864-1,60,pututi'naine,pututi'naine,[],,['chan2019'],,False,False,,1
+nort2864-1-70-1,,nort2864-1,70,putuhitu,putuhitu,[],,['chan2019'],,False,False,,1
+nort2864-1-80-1,,nort2864-1,80,putuwau,putuwau,[],,['chan2019'],,False,False,,1
+nort2864-1-90-1,,nort2864-1,90,putusiwa,putusiwa,[],,['chan2019'],,False,False,,1
+nort2864-1-100-1,,nort2864-1,100,utune,utune,[],,['chan2019'],,False,False,,1
+nort2864-1-200-1,,nort2864-1,200,utuna lua,utuna lua,[],,['chan2019'],,False,False,,1
+nort2864-1-1000-1,,nort2864-1,1000,husate,husate,[],,['chan2019'],,False,False,,1
+nort2864-1-2000-1,,nort2864-1,2000,husate lua,husate lua,[],,['chan2019'],,False,False,,1

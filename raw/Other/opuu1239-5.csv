@@ -1,23 +1,23 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-opuu1239-5-1-1,,opuu1239-5,1,diʃeɗe,diʃeɗe,[],,[],,False,False,,5
-opuu1239-5-2-1,,opuu1239-5,2,ʃuka,ʃuka,[],,[],,False,False,,5
-opuu1239-5-2-2,,opuu1239-5,2,cuka,cuka,[],,[],,False,False,,5
-opuu1239-5-3-1,,opuu1239-5,3,tuʃu,tuʃu,[],,[],,False,False,,5
-opuu1239-5-3-2,,opuu1239-5,3,tusu,tusu,[],,[],,False,False,,5
-opuu1239-5-4-1,,opuu1239-5,4,hwan,hwan,[],,[],,False,False,,5
-opuu1239-5-4-2,,opuu1239-5,4,ŋwan,ŋwan,[],,[],,False,False,,5
-opuu1239-5-5-1,,opuu1239-5,5,mutaːkwei,mutaːkwei,[],( one hand ) ?,[],,False,False,,5
-opuu1239-5-6-1,,opuu1239-5,6,kane-ɗe,kane-ɗe,[],,[],,False,False,,5
-opuu1239-5-7-1,,opuu1239-5,7,kane-ʃuka,kane-ʃuka,[],,[],,False,False,,5
-opuu1239-5-8-1,,opuu1239-5,8,kane-tūʃū,kane-tūʃū,[],,[],,False,False,,5
-opuu1239-5-9-1,,opuu1239-5,9,kane-hwān,kane-hwān,[],,[],,False,False,,5
-opuu1239-5-10-1,,opuu1239-5,10,muta-kweya-ʃuka-yen,muta-kweya-ʃuka-yen,[],(two hands) ?,[],,False,False,,5
-opuu1239-5-11-1,,opuu1239-5,11,kane-won-ɗe,kane-won-ɗe,[],,[],,False,False,,5
-opuu1239-5-12-1,,opuu1239-5,12,kane-won-ʃuka,kane-won-ʃuka,[],,[],,False,False,,5
-opuu1239-5-13-1,,opuu1239-5,13,kane-won-tuʃu,kane-won-tuʃu,[],,[],,False,False,,5
-opuu1239-5-14-1,,opuu1239-5,14,kane-won-hwan,kane-won-hwan,[],,[],,False,False,,5
-opuu1239-5-20-1,,opuu1239-5,20,mute-ʃu-ɗe,mute-ʃu-ɗe,[],,[],,False,False,,5
-opuu1239-5-30-1,,opuu1239-5,30,mute-ʃu-ɗe muta-kweya-ʃuka-yen,mute-ʃu-ɗe muta-kweya-ʃuka-yen,[],,[],,False,False,,5
-opuu1239-5-40-1,,opuu1239-5,40,muteʃibi-ʃuka,muteʃibi-ʃuka,[],( 20 x 2 ),[],,False,False,,5
-opuu1239-5-100-1,,opuu1239-5,100,i-ʃibin-ta-kwei,i-ʃibin-ta-kwei,[],,[],,False,False,,5
-opuu1239-5-1000-1,,opuu1239-5,1000,kuma-ɗe,kuma-ɗe,[],,[],,False,False,,5
+opuu1239-5-1-1,,opuu1239-5,1,diʃeɗe,diʃeɗe,[],,['chan2019'],,False,False,,5
+opuu1239-5-2-1,,opuu1239-5,2,ʃuka,ʃuka,[],,['chan2019'],,False,False,,5
+opuu1239-5-2-2,,opuu1239-5,2,cuka,cuka,[],,['chan2019'],,False,False,,5
+opuu1239-5-3-1,,opuu1239-5,3,tuʃu,tuʃu,[],,['chan2019'],,False,False,,5
+opuu1239-5-3-2,,opuu1239-5,3,tusu,tusu,[],,['chan2019'],,False,False,,5
+opuu1239-5-4-1,,opuu1239-5,4,hwan,hwan,[],,['chan2019'],,False,False,,5
+opuu1239-5-4-2,,opuu1239-5,4,ŋwan,ŋwan,[],,['chan2019'],,False,False,,5
+opuu1239-5-5-1,,opuu1239-5,5,mutaːkwei,mutaːkwei,[],( one hand ) ?,['chan2019'],,False,False,,5
+opuu1239-5-6-1,,opuu1239-5,6,kane-ɗe,kane-ɗe,[],,['chan2019'],,False,False,,5
+opuu1239-5-7-1,,opuu1239-5,7,kane-ʃuka,kane-ʃuka,[],,['chan2019'],,False,False,,5
+opuu1239-5-8-1,,opuu1239-5,8,kane-tūʃū,kane-tūʃū,[],,['chan2019'],,False,False,,5
+opuu1239-5-9-1,,opuu1239-5,9,kane-hwān,kane-hwān,[],,['chan2019'],,False,False,,5
+opuu1239-5-10-1,,opuu1239-5,10,muta-kweya-ʃuka-yen,muta-kweya-ʃuka-yen,[],(two hands) ?,['chan2019'],,False,False,,5
+opuu1239-5-11-1,,opuu1239-5,11,kane-won-ɗe,kane-won-ɗe,[],,['chan2019'],,False,False,,5
+opuu1239-5-12-1,,opuu1239-5,12,kane-won-ʃuka,kane-won-ʃuka,[],,['chan2019'],,False,False,,5
+opuu1239-5-13-1,,opuu1239-5,13,kane-won-tuʃu,kane-won-tuʃu,[],,['chan2019'],,False,False,,5
+opuu1239-5-14-1,,opuu1239-5,14,kane-won-hwan,kane-won-hwan,[],,['chan2019'],,False,False,,5
+opuu1239-5-20-1,,opuu1239-5,20,mute-ʃu-ɗe,mute-ʃu-ɗe,[],,['chan2019'],,False,False,,5
+opuu1239-5-30-1,,opuu1239-5,30,mute-ʃu-ɗe muta-kweya-ʃuka-yen,mute-ʃu-ɗe muta-kweya-ʃuka-yen,[],,['chan2019'],,False,False,,5
+opuu1239-5-40-1,,opuu1239-5,40,muteʃibi-ʃuka,muteʃibi-ʃuka,[],( 20 x 2 ),['chan2019'],,False,False,,5
+opuu1239-5-100-1,,opuu1239-5,100,i-ʃibin-ta-kwei,i-ʃibin-ta-kwei,[],,['chan2019'],,False,False,,5
+opuu1239-5-1000-1,,opuu1239-5,1000,kuma-ɗe,kuma-ɗe,[],,['chan2019'],,False,False,,5

@@ -1,53 +1,53 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mala1479-1-1-1,,mala1479-1,1,satu,satu,[],,[],,False,False,,1
-mala1479-1-1-2,,mala1479-1,1,satu,satu,[],,[],,False,False,,1
-mala1479-1-1-3,,mala1479-1,1,sa-,sa-,[],,[],,False,False,,1
-mala1479-1-2-1,,mala1479-1,2,dua,dua,[],,[],,False,False,,1
-mala1479-1-2-2,,mala1479-1,2,dua,dua,[],,[],,False,False,,1
-mala1479-1-3-1,,mala1479-1,3,tiɡa,tiɡa,[],,[],,False,False,,1
-mala1479-1-3-2,,mala1479-1,3,tiɡa,tiɡa,[],,[],,False,False,,1
-mala1479-1-4-1,,mala1479-1,4,ĕmpat,ĕmpat,[],,[],,False,False,,1
-mala1479-1-4-2,,mala1479-1,4,əmpat,əmpat,[],,[],,False,False,,1
-mala1479-1-5-1,,mala1479-1,5,lima,lima,[],,[],,False,False,,1
-mala1479-1-5-2,,mala1479-1,5,lima,lima,[],,[],,False,False,,1
-mala1479-1-6-1,,mala1479-1,6,ĕnam,ĕnam,[],,[],,False,False,,1
-mala1479-1-6-2,,mala1479-1,6,ənam,ənam,[],,[],,False,False,,1
-mala1479-1-7-1,,mala1479-1,7,tujoh,tujoh,[],,[],,False,False,,1
-mala1479-1-7-2,,mala1479-1,7,tud͡ʒoh,tud͡ʒoh,[],,[],,False,False,,1
-mala1479-1-8-1,,mala1479-1,8,dĕlapan,dĕlapan,[],,[],,False,False,,1
-mala1479-1-8-2,,mala1479-1,8,səlapan,səlapan,[],,[],,False,False,,1
-mala1479-1-9-1,,mala1479-1,9,sĕmbilan,sĕmbilan,[],,[],,False,False,,1
-mala1479-1-9-2,,mala1479-1,9,səmbilan,səmbilan,[],,[],,False,False,,1
-mala1479-1-10-1,,mala1479-1,10,sa-pluh,sa-pluh,[],,[],,False,False,,1
-mala1479-1-10-2,,mala1479-1,10,sapulu,sapulu,[],,[],,False,False,,1
-mala1479-1-11-1,,mala1479-1,11,sa-bĕlas,sa-bĕlas,[],,[],,False,False,,1
-mala1479-1-11-2,,mala1479-1,11,sabəlas,sabəlas,[],,[],,False,False,,1
-mala1479-1-12-1,,mala1479-1,12,dua-bĕlas,dua-bĕlas,[],,[],,False,False,,1
-mala1479-1-13-1,,mala1479-1,13,tiɡa-bĕlas,tiɡa-bĕlas,[],,[],,False,False,,1
-mala1479-1-14-1,,mala1479-1,14,ĕmpat-bĕlas,ĕmpat-bĕlas,[],,[],,False,False,,1
-mala1479-1-15-1,,mala1479-1,15,lima-bĕlas,lima-bĕlas,[],,[],,False,False,,1
-mala1479-1-16-1,,mala1479-1,16,ĕnam-bĕlas,ĕnam-bĕlas,[],,[],,False,False,,1
-mala1479-1-17-1,,mala1479-1,17,tujoh-bĕlas,tujoh-bĕlas,[],,[],,False,False,,1
-mala1479-1-18-1,,mala1479-1,18,dĕlapan-bĕlas,dĕlapan-bĕlas,[],,[],,False,False,,1
-mala1479-1-19-1,,mala1479-1,19,sĕmbilan-bĕlas,sĕmbilan-bĕlas,[],,[],,False,False,,1
-mala1479-1-20-1,,mala1479-1,20,dua puloh,dua puloh,[],,[],,False,False,,1
-mala1479-1-21-1,,mala1479-1,21,dua puloh satu,dua puloh satu,[],,[],,False,False,,1
-mala1479-1-22-1,,mala1479-1,22,dua puloh dua,dua puloh dua,[],,[],,False,False,,1
-mala1479-1-23-1,,mala1479-1,23,dua puloh tiɡa,dua puloh tiɡa,[],,[],,False,False,,1
-mala1479-1-24-1,,mala1479-1,24,dua puloh ĕmpat,dua puloh ĕmpat,[],,[],,False,False,,1
-mala1479-1-25-1,,mala1479-1,25,dua puloh lima,dua puloh lima,[],,[],,False,False,,1
-mala1479-1-26-1,,mala1479-1,26,dua puloh ĕnam,dua puloh ĕnam,[],,[],,False,False,,1
-mala1479-1-27-1,,mala1479-1,27,dua puloh tujoh,dua puloh tujoh,[],,[],,False,False,,1
-mala1479-1-28-1,,mala1479-1,28,dua puloh dĕlapan,dua puloh dĕlapan,[],,[],,False,False,,1
-mala1479-1-29-1,,mala1479-1,29,dua puloh sĕmbilan,dua puloh sĕmbilan,[],,[],,False,False,,1
-mala1479-1-30-1,,mala1479-1,30,tiɡa puloh,tiɡa puloh,[],,[],,False,False,,1
-mala1479-1-40-1,,mala1479-1,40,ĕmpat puloh,ĕmpat puloh,[],,[],,False,False,,1
-mala1479-1-50-1,,mala1479-1,50,lima puloh,lima puloh,[],,[],,False,False,,1
-mala1479-1-60-1,,mala1479-1,60,ĕnam puloh,ĕnam puloh,[],,[],,False,False,,1
-mala1479-1-70-1,,mala1479-1,70,tujoh puloh,tujoh puloh,[],,[],,False,False,,1
-mala1479-1-80-1,,mala1479-1,80,dĕlapan puloh,dĕlapan puloh,[],,[],,False,False,,1
-mala1479-1-90-1,,mala1479-1,90,sĕmbilan puloh,sĕmbilan puloh,[],,[],,False,False,,1
-mala1479-1-100-1,,mala1479-1,100,sa-ratus,sa-ratus,[],,[],,False,False,,1
-mala1479-1-200-1,,mala1479-1,200,dua-ratus,dua-ratus,[],,[],,False,False,,1
-mala1479-1-1000-1,,mala1479-1,1000,sa-ribu,sa-ribu,[],,[],,False,False,,1
-mala1479-1-2000-1,,mala1479-1,2000,dua-ribu,dua-ribu,[],,[],,False,False,,1
+mala1479-1-1-1,,mala1479-1,1,satu,satu,[],,['chan2019'],,False,False,,1
+mala1479-1-1-2,,mala1479-1,1,satu,satu,[],,['chan2019'],,False,False,,1
+mala1479-1-1-3,,mala1479-1,1,sa-,sa-,[],,['chan2019'],,False,False,,1
+mala1479-1-2-1,,mala1479-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+mala1479-1-2-2,,mala1479-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+mala1479-1-3-1,,mala1479-1,3,tiɡa,tiɡa,[],,['chan2019'],,False,False,,1
+mala1479-1-3-2,,mala1479-1,3,tiɡa,tiɡa,[],,['chan2019'],,False,False,,1
+mala1479-1-4-1,,mala1479-1,4,ĕmpat,ĕmpat,[],,['chan2019'],,False,False,,1
+mala1479-1-4-2,,mala1479-1,4,əmpat,əmpat,[],,['chan2019'],,False,False,,1
+mala1479-1-5-1,,mala1479-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+mala1479-1-5-2,,mala1479-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+mala1479-1-6-1,,mala1479-1,6,ĕnam,ĕnam,[],,['chan2019'],,False,False,,1
+mala1479-1-6-2,,mala1479-1,6,ənam,ənam,[],,['chan2019'],,False,False,,1
+mala1479-1-7-1,,mala1479-1,7,tujoh,tujoh,[],,['chan2019'],,False,False,,1
+mala1479-1-7-2,,mala1479-1,7,tud͡ʒoh,tud͡ʒoh,[],,['chan2019'],,False,False,,1
+mala1479-1-8-1,,mala1479-1,8,dĕlapan,dĕlapan,[],,['chan2019'],,False,False,,1
+mala1479-1-8-2,,mala1479-1,8,səlapan,səlapan,[],,['chan2019'],,False,False,,1
+mala1479-1-9-1,,mala1479-1,9,sĕmbilan,sĕmbilan,[],,['chan2019'],,False,False,,1
+mala1479-1-9-2,,mala1479-1,9,səmbilan,səmbilan,[],,['chan2019'],,False,False,,1
+mala1479-1-10-1,,mala1479-1,10,sa-pluh,sa-pluh,[],,['chan2019'],,False,False,,1
+mala1479-1-10-2,,mala1479-1,10,sapulu,sapulu,[],,['chan2019'],,False,False,,1
+mala1479-1-11-1,,mala1479-1,11,sa-bĕlas,sa-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-11-2,,mala1479-1,11,sabəlas,sabəlas,[],,['chan2019'],,False,False,,1
+mala1479-1-12-1,,mala1479-1,12,dua-bĕlas,dua-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-13-1,,mala1479-1,13,tiɡa-bĕlas,tiɡa-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-14-1,,mala1479-1,14,ĕmpat-bĕlas,ĕmpat-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-15-1,,mala1479-1,15,lima-bĕlas,lima-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-16-1,,mala1479-1,16,ĕnam-bĕlas,ĕnam-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-17-1,,mala1479-1,17,tujoh-bĕlas,tujoh-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-18-1,,mala1479-1,18,dĕlapan-bĕlas,dĕlapan-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-19-1,,mala1479-1,19,sĕmbilan-bĕlas,sĕmbilan-bĕlas,[],,['chan2019'],,False,False,,1
+mala1479-1-20-1,,mala1479-1,20,dua puloh,dua puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-21-1,,mala1479-1,21,dua puloh satu,dua puloh satu,[],,['chan2019'],,False,False,,1
+mala1479-1-22-1,,mala1479-1,22,dua puloh dua,dua puloh dua,[],,['chan2019'],,False,False,,1
+mala1479-1-23-1,,mala1479-1,23,dua puloh tiɡa,dua puloh tiɡa,[],,['chan2019'],,False,False,,1
+mala1479-1-24-1,,mala1479-1,24,dua puloh ĕmpat,dua puloh ĕmpat,[],,['chan2019'],,False,False,,1
+mala1479-1-25-1,,mala1479-1,25,dua puloh lima,dua puloh lima,[],,['chan2019'],,False,False,,1
+mala1479-1-26-1,,mala1479-1,26,dua puloh ĕnam,dua puloh ĕnam,[],,['chan2019'],,False,False,,1
+mala1479-1-27-1,,mala1479-1,27,dua puloh tujoh,dua puloh tujoh,[],,['chan2019'],,False,False,,1
+mala1479-1-28-1,,mala1479-1,28,dua puloh dĕlapan,dua puloh dĕlapan,[],,['chan2019'],,False,False,,1
+mala1479-1-29-1,,mala1479-1,29,dua puloh sĕmbilan,dua puloh sĕmbilan,[],,['chan2019'],,False,False,,1
+mala1479-1-30-1,,mala1479-1,30,tiɡa puloh,tiɡa puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-40-1,,mala1479-1,40,ĕmpat puloh,ĕmpat puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-50-1,,mala1479-1,50,lima puloh,lima puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-60-1,,mala1479-1,60,ĕnam puloh,ĕnam puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-70-1,,mala1479-1,70,tujoh puloh,tujoh puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-80-1,,mala1479-1,80,dĕlapan puloh,dĕlapan puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-90-1,,mala1479-1,90,sĕmbilan puloh,sĕmbilan puloh,[],,['chan2019'],,False,False,,1
+mala1479-1-100-1,,mala1479-1,100,sa-ratus,sa-ratus,[],,['chan2019'],,False,False,,1
+mala1479-1-200-1,,mala1479-1,200,dua-ratus,dua-ratus,[],,['chan2019'],,False,False,,1
+mala1479-1-1000-1,,mala1479-1,1000,sa-ribu,sa-ribu,[],,['chan2019'],,False,False,,1
+mala1479-1-2000-1,,mala1479-1,2000,dua-ribu,dua-ribu,[],,['chan2019'],,False,False,,1

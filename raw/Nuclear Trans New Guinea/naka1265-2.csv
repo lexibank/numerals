@@ -1,29 +1,29 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-naka1265-2-1-1,,naka1265-2,1,keřket,keřket,[],(litː 'little finger'),[],,False,False,,1
-naka1265-2-2-1,,naka1265-2,2,keřket kɑwl,keřket kɑwl,[],(litː 'ring finger'),[],,False,False,,1
-naka1265-2-3-1,,naka1265-2,3,sɑřɑpkuř,sɑřɑpkuř,[],(litː 'middle finger'),[],,False,False,,1
-naka1265-2-4-1,,naka1265-2,4,ɑe kɑwi,ɑe kɑwi,[],(litː 'index finger'),[],,False,False,,1
-naka1265-2-5-1,,naka1265-2,5,ɑe,ɑe,[],(litː 'thumb'),[],,False,False,,1
-naka1265-2-6-1,,naka1265-2,6,ⁿɡoŋ,ⁿɡoŋ,[],(litː 'wrist'),[],,False,False,,1
-naka1265-2-7-1,,naka1265-2,7,eř,eř,[],(litː 'forearm'),[],,False,False,,1
-naka1265-2-8-1,,naka1265-2,8,wom,wom,[],(litː 'inner elbow'),[],,False,False,,1
-naka1265-2-9-1,,naka1265-2,9,ᵭɑᵬeř,ᵭɑᵬeř,[],(litː 'bicep'),[],,False,False,,1
-naka1265-2-10-1,,naka1265-2,10,mɑriŋ,mɑriŋ,[],(litː 'top of shoulder'),[],,False,False,,1
-naka1265-2-11-1,,naka1265-2,11,kum,kum,[],(litː 'side of neck'),[],,False,False,,1
-naka1265-2-12-1,,naka1265-2,12,kisu,kisu,[],(litː 'ear'),[],,False,False,,1
-naka1265-2-13-1,,naka1265-2,13,kiwe,kiwe,[],(litː 'eye'),[],,False,False,,1
-naka1265-2-14-1,,naka1265-2,14,mito,mito,[],(litː 'nose'),[],,False,False,,1
-naka1265-2-15-1,,naka1265-2,15,ᵐbɑk kiwe,ᵐbɑk kiwe,[],(litː 'other side eye'),[],,False,False,,1
-naka1265-2-16-1,,naka1265-2,16,ᵐbɑk kisu,ᵐbɑk kisu,[],(litː 'other side ear'),[],,False,False,,1
-naka1265-2-17-1,,naka1265-2,17,ᵐbɑk kum,ᵐbɑk kum,[],(litː 'other side neck'),[],,False,False,,1
-naka1265-2-18-1,,naka1265-2,18,ᵐbɑk mɑriŋ,ᵐbɑk mɑriŋ,[],(litː 'other side shoulder'),[],,False,False,,1
-naka1265-2-19-1,,naka1265-2,19,ᵐbɑk ᵭɑᵬeř,ᵐbɑk ᵭɑᵬeř,[],(litː 'other side bicep'),[],,False,False,,1
-naka1265-2-20-1,,naka1265-2,20,ᵐbɑk eř,ᵐbɑk eř,[],(litː 'other side inner elbow'),[],,False,False,,1
-naka1265-2-21-1,,naka1265-2,21,ᵐbɑk wom,ᵐbɑk wom,[],(litː 'other side forearm'),[],,False,False,,1
-naka1265-2-22-1,,naka1265-2,22,ᵐbɑk ⁿɡoŋ,ᵐbɑk ⁿɡoŋ,[],(litː 'other side wrist'),[],,False,False,,1
-naka1265-2-23-1,,naka1265-2,23,ᵐbɑk ɑe,ᵐbɑk ɑe,[],(litː 'other side thumb'),[],,False,False,,1
-naka1265-2-24-1,,naka1265-2,24,ᵐbɑk ɑe kɑwl,ᵐbɑk ɑe kɑwl,[],(litː 'other side index finger'),[],,False,False,,1
-naka1265-2-25-1,,naka1265-2,25,ᵐbɑk sɑřɑpkuř,ᵐbɑk sɑřɑpkuř,[],(litː 'other side middle finger'),[],,False,False,,1
-naka1265-2-26-1,,naka1265-2,26,ᵐbɑk keřket kɑwl,ᵐbɑk keřket kɑwl,[],(litː 'other side ring finger'),[],,False,False,,1
-naka1265-2-27-1,,naka1265-2,27,ᵐbɑk keřket,ᵐbɑk keřket,[],,[],,False,False,,1
-naka1265-2-27-2,,naka1265-2,27,keřket tumbiŋ,keřket tumbiŋ,[],(litː 'other side little finger / little finger end'),[],,False,False,,1
+naka1265-2-1-1,,naka1265-2,1,keřket,keřket,[],(litː 'little finger'),['chan2019'],,False,False,,1
+naka1265-2-2-1,,naka1265-2,2,keřket kɑwl,keřket kɑwl,[],(litː 'ring finger'),['chan2019'],,False,False,,1
+naka1265-2-3-1,,naka1265-2,3,sɑřɑpkuř,sɑřɑpkuř,[],(litː 'middle finger'),['chan2019'],,False,False,,1
+naka1265-2-4-1,,naka1265-2,4,ɑe kɑwi,ɑe kɑwi,[],(litː 'index finger'),['chan2019'],,False,False,,1
+naka1265-2-5-1,,naka1265-2,5,ɑe,ɑe,[],(litː 'thumb'),['chan2019'],,False,False,,1
+naka1265-2-6-1,,naka1265-2,6,ⁿɡoŋ,ⁿɡoŋ,[],(litː 'wrist'),['chan2019'],,False,False,,1
+naka1265-2-7-1,,naka1265-2,7,eř,eř,[],(litː 'forearm'),['chan2019'],,False,False,,1
+naka1265-2-8-1,,naka1265-2,8,wom,wom,[],(litː 'inner elbow'),['chan2019'],,False,False,,1
+naka1265-2-9-1,,naka1265-2,9,ᵭɑᵬeř,ᵭɑᵬeř,[],(litː 'bicep'),['chan2019'],,False,False,,1
+naka1265-2-10-1,,naka1265-2,10,mɑriŋ,mɑriŋ,[],(litː 'top of shoulder'),['chan2019'],,False,False,,1
+naka1265-2-11-1,,naka1265-2,11,kum,kum,[],(litː 'side of neck'),['chan2019'],,False,False,,1
+naka1265-2-12-1,,naka1265-2,12,kisu,kisu,[],(litː 'ear'),['chan2019'],,False,False,,1
+naka1265-2-13-1,,naka1265-2,13,kiwe,kiwe,[],(litː 'eye'),['chan2019'],,False,False,,1
+naka1265-2-14-1,,naka1265-2,14,mito,mito,[],(litː 'nose'),['chan2019'],,False,False,,1
+naka1265-2-15-1,,naka1265-2,15,ᵐbɑk kiwe,ᵐbɑk kiwe,[],(litː 'other side eye'),['chan2019'],,False,False,,1
+naka1265-2-16-1,,naka1265-2,16,ᵐbɑk kisu,ᵐbɑk kisu,[],(litː 'other side ear'),['chan2019'],,False,False,,1
+naka1265-2-17-1,,naka1265-2,17,ᵐbɑk kum,ᵐbɑk kum,[],(litː 'other side neck'),['chan2019'],,False,False,,1
+naka1265-2-18-1,,naka1265-2,18,ᵐbɑk mɑriŋ,ᵐbɑk mɑriŋ,[],(litː 'other side shoulder'),['chan2019'],,False,False,,1
+naka1265-2-19-1,,naka1265-2,19,ᵐbɑk ᵭɑᵬeř,ᵐbɑk ᵭɑᵬeř,[],(litː 'other side bicep'),['chan2019'],,False,False,,1
+naka1265-2-20-1,,naka1265-2,20,ᵐbɑk eř,ᵐbɑk eř,[],(litː 'other side inner elbow'),['chan2019'],,False,False,,1
+naka1265-2-21-1,,naka1265-2,21,ᵐbɑk wom,ᵐbɑk wom,[],(litː 'other side forearm'),['chan2019'],,False,False,,1
+naka1265-2-22-1,,naka1265-2,22,ᵐbɑk ⁿɡoŋ,ᵐbɑk ⁿɡoŋ,[],(litː 'other side wrist'),['chan2019'],,False,False,,1
+naka1265-2-23-1,,naka1265-2,23,ᵐbɑk ɑe,ᵐbɑk ɑe,[],(litː 'other side thumb'),['chan2019'],,False,False,,1
+naka1265-2-24-1,,naka1265-2,24,ᵐbɑk ɑe kɑwl,ᵐbɑk ɑe kɑwl,[],(litː 'other side index finger'),['chan2019'],,False,False,,1
+naka1265-2-25-1,,naka1265-2,25,ᵐbɑk sɑřɑpkuř,ᵐbɑk sɑřɑpkuř,[],(litː 'other side middle finger'),['chan2019'],,False,False,,1
+naka1265-2-26-1,,naka1265-2,26,ᵐbɑk keřket kɑwl,ᵐbɑk keřket kɑwl,[],(litː 'other side ring finger'),['chan2019'],,False,False,,1
+naka1265-2-27-1,,naka1265-2,27,ᵐbɑk keřket,ᵐbɑk keřket,[],,['chan2019'],,False,False,,1
+naka1265-2-27-2,,naka1265-2,27,keřket tumbiŋ,keřket tumbiŋ,[],(litː 'other side little finger / little finger end'),['chan2019'],,False,False,,1

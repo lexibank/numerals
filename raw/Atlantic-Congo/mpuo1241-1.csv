@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mpuo1241-1-1-1,,mpuo1241-1,1,kímwɛ́s,kímwɛ́s,[],,[],,False,False,,1
-mpuo1241-1-2-1,,mpuo1241-1,2,byɛ̌l,byɛ̌l,[],,[],,False,False,,1
-mpuo1241-1-3-1,,mpuo1241-1,3,bítár,bítár,[],,[],,False,False,,1
-mpuo1241-1-4-1,,mpuo1241-1,4,bína,bína,[],,[],,False,False,,1
-mpuo1241-1-5-1,,mpuo1241-1,5,bítɛ́ːn,bítɛ́ːn,[],,[],,False,False,,1
-mpuo1241-1-6-1,,mpuo1241-1,6,bíʃáːm,bíʃáːm,[],,[],,False,False,,1
-mpuo1241-1-7-1,,mpuo1241-1,7,nsámwɛ̂ːn,nsámwɛ̂ːn,[],,[],,False,False,,1
-mpuo1241-1-8-1,,mpuo1241-1,8,bínán,bínán,[],,[],,False,False,,1
-mpuo1241-1-9-1,,mpuo1241-1,9,bívwa,bívwa,[],,[],,False,False,,1
-mpuo1241-1-10-1,,mpuo1241-1,10,kub,kub,[],,[],,False,False,,1
-mpuo1241-1-11-1,,mpuo1241-1,11,kub é kímwɛ́s,kub é kímwɛ́s,[],,[],,False,False,,1
-mpuo1241-1-12-1,,mpuo1241-1,12,kub é byɛ̌l,kub é byɛ̌l,[],,[],,False,False,,1
-mpuo1241-1-13-1,,mpuo1241-1,13,kub é bítár,kub é bítár,[],,[],,False,False,,1
-mpuo1241-1-14-1,,mpuo1241-1,14,kub é bína,kub é bína,[],,[],,False,False,,1
-mpuo1241-1-15-1,,mpuo1241-1,15,kub é bítɛ́ːn,kub é bítɛ́ːn,[],,[],,False,False,,1
-mpuo1241-1-16-1,,mpuo1241-1,16,kub é bíʃáːm,kub é bíʃáːm,[],,[],,False,False,,1
-mpuo1241-1-17-1,,mpuo1241-1,17,kub é nsámwɛ̂ːn,kub é nsámwɛ̂ːn,[],,[],,False,False,,1
-mpuo1241-1-18-1,,mpuo1241-1,18,kub é bínán,kub é bínán,[],,[],,False,False,,1
-mpuo1241-1-19-1,,mpuo1241-1,19,kub é bívwa,kub é bívwa,[],,[],,False,False,,1
-mpuo1241-1-20-1,,mpuo1241-1,20,makub mbôl,makub mbôl,[],,[],,False,False,,1
-mpuo1241-1-21-1,,mpuo1241-1,21,makub mbôl é kímwɛ́s,makub mbôl é kímwɛ́s,[],,[],,False,False,,1
-mpuo1241-1-22-1,,mpuo1241-1,22,makub mbôl é byɛ̌l,makub mbôl é byɛ̌l,[],,[],,False,False,,1
-mpuo1241-1-23-1,,mpuo1241-1,23,makub mbôl é bítár,makub mbôl é bítár,[],,[],,False,False,,1
-mpuo1241-1-24-1,,mpuo1241-1,24,makub mbôl é bína,makub mbôl é bína,[],,[],,False,False,,1
-mpuo1241-1-25-1,,mpuo1241-1,25,makub mbôl é bítɛ́ːn,makub mbôl é bítɛ́ːn,[],,[],,False,False,,1
-mpuo1241-1-26-1,,mpuo1241-1,26,makub mbôl é bíʃáːm,makub mbôl é bíʃáːm,[],,[],,False,False,,1
-mpuo1241-1-27-1,,mpuo1241-1,27,makub mbôl é nsámwɛ̂ːn,makub mbôl é nsámwɛ̂ːn,[],,[],,False,False,,1
-mpuo1241-1-28-1,,mpuo1241-1,28,makub mbôl é bínán,makub mbôl é bínán,[],,[],,False,False,,1
-mpuo1241-1-29-1,,mpuo1241-1,29,makub mbôl é biv́wa,makub mbôl é biv́wa,[],,[],,False,False,,1
-mpuo1241-1-30-1,,mpuo1241-1,30,makub mátár,makub mátár,[],,[],,False,False,,1
-mpuo1241-1-40-1,,mpuo1241-1,40,makub mána,makub mána,[],,[],,False,False,,1
-mpuo1241-1-50-1,,mpuo1241-1,50,makub mátɛ́ːn,makub mátɛ́ːn,[],,[],,False,False,,1
-mpuo1241-1-60-1,,mpuo1241-1,60,makub máʃáːm,makub máʃáːm,[],,[],,False,False,,1
-mpuo1241-1-70-1,,mpuo1241-1,70,makub nsámwɛ̂ːn,makub nsámwɛ̂ːn,[],,[],,False,False,,1
-mpuo1241-1-80-1,,mpuo1241-1,80,makub mánán,makub mánán,[],,[],,False,False,,1
-mpuo1241-1-90-1,,mpuo1241-1,90,makub mávwa,makub mávwa,[],,[],,False,False,,1
-mpuo1241-1-100-1,,mpuo1241-1,100,nkam,nkam,[],,[],,False,False,,1
-mpuo1241-1-1000-1,,mpuo1241-1,1000,fûnd,fûnd,[],,[],,False,False,,1
+mpuo1241-1-1-1,,mpuo1241-1,1,kímwɛ́s,kímwɛ́s,[],,['chan2019'],,False,False,,1
+mpuo1241-1-2-1,,mpuo1241-1,2,byɛ̌l,byɛ̌l,[],,['chan2019'],,False,False,,1
+mpuo1241-1-3-1,,mpuo1241-1,3,bítár,bítár,[],,['chan2019'],,False,False,,1
+mpuo1241-1-4-1,,mpuo1241-1,4,bína,bína,[],,['chan2019'],,False,False,,1
+mpuo1241-1-5-1,,mpuo1241-1,5,bítɛ́ːn,bítɛ́ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-6-1,,mpuo1241-1,6,bíʃáːm,bíʃáːm,[],,['chan2019'],,False,False,,1
+mpuo1241-1-7-1,,mpuo1241-1,7,nsámwɛ̂ːn,nsámwɛ̂ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-8-1,,mpuo1241-1,8,bínán,bínán,[],,['chan2019'],,False,False,,1
+mpuo1241-1-9-1,,mpuo1241-1,9,bívwa,bívwa,[],,['chan2019'],,False,False,,1
+mpuo1241-1-10-1,,mpuo1241-1,10,kub,kub,[],,['chan2019'],,False,False,,1
+mpuo1241-1-11-1,,mpuo1241-1,11,kub é kímwɛ́s,kub é kímwɛ́s,[],,['chan2019'],,False,False,,1
+mpuo1241-1-12-1,,mpuo1241-1,12,kub é byɛ̌l,kub é byɛ̌l,[],,['chan2019'],,False,False,,1
+mpuo1241-1-13-1,,mpuo1241-1,13,kub é bítár,kub é bítár,[],,['chan2019'],,False,False,,1
+mpuo1241-1-14-1,,mpuo1241-1,14,kub é bína,kub é bína,[],,['chan2019'],,False,False,,1
+mpuo1241-1-15-1,,mpuo1241-1,15,kub é bítɛ́ːn,kub é bítɛ́ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-16-1,,mpuo1241-1,16,kub é bíʃáːm,kub é bíʃáːm,[],,['chan2019'],,False,False,,1
+mpuo1241-1-17-1,,mpuo1241-1,17,kub é nsámwɛ̂ːn,kub é nsámwɛ̂ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-18-1,,mpuo1241-1,18,kub é bínán,kub é bínán,[],,['chan2019'],,False,False,,1
+mpuo1241-1-19-1,,mpuo1241-1,19,kub é bívwa,kub é bívwa,[],,['chan2019'],,False,False,,1
+mpuo1241-1-20-1,,mpuo1241-1,20,makub mbôl,makub mbôl,[],,['chan2019'],,False,False,,1
+mpuo1241-1-21-1,,mpuo1241-1,21,makub mbôl é kímwɛ́s,makub mbôl é kímwɛ́s,[],,['chan2019'],,False,False,,1
+mpuo1241-1-22-1,,mpuo1241-1,22,makub mbôl é byɛ̌l,makub mbôl é byɛ̌l,[],,['chan2019'],,False,False,,1
+mpuo1241-1-23-1,,mpuo1241-1,23,makub mbôl é bítár,makub mbôl é bítár,[],,['chan2019'],,False,False,,1
+mpuo1241-1-24-1,,mpuo1241-1,24,makub mbôl é bína,makub mbôl é bína,[],,['chan2019'],,False,False,,1
+mpuo1241-1-25-1,,mpuo1241-1,25,makub mbôl é bítɛ́ːn,makub mbôl é bítɛ́ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-26-1,,mpuo1241-1,26,makub mbôl é bíʃáːm,makub mbôl é bíʃáːm,[],,['chan2019'],,False,False,,1
+mpuo1241-1-27-1,,mpuo1241-1,27,makub mbôl é nsámwɛ̂ːn,makub mbôl é nsámwɛ̂ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-28-1,,mpuo1241-1,28,makub mbôl é bínán,makub mbôl é bínán,[],,['chan2019'],,False,False,,1
+mpuo1241-1-29-1,,mpuo1241-1,29,makub mbôl é biv́wa,makub mbôl é biv́wa,[],,['chan2019'],,False,False,,1
+mpuo1241-1-30-1,,mpuo1241-1,30,makub mátár,makub mátár,[],,['chan2019'],,False,False,,1
+mpuo1241-1-40-1,,mpuo1241-1,40,makub mána,makub mána,[],,['chan2019'],,False,False,,1
+mpuo1241-1-50-1,,mpuo1241-1,50,makub mátɛ́ːn,makub mátɛ́ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-60-1,,mpuo1241-1,60,makub máʃáːm,makub máʃáːm,[],,['chan2019'],,False,False,,1
+mpuo1241-1-70-1,,mpuo1241-1,70,makub nsámwɛ̂ːn,makub nsámwɛ̂ːn,[],,['chan2019'],,False,False,,1
+mpuo1241-1-80-1,,mpuo1241-1,80,makub mánán,makub mánán,[],,['chan2019'],,False,False,,1
+mpuo1241-1-90-1,,mpuo1241-1,90,makub mávwa,makub mávwa,[],,['chan2019'],,False,False,,1
+mpuo1241-1-100-1,,mpuo1241-1,100,nkam,nkam,[],,['chan2019'],,False,False,,1
+mpuo1241-1-1000-1,,mpuo1241-1,1000,fûnd,fûnd,[],,['chan2019'],,False,False,,1

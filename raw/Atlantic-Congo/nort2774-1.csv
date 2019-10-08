@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nort2774-1-1-1,,nort2774-1,1,kɔi,kɔi,[],,[],,False,False,,1
-nort2774-1-2-1,,nort2774-1,2,sɛ,sɛ,[],,[],,False,False,,1
-nort2774-1-3-1,,nort2774-1,3,ta,ta,[],,[],,False,False,,1
-nort2774-1-4-1,,nort2774-1,4,siɔ,siɔ,[],,[],,False,False,,1
-nort2774-1-5-1,,nort2774-1,5,kɔ̃,kɔ̃,[],,[],,False,False,,1
-nort2774-1-6-1,,nort2774-1,6,mana,mana,[],,[],,False,False,,1
-nort2774-1-7-1,,nort2774-1,7,mbara mbara,mbara mbara,[],,[],,False,False,,1
-nort2774-1-8-1,,nort2774-1,8,miambe,miambe,[],,[],,False,False,,1
-nort2774-1-9-1,,nort2774-1,9,ɡumbaya,ɡumbaya,[],,[],,False,False,,1
-nort2774-1-10-1,,nort2774-1,10,sui kɔi,sui kɔi,[],,[],,False,False,,1
-nort2774-1-11-1,,nort2774-1,11,sui kɔi ndoni kɔi,sui kɔi ndoni kɔi,[],,[],,False,False,,1
-nort2774-1-12-1,,nort2774-1,12,sui kɔi ndoni sɛ,sui kɔi ndoni sɛ,[],,[],,False,False,,1
-nort2774-1-13-1,,nort2774-1,13,sui kɔi ndoni ta,sui kɔi ndoni ta,[],,[],,False,False,,1
-nort2774-1-14-1,,nort2774-1,14,sui kɔi ndoni siɔ,sui kɔi ndoni siɔ,[],,[],,False,False,,1
-nort2774-1-15-1,,nort2774-1,15,sui kɔi ndoni kɔ̃,sui kɔi ndoni kɔ̃,[],,[],,False,False,,1
-nort2774-1-16-1,,nort2774-1,16,sui kɔi ndoni mana,sui kɔi ndoni mana,[],,[],,False,False,,1
-nort2774-1-17-1,,nort2774-1,17,sui kɔi ndoni mbara mbara,sui kɔi ndoni mbara mbara,[],,[],,False,False,,1
-nort2774-1-18-1,,nort2774-1,18,sui kɔi ndoni miambe,sui kɔi ndoni miambe,[],,[],,False,False,,1
-nort2774-1-19-1,,nort2774-1,19,sui kɔi ndoni ɡumbaya,sui kɔi ndoni ɡumbaya,[],,[],,False,False,,1
-nort2774-1-20-1,,nort2774-1,20,sui sɛ,sui sɛ,[],,[],,False,False,,1
-nort2774-1-21-1,,nort2774-1,21,sui sɛ ndoni kɔi,sui sɛ ndoni kɔi,[],,[],,False,False,,1
-nort2774-1-22-1,,nort2774-1,22,sui sɛ ndoni sɛ,sui sɛ ndoni sɛ,[],,[],,False,False,,1
-nort2774-1-23-1,,nort2774-1,23,sui sɛ ndoni ta,sui sɛ ndoni ta,[],,[],,False,False,,1
-nort2774-1-24-1,,nort2774-1,24,sui sɛ ndoni siɔ,sui sɛ ndoni siɔ,[],,[],,False,False,,1
-nort2774-1-25-1,,nort2774-1,25,sui sɛ ndoni kɔ̃,sui sɛ ndoni kɔ̃,[],,[],,False,False,,1
-nort2774-1-26-1,,nort2774-1,26,sui sɛ ndoni mana,sui sɛ ndoni mana,[],,[],,False,False,,1
-nort2774-1-27-1,,nort2774-1,27,sui sɛ ndoni mbara mbara,sui sɛ ndoni mbara mbara,[],,[],,False,False,,1
-nort2774-1-28-1,,nort2774-1,28,sui sɛ ndoni miambe,sui sɛ ndoni miambe,[],,[],,False,False,,1
-nort2774-1-29-1,,nort2774-1,29,sui sɛ ndoni ɡumbaya,sui sɛ ndoni ɡumbaya,[],,[],,False,False,,1
-nort2774-1-30-1,,nort2774-1,30,sui ta mana,sui ta mana,[],,[],,False,False,,1
-nort2774-1-40-1,,nort2774-1,40,sui siɔ,sui siɔ,[],,[],,False,False,,1
-nort2774-1-50-1,,nort2774-1,50,sui kɔ̃,sui kɔ̃,[],,[],,False,False,,1
-nort2774-1-60-1,,nort2774-1,60,sui mana,sui mana,[],,[],,False,False,,1
-nort2774-1-70-1,,nort2774-1,70,sui mbara mbara,sui mbara mbara,[],,[],,False,False,,1
-nort2774-1-80-1,,nort2774-1,80,sui miambe,sui miambe,[],,[],,False,False,,1
-nort2774-1-90-1,,nort2774-1,90,sui ɡumbaya,sui ɡumbaya,[],,[],,False,False,,1
-nort2774-1-100-1,,nort2774-1,100,nɡbanɡbo kɔi,nɡbanɡbo kɔi,[],,[],,False,False,,1
-nort2774-1-200-1,,nort2774-1,200,nɡbanɡbo sɛ,nɡbanɡbo sɛ,[],,[],,False,False,,1
-nort2774-1-1000-1,,nort2774-1,1000,koto,koto,[],< Bangala ,[],,True,False,,1
-nort2774-1-2000-1,,nort2774-1,2000,koto sɛ,koto sɛ,[],,[],,False,False,,1
+nort2774-1-1-1,,nort2774-1,1,kɔi,kɔi,[],,['chan2019'],,False,False,,1
+nort2774-1-2-1,,nort2774-1,2,sɛ,sɛ,[],,['chan2019'],,False,False,,1
+nort2774-1-3-1,,nort2774-1,3,ta,ta,[],,['chan2019'],,False,False,,1
+nort2774-1-4-1,,nort2774-1,4,siɔ,siɔ,[],,['chan2019'],,False,False,,1
+nort2774-1-5-1,,nort2774-1,5,kɔ̃,kɔ̃,[],,['chan2019'],,False,False,,1
+nort2774-1-6-1,,nort2774-1,6,mana,mana,[],,['chan2019'],,False,False,,1
+nort2774-1-7-1,,nort2774-1,7,mbara mbara,mbara mbara,[],,['chan2019'],,False,False,,1
+nort2774-1-8-1,,nort2774-1,8,miambe,miambe,[],,['chan2019'],,False,False,,1
+nort2774-1-9-1,,nort2774-1,9,ɡumbaya,ɡumbaya,[],,['chan2019'],,False,False,,1
+nort2774-1-10-1,,nort2774-1,10,sui kɔi,sui kɔi,[],,['chan2019'],,False,False,,1
+nort2774-1-11-1,,nort2774-1,11,sui kɔi ndoni kɔi,sui kɔi ndoni kɔi,[],,['chan2019'],,False,False,,1
+nort2774-1-12-1,,nort2774-1,12,sui kɔi ndoni sɛ,sui kɔi ndoni sɛ,[],,['chan2019'],,False,False,,1
+nort2774-1-13-1,,nort2774-1,13,sui kɔi ndoni ta,sui kɔi ndoni ta,[],,['chan2019'],,False,False,,1
+nort2774-1-14-1,,nort2774-1,14,sui kɔi ndoni siɔ,sui kɔi ndoni siɔ,[],,['chan2019'],,False,False,,1
+nort2774-1-15-1,,nort2774-1,15,sui kɔi ndoni kɔ̃,sui kɔi ndoni kɔ̃,[],,['chan2019'],,False,False,,1
+nort2774-1-16-1,,nort2774-1,16,sui kɔi ndoni mana,sui kɔi ndoni mana,[],,['chan2019'],,False,False,,1
+nort2774-1-17-1,,nort2774-1,17,sui kɔi ndoni mbara mbara,sui kɔi ndoni mbara mbara,[],,['chan2019'],,False,False,,1
+nort2774-1-18-1,,nort2774-1,18,sui kɔi ndoni miambe,sui kɔi ndoni miambe,[],,['chan2019'],,False,False,,1
+nort2774-1-19-1,,nort2774-1,19,sui kɔi ndoni ɡumbaya,sui kɔi ndoni ɡumbaya,[],,['chan2019'],,False,False,,1
+nort2774-1-20-1,,nort2774-1,20,sui sɛ,sui sɛ,[],,['chan2019'],,False,False,,1
+nort2774-1-21-1,,nort2774-1,21,sui sɛ ndoni kɔi,sui sɛ ndoni kɔi,[],,['chan2019'],,False,False,,1
+nort2774-1-22-1,,nort2774-1,22,sui sɛ ndoni sɛ,sui sɛ ndoni sɛ,[],,['chan2019'],,False,False,,1
+nort2774-1-23-1,,nort2774-1,23,sui sɛ ndoni ta,sui sɛ ndoni ta,[],,['chan2019'],,False,False,,1
+nort2774-1-24-1,,nort2774-1,24,sui sɛ ndoni siɔ,sui sɛ ndoni siɔ,[],,['chan2019'],,False,False,,1
+nort2774-1-25-1,,nort2774-1,25,sui sɛ ndoni kɔ̃,sui sɛ ndoni kɔ̃,[],,['chan2019'],,False,False,,1
+nort2774-1-26-1,,nort2774-1,26,sui sɛ ndoni mana,sui sɛ ndoni mana,[],,['chan2019'],,False,False,,1
+nort2774-1-27-1,,nort2774-1,27,sui sɛ ndoni mbara mbara,sui sɛ ndoni mbara mbara,[],,['chan2019'],,False,False,,1
+nort2774-1-28-1,,nort2774-1,28,sui sɛ ndoni miambe,sui sɛ ndoni miambe,[],,['chan2019'],,False,False,,1
+nort2774-1-29-1,,nort2774-1,29,sui sɛ ndoni ɡumbaya,sui sɛ ndoni ɡumbaya,[],,['chan2019'],,False,False,,1
+nort2774-1-30-1,,nort2774-1,30,sui ta mana,sui ta mana,[],,['chan2019'],,False,False,,1
+nort2774-1-40-1,,nort2774-1,40,sui siɔ,sui siɔ,[],,['chan2019'],,False,False,,1
+nort2774-1-50-1,,nort2774-1,50,sui kɔ̃,sui kɔ̃,[],,['chan2019'],,False,False,,1
+nort2774-1-60-1,,nort2774-1,60,sui mana,sui mana,[],,['chan2019'],,False,False,,1
+nort2774-1-70-1,,nort2774-1,70,sui mbara mbara,sui mbara mbara,[],,['chan2019'],,False,False,,1
+nort2774-1-80-1,,nort2774-1,80,sui miambe,sui miambe,[],,['chan2019'],,False,False,,1
+nort2774-1-90-1,,nort2774-1,90,sui ɡumbaya,sui ɡumbaya,[],,['chan2019'],,False,False,,1
+nort2774-1-100-1,,nort2774-1,100,nɡbanɡbo kɔi,nɡbanɡbo kɔi,[],,['chan2019'],,False,False,,1
+nort2774-1-200-1,,nort2774-1,200,nɡbanɡbo sɛ,nɡbanɡbo sɛ,[],,['chan2019'],,False,False,,1
+nort2774-1-1000-1,,nort2774-1,1000,koto,koto,[],< Bangala ,['chan2019'],,True,False,,1
+nort2774-1-2000-1,,nort2774-1,2000,koto sɛ,koto sɛ,[],,['chan2019'],,False,False,,1

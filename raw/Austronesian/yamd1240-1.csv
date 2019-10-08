@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yamd1240-1-1-1,,yamd1240-1,1,sa,sa,[],,[],,False,False,,1
-yamd1240-1-1-2,,yamd1240-1,1,le:si,le:si,[],,[],,False,False,,1
-yamd1240-1-2-1,,yamd1240-1,2,du,du,[],,[],,False,False,,1
-yamd1240-1-3-1,,yamd1240-1,3,tély,tély,[],,[],,False,False,,1
-yamd1240-1-4-1,,yamd1240-1,4,fat,fat,[],,[],,False,False,,1
-yamd1240-1-5-1,,yamd1240-1,5,lim,lim,[],,[],,False,False,,1
-yamd1240-1-6-1,,yamd1240-1,6,nem,nem,[],,[],,False,False,,1
-yamd1240-1-7-1,,yamd1240-1,7,itʷ,itʷ,[],,[],,False,False,,1
-yamd1240-1-8-1,,yamd1240-1,8,wálʷ,wálʷ,[],,[],,False,False,,1
-yamd1240-1-9-1,,yamd1240-1,9,siw,siw,[],,[],,False,False,,1
-yamd1240-1-10-1,,yamd1240-1,10,búty,búty,[],,[],,False,False,,1
-yamd1240-1-10-2,,yamd1240-1,10,buti,buti,[],,[],,False,False,,1
-yamd1240-1-11-1,,yamd1240-1,11,buti resiny leːse,buti resiny leːse,[],,[],,False,False,,1
-yamd1240-1-12-1,,yamd1240-1,12,buti resiny du,buti resiny du,[],,[],,False,False,,1
-yamd1240-1-13-1,,yamd1240-1,13,buti resiny tély,buti resiny tély,[],,[],,False,False,,1
-yamd1240-1-14-1,,yamd1240-1,14,buti resiny fat,buti resiny fat,[],,[],,False,False,,1
-yamd1240-1-15-1,,yamd1240-1,15,buti resiny lim,buti resiny lim,[],,[],,False,False,,1
-yamd1240-1-16-1,,yamd1240-1,16,buti resiny nem,buti resiny nem,[],,[],,False,False,,1
-yamd1240-1-17-1,,yamd1240-1,17,buti resiny itʷ,buti resiny itʷ,[],,[],,False,False,,1
-yamd1240-1-18-1,,yamd1240-1,18,buti resiny wálʷ,buti resiny wálʷ,[],,[],,False,False,,1
-yamd1240-1-19-1,,yamd1240-1,19,buti resiny siw,buti resiny siw,[],,[],,False,False,,1
-yamd1240-1-20-1,,yamd1240-1,20,buty du,buty du,[],,[],,False,False,,1
-yamd1240-1-21-1,,yamd1240-1,21,buty du resiny leːse,buty du resiny leːse,[],,[],,False,False,,1
-yamd1240-1-22-1,,yamd1240-1,22,buty du resiny du,buty du resiny du,[],,[],,False,False,,1
-yamd1240-1-23-1,,yamd1240-1,23,buty du resiny tély,buty du resiny tély,[],,[],,False,False,,1
-yamd1240-1-24-1,,yamd1240-1,24,buty du resiny fat,buty du resiny fat,[],,[],,False,False,,1
-yamd1240-1-25-1,,yamd1240-1,25,buty du resiny lim,buty du resiny lim,[],,[],,False,False,,1
-yamd1240-1-26-1,,yamd1240-1,26,buty du resiny nem,buty du resiny nem,[],,[],,False,False,,1
-yamd1240-1-27-1,,yamd1240-1,27,buty du resiny itʷ,buty du resiny itʷ,[],,[],,False,False,,1
-yamd1240-1-28-1,,yamd1240-1,28,buty du resiny wálʷ,buty du resiny wálʷ,[],,[],,False,False,,1
-yamd1240-1-29-1,,yamd1240-1,29,buty du resiny siw,buty du resiny siw,[],,[],,False,False,,1
-yamd1240-1-30-1,,yamd1240-1,30,buty tély,buty tély,[],,[],,False,False,,1
-yamd1240-1-40-1,,yamd1240-1,40,buty fat,buty fat,[],,[],,False,False,,1
-yamd1240-1-50-1,,yamd1240-1,50,buty lim,buty lim,[],,[],,False,False,,1
-yamd1240-1-60-1,,yamd1240-1,60,buty nem,buty nem,[],,[],,False,False,,1
-yamd1240-1-70-1,,yamd1240-1,70,buty itʷ,buty itʷ,[],,[],,False,False,,1
-yamd1240-1-80-1,,yamd1240-1,80,buty wálʷ,buty wálʷ,[],,[],,False,False,,1
-yamd1240-1-90-1,,yamd1240-1,90,buty siw,buty siw,[],,[],,False,False,,1
-yamd1240-1-100-1,,yamd1240-1,100,rati,rati,[],,[],,False,False,,1
-yamd1240-1-200-1,,yamd1240-1,200,raty du,raty du,[],,[],,False,False,,1
-yamd1240-1-1000-1,,yamd1240-1,1000,ribuny,ribuny,[],,[],,False,False,,1
-yamd1240-1-2000-1,,yamd1240-1,2000,ribuni du,ribuni du,[],,[],,False,False,,1
+yamd1240-1-1-1,,yamd1240-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+yamd1240-1-1-2,,yamd1240-1,1,le:si,le:si,[],,['chan2019'],,False,False,,1
+yamd1240-1-2-1,,yamd1240-1,2,du,du,[],,['chan2019'],,False,False,,1
+yamd1240-1-3-1,,yamd1240-1,3,tély,tély,[],,['chan2019'],,False,False,,1
+yamd1240-1-4-1,,yamd1240-1,4,fat,fat,[],,['chan2019'],,False,False,,1
+yamd1240-1-5-1,,yamd1240-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+yamd1240-1-6-1,,yamd1240-1,6,nem,nem,[],,['chan2019'],,False,False,,1
+yamd1240-1-7-1,,yamd1240-1,7,itʷ,itʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-8-1,,yamd1240-1,8,wálʷ,wálʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-9-1,,yamd1240-1,9,siw,siw,[],,['chan2019'],,False,False,,1
+yamd1240-1-10-1,,yamd1240-1,10,búty,búty,[],,['chan2019'],,False,False,,1
+yamd1240-1-10-2,,yamd1240-1,10,buti,buti,[],,['chan2019'],,False,False,,1
+yamd1240-1-11-1,,yamd1240-1,11,buti resiny leːse,buti resiny leːse,[],,['chan2019'],,False,False,,1
+yamd1240-1-12-1,,yamd1240-1,12,buti resiny du,buti resiny du,[],,['chan2019'],,False,False,,1
+yamd1240-1-13-1,,yamd1240-1,13,buti resiny tély,buti resiny tély,[],,['chan2019'],,False,False,,1
+yamd1240-1-14-1,,yamd1240-1,14,buti resiny fat,buti resiny fat,[],,['chan2019'],,False,False,,1
+yamd1240-1-15-1,,yamd1240-1,15,buti resiny lim,buti resiny lim,[],,['chan2019'],,False,False,,1
+yamd1240-1-16-1,,yamd1240-1,16,buti resiny nem,buti resiny nem,[],,['chan2019'],,False,False,,1
+yamd1240-1-17-1,,yamd1240-1,17,buti resiny itʷ,buti resiny itʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-18-1,,yamd1240-1,18,buti resiny wálʷ,buti resiny wálʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-19-1,,yamd1240-1,19,buti resiny siw,buti resiny siw,[],,['chan2019'],,False,False,,1
+yamd1240-1-20-1,,yamd1240-1,20,buty du,buty du,[],,['chan2019'],,False,False,,1
+yamd1240-1-21-1,,yamd1240-1,21,buty du resiny leːse,buty du resiny leːse,[],,['chan2019'],,False,False,,1
+yamd1240-1-22-1,,yamd1240-1,22,buty du resiny du,buty du resiny du,[],,['chan2019'],,False,False,,1
+yamd1240-1-23-1,,yamd1240-1,23,buty du resiny tély,buty du resiny tély,[],,['chan2019'],,False,False,,1
+yamd1240-1-24-1,,yamd1240-1,24,buty du resiny fat,buty du resiny fat,[],,['chan2019'],,False,False,,1
+yamd1240-1-25-1,,yamd1240-1,25,buty du resiny lim,buty du resiny lim,[],,['chan2019'],,False,False,,1
+yamd1240-1-26-1,,yamd1240-1,26,buty du resiny nem,buty du resiny nem,[],,['chan2019'],,False,False,,1
+yamd1240-1-27-1,,yamd1240-1,27,buty du resiny itʷ,buty du resiny itʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-28-1,,yamd1240-1,28,buty du resiny wálʷ,buty du resiny wálʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-29-1,,yamd1240-1,29,buty du resiny siw,buty du resiny siw,[],,['chan2019'],,False,False,,1
+yamd1240-1-30-1,,yamd1240-1,30,buty tély,buty tély,[],,['chan2019'],,False,False,,1
+yamd1240-1-40-1,,yamd1240-1,40,buty fat,buty fat,[],,['chan2019'],,False,False,,1
+yamd1240-1-50-1,,yamd1240-1,50,buty lim,buty lim,[],,['chan2019'],,False,False,,1
+yamd1240-1-60-1,,yamd1240-1,60,buty nem,buty nem,[],,['chan2019'],,False,False,,1
+yamd1240-1-70-1,,yamd1240-1,70,buty itʷ,buty itʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-80-1,,yamd1240-1,80,buty wálʷ,buty wálʷ,[],,['chan2019'],,False,False,,1
+yamd1240-1-90-1,,yamd1240-1,90,buty siw,buty siw,[],,['chan2019'],,False,False,,1
+yamd1240-1-100-1,,yamd1240-1,100,rati,rati,[],,['chan2019'],,False,False,,1
+yamd1240-1-200-1,,yamd1240-1,200,raty du,raty du,[],,['chan2019'],,False,False,,1
+yamd1240-1-1000-1,,yamd1240-1,1000,ribuny,ribuny,[],,['chan2019'],,False,False,,1
+yamd1240-1-2000-1,,yamd1240-1,2000,ribuni du,ribuni du,[],,['chan2019'],,False,False,,1

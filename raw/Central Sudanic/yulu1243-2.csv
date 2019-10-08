@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yulu1243-2-1-1,,yulu1243-2,1,kàl,kàl,[],,[],,False,False,,2
-yulu1243-2-2-1,,yulu1243-2,2,vȁɖ ́,vȁɖ ́,[],,[],,False,False,,2
-yulu1243-2-3-1,,yulu1243-2,3,wìtà,wìtà,[],,[],,False,False,,2
-yulu1243-2-4-1,,yulu1243-2,4,sɔ̀,sɔ̀,[],,[],,False,False,,2
-yulu1243-2-5-1,,yulu1243-2,5,mì,mì,[],,[],,False,False,,2
-yulu1243-2-6-1,,yulu1243-2,6,sítè,sítè,[],( < Arabic),[],,True,False,,2
-yulu1243-2-7-1,,yulu1243-2,7,sábà,sábà,[],( < Arabic),[],,True,False,,2
-yulu1243-2-8-1,,yulu1243-2,8,tàmáɲnà,tàmáɲnà,[],< Arabic ,[],,True,False,,2
-yulu1243-2-9-1,,yulu1243-2,9,tísà,tísà,[],( < Arabic),[],,True,False,,2
-yulu1243-2-10-1,,yulu1243-2,10,dɔ̀ɡ ̏,dɔ̀ɡ ̏,[],,[],,False,False,,2
-yulu1243-2-11-1,,yulu1243-2,11,dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl,dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl,[],{ten.(?.)?.one},[],,False,False,,2
-yulu1243-2-12-1,,yulu1243-2,12,dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́,dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́,[],{ten.(?.)?.two},[],,False,False,,2
-yulu1243-2-20-1,,yulu1243-2,20,dɔ̀ɡ ̏.vȁɖ,dɔ̀ɡ ̏.vȁɖ,[],( ten. two ),[],,False,False,,2
-yulu1243-2-100-1,,yulu1243-2,100,dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏,dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏,[],{ten.(?.) ?. ten},[],,False,False,,2
+yulu1243-2-1-1,,yulu1243-2,1,kàl,kàl,[],,['chan2019'],,False,False,,2
+yulu1243-2-2-1,,yulu1243-2,2,vȁɖ ́,vȁɖ ́,[],,['chan2019'],,False,False,,2
+yulu1243-2-3-1,,yulu1243-2,3,wìtà,wìtà,[],,['chan2019'],,False,False,,2
+yulu1243-2-4-1,,yulu1243-2,4,sɔ̀,sɔ̀,[],,['chan2019'],,False,False,,2
+yulu1243-2-5-1,,yulu1243-2,5,mì,mì,[],,['chan2019'],,False,False,,2
+yulu1243-2-6-1,,yulu1243-2,6,sítè,sítè,[],( < Arabic),['chan2019'],,True,False,,2
+yulu1243-2-7-1,,yulu1243-2,7,sábà,sábà,[],( < Arabic),['chan2019'],,True,False,,2
+yulu1243-2-8-1,,yulu1243-2,8,tàmáɲnà,tàmáɲnà,[],< Arabic ,['chan2019'],,True,False,,2
+yulu1243-2-9-1,,yulu1243-2,9,tísà,tísà,[],( < Arabic),['chan2019'],,True,False,,2
+yulu1243-2-10-1,,yulu1243-2,10,dɔ̀ɡ ̏,dɔ̀ɡ ̏,[],,['chan2019'],,False,False,,2
+yulu1243-2-11-1,,yulu1243-2,11,dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl,dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl,[],{ten.(?.)?.one},['chan2019'],,False,False,,2
+yulu1243-2-12-1,,yulu1243-2,12,dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́,dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́,[],{ten.(?.)?.two},['chan2019'],,False,False,,2
+yulu1243-2-20-1,,yulu1243-2,20,dɔ̀ɡ ̏.vȁɖ,dɔ̀ɡ ̏.vȁɖ,[],( ten. two ),['chan2019'],,False,False,,2
+yulu1243-2-100-1,,yulu1243-2,100,dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏,dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏,[],{ten.(?.) ?. ten},['chan2019'],,False,False,,2

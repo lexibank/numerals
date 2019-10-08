@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nali1245-2-1-1,,nali1245-2,1,sih,sih,[],,[],,False,False,,2
-nali1245-2-2-1,,nali1245-2,2,luwoh,luwoh,[],,[],,False,False,,2
-nali1245-2-3-1,,nali1245-2,3,royoh,royoh,[],( see notes below),[],,False,False,,2
-nali1245-2-4-1,,nali1245-2,4,hahiu,hahiu,[],,[],,False,False,,2
-nali1245-2-5-1,,nali1245-2,5,yimah,yimah,[],,[],,False,False,,2
-nali1245-2-6-1,,nali1245-2,6,annoh,annoh,[],( 10 - 4 ) ( anonoh ),[],,False,False,,2
-nali1245-2-7-1,,nali1245-2,7,andrtoyoh,andrtoyoh,[],( 10 - 3 ) ( androtoyoh ),[],,False,False,,2
-nali1245-2-8-1,,nali1245-2,8,andrluwoh,andrluwoh,[],( 10 - 2 ) (androluwoh ),[],,False,False,,2
-nali1245-2-9-1,,nali1245-2,9,androsih,androsih,[],( 10 - 1 ),[],,False,False,,2
-nali1245-2-10-1,,nali1245-2,10,soŋui,soŋui,[],,[],,False,False,,2
-nali1245-2-11-1,,nali1245-2,11,soŋui pe sih,soŋui pe sih,[],,[],,False,False,,2
-nali1245-2-12-1,,nali1245-2,12,soŋui pe luwoh,soŋui pe luwoh,[],,[],,False,False,,2
-nali1245-2-13-1,,nali1245-2,13,soŋui pe royoh,soŋui pe royoh,[],,[],,False,False,,2
-nali1245-2-14-1,,nali1245-2,14,soŋui pe hahiu,soŋui pe hahiu,[],,[],,False,False,,2
-nali1245-2-15-1,,nali1245-2,15,soŋui pe yimah,soŋui pe yimah,[],,[],,False,False,,2
-nali1245-2-16-1,,nali1245-2,16,soŋui pe annoh,soŋui pe annoh,[],,[],,False,False,,2
-nali1245-2-17-1,,nali1245-2,17,soŋui pe andrtoyoh,soŋui pe andrtoyoh,[],,[],,False,False,,2
-nali1245-2-18-1,,nali1245-2,18,soŋui pe andrluwoh,soŋui pe andrluwoh,[],( androluwoh),[],,False,False,,2
-nali1245-2-19-1,,nali1245-2,19,soŋui pe androsih,soŋui pe androsih,[],,[],,False,False,,2
-nali1245-2-20-1,,nali1245-2,20,luŋui,luŋui,[],,[],,False,False,,2
-nali1245-2-21-1,,nali1245-2,21,luŋui pe sih,luŋui pe sih,[],,[],,False,False,,2
-nali1245-2-22-1,,nali1245-2,22,luŋui pe luwoh,luŋui pe luwoh,[],,[],,False,False,,2
-nali1245-2-23-1,,nali1245-2,23,luŋui pe royoh,luŋui pe royoh,[],,[],,False,False,,2
-nali1245-2-24-1,,nali1245-2,24,luŋui pe hahiu,luŋui pe hahiu,[],,[],,False,False,,2
-nali1245-2-25-1,,nali1245-2,25,luŋui pe yimah,luŋui pe yimah,[],,[],,False,False,,2
-nali1245-2-26-1,,nali1245-2,26,luŋui pe annoh,luŋui pe annoh,[],,[],,False,False,,2
-nali1245-2-27-1,,nali1245-2,27,luŋui pe andrtoyoh,luŋui pe andrtoyoh,[],,[],,False,False,,2
-nali1245-2-28-1,,nali1245-2,28,luŋui pe andrluwoh,luŋui pe andrluwoh,[],( androluwoh),[],,False,False,,2
-nali1245-2-29-1,,nali1245-2,29,luŋui pe androsih,luŋui pe androsih,[],,[],,False,False,,2
-nali1245-2-30-1,,nali1245-2,30,tiŋui,tiŋui,[],,[],,False,False,,2
-nali1245-2-40-1,,nali1245-2,40,haŋui or haaŋui,haŋui or haaŋui,[],,[],,False,True,,2
-nali1245-2-50-1,,nali1245-2,50,yimiŋui,yimiŋui,[],,[],,False,False,,2
-nali1245-2-60-1,,nali1245-2,60,anoŋui,anoŋui,[],,[],,False,False,,2
-nali1245-2-70-1,,nali1245-2,70,andrtiŋui,andrtiŋui,[],,[],,False,False,,2
-nali1245-2-80-1,,nali1245-2,80,andrluŋui,andrluŋui,[],( androluŋui ),[],,False,False,,2
-nali1245-2-90-1,,nali1245-2,90,androsoŋui,androsoŋui,[],( androsoŋui ),[],,False,False,,2
-nali1245-2-100-1,,nali1245-2,100,saŋat,saŋat,[],,[],,False,False,,2
-nali1245-2-200-1,,nali1245-2,200,luŋat,luŋat,[],,[],,False,False,,2
-nali1245-2-1000-1,,nali1245-2,1000,sopou,sopou,[],,[],,False,False,,2
-nali1245-2-2000-1,,nali1245-2,2000,lupou,lupou,[],,[],,False,False,,2
+nali1245-2-1-1,,nali1245-2,1,sih,sih,[],,['chan2019'],,False,False,,2
+nali1245-2-2-1,,nali1245-2,2,luwoh,luwoh,[],,['chan2019'],,False,False,,2
+nali1245-2-3-1,,nali1245-2,3,royoh,royoh,[],( see notes below),['chan2019'],,False,False,,2
+nali1245-2-4-1,,nali1245-2,4,hahiu,hahiu,[],,['chan2019'],,False,False,,2
+nali1245-2-5-1,,nali1245-2,5,yimah,yimah,[],,['chan2019'],,False,False,,2
+nali1245-2-6-1,,nali1245-2,6,annoh,annoh,[],( 10 - 4 ) ( anonoh ),['chan2019'],,False,False,,2
+nali1245-2-7-1,,nali1245-2,7,andrtoyoh,andrtoyoh,[],( 10 - 3 ) ( androtoyoh ),['chan2019'],,False,False,,2
+nali1245-2-8-1,,nali1245-2,8,andrluwoh,andrluwoh,[],( 10 - 2 ) (androluwoh ),['chan2019'],,False,False,,2
+nali1245-2-9-1,,nali1245-2,9,androsih,androsih,[],( 10 - 1 ),['chan2019'],,False,False,,2
+nali1245-2-10-1,,nali1245-2,10,soŋui,soŋui,[],,['chan2019'],,False,False,,2
+nali1245-2-11-1,,nali1245-2,11,soŋui pe sih,soŋui pe sih,[],,['chan2019'],,False,False,,2
+nali1245-2-12-1,,nali1245-2,12,soŋui pe luwoh,soŋui pe luwoh,[],,['chan2019'],,False,False,,2
+nali1245-2-13-1,,nali1245-2,13,soŋui pe royoh,soŋui pe royoh,[],,['chan2019'],,False,False,,2
+nali1245-2-14-1,,nali1245-2,14,soŋui pe hahiu,soŋui pe hahiu,[],,['chan2019'],,False,False,,2
+nali1245-2-15-1,,nali1245-2,15,soŋui pe yimah,soŋui pe yimah,[],,['chan2019'],,False,False,,2
+nali1245-2-16-1,,nali1245-2,16,soŋui pe annoh,soŋui pe annoh,[],,['chan2019'],,False,False,,2
+nali1245-2-17-1,,nali1245-2,17,soŋui pe andrtoyoh,soŋui pe andrtoyoh,[],,['chan2019'],,False,False,,2
+nali1245-2-18-1,,nali1245-2,18,soŋui pe andrluwoh,soŋui pe andrluwoh,[],( androluwoh),['chan2019'],,False,False,,2
+nali1245-2-19-1,,nali1245-2,19,soŋui pe androsih,soŋui pe androsih,[],,['chan2019'],,False,False,,2
+nali1245-2-20-1,,nali1245-2,20,luŋui,luŋui,[],,['chan2019'],,False,False,,2
+nali1245-2-21-1,,nali1245-2,21,luŋui pe sih,luŋui pe sih,[],,['chan2019'],,False,False,,2
+nali1245-2-22-1,,nali1245-2,22,luŋui pe luwoh,luŋui pe luwoh,[],,['chan2019'],,False,False,,2
+nali1245-2-23-1,,nali1245-2,23,luŋui pe royoh,luŋui pe royoh,[],,['chan2019'],,False,False,,2
+nali1245-2-24-1,,nali1245-2,24,luŋui pe hahiu,luŋui pe hahiu,[],,['chan2019'],,False,False,,2
+nali1245-2-25-1,,nali1245-2,25,luŋui pe yimah,luŋui pe yimah,[],,['chan2019'],,False,False,,2
+nali1245-2-26-1,,nali1245-2,26,luŋui pe annoh,luŋui pe annoh,[],,['chan2019'],,False,False,,2
+nali1245-2-27-1,,nali1245-2,27,luŋui pe andrtoyoh,luŋui pe andrtoyoh,[],,['chan2019'],,False,False,,2
+nali1245-2-28-1,,nali1245-2,28,luŋui pe andrluwoh,luŋui pe andrluwoh,[],( androluwoh),['chan2019'],,False,False,,2
+nali1245-2-29-1,,nali1245-2,29,luŋui pe androsih,luŋui pe androsih,[],,['chan2019'],,False,False,,2
+nali1245-2-30-1,,nali1245-2,30,tiŋui,tiŋui,[],,['chan2019'],,False,False,,2
+nali1245-2-40-1,,nali1245-2,40,haŋui or haaŋui,haŋui or haaŋui,[],,['chan2019'],,False,True,,2
+nali1245-2-50-1,,nali1245-2,50,yimiŋui,yimiŋui,[],,['chan2019'],,False,False,,2
+nali1245-2-60-1,,nali1245-2,60,anoŋui,anoŋui,[],,['chan2019'],,False,False,,2
+nali1245-2-70-1,,nali1245-2,70,andrtiŋui,andrtiŋui,[],,['chan2019'],,False,False,,2
+nali1245-2-80-1,,nali1245-2,80,andrluŋui,andrluŋui,[],( androluŋui ),['chan2019'],,False,False,,2
+nali1245-2-90-1,,nali1245-2,90,androsoŋui,androsoŋui,[],( androsoŋui ),['chan2019'],,False,False,,2
+nali1245-2-100-1,,nali1245-2,100,saŋat,saŋat,[],,['chan2019'],,False,False,,2
+nali1245-2-200-1,,nali1245-2,200,luŋat,luŋat,[],,['chan2019'],,False,False,,2
+nali1245-2-1000-1,,nali1245-2,1000,sopou,sopou,[],,['chan2019'],,False,False,,2
+nali1245-2-2000-1,,nali1245-2,2000,lupou,lupou,[],,['chan2019'],,False,False,,2

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuma1273-1-1-1,,kuma1273-1,1,ek,ek,[],,[],,False,False,,1
-kuma1273-1-2-1,,kuma1273-1,2,dwi,dwi,[],,[],,False,False,,1
-kuma1273-1-3-1,,kuma1273-1,3,ti:n,ti:n,[],,[],,False,False,,1
-kuma1273-1-4-1,,kuma1273-1,4,t͡ʃar,t͡ʃar,[],,[],,False,False,,1
-kuma1273-1-5-1,,kuma1273-1,5,pãt͡ʃ,pãt͡ʃ,[],,[],,False,False,,1
-kuma1273-1-6-1,,kuma1273-1,6,t͡ʃʰɛ,t͡ʃʰɛ,[],,[],,False,False,,1
-kuma1273-1-7-1,,kuma1273-1,7,sat],sat],[],,[],,False,True,,1
-kuma1273-1-8-1,,kuma1273-1,8,aʈʰ,aʈʰ,[],,[],,False,False,,1
-kuma1273-1-9-1,,kuma1273-1,9,nau,nau,[],,[],,False,False,,1
-kuma1273-1-10-1,,kuma1273-1,10,dɑs,dɑs,[],,[],,False,False,,1
-kuma1273-1-11-1,,kuma1273-1,11,ɪ'ɡyar,ɪ'ɡyar,[],,[],,False,False,,1
-kuma1273-1-12-1,,kuma1273-1,12,bar,bar,[],,[],,False,False,,1
-kuma1273-1-13-1,,kuma1273-1,13,tir,tir,[],,[],,False,False,,1
-kuma1273-1-14-1,,kuma1273-1,14,t͡ʃɔd,t͡ʃɔd,[],,[],,False,False,,1
-kuma1273-1-15-1,,kuma1273-1,15,'pɑnr,'pɑnr,[],,[],,False,False,,1
-kuma1273-1-16-1,,kuma1273-1,16,sol,sol,[],,[],,False,False,,1
-kuma1273-1-17-1,,kuma1273-1,17,'sɑtr,'sɑtr,[],,[],,False,False,,1
-kuma1273-1-18-1,,kuma1273-1,18,ɑ'ʰar,ɑ'ʰar,[],,[],,False,False,,1
-kuma1273-1-19-1,,kuma1273-1,19,u'nis,u'nis,[],( 20 - 1),[],,False,False,,1
-kuma1273-1-20-1,,kuma1273-1,20,bis,bis,[],,[],,False,False,,1
-kuma1273-1-21-1,,kuma1273-1,21,ɪ'kɑjs,ɪ'kɑjs,[],,[],,False,False,,1
-kuma1273-1-22-1,,kuma1273-1,22,'bɑjɪs,'bɑjɪs,[],,[],,False,False,,1
-kuma1273-1-23-1,,kuma1273-1,23,tɪ'yaɪs,tɪ'yaɪs,[],,[],,False,False,,1
-kuma1273-1-24-1,,kuma1273-1,24,'t͡ʃɔbɪs,'t͡ʃɔbɪs,[],,[],,False,False,,1
-kuma1273-1-25-1,,kuma1273-1,25,'pɑt͡ʃis,'pɑt͡ʃis,[],,[],,False,False,,1
-kuma1273-1-26-1,,kuma1273-1,26,' t͡ʃʰɑbis,' t͡ʃʰɑbis,[],,[],,False,False,,1
-kuma1273-1-27-1,,kuma1273-1,27,sɑ'taijɪs,sɑ'taijɪs,[],,[],,False,False,,1
-kuma1273-1-28-1,,kuma1273-1,28,u'ʈʰajɪs,u'ʈʰajɪs,[],,[],,False,False,,1
-kuma1273-1-29-1,,kuma1273-1,29,'untis,'untis,[],( 30 - 1),[],,False,False,,1
-kuma1273-1-30-1,,kuma1273-1,30,tīs,tīs,[],,[],,False,False,,1
-kuma1273-1-40-1,,kuma1273-1,40,'t͡ʃalis,'t͡ʃalis,[],,[],,False,False,,1
-kuma1273-1-50-1,,kuma1273-1,50,pɑ't͡ʃas,pɑ't͡ʃas,[],,[],,False,False,,1
-kuma1273-1-60-1,,kuma1273-1,60,saʈʰ,saʈʰ,[],,[],,False,False,,1
-kuma1273-1-70-1,,kuma1273-1,70,'sɑtri,'sɑtri,[],,[],,False,False,,1
-kuma1273-1-80-1,,kuma1273-1,80,'ɑsi,'ɑsi,[],,[],,False,False,,1
-kuma1273-1-90-1,,kuma1273-1,90,'nɑbe,'nɑbe,[],,[],,False,False,,1
-kuma1273-1-100-1,,kuma1273-1,100,sɔ,sɔ,[],,[],,False,False,,1
-kuma1273-1-200-1,,kuma1273-1,200,dwi sɔ,dwi sɔ,[],,[],,False,False,,1
-kuma1273-1-1000-1,,kuma1273-1,1000,ek hɑ'zar,ek hɑ'zar,[],,[],,False,False,,1
-kuma1273-1-2000-1,,kuma1273-1,2000,dwi hɑ'zar,dwi hɑ'zar,[],,[],,False,False,,1
+kuma1273-1-1-1,,kuma1273-1,1,ek,ek,[],,['chan2019'],,False,False,,1
+kuma1273-1-2-1,,kuma1273-1,2,dwi,dwi,[],,['chan2019'],,False,False,,1
+kuma1273-1-3-1,,kuma1273-1,3,ti:n,ti:n,[],,['chan2019'],,False,False,,1
+kuma1273-1-4-1,,kuma1273-1,4,t͡ʃar,t͡ʃar,[],,['chan2019'],,False,False,,1
+kuma1273-1-5-1,,kuma1273-1,5,pãt͡ʃ,pãt͡ʃ,[],,['chan2019'],,False,False,,1
+kuma1273-1-6-1,,kuma1273-1,6,t͡ʃʰɛ,t͡ʃʰɛ,[],,['chan2019'],,False,False,,1
+kuma1273-1-7-1,,kuma1273-1,7,sat],sat],[],,['chan2019'],,False,True,,1
+kuma1273-1-8-1,,kuma1273-1,8,aʈʰ,aʈʰ,[],,['chan2019'],,False,False,,1
+kuma1273-1-9-1,,kuma1273-1,9,nau,nau,[],,['chan2019'],,False,False,,1
+kuma1273-1-10-1,,kuma1273-1,10,dɑs,dɑs,[],,['chan2019'],,False,False,,1
+kuma1273-1-11-1,,kuma1273-1,11,ɪ'ɡyar,ɪ'ɡyar,[],,['chan2019'],,False,False,,1
+kuma1273-1-12-1,,kuma1273-1,12,bar,bar,[],,['chan2019'],,False,False,,1
+kuma1273-1-13-1,,kuma1273-1,13,tir,tir,[],,['chan2019'],,False,False,,1
+kuma1273-1-14-1,,kuma1273-1,14,t͡ʃɔd,t͡ʃɔd,[],,['chan2019'],,False,False,,1
+kuma1273-1-15-1,,kuma1273-1,15,'pɑnr,'pɑnr,[],,['chan2019'],,False,False,,1
+kuma1273-1-16-1,,kuma1273-1,16,sol,sol,[],,['chan2019'],,False,False,,1
+kuma1273-1-17-1,,kuma1273-1,17,'sɑtr,'sɑtr,[],,['chan2019'],,False,False,,1
+kuma1273-1-18-1,,kuma1273-1,18,ɑ'ʰar,ɑ'ʰar,[],,['chan2019'],,False,False,,1
+kuma1273-1-19-1,,kuma1273-1,19,u'nis,u'nis,[],( 20 - 1),['chan2019'],,False,False,,1
+kuma1273-1-20-1,,kuma1273-1,20,bis,bis,[],,['chan2019'],,False,False,,1
+kuma1273-1-21-1,,kuma1273-1,21,ɪ'kɑjs,ɪ'kɑjs,[],,['chan2019'],,False,False,,1
+kuma1273-1-22-1,,kuma1273-1,22,'bɑjɪs,'bɑjɪs,[],,['chan2019'],,False,False,,1
+kuma1273-1-23-1,,kuma1273-1,23,tɪ'yaɪs,tɪ'yaɪs,[],,['chan2019'],,False,False,,1
+kuma1273-1-24-1,,kuma1273-1,24,'t͡ʃɔbɪs,'t͡ʃɔbɪs,[],,['chan2019'],,False,False,,1
+kuma1273-1-25-1,,kuma1273-1,25,'pɑt͡ʃis,'pɑt͡ʃis,[],,['chan2019'],,False,False,,1
+kuma1273-1-26-1,,kuma1273-1,26,' t͡ʃʰɑbis,' t͡ʃʰɑbis,[],,['chan2019'],,False,False,,1
+kuma1273-1-27-1,,kuma1273-1,27,sɑ'taijɪs,sɑ'taijɪs,[],,['chan2019'],,False,False,,1
+kuma1273-1-28-1,,kuma1273-1,28,u'ʈʰajɪs,u'ʈʰajɪs,[],,['chan2019'],,False,False,,1
+kuma1273-1-29-1,,kuma1273-1,29,'untis,'untis,[],( 30 - 1),['chan2019'],,False,False,,1
+kuma1273-1-30-1,,kuma1273-1,30,tīs,tīs,[],,['chan2019'],,False,False,,1
+kuma1273-1-40-1,,kuma1273-1,40,'t͡ʃalis,'t͡ʃalis,[],,['chan2019'],,False,False,,1
+kuma1273-1-50-1,,kuma1273-1,50,pɑ't͡ʃas,pɑ't͡ʃas,[],,['chan2019'],,False,False,,1
+kuma1273-1-60-1,,kuma1273-1,60,saʈʰ,saʈʰ,[],,['chan2019'],,False,False,,1
+kuma1273-1-70-1,,kuma1273-1,70,'sɑtri,'sɑtri,[],,['chan2019'],,False,False,,1
+kuma1273-1-80-1,,kuma1273-1,80,'ɑsi,'ɑsi,[],,['chan2019'],,False,False,,1
+kuma1273-1-90-1,,kuma1273-1,90,'nɑbe,'nɑbe,[],,['chan2019'],,False,False,,1
+kuma1273-1-100-1,,kuma1273-1,100,sɔ,sɔ,[],,['chan2019'],,False,False,,1
+kuma1273-1-200-1,,kuma1273-1,200,dwi sɔ,dwi sɔ,[],,['chan2019'],,False,False,,1
+kuma1273-1-1000-1,,kuma1273-1,1000,ek hɑ'zar,ek hɑ'zar,[],,['chan2019'],,False,False,,1
+kuma1273-1-2000-1,,kuma1273-1,2000,dwi hɑ'zar,dwi hɑ'zar,[],,['chan2019'],,False,False,,1

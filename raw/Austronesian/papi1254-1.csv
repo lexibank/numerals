@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-papi1254-1-1-1,,papi1254-1,1,tih,tih,[],,[],,False,False,,1
-papi1254-1-2-1,,papi1254-1,2,moruwah,moruwah,[],,[],,False,False,,1
-papi1254-1-3-1,,papi1254-1,3,matalah,matalah,[],,[],,False,False,,1
-papi1254-1-4-1,,papi1254-1,4,mahahu,mahahu,[],,[],,False,False,,1
-papi1254-1-5-1,,papi1254-1,5,malimah,malimah,[],,[],,False,False,,1
-papi1254-1-6-1,,papi1254-1,6,mawonoh,mawonoh,[],,[],,False,False,,1
-papi1254-1-7-1,,papi1254-1,7,mandotalah,mandotalah,[],( 10 - 3 ),[],,False,False,,1
-papi1254-1-8-1,,papi1254-1,8,mandoruwah,mandoruwah,[],( 10 - 2 ),[],,False,False,,1
-papi1254-1-9-1,,papi1254-1,9,mandotih,mandotih,[],( 10 - 1 ),[],,False,False,,1
-papi1254-1-10-1,,papi1254-1,10,masoŋul,masoŋul,[],,[],,False,False,,1
-papi1254-1-11-1,,papi1254-1,11,soŋul e ti,soŋul e ti,[],,[],,False,False,,1
-papi1254-1-12-1,,papi1254-1,12,soŋul e rua,soŋul e rua,[],,[],,False,False,,1
-papi1254-1-13-1,,papi1254-1,13,soŋul e tala,soŋul e tala,[],,[],,False,False,,1
-papi1254-1-14-1,,papi1254-1,14,soŋul e hahu,soŋul e hahu,[],,[],,False,False,,1
-papi1254-1-15-1,,papi1254-1,15,soŋul e lima,soŋul e lima,[],,[],,False,False,,1
-papi1254-1-16-1,,papi1254-1,16,soŋul e wono,soŋul e wono,[],,[],,False,False,,1
-papi1254-1-17-1,,papi1254-1,17,soŋul e ndotala,soŋul e ndotala,[],,[],,False,False,,1
-papi1254-1-18-1,,papi1254-1,18,soŋul e ndorua,soŋul e ndorua,[],,[],,False,False,,1
-papi1254-1-19-1,,papi1254-1,19,soŋul e ndoti,soŋul e ndoti,[],,[],,False,False,,1
-papi1254-1-20-1,,papi1254-1,20,moruŋul,moruŋul,[],,[],,False,False,,1
-papi1254-1-21-1,,papi1254-1,21,ruŋul e ti,ruŋul e ti,[],,[],,False,False,,1
-papi1254-1-22-1,,papi1254-1,22,ruŋul e rua,ruŋul e rua,[],,[],,False,False,,1
-papi1254-1-23-1,,papi1254-1,23,ruŋul e tala,ruŋul e tala,[],,[],,False,False,,1
-papi1254-1-24-1,,papi1254-1,24,ruŋul e hahu,ruŋul e hahu,[],,[],,False,False,,1
-papi1254-1-25-1,,papi1254-1,25,ruŋul e lima,ruŋul e lima,[],,[],,False,False,,1
-papi1254-1-26-1,,papi1254-1,26,ruŋul e wono,ruŋul e wono,[],,[],,False,False,,1
-papi1254-1-27-1,,papi1254-1,27,ruŋul e ndotala,ruŋul e ndotala,[],,[],,False,False,,1
-papi1254-1-28-1,,papi1254-1,28,ruŋul e ndorua,ruŋul e ndorua,[],,[],,False,False,,1
-papi1254-1-29-1,,papi1254-1,29,ruŋul e ndoti,ruŋul e ndoti,[],,[],,False,False,,1
-papi1254-1-30-1,,papi1254-1,30,matuluŋul,matuluŋul,[],,[],,False,False,,1
-papi1254-1-40-1,,papi1254-1,40,mahaŋul,mahaŋul,[],,[],,False,False,,1
-papi1254-1-50-1,,papi1254-1,50,malimiŋul,malimiŋul,[],,[],,False,False,,1
-papi1254-1-60-1,,papi1254-1,60,maonoŋul,maonoŋul,[],,[],,False,False,,1
-papi1254-1-70-1,,papi1254-1,70,mandotuluŋul,mandotuluŋul,[],,[],,False,False,,1
-papi1254-1-80-1,,papi1254-1,80,mandoruŋul,mandoruŋul,[],,[],,False,False,,1
-papi1254-1-90-1,,papi1254-1,90,(mo)ndotoŋul,(mo)ndotoŋul,[],,[],,False,False,,1
-papi1254-1-100-1,,papi1254-1,100,masaŋat,masaŋat,[],,[],,False,False,,1
-papi1254-1-200-1,,papi1254-1,200,moruŋat,moruŋat,[],,[],,False,False,,1
-papi1254-1-1000-1,,papi1254-1,1000,patih,patih,[],,[],,False,False,,1
+papi1254-1-1-1,,papi1254-1,1,tih,tih,[],,['chan2019'],,False,False,,1
+papi1254-1-2-1,,papi1254-1,2,moruwah,moruwah,[],,['chan2019'],,False,False,,1
+papi1254-1-3-1,,papi1254-1,3,matalah,matalah,[],,['chan2019'],,False,False,,1
+papi1254-1-4-1,,papi1254-1,4,mahahu,mahahu,[],,['chan2019'],,False,False,,1
+papi1254-1-5-1,,papi1254-1,5,malimah,malimah,[],,['chan2019'],,False,False,,1
+papi1254-1-6-1,,papi1254-1,6,mawonoh,mawonoh,[],,['chan2019'],,False,False,,1
+papi1254-1-7-1,,papi1254-1,7,mandotalah,mandotalah,[],( 10 - 3 ),['chan2019'],,False,False,,1
+papi1254-1-8-1,,papi1254-1,8,mandoruwah,mandoruwah,[],( 10 - 2 ),['chan2019'],,False,False,,1
+papi1254-1-9-1,,papi1254-1,9,mandotih,mandotih,[],( 10 - 1 ),['chan2019'],,False,False,,1
+papi1254-1-10-1,,papi1254-1,10,masoŋul,masoŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-11-1,,papi1254-1,11,soŋul e ti,soŋul e ti,[],,['chan2019'],,False,False,,1
+papi1254-1-12-1,,papi1254-1,12,soŋul e rua,soŋul e rua,[],,['chan2019'],,False,False,,1
+papi1254-1-13-1,,papi1254-1,13,soŋul e tala,soŋul e tala,[],,['chan2019'],,False,False,,1
+papi1254-1-14-1,,papi1254-1,14,soŋul e hahu,soŋul e hahu,[],,['chan2019'],,False,False,,1
+papi1254-1-15-1,,papi1254-1,15,soŋul e lima,soŋul e lima,[],,['chan2019'],,False,False,,1
+papi1254-1-16-1,,papi1254-1,16,soŋul e wono,soŋul e wono,[],,['chan2019'],,False,False,,1
+papi1254-1-17-1,,papi1254-1,17,soŋul e ndotala,soŋul e ndotala,[],,['chan2019'],,False,False,,1
+papi1254-1-18-1,,papi1254-1,18,soŋul e ndorua,soŋul e ndorua,[],,['chan2019'],,False,False,,1
+papi1254-1-19-1,,papi1254-1,19,soŋul e ndoti,soŋul e ndoti,[],,['chan2019'],,False,False,,1
+papi1254-1-20-1,,papi1254-1,20,moruŋul,moruŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-21-1,,papi1254-1,21,ruŋul e ti,ruŋul e ti,[],,['chan2019'],,False,False,,1
+papi1254-1-22-1,,papi1254-1,22,ruŋul e rua,ruŋul e rua,[],,['chan2019'],,False,False,,1
+papi1254-1-23-1,,papi1254-1,23,ruŋul e tala,ruŋul e tala,[],,['chan2019'],,False,False,,1
+papi1254-1-24-1,,papi1254-1,24,ruŋul e hahu,ruŋul e hahu,[],,['chan2019'],,False,False,,1
+papi1254-1-25-1,,papi1254-1,25,ruŋul e lima,ruŋul e lima,[],,['chan2019'],,False,False,,1
+papi1254-1-26-1,,papi1254-1,26,ruŋul e wono,ruŋul e wono,[],,['chan2019'],,False,False,,1
+papi1254-1-27-1,,papi1254-1,27,ruŋul e ndotala,ruŋul e ndotala,[],,['chan2019'],,False,False,,1
+papi1254-1-28-1,,papi1254-1,28,ruŋul e ndorua,ruŋul e ndorua,[],,['chan2019'],,False,False,,1
+papi1254-1-29-1,,papi1254-1,29,ruŋul e ndoti,ruŋul e ndoti,[],,['chan2019'],,False,False,,1
+papi1254-1-30-1,,papi1254-1,30,matuluŋul,matuluŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-40-1,,papi1254-1,40,mahaŋul,mahaŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-50-1,,papi1254-1,50,malimiŋul,malimiŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-60-1,,papi1254-1,60,maonoŋul,maonoŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-70-1,,papi1254-1,70,mandotuluŋul,mandotuluŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-80-1,,papi1254-1,80,mandoruŋul,mandoruŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-90-1,,papi1254-1,90,(mo)ndotoŋul,(mo)ndotoŋul,[],,['chan2019'],,False,False,,1
+papi1254-1-100-1,,papi1254-1,100,masaŋat,masaŋat,[],,['chan2019'],,False,False,,1
+papi1254-1-200-1,,papi1254-1,200,moruŋat,moruŋat,[],,['chan2019'],,False,False,,1
+papi1254-1-1000-1,,papi1254-1,1000,patih,patih,[],,['chan2019'],,False,False,,1

@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bant1293-1-1-1,,bant1293-1,1,usa,usa,[],,[],,False,False,,1
-bant1293-1-2-1,,bant1293-1,2,duha,duha,[],,[],,False,False,,1
-bant1293-1-3-1,,bant1293-1,3,tyo,tyo,[],,[],,False,False,,1
-bant1293-1-3-2,,bant1293-1,3,tulo,tulo,[],,[],,False,False,,1
-bant1293-1-4-1,,bant1293-1,4,upat,upat,[],,[],,False,False,,1
-bant1293-1-5-1,,bant1293-1,5,lima,lima,[],,[],,False,False,,1
-bant1293-1-6-1,,bant1293-1,6,unom,unom,[],,[],,False,False,,1
-bant1293-1-7-1,,bant1293-1,7,pito,pito,[],,[],,False,False,,1
-bant1293-1-8-1,,bant1293-1,8,waw,waw,[],,[],,False,False,,1
-bant1293-1-9-1,,bant1293-1,9,syam,syam,[],,[],,False,False,,1
-bant1293-1-10-1,,bant1293-1,10,napu,napu,[],,[],,False,False,,1
-bant1293-1-11-1,,bant1293-1,11,onse,onse,[],< Spanish ,[],,True,False,,1
-bant1293-1-12-1,,bant1293-1,12,dose,dose,[],,[],,False,False,,1
-bant1293-1-13-1,,bant1293-1,13,trese,trese,[],,[],,False,False,,1
-bant1293-1-14-1,,bant1293-1,14,katorse,katorse,[],,[],,False,False,,1
-bant1293-1-15-1,,bant1293-1,15,kinse,kinse,[],,[],,False,False,,1
-bant1293-1-16-1,,bant1293-1,16,disisaes,disisaes,[],,[],,False,False,,1
-bant1293-1-17-1,,bant1293-1,17,disisyete,disisyete,[],,[],,False,False,,1
-bant1293-1-18-1,,bant1293-1,18,disiotso,disiotso,[],,[],,False,False,,1
-bant1293-1-19-1,,bant1293-1,19,disinwebe,disinwebe,[],,[],,False,False,,1
-bant1293-1-20-1,,bant1293-1,20,baynte,baynte,[],,[],,False,False,,1
-bant1293-1-21-1,,bant1293-1,21,baynte uno,baynte uno,[],,[],,False,False,,1
-bant1293-1-22-1,,bant1293-1,22,baynte dos,baynte dos,[],,[],,False,False,,1
-bant1293-1-23-1,,bant1293-1,23,baynte tres,baynte tres,[],,[],,False,False,,1
-bant1293-1-24-1,,bant1293-1,24,baynte kwatro,baynte kwatro,[],,[],,False,False,,1
-bant1293-1-25-1,,bant1293-1,25,baynte sinko,baynte sinko,[],,[],,False,False,,1
-bant1293-1-26-1,,bant1293-1,26,baynte saes,baynte saes,[],,[],,False,False,,1
-bant1293-1-27-1,,bant1293-1,27,baynte syete,baynte syete,[],,[],,False,False,,1
-bant1293-1-28-1,,bant1293-1,28,baynte otso,baynte otso,[],,[],,False,False,,1
-bant1293-1-29-1,,bant1293-1,29,baynte nwebe,baynte nwebe,[],,[],,False,False,,1
-bant1293-1-30-1,,bant1293-1,30,traenta,traenta,[],,[],,False,False,,1
-bant1293-1-40-1,,bant1293-1,40,kwarenta,kwarenta,[],,[],,False,False,,1
-bant1293-1-50-1,,bant1293-1,50,sinkwenta,sinkwenta,[],,[],,False,False,,1
-bant1293-1-60-1,,bant1293-1,60,saesenta,saesenta,[],,[],,False,False,,1
-bant1293-1-70-1,,bant1293-1,70,setenta,setenta,[],,[],,False,False,,1
-bant1293-1-80-1,,bant1293-1,80,otsenta,otsenta,[],,[],,False,False,,1
-bant1293-1-90-1,,bant1293-1,90,nobenta,nobenta,[],,[],,False,False,,1
-bant1293-1-100-1,,bant1293-1,100,usa ka ɡatos,usa ka ɡatos,[],,[],,False,False,,1
-bant1293-1-100-2,,bant1293-1,100,200. dosyentos,200. dosyentos,[],,[],,False,True,,1
-bant1293-1-300-1,,bant1293-1,300,tresyentos,tresyentos,[],,[],,False,False,,1
-bant1293-1-300-2,,bant1293-1,300,800.otsosyentos,800.otsosyentos,[],,[],,False,True,,1
-bant1293-1-1000-1,,bant1293-1,1000,usa ka libo,usa ka libo,[],,[],,False,False,,1
-bant1293-1-2000-1,,bant1293-1,2000,duha ka libo,duha ka libo,[],,[],,False,False,,1
+bant1293-1-1-1,,bant1293-1,1,usa,usa,[],,['chan2019'],,False,False,,1
+bant1293-1-2-1,,bant1293-1,2,duha,duha,[],,['chan2019'],,False,False,,1
+bant1293-1-3-1,,bant1293-1,3,tyo,tyo,[],,['chan2019'],,False,False,,1
+bant1293-1-3-2,,bant1293-1,3,tulo,tulo,[],,['chan2019'],,False,False,,1
+bant1293-1-4-1,,bant1293-1,4,upat,upat,[],,['chan2019'],,False,False,,1
+bant1293-1-5-1,,bant1293-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+bant1293-1-6-1,,bant1293-1,6,unom,unom,[],,['chan2019'],,False,False,,1
+bant1293-1-7-1,,bant1293-1,7,pito,pito,[],,['chan2019'],,False,False,,1
+bant1293-1-8-1,,bant1293-1,8,waw,waw,[],,['chan2019'],,False,False,,1
+bant1293-1-9-1,,bant1293-1,9,syam,syam,[],,['chan2019'],,False,False,,1
+bant1293-1-10-1,,bant1293-1,10,napu,napu,[],,['chan2019'],,False,False,,1
+bant1293-1-11-1,,bant1293-1,11,onse,onse,[],< Spanish ,['chan2019'],,True,False,,1
+bant1293-1-12-1,,bant1293-1,12,dose,dose,[],,['chan2019'],,False,False,,1
+bant1293-1-13-1,,bant1293-1,13,trese,trese,[],,['chan2019'],,False,False,,1
+bant1293-1-14-1,,bant1293-1,14,katorse,katorse,[],,['chan2019'],,False,False,,1
+bant1293-1-15-1,,bant1293-1,15,kinse,kinse,[],,['chan2019'],,False,False,,1
+bant1293-1-16-1,,bant1293-1,16,disisaes,disisaes,[],,['chan2019'],,False,False,,1
+bant1293-1-17-1,,bant1293-1,17,disisyete,disisyete,[],,['chan2019'],,False,False,,1
+bant1293-1-18-1,,bant1293-1,18,disiotso,disiotso,[],,['chan2019'],,False,False,,1
+bant1293-1-19-1,,bant1293-1,19,disinwebe,disinwebe,[],,['chan2019'],,False,False,,1
+bant1293-1-20-1,,bant1293-1,20,baynte,baynte,[],,['chan2019'],,False,False,,1
+bant1293-1-21-1,,bant1293-1,21,baynte uno,baynte uno,[],,['chan2019'],,False,False,,1
+bant1293-1-22-1,,bant1293-1,22,baynte dos,baynte dos,[],,['chan2019'],,False,False,,1
+bant1293-1-23-1,,bant1293-1,23,baynte tres,baynte tres,[],,['chan2019'],,False,False,,1
+bant1293-1-24-1,,bant1293-1,24,baynte kwatro,baynte kwatro,[],,['chan2019'],,False,False,,1
+bant1293-1-25-1,,bant1293-1,25,baynte sinko,baynte sinko,[],,['chan2019'],,False,False,,1
+bant1293-1-26-1,,bant1293-1,26,baynte saes,baynte saes,[],,['chan2019'],,False,False,,1
+bant1293-1-27-1,,bant1293-1,27,baynte syete,baynte syete,[],,['chan2019'],,False,False,,1
+bant1293-1-28-1,,bant1293-1,28,baynte otso,baynte otso,[],,['chan2019'],,False,False,,1
+bant1293-1-29-1,,bant1293-1,29,baynte nwebe,baynte nwebe,[],,['chan2019'],,False,False,,1
+bant1293-1-30-1,,bant1293-1,30,traenta,traenta,[],,['chan2019'],,False,False,,1
+bant1293-1-40-1,,bant1293-1,40,kwarenta,kwarenta,[],,['chan2019'],,False,False,,1
+bant1293-1-50-1,,bant1293-1,50,sinkwenta,sinkwenta,[],,['chan2019'],,False,False,,1
+bant1293-1-60-1,,bant1293-1,60,saesenta,saesenta,[],,['chan2019'],,False,False,,1
+bant1293-1-70-1,,bant1293-1,70,setenta,setenta,[],,['chan2019'],,False,False,,1
+bant1293-1-80-1,,bant1293-1,80,otsenta,otsenta,[],,['chan2019'],,False,False,,1
+bant1293-1-90-1,,bant1293-1,90,nobenta,nobenta,[],,['chan2019'],,False,False,,1
+bant1293-1-100-1,,bant1293-1,100,usa ka ɡatos,usa ka ɡatos,[],,['chan2019'],,False,False,,1
+bant1293-1-100-2,,bant1293-1,100,200. dosyentos,200. dosyentos,[],,['chan2019'],,False,True,,1
+bant1293-1-300-1,,bant1293-1,300,tresyentos,tresyentos,[],,['chan2019'],,False,False,,1
+bant1293-1-300-2,,bant1293-1,300,800.otsosyentos,800.otsosyentos,[],,['chan2019'],,False,True,,1
+bant1293-1-1000-1,,bant1293-1,1000,usa ka libo,usa ka libo,[],,['chan2019'],,False,False,,1
+bant1293-1-2000-1,,bant1293-1,2000,duha ka libo,duha ka libo,[],,['chan2019'],,False,False,,1

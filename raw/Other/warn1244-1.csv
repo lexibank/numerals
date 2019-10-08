@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-warn1244-1-1-1,,warn1244-1,1,ŋɔ̀ʈʈɔ́r,ŋɔ̀ʈʈɔ́r,[],,[],,False,False,,1
-warn1244-1-2-1,,warn1244-1,2,ŋèrccáccény,ŋèrccáccény,[],,[],,False,False,,1
-warn1244-1-3-1,,warn1244-1,3,ŋèrráttén,ŋèrráttén,[],,[],,False,False,,1
-warn1244-1-4-1,,warn1244-1,4,ŋèlàmlàŋ,ŋèlàmlàŋ,[],,[],,False,False,,1
-warn1244-1-5-1,,warn1244-1,5,ŋera ŋoʈʈor,ŋera ŋoʈʈor,[],,[],,False,False,,1
-warn1244-1-6-1,,warn1244-1,6,ŋera ŋoʈʈor ŋemabolo ŋoʈʈor,ŋera ŋoʈʈor ŋemabolo ŋoʈʈor,[],( 5+1?),[],,False,False,,1
-warn1244-1-7-1,,warn1244-1,7,ŋera ŋoʈʈor ŋemabolo ŋèrccáccény,ŋera ŋoʈʈor ŋemabolo ŋèrccáccény,[],( 5+2?),[],,False,False,,1
-warn1244-1-8-1,,warn1244-1,8,ŋelamlaaŋɔ,ŋelamlaaŋɔ,[],( 4 x 2 ? ),[],,False,False,,1
-warn1244-1-9-1,,warn1244-1,9,ŋera ŋoʈʈor wanoe,ŋera ŋoʈʈor wanoe,[],( 1- ? ),[],,False,False,,1
-warn1244-1-10-1,,warn1244-1,10,kiccukurrɐ,kiccukurrɐ,[],,[],,False,False,,1
-warn1244-1-20-1,,warn1244-1,20,armeɲɲe,armeɲɲe,[],,[],,False,False,,1
-warn1244-1-40-1,,warn1244-1,40,ɲelamlaaŋɔ,ɲelamlaaŋɔ,[],(= 8 ? ),[],,False,False,,1
+warn1244-1-1-1,,warn1244-1,1,ŋɔ̀ʈʈɔ́r,ŋɔ̀ʈʈɔ́r,[],,['chan2019'],,False,False,,1
+warn1244-1-2-1,,warn1244-1,2,ŋèrccáccény,ŋèrccáccény,[],,['chan2019'],,False,False,,1
+warn1244-1-3-1,,warn1244-1,3,ŋèrráttén,ŋèrráttén,[],,['chan2019'],,False,False,,1
+warn1244-1-4-1,,warn1244-1,4,ŋèlàmlàŋ,ŋèlàmlàŋ,[],,['chan2019'],,False,False,,1
+warn1244-1-5-1,,warn1244-1,5,ŋera ŋoʈʈor,ŋera ŋoʈʈor,[],,['chan2019'],,False,False,,1
+warn1244-1-6-1,,warn1244-1,6,ŋera ŋoʈʈor ŋemabolo ŋoʈʈor,ŋera ŋoʈʈor ŋemabolo ŋoʈʈor,[],( 5+1?),['chan2019'],,False,False,,1
+warn1244-1-7-1,,warn1244-1,7,ŋera ŋoʈʈor ŋemabolo ŋèrccáccény,ŋera ŋoʈʈor ŋemabolo ŋèrccáccény,[],( 5+2?),['chan2019'],,False,False,,1
+warn1244-1-8-1,,warn1244-1,8,ŋelamlaaŋɔ,ŋelamlaaŋɔ,[],( 4 x 2 ? ),['chan2019'],,False,False,,1
+warn1244-1-9-1,,warn1244-1,9,ŋera ŋoʈʈor wanoe,ŋera ŋoʈʈor wanoe,[],( 1- ? ),['chan2019'],,False,False,,1
+warn1244-1-10-1,,warn1244-1,10,kiccukurrɐ,kiccukurrɐ,[],,['chan2019'],,False,False,,1
+warn1244-1-20-1,,warn1244-1,20,armeɲɲe,armeɲɲe,[],,['chan2019'],,False,False,,1
+warn1244-1-40-1,,warn1244-1,40,ɲelamlaaŋɔ,ɲelamlaaŋɔ,[],(= 8 ? ),['chan2019'],,False,False,,1

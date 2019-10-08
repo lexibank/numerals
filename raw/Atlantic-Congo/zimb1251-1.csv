@@ -1,49 +1,49 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-zimb1251-1-1-1,,zimb1251-1,1,kámɔ̀,kámɔ̀,[],,[],,False,False,,1
-zimb1251-1-2-1,,zimb1251-1,2,tóbéé,tóbéé,[],,[],,False,False,,1
-zimb1251-1-3-1,,zimb1251-1,3,tósátò,tósátò,[],,[],,False,False,,1
-zimb1251-1-4-1,,zimb1251-1,4,tónàt͡ʃì,tónàt͡ʃì,[],,[],,False,False,,1
-zimb1251-1-5-1,,zimb1251-1,5,tótánù,tótánù,[],,[],,False,False,,1
-zimb1251-1-6-1,,zimb1251-1,6,mòtóbá,mòtóbá,[],,[],,False,False,,1
-zimb1251-1-7-1,,zimb1251-1,7,mòsàmbò,mòsàmbò,[],,[],,False,False,,1
-zimb1251-1-8-1,,zimb1251-1,8,mòàndà,mòàndà,[],,[],,False,False,,1
-zimb1251-1-8-2,,zimb1251-1,8,kìnǎnɛ̌,kìnǎnɛ̌,[],,[],,False,False,,1
-zimb1251-1-9-1,,zimb1251-1,9,kɛ̀tɛ́má,kɛ̀tɛ́má,[],,[],,False,False,,1
-zimb1251-1-9-2,,zimb1251-1,9,ìbwá,ìbwá,[],,[],,False,False,,1
-zimb1251-1-10-1,,zimb1251-1,10,ìkúmì,ìkúmì,[],,[],,False,False,,1
-zimb1251-1-11-1,,zimb1251-1,11,ìkúmì nà kámɔ̌sǎ,ìkúmì nà kámɔ̌sǎ,[],,[],,False,False,,1
-zimb1251-1-12-1,,zimb1251-1,12,ìkúmì nà tóbéé,ìkúmì nà tóbéé,[],,[],,False,False,,1
-zimb1251-1-13-1,,zimb1251-1,13,ìkúmì nà tósátò,ìkúmì nà tósátò,[],,[],,False,False,,1
-zimb1251-1-14-1,,zimb1251-1,14,ìkúmì nà tónàt͡ʃì,ìkúmì nà tónàt͡ʃì,[],,[],,False,False,,1
-zimb1251-1-15-1,,zimb1251-1,15,ìkúmì nà tótánù,ìkúmì nà tótánù,[],,[],,False,False,,1
-zimb1251-1-16-1,,zimb1251-1,16,ìkúmì nà mòtóbá,ìkúmì nà mòtóbá,[],,[],,False,False,,1
-zimb1251-1-17-1,,zimb1251-1,17,ìkúmì nà mòsàmbò,ìkúmì nà mòsàmbò,[],,[],,False,False,,1
-zimb1251-1-18-1,,zimb1251-1,18,ìkúmì nà mòàndà,ìkúmì nà mòàndà,[],,[],,False,False,,1
-zimb1251-1-18-2,,zimb1251-1,18,kìnǎnɛ̌,kìnǎnɛ̌,[],,[],,False,False,,1
-zimb1251-1-19-1,,zimb1251-1,19,ìkúmì nà kɛ̀tɛ́má,ìkúmì nà kɛ̀tɛ́má,[],,[],,False,False,,1
-zimb1251-1-19-2,,zimb1251-1,19,ìbwá,ìbwá,[],,[],,False,False,,1
-zimb1251-1-20-1,,zimb1251-1,20,màkúmì mábéé,màkúmì mábéé,[],,[],,False,False,,1
-zimb1251-1-21-1,,zimb1251-1,21,màkúmì mábéé nà kámɔ̀,màkúmì mábéé nà kámɔ̀,[],,[],,False,False,,1
-zimb1251-1-22-1,,zimb1251-1,22,màkúmì mábéé nà tóbéé,màkúmì mábéé nà tóbéé,[],,[],,False,False,,1
-zimb1251-1-23-1,,zimb1251-1,23,màkúmì mábéé nà tósátò,màkúmì mábéé nà tósátò,[],,[],,False,False,,1
-zimb1251-1-24-1,,zimb1251-1,24,màkúmì mábéé nà tónàt͡ʃì,màkúmì mábéé nà tónàt͡ʃì,[],,[],,False,False,,1
-zimb1251-1-25-1,,zimb1251-1,25,màkúmì mábéé nà tótánù,màkúmì mábéé nà tótánù,[],,[],,False,False,,1
-zimb1251-1-26-1,,zimb1251-1,26,màkúmì mábéé nà mòtóbá,màkúmì mábéé nà mòtóbá,[],,[],,False,False,,1
-zimb1251-1-27-1,,zimb1251-1,27,màkúmì mábéé nà mòsàmbò,màkúmì mábéé nà mòsàmbò,[],,[],,False,False,,1
-zimb1251-1-28-1,,zimb1251-1,28,màkúmì mábéé nà mòàndà,màkúmì mábéé nà mòàndà,[],,[],,False,False,,1
-zimb1251-1-28-2,,zimb1251-1,28,kìnǎnɛ̌,kìnǎnɛ̌,[],,[],,False,False,,1
-zimb1251-1-29-1,,zimb1251-1,29,màkúmì mábéé nà kɛ̀tɛ́má,màkúmì mábéé nà kɛ̀tɛ́má,[],,[],,False,False,,1
-zimb1251-1-29-2,,zimb1251-1,29,ìbwá,ìbwá,[],,[],,False,False,,1
-zimb1251-1-30-1,,zimb1251-1,30,màkúmì másátò,màkúmì másátò,[],,[],,False,False,,1
-zimb1251-1-40-1,,zimb1251-1,40,màkúmì mánàt͡ʃì,màkúmì mánàt͡ʃì,[],,[],,False,False,,1
-zimb1251-1-50-1,,zimb1251-1,50,màkúmì mátánù,màkúmì mátánù,[],,[],,False,False,,1
-zimb1251-1-60-1,,zimb1251-1,60,màkúmì mòtóbá,màkúmì mòtóbá,[],,[],,False,False,,1
-zimb1251-1-70-1,,zimb1251-1,70,màkúmì mòsàmbò,màkúmì mòsàmbò,[],,[],,False,False,,1
-zimb1251-1-80-1,,zimb1251-1,80,màkúmì mòàndà,màkúmì mòàndà,[],,[],,False,False,,1
-zimb1251-1-90-1,,zimb1251-1,90,màkúmì kɛ̀tɛ́má,màkúmì kɛ̀tɛ́má,[],,[],,False,False,,1
-zimb1251-1-100-1,,zimb1251-1,100,lòkámá,lòkámá,[],,[],,False,False,,1
-zimb1251-1-200-1,,zimb1251-1,200,ŋámá t͡ʃíbéé,ŋámá t͡ʃíbéé,[],,[],,False,False,,1
-zimb1251-1-1000-1,,zimb1251-1,1000,ŋámá ìkùmì,ŋámá ìkùmì,[],,[],,False,False,,1
-zimb1251-1-1000-2,,zimb1251-1,1000,kànùnù,kànùnù,[],,[],,False,False,,1
-zimb1251-1-2000-1,,zimb1251-1,2000,ŋámá màkúmì mábéé,ŋámá màkúmì mábéé,[],,[],,False,False,,1
-zimb1251-1-2000-2,,zimb1251-1,2000,tùnùnù tóbéé,tùnùnù tóbéé,[],,[],,False,False,,1
+zimb1251-1-1-1,,zimb1251-1,1,kámɔ̀,kámɔ̀,[],,['chan2019'],,False,False,,1
+zimb1251-1-2-1,,zimb1251-1,2,tóbéé,tóbéé,[],,['chan2019'],,False,False,,1
+zimb1251-1-3-1,,zimb1251-1,3,tósátò,tósátò,[],,['chan2019'],,False,False,,1
+zimb1251-1-4-1,,zimb1251-1,4,tónàt͡ʃì,tónàt͡ʃì,[],,['chan2019'],,False,False,,1
+zimb1251-1-5-1,,zimb1251-1,5,tótánù,tótánù,[],,['chan2019'],,False,False,,1
+zimb1251-1-6-1,,zimb1251-1,6,mòtóbá,mòtóbá,[],,['chan2019'],,False,False,,1
+zimb1251-1-7-1,,zimb1251-1,7,mòsàmbò,mòsàmbò,[],,['chan2019'],,False,False,,1
+zimb1251-1-8-1,,zimb1251-1,8,mòàndà,mòàndà,[],,['chan2019'],,False,False,,1
+zimb1251-1-8-2,,zimb1251-1,8,kìnǎnɛ̌,kìnǎnɛ̌,[],,['chan2019'],,False,False,,1
+zimb1251-1-9-1,,zimb1251-1,9,kɛ̀tɛ́má,kɛ̀tɛ́má,[],,['chan2019'],,False,False,,1
+zimb1251-1-9-2,,zimb1251-1,9,ìbwá,ìbwá,[],,['chan2019'],,False,False,,1
+zimb1251-1-10-1,,zimb1251-1,10,ìkúmì,ìkúmì,[],,['chan2019'],,False,False,,1
+zimb1251-1-11-1,,zimb1251-1,11,ìkúmì nà kámɔ̌sǎ,ìkúmì nà kámɔ̌sǎ,[],,['chan2019'],,False,False,,1
+zimb1251-1-12-1,,zimb1251-1,12,ìkúmì nà tóbéé,ìkúmì nà tóbéé,[],,['chan2019'],,False,False,,1
+zimb1251-1-13-1,,zimb1251-1,13,ìkúmì nà tósátò,ìkúmì nà tósátò,[],,['chan2019'],,False,False,,1
+zimb1251-1-14-1,,zimb1251-1,14,ìkúmì nà tónàt͡ʃì,ìkúmì nà tónàt͡ʃì,[],,['chan2019'],,False,False,,1
+zimb1251-1-15-1,,zimb1251-1,15,ìkúmì nà tótánù,ìkúmì nà tótánù,[],,['chan2019'],,False,False,,1
+zimb1251-1-16-1,,zimb1251-1,16,ìkúmì nà mòtóbá,ìkúmì nà mòtóbá,[],,['chan2019'],,False,False,,1
+zimb1251-1-17-1,,zimb1251-1,17,ìkúmì nà mòsàmbò,ìkúmì nà mòsàmbò,[],,['chan2019'],,False,False,,1
+zimb1251-1-18-1,,zimb1251-1,18,ìkúmì nà mòàndà,ìkúmì nà mòàndà,[],,['chan2019'],,False,False,,1
+zimb1251-1-18-2,,zimb1251-1,18,kìnǎnɛ̌,kìnǎnɛ̌,[],,['chan2019'],,False,False,,1
+zimb1251-1-19-1,,zimb1251-1,19,ìkúmì nà kɛ̀tɛ́má,ìkúmì nà kɛ̀tɛ́má,[],,['chan2019'],,False,False,,1
+zimb1251-1-19-2,,zimb1251-1,19,ìbwá,ìbwá,[],,['chan2019'],,False,False,,1
+zimb1251-1-20-1,,zimb1251-1,20,màkúmì mábéé,màkúmì mábéé,[],,['chan2019'],,False,False,,1
+zimb1251-1-21-1,,zimb1251-1,21,màkúmì mábéé nà kámɔ̀,màkúmì mábéé nà kámɔ̀,[],,['chan2019'],,False,False,,1
+zimb1251-1-22-1,,zimb1251-1,22,màkúmì mábéé nà tóbéé,màkúmì mábéé nà tóbéé,[],,['chan2019'],,False,False,,1
+zimb1251-1-23-1,,zimb1251-1,23,màkúmì mábéé nà tósátò,màkúmì mábéé nà tósátò,[],,['chan2019'],,False,False,,1
+zimb1251-1-24-1,,zimb1251-1,24,màkúmì mábéé nà tónàt͡ʃì,màkúmì mábéé nà tónàt͡ʃì,[],,['chan2019'],,False,False,,1
+zimb1251-1-25-1,,zimb1251-1,25,màkúmì mábéé nà tótánù,màkúmì mábéé nà tótánù,[],,['chan2019'],,False,False,,1
+zimb1251-1-26-1,,zimb1251-1,26,màkúmì mábéé nà mòtóbá,màkúmì mábéé nà mòtóbá,[],,['chan2019'],,False,False,,1
+zimb1251-1-27-1,,zimb1251-1,27,màkúmì mábéé nà mòsàmbò,màkúmì mábéé nà mòsàmbò,[],,['chan2019'],,False,False,,1
+zimb1251-1-28-1,,zimb1251-1,28,màkúmì mábéé nà mòàndà,màkúmì mábéé nà mòàndà,[],,['chan2019'],,False,False,,1
+zimb1251-1-28-2,,zimb1251-1,28,kìnǎnɛ̌,kìnǎnɛ̌,[],,['chan2019'],,False,False,,1
+zimb1251-1-29-1,,zimb1251-1,29,màkúmì mábéé nà kɛ̀tɛ́má,màkúmì mábéé nà kɛ̀tɛ́má,[],,['chan2019'],,False,False,,1
+zimb1251-1-29-2,,zimb1251-1,29,ìbwá,ìbwá,[],,['chan2019'],,False,False,,1
+zimb1251-1-30-1,,zimb1251-1,30,màkúmì másátò,màkúmì másátò,[],,['chan2019'],,False,False,,1
+zimb1251-1-40-1,,zimb1251-1,40,màkúmì mánàt͡ʃì,màkúmì mánàt͡ʃì,[],,['chan2019'],,False,False,,1
+zimb1251-1-50-1,,zimb1251-1,50,màkúmì mátánù,màkúmì mátánù,[],,['chan2019'],,False,False,,1
+zimb1251-1-60-1,,zimb1251-1,60,màkúmì mòtóbá,màkúmì mòtóbá,[],,['chan2019'],,False,False,,1
+zimb1251-1-70-1,,zimb1251-1,70,màkúmì mòsàmbò,màkúmì mòsàmbò,[],,['chan2019'],,False,False,,1
+zimb1251-1-80-1,,zimb1251-1,80,màkúmì mòàndà,màkúmì mòàndà,[],,['chan2019'],,False,False,,1
+zimb1251-1-90-1,,zimb1251-1,90,màkúmì kɛ̀tɛ́má,màkúmì kɛ̀tɛ́má,[],,['chan2019'],,False,False,,1
+zimb1251-1-100-1,,zimb1251-1,100,lòkámá,lòkámá,[],,['chan2019'],,False,False,,1
+zimb1251-1-200-1,,zimb1251-1,200,ŋámá t͡ʃíbéé,ŋámá t͡ʃíbéé,[],,['chan2019'],,False,False,,1
+zimb1251-1-1000-1,,zimb1251-1,1000,ŋámá ìkùmì,ŋámá ìkùmì,[],,['chan2019'],,False,False,,1
+zimb1251-1-1000-2,,zimb1251-1,1000,kànùnù,kànùnù,[],,['chan2019'],,False,False,,1
+zimb1251-1-2000-1,,zimb1251-1,2000,ŋámá màkúmì mábéé,ŋámá màkúmì mábéé,[],,['chan2019'],,False,False,,1
+zimb1251-1-2000-2,,zimb1251-1,2000,tùnùnù tóbéé,tùnùnù tóbéé,[],,['chan2019'],,False,False,,1

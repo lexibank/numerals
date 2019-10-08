@@ -1,33 +1,33 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dill1242-1-1-1,,dill1242-1,1,bee,bee,[],,[],,False,False,,1
-dill1242-1-2-1,,dill1242-1,2,oree,oree,[],,[],,False,False,,1
-dill1242-1-3-1,,dill1242-1,3,tujjuŋ,tujjuŋ,[],( j = dʒ or ɟ ?),[],,False,False,,1
-dill1242-1-4-1,,dill1242-1,4,kimmiɲi,kimmiɲi,[],,[],,False,False,,1
-dill1242-1-5-1,,dill1242-1,5,ticci,ticci,[],( c = tʃ or c ?),[],,False,False,,1
-dill1242-1-6-1,,dill1242-1,6,kʷarcu,kʷarcu,[],,[],,False,False,,1
-dill1242-1-7-1,,dill1242-1,7,kʷalad,kʷalad,[],,[],,False,False,,1
-dill1242-1-8-1,,dill1242-1,8,ɪddɪ,ɪddɪ,[],,[],,False,False,,1
-dill1242-1-9-1,,dill1242-1,9,wit,wit,[],,[],,False,False,,1
-dill1242-1-10-1,,dill1242-1,10,bure,bure,[],,[],,False,False,,1
-dill1242-1-11-1,,dill1242-1,11,bure bee,bure bee,[],,[],,False,False,,1
-dill1242-1-11-2,,dill1242-1,11,burenbee,burenbee,[],,[],,False,False,,1
-dill1242-1-12-1,,dill1242-1,12,bure orren,bure orren,[],,[],,False,False,,1
-dill1242-1-13-1,,dill1242-1,13,bure tujjuŋ,bure tujjuŋ,[],,[],,False,False,,1
-dill1242-1-14-1,,dill1242-1,14,bure kimmiɲi,bure kimmiɲi,[],,[],,False,False,,1
-dill1242-1-14-2,,dill1242-1,14,bure kimmiɲin,bure kimmiɲin,[],,[],,False,False,,1
-dill1242-1-15-1,,dill1242-1,15,bure ticci,bure ticci,[],,[],,False,False,,1
-dill1242-1-16-1,,dill1242-1,16,bure kʷarcu,bure kʷarcu,[],,[],,False,False,,1
-dill1242-1-17-1,,dill1242-1,17,bure kʷalad,bure kʷalad,[],,[],,False,False,,1
-dill1242-1-18-1,,dill1242-1,18,bure ɪddɪ,bure ɪddɪ,[],,[],,False,False,,1
-dill1242-1-19-1,,dill1242-1,19,bure wit,bure wit,[],,[],,False,False,,1
-dill1242-1-20-1,,dill1242-1,20,tarbe,tarbe,[],,[],,False,False,,1
-dill1242-1-21-1,,dill1242-1,21,tarbe been,tarbe been,[],,[],,False,False,,1
-dill1242-1-22-1,,dill1242-1,22,tarbe orren,tarbe orren,[],,[],,False,False,,1
-dill1242-1-23-1,,dill1242-1,23,tarbe tojjuŋ,tarbe tojjuŋ,[],,[],,False,False,,1
-dill1242-1-24-1,,dill1242-1,24,tarbe kimmiɲi,tarbe kimmiɲi,[],,[],,False,False,,1
-dill1242-1-25-1,,dill1242-1,25,tarbe ticci,tarbe ticci,[],,[],,False,False,,1
-dill1242-1-26-1,,dill1242-1,26,tarbe kʷarcu,tarbe kʷarcu,[],,[],,False,False,,1
-dill1242-1-27-1,,dill1242-1,27,tarbe kʷalad,tarbe kʷalad,[],,[],,False,False,,1
-dill1242-1-28-1,,dill1242-1,28,tarbe ɪddɪ,tarbe ɪddɪ,[],,[],,False,False,,1
-dill1242-1-29-1,,dill1242-1,29,tarbe wit,tarbe wit,[],,[],,False,False,,1
-dill1242-1-30-1,,dill1242-1,30,tarbe burren,tarbe burren,[],,[],,False,False,,1
+dill1242-1-1-1,,dill1242-1,1,bee,bee,[],,['chan2019'],,False,False,,1
+dill1242-1-2-1,,dill1242-1,2,oree,oree,[],,['chan2019'],,False,False,,1
+dill1242-1-3-1,,dill1242-1,3,tujjuŋ,tujjuŋ,[],( j = dʒ or ɟ ?),['chan2019'],,False,False,,1
+dill1242-1-4-1,,dill1242-1,4,kimmiɲi,kimmiɲi,[],,['chan2019'],,False,False,,1
+dill1242-1-5-1,,dill1242-1,5,ticci,ticci,[],( c = tʃ or c ?),['chan2019'],,False,False,,1
+dill1242-1-6-1,,dill1242-1,6,kʷarcu,kʷarcu,[],,['chan2019'],,False,False,,1
+dill1242-1-7-1,,dill1242-1,7,kʷalad,kʷalad,[],,['chan2019'],,False,False,,1
+dill1242-1-8-1,,dill1242-1,8,ɪddɪ,ɪddɪ,[],,['chan2019'],,False,False,,1
+dill1242-1-9-1,,dill1242-1,9,wit,wit,[],,['chan2019'],,False,False,,1
+dill1242-1-10-1,,dill1242-1,10,bure,bure,[],,['chan2019'],,False,False,,1
+dill1242-1-11-1,,dill1242-1,11,bure bee,bure bee,[],,['chan2019'],,False,False,,1
+dill1242-1-11-2,,dill1242-1,11,burenbee,burenbee,[],,['chan2019'],,False,False,,1
+dill1242-1-12-1,,dill1242-1,12,bure orren,bure orren,[],,['chan2019'],,False,False,,1
+dill1242-1-13-1,,dill1242-1,13,bure tujjuŋ,bure tujjuŋ,[],,['chan2019'],,False,False,,1
+dill1242-1-14-1,,dill1242-1,14,bure kimmiɲi,bure kimmiɲi,[],,['chan2019'],,False,False,,1
+dill1242-1-14-2,,dill1242-1,14,bure kimmiɲin,bure kimmiɲin,[],,['chan2019'],,False,False,,1
+dill1242-1-15-1,,dill1242-1,15,bure ticci,bure ticci,[],,['chan2019'],,False,False,,1
+dill1242-1-16-1,,dill1242-1,16,bure kʷarcu,bure kʷarcu,[],,['chan2019'],,False,False,,1
+dill1242-1-17-1,,dill1242-1,17,bure kʷalad,bure kʷalad,[],,['chan2019'],,False,False,,1
+dill1242-1-18-1,,dill1242-1,18,bure ɪddɪ,bure ɪddɪ,[],,['chan2019'],,False,False,,1
+dill1242-1-19-1,,dill1242-1,19,bure wit,bure wit,[],,['chan2019'],,False,False,,1
+dill1242-1-20-1,,dill1242-1,20,tarbe,tarbe,[],,['chan2019'],,False,False,,1
+dill1242-1-21-1,,dill1242-1,21,tarbe been,tarbe been,[],,['chan2019'],,False,False,,1
+dill1242-1-22-1,,dill1242-1,22,tarbe orren,tarbe orren,[],,['chan2019'],,False,False,,1
+dill1242-1-23-1,,dill1242-1,23,tarbe tojjuŋ,tarbe tojjuŋ,[],,['chan2019'],,False,False,,1
+dill1242-1-24-1,,dill1242-1,24,tarbe kimmiɲi,tarbe kimmiɲi,[],,['chan2019'],,False,False,,1
+dill1242-1-25-1,,dill1242-1,25,tarbe ticci,tarbe ticci,[],,['chan2019'],,False,False,,1
+dill1242-1-26-1,,dill1242-1,26,tarbe kʷarcu,tarbe kʷarcu,[],,['chan2019'],,False,False,,1
+dill1242-1-27-1,,dill1242-1,27,tarbe kʷalad,tarbe kʷalad,[],,['chan2019'],,False,False,,1
+dill1242-1-28-1,,dill1242-1,28,tarbe ɪddɪ,tarbe ɪddɪ,[],,['chan2019'],,False,False,,1
+dill1242-1-29-1,,dill1242-1,29,tarbe wit,tarbe wit,[],,['chan2019'],,False,False,,1
+dill1242-1-30-1,,dill1242-1,30,tarbe burren,tarbe burren,[],,['chan2019'],,False,False,,1

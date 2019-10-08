@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-awac1239-1-1-1,,awac1239-1,1,maza,maza,[],,[],,False,False,,1
-awac1239-1-2-1,,awac1239-1,2,pas,pas,[],,[],,False,False,,1
-awac1239-1-3-1,,awac1239-1,3,kutña,kutña,[],( ñ = ɲ),[],,False,False,,1
-awac1239-1-4-1,,awac1239-1,4,ampara,ampara,[],,[],,False,False,,1
-awac1239-1-5-1,,awac1239-1,5,akkwan,akkwan,[],(litː many ),[],,False,False,,1
-awac1239-1-5-2,,awac1239-1,5,tʃiʃ,tʃiʃ,[],,[],,False,False,,1
-awac1239-1-5-3,,awac1239-1,5,Spanish,Spanish,[],,[],,False,True,,1
-awac1239-1-6-1,,awac1239-1,6,wak,wak,[],( litː ' a snail with a snell' ),[],,False,False,,1
-awac1239-1-7-1,,awac1239-1,7,pikkam,pikkam,[],,[],,False,False,,1
-awac1239-1-8-1,,awac1239-1,8,itta,itta,[],,[],,False,False,,1
-awac1239-1-9-1,,awac1239-1,9,twil (litː from the word ' twilwil' which is a scorpion ).,twil (litː from the word ' twilwil' which is a scorpion ).,[],,[],,False,True,,1
-awac1239-1-10-1,,awac1239-1,10,paʃiʃ,paʃiʃ,[],,[],,False,False,,1
-awac1239-1-11-1,,awac1239-1,11,paʃiʃ maza,paʃiʃ maza,[],,[],,False,False,,1
-awac1239-1-11-2,,awac1239-1,11,12. paʃiʃ pas,12. paʃiʃ pas,[],,[],,False,True,,1
-awac1239-1-11-3,,awac1239-1,11,13. paʃiʃ kutɲna,13. paʃiʃ kutɲna,[],,[],,False,True,,1
-awac1239-1-11-4,,awac1239-1,11,etc...,etc...,[],,[],,False,True,,1
-awac1239-1-20-1,,awac1239-1,20,pas paʃiʃ,pas paʃiʃ,[],,[],,False,False,,1
-awac1239-1-20-2,,awac1239-1,20,21. pas paʃiʃ maza etc...,21. pas paʃiʃ maza etc...,[],,[],,False,True,,1
-awac1239-1-100-1,,awac1239-1,100,pit,pit,[],,[],,False,False,,1
-awac1239-1-100-2,,awac1239-1,100,1000. kɨma,1000. kɨma,[],,[],,False,True,,1
+awac1239-1-1-1,,awac1239-1,1,maza,maza,[],,['chan2019'],,False,False,,1
+awac1239-1-2-1,,awac1239-1,2,pas,pas,[],,['chan2019'],,False,False,,1
+awac1239-1-3-1,,awac1239-1,3,kutña,kutña,[],( ñ = ɲ),['chan2019'],,False,False,,1
+awac1239-1-4-1,,awac1239-1,4,ampara,ampara,[],,['chan2019'],,False,False,,1
+awac1239-1-5-1,,awac1239-1,5,akkwan,akkwan,[],(litː many ),['chan2019'],,False,False,,1
+awac1239-1-5-2,,awac1239-1,5,tʃiʃ,tʃiʃ,[],,['chan2019'],,False,False,,1
+awac1239-1-5-3,,awac1239-1,5,Spanish,Spanish,[],,['chan2019'],,False,True,,1
+awac1239-1-6-1,,awac1239-1,6,wak,wak,[],( litː ' a snail with a snell' ),['chan2019'],,False,False,,1
+awac1239-1-7-1,,awac1239-1,7,pikkam,pikkam,[],,['chan2019'],,False,False,,1
+awac1239-1-8-1,,awac1239-1,8,itta,itta,[],,['chan2019'],,False,False,,1
+awac1239-1-9-1,,awac1239-1,9,twil (litː from the word ' twilwil' which is a scorpion ).,twil (litː from the word ' twilwil' which is a scorpion ).,[],,['chan2019'],,False,True,,1
+awac1239-1-10-1,,awac1239-1,10,paʃiʃ,paʃiʃ,[],,['chan2019'],,False,False,,1
+awac1239-1-11-1,,awac1239-1,11,paʃiʃ maza,paʃiʃ maza,[],,['chan2019'],,False,False,,1
+awac1239-1-11-2,,awac1239-1,11,12. paʃiʃ pas,12. paʃiʃ pas,[],,['chan2019'],,False,True,,1
+awac1239-1-11-3,,awac1239-1,11,13. paʃiʃ kutɲna,13. paʃiʃ kutɲna,[],,['chan2019'],,False,True,,1
+awac1239-1-11-4,,awac1239-1,11,etc...,etc...,[],,['chan2019'],,False,True,,1
+awac1239-1-20-1,,awac1239-1,20,pas paʃiʃ,pas paʃiʃ,[],,['chan2019'],,False,False,,1
+awac1239-1-20-2,,awac1239-1,20,21. pas paʃiʃ maza etc...,21. pas paʃiʃ maza etc...,[],,['chan2019'],,False,True,,1
+awac1239-1-100-1,,awac1239-1,100,pit,pit,[],,['chan2019'],,False,False,,1
+awac1239-1-100-2,,awac1239-1,100,1000. kɨma,1000. kɨma,[],,['chan2019'],,False,True,,1

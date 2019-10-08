@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-moli1248-1-1-1,,moli1248-1,1,ʔaideɡana,ʔaideɡana,[],,[],,False,False,,1
-moli1248-1-1-2,,moli1248-1,1,ʔaideɡina,ʔaideɡina,[],,[],,False,False,,1
-moli1248-1-1-3,,moli1248-1,1,ʔaiɡedana,ʔaiɡedana,[],,[],,False,False,,1
-moli1248-1-2-1,,moli1248-1,2,lua,lua,[],,[],,False,False,,1
-moli1248-1-2-2,,moli1248-1,2,maɡilafuna,maɡilafuna,[],,[],,False,False,,1
-moli1248-1-3-1,,moli1248-1,3,toi,toi,[],,[],,False,False,,1
-moli1248-1-4-1,,moli1248-1,4,foa,foa,[],,[],,False,False,,1
-moli1248-1-5-1,,moli1248-1,5,nima,nima,[],(litː 'hand'),[],,False,False,,1
-moli1248-1-5-2,,moli1248-1,5,faibi,faibi,[],,[],,False,False,,1
-moli1248-1-6-1,,moli1248-1,6,sikisi,sikisi,[],,[],,False,False,,1
-moli1248-1-7-1,,moli1248-1,7,seveni,seveni,[],,[],,False,False,,1
-moli1248-1-8-1,,moli1248-1,8,eiti,eiti,[],,[],,False,False,,1
-moli1248-1-9-1,,moli1248-1,9,naini,naini,[],,[],,False,False,,1
-moli1248-1-10-1,,moli1248-1,10,teni,teni,[],,[],,False,False,,1
-moli1248-1-11-1,,moli1248-1,11,eleveni,eleveni,[],,[],,False,False,,1
-moli1248-1-12-1,,moli1248-1,12,tuelo,tuelo,[],,[],,False,False,,1
-moli1248-1-13-1,,moli1248-1,13,tetini,tetini,[],,[],,False,False,,1
-moli1248-1-14-1,,moli1248-1,14,fortini,fortini,[],,[],,False,False,,1
-moli1248-1-15-1,,moli1248-1,15,fiftini,fiftini,[],,[],,False,False,,1
-moli1248-1-16-1,,moli1248-1,16,sikistini,sikistini,[],,[],,False,False,,1
-moli1248-1-17-1,,moli1248-1,17,seventini,seventini,[],,[],,False,False,,1
-moli1248-1-18-1,,moli1248-1,18,eitini,eitini,[],,[],,False,False,,1
-moli1248-1-19-1,,moli1248-1,19,naintini,naintini,[],,[],,False,False,,1
-moli1248-1-20-1,,moli1248-1,20,twenti,twenti,[],,[],,False,False,,1
-moli1248-1-21-1,,moli1248-1,21,twenti wan,twenti wan,[],,[],,False,False,,1
-moli1248-1-22-1,,moli1248-1,22,twenti tu,twenti tu,[],,[],,False,False,,1
-moli1248-1-23-1,,moli1248-1,23,twenti tri,twenti tri,[],,[],,False,False,,1
-moli1248-1-24-1,,moli1248-1,24,twenti foa,twenti foa,[],,[],,False,False,,1
-moli1248-1-25-1,,moli1248-1,25,twenti faibi,twenti faibi,[],,[],,False,False,,1
-moli1248-1-26-1,,moli1248-1,26,twenti sikisi,twenti sikisi,[],,[],,False,False,,1
-moli1248-1-27-1,,moli1248-1,27,twenti seveni,twenti seveni,[],,[],,False,False,,1
-moli1248-1-28-1,,moli1248-1,28,twenti eiti,twenti eiti,[],,[],,False,False,,1
-moli1248-1-29-1,,moli1248-1,29,twenti naini,twenti naini,[],,[],,False,False,,1
-moli1248-1-30-1,,moli1248-1,30,teti,teti,[],,[],,False,False,,1
-moli1248-1-40-1,,moli1248-1,40,foti,foti,[],,[],,False,False,,1
-moli1248-1-50-1,,moli1248-1,50,fifti,fifti,[],,[],,False,False,,1
-moli1248-1-60-1,,moli1248-1,60,sikisiti,sikisiti,[],,[],,False,False,,1
-moli1248-1-70-1,,moli1248-1,70,seventi,seventi,[],,[],,False,False,,1
-moli1248-1-80-1,,moli1248-1,80,eiti,eiti,[],,[],,False,False,,1
-moli1248-1-90-1,,moli1248-1,90,nainiti,nainiti,[],,[],,False,False,,1
-moli1248-1-100-1,,moli1248-1,100,analedi,analedi,[],,[],,False,False,,1
-moli1248-1-200-1,,moli1248-1,200,tuanaledi,tuanaledi,[],,[],,False,False,,1
-moli1248-1-1000-1,,moli1248-1,1000,tauseni,tauseni,[],,[],,False,False,,1
-moli1248-1-2000-1,,moli1248-1,2000,tutauseni,tutauseni,[],,[],,False,False,,1
+moli1248-1-1-1,,moli1248-1,1,ʔaideɡana,ʔaideɡana,[],,['chan2019'],,False,False,,1
+moli1248-1-1-2,,moli1248-1,1,ʔaideɡina,ʔaideɡina,[],,['chan2019'],,False,False,,1
+moli1248-1-1-3,,moli1248-1,1,ʔaiɡedana,ʔaiɡedana,[],,['chan2019'],,False,False,,1
+moli1248-1-2-1,,moli1248-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+moli1248-1-2-2,,moli1248-1,2,maɡilafuna,maɡilafuna,[],,['chan2019'],,False,False,,1
+moli1248-1-3-1,,moli1248-1,3,toi,toi,[],,['chan2019'],,False,False,,1
+moli1248-1-4-1,,moli1248-1,4,foa,foa,[],,['chan2019'],,False,False,,1
+moli1248-1-5-1,,moli1248-1,5,nima,nima,[],(litː 'hand'),['chan2019'],,False,False,,1
+moli1248-1-5-2,,moli1248-1,5,faibi,faibi,[],,['chan2019'],,False,False,,1
+moli1248-1-6-1,,moli1248-1,6,sikisi,sikisi,[],,['chan2019'],,False,False,,1
+moli1248-1-7-1,,moli1248-1,7,seveni,seveni,[],,['chan2019'],,False,False,,1
+moli1248-1-8-1,,moli1248-1,8,eiti,eiti,[],,['chan2019'],,False,False,,1
+moli1248-1-9-1,,moli1248-1,9,naini,naini,[],,['chan2019'],,False,False,,1
+moli1248-1-10-1,,moli1248-1,10,teni,teni,[],,['chan2019'],,False,False,,1
+moli1248-1-11-1,,moli1248-1,11,eleveni,eleveni,[],,['chan2019'],,False,False,,1
+moli1248-1-12-1,,moli1248-1,12,tuelo,tuelo,[],,['chan2019'],,False,False,,1
+moli1248-1-13-1,,moli1248-1,13,tetini,tetini,[],,['chan2019'],,False,False,,1
+moli1248-1-14-1,,moli1248-1,14,fortini,fortini,[],,['chan2019'],,False,False,,1
+moli1248-1-15-1,,moli1248-1,15,fiftini,fiftini,[],,['chan2019'],,False,False,,1
+moli1248-1-16-1,,moli1248-1,16,sikistini,sikistini,[],,['chan2019'],,False,False,,1
+moli1248-1-17-1,,moli1248-1,17,seventini,seventini,[],,['chan2019'],,False,False,,1
+moli1248-1-18-1,,moli1248-1,18,eitini,eitini,[],,['chan2019'],,False,False,,1
+moli1248-1-19-1,,moli1248-1,19,naintini,naintini,[],,['chan2019'],,False,False,,1
+moli1248-1-20-1,,moli1248-1,20,twenti,twenti,[],,['chan2019'],,False,False,,1
+moli1248-1-21-1,,moli1248-1,21,twenti wan,twenti wan,[],,['chan2019'],,False,False,,1
+moli1248-1-22-1,,moli1248-1,22,twenti tu,twenti tu,[],,['chan2019'],,False,False,,1
+moli1248-1-23-1,,moli1248-1,23,twenti tri,twenti tri,[],,['chan2019'],,False,False,,1
+moli1248-1-24-1,,moli1248-1,24,twenti foa,twenti foa,[],,['chan2019'],,False,False,,1
+moli1248-1-25-1,,moli1248-1,25,twenti faibi,twenti faibi,[],,['chan2019'],,False,False,,1
+moli1248-1-26-1,,moli1248-1,26,twenti sikisi,twenti sikisi,[],,['chan2019'],,False,False,,1
+moli1248-1-27-1,,moli1248-1,27,twenti seveni,twenti seveni,[],,['chan2019'],,False,False,,1
+moli1248-1-28-1,,moli1248-1,28,twenti eiti,twenti eiti,[],,['chan2019'],,False,False,,1
+moli1248-1-29-1,,moli1248-1,29,twenti naini,twenti naini,[],,['chan2019'],,False,False,,1
+moli1248-1-30-1,,moli1248-1,30,teti,teti,[],,['chan2019'],,False,False,,1
+moli1248-1-40-1,,moli1248-1,40,foti,foti,[],,['chan2019'],,False,False,,1
+moli1248-1-50-1,,moli1248-1,50,fifti,fifti,[],,['chan2019'],,False,False,,1
+moli1248-1-60-1,,moli1248-1,60,sikisiti,sikisiti,[],,['chan2019'],,False,False,,1
+moli1248-1-70-1,,moli1248-1,70,seventi,seventi,[],,['chan2019'],,False,False,,1
+moli1248-1-80-1,,moli1248-1,80,eiti,eiti,[],,['chan2019'],,False,False,,1
+moli1248-1-90-1,,moli1248-1,90,nainiti,nainiti,[],,['chan2019'],,False,False,,1
+moli1248-1-100-1,,moli1248-1,100,analedi,analedi,[],,['chan2019'],,False,False,,1
+moli1248-1-200-1,,moli1248-1,200,tuanaledi,tuanaledi,[],,['chan2019'],,False,False,,1
+moli1248-1-1000-1,,moli1248-1,1000,tauseni,tauseni,[],,['chan2019'],,False,False,,1
+moli1248-1-2000-1,,moli1248-1,2000,tutauseni,tutauseni,[],,['chan2019'],,False,False,,1

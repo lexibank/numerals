@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-masi1265-1-1-1,,masi1265-1,1,cɛs,cɛs,[],,[],,False,False,,1
-masi1265-1-2-1,,masi1265-1,2,ru,ru,[],,[],,False,False,,1
-masi1265-1-3-1,,masi1265-1,3,tour,tour,[],,[],,False,False,,1
-masi1265-1-4-1,,masi1265-1,4,ruru,ruru,[],( 2 x 2 ?),[],,False,False,,1
-masi1265-1-5-1,,masi1265-1,5,rimak farfar run se,rimak farfar run se,[],,[],,False,False,,1
-masi1265-1-6-1,,masi1265-1,6,rimak farfar run se fareti ces,rimak farfar run se fareti ces,[],( 5+1 ),[],,False,False,,1
-masi1265-1-7-1,,masi1265-1,7,rimak farfar run se fareti ru,rimak farfar run se fareti ru,[],( 5+2 ),[],,False,False,,1
-masi1265-1-8-1,,masi1265-1,8,rimak farfar run se fareti tour,rimak farfar run se fareti tour,[],(5+3),[],,False,False,,1
-masi1265-1-9-1,,masi1265-1,9,rimak farfar run se fareti ruru,rimak farfar run se fareti ruru,[],(5+4),[],,False,False,,1
-masi1265-1-10-1,,masi1265-1,10,sanafur,sanafur,[],,[],,False,False,,1
+masi1265-1-1-1,,masi1265-1,1,cɛs,cɛs,[],,['chan2019'],,False,False,,1
+masi1265-1-2-1,,masi1265-1,2,ru,ru,[],,['chan2019'],,False,False,,1
+masi1265-1-3-1,,masi1265-1,3,tour,tour,[],,['chan2019'],,False,False,,1
+masi1265-1-4-1,,masi1265-1,4,ruru,ruru,[],( 2 x 2 ?),['chan2019'],,False,False,,1
+masi1265-1-5-1,,masi1265-1,5,rimak farfar run se,rimak farfar run se,[],,['chan2019'],,False,False,,1
+masi1265-1-6-1,,masi1265-1,6,rimak farfar run se fareti ces,rimak farfar run se fareti ces,[],( 5+1 ),['chan2019'],,False,False,,1
+masi1265-1-7-1,,masi1265-1,7,rimak farfar run se fareti ru,rimak farfar run se fareti ru,[],( 5+2 ),['chan2019'],,False,False,,1
+masi1265-1-8-1,,masi1265-1,8,rimak farfar run se fareti tour,rimak farfar run se fareti tour,[],(5+3),['chan2019'],,False,False,,1
+masi1265-1-9-1,,masi1265-1,9,rimak farfar run se fareti ruru,rimak farfar run se fareti ruru,[],(5+4),['chan2019'],,False,False,,1
+masi1265-1-10-1,,masi1265-1,10,sanafur,sanafur,[],,['chan2019'],,False,False,,1

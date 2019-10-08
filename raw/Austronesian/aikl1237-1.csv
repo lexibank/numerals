@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-aikl1237-1-1-1,,aikl1237-1,1,nake,nake,[],,[],,False,False,,1
-aikl1237-1-2-1,,aikl1237-1,2,kyip,kyip,[],,[],,False,False,,1
-aikl1237-1-3-1,,aikl1237-1,3,miok,miok,[],,[],,False,False,,1
-aikl1237-1-4-1,,aikl1237-1,4,penɡ,penɡ,[],,[],,False,False,,1
-aikl1237-1-5-1,,aikl1237-1,5,liem,liem,[],,[],,False,False,,1
-aikl1237-1-6-1,,aikl1237-1,6,el mok ke,el mok ke,[],( 5 + 1 ),[],,False,False,,1
-aikl1237-1-7-1,,aikl1237-1,7,el mok kyip,el mok kyip,[],( 5 + 2 ),[],,False,False,,1
-aikl1237-1-8-1,,aikl1237-1,8,el mok miok,el mok miok,[],( 5 + 3 ),[],,False,False,,1
-aikl1237-1-9-1,,aikl1237-1,9,el mok peng,el mok peng,[],( 5 + 4 ),[],,False,False,,1
-aikl1237-1-10-1,,aikl1237-1,10,sunɡul,sunɡul,[],,[],,False,False,,1
-aikl1237-1-11-1,,aikl1237-1,11,sunɡul nake i nake,sunɡul nake i nake,[],,[],,False,False,,1
-aikl1237-1-12-1,,aikl1237-1,12,sunɡul nake i kyip,sunɡul nake i kyip,[],,[],,False,False,,1
-aikl1237-1-13-1,,aikl1237-1,13,sunɡul nake i miok,sunɡul nake i miok,[],,[],,False,False,,1
-aikl1237-1-14-1,,aikl1237-1,14,sunɡul nake i penɡ,sunɡul nake i penɡ,[],,[],,False,False,,1
-aikl1237-1-15-1,,aikl1237-1,15,sunɡul nake i liem,sunɡul nake i liem,[],,[],,False,False,,1
-aikl1237-1-16-1,,aikl1237-1,16,sunɡul nake i el mok ke,sunɡul nake i el mok ke,[],,[],,False,False,,1
-aikl1237-1-17-1,,aikl1237-1,17,sunɡul nake i el mok kyip,sunɡul nake i el mok kyip,[],,[],,False,False,,1
-aikl1237-1-18-1,,aikl1237-1,18,sunɡul nake i el mok miok,sunɡul nake i el mok miok,[],,[],,False,False,,1
-aikl1237-1-19-1,,aikl1237-1,19,sunɡul nake i el mok peng,sunɡul nake i el mok peng,[],,[],,False,False,,1
-aikl1237-1-20-1,,aikl1237-1,20,sunɡul kyip,sunɡul kyip,[],,[],,False,False,,1
-aikl1237-1-21-1,,aikl1237-1,21,sunɡul kyip i nake,sunɡul kyip i nake,[],,[],,False,False,,1
-aikl1237-1-22-1,,aikl1237-1,22,sunɡul kyip i kyip,sunɡul kyip i kyip,[],,[],,False,False,,1
-aikl1237-1-23-1,,aikl1237-1,23,sunɡul kyip i miok,sunɡul kyip i miok,[],,[],,False,False,,1
-aikl1237-1-24-1,,aikl1237-1,24,sunɡul kyip i penɡ,sunɡul kyip i penɡ,[],,[],,False,False,,1
-aikl1237-1-25-1,,aikl1237-1,25,sunɡul kyip i liem,sunɡul kyip i liem,[],,[],,False,False,,1
-aikl1237-1-26-1,,aikl1237-1,26,sunɡul kyip i el mok ke,sunɡul kyip i el mok ke,[],,[],,False,False,,1
-aikl1237-1-27-1,,aikl1237-1,27,sunɡul kyip i el mok kyip,sunɡul kyip i el mok kyip,[],,[],,False,False,,1
-aikl1237-1-28-1,,aikl1237-1,28,sunɡul kyip i el mok miok,sunɡul kyip i el mok miok,[],,[],,False,False,,1
-aikl1237-1-29-1,,aikl1237-1,29,sunɡul kyip i el mok peng,sunɡul kyip i el mok peng,[],,[],,False,False,,1
-aikl1237-1-30-1,,aikl1237-1,30,sunɡul mok,sunɡul mok,[],,[],,False,False,,1
-aikl1237-1-40-1,,aikl1237-1,40,sunɡul penɡ,sunɡul penɡ,[],,[],,False,False,,1
-aikl1237-1-50-1,,aikl1237-1,50,sunɡul liem,sunɡul liem,[],,[],,False,False,,1
-aikl1237-1-60-1,,aikl1237-1,60,sunɡul el mok ke,sunɡul el mok ke,[],,[],,False,False,,1
-aikl1237-1-70-1,,aikl1237-1,70,sunɡul el mok kyip,sunɡul el mok kyip,[],,[],,False,False,,1
-aikl1237-1-80-1,,aikl1237-1,80,sunɡul el mok miok,sunɡul el mok miok,[],,[],,False,False,,1
-aikl1237-1-90-1,,aikl1237-1,90,sunɡul el mok peng,sunɡul el mok peng,[],,[],,False,False,,1
-aikl1237-1-100-1,,aikl1237-1,100,wono nake,wono nake,[],,[],,False,False,,1
-aikl1237-1-200-1,,aikl1237-1,200,wono kyop,wono kyop,[],,[],,False,False,,1
+aikl1237-1-1-1,,aikl1237-1,1,nake,nake,[],,['chan2019'],,False,False,,1
+aikl1237-1-2-1,,aikl1237-1,2,kyip,kyip,[],,['chan2019'],,False,False,,1
+aikl1237-1-3-1,,aikl1237-1,3,miok,miok,[],,['chan2019'],,False,False,,1
+aikl1237-1-4-1,,aikl1237-1,4,penɡ,penɡ,[],,['chan2019'],,False,False,,1
+aikl1237-1-5-1,,aikl1237-1,5,liem,liem,[],,['chan2019'],,False,False,,1
+aikl1237-1-6-1,,aikl1237-1,6,el mok ke,el mok ke,[],( 5 + 1 ),['chan2019'],,False,False,,1
+aikl1237-1-7-1,,aikl1237-1,7,el mok kyip,el mok kyip,[],( 5 + 2 ),['chan2019'],,False,False,,1
+aikl1237-1-8-1,,aikl1237-1,8,el mok miok,el mok miok,[],( 5 + 3 ),['chan2019'],,False,False,,1
+aikl1237-1-9-1,,aikl1237-1,9,el mok peng,el mok peng,[],( 5 + 4 ),['chan2019'],,False,False,,1
+aikl1237-1-10-1,,aikl1237-1,10,sunɡul,sunɡul,[],,['chan2019'],,False,False,,1
+aikl1237-1-11-1,,aikl1237-1,11,sunɡul nake i nake,sunɡul nake i nake,[],,['chan2019'],,False,False,,1
+aikl1237-1-12-1,,aikl1237-1,12,sunɡul nake i kyip,sunɡul nake i kyip,[],,['chan2019'],,False,False,,1
+aikl1237-1-13-1,,aikl1237-1,13,sunɡul nake i miok,sunɡul nake i miok,[],,['chan2019'],,False,False,,1
+aikl1237-1-14-1,,aikl1237-1,14,sunɡul nake i penɡ,sunɡul nake i penɡ,[],,['chan2019'],,False,False,,1
+aikl1237-1-15-1,,aikl1237-1,15,sunɡul nake i liem,sunɡul nake i liem,[],,['chan2019'],,False,False,,1
+aikl1237-1-16-1,,aikl1237-1,16,sunɡul nake i el mok ke,sunɡul nake i el mok ke,[],,['chan2019'],,False,False,,1
+aikl1237-1-17-1,,aikl1237-1,17,sunɡul nake i el mok kyip,sunɡul nake i el mok kyip,[],,['chan2019'],,False,False,,1
+aikl1237-1-18-1,,aikl1237-1,18,sunɡul nake i el mok miok,sunɡul nake i el mok miok,[],,['chan2019'],,False,False,,1
+aikl1237-1-19-1,,aikl1237-1,19,sunɡul nake i el mok peng,sunɡul nake i el mok peng,[],,['chan2019'],,False,False,,1
+aikl1237-1-20-1,,aikl1237-1,20,sunɡul kyip,sunɡul kyip,[],,['chan2019'],,False,False,,1
+aikl1237-1-21-1,,aikl1237-1,21,sunɡul kyip i nake,sunɡul kyip i nake,[],,['chan2019'],,False,False,,1
+aikl1237-1-22-1,,aikl1237-1,22,sunɡul kyip i kyip,sunɡul kyip i kyip,[],,['chan2019'],,False,False,,1
+aikl1237-1-23-1,,aikl1237-1,23,sunɡul kyip i miok,sunɡul kyip i miok,[],,['chan2019'],,False,False,,1
+aikl1237-1-24-1,,aikl1237-1,24,sunɡul kyip i penɡ,sunɡul kyip i penɡ,[],,['chan2019'],,False,False,,1
+aikl1237-1-25-1,,aikl1237-1,25,sunɡul kyip i liem,sunɡul kyip i liem,[],,['chan2019'],,False,False,,1
+aikl1237-1-26-1,,aikl1237-1,26,sunɡul kyip i el mok ke,sunɡul kyip i el mok ke,[],,['chan2019'],,False,False,,1
+aikl1237-1-27-1,,aikl1237-1,27,sunɡul kyip i el mok kyip,sunɡul kyip i el mok kyip,[],,['chan2019'],,False,False,,1
+aikl1237-1-28-1,,aikl1237-1,28,sunɡul kyip i el mok miok,sunɡul kyip i el mok miok,[],,['chan2019'],,False,False,,1
+aikl1237-1-29-1,,aikl1237-1,29,sunɡul kyip i el mok peng,sunɡul kyip i el mok peng,[],,['chan2019'],,False,False,,1
+aikl1237-1-30-1,,aikl1237-1,30,sunɡul mok,sunɡul mok,[],,['chan2019'],,False,False,,1
+aikl1237-1-40-1,,aikl1237-1,40,sunɡul penɡ,sunɡul penɡ,[],,['chan2019'],,False,False,,1
+aikl1237-1-50-1,,aikl1237-1,50,sunɡul liem,sunɡul liem,[],,['chan2019'],,False,False,,1
+aikl1237-1-60-1,,aikl1237-1,60,sunɡul el mok ke,sunɡul el mok ke,[],,['chan2019'],,False,False,,1
+aikl1237-1-70-1,,aikl1237-1,70,sunɡul el mok kyip,sunɡul el mok kyip,[],,['chan2019'],,False,False,,1
+aikl1237-1-80-1,,aikl1237-1,80,sunɡul el mok miok,sunɡul el mok miok,[],,['chan2019'],,False,False,,1
+aikl1237-1-90-1,,aikl1237-1,90,sunɡul el mok peng,sunɡul el mok peng,[],,['chan2019'],,False,False,,1
+aikl1237-1-100-1,,aikl1237-1,100,wono nake,wono nake,[],,['chan2019'],,False,False,,1
+aikl1237-1-200-1,,aikl1237-1,200,wono kyop,wono kyop,[],,['chan2019'],,False,False,,1

@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kele1257-1-1-1,,kele1257-1,1,ìótò,ìótò,[],,[],,False,False,,1
-kele1257-1-2-1,,kele1257-1,2,bìbá,bìbá,[],,[],,False,False,,1
-kele1257-1-3-1,,kele1257-1,3,bìlálù,bìlálù,[],,[],,False,False,,1
-kele1257-1-4-1,,kele1257-1,4,bìnáyì,bìnáyì,[],,[],,False,False,,1
-kele1257-1-5-1,,kele1257-1,5,bìtánù,bìtánù,[],,[],,False,False,,1
-kele1257-1-6-1,,kele1257-1,6,tánàótò,tánàótò,[],( 5 + 1 ),[],,False,False,,1
-kele1257-1-7-1,,kele1257-1,7,tánànàbìbá,tánànàbìbá,[],( 5 + 2 ),[],,False,False,,1
-kele1257-1-8-1,,kele1257-1,8,tánànàbìlálù,tánànàbìlálù,[],( 5 + 3 ),[],,False,False,,1
-kele1257-1-9-1,,kele1257-1,9,tánùnàbìnáyì,tánùnàbìnáyì,[],( 5 + 4 ),[],,False,False,,1
-kele1257-1-10-1,,kele1257-1,10,dyòmù,dyòmù,[],,[],,False,False,,1
-kele1257-1-21-1,,kele1257-1,21,màkōmɔ̄lɛ̄nāɔ́ŋkɔ́,màkōmɔ̄lɛ̄nāɔ́ŋkɔ́,[],,[],,False,False,,1
+kele1257-1-1-1,,kele1257-1,1,ìótò,ìótò,[],,['chan2019'],,False,False,,1
+kele1257-1-2-1,,kele1257-1,2,bìbá,bìbá,[],,['chan2019'],,False,False,,1
+kele1257-1-3-1,,kele1257-1,3,bìlálù,bìlálù,[],,['chan2019'],,False,False,,1
+kele1257-1-4-1,,kele1257-1,4,bìnáyì,bìnáyì,[],,['chan2019'],,False,False,,1
+kele1257-1-5-1,,kele1257-1,5,bìtánù,bìtánù,[],,['chan2019'],,False,False,,1
+kele1257-1-6-1,,kele1257-1,6,tánàótò,tánàótò,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kele1257-1-7-1,,kele1257-1,7,tánànàbìbá,tánànàbìbá,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kele1257-1-8-1,,kele1257-1,8,tánànàbìlálù,tánànàbìlálù,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kele1257-1-9-1,,kele1257-1,9,tánùnàbìnáyì,tánùnàbìnáyì,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kele1257-1-10-1,,kele1257-1,10,dyòmù,dyòmù,[],,['chan2019'],,False,False,,1
+kele1257-1-21-1,,kele1257-1,21,màkōmɔ̄lɛ̄nāɔ́ŋkɔ́,màkōmɔ̄lɛ̄nāɔ́ŋkɔ́,[],,['chan2019'],,False,False,,1

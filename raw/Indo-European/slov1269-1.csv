@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-slov1269-1-1-1,,slov1269-1,1,ˈjeden,ˈjeden,[],,[],,False,False,jeden,1
-slov1269-1-2-1,,slov1269-1,2,dva,dva,[],,[],,False,False,dva,1
-slov1269-1-3-1,,slov1269-1,3,tri,tri,[],,[],,False,False,tri,1
-slov1269-1-4-1,,slov1269-1,4,ˈʃtiri,ˈʃtiri,[],,[],,False,False,štyri,1
-slov1269-1-5-1,,slov1269-1,5,pec,pec,[],,[],,False,False,pätʼ,1
-slov1269-1-6-1,,slov1269-1,6,ʃesc,ʃesc,[],,[],,False,False,šestʼ,1
-slov1269-1-7-1,,slov1269-1,7,ˈseɟem,ˈseɟem,[],,[],,False,False,sedem,1
-slov1269-1-8-1,,slov1269-1,8,ˈosem,ˈosem,[],,[],,False,False,osem,1
-slov1269-1-9-1,,slov1269-1,9,ˈɟevec,ˈɟevec,[],,[],,False,False,devätʼ,1
-slov1269-1-10-1,,slov1269-1,10,ˈɟesac,ˈɟesac,[],,[],,False,False,desatʼ,1
-slov1269-1-11-1,,slov1269-1,11,ˈjedenaːsc,ˈjedenaːsc,[],,[],,False,False,jedenástʼ,1
-slov1269-1-12-1,,slov1269-1,12,ˈdvanaːsc,ˈdvanaːsc,[],,[],,False,False,dvanástʼ,1
-slov1269-1-13-1,,slov1269-1,13,ˈtrinaːsc,ˈtrinaːsc,[],,[],,False,False,trinástʼ,1
-slov1269-1-14-1,,slov1269-1,14,ˈʃtrnaːsc,ˈʃtrnaːsc,[],,[],,False,False,štrnástʼ,1
-slov1269-1-15-1,,slov1269-1,15,petnaːsc,petnaːsc,[],,[],,False,False,pätnástʼ,1
-slov1269-1-16-1,,slov1269-1,16,ˈʃesnaːsc,ˈʃesnaːsc,[],,[],,False,False,šestnástʼ,1
-slov1269-1-17-1,,slov1269-1,17,ˈseɟemnaːsc,ˈseɟemnaːsc,[],,[],,False,False,sedemnástʼ,1
-slov1269-1-18-1,,slov1269-1,18,ˈosemnaːsc,ˈosemnaːsc,[],,[],,False,False,osemnástʼ,1
-slov1269-1-19-1,,slov1269-1,19,ˈɟevatnaːsc,ˈɟevatnaːsc,[],,[],,False,False,devätnástʼ,1
-slov1269-1-20-1,,slov1269-1,20,ˈdvat͡sːac,ˈdvat͡sːac,[],,[],,False,False,dvadzsatʼ,1
-slov1269-1-21-1,,slov1269-1,21,ˈdvat͡sːacjeden,ˈdvat͡sːacjeden,[],,[],,False,False,dvadzsatʼ jeden,1
-slov1269-1-22-1,,slov1269-1,22,ˈdvat͡sːaɟːdva,ˈdvat͡sːaɟːdva,[],,[],,False,False,dvadzsatʼ dva,1
-slov1269-1-23-1,,slov1269-1,23,ˈdvat͡sːactri,ˈdvat͡sːactri,[],,[],,False,False,dvadzsatʼ tri,1
-slov1269-1-24-1,,slov1269-1,24,ˈdvat͡sːacʃtiri,ˈdvat͡sːacʃtiri,[],,[],,False,False,dvadzsatʼ štyri,1
-slov1269-1-25-1,,slov1269-1,25,ˈdvat͡sːacpec,ˈdvat͡sːacpec,[],,[],,False,False,dvadzsatʼ pätʼ,1
-slov1269-1-26-1,,slov1269-1,26,ˈdvat͡sːacʃest,ˈdvat͡sːacʃest,[],,[],,False,False,dvadzsatʼ šestʼ,1
-slov1269-1-27-1,,slov1269-1,27,ˈdvat͡sːacseɟem,ˈdvat͡sːacseɟem,[],,[],,False,False,dvadzsatʼ sedem,1
-slov1269-1-28-1,,slov1269-1,28,ˈdvat͡sːacosem,ˈdvat͡sːacosem,[],,[],,False,False,dvadzsatʼ osem,1
-slov1269-1-29-1,,slov1269-1,29,ˈdvat͡sːacɟevec,ˈdvat͡sːacɟevec,[],,[],,False,False,dvadzsatʼ devätʼ,1
-slov1269-1-30-1,,slov1269-1,30,t̪rit͡saːc,t̪rit͡saːc,[],,[],,False,False,tridsatʼ,1
-slov1269-1-40-1,,slov1269-1,40,ˈʃtɨrit͡saːc,ˈʃtɨrit͡saːc,[],,[],,False,False,štyridsatʼ,1
-slov1269-1-50-1,,slov1269-1,50,ˈpeɟːesi̯at,ˈpeɟːesi̯at,[],,[],,False,False,pätʼdesiat,1
-slov1269-1-60-1,,slov1269-1,60,ˈʃezɟesi̯at,ˈʃezɟesi̯at,[],,[],,False,False,šestʼdesiat,1
-slov1269-1-70-1,,slov1269-1,70,ˈseɟemɟesi̯at,ˈseɟemɟesi̯at,[],,[],,False,False,sedemdesiat,1
-slov1269-1-80-1,,slov1269-1,80,ˈosemɟesi̯at,ˈosemɟesi̯at,[],,[],,False,False,osemdesiat,1
-slov1269-1-90-1,,slov1269-1,90,ˈɟeveɟːesi̯at,ˈɟeveɟːesi̯at,[],,[],,False,False,devädesiat,1
-slov1269-1-100-1,,slov1269-1,100,sto,sto,[],,[],,False,False,sto,1
-slov1269-1-200-1,,slov1269-1,200,ˈdvesto,ˈdvesto,[],,[],,False,False,dvesto,1
-slov1269-1-1000-1,,slov1269-1,1000,ˈcisiːt͡s,ˈcisiːt͡s,[],,[],,False,False,tisíc,1
-slov1269-1-2000-1,,slov1269-1,2000,ˈdve cisiːt͡s,ˈdve cisiːt͡s,[],,[],,False,False,dve tisíce,1
+slov1269-1-1-1,,slov1269-1,1,ˈjeden,ˈjeden,[],,['chan2019'],,False,False,jeden,1
+slov1269-1-2-1,,slov1269-1,2,dva,dva,[],,['chan2019'],,False,False,dva,1
+slov1269-1-3-1,,slov1269-1,3,tri,tri,[],,['chan2019'],,False,False,tri,1
+slov1269-1-4-1,,slov1269-1,4,ˈʃtiri,ˈʃtiri,[],,['chan2019'],,False,False,štyri,1
+slov1269-1-5-1,,slov1269-1,5,pec,pec,[],,['chan2019'],,False,False,pätʼ,1
+slov1269-1-6-1,,slov1269-1,6,ʃesc,ʃesc,[],,['chan2019'],,False,False,šestʼ,1
+slov1269-1-7-1,,slov1269-1,7,ˈseɟem,ˈseɟem,[],,['chan2019'],,False,False,sedem,1
+slov1269-1-8-1,,slov1269-1,8,ˈosem,ˈosem,[],,['chan2019'],,False,False,osem,1
+slov1269-1-9-1,,slov1269-1,9,ˈɟevec,ˈɟevec,[],,['chan2019'],,False,False,devätʼ,1
+slov1269-1-10-1,,slov1269-1,10,ˈɟesac,ˈɟesac,[],,['chan2019'],,False,False,desatʼ,1
+slov1269-1-11-1,,slov1269-1,11,ˈjedenaːsc,ˈjedenaːsc,[],,['chan2019'],,False,False,jedenástʼ,1
+slov1269-1-12-1,,slov1269-1,12,ˈdvanaːsc,ˈdvanaːsc,[],,['chan2019'],,False,False,dvanástʼ,1
+slov1269-1-13-1,,slov1269-1,13,ˈtrinaːsc,ˈtrinaːsc,[],,['chan2019'],,False,False,trinástʼ,1
+slov1269-1-14-1,,slov1269-1,14,ˈʃtrnaːsc,ˈʃtrnaːsc,[],,['chan2019'],,False,False,štrnástʼ,1
+slov1269-1-15-1,,slov1269-1,15,petnaːsc,petnaːsc,[],,['chan2019'],,False,False,pätnástʼ,1
+slov1269-1-16-1,,slov1269-1,16,ˈʃesnaːsc,ˈʃesnaːsc,[],,['chan2019'],,False,False,šestnástʼ,1
+slov1269-1-17-1,,slov1269-1,17,ˈseɟemnaːsc,ˈseɟemnaːsc,[],,['chan2019'],,False,False,sedemnástʼ,1
+slov1269-1-18-1,,slov1269-1,18,ˈosemnaːsc,ˈosemnaːsc,[],,['chan2019'],,False,False,osemnástʼ,1
+slov1269-1-19-1,,slov1269-1,19,ˈɟevatnaːsc,ˈɟevatnaːsc,[],,['chan2019'],,False,False,devätnástʼ,1
+slov1269-1-20-1,,slov1269-1,20,ˈdvat͡sːac,ˈdvat͡sːac,[],,['chan2019'],,False,False,dvadzsatʼ,1
+slov1269-1-21-1,,slov1269-1,21,ˈdvat͡sːacjeden,ˈdvat͡sːacjeden,[],,['chan2019'],,False,False,dvadzsatʼ jeden,1
+slov1269-1-22-1,,slov1269-1,22,ˈdvat͡sːaɟːdva,ˈdvat͡sːaɟːdva,[],,['chan2019'],,False,False,dvadzsatʼ dva,1
+slov1269-1-23-1,,slov1269-1,23,ˈdvat͡sːactri,ˈdvat͡sːactri,[],,['chan2019'],,False,False,dvadzsatʼ tri,1
+slov1269-1-24-1,,slov1269-1,24,ˈdvat͡sːacʃtiri,ˈdvat͡sːacʃtiri,[],,['chan2019'],,False,False,dvadzsatʼ štyri,1
+slov1269-1-25-1,,slov1269-1,25,ˈdvat͡sːacpec,ˈdvat͡sːacpec,[],,['chan2019'],,False,False,dvadzsatʼ pätʼ,1
+slov1269-1-26-1,,slov1269-1,26,ˈdvat͡sːacʃest,ˈdvat͡sːacʃest,[],,['chan2019'],,False,False,dvadzsatʼ šestʼ,1
+slov1269-1-27-1,,slov1269-1,27,ˈdvat͡sːacseɟem,ˈdvat͡sːacseɟem,[],,['chan2019'],,False,False,dvadzsatʼ sedem,1
+slov1269-1-28-1,,slov1269-1,28,ˈdvat͡sːacosem,ˈdvat͡sːacosem,[],,['chan2019'],,False,False,dvadzsatʼ osem,1
+slov1269-1-29-1,,slov1269-1,29,ˈdvat͡sːacɟevec,ˈdvat͡sːacɟevec,[],,['chan2019'],,False,False,dvadzsatʼ devätʼ,1
+slov1269-1-30-1,,slov1269-1,30,t̪rit͡saːc,t̪rit͡saːc,[],,['chan2019'],,False,False,tridsatʼ,1
+slov1269-1-40-1,,slov1269-1,40,ˈʃtɨrit͡saːc,ˈʃtɨrit͡saːc,[],,['chan2019'],,False,False,štyridsatʼ,1
+slov1269-1-50-1,,slov1269-1,50,ˈpeɟːesi̯at,ˈpeɟːesi̯at,[],,['chan2019'],,False,False,pätʼdesiat,1
+slov1269-1-60-1,,slov1269-1,60,ˈʃezɟesi̯at,ˈʃezɟesi̯at,[],,['chan2019'],,False,False,šestʼdesiat,1
+slov1269-1-70-1,,slov1269-1,70,ˈseɟemɟesi̯at,ˈseɟemɟesi̯at,[],,['chan2019'],,False,False,sedemdesiat,1
+slov1269-1-80-1,,slov1269-1,80,ˈosemɟesi̯at,ˈosemɟesi̯at,[],,['chan2019'],,False,False,osemdesiat,1
+slov1269-1-90-1,,slov1269-1,90,ˈɟeveɟːesi̯at,ˈɟeveɟːesi̯at,[],,['chan2019'],,False,False,devädesiat,1
+slov1269-1-100-1,,slov1269-1,100,sto,sto,[],,['chan2019'],,False,False,sto,1
+slov1269-1-200-1,,slov1269-1,200,ˈdvesto,ˈdvesto,[],,['chan2019'],,False,False,dvesto,1
+slov1269-1-1000-1,,slov1269-1,1000,ˈcisiːt͡s,ˈcisiːt͡s,[],,['chan2019'],,False,False,tisíc,1
+slov1269-1-2000-1,,slov1269-1,2000,ˈdve cisiːt͡s,ˈdve cisiːt͡s,[],,['chan2019'],,False,False,dve tisíce,1

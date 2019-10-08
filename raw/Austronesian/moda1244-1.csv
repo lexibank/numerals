@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-moda1244-1-1-1,,moda1244-1,1,siəh,siəh,[],,[],,False,False,,1
-moda1244-1-2-1,,moda1244-1,2,ŋɡao̯ʔ,ŋɡao̯ʔ,[],,[],,False,False,,1
-moda1244-1-3-1,,moda1244-1,3,ətlaɵ̯,ətlaɵ̯,[],,[],,False,False,,1
-moda1244-1-4-1,,moda1244-1,4,peə̯t,peə̯t,[],,[],,False,False,,1
-moda1244-1-5-1,,moda1244-1,5,mao̯ʔ,mao̯ʔ,[],,[],,False,False,,1
-moda1244-1-6-1,,moda1244-1,6,naːm,naːm,[],,[],,False,False,,1
-moda1244-1-7-1,,moda1244-1,7,səwʔ,səwʔ,[],,[],,False,False,,1
-moda1244-1-8-1,,moda1244-1,8,təd͡ʒawʔ,təd͡ʒawʔ,[],,[],,False,False,təjawʔ,1
-moda1244-1-9-1,,moda1244-1,9,səptin,səptin,[],,[],,False,False,,1
-moda1244-1-10-1,,moda1244-1,10,səwaŋ,səwaŋ,[],,[],,False,False,,1
-moda1244-1-100-1,,moda1244-1,100,mətojh,mətojh,[],,[],,False,False,mətoyh,1
-moda1244-1-1000-1,,moda1244-1,1000,d͡ʒəmliən,d͡ʒəmliən,[],,[],,False,False,siəh jəmliən,1
+moda1244-1-1-1,,moda1244-1,1,siəh,siəh,[],,['chan2019'],,False,False,,1
+moda1244-1-2-1,,moda1244-1,2,ŋɡao̯ʔ,ŋɡao̯ʔ,[],,['chan2019'],,False,False,,1
+moda1244-1-3-1,,moda1244-1,3,ətlaɵ̯,ətlaɵ̯,[],,['chan2019'],,False,False,,1
+moda1244-1-4-1,,moda1244-1,4,peə̯t,peə̯t,[],,['chan2019'],,False,False,,1
+moda1244-1-5-1,,moda1244-1,5,mao̯ʔ,mao̯ʔ,[],,['chan2019'],,False,False,,1
+moda1244-1-6-1,,moda1244-1,6,naːm,naːm,[],,['chan2019'],,False,False,,1
+moda1244-1-7-1,,moda1244-1,7,səwʔ,səwʔ,[],,['chan2019'],,False,False,,1
+moda1244-1-8-1,,moda1244-1,8,təd͡ʒawʔ,təd͡ʒawʔ,[],,['chan2019'],,False,False,təjawʔ,1
+moda1244-1-9-1,,moda1244-1,9,səptin,səptin,[],,['chan2019'],,False,False,,1
+moda1244-1-10-1,,moda1244-1,10,səwaŋ,səwaŋ,[],,['chan2019'],,False,False,,1
+moda1244-1-100-1,,moda1244-1,100,mətojh,mətojh,[],,['chan2019'],,False,False,mətoyh,1
+moda1244-1-1000-1,,moda1244-1,1000,d͡ʒəmliən,d͡ʒəmliən,[],,['chan2019'],,False,False,siəh jəmliən,1

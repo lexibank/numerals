@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dima1251-3-1-1,,dima1251-3,1,masi,masi,[],,[],,False,False,,3
-dima1251-3-2-1,,dima1251-3,2,maɡin,maɡin,[],,[],,False,False,,3
-dima1251-3-3-1,,dima1251-3,3,matʰam,matʰam,[],,[],,False,False,,3
-dima1251-3-4-1,,dima1251-3,4,mabri,mabri,[],,[],,False,False,,3
-dima1251-3-5-1,,dima1251-3,5,mabuah,mabuah,[],,[],,False,False,,3
-dima1251-3-6-1,,dima1251-3,6,madoh,madoh,[],,[],,False,False,,3
-dima1251-3-7-1,,dima1251-3,7,masini,masini,[],,[],,False,False,,3
-dima1251-3-8-1,,dima1251-3,8,mazai,mazai,[],,[],,False,False,,3
-dima1251-3-9-1,,dima1251-3,9,masukʰu,masukʰu,[],,[],,False,False,,3
-dima1251-3-10-1,,dima1251-3,10,mazi,mazi,[],,[],,False,False,,3
-dima1251-3-11-1,,dima1251-3,11,mazise,mazise,[],,[],,False,False,,3
-dima1251-3-12-1,,dima1251-3,12,maziɡin,maziɡin,[],,[],,False,False,,3
-dima1251-3-13-1,,dima1251-3,13,mazitʰam,mazitʰam,[],,[],,False,False,,3
-dima1251-3-14-1,,dima1251-3,14,mazibri,mazibri,[],,[],,False,False,,3
-dima1251-3-15-1,,dima1251-3,15,mazibuah,mazibuah,[],,[],,False,False,,3
-dima1251-3-16-1,,dima1251-3,16,mazidoh,mazidoh,[],,[],,False,False,,3
-dima1251-3-17-1,,dima1251-3,17,mazisini,mazisini,[],,[],,False,False,,3
-dima1251-3-18-1,,dima1251-3,18,mazizai,mazizai,[],,[],,False,False,,3
-dima1251-3-19-1,,dima1251-3,19,mazisukʰu,mazisukʰu,[],,[],,False,False,,3
-dima1251-3-20-1,,dima1251-3,20,makʰon,makʰon,[],,[],,False,False,,3
-dima1251-3-20-2,,dima1251-3,20,bisa,bisa,[],,[],,False,False,,3
-dima1251-3-21-1,,dima1251-3,21,makʰonse,makʰonse,[],,[],,False,False,,3
-dima1251-3-22-1,,dima1251-3,22,makʰonɡin,makʰonɡin,[],,[],,False,False,,3
-dima1251-3-23-1,,dima1251-3,23,makʰontʰam,makʰontʰam,[],,[],,False,False,,3
-dima1251-3-24-1,,dima1251-3,24,makʰonbri,makʰonbri,[],,[],,False,False,,3
-dima1251-3-25-1,,dima1251-3,25,makʰonbuah,makʰonbuah,[],,[],,False,False,,3
-dima1251-3-26-1,,dima1251-3,26,makʰondoh,makʰondoh,[],,[],,False,False,,3
-dima1251-3-27-1,,dima1251-3,27,makʰonsini,makʰonsini,[],,[],,False,False,,3
-dima1251-3-28-1,,dima1251-3,28,makʰonzai,makʰonzai,[],,[],,False,False,,3
-dima1251-3-29-1,,dima1251-3,29,makʰonsukʰu,makʰonsukʰu,[],,[],,False,False,,3
-dima1251-3-30-1,,dima1251-3,30,matʰimzi,matʰimzi,[],,[],,False,False,,3
-dima1251-3-40-1,,dima1251-3,40,bisaɡin,bisaɡin,[],(20 x 2),[],,False,False,,3
-dima1251-3-50-1,,dima1251-3,50,madan,madan,[],,[],,False,False,,3
-dima1251-3-60-1,,dima1251-3,60,bisadoh,bisadoh,[],(20 x 3 ),[],,False,False,,3
-dima1251-3-70-1,,dima1251-3,70,bisadoh mazi,bisadoh mazi,[],( 20 x 3+ 10 ),[],,False,False,,3
-dima1251-3-80-1,,dima1251-3,80,bisabri,bisabri,[],(20 x 4 ),[],,False,False,,3
-dima1251-3-90-1,,dima1251-3,90,bisabri mazi,bisabri mazi,[],( 20 x 4+ 10 ),[],,False,False,,3
-dima1251-3-100-1,,dima1251-3,100,razasi,razasi,[],,[],,False,False,,3
-dima1251-3-200-1,,dima1251-3,200,razaɡin,razaɡin,[],,[],,False,False,,3
-dima1251-3-1000-1,,dima1251-3,1000,riziŋsi,riziŋsi,[],,[],,False,False,,3
-dima1251-3-2000-1,,dima1251-3,2000,riziŋɡin,riziŋɡin,[],,[],,False,False,,3
+dima1251-3-1-1,,dima1251-3,1,masi,masi,[],,['chan2019'],,False,False,,3
+dima1251-3-2-1,,dima1251-3,2,maɡin,maɡin,[],,['chan2019'],,False,False,,3
+dima1251-3-3-1,,dima1251-3,3,matʰam,matʰam,[],,['chan2019'],,False,False,,3
+dima1251-3-4-1,,dima1251-3,4,mabri,mabri,[],,['chan2019'],,False,False,,3
+dima1251-3-5-1,,dima1251-3,5,mabuah,mabuah,[],,['chan2019'],,False,False,,3
+dima1251-3-6-1,,dima1251-3,6,madoh,madoh,[],,['chan2019'],,False,False,,3
+dima1251-3-7-1,,dima1251-3,7,masini,masini,[],,['chan2019'],,False,False,,3
+dima1251-3-8-1,,dima1251-3,8,mazai,mazai,[],,['chan2019'],,False,False,,3
+dima1251-3-9-1,,dima1251-3,9,masukʰu,masukʰu,[],,['chan2019'],,False,False,,3
+dima1251-3-10-1,,dima1251-3,10,mazi,mazi,[],,['chan2019'],,False,False,,3
+dima1251-3-11-1,,dima1251-3,11,mazise,mazise,[],,['chan2019'],,False,False,,3
+dima1251-3-12-1,,dima1251-3,12,maziɡin,maziɡin,[],,['chan2019'],,False,False,,3
+dima1251-3-13-1,,dima1251-3,13,mazitʰam,mazitʰam,[],,['chan2019'],,False,False,,3
+dima1251-3-14-1,,dima1251-3,14,mazibri,mazibri,[],,['chan2019'],,False,False,,3
+dima1251-3-15-1,,dima1251-3,15,mazibuah,mazibuah,[],,['chan2019'],,False,False,,3
+dima1251-3-16-1,,dima1251-3,16,mazidoh,mazidoh,[],,['chan2019'],,False,False,,3
+dima1251-3-17-1,,dima1251-3,17,mazisini,mazisini,[],,['chan2019'],,False,False,,3
+dima1251-3-18-1,,dima1251-3,18,mazizai,mazizai,[],,['chan2019'],,False,False,,3
+dima1251-3-19-1,,dima1251-3,19,mazisukʰu,mazisukʰu,[],,['chan2019'],,False,False,,3
+dima1251-3-20-1,,dima1251-3,20,makʰon,makʰon,[],,['chan2019'],,False,False,,3
+dima1251-3-20-2,,dima1251-3,20,bisa,bisa,[],,['chan2019'],,False,False,,3
+dima1251-3-21-1,,dima1251-3,21,makʰonse,makʰonse,[],,['chan2019'],,False,False,,3
+dima1251-3-22-1,,dima1251-3,22,makʰonɡin,makʰonɡin,[],,['chan2019'],,False,False,,3
+dima1251-3-23-1,,dima1251-3,23,makʰontʰam,makʰontʰam,[],,['chan2019'],,False,False,,3
+dima1251-3-24-1,,dima1251-3,24,makʰonbri,makʰonbri,[],,['chan2019'],,False,False,,3
+dima1251-3-25-1,,dima1251-3,25,makʰonbuah,makʰonbuah,[],,['chan2019'],,False,False,,3
+dima1251-3-26-1,,dima1251-3,26,makʰondoh,makʰondoh,[],,['chan2019'],,False,False,,3
+dima1251-3-27-1,,dima1251-3,27,makʰonsini,makʰonsini,[],,['chan2019'],,False,False,,3
+dima1251-3-28-1,,dima1251-3,28,makʰonzai,makʰonzai,[],,['chan2019'],,False,False,,3
+dima1251-3-29-1,,dima1251-3,29,makʰonsukʰu,makʰonsukʰu,[],,['chan2019'],,False,False,,3
+dima1251-3-30-1,,dima1251-3,30,matʰimzi,matʰimzi,[],,['chan2019'],,False,False,,3
+dima1251-3-40-1,,dima1251-3,40,bisaɡin,bisaɡin,[],(20 x 2),['chan2019'],,False,False,,3
+dima1251-3-50-1,,dima1251-3,50,madan,madan,[],,['chan2019'],,False,False,,3
+dima1251-3-60-1,,dima1251-3,60,bisadoh,bisadoh,[],(20 x 3 ),['chan2019'],,False,False,,3
+dima1251-3-70-1,,dima1251-3,70,bisadoh mazi,bisadoh mazi,[],( 20 x 3+ 10 ),['chan2019'],,False,False,,3
+dima1251-3-80-1,,dima1251-3,80,bisabri,bisabri,[],(20 x 4 ),['chan2019'],,False,False,,3
+dima1251-3-90-1,,dima1251-3,90,bisabri mazi,bisabri mazi,[],( 20 x 4+ 10 ),['chan2019'],,False,False,,3
+dima1251-3-100-1,,dima1251-3,100,razasi,razasi,[],,['chan2019'],,False,False,,3
+dima1251-3-200-1,,dima1251-3,200,razaɡin,razaɡin,[],,['chan2019'],,False,False,,3
+dima1251-3-1000-1,,dima1251-3,1000,riziŋsi,riziŋsi,[],,['chan2019'],,False,False,,3
+dima1251-3-2000-1,,dima1251-3,2000,riziŋɡin,riziŋɡin,[],,['chan2019'],,False,False,,3

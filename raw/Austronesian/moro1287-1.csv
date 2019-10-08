@@ -1,52 +1,52 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-moro1287-1-1-1,,moro1287-1,1,meʔasa,meʔasa,[],,[],,False,False,,1
-moro1287-1-1-2,,moro1287-1,1,asa,asa,[],,[],,False,False,,1
-moro1287-1-2-1,,moro1287-1,2,orua,orua,[],,[],,False,False,,1
-moro1287-1-2-2,,moro1287-1,2,rua,rua,[],,[],,False,False,,1
-moro1287-1-3-1,,moro1287-1,3,otolu,otolu,[],,[],,False,False,,1
-moro1287-1-3-2,,moro1287-1,3,tolu,tolu,[],,[],,False,False,,1
-moro1287-1-4-1,,moro1287-1,4,opaa,opaa,[],,[],,False,False,,1
-moro1287-1-4-2,,moro1287-1,4,pato,pato,[],,[],,False,False,,1
-moro1287-1-5-1,,moro1287-1,5,olima,olima,[],,[],,False,False,,1
-moro1287-1-5-2,,moro1287-1,5,lima,lima,[],,[],,False,False,,1
-moro1287-1-6-1,,moro1287-1,6,onoo,onoo,[],,[],,False,False,,1
-moro1287-1-6-2,,moro1287-1,6,nomo,nomo,[],,[],,False,False,,1
-moro1287-1-7-1,,moro1287-1,7,opitu,opitu,[],,[],,False,False,,1
-moro1287-1-7-2,,moro1287-1,7,pitu,pitu,[],,[],,False,False,,1
-moro1287-1-8-1,,moro1287-1,8,hoalu,hoalu,[],,[],,False,False,,1
-moro1287-1-8-2,,moro1287-1,8,halu,halu,[],,[],,False,False,,1
-moro1287-1-9-1,,moro1287-1,9,osio,osio,[],,[],,False,False,,1
-moro1287-1-9-2,,moro1287-1,9,sio,sio,[],,[],,False,False,,1
-moro1287-1-10-1,,moro1287-1,10,hopulu,hopulu,[],,[],,False,False,,1
-moro1287-1-11-1,,moro1287-1,11,hopulu kaʔaso,hopulu kaʔaso,[],,[],,False,False,,1
-moro1287-1-12-1,,moro1287-1,12,hopulu kaʔoruo,hopulu kaʔoruo,[],,[],,False,False,,1
-moro1287-1-13-1,,moro1287-1,13,hopulu kaʔotolu,hopulu kaʔotolu,[],,[],,False,False,,1
-moro1287-1-14-1,,moro1287-1,14,hopulu kaʔopaa,hopulu kaʔopaa,[],,[],,False,False,,1
-moro1287-1-15-1,,moro1287-1,15,hopulu kaʔolima,hopulu kaʔolima,[],,[],,False,False,,1
-moro1287-1-16-1,,moro1287-1,16,hopulu kaʔonoo,hopulu kaʔonoo,[],,[],,False,False,,1
-moro1287-1-17-1,,moro1287-1,17,hopulu kaʔopitu,hopulu kaʔopitu,[],,[],,False,False,,1
-moro1287-1-18-1,,moro1287-1,18,hopulu kaʔhoalu,hopulu kaʔhoalu,[],,[],,False,False,,1
-moro1287-1-19-1,,moro1287-1,19,hopulu kaʔosio,hopulu kaʔosio,[],,[],,False,False,,1
-moro1287-1-20-1,,moro1287-1,20,ruapulu,ruapulu,[],,[],,False,False,,1
-moro1287-1-21-1,,moro1287-1,21,ruapulu kaʔasa,ruapulu kaʔasa,[],,[],,False,False,,1
-moro1287-1-22-1,,moro1287-1,22,ruapulu kaʔoruo,ruapulu kaʔoruo,[],,[],,False,False,,1
-moro1287-1-23-1,,moro1287-1,23,ruapulu kaʔotolu,ruapulu kaʔotolu,[],,[],,False,False,,1
-moro1287-1-24-1,,moro1287-1,24,ruapulu kaʔopaa,ruapulu kaʔopaa,[],,[],,False,False,,1
-moro1287-1-25-1,,moro1287-1,25,ruapulu kaʔolima,ruapulu kaʔolima,[],,[],,False,False,,1
-moro1287-1-26-1,,moro1287-1,26,ruapulu kaʔonoo,ruapulu kaʔonoo,[],,[],,False,False,,1
-moro1287-1-27-1,,moro1287-1,27,ruapulu kaʔopitu,ruapulu kaʔopitu,[],,[],,False,False,,1
-moro1287-1-28-1,,moro1287-1,28,ruapulu kaʔhoalu,ruapulu kaʔhoalu,[],,[],,False,False,,1
-moro1287-1-29-1,,moro1287-1,29,ruapulu kaʔosio,ruapulu kaʔosio,[],,[],,False,False,,1
-moro1287-1-30-1,,moro1287-1,30,tolupulu,tolupulu,[],,[],,False,False,,1
-moro1287-1-40-1,,moro1287-1,40,patopulu,patopulu,[],,[],,False,False,,1
-moro1287-1-50-1,,moro1287-1,50,limapulu,limapulu,[],,[],,False,False,,1
-moro1287-1-60-1,,moro1287-1,60,nomopulu,nomopulu,[],,[],,False,False,,1
-moro1287-1-70-1,,moro1287-1,70,pitupulu,pitupulu,[],,[],,False,False,,1
-moro1287-1-80-1,,moro1287-1,80,halupulu,halupulu,[],,[],,False,False,,1
-moro1287-1-90-1,,moro1287-1,90,siopulu,siopulu,[],,[],,False,False,,1
-moro1287-1-100-1,,moro1287-1,100,asa etu,asa etu,[],,[],,False,False,,1
-moro1287-1-200-1,,moro1287-1,200,rua etu,rua etu,[],,[],,False,False,,1
-moro1287-1-1000-1,,moro1287-1,1000,asa reβu,asa reβu,[],,[],,False,False,,1
-moro1287-1-1000-2,,moro1287-1,1000,asa soβu,asa soβu,[],,[],,False,False,,1
-moro1287-1-2000-1,,moro1287-1,2000,rua reβu,rua reβu,[],,[],,False,False,,1
-moro1287-1-2000-2,,moro1287-1,2000,rua soβu,rua soβu,[],,[],,False,False,,1
+moro1287-1-1-1,,moro1287-1,1,meʔasa,meʔasa,[],,['chan2019'],,False,False,,1
+moro1287-1-1-2,,moro1287-1,1,asa,asa,[],,['chan2019'],,False,False,,1
+moro1287-1-2-1,,moro1287-1,2,orua,orua,[],,['chan2019'],,False,False,,1
+moro1287-1-2-2,,moro1287-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+moro1287-1-3-1,,moro1287-1,3,otolu,otolu,[],,['chan2019'],,False,False,,1
+moro1287-1-3-2,,moro1287-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+moro1287-1-4-1,,moro1287-1,4,opaa,opaa,[],,['chan2019'],,False,False,,1
+moro1287-1-4-2,,moro1287-1,4,pato,pato,[],,['chan2019'],,False,False,,1
+moro1287-1-5-1,,moro1287-1,5,olima,olima,[],,['chan2019'],,False,False,,1
+moro1287-1-5-2,,moro1287-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+moro1287-1-6-1,,moro1287-1,6,onoo,onoo,[],,['chan2019'],,False,False,,1
+moro1287-1-6-2,,moro1287-1,6,nomo,nomo,[],,['chan2019'],,False,False,,1
+moro1287-1-7-1,,moro1287-1,7,opitu,opitu,[],,['chan2019'],,False,False,,1
+moro1287-1-7-2,,moro1287-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+moro1287-1-8-1,,moro1287-1,8,hoalu,hoalu,[],,['chan2019'],,False,False,,1
+moro1287-1-8-2,,moro1287-1,8,halu,halu,[],,['chan2019'],,False,False,,1
+moro1287-1-9-1,,moro1287-1,9,osio,osio,[],,['chan2019'],,False,False,,1
+moro1287-1-9-2,,moro1287-1,9,sio,sio,[],,['chan2019'],,False,False,,1
+moro1287-1-10-1,,moro1287-1,10,hopulu,hopulu,[],,['chan2019'],,False,False,,1
+moro1287-1-11-1,,moro1287-1,11,hopulu kaʔaso,hopulu kaʔaso,[],,['chan2019'],,False,False,,1
+moro1287-1-12-1,,moro1287-1,12,hopulu kaʔoruo,hopulu kaʔoruo,[],,['chan2019'],,False,False,,1
+moro1287-1-13-1,,moro1287-1,13,hopulu kaʔotolu,hopulu kaʔotolu,[],,['chan2019'],,False,False,,1
+moro1287-1-14-1,,moro1287-1,14,hopulu kaʔopaa,hopulu kaʔopaa,[],,['chan2019'],,False,False,,1
+moro1287-1-15-1,,moro1287-1,15,hopulu kaʔolima,hopulu kaʔolima,[],,['chan2019'],,False,False,,1
+moro1287-1-16-1,,moro1287-1,16,hopulu kaʔonoo,hopulu kaʔonoo,[],,['chan2019'],,False,False,,1
+moro1287-1-17-1,,moro1287-1,17,hopulu kaʔopitu,hopulu kaʔopitu,[],,['chan2019'],,False,False,,1
+moro1287-1-18-1,,moro1287-1,18,hopulu kaʔhoalu,hopulu kaʔhoalu,[],,['chan2019'],,False,False,,1
+moro1287-1-19-1,,moro1287-1,19,hopulu kaʔosio,hopulu kaʔosio,[],,['chan2019'],,False,False,,1
+moro1287-1-20-1,,moro1287-1,20,ruapulu,ruapulu,[],,['chan2019'],,False,False,,1
+moro1287-1-21-1,,moro1287-1,21,ruapulu kaʔasa,ruapulu kaʔasa,[],,['chan2019'],,False,False,,1
+moro1287-1-22-1,,moro1287-1,22,ruapulu kaʔoruo,ruapulu kaʔoruo,[],,['chan2019'],,False,False,,1
+moro1287-1-23-1,,moro1287-1,23,ruapulu kaʔotolu,ruapulu kaʔotolu,[],,['chan2019'],,False,False,,1
+moro1287-1-24-1,,moro1287-1,24,ruapulu kaʔopaa,ruapulu kaʔopaa,[],,['chan2019'],,False,False,,1
+moro1287-1-25-1,,moro1287-1,25,ruapulu kaʔolima,ruapulu kaʔolima,[],,['chan2019'],,False,False,,1
+moro1287-1-26-1,,moro1287-1,26,ruapulu kaʔonoo,ruapulu kaʔonoo,[],,['chan2019'],,False,False,,1
+moro1287-1-27-1,,moro1287-1,27,ruapulu kaʔopitu,ruapulu kaʔopitu,[],,['chan2019'],,False,False,,1
+moro1287-1-28-1,,moro1287-1,28,ruapulu kaʔhoalu,ruapulu kaʔhoalu,[],,['chan2019'],,False,False,,1
+moro1287-1-29-1,,moro1287-1,29,ruapulu kaʔosio,ruapulu kaʔosio,[],,['chan2019'],,False,False,,1
+moro1287-1-30-1,,moro1287-1,30,tolupulu,tolupulu,[],,['chan2019'],,False,False,,1
+moro1287-1-40-1,,moro1287-1,40,patopulu,patopulu,[],,['chan2019'],,False,False,,1
+moro1287-1-50-1,,moro1287-1,50,limapulu,limapulu,[],,['chan2019'],,False,False,,1
+moro1287-1-60-1,,moro1287-1,60,nomopulu,nomopulu,[],,['chan2019'],,False,False,,1
+moro1287-1-70-1,,moro1287-1,70,pitupulu,pitupulu,[],,['chan2019'],,False,False,,1
+moro1287-1-80-1,,moro1287-1,80,halupulu,halupulu,[],,['chan2019'],,False,False,,1
+moro1287-1-90-1,,moro1287-1,90,siopulu,siopulu,[],,['chan2019'],,False,False,,1
+moro1287-1-100-1,,moro1287-1,100,asa etu,asa etu,[],,['chan2019'],,False,False,,1
+moro1287-1-200-1,,moro1287-1,200,rua etu,rua etu,[],,['chan2019'],,False,False,,1
+moro1287-1-1000-1,,moro1287-1,1000,asa reβu,asa reβu,[],,['chan2019'],,False,False,,1
+moro1287-1-1000-2,,moro1287-1,1000,asa soβu,asa soβu,[],,['chan2019'],,False,False,,1
+moro1287-1-2000-1,,moro1287-1,2000,rua reβu,rua reβu,[],,['chan2019'],,False,False,,1
+moro1287-1-2000-2,,moro1287-1,2000,rua soβu,rua soβu,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pend1242-1-1-1,,pend1242-1,1,souŋ,souŋ,[],,[],,False,False,,1
-pend1242-1-2-1,,pend1242-1,2,doruo,doruo,[],,[],,False,False,,1
-pend1242-1-3-1,,pend1242-1,3,totolu,totolu,[],,[],,False,False,,1
-pend1242-1-4-1,,pend1242-1,4,raːpat,raːpat,[],,[],,False,False,,1
-pend1242-1-5-1,,pend1242-1,5,lelima,lelima,[],,[],,False,False,,1
-pend1242-1-6-1,,pend1242-1,6,roːnoŋ,roːnoŋ,[],,[],,False,False,,1
-pend1242-1-7-1,,pend1242-1,7,pepitu,pepitu,[],,[],,False,False,,1
-pend1242-1-8-1,,pend1242-1,8,oalu,oalu,[],,[],,False,False,,1
-pend1242-1-9-1,,pend1242-1,9,sesio,sesio,[],,[],,False,False,,1
-pend1242-1-10-1,,pend1242-1,10,sompulu,sompulu,[],,[],,False,False,,1
-pend1242-1-11-1,,pend1242-1,11,sompulu souŋ,sompulu souŋ,[],,[],,False,False,,1
-pend1242-1-12-1,,pend1242-1,12,sompulu dorua,sompulu dorua,[],,[],,False,False,,1
-pend1242-1-13-1,,pend1242-1,13,sompulu totolu,sompulu totolu,[],,[],,False,False,,1
-pend1242-1-14-1,,pend1242-1,14,sompulu raːpat,sompulu raːpat,[],,[],,False,False,,1
-pend1242-1-15-1,,pend1242-1,15,sompulu lelima,sompulu lelima,[],,[],,False,False,,1
-pend1242-1-16-1,,pend1242-1,16,sompulu roːnoŋ,sompulu roːnoŋ,[],,[],,False,False,,1
-pend1242-1-17-1,,pend1242-1,17,sompulu pepitu,sompulu pepitu,[],,[],,False,False,,1
-pend1242-1-18-1,,pend1242-1,18,sompulu oalu,sompulu oalu,[],,[],,False,False,,1
-pend1242-1-19-1,,pend1242-1,19,sompulu sesio,sompulu sesio,[],,[],,False,False,,1
-pend1242-1-20-1,,pend1242-1,20,ruompulu,ruompulu,[],,[],,False,False,,1
-pend1242-1-21-1,,pend1242-1,21,ruompulu souŋ,ruompulu souŋ,[],,[],,False,False,,1
-pend1242-1-22-1,,pend1242-1,22,ruompulu dorua,ruompulu dorua,[],,[],,False,False,,1
-pend1242-1-23-1,,pend1242-1,23,ruompulu totolu,ruompulu totolu,[],,[],,False,False,,1
-pend1242-1-24-1,,pend1242-1,24,ruompulu raːpat,ruompulu raːpat,[],,[],,False,False,,1
-pend1242-1-25-1,,pend1242-1,25,ruompulu lelima,ruompulu lelima,[],,[],,False,False,,1
-pend1242-1-26-1,,pend1242-1,26,ruompulu roːnoŋ,ruompulu roːnoŋ,[],,[],,False,False,,1
-pend1242-1-27-1,,pend1242-1,27,ruompulu pepitu,ruompulu pepitu,[],,[],,False,False,,1
-pend1242-1-28-1,,pend1242-1,28,ruompulu oalu,ruompulu oalu,[],,[],,False,False,,1
-pend1242-1-29-1,,pend1242-1,29,ruompulu sesio,ruompulu sesio,[],,[],,False,False,,1
-pend1242-1-30-1,,pend1242-1,30,tolumpulu,tolumpulu,[],,[],,False,False,,1
-pend1242-1-40-1,,pend1242-1,40,apampulu,apampulu,[],,[],,False,False,,1
-pend1242-1-50-1,,pend1242-1,50,limampulu,limampulu,[],,[],,False,False,,1
-pend1242-1-60-1,,pend1242-1,60,onompulu,onompulu,[],,[],,False,False,,1
-pend1242-1-70-1,,pend1242-1,70,(pe)pitumpulu,(pe)pitumpulu,[],,[],,False,False,,1
-pend1242-1-80-1,,pend1242-1,80,oalumpulu,oalumpulu,[],,[],,False,False,,1
-pend1242-1-90-1,,pend1242-1,90,(se)sesiompulu,(se)sesiompulu,[],,[],,False,False,,1
-pend1242-1-100-1,,pend1242-1,100,saɡatus,saɡatus,[],,[],,False,False,,1
-pend1242-1-200-1,,pend1242-1,200,ruoɡatus,ruoɡatus,[],,[],,False,False,,1
-pend1242-1-1000-1,,pend1242-1,1000,seribu,seribu,[],,[],,False,False,,1
-pend1242-1-2000-1,,pend1242-1,2000,ruoribu,ruoribu,[],,[],,False,False,,1
+pend1242-1-1-1,,pend1242-1,1,souŋ,souŋ,[],,['chan2019'],,False,False,,1
+pend1242-1-2-1,,pend1242-1,2,doruo,doruo,[],,['chan2019'],,False,False,,1
+pend1242-1-3-1,,pend1242-1,3,totolu,totolu,[],,['chan2019'],,False,False,,1
+pend1242-1-4-1,,pend1242-1,4,raːpat,raːpat,[],,['chan2019'],,False,False,,1
+pend1242-1-5-1,,pend1242-1,5,lelima,lelima,[],,['chan2019'],,False,False,,1
+pend1242-1-6-1,,pend1242-1,6,roːnoŋ,roːnoŋ,[],,['chan2019'],,False,False,,1
+pend1242-1-7-1,,pend1242-1,7,pepitu,pepitu,[],,['chan2019'],,False,False,,1
+pend1242-1-8-1,,pend1242-1,8,oalu,oalu,[],,['chan2019'],,False,False,,1
+pend1242-1-9-1,,pend1242-1,9,sesio,sesio,[],,['chan2019'],,False,False,,1
+pend1242-1-10-1,,pend1242-1,10,sompulu,sompulu,[],,['chan2019'],,False,False,,1
+pend1242-1-11-1,,pend1242-1,11,sompulu souŋ,sompulu souŋ,[],,['chan2019'],,False,False,,1
+pend1242-1-12-1,,pend1242-1,12,sompulu dorua,sompulu dorua,[],,['chan2019'],,False,False,,1
+pend1242-1-13-1,,pend1242-1,13,sompulu totolu,sompulu totolu,[],,['chan2019'],,False,False,,1
+pend1242-1-14-1,,pend1242-1,14,sompulu raːpat,sompulu raːpat,[],,['chan2019'],,False,False,,1
+pend1242-1-15-1,,pend1242-1,15,sompulu lelima,sompulu lelima,[],,['chan2019'],,False,False,,1
+pend1242-1-16-1,,pend1242-1,16,sompulu roːnoŋ,sompulu roːnoŋ,[],,['chan2019'],,False,False,,1
+pend1242-1-17-1,,pend1242-1,17,sompulu pepitu,sompulu pepitu,[],,['chan2019'],,False,False,,1
+pend1242-1-18-1,,pend1242-1,18,sompulu oalu,sompulu oalu,[],,['chan2019'],,False,False,,1
+pend1242-1-19-1,,pend1242-1,19,sompulu sesio,sompulu sesio,[],,['chan2019'],,False,False,,1
+pend1242-1-20-1,,pend1242-1,20,ruompulu,ruompulu,[],,['chan2019'],,False,False,,1
+pend1242-1-21-1,,pend1242-1,21,ruompulu souŋ,ruompulu souŋ,[],,['chan2019'],,False,False,,1
+pend1242-1-22-1,,pend1242-1,22,ruompulu dorua,ruompulu dorua,[],,['chan2019'],,False,False,,1
+pend1242-1-23-1,,pend1242-1,23,ruompulu totolu,ruompulu totolu,[],,['chan2019'],,False,False,,1
+pend1242-1-24-1,,pend1242-1,24,ruompulu raːpat,ruompulu raːpat,[],,['chan2019'],,False,False,,1
+pend1242-1-25-1,,pend1242-1,25,ruompulu lelima,ruompulu lelima,[],,['chan2019'],,False,False,,1
+pend1242-1-26-1,,pend1242-1,26,ruompulu roːnoŋ,ruompulu roːnoŋ,[],,['chan2019'],,False,False,,1
+pend1242-1-27-1,,pend1242-1,27,ruompulu pepitu,ruompulu pepitu,[],,['chan2019'],,False,False,,1
+pend1242-1-28-1,,pend1242-1,28,ruompulu oalu,ruompulu oalu,[],,['chan2019'],,False,False,,1
+pend1242-1-29-1,,pend1242-1,29,ruompulu sesio,ruompulu sesio,[],,['chan2019'],,False,False,,1
+pend1242-1-30-1,,pend1242-1,30,tolumpulu,tolumpulu,[],,['chan2019'],,False,False,,1
+pend1242-1-40-1,,pend1242-1,40,apampulu,apampulu,[],,['chan2019'],,False,False,,1
+pend1242-1-50-1,,pend1242-1,50,limampulu,limampulu,[],,['chan2019'],,False,False,,1
+pend1242-1-60-1,,pend1242-1,60,onompulu,onompulu,[],,['chan2019'],,False,False,,1
+pend1242-1-70-1,,pend1242-1,70,(pe)pitumpulu,(pe)pitumpulu,[],,['chan2019'],,False,False,,1
+pend1242-1-80-1,,pend1242-1,80,oalumpulu,oalumpulu,[],,['chan2019'],,False,False,,1
+pend1242-1-90-1,,pend1242-1,90,(se)sesiompulu,(se)sesiompulu,[],,['chan2019'],,False,False,,1
+pend1242-1-100-1,,pend1242-1,100,saɡatus,saɡatus,[],,['chan2019'],,False,False,,1
+pend1242-1-200-1,,pend1242-1,200,ruoɡatus,ruoɡatus,[],,['chan2019'],,False,False,,1
+pend1242-1-1000-1,,pend1242-1,1000,seribu,seribu,[],,['chan2019'],,False,False,,1
+pend1242-1-2000-1,,pend1242-1,2000,ruoribu,ruoribu,[],,['chan2019'],,False,False,,1

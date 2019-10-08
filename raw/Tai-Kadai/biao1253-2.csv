@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-biao1253-2-1-1,,biao1253-2,1,jat55,jat55,[],,[],,False,False,,1
-biao1253-2-2-1,,biao1253-2,2,ȵi22,ȵi22,[],,[],,False,False,,1
-biao1253-2-3-1,,biao1253-2,3,θaːm55,θaːm55,[],,[],,False,False,,1
-biao1253-2-4-1,,biao1253-2,4,θi35,θi35,[],,[],,False,False,,1
-biao1253-2-5-1,,biao1253-2,5,ŋ̩54,ŋ̩54,[],,[],,False,False,,1
-biao1253-2-6-1,,biao1253-2,6,suk55,suk55,[],,[],,False,False,,1
-biao1253-2-7-1,,biao1253-2,7,tʰat55,tʰat55,[],,[],,False,False,,1
-biao1253-2-8-1,,biao1253-2,8,paːt35,paːt35,[],,[],,False,False,,1
-biao1253-2-9-1,,biao1253-2,9,ku54,ku54,[],,[],,False,False,,1
-biao1253-2-10-1,,biao1253-2,10,sap12,sap12,[],,[],,False,False,,1
-biao1253-2-11-1,,biao1253-2,11,sap12jat55,sap12jat55,[],,[],,False,False,,1
-biao1253-2-12-1,,biao1253-2,12,sap12ȵi22,sap12ȵi22,[],,[],,False,False,,1
-biao1253-2-13-1,,biao1253-2,13,sap12θaːm55,sap12θaːm55,[],,[],,False,False,,1
-biao1253-2-14-1,,biao1253-2,14,sap12θi35,sap12θi35,[],,[],,False,False,,1
-biao1253-2-15-1,,biao1253-2,15,sap12ŋ̩54,sap12ŋ̩54,[],,[],,False,False,,1
-biao1253-2-16-1,,biao1253-2,16,sap12suk55,sap12suk55,[],,[],,False,False,,1
-biao1253-2-17-1,,biao1253-2,17,sap12tʰat55,sap12tʰat55,[],,[],,False,False,,1
-biao1253-2-18-1,,biao1253-2,18,sap12paːt35,sap12paːt35,[],,[],,False,False,,1
-biao1253-2-19-1,,biao1253-2,19,sap12ku54,sap12ku54,[],,[],,False,False,,1
-biao1253-2-20-1,,biao1253-2,20,ȵi22sap12,ȵi22sap12,[],,[],,False,False,,1
-biao1253-2-21-1,,biao1253-2,21,ȵi22sap12 jat55,ȵi22sap12 jat55,[],,[],,False,False,,1
-biao1253-2-22-1,,biao1253-2,22,ȵi22 sap12 ȵi22,ȵi22 sap12 ȵi22,[],,[],,False,False,,1
-biao1253-2-23-1,,biao1253-2,23,ȵi22 sap12 θaːm55,ȵi22 sap12 θaːm55,[],,[],,False,False,,1
-biao1253-2-24-1,,biao1253-2,24,ȵi22 sap12 θi35,ȵi22 sap12 θi35,[],,[],,False,False,,1
-biao1253-2-25-1,,biao1253-2,25,ȵi22 sap12 ŋ̩54,ȵi22 sap12 ŋ̩54,[],,[],,False,False,,1
-biao1253-2-26-1,,biao1253-2,26,ȵi22 sap12 suk55,ȵi22 sap12 suk55,[],,[],,False,False,,1
-biao1253-2-27-1,,biao1253-2,27,ȵi22 sap12 tʰat55,ȵi22 sap12 tʰat55,[],,[],,False,False,,1
-biao1253-2-28-1,,biao1253-2,28,ȵi22 sap12 paːt35,ȵi22 sap12 paːt35,[],,[],,False,False,,1
-biao1253-2-29-1,,biao1253-2,29,ȵi22 sap12 ku54,ȵi22 sap12 ku54,[],,[],,False,False,,1
-biao1253-2-30-1,,biao1253-2,30,θaːm55 sap12,θaːm55 sap12,[],,[],,False,False,,1
-biao1253-2-40-1,,biao1253-2,40,θi35 sap12,θi35 sap12,[],,[],,False,False,,1
-biao1253-2-50-1,,biao1253-2,50,ŋ̩54 sap12,ŋ̩54 sap12,[],,[],,False,False,,1
-biao1253-2-60-1,,biao1253-2,60,suk55 sap12,suk55 sap12,[],,[],,False,False,,1
-biao1253-2-70-1,,biao1253-2,70,tʰat55 sap12,tʰat55 sap12,[],,[],,False,False,,1
-biao1253-2-80-1,,biao1253-2,80,paːt35 sap12,paːt35 sap12,[],,[],,False,False,,1
-biao1253-2-90-1,,biao1253-2,90,ku54 sap12,ku54 sap12,[],,[],,False,False,,1
-biao1253-2-100-1,,biao1253-2,100,jat55 paːk35,jat55 paːk35,[],,[],,False,False,,1
-biao1253-2-200-1,,biao1253-2,200,ȵi22paːk35,ȵi22paːk35,[],,[],,False,False,,1
-biao1253-2-1000-1,,biao1253-2,1000,jat55 tʰɛːn54,jat55 tʰɛːn54,[],,[],,False,False,,1
-biao1253-2-2000-1,,biao1253-2,2000,ȵi22tʰɛːn54,ȵi22tʰɛːn54,[],,[],,False,False,,1
+biao1253-2-1-1,,biao1253-2,1,jat55,jat55,[],,['chan2019'],,False,False,,1
+biao1253-2-2-1,,biao1253-2,2,ȵi22,ȵi22,[],,['chan2019'],,False,False,,1
+biao1253-2-3-1,,biao1253-2,3,θaːm55,θaːm55,[],,['chan2019'],,False,False,,1
+biao1253-2-4-1,,biao1253-2,4,θi35,θi35,[],,['chan2019'],,False,False,,1
+biao1253-2-5-1,,biao1253-2,5,ŋ̩54,ŋ̩54,[],,['chan2019'],,False,False,,1
+biao1253-2-6-1,,biao1253-2,6,suk55,suk55,[],,['chan2019'],,False,False,,1
+biao1253-2-7-1,,biao1253-2,7,tʰat55,tʰat55,[],,['chan2019'],,False,False,,1
+biao1253-2-8-1,,biao1253-2,8,paːt35,paːt35,[],,['chan2019'],,False,False,,1
+biao1253-2-9-1,,biao1253-2,9,ku54,ku54,[],,['chan2019'],,False,False,,1
+biao1253-2-10-1,,biao1253-2,10,sap12,sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-11-1,,biao1253-2,11,sap12jat55,sap12jat55,[],,['chan2019'],,False,False,,1
+biao1253-2-12-1,,biao1253-2,12,sap12ȵi22,sap12ȵi22,[],,['chan2019'],,False,False,,1
+biao1253-2-13-1,,biao1253-2,13,sap12θaːm55,sap12θaːm55,[],,['chan2019'],,False,False,,1
+biao1253-2-14-1,,biao1253-2,14,sap12θi35,sap12θi35,[],,['chan2019'],,False,False,,1
+biao1253-2-15-1,,biao1253-2,15,sap12ŋ̩54,sap12ŋ̩54,[],,['chan2019'],,False,False,,1
+biao1253-2-16-1,,biao1253-2,16,sap12suk55,sap12suk55,[],,['chan2019'],,False,False,,1
+biao1253-2-17-1,,biao1253-2,17,sap12tʰat55,sap12tʰat55,[],,['chan2019'],,False,False,,1
+biao1253-2-18-1,,biao1253-2,18,sap12paːt35,sap12paːt35,[],,['chan2019'],,False,False,,1
+biao1253-2-19-1,,biao1253-2,19,sap12ku54,sap12ku54,[],,['chan2019'],,False,False,,1
+biao1253-2-20-1,,biao1253-2,20,ȵi22sap12,ȵi22sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-21-1,,biao1253-2,21,ȵi22sap12 jat55,ȵi22sap12 jat55,[],,['chan2019'],,False,False,,1
+biao1253-2-22-1,,biao1253-2,22,ȵi22 sap12 ȵi22,ȵi22 sap12 ȵi22,[],,['chan2019'],,False,False,,1
+biao1253-2-23-1,,biao1253-2,23,ȵi22 sap12 θaːm55,ȵi22 sap12 θaːm55,[],,['chan2019'],,False,False,,1
+biao1253-2-24-1,,biao1253-2,24,ȵi22 sap12 θi35,ȵi22 sap12 θi35,[],,['chan2019'],,False,False,,1
+biao1253-2-25-1,,biao1253-2,25,ȵi22 sap12 ŋ̩54,ȵi22 sap12 ŋ̩54,[],,['chan2019'],,False,False,,1
+biao1253-2-26-1,,biao1253-2,26,ȵi22 sap12 suk55,ȵi22 sap12 suk55,[],,['chan2019'],,False,False,,1
+biao1253-2-27-1,,biao1253-2,27,ȵi22 sap12 tʰat55,ȵi22 sap12 tʰat55,[],,['chan2019'],,False,False,,1
+biao1253-2-28-1,,biao1253-2,28,ȵi22 sap12 paːt35,ȵi22 sap12 paːt35,[],,['chan2019'],,False,False,,1
+biao1253-2-29-1,,biao1253-2,29,ȵi22 sap12 ku54,ȵi22 sap12 ku54,[],,['chan2019'],,False,False,,1
+biao1253-2-30-1,,biao1253-2,30,θaːm55 sap12,θaːm55 sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-40-1,,biao1253-2,40,θi35 sap12,θi35 sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-50-1,,biao1253-2,50,ŋ̩54 sap12,ŋ̩54 sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-60-1,,biao1253-2,60,suk55 sap12,suk55 sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-70-1,,biao1253-2,70,tʰat55 sap12,tʰat55 sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-80-1,,biao1253-2,80,paːt35 sap12,paːt35 sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-90-1,,biao1253-2,90,ku54 sap12,ku54 sap12,[],,['chan2019'],,False,False,,1
+biao1253-2-100-1,,biao1253-2,100,jat55 paːk35,jat55 paːk35,[],,['chan2019'],,False,False,,1
+biao1253-2-200-1,,biao1253-2,200,ȵi22paːk35,ȵi22paːk35,[],,['chan2019'],,False,False,,1
+biao1253-2-1000-1,,biao1253-2,1000,jat55 tʰɛːn54,jat55 tʰɛːn54,[],,['chan2019'],,False,False,,1
+biao1253-2-2000-1,,biao1253-2,2000,ȵi22tʰɛːn54,ȵi22tʰɛːn54,[],,['chan2019'],,False,False,,1

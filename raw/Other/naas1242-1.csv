@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-naas1242-1-1-1,,naas1242-1,1,naruŋ,naruŋ,[],,[],,False,False,,1
-naas1242-1-2-1,,naas1242-1,2,kenaːnka,kenaːnka,[],,[],,False,False,,1
-naas1242-1-3-1,,naas1242-1,3,beːnaumo,beːnaumo,[],,[],,False,False,,1
-naas1242-1-4-1,,naas1242-1,4,karenaumo,karenaumo,[],,[],,False,False,,1
-naas1242-1-5-1,,naas1242-1,5,paʔnokoʔ,paʔnokoʔ,[],,[],,False,False,,1
-naas1242-1-6-1,,naas1242-1,6,paʔnokoʔ keta naruŋ taː,paʔnokoʔ keta naruŋ taː,[],(5 + 1),[],,False,False,,1
-naas1242-1-7-1,,naas1242-1,7,paʔnokoʔ keta kenaːnka taː,paʔnokoʔ keta kenaːnka taː,[],(5 + 2),[],,False,False,,1
-naas1242-1-8-1,,naas1242-1,8,paʔnokoʔ keta beːnaumo taː,paʔnokoʔ keta beːnaumo taː,[],(5 + 3),[],,False,False,,1
-naas1242-1-9-1,,naas1242-1,9,paʔnokoʔ keta karenaumo taː,paʔnokoʔ keta karenaumo taː,[],(5 +4),[],,False,False,,1
-naas1242-1-10-1,,naas1242-1,10,kivora,kivora,[],,[],,False,False,,1
-naas1242-1-11-1,,naas1242-1,11,kivoraita naruŋ taː,kivoraita naruŋ taː,[],,[],,False,False,,1
-naas1242-1-12-1,,naas1242-1,12,kivoraita kenaːnka taː,kivoraita kenaːnka taː,[],,[],,False,False,,1
-naas1242-1-13-1,,naas1242-1,13,kivoraita beːnaumo taː,kivoraita beːnaumo taː,[],,[],,False,False,,1
-naas1242-1-14-1,,naas1242-1,14,kivoraita karenaumo taː,kivoraita karenaumo taː,[],,[],,False,False,,1
-naas1242-1-15-1,,naas1242-1,15,kivoraita paʔnokoʔ taː,kivoraita paʔnokoʔ taː,[],,[],,False,False,,1
-naas1242-1-16-1,,naas1242-1,16,kivoraita paʔnokoʔ keta naruŋ taː,kivoraita paʔnokoʔ keta naruŋ taː,[],,[],,False,False,,1
-naas1242-1-17-1,,naas1242-1,17,kivoraita paʔnokoʔ keta 2 taː,kivoraita paʔnokoʔ keta 2 taː,[],,[],,False,True,,1
-naas1242-1-18-1,,naas1242-1,18,kivoraita paʔnokoʔ keta 3 taː,kivoraita paʔnokoʔ keta 3 taː,[],,[],,False,True,,1
-naas1242-1-19-1,,naas1242-1,19,kivoraita paʔnokoʔ keta 4 taː,kivoraita paʔnokoʔ keta 4 taː,[],,[],,False,True,,1
-naas1242-1-20-1,,naas1242-1,20,kenaːnka kivora,kenaːnka kivora,[],,[],,False,False,,1
-naas1242-1-21-1,,naas1242-1,21,kenaːnka kivoraita naruŋ taː,kenaːnka kivoraita naruŋ taː,[],,[],,False,False,,1
-naas1242-1-22-1,,naas1242-1,22,kenaːnka kivoraita kenaːnka taː,kenaːnka kivoraita kenaːnka taː,[],,[],,False,False,,1
-naas1242-1-23-1,,naas1242-1,23,kenaːnka kivoraita beːnaumo taː,kenaːnka kivoraita beːnaumo taː,[],,[],,False,False,,1
-naas1242-1-24-1,,naas1242-1,24,kenaːnka kivoraita karenaumo taː,kenaːnka kivoraita karenaumo taː,[],,[],,False,False,,1
-naas1242-1-25-1,,naas1242-1,25,kenaːnka kivoraita paʔnokoʔ taː,kenaːnka kivoraita paʔnokoʔ taː,[],,[],,False,False,,1
-naas1242-1-26-1,,naas1242-1,26,kenaːnka kivoraita paʔnokoʔ keta 1 taː,kenaːnka kivoraita paʔnokoʔ keta 1 taː,[],,[],,False,True,,1
-naas1242-1-27-1,,naas1242-1,27,kenaːnka kivoraita paʔnokoʔ keta 2 taː,kenaːnka kivoraita paʔnokoʔ keta 2 taː,[],,[],,False,True,,1
-naas1242-1-28-1,,naas1242-1,28,kenaːnka kivoraita paʔnokoʔ keta 3 taː,kenaːnka kivoraita paʔnokoʔ keta 3 taː,[],,[],,False,True,,1
-naas1242-1-29-1,,naas1242-1,29,kenaːnka kivoraita paʔnokoʔ keta 4 taː,kenaːnka kivoraita paʔnokoʔ keta 4 taː,[],,[],,False,True,,1
-naas1242-1-30-1,,naas1242-1,30,beːnaumo kivora,beːnaumo kivora,[],,[],,False,False,,1
-naas1242-1-40-1,,naas1242-1,40,karenaumo kivora,karenaumo kivora,[],,[],,False,False,,1
-naas1242-1-50-1,,naas1242-1,50,paʔnokoʔ kivora,paʔnokoʔ kivora,[],,[],,False,False,,1
-naas1242-1-60-1,,naas1242-1,60,paʔnokoʔ keta naruŋ taː kivora,paʔnokoʔ keta naruŋ taː kivora,[],,[],,False,False,,1
-naas1242-1-70-1,,naas1242-1,70,paʔnokoʔ keta kenaːnka taː kivora,paʔnokoʔ keta kenaːnka taː kivora,[],,[],,False,False,,1
-naas1242-1-80-1,,naas1242-1,80,paʔnokoʔ keta beːnaumo taː kivora,paʔnokoʔ keta beːnaumo taː kivora,[],,[],,False,False,,1
-naas1242-1-90-1,,naas1242-1,90,paʔnokoʔ keta karenaumo taː kivora,paʔnokoʔ keta karenaumo taː kivora,[],,[],,False,False,,1
-naas1242-1-100-1,,naas1242-1,100,daːkuʔ,daːkuʔ,[],,[],,False,False,,1
-naas1242-1-100-2,,naas1242-1,100,naruŋ daːkuʔ,naruŋ daːkuʔ,[],,[],,False,False,,1
-naas1242-1-200-1,,naas1242-1,200,kenaːnka daːkuʔ,kenaːnka daːkuʔ,[],,[],,False,False,,1
-naas1242-1-1000-1,,naas1242-1,1000,naruŋ kokoreiʔ,naruŋ kokoreiʔ,[],,[],,False,False,,1
-naas1242-1-2000-1,,naas1242-1,2000,kenaːnka kokoreiʔ,kenaːnka kokoreiʔ,[],,[],,False,False,,1
+naas1242-1-1-1,,naas1242-1,1,naruŋ,naruŋ,[],,['chan2019'],,False,False,,1
+naas1242-1-2-1,,naas1242-1,2,kenaːnka,kenaːnka,[],,['chan2019'],,False,False,,1
+naas1242-1-3-1,,naas1242-1,3,beːnaumo,beːnaumo,[],,['chan2019'],,False,False,,1
+naas1242-1-4-1,,naas1242-1,4,karenaumo,karenaumo,[],,['chan2019'],,False,False,,1
+naas1242-1-5-1,,naas1242-1,5,paʔnokoʔ,paʔnokoʔ,[],,['chan2019'],,False,False,,1
+naas1242-1-6-1,,naas1242-1,6,paʔnokoʔ keta naruŋ taː,paʔnokoʔ keta naruŋ taː,[],(5 + 1),['chan2019'],,False,False,,1
+naas1242-1-7-1,,naas1242-1,7,paʔnokoʔ keta kenaːnka taː,paʔnokoʔ keta kenaːnka taː,[],(5 + 2),['chan2019'],,False,False,,1
+naas1242-1-8-1,,naas1242-1,8,paʔnokoʔ keta beːnaumo taː,paʔnokoʔ keta beːnaumo taː,[],(5 + 3),['chan2019'],,False,False,,1
+naas1242-1-9-1,,naas1242-1,9,paʔnokoʔ keta karenaumo taː,paʔnokoʔ keta karenaumo taː,[],(5 +4),['chan2019'],,False,False,,1
+naas1242-1-10-1,,naas1242-1,10,kivora,kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-11-1,,naas1242-1,11,kivoraita naruŋ taː,kivoraita naruŋ taː,[],,['chan2019'],,False,False,,1
+naas1242-1-12-1,,naas1242-1,12,kivoraita kenaːnka taː,kivoraita kenaːnka taː,[],,['chan2019'],,False,False,,1
+naas1242-1-13-1,,naas1242-1,13,kivoraita beːnaumo taː,kivoraita beːnaumo taː,[],,['chan2019'],,False,False,,1
+naas1242-1-14-1,,naas1242-1,14,kivoraita karenaumo taː,kivoraita karenaumo taː,[],,['chan2019'],,False,False,,1
+naas1242-1-15-1,,naas1242-1,15,kivoraita paʔnokoʔ taː,kivoraita paʔnokoʔ taː,[],,['chan2019'],,False,False,,1
+naas1242-1-16-1,,naas1242-1,16,kivoraita paʔnokoʔ keta naruŋ taː,kivoraita paʔnokoʔ keta naruŋ taː,[],,['chan2019'],,False,False,,1
+naas1242-1-17-1,,naas1242-1,17,kivoraita paʔnokoʔ keta 2 taː,kivoraita paʔnokoʔ keta 2 taː,[],,['chan2019'],,False,True,,1
+naas1242-1-18-1,,naas1242-1,18,kivoraita paʔnokoʔ keta 3 taː,kivoraita paʔnokoʔ keta 3 taː,[],,['chan2019'],,False,True,,1
+naas1242-1-19-1,,naas1242-1,19,kivoraita paʔnokoʔ keta 4 taː,kivoraita paʔnokoʔ keta 4 taː,[],,['chan2019'],,False,True,,1
+naas1242-1-20-1,,naas1242-1,20,kenaːnka kivora,kenaːnka kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-21-1,,naas1242-1,21,kenaːnka kivoraita naruŋ taː,kenaːnka kivoraita naruŋ taː,[],,['chan2019'],,False,False,,1
+naas1242-1-22-1,,naas1242-1,22,kenaːnka kivoraita kenaːnka taː,kenaːnka kivoraita kenaːnka taː,[],,['chan2019'],,False,False,,1
+naas1242-1-23-1,,naas1242-1,23,kenaːnka kivoraita beːnaumo taː,kenaːnka kivoraita beːnaumo taː,[],,['chan2019'],,False,False,,1
+naas1242-1-24-1,,naas1242-1,24,kenaːnka kivoraita karenaumo taː,kenaːnka kivoraita karenaumo taː,[],,['chan2019'],,False,False,,1
+naas1242-1-25-1,,naas1242-1,25,kenaːnka kivoraita paʔnokoʔ taː,kenaːnka kivoraita paʔnokoʔ taː,[],,['chan2019'],,False,False,,1
+naas1242-1-26-1,,naas1242-1,26,kenaːnka kivoraita paʔnokoʔ keta 1 taː,kenaːnka kivoraita paʔnokoʔ keta 1 taː,[],,['chan2019'],,False,True,,1
+naas1242-1-27-1,,naas1242-1,27,kenaːnka kivoraita paʔnokoʔ keta 2 taː,kenaːnka kivoraita paʔnokoʔ keta 2 taː,[],,['chan2019'],,False,True,,1
+naas1242-1-28-1,,naas1242-1,28,kenaːnka kivoraita paʔnokoʔ keta 3 taː,kenaːnka kivoraita paʔnokoʔ keta 3 taː,[],,['chan2019'],,False,True,,1
+naas1242-1-29-1,,naas1242-1,29,kenaːnka kivoraita paʔnokoʔ keta 4 taː,kenaːnka kivoraita paʔnokoʔ keta 4 taː,[],,['chan2019'],,False,True,,1
+naas1242-1-30-1,,naas1242-1,30,beːnaumo kivora,beːnaumo kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-40-1,,naas1242-1,40,karenaumo kivora,karenaumo kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-50-1,,naas1242-1,50,paʔnokoʔ kivora,paʔnokoʔ kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-60-1,,naas1242-1,60,paʔnokoʔ keta naruŋ taː kivora,paʔnokoʔ keta naruŋ taː kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-70-1,,naas1242-1,70,paʔnokoʔ keta kenaːnka taː kivora,paʔnokoʔ keta kenaːnka taː kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-80-1,,naas1242-1,80,paʔnokoʔ keta beːnaumo taː kivora,paʔnokoʔ keta beːnaumo taː kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-90-1,,naas1242-1,90,paʔnokoʔ keta karenaumo taː kivora,paʔnokoʔ keta karenaumo taː kivora,[],,['chan2019'],,False,False,,1
+naas1242-1-100-1,,naas1242-1,100,daːkuʔ,daːkuʔ,[],,['chan2019'],,False,False,,1
+naas1242-1-100-2,,naas1242-1,100,naruŋ daːkuʔ,naruŋ daːkuʔ,[],,['chan2019'],,False,False,,1
+naas1242-1-200-1,,naas1242-1,200,kenaːnka daːkuʔ,kenaːnka daːkuʔ,[],,['chan2019'],,False,False,,1
+naas1242-1-1000-1,,naas1242-1,1000,naruŋ kokoreiʔ,naruŋ kokoreiʔ,[],,['chan2019'],,False,False,,1
+naas1242-1-2000-1,,naas1242-1,2000,kenaːnka kokoreiʔ,kenaːnka kokoreiʔ,[],,['chan2019'],,False,False,,1

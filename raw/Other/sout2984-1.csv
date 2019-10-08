@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sout2984-1-1-1,,sout2984-1,1,tʃʼaːʔa,tʃʼaːʔa,[],,[],,False,False,,1
-sout2984-1-2-1,,sout2984-1,2,ʔakʰːo,ʔakʰːo,[],,[],,False,False,,1
-sout2984-1-3-1,,sout2984-1,3,misːibo,misːibo,[],,[],,False,False,,1
-sout2984-1-4-1,,sout2984-1,4,mihtʃa,mihtʃa,[],,[],,False,False,,1
-sout2984-1-5-1,,sout2984-1,5,t̩uːʃo t,t̩uːʃo t,[],,[],,False,False,,1
-sout2984-1-6-1,,sout2984-1,6,/lad-/ 'five'(arch.?) +tʃʼaːʔa,lad-,[],,[],,False,True,lantʃʼa,1
-sout2984-1-6-2,,sout2984-1,6,/lad-/ 'five'(arch.?) +tʃʼaːʔa,'five'(arch.?) +tʃʼaːʔa,[],,[],,False,True,lantʃʼa,1
-sout2984-1-7-1,,sout2984-1,7,/lad-/ 'five' (arch.?) +ʔakʰːo,lad-,[],,[],,False,True,lat̩kʰo,1
-sout2984-1-7-2,,sout2984-1,7,/lad-/ 'five' (arch.?) +ʔakʰːo,'five' (arch.?) +ʔakʰːo,[],,[],,False,True,lat̩kʰo,1
-sout2984-1-8-1,,sout2984-1,8,ʔakʰːo +mihtʃa 'four',ʔakʰːo +mihtʃa 'four',[],,[],,False,True,kʰomhtʃa,1
-sout2984-1-100-1,,sout2984-1,100,seːnt̪u,seːnt̪u,[],( < Spanish ''ciento''),[],,True,False,,1
+sout2984-1-1-1,,sout2984-1,1,tʃʼaːʔa,tʃʼaːʔa,[],,['chan2019'],,False,False,,1
+sout2984-1-2-1,,sout2984-1,2,ʔakʰːo,ʔakʰːo,[],,['chan2019'],,False,False,,1
+sout2984-1-3-1,,sout2984-1,3,misːibo,misːibo,[],,['chan2019'],,False,False,,1
+sout2984-1-4-1,,sout2984-1,4,mihtʃa,mihtʃa,[],,['chan2019'],,False,False,,1
+sout2984-1-5-1,,sout2984-1,5,t̩uːʃo t,t̩uːʃo t,[],,['chan2019'],,False,False,,1
+sout2984-1-6-1,,sout2984-1,6,/lad-/ 'five'(arch.?) +tʃʼaːʔa,lad-,[],,['chan2019'],,False,True,lantʃʼa,1
+sout2984-1-6-2,,sout2984-1,6,/lad-/ 'five'(arch.?) +tʃʼaːʔa,'five'(arch.?) +tʃʼaːʔa,[],,['chan2019'],,False,True,lantʃʼa,1
+sout2984-1-7-1,,sout2984-1,7,/lad-/ 'five' (arch.?) +ʔakʰːo,lad-,[],,['chan2019'],,False,True,lat̩kʰo,1
+sout2984-1-7-2,,sout2984-1,7,/lad-/ 'five' (arch.?) +ʔakʰːo,'five' (arch.?) +ʔakʰːo,[],,['chan2019'],,False,True,lat̩kʰo,1
+sout2984-1-8-1,,sout2984-1,8,ʔakʰːo +mihtʃa 'four',ʔakʰːo +mihtʃa 'four',[],,['chan2019'],,False,True,kʰomhtʃa,1
+sout2984-1-100-1,,sout2984-1,100,seːnt̪u,seːnt̪u,[],( < Spanish ''ciento''),['chan2019'],,True,False,,1

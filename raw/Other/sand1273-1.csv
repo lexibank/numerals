@@ -1,36 +1,36 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sand1273-1-1-1,,sand1273-1,1,tsʼéxì̥-è,tsʼéxì̥-è,[],,[],,False,False,,1
-sand1273-1-2-1,,sand1273-1,2,kísò-xì̥,kísò-xì̥,[],,[],,False,False,,1
-sand1273-1-3-1,,sand1273-1,3,sʷámkí-xì̥,sʷámkí-xì̥,[],,[],,False,False,,1
-sand1273-1-4-1,,sand1273-1,4,hàká-xì̥,hàká-xì̥,[],,[],,False,False,,1
-sand1273-1-5-1,,sand1273-1,5,kʷàʔḁ̀ná,kʷàʔḁ̀ná,[],,[],,False,False,,1
-sand1273-1-6-1,,sand1273-1,6,kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,[],( 5 + 1 ),[],,False,False,,1
-sand1273-1-7-1,,sand1273-1,7,kʷàʔḁ̀ná dáːndà kísò-xì̥,kʷàʔḁ̀ná dáːndà kísò-xì̥,[],( 5 + 2 ),[],,False,False,,1
-sand1273-1-8-1,,sand1273-1,8,kʷàʔḁ̀ná dáːndà sʷámkí-xì̥,kʷàʔḁ̀ná dáːndà sʷámkí-xì̥,[],( 5 + 3 ),[],,False,False,,1
-sand1273-1-9-1,,sand1273-1,9,kʷàʔḁ̀ná dáːndà hàká-xì̥,kʷàʔḁ̀ná dáːndà hàká-xì̥,[],( 5 + 4 ),[],,False,False,,1
-sand1273-1-10-1,,sand1273-1,10,kóm̀,kóm̀,[],,[],,False,False,,1
-sand1273-1-11-1,,sand1273-1,11,kóm̀ dáːndà tsʼéxì̥-è,kóm̀ dáːndà tsʼéxì̥-è,[],,[],,False,False,,1
-sand1273-1-12-1,,sand1273-1,12,kóm̀ dáːndà kísò-xi,kóm̀ dáːndà kísò-xi,[],,[],,False,False,,1
-sand1273-1-13-1,,sand1273-1,13,kóm̀ dáːndà sʷámkí-xì̥,kóm̀ dáːndà sʷámkí-xì̥,[],,[],,False,False,,1
-sand1273-1-14-1,,sand1273-1,14,kóm̀ dáːndà hàká-xì̥,kóm̀ dáːndà hàká-xì̥,[],,[],,False,False,,1
-sand1273-1-15-1,,sand1273-1,15,kóm̀ dáːndà kʷàʔḁ̀ná,kóm̀ dáːndà kʷàʔḁ̀ná,[],,[],,False,False,,1
-sand1273-1-16-1,,sand1273-1,16,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,[],,[],,False,False,,1
-sand1273-1-17-1,,sand1273-1,17,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà kísò-xì̥,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà kísò-xì̥,[],,[],,False,False,,1
-sand1273-1-18-1,,sand1273-1,18,kóm̀ dáːndà + 7,kóm̀ dáːndà + 7,[],,[],,False,True,,1
-sand1273-1-19-1,,sand1273-1,19,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà hàká-xì̥,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà hàká-xì̥,[],,[],,False,False,,1
-sand1273-1-20-1,,sand1273-1,20,kóm̀ kísò-xì̥,kóm̀ kísò-xì̥,[],,[],,False,False,,1
-sand1273-1-21-1,,sand1273-1,21,kóm(u) kísò-xin dáːndà tsʼéxì̥-è,kóm(u) kísò-xin dáːndà tsʼéxì̥-è,[],,[],,False,False,,1
-sand1273-1-22-1,,sand1273-1,22,kóm(u) kísò-xìn dáːndà kísò-xi,kóm(u) kísò-xìn dáːndà kísò-xi,[],,[],,False,False,,1
-sand1273-1-23-1,,sand1273-1,23,kóm(u) kísò-xìn dáːndà sʷámkí-xì̥,kóm(u) kísò-xìn dáːndà sʷámkí-xì̥,[],,[],,False,False,,1
-sand1273-1-24-1,,sand1273-1,24,kóm(u) kísò-xìn dáːndà hàká-xì̥,kóm(u) kísò-xìn dáːndà hàká-xì̥,[],,[],,False,False,,1
-sand1273-1-26-1,,sand1273-1,26,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 1,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 1,[],,[],,False,True,,1
-sand1273-1-27-1,,sand1273-1,27,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 2,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 2,[],,[],,False,True,,1
-sand1273-1-30-1,,sand1273-1,30,kóm̀ sʷámkí-xì̥,kóm̀ sʷámkí-xì̥,[],,[],,False,False,,1
-sand1273-1-40-1,,sand1273-1,40,kóm̀ hàká-xì̥,kóm̀ hàká-xì̥,[],,[],,False,False,,1
-sand1273-1-50-1,,sand1273-1,50,kóm̀ kʷàʔḁ̀ná,kóm̀ kʷàʔḁ̀ná,[],,[],,False,False,,1
-sand1273-1-60-1,,sand1273-1,60,kóm̀ kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,kóm̀ kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,[],,[],,False,False,,1
-sand1273-1-70-1,,sand1273-1,70,kóm̀ kʷàʔḁ̀ná dáːndà kísò-xì̥,kóm̀ kʷàʔḁ̀ná dáːndà kísò-xì̥,[],,[],,False,False,,1
-sand1273-1-80-1,,sand1273-1,80,kóm̀ kʷàʔḁ̀ná dáːndà sʷámkí-xi,kóm̀ kʷàʔḁ̀ná dáːndà sʷámkí-xi,[],,[],,False,False,,1
-sand1273-1-90-1,,sand1273-1,90,kóm̀ kʷàʔḁ̀ná dáːndà hàká-xì̥,kóm̀ kʷàʔḁ̀ná dáːndà hàká-xì̥,[],,[],,False,False,,1
-sand1273-1-100-1,,sand1273-1,100,kom(u) kom(u),kom(u) kom(u),[],,[],,False,False,,1
-sand1273-1-100-2,,sand1273-1,100,mia,mia,[],( Swahili),[],,False,False,,1
+sand1273-1-1-1,,sand1273-1,1,tsʼéxì̥-è,tsʼéxì̥-è,[],,['chan2019'],,False,False,,1
+sand1273-1-2-1,,sand1273-1,2,kísò-xì̥,kísò-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-3-1,,sand1273-1,3,sʷámkí-xì̥,sʷámkí-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-4-1,,sand1273-1,4,hàká-xì̥,hàká-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-5-1,,sand1273-1,5,kʷàʔḁ̀ná,kʷàʔḁ̀ná,[],,['chan2019'],,False,False,,1
+sand1273-1-6-1,,sand1273-1,6,kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,[],( 5 + 1 ),['chan2019'],,False,False,,1
+sand1273-1-7-1,,sand1273-1,7,kʷàʔḁ̀ná dáːndà kísò-xì̥,kʷàʔḁ̀ná dáːndà kísò-xì̥,[],( 5 + 2 ),['chan2019'],,False,False,,1
+sand1273-1-8-1,,sand1273-1,8,kʷàʔḁ̀ná dáːndà sʷámkí-xì̥,kʷàʔḁ̀ná dáːndà sʷámkí-xì̥,[],( 5 + 3 ),['chan2019'],,False,False,,1
+sand1273-1-9-1,,sand1273-1,9,kʷàʔḁ̀ná dáːndà hàká-xì̥,kʷàʔḁ̀ná dáːndà hàká-xì̥,[],( 5 + 4 ),['chan2019'],,False,False,,1
+sand1273-1-10-1,,sand1273-1,10,kóm̀,kóm̀,[],,['chan2019'],,False,False,,1
+sand1273-1-11-1,,sand1273-1,11,kóm̀ dáːndà tsʼéxì̥-è,kóm̀ dáːndà tsʼéxì̥-è,[],,['chan2019'],,False,False,,1
+sand1273-1-12-1,,sand1273-1,12,kóm̀ dáːndà kísò-xi,kóm̀ dáːndà kísò-xi,[],,['chan2019'],,False,False,,1
+sand1273-1-13-1,,sand1273-1,13,kóm̀ dáːndà sʷámkí-xì̥,kóm̀ dáːndà sʷámkí-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-14-1,,sand1273-1,14,kóm̀ dáːndà hàká-xì̥,kóm̀ dáːndà hàká-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-15-1,,sand1273-1,15,kóm̀ dáːndà kʷàʔḁ̀ná,kóm̀ dáːndà kʷàʔḁ̀ná,[],,['chan2019'],,False,False,,1
+sand1273-1-16-1,,sand1273-1,16,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,[],,['chan2019'],,False,False,,1
+sand1273-1-17-1,,sand1273-1,17,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà kísò-xì̥,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà kísò-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-18-1,,sand1273-1,18,kóm̀ dáːndà + 7,kóm̀ dáːndà + 7,[],,['chan2019'],,False,True,,1
+sand1273-1-19-1,,sand1273-1,19,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà hàká-xì̥,kóm̀ dáːndà kʷàʔḁ̀ná dáːndà hàká-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-20-1,,sand1273-1,20,kóm̀ kísò-xì̥,kóm̀ kísò-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-21-1,,sand1273-1,21,kóm(u) kísò-xin dáːndà tsʼéxì̥-è,kóm(u) kísò-xin dáːndà tsʼéxì̥-è,[],,['chan2019'],,False,False,,1
+sand1273-1-22-1,,sand1273-1,22,kóm(u) kísò-xìn dáːndà kísò-xi,kóm(u) kísò-xìn dáːndà kísò-xi,[],,['chan2019'],,False,False,,1
+sand1273-1-23-1,,sand1273-1,23,kóm(u) kísò-xìn dáːndà sʷámkí-xì̥,kóm(u) kísò-xìn dáːndà sʷámkí-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-24-1,,sand1273-1,24,kóm(u) kísò-xìn dáːndà hàká-xì̥,kóm(u) kísò-xìn dáːndà hàká-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-26-1,,sand1273-1,26,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 1,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 1,[],,['chan2019'],,False,True,,1
+sand1273-1-27-1,,sand1273-1,27,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 2,kóm(u) kísò-xìn ni kʷàʔḁ̀ná dáːndà + 2,[],,['chan2019'],,False,True,,1
+sand1273-1-30-1,,sand1273-1,30,kóm̀ sʷámkí-xì̥,kóm̀ sʷámkí-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-40-1,,sand1273-1,40,kóm̀ hàká-xì̥,kóm̀ hàká-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-50-1,,sand1273-1,50,kóm̀ kʷàʔḁ̀ná,kóm̀ kʷàʔḁ̀ná,[],,['chan2019'],,False,False,,1
+sand1273-1-60-1,,sand1273-1,60,kóm̀ kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,kóm̀ kʷàʔḁ̀ná dáːndà tsʼéxì̥-è,[],,['chan2019'],,False,False,,1
+sand1273-1-70-1,,sand1273-1,70,kóm̀ kʷàʔḁ̀ná dáːndà kísò-xì̥,kóm̀ kʷàʔḁ̀ná dáːndà kísò-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-80-1,,sand1273-1,80,kóm̀ kʷàʔḁ̀ná dáːndà sʷámkí-xi,kóm̀ kʷàʔḁ̀ná dáːndà sʷámkí-xi,[],,['chan2019'],,False,False,,1
+sand1273-1-90-1,,sand1273-1,90,kóm̀ kʷàʔḁ̀ná dáːndà hàká-xì̥,kóm̀ kʷàʔḁ̀ná dáːndà hàká-xì̥,[],,['chan2019'],,False,False,,1
+sand1273-1-100-1,,sand1273-1,100,kom(u) kom(u),kom(u) kom(u),[],,['chan2019'],,False,False,,1
+sand1273-1-100-2,,sand1273-1,100,mia,mia,[],( Swahili),['chan2019'],,False,False,,1

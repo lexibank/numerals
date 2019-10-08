@@ -1,46 +1,46 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bedi1235-1-1-1,,bedi1235-1,1,riye,riye,[],,[],,False,False,,1
-bedi1235-1-1-2,,bedi1235-1,1,diye,diye,[],,[],,False,False,,1
-bedi1235-1-1-3,,bedi1235-1,1,iye,iye,[],,[],,False,False,,1
-bedi1235-1-2-1,,bedi1235-1,2,xi,xi,[],,[],,False,False,,1
-bedi1235-1-2-2,,bedi1235-1,2,ki,ki,[],,[],,False,False,,1
-bedi1235-1-3-1,,bedi1235-1,3,sas,sas,[],,[],,False,False,,1
-bedi1235-1-3-2,,bedi1235-1,3,tas,tas,[],,[],,False,False,,1
-bedi1235-1-4-1,,bedi1235-1,4,maxala,maxala,[],,[],,False,False,,1
-bedi1235-1-4-2,,bedi1235-1,4,maxana,maxana,[],,[],,False,False,,1
-bedi1235-1-5-1,,bedi1235-1,5,co,co,[],(nje),[],,False,False,,1
-bedi1235-1-6-1,,bedi1235-1,6,co nɡə iye,co nɡə iye,[],( 5 + 1 ),[],,False,False,,1
-bedi1235-1-7-1,,bedi1235-1,7,co nɡə xi,co nɡə xi,[],( 5 + 2 ),[],,False,False,,1
-bedi1235-1-8-1,,bedi1235-1,8,co nɡə sas,co nɡə sas,[],( 5 + 3 ),[],,False,False,,1
-bedi1235-1-9-1,,bedi1235-1,9,co nɡə maxala,co nɡə maxala,[],( 5 + 4 ),[],,False,False,,1
-bedi1235-1-10-1,,bedi1235-1,10,ipox,ipox,[],,[],,False,False,,1
-bedi1235-1-11-1,,bedi1235-1,11,ipox ɡə riye,ipox ɡə riye,[],,[],,False,False,,1
-bedi1235-1-12-1,,bedi1235-1,12,ipox ɡə xi,ipox ɡə xi,[],,[],,False,False,,1
-bedi1235-1-13-1,,bedi1235-1,13,ipox ɡə sas,ipox ɡə sas,[],,[],,False,False,,1
-bedi1235-1-14-1,,bedi1235-1,14,ipox ɡə maxala,ipox ɡə maxala,[],,[],,False,False,,1
-bedi1235-1-15-1,,bedi1235-1,15,ipox ɡə co,ipox ɡə co,[],(njo),[],,False,False,,1
-bedi1235-1-16-1,,bedi1235-1,16,ipox ɡə co nɡə rye,ipox ɡə co nɡə rye,[],,[],,False,False,,1
-bedi1235-1-17-1,,bedi1235-1,17,ipox ɡə co nɡə xi,ipox ɡə co nɡə xi,[],,[],,False,False,,1
-bedi1235-1-18-1,,bedi1235-1,18,ipox ɡə co nɡə sas,ipox ɡə co nɡə sas,[],,[],,False,False,,1
-bedi1235-1-19-1,,bedi1235-1,19,ipox ɡə co nɡə maxala,ipox ɡə co nɡə maxala,[],,[],,False,False,,1
-bedi1235-1-20-1,,bedi1235-1,20,maɸo maxi,maɸo maxi,[],,[],,False,False,,1
-bedi1235-1-21-1,,bedi1235-1,21,maɸo maxi nɡə riye,maɸo maxi nɡə riye,[],,[],,False,False,,1
-bedi1235-1-22-1,,bedi1235-1,22,maɸo maxi nɡə xi,maɸo maxi nɡə xi,[],,[],,False,False,,1
-bedi1235-1-23-1,,bedi1235-1,23,maɸo maxi nɡə sas,maɸo maxi nɡə sas,[],,[],,False,False,,1
-bedi1235-1-24-1,,bedi1235-1,24,maɸo maxi nɡə maxala,maɸo maxi nɡə maxala,[],,[],,False,False,,1
-bedi1235-1-25-1,,bedi1235-1,25,maɸo maxi nɡə co,maɸo maxi nɡə co,[],,[],,False,False,,1
-bedi1235-1-26-1,,bedi1235-1,26,maɸo maxi nɡə co nɡə riye,maɸo maxi nɡə co nɡə riye,[],,[],,False,False,,1
-bedi1235-1-27-1,,bedi1235-1,27,maɸo maxi nɡə co nɡə xi,maɸo maxi nɡə co nɡə xi,[],,[],,False,False,,1
-bedi1235-1-28-1,,bedi1235-1,28,maɸo maxi nɡə co nɡə sas,maɸo maxi nɡə co nɡə sas,[],,[],,False,False,,1
-bedi1235-1-29-1,,bedi1235-1,29,maɸo maxi nɡə co nɡə maxala,maɸo maxi nɡə co nɡə maxala,[],,[],,False,False,,1
-bedi1235-1-30-1,,bedi1235-1,30,iɸox sas,iɸox sas,[],,[],,False,False,,1
-bedi1235-1-40-1,,bedi1235-1,40,iɸox maxala,iɸox maxala,[],,[],,False,False,,1
-bedi1235-1-50-1,,bedi1235-1,50,iɸox co,iɸox co,[],,[],,False,False,,1
-bedi1235-1-60-1,,bedi1235-1,60,iɸox co nɡə iye,iɸox co nɡə iye,[],,[],,False,False,,1
-bedi1235-1-70-1,,bedi1235-1,70,iɸox co nɡə maxi,iɸox co nɡə maxi,[],,[],,False,False,,1
-bedi1235-1-80-1,,bedi1235-1,80,iɸox co nɡə masas,iɸox co nɡə masas,[],,[],,False,False,,1
-bedi1235-1-90-1,,bedi1235-1,90,iɸox co nɡə maxala,iɸox co nɡə maxala,[],,[],,False,False,,1
-bedi1235-1-100-1,,bedi1235-1,100,keme,keme,[],,[],,False,False,,1
-bedi1235-1-200-1,,bedi1235-1,200,keme xi,keme xi,[],,[],,False,False,,1
-bedi1235-1-1000-1,,bedi1235-1,1000,wuli,wuli,[],( < Pulaar ),[],,True,False,,1
-bedi1235-1-2000-1,,bedi1235-1,2000,wuli xi,wuli xi,[],,[],,False,False,,1
+bedi1235-1-1-1,,bedi1235-1,1,riye,riye,[],,['chan2019'],,False,False,,1
+bedi1235-1-1-2,,bedi1235-1,1,diye,diye,[],,['chan2019'],,False,False,,1
+bedi1235-1-1-3,,bedi1235-1,1,iye,iye,[],,['chan2019'],,False,False,,1
+bedi1235-1-2-1,,bedi1235-1,2,xi,xi,[],,['chan2019'],,False,False,,1
+bedi1235-1-2-2,,bedi1235-1,2,ki,ki,[],,['chan2019'],,False,False,,1
+bedi1235-1-3-1,,bedi1235-1,3,sas,sas,[],,['chan2019'],,False,False,,1
+bedi1235-1-3-2,,bedi1235-1,3,tas,tas,[],,['chan2019'],,False,False,,1
+bedi1235-1-4-1,,bedi1235-1,4,maxala,maxala,[],,['chan2019'],,False,False,,1
+bedi1235-1-4-2,,bedi1235-1,4,maxana,maxana,[],,['chan2019'],,False,False,,1
+bedi1235-1-5-1,,bedi1235-1,5,co,co,[],(nje),['chan2019'],,False,False,,1
+bedi1235-1-6-1,,bedi1235-1,6,co nɡə iye,co nɡə iye,[],( 5 + 1 ),['chan2019'],,False,False,,1
+bedi1235-1-7-1,,bedi1235-1,7,co nɡə xi,co nɡə xi,[],( 5 + 2 ),['chan2019'],,False,False,,1
+bedi1235-1-8-1,,bedi1235-1,8,co nɡə sas,co nɡə sas,[],( 5 + 3 ),['chan2019'],,False,False,,1
+bedi1235-1-9-1,,bedi1235-1,9,co nɡə maxala,co nɡə maxala,[],( 5 + 4 ),['chan2019'],,False,False,,1
+bedi1235-1-10-1,,bedi1235-1,10,ipox,ipox,[],,['chan2019'],,False,False,,1
+bedi1235-1-11-1,,bedi1235-1,11,ipox ɡə riye,ipox ɡə riye,[],,['chan2019'],,False,False,,1
+bedi1235-1-12-1,,bedi1235-1,12,ipox ɡə xi,ipox ɡə xi,[],,['chan2019'],,False,False,,1
+bedi1235-1-13-1,,bedi1235-1,13,ipox ɡə sas,ipox ɡə sas,[],,['chan2019'],,False,False,,1
+bedi1235-1-14-1,,bedi1235-1,14,ipox ɡə maxala,ipox ɡə maxala,[],,['chan2019'],,False,False,,1
+bedi1235-1-15-1,,bedi1235-1,15,ipox ɡə co,ipox ɡə co,[],(njo),['chan2019'],,False,False,,1
+bedi1235-1-16-1,,bedi1235-1,16,ipox ɡə co nɡə rye,ipox ɡə co nɡə rye,[],,['chan2019'],,False,False,,1
+bedi1235-1-17-1,,bedi1235-1,17,ipox ɡə co nɡə xi,ipox ɡə co nɡə xi,[],,['chan2019'],,False,False,,1
+bedi1235-1-18-1,,bedi1235-1,18,ipox ɡə co nɡə sas,ipox ɡə co nɡə sas,[],,['chan2019'],,False,False,,1
+bedi1235-1-19-1,,bedi1235-1,19,ipox ɡə co nɡə maxala,ipox ɡə co nɡə maxala,[],,['chan2019'],,False,False,,1
+bedi1235-1-20-1,,bedi1235-1,20,maɸo maxi,maɸo maxi,[],,['chan2019'],,False,False,,1
+bedi1235-1-21-1,,bedi1235-1,21,maɸo maxi nɡə riye,maɸo maxi nɡə riye,[],,['chan2019'],,False,False,,1
+bedi1235-1-22-1,,bedi1235-1,22,maɸo maxi nɡə xi,maɸo maxi nɡə xi,[],,['chan2019'],,False,False,,1
+bedi1235-1-23-1,,bedi1235-1,23,maɸo maxi nɡə sas,maɸo maxi nɡə sas,[],,['chan2019'],,False,False,,1
+bedi1235-1-24-1,,bedi1235-1,24,maɸo maxi nɡə maxala,maɸo maxi nɡə maxala,[],,['chan2019'],,False,False,,1
+bedi1235-1-25-1,,bedi1235-1,25,maɸo maxi nɡə co,maɸo maxi nɡə co,[],,['chan2019'],,False,False,,1
+bedi1235-1-26-1,,bedi1235-1,26,maɸo maxi nɡə co nɡə riye,maɸo maxi nɡə co nɡə riye,[],,['chan2019'],,False,False,,1
+bedi1235-1-27-1,,bedi1235-1,27,maɸo maxi nɡə co nɡə xi,maɸo maxi nɡə co nɡə xi,[],,['chan2019'],,False,False,,1
+bedi1235-1-28-1,,bedi1235-1,28,maɸo maxi nɡə co nɡə sas,maɸo maxi nɡə co nɡə sas,[],,['chan2019'],,False,False,,1
+bedi1235-1-29-1,,bedi1235-1,29,maɸo maxi nɡə co nɡə maxala,maɸo maxi nɡə co nɡə maxala,[],,['chan2019'],,False,False,,1
+bedi1235-1-30-1,,bedi1235-1,30,iɸox sas,iɸox sas,[],,['chan2019'],,False,False,,1
+bedi1235-1-40-1,,bedi1235-1,40,iɸox maxala,iɸox maxala,[],,['chan2019'],,False,False,,1
+bedi1235-1-50-1,,bedi1235-1,50,iɸox co,iɸox co,[],,['chan2019'],,False,False,,1
+bedi1235-1-60-1,,bedi1235-1,60,iɸox co nɡə iye,iɸox co nɡə iye,[],,['chan2019'],,False,False,,1
+bedi1235-1-70-1,,bedi1235-1,70,iɸox co nɡə maxi,iɸox co nɡə maxi,[],,['chan2019'],,False,False,,1
+bedi1235-1-80-1,,bedi1235-1,80,iɸox co nɡə masas,iɸox co nɡə masas,[],,['chan2019'],,False,False,,1
+bedi1235-1-90-1,,bedi1235-1,90,iɸox co nɡə maxala,iɸox co nɡə maxala,[],,['chan2019'],,False,False,,1
+bedi1235-1-100-1,,bedi1235-1,100,keme,keme,[],,['chan2019'],,False,False,,1
+bedi1235-1-200-1,,bedi1235-1,200,keme xi,keme xi,[],,['chan2019'],,False,False,,1
+bedi1235-1-1000-1,,bedi1235-1,1000,wuli,wuli,[],( < Pulaar ),['chan2019'],,True,False,,1
+bedi1235-1-2000-1,,bedi1235-1,2000,wuli xi,wuli xi,[],,['chan2019'],,False,False,,1

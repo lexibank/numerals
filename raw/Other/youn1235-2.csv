@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-youn1235-2-1-1,,youn1235-2,1,je22,je22,[],,[],,False,False,,1
-youn1235-2-2-1,,youn1235-2,2,u33,u33,[],,[],,False,False,,1
-youn1235-2-3-1,,youn1235-2,3,pje33,pje33,[],,[],,False,False,,1
-youn1235-2-4-1,,youn1235-2,4,pwɔ33,pwɔ33,[],,[],,False,False,,1
-youn1235-2-5-1,,youn1235-2,5,pi33,pi33,[],,[],,False,False,,1
-youn1235-2-6-1,,youn1235-2,6,tjo35,tjo35,[],,[],,False,False,,1
-youn1235-2-7-1,,youn1235-2,7,sɔŋ31,sɔŋ31,[],,[],,False,False,,1
-youn1235-2-8-1,,youn1235-2,8,ja21,ja21,[],,[],,False,False,,1
-youn1235-2-9-1,,youn1235-2,9,kiu13,kiu13,[],,[],,False,False,,1
-youn1235-2-10-1,,youn1235-2,10,kwə21,kwə21,[],,[],,False,False,,1
-youn1235-2-11-1,,youn1235-2,11,sje21je35,sje21je35,[],,[],,False,False,,1
-youn1235-2-12-1,,youn1235-2,12,sje21ȵi22,sje21ȵi22,[],,[],,False,False,,1
-youn1235-2-13-1,,youn1235-2,13,sje21ɬuŋ33,sje21ɬuŋ33,[],,[],,False,False,,1
-youn1235-2-14-1,,youn1235-2,14,sje21ɬei53,sje21ɬei53,[],,[],,False,False,,1
-youn1235-2-15-1,,youn1235-2,15,sje21ŋ̩31,sje21ŋ̩31,[],,[],,False,False,,1
-youn1235-2-16-1,,youn1235-2,16,sje21lie21,sje21lie21,[],,[],,False,False,,1
-youn1235-2-17-1,,youn1235-2,17,sje21ta54,sje21ta54,[],,[],,False,False,,1
-youn1235-2-19-1,,youn1235-2,19,sje21kiu35,sje21kiu35,[],,[],,False,False,,1
-youn1235-2-20-1,,youn1235-2,20,ȵi22sje21,ȵi22sje21,[],,[],,False,False,,1
-youn1235-2-21-1,,youn1235-2,21,ȵi22sje21 je35,ȵi22sje21 je35,[],,[],,False,False,,1
-youn1235-2-22-1,,youn1235-2,22,ȵi22sje21ȵi22,ȵi22sje21ȵi22,[],,[],,False,False,,1
-youn1235-2-23-1,,youn1235-2,23,ȵi22 sje21ɬuŋ33,ȵi22 sje21ɬuŋ33,[],,[],,False,False,,1
-youn1235-2-24-1,,youn1235-2,24,ȵi22 sje21 ɬei53,ȵi22 sje21 ɬei53,[],,[],,False,False,,1
-youn1235-2-25-1,,youn1235-2,25,ȵi22 sje21ŋ̩31,ȵi22 sje21ŋ̩31,[],,[],,False,False,,1
-youn1235-2-26-1,,youn1235-2,26,ȵi22 sje21lie21,ȵi22 sje21lie21,[],,[],,False,False,,1
-youn1235-2-27-1,,youn1235-2,27,ȵi22 sje21ta54,ȵi22 sje21ta54,[],,[],,False,False,,1
-youn1235-2-28-1,,youn1235-2,28,ȵi22 sje21pwə54,ȵi22 sje21pwə54,[],,[],,False,False,,1
-youn1235-2-29-1,,youn1235-2,29,ȵi22 sje21kiu35,ȵi22 sje21kiu35,[],,[],,False,False,,1
-youn1235-2-30-1,,youn1235-2,30,ɬuŋ33 sje21,ɬuŋ33 sje21,[],,[],,False,False,,1
-youn1235-2-40-1,,youn1235-2,40,ɬei53 sje21,ɬei53 sje21,[],,[],,False,False,,1
-youn1235-2-50-1,,youn1235-2,50,ŋ̩31 sje21,ŋ̩31 sje21,[],,[],,False,False,,1
-youn1235-2-60-1,,youn1235-2,60,lie21 sje21,lie21 sje21,[],,[],,False,False,,1
-youn1235-2-70-1,,youn1235-2,70,ta54 sje21,ta54 sje21,[],,[],,False,False,,1
-youn1235-2-80-1,,youn1235-2,80,pwə54sje21,pwə54sje21,[],,[],,False,False,,1
-youn1235-2-90-1,,youn1235-2,90,kiu35 sje21,kiu35 sje21,[],,[],,False,False,,1
-youn1235-2-100-1,,youn1235-2,100,je22 pe53,je22 pe53,[],(< Chinese),[],,True,False,,1
-youn1235-2-200-1,,youn1235-2,200,ȵi22 pe53,ȵi22 pe53,[],,[],,False,False,,1
-youn1235-2-1000-1,,youn1235-2,1000,je22 tʰeŋ33,je22 tʰeŋ33,[],< Chinese ,[],,True,False,,1
-youn1235-2-2000-1,,youn1235-2,2000,ȵi22 tʰeŋ33,ȵi22 tʰeŋ33,[],,[],,False,False,,1
+youn1235-2-1-1,,youn1235-2,1,je22,je22,[],,['chan2019'],,False,False,,1
+youn1235-2-2-1,,youn1235-2,2,u33,u33,[],,['chan2019'],,False,False,,1
+youn1235-2-3-1,,youn1235-2,3,pje33,pje33,[],,['chan2019'],,False,False,,1
+youn1235-2-4-1,,youn1235-2,4,pwɔ33,pwɔ33,[],,['chan2019'],,False,False,,1
+youn1235-2-5-1,,youn1235-2,5,pi33,pi33,[],,['chan2019'],,False,False,,1
+youn1235-2-6-1,,youn1235-2,6,tjo35,tjo35,[],,['chan2019'],,False,False,,1
+youn1235-2-7-1,,youn1235-2,7,sɔŋ31,sɔŋ31,[],,['chan2019'],,False,False,,1
+youn1235-2-8-1,,youn1235-2,8,ja21,ja21,[],,['chan2019'],,False,False,,1
+youn1235-2-9-1,,youn1235-2,9,kiu13,kiu13,[],,['chan2019'],,False,False,,1
+youn1235-2-10-1,,youn1235-2,10,kwə21,kwə21,[],,['chan2019'],,False,False,,1
+youn1235-2-11-1,,youn1235-2,11,sje21je35,sje21je35,[],,['chan2019'],,False,False,,1
+youn1235-2-12-1,,youn1235-2,12,sje21ȵi22,sje21ȵi22,[],,['chan2019'],,False,False,,1
+youn1235-2-13-1,,youn1235-2,13,sje21ɬuŋ33,sje21ɬuŋ33,[],,['chan2019'],,False,False,,1
+youn1235-2-14-1,,youn1235-2,14,sje21ɬei53,sje21ɬei53,[],,['chan2019'],,False,False,,1
+youn1235-2-15-1,,youn1235-2,15,sje21ŋ̩31,sje21ŋ̩31,[],,['chan2019'],,False,False,,1
+youn1235-2-16-1,,youn1235-2,16,sje21lie21,sje21lie21,[],,['chan2019'],,False,False,,1
+youn1235-2-17-1,,youn1235-2,17,sje21ta54,sje21ta54,[],,['chan2019'],,False,False,,1
+youn1235-2-19-1,,youn1235-2,19,sje21kiu35,sje21kiu35,[],,['chan2019'],,False,False,,1
+youn1235-2-20-1,,youn1235-2,20,ȵi22sje21,ȵi22sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-21-1,,youn1235-2,21,ȵi22sje21 je35,ȵi22sje21 je35,[],,['chan2019'],,False,False,,1
+youn1235-2-22-1,,youn1235-2,22,ȵi22sje21ȵi22,ȵi22sje21ȵi22,[],,['chan2019'],,False,False,,1
+youn1235-2-23-1,,youn1235-2,23,ȵi22 sje21ɬuŋ33,ȵi22 sje21ɬuŋ33,[],,['chan2019'],,False,False,,1
+youn1235-2-24-1,,youn1235-2,24,ȵi22 sje21 ɬei53,ȵi22 sje21 ɬei53,[],,['chan2019'],,False,False,,1
+youn1235-2-25-1,,youn1235-2,25,ȵi22 sje21ŋ̩31,ȵi22 sje21ŋ̩31,[],,['chan2019'],,False,False,,1
+youn1235-2-26-1,,youn1235-2,26,ȵi22 sje21lie21,ȵi22 sje21lie21,[],,['chan2019'],,False,False,,1
+youn1235-2-27-1,,youn1235-2,27,ȵi22 sje21ta54,ȵi22 sje21ta54,[],,['chan2019'],,False,False,,1
+youn1235-2-28-1,,youn1235-2,28,ȵi22 sje21pwə54,ȵi22 sje21pwə54,[],,['chan2019'],,False,False,,1
+youn1235-2-29-1,,youn1235-2,29,ȵi22 sje21kiu35,ȵi22 sje21kiu35,[],,['chan2019'],,False,False,,1
+youn1235-2-30-1,,youn1235-2,30,ɬuŋ33 sje21,ɬuŋ33 sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-40-1,,youn1235-2,40,ɬei53 sje21,ɬei53 sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-50-1,,youn1235-2,50,ŋ̩31 sje21,ŋ̩31 sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-60-1,,youn1235-2,60,lie21 sje21,lie21 sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-70-1,,youn1235-2,70,ta54 sje21,ta54 sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-80-1,,youn1235-2,80,pwə54sje21,pwə54sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-90-1,,youn1235-2,90,kiu35 sje21,kiu35 sje21,[],,['chan2019'],,False,False,,1
+youn1235-2-100-1,,youn1235-2,100,je22 pe53,je22 pe53,[],(< Chinese),['chan2019'],,True,False,,1
+youn1235-2-200-1,,youn1235-2,200,ȵi22 pe53,ȵi22 pe53,[],,['chan2019'],,False,False,,1
+youn1235-2-1000-1,,youn1235-2,1000,je22 tʰeŋ33,je22 tʰeŋ33,[],< Chinese ,['chan2019'],,True,False,,1
+youn1235-2-2000-1,,youn1235-2,2000,ȵi22 tʰeŋ33,ȵi22 tʰeŋ33,[],,['chan2019'],,False,False,,1

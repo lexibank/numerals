@@ -1,26 +1,26 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-brek1238-2-1-1,,brek1238-2,1,tV-,tV-,[],,[],,False,False,,2
-brek1238-2-2-1,,brek1238-2,2,kī,kī,[],,[],,False,False,,2
-brek1238-2-3-1,,brek1238-2,3,sý,sý,[],,[],,False,False,,2
-brek1238-2-4-1,,brek1238-2,4,lí̤,lí̤,[],,[],,False,False,,2
-brek1238-2-5-1,,brek1238-2,5,jɛ̤́,jɛ̤́,[],,[],,False,False,,2
-brek1238-2-6-1,,brek1238-2,6,sý sū,sý sū,[],( 3 x 2 ),[],,False,False,,2
-brek1238-2-7-1,,brek1238-2,7,né,né,[],,[],,False,False,,2
-brek1238-2-8-1,,brek1238-2,8,lí̤ sū,lí̤ sū,[],( 4 x 2 ),[],,False,False,,2
-brek1238-2-9-1,,brek1238-2,9,kʰwí,kʰwí,[],,[],,False,False,,2
-brek1238-2-10-1,,brek1238-2,10,ʃʰí,ʃʰí,[],,[],,False,False,,2
-brek1238-2-11-1,,brek1238-2,11,ʃʰí tV-,ʃʰí tV-,[],,[],,False,False,,2
-brek1238-2-12-1,,brek1238-2,12,ʃʰí kī,ʃʰí kī,[],,[],,False,False,,2
-brek1238-2-13-1,,brek1238-2,13,ʃʰí sý,ʃʰí sý,[],,[],,False,False,,2
-brek1238-2-14-1,,brek1238-2,14,ʃʰí lí̤,ʃʰí lí̤,[],,[],,False,False,,2
-brek1238-2-15-1,,brek1238-2,15,ʃʰí jɛ̤́,ʃʰí jɛ̤́,[],,[],,False,False,,2
-brek1238-2-16-1,,brek1238-2,16,ʃʰí sý sū,ʃʰí sý sū,[],,[],,False,False,,2
-brek1238-2-17-1,,brek1238-2,17,ʃʰí né,ʃʰí né,[],,[],,False,False,,2
-brek1238-2-18-1,,brek1238-2,18,ʃʰí lí̤ sū,ʃʰí lí̤ sū,[],,[],,False,False,,2
-brek1238-2-19-1,,brek1238-2,19,ʃʰí kʰwí,ʃʰí kʰwí,[],,[],,False,False,,2
-brek1238-2-20-1,,brek1238-2,20,kī ʃʰí,kī ʃʰí,[],,[],,False,False,,2
-brek1238-2-60-1,,brek1238-2,60,ʃʰý ʃʰí,ʃʰý ʃʰí,[],,[],,False,False,,2
-brek1238-2-80-1,,brek1238-2,80,ʃʰɥ́ ʃʰí,ʃʰɥ́ ʃʰí,[],,[],,False,False,,2
-brek1238-2-90-1,,brek1238-2,90,kʰwí ʃʰí,kʰwí ʃʰí,[],,[],,False,False,,2
-brek1238-2-100-1,,brek1238-2,100,tá̤ já̤,tá̤ já̤,[],( < Burmese),[],,True,False,,2
-brek1238-2-1000-1,,brek1238-2,1000,tō̤ tʰò,tō̤ tʰò,[],< Burmese ,[],,True,False,,2
+brek1238-2-1-1,,brek1238-2,1,tV-,tV-,[],,['chan2019'],,False,False,,2
+brek1238-2-2-1,,brek1238-2,2,kī,kī,[],,['chan2019'],,False,False,,2
+brek1238-2-3-1,,brek1238-2,3,sý,sý,[],,['chan2019'],,False,False,,2
+brek1238-2-4-1,,brek1238-2,4,lí̤,lí̤,[],,['chan2019'],,False,False,,2
+brek1238-2-5-1,,brek1238-2,5,jɛ̤́,jɛ̤́,[],,['chan2019'],,False,False,,2
+brek1238-2-6-1,,brek1238-2,6,sý sū,sý sū,[],( 3 x 2 ),['chan2019'],,False,False,,2
+brek1238-2-7-1,,brek1238-2,7,né,né,[],,['chan2019'],,False,False,,2
+brek1238-2-8-1,,brek1238-2,8,lí̤ sū,lí̤ sū,[],( 4 x 2 ),['chan2019'],,False,False,,2
+brek1238-2-9-1,,brek1238-2,9,kʰwí,kʰwí,[],,['chan2019'],,False,False,,2
+brek1238-2-10-1,,brek1238-2,10,ʃʰí,ʃʰí,[],,['chan2019'],,False,False,,2
+brek1238-2-11-1,,brek1238-2,11,ʃʰí tV-,ʃʰí tV-,[],,['chan2019'],,False,False,,2
+brek1238-2-12-1,,brek1238-2,12,ʃʰí kī,ʃʰí kī,[],,['chan2019'],,False,False,,2
+brek1238-2-13-1,,brek1238-2,13,ʃʰí sý,ʃʰí sý,[],,['chan2019'],,False,False,,2
+brek1238-2-14-1,,brek1238-2,14,ʃʰí lí̤,ʃʰí lí̤,[],,['chan2019'],,False,False,,2
+brek1238-2-15-1,,brek1238-2,15,ʃʰí jɛ̤́,ʃʰí jɛ̤́,[],,['chan2019'],,False,False,,2
+brek1238-2-16-1,,brek1238-2,16,ʃʰí sý sū,ʃʰí sý sū,[],,['chan2019'],,False,False,,2
+brek1238-2-17-1,,brek1238-2,17,ʃʰí né,ʃʰí né,[],,['chan2019'],,False,False,,2
+brek1238-2-18-1,,brek1238-2,18,ʃʰí lí̤ sū,ʃʰí lí̤ sū,[],,['chan2019'],,False,False,,2
+brek1238-2-19-1,,brek1238-2,19,ʃʰí kʰwí,ʃʰí kʰwí,[],,['chan2019'],,False,False,,2
+brek1238-2-20-1,,brek1238-2,20,kī ʃʰí,kī ʃʰí,[],,['chan2019'],,False,False,,2
+brek1238-2-60-1,,brek1238-2,60,ʃʰý ʃʰí,ʃʰý ʃʰí,[],,['chan2019'],,False,False,,2
+brek1238-2-80-1,,brek1238-2,80,ʃʰɥ́ ʃʰí,ʃʰɥ́ ʃʰí,[],,['chan2019'],,False,False,,2
+brek1238-2-90-1,,brek1238-2,90,kʰwí ʃʰí,kʰwí ʃʰí,[],,['chan2019'],,False,False,,2
+brek1238-2-100-1,,brek1238-2,100,tá̤ já̤,tá̤ já̤,[],( < Burmese),['chan2019'],,True,False,,2
+brek1238-2-1000-1,,brek1238-2,1000,tō̤ tʰò,tō̤ tʰò,[],< Burmese ,['chan2019'],,True,False,,2

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ping1243-1-1-1,,ping1243-1,1,eu,eu,[],,[],,False,False,,1
-ping1243-1-2-1,,ping1243-1,2,riau,riau,[],,[],,False,False,,1
-ping1243-1-3-1,,ping1243-1,3,silu,silu,[],,[],,False,False,,1
-ping1243-1-4-1,,ping1243-1,4,pahu,pahu,[],,[],,False,False,,1
-ping1243-1-5-1,,ping1243-1,5,limau,limau,[],,[],,False,False,,1
-ping1243-1-6-1,,ping1243-1,6,wonou,wonou,[],,[],,False,False,,1
-ping1243-1-7-1,,ping1243-1,7,isu,isu,[],,[],,False,False,,1
-ping1243-1-8-1,,ping1243-1,8,waelu,waelu,[],,[],,False,False,,1
-ping1243-1-9-1,,ping1243-1,9,duoau,duoau,[],,[],,False,False,,1
-ping1243-1-10-1,,ping1243-1,10,eisaek,eisaek,[],,[],,False,False,,1
-ping1243-1-11-1,,ping1243-1,11,eisaek eu,eisaek eu,[],,[],,False,False,,1
-ping1243-1-12-1,,ping1243-1,12,eisaekriau,eisaekriau,[],,[],,False,False,,1
-ping1243-1-13-1,,ping1243-1,13,eisaeksilu,eisaeksilu,[],,[],,False,False,,1
-ping1243-1-14-1,,ping1243-1,14,eisaekpahu,eisaekpahu,[],,[],,False,False,,1
-ping1243-1-15-1,,ping1243-1,15,eisaeklimau,eisaeklimau,[],,[],,False,False,,1
-ping1243-1-16-1,,ping1243-1,16,eisaekwonou,eisaekwonou,[],,[],,False,False,,1
-ping1243-1-17-1,,ping1243-1,17,eisaekisu,eisaekisu,[],,[],,False,False,,1
-ping1243-1-18-1,,ping1243-1,18,eisaekwaelu,eisaekwaelu,[],,[],,False,False,,1
-ping1243-1-19-1,,ping1243-1,19,eisaek duoau,eisaek duoau,[],,[],,False,False,,1
-ping1243-1-20-1,,ping1243-1,20,rieisaek,rieisaek,[],,[],,False,False,,1
-ping1243-1-21-1,,ping1243-1,21,rieisaekeu,rieisaekeu,[],,[],,False,False,,1
-ping1243-1-22-1,,ping1243-1,22,rieisaekriau,rieisaekriau,[],,[],,False,False,,1
-ping1243-1-23-1,,ping1243-1,23,rieisaeksilu,rieisaeksilu,[],,[],,False,False,,1
-ping1243-1-24-1,,ping1243-1,24,rieisaekpahu,rieisaekpahu,[],,[],,False,False,,1
-ping1243-1-25-1,,ping1243-1,25,rieisaeklimau,rieisaeklimau,[],,[],,False,False,,1
-ping1243-1-26-1,,ping1243-1,26,rieisaek wonou,rieisaek wonou,[],,[],,False,False,,1
-ping1243-1-27-1,,ping1243-1,27,rieisaekisu,rieisaekisu,[],,[],,False,False,,1
-ping1243-1-28-1,,ping1243-1,28,rieisaekwaelu,rieisaekwaelu,[],,[],,False,False,,1
-ping1243-1-29-1,,ping1243-1,29,rieisaek duoau,rieisaek duoau,[],,[],,False,False,,1
-ping1243-1-30-1,,ping1243-1,30,silihsaek,silihsaek,[],,[],,False,False,,1
-ping1243-1-40-1,,ping1243-1,40,pahisaek,pahisaek,[],,[],,False,False,,1
-ping1243-1-50-1,,ping1243-1,50,limeisaek,limeisaek,[],,[],,False,False,,1
-ping1243-1-60-1,,ping1243-1,60,woneisaek,woneisaek,[],,[],,False,False,,1
-ping1243-1-70-1,,ping1243-1,70,isuhsaek,isuhsaek,[],,[],,False,False,,1
-ping1243-1-80-1,,ping1243-1,80,waelihsaek,waelihsaek,[],,[],,False,False,,1
-ping1243-1-90-1,,ping1243-1,90,tueisaek,tueisaek,[],,[],,False,False,,1
-ping1243-1-100-1,,ping1243-1,100,epwiki,epwiki,[],,[],,False,False,,1
-ping1243-1-200-1,,ping1243-1,200,repwiki,repwiki,[],,[],,False,False,,1
-ping1243-1-1000-1,,ping1243-1,1000,kid,kid,[],,[],,False,False,,1
-ping1243-1-2000-1,,ping1243-1,2000,riekid,riekid,[],,[],,False,False,,1
+ping1243-1-1-1,,ping1243-1,1,eu,eu,[],,['chan2019'],,False,False,,1
+ping1243-1-2-1,,ping1243-1,2,riau,riau,[],,['chan2019'],,False,False,,1
+ping1243-1-3-1,,ping1243-1,3,silu,silu,[],,['chan2019'],,False,False,,1
+ping1243-1-4-1,,ping1243-1,4,pahu,pahu,[],,['chan2019'],,False,False,,1
+ping1243-1-5-1,,ping1243-1,5,limau,limau,[],,['chan2019'],,False,False,,1
+ping1243-1-6-1,,ping1243-1,6,wonou,wonou,[],,['chan2019'],,False,False,,1
+ping1243-1-7-1,,ping1243-1,7,isu,isu,[],,['chan2019'],,False,False,,1
+ping1243-1-8-1,,ping1243-1,8,waelu,waelu,[],,['chan2019'],,False,False,,1
+ping1243-1-9-1,,ping1243-1,9,duoau,duoau,[],,['chan2019'],,False,False,,1
+ping1243-1-10-1,,ping1243-1,10,eisaek,eisaek,[],,['chan2019'],,False,False,,1
+ping1243-1-11-1,,ping1243-1,11,eisaek eu,eisaek eu,[],,['chan2019'],,False,False,,1
+ping1243-1-12-1,,ping1243-1,12,eisaekriau,eisaekriau,[],,['chan2019'],,False,False,,1
+ping1243-1-13-1,,ping1243-1,13,eisaeksilu,eisaeksilu,[],,['chan2019'],,False,False,,1
+ping1243-1-14-1,,ping1243-1,14,eisaekpahu,eisaekpahu,[],,['chan2019'],,False,False,,1
+ping1243-1-15-1,,ping1243-1,15,eisaeklimau,eisaeklimau,[],,['chan2019'],,False,False,,1
+ping1243-1-16-1,,ping1243-1,16,eisaekwonou,eisaekwonou,[],,['chan2019'],,False,False,,1
+ping1243-1-17-1,,ping1243-1,17,eisaekisu,eisaekisu,[],,['chan2019'],,False,False,,1
+ping1243-1-18-1,,ping1243-1,18,eisaekwaelu,eisaekwaelu,[],,['chan2019'],,False,False,,1
+ping1243-1-19-1,,ping1243-1,19,eisaek duoau,eisaek duoau,[],,['chan2019'],,False,False,,1
+ping1243-1-20-1,,ping1243-1,20,rieisaek,rieisaek,[],,['chan2019'],,False,False,,1
+ping1243-1-21-1,,ping1243-1,21,rieisaekeu,rieisaekeu,[],,['chan2019'],,False,False,,1
+ping1243-1-22-1,,ping1243-1,22,rieisaekriau,rieisaekriau,[],,['chan2019'],,False,False,,1
+ping1243-1-23-1,,ping1243-1,23,rieisaeksilu,rieisaeksilu,[],,['chan2019'],,False,False,,1
+ping1243-1-24-1,,ping1243-1,24,rieisaekpahu,rieisaekpahu,[],,['chan2019'],,False,False,,1
+ping1243-1-25-1,,ping1243-1,25,rieisaeklimau,rieisaeklimau,[],,['chan2019'],,False,False,,1
+ping1243-1-26-1,,ping1243-1,26,rieisaek wonou,rieisaek wonou,[],,['chan2019'],,False,False,,1
+ping1243-1-27-1,,ping1243-1,27,rieisaekisu,rieisaekisu,[],,['chan2019'],,False,False,,1
+ping1243-1-28-1,,ping1243-1,28,rieisaekwaelu,rieisaekwaelu,[],,['chan2019'],,False,False,,1
+ping1243-1-29-1,,ping1243-1,29,rieisaek duoau,rieisaek duoau,[],,['chan2019'],,False,False,,1
+ping1243-1-30-1,,ping1243-1,30,silihsaek,silihsaek,[],,['chan2019'],,False,False,,1
+ping1243-1-40-1,,ping1243-1,40,pahisaek,pahisaek,[],,['chan2019'],,False,False,,1
+ping1243-1-50-1,,ping1243-1,50,limeisaek,limeisaek,[],,['chan2019'],,False,False,,1
+ping1243-1-60-1,,ping1243-1,60,woneisaek,woneisaek,[],,['chan2019'],,False,False,,1
+ping1243-1-70-1,,ping1243-1,70,isuhsaek,isuhsaek,[],,['chan2019'],,False,False,,1
+ping1243-1-80-1,,ping1243-1,80,waelihsaek,waelihsaek,[],,['chan2019'],,False,False,,1
+ping1243-1-90-1,,ping1243-1,90,tueisaek,tueisaek,[],,['chan2019'],,False,False,,1
+ping1243-1-100-1,,ping1243-1,100,epwiki,epwiki,[],,['chan2019'],,False,False,,1
+ping1243-1-200-1,,ping1243-1,200,repwiki,repwiki,[],,['chan2019'],,False,False,,1
+ping1243-1-1000-1,,ping1243-1,1000,kid,kid,[],,['chan2019'],,False,False,,1
+ping1243-1-2000-1,,ping1243-1,2000,riekid,riekid,[],,['chan2019'],,False,False,,1

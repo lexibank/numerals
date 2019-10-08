@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yabe1254-2-1-1,,yabe1254-2,1,tɛŋ,tɛŋ,[],,[],,False,False,,2
-yabe1254-2-1-2,,yabe1254-2,1,ta-ɛŋ,ta-ɛŋ,[],,[],,False,False,,2
-yabe1254-2-2-1,,yabe1254-2,2,luàɡeʔ,luàɡeʔ,[],,[],,False,False,,2
-yabe1254-2-2-2,,yabe1254-2,2,làɡeʔ,làɡeʔ,[],,[],,False,False,,2
-yabe1254-2-3-1,,yabe1254-2,3,teleàʔ,teleàʔ,[],,[],,False,False,,2
-yabe1254-2-4-1,,yabe1254-2,4,àʔlèʔ,àʔlèʔ,[],,[],,False,False,,2
-yabe1254-2-5-1,,yabe1254-2,5,lɛmɛŋ tɛŋ,lɛmɛŋ tɛŋ,[],(litː 'hand one'),[],,False,False,,2
-yabe1254-2-6-1,,yabe1254-2,6,lɛmɛŋ tɛŋ ŋano ta,lɛmɛŋ tɛŋ ŋano ta,[],( 5 + 1 ),[],,False,False,,2
-yabe1254-2-7-1,,yabe1254-2,7,lɛmɛŋ tɛŋ ŋano luàɡeʔ,lɛmɛŋ tɛŋ ŋano luàɡeʔ,[],( 5 + 2 ),[],,False,False,,2
-yabe1254-2-8-1,,yabe1254-2,8,lɛmɛŋ tɛŋ ŋano teleàʔ,lɛmɛŋ tɛŋ ŋano teleàʔ,[],( 5 + 3 ),[],,False,False,,2
-yabe1254-2-9-1,,yabe1254-2,9,lɛmɛŋ tɛŋ ŋano àʔlèʔ,lɛmɛŋ tɛŋ ŋano àʔlèʔ,[],( 5 + 4 ),[],,False,False,,2
-yabe1254-2-10-1,,yabe1254-2,10,lɛmɛŋ lu,lɛmɛŋ lu,[],(litː 'hands two'),[],,False,False,,2
-yabe1254-2-11-1,,yabe1254-2,11,lɛmɛŋ lu ŋano ta,lɛmɛŋ lu ŋano ta,[],,[],,False,False,,2
-yabe1254-2-12-1,,yabe1254-2,12,lɛmɛŋ lu ŋano luàɡeʔ,lɛmɛŋ lu ŋano luàɡeʔ,[],,[],,False,False,,2
-yabe1254-2-13-1,,yabe1254-2,13,lɛmɛŋ lu ŋano teleàʔ,lɛmɛŋ lu ŋano teleàʔ,[],,[],,False,False,,2
-yabe1254-2-14-1,,yabe1254-2,14,lɛmɛŋ lu ŋano àʔlèʔ,lɛmɛŋ lu ŋano àʔlèʔ,[],,[],,False,False,,2
-yabe1254-2-15-1,,yabe1254-2,15,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ,[],,[],,False,False,,2
-yabe1254-2-16-1,,yabe1254-2,16,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano ta,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano ta,[],,[],,False,False,,2
-yabe1254-2-17-1,,yabe1254-2,17,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano teleàʔ,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano teleàʔ,[],,[],,False,False,,2
-yabe1254-2-18-1,,yabe1254-2,18,lɛmɛŋlu ŋano lɛmɛŋtɛŋ ŋano luàɡeʔ,lɛmɛŋlu ŋano lɛmɛŋtɛŋ ŋano luàɡeʔ,[],,[],,False,False,,2
-yabe1254-2-19-1,,yabe1254-2,19,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano àʔlèʔ,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano àʔlèʔ,[],,[],,False,False,,2
-yabe1254-2-20-1,,yabe1254-2,20,ŋaʔ samuʔ,ŋaʔ samuʔ,[],(tɛŋ),[],,False,False,,2
-yabe1254-2-21-1,,yabe1254-2,21,ŋaʔ samuʔ ŋano ta,ŋaʔ samuʔ ŋano ta,[],,[],,False,False,,2
-yabe1254-2-22-1,,yabe1254-2,22,ŋaʔ samuʔ ŋano luàɡeʔ,ŋaʔ samuʔ ŋano luàɡeʔ,[],,[],,False,False,,2
-yabe1254-2-23-1,,yabe1254-2,23,ŋaʔ samuʔ ŋano teleàʔ,ŋaʔ samuʔ ŋano teleàʔ,[],,[],,False,False,,2
-yabe1254-2-24-1,,yabe1254-2,24,ŋaʔ samuʔ ŋano àʔlèʔ,ŋaʔ samuʔ ŋano àʔlèʔ,[],,[],,False,False,,2
-yabe1254-2-25-1,,yabe1254-2,25,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ,[],,[],,False,False,,2
-yabe1254-2-26-1,,yabe1254-2,26,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano ta,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano ta,[],,[],,False,False,,2
-yabe1254-2-27-1,,yabe1254-2,27,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano luàɡeʔ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano luàɡeʔ,[],,[],,False,False,,2
-yabe1254-2-28-1,,yabe1254-2,28,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano teleàʔ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano teleàʔ,[],,[],,False,False,,2
-yabe1254-2-29-1,,yabe1254-2,29,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano àʔlèʔ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano àʔlèʔ,[],,[],,False,False,,2
-yabe1254-2-30-1,,yabe1254-2,30,ŋaʔ samuʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ ma ŋa lɛmɛŋ lu,[],,[],,False,False,,2
-yabe1254-2-40-1,,yabe1254-2,40,ŋaʔ samuʔ luàɡeʔ,ŋaʔ samuʔ luàɡeʔ,[],( 20 x 2 ),[],,False,False,,2
-yabe1254-2-50-1,,yabe1254-2,50,ŋaʔ samuʔ luàɡeʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ luàɡeʔ ma ŋa lɛmɛŋ lu,[],,[],,False,False,,2
-yabe1254-2-60-1,,yabe1254-2,60,ŋaʔ samuʔ teleàʔ,ŋaʔ samuʔ teleàʔ,[],( 20 x 3 ),[],,False,False,,2
-yabe1254-2-70-1,,yabe1254-2,70,ŋaʔ samuʔ teleàʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ teleàʔ ma ŋa lɛmɛŋ lu,[],,[],,False,False,,2
-yabe1254-2-80-1,,yabe1254-2,80,ŋaʔ samuʔ àʔlèʔ,ŋaʔ samuʔ àʔlèʔ,[],( 20 x 4 ),[],,False,False,,2
-yabe1254-2-90-1,,yabe1254-2,90,ŋaʔ samuʔ àʔlèʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ àʔlèʔ ma ŋa lɛmɛŋ lu,[],,[],,False,False,,2
-yabe1254-2-100-1,,yabe1254-2,100,ŋaʔ samuʔ lɛmɛŋ tɛŋ,ŋaʔ samuʔ lɛmɛŋ tɛŋ,[],( 20 x 5 ),[],,False,False,,2
-yabe1254-2-1000-1,,yabe1254-2,1000,tausen,tausen,[],( < German / English ),[],,True,False,,2
+yabe1254-2-1-1,,yabe1254-2,1,tɛŋ,tɛŋ,[],,['chan2019'],,False,False,,2
+yabe1254-2-1-2,,yabe1254-2,1,ta-ɛŋ,ta-ɛŋ,[],,['chan2019'],,False,False,,2
+yabe1254-2-2-1,,yabe1254-2,2,luàɡeʔ,luàɡeʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-2-2,,yabe1254-2,2,làɡeʔ,làɡeʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-3-1,,yabe1254-2,3,teleàʔ,teleàʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-4-1,,yabe1254-2,4,àʔlèʔ,àʔlèʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-5-1,,yabe1254-2,5,lɛmɛŋ tɛŋ,lɛmɛŋ tɛŋ,[],(litː 'hand one'),['chan2019'],,False,False,,2
+yabe1254-2-6-1,,yabe1254-2,6,lɛmɛŋ tɛŋ ŋano ta,lɛmɛŋ tɛŋ ŋano ta,[],( 5 + 1 ),['chan2019'],,False,False,,2
+yabe1254-2-7-1,,yabe1254-2,7,lɛmɛŋ tɛŋ ŋano luàɡeʔ,lɛmɛŋ tɛŋ ŋano luàɡeʔ,[],( 5 + 2 ),['chan2019'],,False,False,,2
+yabe1254-2-8-1,,yabe1254-2,8,lɛmɛŋ tɛŋ ŋano teleàʔ,lɛmɛŋ tɛŋ ŋano teleàʔ,[],( 5 + 3 ),['chan2019'],,False,False,,2
+yabe1254-2-9-1,,yabe1254-2,9,lɛmɛŋ tɛŋ ŋano àʔlèʔ,lɛmɛŋ tɛŋ ŋano àʔlèʔ,[],( 5 + 4 ),['chan2019'],,False,False,,2
+yabe1254-2-10-1,,yabe1254-2,10,lɛmɛŋ lu,lɛmɛŋ lu,[],(litː 'hands two'),['chan2019'],,False,False,,2
+yabe1254-2-11-1,,yabe1254-2,11,lɛmɛŋ lu ŋano ta,lɛmɛŋ lu ŋano ta,[],,['chan2019'],,False,False,,2
+yabe1254-2-12-1,,yabe1254-2,12,lɛmɛŋ lu ŋano luàɡeʔ,lɛmɛŋ lu ŋano luàɡeʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-13-1,,yabe1254-2,13,lɛmɛŋ lu ŋano teleàʔ,lɛmɛŋ lu ŋano teleàʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-14-1,,yabe1254-2,14,lɛmɛŋ lu ŋano àʔlèʔ,lɛmɛŋ lu ŋano àʔlèʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-15-1,,yabe1254-2,15,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ,[],,['chan2019'],,False,False,,2
+yabe1254-2-16-1,,yabe1254-2,16,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano ta,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano ta,[],,['chan2019'],,False,False,,2
+yabe1254-2-17-1,,yabe1254-2,17,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano teleàʔ,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano teleàʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-18-1,,yabe1254-2,18,lɛmɛŋlu ŋano lɛmɛŋtɛŋ ŋano luàɡeʔ,lɛmɛŋlu ŋano lɛmɛŋtɛŋ ŋano luàɡeʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-19-1,,yabe1254-2,19,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano àʔlèʔ,lɛmɛŋ lu ŋano lɛmɛŋtɛŋ ŋano àʔlèʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-20-1,,yabe1254-2,20,ŋaʔ samuʔ,ŋaʔ samuʔ,[],(tɛŋ),['chan2019'],,False,False,,2
+yabe1254-2-21-1,,yabe1254-2,21,ŋaʔ samuʔ ŋano ta,ŋaʔ samuʔ ŋano ta,[],,['chan2019'],,False,False,,2
+yabe1254-2-22-1,,yabe1254-2,22,ŋaʔ samuʔ ŋano luàɡeʔ,ŋaʔ samuʔ ŋano luàɡeʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-23-1,,yabe1254-2,23,ŋaʔ samuʔ ŋano teleàʔ,ŋaʔ samuʔ ŋano teleàʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-24-1,,yabe1254-2,24,ŋaʔ samuʔ ŋano àʔlèʔ,ŋaʔ samuʔ ŋano àʔlèʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-25-1,,yabe1254-2,25,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ,[],,['chan2019'],,False,False,,2
+yabe1254-2-26-1,,yabe1254-2,26,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano ta,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano ta,[],,['chan2019'],,False,False,,2
+yabe1254-2-27-1,,yabe1254-2,27,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano luàɡeʔ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano luàɡeʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-28-1,,yabe1254-2,28,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano teleàʔ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano teleàʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-29-1,,yabe1254-2,29,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano àʔlèʔ,ŋaʔ samuʔ ŋano lɛmɛŋ tɛŋ ŋano àʔlèʔ,[],,['chan2019'],,False,False,,2
+yabe1254-2-30-1,,yabe1254-2,30,ŋaʔ samuʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ ma ŋa lɛmɛŋ lu,[],,['chan2019'],,False,False,,2
+yabe1254-2-40-1,,yabe1254-2,40,ŋaʔ samuʔ luàɡeʔ,ŋaʔ samuʔ luàɡeʔ,[],( 20 x 2 ),['chan2019'],,False,False,,2
+yabe1254-2-50-1,,yabe1254-2,50,ŋaʔ samuʔ luàɡeʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ luàɡeʔ ma ŋa lɛmɛŋ lu,[],,['chan2019'],,False,False,,2
+yabe1254-2-60-1,,yabe1254-2,60,ŋaʔ samuʔ teleàʔ,ŋaʔ samuʔ teleàʔ,[],( 20 x 3 ),['chan2019'],,False,False,,2
+yabe1254-2-70-1,,yabe1254-2,70,ŋaʔ samuʔ teleàʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ teleàʔ ma ŋa lɛmɛŋ lu,[],,['chan2019'],,False,False,,2
+yabe1254-2-80-1,,yabe1254-2,80,ŋaʔ samuʔ àʔlèʔ,ŋaʔ samuʔ àʔlèʔ,[],( 20 x 4 ),['chan2019'],,False,False,,2
+yabe1254-2-90-1,,yabe1254-2,90,ŋaʔ samuʔ àʔlèʔ ma ŋa lɛmɛŋ lu,ŋaʔ samuʔ àʔlèʔ ma ŋa lɛmɛŋ lu,[],,['chan2019'],,False,False,,2
+yabe1254-2-100-1,,yabe1254-2,100,ŋaʔ samuʔ lɛmɛŋ tɛŋ,ŋaʔ samuʔ lɛmɛŋ tɛŋ,[],( 20 x 5 ),['chan2019'],,False,False,,2
+yabe1254-2-1000-1,,yabe1254-2,1000,tausen,tausen,[],( < German / English ),['chan2019'],,True,False,,2

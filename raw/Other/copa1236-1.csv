@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-copa1236-1-1-1,,copa1236-1,1,tumɨ,tumɨ,[],,[],,False,False,,1
-copa1236-1-2-1,,copa1236-1,2,meca,meca,[],,[],,False,False,,1
-copa1236-1-3-1,,copa1236-1,3,tukaʼy,tukaʼy,[],,[],,False,False,,1
-copa1236-1-4-1,,copa1236-1,4,makškuʼy,makškuʼy,[],,[],,False,False,,1
-copa1236-1-5-1,,copa1236-1,5,mohsaʼy,mohsaʼy,[],,[],,False,False,,1
-copa1236-1-6-1,,copa1236-1,6,tuhtaʼy,tuhtaʼy,[],,[],,False,False,,1
-copa1236-1-7-1,,copa1236-1,7,kuʼyaʼy,kuʼyaʼy,[],,[],,False,False,,1
-copa1236-1-8-1,,copa1236-1,8,tukuthtaʼy,tukuthtaʼy,[],( 3 + 6 ),[],,False,False,,1
-copa1236-1-9-1,,copa1236-1,9,makstuhtaʼy,makstuhtaʼy,[],( 4 + 6 ),[],,False,False,,1
-copa1236-1-10-1,,copa1236-1,10,mahkaʼy,mahkaʼy,[],,[],,False,False,,1
-copa1236-1-11-1,,copa1236-1,11,maktumaʼy,maktumaʼy,[],( 10 + 1 ),[],,False,False,,1
-copa1236-1-12-1,,copa1236-1,12,makwɨstɨhkaʼy,makwɨstɨhkaʼy,[],( 10 + 2 ),[],,False,False,,1
-copa1236-1-13-1,,copa1236-1,13,maktukaʼy,maktukaʼy,[],( 10 + 3 ),[],,False,False,,1
-copa1236-1-14-1,,copa1236-1,14,makmaktaskuʼy,makmaktaskuʼy,[],( 10 + 4 ),[],,False,False,,1
-copa1236-1-15-1,,copa1236-1,15,yɨhtaʼy,yɨhtaʼy,[],,[],,False,False,,1
-copa1236-1-16-1,,copa1236-1,16,yɨt-ko-tumɨ,yɨt-ko-tumɨ,[],( 15 + 1 ),[],,False,False,,1
-copa1236-1-17-1,,copa1236-1,17,yɨt-ko-meca,yɨt-ko-meca,[],( 15 + 2 ),[],,False,False,,1
-copa1236-1-18-1,,copa1236-1,18,yɨt-ko-tukaʼy,yɨt-ko-tukaʼy,[],( 15 + 3 ),[],,False,False,,1
-copa1236-1-19-1,,copa1236-1,19,yɨt-ko-makškuʼy,yɨt-ko-makškuʼy,[],( 15 + 4 ),[],,False,False,,1
-copa1236-1-20-1,,copa1236-1,20,ips,ips,[],,[],,False,False,,1
-copa1236-1-21-1,,copa1236-1,21,ips-ko-tumɨ,ips-ko-tumɨ,[],,[],,False,False,,1
-copa1236-1-22-1,,copa1236-1,22,ips-ko-meca,ips-ko-meca,[],,[],,False,False,,1
-copa1236-1-23-1,,copa1236-1,23,ips-ko-tukaʼy,ips-ko-tukaʼy,[],,[],,False,False,,1
-copa1236-1-24-1,,copa1236-1,24,ips-ko-makškuʼy,ips-ko-makškuʼy,[],,[],,False,False,,1
-copa1236-1-25-1,,copa1236-1,25,ips-ko-mos,ips-ko-mos,[],,[],,False,False,,1
-copa1236-1-26-1,,copa1236-1,26,ips-ko-tuhtaʼy,ips-ko-tuhtaʼy,[],,[],,False,False,,1
-copa1236-1-27-1,,copa1236-1,27,ips-ko-kuʼyaʼy,ips-ko-kuʼyaʼy,[],,[],,False,False,,1
-copa1236-1-28-1,,copa1236-1,28,ips-ko-tukuthtaʼy,ips-ko-tukuthtaʼy,[],,[],,False,False,,1
-copa1236-1-29-1,,copa1236-1,29,ips-ko-mahkaʼy,ips-ko-mahkaʼy,[],,[],,False,False,,1
-copa1236-1-30-1,,copa1236-1,30,ips-ko-mak,ips-ko-mak,[],,[],,False,False,,1
-copa1236-1-40-1,,copa1236-1,40,wɨstɨhkiʼs,wɨstɨhkiʼs,[],( 2 x 20 ),[],,False,False,,1
-copa1236-1-50-1,,copa1236-1,50,wɨstɨhkiʼs-ko-mak,wɨstɨhkiʼs-ko-mak,[],,[],,False,False,,1
-copa1236-1-60-1,,copa1236-1,60,tukiʼs,tukiʼs,[],( 3 x 20 ),[],,False,False,,1
-copa1236-1-70-1,,copa1236-1,70,tukiʼs-ko-mak,tukiʼs-ko-mak,[],,[],,False,False,,1
-copa1236-1-80-1,,copa1236-1,80,maktahsiʼs,maktahsiʼs,[],( 4 x 20 ),[],,False,False,,1
-copa1236-1-90-1,,copa1236-1,90,maktahsiʼs-ko-mak,maktahsiʼs-ko-mak,[],,[],,False,False,,1
-copa1236-1-100-1,,copa1236-1,100,mohsiʼs,mohsiʼs,[],( 5 x 20 ),[],,False,False,,1
-copa1236-1-200-1,,copa1236-1,200,mahkʼis,mahkʼis,[],( 10 x 20 ),[],,False,False,,1
-copa1236-1-1000-1,,copa1236-1,1000,meca moneʼ-ko-mahkiʼs,meca moneʼ-ko-mahkiʼs,[],,[],,False,False,,1
-copa1236-1-2000-1,,copa1236-1,2000,mahsaʼ moneʼ,mahsaʼ moneʼ,[],,[],,False,False,,1
+copa1236-1-1-1,,copa1236-1,1,tumɨ,tumɨ,[],,['chan2019'],,False,False,,1
+copa1236-1-2-1,,copa1236-1,2,meca,meca,[],,['chan2019'],,False,False,,1
+copa1236-1-3-1,,copa1236-1,3,tukaʼy,tukaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-4-1,,copa1236-1,4,makškuʼy,makškuʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-5-1,,copa1236-1,5,mohsaʼy,mohsaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-6-1,,copa1236-1,6,tuhtaʼy,tuhtaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-7-1,,copa1236-1,7,kuʼyaʼy,kuʼyaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-8-1,,copa1236-1,8,tukuthtaʼy,tukuthtaʼy,[],( 3 + 6 ),['chan2019'],,False,False,,1
+copa1236-1-9-1,,copa1236-1,9,makstuhtaʼy,makstuhtaʼy,[],( 4 + 6 ),['chan2019'],,False,False,,1
+copa1236-1-10-1,,copa1236-1,10,mahkaʼy,mahkaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-11-1,,copa1236-1,11,maktumaʼy,maktumaʼy,[],( 10 + 1 ),['chan2019'],,False,False,,1
+copa1236-1-12-1,,copa1236-1,12,makwɨstɨhkaʼy,makwɨstɨhkaʼy,[],( 10 + 2 ),['chan2019'],,False,False,,1
+copa1236-1-13-1,,copa1236-1,13,maktukaʼy,maktukaʼy,[],( 10 + 3 ),['chan2019'],,False,False,,1
+copa1236-1-14-1,,copa1236-1,14,makmaktaskuʼy,makmaktaskuʼy,[],( 10 + 4 ),['chan2019'],,False,False,,1
+copa1236-1-15-1,,copa1236-1,15,yɨhtaʼy,yɨhtaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-16-1,,copa1236-1,16,yɨt-ko-tumɨ,yɨt-ko-tumɨ,[],( 15 + 1 ),['chan2019'],,False,False,,1
+copa1236-1-17-1,,copa1236-1,17,yɨt-ko-meca,yɨt-ko-meca,[],( 15 + 2 ),['chan2019'],,False,False,,1
+copa1236-1-18-1,,copa1236-1,18,yɨt-ko-tukaʼy,yɨt-ko-tukaʼy,[],( 15 + 3 ),['chan2019'],,False,False,,1
+copa1236-1-19-1,,copa1236-1,19,yɨt-ko-makškuʼy,yɨt-ko-makškuʼy,[],( 15 + 4 ),['chan2019'],,False,False,,1
+copa1236-1-20-1,,copa1236-1,20,ips,ips,[],,['chan2019'],,False,False,,1
+copa1236-1-21-1,,copa1236-1,21,ips-ko-tumɨ,ips-ko-tumɨ,[],,['chan2019'],,False,False,,1
+copa1236-1-22-1,,copa1236-1,22,ips-ko-meca,ips-ko-meca,[],,['chan2019'],,False,False,,1
+copa1236-1-23-1,,copa1236-1,23,ips-ko-tukaʼy,ips-ko-tukaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-24-1,,copa1236-1,24,ips-ko-makškuʼy,ips-ko-makškuʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-25-1,,copa1236-1,25,ips-ko-mos,ips-ko-mos,[],,['chan2019'],,False,False,,1
+copa1236-1-26-1,,copa1236-1,26,ips-ko-tuhtaʼy,ips-ko-tuhtaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-27-1,,copa1236-1,27,ips-ko-kuʼyaʼy,ips-ko-kuʼyaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-28-1,,copa1236-1,28,ips-ko-tukuthtaʼy,ips-ko-tukuthtaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-29-1,,copa1236-1,29,ips-ko-mahkaʼy,ips-ko-mahkaʼy,[],,['chan2019'],,False,False,,1
+copa1236-1-30-1,,copa1236-1,30,ips-ko-mak,ips-ko-mak,[],,['chan2019'],,False,False,,1
+copa1236-1-40-1,,copa1236-1,40,wɨstɨhkiʼs,wɨstɨhkiʼs,[],( 2 x 20 ),['chan2019'],,False,False,,1
+copa1236-1-50-1,,copa1236-1,50,wɨstɨhkiʼs-ko-mak,wɨstɨhkiʼs-ko-mak,[],,['chan2019'],,False,False,,1
+copa1236-1-60-1,,copa1236-1,60,tukiʼs,tukiʼs,[],( 3 x 20 ),['chan2019'],,False,False,,1
+copa1236-1-70-1,,copa1236-1,70,tukiʼs-ko-mak,tukiʼs-ko-mak,[],,['chan2019'],,False,False,,1
+copa1236-1-80-1,,copa1236-1,80,maktahsiʼs,maktahsiʼs,[],( 4 x 20 ),['chan2019'],,False,False,,1
+copa1236-1-90-1,,copa1236-1,90,maktahsiʼs-ko-mak,maktahsiʼs-ko-mak,[],,['chan2019'],,False,False,,1
+copa1236-1-100-1,,copa1236-1,100,mohsiʼs,mohsiʼs,[],( 5 x 20 ),['chan2019'],,False,False,,1
+copa1236-1-200-1,,copa1236-1,200,mahkʼis,mahkʼis,[],( 10 x 20 ),['chan2019'],,False,False,,1
+copa1236-1-1000-1,,copa1236-1,1000,meca moneʼ-ko-mahkiʼs,meca moneʼ-ko-mahkiʼs,[],,['chan2019'],,False,False,,1
+copa1236-1-2000-1,,copa1236-1,2000,mahsaʼ moneʼ,mahsaʼ moneʼ,[],,['chan2019'],,False,False,,1

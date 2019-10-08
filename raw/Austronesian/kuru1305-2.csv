@@ -1,38 +1,38 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuru1305-2-1-1,,kuru1305-2,1,bosandi,bosandi,[],,[],,False,False,,2
-kuru1305-2-2-1,,kuru1305-2,2,boru,boru,[],,[],,False,False,,2
-kuru1305-2-3-1,,kuru1305-2,3,botor,botor,[],,[],,False,False,,2
-kuru1305-2-4-1,,kuru1305-2,4,boat,boat,[],,[],,False,False,,2
-kuru1305-2-5-1,,kuru1305-2,5,boverim,boverim,[],,[],,False,False,,2
-kuru1305-2-6-1,,kuru1305-2,6,boverim de bosandi,boverim de bosandi,[],(5 + 1),[],,False,False,,2
-kuru1305-2-7-1,,kuru1305-2,7,boverim de boru,boverim de boru,[],( 5 + 2),[],,False,False,,2
-kuru1305-2-8-1,,kuru1305-2,8,boverim de botor,boverim de botor,[],( 5 + 3),[],,False,False,,2
-kuru1305-2-9-1,,kuru1305-2,9,boverim de boat,boverim de boat,[],( 5 + 4),[],,False,False,,2
-kuru1305-2-10-1,,kuru1305-2,10,sur,sur,[],,[],,False,False,,2
-kuru1305-2-11-1,,kuru1305-2,11,surare bosandi,surare bosandi,[],,[],,False,False,,2
-kuru1305-2-12-1,,kuru1305-2,12,surare reboru,surare reboru,[],,[],,False,False,,2
-kuru1305-2-13-1,,kuru1305-2,13,surare rebotor,surare rebotor,[],,[],,False,False,,2
-kuru1305-2-14-1,,kuru1305-2,14,surare reboat,surare reboat,[],,[],,False,False,,2
-kuru1305-2-15-1,,kuru1305-2,15,surare boverim,surare boverim,[],,[],,False,False,,2
-kuru1305-2-16-1,,kuru1305-2,16,surare boverim de bosandi,surare boverim de bosandi,[],,[],,False,False,,2
-kuru1305-2-17-1,,kuru1305-2,17,surare boverim de boru,surare boverim de boru,[],,[],,False,False,,2
-kuru1305-2-18-1,,kuru1305-2,18,surare boverim de botor,surare boverim de botor,[],,[],,False,False,,2
-kuru1305-2-19-1,,kuru1305-2,19,surare boverim de boat,surare boverim de boat,[],,[],,False,False,,2
-kuru1305-2-20-1,,kuru1305-2,20,parsinon,parsinon,[],(lit: ''one person''),[],,False,False,,2
-kuru1305-2-21-1,,kuru1305-2,21,parsinon bosandi,parsinon bosandi,[],,[],,False,False,,2
-kuru1305-2-22-1,,kuru1305-2,22,parsinon reboru,parsinon reboru,[],,[],,False,False,,2
-kuru1305-2-23-1,,kuru1305-2,23,parsinon reboto,parsinon reboto,[],,[],,False,False,,2
-kuru1305-2-24-1,,kuru1305-2,24,parsinon reboat,parsinon reboat,[],,[],,False,False,,2
-kuru1305-2-25-1,,kuru1305-2,25,parsinon boverim,parsinon boverim,[],,[],,False,False,,2
-kuru1305-2-26-1,,kuru1305-2,26,parsinon boverim de bosandi,parsinon boverim de bosandi,[],,[],,False,False,,2
-kuru1305-2-27-1,,kuru1305-2,27,parsinon boverim de boru,parsinon boverim de boru,[],,[],,False,False,,2
-kuru1305-2-28-1,,kuru1305-2,28,parsinon boverim de botor,parsinon boverim de botor,[],,[],,False,False,,2
-kuru1305-2-29-1,,kuru1305-2,29,parsinon boverim de boat,parsinon boverim de boat,[],,[],,False,False,,2
-kuru1305-2-30-1,,kuru1305-2,30,parsinon resur,parsinon resur,[],,[],,False,False,,2
-kuru1305-2-40-1,,kuru1305-2,40,parsinon mandu,parsinon mandu,[],(lit: ''two persons''),[],,False,False,,2
-kuru1305-2-50-1,,kuru1305-2,50,parsinon mandu resur,parsinon mandu resur,[],,[],,False,False,,2
-kuru1305-2-60-1,,kuru1305-2,60,parsinon mantor,parsinon mantor,[],(lit: ''three persons''),[],,False,False,,2
-kuru1305-2-70-1,,kuru1305-2,70,parsinon mantor resur,parsinon mantor resur,[],,[],,False,False,,2
-kuru1305-2-80-1,,kuru1305-2,80,parsinon manat,parsinon manat,[],(lit: ''four persons''),[],,False,False,,2
-kuru1305-2-90-1,,kuru1305-2,90,parsinon manat resur,parsinon manat resur,[],,[],,False,False,,2
-kuru1305-2-100-1,,kuru1305-2,100,parsinon verim,parsinon verim,[],(lit: ''five persons''),[],,False,False,,2
+kuru1305-2-1-1,,kuru1305-2,1,bosandi,bosandi,[],,['chan2019'],,False,False,,2
+kuru1305-2-2-1,,kuru1305-2,2,boru,boru,[],,['chan2019'],,False,False,,2
+kuru1305-2-3-1,,kuru1305-2,3,botor,botor,[],,['chan2019'],,False,False,,2
+kuru1305-2-4-1,,kuru1305-2,4,boat,boat,[],,['chan2019'],,False,False,,2
+kuru1305-2-5-1,,kuru1305-2,5,boverim,boverim,[],,['chan2019'],,False,False,,2
+kuru1305-2-6-1,,kuru1305-2,6,boverim de bosandi,boverim de bosandi,[],(5 + 1),['chan2019'],,False,False,,2
+kuru1305-2-7-1,,kuru1305-2,7,boverim de boru,boverim de boru,[],( 5 + 2),['chan2019'],,False,False,,2
+kuru1305-2-8-1,,kuru1305-2,8,boverim de botor,boverim de botor,[],( 5 + 3),['chan2019'],,False,False,,2
+kuru1305-2-9-1,,kuru1305-2,9,boverim de boat,boverim de boat,[],( 5 + 4),['chan2019'],,False,False,,2
+kuru1305-2-10-1,,kuru1305-2,10,sur,sur,[],,['chan2019'],,False,False,,2
+kuru1305-2-11-1,,kuru1305-2,11,surare bosandi,surare bosandi,[],,['chan2019'],,False,False,,2
+kuru1305-2-12-1,,kuru1305-2,12,surare reboru,surare reboru,[],,['chan2019'],,False,False,,2
+kuru1305-2-13-1,,kuru1305-2,13,surare rebotor,surare rebotor,[],,['chan2019'],,False,False,,2
+kuru1305-2-14-1,,kuru1305-2,14,surare reboat,surare reboat,[],,['chan2019'],,False,False,,2
+kuru1305-2-15-1,,kuru1305-2,15,surare boverim,surare boverim,[],,['chan2019'],,False,False,,2
+kuru1305-2-16-1,,kuru1305-2,16,surare boverim de bosandi,surare boverim de bosandi,[],,['chan2019'],,False,False,,2
+kuru1305-2-17-1,,kuru1305-2,17,surare boverim de boru,surare boverim de boru,[],,['chan2019'],,False,False,,2
+kuru1305-2-18-1,,kuru1305-2,18,surare boverim de botor,surare boverim de botor,[],,['chan2019'],,False,False,,2
+kuru1305-2-19-1,,kuru1305-2,19,surare boverim de boat,surare boverim de boat,[],,['chan2019'],,False,False,,2
+kuru1305-2-20-1,,kuru1305-2,20,parsinon,parsinon,[],(lit: ''one person''),['chan2019'],,False,False,,2
+kuru1305-2-21-1,,kuru1305-2,21,parsinon bosandi,parsinon bosandi,[],,['chan2019'],,False,False,,2
+kuru1305-2-22-1,,kuru1305-2,22,parsinon reboru,parsinon reboru,[],,['chan2019'],,False,False,,2
+kuru1305-2-23-1,,kuru1305-2,23,parsinon reboto,parsinon reboto,[],,['chan2019'],,False,False,,2
+kuru1305-2-24-1,,kuru1305-2,24,parsinon reboat,parsinon reboat,[],,['chan2019'],,False,False,,2
+kuru1305-2-25-1,,kuru1305-2,25,parsinon boverim,parsinon boverim,[],,['chan2019'],,False,False,,2
+kuru1305-2-26-1,,kuru1305-2,26,parsinon boverim de bosandi,parsinon boverim de bosandi,[],,['chan2019'],,False,False,,2
+kuru1305-2-27-1,,kuru1305-2,27,parsinon boverim de boru,parsinon boverim de boru,[],,['chan2019'],,False,False,,2
+kuru1305-2-28-1,,kuru1305-2,28,parsinon boverim de botor,parsinon boverim de botor,[],,['chan2019'],,False,False,,2
+kuru1305-2-29-1,,kuru1305-2,29,parsinon boverim de boat,parsinon boverim de boat,[],,['chan2019'],,False,False,,2
+kuru1305-2-30-1,,kuru1305-2,30,parsinon resur,parsinon resur,[],,['chan2019'],,False,False,,2
+kuru1305-2-40-1,,kuru1305-2,40,parsinon mandu,parsinon mandu,[],(lit: ''two persons''),['chan2019'],,False,False,,2
+kuru1305-2-50-1,,kuru1305-2,50,parsinon mandu resur,parsinon mandu resur,[],,['chan2019'],,False,False,,2
+kuru1305-2-60-1,,kuru1305-2,60,parsinon mantor,parsinon mantor,[],(lit: ''three persons''),['chan2019'],,False,False,,2
+kuru1305-2-70-1,,kuru1305-2,70,parsinon mantor resur,parsinon mantor resur,[],,['chan2019'],,False,False,,2
+kuru1305-2-80-1,,kuru1305-2,80,parsinon manat,parsinon manat,[],(lit: ''four persons''),['chan2019'],,False,False,,2
+kuru1305-2-90-1,,kuru1305-2,90,parsinon manat resur,parsinon manat resur,[],,['chan2019'],,False,False,,2
+kuru1305-2-100-1,,kuru1305-2,100,parsinon verim,parsinon verim,[],(lit: ''five persons''),['chan2019'],,False,False,,2

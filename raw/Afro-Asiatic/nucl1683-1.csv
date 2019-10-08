@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1683-1-1-1,,nucl1683-1,1,takan,takan,[],,[],,False,False,,1
-nucl1683-1-2-1,,nucl1683-1,2,səray,səray,[],,[],,False,False,,1
-nucl1683-1-3-1,,nucl1683-1,3,makaɗ,makaɗ,[],,[],,False,False,,1
-nucl1683-1-4-1,,nucl1683-1,4,faɗ,faɗ,[],,[],,False,False,,1
-nucl1683-1-5-1,,nucl1683-1,5,jeɓin,jeɓin,[],,[],,False,False,,1
-nucl1683-1-6-1,,nucl1683-1,6,koh,koh,[],,[],,False,False,,1
-nucl1683-1-7-1,,nucl1683-1,7,cesireɗ,cesireɗ,[],,[],,False,False,,1
-nucl1683-1-8-1,,nucl1683-1,8,cəfaɗcəfaɗ,cəfaɗcəfaɗ,[],( 4 + 4 ),[],,False,False,,1
-nucl1683-1-9-1,,nucl1683-1,9,dərfatakan,dərfatakan,[],( 10 - 1 ),[],,False,False,,1
-nucl1683-1-10-1,,nucl1683-1,10,ɡuɓ təɓa təɓa,ɡuɓ təɓa təɓa,[],,[],,False,False,,1
-nucl1683-1-11-1,,nucl1683-1,11,ɡuɓ a tala takan,ɡuɓ a tala takan,[],,[],,False,False,,1
-nucl1683-1-12-1,,nucl1683-1,12,ɡuɓ a tala səray,ɡuɓ a tala səray,[],,[],,False,False,,1
-nucl1683-1-13-1,,nucl1683-1,13,ɡuɓ a tala makaɗ,ɡuɓ a tala makaɗ,[],,[],,False,False,,1
-nucl1683-1-14-1,,nucl1683-1,14,ɡuɓ a tala faɗ,ɡuɓ a tala faɗ,[],,[],,False,False,,1
-nucl1683-1-15-1,,nucl1683-1,15,ɡuɓ a tala jeɓin,ɡuɓ a tala jeɓin,[],,[],,False,False,,1
-nucl1683-1-16-1,,nucl1683-1,16,ɡuɓ a tala koh,ɡuɓ a tala koh,[],,[],,False,False,,1
-nucl1683-1-17-1,,nucl1683-1,17,ɡuɓ a tala cesireɗ,ɡuɓ a tala cesireɗ,[],,[],,False,False,,1
-nucl1683-1-18-1,,nucl1683-1,18,ɡuɓ a tala cəfaɗcəfaɗ,ɡuɓ a tala cəfaɗcəfaɗ,[],,[],,False,False,,1
-nucl1683-1-19-1,,nucl1683-1,19,ɡuɓ a tala dərfatakan,ɡuɓ a tala dərfatakan,[],,[],,False,False,,1
-nucl1683-1-20-1,,nucl1683-1,20,ɡuɓ ɡuɓ səray,ɡuɓ ɡuɓ səray,[],( 10 + 10 x 2 ) ??,[],,False,False,,1
-nucl1683-1-21-1,,nucl1683-1,21,ɡuɓ ɡuɓ səray atama takan,ɡuɓ ɡuɓ səray atama takan,[],,[],,False,False,,1
-nucl1683-1-22-1,,nucl1683-1,22,ɡuɓ ɡuɓ səray atama səray,ɡuɓ ɡuɓ səray atama səray,[],,[],,False,False,,1
-nucl1683-1-23-1,,nucl1683-1,23,ɡuɓ ɡuɓ səray atama makaɗ,ɡuɓ ɡuɓ səray atama makaɗ,[],,[],,False,False,,1
-nucl1683-1-24-1,,nucl1683-1,24,ɡuɓ ɡuɓ səray atama faɗ,ɡuɓ ɡuɓ səray atama faɗ,[],,[],,False,False,,1
-nucl1683-1-25-1,,nucl1683-1,25,ɡuɓ ɡuɓ səray atama jeɓin,ɡuɓ ɡuɓ səray atama jeɓin,[],,[],,False,False,,1
-nucl1683-1-26-1,,nucl1683-1,26,ɡuɓ ɡuɓ səray atama koh,ɡuɓ ɡuɓ səray atama koh,[],,[],,False,False,,1
-nucl1683-1-27-1,,nucl1683-1,27,ɡuɓ ɡuɓ səray atama cesireɗ,ɡuɓ ɡuɓ səray atama cesireɗ,[],,[],,False,False,,1
-nucl1683-1-28-1,,nucl1683-1,28,ɡuɓ ɡuɓ səray atama cəfaɗcəfaɗ,ɡuɓ ɡuɓ səray atama cəfaɗcəfaɗ,[],,[],,False,False,,1
-nucl1683-1-29-1,,nucl1683-1,29,ɡuɓ ɡuɓ səray atama dərfatakan,ɡuɓ ɡuɓ səray atama dərfatakan,[],,[],,False,False,,1
-nucl1683-1-30-1,,nucl1683-1,30,wom makaɗ,wom makaɗ,[],,[],,False,False,,1
-nucl1683-1-40-1,,nucl1683-1,40,wom faɗ,wom faɗ,[],,[],,False,False,,1
-nucl1683-1-50-1,,nucl1683-1,50,wom jeɓin,wom jeɓin,[],,[],,False,False,,1
-nucl1683-1-60-1,,nucl1683-1,60,wom koh,wom koh,[],,[],,False,False,,1
-nucl1683-1-70-1,,nucl1683-1,70,wom cesireɗ,wom cesireɗ,[],,[],,False,False,,1
-nucl1683-1-80-1,,nucl1683-1,80,wom cəfaɗcəfaɗ,wom cəfaɗcəfaɗ,[],,[],,False,False,,1
-nucl1683-1-90-1,,nucl1683-1,90,wom dərfatakan,wom dərfatakan,[],,[],,False,False,,1
-nucl1683-1-100-1,,nucl1683-1,100,bələk,bələk,[],,[],,False,False,,1
-nucl1683-1-200-1,,nucl1683-1,200,bələk səray,bələk səray,[],,[],,False,False,,1
-nucl1683-1-1000-1,,nucl1683-1,1000,wujine,wujine,[],< Fulfulde loan ,[],,True,False,,1
-nucl1683-1-2000-1,,nucl1683-1,2000,wujine səray,wujine səray,[],,[],,False,False,,1
+nucl1683-1-1-1,,nucl1683-1,1,takan,takan,[],,['chan2019'],,False,False,,1
+nucl1683-1-2-1,,nucl1683-1,2,səray,səray,[],,['chan2019'],,False,False,,1
+nucl1683-1-3-1,,nucl1683-1,3,makaɗ,makaɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-4-1,,nucl1683-1,4,faɗ,faɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-5-1,,nucl1683-1,5,jeɓin,jeɓin,[],,['chan2019'],,False,False,,1
+nucl1683-1-6-1,,nucl1683-1,6,koh,koh,[],,['chan2019'],,False,False,,1
+nucl1683-1-7-1,,nucl1683-1,7,cesireɗ,cesireɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-8-1,,nucl1683-1,8,cəfaɗcəfaɗ,cəfaɗcəfaɗ,[],( 4 + 4 ),['chan2019'],,False,False,,1
+nucl1683-1-9-1,,nucl1683-1,9,dərfatakan,dərfatakan,[],( 10 - 1 ),['chan2019'],,False,False,,1
+nucl1683-1-10-1,,nucl1683-1,10,ɡuɓ təɓa təɓa,ɡuɓ təɓa təɓa,[],,['chan2019'],,False,False,,1
+nucl1683-1-11-1,,nucl1683-1,11,ɡuɓ a tala takan,ɡuɓ a tala takan,[],,['chan2019'],,False,False,,1
+nucl1683-1-12-1,,nucl1683-1,12,ɡuɓ a tala səray,ɡuɓ a tala səray,[],,['chan2019'],,False,False,,1
+nucl1683-1-13-1,,nucl1683-1,13,ɡuɓ a tala makaɗ,ɡuɓ a tala makaɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-14-1,,nucl1683-1,14,ɡuɓ a tala faɗ,ɡuɓ a tala faɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-15-1,,nucl1683-1,15,ɡuɓ a tala jeɓin,ɡuɓ a tala jeɓin,[],,['chan2019'],,False,False,,1
+nucl1683-1-16-1,,nucl1683-1,16,ɡuɓ a tala koh,ɡuɓ a tala koh,[],,['chan2019'],,False,False,,1
+nucl1683-1-17-1,,nucl1683-1,17,ɡuɓ a tala cesireɗ,ɡuɓ a tala cesireɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-18-1,,nucl1683-1,18,ɡuɓ a tala cəfaɗcəfaɗ,ɡuɓ a tala cəfaɗcəfaɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-19-1,,nucl1683-1,19,ɡuɓ a tala dərfatakan,ɡuɓ a tala dərfatakan,[],,['chan2019'],,False,False,,1
+nucl1683-1-20-1,,nucl1683-1,20,ɡuɓ ɡuɓ səray,ɡuɓ ɡuɓ səray,[],( 10 + 10 x 2 ) ??,['chan2019'],,False,False,,1
+nucl1683-1-21-1,,nucl1683-1,21,ɡuɓ ɡuɓ səray atama takan,ɡuɓ ɡuɓ səray atama takan,[],,['chan2019'],,False,False,,1
+nucl1683-1-22-1,,nucl1683-1,22,ɡuɓ ɡuɓ səray atama səray,ɡuɓ ɡuɓ səray atama səray,[],,['chan2019'],,False,False,,1
+nucl1683-1-23-1,,nucl1683-1,23,ɡuɓ ɡuɓ səray atama makaɗ,ɡuɓ ɡuɓ səray atama makaɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-24-1,,nucl1683-1,24,ɡuɓ ɡuɓ səray atama faɗ,ɡuɓ ɡuɓ səray atama faɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-25-1,,nucl1683-1,25,ɡuɓ ɡuɓ səray atama jeɓin,ɡuɓ ɡuɓ səray atama jeɓin,[],,['chan2019'],,False,False,,1
+nucl1683-1-26-1,,nucl1683-1,26,ɡuɓ ɡuɓ səray atama koh,ɡuɓ ɡuɓ səray atama koh,[],,['chan2019'],,False,False,,1
+nucl1683-1-27-1,,nucl1683-1,27,ɡuɓ ɡuɓ səray atama cesireɗ,ɡuɓ ɡuɓ səray atama cesireɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-28-1,,nucl1683-1,28,ɡuɓ ɡuɓ səray atama cəfaɗcəfaɗ,ɡuɓ ɡuɓ səray atama cəfaɗcəfaɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-29-1,,nucl1683-1,29,ɡuɓ ɡuɓ səray atama dərfatakan,ɡuɓ ɡuɓ səray atama dərfatakan,[],,['chan2019'],,False,False,,1
+nucl1683-1-30-1,,nucl1683-1,30,wom makaɗ,wom makaɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-40-1,,nucl1683-1,40,wom faɗ,wom faɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-50-1,,nucl1683-1,50,wom jeɓin,wom jeɓin,[],,['chan2019'],,False,False,,1
+nucl1683-1-60-1,,nucl1683-1,60,wom koh,wom koh,[],,['chan2019'],,False,False,,1
+nucl1683-1-70-1,,nucl1683-1,70,wom cesireɗ,wom cesireɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-80-1,,nucl1683-1,80,wom cəfaɗcəfaɗ,wom cəfaɗcəfaɗ,[],,['chan2019'],,False,False,,1
+nucl1683-1-90-1,,nucl1683-1,90,wom dərfatakan,wom dərfatakan,[],,['chan2019'],,False,False,,1
+nucl1683-1-100-1,,nucl1683-1,100,bələk,bələk,[],,['chan2019'],,False,False,,1
+nucl1683-1-200-1,,nucl1683-1,200,bələk səray,bələk səray,[],,['chan2019'],,False,False,,1
+nucl1683-1-1000-1,,nucl1683-1,1000,wujine,wujine,[],< Fulfulde loan ,['chan2019'],,True,False,,1
+nucl1683-1-2000-1,,nucl1683-1,2000,wujine səray,wujine səray,[],,['chan2019'],,False,False,,1

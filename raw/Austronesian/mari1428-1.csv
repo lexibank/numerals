@@ -1,47 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mari1428-1-1-1,,mari1428-1,1,tekelei,tekelei,[],,[],,False,False,,1
-mari1428-1-1-2,,mari1428-1,1,wan,wan,[],,[],,False,False,,1
-mari1428-1-2-1,,mari1428-1,2,uru,uru,[],,[],,False,False,,1
-mari1428-1-2-2,,mari1428-1,2,tu,tu,[],,[],,False,False,,1
-mari1428-1-3-1,,mari1428-1,3,towo,towo,[],,[],,False,False,,1
-mari1428-1-3-2,,mari1428-1,3,tri,tri,[],,[],,False,False,,1
-mari1428-1-4-1,,mari1428-1,4,aiwadodo,aiwadodo,[],,[],,False,False,,1
-mari1428-1-4-2,,mari1428-1,4,aiwapenia,aiwapenia,[],,[],,False,False,,1
-mari1428-1-4-3,,mari1428-1,4,fo,fo,[],,[],,False,False,,1
-mari1428-1-5-1,,mari1428-1,5,ima tekelai ku fese-ya,ima tekelai ku fese-ya,[],,[],,False,False,,1
-mari1428-1-5-2,,mari1428-1,5,faiv,faiv,[],,[],,False,False,,1
-mari1428-1-6-1,,mari1428-1,6,ima tekelei ɡeɡe tekelei,ima tekelei ɡeɡe tekelei,[],( 5 + 1 ),[],,False,False,,1
-mari1428-1-6-2,,mari1428-1,6,sikis,sikis,[],,[],,False,False,,1
-mari1428-1-7-1,,mari1428-1,7,ima tekelei ɡeɡe uru,ima tekelei ɡeɡe uru,[],( 5 + 2 ),[],,False,False,,1
-mari1428-1-7-2,,mari1428-1,7,seben,seben,[],,[],,False,False,,1
-mari1428-1-8-1,,mari1428-1,8,ima tekelei ɡeɡe towo,ima tekelei ɡeɡe towo,[],( 5 + 3 ),[],,False,False,,1
-mari1428-1-8-2,,mari1428-1,8,eiti,eiti,[],,[],,False,False,,1
-mari1428-1-9-1,,mari1428-1,9,ima tekelei ɡeɡe aiwadodo,ima tekelei ɡeɡe aiwadodo,[],( 5 + 4),[],,False,False,,1
-mari1428-1-9-2,,mari1428-1,9,naen,naen,[],,[],,False,False,,1
-mari1428-1-10-1,,mari1428-1,10,ima uru,ima uru,[],( lit: 'hand two'),[],,False,False,,1
-mari1428-1-10-2,,mari1428-1,10,ten,ten,[],,[],,False,False,,1
-mari1428-1-11-1,,mari1428-1,11,eleben,eleben,[],,[],,False,False,,1
-mari1428-1-11-2,,mari1428-1,11,12. tuwelf,12. tuwelf,[],,[],,False,True,,1
-mari1428-1-11-3,,mari1428-1,11,13.tətin,13.tətin,[],,[],,False,True,,1
-mari1428-1-11-4,,mari1428-1,11,14.fotin,14.fotin,[],,[],,False,True,,1
-mari1428-1-11-5,,mari1428-1,11,15.fiftin,15.fiftin,[],,[],,False,True,,1
-mari1428-1-11-6,,mari1428-1,11,16.sikstin,16.sikstin,[],,[],,False,True,,1
-mari1428-1-11-7,,mari1428-1,11,17.sebentin,17.sebentin,[],,[],,False,True,,1
-mari1428-1-11-8,,mari1428-1,11,18.eitin,18.eitin,[],,[],,False,True,,1
-mari1428-1-19-1,,mari1428-1,19,naintin,naintin,[],,[],,False,False,,1
-mari1428-1-19-2,,mari1428-1,19,20. ima uru ye uru,20. ima uru ye uru,[],(litː '' two hands and two feet of one man''),[],,False,True,,1
-mari1428-1-19-3,,mari1428-1,19,tuwentie,tuwentie,[],,[],,False,False,,1
-mari1428-1-21-1,,mari1428-1,21,tuwentiy wan,tuwentiy wan,[],,[],,False,False,,1
-mari1428-1-21-2,,mari1428-1,21,22. tuwentiy tu,22. tuwentiy tu,[],,[],,False,True,,1
-mari1428-1-21-3,,mari1428-1,21,23. tuwentiy tri,23. tuwentiy tri,[],,[],,False,True,,1
-mari1428-1-30-1,,mari1428-1,30,tətiy,tətiy,[],,[],,False,False,,1
-mari1428-1-30-2,,mari1428-1,30,40. fotiy,40. fotiy,[],,[],,False,True,,1
-mari1428-1-30-3,,mari1428-1,30,50. faivtiy,50. faivtiy,[],,[],,False,True,,1
-mari1428-1-30-4,,mari1428-1,30,60. sikistiy,60. sikistiy,[],,[],,False,True,,1
-mari1428-1-30-5,,mari1428-1,30,70. sebentiy,70. sebentiy,[],,[],,False,True,,1
-mari1428-1-30-6,,mari1428-1,30,80. eitiy,80. eitiy,[],,[],,False,True,,1
-mari1428-1-90-1,,mari1428-1,90,naentiy,naentiy,[],,[],,False,False,,1
-mari1428-1-90-2,,mari1428-1,90,100. wan handed,100. wan handed,[],,[],,False,True,,1
-mari1428-1-90-3,,mari1428-1,90,200. tu handed,200. tu handed,[],,[],,False,True,,1
-mari1428-1-90-4,,mari1428-1,90,1000. wan tausan,1000. wan tausan,[],,[],,False,True,,1
-mari1428-1-90-5,,mari1428-1,90,2000. tu tausan,2000. tu tausan,[],,[],,False,True,,1
+mari1428-1-1-1,,mari1428-1,1,tekelei,tekelei,[],,['chan2019'],,False,False,,1
+mari1428-1-1-2,,mari1428-1,1,wan,wan,[],,['chan2019'],,False,False,,1
+mari1428-1-2-1,,mari1428-1,2,uru,uru,[],,['chan2019'],,False,False,,1
+mari1428-1-2-2,,mari1428-1,2,tu,tu,[],,['chan2019'],,False,False,,1
+mari1428-1-3-1,,mari1428-1,3,towo,towo,[],,['chan2019'],,False,False,,1
+mari1428-1-3-2,,mari1428-1,3,tri,tri,[],,['chan2019'],,False,False,,1
+mari1428-1-4-1,,mari1428-1,4,aiwadodo,aiwadodo,[],,['chan2019'],,False,False,,1
+mari1428-1-4-2,,mari1428-1,4,aiwapenia,aiwapenia,[],,['chan2019'],,False,False,,1
+mari1428-1-4-3,,mari1428-1,4,fo,fo,[],,['chan2019'],,False,False,,1
+mari1428-1-5-1,,mari1428-1,5,ima tekelai ku fese-ya,ima tekelai ku fese-ya,[],,['chan2019'],,False,False,,1
+mari1428-1-5-2,,mari1428-1,5,faiv,faiv,[],,['chan2019'],,False,False,,1
+mari1428-1-6-1,,mari1428-1,6,ima tekelei ɡeɡe tekelei,ima tekelei ɡeɡe tekelei,[],( 5 + 1 ),['chan2019'],,False,False,,1
+mari1428-1-6-2,,mari1428-1,6,sikis,sikis,[],,['chan2019'],,False,False,,1
+mari1428-1-7-1,,mari1428-1,7,ima tekelei ɡeɡe uru,ima tekelei ɡeɡe uru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mari1428-1-7-2,,mari1428-1,7,seben,seben,[],,['chan2019'],,False,False,,1
+mari1428-1-8-1,,mari1428-1,8,ima tekelei ɡeɡe towo,ima tekelei ɡeɡe towo,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mari1428-1-8-2,,mari1428-1,8,eiti,eiti,[],,['chan2019'],,False,False,,1
+mari1428-1-9-1,,mari1428-1,9,ima tekelei ɡeɡe aiwadodo,ima tekelei ɡeɡe aiwadodo,[],( 5 + 4),['chan2019'],,False,False,,1
+mari1428-1-9-2,,mari1428-1,9,naen,naen,[],,['chan2019'],,False,False,,1
+mari1428-1-10-1,,mari1428-1,10,ima uru,ima uru,[],( lit: 'hand two'),['chan2019'],,False,False,,1
+mari1428-1-10-2,,mari1428-1,10,ten,ten,[],,['chan2019'],,False,False,,1
+mari1428-1-11-1,,mari1428-1,11,eleben,eleben,[],,['chan2019'],,False,False,,1
+mari1428-1-11-2,,mari1428-1,11,12. tuwelf,12. tuwelf,[],,['chan2019'],,False,True,,1
+mari1428-1-11-3,,mari1428-1,11,13.tətin,13.tətin,[],,['chan2019'],,False,True,,1
+mari1428-1-11-4,,mari1428-1,11,14.fotin,14.fotin,[],,['chan2019'],,False,True,,1
+mari1428-1-11-5,,mari1428-1,11,15.fiftin,15.fiftin,[],,['chan2019'],,False,True,,1
+mari1428-1-11-6,,mari1428-1,11,16.sikstin,16.sikstin,[],,['chan2019'],,False,True,,1
+mari1428-1-11-7,,mari1428-1,11,17.sebentin,17.sebentin,[],,['chan2019'],,False,True,,1
+mari1428-1-11-8,,mari1428-1,11,18.eitin,18.eitin,[],,['chan2019'],,False,True,,1
+mari1428-1-19-1,,mari1428-1,19,naintin,naintin,[],,['chan2019'],,False,False,,1
+mari1428-1-19-2,,mari1428-1,19,20. ima uru ye uru,20. ima uru ye uru,[],(litː '' two hands and two feet of one man''),['chan2019'],,False,True,,1
+mari1428-1-19-3,,mari1428-1,19,tuwentie,tuwentie,[],,['chan2019'],,False,False,,1
+mari1428-1-21-1,,mari1428-1,21,tuwentiy wan,tuwentiy wan,[],,['chan2019'],,False,False,,1
+mari1428-1-21-2,,mari1428-1,21,22. tuwentiy tu,22. tuwentiy tu,[],,['chan2019'],,False,True,,1
+mari1428-1-21-3,,mari1428-1,21,23. tuwentiy tri,23. tuwentiy tri,[],,['chan2019'],,False,True,,1
+mari1428-1-30-1,,mari1428-1,30,tətiy,tətiy,[],,['chan2019'],,False,False,,1
+mari1428-1-30-2,,mari1428-1,30,40. fotiy,40. fotiy,[],,['chan2019'],,False,True,,1
+mari1428-1-30-3,,mari1428-1,30,50. faivtiy,50. faivtiy,[],,['chan2019'],,False,True,,1
+mari1428-1-30-4,,mari1428-1,30,60. sikistiy,60. sikistiy,[],,['chan2019'],,False,True,,1
+mari1428-1-30-5,,mari1428-1,30,70. sebentiy,70. sebentiy,[],,['chan2019'],,False,True,,1
+mari1428-1-30-6,,mari1428-1,30,80. eitiy,80. eitiy,[],,['chan2019'],,False,True,,1
+mari1428-1-90-1,,mari1428-1,90,naentiy,naentiy,[],,['chan2019'],,False,False,,1
+mari1428-1-90-2,,mari1428-1,90,100. wan handed,100. wan handed,[],,['chan2019'],,False,True,,1
+mari1428-1-90-3,,mari1428-1,90,200. tu handed,200. tu handed,[],,['chan2019'],,False,True,,1
+mari1428-1-90-4,,mari1428-1,90,1000. wan tausan,1000. wan tausan,[],,['chan2019'],,False,True,,1
+mari1428-1-90-5,,mari1428-1,90,2000. tu tausan,2000. tu tausan,[],,['chan2019'],,False,True,,1

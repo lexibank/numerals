@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-paip1241-1-1-1,,paip1241-1,1,ʂit,ʂit,[],,[],,False,False,,1
-paip1241-1-2-1,,paip1241-1,2,hwak,hwak,[],,[],,False,False,,1
-paip1241-1-3-1,,paip1241-1,3,xmuk,xmuk,[],,[],,False,False,,1
-paip1241-1-3-2,,paip1241-1,3,xuumúk,xuumúk,[],,[],,False,False,,1
-paip1241-1-4-1,,paip1241-1,4,xupá,xupá,[],,[],,False,False,,1
-paip1241-1-5-1,,paip1241-1,5,seɾáp,seɾáp,[],,[],,False,False,,1
-paip1241-1-6-1,,paip1241-1,6,tʂpé,tʂpé,[],,[],,False,False,,1
-paip1241-1-7-1,,paip1241-1,7,pxkay,pxkay,[],,[],,False,False,,1
-paip1241-1-8-1,,paip1241-1,8,cpxok,cpxok,[],,[],,False,False,,1
-paip1241-1-9-1,,paip1241-1,9,xamxmúk,xamxmúk,[],( 3 ) ??,[],,False,False,,1
-paip1241-1-10-1,,paip1241-1,10,βmás,βmás,[],,[],,False,False,,1
-paip1241-1-11-1,,paip1241-1,11,βmás ɲaak ʂit,βmás ɲaak ʂit,[],,[],,False,False,,1
-paip1241-1-12-1,,paip1241-1,12,βmás ɲaak xwak ɲimcéβ,βmás ɲaak xwak ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-13-1,,paip1241-1,13,βmás ɲaak xmuk ɲimcéβ,βmás ɲaak xmuk ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-14-1,,paip1241-1,14,βmás ɲaak xupá ɲimcéβ,βmás ɲaak xupá ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-15-1,,paip1241-1,15,βmás ɲaak seɾáp ɲimcéβ,βmás ɲaak seɾáp ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-16-1,,paip1241-1,16,βmás ɲaak tʂpé ɲimcéβ,βmás ɲaak tʂpé ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-17-1,,paip1241-1,17,βmás ɲaak pxkay ɲimcéβ,βmás ɲaak pxkay ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-18-1,,paip1241-1,18,βmás ɲaak cpxok ɲimcéβ,βmás ɲaak cpxok ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-19-1,,paip1241-1,19,βmás ɲaak xamxmúk ɲimcéβ,βmás ɲaak xamxmúk ɲimcéβ,[],,[],,False,False,,1
-paip1241-1-20-1,,paip1241-1,20,βmás xwák,βmás xwák,[],,[],,False,False,,1
-paip1241-1-21-1,,paip1241-1,21,βmás xwák ɲaak ʂit,βmás xwák ɲaak ʂit,[],,[],,False,False,,1
-paip1241-1-22-1,,paip1241-1,22,βmás xwák ɲaak xwak,βmás xwák ɲaak xwak,[],,[],,False,False,,1
-paip1241-1-23-1,,paip1241-1,23,βmás xwák ɲaak xmuk,βmás xwák ɲaak xmuk,[],,[],,False,False,,1
-paip1241-1-24-1,,paip1241-1,24,βmás xwák ɲaak xupá,βmás xwák ɲaak xupá,[],,[],,False,False,,1
-paip1241-1-25-1,,paip1241-1,25,βmás xwák ɲaak seɾáp,βmás xwák ɲaak seɾáp,[],,[],,False,False,,1
-paip1241-1-26-1,,paip1241-1,26,βmás xwák ɲaak tʂpé,βmás xwák ɲaak tʂpé,[],,[],,False,False,,1
-paip1241-1-27-1,,paip1241-1,27,βmás xwák ɲaak pxkay,βmás xwák ɲaak pxkay,[],,[],,False,False,,1
-paip1241-1-28-1,,paip1241-1,28,βmás xwák ɲaak cpxok,βmás xwák ɲaak cpxok,[],,[],,False,False,,1
-paip1241-1-29-1,,paip1241-1,29,βmás xwák ɲaak xamxmúk,βmás xwák ɲaak xamxmúk,[],,[],,False,False,,1
-paip1241-1-30-1,,paip1241-1,30,βmás xwák,βmás xwák,[],,[],,False,False,,1
-paip1241-1-40-1,,paip1241-1,40,βmás xupá,βmás xupá,[],,[],,False,False,,1
-paip1241-1-50-1,,paip1241-1,50,βmás seɾáp,βmás seɾáp,[],,[],,False,False,,1
-paip1241-1-60-1,,paip1241-1,60,βmás tʂpé,βmás tʂpé,[],,[],,False,False,,1
-paip1241-1-70-1,,paip1241-1,70,βmás pxkay,βmás pxkay,[],,[],,False,False,,1
-paip1241-1-80-1,,paip1241-1,80,βmás cpxok,βmás cpxok,[],,[],,False,False,,1
-paip1241-1-90-1,,paip1241-1,90,βmás xamxmúk,βmás xamxmúk,[],,[],,False,False,,1
-paip1241-1-100-1,,paip1241-1,100,βmas ʔik kya βmas ʔik,βmas ʔik kya βmas ʔik,[],,[],,False,False,,1
-paip1241-1-200-1,,paip1241-1,200,βmas ʔik kya βmas ʔik xwak,βmas ʔik kya βmas ʔik xwak,[],,[],,False,False,,1
-paip1241-1-1000-1,,paip1241-1,1000,βmas ʔik kya βmas ʔik kya βmas ʔik,βmas ʔik kya βmas ʔik kya βmas ʔik,[],,[],,False,False,,1
-paip1241-1-2000-1,,paip1241-1,2000,βmas ʔik kya βmas ʔik kya βmas ʔik xwak,βmas ʔik kya βmas ʔik kya βmas ʔik xwak,[],,[],,False,False,,1
+paip1241-1-1-1,,paip1241-1,1,ʂit,ʂit,[],,['chan2019'],,False,False,,1
+paip1241-1-2-1,,paip1241-1,2,hwak,hwak,[],,['chan2019'],,False,False,,1
+paip1241-1-3-1,,paip1241-1,3,xmuk,xmuk,[],,['chan2019'],,False,False,,1
+paip1241-1-3-2,,paip1241-1,3,xuumúk,xuumúk,[],,['chan2019'],,False,False,,1
+paip1241-1-4-1,,paip1241-1,4,xupá,xupá,[],,['chan2019'],,False,False,,1
+paip1241-1-5-1,,paip1241-1,5,seɾáp,seɾáp,[],,['chan2019'],,False,False,,1
+paip1241-1-6-1,,paip1241-1,6,tʂpé,tʂpé,[],,['chan2019'],,False,False,,1
+paip1241-1-7-1,,paip1241-1,7,pxkay,pxkay,[],,['chan2019'],,False,False,,1
+paip1241-1-8-1,,paip1241-1,8,cpxok,cpxok,[],,['chan2019'],,False,False,,1
+paip1241-1-9-1,,paip1241-1,9,xamxmúk,xamxmúk,[],( 3 ) ??,['chan2019'],,False,False,,1
+paip1241-1-10-1,,paip1241-1,10,βmás,βmás,[],,['chan2019'],,False,False,,1
+paip1241-1-11-1,,paip1241-1,11,βmás ɲaak ʂit,βmás ɲaak ʂit,[],,['chan2019'],,False,False,,1
+paip1241-1-12-1,,paip1241-1,12,βmás ɲaak xwak ɲimcéβ,βmás ɲaak xwak ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-13-1,,paip1241-1,13,βmás ɲaak xmuk ɲimcéβ,βmás ɲaak xmuk ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-14-1,,paip1241-1,14,βmás ɲaak xupá ɲimcéβ,βmás ɲaak xupá ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-15-1,,paip1241-1,15,βmás ɲaak seɾáp ɲimcéβ,βmás ɲaak seɾáp ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-16-1,,paip1241-1,16,βmás ɲaak tʂpé ɲimcéβ,βmás ɲaak tʂpé ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-17-1,,paip1241-1,17,βmás ɲaak pxkay ɲimcéβ,βmás ɲaak pxkay ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-18-1,,paip1241-1,18,βmás ɲaak cpxok ɲimcéβ,βmás ɲaak cpxok ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-19-1,,paip1241-1,19,βmás ɲaak xamxmúk ɲimcéβ,βmás ɲaak xamxmúk ɲimcéβ,[],,['chan2019'],,False,False,,1
+paip1241-1-20-1,,paip1241-1,20,βmás xwák,βmás xwák,[],,['chan2019'],,False,False,,1
+paip1241-1-21-1,,paip1241-1,21,βmás xwák ɲaak ʂit,βmás xwák ɲaak ʂit,[],,['chan2019'],,False,False,,1
+paip1241-1-22-1,,paip1241-1,22,βmás xwák ɲaak xwak,βmás xwák ɲaak xwak,[],,['chan2019'],,False,False,,1
+paip1241-1-23-1,,paip1241-1,23,βmás xwák ɲaak xmuk,βmás xwák ɲaak xmuk,[],,['chan2019'],,False,False,,1
+paip1241-1-24-1,,paip1241-1,24,βmás xwák ɲaak xupá,βmás xwák ɲaak xupá,[],,['chan2019'],,False,False,,1
+paip1241-1-25-1,,paip1241-1,25,βmás xwák ɲaak seɾáp,βmás xwák ɲaak seɾáp,[],,['chan2019'],,False,False,,1
+paip1241-1-26-1,,paip1241-1,26,βmás xwák ɲaak tʂpé,βmás xwák ɲaak tʂpé,[],,['chan2019'],,False,False,,1
+paip1241-1-27-1,,paip1241-1,27,βmás xwák ɲaak pxkay,βmás xwák ɲaak pxkay,[],,['chan2019'],,False,False,,1
+paip1241-1-28-1,,paip1241-1,28,βmás xwák ɲaak cpxok,βmás xwák ɲaak cpxok,[],,['chan2019'],,False,False,,1
+paip1241-1-29-1,,paip1241-1,29,βmás xwák ɲaak xamxmúk,βmás xwák ɲaak xamxmúk,[],,['chan2019'],,False,False,,1
+paip1241-1-30-1,,paip1241-1,30,βmás xwák,βmás xwák,[],,['chan2019'],,False,False,,1
+paip1241-1-40-1,,paip1241-1,40,βmás xupá,βmás xupá,[],,['chan2019'],,False,False,,1
+paip1241-1-50-1,,paip1241-1,50,βmás seɾáp,βmás seɾáp,[],,['chan2019'],,False,False,,1
+paip1241-1-60-1,,paip1241-1,60,βmás tʂpé,βmás tʂpé,[],,['chan2019'],,False,False,,1
+paip1241-1-70-1,,paip1241-1,70,βmás pxkay,βmás pxkay,[],,['chan2019'],,False,False,,1
+paip1241-1-80-1,,paip1241-1,80,βmás cpxok,βmás cpxok,[],,['chan2019'],,False,False,,1
+paip1241-1-90-1,,paip1241-1,90,βmás xamxmúk,βmás xamxmúk,[],,['chan2019'],,False,False,,1
+paip1241-1-100-1,,paip1241-1,100,βmas ʔik kya βmas ʔik,βmas ʔik kya βmas ʔik,[],,['chan2019'],,False,False,,1
+paip1241-1-200-1,,paip1241-1,200,βmas ʔik kya βmas ʔik xwak,βmas ʔik kya βmas ʔik xwak,[],,['chan2019'],,False,False,,1
+paip1241-1-1000-1,,paip1241-1,1000,βmas ʔik kya βmas ʔik kya βmas ʔik,βmas ʔik kya βmas ʔik kya βmas ʔik,[],,['chan2019'],,False,False,,1
+paip1241-1-2000-1,,paip1241-1,2000,βmas ʔik kya βmas ʔik kya βmas ʔik xwak,βmas ʔik kya βmas ʔik kya βmas ʔik xwak,[],,['chan2019'],,False,False,,1

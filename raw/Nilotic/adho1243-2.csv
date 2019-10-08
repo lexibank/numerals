@@ -1,32 +1,32 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-adho1243-2-1-1,,adho1243-2,1,àcíɛl,àcíɛl,[],,[],,False,False,,2
-adho1243-2-2-1,,adho1243-2,2,àríó,àríó,[],,[],,False,False,,2
-adho1243-2-3-1,,adho1243-2,3,àdeék,àdeék,[],,[],,False,False,,2
-adho1243-2-4-1,,adho1243-2,4,àŋwɛɛ̂n,àŋwɛɛ̂n,[],,[],,False,False,,2
-adho1243-2-5-1,,adho1243-2,5,àbîc,àbîc,[],,[],,False,False,,2
-adho1243-2-6-1,,adho1243-2,6,àwúciɛ̄l,àwúciɛ̄l,[],( 5+ 1 ),[],,False,False,,2
-adho1243-2-7-1,,adho1243-2,7,àbíirò,àbíirò,[],( 5+ 2 ),[],,False,False,,2
-adho1243-2-8-1,,adho1243-2,8,àbɔ́ɔ̀rò,àbɔ́ɔ̀rò,[],( 5+ 3 ),[],,False,False,,2
-adho1243-2-9-1,,adho1243-2,9,àbúŋwɛ́n,àbúŋwɛ́n,[],( 5+ 4 ),[],,False,False,,2
-adho1243-2-10-1,,adho1243-2,10,ápāar,ápāar,[],,[],,False,False,,2
-adho1243-2-11-1,,adho1243-2,11,ápāar ɡá cìɛ̄l,ápāar ɡá cìɛ̄l,[],,[],,False,False,,2
-adho1243-2-12-1,,adho1243-2,12,ápāar ɡá ríɔ̀,ápāar ɡá ríɔ̀,[],,[],,False,False,,2
-adho1243-2-13-1,,adho1243-2,13,ápāar ɡá deék,ápāar ɡá deék,[],,[],,False,False,,2
-adho1243-2-14-1,,adho1243-2,14,ápāar ɡá ŋwɛɛ̂n,ápāar ɡá ŋwɛɛ̂n,[],,[],,False,False,,2
-adho1243-2-15-1,,adho1243-2,15,ápāar ɡá bîc,ápāar ɡá bîc,[],,[],,False,False,,2
-adho1243-2-16-1,,adho1243-2,16,ápāar ɡá wúciɛ̄l,ápāar ɡá wúciɛ̄l,[],,[],,False,False,,2
-adho1243-2-17-1,,adho1243-2,17,ápāar ɡá bíirò,ápāar ɡá bíirò,[],,[],,False,False,,2
-adho1243-2-18-1,,adho1243-2,18,ápāar ɡá bɔ́ɔ̀ro,ápāar ɡá bɔ́ɔ̀ro,[],,[],,False,False,,2
-adho1243-2-19-1,,adho1243-2,19,ápāar ɡá búŋwɛ́n,ápāar ɡá búŋwɛ́n,[],,[],,False,False,,2
-adho1243-2-20-1,,adho1243-2,20,piér àríò,piér àríò,[],,[],,False,False,,2
-adho1243-2-21-1,,adho1243-2,21,piér àríò ɡá àcìɛ̄l,piér àríò ɡá àcìɛ̄l,[],,[],,False,False,,2
-adho1243-2-30-1,,adho1243-2,30,piér àdeék,piér àdeék,[],,[],,False,False,,2
-adho1243-2-40-1,,adho1243-2,40,piér àŋwɛɛ̂n,piér àŋwɛɛ̂n,[],,[],,False,False,,2
-adho1243-2-50-1,,adho1243-2,50,piér àbîc,piér àbîc,[],,[],,False,False,,2
-adho1243-2-60-1,,adho1243-2,60,piér àwúciɛ̄l,piér àwúciɛ̄l,[],,[],,False,False,,2
-adho1243-2-70-1,,adho1243-2,70,piér àbíirò,piér àbíirò,[],,[],,False,False,,2
-adho1243-2-80-1,,adho1243-2,80,piér àbɔ́ɔ̀ro,piér àbɔ́ɔ̀ro,[],,[],,False,False,,2
-adho1243-2-90-1,,adho1243-2,90,piér àbúŋwɛ́n,piér àbúŋwɛ́n,[],,[],,False,False,,2
-adho1243-2-100-1,,adho1243-2,100,míyá,míyá,[],,[],,False,False,,2
-adho1243-2-200-1,,adho1243-2,200,míyá àríó,míyá àríó,[],,[],,False,False,,2
-adho1243-2-1000-1,,adho1243-2,1000,ɡáan cíɛl,ɡáan cíɛl,[],,[],,False,False,,2
+adho1243-2-1-1,,adho1243-2,1,àcíɛl,àcíɛl,[],,['chan2019'],,False,False,,2
+adho1243-2-2-1,,adho1243-2,2,àríó,àríó,[],,['chan2019'],,False,False,,2
+adho1243-2-3-1,,adho1243-2,3,àdeék,àdeék,[],,['chan2019'],,False,False,,2
+adho1243-2-4-1,,adho1243-2,4,àŋwɛɛ̂n,àŋwɛɛ̂n,[],,['chan2019'],,False,False,,2
+adho1243-2-5-1,,adho1243-2,5,àbîc,àbîc,[],,['chan2019'],,False,False,,2
+adho1243-2-6-1,,adho1243-2,6,àwúciɛ̄l,àwúciɛ̄l,[],( 5+ 1 ),['chan2019'],,False,False,,2
+adho1243-2-7-1,,adho1243-2,7,àbíirò,àbíirò,[],( 5+ 2 ),['chan2019'],,False,False,,2
+adho1243-2-8-1,,adho1243-2,8,àbɔ́ɔ̀rò,àbɔ́ɔ̀rò,[],( 5+ 3 ),['chan2019'],,False,False,,2
+adho1243-2-9-1,,adho1243-2,9,àbúŋwɛ́n,àbúŋwɛ́n,[],( 5+ 4 ),['chan2019'],,False,False,,2
+adho1243-2-10-1,,adho1243-2,10,ápāar,ápāar,[],,['chan2019'],,False,False,,2
+adho1243-2-11-1,,adho1243-2,11,ápāar ɡá cìɛ̄l,ápāar ɡá cìɛ̄l,[],,['chan2019'],,False,False,,2
+adho1243-2-12-1,,adho1243-2,12,ápāar ɡá ríɔ̀,ápāar ɡá ríɔ̀,[],,['chan2019'],,False,False,,2
+adho1243-2-13-1,,adho1243-2,13,ápāar ɡá deék,ápāar ɡá deék,[],,['chan2019'],,False,False,,2
+adho1243-2-14-1,,adho1243-2,14,ápāar ɡá ŋwɛɛ̂n,ápāar ɡá ŋwɛɛ̂n,[],,['chan2019'],,False,False,,2
+adho1243-2-15-1,,adho1243-2,15,ápāar ɡá bîc,ápāar ɡá bîc,[],,['chan2019'],,False,False,,2
+adho1243-2-16-1,,adho1243-2,16,ápāar ɡá wúciɛ̄l,ápāar ɡá wúciɛ̄l,[],,['chan2019'],,False,False,,2
+adho1243-2-17-1,,adho1243-2,17,ápāar ɡá bíirò,ápāar ɡá bíirò,[],,['chan2019'],,False,False,,2
+adho1243-2-18-1,,adho1243-2,18,ápāar ɡá bɔ́ɔ̀ro,ápāar ɡá bɔ́ɔ̀ro,[],,['chan2019'],,False,False,,2
+adho1243-2-19-1,,adho1243-2,19,ápāar ɡá búŋwɛ́n,ápāar ɡá búŋwɛ́n,[],,['chan2019'],,False,False,,2
+adho1243-2-20-1,,adho1243-2,20,piér àríò,piér àríò,[],,['chan2019'],,False,False,,2
+adho1243-2-21-1,,adho1243-2,21,piér àríò ɡá àcìɛ̄l,piér àríò ɡá àcìɛ̄l,[],,['chan2019'],,False,False,,2
+adho1243-2-30-1,,adho1243-2,30,piér àdeék,piér àdeék,[],,['chan2019'],,False,False,,2
+adho1243-2-40-1,,adho1243-2,40,piér àŋwɛɛ̂n,piér àŋwɛɛ̂n,[],,['chan2019'],,False,False,,2
+adho1243-2-50-1,,adho1243-2,50,piér àbîc,piér àbîc,[],,['chan2019'],,False,False,,2
+adho1243-2-60-1,,adho1243-2,60,piér àwúciɛ̄l,piér àwúciɛ̄l,[],,['chan2019'],,False,False,,2
+adho1243-2-70-1,,adho1243-2,70,piér àbíirò,piér àbíirò,[],,['chan2019'],,False,False,,2
+adho1243-2-80-1,,adho1243-2,80,piér àbɔ́ɔ̀ro,piér àbɔ́ɔ̀ro,[],,['chan2019'],,False,False,,2
+adho1243-2-90-1,,adho1243-2,90,piér àbúŋwɛ́n,piér àbúŋwɛ́n,[],,['chan2019'],,False,False,,2
+adho1243-2-100-1,,adho1243-2,100,míyá,míyá,[],,['chan2019'],,False,False,,2
+adho1243-2-200-1,,adho1243-2,200,míyá àríó,míyá àríó,[],,['chan2019'],,False,False,,2
+adho1243-2-1000-1,,adho1243-2,1000,ɡáan cíɛl,ɡáan cíɛl,[],,['chan2019'],,False,False,,2

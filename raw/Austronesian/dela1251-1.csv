@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dela1251-1-1-1,,dela1251-1,1,esa,esa,[],,[],,False,False,,1
-dela1251-1-2-1,,dela1251-1,2,rua,rua,[],,[],,False,False,,1
-dela1251-1-3-1,,dela1251-1,3,telu,telu,[],,[],,False,False,,1
-dela1251-1-4-1,,dela1251-1,4,haa,haa,[],,[],,False,False,,1
-dela1251-1-5-1,,dela1251-1,5,lima,lima,[],,[],,False,False,,1
-dela1251-1-6-1,,dela1251-1,6,nee,nee,[],,[],,False,False,,1
-dela1251-1-7-1,,dela1251-1,7,hitu,hitu,[],,[],,False,False,,1
-dela1251-1-8-1,,dela1251-1,8,falu,falu,[],,[],,False,False,,1
-dela1251-1-9-1,,dela1251-1,9,sio,sio,[],,[],,False,False,,1
-dela1251-1-10-1,,dela1251-1,10,sanahulu,sanahulu,[],,[],,False,False,,1
-dela1251-1-11-1,,dela1251-1,11,sanahulu esa,sanahulu esa,[],,[],,False,False,,1
-dela1251-1-12-1,,dela1251-1,12,sanahulu rua,sanahulu rua,[],,[],,False,False,,1
-dela1251-1-13-1,,dela1251-1,13,sanahulu telu,sanahulu telu,[],,[],,False,False,,1
-dela1251-1-14-1,,dela1251-1,14,sanahulu haa,sanahulu haa,[],,[],,False,False,,1
-dela1251-1-15-1,,dela1251-1,15,sanahulu lima,sanahulu lima,[],,[],,False,False,,1
-dela1251-1-16-1,,dela1251-1,16,sanahulu nee,sanahulu nee,[],,[],,False,False,,1
-dela1251-1-17-1,,dela1251-1,17,sanahulu hitu,sanahulu hitu,[],,[],,False,False,,1
-dela1251-1-18-1,,dela1251-1,18,sanahulu falu,sanahulu falu,[],,[],,False,False,,1
-dela1251-1-19-1,,dela1251-1,19,sanahulu sio,sanahulu sio,[],,[],,False,False,,1
-dela1251-1-20-1,,dela1251-1,20,rua nulu,rua nulu,[],,[],,False,False,,1
-dela1251-1-21-1,,dela1251-1,21,rua nulu esa,rua nulu esa,[],,[],,False,False,,1
-dela1251-1-22-1,,dela1251-1,22,rua nulu rua,rua nulu rua,[],,[],,False,False,,1
-dela1251-1-23-1,,dela1251-1,23,rua nulu telu,rua nulu telu,[],,[],,False,False,,1
-dela1251-1-24-1,,dela1251-1,24,rua nulu haa,rua nulu haa,[],,[],,False,False,,1
-dela1251-1-25-1,,dela1251-1,25,rua nulu lima,rua nulu lima,[],,[],,False,False,,1
-dela1251-1-26-1,,dela1251-1,26,rua nulu nee,rua nulu nee,[],,[],,False,False,,1
-dela1251-1-27-1,,dela1251-1,27,rua nulu hitu,rua nulu hitu,[],,[],,False,False,,1
-dela1251-1-28-1,,dela1251-1,28,rua nulu falu,rua nulu falu,[],,[],,False,False,,1
-dela1251-1-29-1,,dela1251-1,29,rua nulu sio,rua nulu sio,[],,[],,False,False,,1
-dela1251-1-30-1,,dela1251-1,30,telu nulu,telu nulu,[],,[],,False,False,,1
-dela1251-1-40-1,,dela1251-1,40,haa nulu,haa nulu,[],,[],,False,False,,1
-dela1251-1-50-1,,dela1251-1,50,lima nulu,lima nulu,[],,[],,False,False,,1
-dela1251-1-60-1,,dela1251-1,60,nee nulu,nee nulu,[],,[],,False,False,,1
-dela1251-1-70-1,,dela1251-1,70,hitu nulu,hitu nulu,[],,[],,False,False,,1
-dela1251-1-80-1,,dela1251-1,80,falu nulu,falu nulu,[],,[],,False,False,,1
-dela1251-1-90-1,,dela1251-1,90,sio nulu,sio nulu,[],,[],,False,False,,1
-dela1251-1-100-1,,dela1251-1,100,natun esa,natun esa,[],,[],,False,False,,1
-dela1251-1-200-1,,dela1251-1,200,natun rua,natun rua,[],,[],,False,False,,1
-dela1251-1-1000-1,,dela1251-1,1000,rifon esa,rifon esa,[],,[],,False,False,,1
-dela1251-1-2000-1,,dela1251-1,2000,rifon rua,rifon rua,[],,[],,False,False,,1
+dela1251-1-1-1,,dela1251-1,1,esa,esa,[],,['chan2019'],,False,False,,1
+dela1251-1-2-1,,dela1251-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+dela1251-1-3-1,,dela1251-1,3,telu,telu,[],,['chan2019'],,False,False,,1
+dela1251-1-4-1,,dela1251-1,4,haa,haa,[],,['chan2019'],,False,False,,1
+dela1251-1-5-1,,dela1251-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+dela1251-1-6-1,,dela1251-1,6,nee,nee,[],,['chan2019'],,False,False,,1
+dela1251-1-7-1,,dela1251-1,7,hitu,hitu,[],,['chan2019'],,False,False,,1
+dela1251-1-8-1,,dela1251-1,8,falu,falu,[],,['chan2019'],,False,False,,1
+dela1251-1-9-1,,dela1251-1,9,sio,sio,[],,['chan2019'],,False,False,,1
+dela1251-1-10-1,,dela1251-1,10,sanahulu,sanahulu,[],,['chan2019'],,False,False,,1
+dela1251-1-11-1,,dela1251-1,11,sanahulu esa,sanahulu esa,[],,['chan2019'],,False,False,,1
+dela1251-1-12-1,,dela1251-1,12,sanahulu rua,sanahulu rua,[],,['chan2019'],,False,False,,1
+dela1251-1-13-1,,dela1251-1,13,sanahulu telu,sanahulu telu,[],,['chan2019'],,False,False,,1
+dela1251-1-14-1,,dela1251-1,14,sanahulu haa,sanahulu haa,[],,['chan2019'],,False,False,,1
+dela1251-1-15-1,,dela1251-1,15,sanahulu lima,sanahulu lima,[],,['chan2019'],,False,False,,1
+dela1251-1-16-1,,dela1251-1,16,sanahulu nee,sanahulu nee,[],,['chan2019'],,False,False,,1
+dela1251-1-17-1,,dela1251-1,17,sanahulu hitu,sanahulu hitu,[],,['chan2019'],,False,False,,1
+dela1251-1-18-1,,dela1251-1,18,sanahulu falu,sanahulu falu,[],,['chan2019'],,False,False,,1
+dela1251-1-19-1,,dela1251-1,19,sanahulu sio,sanahulu sio,[],,['chan2019'],,False,False,,1
+dela1251-1-20-1,,dela1251-1,20,rua nulu,rua nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-21-1,,dela1251-1,21,rua nulu esa,rua nulu esa,[],,['chan2019'],,False,False,,1
+dela1251-1-22-1,,dela1251-1,22,rua nulu rua,rua nulu rua,[],,['chan2019'],,False,False,,1
+dela1251-1-23-1,,dela1251-1,23,rua nulu telu,rua nulu telu,[],,['chan2019'],,False,False,,1
+dela1251-1-24-1,,dela1251-1,24,rua nulu haa,rua nulu haa,[],,['chan2019'],,False,False,,1
+dela1251-1-25-1,,dela1251-1,25,rua nulu lima,rua nulu lima,[],,['chan2019'],,False,False,,1
+dela1251-1-26-1,,dela1251-1,26,rua nulu nee,rua nulu nee,[],,['chan2019'],,False,False,,1
+dela1251-1-27-1,,dela1251-1,27,rua nulu hitu,rua nulu hitu,[],,['chan2019'],,False,False,,1
+dela1251-1-28-1,,dela1251-1,28,rua nulu falu,rua nulu falu,[],,['chan2019'],,False,False,,1
+dela1251-1-29-1,,dela1251-1,29,rua nulu sio,rua nulu sio,[],,['chan2019'],,False,False,,1
+dela1251-1-30-1,,dela1251-1,30,telu nulu,telu nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-40-1,,dela1251-1,40,haa nulu,haa nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-50-1,,dela1251-1,50,lima nulu,lima nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-60-1,,dela1251-1,60,nee nulu,nee nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-70-1,,dela1251-1,70,hitu nulu,hitu nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-80-1,,dela1251-1,80,falu nulu,falu nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-90-1,,dela1251-1,90,sio nulu,sio nulu,[],,['chan2019'],,False,False,,1
+dela1251-1-100-1,,dela1251-1,100,natun esa,natun esa,[],,['chan2019'],,False,False,,1
+dela1251-1-200-1,,dela1251-1,200,natun rua,natun rua,[],,['chan2019'],,False,False,,1
+dela1251-1-1000-1,,dela1251-1,1000,rifon esa,rifon esa,[],,['chan2019'],,False,False,,1
+dela1251-1-2000-1,,dela1251-1,2000,rifon rua,rifon rua,[],,['chan2019'],,False,False,,1

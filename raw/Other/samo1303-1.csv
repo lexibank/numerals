@@ -1,9 +1,9 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-samo1303-1-1-1,,samo1303-1,1,helẽu,helẽu,[],,[],,False,False,,1
-samo1303-1-2-1,,samo1303-1,2,bẽau,bẽau,[],,[],,False,False,,1
-samo1303-1-3-1,,samo1303-1,3,behelɔ,behelɔ,[],( translated 'few' in non-numerical context ),[],,False,False,,1
-samo1303-1-4-1,,samo1303-1,4,bẽauili bẽauili,bẽauili bẽauili,[],"( also ɡoɡo, 'many)",[],,False,False,,1
-samo1303-1-5-1,,samo1303-1,5,debe helɔfo,debe helɔfo,[],(litː 'hand across'),[],,False,False,,1
-samo1303-1-6-1,,samo1303-1,6,bẽauili bẽauili bẽauili,bẽauili bẽauili bẽauili,[],"( binary system of counting - two plus two plus two, etc. )",[],,False,False,,1
-samo1303-1-10-1,,samo1303-1,10,debe helɔfo bẽau,debe helɔfo bẽau,[],"(litː 'two hands'', said with two fists put together)",[],,False,False,,1
-samo1303-1-20-1,,samo1303-1,20,debe helɔfo ɡoɡo,debe helɔfo ɡoɡo,[],( litː 'many hands' ),[],,False,False,,1
+samo1303-1-1-1,,samo1303-1,1,helẽu,helẽu,[],,['chan2019'],,False,False,,1
+samo1303-1-2-1,,samo1303-1,2,bẽau,bẽau,[],,['chan2019'],,False,False,,1
+samo1303-1-3-1,,samo1303-1,3,behelɔ,behelɔ,[],( translated 'few' in non-numerical context ),['chan2019'],,False,False,,1
+samo1303-1-4-1,,samo1303-1,4,bẽauili bẽauili,bẽauili bẽauili,[],"( also ɡoɡo, 'many)",['chan2019'],,False,False,,1
+samo1303-1-5-1,,samo1303-1,5,debe helɔfo,debe helɔfo,[],(litː 'hand across'),['chan2019'],,False,False,,1
+samo1303-1-6-1,,samo1303-1,6,bẽauili bẽauili bẽauili,bẽauili bẽauili bẽauili,[],"( binary system of counting - two plus two plus two, etc. )",['chan2019'],,False,False,,1
+samo1303-1-10-1,,samo1303-1,10,debe helɔfo bẽau,debe helɔfo bẽau,[],"(litː 'two hands'', said with two fists put together)",['chan2019'],,False,False,,1
+samo1303-1-20-1,,samo1303-1,20,debe helɔfo ɡoɡo,debe helɔfo ɡoɡo,[],( litː 'many hands' ),['chan2019'],,False,False,,1

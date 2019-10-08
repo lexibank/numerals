@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kwan1276-1-1-1,,kwan1276-1,1,mán,mán,[],,[],,False,False,,1
-kwan1276-1-2-1,,kwan1276-1,2,fèè,fèè,[],,[],,False,False,,1
-kwan1276-1-3-1,,kwan1276-1,3,tar,tar,[],,[],,False,False,,1
-kwan1276-1-4-1,,kwan1276-1,4,nàà,nàà,[],,[],,False,False,,1
-kwan1276-1-5-1,,kwan1276-1,5,cùn,cùn,[],,[],,False,False,,1
-kwan1276-1-6-1,,kwan1276-1,6,cánmán,cánmán,[],( 5+ 1 ),[],,False,False,,1
-kwan1276-1-7-1,,kwan1276-1,7,cɛnfèè,cɛnfèè,[],( 5+ 2 ),[],,False,False,,1
-kwan1276-1-8-1,,kwan1276-1,8,cɛtar,cɛtar,[],( 5+ 3 ),[],,False,False,,1
-kwan1276-1-9-1,,kwan1276-1,9,cɛnàà,cɛnàà,[],( 5+ 4 ),[],,False,False,,1
-kwan1276-1-10-1,,kwan1276-1,10,bɨfɛ́ŋ,bɨfɛ́ŋ,[],,[],,False,False,,1
-kwan1276-1-11-1,,kwan1276-1,11,bɨfɛ́ŋ sɨ mán,bɨfɛ́ŋ sɨ mán,[],,[],,False,False,,1
-kwan1276-1-12-1,,kwan1276-1,12,bɨfɛ́ŋ sɨ fèè,bɨfɛ́ŋ sɨ fèè,[],,[],,False,False,,1
-kwan1276-1-13-1,,kwan1276-1,13,bɨfɛ́ŋ sɨ tar,bɨfɛ́ŋ sɨ tar,[],,[],,False,False,,1
-kwan1276-1-14-1,,kwan1276-1,14,bɨfɛ́ŋ sɨ nàà,bɨfɛ́ŋ sɨ nàà,[],,[],,False,False,,1
-kwan1276-1-15-1,,kwan1276-1,15,bɨfɛ́ŋ sɨ cùn,bɨfɛ́ŋ sɨ cùn,[],,[],,False,False,,1
-kwan1276-1-16-1,,kwan1276-1,16,bɨfɛ́ŋ sɨ cánmán,bɨfɛ́ŋ sɨ cánmán,[],,[],,False,False,,1
-kwan1276-1-17-1,,kwan1276-1,17,bɨfɛ́ŋ sɨ cɛnfèè,bɨfɛ́ŋ sɨ cɛnfèè,[],,[],,False,False,,1
-kwan1276-1-18-1,,kwan1276-1,18,bɨfɛ́ŋ sɨ cɛtar,bɨfɛ́ŋ sɨ cɛtar,[],,[],,False,False,,1
-kwan1276-1-19-1,,kwan1276-1,19,bɨfɛ́ŋ sɨ cɛnàà,bɨfɛ́ŋ sɨ cɛnàà,[],,[],,False,False,,1
-kwan1276-1-20-1,,kwan1276-1,20,wə̀rɨbúnì,wə̀rɨbúnì,[],,[],,False,False,,1
-kwan1276-1-21-1,,kwan1276-1,21,wə̀rɨbúnì sɨ mán,wə̀rɨbúnì sɨ mán,[],,[],,False,False,,1
-kwan1276-1-22-1,,kwan1276-1,22,wə̀rɨbúnì sɨ fèè,wə̀rɨbúnì sɨ fèè,[],,[],,False,False,,1
-kwan1276-1-23-1,,kwan1276-1,23,wə̀rɨbúnì sɨ tar,wə̀rɨbúnì sɨ tar,[],,[],,False,False,,1
-kwan1276-1-24-1,,kwan1276-1,24,wə̀rɨbúnì sɨ nàà,wə̀rɨbúnì sɨ nàà,[],,[],,False,False,,1
-kwan1276-1-25-1,,kwan1276-1,25,wə̀rɨbúnì sɨ cùn,wə̀rɨbúnì sɨ cùn,[],,[],,False,False,,1
-kwan1276-1-26-1,,kwan1276-1,26,wə̀rɨbúnì sɨ cánmán,wə̀rɨbúnì sɨ cánmán,[],,[],,False,False,,1
-kwan1276-1-27-1,,kwan1276-1,27,wə̀rɨbúnì sɨ cɛnfèè,wə̀rɨbúnì sɨ cɛnfèè,[],,[],,False,False,,1
-kwan1276-1-28-1,,kwan1276-1,28,wə̀rɨbúnì sɨ cɛtar,wə̀rɨbúnì sɨ cɛtar,[],,[],,False,False,,1
-kwan1276-1-29-1,,kwan1276-1,29,wə̀rɨbúnì sɨ cɛnàà,wə̀rɨbúnì sɨ cɛnàà,[],,[],,False,False,,1
-kwan1276-1-30-1,,kwan1276-1,30,bɨfébɨ tar,bɨfébɨ tar,[],,[],,False,False,,1
-kwan1276-1-40-1,,kwan1276-1,40,bɨfébɨ nàà,bɨfébɨ nàà,[],,[],,False,False,,1
-kwan1276-1-50-1,,kwan1276-1,50,bɨfébɨ cùn,bɨfébɨ cùn,[],,[],,False,False,,1
-kwan1276-1-60-1,,kwan1276-1,60,bɨfébɨ cánmán,bɨfébɨ cánmán,[],,[],,False,False,,1
-kwan1276-1-70-1,,kwan1276-1,70,bɨfébɨ cɛnfèè,bɨfébɨ cɛnfèè,[],,[],,False,False,,1
-kwan1276-1-80-1,,kwan1276-1,80,bɨfébɨ cɛtar,bɨfébɨ cɛtar,[],,[],,False,False,,1
-kwan1276-1-90-1,,kwan1276-1,90,bɨfébɨ cɛnàà,bɨfébɨ cɛnàà,[],,[],,False,False,,1
-kwan1276-1-100-1,,kwan1276-1,100,téméré,téméré,[],(mán),[],,False,False,,1
-kwan1276-1-200-1,,kwan1276-1,200,témére fèè,témére fèè,[],,[],,False,False,,1
-kwan1276-1-1000-1,,kwan1276-1,1000,booro mán,booro mán,[],( ˈbooro' < Fulani ),[],,True,False,,1
-kwan1276-1-2000-1,,kwan1276-1,2000,booro fèè,booro fèè,[],,[],,False,False,,1
+kwan1276-1-1-1,,kwan1276-1,1,mán,mán,[],,['chan2019'],,False,False,,1
+kwan1276-1-2-1,,kwan1276-1,2,fèè,fèè,[],,['chan2019'],,False,False,,1
+kwan1276-1-3-1,,kwan1276-1,3,tar,tar,[],,['chan2019'],,False,False,,1
+kwan1276-1-4-1,,kwan1276-1,4,nàà,nàà,[],,['chan2019'],,False,False,,1
+kwan1276-1-5-1,,kwan1276-1,5,cùn,cùn,[],,['chan2019'],,False,False,,1
+kwan1276-1-6-1,,kwan1276-1,6,cánmán,cánmán,[],( 5+ 1 ),['chan2019'],,False,False,,1
+kwan1276-1-7-1,,kwan1276-1,7,cɛnfèè,cɛnfèè,[],( 5+ 2 ),['chan2019'],,False,False,,1
+kwan1276-1-8-1,,kwan1276-1,8,cɛtar,cɛtar,[],( 5+ 3 ),['chan2019'],,False,False,,1
+kwan1276-1-9-1,,kwan1276-1,9,cɛnàà,cɛnàà,[],( 5+ 4 ),['chan2019'],,False,False,,1
+kwan1276-1-10-1,,kwan1276-1,10,bɨfɛ́ŋ,bɨfɛ́ŋ,[],,['chan2019'],,False,False,,1
+kwan1276-1-11-1,,kwan1276-1,11,bɨfɛ́ŋ sɨ mán,bɨfɛ́ŋ sɨ mán,[],,['chan2019'],,False,False,,1
+kwan1276-1-12-1,,kwan1276-1,12,bɨfɛ́ŋ sɨ fèè,bɨfɛ́ŋ sɨ fèè,[],,['chan2019'],,False,False,,1
+kwan1276-1-13-1,,kwan1276-1,13,bɨfɛ́ŋ sɨ tar,bɨfɛ́ŋ sɨ tar,[],,['chan2019'],,False,False,,1
+kwan1276-1-14-1,,kwan1276-1,14,bɨfɛ́ŋ sɨ nàà,bɨfɛ́ŋ sɨ nàà,[],,['chan2019'],,False,False,,1
+kwan1276-1-15-1,,kwan1276-1,15,bɨfɛ́ŋ sɨ cùn,bɨfɛ́ŋ sɨ cùn,[],,['chan2019'],,False,False,,1
+kwan1276-1-16-1,,kwan1276-1,16,bɨfɛ́ŋ sɨ cánmán,bɨfɛ́ŋ sɨ cánmán,[],,['chan2019'],,False,False,,1
+kwan1276-1-17-1,,kwan1276-1,17,bɨfɛ́ŋ sɨ cɛnfèè,bɨfɛ́ŋ sɨ cɛnfèè,[],,['chan2019'],,False,False,,1
+kwan1276-1-18-1,,kwan1276-1,18,bɨfɛ́ŋ sɨ cɛtar,bɨfɛ́ŋ sɨ cɛtar,[],,['chan2019'],,False,False,,1
+kwan1276-1-19-1,,kwan1276-1,19,bɨfɛ́ŋ sɨ cɛnàà,bɨfɛ́ŋ sɨ cɛnàà,[],,['chan2019'],,False,False,,1
+kwan1276-1-20-1,,kwan1276-1,20,wə̀rɨbúnì,wə̀rɨbúnì,[],,['chan2019'],,False,False,,1
+kwan1276-1-21-1,,kwan1276-1,21,wə̀rɨbúnì sɨ mán,wə̀rɨbúnì sɨ mán,[],,['chan2019'],,False,False,,1
+kwan1276-1-22-1,,kwan1276-1,22,wə̀rɨbúnì sɨ fèè,wə̀rɨbúnì sɨ fèè,[],,['chan2019'],,False,False,,1
+kwan1276-1-23-1,,kwan1276-1,23,wə̀rɨbúnì sɨ tar,wə̀rɨbúnì sɨ tar,[],,['chan2019'],,False,False,,1
+kwan1276-1-24-1,,kwan1276-1,24,wə̀rɨbúnì sɨ nàà,wə̀rɨbúnì sɨ nàà,[],,['chan2019'],,False,False,,1
+kwan1276-1-25-1,,kwan1276-1,25,wə̀rɨbúnì sɨ cùn,wə̀rɨbúnì sɨ cùn,[],,['chan2019'],,False,False,,1
+kwan1276-1-26-1,,kwan1276-1,26,wə̀rɨbúnì sɨ cánmán,wə̀rɨbúnì sɨ cánmán,[],,['chan2019'],,False,False,,1
+kwan1276-1-27-1,,kwan1276-1,27,wə̀rɨbúnì sɨ cɛnfèè,wə̀rɨbúnì sɨ cɛnfèè,[],,['chan2019'],,False,False,,1
+kwan1276-1-28-1,,kwan1276-1,28,wə̀rɨbúnì sɨ cɛtar,wə̀rɨbúnì sɨ cɛtar,[],,['chan2019'],,False,False,,1
+kwan1276-1-29-1,,kwan1276-1,29,wə̀rɨbúnì sɨ cɛnàà,wə̀rɨbúnì sɨ cɛnàà,[],,['chan2019'],,False,False,,1
+kwan1276-1-30-1,,kwan1276-1,30,bɨfébɨ tar,bɨfébɨ tar,[],,['chan2019'],,False,False,,1
+kwan1276-1-40-1,,kwan1276-1,40,bɨfébɨ nàà,bɨfébɨ nàà,[],,['chan2019'],,False,False,,1
+kwan1276-1-50-1,,kwan1276-1,50,bɨfébɨ cùn,bɨfébɨ cùn,[],,['chan2019'],,False,False,,1
+kwan1276-1-60-1,,kwan1276-1,60,bɨfébɨ cánmán,bɨfébɨ cánmán,[],,['chan2019'],,False,False,,1
+kwan1276-1-70-1,,kwan1276-1,70,bɨfébɨ cɛnfèè,bɨfébɨ cɛnfèè,[],,['chan2019'],,False,False,,1
+kwan1276-1-80-1,,kwan1276-1,80,bɨfébɨ cɛtar,bɨfébɨ cɛtar,[],,['chan2019'],,False,False,,1
+kwan1276-1-90-1,,kwan1276-1,90,bɨfébɨ cɛnàà,bɨfébɨ cɛnàà,[],,['chan2019'],,False,False,,1
+kwan1276-1-100-1,,kwan1276-1,100,téméré,téméré,[],(mán),['chan2019'],,False,False,,1
+kwan1276-1-200-1,,kwan1276-1,200,témére fèè,témére fèè,[],,['chan2019'],,False,False,,1
+kwan1276-1-1000-1,,kwan1276-1,1000,booro mán,booro mán,[],( ˈbooro' < Fulani ),['chan2019'],,True,False,,1
+kwan1276-1-2000-1,,kwan1276-1,2000,booro fèè,booro fèè,[],,['chan2019'],,False,False,,1

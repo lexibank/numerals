@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-siee1239-1-1-1,,siee1239-1,1,haiteven,haiteven,[],,[],,False,False,,1
-siee1239-1-1-2,,siee1239-1,1,haihi,haihi,[],,[],,False,False,,1
-siee1239-1-2-1,,siee1239-1,2,nruru,nruru,[],,[],,False,False,,1
-siee1239-1-2-2,,siee1239-1,2,nduru,nduru,[],,[],,False,False,,1
-siee1239-1-3-1,,siee1239-1,3,nrehel,nrehel,[],,[],,False,False,,1
-siee1239-1-3-2,,siee1239-1,3,ndehel,ndehel,[],,[],,False,False,,1
-siee1239-1-4-1,,siee1239-1,4,nrvat,nrvat,[],,[],,False,False,,1
-siee1239-1-5-1,,siee1239-1,5,sukrim,sukrim,[],( litː one hand ?),[],,False,False,,1
-siee1239-1-6-1,,siee1239-1,6,mehikai,mehikai,[],,[],,False,False,,1
-siee1239-1-7-1,,siee1239-1,7,sukrimnruru,sukrimnruru,[],,[],,False,False,,1
-siee1239-1-8-1,,siee1239-1,8,sukrimrehel,sukrimrehel,[],,[],,False,False,,1
-siee1239-1-9-1,,siee1239-1,9,sukrimndvat,sukrimndvat,[],,[],,False,False,,1
-siee1239-1-10-1,,siee1239-1,10,narwolem,narwolem,[],(litː 'two hands' ? ),[],,False,False,,1
-siee1239-1-11-1,,siee1239-1,11,narwolem tavɡoneh hai,narwolem tavɡoneh hai,[],,[],,False,False,,1
-siee1239-1-12-1,,siee1239-1,12,narwolem tavɡoneh nruru,narwolem tavɡoneh nruru,[],,[],,False,False,,1
-siee1239-1-13-1,,siee1239-1,13,narwolem tavɡoneh ndehel,narwolem tavɡoneh ndehel,[],,[],,False,False,,1
-siee1239-1-14-1,,siee1239-1,14,narwolem tavɡoneh nrvat,narwolem tavɡoneh nrvat,[],,[],,False,False,,1
-siee1239-1-15-1,,siee1239-1,15,narwolem tavɡoneh sukrim,narwolem tavɡoneh sukrim,[],,[],,False,False,,1
-siee1239-1-16-1,,siee1239-1,16,narwolem tavɡoneh mehikai,narwolem tavɡoneh mehikai,[],,[],,False,False,,1
-siee1239-1-17-1,,siee1239-1,17,narwolem tavɡoneh sukrimnruru,narwolem tavɡoneh sukrimnruru,[],,[],,False,False,,1
-siee1239-1-18-1,,siee1239-1,18,narwolem tavɡoneh sukrimrehel,narwolem tavɡoneh sukrimrehel,[],,[],,False,False,,1
-siee1239-1-19-1,,siee1239-1,19,narwolem tavɡoneh sukrimndvat,narwolem tavɡoneh sukrimndvat,[],,[],,False,False,,1
-siee1239-1-20-1,,siee1239-1,20,narwolem nruru,narwolem nruru,[],,[],,False,False,,1
-siee1239-1-21-1,,siee1239-1,21,narwolem nruru tavɡoneh hai,narwolem nruru tavɡoneh hai,[],,[],,False,False,,1
-siee1239-1-22-1,,siee1239-1,22,narwolem nruru tavɡoneh nruru,narwolem nruru tavɡoneh nruru,[],,[],,False,False,,1
-siee1239-1-23-1,,siee1239-1,23,narwolem nruru tavɡoneh nrehel,narwolem nruru tavɡoneh nrehel,[],,[],,False,False,,1
-siee1239-1-24-1,,siee1239-1,24,narwolem nruru tavɡoneh nrvat,narwolem nruru tavɡoneh nrvat,[],,[],,False,False,,1
-siee1239-1-25-1,,siee1239-1,25,narwolem nruru tavɡoneh sukrim,narwolem nruru tavɡoneh sukrim,[],,[],,False,False,,1
-siee1239-1-26-1,,siee1239-1,26,narwolem nruru tavɡoneh mehikai,narwolem nruru tavɡoneh mehikai,[],,[],,False,False,,1
-siee1239-1-27-1,,siee1239-1,27,narwolem nruru tavɡoneh sukrimnruru,narwolem nruru tavɡoneh sukrimnruru,[],,[],,False,False,,1
-siee1239-1-28-1,,siee1239-1,28,narwolem nruru tavɡoneh sukrimrehel,narwolem nruru tavɡoneh sukrimrehel,[],,[],,False,False,,1
-siee1239-1-29-1,,siee1239-1,29,narwolem nruru tavɡoneh sukrimndvat,narwolem nruru tavɡoneh sukrimndvat,[],,[],,False,False,,1
-siee1239-1-30-1,,siee1239-1,30,narwolem nrehel,narwolem nrehel,[],,[],,False,False,,1
-siee1239-1-40-1,,siee1239-1,40,narwolem nrvat,narwolem nrvat,[],,[],,False,False,,1
-siee1239-1-50-1,,siee1239-1,50,narwolem sukrim,narwolem sukrim,[],,[],,False,False,,1
-siee1239-1-60-1,,siee1239-1,60,narwolem mehikai,narwolem mehikai,[],,[],,False,False,,1
-siee1239-1-70-1,,siee1239-1,70,narwolem sukrimnruru,narwolem sukrimnruru,[],,[],,False,False,,1
-siee1239-1-80-1,,siee1239-1,80,narwolem sukrimrehel,narwolem sukrimrehel,[],,[],,False,False,,1
-siee1239-1-90-1,,siee1239-1,90,narwolem sukrimndvat,narwolem sukrimndvat,[],,[],,False,False,,1
-siee1239-1-100-1,,siee1239-1,100,nalem,nalem,[],( 10 x 10 ),[],,False,False,,1
-siee1239-1-200-1,,siee1239-1,200,nalemnalem,nalemnalem,[],,[],,False,False,,1
-siee1239-1-1000-1,,siee1239-1,1000,nalem narwolem,nalem narwolem,[],,[],,False,False,,1
+siee1239-1-1-1,,siee1239-1,1,haiteven,haiteven,[],,['chan2019'],,False,False,,1
+siee1239-1-1-2,,siee1239-1,1,haihi,haihi,[],,['chan2019'],,False,False,,1
+siee1239-1-2-1,,siee1239-1,2,nruru,nruru,[],,['chan2019'],,False,False,,1
+siee1239-1-2-2,,siee1239-1,2,nduru,nduru,[],,['chan2019'],,False,False,,1
+siee1239-1-3-1,,siee1239-1,3,nrehel,nrehel,[],,['chan2019'],,False,False,,1
+siee1239-1-3-2,,siee1239-1,3,ndehel,ndehel,[],,['chan2019'],,False,False,,1
+siee1239-1-4-1,,siee1239-1,4,nrvat,nrvat,[],,['chan2019'],,False,False,,1
+siee1239-1-5-1,,siee1239-1,5,sukrim,sukrim,[],( litː one hand ?),['chan2019'],,False,False,,1
+siee1239-1-6-1,,siee1239-1,6,mehikai,mehikai,[],,['chan2019'],,False,False,,1
+siee1239-1-7-1,,siee1239-1,7,sukrimnruru,sukrimnruru,[],,['chan2019'],,False,False,,1
+siee1239-1-8-1,,siee1239-1,8,sukrimrehel,sukrimrehel,[],,['chan2019'],,False,False,,1
+siee1239-1-9-1,,siee1239-1,9,sukrimndvat,sukrimndvat,[],,['chan2019'],,False,False,,1
+siee1239-1-10-1,,siee1239-1,10,narwolem,narwolem,[],(litː 'two hands' ? ),['chan2019'],,False,False,,1
+siee1239-1-11-1,,siee1239-1,11,narwolem tavɡoneh hai,narwolem tavɡoneh hai,[],,['chan2019'],,False,False,,1
+siee1239-1-12-1,,siee1239-1,12,narwolem tavɡoneh nruru,narwolem tavɡoneh nruru,[],,['chan2019'],,False,False,,1
+siee1239-1-13-1,,siee1239-1,13,narwolem tavɡoneh ndehel,narwolem tavɡoneh ndehel,[],,['chan2019'],,False,False,,1
+siee1239-1-14-1,,siee1239-1,14,narwolem tavɡoneh nrvat,narwolem tavɡoneh nrvat,[],,['chan2019'],,False,False,,1
+siee1239-1-15-1,,siee1239-1,15,narwolem tavɡoneh sukrim,narwolem tavɡoneh sukrim,[],,['chan2019'],,False,False,,1
+siee1239-1-16-1,,siee1239-1,16,narwolem tavɡoneh mehikai,narwolem tavɡoneh mehikai,[],,['chan2019'],,False,False,,1
+siee1239-1-17-1,,siee1239-1,17,narwolem tavɡoneh sukrimnruru,narwolem tavɡoneh sukrimnruru,[],,['chan2019'],,False,False,,1
+siee1239-1-18-1,,siee1239-1,18,narwolem tavɡoneh sukrimrehel,narwolem tavɡoneh sukrimrehel,[],,['chan2019'],,False,False,,1
+siee1239-1-19-1,,siee1239-1,19,narwolem tavɡoneh sukrimndvat,narwolem tavɡoneh sukrimndvat,[],,['chan2019'],,False,False,,1
+siee1239-1-20-1,,siee1239-1,20,narwolem nruru,narwolem nruru,[],,['chan2019'],,False,False,,1
+siee1239-1-21-1,,siee1239-1,21,narwolem nruru tavɡoneh hai,narwolem nruru tavɡoneh hai,[],,['chan2019'],,False,False,,1
+siee1239-1-22-1,,siee1239-1,22,narwolem nruru tavɡoneh nruru,narwolem nruru tavɡoneh nruru,[],,['chan2019'],,False,False,,1
+siee1239-1-23-1,,siee1239-1,23,narwolem nruru tavɡoneh nrehel,narwolem nruru tavɡoneh nrehel,[],,['chan2019'],,False,False,,1
+siee1239-1-24-1,,siee1239-1,24,narwolem nruru tavɡoneh nrvat,narwolem nruru tavɡoneh nrvat,[],,['chan2019'],,False,False,,1
+siee1239-1-25-1,,siee1239-1,25,narwolem nruru tavɡoneh sukrim,narwolem nruru tavɡoneh sukrim,[],,['chan2019'],,False,False,,1
+siee1239-1-26-1,,siee1239-1,26,narwolem nruru tavɡoneh mehikai,narwolem nruru tavɡoneh mehikai,[],,['chan2019'],,False,False,,1
+siee1239-1-27-1,,siee1239-1,27,narwolem nruru tavɡoneh sukrimnruru,narwolem nruru tavɡoneh sukrimnruru,[],,['chan2019'],,False,False,,1
+siee1239-1-28-1,,siee1239-1,28,narwolem nruru tavɡoneh sukrimrehel,narwolem nruru tavɡoneh sukrimrehel,[],,['chan2019'],,False,False,,1
+siee1239-1-29-1,,siee1239-1,29,narwolem nruru tavɡoneh sukrimndvat,narwolem nruru tavɡoneh sukrimndvat,[],,['chan2019'],,False,False,,1
+siee1239-1-30-1,,siee1239-1,30,narwolem nrehel,narwolem nrehel,[],,['chan2019'],,False,False,,1
+siee1239-1-40-1,,siee1239-1,40,narwolem nrvat,narwolem nrvat,[],,['chan2019'],,False,False,,1
+siee1239-1-50-1,,siee1239-1,50,narwolem sukrim,narwolem sukrim,[],,['chan2019'],,False,False,,1
+siee1239-1-60-1,,siee1239-1,60,narwolem mehikai,narwolem mehikai,[],,['chan2019'],,False,False,,1
+siee1239-1-70-1,,siee1239-1,70,narwolem sukrimnruru,narwolem sukrimnruru,[],,['chan2019'],,False,False,,1
+siee1239-1-80-1,,siee1239-1,80,narwolem sukrimrehel,narwolem sukrimrehel,[],,['chan2019'],,False,False,,1
+siee1239-1-90-1,,siee1239-1,90,narwolem sukrimndvat,narwolem sukrimndvat,[],,['chan2019'],,False,False,,1
+siee1239-1-100-1,,siee1239-1,100,nalem,nalem,[],( 10 x 10 ),['chan2019'],,False,False,,1
+siee1239-1-200-1,,siee1239-1,200,nalemnalem,nalemnalem,[],,['chan2019'],,False,False,,1
+siee1239-1-1000-1,,siee1239-1,1000,nalem narwolem,nalem narwolem,[],,['chan2019'],,False,False,,1

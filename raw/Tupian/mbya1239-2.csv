@@ -1,9 +1,9 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mbya1239-2-1-1,,mbya1239-2,1,pɛ̃.tɛ̃.ˈĩ,pɛ̃.tɛ̃.ˈĩ,[],,[],,False,False,,2
-mbya1239-2-2-1,,mbya1239-2,2,mõ.ˈkɔ̃ĩ,mõ.ˈkɔ̃ĩ,[],,[],,False,False,,2
-mbya1239-2-3-1,,mbya1239-2,3,mbo.ɑ.'pɨ,mbo.ɑ.'pɨ,[],(litː 'a grouping'),[],,False,False,,2
-mbya1239-2-4-1,,mbya1239-2,4,ĩ.ɾũ.'ndɨ,ĩ.ɾũ.'ndɨ,[],(litː 'a grouping of companions'),[],,False,False,,2
-mbya1239-2-5-1,,mbya1239-2,5,pɛ̃.tɛ̃.ˈĩ ɲĩ.ˈɾũi,pɛ̃.tɛ̃.ˈĩ ɲĩ.ˈɾũi,[],(litː 'one without a companion'),[],,False,False,,2
-mbya1239-2-6-1,,mbya1239-2,6,mbo.ɑ.'pɨ mɛ̃.ˈmɛ̃,mbo.ɑ.'pɨ mɛ̃.ˈmɛ̃,[],(litː 'a grouping on each (hand)'),[],,False,False,,2
-mbya1239-2-7-1,,mbya1239-2,7,Portuguese,Portuguese,[],,[],,False,True,,2
-mbya1239-2-7-2,,mbya1239-2,7,Spanish numbers from here,Spanish numbers from here,[],,[],,False,True,,2
+mbya1239-2-1-1,,mbya1239-2,1,pɛ̃.tɛ̃.ˈĩ,pɛ̃.tɛ̃.ˈĩ,[],,['chan2019'],,False,False,,2
+mbya1239-2-2-1,,mbya1239-2,2,mõ.ˈkɔ̃ĩ,mõ.ˈkɔ̃ĩ,[],,['chan2019'],,False,False,,2
+mbya1239-2-3-1,,mbya1239-2,3,mbo.ɑ.'pɨ,mbo.ɑ.'pɨ,[],(litː 'a grouping'),['chan2019'],,False,False,,2
+mbya1239-2-4-1,,mbya1239-2,4,ĩ.ɾũ.'ndɨ,ĩ.ɾũ.'ndɨ,[],(litː 'a grouping of companions'),['chan2019'],,False,False,,2
+mbya1239-2-5-1,,mbya1239-2,5,pɛ̃.tɛ̃.ˈĩ ɲĩ.ˈɾũi,pɛ̃.tɛ̃.ˈĩ ɲĩ.ˈɾũi,[],(litː 'one without a companion'),['chan2019'],,False,False,,2
+mbya1239-2-6-1,,mbya1239-2,6,mbo.ɑ.'pɨ mɛ̃.ˈmɛ̃,mbo.ɑ.'pɨ mɛ̃.ˈmɛ̃,[],(litː 'a grouping on each (hand)'),['chan2019'],,False,False,,2
+mbya1239-2-7-1,,mbya1239-2,7,Portuguese,Portuguese,[],,['chan2019'],,False,True,,2
+mbya1239-2-7-2,,mbya1239-2,7,Spanish numbers from here,Spanish numbers from here,[],,['chan2019'],,False,True,,2

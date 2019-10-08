@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-hula1239-1-1-1,,hula1239-1,1,kopuna,kopuna,[],,[],,False,False,,1
-hula1239-1-2-1,,hula1239-1,2,lualua,lualua,[],,[],,False,False,,1
-hula1239-1-3-1,,hula1239-1,3,koikoi,koikoi,[],,[],,False,False,,1
-hula1239-1-4-1,,hula1239-1,4,vaivai,vaivai,[],,[],,False,False,,1
-hula1239-1-5-1,,hula1239-1,5,imaima,imaima,[],,[],,False,False,,1
-hula1239-1-6-1,,hula1239-1,6,kaulakoi,kaulakoi,[],( 2 x 3 ),[],,False,False,,1
-hula1239-1-7-1,,hula1239-1,7,mapere kaulavai,mapere kaulavai,[],( 2 x 4 - 1),[],,False,False,,1
-hula1239-1-8-1,,hula1239-1,8,kaulavai,kaulavai,[],( 2 x 4 ),[],,False,False,,1
-hula1239-1-9-1,,hula1239-1,9,mapere ka ɡalana,mapere ka ɡalana,[],( 10 - 1),[],,False,False,,1
-hula1239-1-10-1,,hula1239-1,10,ɡalana,ɡalana,[],,[],,False,False,,1
-hula1239-1-11-1,,hula1239-1,11,ɡalana ta,ɡalana ta,[],,[],,False,False,,1
-hula1239-1-12-1,,hula1239-1,12,ɡalana lualua,ɡalana lualua,[],,[],,False,False,,1
-hula1239-1-13-1,,hula1239-1,13,ɡalana koikoi,ɡalana koikoi,[],,[],,False,False,,1
-hula1239-1-14-1,,hula1239-1,14,ɡalana vaivai,ɡalana vaivai,[],,[],,False,False,,1
-hula1239-1-15-1,,hula1239-1,15,ɡalana imaima,ɡalana imaima,[],,[],,False,False,,1
-hula1239-1-16-1,,hula1239-1,16,ɡalana kaulakoi,ɡalana kaulakoi,[],,[],,False,False,,1
-hula1239-1-17-1,,hula1239-1,17,ɡalana mapere kaulavai,ɡalana mapere kaulavai,[],,[],,False,False,,1
-hula1239-1-18-1,,hula1239-1,18,ɡalana kaulavai,ɡalana kaulavai,[],,[],,False,False,,1
-hula1239-1-19-1,,hula1239-1,19,ɡalana mapere ka ɡalana,ɡalana mapere ka ɡalana,[],,[],,False,False,,1
-hula1239-1-20-1,,hula1239-1,20,ɡala lualua,ɡala lualua,[],,[],,False,False,,1
-hula1239-1-21-1,,hula1239-1,21,ɡala lualua e kopuna,ɡala lualua e kopuna,[],,[],,False,False,,1
-hula1239-1-22-1,,hula1239-1,22,ɡala lualua e lualua,ɡala lualua e lualua,[],,[],,False,False,,1
-hula1239-1-23-1,,hula1239-1,23,ɡala lualua e koikoi,ɡala lualua e koikoi,[],,[],,False,False,,1
-hula1239-1-24-1,,hula1239-1,24,ɡala lualua e vaivai,ɡala lualua e vaivai,[],,[],,False,False,,1
-hula1239-1-25-1,,hula1239-1,25,ɡala lualua e imaima,ɡala lualua e imaima,[],,[],,False,False,,1
-hula1239-1-26-1,,hula1239-1,26,ɡala lualua e kaulakoi,ɡala lualua e kaulakoi,[],,[],,False,False,,1
-hula1239-1-27-1,,hula1239-1,27,ɡala lualua e mapere kaulavai,ɡala lualua e mapere kaulavai,[],,[],,False,False,,1
-hula1239-1-28-1,,hula1239-1,28,ɡala lualua e kaulavai,ɡala lualua e kaulavai,[],,[],,False,False,,1
-hula1239-1-29-1,,hula1239-1,29,ɡala lualua e mapere ka ɡalana,ɡala lualua e mapere ka ɡalana,[],,[],,False,False,,1
-hula1239-1-30-1,,hula1239-1,30,ɡala koikoi,ɡala koikoi,[],,[],,False,False,,1
-hula1239-1-40-1,,hula1239-1,40,ɡala vaivai,ɡala vaivai,[],,[],,False,False,,1
-hula1239-1-50-1,,hula1239-1,50,ɡala imaima,ɡala imaima,[],,[],,False,False,,1
-hula1239-1-60-1,,hula1239-1,60,ɡala kaulakoi,ɡala kaulakoi,[],,[],,False,False,,1
-hula1239-1-70-1,,hula1239-1,70,ɡala mapere kaulavai,ɡala mapere kaulavai,[],,[],,False,False,,1
-hula1239-1-80-1,,hula1239-1,80,ɡala kaulavai,ɡala kaulavai,[],,[],,False,False,,1
-hula1239-1-90-1,,hula1239-1,90,ɡala mapere ka ɡalana,ɡala mapere ka ɡalana,[],,[],,False,False,,1
-hula1239-1-100-1,,hula1239-1,100,inavuna,inavuna,[],,[],,False,False,,1
-hula1239-1-200-1,,hula1239-1,200,inavuna lualua,inavuna lualua,[],,[],,False,False,,1
-hula1239-1-1000-1,,hula1239-1,1000,ranaa kopuna,ranaa kopuna,[],,[],,False,False,,1
-hula1239-1-2000-1,,hula1239-1,2000,ranaa lualua,ranaa lualua,[],,[],,False,False,,1
+hula1239-1-1-1,,hula1239-1,1,kopuna,kopuna,[],,['chan2019'],,False,False,,1
+hula1239-1-2-1,,hula1239-1,2,lualua,lualua,[],,['chan2019'],,False,False,,1
+hula1239-1-3-1,,hula1239-1,3,koikoi,koikoi,[],,['chan2019'],,False,False,,1
+hula1239-1-4-1,,hula1239-1,4,vaivai,vaivai,[],,['chan2019'],,False,False,,1
+hula1239-1-5-1,,hula1239-1,5,imaima,imaima,[],,['chan2019'],,False,False,,1
+hula1239-1-6-1,,hula1239-1,6,kaulakoi,kaulakoi,[],( 2 x 3 ),['chan2019'],,False,False,,1
+hula1239-1-7-1,,hula1239-1,7,mapere kaulavai,mapere kaulavai,[],( 2 x 4 - 1),['chan2019'],,False,False,,1
+hula1239-1-8-1,,hula1239-1,8,kaulavai,kaulavai,[],( 2 x 4 ),['chan2019'],,False,False,,1
+hula1239-1-9-1,,hula1239-1,9,mapere ka ɡalana,mapere ka ɡalana,[],( 10 - 1),['chan2019'],,False,False,,1
+hula1239-1-10-1,,hula1239-1,10,ɡalana,ɡalana,[],,['chan2019'],,False,False,,1
+hula1239-1-11-1,,hula1239-1,11,ɡalana ta,ɡalana ta,[],,['chan2019'],,False,False,,1
+hula1239-1-12-1,,hula1239-1,12,ɡalana lualua,ɡalana lualua,[],,['chan2019'],,False,False,,1
+hula1239-1-13-1,,hula1239-1,13,ɡalana koikoi,ɡalana koikoi,[],,['chan2019'],,False,False,,1
+hula1239-1-14-1,,hula1239-1,14,ɡalana vaivai,ɡalana vaivai,[],,['chan2019'],,False,False,,1
+hula1239-1-15-1,,hula1239-1,15,ɡalana imaima,ɡalana imaima,[],,['chan2019'],,False,False,,1
+hula1239-1-16-1,,hula1239-1,16,ɡalana kaulakoi,ɡalana kaulakoi,[],,['chan2019'],,False,False,,1
+hula1239-1-17-1,,hula1239-1,17,ɡalana mapere kaulavai,ɡalana mapere kaulavai,[],,['chan2019'],,False,False,,1
+hula1239-1-18-1,,hula1239-1,18,ɡalana kaulavai,ɡalana kaulavai,[],,['chan2019'],,False,False,,1
+hula1239-1-19-1,,hula1239-1,19,ɡalana mapere ka ɡalana,ɡalana mapere ka ɡalana,[],,['chan2019'],,False,False,,1
+hula1239-1-20-1,,hula1239-1,20,ɡala lualua,ɡala lualua,[],,['chan2019'],,False,False,,1
+hula1239-1-21-1,,hula1239-1,21,ɡala lualua e kopuna,ɡala lualua e kopuna,[],,['chan2019'],,False,False,,1
+hula1239-1-22-1,,hula1239-1,22,ɡala lualua e lualua,ɡala lualua e lualua,[],,['chan2019'],,False,False,,1
+hula1239-1-23-1,,hula1239-1,23,ɡala lualua e koikoi,ɡala lualua e koikoi,[],,['chan2019'],,False,False,,1
+hula1239-1-24-1,,hula1239-1,24,ɡala lualua e vaivai,ɡala lualua e vaivai,[],,['chan2019'],,False,False,,1
+hula1239-1-25-1,,hula1239-1,25,ɡala lualua e imaima,ɡala lualua e imaima,[],,['chan2019'],,False,False,,1
+hula1239-1-26-1,,hula1239-1,26,ɡala lualua e kaulakoi,ɡala lualua e kaulakoi,[],,['chan2019'],,False,False,,1
+hula1239-1-27-1,,hula1239-1,27,ɡala lualua e mapere kaulavai,ɡala lualua e mapere kaulavai,[],,['chan2019'],,False,False,,1
+hula1239-1-28-1,,hula1239-1,28,ɡala lualua e kaulavai,ɡala lualua e kaulavai,[],,['chan2019'],,False,False,,1
+hula1239-1-29-1,,hula1239-1,29,ɡala lualua e mapere ka ɡalana,ɡala lualua e mapere ka ɡalana,[],,['chan2019'],,False,False,,1
+hula1239-1-30-1,,hula1239-1,30,ɡala koikoi,ɡala koikoi,[],,['chan2019'],,False,False,,1
+hula1239-1-40-1,,hula1239-1,40,ɡala vaivai,ɡala vaivai,[],,['chan2019'],,False,False,,1
+hula1239-1-50-1,,hula1239-1,50,ɡala imaima,ɡala imaima,[],,['chan2019'],,False,False,,1
+hula1239-1-60-1,,hula1239-1,60,ɡala kaulakoi,ɡala kaulakoi,[],,['chan2019'],,False,False,,1
+hula1239-1-70-1,,hula1239-1,70,ɡala mapere kaulavai,ɡala mapere kaulavai,[],,['chan2019'],,False,False,,1
+hula1239-1-80-1,,hula1239-1,80,ɡala kaulavai,ɡala kaulavai,[],,['chan2019'],,False,False,,1
+hula1239-1-90-1,,hula1239-1,90,ɡala mapere ka ɡalana,ɡala mapere ka ɡalana,[],,['chan2019'],,False,False,,1
+hula1239-1-100-1,,hula1239-1,100,inavuna,inavuna,[],,['chan2019'],,False,False,,1
+hula1239-1-200-1,,hula1239-1,200,inavuna lualua,inavuna lualua,[],,['chan2019'],,False,False,,1
+hula1239-1-1000-1,,hula1239-1,1000,ranaa kopuna,ranaa kopuna,[],,['chan2019'],,False,False,,1
+hula1239-1-2000-1,,hula1239-1,2000,ranaa lualua,ranaa lualua,[],,['chan2019'],,False,False,,1

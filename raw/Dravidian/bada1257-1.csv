@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bada1257-1-1-1,,bada1257-1,1,ondu,ondu,[],,[],,False,False,,1
-bada1257-1-2-1,,bada1257-1,2,eraɖu,eraɖu,[],,[],,False,False,,1
-bada1257-1-2-2,,bada1257-1,2,ir-,ir-,[],(bound form),[],,False,False,,1
-bada1257-1-3-1,,bada1257-1,3,muːru,muːru,[],,[],,False,False,,1
-bada1257-1-4-1,,bada1257-1,4,naːku,naːku,[],,[],,False,False,,1
-bada1257-1-5-1,,bada1257-1,5,aydu,aydu,[],,[],,False,False,,1
-bada1257-1-6-1,,bada1257-1,6,aːru,aːru,[],,[],,False,False,,1
-bada1257-1-7-1,,bada1257-1,7,eːyu,eːyu,[],,[],,False,False,,1
-bada1257-1-7-2,,bada1257-1,7,i:yu,i:yu,[],,[],,False,False,,1
-bada1257-1-8-1,,bada1257-1,8,eʈʈu,eʈʈu,[],,[],,False,False,,1
-bada1257-1-9-1,,bada1257-1,9,ombatu,ombatu,[],,[],,False,False,,1
-bada1257-1-10-1,,bada1257-1,10,hattu,hattu,[],,[],,False,False,,1
-bada1257-1-11-1,,bada1257-1,11,hannondu,hannondu,[],( < han-ondu),[],,False,False,,1
-bada1257-1-12-1,,bada1257-1,12,hanneraɖu,hanneraɖu,[],(< han-eraɖu),[],,False,False,,1
-bada1257-1-13-1,,bada1257-1,13,hadimuːru,hadimuːru,[],( <hadin-muːru),[],,False,False,,1
-bada1257-1-14-1,,bada1257-1,14,hadanaːku,hadanaːku,[],(<hadin-naːku),[],,False,False,,1
-bada1257-1-15-1,,bada1257-1,15,hadanaydu,hadanaydu,[],(<hadin-aydu),[],,False,False,,1
-bada1257-1-16-1,,bada1257-1,16,hadinaːru,hadinaːru,[],( <hadin-aːru),[],,False,False,,1
-bada1257-1-17-1,,bada1257-1,17,hadiniːyu,hadiniːyu,[],,[],,False,False,,1
-bada1257-1-18-1,,bada1257-1,18,hadineɳʈu,hadineɳʈu,[],(<hadin-eʈʈu),[],,False,False,,1
-bada1257-1-19-1,,bada1257-1,19,hattombatu,hattombatu,[],,[],,False,False,,1
-bada1257-1-20-1,,bada1257-1,20,ippatu,ippatu,[],( < ir-patu ),[],,False,False,,1
-bada1257-1-21-1,,bada1257-1,21,ippatu ondu,ippatu ondu,[],,[],,False,False,,1
-bada1257-1-22-1,,bada1257-1,22,ippatu eraɖu,ippatu eraɖu,[],,[],,False,False,,1
-bada1257-1-23-1,,bada1257-1,23,ippatu muːru,ippatu muːru,[],,[],,False,False,,1
-bada1257-1-24-1,,bada1257-1,24,ippatu naːku,ippatu naːku,[],,[],,False,False,,1
-bada1257-1-25-1,,bada1257-1,25,ippatu aydu,ippatu aydu,[],,[],,False,False,,1
-bada1257-1-26-1,,bada1257-1,26,ippatu aːru,ippatu aːru,[],,[],,False,False,,1
-bada1257-1-27-1,,bada1257-1,27,ippatu eːyu,ippatu eːyu,[],,[],,False,False,,1
-bada1257-1-27-2,,bada1257-1,27,iːyu,iːyu,[],,[],,False,False,,1
-bada1257-1-28-1,,bada1257-1,28,ippatu eʈʈu,ippatu eʈʈu,[],,[],,False,False,,1
-bada1257-1-29-1,,bada1257-1,29,ippatu ombatu,ippatu ombatu,[],,[],,False,False,,1
-bada1257-1-30-1,,bada1257-1,30,muːvatu,muːvatu,[],,[],,False,False,,1
-bada1257-1-40-1,,bada1257-1,40,nalavatu,nalavatu,[],,[],,False,False,,1
-bada1257-1-50-1,,bada1257-1,50,ayvatu,ayvatu,[],,[],,False,False,,1
-bada1257-1-60-1,,bada1257-1,60,aravatu,aravatu,[],( <aru-vatu),[],,False,False,,1
-bada1257-1-70-1,,bada1257-1,70,eyavatu,eyavatu,[],( < eyu-vatu),[],,False,False,,1
-bada1257-1-80-1,,bada1257-1,80,embatu,embatu,[],(<em-patu),[],,False,False,,1
-bada1257-1-90-1,,bada1257-1,90,tombatu,tombatu,[],(< tom-patu),[],,False,False,,1
-bada1257-1-100-1,,bada1257-1,100,nuːru,nuːru,[],,[],,False,False,,1
-bada1257-1-200-1,,bada1257-1,200,innuːru,innuːru,[],( <ir-nuːru),[],,False,False,,1
-bada1257-1-1000-1,,bada1257-1,1000,saːvira,saːvira,[],< Sanskrit sahasra ,[],,True,False,,1
+bada1257-1-1-1,,bada1257-1,1,ondu,ondu,[],,['chan2019'],,False,False,,1
+bada1257-1-2-1,,bada1257-1,2,eraɖu,eraɖu,[],,['chan2019'],,False,False,,1
+bada1257-1-2-2,,bada1257-1,2,ir-,ir-,[],(bound form),['chan2019'],,False,False,,1
+bada1257-1-3-1,,bada1257-1,3,muːru,muːru,[],,['chan2019'],,False,False,,1
+bada1257-1-4-1,,bada1257-1,4,naːku,naːku,[],,['chan2019'],,False,False,,1
+bada1257-1-5-1,,bada1257-1,5,aydu,aydu,[],,['chan2019'],,False,False,,1
+bada1257-1-6-1,,bada1257-1,6,aːru,aːru,[],,['chan2019'],,False,False,,1
+bada1257-1-7-1,,bada1257-1,7,eːyu,eːyu,[],,['chan2019'],,False,False,,1
+bada1257-1-7-2,,bada1257-1,7,i:yu,i:yu,[],,['chan2019'],,False,False,,1
+bada1257-1-8-1,,bada1257-1,8,eʈʈu,eʈʈu,[],,['chan2019'],,False,False,,1
+bada1257-1-9-1,,bada1257-1,9,ombatu,ombatu,[],,['chan2019'],,False,False,,1
+bada1257-1-10-1,,bada1257-1,10,hattu,hattu,[],,['chan2019'],,False,False,,1
+bada1257-1-11-1,,bada1257-1,11,hannondu,hannondu,[],( < han-ondu),['chan2019'],,False,False,,1
+bada1257-1-12-1,,bada1257-1,12,hanneraɖu,hanneraɖu,[],(< han-eraɖu),['chan2019'],,False,False,,1
+bada1257-1-13-1,,bada1257-1,13,hadimuːru,hadimuːru,[],( <hadin-muːru),['chan2019'],,False,False,,1
+bada1257-1-14-1,,bada1257-1,14,hadanaːku,hadanaːku,[],(<hadin-naːku),['chan2019'],,False,False,,1
+bada1257-1-15-1,,bada1257-1,15,hadanaydu,hadanaydu,[],(<hadin-aydu),['chan2019'],,False,False,,1
+bada1257-1-16-1,,bada1257-1,16,hadinaːru,hadinaːru,[],( <hadin-aːru),['chan2019'],,False,False,,1
+bada1257-1-17-1,,bada1257-1,17,hadiniːyu,hadiniːyu,[],,['chan2019'],,False,False,,1
+bada1257-1-18-1,,bada1257-1,18,hadineɳʈu,hadineɳʈu,[],(<hadin-eʈʈu),['chan2019'],,False,False,,1
+bada1257-1-19-1,,bada1257-1,19,hattombatu,hattombatu,[],,['chan2019'],,False,False,,1
+bada1257-1-20-1,,bada1257-1,20,ippatu,ippatu,[],( < ir-patu ),['chan2019'],,False,False,,1
+bada1257-1-21-1,,bada1257-1,21,ippatu ondu,ippatu ondu,[],,['chan2019'],,False,False,,1
+bada1257-1-22-1,,bada1257-1,22,ippatu eraɖu,ippatu eraɖu,[],,['chan2019'],,False,False,,1
+bada1257-1-23-1,,bada1257-1,23,ippatu muːru,ippatu muːru,[],,['chan2019'],,False,False,,1
+bada1257-1-24-1,,bada1257-1,24,ippatu naːku,ippatu naːku,[],,['chan2019'],,False,False,,1
+bada1257-1-25-1,,bada1257-1,25,ippatu aydu,ippatu aydu,[],,['chan2019'],,False,False,,1
+bada1257-1-26-1,,bada1257-1,26,ippatu aːru,ippatu aːru,[],,['chan2019'],,False,False,,1
+bada1257-1-27-1,,bada1257-1,27,ippatu eːyu,ippatu eːyu,[],,['chan2019'],,False,False,,1
+bada1257-1-27-2,,bada1257-1,27,iːyu,iːyu,[],,['chan2019'],,False,False,,1
+bada1257-1-28-1,,bada1257-1,28,ippatu eʈʈu,ippatu eʈʈu,[],,['chan2019'],,False,False,,1
+bada1257-1-29-1,,bada1257-1,29,ippatu ombatu,ippatu ombatu,[],,['chan2019'],,False,False,,1
+bada1257-1-30-1,,bada1257-1,30,muːvatu,muːvatu,[],,['chan2019'],,False,False,,1
+bada1257-1-40-1,,bada1257-1,40,nalavatu,nalavatu,[],,['chan2019'],,False,False,,1
+bada1257-1-50-1,,bada1257-1,50,ayvatu,ayvatu,[],,['chan2019'],,False,False,,1
+bada1257-1-60-1,,bada1257-1,60,aravatu,aravatu,[],( <aru-vatu),['chan2019'],,False,False,,1
+bada1257-1-70-1,,bada1257-1,70,eyavatu,eyavatu,[],( < eyu-vatu),['chan2019'],,False,False,,1
+bada1257-1-80-1,,bada1257-1,80,embatu,embatu,[],(<em-patu),['chan2019'],,False,False,,1
+bada1257-1-90-1,,bada1257-1,90,tombatu,tombatu,[],(< tom-patu),['chan2019'],,False,False,,1
+bada1257-1-100-1,,bada1257-1,100,nuːru,nuːru,[],,['chan2019'],,False,False,,1
+bada1257-1-200-1,,bada1257-1,200,innuːru,innuːru,[],( <ir-nuːru),['chan2019'],,False,False,,1
+bada1257-1-1000-1,,bada1257-1,1000,saːvira,saːvira,[],< Sanskrit sahasra ,['chan2019'],,True,False,,1

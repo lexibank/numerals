@@ -1,17 +1,17 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-hajo1238-1-1-1,,hajo1238-1,1,ækɔŋ,ækɔŋ,[],,[],,False,False,,1
-hajo1238-1-2-1,,hajo1238-1,2,bækɔŋ,bækɔŋ,[],,[],,False,False,,1
-hajo1238-1-3-1,,hajo1238-1,3,t̪ulʃi,t̪ulʃi,[],,[],,False,False,,1
-hajo1238-1-4-1,,hajo1238-1,4,t͡ʃabɔŋ,t͡ʃabɔŋ,[],,[],,False,False,,1
-hajo1238-1-5-1,,hajo1238-1,5,paɟ,paɟ,[],,[],,False,False,,1
-hajo1238-1-6-1,,hajo1238-1,6,t͡ʃʰɔe,t͡ʃʰɔe,[],,[],,False,False,,1
-hajo1238-1-7-1,,hajo1238-1,7,sat̪,sat̪,[],,[],,False,False,,1
-hajo1238-1-8-1,,hajo1238-1,8,at̪,at̪,[],,[],,False,False,,1
-hajo1238-1-9-1,,hajo1238-1,9,nɔe,nɔe,[],,[],,False,False,,1
-hajo1238-1-10-1,,hajo1238-1,10,d̪ɔʃ,d̪ɔʃ,[],,[],,False,False,,1
-hajo1238-1-11-1,,hajo1238-1,11,eɡaro,eɡaro,[],,[],,False,False,,1
-hajo1238-1-20-1,,hajo1238-1,20,kuri,kuri,[],,[],,False,False,,1
-hajo1238-1-21-1,,hajo1238-1,21,ekuʃ,ekuʃ,[],,[],,False,False,,1
-hajo1238-1-50-1,,hajo1238-1,50,pɔnt͡ʃaʃ,pɔnt͡ʃaʃ,[],,[],,False,False,,1
-hajo1238-1-100-1,,hajo1238-1,100,ekʃɔ,ekʃɔ,[],,[],,False,False,,1
-hajo1238-1-1000-1,,hajo1238-1,1000,ek haɟar,ek haɟar,[],,[],,False,False,,1
+hajo1238-1-1-1,,hajo1238-1,1,ækɔŋ,ækɔŋ,[],,['chan2019'],,False,False,,1
+hajo1238-1-2-1,,hajo1238-1,2,bækɔŋ,bækɔŋ,[],,['chan2019'],,False,False,,1
+hajo1238-1-3-1,,hajo1238-1,3,t̪ulʃi,t̪ulʃi,[],,['chan2019'],,False,False,,1
+hajo1238-1-4-1,,hajo1238-1,4,t͡ʃabɔŋ,t͡ʃabɔŋ,[],,['chan2019'],,False,False,,1
+hajo1238-1-5-1,,hajo1238-1,5,paɟ,paɟ,[],,['chan2019'],,False,False,,1
+hajo1238-1-6-1,,hajo1238-1,6,t͡ʃʰɔe,t͡ʃʰɔe,[],,['chan2019'],,False,False,,1
+hajo1238-1-7-1,,hajo1238-1,7,sat̪,sat̪,[],,['chan2019'],,False,False,,1
+hajo1238-1-8-1,,hajo1238-1,8,at̪,at̪,[],,['chan2019'],,False,False,,1
+hajo1238-1-9-1,,hajo1238-1,9,nɔe,nɔe,[],,['chan2019'],,False,False,,1
+hajo1238-1-10-1,,hajo1238-1,10,d̪ɔʃ,d̪ɔʃ,[],,['chan2019'],,False,False,,1
+hajo1238-1-11-1,,hajo1238-1,11,eɡaro,eɡaro,[],,['chan2019'],,False,False,,1
+hajo1238-1-20-1,,hajo1238-1,20,kuri,kuri,[],,['chan2019'],,False,False,,1
+hajo1238-1-21-1,,hajo1238-1,21,ekuʃ,ekuʃ,[],,['chan2019'],,False,False,,1
+hajo1238-1-50-1,,hajo1238-1,50,pɔnt͡ʃaʃ,pɔnt͡ʃaʃ,[],,['chan2019'],,False,False,,1
+hajo1238-1-100-1,,hajo1238-1,100,ekʃɔ,ekʃɔ,[],,['chan2019'],,False,False,,1
+hajo1238-1-1000-1,,hajo1238-1,1000,ek haɟar,ek haɟar,[],,['chan2019'],,False,False,,1

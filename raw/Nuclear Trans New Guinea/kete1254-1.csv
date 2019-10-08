@@ -1,26 +1,26 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kete1254-1-1-1,,kete1254-1,1,tenfu,tenfu,[],,[],,False,False,,1
-kete1254-1-1-2,,kete1254-1,1,'tɛ̄npo,'tɛ̄npo,[],,[],,False,False,,1
-kete1254-1-2-1,,kete1254-1,2,bitini,bitini,[],,[],,False,False,,1
-kete1254-1-2-2,,kete1254-1,2,bo'tɪ̄nye,bo'tɪ̄nye,[],,[],,False,False,,1
-kete1254-1-3-1,,kete1254-1,3,weneri,weneri,[],,[],,False,False,,1
-kete1254-1-3-2,,kete1254-1,3,wɛnɛ́ɾi,wɛnɛ́ɾi,[],,[],,False,False,,1
-kete1254-1-4-1,,kete1254-1,4,dumbari,dumbari,[],,[],,False,False,,1
-kete1254-1-4-2,,kete1254-1,4,dom'bāɾi,dom'bāɾi,[],,[],,False,False,,1
-kete1254-1-5-1,,kete1254-1,5,famubari,famubari,[],,[],,False,False,,1
-kete1254-1-5-2,,kete1254-1,5,ɸamu'bāɾi,ɸamu'bāɾi,[],,[],,False,False,,1
-kete1254-1-6-1,,kete1254-1,6,ŋantanbari,ŋantanbari,[],,[],,False,False,,1
-kete1254-1-6-2,,kete1254-1,6,ŋaŋ'tān'bāɾi,ŋaŋ'tān'bāɾi,[],,[],,False,False,,1
-kete1254-1-7-1,,kete1254-1,7,yonitambari,yonitambari,[],,[],,False,False,,1
-kete1254-1-7-2,,kete1254-1,7,yo'nitam 'bāɾi,yo'nitam 'bāɾi,[],,[],,False,False,,1
-kete1254-1-8-1,,kete1254-1,8,banbari,banbari,[],,[],,False,False,,1
-kete1254-1-8-2,,kete1254-1,8,'bān'bāɾi,'bān'bāɾi,[],,[],,False,False,,1
-kete1254-1-9-1,,kete1254-1,9,topnebari,topnebari,[],,[],,False,False,,1
-kete1254-1-9-2,,kete1254-1,9,toᵘp'nā,toᵘp'nā,[],,[],,False,False,,1
-kete1254-1-10-1,,kete1254-1,10,doŋolbari,doŋolbari,[],,[],,False,False,,1
-kete1254-1-10-2,,kete1254-1,10,mo'ɾōkyɔ,mo'ɾōkyɔ,[],,[],,False,False,,1
-kete1254-1-11-1,,kete1254-1,11,kumdam,kumdam,[],,[],,False,False,,1
-kete1254-1-12-1,,kete1254-1,12,amol,amol,[],,[],,False,False,,1
-kete1254-1-13-1,,kete1254-1,13,amol deiki,amol deiki,[],,[],,False,False,,1
-kete1254-1-14-1,,kete1254-1,14,ue or uwe or ue deiki,ue or uwe or ue deiki,[],,[],,False,True,,1
-kete1254-1-28-1,,kete1254-1,28,ue deiki dan-dana tara yuma,ue deiki dan-dana tara yuma,[],,[],,False,False,,1
+kete1254-1-1-1,,kete1254-1,1,tenfu,tenfu,[],,['chan2019'],,False,False,,1
+kete1254-1-1-2,,kete1254-1,1,'tɛ̄npo,'tɛ̄npo,[],,['chan2019'],,False,False,,1
+kete1254-1-2-1,,kete1254-1,2,bitini,bitini,[],,['chan2019'],,False,False,,1
+kete1254-1-2-2,,kete1254-1,2,bo'tɪ̄nye,bo'tɪ̄nye,[],,['chan2019'],,False,False,,1
+kete1254-1-3-1,,kete1254-1,3,weneri,weneri,[],,['chan2019'],,False,False,,1
+kete1254-1-3-2,,kete1254-1,3,wɛnɛ́ɾi,wɛnɛ́ɾi,[],,['chan2019'],,False,False,,1
+kete1254-1-4-1,,kete1254-1,4,dumbari,dumbari,[],,['chan2019'],,False,False,,1
+kete1254-1-4-2,,kete1254-1,4,dom'bāɾi,dom'bāɾi,[],,['chan2019'],,False,False,,1
+kete1254-1-5-1,,kete1254-1,5,famubari,famubari,[],,['chan2019'],,False,False,,1
+kete1254-1-5-2,,kete1254-1,5,ɸamu'bāɾi,ɸamu'bāɾi,[],,['chan2019'],,False,False,,1
+kete1254-1-6-1,,kete1254-1,6,ŋantanbari,ŋantanbari,[],,['chan2019'],,False,False,,1
+kete1254-1-6-2,,kete1254-1,6,ŋaŋ'tān'bāɾi,ŋaŋ'tān'bāɾi,[],,['chan2019'],,False,False,,1
+kete1254-1-7-1,,kete1254-1,7,yonitambari,yonitambari,[],,['chan2019'],,False,False,,1
+kete1254-1-7-2,,kete1254-1,7,yo'nitam 'bāɾi,yo'nitam 'bāɾi,[],,['chan2019'],,False,False,,1
+kete1254-1-8-1,,kete1254-1,8,banbari,banbari,[],,['chan2019'],,False,False,,1
+kete1254-1-8-2,,kete1254-1,8,'bān'bāɾi,'bān'bāɾi,[],,['chan2019'],,False,False,,1
+kete1254-1-9-1,,kete1254-1,9,topnebari,topnebari,[],,['chan2019'],,False,False,,1
+kete1254-1-9-2,,kete1254-1,9,toᵘp'nā,toᵘp'nā,[],,['chan2019'],,False,False,,1
+kete1254-1-10-1,,kete1254-1,10,doŋolbari,doŋolbari,[],,['chan2019'],,False,False,,1
+kete1254-1-10-2,,kete1254-1,10,mo'ɾōkyɔ,mo'ɾōkyɔ,[],,['chan2019'],,False,False,,1
+kete1254-1-11-1,,kete1254-1,11,kumdam,kumdam,[],,['chan2019'],,False,False,,1
+kete1254-1-12-1,,kete1254-1,12,amol,amol,[],,['chan2019'],,False,False,,1
+kete1254-1-13-1,,kete1254-1,13,amol deiki,amol deiki,[],,['chan2019'],,False,False,,1
+kete1254-1-14-1,,kete1254-1,14,ue or uwe or ue deiki,ue or uwe or ue deiki,[],,['chan2019'],,False,True,,1
+kete1254-1-28-1,,kete1254-1,28,ue deiki dan-dana tara yuma,ue deiki dan-dana tara yuma,[],,['chan2019'],,False,False,,1

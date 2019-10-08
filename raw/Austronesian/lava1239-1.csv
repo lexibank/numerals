@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lava1239-1-1-1,,lava1239-1,1,kas,kas,[],,[],,False,False,,1
-lava1239-1-2-1,,lava1239-1,2,auu,auu,[],,[],,False,False,,1
-lava1239-1-3-1,,lava1239-1,3,tui,tui,[],,[],,False,False,,1
-lava1239-1-4-1,,lava1239-1,4,ovet,ovet,[],,[],,False,False,,1
-lava1239-1-5-1,,lava1239-1,5,nima,nima,[],,[],,False,False,,1
-lava1239-1-6-1,,lava1239-1,6,onno,onno,[],,[],,False,False,,1
-lava1239-1-7-1,,lava1239-1,7,uti,uti,[],,[],,False,False,,1
-lava1239-1-8-1,,lava1239-1,8,ovai,ovai,[],,[],,False,False,,1
-lava1239-1-9-1,,lava1239-1,9,sik,sik,[],,[],,False,False,,1
-lava1239-1-10-1,,lava1239-1,10,soŋoi,soŋoi,[],,[],,False,False,,1
-lava1239-1-11-1,,lava1239-1,11,soŋoi ma eɡesera,soŋoi ma eɡesera,[],,[],,False,False,,1
-lava1239-1-12-1,,lava1239-1,12,soŋoi ma evura,soŋoi ma evura,[],,[],,False,False,,1
-lava1239-1-13-1,,lava1239-1,13,soŋoi ma putui,soŋoi ma putui,[],,[],,False,False,,1
-lava1239-1-14-1,,lava1239-1,14,soŋoi ma penevet,soŋoi ma penevet,[],,[],,False,False,,1
-lava1239-1-15-1,,lava1239-1,15,soŋoi ma penima,soŋoi ma penima,[],,[],,False,False,,1
-lava1239-1-16-1,,lava1239-1,16,soŋoi ma penno,soŋoi ma penno,[],,[],,False,False,,1
-lava1239-1-17-1,,lava1239-1,17,soŋoi ma penuti,soŋoi ma penuti,[],,[],,False,False,,1
-lava1239-1-18-1,,lava1239-1,18,soŋoi ma penovai,soŋoi ma penovai,[],,[],,False,False,,1
-lava1239-1-19-1,,lava1239-1,19,soŋoi ma pesik,soŋoi ma pesik,[],,[],,False,False,,1
-lava1239-1-20-1,,lava1239-1,20,evu soŋoi,evu soŋoi,[],,[],,False,False,,1
-lava1239-1-21-1,,lava1239-1,21,evu soŋoi ma eɡesera,evu soŋoi ma eɡesera,[],,[],,False,False,,1
-lava1239-1-22-1,,lava1239-1,22,evu soŋoi ma evura,evu soŋoi ma evura,[],,[],,False,False,,1
-lava1239-1-23-1,,lava1239-1,23,evu soŋoi ma putui,evu soŋoi ma putui,[],,[],,False,False,,1
-lava1239-1-24-1,,lava1239-1,24,evu soŋoi ma penevet,evu soŋoi ma penevet,[],,[],,False,False,,1
-lava1239-1-25-1,,lava1239-1,25,evu soŋoi ma penima,evu soŋoi ma penima,[],,[],,False,False,,1
-lava1239-1-26-1,,lava1239-1,26,evu soŋoi ma penno,evu soŋoi ma penno,[],,[],,False,False,,1
-lava1239-1-27-1,,lava1239-1,27,evu soŋoi ma penuti,evu soŋoi ma penuti,[],,[],,False,False,,1
-lava1239-1-28-1,,lava1239-1,28,evu soŋoi ma penovai,evu soŋoi ma penovai,[],,[],,False,False,,1
-lava1239-1-29-1,,lava1239-1,29,evu soŋoi ma pesik,evu soŋoi ma pesik,[],,[],,False,False,,1
-lava1239-1-30-1,,lava1239-1,30,erosoŋoi putui,erosoŋoi putui,[],,[],,False,False,,1
-lava1239-1-40-1,,lava1239-1,40,erosoŋoi penevet,erosoŋoi penevet,[],,[],,False,False,,1
-lava1239-1-50-1,,lava1239-1,50,erosoŋoi penima,erosoŋoi penima,[],,[],,False,False,,1
-lava1239-1-60-1,,lava1239-1,60,erosoŋoi penno,erosoŋoi penno,[],,[],,False,False,,1
-lava1239-1-70-1,,lava1239-1,70,erosoŋoi penuti,erosoŋoi penuti,[],,[],,False,False,,1
-lava1239-1-80-1,,lava1239-1,80,erosoŋoi penovai,erosoŋoi penovai,[],,[],,False,False,,1
-lava1239-1-90-1,,lava1239-1,90,erosoŋoi pesik,erosoŋoi pesik,[],,[],,False,False,,1
-lava1239-1-100-1,,lava1239-1,100,esoŋoi kobot soŋoi,esoŋoi kobot soŋoi,[],,[],,False,False,,1
-lava1239-1-200-1,,lava1239-1,200,evu soŋoi kobot soŋoi,evu soŋoi kobot soŋoi,[],,[],,False,False,,1
-lava1239-1-1000-1,,lava1239-1,1000,erasoŋoi soŋoi kobot kobot,erasoŋoi soŋoi kobot kobot,[],,[],,False,False,,1
-lava1239-1-2000-1,,lava1239-1,2000,evu soŋoi soŋoi kobot soŋoi,evu soŋoi soŋoi kobot soŋoi,[],,[],,False,False,,1
+lava1239-1-1-1,,lava1239-1,1,kas,kas,[],,['chan2019'],,False,False,,1
+lava1239-1-2-1,,lava1239-1,2,auu,auu,[],,['chan2019'],,False,False,,1
+lava1239-1-3-1,,lava1239-1,3,tui,tui,[],,['chan2019'],,False,False,,1
+lava1239-1-4-1,,lava1239-1,4,ovet,ovet,[],,['chan2019'],,False,False,,1
+lava1239-1-5-1,,lava1239-1,5,nima,nima,[],,['chan2019'],,False,False,,1
+lava1239-1-6-1,,lava1239-1,6,onno,onno,[],,['chan2019'],,False,False,,1
+lava1239-1-7-1,,lava1239-1,7,uti,uti,[],,['chan2019'],,False,False,,1
+lava1239-1-8-1,,lava1239-1,8,ovai,ovai,[],,['chan2019'],,False,False,,1
+lava1239-1-9-1,,lava1239-1,9,sik,sik,[],,['chan2019'],,False,False,,1
+lava1239-1-10-1,,lava1239-1,10,soŋoi,soŋoi,[],,['chan2019'],,False,False,,1
+lava1239-1-11-1,,lava1239-1,11,soŋoi ma eɡesera,soŋoi ma eɡesera,[],,['chan2019'],,False,False,,1
+lava1239-1-12-1,,lava1239-1,12,soŋoi ma evura,soŋoi ma evura,[],,['chan2019'],,False,False,,1
+lava1239-1-13-1,,lava1239-1,13,soŋoi ma putui,soŋoi ma putui,[],,['chan2019'],,False,False,,1
+lava1239-1-14-1,,lava1239-1,14,soŋoi ma penevet,soŋoi ma penevet,[],,['chan2019'],,False,False,,1
+lava1239-1-15-1,,lava1239-1,15,soŋoi ma penima,soŋoi ma penima,[],,['chan2019'],,False,False,,1
+lava1239-1-16-1,,lava1239-1,16,soŋoi ma penno,soŋoi ma penno,[],,['chan2019'],,False,False,,1
+lava1239-1-17-1,,lava1239-1,17,soŋoi ma penuti,soŋoi ma penuti,[],,['chan2019'],,False,False,,1
+lava1239-1-18-1,,lava1239-1,18,soŋoi ma penovai,soŋoi ma penovai,[],,['chan2019'],,False,False,,1
+lava1239-1-19-1,,lava1239-1,19,soŋoi ma pesik,soŋoi ma pesik,[],,['chan2019'],,False,False,,1
+lava1239-1-20-1,,lava1239-1,20,evu soŋoi,evu soŋoi,[],,['chan2019'],,False,False,,1
+lava1239-1-21-1,,lava1239-1,21,evu soŋoi ma eɡesera,evu soŋoi ma eɡesera,[],,['chan2019'],,False,False,,1
+lava1239-1-22-1,,lava1239-1,22,evu soŋoi ma evura,evu soŋoi ma evura,[],,['chan2019'],,False,False,,1
+lava1239-1-23-1,,lava1239-1,23,evu soŋoi ma putui,evu soŋoi ma putui,[],,['chan2019'],,False,False,,1
+lava1239-1-24-1,,lava1239-1,24,evu soŋoi ma penevet,evu soŋoi ma penevet,[],,['chan2019'],,False,False,,1
+lava1239-1-25-1,,lava1239-1,25,evu soŋoi ma penima,evu soŋoi ma penima,[],,['chan2019'],,False,False,,1
+lava1239-1-26-1,,lava1239-1,26,evu soŋoi ma penno,evu soŋoi ma penno,[],,['chan2019'],,False,False,,1
+lava1239-1-27-1,,lava1239-1,27,evu soŋoi ma penuti,evu soŋoi ma penuti,[],,['chan2019'],,False,False,,1
+lava1239-1-28-1,,lava1239-1,28,evu soŋoi ma penovai,evu soŋoi ma penovai,[],,['chan2019'],,False,False,,1
+lava1239-1-29-1,,lava1239-1,29,evu soŋoi ma pesik,evu soŋoi ma pesik,[],,['chan2019'],,False,False,,1
+lava1239-1-30-1,,lava1239-1,30,erosoŋoi putui,erosoŋoi putui,[],,['chan2019'],,False,False,,1
+lava1239-1-40-1,,lava1239-1,40,erosoŋoi penevet,erosoŋoi penevet,[],,['chan2019'],,False,False,,1
+lava1239-1-50-1,,lava1239-1,50,erosoŋoi penima,erosoŋoi penima,[],,['chan2019'],,False,False,,1
+lava1239-1-60-1,,lava1239-1,60,erosoŋoi penno,erosoŋoi penno,[],,['chan2019'],,False,False,,1
+lava1239-1-70-1,,lava1239-1,70,erosoŋoi penuti,erosoŋoi penuti,[],,['chan2019'],,False,False,,1
+lava1239-1-80-1,,lava1239-1,80,erosoŋoi penovai,erosoŋoi penovai,[],,['chan2019'],,False,False,,1
+lava1239-1-90-1,,lava1239-1,90,erosoŋoi pesik,erosoŋoi pesik,[],,['chan2019'],,False,False,,1
+lava1239-1-100-1,,lava1239-1,100,esoŋoi kobot soŋoi,esoŋoi kobot soŋoi,[],,['chan2019'],,False,False,,1
+lava1239-1-200-1,,lava1239-1,200,evu soŋoi kobot soŋoi,evu soŋoi kobot soŋoi,[],,['chan2019'],,False,False,,1
+lava1239-1-1000-1,,lava1239-1,1000,erasoŋoi soŋoi kobot kobot,erasoŋoi soŋoi kobot kobot,[],,['chan2019'],,False,False,,1
+lava1239-1-2000-1,,lava1239-1,2000,evu soŋoi soŋoi kobot soŋoi,evu soŋoi soŋoi kobot soŋoi,[],,['chan2019'],,False,False,,1

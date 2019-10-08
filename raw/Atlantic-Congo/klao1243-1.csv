@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-klao1243-1-1-1,,klao1243-1,1,dô,dô,[],,[],,False,False,,1
-klao1243-1-2-1,,klao1243-1,2,sɔ́n,sɔ́n,[],,[],,False,False,,1
-klao1243-1-3-1,,klao1243-1,3,tan,tan,[],,[],,False,False,,1
-klao1243-1-4-1,,klao1243-1,4,nyìɛ̀,nyìɛ̀,[],,[],,False,False,,1
-klao1243-1-5-1,,klao1243-1,5,mù,mù,[],,[],,False,False,,1
-klao1243-1-6-1,,klao1243-1,6,mùnéɛ́do,mùnéɛ́do,[],( 5 + 1 ),[],,False,False,,1
-klao1243-1-7-1,,klao1243-1,7,mùnéɛ́sɔ́n,mùnéɛ́sɔ́n,[],( 5 + 2 ),[],,False,False,,1
-klao1243-1-8-1,,klao1243-1,8,mùnéɛtan,mùnéɛtan,[],( 5 + 3 ),[],,False,False,,1
-klao1243-1-9-1,,klao1243-1,9,sopádo,sopádo,[],( 10 - 1 ),[],,False,False,,1
-klao1243-1-10-1,,klao1243-1,10,puè,puè,[],,[],,False,False,,1
-klao1243-1-11-1,,klao1243-1,11,puè neɛ dôɛ̀,puè neɛ dôɛ̀,[],,[],,False,False,,1
-klao1243-1-12-1,,klao1243-1,12,puè neɛ sɔn,puè neɛ sɔn,[],,[],,False,False,,1
-klao1243-1-13-1,,klao1243-1,13,puè neɛ tan,puè neɛ tan,[],,[],,False,False,,1
-klao1243-1-14-1,,klao1243-1,14,puè neɛ nyìɛ̀,puè neɛ nyìɛ̀,[],,[],,False,False,,1
-klao1243-1-15-1,,klao1243-1,15,puè neɛ mù,puè neɛ mù,[],,[],,False,False,,1
-klao1243-1-16-1,,klao1243-1,16,puè neɛ mùnéɛ́do,puè neɛ mùnéɛ́do,[],,[],,False,False,,1
-klao1243-1-17-1,,klao1243-1,17,puè neɛ mùnéɛ́sɔ́n,puè neɛ mùnéɛ́sɔ́n,[],,[],,False,False,,1
-klao1243-1-18-1,,klao1243-1,18,puè neɛ mùnéɛtan,puè neɛ mùnéɛtan,[],,[],,False,False,,1
-klao1243-1-19-1,,klao1243-1,19,puè neɛ sopádo,puè neɛ sopádo,[],,[],,False,False,,1
-klao1243-1-20-1,,klao1243-1,20,wlòh,wlòh,[],,[],,False,False,,1
-klao1243-1-21-1,,klao1243-1,21,wlòh neɛ dôɛ̀,wlòh neɛ dôɛ̀,[],,[],,False,False,,1
-klao1243-1-22-1,,klao1243-1,22,wlòh neɛ sɔń,wlòh neɛ sɔń,[],,[],,False,False,,1
-klao1243-1-23-1,,klao1243-1,23,wlòh neɛ tan,wlòh neɛ tan,[],,[],,False,False,,1
-klao1243-1-24-1,,klao1243-1,24,wlòh neɛ nyìɛ̀,wlòh neɛ nyìɛ̀,[],,[],,False,False,,1
-klao1243-1-25-1,,klao1243-1,25,wlòh neɛ mù,wlòh neɛ mù,[],,[],,False,False,,1
-klao1243-1-26-1,,klao1243-1,26,wlòh neɛ mùnéɛ́do,wlòh neɛ mùnéɛ́do,[],,[],,False,False,,1
-klao1243-1-27-1,,klao1243-1,27,wlòh neɛ mùnéɛ́sɔ́n,wlòh neɛ mùnéɛ́sɔ́n,[],,[],,False,False,,1
-klao1243-1-28-1,,klao1243-1,28,wlòh neɛ mùnéɛtan,wlòh neɛ mùnéɛtan,[],,[],,False,False,,1
-klao1243-1-29-1,,klao1243-1,29,wlòh neɛ sopádo,wlòh neɛ sopádo,[],,[],,False,False,,1
-klao1243-1-30-1,,klao1243-1,30,wlòh neɛ puè,wlòh neɛ puè,[],,[],,False,False,,1
-klao1243-1-40-1,,klao1243-1,40,wlòh sɔ́n,wlòh sɔ́n,[],( 20 x 2 ),[],,False,False,,1
-klao1243-1-50-1,,klao1243-1,50,wlòh sɔ́n neɛ puè,wlòh sɔ́n neɛ puè,[],,[],,False,False,,1
-klao1243-1-60-1,,klao1243-1,60,wlòh tan,wlòh tan,[],( 20 x 3 ),[],,False,False,,1
-klao1243-1-70-1,,klao1243-1,70,wlòh tan neɛ puè,wlòh tan neɛ puè,[],,[],,False,False,,1
-klao1243-1-80-1,,klao1243-1,80,wlòh nyìɛ̀,wlòh nyìɛ̀,[],( 20 x 4 ),[],,False,False,,1
-klao1243-1-90-1,,klao1243-1,90,wlòh nyìɛ̀ neɛ puè,wlòh nyìɛ̀ neɛ puè,[],,[],,False,False,,1
-klao1243-1-100-1,,klao1243-1,100,wlòh mù,wlòh mù,[],( 20 x 5 ),[],,False,False,,1
-klao1243-1-200-1,,klao1243-1,200,wlòh puè,wlòh puè,[],( 20 x 10 ),[],,False,False,,1
-klao1243-1-1000-1,,klao1243-1,1000,fuɡ͡bɛ̀,fuɡ͡bɛ̀,[],,[],,False,False,,1
-klao1243-1-2000-1,,klao1243-1,2000,fuɡ͡bɛ̀ sɔ́n,fuɡ͡bɛ̀ sɔ́n,[],,[],,False,False,,1
+klao1243-1-1-1,,klao1243-1,1,dô,dô,[],,['chan2019'],,False,False,,1
+klao1243-1-2-1,,klao1243-1,2,sɔ́n,sɔ́n,[],,['chan2019'],,False,False,,1
+klao1243-1-3-1,,klao1243-1,3,tan,tan,[],,['chan2019'],,False,False,,1
+klao1243-1-4-1,,klao1243-1,4,nyìɛ̀,nyìɛ̀,[],,['chan2019'],,False,False,,1
+klao1243-1-5-1,,klao1243-1,5,mù,mù,[],,['chan2019'],,False,False,,1
+klao1243-1-6-1,,klao1243-1,6,mùnéɛ́do,mùnéɛ́do,[],( 5 + 1 ),['chan2019'],,False,False,,1
+klao1243-1-7-1,,klao1243-1,7,mùnéɛ́sɔ́n,mùnéɛ́sɔ́n,[],( 5 + 2 ),['chan2019'],,False,False,,1
+klao1243-1-8-1,,klao1243-1,8,mùnéɛtan,mùnéɛtan,[],( 5 + 3 ),['chan2019'],,False,False,,1
+klao1243-1-9-1,,klao1243-1,9,sopádo,sopádo,[],( 10 - 1 ),['chan2019'],,False,False,,1
+klao1243-1-10-1,,klao1243-1,10,puè,puè,[],,['chan2019'],,False,False,,1
+klao1243-1-11-1,,klao1243-1,11,puè neɛ dôɛ̀,puè neɛ dôɛ̀,[],,['chan2019'],,False,False,,1
+klao1243-1-12-1,,klao1243-1,12,puè neɛ sɔn,puè neɛ sɔn,[],,['chan2019'],,False,False,,1
+klao1243-1-13-1,,klao1243-1,13,puè neɛ tan,puè neɛ tan,[],,['chan2019'],,False,False,,1
+klao1243-1-14-1,,klao1243-1,14,puè neɛ nyìɛ̀,puè neɛ nyìɛ̀,[],,['chan2019'],,False,False,,1
+klao1243-1-15-1,,klao1243-1,15,puè neɛ mù,puè neɛ mù,[],,['chan2019'],,False,False,,1
+klao1243-1-16-1,,klao1243-1,16,puè neɛ mùnéɛ́do,puè neɛ mùnéɛ́do,[],,['chan2019'],,False,False,,1
+klao1243-1-17-1,,klao1243-1,17,puè neɛ mùnéɛ́sɔ́n,puè neɛ mùnéɛ́sɔ́n,[],,['chan2019'],,False,False,,1
+klao1243-1-18-1,,klao1243-1,18,puè neɛ mùnéɛtan,puè neɛ mùnéɛtan,[],,['chan2019'],,False,False,,1
+klao1243-1-19-1,,klao1243-1,19,puè neɛ sopádo,puè neɛ sopádo,[],,['chan2019'],,False,False,,1
+klao1243-1-20-1,,klao1243-1,20,wlòh,wlòh,[],,['chan2019'],,False,False,,1
+klao1243-1-21-1,,klao1243-1,21,wlòh neɛ dôɛ̀,wlòh neɛ dôɛ̀,[],,['chan2019'],,False,False,,1
+klao1243-1-22-1,,klao1243-1,22,wlòh neɛ sɔń,wlòh neɛ sɔń,[],,['chan2019'],,False,False,,1
+klao1243-1-23-1,,klao1243-1,23,wlòh neɛ tan,wlòh neɛ tan,[],,['chan2019'],,False,False,,1
+klao1243-1-24-1,,klao1243-1,24,wlòh neɛ nyìɛ̀,wlòh neɛ nyìɛ̀,[],,['chan2019'],,False,False,,1
+klao1243-1-25-1,,klao1243-1,25,wlòh neɛ mù,wlòh neɛ mù,[],,['chan2019'],,False,False,,1
+klao1243-1-26-1,,klao1243-1,26,wlòh neɛ mùnéɛ́do,wlòh neɛ mùnéɛ́do,[],,['chan2019'],,False,False,,1
+klao1243-1-27-1,,klao1243-1,27,wlòh neɛ mùnéɛ́sɔ́n,wlòh neɛ mùnéɛ́sɔ́n,[],,['chan2019'],,False,False,,1
+klao1243-1-28-1,,klao1243-1,28,wlòh neɛ mùnéɛtan,wlòh neɛ mùnéɛtan,[],,['chan2019'],,False,False,,1
+klao1243-1-29-1,,klao1243-1,29,wlòh neɛ sopádo,wlòh neɛ sopádo,[],,['chan2019'],,False,False,,1
+klao1243-1-30-1,,klao1243-1,30,wlòh neɛ puè,wlòh neɛ puè,[],,['chan2019'],,False,False,,1
+klao1243-1-40-1,,klao1243-1,40,wlòh sɔ́n,wlòh sɔ́n,[],( 20 x 2 ),['chan2019'],,False,False,,1
+klao1243-1-50-1,,klao1243-1,50,wlòh sɔ́n neɛ puè,wlòh sɔ́n neɛ puè,[],,['chan2019'],,False,False,,1
+klao1243-1-60-1,,klao1243-1,60,wlòh tan,wlòh tan,[],( 20 x 3 ),['chan2019'],,False,False,,1
+klao1243-1-70-1,,klao1243-1,70,wlòh tan neɛ puè,wlòh tan neɛ puè,[],,['chan2019'],,False,False,,1
+klao1243-1-80-1,,klao1243-1,80,wlòh nyìɛ̀,wlòh nyìɛ̀,[],( 20 x 4 ),['chan2019'],,False,False,,1
+klao1243-1-90-1,,klao1243-1,90,wlòh nyìɛ̀ neɛ puè,wlòh nyìɛ̀ neɛ puè,[],,['chan2019'],,False,False,,1
+klao1243-1-100-1,,klao1243-1,100,wlòh mù,wlòh mù,[],( 20 x 5 ),['chan2019'],,False,False,,1
+klao1243-1-200-1,,klao1243-1,200,wlòh puè,wlòh puè,[],( 20 x 10 ),['chan2019'],,False,False,,1
+klao1243-1-1000-1,,klao1243-1,1000,fuɡ͡bɛ̀,fuɡ͡bɛ̀,[],,['chan2019'],,False,False,,1
+klao1243-1-2000-1,,klao1243-1,2000,fuɡ͡bɛ̀ sɔ́n,fuɡ͡bɛ̀ sɔ́n,[],,['chan2019'],,False,False,,1

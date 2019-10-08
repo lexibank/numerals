@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tora1261-1-1-1,,tora1261-1,1,mesaʔ,mesaʔ,[],,[],,False,False,,1
-tora1261-1-2-1,,tora1261-1,2,daʔdua,daʔdua,[],,[],,False,False,,1
-tora1261-1-3-1,,tora1261-1,3,tallu,tallu,[],,[],,False,False,,1
-tora1261-1-4-1,,tora1261-1,4,ʔappaʔ,ʔappaʔ,[],,[],,False,False,,1
-tora1261-1-5-1,,tora1261-1,5,lima,lima,[],,[],,False,False,,1
-tora1261-1-6-1,,tora1261-1,6,annan,annan,[],,[],,False,False,,1
-tora1261-1-7-1,,tora1261-1,7,pitu,pitu,[],,[],,False,False,,1
-tora1261-1-8-1,,tora1261-1,8,kařua,kařua,[],(10 - 2 ),[],,False,False,,1
-tora1261-1-9-1,,tora1261-1,9,kasseřa,kasseřa,[],(10 - 1),[],,False,False,,1
-tora1261-1-10-1,,tora1261-1,10,sampulo,sampulo,[],,[],,False,False,,1
-tora1261-1-11-1,,tora1261-1,11,sampulo mesaʔ,sampulo mesaʔ,[],,[],,False,False,,1
-tora1261-1-12-1,,tora1261-1,12,sampulo daʔdua,sampulo daʔdua,[],,[],,False,False,,1
-tora1261-1-13-1,,tora1261-1,13,sampulo tallu,sampulo tallu,[],,[],,False,False,,1
-tora1261-1-14-1,,tora1261-1,14,sampulo ʔappaʔ,sampulo ʔappaʔ,[],,[],,False,False,,1
-tora1261-1-15-1,,tora1261-1,15,sampulo lima,sampulo lima,[],,[],,False,False,,1
-tora1261-1-16-1,,tora1261-1,16,sampulo annan,sampulo annan,[],,[],,False,False,,1
-tora1261-1-17-1,,tora1261-1,17,sampulo pitu,sampulo pitu,[],,[],,False,False,,1
-tora1261-1-18-1,,tora1261-1,18,sampulo kařua,sampulo kařua,[],,[],,False,False,,1
-tora1261-1-19-1,,tora1261-1,19,sampulo kasseřa,sampulo kasseřa,[],,[],,False,False,,1
-tora1261-1-20-1,,tora1261-1,20,duampulo,duampulo,[],,[],,False,False,,1
-tora1261-1-21-1,,tora1261-1,21,duampulomesaʔ,duampulomesaʔ,[],,[],,False,False,,1
-tora1261-1-22-1,,tora1261-1,22,duampulo daʔdua,duampulo daʔdua,[],,[],,False,False,,1
-tora1261-1-23-1,,tora1261-1,23,duampulo tallu,duampulo tallu,[],,[],,False,False,,1
-tora1261-1-24-1,,tora1261-1,24,duampulo ʔappaʔ,duampulo ʔappaʔ,[],,[],,False,False,,1
-tora1261-1-25-1,,tora1261-1,25,duampulo lima,duampulo lima,[],,[],,False,False,,1
-tora1261-1-26-1,,tora1261-1,26,duampulo annan,duampulo annan,[],,[],,False,False,,1
-tora1261-1-27-1,,tora1261-1,27,duampulo pitu,duampulo pitu,[],,[],,False,False,,1
-tora1261-1-28-1,,tora1261-1,28,duampulo kařua,duampulo kařua,[],,[],,False,False,,1
-tora1261-1-29-1,,tora1261-1,29,duampulo kasseřa,duampulo kasseřa,[],,[],,False,False,,1
-tora1261-1-30-1,,tora1261-1,30,tallumpulo,tallumpulo,[],,[],,False,False,,1
-tora1261-1-40-1,,tora1261-1,40,patampulo,patampulo,[],,[],,False,False,,1
-tora1261-1-50-1,,tora1261-1,50,limampulono,limampulono,[],,[],,False,False,,1
-tora1261-1-60-1,,tora1261-1,60,annampulono,annampulono,[],,[],,False,False,,1
-tora1261-1-70-1,,tora1261-1,70,pitumpulono,pitumpulono,[],,[],,False,False,,1
-tora1261-1-80-1,,tora1261-1,80,kařuapulona,kařuapulona,[],,[],,False,False,,1
-tora1261-1-90-1,,tora1261-1,90,kasseřapulona,kasseřapulona,[],,[],,False,False,,1
-tora1261-1-100-1,,tora1261-1,100,saratu,saratu,[],,[],,False,False,,1
-tora1261-1-200-1,,tora1261-1,200,duaratu,duaratu,[],,[],,False,False,,1
-tora1261-1-1000-1,,tora1261-1,1000,saŋɡabu,saŋɡabu,[],,[],,False,False,,1
-tora1261-1-2000-1,,tora1261-1,2000,duaŋɡabu,duaŋɡabu,[],,[],,False,False,,1
+tora1261-1-1-1,,tora1261-1,1,mesaʔ,mesaʔ,[],,['chan2019'],,False,False,,1
+tora1261-1-2-1,,tora1261-1,2,daʔdua,daʔdua,[],,['chan2019'],,False,False,,1
+tora1261-1-3-1,,tora1261-1,3,tallu,tallu,[],,['chan2019'],,False,False,,1
+tora1261-1-4-1,,tora1261-1,4,ʔappaʔ,ʔappaʔ,[],,['chan2019'],,False,False,,1
+tora1261-1-5-1,,tora1261-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+tora1261-1-6-1,,tora1261-1,6,annan,annan,[],,['chan2019'],,False,False,,1
+tora1261-1-7-1,,tora1261-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+tora1261-1-8-1,,tora1261-1,8,kařua,kařua,[],(10 - 2 ),['chan2019'],,False,False,,1
+tora1261-1-9-1,,tora1261-1,9,kasseřa,kasseřa,[],(10 - 1),['chan2019'],,False,False,,1
+tora1261-1-10-1,,tora1261-1,10,sampulo,sampulo,[],,['chan2019'],,False,False,,1
+tora1261-1-11-1,,tora1261-1,11,sampulo mesaʔ,sampulo mesaʔ,[],,['chan2019'],,False,False,,1
+tora1261-1-12-1,,tora1261-1,12,sampulo daʔdua,sampulo daʔdua,[],,['chan2019'],,False,False,,1
+tora1261-1-13-1,,tora1261-1,13,sampulo tallu,sampulo tallu,[],,['chan2019'],,False,False,,1
+tora1261-1-14-1,,tora1261-1,14,sampulo ʔappaʔ,sampulo ʔappaʔ,[],,['chan2019'],,False,False,,1
+tora1261-1-15-1,,tora1261-1,15,sampulo lima,sampulo lima,[],,['chan2019'],,False,False,,1
+tora1261-1-16-1,,tora1261-1,16,sampulo annan,sampulo annan,[],,['chan2019'],,False,False,,1
+tora1261-1-17-1,,tora1261-1,17,sampulo pitu,sampulo pitu,[],,['chan2019'],,False,False,,1
+tora1261-1-18-1,,tora1261-1,18,sampulo kařua,sampulo kařua,[],,['chan2019'],,False,False,,1
+tora1261-1-19-1,,tora1261-1,19,sampulo kasseřa,sampulo kasseřa,[],,['chan2019'],,False,False,,1
+tora1261-1-20-1,,tora1261-1,20,duampulo,duampulo,[],,['chan2019'],,False,False,,1
+tora1261-1-21-1,,tora1261-1,21,duampulomesaʔ,duampulomesaʔ,[],,['chan2019'],,False,False,,1
+tora1261-1-22-1,,tora1261-1,22,duampulo daʔdua,duampulo daʔdua,[],,['chan2019'],,False,False,,1
+tora1261-1-23-1,,tora1261-1,23,duampulo tallu,duampulo tallu,[],,['chan2019'],,False,False,,1
+tora1261-1-24-1,,tora1261-1,24,duampulo ʔappaʔ,duampulo ʔappaʔ,[],,['chan2019'],,False,False,,1
+tora1261-1-25-1,,tora1261-1,25,duampulo lima,duampulo lima,[],,['chan2019'],,False,False,,1
+tora1261-1-26-1,,tora1261-1,26,duampulo annan,duampulo annan,[],,['chan2019'],,False,False,,1
+tora1261-1-27-1,,tora1261-1,27,duampulo pitu,duampulo pitu,[],,['chan2019'],,False,False,,1
+tora1261-1-28-1,,tora1261-1,28,duampulo kařua,duampulo kařua,[],,['chan2019'],,False,False,,1
+tora1261-1-29-1,,tora1261-1,29,duampulo kasseřa,duampulo kasseřa,[],,['chan2019'],,False,False,,1
+tora1261-1-30-1,,tora1261-1,30,tallumpulo,tallumpulo,[],,['chan2019'],,False,False,,1
+tora1261-1-40-1,,tora1261-1,40,patampulo,patampulo,[],,['chan2019'],,False,False,,1
+tora1261-1-50-1,,tora1261-1,50,limampulono,limampulono,[],,['chan2019'],,False,False,,1
+tora1261-1-60-1,,tora1261-1,60,annampulono,annampulono,[],,['chan2019'],,False,False,,1
+tora1261-1-70-1,,tora1261-1,70,pitumpulono,pitumpulono,[],,['chan2019'],,False,False,,1
+tora1261-1-80-1,,tora1261-1,80,kařuapulona,kařuapulona,[],,['chan2019'],,False,False,,1
+tora1261-1-90-1,,tora1261-1,90,kasseřapulona,kasseřapulona,[],,['chan2019'],,False,False,,1
+tora1261-1-100-1,,tora1261-1,100,saratu,saratu,[],,['chan2019'],,False,False,,1
+tora1261-1-200-1,,tora1261-1,200,duaratu,duaratu,[],,['chan2019'],,False,False,,1
+tora1261-1-1000-1,,tora1261-1,1000,saŋɡabu,saŋɡabu,[],,['chan2019'],,False,False,,1
+tora1261-1-2000-1,,tora1261-1,2000,duaŋɡabu,duaŋɡabu,[],,['chan2019'],,False,False,,1

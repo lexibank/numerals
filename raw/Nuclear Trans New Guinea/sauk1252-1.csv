@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sauk1252-1-1-1,,sauk1252-1,1,nɨŋɡɨt,nɨŋɡɨt,[],(bən),[],,False,False,,1
-sauk1252-1-2-1,,sauk1252-1,2,jalɨ,jalɨ,[],,[],,False,False,,1
-sauk1252-1-3-1,,sauk1252-1,3,jalənəŋ,jalənəŋ,[],(litː ' two one'),[],,False,False,,1
-sauk1252-1-4-1,,sauk1252-1,4,jalɨjalɨ (litː ' two two') or jalənəŋ nɨŋɡɨt or jalənəŋ bən,jalɨjalɨ (litː ' two two') or jalənəŋ nɨŋɡɨt or jalənəŋ bən,[],,[],,False,True,,1
-sauk1252-1-5-1,,sauk1252-1,5,keko,keko,[],,[],,False,False,,1
-sauk1252-1-5-2,,sauk1252-1,5,niya,niya,[],( from Smith 1984),[],,False,False,,1
-sauk1252-1-6-1,,sauk1252-1,6,kosan ingningit,kosan ingningit,[],,[],,False,False,,1
-sauk1252-1-6-2,,sauk1252-1,6,from Geoff Smith 1984,from Geoff Smith 1984,[],,[],,False,True,,1
-sauk1252-1-7-1,,sauk1252-1,7,kosan yali* from Geoff Smith 1984,kosan yali* from Geoff Smith 1984,[],,[],,False,True,,1
-sauk1252-1-8-1,,sauk1252-1,8,kosan yalanang * from Geoff Smith 1984,kosan yalanang * from Geoff Smith 1984,[],,[],,False,True,,1
-sauk1252-1-9-1,,sauk1252-1,9,kosan yaliya yaliya * from Geoff Smith 1984,kosan yaliya yaliya * from Geoff Smith 1984,[],,[],,False,True,,1
-sauk1252-1-10-1,,sauk1252-1,10,kekokeko or kekoko,kekokeko or kekoko,[],,[],,False,True,,1
+sauk1252-1-1-1,,sauk1252-1,1,nɨŋɡɨt,nɨŋɡɨt,[],(bən),['chan2019'],,False,False,,1
+sauk1252-1-2-1,,sauk1252-1,2,jalɨ,jalɨ,[],,['chan2019'],,False,False,,1
+sauk1252-1-3-1,,sauk1252-1,3,jalənəŋ,jalənəŋ,[],(litː ' two one'),['chan2019'],,False,False,,1
+sauk1252-1-4-1,,sauk1252-1,4,jalɨjalɨ (litː ' two two') or jalənəŋ nɨŋɡɨt or jalənəŋ bən,jalɨjalɨ (litː ' two two') or jalənəŋ nɨŋɡɨt or jalənəŋ bən,[],,['chan2019'],,False,True,,1
+sauk1252-1-5-1,,sauk1252-1,5,keko,keko,[],,['chan2019'],,False,False,,1
+sauk1252-1-5-2,,sauk1252-1,5,niya,niya,[],( from Smith 1984),['chan2019'],,False,False,,1
+sauk1252-1-6-1,,sauk1252-1,6,kosan ingningit,kosan ingningit,[],,['chan2019'],,False,False,,1
+sauk1252-1-6-2,,sauk1252-1,6,from Geoff Smith 1984,from Geoff Smith 1984,[],,['chan2019'],,False,True,,1
+sauk1252-1-7-1,,sauk1252-1,7,kosan yali* from Geoff Smith 1984,kosan yali* from Geoff Smith 1984,[],,['chan2019'],,False,True,,1
+sauk1252-1-8-1,,sauk1252-1,8,kosan yalanang * from Geoff Smith 1984,kosan yalanang * from Geoff Smith 1984,[],,['chan2019'],,False,True,,1
+sauk1252-1-9-1,,sauk1252-1,9,kosan yaliya yaliya * from Geoff Smith 1984,kosan yaliya yaliya * from Geoff Smith 1984,[],,['chan2019'],,False,True,,1
+sauk1252-1-10-1,,sauk1252-1,10,kekokeko or kekoko,kekokeko or kekoko,[],,['chan2019'],,False,True,,1

@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-namb1293-1-1-1,,namb1293-1,1,eembru,eembru,[],,[],,False,False,,1
-namb1293-1-2-1,,namb1293-1,2,somboi,somboi,[],,[],,False,False,,1
-namb1293-1-3-1,,namb1293-1,3,naambi,naambi,[],,[],,False,False,,1
-namb1293-1-4-1,,namb1293-1,4,somboi somboi,somboi somboi,[],(litː '2 + 2' ),[],,False,False,,1
-namb1293-1-5-1,,namb1293-1,5,widmátandás,widmátandás,[],(litː 'side of the hand '' ),[],,False,False,,1
-namb1293-1-6-1,,namb1293-1,6,ambás pus,ambás pus,[],"(litː '1 x 6', one pus )",[],,False,False,,1
+namb1293-1-1-1,,namb1293-1,1,eembru,eembru,[],,['chan2019'],,False,False,,1
+namb1293-1-2-1,,namb1293-1,2,somboi,somboi,[],,['chan2019'],,False,False,,1
+namb1293-1-3-1,,namb1293-1,3,naambi,naambi,[],,['chan2019'],,False,False,,1
+namb1293-1-4-1,,namb1293-1,4,somboi somboi,somboi somboi,[],(litː '2 + 2' ),['chan2019'],,False,False,,1
+namb1293-1-5-1,,namb1293-1,5,widmátandás,widmátandás,[],(litː 'side of the hand '' ),['chan2019'],,False,False,,1
+namb1293-1-6-1,,namb1293-1,6,ambás pus,ambás pus,[],"(litː '1 x 6', one pus )",['chan2019'],,False,False,,1

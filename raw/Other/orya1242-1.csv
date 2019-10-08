@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-orya1242-1-1-1,,orya1242-1,1,aha-en,aha-en,[],,[],,False,False,,1
-orya1242-1-2-1,,orya1242-1,2,dan-dan,dan-dan,[],,[],,False,False,,1
-orya1242-1-3-1,,orya1242-1,3,dan-ahan,dan-ahan,[],( 2 + 1 ),[],,False,False,,1
-orya1242-1-4-1,,orya1242-1,4,dan-nër dan nër,dan-nër dan nër,[],( 2 + 2 ),[],,False,False,,1
-orya1242-1-5-1,,orya1242-1,5,aha-ere taha tap,aha-ere taha tap,[],( litː 'one hand finished' ),[],,False,False,,1
-orya1242-1-6-1,,orya1242-1,6,aha-ere taha tap lik ɡul irin aha-en,aha-ere taha tap lik ɡul irin aha-en,[],( litː ' one hand finished and add one ' ),[],,False,False,,1
-orya1242-1-10-1,,orya1242-1,10,dare taha tap,dare taha tap,[],( litː 'two hands finished'),[],,False,False,,1
+orya1242-1-1-1,,orya1242-1,1,aha-en,aha-en,[],,['chan2019'],,False,False,,1
+orya1242-1-2-1,,orya1242-1,2,dan-dan,dan-dan,[],,['chan2019'],,False,False,,1
+orya1242-1-3-1,,orya1242-1,3,dan-ahan,dan-ahan,[],( 2 + 1 ),['chan2019'],,False,False,,1
+orya1242-1-4-1,,orya1242-1,4,dan-nër dan nër,dan-nër dan nër,[],( 2 + 2 ),['chan2019'],,False,False,,1
+orya1242-1-5-1,,orya1242-1,5,aha-ere taha tap,aha-ere taha tap,[],( litː 'one hand finished' ),['chan2019'],,False,False,,1
+orya1242-1-6-1,,orya1242-1,6,aha-ere taha tap lik ɡul irin aha-en,aha-ere taha tap lik ɡul irin aha-en,[],( litː ' one hand finished and add one ' ),['chan2019'],,False,False,,1
+orya1242-1-10-1,,orya1242-1,10,dare taha tap,dare taha tap,[],( litː 'two hands finished'),['chan2019'],,False,False,,1

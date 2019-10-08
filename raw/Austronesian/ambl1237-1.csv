@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ambl1237-1-1-1,,ambl1237-1,1,mo at͡ʃe,mo at͡ʃe,[],,[],,False,False,,1
-ambl1237-1-2-1,,ambl1237-1,2,mo ɾua,mo ɾua,[],,[],,False,False,,1
-ambl1237-1-3-1,,ambl1237-1,3,mo tolu,mo tolu,[],,[],,False,False,,1
-ambl1237-1-4-1,,ambl1237-1,4,mo βati,mo βati,[],,[],,False,False,,1
-ambl1237-1-5-1,,ambl1237-1,5,mo lima,mo lima,[],,[],,False,False,,1
-ambl1237-1-6-1,,ambl1237-1,6,mo limaɾaβe,mo limaɾaβe,[],( 5 + 1 ),[],,False,False,,1
-ambl1237-1-7-1,,ambl1237-1,7,mo rafɾua,mo rafɾua,[],( 5 + 2 ),[],,False,False,,1
-ambl1237-1-8-1,,ambl1237-1,8,mo raftolu,mo raftolu,[],( 5 + 3 ),[],,False,False,,1
-ambl1237-1-9-1,,ambl1237-1,9,mo rampati,mo rampati,[],( 5 + 4 ),[],,False,False,,1
-ambl1237-1-10-1,,ambl1237-1,10,mo sanafulu,mo sanafulu,[],,[],,False,False,,1
-ambl1237-1-11-1,,ambl1237-1,11,mo sanafulu mo at͡ʃe,mo sanafulu mo at͡ʃe,[],,[],,False,False,,1
-ambl1237-1-12-1,,ambl1237-1,12,mo sanafulu mo ɾua,mo sanafulu mo ɾua,[],,[],,False,False,,1
-ambl1237-1-13-1,,ambl1237-1,13,mo sanafulu mo tolu,mo sanafulu mo tolu,[],,[],,False,False,,1
-ambl1237-1-14-1,,ambl1237-1,14,mo sanafulu mo βati,mo sanafulu mo βati,[],,[],,False,False,,1
-ambl1237-1-15-1,,ambl1237-1,15,mo sanafulu mo lima,mo sanafulu mo lima,[],,[],,False,False,,1
-ambl1237-1-16-1,,ambl1237-1,16,mo sanafulu mo limaɾaβe,mo sanafulu mo limaɾaβe,[],,[],,False,False,,1
-ambl1237-1-17-1,,ambl1237-1,17,mo sanafulu mo rafɾua,mo sanafulu mo rafɾua,[],,[],,False,False,,1
-ambl1237-1-18-1,,ambl1237-1,18,mo sanafulu mo raftolu,mo sanafulu mo raftolu,[],,[],,False,False,,1
-ambl1237-1-19-1,,ambl1237-1,19,mo sanafulu mo rampati,mo sanafulu mo rampati,[],,[],,False,False,,1
-ambl1237-1-20-1,,ambl1237-1,20,mo naful ɾua,mo naful ɾua,[],,[],,False,False,,1
-ambl1237-1-21-1,,ambl1237-1,21,mo naful ɾua mo at͡ʃe,mo naful ɾua mo at͡ʃe,[],,[],,False,False,,1
-ambl1237-1-22-1,,ambl1237-1,22,mo naful ɾua mo ɾua,mo naful ɾua mo ɾua,[],,[],,False,False,,1
-ambl1237-1-23-1,,ambl1237-1,23,mo naful ɾua mo tolu,mo naful ɾua mo tolu,[],,[],,False,False,,1
-ambl1237-1-24-1,,ambl1237-1,24,mo naful ɾua mo βati,mo naful ɾua mo βati,[],,[],,False,False,,1
-ambl1237-1-25-1,,ambl1237-1,25,mo naful ɾua mo lima,mo naful ɾua mo lima,[],,[],,False,False,,1
-ambl1237-1-26-1,,ambl1237-1,26,mo naful ɾua mo limaɾaβe,mo naful ɾua mo limaɾaβe,[],,[],,False,False,,1
-ambl1237-1-27-1,,ambl1237-1,27,mo naful ɾua mo rafɾua,mo naful ɾua mo rafɾua,[],,[],,False,False,,1
-ambl1237-1-28-1,,ambl1237-1,28,mo naful ɾua mo raftolu,mo naful ɾua mo raftolu,[],,[],,False,False,,1
-ambl1237-1-29-1,,ambl1237-1,29,mo naful ɾua mo rampati,mo naful ɾua mo rampati,[],,[],,False,False,,1
-ambl1237-1-30-1,,ambl1237-1,30,mo naful tolu,mo naful tolu,[],,[],,False,False,,1
-ambl1237-1-40-1,,ambl1237-1,40,mo naful βati,mo naful βati,[],,[],,False,False,,1
-ambl1237-1-50-1,,ambl1237-1,50,mo naful lima,mo naful lima,[],,[],,False,False,,1
-ambl1237-1-60-1,,ambl1237-1,60,mo naful limaɾaβe,mo naful limaɾaβe,[],,[],,False,False,,1
-ambl1237-1-70-1,,ambl1237-1,70,mo naful rafɾua,mo naful rafɾua,[],,[],,False,False,,1
-ambl1237-1-80-1,,ambl1237-1,80,mo naful raftolu,mo naful raftolu,[],,[],,False,False,,1
-ambl1237-1-90-1,,ambl1237-1,90,mo naful rampati,mo naful rampati,[],,[],,False,False,,1
-ambl1237-1-100-1,,ambl1237-1,100,mo laful mo at͡ʃe,mo laful mo at͡ʃe,[],,[],,False,False,,1
-ambl1237-1-200-1,,ambl1237-1,200,mo laful mo ɾua,mo laful mo ɾua,[],,[],,False,False,,1
-ambl1237-1-1000-1,,ambl1237-1,1000,tau mo at͡ʃe,tau mo at͡ʃe,[],,[],,False,False,,1
-ambl1237-1-2000-1,,ambl1237-1,2000,tau mo ɾua,tau mo ɾua,[],,[],,False,False,,1
+ambl1237-1-1-1,,ambl1237-1,1,mo at͡ʃe,mo at͡ʃe,[],,['chan2019'],,False,False,,1
+ambl1237-1-2-1,,ambl1237-1,2,mo ɾua,mo ɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-3-1,,ambl1237-1,3,mo tolu,mo tolu,[],,['chan2019'],,False,False,,1
+ambl1237-1-4-1,,ambl1237-1,4,mo βati,mo βati,[],,['chan2019'],,False,False,,1
+ambl1237-1-5-1,,ambl1237-1,5,mo lima,mo lima,[],,['chan2019'],,False,False,,1
+ambl1237-1-6-1,,ambl1237-1,6,mo limaɾaβe,mo limaɾaβe,[],( 5 + 1 ),['chan2019'],,False,False,,1
+ambl1237-1-7-1,,ambl1237-1,7,mo rafɾua,mo rafɾua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+ambl1237-1-8-1,,ambl1237-1,8,mo raftolu,mo raftolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+ambl1237-1-9-1,,ambl1237-1,9,mo rampati,mo rampati,[],( 5 + 4 ),['chan2019'],,False,False,,1
+ambl1237-1-10-1,,ambl1237-1,10,mo sanafulu,mo sanafulu,[],,['chan2019'],,False,False,,1
+ambl1237-1-11-1,,ambl1237-1,11,mo sanafulu mo at͡ʃe,mo sanafulu mo at͡ʃe,[],,['chan2019'],,False,False,,1
+ambl1237-1-12-1,,ambl1237-1,12,mo sanafulu mo ɾua,mo sanafulu mo ɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-13-1,,ambl1237-1,13,mo sanafulu mo tolu,mo sanafulu mo tolu,[],,['chan2019'],,False,False,,1
+ambl1237-1-14-1,,ambl1237-1,14,mo sanafulu mo βati,mo sanafulu mo βati,[],,['chan2019'],,False,False,,1
+ambl1237-1-15-1,,ambl1237-1,15,mo sanafulu mo lima,mo sanafulu mo lima,[],,['chan2019'],,False,False,,1
+ambl1237-1-16-1,,ambl1237-1,16,mo sanafulu mo limaɾaβe,mo sanafulu mo limaɾaβe,[],,['chan2019'],,False,False,,1
+ambl1237-1-17-1,,ambl1237-1,17,mo sanafulu mo rafɾua,mo sanafulu mo rafɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-18-1,,ambl1237-1,18,mo sanafulu mo raftolu,mo sanafulu mo raftolu,[],,['chan2019'],,False,False,,1
+ambl1237-1-19-1,,ambl1237-1,19,mo sanafulu mo rampati,mo sanafulu mo rampati,[],,['chan2019'],,False,False,,1
+ambl1237-1-20-1,,ambl1237-1,20,mo naful ɾua,mo naful ɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-21-1,,ambl1237-1,21,mo naful ɾua mo at͡ʃe,mo naful ɾua mo at͡ʃe,[],,['chan2019'],,False,False,,1
+ambl1237-1-22-1,,ambl1237-1,22,mo naful ɾua mo ɾua,mo naful ɾua mo ɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-23-1,,ambl1237-1,23,mo naful ɾua mo tolu,mo naful ɾua mo tolu,[],,['chan2019'],,False,False,,1
+ambl1237-1-24-1,,ambl1237-1,24,mo naful ɾua mo βati,mo naful ɾua mo βati,[],,['chan2019'],,False,False,,1
+ambl1237-1-25-1,,ambl1237-1,25,mo naful ɾua mo lima,mo naful ɾua mo lima,[],,['chan2019'],,False,False,,1
+ambl1237-1-26-1,,ambl1237-1,26,mo naful ɾua mo limaɾaβe,mo naful ɾua mo limaɾaβe,[],,['chan2019'],,False,False,,1
+ambl1237-1-27-1,,ambl1237-1,27,mo naful ɾua mo rafɾua,mo naful ɾua mo rafɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-28-1,,ambl1237-1,28,mo naful ɾua mo raftolu,mo naful ɾua mo raftolu,[],,['chan2019'],,False,False,,1
+ambl1237-1-29-1,,ambl1237-1,29,mo naful ɾua mo rampati,mo naful ɾua mo rampati,[],,['chan2019'],,False,False,,1
+ambl1237-1-30-1,,ambl1237-1,30,mo naful tolu,mo naful tolu,[],,['chan2019'],,False,False,,1
+ambl1237-1-40-1,,ambl1237-1,40,mo naful βati,mo naful βati,[],,['chan2019'],,False,False,,1
+ambl1237-1-50-1,,ambl1237-1,50,mo naful lima,mo naful lima,[],,['chan2019'],,False,False,,1
+ambl1237-1-60-1,,ambl1237-1,60,mo naful limaɾaβe,mo naful limaɾaβe,[],,['chan2019'],,False,False,,1
+ambl1237-1-70-1,,ambl1237-1,70,mo naful rafɾua,mo naful rafɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-80-1,,ambl1237-1,80,mo naful raftolu,mo naful raftolu,[],,['chan2019'],,False,False,,1
+ambl1237-1-90-1,,ambl1237-1,90,mo naful rampati,mo naful rampati,[],,['chan2019'],,False,False,,1
+ambl1237-1-100-1,,ambl1237-1,100,mo laful mo at͡ʃe,mo laful mo at͡ʃe,[],,['chan2019'],,False,False,,1
+ambl1237-1-200-1,,ambl1237-1,200,mo laful mo ɾua,mo laful mo ɾua,[],,['chan2019'],,False,False,,1
+ambl1237-1-1000-1,,ambl1237-1,1000,tau mo at͡ʃe,tau mo at͡ʃe,[],,['chan2019'],,False,False,,1
+ambl1237-1-2000-1,,ambl1237-1,2000,tau mo ɾua,tau mo ɾua,[],,['chan2019'],,False,False,,1

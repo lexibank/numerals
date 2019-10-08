@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-vale1250-1-1-1,,vale1250-1,1,kīɗá,kīɗá,[],,[],,False,False,,1
-vale1250-1-2-1,,vale1250-1,2,díyò,díyò,[],,[],,False,False,,1
-vale1250-1-3-1,,vale1250-1,3,mùtá,mùtá,[],,[],,False,False,,1
-vale1250-1-4-1,,vale1250-1,4,sɔ́,sɔ́,[],,[],,False,False,,1
-vale1250-1-5-1,,vale1250-1,5,mí,mí,[],,[],,False,False,,1
-vale1250-1-6-1,,vale1250-1,6,míkìdí kīɗá,míkìdí kīɗá,[],( 5 + 1),[],,False,False,,1
-vale1250-1-7-1,,vale1250-1,7,míkìdí díyò,míkìdí díyò,[],( 5 + 1),[],,False,False,,1
-vale1250-1-8-1,,vale1250-1,8,ɗɔ̄ɗɔ̄sɔ́,ɗɔ̄ɗɔ̄sɔ́,[],( 2 x 4 ) ??,[],,False,False,,1
-vale1250-1-9-1,,vale1250-1,9,kàmnànɡà kīɗá,kàmnànɡà kīɗá,[],( 10 - 1),[],,False,False,,1
-vale1250-1-10-1,,vale1250-1,10,ɓúfú,ɓúfú,[],,[],,False,False,,1
-vale1250-1-11-1,,vale1250-1,11,ɓúfú jòní kīɗá,ɓúfú jòní kīɗá,[],,[],,False,False,,1
-vale1250-1-12-1,,vale1250-1,12,ɓúfú jòní díyò,ɓúfú jòní díyò,[],,[],,False,False,,1
-vale1250-1-13-1,,vale1250-1,13,ɓúfú jòní mùtá,ɓúfú jòní mùtá,[],,[],,False,False,,1
-vale1250-1-14-1,,vale1250-1,14,ɓúfú jòní sɔ́,ɓúfú jòní sɔ́,[],,[],,False,False,,1
-vale1250-1-15-1,,vale1250-1,15,ɓúfú jòní mí,ɓúfú jòní mí,[],,[],,False,False,,1
-vale1250-1-16-1,,vale1250-1,16,ɓúfú jòní míkìdí kīɗá,ɓúfú jòní míkìdí kīɗá,[],,[],,False,False,,1
-vale1250-1-17-1,,vale1250-1,17,ɓúfú jòní míkìdí díyò,ɓúfú jòní míkìdí díyò,[],,[],,False,False,,1
-vale1250-1-18-1,,vale1250-1,18,ɓúfú jòní ɗɔ̄ɗɔ̄sɔ́,ɓúfú jòní ɗɔ̄ɗɔ̄sɔ́,[],,[],,False,False,,1
-vale1250-1-19-1,,vale1250-1,19,ɓúfú jòní kàmnànɡà kīɗa,ɓúfú jòní kàmnànɡà kīɗa,[],,[],,False,False,,1
-vale1250-1-20-1,,vale1250-1,20,ùndà kīɗá,ùndà kīɗá,[],,[],,False,False,,1
-vale1250-1-21-1,,vale1250-1,21,ùndà kīɗá sò jòní kīɗá,ùndà kīɗá sò jòní kīɗá,[],,[],,False,False,,1
-vale1250-1-22-1,,vale1250-1,22,ùndà kīɗá sò jòní díyò,ùndà kīɗá sò jòní díyò,[],,[],,False,False,,1
-vale1250-1-23-1,,vale1250-1,23,ùndà kīɗá sò jòní mùtá,ùndà kīɗá sò jòní mùtá,[],,[],,False,False,,1
-vale1250-1-24-1,,vale1250-1,24,ùndà kīɗá sò jòní sɔ́,ùndà kīɗá sò jòní sɔ́,[],,[],,False,False,,1
-vale1250-1-25-1,,vale1250-1,25,ùndà kīɗá sò jòní mí,ùndà kīɗá sò jòní mí,[],,[],,False,False,,1
-vale1250-1-26-1,,vale1250-1,26,ùndà kīɗá sò jòní míkìdí kīɗá,ùndà kīɗá sò jòní míkìdí kīɗá,[],,[],,False,False,,1
-vale1250-1-27-1,,vale1250-1,27,ùndà kīɗá sò jòní míkìdí díyò,ùndà kīɗá sò jòní míkìdí díyò,[],,[],,False,False,,1
-vale1250-1-28-1,,vale1250-1,28,ùndà kīɗá sò jòní ɗɔ̄ɗɔ̄sɔ́,ùndà kīɗá sò jòní ɗɔ̄ɗɔ̄sɔ́,[],,[],,False,False,,1
-vale1250-1-29-1,,vale1250-1,29,ùndà kīɗá sò jòní kàmnànɡà kīɗa,ùndà kīɗá sò jòní kàmnànɡà kīɗa,[],,[],,False,False,,1
-vale1250-1-30-1,,vale1250-1,30,ùndà kīɗá sò jòní ɓúfú,ùndà kīɗá sò jòní ɓúfú,[],,[],,False,False,,1
-vale1250-1-40-1,,vale1250-1,40,ùndà díyò,ùndà díyò,[],( 20 x 2 ),[],,False,False,,1
-vale1250-1-50-1,,vale1250-1,50,ùndà díyò sò jòní ɓúfú,ùndà díyò sò jòní ɓúfú,[],,[],,False,False,,1
-vale1250-1-60-1,,vale1250-1,60,ùndà mùtá,ùndà mùtá,[],( 20 x 3 ),[],,False,False,,1
-vale1250-1-70-1,,vale1250-1,70,ùndà mùtá sò jòní ɓúfú,ùndà mùtá sò jòní ɓúfú,[],,[],,False,False,,1
-vale1250-1-80-1,,vale1250-1,80,ùndà sɔ́,ùndà sɔ́,[],( 20 x 4 ),[],,False,False,,1
-vale1250-1-90-1,,vale1250-1,90,ùndà sɔ́ sò jòní ɓúfú,ùndà sɔ́ sò jòní ɓúfú,[],,[],,False,False,,1
-vale1250-1-100-1,,vale1250-1,100,mí,mí,[],( 20 x 5 ),[],,False,False,,1
-vale1250-1-200-1,,vale1250-1,200,ùnda díyò,ùnda díyò,[],( 20 x 10 ),[],,False,False,,1
-vale1250-1-1000-1,,vale1250-1,1000,sák,sák,[],,[],,False,False,,1
-vale1250-1-2000-1,,vale1250-1,2000,sák díyò,sák díyò,[],,[],,False,False,,1
+vale1250-1-1-1,,vale1250-1,1,kīɗá,kīɗá,[],,['chan2019'],,False,False,,1
+vale1250-1-2-1,,vale1250-1,2,díyò,díyò,[],,['chan2019'],,False,False,,1
+vale1250-1-3-1,,vale1250-1,3,mùtá,mùtá,[],,['chan2019'],,False,False,,1
+vale1250-1-4-1,,vale1250-1,4,sɔ́,sɔ́,[],,['chan2019'],,False,False,,1
+vale1250-1-5-1,,vale1250-1,5,mí,mí,[],,['chan2019'],,False,False,,1
+vale1250-1-6-1,,vale1250-1,6,míkìdí kīɗá,míkìdí kīɗá,[],( 5 + 1),['chan2019'],,False,False,,1
+vale1250-1-7-1,,vale1250-1,7,míkìdí díyò,míkìdí díyò,[],( 5 + 1),['chan2019'],,False,False,,1
+vale1250-1-8-1,,vale1250-1,8,ɗɔ̄ɗɔ̄sɔ́,ɗɔ̄ɗɔ̄sɔ́,[],( 2 x 4 ) ??,['chan2019'],,False,False,,1
+vale1250-1-9-1,,vale1250-1,9,kàmnànɡà kīɗá,kàmnànɡà kīɗá,[],( 10 - 1),['chan2019'],,False,False,,1
+vale1250-1-10-1,,vale1250-1,10,ɓúfú,ɓúfú,[],,['chan2019'],,False,False,,1
+vale1250-1-11-1,,vale1250-1,11,ɓúfú jòní kīɗá,ɓúfú jòní kīɗá,[],,['chan2019'],,False,False,,1
+vale1250-1-12-1,,vale1250-1,12,ɓúfú jòní díyò,ɓúfú jòní díyò,[],,['chan2019'],,False,False,,1
+vale1250-1-13-1,,vale1250-1,13,ɓúfú jòní mùtá,ɓúfú jòní mùtá,[],,['chan2019'],,False,False,,1
+vale1250-1-14-1,,vale1250-1,14,ɓúfú jòní sɔ́,ɓúfú jòní sɔ́,[],,['chan2019'],,False,False,,1
+vale1250-1-15-1,,vale1250-1,15,ɓúfú jòní mí,ɓúfú jòní mí,[],,['chan2019'],,False,False,,1
+vale1250-1-16-1,,vale1250-1,16,ɓúfú jòní míkìdí kīɗá,ɓúfú jòní míkìdí kīɗá,[],,['chan2019'],,False,False,,1
+vale1250-1-17-1,,vale1250-1,17,ɓúfú jòní míkìdí díyò,ɓúfú jòní míkìdí díyò,[],,['chan2019'],,False,False,,1
+vale1250-1-18-1,,vale1250-1,18,ɓúfú jòní ɗɔ̄ɗɔ̄sɔ́,ɓúfú jòní ɗɔ̄ɗɔ̄sɔ́,[],,['chan2019'],,False,False,,1
+vale1250-1-19-1,,vale1250-1,19,ɓúfú jòní kàmnànɡà kīɗa,ɓúfú jòní kàmnànɡà kīɗa,[],,['chan2019'],,False,False,,1
+vale1250-1-20-1,,vale1250-1,20,ùndà kīɗá,ùndà kīɗá,[],,['chan2019'],,False,False,,1
+vale1250-1-21-1,,vale1250-1,21,ùndà kīɗá sò jòní kīɗá,ùndà kīɗá sò jòní kīɗá,[],,['chan2019'],,False,False,,1
+vale1250-1-22-1,,vale1250-1,22,ùndà kīɗá sò jòní díyò,ùndà kīɗá sò jòní díyò,[],,['chan2019'],,False,False,,1
+vale1250-1-23-1,,vale1250-1,23,ùndà kīɗá sò jòní mùtá,ùndà kīɗá sò jòní mùtá,[],,['chan2019'],,False,False,,1
+vale1250-1-24-1,,vale1250-1,24,ùndà kīɗá sò jòní sɔ́,ùndà kīɗá sò jòní sɔ́,[],,['chan2019'],,False,False,,1
+vale1250-1-25-1,,vale1250-1,25,ùndà kīɗá sò jòní mí,ùndà kīɗá sò jòní mí,[],,['chan2019'],,False,False,,1
+vale1250-1-26-1,,vale1250-1,26,ùndà kīɗá sò jòní míkìdí kīɗá,ùndà kīɗá sò jòní míkìdí kīɗá,[],,['chan2019'],,False,False,,1
+vale1250-1-27-1,,vale1250-1,27,ùndà kīɗá sò jòní míkìdí díyò,ùndà kīɗá sò jòní míkìdí díyò,[],,['chan2019'],,False,False,,1
+vale1250-1-28-1,,vale1250-1,28,ùndà kīɗá sò jòní ɗɔ̄ɗɔ̄sɔ́,ùndà kīɗá sò jòní ɗɔ̄ɗɔ̄sɔ́,[],,['chan2019'],,False,False,,1
+vale1250-1-29-1,,vale1250-1,29,ùndà kīɗá sò jòní kàmnànɡà kīɗa,ùndà kīɗá sò jòní kàmnànɡà kīɗa,[],,['chan2019'],,False,False,,1
+vale1250-1-30-1,,vale1250-1,30,ùndà kīɗá sò jòní ɓúfú,ùndà kīɗá sò jòní ɓúfú,[],,['chan2019'],,False,False,,1
+vale1250-1-40-1,,vale1250-1,40,ùndà díyò,ùndà díyò,[],( 20 x 2 ),['chan2019'],,False,False,,1
+vale1250-1-50-1,,vale1250-1,50,ùndà díyò sò jòní ɓúfú,ùndà díyò sò jòní ɓúfú,[],,['chan2019'],,False,False,,1
+vale1250-1-60-1,,vale1250-1,60,ùndà mùtá,ùndà mùtá,[],( 20 x 3 ),['chan2019'],,False,False,,1
+vale1250-1-70-1,,vale1250-1,70,ùndà mùtá sò jòní ɓúfú,ùndà mùtá sò jòní ɓúfú,[],,['chan2019'],,False,False,,1
+vale1250-1-80-1,,vale1250-1,80,ùndà sɔ́,ùndà sɔ́,[],( 20 x 4 ),['chan2019'],,False,False,,1
+vale1250-1-90-1,,vale1250-1,90,ùndà sɔ́ sò jòní ɓúfú,ùndà sɔ́ sò jòní ɓúfú,[],,['chan2019'],,False,False,,1
+vale1250-1-100-1,,vale1250-1,100,mí,mí,[],( 20 x 5 ),['chan2019'],,False,False,,1
+vale1250-1-200-1,,vale1250-1,200,ùnda díyò,ùnda díyò,[],( 20 x 10 ),['chan2019'],,False,False,,1
+vale1250-1-1000-1,,vale1250-1,1000,sák,sák,[],,['chan2019'],,False,False,,1
+vale1250-1-2000-1,,vale1250-1,2000,sák díyò,sák díyò,[],,['chan2019'],,False,False,,1

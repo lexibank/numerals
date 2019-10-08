@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-koro1298-1-1-1,,koro1298-1,1,-ndom,-ndom,[],,[],,False,False,,1
-koro1298-1-1-2,,koro1298-1,1,ɡadɔm,ɡadɔm,[],,[],,False,False,,1
-koro1298-1-2-1,,koro1298-1,2,ɪhĩĩ,ɪhĩĩ,[],,[],,False,False,,1
-koro1298-1-3-1,,koro1298-1,3,ɪtãã,ɪtãã,[],,[],,False,False,,1
-koro1298-1-4-1,,koro1298-1,4,ɪnãã,ɪnãã,[],,[],,False,False,,1
-koro1298-1-5-1,,koro1298-1,5,ɪnɔm,ɪnɔm,[],,[],,False,False,,1
-koro1298-1-6-1,,koro1298-1,6,ɪhʊrʊ,ɪhʊrʊ,[],,[],,False,False,,1
-koro1298-1-7-1,,koro1298-1,7,ɪpɛ̃ɛ̃,ɪpɛ̃ɛ̃,[],,[],,False,False,,1
-koro1298-1-8-1,,koro1298-1,8,ɪtɔɔ,ɪtɔɔ,[],,[],,False,False,,1
-koro1298-1-9-1,,koro1298-1,9,ɪfa,ɪfa,[],,[],,False,False,,1
-koro1298-1-10-1,,koro1298-1,10,fɪ,fɪ,[],,[],,False,False,,1
-koro1298-1-11-1,,koro1298-1,11,fɪ la ɡadɔm,fɪ la ɡadɔm,[],,[],,False,False,,1
-koro1298-1-12-1,,koro1298-1,12,fɪ la ɪhĩĩ,fɪ la ɪhĩĩ,[],,[],,False,False,,1
-koro1298-1-13-1,,koro1298-1,13,fɪ la ɪtãã,fɪ la ɪtãã,[],,[],,False,False,,1
-koro1298-1-14-1,,koro1298-1,14,fɪ la ɪnãã,fɪ la ɪnãã,[],,[],,False,False,,1
-koro1298-1-15-1,,koro1298-1,15,fɪ la ɪnɔm,fɪ la ɪnɔm,[],,[],,False,False,,1
-koro1298-1-16-1,,koro1298-1,16,fɪ la ɪhʊrʊ,fɪ la ɪhʊrʊ,[],,[],,False,False,,1
-koro1298-1-17-1,,koro1298-1,17,fɪ la ɪpɛ̃ɛ̃,fɪ la ɪpɛ̃ɛ̃,[],,[],,False,False,,1
-koro1298-1-18-1,,koro1298-1,18,fɪ la ɪtɔɔ,fɪ la ɪtɔɔ,[],,[],,False,False,,1
-koro1298-1-19-1,,koro1298-1,19,fɪ la ɪfa,fɪ la ɪfa,[],,[],,False,False,,1
-koro1298-1-20-1,,koro1298-1,20,sofe,sofe,[],,[],,False,False,,1
-koro1298-1-21-1,,koro1298-1,21,sofe la ɡadɔm,sofe la ɡadɔm,[],,[],,False,False,,1
-koro1298-1-22-1,,koro1298-1,22,sofe la ɪhĩĩ,sofe la ɪhĩĩ,[],,[],,False,False,,1
-koro1298-1-23-1,,koro1298-1,23,sofe la ɪtãã,sofe la ɪtãã,[],,[],,False,False,,1
-koro1298-1-24-1,,koro1298-1,24,sofe la ɪnãã,sofe la ɪnãã,[],,[],,False,False,,1
-koro1298-1-25-1,,koro1298-1,25,sofe la ɪnɔm,sofe la ɪnɔm,[],,[],,False,False,,1
-koro1298-1-26-1,,koro1298-1,26,sofe la ɪhʊrʊ,sofe la ɪhʊrʊ,[],,[],,False,False,,1
-koro1298-1-27-1,,koro1298-1,27,sofe la ɪpɛ̃ɛ̃,sofe la ɪpɛ̃ɛ̃,[],,[],,False,False,,1
-koro1298-1-28-1,,koro1298-1,28,sofe la ɪtɔɔ,sofe la ɪtɔɔ,[],,[],,False,False,,1
-koro1298-1-29-1,,koro1298-1,29,sofe la ɪfa,sofe la ɪfa,[],,[],,False,False,,1
-koro1298-1-30-1,,koro1298-1,30,fĩ(n)tãã,fĩ(n)tãã,[],,[],,False,False,,1
-koro1298-1-40-1,,koro1298-1,40,fĩnaa,fĩnaa,[],,[],,False,False,,1
-koro1298-1-50-1,,koro1298-1,50,fĩnɔm,fĩnɔm,[],,[],,False,False,,1
-koro1298-1-60-1,,koro1298-1,60,fĩhʊrʊ,fĩhʊrʊ,[],,[],,False,False,,1
-koro1298-1-70-1,,koro1298-1,70,fĩ(m)pɛ̃ɛ̃,fĩ(m)pɛ̃ɛ̃,[],,[],,False,False,,1
-koro1298-1-80-1,,koro1298-1,80,fĩ(n)tɔɔ,fĩ(n)tɔɔ,[],,[],,False,False,,1
-koro1298-1-90-1,,koro1298-1,90,fĩfa,fĩfa,[],,[],,False,False,,1
-koro1298-1-100-1,,koro1298-1,100,bɛrʊ,bɛrʊ,[],,[],,False,False,,1
-koro1298-1-200-1,,koro1298-1,200,bɛrʊma hĩĩ,bɛrʊma hĩĩ,[],,[],,False,False,,1
-koro1298-1-1000-1,,koro1298-1,1000,tʊsrɪ,tʊsrɪ,[],< from Mòòré ,[],,True,False,,1
-koro1298-1-2000-1,,koro1298-1,2000,tʊsa hĩĩ,tʊsa hĩĩ,[],,[],,False,False,,1
+koro1298-1-1-1,,koro1298-1,1,-ndom,-ndom,[],,['chan2019'],,False,False,,1
+koro1298-1-1-2,,koro1298-1,1,ɡadɔm,ɡadɔm,[],,['chan2019'],,False,False,,1
+koro1298-1-2-1,,koro1298-1,2,ɪhĩĩ,ɪhĩĩ,[],,['chan2019'],,False,False,,1
+koro1298-1-3-1,,koro1298-1,3,ɪtãã,ɪtãã,[],,['chan2019'],,False,False,,1
+koro1298-1-4-1,,koro1298-1,4,ɪnãã,ɪnãã,[],,['chan2019'],,False,False,,1
+koro1298-1-5-1,,koro1298-1,5,ɪnɔm,ɪnɔm,[],,['chan2019'],,False,False,,1
+koro1298-1-6-1,,koro1298-1,6,ɪhʊrʊ,ɪhʊrʊ,[],,['chan2019'],,False,False,,1
+koro1298-1-7-1,,koro1298-1,7,ɪpɛ̃ɛ̃,ɪpɛ̃ɛ̃,[],,['chan2019'],,False,False,,1
+koro1298-1-8-1,,koro1298-1,8,ɪtɔɔ,ɪtɔɔ,[],,['chan2019'],,False,False,,1
+koro1298-1-9-1,,koro1298-1,9,ɪfa,ɪfa,[],,['chan2019'],,False,False,,1
+koro1298-1-10-1,,koro1298-1,10,fɪ,fɪ,[],,['chan2019'],,False,False,,1
+koro1298-1-11-1,,koro1298-1,11,fɪ la ɡadɔm,fɪ la ɡadɔm,[],,['chan2019'],,False,False,,1
+koro1298-1-12-1,,koro1298-1,12,fɪ la ɪhĩĩ,fɪ la ɪhĩĩ,[],,['chan2019'],,False,False,,1
+koro1298-1-13-1,,koro1298-1,13,fɪ la ɪtãã,fɪ la ɪtãã,[],,['chan2019'],,False,False,,1
+koro1298-1-14-1,,koro1298-1,14,fɪ la ɪnãã,fɪ la ɪnãã,[],,['chan2019'],,False,False,,1
+koro1298-1-15-1,,koro1298-1,15,fɪ la ɪnɔm,fɪ la ɪnɔm,[],,['chan2019'],,False,False,,1
+koro1298-1-16-1,,koro1298-1,16,fɪ la ɪhʊrʊ,fɪ la ɪhʊrʊ,[],,['chan2019'],,False,False,,1
+koro1298-1-17-1,,koro1298-1,17,fɪ la ɪpɛ̃ɛ̃,fɪ la ɪpɛ̃ɛ̃,[],,['chan2019'],,False,False,,1
+koro1298-1-18-1,,koro1298-1,18,fɪ la ɪtɔɔ,fɪ la ɪtɔɔ,[],,['chan2019'],,False,False,,1
+koro1298-1-19-1,,koro1298-1,19,fɪ la ɪfa,fɪ la ɪfa,[],,['chan2019'],,False,False,,1
+koro1298-1-20-1,,koro1298-1,20,sofe,sofe,[],,['chan2019'],,False,False,,1
+koro1298-1-21-1,,koro1298-1,21,sofe la ɡadɔm,sofe la ɡadɔm,[],,['chan2019'],,False,False,,1
+koro1298-1-22-1,,koro1298-1,22,sofe la ɪhĩĩ,sofe la ɪhĩĩ,[],,['chan2019'],,False,False,,1
+koro1298-1-23-1,,koro1298-1,23,sofe la ɪtãã,sofe la ɪtãã,[],,['chan2019'],,False,False,,1
+koro1298-1-24-1,,koro1298-1,24,sofe la ɪnãã,sofe la ɪnãã,[],,['chan2019'],,False,False,,1
+koro1298-1-25-1,,koro1298-1,25,sofe la ɪnɔm,sofe la ɪnɔm,[],,['chan2019'],,False,False,,1
+koro1298-1-26-1,,koro1298-1,26,sofe la ɪhʊrʊ,sofe la ɪhʊrʊ,[],,['chan2019'],,False,False,,1
+koro1298-1-27-1,,koro1298-1,27,sofe la ɪpɛ̃ɛ̃,sofe la ɪpɛ̃ɛ̃,[],,['chan2019'],,False,False,,1
+koro1298-1-28-1,,koro1298-1,28,sofe la ɪtɔɔ,sofe la ɪtɔɔ,[],,['chan2019'],,False,False,,1
+koro1298-1-29-1,,koro1298-1,29,sofe la ɪfa,sofe la ɪfa,[],,['chan2019'],,False,False,,1
+koro1298-1-30-1,,koro1298-1,30,fĩ(n)tãã,fĩ(n)tãã,[],,['chan2019'],,False,False,,1
+koro1298-1-40-1,,koro1298-1,40,fĩnaa,fĩnaa,[],,['chan2019'],,False,False,,1
+koro1298-1-50-1,,koro1298-1,50,fĩnɔm,fĩnɔm,[],,['chan2019'],,False,False,,1
+koro1298-1-60-1,,koro1298-1,60,fĩhʊrʊ,fĩhʊrʊ,[],,['chan2019'],,False,False,,1
+koro1298-1-70-1,,koro1298-1,70,fĩ(m)pɛ̃ɛ̃,fĩ(m)pɛ̃ɛ̃,[],,['chan2019'],,False,False,,1
+koro1298-1-80-1,,koro1298-1,80,fĩ(n)tɔɔ,fĩ(n)tɔɔ,[],,['chan2019'],,False,False,,1
+koro1298-1-90-1,,koro1298-1,90,fĩfa,fĩfa,[],,['chan2019'],,False,False,,1
+koro1298-1-100-1,,koro1298-1,100,bɛrʊ,bɛrʊ,[],,['chan2019'],,False,False,,1
+koro1298-1-200-1,,koro1298-1,200,bɛrʊma hĩĩ,bɛrʊma hĩĩ,[],,['chan2019'],,False,False,,1
+koro1298-1-1000-1,,koro1298-1,1000,tʊsrɪ,tʊsrɪ,[],< from Mòòré ,['chan2019'],,True,False,,1
+koro1298-1-2000-1,,koro1298-1,2000,tʊsa hĩĩ,tʊsa hĩĩ,[],,['chan2019'],,False,False,,1

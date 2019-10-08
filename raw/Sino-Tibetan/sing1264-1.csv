@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sing1264-1-1-1,,sing1264-1,1,a,a,[],,[],,False,False,,1
-sing1264-1-1-2,,sing1264-1,1,aima,aima,[],,[],,False,False,,1
-sing1264-1-2-1,,sing1264-1,2,kʰɔŋ,kʰɔŋ,[],,[],,False,False,,1
-sing1264-1-2-2,,sing1264-1,2,i(n) kʰɔŋ,i(n) kʰɔŋ,[],,[],,False,False,,1
-sing1264-1-3-1,,sing1264-1,3,musum,musum,[],,[],,False,False,,1
-sing1264-1-4-1,,sing1264-1,4,mɨli,mɨli,[],,[],,False,False,,1
-sing1264-1-5-1,,sing1264-1,5,məŋa,məŋa,[],,[],,False,False,,1
-sing1264-1-6-1,,sing1264-1,6,kuʔ,kuʔ,[],,[],,False,False,,1
-sing1264-1-7-1,,sing1264-1,7,snit,snit,[],,[],,False,False,,1
-sing1264-1-8-1,,sing1264-1,8,mcat,mcat,[],,[],,False,False,,1
-sing1264-1-9-1,,sing1264-1,9,skʰu,skʰu,[],,[],,False,False,,1
-sing1264-1-10-1,,sing1264-1,10,ʃi,ʃi,[],,[],,False,False,,1
-sing1264-1-11-1,,sing1264-1,11,ʃi-ai,ʃi-ai,[],,[],,False,False,,1
-sing1264-1-12-1,,sing1264-1,12,ʃi-kʰɔŋ,ʃi-kʰɔŋ,[],,[],,False,False,,1
-sing1264-1-13-1,,sing1264-1,13,ʃi-musum,ʃi-musum,[],,[],,False,False,,1
-sing1264-1-14-1,,sing1264-1,14,ʃi-mɨli,ʃi-mɨli,[],,[],,False,False,,1
-sing1264-1-15-1,,sing1264-1,15,ʃi-məŋa,ʃi-məŋa,[],,[],,False,False,,1
-sing1264-1-16-1,,sing1264-1,16,ʃi- kuʔ,ʃi- kuʔ,[],,[],,False,False,,1
-sing1264-1-17-1,,sing1264-1,17,ʃi-snit,ʃi-snit,[],,[],,False,False,,1
-sing1264-1-18-1,,sing1264-1,18,ʃi-mcat,ʃi-mcat,[],,[],,False,False,,1
-sing1264-1-19-1,,sing1264-1,19,ʃi-skʰu,ʃi-skʰu,[],,[],,False,False,,1
-sing1264-1-20-1,,sing1264-1,20,kʰun,kʰun,[],,[],,False,False,,1
-sing1264-1-21-1,,sing1264-1,21,kʰun ai,kʰun ai,[],,[],,False,False,,1
-sing1264-1-22-1,,sing1264-1,22,kʰun kʰɔŋ,kʰun kʰɔŋ,[],,[],,False,False,,1
-sing1264-1-23-1,,sing1264-1,23,kʰun musum,kʰun musum,[],,[],,False,False,,1
-sing1264-1-24-1,,sing1264-1,24,kʰun mɨli,kʰun mɨli,[],,[],,False,False,,1
-sing1264-1-25-1,,sing1264-1,25,kʰun məŋa,kʰun məŋa,[],,[],,False,False,,1
-sing1264-1-26-1,,sing1264-1,26,kʰun kuʔ,kʰun kuʔ,[],,[],,False,False,,1
-sing1264-1-27-1,,sing1264-1,27,kʰun snit,kʰun snit,[],,[],,False,False,,1
-sing1264-1-28-1,,sing1264-1,28,kʰun mcat,kʰun mcat,[],,[],,False,False,,1
-sing1264-1-29-1,,sing1264-1,29,kʰun skʰu,kʰun skʰu,[],,[],,False,False,,1
-sing1264-1-30-1,,sing1264-1,30,tum ʃi,tum ʃi,[],,[],,False,False,,1
-sing1264-1-40-1,,sing1264-1,40,mɨli ʃi,mɨli ʃi,[],,[],,False,False,,1
-sing1264-1-50-1,,sing1264-1,50,məŋa ʃi,məŋa ʃi,[],,[],,False,False,,1
-sing1264-1-60-1,,sing1264-1,60,kuʔ ʃi,kuʔ ʃi,[],,[],,False,False,,1
-sing1264-1-70-1,,sing1264-1,70,snit ʃi,snit ʃi,[],,[],,False,False,,1
-sing1264-1-80-1,,sing1264-1,80,mcat ʃi,mcat ʃi,[],,[],,False,False,,1
-sing1264-1-90-1,,sing1264-1,90,skʰu ʃi,skʰu ʃi,[],,[],,False,False,,1
-sing1264-1-100-1,,sing1264-1,100,leca,leca,[],,[],,False,False,,1
-sing1264-1-1000-1,,sing1264-1,1000,hiŋma,hiŋma,[],,[],,False,False,,1
+sing1264-1-1-1,,sing1264-1,1,a,a,[],,['chan2019'],,False,False,,1
+sing1264-1-1-2,,sing1264-1,1,aima,aima,[],,['chan2019'],,False,False,,1
+sing1264-1-2-1,,sing1264-1,2,kʰɔŋ,kʰɔŋ,[],,['chan2019'],,False,False,,1
+sing1264-1-2-2,,sing1264-1,2,i(n) kʰɔŋ,i(n) kʰɔŋ,[],,['chan2019'],,False,False,,1
+sing1264-1-3-1,,sing1264-1,3,musum,musum,[],,['chan2019'],,False,False,,1
+sing1264-1-4-1,,sing1264-1,4,mɨli,mɨli,[],,['chan2019'],,False,False,,1
+sing1264-1-5-1,,sing1264-1,5,məŋa,məŋa,[],,['chan2019'],,False,False,,1
+sing1264-1-6-1,,sing1264-1,6,kuʔ,kuʔ,[],,['chan2019'],,False,False,,1
+sing1264-1-7-1,,sing1264-1,7,snit,snit,[],,['chan2019'],,False,False,,1
+sing1264-1-8-1,,sing1264-1,8,mcat,mcat,[],,['chan2019'],,False,False,,1
+sing1264-1-9-1,,sing1264-1,9,skʰu,skʰu,[],,['chan2019'],,False,False,,1
+sing1264-1-10-1,,sing1264-1,10,ʃi,ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-11-1,,sing1264-1,11,ʃi-ai,ʃi-ai,[],,['chan2019'],,False,False,,1
+sing1264-1-12-1,,sing1264-1,12,ʃi-kʰɔŋ,ʃi-kʰɔŋ,[],,['chan2019'],,False,False,,1
+sing1264-1-13-1,,sing1264-1,13,ʃi-musum,ʃi-musum,[],,['chan2019'],,False,False,,1
+sing1264-1-14-1,,sing1264-1,14,ʃi-mɨli,ʃi-mɨli,[],,['chan2019'],,False,False,,1
+sing1264-1-15-1,,sing1264-1,15,ʃi-məŋa,ʃi-məŋa,[],,['chan2019'],,False,False,,1
+sing1264-1-16-1,,sing1264-1,16,ʃi- kuʔ,ʃi- kuʔ,[],,['chan2019'],,False,False,,1
+sing1264-1-17-1,,sing1264-1,17,ʃi-snit,ʃi-snit,[],,['chan2019'],,False,False,,1
+sing1264-1-18-1,,sing1264-1,18,ʃi-mcat,ʃi-mcat,[],,['chan2019'],,False,False,,1
+sing1264-1-19-1,,sing1264-1,19,ʃi-skʰu,ʃi-skʰu,[],,['chan2019'],,False,False,,1
+sing1264-1-20-1,,sing1264-1,20,kʰun,kʰun,[],,['chan2019'],,False,False,,1
+sing1264-1-21-1,,sing1264-1,21,kʰun ai,kʰun ai,[],,['chan2019'],,False,False,,1
+sing1264-1-22-1,,sing1264-1,22,kʰun kʰɔŋ,kʰun kʰɔŋ,[],,['chan2019'],,False,False,,1
+sing1264-1-23-1,,sing1264-1,23,kʰun musum,kʰun musum,[],,['chan2019'],,False,False,,1
+sing1264-1-24-1,,sing1264-1,24,kʰun mɨli,kʰun mɨli,[],,['chan2019'],,False,False,,1
+sing1264-1-25-1,,sing1264-1,25,kʰun məŋa,kʰun məŋa,[],,['chan2019'],,False,False,,1
+sing1264-1-26-1,,sing1264-1,26,kʰun kuʔ,kʰun kuʔ,[],,['chan2019'],,False,False,,1
+sing1264-1-27-1,,sing1264-1,27,kʰun snit,kʰun snit,[],,['chan2019'],,False,False,,1
+sing1264-1-28-1,,sing1264-1,28,kʰun mcat,kʰun mcat,[],,['chan2019'],,False,False,,1
+sing1264-1-29-1,,sing1264-1,29,kʰun skʰu,kʰun skʰu,[],,['chan2019'],,False,False,,1
+sing1264-1-30-1,,sing1264-1,30,tum ʃi,tum ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-40-1,,sing1264-1,40,mɨli ʃi,mɨli ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-50-1,,sing1264-1,50,məŋa ʃi,məŋa ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-60-1,,sing1264-1,60,kuʔ ʃi,kuʔ ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-70-1,,sing1264-1,70,snit ʃi,snit ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-80-1,,sing1264-1,80,mcat ʃi,mcat ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-90-1,,sing1264-1,90,skʰu ʃi,skʰu ʃi,[],,['chan2019'],,False,False,,1
+sing1264-1-100-1,,sing1264-1,100,leca,leca,[],,['chan2019'],,False,False,,1
+sing1264-1-1000-1,,sing1264-1,1000,hiŋma,hiŋma,[],,['chan2019'],,False,False,,1

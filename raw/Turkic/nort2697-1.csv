@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nort2697-1-1-1,,nort2697-1,1,bir,bir,[],,[],,False,False,,1
-nort2697-1-2-1,,nort2697-1,2,iki,iki,[],,[],,False,False,,1
-nort2697-1-3-1,,nort2697-1,3,ytʃ,ytʃ,[],,[],,False,False,,1
-nort2697-1-4-1,,nort2697-1,4,dørt,dørt,[],,[],,False,False,,1
-nort2697-1-5-1,,nort2697-1,5,beʃ,beʃ,[],,[],,False,False,,1
-nort2697-1-6-1,,nort2697-1,6,altɯ,altɯ,[],,[],,False,False,,1
-nort2697-1-7-1,,nort2697-1,7,jeddi,jeddi,[],,[],,False,False,,1
-nort2697-1-8-1,,nort2697-1,8,sækkiz,sækkiz,[],,[],,False,False,,1
-nort2697-1-9-1,,nort2697-1,9,dogguz,dogguz,[],,[],,False,False,,1
-nort2697-1-10-1,,nort2697-1,10,on,on,[],,[],,False,False,,1
-nort2697-1-11-1,,nort2697-1,11,on bir,on bir,[],,[],,False,False,,1
-nort2697-1-12-1,,nort2697-1,12,on iki,on iki,[],,[],,False,False,,1
-nort2697-1-13-1,,nort2697-1,13,on ytʃ,on ytʃ,[],,[],,False,False,,1
-nort2697-1-14-1,,nort2697-1,14,on dørt,on dørt,[],,[],,False,False,,1
-nort2697-1-15-1,,nort2697-1,15,on beʃ,on beʃ,[],,[],,False,False,,1
-nort2697-1-16-1,,nort2697-1,16,on altɯ,on altɯ,[],,[],,False,False,,1
-nort2697-1-17-1,,nort2697-1,17,on jeddi,on jeddi,[],,[],,False,False,,1
-nort2697-1-18-1,,nort2697-1,18,on sækkiz,on sækkiz,[],,[],,False,False,,1
-nort2697-1-19-1,,nort2697-1,19,on dogguz,on dogguz,[],,[],,False,False,,1
-nort2697-1-20-1,,nort2697-1,20,ijirmi,ijirmi,[],,[],,False,False,,1
-nort2697-1-21-1,,nort2697-1,21,ijirmi bir,ijirmi bir,[],,[],,False,False,,1
-nort2697-1-22-1,,nort2697-1,22,ijirmi iki,ijirmi iki,[],,[],,False,False,,1
-nort2697-1-23-1,,nort2697-1,23,ijirmi ytʃ,ijirmi ytʃ,[],,[],,False,False,,1
-nort2697-1-24-1,,nort2697-1,24,ijirmi dørt,ijirmi dørt,[],,[],,False,False,,1
-nort2697-1-25-1,,nort2697-1,25,ijirmi beʃ,ijirmi beʃ,[],,[],,False,False,,1
-nort2697-1-26-1,,nort2697-1,26,ijirmi altɯ,ijirmi altɯ,[],,[],,False,False,,1
-nort2697-1-27-1,,nort2697-1,27,ijirmi jeddi,ijirmi jeddi,[],,[],,False,False,,1
-nort2697-1-28-1,,nort2697-1,28,ijirmi sækkiz,ijirmi sækkiz,[],,[],,False,False,,1
-nort2697-1-29-1,,nort2697-1,29,ijirmi dogguz,ijirmi dogguz,[],,[],,False,False,,1
-nort2697-1-30-1,,nort2697-1,30,otuz,otuz,[],,[],,False,False,,1
-nort2697-1-40-1,,nort2697-1,40,gɯrx,gɯrx,[],,[],,False,False,,1
-nort2697-1-50-1,,nort2697-1,50,ælli,ælli,[],,[],,False,False,,1
-nort2697-1-60-1,,nort2697-1,60,ɑltmɯʃ,ɑltmɯʃ,[],,[],,False,False,,1
-nort2697-1-70-1,,nort2697-1,70,jetmiʃ,jetmiʃ,[],,[],,False,False,,1
-nort2697-1-80-1,,nort2697-1,80,sæksən,sæksən,[],,[],,False,False,,1
-nort2697-1-90-1,,nort2697-1,90,doxsɑn,doxsɑn,[],,[],,False,False,,1
-nort2697-1-100-1,,nort2697-1,100,jyz,jyz,[],,[],,False,False,,1
-nort2697-1-200-1,,nort2697-1,200,iki jyz,iki jyz,[],,[],,False,False,,1
-nort2697-1-1000-1,,nort2697-1,1000,min,min,[],,[],,False,False,,1
-nort2697-1-2000-1,,nort2697-1,2000,iki min,iki min,[],,[],,False,False,,1
+nort2697-1-1-1,,nort2697-1,1,bir,bir,[],,['chan2019'],,False,False,,1
+nort2697-1-2-1,,nort2697-1,2,iki,iki,[],,['chan2019'],,False,False,,1
+nort2697-1-3-1,,nort2697-1,3,ytʃ,ytʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-4-1,,nort2697-1,4,dørt,dørt,[],,['chan2019'],,False,False,,1
+nort2697-1-5-1,,nort2697-1,5,beʃ,beʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-6-1,,nort2697-1,6,altɯ,altɯ,[],,['chan2019'],,False,False,,1
+nort2697-1-7-1,,nort2697-1,7,jeddi,jeddi,[],,['chan2019'],,False,False,,1
+nort2697-1-8-1,,nort2697-1,8,sækkiz,sækkiz,[],,['chan2019'],,False,False,,1
+nort2697-1-9-1,,nort2697-1,9,dogguz,dogguz,[],,['chan2019'],,False,False,,1
+nort2697-1-10-1,,nort2697-1,10,on,on,[],,['chan2019'],,False,False,,1
+nort2697-1-11-1,,nort2697-1,11,on bir,on bir,[],,['chan2019'],,False,False,,1
+nort2697-1-12-1,,nort2697-1,12,on iki,on iki,[],,['chan2019'],,False,False,,1
+nort2697-1-13-1,,nort2697-1,13,on ytʃ,on ytʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-14-1,,nort2697-1,14,on dørt,on dørt,[],,['chan2019'],,False,False,,1
+nort2697-1-15-1,,nort2697-1,15,on beʃ,on beʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-16-1,,nort2697-1,16,on altɯ,on altɯ,[],,['chan2019'],,False,False,,1
+nort2697-1-17-1,,nort2697-1,17,on jeddi,on jeddi,[],,['chan2019'],,False,False,,1
+nort2697-1-18-1,,nort2697-1,18,on sækkiz,on sækkiz,[],,['chan2019'],,False,False,,1
+nort2697-1-19-1,,nort2697-1,19,on dogguz,on dogguz,[],,['chan2019'],,False,False,,1
+nort2697-1-20-1,,nort2697-1,20,ijirmi,ijirmi,[],,['chan2019'],,False,False,,1
+nort2697-1-21-1,,nort2697-1,21,ijirmi bir,ijirmi bir,[],,['chan2019'],,False,False,,1
+nort2697-1-22-1,,nort2697-1,22,ijirmi iki,ijirmi iki,[],,['chan2019'],,False,False,,1
+nort2697-1-23-1,,nort2697-1,23,ijirmi ytʃ,ijirmi ytʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-24-1,,nort2697-1,24,ijirmi dørt,ijirmi dørt,[],,['chan2019'],,False,False,,1
+nort2697-1-25-1,,nort2697-1,25,ijirmi beʃ,ijirmi beʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-26-1,,nort2697-1,26,ijirmi altɯ,ijirmi altɯ,[],,['chan2019'],,False,False,,1
+nort2697-1-27-1,,nort2697-1,27,ijirmi jeddi,ijirmi jeddi,[],,['chan2019'],,False,False,,1
+nort2697-1-28-1,,nort2697-1,28,ijirmi sækkiz,ijirmi sækkiz,[],,['chan2019'],,False,False,,1
+nort2697-1-29-1,,nort2697-1,29,ijirmi dogguz,ijirmi dogguz,[],,['chan2019'],,False,False,,1
+nort2697-1-30-1,,nort2697-1,30,otuz,otuz,[],,['chan2019'],,False,False,,1
+nort2697-1-40-1,,nort2697-1,40,gɯrx,gɯrx,[],,['chan2019'],,False,False,,1
+nort2697-1-50-1,,nort2697-1,50,ælli,ælli,[],,['chan2019'],,False,False,,1
+nort2697-1-60-1,,nort2697-1,60,ɑltmɯʃ,ɑltmɯʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-70-1,,nort2697-1,70,jetmiʃ,jetmiʃ,[],,['chan2019'],,False,False,,1
+nort2697-1-80-1,,nort2697-1,80,sæksən,sæksən,[],,['chan2019'],,False,False,,1
+nort2697-1-90-1,,nort2697-1,90,doxsɑn,doxsɑn,[],,['chan2019'],,False,False,,1
+nort2697-1-100-1,,nort2697-1,100,jyz,jyz,[],,['chan2019'],,False,False,,1
+nort2697-1-200-1,,nort2697-1,200,iki jyz,iki jyz,[],,['chan2019'],,False,False,,1
+nort2697-1-1000-1,,nort2697-1,1000,min,min,[],,['chan2019'],,False,False,,1
+nort2697-1-2000-1,,nort2697-1,2000,iki min,iki min,[],,['chan2019'],,False,False,,1

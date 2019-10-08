@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kona1242-3-1-1,,kona1242-3,1,tano̠͡u,tano̠͡u,[],,[],,False,False,,3
-kona1242-3-2-1,,kona1242-3,2,bolo̠u,bolo̠u,[],,[],,False,False,,3
-kona1242-3-3-1,,kona1242-3,3,komadia,komadia,[],,[],,False,False,,3
-kona1242-3-4-1,,kona1242-3,4,bolo̠u bolo̠u,bolo̠u bolo̠u,[],( 2 + 2 ),[],,False,False,,3
-kona1242-3-5-1,,kona1242-3,5,houyosi,houyosi,[],,[],,False,False,,3
+kona1242-3-1-1,,kona1242-3,1,tano̠͡u,tano̠͡u,[],,['chan2019'],,False,False,,3
+kona1242-3-2-1,,kona1242-3,2,bolo̠u,bolo̠u,[],,['chan2019'],,False,False,,3
+kona1242-3-3-1,,kona1242-3,3,komadia,komadia,[],,['chan2019'],,False,False,,3
+kona1242-3-4-1,,kona1242-3,4,bolo̠u bolo̠u,bolo̠u bolo̠u,[],( 2 + 2 ),['chan2019'],,False,False,,3
+kona1242-3-5-1,,kona1242-3,5,houyosi,houyosi,[],,['chan2019'],,False,False,,3

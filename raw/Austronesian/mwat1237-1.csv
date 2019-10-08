@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mwat1237-1-1-1,,mwat1237-1,1,ʔaiɡeda,ʔaiɡeda,[],,[],,False,False,,1
-mwat1237-1-2-1,,mwat1237-1,2,ʔeluwa,ʔeluwa,[],,[],,False,False,,1
-mwat1237-1-3-1,,mwat1237-1,3,ʔetoi,ʔetoi,[],,[],,False,False,,1
-mwat1237-1-4-1,,mwat1237-1,4,powa,powa,[],< English 'four' ,[],,True,False,,1
-mwat1237-1-5-1,,mwat1237-1,5,nima,nima,[],,[],,False,False,,1
-mwat1237-1-6-1,,mwat1237-1,6,sikis,sikis,[],,[],,False,False,,1
-mwat1237-1-7-1,,mwat1237-1,7,seben,seben,[],,[],,False,False,,1
-mwat1237-1-8-1,,mwat1237-1,8,eiti,eiti,[],,[],,False,False,,1
-mwat1237-1-9-1,,mwat1237-1,9,naen,naen,[],,[],,False,False,,1
-mwat1237-1-10-1,,mwat1237-1,10,nima ʔeluwa,nima ʔeluwa,[],,[],,False,False,,1
+mwat1237-1-1-1,,mwat1237-1,1,ʔaiɡeda,ʔaiɡeda,[],,['chan2019'],,False,False,,1
+mwat1237-1-2-1,,mwat1237-1,2,ʔeluwa,ʔeluwa,[],,['chan2019'],,False,False,,1
+mwat1237-1-3-1,,mwat1237-1,3,ʔetoi,ʔetoi,[],,['chan2019'],,False,False,,1
+mwat1237-1-4-1,,mwat1237-1,4,powa,powa,[],< English 'four' ,['chan2019'],,True,False,,1
+mwat1237-1-5-1,,mwat1237-1,5,nima,nima,[],,['chan2019'],,False,False,,1
+mwat1237-1-6-1,,mwat1237-1,6,sikis,sikis,[],,['chan2019'],,False,False,,1
+mwat1237-1-7-1,,mwat1237-1,7,seben,seben,[],,['chan2019'],,False,False,,1
+mwat1237-1-8-1,,mwat1237-1,8,eiti,eiti,[],,['chan2019'],,False,False,,1
+mwat1237-1-9-1,,mwat1237-1,9,naen,naen,[],,['chan2019'],,False,False,,1
+mwat1237-1-10-1,,mwat1237-1,10,nima ʔeluwa,nima ʔeluwa,[],,['chan2019'],,False,False,,1

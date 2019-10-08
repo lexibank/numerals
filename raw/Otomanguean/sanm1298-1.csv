@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sanm1298-1-1-1,,sanm1298-1,1,ŋɡoh¹³,ŋɡoh¹³,[],,[],,False,False,,1
-sanm1298-1-2-1,,sanm1298-1,2,ββi¹³,ββi¹³,[],,[],,False,False,,1
-sanm1298-1-3-1,,sanm1298-1,3,βa¹ʔni³,βa¹ʔni³,[],,[],,False,False,,1
-sanm1298-1-4-1,,sanm1298-1,4,kə̃¹ʔə̃³,kə̃¹ʔə̃³,[],,[],,False,False,,1
-sanm1298-1-5-1,,sanm1298-1,5,ũ¹ʔũh³,ũ¹ʔũh³,[],,[],,False,False,,1
-sanm1298-1-6-1,,sanm1298-1,6,βa¹tə̃h³,βa¹tə̃h³,[],,[],,False,False,,1
-sanm1298-1-7-1,,sanm1298-1,7,tt͡ʃih²,tt͡ʃih²,[],,[],,False,False,,1
-sanm1298-1-8-1,,sanm1298-1,8,ttũ²,ttũ²,[],,[],,False,False,,1
-sanm1298-1-9-1,,sanm1298-1,9,ũ²,ũ²,[],,[],,False,False,,1
-sanm1298-1-10-1,,sanm1298-1,10,tt͡ʃiʔ²,tt͡ʃiʔ²,[],,[],,False,False,,1
-sanm1298-1-11-1,,sanm1298-1,11,t͡ʃã²,t͡ʃã²,[],,[],,False,False,,1
-sanm1298-1-12-1,,sanm1298-1,12,t͡ʃu²βih²,t͡ʃu²βih²,[],,[],,False,False,,1
-sanm1298-1-13-1,,sanm1298-1,13,t͡ʃa¹ʔnih¹,t͡ʃa¹ʔnih¹,[],,[],,False,False,,1
-sanm1298-1-14-1,,sanm1298-1,14,t͡ʃi²kə̃²ʔə̃h³,t͡ʃi²kə̃²ʔə̃h³,[],,[],,False,False,,1
-sanm1298-1-15-1,,sanm1298-1,15,t͡ʃi²nuʔ²,t͡ʃi²nuʔ²,[],,[],,False,False,,1
-sanm1298-1-16-1,,sanm1298-1,16,t͡ʃi²nuʔ² jə̃¹,t͡ʃi²nuʔ² jə̃¹,[],( 15 + 1 ),[],,False,False,,1
-sanm1298-1-17-1,,sanm1298-1,17,t͡ʃi²nuʔ² ββih¹,t͡ʃi²nuʔ² ββih¹,[],( 15 + 2 ),[],,False,False,,1
-sanm1298-1-18-1,,sanm1298-1,18,t͡ʃi²nuʔ² βa¹ʔnih³,t͡ʃi²nuʔ² βa¹ʔnih³,[],( 15 + 3 ),[],,False,False,,1
-sanm1298-1-19-1,,sanm1298-1,19,t͡ʃi²nuʔ²kə̃¹ʔə̃h³,t͡ʃi²nuʔ²kə̃¹ʔə̃h³,[],( 15 + 4 ),[],,False,False,,1
-sanm1298-1-20-1,,sanm1298-1,20,ko²,ko²,[],,[],,False,False,,1
-sanm1298-1-21-1,,sanm1298-1,21,ko² jə̃¹,ko² jə̃¹,[],,[],,False,False,,1
-sanm1298-1-22-1,,sanm1298-1,22,ko² ββih²,ko² ββih²,[],,[],,False,False,,1
-sanm1298-1-23-1,,sanm1298-1,23,ko² βa²ʔnih²,ko² βa²ʔnih²,[],,[],,False,False,,1
-sanm1298-1-24-1,,sanm1298-1,24,ko² kə̃¹ʔə̃h³,ko² kə̃¹ʔə̃h³,[],,[],,False,False,,1
-sanm1298-1-25-1,,sanm1298-1,25,ko² ũʔ²,ko² ũʔ²,[],,[],,False,False,,1
-sanm1298-1-26-1,,sanm1298-1,26,ko² βa²tə̃h²,ko² βa²tə̃h²,[],,[],,False,False,,1
-sanm1298-1-27-1,,sanm1298-1,27,ko² tt͡ʃih²,ko² tt͡ʃih²,[],,[],,False,False,,1
-sanm1298-1-28-1,,sanm1298-1,28,ko² ttũ²,ko² ttũ²,[],,[],,False,False,,1
-sanm1298-1-29-1,,sanm1298-1,29,ko² ũ²,ko² ũ²,[],,[],,False,False,,1
-sanm1298-1-30-1,,sanm1298-1,30,ko² tt͡ʃiʔ²,ko² tt͡ʃiʔ²,[],,[],,False,False,,1
-sanm1298-1-40-1,,sanm1298-1,40,ββih² ʃi³a³,ββih² ʃi³a³,[],( 2 x 20  ),[],,False,False,,1
-sanm1298-1-50-1,,sanm1298-1,50,ββih² ʃi³a³ tt͡ʃiʔ²,ββih² ʃi³a³ tt͡ʃiʔ²,[],,[],,False,False,,1
-sanm1298-1-60-1,,sanm1298-1,60,βa²ʔnih³ ʃi³a³,βa²ʔnih³ ʃi³a³,[],( 3 x 20  ),[],,False,False,,1
-sanm1298-1-70-1,,sanm1298-1,70,βa²ʔnih³ ʃi³a³ tt͡ʃiʔ²,βa²ʔnih³ ʃi³a³ tt͡ʃiʔ²,[],,[],,False,False,,1
-sanm1298-1-80-1,,sanm1298-1,80,kə̃¹ʔə̃³ ʃi³a³,kə̃¹ʔə̃³ ʃi³a³,[],( 4 x 20  ),[],,False,False,,1
-sanm1298-1-90-1,,sanm1298-1,90,kə̃¹ʔə̃³ ʃi³a³ tt͡ʃiʔ²,kə̃¹ʔə̃³ ʃi³a³ tt͡ʃiʔ²,[],,[],,False,False,,1
-sanm1298-1-100-1,,sanm1298-1,100,si³e⁴ntu⁴³,si³e⁴ntu⁴³,[],( < Spanish 'ciento' ),[],,True,False,,1
-sanm1298-1-1000-1,,sanm1298-1,1000,mi⁴³,mi⁴³,[],( < Spanish 'mil'),[],,True,False,,1
+sanm1298-1-1-1,,sanm1298-1,1,ŋɡoh¹³,ŋɡoh¹³,[],,['chan2019'],,False,False,,1
+sanm1298-1-2-1,,sanm1298-1,2,ββi¹³,ββi¹³,[],,['chan2019'],,False,False,,1
+sanm1298-1-3-1,,sanm1298-1,3,βa¹ʔni³,βa¹ʔni³,[],,['chan2019'],,False,False,,1
+sanm1298-1-4-1,,sanm1298-1,4,kə̃¹ʔə̃³,kə̃¹ʔə̃³,[],,['chan2019'],,False,False,,1
+sanm1298-1-5-1,,sanm1298-1,5,ũ¹ʔũh³,ũ¹ʔũh³,[],,['chan2019'],,False,False,,1
+sanm1298-1-6-1,,sanm1298-1,6,βa¹tə̃h³,βa¹tə̃h³,[],,['chan2019'],,False,False,,1
+sanm1298-1-7-1,,sanm1298-1,7,tt͡ʃih²,tt͡ʃih²,[],,['chan2019'],,False,False,,1
+sanm1298-1-8-1,,sanm1298-1,8,ttũ²,ttũ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-9-1,,sanm1298-1,9,ũ²,ũ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-10-1,,sanm1298-1,10,tt͡ʃiʔ²,tt͡ʃiʔ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-11-1,,sanm1298-1,11,t͡ʃã²,t͡ʃã²,[],,['chan2019'],,False,False,,1
+sanm1298-1-12-1,,sanm1298-1,12,t͡ʃu²βih²,t͡ʃu²βih²,[],,['chan2019'],,False,False,,1
+sanm1298-1-13-1,,sanm1298-1,13,t͡ʃa¹ʔnih¹,t͡ʃa¹ʔnih¹,[],,['chan2019'],,False,False,,1
+sanm1298-1-14-1,,sanm1298-1,14,t͡ʃi²kə̃²ʔə̃h³,t͡ʃi²kə̃²ʔə̃h³,[],,['chan2019'],,False,False,,1
+sanm1298-1-15-1,,sanm1298-1,15,t͡ʃi²nuʔ²,t͡ʃi²nuʔ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-16-1,,sanm1298-1,16,t͡ʃi²nuʔ² jə̃¹,t͡ʃi²nuʔ² jə̃¹,[],( 15 + 1 ),['chan2019'],,False,False,,1
+sanm1298-1-17-1,,sanm1298-1,17,t͡ʃi²nuʔ² ββih¹,t͡ʃi²nuʔ² ββih¹,[],( 15 + 2 ),['chan2019'],,False,False,,1
+sanm1298-1-18-1,,sanm1298-1,18,t͡ʃi²nuʔ² βa¹ʔnih³,t͡ʃi²nuʔ² βa¹ʔnih³,[],( 15 + 3 ),['chan2019'],,False,False,,1
+sanm1298-1-19-1,,sanm1298-1,19,t͡ʃi²nuʔ²kə̃¹ʔə̃h³,t͡ʃi²nuʔ²kə̃¹ʔə̃h³,[],( 15 + 4 ),['chan2019'],,False,False,,1
+sanm1298-1-20-1,,sanm1298-1,20,ko²,ko²,[],,['chan2019'],,False,False,,1
+sanm1298-1-21-1,,sanm1298-1,21,ko² jə̃¹,ko² jə̃¹,[],,['chan2019'],,False,False,,1
+sanm1298-1-22-1,,sanm1298-1,22,ko² ββih²,ko² ββih²,[],,['chan2019'],,False,False,,1
+sanm1298-1-23-1,,sanm1298-1,23,ko² βa²ʔnih²,ko² βa²ʔnih²,[],,['chan2019'],,False,False,,1
+sanm1298-1-24-1,,sanm1298-1,24,ko² kə̃¹ʔə̃h³,ko² kə̃¹ʔə̃h³,[],,['chan2019'],,False,False,,1
+sanm1298-1-25-1,,sanm1298-1,25,ko² ũʔ²,ko² ũʔ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-26-1,,sanm1298-1,26,ko² βa²tə̃h²,ko² βa²tə̃h²,[],,['chan2019'],,False,False,,1
+sanm1298-1-27-1,,sanm1298-1,27,ko² tt͡ʃih²,ko² tt͡ʃih²,[],,['chan2019'],,False,False,,1
+sanm1298-1-28-1,,sanm1298-1,28,ko² ttũ²,ko² ttũ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-29-1,,sanm1298-1,29,ko² ũ²,ko² ũ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-30-1,,sanm1298-1,30,ko² tt͡ʃiʔ²,ko² tt͡ʃiʔ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-40-1,,sanm1298-1,40,ββih² ʃi³a³,ββih² ʃi³a³,[],( 2 x 20  ),['chan2019'],,False,False,,1
+sanm1298-1-50-1,,sanm1298-1,50,ββih² ʃi³a³ tt͡ʃiʔ²,ββih² ʃi³a³ tt͡ʃiʔ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-60-1,,sanm1298-1,60,βa²ʔnih³ ʃi³a³,βa²ʔnih³ ʃi³a³,[],( 3 x 20  ),['chan2019'],,False,False,,1
+sanm1298-1-70-1,,sanm1298-1,70,βa²ʔnih³ ʃi³a³ tt͡ʃiʔ²,βa²ʔnih³ ʃi³a³ tt͡ʃiʔ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-80-1,,sanm1298-1,80,kə̃¹ʔə̃³ ʃi³a³,kə̃¹ʔə̃³ ʃi³a³,[],( 4 x 20  ),['chan2019'],,False,False,,1
+sanm1298-1-90-1,,sanm1298-1,90,kə̃¹ʔə̃³ ʃi³a³ tt͡ʃiʔ²,kə̃¹ʔə̃³ ʃi³a³ tt͡ʃiʔ²,[],,['chan2019'],,False,False,,1
+sanm1298-1-100-1,,sanm1298-1,100,si³e⁴ntu⁴³,si³e⁴ntu⁴³,[],( < Spanish 'ciento' ),['chan2019'],,True,False,,1
+sanm1298-1-1000-1,,sanm1298-1,1000,mi⁴³,mi⁴³,[],( < Spanish 'mil'),['chan2019'],,True,False,,1

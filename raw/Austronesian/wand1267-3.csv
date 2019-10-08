@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wand1267-3-1-1,,wand1267-3,1,siri,siri,[],,[],,False,False,,3
-wand1267-3-2-1,,wand1267-3,2,muandu,muandu,[],,[],,False,False,,3
-wand1267-3-3-1,,wand1267-3,3,toru,toru,[],,[],,False,False,,3
-wand1267-3-4-1,,wand1267-3,4,at,at,[],,[],,False,False,,3
-wand1267-3-5-1,,wand1267-3,5,rim,rim,[],,[],,False,False,,3
-wand1267-3-6-1,,wand1267-3,6,rim e siri,rim e siri,[],( 5 + 1 ),[],,False,False,,3
-wand1267-3-7-1,,wand1267-3,7,rim e muandu,rim e muandu,[],( 5 + 2 ),[],,False,False,,3
-wand1267-3-8-1,,wand1267-3,8,rim e toru,rim e toru,[],( 5 + 3 ),[],,False,False,,3
-wand1267-3-9-1,,wand1267-3,9,rim e at,rim e at,[],( 5 + 4 ),[],,False,False,,3
-wand1267-3-10-1,,wand1267-3,10,sura,sura,[],,[],,False,False,,3
-wand1267-3-11-1,,wand1267-3,11,sura e siri,sura e siri,[],,[],,False,False,,3
-wand1267-3-12-1,,wand1267-3,12,sura e muandu,sura e muandu,[],,[],,False,False,,3
-wand1267-3-13-1,,wand1267-3,13,sura e toru,sura e toru,[],,[],,False,False,,3
-wand1267-3-14-1,,wand1267-3,14,sura e at,sura e at,[],,[],,False,False,,3
-wand1267-3-15-1,,wand1267-3,15,sura e rim,sura e rim,[],,[],,False,False,,3
-wand1267-3-16-1,,wand1267-3,16,sura e rim e siri,sura e rim e siri,[],,[],,False,False,,3
-wand1267-3-17-1,,wand1267-3,17,sura e rim e muandu,sura e rim e muandu,[],,[],,False,False,,3
-wand1267-3-18-1,,wand1267-3,18,sura e rim e toru,sura e rim e toru,[],,[],,False,False,,3
-wand1267-3-19-1,,wand1267-3,19,sura e rim e at,sura e rim e at,[],,[],,False,False,,3
-wand1267-3-20-1,,wand1267-3,20,siniontu siri,siniontu siri,[],(lit: ''one man''),[],,False,False,,3
-wand1267-3-21-1,,wand1267-3,21,siniontu siri e siri,siniontu siri e siri,[],,[],,False,False,,3
-wand1267-3-22-1,,wand1267-3,22,siniontu siri e muandu,siniontu siri e muandu,[],,[],,False,False,,3
-wand1267-3-23-1,,wand1267-3,23,siniontu siri e toru,siniontu siri e toru,[],,[],,False,False,,3
-wand1267-3-24-1,,wand1267-3,24,siniontu siri e at,siniontu siri e at,[],,[],,False,False,,3
-wand1267-3-25-1,,wand1267-3,25,siniontu siri e rim,siniontu siri e rim,[],,[],,False,False,,3
-wand1267-3-26-1,,wand1267-3,26,siniontu siri e rim e siri,siniontu siri e rim e siri,[],,[],,False,False,,3
-wand1267-3-27-1,,wand1267-3,27,siniontu siri e rim e muandu,siniontu siri e rim e muandu,[],,[],,False,False,,3
-wand1267-3-28-1,,wand1267-3,28,siniontu siri e rim e toru,siniontu siri e rim e toru,[],,[],,False,False,,3
-wand1267-3-29-1,,wand1267-3,29,siniontu siri e rim e at,siniontu siri e rim e at,[],,[],,False,False,,3
-wand1267-3-30-1,,wand1267-3,30,siniontu siri e rim e sura,siniontu siri e rim e sura,[],,[],,False,False,,3
-wand1267-3-40-1,,wand1267-3,40,siniontu muandu,siniontu muandu,[],( 20 x 2 ),[],,False,False,,3
-wand1267-3-50-1,,wand1267-3,50,siniontu muandu e sura,siniontu muandu e sura,[],,[],,False,False,,3
-wand1267-3-60-1,,wand1267-3,60,siniontu toru,siniontu toru,[],( 20 x 3 ),[],,False,False,,3
-wand1267-3-70-1,,wand1267-3,70,siniontu toru e sura,siniontu toru e sura,[],,[],,False,False,,3
-wand1267-3-80-1,,wand1267-3,80,siniontu at,siniontu at,[],( 20 x 4 ),[],,False,False,,3
-wand1267-3-90-1,,wand1267-3,90,siniontu at e sura,siniontu at e sura,[],,[],,False,False,,3
-wand1267-3-100-1,,wand1267-3,100,utin siri,utin siri,[],,[],,False,False,,3
-wand1267-3-200-1,,wand1267-3,200,utin muandu,utin muandu,[],,[],,False,False,,3
-wand1267-3-1000-1,,wand1267-3,1000,siaran siri,siaran siri,[],,[],,False,False,,3
-wand1267-3-2000-1,,wand1267-3,2000,siaran muandu,siaran muandu,[],,[],,False,False,,3
+wand1267-3-1-1,,wand1267-3,1,siri,siri,[],,['chan2019'],,False,False,,3
+wand1267-3-2-1,,wand1267-3,2,muandu,muandu,[],,['chan2019'],,False,False,,3
+wand1267-3-3-1,,wand1267-3,3,toru,toru,[],,['chan2019'],,False,False,,3
+wand1267-3-4-1,,wand1267-3,4,at,at,[],,['chan2019'],,False,False,,3
+wand1267-3-5-1,,wand1267-3,5,rim,rim,[],,['chan2019'],,False,False,,3
+wand1267-3-6-1,,wand1267-3,6,rim e siri,rim e siri,[],( 5 + 1 ),['chan2019'],,False,False,,3
+wand1267-3-7-1,,wand1267-3,7,rim e muandu,rim e muandu,[],( 5 + 2 ),['chan2019'],,False,False,,3
+wand1267-3-8-1,,wand1267-3,8,rim e toru,rim e toru,[],( 5 + 3 ),['chan2019'],,False,False,,3
+wand1267-3-9-1,,wand1267-3,9,rim e at,rim e at,[],( 5 + 4 ),['chan2019'],,False,False,,3
+wand1267-3-10-1,,wand1267-3,10,sura,sura,[],,['chan2019'],,False,False,,3
+wand1267-3-11-1,,wand1267-3,11,sura e siri,sura e siri,[],,['chan2019'],,False,False,,3
+wand1267-3-12-1,,wand1267-3,12,sura e muandu,sura e muandu,[],,['chan2019'],,False,False,,3
+wand1267-3-13-1,,wand1267-3,13,sura e toru,sura e toru,[],,['chan2019'],,False,False,,3
+wand1267-3-14-1,,wand1267-3,14,sura e at,sura e at,[],,['chan2019'],,False,False,,3
+wand1267-3-15-1,,wand1267-3,15,sura e rim,sura e rim,[],,['chan2019'],,False,False,,3
+wand1267-3-16-1,,wand1267-3,16,sura e rim e siri,sura e rim e siri,[],,['chan2019'],,False,False,,3
+wand1267-3-17-1,,wand1267-3,17,sura e rim e muandu,sura e rim e muandu,[],,['chan2019'],,False,False,,3
+wand1267-3-18-1,,wand1267-3,18,sura e rim e toru,sura e rim e toru,[],,['chan2019'],,False,False,,3
+wand1267-3-19-1,,wand1267-3,19,sura e rim e at,sura e rim e at,[],,['chan2019'],,False,False,,3
+wand1267-3-20-1,,wand1267-3,20,siniontu siri,siniontu siri,[],(lit: ''one man''),['chan2019'],,False,False,,3
+wand1267-3-21-1,,wand1267-3,21,siniontu siri e siri,siniontu siri e siri,[],,['chan2019'],,False,False,,3
+wand1267-3-22-1,,wand1267-3,22,siniontu siri e muandu,siniontu siri e muandu,[],,['chan2019'],,False,False,,3
+wand1267-3-23-1,,wand1267-3,23,siniontu siri e toru,siniontu siri e toru,[],,['chan2019'],,False,False,,3
+wand1267-3-24-1,,wand1267-3,24,siniontu siri e at,siniontu siri e at,[],,['chan2019'],,False,False,,3
+wand1267-3-25-1,,wand1267-3,25,siniontu siri e rim,siniontu siri e rim,[],,['chan2019'],,False,False,,3
+wand1267-3-26-1,,wand1267-3,26,siniontu siri e rim e siri,siniontu siri e rim e siri,[],,['chan2019'],,False,False,,3
+wand1267-3-27-1,,wand1267-3,27,siniontu siri e rim e muandu,siniontu siri e rim e muandu,[],,['chan2019'],,False,False,,3
+wand1267-3-28-1,,wand1267-3,28,siniontu siri e rim e toru,siniontu siri e rim e toru,[],,['chan2019'],,False,False,,3
+wand1267-3-29-1,,wand1267-3,29,siniontu siri e rim e at,siniontu siri e rim e at,[],,['chan2019'],,False,False,,3
+wand1267-3-30-1,,wand1267-3,30,siniontu siri e rim e sura,siniontu siri e rim e sura,[],,['chan2019'],,False,False,,3
+wand1267-3-40-1,,wand1267-3,40,siniontu muandu,siniontu muandu,[],( 20 x 2 ),['chan2019'],,False,False,,3
+wand1267-3-50-1,,wand1267-3,50,siniontu muandu e sura,siniontu muandu e sura,[],,['chan2019'],,False,False,,3
+wand1267-3-60-1,,wand1267-3,60,siniontu toru,siniontu toru,[],( 20 x 3 ),['chan2019'],,False,False,,3
+wand1267-3-70-1,,wand1267-3,70,siniontu toru e sura,siniontu toru e sura,[],,['chan2019'],,False,False,,3
+wand1267-3-80-1,,wand1267-3,80,siniontu at,siniontu at,[],( 20 x 4 ),['chan2019'],,False,False,,3
+wand1267-3-90-1,,wand1267-3,90,siniontu at e sura,siniontu at e sura,[],,['chan2019'],,False,False,,3
+wand1267-3-100-1,,wand1267-3,100,utin siri,utin siri,[],,['chan2019'],,False,False,,3
+wand1267-3-200-1,,wand1267-3,200,utin muandu,utin muandu,[],,['chan2019'],,False,False,,3
+wand1267-3-1000-1,,wand1267-3,1000,siaran siri,siaran siri,[],,['chan2019'],,False,False,,3
+wand1267-3-2000-1,,wand1267-3,2000,siaran muandu,siaran muandu,[],,['chan2019'],,False,False,,3

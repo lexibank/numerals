@@ -1,30 +1,30 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nume1242-1-1-1,,nume1242-1,1,taa-xè,taa-xè,[],,[],,False,False,,1
-nume1242-1-2-1,,nume1242-1,2,boo-xè,boo-xè,[],,[],,False,False,,1
-nume1242-1-3-1,,nume1242-1,3,bètîî-xè,bètîî-xè,[],,[],,False,False,,1
-nume1242-1-4-1,,nume1242-1,4,bèvoo,bèvoo,[],,[],,False,False,,1
-nume1242-1-5-1,,nume1242-1,5,taa véré-xè,taa véré-xè,[],( litː 'one hand' ),[],,False,False,,1
-nume1242-1-6-1,,nume1242-1,6,taa véré-xè mêtaa nootaa,taa véré-xè mêtaa nootaa,[],( 5 + 1 ),[],,False,False,,1
-nume1242-1-7-1,,nume1242-1,7,taa véré-xè mê boo nootaa,taa véré-xè mê boo nootaa,[],( 5 + 2 ),[],,False,False,,1
-nume1242-1-8-1,,nume1242-1,8,taa véré-xè mêbètîî nootaa,taa véré-xè mêbètîî nootaa,[],( 5 + 3 ),[],,False,False,,1
-nume1242-1-9-1,,nume1242-1,9,taa véré-xè mêbèvoo nootaa,taa véré-xè mêbèvoo nootaa,[],(5+4 ),[],,False,False,,1
-nume1242-1-10-1,,nume1242-1,10,boo véré-xè,boo véré-xè,[],( litː 'two hands' ),[],,False,False,,1
-nume1242-1-11-1,,nume1242-1,11,boo véré-xè mê taa nootaa,boo véré-xè mê taa nootaa,[],,[],,False,False,,1
-nume1242-1-12-1,,nume1242-1,12,boo véré-xè mê boo nootaa,boo véré-xè mê boo nootaa,[],,[],,False,False,,1
-nume1242-1-13-1,,nume1242-1,13,boo véré-xè mê bètîî nootaa,boo véré-xè mê bètîî nootaa,[],,[],,False,False,,1
-nume1242-1-14-1,,nume1242-1,14,boo véré-xè mê bèvoo nootaa,boo véré-xè mê bèvoo nootaa,[],,[],,False,False,,1
-nume1242-1-15-1,,nume1242-1,15,bètîî véré-xè,bètîî véré-xè,[],( litː 'three hands' ),[],,False,False,,1
-nume1242-1-16-1,,nume1242-1,16,bètîî véré-xè taa nootaa,bètîî véré-xè taa nootaa,[],,[],,False,False,,1
-nume1242-1-17-1,,nume1242-1,17,bètîî véré-xè boonootaa,bètîî véré-xè boonootaa,[],,[],,False,False,,1
-nume1242-1-18-1,,nume1242-1,18,bètîî véré-xè bètîî nootaa,bètîî véré-xè bètîî nootaa,[],,[],,False,False,,1
-nume1242-1-19-1,,nume1242-1,19,bètîî véré-xè bèvoo nootaa,bètîî véré-xè bèvoo nootaa,[],,[],,False,False,,1
-nume1242-1-20-1,,nume1242-1,20,taa nyié-xè,taa nyié-xè,[],(litː 'one person'),[],,False,False,,1
-nume1242-1-30-1,,nume1242-1,30,taa nyié-xè mê boo véré-xè,taa nyié-xè mê boo véré-xè,[],( 20 + 10 ),[],,False,False,,1
-nume1242-1-40-1,,nume1242-1,40,boo nyié-xè,boo nyié-xè,[],( 2 x 20 ),[],,False,False,,1
-nume1242-1-50-1,,nume1242-1,50,boo nyié-xè boo véré-xè,boo nyié-xè boo véré-xè,[],,[],,False,False,,1
-nume1242-1-60-1,,nume1242-1,60,bètîî nyié-xè,bètîî nyié-xè,[],( 3 x 20 ),[],,False,False,,1
-nume1242-1-70-1,,nume1242-1,70,bètîî véré-xè boo véré-xè,bètîî véré-xè boo véré-xè,[],,[],,False,False,,1
-nume1242-1-80-1,,nume1242-1,80,bèvoo véré-xè,bèvoo véré-xè,[],( 4 x 20 ),[],,False,False,,1
-nume1242-1-90-1,,nume1242-1,90,bèvoo véré-xè boo véré-xè,bèvoo véré-xè boo véré-xè,[],,[],,False,False,,1
-nume1242-1-100-1,,nume1242-1,100,taa véré nyié-xè,taa véré nyié-xè,[],( 5 x 20 ),[],,False,False,,1
-nume1242-1-200-1,,nume1242-1,200,boo véré nyié-xè,boo véré nyié-xè,[],( 5 x 20 ),[],,False,False,,1
+nume1242-1-1-1,,nume1242-1,1,taa-xè,taa-xè,[],,['chan2019'],,False,False,,1
+nume1242-1-2-1,,nume1242-1,2,boo-xè,boo-xè,[],,['chan2019'],,False,False,,1
+nume1242-1-3-1,,nume1242-1,3,bètîî-xè,bètîî-xè,[],,['chan2019'],,False,False,,1
+nume1242-1-4-1,,nume1242-1,4,bèvoo,bèvoo,[],,['chan2019'],,False,False,,1
+nume1242-1-5-1,,nume1242-1,5,taa véré-xè,taa véré-xè,[],( litː 'one hand' ),['chan2019'],,False,False,,1
+nume1242-1-6-1,,nume1242-1,6,taa véré-xè mêtaa nootaa,taa véré-xè mêtaa nootaa,[],( 5 + 1 ),['chan2019'],,False,False,,1
+nume1242-1-7-1,,nume1242-1,7,taa véré-xè mê boo nootaa,taa véré-xè mê boo nootaa,[],( 5 + 2 ),['chan2019'],,False,False,,1
+nume1242-1-8-1,,nume1242-1,8,taa véré-xè mêbètîî nootaa,taa véré-xè mêbètîî nootaa,[],( 5 + 3 ),['chan2019'],,False,False,,1
+nume1242-1-9-1,,nume1242-1,9,taa véré-xè mêbèvoo nootaa,taa véré-xè mêbèvoo nootaa,[],(5+4 ),['chan2019'],,False,False,,1
+nume1242-1-10-1,,nume1242-1,10,boo véré-xè,boo véré-xè,[],( litː 'two hands' ),['chan2019'],,False,False,,1
+nume1242-1-11-1,,nume1242-1,11,boo véré-xè mê taa nootaa,boo véré-xè mê taa nootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-12-1,,nume1242-1,12,boo véré-xè mê boo nootaa,boo véré-xè mê boo nootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-13-1,,nume1242-1,13,boo véré-xè mê bètîî nootaa,boo véré-xè mê bètîî nootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-14-1,,nume1242-1,14,boo véré-xè mê bèvoo nootaa,boo véré-xè mê bèvoo nootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-15-1,,nume1242-1,15,bètîî véré-xè,bètîî véré-xè,[],( litː 'three hands' ),['chan2019'],,False,False,,1
+nume1242-1-16-1,,nume1242-1,16,bètîî véré-xè taa nootaa,bètîî véré-xè taa nootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-17-1,,nume1242-1,17,bètîî véré-xè boonootaa,bètîî véré-xè boonootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-18-1,,nume1242-1,18,bètîî véré-xè bètîî nootaa,bètîî véré-xè bètîî nootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-19-1,,nume1242-1,19,bètîî véré-xè bèvoo nootaa,bètîî véré-xè bèvoo nootaa,[],,['chan2019'],,False,False,,1
+nume1242-1-20-1,,nume1242-1,20,taa nyié-xè,taa nyié-xè,[],(litː 'one person'),['chan2019'],,False,False,,1
+nume1242-1-30-1,,nume1242-1,30,taa nyié-xè mê boo véré-xè,taa nyié-xè mê boo véré-xè,[],( 20 + 10 ),['chan2019'],,False,False,,1
+nume1242-1-40-1,,nume1242-1,40,boo nyié-xè,boo nyié-xè,[],( 2 x 20 ),['chan2019'],,False,False,,1
+nume1242-1-50-1,,nume1242-1,50,boo nyié-xè boo véré-xè,boo nyié-xè boo véré-xè,[],,['chan2019'],,False,False,,1
+nume1242-1-60-1,,nume1242-1,60,bètîî nyié-xè,bètîî nyié-xè,[],( 3 x 20 ),['chan2019'],,False,False,,1
+nume1242-1-70-1,,nume1242-1,70,bètîî véré-xè boo véré-xè,bètîî véré-xè boo véré-xè,[],,['chan2019'],,False,False,,1
+nume1242-1-80-1,,nume1242-1,80,bèvoo véré-xè,bèvoo véré-xè,[],( 4 x 20 ),['chan2019'],,False,False,,1
+nume1242-1-90-1,,nume1242-1,90,bèvoo véré-xè boo véré-xè,bèvoo véré-xè boo véré-xè,[],,['chan2019'],,False,False,,1
+nume1242-1-100-1,,nume1242-1,100,taa véré nyié-xè,taa véré nyié-xè,[],( 5 x 20 ),['chan2019'],,False,False,,1
+nume1242-1-200-1,,nume1242-1,200,boo véré nyié-xè,boo véré nyié-xè,[],( 5 x 20 ),['chan2019'],,False,False,,1

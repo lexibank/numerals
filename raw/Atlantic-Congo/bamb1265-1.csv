@@ -1,36 +1,36 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bamb1265-1-1-1,,bamb1265-1,1,tɛʔi,tɛʔi,[],,[],,False,False,,1
-bamb1265-1-2-1,,bamb1265-1,2,paa,paa,[],,[],,False,False,,1
-bamb1265-1-3-1,,bamb1265-1,3,tɾe,tɾe,[],,[],,False,False,,1
-bamb1265-1-4-1,,bamb1265-1,4,kʰwɛ,kʰwɛ,[],,[],,False,False,,1
-bamb1265-1-5-1,,bamb1265-1,5,tiɛ̃,tiɛ̃,[],,[],,False,False,,1
-bamb1265-1-6-1,,bamb1265-1,6,ntiɡaw,ntiɡaw,[],,[],,False,False,,1
-bamb1265-1-7-1,,bamb1265-1,7,kwatʃəɨ,kwatʃəɨ,[],,[],,False,False,,1
-bamb1265-1-8-1,,bamb1265-1,8,fuõ,fuõ,[],,[],,False,False,,1
-bamb1265-1-9-1,,bamb1265-1,9,ndipoʔu,ndipoʔu,[],,[],,False,False,,1
-bamb1265-1-10-1,,bamb1265-1,10,wuŋ,wuŋ,[],,[],,False,False,,1
-bamb1265-1-11-1,,bamb1265-1,11,taʔantʃəɾɔ,taʔantʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-12-1,,bamb1265-1,12,paantʃəɾɔ,paantʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-13-1,,bamb1265-1,13,tɾentʃəɾɔ,tɾentʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-14-1,,bamb1265-1,14,kʰwɛntʃəɾɔ,kʰwɛntʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-15-1,,bamb1265-1,15,tiɛ̃ntʃəɾɔ,tiɛ̃ntʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-16-1,,bamb1265-1,16,ntiɡawntʃəɾɔ,ntiɡawntʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-17-1,,bamb1265-1,17,kwatʃɨntʃəɾɔ,kwatʃɨntʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-18-1,,bamb1265-1,18,fuõntʃəɾɔ,fuõntʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-19-1,,bamb1265-1,19,ndipoʔuntʃəɾɔ,ndipoʔuntʃəɾɔ,[],,[],,False,False,,1
-bamb1265-1-20-1,,bamb1265-1,20,paawuŋ,paawuŋ,[],,[],,False,False,,1
-bamb1265-1-21-1,,bamb1265-1,21,paawuŋ ni tɛʔi,paawuŋ ni tɛʔi,[],,[],,False,False,,1
-bamb1265-1-22-1,,bamb1265-1,22,paawuŋ ni ji paa,paawuŋ ni ji paa,[],,[],,False,False,,1
-bamb1265-1-23-1,,bamb1265-1,23,paawuŋ ni ji tɾe,paawuŋ ni ji tɾe,[],,[],,False,False,,1
-bamb1265-1-24-1,,bamb1265-1,24,paawuŋ ni ji kʰwɛ,paawuŋ ni ji kʰwɛ,[],,[],,False,False,,1
-bamb1265-1-25-1,,bamb1265-1,25,paawuŋ ni ji tiɛ̃,paawuŋ ni ji tiɛ̃,[],,[],,False,False,,1
-bamb1265-1-30-1,,bamb1265-1,30,tɾewuŋ,tɾewuŋ,[],,[],,False,False,,1
-bamb1265-1-40-1,,bamb1265-1,40,kʰwɛwuŋ,kʰwɛwuŋ,[],,[],,False,False,,1
-bamb1265-1-50-1,,bamb1265-1,50,tiɛ̃wuŋ,tiɛ̃wuŋ,[],,[],,False,False,,1
-bamb1265-1-60-1,,bamb1265-1,60,ntiɡawuŋ,ntiɡawuŋ,[],,[],,False,False,,1
-bamb1265-1-70-1,,bamb1265-1,70,kwatʃɨwuŋ,kwatʃɨwuŋ,[],,[],,False,False,,1
-bamb1265-1-80-1,,bamb1265-1,80,fuõwuŋ,fuõwuŋ,[],,[],,False,False,,1
-bamb1265-1-90-1,,bamb1265-1,90,ndipoʔuwuŋ,ndipoʔuwuŋ,[],,[],,False,False,,1
-bamb1265-1-100-1,,bamb1265-1,100,taʔa ŋkɨɣɨ,taʔa ŋkɨɣɨ,[],,[],,False,False,,1
-bamb1265-1-200-1,,bamb1265-1,200,paa ŋkɨɣɨ,paa ŋkɨɣɨ,[],,[],,False,False,,1
-bamb1265-1-1000-1,,bamb1265-1,1000,taʔa ŋka,taʔa ŋka,[],,[],,False,False,,1
+bamb1265-1-1-1,,bamb1265-1,1,tɛʔi,tɛʔi,[],,['chan2019'],,False,False,,1
+bamb1265-1-2-1,,bamb1265-1,2,paa,paa,[],,['chan2019'],,False,False,,1
+bamb1265-1-3-1,,bamb1265-1,3,tɾe,tɾe,[],,['chan2019'],,False,False,,1
+bamb1265-1-4-1,,bamb1265-1,4,kʰwɛ,kʰwɛ,[],,['chan2019'],,False,False,,1
+bamb1265-1-5-1,,bamb1265-1,5,tiɛ̃,tiɛ̃,[],,['chan2019'],,False,False,,1
+bamb1265-1-6-1,,bamb1265-1,6,ntiɡaw,ntiɡaw,[],,['chan2019'],,False,False,,1
+bamb1265-1-7-1,,bamb1265-1,7,kwatʃəɨ,kwatʃəɨ,[],,['chan2019'],,False,False,,1
+bamb1265-1-8-1,,bamb1265-1,8,fuõ,fuõ,[],,['chan2019'],,False,False,,1
+bamb1265-1-9-1,,bamb1265-1,9,ndipoʔu,ndipoʔu,[],,['chan2019'],,False,False,,1
+bamb1265-1-10-1,,bamb1265-1,10,wuŋ,wuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-11-1,,bamb1265-1,11,taʔantʃəɾɔ,taʔantʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-12-1,,bamb1265-1,12,paantʃəɾɔ,paantʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-13-1,,bamb1265-1,13,tɾentʃəɾɔ,tɾentʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-14-1,,bamb1265-1,14,kʰwɛntʃəɾɔ,kʰwɛntʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-15-1,,bamb1265-1,15,tiɛ̃ntʃəɾɔ,tiɛ̃ntʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-16-1,,bamb1265-1,16,ntiɡawntʃəɾɔ,ntiɡawntʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-17-1,,bamb1265-1,17,kwatʃɨntʃəɾɔ,kwatʃɨntʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-18-1,,bamb1265-1,18,fuõntʃəɾɔ,fuõntʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-19-1,,bamb1265-1,19,ndipoʔuntʃəɾɔ,ndipoʔuntʃəɾɔ,[],,['chan2019'],,False,False,,1
+bamb1265-1-20-1,,bamb1265-1,20,paawuŋ,paawuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-21-1,,bamb1265-1,21,paawuŋ ni tɛʔi,paawuŋ ni tɛʔi,[],,['chan2019'],,False,False,,1
+bamb1265-1-22-1,,bamb1265-1,22,paawuŋ ni ji paa,paawuŋ ni ji paa,[],,['chan2019'],,False,False,,1
+bamb1265-1-23-1,,bamb1265-1,23,paawuŋ ni ji tɾe,paawuŋ ni ji tɾe,[],,['chan2019'],,False,False,,1
+bamb1265-1-24-1,,bamb1265-1,24,paawuŋ ni ji kʰwɛ,paawuŋ ni ji kʰwɛ,[],,['chan2019'],,False,False,,1
+bamb1265-1-25-1,,bamb1265-1,25,paawuŋ ni ji tiɛ̃,paawuŋ ni ji tiɛ̃,[],,['chan2019'],,False,False,,1
+bamb1265-1-30-1,,bamb1265-1,30,tɾewuŋ,tɾewuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-40-1,,bamb1265-1,40,kʰwɛwuŋ,kʰwɛwuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-50-1,,bamb1265-1,50,tiɛ̃wuŋ,tiɛ̃wuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-60-1,,bamb1265-1,60,ntiɡawuŋ,ntiɡawuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-70-1,,bamb1265-1,70,kwatʃɨwuŋ,kwatʃɨwuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-80-1,,bamb1265-1,80,fuõwuŋ,fuõwuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-90-1,,bamb1265-1,90,ndipoʔuwuŋ,ndipoʔuwuŋ,[],,['chan2019'],,False,False,,1
+bamb1265-1-100-1,,bamb1265-1,100,taʔa ŋkɨɣɨ,taʔa ŋkɨɣɨ,[],,['chan2019'],,False,False,,1
+bamb1265-1-200-1,,bamb1265-1,200,paa ŋkɨɣɨ,paa ŋkɨɣɨ,[],,['chan2019'],,False,False,,1
+bamb1265-1-1000-1,,bamb1265-1,1000,taʔa ŋka,taʔa ŋka,[],,['chan2019'],,False,False,,1

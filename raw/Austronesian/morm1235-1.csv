@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-morm1235-1-1-1,,morm1235-1,1,tatá,tatá,[],,[],,False,False,,1
-morm1235-1-2-1,,morm1235-1,2,rúró,rúró,[],,[],,False,False,,1
-morm1235-1-3-1,,morm1235-1,3,óró,óró,[],,[],,False,False,,1
-morm1235-1-4-1,,morm1235-1,4,áʔó,áʔó,[],,[],,False,False,,1
-morm1235-1-5-1,,morm1235-1,5,rímó,rímó,[],,[],,False,False,,1
-morm1235-1-6-1,,morm1235-1,6,rímó maʔa tatá,rímó maʔa tatá,[],( 5 + 1),[],,False,False,,1
-morm1235-1-7-1,,morm1235-1,7,rímó maʔa rúró,rímó maʔa rúró,[],( 5 + 2),[],,False,False,,1
-morm1235-1-8-1,,morm1235-1,8,rímó maʔa óró,rímó maʔa óró,[],( 5 + 3),[],,False,False,,1
-morm1235-1-9-1,,morm1235-1,9,rímó maʔa áʔó,rímó maʔa áʔó,[],( 5 + 4),[],,False,False,,1
-morm1235-1-10-1,,morm1235-1,10,tàura,tàura,[],,[],,False,False,,1
-morm1235-1-11-1,,morm1235-1,11,tàura maʔa tatá,tàura maʔa tatá,[],,[],,False,False,,1
-morm1235-1-12-1,,morm1235-1,12,tàura maʔa rúró,tàura maʔa rúró,[],,[],,False,False,,1
-morm1235-1-13-1,,morm1235-1,13,tàura maʔa óró,tàura maʔa óró,[],,[],,False,False,,1
-morm1235-1-14-1,,morm1235-1,14,tàura maʔa áʔó,tàura maʔa áʔó,[],,[],,False,False,,1
-morm1235-1-15-1,,morm1235-1,15,tàura maʔa rímó,tàura maʔa rímó,[],,[],,False,False,,1
-morm1235-1-16-1,,morm1235-1,16,tàura maʔa rímó maʔa tatá,tàura maʔa rímó maʔa tatá,[],,[],,False,False,,1
-morm1235-1-17-1,,morm1235-1,17,tàura maʔa rímó maʔa rúró,tàura maʔa rímó maʔa rúró,[],,[],,False,False,,1
-morm1235-1-18-1,,morm1235-1,18,tàura maʔa rímó maʔa óró,tàura maʔa rímó maʔa óró,[],,[],,False,False,,1
-morm1235-1-19-1,,morm1235-1,19,tàura maʔa rímó maʔa áʔó,tàura maʔa rímó maʔa áʔó,[],,[],,False,False,,1
-morm1235-1-20-1,,morm1235-1,20,naʔu tatá,naʔu tatá,[],( litː ''person'' ),[],,False,False,,1
-morm1235-1-21-1,,morm1235-1,21,naʔu tatá maʔa tatá,naʔu tatá maʔa tatá,[],,[],,False,False,,1
-morm1235-1-22-1,,morm1235-1,22,naʔu tatá maʔa rúró,naʔu tatá maʔa rúró,[],,[],,False,False,,1
-morm1235-1-23-1,,morm1235-1,23,naʔu tatá maʔa óró,naʔu tatá maʔa óró,[],,[],,False,False,,1
-morm1235-1-24-1,,morm1235-1,24,naʔu tatá maʔa áʔó,naʔu tatá maʔa áʔó,[],,[],,False,False,,1
-morm1235-1-25-1,,morm1235-1,25,naʔu tatá maʔa rímó,naʔu tatá maʔa rímó,[],,[],,False,False,,1
-morm1235-1-26-1,,morm1235-1,26,naʔu tatá maʔa rímó maʔa tatá,naʔu tatá maʔa rímó maʔa tatá,[],,[],,False,False,,1
-morm1235-1-27-1,,morm1235-1,27,naʔu tatá maʔa rímó maʔa rúró,naʔu tatá maʔa rímó maʔa rúró,[],,[],,False,False,,1
-morm1235-1-28-1,,morm1235-1,28,naʔu tatá maʔa rímó maʔa óró,naʔu tatá maʔa rímó maʔa óró,[],,[],,False,False,,1
-morm1235-1-29-1,,morm1235-1,29,naʔu tatá maʔa rímó maʔa áʔo,naʔu tatá maʔa rímó maʔa áʔo,[],,[],,False,False,,1
-morm1235-1-30-1,,morm1235-1,30,naʔu tatá maʔa tàura,naʔu tatá maʔa tàura,[],( 20 + 10),[],,False,False,,1
-morm1235-1-40-1,,morm1235-1,40,naʔu rúró,naʔu rúró,[],( 20 x 2 ),[],,False,False,,1
-morm1235-1-50-1,,morm1235-1,50,naʔu rúró maʔa tàura,naʔu rúró maʔa tàura,[],,[],,False,False,,1
-morm1235-1-60-1,,morm1235-1,60,naʔu óró,naʔu óró,[],( 20 x 3 ),[],,False,False,,1
-morm1235-1-70-1,,morm1235-1,70,naʔu óró maʔa tàura,naʔu óró maʔa tàura,[],,[],,False,False,,1
-morm1235-1-80-1,,morm1235-1,80,naʔu áʔó,naʔu áʔó,[],( 20 x 4 ),[],,False,False,,1
-morm1235-1-90-1,,morm1235-1,90,naʔu áʔó maʔa tàura,naʔu áʔó maʔa tàura,[],,[],,False,False,,1
-morm1235-1-100-1,,morm1235-1,100,naʔu rímó,naʔu rímó,[],( 20 x 5 ),[],,False,False,,1
-morm1235-1-200-1,,morm1235-1,200,naʔu tàura,naʔu tàura,[],( 20 x 10 ),[],,False,False,,1
+morm1235-1-1-1,,morm1235-1,1,tatá,tatá,[],,['chan2019'],,False,False,,1
+morm1235-1-2-1,,morm1235-1,2,rúró,rúró,[],,['chan2019'],,False,False,,1
+morm1235-1-3-1,,morm1235-1,3,óró,óró,[],,['chan2019'],,False,False,,1
+morm1235-1-4-1,,morm1235-1,4,áʔó,áʔó,[],,['chan2019'],,False,False,,1
+morm1235-1-5-1,,morm1235-1,5,rímó,rímó,[],,['chan2019'],,False,False,,1
+morm1235-1-6-1,,morm1235-1,6,rímó maʔa tatá,rímó maʔa tatá,[],( 5 + 1),['chan2019'],,False,False,,1
+morm1235-1-7-1,,morm1235-1,7,rímó maʔa rúró,rímó maʔa rúró,[],( 5 + 2),['chan2019'],,False,False,,1
+morm1235-1-8-1,,morm1235-1,8,rímó maʔa óró,rímó maʔa óró,[],( 5 + 3),['chan2019'],,False,False,,1
+morm1235-1-9-1,,morm1235-1,9,rímó maʔa áʔó,rímó maʔa áʔó,[],( 5 + 4),['chan2019'],,False,False,,1
+morm1235-1-10-1,,morm1235-1,10,tàura,tàura,[],,['chan2019'],,False,False,,1
+morm1235-1-11-1,,morm1235-1,11,tàura maʔa tatá,tàura maʔa tatá,[],,['chan2019'],,False,False,,1
+morm1235-1-12-1,,morm1235-1,12,tàura maʔa rúró,tàura maʔa rúró,[],,['chan2019'],,False,False,,1
+morm1235-1-13-1,,morm1235-1,13,tàura maʔa óró,tàura maʔa óró,[],,['chan2019'],,False,False,,1
+morm1235-1-14-1,,morm1235-1,14,tàura maʔa áʔó,tàura maʔa áʔó,[],,['chan2019'],,False,False,,1
+morm1235-1-15-1,,morm1235-1,15,tàura maʔa rímó,tàura maʔa rímó,[],,['chan2019'],,False,False,,1
+morm1235-1-16-1,,morm1235-1,16,tàura maʔa rímó maʔa tatá,tàura maʔa rímó maʔa tatá,[],,['chan2019'],,False,False,,1
+morm1235-1-17-1,,morm1235-1,17,tàura maʔa rímó maʔa rúró,tàura maʔa rímó maʔa rúró,[],,['chan2019'],,False,False,,1
+morm1235-1-18-1,,morm1235-1,18,tàura maʔa rímó maʔa óró,tàura maʔa rímó maʔa óró,[],,['chan2019'],,False,False,,1
+morm1235-1-19-1,,morm1235-1,19,tàura maʔa rímó maʔa áʔó,tàura maʔa rímó maʔa áʔó,[],,['chan2019'],,False,False,,1
+morm1235-1-20-1,,morm1235-1,20,naʔu tatá,naʔu tatá,[],( litː ''person'' ),['chan2019'],,False,False,,1
+morm1235-1-21-1,,morm1235-1,21,naʔu tatá maʔa tatá,naʔu tatá maʔa tatá,[],,['chan2019'],,False,False,,1
+morm1235-1-22-1,,morm1235-1,22,naʔu tatá maʔa rúró,naʔu tatá maʔa rúró,[],,['chan2019'],,False,False,,1
+morm1235-1-23-1,,morm1235-1,23,naʔu tatá maʔa óró,naʔu tatá maʔa óró,[],,['chan2019'],,False,False,,1
+morm1235-1-24-1,,morm1235-1,24,naʔu tatá maʔa áʔó,naʔu tatá maʔa áʔó,[],,['chan2019'],,False,False,,1
+morm1235-1-25-1,,morm1235-1,25,naʔu tatá maʔa rímó,naʔu tatá maʔa rímó,[],,['chan2019'],,False,False,,1
+morm1235-1-26-1,,morm1235-1,26,naʔu tatá maʔa rímó maʔa tatá,naʔu tatá maʔa rímó maʔa tatá,[],,['chan2019'],,False,False,,1
+morm1235-1-27-1,,morm1235-1,27,naʔu tatá maʔa rímó maʔa rúró,naʔu tatá maʔa rímó maʔa rúró,[],,['chan2019'],,False,False,,1
+morm1235-1-28-1,,morm1235-1,28,naʔu tatá maʔa rímó maʔa óró,naʔu tatá maʔa rímó maʔa óró,[],,['chan2019'],,False,False,,1
+morm1235-1-29-1,,morm1235-1,29,naʔu tatá maʔa rímó maʔa áʔo,naʔu tatá maʔa rímó maʔa áʔo,[],,['chan2019'],,False,False,,1
+morm1235-1-30-1,,morm1235-1,30,naʔu tatá maʔa tàura,naʔu tatá maʔa tàura,[],( 20 + 10),['chan2019'],,False,False,,1
+morm1235-1-40-1,,morm1235-1,40,naʔu rúró,naʔu rúró,[],( 20 x 2 ),['chan2019'],,False,False,,1
+morm1235-1-50-1,,morm1235-1,50,naʔu rúró maʔa tàura,naʔu rúró maʔa tàura,[],,['chan2019'],,False,False,,1
+morm1235-1-60-1,,morm1235-1,60,naʔu óró,naʔu óró,[],( 20 x 3 ),['chan2019'],,False,False,,1
+morm1235-1-70-1,,morm1235-1,70,naʔu óró maʔa tàura,naʔu óró maʔa tàura,[],,['chan2019'],,False,False,,1
+morm1235-1-80-1,,morm1235-1,80,naʔu áʔó,naʔu áʔó,[],( 20 x 4 ),['chan2019'],,False,False,,1
+morm1235-1-90-1,,morm1235-1,90,naʔu áʔó maʔa tàura,naʔu áʔó maʔa tàura,[],,['chan2019'],,False,False,,1
+morm1235-1-100-1,,morm1235-1,100,naʔu rímó,naʔu rímó,[],( 20 x 5 ),['chan2019'],,False,False,,1
+morm1235-1-200-1,,morm1235-1,200,naʔu tàura,naʔu tàura,[],( 20 x 10 ),['chan2019'],,False,False,,1

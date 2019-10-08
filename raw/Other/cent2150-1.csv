@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cent2150-1-1-1,,cent2150-1,1,ubisti,ubisti,[],,[],,False,False,,1
-cent2150-1-2-1,,cent2150-1,2,bukái,bukái,[],,[],,False,False,,1
-cent2150-1-3-1,,cent2150-1,3,bai,bai,[],,[],,False,False,,1
-cent2150-1-4-1,,cent2150-1,4,bakái,bakái,[],,[],,False,False,,1
-cent2150-1-5-1,,cent2150-1,5,esí,esí,[],,[],,False,False,,1
-cent2150-1-6-1,,cent2150-1,6,terai,terai,[],,[],,False,False,,1
-cent2150-1-7-1,,cent2150-1,7,kukuí,kukuí,[],,[],,False,False,,1
-cent2150-1-8-1,,cent2150-1,8,abi,abi,[],,[],,False,False,,1
-cent2150-1-9-1,,cent2150-1,9,estari,estari,[],,[],,False,False,,1
-cent2150-1-10-1,,cent2150-1,10,ukasi,ukasi,[],,[],,False,False,,1
-cent2150-1-11-1,,cent2150-1,11,ukasi kuitar ubisti,ukasi kuitar ubisti,[],,[],,False,False,,1
-cent2150-1-12-1,,cent2150-1,12,ukasi kuitar bukái,ukasi kuitar bukái,[],,[],,False,False,,1
-cent2150-1-13-1,,cent2150-1,13,ukasi kuitar bai,ukasi kuitar bai,[],,[],,False,False,,1
-cent2150-1-14-1,,cent2150-1,14,ukasi kuitar bakái,ukasi kuitar bakái,[],,[],,False,False,,1
-cent2150-1-15-1,,cent2150-1,15,ukasi kuitar esí,ukasi kuitar esí,[],,[],,False,False,,1
-cent2150-1-16-1,,cent2150-1,16,ukasi kuitar terai,ukasi kuitar terai,[],,[],,False,False,,1
-cent2150-1-17-1,,cent2150-1,17,ukasi kuitar kukuí,ukasi kuitar kukuí,[],,[],,False,False,,1
-cent2150-1-18-1,,cent2150-1,18,ukasi kuitar abi,ukasi kuitar abi,[],,[],,False,False,,1
-cent2150-1-19-1,,cent2150-1,19,ukasi kuitar estari,ukasi kuitar estari,[],,[],,False,False,,1
-cent2150-1-20-1,,cent2150-1,20,ukasi bukai,ukasi bukai,[],,[],,False,False,,1
-cent2150-1-21-1,,cent2150-1,21,ukasi bukai kuitarubisti,ukasi bukai kuitarubisti,[],,[],,False,False,,1
-cent2150-1-22-1,,cent2150-1,22,ukasi bukai kuitarbukái,ukasi bukai kuitarbukái,[],,[],,False,False,,1
-cent2150-1-23-1,,cent2150-1,23,ukasi bukai kuitarbai,ukasi bukai kuitarbai,[],,[],,False,False,,1
-cent2150-1-24-1,,cent2150-1,24,ukasi bukai kuitarbakái,ukasi bukai kuitarbakái,[],,[],,False,False,,1
-cent2150-1-25-1,,cent2150-1,25,ukasi bukai kuitaresí,ukasi bukai kuitaresí,[],,[],,False,False,,1
-cent2150-1-26-1,,cent2150-1,26,ukasi bukai kuitarterai,ukasi bukai kuitarterai,[],,[],,False,False,,1
-cent2150-1-27-1,,cent2150-1,27,ukasi bukai kuitarkukuí,ukasi bukai kuitarkukuí,[],,[],,False,False,,1
-cent2150-1-28-1,,cent2150-1,28,ukasi bukai kuitarabi,ukasi bukai kuitarabi,[],,[],,False,False,,1
-cent2150-1-29-1,,cent2150-1,29,ukasi bukai kuitarestari,ukasi bukai kuitarestari,[],,[],,False,False,,1
-cent2150-1-30-1,,cent2150-1,30,ukasi bai,ukasi bai,[],,[],,False,False,,1
-cent2150-1-40-1,,cent2150-1,40,ukasi bakái,ukasi bakái,[],,[],,False,False,,1
-cent2150-1-50-1,,cent2150-1,50,ukasi esí,ukasi esí,[],,[],,False,False,,1
-cent2150-1-60-1,,cent2150-1,60,ukasi terai,ukasi terai,[],,[],,False,False,,1
-cent2150-1-70-1,,cent2150-1,70,ukasi kukuí,ukasi kukuí,[],,[],,False,False,,1
-cent2150-1-80-1,,cent2150-1,80,ukasi abi,ukasi abi,[],,[],,False,False,,1
-cent2150-1-90-1,,cent2150-1,90,ukasi estari,ukasi estari,[],,[],,False,False,,1
-cent2150-1-100-1,,cent2150-1,100,sien,sien,[],( < Spanish ),[],,True,False,,1
-cent2150-1-200-1,,cent2150-1,200,sien ukasi or dos sientos,sien ukasi or dos sientos,[],,[],,False,True,,1
-cent2150-1-1000-1,,cent2150-1,1000,mil,mil,[],( < Spanish ),[],,True,False,,1
-cent2150-1-2000-1,,cent2150-1,2000,mil ukasi or dos mil,mil ukasi or dos mil,[],,[],,False,True,,1
+cent2150-1-1-1,,cent2150-1,1,ubisti,ubisti,[],,['chan2019'],,False,False,,1
+cent2150-1-2-1,,cent2150-1,2,bukái,bukái,[],,['chan2019'],,False,False,,1
+cent2150-1-3-1,,cent2150-1,3,bai,bai,[],,['chan2019'],,False,False,,1
+cent2150-1-4-1,,cent2150-1,4,bakái,bakái,[],,['chan2019'],,False,False,,1
+cent2150-1-5-1,,cent2150-1,5,esí,esí,[],,['chan2019'],,False,False,,1
+cent2150-1-6-1,,cent2150-1,6,terai,terai,[],,['chan2019'],,False,False,,1
+cent2150-1-7-1,,cent2150-1,7,kukuí,kukuí,[],,['chan2019'],,False,False,,1
+cent2150-1-8-1,,cent2150-1,8,abi,abi,[],,['chan2019'],,False,False,,1
+cent2150-1-9-1,,cent2150-1,9,estari,estari,[],,['chan2019'],,False,False,,1
+cent2150-1-10-1,,cent2150-1,10,ukasi,ukasi,[],,['chan2019'],,False,False,,1
+cent2150-1-11-1,,cent2150-1,11,ukasi kuitar ubisti,ukasi kuitar ubisti,[],,['chan2019'],,False,False,,1
+cent2150-1-12-1,,cent2150-1,12,ukasi kuitar bukái,ukasi kuitar bukái,[],,['chan2019'],,False,False,,1
+cent2150-1-13-1,,cent2150-1,13,ukasi kuitar bai,ukasi kuitar bai,[],,['chan2019'],,False,False,,1
+cent2150-1-14-1,,cent2150-1,14,ukasi kuitar bakái,ukasi kuitar bakái,[],,['chan2019'],,False,False,,1
+cent2150-1-15-1,,cent2150-1,15,ukasi kuitar esí,ukasi kuitar esí,[],,['chan2019'],,False,False,,1
+cent2150-1-16-1,,cent2150-1,16,ukasi kuitar terai,ukasi kuitar terai,[],,['chan2019'],,False,False,,1
+cent2150-1-17-1,,cent2150-1,17,ukasi kuitar kukuí,ukasi kuitar kukuí,[],,['chan2019'],,False,False,,1
+cent2150-1-18-1,,cent2150-1,18,ukasi kuitar abi,ukasi kuitar abi,[],,['chan2019'],,False,False,,1
+cent2150-1-19-1,,cent2150-1,19,ukasi kuitar estari,ukasi kuitar estari,[],,['chan2019'],,False,False,,1
+cent2150-1-20-1,,cent2150-1,20,ukasi bukai,ukasi bukai,[],,['chan2019'],,False,False,,1
+cent2150-1-21-1,,cent2150-1,21,ukasi bukai kuitarubisti,ukasi bukai kuitarubisti,[],,['chan2019'],,False,False,,1
+cent2150-1-22-1,,cent2150-1,22,ukasi bukai kuitarbukái,ukasi bukai kuitarbukái,[],,['chan2019'],,False,False,,1
+cent2150-1-23-1,,cent2150-1,23,ukasi bukai kuitarbai,ukasi bukai kuitarbai,[],,['chan2019'],,False,False,,1
+cent2150-1-24-1,,cent2150-1,24,ukasi bukai kuitarbakái,ukasi bukai kuitarbakái,[],,['chan2019'],,False,False,,1
+cent2150-1-25-1,,cent2150-1,25,ukasi bukai kuitaresí,ukasi bukai kuitaresí,[],,['chan2019'],,False,False,,1
+cent2150-1-26-1,,cent2150-1,26,ukasi bukai kuitarterai,ukasi bukai kuitarterai,[],,['chan2019'],,False,False,,1
+cent2150-1-27-1,,cent2150-1,27,ukasi bukai kuitarkukuí,ukasi bukai kuitarkukuí,[],,['chan2019'],,False,False,,1
+cent2150-1-28-1,,cent2150-1,28,ukasi bukai kuitarabi,ukasi bukai kuitarabi,[],,['chan2019'],,False,False,,1
+cent2150-1-29-1,,cent2150-1,29,ukasi bukai kuitarestari,ukasi bukai kuitarestari,[],,['chan2019'],,False,False,,1
+cent2150-1-30-1,,cent2150-1,30,ukasi bai,ukasi bai,[],,['chan2019'],,False,False,,1
+cent2150-1-40-1,,cent2150-1,40,ukasi bakái,ukasi bakái,[],,['chan2019'],,False,False,,1
+cent2150-1-50-1,,cent2150-1,50,ukasi esí,ukasi esí,[],,['chan2019'],,False,False,,1
+cent2150-1-60-1,,cent2150-1,60,ukasi terai,ukasi terai,[],,['chan2019'],,False,False,,1
+cent2150-1-70-1,,cent2150-1,70,ukasi kukuí,ukasi kukuí,[],,['chan2019'],,False,False,,1
+cent2150-1-80-1,,cent2150-1,80,ukasi abi,ukasi abi,[],,['chan2019'],,False,False,,1
+cent2150-1-90-1,,cent2150-1,90,ukasi estari,ukasi estari,[],,['chan2019'],,False,False,,1
+cent2150-1-100-1,,cent2150-1,100,sien,sien,[],( < Spanish ),['chan2019'],,True,False,,1
+cent2150-1-200-1,,cent2150-1,200,sien ukasi or dos sientos,sien ukasi or dos sientos,[],,['chan2019'],,False,True,,1
+cent2150-1-1000-1,,cent2150-1,1000,mil,mil,[],( < Spanish ),['chan2019'],,True,False,,1
+cent2150-1-2000-1,,cent2150-1,2000,mil ukasi or dos mil,mil ukasi or dos mil,[],,['chan2019'],,False,True,,1

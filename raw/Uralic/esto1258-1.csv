@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-esto1258-1-1-1,,esto1258-1,1,yk.s,yk.s,[],,[],,False,False,,1
-esto1258-1-2-1,,esto1258-1,2,kak.s,kak.s,[],,[],,False,False,,1
-esto1258-1-3-1,,esto1258-1,3,kol.m,kol.m,[],,[],,False,False,,1
-esto1258-1-4-1,,esto1258-1,4,neli.,neli.,[],,[],,False,False,,1
-esto1258-1-5-1,,esto1258-1,5,viːːs,viːːs,[],,[],,False,False,,1
-esto1258-1-6-1,,esto1258-1,6,kuːːs,kuːːs,[],,[],,False,False,,1
-esto1258-1-7-1,,esto1258-1,7,seitse,seitse,[],,[],,False,False,,1
-esto1258-1-8-1,,esto1258-1,8,kahe.ksa,kahe.ksa,[],,[],,False,False,,1
-esto1258-1-9-1,,esto1258-1,9,yhe.ksa,yhe.ksa,[],,[],,False,False,,1
-esto1258-1-10-1,,esto1258-1,10,kymːe,kymːe,[],,[],,False,False,,1
-esto1258-1-11-1,,esto1258-1,11,yk.stei.st,yk.stei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-12-1,,esto1258-1,12,kak.stei.st,kak.stei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-13-1,,esto1258-1,13,kol.mtei.st,kol.mtei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-14-1,,esto1258-1,14,neli.tei.st,neli.tei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-15-1,,esto1258-1,15,viːːstei.st,viːːstei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-16-1,,esto1258-1,16,kuːːstei.st,kuːːstei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-17-1,,esto1258-1,17,seitsestei.st,seitsestei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-18-1,,esto1258-1,18,kahe.ksatei.st,kahe.ksatei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-19-1,,esto1258-1,19,yhe.ksatei.st,yhe.ksatei.st,[],(kymːend̥),[],,False,False,,1
-esto1258-1-20-1,,esto1258-1,20,kak.skymːend̥,kak.skymːend̥,[],,[],,False,False,,1
-esto1258-1-21-1,,esto1258-1,21,kak.skymːend yk.s,kak.skymːend yk.s,[],,[],,False,False,,1
-esto1258-1-22-1,,esto1258-1,22,kak.skymːend kak.s,kak.skymːend kak.s,[],,[],,False,False,,1
-esto1258-1-23-1,,esto1258-1,23,kak.skymːend kol.m,kak.skymːend kol.m,[],,[],,False,False,,1
-esto1258-1-24-1,,esto1258-1,24,kak.skymːend neli.,kak.skymːend neli.,[],,[],,False,False,,1
-esto1258-1-25-1,,esto1258-1,25,kak.skymːend viːːs,kak.skymːend viːːs,[],,[],,False,False,,1
-esto1258-1-26-1,,esto1258-1,26,kak.skymːend kuːːs,kak.skymːend kuːːs,[],,[],,False,False,,1
-esto1258-1-27-1,,esto1258-1,27,kak.skymːend seitse,kak.skymːend seitse,[],,[],,False,False,,1
-esto1258-1-28-1,,esto1258-1,28,kak.skymːend kahe.ksa,kak.skymːend kahe.ksa,[],,[],,False,False,,1
-esto1258-1-29-1,,esto1258-1,29,kak.skymːend yhe.ksa,kak.skymːend yhe.ksa,[],,[],,False,False,,1
-esto1258-1-30-1,,esto1258-1,30,kolmkym.end̥,kolmkym.end̥,[],,[],,False,False,,1
-esto1258-1-40-1,,esto1258-1,40,neli.kym.end̥,neli.kym.end̥,[],,[],,False,False,,1
-esto1258-1-50-1,,esto1258-1,50,viːːskym.end̥,viːːskym.end̥,[],,[],,False,False,,1
-esto1258-1-60-1,,esto1258-1,60,kuːːskym.end̥,kuːːskym.end̥,[],,[],,False,False,,1
-esto1258-1-70-1,,esto1258-1,70,seitsekym.end̥,seitsekym.end̥,[],,[],,False,False,,1
-esto1258-1-80-1,,esto1258-1,80,kahe.ksakym.end̥,kahe.ksakym.end̥,[],,[],,False,False,,1
-esto1258-1-90-1,,esto1258-1,90,yhe.ksakym.end̥,yhe.ksakym.end̥,[],,[],,False,False,,1
-esto1258-1-100-1,,esto1258-1,100,sada.,sada.,[],,[],,False,False,,1
-esto1258-1-200-1,,esto1258-1,200,kak.ssad̥a,kak.ssad̥a,[],,[],,False,False,,1
-esto1258-1-1000-1,,esto1258-1,1000,tuha.t.,tuha.t.,[],,[],,False,False,,1
-esto1258-1-2000-1,,esto1258-1,2000,kak.stuha.t.,kak.stuha.t.,[],,[],,False,False,,1
+esto1258-1-1-1,,esto1258-1,1,yk.s,yk.s,[],,['chan2019'],,False,False,,1
+esto1258-1-2-1,,esto1258-1,2,kak.s,kak.s,[],,['chan2019'],,False,False,,1
+esto1258-1-3-1,,esto1258-1,3,kol.m,kol.m,[],,['chan2019'],,False,False,,1
+esto1258-1-4-1,,esto1258-1,4,neli.,neli.,[],,['chan2019'],,False,False,,1
+esto1258-1-5-1,,esto1258-1,5,viːːs,viːːs,[],,['chan2019'],,False,False,,1
+esto1258-1-6-1,,esto1258-1,6,kuːːs,kuːːs,[],,['chan2019'],,False,False,,1
+esto1258-1-7-1,,esto1258-1,7,seitse,seitse,[],,['chan2019'],,False,False,,1
+esto1258-1-8-1,,esto1258-1,8,kahe.ksa,kahe.ksa,[],,['chan2019'],,False,False,,1
+esto1258-1-9-1,,esto1258-1,9,yhe.ksa,yhe.ksa,[],,['chan2019'],,False,False,,1
+esto1258-1-10-1,,esto1258-1,10,kymːe,kymːe,[],,['chan2019'],,False,False,,1
+esto1258-1-11-1,,esto1258-1,11,yk.stei.st,yk.stei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-12-1,,esto1258-1,12,kak.stei.st,kak.stei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-13-1,,esto1258-1,13,kol.mtei.st,kol.mtei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-14-1,,esto1258-1,14,neli.tei.st,neli.tei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-15-1,,esto1258-1,15,viːːstei.st,viːːstei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-16-1,,esto1258-1,16,kuːːstei.st,kuːːstei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-17-1,,esto1258-1,17,seitsestei.st,seitsestei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-18-1,,esto1258-1,18,kahe.ksatei.st,kahe.ksatei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-19-1,,esto1258-1,19,yhe.ksatei.st,yhe.ksatei.st,[],(kymːend̥),['chan2019'],,False,False,,1
+esto1258-1-20-1,,esto1258-1,20,kak.skymːend̥,kak.skymːend̥,[],,['chan2019'],,False,False,,1
+esto1258-1-21-1,,esto1258-1,21,kak.skymːend yk.s,kak.skymːend yk.s,[],,['chan2019'],,False,False,,1
+esto1258-1-22-1,,esto1258-1,22,kak.skymːend kak.s,kak.skymːend kak.s,[],,['chan2019'],,False,False,,1
+esto1258-1-23-1,,esto1258-1,23,kak.skymːend kol.m,kak.skymːend kol.m,[],,['chan2019'],,False,False,,1
+esto1258-1-24-1,,esto1258-1,24,kak.skymːend neli.,kak.skymːend neli.,[],,['chan2019'],,False,False,,1
+esto1258-1-25-1,,esto1258-1,25,kak.skymːend viːːs,kak.skymːend viːːs,[],,['chan2019'],,False,False,,1
+esto1258-1-26-1,,esto1258-1,26,kak.skymːend kuːːs,kak.skymːend kuːːs,[],,['chan2019'],,False,False,,1
+esto1258-1-27-1,,esto1258-1,27,kak.skymːend seitse,kak.skymːend seitse,[],,['chan2019'],,False,False,,1
+esto1258-1-28-1,,esto1258-1,28,kak.skymːend kahe.ksa,kak.skymːend kahe.ksa,[],,['chan2019'],,False,False,,1
+esto1258-1-29-1,,esto1258-1,29,kak.skymːend yhe.ksa,kak.skymːend yhe.ksa,[],,['chan2019'],,False,False,,1
+esto1258-1-30-1,,esto1258-1,30,kolmkym.end̥,kolmkym.end̥,[],,['chan2019'],,False,False,,1
+esto1258-1-40-1,,esto1258-1,40,neli.kym.end̥,neli.kym.end̥,[],,['chan2019'],,False,False,,1
+esto1258-1-50-1,,esto1258-1,50,viːːskym.end̥,viːːskym.end̥,[],,['chan2019'],,False,False,,1
+esto1258-1-60-1,,esto1258-1,60,kuːːskym.end̥,kuːːskym.end̥,[],,['chan2019'],,False,False,,1
+esto1258-1-70-1,,esto1258-1,70,seitsekym.end̥,seitsekym.end̥,[],,['chan2019'],,False,False,,1
+esto1258-1-80-1,,esto1258-1,80,kahe.ksakym.end̥,kahe.ksakym.end̥,[],,['chan2019'],,False,False,,1
+esto1258-1-90-1,,esto1258-1,90,yhe.ksakym.end̥,yhe.ksakym.end̥,[],,['chan2019'],,False,False,,1
+esto1258-1-100-1,,esto1258-1,100,sada.,sada.,[],,['chan2019'],,False,False,,1
+esto1258-1-200-1,,esto1258-1,200,kak.ssad̥a,kak.ssad̥a,[],,['chan2019'],,False,False,,1
+esto1258-1-1000-1,,esto1258-1,1000,tuha.t.,tuha.t.,[],,['chan2019'],,False,False,,1
+esto1258-1-2000-1,,esto1258-1,2000,kak.stuha.t.,kak.stuha.t.,[],,['chan2019'],,False,False,,1

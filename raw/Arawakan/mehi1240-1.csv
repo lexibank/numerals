@@ -1,31 +1,31 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mehi1240-1-1-1,,mehi1240-1,1,paˈwiʦa,paˈwiʦa,[],,[],,False,False,pawitsa,1
-mehi1240-1-2-1,,mehi1240-1,2,mipiˈjama /miˈpʲama,mipiˈjama,[],,[],,False,True,mipiyama,1
-mehi1240-1-2-2,,mehi1240-1,2,mipiˈjama /miˈpʲama,miˈpʲama,[],,[],,False,True,mipiyama,1
-mehi1240-1-3-1,,mehi1240-1,3,kamajuˈkula,kamajuˈkula,[],,[],,False,False,kamayukula,1
-mehi1240-1-4-1,,mehi1240-1,4,mipiˈjamaˈwaka/miˈpʲamaˈwaka,mipiˈjamaˈwaka,[],,[],,False,True,mipiyama waka,1
-mehi1240-1-4-2,,mehi1240-1,4,mipiˈjamaˈwaka/miˈpʲamaˈwaka,miˈpʲamaˈwaka,[],,[],,False,True,mipiyama waka,1
-mehi1240-1-5-1,,mehi1240-1,5,paˈwiʦa wɨȿɨˈkũ,paˈwiʦa wɨȿɨˈkũ,[],( litː 'one + hand' ),[],,False,False,pawitsa wüxükũ,1
-mehi1240-1-6-1,,mehi1240-1,6,pawiʦa taputa [paˈwiʦa tapuˈta ],pawiʦa taputa [paˈwiʦa tapuˈta ],[],"( lit: 'taputa'= to go, 'go to other hand'  )",[],,False,True,,1
-mehi1240-1-7-1,,mehi1240-1,7,mipiˈjama tapuˈta,mipiˈjama tapuˈta,[],,[],,False,False,mipiyama taputa,1
-mehi1240-1-8-1,,mehi1240-1,8,kamajuˈkula tapuˈta,kamajuˈkula tapuˈta,[],,[],,False,False,kamayukula taputa [,1
-mehi1240-1-9-1,,mehi1240-1,9,mipiˈjamaˈwaka tapuˈta,mipiˈjamaˈwaka tapuˈta,[],,[],,False,False,mipiyama waka taputa,1
-mehi1240-1-10-1,,mehi1240-1,10,maˈmala wɨȿɨkũˈwi,maˈmala wɨȿɨkũˈwi,[],,[],,False,False,mamala wüxükuwi,1
-mehi1240-1-11-1,,mehi1240-1,11,pawitsa i-ya,pawitsa i-ya,[],(kitsapa-i  = one),[],,False,False,,1
-mehi1240-1-11-2,,mehi1240-1,11,3-went foot-unpossessed,3-went foot-unpossessed,[],,[],,False,True,,1
-mehi1240-1-12-1,,mehi1240-1,12,mipiyama i-ya,mipiyama i-ya,[],(kitsapa-i  = two),[],,False,False,,1
-mehi1240-1-12-2,,mehi1240-1,12,3-went foot-unpossessed,3-went foot-unpossessed,[],,[],,False,True,,1
-mehi1240-1-13-1,,mehi1240-1,13,kamayukula i-ya kitsapa-i = three,kamayukula i-ya kitsapa-i = three,[],,[],,False,True,,1
-mehi1240-1-13-2,,mehi1240-1,13,3-went foot-unpossessed,3-went foot-unpossessed,[],,[],,False,True,,1
-mehi1240-1-14-1,,mehi1240-1,14,mipiyama waka i-ya kitsapa-i = four,mipiyama waka i-ya kitsapa-i = four,[],,[],,False,True,,1
-mehi1240-1-14-2,,mehi1240-1,14,3-went foot-unpossessed,3-went foot-unpossessed,[],,[],,False,True,,1
-mehi1240-1-15-1,,mehi1240-1,15,mamala i-ya kitsapa-i,mamala i-ya kitsapa-i,[],( =  ten),[],,False,False,,1
-mehi1240-1-15-2,,mehi1240-1,15,3-went foot -unpossessed,3-went foot -unpossessed,[],,[],,False,True,,1
-mehi1240-1-16-1,,mehi1240-1,16,pawitsa taputa kitsapa-i,pawitsa taputa kitsapa-i,[],,[],,False,False,,1
-mehi1240-1-16-2,,mehi1240-1,16,or: pawitsa i-ya kitsapa-i = one,or: pawitsa i-ya kitsapa-i = one,[],,[],,False,True,,1
-mehi1240-1-16-3,,mehi1240-1,16,go to,go to,[],,[],,False,False,,1
-mehi1240-1-17-1,,mehi1240-1,17,mipiyama taputa kitsapa-i,mipiyama taputa kitsapa-i,[],,[],,False,False,,1
-mehi1240-1-17-2,,mehi1240-1,17,or: mipiyama i-ya kitsapa-i,or: mipiyama i-ya kitsapa-i,[],,[],,False,True,,1
-mehi1240-1-18-1,,mehi1240-1,18,kamayukula taputa kitsapai,kamayukula taputa kitsapai,[],,[],,False,False,,1
-mehi1240-1-19-1,,mehi1240-1,19,mipiyama waka taputa kitsapa,mipiyama waka taputa kitsapa,[],,[],,False,False,,1
-mehi1240-1-20-1,,mehi1240-1,20,mamala kitsapa-i,mamala kitsapa-i,[],,[],,False,False,,1
+mehi1240-1-1-1,,mehi1240-1,1,paˈwiʦa,paˈwiʦa,[],,['chan2019'],,False,False,pawitsa,1
+mehi1240-1-2-1,,mehi1240-1,2,mipiˈjama /miˈpʲama,mipiˈjama,[],,['chan2019'],,False,True,mipiyama,1
+mehi1240-1-2-2,,mehi1240-1,2,mipiˈjama /miˈpʲama,miˈpʲama,[],,['chan2019'],,False,True,mipiyama,1
+mehi1240-1-3-1,,mehi1240-1,3,kamajuˈkula,kamajuˈkula,[],,['chan2019'],,False,False,kamayukula,1
+mehi1240-1-4-1,,mehi1240-1,4,mipiˈjamaˈwaka/miˈpʲamaˈwaka,mipiˈjamaˈwaka,[],,['chan2019'],,False,True,mipiyama waka,1
+mehi1240-1-4-2,,mehi1240-1,4,mipiˈjamaˈwaka/miˈpʲamaˈwaka,miˈpʲamaˈwaka,[],,['chan2019'],,False,True,mipiyama waka,1
+mehi1240-1-5-1,,mehi1240-1,5,paˈwiʦa wɨȿɨˈkũ,paˈwiʦa wɨȿɨˈkũ,[],( litː 'one + hand' ),['chan2019'],,False,False,pawitsa wüxükũ,1
+mehi1240-1-6-1,,mehi1240-1,6,pawiʦa taputa [paˈwiʦa tapuˈta ],pawiʦa taputa [paˈwiʦa tapuˈta ],[],"( lit: 'taputa'= to go, 'go to other hand'  )",['chan2019'],,False,True,,1
+mehi1240-1-7-1,,mehi1240-1,7,mipiˈjama tapuˈta,mipiˈjama tapuˈta,[],,['chan2019'],,False,False,mipiyama taputa,1
+mehi1240-1-8-1,,mehi1240-1,8,kamajuˈkula tapuˈta,kamajuˈkula tapuˈta,[],,['chan2019'],,False,False,kamayukula taputa [,1
+mehi1240-1-9-1,,mehi1240-1,9,mipiˈjamaˈwaka tapuˈta,mipiˈjamaˈwaka tapuˈta,[],,['chan2019'],,False,False,mipiyama waka taputa,1
+mehi1240-1-10-1,,mehi1240-1,10,maˈmala wɨȿɨkũˈwi,maˈmala wɨȿɨkũˈwi,[],,['chan2019'],,False,False,mamala wüxükuwi,1
+mehi1240-1-11-1,,mehi1240-1,11,pawitsa i-ya,pawitsa i-ya,[],(kitsapa-i  = one),['chan2019'],,False,False,,1
+mehi1240-1-11-2,,mehi1240-1,11,3-went foot-unpossessed,3-went foot-unpossessed,[],,['chan2019'],,False,True,,1
+mehi1240-1-12-1,,mehi1240-1,12,mipiyama i-ya,mipiyama i-ya,[],(kitsapa-i  = two),['chan2019'],,False,False,,1
+mehi1240-1-12-2,,mehi1240-1,12,3-went foot-unpossessed,3-went foot-unpossessed,[],,['chan2019'],,False,True,,1
+mehi1240-1-13-1,,mehi1240-1,13,kamayukula i-ya kitsapa-i = three,kamayukula i-ya kitsapa-i = three,[],,['chan2019'],,False,True,,1
+mehi1240-1-13-2,,mehi1240-1,13,3-went foot-unpossessed,3-went foot-unpossessed,[],,['chan2019'],,False,True,,1
+mehi1240-1-14-1,,mehi1240-1,14,mipiyama waka i-ya kitsapa-i = four,mipiyama waka i-ya kitsapa-i = four,[],,['chan2019'],,False,True,,1
+mehi1240-1-14-2,,mehi1240-1,14,3-went foot-unpossessed,3-went foot-unpossessed,[],,['chan2019'],,False,True,,1
+mehi1240-1-15-1,,mehi1240-1,15,mamala i-ya kitsapa-i,mamala i-ya kitsapa-i,[],( =  ten),['chan2019'],,False,False,,1
+mehi1240-1-15-2,,mehi1240-1,15,3-went foot -unpossessed,3-went foot -unpossessed,[],,['chan2019'],,False,True,,1
+mehi1240-1-16-1,,mehi1240-1,16,pawitsa taputa kitsapa-i,pawitsa taputa kitsapa-i,[],,['chan2019'],,False,False,,1
+mehi1240-1-16-2,,mehi1240-1,16,or: pawitsa i-ya kitsapa-i = one,or: pawitsa i-ya kitsapa-i = one,[],,['chan2019'],,False,True,,1
+mehi1240-1-16-3,,mehi1240-1,16,go to,go to,[],,['chan2019'],,False,False,,1
+mehi1240-1-17-1,,mehi1240-1,17,mipiyama taputa kitsapa-i,mipiyama taputa kitsapa-i,[],,['chan2019'],,False,False,,1
+mehi1240-1-17-2,,mehi1240-1,17,or: mipiyama i-ya kitsapa-i,or: mipiyama i-ya kitsapa-i,[],,['chan2019'],,False,True,,1
+mehi1240-1-18-1,,mehi1240-1,18,kamayukula taputa kitsapai,kamayukula taputa kitsapai,[],,['chan2019'],,False,False,,1
+mehi1240-1-19-1,,mehi1240-1,19,mipiyama waka taputa kitsapa,mipiyama waka taputa kitsapa,[],,['chan2019'],,False,False,,1
+mehi1240-1-20-1,,mehi1240-1,20,mamala kitsapa-i,mamala kitsapa-i,[],,['chan2019'],,False,False,,1

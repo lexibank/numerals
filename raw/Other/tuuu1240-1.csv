@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tuuu1240-1-1-1,,tuuu1240-1,1,nəgə,nəgə,[],,[],,False,False,,1
-tuuu1240-1-2-1,,tuuu1240-1,2,ɢoor,ɢoor,[],,[],,False,False,,1
-tuuu1240-1-3-1,,tuuu1240-1,3,ɢuraan,ɢuraan,[],,[],,False,False,,1
-tuuu1240-1-4-1,,tuuu1240-1,4,deeren,deeren,[],,[],,False,False,,1
-tuuu1240-1-5-1,,tuuu1240-1,5,taavun,taavun,[],,[],,False,False,,1
-tuuu1240-1-6-1,,tuuu1240-1,6,dʑirɢoon,dʑirɢoon,[],,[],,False,False,,1
-tuuu1240-1-7-1,,tuuu1240-1,7,doloon,doloon,[],,[],,False,False,,1
-tuuu1240-1-8-1,,tuuu1240-1,8,naiiman,naiiman,[],,[],,False,False,,1
-tuuu1240-1-9-1,,tuuu1240-1,9,ʂdzən,ʂdzən,[],,[],,False,False,,1
-tuuu1240-1-10-1,,tuuu1240-1,10,xaran,xaran,[],,[],,False,False,,1
-tuuu1240-1-11-1,,tuuu1240-1,11,xaran nəgə,xaran nəgə,[],,[],,False,False,,1
-tuuu1240-1-12-1,,tuuu1240-1,12,xaran ɢoor,xaran ɢoor,[],,[],,False,False,,1
-tuuu1240-1-13-1,,tuuu1240-1,13,xaran ɢuraan,xaran ɢuraan,[],,[],,False,False,,1
-tuuu1240-1-14-1,,tuuu1240-1,14,xaran deeren,xaran deeren,[],,[],,False,False,,1
-tuuu1240-1-15-1,,tuuu1240-1,15,xaran taavun,xaran taavun,[],,[],,False,False,,1
-tuuu1240-1-16-1,,tuuu1240-1,16,xaran dʑirɢoon,xaran dʑirɢoon,[],,[],,False,False,,1
-tuuu1240-1-17-1,,tuuu1240-1,17,xaran doloon,xaran doloon,[],,[],,False,False,,1
-tuuu1240-1-18-1,,tuuu1240-1,18,xaran naiiman,xaran naiiman,[],,[],,False,False,,1
-tuuu1240-1-19-1,,tuuu1240-1,19,xaran ʂdzən,xaran ʂdzən,[],,[],,False,False,,1
-tuuu1240-1-20-1,,tuuu1240-1,20,xorən,xorən,[],,[],,False,False,,1
-tuuu1240-1-21-1,,tuuu1240-1,21,xorən nəgə,xorən nəgə,[],,[],,False,False,,1
-tuuu1240-1-22-1,,tuuu1240-1,22,xorən ɢoor,xorən ɢoor,[],,[],,False,False,,1
-tuuu1240-1-23-1,,tuuu1240-1,23,xorən ɢuraan,xorən ɢuraan,[],,[],,False,False,,1
-tuuu1240-1-24-1,,tuuu1240-1,24,xorən deeren,xorən deeren,[],,[],,False,False,,1
-tuuu1240-1-25-1,,tuuu1240-1,25,xorən taavun,xorən taavun,[],,[],,False,False,,1
-tuuu1240-1-26-1,,tuuu1240-1,26,xorən dʑirɢoon,xorən dʑirɢoon,[],,[],,False,False,,1
-tuuu1240-1-27-1,,tuuu1240-1,27,xorən doloon,xorən doloon,[],,[],,False,False,,1
-tuuu1240-1-28-1,,tuuu1240-1,28,xorən naiiman,xorən naiiman,[],,[],,False,False,,1
-tuuu1240-1-29-1,,tuuu1240-1,29,xorən ʂdzən,xorən ʂdzən,[],,[],,False,False,,1
-tuuu1240-1-30-1,,tuuu1240-1,30,xodʑin,xodʑin,[],,[],,False,False,,1
-tuuu1240-1-40-1,,tuuu1240-1,40,tadʑin,tadʑin,[],,[],,False,False,,1
-tuuu1240-1-50-1,,tuuu1240-1,50,tajin,tajin,[],,[],,False,False,,1
-tuuu1240-1-60-1,,tuuu1240-1,60,dʑiran,dʑiran,[],,[],,False,False,,1
-tuuu1240-1-70-1,,tuuu1240-1,70,dalan,dalan,[],,[],,False,False,,1
-tuuu1240-1-80-1,,tuuu1240-1,80,najan,najan,[],,[],,False,False,,1
-tuuu1240-1-90-1,,tuuu1240-1,90,iərən,iərən,[],,[],,False,False,,1
-tuuu1240-1-100-1,,tuuu1240-1,100,ndzoŋ,ndzoŋ,[],,[],,False,False,,1
-tuuu1240-1-200-1,,tuuu1240-1,200,ɢoor ndzoŋ,ɢoor ndzoŋ,[],,[],,False,False,,1
-tuuu1240-1-1000-1,,tuuu1240-1,1000,meŋxan,meŋxan,[],,[],,False,False,,1
-tuuu1240-1-2000-1,,tuuu1240-1,2000,ɢoor meŋxan,ɢoor meŋxan,[],,[],,False,False,,1
+tuuu1240-1-1-1,,tuuu1240-1,1,nəgə,nəgə,[],,['chan2019'],,False,False,,1
+tuuu1240-1-2-1,,tuuu1240-1,2,ɢoor,ɢoor,[],,['chan2019'],,False,False,,1
+tuuu1240-1-3-1,,tuuu1240-1,3,ɢuraan,ɢuraan,[],,['chan2019'],,False,False,,1
+tuuu1240-1-4-1,,tuuu1240-1,4,deeren,deeren,[],,['chan2019'],,False,False,,1
+tuuu1240-1-5-1,,tuuu1240-1,5,taavun,taavun,[],,['chan2019'],,False,False,,1
+tuuu1240-1-6-1,,tuuu1240-1,6,dʑirɢoon,dʑirɢoon,[],,['chan2019'],,False,False,,1
+tuuu1240-1-7-1,,tuuu1240-1,7,doloon,doloon,[],,['chan2019'],,False,False,,1
+tuuu1240-1-8-1,,tuuu1240-1,8,naiiman,naiiman,[],,['chan2019'],,False,False,,1
+tuuu1240-1-9-1,,tuuu1240-1,9,ʂdzən,ʂdzən,[],,['chan2019'],,False,False,,1
+tuuu1240-1-10-1,,tuuu1240-1,10,xaran,xaran,[],,['chan2019'],,False,False,,1
+tuuu1240-1-11-1,,tuuu1240-1,11,xaran nəgə,xaran nəgə,[],,['chan2019'],,False,False,,1
+tuuu1240-1-12-1,,tuuu1240-1,12,xaran ɢoor,xaran ɢoor,[],,['chan2019'],,False,False,,1
+tuuu1240-1-13-1,,tuuu1240-1,13,xaran ɢuraan,xaran ɢuraan,[],,['chan2019'],,False,False,,1
+tuuu1240-1-14-1,,tuuu1240-1,14,xaran deeren,xaran deeren,[],,['chan2019'],,False,False,,1
+tuuu1240-1-15-1,,tuuu1240-1,15,xaran taavun,xaran taavun,[],,['chan2019'],,False,False,,1
+tuuu1240-1-16-1,,tuuu1240-1,16,xaran dʑirɢoon,xaran dʑirɢoon,[],,['chan2019'],,False,False,,1
+tuuu1240-1-17-1,,tuuu1240-1,17,xaran doloon,xaran doloon,[],,['chan2019'],,False,False,,1
+tuuu1240-1-18-1,,tuuu1240-1,18,xaran naiiman,xaran naiiman,[],,['chan2019'],,False,False,,1
+tuuu1240-1-19-1,,tuuu1240-1,19,xaran ʂdzən,xaran ʂdzən,[],,['chan2019'],,False,False,,1
+tuuu1240-1-20-1,,tuuu1240-1,20,xorən,xorən,[],,['chan2019'],,False,False,,1
+tuuu1240-1-21-1,,tuuu1240-1,21,xorən nəgə,xorən nəgə,[],,['chan2019'],,False,False,,1
+tuuu1240-1-22-1,,tuuu1240-1,22,xorən ɢoor,xorən ɢoor,[],,['chan2019'],,False,False,,1
+tuuu1240-1-23-1,,tuuu1240-1,23,xorən ɢuraan,xorən ɢuraan,[],,['chan2019'],,False,False,,1
+tuuu1240-1-24-1,,tuuu1240-1,24,xorən deeren,xorən deeren,[],,['chan2019'],,False,False,,1
+tuuu1240-1-25-1,,tuuu1240-1,25,xorən taavun,xorən taavun,[],,['chan2019'],,False,False,,1
+tuuu1240-1-26-1,,tuuu1240-1,26,xorən dʑirɢoon,xorən dʑirɢoon,[],,['chan2019'],,False,False,,1
+tuuu1240-1-27-1,,tuuu1240-1,27,xorən doloon,xorən doloon,[],,['chan2019'],,False,False,,1
+tuuu1240-1-28-1,,tuuu1240-1,28,xorən naiiman,xorən naiiman,[],,['chan2019'],,False,False,,1
+tuuu1240-1-29-1,,tuuu1240-1,29,xorən ʂdzən,xorən ʂdzən,[],,['chan2019'],,False,False,,1
+tuuu1240-1-30-1,,tuuu1240-1,30,xodʑin,xodʑin,[],,['chan2019'],,False,False,,1
+tuuu1240-1-40-1,,tuuu1240-1,40,tadʑin,tadʑin,[],,['chan2019'],,False,False,,1
+tuuu1240-1-50-1,,tuuu1240-1,50,tajin,tajin,[],,['chan2019'],,False,False,,1
+tuuu1240-1-60-1,,tuuu1240-1,60,dʑiran,dʑiran,[],,['chan2019'],,False,False,,1
+tuuu1240-1-70-1,,tuuu1240-1,70,dalan,dalan,[],,['chan2019'],,False,False,,1
+tuuu1240-1-80-1,,tuuu1240-1,80,najan,najan,[],,['chan2019'],,False,False,,1
+tuuu1240-1-90-1,,tuuu1240-1,90,iərən,iərən,[],,['chan2019'],,False,False,,1
+tuuu1240-1-100-1,,tuuu1240-1,100,ndzoŋ,ndzoŋ,[],,['chan2019'],,False,False,,1
+tuuu1240-1-200-1,,tuuu1240-1,200,ɢoor ndzoŋ,ɢoor ndzoŋ,[],,['chan2019'],,False,False,,1
+tuuu1240-1-1000-1,,tuuu1240-1,1000,meŋxan,meŋxan,[],,['chan2019'],,False,False,,1
+tuuu1240-1-2000-1,,tuuu1240-1,2000,ɢoor meŋxan,ɢoor meŋxan,[],,['chan2019'],,False,False,,1

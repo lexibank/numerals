@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wapa1235-1-1-1,,wapa1235-1,1,dzun,dzun,[],,[],,False,False,,1
-wapa1235-1-2-1,,wapa1235-1,2,pyìnà,pyìnà,[],,[],,False,False,,1
-wapa1235-1-3-1,,wapa1235-1,3,tsara,tsara,[],,[],,False,False,,1
-wapa1235-1-4-1,,wapa1235-1,4,nyena,nyena,[],,[],,False,False,,1
-wapa1235-1-5-1,,wapa1235-1,5,tswana,tswana,[],,[],,False,False,,1
-wapa1235-1-6-1,,wapa1235-1,6,cìnjen,cìnjen,[],,[],,False,False,,1
-wapa1235-1-6-2,,wapa1235-1,6,ʃìʒen,ʃìʒen,[],( 5+ 1 ),[],,False,False,,1
-wapa1235-1-7-1,,wapa1235-1,7,tsùpyìn,tsùpyìn,[],( 5+ 2 ),[],,False,False,,1
-wapa1235-1-8-1,,wapa1235-1,8,tsùntsa,tsùntsa,[],( 5+ 3 ),[],,False,False,,1
-wapa1235-1-9-1,,wapa1235-1,9,tsùnyò,tsùnyò,[],( 5+ 4),[],,False,False,,1
-wapa1235-1-10-1,,wapa1235-1,10,dzwe,dzwe,[],,[],,False,False,,1
-wapa1235-1-11-1,,wapa1235-1,11,(dzwe) ŋwà zunzun,(dzwe) ŋwà zunzun,[],,[],,False,False,,1
-wapa1235-1-12-1,,wapa1235-1,12,(dzwe) ŋwà pyìnà,(dzwe) ŋwà pyìnà,[],,[],,False,False,,1
-wapa1235-1-13-1,,wapa1235-1,13,(dzwe) ŋwà tsara,(dzwe) ŋwà tsara,[],,[],,False,False,,1
-wapa1235-1-14-1,,wapa1235-1,14,(dzwe) ŋwà nyena,(dzwe) ŋwà nyena,[],,[],,False,False,,1
-wapa1235-1-15-1,,wapa1235-1,15,(dzwe) ŋwà tswana,(dzwe) ŋwà tswana,[],,[],,False,False,,1
-wapa1235-1-16-1,,wapa1235-1,16,(dzwe) ŋwà ʃìʒen,(dzwe) ŋwà ʃìʒen,[],,[],,False,False,,1
-wapa1235-1-17-1,,wapa1235-1,17,(dzwe) ŋwà tsùpyìn,(dzwe) ŋwà tsùpyìn,[],,[],,False,False,,1
-wapa1235-1-18-1,,wapa1235-1,18,(dzwe) ŋwà tsùntsa,(dzwe) ŋwà tsùntsa,[],,[],,False,False,,1
-wapa1235-1-19-1,,wapa1235-1,19,(dzwe) ŋwà tsùnyo,(dzwe) ŋwà tsùnyo,[],,[],,False,False,,1
-wapa1235-1-20-1,,wapa1235-1,20,ádì zun,ádì zun,[],( litː 'body person one' ),[],,False,False,,1
-wapa1235-1-21-1,,wapa1235-1,21,ádì zun ŋwà zunzun,ádì zun ŋwà zunzun,[],,[],,False,False,,1
-wapa1235-1-22-1,,wapa1235-1,22,ádì zun ŋwà pyìnà,ádì zun ŋwà pyìnà,[],,[],,False,False,,1
-wapa1235-1-23-1,,wapa1235-1,23,ádì zun ŋwà tsara,ádì zun ŋwà tsara,[],,[],,False,False,,1
-wapa1235-1-24-1,,wapa1235-1,24,ádì zun ŋwà nyena,ádì zun ŋwà nyena,[],,[],,False,False,,1
-wapa1235-1-25-1,,wapa1235-1,25,ádì zun ŋwà tswana,ádì zun ŋwà tswana,[],,[],,False,False,,1
-wapa1235-1-26-1,,wapa1235-1,26,ádì zun ŋwà ʃìʒen,ádì zun ŋwà ʃìʒen,[],,[],,False,False,,1
-wapa1235-1-27-1,,wapa1235-1,27,ádì zun ŋwà tsùpyìn,ádì zun ŋwà tsùpyìn,[],,[],,False,False,,1
-wapa1235-1-28-1,,wapa1235-1,28,ádì zun ŋwà tsùntsa,ádì zun ŋwà tsùntsa,[],,[],,False,False,,1
-wapa1235-1-29-1,,wapa1235-1,29,ádì zun ŋwà tsùnyo,ádì zun ŋwà tsùnyo,[],,[],,False,False,,1
-wapa1235-1-30-1,,wapa1235-1,30,ádì zun ŋwà kyà dzwe,ádì zun ŋwà kyà dzwe,[],,[],,False,False,,1
-wapa1235-1-40-1,,wapa1235-1,40,ádìbàpyìnà,ádìbàpyìnà,[],( 20 x 2 ),[],,False,False,,1
-wapa1235-1-50-1,,wapa1235-1,50,ádìbàpyìnà kyà dzwe,ádìbàpyìnà kyà dzwe,[],,[],,False,False,,1
-wapa1235-1-60-1,,wapa1235-1,60,ádìbàtsara,ádìbàtsara,[],( 20 x 3 ),[],,False,False,,1
-wapa1235-1-70-1,,wapa1235-1,70,ádìbàtsara kyà dzwe,ádìbàtsara kyà dzwe,[],,[],,False,False,,1
-wapa1235-1-80-1,,wapa1235-1,80,ádìbànyena,ádìbànyena,[],( 20 x 4 ),[],,False,False,,1
-wapa1235-1-90-1,,wapa1235-1,90,ádìbànyena kyà dzwe,ádìbànyena kyà dzwe,[],,[],,False,False,,1
-wapa1235-1-100-1,,wapa1235-1,100,ádìbàtswana,ádìbàtswana,[],( 20 x 5 ),[],,False,False,,1
-wapa1235-1-100-2,,wapa1235-1,100,dèrí zunzun,dèrí zunzun,[],,[],,False,False,,1
-wapa1235-1-200-1,,wapa1235-1,200,ádìbà dzwe,ádìbà dzwe,[],( 20 x 10 ),[],,False,False,,1
-wapa1235-1-200-2,,wapa1235-1,200,dèrí pyìnà,dèrí pyìnà,[],,[],,False,False,,1
-wapa1235-1-1000-1,,wapa1235-1,1000,ádìbà dìbà pyìnà kyà dzwe,ádìbà dìbà pyìnà kyà dzwe,[],,[],,False,False,,1
-wapa1235-1-1000-2,,wapa1235-1,1000,dubu,dubu,[],,[],,False,False,,1
-wapa1235-1-2000-1,,wapa1235-1,2000,ádìbà dìbà tswana,ádìbà dìbà tswana,[],( 20 x 100 ),[],,False,False,,1
+wapa1235-1-1-1,,wapa1235-1,1,dzun,dzun,[],,['chan2019'],,False,False,,1
+wapa1235-1-2-1,,wapa1235-1,2,pyìnà,pyìnà,[],,['chan2019'],,False,False,,1
+wapa1235-1-3-1,,wapa1235-1,3,tsara,tsara,[],,['chan2019'],,False,False,,1
+wapa1235-1-4-1,,wapa1235-1,4,nyena,nyena,[],,['chan2019'],,False,False,,1
+wapa1235-1-5-1,,wapa1235-1,5,tswana,tswana,[],,['chan2019'],,False,False,,1
+wapa1235-1-6-1,,wapa1235-1,6,cìnjen,cìnjen,[],,['chan2019'],,False,False,,1
+wapa1235-1-6-2,,wapa1235-1,6,ʃìʒen,ʃìʒen,[],( 5+ 1 ),['chan2019'],,False,False,,1
+wapa1235-1-7-1,,wapa1235-1,7,tsùpyìn,tsùpyìn,[],( 5+ 2 ),['chan2019'],,False,False,,1
+wapa1235-1-8-1,,wapa1235-1,8,tsùntsa,tsùntsa,[],( 5+ 3 ),['chan2019'],,False,False,,1
+wapa1235-1-9-1,,wapa1235-1,9,tsùnyò,tsùnyò,[],( 5+ 4),['chan2019'],,False,False,,1
+wapa1235-1-10-1,,wapa1235-1,10,dzwe,dzwe,[],,['chan2019'],,False,False,,1
+wapa1235-1-11-1,,wapa1235-1,11,(dzwe) ŋwà zunzun,(dzwe) ŋwà zunzun,[],,['chan2019'],,False,False,,1
+wapa1235-1-12-1,,wapa1235-1,12,(dzwe) ŋwà pyìnà,(dzwe) ŋwà pyìnà,[],,['chan2019'],,False,False,,1
+wapa1235-1-13-1,,wapa1235-1,13,(dzwe) ŋwà tsara,(dzwe) ŋwà tsara,[],,['chan2019'],,False,False,,1
+wapa1235-1-14-1,,wapa1235-1,14,(dzwe) ŋwà nyena,(dzwe) ŋwà nyena,[],,['chan2019'],,False,False,,1
+wapa1235-1-15-1,,wapa1235-1,15,(dzwe) ŋwà tswana,(dzwe) ŋwà tswana,[],,['chan2019'],,False,False,,1
+wapa1235-1-16-1,,wapa1235-1,16,(dzwe) ŋwà ʃìʒen,(dzwe) ŋwà ʃìʒen,[],,['chan2019'],,False,False,,1
+wapa1235-1-17-1,,wapa1235-1,17,(dzwe) ŋwà tsùpyìn,(dzwe) ŋwà tsùpyìn,[],,['chan2019'],,False,False,,1
+wapa1235-1-18-1,,wapa1235-1,18,(dzwe) ŋwà tsùntsa,(dzwe) ŋwà tsùntsa,[],,['chan2019'],,False,False,,1
+wapa1235-1-19-1,,wapa1235-1,19,(dzwe) ŋwà tsùnyo,(dzwe) ŋwà tsùnyo,[],,['chan2019'],,False,False,,1
+wapa1235-1-20-1,,wapa1235-1,20,ádì zun,ádì zun,[],( litː 'body person one' ),['chan2019'],,False,False,,1
+wapa1235-1-21-1,,wapa1235-1,21,ádì zun ŋwà zunzun,ádì zun ŋwà zunzun,[],,['chan2019'],,False,False,,1
+wapa1235-1-22-1,,wapa1235-1,22,ádì zun ŋwà pyìnà,ádì zun ŋwà pyìnà,[],,['chan2019'],,False,False,,1
+wapa1235-1-23-1,,wapa1235-1,23,ádì zun ŋwà tsara,ádì zun ŋwà tsara,[],,['chan2019'],,False,False,,1
+wapa1235-1-24-1,,wapa1235-1,24,ádì zun ŋwà nyena,ádì zun ŋwà nyena,[],,['chan2019'],,False,False,,1
+wapa1235-1-25-1,,wapa1235-1,25,ádì zun ŋwà tswana,ádì zun ŋwà tswana,[],,['chan2019'],,False,False,,1
+wapa1235-1-26-1,,wapa1235-1,26,ádì zun ŋwà ʃìʒen,ádì zun ŋwà ʃìʒen,[],,['chan2019'],,False,False,,1
+wapa1235-1-27-1,,wapa1235-1,27,ádì zun ŋwà tsùpyìn,ádì zun ŋwà tsùpyìn,[],,['chan2019'],,False,False,,1
+wapa1235-1-28-1,,wapa1235-1,28,ádì zun ŋwà tsùntsa,ádì zun ŋwà tsùntsa,[],,['chan2019'],,False,False,,1
+wapa1235-1-29-1,,wapa1235-1,29,ádì zun ŋwà tsùnyo,ádì zun ŋwà tsùnyo,[],,['chan2019'],,False,False,,1
+wapa1235-1-30-1,,wapa1235-1,30,ádì zun ŋwà kyà dzwe,ádì zun ŋwà kyà dzwe,[],,['chan2019'],,False,False,,1
+wapa1235-1-40-1,,wapa1235-1,40,ádìbàpyìnà,ádìbàpyìnà,[],( 20 x 2 ),['chan2019'],,False,False,,1
+wapa1235-1-50-1,,wapa1235-1,50,ádìbàpyìnà kyà dzwe,ádìbàpyìnà kyà dzwe,[],,['chan2019'],,False,False,,1
+wapa1235-1-60-1,,wapa1235-1,60,ádìbàtsara,ádìbàtsara,[],( 20 x 3 ),['chan2019'],,False,False,,1
+wapa1235-1-70-1,,wapa1235-1,70,ádìbàtsara kyà dzwe,ádìbàtsara kyà dzwe,[],,['chan2019'],,False,False,,1
+wapa1235-1-80-1,,wapa1235-1,80,ádìbànyena,ádìbànyena,[],( 20 x 4 ),['chan2019'],,False,False,,1
+wapa1235-1-90-1,,wapa1235-1,90,ádìbànyena kyà dzwe,ádìbànyena kyà dzwe,[],,['chan2019'],,False,False,,1
+wapa1235-1-100-1,,wapa1235-1,100,ádìbàtswana,ádìbàtswana,[],( 20 x 5 ),['chan2019'],,False,False,,1
+wapa1235-1-100-2,,wapa1235-1,100,dèrí zunzun,dèrí zunzun,[],,['chan2019'],,False,False,,1
+wapa1235-1-200-1,,wapa1235-1,200,ádìbà dzwe,ádìbà dzwe,[],( 20 x 10 ),['chan2019'],,False,False,,1
+wapa1235-1-200-2,,wapa1235-1,200,dèrí pyìnà,dèrí pyìnà,[],,['chan2019'],,False,False,,1
+wapa1235-1-1000-1,,wapa1235-1,1000,ádìbà dìbà pyìnà kyà dzwe,ádìbà dìbà pyìnà kyà dzwe,[],,['chan2019'],,False,False,,1
+wapa1235-1-1000-2,,wapa1235-1,1000,dubu,dubu,[],,['chan2019'],,False,False,,1
+wapa1235-1-2000-1,,wapa1235-1,2000,ádìbà dìbà tswana,ádìbà dìbà tswana,[],( 20 x 100 ),['chan2019'],,False,False,,1

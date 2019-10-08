@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-akan1250-2-1-1,,akan1250-2,1,baakó̃,baakó̃,[],,[],,False,False,,2
-akan1250-2-2-1,,akan1250-2,2,mmienú,mmienú,[],,[],,False,False,,2
-akan1250-2-3-1,,akan1250-2,3,mmeɛnsã́,mmeɛnsã́,[],,[],,False,False,,2
-akan1250-2-4-1,,akan1250-2,4,(ɛ)náń,(ɛ)náń,[],,[],,False,False,,2
-akan1250-2-5-1,,akan1250-2,5,(e)núḿ,(e)núḿ,[],,[],,False,False,,2
-akan1250-2-6-1,,akan1250-2,6,(e)nsĩã́,(e)nsĩã́,[],,[],,False,False,,2
-akan1250-2-7-1,,akan1250-2,7,(ɛ)nsóń,(ɛ)nsóń,[],,[],,False,False,,2
-akan1250-2-8-1,,akan1250-2,8,nwɔtwé,nwɔtwé,[],,[],,False,False,,2
-akan1250-2-9-1,,akan1250-2,9,(ɛ)nkróń,(ɛ)nkróń,[],,[],,False,False,,2
-akan1250-2-10-1,,akan1250-2,10,(e)dú,(e)dú,[],,[],,False,False,,2
-akan1250-2-11-1,,akan1250-2,11,dú bakũ,dú bakũ,[],,[],,False,False,,2
-akan1250-2-12-1,,akan1250-2,12,dú mmienú,dú mmienú,[],,[],,False,False,,2
-akan1250-2-13-1,,akan1250-2,13,dú mmeɛnsã́,dú mmeɛnsã́,[],,[],,False,False,,2
-akan1250-2-14-1,,akan1250-2,14,dú náń,dú náń,[],,[],,False,False,,2
-akan1250-2-15-1,,akan1250-2,15,dú núḿ,dú núḿ,[],,[],,False,False,,2
-akan1250-2-16-1,,akan1250-2,16,dú nsĩã́,dú nsĩã́,[],,[],,False,False,,2
-akan1250-2-17-1,,akan1250-2,17,dú nsóń,dú nsóń,[],,[],,False,False,,2
-akan1250-2-18-1,,akan1250-2,18,dú nwɔtwé,dú nwɔtwé,[],,[],,False,False,,2
-akan1250-2-19-1,,akan1250-2,19,dú nkróń,dú nkróń,[],,[],,False,False,,2
-akan1250-2-20-1,,akan1250-2,20,aduonú,aduonú,[],,[],,False,False,,2
-akan1250-2-21-1,,akan1250-2,21,aduonú baakṍ,aduonú baakṍ,[],,[],,False,False,,2
-akan1250-2-22-1,,akan1250-2,22,aduonú mmienú,aduonú mmienú,[],,[],,False,False,,2
-akan1250-2-23-1,,akan1250-2,23,aduonú mmeɛnsã́,aduonú mmeɛnsã́,[],,[],,False,False,,2
-akan1250-2-24-1,,akan1250-2,24,aduonú náń,aduonú náń,[],,[],,False,False,,2
-akan1250-2-25-1,,akan1250-2,25,aduonú núḿ,aduonú núḿ,[],,[],,False,False,,2
-akan1250-2-26-1,,akan1250-2,26,aduonú nsĩã́,aduonú nsĩã́,[],,[],,False,False,,2
-akan1250-2-27-1,,akan1250-2,27,aduonú nsóń,aduonú nsóń,[],,[],,False,False,,2
-akan1250-2-28-1,,akan1250-2,28,aduonú nwɔtwé,aduonú nwɔtwé,[],,[],,False,False,,2
-akan1250-2-29-1,,akan1250-2,29,aduonú nkróń,aduonú nkróń,[],,[],,False,False,,2
-akan1250-2-30-1,,akan1250-2,30,aduasá,aduasá,[],,[],,False,False,,2
-akan1250-2-40-1,,akan1250-2,40,aduanáń,aduanáń,[],,[],,False,False,,2
-akan1250-2-50-1,,akan1250-2,50,aduonúḿ,aduonúḿ,[],,[],,False,False,,2
-akan1250-2-60-1,,akan1250-2,60,aduosĩã́,aduosĩã́,[],,[],,False,False,,2
-akan1250-2-70-1,,akan1250-2,70,aduɔsóń,aduɔsóń,[],,[],,False,False,,2
-akan1250-2-80-1,,akan1250-2,80,aduɔwɔ́twé,aduɔwɔ́twé,[],,[],,False,False,,2
-akan1250-2-90-1,,akan1250-2,90,aduɔnkróń,aduɔnkróń,[],,[],,False,False,,2
-akan1250-2-100-1,,akan1250-2,100,ɔha,ɔha,[],,[],,False,False,,2
-akan1250-2-200-1,,akan1250-2,200,ɔhaanu,ɔhaanu,[],,[],,False,False,,2
-akan1250-2-1000-1,,akan1250-2,1000,apéḿ,apéḿ,[],,[],,False,False,,2
-akan1250-2-2000-1,,akan1250-2,2000,mpéḿ mmienú,mpéḿ mmienú,[],,[],,False,False,,2
+akan1250-2-1-1,,akan1250-2,1,baakó̃,baakó̃,[],,['chan2019'],,False,False,,2
+akan1250-2-2-1,,akan1250-2,2,mmienú,mmienú,[],,['chan2019'],,False,False,,2
+akan1250-2-3-1,,akan1250-2,3,mmeɛnsã́,mmeɛnsã́,[],,['chan2019'],,False,False,,2
+akan1250-2-4-1,,akan1250-2,4,(ɛ)náń,(ɛ)náń,[],,['chan2019'],,False,False,,2
+akan1250-2-5-1,,akan1250-2,5,(e)núḿ,(e)núḿ,[],,['chan2019'],,False,False,,2
+akan1250-2-6-1,,akan1250-2,6,(e)nsĩã́,(e)nsĩã́,[],,['chan2019'],,False,False,,2
+akan1250-2-7-1,,akan1250-2,7,(ɛ)nsóń,(ɛ)nsóń,[],,['chan2019'],,False,False,,2
+akan1250-2-8-1,,akan1250-2,8,nwɔtwé,nwɔtwé,[],,['chan2019'],,False,False,,2
+akan1250-2-9-1,,akan1250-2,9,(ɛ)nkróń,(ɛ)nkróń,[],,['chan2019'],,False,False,,2
+akan1250-2-10-1,,akan1250-2,10,(e)dú,(e)dú,[],,['chan2019'],,False,False,,2
+akan1250-2-11-1,,akan1250-2,11,dú bakũ,dú bakũ,[],,['chan2019'],,False,False,,2
+akan1250-2-12-1,,akan1250-2,12,dú mmienú,dú mmienú,[],,['chan2019'],,False,False,,2
+akan1250-2-13-1,,akan1250-2,13,dú mmeɛnsã́,dú mmeɛnsã́,[],,['chan2019'],,False,False,,2
+akan1250-2-14-1,,akan1250-2,14,dú náń,dú náń,[],,['chan2019'],,False,False,,2
+akan1250-2-15-1,,akan1250-2,15,dú núḿ,dú núḿ,[],,['chan2019'],,False,False,,2
+akan1250-2-16-1,,akan1250-2,16,dú nsĩã́,dú nsĩã́,[],,['chan2019'],,False,False,,2
+akan1250-2-17-1,,akan1250-2,17,dú nsóń,dú nsóń,[],,['chan2019'],,False,False,,2
+akan1250-2-18-1,,akan1250-2,18,dú nwɔtwé,dú nwɔtwé,[],,['chan2019'],,False,False,,2
+akan1250-2-19-1,,akan1250-2,19,dú nkróń,dú nkróń,[],,['chan2019'],,False,False,,2
+akan1250-2-20-1,,akan1250-2,20,aduonú,aduonú,[],,['chan2019'],,False,False,,2
+akan1250-2-21-1,,akan1250-2,21,aduonú baakṍ,aduonú baakṍ,[],,['chan2019'],,False,False,,2
+akan1250-2-22-1,,akan1250-2,22,aduonú mmienú,aduonú mmienú,[],,['chan2019'],,False,False,,2
+akan1250-2-23-1,,akan1250-2,23,aduonú mmeɛnsã́,aduonú mmeɛnsã́,[],,['chan2019'],,False,False,,2
+akan1250-2-24-1,,akan1250-2,24,aduonú náń,aduonú náń,[],,['chan2019'],,False,False,,2
+akan1250-2-25-1,,akan1250-2,25,aduonú núḿ,aduonú núḿ,[],,['chan2019'],,False,False,,2
+akan1250-2-26-1,,akan1250-2,26,aduonú nsĩã́,aduonú nsĩã́,[],,['chan2019'],,False,False,,2
+akan1250-2-27-1,,akan1250-2,27,aduonú nsóń,aduonú nsóń,[],,['chan2019'],,False,False,,2
+akan1250-2-28-1,,akan1250-2,28,aduonú nwɔtwé,aduonú nwɔtwé,[],,['chan2019'],,False,False,,2
+akan1250-2-29-1,,akan1250-2,29,aduonú nkróń,aduonú nkróń,[],,['chan2019'],,False,False,,2
+akan1250-2-30-1,,akan1250-2,30,aduasá,aduasá,[],,['chan2019'],,False,False,,2
+akan1250-2-40-1,,akan1250-2,40,aduanáń,aduanáń,[],,['chan2019'],,False,False,,2
+akan1250-2-50-1,,akan1250-2,50,aduonúḿ,aduonúḿ,[],,['chan2019'],,False,False,,2
+akan1250-2-60-1,,akan1250-2,60,aduosĩã́,aduosĩã́,[],,['chan2019'],,False,False,,2
+akan1250-2-70-1,,akan1250-2,70,aduɔsóń,aduɔsóń,[],,['chan2019'],,False,False,,2
+akan1250-2-80-1,,akan1250-2,80,aduɔwɔ́twé,aduɔwɔ́twé,[],,['chan2019'],,False,False,,2
+akan1250-2-90-1,,akan1250-2,90,aduɔnkróń,aduɔnkróń,[],,['chan2019'],,False,False,,2
+akan1250-2-100-1,,akan1250-2,100,ɔha,ɔha,[],,['chan2019'],,False,False,,2
+akan1250-2-200-1,,akan1250-2,200,ɔhaanu,ɔhaanu,[],,['chan2019'],,False,False,,2
+akan1250-2-1000-1,,akan1250-2,1000,apéḿ,apéḿ,[],,['chan2019'],,False,False,,2
+akan1250-2-2000-1,,akan1250-2,2000,mpéḿ mmienú,mpéḿ mmienú,[],,['chan2019'],,False,False,,2

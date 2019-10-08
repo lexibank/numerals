@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-buru1304-1-1-1,,buru1304-1,1,satu,satu,[],,[],,False,False,,1
-buru1304-1-2-1,,buru1304-1,2,duŋaiʔ,duŋaiʔ,[],,[],,False,False,,1
-buru1304-1-3-1,,buru1304-1,3,taluʔ,taluʔ,[],,[],,False,False,,1
-buru1304-1-4-1,,buru1304-1,4,mpat,mpat,[],,[],,False,False,,1
-buru1304-1-5-1,,buru1304-1,5,lima,lima,[],,[],,False,False,,1
-buru1304-1-6-1,,buru1304-1,6,nam,nam,[],,[],,False,False,,1
-buru1304-1-7-1,,buru1304-1,7,turuʔ,turuʔ,[],,[],,False,False,,1
-buru1304-1-8-1,,buru1304-1,8,laoan,laoan,[],,[],,False,False,,1
-buru1304-1-9-1,,buru1304-1,9,səmbilan,səmbilan,[],,[],,False,False,,1
-buru1304-1-10-1,,buru1304-1,10,səpuluh,səpuluh,[],,[],,False,False,,1
-buru1304-1-20-1,,buru1304-1,20,duə puluʔ,duə puluʔ,[],,[],,False,False,,1
-buru1304-1-100-1,,buru1304-1,100,səratus,səratus,[],,[],,False,False,,1
-buru1304-1-1000-1,,buru1304-1,1000,səlibu,səlibu,[],,[],,False,False,,1
+buru1304-1-1-1,,buru1304-1,1,satu,satu,[],,['chan2019'],,False,False,,1
+buru1304-1-2-1,,buru1304-1,2,duŋaiʔ,duŋaiʔ,[],,['chan2019'],,False,False,,1
+buru1304-1-3-1,,buru1304-1,3,taluʔ,taluʔ,[],,['chan2019'],,False,False,,1
+buru1304-1-4-1,,buru1304-1,4,mpat,mpat,[],,['chan2019'],,False,False,,1
+buru1304-1-5-1,,buru1304-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+buru1304-1-6-1,,buru1304-1,6,nam,nam,[],,['chan2019'],,False,False,,1
+buru1304-1-7-1,,buru1304-1,7,turuʔ,turuʔ,[],,['chan2019'],,False,False,,1
+buru1304-1-8-1,,buru1304-1,8,laoan,laoan,[],,['chan2019'],,False,False,,1
+buru1304-1-9-1,,buru1304-1,9,səmbilan,səmbilan,[],,['chan2019'],,False,False,,1
+buru1304-1-10-1,,buru1304-1,10,səpuluh,səpuluh,[],,['chan2019'],,False,False,,1
+buru1304-1-20-1,,buru1304-1,20,duə puluʔ,duə puluʔ,[],,['chan2019'],,False,False,,1
+buru1304-1-100-1,,buru1304-1,100,səratus,səratus,[],,['chan2019'],,False,False,,1
+buru1304-1-1000-1,,buru1304-1,1000,səlibu,səlibu,[],,['chan2019'],,False,False,,1

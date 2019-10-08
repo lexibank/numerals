@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-doon1238-1-1-1,,doon1238-1,1,-mɔsi,-mɔsi,[],,[],,False,False,,1
-doon1238-1-2-1,,doon1238-1,2,-ɔɔle,-ɔɔle,[],,[],,False,False,,1
-doon1238-1-3-1,,doon1238-1,3,-tatu,-tatu,[],,[],,False,False,,1
-doon1238-1-4-1,,doon1238-1,4,-ya,-ya,[],,[],,False,False,,1
-doon1238-1-5-1,,doon1238-1,5,-taanu,-taanu,[],,[],,False,False,,1
-doon1238-1-6-1,,doon1238-1,6,-saamanu,-saamanu,[],,[],,False,False,,1
-doon1238-1-7-1,,doon1238-1,7,-nsambwaadi,-nsambwaadi,[],,[],,False,False,,1
-doon1238-1-8-1,,doon1238-1,8,-naana,-naana,[],,[],,False,False,,1
-doon1238-1-9-1,,doon1238-1,9,-vwa,-vwa,[],,[],,False,False,,1
-doon1238-1-10-1,,doon1238-1,10,kuumi,kuumi,[],,[],,False,False,,1
-doon1238-1-11-1,,doon1238-1,11,kuumi na -mɔsi,kuumi na -mɔsi,[],,[],,False,False,,1
-doon1238-1-12-1,,doon1238-1,12,kuumi na -ɔɔle,kuumi na -ɔɔle,[],,[],,False,False,,1
-doon1238-1-13-1,,doon1238-1,13,kuumi na -taatu,kuumi na -taatu,[],,[],,False,False,,1
-doon1238-1-14-1,,doon1238-1,14,kuumi na -ya,kuumi na -ya,[],,[],,False,False,,1
-doon1238-1-15-1,,doon1238-1,15,kuumi na -taanu,kuumi na -taanu,[],,[],,False,False,,1
-doon1238-1-16-1,,doon1238-1,16,kuumi na -saamanu,kuumi na -saamanu,[],,[],,False,False,,1
-doon1238-1-17-1,,doon1238-1,17,kuumi na nsambwaadi,kuumi na nsambwaadi,[],,[],,False,False,,1
-doon1238-1-18-1,,doon1238-1,18,kuumi na naana,kuumi na naana,[],,[],,False,False,,1
-doon1238-1-19-1,,doon1238-1,19,kuumi na vwa,kuumi na vwa,[],,[],,False,False,,1
-doon1238-1-20-1,,doon1238-1,20,ma-ku m-ɔɔle,ma-ku m-ɔɔle,[],,[],,False,False,,1
-doon1238-1-21-1,,doon1238-1,21,ma-ku m-ɔɔle na -mɔsi,ma-ku m-ɔɔle na -mɔsi,[],,[],,False,False,,1
-doon1238-1-22-1,,doon1238-1,22,ma-ku m-ɔɔle na -ɔɔlɛ,ma-ku m-ɔɔle na -ɔɔlɛ,[],,[],,False,False,,1
-doon1238-1-23-1,,doon1238-1,23,ma-ku m-ɔɔle na -taatu,ma-ku m-ɔɔle na -taatu,[],,[],,False,False,,1
-doon1238-1-24-1,,doon1238-1,24,ma-ku m-ɔɔle na -ya,ma-ku m-ɔɔle na -ya,[],,[],,False,False,,1
-doon1238-1-25-1,,doon1238-1,25,ma-ku m-ɔɔle na -taanu,ma-ku m-ɔɔle na -taanu,[],,[],,False,False,,1
-doon1238-1-26-1,,doon1238-1,26,ma-ku m-ɔɔle na -saamanu,ma-ku m-ɔɔle na -saamanu,[],,[],,False,False,,1
-doon1238-1-27-1,,doon1238-1,27,ma-ku m-ɔɔle na nsambwaadi,ma-ku m-ɔɔle na nsambwaadi,[],,[],,False,False,,1
-doon1238-1-28-1,,doon1238-1,28,ma-ku m-ɔɔle na naana,ma-ku m-ɔɔle na naana,[],,[],,False,False,,1
-doon1238-1-29-1,,doon1238-1,29,ma-ku m-ɔɔle na vwa,ma-ku m-ɔɔle na vwa,[],,[],,False,False,,1
-doon1238-1-30-1,,doon1238-1,30,ma-ku ma-tatu,ma-ku ma-tatu,[],,[],,False,False,,1
-doon1238-1-40-1,,doon1238-1,40,ma-ku ma-ya,ma-ku ma-ya,[],,[],,False,False,,1
-doon1238-1-50-1,,doon1238-1,50,ma-ku ma-taanu,ma-ku ma-taanu,[],,[],,False,False,,1
-doon1238-1-60-1,,doon1238-1,60,ma-ku ma-saamanu,ma-ku ma-saamanu,[],,[],,False,False,,1
-doon1238-1-70-1,,doon1238-1,70,ma-ku nsambwaadi,ma-ku nsambwaadi,[],,[],,False,False,,1
-doon1238-1-80-1,,doon1238-1,80,ma-ku naana,ma-ku naana,[],,[],,False,False,,1
-doon1238-1-90-1,,doon1238-1,90,ma-ku vwa,ma-ku vwa,[],,[],,False,False,,1
-doon1238-1-100-1,,doon1238-1,100,ŋkaama,ŋkaama,[],,[],,False,False,,1
-doon1238-1-200-1,,doon1238-1,200,ŋkaama z-ɔɔle,ŋkaama z-ɔɔle,[],,[],,False,False,,1
+doon1238-1-1-1,,doon1238-1,1,-mɔsi,-mɔsi,[],,['chan2019'],,False,False,,1
+doon1238-1-2-1,,doon1238-1,2,-ɔɔle,-ɔɔle,[],,['chan2019'],,False,False,,1
+doon1238-1-3-1,,doon1238-1,3,-tatu,-tatu,[],,['chan2019'],,False,False,,1
+doon1238-1-4-1,,doon1238-1,4,-ya,-ya,[],,['chan2019'],,False,False,,1
+doon1238-1-5-1,,doon1238-1,5,-taanu,-taanu,[],,['chan2019'],,False,False,,1
+doon1238-1-6-1,,doon1238-1,6,-saamanu,-saamanu,[],,['chan2019'],,False,False,,1
+doon1238-1-7-1,,doon1238-1,7,-nsambwaadi,-nsambwaadi,[],,['chan2019'],,False,False,,1
+doon1238-1-8-1,,doon1238-1,8,-naana,-naana,[],,['chan2019'],,False,False,,1
+doon1238-1-9-1,,doon1238-1,9,-vwa,-vwa,[],,['chan2019'],,False,False,,1
+doon1238-1-10-1,,doon1238-1,10,kuumi,kuumi,[],,['chan2019'],,False,False,,1
+doon1238-1-11-1,,doon1238-1,11,kuumi na -mɔsi,kuumi na -mɔsi,[],,['chan2019'],,False,False,,1
+doon1238-1-12-1,,doon1238-1,12,kuumi na -ɔɔle,kuumi na -ɔɔle,[],,['chan2019'],,False,False,,1
+doon1238-1-13-1,,doon1238-1,13,kuumi na -taatu,kuumi na -taatu,[],,['chan2019'],,False,False,,1
+doon1238-1-14-1,,doon1238-1,14,kuumi na -ya,kuumi na -ya,[],,['chan2019'],,False,False,,1
+doon1238-1-15-1,,doon1238-1,15,kuumi na -taanu,kuumi na -taanu,[],,['chan2019'],,False,False,,1
+doon1238-1-16-1,,doon1238-1,16,kuumi na -saamanu,kuumi na -saamanu,[],,['chan2019'],,False,False,,1
+doon1238-1-17-1,,doon1238-1,17,kuumi na nsambwaadi,kuumi na nsambwaadi,[],,['chan2019'],,False,False,,1
+doon1238-1-18-1,,doon1238-1,18,kuumi na naana,kuumi na naana,[],,['chan2019'],,False,False,,1
+doon1238-1-19-1,,doon1238-1,19,kuumi na vwa,kuumi na vwa,[],,['chan2019'],,False,False,,1
+doon1238-1-20-1,,doon1238-1,20,ma-ku m-ɔɔle,ma-ku m-ɔɔle,[],,['chan2019'],,False,False,,1
+doon1238-1-21-1,,doon1238-1,21,ma-ku m-ɔɔle na -mɔsi,ma-ku m-ɔɔle na -mɔsi,[],,['chan2019'],,False,False,,1
+doon1238-1-22-1,,doon1238-1,22,ma-ku m-ɔɔle na -ɔɔlɛ,ma-ku m-ɔɔle na -ɔɔlɛ,[],,['chan2019'],,False,False,,1
+doon1238-1-23-1,,doon1238-1,23,ma-ku m-ɔɔle na -taatu,ma-ku m-ɔɔle na -taatu,[],,['chan2019'],,False,False,,1
+doon1238-1-24-1,,doon1238-1,24,ma-ku m-ɔɔle na -ya,ma-ku m-ɔɔle na -ya,[],,['chan2019'],,False,False,,1
+doon1238-1-25-1,,doon1238-1,25,ma-ku m-ɔɔle na -taanu,ma-ku m-ɔɔle na -taanu,[],,['chan2019'],,False,False,,1
+doon1238-1-26-1,,doon1238-1,26,ma-ku m-ɔɔle na -saamanu,ma-ku m-ɔɔle na -saamanu,[],,['chan2019'],,False,False,,1
+doon1238-1-27-1,,doon1238-1,27,ma-ku m-ɔɔle na nsambwaadi,ma-ku m-ɔɔle na nsambwaadi,[],,['chan2019'],,False,False,,1
+doon1238-1-28-1,,doon1238-1,28,ma-ku m-ɔɔle na naana,ma-ku m-ɔɔle na naana,[],,['chan2019'],,False,False,,1
+doon1238-1-29-1,,doon1238-1,29,ma-ku m-ɔɔle na vwa,ma-ku m-ɔɔle na vwa,[],,['chan2019'],,False,False,,1
+doon1238-1-30-1,,doon1238-1,30,ma-ku ma-tatu,ma-ku ma-tatu,[],,['chan2019'],,False,False,,1
+doon1238-1-40-1,,doon1238-1,40,ma-ku ma-ya,ma-ku ma-ya,[],,['chan2019'],,False,False,,1
+doon1238-1-50-1,,doon1238-1,50,ma-ku ma-taanu,ma-ku ma-taanu,[],,['chan2019'],,False,False,,1
+doon1238-1-60-1,,doon1238-1,60,ma-ku ma-saamanu,ma-ku ma-saamanu,[],,['chan2019'],,False,False,,1
+doon1238-1-70-1,,doon1238-1,70,ma-ku nsambwaadi,ma-ku nsambwaadi,[],,['chan2019'],,False,False,,1
+doon1238-1-80-1,,doon1238-1,80,ma-ku naana,ma-ku naana,[],,['chan2019'],,False,False,,1
+doon1238-1-90-1,,doon1238-1,90,ma-ku vwa,ma-ku vwa,[],,['chan2019'],,False,False,,1
+doon1238-1-100-1,,doon1238-1,100,ŋkaama,ŋkaama,[],,['chan2019'],,False,False,,1
+doon1238-1-200-1,,doon1238-1,200,ŋkaama z-ɔɔle,ŋkaama z-ɔɔle,[],,['chan2019'],,False,False,,1

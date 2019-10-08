@@ -1,23 +1,23 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kari1311-2-1-1,,kari1311-2,1,mɨ̃hĩn,mɨ̃hĩn,[],,[],,False,False,,2
-kari1311-2-2-1,,kari1311-2,2,sɨpõm,sɨpõm,[],,[],,False,False,,2
-kari1311-2-3-1,,kari1311-2,3,mɨ̃ɲɨ̃m,mɨ̃ɲɨ̃m,[],,[],,False,False,,2
-kari1311-2-4-1,,kari1311-2,4,otannɨ̃mɨ̃n,otannɨ̃mɨ̃n,[],,[],,False,False,,2
-kari1311-2-5-1,,kari1311-2,5,ɨj pɨt,ɨj pɨt,[],,[],,False,False,,2
-kari1311-2-6-1,,kari1311-2,6,mɨ̃hĩn ɨj pɨ ota ʔōt,mɨ̃hĩn ɨj pɨ ota ʔōt,[],,[],,False,False,,2
-kari1311-2-7-1,,kari1311-2,7,sɨpõm ɨj pɨ ota ʔōt,sɨpõm ɨj pɨ ota ʔōt,[],,[],,False,False,,2
-kari1311-2-8-1,,kari1311-2,8,mɨ̃ɲɨ̃m ɨj pɨ ota ʔōt,mɨ̃ɲɨ̃m ɨj pɨ ota ʔōt,[],,[],,False,False,,2
-kari1311-2-9-1,,kari1311-2,9,otannɨ̃mɨ̃n ɨj pɨ ota ʔōt,otannɨ̃mɨ̃n ɨj pɨ ota ʔōt,[],,[],,False,False,,2
-kari1311-2-10-1,,kari1311-2,10,ɨj pɨt ota tɨta,ɨj pɨt ota tɨta,[],,[],,False,False,,2
-kari1311-2-11-1,,kari1311-2,11,mɨ̃hĩn ɨj pi ʔōt,mɨ̃hĩn ɨj pi ʔōt,[],,[],,False,False,,2
-kari1311-2-12-1,,kari1311-2,12,sɨpõm ɨj pi ʔōt,sɨpõm ɨj pi ʔōt,[],,[],,False,False,,2
-kari1311-2-15-1,,kari1311-2,15,mɨ̃hĩn ɨj pipɨt,mɨ̃hĩn ɨj pipɨt,[],,[],,False,False,,2
-kari1311-2-16-1,,kari1311-2,16,mɨ̃hĩn ɨj pi ota ʔōt,mɨ̃hĩn ɨj pi ota ʔōt,[],,[],,False,False,,2
-kari1311-2-17-1,,kari1311-2,17,sɨpõm ɨj pi ota ʔōt,sɨpõm ɨj pi ota ʔōt,[],,[],,False,False,,2
-kari1311-2-20-1,,kari1311-2,20,mɨ̃hĩn pipɨk,mɨ̃hĩn pipɨk,[],,[],,False,False,,2
-kari1311-2-21-1,,kari1311-2,21,mɨ̃hĩn ɨj ota pɨ ʔōt,mɨ̃hĩn ɨj ota pɨ ʔōt,[],,[],,False,False,,2
-kari1311-2-25-1,,kari1311-2,25,mɨ̃hĩn ɨj ota pɨpɨt,mɨ̃hĩn ɨj ota pɨpɨt,[],,[],,False,False,,2
-kari1311-2-26-1,,kari1311-2,26,mɨ̃hĩn ɨj ota pɨta ʔōt,mɨ̃hĩn ɨj ota pɨta ʔōt,[],,[],,False,False,,2
-kari1311-2-27-1,,kari1311-2,27,sɨpõm ɨj ota pɨta ʔōt,sɨpõm ɨj ota pɨta ʔōt,[],,[],,False,False,,2
-kari1311-2-30-1,,kari1311-2,30,sɨpõm ɨj ki pɨpɨk,sɨpõm ɨj ki pɨpɨk,[],,[],,False,False,,2
-kari1311-2-40-1,,kari1311-2,40,mɨ̃hĩn ɨj otapi ʔōt,mɨ̃hĩn ɨj otapi ʔōt,[],,[],,False,False,,2
+kari1311-2-1-1,,kari1311-2,1,mɨ̃hĩn,mɨ̃hĩn,[],,['chan2019'],,False,False,,2
+kari1311-2-2-1,,kari1311-2,2,sɨpõm,sɨpõm,[],,['chan2019'],,False,False,,2
+kari1311-2-3-1,,kari1311-2,3,mɨ̃ɲɨ̃m,mɨ̃ɲɨ̃m,[],,['chan2019'],,False,False,,2
+kari1311-2-4-1,,kari1311-2,4,otannɨ̃mɨ̃n,otannɨ̃mɨ̃n,[],,['chan2019'],,False,False,,2
+kari1311-2-5-1,,kari1311-2,5,ɨj pɨt,ɨj pɨt,[],,['chan2019'],,False,False,,2
+kari1311-2-6-1,,kari1311-2,6,mɨ̃hĩn ɨj pɨ ota ʔōt,mɨ̃hĩn ɨj pɨ ota ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-7-1,,kari1311-2,7,sɨpõm ɨj pɨ ota ʔōt,sɨpõm ɨj pɨ ota ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-8-1,,kari1311-2,8,mɨ̃ɲɨ̃m ɨj pɨ ota ʔōt,mɨ̃ɲɨ̃m ɨj pɨ ota ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-9-1,,kari1311-2,9,otannɨ̃mɨ̃n ɨj pɨ ota ʔōt,otannɨ̃mɨ̃n ɨj pɨ ota ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-10-1,,kari1311-2,10,ɨj pɨt ota tɨta,ɨj pɨt ota tɨta,[],,['chan2019'],,False,False,,2
+kari1311-2-11-1,,kari1311-2,11,mɨ̃hĩn ɨj pi ʔōt,mɨ̃hĩn ɨj pi ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-12-1,,kari1311-2,12,sɨpõm ɨj pi ʔōt,sɨpõm ɨj pi ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-15-1,,kari1311-2,15,mɨ̃hĩn ɨj pipɨt,mɨ̃hĩn ɨj pipɨt,[],,['chan2019'],,False,False,,2
+kari1311-2-16-1,,kari1311-2,16,mɨ̃hĩn ɨj pi ota ʔōt,mɨ̃hĩn ɨj pi ota ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-17-1,,kari1311-2,17,sɨpõm ɨj pi ota ʔōt,sɨpõm ɨj pi ota ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-20-1,,kari1311-2,20,mɨ̃hĩn pipɨk,mɨ̃hĩn pipɨk,[],,['chan2019'],,False,False,,2
+kari1311-2-21-1,,kari1311-2,21,mɨ̃hĩn ɨj ota pɨ ʔōt,mɨ̃hĩn ɨj ota pɨ ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-25-1,,kari1311-2,25,mɨ̃hĩn ɨj ota pɨpɨt,mɨ̃hĩn ɨj ota pɨpɨt,[],,['chan2019'],,False,False,,2
+kari1311-2-26-1,,kari1311-2,26,mɨ̃hĩn ɨj ota pɨta ʔōt,mɨ̃hĩn ɨj ota pɨta ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-27-1,,kari1311-2,27,sɨpõm ɨj ota pɨta ʔōt,sɨpõm ɨj ota pɨta ʔōt,[],,['chan2019'],,False,False,,2
+kari1311-2-30-1,,kari1311-2,30,sɨpõm ɨj ki pɨpɨk,sɨpõm ɨj ki pɨpɨk,[],,['chan2019'],,False,False,,2
+kari1311-2-40-1,,kari1311-2,40,mɨ̃hĩn ɨj otapi ʔōt,mɨ̃hĩn ɨj otapi ʔōt,[],,['chan2019'],,False,False,,2

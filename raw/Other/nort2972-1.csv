@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nort2972-1-1-1,,nort2972-1,1,abá,abá,[],,[],,False,False,,1
-nort2972-1-2-1,,nort2972-1,2,ũme,ũme,[],,[],,False,False,,1
-nort2972-1-2-2,,nort2972-1,2,õme,õme,[],,[],,False,False,,1
-nort2972-1-3-1,,nort2972-1,3,ũbea,ũbea,[],,[],,False,False,,1
-nort2972-1-3-2,,nort2972-1,3,õbea,õbea,[],,[],,False,False,,1
-nort2972-1-4-1,,nort2972-1,4,kimárẽ,kimárẽ,[],,[],,False,False,,1
-nort2972-1-5-1,,nort2972-1,5,huesoma,huesoma,[],,[],,False,False,,1
-nort2972-1-5-2,,nort2972-1,5,huasoma,huasoma,[],(litː ''one hand'' ),[],,False,False,,1
-nort2972-1-6-1,,nort2972-1,6,seis,seis,[],( six up from Spanish ),[],,False,False,,1
-nort2972-1-7-1,,nort2972-1,7,siete,siete,[],( < Spanish ),[],,True,False,,1
-nort2972-1-100-1,,nort2972-1,100,cien,cien,[],( < Spanish ),[],,True,False,,1
-nort2972-1-200-1,,nort2972-1,200,dosciento(s),dosciento(s),[],( < Spanish ),[],,True,False,,1
-nort2972-1-1000-1,,nort2972-1,1000,mil,mil,[],( < Spanish ),[],,True,False,,1
-nort2972-1-2000-1,,nort2972-1,2000,dos mil,dos mil,[],( < Spanish ),[],,True,False,,1
+nort2972-1-1-1,,nort2972-1,1,abá,abá,[],,['chan2019'],,False,False,,1
+nort2972-1-2-1,,nort2972-1,2,ũme,ũme,[],,['chan2019'],,False,False,,1
+nort2972-1-2-2,,nort2972-1,2,õme,õme,[],,['chan2019'],,False,False,,1
+nort2972-1-3-1,,nort2972-1,3,ũbea,ũbea,[],,['chan2019'],,False,False,,1
+nort2972-1-3-2,,nort2972-1,3,õbea,õbea,[],,['chan2019'],,False,False,,1
+nort2972-1-4-1,,nort2972-1,4,kimárẽ,kimárẽ,[],,['chan2019'],,False,False,,1
+nort2972-1-5-1,,nort2972-1,5,huesoma,huesoma,[],,['chan2019'],,False,False,,1
+nort2972-1-5-2,,nort2972-1,5,huasoma,huasoma,[],(litː ''one hand'' ),['chan2019'],,False,False,,1
+nort2972-1-6-1,,nort2972-1,6,seis,seis,[],( six up from Spanish ),['chan2019'],,False,False,,1
+nort2972-1-7-1,,nort2972-1,7,siete,siete,[],( < Spanish ),['chan2019'],,True,False,,1
+nort2972-1-100-1,,nort2972-1,100,cien,cien,[],( < Spanish ),['chan2019'],,True,False,,1
+nort2972-1-200-1,,nort2972-1,200,dosciento(s),dosciento(s),[],( < Spanish ),['chan2019'],,True,False,,1
+nort2972-1-1000-1,,nort2972-1,1000,mil,mil,[],( < Spanish ),['chan2019'],,True,False,,1
+nort2972-1-2000-1,,nort2972-1,2000,dos mil,dos mil,[],( < Spanish ),['chan2019'],,True,False,,1

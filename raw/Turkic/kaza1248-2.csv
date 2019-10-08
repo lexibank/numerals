@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kaza1248-2-1-1,,kaza1248-2,1,bir,bir,[],,[],,False,False,,2
-kaza1248-2-2-1,,kaza1248-2,2,eki,eki,[],,[],,False,False,,2
-kaza1248-2-3-1,,kaza1248-2,3,yʃ,yʃ,[],,[],,False,False,,2
-kaza1248-2-4-1,,kaza1248-2,4,tørt,tørt,[],,[],,False,False,,2
-kaza1248-2-5-1,,kaza1248-2,5,beʃ,beʃ,[],,[],,False,False,,2
-kaza1248-2-6-1,,kaza1248-2,6,ɑltə,ɑltə,[],,[],,False,False,,2
-kaza1248-2-7-1,,kaza1248-2,7,dʒeti,dʒeti,[],,[],,False,False,,2
-kaza1248-2-8-1,,kaza1248-2,8,segiz,segiz,[],,[],,False,False,,2
-kaza1248-2-9-1,,kaza1248-2,9,toʁəz,toʁəz,[],,[],,False,False,,2
-kaza1248-2-10-1,,kaza1248-2,10,on,on,[],,[],,False,False,,2
-kaza1248-2-11-1,,kaza1248-2,11,on bir,on bir,[],,[],,False,False,,2
-kaza1248-2-12-1,,kaza1248-2,12,on eki,on eki,[],,[],,False,False,,2
-kaza1248-2-13-1,,kaza1248-2,13,on yʃ,on yʃ,[],,[],,False,False,,2
-kaza1248-2-14-1,,kaza1248-2,14,on dørt,on dørt,[],,[],,False,False,,2
-kaza1248-2-15-1,,kaza1248-2,15,on beʃ,on beʃ,[],,[],,False,False,,2
-kaza1248-2-16-1,,kaza1248-2,16,on ɑltə,on ɑltə,[],,[],,False,False,,2
-kaza1248-2-17-1,,kaza1248-2,17,on dʒeti,on dʒeti,[],,[],,False,False,,2
-kaza1248-2-18-1,,kaza1248-2,18,on segiz,on segiz,[],,[],,False,False,,2
-kaza1248-2-19-1,,kaza1248-2,19,on toʁəz,on toʁəz,[],,[],,False,False,,2
-kaza1248-2-20-1,,kaza1248-2,20,dʒəjərmɑ,dʒəjərmɑ,[],,[],,False,False,,2
-kaza1248-2-21-1,,kaza1248-2,21,dʒəjərmɑ bir,dʒəjərmɑ bir,[],,[],,False,False,,2
-kaza1248-2-22-1,,kaza1248-2,22,dʒəjərmɑ eki,dʒəjərmɑ eki,[],,[],,False,False,,2
-kaza1248-2-23-1,,kaza1248-2,23,dʒəjərmɑ yʃ,dʒəjərmɑ yʃ,[],,[],,False,False,,2
-kaza1248-2-24-1,,kaza1248-2,24,dʒəjərmɑ tørt,dʒəjərmɑ tørt,[],,[],,False,False,,2
-kaza1248-2-25-1,,kaza1248-2,25,dʒəjərmɑ beʃ,dʒəjərmɑ beʃ,[],,[],,False,False,,2
-kaza1248-2-26-1,,kaza1248-2,26,dʒəjərmɑ ɑltə,dʒəjərmɑ ɑltə,[],,[],,False,False,,2
-kaza1248-2-27-1,,kaza1248-2,27,dʒəjərmɑ dʒeti,dʒəjərmɑ dʒeti,[],,[],,False,False,,2
-kaza1248-2-28-1,,kaza1248-2,28,dʒəjərmɑ segiz,dʒəjərmɑ segiz,[],,[],,False,False,,2
-kaza1248-2-29-1,,kaza1248-2,29,dʒəjərmɑ toʁəz,dʒəjərmɑ toʁəz,[],,[],,False,False,,2
-kaza1248-2-30-1,,kaza1248-2,30,otəz,otəz,[],,[],,False,False,,2
-kaza1248-2-40-1,,kaza1248-2,40,qərəq,qərəq,[],,[],,False,False,,2
-kaza1248-2-50-1,,kaza1248-2,50,eliw,eliw,[],,[],,False,False,,2
-kaza1248-2-60-1,,kaza1248-2,60,ɑlpəs,ɑlpəs,[],,[],,False,False,,2
-kaza1248-2-70-1,,kaza1248-2,70,dʒetpis,dʒetpis,[],,[],,False,False,,2
-kaza1248-2-80-1,,kaza1248-2,80,seksen,seksen,[],,[],,False,False,,2
-kaza1248-2-90-1,,kaza1248-2,90,toqsɑn,toqsɑn,[],,[],,False,False,,2
-kaza1248-2-100-1,,kaza1248-2,100,dʒyz,dʒyz,[],,[],,False,False,,2
-kaza1248-2-200-1,,kaza1248-2,200,eki dʒyz,eki dʒyz,[],,[],,False,False,,2
-kaza1248-2-1000-1,,kaza1248-2,1000,bir məŋ,bir məŋ,[],,[],,False,False,,2
-kaza1248-2-2000-1,,kaza1248-2,2000,eki məŋ,eki məŋ,[],,[],,False,False,,2
+kaza1248-2-1-1,,kaza1248-2,1,bir,bir,[],,['chan2019'],,False,False,,2
+kaza1248-2-2-1,,kaza1248-2,2,eki,eki,[],,['chan2019'],,False,False,,2
+kaza1248-2-3-1,,kaza1248-2,3,yʃ,yʃ,[],,['chan2019'],,False,False,,2
+kaza1248-2-4-1,,kaza1248-2,4,tørt,tørt,[],,['chan2019'],,False,False,,2
+kaza1248-2-5-1,,kaza1248-2,5,beʃ,beʃ,[],,['chan2019'],,False,False,,2
+kaza1248-2-6-1,,kaza1248-2,6,ɑltə,ɑltə,[],,['chan2019'],,False,False,,2
+kaza1248-2-7-1,,kaza1248-2,7,dʒeti,dʒeti,[],,['chan2019'],,False,False,,2
+kaza1248-2-8-1,,kaza1248-2,8,segiz,segiz,[],,['chan2019'],,False,False,,2
+kaza1248-2-9-1,,kaza1248-2,9,toʁəz,toʁəz,[],,['chan2019'],,False,False,,2
+kaza1248-2-10-1,,kaza1248-2,10,on,on,[],,['chan2019'],,False,False,,2
+kaza1248-2-11-1,,kaza1248-2,11,on bir,on bir,[],,['chan2019'],,False,False,,2
+kaza1248-2-12-1,,kaza1248-2,12,on eki,on eki,[],,['chan2019'],,False,False,,2
+kaza1248-2-13-1,,kaza1248-2,13,on yʃ,on yʃ,[],,['chan2019'],,False,False,,2
+kaza1248-2-14-1,,kaza1248-2,14,on dørt,on dørt,[],,['chan2019'],,False,False,,2
+kaza1248-2-15-1,,kaza1248-2,15,on beʃ,on beʃ,[],,['chan2019'],,False,False,,2
+kaza1248-2-16-1,,kaza1248-2,16,on ɑltə,on ɑltə,[],,['chan2019'],,False,False,,2
+kaza1248-2-17-1,,kaza1248-2,17,on dʒeti,on dʒeti,[],,['chan2019'],,False,False,,2
+kaza1248-2-18-1,,kaza1248-2,18,on segiz,on segiz,[],,['chan2019'],,False,False,,2
+kaza1248-2-19-1,,kaza1248-2,19,on toʁəz,on toʁəz,[],,['chan2019'],,False,False,,2
+kaza1248-2-20-1,,kaza1248-2,20,dʒəjərmɑ,dʒəjərmɑ,[],,['chan2019'],,False,False,,2
+kaza1248-2-21-1,,kaza1248-2,21,dʒəjərmɑ bir,dʒəjərmɑ bir,[],,['chan2019'],,False,False,,2
+kaza1248-2-22-1,,kaza1248-2,22,dʒəjərmɑ eki,dʒəjərmɑ eki,[],,['chan2019'],,False,False,,2
+kaza1248-2-23-1,,kaza1248-2,23,dʒəjərmɑ yʃ,dʒəjərmɑ yʃ,[],,['chan2019'],,False,False,,2
+kaza1248-2-24-1,,kaza1248-2,24,dʒəjərmɑ tørt,dʒəjərmɑ tørt,[],,['chan2019'],,False,False,,2
+kaza1248-2-25-1,,kaza1248-2,25,dʒəjərmɑ beʃ,dʒəjərmɑ beʃ,[],,['chan2019'],,False,False,,2
+kaza1248-2-26-1,,kaza1248-2,26,dʒəjərmɑ ɑltə,dʒəjərmɑ ɑltə,[],,['chan2019'],,False,False,,2
+kaza1248-2-27-1,,kaza1248-2,27,dʒəjərmɑ dʒeti,dʒəjərmɑ dʒeti,[],,['chan2019'],,False,False,,2
+kaza1248-2-28-1,,kaza1248-2,28,dʒəjərmɑ segiz,dʒəjərmɑ segiz,[],,['chan2019'],,False,False,,2
+kaza1248-2-29-1,,kaza1248-2,29,dʒəjərmɑ toʁəz,dʒəjərmɑ toʁəz,[],,['chan2019'],,False,False,,2
+kaza1248-2-30-1,,kaza1248-2,30,otəz,otəz,[],,['chan2019'],,False,False,,2
+kaza1248-2-40-1,,kaza1248-2,40,qərəq,qərəq,[],,['chan2019'],,False,False,,2
+kaza1248-2-50-1,,kaza1248-2,50,eliw,eliw,[],,['chan2019'],,False,False,,2
+kaza1248-2-60-1,,kaza1248-2,60,ɑlpəs,ɑlpəs,[],,['chan2019'],,False,False,,2
+kaza1248-2-70-1,,kaza1248-2,70,dʒetpis,dʒetpis,[],,['chan2019'],,False,False,,2
+kaza1248-2-80-1,,kaza1248-2,80,seksen,seksen,[],,['chan2019'],,False,False,,2
+kaza1248-2-90-1,,kaza1248-2,90,toqsɑn,toqsɑn,[],,['chan2019'],,False,False,,2
+kaza1248-2-100-1,,kaza1248-2,100,dʒyz,dʒyz,[],,['chan2019'],,False,False,,2
+kaza1248-2-200-1,,kaza1248-2,200,eki dʒyz,eki dʒyz,[],,['chan2019'],,False,False,,2
+kaza1248-2-1000-1,,kaza1248-2,1000,bir məŋ,bir məŋ,[],,['chan2019'],,False,False,,2
+kaza1248-2-2000-1,,kaza1248-2,2000,eki məŋ,eki məŋ,[],,['chan2019'],,False,False,,2

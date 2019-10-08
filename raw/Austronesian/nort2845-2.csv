@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nort2845-2-1-1,,nort2845-2,1,e tahi,e tahi,[],,[],,False,False,,2
-nort2845-2-2-1,,nort2845-2,2,e ʔua,e ʔua,[],,[],,False,False,,2
-nort2845-2-3-1,,nort2845-2,3,e toʔu,e toʔu,[],,[],,False,False,,2
-nort2845-2-4-1,,nort2845-2,4,e haː,e haː,[],,[],,False,False,,2
-nort2845-2-5-1,,nort2845-2,5,e ʔima,e ʔima,[],,[],,False,False,,2
-nort2845-2-6-1,,nort2845-2,6,e ono,e ono,[],,[],,False,False,,2
-nort2845-2-7-1,,nort2845-2,7,e hitu,e hitu,[],,[],,False,False,,2
-nort2845-2-8-1,,nort2845-2,8,e vaʔu,e vaʔu,[],,[],,False,False,,2
-nort2845-2-9-1,,nort2845-2,9,e iva,e iva,[],,[],,False,False,,2
-nort2845-2-10-1,,nort2845-2,10,ʔonohuʔu,ʔonohuʔu,[],,[],,False,False,,2
-nort2845-2-11-1,,nort2845-2,11,ʔonohuʔu ma tahi,ʔonohuʔu ma tahi,[],,[],,False,False,,2
-nort2845-2-12-1,,nort2845-2,12,ʔonohuʔu ma ʔua,ʔonohuʔu ma ʔua,[],,[],,False,False,,2
-nort2845-2-13-1,,nort2845-2,13,ʔonohuʔu ma toʔu,ʔonohuʔu ma toʔu,[],,[],,False,False,,2
-nort2845-2-14-1,,nort2845-2,14,ʔonohuʔu ma haː,ʔonohuʔu ma haː,[],,[],,False,False,,2
-nort2845-2-15-1,,nort2845-2,15,ʔonohuʔu ma ʔima,ʔonohuʔu ma ʔima,[],,[],,False,False,,2
-nort2845-2-16-1,,nort2845-2,16,ʔonohuʔu ma ono,ʔonohuʔu ma ono,[],,[],,False,False,,2
-nort2845-2-17-1,,nort2845-2,17,ʔonohuʔu ma hitu,ʔonohuʔu ma hitu,[],,[],,False,False,,2
-nort2845-2-18-1,,nort2845-2,18,ʔonohuʔu ma vaʔu,ʔonohuʔu ma vaʔu,[],,[],,False,False,,2
-nort2845-2-19-1,,nort2845-2,19,ʔonohuʔu ma iva,ʔonohuʔu ma iva,[],,[],,False,False,,2
-nort2845-2-20-1,,nort2845-2,20,tekau,tekau,[],,[],,False,False,,2
-nort2845-2-21-1,,nort2845-2,21,tekau ma tahi,tekau ma tahi,[],,[],,False,False,,2
-nort2845-2-22-1,,nort2845-2,22,tekau ma ʔua,tekau ma ʔua,[],,[],,False,False,,2
-nort2845-2-23-1,,nort2845-2,23,tekau ma toʔu,tekau ma toʔu,[],,[],,False,False,,2
-nort2845-2-24-1,,nort2845-2,24,tekau ma haː,tekau ma haː,[],,[],,False,False,,2
-nort2845-2-25-1,,nort2845-2,25,tekau ma ʔima,tekau ma ʔima,[],,[],,False,False,,2
-nort2845-2-26-1,,nort2845-2,26,tekau ma ono,tekau ma ono,[],,[],,False,False,,2
-nort2845-2-27-1,,nort2845-2,27,tekau ma hitu,tekau ma hitu,[],,[],,False,False,,2
-nort2845-2-28-1,,nort2845-2,28,tekau ma vaʔu,tekau ma vaʔu,[],,[],,False,False,,2
-nort2845-2-29-1,,nort2845-2,29,tekau ma iva,tekau ma iva,[],,[],,False,False,,2
-nort2845-2-30-1,,nort2845-2,30,e toʔu ʔonohuʔu,e toʔu ʔonohuʔu,[],,[],,False,False,,2
-nort2845-2-30-2,,nort2845-2,30,tekau ma ʔonohuʔu,tekau ma ʔonohuʔu,[],,[],,False,False,,2
-nort2845-2-40-1,,nort2845-2,40,e touhaː,e touhaː,[],,[],,False,False,,2
-nort2845-2-50-1,,nort2845-2,50,e touhaː ma ʔonohuʔu,e touhaː ma ʔonohuʔu,[],( 40 + 10 ),[],,False,False,,2
-nort2845-2-60-1,,nort2845-2,60,e touhaː me te tekau,e touhaː me te tekau,[],( 40 + 20 ),[],,False,False,,2
-nort2845-2-70-1,,nort2845-2,70,e touhaː me te tekau ʔonohuʔu,e touhaː me te tekau ʔonohuʔu,[],,[],,False,False,,2
-nort2845-2-80-1,,nort2845-2,80,e ʔua touhaː,e ʔua touhaː,[],( 2 x 40 ),[],,False,False,,2
-nort2845-2-90-1,,nort2845-2,90,e ʔua touhaː ma ʔonohuʔu,e ʔua touhaː ma ʔonohuʔu,[],( 2 x 40+10 ),[],,False,False,,2
-nort2845-2-100-1,,nort2845-2,100,e ʔua touhaː me te tekau,e ʔua touhaː me te tekau,[],( 2 x 40+20 ),[],,False,False,,2
-nort2845-2-200-1,,nort2845-2,200,e ʔima touhaː,e ʔima touhaː,[],( 5 x 40 ),[],,False,False,,2
-nort2845-2-1000-1,,nort2845-2,1000,e ʔua ʔau e ʔima touhaː,e ʔua ʔau e ʔima touhaː,[],,[],,False,False,,2
-nort2845-2-2000-1,,nort2845-2,2000,e ʔima ʔau,e ʔima ʔau,[],( 5 x 400 ),[],,False,False,,2
+nort2845-2-1-1,,nort2845-2,1,e tahi,e tahi,[],,['chan2019'],,False,False,,2
+nort2845-2-2-1,,nort2845-2,2,e ʔua,e ʔua,[],,['chan2019'],,False,False,,2
+nort2845-2-3-1,,nort2845-2,3,e toʔu,e toʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-4-1,,nort2845-2,4,e haː,e haː,[],,['chan2019'],,False,False,,2
+nort2845-2-5-1,,nort2845-2,5,e ʔima,e ʔima,[],,['chan2019'],,False,False,,2
+nort2845-2-6-1,,nort2845-2,6,e ono,e ono,[],,['chan2019'],,False,False,,2
+nort2845-2-7-1,,nort2845-2,7,e hitu,e hitu,[],,['chan2019'],,False,False,,2
+nort2845-2-8-1,,nort2845-2,8,e vaʔu,e vaʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-9-1,,nort2845-2,9,e iva,e iva,[],,['chan2019'],,False,False,,2
+nort2845-2-10-1,,nort2845-2,10,ʔonohuʔu,ʔonohuʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-11-1,,nort2845-2,11,ʔonohuʔu ma tahi,ʔonohuʔu ma tahi,[],,['chan2019'],,False,False,,2
+nort2845-2-12-1,,nort2845-2,12,ʔonohuʔu ma ʔua,ʔonohuʔu ma ʔua,[],,['chan2019'],,False,False,,2
+nort2845-2-13-1,,nort2845-2,13,ʔonohuʔu ma toʔu,ʔonohuʔu ma toʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-14-1,,nort2845-2,14,ʔonohuʔu ma haː,ʔonohuʔu ma haː,[],,['chan2019'],,False,False,,2
+nort2845-2-15-1,,nort2845-2,15,ʔonohuʔu ma ʔima,ʔonohuʔu ma ʔima,[],,['chan2019'],,False,False,,2
+nort2845-2-16-1,,nort2845-2,16,ʔonohuʔu ma ono,ʔonohuʔu ma ono,[],,['chan2019'],,False,False,,2
+nort2845-2-17-1,,nort2845-2,17,ʔonohuʔu ma hitu,ʔonohuʔu ma hitu,[],,['chan2019'],,False,False,,2
+nort2845-2-18-1,,nort2845-2,18,ʔonohuʔu ma vaʔu,ʔonohuʔu ma vaʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-19-1,,nort2845-2,19,ʔonohuʔu ma iva,ʔonohuʔu ma iva,[],,['chan2019'],,False,False,,2
+nort2845-2-20-1,,nort2845-2,20,tekau,tekau,[],,['chan2019'],,False,False,,2
+nort2845-2-21-1,,nort2845-2,21,tekau ma tahi,tekau ma tahi,[],,['chan2019'],,False,False,,2
+nort2845-2-22-1,,nort2845-2,22,tekau ma ʔua,tekau ma ʔua,[],,['chan2019'],,False,False,,2
+nort2845-2-23-1,,nort2845-2,23,tekau ma toʔu,tekau ma toʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-24-1,,nort2845-2,24,tekau ma haː,tekau ma haː,[],,['chan2019'],,False,False,,2
+nort2845-2-25-1,,nort2845-2,25,tekau ma ʔima,tekau ma ʔima,[],,['chan2019'],,False,False,,2
+nort2845-2-26-1,,nort2845-2,26,tekau ma ono,tekau ma ono,[],,['chan2019'],,False,False,,2
+nort2845-2-27-1,,nort2845-2,27,tekau ma hitu,tekau ma hitu,[],,['chan2019'],,False,False,,2
+nort2845-2-28-1,,nort2845-2,28,tekau ma vaʔu,tekau ma vaʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-29-1,,nort2845-2,29,tekau ma iva,tekau ma iva,[],,['chan2019'],,False,False,,2
+nort2845-2-30-1,,nort2845-2,30,e toʔu ʔonohuʔu,e toʔu ʔonohuʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-30-2,,nort2845-2,30,tekau ma ʔonohuʔu,tekau ma ʔonohuʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-40-1,,nort2845-2,40,e touhaː,e touhaː,[],,['chan2019'],,False,False,,2
+nort2845-2-50-1,,nort2845-2,50,e touhaː ma ʔonohuʔu,e touhaː ma ʔonohuʔu,[],( 40 + 10 ),['chan2019'],,False,False,,2
+nort2845-2-60-1,,nort2845-2,60,e touhaː me te tekau,e touhaː me te tekau,[],( 40 + 20 ),['chan2019'],,False,False,,2
+nort2845-2-70-1,,nort2845-2,70,e touhaː me te tekau ʔonohuʔu,e touhaː me te tekau ʔonohuʔu,[],,['chan2019'],,False,False,,2
+nort2845-2-80-1,,nort2845-2,80,e ʔua touhaː,e ʔua touhaː,[],( 2 x 40 ),['chan2019'],,False,False,,2
+nort2845-2-90-1,,nort2845-2,90,e ʔua touhaː ma ʔonohuʔu,e ʔua touhaː ma ʔonohuʔu,[],( 2 x 40+10 ),['chan2019'],,False,False,,2
+nort2845-2-100-1,,nort2845-2,100,e ʔua touhaː me te tekau,e ʔua touhaː me te tekau,[],( 2 x 40+20 ),['chan2019'],,False,False,,2
+nort2845-2-200-1,,nort2845-2,200,e ʔima touhaː,e ʔima touhaː,[],( 5 x 40 ),['chan2019'],,False,False,,2
+nort2845-2-1000-1,,nort2845-2,1000,e ʔua ʔau e ʔima touhaː,e ʔua ʔau e ʔima touhaː,[],,['chan2019'],,False,False,,2
+nort2845-2-2000-1,,nort2845-2,2000,e ʔima ʔau,e ʔima ʔau,[],( 5 x 400 ),['chan2019'],,False,False,,2

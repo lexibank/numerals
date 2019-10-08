@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-hdii1240-1-1-1,,hdii1240-1,1,tèkw,tèkw,[],,[],,False,False,,1
-hdii1240-1-2-1,,hdii1240-1,2,hìs,hìs,[],,[],,False,False,,1
-hdii1240-1-3-1,,hdii1240-1,3,hə̀kə̀n,hə̀kə̀n,[],,[],,False,False,,1
-hdii1240-1-4-1,,hdii1240-1,4,fwáɗ,fwáɗ,[],,[],,False,False,,1
-hdii1240-1-5-1,,hdii1240-1,5,hùtáf,hùtáf,[],,[],,False,False,,1
-hdii1240-1-6-1,,hdii1240-1,6,mə̀kúʔ,mə̀kúʔ,[],,[],,False,False,,1
-hdii1240-1-7-1,,hdii1240-1,7,ndə̀fáŋ,ndə̀fáŋ,[],,[],,False,False,,1
-hdii1240-1-8-1,,hdii1240-1,8,tə̀ɣás,tə̀ɣás,[],,[],,False,False,,1
-hdii1240-1-9-1,,hdii1240-1,9,tə̀mbáy,tə̀mbáy,[],,[],,False,False,,1
-hdii1240-1-9-2,,hdii1240-1,9,timbe,timbe,[],,[],,False,False,,1
-hdii1240-1-10-1,,hdii1240-1,10,ɣwàŋ,ɣwàŋ,[],,[],,False,False,,1
-hdii1240-1-11-1,,hdii1240-1,11,ɣwàŋ pə̀ɗù ndéŋ,ɣwàŋ pə̀ɗù ndéŋ,[],,[],,False,False,,1
-hdii1240-1-12-1,,hdii1240-1,12,ɣwàŋ pə̀ɗù hìs,ɣwàŋ pə̀ɗù hìs,[],,[],,False,False,,1
-hdii1240-1-13-1,,hdii1240-1,13,ɣwàŋ pə̀ɗù hə̀kə̀n,ɣwàŋ pə̀ɗù hə̀kə̀n,[],,[],,False,False,,1
-hdii1240-1-14-1,,hdii1240-1,14,ɣwàŋ pə̀ɗù fwáɗ,ɣwàŋ pə̀ɗù fwáɗ,[],,[],,False,False,,1
-hdii1240-1-15-1,,hdii1240-1,15,ɣwàŋ pə̀ɗù hùtáf,ɣwàŋ pə̀ɗù hùtáf,[],,[],,False,False,,1
-hdii1240-1-16-1,,hdii1240-1,16,ɣwàŋ pə̀ɗù mə̀kú,ɣwàŋ pə̀ɗù mə̀kú,[],,[],,False,False,,1
-hdii1240-1-17-1,,hdii1240-1,17,ɣwàŋ pə̀ɗù ndə̀fáŋ,ɣwàŋ pə̀ɗù ndə̀fáŋ,[],,[],,False,False,,1
-hdii1240-1-18-1,,hdii1240-1,18,ɣwàŋ pə̀ɗù tə̀ɣás,ɣwàŋ pə̀ɗù tə̀ɣás,[],,[],,False,False,,1
-hdii1240-1-19-1,,hdii1240-1,19,ɣwàŋ pə̀ɗù tə̀mbáy,ɣwàŋ pə̀ɗù tə̀mbáy,[],,[],,False,False,,1
-hdii1240-1-20-1,,hdii1240-1,20,hìsà mbə̀sák,hìsà mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-20-2,,hdii1240-1,20,his mbəsak,his mbəsak,[],,[],,False,False,,1
-hdii1240-1-21-1,,hdii1240-1,21,hìsà mbə̀sák ndéŋ mìdà,hìsà mbə̀sák ndéŋ mìdà,[],,[],,False,False,,1
-hdii1240-1-22-1,,hdii1240-1,22,hìsà mbə̀sák hìs mìdà,hìsà mbə̀sák hìs mìdà,[],,[],,False,False,,1
-hdii1240-1-23-1,,hdii1240-1,23,hìsà mbə̀sák hə̀kə̀n mìdà,hìsà mbə̀sák hə̀kə̀n mìdà,[],,[],,False,False,,1
-hdii1240-1-24-1,,hdii1240-1,24,hìsà mbə̀sák fwáɗ mìdà,hìsà mbə̀sák fwáɗ mìdà,[],,[],,False,False,,1
-hdii1240-1-25-1,,hdii1240-1,25,hìsà mbə̀sák hùtáf mìdà,hìsà mbə̀sák hùtáf mìdà,[],,[],,False,False,,1
-hdii1240-1-26-1,,hdii1240-1,26,hìsà mbə̀sák mə̀kú mìdà,hìsà mbə̀sák mə̀kú mìdà,[],,[],,False,False,,1
-hdii1240-1-27-1,,hdii1240-1,27,hìsà mbə̀sák ndə̀fáŋ mìdà,hìsà mbə̀sák ndə̀fáŋ mìdà,[],,[],,False,False,,1
-hdii1240-1-28-1,,hdii1240-1,28,hìsà mbə̀sák tə̀ɣás mìdà,hìsà mbə̀sák tə̀ɣás mìdà,[],,[],,False,False,,1
-hdii1240-1-29-1,,hdii1240-1,29,hìsà mbə̀sák tə̀mbáy mìdà,hìsà mbə̀sák tə̀mbáy mìdà,[],,[],,False,False,,1
-hdii1240-1-30-1,,hdii1240-1,30,hə̀kə̀n mbə̀sák,hə̀kə̀n mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-40-1,,hdii1240-1,40,fwáɗ mbə̀sák,fwáɗ mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-50-1,,hdii1240-1,50,hùtáf mbə̀sák,hùtáf mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-60-1,,hdii1240-1,60,mə̀kú mbə̀sák,mə̀kú mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-70-1,,hdii1240-1,70,ndə̀fáŋ mbə̀sák,ndə̀fáŋ mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-80-1,,hdii1240-1,80,tə̀ɣás mbə̀sák,tə̀ɣás mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-90-1,,hdii1240-1,90,tə̀mbáy mbə̀sák,tə̀mbáy mbə̀sák,[],,[],,False,False,,1
-hdii1240-1-100-1,,hdii1240-1,100,də̀rmə̀k,də̀rmə̀k,[],,[],,False,False,,1
-hdii1240-1-200-1,,hdii1240-1,200,hìs də̀rmə̀k,hìs də̀rmə̀k,[],,[],,False,False,,1
-hdii1240-1-1000-1,,hdii1240-1,1000,də̀mbù,də̀mbù,[],,[],,False,False,,1
-hdii1240-1-1000-2,,hdii1240-1,1000,ɮìbì,ɮìbì,[],,[],,False,False,,1
-hdii1240-1-2000-1,,hdii1240-1,2000,də̀mbù hìs,də̀mbù hìs,[],,[],,False,False,,1
-hdii1240-1-2000-2,,hdii1240-1,2000,ɮìbì his,ɮìbì his,[],,[],,False,False,,1
+hdii1240-1-1-1,,hdii1240-1,1,tèkw,tèkw,[],,['chan2019'],,False,False,,1
+hdii1240-1-2-1,,hdii1240-1,2,hìs,hìs,[],,['chan2019'],,False,False,,1
+hdii1240-1-3-1,,hdii1240-1,3,hə̀kə̀n,hə̀kə̀n,[],,['chan2019'],,False,False,,1
+hdii1240-1-4-1,,hdii1240-1,4,fwáɗ,fwáɗ,[],,['chan2019'],,False,False,,1
+hdii1240-1-5-1,,hdii1240-1,5,hùtáf,hùtáf,[],,['chan2019'],,False,False,,1
+hdii1240-1-6-1,,hdii1240-1,6,mə̀kúʔ,mə̀kúʔ,[],,['chan2019'],,False,False,,1
+hdii1240-1-7-1,,hdii1240-1,7,ndə̀fáŋ,ndə̀fáŋ,[],,['chan2019'],,False,False,,1
+hdii1240-1-8-1,,hdii1240-1,8,tə̀ɣás,tə̀ɣás,[],,['chan2019'],,False,False,,1
+hdii1240-1-9-1,,hdii1240-1,9,tə̀mbáy,tə̀mbáy,[],,['chan2019'],,False,False,,1
+hdii1240-1-9-2,,hdii1240-1,9,timbe,timbe,[],,['chan2019'],,False,False,,1
+hdii1240-1-10-1,,hdii1240-1,10,ɣwàŋ,ɣwàŋ,[],,['chan2019'],,False,False,,1
+hdii1240-1-11-1,,hdii1240-1,11,ɣwàŋ pə̀ɗù ndéŋ,ɣwàŋ pə̀ɗù ndéŋ,[],,['chan2019'],,False,False,,1
+hdii1240-1-12-1,,hdii1240-1,12,ɣwàŋ pə̀ɗù hìs,ɣwàŋ pə̀ɗù hìs,[],,['chan2019'],,False,False,,1
+hdii1240-1-13-1,,hdii1240-1,13,ɣwàŋ pə̀ɗù hə̀kə̀n,ɣwàŋ pə̀ɗù hə̀kə̀n,[],,['chan2019'],,False,False,,1
+hdii1240-1-14-1,,hdii1240-1,14,ɣwàŋ pə̀ɗù fwáɗ,ɣwàŋ pə̀ɗù fwáɗ,[],,['chan2019'],,False,False,,1
+hdii1240-1-15-1,,hdii1240-1,15,ɣwàŋ pə̀ɗù hùtáf,ɣwàŋ pə̀ɗù hùtáf,[],,['chan2019'],,False,False,,1
+hdii1240-1-16-1,,hdii1240-1,16,ɣwàŋ pə̀ɗù mə̀kú,ɣwàŋ pə̀ɗù mə̀kú,[],,['chan2019'],,False,False,,1
+hdii1240-1-17-1,,hdii1240-1,17,ɣwàŋ pə̀ɗù ndə̀fáŋ,ɣwàŋ pə̀ɗù ndə̀fáŋ,[],,['chan2019'],,False,False,,1
+hdii1240-1-18-1,,hdii1240-1,18,ɣwàŋ pə̀ɗù tə̀ɣás,ɣwàŋ pə̀ɗù tə̀ɣás,[],,['chan2019'],,False,False,,1
+hdii1240-1-19-1,,hdii1240-1,19,ɣwàŋ pə̀ɗù tə̀mbáy,ɣwàŋ pə̀ɗù tə̀mbáy,[],,['chan2019'],,False,False,,1
+hdii1240-1-20-1,,hdii1240-1,20,hìsà mbə̀sák,hìsà mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-20-2,,hdii1240-1,20,his mbəsak,his mbəsak,[],,['chan2019'],,False,False,,1
+hdii1240-1-21-1,,hdii1240-1,21,hìsà mbə̀sák ndéŋ mìdà,hìsà mbə̀sák ndéŋ mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-22-1,,hdii1240-1,22,hìsà mbə̀sák hìs mìdà,hìsà mbə̀sák hìs mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-23-1,,hdii1240-1,23,hìsà mbə̀sák hə̀kə̀n mìdà,hìsà mbə̀sák hə̀kə̀n mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-24-1,,hdii1240-1,24,hìsà mbə̀sák fwáɗ mìdà,hìsà mbə̀sák fwáɗ mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-25-1,,hdii1240-1,25,hìsà mbə̀sák hùtáf mìdà,hìsà mbə̀sák hùtáf mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-26-1,,hdii1240-1,26,hìsà mbə̀sák mə̀kú mìdà,hìsà mbə̀sák mə̀kú mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-27-1,,hdii1240-1,27,hìsà mbə̀sák ndə̀fáŋ mìdà,hìsà mbə̀sák ndə̀fáŋ mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-28-1,,hdii1240-1,28,hìsà mbə̀sák tə̀ɣás mìdà,hìsà mbə̀sák tə̀ɣás mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-29-1,,hdii1240-1,29,hìsà mbə̀sák tə̀mbáy mìdà,hìsà mbə̀sák tə̀mbáy mìdà,[],,['chan2019'],,False,False,,1
+hdii1240-1-30-1,,hdii1240-1,30,hə̀kə̀n mbə̀sák,hə̀kə̀n mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-40-1,,hdii1240-1,40,fwáɗ mbə̀sák,fwáɗ mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-50-1,,hdii1240-1,50,hùtáf mbə̀sák,hùtáf mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-60-1,,hdii1240-1,60,mə̀kú mbə̀sák,mə̀kú mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-70-1,,hdii1240-1,70,ndə̀fáŋ mbə̀sák,ndə̀fáŋ mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-80-1,,hdii1240-1,80,tə̀ɣás mbə̀sák,tə̀ɣás mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-90-1,,hdii1240-1,90,tə̀mbáy mbə̀sák,tə̀mbáy mbə̀sák,[],,['chan2019'],,False,False,,1
+hdii1240-1-100-1,,hdii1240-1,100,də̀rmə̀k,də̀rmə̀k,[],,['chan2019'],,False,False,,1
+hdii1240-1-200-1,,hdii1240-1,200,hìs də̀rmə̀k,hìs də̀rmə̀k,[],,['chan2019'],,False,False,,1
+hdii1240-1-1000-1,,hdii1240-1,1000,də̀mbù,də̀mbù,[],,['chan2019'],,False,False,,1
+hdii1240-1-1000-2,,hdii1240-1,1000,ɮìbì,ɮìbì,[],,['chan2019'],,False,False,,1
+hdii1240-1-2000-1,,hdii1240-1,2000,də̀mbù hìs,də̀mbù hìs,[],,['chan2019'],,False,False,,1
+hdii1240-1-2000-2,,hdii1240-1,2000,ɮìbì his,ɮìbì his,[],,['chan2019'],,False,False,,1

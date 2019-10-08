@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sout2895-1-1-1,,sout2895-1,1,ɔsa,ɔsa,[],,[],,False,False,,1
-sout2895-1-2-1,,sout2895-1,2,ua,ua,[],,[],,False,False,,1
-sout2895-1-3-1,,sout2895-1,3,tɔnu,tɔnu,[],,[],,False,False,,1
-sout2895-1-4-1,,sout2895-1,4,ate,ate,[],,[],,False,False,,1
-sout2895-1-5-1,,sout2895-1,5,nima,nima,[],,[],,False,False,,1
-sout2895-1-6-1,,sout2895-1,6,nome,nome,[],,[],,False,False,,1
-sout2895-1-7-1,,sout2895-1,7,itu,itu,[],,[],,False,False,,1
-sout2895-1-8-1,,sout2895-1,8,wanu,wanu,[],,[],,False,False,,1
-sout2895-1-9-1,,sout2895-1,9,sia,sia,[],,[],,False,False,,1
-sout2895-1-10-1,,sout2895-1,10,hutusa,hutusa,[],,[],,False,False,,1
-sout2895-1-11-1,,sout2895-1,11,hutusa rahana ɔsa,hutusa rahana ɔsa,[],,[],,False,False,,1
-sout2895-1-12-1,,sout2895-1,12,hutusa rahana ua,hutusa rahana ua,[],,[],,False,False,,1
-sout2895-1-13-1,,sout2895-1,13,hutusa rahana tɔnu,hutusa rahana tɔnu,[],,[],,False,False,,1
-sout2895-1-14-1,,sout2895-1,14,hutusa rahana ate,hutusa rahana ate,[],,[],,False,False,,1
-sout2895-1-15-1,,sout2895-1,15,hutusa rahana nima,hutusa rahana nima,[],,[],,False,False,,1
-sout2895-1-16-1,,sout2895-1,16,hutusa rahana nome,hutusa rahana nome,[],,[],,False,False,,1
-sout2895-1-17-1,,sout2895-1,17,hutusa rahana itu,hutusa rahana itu,[],,[],,False,False,,1
-sout2895-1-18-1,,sout2895-1,18,hutusa rahana wanu,hutusa rahana wanu,[],,[],,False,False,,1
-sout2895-1-19-1,,sout2895-1,19,hutusa rahana sia,hutusa rahana sia,[],,[],,False,False,,1
-sout2895-1-20-1,,sout2895-1,20,hutu ua,hutu ua,[],,[],,False,False,,1
-sout2895-1-21-1,,sout2895-1,21,hutu ua rahana ɔsa,hutu ua rahana ɔsa,[],,[],,False,False,,1
-sout2895-1-22-1,,sout2895-1,22,hutu ua rahana ua,hutu ua rahana ua,[],,[],,False,False,,1
-sout2895-1-23-1,,sout2895-1,23,hutu ua rahana tɔnu,hutu ua rahana tɔnu,[],,[],,False,False,,1
-sout2895-1-24-1,,sout2895-1,24,hutu ua rahana ate,hutu ua rahana ate,[],,[],,False,False,,1
-sout2895-1-25-1,,sout2895-1,25,hutu ua rahana nima,hutu ua rahana nima,[],,[],,False,False,,1
-sout2895-1-26-1,,sout2895-1,26,hutu ua rahana nome,hutu ua rahana nome,[],,[],,False,False,,1
-sout2895-1-27-1,,sout2895-1,27,hutu ua rahana itu,hutu ua rahana itu,[],,[],,False,False,,1
-sout2895-1-28-1,,sout2895-1,28,hutu ua rahana wanu,hutu ua rahana wanu,[],,[],,False,False,,1
-sout2895-1-29-1,,sout2895-1,29,hutu ua rahana sia,hutu ua rahana sia,[],,[],,False,False,,1
-sout2895-1-30-1,,sout2895-1,30,hutu tɔnu,hutu tɔnu,[],,[],,False,False,,1
-sout2895-1-40-1,,sout2895-1,40,hutu ate,hutu ate,[],,[],,False,False,,1
-sout2895-1-50-1,,sout2895-1,50,hutu nima,hutu nima,[],,[],,False,False,,1
-sout2895-1-60-1,,sout2895-1,60,hutu nome,hutu nome,[],,[],,False,False,,1
-sout2895-1-70-1,,sout2895-1,70,hutu itu,hutu itu,[],,[],,False,False,,1
-sout2895-1-80-1,,sout2895-1,80,hutu wanu,hutu wanu,[],,[],,False,False,,1
-sout2895-1-90-1,,sout2895-1,90,hutu sia,hutu sia,[],,[],,False,False,,1
-sout2895-1-100-1,,sout2895-1,100,utun,utun,[],,[],,False,False,,1
-sout2895-1-200-1,,sout2895-1,200,utun ua,utun ua,[],,[],,False,False,,1
-sout2895-1-1000-1,,sout2895-1,1000,nihun,nihun,[],,[],,False,False,,1
-sout2895-1-2000-1,,sout2895-1,2000,nihun ua,nihun ua,[],,[],,False,False,,1
+sout2895-1-1-1,,sout2895-1,1,ɔsa,ɔsa,[],,['chan2019'],,False,False,,1
+sout2895-1-2-1,,sout2895-1,2,ua,ua,[],,['chan2019'],,False,False,,1
+sout2895-1-3-1,,sout2895-1,3,tɔnu,tɔnu,[],,['chan2019'],,False,False,,1
+sout2895-1-4-1,,sout2895-1,4,ate,ate,[],,['chan2019'],,False,False,,1
+sout2895-1-5-1,,sout2895-1,5,nima,nima,[],,['chan2019'],,False,False,,1
+sout2895-1-6-1,,sout2895-1,6,nome,nome,[],,['chan2019'],,False,False,,1
+sout2895-1-7-1,,sout2895-1,7,itu,itu,[],,['chan2019'],,False,False,,1
+sout2895-1-8-1,,sout2895-1,8,wanu,wanu,[],,['chan2019'],,False,False,,1
+sout2895-1-9-1,,sout2895-1,9,sia,sia,[],,['chan2019'],,False,False,,1
+sout2895-1-10-1,,sout2895-1,10,hutusa,hutusa,[],,['chan2019'],,False,False,,1
+sout2895-1-11-1,,sout2895-1,11,hutusa rahana ɔsa,hutusa rahana ɔsa,[],,['chan2019'],,False,False,,1
+sout2895-1-12-1,,sout2895-1,12,hutusa rahana ua,hutusa rahana ua,[],,['chan2019'],,False,False,,1
+sout2895-1-13-1,,sout2895-1,13,hutusa rahana tɔnu,hutusa rahana tɔnu,[],,['chan2019'],,False,False,,1
+sout2895-1-14-1,,sout2895-1,14,hutusa rahana ate,hutusa rahana ate,[],,['chan2019'],,False,False,,1
+sout2895-1-15-1,,sout2895-1,15,hutusa rahana nima,hutusa rahana nima,[],,['chan2019'],,False,False,,1
+sout2895-1-16-1,,sout2895-1,16,hutusa rahana nome,hutusa rahana nome,[],,['chan2019'],,False,False,,1
+sout2895-1-17-1,,sout2895-1,17,hutusa rahana itu,hutusa rahana itu,[],,['chan2019'],,False,False,,1
+sout2895-1-18-1,,sout2895-1,18,hutusa rahana wanu,hutusa rahana wanu,[],,['chan2019'],,False,False,,1
+sout2895-1-19-1,,sout2895-1,19,hutusa rahana sia,hutusa rahana sia,[],,['chan2019'],,False,False,,1
+sout2895-1-20-1,,sout2895-1,20,hutu ua,hutu ua,[],,['chan2019'],,False,False,,1
+sout2895-1-21-1,,sout2895-1,21,hutu ua rahana ɔsa,hutu ua rahana ɔsa,[],,['chan2019'],,False,False,,1
+sout2895-1-22-1,,sout2895-1,22,hutu ua rahana ua,hutu ua rahana ua,[],,['chan2019'],,False,False,,1
+sout2895-1-23-1,,sout2895-1,23,hutu ua rahana tɔnu,hutu ua rahana tɔnu,[],,['chan2019'],,False,False,,1
+sout2895-1-24-1,,sout2895-1,24,hutu ua rahana ate,hutu ua rahana ate,[],,['chan2019'],,False,False,,1
+sout2895-1-25-1,,sout2895-1,25,hutu ua rahana nima,hutu ua rahana nima,[],,['chan2019'],,False,False,,1
+sout2895-1-26-1,,sout2895-1,26,hutu ua rahana nome,hutu ua rahana nome,[],,['chan2019'],,False,False,,1
+sout2895-1-27-1,,sout2895-1,27,hutu ua rahana itu,hutu ua rahana itu,[],,['chan2019'],,False,False,,1
+sout2895-1-28-1,,sout2895-1,28,hutu ua rahana wanu,hutu ua rahana wanu,[],,['chan2019'],,False,False,,1
+sout2895-1-29-1,,sout2895-1,29,hutu ua rahana sia,hutu ua rahana sia,[],,['chan2019'],,False,False,,1
+sout2895-1-30-1,,sout2895-1,30,hutu tɔnu,hutu tɔnu,[],,['chan2019'],,False,False,,1
+sout2895-1-40-1,,sout2895-1,40,hutu ate,hutu ate,[],,['chan2019'],,False,False,,1
+sout2895-1-50-1,,sout2895-1,50,hutu nima,hutu nima,[],,['chan2019'],,False,False,,1
+sout2895-1-60-1,,sout2895-1,60,hutu nome,hutu nome,[],,['chan2019'],,False,False,,1
+sout2895-1-70-1,,sout2895-1,70,hutu itu,hutu itu,[],,['chan2019'],,False,False,,1
+sout2895-1-80-1,,sout2895-1,80,hutu wanu,hutu wanu,[],,['chan2019'],,False,False,,1
+sout2895-1-90-1,,sout2895-1,90,hutu sia,hutu sia,[],,['chan2019'],,False,False,,1
+sout2895-1-100-1,,sout2895-1,100,utun,utun,[],,['chan2019'],,False,False,,1
+sout2895-1-200-1,,sout2895-1,200,utun ua,utun ua,[],,['chan2019'],,False,False,,1
+sout2895-1-1000-1,,sout2895-1,1000,nihun,nihun,[],,['chan2019'],,False,False,,1
+sout2895-1-2000-1,,sout2895-1,2000,nihun ua,nihun ua,[],,['chan2019'],,False,False,,1

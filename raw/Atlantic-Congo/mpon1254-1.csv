@@ -1,49 +1,49 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mpon1254-1-1-1,,mpon1254-1,1,ŋ̀ɡwát,ŋ̀ɡwát,[],,[],,False,False,,1
-mpon1254-1-1-2,,mpon1254-1,1,-ɡwát,-ɡwát,[],,[],,False,False,,1
-mpon1254-1-1-3,,mpon1254-1,1,ɡwár̥,ɡwár̥,[],,[],,False,False,,1
-mpon1254-1-2-1,,mpon1254-1,2,mbá,mbá,[],,[],,False,False,,1
-mpon1254-1-2-2,,mpon1254-1,2,-ɓá,-ɓá,[],,[],,False,False,,1
-mpon1254-1-3-1,,mpon1254-1,3,lɛ̏l,lɛ̏l,[],,[],,False,False,,1
-mpon1254-1-3-2,,mpon1254-1,3,-lɛ̏l,-lɛ̏l,[],,[],,False,False,,1
-mpon1254-1-4-1,,mpon1254-1,4,nâ,nâ,[],,[],,False,False,,1
-mpon1254-1-4-2,,mpon1254-1,4,-nâ,-nâ,[],,[],,False,False,,1
-mpon1254-1-5-1,,mpon1254-1,5,tɛ̂n,tɛ̂n,[],,[],,False,False,,1
-mpon1254-1-5-2,,mpon1254-1,5,-tɛ̂n,-tɛ̂n,[],,[],,False,False,,1
-mpon1254-1-6-1,,mpon1254-1,6,twǒ: or tɛ̂n nɛ̀ ŋ̀ɡwát,twǒ: or tɛ̂n nɛ̀ ŋ̀ɡwát,[],(5 with/and 1 ),[],,False,True,,1
-mpon1254-1-7-1,,mpon1254-1,7,tɛ̂n nɛ̀ ìbá,tɛ̂n nɛ̀ ìbá,[],( 5 + 2 ),[],,False,False,,1
-mpon1254-1-8-1,,mpon1254-1,8,tɛ̂n nɛ̀ ìlɛ̏l,tɛ̂n nɛ̀ ìlɛ̏l,[],( 5 + 3 ),[],,False,False,,1
-mpon1254-1-9-1,,mpon1254-1,9,tɛ̂n nɛ̀ ìnâ,tɛ̂n nɛ̀ ìnâ,[],( 5 + 4 ),[],,False,False,,1
-mpon1254-1-10-1,,mpon1254-1,10,kám,kám,[],,[],,False,False,,1
-mpon1254-1-11-1,,mpon1254-1,11,kám nɛ̀ ŋ̀ɡwát,kám nɛ̀ ŋ̀ɡwát,[],( 10 + 1 ),[],,False,False,,1
-mpon1254-1-12-1,,mpon1254-1,12,kám nɛ̀ ɓá,kám nɛ̀ ɓá,[],,[],,False,False,,1
-mpon1254-1-13-1,,mpon1254-1,13,kám nɛ̀ ìlɛ̏l,kám nɛ̀ ìlɛ̏l,[],,[],,False,False,,1
-mpon1254-1-14-1,,mpon1254-1,14,kám nɛ̀ ìnâ,kám nɛ̀ ìnâ,[],,[],,False,False,,1
-mpon1254-1-15-1,,mpon1254-1,15,kám nɛ̀ ìtɛ̂n,kám nɛ̀ ìtɛ̂n,[],,[],,False,False,,1
-mpon1254-1-16-1,,mpon1254-1,16,kám nɛ̀ twǒ:,kám nɛ̀ twǒ:,[],,[],,False,False,,1
-mpon1254-1-16-2,,mpon1254-1,16,kám nɛ̀ tɛ̂n nɛ̀ ŋ̀ɡwát,kám nɛ̀ tɛ̂n nɛ̀ ŋ̀ɡwát,[],,[],,False,False,,1
-mpon1254-1-17-1,,mpon1254-1,17,kám nɛ̀ tɛ̂n nɛ̀ ìbá,kám nɛ̀ tɛ̂n nɛ̀ ìbá,[],(10 + 5 + 1),[],,False,False,,1
-mpon1254-1-18-1,,mpon1254-1,18,kám nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,kám nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,[],,[],,False,False,,1
-mpon1254-1-19-1,,mpon1254-1,19,kám nɛ̀ tɛ̂n nɛ̀ ìnâ,kám nɛ̀ tɛ̂n nɛ̀ ìnâ,[],,[],,False,False,,1
-mpon1254-1-20-1,,mpon1254-1,20,mɛ̀kàm mɛ̀mbá,mɛ̀kàm mɛ̀mbá,[],( litː ''tens two''),[],,False,False,,1
-mpon1254-1-21-1,,mpon1254-1,21,mɛ̀kàm mɛ̀mbá nɛ̀ ŋ̀ɡwát,mɛ̀kàm mɛ̀mbá nɛ̀ ŋ̀ɡwát,[],,[],,False,False,,1
-mpon1254-1-22-1,,mpon1254-1,22,mɛ̀kàm mɛ̀mbá nɛ̀ ìbá,mɛ̀kàm mɛ̀mbá nɛ̀ ìbá,[],,[],,False,False,,1
-mpon1254-1-23-1,,mpon1254-1,23,mɛ̀kàm mɛ̀mbá nɛ̀ ìlɛ̏l,mɛ̀kàm mɛ̀mbá nɛ̀ ìlɛ̏l,[],,[],,False,False,,1
-mpon1254-1-24-1,,mpon1254-1,24,mɛ̀kàm mɛ̀mbá nɛ̀ ìnâ,mɛ̀kàm mɛ̀mbá nɛ̀ ìnâ,[],,[],,False,False,,1
-mpon1254-1-25-1,,mpon1254-1,25,mɛ̀kàm mɛ̀mbá nɛ̀ ìtɛ̂n,mɛ̀kàm mɛ̀mbá nɛ̀ ìtɛ̂n,[],,[],,False,False,,1
-mpon1254-1-26-1,,mpon1254-1,26,mɛ̀kàm mɛ̀mbá nɛ̀ twǒ: or k.t.g. ŋ̀ɡwát,mɛ̀kàm mɛ̀mbá nɛ̀ twǒ: or k.t.g. ŋ̀ɡwát,[],,[],,False,True,,1
-mpon1254-1-27-1,,mpon1254-1,27,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìbá,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìbá,[],,[],,False,False,,1
-mpon1254-1-28-1,,mpon1254-1,28,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,[],,[],,False,False,,1
-mpon1254-1-29-1,,mpon1254-1,29,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìnâ,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìnâ,[],,[],,False,False,,1
-mpon1254-1-30-1,,mpon1254-1,30,mɛ̀kàm mɛ̀lɛ̏l,mɛ̀kàm mɛ̀lɛ̏l,[],(litː 10s 3 ),[],,False,False,,1
-mpon1254-1-40-1,,mpon1254-1,40,mɛ̀kàm mɛ̀nâ,mɛ̀kàm mɛ̀nâ,[],(litː 10s 4 ),[],,False,False,,1
-mpon1254-1-50-1,,mpon1254-1,50,mɛ̀kàm mɛ̀tɛ̂n,mɛ̀kàm mɛ̀tɛ̂n,[],(litː 10s 5 ),[],,False,False,,1
-mpon1254-1-60-1,,mpon1254-1,60,mɛ̀kàm twǒo or mɛ̀kàm mɛ̀tɛ̂n n. ŋ̀ɡwát,mɛ̀kàm twǒo or mɛ̀kàm mɛ̀tɛ̂n n. ŋ̀ɡwát,[],,[],,False,True,,1
-mpon1254-1-70-1,,mpon1254-1,70,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀mbá,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀mbá,[],(litː 10s  5+ 2),[],,False,False,,1
-mpon1254-1-80-1,,mpon1254-1,80,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀lɛ̏l,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀lɛ̏l,[],,[],,False,False,,1
-mpon1254-1-90-1,,mpon1254-1,90,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀nâ,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀nâ,[],,[],,False,False,,1
-mpon1254-1-100-1,,mpon1254-1,100,tsȅt,tsȅt,[],,[],,False,False,,1
-mpon1254-1-100-2,,mpon1254-1,100,tsȅr̥,tsȅr̥,[],,[],,False,False,,1
-mpon1254-1-200-1,,mpon1254-1,200,mìtsȅt mìmbá,mìtsȅt mìmbá,[],( 100s 2 ),[],,False,False,,1
-mpon1254-1-1000-1,,mpon1254-1,1000,tɔ́sìn or mîl,tɔ́sìn or mîl,[],( loanwords),[],,False,True,,1
-mpon1254-1-2000-1,,mpon1254-1,2000,òtɔ́sìn òbá or òmíl óbá,òtɔ́sìn òbá or òmíl óbá,[],( 1000s 2 ),[],,False,True,,1
+mpon1254-1-1-1,,mpon1254-1,1,ŋ̀ɡwát,ŋ̀ɡwát,[],,['chan2019'],,False,False,,1
+mpon1254-1-1-2,,mpon1254-1,1,-ɡwát,-ɡwát,[],,['chan2019'],,False,False,,1
+mpon1254-1-1-3,,mpon1254-1,1,ɡwár̥,ɡwár̥,[],,['chan2019'],,False,False,,1
+mpon1254-1-2-1,,mpon1254-1,2,mbá,mbá,[],,['chan2019'],,False,False,,1
+mpon1254-1-2-2,,mpon1254-1,2,-ɓá,-ɓá,[],,['chan2019'],,False,False,,1
+mpon1254-1-3-1,,mpon1254-1,3,lɛ̏l,lɛ̏l,[],,['chan2019'],,False,False,,1
+mpon1254-1-3-2,,mpon1254-1,3,-lɛ̏l,-lɛ̏l,[],,['chan2019'],,False,False,,1
+mpon1254-1-4-1,,mpon1254-1,4,nâ,nâ,[],,['chan2019'],,False,False,,1
+mpon1254-1-4-2,,mpon1254-1,4,-nâ,-nâ,[],,['chan2019'],,False,False,,1
+mpon1254-1-5-1,,mpon1254-1,5,tɛ̂n,tɛ̂n,[],,['chan2019'],,False,False,,1
+mpon1254-1-5-2,,mpon1254-1,5,-tɛ̂n,-tɛ̂n,[],,['chan2019'],,False,False,,1
+mpon1254-1-6-1,,mpon1254-1,6,twǒ: or tɛ̂n nɛ̀ ŋ̀ɡwát,twǒ: or tɛ̂n nɛ̀ ŋ̀ɡwát,[],(5 with/and 1 ),['chan2019'],,False,True,,1
+mpon1254-1-7-1,,mpon1254-1,7,tɛ̂n nɛ̀ ìbá,tɛ̂n nɛ̀ ìbá,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mpon1254-1-8-1,,mpon1254-1,8,tɛ̂n nɛ̀ ìlɛ̏l,tɛ̂n nɛ̀ ìlɛ̏l,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mpon1254-1-9-1,,mpon1254-1,9,tɛ̂n nɛ̀ ìnâ,tɛ̂n nɛ̀ ìnâ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+mpon1254-1-10-1,,mpon1254-1,10,kám,kám,[],,['chan2019'],,False,False,,1
+mpon1254-1-11-1,,mpon1254-1,11,kám nɛ̀ ŋ̀ɡwát,kám nɛ̀ ŋ̀ɡwát,[],( 10 + 1 ),['chan2019'],,False,False,,1
+mpon1254-1-12-1,,mpon1254-1,12,kám nɛ̀ ɓá,kám nɛ̀ ɓá,[],,['chan2019'],,False,False,,1
+mpon1254-1-13-1,,mpon1254-1,13,kám nɛ̀ ìlɛ̏l,kám nɛ̀ ìlɛ̏l,[],,['chan2019'],,False,False,,1
+mpon1254-1-14-1,,mpon1254-1,14,kám nɛ̀ ìnâ,kám nɛ̀ ìnâ,[],,['chan2019'],,False,False,,1
+mpon1254-1-15-1,,mpon1254-1,15,kám nɛ̀ ìtɛ̂n,kám nɛ̀ ìtɛ̂n,[],,['chan2019'],,False,False,,1
+mpon1254-1-16-1,,mpon1254-1,16,kám nɛ̀ twǒ:,kám nɛ̀ twǒ:,[],,['chan2019'],,False,False,,1
+mpon1254-1-16-2,,mpon1254-1,16,kám nɛ̀ tɛ̂n nɛ̀ ŋ̀ɡwát,kám nɛ̀ tɛ̂n nɛ̀ ŋ̀ɡwát,[],,['chan2019'],,False,False,,1
+mpon1254-1-17-1,,mpon1254-1,17,kám nɛ̀ tɛ̂n nɛ̀ ìbá,kám nɛ̀ tɛ̂n nɛ̀ ìbá,[],(10 + 5 + 1),['chan2019'],,False,False,,1
+mpon1254-1-18-1,,mpon1254-1,18,kám nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,kám nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,[],,['chan2019'],,False,False,,1
+mpon1254-1-19-1,,mpon1254-1,19,kám nɛ̀ tɛ̂n nɛ̀ ìnâ,kám nɛ̀ tɛ̂n nɛ̀ ìnâ,[],,['chan2019'],,False,False,,1
+mpon1254-1-20-1,,mpon1254-1,20,mɛ̀kàm mɛ̀mbá,mɛ̀kàm mɛ̀mbá,[],( litː ''tens two''),['chan2019'],,False,False,,1
+mpon1254-1-21-1,,mpon1254-1,21,mɛ̀kàm mɛ̀mbá nɛ̀ ŋ̀ɡwát,mɛ̀kàm mɛ̀mbá nɛ̀ ŋ̀ɡwát,[],,['chan2019'],,False,False,,1
+mpon1254-1-22-1,,mpon1254-1,22,mɛ̀kàm mɛ̀mbá nɛ̀ ìbá,mɛ̀kàm mɛ̀mbá nɛ̀ ìbá,[],,['chan2019'],,False,False,,1
+mpon1254-1-23-1,,mpon1254-1,23,mɛ̀kàm mɛ̀mbá nɛ̀ ìlɛ̏l,mɛ̀kàm mɛ̀mbá nɛ̀ ìlɛ̏l,[],,['chan2019'],,False,False,,1
+mpon1254-1-24-1,,mpon1254-1,24,mɛ̀kàm mɛ̀mbá nɛ̀ ìnâ,mɛ̀kàm mɛ̀mbá nɛ̀ ìnâ,[],,['chan2019'],,False,False,,1
+mpon1254-1-25-1,,mpon1254-1,25,mɛ̀kàm mɛ̀mbá nɛ̀ ìtɛ̂n,mɛ̀kàm mɛ̀mbá nɛ̀ ìtɛ̂n,[],,['chan2019'],,False,False,,1
+mpon1254-1-26-1,,mpon1254-1,26,mɛ̀kàm mɛ̀mbá nɛ̀ twǒ: or k.t.g. ŋ̀ɡwát,mɛ̀kàm mɛ̀mbá nɛ̀ twǒ: or k.t.g. ŋ̀ɡwát,[],,['chan2019'],,False,True,,1
+mpon1254-1-27-1,,mpon1254-1,27,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìbá,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìbá,[],,['chan2019'],,False,False,,1
+mpon1254-1-28-1,,mpon1254-1,28,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìlɛ̏l,[],,['chan2019'],,False,False,,1
+mpon1254-1-29-1,,mpon1254-1,29,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìnâ,mɛ̀kàm mɛ̀mbá nɛ̀ tɛ̂n nɛ̀ ìnâ,[],,['chan2019'],,False,False,,1
+mpon1254-1-30-1,,mpon1254-1,30,mɛ̀kàm mɛ̀lɛ̏l,mɛ̀kàm mɛ̀lɛ̏l,[],(litː 10s 3 ),['chan2019'],,False,False,,1
+mpon1254-1-40-1,,mpon1254-1,40,mɛ̀kàm mɛ̀nâ,mɛ̀kàm mɛ̀nâ,[],(litː 10s 4 ),['chan2019'],,False,False,,1
+mpon1254-1-50-1,,mpon1254-1,50,mɛ̀kàm mɛ̀tɛ̂n,mɛ̀kàm mɛ̀tɛ̂n,[],(litː 10s 5 ),['chan2019'],,False,False,,1
+mpon1254-1-60-1,,mpon1254-1,60,mɛ̀kàm twǒo or mɛ̀kàm mɛ̀tɛ̂n n. ŋ̀ɡwát,mɛ̀kàm twǒo or mɛ̀kàm mɛ̀tɛ̂n n. ŋ̀ɡwát,[],,['chan2019'],,False,True,,1
+mpon1254-1-70-1,,mpon1254-1,70,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀mbá,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀mbá,[],(litː 10s  5+ 2),['chan2019'],,False,False,,1
+mpon1254-1-80-1,,mpon1254-1,80,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀lɛ̏l,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀lɛ̏l,[],,['chan2019'],,False,False,,1
+mpon1254-1-90-1,,mpon1254-1,90,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀nâ,mɛ̀kàm tɛ̂n nɛ̀ mɛ̀nâ,[],,['chan2019'],,False,False,,1
+mpon1254-1-100-1,,mpon1254-1,100,tsȅt,tsȅt,[],,['chan2019'],,False,False,,1
+mpon1254-1-100-2,,mpon1254-1,100,tsȅr̥,tsȅr̥,[],,['chan2019'],,False,False,,1
+mpon1254-1-200-1,,mpon1254-1,200,mìtsȅt mìmbá,mìtsȅt mìmbá,[],( 100s 2 ),['chan2019'],,False,False,,1
+mpon1254-1-1000-1,,mpon1254-1,1000,tɔ́sìn or mîl,tɔ́sìn or mîl,[],( loanwords),['chan2019'],,False,True,,1
+mpon1254-1-2000-1,,mpon1254-1,2000,òtɔ́sìn òbá or òmíl óbá,òtɔ́sìn òbá or òmíl óbá,[],( 1000s 2 ),['chan2019'],,False,True,,1

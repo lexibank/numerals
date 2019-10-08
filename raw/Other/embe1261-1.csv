@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-embe1261-1-1-1,,embe1261-1,1,ɑbɑ,ɑbɑ,[],,[],,False,False,,1
-embe1261-1-2-1,,embe1261-1,2,ume,ume,[],,[],,False,False,,1
-embe1261-1-3-1,,embe1261-1,3,ũpea,ũpea,[],,[],,False,False,,1
-embe1261-1-4-1,,embe1261-1,4,kʰĩmɑ̃rĩ,kʰĩmɑ̃rĩ,[],,[],,False,False,,1
-embe1261-1-5-1,,embe1261-1,5,huesomɑ,huesomɑ,[],(litː ''hand whole'' ),[],,False,False,,1
-embe1261-1-6-1,,embe1261-1,6,huesomɑ́ɑ bɑkʰɑri ɑbɑ,huesomɑ́ɑ bɑkʰɑri ɑbɑ,[],"( litː ''hand-whole, and one'' )",[],,False,False,,1
-embe1261-1-7-1,,embe1261-1,7,huesomɑ́ɑ bɑkʰɑri ume,huesomɑ́ɑ bɑkʰɑri ume,[],"( litː ''hand-whole, and two'' )",[],,False,False,,1
-embe1261-1-8-1,,embe1261-1,8,huesomɑ́ɑ bɑkʰɑri ũpea,huesomɑ́ɑ bɑkʰɑri ũpea,[],"( litː ''hand-whole, and three'' )",[],,False,False,,1
-embe1261-1-9-1,,embe1261-1,9,huesomɑ́ɑ bɑkʰɑri kʰĩmɑ̃rĩ,huesomɑ́ɑ bɑkʰɑri kʰĩmɑ̃rĩ,[],"( litː ''hand-whole, and four'' )",[],,False,False,,1
-embe1261-1-10-1,,embe1261-1,10,huesomɑ ume,huesomɑ ume,[],( litː ''hand-whole two'' ),[],,False,False,,1
-embe1261-1-11-1,,embe1261-1,11,huesomɑ umeɑkʰɑri ɑbɑ,huesomɑ umeɑkʰɑri ɑbɑ,[],"( litː ''hand-whole two, and one'' )",[],,False,False,,1
-embe1261-1-12-1,,embe1261-1,12,huesomɑ umeɑkʰɑri ume,huesomɑ umeɑkʰɑri ume,[],,[],,False,False,,1
-embe1261-1-13-1,,embe1261-1,13,huesomɑ umeɑkʰɑri ũpea,huesomɑ umeɑkʰɑri ũpea,[],,[],,False,False,,1
-embe1261-1-14-1,,embe1261-1,14,huesomɑ umeɑkʰɑri kʰĩmɑ̃rĩ,huesomɑ umeɑkʰɑri kʰĩmɑ̃rĩ,[],,[],,False,False,,1
-embe1261-1-15-1,,embe1261-1,15,huesomɑ ũpeɑ,huesomɑ ũpeɑ,[],( litː ''hand-whole three'' ),[],,False,False,,1
-embe1261-1-16-1,,embe1261-1,16,huesomɑ ũpeɑkʰɑri ɑbɑ,huesomɑ ũpeɑkʰɑri ɑbɑ,[],"( litː ''hand-whole three, and one'' )",[],,False,False,,1
-embe1261-1-17-1,,embe1261-1,17,huesomɑ ũpeɑkʰɑri ume,huesomɑ ũpeɑkʰɑri ume,[],,[],,False,False,,1
-embe1261-1-18-1,,embe1261-1,18,huesomɑ ũpeɑkʰɑri ũpea,huesomɑ ũpeɑkʰɑri ũpea,[],,[],,False,False,,1
-embe1261-1-19-1,,embe1261-1,19,huesomɑ ũpeɑkʰɑri kʰĩmɑ̃rĩ,huesomɑ ũpeɑkʰɑri kʰĩmɑ̃rĩ,[],,[],,False,False,,1
-embe1261-1-20-1,,embe1261-1,20,huesomɑ kʰĩmɑ̃rĩ,huesomɑ kʰĩmɑ̃rĩ,[],( litː ''hand-whole four'' ),[],,False,False,,1
+embe1261-1-1-1,,embe1261-1,1,ɑbɑ,ɑbɑ,[],,['chan2019'],,False,False,,1
+embe1261-1-2-1,,embe1261-1,2,ume,ume,[],,['chan2019'],,False,False,,1
+embe1261-1-3-1,,embe1261-1,3,ũpea,ũpea,[],,['chan2019'],,False,False,,1
+embe1261-1-4-1,,embe1261-1,4,kʰĩmɑ̃rĩ,kʰĩmɑ̃rĩ,[],,['chan2019'],,False,False,,1
+embe1261-1-5-1,,embe1261-1,5,huesomɑ,huesomɑ,[],(litː ''hand whole'' ),['chan2019'],,False,False,,1
+embe1261-1-6-1,,embe1261-1,6,huesomɑ́ɑ bɑkʰɑri ɑbɑ,huesomɑ́ɑ bɑkʰɑri ɑbɑ,[],"( litː ''hand-whole, and one'' )",['chan2019'],,False,False,,1
+embe1261-1-7-1,,embe1261-1,7,huesomɑ́ɑ bɑkʰɑri ume,huesomɑ́ɑ bɑkʰɑri ume,[],"( litː ''hand-whole, and two'' )",['chan2019'],,False,False,,1
+embe1261-1-8-1,,embe1261-1,8,huesomɑ́ɑ bɑkʰɑri ũpea,huesomɑ́ɑ bɑkʰɑri ũpea,[],"( litː ''hand-whole, and three'' )",['chan2019'],,False,False,,1
+embe1261-1-9-1,,embe1261-1,9,huesomɑ́ɑ bɑkʰɑri kʰĩmɑ̃rĩ,huesomɑ́ɑ bɑkʰɑri kʰĩmɑ̃rĩ,[],"( litː ''hand-whole, and four'' )",['chan2019'],,False,False,,1
+embe1261-1-10-1,,embe1261-1,10,huesomɑ ume,huesomɑ ume,[],( litː ''hand-whole two'' ),['chan2019'],,False,False,,1
+embe1261-1-11-1,,embe1261-1,11,huesomɑ umeɑkʰɑri ɑbɑ,huesomɑ umeɑkʰɑri ɑbɑ,[],"( litː ''hand-whole two, and one'' )",['chan2019'],,False,False,,1
+embe1261-1-12-1,,embe1261-1,12,huesomɑ umeɑkʰɑri ume,huesomɑ umeɑkʰɑri ume,[],,['chan2019'],,False,False,,1
+embe1261-1-13-1,,embe1261-1,13,huesomɑ umeɑkʰɑri ũpea,huesomɑ umeɑkʰɑri ũpea,[],,['chan2019'],,False,False,,1
+embe1261-1-14-1,,embe1261-1,14,huesomɑ umeɑkʰɑri kʰĩmɑ̃rĩ,huesomɑ umeɑkʰɑri kʰĩmɑ̃rĩ,[],,['chan2019'],,False,False,,1
+embe1261-1-15-1,,embe1261-1,15,huesomɑ ũpeɑ,huesomɑ ũpeɑ,[],( litː ''hand-whole three'' ),['chan2019'],,False,False,,1
+embe1261-1-16-1,,embe1261-1,16,huesomɑ ũpeɑkʰɑri ɑbɑ,huesomɑ ũpeɑkʰɑri ɑbɑ,[],"( litː ''hand-whole three, and one'' )",['chan2019'],,False,False,,1
+embe1261-1-17-1,,embe1261-1,17,huesomɑ ũpeɑkʰɑri ume,huesomɑ ũpeɑkʰɑri ume,[],,['chan2019'],,False,False,,1
+embe1261-1-18-1,,embe1261-1,18,huesomɑ ũpeɑkʰɑri ũpea,huesomɑ ũpeɑkʰɑri ũpea,[],,['chan2019'],,False,False,,1
+embe1261-1-19-1,,embe1261-1,19,huesomɑ ũpeɑkʰɑri kʰĩmɑ̃rĩ,huesomɑ ũpeɑkʰɑri kʰĩmɑ̃rĩ,[],,['chan2019'],,False,False,,1
+embe1261-1-20-1,,embe1261-1,20,huesomɑ kʰĩmɑ̃rĩ,huesomɑ kʰĩmɑ̃rĩ,[],( litː ''hand-whole four'' ),['chan2019'],,False,False,,1

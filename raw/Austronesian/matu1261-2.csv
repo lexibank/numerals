@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-matu1261-2-1-1,,matu1261-2,1,tahek,tahek,[],,[],,False,False,,2
-matu1261-2-2-1,,matu1261-2,2,aru,aru,[],,[],,False,False,,2
-matu1261-2-3-1,,matu1261-2,3,tol,tol,[],,[],,False,False,,2
-matu1261-2-4-1,,matu1261-2,4,yawa-yawa,yawa-yawa,[],( 2 x 2 ),[],,False,False,,2
-matu1261-2-5-1,,matu1261-2,5,skun tahek,skun tahek,[],( lit: 'hand one' ),[],,False,False,,2
-matu1261-2-6-1,,matu1261-2,6,skun tahek tahek,skun tahek tahek,[],,[],,False,False,,2
-matu1261-2-7-1,,matu1261-2,7,skun tahek aru,skun tahek aru,[],,[],,False,False,,2
-matu1261-2-8-1,,matu1261-2,8,skun tahek tol,skun tahek tol,[],,[],,False,False,,2
-matu1261-2-9-1,,matu1261-2,9,skun tahek yawayawa,skun tahek yawayawa,[],,[],,False,False,,2
-matu1261-2-10-1,,matu1261-2,10,skun aru,skun aru,[],( lit: 'hands two' ),[],,False,False,,2
-matu1261-2-11-1,,matu1261-2,11,skun aru tahek,skun aru tahek,[],,[],,False,False,,2
-matu1261-2-12-1,,matu1261-2,12,skun aru aru,skun aru aru,[],,[],,False,False,,2
-matu1261-2-13-1,,matu1261-2,13,skun aru tol,skun aru tol,[],,[],,False,False,,2
-matu1261-2-14-1,,matu1261-2,14,skun aru yawayawa,skun aru yawayawa,[],,[],,False,False,,2
-matu1261-2-15-1,,matu1261-2,15,skun tol,skun tol,[],(lit: 'hands three'),[],,False,False,,2
-matu1261-2-16-1,,matu1261-2,16,skun tol tahek,skun tol tahek,[],,[],,False,False,,2
-matu1261-2-17-1,,matu1261-2,17,skun tol aru,skun tol aru,[],,[],,False,False,,2
-matu1261-2-18-1,,matu1261-2,18,skun tol tol,skun tol tol,[],,[],,False,False,,2
-matu1261-2-19-1,,matu1261-2,19,skun tol yawayawa,skun tol yawayawa,[],,[],,False,False,,2
-matu1261-2-20-1,,matu1261-2,20,skun yawayawa,skun yawayawa,[],(lit: 'hands four'),[],,False,False,,2
+matu1261-2-1-1,,matu1261-2,1,tahek,tahek,[],,['chan2019'],,False,False,,2
+matu1261-2-2-1,,matu1261-2,2,aru,aru,[],,['chan2019'],,False,False,,2
+matu1261-2-3-1,,matu1261-2,3,tol,tol,[],,['chan2019'],,False,False,,2
+matu1261-2-4-1,,matu1261-2,4,yawa-yawa,yawa-yawa,[],( 2 x 2 ),['chan2019'],,False,False,,2
+matu1261-2-5-1,,matu1261-2,5,skun tahek,skun tahek,[],( lit: 'hand one' ),['chan2019'],,False,False,,2
+matu1261-2-6-1,,matu1261-2,6,skun tahek tahek,skun tahek tahek,[],,['chan2019'],,False,False,,2
+matu1261-2-7-1,,matu1261-2,7,skun tahek aru,skun tahek aru,[],,['chan2019'],,False,False,,2
+matu1261-2-8-1,,matu1261-2,8,skun tahek tol,skun tahek tol,[],,['chan2019'],,False,False,,2
+matu1261-2-9-1,,matu1261-2,9,skun tahek yawayawa,skun tahek yawayawa,[],,['chan2019'],,False,False,,2
+matu1261-2-10-1,,matu1261-2,10,skun aru,skun aru,[],( lit: 'hands two' ),['chan2019'],,False,False,,2
+matu1261-2-11-1,,matu1261-2,11,skun aru tahek,skun aru tahek,[],,['chan2019'],,False,False,,2
+matu1261-2-12-1,,matu1261-2,12,skun aru aru,skun aru aru,[],,['chan2019'],,False,False,,2
+matu1261-2-13-1,,matu1261-2,13,skun aru tol,skun aru tol,[],,['chan2019'],,False,False,,2
+matu1261-2-14-1,,matu1261-2,14,skun aru yawayawa,skun aru yawayawa,[],,['chan2019'],,False,False,,2
+matu1261-2-15-1,,matu1261-2,15,skun tol,skun tol,[],(lit: 'hands three'),['chan2019'],,False,False,,2
+matu1261-2-16-1,,matu1261-2,16,skun tol tahek,skun tol tahek,[],,['chan2019'],,False,False,,2
+matu1261-2-17-1,,matu1261-2,17,skun tol aru,skun tol aru,[],,['chan2019'],,False,False,,2
+matu1261-2-18-1,,matu1261-2,18,skun tol tol,skun tol tol,[],,['chan2019'],,False,False,,2
+matu1261-2-19-1,,matu1261-2,19,skun tol yawayawa,skun tol yawayawa,[],,['chan2019'],,False,False,,2
+matu1261-2-20-1,,matu1261-2,20,skun yawayawa,skun yawayawa,[],(lit: 'hands four'),['chan2019'],,False,False,,2

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-assy1241-2-1-1,,assy1241-2,1,xa,xa,[],,[],,False,False,,2
-assy1241-2-2-1,,assy1241-2,2,tre,tre,[],,[],,False,False,,2
-assy1241-2-3-1,,assy1241-2,3,ṭḷā,ṭḷā,[],,[],,False,False,,2
-assy1241-2-4-1,,assy1241-2,4,ˀạṛp̣,ˀạṛp̣,[],,[],,False,False,,2
-assy1241-2-5-1,,assy1241-2,5,xamša,xamša,[],,[],,False,False,,2
-assy1241-2-6-1,,assy1241-2,6,ɪšta,ɪšta,[],,[],,False,False,,2
-assy1241-2-7-1,,assy1241-2,7,ṣ̌ạṿṿạ,ṣ̌ạṿṿạ,[],,[],,False,False,,2
-assy1241-2-8-1,,assy1241-2,8,tmanya,tmanya,[],,[],,False,False,,2
-assy1241-2-9-1,,assy1241-2,9,ɪ̣č̣č̣ạ,ɪ̣č̣č̣ạ,[],,[],,False,False,,2
-assy1241-2-10-1,,assy1241-2,10,ɪ̣ṣ̣ṛạ,ɪ̣ṣ̣ṛạ,[],,[],,False,False,,2
-assy1241-2-11-1,,assy1241-2,11,xadissar,xadissar,[],,[],,False,False,,2
-assy1241-2-12-1,,assy1241-2,12,trīssar,trīssar,[],,[],,False,False,,2
-assy1241-2-13-1,,assy1241-2,13,ṭɪḷṭạ̄ṣar,ṭɪḷṭạ̄ṣar,[],,[],,False,False,,2
-assy1241-2-14-1,,assy1241-2,14,arbāssar,arbāssar,[],,[],,False,False,,2
-assy1241-2-15-1,,assy1241-2,15,xamšāssar,xamšāssar,[],,[],,False,False,,2
-assy1241-2-16-1,,assy1241-2,16,ɪ̣štāṣar,ɪ̣štāṣar,[],,[],,False,False,,2
-assy1241-2-17-1,,assy1241-2,17,ṣ̌ạṿṿạ̄ṣar,ṣ̌ạṿṿạ̄ṣar,[],,[],,False,False,,2
-assy1241-2-18-1,,assy1241-2,18,tmānɪssar,tmānɪssar,[],,[],,False,False,,2
-assy1241-2-19-1,,assy1241-2,19,ɪ̣č̣č̣ạṣar,ɪ̣č̣č̣ạṣar,[],,[],,False,False,,2
-assy1241-2-20-1,,assy1241-2,20,ɪsri,ɪsri,[],,[],,False,False,,2
-assy1241-2-21-1,,assy1241-2,21,ɪsri xa,ɪsri xa,[],,[],,False,False,,2
-assy1241-2-22-1,,assy1241-2,22,ɪsri tre,ɪsri tre,[],,[],,False,False,,2
-assy1241-2-23-1,,assy1241-2,23,ɪsri ṭḷāθa,ɪsri ṭḷāθa,[],,[],,False,False,,2
-assy1241-2-24-1,,assy1241-2,24,ɪsri ˀarba,ɪsri ˀarba,[],,[],,False,False,,2
-assy1241-2-25-1,,assy1241-2,25,ɪsri xamša,ɪsri xamša,[],,[],,False,False,,2
-assy1241-2-26-1,,assy1241-2,26,ɪsri ˀɨšta,ɪsri ˀɨšta,[],,[],,False,False,,2
-assy1241-2-27-1,,assy1241-2,27,ɪsri šoˀa,ɪsri šoˀa,[],,[],,False,False,,2
-assy1241-2-28-1,,assy1241-2,28,ɪsri tmanya,ɪsri tmanya,[],,[],,False,False,,2
-assy1241-2-29-1,,assy1241-2,29,ɪsri tiša,ɪsri tiša,[],,[],,False,False,,2
-assy1241-2-30-1,,assy1241-2,30,tlay,tlay,[],,[],,False,False,,2
-assy1241-2-40-1,,assy1241-2,40,ˀạṛp̣i,ˀạṛp̣i,[],,[],,False,False,,2
-assy1241-2-50-1,,assy1241-2,50,xamši,xamši,[],,[],,False,False,,2
-assy1241-2-60-1,,assy1241-2,60,ɪšti,ɪšti,[],,[],,False,False,,2
-assy1241-2-70-1,,assy1241-2,70,ṣ̌ạṿṿi,ṣ̌ạṿṿi,[],,[],,False,False,,2
-assy1241-2-80-1,,assy1241-2,80,tmāni,tmāni,[],,[],,False,False,,2
-assy1241-2-90-1,,assy1241-2,90,ɪ̣č̣č̣i,ɪ̣č̣č̣i,[],,[],,False,False,,2
-assy1241-2-100-1,,assy1241-2,100,ɪmma,ɪmma,[],,[],,False,False,,2
-assy1241-2-200-1,,assy1241-2,200,trɪmma,trɪmma,[],,[],,False,False,,2
-assy1241-2-1000-1,,assy1241-2,1000,alpa,alpa,[],,[],,False,False,,2
-assy1241-2-2000-1,,assy1241-2,2000,tre alpɪ,tre alpɪ,[],,[],,False,False,,2
+assy1241-2-1-1,,assy1241-2,1,xa,xa,[],,['chan2019'],,False,False,,2
+assy1241-2-2-1,,assy1241-2,2,tre,tre,[],,['chan2019'],,False,False,,2
+assy1241-2-3-1,,assy1241-2,3,ṭḷā,ṭḷā,[],,['chan2019'],,False,False,,2
+assy1241-2-4-1,,assy1241-2,4,ˀạṛp̣,ˀạṛp̣,[],,['chan2019'],,False,False,,2
+assy1241-2-5-1,,assy1241-2,5,xamša,xamša,[],,['chan2019'],,False,False,,2
+assy1241-2-6-1,,assy1241-2,6,ɪšta,ɪšta,[],,['chan2019'],,False,False,,2
+assy1241-2-7-1,,assy1241-2,7,ṣ̌ạṿṿạ,ṣ̌ạṿṿạ,[],,['chan2019'],,False,False,,2
+assy1241-2-8-1,,assy1241-2,8,tmanya,tmanya,[],,['chan2019'],,False,False,,2
+assy1241-2-9-1,,assy1241-2,9,ɪ̣č̣č̣ạ,ɪ̣č̣č̣ạ,[],,['chan2019'],,False,False,,2
+assy1241-2-10-1,,assy1241-2,10,ɪ̣ṣ̣ṛạ,ɪ̣ṣ̣ṛạ,[],,['chan2019'],,False,False,,2
+assy1241-2-11-1,,assy1241-2,11,xadissar,xadissar,[],,['chan2019'],,False,False,,2
+assy1241-2-12-1,,assy1241-2,12,trīssar,trīssar,[],,['chan2019'],,False,False,,2
+assy1241-2-13-1,,assy1241-2,13,ṭɪḷṭạ̄ṣar,ṭɪḷṭạ̄ṣar,[],,['chan2019'],,False,False,,2
+assy1241-2-14-1,,assy1241-2,14,arbāssar,arbāssar,[],,['chan2019'],,False,False,,2
+assy1241-2-15-1,,assy1241-2,15,xamšāssar,xamšāssar,[],,['chan2019'],,False,False,,2
+assy1241-2-16-1,,assy1241-2,16,ɪ̣štāṣar,ɪ̣štāṣar,[],,['chan2019'],,False,False,,2
+assy1241-2-17-1,,assy1241-2,17,ṣ̌ạṿṿạ̄ṣar,ṣ̌ạṿṿạ̄ṣar,[],,['chan2019'],,False,False,,2
+assy1241-2-18-1,,assy1241-2,18,tmānɪssar,tmānɪssar,[],,['chan2019'],,False,False,,2
+assy1241-2-19-1,,assy1241-2,19,ɪ̣č̣č̣ạṣar,ɪ̣č̣č̣ạṣar,[],,['chan2019'],,False,False,,2
+assy1241-2-20-1,,assy1241-2,20,ɪsri,ɪsri,[],,['chan2019'],,False,False,,2
+assy1241-2-21-1,,assy1241-2,21,ɪsri xa,ɪsri xa,[],,['chan2019'],,False,False,,2
+assy1241-2-22-1,,assy1241-2,22,ɪsri tre,ɪsri tre,[],,['chan2019'],,False,False,,2
+assy1241-2-23-1,,assy1241-2,23,ɪsri ṭḷāθa,ɪsri ṭḷāθa,[],,['chan2019'],,False,False,,2
+assy1241-2-24-1,,assy1241-2,24,ɪsri ˀarba,ɪsri ˀarba,[],,['chan2019'],,False,False,,2
+assy1241-2-25-1,,assy1241-2,25,ɪsri xamša,ɪsri xamša,[],,['chan2019'],,False,False,,2
+assy1241-2-26-1,,assy1241-2,26,ɪsri ˀɨšta,ɪsri ˀɨšta,[],,['chan2019'],,False,False,,2
+assy1241-2-27-1,,assy1241-2,27,ɪsri šoˀa,ɪsri šoˀa,[],,['chan2019'],,False,False,,2
+assy1241-2-28-1,,assy1241-2,28,ɪsri tmanya,ɪsri tmanya,[],,['chan2019'],,False,False,,2
+assy1241-2-29-1,,assy1241-2,29,ɪsri tiša,ɪsri tiša,[],,['chan2019'],,False,False,,2
+assy1241-2-30-1,,assy1241-2,30,tlay,tlay,[],,['chan2019'],,False,False,,2
+assy1241-2-40-1,,assy1241-2,40,ˀạṛp̣i,ˀạṛp̣i,[],,['chan2019'],,False,False,,2
+assy1241-2-50-1,,assy1241-2,50,xamši,xamši,[],,['chan2019'],,False,False,,2
+assy1241-2-60-1,,assy1241-2,60,ɪšti,ɪšti,[],,['chan2019'],,False,False,,2
+assy1241-2-70-1,,assy1241-2,70,ṣ̌ạṿṿi,ṣ̌ạṿṿi,[],,['chan2019'],,False,False,,2
+assy1241-2-80-1,,assy1241-2,80,tmāni,tmāni,[],,['chan2019'],,False,False,,2
+assy1241-2-90-1,,assy1241-2,90,ɪ̣č̣č̣i,ɪ̣č̣č̣i,[],,['chan2019'],,False,False,,2
+assy1241-2-100-1,,assy1241-2,100,ɪmma,ɪmma,[],,['chan2019'],,False,False,,2
+assy1241-2-200-1,,assy1241-2,200,trɪmma,trɪmma,[],,['chan2019'],,False,False,,2
+assy1241-2-1000-1,,assy1241-2,1000,alpa,alpa,[],,['chan2019'],,False,False,,2
+assy1241-2-2000-1,,assy1241-2,2000,tre alpɪ,tre alpɪ,[],,['chan2019'],,False,False,,2

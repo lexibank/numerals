@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-saam1283-2-1-1,,saam1283-2,1,ndala,ndala,[],,[],,False,False,,2
-saam1283-2-2-1,,saam1283-2,2,chibili,chibili,[],,[],,False,False,,2
-saam1283-2-3-1,,saam1283-2,3,chidatu,chidatu,[],,[],,False,False,,2
-saam1283-2-4-1,,saam1283-2,4,chine,chine,[],,[],,False,False,,2
-saam1283-2-5-1,,saam1283-2,5,chitanu,chitanu,[],,[],,False,False,,2
-saam1283-2-6-1,,saam1283-2,6,chisasaba,chisasaba,[],,[],,False,False,,2
-saam1283-2-7-1,,saam1283-2,7,saba,saba,[],( < Swahili ),[],,True,False,,2
-saam1283-2-8-1,,saam1283-2,8,munane,munane,[],( < Swahili ),[],,True,False,,2
-saam1283-2-9-1,,saam1283-2,9,tisa,tisa,[],( < Swahili ),[],,True,False,,2
-saam1283-2-10-1,,saam1283-2,10,ekhumi,ekhumi,[],,[],,False,False,,2
-saam1283-2-11-1,,saam1283-2,11,ekhumina ndala,ekhumina ndala,[],,[],,False,False,,2
-saam1283-2-12-1,,saam1283-2,12,ekhumina chibili,ekhumina chibili,[],,[],,False,False,,2
-saam1283-2-13-1,,saam1283-2,13,ekhumina chidatu,ekhumina chidatu,[],,[],,False,False,,2
-saam1283-2-14-1,,saam1283-2,14,ekhumina chine,ekhumina chine,[],,[],,False,False,,2
-saam1283-2-15-1,,saam1283-2,15,ekhumina chitanu,ekhumina chitanu,[],,[],,False,False,,2
-saam1283-2-16-1,,saam1283-2,16,ekhumi na chsasaba,ekhumi na chsasaba,[],,[],,False,False,,2
-saam1283-2-17-1,,saam1283-2,17,ekhumina saba,ekhumina saba,[],,[],,False,False,,2
-saam1283-2-18-1,,saam1283-2,18,ekhumina munane,ekhumina munane,[],,[],,False,False,,2
-saam1283-2-19-1,,saam1283-2,19,ekhumina tisa,ekhumina tisa,[],,[],,False,False,,2
-saam1283-2-20-1,,saam1283-2,20,amakhumi kabili,amakhumi kabili,[],,[],,False,False,,2
-saam1283-2-21-1,,saam1283-2,21,kabili na ndala,kabili na ndala,[],,[],,False,False,,2
-saam1283-2-22-1,,saam1283-2,22,kabili na chibili,kabili na chibili,[],,[],,False,False,,2
-saam1283-2-23-1,,saam1283-2,23,kabili na chdatu,kabili na chdatu,[],,[],,False,False,,2
-saam1283-2-24-1,,saam1283-2,24,kabili na chine,kabili na chine,[],,[],,False,False,,2
-saam1283-2-25-1,,saam1283-2,25,kabili na chitanu,kabili na chitanu,[],,[],,False,False,,2
-saam1283-2-26-1,,saam1283-2,26,kabili na chisasaba,kabili na chisasaba,[],,[],,False,False,,2
-saam1283-2-27-1,,saam1283-2,27,kabili na saba,kabili na saba,[],,[],,False,False,,2
-saam1283-2-28-1,,saam1283-2,28,kabili na munane,kabili na munane,[],,[],,False,False,,2
-saam1283-2-29-1,,saam1283-2,29,kabili na tisa,kabili na tisa,[],,[],,False,False,,2
-saam1283-2-30-1,,saam1283-2,30,amakhumi kadatu,amakhumi kadatu,[],,[],,False,False,,2
-saam1283-2-40-1,,saam1283-2,40,amakhumi kane,amakhumi kane,[],,[],,False,False,,2
-saam1283-2-50-1,,saam1283-2,50,amakhumi katanu,amakhumi katanu,[],,[],,False,False,,2
-saam1283-2-60-1,,saam1283-2,60,amakhumi kasasaba,amakhumi kasasaba,[],,[],,False,False,,2
-saam1283-2-70-1,,saam1283-2,70,amakhumi saba,amakhumi saba,[],,[],,False,False,,2
-saam1283-2-80-1,,saam1283-2,80,amakhumi munane,amakhumi munane,[],,[],,False,False,,2
-saam1283-2-90-1,,saam1283-2,90,amakhumi tisa,amakhumi tisa,[],,[],,False,False,,2
-saam1283-2-100-1,,saam1283-2,100,emia ndala,emia ndala,[],( 'mia' < Swahili ),[],,True,False,,2
-saam1283-2-200-1,,saam1283-2,200,emia chibili,emia chibili,[],,[],,False,False,,2
-saam1283-2-1000-1,,saam1283-2,1000,elifu,elifu,[],( < Swahili ),[],,True,False,,2
-saam1283-2-2000-1,,saam1283-2,2000,elifu chibili,elifu chibili,[],,[],,False,False,,2
+saam1283-2-1-1,,saam1283-2,1,ndala,ndala,[],,['chan2019'],,False,False,,2
+saam1283-2-2-1,,saam1283-2,2,chibili,chibili,[],,['chan2019'],,False,False,,2
+saam1283-2-3-1,,saam1283-2,3,chidatu,chidatu,[],,['chan2019'],,False,False,,2
+saam1283-2-4-1,,saam1283-2,4,chine,chine,[],,['chan2019'],,False,False,,2
+saam1283-2-5-1,,saam1283-2,5,chitanu,chitanu,[],,['chan2019'],,False,False,,2
+saam1283-2-6-1,,saam1283-2,6,chisasaba,chisasaba,[],,['chan2019'],,False,False,,2
+saam1283-2-7-1,,saam1283-2,7,saba,saba,[],( < Swahili ),['chan2019'],,True,False,,2
+saam1283-2-8-1,,saam1283-2,8,munane,munane,[],( < Swahili ),['chan2019'],,True,False,,2
+saam1283-2-9-1,,saam1283-2,9,tisa,tisa,[],( < Swahili ),['chan2019'],,True,False,,2
+saam1283-2-10-1,,saam1283-2,10,ekhumi,ekhumi,[],,['chan2019'],,False,False,,2
+saam1283-2-11-1,,saam1283-2,11,ekhumina ndala,ekhumina ndala,[],,['chan2019'],,False,False,,2
+saam1283-2-12-1,,saam1283-2,12,ekhumina chibili,ekhumina chibili,[],,['chan2019'],,False,False,,2
+saam1283-2-13-1,,saam1283-2,13,ekhumina chidatu,ekhumina chidatu,[],,['chan2019'],,False,False,,2
+saam1283-2-14-1,,saam1283-2,14,ekhumina chine,ekhumina chine,[],,['chan2019'],,False,False,,2
+saam1283-2-15-1,,saam1283-2,15,ekhumina chitanu,ekhumina chitanu,[],,['chan2019'],,False,False,,2
+saam1283-2-16-1,,saam1283-2,16,ekhumi na chsasaba,ekhumi na chsasaba,[],,['chan2019'],,False,False,,2
+saam1283-2-17-1,,saam1283-2,17,ekhumina saba,ekhumina saba,[],,['chan2019'],,False,False,,2
+saam1283-2-18-1,,saam1283-2,18,ekhumina munane,ekhumina munane,[],,['chan2019'],,False,False,,2
+saam1283-2-19-1,,saam1283-2,19,ekhumina tisa,ekhumina tisa,[],,['chan2019'],,False,False,,2
+saam1283-2-20-1,,saam1283-2,20,amakhumi kabili,amakhumi kabili,[],,['chan2019'],,False,False,,2
+saam1283-2-21-1,,saam1283-2,21,kabili na ndala,kabili na ndala,[],,['chan2019'],,False,False,,2
+saam1283-2-22-1,,saam1283-2,22,kabili na chibili,kabili na chibili,[],,['chan2019'],,False,False,,2
+saam1283-2-23-1,,saam1283-2,23,kabili na chdatu,kabili na chdatu,[],,['chan2019'],,False,False,,2
+saam1283-2-24-1,,saam1283-2,24,kabili na chine,kabili na chine,[],,['chan2019'],,False,False,,2
+saam1283-2-25-1,,saam1283-2,25,kabili na chitanu,kabili na chitanu,[],,['chan2019'],,False,False,,2
+saam1283-2-26-1,,saam1283-2,26,kabili na chisasaba,kabili na chisasaba,[],,['chan2019'],,False,False,,2
+saam1283-2-27-1,,saam1283-2,27,kabili na saba,kabili na saba,[],,['chan2019'],,False,False,,2
+saam1283-2-28-1,,saam1283-2,28,kabili na munane,kabili na munane,[],,['chan2019'],,False,False,,2
+saam1283-2-29-1,,saam1283-2,29,kabili na tisa,kabili na tisa,[],,['chan2019'],,False,False,,2
+saam1283-2-30-1,,saam1283-2,30,amakhumi kadatu,amakhumi kadatu,[],,['chan2019'],,False,False,,2
+saam1283-2-40-1,,saam1283-2,40,amakhumi kane,amakhumi kane,[],,['chan2019'],,False,False,,2
+saam1283-2-50-1,,saam1283-2,50,amakhumi katanu,amakhumi katanu,[],,['chan2019'],,False,False,,2
+saam1283-2-60-1,,saam1283-2,60,amakhumi kasasaba,amakhumi kasasaba,[],,['chan2019'],,False,False,,2
+saam1283-2-70-1,,saam1283-2,70,amakhumi saba,amakhumi saba,[],,['chan2019'],,False,False,,2
+saam1283-2-80-1,,saam1283-2,80,amakhumi munane,amakhumi munane,[],,['chan2019'],,False,False,,2
+saam1283-2-90-1,,saam1283-2,90,amakhumi tisa,amakhumi tisa,[],,['chan2019'],,False,False,,2
+saam1283-2-100-1,,saam1283-2,100,emia ndala,emia ndala,[],( 'mia' < Swahili ),['chan2019'],,True,False,,2
+saam1283-2-200-1,,saam1283-2,200,emia chibili,emia chibili,[],,['chan2019'],,False,False,,2
+saam1283-2-1000-1,,saam1283-2,1000,elifu,elifu,[],( < Swahili ),['chan2019'],,True,False,,2
+saam1283-2-2000-1,,saam1283-2,2000,elifu chibili,elifu chibili,[],,['chan2019'],,False,False,,2

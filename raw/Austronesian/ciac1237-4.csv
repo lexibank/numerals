@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ciac1237-4-1-1,,ciac1237-4,1,'ise,'ise,[],,[],,False,False,,4
-ciac1237-4-2-1,,ciac1237-4,2,'rua,'rua,[],,[],,False,False,,4
-ciac1237-4-3-1,,ciac1237-4,3,'tolu,'tolu,[],(o = IPA [ o ]),[],,False,False,,4
-ciac1237-4-4-1,,ciac1237-4,4,'paʔa,'paʔa,[],,[],,False,False,,4
-ciac1237-4-5-1,,ciac1237-4,5,'lima,'lima,[],,[],,False,False,,4
-ciac1237-4-6-1,,ciac1237-4,6,'noʔo,'noʔo,[],,[],,False,False,,4
-ciac1237-4-7-1,,ciac1237-4,7,'picu,'picu,[],( c = IPA [tʃ]),[],,False,False,,4
-ciac1237-4-8-1,,ciac1237-4,8,'oalu,'oalu,[],,[],,False,False,,4
-ciac1237-4-8-2,,ciac1237-4,8,o'walu,o'walu,[],,[],,False,False,,4
-ciac1237-4-9-1,,ciac1237-4,9,'siua,'siua,[],,[],,False,False,,4
-ciac1237-4-10-1,,ciac1237-4,10,o'mpulu,o'mpulu,[],,[],,False,False,,4
-ciac1237-4-11-1,,ciac1237-4,11,o'mpulu a'mea,o'mpulu a'mea,[],,[],,False,False,,4
-ciac1237-4-12-1,,ciac1237-4,12,o'mpulu do'rua,o'mpulu do'rua,[],,[],,False,False,,4
-ciac1237-4-13-1,,ciac1237-4,13,o'mpulu to'tolu,o'mpulu to'tolu,[],,[],,False,False,,4
-ciac1237-4-14-1,,ciac1237-4,14,o'mpulu po'paʔa,o'mpulu po'paʔa,[],,[],,False,False,,4
-ciac1237-4-15-1,,ciac1237-4,15,o'mpulu lo'lima,o'mpulu lo'lima,[],,[],,False,False,,4
-ciac1237-4-16-1,,ciac1237-4,16,o'mpulu no'noʔo,o'mpulu no'noʔo,[],,[],,False,False,,4
-ciac1237-4-17-1,,ciac1237-4,17,o'mpulu po'picu,o'mpulu po'picu,[],,[],,False,False,,4
-ciac1237-4-18-1,,ciac1237-4,18,o'mpulu o'alu,o'mpulu o'alu,[],,[],,False,False,,4
-ciac1237-4-19-1,,ciac1237-4,19,o'mpulu 'siua,o'mpulu 'siua,[],,[],,False,False,,4
-ciac1237-4-20-1,,ciac1237-4,20,rua'pulu,rua'pulu,[],,[],,False,False,,4
-ciac1237-4-21-1,,ciac1237-4,21,rua'pulu a'mea,rua'pulu a'mea,[],,[],,False,False,,4
-ciac1237-4-22-1,,ciac1237-4,22,rua'pulu do'rua,rua'pulu do'rua,[],,[],,False,False,,4
-ciac1237-4-23-1,,ciac1237-4,23,rua'pulu to'tolu,rua'pulu to'tolu,[],,[],,False,False,,4
-ciac1237-4-24-1,,ciac1237-4,24,rua'pulu pa'paʔa,rua'pulu pa'paʔa,[],,[],,False,False,,4
-ciac1237-4-25-1,,ciac1237-4,25,rua'pulu lo'lima,rua'pulu lo'lima,[],,[],,False,False,,4
-ciac1237-4-26-1,,ciac1237-4,26,rua'pulu no'noʔo,rua'pulu no'noʔo,[],,[],,False,False,,4
-ciac1237-4-27-1,,ciac1237-4,27,rua'pulu po'picu,rua'pulu po'picu,[],,[],,False,False,,4
-ciac1237-4-28-1,,ciac1237-4,28,rua'pulu o'alu,rua'pulu o'alu,[],,[],,False,False,,4
-ciac1237-4-29-1,,ciac1237-4,29,rua'pulu 'siua,rua'pulu 'siua,[],,[],,False,False,,4
-ciac1237-4-30-1,,ciac1237-4,30,'tolu 'pulu,'tolu 'pulu,[],,[],,False,False,,4
-ciac1237-4-40-1,,ciac1237-4,40,'pato 'pulu,'pato 'pulu,[],,[],,False,False,,4
-ciac1237-4-50-1,,ciac1237-4,50,'lima 'pulu,'lima 'pulu,[],,[],,False,False,,4
-ciac1237-4-60-1,,ciac1237-4,60,'nomo 'pulu,'nomo 'pulu,[],,[],,False,False,,4
-ciac1237-4-70-1,,ciac1237-4,70,'picu 'pulu,'picu 'pulu,[],,[],,False,False,,4
-ciac1237-4-80-1,,ciac1237-4,80,'walu 'pulu,'walu 'pulu,[],,[],,False,False,,4
-ciac1237-4-90-1,,ciac1237-4,90,'siua 'pulu,'siua 'pulu,[],,[],,False,False,,4
-ciac1237-4-100-1,,ciac1237-4,100,a'hacu,a'hacu,[],,[],,False,False,,4
-ciac1237-4-200-1,,ciac1237-4,200,'rua 'hacu,'rua 'hacu,[],,[],,False,False,,4
-ciac1237-4-1000-1,,ciac1237-4,1000,a'riwu,a'riwu,[],,[],,False,False,,4
-ciac1237-4-2000-1,,ciac1237-4,2000,rua'riwu,rua'riwu,[],,[],,False,False,,4
+ciac1237-4-1-1,,ciac1237-4,1,'ise,'ise,[],,['chan2019'],,False,False,,4
+ciac1237-4-2-1,,ciac1237-4,2,'rua,'rua,[],,['chan2019'],,False,False,,4
+ciac1237-4-3-1,,ciac1237-4,3,'tolu,'tolu,[],(o = IPA [ o ]),['chan2019'],,False,False,,4
+ciac1237-4-4-1,,ciac1237-4,4,'paʔa,'paʔa,[],,['chan2019'],,False,False,,4
+ciac1237-4-5-1,,ciac1237-4,5,'lima,'lima,[],,['chan2019'],,False,False,,4
+ciac1237-4-6-1,,ciac1237-4,6,'noʔo,'noʔo,[],,['chan2019'],,False,False,,4
+ciac1237-4-7-1,,ciac1237-4,7,'picu,'picu,[],( c = IPA [tʃ]),['chan2019'],,False,False,,4
+ciac1237-4-8-1,,ciac1237-4,8,'oalu,'oalu,[],,['chan2019'],,False,False,,4
+ciac1237-4-8-2,,ciac1237-4,8,o'walu,o'walu,[],,['chan2019'],,False,False,,4
+ciac1237-4-9-1,,ciac1237-4,9,'siua,'siua,[],,['chan2019'],,False,False,,4
+ciac1237-4-10-1,,ciac1237-4,10,o'mpulu,o'mpulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-11-1,,ciac1237-4,11,o'mpulu a'mea,o'mpulu a'mea,[],,['chan2019'],,False,False,,4
+ciac1237-4-12-1,,ciac1237-4,12,o'mpulu do'rua,o'mpulu do'rua,[],,['chan2019'],,False,False,,4
+ciac1237-4-13-1,,ciac1237-4,13,o'mpulu to'tolu,o'mpulu to'tolu,[],,['chan2019'],,False,False,,4
+ciac1237-4-14-1,,ciac1237-4,14,o'mpulu po'paʔa,o'mpulu po'paʔa,[],,['chan2019'],,False,False,,4
+ciac1237-4-15-1,,ciac1237-4,15,o'mpulu lo'lima,o'mpulu lo'lima,[],,['chan2019'],,False,False,,4
+ciac1237-4-16-1,,ciac1237-4,16,o'mpulu no'noʔo,o'mpulu no'noʔo,[],,['chan2019'],,False,False,,4
+ciac1237-4-17-1,,ciac1237-4,17,o'mpulu po'picu,o'mpulu po'picu,[],,['chan2019'],,False,False,,4
+ciac1237-4-18-1,,ciac1237-4,18,o'mpulu o'alu,o'mpulu o'alu,[],,['chan2019'],,False,False,,4
+ciac1237-4-19-1,,ciac1237-4,19,o'mpulu 'siua,o'mpulu 'siua,[],,['chan2019'],,False,False,,4
+ciac1237-4-20-1,,ciac1237-4,20,rua'pulu,rua'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-21-1,,ciac1237-4,21,rua'pulu a'mea,rua'pulu a'mea,[],,['chan2019'],,False,False,,4
+ciac1237-4-22-1,,ciac1237-4,22,rua'pulu do'rua,rua'pulu do'rua,[],,['chan2019'],,False,False,,4
+ciac1237-4-23-1,,ciac1237-4,23,rua'pulu to'tolu,rua'pulu to'tolu,[],,['chan2019'],,False,False,,4
+ciac1237-4-24-1,,ciac1237-4,24,rua'pulu pa'paʔa,rua'pulu pa'paʔa,[],,['chan2019'],,False,False,,4
+ciac1237-4-25-1,,ciac1237-4,25,rua'pulu lo'lima,rua'pulu lo'lima,[],,['chan2019'],,False,False,,4
+ciac1237-4-26-1,,ciac1237-4,26,rua'pulu no'noʔo,rua'pulu no'noʔo,[],,['chan2019'],,False,False,,4
+ciac1237-4-27-1,,ciac1237-4,27,rua'pulu po'picu,rua'pulu po'picu,[],,['chan2019'],,False,False,,4
+ciac1237-4-28-1,,ciac1237-4,28,rua'pulu o'alu,rua'pulu o'alu,[],,['chan2019'],,False,False,,4
+ciac1237-4-29-1,,ciac1237-4,29,rua'pulu 'siua,rua'pulu 'siua,[],,['chan2019'],,False,False,,4
+ciac1237-4-30-1,,ciac1237-4,30,'tolu 'pulu,'tolu 'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-40-1,,ciac1237-4,40,'pato 'pulu,'pato 'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-50-1,,ciac1237-4,50,'lima 'pulu,'lima 'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-60-1,,ciac1237-4,60,'nomo 'pulu,'nomo 'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-70-1,,ciac1237-4,70,'picu 'pulu,'picu 'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-80-1,,ciac1237-4,80,'walu 'pulu,'walu 'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-90-1,,ciac1237-4,90,'siua 'pulu,'siua 'pulu,[],,['chan2019'],,False,False,,4
+ciac1237-4-100-1,,ciac1237-4,100,a'hacu,a'hacu,[],,['chan2019'],,False,False,,4
+ciac1237-4-200-1,,ciac1237-4,200,'rua 'hacu,'rua 'hacu,[],,['chan2019'],,False,False,,4
+ciac1237-4-1000-1,,ciac1237-4,1000,a'riwu,a'riwu,[],,['chan2019'],,False,False,,4
+ciac1237-4-2000-1,,ciac1237-4,2000,rua'riwu,rua'riwu,[],,['chan2019'],,False,False,,4

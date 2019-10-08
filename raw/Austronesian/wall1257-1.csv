@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wall1257-1-1-1,,wall1257-1,1,tahi,tahi,[],,[],,False,False,,1
-wall1257-1-2-1,,wall1257-1,2,lua,lua,[],,[],,False,False,,1
-wall1257-1-3-1,,wall1257-1,3,tolu,tolu,[],,[],,False,False,,1
-wall1257-1-4-1,,wall1257-1,4,faː,faː,[],,[],,False,False,,1
-wall1257-1-5-1,,wall1257-1,5,nima,nima,[],,[],,False,False,,1
-wall1257-1-6-1,,wall1257-1,6,ono,ono,[],,[],,False,False,,1
-wall1257-1-7-1,,wall1257-1,7,fitu,fitu,[],,[],,False,False,,1
-wall1257-1-8-1,,wall1257-1,8,valu,valu,[],,[],,False,False,,1
-wall1257-1-9-1,,wall1257-1,9,hiva,hiva,[],,[],,False,False,,1
-wall1257-1-10-1,,wall1257-1,10,hoŋofulu,hoŋofulu,[],,[],,False,False,,1
-wall1257-1-11-1,,wall1257-1,11,hoŋofulu maː tahi,hoŋofulu maː tahi,[],,[],,False,False,,1
-wall1257-1-12-1,,wall1257-1,12,hoŋofulu maː lua,hoŋofulu maː lua,[],,[],,False,False,,1
-wall1257-1-13-1,,wall1257-1,13,hoŋofulu maː tolu,hoŋofulu maː tolu,[],,[],,False,False,,1
-wall1257-1-14-1,,wall1257-1,14,hoŋofulu maː faː,hoŋofulu maː faː,[],,[],,False,False,,1
-wall1257-1-15-1,,wall1257-1,15,hoŋofulu maː lima,hoŋofulu maː lima,[],,[],,False,False,,1
-wall1257-1-16-1,,wall1257-1,16,hoŋofulu maː ono,hoŋofulu maː ono,[],,[],,False,False,,1
-wall1257-1-17-1,,wall1257-1,17,hoŋofulu maː fitu,hoŋofulu maː fitu,[],,[],,False,False,,1
-wall1257-1-18-1,,wall1257-1,18,hoŋofulu maː valu,hoŋofulu maː valu,[],,[],,False,False,,1
-wall1257-1-19-1,,wall1257-1,19,hoŋofulu maː hiva,hoŋofulu maː hiva,[],,[],,False,False,,1
-wall1257-1-20-1,,wall1257-1,20,uafulu,uafulu,[],,[],,False,False,,1
-wall1257-1-21-1,,wall1257-1,21,uafulu maː tahi,uafulu maː tahi,[],,[],,False,False,,1
-wall1257-1-22-1,,wall1257-1,22,uafulu maː lua,uafulu maː lua,[],,[],,False,False,,1
-wall1257-1-23-1,,wall1257-1,23,uafulu maː tolu,uafulu maː tolu,[],,[],,False,False,,1
-wall1257-1-24-1,,wall1257-1,24,uafulu maː faː,uafulu maː faː,[],,[],,False,False,,1
-wall1257-1-25-1,,wall1257-1,25,uafulu maː nima,uafulu maː nima,[],,[],,False,False,,1
-wall1257-1-26-1,,wall1257-1,26,uafulu maː ono,uafulu maː ono,[],,[],,False,False,,1
-wall1257-1-27-1,,wall1257-1,27,uafulu maː fitu,uafulu maː fitu,[],,[],,False,False,,1
-wall1257-1-28-1,,wall1257-1,28,uafulu maː valu,uafulu maː valu,[],,[],,False,False,,1
-wall1257-1-29-1,,wall1257-1,29,uafulu maː hiva,uafulu maː hiva,[],,[],,False,False,,1
-wall1257-1-30-1,,wall1257-1,30,toluŋofulu,toluŋofulu,[],,[],,False,False,,1
-wall1257-1-40-1,,wall1257-1,40,faːŋofulu,faːŋofulu,[],,[],,False,False,,1
-wall1257-1-50-1,,wall1257-1,50,nimaŋofulu,nimaŋofulu,[],,[],,False,False,,1
-wall1257-1-60-1,,wall1257-1,60,onoŋofulu,onoŋofulu,[],,[],,False,False,,1
-wall1257-1-70-1,,wall1257-1,70,fituŋofulu,fituŋofulu,[],,[],,False,False,,1
-wall1257-1-80-1,,wall1257-1,80,valuŋofulu,valuŋofulu,[],,[],,False,False,,1
-wall1257-1-90-1,,wall1257-1,90,hivaŋofulu,hivaŋofulu,[],,[],,False,False,,1
-wall1257-1-100-1,,wall1257-1,100,teau,teau,[],,[],,False,False,,1
-wall1257-1-200-1,,wall1257-1,200,luaŋeau,luaŋeau,[],,[],,False,False,,1
-wall1257-1-1000-1,,wall1257-1,1000,afe,afe,[],,[],,False,False,,1
-wall1257-1-2000-1,,wall1257-1,2000,lua afe,lua afe,[],,[],,False,False,,1
+wall1257-1-1-1,,wall1257-1,1,tahi,tahi,[],,['chan2019'],,False,False,,1
+wall1257-1-2-1,,wall1257-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+wall1257-1-3-1,,wall1257-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+wall1257-1-4-1,,wall1257-1,4,faː,faː,[],,['chan2019'],,False,False,,1
+wall1257-1-5-1,,wall1257-1,5,nima,nima,[],,['chan2019'],,False,False,,1
+wall1257-1-6-1,,wall1257-1,6,ono,ono,[],,['chan2019'],,False,False,,1
+wall1257-1-7-1,,wall1257-1,7,fitu,fitu,[],,['chan2019'],,False,False,,1
+wall1257-1-8-1,,wall1257-1,8,valu,valu,[],,['chan2019'],,False,False,,1
+wall1257-1-9-1,,wall1257-1,9,hiva,hiva,[],,['chan2019'],,False,False,,1
+wall1257-1-10-1,,wall1257-1,10,hoŋofulu,hoŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-11-1,,wall1257-1,11,hoŋofulu maː tahi,hoŋofulu maː tahi,[],,['chan2019'],,False,False,,1
+wall1257-1-12-1,,wall1257-1,12,hoŋofulu maː lua,hoŋofulu maː lua,[],,['chan2019'],,False,False,,1
+wall1257-1-13-1,,wall1257-1,13,hoŋofulu maː tolu,hoŋofulu maː tolu,[],,['chan2019'],,False,False,,1
+wall1257-1-14-1,,wall1257-1,14,hoŋofulu maː faː,hoŋofulu maː faː,[],,['chan2019'],,False,False,,1
+wall1257-1-15-1,,wall1257-1,15,hoŋofulu maː lima,hoŋofulu maː lima,[],,['chan2019'],,False,False,,1
+wall1257-1-16-1,,wall1257-1,16,hoŋofulu maː ono,hoŋofulu maː ono,[],,['chan2019'],,False,False,,1
+wall1257-1-17-1,,wall1257-1,17,hoŋofulu maː fitu,hoŋofulu maː fitu,[],,['chan2019'],,False,False,,1
+wall1257-1-18-1,,wall1257-1,18,hoŋofulu maː valu,hoŋofulu maː valu,[],,['chan2019'],,False,False,,1
+wall1257-1-19-1,,wall1257-1,19,hoŋofulu maː hiva,hoŋofulu maː hiva,[],,['chan2019'],,False,False,,1
+wall1257-1-20-1,,wall1257-1,20,uafulu,uafulu,[],,['chan2019'],,False,False,,1
+wall1257-1-21-1,,wall1257-1,21,uafulu maː tahi,uafulu maː tahi,[],,['chan2019'],,False,False,,1
+wall1257-1-22-1,,wall1257-1,22,uafulu maː lua,uafulu maː lua,[],,['chan2019'],,False,False,,1
+wall1257-1-23-1,,wall1257-1,23,uafulu maː tolu,uafulu maː tolu,[],,['chan2019'],,False,False,,1
+wall1257-1-24-1,,wall1257-1,24,uafulu maː faː,uafulu maː faː,[],,['chan2019'],,False,False,,1
+wall1257-1-25-1,,wall1257-1,25,uafulu maː nima,uafulu maː nima,[],,['chan2019'],,False,False,,1
+wall1257-1-26-1,,wall1257-1,26,uafulu maː ono,uafulu maː ono,[],,['chan2019'],,False,False,,1
+wall1257-1-27-1,,wall1257-1,27,uafulu maː fitu,uafulu maː fitu,[],,['chan2019'],,False,False,,1
+wall1257-1-28-1,,wall1257-1,28,uafulu maː valu,uafulu maː valu,[],,['chan2019'],,False,False,,1
+wall1257-1-29-1,,wall1257-1,29,uafulu maː hiva,uafulu maː hiva,[],,['chan2019'],,False,False,,1
+wall1257-1-30-1,,wall1257-1,30,toluŋofulu,toluŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-40-1,,wall1257-1,40,faːŋofulu,faːŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-50-1,,wall1257-1,50,nimaŋofulu,nimaŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-60-1,,wall1257-1,60,onoŋofulu,onoŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-70-1,,wall1257-1,70,fituŋofulu,fituŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-80-1,,wall1257-1,80,valuŋofulu,valuŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-90-1,,wall1257-1,90,hivaŋofulu,hivaŋofulu,[],,['chan2019'],,False,False,,1
+wall1257-1-100-1,,wall1257-1,100,teau,teau,[],,['chan2019'],,False,False,,1
+wall1257-1-200-1,,wall1257-1,200,luaŋeau,luaŋeau,[],,['chan2019'],,False,False,,1
+wall1257-1-1000-1,,wall1257-1,1000,afe,afe,[],,['chan2019'],,False,False,,1
+wall1257-1-2000-1,,wall1257-1,2000,lua afe,lua afe,[],,['chan2019'],,False,False,,1

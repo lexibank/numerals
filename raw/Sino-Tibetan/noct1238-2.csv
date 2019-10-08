@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-noct1238-2-1-1,,noct1238-2,1,vantʰé,vantʰé,[],,[],,False,False,,2
-noct1238-2-2-1,,noct1238-2,2,vanní,vanní,[],,[],,False,False,,2
-noct1238-2-3-1,,noct1238-2,3,vanrə́m,vanrə́m,[],,[],,False,False,,2
-noct1238-2-4-1,,noct1238-2,4,vanbəlí or bəlí,vanbəlí or bəlí,[],,[],,False,True,,2
-noct1238-2-5-1,,noct1238-2,5,vanbəŋá or bəŋá,vanbəŋá or bəŋá,[],,[],,False,True,,2
-noct1238-2-6-1,,noct1238-2,6,vanrók or ərók,vanrók or ərók,[],,[],,False,True,,2
-noct1238-2-7-1,,noct1238-2,7,vanŋít or əŋít,vanŋít or əŋít,[],,[],,False,True,,2
-noct1238-2-8-1,,noct1238-2,8,vansét or əsét,vansét or əsét,[],,[],,False,True,,2
-noct1238-2-9-1,,noct1238-2,9,vankʰú or əkʰú,vankʰú or əkʰú,[],,[],,False,True,,2
-noct1238-2-10-1,,noct1238-2,10,vancʰí or əcʰí,vancʰí or əcʰí,[],,[],,False,True,,2
-noct1238-2-11-1,,noct1238-2,11,əcʰí vantʰé,əcʰí vantʰé,[],,[],,False,False,,2
-noct1238-2-12-1,,noct1238-2,12,əcʰí vanní,əcʰí vanní,[],,[],,False,False,,2
-noct1238-2-13-1,,noct1238-2,13,əcʰí vanrə́m,əcʰí vanrə́m,[],,[],,False,False,,2
-noct1238-2-14-1,,noct1238-2,14,əcʰí vanbəlí,əcʰí vanbəlí,[],,[],,False,False,,2
-noct1238-2-15-1,,noct1238-2,15,əcʰí vanbəŋá,əcʰí vanbəŋá,[],,[],,False,False,,2
-noct1238-2-16-1,,noct1238-2,16,əcʰí vanrók,əcʰí vanrók,[],,[],,False,False,,2
-noct1238-2-17-1,,noct1238-2,17,əcʰí vanŋít,əcʰí vanŋít,[],,[],,False,False,,2
-noct1238-2-18-1,,noct1238-2,18,əcʰí vansét,əcʰí vansét,[],,[],,False,False,,2
-noct1238-2-19-1,,noct1238-2,19,əcʰí vankʰú,əcʰí vankʰú,[],,[],,False,False,,2
-noct1238-2-20-1,,noct1238-2,20,roakní,roakní,[],,[],,False,False,,2
-noct1238-2-21-1,,noct1238-2,21,roakní vantʰé,roakní vantʰé,[],,[],,False,False,,2
-noct1238-2-22-1,,noct1238-2,22,roakní vanrə́m,roakní vanrə́m,[],,[],,False,False,,2
-noct1238-2-24-1,,noct1238-2,24,roakní vanbəlí,roakní vanbəlí,[],,[],,False,False,,2
-noct1238-2-25-1,,noct1238-2,25,roakní vanbəŋá,roakní vanbəŋá,[],,[],,False,False,,2
-noct1238-2-26-1,,noct1238-2,26,roakní vanrók,roakní vanrók,[],,[],,False,False,,2
-noct1238-2-27-1,,noct1238-2,27,roakní vanŋít,roakní vanŋít,[],,[],,False,False,,2
-noct1238-2-28-1,,noct1238-2,28,roakní vansét,roakní vansét,[],,[],,False,False,,2
-noct1238-2-29-1,,noct1238-2,29,roakní vankʰú,roakní vankʰú,[],,[],,False,False,,2
-noct1238-2-30-1,,noct1238-2,30,roak-rəm,roak-rəm,[],,[],,False,False,,2
-noct1238-2-40-1,,noct1238-2,40,roak-bəlí,roak-bəlí,[],,[],,False,False,,2
-noct1238-2-50-1,,noct1238-2,50,roak-bəŋá,roak-bəŋá,[],,[],,False,False,,2
-noct1238-2-60-1,,noct1238-2,60,roak-rók,roak-rók,[],,[],,False,False,,2
-noct1238-2-70-1,,noct1238-2,70,roak-ŋík,roak-ŋík,[],,[],,False,False,,2
-noct1238-2-80-1,,noct1238-2,80,roak-sét,roak-sét,[],,[],,False,False,,2
-noct1238-2-90-1,,noct1238-2,90,roak-kʰú,roak-kʰú,[],,[],,False,False,,2
-noct1238-2-100-1,,noct1238-2,100,ca-tʰé,ca-tʰé,[],,[],,False,False,,2
-noct1238-2-200-1,,noct1238-2,200,ca-ní,ca-ní,[],,[],,False,False,,2
-noct1238-2-1000-1,,noct1238-2,1000,hajat-tʰé,hajat-tʰé,[],( < Indo-Aryan ),[],,True,False,,2
-noct1238-2-2000-1,,noct1238-2,2000,hajat-ní,hajat-ní,[],,[],,False,False,,2
+noct1238-2-1-1,,noct1238-2,1,vantʰé,vantʰé,[],,['chan2019'],,False,False,,2
+noct1238-2-2-1,,noct1238-2,2,vanní,vanní,[],,['chan2019'],,False,False,,2
+noct1238-2-3-1,,noct1238-2,3,vanrə́m,vanrə́m,[],,['chan2019'],,False,False,,2
+noct1238-2-4-1,,noct1238-2,4,vanbəlí or bəlí,vanbəlí or bəlí,[],,['chan2019'],,False,True,,2
+noct1238-2-5-1,,noct1238-2,5,vanbəŋá or bəŋá,vanbəŋá or bəŋá,[],,['chan2019'],,False,True,,2
+noct1238-2-6-1,,noct1238-2,6,vanrók or ərók,vanrók or ərók,[],,['chan2019'],,False,True,,2
+noct1238-2-7-1,,noct1238-2,7,vanŋít or əŋít,vanŋít or əŋít,[],,['chan2019'],,False,True,,2
+noct1238-2-8-1,,noct1238-2,8,vansét or əsét,vansét or əsét,[],,['chan2019'],,False,True,,2
+noct1238-2-9-1,,noct1238-2,9,vankʰú or əkʰú,vankʰú or əkʰú,[],,['chan2019'],,False,True,,2
+noct1238-2-10-1,,noct1238-2,10,vancʰí or əcʰí,vancʰí or əcʰí,[],,['chan2019'],,False,True,,2
+noct1238-2-11-1,,noct1238-2,11,əcʰí vantʰé,əcʰí vantʰé,[],,['chan2019'],,False,False,,2
+noct1238-2-12-1,,noct1238-2,12,əcʰí vanní,əcʰí vanní,[],,['chan2019'],,False,False,,2
+noct1238-2-13-1,,noct1238-2,13,əcʰí vanrə́m,əcʰí vanrə́m,[],,['chan2019'],,False,False,,2
+noct1238-2-14-1,,noct1238-2,14,əcʰí vanbəlí,əcʰí vanbəlí,[],,['chan2019'],,False,False,,2
+noct1238-2-15-1,,noct1238-2,15,əcʰí vanbəŋá,əcʰí vanbəŋá,[],,['chan2019'],,False,False,,2
+noct1238-2-16-1,,noct1238-2,16,əcʰí vanrók,əcʰí vanrók,[],,['chan2019'],,False,False,,2
+noct1238-2-17-1,,noct1238-2,17,əcʰí vanŋít,əcʰí vanŋít,[],,['chan2019'],,False,False,,2
+noct1238-2-18-1,,noct1238-2,18,əcʰí vansét,əcʰí vansét,[],,['chan2019'],,False,False,,2
+noct1238-2-19-1,,noct1238-2,19,əcʰí vankʰú,əcʰí vankʰú,[],,['chan2019'],,False,False,,2
+noct1238-2-20-1,,noct1238-2,20,roakní,roakní,[],,['chan2019'],,False,False,,2
+noct1238-2-21-1,,noct1238-2,21,roakní vantʰé,roakní vantʰé,[],,['chan2019'],,False,False,,2
+noct1238-2-22-1,,noct1238-2,22,roakní vanrə́m,roakní vanrə́m,[],,['chan2019'],,False,False,,2
+noct1238-2-24-1,,noct1238-2,24,roakní vanbəlí,roakní vanbəlí,[],,['chan2019'],,False,False,,2
+noct1238-2-25-1,,noct1238-2,25,roakní vanbəŋá,roakní vanbəŋá,[],,['chan2019'],,False,False,,2
+noct1238-2-26-1,,noct1238-2,26,roakní vanrók,roakní vanrók,[],,['chan2019'],,False,False,,2
+noct1238-2-27-1,,noct1238-2,27,roakní vanŋít,roakní vanŋít,[],,['chan2019'],,False,False,,2
+noct1238-2-28-1,,noct1238-2,28,roakní vansét,roakní vansét,[],,['chan2019'],,False,False,,2
+noct1238-2-29-1,,noct1238-2,29,roakní vankʰú,roakní vankʰú,[],,['chan2019'],,False,False,,2
+noct1238-2-30-1,,noct1238-2,30,roak-rəm,roak-rəm,[],,['chan2019'],,False,False,,2
+noct1238-2-40-1,,noct1238-2,40,roak-bəlí,roak-bəlí,[],,['chan2019'],,False,False,,2
+noct1238-2-50-1,,noct1238-2,50,roak-bəŋá,roak-bəŋá,[],,['chan2019'],,False,False,,2
+noct1238-2-60-1,,noct1238-2,60,roak-rók,roak-rók,[],,['chan2019'],,False,False,,2
+noct1238-2-70-1,,noct1238-2,70,roak-ŋík,roak-ŋík,[],,['chan2019'],,False,False,,2
+noct1238-2-80-1,,noct1238-2,80,roak-sét,roak-sét,[],,['chan2019'],,False,False,,2
+noct1238-2-90-1,,noct1238-2,90,roak-kʰú,roak-kʰú,[],,['chan2019'],,False,False,,2
+noct1238-2-100-1,,noct1238-2,100,ca-tʰé,ca-tʰé,[],,['chan2019'],,False,False,,2
+noct1238-2-200-1,,noct1238-2,200,ca-ní,ca-ní,[],,['chan2019'],,False,False,,2
+noct1238-2-1000-1,,noct1238-2,1000,hajat-tʰé,hajat-tʰé,[],( < Indo-Aryan ),['chan2019'],,True,False,,2
+noct1238-2-2000-1,,noct1238-2,2000,hajat-ní,hajat-ní,[],,['chan2019'],,False,False,,2

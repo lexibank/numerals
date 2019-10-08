@@ -1,30 +1,30 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-agar1252-1-1-1,,agar1252-1,1,mana,mana,[],,[],,False,False,,1
-agar1252-1-2-1,,agar1252-1,2,kan,kan,[],,[],,False,False,,1
-agar1252-1-3-1,,agar1252-1,3,kanú manaú,kanú manaú,[],(litː ''two and one'' ),[],,False,False,,1
-agar1252-1-4-1,,agar1252-1,4,kamí kamí,kamí kamí,[],(litː ''two and two'' ),[],,False,False,,1
-agar1252-1-5-1,,agar1252-1,5,dan manápá,dan manápá,[],(litː ''at one hand'' ),[],,False,False,,1
-agar1252-1-6-1,,agar1252-1,6,dan manápá ifo mana un kádan,dan manápá ifo mana un kádan,[],(litː ''one hand and put one on the other side'' ),[],,False,False,,1
-agar1252-1-7-1,,agar1252-1,7,dan manápá ifo kan un kádan,dan manápá ifo kan un kádan,[],(litː ''one hand and put two on the other side'' ),[],,False,False,,1
-agar1252-1-8-1,,agar1252-1,8,dan manápá ifo kanú manaú un kádan,dan manápá ifo kanú manaú un kádan,[],(litː ''one hand and put three on the other side'' ),[],,False,False,,1
-agar1252-1-9-1,,agar1252-1,9,dan manápá ifo kamí kami un kádan,dan manápá ifo kamí kami un kádan,[],(litː ''one hand and put four on the other side'' ),[],,False,False,,1
-agar1252-1-10-1,,agar1252-1,10,tiyan mikan,tiyan mikan,[],(litː ''both hands'' ),[],,False,False,,1
-agar1252-1-11-1,,agar1252-1,11,ereveni,ereveni,[],,[],,False,False,,1
-agar1252-1-11-2,,agar1252-1,11,tiyan míkan mifo sirantan mana orun kádan,tiyan míkan mifo sirantan mana orun kádan,[],"(both hands, and crossing      to the foot, one)",[],,False,False,,1
-agar1252-1-12-1,,agar1252-1,12,tuelfi,tuelfi,[],,[],,False,False,,1
-agar1252-1-12-2,,agar1252-1,12,tiyan míkan mifo sirantan kan orun kádan,tiyan míkan mifo sirantan kan orun kádan,[],"(both hands, and crossing to      the foot, two)",[],,False,False,,1
-agar1252-1-13-1,,agar1252-1,13,tetini,tetini,[],,[],,False,False,,1
-agar1252-1-13-2,,agar1252-1,13,tiyan míkan mifo sirantan kanú manaú orun kádan,tiyan míkan mifo sirantan kanú manaú orun kádan,[],"(both hands, and       crossing to the foot, two and one)",[],,False,False,,1
-agar1252-1-14-1,,agar1252-1,14,fotini,fotini,[],,[],,False,False,,1
-agar1252-1-14-2,,agar1252-1,14,tiyan míkan mifo sirantan kamí kamí orun kádan,tiyan míkan mifo sirantan kamí kamí orun kádan,[],"(both hands, and       crossing to the foot, two and two)",[],,False,False,,1
-agar1252-1-15-1,,agar1252-1,15,fiftini,fiftini,[],,[],,False,False,,1
-agar1252-1-15-2,,agar1252-1,15,tiyan míkan mifo sirantan dan manápá un kádan,tiyan míkan mifo sirantan dan manápá un kádan,[],"(both hands, and      crossing to the foot, at one hand)",[],,False,False,,1
-agar1252-1-16-1,,agar1252-1,16,sikistini,sikistini,[],,[],,False,False,,1
-agar1252-1-16-2,,agar1252-1,16,tiyan míkan mifo sirantan dan manápá ifo afápá mana un kádan,tiyan míkan mifo sirantan dan manápá ifo afápá mana un kádan,[],"(both      hands, and crossing to the foot, at one hand, and crossing, one)",[],,False,False,,1
-agar1252-1-17-1,,agar1252-1,17,seventini,seventini,[],,[],,False,False,,1
-agar1252-1-17-2,,agar1252-1,17,tiyan míkan mifo sirantan dan manápá kan un kádan,tiyan míkan mifo sirantan dan manápá kan un kádan,[],"(both hands, and      crossing to the foot, at one hand, and crossing, two)",[],,False,False,,1
-agar1252-1-18-1,,agar1252-1,18,eitini,eitini,[],,[],,False,False,,1
-agar1252-1-18-2,,agar1252-1,18,tiyan míkan mifo sirantan dan manápá kanú manaú un kádan,tiyan míkan mifo sirantan dan manápá kanú manaú un kádan,[],"(both hands,      and crossing to the foot, at one hand, and crossing, two and one)",[],,False,False,,1
-agar1252-1-19-1,,agar1252-1,19,naintini,naintini,[],,[],,False,False,,1
-agar1252-1-19-2,,agar1252-1,19,tiyan míkan mifo sirantan dan manápá kamí kamí un kádan,tiyan míkan mifo sirantan dan manápá kamí kamí un kádan,[],"(both hands,     and crossing to the foot, at one hand, and crossing, two and two)",[],,False,False,,1
-agar1252-1-20-1,,agar1252-1,20,mana vanta,mana vanta,[],( litː 'one man' ),[],,False,False,,1
+agar1252-1-1-1,,agar1252-1,1,mana,mana,[],,['chan2019'],,False,False,,1
+agar1252-1-2-1,,agar1252-1,2,kan,kan,[],,['chan2019'],,False,False,,1
+agar1252-1-3-1,,agar1252-1,3,kanú manaú,kanú manaú,[],(litː ''two and one'' ),['chan2019'],,False,False,,1
+agar1252-1-4-1,,agar1252-1,4,kamí kamí,kamí kamí,[],(litː ''two and two'' ),['chan2019'],,False,False,,1
+agar1252-1-5-1,,agar1252-1,5,dan manápá,dan manápá,[],(litː ''at one hand'' ),['chan2019'],,False,False,,1
+agar1252-1-6-1,,agar1252-1,6,dan manápá ifo mana un kádan,dan manápá ifo mana un kádan,[],(litː ''one hand and put one on the other side'' ),['chan2019'],,False,False,,1
+agar1252-1-7-1,,agar1252-1,7,dan manápá ifo kan un kádan,dan manápá ifo kan un kádan,[],(litː ''one hand and put two on the other side'' ),['chan2019'],,False,False,,1
+agar1252-1-8-1,,agar1252-1,8,dan manápá ifo kanú manaú un kádan,dan manápá ifo kanú manaú un kádan,[],(litː ''one hand and put three on the other side'' ),['chan2019'],,False,False,,1
+agar1252-1-9-1,,agar1252-1,9,dan manápá ifo kamí kami un kádan,dan manápá ifo kamí kami un kádan,[],(litː ''one hand and put four on the other side'' ),['chan2019'],,False,False,,1
+agar1252-1-10-1,,agar1252-1,10,tiyan mikan,tiyan mikan,[],(litː ''both hands'' ),['chan2019'],,False,False,,1
+agar1252-1-11-1,,agar1252-1,11,ereveni,ereveni,[],,['chan2019'],,False,False,,1
+agar1252-1-11-2,,agar1252-1,11,tiyan míkan mifo sirantan mana orun kádan,tiyan míkan mifo sirantan mana orun kádan,[],"(both hands, and crossing      to the foot, one)",['chan2019'],,False,False,,1
+agar1252-1-12-1,,agar1252-1,12,tuelfi,tuelfi,[],,['chan2019'],,False,False,,1
+agar1252-1-12-2,,agar1252-1,12,tiyan míkan mifo sirantan kan orun kádan,tiyan míkan mifo sirantan kan orun kádan,[],"(both hands, and crossing to      the foot, two)",['chan2019'],,False,False,,1
+agar1252-1-13-1,,agar1252-1,13,tetini,tetini,[],,['chan2019'],,False,False,,1
+agar1252-1-13-2,,agar1252-1,13,tiyan míkan mifo sirantan kanú manaú orun kádan,tiyan míkan mifo sirantan kanú manaú orun kádan,[],"(both hands, and       crossing to the foot, two and one)",['chan2019'],,False,False,,1
+agar1252-1-14-1,,agar1252-1,14,fotini,fotini,[],,['chan2019'],,False,False,,1
+agar1252-1-14-2,,agar1252-1,14,tiyan míkan mifo sirantan kamí kamí orun kádan,tiyan míkan mifo sirantan kamí kamí orun kádan,[],"(both hands, and       crossing to the foot, two and two)",['chan2019'],,False,False,,1
+agar1252-1-15-1,,agar1252-1,15,fiftini,fiftini,[],,['chan2019'],,False,False,,1
+agar1252-1-15-2,,agar1252-1,15,tiyan míkan mifo sirantan dan manápá un kádan,tiyan míkan mifo sirantan dan manápá un kádan,[],"(both hands, and      crossing to the foot, at one hand)",['chan2019'],,False,False,,1
+agar1252-1-16-1,,agar1252-1,16,sikistini,sikistini,[],,['chan2019'],,False,False,,1
+agar1252-1-16-2,,agar1252-1,16,tiyan míkan mifo sirantan dan manápá ifo afápá mana un kádan,tiyan míkan mifo sirantan dan manápá ifo afápá mana un kádan,[],"(both      hands, and crossing to the foot, at one hand, and crossing, one)",['chan2019'],,False,False,,1
+agar1252-1-17-1,,agar1252-1,17,seventini,seventini,[],,['chan2019'],,False,False,,1
+agar1252-1-17-2,,agar1252-1,17,tiyan míkan mifo sirantan dan manápá kan un kádan,tiyan míkan mifo sirantan dan manápá kan un kádan,[],"(both hands, and      crossing to the foot, at one hand, and crossing, two)",['chan2019'],,False,False,,1
+agar1252-1-18-1,,agar1252-1,18,eitini,eitini,[],,['chan2019'],,False,False,,1
+agar1252-1-18-2,,agar1252-1,18,tiyan míkan mifo sirantan dan manápá kanú manaú un kádan,tiyan míkan mifo sirantan dan manápá kanú manaú un kádan,[],"(both hands,      and crossing to the foot, at one hand, and crossing, two and one)",['chan2019'],,False,False,,1
+agar1252-1-19-1,,agar1252-1,19,naintini,naintini,[],,['chan2019'],,False,False,,1
+agar1252-1-19-2,,agar1252-1,19,tiyan míkan mifo sirantan dan manápá kamí kamí un kádan,tiyan míkan mifo sirantan dan manápá kamí kamí un kádan,[],"(both hands,     and crossing to the foot, at one hand, and crossing, two and two)",['chan2019'],,False,False,,1
+agar1252-1-20-1,,agar1252-1,20,mana vanta,mana vanta,[],( litː 'one man' ),['chan2019'],,False,False,,1

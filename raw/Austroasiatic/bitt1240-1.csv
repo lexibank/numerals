@@ -1,51 +1,51 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bitt1240-1-1-1,,bitt1240-1,1,ka nɤŋ,ka nɤŋ,[],,[],,False,False,,1
-bitt1240-1-1-2,,bitt1240-1,1,nɤŋ,nɤŋ,[],< Tai ,[],,True,False,,1
-bitt1240-1-2-1,,bitt1240-1,2,ka nɔŋ,ka nɔŋ,[],,[],,False,False,,1
-bitt1240-1-2-2,,bitt1240-1,2,sɔŋ,sɔŋ,[],,[],,False,False,,1
-bitt1240-1-3-1,,bitt1240-1,3,mai pɔŋ,mai pɔŋ,[],,[],,False,False,,1
-bitt1240-1-3-2,,bitt1240-1,3,sam,sam,[],,[],,False,False,,1
-bitt1240-1-4-1,,bitt1240-1,4,mai pik,mai pik,[],,[],,False,False,,1
-bitt1240-1-4-2,,bitt1240-1,4,ʃi,ʃi,[],,[],,False,False,,1
-bitt1240-1-5-1,,bitt1240-1,5,tʃik tiŋ,tʃik tiŋ,[],,[],,False,False,,1
-bitt1240-1-5-2,,bitt1240-1,5,ha,ha,[],,[],,False,False,,1
-bitt1240-1-6-1,,bitt1240-1,6,tʃɯm ram,tʃɯm ram,[],,[],,False,False,,1
-bitt1240-1-6-2,,bitt1240-1,6,hok,hok,[],,[],,False,False,,1
-bitt1240-1-7-1,,bitt1240-1,7,kɤŋ ku,kɤŋ ku,[],,[],,False,False,,1
-bitt1240-1-7-2,,bitt1240-1,7,tʃɛt,tʃɛt,[],,[],,False,False,,1
-bitt1240-1-8-1,,bitt1240-1,8,kɤŋ mɛ,kɤŋ mɛ,[],,[],,False,False,,1
-bitt1240-1-8-2,,bitt1240-1,8,piat,piat,[],,[],,False,False,,1
-bitt1240-1-9-1,,bitt1240-1,9,tik tɔʔ,tik tɔʔ,[],,[],,False,False,,1
-bitt1240-1-9-2,,bitt1240-1,9,kau,kau,[],,[],,False,False,,1
-bitt1240-1-10-1,,bitt1240-1,10,ʔai vĕʔ,ʔai vĕʔ,[],,[],,False,False,,1
-bitt1240-1-10-2,,bitt1240-1,10,ʃĕp,ʃĕp,[],,[],,False,False,,1
-bitt1240-1-11-1,,bitt1240-1,11,ʃĕp nɤŋ,ʃĕp nɤŋ,[],,[],,False,False,,1
-bitt1240-1-12-1,,bitt1240-1,12,ʃĕpsɔŋ,ʃĕpsɔŋ,[],,[],,False,False,,1
-bitt1240-1-13-1,,bitt1240-1,13,ʃĕpsam,ʃĕpsam,[],,[],,False,False,,1
-bitt1240-1-14-1,,bitt1240-1,14,ʃĕpʃi,ʃĕpʃi,[],,[],,False,False,,1
-bitt1240-1-15-1,,bitt1240-1,15,ʃĕpha,ʃĕpha,[],,[],,False,False,,1
-bitt1240-1-16-1,,bitt1240-1,16,ʃĕphok,ʃĕphok,[],,[],,False,False,,1
-bitt1240-1-17-1,,bitt1240-1,17,ʃĕptʃɛt,ʃĕptʃɛt,[],,[],,False,False,,1
-bitt1240-1-18-1,,bitt1240-1,18,ʃĕppiat,ʃĕppiat,[],,[],,False,False,,1
-bitt1240-1-19-1,,bitt1240-1,19,ʃĕpkau,ʃĕpkau,[],,[],,False,False,,1
-bitt1240-1-20-1,,bitt1240-1,20,sau,sau,[],,[],,False,False,,1
-bitt1240-1-21-1,,bitt1240-1,21,sau nɤŋ,sau nɤŋ,[],,[],,False,False,,1
-bitt1240-1-22-1,,bitt1240-1,22,sau sɔŋ,sau sɔŋ,[],,[],,False,False,,1
-bitt1240-1-23-1,,bitt1240-1,23,sausam,sausam,[],,[],,False,False,,1
-bitt1240-1-24-1,,bitt1240-1,24,sau ʃi,sau ʃi,[],,[],,False,False,,1
-bitt1240-1-25-1,,bitt1240-1,25,sau ha,sau ha,[],,[],,False,False,,1
-bitt1240-1-26-1,,bitt1240-1,26,sau hok,sau hok,[],,[],,False,False,,1
-bitt1240-1-27-1,,bitt1240-1,27,sau tʃɛt,sau tʃɛt,[],,[],,False,False,,1
-bitt1240-1-28-1,,bitt1240-1,28,sau piat,sau piat,[],,[],,False,False,,1
-bitt1240-1-29-1,,bitt1240-1,29,sau kau,sau kau,[],,[],,False,False,,1
-bitt1240-1-30-1,,bitt1240-1,30,sam ʃĕp,sam ʃĕp,[],,[],,False,False,,1
-bitt1240-1-40-1,,bitt1240-1,40,ʃi ʃĕp,ʃi ʃĕp,[],,[],,False,False,,1
-bitt1240-1-50-1,,bitt1240-1,50,ha ʃĕp,ha ʃĕp,[],,[],,False,False,,1
-bitt1240-1-60-1,,bitt1240-1,60,hok ʃĕp,hok ʃĕp,[],,[],,False,False,,1
-bitt1240-1-70-1,,bitt1240-1,70,tʃɛt ʃĕp,tʃɛt ʃĕp,[],,[],,False,False,,1
-bitt1240-1-80-1,,bitt1240-1,80,piat ʃĕp,piat ʃĕp,[],,[],,False,False,,1
-bitt1240-1-90-1,,bitt1240-1,90,kau ʃĕp,kau ʃĕp,[],,[],,False,False,,1
-bitt1240-1-100-1,,bitt1240-1,100,rɔi nɤŋ,rɔi nɤŋ,[],,[],,False,False,,1
-bitt1240-1-200-1,,bitt1240-1,200,sɔŋ rɔi,sɔŋ rɔi,[],,[],,False,False,,1
-bitt1240-1-1000-1,,bitt1240-1,1000,pʰan,pʰan,[],,[],,False,False,,1
-bitt1240-1-2000-1,,bitt1240-1,2000,sɔŋ pʰan,sɔŋ pʰan,[],,[],,False,False,,1
+bitt1240-1-1-1,,bitt1240-1,1,ka nɤŋ,ka nɤŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-1-2,,bitt1240-1,1,nɤŋ,nɤŋ,[],< Tai ,['chan2019'],,True,False,,1
+bitt1240-1-2-1,,bitt1240-1,2,ka nɔŋ,ka nɔŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-2-2,,bitt1240-1,2,sɔŋ,sɔŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-3-1,,bitt1240-1,3,mai pɔŋ,mai pɔŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-3-2,,bitt1240-1,3,sam,sam,[],,['chan2019'],,False,False,,1
+bitt1240-1-4-1,,bitt1240-1,4,mai pik,mai pik,[],,['chan2019'],,False,False,,1
+bitt1240-1-4-2,,bitt1240-1,4,ʃi,ʃi,[],,['chan2019'],,False,False,,1
+bitt1240-1-5-1,,bitt1240-1,5,tʃik tiŋ,tʃik tiŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-5-2,,bitt1240-1,5,ha,ha,[],,['chan2019'],,False,False,,1
+bitt1240-1-6-1,,bitt1240-1,6,tʃɯm ram,tʃɯm ram,[],,['chan2019'],,False,False,,1
+bitt1240-1-6-2,,bitt1240-1,6,hok,hok,[],,['chan2019'],,False,False,,1
+bitt1240-1-7-1,,bitt1240-1,7,kɤŋ ku,kɤŋ ku,[],,['chan2019'],,False,False,,1
+bitt1240-1-7-2,,bitt1240-1,7,tʃɛt,tʃɛt,[],,['chan2019'],,False,False,,1
+bitt1240-1-8-1,,bitt1240-1,8,kɤŋ mɛ,kɤŋ mɛ,[],,['chan2019'],,False,False,,1
+bitt1240-1-8-2,,bitt1240-1,8,piat,piat,[],,['chan2019'],,False,False,,1
+bitt1240-1-9-1,,bitt1240-1,9,tik tɔʔ,tik tɔʔ,[],,['chan2019'],,False,False,,1
+bitt1240-1-9-2,,bitt1240-1,9,kau,kau,[],,['chan2019'],,False,False,,1
+bitt1240-1-10-1,,bitt1240-1,10,ʔai vĕʔ,ʔai vĕʔ,[],,['chan2019'],,False,False,,1
+bitt1240-1-10-2,,bitt1240-1,10,ʃĕp,ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-11-1,,bitt1240-1,11,ʃĕp nɤŋ,ʃĕp nɤŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-12-1,,bitt1240-1,12,ʃĕpsɔŋ,ʃĕpsɔŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-13-1,,bitt1240-1,13,ʃĕpsam,ʃĕpsam,[],,['chan2019'],,False,False,,1
+bitt1240-1-14-1,,bitt1240-1,14,ʃĕpʃi,ʃĕpʃi,[],,['chan2019'],,False,False,,1
+bitt1240-1-15-1,,bitt1240-1,15,ʃĕpha,ʃĕpha,[],,['chan2019'],,False,False,,1
+bitt1240-1-16-1,,bitt1240-1,16,ʃĕphok,ʃĕphok,[],,['chan2019'],,False,False,,1
+bitt1240-1-17-1,,bitt1240-1,17,ʃĕptʃɛt,ʃĕptʃɛt,[],,['chan2019'],,False,False,,1
+bitt1240-1-18-1,,bitt1240-1,18,ʃĕppiat,ʃĕppiat,[],,['chan2019'],,False,False,,1
+bitt1240-1-19-1,,bitt1240-1,19,ʃĕpkau,ʃĕpkau,[],,['chan2019'],,False,False,,1
+bitt1240-1-20-1,,bitt1240-1,20,sau,sau,[],,['chan2019'],,False,False,,1
+bitt1240-1-21-1,,bitt1240-1,21,sau nɤŋ,sau nɤŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-22-1,,bitt1240-1,22,sau sɔŋ,sau sɔŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-23-1,,bitt1240-1,23,sausam,sausam,[],,['chan2019'],,False,False,,1
+bitt1240-1-24-1,,bitt1240-1,24,sau ʃi,sau ʃi,[],,['chan2019'],,False,False,,1
+bitt1240-1-25-1,,bitt1240-1,25,sau ha,sau ha,[],,['chan2019'],,False,False,,1
+bitt1240-1-26-1,,bitt1240-1,26,sau hok,sau hok,[],,['chan2019'],,False,False,,1
+bitt1240-1-27-1,,bitt1240-1,27,sau tʃɛt,sau tʃɛt,[],,['chan2019'],,False,False,,1
+bitt1240-1-28-1,,bitt1240-1,28,sau piat,sau piat,[],,['chan2019'],,False,False,,1
+bitt1240-1-29-1,,bitt1240-1,29,sau kau,sau kau,[],,['chan2019'],,False,False,,1
+bitt1240-1-30-1,,bitt1240-1,30,sam ʃĕp,sam ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-40-1,,bitt1240-1,40,ʃi ʃĕp,ʃi ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-50-1,,bitt1240-1,50,ha ʃĕp,ha ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-60-1,,bitt1240-1,60,hok ʃĕp,hok ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-70-1,,bitt1240-1,70,tʃɛt ʃĕp,tʃɛt ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-80-1,,bitt1240-1,80,piat ʃĕp,piat ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-90-1,,bitt1240-1,90,kau ʃĕp,kau ʃĕp,[],,['chan2019'],,False,False,,1
+bitt1240-1-100-1,,bitt1240-1,100,rɔi nɤŋ,rɔi nɤŋ,[],,['chan2019'],,False,False,,1
+bitt1240-1-200-1,,bitt1240-1,200,sɔŋ rɔi,sɔŋ rɔi,[],,['chan2019'],,False,False,,1
+bitt1240-1-1000-1,,bitt1240-1,1000,pʰan,pʰan,[],,['chan2019'],,False,False,,1
+bitt1240-1-2000-1,,bitt1240-1,2000,sɔŋ pʰan,sɔŋ pʰan,[],,['chan2019'],,False,False,,1

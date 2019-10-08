@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-waff1241-1-1-1,,waff1241-1,1,mmuaa-vai,mmuaa-vai,[],,[],,False,False,,1
-waff1241-1-2-1,,waff1241-1,2,taara-vaitana,taara-vaitana,[],,[],,False,False,,1
-waff1241-1-3-1,,waff1241-1,3,taara-vooma,taara-vooma,[],(litː ''two plus one plus''),[],,False,False,,1
-waff1241-1-4-1,,waff1241-1,4,taarama taarama,taarama taarama,[],(litː  ''two plus two plus''),[],,False,False,,1
-waff1241-1-5-1,,waff1241-1,5,yaaku sai-vai (litː ''a hand'') or eera ivo,yaaku sai-vai (litː ''a hand'') or eera ivo,[],,[],,False,True,,1
-waff1241-1-6-1,,waff1241-1,6,karasa-idi mmuaa-vai,karasa-idi mmuaa-vai,[],(litː ''hand and the other hand one''),[],,False,False,,1
-waff1241-1-7-1,,waff1241-1,7,karasa-idi taara-vaitana,karasa-idi taara-vaitana,[],,[],,False,False,,1
-waff1241-1-8-1,,waff1241-1,8,karasa-idi taara-voo-ma,karasa-idi taara-voo-ma,[],,[],,False,False,,1
-waff1241-1-9-1,,waff1241-1,9,karasa-idi taarama taarama,karasa-idi taarama taarama,[],,[],,False,False,,1
-waff1241-1-10-1,,waff1241-1,10,yaaku-vaitana,yaaku-vaitana,[],(litː ''my hands'' ),[],,False,False,,1
-waff1241-1-11-1,,waff1241-1,11,yuku-ki-di mmuaa-vai,yuku-ki-di mmuaa-vai,[],"(litː'foot half-it is, )",[],,False,False,,1
-waff1241-1-12-1,,waff1241-1,12,yuku-ki-di taara-vaitana,yuku-ki-di taara-vaitana,[],,[],,False,False,,1
-waff1241-1-13-1,,waff1241-1,13,yuku-ki-di taara-voo-ma,yuku-ki-di taara-voo-ma,[],,[],,False,False,,1
-waff1241-1-14-1,,waff1241-1,14,yuku-ki-di taarama taarama,yuku-ki-di taarama taarama,[],,[],,False,False,,1
-waff1241-1-15-1,,waff1241-1,15,yuku sai vai,yuku sai vai,[],(lit:'foot-half-area'),[],,False,False,,1
-waff1241-1-16-1,,waff1241-1,16,sai-nai-diri mmuaa-vai,sai-nai-diri mmuaa-vai,[],(lit: 'half-area-from one it-is' or one from the other foot' ),[],,False,False,,1
-waff1241-1-17-1,,waff1241-1,17,sai-nai-diri taara-vaitana,sai-nai-diri taara-vaitana,[],,[],,False,False,,1
-waff1241-1-18-1,,waff1241-1,18,sai-nai-diri taara-voo-ma,sai-nai-diri taara-voo-ma,[],,[],,False,False,,1
-waff1241-1-19-1,,waff1241-1,19,sai-nai-diri taarama taarama,sai-nai-diri taarama taarama,[],,[],,False,False,,1
-waff1241-1-20-1,,waff1241-1,20,yuku yaaku taiku kioo,yuku yaaku taiku kioo,[],(litː 'feet hands finished completely'),[],,False,False,,1
+waff1241-1-1-1,,waff1241-1,1,mmuaa-vai,mmuaa-vai,[],,['chan2019'],,False,False,,1
+waff1241-1-2-1,,waff1241-1,2,taara-vaitana,taara-vaitana,[],,['chan2019'],,False,False,,1
+waff1241-1-3-1,,waff1241-1,3,taara-vooma,taara-vooma,[],(litː ''two plus one plus''),['chan2019'],,False,False,,1
+waff1241-1-4-1,,waff1241-1,4,taarama taarama,taarama taarama,[],(litː  ''two plus two plus''),['chan2019'],,False,False,,1
+waff1241-1-5-1,,waff1241-1,5,yaaku sai-vai (litː ''a hand'') or eera ivo,yaaku sai-vai (litː ''a hand'') or eera ivo,[],,['chan2019'],,False,True,,1
+waff1241-1-6-1,,waff1241-1,6,karasa-idi mmuaa-vai,karasa-idi mmuaa-vai,[],(litː ''hand and the other hand one''),['chan2019'],,False,False,,1
+waff1241-1-7-1,,waff1241-1,7,karasa-idi taara-vaitana,karasa-idi taara-vaitana,[],,['chan2019'],,False,False,,1
+waff1241-1-8-1,,waff1241-1,8,karasa-idi taara-voo-ma,karasa-idi taara-voo-ma,[],,['chan2019'],,False,False,,1
+waff1241-1-9-1,,waff1241-1,9,karasa-idi taarama taarama,karasa-idi taarama taarama,[],,['chan2019'],,False,False,,1
+waff1241-1-10-1,,waff1241-1,10,yaaku-vaitana,yaaku-vaitana,[],(litː ''my hands'' ),['chan2019'],,False,False,,1
+waff1241-1-11-1,,waff1241-1,11,yuku-ki-di mmuaa-vai,yuku-ki-di mmuaa-vai,[],"(litː'foot half-it is, )",['chan2019'],,False,False,,1
+waff1241-1-12-1,,waff1241-1,12,yuku-ki-di taara-vaitana,yuku-ki-di taara-vaitana,[],,['chan2019'],,False,False,,1
+waff1241-1-13-1,,waff1241-1,13,yuku-ki-di taara-voo-ma,yuku-ki-di taara-voo-ma,[],,['chan2019'],,False,False,,1
+waff1241-1-14-1,,waff1241-1,14,yuku-ki-di taarama taarama,yuku-ki-di taarama taarama,[],,['chan2019'],,False,False,,1
+waff1241-1-15-1,,waff1241-1,15,yuku sai vai,yuku sai vai,[],(lit:'foot-half-area'),['chan2019'],,False,False,,1
+waff1241-1-16-1,,waff1241-1,16,sai-nai-diri mmuaa-vai,sai-nai-diri mmuaa-vai,[],(lit: 'half-area-from one it-is' or one from the other foot' ),['chan2019'],,False,False,,1
+waff1241-1-17-1,,waff1241-1,17,sai-nai-diri taara-vaitana,sai-nai-diri taara-vaitana,[],,['chan2019'],,False,False,,1
+waff1241-1-18-1,,waff1241-1,18,sai-nai-diri taara-voo-ma,sai-nai-diri taara-voo-ma,[],,['chan2019'],,False,False,,1
+waff1241-1-19-1,,waff1241-1,19,sai-nai-diri taarama taarama,sai-nai-diri taarama taarama,[],,['chan2019'],,False,False,,1
+waff1241-1-20-1,,waff1241-1,20,yuku yaaku taiku kioo,yuku yaaku taiku kioo,[],(litː 'feet hands finished completely'),['chan2019'],,False,False,,1

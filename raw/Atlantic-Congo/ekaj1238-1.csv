@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ekaj1238-1-1-1,,ekaj1238-1,1,njɛŋ,njɛŋ,[],,[],,False,False,,1
-ekaj1238-1-2-1,,ekaj1238-1,2,mbal,mbal,[],,[],,False,False,,1
-ekaj1238-1-3-1,,ekaj1238-1,3,nra,nra,[],,[],,False,False,,1
-ekaj1238-1-4-1,,ekaj1238-1,4,nni,nni,[],,[],,False,False,,1
-ekaj1238-1-5-1,,ekaj1238-1,5,nlɔn,nlɔn,[],,[],,False,False,,1
-ekaj1238-1-6-1,,ekaj1238-1,6,nrakera,nrakera,[],( 3 + 3 ?),[],,False,False,,1
-ekaj1238-1-7-1,,ekaj1238-1,7,eʃɛma,eʃɛma,[],,[],,False,False,,1
-ekaj1238-1-8-1,,ekaj1238-1,8,nɛkeni,nɛkeni,[],( 4 + 4 ?),[],,False,False,,1
-ekaj1238-1-9-1,,ekaj1238-1,9,eʃɛmʷubu,eʃɛmʷubu,[],( 10 - 1? ),[],,False,False,,1
-ekaj1238-1-10-1,,ekaj1238-1,10,ewubu,ewubu,[],,[],,False,False,,1
-ekaj1238-1-11-1,,ekaj1238-1,11,ewubu ajɛŋ,ewubu ajɛŋ,[],( 10 + 1 ),[],,False,False,,1
-ekaj1238-1-12-1,,ekaj1238-1,12,ewubbal,ewubbal,[],,[],,False,False,,1
-ekaj1238-1-13-1,,ekaj1238-1,13,ewubera,ewubera,[],,[],,False,False,,1
-ekaj1238-1-14-1,,ekaj1238-1,14,ewubeni,ewubeni,[],,[],,False,False,,1
-ekaj1238-1-15-1,,ekaj1238-1,15,elku,elku,[],,[],,False,False,,1
-ekaj1238-1-16-1,,ekaj1238-1,16,elku ajɛŋ,elku ajɛŋ,[],( 15 + 1 ),[],,False,False,,1
-ekaj1238-1-17-1,,ekaj1238-1,17,elku ebal,elku ebal,[],,[],,False,False,,1
-ekaj1238-1-18-1,,ekaj1238-1,18,elku era,elku era,[],,[],,False,False,,1
-ekaj1238-1-19-1,,ekaj1238-1,19,elku eni,elku eni,[],,[],,False,False,,1
-ekaj1238-1-20-1,,ekaj1238-1,20,eltəl,eltəl,[],,[],,False,False,,1
-ekaj1238-1-21-1,,ekaj1238-1,21,eltəl ajɛŋ,eltəl ajɛŋ,[],,[],,False,False,,1
-ekaj1238-1-22-1,,ekaj1238-1,22,eltəl ebal,eltəl ebal,[],,[],,False,False,,1
-ekaj1238-1-23-1,,ekaj1238-1,23,eltəl era,eltəl era,[],,[],,False,False,,1
-ekaj1238-1-24-1,,ekaj1238-1,24,eltəl eni,eltəl eni,[],,[],,False,False,,1
-ekaj1238-1-25-1,,ekaj1238-1,25,eltəl elɔn,eltəl elɔn,[],,[],,False,False,,1
-ekaj1238-1-26-1,,ekaj1238-1,26,eltəl erakera,eltəl erakera,[],,[],,False,False,,1
-ekaj1238-1-27-1,,ekaj1238-1,27,eltəl eʃɛma,eltəl eʃɛma,[],,[],,False,False,,1
-ekaj1238-1-28-1,,ekaj1238-1,28,eltəl enɛkeni,eltəl enɛkeni,[],,[],,False,False,,1
-ekaj1238-1-29-1,,ekaj1238-1,29,eltəl eʃɛmʷubu,eltəl eʃɛmʷubu,[],,[],,False,False,,1
-ekaj1238-1-30-1,,ekaj1238-1,30,eltəl ewubu,eltəl ewubu,[],( 20 + 10 ),[],,False,False,,1
-ekaj1238-1-40-1,,ekaj1238-1,40,atəl abal,atəl abal,[],( 20 x 2 ),[],,False,False,,1
-ekaj1238-1-50-1,,ekaj1238-1,50,atəl abal ewubu,atəl abal ewubu,[],,[],,False,False,,1
-ekaj1238-1-60-1,,ekaj1238-1,60,atəl ara,atəl ara,[],( 20 x 3 ),[],,False,False,,1
-ekaj1238-1-70-1,,ekaj1238-1,70,atəl ara ewubu,atəl ara ewubu,[],,[],,False,False,,1
-ekaj1238-1-80-1,,ekaj1238-1,80,atəl ani,atəl ani,[],( 20 x 4 ),[],,False,False,,1
-ekaj1238-1-90-1,,ekaj1238-1,90,atəl ani ewubu,atəl ani ewubu,[],,[],,False,False,,1
-ekaj1238-1-100-1,,ekaj1238-1,100,atəl alɔn,atəl alɔn,[],( 20 x 5 ),[],,False,False,,1
-ekaj1238-1-200-1,,ekaj1238-1,200,atəl awubu,atəl awubu,[],( 20 x 10 ),[],,False,False,,1
-ekaj1238-1-1000-1,,ekaj1238-1,1000,atəltəl nkpel ebal atəl awubu,atəltəl nkpel ebal atəl awubu,[],,[],,False,False,,1
-ekaj1238-1-2000-1,,ekaj1238-1,2000,atəltəl nkpel elɔn,atəltəl nkpel elɔn,[],,[],,False,False,,1
+ekaj1238-1-1-1,,ekaj1238-1,1,njɛŋ,njɛŋ,[],,['chan2019'],,False,False,,1
+ekaj1238-1-2-1,,ekaj1238-1,2,mbal,mbal,[],,['chan2019'],,False,False,,1
+ekaj1238-1-3-1,,ekaj1238-1,3,nra,nra,[],,['chan2019'],,False,False,,1
+ekaj1238-1-4-1,,ekaj1238-1,4,nni,nni,[],,['chan2019'],,False,False,,1
+ekaj1238-1-5-1,,ekaj1238-1,5,nlɔn,nlɔn,[],,['chan2019'],,False,False,,1
+ekaj1238-1-6-1,,ekaj1238-1,6,nrakera,nrakera,[],( 3 + 3 ?),['chan2019'],,False,False,,1
+ekaj1238-1-7-1,,ekaj1238-1,7,eʃɛma,eʃɛma,[],,['chan2019'],,False,False,,1
+ekaj1238-1-8-1,,ekaj1238-1,8,nɛkeni,nɛkeni,[],( 4 + 4 ?),['chan2019'],,False,False,,1
+ekaj1238-1-9-1,,ekaj1238-1,9,eʃɛmʷubu,eʃɛmʷubu,[],( 10 - 1? ),['chan2019'],,False,False,,1
+ekaj1238-1-10-1,,ekaj1238-1,10,ewubu,ewubu,[],,['chan2019'],,False,False,,1
+ekaj1238-1-11-1,,ekaj1238-1,11,ewubu ajɛŋ,ewubu ajɛŋ,[],( 10 + 1 ),['chan2019'],,False,False,,1
+ekaj1238-1-12-1,,ekaj1238-1,12,ewubbal,ewubbal,[],,['chan2019'],,False,False,,1
+ekaj1238-1-13-1,,ekaj1238-1,13,ewubera,ewubera,[],,['chan2019'],,False,False,,1
+ekaj1238-1-14-1,,ekaj1238-1,14,ewubeni,ewubeni,[],,['chan2019'],,False,False,,1
+ekaj1238-1-15-1,,ekaj1238-1,15,elku,elku,[],,['chan2019'],,False,False,,1
+ekaj1238-1-16-1,,ekaj1238-1,16,elku ajɛŋ,elku ajɛŋ,[],( 15 + 1 ),['chan2019'],,False,False,,1
+ekaj1238-1-17-1,,ekaj1238-1,17,elku ebal,elku ebal,[],,['chan2019'],,False,False,,1
+ekaj1238-1-18-1,,ekaj1238-1,18,elku era,elku era,[],,['chan2019'],,False,False,,1
+ekaj1238-1-19-1,,ekaj1238-1,19,elku eni,elku eni,[],,['chan2019'],,False,False,,1
+ekaj1238-1-20-1,,ekaj1238-1,20,eltəl,eltəl,[],,['chan2019'],,False,False,,1
+ekaj1238-1-21-1,,ekaj1238-1,21,eltəl ajɛŋ,eltəl ajɛŋ,[],,['chan2019'],,False,False,,1
+ekaj1238-1-22-1,,ekaj1238-1,22,eltəl ebal,eltəl ebal,[],,['chan2019'],,False,False,,1
+ekaj1238-1-23-1,,ekaj1238-1,23,eltəl era,eltəl era,[],,['chan2019'],,False,False,,1
+ekaj1238-1-24-1,,ekaj1238-1,24,eltəl eni,eltəl eni,[],,['chan2019'],,False,False,,1
+ekaj1238-1-25-1,,ekaj1238-1,25,eltəl elɔn,eltəl elɔn,[],,['chan2019'],,False,False,,1
+ekaj1238-1-26-1,,ekaj1238-1,26,eltəl erakera,eltəl erakera,[],,['chan2019'],,False,False,,1
+ekaj1238-1-27-1,,ekaj1238-1,27,eltəl eʃɛma,eltəl eʃɛma,[],,['chan2019'],,False,False,,1
+ekaj1238-1-28-1,,ekaj1238-1,28,eltəl enɛkeni,eltəl enɛkeni,[],,['chan2019'],,False,False,,1
+ekaj1238-1-29-1,,ekaj1238-1,29,eltəl eʃɛmʷubu,eltəl eʃɛmʷubu,[],,['chan2019'],,False,False,,1
+ekaj1238-1-30-1,,ekaj1238-1,30,eltəl ewubu,eltəl ewubu,[],( 20 + 10 ),['chan2019'],,False,False,,1
+ekaj1238-1-40-1,,ekaj1238-1,40,atəl abal,atəl abal,[],( 20 x 2 ),['chan2019'],,False,False,,1
+ekaj1238-1-50-1,,ekaj1238-1,50,atəl abal ewubu,atəl abal ewubu,[],,['chan2019'],,False,False,,1
+ekaj1238-1-60-1,,ekaj1238-1,60,atəl ara,atəl ara,[],( 20 x 3 ),['chan2019'],,False,False,,1
+ekaj1238-1-70-1,,ekaj1238-1,70,atəl ara ewubu,atəl ara ewubu,[],,['chan2019'],,False,False,,1
+ekaj1238-1-80-1,,ekaj1238-1,80,atəl ani,atəl ani,[],( 20 x 4 ),['chan2019'],,False,False,,1
+ekaj1238-1-90-1,,ekaj1238-1,90,atəl ani ewubu,atəl ani ewubu,[],,['chan2019'],,False,False,,1
+ekaj1238-1-100-1,,ekaj1238-1,100,atəl alɔn,atəl alɔn,[],( 20 x 5 ),['chan2019'],,False,False,,1
+ekaj1238-1-200-1,,ekaj1238-1,200,atəl awubu,atəl awubu,[],( 20 x 10 ),['chan2019'],,False,False,,1
+ekaj1238-1-1000-1,,ekaj1238-1,1000,atəltəl nkpel ebal atəl awubu,atəltəl nkpel ebal atəl awubu,[],,['chan2019'],,False,False,,1
+ekaj1238-1-2000-1,,ekaj1238-1,2000,atəltəl nkpel elɔn,atəltəl nkpel elɔn,[],,['chan2019'],,False,False,,1

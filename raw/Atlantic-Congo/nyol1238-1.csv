@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nyol1238-1-1-1,,nyol1238-1,1,ndala,ndala,[],,[],,False,False,,1
-nyol1238-1-2-1,,nyol1238-1,2,ebiri,ebiri,[],,[],,False,False,,1
-nyol1238-1-3-1,,nyol1238-1,3,edatu,edatu,[],,[],,False,False,,1
-nyol1238-1-4-1,,nyol1238-1,4,ené,ené,[],,[],,False,False,,1
-nyol1238-1-5-1,,nyol1238-1,5,etaanu,etaanu,[],,[],,False,False,,1
-nyol1238-1-6-1,,nyol1238-1,6,etaanu nendala,etaanu nendala,[],( 5 + 1 ),[],,False,False,,1
-nyol1238-1-7-1,,nyol1238-1,7,etaanu nebiri,etaanu nebiri,[],( 5 + 2 ),[],,False,False,,1
-nyol1238-1-8-1,,nyol1238-1,8,etaanu nedatu,etaanu nedatu,[],( 5 + 3 ),[],,False,False,,1
-nyol1238-1-9-1,,nyol1238-1,9,etaanu nené,etaanu nené,[],( 5 + 4 ),[],,False,False,,1
-nyol1238-1-10-1,,nyol1238-1,10,ehúmi njereere,ehúmi njereere,[],,[],,False,False,,1
-nyol1238-1-11-1,,nyol1238-1,11,ehúmi nandala,ehúmi nandala,[],,[],,False,False,,1
-nyol1238-1-12-1,,nyol1238-1,12,ehúmi nebiri,ehúmi nebiri,[],,[],,False,False,,1
-nyol1238-1-13-1,,nyol1238-1,13,ehúmi nedatu,ehúmi nedatu,[],,[],,False,False,,1
-nyol1238-1-14-1,,nyol1238-1,14,ehúmi nené,ehúmi nené,[],,[],,False,False,,1
-nyol1238-1-15-1,,nyol1238-1,15,ehúmi netaanu,ehúmi netaanu,[],,[],,False,False,,1
-nyol1238-1-16-1,,nyol1238-1,16,ehúmi netaanu nendala,ehúmi netaanu nendala,[],,[],,False,False,,1
-nyol1238-1-17-1,,nyol1238-1,17,ehúmi netaanu nebiri,ehúmi netaanu nebiri,[],,[],,False,False,,1
-nyol1238-1-18-1,,nyol1238-1,18,ehúmi netaanu nedatu,ehúmi netaanu nedatu,[],,[],,False,False,,1
-nyol1238-1-19-1,,nyol1238-1,19,ehúmi netaanu nené,ehúmi netaanu nené,[],,[],,False,False,,1
-nyol1238-1-20-1,,nyol1238-1,20,ábíri memeere,ábíri memeere,[],,[],,False,False,,1
-nyol1238-1-21-1,,nyol1238-1,21,ábiri nendala,ábiri nendala,[],,[],,False,False,,1
-nyol1238-1-22-1,,nyol1238-1,22,ábiri nebiri,ábiri nebiri,[],,[],,False,False,,1
-nyol1238-1-23-1,,nyol1238-1,23,ábiri nedatu,ábiri nedatu,[],,[],,False,False,,1
-nyol1238-1-24-1,,nyol1238-1,24,ábiri nené,ábiri nené,[],,[],,False,False,,1
-nyol1238-1-25-1,,nyol1238-1,25,ábiri netaanu,ábiri netaanu,[],,[],,False,False,,1
-nyol1238-1-26-1,,nyol1238-1,26,ábiri netaanu nendala,ábiri netaanu nendala,[],,[],,False,False,,1
-nyol1238-1-27-1,,nyol1238-1,27,ábiri netaanu nebiri,ábiri netaanu nebiri,[],,[],,False,False,,1
-nyol1238-1-28-1,,nyol1238-1,28,ábiri netaanu nedatu,ábiri netaanu nedatu,[],,[],,False,False,,1
-nyol1238-1-29-1,,nyol1238-1,29,ábiri netaanu nené,ábiri netaanu nené,[],,[],,False,False,,1
-nyol1238-1-30-1,,nyol1238-1,30,ádatu,ádatu,[],,[],,False,False,,1
-nyol1238-1-40-1,,nyol1238-1,40,áné,áné,[],,[],,False,False,,1
-nyol1238-1-50-1,,nyol1238-1,50,átaanu,átaanu,[],,[],,False,False,,1
-nyol1238-1-60-1,,nyol1238-1,60,nkaaɡa,nkaaɡa,[],,[],,False,False,,1
-nyol1238-1-70-1,,nyol1238-1,70,sanvu,sanvu,[],,[],,False,False,,1
-nyol1238-1-80-1,,nyol1238-1,80,cinaana,cinaana,[],,[],,False,False,,1
-nyol1238-1-90-1,,nyol1238-1,90,cenda,cenda,[],,[],,False,False,,1
-nyol1238-1-100-1,,nyol1238-1,100,hyasa,hyasa,[],,[],,False,False,,1
-nyol1238-1-200-1,,nyol1238-1,200,ebyasa bibiri,ebyasa bibiri,[],,[],,False,False,,1
-nyol1238-1-1000-1,,nyol1238-1,1000,ebyasa ehúmi,ebyasa ehúmi,[],( 100 x 10 ),[],,False,False,,1
-nyol1238-1-2000-1,,nyol1238-1,2000,ebya abiri,ebya abiri,[],,[],,False,False,,1
+nyol1238-1-1-1,,nyol1238-1,1,ndala,ndala,[],,['chan2019'],,False,False,,1
+nyol1238-1-2-1,,nyol1238-1,2,ebiri,ebiri,[],,['chan2019'],,False,False,,1
+nyol1238-1-3-1,,nyol1238-1,3,edatu,edatu,[],,['chan2019'],,False,False,,1
+nyol1238-1-4-1,,nyol1238-1,4,ené,ené,[],,['chan2019'],,False,False,,1
+nyol1238-1-5-1,,nyol1238-1,5,etaanu,etaanu,[],,['chan2019'],,False,False,,1
+nyol1238-1-6-1,,nyol1238-1,6,etaanu nendala,etaanu nendala,[],( 5 + 1 ),['chan2019'],,False,False,,1
+nyol1238-1-7-1,,nyol1238-1,7,etaanu nebiri,etaanu nebiri,[],( 5 + 2 ),['chan2019'],,False,False,,1
+nyol1238-1-8-1,,nyol1238-1,8,etaanu nedatu,etaanu nedatu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+nyol1238-1-9-1,,nyol1238-1,9,etaanu nené,etaanu nené,[],( 5 + 4 ),['chan2019'],,False,False,,1
+nyol1238-1-10-1,,nyol1238-1,10,ehúmi njereere,ehúmi njereere,[],,['chan2019'],,False,False,,1
+nyol1238-1-11-1,,nyol1238-1,11,ehúmi nandala,ehúmi nandala,[],,['chan2019'],,False,False,,1
+nyol1238-1-12-1,,nyol1238-1,12,ehúmi nebiri,ehúmi nebiri,[],,['chan2019'],,False,False,,1
+nyol1238-1-13-1,,nyol1238-1,13,ehúmi nedatu,ehúmi nedatu,[],,['chan2019'],,False,False,,1
+nyol1238-1-14-1,,nyol1238-1,14,ehúmi nené,ehúmi nené,[],,['chan2019'],,False,False,,1
+nyol1238-1-15-1,,nyol1238-1,15,ehúmi netaanu,ehúmi netaanu,[],,['chan2019'],,False,False,,1
+nyol1238-1-16-1,,nyol1238-1,16,ehúmi netaanu nendala,ehúmi netaanu nendala,[],,['chan2019'],,False,False,,1
+nyol1238-1-17-1,,nyol1238-1,17,ehúmi netaanu nebiri,ehúmi netaanu nebiri,[],,['chan2019'],,False,False,,1
+nyol1238-1-18-1,,nyol1238-1,18,ehúmi netaanu nedatu,ehúmi netaanu nedatu,[],,['chan2019'],,False,False,,1
+nyol1238-1-19-1,,nyol1238-1,19,ehúmi netaanu nené,ehúmi netaanu nené,[],,['chan2019'],,False,False,,1
+nyol1238-1-20-1,,nyol1238-1,20,ábíri memeere,ábíri memeere,[],,['chan2019'],,False,False,,1
+nyol1238-1-21-1,,nyol1238-1,21,ábiri nendala,ábiri nendala,[],,['chan2019'],,False,False,,1
+nyol1238-1-22-1,,nyol1238-1,22,ábiri nebiri,ábiri nebiri,[],,['chan2019'],,False,False,,1
+nyol1238-1-23-1,,nyol1238-1,23,ábiri nedatu,ábiri nedatu,[],,['chan2019'],,False,False,,1
+nyol1238-1-24-1,,nyol1238-1,24,ábiri nené,ábiri nené,[],,['chan2019'],,False,False,,1
+nyol1238-1-25-1,,nyol1238-1,25,ábiri netaanu,ábiri netaanu,[],,['chan2019'],,False,False,,1
+nyol1238-1-26-1,,nyol1238-1,26,ábiri netaanu nendala,ábiri netaanu nendala,[],,['chan2019'],,False,False,,1
+nyol1238-1-27-1,,nyol1238-1,27,ábiri netaanu nebiri,ábiri netaanu nebiri,[],,['chan2019'],,False,False,,1
+nyol1238-1-28-1,,nyol1238-1,28,ábiri netaanu nedatu,ábiri netaanu nedatu,[],,['chan2019'],,False,False,,1
+nyol1238-1-29-1,,nyol1238-1,29,ábiri netaanu nené,ábiri netaanu nené,[],,['chan2019'],,False,False,,1
+nyol1238-1-30-1,,nyol1238-1,30,ádatu,ádatu,[],,['chan2019'],,False,False,,1
+nyol1238-1-40-1,,nyol1238-1,40,áné,áné,[],,['chan2019'],,False,False,,1
+nyol1238-1-50-1,,nyol1238-1,50,átaanu,átaanu,[],,['chan2019'],,False,False,,1
+nyol1238-1-60-1,,nyol1238-1,60,nkaaɡa,nkaaɡa,[],,['chan2019'],,False,False,,1
+nyol1238-1-70-1,,nyol1238-1,70,sanvu,sanvu,[],,['chan2019'],,False,False,,1
+nyol1238-1-80-1,,nyol1238-1,80,cinaana,cinaana,[],,['chan2019'],,False,False,,1
+nyol1238-1-90-1,,nyol1238-1,90,cenda,cenda,[],,['chan2019'],,False,False,,1
+nyol1238-1-100-1,,nyol1238-1,100,hyasa,hyasa,[],,['chan2019'],,False,False,,1
+nyol1238-1-200-1,,nyol1238-1,200,ebyasa bibiri,ebyasa bibiri,[],,['chan2019'],,False,False,,1
+nyol1238-1-1000-1,,nyol1238-1,1000,ebyasa ehúmi,ebyasa ehúmi,[],( 100 x 10 ),['chan2019'],,False,False,,1
+nyol1238-1-2000-1,,nyol1238-1,2000,ebya abiri,ebya abiri,[],,['chan2019'],,False,False,,1

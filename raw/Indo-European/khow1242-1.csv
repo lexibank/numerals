@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-khow1242-1-1-1,,khow1242-1,1,i,i,[],,[],,False,False,,1
-khow1242-1-2-1,,khow1242-1,2,d͡ʒʊ,d͡ʒʊ,[],,[],,False,False,,1
-khow1242-1-3-1,,khow1242-1,3,t̪rɔj,t̪rɔj,[],,[],,False,False,,1
-khow1242-1-4-1,,khow1242-1,4,t͡ʃɔr,t͡ʃɔr,[],,[],,False,False,,1
-khow1242-1-5-1,,khow1242-1,5,pɔnd͡ʒ,pɔnd͡ʒ,[],,[],,False,False,,1
-khow1242-1-6-1,,khow1242-1,6,t͡sɔj,t͡sɔj,[],,[],,False,False,,1
-khow1242-1-7-1,,khow1242-1,7,sɔt̪,sɔt̪,[],,[],,False,False,,1
-khow1242-1-8-1,,khow1242-1,8,ɔʃt̪,ɔʃt̪,[],,[],,False,False,,1
-khow1242-1-9-1,,khow1242-1,9,nijɔf,nijɔf,[],,[],,False,False,,1
-khow1242-1-10-1,,khow1242-1,10,d͡ʒɔʃ,d͡ʒɔʃ,[],,[],,False,False,,1
-khow1242-1-11-1,,khow1242-1,11,d͡ʒɔʃ i,d͡ʒɔʃ i,[],,[],,False,False,,1
-khow1242-1-12-1,,khow1242-1,12,d͡ʒɔʃ d͡ʒʊ,d͡ʒɔʃ d͡ʒʊ,[],,[],,False,False,,1
-khow1242-1-13-1,,khow1242-1,13,d͡ʒɔʃ t̪rɔj,d͡ʒɔʃ t̪rɔj,[],,[],,False,False,,1
-khow1242-1-14-1,,khow1242-1,14,d͡ʒɔʃ t͡ʃɔr,d͡ʒɔʃ t͡ʃɔr,[],,[],,False,False,,1
-khow1242-1-15-1,,khow1242-1,15,d͡ʒɔʃ pɔnd͡ʒ,d͡ʒɔʃ pɔnd͡ʒ,[],,[],,False,False,,1
-khow1242-1-16-1,,khow1242-1,16,d͡ʒɔʃ t͡sɔj,d͡ʒɔʃ t͡sɔj,[],,[],,False,False,,1
-khow1242-1-17-1,,khow1242-1,17,d͡ʒɔʃ sɔt̪,d͡ʒɔʃ sɔt̪,[],,[],,False,False,,1
-khow1242-1-18-1,,khow1242-1,18,d͡ʒɔʃ ɔʃt̪,d͡ʒɔʃ ɔʃt̪,[],,[],,False,False,,1
-khow1242-1-19-1,,khow1242-1,19,d͡ʒɔʃ nijɔf,d͡ʒɔʃ nijɔf,[],,[],,False,False,,1
-khow1242-1-20-1,,khow1242-1,20,biʃir,biʃir,[],,[],,False,False,,1
-khow1242-1-21-1,,khow1242-1,21,biʃir i,biʃir i,[],,[],,False,False,,1
-khow1242-1-22-1,,khow1242-1,22,biʃir d͡ʒʊ,biʃir d͡ʒʊ,[],,[],,False,False,,1
-khow1242-1-23-1,,khow1242-1,23,biʃir t̪rɔj,biʃir t̪rɔj,[],,[],,False,False,,1
-khow1242-1-24-1,,khow1242-1,24,biʃir t͡ʃɔr,biʃir t͡ʃɔr,[],,[],,False,False,,1
-khow1242-1-25-1,,khow1242-1,25,biʃir pɔnd͡ʒ,biʃir pɔnd͡ʒ,[],,[],,False,False,,1
-khow1242-1-26-1,,khow1242-1,26,biʃir t͡sɔj,biʃir t͡sɔj,[],,[],,False,False,,1
-khow1242-1-27-1,,khow1242-1,27,biʃir sɔt̪,biʃir sɔt̪,[],,[],,False,False,,1
-khow1242-1-28-1,,khow1242-1,28,biʃir ɔʃt̪,biʃir ɔʃt̪,[],,[],,False,False,,1
-khow1242-1-29-1,,khow1242-1,29,biʃir nijɔf,biʃir nijɔf,[],,[],,False,False,,1
-khow1242-1-30-1,,khow1242-1,30,biʃir d͡ʒɔʃ,biʃir d͡ʒɔʃ,[],(20 + 10),[],,False,False,,1
-khow1242-1-40-1,,khow1242-1,40,d͡ʒʊ biʃir d͡ʒɔʃ,d͡ʒʊ biʃir d͡ʒɔʃ,[],( 2 x 20),[],,False,False,,1
-khow1242-1-50-1,,khow1242-1,50,d͡ʒʊ biʃir (2 x 20) + 10],d͡ʒʊ biʃir (2 x 20) + 10],[],,[],,False,True,,1
-khow1242-1-60-1,,khow1242-1,60,t̪rɔj biʃir d͡ʒɔʃ,t̪rɔj biʃir d͡ʒɔʃ,[],( 3 x 20),[],,False,False,,1
-khow1242-1-70-1,,khow1242-1,70,t̪rɔj biʃir d͡ʒɔʃ,t̪rɔj biʃir d͡ʒɔʃ,[],[(3 x 20) + 10],[],,False,False,,1
-khow1242-1-80-1,,khow1242-1,80,t͡ʃɔr biʃir,t͡ʃɔr biʃir,[],(4 x 20),[],,False,False,,1
-khow1242-1-90-1,,khow1242-1,90,t͡ʃɔr biʃir d͡ʒɔʃ,t͡ʃɔr biʃir d͡ʒɔʃ,[],[(4 x 20) + 10],[],,False,False,,1
-khow1242-1-100-1,,khow1242-1,100,pɔnd͡ʒ biʃir,pɔnd͡ʒ biʃir,[],(5 x 20),[],,False,False,,1
-khow1242-1-100-2,,khow1242-1,100,ʃɔr,ʃɔr,[],,[],,False,False,,1
-khow1242-1-200-1,,khow1242-1,200,d͡ʒʊ ʃɔr,d͡ʒʊ ʃɔr,[],,[],,False,False,,1
-khow1242-1-1000-1,,khow1242-1,1000,hazar,hazar,[],,[],,False,False,,1
-khow1242-1-2000-1,,khow1242-1,2000,d͡ʒʊ hazar,d͡ʒʊ hazar,[],,[],,False,False,,1
+khow1242-1-1-1,,khow1242-1,1,i,i,[],,['chan2019'],,False,False,,1
+khow1242-1-2-1,,khow1242-1,2,d͡ʒʊ,d͡ʒʊ,[],,['chan2019'],,False,False,,1
+khow1242-1-3-1,,khow1242-1,3,t̪rɔj,t̪rɔj,[],,['chan2019'],,False,False,,1
+khow1242-1-4-1,,khow1242-1,4,t͡ʃɔr,t͡ʃɔr,[],,['chan2019'],,False,False,,1
+khow1242-1-5-1,,khow1242-1,5,pɔnd͡ʒ,pɔnd͡ʒ,[],,['chan2019'],,False,False,,1
+khow1242-1-6-1,,khow1242-1,6,t͡sɔj,t͡sɔj,[],,['chan2019'],,False,False,,1
+khow1242-1-7-1,,khow1242-1,7,sɔt̪,sɔt̪,[],,['chan2019'],,False,False,,1
+khow1242-1-8-1,,khow1242-1,8,ɔʃt̪,ɔʃt̪,[],,['chan2019'],,False,False,,1
+khow1242-1-9-1,,khow1242-1,9,nijɔf,nijɔf,[],,['chan2019'],,False,False,,1
+khow1242-1-10-1,,khow1242-1,10,d͡ʒɔʃ,d͡ʒɔʃ,[],,['chan2019'],,False,False,,1
+khow1242-1-11-1,,khow1242-1,11,d͡ʒɔʃ i,d͡ʒɔʃ i,[],,['chan2019'],,False,False,,1
+khow1242-1-12-1,,khow1242-1,12,d͡ʒɔʃ d͡ʒʊ,d͡ʒɔʃ d͡ʒʊ,[],,['chan2019'],,False,False,,1
+khow1242-1-13-1,,khow1242-1,13,d͡ʒɔʃ t̪rɔj,d͡ʒɔʃ t̪rɔj,[],,['chan2019'],,False,False,,1
+khow1242-1-14-1,,khow1242-1,14,d͡ʒɔʃ t͡ʃɔr,d͡ʒɔʃ t͡ʃɔr,[],,['chan2019'],,False,False,,1
+khow1242-1-15-1,,khow1242-1,15,d͡ʒɔʃ pɔnd͡ʒ,d͡ʒɔʃ pɔnd͡ʒ,[],,['chan2019'],,False,False,,1
+khow1242-1-16-1,,khow1242-1,16,d͡ʒɔʃ t͡sɔj,d͡ʒɔʃ t͡sɔj,[],,['chan2019'],,False,False,,1
+khow1242-1-17-1,,khow1242-1,17,d͡ʒɔʃ sɔt̪,d͡ʒɔʃ sɔt̪,[],,['chan2019'],,False,False,,1
+khow1242-1-18-1,,khow1242-1,18,d͡ʒɔʃ ɔʃt̪,d͡ʒɔʃ ɔʃt̪,[],,['chan2019'],,False,False,,1
+khow1242-1-19-1,,khow1242-1,19,d͡ʒɔʃ nijɔf,d͡ʒɔʃ nijɔf,[],,['chan2019'],,False,False,,1
+khow1242-1-20-1,,khow1242-1,20,biʃir,biʃir,[],,['chan2019'],,False,False,,1
+khow1242-1-21-1,,khow1242-1,21,biʃir i,biʃir i,[],,['chan2019'],,False,False,,1
+khow1242-1-22-1,,khow1242-1,22,biʃir d͡ʒʊ,biʃir d͡ʒʊ,[],,['chan2019'],,False,False,,1
+khow1242-1-23-1,,khow1242-1,23,biʃir t̪rɔj,biʃir t̪rɔj,[],,['chan2019'],,False,False,,1
+khow1242-1-24-1,,khow1242-1,24,biʃir t͡ʃɔr,biʃir t͡ʃɔr,[],,['chan2019'],,False,False,,1
+khow1242-1-25-1,,khow1242-1,25,biʃir pɔnd͡ʒ,biʃir pɔnd͡ʒ,[],,['chan2019'],,False,False,,1
+khow1242-1-26-1,,khow1242-1,26,biʃir t͡sɔj,biʃir t͡sɔj,[],,['chan2019'],,False,False,,1
+khow1242-1-27-1,,khow1242-1,27,biʃir sɔt̪,biʃir sɔt̪,[],,['chan2019'],,False,False,,1
+khow1242-1-28-1,,khow1242-1,28,biʃir ɔʃt̪,biʃir ɔʃt̪,[],,['chan2019'],,False,False,,1
+khow1242-1-29-1,,khow1242-1,29,biʃir nijɔf,biʃir nijɔf,[],,['chan2019'],,False,False,,1
+khow1242-1-30-1,,khow1242-1,30,biʃir d͡ʒɔʃ,biʃir d͡ʒɔʃ,[],(20 + 10),['chan2019'],,False,False,,1
+khow1242-1-40-1,,khow1242-1,40,d͡ʒʊ biʃir d͡ʒɔʃ,d͡ʒʊ biʃir d͡ʒɔʃ,[],( 2 x 20),['chan2019'],,False,False,,1
+khow1242-1-50-1,,khow1242-1,50,d͡ʒʊ biʃir (2 x 20) + 10],d͡ʒʊ biʃir (2 x 20) + 10],[],,['chan2019'],,False,True,,1
+khow1242-1-60-1,,khow1242-1,60,t̪rɔj biʃir d͡ʒɔʃ,t̪rɔj biʃir d͡ʒɔʃ,[],( 3 x 20),['chan2019'],,False,False,,1
+khow1242-1-70-1,,khow1242-1,70,t̪rɔj biʃir d͡ʒɔʃ,t̪rɔj biʃir d͡ʒɔʃ,[],[(3 x 20) + 10],['chan2019'],,False,False,,1
+khow1242-1-80-1,,khow1242-1,80,t͡ʃɔr biʃir,t͡ʃɔr biʃir,[],(4 x 20),['chan2019'],,False,False,,1
+khow1242-1-90-1,,khow1242-1,90,t͡ʃɔr biʃir d͡ʒɔʃ,t͡ʃɔr biʃir d͡ʒɔʃ,[],[(4 x 20) + 10],['chan2019'],,False,False,,1
+khow1242-1-100-1,,khow1242-1,100,pɔnd͡ʒ biʃir,pɔnd͡ʒ biʃir,[],(5 x 20),['chan2019'],,False,False,,1
+khow1242-1-100-2,,khow1242-1,100,ʃɔr,ʃɔr,[],,['chan2019'],,False,False,,1
+khow1242-1-200-1,,khow1242-1,200,d͡ʒʊ ʃɔr,d͡ʒʊ ʃɔr,[],,['chan2019'],,False,False,,1
+khow1242-1-1000-1,,khow1242-1,1000,hazar,hazar,[],,['chan2019'],,False,False,,1
+khow1242-1-2000-1,,khow1242-1,2000,d͡ʒʊ hazar,d͡ʒʊ hazar,[],,['chan2019'],,False,False,,1

@@ -1,31 +1,31 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tahl1239-1-1-1,,tahl1239-1,1,ɬɪɡe,ɬɪɡe,[],,[],,False,False,,1
-tahl1239-1-2-1,,tahl1239-1,2,ɬakeː,ɬakeː,[],,[],,False,False,,1
-tahl1239-1-3-1,,tahl1239-1,3,taːtʼeː,taːtʼeː,[],,[],,False,False,,1
-tahl1239-1-3-2,,tahl1239-1,3,taːtetʼeː,taːtetʼeː,[],,[],,False,False,,1
-tahl1239-1-4-1,,tahl1239-1,4,ɬeːntʼeː,ɬeːntʼeː,[],,[],,False,False,,1
-tahl1239-1-5-1,,tahl1239-1,5,ɬoːlaʔe,ɬoːlaʔe,[],,[],,False,False,,1
-tahl1239-1-6-1,,tahl1239-1,6,naːsɬɪɡe,naːsɬɪɡe,[],( 5 + 1 ),[],,False,False,,1
-tahl1239-1-7-1,,tahl1239-1,7,naːsɬakeː,naːsɬakeː,[],( 5 + 2 ),[],,False,False,,1
-tahl1239-1-8-1,,tahl1239-1,8,naːstaʔe,naːstaʔe,[],( 5 + 3 ),[],,False,False,,1
-tahl1239-1-9-1,,tahl1239-1,9,naːsɬeːntʼeː,naːsɬeːntʼeː,[],( 5 + 4 ),[],,False,False,,1
-tahl1239-1-10-1,,tahl1239-1,10,tθʼoːθnaːn,tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-11-1,,tahl1239-1,11,(tθʼoːθnaːn) etesɬɪɡe,(tθʼoːθnaːn) etesɬɪɡe,[],,[],,False,False,,1
-tahl1239-1-12-1,,tahl1239-1,12,(tθʼoːθnaːn) eteɬakeː,(tθʼoːθnaːn) eteɬakeː,[],,[],,False,False,,1
-tahl1239-1-13-1,,tahl1239-1,13,(tθʼoːθnaːn) etetetaːtʼeː,(tθʼoːθnaːn) etetetaːtʼeː,[],,[],,False,False,,1
-tahl1239-1-14-1,,tahl1239-1,14,(tθʼoːθnaːn) eteɬeːntʼeː,(tθʼoːθnaːn) eteɬeːntʼeː,[],,[],,False,False,,1
-tahl1239-1-15-1,,tahl1239-1,15,(tθʼoːθnaːn) eteɬoːlaʔe,(tθʼoːθnaːn) eteɬoːlaʔe,[],,[],,False,False,,1
-tahl1239-1-16-1,,tahl1239-1,16,(tθʼoːθnaːn) etenaːsɬɪɡe,(tθʼoːθnaːn) etenaːsɬɪɡe,[],,[],,False,False,,1
-tahl1239-1-17-1,,tahl1239-1,17,(tθʼoːθnaːn) etenaːsɬakeː,(tθʼoːθnaːn) etenaːsɬakeː,[],,[],,False,False,,1
-tahl1239-1-18-1,,tahl1239-1,18,(tθʼoːθnaːn) etenaːstaʔe,(tθʼoːθnaːn) etenaːstaʔe,[],,[],,False,False,,1
-tahl1239-1-19-1,,tahl1239-1,19,(tθʼoːθnaːn) etenaːsɬeːntʼeː,(tθʼoːθnaːn) etenaːsɬeːntʼeː,[],,[],,False,False,,1
-tahl1239-1-20-1,,tahl1239-1,20,tenɬatihtʔeː,tenɬatihtʔeː,[],,[],,False,False,,1
-tahl1239-1-30-1,,tahl1239-1,30,taːtʼeː tθʼoːθnaːn,taːtʼeː tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-40-1,,tahl1239-1,40,ɬeːntʼeː tθʼoːθnaːn,ɬeːntʼeː tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-50-1,,tahl1239-1,50,ɬoːlaʔe tθʼoːθnaːn,ɬoːlaʔe tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-60-1,,tahl1239-1,60,naːsɬɪɡe tθʼoːθnaːn,naːsɬɪɡe tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-70-1,,tahl1239-1,70,naːsɬakeː tθʼoːθnaːn,naːsɬakeː tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-80-1,,tahl1239-1,80,naːstaʔe tθʼoːθnaːn,naːstaʔe tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-90-1,,tahl1239-1,90,naːsɬeːntʼeː tθʼoːθnaːn,naːsɬeːntʼeː tθʼoːθnaːn,[],,[],,False,False,,1
-tahl1239-1-100-1,,tahl1239-1,100,ten ɬoːlaʔe anehtʼeː,ten ɬoːlaʔe anehtʼeː,[],,[],,False,False,,1
-tahl1239-1-200-1,,tahl1239-1,200,ɬoːlaʔe ten anehtʼeː,ɬoːlaʔe ten anehtʼeː,[],,[],,False,False,,1
+tahl1239-1-1-1,,tahl1239-1,1,ɬɪɡe,ɬɪɡe,[],,['chan2019'],,False,False,,1
+tahl1239-1-2-1,,tahl1239-1,2,ɬakeː,ɬakeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-3-1,,tahl1239-1,3,taːtʼeː,taːtʼeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-3-2,,tahl1239-1,3,taːtetʼeː,taːtetʼeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-4-1,,tahl1239-1,4,ɬeːntʼeː,ɬeːntʼeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-5-1,,tahl1239-1,5,ɬoːlaʔe,ɬoːlaʔe,[],,['chan2019'],,False,False,,1
+tahl1239-1-6-1,,tahl1239-1,6,naːsɬɪɡe,naːsɬɪɡe,[],( 5 + 1 ),['chan2019'],,False,False,,1
+tahl1239-1-7-1,,tahl1239-1,7,naːsɬakeː,naːsɬakeː,[],( 5 + 2 ),['chan2019'],,False,False,,1
+tahl1239-1-8-1,,tahl1239-1,8,naːstaʔe,naːstaʔe,[],( 5 + 3 ),['chan2019'],,False,False,,1
+tahl1239-1-9-1,,tahl1239-1,9,naːsɬeːntʼeː,naːsɬeːntʼeː,[],( 5 + 4 ),['chan2019'],,False,False,,1
+tahl1239-1-10-1,,tahl1239-1,10,tθʼoːθnaːn,tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-11-1,,tahl1239-1,11,(tθʼoːθnaːn) etesɬɪɡe,(tθʼoːθnaːn) etesɬɪɡe,[],,['chan2019'],,False,False,,1
+tahl1239-1-12-1,,tahl1239-1,12,(tθʼoːθnaːn) eteɬakeː,(tθʼoːθnaːn) eteɬakeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-13-1,,tahl1239-1,13,(tθʼoːθnaːn) etetetaːtʼeː,(tθʼoːθnaːn) etetetaːtʼeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-14-1,,tahl1239-1,14,(tθʼoːθnaːn) eteɬeːntʼeː,(tθʼoːθnaːn) eteɬeːntʼeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-15-1,,tahl1239-1,15,(tθʼoːθnaːn) eteɬoːlaʔe,(tθʼoːθnaːn) eteɬoːlaʔe,[],,['chan2019'],,False,False,,1
+tahl1239-1-16-1,,tahl1239-1,16,(tθʼoːθnaːn) etenaːsɬɪɡe,(tθʼoːθnaːn) etenaːsɬɪɡe,[],,['chan2019'],,False,False,,1
+tahl1239-1-17-1,,tahl1239-1,17,(tθʼoːθnaːn) etenaːsɬakeː,(tθʼoːθnaːn) etenaːsɬakeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-18-1,,tahl1239-1,18,(tθʼoːθnaːn) etenaːstaʔe,(tθʼoːθnaːn) etenaːstaʔe,[],,['chan2019'],,False,False,,1
+tahl1239-1-19-1,,tahl1239-1,19,(tθʼoːθnaːn) etenaːsɬeːntʼeː,(tθʼoːθnaːn) etenaːsɬeːntʼeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-20-1,,tahl1239-1,20,tenɬatihtʔeː,tenɬatihtʔeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-30-1,,tahl1239-1,30,taːtʼeː tθʼoːθnaːn,taːtʼeː tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-40-1,,tahl1239-1,40,ɬeːntʼeː tθʼoːθnaːn,ɬeːntʼeː tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-50-1,,tahl1239-1,50,ɬoːlaʔe tθʼoːθnaːn,ɬoːlaʔe tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-60-1,,tahl1239-1,60,naːsɬɪɡe tθʼoːθnaːn,naːsɬɪɡe tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-70-1,,tahl1239-1,70,naːsɬakeː tθʼoːθnaːn,naːsɬakeː tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-80-1,,tahl1239-1,80,naːstaʔe tθʼoːθnaːn,naːstaʔe tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-90-1,,tahl1239-1,90,naːsɬeːntʼeː tθʼoːθnaːn,naːsɬeːntʼeː tθʼoːθnaːn,[],,['chan2019'],,False,False,,1
+tahl1239-1-100-1,,tahl1239-1,100,ten ɬoːlaʔe anehtʼeː,ten ɬoːlaʔe anehtʼeː,[],,['chan2019'],,False,False,,1
+tahl1239-1-200-1,,tahl1239-1,200,ɬoːlaʔe ten anehtʼeː,ɬoːlaʔe ten anehtʼeː,[],,['chan2019'],,False,False,,1

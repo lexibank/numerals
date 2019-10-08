@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dumb1241-1-1-1,,dumb1241-1,1,tàa,tàa,[],,[],,False,False,,1
-dumb1241-1-1-2,,dumb1241-1,1,tàaxɛ,tàaxɛ,[],,[],,False,False,,1
-dumb1241-1-2-1,,dumb1241-1,2,pʌ́rùu,pʌ́rùu,[],(xɛ),[],,False,False,,1
-dumb1241-1-3-1,,dumb1241-1,3,pɛ́tĩ̀ĩ,pɛ́tĩ̀ĩ,[],(xɛ),[],,False,False,,1
-dumb1241-1-4-1,,dumb1241-1,4,pɛ́vʊ̀ʊ,pɛ́vʊ̀ʊ,[],(xɛ),[],,False,False,,1
-dumb1241-1-5-1,,dumb1241-1,5,tàakũxɛ,tàakũxɛ,[],( litː 'one hand' ),[],,False,False,,1
-dumb1241-1-6-1,,dumb1241-1,6,tàakũxɛ-mí-tàa-nɔ́ɔtaa,tàakũxɛ-mí-tàa-nɔ́ɔtaa,[],( 5 + 1 ),[],,False,False,,1
-dumb1241-1-7-1,,dumb1241-1,7,tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],( 5 + 2 ),[],,False,False,,1
-dumb1241-1-8-1,,dumb1241-1,8,tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],( 5 + 3 ),[],,False,False,,1
-dumb1241-1-9-1,,dumb1241-1,9,tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],( 5 + 4 ),[],,False,False,,1
-dumb1241-1-10-1,,dumb1241-1,10,pʌ́rùukũxɛ,pʌ́rùukũxɛ,[],( litː 'two hands' ),[],,False,False,,1
-dumb1241-1-11-1,,dumb1241-1,11,pʌ́rùukũxɛ-mí-tàa-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-tàa-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-12-1,,dumb1241-1,12,pʌ́rùukũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-13-1,,dumb1241-1,13,pʌ́rùukũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-14-1,,dumb1241-1,14,pʌ́rùukũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-15-1,,dumb1241-1,15,pɛ́tîîkũxɛ,pɛ́tîîkũxɛ,[],( litː 'three hands' ),[],,False,False,,1
-dumb1241-1-16-1,,dumb1241-1,16,pɛ́tîîkũxɛ-mí-tàa-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-tàa-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-17-1,,dumb1241-1,17,pɛ́tîîkũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-18-1,,dumb1241-1,18,pɛ́tîîkũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-19-1,,dumb1241-1,19,pɛ́tîîkũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-20-1,,dumb1241-1,20,taajiɛ-xɛ,taajiɛ-xɛ,[],(litː 'one person'),[],,False,False,,1
-dumb1241-1-21-1,,dumb1241-1,21,taajiɛ-mí-tàaxɛ,taajiɛ-mí-tàaxɛ,[],,[],,False,False,,1
-dumb1241-1-22-1,,dumb1241-1,22,taajiɛ-mí-pʌ́rùu,taajiɛ-mí-pʌ́rùu,[],(xɛ),[],,False,False,,1
-dumb1241-1-23-1,,dumb1241-1,23,taajiɛ-mí-pɛ́tĩ̀ĩ,taajiɛ-mí-pɛ́tĩ̀ĩ,[],(xɛ),[],,False,False,,1
-dumb1241-1-24-1,,dumb1241-1,24,taajiɛ-mí-pɛ́vʊ̀ʊ,taajiɛ-mí-pɛ́vʊ̀ʊ,[],(xɛ),[],,False,False,,1
-dumb1241-1-25-1,,dumb1241-1,25,taajiɛ-mí-tàakũxɛ,taajiɛ-mí-tàakũxɛ,[],,[],,False,False,,1
-dumb1241-1-26-1,,dumb1241-1,26,taajiɛ-mí-tàakũxɛ-mí-tàa-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-tàa-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-27-1,,dumb1241-1,27,taajiɛ-mí-tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-28-1,,dumb1241-1,28,taajiɛ-mí-tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-29-1,,dumb1241-1,29,taajiɛ-mí-tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],,[],,False,False,,1
-dumb1241-1-30-1,,dumb1241-1,30,tajiɛ-xɛ-mí-pʌ́rùukũxɛ,tajiɛ-xɛ-mí-pʌ́rùukũxɛ,[],( 20 + 10 ),[],,False,False,,1
-dumb1241-1-40-1,,dumb1241-1,40,pʌ́rùu-jie,pʌ́rùu-jie,[],(litː 'two persons'),[],,False,False,,1
-dumb1241-1-50-1,,dumb1241-1,50,pʌ́rùu-jie-mí-pʌ́rùukũxɛ,pʌ́rùu-jie-mí-pʌ́rùukũxɛ,[],,[],,False,False,,1
-dumb1241-1-60-1,,dumb1241-1,60,pɛ́tĩ̀ĩ-jie,pɛ́tĩ̀ĩ-jie,[],(litː 'three persons'),[],,False,False,,1
-dumb1241-1-70-1,,dumb1241-1,70,pɛ́tĩ̀ĩ-jiexɛ-mí-pʌ́rùukũxɛ,pɛ́tĩ̀ĩ-jiexɛ-mí-pʌ́rùukũxɛ,[],,[],,False,False,,1
-dumb1241-1-80-1,,dumb1241-1,80,pɛ́vʊ̀ʊ-jie,pɛ́vʊ̀ʊ-jie,[],(litː 'four persons'),[],,False,False,,1
-dumb1241-1-90-1,,dumb1241-1,90,pɛ́vʊ̀ʊ-jie-mí-pʌ́rùukũxɛ,pɛ́vʊ̀ʊ-jie-mí-pʌ́rùukũxɛ,[],,[],,False,False,,1
-dumb1241-1-100-1,,dumb1241-1,100,tàakũ-jie,tàakũ-jie,[],(litː 'five persons'),[],,False,False,,1
-dumb1241-1-200-1,,dumb1241-1,200,pʌ́rùukũ-jiɛ,pʌ́rùukũ-jiɛ,[],(litː 'ten persons'),[],,False,False,,1
-dumb1241-1-1000-1,,dumb1241-1,1000,pʌ́rùu-jie-mí-pʌ́rùukũxɛ-mí-taajiɛ,pʌ́rùu-jie-mí-pʌ́rùukũxɛ-mí-taajiɛ,[],,[],,False,False,,1
-dumb1241-1-2000-1,,dumb1241-1,2000,tàakũ-jie--mí-taajiɛ,tàakũ-jie--mí-taajiɛ,[],,[],,False,False,,1
+dumb1241-1-1-1,,dumb1241-1,1,tàa,tàa,[],,['chan2019'],,False,False,,1
+dumb1241-1-1-2,,dumb1241-1,1,tàaxɛ,tàaxɛ,[],,['chan2019'],,False,False,,1
+dumb1241-1-2-1,,dumb1241-1,2,pʌ́rùu,pʌ́rùu,[],(xɛ),['chan2019'],,False,False,,1
+dumb1241-1-3-1,,dumb1241-1,3,pɛ́tĩ̀ĩ,pɛ́tĩ̀ĩ,[],(xɛ),['chan2019'],,False,False,,1
+dumb1241-1-4-1,,dumb1241-1,4,pɛ́vʊ̀ʊ,pɛ́vʊ̀ʊ,[],(xɛ),['chan2019'],,False,False,,1
+dumb1241-1-5-1,,dumb1241-1,5,tàakũxɛ,tàakũxɛ,[],( litː 'one hand' ),['chan2019'],,False,False,,1
+dumb1241-1-6-1,,dumb1241-1,6,tàakũxɛ-mí-tàa-nɔ́ɔtaa,tàakũxɛ-mí-tàa-nɔ́ɔtaa,[],( 5 + 1 ),['chan2019'],,False,False,,1
+dumb1241-1-7-1,,dumb1241-1,7,tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],( 5 + 2 ),['chan2019'],,False,False,,1
+dumb1241-1-8-1,,dumb1241-1,8,tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],( 5 + 3 ),['chan2019'],,False,False,,1
+dumb1241-1-9-1,,dumb1241-1,9,tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],( 5 + 4 ),['chan2019'],,False,False,,1
+dumb1241-1-10-1,,dumb1241-1,10,pʌ́rùukũxɛ,pʌ́rùukũxɛ,[],( litː 'two hands' ),['chan2019'],,False,False,,1
+dumb1241-1-11-1,,dumb1241-1,11,pʌ́rùukũxɛ-mí-tàa-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-tàa-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-12-1,,dumb1241-1,12,pʌ́rùukũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-13-1,,dumb1241-1,13,pʌ́rùukũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-14-1,,dumb1241-1,14,pʌ́rùukũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,pʌ́rùukũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-15-1,,dumb1241-1,15,pɛ́tîîkũxɛ,pɛ́tîîkũxɛ,[],( litː 'three hands' ),['chan2019'],,False,False,,1
+dumb1241-1-16-1,,dumb1241-1,16,pɛ́tîîkũxɛ-mí-tàa-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-tàa-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-17-1,,dumb1241-1,17,pɛ́tîîkũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-18-1,,dumb1241-1,18,pɛ́tîîkũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-19-1,,dumb1241-1,19,pɛ́tîîkũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,pɛ́tîîkũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-20-1,,dumb1241-1,20,taajiɛ-xɛ,taajiɛ-xɛ,[],(litː 'one person'),['chan2019'],,False,False,,1
+dumb1241-1-21-1,,dumb1241-1,21,taajiɛ-mí-tàaxɛ,taajiɛ-mí-tàaxɛ,[],,['chan2019'],,False,False,,1
+dumb1241-1-22-1,,dumb1241-1,22,taajiɛ-mí-pʌ́rùu,taajiɛ-mí-pʌ́rùu,[],(xɛ),['chan2019'],,False,False,,1
+dumb1241-1-23-1,,dumb1241-1,23,taajiɛ-mí-pɛ́tĩ̀ĩ,taajiɛ-mí-pɛ́tĩ̀ĩ,[],(xɛ),['chan2019'],,False,False,,1
+dumb1241-1-24-1,,dumb1241-1,24,taajiɛ-mí-pɛ́vʊ̀ʊ,taajiɛ-mí-pɛ́vʊ̀ʊ,[],(xɛ),['chan2019'],,False,False,,1
+dumb1241-1-25-1,,dumb1241-1,25,taajiɛ-mí-tàakũxɛ,taajiɛ-mí-tàakũxɛ,[],,['chan2019'],,False,False,,1
+dumb1241-1-26-1,,dumb1241-1,26,taajiɛ-mí-tàakũxɛ-mí-tàa-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-tàa-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-27-1,,dumb1241-1,27,taajiɛ-mí-tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-pʌ́rùu-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-28-1,,dumb1241-1,28,taajiɛ-mí-tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-pɛ́tĩ̀ĩ-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-29-1,,dumb1241-1,29,taajiɛ-mí-tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,taajiɛ-mí-tàakũxɛ-mí-pɛ́vʊ̀ʊ-nɔ́ɔtaa,[],,['chan2019'],,False,False,,1
+dumb1241-1-30-1,,dumb1241-1,30,tajiɛ-xɛ-mí-pʌ́rùukũxɛ,tajiɛ-xɛ-mí-pʌ́rùukũxɛ,[],( 20 + 10 ),['chan2019'],,False,False,,1
+dumb1241-1-40-1,,dumb1241-1,40,pʌ́rùu-jie,pʌ́rùu-jie,[],(litː 'two persons'),['chan2019'],,False,False,,1
+dumb1241-1-50-1,,dumb1241-1,50,pʌ́rùu-jie-mí-pʌ́rùukũxɛ,pʌ́rùu-jie-mí-pʌ́rùukũxɛ,[],,['chan2019'],,False,False,,1
+dumb1241-1-60-1,,dumb1241-1,60,pɛ́tĩ̀ĩ-jie,pɛ́tĩ̀ĩ-jie,[],(litː 'three persons'),['chan2019'],,False,False,,1
+dumb1241-1-70-1,,dumb1241-1,70,pɛ́tĩ̀ĩ-jiexɛ-mí-pʌ́rùukũxɛ,pɛ́tĩ̀ĩ-jiexɛ-mí-pʌ́rùukũxɛ,[],,['chan2019'],,False,False,,1
+dumb1241-1-80-1,,dumb1241-1,80,pɛ́vʊ̀ʊ-jie,pɛ́vʊ̀ʊ-jie,[],(litː 'four persons'),['chan2019'],,False,False,,1
+dumb1241-1-90-1,,dumb1241-1,90,pɛ́vʊ̀ʊ-jie-mí-pʌ́rùukũxɛ,pɛ́vʊ̀ʊ-jie-mí-pʌ́rùukũxɛ,[],,['chan2019'],,False,False,,1
+dumb1241-1-100-1,,dumb1241-1,100,tàakũ-jie,tàakũ-jie,[],(litː 'five persons'),['chan2019'],,False,False,,1
+dumb1241-1-200-1,,dumb1241-1,200,pʌ́rùukũ-jiɛ,pʌ́rùukũ-jiɛ,[],(litː 'ten persons'),['chan2019'],,False,False,,1
+dumb1241-1-1000-1,,dumb1241-1,1000,pʌ́rùu-jie-mí-pʌ́rùukũxɛ-mí-taajiɛ,pʌ́rùu-jie-mí-pʌ́rùukũxɛ-mí-taajiɛ,[],,['chan2019'],,False,False,,1
+dumb1241-1-2000-1,,dumb1241-1,2000,tàakũ-jie--mí-taajiɛ,tàakũ-jie--mí-taajiɛ,[],,['chan2019'],,False,False,,1

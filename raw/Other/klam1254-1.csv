@@ -1,20 +1,20 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-klam1254-1-1-1,,klam1254-1,1,n̥aas,n̥aas,[],,[],,False,False,,1
-klam1254-1-2-1,,klam1254-1,2,laap,laap,[],,[],,False,False,,1
-klam1254-1-3-1,,klam1254-1,3,ndan,ndan,[],,[],,False,False,,1
-klam1254-1-4-1,,klam1254-1,4,woniip,woniip,[],,[],,False,False,,1
-klam1254-1-5-1,,klam1254-1,5,tonʼip,tonʼip,[],,[],,False,False,,1
-klam1254-1-6-1,,klam1254-1,6,n̥ačksept,n̥ačksept,[],( č = tʃ),[],,False,False,,1
-klam1254-1-7-1,,klam1254-1,7,lapksept,lapksept,[],,[],,False,False,,1
-klam1254-1-8-1,,klam1254-1,8,ndanksept,ndanksept,[],,[],,False,False,,1
-klam1254-1-9-1,,klam1254-1,9,n̥ačqʼeeks,n̥ačqʼeeks,[],,[],,False,False,,1
-klam1254-1-10-1,,klam1254-1,10,tewnʼip,tewnʼip,[],,[],,False,False,,1
-klam1254-1-11-1,,klam1254-1,11,tewnʼipʼant n̥aas,tewnʼipʼant n̥aas,[],,[],,False,False,,1
-klam1254-1-14-1,,klam1254-1,14,tewnʼipʼant woniip,tewnʼipʼant woniip,[],,[],,False,False,,1
-klam1254-1-20-1,,klam1254-1,20,lapʼi tewnʼip,lapʼi tewnʼip,[],,[],,False,False,,1
-klam1254-1-21-1,,klam1254-1,21,lapʼi tewnʼipʼant n̥aas,lapʼi tewnʼipʼant n̥aas,[],,[],,False,False,,1
-klam1254-1-22-1,,klam1254-1,22,lapʼi tewnʼipʼant laap,lapʼi tewnʼipʼant laap,[],,[],,False,False,,1
-klam1254-1-33-1,,klam1254-1,33,ndaani tewnʼipant ndan,ndaani tewnʼipant ndan,[],,[],,False,False,,1
-klam1254-1-44-1,,klam1254-1,44,wonipnʼi tewnʼipant woniip,wonipnʼi tewnʼipant woniip,[],,[],,False,False,,1
-klam1254-1-55-1,,klam1254-1,55,tonʼipʼi tewnʼipant tonʼip,tonʼipʼi tewnʼipant tonʼip,[],,[],,False,False,,1
-klam1254-1-100-1,,klam1254-1,100,tewnʼipnʼi tewnʼip,tewnʼipnʼi tewnʼip,[],,[],,False,False,,1
+klam1254-1-1-1,,klam1254-1,1,n̥aas,n̥aas,[],,['chan2019'],,False,False,,1
+klam1254-1-2-1,,klam1254-1,2,laap,laap,[],,['chan2019'],,False,False,,1
+klam1254-1-3-1,,klam1254-1,3,ndan,ndan,[],,['chan2019'],,False,False,,1
+klam1254-1-4-1,,klam1254-1,4,woniip,woniip,[],,['chan2019'],,False,False,,1
+klam1254-1-5-1,,klam1254-1,5,tonʼip,tonʼip,[],,['chan2019'],,False,False,,1
+klam1254-1-6-1,,klam1254-1,6,n̥ačksept,n̥ačksept,[],( č = tʃ),['chan2019'],,False,False,,1
+klam1254-1-7-1,,klam1254-1,7,lapksept,lapksept,[],,['chan2019'],,False,False,,1
+klam1254-1-8-1,,klam1254-1,8,ndanksept,ndanksept,[],,['chan2019'],,False,False,,1
+klam1254-1-9-1,,klam1254-1,9,n̥ačqʼeeks,n̥ačqʼeeks,[],,['chan2019'],,False,False,,1
+klam1254-1-10-1,,klam1254-1,10,tewnʼip,tewnʼip,[],,['chan2019'],,False,False,,1
+klam1254-1-11-1,,klam1254-1,11,tewnʼipʼant n̥aas,tewnʼipʼant n̥aas,[],,['chan2019'],,False,False,,1
+klam1254-1-14-1,,klam1254-1,14,tewnʼipʼant woniip,tewnʼipʼant woniip,[],,['chan2019'],,False,False,,1
+klam1254-1-20-1,,klam1254-1,20,lapʼi tewnʼip,lapʼi tewnʼip,[],,['chan2019'],,False,False,,1
+klam1254-1-21-1,,klam1254-1,21,lapʼi tewnʼipʼant n̥aas,lapʼi tewnʼipʼant n̥aas,[],,['chan2019'],,False,False,,1
+klam1254-1-22-1,,klam1254-1,22,lapʼi tewnʼipʼant laap,lapʼi tewnʼipʼant laap,[],,['chan2019'],,False,False,,1
+klam1254-1-33-1,,klam1254-1,33,ndaani tewnʼipant ndan,ndaani tewnʼipant ndan,[],,['chan2019'],,False,False,,1
+klam1254-1-44-1,,klam1254-1,44,wonipnʼi tewnʼipant woniip,wonipnʼi tewnʼipant woniip,[],,['chan2019'],,False,False,,1
+klam1254-1-55-1,,klam1254-1,55,tonʼipʼi tewnʼipant tonʼip,tonʼipʼi tewnʼipant tonʼip,[],,['chan2019'],,False,False,,1
+klam1254-1-100-1,,klam1254-1,100,tewnʼipnʼi tewnʼip,tewnʼipnʼi tewnʼip,[],,['chan2019'],,False,False,,1

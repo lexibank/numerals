@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kokb1239-1-1-1,,kokb1239-1,1,ʂa,ʂa,[],,[],,False,False,,1
-kokb1239-1-2-1,,kokb1239-1,2,nui̯,nui̯,[],,[],,False,False,,1
-kokb1239-1-3-1,,kokb1239-1,3,tʰam,tʰam,[],,[],,False,False,,1
-kokb1239-1-4-1,,kokb1239-1,4,burui̯,burui̯,[],,[],,False,False,,1
-kokb1239-1-5-1,,kokb1239-1,5,ba,ba,[],,[],,False,False,,1
-kokb1239-1-6-1,,kokb1239-1,6,dou̯k,dou̯k,[],,[],,False,False,,1
-kokb1239-1-7-1,,kokb1239-1,7,ʂɪni,ʂɪni,[],,[],,False,False,,1
-kokb1239-1-8-1,,kokb1239-1,8,tʃar,tʃar,[],,[],,False,False,,1
-kokb1239-1-9-1,,kokb1239-1,9,ʃɪku,ʃɪku,[],,[],,False,False,,1
-kokb1239-1-10-1,,kokb1239-1,10,tʃi,tʃi,[],,[],,False,False,,1
-kokb1239-1-11-1,,kokb1239-1,11,kai̬tʃi kai̯ʂa,kai̬tʃi kai̯ʂa,[],,[],,False,False,,1
-kokb1239-1-12-1,,kokb1239-1,12,kai̬tʃi kai̯ nɯy,kai̬tʃi kai̯ nɯy,[],,[],,False,False,,1
-kokb1239-1-13-1,,kokb1239-1,13,kai̬tʃi kai̯tʰam,kai̬tʃi kai̯tʰam,[],,[],,False,False,,1
-kokb1239-1-14-1,,kokb1239-1,14,kai̬tʃi kai̯ brɯy,kai̬tʃi kai̯ brɯy,[],,[],,False,False,,1
-kokb1239-1-15-1,,kokb1239-1,15,kai̬tʃi kai̯ba,kai̬tʃi kai̯ba,[],,[],,False,False,,1
-kokb1239-1-16-1,,kokb1239-1,16,kai̬tʃi kai̯dɔk,kai̬tʃi kai̯dɔk,[],,[],,False,False,,1
-kokb1239-1-17-1,,kokb1239-1,17,kai̬tʃi kai̯ʂini,kai̬tʃi kai̯ʂini,[],,[],,False,False,,1
-kokb1239-1-18-1,,kokb1239-1,18,kai̬tʃi kai̯tʃar,kai̬tʃi kai̯tʃar,[],,[],,False,False,,1
-kokb1239-1-19-1,,kokb1239-1,19,kai̬tʃi kai̯ʂiku,kai̬tʃi kai̯ʂiku,[],,[],,False,False,,1
-kokb1239-1-20-1,,kokb1239-1,20,tʃinui̯,tʃinui̯,[],,[],,False,False,,1
-kokb1239-1-21-1,,kokb1239-1,21,nui̯tʃiʂa,nui̯tʃiʂa,[],,[],,False,False,,1
-kokb1239-1-22-1,,kokb1239-1,22,nui̯tʃitʰam,nui̯tʃitʰam,[],,[],,False,False,,1
-kokb1239-1-24-1,,kokb1239-1,24,nui̯tʃiburui̯,nui̯tʃiburui̯,[],,[],,False,False,,1
-kokb1239-1-25-1,,kokb1239-1,25,nui̯tʃiba,nui̯tʃiba,[],,[],,False,False,,1
-kokb1239-1-26-1,,kokb1239-1,26,nui̯tʃidou̯k,nui̯tʃidou̯k,[],,[],,False,False,,1
-kokb1239-1-27-1,,kokb1239-1,27,nui̯tʃiʂɪni,nui̯tʃiʂɪni,[],,[],,False,False,,1
-kokb1239-1-28-1,,kokb1239-1,28,nui̯tʃitʃar,nui̯tʃitʃar,[],,[],,False,False,,1
-kokb1239-1-29-1,,kokb1239-1,29,nui̯tʃiʂiku,nui̯tʃiʂiku,[],,[],,False,False,,1
-kokb1239-1-30-1,,kokb1239-1,30,tʰamtʃi,tʰamtʃi,[],,[],,False,False,,1
-kokb1239-1-40-1,,kokb1239-1,40,burui̯tʃi,burui̯tʃi,[],,[],,False,False,,1
-kokb1239-1-50-1,,kokb1239-1,50,batʃi,batʃi,[],,[],,False,False,,1
-kokb1239-1-60-1,,kokb1239-1,60,dou̬ktʃi,dou̬ktʃi,[],,[],,False,False,,1
-kokb1239-1-70-1,,kokb1239-1,70,ʂɪnitʃi,ʂɪnitʃi,[],,[],,False,False,,1
-kokb1239-1-80-1,,kokb1239-1,80,tʃatʃi,tʃatʃi,[],,[],,False,False,,1
-kokb1239-1-90-1,,kokb1239-1,90,ʂikutʃi,ʂikutʃi,[],,[],,False,False,,1
-kokb1239-1-100-1,,kokb1239-1,100,ra ʂa,ra ʂa,[],< Bengali ,[],,True,False,,1
-kokb1239-1-200-1,,kokb1239-1,200,nui̯ ra,nui̯ ra,[],,[],,False,False,,1
-kokb1239-1-1000-1,,kokb1239-1,1000,hadʒar ʂa,hadʒar ʂa,[],< Bengali ,[],,True,False,,1
-kokb1239-1-2000-1,,kokb1239-1,2000,nui̯ hadʒar,nui̯ hadʒar,[],,[],,False,False,,1
+kokb1239-1-1-1,,kokb1239-1,1,ʂa,ʂa,[],,['chan2019'],,False,False,,1
+kokb1239-1-2-1,,kokb1239-1,2,nui̯,nui̯,[],,['chan2019'],,False,False,,1
+kokb1239-1-3-1,,kokb1239-1,3,tʰam,tʰam,[],,['chan2019'],,False,False,,1
+kokb1239-1-4-1,,kokb1239-1,4,burui̯,burui̯,[],,['chan2019'],,False,False,,1
+kokb1239-1-5-1,,kokb1239-1,5,ba,ba,[],,['chan2019'],,False,False,,1
+kokb1239-1-6-1,,kokb1239-1,6,dou̯k,dou̯k,[],,['chan2019'],,False,False,,1
+kokb1239-1-7-1,,kokb1239-1,7,ʂɪni,ʂɪni,[],,['chan2019'],,False,False,,1
+kokb1239-1-8-1,,kokb1239-1,8,tʃar,tʃar,[],,['chan2019'],,False,False,,1
+kokb1239-1-9-1,,kokb1239-1,9,ʃɪku,ʃɪku,[],,['chan2019'],,False,False,,1
+kokb1239-1-10-1,,kokb1239-1,10,tʃi,tʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-11-1,,kokb1239-1,11,kai̬tʃi kai̯ʂa,kai̬tʃi kai̯ʂa,[],,['chan2019'],,False,False,,1
+kokb1239-1-12-1,,kokb1239-1,12,kai̬tʃi kai̯ nɯy,kai̬tʃi kai̯ nɯy,[],,['chan2019'],,False,False,,1
+kokb1239-1-13-1,,kokb1239-1,13,kai̬tʃi kai̯tʰam,kai̬tʃi kai̯tʰam,[],,['chan2019'],,False,False,,1
+kokb1239-1-14-1,,kokb1239-1,14,kai̬tʃi kai̯ brɯy,kai̬tʃi kai̯ brɯy,[],,['chan2019'],,False,False,,1
+kokb1239-1-15-1,,kokb1239-1,15,kai̬tʃi kai̯ba,kai̬tʃi kai̯ba,[],,['chan2019'],,False,False,,1
+kokb1239-1-16-1,,kokb1239-1,16,kai̬tʃi kai̯dɔk,kai̬tʃi kai̯dɔk,[],,['chan2019'],,False,False,,1
+kokb1239-1-17-1,,kokb1239-1,17,kai̬tʃi kai̯ʂini,kai̬tʃi kai̯ʂini,[],,['chan2019'],,False,False,,1
+kokb1239-1-18-1,,kokb1239-1,18,kai̬tʃi kai̯tʃar,kai̬tʃi kai̯tʃar,[],,['chan2019'],,False,False,,1
+kokb1239-1-19-1,,kokb1239-1,19,kai̬tʃi kai̯ʂiku,kai̬tʃi kai̯ʂiku,[],,['chan2019'],,False,False,,1
+kokb1239-1-20-1,,kokb1239-1,20,tʃinui̯,tʃinui̯,[],,['chan2019'],,False,False,,1
+kokb1239-1-21-1,,kokb1239-1,21,nui̯tʃiʂa,nui̯tʃiʂa,[],,['chan2019'],,False,False,,1
+kokb1239-1-22-1,,kokb1239-1,22,nui̯tʃitʰam,nui̯tʃitʰam,[],,['chan2019'],,False,False,,1
+kokb1239-1-24-1,,kokb1239-1,24,nui̯tʃiburui̯,nui̯tʃiburui̯,[],,['chan2019'],,False,False,,1
+kokb1239-1-25-1,,kokb1239-1,25,nui̯tʃiba,nui̯tʃiba,[],,['chan2019'],,False,False,,1
+kokb1239-1-26-1,,kokb1239-1,26,nui̯tʃidou̯k,nui̯tʃidou̯k,[],,['chan2019'],,False,False,,1
+kokb1239-1-27-1,,kokb1239-1,27,nui̯tʃiʂɪni,nui̯tʃiʂɪni,[],,['chan2019'],,False,False,,1
+kokb1239-1-28-1,,kokb1239-1,28,nui̯tʃitʃar,nui̯tʃitʃar,[],,['chan2019'],,False,False,,1
+kokb1239-1-29-1,,kokb1239-1,29,nui̯tʃiʂiku,nui̯tʃiʂiku,[],,['chan2019'],,False,False,,1
+kokb1239-1-30-1,,kokb1239-1,30,tʰamtʃi,tʰamtʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-40-1,,kokb1239-1,40,burui̯tʃi,burui̯tʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-50-1,,kokb1239-1,50,batʃi,batʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-60-1,,kokb1239-1,60,dou̬ktʃi,dou̬ktʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-70-1,,kokb1239-1,70,ʂɪnitʃi,ʂɪnitʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-80-1,,kokb1239-1,80,tʃatʃi,tʃatʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-90-1,,kokb1239-1,90,ʂikutʃi,ʂikutʃi,[],,['chan2019'],,False,False,,1
+kokb1239-1-100-1,,kokb1239-1,100,ra ʂa,ra ʂa,[],< Bengali ,['chan2019'],,True,False,,1
+kokb1239-1-200-1,,kokb1239-1,200,nui̯ ra,nui̯ ra,[],,['chan2019'],,False,False,,1
+kokb1239-1-1000-1,,kokb1239-1,1000,hadʒar ʂa,hadʒar ʂa,[],< Bengali ,['chan2019'],,True,False,,1
+kokb1239-1-2000-1,,kokb1239-1,2000,nui̯ hadʒar,nui̯ hadʒar,[],,['chan2019'],,False,False,,1

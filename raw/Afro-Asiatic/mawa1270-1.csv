@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mawa1270-1-1-1,,mawa1270-1,1,pəni,pəni,[],,[],,False,False,,1
-mawa1270-1-2-1,,mawa1270-1,2,ɾap,ɾap,[],,[],,False,False,,1
-mawa1270-1-3-1,,mawa1270-1,3,sup,sup,[],,[],,False,False,,1
-mawa1270-1-4-1,,mawa1270-1,4,paːt,paːt,[],,[],,False,False,,1
-mawa1270-1-5-1,,mawa1270-1,5,bij,bij,[],,[],,False,False,,1
-mawa1270-1-6-1,,mawa1270-1,6,bʸaːpat,bʸaːpat,[],( 5 + 1 ) ?,[],,False,False,,1
-mawa1270-1-7-1,,mawa1270-1,7,bʸamat,bʸamat,[],,[],,False,False,,1
-mawa1270-1-8-1,,mawa1270-1,8,patpat,patpat,[],( 2 x 4 ),[],,False,False,,1
-mawa1270-1-9-1,,mawa1270-1,9,kʷapinikara,kʷapinikara,[],( 10 - 1 ) ?,[],,False,False,,1
-mawa1270-1-10-1,,mawa1270-1,10,kʷaːjan,kʷaːjan,[],,[],,False,False,,1
-mawa1270-1-11-1,,mawa1270-1,11,kʷaːjan buti pəni,kʷaːjan buti pəni,[],,[],,False,False,,1
-mawa1270-1-12-1,,mawa1270-1,12,kʷaːjan buti ɾap,kʷaːjan buti ɾap,[],,[],,False,False,,1
-mawa1270-1-13-1,,mawa1270-1,13,kʷaːjan buti sup,kʷaːjan buti sup,[],,[],,False,False,,1
-mawa1270-1-14-1,,mawa1270-1,14,kʷaːjan buti pat,kʷaːjan buti pat,[],,[],,False,False,,1
-mawa1270-1-15-1,,mawa1270-1,15,kʷaːjan buti bij,kʷaːjan buti bij,[],,[],,False,False,,1
-mawa1270-1-16-1,,mawa1270-1,16,kʷaːjan buti bʸaːpat,kʷaːjan buti bʸaːpat,[],,[],,False,False,,1
-mawa1270-1-17-1,,mawa1270-1,17,kʷaːjan buti bʸamat,kʷaːjan buti bʸamat,[],,[],,False,False,,1
-mawa1270-1-18-1,,mawa1270-1,18,kʷaːjan buti patpat,kʷaːjan buti patpat,[],,[],,False,False,,1
-mawa1270-1-19-1,,mawa1270-1,19,kʷaːjan buti kʷapinikara,kʷaːjan buti kʷapinikara,[],,[],,False,False,,1
-mawa1270-1-20-1,,mawa1270-1,20,oos pəni,oos pəni,[],,[],,False,False,,1
-mawa1270-1-21-1,,mawa1270-1,21,oos pəni buti pəni,oos pəni buti pəni,[],,[],,False,False,,1
-mawa1270-1-22-1,,mawa1270-1,22,oos pəni buti ɾap,oos pəni buti ɾap,[],,[],,False,False,,1
-mawa1270-1-23-1,,mawa1270-1,23,oos pəni buti sup,oos pəni buti sup,[],,[],,False,False,,1
-mawa1270-1-24-1,,mawa1270-1,24,oos pəni buti pat,oos pəni buti pat,[],,[],,False,False,,1
-mawa1270-1-25-1,,mawa1270-1,25,oos pəni buti bij,oos pəni buti bij,[],,[],,False,False,,1
-mawa1270-1-26-1,,mawa1270-1,26,oos pəni butibʸaːpat,oos pəni butibʸaːpat,[],,[],,False,False,,1
-mawa1270-1-27-1,,mawa1270-1,27,oos pəni buti bʸamat,oos pəni buti bʸamat,[],,[],,False,False,,1
-mawa1270-1-28-1,,mawa1270-1,28,oos pəni butipatpat,oos pəni butipatpat,[],,[],,False,False,,1
-mawa1270-1-29-1,,mawa1270-1,29,oos pəni buti kʷapinikara,oos pəni buti kʷapinikara,[],,[],,False,False,,1
-mawa1270-1-30-1,,mawa1270-1,30,oos pəni buti kʷaːjan,oos pəni buti kʷaːjan,[],,[],,False,False,,1
-mawa1270-1-40-1,,mawa1270-1,40,oos-rap,oos-rap,[],( 20 x 2 ),[],,False,False,,1
-mawa1270-1-50-1,,mawa1270-1,50,oos-rap buti kʷaːjan,oos-rap buti kʷaːjan,[],,[],,False,False,,1
-mawa1270-1-60-1,,mawa1270-1,60,oos-sup,oos-sup,[],( 20 x 3 ),[],,False,False,,1
-mawa1270-1-70-1,,mawa1270-1,70,oos-supbuti kʷaːjan,oos-supbuti kʷaːjan,[],,[],,False,False,,1
-mawa1270-1-80-1,,mawa1270-1,80,oos-pat,oos-pat,[],( 20 x 4 ),[],,False,False,,1
-mawa1270-1-90-1,,mawa1270-1,90,oos-patbuti kʷaːjan,oos-patbuti kʷaːjan,[],,[],,False,False,,1
-mawa1270-1-100-1,,mawa1270-1,100,mija pəni,mija pəni,[],( mija < loan from Arabic ),[],,False,False,,1
-mawa1270-1-200-1,,mawa1270-1,200,mija ɾap,mija ɾap,[],,[],,False,False,,1
-mawa1270-1-1000-1,,mawa1270-1,1000,alip pəni,alip pəni,[],( alip< loan from Arabic ),[],,False,False,,1
-mawa1270-1-2000-1,,mawa1270-1,2000,alip ɾap,alip ɾap,[],,[],,False,False,,1
+mawa1270-1-1-1,,mawa1270-1,1,pəni,pəni,[],,['chan2019'],,False,False,,1
+mawa1270-1-2-1,,mawa1270-1,2,ɾap,ɾap,[],,['chan2019'],,False,False,,1
+mawa1270-1-3-1,,mawa1270-1,3,sup,sup,[],,['chan2019'],,False,False,,1
+mawa1270-1-4-1,,mawa1270-1,4,paːt,paːt,[],,['chan2019'],,False,False,,1
+mawa1270-1-5-1,,mawa1270-1,5,bij,bij,[],,['chan2019'],,False,False,,1
+mawa1270-1-6-1,,mawa1270-1,6,bʸaːpat,bʸaːpat,[],( 5 + 1 ) ?,['chan2019'],,False,False,,1
+mawa1270-1-7-1,,mawa1270-1,7,bʸamat,bʸamat,[],,['chan2019'],,False,False,,1
+mawa1270-1-8-1,,mawa1270-1,8,patpat,patpat,[],( 2 x 4 ),['chan2019'],,False,False,,1
+mawa1270-1-9-1,,mawa1270-1,9,kʷapinikara,kʷapinikara,[],( 10 - 1 ) ?,['chan2019'],,False,False,,1
+mawa1270-1-10-1,,mawa1270-1,10,kʷaːjan,kʷaːjan,[],,['chan2019'],,False,False,,1
+mawa1270-1-11-1,,mawa1270-1,11,kʷaːjan buti pəni,kʷaːjan buti pəni,[],,['chan2019'],,False,False,,1
+mawa1270-1-12-1,,mawa1270-1,12,kʷaːjan buti ɾap,kʷaːjan buti ɾap,[],,['chan2019'],,False,False,,1
+mawa1270-1-13-1,,mawa1270-1,13,kʷaːjan buti sup,kʷaːjan buti sup,[],,['chan2019'],,False,False,,1
+mawa1270-1-14-1,,mawa1270-1,14,kʷaːjan buti pat,kʷaːjan buti pat,[],,['chan2019'],,False,False,,1
+mawa1270-1-15-1,,mawa1270-1,15,kʷaːjan buti bij,kʷaːjan buti bij,[],,['chan2019'],,False,False,,1
+mawa1270-1-16-1,,mawa1270-1,16,kʷaːjan buti bʸaːpat,kʷaːjan buti bʸaːpat,[],,['chan2019'],,False,False,,1
+mawa1270-1-17-1,,mawa1270-1,17,kʷaːjan buti bʸamat,kʷaːjan buti bʸamat,[],,['chan2019'],,False,False,,1
+mawa1270-1-18-1,,mawa1270-1,18,kʷaːjan buti patpat,kʷaːjan buti patpat,[],,['chan2019'],,False,False,,1
+mawa1270-1-19-1,,mawa1270-1,19,kʷaːjan buti kʷapinikara,kʷaːjan buti kʷapinikara,[],,['chan2019'],,False,False,,1
+mawa1270-1-20-1,,mawa1270-1,20,oos pəni,oos pəni,[],,['chan2019'],,False,False,,1
+mawa1270-1-21-1,,mawa1270-1,21,oos pəni buti pəni,oos pəni buti pəni,[],,['chan2019'],,False,False,,1
+mawa1270-1-22-1,,mawa1270-1,22,oos pəni buti ɾap,oos pəni buti ɾap,[],,['chan2019'],,False,False,,1
+mawa1270-1-23-1,,mawa1270-1,23,oos pəni buti sup,oos pəni buti sup,[],,['chan2019'],,False,False,,1
+mawa1270-1-24-1,,mawa1270-1,24,oos pəni buti pat,oos pəni buti pat,[],,['chan2019'],,False,False,,1
+mawa1270-1-25-1,,mawa1270-1,25,oos pəni buti bij,oos pəni buti bij,[],,['chan2019'],,False,False,,1
+mawa1270-1-26-1,,mawa1270-1,26,oos pəni butibʸaːpat,oos pəni butibʸaːpat,[],,['chan2019'],,False,False,,1
+mawa1270-1-27-1,,mawa1270-1,27,oos pəni buti bʸamat,oos pəni buti bʸamat,[],,['chan2019'],,False,False,,1
+mawa1270-1-28-1,,mawa1270-1,28,oos pəni butipatpat,oos pəni butipatpat,[],,['chan2019'],,False,False,,1
+mawa1270-1-29-1,,mawa1270-1,29,oos pəni buti kʷapinikara,oos pəni buti kʷapinikara,[],,['chan2019'],,False,False,,1
+mawa1270-1-30-1,,mawa1270-1,30,oos pəni buti kʷaːjan,oos pəni buti kʷaːjan,[],,['chan2019'],,False,False,,1
+mawa1270-1-40-1,,mawa1270-1,40,oos-rap,oos-rap,[],( 20 x 2 ),['chan2019'],,False,False,,1
+mawa1270-1-50-1,,mawa1270-1,50,oos-rap buti kʷaːjan,oos-rap buti kʷaːjan,[],,['chan2019'],,False,False,,1
+mawa1270-1-60-1,,mawa1270-1,60,oos-sup,oos-sup,[],( 20 x 3 ),['chan2019'],,False,False,,1
+mawa1270-1-70-1,,mawa1270-1,70,oos-supbuti kʷaːjan,oos-supbuti kʷaːjan,[],,['chan2019'],,False,False,,1
+mawa1270-1-80-1,,mawa1270-1,80,oos-pat,oos-pat,[],( 20 x 4 ),['chan2019'],,False,False,,1
+mawa1270-1-90-1,,mawa1270-1,90,oos-patbuti kʷaːjan,oos-patbuti kʷaːjan,[],,['chan2019'],,False,False,,1
+mawa1270-1-100-1,,mawa1270-1,100,mija pəni,mija pəni,[],( mija < loan from Arabic ),['chan2019'],,False,False,,1
+mawa1270-1-200-1,,mawa1270-1,200,mija ɾap,mija ɾap,[],,['chan2019'],,False,False,,1
+mawa1270-1-1000-1,,mawa1270-1,1000,alip pəni,alip pəni,[],( alip< loan from Arabic ),['chan2019'],,False,False,,1
+mawa1270-1-2000-1,,mawa1270-1,2000,alip ɾap,alip ɾap,[],,['chan2019'],,False,False,,1

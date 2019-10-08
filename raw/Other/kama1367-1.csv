@@ -1,48 +1,48 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kama1367-1-1-1,,kama1367-1,1,ɨɾi,ɨɾi,[],(m.),[],,False,False,,1
-kama1367-1-1-2,,kama1367-1,1,ɨɾi,ɨɾi,[],( neutral),[],,False,False,,1
-kama1367-1-2-1,,kama1367-1,2,temi,temi,[],(m.),[],,False,False,,1
-kama1367-1-2-2,,kama1367-1,2,tɛɾi,tɛɾi,[],(f.),[],,False,False,,1
-kama1367-1-2-3,,kama1367-1,2,tend͡ʒi,tend͡ʒi,[],(n.),[],,False,False,,1
-kama1367-1-2-4,,kama1367-1,2,tɛβi,tɛβi,[],,[],,False,False,,1
-kama1367-1-3-1,,kama1367-1,3,temi ɨɾi,temi ɨɾi,[],,[],,False,False,,1
-kama1367-1-3-2,,kama1367-1,3,tɛɾi ɨɾe,tɛɾi ɨɾe,[],,[],,False,False,,1
-kama1367-1-3-3,,kama1367-1,3,tend͡ʒ ɨɾi,tend͡ʒ ɨɾi,[],"(m.,f., n.)",[],,False,False,,1
-kama1367-1-4-1,,kama1367-1,4,temi ayɛ temi,temi ayɛ temi,[],,[],,False,False,,1
-kama1367-1-4-2,,kama1367-1,4,tɛɾi ayɛ tɛɾi,tɛɾi ayɛ tɛɾi,[],"( m., f.)",[],,False,False,,1
-kama1367-1-5-1,,kama1367-1,5,si ɨre,si ɨre,[],,[],,False,False,,1
-kama1367-1-6-1,,kama1367-1,6,sɪkɪs,sɪkɪs,[],( Tok Pisin loan),[],,False,False,,1
-kama1367-1-7-1,,kama1367-1,7,seβɛn,seβɛn,[],( Tok Pisin loan),[],,False,False,,1
-kama1367-1-8-1,,kama1367-1,8,eⁱt,eⁱt,[],( Tok Pisin loan),[],,False,False,,1
-kama1367-1-9-1,,kama1367-1,9,nɐⁱn,nɐⁱn,[],( Tok Pisin loan),[],,False,False,,1
-kama1367-1-10-1,,kama1367-1,10,tɛn,tɛn,[],( Tok Pisin loan),[],,False,False,,1
-kama1367-1-11-1,,kama1367-1,11,ilɛβɛn,ilɛβɛn,[],( English loan),[],,False,False,,1
-kama1367-1-12-1,,kama1367-1,12,tʷɛlβ,tʷɛlβ,[],,[],,False,False,,1
-kama1367-1-13-1,,kama1367-1,13,tɨtin,tɨtin,[],,[],,False,False,,1
-kama1367-1-14-1,,kama1367-1,14,ɸotin,ɸotin,[],,[],,False,False,,1
-kama1367-1-15-1,,kama1367-1,15,ɸɪɸtin,ɸɪɸtin,[],,[],,False,False,,1
-kama1367-1-16-1,,kama1367-1,16,sɪkɪstin,sɪkɪstin,[],,[],,False,False,,1
-kama1367-1-17-1,,kama1367-1,17,sɛβɛntin,sɛβɛntin,[],,[],,False,False,,1
-kama1367-1-18-1,,kama1367-1,18,eⁱtin,eⁱtin,[],,[],,False,False,,1
-kama1367-1-19-1,,kama1367-1,19,nɐⁱnti,nɐⁱnti,[],,[],,False,False,,1
-kama1367-1-20-1,,kama1367-1,20,tʷɛnti,tʷɛnti,[],,[],,False,False,,1
-kama1367-1-21-1,,kama1367-1,21,tʷɛnti wan,tʷɛnti wan,[],,[],,False,False,,1
-kama1367-1-22-1,,kama1367-1,22,tʷɛnti tu,tʷɛnti tu,[],,[],,False,False,,1
-kama1367-1-23-1,,kama1367-1,23,tʷɛnti tᵊɾi,tʷɛnti tᵊɾi,[],,[],,False,False,,1
-kama1367-1-24-1,,kama1367-1,24,tʷɛnti ɸo,tʷɛnti ɸo,[],,[],,False,False,,1
-kama1367-1-25-1,,kama1367-1,25,tʷɛnti ɸɐⁱβ,tʷɛnti ɸɐⁱβ,[],,[],,False,False,,1
-kama1367-1-26-1,,kama1367-1,26,tʷɛnti sɪkɪs,tʷɛnti sɪkɪs,[],,[],,False,False,,1
-kama1367-1-27-1,,kama1367-1,27,tʷɛnti sɛβɛn,tʷɛnti sɛβɛn,[],,[],,False,False,,1
-kama1367-1-28-1,,kama1367-1,28,tʷɛnti eⁱt,tʷɛnti eⁱt,[],,[],,False,False,,1
-kama1367-1-29-1,,kama1367-1,29,tʷɛnti nɐⁱn,tʷɛnti nɐⁱn,[],,[],,False,False,,1
-kama1367-1-30-1,,kama1367-1,30,tɨti,tɨti,[],,[],,False,False,,1
-kama1367-1-40-1,,kama1367-1,40,ɸoti,ɸoti,[],,[],,False,False,,1
-kama1367-1-50-1,,kama1367-1,50,ɸɪɸti,ɸɪɸti,[],,[],,False,False,,1
-kama1367-1-60-1,,kama1367-1,60,sɪkɪsti,sɪkɪsti,[],,[],,False,False,,1
-kama1367-1-70-1,,kama1367-1,70,sɛβɛnti,sɛβɛnti,[],,[],,False,False,,1
-kama1367-1-80-1,,kama1367-1,80,eⁱti,eⁱti,[],,[],,False,False,,1
-kama1367-1-90-1,,kama1367-1,90,nɐⁱti,nɐⁱti,[],,[],,False,False,,1
-kama1367-1-100-1,,kama1367-1,100,wan handɛt,wan handɛt,[],,[],,False,False,,1
-kama1367-1-200-1,,kama1367-1,200,tu handɛt,tu handɛt,[],,[],,False,False,,1
-kama1367-1-1000-1,,kama1367-1,1000,wan tɐᵘsɪn,wan tɐᵘsɪn,[],,[],,False,False,,1
-kama1367-1-2000-1,,kama1367-1,2000,tu tɐᵘsɪn,tu tɐᵘsɪn,[],,[],,False,False,,1
+kama1367-1-1-1,,kama1367-1,1,ɨɾi,ɨɾi,[],(m.),['chan2019'],,False,False,,1
+kama1367-1-1-2,,kama1367-1,1,ɨɾi,ɨɾi,[],( neutral),['chan2019'],,False,False,,1
+kama1367-1-2-1,,kama1367-1,2,temi,temi,[],(m.),['chan2019'],,False,False,,1
+kama1367-1-2-2,,kama1367-1,2,tɛɾi,tɛɾi,[],(f.),['chan2019'],,False,False,,1
+kama1367-1-2-3,,kama1367-1,2,tend͡ʒi,tend͡ʒi,[],(n.),['chan2019'],,False,False,,1
+kama1367-1-2-4,,kama1367-1,2,tɛβi,tɛβi,[],,['chan2019'],,False,False,,1
+kama1367-1-3-1,,kama1367-1,3,temi ɨɾi,temi ɨɾi,[],,['chan2019'],,False,False,,1
+kama1367-1-3-2,,kama1367-1,3,tɛɾi ɨɾe,tɛɾi ɨɾe,[],,['chan2019'],,False,False,,1
+kama1367-1-3-3,,kama1367-1,3,tend͡ʒ ɨɾi,tend͡ʒ ɨɾi,[],"(m.,f., n.)",['chan2019'],,False,False,,1
+kama1367-1-4-1,,kama1367-1,4,temi ayɛ temi,temi ayɛ temi,[],,['chan2019'],,False,False,,1
+kama1367-1-4-2,,kama1367-1,4,tɛɾi ayɛ tɛɾi,tɛɾi ayɛ tɛɾi,[],"( m., f.)",['chan2019'],,False,False,,1
+kama1367-1-5-1,,kama1367-1,5,si ɨre,si ɨre,[],,['chan2019'],,False,False,,1
+kama1367-1-6-1,,kama1367-1,6,sɪkɪs,sɪkɪs,[],( Tok Pisin loan),['chan2019'],,False,False,,1
+kama1367-1-7-1,,kama1367-1,7,seβɛn,seβɛn,[],( Tok Pisin loan),['chan2019'],,False,False,,1
+kama1367-1-8-1,,kama1367-1,8,eⁱt,eⁱt,[],( Tok Pisin loan),['chan2019'],,False,False,,1
+kama1367-1-9-1,,kama1367-1,9,nɐⁱn,nɐⁱn,[],( Tok Pisin loan),['chan2019'],,False,False,,1
+kama1367-1-10-1,,kama1367-1,10,tɛn,tɛn,[],( Tok Pisin loan),['chan2019'],,False,False,,1
+kama1367-1-11-1,,kama1367-1,11,ilɛβɛn,ilɛβɛn,[],( English loan),['chan2019'],,False,False,,1
+kama1367-1-12-1,,kama1367-1,12,tʷɛlβ,tʷɛlβ,[],,['chan2019'],,False,False,,1
+kama1367-1-13-1,,kama1367-1,13,tɨtin,tɨtin,[],,['chan2019'],,False,False,,1
+kama1367-1-14-1,,kama1367-1,14,ɸotin,ɸotin,[],,['chan2019'],,False,False,,1
+kama1367-1-15-1,,kama1367-1,15,ɸɪɸtin,ɸɪɸtin,[],,['chan2019'],,False,False,,1
+kama1367-1-16-1,,kama1367-1,16,sɪkɪstin,sɪkɪstin,[],,['chan2019'],,False,False,,1
+kama1367-1-17-1,,kama1367-1,17,sɛβɛntin,sɛβɛntin,[],,['chan2019'],,False,False,,1
+kama1367-1-18-1,,kama1367-1,18,eⁱtin,eⁱtin,[],,['chan2019'],,False,False,,1
+kama1367-1-19-1,,kama1367-1,19,nɐⁱnti,nɐⁱnti,[],,['chan2019'],,False,False,,1
+kama1367-1-20-1,,kama1367-1,20,tʷɛnti,tʷɛnti,[],,['chan2019'],,False,False,,1
+kama1367-1-21-1,,kama1367-1,21,tʷɛnti wan,tʷɛnti wan,[],,['chan2019'],,False,False,,1
+kama1367-1-22-1,,kama1367-1,22,tʷɛnti tu,tʷɛnti tu,[],,['chan2019'],,False,False,,1
+kama1367-1-23-1,,kama1367-1,23,tʷɛnti tᵊɾi,tʷɛnti tᵊɾi,[],,['chan2019'],,False,False,,1
+kama1367-1-24-1,,kama1367-1,24,tʷɛnti ɸo,tʷɛnti ɸo,[],,['chan2019'],,False,False,,1
+kama1367-1-25-1,,kama1367-1,25,tʷɛnti ɸɐⁱβ,tʷɛnti ɸɐⁱβ,[],,['chan2019'],,False,False,,1
+kama1367-1-26-1,,kama1367-1,26,tʷɛnti sɪkɪs,tʷɛnti sɪkɪs,[],,['chan2019'],,False,False,,1
+kama1367-1-27-1,,kama1367-1,27,tʷɛnti sɛβɛn,tʷɛnti sɛβɛn,[],,['chan2019'],,False,False,,1
+kama1367-1-28-1,,kama1367-1,28,tʷɛnti eⁱt,tʷɛnti eⁱt,[],,['chan2019'],,False,False,,1
+kama1367-1-29-1,,kama1367-1,29,tʷɛnti nɐⁱn,tʷɛnti nɐⁱn,[],,['chan2019'],,False,False,,1
+kama1367-1-30-1,,kama1367-1,30,tɨti,tɨti,[],,['chan2019'],,False,False,,1
+kama1367-1-40-1,,kama1367-1,40,ɸoti,ɸoti,[],,['chan2019'],,False,False,,1
+kama1367-1-50-1,,kama1367-1,50,ɸɪɸti,ɸɪɸti,[],,['chan2019'],,False,False,,1
+kama1367-1-60-1,,kama1367-1,60,sɪkɪsti,sɪkɪsti,[],,['chan2019'],,False,False,,1
+kama1367-1-70-1,,kama1367-1,70,sɛβɛnti,sɛβɛnti,[],,['chan2019'],,False,False,,1
+kama1367-1-80-1,,kama1367-1,80,eⁱti,eⁱti,[],,['chan2019'],,False,False,,1
+kama1367-1-90-1,,kama1367-1,90,nɐⁱti,nɐⁱti,[],,['chan2019'],,False,False,,1
+kama1367-1-100-1,,kama1367-1,100,wan handɛt,wan handɛt,[],,['chan2019'],,False,False,,1
+kama1367-1-200-1,,kama1367-1,200,tu handɛt,tu handɛt,[],,['chan2019'],,False,False,,1
+kama1367-1-1000-1,,kama1367-1,1000,wan tɐᵘsɪn,wan tɐᵘsɪn,[],,['chan2019'],,False,False,,1
+kama1367-1-2000-1,,kama1367-1,2000,tu tɐᵘsɪn,tu tɐᵘsɪn,[],,['chan2019'],,False,False,,1

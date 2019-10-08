@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dung1251-1-1-1,,dung1251-1,1,eke,eke,[],,[],,False,False,,1
-dung1251-1-2-1,,dung1251-1,2,bene,bene,[],,[],,False,False,,1
-dung1251-1-3-1,,dung1251-1,3,t̪ine,t̪ine,[],,[],,False,False,,1
-dung1251-1-4-1,,dung1251-1,4,sijare,sijare,[],,[],,False,False,,1
-dung1251-1-5-1,,dung1251-1,5,pãse,pãse,[],,[],,False,False,,1
-dung1251-1-6-1,,dung1251-1,6,sove,sove,[],,[],,False,False,,1
-dung1251-1-7-1,,dung1251-1,7,hat̪,hat̪,[],,[],,False,False,,1
-dung1251-1-8-1,,dung1251-1,8,aʈ,aʈ,[],,[],,False,False,,1
-dung1251-1-9-1,,dung1251-1,9,nov,nov,[],,[],,False,False,,1
-dung1251-1-10-1,,dung1251-1,10,d̪oh,d̪oh,[],,[],,False,False,,1
-dung1251-1-11-1,,dung1251-1,11,iɡjare,iɡjare,[],,[],,False,False,,1
-dung1251-1-12-1,,dung1251-1,12,bare,bare,[],,[],,False,False,,1
-dung1251-1-13-1,,dung1251-1,13,t̪ere,t̪ere,[],,[],,False,False,,1
-dung1251-1-14-1,,dung1251-1,14,sovud̪e,sovud̪e,[],,[],,False,False,,1
-dung1251-1-15-1,,dung1251-1,15,ponore,ponore,[],,[],,False,False,,1
-dung1251-1-16-1,,dung1251-1,16,hole,hole,[],,[],,False,False,,1
-dung1251-1-17-1,,dung1251-1,17,sit̪ore,sit̪ore,[],,[],,False,False,,1
-dung1251-1-18-1,,dung1251-1,18,aɖare,aɖare,[],,[],,False,False,,1
-dung1251-1-19-1,,dung1251-1,19,oɡaɳihi,oɡaɳihi,[],,[],,False,False,,1
-dung1251-1-20-1,,dung1251-1,20,vihi,vihi,[],,[],,False,False,,1
-dung1251-1-21-1,,dung1251-1,21,vihin eke,vihin eke,[],,[],,False,False,,1
-dung1251-1-22-1,,dung1251-1,22,vihin bene,vihin bene,[],,[],,False,False,,1
-dung1251-1-23-1,,dung1251-1,23,vihin t̪ine,vihin t̪ine,[],,[],,False,False,,1
-dung1251-1-24-1,,dung1251-1,24,vihin sijare,vihin sijare,[],,[],,False,False,,1
-dung1251-1-25-1,,dung1251-1,25,vihin pãse,vihin pãse,[],,[],,False,False,,1
-dung1251-1-26-1,,dung1251-1,26,vihin sove,vihin sove,[],,[],,False,False,,1
-dung1251-1-27-1,,dung1251-1,27,vihin hat̪,vihin hat̪,[],,[],,False,False,,1
-dung1251-1-28-1,,dung1251-1,28,vihin aʈ,vihin aʈ,[],,[],,False,False,,1
-dung1251-1-29-1,,dung1251-1,29,vihin nov,vihin nov,[],,[],,False,False,,1
-dung1251-1-30-1,,dung1251-1,30,vihin d̪oh,vihin d̪oh,[],( 20 + 10 ),[],,False,False,,1
-dung1251-1-40-1,,dung1251-1,40,salihi,salihi,[],,[],,False,False,,1
-dung1251-1-50-1,,dung1251-1,50,posah,posah,[],,[],,False,False,,1
-dung1251-1-60-1,,dung1251-1,60,t̪in vihi,t̪in vihi,[],( 3 x 20  ),[],,False,False,,1
-dung1251-1-70-1,,dung1251-1,70,t̪in vihan d̪oh,t̪in vihan d̪oh,[],( 3 x 20 + 10 ),[],,False,False,,1
-dung1251-1-80-1,,dung1251-1,80,sijar vihi,sijar vihi,[],(4 x 20),[],,False,False,,1
-dung1251-1-90-1,,dung1251-1,90,sijar vihan d̪oh,sijar vihan d̪oh,[],( 4 x 20 + 10 ),[],,False,False,,1
-dung1251-1-100-1,,dung1251-1,100,hov,hov,[],,[],,False,False,,1
-dung1251-1-200-1,,dung1251-1,200,ben hov,ben hov,[],,[],,False,False,,1
-dung1251-1-1000-1,,dung1251-1,1000,ek ojaɾ,ek ojaɾ,[],,[],,False,False,,1
-dung1251-1-2000-1,,dung1251-1,2000,ben ojaɾ,ben ojaɾ,[],,[],,False,False,,1
+dung1251-1-1-1,,dung1251-1,1,eke,eke,[],,['chan2019'],,False,False,,1
+dung1251-1-2-1,,dung1251-1,2,bene,bene,[],,['chan2019'],,False,False,,1
+dung1251-1-3-1,,dung1251-1,3,t̪ine,t̪ine,[],,['chan2019'],,False,False,,1
+dung1251-1-4-1,,dung1251-1,4,sijare,sijare,[],,['chan2019'],,False,False,,1
+dung1251-1-5-1,,dung1251-1,5,pãse,pãse,[],,['chan2019'],,False,False,,1
+dung1251-1-6-1,,dung1251-1,6,sove,sove,[],,['chan2019'],,False,False,,1
+dung1251-1-7-1,,dung1251-1,7,hat̪,hat̪,[],,['chan2019'],,False,False,,1
+dung1251-1-8-1,,dung1251-1,8,aʈ,aʈ,[],,['chan2019'],,False,False,,1
+dung1251-1-9-1,,dung1251-1,9,nov,nov,[],,['chan2019'],,False,False,,1
+dung1251-1-10-1,,dung1251-1,10,d̪oh,d̪oh,[],,['chan2019'],,False,False,,1
+dung1251-1-11-1,,dung1251-1,11,iɡjare,iɡjare,[],,['chan2019'],,False,False,,1
+dung1251-1-12-1,,dung1251-1,12,bare,bare,[],,['chan2019'],,False,False,,1
+dung1251-1-13-1,,dung1251-1,13,t̪ere,t̪ere,[],,['chan2019'],,False,False,,1
+dung1251-1-14-1,,dung1251-1,14,sovud̪e,sovud̪e,[],,['chan2019'],,False,False,,1
+dung1251-1-15-1,,dung1251-1,15,ponore,ponore,[],,['chan2019'],,False,False,,1
+dung1251-1-16-1,,dung1251-1,16,hole,hole,[],,['chan2019'],,False,False,,1
+dung1251-1-17-1,,dung1251-1,17,sit̪ore,sit̪ore,[],,['chan2019'],,False,False,,1
+dung1251-1-18-1,,dung1251-1,18,aɖare,aɖare,[],,['chan2019'],,False,False,,1
+dung1251-1-19-1,,dung1251-1,19,oɡaɳihi,oɡaɳihi,[],,['chan2019'],,False,False,,1
+dung1251-1-20-1,,dung1251-1,20,vihi,vihi,[],,['chan2019'],,False,False,,1
+dung1251-1-21-1,,dung1251-1,21,vihin eke,vihin eke,[],,['chan2019'],,False,False,,1
+dung1251-1-22-1,,dung1251-1,22,vihin bene,vihin bene,[],,['chan2019'],,False,False,,1
+dung1251-1-23-1,,dung1251-1,23,vihin t̪ine,vihin t̪ine,[],,['chan2019'],,False,False,,1
+dung1251-1-24-1,,dung1251-1,24,vihin sijare,vihin sijare,[],,['chan2019'],,False,False,,1
+dung1251-1-25-1,,dung1251-1,25,vihin pãse,vihin pãse,[],,['chan2019'],,False,False,,1
+dung1251-1-26-1,,dung1251-1,26,vihin sove,vihin sove,[],,['chan2019'],,False,False,,1
+dung1251-1-27-1,,dung1251-1,27,vihin hat̪,vihin hat̪,[],,['chan2019'],,False,False,,1
+dung1251-1-28-1,,dung1251-1,28,vihin aʈ,vihin aʈ,[],,['chan2019'],,False,False,,1
+dung1251-1-29-1,,dung1251-1,29,vihin nov,vihin nov,[],,['chan2019'],,False,False,,1
+dung1251-1-30-1,,dung1251-1,30,vihin d̪oh,vihin d̪oh,[],( 20 + 10 ),['chan2019'],,False,False,,1
+dung1251-1-40-1,,dung1251-1,40,salihi,salihi,[],,['chan2019'],,False,False,,1
+dung1251-1-50-1,,dung1251-1,50,posah,posah,[],,['chan2019'],,False,False,,1
+dung1251-1-60-1,,dung1251-1,60,t̪in vihi,t̪in vihi,[],( 3 x 20  ),['chan2019'],,False,False,,1
+dung1251-1-70-1,,dung1251-1,70,t̪in vihan d̪oh,t̪in vihan d̪oh,[],( 3 x 20 + 10 ),['chan2019'],,False,False,,1
+dung1251-1-80-1,,dung1251-1,80,sijar vihi,sijar vihi,[],(4 x 20),['chan2019'],,False,False,,1
+dung1251-1-90-1,,dung1251-1,90,sijar vihan d̪oh,sijar vihan d̪oh,[],( 4 x 20 + 10 ),['chan2019'],,False,False,,1
+dung1251-1-100-1,,dung1251-1,100,hov,hov,[],,['chan2019'],,False,False,,1
+dung1251-1-200-1,,dung1251-1,200,ben hov,ben hov,[],,['chan2019'],,False,False,,1
+dung1251-1-1000-1,,dung1251-1,1000,ek ojaɾ,ek ojaɾ,[],,['chan2019'],,False,False,,1
+dung1251-1-2000-1,,dung1251-1,2000,ben ojaɾ,ben ojaɾ,[],,['chan2019'],,False,False,,1

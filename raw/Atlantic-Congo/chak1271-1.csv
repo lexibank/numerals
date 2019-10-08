@@ -1,46 +1,46 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chak1271-1-1-1,,chak1271-1,1,dɪ́ɡɪ́máná,dɪ́ɡɪ́máná,[],,[],,False,False,,1
-chak1271-1-1-2,,chak1271-1,1,dɪ́ɡɪ́máŋá,dɪ́ɡɪ́máŋá,[],,[],,False,False,,1
-chak1271-1-2-1,,chak1271-1,2,álìɛ̀,álìɛ̀,[],,[],,False,False,,1
-chak1271-1-3-1,,chak1271-1,3,átʊ̀rʊ̀,átʊ̀rʊ̀,[],,[],,False,False,,1
-chak1271-1-3-2,,chak1271-1,3,átʊ̀lì,átʊ̀lì,[],,[],,False,False,,1
-chak1271-1-3-3,,chak1271-1,3,á-tòrò,á-tòrò,[],,[],,False,False,,1
-chak1271-1-4-1,,chak1271-1,4,ànáásì,ànáásì,[],,[],,False,False,,1
-chak1271-1-5-1,,chak1271-1,5,āɲɔ̃̄,āɲɔ̃̄,[],,[],,False,False,,1
-chak1271-1-6-1,,chak1271-1,6,állʊ̀rʊ̀,állʊ̀rʊ̀,[],,[],,False,False,,1
-chak1271-1-6-2,,chak1271-1,6,állʊ̀lʊ̀,állʊ̀lʊ̀,[],,[],,False,False,,1
-chak1271-1-7-1,,chak1271-1,7,àlʊpɛ̀,àlʊpɛ̀,[],,[],,False,False,,1
-chak1271-1-7-2,,chak1271-1,7,lʊ́pɛ̀,lʊ́pɛ̀,[],,[],,False,False,,1
-chak1271-1-8-1,,chak1271-1,8,ŋmɛ́ŋtɛ́l,ŋmɛ́ŋtɛ́l,[],,[],,False,False,,1
-chak1271-1-9-1,,chak1271-1,9,dɪ́ɡɪ́tūū,dɪ́ɡɪ́tūū,[],( 10 - 1 ) ?,[],,False,False,,1
-chak1271-1-10-1,,chak1271-1,10,fí,fí,[],,[],,False,False,,1
-chak1271-1-11-1,,chak1271-1,11,fí di dɪ́ɡɪ́máŋá,fí di dɪ́ɡɪ́máŋá,[],,[],,False,False,,1
-chak1271-1-12-1,,chak1271-1,12,fí di álìɛ̀,fí di álìɛ̀,[],,[],,False,False,,1
-chak1271-1-13-1,,chak1271-1,13,fí di átʊ̀rʊ,fí di átʊ̀rʊ,[],,[],,False,False,,1
-chak1271-1-14-1,,chak1271-1,14,fí di ànáásì,fí di ànáásì,[],,[],,False,False,,1
-chak1271-1-15-1,,chak1271-1,15,fí di āɲɔ̃̄,fí di āɲɔ̃̄,[],,[],,False,False,,1
-chak1271-1-16-1,,chak1271-1,16,fí di állʊ̀rʊ̀,fí di állʊ̀rʊ̀,[],,[],,False,False,,1
-chak1271-1-17-1,,chak1271-1,17,fí di àlʊpɛ̀,fí di àlʊpɛ̀,[],,[],,False,False,,1
-chak1271-1-18-1,,chak1271-1,18,fí di ŋmɛ́ŋtɛ́l,fí di ŋmɛ́ŋtɛ́l,[],,[],,False,False,,1
-chak1271-1-19-1,,chak1271-1,19,fí di dɪ́ɡɪ́tūū,fí di dɪ́ɡɪ́tūū,[],,[],,False,False,,1
-chak1271-1-20-1,,chak1271-1,20,màtʃíʊ́,màtʃíʊ́,[],,[],,False,False,,1
-chak1271-1-21-1,,chak1271-1,21,màtʃíʊ́ anɪ dɪ́ɡɪ́máŋá,màtʃíʊ́ anɪ dɪ́ɡɪ́máŋá,[],,[],,False,False,,1
-chak1271-1-22-1,,chak1271-1,22,màtʃíʊ́ anɪ álìɛ̀,màtʃíʊ́ anɪ álìɛ̀,[],,[],,False,False,,1
-chak1271-1-23-1,,chak1271-1,23,màtʃíʊ́ anɪ átʊ̀rʊ,màtʃíʊ́ anɪ átʊ̀rʊ,[],,[],,False,False,,1
-chak1271-1-24-1,,chak1271-1,24,màtʃíʊ́ anɪ ànáásì,màtʃíʊ́ anɪ ànáásì,[],,[],,False,False,,1
-chak1271-1-25-1,,chak1271-1,25,màtʃíʊ́ anɪ āɲɔ̃̄,màtʃíʊ́ anɪ āɲɔ̃̄,[],,[],,False,False,,1
-chak1271-1-26-1,,chak1271-1,26,màtʃíʊ́ anɪ állʊ̀rʊ̀,màtʃíʊ́ anɪ állʊ̀rʊ̀,[],,[],,False,False,,1
-chak1271-1-27-1,,chak1271-1,27,màtʃíʊ́ anɪ àlʊpɛ̀,màtʃíʊ́ anɪ àlʊpɛ̀,[],,[],,False,False,,1
-chak1271-1-28-1,,chak1271-1,28,màtʃíʊ́ anɪ ŋmɛ́ŋtɛ́l,màtʃíʊ́ anɪ ŋmɛ́ŋtɛ́l,[],,[],,False,False,,1
-chak1271-1-29-1,,chak1271-1,29,màtʃíʊ́ anɪ,màtʃíʊ́ anɪ,[],,[],,False,False,,1
-chak1271-1-30-1,,chak1271-1,30,màtʃíʊ́ anɪ fí,màtʃíʊ́ anɪ fí,[],( 20 + 10 ),[],,False,False,,1
-chak1271-1-40-1,,chak1271-1,40,màtʃíʊ́ álìɛ̀,màtʃíʊ́ álìɛ̀,[],( 20 x 2 ),[],,False,False,,1
-chak1271-1-50-1,,chak1271-1,50,màtʃíʊ́ álìɛ anɪ fì,màtʃíʊ́ álìɛ anɪ fì,[],,[],,False,False,,1
-chak1271-1-60-1,,chak1271-1,60,màtʃíʊ́ átʊ̀rʊ̀,màtʃíʊ́ átʊ̀rʊ̀,[],( 20 x 3 ),[],,False,False,,1
-chak1271-1-70-1,,chak1271-1,70,màtʃíʊ́ átʊ̀rʊ̀ anɪ fì,màtʃíʊ́ átʊ̀rʊ̀ anɪ fì,[],,[],,False,False,,1
-chak1271-1-80-1,,chak1271-1,80,màtʃíʊ́ ànáásì,màtʃíʊ́ ànáásì,[],( 20 x 4 ),[],,False,False,,1
-chak1271-1-90-1,,chak1271-1,90,màtʃíʊ́ ànáásì anɪ fì,màtʃíʊ́ ànáásì anɪ fì,[],,[],,False,False,,1
-chak1271-1-100-1,,chak1271-1,100,kɔ̀wá,kɔ̀wá,[],,[],,False,False,,1
-chak1271-1-200-1,,chak1271-1,200,kɔ̀wá álìɛ̀,kɔ̀wá álìɛ̀,[],,[],,False,False,,1
-chak1271-1-1000-1,,chak1271-1,1000,tùsì,tùsì,[],,[],,False,False,,1
-chak1271-1-2000-1,,chak1271-1,2000,tùsì álìɛ̀,tùsì álìɛ̀,[],,[],,False,False,,1
+chak1271-1-1-1,,chak1271-1,1,dɪ́ɡɪ́máná,dɪ́ɡɪ́máná,[],,['chan2019'],,False,False,,1
+chak1271-1-1-2,,chak1271-1,1,dɪ́ɡɪ́máŋá,dɪ́ɡɪ́máŋá,[],,['chan2019'],,False,False,,1
+chak1271-1-2-1,,chak1271-1,2,álìɛ̀,álìɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-3-1,,chak1271-1,3,átʊ̀rʊ̀,átʊ̀rʊ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-3-2,,chak1271-1,3,átʊ̀lì,átʊ̀lì,[],,['chan2019'],,False,False,,1
+chak1271-1-3-3,,chak1271-1,3,á-tòrò,á-tòrò,[],,['chan2019'],,False,False,,1
+chak1271-1-4-1,,chak1271-1,4,ànáásì,ànáásì,[],,['chan2019'],,False,False,,1
+chak1271-1-5-1,,chak1271-1,5,āɲɔ̃̄,āɲɔ̃̄,[],,['chan2019'],,False,False,,1
+chak1271-1-6-1,,chak1271-1,6,állʊ̀rʊ̀,állʊ̀rʊ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-6-2,,chak1271-1,6,állʊ̀lʊ̀,állʊ̀lʊ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-7-1,,chak1271-1,7,àlʊpɛ̀,àlʊpɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-7-2,,chak1271-1,7,lʊ́pɛ̀,lʊ́pɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-8-1,,chak1271-1,8,ŋmɛ́ŋtɛ́l,ŋmɛ́ŋtɛ́l,[],,['chan2019'],,False,False,,1
+chak1271-1-9-1,,chak1271-1,9,dɪ́ɡɪ́tūū,dɪ́ɡɪ́tūū,[],( 10 - 1 ) ?,['chan2019'],,False,False,,1
+chak1271-1-10-1,,chak1271-1,10,fí,fí,[],,['chan2019'],,False,False,,1
+chak1271-1-11-1,,chak1271-1,11,fí di dɪ́ɡɪ́máŋá,fí di dɪ́ɡɪ́máŋá,[],,['chan2019'],,False,False,,1
+chak1271-1-12-1,,chak1271-1,12,fí di álìɛ̀,fí di álìɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-13-1,,chak1271-1,13,fí di átʊ̀rʊ,fí di átʊ̀rʊ,[],,['chan2019'],,False,False,,1
+chak1271-1-14-1,,chak1271-1,14,fí di ànáásì,fí di ànáásì,[],,['chan2019'],,False,False,,1
+chak1271-1-15-1,,chak1271-1,15,fí di āɲɔ̃̄,fí di āɲɔ̃̄,[],,['chan2019'],,False,False,,1
+chak1271-1-16-1,,chak1271-1,16,fí di állʊ̀rʊ̀,fí di állʊ̀rʊ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-17-1,,chak1271-1,17,fí di àlʊpɛ̀,fí di àlʊpɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-18-1,,chak1271-1,18,fí di ŋmɛ́ŋtɛ́l,fí di ŋmɛ́ŋtɛ́l,[],,['chan2019'],,False,False,,1
+chak1271-1-19-1,,chak1271-1,19,fí di dɪ́ɡɪ́tūū,fí di dɪ́ɡɪ́tūū,[],,['chan2019'],,False,False,,1
+chak1271-1-20-1,,chak1271-1,20,màtʃíʊ́,màtʃíʊ́,[],,['chan2019'],,False,False,,1
+chak1271-1-21-1,,chak1271-1,21,màtʃíʊ́ anɪ dɪ́ɡɪ́máŋá,màtʃíʊ́ anɪ dɪ́ɡɪ́máŋá,[],,['chan2019'],,False,False,,1
+chak1271-1-22-1,,chak1271-1,22,màtʃíʊ́ anɪ álìɛ̀,màtʃíʊ́ anɪ álìɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-23-1,,chak1271-1,23,màtʃíʊ́ anɪ átʊ̀rʊ,màtʃíʊ́ anɪ átʊ̀rʊ,[],,['chan2019'],,False,False,,1
+chak1271-1-24-1,,chak1271-1,24,màtʃíʊ́ anɪ ànáásì,màtʃíʊ́ anɪ ànáásì,[],,['chan2019'],,False,False,,1
+chak1271-1-25-1,,chak1271-1,25,màtʃíʊ́ anɪ āɲɔ̃̄,màtʃíʊ́ anɪ āɲɔ̃̄,[],,['chan2019'],,False,False,,1
+chak1271-1-26-1,,chak1271-1,26,màtʃíʊ́ anɪ állʊ̀rʊ̀,màtʃíʊ́ anɪ állʊ̀rʊ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-27-1,,chak1271-1,27,màtʃíʊ́ anɪ àlʊpɛ̀,màtʃíʊ́ anɪ àlʊpɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-28-1,,chak1271-1,28,màtʃíʊ́ anɪ ŋmɛ́ŋtɛ́l,màtʃíʊ́ anɪ ŋmɛ́ŋtɛ́l,[],,['chan2019'],,False,False,,1
+chak1271-1-29-1,,chak1271-1,29,màtʃíʊ́ anɪ,màtʃíʊ́ anɪ,[],,['chan2019'],,False,False,,1
+chak1271-1-30-1,,chak1271-1,30,màtʃíʊ́ anɪ fí,màtʃíʊ́ anɪ fí,[],( 20 + 10 ),['chan2019'],,False,False,,1
+chak1271-1-40-1,,chak1271-1,40,màtʃíʊ́ álìɛ̀,màtʃíʊ́ álìɛ̀,[],( 20 x 2 ),['chan2019'],,False,False,,1
+chak1271-1-50-1,,chak1271-1,50,màtʃíʊ́ álìɛ anɪ fì,màtʃíʊ́ álìɛ anɪ fì,[],,['chan2019'],,False,False,,1
+chak1271-1-60-1,,chak1271-1,60,màtʃíʊ́ átʊ̀rʊ̀,màtʃíʊ́ átʊ̀rʊ̀,[],( 20 x 3 ),['chan2019'],,False,False,,1
+chak1271-1-70-1,,chak1271-1,70,màtʃíʊ́ átʊ̀rʊ̀ anɪ fì,màtʃíʊ́ átʊ̀rʊ̀ anɪ fì,[],,['chan2019'],,False,False,,1
+chak1271-1-80-1,,chak1271-1,80,màtʃíʊ́ ànáásì,màtʃíʊ́ ànáásì,[],( 20 x 4 ),['chan2019'],,False,False,,1
+chak1271-1-90-1,,chak1271-1,90,màtʃíʊ́ ànáásì anɪ fì,màtʃíʊ́ ànáásì anɪ fì,[],,['chan2019'],,False,False,,1
+chak1271-1-100-1,,chak1271-1,100,kɔ̀wá,kɔ̀wá,[],,['chan2019'],,False,False,,1
+chak1271-1-200-1,,chak1271-1,200,kɔ̀wá álìɛ̀,kɔ̀wá álìɛ̀,[],,['chan2019'],,False,False,,1
+chak1271-1-1000-1,,chak1271-1,1000,tùsì,tùsì,[],,['chan2019'],,False,False,,1
+chak1271-1-2000-1,,chak1271-1,2000,tùsì álìɛ̀,tùsì álìɛ̀,[],,['chan2019'],,False,False,,1

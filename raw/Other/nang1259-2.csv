@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nang1259-2-1-1,,nang1259-2,1,yařbařan,yařbařan,[],,[],,False,False,,2
-nang1259-2-2-1,,nang1259-2,2,iřulubuřuɡ,iřulubuřuɡ,[],,[],,False,False,,2
-nang1259-2-3-1,,nang1259-2,3,alabuřuɡ,alabuřuɡ,[],,[],,False,False,,2
-nang1259-2-4-1,,nang1259-2,4,iřulubuřuɡ iřulubuřuɡ,iřulubuřuɡ iřulubuřuɡ,[],( 2 + 2 ),[],,False,False,,2
-nang1259-2-5-1,,nang1259-2,5,iřulubuřuɡ iřulubuřuɡ yařbařan,iřulubuřuɡ iřulubuřuɡ yařbařan,[],( 2 + 2 + 1),[],,False,False,,2
+nang1259-2-1-1,,nang1259-2,1,yařbařan,yařbařan,[],,['chan2019'],,False,False,,2
+nang1259-2-2-1,,nang1259-2,2,iřulubuřuɡ,iřulubuřuɡ,[],,['chan2019'],,False,False,,2
+nang1259-2-3-1,,nang1259-2,3,alabuřuɡ,alabuřuɡ,[],,['chan2019'],,False,False,,2
+nang1259-2-4-1,,nang1259-2,4,iřulubuřuɡ iřulubuřuɡ,iřulubuřuɡ iřulubuřuɡ,[],( 2 + 2 ),['chan2019'],,False,False,,2
+nang1259-2-5-1,,nang1259-2,5,iřulubuřuɡ iřulubuřuɡ yařbařan,iřulubuřuɡ iřulubuřuɡ yařbařan,[],( 2 + 2 + 1),['chan2019'],,False,False,,2

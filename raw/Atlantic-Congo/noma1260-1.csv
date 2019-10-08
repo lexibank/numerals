@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-noma1260-1-1-1,,noma1260-1,1,ɔmɔtɛ́,ɔmɔtɛ́,[],,[],,False,False,,1
-noma1260-1-2-1,,noma1260-1,2,béfendí,béfendí,[],,[],,False,False,,1
-noma1260-1-3-1,,noma1260-1,3,batátɔ́,batátɔ́,[],,[],,False,False,,1
-noma1260-1-4-1,,noma1260-1,4,bényíse,bényíse,[],,[],,False,False,,1
-noma1260-1-5-1,,noma1260-1,5,batáánɔ́,batáánɔ́,[],,[],,False,False,,1
-noma1260-1-6-1,,noma1260-1,6,betíndétú,betíndétú,[],,[],,False,False,,1
-noma1260-1-7-1,,noma1260-1,7,betíndétú nɔ́mɔ,betíndétú nɔ́mɔ,[],( 6 + 1),[],,False,False,,1
-noma1260-1-8-1,,noma1260-1,8,banámányɛ́,banámányɛ́,[],,[],,False,False,,1
-noma1260-1-9-1,,noma1260-1,9,banámányɛ́ nɔ́mɔ,banámányɛ́ nɔ́mɔ,[],( 8 + 1),[],,False,False,,1
-noma1260-1-10-1,,noma1260-1,10,bɔ́ɔ́háta,bɔ́ɔ́háta,[],,[],,False,False,,1
-noma1260-1-11-1,,noma1260-1,11,bɔ́ɔ́háta na ɔmɔtɛ́,bɔ́ɔ́háta na ɔmɔtɛ́,[],( 10 + 1 ),[],,False,False,,1
-noma1260-1-12-1,,noma1260-1,12,bɔ́ɔ́háta na béfendí,bɔ́ɔ́háta na béfendí,[],( 10 + 2 ),[],,False,False,,1
-noma1260-1-13-1,,noma1260-1,13,bɔ́ɔ́háta na batátɔ́,bɔ́ɔ́háta na batátɔ́,[],( 10 + 3 ),[],,False,False,,1
-noma1260-1-14-1,,noma1260-1,14,bɔ́ɔ́háta na bényíse,bɔ́ɔ́háta na bényíse,[],( 10 + 4 ),[],,False,False,,1
-noma1260-1-15-1,,noma1260-1,15,buunyi,buunyi,[],,[],,False,False,,1
-noma1260-1-16-1,,noma1260-1,16,buunyi na ɔmɔtɛ,buunyi na ɔmɔtɛ,[],( 15 + 1 ),[],,False,False,,1
-noma1260-1-17-1,,noma1260-1,17,buunyi na béfendí,buunyi na béfendí,[],( 15 + 2),[],,False,False,,1
-noma1260-1-18-1,,noma1260-1,18,buunyi na batátɔ́,buunyi na batátɔ́,[],( 15 + 3 ),[],,False,False,,1
-noma1260-1-19-1,,noma1260-1,19,buunyi na bényíse,buunyi na bényíse,[],( 15 + 4 ),[],,False,False,,1
-noma1260-1-20-1,,noma1260-1,20,nyitíne,nyitíne,[],,[],,False,False,,1
-noma1260-1-21-1,,noma1260-1,21,nyitíne na ɔmɔtɛ́,nyitíne na ɔmɔtɛ́,[],( '20 with 1'),[],,False,False,,1
-noma1260-1-22-1,,noma1260-1,22,nyitíne na béfendí,nyitíne na béfendí,[],,[],,False,False,,1
-noma1260-1-23-1,,noma1260-1,23,nyitíne na batátɔ́,nyitíne na batátɔ́,[],,[],,False,False,,1
-noma1260-1-24-1,,noma1260-1,24,nyitíne na bényíse,nyitíne na bényíse,[],,[],,False,False,,1
-noma1260-1-25-1,,noma1260-1,25,nyitíne na batáánɔ́,nyitíne na batáánɔ́,[],,[],,False,False,,1
-noma1260-1-26-1,,noma1260-1,26,nyitíne na betíndétú,nyitíne na betíndétú,[],,[],,False,False,,1
-noma1260-1-27-1,,noma1260-1,27,nyitíne na betíndétú nɔ́mɔ,nyitíne na betíndétú nɔ́mɔ,[],,[],,False,False,,1
-noma1260-1-28-1,,noma1260-1,28,nyitíne na banámányɛ́,nyitíne na banámányɛ́,[],,[],,False,False,,1
-noma1260-1-29-1,,noma1260-1,29,nyitíne na banámányɛ́ nɔ́mɔ,nyitíne na banámányɛ́ nɔ́mɔ,[],,[],,False,False,,1
-noma1260-1-30-1,,noma1260-1,30,nyitíne na bɔ́ɔ́háta,nyitíne na bɔ́ɔ́háta,[],( '20 with 10 '),[],,False,False,,1
-noma1260-1-40-1,,noma1260-1,40,etíne éfendí,etíne éfendí,[],( 20's two ),[],,False,False,,1
-noma1260-1-50-1,,noma1260-1,50,etíne éfendí na bɔ́ɔ́háta,etíne éfendí na bɔ́ɔ́háta,[],,[],,False,False,,1
-noma1260-1-60-1,,noma1260-1,60,etíne ɛtátɔ́,etíne ɛtátɔ́,[],( 20's three ),[],,False,False,,1
-noma1260-1-70-1,,noma1260-1,70,etíne ɛtátɔ́ na bɔ́ɔ́háta,etíne ɛtátɔ́ na bɔ́ɔ́háta,[],,[],,False,False,,1
-noma1260-1-80-1,,noma1260-1,80,etíne ínyíse,etíne ínyíse,[],( 20's four ),[],,False,False,,1
-noma1260-1-90-1,,noma1260-1,90,etíne ínyíse na bɔ́ɔ́háta,etíne ínyíse na bɔ́ɔ́háta,[],,[],,False,False,,1
-noma1260-1-100-1,,noma1260-1,100,etíne ɛtátɔ́,etíne ɛtátɔ́,[],,[],,False,False,,1
-noma1260-1-100-2,,noma1260-1,100,hɔ́ndɛ́tɛ,hɔ́ndɛ́tɛ,[],( < English ),[],,True,False,,1
-noma1260-1-200-1,,noma1260-1,200,hɔ́ndɛ́tɛ ífendí,hɔ́ndɛ́tɛ ífendí,[],,[],,False,False,,1
-noma1260-1-1000-1,,noma1260-1,1000,tɔ́sɛ́nd ɛ́mɔtɛ́,tɔ́sɛ́nd ɛ́mɔtɛ́,[],( ' tɔ́sɛ́nd ' from English ),[],,False,False,,1
-noma1260-1-2000-1,,noma1260-1,2000,tɔ́sɛ́nd ífendí,tɔ́sɛ́nd ífendí,[],,[],,False,False,,1
+noma1260-1-1-1,,noma1260-1,1,ɔmɔtɛ́,ɔmɔtɛ́,[],,['chan2019'],,False,False,,1
+noma1260-1-2-1,,noma1260-1,2,béfendí,béfendí,[],,['chan2019'],,False,False,,1
+noma1260-1-3-1,,noma1260-1,3,batátɔ́,batátɔ́,[],,['chan2019'],,False,False,,1
+noma1260-1-4-1,,noma1260-1,4,bényíse,bényíse,[],,['chan2019'],,False,False,,1
+noma1260-1-5-1,,noma1260-1,5,batáánɔ́,batáánɔ́,[],,['chan2019'],,False,False,,1
+noma1260-1-6-1,,noma1260-1,6,betíndétú,betíndétú,[],,['chan2019'],,False,False,,1
+noma1260-1-7-1,,noma1260-1,7,betíndétú nɔ́mɔ,betíndétú nɔ́mɔ,[],( 6 + 1),['chan2019'],,False,False,,1
+noma1260-1-8-1,,noma1260-1,8,banámányɛ́,banámányɛ́,[],,['chan2019'],,False,False,,1
+noma1260-1-9-1,,noma1260-1,9,banámányɛ́ nɔ́mɔ,banámányɛ́ nɔ́mɔ,[],( 8 + 1),['chan2019'],,False,False,,1
+noma1260-1-10-1,,noma1260-1,10,bɔ́ɔ́háta,bɔ́ɔ́háta,[],,['chan2019'],,False,False,,1
+noma1260-1-11-1,,noma1260-1,11,bɔ́ɔ́háta na ɔmɔtɛ́,bɔ́ɔ́háta na ɔmɔtɛ́,[],( 10 + 1 ),['chan2019'],,False,False,,1
+noma1260-1-12-1,,noma1260-1,12,bɔ́ɔ́háta na béfendí,bɔ́ɔ́háta na béfendí,[],( 10 + 2 ),['chan2019'],,False,False,,1
+noma1260-1-13-1,,noma1260-1,13,bɔ́ɔ́háta na batátɔ́,bɔ́ɔ́háta na batátɔ́,[],( 10 + 3 ),['chan2019'],,False,False,,1
+noma1260-1-14-1,,noma1260-1,14,bɔ́ɔ́háta na bényíse,bɔ́ɔ́háta na bényíse,[],( 10 + 4 ),['chan2019'],,False,False,,1
+noma1260-1-15-1,,noma1260-1,15,buunyi,buunyi,[],,['chan2019'],,False,False,,1
+noma1260-1-16-1,,noma1260-1,16,buunyi na ɔmɔtɛ,buunyi na ɔmɔtɛ,[],( 15 + 1 ),['chan2019'],,False,False,,1
+noma1260-1-17-1,,noma1260-1,17,buunyi na béfendí,buunyi na béfendí,[],( 15 + 2),['chan2019'],,False,False,,1
+noma1260-1-18-1,,noma1260-1,18,buunyi na batátɔ́,buunyi na batátɔ́,[],( 15 + 3 ),['chan2019'],,False,False,,1
+noma1260-1-19-1,,noma1260-1,19,buunyi na bényíse,buunyi na bényíse,[],( 15 + 4 ),['chan2019'],,False,False,,1
+noma1260-1-20-1,,noma1260-1,20,nyitíne,nyitíne,[],,['chan2019'],,False,False,,1
+noma1260-1-21-1,,noma1260-1,21,nyitíne na ɔmɔtɛ́,nyitíne na ɔmɔtɛ́,[],( '20 with 1'),['chan2019'],,False,False,,1
+noma1260-1-22-1,,noma1260-1,22,nyitíne na béfendí,nyitíne na béfendí,[],,['chan2019'],,False,False,,1
+noma1260-1-23-1,,noma1260-1,23,nyitíne na batátɔ́,nyitíne na batátɔ́,[],,['chan2019'],,False,False,,1
+noma1260-1-24-1,,noma1260-1,24,nyitíne na bényíse,nyitíne na bényíse,[],,['chan2019'],,False,False,,1
+noma1260-1-25-1,,noma1260-1,25,nyitíne na batáánɔ́,nyitíne na batáánɔ́,[],,['chan2019'],,False,False,,1
+noma1260-1-26-1,,noma1260-1,26,nyitíne na betíndétú,nyitíne na betíndétú,[],,['chan2019'],,False,False,,1
+noma1260-1-27-1,,noma1260-1,27,nyitíne na betíndétú nɔ́mɔ,nyitíne na betíndétú nɔ́mɔ,[],,['chan2019'],,False,False,,1
+noma1260-1-28-1,,noma1260-1,28,nyitíne na banámányɛ́,nyitíne na banámányɛ́,[],,['chan2019'],,False,False,,1
+noma1260-1-29-1,,noma1260-1,29,nyitíne na banámányɛ́ nɔ́mɔ,nyitíne na banámányɛ́ nɔ́mɔ,[],,['chan2019'],,False,False,,1
+noma1260-1-30-1,,noma1260-1,30,nyitíne na bɔ́ɔ́háta,nyitíne na bɔ́ɔ́háta,[],( '20 with 10 '),['chan2019'],,False,False,,1
+noma1260-1-40-1,,noma1260-1,40,etíne éfendí,etíne éfendí,[],( 20's two ),['chan2019'],,False,False,,1
+noma1260-1-50-1,,noma1260-1,50,etíne éfendí na bɔ́ɔ́háta,etíne éfendí na bɔ́ɔ́háta,[],,['chan2019'],,False,False,,1
+noma1260-1-60-1,,noma1260-1,60,etíne ɛtátɔ́,etíne ɛtátɔ́,[],( 20's three ),['chan2019'],,False,False,,1
+noma1260-1-70-1,,noma1260-1,70,etíne ɛtátɔ́ na bɔ́ɔ́háta,etíne ɛtátɔ́ na bɔ́ɔ́háta,[],,['chan2019'],,False,False,,1
+noma1260-1-80-1,,noma1260-1,80,etíne ínyíse,etíne ínyíse,[],( 20's four ),['chan2019'],,False,False,,1
+noma1260-1-90-1,,noma1260-1,90,etíne ínyíse na bɔ́ɔ́háta,etíne ínyíse na bɔ́ɔ́háta,[],,['chan2019'],,False,False,,1
+noma1260-1-100-1,,noma1260-1,100,etíne ɛtátɔ́,etíne ɛtátɔ́,[],,['chan2019'],,False,False,,1
+noma1260-1-100-2,,noma1260-1,100,hɔ́ndɛ́tɛ,hɔ́ndɛ́tɛ,[],( < English ),['chan2019'],,True,False,,1
+noma1260-1-200-1,,noma1260-1,200,hɔ́ndɛ́tɛ ífendí,hɔ́ndɛ́tɛ ífendí,[],,['chan2019'],,False,False,,1
+noma1260-1-1000-1,,noma1260-1,1000,tɔ́sɛ́nd ɛ́mɔtɛ́,tɔ́sɛ́nd ɛ́mɔtɛ́,[],( ' tɔ́sɛ́nd ' from English ),['chan2019'],,False,False,,1
+noma1260-1-2000-1,,noma1260-1,2000,tɔ́sɛ́nd ífendí,tɔ́sɛ́nd ífendí,[],,['chan2019'],,False,False,,1

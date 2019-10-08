@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2454-1-1-1,,west2454-1,1,ɡoʔo,ɡoʔo,[],,[],,False,False,,1
-west2454-1-2-1,,west2454-1,2,ɗiɗi,ɗiɗi,[],,[],,False,False,,1
-west2454-1-3-1,,west2454-1,3,tati,tati,[],,[],,False,False,,1
-west2454-1-4-1,,west2454-1,4,naj,naj,[],,[],,False,False,,1
-west2454-1-5-1,,west2454-1,5,d͡ʒoj,d͡ʒoj,[],,[],,False,False,,1
-west2454-1-6-1,,west2454-1,6,d͡ʒeeɡom,d͡ʒeeɡom,[],( 5 + 1 ),[],,False,False,,1
-west2454-1-7-1,,west2454-1,7,d͡ʒeɗɗi,d͡ʒeɗɗi,[],( 5 + 2 ),[],,False,False,,1
-west2454-1-8-1,,west2454-1,8,d͡ʒeetati,d͡ʒeetati,[],( 5 + 3 ),[],,False,False,,1
-west2454-1-9-1,,west2454-1,9,d͡ʒeenaj,d͡ʒeenaj,[],( 5 + 4 ),[],,False,False,,1
-west2454-1-10-1,,west2454-1,10,sappo,sappo,[],,[],,False,False,,1
-west2454-1-11-1,,west2454-1,11,sappo e ɡoʔo,sappo e ɡoʔo,[],,[],,False,False,,1
-west2454-1-12-1,,west2454-1,12,sappo e ɗiɗi,sappo e ɗiɗi,[],,[],,False,False,,1
-west2454-1-13-1,,west2454-1,13,sappo e tati,sappo e tati,[],,[],,False,False,,1
-west2454-1-14-1,,west2454-1,14,sappo e naj,sappo e naj,[],,[],,False,False,,1
-west2454-1-15-1,,west2454-1,15,sappo e d͡ʒoj,sappo e d͡ʒoj,[],,[],,False,False,,1
-west2454-1-16-1,,west2454-1,16,sappo e d͡ʒeeɡom,sappo e d͡ʒeeɡom,[],,[],,False,False,,1
-west2454-1-17-1,,west2454-1,17,sappo e d͡ʒeɗɗi,sappo e d͡ʒeɗɗi,[],,[],,False,False,,1
-west2454-1-18-1,,west2454-1,18,sappo e d͡ʒeetati,sappo e d͡ʒeetati,[],,[],,False,False,,1
-west2454-1-19-1,,west2454-1,19,sappo e d͡ʒeenaj,sappo e d͡ʒeenaj,[],,[],,False,False,,1
-west2454-1-20-1,,west2454-1,20,nooɡaj,nooɡaj,[],,[],,False,False,,1
-west2454-1-21-1,,west2454-1,21,nooɡaj e ɡoʔo,nooɡaj e ɡoʔo,[],,[],,False,False,,1
-west2454-1-22-1,,west2454-1,22,nooɡaj e ɗiɗi,nooɡaj e ɗiɗi,[],,[],,False,False,,1
-west2454-1-23-1,,west2454-1,23,nooɡaj e tati,nooɡaj e tati,[],,[],,False,False,,1
-west2454-1-24-1,,west2454-1,24,nooɡaj e naj,nooɡaj e naj,[],,[],,False,False,,1
-west2454-1-25-1,,west2454-1,25,nooɡaj e d͡ʒoj,nooɡaj e d͡ʒoj,[],,[],,False,False,,1
-west2454-1-26-1,,west2454-1,26,nooɡaj e d͡ʒeeɡom,nooɡaj e d͡ʒeeɡom,[],,[],,False,False,,1
-west2454-1-27-1,,west2454-1,27,nooɡaj e d͡ʒeɗɗi,nooɡaj e d͡ʒeɗɗi,[],,[],,False,False,,1
-west2454-1-28-1,,west2454-1,28,nooɡaj e d͡ʒeetati,nooɡaj e d͡ʒeetati,[],,[],,False,False,,1
-west2454-1-29-1,,west2454-1,29,nooɡaj e d͡ʒeenaj,nooɡaj e d͡ʒeenaj,[],,[],,False,False,,1
-west2454-1-30-1,,west2454-1,30,t͡ʃappanɗe tati,t͡ʃappanɗe tati,[],,[],,False,False,,1
-west2454-1-40-1,,west2454-1,40,t͡ʃappanɗe naj,t͡ʃappanɗe naj,[],,[],,False,False,,1
-west2454-1-50-1,,west2454-1,50,t͡ʃappanɗe d͡ʒoj,t͡ʃappanɗe d͡ʒoj,[],,[],,False,False,,1
-west2454-1-60-1,,west2454-1,60,t͡ʃappanɗe d͡ʒeeɡom,t͡ʃappanɗe d͡ʒeeɡom,[],,[],,False,False,,1
-west2454-1-70-1,,west2454-1,70,t͡ʃappanɗe d͡ʒeɗɗi,t͡ʃappanɗe d͡ʒeɗɗi,[],,[],,False,False,,1
-west2454-1-80-1,,west2454-1,80,t͡ʃappanɗe d͡ʒeetati,t͡ʃappanɗe d͡ʒeetati,[],,[],,False,False,,1
-west2454-1-90-1,,west2454-1,90,t͡ʃappanɗe d͡ʒeenaj,t͡ʃappanɗe d͡ʒeenaj,[],,[],,False,False,,1
-west2454-1-100-1,,west2454-1,100,hemre,hemre,[],,[],,False,False,,1
-west2454-1-200-1,,west2454-1,200,keme ɗiɗi,keme ɗiɗi,[],,[],,False,False,,1
-west2454-1-1000-1,,west2454-1,1000,ud͡ʒunere,ud͡ʒunere,[],,[],,False,False,,1
-west2454-1-2000-1,,west2454-1,2000,ud͡ʒunaad͡ʒe ɗiɗi,ud͡ʒunaad͡ʒe ɗiɗi,[],,[],,False,False,,1
+west2454-1-1-1,,west2454-1,1,ɡoʔo,ɡoʔo,[],,['chan2019'],,False,False,,1
+west2454-1-2-1,,west2454-1,2,ɗiɗi,ɗiɗi,[],,['chan2019'],,False,False,,1
+west2454-1-3-1,,west2454-1,3,tati,tati,[],,['chan2019'],,False,False,,1
+west2454-1-4-1,,west2454-1,4,naj,naj,[],,['chan2019'],,False,False,,1
+west2454-1-5-1,,west2454-1,5,d͡ʒoj,d͡ʒoj,[],,['chan2019'],,False,False,,1
+west2454-1-6-1,,west2454-1,6,d͡ʒeeɡom,d͡ʒeeɡom,[],( 5 + 1 ),['chan2019'],,False,False,,1
+west2454-1-7-1,,west2454-1,7,d͡ʒeɗɗi,d͡ʒeɗɗi,[],( 5 + 2 ),['chan2019'],,False,False,,1
+west2454-1-8-1,,west2454-1,8,d͡ʒeetati,d͡ʒeetati,[],( 5 + 3 ),['chan2019'],,False,False,,1
+west2454-1-9-1,,west2454-1,9,d͡ʒeenaj,d͡ʒeenaj,[],( 5 + 4 ),['chan2019'],,False,False,,1
+west2454-1-10-1,,west2454-1,10,sappo,sappo,[],,['chan2019'],,False,False,,1
+west2454-1-11-1,,west2454-1,11,sappo e ɡoʔo,sappo e ɡoʔo,[],,['chan2019'],,False,False,,1
+west2454-1-12-1,,west2454-1,12,sappo e ɗiɗi,sappo e ɗiɗi,[],,['chan2019'],,False,False,,1
+west2454-1-13-1,,west2454-1,13,sappo e tati,sappo e tati,[],,['chan2019'],,False,False,,1
+west2454-1-14-1,,west2454-1,14,sappo e naj,sappo e naj,[],,['chan2019'],,False,False,,1
+west2454-1-15-1,,west2454-1,15,sappo e d͡ʒoj,sappo e d͡ʒoj,[],,['chan2019'],,False,False,,1
+west2454-1-16-1,,west2454-1,16,sappo e d͡ʒeeɡom,sappo e d͡ʒeeɡom,[],,['chan2019'],,False,False,,1
+west2454-1-17-1,,west2454-1,17,sappo e d͡ʒeɗɗi,sappo e d͡ʒeɗɗi,[],,['chan2019'],,False,False,,1
+west2454-1-18-1,,west2454-1,18,sappo e d͡ʒeetati,sappo e d͡ʒeetati,[],,['chan2019'],,False,False,,1
+west2454-1-19-1,,west2454-1,19,sappo e d͡ʒeenaj,sappo e d͡ʒeenaj,[],,['chan2019'],,False,False,,1
+west2454-1-20-1,,west2454-1,20,nooɡaj,nooɡaj,[],,['chan2019'],,False,False,,1
+west2454-1-21-1,,west2454-1,21,nooɡaj e ɡoʔo,nooɡaj e ɡoʔo,[],,['chan2019'],,False,False,,1
+west2454-1-22-1,,west2454-1,22,nooɡaj e ɗiɗi,nooɡaj e ɗiɗi,[],,['chan2019'],,False,False,,1
+west2454-1-23-1,,west2454-1,23,nooɡaj e tati,nooɡaj e tati,[],,['chan2019'],,False,False,,1
+west2454-1-24-1,,west2454-1,24,nooɡaj e naj,nooɡaj e naj,[],,['chan2019'],,False,False,,1
+west2454-1-25-1,,west2454-1,25,nooɡaj e d͡ʒoj,nooɡaj e d͡ʒoj,[],,['chan2019'],,False,False,,1
+west2454-1-26-1,,west2454-1,26,nooɡaj e d͡ʒeeɡom,nooɡaj e d͡ʒeeɡom,[],,['chan2019'],,False,False,,1
+west2454-1-27-1,,west2454-1,27,nooɡaj e d͡ʒeɗɗi,nooɡaj e d͡ʒeɗɗi,[],,['chan2019'],,False,False,,1
+west2454-1-28-1,,west2454-1,28,nooɡaj e d͡ʒeetati,nooɡaj e d͡ʒeetati,[],,['chan2019'],,False,False,,1
+west2454-1-29-1,,west2454-1,29,nooɡaj e d͡ʒeenaj,nooɡaj e d͡ʒeenaj,[],,['chan2019'],,False,False,,1
+west2454-1-30-1,,west2454-1,30,t͡ʃappanɗe tati,t͡ʃappanɗe tati,[],,['chan2019'],,False,False,,1
+west2454-1-40-1,,west2454-1,40,t͡ʃappanɗe naj,t͡ʃappanɗe naj,[],,['chan2019'],,False,False,,1
+west2454-1-50-1,,west2454-1,50,t͡ʃappanɗe d͡ʒoj,t͡ʃappanɗe d͡ʒoj,[],,['chan2019'],,False,False,,1
+west2454-1-60-1,,west2454-1,60,t͡ʃappanɗe d͡ʒeeɡom,t͡ʃappanɗe d͡ʒeeɡom,[],,['chan2019'],,False,False,,1
+west2454-1-70-1,,west2454-1,70,t͡ʃappanɗe d͡ʒeɗɗi,t͡ʃappanɗe d͡ʒeɗɗi,[],,['chan2019'],,False,False,,1
+west2454-1-80-1,,west2454-1,80,t͡ʃappanɗe d͡ʒeetati,t͡ʃappanɗe d͡ʒeetati,[],,['chan2019'],,False,False,,1
+west2454-1-90-1,,west2454-1,90,t͡ʃappanɗe d͡ʒeenaj,t͡ʃappanɗe d͡ʒeenaj,[],,['chan2019'],,False,False,,1
+west2454-1-100-1,,west2454-1,100,hemre,hemre,[],,['chan2019'],,False,False,,1
+west2454-1-200-1,,west2454-1,200,keme ɗiɗi,keme ɗiɗi,[],,['chan2019'],,False,False,,1
+west2454-1-1000-1,,west2454-1,1000,ud͡ʒunere,ud͡ʒunere,[],,['chan2019'],,False,False,,1
+west2454-1-2000-1,,west2454-1,2000,ud͡ʒunaad͡ʒe ɗiɗi,ud͡ʒunaad͡ʒe ɗiɗi,[],,['chan2019'],,False,False,,1

@@ -1,33 +1,33 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-coma1245-1-1-1,,coma1245-1,1,sïmï,sïmï,[],( ï = ɨ),[],,False,False,,1
-coma1245-1-2-1,,coma1245-1,2,wahatï,wahatï,[],,[],,False,False,,1
-coma1245-1-3-1,,coma1245-1,3,pahihtï,pahihtï,[],,[],,False,False,,1
-coma1245-1-4-1,,coma1245-1,4,hayarokwɛtï,hayarokwɛtï,[],,[],,False,False,,1
-coma1245-1-5-1,,coma1245-1,5,moʔoβetï,moʔoβetï,[],,[],,False,False,,1
-coma1245-1-6-1,,coma1245-1,6,naahβaaihtï,naahβaaihtï,[],,[],,False,False,,1
-coma1245-1-7-1,,coma1245-1,7,taahtsïkwïtï,taahtsïkwïtï,[],,[],,False,False,,1
-coma1245-1-8-1,,coma1245-1,8,nemewaahtsïkwïti,nemewaahtsïkwïti,[],,[],,False,False,,1
-coma1245-1-9-1,,coma1245-1,9,wïminatï,wïminatï,[],,[],,False,False,,1
-coma1245-1-10-1,,coma1245-1,10,sïimanʊrï,sïimanʊrï,[],,[],,False,False,,1
-coma1245-1-11-1,,coma1245-1,11,sïimanʊwitï sïmïʔ matoʔikïtï,sïimanʊwitï sïmïʔ matoʔikïtï,[],,[],,False,False,,1
-coma1245-1-12-1,,coma1245-1,12,sïimanʊwitï wahatï matoʔikïti,sïimanʊwitï wahatï matoʔikïti,[],,[],,False,False,,1
-coma1245-1-13-1,,coma1245-1,13,sïimanʊwitï pahihtï matoʔikïti,sïimanʊwitï pahihtï matoʔikïti,[],,[],,False,False,,1
-coma1245-1-14-1,,coma1245-1,14,sïimanʊwitï hayarokwɛtï matoʔikïti,sïimanʊwitï hayarokwɛtï matoʔikïti,[],,[],,False,False,,1
-coma1245-1-15-1,,coma1245-1,15,sïimanʊwitï moʔoβetï matoʔikïti,sïimanʊwitï moʔoβetï matoʔikïti,[],,[],,False,False,,1
-coma1245-1-16-1,,coma1245-1,16,sïimanʊwitï naahβaaihtï matoʔikïti,sïimanʊwitï naahβaaihtï matoʔikïti,[],,[],,False,False,,1
-coma1245-1-17-1,,coma1245-1,17,sïimanʊwitï taahtsïkwïtï matoʔikïti,sïimanʊwitï taahtsïkwïtï matoʔikïti,[],,[],,False,False,,1
-coma1245-1-18-1,,coma1245-1,18,sïimanʊwitï nemewaahtsïkwïti mat.,sïimanʊwitï nemewaahtsïkwïti mat.,[],,[],,False,False,,1
-coma1245-1-19-1,,coma1245-1,19,sïimanʊwitï wïminatï matoʔikïti,sïimanʊwitï wïminatï matoʔikïti,[],,[],,False,False,,1
-coma1245-1-20-1,,coma1245-1,20,wahamanʊrï,wahamanʊrï,[],,[],,False,False,,1
-coma1245-1-21-1,,coma1245-1,21,wahamanʊrï sïmïʔ matoʔikïti,wahamanʊrï sïmïʔ matoʔikïti,[],,[],,False,False,,1
-coma1245-1-30-1,,coma1245-1,30,pahimanʊrï,pahimanʊrï,[],,[],,False,False,,1
-coma1245-1-40-1,,coma1245-1,40,hayarokwɛ sïimanʊrï,hayarokwɛ sïimanʊrï,[],,[],,False,False,,1
-coma1245-1-50-1,,coma1245-1,50,moʔoβekaa sïimanʊrï,moʔoβekaa sïimanʊrï,[],,[],,False,False,,1
-coma1245-1-60-1,,coma1245-1,60,naahβaaihtï sïimanʊrï ?,naahβaaihtï sïimanʊrï ?,[],,[],,False,True,,1
-coma1245-1-70-1,,coma1245-1,70,taahtsïkwïtï sïimanʊrï ?,taahtsïkwïtï sïimanʊrï ?,[],,[],,False,True,,1
-coma1245-1-80-1,,coma1245-1,80,nemewaahtsïkwïti sïimanʊri ?̈,nemewaahtsïkwïti sïimanʊri ?̈,[],,[],,False,True,,1
-coma1245-1-90-1,,coma1245-1,90,wïminatï sïimanʊrï ?,wïminatï sïimanʊrï ?,[],,[],,False,True,,1
-coma1245-1-100-1,,coma1245-1,100,sïmïhtï,sïmïhtï,[],,[],,False,False,,1
-coma1245-1-200-1,,coma1245-1,200,wahasïmïhtï ? 400. hayarokwɛ sïmïhtï,wahasïmïhtï ? 400. hayarokwɛ sïmïhtï,[],,[],,False,True,,1
-coma1245-1-1000-1,,coma1245-1,1000,piasïmïhtï,piasïmïhtï,[],,[],,False,False,,1
-coma1245-1-2000-1,,coma1245-1,2000,waha piasïmïhtï ?,waha piasïmïhtï ?,[],,[],,False,True,,1
+coma1245-1-1-1,,coma1245-1,1,sïmï,sïmï,[],( ï = ɨ),['chan2019'],,False,False,,1
+coma1245-1-2-1,,coma1245-1,2,wahatï,wahatï,[],,['chan2019'],,False,False,,1
+coma1245-1-3-1,,coma1245-1,3,pahihtï,pahihtï,[],,['chan2019'],,False,False,,1
+coma1245-1-4-1,,coma1245-1,4,hayarokwɛtï,hayarokwɛtï,[],,['chan2019'],,False,False,,1
+coma1245-1-5-1,,coma1245-1,5,moʔoβetï,moʔoβetï,[],,['chan2019'],,False,False,,1
+coma1245-1-6-1,,coma1245-1,6,naahβaaihtï,naahβaaihtï,[],,['chan2019'],,False,False,,1
+coma1245-1-7-1,,coma1245-1,7,taahtsïkwïtï,taahtsïkwïtï,[],,['chan2019'],,False,False,,1
+coma1245-1-8-1,,coma1245-1,8,nemewaahtsïkwïti,nemewaahtsïkwïti,[],,['chan2019'],,False,False,,1
+coma1245-1-9-1,,coma1245-1,9,wïminatï,wïminatï,[],,['chan2019'],,False,False,,1
+coma1245-1-10-1,,coma1245-1,10,sïimanʊrï,sïimanʊrï,[],,['chan2019'],,False,False,,1
+coma1245-1-11-1,,coma1245-1,11,sïimanʊwitï sïmïʔ matoʔikïtï,sïimanʊwitï sïmïʔ matoʔikïtï,[],,['chan2019'],,False,False,,1
+coma1245-1-12-1,,coma1245-1,12,sïimanʊwitï wahatï matoʔikïti,sïimanʊwitï wahatï matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-13-1,,coma1245-1,13,sïimanʊwitï pahihtï matoʔikïti,sïimanʊwitï pahihtï matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-14-1,,coma1245-1,14,sïimanʊwitï hayarokwɛtï matoʔikïti,sïimanʊwitï hayarokwɛtï matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-15-1,,coma1245-1,15,sïimanʊwitï moʔoβetï matoʔikïti,sïimanʊwitï moʔoβetï matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-16-1,,coma1245-1,16,sïimanʊwitï naahβaaihtï matoʔikïti,sïimanʊwitï naahβaaihtï matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-17-1,,coma1245-1,17,sïimanʊwitï taahtsïkwïtï matoʔikïti,sïimanʊwitï taahtsïkwïtï matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-18-1,,coma1245-1,18,sïimanʊwitï nemewaahtsïkwïti mat.,sïimanʊwitï nemewaahtsïkwïti mat.,[],,['chan2019'],,False,False,,1
+coma1245-1-19-1,,coma1245-1,19,sïimanʊwitï wïminatï matoʔikïti,sïimanʊwitï wïminatï matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-20-1,,coma1245-1,20,wahamanʊrï,wahamanʊrï,[],,['chan2019'],,False,False,,1
+coma1245-1-21-1,,coma1245-1,21,wahamanʊrï sïmïʔ matoʔikïti,wahamanʊrï sïmïʔ matoʔikïti,[],,['chan2019'],,False,False,,1
+coma1245-1-30-1,,coma1245-1,30,pahimanʊrï,pahimanʊrï,[],,['chan2019'],,False,False,,1
+coma1245-1-40-1,,coma1245-1,40,hayarokwɛ sïimanʊrï,hayarokwɛ sïimanʊrï,[],,['chan2019'],,False,False,,1
+coma1245-1-50-1,,coma1245-1,50,moʔoβekaa sïimanʊrï,moʔoβekaa sïimanʊrï,[],,['chan2019'],,False,False,,1
+coma1245-1-60-1,,coma1245-1,60,naahβaaihtï sïimanʊrï ?,naahβaaihtï sïimanʊrï ?,[],,['chan2019'],,False,True,,1
+coma1245-1-70-1,,coma1245-1,70,taahtsïkwïtï sïimanʊrï ?,taahtsïkwïtï sïimanʊrï ?,[],,['chan2019'],,False,True,,1
+coma1245-1-80-1,,coma1245-1,80,nemewaahtsïkwïti sïimanʊri ?̈,nemewaahtsïkwïti sïimanʊri ?̈,[],,['chan2019'],,False,True,,1
+coma1245-1-90-1,,coma1245-1,90,wïminatï sïimanʊrï ?,wïminatï sïimanʊrï ?,[],,['chan2019'],,False,True,,1
+coma1245-1-100-1,,coma1245-1,100,sïmïhtï,sïmïhtï,[],,['chan2019'],,False,False,,1
+coma1245-1-200-1,,coma1245-1,200,wahasïmïhtï ? 400. hayarokwɛ sïmïhtï,wahasïmïhtï ? 400. hayarokwɛ sïmïhtï,[],,['chan2019'],,False,True,,1
+coma1245-1-1000-1,,coma1245-1,1000,piasïmïhtï,piasïmïhtï,[],,['chan2019'],,False,False,,1
+coma1245-1-2000-1,,coma1245-1,2000,waha piasïmïhtï ?,waha piasïmïhtï ?,[],,['chan2019'],,False,True,,1

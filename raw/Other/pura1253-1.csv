@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pura1253-1-1-1,,pura1253-1,1,moʔonɑtɑ,moʔonɑtɑ,[],,[],,False,False,,1
-pura1253-1-2-1,,pura1253-1,2,oɡe,oɡe,[],,[],,False,False,,1
-pura1253-1-3-1,,pura1253-1,3,ɑɾuβɛ,ɑɾuβɛ,[],,[],,False,False,,1
-pura1253-1-4-1,,pura1253-1,4,oɡeoɡe,oɡeoɡe,[],,[],,False,False,,1
-pura1253-1-5-1,,pura1253-1,5,neɸɑuɾɑⁱtɑ,neɸɑuɾɑⁱtɑ,[],,[],,False,False,,1
-pura1253-1-6-1,,pura1253-1,6,'neβoɾɑⁱdɑ ɑⁱdɑβoʔonɑdɑ,'neβoɾɑⁱdɑ ɑⁱdɑβoʔonɑdɑ,[],,[],,False,False,,1
-pura1253-1-7-1,,pura1253-1,7,'neβoɾɑⁱdɑ ɑⁱdɑβoʔoɡe,'neβoɾɑⁱdɑ ɑⁱdɑβoʔoɡe,[],,[],,False,False,,1
-pura1253-1-8-1,,pura1253-1,8,'neβoɾɑⁱdɑ ɑⁱdɑβoɑɾuweⁱ,'neβoɾɑⁱdɑ ɑⁱdɑβoɑɾuweⁱ,[],,[],,False,False,,1
-pura1253-1-9-1,,pura1253-1,9,'neβoɾɑⁱdɑ ɑⁱdɑβoʔɡoɡeoɡe,'neβoɾɑⁱdɑ ɑⁱdɑβoʔɡoɡeoɡe,[],,[],,False,False,,1
-pura1253-1-10-1,,pura1253-1,10,neβoɾu,neβoɾu,[],,[],,False,False,,1
+pura1253-1-1-1,,pura1253-1,1,moʔonɑtɑ,moʔonɑtɑ,[],,['chan2019'],,False,False,,1
+pura1253-1-2-1,,pura1253-1,2,oɡe,oɡe,[],,['chan2019'],,False,False,,1
+pura1253-1-3-1,,pura1253-1,3,ɑɾuβɛ,ɑɾuβɛ,[],,['chan2019'],,False,False,,1
+pura1253-1-4-1,,pura1253-1,4,oɡeoɡe,oɡeoɡe,[],,['chan2019'],,False,False,,1
+pura1253-1-5-1,,pura1253-1,5,neɸɑuɾɑⁱtɑ,neɸɑuɾɑⁱtɑ,[],,['chan2019'],,False,False,,1
+pura1253-1-6-1,,pura1253-1,6,'neβoɾɑⁱdɑ ɑⁱdɑβoʔonɑdɑ,'neβoɾɑⁱdɑ ɑⁱdɑβoʔonɑdɑ,[],,['chan2019'],,False,False,,1
+pura1253-1-7-1,,pura1253-1,7,'neβoɾɑⁱdɑ ɑⁱdɑβoʔoɡe,'neβoɾɑⁱdɑ ɑⁱdɑβoʔoɡe,[],,['chan2019'],,False,False,,1
+pura1253-1-8-1,,pura1253-1,8,'neβoɾɑⁱdɑ ɑⁱdɑβoɑɾuweⁱ,'neβoɾɑⁱdɑ ɑⁱdɑβoɑɾuweⁱ,[],,['chan2019'],,False,False,,1
+pura1253-1-9-1,,pura1253-1,9,'neβoɾɑⁱdɑ ɑⁱdɑβoʔɡoɡeoɡe,'neβoɾɑⁱdɑ ɑⁱdɑβoʔɡoɡeoɡe,[],,['chan2019'],,False,False,,1
+pura1253-1-10-1,,pura1253-1,10,neβoɾu,neβoɾu,[],,['chan2019'],,False,False,,1

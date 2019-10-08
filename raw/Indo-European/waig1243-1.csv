@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-waig1243-1-1-1,,waig1243-1,1,ew,ew,[],,[],,False,False,ew,1
-waig1243-1-2-1,,waig1243-1,2,dʏ,dʏ,[],,[],,False,False,dü,1
-waig1243-1-3-1,,waig1243-1,3,trɛ,trɛ,[],,[],,False,False,tre,1
-waig1243-1-4-1,,waig1243-1,4,t͡ʃataː,t͡ʃataː,[],,[],,False,False,čatā,1
-waig1243-1-5-1,,waig1243-1,5,pont͡ʃ,pont͡ʃ,[],,[],,False,False,ponč,1
-waig1243-1-6-1,,waig1243-1,6,ʂu,ʂu,[],,[],,False,False,ṣ̌u,1
-waig1243-1-7-1,,waig1243-1,7,sot,sot,[],,[],,False,False,sot,1
-waig1243-1-8-1,,waig1243-1,8,oʂʈ,oʂʈ,[],,[],,False,False,oṣṭ,1
-waig1243-1-9-1,,waig1243-1,9,nu,nu,[],,[],,False,False,nu,1
-waig1243-1-10-1,,waig1243-1,10,doʃ,doʃ,[],,[],,False,False,doš,1
-waig1243-1-11-1,,waig1243-1,11,jaːʃ,jaːʃ,[],,[],,False,False,yāš,1
-waig1243-1-12-1,,waig1243-1,12,baːʃ,baːʃ,[],,[],,False,False,bāš,1
-waig1243-1-13-1,,waig1243-1,13,trõʃ,trõʃ,[],,[],,False,False,trõš,1
-waig1243-1-14-1,,waig1243-1,14,t͡ʃadis,t͡ʃadis,[],,[],,False,False,čadis,1
-waig1243-1-15-1,,waig1243-1,15,pat͡ʃiʃ,pat͡ʃiʃ,[],,[],,False,False,pačiš,1
-waig1243-1-16-1,,waig1243-1,16,ʂẽʃ,ʂẽʃ,[],,[],,False,False,ṣẽš,1
-waig1243-1-17-1,,waig1243-1,17,sataːʃ,sataːʃ,[],,[],,False,False,satāš,1
-waig1243-1-18-1,,waig1243-1,18,ʂʈaʃ,ʂʈaʃ,[],,[],,False,False,ṣṭaš,1
-waig1243-1-19-1,,waig1243-1,19,ẽʃi,ẽʃi,[],,[],,False,False,ẽši,1
-waig1243-1-20-1,,waig1243-1,20,wiʃi,wiʃi,[],,[],,False,False,wiši,1
-waig1243-1-21-1,,waig1243-1,21,wiše ew,wiše ew,[],,[],,False,False,,1
-waig1243-1-22-1,,waig1243-1,22,wiše dü,wiše dü,[],,[],,False,False,,1
-waig1243-1-23-1,,waig1243-1,23,wiše tre,wiše tre,[],,[],,False,False,,1
-waig1243-1-24-1,,waig1243-1,24,wiše čatā,wiše čatā,[],,[],,False,False,,1
-waig1243-1-25-1,,waig1243-1,25,wiše ponč,wiše ponč,[],,[],,False,False,,1
-waig1243-1-26-1,,waig1243-1,26,wiše ṣ̌u,wiše ṣ̌u,[],,[],,False,False,,1
-waig1243-1-27-1,,waig1243-1,27,wiše sot,wiše sot,[],,[],,False,False,,1
-waig1243-1-28-1,,waig1243-1,28,wiše oṣṭ,wiše oṣṭ,[],,[],,False,False,,1
-waig1243-1-29-1,,waig1243-1,29,wiše nu,wiše nu,[],,[],,False,False,,1
-waig1243-1-30-1,,waig1243-1,30,wiše doš,wiše doš,[],(20 + 10),[],,False,False,,1
-waig1243-1-40-1,,waig1243-1,40,dü-wiši,dü-wiši,[],( 2 x 20 ),[],,False,False,,1
-waig1243-1-50-1,,waig1243-1,50,dü-wiše-doši,dü-wiše-doši,[],[(2 x 20 ) + 10 ],[],,False,False,,1
-waig1243-1-60-1,,waig1243-1,60,tre-wiši,tre-wiši,[],( 3 x 20),[],,False,False,,1
-waig1243-1-70-1,,waig1243-1,70,tre-wiše-doši,tre-wiše-doši,[],[(3 x 20) + 10 ],[],,False,False,,1
-waig1243-1-80-1,,waig1243-1,80,čatā-wiši,čatā-wiši,[],( 4 x 20),[],,False,False,,1
-waig1243-1-90-1,,waig1243-1,90,čatā-wiše-doši,čatā-wiše-doši,[],[(4 x 20) + 10 ],[],,False,False,,1
-waig1243-1-100-1,,waig1243-1,100,ponč-wiši,ponč-wiši,[],( 5 x 20 ),[],,False,False,,1
-waig1243-1-200-1,,waig1243-1,200,doš-wiši,doš-wiši,[],( 10 x 20 ),[],,False,False,,1
-waig1243-1-400-1,,waig1243-1,400,wiši-wiši,wiši-wiši,[],( 20 x 20 ),[],,False,False,,1
-waig1243-1-1000-1,,waig1243-1,1000,azaːr,azaːr,[],,[],,False,False,azār,1
+waig1243-1-1-1,,waig1243-1,1,ew,ew,[],,['chan2019'],,False,False,ew,1
+waig1243-1-2-1,,waig1243-1,2,dʏ,dʏ,[],,['chan2019'],,False,False,dü,1
+waig1243-1-3-1,,waig1243-1,3,trɛ,trɛ,[],,['chan2019'],,False,False,tre,1
+waig1243-1-4-1,,waig1243-1,4,t͡ʃataː,t͡ʃataː,[],,['chan2019'],,False,False,čatā,1
+waig1243-1-5-1,,waig1243-1,5,pont͡ʃ,pont͡ʃ,[],,['chan2019'],,False,False,ponč,1
+waig1243-1-6-1,,waig1243-1,6,ʂu,ʂu,[],,['chan2019'],,False,False,ṣ̌u,1
+waig1243-1-7-1,,waig1243-1,7,sot,sot,[],,['chan2019'],,False,False,sot,1
+waig1243-1-8-1,,waig1243-1,8,oʂʈ,oʂʈ,[],,['chan2019'],,False,False,oṣṭ,1
+waig1243-1-9-1,,waig1243-1,9,nu,nu,[],,['chan2019'],,False,False,nu,1
+waig1243-1-10-1,,waig1243-1,10,doʃ,doʃ,[],,['chan2019'],,False,False,doš,1
+waig1243-1-11-1,,waig1243-1,11,jaːʃ,jaːʃ,[],,['chan2019'],,False,False,yāš,1
+waig1243-1-12-1,,waig1243-1,12,baːʃ,baːʃ,[],,['chan2019'],,False,False,bāš,1
+waig1243-1-13-1,,waig1243-1,13,trõʃ,trõʃ,[],,['chan2019'],,False,False,trõš,1
+waig1243-1-14-1,,waig1243-1,14,t͡ʃadis,t͡ʃadis,[],,['chan2019'],,False,False,čadis,1
+waig1243-1-15-1,,waig1243-1,15,pat͡ʃiʃ,pat͡ʃiʃ,[],,['chan2019'],,False,False,pačiš,1
+waig1243-1-16-1,,waig1243-1,16,ʂẽʃ,ʂẽʃ,[],,['chan2019'],,False,False,ṣẽš,1
+waig1243-1-17-1,,waig1243-1,17,sataːʃ,sataːʃ,[],,['chan2019'],,False,False,satāš,1
+waig1243-1-18-1,,waig1243-1,18,ʂʈaʃ,ʂʈaʃ,[],,['chan2019'],,False,False,ṣṭaš,1
+waig1243-1-19-1,,waig1243-1,19,ẽʃi,ẽʃi,[],,['chan2019'],,False,False,ẽši,1
+waig1243-1-20-1,,waig1243-1,20,wiʃi,wiʃi,[],,['chan2019'],,False,False,wiši,1
+waig1243-1-21-1,,waig1243-1,21,wiše ew,wiše ew,[],,['chan2019'],,False,False,,1
+waig1243-1-22-1,,waig1243-1,22,wiše dü,wiše dü,[],,['chan2019'],,False,False,,1
+waig1243-1-23-1,,waig1243-1,23,wiše tre,wiše tre,[],,['chan2019'],,False,False,,1
+waig1243-1-24-1,,waig1243-1,24,wiše čatā,wiše čatā,[],,['chan2019'],,False,False,,1
+waig1243-1-25-1,,waig1243-1,25,wiše ponč,wiše ponč,[],,['chan2019'],,False,False,,1
+waig1243-1-26-1,,waig1243-1,26,wiše ṣ̌u,wiše ṣ̌u,[],,['chan2019'],,False,False,,1
+waig1243-1-27-1,,waig1243-1,27,wiše sot,wiše sot,[],,['chan2019'],,False,False,,1
+waig1243-1-28-1,,waig1243-1,28,wiše oṣṭ,wiše oṣṭ,[],,['chan2019'],,False,False,,1
+waig1243-1-29-1,,waig1243-1,29,wiše nu,wiše nu,[],,['chan2019'],,False,False,,1
+waig1243-1-30-1,,waig1243-1,30,wiše doš,wiše doš,[],(20 + 10),['chan2019'],,False,False,,1
+waig1243-1-40-1,,waig1243-1,40,dü-wiši,dü-wiši,[],( 2 x 20 ),['chan2019'],,False,False,,1
+waig1243-1-50-1,,waig1243-1,50,dü-wiše-doši,dü-wiše-doši,[],[(2 x 20 ) + 10 ],['chan2019'],,False,False,,1
+waig1243-1-60-1,,waig1243-1,60,tre-wiši,tre-wiši,[],( 3 x 20),['chan2019'],,False,False,,1
+waig1243-1-70-1,,waig1243-1,70,tre-wiše-doši,tre-wiše-doši,[],[(3 x 20) + 10 ],['chan2019'],,False,False,,1
+waig1243-1-80-1,,waig1243-1,80,čatā-wiši,čatā-wiši,[],( 4 x 20),['chan2019'],,False,False,,1
+waig1243-1-90-1,,waig1243-1,90,čatā-wiše-doši,čatā-wiše-doši,[],[(4 x 20) + 10 ],['chan2019'],,False,False,,1
+waig1243-1-100-1,,waig1243-1,100,ponč-wiši,ponč-wiši,[],( 5 x 20 ),['chan2019'],,False,False,,1
+waig1243-1-200-1,,waig1243-1,200,doš-wiši,doš-wiši,[],( 10 x 20 ),['chan2019'],,False,False,,1
+waig1243-1-400-1,,waig1243-1,400,wiši-wiši,wiši-wiši,[],( 20 x 20 ),['chan2019'],,False,False,,1
+waig1243-1-1000-1,,waig1243-1,1000,azaːr,azaːr,[],,['chan2019'],,False,False,azār,1

@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-oroo1241-1-1-1,,oroo1241-1,1,ki,ki,[],,[],,False,False,,1
-oroo1241-1-2-1,,oroo1241-1,2,íbà,íbà,[],,[],,False,False,,1
-oroo1241-1-3-1,,oroo1241-1,3,íté,íté,[],,[],,False,False,,1
-oroo1241-1-4-1,,oroo1241-1,4,ínîaŋ,ínîaŋ,[],,[],,False,False,,1
-oroo1241-1-5-1,,oroo1241-1,5,ítiŋ,ítiŋ,[],,[],,False,False,,1
-oroo1241-1-6-1,,oroo1241-1,6,itiŋoŋki,itiŋoŋki,[],( 5+ 1 ),[],,False,False,,1
-oroo1241-1-7-1,,oroo1241-1,7,itiŋaba,itiŋaba,[],( 5+ 2 ),[],,False,False,,1
-oroo1241-1-8-1,,oroo1241-1,8,itiŋate,itiŋate,[],( 5+ 3 ),[],,False,False,,1
-oroo1241-1-9-1,,oroo1241-1,9,itiŋaniaŋ,itiŋaniaŋ,[],( 5+ 4 ),[],,False,False,,1
-oroo1241-1-10-1,,oroo1241-1,10,luɡhu or luhu,luɡhu or luhu,[],,[],,False,True,,1
-oroo1241-1-11-1,,oroo1241-1,11,luɡhu-oŋki,luɡhu-oŋki,[],,[],,False,False,,1
-oroo1241-1-12-1,,oroo1241-1,12,luɡhu-iba,luɡhu-iba,[],,[],,False,False,,1
-oroo1241-1-13-1,,oroo1241-1,13,luɡhu-ita,luɡhu-ita,[],,[],,False,False,,1
-oroo1241-1-14-1,,oroo1241-1,14,luɡhu-iniaŋ,luɡhu-iniaŋ,[],,[],,False,False,,1
-oroo1241-1-15-1,,oroo1241-1,15,efu,efu,[],,[],,False,False,,1
-oroo1241-1-16-1,,oroo1241-1,16,efu-maki,efu-maki,[],,[],,False,False,,1
-oroo1241-1-17-1,,oroo1241-1,17,efu-miba,efu-miba,[],,[],,False,False,,1
-oroo1241-1-18-1,,oroo1241-1,18,efu-mite,efu-mite,[],,[],,False,False,,1
-oroo1241-1-19-1,,oroo1241-1,19,efu-miniaŋ,efu-miniaŋ,[],,[],,False,False,,1
-oroo1241-1-20-1,,oroo1241-1,20,edip,edip,[],,[],,False,False,,1
-oroo1241-1-21-1,,oroo1241-1,21,edip-maki,edip-maki,[],,[],,False,False,,1
-oroo1241-1-22-1,,oroo1241-1,22,edip-miba,edip-miba,[],,[],,False,False,,1
-oroo1241-1-23-1,,oroo1241-1,23,edip-mite,edip-mite,[],,[],,False,False,,1
-oroo1241-1-24-1,,oroo1241-1,24,edip-miniaŋ,edip-miniaŋ,[],,[],,False,False,,1
-oroo1241-1-25-1,,oroo1241-1,25,edip-mitiŋ,edip-mitiŋ,[],,[],,False,False,,1
-oroo1241-1-26-1,,oroo1241-1,26,edip-mitoŋoki,edip-mitoŋoki,[],,[],,False,False,,1
-oroo1241-1-27-1,,oroo1241-1,27,edip-mitaŋaba,edip-mitaŋaba,[],,[],,False,False,,1
-oroo1241-1-28-1,,oroo1241-1,28,edip-mitaŋate,edip-mitaŋate,[],,[],,False,False,,1
-oroo1241-1-29-1,,oroo1241-1,29,edip-mitaŋaniaŋ,edip-mitaŋaniaŋ,[],,[],,False,False,,1
-oroo1241-1-30-1,,oroo1241-1,30,edip-maluɡhu,edip-maluɡhu,[],,[],,False,False,,1
-oroo1241-1-40-1,,oroo1241-1,40,aba,aba,[],,[],,False,False,,1
-oroo1241-1-50-1,,oroo1241-1,50,aba--maluɡhu,aba--maluɡhu,[],,[],,False,False,,1
-oroo1241-1-60-1,,oroo1241-1,60,ete,ete,[],,[],,False,False,,1
-oroo1241-1-70-1,,oroo1241-1,70,ete--maluɡhu,ete--maluɡhu,[],,[],,False,False,,1
-oroo1241-1-80-1,,oroo1241-1,80,aniaŋ,aniaŋ,[],,[],,False,False,,1
-oroo1241-1-90-1,,oroo1241-1,90,aniaŋ-maluɡhu,aniaŋ-maluɡhu,[],,[],,False,False,,1
-oroo1241-1-100-1,,oroo1241-1,100,ikie,ikie,[],,[],,False,False,,1
-oroo1241-1-200-1,,oroo1241-1,200,ikie-miba,ikie-miba,[],,[],,False,False,,1
-oroo1241-1-200-2,,oroo1241-1,200,400.ikie ínîaŋ,400.ikie ínîaŋ,[],,[],,False,True,,1
-oroo1241-1-1000-1,,oroo1241-1,1000,tasin iki 'tasin' from English 'thousand',tasin iki 'tasin' from English 'thousand',[],,[],,False,True,,1
-oroo1241-1-2000-1,,oroo1241-1,2000,tasin iba,tasin iba,[],,[],,False,False,,1
+oroo1241-1-1-1,,oroo1241-1,1,ki,ki,[],,['chan2019'],,False,False,,1
+oroo1241-1-2-1,,oroo1241-1,2,íbà,íbà,[],,['chan2019'],,False,False,,1
+oroo1241-1-3-1,,oroo1241-1,3,íté,íté,[],,['chan2019'],,False,False,,1
+oroo1241-1-4-1,,oroo1241-1,4,ínîaŋ,ínîaŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-5-1,,oroo1241-1,5,ítiŋ,ítiŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-6-1,,oroo1241-1,6,itiŋoŋki,itiŋoŋki,[],( 5+ 1 ),['chan2019'],,False,False,,1
+oroo1241-1-7-1,,oroo1241-1,7,itiŋaba,itiŋaba,[],( 5+ 2 ),['chan2019'],,False,False,,1
+oroo1241-1-8-1,,oroo1241-1,8,itiŋate,itiŋate,[],( 5+ 3 ),['chan2019'],,False,False,,1
+oroo1241-1-9-1,,oroo1241-1,9,itiŋaniaŋ,itiŋaniaŋ,[],( 5+ 4 ),['chan2019'],,False,False,,1
+oroo1241-1-10-1,,oroo1241-1,10,luɡhu or luhu,luɡhu or luhu,[],,['chan2019'],,False,True,,1
+oroo1241-1-11-1,,oroo1241-1,11,luɡhu-oŋki,luɡhu-oŋki,[],,['chan2019'],,False,False,,1
+oroo1241-1-12-1,,oroo1241-1,12,luɡhu-iba,luɡhu-iba,[],,['chan2019'],,False,False,,1
+oroo1241-1-13-1,,oroo1241-1,13,luɡhu-ita,luɡhu-ita,[],,['chan2019'],,False,False,,1
+oroo1241-1-14-1,,oroo1241-1,14,luɡhu-iniaŋ,luɡhu-iniaŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-15-1,,oroo1241-1,15,efu,efu,[],,['chan2019'],,False,False,,1
+oroo1241-1-16-1,,oroo1241-1,16,efu-maki,efu-maki,[],,['chan2019'],,False,False,,1
+oroo1241-1-17-1,,oroo1241-1,17,efu-miba,efu-miba,[],,['chan2019'],,False,False,,1
+oroo1241-1-18-1,,oroo1241-1,18,efu-mite,efu-mite,[],,['chan2019'],,False,False,,1
+oroo1241-1-19-1,,oroo1241-1,19,efu-miniaŋ,efu-miniaŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-20-1,,oroo1241-1,20,edip,edip,[],,['chan2019'],,False,False,,1
+oroo1241-1-21-1,,oroo1241-1,21,edip-maki,edip-maki,[],,['chan2019'],,False,False,,1
+oroo1241-1-22-1,,oroo1241-1,22,edip-miba,edip-miba,[],,['chan2019'],,False,False,,1
+oroo1241-1-23-1,,oroo1241-1,23,edip-mite,edip-mite,[],,['chan2019'],,False,False,,1
+oroo1241-1-24-1,,oroo1241-1,24,edip-miniaŋ,edip-miniaŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-25-1,,oroo1241-1,25,edip-mitiŋ,edip-mitiŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-26-1,,oroo1241-1,26,edip-mitoŋoki,edip-mitoŋoki,[],,['chan2019'],,False,False,,1
+oroo1241-1-27-1,,oroo1241-1,27,edip-mitaŋaba,edip-mitaŋaba,[],,['chan2019'],,False,False,,1
+oroo1241-1-28-1,,oroo1241-1,28,edip-mitaŋate,edip-mitaŋate,[],,['chan2019'],,False,False,,1
+oroo1241-1-29-1,,oroo1241-1,29,edip-mitaŋaniaŋ,edip-mitaŋaniaŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-30-1,,oroo1241-1,30,edip-maluɡhu,edip-maluɡhu,[],,['chan2019'],,False,False,,1
+oroo1241-1-40-1,,oroo1241-1,40,aba,aba,[],,['chan2019'],,False,False,,1
+oroo1241-1-50-1,,oroo1241-1,50,aba--maluɡhu,aba--maluɡhu,[],,['chan2019'],,False,False,,1
+oroo1241-1-60-1,,oroo1241-1,60,ete,ete,[],,['chan2019'],,False,False,,1
+oroo1241-1-70-1,,oroo1241-1,70,ete--maluɡhu,ete--maluɡhu,[],,['chan2019'],,False,False,,1
+oroo1241-1-80-1,,oroo1241-1,80,aniaŋ,aniaŋ,[],,['chan2019'],,False,False,,1
+oroo1241-1-90-1,,oroo1241-1,90,aniaŋ-maluɡhu,aniaŋ-maluɡhu,[],,['chan2019'],,False,False,,1
+oroo1241-1-100-1,,oroo1241-1,100,ikie,ikie,[],,['chan2019'],,False,False,,1
+oroo1241-1-200-1,,oroo1241-1,200,ikie-miba,ikie-miba,[],,['chan2019'],,False,False,,1
+oroo1241-1-200-2,,oroo1241-1,200,400.ikie ínîaŋ,400.ikie ínîaŋ,[],,['chan2019'],,False,True,,1
+oroo1241-1-1000-1,,oroo1241-1,1000,tasin iki 'tasin' from English 'thousand',tasin iki 'tasin' from English 'thousand',[],,['chan2019'],,False,True,,1
+oroo1241-1-2000-1,,oroo1241-1,2000,tasin iba,tasin iba,[],,['chan2019'],,False,False,,1

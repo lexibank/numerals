@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-daka1243-1-1-1,,daka1243-1,1,swa,swa,[],,[],,False,False,,1
-daka1243-1-2-1,,daka1243-1,2,lo,lo,[],,[],,False,False,,1
-daka1243-1-3-1,,daka1243-1,3,siː,siː,[],,[],,False,False,,1
-daka1243-1-4-1,,daka1243-1,4,βjer,βjer,[],,[],,False,False,,1
-daka1243-1-5-1,,daka1243-1,5,lim,lim,[],,[],,False,False,,1
-daka1243-1-6-1,,daka1243-1,6,miliɸsjes,miliɸsjes,[],( 5 + 1 ),[],,False,False,,1
-daka1243-1-7-1,,daka1243-1,7,miliβjo,miliβjo,[],( 5 + 2 ),[],,False,False,,1
-daka1243-1-8-1,,daka1243-1,8,miliɸsiː,miliɸsiː,[],( 5 + 3 ),[],,False,False,,1
-daka1243-1-9-1,,daka1243-1,9,mɛpər,mɛpər,[],( 5 + 4 ),[],,False,False,,1
-daka1243-1-10-1,,daka1243-1,10,sʊŋaβi,sʊŋaβi,[],,[],,False,False,,1
-daka1243-1-11-1,,daka1243-1,11,sʊŋaβi a swa,sʊŋaβi a swa,[],,[],,False,False,,1
-daka1243-1-12-1,,daka1243-1,12,sʊŋaβi a lo,sʊŋaβi a lo,[],,[],,False,False,,1
-daka1243-1-13-1,,daka1243-1,13,sʊŋaβi a siː,sʊŋaβi a siː,[],,[],,False,False,,1
-daka1243-1-14-1,,daka1243-1,14,sʊŋaβia βjer,sʊŋaβia βjer,[],,[],,False,False,,1
-daka1243-1-15-1,,daka1243-1,15,sʊŋaβi a lim,sʊŋaβi a lim,[],,[],,False,False,,1
-daka1243-1-16-1,,daka1243-1,16,sʊŋaβi a miliɸsjes,sʊŋaβi a miliɸsjes,[],,[],,False,False,,1
-daka1243-1-17-1,,daka1243-1,17,sʊŋaβi a miliβjo,sʊŋaβi a miliβjo,[],,[],,False,False,,1
-daka1243-1-18-1,,daka1243-1,18,sʊŋaβi a miliɸsiː,sʊŋaβi a miliɸsiː,[],,[],,False,False,,1
-daka1243-1-19-1,,daka1243-1,19,sʊŋaβi a mɛpər,sʊŋaβi a mɛpər,[],,[],,False,False,,1
-daka1243-1-20-1,,daka1243-1,20,ʊŋ lo,ʊŋ lo,[],,[],,False,False,,1
-daka1243-1-21-1,,daka1243-1,21,ʊŋ lo a swa,ʊŋ lo a swa,[],,[],,False,False,,1
-daka1243-1-22-1,,daka1243-1,22,ʊŋ lo a lo,ʊŋ lo a lo,[],,[],,False,False,,1
-daka1243-1-23-1,,daka1243-1,23,ʊŋ lo a siː,ʊŋ lo a siː,[],,[],,False,False,,1
-daka1243-1-24-1,,daka1243-1,24,ʊŋ lo a βjer,ʊŋ lo a βjer,[],,[],,False,False,,1
-daka1243-1-25-1,,daka1243-1,25,ʊŋ lo a lim,ʊŋ lo a lim,[],,[],,False,False,,1
-daka1243-1-26-1,,daka1243-1,26,ʊŋ lo a miliɸsjes,ʊŋ lo a miliɸsjes,[],,[],,False,False,,1
-daka1243-1-27-1,,daka1243-1,27,ʊŋ lo a miliβjo,ʊŋ lo a miliβjo,[],,[],,False,False,,1
-daka1243-1-28-1,,daka1243-1,28,ʊŋ lo a miliɸsiː,ʊŋ lo a miliɸsiː,[],,[],,False,False,,1
-daka1243-1-29-1,,daka1243-1,29,ʊŋ lo a mɛpər,ʊŋ lo a mɛpər,[],,[],,False,False,,1
-daka1243-1-30-1,,daka1243-1,30,ʊŋ siː,ʊŋ siː,[],,[],,False,False,,1
-daka1243-1-40-1,,daka1243-1,40,ʊŋ βjer,ʊŋ βjer,[],,[],,False,False,,1
-daka1243-1-50-1,,daka1243-1,50,ʊŋ lim,ʊŋ lim,[],,[],,False,False,,1
-daka1243-1-60-1,,daka1243-1,60,ʊŋ miliɸsjes,ʊŋ miliɸsjes,[],,[],,False,False,,1
-daka1243-1-70-1,,daka1243-1,70,ʊŋ miliβjo,ʊŋ miliβjo,[],,[],,False,False,,1
-daka1243-1-80-1,,daka1243-1,80,ʊŋ miliɸsiː,ʊŋ miliɸsiː,[],,[],,False,False,,1
-daka1243-1-90-1,,daka1243-1,90,ʊŋ mɛpər,ʊŋ mɛpər,[],,[],,False,False,,1
-daka1243-1-100-1,,daka1243-1,100,ʊŋ sʊŋaβi,ʊŋ sʊŋaβi,[],,[],,False,False,,1
-daka1243-1-200-1,,daka1243-1,200,ʊŋ sʊŋaβi βja siː,ʊŋ sʊŋaβi βja siː,[],,[],,False,False,,1
+daka1243-1-1-1,,daka1243-1,1,swa,swa,[],,['chan2019'],,False,False,,1
+daka1243-1-2-1,,daka1243-1,2,lo,lo,[],,['chan2019'],,False,False,,1
+daka1243-1-3-1,,daka1243-1,3,siː,siː,[],,['chan2019'],,False,False,,1
+daka1243-1-4-1,,daka1243-1,4,βjer,βjer,[],,['chan2019'],,False,False,,1
+daka1243-1-5-1,,daka1243-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+daka1243-1-6-1,,daka1243-1,6,miliɸsjes,miliɸsjes,[],( 5 + 1 ),['chan2019'],,False,False,,1
+daka1243-1-7-1,,daka1243-1,7,miliβjo,miliβjo,[],( 5 + 2 ),['chan2019'],,False,False,,1
+daka1243-1-8-1,,daka1243-1,8,miliɸsiː,miliɸsiː,[],( 5 + 3 ),['chan2019'],,False,False,,1
+daka1243-1-9-1,,daka1243-1,9,mɛpər,mɛpər,[],( 5 + 4 ),['chan2019'],,False,False,,1
+daka1243-1-10-1,,daka1243-1,10,sʊŋaβi,sʊŋaβi,[],,['chan2019'],,False,False,,1
+daka1243-1-11-1,,daka1243-1,11,sʊŋaβi a swa,sʊŋaβi a swa,[],,['chan2019'],,False,False,,1
+daka1243-1-12-1,,daka1243-1,12,sʊŋaβi a lo,sʊŋaβi a lo,[],,['chan2019'],,False,False,,1
+daka1243-1-13-1,,daka1243-1,13,sʊŋaβi a siː,sʊŋaβi a siː,[],,['chan2019'],,False,False,,1
+daka1243-1-14-1,,daka1243-1,14,sʊŋaβia βjer,sʊŋaβia βjer,[],,['chan2019'],,False,False,,1
+daka1243-1-15-1,,daka1243-1,15,sʊŋaβi a lim,sʊŋaβi a lim,[],,['chan2019'],,False,False,,1
+daka1243-1-16-1,,daka1243-1,16,sʊŋaβi a miliɸsjes,sʊŋaβi a miliɸsjes,[],,['chan2019'],,False,False,,1
+daka1243-1-17-1,,daka1243-1,17,sʊŋaβi a miliβjo,sʊŋaβi a miliβjo,[],,['chan2019'],,False,False,,1
+daka1243-1-18-1,,daka1243-1,18,sʊŋaβi a miliɸsiː,sʊŋaβi a miliɸsiː,[],,['chan2019'],,False,False,,1
+daka1243-1-19-1,,daka1243-1,19,sʊŋaβi a mɛpər,sʊŋaβi a mɛpər,[],,['chan2019'],,False,False,,1
+daka1243-1-20-1,,daka1243-1,20,ʊŋ lo,ʊŋ lo,[],,['chan2019'],,False,False,,1
+daka1243-1-21-1,,daka1243-1,21,ʊŋ lo a swa,ʊŋ lo a swa,[],,['chan2019'],,False,False,,1
+daka1243-1-22-1,,daka1243-1,22,ʊŋ lo a lo,ʊŋ lo a lo,[],,['chan2019'],,False,False,,1
+daka1243-1-23-1,,daka1243-1,23,ʊŋ lo a siː,ʊŋ lo a siː,[],,['chan2019'],,False,False,,1
+daka1243-1-24-1,,daka1243-1,24,ʊŋ lo a βjer,ʊŋ lo a βjer,[],,['chan2019'],,False,False,,1
+daka1243-1-25-1,,daka1243-1,25,ʊŋ lo a lim,ʊŋ lo a lim,[],,['chan2019'],,False,False,,1
+daka1243-1-26-1,,daka1243-1,26,ʊŋ lo a miliɸsjes,ʊŋ lo a miliɸsjes,[],,['chan2019'],,False,False,,1
+daka1243-1-27-1,,daka1243-1,27,ʊŋ lo a miliβjo,ʊŋ lo a miliβjo,[],,['chan2019'],,False,False,,1
+daka1243-1-28-1,,daka1243-1,28,ʊŋ lo a miliɸsiː,ʊŋ lo a miliɸsiː,[],,['chan2019'],,False,False,,1
+daka1243-1-29-1,,daka1243-1,29,ʊŋ lo a mɛpər,ʊŋ lo a mɛpər,[],,['chan2019'],,False,False,,1
+daka1243-1-30-1,,daka1243-1,30,ʊŋ siː,ʊŋ siː,[],,['chan2019'],,False,False,,1
+daka1243-1-40-1,,daka1243-1,40,ʊŋ βjer,ʊŋ βjer,[],,['chan2019'],,False,False,,1
+daka1243-1-50-1,,daka1243-1,50,ʊŋ lim,ʊŋ lim,[],,['chan2019'],,False,False,,1
+daka1243-1-60-1,,daka1243-1,60,ʊŋ miliɸsjes,ʊŋ miliɸsjes,[],,['chan2019'],,False,False,,1
+daka1243-1-70-1,,daka1243-1,70,ʊŋ miliβjo,ʊŋ miliβjo,[],,['chan2019'],,False,False,,1
+daka1243-1-80-1,,daka1243-1,80,ʊŋ miliɸsiː,ʊŋ miliɸsiː,[],,['chan2019'],,False,False,,1
+daka1243-1-90-1,,daka1243-1,90,ʊŋ mɛpər,ʊŋ mɛpər,[],,['chan2019'],,False,False,,1
+daka1243-1-100-1,,daka1243-1,100,ʊŋ sʊŋaβi,ʊŋ sʊŋaβi,[],,['chan2019'],,False,False,,1
+daka1243-1-200-1,,daka1243-1,200,ʊŋ sʊŋaβi βja siː,ʊŋ sʊŋaβi βja siː,[],,['chan2019'],,False,False,,1

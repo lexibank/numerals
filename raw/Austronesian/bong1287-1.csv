@@ -1,25 +1,25 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bong1287-1-1-1,,bong1287-1,1,itkwase,itkwase,[],,[],,False,False,,1
-bong1287-1-1-2,,bong1287-1,1,tekuase,tekuase,[],,[],,False,False,,1
-bong1287-1-2-1,,bong1287-1,2,erkuat,erkuat,[],,[],,False,False,,1
-bong1287-1-2-2,,bong1287-1,2,arkwat,arkwat,[],,[],,False,False,,1
-bong1287-1-3-1,,bong1287-1,3,tor,tor,[],,[],,False,False,,1
-bong1287-1-4-1,,bong1287-1,4,fau,fau,[],,[],,False,False,,1
-bong1287-1-5-1,,bong1287-1,5,miekfirpose,miekfirpose,[],,[],,False,False,,1
-bong1287-1-5-2,,bong1287-1,5,rim,rim,[],,[],,False,False,,1
-bong1287-1-6-1,,bong1287-1,6,miekfari tekuase,miekfari tekuase,[],( 5+1 ),[],,False,False,,1
-bong1287-1-7-1,,bong1287-1,7,miekfari erkuat,miekfari erkuat,[],( 5+2 ),[],,False,False,,1
-bong1287-1-8-1,,bong1287-1,8,miekfari tor,miekfari tor,[],( 5+3 ),[],,False,False,,1
-bong1287-1-9-1,,bong1287-1,9,miekfari fau,miekfari fau,[],( 5+4 ),[],,False,False,,1
-bong1287-1-10-1,,bong1287-1,10,miekfari foroma,miekfari foroma,[],,[],,False,False,,1
-bong1287-1-11-1,,bong1287-1,11,miekfari foroma-dakfarui tekuase,miekfari foroma-dakfarui tekuase,[],,[],,False,False,,1
-bong1287-1-12-1,,bong1287-1,12,miekfari foroma-dakfarui erkuat,miekfari foroma-dakfarui erkuat,[],,[],,False,False,,1
-bong1287-1-13-1,,bong1287-1,13,miekfari foroma-dakfarui tor,miekfari foroma-dakfarui tor,[],,[],,False,False,,1
-bong1287-1-14-1,,bong1287-1,14,miekfari foroma-dakfarui fau,miekfari foroma-dakfarui fau,[],,[],,False,False,,1
-bong1287-1-15-1,,bong1287-1,15,miekfari foroma-dakfarui rim,miekfari foroma-dakfarui rim,[],,[],,False,False,,1
-bong1287-1-16-1,,bong1287-1,16,miekfari foroma-dakfarui miekfari tekuase,miekfari foroma-dakfarui miekfari tekuase,[],,[],,False,False,,1
-bong1287-1-17-1,,bong1287-1,17,miekfari foroma-dakfarui miekfari erkuat,miekfari foroma-dakfarui miekfari erkuat,[],,[],,False,False,,1
-bong1287-1-18-1,,bong1287-1,18,miekfari foroma-dakfarui miekfari tor,miekfari foroma-dakfarui miekfari tor,[],,[],,False,False,,1
-bong1287-1-19-1,,bong1287-1,19,miekfari foroma-dakfarui miekfari fau,miekfari foroma-dakfarui miekfari fau,[],,[],,False,False,,1
-bong1287-1-20-1,,bong1287-1,20,temot tekuase,temot tekuase,[],( lit: 'one person'),[],,False,False,,1
-bong1287-1-40-1,,bong1287-1,40,temot erkuart,temot erkuart,[],( lit: 'two persons'),[],,False,False,,1
+bong1287-1-1-1,,bong1287-1,1,itkwase,itkwase,[],,['chan2019'],,False,False,,1
+bong1287-1-1-2,,bong1287-1,1,tekuase,tekuase,[],,['chan2019'],,False,False,,1
+bong1287-1-2-1,,bong1287-1,2,erkuat,erkuat,[],,['chan2019'],,False,False,,1
+bong1287-1-2-2,,bong1287-1,2,arkwat,arkwat,[],,['chan2019'],,False,False,,1
+bong1287-1-3-1,,bong1287-1,3,tor,tor,[],,['chan2019'],,False,False,,1
+bong1287-1-4-1,,bong1287-1,4,fau,fau,[],,['chan2019'],,False,False,,1
+bong1287-1-5-1,,bong1287-1,5,miekfirpose,miekfirpose,[],,['chan2019'],,False,False,,1
+bong1287-1-5-2,,bong1287-1,5,rim,rim,[],,['chan2019'],,False,False,,1
+bong1287-1-6-1,,bong1287-1,6,miekfari tekuase,miekfari tekuase,[],( 5+1 ),['chan2019'],,False,False,,1
+bong1287-1-7-1,,bong1287-1,7,miekfari erkuat,miekfari erkuat,[],( 5+2 ),['chan2019'],,False,False,,1
+bong1287-1-8-1,,bong1287-1,8,miekfari tor,miekfari tor,[],( 5+3 ),['chan2019'],,False,False,,1
+bong1287-1-9-1,,bong1287-1,9,miekfari fau,miekfari fau,[],( 5+4 ),['chan2019'],,False,False,,1
+bong1287-1-10-1,,bong1287-1,10,miekfari foroma,miekfari foroma,[],,['chan2019'],,False,False,,1
+bong1287-1-11-1,,bong1287-1,11,miekfari foroma-dakfarui tekuase,miekfari foroma-dakfarui tekuase,[],,['chan2019'],,False,False,,1
+bong1287-1-12-1,,bong1287-1,12,miekfari foroma-dakfarui erkuat,miekfari foroma-dakfarui erkuat,[],,['chan2019'],,False,False,,1
+bong1287-1-13-1,,bong1287-1,13,miekfari foroma-dakfarui tor,miekfari foroma-dakfarui tor,[],,['chan2019'],,False,False,,1
+bong1287-1-14-1,,bong1287-1,14,miekfari foroma-dakfarui fau,miekfari foroma-dakfarui fau,[],,['chan2019'],,False,False,,1
+bong1287-1-15-1,,bong1287-1,15,miekfari foroma-dakfarui rim,miekfari foroma-dakfarui rim,[],,['chan2019'],,False,False,,1
+bong1287-1-16-1,,bong1287-1,16,miekfari foroma-dakfarui miekfari tekuase,miekfari foroma-dakfarui miekfari tekuase,[],,['chan2019'],,False,False,,1
+bong1287-1-17-1,,bong1287-1,17,miekfari foroma-dakfarui miekfari erkuat,miekfari foroma-dakfarui miekfari erkuat,[],,['chan2019'],,False,False,,1
+bong1287-1-18-1,,bong1287-1,18,miekfari foroma-dakfarui miekfari tor,miekfari foroma-dakfarui miekfari tor,[],,['chan2019'],,False,False,,1
+bong1287-1-19-1,,bong1287-1,19,miekfari foroma-dakfarui miekfari fau,miekfari foroma-dakfarui miekfari fau,[],,['chan2019'],,False,False,,1
+bong1287-1-20-1,,bong1287-1,20,temot tekuase,temot tekuase,[],( lit: 'one person'),['chan2019'],,False,False,,1
+bong1287-1-40-1,,bong1287-1,40,temot erkuart,temot erkuart,[],( lit: 'two persons'),['chan2019'],,False,False,,1

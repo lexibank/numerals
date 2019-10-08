@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maor1244-1-1-1,,maor1244-1,1,moʒa,moʒa,[],,[],,False,False,,1
-maor1244-1-2-1,,maor1244-1,2,mbili,mbili,[],,[],,False,False,,1
-maor1244-1-3-1,,maor1244-1,3,ʈatu,ʈatu,[],,[],,False,False,,1
-maor1244-1-4-1,,maor1244-1,4,n̩ne,n̩ne,[],,[],,False,False,,1
-maor1244-1-5-1,,maor1244-1,5,tsanu,tsanu,[],,[],,False,False,,1
-maor1244-1-6-1,,maor1244-1,6,sita,sita,[],( < Arabic ),[],,True,False,,1
-maor1244-1-7-1,,maor1244-1,7,saba,saba,[],( < Arabic ),[],,True,False,,1
-maor1244-1-8-1,,maor1244-1,8,nane,nane,[],,[],,False,False,,1
-maor1244-1-9-1,,maor1244-1,9,ʃenɗa,ʃenɗa,[],,[],,False,False,,1
-maor1244-1-10-1,,maor1244-1,10,kumi,kumi,[],,[],,False,False,,1
-maor1244-1-11-1,,maor1244-1,11,kumi na moʒa,kumi na moʒa,[],,[],,False,False,,1
-maor1244-1-12-1,,maor1244-1,12,kumi na mbili,kumi na mbili,[],,[],,False,False,,1
-maor1244-1-13-1,,maor1244-1,13,kumi na ʈatu,kumi na ʈatu,[],,[],,False,False,,1
-maor1244-1-14-1,,maor1244-1,14,kumi na n̩ne,kumi na n̩ne,[],,[],,False,False,,1
-maor1244-1-15-1,,maor1244-1,15,kumi na tsanu,kumi na tsanu,[],,[],,False,False,,1
-maor1244-1-16-1,,maor1244-1,16,kumi na sita,kumi na sita,[],,[],,False,False,,1
-maor1244-1-17-1,,maor1244-1,17,kumi na saba,kumi na saba,[],,[],,False,False,,1
-maor1244-1-18-1,,maor1244-1,18,kumi na nane,kumi na nane,[],,[],,False,False,,1
-maor1244-1-19-1,,maor1244-1,19,kumi na ʃenɗa,kumi na ʃenɗa,[],,[],,False,False,,1
-maor1244-1-20-1,,maor1244-1,20,ʃirini,ʃirini,[],,[],,False,False,,1
-maor1244-1-21-1,,maor1244-1,21,ʃirini na moʒa,ʃirini na moʒa,[],( Arabic + Bantu),[],,False,False,,1
-maor1244-1-22-1,,maor1244-1,22,ʃirini na mbili,ʃirini na mbili,[],,[],,False,False,,1
-maor1244-1-23-1,,maor1244-1,23,ʃirini na ʈatu,ʃirini na ʈatu,[],,[],,False,False,,1
-maor1244-1-24-1,,maor1244-1,24,ʃirini na n̩ne,ʃirini na n̩ne,[],,[],,False,False,,1
-maor1244-1-25-1,,maor1244-1,25,ʃirini na tsanu,ʃirini na tsanu,[],,[],,False,False,,1
-maor1244-1-26-1,,maor1244-1,26,ʃirini na sita,ʃirini na sita,[],,[],,False,False,,1
-maor1244-1-27-1,,maor1244-1,27,ʃirini na saba,ʃirini na saba,[],,[],,False,False,,1
-maor1244-1-28-1,,maor1244-1,28,ʃirini na nane,ʃirini na nane,[],,[],,False,False,,1
-maor1244-1-29-1,,maor1244-1,29,ʃirini na ʃenɗa,ʃirini na ʃenɗa,[],,[],,False,False,,1
-maor1244-1-30-1,,maor1244-1,30,θalaθini,θalaθini,[],( < Arabic ),[],,True,False,,1
-maor1244-1-40-1,,maor1244-1,40,arubaini,arubaini,[],( < Arabic ),[],,True,False,,1
-maor1244-1-50-1,,maor1244-1,50,hamusini,hamusini,[],( < Arabic ),[],,True,False,,1
-maor1244-1-60-1,,maor1244-1,60,sitini,sitini,[],( < Arabic ),[],,True,False,,1
-maor1244-1-70-1,,maor1244-1,70,sabwini,sabwini,[],( < Arabic ),[],,True,False,,1
-maor1244-1-80-1,,maor1244-1,80,θamanini,θamanini,[],( < Arabic ),[],,True,False,,1
-maor1244-1-90-1,,maor1244-1,90,tuswini,tuswini,[],( < Arabic ),[],,True,False,,1
-maor1244-1-100-1,,maor1244-1,100,mia,mia,[],( 'mia' from Arabic ),[],,False,False,,1
-maor1244-1-200-1,,maor1244-1,200,miateni,miateni,[],,[],,False,False,,1
-maor1244-1-1000-1,,maor1244-1,1000,alifu,alifu,[],( ' alifu ' from Arabic ),[],,False,False,,1
-maor1244-1-2000-1,,maor1244-1,2000,alifu mbili,alifu mbili,[],,[],,False,False,,1
+maor1244-1-1-1,,maor1244-1,1,moʒa,moʒa,[],,['chan2019'],,False,False,,1
+maor1244-1-2-1,,maor1244-1,2,mbili,mbili,[],,['chan2019'],,False,False,,1
+maor1244-1-3-1,,maor1244-1,3,ʈatu,ʈatu,[],,['chan2019'],,False,False,,1
+maor1244-1-4-1,,maor1244-1,4,n̩ne,n̩ne,[],,['chan2019'],,False,False,,1
+maor1244-1-5-1,,maor1244-1,5,tsanu,tsanu,[],,['chan2019'],,False,False,,1
+maor1244-1-6-1,,maor1244-1,6,sita,sita,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-7-1,,maor1244-1,7,saba,saba,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-8-1,,maor1244-1,8,nane,nane,[],,['chan2019'],,False,False,,1
+maor1244-1-9-1,,maor1244-1,9,ʃenɗa,ʃenɗa,[],,['chan2019'],,False,False,,1
+maor1244-1-10-1,,maor1244-1,10,kumi,kumi,[],,['chan2019'],,False,False,,1
+maor1244-1-11-1,,maor1244-1,11,kumi na moʒa,kumi na moʒa,[],,['chan2019'],,False,False,,1
+maor1244-1-12-1,,maor1244-1,12,kumi na mbili,kumi na mbili,[],,['chan2019'],,False,False,,1
+maor1244-1-13-1,,maor1244-1,13,kumi na ʈatu,kumi na ʈatu,[],,['chan2019'],,False,False,,1
+maor1244-1-14-1,,maor1244-1,14,kumi na n̩ne,kumi na n̩ne,[],,['chan2019'],,False,False,,1
+maor1244-1-15-1,,maor1244-1,15,kumi na tsanu,kumi na tsanu,[],,['chan2019'],,False,False,,1
+maor1244-1-16-1,,maor1244-1,16,kumi na sita,kumi na sita,[],,['chan2019'],,False,False,,1
+maor1244-1-17-1,,maor1244-1,17,kumi na saba,kumi na saba,[],,['chan2019'],,False,False,,1
+maor1244-1-18-1,,maor1244-1,18,kumi na nane,kumi na nane,[],,['chan2019'],,False,False,,1
+maor1244-1-19-1,,maor1244-1,19,kumi na ʃenɗa,kumi na ʃenɗa,[],,['chan2019'],,False,False,,1
+maor1244-1-20-1,,maor1244-1,20,ʃirini,ʃirini,[],,['chan2019'],,False,False,,1
+maor1244-1-21-1,,maor1244-1,21,ʃirini na moʒa,ʃirini na moʒa,[],( Arabic + Bantu),['chan2019'],,False,False,,1
+maor1244-1-22-1,,maor1244-1,22,ʃirini na mbili,ʃirini na mbili,[],,['chan2019'],,False,False,,1
+maor1244-1-23-1,,maor1244-1,23,ʃirini na ʈatu,ʃirini na ʈatu,[],,['chan2019'],,False,False,,1
+maor1244-1-24-1,,maor1244-1,24,ʃirini na n̩ne,ʃirini na n̩ne,[],,['chan2019'],,False,False,,1
+maor1244-1-25-1,,maor1244-1,25,ʃirini na tsanu,ʃirini na tsanu,[],,['chan2019'],,False,False,,1
+maor1244-1-26-1,,maor1244-1,26,ʃirini na sita,ʃirini na sita,[],,['chan2019'],,False,False,,1
+maor1244-1-27-1,,maor1244-1,27,ʃirini na saba,ʃirini na saba,[],,['chan2019'],,False,False,,1
+maor1244-1-28-1,,maor1244-1,28,ʃirini na nane,ʃirini na nane,[],,['chan2019'],,False,False,,1
+maor1244-1-29-1,,maor1244-1,29,ʃirini na ʃenɗa,ʃirini na ʃenɗa,[],,['chan2019'],,False,False,,1
+maor1244-1-30-1,,maor1244-1,30,θalaθini,θalaθini,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-40-1,,maor1244-1,40,arubaini,arubaini,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-50-1,,maor1244-1,50,hamusini,hamusini,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-60-1,,maor1244-1,60,sitini,sitini,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-70-1,,maor1244-1,70,sabwini,sabwini,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-80-1,,maor1244-1,80,θamanini,θamanini,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-90-1,,maor1244-1,90,tuswini,tuswini,[],( < Arabic ),['chan2019'],,True,False,,1
+maor1244-1-100-1,,maor1244-1,100,mia,mia,[],( 'mia' from Arabic ),['chan2019'],,False,False,,1
+maor1244-1-200-1,,maor1244-1,200,miateni,miateni,[],,['chan2019'],,False,False,,1
+maor1244-1-1000-1,,maor1244-1,1000,alifu,alifu,[],( ' alifu ' from Arabic ),['chan2019'],,False,False,,1
+maor1244-1-2000-1,,maor1244-1,2000,alifu mbili,alifu mbili,[],,['chan2019'],,False,False,,1

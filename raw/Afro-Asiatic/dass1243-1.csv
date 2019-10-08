@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dass1243-1-1-1,,dass1243-1,1,nə̀m,nə̀m,[],,[],,False,False,,1
-dass1243-1-2-1,,dass1243-1,2,rwáp,rwáp,[],,[],,False,False,,1
-dass1243-1-3-1,,dass1243-1,3,mààɣí,mààɣí,[],,[],,False,False,,1
-dass1243-1-4-1,,dass1243-1,4,wùupsí,wùupsí,[],,[],,False,False,,1
-dass1243-1-5-1,,dass1243-1,5,nàmtám,nàmtám,[],,[],,False,False,,1
-dass1243-1-6-1,,dass1243-1,6,màamaɣ,màamaɣ,[],,[],,False,False,,1
-dass1243-1-6-2,,dass1243-1,6,muumáɣ,muumáɣ,[],,[],,False,False,,1
-dass1243-1-7-1,,dass1243-1,7,wúsúrmàɣè,wúsúrmàɣè,[],,[],,False,False,,1
-dass1243-1-8-1,,dass1243-1,8,wúsúpsì,wúsúpsì,[],( 2 x 4 ),[],,False,False,,1
-dass1243-1-9-1,,dass1243-1,9,nàturə́psi,nàturə́psi,[],,[],,False,False,,1
-dass1243-1-9-2,,dass1243-1,9,nàtàrə́psi,nàtàrə́psi,[],,[],,False,False,,1
-dass1243-1-10-1,,dass1243-1,10,zùp,zùp,[],,[],,False,False,,1
+dass1243-1-1-1,,dass1243-1,1,nə̀m,nə̀m,[],,['chan2019'],,False,False,,1
+dass1243-1-2-1,,dass1243-1,2,rwáp,rwáp,[],,['chan2019'],,False,False,,1
+dass1243-1-3-1,,dass1243-1,3,mààɣí,mààɣí,[],,['chan2019'],,False,False,,1
+dass1243-1-4-1,,dass1243-1,4,wùupsí,wùupsí,[],,['chan2019'],,False,False,,1
+dass1243-1-5-1,,dass1243-1,5,nàmtám,nàmtám,[],,['chan2019'],,False,False,,1
+dass1243-1-6-1,,dass1243-1,6,màamaɣ,màamaɣ,[],,['chan2019'],,False,False,,1
+dass1243-1-6-2,,dass1243-1,6,muumáɣ,muumáɣ,[],,['chan2019'],,False,False,,1
+dass1243-1-7-1,,dass1243-1,7,wúsúrmàɣè,wúsúrmàɣè,[],,['chan2019'],,False,False,,1
+dass1243-1-8-1,,dass1243-1,8,wúsúpsì,wúsúpsì,[],( 2 x 4 ),['chan2019'],,False,False,,1
+dass1243-1-9-1,,dass1243-1,9,nàturə́psi,nàturə́psi,[],,['chan2019'],,False,False,,1
+dass1243-1-9-2,,dass1243-1,9,nàtàrə́psi,nàtàrə́psi,[],,['chan2019'],,False,False,,1
+dass1243-1-10-1,,dass1243-1,10,zùp,zùp,[],,['chan2019'],,False,False,,1

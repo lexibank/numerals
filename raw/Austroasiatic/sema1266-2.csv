@@ -1,47 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sema1266-2-1-1,,sema1266-2,1,nanɨʔ,nanɨʔ,[],,[],,False,False,,2
-sema1266-2-1-2,,sema1266-2,1,nanəʔ,nanəʔ,[],,[],,False,False,,2
-sema1266-2-1-3,,sema1266-2,1,saaʔ,saaʔ,[],,[],,False,False,,2
-sema1266-2-1-4,,sema1266-2,1,nu-,nu-,[],(prefix),[],,False,False,,2
-sema1266-2-2-1,,sema1266-2,2,naar,naar,[],,[],,False,False,,2
-sema1266-2-2-2,,sema1266-2,2,duwaaʔ,duwaaʔ,[],,[],,False,False,,2
-sema1266-2-2-3,,sema1266-2,2,ʔ-n-aar,ʔ-n-aar,[],,[],,False,False,,2
-sema1266-2-3-1,,sema1266-2,3,niʔ,niʔ,[],,[],,False,False,,2
-sema1266-2-3-2,,sema1266-2,3,tiɡaaʔ,tiɡaaʔ,[],,[],,False,False,,2
-sema1266-2-4-1,,sema1266-2,4,ʔm̩pat,ʔm̩pat,[],,[],,False,False,,2
-sema1266-2-5-1,,sema1266-2,5,limaaʔ,limaaʔ,[],,[],,False,False,,2
-sema1266-2-6-1,,sema1266-2,6,ʔn̩nam,ʔn̩nam,[],,[],,False,False,,2
-sema1266-2-7-1,,sema1266-2,7,tuɟoh,tuɟoh,[],,[],,False,False,,2
-sema1266-2-8-1,,sema1266-2,8,lapan,lapan,[],,[],,False,False,,2
-sema1266-2-9-1,,sema1266-2,9,səmbilan,səmbilan,[],,[],,False,False,,2
-sema1266-2-10-1,,sema1266-2,10,səpuloh,səpuloh,[],,[],,False,False,,2
-sema1266-2-11-1,,sema1266-2,11,sabəlas,sabəlas,[],,[],,False,False,,2
-sema1266-2-12-1,,sema1266-2,12,duwəə bəlas,duwəə bəlas,[],,[],,False,False,,2
-sema1266-2-13-1,,sema1266-2,13,tiɡaaʔ bəlas,tiɡaaʔ bəlas,[],,[],,False,False,,2
-sema1266-2-14-1,,sema1266-2,14,ʔm̩pat bəlas,ʔm̩pat bəlas,[],,[],,False,False,,2
-sema1266-2-15-1,,sema1266-2,15,limaaʔ bəlas,limaaʔ bəlas,[],,[],,False,False,,2
-sema1266-2-16-1,,sema1266-2,16,nam bəlas,nam bəlas,[],,[],,False,False,,2
-sema1266-2-17-1,,sema1266-2,17,tuɟoh bəlas,tuɟoh bəlas,[],,[],,False,False,,2
-sema1266-2-18-1,,sema1266-2,18,lapan bəlas,lapan bəlas,[],,[],,False,False,,2
-sema1266-2-19-1,,sema1266-2,19,smilan bəlas,smilan bəlas,[],,[],,False,False,,2
-sema1266-2-20-1,,sema1266-2,20,duwəə puloh,duwəə puloh,[],,[],,False,False,,2
-sema1266-2-21-1,,sema1266-2,21,duwəə puloh saaʔ,duwəə puloh saaʔ,[],,[],,False,False,,2
-sema1266-2-22-1,,sema1266-2,22,duwəə puloh duwaaʔ,duwəə puloh duwaaʔ,[],,[],,False,False,,2
-sema1266-2-23-1,,sema1266-2,23,duwəə puloh tiɡaaʔ,duwəə puloh tiɡaaʔ,[],,[],,False,False,,2
-sema1266-2-24-1,,sema1266-2,24,duwəə puloh ʔm̩pat,duwəə puloh ʔm̩pat,[],,[],,False,False,,2
-sema1266-2-25-1,,sema1266-2,25,duwəə puloh limaaʔ,duwəə puloh limaaʔ,[],,[],,False,False,,2
-sema1266-2-26-1,,sema1266-2,26,duwəə puloh nam,duwəə puloh nam,[],,[],,False,False,,2
-sema1266-2-27-1,,sema1266-2,27,duwəə puloh tuɟoh,duwəə puloh tuɟoh,[],,[],,False,False,,2
-sema1266-2-28-1,,sema1266-2,28,duwəə puloh lapan,duwəə puloh lapan,[],,[],,False,False,,2
-sema1266-2-29-1,,sema1266-2,29,duwəə puloh səmbilan,duwəə puloh səmbilan,[],,[],,False,False,,2
-sema1266-2-30-1,,sema1266-2,30,tiɡaaʔ puloh,tiɡaaʔ puloh,[],,[],,False,False,,2
-sema1266-2-40-1,,sema1266-2,40,ʔm̩pat puloh,ʔm̩pat puloh,[],,[],,False,False,,2
-sema1266-2-50-1,,sema1266-2,50,limaaʔ puloh,limaaʔ puloh,[],,[],,False,False,,2
-sema1266-2-60-1,,sema1266-2,60,nam puloh,nam puloh,[],,[],,False,False,,2
-sema1266-2-70-1,,sema1266-2,70,tuɟoh puloh,tuɟoh puloh,[],,[],,False,False,,2
-sema1266-2-80-1,,sema1266-2,80,lapan puloh,lapan puloh,[],,[],,False,False,,2
-sema1266-2-90-1,,sema1266-2,90,səmbilan puloh,səmbilan puloh,[],,[],,False,False,,2
-sema1266-2-100-1,,sema1266-2,100,ratos,ratos,[],,[],,False,False,,2
-sema1266-2-200-1,,sema1266-2,200,duwəə ratos,duwəə ratos,[],,[],,False,False,,2
-sema1266-2-1000-1,,sema1266-2,1000,ribuuʔ,ribuuʔ,[],,[],,False,False,,2
-sema1266-2-2000-1,,sema1266-2,2000,dua ribuuʔ,dua ribuuʔ,[],,[],,False,False,,2
+sema1266-2-1-1,,sema1266-2,1,nanɨʔ,nanɨʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-1-2,,sema1266-2,1,nanəʔ,nanəʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-1-3,,sema1266-2,1,saaʔ,saaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-1-4,,sema1266-2,1,nu-,nu-,[],(prefix),['chan2019'],,False,False,,2
+sema1266-2-2-1,,sema1266-2,2,naar,naar,[],,['chan2019'],,False,False,,2
+sema1266-2-2-2,,sema1266-2,2,duwaaʔ,duwaaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-2-3,,sema1266-2,2,ʔ-n-aar,ʔ-n-aar,[],,['chan2019'],,False,False,,2
+sema1266-2-3-1,,sema1266-2,3,niʔ,niʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-3-2,,sema1266-2,3,tiɡaaʔ,tiɡaaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-4-1,,sema1266-2,4,ʔm̩pat,ʔm̩pat,[],,['chan2019'],,False,False,,2
+sema1266-2-5-1,,sema1266-2,5,limaaʔ,limaaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-6-1,,sema1266-2,6,ʔn̩nam,ʔn̩nam,[],,['chan2019'],,False,False,,2
+sema1266-2-7-1,,sema1266-2,7,tuɟoh,tuɟoh,[],,['chan2019'],,False,False,,2
+sema1266-2-8-1,,sema1266-2,8,lapan,lapan,[],,['chan2019'],,False,False,,2
+sema1266-2-9-1,,sema1266-2,9,səmbilan,səmbilan,[],,['chan2019'],,False,False,,2
+sema1266-2-10-1,,sema1266-2,10,səpuloh,səpuloh,[],,['chan2019'],,False,False,,2
+sema1266-2-11-1,,sema1266-2,11,sabəlas,sabəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-12-1,,sema1266-2,12,duwəə bəlas,duwəə bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-13-1,,sema1266-2,13,tiɡaaʔ bəlas,tiɡaaʔ bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-14-1,,sema1266-2,14,ʔm̩pat bəlas,ʔm̩pat bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-15-1,,sema1266-2,15,limaaʔ bəlas,limaaʔ bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-16-1,,sema1266-2,16,nam bəlas,nam bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-17-1,,sema1266-2,17,tuɟoh bəlas,tuɟoh bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-18-1,,sema1266-2,18,lapan bəlas,lapan bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-19-1,,sema1266-2,19,smilan bəlas,smilan bəlas,[],,['chan2019'],,False,False,,2
+sema1266-2-20-1,,sema1266-2,20,duwəə puloh,duwəə puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-21-1,,sema1266-2,21,duwəə puloh saaʔ,duwəə puloh saaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-22-1,,sema1266-2,22,duwəə puloh duwaaʔ,duwəə puloh duwaaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-23-1,,sema1266-2,23,duwəə puloh tiɡaaʔ,duwəə puloh tiɡaaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-24-1,,sema1266-2,24,duwəə puloh ʔm̩pat,duwəə puloh ʔm̩pat,[],,['chan2019'],,False,False,,2
+sema1266-2-25-1,,sema1266-2,25,duwəə puloh limaaʔ,duwəə puloh limaaʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-26-1,,sema1266-2,26,duwəə puloh nam,duwəə puloh nam,[],,['chan2019'],,False,False,,2
+sema1266-2-27-1,,sema1266-2,27,duwəə puloh tuɟoh,duwəə puloh tuɟoh,[],,['chan2019'],,False,False,,2
+sema1266-2-28-1,,sema1266-2,28,duwəə puloh lapan,duwəə puloh lapan,[],,['chan2019'],,False,False,,2
+sema1266-2-29-1,,sema1266-2,29,duwəə puloh səmbilan,duwəə puloh səmbilan,[],,['chan2019'],,False,False,,2
+sema1266-2-30-1,,sema1266-2,30,tiɡaaʔ puloh,tiɡaaʔ puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-40-1,,sema1266-2,40,ʔm̩pat puloh,ʔm̩pat puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-50-1,,sema1266-2,50,limaaʔ puloh,limaaʔ puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-60-1,,sema1266-2,60,nam puloh,nam puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-70-1,,sema1266-2,70,tuɟoh puloh,tuɟoh puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-80-1,,sema1266-2,80,lapan puloh,lapan puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-90-1,,sema1266-2,90,səmbilan puloh,səmbilan puloh,[],,['chan2019'],,False,False,,2
+sema1266-2-100-1,,sema1266-2,100,ratos,ratos,[],,['chan2019'],,False,False,,2
+sema1266-2-200-1,,sema1266-2,200,duwəə ratos,duwəə ratos,[],,['chan2019'],,False,False,,2
+sema1266-2-1000-1,,sema1266-2,1000,ribuuʔ,ribuuʔ,[],,['chan2019'],,False,False,,2
+sema1266-2-2000-1,,sema1266-2,2000,dua ribuuʔ,dua ribuuʔ,[],,['chan2019'],,False,False,,2

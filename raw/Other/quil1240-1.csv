@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-quil1240-1-1-1,,quil1240-1,1,wiɬ,wiɬ,[],,[],,False,False,,1
-quil1240-1-2-1,,quil1240-1,2,ɬáʼw,ɬáʼw,[],,[],,False,False,,1
-quil1240-1-3-1,,quil1240-1,3,qwáʼl,qwáʼl,[],,[],,False,False,,1
-quil1240-1-4-1,,quil1240-1,4,báʼyas,báʼyas,[],,[],,False,False,,1
-quil1240-1-5-1,,quil1240-1,5,tási,tási,[],,[],,False,False,,1
-quil1240-1-6-1,,quil1240-1,6,chiɬási,chiɬási,[],,[],,False,False,,1
-quil1240-1-7-1,,quil1240-1,7,ɬaʼwáqtʼsasi,ɬaʼwáqtʼsasi,[],( litː 2 in addition ),[],,False,False,,1
-quil1240-1-8-1,,quil1240-1,8,ɬaʼwítʼaɬi,ɬaʼwítʼaɬi,[],( litː 2 needed ),[],,False,False,,1
-quil1240-1-9-1,,quil1240-1,9,wíɬtʼaɬi,wíɬtʼaɬi,[],( litː 1 needed ),[],,False,False,,1
-quil1240-1-10-1,,quil1240-1,10,tʼópa,tʼópa,[],,[],,False,False,,1
-quil1240-1-11-1,,quil1240-1,11,wíɬtʼsiyo,wíɬtʼsiyo,[],(lit: 1 beyond what's needed ),[],,False,False,,1
-quil1240-1-12-1,,quil1240-1,12,ɬaʼwítʼsiyo,ɬaʼwítʼsiyo,[],,[],,False,False,,1
-quil1240-1-13-1,,quil1240-1,13,qwaʼlítʼsiyo,qwaʼlítʼsiyo,[],,[],,False,False,,1
-quil1240-1-14-1,,quil1240-1,14,baʼyasítʼsiyo,baʼyasítʼsiyo,[],,[],,False,False,,1
-quil1240-1-15-1,,quil1240-1,15,tʼasítʼsiyo,tʼasítʼsiyo,[],,[],,False,False,,1
-quil1240-1-16-1,,quil1240-1,16,chiɬasítʼsiyo,chiɬasítʼsiyo,[],,[],,False,False,,1
-quil1240-1-17-1,,quil1240-1,17,ɬaʼwaqtʼsasítʼsistayo,ɬaʼwaqtʼsasítʼsistayo,[],,[],,False,False,,1
-quil1240-1-18-1,,quil1240-1,18,ɬaʼwitʼaɬítʼsiyo,ɬaʼwitʼaɬítʼsiyo,[],,[],,False,False,,1
-quil1240-1-19-1,,quil1240-1,19,wiɬtʼaɬítʼsiyo,wiɬtʼaɬítʼsiyo,[],,[],,False,False,,1
-quil1240-1-20-1,,quil1240-1,20,ɬaʼwásta,ɬaʼwásta,[],( litː 2 times ),[],,False,False,,1
-quil1240-1-21-1,,quil1240-1,21,ɬaʼwásta hixat wiɬ,ɬaʼwásta hixat wiɬ,[],( 20 and 1 ),[],,False,False,,1
-quil1240-1-22-1,,quil1240-1,22,ɬaʼwásta hixat ɬáʼw,ɬaʼwásta hixat ɬáʼw,[],,[],,False,False,,1
-quil1240-1-23-1,,quil1240-1,23,ɬaʼwásta hixat qwáʼl,ɬaʼwásta hixat qwáʼl,[],,[],,False,False,,1
-quil1240-1-24-1,,quil1240-1,24,ɬaʼwásta hixat báʼyas,ɬaʼwásta hixat báʼyas,[],,[],,False,False,,1
-quil1240-1-25-1,,quil1240-1,25,ɬaʼwásta hixat tási,ɬaʼwásta hixat tási,[],,[],,False,False,,1
-quil1240-1-26-1,,quil1240-1,26,ɬaʼwásta hixat chiɬási,ɬaʼwásta hixat chiɬási,[],,[],,False,False,,1
-quil1240-1-27-1,,quil1240-1,27,ɬaʼwásta hixat ɬaʼwáqtʼsasi,ɬaʼwásta hixat ɬaʼwáqtʼsasi,[],,[],,False,False,,1
-quil1240-1-28-1,,quil1240-1,28,ɬaʼwásta hixat ɬaʼwítʼaɬi,ɬaʼwásta hixat ɬaʼwítʼaɬi,[],,[],,False,False,,1
-quil1240-1-29-1,,quil1240-1,29,ɬaʼwásta hixat wíɬtʼaɬi,ɬaʼwásta hixat wíɬtʼaɬi,[],,[],,False,False,,1
-quil1240-1-30-1,,quil1240-1,30,qwaʼlásta,qwaʼlásta,[],,[],,False,False,,1
-quil1240-1-40-1,,quil1240-1,40,baʼyásta,baʼyásta,[],,[],,False,False,,1
-quil1240-1-50-1,,quil1240-1,50,tásta,tásta,[],,[],,False,False,,1
-quil1240-1-60-1,,quil1240-1,60,chiɬásta,chiɬásta,[],,[],,False,False,,1
-quil1240-1-70-1,,quil1240-1,70,ɬaʼwaqtʼísta,ɬaʼwaqtʼísta,[],,[],,False,False,,1
-quil1240-1-80-1,,quil1240-1,80,ɬaʼwitʼáɬsta,ɬaʼwitʼáɬsta,[],,[],,False,False,,1
-quil1240-1-90-1,,quil1240-1,90,wiɬtáɬsta,wiɬtáɬsta,[],,[],,False,False,,1
-quil1240-1-100-1,,quil1240-1,100,chiɬtáɬsta,chiɬtáɬsta,[],,[],,False,False,,1
-quil1240-1-100-2,,quil1240-1,100,101. chiɬtáɬsta hixat wiɬ,101. chiɬtáɬsta hixat wiɬ,[],,[],,False,True,,1
-quil1240-1-200-1,,quil1240-1,200,ɬaʼwasx chiɬtáɬsta,ɬaʼwasx chiɬtáɬsta,[],( litː second hundred),[],,False,False,,1
-quil1240-1-300-1,,quil1240-1,300,qwaʼlásx chiɬtáɬsta,qwaʼlásx chiɬtáɬsta,[],( litː third hundred),[],,False,False,,1
-quil1240-1-1000-1,,quil1240-1,1000,tʼapásx chiɬtáɬsta,tʼapásx chiɬtáɬsta,[],( litː tenth hundred),[],,False,False,,1
+quil1240-1-1-1,,quil1240-1,1,wiɬ,wiɬ,[],,['chan2019'],,False,False,,1
+quil1240-1-2-1,,quil1240-1,2,ɬáʼw,ɬáʼw,[],,['chan2019'],,False,False,,1
+quil1240-1-3-1,,quil1240-1,3,qwáʼl,qwáʼl,[],,['chan2019'],,False,False,,1
+quil1240-1-4-1,,quil1240-1,4,báʼyas,báʼyas,[],,['chan2019'],,False,False,,1
+quil1240-1-5-1,,quil1240-1,5,tási,tási,[],,['chan2019'],,False,False,,1
+quil1240-1-6-1,,quil1240-1,6,chiɬási,chiɬási,[],,['chan2019'],,False,False,,1
+quil1240-1-7-1,,quil1240-1,7,ɬaʼwáqtʼsasi,ɬaʼwáqtʼsasi,[],( litː 2 in addition ),['chan2019'],,False,False,,1
+quil1240-1-8-1,,quil1240-1,8,ɬaʼwítʼaɬi,ɬaʼwítʼaɬi,[],( litː 2 needed ),['chan2019'],,False,False,,1
+quil1240-1-9-1,,quil1240-1,9,wíɬtʼaɬi,wíɬtʼaɬi,[],( litː 1 needed ),['chan2019'],,False,False,,1
+quil1240-1-10-1,,quil1240-1,10,tʼópa,tʼópa,[],,['chan2019'],,False,False,,1
+quil1240-1-11-1,,quil1240-1,11,wíɬtʼsiyo,wíɬtʼsiyo,[],(lit: 1 beyond what's needed ),['chan2019'],,False,False,,1
+quil1240-1-12-1,,quil1240-1,12,ɬaʼwítʼsiyo,ɬaʼwítʼsiyo,[],,['chan2019'],,False,False,,1
+quil1240-1-13-1,,quil1240-1,13,qwaʼlítʼsiyo,qwaʼlítʼsiyo,[],,['chan2019'],,False,False,,1
+quil1240-1-14-1,,quil1240-1,14,baʼyasítʼsiyo,baʼyasítʼsiyo,[],,['chan2019'],,False,False,,1
+quil1240-1-15-1,,quil1240-1,15,tʼasítʼsiyo,tʼasítʼsiyo,[],,['chan2019'],,False,False,,1
+quil1240-1-16-1,,quil1240-1,16,chiɬasítʼsiyo,chiɬasítʼsiyo,[],,['chan2019'],,False,False,,1
+quil1240-1-17-1,,quil1240-1,17,ɬaʼwaqtʼsasítʼsistayo,ɬaʼwaqtʼsasítʼsistayo,[],,['chan2019'],,False,False,,1
+quil1240-1-18-1,,quil1240-1,18,ɬaʼwitʼaɬítʼsiyo,ɬaʼwitʼaɬítʼsiyo,[],,['chan2019'],,False,False,,1
+quil1240-1-19-1,,quil1240-1,19,wiɬtʼaɬítʼsiyo,wiɬtʼaɬítʼsiyo,[],,['chan2019'],,False,False,,1
+quil1240-1-20-1,,quil1240-1,20,ɬaʼwásta,ɬaʼwásta,[],( litː 2 times ),['chan2019'],,False,False,,1
+quil1240-1-21-1,,quil1240-1,21,ɬaʼwásta hixat wiɬ,ɬaʼwásta hixat wiɬ,[],( 20 and 1 ),['chan2019'],,False,False,,1
+quil1240-1-22-1,,quil1240-1,22,ɬaʼwásta hixat ɬáʼw,ɬaʼwásta hixat ɬáʼw,[],,['chan2019'],,False,False,,1
+quil1240-1-23-1,,quil1240-1,23,ɬaʼwásta hixat qwáʼl,ɬaʼwásta hixat qwáʼl,[],,['chan2019'],,False,False,,1
+quil1240-1-24-1,,quil1240-1,24,ɬaʼwásta hixat báʼyas,ɬaʼwásta hixat báʼyas,[],,['chan2019'],,False,False,,1
+quil1240-1-25-1,,quil1240-1,25,ɬaʼwásta hixat tási,ɬaʼwásta hixat tási,[],,['chan2019'],,False,False,,1
+quil1240-1-26-1,,quil1240-1,26,ɬaʼwásta hixat chiɬási,ɬaʼwásta hixat chiɬási,[],,['chan2019'],,False,False,,1
+quil1240-1-27-1,,quil1240-1,27,ɬaʼwásta hixat ɬaʼwáqtʼsasi,ɬaʼwásta hixat ɬaʼwáqtʼsasi,[],,['chan2019'],,False,False,,1
+quil1240-1-28-1,,quil1240-1,28,ɬaʼwásta hixat ɬaʼwítʼaɬi,ɬaʼwásta hixat ɬaʼwítʼaɬi,[],,['chan2019'],,False,False,,1
+quil1240-1-29-1,,quil1240-1,29,ɬaʼwásta hixat wíɬtʼaɬi,ɬaʼwásta hixat wíɬtʼaɬi,[],,['chan2019'],,False,False,,1
+quil1240-1-30-1,,quil1240-1,30,qwaʼlásta,qwaʼlásta,[],,['chan2019'],,False,False,,1
+quil1240-1-40-1,,quil1240-1,40,baʼyásta,baʼyásta,[],,['chan2019'],,False,False,,1
+quil1240-1-50-1,,quil1240-1,50,tásta,tásta,[],,['chan2019'],,False,False,,1
+quil1240-1-60-1,,quil1240-1,60,chiɬásta,chiɬásta,[],,['chan2019'],,False,False,,1
+quil1240-1-70-1,,quil1240-1,70,ɬaʼwaqtʼísta,ɬaʼwaqtʼísta,[],,['chan2019'],,False,False,,1
+quil1240-1-80-1,,quil1240-1,80,ɬaʼwitʼáɬsta,ɬaʼwitʼáɬsta,[],,['chan2019'],,False,False,,1
+quil1240-1-90-1,,quil1240-1,90,wiɬtáɬsta,wiɬtáɬsta,[],,['chan2019'],,False,False,,1
+quil1240-1-100-1,,quil1240-1,100,chiɬtáɬsta,chiɬtáɬsta,[],,['chan2019'],,False,False,,1
+quil1240-1-100-2,,quil1240-1,100,101. chiɬtáɬsta hixat wiɬ,101. chiɬtáɬsta hixat wiɬ,[],,['chan2019'],,False,True,,1
+quil1240-1-200-1,,quil1240-1,200,ɬaʼwasx chiɬtáɬsta,ɬaʼwasx chiɬtáɬsta,[],( litː second hundred),['chan2019'],,False,False,,1
+quil1240-1-300-1,,quil1240-1,300,qwaʼlásx chiɬtáɬsta,qwaʼlásx chiɬtáɬsta,[],( litː third hundred),['chan2019'],,False,False,,1
+quil1240-1-1000-1,,quil1240-1,1000,tʼapásx chiɬtáɬsta,tʼapásx chiɬtáɬsta,[],( litː tenth hundred),['chan2019'],,False,False,,1

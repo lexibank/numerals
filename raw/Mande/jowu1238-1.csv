@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-jowu1238-1-1-1,,jowu1238-1,1,tẽẽna,tẽẽna,[],,[],,False,False,,1
-jowu1238-1-2-1,,jowu1238-1,2,fuuli,fuuli,[],,[],,False,False,,1
-jowu1238-1-3-1,,jowu1238-1,3,bʒei,bʒei,[],,[],,False,False,,1
-jowu1238-1-4-1,,jowu1238-1,4,pʃɪrɛᶦ,pʃɪrɛᶦ,[],,[],,False,False,,1
-jowu1238-1-5-1,,jowu1238-1,5,tãã,tãã,[],,[],,False,False,,1
-jowu1238-1-6-1,,jowu1238-1,6,tãmãnɪ,tãmãnɪ,[],( 5 + 1),[],,False,False,,1
-jowu1238-1-7-1,,jowu1238-1,7,dʒɔ̃mpʊn,dʒɔ̃mpʊn,[],( 3 + 4),[],,False,False,,1
-jowu1238-1-8-1,,jowu1238-1,8,fulpʊn,fulpʊn,[],( 2 x 4 ),[],,False,False,,1
-jowu1238-1-9-1,,jowu1238-1,9,tẽmpʊn,tẽmpʊn,[],( 5 + 4),[],,False,False,,1
-jowu1238-1-10-1,,jowu1238-1,10,bʒĩĩ,bʒĩĩ,[],,[],,False,False,,1
-jowu1238-1-11-1,,jowu1238-1,11,bvʊntɛ̃ɛ̃,bvʊntɛ̃ɛ̃,[],,[],,False,False,,1
-jowu1238-1-12-1,,jowu1238-1,12,bvʊnuvuulɪ,bvʊnuvuulɪ,[],,[],,False,False,,1
-jowu1238-1-13-1,,jowu1238-1,13,bvʊnumbʸeᶦ,bvʊnumbʸeᶦ,[],,[],,False,False,,1
-jowu1238-1-14-1,,jowu1238-1,14,bvʊnbʒɪrɛᶦ,bvʊnbʒɪrɛᶦ,[],,[],,False,False,,1
-jowu1238-1-15-1,,jowu1238-1,15,bvʊntãã,bvʊntãã,[],,[],,False,False,,1
-jowu1238-1-16-1,,jowu1238-1,16,bvʊntãmãn,bvʊntãmãn,[],,[],,False,False,,1
-jowu1238-1-17-1,,jowu1238-1,17,bvʊnɪɲɔ̃pʊn,bvʊnɪɲɔ̃pʊn,[],,[],,False,False,,1
-jowu1238-1-18-1,,jowu1238-1,18,bvʊnfulpʊn,bvʊnfulpʊn,[],,[],,False,False,,1
-jowu1238-1-19-1,,jowu1238-1,19,bvʊntẽmpʊn,bvʊntẽmpʊn,[],,[],,False,False,,1
-jowu1238-1-20-1,,jowu1238-1,20,kɔ̃ne,kɔ̃ne,[],,[],,False,False,,1
-jowu1238-1-21-1,,jowu1238-1,21,kɔ̃n vatẽ,kɔ̃n vatẽ,[],,[],,False,False,,1
-jowu1238-1-22-1,,jowu1238-1,22,kɔ̃n vafuuli,kɔ̃n vafuuli,[],,[],,False,False,,1
-jowu1238-1-23-1,,jowu1238-1,23,kɔ̃n vabʒei,kɔ̃n vabʒei,[],,[],,False,False,,1
-jowu1238-1-24-1,,jowu1238-1,24,kɔ̃n vapʃɪrɛᶦ,kɔ̃n vapʃɪrɛᶦ,[],,[],,False,False,,1
-jowu1238-1-25-1,,jowu1238-1,25,kɔ̃n vatãã,kɔ̃n vatãã,[],,[],,False,False,,1
-jowu1238-1-26-1,,jowu1238-1,26,kɔ̃n vatãmãn,kɔ̃n vatãmãn,[],,[],,False,False,,1
-jowu1238-1-27-1,,jowu1238-1,27,kɔ̃n vadʒɔ̃mpʊn,kɔ̃n vadʒɔ̃mpʊn,[],,[],,False,False,,1
-jowu1238-1-28-1,,jowu1238-1,28,kɔ̃n vafʊlpʊn,kɔ̃n vafʊlpʊn,[],,[],,False,False,,1
-jowu1238-1-29-1,,jowu1238-1,29,kɔ̃n vatẽmpʊn,kɔ̃n vatẽmpʊn,[],,[],,False,False,,1
-jowu1238-1-30-1,,jowu1238-1,30,kɔ̃n vabʒĩĩ,kɔ̃n vabʒĩĩ,[],,[],,False,False,,1
-jowu1238-1-40-1,,jowu1238-1,40,yaa fuli,yaa fuli,[],( litː ' rope 2' ),[],,False,False,,1
-jowu1238-1-50-1,,jowu1238-1,50,yaa fuli fabʒĩĩ,yaa fuli fabʒĩĩ,[],( rope 2 and 10 ),[],,False,False,,1
-jowu1238-1-60-1,,jowu1238-1,60,yaa bʸei,yaa bʸei,[],( litː ' rope 3' ),[],,False,False,,1
-jowu1238-1-70-1,,jowu1238-1,70,yaa bʸei vabʒĩĩ,yaa bʸei vabʒĩĩ,[],( 60 + 10 ),[],,False,False,,1
-jowu1238-1-80-1,,jowu1238-1,80,yaa pʃɪrɛᶦ,yaa pʃɪrɛᶦ,[],( litː ' rope 4' ),[],,False,False,,1
-jowu1238-1-90-1,,jowu1238-1,90,yaa pʃɪrɛᶦ vabʒĩĩ,yaa pʃɪrɛᶦ vabʒĩĩ,[],( 80 + 10 ),[],,False,False,,1
-jowu1238-1-100-1,,jowu1238-1,100,yaa tãã,yaa tãã,[],( litː ' rope 5' ),[],,False,False,,1
-jowu1238-1-200-1,,jowu1238-1,200,yaa bʒĩĩ,yaa bʒĩĩ,[],( litː ' rope 10 ' ),[],,False,False,,1
-jowu1238-1-1000-1,,jowu1238-1,1000,kɔliful fayaa bʒĩĩ,kɔliful fayaa bʒĩĩ,[],( 800 + 200 ),[],,False,False,,1
-jowu1238-1-2000-1,,jowu1238-1,2000,kɔlitãã,kɔlitãã,[],( litː ' attachment 5 ),[],,False,False,,1
+jowu1238-1-1-1,,jowu1238-1,1,tẽẽna,tẽẽna,[],,['chan2019'],,False,False,,1
+jowu1238-1-2-1,,jowu1238-1,2,fuuli,fuuli,[],,['chan2019'],,False,False,,1
+jowu1238-1-3-1,,jowu1238-1,3,bʒei,bʒei,[],,['chan2019'],,False,False,,1
+jowu1238-1-4-1,,jowu1238-1,4,pʃɪrɛᶦ,pʃɪrɛᶦ,[],,['chan2019'],,False,False,,1
+jowu1238-1-5-1,,jowu1238-1,5,tãã,tãã,[],,['chan2019'],,False,False,,1
+jowu1238-1-6-1,,jowu1238-1,6,tãmãnɪ,tãmãnɪ,[],( 5 + 1),['chan2019'],,False,False,,1
+jowu1238-1-7-1,,jowu1238-1,7,dʒɔ̃mpʊn,dʒɔ̃mpʊn,[],( 3 + 4),['chan2019'],,False,False,,1
+jowu1238-1-8-1,,jowu1238-1,8,fulpʊn,fulpʊn,[],( 2 x 4 ),['chan2019'],,False,False,,1
+jowu1238-1-9-1,,jowu1238-1,9,tẽmpʊn,tẽmpʊn,[],( 5 + 4),['chan2019'],,False,False,,1
+jowu1238-1-10-1,,jowu1238-1,10,bʒĩĩ,bʒĩĩ,[],,['chan2019'],,False,False,,1
+jowu1238-1-11-1,,jowu1238-1,11,bvʊntɛ̃ɛ̃,bvʊntɛ̃ɛ̃,[],,['chan2019'],,False,False,,1
+jowu1238-1-12-1,,jowu1238-1,12,bvʊnuvuulɪ,bvʊnuvuulɪ,[],,['chan2019'],,False,False,,1
+jowu1238-1-13-1,,jowu1238-1,13,bvʊnumbʸeᶦ,bvʊnumbʸeᶦ,[],,['chan2019'],,False,False,,1
+jowu1238-1-14-1,,jowu1238-1,14,bvʊnbʒɪrɛᶦ,bvʊnbʒɪrɛᶦ,[],,['chan2019'],,False,False,,1
+jowu1238-1-15-1,,jowu1238-1,15,bvʊntãã,bvʊntãã,[],,['chan2019'],,False,False,,1
+jowu1238-1-16-1,,jowu1238-1,16,bvʊntãmãn,bvʊntãmãn,[],,['chan2019'],,False,False,,1
+jowu1238-1-17-1,,jowu1238-1,17,bvʊnɪɲɔ̃pʊn,bvʊnɪɲɔ̃pʊn,[],,['chan2019'],,False,False,,1
+jowu1238-1-18-1,,jowu1238-1,18,bvʊnfulpʊn,bvʊnfulpʊn,[],,['chan2019'],,False,False,,1
+jowu1238-1-19-1,,jowu1238-1,19,bvʊntẽmpʊn,bvʊntẽmpʊn,[],,['chan2019'],,False,False,,1
+jowu1238-1-20-1,,jowu1238-1,20,kɔ̃ne,kɔ̃ne,[],,['chan2019'],,False,False,,1
+jowu1238-1-21-1,,jowu1238-1,21,kɔ̃n vatẽ,kɔ̃n vatẽ,[],,['chan2019'],,False,False,,1
+jowu1238-1-22-1,,jowu1238-1,22,kɔ̃n vafuuli,kɔ̃n vafuuli,[],,['chan2019'],,False,False,,1
+jowu1238-1-23-1,,jowu1238-1,23,kɔ̃n vabʒei,kɔ̃n vabʒei,[],,['chan2019'],,False,False,,1
+jowu1238-1-24-1,,jowu1238-1,24,kɔ̃n vapʃɪrɛᶦ,kɔ̃n vapʃɪrɛᶦ,[],,['chan2019'],,False,False,,1
+jowu1238-1-25-1,,jowu1238-1,25,kɔ̃n vatãã,kɔ̃n vatãã,[],,['chan2019'],,False,False,,1
+jowu1238-1-26-1,,jowu1238-1,26,kɔ̃n vatãmãn,kɔ̃n vatãmãn,[],,['chan2019'],,False,False,,1
+jowu1238-1-27-1,,jowu1238-1,27,kɔ̃n vadʒɔ̃mpʊn,kɔ̃n vadʒɔ̃mpʊn,[],,['chan2019'],,False,False,,1
+jowu1238-1-28-1,,jowu1238-1,28,kɔ̃n vafʊlpʊn,kɔ̃n vafʊlpʊn,[],,['chan2019'],,False,False,,1
+jowu1238-1-29-1,,jowu1238-1,29,kɔ̃n vatẽmpʊn,kɔ̃n vatẽmpʊn,[],,['chan2019'],,False,False,,1
+jowu1238-1-30-1,,jowu1238-1,30,kɔ̃n vabʒĩĩ,kɔ̃n vabʒĩĩ,[],,['chan2019'],,False,False,,1
+jowu1238-1-40-1,,jowu1238-1,40,yaa fuli,yaa fuli,[],( litː ' rope 2' ),['chan2019'],,False,False,,1
+jowu1238-1-50-1,,jowu1238-1,50,yaa fuli fabʒĩĩ,yaa fuli fabʒĩĩ,[],( rope 2 and 10 ),['chan2019'],,False,False,,1
+jowu1238-1-60-1,,jowu1238-1,60,yaa bʸei,yaa bʸei,[],( litː ' rope 3' ),['chan2019'],,False,False,,1
+jowu1238-1-70-1,,jowu1238-1,70,yaa bʸei vabʒĩĩ,yaa bʸei vabʒĩĩ,[],( 60 + 10 ),['chan2019'],,False,False,,1
+jowu1238-1-80-1,,jowu1238-1,80,yaa pʃɪrɛᶦ,yaa pʃɪrɛᶦ,[],( litː ' rope 4' ),['chan2019'],,False,False,,1
+jowu1238-1-90-1,,jowu1238-1,90,yaa pʃɪrɛᶦ vabʒĩĩ,yaa pʃɪrɛᶦ vabʒĩĩ,[],( 80 + 10 ),['chan2019'],,False,False,,1
+jowu1238-1-100-1,,jowu1238-1,100,yaa tãã,yaa tãã,[],( litː ' rope 5' ),['chan2019'],,False,False,,1
+jowu1238-1-200-1,,jowu1238-1,200,yaa bʒĩĩ,yaa bʒĩĩ,[],( litː ' rope 10 ' ),['chan2019'],,False,False,,1
+jowu1238-1-1000-1,,jowu1238-1,1000,kɔliful fayaa bʒĩĩ,kɔliful fayaa bʒĩĩ,[],( 800 + 200 ),['chan2019'],,False,False,,1
+jowu1238-1-2000-1,,jowu1238-1,2000,kɔlitãã,kɔlitãã,[],( litː ' attachment 5 ),['chan2019'],,False,False,,1

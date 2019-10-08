@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-plat1254-1-1-1,,plat1254-1,1,ray,ray,[],,[],,False,False,,1
-plat1254-1-1-2,,plat1254-1,1,iray,iray,[],,[],,False,False,,1
-plat1254-1-2-1,,plat1254-1,2,roa,roa,[],,[],,False,False,,1
-plat1254-1-3-1,,plat1254-1,3,telo,telo,[],,[],,False,False,,1
-plat1254-1-4-1,,plat1254-1,4,efatra,efatra,[],,[],,False,False,,1
-plat1254-1-5-1,,plat1254-1,5,dimy,dimy,[],,[],,False,False,,1
-plat1254-1-6-1,,plat1254-1,6,enina,enina,[],,[],,False,False,,1
-plat1254-1-7-1,,plat1254-1,7,fito,fito,[],,[],,False,False,,1
-plat1254-1-8-1,,plat1254-1,8,valo,valo,[],,[],,False,False,,1
-plat1254-1-9-1,,plat1254-1,9,sivy,sivy,[],,[],,False,False,,1
-plat1254-1-10-1,,plat1254-1,10,folo,folo,[],,[],,False,False,,1
-plat1254-1-11-1,,plat1254-1,11,iraika ambin'ny folo,iraika ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-12-1,,plat1254-1,12,roa ambin'ny folo,roa ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-13-1,,plat1254-1,13,telo ambin'ny folo,telo ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-14-1,,plat1254-1,14,efatra ambin'ny folo,efatra ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-15-1,,plat1254-1,15,dimy ambin'ny folo,dimy ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-16-1,,plat1254-1,16,enima ambin'ny folo,enima ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-17-1,,plat1254-1,17,fito ambin'ny folo,fito ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-18-1,,plat1254-1,18,valo ambin'ny folo,valo ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-19-1,,plat1254-1,19,sivy ambin'ny folo,sivy ambin'ny folo,[],,[],,False,False,,1
-plat1254-1-20-1,,plat1254-1,20,roalolo,roalolo,[],,[],,False,False,,1
-plat1254-1-21-1,,plat1254-1,21,iraika amby roapolo,iraika amby roapolo,[],,[],,False,False,,1
-plat1254-1-22-1,,plat1254-1,22,roa amby roapolo,roa amby roapolo,[],,[],,False,False,,1
-plat1254-1-23-1,,plat1254-1,23,telo amby roapolo,telo amby roapolo,[],,[],,False,False,,1
-plat1254-1-24-1,,plat1254-1,24,efatra amby roapolo,efatra amby roapolo,[],,[],,False,False,,1
-plat1254-1-25-1,,plat1254-1,25,dimy amby roapolo,dimy amby roapolo,[],,[],,False,False,,1
-plat1254-1-26-1,,plat1254-1,26,enina amby roapolo,enina amby roapolo,[],,[],,False,False,,1
-plat1254-1-27-1,,plat1254-1,27,fito amby roapolo,fito amby roapolo,[],,[],,False,False,,1
-plat1254-1-28-1,,plat1254-1,28,valo amby roapolo,valo amby roapolo,[],,[],,False,False,,1
-plat1254-1-29-1,,plat1254-1,29,sivy amby roapolo,sivy amby roapolo,[],,[],,False,False,,1
-plat1254-1-30-1,,plat1254-1,30,telopolo,telopolo,[],,[],,False,False,,1
-plat1254-1-40-1,,plat1254-1,40,efapolo,efapolo,[],,[],,False,False,,1
-plat1254-1-50-1,,plat1254-1,50,dimampolo,dimampolo,[],,[],,False,False,,1
-plat1254-1-60-1,,plat1254-1,60,enimpolo,enimpolo,[],,[],,False,False,,1
-plat1254-1-70-1,,plat1254-1,70,fitompolo,fitompolo,[],,[],,False,False,,1
-plat1254-1-80-1,,plat1254-1,80,valopolo,valopolo,[],,[],,False,False,,1
-plat1254-1-90-1,,plat1254-1,90,sivampolo,sivampolo,[],,[],,False,False,,1
-plat1254-1-100-1,,plat1254-1,100,zato,zato,[],,[],,False,False,,1
-plat1254-1-200-1,,plat1254-1,200,roanjato,roanjato,[],,[],,False,False,,1
-plat1254-1-1000-1,,plat1254-1,1000,harivo,harivo,[],,[],,False,False,,1
-plat1254-1-2000-1,,plat1254-1,2000,roa harivo,roa harivo,[],,[],,False,False,,1
+plat1254-1-1-1,,plat1254-1,1,ray,ray,[],,['chan2019'],,False,False,,1
+plat1254-1-1-2,,plat1254-1,1,iray,iray,[],,['chan2019'],,False,False,,1
+plat1254-1-2-1,,plat1254-1,2,roa,roa,[],,['chan2019'],,False,False,,1
+plat1254-1-3-1,,plat1254-1,3,telo,telo,[],,['chan2019'],,False,False,,1
+plat1254-1-4-1,,plat1254-1,4,efatra,efatra,[],,['chan2019'],,False,False,,1
+plat1254-1-5-1,,plat1254-1,5,dimy,dimy,[],,['chan2019'],,False,False,,1
+plat1254-1-6-1,,plat1254-1,6,enina,enina,[],,['chan2019'],,False,False,,1
+plat1254-1-7-1,,plat1254-1,7,fito,fito,[],,['chan2019'],,False,False,,1
+plat1254-1-8-1,,plat1254-1,8,valo,valo,[],,['chan2019'],,False,False,,1
+plat1254-1-9-1,,plat1254-1,9,sivy,sivy,[],,['chan2019'],,False,False,,1
+plat1254-1-10-1,,plat1254-1,10,folo,folo,[],,['chan2019'],,False,False,,1
+plat1254-1-11-1,,plat1254-1,11,iraika ambin'ny folo,iraika ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-12-1,,plat1254-1,12,roa ambin'ny folo,roa ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-13-1,,plat1254-1,13,telo ambin'ny folo,telo ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-14-1,,plat1254-1,14,efatra ambin'ny folo,efatra ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-15-1,,plat1254-1,15,dimy ambin'ny folo,dimy ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-16-1,,plat1254-1,16,enima ambin'ny folo,enima ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-17-1,,plat1254-1,17,fito ambin'ny folo,fito ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-18-1,,plat1254-1,18,valo ambin'ny folo,valo ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-19-1,,plat1254-1,19,sivy ambin'ny folo,sivy ambin'ny folo,[],,['chan2019'],,False,False,,1
+plat1254-1-20-1,,plat1254-1,20,roalolo,roalolo,[],,['chan2019'],,False,False,,1
+plat1254-1-21-1,,plat1254-1,21,iraika amby roapolo,iraika amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-22-1,,plat1254-1,22,roa amby roapolo,roa amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-23-1,,plat1254-1,23,telo amby roapolo,telo amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-24-1,,plat1254-1,24,efatra amby roapolo,efatra amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-25-1,,plat1254-1,25,dimy amby roapolo,dimy amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-26-1,,plat1254-1,26,enina amby roapolo,enina amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-27-1,,plat1254-1,27,fito amby roapolo,fito amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-28-1,,plat1254-1,28,valo amby roapolo,valo amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-29-1,,plat1254-1,29,sivy amby roapolo,sivy amby roapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-30-1,,plat1254-1,30,telopolo,telopolo,[],,['chan2019'],,False,False,,1
+plat1254-1-40-1,,plat1254-1,40,efapolo,efapolo,[],,['chan2019'],,False,False,,1
+plat1254-1-50-1,,plat1254-1,50,dimampolo,dimampolo,[],,['chan2019'],,False,False,,1
+plat1254-1-60-1,,plat1254-1,60,enimpolo,enimpolo,[],,['chan2019'],,False,False,,1
+plat1254-1-70-1,,plat1254-1,70,fitompolo,fitompolo,[],,['chan2019'],,False,False,,1
+plat1254-1-80-1,,plat1254-1,80,valopolo,valopolo,[],,['chan2019'],,False,False,,1
+plat1254-1-90-1,,plat1254-1,90,sivampolo,sivampolo,[],,['chan2019'],,False,False,,1
+plat1254-1-100-1,,plat1254-1,100,zato,zato,[],,['chan2019'],,False,False,,1
+plat1254-1-200-1,,plat1254-1,200,roanjato,roanjato,[],,['chan2019'],,False,False,,1
+plat1254-1-1000-1,,plat1254-1,1000,harivo,harivo,[],,['chan2019'],,False,False,,1
+plat1254-1-2000-1,,plat1254-1,2000,roa harivo,roa harivo,[],,['chan2019'],,False,False,,1

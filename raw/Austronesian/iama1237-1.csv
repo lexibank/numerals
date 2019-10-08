@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-iama1237-1-1-1,,iama1237-1,1,ʔaitamoɡana,ʔaitamoɡana,[],,[],,False,False,,1
-iama1237-1-2-1,,iama1237-1,2,ʔailuɡa,ʔailuɡa,[],,[],,False,False,,1
-iama1237-1-3-1,,iama1237-1,3,ʔaitonu,ʔaitonu,[],,[],,False,False,,1
-iama1237-1-4-1,,iama1237-1,4,maʔana ʔau maʔana ʔau,maʔana ʔau maʔana ʔau,[],"(litː 'with its partner, with its partner' )",[],,False,False,,1
-iama1237-1-5-1,,iama1237-1,5,nima vaiʔai,nima vaiʔai,[],( lit: 'hand on one side' ),[],,False,False,,1
-iama1237-1-6-1,,iama1237-1,6,viʔineɡi damana,viʔineɡi damana,[],( litː 'from one side it goes across' ),[],,False,False,,1
-iama1237-1-7-1,,iama1237-1,7,i damanaʔailuɡa i ʔewadi,i damanaʔailuɡa i ʔewadi,[],"( litː 'goes across, take two' )",[],,False,False,,1
-iama1237-1-8-1,,iama1237-1,8,i damana ʔaitonu i ʔewadi,i damana ʔaitonu i ʔewadi,[],"( litː 'goes across, take three' )",[],,False,False,,1
-iama1237-1-9-1,,iama1237-1,9,i damana maʔana ʔau maʔana ʔau i ʔewadi,i damana maʔana ʔau maʔana ʔau i ʔewadi,[],"( litː 'goes across, take four' )",[],,False,False,,1
-iama1237-1-10-1,,iama1237-1,10,a bai ʔa ʔavai,a bai ʔa ʔavai,[],(litː 'I break my fist completely' ),[],,False,False,,1
+iama1237-1-1-1,,iama1237-1,1,ʔaitamoɡana,ʔaitamoɡana,[],,['chan2019'],,False,False,,1
+iama1237-1-2-1,,iama1237-1,2,ʔailuɡa,ʔailuɡa,[],,['chan2019'],,False,False,,1
+iama1237-1-3-1,,iama1237-1,3,ʔaitonu,ʔaitonu,[],,['chan2019'],,False,False,,1
+iama1237-1-4-1,,iama1237-1,4,maʔana ʔau maʔana ʔau,maʔana ʔau maʔana ʔau,[],"(litː 'with its partner, with its partner' )",['chan2019'],,False,False,,1
+iama1237-1-5-1,,iama1237-1,5,nima vaiʔai,nima vaiʔai,[],( lit: 'hand on one side' ),['chan2019'],,False,False,,1
+iama1237-1-6-1,,iama1237-1,6,viʔineɡi damana,viʔineɡi damana,[],( litː 'from one side it goes across' ),['chan2019'],,False,False,,1
+iama1237-1-7-1,,iama1237-1,7,i damanaʔailuɡa i ʔewadi,i damanaʔailuɡa i ʔewadi,[],"( litː 'goes across, take two' )",['chan2019'],,False,False,,1
+iama1237-1-8-1,,iama1237-1,8,i damana ʔaitonu i ʔewadi,i damana ʔaitonu i ʔewadi,[],"( litː 'goes across, take three' )",['chan2019'],,False,False,,1
+iama1237-1-9-1,,iama1237-1,9,i damana maʔana ʔau maʔana ʔau i ʔewadi,i damana maʔana ʔau maʔana ʔau i ʔewadi,[],"( litː 'goes across, take four' )",['chan2019'],,False,False,,1
+iama1237-1-10-1,,iama1237-1,10,a bai ʔa ʔavai,a bai ʔa ʔavai,[],(litː 'I break my fist completely' ),['chan2019'],,False,False,,1

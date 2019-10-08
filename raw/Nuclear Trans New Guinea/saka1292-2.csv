@@ -1,19 +1,19 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-saka1292-2-1-1,,saka1292-2,1,kuwaran,kuwaran,[],,[],,False,False,,2
-saka1292-2-2-1,,saka1292-2,2,danggan,danggan,[],,[],,False,False,,2
-saka1292-2-3-1,,saka1292-2,3,kailpu,kailpu,[],,[],,False,False,,2
-saka1292-2-4-1,,saka1292-2,4,danggan danggan,danggan danggan,[],,[],,False,False,,2
-saka1292-2-5-1,,saka1292-2,5,kaibue kuwoku,kaibue kuwoku,[],(litː 'hand side'),[],,False,False,,2
-saka1292-2-6-1,,saka1292-2,6,paijang kuwe,paijang kuwe,[],(litː 'other side one'),[],,False,False,,2
-saka1292-2-7-1,,saka1292-2,7,paijang danggan,paijang danggan,[],,[],,False,False,,2
-saka1292-2-8-1,,saka1292-2,8,paijang kailpu,paijang kailpu,[],,[],,False,False,,2
-saka1292-2-9-1,,saka1292-2,9,paijang dangan dangan,paijang dangan dangan,[],,[],,False,False,,2
-saka1292-2-10-1,,saka1292-2,10,kaibukuo kumen kaibukuo kumen,kaibukuo kumen kaibukuo kumen,[],(litː 'hand hand'),[],,False,False,,2
-saka1292-2-11-1,,saka1292-2,11,tailma kuwe,tailma kuwe,[],(litː 'nose one'),[],,False,False,,2
-saka1292-2-12-1,,saka1292-2,12,tailma dangge,tailma dangge,[],(litː 'nose two'),[],,False,False,,2
-saka1292-2-13-1,,saka1292-2,13,koljang kuwoku kuwe,koljang kuwoku kuwe,[],,[],,False,False,,2
-saka1292-2-14-1,,saka1292-2,14,koljang kuwoku danggan,koljang kuwoku danggan,[],,[],,False,False,,2
-saka1292-2-15-1,,saka1292-2,15,koljang kuwoku kailpu,koljang kuwoku kailpu,[],,[],,False,False,,2
-saka1292-2-16-1,,saka1292-2,16,koljang kuwoku danggan danggan,koljang kuwoku danggan danggan,[],,[],,False,False,,2
-saka1292-2-17-1,,saka1292-2,17,koljang kuwoku komen,koljang kuwoku komen,[],,[],,False,False,,2
-saka1292-2-22-1,,saka1292-2,22,koljang kulmen,koljang kulmen,[],,[],,False,False,,2
+saka1292-2-1-1,,saka1292-2,1,kuwaran,kuwaran,[],,['chan2019'],,False,False,,2
+saka1292-2-2-1,,saka1292-2,2,danggan,danggan,[],,['chan2019'],,False,False,,2
+saka1292-2-3-1,,saka1292-2,3,kailpu,kailpu,[],,['chan2019'],,False,False,,2
+saka1292-2-4-1,,saka1292-2,4,danggan danggan,danggan danggan,[],,['chan2019'],,False,False,,2
+saka1292-2-5-1,,saka1292-2,5,kaibue kuwoku,kaibue kuwoku,[],(litː 'hand side'),['chan2019'],,False,False,,2
+saka1292-2-6-1,,saka1292-2,6,paijang kuwe,paijang kuwe,[],(litː 'other side one'),['chan2019'],,False,False,,2
+saka1292-2-7-1,,saka1292-2,7,paijang danggan,paijang danggan,[],,['chan2019'],,False,False,,2
+saka1292-2-8-1,,saka1292-2,8,paijang kailpu,paijang kailpu,[],,['chan2019'],,False,False,,2
+saka1292-2-9-1,,saka1292-2,9,paijang dangan dangan,paijang dangan dangan,[],,['chan2019'],,False,False,,2
+saka1292-2-10-1,,saka1292-2,10,kaibukuo kumen kaibukuo kumen,kaibukuo kumen kaibukuo kumen,[],(litː 'hand hand'),['chan2019'],,False,False,,2
+saka1292-2-11-1,,saka1292-2,11,tailma kuwe,tailma kuwe,[],(litː 'nose one'),['chan2019'],,False,False,,2
+saka1292-2-12-1,,saka1292-2,12,tailma dangge,tailma dangge,[],(litː 'nose two'),['chan2019'],,False,False,,2
+saka1292-2-13-1,,saka1292-2,13,koljang kuwoku kuwe,koljang kuwoku kuwe,[],,['chan2019'],,False,False,,2
+saka1292-2-14-1,,saka1292-2,14,koljang kuwoku danggan,koljang kuwoku danggan,[],,['chan2019'],,False,False,,2
+saka1292-2-15-1,,saka1292-2,15,koljang kuwoku kailpu,koljang kuwoku kailpu,[],,['chan2019'],,False,False,,2
+saka1292-2-16-1,,saka1292-2,16,koljang kuwoku danggan danggan,koljang kuwoku danggan danggan,[],,['chan2019'],,False,False,,2
+saka1292-2-17-1,,saka1292-2,17,koljang kuwoku komen,koljang kuwoku komen,[],,['chan2019'],,False,False,,2
+saka1292-2-22-1,,saka1292-2,22,koljang kulmen,koljang kulmen,[],,['chan2019'],,False,False,,2

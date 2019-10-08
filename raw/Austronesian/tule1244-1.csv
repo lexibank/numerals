@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tule1244-1-1-1,,tule1244-1,1,sane,sane,[],,[],,False,False,,1
-tule1244-1-2-1,,tule1244-1,2,rua,rua,[],,[],,False,False,,1
-tule1244-1-3-1,,tule1244-1,3,teru,teru,[],,[],,False,False,,1
-tule1244-1-4-1,,tule1244-1,4,hane,hane,[],,[],,False,False,,1
-tule1244-1-5-1,,tule1244-1,5,rima,rima,[],,[],,False,False,,1
-tule1244-1-6-1,,tule1244-1,6,nena,nena,[],,[],,False,False,,1
-tule1244-1-7-1,,tule1244-1,7,itu,itu,[],,[],,False,False,,1
-tule1244-1-8-1,,tule1244-1,8,waru,waru,[],,[],,False,False,,1
-tule1244-1-9-1,,tule1244-1,9,siya,siya,[],,[],,False,False,,1
-tule1244-1-10-1,,tule1244-1,10,husa,husa,[],,[],,False,False,,1
-tule1244-1-11-1,,tule1244-1,11,husa elari,husa elari,[],,[],,False,False,,1
-tule1244-1-12-1,,tule1244-1,12,husa elarua,husa elarua,[],,[],,False,False,,1
-tule1244-1-13-1,,tule1244-1,13,husa elateru,husa elateru,[],,[],,False,False,,1
-tule1244-1-14-1,,tule1244-1,14,husa elahane,husa elahane,[],,[],,False,False,,1
-tule1244-1-15-1,,tule1244-1,15,husa elarima,husa elarima,[],,[],,False,False,,1
-tule1244-1-16-1,,tule1244-1,16,husa elanena,husa elanena,[],,[],,False,False,,1
-tule1244-1-17-1,,tule1244-1,17,husa elaʔitu,husa elaʔitu,[],,[],,False,False,,1
-tule1244-1-18-1,,tule1244-1,18,husa elawaru,husa elawaru,[],,[],,False,False,,1
-tule1244-1-19-1,,tule1244-1,19,husa elasiya,husa elasiya,[],,[],,False,False,,1
-tule1244-1-20-1,,tule1244-1,20,hutu rua,hutu rua,[],,[],,False,False,,1
-tule1244-1-21-1,,tule1244-1,21,hutu rua elari,hutu rua elari,[],,[],,False,False,,1
-tule1244-1-22-1,,tule1244-1,22,hutu rua elarua,hutu rua elarua,[],,[],,False,False,,1
-tule1244-1-23-1,,tule1244-1,23,hutu rua elateru,hutu rua elateru,[],,[],,False,False,,1
-tule1244-1-24-1,,tule1244-1,24,hutu rua elahane,hutu rua elahane,[],,[],,False,False,,1
-tule1244-1-25-1,,tule1244-1,25,hutu rua elarima,hutu rua elarima,[],,[],,False,False,,1
-tule1244-1-26-1,,tule1244-1,26,hutu rua elanena,hutu rua elanena,[],,[],,False,False,,1
-tule1244-1-27-1,,tule1244-1,27,hutu rua elaʔitu,hutu rua elaʔitu,[],,[],,False,False,,1
-tule1244-1-28-1,,tule1244-1,28,hutu rua elawaru,hutu rua elawaru,[],,[],,False,False,,1
-tule1244-1-29-1,,tule1244-1,29,hutu rua elasiya,hutu rua elasiya,[],,[],,False,False,,1
-tule1244-1-30-1,,tule1244-1,30,huteru,huteru,[],,[],,False,False,,1
-tule1244-1-40-1,,tule1244-1,40,hutu hane,hutu hane,[],,[],,False,False,,1
-tule1244-1-50-1,,tule1244-1,50,hutu rima,hutu rima,[],,[],,False,False,,1
-tule1244-1-60-1,,tule1244-1,60,hutu nena,hutu nena,[],,[],,False,False,,1
-tule1244-1-70-1,,tule1244-1,70,hutu itu,hutu itu,[],,[],,False,False,,1
-tule1244-1-80-1,,tule1244-1,80,hutu waru,hutu waru,[],,[],,False,False,,1
-tule1244-1-90-1,,tule1244-1,90,hutu siya,hutu siya,[],,[],,False,False,,1
-tule1244-1-100-1,,tule1244-1,100,utunari,utunari,[],,[],,False,False,,1
-tule1244-1-200-1,,tule1244-1,200,utun rua,utun rua,[],,[],,False,False,,1
-tule1244-1-1000-1,,tule1244-1,1000,usaʔari,usaʔari,[],,[],,False,False,,1
-tule1244-1-2000-1,,tule1244-1,2000,usa rua,usa rua,[],,[],,False,False,,1
+tule1244-1-1-1,,tule1244-1,1,sane,sane,[],,['chan2019'],,False,False,,1
+tule1244-1-2-1,,tule1244-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+tule1244-1-3-1,,tule1244-1,3,teru,teru,[],,['chan2019'],,False,False,,1
+tule1244-1-4-1,,tule1244-1,4,hane,hane,[],,['chan2019'],,False,False,,1
+tule1244-1-5-1,,tule1244-1,5,rima,rima,[],,['chan2019'],,False,False,,1
+tule1244-1-6-1,,tule1244-1,6,nena,nena,[],,['chan2019'],,False,False,,1
+tule1244-1-7-1,,tule1244-1,7,itu,itu,[],,['chan2019'],,False,False,,1
+tule1244-1-8-1,,tule1244-1,8,waru,waru,[],,['chan2019'],,False,False,,1
+tule1244-1-9-1,,tule1244-1,9,siya,siya,[],,['chan2019'],,False,False,,1
+tule1244-1-10-1,,tule1244-1,10,husa,husa,[],,['chan2019'],,False,False,,1
+tule1244-1-11-1,,tule1244-1,11,husa elari,husa elari,[],,['chan2019'],,False,False,,1
+tule1244-1-12-1,,tule1244-1,12,husa elarua,husa elarua,[],,['chan2019'],,False,False,,1
+tule1244-1-13-1,,tule1244-1,13,husa elateru,husa elateru,[],,['chan2019'],,False,False,,1
+tule1244-1-14-1,,tule1244-1,14,husa elahane,husa elahane,[],,['chan2019'],,False,False,,1
+tule1244-1-15-1,,tule1244-1,15,husa elarima,husa elarima,[],,['chan2019'],,False,False,,1
+tule1244-1-16-1,,tule1244-1,16,husa elanena,husa elanena,[],,['chan2019'],,False,False,,1
+tule1244-1-17-1,,tule1244-1,17,husa elaʔitu,husa elaʔitu,[],,['chan2019'],,False,False,,1
+tule1244-1-18-1,,tule1244-1,18,husa elawaru,husa elawaru,[],,['chan2019'],,False,False,,1
+tule1244-1-19-1,,tule1244-1,19,husa elasiya,husa elasiya,[],,['chan2019'],,False,False,,1
+tule1244-1-20-1,,tule1244-1,20,hutu rua,hutu rua,[],,['chan2019'],,False,False,,1
+tule1244-1-21-1,,tule1244-1,21,hutu rua elari,hutu rua elari,[],,['chan2019'],,False,False,,1
+tule1244-1-22-1,,tule1244-1,22,hutu rua elarua,hutu rua elarua,[],,['chan2019'],,False,False,,1
+tule1244-1-23-1,,tule1244-1,23,hutu rua elateru,hutu rua elateru,[],,['chan2019'],,False,False,,1
+tule1244-1-24-1,,tule1244-1,24,hutu rua elahane,hutu rua elahane,[],,['chan2019'],,False,False,,1
+tule1244-1-25-1,,tule1244-1,25,hutu rua elarima,hutu rua elarima,[],,['chan2019'],,False,False,,1
+tule1244-1-26-1,,tule1244-1,26,hutu rua elanena,hutu rua elanena,[],,['chan2019'],,False,False,,1
+tule1244-1-27-1,,tule1244-1,27,hutu rua elaʔitu,hutu rua elaʔitu,[],,['chan2019'],,False,False,,1
+tule1244-1-28-1,,tule1244-1,28,hutu rua elawaru,hutu rua elawaru,[],,['chan2019'],,False,False,,1
+tule1244-1-29-1,,tule1244-1,29,hutu rua elasiya,hutu rua elasiya,[],,['chan2019'],,False,False,,1
+tule1244-1-30-1,,tule1244-1,30,huteru,huteru,[],,['chan2019'],,False,False,,1
+tule1244-1-40-1,,tule1244-1,40,hutu hane,hutu hane,[],,['chan2019'],,False,False,,1
+tule1244-1-50-1,,tule1244-1,50,hutu rima,hutu rima,[],,['chan2019'],,False,False,,1
+tule1244-1-60-1,,tule1244-1,60,hutu nena,hutu nena,[],,['chan2019'],,False,False,,1
+tule1244-1-70-1,,tule1244-1,70,hutu itu,hutu itu,[],,['chan2019'],,False,False,,1
+tule1244-1-80-1,,tule1244-1,80,hutu waru,hutu waru,[],,['chan2019'],,False,False,,1
+tule1244-1-90-1,,tule1244-1,90,hutu siya,hutu siya,[],,['chan2019'],,False,False,,1
+tule1244-1-100-1,,tule1244-1,100,utunari,utunari,[],,['chan2019'],,False,False,,1
+tule1244-1-200-1,,tule1244-1,200,utun rua,utun rua,[],,['chan2019'],,False,False,,1
+tule1244-1-1000-1,,tule1244-1,1000,usaʔari,usaʔari,[],,['chan2019'],,False,False,,1
+tule1244-1-2000-1,,tule1244-1,2000,usa rua,usa rua,[],,['chan2019'],,False,False,,1

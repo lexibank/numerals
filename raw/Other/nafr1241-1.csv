@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nafr1241-1-1-1,,nafr1241-1,1,mbɛ,mbɛ,[],,[],,False,False,,1
-nafr1241-1-2-1,,nafr1241-1,2,bɛʔɛ,bɛʔɛ,[],,[],,False,False,,1
-nafr1241-1-2-2,,nafr1241-1,2,'bɛyɛʔ,'bɛyɛʔ,[],,[],,False,False,,1
-nafr1241-1-3-1,,nafr1241-1,3,'namɛ,'namɛ,[],,[],,False,False,,1
-nafr1241-1-4-1,,nafr1241-1,4,'sɑriʔ,'sɑriʔ,[],,[],,False,False,,1
-nafr1241-1-5-1,,nafr1241-1,5,'mɔ̃mbɛ,'mɔ̃mbɛ,[],,[],,False,False,,1
-nafr1241-1-6-1,,nafr1241-1,6,mis'nembɛ,mis'nembɛ,[],,[],,False,False,,1
-nafr1241-1-7-1,,nafr1241-1,7,bɛɾbɑ'sɑɾibi,bɛɾbɑ'sɑɾibi,[],,[],,False,False,,1
-nafr1241-1-8-1,,nafr1241-1,8,sa'ɾibi,sa'ɾibi,[],,[],,False,False,,1
-nafr1241-1-9-1,,nafr1241-1,9,saɾibi 'sembe,saɾibi 'sembe,[],,[],,False,False,,1
-nafr1241-1-10-1,,nafr1241-1,10,saɾibi sebe,saɾibi sebe,[],,[],,False,False,,1
+nafr1241-1-1-1,,nafr1241-1,1,mbɛ,mbɛ,[],,['chan2019'],,False,False,,1
+nafr1241-1-2-1,,nafr1241-1,2,bɛʔɛ,bɛʔɛ,[],,['chan2019'],,False,False,,1
+nafr1241-1-2-2,,nafr1241-1,2,'bɛyɛʔ,'bɛyɛʔ,[],,['chan2019'],,False,False,,1
+nafr1241-1-3-1,,nafr1241-1,3,'namɛ,'namɛ,[],,['chan2019'],,False,False,,1
+nafr1241-1-4-1,,nafr1241-1,4,'sɑriʔ,'sɑriʔ,[],,['chan2019'],,False,False,,1
+nafr1241-1-5-1,,nafr1241-1,5,'mɔ̃mbɛ,'mɔ̃mbɛ,[],,['chan2019'],,False,False,,1
+nafr1241-1-6-1,,nafr1241-1,6,mis'nembɛ,mis'nembɛ,[],,['chan2019'],,False,False,,1
+nafr1241-1-7-1,,nafr1241-1,7,bɛɾbɑ'sɑɾibi,bɛɾbɑ'sɑɾibi,[],,['chan2019'],,False,False,,1
+nafr1241-1-8-1,,nafr1241-1,8,sa'ɾibi,sa'ɾibi,[],,['chan2019'],,False,False,,1
+nafr1241-1-9-1,,nafr1241-1,9,saɾibi 'sembe,saɾibi 'sembe,[],,['chan2019'],,False,False,,1
+nafr1241-1-10-1,,nafr1241-1,10,saɾibi sebe,saɾibi sebe,[],,['chan2019'],,False,False,,1

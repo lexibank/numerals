@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mach1267-1-1-1,,mach1267-1,1,'pa.ni.ɾo,'pa.ni.ɾo,[],( animate),[],,False,False,,1
-mach1267-1-1-2,,mach1267-1,1,'pa.ti.ɾo,'pa.ti.ɾo,[],(inanimate ),[],,False,False,,1
-mach1267-1-2-1,,mach1267-1,2,'pi.tɛ.ni,'pi.tɛ.ni,[],( animate),[],,False,False,,1
-mach1267-1-2-2,,mach1267-1,2,'pi.tɛ.ti,'pi.tɛ.ti,[],(inanimate ),[],,False,False,,1
-mach1267-1-3-1,,mach1267-1,3,'ma.ba.ni,'ma.ba.ni,[],( animate),[],,False,False,,1
-mach1267-1-3-2,,mach1267-1,3,'ma.ba.ti (inanimate ) for three or so,'ma.ba.ti (inanimate ) for three or so,[],,[],,False,True,,1
-mach1267-1-3-3,,mach1267-1,3,or several,or several,[],,[],,False,True,,1
+mach1267-1-1-1,,mach1267-1,1,'pa.ni.ɾo,'pa.ni.ɾo,[],( animate),['chan2019'],,False,False,,1
+mach1267-1-1-2,,mach1267-1,1,'pa.ti.ɾo,'pa.ti.ɾo,[],(inanimate ),['chan2019'],,False,False,,1
+mach1267-1-2-1,,mach1267-1,2,'pi.tɛ.ni,'pi.tɛ.ni,[],( animate),['chan2019'],,False,False,,1
+mach1267-1-2-2,,mach1267-1,2,'pi.tɛ.ti,'pi.tɛ.ti,[],(inanimate ),['chan2019'],,False,False,,1
+mach1267-1-3-1,,mach1267-1,3,'ma.ba.ni,'ma.ba.ni,[],( animate),['chan2019'],,False,False,,1
+mach1267-1-3-2,,mach1267-1,3,'ma.ba.ti (inanimate ) for three or so,'ma.ba.ti (inanimate ) for three or so,[],,['chan2019'],,False,True,,1
+mach1267-1-3-3,,mach1267-1,3,or several,or several,[],,['chan2019'],,False,True,,1

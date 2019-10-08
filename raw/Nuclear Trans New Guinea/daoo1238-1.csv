@@ -1,36 +1,36 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-daoo1238-1-1-1,,daoo1238-1,1,ona,ona,[],,[],,False,False,,1
-daoo1238-1-2-1,,daoo1238-1,2,wiya,wiya,[],,[],,False,False,,1
-daoo1238-1-3-1,,daoo1238-1,3,wido,wido,[],,[],,False,False,,1
-daoo1238-1-4-1,,daoo1238-1,4,wui,wui,[],,[],,False,False,,1
-daoo1238-1-5-1,,daoo1238-1,5,edibi,edibi,[],,[],,False,False,,1
-daoo1238-1-6-1,,daoo1238-1,6,bidimi,bidimi,[],,[],,False,False,,1
-daoo1238-1-7-1,,daoo1238-1,7,dada,dada,[],,[],,False,False,,1
-daoo1238-1-8-1,,daoo1238-1,8,waɡoo,waɡoo,[],,[],,False,False,,1
-daoo1238-1-9-1,,daoo1238-1,9,iyee,iyee,[],,[],,False,False,,1
-daoo1238-1-10-1,,daoo1238-1,10,kaas,kaas,[],,[],,False,False,,1
-daoo1238-1-11-1,,daoo1238-1,11,kaas kumaana bado ka oto,kaas kumaana bado ka oto,[],,[],,False,False,,1
-daoo1238-1-12-1,,daoo1238-1,12,kaas kumaana bado ka wiya,kaas kumaana bado ka wiya,[],,[],,False,False,,1
-daoo1238-1-13-1,,daoo1238-1,13,kaas kumaana bado ka wido,kaas kumaana bado ka wido,[],,[],,False,False,,1
-daoo1238-1-14-1,,daoo1238-1,14,kaas kumaana bado ka wui,kaas kumaana bado ka wui,[],,[],,False,False,,1
-daoo1238-1-15-1,,daoo1238-1,15,kaas kumaana bado ka edibi,kaas kumaana bado ka edibi,[],,[],,False,False,,1
-daoo1238-1-16-1,,daoo1238-1,16,kaas kumaana bado ka bidimi,kaas kumaana bado ka bidimi,[],,[],,False,False,,1
-daoo1238-1-17-1,,daoo1238-1,17,kaas kumaana bado ka dada,kaas kumaana bado ka dada,[],,[],,False,False,,1
-daoo1238-1-18-1,,daoo1238-1,18,kaas kumaana bado ka waɡoo,kaas kumaana bado ka waɡoo,[],,[],,False,False,,1
-daoo1238-1-19-1,,daoo1238-1,19,kaas kumaana bado ka iyee,kaas kumaana bado ka iyee,[],,[],,False,False,,1
-daoo1238-1-20-1,,daoo1238-1,20,mee oto,mee oto,[],,[],,False,False,,1
-daoo1238-1-21-1,,daoo1238-1,21,mee na ka oto,mee na ka oto,[],,[],,False,False,,1
-daoo1238-1-22-1,,daoo1238-1,22,mee na ka wiya,mee na ka wiya,[],,[],,False,False,,1
-daoo1238-1-23-1,,daoo1238-1,23,mee na ka wido,mee na ka wido,[],,[],,False,False,,1
-daoo1238-1-24-1,,daoo1238-1,24,mee na ka wui,mee na ka wui,[],,[],,False,False,,1
-daoo1238-1-25-1,,daoo1238-1,25,mee na ka edibi,mee na ka edibi,[],,[],,False,False,,1
-daoo1238-1-26-1,,daoo1238-1,26,mee na ka bidimi,mee na ka bidimi,[],,[],,False,False,,1
-daoo1238-1-27-1,,daoo1238-1,27,mee na ka dada,mee na ka dada,[],,[],,False,False,,1
-daoo1238-1-28-1,,daoo1238-1,28,mee na ka waɡoo,mee na ka waɡoo,[],,[],,False,False,,1
-daoo1238-1-29-1,,daoo1238-1,29,mee na ka iyee,mee na ka iyee,[],,[],,False,False,,1
-daoo1238-1-30-1,,daoo1238-1,30,mee na ka kaas,mee na ka kaas,[],,[],,False,False,,1
-daoo1238-1-40-1,,daoo1238-1,40,mee wia,mee wia,[],,[],,False,False,,1
-daoo1238-1-50-1,,daoo1238-1,50,mee wia,mee wia,[],,[],,False,False,,1
-daoo1238-1-50-2,,daoo1238-1,50,mee na ka kaas,mee na ka kaas,[],,[],,False,False,,1
-daoo1238-1-100-1,,daoo1238-1,100,mee edibi,mee edibi,[],,[],,False,False,,1
-daoo1238-1-400-1,,daoo1238-1,400,mee edibi,mee edibi,[],,[],,False,False,,1
+daoo1238-1-1-1,,daoo1238-1,1,ona,ona,[],,['chan2019'],,False,False,,1
+daoo1238-1-2-1,,daoo1238-1,2,wiya,wiya,[],,['chan2019'],,False,False,,1
+daoo1238-1-3-1,,daoo1238-1,3,wido,wido,[],,['chan2019'],,False,False,,1
+daoo1238-1-4-1,,daoo1238-1,4,wui,wui,[],,['chan2019'],,False,False,,1
+daoo1238-1-5-1,,daoo1238-1,5,edibi,edibi,[],,['chan2019'],,False,False,,1
+daoo1238-1-6-1,,daoo1238-1,6,bidimi,bidimi,[],,['chan2019'],,False,False,,1
+daoo1238-1-7-1,,daoo1238-1,7,dada,dada,[],,['chan2019'],,False,False,,1
+daoo1238-1-8-1,,daoo1238-1,8,waɡoo,waɡoo,[],,['chan2019'],,False,False,,1
+daoo1238-1-9-1,,daoo1238-1,9,iyee,iyee,[],,['chan2019'],,False,False,,1
+daoo1238-1-10-1,,daoo1238-1,10,kaas,kaas,[],,['chan2019'],,False,False,,1
+daoo1238-1-11-1,,daoo1238-1,11,kaas kumaana bado ka oto,kaas kumaana bado ka oto,[],,['chan2019'],,False,False,,1
+daoo1238-1-12-1,,daoo1238-1,12,kaas kumaana bado ka wiya,kaas kumaana bado ka wiya,[],,['chan2019'],,False,False,,1
+daoo1238-1-13-1,,daoo1238-1,13,kaas kumaana bado ka wido,kaas kumaana bado ka wido,[],,['chan2019'],,False,False,,1
+daoo1238-1-14-1,,daoo1238-1,14,kaas kumaana bado ka wui,kaas kumaana bado ka wui,[],,['chan2019'],,False,False,,1
+daoo1238-1-15-1,,daoo1238-1,15,kaas kumaana bado ka edibi,kaas kumaana bado ka edibi,[],,['chan2019'],,False,False,,1
+daoo1238-1-16-1,,daoo1238-1,16,kaas kumaana bado ka bidimi,kaas kumaana bado ka bidimi,[],,['chan2019'],,False,False,,1
+daoo1238-1-17-1,,daoo1238-1,17,kaas kumaana bado ka dada,kaas kumaana bado ka dada,[],,['chan2019'],,False,False,,1
+daoo1238-1-18-1,,daoo1238-1,18,kaas kumaana bado ka waɡoo,kaas kumaana bado ka waɡoo,[],,['chan2019'],,False,False,,1
+daoo1238-1-19-1,,daoo1238-1,19,kaas kumaana bado ka iyee,kaas kumaana bado ka iyee,[],,['chan2019'],,False,False,,1
+daoo1238-1-20-1,,daoo1238-1,20,mee oto,mee oto,[],,['chan2019'],,False,False,,1
+daoo1238-1-21-1,,daoo1238-1,21,mee na ka oto,mee na ka oto,[],,['chan2019'],,False,False,,1
+daoo1238-1-22-1,,daoo1238-1,22,mee na ka wiya,mee na ka wiya,[],,['chan2019'],,False,False,,1
+daoo1238-1-23-1,,daoo1238-1,23,mee na ka wido,mee na ka wido,[],,['chan2019'],,False,False,,1
+daoo1238-1-24-1,,daoo1238-1,24,mee na ka wui,mee na ka wui,[],,['chan2019'],,False,False,,1
+daoo1238-1-25-1,,daoo1238-1,25,mee na ka edibi,mee na ka edibi,[],,['chan2019'],,False,False,,1
+daoo1238-1-26-1,,daoo1238-1,26,mee na ka bidimi,mee na ka bidimi,[],,['chan2019'],,False,False,,1
+daoo1238-1-27-1,,daoo1238-1,27,mee na ka dada,mee na ka dada,[],,['chan2019'],,False,False,,1
+daoo1238-1-28-1,,daoo1238-1,28,mee na ka waɡoo,mee na ka waɡoo,[],,['chan2019'],,False,False,,1
+daoo1238-1-29-1,,daoo1238-1,29,mee na ka iyee,mee na ka iyee,[],,['chan2019'],,False,False,,1
+daoo1238-1-30-1,,daoo1238-1,30,mee na ka kaas,mee na ka kaas,[],,['chan2019'],,False,False,,1
+daoo1238-1-40-1,,daoo1238-1,40,mee wia,mee wia,[],,['chan2019'],,False,False,,1
+daoo1238-1-50-1,,daoo1238-1,50,mee wia,mee wia,[],,['chan2019'],,False,False,,1
+daoo1238-1-50-2,,daoo1238-1,50,mee na ka kaas,mee na ka kaas,[],,['chan2019'],,False,False,,1
+daoo1238-1-100-1,,daoo1238-1,100,mee edibi,mee edibi,[],,['chan2019'],,False,False,,1
+daoo1238-1-400-1,,daoo1238-1,400,mee edibi,mee edibi,[],,['chan2019'],,False,False,,1

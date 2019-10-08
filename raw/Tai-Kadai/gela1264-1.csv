@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gela1264-1-1-1,,gela1264-1,1,tsɿ53,tsɿ53,[],,[],,False,False,,1
-gela1264-1-2-1,,gela1264-1,2,ɬu24,ɬu24,[],,[],,False,False,,1
-gela1264-1-3-1,,gela1264-1,3,ta24,ta24,[],,[],,False,False,,1
-gela1264-1-4-1,,gela1264-1,4,pʰu24,pʰu24,[],,[],,False,False,,1
-gela1264-1-5-1,,gela1264-1,5,mu31,mu31,[],,[],,False,False,,1
-gela1264-1-6-1,,gela1264-1,6,ȵe31,ȵe31,[],,[],,False,False,,1
-gela1264-1-7-1,,gela1264-1,7,sau31,sau31,[],,[],,False,False,,1
-gela1264-1-8-1,,gela1264-1,8,ɣau31,ɣau31,[],,[],,False,False,,1
-gela1264-1-9-1,,gela1264-1,9,so24,so24,[],,[],,False,False,,1
-gela1264-1-10-1,,gela1264-1,10,ve53,ve53,[],,[],,False,False,,1
-gela1264-1-11-1,,gela1264-1,11,ve53ɬe33,ve53ɬe33,[],,[],,False,False,,1
-gela1264-1-12-1,,gela1264-1,12,ve53ɬu24,ve53ɬu24,[],,[],,False,False,,1
-gela1264-1-13-1,,gela1264-1,13,ve53ta24,ve53ta24,[],,[],,False,False,,1
-gela1264-1-14-1,,gela1264-1,14,ve53pʰu24,ve53pʰu24,[],,[],,False,False,,1
-gela1264-1-15-1,,gela1264-1,15,ve53mu31,ve53mu31,[],,[],,False,False,,1
-gela1264-1-16-1,,gela1264-1,16,ve53ȵe31,ve53ȵe31,[],,[],,False,False,,1
-gela1264-1-17-1,,gela1264-1,17,ve53sau31,ve53sau31,[],,[],,False,False,,1
-gela1264-1-18-1,,gela1264-1,18,ve53ɣau31,ve53ɣau31,[],,[],,False,False,,1
-gela1264-1-19-1,,gela1264-1,19,ve53so24,ve53so24,[],,[],,False,False,,1
-gela1264-1-20-1,,gela1264-1,20,ɬu24ve53,ɬu24ve53,[],,[],,False,False,,1
-gela1264-1-21-1,,gela1264-1,21,ɬu24 ve53 ɬe33,ɬu24 ve53 ɬe33,[],,[],,False,False,,1
-gela1264-1-22-1,,gela1264-1,22,ɬu24 ve53 ɬu24,ɬu24 ve53 ɬu24,[],,[],,False,False,,1
-gela1264-1-23-1,,gela1264-1,23,ɬu24 ve53 ta24,ɬu24 ve53 ta24,[],,[],,False,False,,1
-gela1264-1-24-1,,gela1264-1,24,ɬu24 ve53 pʰu24,ɬu24 ve53 pʰu24,[],,[],,False,False,,1
-gela1264-1-25-1,,gela1264-1,25,ɬu24 ve53 mu31,ɬu24 ve53 mu31,[],,[],,False,False,,1
-gela1264-1-26-1,,gela1264-1,26,ɬu24 ve53 ȵe31,ɬu24 ve53 ȵe31,[],,[],,False,False,,1
-gela1264-1-27-1,,gela1264-1,27,ɬu24 ve53 sau31,ɬu24 ve53 sau31,[],,[],,False,False,,1
-gela1264-1-28-1,,gela1264-1,28,ɬu24 ve53 ɣau31,ɬu24 ve53 ɣau31,[],,[],,False,False,,1
-gela1264-1-29-1,,gela1264-1,29,ɬu24 ve53 so24,ɬu24 ve53 so24,[],,[],,False,False,,1
-gela1264-1-30-1,,gela1264-1,30,ta24 ve53,ta24 ve53,[],,[],,False,False,,1
-gela1264-1-40-1,,gela1264-1,40,pʰu24 ve53,pʰu24 ve53,[],,[],,False,False,,1
-gela1264-1-50-1,,gela1264-1,50,mu31 ve53,mu31 ve53,[],,[],,False,False,,1
-gela1264-1-60-1,,gela1264-1,60,ȵe31 ve53,ȵe31 ve53,[],,[],,False,False,,1
-gela1264-1-70-1,,gela1264-1,70,sau31 ve53,sau31 ve53,[],,[],,False,False,,1
-gela1264-1-80-1,,gela1264-1,80,ɣau31 ve53,ɣau31 ve53,[],,[],,False,False,,1
-gela1264-1-90-1,,gela1264-1,90,so24 ve53,so24 ve53,[],,[],,False,False,,1
-gela1264-1-100-1,,gela1264-1,100,tsɿ53ze31,tsɿ53ze31,[],,[],,False,False,,1
-gela1264-1-200-1,,gela1264-1,200,ɬu24ze31,ɬu24ze31,[],,[],,False,False,,1
-gela1264-1-1000-1,,gela1264-1,1000,tsɿ53 seŋ24,tsɿ53 seŋ24,[],,[],,False,False,,1
-gela1264-1-2000-1,,gela1264-1,2000,ɬu24 seŋ24,ɬu24 seŋ24,[],,[],,False,False,,1
+gela1264-1-1-1,,gela1264-1,1,tsɿ53,tsɿ53,[],,['chan2019'],,False,False,,1
+gela1264-1-2-1,,gela1264-1,2,ɬu24,ɬu24,[],,['chan2019'],,False,False,,1
+gela1264-1-3-1,,gela1264-1,3,ta24,ta24,[],,['chan2019'],,False,False,,1
+gela1264-1-4-1,,gela1264-1,4,pʰu24,pʰu24,[],,['chan2019'],,False,False,,1
+gela1264-1-5-1,,gela1264-1,5,mu31,mu31,[],,['chan2019'],,False,False,,1
+gela1264-1-6-1,,gela1264-1,6,ȵe31,ȵe31,[],,['chan2019'],,False,False,,1
+gela1264-1-7-1,,gela1264-1,7,sau31,sau31,[],,['chan2019'],,False,False,,1
+gela1264-1-8-1,,gela1264-1,8,ɣau31,ɣau31,[],,['chan2019'],,False,False,,1
+gela1264-1-9-1,,gela1264-1,9,so24,so24,[],,['chan2019'],,False,False,,1
+gela1264-1-10-1,,gela1264-1,10,ve53,ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-11-1,,gela1264-1,11,ve53ɬe33,ve53ɬe33,[],,['chan2019'],,False,False,,1
+gela1264-1-12-1,,gela1264-1,12,ve53ɬu24,ve53ɬu24,[],,['chan2019'],,False,False,,1
+gela1264-1-13-1,,gela1264-1,13,ve53ta24,ve53ta24,[],,['chan2019'],,False,False,,1
+gela1264-1-14-1,,gela1264-1,14,ve53pʰu24,ve53pʰu24,[],,['chan2019'],,False,False,,1
+gela1264-1-15-1,,gela1264-1,15,ve53mu31,ve53mu31,[],,['chan2019'],,False,False,,1
+gela1264-1-16-1,,gela1264-1,16,ve53ȵe31,ve53ȵe31,[],,['chan2019'],,False,False,,1
+gela1264-1-17-1,,gela1264-1,17,ve53sau31,ve53sau31,[],,['chan2019'],,False,False,,1
+gela1264-1-18-1,,gela1264-1,18,ve53ɣau31,ve53ɣau31,[],,['chan2019'],,False,False,,1
+gela1264-1-19-1,,gela1264-1,19,ve53so24,ve53so24,[],,['chan2019'],,False,False,,1
+gela1264-1-20-1,,gela1264-1,20,ɬu24ve53,ɬu24ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-21-1,,gela1264-1,21,ɬu24 ve53 ɬe33,ɬu24 ve53 ɬe33,[],,['chan2019'],,False,False,,1
+gela1264-1-22-1,,gela1264-1,22,ɬu24 ve53 ɬu24,ɬu24 ve53 ɬu24,[],,['chan2019'],,False,False,,1
+gela1264-1-23-1,,gela1264-1,23,ɬu24 ve53 ta24,ɬu24 ve53 ta24,[],,['chan2019'],,False,False,,1
+gela1264-1-24-1,,gela1264-1,24,ɬu24 ve53 pʰu24,ɬu24 ve53 pʰu24,[],,['chan2019'],,False,False,,1
+gela1264-1-25-1,,gela1264-1,25,ɬu24 ve53 mu31,ɬu24 ve53 mu31,[],,['chan2019'],,False,False,,1
+gela1264-1-26-1,,gela1264-1,26,ɬu24 ve53 ȵe31,ɬu24 ve53 ȵe31,[],,['chan2019'],,False,False,,1
+gela1264-1-27-1,,gela1264-1,27,ɬu24 ve53 sau31,ɬu24 ve53 sau31,[],,['chan2019'],,False,False,,1
+gela1264-1-28-1,,gela1264-1,28,ɬu24 ve53 ɣau31,ɬu24 ve53 ɣau31,[],,['chan2019'],,False,False,,1
+gela1264-1-29-1,,gela1264-1,29,ɬu24 ve53 so24,ɬu24 ve53 so24,[],,['chan2019'],,False,False,,1
+gela1264-1-30-1,,gela1264-1,30,ta24 ve53,ta24 ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-40-1,,gela1264-1,40,pʰu24 ve53,pʰu24 ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-50-1,,gela1264-1,50,mu31 ve53,mu31 ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-60-1,,gela1264-1,60,ȵe31 ve53,ȵe31 ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-70-1,,gela1264-1,70,sau31 ve53,sau31 ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-80-1,,gela1264-1,80,ɣau31 ve53,ɣau31 ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-90-1,,gela1264-1,90,so24 ve53,so24 ve53,[],,['chan2019'],,False,False,,1
+gela1264-1-100-1,,gela1264-1,100,tsɿ53ze31,tsɿ53ze31,[],,['chan2019'],,False,False,,1
+gela1264-1-200-1,,gela1264-1,200,ɬu24ze31,ɬu24ze31,[],,['chan2019'],,False,False,,1
+gela1264-1-1000-1,,gela1264-1,1000,tsɿ53 seŋ24,tsɿ53 seŋ24,[],,['chan2019'],,False,False,,1
+gela1264-1-2000-1,,gela1264-1,2000,ɬu24 seŋ24,ɬu24 seŋ24,[],,['chan2019'],,False,False,,1

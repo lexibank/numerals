@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maky1235-2-1-1,,maky1235-2,1,tʰuan³³,tʰuan³³,[],,[],,False,False,kʰuat,2
-maky1235-2-2-1,,maky1235-2,2,tʰuan³³,tʰuan³³,[],,[],,False,False,nat,2
-maky1235-2-3-1,,maky1235-2,3,tʰuan³³,tʰuan³³,[],,[],,False,False,θəm²²,2
-maky1235-2-4-1,,maky1235-2,4,tʰuan³³,tʰuan³³,[],,[],,False,False,pʰə.li²²,2
-maky1235-2-5-1,,maky1235-2,5,tʰuan³³,tʰuan³³,[],,[],,False,False,pʰə.ŋɑ²²,2
-maky1235-2-6-1,,maky1235-2,6,tʰuan³³,tʰuan³³,[],,[],,False,False,kʰə.ɹaok,2
-maky1235-2-7-1,,maky1235-2,7,tʰuan³³,tʰuan³³,[],,[],,False,False,kʰə.ɲet,2
-maky1235-2-8-1,,maky1235-2,8,tʰuan³³,tʰuan³³,[],,[],,False,False,tʰɔət,2
-maky1235-2-9-1,,maky1235-2,9,tʰuan³³,tʰuan³³,[],,[],,False,False,kʰuan²² puŋi²²,2
-maky1235-2-10-1,,maky1235-2,10,səp,səp,[],,[],,False,False,,2
-maky1235-2-20-1,,maky1235-2,20,tʰuan³³,tʰuan³³,[],,[],,False,False,kʰø²²,2
-maky1235-2-100-1,,maky1235-2,100,tʰuan³³,tʰuan³³,[],,[],,False,False,jə. kʰuat,2
-maky1235-2-1000-1,,maky1235-2,1000,tʰuan³³,tʰuan³³,[],,[],,False,False,hi³³.kʰuat,2
+maky1235-2-1-1,,maky1235-2,1,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,kʰuat,2
+maky1235-2-2-1,,maky1235-2,2,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,nat,2
+maky1235-2-3-1,,maky1235-2,3,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,θəm²²,2
+maky1235-2-4-1,,maky1235-2,4,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,pʰə.li²²,2
+maky1235-2-5-1,,maky1235-2,5,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,pʰə.ŋɑ²²,2
+maky1235-2-6-1,,maky1235-2,6,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,kʰə.ɹaok,2
+maky1235-2-7-1,,maky1235-2,7,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,kʰə.ɲet,2
+maky1235-2-8-1,,maky1235-2,8,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,tʰɔət,2
+maky1235-2-9-1,,maky1235-2,9,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,kʰuan²² puŋi²²,2
+maky1235-2-10-1,,maky1235-2,10,səp,səp,[],,['chan2019'],,False,False,,2
+maky1235-2-20-1,,maky1235-2,20,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,kʰø²²,2
+maky1235-2-100-1,,maky1235-2,100,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,jə. kʰuat,2
+maky1235-2-1000-1,,maky1235-2,1000,tʰuan³³,tʰuan³³,[],,['chan2019'],,False,False,hi³³.kʰuat,2

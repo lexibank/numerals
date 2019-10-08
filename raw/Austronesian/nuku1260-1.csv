@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nuku1260-1-1-1,,nuku1260-1,1,tahi,tahi,[],,[],,False,False,,1
-nuku1260-1-2-1,,nuku1260-1,2,lua,lua,[],,[],,False,False,,1
-nuku1260-1-3-1,,nuku1260-1,3,tolu,tolu,[],,[],,False,False,,1
-nuku1260-1-4-1,,nuku1260-1,4,ha:,ha:,[],,[],,False,False,,1
-nuku1260-1-5-1,,nuku1260-1,5,lima,lima,[],,[],,False,False,,1
-nuku1260-1-6-1,,nuku1260-1,6,ono,ono,[],,[],,False,False,,1
-nuku1260-1-7-1,,nuku1260-1,7,hitu,hitu,[],,[],,False,False,,1
-nuku1260-1-8-1,,nuku1260-1,8,valu,valu,[],,[],,False,False,,1
-nuku1260-1-9-1,,nuku1260-1,9,siva,siva,[],,[],,False,False,,1
-nuku1260-1-10-1,,nuku1260-1,10,mataŋahulu,mataŋahulu,[],,[],,False,False,,1
-nuku1260-1-11-1,,nuku1260-1,11,mataŋahulu maː tahi,mataŋahulu maː tahi,[],,[],,False,False,,1
-nuku1260-1-12-1,,nuku1260-1,12,mataŋahulu maː lua,mataŋahulu maː lua,[],,[],,False,False,,1
-nuku1260-1-13-1,,nuku1260-1,13,mataŋahulu maː tolu,mataŋahulu maː tolu,[],,[],,False,False,,1
-nuku1260-1-14-1,,nuku1260-1,14,mataŋahulu maː haː,mataŋahulu maː haː,[],,[],,False,False,,1
-nuku1260-1-15-1,,nuku1260-1,15,mataŋahulu maː lima,mataŋahulu maː lima,[],,[],,False,False,,1
-nuku1260-1-16-1,,nuku1260-1,16,mataŋahulu maː ono,mataŋahulu maː ono,[],,[],,False,False,,1
-nuku1260-1-17-1,,nuku1260-1,17,mataŋahulu maː hitu,mataŋahulu maː hitu,[],,[],,False,False,,1
-nuku1260-1-18-1,,nuku1260-1,18,mataŋahulu maː valu,mataŋahulu maː valu,[],,[],,False,False,,1
-nuku1260-1-19-1,,nuku1260-1,19,mataŋahulu maː siva,mataŋahulu maː siva,[],,[],,False,False,,1
-nuku1260-1-20-1,,nuku1260-1,20,matalua,matalua,[],,[],,False,False,,1
-nuku1260-1-21-1,,nuku1260-1,21,matalua maː tahi,matalua maː tahi,[],,[],,False,False,,1
-nuku1260-1-22-1,,nuku1260-1,22,matalua maː lua,matalua maː lua,[],,[],,False,False,,1
-nuku1260-1-23-1,,nuku1260-1,23,matalua maː tolu,matalua maː tolu,[],,[],,False,False,,1
-nuku1260-1-24-1,,nuku1260-1,24,matalua maː haː,matalua maː haː,[],,[],,False,False,,1
-nuku1260-1-25-1,,nuku1260-1,25,matalua maː lima,matalua maː lima,[],,[],,False,False,,1
-nuku1260-1-26-1,,nuku1260-1,26,matalua maː ono,matalua maː ono,[],,[],,False,False,,1
-nuku1260-1-27-1,,nuku1260-1,27,matalua maː hitu,matalua maː hitu,[],,[],,False,False,,1
-nuku1260-1-28-1,,nuku1260-1,28,matalua maː valu,matalua maː valu,[],,[],,False,False,,1
-nuku1260-1-29-1,,nuku1260-1,29,matalua maː siva,matalua maː siva,[],,[],,False,False,,1
-nuku1260-1-30-1,,nuku1260-1,30,motːolu,motːolu,[],,[],,False,False,,1
-nuku1260-1-40-1,,nuku1260-1,40,matahaː,matahaː,[],,[],,False,False,,1
-nuku1260-1-50-1,,nuku1260-1,50,matalima,matalima,[],,[],,False,False,,1
-nuku1260-1-60-1,,nuku1260-1,60,motoːono,motoːono,[],,[],,False,False,,1
-nuku1260-1-70-1,,nuku1260-1,70,matahitu,matahitu,[],,[],,False,False,,1
-nuku1260-1-80-1,,nuku1260-1,80,matavalu,matavalu,[],,[],,False,False,,1
-nuku1260-1-90-1,,nuku1260-1,90,matasiva,matasiva,[],,[],,False,False,,1
-nuku1260-1-100-1,,nuku1260-1,100,lau,lau,[],,[],,False,False,,1
-nuku1260-1-200-1,,nuku1260-1,200,lualua,lualua,[],,[],,False,False,,1
-nuku1260-1-1000-1,,nuku1260-1,1000,mana,mana,[],,[],,False,False,,1
-nuku1260-1-2000-1,,nuku1260-1,2000,lua mana,lua mana,[],,[],,False,False,,1
+nuku1260-1-1-1,,nuku1260-1,1,tahi,tahi,[],,['chan2019'],,False,False,,1
+nuku1260-1-2-1,,nuku1260-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+nuku1260-1-3-1,,nuku1260-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+nuku1260-1-4-1,,nuku1260-1,4,ha:,ha:,[],,['chan2019'],,False,False,,1
+nuku1260-1-5-1,,nuku1260-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+nuku1260-1-6-1,,nuku1260-1,6,ono,ono,[],,['chan2019'],,False,False,,1
+nuku1260-1-7-1,,nuku1260-1,7,hitu,hitu,[],,['chan2019'],,False,False,,1
+nuku1260-1-8-1,,nuku1260-1,8,valu,valu,[],,['chan2019'],,False,False,,1
+nuku1260-1-9-1,,nuku1260-1,9,siva,siva,[],,['chan2019'],,False,False,,1
+nuku1260-1-10-1,,nuku1260-1,10,mataŋahulu,mataŋahulu,[],,['chan2019'],,False,False,,1
+nuku1260-1-11-1,,nuku1260-1,11,mataŋahulu maː tahi,mataŋahulu maː tahi,[],,['chan2019'],,False,False,,1
+nuku1260-1-12-1,,nuku1260-1,12,mataŋahulu maː lua,mataŋahulu maː lua,[],,['chan2019'],,False,False,,1
+nuku1260-1-13-1,,nuku1260-1,13,mataŋahulu maː tolu,mataŋahulu maː tolu,[],,['chan2019'],,False,False,,1
+nuku1260-1-14-1,,nuku1260-1,14,mataŋahulu maː haː,mataŋahulu maː haː,[],,['chan2019'],,False,False,,1
+nuku1260-1-15-1,,nuku1260-1,15,mataŋahulu maː lima,mataŋahulu maː lima,[],,['chan2019'],,False,False,,1
+nuku1260-1-16-1,,nuku1260-1,16,mataŋahulu maː ono,mataŋahulu maː ono,[],,['chan2019'],,False,False,,1
+nuku1260-1-17-1,,nuku1260-1,17,mataŋahulu maː hitu,mataŋahulu maː hitu,[],,['chan2019'],,False,False,,1
+nuku1260-1-18-1,,nuku1260-1,18,mataŋahulu maː valu,mataŋahulu maː valu,[],,['chan2019'],,False,False,,1
+nuku1260-1-19-1,,nuku1260-1,19,mataŋahulu maː siva,mataŋahulu maː siva,[],,['chan2019'],,False,False,,1
+nuku1260-1-20-1,,nuku1260-1,20,matalua,matalua,[],,['chan2019'],,False,False,,1
+nuku1260-1-21-1,,nuku1260-1,21,matalua maː tahi,matalua maː tahi,[],,['chan2019'],,False,False,,1
+nuku1260-1-22-1,,nuku1260-1,22,matalua maː lua,matalua maː lua,[],,['chan2019'],,False,False,,1
+nuku1260-1-23-1,,nuku1260-1,23,matalua maː tolu,matalua maː tolu,[],,['chan2019'],,False,False,,1
+nuku1260-1-24-1,,nuku1260-1,24,matalua maː haː,matalua maː haː,[],,['chan2019'],,False,False,,1
+nuku1260-1-25-1,,nuku1260-1,25,matalua maː lima,matalua maː lima,[],,['chan2019'],,False,False,,1
+nuku1260-1-26-1,,nuku1260-1,26,matalua maː ono,matalua maː ono,[],,['chan2019'],,False,False,,1
+nuku1260-1-27-1,,nuku1260-1,27,matalua maː hitu,matalua maː hitu,[],,['chan2019'],,False,False,,1
+nuku1260-1-28-1,,nuku1260-1,28,matalua maː valu,matalua maː valu,[],,['chan2019'],,False,False,,1
+nuku1260-1-29-1,,nuku1260-1,29,matalua maː siva,matalua maː siva,[],,['chan2019'],,False,False,,1
+nuku1260-1-30-1,,nuku1260-1,30,motːolu,motːolu,[],,['chan2019'],,False,False,,1
+nuku1260-1-40-1,,nuku1260-1,40,matahaː,matahaː,[],,['chan2019'],,False,False,,1
+nuku1260-1-50-1,,nuku1260-1,50,matalima,matalima,[],,['chan2019'],,False,False,,1
+nuku1260-1-60-1,,nuku1260-1,60,motoːono,motoːono,[],,['chan2019'],,False,False,,1
+nuku1260-1-70-1,,nuku1260-1,70,matahitu,matahitu,[],,['chan2019'],,False,False,,1
+nuku1260-1-80-1,,nuku1260-1,80,matavalu,matavalu,[],,['chan2019'],,False,False,,1
+nuku1260-1-90-1,,nuku1260-1,90,matasiva,matasiva,[],,['chan2019'],,False,False,,1
+nuku1260-1-100-1,,nuku1260-1,100,lau,lau,[],,['chan2019'],,False,False,,1
+nuku1260-1-200-1,,nuku1260-1,200,lualua,lualua,[],,['chan2019'],,False,False,,1
+nuku1260-1-1000-1,,nuku1260-1,1000,mana,mana,[],,['chan2019'],,False,False,,1
+nuku1260-1-2000-1,,nuku1260-1,2000,lua mana,lua mana,[],,['chan2019'],,False,False,,1

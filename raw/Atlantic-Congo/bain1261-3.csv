@@ -1,46 +1,46 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bain1261-3-1-1,,bain1261-3,1,-duk,-duk,[],,[],,False,False,,2
-bain1261-3-2-1,,bain1261-3,2,-nak,-nak,[],,[],,False,False,,2
-bain1261-3-3-1,,bain1261-3,3,-lall,-lall,[],,[],,False,False,,2
-bain1261-3-4-1,,bain1261-3,4,-rɛnɛk,-rɛnɛk,[],,[],,False,False,,2
-bain1261-3-5-1,,bain1261-3,5,-məkila,-məkila,[],,[],,False,False,,2
-bain1261-3-6-1,,bain1261-3,6,-məkila iŋɡi -duk,-məkila iŋɡi -duk,[],( 5 + 1 ),[],,False,False,,2
-bain1261-3-7-1,,bain1261-3,7,-məkila iŋɡi -nak,-məkila iŋɡi -nak,[],( 5 + 2 ),[],,False,False,,2
-bain1261-3-8-1,,bain1261-3,8,-məkila iŋɡi -lall,-məkila iŋɡi -lall,[],( 5 + 3 ),[],,False,False,,2
-bain1261-3-9-1,,bain1261-3,9,-məkila iŋɡi -rɛnɛk,-məkila iŋɡi -rɛnɛk,[],( 5 + 4 ),[],,False,False,,2
-bain1261-3-10-1,,bain1261-3,10,ha-lah,ha-lah,[],( litː hands),[],,False,False,,2
-bain1261-3-11-1,,bain1261-3,11,ha-lah iŋɡi -duk,ha-lah iŋɡi -duk,[],,[],,False,False,,2
-bain1261-3-12-1,,bain1261-3,12,ha-lah iŋɡi -nak,ha-lah iŋɡi -nak,[],,[],,False,False,,2
-bain1261-3-13-1,,bain1261-3,13,ha-lah iŋɡi -lall,ha-lah iŋɡi -lall,[],,[],,False,False,,2
-bain1261-3-14-1,,bain1261-3,14,ha-lah iŋɡi -rɛnɛk,ha-lah iŋɡi -rɛnɛk,[],,[],,False,False,,2
-bain1261-3-15-1,,bain1261-3,15,butiŋken,butiŋken,[],,[],,False,False,,2
-bain1261-3-15-2,,bain1261-3,15,ha-lah iŋɡi -məkila,ha-lah iŋɡi -məkila,[],,[],,False,False,,2
-bain1261-3-16-1,,bain1261-3,16,butiŋken iŋɡi-duk,butiŋken iŋɡi-duk,[],,[],,False,False,,2
-bain1261-3-16-2,,bain1261-3,16,ha-lah iŋɡi + 6,ha-lah iŋɡi + 6,[],,[],,False,True,,2
-bain1261-3-17-1,,bain1261-3,17,butiŋken iŋɡi-nak,butiŋken iŋɡi-nak,[],,[],,False,False,,2
-bain1261-3-17-2,,bain1261-3,17,ha-lah iŋɡi + 7,ha-lah iŋɡi + 7,[],,[],,False,True,,2
-bain1261-3-18-1,,bain1261-3,18,butiŋken iŋɡ lall,butiŋken iŋɡ lall,[],,[],,False,False,,2
-bain1261-3-18-2,,bain1261-3,18,ha-lah iŋɡi + 8,ha-lah iŋɡi + 8,[],,[],,False,True,,2
-bain1261-3-19-1,,bain1261-3,19,butiŋken iŋɡi-rɛnɛk,butiŋken iŋɡi-rɛnɛk,[],,[],,False,False,,2
-bain1261-3-19-2,,bain1261-3,19,ha-lah iŋɡi+9,ha-lah iŋɡi+9,[],,[],,False,True,,2
-bain1261-3-20-1,,bain1261-3,20,buruhur,buruhur,[],,[],,False,False,,2
-bain1261-3-21-1,,bain1261-3,21,buruhur iŋɡi -duk,buruhur iŋɡi -duk,[],,[],,False,False,,2
-bain1261-3-22-1,,bain1261-3,22,buruhur iŋɡi -nak,buruhur iŋɡi -nak,[],,[],,False,False,,2
-bain1261-3-23-1,,bain1261-3,23,buruhur iŋɡi -lall,buruhur iŋɡi -lall,[],,[],,False,False,,2
-bain1261-3-24-1,,bain1261-3,24,buruhur iŋɡi -rɛnɛk,buruhur iŋɡi -rɛnɛk,[],,[],,False,False,,2
-bain1261-3-25-1,,bain1261-3,25,buruhur iŋɡi -məkila,buruhur iŋɡi -məkila,[],,[],,False,False,,2
-bain1261-3-26-1,,bain1261-3,26,buruhur iŋɡi -məkila iŋɡi -duk,buruhur iŋɡi -məkila iŋɡi -duk,[],,[],,False,False,,2
-bain1261-3-27-1,,bain1261-3,27,buruhur iŋɡi -məkila iŋɡi -nak,buruhur iŋɡi -məkila iŋɡi -nak,[],,[],,False,False,,2
-bain1261-3-28-1,,bain1261-3,28,buruhur iŋɡi -məkila iŋɡi -lall,buruhur iŋɡi -məkila iŋɡi -lall,[],,[],,False,False,,2
-bain1261-3-29-1,,bain1261-3,29,buruhur iŋɡi -məkila iŋɡi -rɛnɛk,buruhur iŋɡi -məkila iŋɡi -rɛnɛk,[],,[],,False,False,,2
-bain1261-3-30-1,,bain1261-3,30,buruhur iŋɡi ha-lah,buruhur iŋɡi ha-lah,[],,[],,False,False,,2
-bain1261-3-40-1,,bain1261-3,40,ɟamã ɪn-nak,ɟamã ɪn-nak,[],,[],,False,False,,2
-bain1261-3-50-1,,bain1261-3,50,ɟamã ɪn-nak iŋɡi ha-lah,ɟamã ɪn-nak iŋɡi ha-lah,[],,[],,False,False,,2
-bain1261-3-60-1,,bain1261-3,60,ɟamã ɪ-lall,ɟamã ɪ-lall,[],,[],,False,False,,2
-bain1261-3-70-1,,bain1261-3,70,ɟamã ɪ-lall iŋɡi ha-lah,ɟamã ɪ-lall iŋɡi ha-lah,[],,[],,False,False,,2
-bain1261-3-80-1,,bain1261-3,80,ɟamã ɪ-rɛnɛk,ɟamã ɪ-rɛnɛk,[],,[],,False,False,,2
-bain1261-3-90-1,,bain1261-3,90,ɟamã ɪ-rɛnɛk iŋɡi ha-lah,ɟamã ɪ-rɛnɛk iŋɡi ha-lah,[],,[],,False,False,,2
-bain1261-3-100-1,,bain1261-3,100,kɛmɛ,kɛmɛ,[],( < Madinke ),[],,True,False,,2
-bain1261-3-200-1,,bain1261-3,200,kɛmɛ a-nak-ã,kɛmɛ a-nak-ã,[],,[],,False,False,,2
-bain1261-3-1000-1,,bain1261-3,1000,wuli,wuli,[],( < Mandinke),[],,True,False,,2
-bain1261-3-2000-1,,bain1261-3,2000,wuli a-nak-ã,wuli a-nak-ã,[],,[],,False,False,,2
+bain1261-3-1-1,,bain1261-3,1,-duk,-duk,[],,['chan2019'],,False,False,,2
+bain1261-3-2-1,,bain1261-3,2,-nak,-nak,[],,['chan2019'],,False,False,,2
+bain1261-3-3-1,,bain1261-3,3,-lall,-lall,[],,['chan2019'],,False,False,,2
+bain1261-3-4-1,,bain1261-3,4,-rɛnɛk,-rɛnɛk,[],,['chan2019'],,False,False,,2
+bain1261-3-5-1,,bain1261-3,5,-məkila,-məkila,[],,['chan2019'],,False,False,,2
+bain1261-3-6-1,,bain1261-3,6,-məkila iŋɡi -duk,-məkila iŋɡi -duk,[],( 5 + 1 ),['chan2019'],,False,False,,2
+bain1261-3-7-1,,bain1261-3,7,-məkila iŋɡi -nak,-məkila iŋɡi -nak,[],( 5 + 2 ),['chan2019'],,False,False,,2
+bain1261-3-8-1,,bain1261-3,8,-məkila iŋɡi -lall,-məkila iŋɡi -lall,[],( 5 + 3 ),['chan2019'],,False,False,,2
+bain1261-3-9-1,,bain1261-3,9,-məkila iŋɡi -rɛnɛk,-məkila iŋɡi -rɛnɛk,[],( 5 + 4 ),['chan2019'],,False,False,,2
+bain1261-3-10-1,,bain1261-3,10,ha-lah,ha-lah,[],( litː hands),['chan2019'],,False,False,,2
+bain1261-3-11-1,,bain1261-3,11,ha-lah iŋɡi -duk,ha-lah iŋɡi -duk,[],,['chan2019'],,False,False,,2
+bain1261-3-12-1,,bain1261-3,12,ha-lah iŋɡi -nak,ha-lah iŋɡi -nak,[],,['chan2019'],,False,False,,2
+bain1261-3-13-1,,bain1261-3,13,ha-lah iŋɡi -lall,ha-lah iŋɡi -lall,[],,['chan2019'],,False,False,,2
+bain1261-3-14-1,,bain1261-3,14,ha-lah iŋɡi -rɛnɛk,ha-lah iŋɡi -rɛnɛk,[],,['chan2019'],,False,False,,2
+bain1261-3-15-1,,bain1261-3,15,butiŋken,butiŋken,[],,['chan2019'],,False,False,,2
+bain1261-3-15-2,,bain1261-3,15,ha-lah iŋɡi -məkila,ha-lah iŋɡi -məkila,[],,['chan2019'],,False,False,,2
+bain1261-3-16-1,,bain1261-3,16,butiŋken iŋɡi-duk,butiŋken iŋɡi-duk,[],,['chan2019'],,False,False,,2
+bain1261-3-16-2,,bain1261-3,16,ha-lah iŋɡi + 6,ha-lah iŋɡi + 6,[],,['chan2019'],,False,True,,2
+bain1261-3-17-1,,bain1261-3,17,butiŋken iŋɡi-nak,butiŋken iŋɡi-nak,[],,['chan2019'],,False,False,,2
+bain1261-3-17-2,,bain1261-3,17,ha-lah iŋɡi + 7,ha-lah iŋɡi + 7,[],,['chan2019'],,False,True,,2
+bain1261-3-18-1,,bain1261-3,18,butiŋken iŋɡ lall,butiŋken iŋɡ lall,[],,['chan2019'],,False,False,,2
+bain1261-3-18-2,,bain1261-3,18,ha-lah iŋɡi + 8,ha-lah iŋɡi + 8,[],,['chan2019'],,False,True,,2
+bain1261-3-19-1,,bain1261-3,19,butiŋken iŋɡi-rɛnɛk,butiŋken iŋɡi-rɛnɛk,[],,['chan2019'],,False,False,,2
+bain1261-3-19-2,,bain1261-3,19,ha-lah iŋɡi+9,ha-lah iŋɡi+9,[],,['chan2019'],,False,True,,2
+bain1261-3-20-1,,bain1261-3,20,buruhur,buruhur,[],,['chan2019'],,False,False,,2
+bain1261-3-21-1,,bain1261-3,21,buruhur iŋɡi -duk,buruhur iŋɡi -duk,[],,['chan2019'],,False,False,,2
+bain1261-3-22-1,,bain1261-3,22,buruhur iŋɡi -nak,buruhur iŋɡi -nak,[],,['chan2019'],,False,False,,2
+bain1261-3-23-1,,bain1261-3,23,buruhur iŋɡi -lall,buruhur iŋɡi -lall,[],,['chan2019'],,False,False,,2
+bain1261-3-24-1,,bain1261-3,24,buruhur iŋɡi -rɛnɛk,buruhur iŋɡi -rɛnɛk,[],,['chan2019'],,False,False,,2
+bain1261-3-25-1,,bain1261-3,25,buruhur iŋɡi -məkila,buruhur iŋɡi -məkila,[],,['chan2019'],,False,False,,2
+bain1261-3-26-1,,bain1261-3,26,buruhur iŋɡi -məkila iŋɡi -duk,buruhur iŋɡi -məkila iŋɡi -duk,[],,['chan2019'],,False,False,,2
+bain1261-3-27-1,,bain1261-3,27,buruhur iŋɡi -məkila iŋɡi -nak,buruhur iŋɡi -məkila iŋɡi -nak,[],,['chan2019'],,False,False,,2
+bain1261-3-28-1,,bain1261-3,28,buruhur iŋɡi -məkila iŋɡi -lall,buruhur iŋɡi -məkila iŋɡi -lall,[],,['chan2019'],,False,False,,2
+bain1261-3-29-1,,bain1261-3,29,buruhur iŋɡi -məkila iŋɡi -rɛnɛk,buruhur iŋɡi -məkila iŋɡi -rɛnɛk,[],,['chan2019'],,False,False,,2
+bain1261-3-30-1,,bain1261-3,30,buruhur iŋɡi ha-lah,buruhur iŋɡi ha-lah,[],,['chan2019'],,False,False,,2
+bain1261-3-40-1,,bain1261-3,40,ɟamã ɪn-nak,ɟamã ɪn-nak,[],,['chan2019'],,False,False,,2
+bain1261-3-50-1,,bain1261-3,50,ɟamã ɪn-nak iŋɡi ha-lah,ɟamã ɪn-nak iŋɡi ha-lah,[],,['chan2019'],,False,False,,2
+bain1261-3-60-1,,bain1261-3,60,ɟamã ɪ-lall,ɟamã ɪ-lall,[],,['chan2019'],,False,False,,2
+bain1261-3-70-1,,bain1261-3,70,ɟamã ɪ-lall iŋɡi ha-lah,ɟamã ɪ-lall iŋɡi ha-lah,[],,['chan2019'],,False,False,,2
+bain1261-3-80-1,,bain1261-3,80,ɟamã ɪ-rɛnɛk,ɟamã ɪ-rɛnɛk,[],,['chan2019'],,False,False,,2
+bain1261-3-90-1,,bain1261-3,90,ɟamã ɪ-rɛnɛk iŋɡi ha-lah,ɟamã ɪ-rɛnɛk iŋɡi ha-lah,[],,['chan2019'],,False,False,,2
+bain1261-3-100-1,,bain1261-3,100,kɛmɛ,kɛmɛ,[],( < Madinke ),['chan2019'],,True,False,,2
+bain1261-3-200-1,,bain1261-3,200,kɛmɛ a-nak-ã,kɛmɛ a-nak-ã,[],,['chan2019'],,False,False,,2
+bain1261-3-1000-1,,bain1261-3,1000,wuli,wuli,[],( < Mandinke),['chan2019'],,True,False,,2
+bain1261-3-2000-1,,bain1261-3,2000,wuli a-nak-ã,wuli a-nak-ã,[],,['chan2019'],,False,False,,2

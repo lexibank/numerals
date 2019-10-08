@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chuk1273-2-1-1,,chuk1273-2,1,ənnên,ənnên,[],,[],,False,False,,2
-chuk1273-2-2-1,,chuk1273-2,2,ŋirêq,ŋirêq,[],,[],,False,False,,2
-chuk1273-2-2-2,,chuk1273-2,2,ŋicêq,ŋicêq,[],,[],,False,False,,2
-chuk1273-2-3-1,,chuk1273-2,3,ŋəroq,ŋəroq,[],,[],,False,False,,2
-chuk1273-2-4-1,,chuk1273-2,4,ŋəraq,ŋəraq,[],,[],,False,False,,2
-chuk1273-2-5-1,,chuk1273-2,5,mətləŋên,mətləŋên,[],,[],,False,False,,2
-chuk1273-2-6-1,,chuk1273-2,6,ənnanmətləŋên,ənnanmətləŋên,[],( 1 + 5 ),[],,False,False,,2
-chuk1273-2-7-1,,chuk1273-2,7,ŋêrʔamətləŋên,ŋêrʔamətləŋên,[],( 2 + 5 ),[],,False,False,,2
-chuk1273-2-8-1,,chuk1273-2,8,ŋəʔomətləŋên,ŋəʔomətləŋên,[],( 3 + 5 ),[],,False,False,,2
-chuk1273-2-9-1,,chuk1273-2,9,ŋərʔamətləŋên,ŋərʔamətləŋên,[],( 4 + 5 ),[],,False,False,,2
-chuk1273-2-10-1,,chuk1273-2,10,mənɣəkên,mənɣəkên,[],,[],,False,False,,2
-chuk1273-2-11-1,,chuk1273-2,11,mənɣəkên ənnên parol,mənɣəkên ənnên parol,[],"( ten, one       remaining)",[],,False,False,,2
-chuk1273-2-12-1,,chuk1273-2,12,mənɣəkên ŋirêq parol,mənɣəkên ŋirêq parol,[],,[],,False,False,,2
-chuk1273-2-13-1,,chuk1273-2,13,mənɣəkên ŋəroq parol,mənɣəkên ŋəroq parol,[],,[],,False,False,,2
-chuk1273-2-14-1,,chuk1273-2,14,mənɣəkên ŋəraq parol,mənɣəkên ŋəraq parol,[],,[],,False,False,,2
-chuk1273-2-15-1,,chuk1273-2,15,kəlɣənkên,kəlɣənkên,[],,[],,False,False,,2
-chuk1273-2-16-1,,chuk1273-2,16,kəlɣənkên ənnên parol,kəlɣənkên ənnên parol,[],( 15 + 1 ),[],,False,False,,2
-chuk1273-2-17-1,,chuk1273-2,17,kəlɣənkên ŋirêq parol,kəlɣənkên ŋirêq parol,[],( 15 + 2 ),[],,False,False,,2
-chuk1273-2-18-1,,chuk1273-2,18,kəlɣənkên ŋəroq parol,kəlɣənkên ŋəroq parol,[],( 15 + 3 ),[],,False,False,,2
-chuk1273-2-19-1,,chuk1273-2,19,kəlɣənkên ŋəraq parol,kəlɣənkên ŋəraq parol,[],( 15 + 4 ),[],,False,False,,2
-chuk1273-2-20-1,,chuk1273-2,20,qlikkin,qlikkin,[],,[],,False,False,,2
-chuk1273-2-21-1,,chuk1273-2,21,qlikkin ənnên parol,qlikkin ənnên parol,[],,[],,False,False,,2
-chuk1273-2-22-1,,chuk1273-2,22,qlikkin ŋirêq parol,qlikkin ŋirêq parol,[],,[],,False,False,,2
-chuk1273-2-23-1,,chuk1273-2,23,qlikkin ŋəroq parol,qlikkin ŋəroq parol,[],,[],,False,False,,2
-chuk1273-2-24-1,,chuk1273-2,24,qlikkin ŋəraq parol,qlikkin ŋəraq parol,[],,[],,False,False,,2
-chuk1273-2-25-1,,chuk1273-2,25,qlikkin mətləŋên parol,qlikkin mətləŋên parol,[],,[],,False,False,,2
-chuk1273-2-26-1,,chuk1273-2,26,qlikkin ənnanmətləŋên parol,qlikkin ənnanmətləŋên parol,[],,[],,False,False,,2
-chuk1273-2-27-1,,chuk1273-2,27,qlikkin ŋêrʔamətləŋên parol,qlikkin ŋêrʔamətləŋên parol,[],,[],,False,False,,2
-chuk1273-2-28-1,,chuk1273-2,28,qlikkin ŋəʔomətləŋên parol,qlikkin ŋəʔomətləŋên parol,[],,[],,False,False,,2
-chuk1273-2-29-1,,chuk1273-2,29,qlikkin qonʔaɕɣənkên parol,qlikkin qonʔaɕɣənkên parol,[],,[],,False,False,,2
-chuk1273-2-30-1,,chuk1273-2,30,qlikkin mənɣəkên parol,qlikkin mənɣəkên parol,[],( 20 + 10 ),[],,False,False,,2
-chuk1273-2-40-1,,chuk1273-2,40,ŋirêqqlikkin,ŋirêqqlikkin,[],( 2 x 20 ),[],,False,False,,2
-chuk1273-2-50-1,,chuk1273-2,50,ŋirêqqlikkin mənɣəkên parol,ŋirêqqlikkin mənɣəkên parol,[],,[],,False,False,,2
-chuk1273-2-60-1,,chuk1273-2,60,ŋəroqqlekkên,ŋəroqqlekkên,[],( 3 x 20 ),[],,False,False,,2
-chuk1273-2-70-1,,chuk1273-2,70,ŋəroqqlekkên mənɣəkên parol,ŋəroqqlekkên mənɣəkên parol,[],,[],,False,False,,2
-chuk1273-2-80-1,,chuk1273-2,80,ŋəraqqlekkên,ŋəraqqlekkên,[],( 4 x 20 ),[],,False,False,,2
-chuk1273-2-90-1,,chuk1273-2,90,ŋəraqqlekkên mənɣəkên parol,ŋəraqqlekkên mənɣəkên parol,[],,[],,False,False,,2
-chuk1273-2-100-1,,chuk1273-2,100,mətləŋ qlekkên,mətləŋ qlekkên,[],( 5 x 20 ),[],,False,False,,2
-chuk1273-2-200-1,,chuk1273-2,200,mənɣət qlekkên,mənɣət qlekkên,[],( 10 x 20 ),[],,False,False,,2
-chuk1273-2-400-1,,chuk1273-2,400,qliq-qləkkin,qliq-qləkkin,[],( 20 x 20 ),[],,False,False,,2
-chuk1273-2-1000-1,,chuk1273-2,1000,ticəc(u),ticəc(u),[],< Russian 'tɨsʲatʃa' ,[],,True,False,,2
-chuk1273-2-1000-2,,chuk1273-2,1000,tawcən,tawcən,[],< English ' thousand' ,[],,True,False,,2
+chuk1273-2-1-1,,chuk1273-2,1,ənnên,ənnên,[],,['chan2019'],,False,False,,2
+chuk1273-2-2-1,,chuk1273-2,2,ŋirêq,ŋirêq,[],,['chan2019'],,False,False,,2
+chuk1273-2-2-2,,chuk1273-2,2,ŋicêq,ŋicêq,[],,['chan2019'],,False,False,,2
+chuk1273-2-3-1,,chuk1273-2,3,ŋəroq,ŋəroq,[],,['chan2019'],,False,False,,2
+chuk1273-2-4-1,,chuk1273-2,4,ŋəraq,ŋəraq,[],,['chan2019'],,False,False,,2
+chuk1273-2-5-1,,chuk1273-2,5,mətləŋên,mətləŋên,[],,['chan2019'],,False,False,,2
+chuk1273-2-6-1,,chuk1273-2,6,ənnanmətləŋên,ənnanmətləŋên,[],( 1 + 5 ),['chan2019'],,False,False,,2
+chuk1273-2-7-1,,chuk1273-2,7,ŋêrʔamətləŋên,ŋêrʔamətləŋên,[],( 2 + 5 ),['chan2019'],,False,False,,2
+chuk1273-2-8-1,,chuk1273-2,8,ŋəʔomətləŋên,ŋəʔomətləŋên,[],( 3 + 5 ),['chan2019'],,False,False,,2
+chuk1273-2-9-1,,chuk1273-2,9,ŋərʔamətləŋên,ŋərʔamətləŋên,[],( 4 + 5 ),['chan2019'],,False,False,,2
+chuk1273-2-10-1,,chuk1273-2,10,mənɣəkên,mənɣəkên,[],,['chan2019'],,False,False,,2
+chuk1273-2-11-1,,chuk1273-2,11,mənɣəkên ənnên parol,mənɣəkên ənnên parol,[],"( ten, one       remaining)",['chan2019'],,False,False,,2
+chuk1273-2-12-1,,chuk1273-2,12,mənɣəkên ŋirêq parol,mənɣəkên ŋirêq parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-13-1,,chuk1273-2,13,mənɣəkên ŋəroq parol,mənɣəkên ŋəroq parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-14-1,,chuk1273-2,14,mənɣəkên ŋəraq parol,mənɣəkên ŋəraq parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-15-1,,chuk1273-2,15,kəlɣənkên,kəlɣənkên,[],,['chan2019'],,False,False,,2
+chuk1273-2-16-1,,chuk1273-2,16,kəlɣənkên ənnên parol,kəlɣənkên ənnên parol,[],( 15 + 1 ),['chan2019'],,False,False,,2
+chuk1273-2-17-1,,chuk1273-2,17,kəlɣənkên ŋirêq parol,kəlɣənkên ŋirêq parol,[],( 15 + 2 ),['chan2019'],,False,False,,2
+chuk1273-2-18-1,,chuk1273-2,18,kəlɣənkên ŋəroq parol,kəlɣənkên ŋəroq parol,[],( 15 + 3 ),['chan2019'],,False,False,,2
+chuk1273-2-19-1,,chuk1273-2,19,kəlɣənkên ŋəraq parol,kəlɣənkên ŋəraq parol,[],( 15 + 4 ),['chan2019'],,False,False,,2
+chuk1273-2-20-1,,chuk1273-2,20,qlikkin,qlikkin,[],,['chan2019'],,False,False,,2
+chuk1273-2-21-1,,chuk1273-2,21,qlikkin ənnên parol,qlikkin ənnên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-22-1,,chuk1273-2,22,qlikkin ŋirêq parol,qlikkin ŋirêq parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-23-1,,chuk1273-2,23,qlikkin ŋəroq parol,qlikkin ŋəroq parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-24-1,,chuk1273-2,24,qlikkin ŋəraq parol,qlikkin ŋəraq parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-25-1,,chuk1273-2,25,qlikkin mətləŋên parol,qlikkin mətləŋên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-26-1,,chuk1273-2,26,qlikkin ənnanmətləŋên parol,qlikkin ənnanmətləŋên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-27-1,,chuk1273-2,27,qlikkin ŋêrʔamətləŋên parol,qlikkin ŋêrʔamətləŋên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-28-1,,chuk1273-2,28,qlikkin ŋəʔomətləŋên parol,qlikkin ŋəʔomətləŋên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-29-1,,chuk1273-2,29,qlikkin qonʔaɕɣənkên parol,qlikkin qonʔaɕɣənkên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-30-1,,chuk1273-2,30,qlikkin mənɣəkên parol,qlikkin mənɣəkên parol,[],( 20 + 10 ),['chan2019'],,False,False,,2
+chuk1273-2-40-1,,chuk1273-2,40,ŋirêqqlikkin,ŋirêqqlikkin,[],( 2 x 20 ),['chan2019'],,False,False,,2
+chuk1273-2-50-1,,chuk1273-2,50,ŋirêqqlikkin mənɣəkên parol,ŋirêqqlikkin mənɣəkên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-60-1,,chuk1273-2,60,ŋəroqqlekkên,ŋəroqqlekkên,[],( 3 x 20 ),['chan2019'],,False,False,,2
+chuk1273-2-70-1,,chuk1273-2,70,ŋəroqqlekkên mənɣəkên parol,ŋəroqqlekkên mənɣəkên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-80-1,,chuk1273-2,80,ŋəraqqlekkên,ŋəraqqlekkên,[],( 4 x 20 ),['chan2019'],,False,False,,2
+chuk1273-2-90-1,,chuk1273-2,90,ŋəraqqlekkên mənɣəkên parol,ŋəraqqlekkên mənɣəkên parol,[],,['chan2019'],,False,False,,2
+chuk1273-2-100-1,,chuk1273-2,100,mətləŋ qlekkên,mətləŋ qlekkên,[],( 5 x 20 ),['chan2019'],,False,False,,2
+chuk1273-2-200-1,,chuk1273-2,200,mənɣət qlekkên,mənɣət qlekkên,[],( 10 x 20 ),['chan2019'],,False,False,,2
+chuk1273-2-400-1,,chuk1273-2,400,qliq-qləkkin,qliq-qləkkin,[],( 20 x 20 ),['chan2019'],,False,False,,2
+chuk1273-2-1000-1,,chuk1273-2,1000,ticəc(u),ticəc(u),[],< Russian 'tɨsʲatʃa' ,['chan2019'],,True,False,,2
+chuk1273-2-1000-2,,chuk1273-2,1000,tawcən,tawcən,[],< English ' thousand' ,['chan2019'],,True,False,,2

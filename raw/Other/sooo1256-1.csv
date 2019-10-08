@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sooo1256-1-1-1,,sooo1256-1,1,'nɛ́dɛ̀s,'nɛ́dɛ̀s,[],,[],,False,False,,1
-sooo1256-1-2-1,,sooo1256-1,2,ínɛ̀'bɛ́c,ínɛ̀'bɛ́c,[],,[],,False,False,,1
-sooo1256-1-3-1,,sooo1256-1,3,ínì'jɔ̀n,ínì'jɔ̀n,[],,[],,False,False,,1
-sooo1256-1-4-1,,sooo1256-1,4,ín'ùáʔ,ín'ùáʔ,[],,[],,False,False,,1
-sooo1256-1-5-1,,sooo1256-1,5,'íntùd,'íntùd,[],,[],,False,False,,1
-sooo1256-1-6-1,,sooo1256-1,6,ˌíntùd ká ˈnɛ́dɛ̀s,ˌíntùd ká ˈnɛ́dɛ̀s,[],( 5+ 1 ),[],,False,False,,1
-sooo1256-1-7-1,,sooo1256-1,7,ˌíntùd ká ínɛ̀'bɛ̀c,ˌíntùd ká ínɛ̀'bɛ̀c,[],( 5+ 2 ),[],,False,False,,1
-sooo1256-1-8-1,,sooo1256-1,8,ˌíntùd ká ínì'jɔ́n,ˌíntùd ká ínì'jɔ́n,[],( 5+ 3 ),[],,False,False,,1
-sooo1256-1-9-1,,sooo1256-1,9,ˌíntùd ká ínùáʔ,ˌíntùd ká ínùáʔ,[],( 5+ 4 ),[],,False,False,,1
-sooo1256-1-10-1,,sooo1256-1,10,mì'míɾínìk,mì'míɾínìk,[],,[],,False,False,,1
-sooo1256-1-11-1,,sooo1256-1,11,mìmí 'ɾínìk ká 'nɛ́dɛ̀s,mìmí 'ɾínìk ká 'nɛ́dɛ̀s,[],,[],,False,False,,1
-sooo1256-1-12-1,,sooo1256-1,12,mìmí 'ɾínìk ká ínɛ̀'bɛ̀c,mìmí 'ɾínìk ká ínɛ̀'bɛ̀c,[],,[],,False,False,,1
-sooo1256-1-13-1,,sooo1256-1,13,mìmí 'ɾínìk ká ínì'jɔ́n,mìmí 'ɾínìk ká ínì'jɔ́n,[],,[],,False,False,,1
-sooo1256-1-14-1,,sooo1256-1,14,mìmí 'ɾínìk ká ínùáʔ,mìmí 'ɾínìk ká ínùáʔ,[],,[],,False,False,,1
-sooo1256-1-15-1,,sooo1256-1,15,mìmí 'ɾínìk ká ˌíntùd,mìmí 'ɾínìk ká ˌíntùd,[],,[],,False,False,,1
-sooo1256-1-16-1,,sooo1256-1,16,mìmí 'ɾínìk ká ˌíntùd ká ˈnɛ́dɛ̀s,mìmí 'ɾínìk ká ˌíntùd ká ˈnɛ́dɛ̀s,[],,[],,False,False,,1
-sooo1256-1-17-1,,sooo1256-1,17,mìmí 'ɾínìk ká ˌíntùd ká ínɛ̀'bɛ̀c,mìmí 'ɾínìk ká ˌíntùd ká ínɛ̀'bɛ̀c,[],,[],,False,False,,1
-sooo1256-1-18-1,,sooo1256-1,18,mìmí 'ɾínìk ká ˌíntùd ká ínì'jɔ́n,mìmí 'ɾínìk ká ˌíntùd ká ínì'jɔ́n,[],,[],,False,False,,1
-sooo1256-1-19-1,,sooo1256-1,19,mìmí 'ɾínìk ká in ˌíntùd ká ínùáʔ,mìmí 'ɾínìk ká in ˌíntùd ká ínùáʔ,[],,[],,False,False,,1
-sooo1256-1-20-1,,sooo1256-1,20,mì'míɾínìk 'írkòn nɛ̀bɛ́c,mì'míɾínìk 'írkòn nɛ̀bɛ́c,[],,[],,False,False,,1
+sooo1256-1-1-1,,sooo1256-1,1,'nɛ́dɛ̀s,'nɛ́dɛ̀s,[],,['chan2019'],,False,False,,1
+sooo1256-1-2-1,,sooo1256-1,2,ínɛ̀'bɛ́c,ínɛ̀'bɛ́c,[],,['chan2019'],,False,False,,1
+sooo1256-1-3-1,,sooo1256-1,3,ínì'jɔ̀n,ínì'jɔ̀n,[],,['chan2019'],,False,False,,1
+sooo1256-1-4-1,,sooo1256-1,4,ín'ùáʔ,ín'ùáʔ,[],,['chan2019'],,False,False,,1
+sooo1256-1-5-1,,sooo1256-1,5,'íntùd,'íntùd,[],,['chan2019'],,False,False,,1
+sooo1256-1-6-1,,sooo1256-1,6,ˌíntùd ká ˈnɛ́dɛ̀s,ˌíntùd ká ˈnɛ́dɛ̀s,[],( 5+ 1 ),['chan2019'],,False,False,,1
+sooo1256-1-7-1,,sooo1256-1,7,ˌíntùd ká ínɛ̀'bɛ̀c,ˌíntùd ká ínɛ̀'bɛ̀c,[],( 5+ 2 ),['chan2019'],,False,False,,1
+sooo1256-1-8-1,,sooo1256-1,8,ˌíntùd ká ínì'jɔ́n,ˌíntùd ká ínì'jɔ́n,[],( 5+ 3 ),['chan2019'],,False,False,,1
+sooo1256-1-9-1,,sooo1256-1,9,ˌíntùd ká ínùáʔ,ˌíntùd ká ínùáʔ,[],( 5+ 4 ),['chan2019'],,False,False,,1
+sooo1256-1-10-1,,sooo1256-1,10,mì'míɾínìk,mì'míɾínìk,[],,['chan2019'],,False,False,,1
+sooo1256-1-11-1,,sooo1256-1,11,mìmí 'ɾínìk ká 'nɛ́dɛ̀s,mìmí 'ɾínìk ká 'nɛ́dɛ̀s,[],,['chan2019'],,False,False,,1
+sooo1256-1-12-1,,sooo1256-1,12,mìmí 'ɾínìk ká ínɛ̀'bɛ̀c,mìmí 'ɾínìk ká ínɛ̀'bɛ̀c,[],,['chan2019'],,False,False,,1
+sooo1256-1-13-1,,sooo1256-1,13,mìmí 'ɾínìk ká ínì'jɔ́n,mìmí 'ɾínìk ká ínì'jɔ́n,[],,['chan2019'],,False,False,,1
+sooo1256-1-14-1,,sooo1256-1,14,mìmí 'ɾínìk ká ínùáʔ,mìmí 'ɾínìk ká ínùáʔ,[],,['chan2019'],,False,False,,1
+sooo1256-1-15-1,,sooo1256-1,15,mìmí 'ɾínìk ká ˌíntùd,mìmí 'ɾínìk ká ˌíntùd,[],,['chan2019'],,False,False,,1
+sooo1256-1-16-1,,sooo1256-1,16,mìmí 'ɾínìk ká ˌíntùd ká ˈnɛ́dɛ̀s,mìmí 'ɾínìk ká ˌíntùd ká ˈnɛ́dɛ̀s,[],,['chan2019'],,False,False,,1
+sooo1256-1-17-1,,sooo1256-1,17,mìmí 'ɾínìk ká ˌíntùd ká ínɛ̀'bɛ̀c,mìmí 'ɾínìk ká ˌíntùd ká ínɛ̀'bɛ̀c,[],,['chan2019'],,False,False,,1
+sooo1256-1-18-1,,sooo1256-1,18,mìmí 'ɾínìk ká ˌíntùd ká ínì'jɔ́n,mìmí 'ɾínìk ká ˌíntùd ká ínì'jɔ́n,[],,['chan2019'],,False,False,,1
+sooo1256-1-19-1,,sooo1256-1,19,mìmí 'ɾínìk ká in ˌíntùd ká ínùáʔ,mìmí 'ɾínìk ká in ˌíntùd ká ínùáʔ,[],,['chan2019'],,False,False,,1
+sooo1256-1-20-1,,sooo1256-1,20,mì'míɾínìk 'írkòn nɛ̀bɛ́c,mì'míɾínìk 'írkòn nɛ̀bɛ́c,[],,['chan2019'],,False,False,,1

@@ -1,48 +1,48 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pear1247-1-1-1,,pear1247-1,1,muəj,muəj,[],,[],,False,False,,1
-pear1247-1-2-1,,pear1247-1,2,piər̃,piər̃,[],,[],,False,False,,1
-pear1247-1-3-1,,pear1247-1,3,paj,paj,[],,[],,False,False,,1
-pear1247-1-4-1,,pear1247-1,4,paon,paon,[],,[],,False,False,,1
-pear1247-1-5-1,,pear1247-1,5,prăm,prăm,[],,[],,False,False,,1
-pear1247-1-6-1,,pear1247-1,6,prăm muəj,prăm muəj,[],,[],,False,False,,1
-pear1247-1-7-1,,pear1247-1,7,prăm paj,prăm paj,[],,[],,False,False,,1
-pear1247-1-9-1,,pear1247-1,9,prăm paon,prăm paon,[],,[],,False,False,,1
-pear1247-1-10-1,,pear1247-1,10,dɑp,dɑp,[],,[],,False,False,,1
-pear1247-1-11-1,,pear1247-1,11,muəj tandap,muəj tandap,[],,[],,False,False,,1
-pear1247-1-11-2,,pear1247-1,11,dɑp muəj,dɑp muəj,[],,[],,False,False,,1
-pear1247-1-12-1,,pear1247-1,12,piər̃ tandap,piər̃ tandap,[],,[],,False,False,,1
-pear1247-1-12-2,,pear1247-1,12,dɑp piː,dɑp piː,[],,[],,False,False,,1
-pear1247-1-13-1,,pear1247-1,13,paj tandap,paj tandap,[],,[],,False,False,,1
-pear1247-1-13-2,,pear1247-1,13,dɑp bəj,dɑp bəj,[],,[],,False,False,,1
-pear1247-1-14-1,,pear1247-1,14,poan tandap,poan tandap,[],,[],,False,False,,1
-pear1247-1-14-2,,pear1247-1,14,dɑp buən,dɑp buən,[],,[],,False,False,,1
-pear1247-1-15-1,,pear1247-1,15,prăm tandap,prăm tandap,[],,[],,False,False,,1
-pear1247-1-15-2,,pear1247-1,15,dɑp pram,dɑp pram,[],,[],,False,False,,1
-pear1247-1-16-1,,pear1247-1,16,prăm muəj tandap,prăm muəj tandap,[],,[],,False,False,,1
-pear1247-1-16-2,,pear1247-1,16,dɑp prăm muəj,dɑp prăm muəj,[],,[],,False,False,,1
-pear1247-1-17-1,,pear1247-1,17,prăm piər̃ tandap,prăm piər̃ tandap,[],,[],,False,False,,1
-pear1247-1-17-2,,pear1247-1,17,dɑp prăm piː,dɑp prăm piː,[],,[],,False,False,,1
-pear1247-1-18-1,,pear1247-1,18,prăm paj tandap,prăm paj tandap,[],,[],,False,False,,1
-pear1247-1-18-2,,pear1247-1,18,dɑp prăm bəj,dɑp prăm bəj,[],,[],,False,False,,1
-pear1247-1-19-1,,pear1247-1,19,prăm paon tandap,prăm paon tandap,[],,[],,False,False,,1
-pear1247-1-19-2,,pear1247-1,19,dɑp prăm buən,dɑp prăm buən,[],,[],,False,False,,1
-pear1247-1-20-1,,pear1247-1,20,məpʰei,məpʰei,[],< Khmer ,[],,True,False,,1
-pear1247-1-21-1,,pear1247-1,21,məpʰei muəj,məpʰei muəj,[],,[],,False,False,,1
-pear1247-1-22-1,,pear1247-1,22,məpʰei piː,məpʰei piː,[],,[],,False,False,,1
-pear1247-1-23-1,,pear1247-1,23,məpʰei bəj,məpʰei bəj,[],,[],,False,False,,1
-pear1247-1-24-1,,pear1247-1,24,məpʰei buən,məpʰei buən,[],,[],,False,False,,1
-pear1247-1-25-1,,pear1247-1,25,məpʰei pram,məpʰei pram,[],,[],,False,False,,1
-pear1247-1-26-1,,pear1247-1,26,məpʰei prammuəj,məpʰei prammuəj,[],,[],,False,False,,1
-pear1247-1-27-1,,pear1247-1,27,məpʰei prambəj,məpʰei prambəj,[],,[],,False,False,,1
-pear1247-1-29-1,,pear1247-1,29,məpʰei prambuən,məpʰei prambuən,[],,[],,False,False,,1
-pear1247-1-30-1,,pear1247-1,30,samsɤp,samsɤp,[],,[],,False,False,,1
-pear1247-1-40-1,,pear1247-1,40,saːɛsɤp,saːɛsɤp,[],,[],,False,False,,1
-pear1247-1-50-1,,pear1247-1,50,haːsɤp,haːsɤp,[],,[],,False,False,,1
-pear1247-1-60-1,,pear1247-1,60,hɔʷksɤp,hɔʷksɤp,[],,[],,False,False,,1
-pear1247-1-70-1,,pear1247-1,70,t͡ʃɤtsɤp,t͡ʃɤtsɤp,[],,[],,False,False,,1
-pear1247-1-80-1,,pear1247-1,80,paːɛsɤp,paːɛsɤp,[],,[],,False,False,,1
-pear1247-1-90-1,,pear1247-1,90,kaːwsɤp,kaːwsɤp,[],,[],,False,False,,1
-pear1247-1-100-1,,pear1247-1,100,rɔːj,rɔːj,[],,[],,False,False,,1
-pear1247-1-200-1,,pear1247-1,200,piː rɔːj,piː rɔːj,[],,[],,False,False,,1
-pear1247-1-1000-1,,pear1247-1,1000,məpɔən,məpɔən,[],,[],,False,False,,1
-pear1247-1-2000-1,,pear1247-1,2000,piː pɔən,piː pɔən,[],,[],,False,False,,1
+pear1247-1-1-1,,pear1247-1,1,muəj,muəj,[],,['chan2019'],,False,False,,1
+pear1247-1-2-1,,pear1247-1,2,piər̃,piər̃,[],,['chan2019'],,False,False,,1
+pear1247-1-3-1,,pear1247-1,3,paj,paj,[],,['chan2019'],,False,False,,1
+pear1247-1-4-1,,pear1247-1,4,paon,paon,[],,['chan2019'],,False,False,,1
+pear1247-1-5-1,,pear1247-1,5,prăm,prăm,[],,['chan2019'],,False,False,,1
+pear1247-1-6-1,,pear1247-1,6,prăm muəj,prăm muəj,[],,['chan2019'],,False,False,,1
+pear1247-1-7-1,,pear1247-1,7,prăm paj,prăm paj,[],,['chan2019'],,False,False,,1
+pear1247-1-9-1,,pear1247-1,9,prăm paon,prăm paon,[],,['chan2019'],,False,False,,1
+pear1247-1-10-1,,pear1247-1,10,dɑp,dɑp,[],,['chan2019'],,False,False,,1
+pear1247-1-11-1,,pear1247-1,11,muəj tandap,muəj tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-11-2,,pear1247-1,11,dɑp muəj,dɑp muəj,[],,['chan2019'],,False,False,,1
+pear1247-1-12-1,,pear1247-1,12,piər̃ tandap,piər̃ tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-12-2,,pear1247-1,12,dɑp piː,dɑp piː,[],,['chan2019'],,False,False,,1
+pear1247-1-13-1,,pear1247-1,13,paj tandap,paj tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-13-2,,pear1247-1,13,dɑp bəj,dɑp bəj,[],,['chan2019'],,False,False,,1
+pear1247-1-14-1,,pear1247-1,14,poan tandap,poan tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-14-2,,pear1247-1,14,dɑp buən,dɑp buən,[],,['chan2019'],,False,False,,1
+pear1247-1-15-1,,pear1247-1,15,prăm tandap,prăm tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-15-2,,pear1247-1,15,dɑp pram,dɑp pram,[],,['chan2019'],,False,False,,1
+pear1247-1-16-1,,pear1247-1,16,prăm muəj tandap,prăm muəj tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-16-2,,pear1247-1,16,dɑp prăm muəj,dɑp prăm muəj,[],,['chan2019'],,False,False,,1
+pear1247-1-17-1,,pear1247-1,17,prăm piər̃ tandap,prăm piər̃ tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-17-2,,pear1247-1,17,dɑp prăm piː,dɑp prăm piː,[],,['chan2019'],,False,False,,1
+pear1247-1-18-1,,pear1247-1,18,prăm paj tandap,prăm paj tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-18-2,,pear1247-1,18,dɑp prăm bəj,dɑp prăm bəj,[],,['chan2019'],,False,False,,1
+pear1247-1-19-1,,pear1247-1,19,prăm paon tandap,prăm paon tandap,[],,['chan2019'],,False,False,,1
+pear1247-1-19-2,,pear1247-1,19,dɑp prăm buən,dɑp prăm buən,[],,['chan2019'],,False,False,,1
+pear1247-1-20-1,,pear1247-1,20,məpʰei,məpʰei,[],< Khmer ,['chan2019'],,True,False,,1
+pear1247-1-21-1,,pear1247-1,21,məpʰei muəj,məpʰei muəj,[],,['chan2019'],,False,False,,1
+pear1247-1-22-1,,pear1247-1,22,məpʰei piː,məpʰei piː,[],,['chan2019'],,False,False,,1
+pear1247-1-23-1,,pear1247-1,23,məpʰei bəj,məpʰei bəj,[],,['chan2019'],,False,False,,1
+pear1247-1-24-1,,pear1247-1,24,məpʰei buən,məpʰei buən,[],,['chan2019'],,False,False,,1
+pear1247-1-25-1,,pear1247-1,25,məpʰei pram,məpʰei pram,[],,['chan2019'],,False,False,,1
+pear1247-1-26-1,,pear1247-1,26,məpʰei prammuəj,məpʰei prammuəj,[],,['chan2019'],,False,False,,1
+pear1247-1-27-1,,pear1247-1,27,məpʰei prambəj,məpʰei prambəj,[],,['chan2019'],,False,False,,1
+pear1247-1-29-1,,pear1247-1,29,məpʰei prambuən,məpʰei prambuən,[],,['chan2019'],,False,False,,1
+pear1247-1-30-1,,pear1247-1,30,samsɤp,samsɤp,[],,['chan2019'],,False,False,,1
+pear1247-1-40-1,,pear1247-1,40,saːɛsɤp,saːɛsɤp,[],,['chan2019'],,False,False,,1
+pear1247-1-50-1,,pear1247-1,50,haːsɤp,haːsɤp,[],,['chan2019'],,False,False,,1
+pear1247-1-60-1,,pear1247-1,60,hɔʷksɤp,hɔʷksɤp,[],,['chan2019'],,False,False,,1
+pear1247-1-70-1,,pear1247-1,70,t͡ʃɤtsɤp,t͡ʃɤtsɤp,[],,['chan2019'],,False,False,,1
+pear1247-1-80-1,,pear1247-1,80,paːɛsɤp,paːɛsɤp,[],,['chan2019'],,False,False,,1
+pear1247-1-90-1,,pear1247-1,90,kaːwsɤp,kaːwsɤp,[],,['chan2019'],,False,False,,1
+pear1247-1-100-1,,pear1247-1,100,rɔːj,rɔːj,[],,['chan2019'],,False,False,,1
+pear1247-1-200-1,,pear1247-1,200,piː rɔːj,piː rɔːj,[],,['chan2019'],,False,False,,1
+pear1247-1-1000-1,,pear1247-1,1000,məpɔən,məpɔən,[],,['chan2019'],,False,False,,1
+pear1247-1-2000-1,,pear1247-1,2000,piː pɔən,piː pɔən,[],,['chan2019'],,False,False,,1

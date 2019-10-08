@@ -1,29 +1,29 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kota1274-1-1-1,,kota1274-1,1,mɔ́kɔ̌,mɔ́kɔ̌,[],,[],,False,False,,1
-kota1274-1-2-1,,kota1274-1,2,bàbá,bàbá,[],,[],,False,False,,1
-kota1274-1-3-1,,kota1274-1,3,ìhã́tò,ìhã́tò,[],,[],,False,False,,1
-kota1274-1-4-1,,kota1274-1,4,náyì,náyì,[],,[],,False,False,,1
-kota1274-1-5-1,,kota1274-1,5,ntã́yì,ntã́yì,[],,[],,False,False,,1
-kota1274-1-6-1,,kota1274-1,6,ntóbà,ntóbà,[],,[],,False,False,,1
-kota1274-1-7-1,,kota1274-1,7,náyìnàhã́tò,náyìnàhã́tò,[],( 4 + 3 ),[],,False,False,,1
-kota1274-1-8-1,,kota1274-1,8,mwã́mbì,mwã́mbì,[],,[],,False,False,,1
-kota1274-1-9-1,,kota1274-1,9,ntánànáyì,ntánànáyì,[],( 5 + 4 ),[],,False,False,,1
-kota1274-1-10-1,,kota1274-1,10,dʒóhũ̀,dʒóhũ̀,[],,[],,False,False,,1
-kota1274-1-11-1,,kota1274-1,11,dʒóhũ̀nàmɔ́kɔ̌,dʒóhũ̀nàmɔ́kɔ̌,[],,[],,False,False,,1
-kota1274-1-12-1,,kota1274-1,12,dʒóhũ̀nàbàbá,dʒóhũ̀nàbàbá,[],,[],,False,False,,1
-kota1274-1-13-1,,kota1274-1,13,dʒóhũ̀nàhã́tò,dʒóhũ̀nàhã́tò,[],,[],,False,False,,1
-kota1274-1-14-1,,kota1274-1,14,dʒóhũ̀nànáyì,dʒóhũ̀nànáyì,[],,[],,False,False,,1
-kota1274-1-15-1,,kota1274-1,15,dʒóhũ̀nàtã́yì,dʒóhũ̀nàtã́yì,[],,[],,False,False,,1
-kota1274-1-16-1,,kota1274-1,16,dʒóhũ̀nàntóbà,dʒóhũ̀nàntóbà,[],,[],,False,False,,1
-kota1274-1-17-1,,kota1274-1,17,dʒóhũ̀náyìnàhã́tò,dʒóhũ̀náyìnàhã́tò,[],,[],,False,False,,1
-kota1274-1-18-1,,kota1274-1,18,dʒóhũ̀nàmwã́mbì,dʒóhũ̀nàmwã́mbì,[],,[],,False,False,,1
-kota1274-1-19-1,,kota1274-1,19,dʒóhũ̀nàntã́yìnànáyì,dʒóhũ̀nàntã́yìnànáyì,[],,[],,False,False,,1
-kota1274-1-20-1,,kota1274-1,20,mèmbótò,mèmbótò,[],,[],,False,False,,1
-kota1274-1-30-1,,kota1274-1,30,mèmbótàmìhã́tò,mèmbótàmìhã́tò,[],,[],,False,False,,1
-kota1274-1-40-1,,kota1274-1,40,mèmbótomyènáyì,mèmbótomyènáyì,[],,[],,False,False,,1
-kota1274-1-50-1,,kota1274-1,50,mèmbótòmyèntã́yì,mèmbótòmyèntã́yì,[],,[],,False,False,,1
-kota1274-1-60-1,,kota1274-1,60,mèmbótòntóbà,mèmbótòntóbà,[],,[],,False,False,,1
-kota1274-1-70-1,,kota1274-1,70,mèmbòtónáyìnàhã́tò,mèmbòtónáyìnàhã́tò,[],,[],,False,False,,1
-kota1274-1-80-1,,kota1274-1,80,mèmbótòmwã́mbì,mèmbótòmwã́mbì,[],,[],,False,False,,1
-kota1274-1-90-1,,kota1274-1,90,mèmbótòntánànáyì,mèmbótòntánànáyì,[],,[],,False,False,,1
-kota1274-1-100-1,,kota1274-1,100,mèmbótòmyémbà,mèmbótòmyémbà,[],,[],,False,False,,1
+kota1274-1-1-1,,kota1274-1,1,mɔ́kɔ̌,mɔ́kɔ̌,[],,['chan2019'],,False,False,,1
+kota1274-1-2-1,,kota1274-1,2,bàbá,bàbá,[],,['chan2019'],,False,False,,1
+kota1274-1-3-1,,kota1274-1,3,ìhã́tò,ìhã́tò,[],,['chan2019'],,False,False,,1
+kota1274-1-4-1,,kota1274-1,4,náyì,náyì,[],,['chan2019'],,False,False,,1
+kota1274-1-5-1,,kota1274-1,5,ntã́yì,ntã́yì,[],,['chan2019'],,False,False,,1
+kota1274-1-6-1,,kota1274-1,6,ntóbà,ntóbà,[],,['chan2019'],,False,False,,1
+kota1274-1-7-1,,kota1274-1,7,náyìnàhã́tò,náyìnàhã́tò,[],( 4 + 3 ),['chan2019'],,False,False,,1
+kota1274-1-8-1,,kota1274-1,8,mwã́mbì,mwã́mbì,[],,['chan2019'],,False,False,,1
+kota1274-1-9-1,,kota1274-1,9,ntánànáyì,ntánànáyì,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kota1274-1-10-1,,kota1274-1,10,dʒóhũ̀,dʒóhũ̀,[],,['chan2019'],,False,False,,1
+kota1274-1-11-1,,kota1274-1,11,dʒóhũ̀nàmɔ́kɔ̌,dʒóhũ̀nàmɔ́kɔ̌,[],,['chan2019'],,False,False,,1
+kota1274-1-12-1,,kota1274-1,12,dʒóhũ̀nàbàbá,dʒóhũ̀nàbàbá,[],,['chan2019'],,False,False,,1
+kota1274-1-13-1,,kota1274-1,13,dʒóhũ̀nàhã́tò,dʒóhũ̀nàhã́tò,[],,['chan2019'],,False,False,,1
+kota1274-1-14-1,,kota1274-1,14,dʒóhũ̀nànáyì,dʒóhũ̀nànáyì,[],,['chan2019'],,False,False,,1
+kota1274-1-15-1,,kota1274-1,15,dʒóhũ̀nàtã́yì,dʒóhũ̀nàtã́yì,[],,['chan2019'],,False,False,,1
+kota1274-1-16-1,,kota1274-1,16,dʒóhũ̀nàntóbà,dʒóhũ̀nàntóbà,[],,['chan2019'],,False,False,,1
+kota1274-1-17-1,,kota1274-1,17,dʒóhũ̀náyìnàhã́tò,dʒóhũ̀náyìnàhã́tò,[],,['chan2019'],,False,False,,1
+kota1274-1-18-1,,kota1274-1,18,dʒóhũ̀nàmwã́mbì,dʒóhũ̀nàmwã́mbì,[],,['chan2019'],,False,False,,1
+kota1274-1-19-1,,kota1274-1,19,dʒóhũ̀nàntã́yìnànáyì,dʒóhũ̀nàntã́yìnànáyì,[],,['chan2019'],,False,False,,1
+kota1274-1-20-1,,kota1274-1,20,mèmbótò,mèmbótò,[],,['chan2019'],,False,False,,1
+kota1274-1-30-1,,kota1274-1,30,mèmbótàmìhã́tò,mèmbótàmìhã́tò,[],,['chan2019'],,False,False,,1
+kota1274-1-40-1,,kota1274-1,40,mèmbótomyènáyì,mèmbótomyènáyì,[],,['chan2019'],,False,False,,1
+kota1274-1-50-1,,kota1274-1,50,mèmbótòmyèntã́yì,mèmbótòmyèntã́yì,[],,['chan2019'],,False,False,,1
+kota1274-1-60-1,,kota1274-1,60,mèmbótòntóbà,mèmbótòntóbà,[],,['chan2019'],,False,False,,1
+kota1274-1-70-1,,kota1274-1,70,mèmbòtónáyìnàhã́tò,mèmbòtónáyìnàhã́tò,[],,['chan2019'],,False,False,,1
+kota1274-1-80-1,,kota1274-1,80,mèmbótòmwã́mbì,mèmbótòmwã́mbì,[],,['chan2019'],,False,False,,1
+kota1274-1-90-1,,kota1274-1,90,mèmbótòntánànáyì,mèmbótòntánànáyì,[],,['chan2019'],,False,False,,1
+kota1274-1-100-1,,kota1274-1,100,mèmbótòmyémbà,mèmbótòmyémbà,[],,['chan2019'],,False,False,,1

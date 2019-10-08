@@ -1,34 +1,34 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nobi1240-2-1-1,,nobi1240-2,1,wèer,wèer,[],,[],,False,False,,2
-nobi1240-2-1-2,,nobi1240-2,1,wéer,wéer,[],,[],,False,False,,2
-nobi1240-2-2-1,,nobi1240-2,2,úwwó,úwwó,[],,[],,False,False,,2
-nobi1240-2-3-1,,nobi1240-2,3,túskú,túskú,[],,[],,False,False,,2
-nobi1240-2-3-2,,nobi1240-2,3,tískó,tískó,[],,[],,False,False,,2
-nobi1240-2-4-1,,nobi1240-2,4,kémsó,kémsó,[],,[],,False,False,,2
-nobi1240-2-5-1,,nobi1240-2,5,dìj,dìj,[],,[],,False,False,,2
-nobi1240-2-5-2,,nobi1240-2,5,dìjì,dìjì,[],,[],,False,False,,2
-nobi1240-2-6-1,,nobi1240-2,6,ɡórjó,ɡórjó,[],,[],,False,False,,2
-nobi1240-2-7-1,,nobi1240-2,7,kòlòd,kòlòd,[],,[],,False,False,,2
-nobi1240-2-8-1,,nobi1240-2,8,ídwó,ídwó,[],,[],,False,False,,2
-nobi1240-2-9-1,,nobi1240-2,9,òskòd,òskòd,[],,[],,False,False,,2
-nobi1240-2-9-2,,nobi1240-2,9,òskòdi,òskòdi,[],,[],,False,False,,2
-nobi1240-2-10-1,,nobi1240-2,10,dímé,dímé,[],,[],,False,False,,2
-nobi1240-2-11-1,,nobi1240-2,11,dímé wèeràa,dímé wèeràa,[],,[],,False,False,,2
-nobi1240-2-12-1,,nobi1240-2,12,dímé úwwó,dímé úwwó,[],,[],,False,False,,2
-nobi1240-2-13-1,,nobi1240-2,13,dímé túskú,dímé túskú,[],,[],,False,False,,2
-nobi1240-2-14-1,,nobi1240-2,14,dímé kémsó,dímé kémsó,[],,[],,False,False,,2
-nobi1240-2-15-1,,nobi1240-2,15,dímé dìjáa,dímé dìjáa,[],,[],,False,False,,2
-nobi1240-2-16-1,,nobi1240-2,16,dímé ɡórjó,dímé ɡórjó,[],,[],,False,False,,2
-nobi1240-2-17-1,,nobi1240-2,17,dímé kòlòdáa,dímé kòlòdáa,[],,[],,False,False,,2
-nobi1240-2-18-1,,nobi1240-2,18,dímé ídwó,dímé ídwó,[],,[],,False,False,,2
-nobi1240-2-19-1,,nobi1240-2,19,dímé òskòdáa,dímé òskòdáa,[],,[],,False,False,,2
-nobi1240-2-20-1,,nobi1240-2,20,áróo,áróo,[],,[],,False,False,,2
-nobi1240-2-21-1,,nobi1240-2,21,áróo wèer,áróo wèer,[],,[],,False,False,,2
-nobi1240-2-22-1,,nobi1240-2,22,áróo úwwó,áróo úwwó,[],,[],,False,False,,2
-nobi1240-2-23-1,,nobi1240-2,23,áróo túskú,áróo túskú,[],,[],,False,False,,2
-nobi1240-2-24-1,,nobi1240-2,24,áróo kémsó,áróo kémsó,[],,[],,False,False,,2
-nobi1240-2-25-1,,nobi1240-2,25,áróo dìjì,áróo dìjì,[],,[],,False,False,,2
-nobi1240-2-26-1,,nobi1240-2,26,áróo ɡórjó,áróo ɡórjó,[],,[],,False,False,,2
-nobi1240-2-27-1,,nobi1240-2,27,áróo kòlòd,áróo kòlòd,[],,[],,False,False,,2
-nobi1240-2-28-1,,nobi1240-2,28,áróo ídwó,áróo ídwó,[],,[],,False,False,,2
-nobi1240-2-29-1,,nobi1240-2,29,áróo òskòd,áróo òskòd,[],,[],,False,False,,2
+nobi1240-2-1-1,,nobi1240-2,1,wèer,wèer,[],,['chan2019'],,False,False,,2
+nobi1240-2-1-2,,nobi1240-2,1,wéer,wéer,[],,['chan2019'],,False,False,,2
+nobi1240-2-2-1,,nobi1240-2,2,úwwó,úwwó,[],,['chan2019'],,False,False,,2
+nobi1240-2-3-1,,nobi1240-2,3,túskú,túskú,[],,['chan2019'],,False,False,,2
+nobi1240-2-3-2,,nobi1240-2,3,tískó,tískó,[],,['chan2019'],,False,False,,2
+nobi1240-2-4-1,,nobi1240-2,4,kémsó,kémsó,[],,['chan2019'],,False,False,,2
+nobi1240-2-5-1,,nobi1240-2,5,dìj,dìj,[],,['chan2019'],,False,False,,2
+nobi1240-2-5-2,,nobi1240-2,5,dìjì,dìjì,[],,['chan2019'],,False,False,,2
+nobi1240-2-6-1,,nobi1240-2,6,ɡórjó,ɡórjó,[],,['chan2019'],,False,False,,2
+nobi1240-2-7-1,,nobi1240-2,7,kòlòd,kòlòd,[],,['chan2019'],,False,False,,2
+nobi1240-2-8-1,,nobi1240-2,8,ídwó,ídwó,[],,['chan2019'],,False,False,,2
+nobi1240-2-9-1,,nobi1240-2,9,òskòd,òskòd,[],,['chan2019'],,False,False,,2
+nobi1240-2-9-2,,nobi1240-2,9,òskòdi,òskòdi,[],,['chan2019'],,False,False,,2
+nobi1240-2-10-1,,nobi1240-2,10,dímé,dímé,[],,['chan2019'],,False,False,,2
+nobi1240-2-11-1,,nobi1240-2,11,dímé wèeràa,dímé wèeràa,[],,['chan2019'],,False,False,,2
+nobi1240-2-12-1,,nobi1240-2,12,dímé úwwó,dímé úwwó,[],,['chan2019'],,False,False,,2
+nobi1240-2-13-1,,nobi1240-2,13,dímé túskú,dímé túskú,[],,['chan2019'],,False,False,,2
+nobi1240-2-14-1,,nobi1240-2,14,dímé kémsó,dímé kémsó,[],,['chan2019'],,False,False,,2
+nobi1240-2-15-1,,nobi1240-2,15,dímé dìjáa,dímé dìjáa,[],,['chan2019'],,False,False,,2
+nobi1240-2-16-1,,nobi1240-2,16,dímé ɡórjó,dímé ɡórjó,[],,['chan2019'],,False,False,,2
+nobi1240-2-17-1,,nobi1240-2,17,dímé kòlòdáa,dímé kòlòdáa,[],,['chan2019'],,False,False,,2
+nobi1240-2-18-1,,nobi1240-2,18,dímé ídwó,dímé ídwó,[],,['chan2019'],,False,False,,2
+nobi1240-2-19-1,,nobi1240-2,19,dímé òskòdáa,dímé òskòdáa,[],,['chan2019'],,False,False,,2
+nobi1240-2-20-1,,nobi1240-2,20,áróo,áróo,[],,['chan2019'],,False,False,,2
+nobi1240-2-21-1,,nobi1240-2,21,áróo wèer,áróo wèer,[],,['chan2019'],,False,False,,2
+nobi1240-2-22-1,,nobi1240-2,22,áróo úwwó,áróo úwwó,[],,['chan2019'],,False,False,,2
+nobi1240-2-23-1,,nobi1240-2,23,áróo túskú,áróo túskú,[],,['chan2019'],,False,False,,2
+nobi1240-2-24-1,,nobi1240-2,24,áróo kémsó,áróo kémsó,[],,['chan2019'],,False,False,,2
+nobi1240-2-25-1,,nobi1240-2,25,áróo dìjì,áróo dìjì,[],,['chan2019'],,False,False,,2
+nobi1240-2-26-1,,nobi1240-2,26,áróo ɡórjó,áróo ɡórjó,[],,['chan2019'],,False,False,,2
+nobi1240-2-27-1,,nobi1240-2,27,áróo kòlòd,áróo kòlòd,[],,['chan2019'],,False,False,,2
+nobi1240-2-28-1,,nobi1240-2,28,áróo ídwó,áróo ídwó,[],,['chan2019'],,False,False,,2
+nobi1240-2-29-1,,nobi1240-2,29,áróo òskòd,áróo òskòd,[],,['chan2019'],,False,False,,2

@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ngka1235-1-1-1,,ngka1235-1,1,næmpər,næmpər,[],,[],,False,False,,1
-ngka1235-1-2-1,,ngka1235-1,2,jɛmpoka,jɛmpoka,[],,[],,False,False,,1
-ngka1235-1-3-1,,ngka1235-1,3,juaw,juaw,[],,[],,False,False,,1
-ngka1235-1-4-1,,ngka1235-1,4,ɛsɛr,ɛsɛr,[],,[],,False,False,,1
-ngka1235-1-5-1,,ngka1235-1,5,tampul,tampul,[],,[],,False,False,,1
-ngka1235-1-6-1,,ngka1235-1,6,tɒrɒwɒ,tɒrɒwɒ,[],,[],,False,False,,1
+ngka1235-1-1-1,,ngka1235-1,1,næmpər,næmpər,[],,['chan2019'],,False,False,,1
+ngka1235-1-2-1,,ngka1235-1,2,jɛmpoka,jɛmpoka,[],,['chan2019'],,False,False,,1
+ngka1235-1-3-1,,ngka1235-1,3,juaw,juaw,[],,['chan2019'],,False,False,,1
+ngka1235-1-4-1,,ngka1235-1,4,ɛsɛr,ɛsɛr,[],,['chan2019'],,False,False,,1
+ngka1235-1-5-1,,ngka1235-1,5,tampul,tampul,[],,['chan2019'],,False,False,,1
+ngka1235-1-6-1,,ngka1235-1,6,tɒrɒwɒ,tɒrɒwɒ,[],,['chan2019'],,False,False,,1

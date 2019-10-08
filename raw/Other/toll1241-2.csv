@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-toll1241-2-1-1,,toll1241-2,1,pʰani,pʰani,[],,[],,False,False,,2
-toll1241-2-2-1,,toll1241-2,2,matˀa,matˀa,[],,[],,False,False,,2
-toll1241-2-3-1,,toll1241-2,3,kˀonte,kˀonte,[],,[],,False,False,,2
-toll1241-2-4-1,,toll1241-2,4,yurupʰan,yurupʰan,[],,[],,False,False,,2
-toll1241-2-5-1,,toll1241-2,5,five up from Spanish,five up from Spanish,[],,[],,False,True,,2
+toll1241-2-1-1,,toll1241-2,1,pʰani,pʰani,[],,['chan2019'],,False,False,,2
+toll1241-2-2-1,,toll1241-2,2,matˀa,matˀa,[],,['chan2019'],,False,False,,2
+toll1241-2-3-1,,toll1241-2,3,kˀonte,kˀonte,[],,['chan2019'],,False,False,,2
+toll1241-2-4-1,,toll1241-2,4,yurupʰan,yurupʰan,[],,['chan2019'],,False,False,,2
+toll1241-2-5-1,,toll1241-2,5,five up from Spanish,five up from Spanish,[],,['chan2019'],,False,True,,2

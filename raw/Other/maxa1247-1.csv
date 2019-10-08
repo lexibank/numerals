@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maxa1247-1-1-1,,maxa1247-1,1,p-xet,p-xet,[],( x = ʃ),[],,False,False,,1
-maxa1247-1-2-1,,maxa1247-1,2,tix,tix,[],,[],,False,False,,1
-maxa1247-1-3-1,,maxa1247-1,3,tikoxyuk,tikoxyuk,[],,[],,False,False,,1
+maxa1247-1-1-1,,maxa1247-1,1,p-xet,p-xet,[],( x = ʃ),['chan2019'],,False,False,,1
+maxa1247-1-2-1,,maxa1247-1,2,tix,tix,[],,['chan2019'],,False,False,,1
+maxa1247-1-3-1,,maxa1247-1,3,tikoxyuk,tikoxyuk,[],,['chan2019'],,False,False,,1

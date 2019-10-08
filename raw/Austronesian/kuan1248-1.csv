@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuan1248-1-1-1,,kuan1248-1,1,tɪkaɪ,tɪkaɪ,[],,[],,False,False,,1
-kuan1248-1-2-1,,kuan1248-1,2,aʊɾʊa,aʊɾʊa,[],,[],,False,False,,1
-kuan1248-1-3-1,,kuan1248-1,3,aʊtʊl,aʊtʊl,[],,[],,False,False,,1
-kuan1248-1-4-1,,kuan1248-1,4,aɪvat,aɪvat,[],,[],,False,False,,1
-kuan1248-1-5-1,,kuan1248-1,5,aɪlɪma,aɪlɪma,[],,[],,False,False,,1
-kuan1248-1-6-1,,kuan1248-1,6,aləptɪka,aləptɪka,[],( 5 + 1 ),[],,False,False,,1
-kuan1248-1-7-1,,kuan1248-1,7,aləvʊɾʊa,aləvʊɾʊa,[],( 5 + 2 ),[],,False,False,,1
-kuan1248-1-8-1,,kuan1248-1,8,aləvʊtʊl,aləvʊtʊl,[],( 5 + 3 ),[],,False,False,,1
-kuan1248-1-9-1,,kuan1248-1,9,aləvʊvat,aləvʊvat,[],( 5 + 4 ),[],,False,False,,1
-kuan1248-1-10-1,,kuan1248-1,10,avɪnʊn,avɪnʊn,[],,[],,False,False,,1
-kuan1248-1-11-1,,kuan1248-1,11,avɪnʊn ma tɪkaɪ,avɪnʊn ma tɪkaɪ,[],,[],,False,False,,1
-kuan1248-1-12-1,,kuan1248-1,12,avɪnʊn ma aʊɾʊa,avɪnʊn ma aʊɾʊa,[],,[],,False,False,,1
-kuan1248-1-13-1,,kuan1248-1,13,avɪnʊn ma aʊtʊl,avɪnʊn ma aʊtʊl,[],,[],,False,False,,1
-kuan1248-1-14-1,,kuan1248-1,14,avɪnʊn ma aɪvat,avɪnʊn ma aɪvat,[],,[],,False,False,,1
-kuan1248-1-15-1,,kuan1248-1,15,avɪnʊn ma aɪlɪma,avɪnʊn ma aɪlɪma,[],,[],,False,False,,1
-kuan1248-1-16-1,,kuan1248-1,16,avɪnʊn ma aləptɪka,avɪnʊn ma aləptɪka,[],,[],,False,False,,1
-kuan1248-1-17-1,,kuan1248-1,17,avɪnʊn ma aləvʊɾʊa,avɪnʊn ma aləvʊɾʊa,[],,[],,False,False,,1
-kuan1248-1-18-1,,kuan1248-1,18,avɪnʊn ma aləvʊtʊl,avɪnʊn ma aləvʊtʊl,[],,[],,False,False,,1
-kuan1248-1-19-1,,kuan1248-1,19,avɪnʊn ma aləvʊvat,avɪnʊn ma aləvʊvat,[],,[],,False,False,,1
-kuan1248-1-20-1,,kuan1248-1,20,aʊɾa vɪnʊn,aʊɾa vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-21-1,,kuan1248-1,21,aʊɾa vɪnʊn ma tɪkaɪ,aʊɾa vɪnʊn ma tɪkaɪ,[],,[],,False,False,,1
-kuan1248-1-22-1,,kuan1248-1,22,aʊɾa vɪnʊn ma aʊɾʊa,aʊɾa vɪnʊn ma aʊɾʊa,[],,[],,False,False,,1
-kuan1248-1-23-1,,kuan1248-1,23,aʊɾa vɪnʊn ma aʊtʊl,aʊɾa vɪnʊn ma aʊtʊl,[],,[],,False,False,,1
-kuan1248-1-24-1,,kuan1248-1,24,aʊɾa vɪnʊn ma aɪvat,aʊɾa vɪnʊn ma aɪvat,[],,[],,False,False,,1
-kuan1248-1-25-1,,kuan1248-1,25,aʊɾa vɪnʊn ma aɪlɪma,aʊɾa vɪnʊn ma aɪlɪma,[],,[],,False,False,,1
-kuan1248-1-26-1,,kuan1248-1,26,aʊɾa vɪnʊn ma aləptɪka,aʊɾa vɪnʊn ma aləptɪka,[],,[],,False,False,,1
-kuan1248-1-27-1,,kuan1248-1,27,aʊɾa vɪnʊn ma aləvʊɾʊa,aʊɾa vɪnʊn ma aləvʊɾʊa,[],,[],,False,False,,1
-kuan1248-1-28-1,,kuan1248-1,28,aʊɾa vɪnʊn ma aləvʊtʊl,aʊɾa vɪnʊn ma aləvʊtʊl,[],,[],,False,False,,1
-kuan1248-1-29-1,,kuan1248-1,29,aʊɾa vɪnʊn ma aləvʊvat,aʊɾa vɪnʊn ma aləvʊvat,[],,[],,False,False,,1
-kuan1248-1-30-1,,kuan1248-1,30,aʊtʊl na vɪnʊn,aʊtʊl na vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-40-1,,kuan1248-1,40,aɪvat na vɪnʊn,aɪvat na vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-50-1,,kuan1248-1,50,aɪlɪma na vɪnʊn,aɪlɪma na vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-60-1,,kuan1248-1,60,aləptɪka na vɪnʊn,aləptɪka na vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-70-1,,kuan1248-1,70,aləvʊɾʊa na vɪnʊn,aləvʊɾʊa na vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-80-1,,kuan1248-1,80,aləvʊtʊl na vɪnʊn,aləvʊtʊl na vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-90-1,,kuan1248-1,90,aləvʊvat na vɪnʊn,aləvʊvat na vɪnʊn,[],,[],,False,False,,1
-kuan1248-1-100-1,,kuan1248-1,100,tɪkanamaɾ,tɪkanamaɾ,[],,[],,False,False,,1
-kuan1248-1-200-1,,kuan1248-1,200,aʊɾa maɾ,aʊɾa maɾ,[],,[],,False,False,,1
-kuan1248-1-1000-1,,kuan1248-1,1000,tɪkana aɾip,tɪkana aɾip,[],,[],,False,False,,1
-kuan1248-1-2000-1,,kuan1248-1,2000,aʊɾa aɾip,aʊɾa aɾip,[],,[],,False,False,,1
+kuan1248-1-1-1,,kuan1248-1,1,tɪkaɪ,tɪkaɪ,[],,['chan2019'],,False,False,,1
+kuan1248-1-2-1,,kuan1248-1,2,aʊɾʊa,aʊɾʊa,[],,['chan2019'],,False,False,,1
+kuan1248-1-3-1,,kuan1248-1,3,aʊtʊl,aʊtʊl,[],,['chan2019'],,False,False,,1
+kuan1248-1-4-1,,kuan1248-1,4,aɪvat,aɪvat,[],,['chan2019'],,False,False,,1
+kuan1248-1-5-1,,kuan1248-1,5,aɪlɪma,aɪlɪma,[],,['chan2019'],,False,False,,1
+kuan1248-1-6-1,,kuan1248-1,6,aləptɪka,aləptɪka,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kuan1248-1-7-1,,kuan1248-1,7,aləvʊɾʊa,aləvʊɾʊa,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kuan1248-1-8-1,,kuan1248-1,8,aləvʊtʊl,aləvʊtʊl,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kuan1248-1-9-1,,kuan1248-1,9,aləvʊvat,aləvʊvat,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kuan1248-1-10-1,,kuan1248-1,10,avɪnʊn,avɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-11-1,,kuan1248-1,11,avɪnʊn ma tɪkaɪ,avɪnʊn ma tɪkaɪ,[],,['chan2019'],,False,False,,1
+kuan1248-1-12-1,,kuan1248-1,12,avɪnʊn ma aʊɾʊa,avɪnʊn ma aʊɾʊa,[],,['chan2019'],,False,False,,1
+kuan1248-1-13-1,,kuan1248-1,13,avɪnʊn ma aʊtʊl,avɪnʊn ma aʊtʊl,[],,['chan2019'],,False,False,,1
+kuan1248-1-14-1,,kuan1248-1,14,avɪnʊn ma aɪvat,avɪnʊn ma aɪvat,[],,['chan2019'],,False,False,,1
+kuan1248-1-15-1,,kuan1248-1,15,avɪnʊn ma aɪlɪma,avɪnʊn ma aɪlɪma,[],,['chan2019'],,False,False,,1
+kuan1248-1-16-1,,kuan1248-1,16,avɪnʊn ma aləptɪka,avɪnʊn ma aləptɪka,[],,['chan2019'],,False,False,,1
+kuan1248-1-17-1,,kuan1248-1,17,avɪnʊn ma aləvʊɾʊa,avɪnʊn ma aləvʊɾʊa,[],,['chan2019'],,False,False,,1
+kuan1248-1-18-1,,kuan1248-1,18,avɪnʊn ma aləvʊtʊl,avɪnʊn ma aləvʊtʊl,[],,['chan2019'],,False,False,,1
+kuan1248-1-19-1,,kuan1248-1,19,avɪnʊn ma aləvʊvat,avɪnʊn ma aləvʊvat,[],,['chan2019'],,False,False,,1
+kuan1248-1-20-1,,kuan1248-1,20,aʊɾa vɪnʊn,aʊɾa vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-21-1,,kuan1248-1,21,aʊɾa vɪnʊn ma tɪkaɪ,aʊɾa vɪnʊn ma tɪkaɪ,[],,['chan2019'],,False,False,,1
+kuan1248-1-22-1,,kuan1248-1,22,aʊɾa vɪnʊn ma aʊɾʊa,aʊɾa vɪnʊn ma aʊɾʊa,[],,['chan2019'],,False,False,,1
+kuan1248-1-23-1,,kuan1248-1,23,aʊɾa vɪnʊn ma aʊtʊl,aʊɾa vɪnʊn ma aʊtʊl,[],,['chan2019'],,False,False,,1
+kuan1248-1-24-1,,kuan1248-1,24,aʊɾa vɪnʊn ma aɪvat,aʊɾa vɪnʊn ma aɪvat,[],,['chan2019'],,False,False,,1
+kuan1248-1-25-1,,kuan1248-1,25,aʊɾa vɪnʊn ma aɪlɪma,aʊɾa vɪnʊn ma aɪlɪma,[],,['chan2019'],,False,False,,1
+kuan1248-1-26-1,,kuan1248-1,26,aʊɾa vɪnʊn ma aləptɪka,aʊɾa vɪnʊn ma aləptɪka,[],,['chan2019'],,False,False,,1
+kuan1248-1-27-1,,kuan1248-1,27,aʊɾa vɪnʊn ma aləvʊɾʊa,aʊɾa vɪnʊn ma aləvʊɾʊa,[],,['chan2019'],,False,False,,1
+kuan1248-1-28-1,,kuan1248-1,28,aʊɾa vɪnʊn ma aləvʊtʊl,aʊɾa vɪnʊn ma aləvʊtʊl,[],,['chan2019'],,False,False,,1
+kuan1248-1-29-1,,kuan1248-1,29,aʊɾa vɪnʊn ma aləvʊvat,aʊɾa vɪnʊn ma aləvʊvat,[],,['chan2019'],,False,False,,1
+kuan1248-1-30-1,,kuan1248-1,30,aʊtʊl na vɪnʊn,aʊtʊl na vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-40-1,,kuan1248-1,40,aɪvat na vɪnʊn,aɪvat na vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-50-1,,kuan1248-1,50,aɪlɪma na vɪnʊn,aɪlɪma na vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-60-1,,kuan1248-1,60,aləptɪka na vɪnʊn,aləptɪka na vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-70-1,,kuan1248-1,70,aləvʊɾʊa na vɪnʊn,aləvʊɾʊa na vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-80-1,,kuan1248-1,80,aləvʊtʊl na vɪnʊn,aləvʊtʊl na vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-90-1,,kuan1248-1,90,aləvʊvat na vɪnʊn,aləvʊvat na vɪnʊn,[],,['chan2019'],,False,False,,1
+kuan1248-1-100-1,,kuan1248-1,100,tɪkanamaɾ,tɪkanamaɾ,[],,['chan2019'],,False,False,,1
+kuan1248-1-200-1,,kuan1248-1,200,aʊɾa maɾ,aʊɾa maɾ,[],,['chan2019'],,False,False,,1
+kuan1248-1-1000-1,,kuan1248-1,1000,tɪkana aɾip,tɪkana aɾip,[],,['chan2019'],,False,False,,1
+kuan1248-1-2000-1,,kuan1248-1,2000,aʊɾa aɾip,aʊɾa aɾip,[],,['chan2019'],,False,False,,1

@@ -1,35 +1,35 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bira1253-2-1-1,,bira1253-2,1,kalbano,kalbano,[],,[],,False,False,,2
-bira1253-2-1-2,,bira1253-2,1,ak:albano,ak:albano,[],,[],,False,False,,2
-bira1253-2-1-3,,bira1253-2,1,ʔatˈkalbano,ʔatˈkalbano,[],,[],,False,False,,2
-bira1253-2-2-1,,bira1253-2,2,lama,lama,[],,[],,False,False,,2
-bira1253-2-2-2,,bira1253-2,2,ˈlambano,ˈlambano,[],,[],,False,False,,2
-bira1253-2-3-1,,bira1253-2,3,zaħa,zaħa,[],,[],,False,False,,2
-bira1253-2-3-2,,bira1253-2,3,ˈzɛhæħ,ˈzɛhæħ,[],,[],,False,False,,2
-bira1253-2-4-1,,bira1253-2,4,talaħa,talaħa,[],,[],,False,False,,2
-bira1253-2-4-2,,bira1253-2,4,ˈtalaħa,ˈtalaħa,[],,[],,False,False,,2
-bira1253-2-5-1,,bira1253-2,5,χubbi,χubbi,[],,[],,False,False,,2
-bira1253-2-5-2,,bira1253-2,5,ˈxubi,ˈxubi,[],,[],,False,False,,2
-bira1253-2-6-1,,bira1253-2,6,tsanafa,tsanafa,[],,[],,False,False,,2
-bira1253-2-6-2,,bira1253-2,6,ˈt͡sanafa,ˈt͡sanafa,[],,[],,False,False,,2
-bira1253-2-7-1,,bira1253-2,7,taħːaŋke,taħːaŋke,[],,[],,False,False,,2
-bira1253-2-7-2,,bira1253-2,7,daˈħaŋki,daˈħaŋki,[],,[],,False,False,,2
-bira1253-2-8-1,,bira1253-2,8,ista,ista,[],,[],,False,False,,2
-bira1253-2-8-2,,bira1253-2,8,ˈiːsta,ˈiːsta,[],,[],,False,False,,2
-bira1253-2-9-1,,bira1253-2,9,ɡolːaŋke,ɡolːaŋke,[],,[],,False,False,,2
-bira1253-2-9-2,,bira1253-2,9,ɡoˈlːaŋki,ɡoˈlːaŋki,[],,[],,False,False,,2
-bira1253-2-10-1,,bira1253-2,10,tʃoma,tʃoma,[],,[],,False,False,,2
-bira1253-2-10-2,,bira1253-2,10,t͡ʃoma,t͡ʃoma,[],,[],,False,False,,2
-bira1253-2-11-1,,bira1253-2,11,tʃoma ak:albano,tʃoma ak:albano,[],,[],,False,False,,2
-bira1253-2-12-1,,bira1253-2,12,tʃoma lama,tʃoma lama,[],,[],,False,False,,2
-bira1253-2-13-1,,bira1253-2,13,tʃoma zaħa,tʃoma zaħa,[],,[],,False,False,,2
-bira1253-2-14-1,,bira1253-2,14,tʃoma talaħa,tʃoma talaħa,[],,[],,False,False,,2
-bira1253-2-15-1,,bira1253-2,15,tʃoma χubbi,tʃoma χubbi,[],,[],,False,False,,2
-bira1253-2-16-1,,bira1253-2,16,tʃoma tsanafa,tʃoma tsanafa,[],,[],,False,False,,2
-bira1253-2-17-1,,bira1253-2,17,tʃoma taħːaŋke,tʃoma taħːaŋke,[],,[],,False,False,,2
-bira1253-2-18-1,,bira1253-2,18,tʃoma ista,tʃoma ista,[],,[],,False,False,,2
-bira1253-2-19-1,,bira1253-2,19,tʃoma ɡolːaŋke,tʃoma ɡolːaŋke,[],,[],,False,False,,2
-bira1253-2-20-1,,bira1253-2,20,sɛnˈlama,sɛnˈlama,[],,[],,False,False,,2
-bira1253-2-100-1,,bira1253-2,100,ɗibːa,ɗibːa,[],,[],,False,False,,2
-bira1253-2-100-2,,bira1253-2,100,ɗipːa,ɗipːa,[],,[],,False,False,,2
-bira1253-2-100-3,,bira1253-2,100,sɛnˈt͡ʃoma,sɛnˈt͡ʃoma,[],,[],,False,False,,2
+bira1253-2-1-1,,bira1253-2,1,kalbano,kalbano,[],,['chan2019'],,False,False,,2
+bira1253-2-1-2,,bira1253-2,1,ak:albano,ak:albano,[],,['chan2019'],,False,False,,2
+bira1253-2-1-3,,bira1253-2,1,ʔatˈkalbano,ʔatˈkalbano,[],,['chan2019'],,False,False,,2
+bira1253-2-2-1,,bira1253-2,2,lama,lama,[],,['chan2019'],,False,False,,2
+bira1253-2-2-2,,bira1253-2,2,ˈlambano,ˈlambano,[],,['chan2019'],,False,False,,2
+bira1253-2-3-1,,bira1253-2,3,zaħa,zaħa,[],,['chan2019'],,False,False,,2
+bira1253-2-3-2,,bira1253-2,3,ˈzɛhæħ,ˈzɛhæħ,[],,['chan2019'],,False,False,,2
+bira1253-2-4-1,,bira1253-2,4,talaħa,talaħa,[],,['chan2019'],,False,False,,2
+bira1253-2-4-2,,bira1253-2,4,ˈtalaħa,ˈtalaħa,[],,['chan2019'],,False,False,,2
+bira1253-2-5-1,,bira1253-2,5,χubbi,χubbi,[],,['chan2019'],,False,False,,2
+bira1253-2-5-2,,bira1253-2,5,ˈxubi,ˈxubi,[],,['chan2019'],,False,False,,2
+bira1253-2-6-1,,bira1253-2,6,tsanafa,tsanafa,[],,['chan2019'],,False,False,,2
+bira1253-2-6-2,,bira1253-2,6,ˈt͡sanafa,ˈt͡sanafa,[],,['chan2019'],,False,False,,2
+bira1253-2-7-1,,bira1253-2,7,taħːaŋke,taħːaŋke,[],,['chan2019'],,False,False,,2
+bira1253-2-7-2,,bira1253-2,7,daˈħaŋki,daˈħaŋki,[],,['chan2019'],,False,False,,2
+bira1253-2-8-1,,bira1253-2,8,ista,ista,[],,['chan2019'],,False,False,,2
+bira1253-2-8-2,,bira1253-2,8,ˈiːsta,ˈiːsta,[],,['chan2019'],,False,False,,2
+bira1253-2-9-1,,bira1253-2,9,ɡolːaŋke,ɡolːaŋke,[],,['chan2019'],,False,False,,2
+bira1253-2-9-2,,bira1253-2,9,ɡoˈlːaŋki,ɡoˈlːaŋki,[],,['chan2019'],,False,False,,2
+bira1253-2-10-1,,bira1253-2,10,tʃoma,tʃoma,[],,['chan2019'],,False,False,,2
+bira1253-2-10-2,,bira1253-2,10,t͡ʃoma,t͡ʃoma,[],,['chan2019'],,False,False,,2
+bira1253-2-11-1,,bira1253-2,11,tʃoma ak:albano,tʃoma ak:albano,[],,['chan2019'],,False,False,,2
+bira1253-2-12-1,,bira1253-2,12,tʃoma lama,tʃoma lama,[],,['chan2019'],,False,False,,2
+bira1253-2-13-1,,bira1253-2,13,tʃoma zaħa,tʃoma zaħa,[],,['chan2019'],,False,False,,2
+bira1253-2-14-1,,bira1253-2,14,tʃoma talaħa,tʃoma talaħa,[],,['chan2019'],,False,False,,2
+bira1253-2-15-1,,bira1253-2,15,tʃoma χubbi,tʃoma χubbi,[],,['chan2019'],,False,False,,2
+bira1253-2-16-1,,bira1253-2,16,tʃoma tsanafa,tʃoma tsanafa,[],,['chan2019'],,False,False,,2
+bira1253-2-17-1,,bira1253-2,17,tʃoma taħːaŋke,tʃoma taħːaŋke,[],,['chan2019'],,False,False,,2
+bira1253-2-18-1,,bira1253-2,18,tʃoma ista,tʃoma ista,[],,['chan2019'],,False,False,,2
+bira1253-2-19-1,,bira1253-2,19,tʃoma ɡolːaŋke,tʃoma ɡolːaŋke,[],,['chan2019'],,False,False,,2
+bira1253-2-20-1,,bira1253-2,20,sɛnˈlama,sɛnˈlama,[],,['chan2019'],,False,False,,2
+bira1253-2-100-1,,bira1253-2,100,ɗibːa,ɗibːa,[],,['chan2019'],,False,False,,2
+bira1253-2-100-2,,bira1253-2,100,ɗipːa,ɗipːa,[],,['chan2019'],,False,False,,2
+bira1253-2-100-3,,bira1253-2,100,sɛnˈt͡ʃoma,sɛnˈt͡ʃoma,[],,['chan2019'],,False,False,,2

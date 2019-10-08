@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nana1257-2-1-1,,nana1257-2,1,əmkən,əmkən,[],,[],,False,False,,2
-nana1257-2-2-1,,nana1257-2,2,dʐuru,dʐuru,[],,[],,False,False,,2
-nana1257-2-3-1,,nana1257-2,3,ilan,ilan,[],,[],,False,False,,2
-nana1257-2-4-1,,nana1257-2,4,dujin,dujin,[],,[],,False,False,,2
-nana1257-2-5-1,,nana1257-2,5,sundʑa,sundʑa,[],,[],,False,False,,2
-nana1257-2-6-1,,nana1257-2,6,niŋun,niŋun,[],,[],,False,False,,2
-nana1257-2-7-1,,nana1257-2,7,nadan,nadan,[],,[],,False,False,,2
-nana1257-2-8-1,,nana1257-2,8,dʐaqun,dʐaqun,[],,[],,False,False,,2
-nana1257-2-9-1,,nana1257-2,9,ujyn,ujyn,[],,[],,False,False,,2
-nana1257-2-10-1,,nana1257-2,10,dʐuan,dʐuan,[],,[],,False,False,,2
-nana1257-2-11-1,,nana1257-2,11,dʐuan əmkən,dʐuan əmkən,[],,[],,False,False,,2
-nana1257-2-12-1,,nana1257-2,12,dʐuan dʐu,dʐuan dʐu,[],,[],,False,False,,2
-nana1257-2-13-1,,nana1257-2,13,dʐuan ilan,dʐuan ilan,[],,[],,False,False,,2
-nana1257-2-14-1,,nana1257-2,14,dʐuan dujin,dʐuan dujin,[],,[],,False,False,,2
-nana1257-2-15-1,,nana1257-2,15,tobqon,tobqon,[],,[],,False,False,,2
-nana1257-2-16-1,,nana1257-2,16,dʐuan niŋun,dʐuan niŋun,[],,[],,False,False,,2
-nana1257-2-17-1,,nana1257-2,17,dʐuan nadan,dʐuan nadan,[],,[],,False,False,,2
-nana1257-2-18-1,,nana1257-2,18,dʐuan dʐaqun,dʐuan dʐaqun,[],,[],,False,False,,2
-nana1257-2-19-1,,nana1257-2,19,dʐuan uyin,dʐuan uyin,[],,[],,False,False,,2
-nana1257-2-20-1,,nana1257-2,20,orin,orin,[],,[],,False,False,,2
-nana1257-2-21-1,,nana1257-2,21,orin əmkən,orin əmkən,[],,[],,False,False,,2
-nana1257-2-22-1,,nana1257-2,22,orin dʐu,orin dʐu,[],,[],,False,False,,2
-nana1257-2-23-1,,nana1257-2,23,orin ilan,orin ilan,[],,[],,False,False,,2
-nana1257-2-24-1,,nana1257-2,24,orin dujin,orin dujin,[],,[],,False,False,,2
-nana1257-2-25-1,,nana1257-2,25,orin sundʑa,orin sundʑa,[],,[],,False,False,,2
-nana1257-2-26-1,,nana1257-2,26,orin niŋun,orin niŋun,[],,[],,False,False,,2
-nana1257-2-27-1,,nana1257-2,27,orin nadan,orin nadan,[],,[],,False,False,,2
-nana1257-2-28-1,,nana1257-2,28,orin dʐaqun,orin dʐaqun,[],,[],,False,False,,2
-nana1257-2-29-1,,nana1257-2,29,orin ujyn,orin ujyn,[],,[],,False,False,,2
-nana1257-2-30-1,,nana1257-2,30,ɢoɕin,ɢoɕin,[],,[],,False,False,,2
-nana1257-2-40-1,,nana1257-2,40,dəxi,dəxi,[],,[],,False,False,,2
-nana1257-2-50-1,,nana1257-2,50,susai,susai,[],,[],,False,False,,2
-nana1257-2-60-1,,nana1257-2,60,nindʐu,nindʐu,[],,[],,False,False,,2
-nana1257-2-70-1,,nana1257-2,70,nadandʐu,nadandʐu,[],,[],,False,False,,2
-nana1257-2-80-1,,nana1257-2,80,dʐaqundʐu,dʐaqundʐu,[],,[],,False,False,,2
-nana1257-2-90-1,,nana1257-2,90,ujndʐu,ujndʐu,[],,[],,False,False,,2
-nana1257-2-100-1,,nana1257-2,100,əm taŋu,əm taŋu,[],,[],,False,False,,2
-nana1257-2-200-1,,nana1257-2,200,dʐu taŋu,dʐu taŋu,[],,[],,False,False,,2
-nana1257-2-1000-1,,nana1257-2,1000,əm miŋan,əm miŋan,[],,[],,False,False,,2
-nana1257-2-2000-1,,nana1257-2,2000,dʐu miŋan,dʐu miŋan,[],,[],,False,False,,2
+nana1257-2-1-1,,nana1257-2,1,əmkən,əmkən,[],,['chan2019'],,False,False,,2
+nana1257-2-2-1,,nana1257-2,2,dʐuru,dʐuru,[],,['chan2019'],,False,False,,2
+nana1257-2-3-1,,nana1257-2,3,ilan,ilan,[],,['chan2019'],,False,False,,2
+nana1257-2-4-1,,nana1257-2,4,dujin,dujin,[],,['chan2019'],,False,False,,2
+nana1257-2-5-1,,nana1257-2,5,sundʑa,sundʑa,[],,['chan2019'],,False,False,,2
+nana1257-2-6-1,,nana1257-2,6,niŋun,niŋun,[],,['chan2019'],,False,False,,2
+nana1257-2-7-1,,nana1257-2,7,nadan,nadan,[],,['chan2019'],,False,False,,2
+nana1257-2-8-1,,nana1257-2,8,dʐaqun,dʐaqun,[],,['chan2019'],,False,False,,2
+nana1257-2-9-1,,nana1257-2,9,ujyn,ujyn,[],,['chan2019'],,False,False,,2
+nana1257-2-10-1,,nana1257-2,10,dʐuan,dʐuan,[],,['chan2019'],,False,False,,2
+nana1257-2-11-1,,nana1257-2,11,dʐuan əmkən,dʐuan əmkən,[],,['chan2019'],,False,False,,2
+nana1257-2-12-1,,nana1257-2,12,dʐuan dʐu,dʐuan dʐu,[],,['chan2019'],,False,False,,2
+nana1257-2-13-1,,nana1257-2,13,dʐuan ilan,dʐuan ilan,[],,['chan2019'],,False,False,,2
+nana1257-2-14-1,,nana1257-2,14,dʐuan dujin,dʐuan dujin,[],,['chan2019'],,False,False,,2
+nana1257-2-15-1,,nana1257-2,15,tobqon,tobqon,[],,['chan2019'],,False,False,,2
+nana1257-2-16-1,,nana1257-2,16,dʐuan niŋun,dʐuan niŋun,[],,['chan2019'],,False,False,,2
+nana1257-2-17-1,,nana1257-2,17,dʐuan nadan,dʐuan nadan,[],,['chan2019'],,False,False,,2
+nana1257-2-18-1,,nana1257-2,18,dʐuan dʐaqun,dʐuan dʐaqun,[],,['chan2019'],,False,False,,2
+nana1257-2-19-1,,nana1257-2,19,dʐuan uyin,dʐuan uyin,[],,['chan2019'],,False,False,,2
+nana1257-2-20-1,,nana1257-2,20,orin,orin,[],,['chan2019'],,False,False,,2
+nana1257-2-21-1,,nana1257-2,21,orin əmkən,orin əmkən,[],,['chan2019'],,False,False,,2
+nana1257-2-22-1,,nana1257-2,22,orin dʐu,orin dʐu,[],,['chan2019'],,False,False,,2
+nana1257-2-23-1,,nana1257-2,23,orin ilan,orin ilan,[],,['chan2019'],,False,False,,2
+nana1257-2-24-1,,nana1257-2,24,orin dujin,orin dujin,[],,['chan2019'],,False,False,,2
+nana1257-2-25-1,,nana1257-2,25,orin sundʑa,orin sundʑa,[],,['chan2019'],,False,False,,2
+nana1257-2-26-1,,nana1257-2,26,orin niŋun,orin niŋun,[],,['chan2019'],,False,False,,2
+nana1257-2-27-1,,nana1257-2,27,orin nadan,orin nadan,[],,['chan2019'],,False,False,,2
+nana1257-2-28-1,,nana1257-2,28,orin dʐaqun,orin dʐaqun,[],,['chan2019'],,False,False,,2
+nana1257-2-29-1,,nana1257-2,29,orin ujyn,orin ujyn,[],,['chan2019'],,False,False,,2
+nana1257-2-30-1,,nana1257-2,30,ɢoɕin,ɢoɕin,[],,['chan2019'],,False,False,,2
+nana1257-2-40-1,,nana1257-2,40,dəxi,dəxi,[],,['chan2019'],,False,False,,2
+nana1257-2-50-1,,nana1257-2,50,susai,susai,[],,['chan2019'],,False,False,,2
+nana1257-2-60-1,,nana1257-2,60,nindʐu,nindʐu,[],,['chan2019'],,False,False,,2
+nana1257-2-70-1,,nana1257-2,70,nadandʐu,nadandʐu,[],,['chan2019'],,False,False,,2
+nana1257-2-80-1,,nana1257-2,80,dʐaqundʐu,dʐaqundʐu,[],,['chan2019'],,False,False,,2
+nana1257-2-90-1,,nana1257-2,90,ujndʐu,ujndʐu,[],,['chan2019'],,False,False,,2
+nana1257-2-100-1,,nana1257-2,100,əm taŋu,əm taŋu,[],,['chan2019'],,False,False,,2
+nana1257-2-200-1,,nana1257-2,200,dʐu taŋu,dʐu taŋu,[],,['chan2019'],,False,False,,2
+nana1257-2-1000-1,,nana1257-2,1000,əm miŋan,əm miŋan,[],,['chan2019'],,False,False,,2
+nana1257-2-2000-1,,nana1257-2,2000,dʐu miŋan,dʐu miŋan,[],,['chan2019'],,False,False,,2

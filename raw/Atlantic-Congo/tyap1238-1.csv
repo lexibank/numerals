@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tyap1238-1-1-1,,tyap1238-1,1,anyuŋ,anyuŋ,[],,[],,False,False,,1
-tyap1238-1-2-1,,tyap1238-1,2,afeaŋ,afeaŋ,[],,[],,False,False,,1
-tyap1238-1-3-1,,tyap1238-1,3,atat,atat,[],,[],,False,False,,1
-tyap1238-1-4-1,,tyap1238-1,4,anaai,anaai,[],,[],,False,False,,1
-tyap1238-1-5-1,,tyap1238-1,5,afwuon,afwuon,[],,[],,False,False,,1
-tyap1238-1-6-1,,tyap1238-1,6,ataa,ataa,[],,[],,False,False,,1
-tyap1238-1-7-1,,tyap1238-1,7,anatat,anatat,[],,[],,False,False,,1
-tyap1238-1-8-1,,tyap1238-1,8,aninai,aninai,[],,[],,False,False,,1
-tyap1238-1-9-1,,tyap1238-1,9,akubunyuŋ,akubunyuŋ,[],,[],,False,False,,1
-tyap1238-1-10-1,,tyap1238-1,10,swak,swak,[],,[],,False,False,,1
-tyap1238-1-11-1,,tyap1238-1,11,swak manyuŋ,swak manyuŋ,[],,[],,False,False,,1
-tyap1238-1-12-1,,tyap1238-1,12,swak mafeaŋ,swak mafeaŋ,[],,[],,False,False,,1
-tyap1238-1-13-1,,tyap1238-1,13,swak matat,swak matat,[],,[],,False,False,,1
-tyap1238-1-14-1,,tyap1238-1,14,swak manaai,swak manaai,[],,[],,False,False,,1
-tyap1238-1-15-1,,tyap1238-1,15,swak mafwuon,swak mafwuon,[],,[],,False,False,,1
-tyap1238-1-16-1,,tyap1238-1,16,swak mataa,swak mataa,[],,[],,False,False,,1
-tyap1238-1-17-1,,tyap1238-1,17,swak manatat,swak manatat,[],,[],,False,False,,1
-tyap1238-1-18-1,,tyap1238-1,18,swak maninai,swak maninai,[],,[],,False,False,,1
-tyap1238-1-19-1,,tyap1238-1,19,swak makubunyuŋ,swak makubunyuŋ,[],,[],,False,False,,1
-tyap1238-1-20-1,,tyap1238-1,20,nswak feaŋ,nswak feaŋ,[],,[],,False,False,,1
-tyap1238-1-21-1,,tyap1238-1,21,nswak feaŋ manyuŋ,nswak feaŋ manyuŋ,[],,[],,False,False,,1
-tyap1238-1-22-1,,tyap1238-1,22,nswak feaŋ mafeaŋ,nswak feaŋ mafeaŋ,[],,[],,False,False,,1
-tyap1238-1-23-1,,tyap1238-1,23,nswak feaŋ matata,nswak feaŋ matata,[],,[],,False,False,,1
-tyap1238-1-24-1,,tyap1238-1,24,nswak feaŋ manaai,nswak feaŋ manaai,[],,[],,False,False,,1
-tyap1238-1-25-1,,tyap1238-1,25,nswak feaŋ mafwuon,nswak feaŋ mafwuon,[],,[],,False,False,,1
-tyap1238-1-26-1,,tyap1238-1,26,nswak feaŋ mataa,nswak feaŋ mataa,[],,[],,False,False,,1
-tyap1238-1-27-1,,tyap1238-1,27,nswak feaŋ manatat,nswak feaŋ manatat,[],,[],,False,False,,1
-tyap1238-1-28-1,,tyap1238-1,28,nswak feaŋ maninai,nswak feaŋ maninai,[],,[],,False,False,,1
-tyap1238-1-29-1,,tyap1238-1,29,nswak feaŋ makubunyuŋ,nswak feaŋ makubunyuŋ,[],,[],,False,False,,1
-tyap1238-1-30-1,,tyap1238-1,30,nswak tat,nswak tat,[],,[],,False,False,,1
-tyap1238-1-40-1,,tyap1238-1,40,nswak naai,nswak naai,[],,[],,False,False,,1
-tyap1238-1-50-1,,tyap1238-1,50,nswak fwuon,nswak fwuon,[],,[],,False,False,,1
-tyap1238-1-60-1,,tyap1238-1,60,nswak ataa,nswak ataa,[],,[],,False,False,,1
-tyap1238-1-70-1,,tyap1238-1,70,nswak anatat,nswak anatat,[],,[],,False,False,,1
-tyap1238-1-80-1,,tyap1238-1,80,nswak aninai,nswak aninai,[],,[],,False,False,,1
-tyap1238-1-90-1,,tyap1238-1,90,nswak akubunyuŋ,nswak akubunyuŋ,[],,[],,False,False,,1
-tyap1238-1-100-1,,tyap1238-1,100,chiyi-jhwuŋ,chiyi-jhwuŋ,[],,[],,False,False,,1
-tyap1238-1-200-1,,tyap1238-1,200,chìyi sweaŋ,chìyi sweaŋ,[],( 100 x 2 ),[],,False,False,,1
-tyap1238-1-1000-1,,tyap1238-1,1000,chìyikop jhwuŋ,chìyikop jhwuŋ,[],( 100 x 10 ),[],,False,False,,1
-tyap1238-1-2000-1,,tyap1238-1,2000,chìyikop sweaŋ,chìyikop sweaŋ,[],,[],,False,False,,1
+tyap1238-1-1-1,,tyap1238-1,1,anyuŋ,anyuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-2-1,,tyap1238-1,2,afeaŋ,afeaŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-3-1,,tyap1238-1,3,atat,atat,[],,['chan2019'],,False,False,,1
+tyap1238-1-4-1,,tyap1238-1,4,anaai,anaai,[],,['chan2019'],,False,False,,1
+tyap1238-1-5-1,,tyap1238-1,5,afwuon,afwuon,[],,['chan2019'],,False,False,,1
+tyap1238-1-6-1,,tyap1238-1,6,ataa,ataa,[],,['chan2019'],,False,False,,1
+tyap1238-1-7-1,,tyap1238-1,7,anatat,anatat,[],,['chan2019'],,False,False,,1
+tyap1238-1-8-1,,tyap1238-1,8,aninai,aninai,[],,['chan2019'],,False,False,,1
+tyap1238-1-9-1,,tyap1238-1,9,akubunyuŋ,akubunyuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-10-1,,tyap1238-1,10,swak,swak,[],,['chan2019'],,False,False,,1
+tyap1238-1-11-1,,tyap1238-1,11,swak manyuŋ,swak manyuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-12-1,,tyap1238-1,12,swak mafeaŋ,swak mafeaŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-13-1,,tyap1238-1,13,swak matat,swak matat,[],,['chan2019'],,False,False,,1
+tyap1238-1-14-1,,tyap1238-1,14,swak manaai,swak manaai,[],,['chan2019'],,False,False,,1
+tyap1238-1-15-1,,tyap1238-1,15,swak mafwuon,swak mafwuon,[],,['chan2019'],,False,False,,1
+tyap1238-1-16-1,,tyap1238-1,16,swak mataa,swak mataa,[],,['chan2019'],,False,False,,1
+tyap1238-1-17-1,,tyap1238-1,17,swak manatat,swak manatat,[],,['chan2019'],,False,False,,1
+tyap1238-1-18-1,,tyap1238-1,18,swak maninai,swak maninai,[],,['chan2019'],,False,False,,1
+tyap1238-1-19-1,,tyap1238-1,19,swak makubunyuŋ,swak makubunyuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-20-1,,tyap1238-1,20,nswak feaŋ,nswak feaŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-21-1,,tyap1238-1,21,nswak feaŋ manyuŋ,nswak feaŋ manyuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-22-1,,tyap1238-1,22,nswak feaŋ mafeaŋ,nswak feaŋ mafeaŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-23-1,,tyap1238-1,23,nswak feaŋ matata,nswak feaŋ matata,[],,['chan2019'],,False,False,,1
+tyap1238-1-24-1,,tyap1238-1,24,nswak feaŋ manaai,nswak feaŋ manaai,[],,['chan2019'],,False,False,,1
+tyap1238-1-25-1,,tyap1238-1,25,nswak feaŋ mafwuon,nswak feaŋ mafwuon,[],,['chan2019'],,False,False,,1
+tyap1238-1-26-1,,tyap1238-1,26,nswak feaŋ mataa,nswak feaŋ mataa,[],,['chan2019'],,False,False,,1
+tyap1238-1-27-1,,tyap1238-1,27,nswak feaŋ manatat,nswak feaŋ manatat,[],,['chan2019'],,False,False,,1
+tyap1238-1-28-1,,tyap1238-1,28,nswak feaŋ maninai,nswak feaŋ maninai,[],,['chan2019'],,False,False,,1
+tyap1238-1-29-1,,tyap1238-1,29,nswak feaŋ makubunyuŋ,nswak feaŋ makubunyuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-30-1,,tyap1238-1,30,nswak tat,nswak tat,[],,['chan2019'],,False,False,,1
+tyap1238-1-40-1,,tyap1238-1,40,nswak naai,nswak naai,[],,['chan2019'],,False,False,,1
+tyap1238-1-50-1,,tyap1238-1,50,nswak fwuon,nswak fwuon,[],,['chan2019'],,False,False,,1
+tyap1238-1-60-1,,tyap1238-1,60,nswak ataa,nswak ataa,[],,['chan2019'],,False,False,,1
+tyap1238-1-70-1,,tyap1238-1,70,nswak anatat,nswak anatat,[],,['chan2019'],,False,False,,1
+tyap1238-1-80-1,,tyap1238-1,80,nswak aninai,nswak aninai,[],,['chan2019'],,False,False,,1
+tyap1238-1-90-1,,tyap1238-1,90,nswak akubunyuŋ,nswak akubunyuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-100-1,,tyap1238-1,100,chiyi-jhwuŋ,chiyi-jhwuŋ,[],,['chan2019'],,False,False,,1
+tyap1238-1-200-1,,tyap1238-1,200,chìyi sweaŋ,chìyi sweaŋ,[],( 100 x 2 ),['chan2019'],,False,False,,1
+tyap1238-1-1000-1,,tyap1238-1,1000,chìyikop jhwuŋ,chìyikop jhwuŋ,[],( 100 x 10 ),['chan2019'],,False,False,,1
+tyap1238-1-2000-1,,tyap1238-1,2000,chìyikop sweaŋ,chìyikop sweaŋ,[],,['chan2019'],,False,False,,1

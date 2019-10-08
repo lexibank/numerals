@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tidu1239-1-1-1,,tidu1239-1,1,sainan,sainan,[],,[],,False,False,,1
-tidu1239-1-2-1,,tidu1239-1,2,duaʔ,duaʔ,[],,[],,False,False,,1
-tidu1239-1-3-1,,tidu1239-1,3,taluʔ,taluʔ,[],,[],,False,False,,1
-tidu1239-1-4-1,,tidu1239-1,4,ʔapat,ʔapat,[],,[],,False,False,,1
-tidu1239-1-5-1,,tidu1239-1,5,limoʔ,limoʔ,[],,[],,False,False,,1
-tidu1239-1-6-1,,tidu1239-1,6,ʔenom,ʔenom,[],,[],,False,False,,1
-tidu1239-1-7-1,,tidu1239-1,7,tud͡ʒu,tud͡ʒu,[],,[],,False,False,,1
-tidu1239-1-8-1,,tidu1239-1,8,walu,walu,[],,[],,False,False,,1
-tidu1239-1-9-1,,tidu1239-1,9,siam,siam,[],,[],,False,False,,1
-tidu1239-1-10-1,,tidu1239-1,10,sapu,sapu,[],,[],,False,False,,1
-tidu1239-1-11-1,,tidu1239-1,11,sapu sainan,sapu sainan,[],,[],,False,False,,1
-tidu1239-1-12-1,,tidu1239-1,12,sapu duaʔ,sapu duaʔ,[],,[],,False,False,,1
-tidu1239-1-13-1,,tidu1239-1,13,sapu taluʔ,sapu taluʔ,[],,[],,False,False,,1
-tidu1239-1-14-1,,tidu1239-1,14,sapu ʔapat,sapu ʔapat,[],,[],,False,False,,1
-tidu1239-1-15-1,,tidu1239-1,15,sapu limoʔ,sapu limoʔ,[],,[],,False,False,,1
-tidu1239-1-16-1,,tidu1239-1,16,sapu ʔenom,sapu ʔenom,[],,[],,False,False,,1
-tidu1239-1-17-1,,tidu1239-1,17,sapu tud͡ʒu,sapu tud͡ʒu,[],,[],,False,False,,1
-tidu1239-1-18-1,,tidu1239-1,18,sapu walu,sapu walu,[],,[],,False,False,,1
-tidu1239-1-19-1,,tidu1239-1,19,sapu siam,sapu siam,[],,[],,False,False,,1
-tidu1239-1-20-1,,tidu1239-1,20,duaʔmpu,duaʔmpu,[],,[],,False,False,,1
-tidu1239-1-21-1,,tidu1239-1,21,duaʔmpu sainan,duaʔmpu sainan,[],,[],,False,False,,1
-tidu1239-1-22-1,,tidu1239-1,22,duaʔmpu duaʔ,duaʔmpu duaʔ,[],,[],,False,False,,1
-tidu1239-1-23-1,,tidu1239-1,23,duaʔmpu taluʔ,duaʔmpu taluʔ,[],,[],,False,False,,1
-tidu1239-1-24-1,,tidu1239-1,24,duaʔmpu ʔapat,duaʔmpu ʔapat,[],,[],,False,False,,1
-tidu1239-1-25-1,,tidu1239-1,25,duaʔmpu limoʔ,duaʔmpu limoʔ,[],,[],,False,False,,1
-tidu1239-1-26-1,,tidu1239-1,26,duaʔmpu ʔenom,duaʔmpu ʔenom,[],,[],,False,False,,1
-tidu1239-1-27-1,,tidu1239-1,27,duaʔmpu tud͡ʒu,duaʔmpu tud͡ʒu,[],,[],,False,False,,1
-tidu1239-1-28-1,,tidu1239-1,28,duaʔmpu walu,duaʔmpu walu,[],,[],,False,False,,1
-tidu1239-1-29-1,,tidu1239-1,29,duaʔmpu siam,duaʔmpu siam,[],,[],,False,False,,1
-tidu1239-1-30-1,,tidu1239-1,30,talumpu,talumpu,[],,[],,False,False,,1
-tidu1239-1-40-1,,tidu1239-1,40,ʔapatmpu,ʔapatmpu,[],,[],,False,False,,1
-tidu1239-1-50-1,,tidu1239-1,50,limompu,limompu,[],,[],,False,False,,1
-tidu1239-1-60-1,,tidu1239-1,60,ʔenompu,ʔenompu,[],,[],,False,False,,1
-tidu1239-1-70-1,,tidu1239-1,70,tud͡ʒumpu,tud͡ʒumpu,[],,[],,False,False,,1
-tidu1239-1-80-1,,tidu1239-1,80,walumpu,walumpu,[],,[],,False,False,,1
-tidu1239-1-90-1,,tidu1239-1,90,siampu,siampu,[],,[],,False,False,,1
-tidu1239-1-100-1,,tidu1239-1,100,seratus,seratus,[],,[],,False,False,,1
-tidu1239-1-200-1,,tidu1239-1,200,duaʔ ratus,duaʔ ratus,[],,[],,False,False,,1
-tidu1239-1-1000-1,,tidu1239-1,1000,seribu,seribu,[],,[],,False,False,,1
-tidu1239-1-2000-1,,tidu1239-1,2000,duaʔ ribu,duaʔ ribu,[],,[],,False,False,,1
+tidu1239-1-1-1,,tidu1239-1,1,sainan,sainan,[],,['chan2019'],,False,False,,1
+tidu1239-1-2-1,,tidu1239-1,2,duaʔ,duaʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-3-1,,tidu1239-1,3,taluʔ,taluʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-4-1,,tidu1239-1,4,ʔapat,ʔapat,[],,['chan2019'],,False,False,,1
+tidu1239-1-5-1,,tidu1239-1,5,limoʔ,limoʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-6-1,,tidu1239-1,6,ʔenom,ʔenom,[],,['chan2019'],,False,False,,1
+tidu1239-1-7-1,,tidu1239-1,7,tud͡ʒu,tud͡ʒu,[],,['chan2019'],,False,False,,1
+tidu1239-1-8-1,,tidu1239-1,8,walu,walu,[],,['chan2019'],,False,False,,1
+tidu1239-1-9-1,,tidu1239-1,9,siam,siam,[],,['chan2019'],,False,False,,1
+tidu1239-1-10-1,,tidu1239-1,10,sapu,sapu,[],,['chan2019'],,False,False,,1
+tidu1239-1-11-1,,tidu1239-1,11,sapu sainan,sapu sainan,[],,['chan2019'],,False,False,,1
+tidu1239-1-12-1,,tidu1239-1,12,sapu duaʔ,sapu duaʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-13-1,,tidu1239-1,13,sapu taluʔ,sapu taluʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-14-1,,tidu1239-1,14,sapu ʔapat,sapu ʔapat,[],,['chan2019'],,False,False,,1
+tidu1239-1-15-1,,tidu1239-1,15,sapu limoʔ,sapu limoʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-16-1,,tidu1239-1,16,sapu ʔenom,sapu ʔenom,[],,['chan2019'],,False,False,,1
+tidu1239-1-17-1,,tidu1239-1,17,sapu tud͡ʒu,sapu tud͡ʒu,[],,['chan2019'],,False,False,,1
+tidu1239-1-18-1,,tidu1239-1,18,sapu walu,sapu walu,[],,['chan2019'],,False,False,,1
+tidu1239-1-19-1,,tidu1239-1,19,sapu siam,sapu siam,[],,['chan2019'],,False,False,,1
+tidu1239-1-20-1,,tidu1239-1,20,duaʔmpu,duaʔmpu,[],,['chan2019'],,False,False,,1
+tidu1239-1-21-1,,tidu1239-1,21,duaʔmpu sainan,duaʔmpu sainan,[],,['chan2019'],,False,False,,1
+tidu1239-1-22-1,,tidu1239-1,22,duaʔmpu duaʔ,duaʔmpu duaʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-23-1,,tidu1239-1,23,duaʔmpu taluʔ,duaʔmpu taluʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-24-1,,tidu1239-1,24,duaʔmpu ʔapat,duaʔmpu ʔapat,[],,['chan2019'],,False,False,,1
+tidu1239-1-25-1,,tidu1239-1,25,duaʔmpu limoʔ,duaʔmpu limoʔ,[],,['chan2019'],,False,False,,1
+tidu1239-1-26-1,,tidu1239-1,26,duaʔmpu ʔenom,duaʔmpu ʔenom,[],,['chan2019'],,False,False,,1
+tidu1239-1-27-1,,tidu1239-1,27,duaʔmpu tud͡ʒu,duaʔmpu tud͡ʒu,[],,['chan2019'],,False,False,,1
+tidu1239-1-28-1,,tidu1239-1,28,duaʔmpu walu,duaʔmpu walu,[],,['chan2019'],,False,False,,1
+tidu1239-1-29-1,,tidu1239-1,29,duaʔmpu siam,duaʔmpu siam,[],,['chan2019'],,False,False,,1
+tidu1239-1-30-1,,tidu1239-1,30,talumpu,talumpu,[],,['chan2019'],,False,False,,1
+tidu1239-1-40-1,,tidu1239-1,40,ʔapatmpu,ʔapatmpu,[],,['chan2019'],,False,False,,1
+tidu1239-1-50-1,,tidu1239-1,50,limompu,limompu,[],,['chan2019'],,False,False,,1
+tidu1239-1-60-1,,tidu1239-1,60,ʔenompu,ʔenompu,[],,['chan2019'],,False,False,,1
+tidu1239-1-70-1,,tidu1239-1,70,tud͡ʒumpu,tud͡ʒumpu,[],,['chan2019'],,False,False,,1
+tidu1239-1-80-1,,tidu1239-1,80,walumpu,walumpu,[],,['chan2019'],,False,False,,1
+tidu1239-1-90-1,,tidu1239-1,90,siampu,siampu,[],,['chan2019'],,False,False,,1
+tidu1239-1-100-1,,tidu1239-1,100,seratus,seratus,[],,['chan2019'],,False,False,,1
+tidu1239-1-200-1,,tidu1239-1,200,duaʔ ratus,duaʔ ratus,[],,['chan2019'],,False,False,,1
+tidu1239-1-1000-1,,tidu1239-1,1000,seribu,seribu,[],,['chan2019'],,False,False,,1
+tidu1239-1-2000-1,,tidu1239-1,2000,duaʔ ribu,duaʔ ribu,[],,['chan2019'],,False,False,,1

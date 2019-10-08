@@ -1,56 +1,56 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maee1241-1-1-1,,maee1241-1,1,haxal,haxal,[],,[],,False,False,,1
-maee1241-1-1-2,,maee1241-1,1,hxal,hxal,[],,[],,False,False,,1
-maee1241-1-2-1,,maee1241-1,2,i-ru,i-ru,[],,[],,False,False,,1
-maee1241-1-3-1,,maee1241-1,3,i-til,i-til,[],,[],,False,False,,1
-maee1241-1-4-1,,maee1241-1,4,i-βat,i-βat,[],,[],,False,False,,1
-maee1241-1-5-1,,maee1241-1,5,i-lin,i-lin,[],,[],,False,False,,1
-maee1241-1-6-1,,maee1241-1,6,i-xɔwɛn,i-xɔwɛn,[],( 5 + 1 ),[],,False,False,,1
-maee1241-1-7-1,,maee1241-1,7,i-xedit,i-xedit,[],( 5 + 2 ),[],,False,False,,1
-maee1241-1-8-1,,maee1241-1,8,i-xewɛl,i-xewɛl,[],( 5 + 3 ),[],,False,False,,1
-maee1241-1-9-1,,maee1241-1,9,i-xesiβ,i-xesiβ,[],( 5 + 4 ),[],,False,False,,1
-maee1241-1-10-1,,maee1241-1,10,i-hŋaβil,i-hŋaβil,[],,[],,False,False,,1
-maee1241-1-11-1,,maee1241-1,11,i-hŋaβil dromana hxal,i-hŋaβil dromana hxal,[],,[],,False,False,,1
-maee1241-1-12-1,,maee1241-1,12,i-hŋaβil dromana i-ru,i-hŋaβil dromana i-ru,[],,[],,False,False,,1
-maee1241-1-13-1,,maee1241-1,13,i-hŋaβil dromana i-til,i-hŋaβil dromana i-til,[],,[],,False,False,,1
-maee1241-1-14-1,,maee1241-1,14,i-hŋaβil dromana i-βat,i-hŋaβil dromana i-βat,[],,[],,False,False,,1
-maee1241-1-15-1,,maee1241-1,15,i-hŋaβil dromana i-lin,i-hŋaβil dromana i-lin,[],,[],,False,False,,1
-maee1241-1-16-1,,maee1241-1,16,i-hŋaβil dromana i-xɔwɛn,i-hŋaβil dromana i-xɔwɛn,[],,[],,False,False,,1
-maee1241-1-17-1,,maee1241-1,17,i-hŋaβil dromana i-xedit,i-hŋaβil dromana i-xedit,[],,[],,False,False,,1
-maee1241-1-18-1,,maee1241-1,18,i-hŋaβil dromana i-xewɛl,i-hŋaβil dromana i-xewɛl,[],,[],,False,False,,1
-maee1241-1-19-1,,maee1241-1,19,i-hŋaβil dromana i-xesiβ,i-hŋaβil dromana i-xesiβ,[],,[],,False,False,,1
-maee1241-1-20-1,,maee1241-1,20,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-20-2,,maee1241-1,20,i-hŋoβilru,i-hŋoβilru,[],,[],,False,False,,1
-maee1241-1-21-1,,maee1241-1,21,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-21-2,,maee1241-1,21,i-hŋoβilru dromana hxal,i-hŋoβilru dromana hxal,[],,[],,False,False,,1
-maee1241-1-22-1,,maee1241-1,22,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-22-2,,maee1241-1,22,i-hŋoβilru dromana i-ru,i-hŋoβilru dromana i-ru,[],,[],,False,False,,1
-maee1241-1-23-1,,maee1241-1,23,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-23-2,,maee1241-1,23,i-hŋoβilru dromana i-til,i-hŋoβilru dromana i-til,[],,[],,False,False,,1
-maee1241-1-24-1,,maee1241-1,24,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-24-2,,maee1241-1,24,i-hŋoβilru dromana i-βat,i-hŋoβilru dromana i-βat,[],,[],,False,False,,1
-maee1241-1-25-1,,maee1241-1,25,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-25-2,,maee1241-1,25,i-hŋoβilru dromana i-lin,i-hŋoβilru dromana i-lin,[],,[],,False,False,,1
-maee1241-1-26-1,,maee1241-1,26,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-26-2,,maee1241-1,26,i-hŋoβilru dromana i-xɔwɛn,i-hŋoβilru dromana i-xɔwɛn,[],,[],,False,False,,1
-maee1241-1-27-1,,maee1241-1,27,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-27-2,,maee1241-1,27,i-hŋoβilru dromana i-xedit,i-hŋoβilru dromana i-xedit,[],,[],,False,False,,1
-maee1241-1-28-1,,maee1241-1,28,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-28-2,,maee1241-1,28,i-hŋoβilru dromana i-xewɛl,i-hŋoβilru dromana i-xewɛl,[],,[],,False,False,,1
-maee1241-1-29-1,,maee1241-1,29,i-hŋoβlru,i-hŋoβlru,[],,[],,False,False,,1
-maee1241-1-29-2,,maee1241-1,29,i-hŋoβilru dromana i-xesiβ,i-hŋoβilru dromana i-xesiβ,[],,[],,False,False,,1
-maee1241-1-30-1,,maee1241-1,30,i-hŋoβltil,i-hŋoβltil,[],,[],,False,False,,1
-maee1241-1-30-2,,maee1241-1,30,i-hŋoβiltil,i-hŋoβiltil,[],,[],,False,False,,1
-maee1241-1-40-1,,maee1241-1,40,i-hŋoβlβat,i-hŋoβlβat,[],,[],,False,False,,1
-maee1241-1-40-2,,maee1241-1,40,i-hŋoβilβat,i-hŋoβilβat,[],,[],,False,False,,1
-maee1241-1-50-1,,maee1241-1,50,i-hŋoβlin,i-hŋoβlin,[],,[],,False,False,,1
-maee1241-1-50-2,,maee1241-1,50,i-hŋoβilin,i-hŋoβilin,[],,[],,False,False,,1
-maee1241-1-60-1,,maee1241-1,60,i-hŋoβlxɔwɛn,i-hŋoβlxɔwɛn,[],,[],,False,False,,1
-maee1241-1-60-2,,maee1241-1,60,i-hŋoβilxɔwɛn,i-hŋoβilxɔwɛn,[],,[],,False,False,,1
-maee1241-1-70-1,,maee1241-1,70,i-hŋoβlxedit,i-hŋoβlxedit,[],,[],,False,False,,1
-maee1241-1-70-2,,maee1241-1,70,i-hŋoβilxedit,i-hŋoβilxedit,[],,[],,False,False,,1
-maee1241-1-80-1,,maee1241-1,80,i-hŋoβlxewɛl,i-hŋoβlxewɛl,[],,[],,False,False,,1
-maee1241-1-80-2,,maee1241-1,80,i-hŋoβilxewɛl,i-hŋoβilxewɛl,[],,[],,False,False,,1
-maee1241-1-90-1,,maee1241-1,90,i-hŋoβlxesiβ,i-hŋoβlxesiβ,[],,[],,False,False,,1
-maee1241-1-90-2,,maee1241-1,90,i-hŋoβilxesiβ,i-hŋoβilxesiβ,[],,[],,False,False,,1
-maee1241-1-100-1,,maee1241-1,100,i-ŋosŋaβil,i-ŋosŋaβil,[],,[],,False,False,,1
+maee1241-1-1-1,,maee1241-1,1,haxal,haxal,[],,['chan2019'],,False,False,,1
+maee1241-1-1-2,,maee1241-1,1,hxal,hxal,[],,['chan2019'],,False,False,,1
+maee1241-1-2-1,,maee1241-1,2,i-ru,i-ru,[],,['chan2019'],,False,False,,1
+maee1241-1-3-1,,maee1241-1,3,i-til,i-til,[],,['chan2019'],,False,False,,1
+maee1241-1-4-1,,maee1241-1,4,i-βat,i-βat,[],,['chan2019'],,False,False,,1
+maee1241-1-5-1,,maee1241-1,5,i-lin,i-lin,[],,['chan2019'],,False,False,,1
+maee1241-1-6-1,,maee1241-1,6,i-xɔwɛn,i-xɔwɛn,[],( 5 + 1 ),['chan2019'],,False,False,,1
+maee1241-1-7-1,,maee1241-1,7,i-xedit,i-xedit,[],( 5 + 2 ),['chan2019'],,False,False,,1
+maee1241-1-8-1,,maee1241-1,8,i-xewɛl,i-xewɛl,[],( 5 + 3 ),['chan2019'],,False,False,,1
+maee1241-1-9-1,,maee1241-1,9,i-xesiβ,i-xesiβ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+maee1241-1-10-1,,maee1241-1,10,i-hŋaβil,i-hŋaβil,[],,['chan2019'],,False,False,,1
+maee1241-1-11-1,,maee1241-1,11,i-hŋaβil dromana hxal,i-hŋaβil dromana hxal,[],,['chan2019'],,False,False,,1
+maee1241-1-12-1,,maee1241-1,12,i-hŋaβil dromana i-ru,i-hŋaβil dromana i-ru,[],,['chan2019'],,False,False,,1
+maee1241-1-13-1,,maee1241-1,13,i-hŋaβil dromana i-til,i-hŋaβil dromana i-til,[],,['chan2019'],,False,False,,1
+maee1241-1-14-1,,maee1241-1,14,i-hŋaβil dromana i-βat,i-hŋaβil dromana i-βat,[],,['chan2019'],,False,False,,1
+maee1241-1-15-1,,maee1241-1,15,i-hŋaβil dromana i-lin,i-hŋaβil dromana i-lin,[],,['chan2019'],,False,False,,1
+maee1241-1-16-1,,maee1241-1,16,i-hŋaβil dromana i-xɔwɛn,i-hŋaβil dromana i-xɔwɛn,[],,['chan2019'],,False,False,,1
+maee1241-1-17-1,,maee1241-1,17,i-hŋaβil dromana i-xedit,i-hŋaβil dromana i-xedit,[],,['chan2019'],,False,False,,1
+maee1241-1-18-1,,maee1241-1,18,i-hŋaβil dromana i-xewɛl,i-hŋaβil dromana i-xewɛl,[],,['chan2019'],,False,False,,1
+maee1241-1-19-1,,maee1241-1,19,i-hŋaβil dromana i-xesiβ,i-hŋaβil dromana i-xesiβ,[],,['chan2019'],,False,False,,1
+maee1241-1-20-1,,maee1241-1,20,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-20-2,,maee1241-1,20,i-hŋoβilru,i-hŋoβilru,[],,['chan2019'],,False,False,,1
+maee1241-1-21-1,,maee1241-1,21,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-21-2,,maee1241-1,21,i-hŋoβilru dromana hxal,i-hŋoβilru dromana hxal,[],,['chan2019'],,False,False,,1
+maee1241-1-22-1,,maee1241-1,22,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-22-2,,maee1241-1,22,i-hŋoβilru dromana i-ru,i-hŋoβilru dromana i-ru,[],,['chan2019'],,False,False,,1
+maee1241-1-23-1,,maee1241-1,23,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-23-2,,maee1241-1,23,i-hŋoβilru dromana i-til,i-hŋoβilru dromana i-til,[],,['chan2019'],,False,False,,1
+maee1241-1-24-1,,maee1241-1,24,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-24-2,,maee1241-1,24,i-hŋoβilru dromana i-βat,i-hŋoβilru dromana i-βat,[],,['chan2019'],,False,False,,1
+maee1241-1-25-1,,maee1241-1,25,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-25-2,,maee1241-1,25,i-hŋoβilru dromana i-lin,i-hŋoβilru dromana i-lin,[],,['chan2019'],,False,False,,1
+maee1241-1-26-1,,maee1241-1,26,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-26-2,,maee1241-1,26,i-hŋoβilru dromana i-xɔwɛn,i-hŋoβilru dromana i-xɔwɛn,[],,['chan2019'],,False,False,,1
+maee1241-1-27-1,,maee1241-1,27,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-27-2,,maee1241-1,27,i-hŋoβilru dromana i-xedit,i-hŋoβilru dromana i-xedit,[],,['chan2019'],,False,False,,1
+maee1241-1-28-1,,maee1241-1,28,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-28-2,,maee1241-1,28,i-hŋoβilru dromana i-xewɛl,i-hŋoβilru dromana i-xewɛl,[],,['chan2019'],,False,False,,1
+maee1241-1-29-1,,maee1241-1,29,i-hŋoβlru,i-hŋoβlru,[],,['chan2019'],,False,False,,1
+maee1241-1-29-2,,maee1241-1,29,i-hŋoβilru dromana i-xesiβ,i-hŋoβilru dromana i-xesiβ,[],,['chan2019'],,False,False,,1
+maee1241-1-30-1,,maee1241-1,30,i-hŋoβltil,i-hŋoβltil,[],,['chan2019'],,False,False,,1
+maee1241-1-30-2,,maee1241-1,30,i-hŋoβiltil,i-hŋoβiltil,[],,['chan2019'],,False,False,,1
+maee1241-1-40-1,,maee1241-1,40,i-hŋoβlβat,i-hŋoβlβat,[],,['chan2019'],,False,False,,1
+maee1241-1-40-2,,maee1241-1,40,i-hŋoβilβat,i-hŋoβilβat,[],,['chan2019'],,False,False,,1
+maee1241-1-50-1,,maee1241-1,50,i-hŋoβlin,i-hŋoβlin,[],,['chan2019'],,False,False,,1
+maee1241-1-50-2,,maee1241-1,50,i-hŋoβilin,i-hŋoβilin,[],,['chan2019'],,False,False,,1
+maee1241-1-60-1,,maee1241-1,60,i-hŋoβlxɔwɛn,i-hŋoβlxɔwɛn,[],,['chan2019'],,False,False,,1
+maee1241-1-60-2,,maee1241-1,60,i-hŋoβilxɔwɛn,i-hŋoβilxɔwɛn,[],,['chan2019'],,False,False,,1
+maee1241-1-70-1,,maee1241-1,70,i-hŋoβlxedit,i-hŋoβlxedit,[],,['chan2019'],,False,False,,1
+maee1241-1-70-2,,maee1241-1,70,i-hŋoβilxedit,i-hŋoβilxedit,[],,['chan2019'],,False,False,,1
+maee1241-1-80-1,,maee1241-1,80,i-hŋoβlxewɛl,i-hŋoβlxewɛl,[],,['chan2019'],,False,False,,1
+maee1241-1-80-2,,maee1241-1,80,i-hŋoβilxewɛl,i-hŋoβilxewɛl,[],,['chan2019'],,False,False,,1
+maee1241-1-90-1,,maee1241-1,90,i-hŋoβlxesiβ,i-hŋoβlxesiβ,[],,['chan2019'],,False,False,,1
+maee1241-1-90-2,,maee1241-1,90,i-hŋoβilxesiβ,i-hŋoβilxesiβ,[],,['chan2019'],,False,False,,1
+maee1241-1-100-1,,maee1241-1,100,i-ŋosŋaβil,i-ŋosŋaβil,[],,['chan2019'],,False,False,,1

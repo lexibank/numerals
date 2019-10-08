@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sumb1241-1-1-1,,sumb1241-1,1,saiʔ,saiʔ,[],,[],,False,False,,1
-sumb1241-1-2-1,,sumb1241-1,2,dua,dua,[],,[],,False,False,,1
-sumb1241-1-3-1,,sumb1241-1,3,təlu,təlu,[],,[],,False,False,,1
-sumb1241-1-4-1,,sumb1241-1,4,əmpat,əmpat,[],,[],,False,False,,1
-sumb1241-1-5-1,,sumb1241-1,5,lima,lima,[],,[],,False,False,,1
-sumb1241-1-6-1,,sumb1241-1,6,ənəm,ənəm,[],,[],,False,False,,1
-sumb1241-1-7-1,,sumb1241-1,7,pituʔ,pituʔ,[],,[],,False,False,,1
-sumb1241-1-8-1,,sumb1241-1,8,baluʔ,baluʔ,[],,[],,False,False,,1
-sumb1241-1-9-1,,sumb1241-1,9,siwaʔ,siwaʔ,[],,[],,False,False,,1
-sumb1241-1-10-1,,sumb1241-1,10,səpulu,səpulu,[],,[],,False,False,,1
-sumb1241-1-11-1,,sumb1241-1,11,sɔlas,sɔlas,[],,[],,False,False,,1
-sumb1241-1-11-2,,sumb1241-1,11,saɔlas,saɔlas,[],,[],,False,False,,1
-sumb1241-1-12-1,,sumb1241-1,12,dua ɔlas,dua ɔlas,[],,[],,False,False,,1
-sumb1241-1-12-2,,sumb1241-1,12,dɔlas,dɔlas,[],,[],,False,False,,1
-sumb1241-1-13-1,,sumb1241-1,13,təlu ɔlas,təlu ɔlas,[],,[],,False,False,,1
-sumb1241-1-14-1,,sumb1241-1,14,əmpat ɔlas,əmpat ɔlas,[],,[],,False,False,,1
-sumb1241-1-15-1,,sumb1241-1,15,lima ɔlas,lima ɔlas,[],,[],,False,False,,1
-sumb1241-1-16-1,,sumb1241-1,16,ənəm ɔlas,ənəm ɔlas,[],,[],,False,False,,1
-sumb1241-1-17-1,,sumb1241-1,17,pitu ɔlas,pitu ɔlas,[],,[],,False,False,,1
-sumb1241-1-18-1,,sumb1241-1,18,balu ɔlas,balu ɔlas,[],,[],,False,False,,1
-sumb1241-1-19-1,,sumb1241-1,19,siwa ɔlas,siwa ɔlas,[],,[],,False,False,,1
-sumb1241-1-20-1,,sumb1241-1,20,dua pulu,dua pulu,[],,[],,False,False,,1
-sumb1241-1-21-1,,sumb1241-1,21,dua pulu saiʔ,dua pulu saiʔ,[],,[],,False,False,,1
-sumb1241-1-22-1,,sumb1241-1,22,dua pulu dua,dua pulu dua,[],,[],,False,False,,1
-sumb1241-1-23-1,,sumb1241-1,23,dua pulu təlu,dua pulu təlu,[],,[],,False,False,,1
-sumb1241-1-24-1,,sumb1241-1,24,dua pulu əmpat,dua pulu əmpat,[],,[],,False,False,,1
-sumb1241-1-25-1,,sumb1241-1,25,dua pulu lima,dua pulu lima,[],,[],,False,False,,1
-sumb1241-1-26-1,,sumb1241-1,26,dua pulu ənəm,dua pulu ənəm,[],,[],,False,False,,1
-sumb1241-1-27-1,,sumb1241-1,27,dua pulu pituʔ,dua pulu pituʔ,[],,[],,False,False,,1
-sumb1241-1-28-1,,sumb1241-1,28,dua pulu baluʔ,dua pulu baluʔ,[],,[],,False,False,,1
-sumb1241-1-29-1,,sumb1241-1,29,dua pulu siwaʔ,dua pulu siwaʔ,[],,[],,False,False,,1
-sumb1241-1-30-1,,sumb1241-1,30,təlu pulu,təlu pulu,[],,[],,False,False,,1
-sumb1241-1-40-1,,sumb1241-1,40,pitu pulu,pitu pulu,[],,[],,False,False,,1
-sumb1241-1-50-1,,sumb1241-1,50,lima pulu,lima pulu,[],,[],,False,False,,1
-sumb1241-1-60-1,,sumb1241-1,60,ənəm pulu,ənəm pulu,[],,[],,False,False,,1
-sumb1241-1-70-1,,sumb1241-1,70,pitu pulu,pitu pulu,[],,[],,False,False,,1
-sumb1241-1-80-1,,sumb1241-1,80,balu pulu,balu pulu,[],,[],,False,False,,1
-sumb1241-1-90-1,,sumb1241-1,90,siwa pulu,siwa pulu,[],,[],,False,False,,1
-sumb1241-1-100-1,,sumb1241-1,100,səratus,səratus,[],,[],,False,False,,1
-sumb1241-1-200-1,,sumb1241-1,200,dua ratus,dua ratus,[],,[],,False,False,,1
-sumb1241-1-1000-1,,sumb1241-1,1000,səribu,səribu,[],,[],,False,False,,1
-sumb1241-1-2000-1,,sumb1241-1,2000,dua ribu,dua ribu,[],,[],,False,False,,1
+sumb1241-1-1-1,,sumb1241-1,1,saiʔ,saiʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-2-1,,sumb1241-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+sumb1241-1-3-1,,sumb1241-1,3,təlu,təlu,[],,['chan2019'],,False,False,,1
+sumb1241-1-4-1,,sumb1241-1,4,əmpat,əmpat,[],,['chan2019'],,False,False,,1
+sumb1241-1-5-1,,sumb1241-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+sumb1241-1-6-1,,sumb1241-1,6,ənəm,ənəm,[],,['chan2019'],,False,False,,1
+sumb1241-1-7-1,,sumb1241-1,7,pituʔ,pituʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-8-1,,sumb1241-1,8,baluʔ,baluʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-9-1,,sumb1241-1,9,siwaʔ,siwaʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-10-1,,sumb1241-1,10,səpulu,səpulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-11-1,,sumb1241-1,11,sɔlas,sɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-11-2,,sumb1241-1,11,saɔlas,saɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-12-1,,sumb1241-1,12,dua ɔlas,dua ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-12-2,,sumb1241-1,12,dɔlas,dɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-13-1,,sumb1241-1,13,təlu ɔlas,təlu ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-14-1,,sumb1241-1,14,əmpat ɔlas,əmpat ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-15-1,,sumb1241-1,15,lima ɔlas,lima ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-16-1,,sumb1241-1,16,ənəm ɔlas,ənəm ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-17-1,,sumb1241-1,17,pitu ɔlas,pitu ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-18-1,,sumb1241-1,18,balu ɔlas,balu ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-19-1,,sumb1241-1,19,siwa ɔlas,siwa ɔlas,[],,['chan2019'],,False,False,,1
+sumb1241-1-20-1,,sumb1241-1,20,dua pulu,dua pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-21-1,,sumb1241-1,21,dua pulu saiʔ,dua pulu saiʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-22-1,,sumb1241-1,22,dua pulu dua,dua pulu dua,[],,['chan2019'],,False,False,,1
+sumb1241-1-23-1,,sumb1241-1,23,dua pulu təlu,dua pulu təlu,[],,['chan2019'],,False,False,,1
+sumb1241-1-24-1,,sumb1241-1,24,dua pulu əmpat,dua pulu əmpat,[],,['chan2019'],,False,False,,1
+sumb1241-1-25-1,,sumb1241-1,25,dua pulu lima,dua pulu lima,[],,['chan2019'],,False,False,,1
+sumb1241-1-26-1,,sumb1241-1,26,dua pulu ənəm,dua pulu ənəm,[],,['chan2019'],,False,False,,1
+sumb1241-1-27-1,,sumb1241-1,27,dua pulu pituʔ,dua pulu pituʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-28-1,,sumb1241-1,28,dua pulu baluʔ,dua pulu baluʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-29-1,,sumb1241-1,29,dua pulu siwaʔ,dua pulu siwaʔ,[],,['chan2019'],,False,False,,1
+sumb1241-1-30-1,,sumb1241-1,30,təlu pulu,təlu pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-40-1,,sumb1241-1,40,pitu pulu,pitu pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-50-1,,sumb1241-1,50,lima pulu,lima pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-60-1,,sumb1241-1,60,ənəm pulu,ənəm pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-70-1,,sumb1241-1,70,pitu pulu,pitu pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-80-1,,sumb1241-1,80,balu pulu,balu pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-90-1,,sumb1241-1,90,siwa pulu,siwa pulu,[],,['chan2019'],,False,False,,1
+sumb1241-1-100-1,,sumb1241-1,100,səratus,səratus,[],,['chan2019'],,False,False,,1
+sumb1241-1-200-1,,sumb1241-1,200,dua ratus,dua ratus,[],,['chan2019'],,False,False,,1
+sumb1241-1-1000-1,,sumb1241-1,1000,səribu,səribu,[],,['chan2019'],,False,False,,1
+sumb1241-1-2000-1,,sumb1241-1,2000,dua ribu,dua ribu,[],,['chan2019'],,False,False,,1

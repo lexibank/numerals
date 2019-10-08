@@ -1,30 +1,30 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-paic1239-1-1-1,,paic1239-1,1,caː-,caː-,[],,[],,False,False,,1
-paic1239-1-1-2,,paic1239-1,1,caːpʷi,caːpʷi,[],,[],,False,False,,1
-paic1239-1-2-1,,paic1239-1,2,ãɾ̃ãiɭu,ãɾ̃ãiɭu,[],,[],,False,False,,1
-paic1239-1-3-1,,paic1239-1,3,ãɾ̃ãcie,ãɾ̃ãcie,[],,[],,False,False,,1
-paic1239-1-4-1,,paic1239-1,4,ãɾ̃ãpʌpe,ãɾ̃ãpʌpe,[],,[],,False,False,,1
-paic1239-1-5-1,,paic1239-1,5,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ,[],( litː 'one of our hands' ),[],,False,False,,1
-paic1239-1-6-1,,paic1239-1,6,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,[],( 5 + 1 ),[],,False,False,,1
-paic1239-1-7-1,,paic1239-1,7,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,[],( 5 + 2 ),[],,False,False,,1
-paic1239-1-8-1,,paic1239-1,8,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,[],( 5 + 3 ),[],,False,False,,1
-paic1239-1-9-1,,paic1239-1,9,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,[],( 5 + 4 ),[],,False,False,,1
-paic1239-1-10-1,,paic1239-1,10,ⁿdu ĩᶮɟɛ,ⁿdu ĩᶮɟɛ,[],( litː 'our two hands' ),[],,False,False,,1
-paic1239-1-11-1,,paic1239-1,11,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,[],,[],,False,False,,1
-paic1239-1-12-1,,paic1239-1,12,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,[],,[],,False,False,,1
-paic1239-1-13-1,,paic1239-1,13,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,[],,[],,False,False,,1
-paic1239-1-14-1,,paic1239-1,14,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,[],,[],,False,False,,1
-paic1239-1-15-1,,paic1239-1,15,ⁿdu ĩᶮɟɛ ãᶮɟɛ,ⁿdu ĩᶮɟɛ ãᶮɟɛ,[],,[],,False,False,,1
-paic1239-1-16-1,,paic1239-1,16,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ caːpʷi,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ caːpʷi,[],,[],,False,False,,1
-paic1239-1-17-1,,paic1239-1,17,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,[],,[],,False,False,,1
-paic1239-1-18-1,,paic1239-1,18,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,[],,[],,False,False,,1
-paic1239-1-19-1,,paic1239-1,19,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,[],,[],,False,False,,1
-paic1239-1-20-1,,paic1239-1,20,caːpʷi ãᵐboɾo,caːpʷi ãᵐboɾo,[],,[],,False,False,,1
-paic1239-1-30-1,,paic1239-1,30,caːpʷi ãᵐboɾo mã ⁿdu ĩᶮɟɛ,caːpʷi ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,[],,False,False,,1
-paic1239-1-40-1,,paic1239-1,40,ãɾ̃ãiɭu ãᵐboɾo,ãɾ̃ãiɭu ãᵐboɾo,[],( 2  x 20 ),[],,False,False,,1
-paic1239-1-50-1,,paic1239-1,50,ãɾ̃ãiɭu ãᵐboɾo mã ⁿdu ĩᶮɟɛ,ãɾ̃ãiɭu ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,[],,False,False,,1
-paic1239-1-60-1,,paic1239-1,60,ãɾ̃ãcie ãᵐboɾo,ãɾ̃ãcie ãᵐboɾo,[],( 3  x 20 ),[],,False,False,,1
-paic1239-1-70-1,,paic1239-1,70,ãɾ̃ãcie ãᵐboɾo mã ⁿdu ĩᶮɟɛ,ãɾ̃ãcie ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,[],,False,False,,1
-paic1239-1-80-1,,paic1239-1,80,ãɾ̃ãpʌpe ãᵐboɾo,ãɾ̃ãpʌpe ãᵐboɾo,[],( 4  x 20 ),[],,False,False,,1
-paic1239-1-90-1,,paic1239-1,90,ãɾ̃ãpʌpe ãᵐboɾo mã ⁿdu ĩᶮɟɛ,ãɾ̃ãpʌpe ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,[],,False,False,,1
-paic1239-1-100-1,,paic1239-1,100,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ãᵐboɾo,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ãᵐboɾo,[],,[],,False,False,,1
+paic1239-1-1-1,,paic1239-1,1,caː-,caː-,[],,['chan2019'],,False,False,,1
+paic1239-1-1-2,,paic1239-1,1,caːpʷi,caːpʷi,[],,['chan2019'],,False,False,,1
+paic1239-1-2-1,,paic1239-1,2,ãɾ̃ãiɭu,ãɾ̃ãiɭu,[],,['chan2019'],,False,False,,1
+paic1239-1-3-1,,paic1239-1,3,ãɾ̃ãcie,ãɾ̃ãcie,[],,['chan2019'],,False,False,,1
+paic1239-1-4-1,,paic1239-1,4,ãɾ̃ãpʌpe,ãɾ̃ãpʌpe,[],,['chan2019'],,False,False,,1
+paic1239-1-5-1,,paic1239-1,5,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ,[],( litː 'one of our hands' ),['chan2019'],,False,False,,1
+paic1239-1-6-1,,paic1239-1,6,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,[],( 5 + 1 ),['chan2019'],,False,False,,1
+paic1239-1-7-1,,paic1239-1,7,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,[],( 5 + 2 ),['chan2019'],,False,False,,1
+paic1239-1-8-1,,paic1239-1,8,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,[],( 5 + 3 ),['chan2019'],,False,False,,1
+paic1239-1-9-1,,paic1239-1,9,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,[],( 5 + 4 ),['chan2019'],,False,False,,1
+paic1239-1-10-1,,paic1239-1,10,ⁿdu ĩᶮɟɛ,ⁿdu ĩᶮɟɛ,[],( litː 'our two hands' ),['chan2019'],,False,False,,1
+paic1239-1-11-1,,paic1239-1,11,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ caːpʷi,[],,['chan2019'],,False,False,,1
+paic1239-1-12-1,,paic1239-1,12,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,[],,['chan2019'],,False,False,,1
+paic1239-1-13-1,,paic1239-1,13,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,[],,['chan2019'],,False,False,,1
+paic1239-1-14-1,,paic1239-1,14,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,ⁿdu ĩᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,[],,['chan2019'],,False,False,,1
+paic1239-1-15-1,,paic1239-1,15,ⁿdu ĩᶮɟɛ ãᶮɟɛ,ⁿdu ĩᶮɟɛ ãᶮɟɛ,[],,['chan2019'],,False,False,,1
+paic1239-1-16-1,,paic1239-1,16,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ caːpʷi,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ caːpʷi,[],,['chan2019'],,False,False,,1
+paic1239-1-17-1,,paic1239-1,17,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,ⁿdu ĩᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãiɭu,[],,['chan2019'],,False,False,,1
+paic1239-1-18-1,,paic1239-1,18,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãcie,[],,['chan2019'],,False,False,,1
+paic1239-1-19-1,,paic1239-1,19,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,ⁿdu ĩ ᶮɟɛ ãᶮɟɛ ᵑɡɒɾɒ ãɾ̃ãpʌpe,[],,['chan2019'],,False,False,,1
+paic1239-1-20-1,,paic1239-1,20,caːpʷi ãᵐboɾo,caːpʷi ãᵐboɾo,[],,['chan2019'],,False,False,,1
+paic1239-1-30-1,,paic1239-1,30,caːpʷi ãᵐboɾo mã ⁿdu ĩᶮɟɛ,caːpʷi ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,['chan2019'],,False,False,,1
+paic1239-1-40-1,,paic1239-1,40,ãɾ̃ãiɭu ãᵐboɾo,ãɾ̃ãiɭu ãᵐboɾo,[],( 2  x 20 ),['chan2019'],,False,False,,1
+paic1239-1-50-1,,paic1239-1,50,ãɾ̃ãiɭu ãᵐboɾo mã ⁿdu ĩᶮɟɛ,ãɾ̃ãiɭu ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,['chan2019'],,False,False,,1
+paic1239-1-60-1,,paic1239-1,60,ãɾ̃ãcie ãᵐboɾo,ãɾ̃ãcie ãᵐboɾo,[],( 3  x 20 ),['chan2019'],,False,False,,1
+paic1239-1-70-1,,paic1239-1,70,ãɾ̃ãcie ãᵐboɾo mã ⁿdu ĩᶮɟɛ,ãɾ̃ãcie ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,['chan2019'],,False,False,,1
+paic1239-1-80-1,,paic1239-1,80,ãɾ̃ãpʌpe ãᵐboɾo,ãɾ̃ãpʌpe ãᵐboɾo,[],( 4  x 20 ),['chan2019'],,False,False,,1
+paic1239-1-90-1,,paic1239-1,90,ãɾ̃ãpʌpe ãᵐboɾo mã ⁿdu ĩᶮɟɛ,ãɾ̃ãpʌpe ãᵐboɾo mã ⁿdu ĩᶮɟɛ,[],,['chan2019'],,False,False,,1
+paic1239-1-100-1,,paic1239-1,100,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ãᵐboɾo,caː-kʌ̃ɾ̃ʌ̃ ĩᶮɟɛ ãᵐboɾo,[],,['chan2019'],,False,False,,1

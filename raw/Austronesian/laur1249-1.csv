@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-laur1249-1-1-1,,laur1249-1,1,iya,iya,[],,[],,False,False,,1
-laur1249-1-2-1,,laur1249-1,2,duada,duada,[],,[],,False,False,,1
-laur1249-1-3-1,,laur1249-1,3,touda,touda,[],,[],,False,False,,1
-laur1249-1-4-1,,laur1249-1,4,pata,pata,[],,[],,False,False,,1
-laur1249-1-5-1,,laur1249-1,5,limma,limma,[],,[],,False,False,,1
-laur1249-1-6-1,,laur1249-1,6,enne,enne,[],( e = [e] or [ə] ??),[],,False,False,,1
-laur1249-1-7-1,,laur1249-1,7,pittu,pittu,[],,[],,False,False,,1
-laur1249-1-8-1,,laur1249-1,8,poddo,poddo,[],,[],,False,False,,1
-laur1249-1-9-1,,laur1249-1,9,iwwa,iwwa,[],,[],,False,False,,1
-laur1249-1-10-1,,laur1249-1,10,kabullu,kabullu,[],,[],,False,False,,1
-laur1249-1-11-1,,laur1249-1,11,kabullu iya,kabullu iya,[],,[],,False,False,,1
-laur1249-1-12-1,,laur1249-1,12,kabullu duada,kabullu duada,[],,[],,False,False,,1
-laur1249-1-13-1,,laur1249-1,13,kabullu touda,kabullu touda,[],,[],,False,False,,1
-laur1249-1-14-1,,laur1249-1,14,kabullu pata,kabullu pata,[],,[],,False,False,,1
-laur1249-1-15-1,,laur1249-1,15,kabullu limma,kabullu limma,[],,[],,False,False,,1
-laur1249-1-16-1,,laur1249-1,16,kabullu enne,kabullu enne,[],,[],,False,False,,1
-laur1249-1-17-1,,laur1249-1,17,kabullu pittu,kabullu pittu,[],,[],,False,False,,1
-laur1249-1-18-1,,laur1249-1,18,kabullu poddo,kabullu poddo,[],,[],,False,False,,1
-laur1249-1-19-1,,laur1249-1,19,kabullu iwa,kabullu iwa,[],,[],,False,False,,1
-laur1249-1-20-1,,laur1249-1,20,duadakabullu,duadakabullu,[],,[],,False,False,,1
-laur1249-1-21-1,,laur1249-1,21,duadakabullu iya,duadakabullu iya,[],,[],,False,False,,1
-laur1249-1-22-1,,laur1249-1,22,duadakabullu duada,duadakabullu duada,[],,[],,False,False,,1
-laur1249-1-23-1,,laur1249-1,23,duadakabullu touda,duadakabullu touda,[],,[],,False,False,,1
-laur1249-1-24-1,,laur1249-1,24,duadakabullu pata,duadakabullu pata,[],,[],,False,False,,1
-laur1249-1-25-1,,laur1249-1,25,duadakabullu limma,duadakabullu limma,[],,[],,False,False,,1
-laur1249-1-26-1,,laur1249-1,26,duadakabullu enne,duadakabullu enne,[],,[],,False,False,,1
-laur1249-1-27-1,,laur1249-1,27,duadakabullu pittu,duadakabullu pittu,[],,[],,False,False,,1
-laur1249-1-28-1,,laur1249-1,28,duadakabullu poddo,duadakabullu poddo,[],,[],,False,False,,1
-laur1249-1-29-1,,laur1249-1,29,duadakabullu iwwa,duadakabullu iwwa,[],,[],,False,False,,1
-laur1249-1-30-1,,laur1249-1,30,toudakabullu,toudakabullu,[],,[],,False,False,,1
-laur1249-1-40-1,,laur1249-1,40,patakabullu,patakabullu,[],,[],,False,False,,1
-laur1249-1-50-1,,laur1249-1,50,limmakabullu,limmakabullu,[],,[],,False,False,,1
-laur1249-1-60-1,,laur1249-1,60,ennekabullu,ennekabullu,[],,[],,False,False,,1
-laur1249-1-70-1,,laur1249-1,70,pittukabullu,pittukabullu,[],,[],,False,False,,1
-laur1249-1-80-1,,laur1249-1,80,podopatakabullu,podopatakabullu,[],,[],,False,False,,1
-laur1249-1-90-1,,laur1249-1,90,iwwakabullu,iwwakabullu,[],,[],,False,False,,1
-laur1249-1-100-1,,laur1249-1,100,ŋau,ŋau,[],,[],,False,False,,1
-laur1249-1-200-1,,laur1249-1,200,duadaŋau,duadaŋau,[],,[],,False,False,,1
-laur1249-1-1000-1,,laur1249-1,1000,rata,rata,[],,[],,False,False,,1
-laur1249-1-2000-1,,laur1249-1,2000,duarata,duarata,[],,[],,False,False,,1
+laur1249-1-1-1,,laur1249-1,1,iya,iya,[],,['chan2019'],,False,False,,1
+laur1249-1-2-1,,laur1249-1,2,duada,duada,[],,['chan2019'],,False,False,,1
+laur1249-1-3-1,,laur1249-1,3,touda,touda,[],,['chan2019'],,False,False,,1
+laur1249-1-4-1,,laur1249-1,4,pata,pata,[],,['chan2019'],,False,False,,1
+laur1249-1-5-1,,laur1249-1,5,limma,limma,[],,['chan2019'],,False,False,,1
+laur1249-1-6-1,,laur1249-1,6,enne,enne,[],( e = [e] or [ə] ??),['chan2019'],,False,False,,1
+laur1249-1-7-1,,laur1249-1,7,pittu,pittu,[],,['chan2019'],,False,False,,1
+laur1249-1-8-1,,laur1249-1,8,poddo,poddo,[],,['chan2019'],,False,False,,1
+laur1249-1-9-1,,laur1249-1,9,iwwa,iwwa,[],,['chan2019'],,False,False,,1
+laur1249-1-10-1,,laur1249-1,10,kabullu,kabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-11-1,,laur1249-1,11,kabullu iya,kabullu iya,[],,['chan2019'],,False,False,,1
+laur1249-1-12-1,,laur1249-1,12,kabullu duada,kabullu duada,[],,['chan2019'],,False,False,,1
+laur1249-1-13-1,,laur1249-1,13,kabullu touda,kabullu touda,[],,['chan2019'],,False,False,,1
+laur1249-1-14-1,,laur1249-1,14,kabullu pata,kabullu pata,[],,['chan2019'],,False,False,,1
+laur1249-1-15-1,,laur1249-1,15,kabullu limma,kabullu limma,[],,['chan2019'],,False,False,,1
+laur1249-1-16-1,,laur1249-1,16,kabullu enne,kabullu enne,[],,['chan2019'],,False,False,,1
+laur1249-1-17-1,,laur1249-1,17,kabullu pittu,kabullu pittu,[],,['chan2019'],,False,False,,1
+laur1249-1-18-1,,laur1249-1,18,kabullu poddo,kabullu poddo,[],,['chan2019'],,False,False,,1
+laur1249-1-19-1,,laur1249-1,19,kabullu iwa,kabullu iwa,[],,['chan2019'],,False,False,,1
+laur1249-1-20-1,,laur1249-1,20,duadakabullu,duadakabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-21-1,,laur1249-1,21,duadakabullu iya,duadakabullu iya,[],,['chan2019'],,False,False,,1
+laur1249-1-22-1,,laur1249-1,22,duadakabullu duada,duadakabullu duada,[],,['chan2019'],,False,False,,1
+laur1249-1-23-1,,laur1249-1,23,duadakabullu touda,duadakabullu touda,[],,['chan2019'],,False,False,,1
+laur1249-1-24-1,,laur1249-1,24,duadakabullu pata,duadakabullu pata,[],,['chan2019'],,False,False,,1
+laur1249-1-25-1,,laur1249-1,25,duadakabullu limma,duadakabullu limma,[],,['chan2019'],,False,False,,1
+laur1249-1-26-1,,laur1249-1,26,duadakabullu enne,duadakabullu enne,[],,['chan2019'],,False,False,,1
+laur1249-1-27-1,,laur1249-1,27,duadakabullu pittu,duadakabullu pittu,[],,['chan2019'],,False,False,,1
+laur1249-1-28-1,,laur1249-1,28,duadakabullu poddo,duadakabullu poddo,[],,['chan2019'],,False,False,,1
+laur1249-1-29-1,,laur1249-1,29,duadakabullu iwwa,duadakabullu iwwa,[],,['chan2019'],,False,False,,1
+laur1249-1-30-1,,laur1249-1,30,toudakabullu,toudakabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-40-1,,laur1249-1,40,patakabullu,patakabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-50-1,,laur1249-1,50,limmakabullu,limmakabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-60-1,,laur1249-1,60,ennekabullu,ennekabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-70-1,,laur1249-1,70,pittukabullu,pittukabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-80-1,,laur1249-1,80,podopatakabullu,podopatakabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-90-1,,laur1249-1,90,iwwakabullu,iwwakabullu,[],,['chan2019'],,False,False,,1
+laur1249-1-100-1,,laur1249-1,100,ŋau,ŋau,[],,['chan2019'],,False,False,,1
+laur1249-1-200-1,,laur1249-1,200,duadaŋau,duadaŋau,[],,['chan2019'],,False,False,,1
+laur1249-1-1000-1,,laur1249-1,1000,rata,rata,[],,['chan2019'],,False,False,,1
+laur1249-1-2000-1,,laur1249-1,2000,duarata,duarata,[],,['chan2019'],,False,False,,1

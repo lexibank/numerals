@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yaoo1241-2-1-1,,yaoo1241-2,1,-mo,-mo,[],,[],,False,False,,2
-yaoo1241-2-2-1,,yaoo1241-2,2,-uidi,-uidi,[],,[],,False,False,,2
-yaoo1241-2-3-1,,yaoo1241-2,3,-tatu,-tatu,[],,[],,False,False,,2
-yaoo1241-2-4-1,,yaoo1241-2,4,ncece,ncece,[],,[],,False,False,,2
-yaoo1241-2-5-1,,yaoo1241-2,5,nsaano,nsaano,[],,[],,False,False,,2
-yaoo1241-2-6-1,,yaoo1241-2,6,nsaaná -mo,nsaaná -mo,[],( 5 + 1 ),[],,False,False,,2
-yaoo1241-2-7-1,,yaoo1241-2,7,nsaaná -uidi,nsaaná -uidi,[],( 5 + 2 ),[],,False,False,,2
-yaoo1241-2-8-1,,yaoo1241-2,8,nsaaná -tatu,nsaaná -tatu,[],( 5 + 3 ),[],,False,False,,2
-yaoo1241-2-9-1,,yaoo1241-2,9,nsaaná ncece,nsaaná ncece,[],( 5 + 4 ),[],,False,False,,2
-yaoo1241-2-10-1,,yaoo1241-2,10,diikúmí,diikúmí,[],,[],,False,False,,2
-yaoo1241-2-11-1,,yaoo1241-2,11,diikúmí kwíísá -mo,diikúmí kwíísá -mo,[],,[],,False,False,,2
-yaoo1241-2-12-1,,yaoo1241-2,12,diikúmí kwíísá -uidi,diikúmí kwíísá -uidi,[],,[],,False,False,,2
-yaoo1241-2-13-1,,yaoo1241-2,13,diikúmí kwíísá -tatu,diikúmí kwíísá -tatu,[],,[],,False,False,,2
-yaoo1241-2-14-1,,yaoo1241-2,14,diikúmí kwíísá ncece,diikúmí kwíísá ncece,[],,[],,False,False,,2
-yaoo1241-2-15-1,,yaoo1241-2,15,diikúmí kwíísá nsaano,diikúmí kwíísá nsaano,[],,[],,False,False,,2
-yaoo1241-2-16-1,,yaoo1241-2,16,diikúmí kwíísá nsaaná -mo,diikúmí kwíísá nsaaná -mo,[],,[],,False,False,,2
-yaoo1241-2-17-1,,yaoo1241-2,17,diikúmí kwíísánsaaná -uidi,diikúmí kwíísánsaaná -uidi,[],,[],,False,False,,2
-yaoo1241-2-18-1,,yaoo1241-2,18,diikúmí kwíísánsaaná -tatu,diikúmí kwíísánsaaná -tatu,[],,[],,False,False,,2
-yaoo1241-2-19-1,,yaoo1241-2,19,diikúmí kwíísánsaaná ncece,diikúmí kwíísánsaaná ncece,[],,[],,False,False,,2
-yaoo1241-2-20-1,,yaoo1241-2,20,makúmí ɡáuidi,makúmí ɡáuidi,[],,[],,False,False,,2
-yaoo1241-2-21-1,,yaoo1241-2,21,makúmí ɡáuidi kwíísá -mo,makúmí ɡáuidi kwíísá -mo,[],,[],,False,False,,2
-yaoo1241-2-22-1,,yaoo1241-2,22,makúmí ɡáuidi kwíísá -uidi,makúmí ɡáuidi kwíísá -uidi,[],,[],,False,False,,2
-yaoo1241-2-23-1,,yaoo1241-2,23,makúmí ɡáuidi kwíísá -tatu,makúmí ɡáuidi kwíísá -tatu,[],,[],,False,False,,2
-yaoo1241-2-24-1,,yaoo1241-2,24,makúmí ɡáuidi kwíísá ncece,makúmí ɡáuidi kwíísá ncece,[],,[],,False,False,,2
-yaoo1241-2-25-1,,yaoo1241-2,25,makúmí ɡáuidi kwíísá nsaano,makúmí ɡáuidi kwíísá nsaano,[],,[],,False,False,,2
-yaoo1241-2-26-1,,yaoo1241-2,26,makúmí ɡáuidi kwíísá nsaaná -mo,makúmí ɡáuidi kwíísá nsaaná -mo,[],,[],,False,False,,2
-yaoo1241-2-27-1,,yaoo1241-2,27,makúmí ɡáuidi kwíísá nsaaná -uidi,makúmí ɡáuidi kwíísá nsaaná -uidi,[],,[],,False,False,,2
-yaoo1241-2-28-1,,yaoo1241-2,28,makúmí ɡáuidi kwíísá nsaaná -tatu,makúmí ɡáuidi kwíísá nsaaná -tatu,[],,[],,False,False,,2
-yaoo1241-2-29-1,,yaoo1241-2,29,makúmí ɡáuidi kwíísá nsaaná ncece,makúmí ɡáuidi kwíísá nsaaná ncece,[],,[],,False,False,,2
-yaoo1241-2-30-1,,yaoo1241-2,30,makúmí ɡátatu,makúmí ɡátatu,[],,[],,False,False,,2
-yaoo1241-2-40-1,,yaoo1241-2,40,makúmí ncece,makúmí ncece,[],,[],,False,False,,2
-yaoo1241-2-50-1,,yaoo1241-2,50,makúmí nsaano,makúmí nsaano,[],,[],,False,False,,2
-yaoo1241-2-60-1,,yaoo1241-2,60,makúmí nsaaná dímo,makúmí nsaaná dímo,[],,[],,False,False,,2
-yaoo1241-2-70-1,,yaoo1241-2,70,makúmí nsaaná ɡáuidi,makúmí nsaaná ɡáuidi,[],,[],,False,False,,2
-yaoo1241-2-80-1,,yaoo1241-2,80,makúmí nsaaná ɡátatu,makúmí nsaaná ɡátatu,[],,[],,False,False,,2
-yaoo1241-2-90-1,,yaoo1241-2,90,makúmí nsaaná ncece,makúmí nsaaná ncece,[],,[],,False,False,,2
-yaoo1241-2-100-1,,yaoo1241-2,100,dicíla,dicíla,[],,[],,False,False,,2
-yaoo1241-2-200-1,,yaoo1241-2,200,maciilá ɡáuidi,maciilá ɡáuidi,[],,[],,False,False,,2
-yaoo1241-2-1000-1,,yaoo1241-2,1000,maciilá diikúmí,maciilá diikúmí,[],( 100 x 10 ),[],,False,False,,2
-yaoo1241-2-2000-1,,yaoo1241-2,2000,maciilá diikúmí ɡáuidi,maciilá diikúmí ɡáuidi,[],,[],,False,False,,2
+yaoo1241-2-1-1,,yaoo1241-2,1,-mo,-mo,[],,['chan2019'],,False,False,,2
+yaoo1241-2-2-1,,yaoo1241-2,2,-uidi,-uidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-3-1,,yaoo1241-2,3,-tatu,-tatu,[],,['chan2019'],,False,False,,2
+yaoo1241-2-4-1,,yaoo1241-2,4,ncece,ncece,[],,['chan2019'],,False,False,,2
+yaoo1241-2-5-1,,yaoo1241-2,5,nsaano,nsaano,[],,['chan2019'],,False,False,,2
+yaoo1241-2-6-1,,yaoo1241-2,6,nsaaná -mo,nsaaná -mo,[],( 5 + 1 ),['chan2019'],,False,False,,2
+yaoo1241-2-7-1,,yaoo1241-2,7,nsaaná -uidi,nsaaná -uidi,[],( 5 + 2 ),['chan2019'],,False,False,,2
+yaoo1241-2-8-1,,yaoo1241-2,8,nsaaná -tatu,nsaaná -tatu,[],( 5 + 3 ),['chan2019'],,False,False,,2
+yaoo1241-2-9-1,,yaoo1241-2,9,nsaaná ncece,nsaaná ncece,[],( 5 + 4 ),['chan2019'],,False,False,,2
+yaoo1241-2-10-1,,yaoo1241-2,10,diikúmí,diikúmí,[],,['chan2019'],,False,False,,2
+yaoo1241-2-11-1,,yaoo1241-2,11,diikúmí kwíísá -mo,diikúmí kwíísá -mo,[],,['chan2019'],,False,False,,2
+yaoo1241-2-12-1,,yaoo1241-2,12,diikúmí kwíísá -uidi,diikúmí kwíísá -uidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-13-1,,yaoo1241-2,13,diikúmí kwíísá -tatu,diikúmí kwíísá -tatu,[],,['chan2019'],,False,False,,2
+yaoo1241-2-14-1,,yaoo1241-2,14,diikúmí kwíísá ncece,diikúmí kwíísá ncece,[],,['chan2019'],,False,False,,2
+yaoo1241-2-15-1,,yaoo1241-2,15,diikúmí kwíísá nsaano,diikúmí kwíísá nsaano,[],,['chan2019'],,False,False,,2
+yaoo1241-2-16-1,,yaoo1241-2,16,diikúmí kwíísá nsaaná -mo,diikúmí kwíísá nsaaná -mo,[],,['chan2019'],,False,False,,2
+yaoo1241-2-17-1,,yaoo1241-2,17,diikúmí kwíísánsaaná -uidi,diikúmí kwíísánsaaná -uidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-18-1,,yaoo1241-2,18,diikúmí kwíísánsaaná -tatu,diikúmí kwíísánsaaná -tatu,[],,['chan2019'],,False,False,,2
+yaoo1241-2-19-1,,yaoo1241-2,19,diikúmí kwíísánsaaná ncece,diikúmí kwíísánsaaná ncece,[],,['chan2019'],,False,False,,2
+yaoo1241-2-20-1,,yaoo1241-2,20,makúmí ɡáuidi,makúmí ɡáuidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-21-1,,yaoo1241-2,21,makúmí ɡáuidi kwíísá -mo,makúmí ɡáuidi kwíísá -mo,[],,['chan2019'],,False,False,,2
+yaoo1241-2-22-1,,yaoo1241-2,22,makúmí ɡáuidi kwíísá -uidi,makúmí ɡáuidi kwíísá -uidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-23-1,,yaoo1241-2,23,makúmí ɡáuidi kwíísá -tatu,makúmí ɡáuidi kwíísá -tatu,[],,['chan2019'],,False,False,,2
+yaoo1241-2-24-1,,yaoo1241-2,24,makúmí ɡáuidi kwíísá ncece,makúmí ɡáuidi kwíísá ncece,[],,['chan2019'],,False,False,,2
+yaoo1241-2-25-1,,yaoo1241-2,25,makúmí ɡáuidi kwíísá nsaano,makúmí ɡáuidi kwíísá nsaano,[],,['chan2019'],,False,False,,2
+yaoo1241-2-26-1,,yaoo1241-2,26,makúmí ɡáuidi kwíísá nsaaná -mo,makúmí ɡáuidi kwíísá nsaaná -mo,[],,['chan2019'],,False,False,,2
+yaoo1241-2-27-1,,yaoo1241-2,27,makúmí ɡáuidi kwíísá nsaaná -uidi,makúmí ɡáuidi kwíísá nsaaná -uidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-28-1,,yaoo1241-2,28,makúmí ɡáuidi kwíísá nsaaná -tatu,makúmí ɡáuidi kwíísá nsaaná -tatu,[],,['chan2019'],,False,False,,2
+yaoo1241-2-29-1,,yaoo1241-2,29,makúmí ɡáuidi kwíísá nsaaná ncece,makúmí ɡáuidi kwíísá nsaaná ncece,[],,['chan2019'],,False,False,,2
+yaoo1241-2-30-1,,yaoo1241-2,30,makúmí ɡátatu,makúmí ɡátatu,[],,['chan2019'],,False,False,,2
+yaoo1241-2-40-1,,yaoo1241-2,40,makúmí ncece,makúmí ncece,[],,['chan2019'],,False,False,,2
+yaoo1241-2-50-1,,yaoo1241-2,50,makúmí nsaano,makúmí nsaano,[],,['chan2019'],,False,False,,2
+yaoo1241-2-60-1,,yaoo1241-2,60,makúmí nsaaná dímo,makúmí nsaaná dímo,[],,['chan2019'],,False,False,,2
+yaoo1241-2-70-1,,yaoo1241-2,70,makúmí nsaaná ɡáuidi,makúmí nsaaná ɡáuidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-80-1,,yaoo1241-2,80,makúmí nsaaná ɡátatu,makúmí nsaaná ɡátatu,[],,['chan2019'],,False,False,,2
+yaoo1241-2-90-1,,yaoo1241-2,90,makúmí nsaaná ncece,makúmí nsaaná ncece,[],,['chan2019'],,False,False,,2
+yaoo1241-2-100-1,,yaoo1241-2,100,dicíla,dicíla,[],,['chan2019'],,False,False,,2
+yaoo1241-2-200-1,,yaoo1241-2,200,maciilá ɡáuidi,maciilá ɡáuidi,[],,['chan2019'],,False,False,,2
+yaoo1241-2-1000-1,,yaoo1241-2,1000,maciilá diikúmí,maciilá diikúmí,[],( 100 x 10 ),['chan2019'],,False,False,,2
+yaoo1241-2-2000-1,,yaoo1241-2,2000,maciilá diikúmí ɡáuidi,maciilá diikúmí ɡáuidi,[],,['chan2019'],,False,False,,2

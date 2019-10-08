@@ -1,33 +1,33 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bada1258-1-1-1,,bada1258-1,1,ɗɪ́k,ɗɪ́k,[],,[],,False,False,,1
-bada1258-1-2-1,,bada1258-1,2,ɓâr,ɓâr,[],,[],,False,False,,1
-bada1258-1-3-1,,bada1258-1,3,tàːt,tàːt,[],,[],,False,False,,1
-bada1258-1-4-1,,bada1258-1,4,jìːn,jìːn,[],,[],,False,False,,1
-bada1258-1-5-1,,bada1258-1,5,tʷàːn,tʷàːn,[],,[],,False,False,,1
-bada1258-1-6-1,,bada1258-1,6,tʷàŋsɔ̀lmʷák,tʷàŋsɔ̀lmʷák,[],,[],,False,False,,1
-bada1258-1-7-1,,bada1258-1,7,kʲɛ́stàˑt,kʲɛ́stàˑt,[],( 5 + 2 ),[],,False,False,,1
-bada1258-1-8-1,,bada1258-1,8,kʲɛ́ʃìn,kʲɛ́ʃìn,[],( 5 + 3 ),[],,False,False,,1
-bada1258-1-9-1,,bada1258-1,9,kʲɛ́stʷàn,kʲɛ́stʷàn,[],( 5 + 4 ),[],,False,False,,1
-bada1258-1-10-1,,bada1258-1,10,lʊ̀m,lʊ̀m,[],,[],,False,False,,1
-bada1258-1-11-1,,bada1258-1,11,lʊ̀m kʷaɗík,lʊ̀m kʷaɗík,[],,[],,False,False,,1
-bada1258-1-12-1,,bada1258-1,12,lʊ̀m kʷɔ́ɓâr,lʊ̀m kʷɔ́ɓâr,[],,[],,False,False,,1
-bada1258-1-13-1,,bada1258-1,13,lʊ̀m kʷɔ́tàˑt,lʊ̀m kʷɔ́tàˑt,[],,[],,False,False,,1
-bada1258-1-14-1,,bada1258-1,14,lʊ̀m kɔ́jìn,lʊ̀m kɔ́jìn,[],,[],,False,False,,1
-bada1258-1-15-1,,bada1258-1,15,lʊ̀m kʷɔ́tʷàˑn,lʊ̀m kʷɔ́tʷàˑn,[],,[],,False,False,,1
-bada1258-1-16-1,,bada1258-1,16,lʊ̀m kʷɔ́tɔ̀ŋsɔ̀lmʷák,lʊ̀m kʷɔ́tɔ̀ŋsɔ̀lmʷák,[],,[],,False,False,,1
-bada1258-1-17-1,,bada1258-1,17,lʊ̀m kʷɔ́kʲɛ́stàˑt,lʊ̀m kʷɔ́kʲɛ́stàˑt,[],,[],,False,False,,1
-bada1258-1-18-1,,bada1258-1,18,lʊ̀m kʷɔ́kʲɛ́ʃìn,lʊ̀m kʷɔ́kʲɛ́ʃìn,[],,[],,False,False,,1
-bada1258-1-19-1,,bada1258-1,19,lʊ̀m kʷɔ́kʲɛ́stʷàn,lʊ̀m kʷɔ́kʲɛ́stʷàn,[],,[],,False,False,,1
-bada1258-1-20-1,,bada1258-1,20,lʊ̀mí ɓâr,lʊ̀mí ɓâr,[],,[],,False,False,,1
-bada1258-1-21-1,,bada1258-1,21,lʊ̀mí ɓâr,lʊ̀mí ɓâr,[],,[],,False,False,,1
-bada1258-1-22-1,,bada1258-1,22,lʊ̀mí ɓâr,lʊ̀mí ɓâr,[],,[],,False,False,,1
-bada1258-1-30-1,,bada1258-1,30,lʊ̀mí tàˑt,lʊ̀mí tàˑt,[],,[],,False,False,,1
-bada1258-1-40-1,,bada1258-1,40,lʊ̀mí jìˑn,lʊ̀mí jìˑn,[],,[],,False,False,,1
-bada1258-1-50-1,,bada1258-1,50,lʊ̀mí tʷàˑn,lʊ̀mí tʷàˑn,[],,[],,False,False,,1
-bada1258-1-60-1,,bada1258-1,60,lʊ̀mí tʷàŋsɔ̀lmʷák,lʊ̀mí tʷàŋsɔ̀lmʷák,[],,[],,False,False,,1
-bada1258-1-70-1,,bada1258-1,70,lʊ̀mí kʲɛ́stàˑt,lʊ̀mí kʲɛ́stàˑt,[],,[],,False,False,,1
-bada1258-1-80-1,,bada1258-1,80,lʊ̀mí kʲɛ́ʃìn,lʊ̀mí kʲɛ́ʃìn,[],,[],,False,False,,1
-bada1258-1-90-1,,bada1258-1,90,lʊ̀mí kʲɛ́stʷàn,lʊ̀mí kʲɛ́stʷàn,[],,[],,False,False,,1
-bada1258-1-100-1,,bada1258-1,100,lʊ̀mí záŋɡʷʊ̀,lʊ̀mí záŋɡʷʊ̀,[],,[],,False,False,,1
-bada1258-1-100-2,,bada1258-1,100,ɗárít,ɗárít,[],( < Hausa ),[],,True,False,,1
-bada1258-1-200-1,,bada1258-1,200,lʊ̀mí lʊ̀mí ɓâr,lʊ̀mí lʊ̀mí ɓâr,[],,[],,False,False,,1
+bada1258-1-1-1,,bada1258-1,1,ɗɪ́k,ɗɪ́k,[],,['chan2019'],,False,False,,1
+bada1258-1-2-1,,bada1258-1,2,ɓâr,ɓâr,[],,['chan2019'],,False,False,,1
+bada1258-1-3-1,,bada1258-1,3,tàːt,tàːt,[],,['chan2019'],,False,False,,1
+bada1258-1-4-1,,bada1258-1,4,jìːn,jìːn,[],,['chan2019'],,False,False,,1
+bada1258-1-5-1,,bada1258-1,5,tʷàːn,tʷàːn,[],,['chan2019'],,False,False,,1
+bada1258-1-6-1,,bada1258-1,6,tʷàŋsɔ̀lmʷák,tʷàŋsɔ̀lmʷák,[],,['chan2019'],,False,False,,1
+bada1258-1-7-1,,bada1258-1,7,kʲɛ́stàˑt,kʲɛ́stàˑt,[],( 5 + 2 ),['chan2019'],,False,False,,1
+bada1258-1-8-1,,bada1258-1,8,kʲɛ́ʃìn,kʲɛ́ʃìn,[],( 5 + 3 ),['chan2019'],,False,False,,1
+bada1258-1-9-1,,bada1258-1,9,kʲɛ́stʷàn,kʲɛ́stʷàn,[],( 5 + 4 ),['chan2019'],,False,False,,1
+bada1258-1-10-1,,bada1258-1,10,lʊ̀m,lʊ̀m,[],,['chan2019'],,False,False,,1
+bada1258-1-11-1,,bada1258-1,11,lʊ̀m kʷaɗík,lʊ̀m kʷaɗík,[],,['chan2019'],,False,False,,1
+bada1258-1-12-1,,bada1258-1,12,lʊ̀m kʷɔ́ɓâr,lʊ̀m kʷɔ́ɓâr,[],,['chan2019'],,False,False,,1
+bada1258-1-13-1,,bada1258-1,13,lʊ̀m kʷɔ́tàˑt,lʊ̀m kʷɔ́tàˑt,[],,['chan2019'],,False,False,,1
+bada1258-1-14-1,,bada1258-1,14,lʊ̀m kɔ́jìn,lʊ̀m kɔ́jìn,[],,['chan2019'],,False,False,,1
+bada1258-1-15-1,,bada1258-1,15,lʊ̀m kʷɔ́tʷàˑn,lʊ̀m kʷɔ́tʷàˑn,[],,['chan2019'],,False,False,,1
+bada1258-1-16-1,,bada1258-1,16,lʊ̀m kʷɔ́tɔ̀ŋsɔ̀lmʷák,lʊ̀m kʷɔ́tɔ̀ŋsɔ̀lmʷák,[],,['chan2019'],,False,False,,1
+bada1258-1-17-1,,bada1258-1,17,lʊ̀m kʷɔ́kʲɛ́stàˑt,lʊ̀m kʷɔ́kʲɛ́stàˑt,[],,['chan2019'],,False,False,,1
+bada1258-1-18-1,,bada1258-1,18,lʊ̀m kʷɔ́kʲɛ́ʃìn,lʊ̀m kʷɔ́kʲɛ́ʃìn,[],,['chan2019'],,False,False,,1
+bada1258-1-19-1,,bada1258-1,19,lʊ̀m kʷɔ́kʲɛ́stʷàn,lʊ̀m kʷɔ́kʲɛ́stʷàn,[],,['chan2019'],,False,False,,1
+bada1258-1-20-1,,bada1258-1,20,lʊ̀mí ɓâr,lʊ̀mí ɓâr,[],,['chan2019'],,False,False,,1
+bada1258-1-21-1,,bada1258-1,21,lʊ̀mí ɓâr,lʊ̀mí ɓâr,[],,['chan2019'],,False,False,,1
+bada1258-1-22-1,,bada1258-1,22,lʊ̀mí ɓâr,lʊ̀mí ɓâr,[],,['chan2019'],,False,False,,1
+bada1258-1-30-1,,bada1258-1,30,lʊ̀mí tàˑt,lʊ̀mí tàˑt,[],,['chan2019'],,False,False,,1
+bada1258-1-40-1,,bada1258-1,40,lʊ̀mí jìˑn,lʊ̀mí jìˑn,[],,['chan2019'],,False,False,,1
+bada1258-1-50-1,,bada1258-1,50,lʊ̀mí tʷàˑn,lʊ̀mí tʷàˑn,[],,['chan2019'],,False,False,,1
+bada1258-1-60-1,,bada1258-1,60,lʊ̀mí tʷàŋsɔ̀lmʷák,lʊ̀mí tʷàŋsɔ̀lmʷák,[],,['chan2019'],,False,False,,1
+bada1258-1-70-1,,bada1258-1,70,lʊ̀mí kʲɛ́stàˑt,lʊ̀mí kʲɛ́stàˑt,[],,['chan2019'],,False,False,,1
+bada1258-1-80-1,,bada1258-1,80,lʊ̀mí kʲɛ́ʃìn,lʊ̀mí kʲɛ́ʃìn,[],,['chan2019'],,False,False,,1
+bada1258-1-90-1,,bada1258-1,90,lʊ̀mí kʲɛ́stʷàn,lʊ̀mí kʲɛ́stʷàn,[],,['chan2019'],,False,False,,1
+bada1258-1-100-1,,bada1258-1,100,lʊ̀mí záŋɡʷʊ̀,lʊ̀mí záŋɡʷʊ̀,[],,['chan2019'],,False,False,,1
+bada1258-1-100-2,,bada1258-1,100,ɗárít,ɗárít,[],( < Hausa ),['chan2019'],,True,False,,1
+bada1258-1-200-1,,bada1258-1,200,lʊ̀mí lʊ̀mí ɓâr,lʊ̀mí lʊ̀mí ɓâr,[],,['chan2019'],,False,False,,1

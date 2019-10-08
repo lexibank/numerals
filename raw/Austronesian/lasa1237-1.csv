@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lasa1237-1-1-1,,lasa1237-1,1,ra'ʔanu,ra'ʔanu,[],,[],,False,False,,1
-lasa1237-1-2-1,,lasa1237-1,2,ɗo'rua,ɗo'rua,[],,[],,False,False,,1
-lasa1237-1-3-1,,lasa1237-1,3,to'tolu,to'tolu,[],,[],,False,False,,1
-lasa1237-1-4-1,,lasa1237-1,4,po'paʔa,po'paʔa,[],,[],,False,False,,1
-lasa1237-1-5-1,,lasa1237-1,5,lo'lima,lo'lima,[],,[],,False,False,,1
-lasa1237-1-6-1,,lasa1237-1,6,no'noʔo,no'noʔo,[],,[],,False,False,,1
-lasa1237-1-7-1,,lasa1237-1,7,po'pitʃu,po'pitʃu,[],,[],,False,False,,1
-lasa1237-1-8-1,,lasa1237-1,8,ʔo'alu,ʔo'alu,[],,[],,False,False,,1
-lasa1237-1-9-1,,lasa1237-1,9,so'sio,so'sio,[],,[],,False,False,,1
-lasa1237-1-10-1,,lasa1237-1,10,o'mpulu,o'mpulu,[],,[],,False,False,,1
-lasa1237-1-11-1,,lasa1237-1,11,ompulu ra'ʔanu,ompulu ra'ʔanu,[],,[],,False,False,,1
-lasa1237-1-12-1,,lasa1237-1,12,ompulu ɗo'rua,ompulu ɗo'rua,[],,[],,False,False,,1
-lasa1237-1-13-1,,lasa1237-1,13,ompulu to'tolu,ompulu to'tolu,[],,[],,False,False,,1
-lasa1237-1-14-1,,lasa1237-1,14,ompulu po'paʔa,ompulu po'paʔa,[],,[],,False,False,,1
-lasa1237-1-15-1,,lasa1237-1,15,ompulu lo'lima,ompulu lo'lima,[],,[],,False,False,,1
-lasa1237-1-16-1,,lasa1237-1,16,ompulu no'noʔo,ompulu no'noʔo,[],,[],,False,False,,1
-lasa1237-1-17-1,,lasa1237-1,17,ompulu po'pitʃu,ompulu po'pitʃu,[],,[],,False,False,,1
-lasa1237-1-18-1,,lasa1237-1,18,ompulu ʔo'alu,ompulu ʔo'alu,[],,[],,False,False,,1
-lasa1237-1-19-1,,lasa1237-1,19,ompulu so'sio,ompulu so'sio,[],,[],,False,False,,1
-lasa1237-1-20-1,,lasa1237-1,20,rua'pulu,rua'pulu,[],,[],,False,False,,1
-lasa1237-1-21-1,,lasa1237-1,21,ruɑpulu ra'ʔanu,ruɑpulu ra'ʔanu,[],,[],,False,False,,1
-lasa1237-1-22-1,,lasa1237-1,22,ruɑpulu ɗo'rua,ruɑpulu ɗo'rua,[],,[],,False,False,,1
-lasa1237-1-23-1,,lasa1237-1,23,ruɑpulu to'tolu,ruɑpulu to'tolu,[],,[],,False,False,,1
-lasa1237-1-24-1,,lasa1237-1,24,ruɑpulu po'paʔa,ruɑpulu po'paʔa,[],,[],,False,False,,1
-lasa1237-1-25-1,,lasa1237-1,25,ruɑpulu lo'lima,ruɑpulu lo'lima,[],,[],,False,False,,1
-lasa1237-1-26-1,,lasa1237-1,26,ruɑpulu no'noʔo,ruɑpulu no'noʔo,[],,[],,False,False,,1
-lasa1237-1-27-1,,lasa1237-1,27,ruɑpulu po'pitʃu,ruɑpulu po'pitʃu,[],,[],,False,False,,1
-lasa1237-1-28-1,,lasa1237-1,28,ruɑpulu ʔo'alu,ruɑpulu ʔo'alu,[],,[],,False,False,,1
-lasa1237-1-29-1,,lasa1237-1,29,ruɑpulu so'sio,ruɑpulu so'sio,[],,[],,False,False,,1
-lasa1237-1-30-1,,lasa1237-1,30,tolu'pulu,tolu'pulu,[],,[],,False,False,,1
-lasa1237-1-40-1,,lasa1237-1,40,pɑto'pulu,pɑto'pulu,[],,[],,False,False,,1
-lasa1237-1-50-1,,lasa1237-1,50,limɑ'pulu,limɑ'pulu,[],,[],,False,False,,1
-lasa1237-1-60-1,,lasa1237-1,60,nomo'pulu,nomo'pulu,[],,[],,False,False,,1
-lasa1237-1-70-1,,lasa1237-1,70,pitʃu'pulu,pitʃu'pulu,[],,[],,False,False,,1
-lasa1237-1-80-1,,lasa1237-1,80,ʔalu'pulu,ʔalu'pulu,[],,[],,False,False,,1
-lasa1237-1-90-1,,lasa1237-1,90,sio'pulu,sio'pulu,[],,[],,False,False,,1
-lasa1237-1-100-1,,lasa1237-1,100,ra'atʃu,ra'atʃu,[],,[],,False,False,,1
-lasa1237-1-200-1,,lasa1237-1,200,rua'atʃu,rua'atʃu,[],,[],,False,False,,1
-lasa1237-1-1000-1,,lasa1237-1,1000,ra'riβu,ra'riβu,[],,[],,False,False,,1
-lasa1237-1-2000-1,,lasa1237-1,2000,rua'riβu,rua'riβu,[],,[],,False,False,,1
+lasa1237-1-1-1,,lasa1237-1,1,ra'ʔanu,ra'ʔanu,[],,['chan2019'],,False,False,,1
+lasa1237-1-2-1,,lasa1237-1,2,ɗo'rua,ɗo'rua,[],,['chan2019'],,False,False,,1
+lasa1237-1-3-1,,lasa1237-1,3,to'tolu,to'tolu,[],,['chan2019'],,False,False,,1
+lasa1237-1-4-1,,lasa1237-1,4,po'paʔa,po'paʔa,[],,['chan2019'],,False,False,,1
+lasa1237-1-5-1,,lasa1237-1,5,lo'lima,lo'lima,[],,['chan2019'],,False,False,,1
+lasa1237-1-6-1,,lasa1237-1,6,no'noʔo,no'noʔo,[],,['chan2019'],,False,False,,1
+lasa1237-1-7-1,,lasa1237-1,7,po'pitʃu,po'pitʃu,[],,['chan2019'],,False,False,,1
+lasa1237-1-8-1,,lasa1237-1,8,ʔo'alu,ʔo'alu,[],,['chan2019'],,False,False,,1
+lasa1237-1-9-1,,lasa1237-1,9,so'sio,so'sio,[],,['chan2019'],,False,False,,1
+lasa1237-1-10-1,,lasa1237-1,10,o'mpulu,o'mpulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-11-1,,lasa1237-1,11,ompulu ra'ʔanu,ompulu ra'ʔanu,[],,['chan2019'],,False,False,,1
+lasa1237-1-12-1,,lasa1237-1,12,ompulu ɗo'rua,ompulu ɗo'rua,[],,['chan2019'],,False,False,,1
+lasa1237-1-13-1,,lasa1237-1,13,ompulu to'tolu,ompulu to'tolu,[],,['chan2019'],,False,False,,1
+lasa1237-1-14-1,,lasa1237-1,14,ompulu po'paʔa,ompulu po'paʔa,[],,['chan2019'],,False,False,,1
+lasa1237-1-15-1,,lasa1237-1,15,ompulu lo'lima,ompulu lo'lima,[],,['chan2019'],,False,False,,1
+lasa1237-1-16-1,,lasa1237-1,16,ompulu no'noʔo,ompulu no'noʔo,[],,['chan2019'],,False,False,,1
+lasa1237-1-17-1,,lasa1237-1,17,ompulu po'pitʃu,ompulu po'pitʃu,[],,['chan2019'],,False,False,,1
+lasa1237-1-18-1,,lasa1237-1,18,ompulu ʔo'alu,ompulu ʔo'alu,[],,['chan2019'],,False,False,,1
+lasa1237-1-19-1,,lasa1237-1,19,ompulu so'sio,ompulu so'sio,[],,['chan2019'],,False,False,,1
+lasa1237-1-20-1,,lasa1237-1,20,rua'pulu,rua'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-21-1,,lasa1237-1,21,ruɑpulu ra'ʔanu,ruɑpulu ra'ʔanu,[],,['chan2019'],,False,False,,1
+lasa1237-1-22-1,,lasa1237-1,22,ruɑpulu ɗo'rua,ruɑpulu ɗo'rua,[],,['chan2019'],,False,False,,1
+lasa1237-1-23-1,,lasa1237-1,23,ruɑpulu to'tolu,ruɑpulu to'tolu,[],,['chan2019'],,False,False,,1
+lasa1237-1-24-1,,lasa1237-1,24,ruɑpulu po'paʔa,ruɑpulu po'paʔa,[],,['chan2019'],,False,False,,1
+lasa1237-1-25-1,,lasa1237-1,25,ruɑpulu lo'lima,ruɑpulu lo'lima,[],,['chan2019'],,False,False,,1
+lasa1237-1-26-1,,lasa1237-1,26,ruɑpulu no'noʔo,ruɑpulu no'noʔo,[],,['chan2019'],,False,False,,1
+lasa1237-1-27-1,,lasa1237-1,27,ruɑpulu po'pitʃu,ruɑpulu po'pitʃu,[],,['chan2019'],,False,False,,1
+lasa1237-1-28-1,,lasa1237-1,28,ruɑpulu ʔo'alu,ruɑpulu ʔo'alu,[],,['chan2019'],,False,False,,1
+lasa1237-1-29-1,,lasa1237-1,29,ruɑpulu so'sio,ruɑpulu so'sio,[],,['chan2019'],,False,False,,1
+lasa1237-1-30-1,,lasa1237-1,30,tolu'pulu,tolu'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-40-1,,lasa1237-1,40,pɑto'pulu,pɑto'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-50-1,,lasa1237-1,50,limɑ'pulu,limɑ'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-60-1,,lasa1237-1,60,nomo'pulu,nomo'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-70-1,,lasa1237-1,70,pitʃu'pulu,pitʃu'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-80-1,,lasa1237-1,80,ʔalu'pulu,ʔalu'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-90-1,,lasa1237-1,90,sio'pulu,sio'pulu,[],,['chan2019'],,False,False,,1
+lasa1237-1-100-1,,lasa1237-1,100,ra'atʃu,ra'atʃu,[],,['chan2019'],,False,False,,1
+lasa1237-1-200-1,,lasa1237-1,200,rua'atʃu,rua'atʃu,[],,['chan2019'],,False,False,,1
+lasa1237-1-1000-1,,lasa1237-1,1000,ra'riβu,ra'riβu,[],,['chan2019'],,False,False,,1
+lasa1237-1-2000-1,,lasa1237-1,2000,rua'riβu,rua'riβu,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chee1238-1-1-1,,chee1238-1,1,ɡyín,ɡyín,[],,[],,False,False,,1
-chee1238-1-2-1,,chee1238-1,2,-hàk,-hàk,[],,[],,False,False,,1
-chee1238-1-3-1,,chee1238-1,3,-tát,-tát,[],,[],,False,False,,1
-chee1238-1-4-1,,chee1238-1,4,-nàs,-nàs,[],,[],,False,False,,1
-chee1238-1-5-1,,chee1238-1,5,-túŋ,-túŋ,[],,[],,False,False,,1
-chee1238-1-6-1,,chee1238-1,6,tàiŋ,tàiŋ,[],,[],,False,False,,1
-chee1238-1-7-1,,chee1238-1,7,taŋbák,taŋbák,[],,[],,False,False,,1
-chee1238-1-8-1,,chee1238-1,8,taːrat,taːrat,[],,[],,False,False,,1
-chee1238-1-9-1,,chee1238-1,9,taːras,taːras,[],,[],,False,False,,1
-chee1238-1-10-1,,chee1238-1,10,uwùruk,uwùruk,[],,[],,False,False,,1
-chee1238-1-11-1,,chee1238-1,11,uʔɔ́k,uʔɔ́k,[],,[],,False,False,,1
-chee1238-1-12-1,,chee1238-1,12,usɔ́k,usɔ́k,[],,[],,False,False,,1
-chee1238-1-13-1,,chee1238-1,13,usɔ́k nì ɡyín,usɔ́k nì ɡyín,[],( 12+ 1 ),[],,False,False,,1
-chee1238-1-14-1,,chee1238-1,14,usɔ́k nì hàk,usɔ́k nì hàk,[],( 12+ 2 ),[],,False,False,,1
-chee1238-1-15-1,,chee1238-1,15,usɔ́k nì tát,usɔ́k nì tát,[],( 12+ 3 ),[],,False,False,,1
-chee1238-1-16-1,,chee1238-1,16,usɔ́k nì nàs,usɔ́k nì nàs,[],( 12+ 4 ),[],,False,False,,1
-chee1238-1-17-1,,chee1238-1,17,usɔ́k nì túŋ,usɔ́k nì túŋ,[],( 12+ 5 ),[],,False,False,,1
-chee1238-1-18-1,,chee1238-1,18,usɔ́k nì tàiŋ,usɔ́k nì tàiŋ,[],( 12+ 6 ),[],,False,False,,1
-chee1238-1-19-1,,chee1238-1,19,usɔ́k nì taŋbák,usɔ́k nì taŋbák,[],( 12+ 7 ),[],,False,False,,1
-chee1238-1-20-1,,chee1238-1,20,usɔ́k nì taːrat,usɔ́k nì taːrat,[],( 12+ 8 ),[],,False,False,,1
-chee1238-1-21-1,,chee1238-1,21,usɔ́k nì taːras,usɔ́k nì taːras,[],( 12+ 9 ),[],,False,False,,1
-chee1238-1-22-1,,chee1238-1,22,usɔ́k nì uʔɔk,usɔ́k nì uʔɔk,[],( 12+ 10 ),[],,False,False,,1
-chee1238-1-23-1,,chee1238-1,23,usɔ́k nì usɔ́k,usɔ́k nì usɔ́k,[],( 12+ 11 ),[],,False,False,,1
-chee1238-1-24-1,,chee1238-1,24,ìsɔk ìhak,ìsɔk ìhak,[],( 12 x 2 ),[],,False,False,,1
-chee1238-1-25-1,,chee1238-1,25,ìsɔk ìhak nì ɡyín,ìsɔk ìhak nì ɡyín,[],( 12 x 2 ) + 1,[],,False,False,,1
-chee1238-1-26-1,,chee1238-1,26,ìsɔk ìhak nì hàk,ìsɔk ìhak nì hàk,[],( 12 x 2 ) + 2,[],,False,False,,1
-chee1238-1-27-1,,chee1238-1,27,ìsɔk ìhak nì tát,ìsɔk ìhak nì tát,[],( 12 x 2 ) + 3,[],,False,False,,1
-chee1238-1-28-1,,chee1238-1,28,ìsɔk ìhak nì nàs,ìsɔk ìhak nì nàs,[],( 12 x 2 ) + 4,[],,False,False,,1
-chee1238-1-29-1,,chee1238-1,29,ìsɔk ìhak nì túŋ,ìsɔk ìhak nì túŋ,[],( 12 x 2 ) + 5,[],,False,False,,1
-chee1238-1-30-1,,chee1238-1,30,ìsɔk ìhak nì tàiŋ,ìsɔk ìhak nì tàiŋ,[],( 12 x 2 ) + 6,[],,False,False,,1
-chee1238-1-40-1,,chee1238-1,40,ìsɔk ìhak nì nàs,ìsɔk ìhak nì nàs,[],( 12 x 3 ) + 4,[],,False,False,,1
-chee1238-1-50-1,,chee1238-1,50,ìsɔk ìhak nì hàk,ìsɔk ìhak nì hàk,[],( 12 x 4 ) + 2,[],,False,False,,1
-chee1238-1-60-1,,chee1238-1,60,ìsɔk ìtúŋ,ìsɔk ìtúŋ,[],( 12 x 5 ),[],,False,False,,1
-chee1238-1-70-1,,chee1238-1,70,ìsɔk ìtuŋ nì uwùruk,ìsɔk ìtuŋ nì uwùruk,[],( 12 x 5 )+ 10,[],,False,False,,1
-chee1238-1-80-1,,chee1238-1,80,kitu nì taːrat,kitu nì taːrat,[],( 72 + 8 ),[],,False,False,,1
-chee1238-1-90-1,,chee1238-1,90,kitu nì usɔ́k ni tàiŋ,kitu nì usɔ́k ni tàiŋ,[],( 72+12+ 6 ),[],,False,False,,1
-chee1238-1-100-1,,chee1238-1,100,kitu nì ìsɔk ihak nì nàs,kitu nì ìsɔk ihak nì nàs,[],(72+12 x 2+ 4),[],,False,False,,1
-chee1238-1-200-1,,chee1238-1,200,atu ahak nì isɔ́k inàs nì hàk nì taːrat,atu ahak nì isɔ́k inàs nì hàk nì taːrat,[],,[],,False,False,,1
-chee1238-1-1000-1,,chee1238-1,1000,idubu,idubu,[],< Hausa ,[],,True,False,,1
-chee1238-1-2000-1,,chee1238-1,2000,idubu ihak,idubu ihak,[],,[],,False,False,,1
+chee1238-1-1-1,,chee1238-1,1,ɡyín,ɡyín,[],,['chan2019'],,False,False,,1
+chee1238-1-2-1,,chee1238-1,2,-hàk,-hàk,[],,['chan2019'],,False,False,,1
+chee1238-1-3-1,,chee1238-1,3,-tát,-tát,[],,['chan2019'],,False,False,,1
+chee1238-1-4-1,,chee1238-1,4,-nàs,-nàs,[],,['chan2019'],,False,False,,1
+chee1238-1-5-1,,chee1238-1,5,-túŋ,-túŋ,[],,['chan2019'],,False,False,,1
+chee1238-1-6-1,,chee1238-1,6,tàiŋ,tàiŋ,[],,['chan2019'],,False,False,,1
+chee1238-1-7-1,,chee1238-1,7,taŋbák,taŋbák,[],,['chan2019'],,False,False,,1
+chee1238-1-8-1,,chee1238-1,8,taːrat,taːrat,[],,['chan2019'],,False,False,,1
+chee1238-1-9-1,,chee1238-1,9,taːras,taːras,[],,['chan2019'],,False,False,,1
+chee1238-1-10-1,,chee1238-1,10,uwùruk,uwùruk,[],,['chan2019'],,False,False,,1
+chee1238-1-11-1,,chee1238-1,11,uʔɔ́k,uʔɔ́k,[],,['chan2019'],,False,False,,1
+chee1238-1-12-1,,chee1238-1,12,usɔ́k,usɔ́k,[],,['chan2019'],,False,False,,1
+chee1238-1-13-1,,chee1238-1,13,usɔ́k nì ɡyín,usɔ́k nì ɡyín,[],( 12+ 1 ),['chan2019'],,False,False,,1
+chee1238-1-14-1,,chee1238-1,14,usɔ́k nì hàk,usɔ́k nì hàk,[],( 12+ 2 ),['chan2019'],,False,False,,1
+chee1238-1-15-1,,chee1238-1,15,usɔ́k nì tát,usɔ́k nì tát,[],( 12+ 3 ),['chan2019'],,False,False,,1
+chee1238-1-16-1,,chee1238-1,16,usɔ́k nì nàs,usɔ́k nì nàs,[],( 12+ 4 ),['chan2019'],,False,False,,1
+chee1238-1-17-1,,chee1238-1,17,usɔ́k nì túŋ,usɔ́k nì túŋ,[],( 12+ 5 ),['chan2019'],,False,False,,1
+chee1238-1-18-1,,chee1238-1,18,usɔ́k nì tàiŋ,usɔ́k nì tàiŋ,[],( 12+ 6 ),['chan2019'],,False,False,,1
+chee1238-1-19-1,,chee1238-1,19,usɔ́k nì taŋbák,usɔ́k nì taŋbák,[],( 12+ 7 ),['chan2019'],,False,False,,1
+chee1238-1-20-1,,chee1238-1,20,usɔ́k nì taːrat,usɔ́k nì taːrat,[],( 12+ 8 ),['chan2019'],,False,False,,1
+chee1238-1-21-1,,chee1238-1,21,usɔ́k nì taːras,usɔ́k nì taːras,[],( 12+ 9 ),['chan2019'],,False,False,,1
+chee1238-1-22-1,,chee1238-1,22,usɔ́k nì uʔɔk,usɔ́k nì uʔɔk,[],( 12+ 10 ),['chan2019'],,False,False,,1
+chee1238-1-23-1,,chee1238-1,23,usɔ́k nì usɔ́k,usɔ́k nì usɔ́k,[],( 12+ 11 ),['chan2019'],,False,False,,1
+chee1238-1-24-1,,chee1238-1,24,ìsɔk ìhak,ìsɔk ìhak,[],( 12 x 2 ),['chan2019'],,False,False,,1
+chee1238-1-25-1,,chee1238-1,25,ìsɔk ìhak nì ɡyín,ìsɔk ìhak nì ɡyín,[],( 12 x 2 ) + 1,['chan2019'],,False,False,,1
+chee1238-1-26-1,,chee1238-1,26,ìsɔk ìhak nì hàk,ìsɔk ìhak nì hàk,[],( 12 x 2 ) + 2,['chan2019'],,False,False,,1
+chee1238-1-27-1,,chee1238-1,27,ìsɔk ìhak nì tát,ìsɔk ìhak nì tát,[],( 12 x 2 ) + 3,['chan2019'],,False,False,,1
+chee1238-1-28-1,,chee1238-1,28,ìsɔk ìhak nì nàs,ìsɔk ìhak nì nàs,[],( 12 x 2 ) + 4,['chan2019'],,False,False,,1
+chee1238-1-29-1,,chee1238-1,29,ìsɔk ìhak nì túŋ,ìsɔk ìhak nì túŋ,[],( 12 x 2 ) + 5,['chan2019'],,False,False,,1
+chee1238-1-30-1,,chee1238-1,30,ìsɔk ìhak nì tàiŋ,ìsɔk ìhak nì tàiŋ,[],( 12 x 2 ) + 6,['chan2019'],,False,False,,1
+chee1238-1-40-1,,chee1238-1,40,ìsɔk ìhak nì nàs,ìsɔk ìhak nì nàs,[],( 12 x 3 ) + 4,['chan2019'],,False,False,,1
+chee1238-1-50-1,,chee1238-1,50,ìsɔk ìhak nì hàk,ìsɔk ìhak nì hàk,[],( 12 x 4 ) + 2,['chan2019'],,False,False,,1
+chee1238-1-60-1,,chee1238-1,60,ìsɔk ìtúŋ,ìsɔk ìtúŋ,[],( 12 x 5 ),['chan2019'],,False,False,,1
+chee1238-1-70-1,,chee1238-1,70,ìsɔk ìtuŋ nì uwùruk,ìsɔk ìtuŋ nì uwùruk,[],( 12 x 5 )+ 10,['chan2019'],,False,False,,1
+chee1238-1-80-1,,chee1238-1,80,kitu nì taːrat,kitu nì taːrat,[],( 72 + 8 ),['chan2019'],,False,False,,1
+chee1238-1-90-1,,chee1238-1,90,kitu nì usɔ́k ni tàiŋ,kitu nì usɔ́k ni tàiŋ,[],( 72+12+ 6 ),['chan2019'],,False,False,,1
+chee1238-1-100-1,,chee1238-1,100,kitu nì ìsɔk ihak nì nàs,kitu nì ìsɔk ihak nì nàs,[],(72+12 x 2+ 4),['chan2019'],,False,False,,1
+chee1238-1-200-1,,chee1238-1,200,atu ahak nì isɔ́k inàs nì hàk nì taːrat,atu ahak nì isɔ́k inàs nì hàk nì taːrat,[],,['chan2019'],,False,False,,1
+chee1238-1-1000-1,,chee1238-1,1000,idubu,idubu,[],< Hausa ,['chan2019'],,True,False,,1
+chee1238-1-2000-1,,chee1238-1,2000,idubu ihak,idubu ihak,[],,['chan2019'],,False,False,,1

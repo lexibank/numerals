@@ -1,17 +1,17 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-urim1251-1-1-1,,urim1251-1,1,khlana,khlana,[],,[],,False,False,,1
-urim1251-1-1-2,,urim1251-1,1,IPA qlana,IPA qlana,[],,[],,False,True,,1
-urim1251-1-2-1,,urim1251-1,2,mlavina,mlavina,[],,[],,False,False,,1
-urim1251-1-2-2,,urim1251-1,2,IPA mlɛvina,IPA mlɛvina,[],,[],,False,True,,1
-urim1251-1-3-1,,urim1251-1,3,mlavikhaikla,mlavikhaikla,[],,[],,False,False,,1
-urim1251-1-3-2,,urim1251-1,3,IPA mlɛviəqaiəkla,IPA mlɛviəqaiəkla,[],,[],,False,True,,1
-urim1251-1-4-1,,urim1251-1,4,mlavina mlavina,mlavina mlavina,[],,[],,False,False,,1
-urim1251-1-4-2,,urim1251-1,4,IPA mlɛvina mlɛvina,IPA mlɛvina mlɛvina,[],,[],,False,True,,1
-urim1251-1-5-1,,urim1251-1,5,mlavina mlavina khlana,mlavina mlavina khlana,[],,[],,False,False,,1
-urim1251-1-5-2,,urim1251-1,5,IPA mlɛvina mlɛvina qlana,IPA mlɛvina mlɛvina qlana,[],,[],,False,True,,1
-urim1251-1-6-1,,urim1251-1,6,mlavikhaikla mlavikhaikla,mlavikhaikla mlavikhaikla,[],,[],,False,False,,1
-urim1251-1-6-2,,urim1251-1,6,IPA mlɛviəqaiəkla mlɛviəqaiəkla,IPA mlɛviəqaiəkla mlɛviəqaiəkla,[],,[],,False,True,,1
-urim1251-1-7-1,,urim1251-1,7,mlavikhaikla mlavikhaikla khlana,mlavikhaikla mlavikhaikla khlana,[],,[],,False,False,,1
-urim1251-1-8-1,,urim1251-1,8,mlavina mlavina mlavina mlavina,mlavina mlavina mlavina mlavina,[],,[],,False,False,,1
-urim1251-1-9-1,,urim1251-1,9,mlavina mlavina mlavina mlavina khlana,mlavina mlavina mlavina mlavina khlana,[],,[],,False,False,,1
-urim1251-1-10-1,,urim1251-1,10,mlavina mlavina khlana mlavina mlavina khlana,mlavina mlavina khlana mlavina mlavina khlana,[],,[],,False,False,,1
+urim1251-1-1-1,,urim1251-1,1,khlana,khlana,[],,['chan2019'],,False,False,,1
+urim1251-1-1-2,,urim1251-1,1,IPA qlana,IPA qlana,[],,['chan2019'],,False,True,,1
+urim1251-1-2-1,,urim1251-1,2,mlavina,mlavina,[],,['chan2019'],,False,False,,1
+urim1251-1-2-2,,urim1251-1,2,IPA mlɛvina,IPA mlɛvina,[],,['chan2019'],,False,True,,1
+urim1251-1-3-1,,urim1251-1,3,mlavikhaikla,mlavikhaikla,[],,['chan2019'],,False,False,,1
+urim1251-1-3-2,,urim1251-1,3,IPA mlɛviəqaiəkla,IPA mlɛviəqaiəkla,[],,['chan2019'],,False,True,,1
+urim1251-1-4-1,,urim1251-1,4,mlavina mlavina,mlavina mlavina,[],,['chan2019'],,False,False,,1
+urim1251-1-4-2,,urim1251-1,4,IPA mlɛvina mlɛvina,IPA mlɛvina mlɛvina,[],,['chan2019'],,False,True,,1
+urim1251-1-5-1,,urim1251-1,5,mlavina mlavina khlana,mlavina mlavina khlana,[],,['chan2019'],,False,False,,1
+urim1251-1-5-2,,urim1251-1,5,IPA mlɛvina mlɛvina qlana,IPA mlɛvina mlɛvina qlana,[],,['chan2019'],,False,True,,1
+urim1251-1-6-1,,urim1251-1,6,mlavikhaikla mlavikhaikla,mlavikhaikla mlavikhaikla,[],,['chan2019'],,False,False,,1
+urim1251-1-6-2,,urim1251-1,6,IPA mlɛviəqaiəkla mlɛviəqaiəkla,IPA mlɛviəqaiəkla mlɛviəqaiəkla,[],,['chan2019'],,False,True,,1
+urim1251-1-7-1,,urim1251-1,7,mlavikhaikla mlavikhaikla khlana,mlavikhaikla mlavikhaikla khlana,[],,['chan2019'],,False,False,,1
+urim1251-1-8-1,,urim1251-1,8,mlavina mlavina mlavina mlavina,mlavina mlavina mlavina mlavina,[],,['chan2019'],,False,False,,1
+urim1251-1-9-1,,urim1251-1,9,mlavina mlavina mlavina mlavina khlana,mlavina mlavina mlavina mlavina khlana,[],,['chan2019'],,False,False,,1
+urim1251-1-10-1,,urim1251-1,10,mlavina mlavina khlana mlavina mlavina khlana,mlavina mlavina khlana mlavina mlavina khlana,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-luuu1242-2-1-1,,luuu1242-2,1,ləŋ6,ləŋ6,[],,[],,False,False,,2
-luuu1242-2-2-1,,luuu1242-2,2,sɒŋ1,sɒŋ1,[],,[],,False,False,,2
-luuu1242-2-3-1,,luuu1242-2,3,saːm1,saːm1,[],,[],,False,False,,2
-luuu1242-2-4-1,,luuu1242-2,4,si5,si5,[],,[],,False,False,,2
-luuu1242-2-5-1,,luuu1242-2,5,ha3,ha3,[],,[],,False,False,,2
-luuu1242-2-6-1,,luuu1242-2,6,hɔk9,hɔk9,[],,[],,False,False,,2
-luuu1242-2-7-1,,luuu1242-2,7,tset9,tset9,[],,[],,False,False,,2
-luuu1242-2-8-1,,luuu1242-2,8,pɛt9,pɛt9,[],,[],,False,False,,2
-luuu1242-2-9-1,,luuu1242-2,9,kau3,kau3,[],,[],,False,False,,2
-luuu1242-2-10-1,,luuu1242-2,10,sip7,sip7,[],,[],,False,False,,2
-luuu1242-2-11-1,,luuu1242-2,11,sip7ʔet9,sip7ʔet9,[],,[],,False,False,,2
-luuu1242-2-12-1,,luuu1242-2,12,sip7sɒŋ1,sip7sɒŋ1,[],,[],,False,False,,2
-luuu1242-2-13-1,,luuu1242-2,13,sip7saːm1,sip7saːm1,[],,[],,False,False,,2
-luuu1242-2-14-1,,luuu1242-2,14,sip7si5,sip7si5,[],,[],,False,False,,2
-luuu1242-2-15-1,,luuu1242-2,15,sip7ha3,sip7ha3,[],,[],,False,False,,2
-luuu1242-2-16-1,,luuu1242-2,16,sip7hɔk9,sip7hɔk9,[],,[],,False,False,,2
-luuu1242-2-17-1,,luuu1242-2,17,sip7tset9,sip7tset9,[],,[],,False,False,,2
-luuu1242-2-18-1,,luuu1242-2,18,sip7pɛt9,sip7pɛt9,[],,[],,False,False,,2
-luuu1242-2-19-1,,luuu1242-2,19,sip7kau3,sip7kau3,[],,[],,False,False,,2
-luuu1242-2-20-1,,luuu1242-2,20,saːu2ləŋ6,saːu2ləŋ6,[],,[],,False,False,,2
-luuu1242-2-21-1,,luuu1242-2,21,saːu2 ʔet9,saːu2 ʔet9,[],,[],,False,False,,2
-luuu1242-2-22-1,,luuu1242-2,22,saːu2 sɒŋ1,saːu2 sɒŋ1,[],,[],,False,False,,2
-luuu1242-2-23-1,,luuu1242-2,23,saːu2 saːm1,saːu2 saːm1,[],,[],,False,False,,2
-luuu1242-2-24-1,,luuu1242-2,24,saːu2 si5,saːu2 si5,[],,[],,False,False,,2
-luuu1242-2-25-1,,luuu1242-2,25,saːu2 ha3,saːu2 ha3,[],,[],,False,False,,2
-luuu1242-2-26-1,,luuu1242-2,26,saːu2 hɔk9,saːu2 hɔk9,[],,[],,False,False,,2
-luuu1242-2-27-1,,luuu1242-2,27,saːu2 tset7,saːu2 tset7,[],,[],,False,False,,2
-luuu1242-2-28-1,,luuu1242-2,28,saːu2 pɛt9,saːu2 pɛt9,[],,[],,False,False,,2
-luuu1242-2-29-1,,luuu1242-2,29,saːu2 kau3,saːu2 kau3,[],,[],,False,False,,2
-luuu1242-2-30-1,,luuu1242-2,30,saːm1 sip7,saːm1 sip7,[],,[],,False,False,,2
-luuu1242-2-40-1,,luuu1242-2,40,si5 sip7,si5 sip7,[],,[],,False,False,,2
-luuu1242-2-50-1,,luuu1242-2,50,ha3 sip7,ha3 sip7,[],,[],,False,False,,2
-luuu1242-2-60-1,,luuu1242-2,60,hɔk9 sip7,hɔk9 sip7,[],,[],,False,False,,2
-luuu1242-2-70-1,,luuu1242-2,70,tset9 sip7,tset9 sip7,[],,[],,False,False,,2
-luuu1242-2-80-1,,luuu1242-2,80,pɛt9 sip7,pɛt9 sip7,[],,[],,False,False,,2
-luuu1242-2-90-1,,luuu1242-2,90,kau3 sip7,kau3 sip7,[],,[],,False,False,,2
-luuu1242-2-100-1,,luuu1242-2,100,paːk9ləŋ6,paːk9ləŋ6,[],,[],,False,False,,2
-luuu1242-2-200-1,,luuu1242-2,200,paːk9sɒŋ1,paːk9sɒŋ1,[],,[],,False,False,,2
-luuu1242-2-1000-1,,luuu1242-2,1000,heŋ1 ləŋ6,heŋ1 ləŋ6,[],,[],,False,False,,2
-luuu1242-2-2000-1,,luuu1242-2,2000,heŋ1 sɒŋ1,heŋ1 sɒŋ1,[],,[],,False,False,,2
+luuu1242-2-1-1,,luuu1242-2,1,ləŋ6,ləŋ6,[],,['chan2019'],,False,False,,2
+luuu1242-2-2-1,,luuu1242-2,2,sɒŋ1,sɒŋ1,[],,['chan2019'],,False,False,,2
+luuu1242-2-3-1,,luuu1242-2,3,saːm1,saːm1,[],,['chan2019'],,False,False,,2
+luuu1242-2-4-1,,luuu1242-2,4,si5,si5,[],,['chan2019'],,False,False,,2
+luuu1242-2-5-1,,luuu1242-2,5,ha3,ha3,[],,['chan2019'],,False,False,,2
+luuu1242-2-6-1,,luuu1242-2,6,hɔk9,hɔk9,[],,['chan2019'],,False,False,,2
+luuu1242-2-7-1,,luuu1242-2,7,tset9,tset9,[],,['chan2019'],,False,False,,2
+luuu1242-2-8-1,,luuu1242-2,8,pɛt9,pɛt9,[],,['chan2019'],,False,False,,2
+luuu1242-2-9-1,,luuu1242-2,9,kau3,kau3,[],,['chan2019'],,False,False,,2
+luuu1242-2-10-1,,luuu1242-2,10,sip7,sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-11-1,,luuu1242-2,11,sip7ʔet9,sip7ʔet9,[],,['chan2019'],,False,False,,2
+luuu1242-2-12-1,,luuu1242-2,12,sip7sɒŋ1,sip7sɒŋ1,[],,['chan2019'],,False,False,,2
+luuu1242-2-13-1,,luuu1242-2,13,sip7saːm1,sip7saːm1,[],,['chan2019'],,False,False,,2
+luuu1242-2-14-1,,luuu1242-2,14,sip7si5,sip7si5,[],,['chan2019'],,False,False,,2
+luuu1242-2-15-1,,luuu1242-2,15,sip7ha3,sip7ha3,[],,['chan2019'],,False,False,,2
+luuu1242-2-16-1,,luuu1242-2,16,sip7hɔk9,sip7hɔk9,[],,['chan2019'],,False,False,,2
+luuu1242-2-17-1,,luuu1242-2,17,sip7tset9,sip7tset9,[],,['chan2019'],,False,False,,2
+luuu1242-2-18-1,,luuu1242-2,18,sip7pɛt9,sip7pɛt9,[],,['chan2019'],,False,False,,2
+luuu1242-2-19-1,,luuu1242-2,19,sip7kau3,sip7kau3,[],,['chan2019'],,False,False,,2
+luuu1242-2-20-1,,luuu1242-2,20,saːu2ləŋ6,saːu2ləŋ6,[],,['chan2019'],,False,False,,2
+luuu1242-2-21-1,,luuu1242-2,21,saːu2 ʔet9,saːu2 ʔet9,[],,['chan2019'],,False,False,,2
+luuu1242-2-22-1,,luuu1242-2,22,saːu2 sɒŋ1,saːu2 sɒŋ1,[],,['chan2019'],,False,False,,2
+luuu1242-2-23-1,,luuu1242-2,23,saːu2 saːm1,saːu2 saːm1,[],,['chan2019'],,False,False,,2
+luuu1242-2-24-1,,luuu1242-2,24,saːu2 si5,saːu2 si5,[],,['chan2019'],,False,False,,2
+luuu1242-2-25-1,,luuu1242-2,25,saːu2 ha3,saːu2 ha3,[],,['chan2019'],,False,False,,2
+luuu1242-2-26-1,,luuu1242-2,26,saːu2 hɔk9,saːu2 hɔk9,[],,['chan2019'],,False,False,,2
+luuu1242-2-27-1,,luuu1242-2,27,saːu2 tset7,saːu2 tset7,[],,['chan2019'],,False,False,,2
+luuu1242-2-28-1,,luuu1242-2,28,saːu2 pɛt9,saːu2 pɛt9,[],,['chan2019'],,False,False,,2
+luuu1242-2-29-1,,luuu1242-2,29,saːu2 kau3,saːu2 kau3,[],,['chan2019'],,False,False,,2
+luuu1242-2-30-1,,luuu1242-2,30,saːm1 sip7,saːm1 sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-40-1,,luuu1242-2,40,si5 sip7,si5 sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-50-1,,luuu1242-2,50,ha3 sip7,ha3 sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-60-1,,luuu1242-2,60,hɔk9 sip7,hɔk9 sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-70-1,,luuu1242-2,70,tset9 sip7,tset9 sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-80-1,,luuu1242-2,80,pɛt9 sip7,pɛt9 sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-90-1,,luuu1242-2,90,kau3 sip7,kau3 sip7,[],,['chan2019'],,False,False,,2
+luuu1242-2-100-1,,luuu1242-2,100,paːk9ləŋ6,paːk9ləŋ6,[],,['chan2019'],,False,False,,2
+luuu1242-2-200-1,,luuu1242-2,200,paːk9sɒŋ1,paːk9sɒŋ1,[],,['chan2019'],,False,False,,2
+luuu1242-2-1000-1,,luuu1242-2,1000,heŋ1 ləŋ6,heŋ1 ləŋ6,[],,['chan2019'],,False,False,,2
+luuu1242-2-2000-1,,luuu1242-2,2000,heŋ1 sɒŋ1,heŋ1 sɒŋ1,[],,['chan2019'],,False,False,,2

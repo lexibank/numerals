@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2594-2-1-1,,west2594-2,1,ambit,ambit,[],,[],,False,False,,2
-west2594-2-2-1,,west2594-2,2,mbere,mbere,[],,[],,False,False,,2
-west2594-2-3-1,,west2594-2,3,kenaɡan,kenaɡan,[],,[],,False,False,,2
-west2594-2-4-1,,west2594-2,4,i'mbere mbere,i'mbere mbere,[],(litː ''2 + 2'' ),[],,False,False,,2
-west2594-2-5-1,,west2594-2,5,eenɡɡitoɡon,eenɡɡitoɡon,[],(litː ''my side hand'' ? ),[],,False,False,,2
-west2594-2-6-1,,west2594-2,6,eenɡɡi abeenok lunɡɡuk abeenok ambit,eenɡɡi abeenok lunɡɡuk abeenok ambit,[],(litː '' my side hand + 1 '' ),[],,False,False,,2
-west2594-2-7-1,,west2594-2,7,eenɡɡi abeenok lunɡɡuk abeenok mbere,eenɡɡi abeenok lunɡɡuk abeenok mbere,[],(litː '' my side hand + 2'' ),[],,False,False,,2
-west2594-2-8-1,,west2594-2,8,eenɡɡi abeenok lunɡɡuk abeenok kenaɡan,eenɡɡi abeenok lunɡɡuk abeenok kenaɡan,[],(litː '' my side hand + 3 '' ),[],,False,False,,2
-west2594-2-9-1,,west2594-2,9,eenɡɡi abeenok lunɡɡuk abeenok i'mbere mbere,eenɡɡi abeenok lunɡɡuk abeenok i'mbere mbere,[],(litː ''my side hand + 4'' ),[],,False,False,,2
-west2594-2-10-1,,west2594-2,10,eenɡɡi apit lunɡɡuk,eenɡɡi apit lunɡɡuk,[],(litː ''my side hand + my side hand'' ?),[],,False,False,,2
+west2594-2-1-1,,west2594-2,1,ambit,ambit,[],,['chan2019'],,False,False,,2
+west2594-2-2-1,,west2594-2,2,mbere,mbere,[],,['chan2019'],,False,False,,2
+west2594-2-3-1,,west2594-2,3,kenaɡan,kenaɡan,[],,['chan2019'],,False,False,,2
+west2594-2-4-1,,west2594-2,4,i'mbere mbere,i'mbere mbere,[],(litː ''2 + 2'' ),['chan2019'],,False,False,,2
+west2594-2-5-1,,west2594-2,5,eenɡɡitoɡon,eenɡɡitoɡon,[],(litː ''my side hand'' ? ),['chan2019'],,False,False,,2
+west2594-2-6-1,,west2594-2,6,eenɡɡi abeenok lunɡɡuk abeenok ambit,eenɡɡi abeenok lunɡɡuk abeenok ambit,[],(litː '' my side hand + 1 '' ),['chan2019'],,False,False,,2
+west2594-2-7-1,,west2594-2,7,eenɡɡi abeenok lunɡɡuk abeenok mbere,eenɡɡi abeenok lunɡɡuk abeenok mbere,[],(litː '' my side hand + 2'' ),['chan2019'],,False,False,,2
+west2594-2-8-1,,west2594-2,8,eenɡɡi abeenok lunɡɡuk abeenok kenaɡan,eenɡɡi abeenok lunɡɡuk abeenok kenaɡan,[],(litː '' my side hand + 3 '' ),['chan2019'],,False,False,,2
+west2594-2-9-1,,west2594-2,9,eenɡɡi abeenok lunɡɡuk abeenok i'mbere mbere,eenɡɡi abeenok lunɡɡuk abeenok i'mbere mbere,[],(litː ''my side hand + 4'' ),['chan2019'],,False,False,,2
+west2594-2-10-1,,west2594-2,10,eenɡɡi apit lunɡɡuk,eenɡɡi apit lunɡɡuk,[],(litː ''my side hand + my side hand'' ?),['chan2019'],,False,False,,2

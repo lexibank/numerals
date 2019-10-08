@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tami1290-1-1-1,,tami1290-1,1,ti,ti,[],(timoŋ),[],,False,False,,1
-tami1290-1-2-1,,tami1290-1,2,lu,lu,[],,[],,False,False,,1
-tami1290-1-3-1,,tami1290-1,3,tôl,tôl,[],,[],,False,False,,1
-tami1290-1-4-1,,tami1290-1,4,pat,pat,[],,[],,False,False,,1
-tami1290-1-5-1,,tami1290-1,5,lim,lim,[],,[],,False,False,,1
-tami1290-1-6-1,,tami1290-1,6,limatimoŋ,limatimoŋ,[],( 5 + 1 ),[],,False,False,,1
-tami1290-1-7-1,,tami1290-1,7,limalu,limalu,[],( 5 + 2 ),[],,False,False,,1
-tami1290-1-8-1,,tami1290-1,8,limatôl,limatôl,[],( 5 + 3 ),[],,False,False,,1
-tami1290-1-9-1,,tami1290-1,9,limapat,limapat,[],( 5 + 4 ),[],,False,False,,1
-tami1290-1-10-1,,tami1290-1,10,limandalu,limandalu,[],,[],,False,False,,1
-tami1290-1-11-1,,tami1290-1,11,limandalumatimoŋ,limandalumatimoŋ,[],,[],,False,False,,1
-tami1290-1-12-1,,tami1290-1,12,limandalumalu,limandalumalu,[],,[],,False,False,,1
-tami1290-1-13-1,,tami1290-1,13,limandalumatôl,limandalumatôl,[],,[],,False,False,,1
-tami1290-1-14-1,,tami1290-1,14,limandalumapat,limandalumapat,[],,[],,False,False,,1
-tami1290-1-15-1,,tami1290-1,15,limandalumalima,limandalumalima,[],,[],,False,False,,1
-tami1290-1-16-1,,tami1290-1,16,limandalumalimatimoŋ,limandalumalimatimoŋ,[],,[],,False,False,,1
-tami1290-1-17-1,,tami1290-1,17,limandalumalimalu,limandalumalimalu,[],,[],,False,False,,1
-tami1290-1-18-1,,tami1290-1,18,limandalumalimatôl,limandalumalimatôl,[],,[],,False,False,,1
-tami1290-1-19-1,,tami1290-1,19,limandalumalimapat,limandalumalimapat,[],,[],,False,False,,1
-tami1290-1-20-1,,tami1290-1,20,taumoandeʔ,taumoandeʔ,[],( litː ''person one''),[],,False,False,,1
-tami1290-1-21-1,,tami1290-1,21,taumoandeʔmatimoŋ,taumoandeʔmatimoŋ,[],,[],,False,False,,1
-tami1290-1-22-1,,tami1290-1,22,taumoandeʔmalu,taumoandeʔmalu,[],,[],,False,False,,1
-tami1290-1-23-1,,tami1290-1,23,taumoandeʔmatôl,taumoandeʔmatôl,[],,[],,False,False,,1
-tami1290-1-24-1,,tami1290-1,24,taumoandeʔmapat,taumoandeʔmapat,[],,[],,False,False,,1
-tami1290-1-25-1,,tami1290-1,25,taumoandeʔmalim,taumoandeʔmalim,[],,[],,False,False,,1
-tami1290-1-26-1,,tami1290-1,26,taumoandeʔmalimatimoŋ,taumoandeʔmalimatimoŋ,[],,[],,False,False,,1
-tami1290-1-27-1,,tami1290-1,27,taumoandeʔmalimalu,taumoandeʔmalimalu,[],,[],,False,False,,1
-tami1290-1-28-1,,tami1290-1,28,taumoandeʔmalimatôl,taumoandeʔmalimatôl,[],,[],,False,False,,1
-tami1290-1-29-1,,tami1290-1,29,taumoandeʔmalimapat,taumoandeʔmalimapat,[],,[],,False,False,,1
-tami1290-1-30-1,,tami1290-1,30,taumoandeʔmalimandalu,taumoandeʔmalimandalu,[],,[],,False,False,,1
-tami1290-1-40-1,,tami1290-1,40,taumoandeʔlu,taumoandeʔlu,[],,[],,False,False,,1
-tami1290-1-50-1,,tami1290-1,50,taumoandeʔlumalimandalu,taumoandeʔlumalimandalu,[],,[],,False,False,,1
-tami1290-1-60-1,,tami1290-1,60,taumoandeʔmatôl,taumoandeʔmatôl,[],,[],,False,False,,1
-tami1290-1-70-1,,tami1290-1,70,taumoandeʔmatôlmalimandalu,taumoandeʔmatôlmalimandalu,[],,[],,False,False,,1
-tami1290-1-80-1,,tami1290-1,80,taumoandeʔpat,taumoandeʔpat,[],,[],,False,False,,1
-tami1290-1-90-1,,tami1290-1,90,taumoandeʔpatmalimandalu,taumoandeʔpatmalimandalu,[],,[],,False,False,,1
-tami1290-1-100-1,,tami1290-1,100,taumoandeʔlim,taumoandeʔlim,[],,[],,False,False,,1
-tami1290-1-200-1,,tami1290-1,200,taumoandeʔlim ma taumoandeʔlim poet,taumoandeʔlim ma taumoandeʔlim poet,[],,[],,False,False,,1
-tami1290-1-1000-1,,tami1290-1,1000,akanoŋ tau tau,akanoŋ tau tau,[],,[],,False,False,,1
-tami1290-1-2000-1,,tami1290-1,2000,akanoŋ tau tau isan,akanoŋ tau tau isan,[],,[],,False,False,,1
+tami1290-1-1-1,,tami1290-1,1,ti,ti,[],(timoŋ),['chan2019'],,False,False,,1
+tami1290-1-2-1,,tami1290-1,2,lu,lu,[],,['chan2019'],,False,False,,1
+tami1290-1-3-1,,tami1290-1,3,tôl,tôl,[],,['chan2019'],,False,False,,1
+tami1290-1-4-1,,tami1290-1,4,pat,pat,[],,['chan2019'],,False,False,,1
+tami1290-1-5-1,,tami1290-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+tami1290-1-6-1,,tami1290-1,6,limatimoŋ,limatimoŋ,[],( 5 + 1 ),['chan2019'],,False,False,,1
+tami1290-1-7-1,,tami1290-1,7,limalu,limalu,[],( 5 + 2 ),['chan2019'],,False,False,,1
+tami1290-1-8-1,,tami1290-1,8,limatôl,limatôl,[],( 5 + 3 ),['chan2019'],,False,False,,1
+tami1290-1-9-1,,tami1290-1,9,limapat,limapat,[],( 5 + 4 ),['chan2019'],,False,False,,1
+tami1290-1-10-1,,tami1290-1,10,limandalu,limandalu,[],,['chan2019'],,False,False,,1
+tami1290-1-11-1,,tami1290-1,11,limandalumatimoŋ,limandalumatimoŋ,[],,['chan2019'],,False,False,,1
+tami1290-1-12-1,,tami1290-1,12,limandalumalu,limandalumalu,[],,['chan2019'],,False,False,,1
+tami1290-1-13-1,,tami1290-1,13,limandalumatôl,limandalumatôl,[],,['chan2019'],,False,False,,1
+tami1290-1-14-1,,tami1290-1,14,limandalumapat,limandalumapat,[],,['chan2019'],,False,False,,1
+tami1290-1-15-1,,tami1290-1,15,limandalumalima,limandalumalima,[],,['chan2019'],,False,False,,1
+tami1290-1-16-1,,tami1290-1,16,limandalumalimatimoŋ,limandalumalimatimoŋ,[],,['chan2019'],,False,False,,1
+tami1290-1-17-1,,tami1290-1,17,limandalumalimalu,limandalumalimalu,[],,['chan2019'],,False,False,,1
+tami1290-1-18-1,,tami1290-1,18,limandalumalimatôl,limandalumalimatôl,[],,['chan2019'],,False,False,,1
+tami1290-1-19-1,,tami1290-1,19,limandalumalimapat,limandalumalimapat,[],,['chan2019'],,False,False,,1
+tami1290-1-20-1,,tami1290-1,20,taumoandeʔ,taumoandeʔ,[],( litː ''person one''),['chan2019'],,False,False,,1
+tami1290-1-21-1,,tami1290-1,21,taumoandeʔmatimoŋ,taumoandeʔmatimoŋ,[],,['chan2019'],,False,False,,1
+tami1290-1-22-1,,tami1290-1,22,taumoandeʔmalu,taumoandeʔmalu,[],,['chan2019'],,False,False,,1
+tami1290-1-23-1,,tami1290-1,23,taumoandeʔmatôl,taumoandeʔmatôl,[],,['chan2019'],,False,False,,1
+tami1290-1-24-1,,tami1290-1,24,taumoandeʔmapat,taumoandeʔmapat,[],,['chan2019'],,False,False,,1
+tami1290-1-25-1,,tami1290-1,25,taumoandeʔmalim,taumoandeʔmalim,[],,['chan2019'],,False,False,,1
+tami1290-1-26-1,,tami1290-1,26,taumoandeʔmalimatimoŋ,taumoandeʔmalimatimoŋ,[],,['chan2019'],,False,False,,1
+tami1290-1-27-1,,tami1290-1,27,taumoandeʔmalimalu,taumoandeʔmalimalu,[],,['chan2019'],,False,False,,1
+tami1290-1-28-1,,tami1290-1,28,taumoandeʔmalimatôl,taumoandeʔmalimatôl,[],,['chan2019'],,False,False,,1
+tami1290-1-29-1,,tami1290-1,29,taumoandeʔmalimapat,taumoandeʔmalimapat,[],,['chan2019'],,False,False,,1
+tami1290-1-30-1,,tami1290-1,30,taumoandeʔmalimandalu,taumoandeʔmalimandalu,[],,['chan2019'],,False,False,,1
+tami1290-1-40-1,,tami1290-1,40,taumoandeʔlu,taumoandeʔlu,[],,['chan2019'],,False,False,,1
+tami1290-1-50-1,,tami1290-1,50,taumoandeʔlumalimandalu,taumoandeʔlumalimandalu,[],,['chan2019'],,False,False,,1
+tami1290-1-60-1,,tami1290-1,60,taumoandeʔmatôl,taumoandeʔmatôl,[],,['chan2019'],,False,False,,1
+tami1290-1-70-1,,tami1290-1,70,taumoandeʔmatôlmalimandalu,taumoandeʔmatôlmalimandalu,[],,['chan2019'],,False,False,,1
+tami1290-1-80-1,,tami1290-1,80,taumoandeʔpat,taumoandeʔpat,[],,['chan2019'],,False,False,,1
+tami1290-1-90-1,,tami1290-1,90,taumoandeʔpatmalimandalu,taumoandeʔpatmalimandalu,[],,['chan2019'],,False,False,,1
+tami1290-1-100-1,,tami1290-1,100,taumoandeʔlim,taumoandeʔlim,[],,['chan2019'],,False,False,,1
+tami1290-1-200-1,,tami1290-1,200,taumoandeʔlim ma taumoandeʔlim poet,taumoandeʔlim ma taumoandeʔlim poet,[],,['chan2019'],,False,False,,1
+tami1290-1-1000-1,,tami1290-1,1000,akanoŋ tau tau,akanoŋ tau tau,[],,['chan2019'],,False,False,,1
+tami1290-1-2000-1,,tami1290-1,2000,akanoŋ tau tau isan,akanoŋ tau tau isan,[],,['chan2019'],,False,False,,1

@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dars1235-1-1-1,,dars1235-1,1,ùŋɡʊ̀n,ùŋɡʊ̀n,[],,[],,False,False,,1
-dars1235-1-2-1,,dars1235-1,2,bìdàk,bìdàk,[],,[],,False,False,,1
-dars1235-1-3-1,,dars1235-1,3,kòdòs,kòdòs,[],,[],,False,False,,1
-dars1235-1-4-1,,dars1235-1,4,tìʃɛ̀t,tìʃɛ̀t,[],,[],,False,False,,1
-dars1235-1-5-1,,dars1235-1,5,mùdùk,mùdùk,[],,[],,False,False,,1
-dars1235-1-6-1,,dars1235-1,6,(ʔ)àràn,(ʔ)àràn,[],,[],,False,False,,1
-dars1235-1-6-2,,dars1235-1,6,(ʔ)àrân,(ʔ)àrân,[],,[],,False,False,,1
-dars1235-1-7-1,,dars1235-1,7,fáktíndì,fáktíndì,[],,[],,False,False,,1
-dars1235-1-8-1,,dars1235-1,8,kòohándà,kòohándà,[],,[],,False,False,,1
-dars1235-1-9-1,,dars1235-1,9,bìstándà,bìstándà,[],,[],,False,False,,1
-dars1235-1-10-1,,dars1235-1,10,àsîŋ,àsîŋ,[],,[],,False,False,,1
-dars1235-1-12-1,,dars1235-1,12,àsîŋ.táa.bìdàk,àsîŋ.táa.bìdàk,[],{ten.?.two},[],,False,False,,1
-dars1235-1-20-1,,dars1235-1,20,àsíŋɡè bídàk,àsíŋɡè bídàk,[],{ten.PLURAL/ two},[],,False,False,,1
-dars1235-1-100-1,,dars1235-1,100,àsíŋɡè àsîŋ,àsíŋɡè àsîŋ,[],{ten.PLURAL/ ten},[],,False,False,,1
+dars1235-1-1-1,,dars1235-1,1,ùŋɡʊ̀n,ùŋɡʊ̀n,[],,['chan2019'],,False,False,,1
+dars1235-1-2-1,,dars1235-1,2,bìdàk,bìdàk,[],,['chan2019'],,False,False,,1
+dars1235-1-3-1,,dars1235-1,3,kòdòs,kòdòs,[],,['chan2019'],,False,False,,1
+dars1235-1-4-1,,dars1235-1,4,tìʃɛ̀t,tìʃɛ̀t,[],,['chan2019'],,False,False,,1
+dars1235-1-5-1,,dars1235-1,5,mùdùk,mùdùk,[],,['chan2019'],,False,False,,1
+dars1235-1-6-1,,dars1235-1,6,(ʔ)àràn,(ʔ)àràn,[],,['chan2019'],,False,False,,1
+dars1235-1-6-2,,dars1235-1,6,(ʔ)àrân,(ʔ)àrân,[],,['chan2019'],,False,False,,1
+dars1235-1-7-1,,dars1235-1,7,fáktíndì,fáktíndì,[],,['chan2019'],,False,False,,1
+dars1235-1-8-1,,dars1235-1,8,kòohándà,kòohándà,[],,['chan2019'],,False,False,,1
+dars1235-1-9-1,,dars1235-1,9,bìstándà,bìstándà,[],,['chan2019'],,False,False,,1
+dars1235-1-10-1,,dars1235-1,10,àsîŋ,àsîŋ,[],,['chan2019'],,False,False,,1
+dars1235-1-12-1,,dars1235-1,12,àsîŋ.táa.bìdàk,àsîŋ.táa.bìdàk,[],{ten.?.two},['chan2019'],,False,False,,1
+dars1235-1-20-1,,dars1235-1,20,àsíŋɡè bídàk,àsíŋɡè bídàk,[],{ten.PLURAL/ two},['chan2019'],,False,False,,1
+dars1235-1-100-1,,dars1235-1,100,àsíŋɡè àsîŋ,àsíŋɡè àsîŋ,[],{ten.PLURAL/ ten},['chan2019'],,False,False,,1

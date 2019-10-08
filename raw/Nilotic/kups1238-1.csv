@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kups1238-1-1-1,,kups1238-1,1,akɛ́ːŋkɛ,akɛ́ːŋkɛ,[],,[],,False,False,aɡeenɡe,1
-kups1238-1-2-1,,kups1238-1,2,ɑréːɲ,ɑréːɲ,[],,[],,False,False,äyëëny,1
-kups1238-1-3-1,,kups1238-1,3,sómok,sómok,[],,[],,False,False,sömök,1
-kups1238-1-4-1,,kups1238-1,4,aŋwán,aŋwán,[],,[],,False,False,anɡʼwan,1
-kups1238-1-5-1,,kups1238-1,5,múːt,múːt,[],,[],,False,False,müüt,1
-kups1238-1-6-1,,kups1238-1,6,múːt ɑk akɛ́ːŋkɛ,múːt ɑk akɛ́ːŋkɛ,[],,[],,False,False,müüt äk aɡeenɡe,1
-kups1238-1-7-1,,kups1238-1,7,müüt äk äyëëny,müüt äk äyëëny,[],( 5 + 2 ),[],,False,False,,1
-kups1238-1-8-1,,kups1238-1,8,müüt äk sömök,müüt äk sömök,[],( 5 + 3 ),[],,False,False,,1
-kups1238-1-9-1,,kups1238-1,9,müüt äk anɡʼwan,müüt äk anɡʼwan,[],( 5 + 4 ),[],,False,False,,1
-kups1238-1-10-1,,kups1238-1,10,támán,támán,[],,[],,False,False,taman,1
-kups1238-1-11-1,,kups1238-1,11,taman äk aɡeenɡe,taman äk aɡeenɡe,[],,[],,False,False,,1
-kups1238-1-12-1,,kups1238-1,12,taman äk äyëëny,taman äk äyëëny,[],,[],,False,False,,1
-kups1238-1-13-1,,kups1238-1,13,taman äk sömök,taman äk sömök,[],,[],,False,False,,1
-kups1238-1-14-1,,kups1238-1,14,taman äk anɡʼwan,taman äk anɡʼwan,[],,[],,False,False,,1
-kups1238-1-15-1,,kups1238-1,15,taman äk müüt,taman äk müüt,[],,[],,False,False,,1
-kups1238-1-16-1,,kups1238-1,16,taman äk müüt äk aɡeenɡe,taman äk müüt äk aɡeenɡe,[],,[],,False,False,,1
-kups1238-1-17-1,,kups1238-1,17,taman äk müüt äk äyëëny,taman äk müüt äk äyëëny,[],,[],,False,False,,1
-kups1238-1-18-1,,kups1238-1,18,taman äk müüt äk sömök,taman äk müüt äk sömök,[],,[],,False,False,,1
-kups1238-1-19-1,,kups1238-1,19,taman äk müüt äk anɡʼwan,taman äk müüt äk anɡʼwan,[],,[],,False,False,,1
-kups1238-1-20-1,,kups1238-1,20,kuwäängʼ chiichak,kuwäängʼ chiichak,[],( 'one person'),[],,False,False,,1
-kups1238-1-21-1,,kups1238-1,21,kuwäängʼ chiichak äk aɡeenɡe,kuwäängʼ chiichak äk aɡeenɡe,[],,[],,False,False,,1
-kups1238-1-22-1,,kups1238-1,22,kuwäängʼ chiichak äk äyëëny,kuwäängʼ chiichak äk äyëëny,[],,[],,False,False,,1
-kups1238-1-23-1,,kups1238-1,23,kuwäängʼ chiichak äk sömök,kuwäängʼ chiichak äk sömök,[],,[],,False,False,,1
-kups1238-1-24-1,,kups1238-1,24,kuwäängʼ chiichak äk anɡʼwan,kuwäängʼ chiichak äk anɡʼwan,[],,[],,False,False,,1
-kups1238-1-25-1,,kups1238-1,25,kuwäängʼ chiichak äk müüt,kuwäängʼ chiichak äk müüt,[],,[],,False,False,,1
-kups1238-1-26-1,,kups1238-1,26,kuwäängʼ chiichak äk müüt äk aɡeenɡe,kuwäängʼ chiichak äk müüt äk aɡeenɡe,[],,[],,False,False,,1
-kups1238-1-27-1,,kups1238-1,27,kuwäängʼ chiichak äk müüt äk äyëëny,kuwäängʼ chiichak äk müüt äk äyëëny,[],,[],,False,False,,1
-kups1238-1-28-1,,kups1238-1,28,kuwäängʼ chiichak äk müüt äk sömök,kuwäängʼ chiichak äk müüt äk sömök,[],,[],,False,False,,1
-kups1238-1-29-1,,kups1238-1,29,kuwäängʼ chiichak äk müüt äk anɡʼwan,kuwäängʼ chiichak äk müüt äk anɡʼwan,[],,[],,False,False,,1
-kups1238-1-30-1,,kups1238-1,30,kuwäängʼ chiichak äk taman,kuwäängʼ chiichak äk taman,[],,[],,False,False,,1
-kups1238-1-40-1,,kups1238-1,40,kuwäängʼ biikä äyëëny,kuwäängʼ biikä äyëëny,[],( 'two persons'),[],,False,False,,1
-kups1238-1-50-1,,kups1238-1,50,kuwäängʼ biikä äyëëny äk taman,kuwäängʼ biikä äyëëny äk taman,[],,[],,False,False,,1
-kups1238-1-60-1,,kups1238-1,60,tämänwääɡïk müüt äk aɡeenɡe,tämänwääɡïk müüt äk aɡeenɡe,[],,[],,False,False,,1
-kups1238-1-70-1,,kups1238-1,70,tämänwääɡïk müüt äk äyëëny,tämänwääɡïk müüt äk äyëëny,[],,[],,False,False,,1
-kups1238-1-80-1,,kups1238-1,80,tämänwääɡïk müüt äk sömök,tämänwääɡïk müüt äk sömök,[],,[],,False,False,,1
-kups1238-1-90-1,,kups1238-1,90,tämänwääɡïk müüt äk anɡʼwan,tämänwääɡïk müüt äk anɡʼwan,[],,[],,False,False,,1
-kups1238-1-100-1,,kups1238-1,100,bɑɡɑl,bɑɡɑl,[],,[],,False,False,bäɡäl,1
-kups1238-1-200-1,,kups1238-1,200,bäɡäl äyëëny,bäɡäl äyëëny,[],,[],,False,False,,1
+kups1238-1-1-1,,kups1238-1,1,akɛ́ːŋkɛ,akɛ́ːŋkɛ,[],,['chan2019'],,False,False,aɡeenɡe,1
+kups1238-1-2-1,,kups1238-1,2,ɑréːɲ,ɑréːɲ,[],,['chan2019'],,False,False,äyëëny,1
+kups1238-1-3-1,,kups1238-1,3,sómok,sómok,[],,['chan2019'],,False,False,sömök,1
+kups1238-1-4-1,,kups1238-1,4,aŋwán,aŋwán,[],,['chan2019'],,False,False,anɡʼwan,1
+kups1238-1-5-1,,kups1238-1,5,múːt,múːt,[],,['chan2019'],,False,False,müüt,1
+kups1238-1-6-1,,kups1238-1,6,múːt ɑk akɛ́ːŋkɛ,múːt ɑk akɛ́ːŋkɛ,[],,['chan2019'],,False,False,müüt äk aɡeenɡe,1
+kups1238-1-7-1,,kups1238-1,7,müüt äk äyëëny,müüt äk äyëëny,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kups1238-1-8-1,,kups1238-1,8,müüt äk sömök,müüt äk sömök,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kups1238-1-9-1,,kups1238-1,9,müüt äk anɡʼwan,müüt äk anɡʼwan,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kups1238-1-10-1,,kups1238-1,10,támán,támán,[],,['chan2019'],,False,False,taman,1
+kups1238-1-11-1,,kups1238-1,11,taman äk aɡeenɡe,taman äk aɡeenɡe,[],,['chan2019'],,False,False,,1
+kups1238-1-12-1,,kups1238-1,12,taman äk äyëëny,taman äk äyëëny,[],,['chan2019'],,False,False,,1
+kups1238-1-13-1,,kups1238-1,13,taman äk sömök,taman äk sömök,[],,['chan2019'],,False,False,,1
+kups1238-1-14-1,,kups1238-1,14,taman äk anɡʼwan,taman äk anɡʼwan,[],,['chan2019'],,False,False,,1
+kups1238-1-15-1,,kups1238-1,15,taman äk müüt,taman äk müüt,[],,['chan2019'],,False,False,,1
+kups1238-1-16-1,,kups1238-1,16,taman äk müüt äk aɡeenɡe,taman äk müüt äk aɡeenɡe,[],,['chan2019'],,False,False,,1
+kups1238-1-17-1,,kups1238-1,17,taman äk müüt äk äyëëny,taman äk müüt äk äyëëny,[],,['chan2019'],,False,False,,1
+kups1238-1-18-1,,kups1238-1,18,taman äk müüt äk sömök,taman äk müüt äk sömök,[],,['chan2019'],,False,False,,1
+kups1238-1-19-1,,kups1238-1,19,taman äk müüt äk anɡʼwan,taman äk müüt äk anɡʼwan,[],,['chan2019'],,False,False,,1
+kups1238-1-20-1,,kups1238-1,20,kuwäängʼ chiichak,kuwäängʼ chiichak,[],( 'one person'),['chan2019'],,False,False,,1
+kups1238-1-21-1,,kups1238-1,21,kuwäängʼ chiichak äk aɡeenɡe,kuwäängʼ chiichak äk aɡeenɡe,[],,['chan2019'],,False,False,,1
+kups1238-1-22-1,,kups1238-1,22,kuwäängʼ chiichak äk äyëëny,kuwäängʼ chiichak äk äyëëny,[],,['chan2019'],,False,False,,1
+kups1238-1-23-1,,kups1238-1,23,kuwäängʼ chiichak äk sömök,kuwäängʼ chiichak äk sömök,[],,['chan2019'],,False,False,,1
+kups1238-1-24-1,,kups1238-1,24,kuwäängʼ chiichak äk anɡʼwan,kuwäängʼ chiichak äk anɡʼwan,[],,['chan2019'],,False,False,,1
+kups1238-1-25-1,,kups1238-1,25,kuwäängʼ chiichak äk müüt,kuwäängʼ chiichak äk müüt,[],,['chan2019'],,False,False,,1
+kups1238-1-26-1,,kups1238-1,26,kuwäängʼ chiichak äk müüt äk aɡeenɡe,kuwäängʼ chiichak äk müüt äk aɡeenɡe,[],,['chan2019'],,False,False,,1
+kups1238-1-27-1,,kups1238-1,27,kuwäängʼ chiichak äk müüt äk äyëëny,kuwäängʼ chiichak äk müüt äk äyëëny,[],,['chan2019'],,False,False,,1
+kups1238-1-28-1,,kups1238-1,28,kuwäängʼ chiichak äk müüt äk sömök,kuwäängʼ chiichak äk müüt äk sömök,[],,['chan2019'],,False,False,,1
+kups1238-1-29-1,,kups1238-1,29,kuwäängʼ chiichak äk müüt äk anɡʼwan,kuwäängʼ chiichak äk müüt äk anɡʼwan,[],,['chan2019'],,False,False,,1
+kups1238-1-30-1,,kups1238-1,30,kuwäängʼ chiichak äk taman,kuwäängʼ chiichak äk taman,[],,['chan2019'],,False,False,,1
+kups1238-1-40-1,,kups1238-1,40,kuwäängʼ biikä äyëëny,kuwäängʼ biikä äyëëny,[],( 'two persons'),['chan2019'],,False,False,,1
+kups1238-1-50-1,,kups1238-1,50,kuwäängʼ biikä äyëëny äk taman,kuwäängʼ biikä äyëëny äk taman,[],,['chan2019'],,False,False,,1
+kups1238-1-60-1,,kups1238-1,60,tämänwääɡïk müüt äk aɡeenɡe,tämänwääɡïk müüt äk aɡeenɡe,[],,['chan2019'],,False,False,,1
+kups1238-1-70-1,,kups1238-1,70,tämänwääɡïk müüt äk äyëëny,tämänwääɡïk müüt äk äyëëny,[],,['chan2019'],,False,False,,1
+kups1238-1-80-1,,kups1238-1,80,tämänwääɡïk müüt äk sömök,tämänwääɡïk müüt äk sömök,[],,['chan2019'],,False,False,,1
+kups1238-1-90-1,,kups1238-1,90,tämänwääɡïk müüt äk anɡʼwan,tämänwääɡïk müüt äk anɡʼwan,[],,['chan2019'],,False,False,,1
+kups1238-1-100-1,,kups1238-1,100,bɑɡɑl,bɑɡɑl,[],,['chan2019'],,False,False,bäɡäl,1
+kups1238-1-200-1,,kups1238-1,200,bäɡäl äyëëny,bäɡäl äyëëny,[],,['chan2019'],,False,False,,1

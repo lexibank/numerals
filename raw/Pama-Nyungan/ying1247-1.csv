@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ying1247-1-1-1,,ying1247-1,1,'kud̪ijɐ,'kud̪ijɐ,[],,[],,False,False,,1
-ying1247-1-2-1,,ying1247-1,2,'wud̪ɐrɐ,'wud̪ɐrɐ,[],,[],,False,False,,1
-ying1247-1-3-1,,ying1247-1,3,'mɐɳkuɖu,'mɐɳkuɖu,[],,[],,False,False,,1
-ying1247-1-4-1,,ying1247-1,4,'wud̪ɐdɐ'wud̪ɐdɐ,'wud̪ɐdɐ'wud̪ɐdɐ,[],( 2 + 2  ),[],,False,False,,1
+ying1247-1-1-1,,ying1247-1,1,'kud̪ijɐ,'kud̪ijɐ,[],,['chan2019'],,False,False,,1
+ying1247-1-2-1,,ying1247-1,2,'wud̪ɐrɐ,'wud̪ɐrɐ,[],,['chan2019'],,False,False,,1
+ying1247-1-3-1,,ying1247-1,3,'mɐɳkuɖu,'mɐɳkuɖu,[],,['chan2019'],,False,False,,1
+ying1247-1-4-1,,ying1247-1,4,'wud̪ɐdɐ'wud̪ɐdɐ,'wud̪ɐdɐ'wud̪ɐdɐ,[],( 2 + 2  ),['chan2019'],,False,False,,1

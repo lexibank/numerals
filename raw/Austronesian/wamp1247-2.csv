@@ -1,23 +1,23 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wamp1247-2-1-1,,wamp1247-2,1,oroz,oroz,[],,[],,False,False,,2
-wamp1247-2-1-2,,wamp1247-2,1,orots,orots,[],,[],,False,False,,2
-wamp1247-2-2-1,,wamp1247-2,2,serok,serok,[],,[],,False,False,,2
-wamp1247-2-2-2,,wamp1247-2,2,selok,selok,[],,[],,False,False,,2
-wamp1247-2-3-1,,wamp1247-2,3,serok oroz,serok oroz,[],"( litː ''2 + 1"")",[],,False,False,,2
-wamp1247-2-4-1,,wamp1247-2,4,serok a serok,serok a serok,[],( litː ''2 + 2''),[],,False,False,,2
-wamp1247-2-5-1,,wamp1247-2,5,baŋid oroz,baŋid oroz,[],(litː ''one hand''),[],,False,False,,2
-wamp1247-2-6-1,,wamp1247-2,6,baŋid oroz da oroz,baŋid oroz da oroz,[],,[],,False,False,,2
-wamp1247-2-7-1,,wamp1247-2,7,baŋid oroz da serok,baŋid oroz da serok,[],,[],,False,False,,2
-wamp1247-2-8-1,,wamp1247-2,8,baŋid oroz da serok oroz,baŋid oroz da serok oroz,[],,[],,False,False,,2
-wamp1247-2-9-1,,wamp1247-2,9,baŋid oroz da serok a serok,baŋid oroz da serok a serok,[],,[],,False,False,,2
-wamp1247-2-10-1,,wamp1247-2,10,baŋid serok,baŋid serok,[],"(lit: ""two hands"")",[],,False,False,,2
-wamp1247-2-11-1,,wamp1247-2,11,baŋid serok da oroz,baŋid serok da oroz,[],,[],,False,False,,2
-wamp1247-2-12-1,,wamp1247-2,12,baŋid serok da serok,baŋid serok da serok,[],,[],,False,False,,2
-wamp1247-2-13-1,,wamp1247-2,13,baŋid serok da serok oroz,baŋid serok da serok oroz,[],,[],,False,False,,2
-wamp1247-2-14-1,,wamp1247-2,14,baŋid serok da serok a serok,baŋid serok da serok a serok,[],,[],,False,False,,2
-wamp1247-2-15-1,,wamp1247-2,15,baŋid serok da faud oroz,baŋid serok da faud oroz,[],"(litː ''two hands, one foot'')",[],,False,False,,2
-wamp1247-2-16-1,,wamp1247-2,16,baŋid serok da faud oroz da oroz,baŋid serok da faud oroz da oroz,[],,[],,False,False,,2
-wamp1247-2-17-1,,wamp1247-2,17,baŋid serok da faud oroz da serok,baŋid serok da faud oroz da serok,[],,[],,False,False,,2
-wamp1247-2-18-1,,wamp1247-2,18,baŋid serok da faud oroz serok oroz,baŋid serok da faud oroz serok oroz,[],,[],,False,False,,2
-wamp1247-2-19-1,,wamp1247-2,19,baŋid serok da faud oroz serok a serok,baŋid serok da faud oroz serok a serok,[],,[],,False,False,,2
-wamp1247-2-20-1,,wamp1247-2,20,baŋid serok da faud serok,baŋid serok da faud serok,[],"(litː ''two hands, two feet'')",[],,False,False,,2
+wamp1247-2-1-1,,wamp1247-2,1,oroz,oroz,[],,['chan2019'],,False,False,,2
+wamp1247-2-1-2,,wamp1247-2,1,orots,orots,[],,['chan2019'],,False,False,,2
+wamp1247-2-2-1,,wamp1247-2,2,serok,serok,[],,['chan2019'],,False,False,,2
+wamp1247-2-2-2,,wamp1247-2,2,selok,selok,[],,['chan2019'],,False,False,,2
+wamp1247-2-3-1,,wamp1247-2,3,serok oroz,serok oroz,[],"( litː ''2 + 1"")",['chan2019'],,False,False,,2
+wamp1247-2-4-1,,wamp1247-2,4,serok a serok,serok a serok,[],( litː ''2 + 2''),['chan2019'],,False,False,,2
+wamp1247-2-5-1,,wamp1247-2,5,baŋid oroz,baŋid oroz,[],(litː ''one hand''),['chan2019'],,False,False,,2
+wamp1247-2-6-1,,wamp1247-2,6,baŋid oroz da oroz,baŋid oroz da oroz,[],,['chan2019'],,False,False,,2
+wamp1247-2-7-1,,wamp1247-2,7,baŋid oroz da serok,baŋid oroz da serok,[],,['chan2019'],,False,False,,2
+wamp1247-2-8-1,,wamp1247-2,8,baŋid oroz da serok oroz,baŋid oroz da serok oroz,[],,['chan2019'],,False,False,,2
+wamp1247-2-9-1,,wamp1247-2,9,baŋid oroz da serok a serok,baŋid oroz da serok a serok,[],,['chan2019'],,False,False,,2
+wamp1247-2-10-1,,wamp1247-2,10,baŋid serok,baŋid serok,[],"(lit: ""two hands"")",['chan2019'],,False,False,,2
+wamp1247-2-11-1,,wamp1247-2,11,baŋid serok da oroz,baŋid serok da oroz,[],,['chan2019'],,False,False,,2
+wamp1247-2-12-1,,wamp1247-2,12,baŋid serok da serok,baŋid serok da serok,[],,['chan2019'],,False,False,,2
+wamp1247-2-13-1,,wamp1247-2,13,baŋid serok da serok oroz,baŋid serok da serok oroz,[],,['chan2019'],,False,False,,2
+wamp1247-2-14-1,,wamp1247-2,14,baŋid serok da serok a serok,baŋid serok da serok a serok,[],,['chan2019'],,False,False,,2
+wamp1247-2-15-1,,wamp1247-2,15,baŋid serok da faud oroz,baŋid serok da faud oroz,[],"(litː ''two hands, one foot'')",['chan2019'],,False,False,,2
+wamp1247-2-16-1,,wamp1247-2,16,baŋid serok da faud oroz da oroz,baŋid serok da faud oroz da oroz,[],,['chan2019'],,False,False,,2
+wamp1247-2-17-1,,wamp1247-2,17,baŋid serok da faud oroz da serok,baŋid serok da faud oroz da serok,[],,['chan2019'],,False,False,,2
+wamp1247-2-18-1,,wamp1247-2,18,baŋid serok da faud oroz serok oroz,baŋid serok da faud oroz serok oroz,[],,['chan2019'],,False,False,,2
+wamp1247-2-19-1,,wamp1247-2,19,baŋid serok da faud oroz serok a serok,baŋid serok da faud oroz serok a serok,[],,['chan2019'],,False,False,,2
+wamp1247-2-20-1,,wamp1247-2,20,baŋid serok da faud serok,baŋid serok da faud serok,[],"(litː ''two hands, two feet'')",['chan2019'],,False,False,,2

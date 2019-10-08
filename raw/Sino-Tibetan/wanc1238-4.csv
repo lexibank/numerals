@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wanc1238-4-1-1,,wanc1238-4,1,ača,ača,[],,[],,False,False,,4
-wanc1238-4-2-1,,wanc1238-4,2,añi,añi,[],,[],,False,False,,4
-wanc1238-4-3-1,,wanc1238-4,3,ad̩əm,ad̩əm,[],,[],,False,False,,4
-wanc1238-4-4-1,,wanc1238-4,4,bɪdʒi,bɪdʒi,[],,[],,False,False,,4
-wanc1238-4-4-2,,wanc1238-4,4,ali,ali,[],,[],,False,False,,4
-wanc1238-4-5-1,,wanc1238-4,5,añia,añia,[],,[],,False,False,,4
-wanc1238-4-6-1,,wanc1238-4,6,aɡɔk,aɡɔk,[],,[],,False,False,,4
-wanc1238-4-7-1,,wanc1238-4,7,anat,anat,[],,[],,False,False,,4
-wanc1238-4-8-1,,wanc1238-4,8,asat,asat,[],,[],,False,False,,4
-wanc1238-4-9-1,,wanc1238-4,9,aku,aku,[],,[],,False,False,,4
-wanc1238-4-10-1,,wanc1238-4,10,ban,ban,[],,[],,False,False,,4
-wanc1238-4-11-1,,wanc1238-4,11,ban bača,ban bača,[],,[],,False,False,,4
-wanc1238-4-12-1,,wanc1238-4,12,ban añi,ban añi,[],,[],,False,False,,4
-wanc1238-4-13-1,,wanc1238-4,13,ban ad̩əm,ban ad̩əm,[],,[],,False,False,,4
-wanc1238-4-14-1,,wanc1238-4,14,ban badʒi,ban badʒi,[],,[],,False,False,,4
-wanc1238-4-14-2,,wanc1238-4,14,ban ali,ban ali,[],,[],,False,False,,4
-wanc1238-4-15-1,,wanc1238-4,15,ban añia,ban añia,[],,[],,False,False,,4
-wanc1238-4-16-1,,wanc1238-4,16,ban aɡɔk,ban aɡɔk,[],,[],,False,False,,4
-wanc1238-4-17-1,,wanc1238-4,17,ban anat,ban anat,[],,[],,False,False,,4
-wanc1238-4-18-1,,wanc1238-4,18,ban asat,ban asat,[],,[],,False,False,,4
-wanc1238-4-19-1,,wanc1238-4,19,ban aku,ban aku,[],,[],,False,False,,4
-wanc1238-4-20-1,,wanc1238-4,20,ta,ta,[],,[],,False,False,,4
-wanc1238-4-21-1,,wanc1238-4,21,ta bača,ta bača,[],,[],,False,False,,4
-wanc1238-4-22-1,,wanc1238-4,22,ta adəm,ta adəm,[],,[],,False,False,,4
-wanc1238-4-24-1,,wanc1238-4,24,ta bɪdʒi,ta bɪdʒi,[],,[],,False,False,,4
-wanc1238-4-24-2,,wanc1238-4,24,ban ali,ban ali,[],,[],,False,False,,4
-wanc1238-4-25-1,,wanc1238-4,25,ta añia,ta añia,[],,[],,False,False,,4
-wanc1238-4-26-1,,wanc1238-4,26,ta aɡɔk,ta aɡɔk,[],,[],,False,False,,4
-wanc1238-4-27-1,,wanc1238-4,27,ta anat,ta anat,[],,[],,False,False,,4
-wanc1238-4-28-1,,wanc1238-4,28,ta asat,ta asat,[],,[],,False,False,,4
-wanc1238-4-29-1,,wanc1238-4,29,ta aku,ta aku,[],,[],,False,False,,4
-wanc1238-4-30-1,,wanc1238-4,30,ta ban,ta ban,[],( 20 + 10),[],,False,False,,4
-wanc1238-4-40-1,,wanc1238-4,40,puñi,puñi,[],( 20 x 2 ),[],,False,False,,4
-wanc1238-4-50-1,,wanc1238-4,50,puñi ban,puñi ban,[],,[],,False,False,,4
-wanc1238-4-60-1,,wanc1238-4,60,purəm,purəm,[],( 20 x 3 ),[],,False,False,,4
-wanc1238-4-70-1,,wanc1238-4,70,pur̩əm ban,pur̩əm ban,[],,[],,False,False,,4
-wanc1238-4-80-1,,wanc1238-4,80,pubidʒi,pubidʒi,[],( 20 x 4 ),[],,False,False,,4
-wanc1238-4-90-1,,wanc1238-4,90,pubədʒi ban,pubədʒi ban,[],,[],,False,False,,4
-wanc1238-4-100-1,,wanc1238-4,100,ho ča,ho ča,[],,[],,False,False,,4
-wanc1238-4-200-1,,wanc1238-4,200,ho añi,ho añi,[],,[],,False,False,,4
-wanc1238-4-1000-1,,wanc1238-4,1000,dʒat ča,dʒat ča,[],,[],,False,False,,4
-wanc1238-4-2000-1,,wanc1238-4,2000,dʒat añi,dʒat añi,[],,[],,False,False,,4
+wanc1238-4-1-1,,wanc1238-4,1,ača,ača,[],,['chan2019'],,False,False,,4
+wanc1238-4-2-1,,wanc1238-4,2,añi,añi,[],,['chan2019'],,False,False,,4
+wanc1238-4-3-1,,wanc1238-4,3,ad̩əm,ad̩əm,[],,['chan2019'],,False,False,,4
+wanc1238-4-4-1,,wanc1238-4,4,bɪdʒi,bɪdʒi,[],,['chan2019'],,False,False,,4
+wanc1238-4-4-2,,wanc1238-4,4,ali,ali,[],,['chan2019'],,False,False,,4
+wanc1238-4-5-1,,wanc1238-4,5,añia,añia,[],,['chan2019'],,False,False,,4
+wanc1238-4-6-1,,wanc1238-4,6,aɡɔk,aɡɔk,[],,['chan2019'],,False,False,,4
+wanc1238-4-7-1,,wanc1238-4,7,anat,anat,[],,['chan2019'],,False,False,,4
+wanc1238-4-8-1,,wanc1238-4,8,asat,asat,[],,['chan2019'],,False,False,,4
+wanc1238-4-9-1,,wanc1238-4,9,aku,aku,[],,['chan2019'],,False,False,,4
+wanc1238-4-10-1,,wanc1238-4,10,ban,ban,[],,['chan2019'],,False,False,,4
+wanc1238-4-11-1,,wanc1238-4,11,ban bača,ban bača,[],,['chan2019'],,False,False,,4
+wanc1238-4-12-1,,wanc1238-4,12,ban añi,ban añi,[],,['chan2019'],,False,False,,4
+wanc1238-4-13-1,,wanc1238-4,13,ban ad̩əm,ban ad̩əm,[],,['chan2019'],,False,False,,4
+wanc1238-4-14-1,,wanc1238-4,14,ban badʒi,ban badʒi,[],,['chan2019'],,False,False,,4
+wanc1238-4-14-2,,wanc1238-4,14,ban ali,ban ali,[],,['chan2019'],,False,False,,4
+wanc1238-4-15-1,,wanc1238-4,15,ban añia,ban añia,[],,['chan2019'],,False,False,,4
+wanc1238-4-16-1,,wanc1238-4,16,ban aɡɔk,ban aɡɔk,[],,['chan2019'],,False,False,,4
+wanc1238-4-17-1,,wanc1238-4,17,ban anat,ban anat,[],,['chan2019'],,False,False,,4
+wanc1238-4-18-1,,wanc1238-4,18,ban asat,ban asat,[],,['chan2019'],,False,False,,4
+wanc1238-4-19-1,,wanc1238-4,19,ban aku,ban aku,[],,['chan2019'],,False,False,,4
+wanc1238-4-20-1,,wanc1238-4,20,ta,ta,[],,['chan2019'],,False,False,,4
+wanc1238-4-21-1,,wanc1238-4,21,ta bača,ta bača,[],,['chan2019'],,False,False,,4
+wanc1238-4-22-1,,wanc1238-4,22,ta adəm,ta adəm,[],,['chan2019'],,False,False,,4
+wanc1238-4-24-1,,wanc1238-4,24,ta bɪdʒi,ta bɪdʒi,[],,['chan2019'],,False,False,,4
+wanc1238-4-24-2,,wanc1238-4,24,ban ali,ban ali,[],,['chan2019'],,False,False,,4
+wanc1238-4-25-1,,wanc1238-4,25,ta añia,ta añia,[],,['chan2019'],,False,False,,4
+wanc1238-4-26-1,,wanc1238-4,26,ta aɡɔk,ta aɡɔk,[],,['chan2019'],,False,False,,4
+wanc1238-4-27-1,,wanc1238-4,27,ta anat,ta anat,[],,['chan2019'],,False,False,,4
+wanc1238-4-28-1,,wanc1238-4,28,ta asat,ta asat,[],,['chan2019'],,False,False,,4
+wanc1238-4-29-1,,wanc1238-4,29,ta aku,ta aku,[],,['chan2019'],,False,False,,4
+wanc1238-4-30-1,,wanc1238-4,30,ta ban,ta ban,[],( 20 + 10),['chan2019'],,False,False,,4
+wanc1238-4-40-1,,wanc1238-4,40,puñi,puñi,[],( 20 x 2 ),['chan2019'],,False,False,,4
+wanc1238-4-50-1,,wanc1238-4,50,puñi ban,puñi ban,[],,['chan2019'],,False,False,,4
+wanc1238-4-60-1,,wanc1238-4,60,purəm,purəm,[],( 20 x 3 ),['chan2019'],,False,False,,4
+wanc1238-4-70-1,,wanc1238-4,70,pur̩əm ban,pur̩əm ban,[],,['chan2019'],,False,False,,4
+wanc1238-4-80-1,,wanc1238-4,80,pubidʒi,pubidʒi,[],( 20 x 4 ),['chan2019'],,False,False,,4
+wanc1238-4-90-1,,wanc1238-4,90,pubədʒi ban,pubədʒi ban,[],,['chan2019'],,False,False,,4
+wanc1238-4-100-1,,wanc1238-4,100,ho ča,ho ča,[],,['chan2019'],,False,False,,4
+wanc1238-4-200-1,,wanc1238-4,200,ho añi,ho añi,[],,['chan2019'],,False,False,,4
+wanc1238-4-1000-1,,wanc1238-4,1000,dʒat ča,dʒat ča,[],,['chan2019'],,False,False,,4
+wanc1238-4-2000-1,,wanc1238-4,2000,dʒat añi,dʒat añi,[],,['chan2019'],,False,False,,4

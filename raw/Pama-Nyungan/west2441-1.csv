@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2441-1-1-1,,west2441-1,1,ɲinta,ɲinta,[],,[],,False,False,,1
-west2441-1-2-1,,west2441-1,2,tařa,tařa,[],,[],,False,False,,1
-west2441-1-3-1,,west2441-1,3,tařamiɲinta,tařamiɲinta,[],,[],,False,False,,1
-west2441-1-4-1,,west2441-1,4,tařamatařa,tařamatařa,[],( 2 + 2 ),[],,False,False,,1
+west2441-1-1-1,,west2441-1,1,ɲinta,ɲinta,[],,['chan2019'],,False,False,,1
+west2441-1-2-1,,west2441-1,2,tařa,tařa,[],,['chan2019'],,False,False,,1
+west2441-1-3-1,,west2441-1,3,tařamiɲinta,tařamiɲinta,[],,['chan2019'],,False,False,,1
+west2441-1-4-1,,west2441-1,4,tařamatařa,tařamatařa,[],( 2 + 2 ),['chan2019'],,False,False,,1

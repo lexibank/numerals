@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-fore1265-1-1-1,,fore1265-1,1,ŋolʲu,ŋolʲu,[],,[],,False,False,,1
-fore1265-1-1-2,,fore1265-1,1,ŋo,ŋo,[],,[],,False,False,,1
-fore1265-1-2-1,,fore1265-1,2,ʃiði,ʃiði,[],,[],,False,False,,1
-fore1265-1-3-1,,fore1265-1,3,nɛxuʔ,nɛxuʔ,[],,[],,False,False,,1
-fore1265-1-4-1,,fore1265-1,4,tɛt,tɛt,[],,[],,False,False,,1
-fore1265-1-5-1,,fore1265-1,5,sob(i)riɡ,sob(i)riɡ,[],,[],,False,False,,1
-fore1265-1-6-1,,fore1265-1,6,motu(ʔ),motu(ʔ),[],,[],,False,False,,1
-fore1265-1-7-1,,fore1265-1,7,sɛu,sɛu,[],,[],,False,False,,1
-fore1265-1-7-2,,fore1265-1,7,sɛʔu,sɛʔu,[],,[],,False,False,,1
-fore1265-1-8-1,,fore1265-1,8,ʃiðiʔɛt,ʃiðiʔɛt,[],( etym 4 x 2 ),[],,False,False,,1
-fore1265-1-9-1,,fore1265-1,9,nɛda,nɛda,[],,[],,False,False,,1
-fore1265-1-10-1,,fore1265-1,10,biʔ,biʔ,[],,[],,False,False,,1
-fore1265-1-11-1,,fore1265-1,11,bikuð ŋolʲu boðad,bikuð ŋolʲu boðad,[],,[],,False,False,,1
-fore1265-1-12-1,,fore1265-1,12,bikuð ʃiði boðad,bikuð ʃiði boðad,[],,[],,False,False,,1
-fore1265-1-13-1,,fore1265-1,13,bikuð nɛxuʔ boðad,bikuð nɛxuʔ boðad,[],,[],,False,False,,1
-fore1265-1-14-1,,fore1265-1,14,bikuð tɛt boðad,bikuð tɛt boðad,[],,[],,False,False,,1
-fore1265-1-15-1,,fore1265-1,15,bikuð sob(i)riɡ boðad,bikuð sob(i)riɡ boðad,[],,[],,False,False,,1
-fore1265-1-16-1,,fore1265-1,16,bikuð motu(ʔ) boðad,bikuð motu(ʔ) boðad,[],,[],,False,False,,1
-fore1265-1-17-1,,fore1265-1,17,bikuð sɛu boðad,bikuð sɛu boðad,[],,[],,False,False,,1
-fore1265-1-18-1,,fore1265-1,18,bikuð ʃiðiʔɛt boðad,bikuð ʃiðiʔɛt boðad,[],,[],,False,False,,1
-fore1265-1-19-1,,fore1265-1,19,bikuð nɛda boðad,bikuð nɛda boðad,[],,[],,False,False,,1
-fore1265-1-20-1,,fore1265-1,20,ʃiðuː,ʃiðuː,[],,[],,False,False,,1
-fore1265-1-21-1,,fore1265-1,21,ʃiðuː ŋolʲu,ʃiðuː ŋolʲu,[],,[],,False,False,,1
-fore1265-1-22-1,,fore1265-1,22,ʃiðuːʃiði,ʃiðuːʃiði,[],,[],,False,False,,1
-fore1265-1-23-1,,fore1265-1,23,ʃiðuː nɛxuʔ,ʃiðuː nɛxuʔ,[],,[],,False,False,,1
-fore1265-1-24-1,,fore1265-1,24,ʃiðuː tɛt,ʃiðuː tɛt,[],,[],,False,False,,1
-fore1265-1-25-1,,fore1265-1,25,ʃiðuː sob(i)riɡ,ʃiðuː sob(i)riɡ,[],,[],,False,False,,1
-fore1265-1-26-1,,fore1265-1,26,ʃiðuː motuʔ,ʃiðuː motuʔ,[],,[],,False,False,,1
-fore1265-1-27-1,,fore1265-1,27,ʃiðuː sɛu,ʃiðuː sɛu,[],,[],,False,False,,1
-fore1265-1-28-1,,fore1265-1,28,ʃiðuːʃiðiʔɛt,ʃiðuːʃiðiʔɛt,[],,[],,False,False,,1
-fore1265-1-29-1,,fore1265-1,29,ʃiðuː nɛda,ʃiðuː nɛda,[],,[],,False,False,,1
-fore1265-1-30-1,,fore1265-1,30,nɛxubiʔ,nɛxubiʔ,[],,[],,False,False,,1
-fore1265-1-40-1,,fore1265-1,40,tɛtbiʔ,tɛtbiʔ,[],,[],,False,False,,1
-fore1265-1-50-1,,fore1265-1,50,sobriɡbiʔ,sobriɡbiʔ,[],,[],,False,False,,1
-fore1265-1-60-1,,fore1265-1,60,motabi̯ʔ,motabi̯ʔ,[],,[],,False,False,,1
-fore1265-1-70-1,,fore1265-1,70,sɛubi̯ʔ,sɛubi̯ʔ,[],,[],,False,False,,1
-fore1265-1-80-1,,fore1265-1,80,ʃiðɛtbi̯ʔ,ʃiðɛtbi̯ʔ,[],,[],,False,False,,1
-fore1265-1-90-1,,fore1265-1,90,nɛðabiʔ,nɛðabiʔ,[],,[],,False,False,,1
-fore1265-1-100-1,,fore1265-1,100,dʲuʔ,dʲuʔ,[],,[],,False,False,,1
-fore1265-1-100-2,,fore1265-1,100,ŋolʲu dʲuʔ,ŋolʲu dʲuʔ,[],,[],,False,False,,1
-fore1265-1-200-1,,fore1265-1,200,ʃiði dʲuʔ,ʃiði dʲuʔ,[],,[],,False,False,,1
-fore1265-1-1000-1,,fore1265-1,1000,jonar juʔ,jonar juʔ,[],,[],,False,False,,1
-fore1265-1-1000-2,,fore1265-1,1000,tɨsʲtʃɘ,tɨsʲtʃɘ,[],( From Russian),[],,False,False,,1
-fore1265-1-2000-1,,fore1265-1,2000,ʃiði juʔ,ʃiði juʔ,[],,[],,False,False,,1
+fore1265-1-1-1,,fore1265-1,1,ŋolʲu,ŋolʲu,[],,['chan2019'],,False,False,,1
+fore1265-1-1-2,,fore1265-1,1,ŋo,ŋo,[],,['chan2019'],,False,False,,1
+fore1265-1-2-1,,fore1265-1,2,ʃiði,ʃiði,[],,['chan2019'],,False,False,,1
+fore1265-1-3-1,,fore1265-1,3,nɛxuʔ,nɛxuʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-4-1,,fore1265-1,4,tɛt,tɛt,[],,['chan2019'],,False,False,,1
+fore1265-1-5-1,,fore1265-1,5,sob(i)riɡ,sob(i)riɡ,[],,['chan2019'],,False,False,,1
+fore1265-1-6-1,,fore1265-1,6,motu(ʔ),motu(ʔ),[],,['chan2019'],,False,False,,1
+fore1265-1-7-1,,fore1265-1,7,sɛu,sɛu,[],,['chan2019'],,False,False,,1
+fore1265-1-7-2,,fore1265-1,7,sɛʔu,sɛʔu,[],,['chan2019'],,False,False,,1
+fore1265-1-8-1,,fore1265-1,8,ʃiðiʔɛt,ʃiðiʔɛt,[],( etym 4 x 2 ),['chan2019'],,False,False,,1
+fore1265-1-9-1,,fore1265-1,9,nɛda,nɛda,[],,['chan2019'],,False,False,,1
+fore1265-1-10-1,,fore1265-1,10,biʔ,biʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-11-1,,fore1265-1,11,bikuð ŋolʲu boðad,bikuð ŋolʲu boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-12-1,,fore1265-1,12,bikuð ʃiði boðad,bikuð ʃiði boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-13-1,,fore1265-1,13,bikuð nɛxuʔ boðad,bikuð nɛxuʔ boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-14-1,,fore1265-1,14,bikuð tɛt boðad,bikuð tɛt boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-15-1,,fore1265-1,15,bikuð sob(i)riɡ boðad,bikuð sob(i)riɡ boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-16-1,,fore1265-1,16,bikuð motu(ʔ) boðad,bikuð motu(ʔ) boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-17-1,,fore1265-1,17,bikuð sɛu boðad,bikuð sɛu boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-18-1,,fore1265-1,18,bikuð ʃiðiʔɛt boðad,bikuð ʃiðiʔɛt boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-19-1,,fore1265-1,19,bikuð nɛda boðad,bikuð nɛda boðad,[],,['chan2019'],,False,False,,1
+fore1265-1-20-1,,fore1265-1,20,ʃiðuː,ʃiðuː,[],,['chan2019'],,False,False,,1
+fore1265-1-21-1,,fore1265-1,21,ʃiðuː ŋolʲu,ʃiðuː ŋolʲu,[],,['chan2019'],,False,False,,1
+fore1265-1-22-1,,fore1265-1,22,ʃiðuːʃiði,ʃiðuːʃiði,[],,['chan2019'],,False,False,,1
+fore1265-1-23-1,,fore1265-1,23,ʃiðuː nɛxuʔ,ʃiðuː nɛxuʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-24-1,,fore1265-1,24,ʃiðuː tɛt,ʃiðuː tɛt,[],,['chan2019'],,False,False,,1
+fore1265-1-25-1,,fore1265-1,25,ʃiðuː sob(i)riɡ,ʃiðuː sob(i)riɡ,[],,['chan2019'],,False,False,,1
+fore1265-1-26-1,,fore1265-1,26,ʃiðuː motuʔ,ʃiðuː motuʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-27-1,,fore1265-1,27,ʃiðuː sɛu,ʃiðuː sɛu,[],,['chan2019'],,False,False,,1
+fore1265-1-28-1,,fore1265-1,28,ʃiðuːʃiðiʔɛt,ʃiðuːʃiðiʔɛt,[],,['chan2019'],,False,False,,1
+fore1265-1-29-1,,fore1265-1,29,ʃiðuː nɛda,ʃiðuː nɛda,[],,['chan2019'],,False,False,,1
+fore1265-1-30-1,,fore1265-1,30,nɛxubiʔ,nɛxubiʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-40-1,,fore1265-1,40,tɛtbiʔ,tɛtbiʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-50-1,,fore1265-1,50,sobriɡbiʔ,sobriɡbiʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-60-1,,fore1265-1,60,motabi̯ʔ,motabi̯ʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-70-1,,fore1265-1,70,sɛubi̯ʔ,sɛubi̯ʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-80-1,,fore1265-1,80,ʃiðɛtbi̯ʔ,ʃiðɛtbi̯ʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-90-1,,fore1265-1,90,nɛðabiʔ,nɛðabiʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-100-1,,fore1265-1,100,dʲuʔ,dʲuʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-100-2,,fore1265-1,100,ŋolʲu dʲuʔ,ŋolʲu dʲuʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-200-1,,fore1265-1,200,ʃiði dʲuʔ,ʃiði dʲuʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-1000-1,,fore1265-1,1000,jonar juʔ,jonar juʔ,[],,['chan2019'],,False,False,,1
+fore1265-1-1000-2,,fore1265-1,1000,tɨsʲtʃɘ,tɨsʲtʃɘ,[],( From Russian),['chan2019'],,False,False,,1
+fore1265-1-2000-1,,fore1265-1,2000,ʃiði juʔ,ʃiði juʔ,[],,['chan2019'],,False,False,,1

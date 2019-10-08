@@ -1,47 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chit1279-2-1-1,,chit1279-2,1,i,i,[],,[],,False,False,,2
-chit1279-2-2-1,,chit1279-2,2,niʃi,niʃi,[],,[],,False,False,,2
-chit1279-2-3-1,,chit1279-2,3,homo,homo,[],,[],,False,False,,2
-chit1279-2-4-1,,chit1279-2,4,pəː,pəː,[],,[],,False,False,,2
-chit1279-2-5-1,,chit1279-2,5,ŋa,ŋa,[],,[],,False,False,,2
-chit1279-2-6-1,,chit1279-2,6,ʈu,ʈu,[],,[],,False,False,,2
-chit1279-2-7-1,,chit1279-2,7,tiʃ,tiʃ,[],,[],,False,False,,2
-chit1279-2-8-1,,chit1279-2,8,rɛ,rɛ,[],,[],,False,False,,2
-chit1279-2-9-1,,chit1279-2,9,ɡui,ɡui,[],,[],,False,False,,2
-chit1279-2-10-1,,chit1279-2,10,sɛ,sɛ,[],,[],,False,False,,2
-chit1279-2-11-1,,chit1279-2,11,səhit,səhit,[],,[],,False,False,,2
-chit1279-2-11-2,,chit1279-2,11,səɡit,səɡit,[],,[],,False,False,,2
-chit1279-2-12-1,,chit1279-2,12,soniʃ,soniʃ,[],,[],,False,False,,2
-chit1279-2-13-1,,chit1279-2,13,sorum,sorum,[],,[],,False,False,,2
-chit1279-2-14-1,,chit1279-2,14,səpəː,səpəː,[],,[],,False,False,,2
-chit1279-2-15-1,,chit1279-2,15,soŋa,soŋa,[],,[],,False,False,,2
-chit1279-2-16-1,,chit1279-2,16,soruk,soruk,[],,[],,False,False,,2
-chit1279-2-17-1,,chit1279-2,17,sostiʃ,sostiʃ,[],,[],,False,False,,2
-chit1279-2-18-1,,chit1279-2,18,sora,sora,[],,[],,False,False,,2
-chit1279-2-19-1,,chit1279-2,19,cozɡui,cozɡui,[],,[],,False,False,,2
-chit1279-2-20-1,,chit1279-2,20,niza,niza,[],,[],,False,False,,2
-chit1279-2-21-1,,chit1279-2,21,niso hid,niso hid,[],,[],,False,False,,2
-chit1279-2-21-2,,chit1279-2,21,niza-o-id,niza-o-id,[],,[],,False,False,,2
-chit1279-2-22-1,,chit1279-2,22,niso nis,niso nis,[],,[],,False,False,,2
-chit1279-2-23-1,,chit1279-2,23,niso sum,niso sum,[],,[],,False,False,,2
-chit1279-2-23-2,,chit1279-2,23,niso homo,niso homo,[],,[],,False,False,,2
-chit1279-2-24-1,,chit1279-2,24,niso pəː,niso pəː,[],,[],,False,False,,2
-chit1279-2-25-1,,chit1279-2,25,niso ŋa,niso ŋa,[],,[],,False,False,,2
-chit1279-2-25-2,,chit1279-2,25,nisa-o-ŋa,nisa-o-ŋa,[],,[],,False,False,,2
-chit1279-2-26-1,,chit1279-2,26,niza-o-ʈuk,niza-o-ʈuk,[],,[],,False,False,,2
-chit1279-2-27-1,,chit1279-2,27,nizo stiʃ,nizo stiʃ,[],,[],,False,False,,2
-chit1279-2-28-1,,chit1279-2,28,nizo rɛ,nizo rɛ,[],,[],,False,False,,2
-chit1279-2-28-2,,chit1279-2,28,niza-o-rɛ,niza-o-rɛ,[],,[],,False,False,,2
-chit1279-2-29-1,,chit1279-2,29,nizo sɡui,nizo sɡui,[],,[],,False,False,,2
-chit1279-2-29-2,,chit1279-2,29,niza-o-sɡui,niza-o-sɡui,[],,[],,False,False,,2
-chit1279-2-30-1,,chit1279-2,30,nizo-o-sa,nizo-o-sa,[],,[],,False,False,,2
-chit1279-2-40-1,,chit1279-2,40,niʃ-niza,niʃ-niza,[],( 2 x 20 ),[],,False,False,,2
-chit1279-2-50-1,,chit1279-2,50,niʃ-niza-o-sa,niʃ-niza-o-sa,[],,[],,False,False,,2
-chit1279-2-60-1,,chit1279-2,60,sum-niza,sum-niza,[],( 3 x 20 ),[],,False,False,,2
-chit1279-2-70-1,,chit1279-2,70,sum-niza-o-sa,sum-niza-o-sa,[],,[],,False,False,,2
-chit1279-2-80-1,,chit1279-2,80,pəː niza,pəː niza,[],( 4 x 20 ),[],,False,False,,2
-chit1279-2-90-1,,chit1279-2,90,pə-niza-sɛ,pə-niza-sɛ,[],,[],,False,False,,2
-chit1279-2-100-1,,chit1279-2,100,ra,ra,[],,[],,False,False,,2
-chit1279-2-200-1,,chit1279-2,200,niʃ ra,niʃ ra,[],,[],,False,False,,2
-chit1279-2-1000-1,,chit1279-2,1000,həzar,həzar,[],< from Indo-Aryan ,[],,True,False,,2
-chit1279-2-2000-1,,chit1279-2,2000,niʃ həzar,niʃ həzar,[],,[],,False,False,,2
+chit1279-2-1-1,,chit1279-2,1,i,i,[],,['chan2019'],,False,False,,2
+chit1279-2-2-1,,chit1279-2,2,niʃi,niʃi,[],,['chan2019'],,False,False,,2
+chit1279-2-3-1,,chit1279-2,3,homo,homo,[],,['chan2019'],,False,False,,2
+chit1279-2-4-1,,chit1279-2,4,pəː,pəː,[],,['chan2019'],,False,False,,2
+chit1279-2-5-1,,chit1279-2,5,ŋa,ŋa,[],,['chan2019'],,False,False,,2
+chit1279-2-6-1,,chit1279-2,6,ʈu,ʈu,[],,['chan2019'],,False,False,,2
+chit1279-2-7-1,,chit1279-2,7,tiʃ,tiʃ,[],,['chan2019'],,False,False,,2
+chit1279-2-8-1,,chit1279-2,8,rɛ,rɛ,[],,['chan2019'],,False,False,,2
+chit1279-2-9-1,,chit1279-2,9,ɡui,ɡui,[],,['chan2019'],,False,False,,2
+chit1279-2-10-1,,chit1279-2,10,sɛ,sɛ,[],,['chan2019'],,False,False,,2
+chit1279-2-11-1,,chit1279-2,11,səhit,səhit,[],,['chan2019'],,False,False,,2
+chit1279-2-11-2,,chit1279-2,11,səɡit,səɡit,[],,['chan2019'],,False,False,,2
+chit1279-2-12-1,,chit1279-2,12,soniʃ,soniʃ,[],,['chan2019'],,False,False,,2
+chit1279-2-13-1,,chit1279-2,13,sorum,sorum,[],,['chan2019'],,False,False,,2
+chit1279-2-14-1,,chit1279-2,14,səpəː,səpəː,[],,['chan2019'],,False,False,,2
+chit1279-2-15-1,,chit1279-2,15,soŋa,soŋa,[],,['chan2019'],,False,False,,2
+chit1279-2-16-1,,chit1279-2,16,soruk,soruk,[],,['chan2019'],,False,False,,2
+chit1279-2-17-1,,chit1279-2,17,sostiʃ,sostiʃ,[],,['chan2019'],,False,False,,2
+chit1279-2-18-1,,chit1279-2,18,sora,sora,[],,['chan2019'],,False,False,,2
+chit1279-2-19-1,,chit1279-2,19,cozɡui,cozɡui,[],,['chan2019'],,False,False,,2
+chit1279-2-20-1,,chit1279-2,20,niza,niza,[],,['chan2019'],,False,False,,2
+chit1279-2-21-1,,chit1279-2,21,niso hid,niso hid,[],,['chan2019'],,False,False,,2
+chit1279-2-21-2,,chit1279-2,21,niza-o-id,niza-o-id,[],,['chan2019'],,False,False,,2
+chit1279-2-22-1,,chit1279-2,22,niso nis,niso nis,[],,['chan2019'],,False,False,,2
+chit1279-2-23-1,,chit1279-2,23,niso sum,niso sum,[],,['chan2019'],,False,False,,2
+chit1279-2-23-2,,chit1279-2,23,niso homo,niso homo,[],,['chan2019'],,False,False,,2
+chit1279-2-24-1,,chit1279-2,24,niso pəː,niso pəː,[],,['chan2019'],,False,False,,2
+chit1279-2-25-1,,chit1279-2,25,niso ŋa,niso ŋa,[],,['chan2019'],,False,False,,2
+chit1279-2-25-2,,chit1279-2,25,nisa-o-ŋa,nisa-o-ŋa,[],,['chan2019'],,False,False,,2
+chit1279-2-26-1,,chit1279-2,26,niza-o-ʈuk,niza-o-ʈuk,[],,['chan2019'],,False,False,,2
+chit1279-2-27-1,,chit1279-2,27,nizo stiʃ,nizo stiʃ,[],,['chan2019'],,False,False,,2
+chit1279-2-28-1,,chit1279-2,28,nizo rɛ,nizo rɛ,[],,['chan2019'],,False,False,,2
+chit1279-2-28-2,,chit1279-2,28,niza-o-rɛ,niza-o-rɛ,[],,['chan2019'],,False,False,,2
+chit1279-2-29-1,,chit1279-2,29,nizo sɡui,nizo sɡui,[],,['chan2019'],,False,False,,2
+chit1279-2-29-2,,chit1279-2,29,niza-o-sɡui,niza-o-sɡui,[],,['chan2019'],,False,False,,2
+chit1279-2-30-1,,chit1279-2,30,nizo-o-sa,nizo-o-sa,[],,['chan2019'],,False,False,,2
+chit1279-2-40-1,,chit1279-2,40,niʃ-niza,niʃ-niza,[],( 2 x 20 ),['chan2019'],,False,False,,2
+chit1279-2-50-1,,chit1279-2,50,niʃ-niza-o-sa,niʃ-niza-o-sa,[],,['chan2019'],,False,False,,2
+chit1279-2-60-1,,chit1279-2,60,sum-niza,sum-niza,[],( 3 x 20 ),['chan2019'],,False,False,,2
+chit1279-2-70-1,,chit1279-2,70,sum-niza-o-sa,sum-niza-o-sa,[],,['chan2019'],,False,False,,2
+chit1279-2-80-1,,chit1279-2,80,pəː niza,pəː niza,[],( 4 x 20 ),['chan2019'],,False,False,,2
+chit1279-2-90-1,,chit1279-2,90,pə-niza-sɛ,pə-niza-sɛ,[],,['chan2019'],,False,False,,2
+chit1279-2-100-1,,chit1279-2,100,ra,ra,[],,['chan2019'],,False,False,,2
+chit1279-2-200-1,,chit1279-2,200,niʃ ra,niʃ ra,[],,['chan2019'],,False,False,,2
+chit1279-2-1000-1,,chit1279-2,1000,həzar,həzar,[],< from Indo-Aryan ,['chan2019'],,True,False,,2
+chit1279-2-2000-1,,chit1279-2,2000,niʃ həzar,niʃ həzar,[],,['chan2019'],,False,False,,2

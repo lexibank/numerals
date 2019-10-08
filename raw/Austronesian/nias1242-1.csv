@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nias1242-1-1-1,,nias1242-1,1,sara,sara,[],,[],,False,False,sara,1
-nias1242-1-2-1,,nias1242-1,2,dua,dua,[],,[],,False,False,dua,1
-nias1242-1-3-1,,nias1242-1,3,tɤlu,tɤlu,[],,[],,False,False,tölu,1
-nias1242-1-4-1,,nias1242-1,4,ɤfa,ɤfa,[],,[],,False,False,öfa,1
-nias1242-1-5-1,,nias1242-1,5,lima,lima,[],,[],,False,False,lima,1
-nias1242-1-6-1,,nias1242-1,6,ɤnɤ,ɤnɤ,[],,[],,False,False,önö,1
-nias1242-1-7-1,,nias1242-1,7,fitu,fitu,[],,[],,False,False,fitu,1
-nias1242-1-8-1,,nias1242-1,8,walu,walu,[],,[],,False,False,walu,1
-nias1242-1-9-1,,nias1242-1,9,siwa,siwa,[],,[],,False,False,siwa,1
-nias1242-1-10-1,,nias1242-1,10,fulu,fulu,[],,[],,False,False,fulu,1
-nias1242-1-11-1,,nias1242-1,11,felezara,felezara,[],,[],,False,False,felejara,1
-nias1242-1-12-1,,nias1242-1,12,feleɖua,feleɖua,[],,[],,False,False,felendrua,1
-nias1242-1-13-1,,nias1242-1,13,feledɤlu,feledɤlu,[],,[],,False,False,feledölu,1
-nias1242-1-14-1,,nias1242-1,14,feleɤfa,feleɤfa,[],,[],,False,False,feleöfa,1
-nias1242-1-15-1,,nias1242-1,15,felelima,felelima,[],,[],,False,False,felelima,1
-nias1242-1-16-1,,nias1242-1,16,feleɤnɤ,feleɤnɤ,[],,[],,False,False,feleönö,1
-nias1242-1-17-1,,nias1242-1,17,feleβitu,feleβitu,[],,[],,False,False,felewitu,1
-nias1242-1-18-1,,nias1242-1,18,felewalu,felewalu,[],,[],,False,False,felewalu,1
-nias1242-1-19-1,,nias1242-1,19,feleziwa,feleziwa,[],,[],,False,False,felejiwa,1
-nias1242-1-20-1,,nias1242-1,20,duaβulu,duaβulu,[],,[],,False,False,duawulu,1
-nias1242-1-21-1,,nias1242-1,21,duawulu a sara,duawulu a sara,[],,[],,False,False,,1
-nias1242-1-22-1,,nias1242-1,22,duawulu a dʊa,duawulu a dʊa,[],,[],,False,False,,1
-nias1242-1-23-1,,nias1242-1,23,duawulu a tölu,duawulu a tölu,[],,[],,False,False,,1
-nias1242-1-24-1,,nias1242-1,24,duawulu a öfa,duawulu a öfa,[],,[],,False,False,,1
-nias1242-1-25-1,,nias1242-1,25,duawulu a lima,duawulu a lima,[],,[],,False,False,,1
-nias1242-1-26-1,,nias1242-1,26,duawulu a öno,duawulu a öno,[],,[],,False,False,,1
-nias1242-1-27-1,,nias1242-1,27,duawulu a fitu,duawulu a fitu,[],,[],,False,False,,1
-nias1242-1-28-1,,nias1242-1,28,duawulu a walu,duawulu a walu,[],,[],,False,False,,1
-nias1242-1-29-1,,nias1242-1,29,duawulu a siwa,duawulu a siwa,[],,[],,False,False,,1
-nias1242-1-30-1,,nias1242-1,30,tölu wulu,tölu wulu,[],,[],,False,False,,1
-nias1242-1-40-1,,nias1242-1,40,öfa wulu,öfa wulu,[],,[],,False,False,,1
-nias1242-1-50-1,,nias1242-1,50,lima wulu,lima wulu,[],,[],,False,False,,1
-nias1242-1-60-1,,nias1242-1,60,ŋafulu,ŋafulu,[],,[],,False,False,önö nɡafulu,1
-nias1242-1-70-1,,nias1242-1,70,fitu nɡafulu,fitu nɡafulu,[],,[],,False,False,,1
-nias1242-1-80-1,,nias1242-1,80,walu nɡafulu,walu nɡafulu,[],,[],,False,False,,1
-nias1242-1-90-1,,nias1242-1,90,siwa nɡafulu,siwa nɡafulu,[],,[],,False,False,,1
-nias1242-1-100-1,,nias1242-1,100,ɤtu,ɤtu,[],,[],,False,False,ötu,1
-nias1242-1-200-1,,nias1242-1,200,dua ötu,dua ötu,[],,[],,False,False,,1
-nias1242-1-1000-1,,nias1242-1,1000,ŋahɤnɤ,ŋahɤnɤ,[],,[],,False,False,nɡahönö,1
-nias1242-1-1000-2,,nias1242-1,1000,saribu,saribu,[],,[],,False,False,,1
-nias1242-1-2000-1,,nias1242-1,2000,dua ribu,dua ribu,[],,[],,False,False,,1
+nias1242-1-1-1,,nias1242-1,1,sara,sara,[],,['chan2019'],,False,False,sara,1
+nias1242-1-2-1,,nias1242-1,2,dua,dua,[],,['chan2019'],,False,False,dua,1
+nias1242-1-3-1,,nias1242-1,3,tɤlu,tɤlu,[],,['chan2019'],,False,False,tölu,1
+nias1242-1-4-1,,nias1242-1,4,ɤfa,ɤfa,[],,['chan2019'],,False,False,öfa,1
+nias1242-1-5-1,,nias1242-1,5,lima,lima,[],,['chan2019'],,False,False,lima,1
+nias1242-1-6-1,,nias1242-1,6,ɤnɤ,ɤnɤ,[],,['chan2019'],,False,False,önö,1
+nias1242-1-7-1,,nias1242-1,7,fitu,fitu,[],,['chan2019'],,False,False,fitu,1
+nias1242-1-8-1,,nias1242-1,8,walu,walu,[],,['chan2019'],,False,False,walu,1
+nias1242-1-9-1,,nias1242-1,9,siwa,siwa,[],,['chan2019'],,False,False,siwa,1
+nias1242-1-10-1,,nias1242-1,10,fulu,fulu,[],,['chan2019'],,False,False,fulu,1
+nias1242-1-11-1,,nias1242-1,11,felezara,felezara,[],,['chan2019'],,False,False,felejara,1
+nias1242-1-12-1,,nias1242-1,12,feleɖua,feleɖua,[],,['chan2019'],,False,False,felendrua,1
+nias1242-1-13-1,,nias1242-1,13,feledɤlu,feledɤlu,[],,['chan2019'],,False,False,feledölu,1
+nias1242-1-14-1,,nias1242-1,14,feleɤfa,feleɤfa,[],,['chan2019'],,False,False,feleöfa,1
+nias1242-1-15-1,,nias1242-1,15,felelima,felelima,[],,['chan2019'],,False,False,felelima,1
+nias1242-1-16-1,,nias1242-1,16,feleɤnɤ,feleɤnɤ,[],,['chan2019'],,False,False,feleönö,1
+nias1242-1-17-1,,nias1242-1,17,feleβitu,feleβitu,[],,['chan2019'],,False,False,felewitu,1
+nias1242-1-18-1,,nias1242-1,18,felewalu,felewalu,[],,['chan2019'],,False,False,felewalu,1
+nias1242-1-19-1,,nias1242-1,19,feleziwa,feleziwa,[],,['chan2019'],,False,False,felejiwa,1
+nias1242-1-20-1,,nias1242-1,20,duaβulu,duaβulu,[],,['chan2019'],,False,False,duawulu,1
+nias1242-1-21-1,,nias1242-1,21,duawulu a sara,duawulu a sara,[],,['chan2019'],,False,False,,1
+nias1242-1-22-1,,nias1242-1,22,duawulu a dʊa,duawulu a dʊa,[],,['chan2019'],,False,False,,1
+nias1242-1-23-1,,nias1242-1,23,duawulu a tölu,duawulu a tölu,[],,['chan2019'],,False,False,,1
+nias1242-1-24-1,,nias1242-1,24,duawulu a öfa,duawulu a öfa,[],,['chan2019'],,False,False,,1
+nias1242-1-25-1,,nias1242-1,25,duawulu a lima,duawulu a lima,[],,['chan2019'],,False,False,,1
+nias1242-1-26-1,,nias1242-1,26,duawulu a öno,duawulu a öno,[],,['chan2019'],,False,False,,1
+nias1242-1-27-1,,nias1242-1,27,duawulu a fitu,duawulu a fitu,[],,['chan2019'],,False,False,,1
+nias1242-1-28-1,,nias1242-1,28,duawulu a walu,duawulu a walu,[],,['chan2019'],,False,False,,1
+nias1242-1-29-1,,nias1242-1,29,duawulu a siwa,duawulu a siwa,[],,['chan2019'],,False,False,,1
+nias1242-1-30-1,,nias1242-1,30,tölu wulu,tölu wulu,[],,['chan2019'],,False,False,,1
+nias1242-1-40-1,,nias1242-1,40,öfa wulu,öfa wulu,[],,['chan2019'],,False,False,,1
+nias1242-1-50-1,,nias1242-1,50,lima wulu,lima wulu,[],,['chan2019'],,False,False,,1
+nias1242-1-60-1,,nias1242-1,60,ŋafulu,ŋafulu,[],,['chan2019'],,False,False,önö nɡafulu,1
+nias1242-1-70-1,,nias1242-1,70,fitu nɡafulu,fitu nɡafulu,[],,['chan2019'],,False,False,,1
+nias1242-1-80-1,,nias1242-1,80,walu nɡafulu,walu nɡafulu,[],,['chan2019'],,False,False,,1
+nias1242-1-90-1,,nias1242-1,90,siwa nɡafulu,siwa nɡafulu,[],,['chan2019'],,False,False,,1
+nias1242-1-100-1,,nias1242-1,100,ɤtu,ɤtu,[],,['chan2019'],,False,False,ötu,1
+nias1242-1-200-1,,nias1242-1,200,dua ötu,dua ötu,[],,['chan2019'],,False,False,,1
+nias1242-1-1000-1,,nias1242-1,1000,ŋahɤnɤ,ŋahɤnɤ,[],,['chan2019'],,False,False,nɡahönö,1
+nias1242-1-1000-2,,nias1242-1,1000,saribu,saribu,[],,['chan2019'],,False,False,,1
+nias1242-1-2000-1,,nias1242-1,2000,dua ribu,dua ribu,[],,['chan2019'],,False,False,,1

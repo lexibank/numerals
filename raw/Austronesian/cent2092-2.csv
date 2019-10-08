@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cent2092-2-1-1,,cent2092-2,1,issa,issa,[],,[],,False,False,,2
-cent2092-2-1-2,,cent2092-2,1,əssa,əssa,[],,[],,False,False,,2
-cent2092-2-1-3,,cent2092-2,1,ədda,ədda,[],,[],,False,False,,2
-cent2092-2-1-4,,cent2092-2,1,da-,da-,[],,[],,False,False,,2
-cent2092-2-2-1,,cent2092-2,2,duwa,duwa,[],,[],,False,False,,2
-cent2092-2-3-1,,cent2092-2,3,təllu,təllu,[],,[],,False,False,,2
-cent2092-2-4-1,,cent2092-2,4,əmpat,əmpat,[],,[],,False,False,,2
-cent2092-2-5-1,,cent2092-2,5,lima,lima,[],,[],,False,False,,2
-cent2092-2-6-1,,cent2092-2,6,ənnom,ənnom,[],,[],,False,False,,2
-cent2092-2-7-1,,cent2092-2,7,pituʔ,pituʔ,[],,[],,False,False,,2
-cent2092-2-8-1,,cent2092-2,8,waluʔ,waluʔ,[],,[],,False,False,,2
-cent2092-2-9-1,,cent2092-2,9,siam,siam,[],,[],,False,False,,2
-cent2092-2-10-1,,cent2092-2,10,saŋpuːʔ,saŋpuːʔ,[],,[],,False,False,,2
-cent2092-2-11-1,,cent2092-2,11,saŋpuːʔ maka ədda,saŋpuːʔ maka ədda,[],,[],,False,False,,2
-cent2092-2-11-2,,cent2092-2,11,əssa,əssa,[],,[],,False,False,,2
-cent2092-2-12-1,,cent2092-2,12,saŋpuːʔ maka duwa,saŋpuːʔ maka duwa,[],,[],,False,False,,2
-cent2092-2-13-1,,cent2092-2,13,saŋpuːʔ maka təllu,saŋpuːʔ maka təllu,[],,[],,False,False,,2
-cent2092-2-14-1,,cent2092-2,14,saŋpuːʔ maka əmpat,saŋpuːʔ maka əmpat,[],,[],,False,False,,2
-cent2092-2-15-1,,cent2092-2,15,saŋpuːʔ maka lima,saŋpuːʔ maka lima,[],,[],,False,False,,2
-cent2092-2-16-1,,cent2092-2,16,saŋpuːʔ maka ənnom,saŋpuːʔ maka ənnom,[],,[],,False,False,,2
-cent2092-2-17-1,,cent2092-2,17,saŋpuːʔ maka pituʔ,saŋpuːʔ maka pituʔ,[],,[],,False,False,,2
-cent2092-2-18-1,,cent2092-2,18,saŋpuːʔ maka waluʔ,saŋpuːʔ maka waluʔ,[],,[],,False,False,,2
-cent2092-2-19-1,,cent2092-2,19,saŋpuːʔ maka siam,saŋpuːʔ maka siam,[],,[],,False,False,,2
-cent2092-2-20-1,,cent2092-2,20,duampuːʔ,duampuːʔ,[],,[],,False,False,,2
-cent2092-2-21-1,,cent2092-2,21,duampuːʔ maka ədda,duampuːʔ maka ədda,[],,[],,False,False,,2
-cent2092-2-22-1,,cent2092-2,22,duampuːʔ maka duwa,duampuːʔ maka duwa,[],,[],,False,False,,2
-cent2092-2-23-1,,cent2092-2,23,duampuːʔ maka təllu,duampuːʔ maka təllu,[],,[],,False,False,,2
-cent2092-2-24-1,,cent2092-2,24,duampuːʔ maka əmpat,duampuːʔ maka əmpat,[],,[],,False,False,,2
-cent2092-2-25-1,,cent2092-2,25,duampuːʔ maka lima,duampuːʔ maka lima,[],,[],,False,False,,2
-cent2092-2-26-1,,cent2092-2,26,duampuːʔ maka ənnom,duampuːʔ maka ənnom,[],,[],,False,False,,2
-cent2092-2-27-1,,cent2092-2,27,duampuːʔ maka pituʔ,duampuːʔ maka pituʔ,[],,[],,False,False,,2
-cent2092-2-28-1,,cent2092-2,28,duampuːʔ maka waluʔ,duampuːʔ maka waluʔ,[],,[],,False,False,,2
-cent2092-2-29-1,,cent2092-2,29,duampuːʔ maka siam,duampuːʔ maka siam,[],,[],,False,False,,2
-cent2092-2-30-1,,cent2092-2,30,təllumpuːʔ,təllumpuːʔ,[],,[],,False,False,,2
-cent2092-2-40-1,,cent2092-2,40,mpatpuːʔ,mpatpuːʔ,[],,[],,False,False,,2
-cent2092-2-50-1,,cent2092-2,50,limampuːʔ,limampuːʔ,[],,[],,False,False,,2
-cent2092-2-60-1,,cent2092-2,60,ənompuːʔ,ənompuːʔ,[],,[],,False,False,,2
-cent2092-2-70-1,,cent2092-2,70,pitumpuːʔ,pitumpuːʔ,[],,[],,False,False,,2
-cent2092-2-80-1,,cent2092-2,80,walumpuːʔ,walumpuːʔ,[],,[],,False,False,,2
-cent2092-2-90-1,,cent2092-2,90,siampuːʔ,siampuːʔ,[],,[],,False,False,,2
-cent2092-2-100-1,,cent2092-2,100,dahatus,dahatus,[],,[],,False,False,,2
-cent2092-2-200-1,,cent2092-2,200,dua hatus,dua hatus,[],,[],,False,False,,2
-cent2092-2-1000-1,,cent2092-2,1000,daŋibu,daŋibu,[],,[],,False,False,,2
-cent2092-2-2000-1,,cent2092-2,2000,duaŋibu,duaŋibu,[],,[],,False,False,,2
+cent2092-2-1-1,,cent2092-2,1,issa,issa,[],,['chan2019'],,False,False,,2
+cent2092-2-1-2,,cent2092-2,1,əssa,əssa,[],,['chan2019'],,False,False,,2
+cent2092-2-1-3,,cent2092-2,1,ədda,ədda,[],,['chan2019'],,False,False,,2
+cent2092-2-1-4,,cent2092-2,1,da-,da-,[],,['chan2019'],,False,False,,2
+cent2092-2-2-1,,cent2092-2,2,duwa,duwa,[],,['chan2019'],,False,False,,2
+cent2092-2-3-1,,cent2092-2,3,təllu,təllu,[],,['chan2019'],,False,False,,2
+cent2092-2-4-1,,cent2092-2,4,əmpat,əmpat,[],,['chan2019'],,False,False,,2
+cent2092-2-5-1,,cent2092-2,5,lima,lima,[],,['chan2019'],,False,False,,2
+cent2092-2-6-1,,cent2092-2,6,ənnom,ənnom,[],,['chan2019'],,False,False,,2
+cent2092-2-7-1,,cent2092-2,7,pituʔ,pituʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-8-1,,cent2092-2,8,waluʔ,waluʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-9-1,,cent2092-2,9,siam,siam,[],,['chan2019'],,False,False,,2
+cent2092-2-10-1,,cent2092-2,10,saŋpuːʔ,saŋpuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-11-1,,cent2092-2,11,saŋpuːʔ maka ədda,saŋpuːʔ maka ədda,[],,['chan2019'],,False,False,,2
+cent2092-2-11-2,,cent2092-2,11,əssa,əssa,[],,['chan2019'],,False,False,,2
+cent2092-2-12-1,,cent2092-2,12,saŋpuːʔ maka duwa,saŋpuːʔ maka duwa,[],,['chan2019'],,False,False,,2
+cent2092-2-13-1,,cent2092-2,13,saŋpuːʔ maka təllu,saŋpuːʔ maka təllu,[],,['chan2019'],,False,False,,2
+cent2092-2-14-1,,cent2092-2,14,saŋpuːʔ maka əmpat,saŋpuːʔ maka əmpat,[],,['chan2019'],,False,False,,2
+cent2092-2-15-1,,cent2092-2,15,saŋpuːʔ maka lima,saŋpuːʔ maka lima,[],,['chan2019'],,False,False,,2
+cent2092-2-16-1,,cent2092-2,16,saŋpuːʔ maka ənnom,saŋpuːʔ maka ənnom,[],,['chan2019'],,False,False,,2
+cent2092-2-17-1,,cent2092-2,17,saŋpuːʔ maka pituʔ,saŋpuːʔ maka pituʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-18-1,,cent2092-2,18,saŋpuːʔ maka waluʔ,saŋpuːʔ maka waluʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-19-1,,cent2092-2,19,saŋpuːʔ maka siam,saŋpuːʔ maka siam,[],,['chan2019'],,False,False,,2
+cent2092-2-20-1,,cent2092-2,20,duampuːʔ,duampuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-21-1,,cent2092-2,21,duampuːʔ maka ədda,duampuːʔ maka ədda,[],,['chan2019'],,False,False,,2
+cent2092-2-22-1,,cent2092-2,22,duampuːʔ maka duwa,duampuːʔ maka duwa,[],,['chan2019'],,False,False,,2
+cent2092-2-23-1,,cent2092-2,23,duampuːʔ maka təllu,duampuːʔ maka təllu,[],,['chan2019'],,False,False,,2
+cent2092-2-24-1,,cent2092-2,24,duampuːʔ maka əmpat,duampuːʔ maka əmpat,[],,['chan2019'],,False,False,,2
+cent2092-2-25-1,,cent2092-2,25,duampuːʔ maka lima,duampuːʔ maka lima,[],,['chan2019'],,False,False,,2
+cent2092-2-26-1,,cent2092-2,26,duampuːʔ maka ənnom,duampuːʔ maka ənnom,[],,['chan2019'],,False,False,,2
+cent2092-2-27-1,,cent2092-2,27,duampuːʔ maka pituʔ,duampuːʔ maka pituʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-28-1,,cent2092-2,28,duampuːʔ maka waluʔ,duampuːʔ maka waluʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-29-1,,cent2092-2,29,duampuːʔ maka siam,duampuːʔ maka siam,[],,['chan2019'],,False,False,,2
+cent2092-2-30-1,,cent2092-2,30,təllumpuːʔ,təllumpuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-40-1,,cent2092-2,40,mpatpuːʔ,mpatpuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-50-1,,cent2092-2,50,limampuːʔ,limampuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-60-1,,cent2092-2,60,ənompuːʔ,ənompuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-70-1,,cent2092-2,70,pitumpuːʔ,pitumpuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-80-1,,cent2092-2,80,walumpuːʔ,walumpuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-90-1,,cent2092-2,90,siampuːʔ,siampuːʔ,[],,['chan2019'],,False,False,,2
+cent2092-2-100-1,,cent2092-2,100,dahatus,dahatus,[],,['chan2019'],,False,False,,2
+cent2092-2-200-1,,cent2092-2,200,dua hatus,dua hatus,[],,['chan2019'],,False,False,,2
+cent2092-2-1000-1,,cent2092-2,1000,daŋibu,daŋibu,[],,['chan2019'],,False,False,,2
+cent2092-2-2000-1,,cent2092-2,2000,duaŋibu,duaŋibu,[],,['chan2019'],,False,False,,2

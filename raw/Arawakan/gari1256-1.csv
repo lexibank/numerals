@@ -1,36 +1,36 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gari1256-1-1-1,,gari1256-1,1,aba,aba,[],,[],,False,False,,1
-gari1256-1-1-2,,gari1256-1,1,aba,aba,[],,[],,False,False,,1
-gari1256-1-2-1,,gari1256-1,2,bian,bian,[],,[],,False,False,,1
-gari1256-1-2-2,,gari1256-1,2,bian,bian,[],,[],,False,False,,1
-gari1256-1-3-1,,gari1256-1,3,kabyn,kabyn,[],,[],,False,False,,1
-gari1256-1-3-2,,gari1256-1,3,kabɨn,kabɨn,[],,[],,False,False,,1
-gari1256-1-4-1,,gari1256-1,4,bithi,bithi,[],,[],,False,False,,1
-gari1256-1-4-2,,gari1256-1,4,bitʰi,bitʰi,[],,[],,False,False,,1
-gari1256-1-5-1,,gari1256-1,5,(a)badakhabo,(a)badakhabo,[],,[],,False,False,,1
-gari1256-1-5-2,,gari1256-1,5,(a)badakʰabo,(a)badakʰabo,[],,[],,False,False,,1
-gari1256-1-6-1,,gari1256-1,6,(a)bathian,(a)bathian,[],,[],,False,False,,1
-gari1256-1-6-2,,gari1256-1,6,(a)batʰian,(a)batʰian,[],,[],,False,False,,1
-gari1256-1-7-1,,gari1256-1,7,bianthian,bianthian,[],,[],,False,False,,1
-gari1256-1-7-2,,gari1256-1,7,biantʰian,biantʰian,[],,[],,False,False,,1
-gari1256-1-8-1,,gari1256-1,8,kabythian,kabythian,[],,[],,False,False,,1
-gari1256-1-8-2,,gari1256-1,8,kabɨtʰian,kabɨtʰian,[],,[],,False,False,,1
-gari1256-1-9-1,,gari1256-1,9,bithithian,bithithian,[],,[],,False,False,,1
-gari1256-1-9-2,,gari1256-1,9,bitʰitʰian,bitʰitʰian,[],,[],,False,False,,1
-gari1256-1-10-1,,gari1256-1,10,biandakhabo,biandakhabo,[],,[],,False,False,,1
-gari1256-1-10-2,,gari1256-1,10,biandakʰabo,biandakʰabo,[],,[],,False,False,,1
-gari1256-1-11-1,,gari1256-1,11,biandakhabo diako abaro,biandakhabo diako abaro,[],,[],,False,False,,1
-gari1256-1-14-1,,gari1256-1,14,biandakhabo diako bithi,biandakhabo diako bithi,[],,[],,False,False,,1
-gari1256-1-15-1,,gari1256-1,15,biandakhabo diako badakhabo,biandakhabo diako badakhabo,[],,[],,False,False,,1
-gari1256-1-19-1,,gari1256-1,19,biandakhabo diako bithithian,biandakhabo diako bithithian,[],,[],,False,False,,1
-gari1256-1-20-1,,gari1256-1,20,aba loko,aba loko,[],,[],,False,False,,1
-gari1256-1-20-2,,gari1256-1,20,aba loko,aba loko,[],,[],,False,False,,1
-gari1256-1-21-1,,gari1256-1,21,aba loko diako abaro,aba loko diako abaro,[],,[],,False,False,,1
-gari1256-1-24-1,,gari1256-1,24,aba loko diako bithi,aba loko diako bithi,[],,[],,False,False,,1
-gari1256-1-25-1,,gari1256-1,25,aba loko diako abadakhabo,aba loko diako abadakhabo,[],,[],,False,False,,1
-gari1256-1-29-1,,gari1256-1,29,aba loko diako biththian,aba loko diako biththian,[],,[],,False,False,,1
-gari1256-1-30-1,,gari1256-1,30,aba loko diako biandakhabo,aba loko diako biandakhabo,[],,[],,False,False,,1
-gari1256-1-40-1,,gari1256-1,40,bian loko,bian loko,[],,[],,False,False,,1
-gari1256-1-50-1,,gari1256-1,50,bian loko diako biandakhabo,bian loko diako biandakhabo,[],,[],,False,False,,1
-gari1256-1-90-1,,gari1256-1,90,bithi loko diako biandakhabo,bithi loko diako biandakhabo,[],,[],,False,False,,1
-gari1256-1-100-1,,gari1256-1,100,(a)badakhabo loko,(a)badakhabo loko,[],,[],,False,False,,1
+gari1256-1-1-1,,gari1256-1,1,aba,aba,[],,['chan2019'],,False,False,,1
+gari1256-1-1-2,,gari1256-1,1,aba,aba,[],,['chan2019'],,False,False,,1
+gari1256-1-2-1,,gari1256-1,2,bian,bian,[],,['chan2019'],,False,False,,1
+gari1256-1-2-2,,gari1256-1,2,bian,bian,[],,['chan2019'],,False,False,,1
+gari1256-1-3-1,,gari1256-1,3,kabyn,kabyn,[],,['chan2019'],,False,False,,1
+gari1256-1-3-2,,gari1256-1,3,kabɨn,kabɨn,[],,['chan2019'],,False,False,,1
+gari1256-1-4-1,,gari1256-1,4,bithi,bithi,[],,['chan2019'],,False,False,,1
+gari1256-1-4-2,,gari1256-1,4,bitʰi,bitʰi,[],,['chan2019'],,False,False,,1
+gari1256-1-5-1,,gari1256-1,5,(a)badakhabo,(a)badakhabo,[],,['chan2019'],,False,False,,1
+gari1256-1-5-2,,gari1256-1,5,(a)badakʰabo,(a)badakʰabo,[],,['chan2019'],,False,False,,1
+gari1256-1-6-1,,gari1256-1,6,(a)bathian,(a)bathian,[],,['chan2019'],,False,False,,1
+gari1256-1-6-2,,gari1256-1,6,(a)batʰian,(a)batʰian,[],,['chan2019'],,False,False,,1
+gari1256-1-7-1,,gari1256-1,7,bianthian,bianthian,[],,['chan2019'],,False,False,,1
+gari1256-1-7-2,,gari1256-1,7,biantʰian,biantʰian,[],,['chan2019'],,False,False,,1
+gari1256-1-8-1,,gari1256-1,8,kabythian,kabythian,[],,['chan2019'],,False,False,,1
+gari1256-1-8-2,,gari1256-1,8,kabɨtʰian,kabɨtʰian,[],,['chan2019'],,False,False,,1
+gari1256-1-9-1,,gari1256-1,9,bithithian,bithithian,[],,['chan2019'],,False,False,,1
+gari1256-1-9-2,,gari1256-1,9,bitʰitʰian,bitʰitʰian,[],,['chan2019'],,False,False,,1
+gari1256-1-10-1,,gari1256-1,10,biandakhabo,biandakhabo,[],,['chan2019'],,False,False,,1
+gari1256-1-10-2,,gari1256-1,10,biandakʰabo,biandakʰabo,[],,['chan2019'],,False,False,,1
+gari1256-1-11-1,,gari1256-1,11,biandakhabo diako abaro,biandakhabo diako abaro,[],,['chan2019'],,False,False,,1
+gari1256-1-14-1,,gari1256-1,14,biandakhabo diako bithi,biandakhabo diako bithi,[],,['chan2019'],,False,False,,1
+gari1256-1-15-1,,gari1256-1,15,biandakhabo diako badakhabo,biandakhabo diako badakhabo,[],,['chan2019'],,False,False,,1
+gari1256-1-19-1,,gari1256-1,19,biandakhabo diako bithithian,biandakhabo diako bithithian,[],,['chan2019'],,False,False,,1
+gari1256-1-20-1,,gari1256-1,20,aba loko,aba loko,[],,['chan2019'],,False,False,,1
+gari1256-1-20-2,,gari1256-1,20,aba loko,aba loko,[],,['chan2019'],,False,False,,1
+gari1256-1-21-1,,gari1256-1,21,aba loko diako abaro,aba loko diako abaro,[],,['chan2019'],,False,False,,1
+gari1256-1-24-1,,gari1256-1,24,aba loko diako bithi,aba loko diako bithi,[],,['chan2019'],,False,False,,1
+gari1256-1-25-1,,gari1256-1,25,aba loko diako abadakhabo,aba loko diako abadakhabo,[],,['chan2019'],,False,False,,1
+gari1256-1-29-1,,gari1256-1,29,aba loko diako biththian,aba loko diako biththian,[],,['chan2019'],,False,False,,1
+gari1256-1-30-1,,gari1256-1,30,aba loko diako biandakhabo,aba loko diako biandakhabo,[],,['chan2019'],,False,False,,1
+gari1256-1-40-1,,gari1256-1,40,bian loko,bian loko,[],,['chan2019'],,False,False,,1
+gari1256-1-50-1,,gari1256-1,50,bian loko diako biandakhabo,bian loko diako biandakhabo,[],,['chan2019'],,False,False,,1
+gari1256-1-90-1,,gari1256-1,90,bithi loko diako biandakhabo,bithi loko diako biandakhabo,[],,['chan2019'],,False,False,,1
+gari1256-1-100-1,,gari1256-1,100,(a)badakhabo loko,(a)badakhabo loko,[],,['chan2019'],,False,False,,1

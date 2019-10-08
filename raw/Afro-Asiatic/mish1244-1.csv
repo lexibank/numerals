@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mish1244-1-1-1,,mish1244-1,1,kəme,kəme,[],,[],,False,False,,1
-mish1244-1-2-1,,mish1244-1,2,vəl,vəl,[],,[],,False,False,,1
-mish1244-1-3-1,,mish1244-1,3,kun,kun,[],,[],,False,False,,1
-mish1244-1-4-1,,mish1244-1,4,feer,feer,[],,[],,False,False,,1
-mish1244-1-5-1,,mish1244-1,5,baat,baat,[],,[],,False,False,,1
-mish1244-1-6-1,,mish1244-1,6,pemee,pemee,[],( 5+ 1 ),[],,False,False,,1
-mish1244-1-7-1,,mish1244-1,7,pokvəl,pokvəl,[],( 5+ 2 ),[],,False,False,,1
-mish1244-1-8-1,,mish1244-1,8,pokkun,pokkun,[],( 5+ 3 ),[],,False,False,,1
-mish1244-1-9-1,,mish1244-1,9,pokfaar,pokfaar,[],( 5+ 4 ),[],,False,False,,1
-mish1244-1-10-1,,mish1244-1,10,sár,sár,[],,[],,False,False,,1
-mish1244-1-11-1,,mish1244-1,11,sár po kəme,sár po kəme,[],,[],,False,False,,1
-mish1244-1-12-1,,mish1244-1,12,sár po vəl,sár po vəl,[],,[],,False,False,,1
-mish1244-1-13-1,,mish1244-1,13,sár po kun,sár po kun,[],,[],,False,False,,1
-mish1244-1-14-1,,mish1244-1,14,sár po feer,sár po feer,[],,[],,False,False,,1
-mish1244-1-15-1,,mish1244-1,15,sár po baat,sár po baat,[],,[],,False,False,,1
-mish1244-1-16-1,,mish1244-1,16,sár po pemee,sár po pemee,[],,[],,False,False,,1
-mish1244-1-17-1,,mish1244-1,17,sár po pokvəl,sár po pokvəl,[],,[],,False,False,,1
-mish1244-1-18-1,,mish1244-1,18,sár po pokkun,sár po pokkun,[],,[],,False,False,,1
-mish1244-1-19-1,,mish1244-1,19,sár po far,sár po far,[],,[],,False,False,,1
-mish1244-1-20-1,,mish1244-1,20,ya ɡurum,ya ɡurum,[],,[],,False,False,,1
-mish1244-1-21-1,,mish1244-1,21,ya ɡurum kə kəme,ya ɡurum kə kəme,[],,[],,False,False,,1
-mish1244-1-22-1,,mish1244-1,22,ya ɡurum kə vəl,ya ɡurum kə vəl,[],,[],,False,False,,1
-mish1244-1-23-1,,mish1244-1,23,ya ɡurum kə kun,ya ɡurum kə kun,[],,[],,False,False,,1
-mish1244-1-24-1,,mish1244-1,24,ya ɡurum kə feer,ya ɡurum kə feer,[],,[],,False,False,,1
-mish1244-1-25-1,,mish1244-1,25,ya ɡurum kə baat,ya ɡurum kə baat,[],,[],,False,False,,1
-mish1244-1-26-1,,mish1244-1,26,ya ɡurum kə pemee,ya ɡurum kə pemee,[],,[],,False,False,,1
-mish1244-1-27-1,,mish1244-1,27,ya ɡurum kə pokvəl,ya ɡurum kə pokvəl,[],,[],,False,False,,1
-mish1244-1-28-1,,mish1244-1,28,ya ɡurum kə pokkun,ya ɡurum kə pokkun,[],,[],,False,False,,1
-mish1244-1-29-1,,mish1244-1,29,ya ɡurum kə faar,ya ɡurum kə faar,[],,[],,False,False,,1
-mish1244-1-30-1,,mish1244-1,30,ya ɡurum kə sár,ya ɡurum kə sár,[],,[],,False,False,,1
-mish1244-1-40-1,,mish1244-1,40,yák ɡurum vəl,yák ɡurum vəl,[],,[],,False,False,,1
-mish1244-1-50-1,,mish1244-1,50,yák ɡurum vəl kə sár,yák ɡurum vəl kə sár,[],,[],,False,False,,1
-mish1244-1-60-1,,mish1244-1,60,yák ɡurum pemee,yák ɡurum pemee,[],,[],,False,False,,1
-mish1244-1-70-1,,mish1244-1,70,yák ɡurum vəl kə sár,yák ɡurum vəl kə sár,[],,[],,False,False,,1
-mish1244-1-80-1,,mish1244-1,80,yák ɡurum feer,yák ɡurum feer,[],( 20 x 4 ),[],,False,False,,1
-mish1244-1-90-1,,mish1244-1,90,yák ɡurum feer kə sár,yák ɡurum feer kə sár,[],,[],,False,False,,1
-mish1244-1-100-1,,mish1244-1,100,ɗali kəmə,ɗali kəmə,[],,[],,False,False,,1
-mish1244-1-200-1,,mish1244-1,200,ɗali vəl,ɗali vəl,[],,[],,False,False,,1
-mish1244-1-1000-1,,mish1244-1,1000,ɗali sál,ɗali sál,[],( 100 x  10 ),[],,False,False,,1
-mish1244-1-2000-1,,mish1244-1,2000,ɗali ya ɡurum,ɗali ya ɡurum,[],( 100 x  20 ),[],,False,False,,1
+mish1244-1-1-1,,mish1244-1,1,kəme,kəme,[],,['chan2019'],,False,False,,1
+mish1244-1-2-1,,mish1244-1,2,vəl,vəl,[],,['chan2019'],,False,False,,1
+mish1244-1-3-1,,mish1244-1,3,kun,kun,[],,['chan2019'],,False,False,,1
+mish1244-1-4-1,,mish1244-1,4,feer,feer,[],,['chan2019'],,False,False,,1
+mish1244-1-5-1,,mish1244-1,5,baat,baat,[],,['chan2019'],,False,False,,1
+mish1244-1-6-1,,mish1244-1,6,pemee,pemee,[],( 5+ 1 ),['chan2019'],,False,False,,1
+mish1244-1-7-1,,mish1244-1,7,pokvəl,pokvəl,[],( 5+ 2 ),['chan2019'],,False,False,,1
+mish1244-1-8-1,,mish1244-1,8,pokkun,pokkun,[],( 5+ 3 ),['chan2019'],,False,False,,1
+mish1244-1-9-1,,mish1244-1,9,pokfaar,pokfaar,[],( 5+ 4 ),['chan2019'],,False,False,,1
+mish1244-1-10-1,,mish1244-1,10,sár,sár,[],,['chan2019'],,False,False,,1
+mish1244-1-11-1,,mish1244-1,11,sár po kəme,sár po kəme,[],,['chan2019'],,False,False,,1
+mish1244-1-12-1,,mish1244-1,12,sár po vəl,sár po vəl,[],,['chan2019'],,False,False,,1
+mish1244-1-13-1,,mish1244-1,13,sár po kun,sár po kun,[],,['chan2019'],,False,False,,1
+mish1244-1-14-1,,mish1244-1,14,sár po feer,sár po feer,[],,['chan2019'],,False,False,,1
+mish1244-1-15-1,,mish1244-1,15,sár po baat,sár po baat,[],,['chan2019'],,False,False,,1
+mish1244-1-16-1,,mish1244-1,16,sár po pemee,sár po pemee,[],,['chan2019'],,False,False,,1
+mish1244-1-17-1,,mish1244-1,17,sár po pokvəl,sár po pokvəl,[],,['chan2019'],,False,False,,1
+mish1244-1-18-1,,mish1244-1,18,sár po pokkun,sár po pokkun,[],,['chan2019'],,False,False,,1
+mish1244-1-19-1,,mish1244-1,19,sár po far,sár po far,[],,['chan2019'],,False,False,,1
+mish1244-1-20-1,,mish1244-1,20,ya ɡurum,ya ɡurum,[],,['chan2019'],,False,False,,1
+mish1244-1-21-1,,mish1244-1,21,ya ɡurum kə kəme,ya ɡurum kə kəme,[],,['chan2019'],,False,False,,1
+mish1244-1-22-1,,mish1244-1,22,ya ɡurum kə vəl,ya ɡurum kə vəl,[],,['chan2019'],,False,False,,1
+mish1244-1-23-1,,mish1244-1,23,ya ɡurum kə kun,ya ɡurum kə kun,[],,['chan2019'],,False,False,,1
+mish1244-1-24-1,,mish1244-1,24,ya ɡurum kə feer,ya ɡurum kə feer,[],,['chan2019'],,False,False,,1
+mish1244-1-25-1,,mish1244-1,25,ya ɡurum kə baat,ya ɡurum kə baat,[],,['chan2019'],,False,False,,1
+mish1244-1-26-1,,mish1244-1,26,ya ɡurum kə pemee,ya ɡurum kə pemee,[],,['chan2019'],,False,False,,1
+mish1244-1-27-1,,mish1244-1,27,ya ɡurum kə pokvəl,ya ɡurum kə pokvəl,[],,['chan2019'],,False,False,,1
+mish1244-1-28-1,,mish1244-1,28,ya ɡurum kə pokkun,ya ɡurum kə pokkun,[],,['chan2019'],,False,False,,1
+mish1244-1-29-1,,mish1244-1,29,ya ɡurum kə faar,ya ɡurum kə faar,[],,['chan2019'],,False,False,,1
+mish1244-1-30-1,,mish1244-1,30,ya ɡurum kə sár,ya ɡurum kə sár,[],,['chan2019'],,False,False,,1
+mish1244-1-40-1,,mish1244-1,40,yák ɡurum vəl,yák ɡurum vəl,[],,['chan2019'],,False,False,,1
+mish1244-1-50-1,,mish1244-1,50,yák ɡurum vəl kə sár,yák ɡurum vəl kə sár,[],,['chan2019'],,False,False,,1
+mish1244-1-60-1,,mish1244-1,60,yák ɡurum pemee,yák ɡurum pemee,[],,['chan2019'],,False,False,,1
+mish1244-1-70-1,,mish1244-1,70,yák ɡurum vəl kə sár,yák ɡurum vəl kə sár,[],,['chan2019'],,False,False,,1
+mish1244-1-80-1,,mish1244-1,80,yák ɡurum feer,yák ɡurum feer,[],( 20 x 4 ),['chan2019'],,False,False,,1
+mish1244-1-90-1,,mish1244-1,90,yák ɡurum feer kə sár,yák ɡurum feer kə sár,[],,['chan2019'],,False,False,,1
+mish1244-1-100-1,,mish1244-1,100,ɗali kəmə,ɗali kəmə,[],,['chan2019'],,False,False,,1
+mish1244-1-200-1,,mish1244-1,200,ɗali vəl,ɗali vəl,[],,['chan2019'],,False,False,,1
+mish1244-1-1000-1,,mish1244-1,1000,ɗali sál,ɗali sál,[],( 100 x  10 ),['chan2019'],,False,False,,1
+mish1244-1-2000-1,,mish1244-1,2000,ɗali ya ɡurum,ɗali ya ɡurum,[],( 100 x  20 ),['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-boli1256-1-1-1,,boli1256-1,1,'saya,'saya,[],,[],,False,False,,1
-boli1256-1-2-1,,boli1256-1,2,'rwa,'rwa,[],,[],,False,False,,1
-boli1256-1-3-1,,boli1256-1,3,tu'lo,tu'lo,[],,[],,False,False,,1
-boli1256-1-4-1,,boli1256-1,4,'aʔpat,'aʔpat,[],,[],,False,False,,1
-boli1256-1-5-1,,boli1256-1,5,li'ma,li'ma,[],,[],,False,False,,1
-boli1256-1-6-1,,boli1256-1,6,aʔnəm,aʔnəm,[],,[],,False,False,,1
-boli1256-1-7-1,,boli1256-1,7,pi'to,pi'to,[],,[],,False,False,,1
-boli1256-1-8-1,,boli1256-1,8,wa'lo,wa'lo,[],,[],,False,False,,1
-boli1256-1-9-1,,boli1256-1,9,'syam,'syam,[],,[],,False,False,,1
-boli1256-1-10-1,,boli1256-1,10,ma'puloʔ,ma'puloʔ,[],,[],,False,False,,1
-boli1256-1-11-1,,boli1256-1,11,labin'saya,labin'saya,[],,[],,False,False,,1
-boli1256-1-12-1,,boli1256-1,12,labin'rwa,labin'rwa,[],,[],,False,False,,1
-boli1256-1-13-1,,boli1256-1,13,labintu'lo,labintu'lo,[],,[],,False,False,,1
-boli1256-1-14-1,,boli1256-1,14,labinʔ'aʔpat,labinʔ'aʔpat,[],,[],,False,False,,1
-boli1256-1-15-1,,boli1256-1,15,labinli'ma,labinli'ma,[],,[],,False,False,,1
-boli1256-1-16-1,,boli1256-1,16,labinʔaʔ'nəm,labinʔaʔ'nəm,[],,[],,False,False,,1
-boli1256-1-17-1,,boli1256-1,17,labinpi'to,labinpi'to,[],,[],,False,False,,1
-boli1256-1-18-1,,boli1256-1,18,labinwa'lo,labinwa'lo,[],,[],,False,False,,1
-boli1256-1-19-1,,boli1256-1,19,labins'yam,labins'yam,[],,[],,False,False,,1
-boli1256-1-20-1,,boli1256-1,20,rwam'puloʔ,rwam'puloʔ,[],,[],,False,False,,1
-boli1256-1-21-1,,boli1256-1,21,rwam'puloʔ tan 'saya,rwam'puloʔ tan 'saya,[],,[],,False,False,,1
-boli1256-1-22-1,,boli1256-1,22,rwam'puloʔ tan 'rwa,rwam'puloʔ tan 'rwa,[],,[],,False,False,,1
-boli1256-1-23-1,,boli1256-1,23,rwam'puloʔ tan tu'lo,rwam'puloʔ tan tu'lo,[],,[],,False,False,,1
-boli1256-1-24-1,,boli1256-1,24,rwam'puloʔ tan 'aʔpat,rwam'puloʔ tan 'aʔpat,[],,[],,False,False,,1
-boli1256-1-25-1,,boli1256-1,25,rwam'puloʔ tan li'ma,rwam'puloʔ tan li'ma,[],,[],,False,False,,1
-boli1256-1-26-1,,boli1256-1,26,rwam'puloʔ tan aʔ'nəm,rwam'puloʔ tan aʔ'nəm,[],,[],,False,False,,1
-boli1256-1-27-1,,boli1256-1,27,rwam'puloʔ tan pi'to,rwam'puloʔ tan pi'to,[],,[],,False,False,,1
-boli1256-1-28-1,,boli1256-1,28,rwam'puloʔ tan wa'lo,rwam'puloʔ tan wa'lo,[],,[],,False,False,,1
-boli1256-1-29-1,,boli1256-1,29,rwam'puloʔ tan 'syam,rwam'puloʔ tan 'syam,[],,[],,False,False,,1
-boli1256-1-30-1,,boli1256-1,30,tulum'puloʔ,tulum'puloʔ,[],,[],,False,False,,1
-boli1256-1-40-1,,boli1256-1,40,aʔpat a 'puloʔ,aʔpat a 'puloʔ,[],,[],,False,False,,1
-boli1256-1-50-1,,boli1256-1,50,limam'puloʔ,limam'puloʔ,[],,[],,False,False,,1
-boli1256-1-60-1,,boli1256-1,60,aʔnəm a 'puloʔ,aʔnəm a 'puloʔ,[],,[],,False,False,,1
-boli1256-1-70-1,,boli1256-1,70,pitum'puloʔ,pitum'puloʔ,[],,[],,False,False,,1
-boli1256-1-80-1,,boli1256-1,80,walum'puloʔ,walum'puloʔ,[],,[],,False,False,,1
-boli1256-1-90-1,,boli1256-1,90,syam a 'puloʔ,syam a 'puloʔ,[],,[],,False,False,,1
-boli1256-1-100-1,,boli1256-1,100,sanya'sot,sanya'sot,[],,[],,False,False,,1
-boli1256-1-200-1,,boli1256-1,200,rwanya'sot,rwanya'sot,[],,[],,False,False,,1
-boli1256-1-1000-1,,boli1256-1,1000,sanri'bo,sanri'bo,[],,[],,False,False,,1
-boli1256-1-2000-1,,boli1256-1,2000,rwanri'bo,rwanri'bo,[],,[],,False,False,,1
+boli1256-1-1-1,,boli1256-1,1,'saya,'saya,[],,['chan2019'],,False,False,,1
+boli1256-1-2-1,,boli1256-1,2,'rwa,'rwa,[],,['chan2019'],,False,False,,1
+boli1256-1-3-1,,boli1256-1,3,tu'lo,tu'lo,[],,['chan2019'],,False,False,,1
+boli1256-1-4-1,,boli1256-1,4,'aʔpat,'aʔpat,[],,['chan2019'],,False,False,,1
+boli1256-1-5-1,,boli1256-1,5,li'ma,li'ma,[],,['chan2019'],,False,False,,1
+boli1256-1-6-1,,boli1256-1,6,aʔnəm,aʔnəm,[],,['chan2019'],,False,False,,1
+boli1256-1-7-1,,boli1256-1,7,pi'to,pi'to,[],,['chan2019'],,False,False,,1
+boli1256-1-8-1,,boli1256-1,8,wa'lo,wa'lo,[],,['chan2019'],,False,False,,1
+boli1256-1-9-1,,boli1256-1,9,'syam,'syam,[],,['chan2019'],,False,False,,1
+boli1256-1-10-1,,boli1256-1,10,ma'puloʔ,ma'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-11-1,,boli1256-1,11,labin'saya,labin'saya,[],,['chan2019'],,False,False,,1
+boli1256-1-12-1,,boli1256-1,12,labin'rwa,labin'rwa,[],,['chan2019'],,False,False,,1
+boli1256-1-13-1,,boli1256-1,13,labintu'lo,labintu'lo,[],,['chan2019'],,False,False,,1
+boli1256-1-14-1,,boli1256-1,14,labinʔ'aʔpat,labinʔ'aʔpat,[],,['chan2019'],,False,False,,1
+boli1256-1-15-1,,boli1256-1,15,labinli'ma,labinli'ma,[],,['chan2019'],,False,False,,1
+boli1256-1-16-1,,boli1256-1,16,labinʔaʔ'nəm,labinʔaʔ'nəm,[],,['chan2019'],,False,False,,1
+boli1256-1-17-1,,boli1256-1,17,labinpi'to,labinpi'to,[],,['chan2019'],,False,False,,1
+boli1256-1-18-1,,boli1256-1,18,labinwa'lo,labinwa'lo,[],,['chan2019'],,False,False,,1
+boli1256-1-19-1,,boli1256-1,19,labins'yam,labins'yam,[],,['chan2019'],,False,False,,1
+boli1256-1-20-1,,boli1256-1,20,rwam'puloʔ,rwam'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-21-1,,boli1256-1,21,rwam'puloʔ tan 'saya,rwam'puloʔ tan 'saya,[],,['chan2019'],,False,False,,1
+boli1256-1-22-1,,boli1256-1,22,rwam'puloʔ tan 'rwa,rwam'puloʔ tan 'rwa,[],,['chan2019'],,False,False,,1
+boli1256-1-23-1,,boli1256-1,23,rwam'puloʔ tan tu'lo,rwam'puloʔ tan tu'lo,[],,['chan2019'],,False,False,,1
+boli1256-1-24-1,,boli1256-1,24,rwam'puloʔ tan 'aʔpat,rwam'puloʔ tan 'aʔpat,[],,['chan2019'],,False,False,,1
+boli1256-1-25-1,,boli1256-1,25,rwam'puloʔ tan li'ma,rwam'puloʔ tan li'ma,[],,['chan2019'],,False,False,,1
+boli1256-1-26-1,,boli1256-1,26,rwam'puloʔ tan aʔ'nəm,rwam'puloʔ tan aʔ'nəm,[],,['chan2019'],,False,False,,1
+boli1256-1-27-1,,boli1256-1,27,rwam'puloʔ tan pi'to,rwam'puloʔ tan pi'to,[],,['chan2019'],,False,False,,1
+boli1256-1-28-1,,boli1256-1,28,rwam'puloʔ tan wa'lo,rwam'puloʔ tan wa'lo,[],,['chan2019'],,False,False,,1
+boli1256-1-29-1,,boli1256-1,29,rwam'puloʔ tan 'syam,rwam'puloʔ tan 'syam,[],,['chan2019'],,False,False,,1
+boli1256-1-30-1,,boli1256-1,30,tulum'puloʔ,tulum'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-40-1,,boli1256-1,40,aʔpat a 'puloʔ,aʔpat a 'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-50-1,,boli1256-1,50,limam'puloʔ,limam'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-60-1,,boli1256-1,60,aʔnəm a 'puloʔ,aʔnəm a 'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-70-1,,boli1256-1,70,pitum'puloʔ,pitum'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-80-1,,boli1256-1,80,walum'puloʔ,walum'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-90-1,,boli1256-1,90,syam a 'puloʔ,syam a 'puloʔ,[],,['chan2019'],,False,False,,1
+boli1256-1-100-1,,boli1256-1,100,sanya'sot,sanya'sot,[],,['chan2019'],,False,False,,1
+boli1256-1-200-1,,boli1256-1,200,rwanya'sot,rwanya'sot,[],,['chan2019'],,False,False,,1
+boli1256-1-1000-1,,boli1256-1,1000,sanri'bo,sanri'bo,[],,['chan2019'],,False,False,,1
+boli1256-1-2000-1,,boli1256-1,2000,rwanri'bo,rwanri'bo,[],,['chan2019'],,False,False,,1

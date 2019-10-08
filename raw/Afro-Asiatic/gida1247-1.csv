@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gida1247-1-1-1,,gida1247-1,1,tákà,tákà,[],,[],,False,False,,1
-gida1247-1-2-1,,gida1247-1,2,súlà,súlà,[],,[],,False,False,,1
-gida1247-1-3-1,,gida1247-1,3,hókù,hókù,[],,[],,False,False,,1
-gida1247-1-4-1,,gida1247-1,4,póɗò,póɗò,[],,[],,False,False,,1
-gida1247-1-5-1,,gida1247-1,5,ɬé,ɬé,[],,[],,False,False,,1
-gida1247-1-6-1,,gida1247-1,6,ɬré,ɬré,[],,[],,False,False,,1
-gida1247-1-7-1,,gida1247-1,7,bùhúl,bùhúl,[],,[],,False,False,,1
-gida1247-1-8-1,,gida1247-1,8,dòdòpórò,dòdòpórò,[],( 2 x 4 ) ?,[],,False,False,,1
-gida1247-1-9-1,,gida1247-1,9,váyták,váyták,[],( 10 - 1)  ?,[],,False,False,,1
-gida1247-1-10-1,,gida1247-1,10,kláù,kláù,[],,[],,False,False,,1
-gida1247-1-11-1,,gida1247-1,11,kláù kíin tákà,kláù kíin tákà,[],,[],,False,False,,1
-gida1247-1-12-1,,gida1247-1,12,kláù kíin súlà,kláù kíin súlà,[],,[],,False,False,,1
-gida1247-1-13-1,,gida1247-1,13,kláù kíin hókù,kláù kíin hókù,[],,[],,False,False,,1
-gida1247-1-14-1,,gida1247-1,14,kláù kíin póɗò,kláù kíin póɗò,[],,[],,False,False,,1
-gida1247-1-15-1,,gida1247-1,15,kláù kíin ɬé,kláù kíin ɬé,[],,[],,False,False,,1
-gida1247-1-16-1,,gida1247-1,16,kláù kíin ɬré,kláù kíin ɬré,[],,[],,False,False,,1
-gida1247-1-17-1,,gida1247-1,17,kláù kíin bùhúl,kláù kíin bùhúl,[],,[],,False,False,,1
-gida1247-1-18-1,,gida1247-1,18,kláù kíin dòdòpórò,kláù kíin dòdòpórò,[],,[],,False,False,,1
-gida1247-1-19-1,,gida1247-1,19,kláù kíin váyták,kláù kíin váyták,[],,[],,False,False,,1
-gida1247-1-20-1,,gida1247-1,20,kà kláù súlà,kà kláù súlà,[],,[],,False,False,,1
-gida1247-1-21-1,,gida1247-1,21,kà kláù súlà tákà,kà kláù súlà tákà,[],,[],,False,False,,1
-gida1247-1-22-1,,gida1247-1,22,kà kláù súlà súlà,kà kláù súlà súlà,[],,[],,False,False,,1
-gida1247-1-23-1,,gida1247-1,23,kà kláù súlà hókù,kà kláù súlà hókù,[],,[],,False,False,,1
-gida1247-1-24-1,,gida1247-1,24,kà kláù súlà póɗò,kà kláù súlà póɗò,[],,[],,False,False,,1
-gida1247-1-25-1,,gida1247-1,25,kà kláù súlà ɬé,kà kláù súlà ɬé,[],,[],,False,False,,1
-gida1247-1-26-1,,gida1247-1,26,kà kláù súlà ɬré,kà kláù súlà ɬré,[],,[],,False,False,,1
-gida1247-1-27-1,,gida1247-1,27,kà kláù súlà bùhúl,kà kláù súlà bùhúl,[],,[],,False,False,,1
-gida1247-1-28-1,,gida1247-1,28,kà kláù súlà dòdòpórò,kà kláù súlà dòdòpórò,[],,[],,False,False,,1
-gida1247-1-29-1,,gida1247-1,29,kà kláù súlà váyták,kà kláù súlà váyták,[],,[],,False,False,,1
-gida1247-1-30-1,,gida1247-1,30,kláù hókù,kláù hókù,[],,[],,False,False,,1
-gida1247-1-40-1,,gida1247-1,40,kláù póɗò,kláù póɗò,[],,[],,False,False,,1
-gida1247-1-50-1,,gida1247-1,50,kláù ɬé,kláù ɬé,[],,[],,False,False,,1
-gida1247-1-60-1,,gida1247-1,60,kláù ɬré,kláù ɬré,[],,[],,False,False,,1
-gida1247-1-70-1,,gida1247-1,70,kláù bùhúl,kláù bùhúl,[],,[],,False,False,,1
-gida1247-1-80-1,,gida1247-1,80,kláù dòdòpórò,kláù dòdòpórò,[],,[],,False,False,,1
-gida1247-1-90-1,,gida1247-1,90,kláù váyták,kláù váyták,[],,[],,False,False,,1
-gida1247-1-100-1,,gida1247-1,100,skate,skate,[],,[],,False,False,,1
-gida1247-1-200-1,,gida1247-1,200,skate súlà,skate súlà,[],,[],,False,False,,1
-gida1247-1-1000-1,,gida1247-1,1000,ɡabal,ɡabal,[],,[],,False,False,,1
-gida1247-1-2000-1,,gida1247-1,2000,ɡabal súlà,ɡabal súlà,[],,[],,False,False,,1
+gida1247-1-1-1,,gida1247-1,1,tákà,tákà,[],,['chan2019'],,False,False,,1
+gida1247-1-2-1,,gida1247-1,2,súlà,súlà,[],,['chan2019'],,False,False,,1
+gida1247-1-3-1,,gida1247-1,3,hókù,hókù,[],,['chan2019'],,False,False,,1
+gida1247-1-4-1,,gida1247-1,4,póɗò,póɗò,[],,['chan2019'],,False,False,,1
+gida1247-1-5-1,,gida1247-1,5,ɬé,ɬé,[],,['chan2019'],,False,False,,1
+gida1247-1-6-1,,gida1247-1,6,ɬré,ɬré,[],,['chan2019'],,False,False,,1
+gida1247-1-7-1,,gida1247-1,7,bùhúl,bùhúl,[],,['chan2019'],,False,False,,1
+gida1247-1-8-1,,gida1247-1,8,dòdòpórò,dòdòpórò,[],( 2 x 4 ) ?,['chan2019'],,False,False,,1
+gida1247-1-9-1,,gida1247-1,9,váyták,váyták,[],( 10 - 1)  ?,['chan2019'],,False,False,,1
+gida1247-1-10-1,,gida1247-1,10,kláù,kláù,[],,['chan2019'],,False,False,,1
+gida1247-1-11-1,,gida1247-1,11,kláù kíin tákà,kláù kíin tákà,[],,['chan2019'],,False,False,,1
+gida1247-1-12-1,,gida1247-1,12,kláù kíin súlà,kláù kíin súlà,[],,['chan2019'],,False,False,,1
+gida1247-1-13-1,,gida1247-1,13,kláù kíin hókù,kláù kíin hókù,[],,['chan2019'],,False,False,,1
+gida1247-1-14-1,,gida1247-1,14,kláù kíin póɗò,kláù kíin póɗò,[],,['chan2019'],,False,False,,1
+gida1247-1-15-1,,gida1247-1,15,kláù kíin ɬé,kláù kíin ɬé,[],,['chan2019'],,False,False,,1
+gida1247-1-16-1,,gida1247-1,16,kláù kíin ɬré,kláù kíin ɬré,[],,['chan2019'],,False,False,,1
+gida1247-1-17-1,,gida1247-1,17,kláù kíin bùhúl,kláù kíin bùhúl,[],,['chan2019'],,False,False,,1
+gida1247-1-18-1,,gida1247-1,18,kláù kíin dòdòpórò,kláù kíin dòdòpórò,[],,['chan2019'],,False,False,,1
+gida1247-1-19-1,,gida1247-1,19,kláù kíin váyták,kláù kíin váyták,[],,['chan2019'],,False,False,,1
+gida1247-1-20-1,,gida1247-1,20,kà kláù súlà,kà kláù súlà,[],,['chan2019'],,False,False,,1
+gida1247-1-21-1,,gida1247-1,21,kà kláù súlà tákà,kà kláù súlà tákà,[],,['chan2019'],,False,False,,1
+gida1247-1-22-1,,gida1247-1,22,kà kláù súlà súlà,kà kláù súlà súlà,[],,['chan2019'],,False,False,,1
+gida1247-1-23-1,,gida1247-1,23,kà kláù súlà hókù,kà kláù súlà hókù,[],,['chan2019'],,False,False,,1
+gida1247-1-24-1,,gida1247-1,24,kà kláù súlà póɗò,kà kláù súlà póɗò,[],,['chan2019'],,False,False,,1
+gida1247-1-25-1,,gida1247-1,25,kà kláù súlà ɬé,kà kláù súlà ɬé,[],,['chan2019'],,False,False,,1
+gida1247-1-26-1,,gida1247-1,26,kà kláù súlà ɬré,kà kláù súlà ɬré,[],,['chan2019'],,False,False,,1
+gida1247-1-27-1,,gida1247-1,27,kà kláù súlà bùhúl,kà kláù súlà bùhúl,[],,['chan2019'],,False,False,,1
+gida1247-1-28-1,,gida1247-1,28,kà kláù súlà dòdòpórò,kà kláù súlà dòdòpórò,[],,['chan2019'],,False,False,,1
+gida1247-1-29-1,,gida1247-1,29,kà kláù súlà váyták,kà kláù súlà váyták,[],,['chan2019'],,False,False,,1
+gida1247-1-30-1,,gida1247-1,30,kláù hókù,kláù hókù,[],,['chan2019'],,False,False,,1
+gida1247-1-40-1,,gida1247-1,40,kláù póɗò,kláù póɗò,[],,['chan2019'],,False,False,,1
+gida1247-1-50-1,,gida1247-1,50,kláù ɬé,kláù ɬé,[],,['chan2019'],,False,False,,1
+gida1247-1-60-1,,gida1247-1,60,kláù ɬré,kláù ɬré,[],,['chan2019'],,False,False,,1
+gida1247-1-70-1,,gida1247-1,70,kláù bùhúl,kláù bùhúl,[],,['chan2019'],,False,False,,1
+gida1247-1-80-1,,gida1247-1,80,kláù dòdòpórò,kláù dòdòpórò,[],,['chan2019'],,False,False,,1
+gida1247-1-90-1,,gida1247-1,90,kláù váyták,kláù váyták,[],,['chan2019'],,False,False,,1
+gida1247-1-100-1,,gida1247-1,100,skate,skate,[],,['chan2019'],,False,False,,1
+gida1247-1-200-1,,gida1247-1,200,skate súlà,skate súlà,[],,['chan2019'],,False,False,,1
+gida1247-1-1000-1,,gida1247-1,1000,ɡabal,ɡabal,[],,['chan2019'],,False,False,,1
+gida1247-1-2000-1,,gida1247-1,2000,ɡabal súlà,ɡabal súlà,[],,['chan2019'],,False,False,,1

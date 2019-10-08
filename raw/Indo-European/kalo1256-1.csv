@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kalo1256-1-1-1,,kalo1256-1,1,iek,iek,[],,[],,False,False,,1
-kalo1256-1-2-1,,kalo1256-1,2,dui,dui,[],,[],,False,False,,1
-kalo1256-1-3-1,,kalo1256-1,3,tri:n,tri:n,[],,[],,False,False,,1
-kalo1256-1-4-1,,kalo1256-1,4,sta:r,sta:r,[],,[],,False,False,,1
-kalo1256-1-5-1,,kalo1256-1,5,paŋgx,paŋgx,[],,[],,False,False,,1
-kalo1256-1-6-1,,kalo1256-1,6,xou,xou,[],,[],,False,False,,1
-kalo1256-1-7-1,,kalo1256-1,7,efta,efta,[],,[],,False,False,,1
-kalo1256-1-7-2,,kalo1256-1,7,ehta,ehta,[],< Greek ,[],,True,False,,1
-kalo1256-1-8-1,,kalo1256-1,8,oxta,oxta,[],< Greek ,[],,True,False,,1
-kalo1256-1-9-1,,kalo1256-1,9,eɲa,eɲa,[],< Greek ,[],,True,False,,1
-kalo1256-1-10-1,,kalo1256-1,10,dex,dex,[],,[],,False,False,,1
-kalo1256-1-11-1,,kalo1256-1,11,dex o iek,dex o iek,[],,[],,False,False,,1
-kalo1256-1-12-1,,kalo1256-1,12,dex o dui,dex o dui,[],,[],,False,False,,1
-kalo1256-1-13-1,,kalo1256-1,13,dex o triːn,dex o triːn,[],,[],,False,False,,1
-kalo1256-1-14-1,,kalo1256-1,14,dex o star,dex o star,[],,[],,False,False,,1
-kalo1256-1-15-1,,kalo1256-1,15,dex o paŋgx,dex o paŋgx,[],,[],,False,False,,1
-kalo1256-1-16-1,,kalo1256-1,16,dex o xou,dex o xou,[],,[],,False,False,,1
-kalo1256-1-17-1,,kalo1256-1,17,dex o efta,dex o efta,[],,[],,False,False,,1
-kalo1256-1-18-1,,kalo1256-1,18,dex o oxto,dex o oxto,[],,[],,False,False,,1
-kalo1256-1-19-1,,kalo1256-1,19,dex o eɲa,dex o eɲa,[],,[],,False,False,,1
-kalo1256-1-20-1,,kalo1256-1,20,bix,bix,[],,[],,False,False,,1
-kalo1256-1-21-1,,kalo1256-1,21,bix ta iek,bix ta iek,[],,[],,False,False,,1
-kalo1256-1-22-1,,kalo1256-1,22,bix ta dui,bix ta dui,[],,[],,False,False,,1
-kalo1256-1-23-1,,kalo1256-1,23,bix ta triːn,bix ta triːn,[],,[],,False,False,,1
-kalo1256-1-24-1,,kalo1256-1,24,bix ta staːr,bix ta staːr,[],,[],,False,False,,1
-kalo1256-1-25-1,,kalo1256-1,25,bix ta paŋgx,bix ta paŋgx,[],,[],,False,False,,1
-kalo1256-1-26-1,,kalo1256-1,26,bix ta xou,bix ta xou,[],,[],,False,False,,1
-kalo1256-1-27-1,,kalo1256-1,27,bix ta efta,bix ta efta,[],,[],,False,False,,1
-kalo1256-1-28-1,,kalo1256-1,28,bix ta oxto,bix ta oxto,[],,[],,False,False,,1
-kalo1256-1-29-1,,kalo1256-1,29,bix ta eɲa,bix ta eɲa,[],,[],,False,False,,1
-kalo1256-1-30-1,,kalo1256-1,30,triːjana,triːjana,[],< Greek ,[],,True,False,,1
-kalo1256-1-40-1,,kalo1256-1,40,starvardex,starvardex,[],,[],,False,False,,1
-kalo1256-1-50-1,,kalo1256-1,50,paŋgxvardex,paŋgxvardex,[],,[],,False,False,,1
-kalo1256-1-60-1,,kalo1256-1,60,xovardex,xovardex,[],,[],,False,False,,1
-kalo1256-1-70-1,,kalo1256-1,70,eftavardex,eftavardex,[],,[],,False,False,,1
-kalo1256-1-80-1,,kalo1256-1,80,oxtavardex,oxtavardex,[],,[],,False,False,,1
-kalo1256-1-90-1,,kalo1256-1,90,eɲavardex,eɲavardex,[],,[],,False,False,,1
-kalo1256-1-100-1,,kalo1256-1,100,xeːl,xeːl,[],,[],,False,False,,1
-kalo1256-1-200-1,,kalo1256-1,200,dui xeːl,dui xeːl,[],,[],,False,False,,1
-kalo1256-1-1000-1,,kalo1256-1,1000,aːdur,aːdur,[],,[],,False,False,,1
-kalo1256-1-2000-1,,kalo1256-1,2000,dui aːdur,dui aːdur,[],,[],,False,False,,1
+kalo1256-1-1-1,,kalo1256-1,1,iek,iek,[],,['chan2019'],,False,False,,1
+kalo1256-1-2-1,,kalo1256-1,2,dui,dui,[],,['chan2019'],,False,False,,1
+kalo1256-1-3-1,,kalo1256-1,3,tri:n,tri:n,[],,['chan2019'],,False,False,,1
+kalo1256-1-4-1,,kalo1256-1,4,sta:r,sta:r,[],,['chan2019'],,False,False,,1
+kalo1256-1-5-1,,kalo1256-1,5,paŋgx,paŋgx,[],,['chan2019'],,False,False,,1
+kalo1256-1-6-1,,kalo1256-1,6,xou,xou,[],,['chan2019'],,False,False,,1
+kalo1256-1-7-1,,kalo1256-1,7,efta,efta,[],,['chan2019'],,False,False,,1
+kalo1256-1-7-2,,kalo1256-1,7,ehta,ehta,[],< Greek ,['chan2019'],,True,False,,1
+kalo1256-1-8-1,,kalo1256-1,8,oxta,oxta,[],< Greek ,['chan2019'],,True,False,,1
+kalo1256-1-9-1,,kalo1256-1,9,eɲa,eɲa,[],< Greek ,['chan2019'],,True,False,,1
+kalo1256-1-10-1,,kalo1256-1,10,dex,dex,[],,['chan2019'],,False,False,,1
+kalo1256-1-11-1,,kalo1256-1,11,dex o iek,dex o iek,[],,['chan2019'],,False,False,,1
+kalo1256-1-12-1,,kalo1256-1,12,dex o dui,dex o dui,[],,['chan2019'],,False,False,,1
+kalo1256-1-13-1,,kalo1256-1,13,dex o triːn,dex o triːn,[],,['chan2019'],,False,False,,1
+kalo1256-1-14-1,,kalo1256-1,14,dex o star,dex o star,[],,['chan2019'],,False,False,,1
+kalo1256-1-15-1,,kalo1256-1,15,dex o paŋgx,dex o paŋgx,[],,['chan2019'],,False,False,,1
+kalo1256-1-16-1,,kalo1256-1,16,dex o xou,dex o xou,[],,['chan2019'],,False,False,,1
+kalo1256-1-17-1,,kalo1256-1,17,dex o efta,dex o efta,[],,['chan2019'],,False,False,,1
+kalo1256-1-18-1,,kalo1256-1,18,dex o oxto,dex o oxto,[],,['chan2019'],,False,False,,1
+kalo1256-1-19-1,,kalo1256-1,19,dex o eɲa,dex o eɲa,[],,['chan2019'],,False,False,,1
+kalo1256-1-20-1,,kalo1256-1,20,bix,bix,[],,['chan2019'],,False,False,,1
+kalo1256-1-21-1,,kalo1256-1,21,bix ta iek,bix ta iek,[],,['chan2019'],,False,False,,1
+kalo1256-1-22-1,,kalo1256-1,22,bix ta dui,bix ta dui,[],,['chan2019'],,False,False,,1
+kalo1256-1-23-1,,kalo1256-1,23,bix ta triːn,bix ta triːn,[],,['chan2019'],,False,False,,1
+kalo1256-1-24-1,,kalo1256-1,24,bix ta staːr,bix ta staːr,[],,['chan2019'],,False,False,,1
+kalo1256-1-25-1,,kalo1256-1,25,bix ta paŋgx,bix ta paŋgx,[],,['chan2019'],,False,False,,1
+kalo1256-1-26-1,,kalo1256-1,26,bix ta xou,bix ta xou,[],,['chan2019'],,False,False,,1
+kalo1256-1-27-1,,kalo1256-1,27,bix ta efta,bix ta efta,[],,['chan2019'],,False,False,,1
+kalo1256-1-28-1,,kalo1256-1,28,bix ta oxto,bix ta oxto,[],,['chan2019'],,False,False,,1
+kalo1256-1-29-1,,kalo1256-1,29,bix ta eɲa,bix ta eɲa,[],,['chan2019'],,False,False,,1
+kalo1256-1-30-1,,kalo1256-1,30,triːjana,triːjana,[],< Greek ,['chan2019'],,True,False,,1
+kalo1256-1-40-1,,kalo1256-1,40,starvardex,starvardex,[],,['chan2019'],,False,False,,1
+kalo1256-1-50-1,,kalo1256-1,50,paŋgxvardex,paŋgxvardex,[],,['chan2019'],,False,False,,1
+kalo1256-1-60-1,,kalo1256-1,60,xovardex,xovardex,[],,['chan2019'],,False,False,,1
+kalo1256-1-70-1,,kalo1256-1,70,eftavardex,eftavardex,[],,['chan2019'],,False,False,,1
+kalo1256-1-80-1,,kalo1256-1,80,oxtavardex,oxtavardex,[],,['chan2019'],,False,False,,1
+kalo1256-1-90-1,,kalo1256-1,90,eɲavardex,eɲavardex,[],,['chan2019'],,False,False,,1
+kalo1256-1-100-1,,kalo1256-1,100,xeːl,xeːl,[],,['chan2019'],,False,False,,1
+kalo1256-1-200-1,,kalo1256-1,200,dui xeːl,dui xeːl,[],,['chan2019'],,False,False,,1
+kalo1256-1-1000-1,,kalo1256-1,1000,aːdur,aːdur,[],,['chan2019'],,False,False,,1
+kalo1256-1-2000-1,,kalo1256-1,2000,dui aːdur,dui aːdur,[],,['chan2019'],,False,False,,1

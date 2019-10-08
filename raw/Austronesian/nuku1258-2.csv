@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nuku1258-2-1-1,,nuku1258-2,1,tahi,tahi,[],,[],,False,False,,2
-nuku1258-2-2-1,,nuku1258-2,2,lua,lua,[],,[],,False,False,,2
-nuku1258-2-3-1,,nuku1258-2,3,toru,toru,[],,[],,False,False,,2
-nuku1258-2-4-1,,nuku1258-2,4,ha,ha,[],,[],,False,False,,2
-nuku1258-2-5-1,,nuku1258-2,5,lima,lima,[],,[],,False,False,,2
-nuku1258-2-6-1,,nuku1258-2,6,ono,ono,[],,[],,False,False,,2
-nuku1258-2-7-1,,nuku1258-2,7,hitu,hitu,[],,[],,False,False,,2
-nuku1258-2-8-1,,nuku1258-2,8,varu,varu,[],,[],,False,False,,2
-nuku1258-2-9-1,,nuku1258-2,9,sivo,sivo,[],,[],,False,False,,2
-nuku1258-2-10-1,,nuku1258-2,10,sanahuru,sanahuru,[],,[],,False,False,,2
-nuku1258-2-11-1,,nuku1258-2,11,sanahuru ma tahi,sanahuru ma tahi,[],,[],,False,False,,2
-nuku1258-2-12-1,,nuku1258-2,12,sanahuru ma lua,sanahuru ma lua,[],,[],,False,False,,2
-nuku1258-2-13-1,,nuku1258-2,13,sanahuru ma toru,sanahuru ma toru,[],,[],,False,False,,2
-nuku1258-2-14-1,,nuku1258-2,14,sanahuru ma ha,sanahuru ma ha,[],,[],,False,False,,2
-nuku1258-2-15-1,,nuku1258-2,15,sanahuru ma lima,sanahuru ma lima,[],,[],,False,False,,2
-nuku1258-2-16-1,,nuku1258-2,16,sanahuru ma ono,sanahuru ma ono,[],,[],,False,False,,2
-nuku1258-2-17-1,,nuku1258-2,17,sanahuru ma hitu,sanahuru ma hitu,[],,[],,False,False,,2
-nuku1258-2-18-1,,nuku1258-2,18,sanahuru ma varu,sanahuru ma varu,[],,[],,False,False,,2
-nuku1258-2-19-1,,nuku1258-2,19,sanahuru ma sivo,sanahuru ma sivo,[],,[],,False,False,,2
-nuku1258-2-20-1,,nuku1258-2,20,tipu rua,tipu rua,[],,[],,False,False,,2
-nuku1258-2-21-1,,nuku1258-2,21,tipu rua ma tahi,tipu rua ma tahi,[],,[],,False,False,,2
-nuku1258-2-22-1,,nuku1258-2,22,tipu rua ma lua,tipu rua ma lua,[],,[],,False,False,,2
-nuku1258-2-23-1,,nuku1258-2,23,tipu rua ma toru,tipu rua ma toru,[],,[],,False,False,,2
-nuku1258-2-24-1,,nuku1258-2,24,tipu rua ma ha,tipu rua ma ha,[],,[],,False,False,,2
-nuku1258-2-25-1,,nuku1258-2,25,tipu rua ma lima,tipu rua ma lima,[],,[],,False,False,,2
-nuku1258-2-26-1,,nuku1258-2,26,tipu rua ma ono,tipu rua ma ono,[],,[],,False,False,,2
-nuku1258-2-27-1,,nuku1258-2,27,tipu rua ma hitu,tipu rua ma hitu,[],,[],,False,False,,2
-nuku1258-2-28-1,,nuku1258-2,28,tipu rua ma varu,tipu rua ma varu,[],,[],,False,False,,2
-nuku1258-2-29-1,,nuku1258-2,29,tipu rua ma sivo,tipu rua ma sivo,[],,[],,False,False,,2
-nuku1258-2-30-1,,nuku1258-2,30,tipu toru,tipu toru,[],,[],,False,False,,2
-nuku1258-2-40-1,,nuku1258-2,40,tipu ha,tipu ha,[],,[],,False,False,,2
-nuku1258-2-50-1,,nuku1258-2,50,tipu lima,tipu lima,[],,[],,False,False,,2
-nuku1258-2-60-1,,nuku1258-2,60,tipu ono,tipu ono,[],,[],,False,False,,2
-nuku1258-2-70-1,,nuku1258-2,70,tipu hitu,tipu hitu,[],,[],,False,False,,2
-nuku1258-2-80-1,,nuku1258-2,80,tipu varu,tipu varu,[],,[],,False,False,,2
-nuku1258-2-90-1,,nuku1258-2,90,tipu sivo,tipu sivo,[],,[],,False,False,,2
-nuku1258-2-100-1,,nuku1258-2,100,puaterau,puaterau,[],,[],,False,False,,2
-nuku1258-2-100-2,,nuku1258-2,100,kilau,kilau,[],,[],,False,False,,2
-nuku1258-2-1000-1,,nuku1258-2,1000,mano,mano,[],,[],,False,False,,2
-nuku1258-2-1000-2,,nuku1258-2,1000,ape,ape,[],,[],,False,False,,2
-nuku1258-2-2000-1,,nuku1258-2,2000,e lua mana,e lua mana,[],,[],,False,False,,2
+nuku1258-2-1-1,,nuku1258-2,1,tahi,tahi,[],,['chan2019'],,False,False,,2
+nuku1258-2-2-1,,nuku1258-2,2,lua,lua,[],,['chan2019'],,False,False,,2
+nuku1258-2-3-1,,nuku1258-2,3,toru,toru,[],,['chan2019'],,False,False,,2
+nuku1258-2-4-1,,nuku1258-2,4,ha,ha,[],,['chan2019'],,False,False,,2
+nuku1258-2-5-1,,nuku1258-2,5,lima,lima,[],,['chan2019'],,False,False,,2
+nuku1258-2-6-1,,nuku1258-2,6,ono,ono,[],,['chan2019'],,False,False,,2
+nuku1258-2-7-1,,nuku1258-2,7,hitu,hitu,[],,['chan2019'],,False,False,,2
+nuku1258-2-8-1,,nuku1258-2,8,varu,varu,[],,['chan2019'],,False,False,,2
+nuku1258-2-9-1,,nuku1258-2,9,sivo,sivo,[],,['chan2019'],,False,False,,2
+nuku1258-2-10-1,,nuku1258-2,10,sanahuru,sanahuru,[],,['chan2019'],,False,False,,2
+nuku1258-2-11-1,,nuku1258-2,11,sanahuru ma tahi,sanahuru ma tahi,[],,['chan2019'],,False,False,,2
+nuku1258-2-12-1,,nuku1258-2,12,sanahuru ma lua,sanahuru ma lua,[],,['chan2019'],,False,False,,2
+nuku1258-2-13-1,,nuku1258-2,13,sanahuru ma toru,sanahuru ma toru,[],,['chan2019'],,False,False,,2
+nuku1258-2-14-1,,nuku1258-2,14,sanahuru ma ha,sanahuru ma ha,[],,['chan2019'],,False,False,,2
+nuku1258-2-15-1,,nuku1258-2,15,sanahuru ma lima,sanahuru ma lima,[],,['chan2019'],,False,False,,2
+nuku1258-2-16-1,,nuku1258-2,16,sanahuru ma ono,sanahuru ma ono,[],,['chan2019'],,False,False,,2
+nuku1258-2-17-1,,nuku1258-2,17,sanahuru ma hitu,sanahuru ma hitu,[],,['chan2019'],,False,False,,2
+nuku1258-2-18-1,,nuku1258-2,18,sanahuru ma varu,sanahuru ma varu,[],,['chan2019'],,False,False,,2
+nuku1258-2-19-1,,nuku1258-2,19,sanahuru ma sivo,sanahuru ma sivo,[],,['chan2019'],,False,False,,2
+nuku1258-2-20-1,,nuku1258-2,20,tipu rua,tipu rua,[],,['chan2019'],,False,False,,2
+nuku1258-2-21-1,,nuku1258-2,21,tipu rua ma tahi,tipu rua ma tahi,[],,['chan2019'],,False,False,,2
+nuku1258-2-22-1,,nuku1258-2,22,tipu rua ma lua,tipu rua ma lua,[],,['chan2019'],,False,False,,2
+nuku1258-2-23-1,,nuku1258-2,23,tipu rua ma toru,tipu rua ma toru,[],,['chan2019'],,False,False,,2
+nuku1258-2-24-1,,nuku1258-2,24,tipu rua ma ha,tipu rua ma ha,[],,['chan2019'],,False,False,,2
+nuku1258-2-25-1,,nuku1258-2,25,tipu rua ma lima,tipu rua ma lima,[],,['chan2019'],,False,False,,2
+nuku1258-2-26-1,,nuku1258-2,26,tipu rua ma ono,tipu rua ma ono,[],,['chan2019'],,False,False,,2
+nuku1258-2-27-1,,nuku1258-2,27,tipu rua ma hitu,tipu rua ma hitu,[],,['chan2019'],,False,False,,2
+nuku1258-2-28-1,,nuku1258-2,28,tipu rua ma varu,tipu rua ma varu,[],,['chan2019'],,False,False,,2
+nuku1258-2-29-1,,nuku1258-2,29,tipu rua ma sivo,tipu rua ma sivo,[],,['chan2019'],,False,False,,2
+nuku1258-2-30-1,,nuku1258-2,30,tipu toru,tipu toru,[],,['chan2019'],,False,False,,2
+nuku1258-2-40-1,,nuku1258-2,40,tipu ha,tipu ha,[],,['chan2019'],,False,False,,2
+nuku1258-2-50-1,,nuku1258-2,50,tipu lima,tipu lima,[],,['chan2019'],,False,False,,2
+nuku1258-2-60-1,,nuku1258-2,60,tipu ono,tipu ono,[],,['chan2019'],,False,False,,2
+nuku1258-2-70-1,,nuku1258-2,70,tipu hitu,tipu hitu,[],,['chan2019'],,False,False,,2
+nuku1258-2-80-1,,nuku1258-2,80,tipu varu,tipu varu,[],,['chan2019'],,False,False,,2
+nuku1258-2-90-1,,nuku1258-2,90,tipu sivo,tipu sivo,[],,['chan2019'],,False,False,,2
+nuku1258-2-100-1,,nuku1258-2,100,puaterau,puaterau,[],,['chan2019'],,False,False,,2
+nuku1258-2-100-2,,nuku1258-2,100,kilau,kilau,[],,['chan2019'],,False,False,,2
+nuku1258-2-1000-1,,nuku1258-2,1000,mano,mano,[],,['chan2019'],,False,False,,2
+nuku1258-2-1000-2,,nuku1258-2,1000,ape,ape,[],,['chan2019'],,False,False,,2
+nuku1258-2-2000-1,,nuku1258-2,2000,e lua mana,e lua mana,[],,['chan2019'],,False,False,,2

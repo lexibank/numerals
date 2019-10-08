@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kela1255-2-1-1,,kela1255-2,1,tunome,tunome,[],,[],,False,False,,2
-kela1255-2-1-2,,kela1255-2,1,taumuna,taumuna,[],,[],,False,False,,2
-kela1255-2-2-1,,kela1255-2,2,lua,lua,[],,[],,False,False,,2
-kela1255-2-2-2,,kela1255-2,2,rua,rua,[],,[],,False,False,,2
-kela1255-2-3-1,,kela1255-2,3,tarawa,tarawa,[],,[],,False,False,,2
-kela1255-2-4-1,,kela1255-2,4,nɡa,nɡa,[],,[],,False,False,,2
-kela1255-2-4-2,,kela1255-2,4,ŋai,ŋai,[],,[],,False,False,,2
-kela1255-2-5-1,,kela1255-2,5,lita,lita,[],( < lima ta ? =hand one ?),[],,False,False,,2
-kela1255-2-6-1,,kela1255-2,6,lita manɡo nua,lita manɡo nua,[],(litː '' 5+1''),[],,False,False,,2
-kela1255-2-7-1,,kela1255-2,7,lita manɡo lua,lita manɡo lua,[],(litː '' 5+2''),[],,False,False,,2
-kela1255-2-8-1,,kela1255-2,8,lita manɡo tarawa,lita manɡo tarawa,[],(litː '' 5+3''),[],,False,False,,2
-kela1255-2-9-1,,kela1255-2,9,lita manɡo nɡa,lita manɡo nɡa,[],(litː '' 5+4''),[],,False,False,,2
-kela1255-2-10-1,,kela1255-2,10,taomo,taomo,[],,[],,False,False,,2
-kela1255-2-10-2,,kela1255-2,10,taumen,taumen,[],,[],,False,False,,2
+kela1255-2-1-1,,kela1255-2,1,tunome,tunome,[],,['chan2019'],,False,False,,2
+kela1255-2-1-2,,kela1255-2,1,taumuna,taumuna,[],,['chan2019'],,False,False,,2
+kela1255-2-2-1,,kela1255-2,2,lua,lua,[],,['chan2019'],,False,False,,2
+kela1255-2-2-2,,kela1255-2,2,rua,rua,[],,['chan2019'],,False,False,,2
+kela1255-2-3-1,,kela1255-2,3,tarawa,tarawa,[],,['chan2019'],,False,False,,2
+kela1255-2-4-1,,kela1255-2,4,nɡa,nɡa,[],,['chan2019'],,False,False,,2
+kela1255-2-4-2,,kela1255-2,4,ŋai,ŋai,[],,['chan2019'],,False,False,,2
+kela1255-2-5-1,,kela1255-2,5,lita,lita,[],( < lima ta ? =hand one ?),['chan2019'],,False,False,,2
+kela1255-2-6-1,,kela1255-2,6,lita manɡo nua,lita manɡo nua,[],(litː '' 5+1''),['chan2019'],,False,False,,2
+kela1255-2-7-1,,kela1255-2,7,lita manɡo lua,lita manɡo lua,[],(litː '' 5+2''),['chan2019'],,False,False,,2
+kela1255-2-8-1,,kela1255-2,8,lita manɡo tarawa,lita manɡo tarawa,[],(litː '' 5+3''),['chan2019'],,False,False,,2
+kela1255-2-9-1,,kela1255-2,9,lita manɡo nɡa,lita manɡo nɡa,[],(litː '' 5+4''),['chan2019'],,False,False,,2
+kela1255-2-10-1,,kela1255-2,10,taomo,taomo,[],,['chan2019'],,False,False,,2
+kela1255-2-10-2,,kela1255-2,10,taumen,taumen,[],,['chan2019'],,False,False,,2

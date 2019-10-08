@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cher1273-1-1-1,,cher1273-1,1,saàkwu,saàkwu,[],,[],,False,False,,1
-cher1273-1-2-1,,cher1273-1,2,tʰáʔli,tʰáʔli,[],,[],,False,False,,1
-cher1273-1-3-1,,cher1273-1,3,joʔi,joʔi,[],,[],,False,False,,1
-cher1273-1-4-1,,cher1273-1,4,nvhki,nvhki,[],,[],,False,False,,1
-cher1273-1-5-1,,cher1273-1,5,hiski,hiski,[],,[],,False,False,,1
-cher1273-1-6-1,,cher1273-1,6,suútáli,suútáli,[],,[],,False,False,,1
-cher1273-1-7-1,,cher1273-1,7,kahlkwoóki,kahlkwoóki,[],,[],,False,False,,1
-cher1273-1-8-1,,cher1273-1,8,chaneéla,chaneéla,[],,[],,False,False,,1
-cher1273-1-9-1,,cher1273-1,9,sohneéla,sohneéla,[],,[],,False,False,,1
-cher1273-1-10-1,,cher1273-1,10,skoóhi,skoóhi,[],,[],,False,False,,1
-cher1273-1-11-1,,cher1273-1,11,satu,satu,[],,[],,False,False,,1
-cher1273-1-12-1,,cher1273-1,12,tʰaʔlatu,tʰaʔlatu,[],,[],,False,False,,1
-cher1273-1-13-1,,cher1273-1,13,joʔkaʔtu,joʔkaʔtu,[],,[],,False,False,,1
-cher1273-1-14-1,,cher1273-1,14,nikaʔtu,nikaʔtu,[],,[],,False,False,,1
-cher1273-1-15-1,,cher1273-1,15,sikaʔtu,sikaʔtu,[],,[],,False,False,,1
-cher1273-1-16-1,,cher1273-1,16,talatu,talatu,[],,[],,False,False,,1
-cher1273-1-17-1,,cher1273-1,17,kahlkwatu,kahlkwatu,[],,[],,False,False,,1
-cher1273-1-18-1,,cher1273-1,18,nelatu,nelatu,[],,[],,False,False,,1
-cher1273-1-19-1,,cher1273-1,19,sohnelatu,sohnelatu,[],,[],,False,False,,1
-cher1273-1-20-1,,cher1273-1,20,tʰaʔlaskohi,tʰaʔlaskohi,[],,[],,False,False,,1
-cher1273-1-21-1,,cher1273-1,21,tʰaʔlaskohi saàkwu,tʰaʔlaskohi saàkwu,[],,[],,False,False,,1
-cher1273-1-22-1,,cher1273-1,22,tʰaʔlaskohi taʔli,tʰaʔlaskohi taʔli,[],,[],,False,False,,1
-cher1273-1-23-1,,cher1273-1,23,tʰaʔlaskohi joʔi,tʰaʔlaskohi joʔi,[],,[],,False,False,,1
-cher1273-1-24-1,,cher1273-1,24,tʰaʔlaskohi nvhki,tʰaʔlaskohi nvhki,[],,[],,False,False,,1
-cher1273-1-25-1,,cher1273-1,25,tʰaʔlaskohi hiski,tʰaʔlaskohi hiski,[],,[],,False,False,,1
-cher1273-1-26-1,,cher1273-1,26,tʰaʔlaskohi suútáli,tʰaʔlaskohi suútáli,[],,[],,False,False,,1
-cher1273-1-27-1,,cher1273-1,27,tʰaʔlaskohi kahlkwoóki,tʰaʔlaskohi kahlkwoóki,[],,[],,False,False,,1
-cher1273-1-28-1,,cher1273-1,28,tʰaʔlaskohi chaneéla,tʰaʔlaskohi chaneéla,[],,[],,False,False,,1
-cher1273-1-29-1,,cher1273-1,29,tʰaʔlaskohi sohneéla,tʰaʔlaskohi sohneéla,[],,[],,False,False,,1
-cher1273-1-30-1,,cher1273-1,30,joʔskohi,joʔskohi,[],,[],,False,False,,1
-cher1273-1-40-1,,cher1273-1,40,nvkskohi,nvkskohi,[],,[],,False,False,,1
-cher1273-1-50-1,,cher1273-1,50,hikskohi,hikskohi,[],,[],,False,False,,1
-cher1273-1-60-1,,cher1273-1,60,sutalskohi,sutalskohi,[],,[],,False,False,,1
-cher1273-1-70-1,,cher1273-1,70,kahlikwaskohi,kahlikwaskohi,[],,[],,False,False,,1
-cher1273-1-80-1,,cher1273-1,80,nelskohi,nelskohi,[],,[],,False,False,,1
-cher1273-1-90-1,,cher1273-1,90,sohnelskohi,sohnelskohi,[],,[],,False,False,,1
-cher1273-1-100-1,,cher1273-1,100,skohitskwa,skohitskwa,[],,[],,False,False,,1
-cher1273-1-200-1,,cher1273-1,200,talitskwa,talitskwa,[],,[],,False,False,,1
-cher1273-1-1000-1,,cher1273-1,1000,iyáɡayv́v́li,iyáɡayv́v́li,[],,[],,False,False,,1
+cher1273-1-1-1,,cher1273-1,1,saàkwu,saàkwu,[],,['chan2019'],,False,False,,1
+cher1273-1-2-1,,cher1273-1,2,tʰáʔli,tʰáʔli,[],,['chan2019'],,False,False,,1
+cher1273-1-3-1,,cher1273-1,3,joʔi,joʔi,[],,['chan2019'],,False,False,,1
+cher1273-1-4-1,,cher1273-1,4,nvhki,nvhki,[],,['chan2019'],,False,False,,1
+cher1273-1-5-1,,cher1273-1,5,hiski,hiski,[],,['chan2019'],,False,False,,1
+cher1273-1-6-1,,cher1273-1,6,suútáli,suútáli,[],,['chan2019'],,False,False,,1
+cher1273-1-7-1,,cher1273-1,7,kahlkwoóki,kahlkwoóki,[],,['chan2019'],,False,False,,1
+cher1273-1-8-1,,cher1273-1,8,chaneéla,chaneéla,[],,['chan2019'],,False,False,,1
+cher1273-1-9-1,,cher1273-1,9,sohneéla,sohneéla,[],,['chan2019'],,False,False,,1
+cher1273-1-10-1,,cher1273-1,10,skoóhi,skoóhi,[],,['chan2019'],,False,False,,1
+cher1273-1-11-1,,cher1273-1,11,satu,satu,[],,['chan2019'],,False,False,,1
+cher1273-1-12-1,,cher1273-1,12,tʰaʔlatu,tʰaʔlatu,[],,['chan2019'],,False,False,,1
+cher1273-1-13-1,,cher1273-1,13,joʔkaʔtu,joʔkaʔtu,[],,['chan2019'],,False,False,,1
+cher1273-1-14-1,,cher1273-1,14,nikaʔtu,nikaʔtu,[],,['chan2019'],,False,False,,1
+cher1273-1-15-1,,cher1273-1,15,sikaʔtu,sikaʔtu,[],,['chan2019'],,False,False,,1
+cher1273-1-16-1,,cher1273-1,16,talatu,talatu,[],,['chan2019'],,False,False,,1
+cher1273-1-17-1,,cher1273-1,17,kahlkwatu,kahlkwatu,[],,['chan2019'],,False,False,,1
+cher1273-1-18-1,,cher1273-1,18,nelatu,nelatu,[],,['chan2019'],,False,False,,1
+cher1273-1-19-1,,cher1273-1,19,sohnelatu,sohnelatu,[],,['chan2019'],,False,False,,1
+cher1273-1-20-1,,cher1273-1,20,tʰaʔlaskohi,tʰaʔlaskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-21-1,,cher1273-1,21,tʰaʔlaskohi saàkwu,tʰaʔlaskohi saàkwu,[],,['chan2019'],,False,False,,1
+cher1273-1-22-1,,cher1273-1,22,tʰaʔlaskohi taʔli,tʰaʔlaskohi taʔli,[],,['chan2019'],,False,False,,1
+cher1273-1-23-1,,cher1273-1,23,tʰaʔlaskohi joʔi,tʰaʔlaskohi joʔi,[],,['chan2019'],,False,False,,1
+cher1273-1-24-1,,cher1273-1,24,tʰaʔlaskohi nvhki,tʰaʔlaskohi nvhki,[],,['chan2019'],,False,False,,1
+cher1273-1-25-1,,cher1273-1,25,tʰaʔlaskohi hiski,tʰaʔlaskohi hiski,[],,['chan2019'],,False,False,,1
+cher1273-1-26-1,,cher1273-1,26,tʰaʔlaskohi suútáli,tʰaʔlaskohi suútáli,[],,['chan2019'],,False,False,,1
+cher1273-1-27-1,,cher1273-1,27,tʰaʔlaskohi kahlkwoóki,tʰaʔlaskohi kahlkwoóki,[],,['chan2019'],,False,False,,1
+cher1273-1-28-1,,cher1273-1,28,tʰaʔlaskohi chaneéla,tʰaʔlaskohi chaneéla,[],,['chan2019'],,False,False,,1
+cher1273-1-29-1,,cher1273-1,29,tʰaʔlaskohi sohneéla,tʰaʔlaskohi sohneéla,[],,['chan2019'],,False,False,,1
+cher1273-1-30-1,,cher1273-1,30,joʔskohi,joʔskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-40-1,,cher1273-1,40,nvkskohi,nvkskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-50-1,,cher1273-1,50,hikskohi,hikskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-60-1,,cher1273-1,60,sutalskohi,sutalskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-70-1,,cher1273-1,70,kahlikwaskohi,kahlikwaskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-80-1,,cher1273-1,80,nelskohi,nelskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-90-1,,cher1273-1,90,sohnelskohi,sohnelskohi,[],,['chan2019'],,False,False,,1
+cher1273-1-100-1,,cher1273-1,100,skohitskwa,skohitskwa,[],,['chan2019'],,False,False,,1
+cher1273-1-200-1,,cher1273-1,200,talitskwa,talitskwa,[],,['chan2019'],,False,False,,1
+cher1273-1-1000-1,,cher1273-1,1000,iyáɡayv́v́li,iyáɡayv́v́li,[],,['chan2019'],,False,False,,1

@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ticu1245-2-1-1,,ticu1245-2,1,wü²³xi²,wü²³xi²,[],,[],,False,False,,2
-ticu1245-2-2-1,,ticu1245-2,2,ta⁴xre²,ta⁴xre²,[],,[],,False,False,,2
-ticu1245-2-3-1,,ticu1245-2,3,to³ma¹xe̠⁵xpü̠⁵,to³ma¹xe̠⁵xpü̠⁵,[],,[],,False,False,,2
-ticu1245-2-4-1,,ticu1245-2,4,ã³ɡü²mü⁵cü³,ã³ɡü²mü⁵cü³,[],,[],,False,False,,2
-ticu1245-2-5-1,,ticu1245-2,5,wü²³xi²me̠⁵xpü̠⁵,wü²³xi²me̠⁵xpü̠⁵,[],( litː '' all the hand '' ),[],,False,False,,2
-ticu1245-2-6-1,,ticu1245-2,6,nai¹xme̠⁵wa¹ rü⁵ wü²³xi²,nai¹xme̠⁵wa¹ rü⁵ wü²³xi²,[],"( litː ""the other hand plus one"" )",[],,False,False,,2
-ticu1245-2-7-1,,ticu1245-2,7,nai¹xme̠⁵wa¹ rü⁵ ta⁴xre²,nai¹xme̠⁵wa¹ rü⁵ ta⁴xre²,[],,[],,False,False,,2
-ticu1245-2-8-1,,ticu1245-2,8,nai¹xme̠⁵wa¹ rü⁵ to³ma¹xe̠⁵xpü̠⁵,nai¹xme̠⁵wa¹ rü⁵ to³ma¹xe̠⁵xpü̠⁵,[],,[],,False,False,,2
-ticu1245-2-9-1,,ticu1245-2,9,nai¹xme̠⁵wa¹ rü⁵ ã³ɡü²mü⁵cü³,nai¹xme̠⁵wa¹ rü⁵ ã³ɡü²mü⁵cü³,[],,[],,False,False,,2
-ticu1245-2-10-1,,ticu1245-2,10,ɡu¹xme̠⁵pü̠⁵,ɡu¹xme̠⁵pü̠⁵,[],"( litː ""both of the hands"" )",[],,False,False,,2
-ticu1245-2-11-1,,ticu1245-2,11,ta⁴cu²tü³wa¹ rü⁵ wü²³xi²,ta⁴cu²tü³wa¹ rü⁵ wü²³xi²,[],"( litː ""one on our foot"" )",[],,False,False,,2
-ticu1245-2-15-1,,ticu1245-2,15,ta⁴cu²tü³wa¹ rü⁵ wü²³xi² me̠⁵xpü̠⁵,ta⁴cu²tü³wa¹ rü⁵ wü²³xi² me̠⁵xpü̠⁵,[],,[],,False,False,,2
-ticu1245-2-20-1,,ticu1245-2,20,ɡu̠⁵xcu²tü³,ɡu̠⁵xcu²tü³,[],"( litː ""both our feet'' )",[],,False,False,,2
+ticu1245-2-1-1,,ticu1245-2,1,wü²³xi²,wü²³xi²,[],,['chan2019'],,False,False,,2
+ticu1245-2-2-1,,ticu1245-2,2,ta⁴xre²,ta⁴xre²,[],,['chan2019'],,False,False,,2
+ticu1245-2-3-1,,ticu1245-2,3,to³ma¹xe̠⁵xpü̠⁵,to³ma¹xe̠⁵xpü̠⁵,[],,['chan2019'],,False,False,,2
+ticu1245-2-4-1,,ticu1245-2,4,ã³ɡü²mü⁵cü³,ã³ɡü²mü⁵cü³,[],,['chan2019'],,False,False,,2
+ticu1245-2-5-1,,ticu1245-2,5,wü²³xi²me̠⁵xpü̠⁵,wü²³xi²me̠⁵xpü̠⁵,[],( litː '' all the hand '' ),['chan2019'],,False,False,,2
+ticu1245-2-6-1,,ticu1245-2,6,nai¹xme̠⁵wa¹ rü⁵ wü²³xi²,nai¹xme̠⁵wa¹ rü⁵ wü²³xi²,[],"( litː ""the other hand plus one"" )",['chan2019'],,False,False,,2
+ticu1245-2-7-1,,ticu1245-2,7,nai¹xme̠⁵wa¹ rü⁵ ta⁴xre²,nai¹xme̠⁵wa¹ rü⁵ ta⁴xre²,[],,['chan2019'],,False,False,,2
+ticu1245-2-8-1,,ticu1245-2,8,nai¹xme̠⁵wa¹ rü⁵ to³ma¹xe̠⁵xpü̠⁵,nai¹xme̠⁵wa¹ rü⁵ to³ma¹xe̠⁵xpü̠⁵,[],,['chan2019'],,False,False,,2
+ticu1245-2-9-1,,ticu1245-2,9,nai¹xme̠⁵wa¹ rü⁵ ã³ɡü²mü⁵cü³,nai¹xme̠⁵wa¹ rü⁵ ã³ɡü²mü⁵cü³,[],,['chan2019'],,False,False,,2
+ticu1245-2-10-1,,ticu1245-2,10,ɡu¹xme̠⁵pü̠⁵,ɡu¹xme̠⁵pü̠⁵,[],"( litː ""both of the hands"" )",['chan2019'],,False,False,,2
+ticu1245-2-11-1,,ticu1245-2,11,ta⁴cu²tü³wa¹ rü⁵ wü²³xi²,ta⁴cu²tü³wa¹ rü⁵ wü²³xi²,[],"( litː ""one on our foot"" )",['chan2019'],,False,False,,2
+ticu1245-2-15-1,,ticu1245-2,15,ta⁴cu²tü³wa¹ rü⁵ wü²³xi² me̠⁵xpü̠⁵,ta⁴cu²tü³wa¹ rü⁵ wü²³xi² me̠⁵xpü̠⁵,[],,['chan2019'],,False,False,,2
+ticu1245-2-20-1,,ticu1245-2,20,ɡu̠⁵xcu²tü³,ɡu̠⁵xcu²tü³,[],"( litː ""both our feet'' )",['chan2019'],,False,False,,2

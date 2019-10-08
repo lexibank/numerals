@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xxxx0035-1-1-1,,xxxx0035-1,1,miʔ.təm²² ȶa²²,miʔ.təm²² ȶa²²,[],,[],,False,False,,3
-xxxx0035-1-2-1,,xxxx0035-1,2,miʔ.təm²² ə.ɲi³³,miʔ.təm²² ə.ɲi³³,[],,[],,False,False,,3
-xxxx0035-1-3-1,,xxxx0035-1,3,miʔ.təm²² ə.ɹəm³³,miʔ.təm²² ə.ɹəm³³,[],,[],,False,False,,3
-xxxx0035-1-4-1,,xxxx0035-1,4,miʔ.təm²² ə.bi³³,miʔ.təm²² ə.bi³³,[],,[],,False,False,,3
-xxxx0035-1-5-1,,xxxx0035-1,5,miʔ.təm²² ə.ŋɑ³³,miʔ.təm²² ə.ŋɑ³³,[],,[],,False,False,,3
-xxxx0035-1-6-1,,xxxx0035-1,6,miʔ.təm²² ə.ɡok,miʔ.təm²² ə.ɡok,[],,[],,False,False,,3
-xxxx0035-1-7-1,,xxxx0035-1,7,miʔ.təm²² ə.nət,miʔ.təm²² ə.nət,[],,[],,False,False,,3
-xxxx0035-1-8-1,,xxxx0035-1,8,miʔ.təm²² ə.ɕət,miʔ.təm²² ə.ɕət,[],,[],,False,False,,3
-xxxx0035-1-9-1,,xxxx0035-1,9,miʔ.təm²² ə.ku³³,miʔ.təm²² ə.ku³³,[],,[],,False,False,,3
-xxxx0035-1-10-1,,xxxx0035-1,10,miʔ.təm²² bən³³,miʔ.təm²² bən³³,[],,[],,False,False,,3
-xxxx0035-1-100-1,,xxxx0035-1,100,miʔ.təm²² tʰa²²,miʔ.təm²² tʰa²²,[],,[],,False,False,,3
-xxxx0035-1-1000-1,,xxxx0035-1,1000,miʔ.təm²² kʰo³³.ȶa²²,miʔ.təm²² kʰo³³.ȶa²²,[],,[],,False,False,,3
+xxxx0035-1-1-1,,xxxx0035-1,1,miʔ.təm²² ȶa²²,miʔ.təm²² ȶa²²,[],,['chan2019'],,False,False,,3
+xxxx0035-1-2-1,,xxxx0035-1,2,miʔ.təm²² ə.ɲi³³,miʔ.təm²² ə.ɲi³³,[],,['chan2019'],,False,False,,3
+xxxx0035-1-3-1,,xxxx0035-1,3,miʔ.təm²² ə.ɹəm³³,miʔ.təm²² ə.ɹəm³³,[],,['chan2019'],,False,False,,3
+xxxx0035-1-4-1,,xxxx0035-1,4,miʔ.təm²² ə.bi³³,miʔ.təm²² ə.bi³³,[],,['chan2019'],,False,False,,3
+xxxx0035-1-5-1,,xxxx0035-1,5,miʔ.təm²² ə.ŋɑ³³,miʔ.təm²² ə.ŋɑ³³,[],,['chan2019'],,False,False,,3
+xxxx0035-1-6-1,,xxxx0035-1,6,miʔ.təm²² ə.ɡok,miʔ.təm²² ə.ɡok,[],,['chan2019'],,False,False,,3
+xxxx0035-1-7-1,,xxxx0035-1,7,miʔ.təm²² ə.nət,miʔ.təm²² ə.nət,[],,['chan2019'],,False,False,,3
+xxxx0035-1-8-1,,xxxx0035-1,8,miʔ.təm²² ə.ɕət,miʔ.təm²² ə.ɕət,[],,['chan2019'],,False,False,,3
+xxxx0035-1-9-1,,xxxx0035-1,9,miʔ.təm²² ə.ku³³,miʔ.təm²² ə.ku³³,[],,['chan2019'],,False,False,,3
+xxxx0035-1-10-1,,xxxx0035-1,10,miʔ.təm²² bən³³,miʔ.təm²² bən³³,[],,['chan2019'],,False,False,,3
+xxxx0035-1-100-1,,xxxx0035-1,100,miʔ.təm²² tʰa²²,miʔ.təm²² tʰa²²,[],,['chan2019'],,False,False,,3
+xxxx0035-1-1000-1,,xxxx0035-1,1000,miʔ.təm²² kʰo³³.ȶa²²,miʔ.təm²² kʰo³³.ȶa²²,[],,['chan2019'],,False,False,,3

@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dhar1247-1-1-1,,dhar1247-1,1,kayanu,kayanu,[],,[],,False,False,,1
-dhar1247-1-2-1,,dhar1247-1,2,kutharra,kutharra,[],,[],,False,False,,1
-dhar1247-1-3-1,,dhar1247-1,3,jarrku,jarrku,[],,[],,False,False,,1
+dhar1247-1-1-1,,dhar1247-1,1,kayanu,kayanu,[],,['chan2019'],,False,False,,1
+dhar1247-1-2-1,,dhar1247-1,2,kutharra,kutharra,[],,['chan2019'],,False,False,,1
+dhar1247-1-3-1,,dhar1247-1,3,jarrku,jarrku,[],,['chan2019'],,False,False,,1

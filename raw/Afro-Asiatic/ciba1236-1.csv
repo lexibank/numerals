@@ -1,34 +1,34 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ciba1236-1-1-1,,ciba1236-1,1,tə̀ŋ,tə̀ŋ,[],,[],,False,False,,1
-ciba1236-1-1-2,,ciba1236-1,1,patù,patù,[],,[],,False,False,,1
-ciba1236-1-1-3,,ciba1236-1,1,dukù,dukù,[],,[],,False,False,,1
-ciba1236-1-2-1,,ciba1236-1,2,sudæ̀,sudæ̀,[],,[],,False,False,,1
-ciba1236-1-3-1,,ciba1236-1,3,makùr̃,makùr̃,[],,[],,False,False,,1
-ciba1236-1-4-1,,ciba1236-1,4,fwòɗu,fwòɗu,[],,[],,False,False,,1
-ciba1236-1-5-1,,ciba1236-1,5,tufù,tufù,[],,[],,False,False,,1
-ciba1236-1-6-1,,ciba1236-1,6,ŋ̀kwà,ŋ̀kwà,[],,[],,False,False,,1
-ciba1236-1-7-1,,ciba1236-1,7,murɨfwæ̀,murɨfwæ̀,[],,[],,False,False,,1
-ciba1236-1-8-1,,ciba1236-1,8,ntsisù,ntsisù,[],,[],,False,False,,1
-ciba1236-1-9-1,,ciba1236-1,9,mɨðæ,mɨðæ,[],,[],,False,False,,1
-ciba1236-1-10-1,,ciba1236-1,10,kuma,kuma,[],,[],,False,False,,1
-ciba1236-1-11-1,,ciba1236-1,11,kum kà sutə̀ŋ,kum kà sutə̀ŋ,[],,[],,False,False,,1
-ciba1236-1-12-1,,ciba1236-1,12,kum kà pu sudæ̀,kum kà pu sudæ̀,[],,[],,False,False,,1
-ciba1236-1-13-1,,ciba1236-1,13,kum kà pu makùr̃,kum kà pu makùr̃,[],,[],,False,False,,1
-ciba1236-1-14-1,,ciba1236-1,14,kum kà pu fwòɗu,kum kà pu fwòɗu,[],,[],,False,False,,1
-ciba1236-1-15-1,,ciba1236-1,15,kum kà pu tufù,kum kà pu tufù,[],,[],,False,False,,1
-ciba1236-1-16-1,,ciba1236-1,16,kum kà pu ŋ̀kwà,kum kà pu ŋ̀kwà,[],,[],,False,False,,1
-ciba1236-1-17-1,,ciba1236-1,17,kum kà pu murɨfwæ̀,kum kà pu murɨfwæ̀,[],,[],,False,False,,1
-ciba1236-1-18-1,,ciba1236-1,18,kum kà pu ntsisù,kum kà pu ntsisù,[],,[],,False,False,,1
-ciba1236-1-19-1,,ciba1236-1,19,kum kà pu mɨðæ,kum kà pu mɨðæ,[],,[],,False,False,,1
-ciba1236-1-20-1,,ciba1236-1,20,sùɬani,sùɬani,[],,[],,False,False,,1
-ciba1236-1-21-1,,ciba1236-1,21,sùɬani kà sutə̀n,sùɬani kà sutə̀n,[],,[],,False,False,,1
-ciba1236-1-24-1,,ciba1236-1,24,sùɬani kà pu fwòɗu,sùɬani kà pu fwòɗu,[],,[],,False,False,,1
-ciba1236-1-25-1,,ciba1236-1,25,sùɬani kà pu tufù,sùɬani kà pu tufù,[],,[],,False,False,,1
-ciba1236-1-30-1,,ciba1236-1,30,makùr̃ ɬani,makùr̃ ɬani,[],,[],,False,False,,1
-ciba1236-1-40-1,,ciba1236-1,40,fwòɗ(ù) ɬani,fwòɗ(ù) ɬani,[],,[],,False,False,,1
-ciba1236-1-50-1,,ciba1236-1,50,tufù ɬani,tufù ɬani,[],,[],,False,False,,1
-ciba1236-1-60-1,,ciba1236-1,60,ŋ̀kwà ɬani,ŋ̀kwà ɬani,[],,[],,False,False,,1
-ciba1236-1-70-1,,ciba1236-1,70,murɨfwæ̀ ɬani,murɨfwæ̀ ɬani,[],,[],,False,False,,1
-ciba1236-1-80-1,,ciba1236-1,80,ntsisù ɬani,ntsisù ɬani,[],,[],,False,False,,1
-ciba1236-1-90-1,,ciba1236-1,90,mɨðæ ɬani,mɨðæ ɬani,[],,[],,False,False,,1
-ciba1236-1-100-1,,ciba1236-1,100,kûm ɬani,kûm ɬani,[],,[],,False,False,,1
+ciba1236-1-1-1,,ciba1236-1,1,tə̀ŋ,tə̀ŋ,[],,['chan2019'],,False,False,,1
+ciba1236-1-1-2,,ciba1236-1,1,patù,patù,[],,['chan2019'],,False,False,,1
+ciba1236-1-1-3,,ciba1236-1,1,dukù,dukù,[],,['chan2019'],,False,False,,1
+ciba1236-1-2-1,,ciba1236-1,2,sudæ̀,sudæ̀,[],,['chan2019'],,False,False,,1
+ciba1236-1-3-1,,ciba1236-1,3,makùr̃,makùr̃,[],,['chan2019'],,False,False,,1
+ciba1236-1-4-1,,ciba1236-1,4,fwòɗu,fwòɗu,[],,['chan2019'],,False,False,,1
+ciba1236-1-5-1,,ciba1236-1,5,tufù,tufù,[],,['chan2019'],,False,False,,1
+ciba1236-1-6-1,,ciba1236-1,6,ŋ̀kwà,ŋ̀kwà,[],,['chan2019'],,False,False,,1
+ciba1236-1-7-1,,ciba1236-1,7,murɨfwæ̀,murɨfwæ̀,[],,['chan2019'],,False,False,,1
+ciba1236-1-8-1,,ciba1236-1,8,ntsisù,ntsisù,[],,['chan2019'],,False,False,,1
+ciba1236-1-9-1,,ciba1236-1,9,mɨðæ,mɨðæ,[],,['chan2019'],,False,False,,1
+ciba1236-1-10-1,,ciba1236-1,10,kuma,kuma,[],,['chan2019'],,False,False,,1
+ciba1236-1-11-1,,ciba1236-1,11,kum kà sutə̀ŋ,kum kà sutə̀ŋ,[],,['chan2019'],,False,False,,1
+ciba1236-1-12-1,,ciba1236-1,12,kum kà pu sudæ̀,kum kà pu sudæ̀,[],,['chan2019'],,False,False,,1
+ciba1236-1-13-1,,ciba1236-1,13,kum kà pu makùr̃,kum kà pu makùr̃,[],,['chan2019'],,False,False,,1
+ciba1236-1-14-1,,ciba1236-1,14,kum kà pu fwòɗu,kum kà pu fwòɗu,[],,['chan2019'],,False,False,,1
+ciba1236-1-15-1,,ciba1236-1,15,kum kà pu tufù,kum kà pu tufù,[],,['chan2019'],,False,False,,1
+ciba1236-1-16-1,,ciba1236-1,16,kum kà pu ŋ̀kwà,kum kà pu ŋ̀kwà,[],,['chan2019'],,False,False,,1
+ciba1236-1-17-1,,ciba1236-1,17,kum kà pu murɨfwæ̀,kum kà pu murɨfwæ̀,[],,['chan2019'],,False,False,,1
+ciba1236-1-18-1,,ciba1236-1,18,kum kà pu ntsisù,kum kà pu ntsisù,[],,['chan2019'],,False,False,,1
+ciba1236-1-19-1,,ciba1236-1,19,kum kà pu mɨðæ,kum kà pu mɨðæ,[],,['chan2019'],,False,False,,1
+ciba1236-1-20-1,,ciba1236-1,20,sùɬani,sùɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-21-1,,ciba1236-1,21,sùɬani kà sutə̀n,sùɬani kà sutə̀n,[],,['chan2019'],,False,False,,1
+ciba1236-1-24-1,,ciba1236-1,24,sùɬani kà pu fwòɗu,sùɬani kà pu fwòɗu,[],,['chan2019'],,False,False,,1
+ciba1236-1-25-1,,ciba1236-1,25,sùɬani kà pu tufù,sùɬani kà pu tufù,[],,['chan2019'],,False,False,,1
+ciba1236-1-30-1,,ciba1236-1,30,makùr̃ ɬani,makùr̃ ɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-40-1,,ciba1236-1,40,fwòɗ(ù) ɬani,fwòɗ(ù) ɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-50-1,,ciba1236-1,50,tufù ɬani,tufù ɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-60-1,,ciba1236-1,60,ŋ̀kwà ɬani,ŋ̀kwà ɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-70-1,,ciba1236-1,70,murɨfwæ̀ ɬani,murɨfwæ̀ ɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-80-1,,ciba1236-1,80,ntsisù ɬani,ntsisù ɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-90-1,,ciba1236-1,90,mɨðæ ɬani,mɨðæ ɬani,[],,['chan2019'],,False,False,,1
+ciba1236-1-100-1,,ciba1236-1,100,kûm ɬani,kûm ɬani,[],,['chan2019'],,False,False,,1

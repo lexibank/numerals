@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sout3222-3-1-1,,sout3222-3,1,ndáŋ,ndáŋ,[],,[],,False,False,,2
-sout3222-3-2-1,,sout3222-3,2,bwà,bwà,[],,[],,False,False,,2
-sout3222-3-3-1,,sout3222-3,3,tàr,tàr,[],,[],,False,False,,2
-sout3222-3-4-1,,sout3222-3,4,nár,nár,[],,[],,False,False,,2
-sout3222-3-5-1,,sout3222-3,5,mɔ̀rkɔ́,mɔ̀rkɔ́,[],,[],,False,False,,2
-sout3222-3-6-1,,sout3222-3,6,mɔ̀rkɔ́-zàŋá-ndáŋ,mɔ̀rkɔ́-zàŋá-ndáŋ,[],( 5 + 1 ),[],,False,False,,2
-sout3222-3-7-1,,sout3222-3,7,mɔ̀rkɔ́-zàŋá-bwà,mɔ̀rkɔ́-zàŋá-bwà,[],( 5 + 2 ),[],,False,False,,2
-sout3222-3-8-1,,sout3222-3,8,mɔ̀rkɔ́-zàŋá-tàr,mɔ̀rkɔ́-zàŋá-tàr,[],( 5 + 3 ),[],,False,False,,2
-sout3222-3-9-1,,sout3222-3,9,mɔ̀rkɔ́-zàŋá-nár,mɔ̀rkɔ́-zàŋá-nár,[],( 5 + 4 ),[],,False,False,,2
-sout3222-3-10-1,,sout3222-3,10,ɓúkɔ́,ɓúkɔ́,[],,[],,False,False,,2
-sout3222-3-11-1,,sout3222-3,11,ɓúkɔ́-ɡ͡balá-ndáŋ,ɓúkɔ́-ɡ͡balá-ndáŋ,[],,[],,False,False,,2
-sout3222-3-12-1,,sout3222-3,12,ɓúkɔ́-ɡ͡balá-bwà,ɓúkɔ́-ɡ͡balá-bwà,[],,[],,False,False,,2
-sout3222-3-13-1,,sout3222-3,13,ɓúkɔ́-ɡ͡balá-tàr,ɓúkɔ́-ɡ͡balá-tàr,[],,[],,False,False,,2
-sout3222-3-14-1,,sout3222-3,14,ɓúkɔ́-ɡ͡balá-nár,ɓúkɔ́-ɡ͡balá-nár,[],,[],,False,False,,2
-sout3222-3-15-1,,sout3222-3,15,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́,[],,[],,False,False,,2
-sout3222-3-16-1,,sout3222-3,16,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,[],,[],,False,False,,2
-sout3222-3-17-1,,sout3222-3,17,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,[],,[],,False,False,,2
-sout3222-3-18-1,,sout3222-3,18,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,[],,[],,False,False,,2
-sout3222-3-19-1,,sout3222-3,19,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,[],,[],,False,False,,2
-sout3222-3-20-1,,sout3222-3,20,ɓúkɔ́a-bwà,ɓúkɔ́a-bwà,[],,[],,False,False,,2
-sout3222-3-21-1,,sout3222-3,21,ɓúkɔ́a-bwà-ɡ͡balá-ndáŋ,ɓúkɔ́a-bwà-ɡ͡balá-ndáŋ,[],,[],,False,False,,2
-sout3222-3-22-1,,sout3222-3,22,ɓúkɔ́a-bwà-ɡ͡balá-bwà,ɓúkɔ́a-bwà-ɡ͡balá-bwà,[],,[],,False,False,,2
-sout3222-3-23-1,,sout3222-3,23,ɓúkɔ́a-bwà-ɡ͡balá-tàr,ɓúkɔ́a-bwà-ɡ͡balá-tàr,[],,[],,False,False,,2
-sout3222-3-24-1,,sout3222-3,24,ɓúkɔ́a-bwà-ɡ͡balá-nár,ɓúkɔ́a-bwà-ɡ͡balá-nár,[],,[],,False,False,,2
-sout3222-3-25-1,,sout3222-3,25,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́,[],,[],,False,False,,2
-sout3222-3-26-1,,sout3222-3,26,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,[],,[],,False,False,,2
-sout3222-3-27-1,,sout3222-3,27,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,[],,[],,False,False,,2
-sout3222-3-28-1,,sout3222-3,28,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,[],,[],,False,False,,2
-sout3222-3-29-1,,sout3222-3,29,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,[],,[],,False,False,,2
-sout3222-3-30-1,,sout3222-3,30,ɓúkɔ́a-tàr,ɓúkɔ́a-tàr,[],,[],,False,False,,2
-sout3222-3-40-1,,sout3222-3,40,ɓúkɔ́a-nár,ɓúkɔ́a-nár,[],,[],,False,False,,2
-sout3222-3-50-1,,sout3222-3,50,ɓúkɔ́a-mɔ̀rkɔ́,ɓúkɔ́a-mɔ̀rkɔ́,[],,[],,False,False,,2
-sout3222-3-60-1,,sout3222-3,60,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-ndáŋ,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-ndáŋ,[],,[],,False,False,,2
-sout3222-3-70-1,,sout3222-3,70,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-bwà,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-bwà,[],,[],,False,False,,2
-sout3222-3-80-1,,sout3222-3,80,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-tàr,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-tàr,[],,[],,False,False,,2
-sout3222-3-90-1,,sout3222-3,90,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-nár,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-nár,[],,[],,False,False,,2
-sout3222-3-100-1,,sout3222-3,100,ɡɔ́mmàý,ɡɔ́mmàý,[],,[],,False,False,,2
-sout3222-3-200-1,,sout3222-3,200,ɡɔ́mmàý-bwa,ɡɔ́mmàý-bwa,[],,[],,False,False,,2
-sout3222-3-1000-1,,sout3222-3,1000,tɔ́maỳ,tɔ́maỳ,[],,[],,False,False,,2
-sout3222-3-2000-1,,sout3222-3,2000,tɔ́may bwà,tɔ́may bwà,[],,[],,False,False,,2
+sout3222-3-1-1,,sout3222-3,1,ndáŋ,ndáŋ,[],,['chan2019'],,False,False,,2
+sout3222-3-2-1,,sout3222-3,2,bwà,bwà,[],,['chan2019'],,False,False,,2
+sout3222-3-3-1,,sout3222-3,3,tàr,tàr,[],,['chan2019'],,False,False,,2
+sout3222-3-4-1,,sout3222-3,4,nár,nár,[],,['chan2019'],,False,False,,2
+sout3222-3-5-1,,sout3222-3,5,mɔ̀rkɔ́,mɔ̀rkɔ́,[],,['chan2019'],,False,False,,2
+sout3222-3-6-1,,sout3222-3,6,mɔ̀rkɔ́-zàŋá-ndáŋ,mɔ̀rkɔ́-zàŋá-ndáŋ,[],( 5 + 1 ),['chan2019'],,False,False,,2
+sout3222-3-7-1,,sout3222-3,7,mɔ̀rkɔ́-zàŋá-bwà,mɔ̀rkɔ́-zàŋá-bwà,[],( 5 + 2 ),['chan2019'],,False,False,,2
+sout3222-3-8-1,,sout3222-3,8,mɔ̀rkɔ́-zàŋá-tàr,mɔ̀rkɔ́-zàŋá-tàr,[],( 5 + 3 ),['chan2019'],,False,False,,2
+sout3222-3-9-1,,sout3222-3,9,mɔ̀rkɔ́-zàŋá-nár,mɔ̀rkɔ́-zàŋá-nár,[],( 5 + 4 ),['chan2019'],,False,False,,2
+sout3222-3-10-1,,sout3222-3,10,ɓúkɔ́,ɓúkɔ́,[],,['chan2019'],,False,False,,2
+sout3222-3-11-1,,sout3222-3,11,ɓúkɔ́-ɡ͡balá-ndáŋ,ɓúkɔ́-ɡ͡balá-ndáŋ,[],,['chan2019'],,False,False,,2
+sout3222-3-12-1,,sout3222-3,12,ɓúkɔ́-ɡ͡balá-bwà,ɓúkɔ́-ɡ͡balá-bwà,[],,['chan2019'],,False,False,,2
+sout3222-3-13-1,,sout3222-3,13,ɓúkɔ́-ɡ͡balá-tàr,ɓúkɔ́-ɡ͡balá-tàr,[],,['chan2019'],,False,False,,2
+sout3222-3-14-1,,sout3222-3,14,ɓúkɔ́-ɡ͡balá-nár,ɓúkɔ́-ɡ͡balá-nár,[],,['chan2019'],,False,False,,2
+sout3222-3-15-1,,sout3222-3,15,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́,[],,['chan2019'],,False,False,,2
+sout3222-3-16-1,,sout3222-3,16,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,[],,['chan2019'],,False,False,,2
+sout3222-3-17-1,,sout3222-3,17,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,[],,['chan2019'],,False,False,,2
+sout3222-3-18-1,,sout3222-3,18,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,[],,['chan2019'],,False,False,,2
+sout3222-3-19-1,,sout3222-3,19,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,ɓúkɔ́-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,[],,['chan2019'],,False,False,,2
+sout3222-3-20-1,,sout3222-3,20,ɓúkɔ́a-bwà,ɓúkɔ́a-bwà,[],,['chan2019'],,False,False,,2
+sout3222-3-21-1,,sout3222-3,21,ɓúkɔ́a-bwà-ɡ͡balá-ndáŋ,ɓúkɔ́a-bwà-ɡ͡balá-ndáŋ,[],,['chan2019'],,False,False,,2
+sout3222-3-22-1,,sout3222-3,22,ɓúkɔ́a-bwà-ɡ͡balá-bwà,ɓúkɔ́a-bwà-ɡ͡balá-bwà,[],,['chan2019'],,False,False,,2
+sout3222-3-23-1,,sout3222-3,23,ɓúkɔ́a-bwà-ɡ͡balá-tàr,ɓúkɔ́a-bwà-ɡ͡balá-tàr,[],,['chan2019'],,False,False,,2
+sout3222-3-24-1,,sout3222-3,24,ɓúkɔ́a-bwà-ɡ͡balá-nár,ɓúkɔ́a-bwà-ɡ͡balá-nár,[],,['chan2019'],,False,False,,2
+sout3222-3-25-1,,sout3222-3,25,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́,[],,['chan2019'],,False,False,,2
+sout3222-3-26-1,,sout3222-3,26,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-ndáŋ,[],,['chan2019'],,False,False,,2
+sout3222-3-27-1,,sout3222-3,27,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-bwà,[],,['chan2019'],,False,False,,2
+sout3222-3-28-1,,sout3222-3,28,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-tàr,[],,['chan2019'],,False,False,,2
+sout3222-3-29-1,,sout3222-3,29,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,ɓúkɔ́a-bwà-ɡ͡balá-mɔ̀rkɔ́-zàŋá-nár,[],,['chan2019'],,False,False,,2
+sout3222-3-30-1,,sout3222-3,30,ɓúkɔ́a-tàr,ɓúkɔ́a-tàr,[],,['chan2019'],,False,False,,2
+sout3222-3-40-1,,sout3222-3,40,ɓúkɔ́a-nár,ɓúkɔ́a-nár,[],,['chan2019'],,False,False,,2
+sout3222-3-50-1,,sout3222-3,50,ɓúkɔ́a-mɔ̀rkɔ́,ɓúkɔ́a-mɔ̀rkɔ́,[],,['chan2019'],,False,False,,2
+sout3222-3-60-1,,sout3222-3,60,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-ndáŋ,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-ndáŋ,[],,['chan2019'],,False,False,,2
+sout3222-3-70-1,,sout3222-3,70,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-bwà,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-bwà,[],,['chan2019'],,False,False,,2
+sout3222-3-80-1,,sout3222-3,80,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-tàr,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-tàr,[],,['chan2019'],,False,False,,2
+sout3222-3-90-1,,sout3222-3,90,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-nár,ɓúkɔ́a-mɔ̀rkɔ́-zàŋá-nár,[],,['chan2019'],,False,False,,2
+sout3222-3-100-1,,sout3222-3,100,ɡɔ́mmàý,ɡɔ́mmàý,[],,['chan2019'],,False,False,,2
+sout3222-3-200-1,,sout3222-3,200,ɡɔ́mmàý-bwa,ɡɔ́mmàý-bwa,[],,['chan2019'],,False,False,,2
+sout3222-3-1000-1,,sout3222-3,1000,tɔ́maỳ,tɔ́maỳ,[],,['chan2019'],,False,False,,2
+sout3222-3-2000-1,,sout3222-3,2000,tɔ́may bwà,tɔ́may bwà,[],,['chan2019'],,False,False,,2

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lugu1238-1-1-1,,lugu1238-1,1,yumwe,yumwe,[],,[],,False,False,,1
-lugu1238-1-2-1,,lugu1238-1,2,weli,weli,[],,[],,False,False,,1
-lugu1238-1-3-1,,lugu1238-1,3,wadatu,wadatu,[],,[],,False,False,,1
-lugu1238-1-4-1,,lugu1238-1,4,wane,wane,[],,[],,False,False,,1
-lugu1238-1-5-1,,lugu1238-1,5,watano,watano,[],,[],,False,False,,1
-lugu1238-1-6-1,,lugu1238-1,6,sita,sita,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-7-1,,lugu1238-1,7,saba,saba,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-8-1,,lugu1238-1,8,wanane,wanane,[],,[],,False,False,,1
-lugu1238-1-9-1,,lugu1238-1,9,tisa,tisa,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-10-1,,lugu1238-1,10,kumi,kumi,[],,[],,False,False,,1
-lugu1238-1-11-1,,lugu1238-1,11,kumi na yumwe,kumi na yumwe,[],,[],,False,False,,1
-lugu1238-1-12-1,,lugu1238-1,12,kumi na weli,kumi na weli,[],,[],,False,False,,1
-lugu1238-1-13-1,,lugu1238-1,13,kumi na wadatu,kumi na wadatu,[],,[],,False,False,,1
-lugu1238-1-14-1,,lugu1238-1,14,kumi na wane,kumi na wane,[],,[],,False,False,,1
-lugu1238-1-15-1,,lugu1238-1,15,kumi na watano,kumi na watano,[],,[],,False,False,,1
-lugu1238-1-16-1,,lugu1238-1,16,kumi na sita,kumi na sita,[],,[],,False,False,,1
-lugu1238-1-17-1,,lugu1238-1,17,kumi na saba,kumi na saba,[],,[],,False,False,,1
-lugu1238-1-18-1,,lugu1238-1,18,kumi na wanane,kumi na wanane,[],,[],,False,False,,1
-lugu1238-1-19-1,,lugu1238-1,19,kumi na tisa,kumi na tisa,[],,[],,False,False,,1
-lugu1238-1-20-1,,lugu1238-1,20,iʃilini,iʃilini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-21-1,,lugu1238-1,21,iʃilini na yumwe,iʃilini na yumwe,[],,[],,False,False,,1
-lugu1238-1-22-1,,lugu1238-1,22,iʃilini na weli,iʃilini na weli,[],,[],,False,False,,1
-lugu1238-1-23-1,,lugu1238-1,23,iʃilini na wadatu,iʃilini na wadatu,[],,[],,False,False,,1
-lugu1238-1-24-1,,lugu1238-1,24,iʃilini na wane,iʃilini na wane,[],,[],,False,False,,1
-lugu1238-1-25-1,,lugu1238-1,25,iʃilini na watano,iʃilini na watano,[],,[],,False,False,,1
-lugu1238-1-26-1,,lugu1238-1,26,iʃilini na sita,iʃilini na sita,[],,[],,False,False,,1
-lugu1238-1-27-1,,lugu1238-1,27,iʃilini na saba,iʃilini na saba,[],,[],,False,False,,1
-lugu1238-1-28-1,,lugu1238-1,28,iʃilini na wanane,iʃilini na wanane,[],,[],,False,False,,1
-lugu1238-1-29-1,,lugu1238-1,29,iʃilini na tisa,iʃilini na tisa,[],,[],,False,False,,1
-lugu1238-1-30-1,,lugu1238-1,30,θelasini,θelasini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-40-1,,lugu1238-1,40,arobaini,arobaini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-50-1,,lugu1238-1,50,hamsini,hamsini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-60-1,,lugu1238-1,60,sitini,sitini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-70-1,,lugu1238-1,70,sabini,sabini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-80-1,,lugu1238-1,80,θemanini,θemanini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-90-1,,lugu1238-1,90,tisini,tisini,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-100-1,,lugu1238-1,100,mia,mia,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-200-1,,lugu1238-1,200,mia mbili,mia mbili,[],,[],,False,False,,1
-lugu1238-1-1000-1,,lugu1238-1,1000,elfu,elfu,[],( < Kiswahili < Arabic ),[],,True,False,,1
-lugu1238-1-2000-1,,lugu1238-1,2000,elfu mbili,elfu mbili,[],,[],,False,False,,1
+lugu1238-1-1-1,,lugu1238-1,1,yumwe,yumwe,[],,['chan2019'],,False,False,,1
+lugu1238-1-2-1,,lugu1238-1,2,weli,weli,[],,['chan2019'],,False,False,,1
+lugu1238-1-3-1,,lugu1238-1,3,wadatu,wadatu,[],,['chan2019'],,False,False,,1
+lugu1238-1-4-1,,lugu1238-1,4,wane,wane,[],,['chan2019'],,False,False,,1
+lugu1238-1-5-1,,lugu1238-1,5,watano,watano,[],,['chan2019'],,False,False,,1
+lugu1238-1-6-1,,lugu1238-1,6,sita,sita,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-7-1,,lugu1238-1,7,saba,saba,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-8-1,,lugu1238-1,8,wanane,wanane,[],,['chan2019'],,False,False,,1
+lugu1238-1-9-1,,lugu1238-1,9,tisa,tisa,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-10-1,,lugu1238-1,10,kumi,kumi,[],,['chan2019'],,False,False,,1
+lugu1238-1-11-1,,lugu1238-1,11,kumi na yumwe,kumi na yumwe,[],,['chan2019'],,False,False,,1
+lugu1238-1-12-1,,lugu1238-1,12,kumi na weli,kumi na weli,[],,['chan2019'],,False,False,,1
+lugu1238-1-13-1,,lugu1238-1,13,kumi na wadatu,kumi na wadatu,[],,['chan2019'],,False,False,,1
+lugu1238-1-14-1,,lugu1238-1,14,kumi na wane,kumi na wane,[],,['chan2019'],,False,False,,1
+lugu1238-1-15-1,,lugu1238-1,15,kumi na watano,kumi na watano,[],,['chan2019'],,False,False,,1
+lugu1238-1-16-1,,lugu1238-1,16,kumi na sita,kumi na sita,[],,['chan2019'],,False,False,,1
+lugu1238-1-17-1,,lugu1238-1,17,kumi na saba,kumi na saba,[],,['chan2019'],,False,False,,1
+lugu1238-1-18-1,,lugu1238-1,18,kumi na wanane,kumi na wanane,[],,['chan2019'],,False,False,,1
+lugu1238-1-19-1,,lugu1238-1,19,kumi na tisa,kumi na tisa,[],,['chan2019'],,False,False,,1
+lugu1238-1-20-1,,lugu1238-1,20,iʃilini,iʃilini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-21-1,,lugu1238-1,21,iʃilini na yumwe,iʃilini na yumwe,[],,['chan2019'],,False,False,,1
+lugu1238-1-22-1,,lugu1238-1,22,iʃilini na weli,iʃilini na weli,[],,['chan2019'],,False,False,,1
+lugu1238-1-23-1,,lugu1238-1,23,iʃilini na wadatu,iʃilini na wadatu,[],,['chan2019'],,False,False,,1
+lugu1238-1-24-1,,lugu1238-1,24,iʃilini na wane,iʃilini na wane,[],,['chan2019'],,False,False,,1
+lugu1238-1-25-1,,lugu1238-1,25,iʃilini na watano,iʃilini na watano,[],,['chan2019'],,False,False,,1
+lugu1238-1-26-1,,lugu1238-1,26,iʃilini na sita,iʃilini na sita,[],,['chan2019'],,False,False,,1
+lugu1238-1-27-1,,lugu1238-1,27,iʃilini na saba,iʃilini na saba,[],,['chan2019'],,False,False,,1
+lugu1238-1-28-1,,lugu1238-1,28,iʃilini na wanane,iʃilini na wanane,[],,['chan2019'],,False,False,,1
+lugu1238-1-29-1,,lugu1238-1,29,iʃilini na tisa,iʃilini na tisa,[],,['chan2019'],,False,False,,1
+lugu1238-1-30-1,,lugu1238-1,30,θelasini,θelasini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-40-1,,lugu1238-1,40,arobaini,arobaini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-50-1,,lugu1238-1,50,hamsini,hamsini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-60-1,,lugu1238-1,60,sitini,sitini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-70-1,,lugu1238-1,70,sabini,sabini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-80-1,,lugu1238-1,80,θemanini,θemanini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-90-1,,lugu1238-1,90,tisini,tisini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-100-1,,lugu1238-1,100,mia,mia,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-200-1,,lugu1238-1,200,mia mbili,mia mbili,[],,['chan2019'],,False,False,,1
+lugu1238-1-1000-1,,lugu1238-1,1000,elfu,elfu,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+lugu1238-1-2000-1,,lugu1238-1,2000,elfu mbili,elfu mbili,[],,['chan2019'],,False,False,,1

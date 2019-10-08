@@ -1,23 +1,23 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-duwe1237-1-1-1,,duwe1237-1,1,taɡine,taɡine,[],,[],,False,False,,1
-duwe1237-1-1-2,,duwe1237-1,1,taine,taine,[],,[],,False,False,,1
-duwe1237-1-1-3,,duwe1237-1,1,ta,ta,[],,[],,False,False,,1
-duwe1237-1-2-1,,duwe1237-1,2,seik,seik,[],,[],,False,False,,1
-duwe1237-1-3-1,,duwe1237-1,3,seik ba ta,seik ba ta,[],( 2 + 1),[],,False,False,,1
-duwe1237-1-4-1,,duwe1237-1,4,seik ba seik,seik ba seik,[],( 2 + 2 ),[],,False,False,,1
-duwe1237-1-5-1,,duwe1237-1,5,limaŋɡa arinaŋ,limaŋɡa arinaŋ,[],( litː one hand ),[],,False,False,,1
-duwe1237-1-6-1,,duwe1237-1,6,limaŋɡa arinaŋ anau na ta,limaŋɡa arinaŋ anau na ta,[],,[],,False,False,,1
-duwe1237-1-7-1,,duwe1237-1,7,limaŋɡa arinaŋ anau na seik,limaŋɡa arinaŋ anau na seik,[],,[],,False,False,,1
-duwe1237-1-8-1,,duwe1237-1,8,limaŋɡa arinaŋ anau na seik ba ta,limaŋɡa arinaŋ anau na seik ba ta,[],,[],,False,False,,1
-duwe1237-1-9-1,,duwe1237-1,9,limaŋɡa arinaŋ anau na seik ba seik,limaŋɡa arinaŋ anau na seik ba seik,[],,[],,False,False,,1
-duwe1237-1-10-1,,duwe1237-1,10,limaŋ seik,limaŋ seik,[],(litː 'two hands'),[],,False,False,,1
-duwe1237-1-11-1,,duwe1237-1,11,limaŋ seik anau na ta,limaŋ seik anau na ta,[],,[],,False,False,,1
-duwe1237-1-12-1,,duwe1237-1,12,limaŋ seik anau na seik,limaŋ seik anau na seik,[],,[],,False,False,,1
-duwe1237-1-13-1,,duwe1237-1,13,limaŋ seik anau na seik ba ta,limaŋ seik anau na seik ba ta,[],,[],,False,False,,1
-duwe1237-1-14-1,,duwe1237-1,14,limaŋ seik anau na seik ba seik,limaŋ seik anau na seik ba seik,[],,[],,False,False,,1
-duwe1237-1-15-1,,duwe1237-1,15,limaŋ seik ambeŋɡa arinaŋ,limaŋ seik ambeŋɡa arinaŋ,[],(litː 'two hands and one foot'),[],,False,False,,1
-duwe1237-1-16-1,,duwe1237-1,16,limaŋ seik ambeŋɡa arinaŋ ta,limaŋ seik ambeŋɡa arinaŋ ta,[],,[],,False,False,,1
-duwe1237-1-17-1,,duwe1237-1,17,limaŋ seik ambeŋɡa arinaŋ seik,limaŋ seik ambeŋɡa arinaŋ seik,[],,[],,False,False,,1
-duwe1237-1-18-1,,duwe1237-1,18,limaŋ seik ambeŋɡa arinaŋ seik ba ta,limaŋ seik ambeŋɡa arinaŋ seik ba ta,[],,[],,False,False,,1
-duwe1237-1-19-1,,duwe1237-1,19,limaŋ seik ambeŋɡa arinaŋ seik ba seik,limaŋ seik ambeŋɡa arinaŋ seik ba seik,[],,[],,False,False,,1
-duwe1237-1-20-1,,duwe1237-1,20,ambeŋ seik limaŋ seik,ambeŋ seik limaŋ seik,[],( litː 'two feet and two hands' ),[],,False,False,,1
+duwe1237-1-1-1,,duwe1237-1,1,taɡine,taɡine,[],,['chan2019'],,False,False,,1
+duwe1237-1-1-2,,duwe1237-1,1,taine,taine,[],,['chan2019'],,False,False,,1
+duwe1237-1-1-3,,duwe1237-1,1,ta,ta,[],,['chan2019'],,False,False,,1
+duwe1237-1-2-1,,duwe1237-1,2,seik,seik,[],,['chan2019'],,False,False,,1
+duwe1237-1-3-1,,duwe1237-1,3,seik ba ta,seik ba ta,[],( 2 + 1),['chan2019'],,False,False,,1
+duwe1237-1-4-1,,duwe1237-1,4,seik ba seik,seik ba seik,[],( 2 + 2 ),['chan2019'],,False,False,,1
+duwe1237-1-5-1,,duwe1237-1,5,limaŋɡa arinaŋ,limaŋɡa arinaŋ,[],( litː one hand ),['chan2019'],,False,False,,1
+duwe1237-1-6-1,,duwe1237-1,6,limaŋɡa arinaŋ anau na ta,limaŋɡa arinaŋ anau na ta,[],,['chan2019'],,False,False,,1
+duwe1237-1-7-1,,duwe1237-1,7,limaŋɡa arinaŋ anau na seik,limaŋɡa arinaŋ anau na seik,[],,['chan2019'],,False,False,,1
+duwe1237-1-8-1,,duwe1237-1,8,limaŋɡa arinaŋ anau na seik ba ta,limaŋɡa arinaŋ anau na seik ba ta,[],,['chan2019'],,False,False,,1
+duwe1237-1-9-1,,duwe1237-1,9,limaŋɡa arinaŋ anau na seik ba seik,limaŋɡa arinaŋ anau na seik ba seik,[],,['chan2019'],,False,False,,1
+duwe1237-1-10-1,,duwe1237-1,10,limaŋ seik,limaŋ seik,[],(litː 'two hands'),['chan2019'],,False,False,,1
+duwe1237-1-11-1,,duwe1237-1,11,limaŋ seik anau na ta,limaŋ seik anau na ta,[],,['chan2019'],,False,False,,1
+duwe1237-1-12-1,,duwe1237-1,12,limaŋ seik anau na seik,limaŋ seik anau na seik,[],,['chan2019'],,False,False,,1
+duwe1237-1-13-1,,duwe1237-1,13,limaŋ seik anau na seik ba ta,limaŋ seik anau na seik ba ta,[],,['chan2019'],,False,False,,1
+duwe1237-1-14-1,,duwe1237-1,14,limaŋ seik anau na seik ba seik,limaŋ seik anau na seik ba seik,[],,['chan2019'],,False,False,,1
+duwe1237-1-15-1,,duwe1237-1,15,limaŋ seik ambeŋɡa arinaŋ,limaŋ seik ambeŋɡa arinaŋ,[],(litː 'two hands and one foot'),['chan2019'],,False,False,,1
+duwe1237-1-16-1,,duwe1237-1,16,limaŋ seik ambeŋɡa arinaŋ ta,limaŋ seik ambeŋɡa arinaŋ ta,[],,['chan2019'],,False,False,,1
+duwe1237-1-17-1,,duwe1237-1,17,limaŋ seik ambeŋɡa arinaŋ seik,limaŋ seik ambeŋɡa arinaŋ seik,[],,['chan2019'],,False,False,,1
+duwe1237-1-18-1,,duwe1237-1,18,limaŋ seik ambeŋɡa arinaŋ seik ba ta,limaŋ seik ambeŋɡa arinaŋ seik ba ta,[],,['chan2019'],,False,False,,1
+duwe1237-1-19-1,,duwe1237-1,19,limaŋ seik ambeŋɡa arinaŋ seik ba seik,limaŋ seik ambeŋɡa arinaŋ seik ba seik,[],,['chan2019'],,False,False,,1
+duwe1237-1-20-1,,duwe1237-1,20,ambeŋ seik limaŋ seik,ambeŋ seik limaŋ seik,[],( litː 'two feet and two hands' ),['chan2019'],,False,False,,1

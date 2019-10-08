@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wotu1240-1-1-1,,wotu1240-1,1,saŋo,saŋo,[],,[],,False,False,,1
-wotu1240-1-2-1,,wotu1240-1,2,duaŋo,duaŋo,[],,[],,False,False,,1
-wotu1240-1-3-1,,wotu1240-1,3,taluaŋo,taluaŋo,[],,[],,False,False,,1
-wotu1240-1-4-1,,wotu1240-1,4,pataŋo,pataŋo,[],,[],,False,False,,1
-wotu1240-1-5-1,,wotu1240-1,5,alima,alima,[],,[],,False,False,,1
-wotu1240-1-6-1,,wotu1240-1,6,ana,ana,[],,[],,False,False,,1
-wotu1240-1-7-1,,wotu1240-1,7,pitu,pitu,[],,[],,False,False,,1
-wotu1240-1-8-1,,wotu1240-1,8,walu,walu,[],,[],,False,False,,1
-wotu1240-1-9-1,,wotu1240-1,9,sasio,sasio,[],,[],,False,False,,1
-wotu1240-1-10-1,,wotu1240-1,10,sapulu,sapulu,[],,[],,False,False,,1
-wotu1240-1-11-1,,wotu1240-1,11,sapulu saŋo,sapulu saŋo,[],,[],,False,False,,1
-wotu1240-1-12-1,,wotu1240-1,12,sapulu duaŋo,sapulu duaŋo,[],,[],,False,False,,1
-wotu1240-1-13-1,,wotu1240-1,13,sapulu taluaŋo,sapulu taluaŋo,[],,[],,False,False,,1
-wotu1240-1-14-1,,wotu1240-1,14,sapulu pataŋo,sapulu pataŋo,[],,[],,False,False,,1
-wotu1240-1-15-1,,wotu1240-1,15,sapulu alima,sapulu alima,[],,[],,False,False,,1
-wotu1240-1-16-1,,wotu1240-1,16,sapulu ana,sapulu ana,[],,[],,False,False,,1
-wotu1240-1-17-1,,wotu1240-1,17,sapulu pitu,sapulu pitu,[],,[],,False,False,,1
-wotu1240-1-18-1,,wotu1240-1,18,sapulu walu,sapulu walu,[],,[],,False,False,,1
-wotu1240-1-19-1,,wotu1240-1,19,sapulu sasio,sapulu sasio,[],,[],,False,False,,1
-wotu1240-1-20-1,,wotu1240-1,20,dua pulu,dua pulu,[],,[],,False,False,,1
-wotu1240-1-21-1,,wotu1240-1,21,dua pulu saŋo,dua pulu saŋo,[],,[],,False,False,,1
-wotu1240-1-22-1,,wotu1240-1,22,dua pulu duaŋo,dua pulu duaŋo,[],,[],,False,False,,1
-wotu1240-1-23-1,,wotu1240-1,23,dua pulu taluaŋo,dua pulu taluaŋo,[],,[],,False,False,,1
-wotu1240-1-24-1,,wotu1240-1,24,dua pulu pataŋo,dua pulu pataŋo,[],,[],,False,False,,1
-wotu1240-1-25-1,,wotu1240-1,25,dua pulu alima,dua pulu alima,[],,[],,False,False,,1
-wotu1240-1-26-1,,wotu1240-1,26,dua pulu ana,dua pulu ana,[],,[],,False,False,,1
-wotu1240-1-27-1,,wotu1240-1,27,dua pulu pitu,dua pulu pitu,[],,[],,False,False,,1
-wotu1240-1-28-1,,wotu1240-1,28,dua pulu walu,dua pulu walu,[],,[],,False,False,,1
-wotu1240-1-29-1,,wotu1240-1,29,dua pulu sasio,dua pulu sasio,[],,[],,False,False,,1
-wotu1240-1-30-1,,wotu1240-1,30,talu pulu,talu pulu,[],,[],,False,False,,1
-wotu1240-1-40-1,,wotu1240-1,40,pata pulu,pata pulu,[],,[],,False,False,,1
-wotu1240-1-50-1,,wotu1240-1,50,alima pulu,alima pulu,[],,[],,False,False,,1
-wotu1240-1-60-1,,wotu1240-1,60,anama pulu,anama pulu,[],,[],,False,False,,1
-wotu1240-1-70-1,,wotu1240-1,70,pitu pulu,pitu pulu,[],,[],,False,False,,1
-wotu1240-1-80-1,,wotu1240-1,80,walu pulu,walu pulu,[],,[],,False,False,,1
-wotu1240-1-90-1,,wotu1240-1,90,sasio pulu,sasio pulu,[],,[],,False,False,,1
-wotu1240-1-100-1,,wotu1240-1,100,satu,satu,[],,[],,False,False,,1
-wotu1240-1-200-1,,wotu1240-1,200,duatu,duatu,[],,[],,False,False,,1
-wotu1240-1-1000-1,,wotu1240-1,1000,sansou,sansou,[],,[],,False,False,,1
-wotu1240-1-2000-1,,wotu1240-1,2000,duansou,duansou,[],,[],,False,False,,1
+wotu1240-1-1-1,,wotu1240-1,1,saŋo,saŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-2-1,,wotu1240-1,2,duaŋo,duaŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-3-1,,wotu1240-1,3,taluaŋo,taluaŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-4-1,,wotu1240-1,4,pataŋo,pataŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-5-1,,wotu1240-1,5,alima,alima,[],,['chan2019'],,False,False,,1
+wotu1240-1-6-1,,wotu1240-1,6,ana,ana,[],,['chan2019'],,False,False,,1
+wotu1240-1-7-1,,wotu1240-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+wotu1240-1-8-1,,wotu1240-1,8,walu,walu,[],,['chan2019'],,False,False,,1
+wotu1240-1-9-1,,wotu1240-1,9,sasio,sasio,[],,['chan2019'],,False,False,,1
+wotu1240-1-10-1,,wotu1240-1,10,sapulu,sapulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-11-1,,wotu1240-1,11,sapulu saŋo,sapulu saŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-12-1,,wotu1240-1,12,sapulu duaŋo,sapulu duaŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-13-1,,wotu1240-1,13,sapulu taluaŋo,sapulu taluaŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-14-1,,wotu1240-1,14,sapulu pataŋo,sapulu pataŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-15-1,,wotu1240-1,15,sapulu alima,sapulu alima,[],,['chan2019'],,False,False,,1
+wotu1240-1-16-1,,wotu1240-1,16,sapulu ana,sapulu ana,[],,['chan2019'],,False,False,,1
+wotu1240-1-17-1,,wotu1240-1,17,sapulu pitu,sapulu pitu,[],,['chan2019'],,False,False,,1
+wotu1240-1-18-1,,wotu1240-1,18,sapulu walu,sapulu walu,[],,['chan2019'],,False,False,,1
+wotu1240-1-19-1,,wotu1240-1,19,sapulu sasio,sapulu sasio,[],,['chan2019'],,False,False,,1
+wotu1240-1-20-1,,wotu1240-1,20,dua pulu,dua pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-21-1,,wotu1240-1,21,dua pulu saŋo,dua pulu saŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-22-1,,wotu1240-1,22,dua pulu duaŋo,dua pulu duaŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-23-1,,wotu1240-1,23,dua pulu taluaŋo,dua pulu taluaŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-24-1,,wotu1240-1,24,dua pulu pataŋo,dua pulu pataŋo,[],,['chan2019'],,False,False,,1
+wotu1240-1-25-1,,wotu1240-1,25,dua pulu alima,dua pulu alima,[],,['chan2019'],,False,False,,1
+wotu1240-1-26-1,,wotu1240-1,26,dua pulu ana,dua pulu ana,[],,['chan2019'],,False,False,,1
+wotu1240-1-27-1,,wotu1240-1,27,dua pulu pitu,dua pulu pitu,[],,['chan2019'],,False,False,,1
+wotu1240-1-28-1,,wotu1240-1,28,dua pulu walu,dua pulu walu,[],,['chan2019'],,False,False,,1
+wotu1240-1-29-1,,wotu1240-1,29,dua pulu sasio,dua pulu sasio,[],,['chan2019'],,False,False,,1
+wotu1240-1-30-1,,wotu1240-1,30,talu pulu,talu pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-40-1,,wotu1240-1,40,pata pulu,pata pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-50-1,,wotu1240-1,50,alima pulu,alima pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-60-1,,wotu1240-1,60,anama pulu,anama pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-70-1,,wotu1240-1,70,pitu pulu,pitu pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-80-1,,wotu1240-1,80,walu pulu,walu pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-90-1,,wotu1240-1,90,sasio pulu,sasio pulu,[],,['chan2019'],,False,False,,1
+wotu1240-1-100-1,,wotu1240-1,100,satu,satu,[],,['chan2019'],,False,False,,1
+wotu1240-1-200-1,,wotu1240-1,200,duatu,duatu,[],,['chan2019'],,False,False,,1
+wotu1240-1-1000-1,,wotu1240-1,1000,sansou,sansou,[],,['chan2019'],,False,False,,1
+wotu1240-1-2000-1,,wotu1240-1,2000,duansou,duansou,[],,['chan2019'],,False,False,,1

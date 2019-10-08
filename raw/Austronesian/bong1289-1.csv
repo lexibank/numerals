@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bong1289-1-1-1,,bong1289-1,1,əsaʔ,əsaʔ,[],,[],,False,False,,1
-bong1289-1-2-1,,bong1289-1,2,dua,dua,[],,[],,False,False,,1
-bong1289-1-3-1,,bong1289-1,3,tolu,tolu,[],,[],,False,False,,1
-bong1289-1-4-1,,bong1289-1,4,əpaat,əpaat,[],,[],,False,False,,1
-bong1289-1-5-1,,bong1289-1,5,lima,lima,[],,[],,False,False,,1
-bong1289-1-6-1,,bong1289-1,6,onom,onom,[],,[],,False,False,,1
-bong1289-1-7-1,,bong1289-1,7,turuʔ,turuʔ,[],,[],,False,False,,1
-bong1289-1-8-1,,bong1289-1,8,waluʔ,waluʔ,[],,[],,False,False,,1
-bong1289-1-9-1,,bong1289-1,9,siabm,siabm,[],,[],,False,False,,1
-bong1289-1-10-1,,bong1289-1,10,puluʔ,puluʔ,[],,[],,False,False,,1
-bong1289-1-11-1,,bong1289-1,11,puluʔ əsaʔ,puluʔ əsaʔ,[],,[],,False,False,,1
-bong1289-1-12-1,,bong1289-1,12,puluʔ dua,puluʔ dua,[],,[],,False,False,,1
-bong1289-1-13-1,,bong1289-1,13,puluʔ tolu,puluʔ tolu,[],,[],,False,False,,1
-bong1289-1-14-1,,bong1289-1,14,puluʔ əpaat,puluʔ əpaat,[],,[],,False,False,,1
-bong1289-1-15-1,,bong1289-1,15,puluʔ lima,puluʔ lima,[],,[],,False,False,,1
-bong1289-1-16-1,,bong1289-1,16,puluʔ onom,puluʔ onom,[],,[],,False,False,,1
-bong1289-1-17-1,,bong1289-1,17,puluʔ turu,puluʔ turu,[],,[],,False,False,,1
-bong1289-1-18-1,,bong1289-1,18,puluʔ waluʔ,puluʔ waluʔ,[],,[],,False,False,,1
-bong1289-1-19-1,,bong1289-1,19,puluʔ siabm,puluʔ siabm,[],,[],,False,False,,1
-bong1289-1-20-1,,bong1289-1,20,dua mpuluʔ,dua mpuluʔ,[],,[],,False,False,,1
-bong1289-1-21-1,,bong1289-1,21,dua mpuluʔ əsaʔ,dua mpuluʔ əsaʔ,[],,[],,False,False,,1
-bong1289-1-22-1,,bong1289-1,22,dua mpuluʔ dua,dua mpuluʔ dua,[],,[],,False,False,,1
-bong1289-1-23-1,,bong1289-1,23,dua mpuluʔ tolu,dua mpuluʔ tolu,[],,[],,False,False,,1
-bong1289-1-24-1,,bong1289-1,24,dua mpuluʔ əpaat,dua mpuluʔ əpaat,[],,[],,False,False,,1
-bong1289-1-25-1,,bong1289-1,25,dua mpuluʔ lima,dua mpuluʔ lima,[],,[],,False,False,,1
-bong1289-1-26-1,,bong1289-1,26,dua mpuluʔ onom,dua mpuluʔ onom,[],,[],,False,False,,1
-bong1289-1-27-1,,bong1289-1,27,dua mpuluʔ turu,dua mpuluʔ turu,[],,[],,False,False,,1
-bong1289-1-28-1,,bong1289-1,28,dua mpuluʔ waluʔ,dua mpuluʔ waluʔ,[],,[],,False,False,,1
-bong1289-1-29-1,,bong1289-1,29,dua mpuluʔ siabm,dua mpuluʔ siabm,[],,[],,False,False,,1
-bong1289-1-30-1,,bong1289-1,30,tolo mpuluʔ,tolo mpuluʔ,[],,[],,False,False,,1
-bong1289-1-40-1,,bong1289-1,40,əpaat puluʔ,əpaat puluʔ,[],,[],,False,False,,1
-bong1289-1-50-1,,bong1289-1,50,lima mpuluʔ,lima mpuluʔ,[],,[],,False,False,,1
-bong1289-1-60-1,,bong1289-1,60,onom puluʔ,onom puluʔ,[],,[],,False,False,,1
-bong1289-1-70-1,,bong1289-1,70,turu puluʔ,turu puluʔ,[],,[],,False,False,,1
-bong1289-1-80-1,,bong1289-1,80,waluʔ puluʔ,waluʔ puluʔ,[],,[],,False,False,,1
-bong1289-1-90-1,,bong1289-1,90,siabm puluʔ,siabm puluʔ,[],,[],,False,False,,1
-bong1289-1-100-1,,bong1289-1,100,matus,matus,[],,[],,False,False,,1
-bong1289-1-200-1,,bong1289-1,200,dua atus,dua atus,[],,[],,False,False,,1
-bong1289-1-1000-1,,bong1289-1,1000,miribu,miribu,[],,[],,False,False,,1
-bong1289-1-2000-1,,bong1289-1,2000,dua ribu,dua ribu,[],,[],,False,False,,1
+bong1289-1-1-1,,bong1289-1,1,əsaʔ,əsaʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-2-1,,bong1289-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+bong1289-1-3-1,,bong1289-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+bong1289-1-4-1,,bong1289-1,4,əpaat,əpaat,[],,['chan2019'],,False,False,,1
+bong1289-1-5-1,,bong1289-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+bong1289-1-6-1,,bong1289-1,6,onom,onom,[],,['chan2019'],,False,False,,1
+bong1289-1-7-1,,bong1289-1,7,turuʔ,turuʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-8-1,,bong1289-1,8,waluʔ,waluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-9-1,,bong1289-1,9,siabm,siabm,[],,['chan2019'],,False,False,,1
+bong1289-1-10-1,,bong1289-1,10,puluʔ,puluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-11-1,,bong1289-1,11,puluʔ əsaʔ,puluʔ əsaʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-12-1,,bong1289-1,12,puluʔ dua,puluʔ dua,[],,['chan2019'],,False,False,,1
+bong1289-1-13-1,,bong1289-1,13,puluʔ tolu,puluʔ tolu,[],,['chan2019'],,False,False,,1
+bong1289-1-14-1,,bong1289-1,14,puluʔ əpaat,puluʔ əpaat,[],,['chan2019'],,False,False,,1
+bong1289-1-15-1,,bong1289-1,15,puluʔ lima,puluʔ lima,[],,['chan2019'],,False,False,,1
+bong1289-1-16-1,,bong1289-1,16,puluʔ onom,puluʔ onom,[],,['chan2019'],,False,False,,1
+bong1289-1-17-1,,bong1289-1,17,puluʔ turu,puluʔ turu,[],,['chan2019'],,False,False,,1
+bong1289-1-18-1,,bong1289-1,18,puluʔ waluʔ,puluʔ waluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-19-1,,bong1289-1,19,puluʔ siabm,puluʔ siabm,[],,['chan2019'],,False,False,,1
+bong1289-1-20-1,,bong1289-1,20,dua mpuluʔ,dua mpuluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-21-1,,bong1289-1,21,dua mpuluʔ əsaʔ,dua mpuluʔ əsaʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-22-1,,bong1289-1,22,dua mpuluʔ dua,dua mpuluʔ dua,[],,['chan2019'],,False,False,,1
+bong1289-1-23-1,,bong1289-1,23,dua mpuluʔ tolu,dua mpuluʔ tolu,[],,['chan2019'],,False,False,,1
+bong1289-1-24-1,,bong1289-1,24,dua mpuluʔ əpaat,dua mpuluʔ əpaat,[],,['chan2019'],,False,False,,1
+bong1289-1-25-1,,bong1289-1,25,dua mpuluʔ lima,dua mpuluʔ lima,[],,['chan2019'],,False,False,,1
+bong1289-1-26-1,,bong1289-1,26,dua mpuluʔ onom,dua mpuluʔ onom,[],,['chan2019'],,False,False,,1
+bong1289-1-27-1,,bong1289-1,27,dua mpuluʔ turu,dua mpuluʔ turu,[],,['chan2019'],,False,False,,1
+bong1289-1-28-1,,bong1289-1,28,dua mpuluʔ waluʔ,dua mpuluʔ waluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-29-1,,bong1289-1,29,dua mpuluʔ siabm,dua mpuluʔ siabm,[],,['chan2019'],,False,False,,1
+bong1289-1-30-1,,bong1289-1,30,tolo mpuluʔ,tolo mpuluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-40-1,,bong1289-1,40,əpaat puluʔ,əpaat puluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-50-1,,bong1289-1,50,lima mpuluʔ,lima mpuluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-60-1,,bong1289-1,60,onom puluʔ,onom puluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-70-1,,bong1289-1,70,turu puluʔ,turu puluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-80-1,,bong1289-1,80,waluʔ puluʔ,waluʔ puluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-90-1,,bong1289-1,90,siabm puluʔ,siabm puluʔ,[],,['chan2019'],,False,False,,1
+bong1289-1-100-1,,bong1289-1,100,matus,matus,[],,['chan2019'],,False,False,,1
+bong1289-1-200-1,,bong1289-1,200,dua atus,dua atus,[],,['chan2019'],,False,False,,1
+bong1289-1-1000-1,,bong1289-1,1000,miribu,miribu,[],,['chan2019'],,False,False,,1
+bong1289-1-2000-1,,bong1289-1,2000,dua ribu,dua ribu,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-minr1238-1-1-1,,minr1238-1,1,nay,nay,[],,[],,False,False,,1
-minr1238-1-2-1,,minr1238-1,2,duwaʔ,duwaʔ,[],,[],,False,False,,1
-minr1238-1-3-1,,minr1238-1,3,tiɡaʔ,tiɡaʔ,[],,[],,False,False,,1
-minr1238-1-4-1,,minr1238-1,4,(ʔ)m̩pət,(ʔ)m̩pət,[],,[],,False,False,,1
-minr1238-1-5-1,,minr1238-1,5,limaʔ,limaʔ,[],,[],,False,False,,1
-minr1238-1-6-1,,minr1238-1,6,nam,nam,[],,[],,False,False,,1
-minr1238-1-7-1,,minr1238-1,7,tuɟoh,tuɟoh,[],,[],,False,False,,1
-minr1238-1-8-1,,minr1238-1,8,lapan,lapan,[],,[],,False,False,,1
-minr1238-1-9-1,,minr1238-1,9,səmbilan,səmbilan,[],,[],,False,False,,1
-minr1238-1-10-1,,minr1238-1,10,səpuluh,səpuluh,[],,[],,False,False,,1
-minr1238-1-11-1,,minr1238-1,11,sabəlas,sabəlas,[],,[],,False,False,,1
-minr1238-1-12-1,,minr1238-1,12,duwaʔ bəlas,duwaʔ bəlas,[],,[],,False,False,,1
-minr1238-1-13-1,,minr1238-1,13,tiɡaʔ bəlas,tiɡaʔ bəlas,[],,[],,False,False,,1
-minr1238-1-14-1,,minr1238-1,14,(ʔ)m̩pət bəlas,(ʔ)m̩pət bəlas,[],,[],,False,False,,1
-minr1238-1-15-1,,minr1238-1,15,limaʔ bəlas,limaʔ bəlas,[],,[],,False,False,,1
-minr1238-1-16-1,,minr1238-1,16,nam bəlas,nam bəlas,[],,[],,False,False,,1
-minr1238-1-17-1,,minr1238-1,17,tuɟoh bəlas,tuɟoh bəlas,[],,[],,False,False,,1
-minr1238-1-18-1,,minr1238-1,18,lapan bəlas,lapan bəlas,[],,[],,False,False,,1
-minr1238-1-19-1,,minr1238-1,19,səmbilan bəlas,səmbilan bəlas,[],,[],,False,False,,1
-minr1238-1-20-1,,minr1238-1,20,duwaʔ puluh,duwaʔ puluh,[],,[],,False,False,,1
-minr1238-1-21-1,,minr1238-1,21,duwaʔ puluh satu,duwaʔ puluh satu,[],,[],,False,False,,1
-minr1238-1-22-1,,minr1238-1,22,duwaʔ puluh duwaʔ,duwaʔ puluh duwaʔ,[],,[],,False,False,,1
-minr1238-1-23-1,,minr1238-1,23,duwaʔ puluh tiɡaʔ,duwaʔ puluh tiɡaʔ,[],,[],,False,False,,1
-minr1238-1-24-1,,minr1238-1,24,duwaʔ puluh (ʔ)m̩pət,duwaʔ puluh (ʔ)m̩pət,[],,[],,False,False,,1
-minr1238-1-25-1,,minr1238-1,25,duwaʔ puluh limaʔ,duwaʔ puluh limaʔ,[],,[],,False,False,,1
-minr1238-1-26-1,,minr1238-1,26,duwaʔ puluh nam,duwaʔ puluh nam,[],,[],,False,False,,1
-minr1238-1-27-1,,minr1238-1,27,duwaʔ puluh tuɟoh,duwaʔ puluh tuɟoh,[],,[],,False,False,,1
-minr1238-1-28-1,,minr1238-1,28,duwaʔ puluh lapan,duwaʔ puluh lapan,[],,[],,False,False,,1
-minr1238-1-29-1,,minr1238-1,29,duwaʔ puluh,duwaʔ puluh,[],,[],,False,False,,1
-minr1238-1-30-1,,minr1238-1,30,tiɡaʔ puluh,tiɡaʔ puluh,[],,[],,False,False,,1
-minr1238-1-40-1,,minr1238-1,40,(ʔ)m̩pət puluh,(ʔ)m̩pət puluh,[],,[],,False,False,,1
-minr1238-1-50-1,,minr1238-1,50,limaʔ puluh,limaʔ puluh,[],,[],,False,False,,1
-minr1238-1-60-1,,minr1238-1,60,nam puluh,nam puluh,[],,[],,False,False,,1
-minr1238-1-70-1,,minr1238-1,70,tuɟoh puluh,tuɟoh puluh,[],,[],,False,False,,1
-minr1238-1-80-1,,minr1238-1,80,lapan puluh,lapan puluh,[],,[],,False,False,,1
-minr1238-1-90-1,,minr1238-1,90,səmbilan puluh,səmbilan puluh,[],,[],,False,False,,1
-minr1238-1-100-1,,minr1238-1,100,saratus,saratus,[],,[],,False,False,,1
-minr1238-1-200-1,,minr1238-1,200,duwaʔ ratus,duwaʔ ratus,[],,[],,False,False,,1
-minr1238-1-1000-1,,minr1238-1,1000,saribu,saribu,[],,[],,False,False,,1
-minr1238-1-2000-1,,minr1238-1,2000,duwaʔ ribu,duwaʔ ribu,[],,[],,False,False,,1
+minr1238-1-1-1,,minr1238-1,1,nay,nay,[],,['chan2019'],,False,False,,1
+minr1238-1-2-1,,minr1238-1,2,duwaʔ,duwaʔ,[],,['chan2019'],,False,False,,1
+minr1238-1-3-1,,minr1238-1,3,tiɡaʔ,tiɡaʔ,[],,['chan2019'],,False,False,,1
+minr1238-1-4-1,,minr1238-1,4,(ʔ)m̩pət,(ʔ)m̩pət,[],,['chan2019'],,False,False,,1
+minr1238-1-5-1,,minr1238-1,5,limaʔ,limaʔ,[],,['chan2019'],,False,False,,1
+minr1238-1-6-1,,minr1238-1,6,nam,nam,[],,['chan2019'],,False,False,,1
+minr1238-1-7-1,,minr1238-1,7,tuɟoh,tuɟoh,[],,['chan2019'],,False,False,,1
+minr1238-1-8-1,,minr1238-1,8,lapan,lapan,[],,['chan2019'],,False,False,,1
+minr1238-1-9-1,,minr1238-1,9,səmbilan,səmbilan,[],,['chan2019'],,False,False,,1
+minr1238-1-10-1,,minr1238-1,10,səpuluh,səpuluh,[],,['chan2019'],,False,False,,1
+minr1238-1-11-1,,minr1238-1,11,sabəlas,sabəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-12-1,,minr1238-1,12,duwaʔ bəlas,duwaʔ bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-13-1,,minr1238-1,13,tiɡaʔ bəlas,tiɡaʔ bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-14-1,,minr1238-1,14,(ʔ)m̩pət bəlas,(ʔ)m̩pət bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-15-1,,minr1238-1,15,limaʔ bəlas,limaʔ bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-16-1,,minr1238-1,16,nam bəlas,nam bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-17-1,,minr1238-1,17,tuɟoh bəlas,tuɟoh bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-18-1,,minr1238-1,18,lapan bəlas,lapan bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-19-1,,minr1238-1,19,səmbilan bəlas,səmbilan bəlas,[],,['chan2019'],,False,False,,1
+minr1238-1-20-1,,minr1238-1,20,duwaʔ puluh,duwaʔ puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-21-1,,minr1238-1,21,duwaʔ puluh satu,duwaʔ puluh satu,[],,['chan2019'],,False,False,,1
+minr1238-1-22-1,,minr1238-1,22,duwaʔ puluh duwaʔ,duwaʔ puluh duwaʔ,[],,['chan2019'],,False,False,,1
+minr1238-1-23-1,,minr1238-1,23,duwaʔ puluh tiɡaʔ,duwaʔ puluh tiɡaʔ,[],,['chan2019'],,False,False,,1
+minr1238-1-24-1,,minr1238-1,24,duwaʔ puluh (ʔ)m̩pət,duwaʔ puluh (ʔ)m̩pət,[],,['chan2019'],,False,False,,1
+minr1238-1-25-1,,minr1238-1,25,duwaʔ puluh limaʔ,duwaʔ puluh limaʔ,[],,['chan2019'],,False,False,,1
+minr1238-1-26-1,,minr1238-1,26,duwaʔ puluh nam,duwaʔ puluh nam,[],,['chan2019'],,False,False,,1
+minr1238-1-27-1,,minr1238-1,27,duwaʔ puluh tuɟoh,duwaʔ puluh tuɟoh,[],,['chan2019'],,False,False,,1
+minr1238-1-28-1,,minr1238-1,28,duwaʔ puluh lapan,duwaʔ puluh lapan,[],,['chan2019'],,False,False,,1
+minr1238-1-29-1,,minr1238-1,29,duwaʔ puluh,duwaʔ puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-30-1,,minr1238-1,30,tiɡaʔ puluh,tiɡaʔ puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-40-1,,minr1238-1,40,(ʔ)m̩pət puluh,(ʔ)m̩pət puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-50-1,,minr1238-1,50,limaʔ puluh,limaʔ puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-60-1,,minr1238-1,60,nam puluh,nam puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-70-1,,minr1238-1,70,tuɟoh puluh,tuɟoh puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-80-1,,minr1238-1,80,lapan puluh,lapan puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-90-1,,minr1238-1,90,səmbilan puluh,səmbilan puluh,[],,['chan2019'],,False,False,,1
+minr1238-1-100-1,,minr1238-1,100,saratus,saratus,[],,['chan2019'],,False,False,,1
+minr1238-1-200-1,,minr1238-1,200,duwaʔ ratus,duwaʔ ratus,[],,['chan2019'],,False,False,,1
+minr1238-1-1000-1,,minr1238-1,1000,saribu,saribu,[],,['chan2019'],,False,False,,1
+minr1238-1-2000-1,,minr1238-1,2000,duwaʔ ribu,duwaʔ ribu,[],,['chan2019'],,False,False,,1

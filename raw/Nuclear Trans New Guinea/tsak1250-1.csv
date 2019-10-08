@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tsak1250-1-1-1,,tsak1250-1,1,ɸæ'liʔ,ɸæ'liʔ,[],,[],,False,False,,1
-tsak1250-1-2-1,,tsak1250-1,2,mɔmə'niʔ,mɔmə'niʔ,[],,[],,False,False,,1
-tsak1250-1-3-1,,tsak1250-1,3,dilæ'nɔʔ,dilæ'nɔʔ,[],,[],,False,False,,1
-tsak1250-1-4-1,,tsak1250-1,4,nɔ'ndɔænɔʔ,nɔ'ndɔænɔʔ,[],,[],,False,False,,1
-tsak1250-1-5-1,,tsak1250-1,5,wæ'jænɔʔ,wæ'jænɔʔ,[],,[],,False,False,,1
-tsak1250-1-6-1,,tsak1250-1,6,ɡjɯlɯ'nænɔʔ,ɡjɯlɯ'nænɔʔ,[],,[],,False,False,,1
-tsak1250-1-7-1,,tsak1250-1,7,sæ'bɔ'lænɔʔ,sæ'bɔ'lænɔʔ,[],,[],,False,False,,1
-tsak1250-1-8-1,,tsak1250-1,8,bɔŋɡu'wɑnɔʔ,bɔŋɡu'wɑnɔʔ,[],,[],,False,False,,1
-tsak1250-1-9-1,,tsak1250-1,9,sæbu'ænɔʔ,sæbu'ænɔʔ,[],,[],,False,False,,1
-tsak1250-1-10-1,,tsak1250-1,10,jæŋɡijæ'nɔʔ,jæŋɡijæ'nɔʔ,[],,[],,False,False,,1
-tsak1250-1-20-1,,tsak1250-1,20,hæŋɡɑlɑti'to jæŋɡilɑjɑ'nɔʔ,hæŋɡɑlɑti'to jæŋɡilɑjɑ'nɔʔ,[],,[],,False,False,,1
+tsak1250-1-1-1,,tsak1250-1,1,ɸæ'liʔ,ɸæ'liʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-2-1,,tsak1250-1,2,mɔmə'niʔ,mɔmə'niʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-3-1,,tsak1250-1,3,dilæ'nɔʔ,dilæ'nɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-4-1,,tsak1250-1,4,nɔ'ndɔænɔʔ,nɔ'ndɔænɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-5-1,,tsak1250-1,5,wæ'jænɔʔ,wæ'jænɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-6-1,,tsak1250-1,6,ɡjɯlɯ'nænɔʔ,ɡjɯlɯ'nænɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-7-1,,tsak1250-1,7,sæ'bɔ'lænɔʔ,sæ'bɔ'lænɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-8-1,,tsak1250-1,8,bɔŋɡu'wɑnɔʔ,bɔŋɡu'wɑnɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-9-1,,tsak1250-1,9,sæbu'ænɔʔ,sæbu'ænɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-10-1,,tsak1250-1,10,jæŋɡijæ'nɔʔ,jæŋɡijæ'nɔʔ,[],,['chan2019'],,False,False,,1
+tsak1250-1-20-1,,tsak1250-1,20,hæŋɡɑlɑti'to jæŋɡilɑjɑ'nɔʔ,hæŋɡɑlɑti'to jæŋɡilɑjɑ'nɔʔ,[],,['chan2019'],,False,False,,1

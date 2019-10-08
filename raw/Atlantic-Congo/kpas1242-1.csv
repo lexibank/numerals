@@ -1,33 +1,33 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kpas1242-1-1-1,,kpas1242-1,1,ɓíní,ɓíní,[],,[],,False,False,,1
-kpas1242-1-2-1,,kpas1242-1,2,ʔíè,ʔíè,[],,[],,False,False,,1
-kpas1242-1-3-1,,kpas1242-1,3,tátˢ,tátˢ,[],,[],,False,False,,1
-kpas1242-1-4-1,,kpas1242-1,4,nātˢ,nātˢ,[],,[],,False,False,,1
-kpas1242-1-5-1,,kpas1242-1,5,nɔ̃́ŋ,nɔ̃́ŋ,[],,[],,False,False,,1
-kpas1242-1-6-1,,kpas1242-1,6,nāɓíní,nāɓíní,[],( 5+ 1 ),[],,False,False,,1
-kpas1242-1-7-1,,kpas1242-1,7,nāk͡píē,nāk͡píē,[],( 5+ 2 ),[],,False,False,,1
-kpas1242-1-8-1,,kpas1242-1,8,nātáts,nātáts,[],( 5+ 3 ),[],,False,False,,1
-kpas1242-1-9-1,,kpas1242-1,9,nānāts,nānāts,[],( 5+ 4 ),[],,False,False,,1
-kpas1242-1-10-1,,kpas1242-1,10,kópʰ,kópʰ,[],,[],,False,False,,1
-kpas1242-1-11-1,,kpas1242-1,11,kób-ɲán-ɓínì,kób-ɲán-ɓínì,[],,[],,False,False,,1
-kpas1242-1-12-1,,kpas1242-1,12,kób-ɲán-íe᷄,kób-ɲán-íe᷄,[],,[],,False,False,,1
-kpas1242-1-13-1,,kpas1242-1,13,kób-ɲá-táts,kób-ɲá-táts,[],,[],,False,False,,1
-kpas1242-1-14-1,,kpas1242-1,14,kób-ɲá-náts,kób-ɲá-náts,[],,[],,False,False,,1
-kpas1242-1-15-1,,kpas1242-1,15,kób-ɲã́n-nɔ̃́ŋ,kób-ɲã́n-nɔ̃́ŋ,[],,[],,False,False,,1
-kpas1242-1-16-1,,kpas1242-1,16,kób-ɲán-náɓíní,kób-ɲán-náɓíní,[],,[],,False,False,,1
-kpas1242-1-17-1,,kpas1242-1,17,kób-ɲán-nák͡píe᷄,kób-ɲán-nák͡píe᷄,[],,[],,False,False,,1
-kpas1242-1-18-1,,kpas1242-1,18,kób-ɲá-náta᷄ts,kób-ɲá-náta᷄ts,[],,[],,False,False,,1
-kpas1242-1-19-1,,kpas1242-1,19,kób-ɲán-nānāts,kób-ɲán-nānāts,[],,[],,False,False,,1
-kpas1242-1-20-1,,kpas1242-1,20,kéé-ɓíní,kéé-ɓíní,[],,[],,False,False,,1
-kpas1242-1-21-1,,kpas1242-1,21,ké-ɓíní-ɲán-ɓíní,ké-ɓíní-ɲán-ɓíní,[],,[],,False,False,,1
-kpas1242-1-22-1,,kpas1242-1,22,ké-ɓíní-ɲán-ʔíéʔ,ké-ɓíní-ɲán-ʔíéʔ,[],,[],,False,False,,1
-kpas1242-1-30-1,,kpas1242-1,30,kéé-ɓíní-ɲán-kópʰ,kéé-ɓíní-ɲán-kópʰ,[],,[],,False,False,,1
-kpas1242-1-40-1,,kpas1242-1,40,káá ʔíé,káá ʔíé,[],( 20 x 2 ),[],,False,False,,1
-kpas1242-1-50-1,,kpas1242-1,50,káá-ʔíé-ɲán-kópʰ,káá-ʔíé-ɲán-kópʰ,[],,[],,False,False,,1
-kpas1242-1-60-1,,kpas1242-1,60,ká-táts,ká-táts,[],( 20 x 3 ),[],,False,False,,1
-kpas1242-1-70-1,,kpas1242-1,70,kā-táts-ɲān-kópʰ,kā-táts-ɲān-kópʰ,[],,[],,False,False,,1
-kpas1242-1-80-1,,kpas1242-1,80,ká-nāts,ká-nāts,[],( 20 x 4 ),[],,False,False,,1
-kpas1242-1-90-1,,kpas1242-1,90,ká-nāts-ɲān-kōpʰ,ká-nāts-ɲān-kōpʰ,[],,[],,False,False,,1
-kpas1242-1-100-1,,kpas1242-1,100,káá-nɔ̃́ŋ,káá-nɔ̃́ŋ,[],( 20 x 5 ),[],,False,False,,1
-kpas1242-1-200-1,,kpas1242-1,200,káá-nɔ̃́ŋ-ʔíē,káá-nɔ̃́ŋ-ʔíē,[],( 20 x 5 x 2 ),[],,False,False,,1
-kpas1242-1-1000-1,,kpas1242-1,1000,kób-kób-tām-kópʰ,kób-kób-tām-kópʰ,[],,[],,False,False,,1
+kpas1242-1-1-1,,kpas1242-1,1,ɓíní,ɓíní,[],,['chan2019'],,False,False,,1
+kpas1242-1-2-1,,kpas1242-1,2,ʔíè,ʔíè,[],,['chan2019'],,False,False,,1
+kpas1242-1-3-1,,kpas1242-1,3,tátˢ,tátˢ,[],,['chan2019'],,False,False,,1
+kpas1242-1-4-1,,kpas1242-1,4,nātˢ,nātˢ,[],,['chan2019'],,False,False,,1
+kpas1242-1-5-1,,kpas1242-1,5,nɔ̃́ŋ,nɔ̃́ŋ,[],,['chan2019'],,False,False,,1
+kpas1242-1-6-1,,kpas1242-1,6,nāɓíní,nāɓíní,[],( 5+ 1 ),['chan2019'],,False,False,,1
+kpas1242-1-7-1,,kpas1242-1,7,nāk͡píē,nāk͡píē,[],( 5+ 2 ),['chan2019'],,False,False,,1
+kpas1242-1-8-1,,kpas1242-1,8,nātáts,nātáts,[],( 5+ 3 ),['chan2019'],,False,False,,1
+kpas1242-1-9-1,,kpas1242-1,9,nānāts,nānāts,[],( 5+ 4 ),['chan2019'],,False,False,,1
+kpas1242-1-10-1,,kpas1242-1,10,kópʰ,kópʰ,[],,['chan2019'],,False,False,,1
+kpas1242-1-11-1,,kpas1242-1,11,kób-ɲán-ɓínì,kób-ɲán-ɓínì,[],,['chan2019'],,False,False,,1
+kpas1242-1-12-1,,kpas1242-1,12,kób-ɲán-íe᷄,kób-ɲán-íe᷄,[],,['chan2019'],,False,False,,1
+kpas1242-1-13-1,,kpas1242-1,13,kób-ɲá-táts,kób-ɲá-táts,[],,['chan2019'],,False,False,,1
+kpas1242-1-14-1,,kpas1242-1,14,kób-ɲá-náts,kób-ɲá-náts,[],,['chan2019'],,False,False,,1
+kpas1242-1-15-1,,kpas1242-1,15,kób-ɲã́n-nɔ̃́ŋ,kób-ɲã́n-nɔ̃́ŋ,[],,['chan2019'],,False,False,,1
+kpas1242-1-16-1,,kpas1242-1,16,kób-ɲán-náɓíní,kób-ɲán-náɓíní,[],,['chan2019'],,False,False,,1
+kpas1242-1-17-1,,kpas1242-1,17,kób-ɲán-nák͡píe᷄,kób-ɲán-nák͡píe᷄,[],,['chan2019'],,False,False,,1
+kpas1242-1-18-1,,kpas1242-1,18,kób-ɲá-náta᷄ts,kób-ɲá-náta᷄ts,[],,['chan2019'],,False,False,,1
+kpas1242-1-19-1,,kpas1242-1,19,kób-ɲán-nānāts,kób-ɲán-nānāts,[],,['chan2019'],,False,False,,1
+kpas1242-1-20-1,,kpas1242-1,20,kéé-ɓíní,kéé-ɓíní,[],,['chan2019'],,False,False,,1
+kpas1242-1-21-1,,kpas1242-1,21,ké-ɓíní-ɲán-ɓíní,ké-ɓíní-ɲán-ɓíní,[],,['chan2019'],,False,False,,1
+kpas1242-1-22-1,,kpas1242-1,22,ké-ɓíní-ɲán-ʔíéʔ,ké-ɓíní-ɲán-ʔíéʔ,[],,['chan2019'],,False,False,,1
+kpas1242-1-30-1,,kpas1242-1,30,kéé-ɓíní-ɲán-kópʰ,kéé-ɓíní-ɲán-kópʰ,[],,['chan2019'],,False,False,,1
+kpas1242-1-40-1,,kpas1242-1,40,káá ʔíé,káá ʔíé,[],( 20 x 2 ),['chan2019'],,False,False,,1
+kpas1242-1-50-1,,kpas1242-1,50,káá-ʔíé-ɲán-kópʰ,káá-ʔíé-ɲán-kópʰ,[],,['chan2019'],,False,False,,1
+kpas1242-1-60-1,,kpas1242-1,60,ká-táts,ká-táts,[],( 20 x 3 ),['chan2019'],,False,False,,1
+kpas1242-1-70-1,,kpas1242-1,70,kā-táts-ɲān-kópʰ,kā-táts-ɲān-kópʰ,[],,['chan2019'],,False,False,,1
+kpas1242-1-80-1,,kpas1242-1,80,ká-nāts,ká-nāts,[],( 20 x 4 ),['chan2019'],,False,False,,1
+kpas1242-1-90-1,,kpas1242-1,90,ká-nāts-ɲān-kōpʰ,ká-nāts-ɲān-kōpʰ,[],,['chan2019'],,False,False,,1
+kpas1242-1-100-1,,kpas1242-1,100,káá-nɔ̃́ŋ,káá-nɔ̃́ŋ,[],( 20 x 5 ),['chan2019'],,False,False,,1
+kpas1242-1-200-1,,kpas1242-1,200,káá-nɔ̃́ŋ-ʔíē,káá-nɔ̃́ŋ-ʔíē,[],( 20 x 5 x 2 ),['chan2019'],,False,False,,1
+kpas1242-1-1000-1,,kpas1242-1,1000,kób-kób-tām-kópʰ,kób-kób-tām-kópʰ,[],,['chan2019'],,False,False,,1

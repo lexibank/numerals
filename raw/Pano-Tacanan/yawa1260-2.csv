@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yawa1260-2-1-1,,yawa1260-2,1,weste,weste,[],,[],,False,False,,2
-yawa1260-2-2-1,,yawa1260-2,2,hawe,hawe,[],,[],,False,False,,2
-yawa1260-2-3-1,,yawa1260-2,3,hawe-weste,hawe-weste,[],( 2 + 1 ),[],,False,False,,2
-yawa1260-2-4-1,,yawa1260-2,4,hawe-hawe,hawe-hawe,[],( 2 + 2 ),[],,False,False,,2
-yawa1260-2-5-1,,yawa1260-2,5,hawe-hawe-weste,hawe-hawe-weste,[],( 2 + 2 + 1 ),[],,False,False,,2
+yawa1260-2-1-1,,yawa1260-2,1,weste,weste,[],,['chan2019'],,False,False,,2
+yawa1260-2-2-1,,yawa1260-2,2,hawe,hawe,[],,['chan2019'],,False,False,,2
+yawa1260-2-3-1,,yawa1260-2,3,hawe-weste,hawe-weste,[],( 2 + 1 ),['chan2019'],,False,False,,2
+yawa1260-2-4-1,,yawa1260-2,4,hawe-hawe,hawe-hawe,[],( 2 + 2 ),['chan2019'],,False,False,,2
+yawa1260-2-5-1,,yawa1260-2,5,hawe-hawe-weste,hawe-hawe-weste,[],( 2 + 2 + 1 ),['chan2019'],,False,False,,2

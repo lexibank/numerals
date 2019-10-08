@@ -1,17 +1,17 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wamb1257-2-1-1,,wamb1257-2,1,kwalo,kwalo,[],,[],,False,False,,2
-wamb1257-2-1-2,,wamb1257-2,1,kwal,kwal,[],(SIL source),[],,False,False,,2
-wamb1257-2-2-1,,wamb1257-2,2,nimpʰa,nimpʰa,[],,[],,False,False,,2
-wamb1257-2-2-2,,wamb1257-2,2,niksi,niksi,[],(SIL source),[],,False,False,,2
-wamb1257-2-3-1,,wamb1257-2,3,summakʰa,summakʰa,[],,[],,False,False,,2
-wamb1257-2-4-1,,wamb1257-2,4,tsar,tsar,[],< Nepali ,[],,True,False,,2
-wamb1257-2-4-2,,wamb1257-2,4,ph^ibakʰa,ph^ibakʰa,[],,[],,False,False,,2
-wamb1257-2-5-1,,wamb1257-2,5,pãn,pãn,[],,[],,False,False,,2
-wamb1257-2-6-1,,wamb1257-2,6,kollabremci,kollabremci,[],( one hand ),[],,False,False,,2
-wamb1257-2-6-2,,wamb1257-2,6,tsʰʌ,tsʰʌ,[],,[],,False,False,,2
-wamb1257-2-7-1,,wamb1257-2,7,sat,sat,[],,[],,False,False,,2
-wamb1257-2-8-1,,wamb1257-2,8,aʈʰ,aʈʰ,[],,[],,False,False,,2
-wamb1257-2-9-1,,wamb1257-2,9,nʌu,nʌu,[],,[],,False,False,,2
-wamb1257-2-10-1,,wamb1257-2,10,dʌs,dʌs,[],,[],,False,False,,2
-wamb1257-2-11-1,,wamb1257-2,11,nimpʰalabremci,nimpʰalabremci,[],,[],,False,False,,2
-wamb1257-2-11-2,,wamb1257-2,11,egʰarʌ,egʰarʌ,[],,[],,False,False,,2
+wamb1257-2-1-1,,wamb1257-2,1,kwalo,kwalo,[],,['chan2019'],,False,False,,2
+wamb1257-2-1-2,,wamb1257-2,1,kwal,kwal,[],(SIL source),['chan2019'],,False,False,,2
+wamb1257-2-2-1,,wamb1257-2,2,nimpʰa,nimpʰa,[],,['chan2019'],,False,False,,2
+wamb1257-2-2-2,,wamb1257-2,2,niksi,niksi,[],(SIL source),['chan2019'],,False,False,,2
+wamb1257-2-3-1,,wamb1257-2,3,summakʰa,summakʰa,[],,['chan2019'],,False,False,,2
+wamb1257-2-4-1,,wamb1257-2,4,tsar,tsar,[],< Nepali ,['chan2019'],,True,False,,2
+wamb1257-2-4-2,,wamb1257-2,4,ph^ibakʰa,ph^ibakʰa,[],,['chan2019'],,False,False,,2
+wamb1257-2-5-1,,wamb1257-2,5,pãn,pãn,[],,['chan2019'],,False,False,,2
+wamb1257-2-6-1,,wamb1257-2,6,kollabremci,kollabremci,[],( one hand ),['chan2019'],,False,False,,2
+wamb1257-2-6-2,,wamb1257-2,6,tsʰʌ,tsʰʌ,[],,['chan2019'],,False,False,,2
+wamb1257-2-7-1,,wamb1257-2,7,sat,sat,[],,['chan2019'],,False,False,,2
+wamb1257-2-8-1,,wamb1257-2,8,aʈʰ,aʈʰ,[],,['chan2019'],,False,False,,2
+wamb1257-2-9-1,,wamb1257-2,9,nʌu,nʌu,[],,['chan2019'],,False,False,,2
+wamb1257-2-10-1,,wamb1257-2,10,dʌs,dʌs,[],,['chan2019'],,False,False,,2
+wamb1257-2-11-1,,wamb1257-2,11,nimpʰalabremci,nimpʰalabremci,[],,['chan2019'],,False,False,,2
+wamb1257-2-11-2,,wamb1257-2,11,egʰarʌ,egʰarʌ,[],,['chan2019'],,False,False,,2

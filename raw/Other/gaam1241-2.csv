@@ -1,28 +1,28 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gaam1241-2-1-1,,gaam1241-2,1,taman,taman,[],,[],,False,False,,2
-gaam1241-2-2-1,,gaam1241-2,2,diɔk,diɔk,[],,[],,False,False,,2
-gaam1241-2-2-2,,gaam1241-2,2,diak,diak,[],,[],,False,False,,2
-gaam1241-2-3-1,,gaam1241-2,3,oða,oða,[],,[],,False,False,,2
-gaam1241-2-3-2,,gaam1241-2,3,ʔoda,ʔoda,[],,[],,False,False,,2
-gaam1241-2-4-1,,gaam1241-2,4,yɛsu,yɛsu,[],,[],,False,False,,2
-gaam1241-2-4-2,,gaam1241-2,4,yɛzan,yɛzan,[],,[],,False,False,,2
-gaam1241-2-5-1,,gaam1241-2,5,ʌsumʌn,ʌsumʌn,[],,[],,False,False,,2
-gaam1241-2-6-1,,gaam1241-2,6,tɛltɛk,tɛltɛk,[],,[],,False,False,,2
-gaam1241-2-6-2,,gaam1241-2,6,tɛldɛk,tɛldɛk,[],,[],,False,False,,2
-gaam1241-2-7-1,,gaam1241-2,7,tauðuk,tauðuk,[],,[],,False,False,,2
-gaam1241-2-7-2,,gaam1241-2,7,idakʼdiak,idakʼdiak,[],( 5 + 2 ),[],,False,False,,2
-gaam1241-2-8-1,,gaam1241-2,8,kurbaiti,kurbaiti,[],,[],,False,False,,2
-gaam1241-2-8-2,,gaam1241-2,8,idukʼʔoda,idukʼʔoda,[],( 5 + 3 ),[],,False,False,,2
-gaam1241-2-9-1,,gaam1241-2,9,akaitɛn,akaitɛn,[],,[],,False,False,,2
-gaam1241-2-9-2,,gaam1241-2,9,idukʼyɛsu,idukʼyɛsu,[],( 5 + 4 ),[],,False,False,,2
-gaam1241-2-10-1,,gaam1241-2,10,ʔasiɡdi,ʔasiɡdi,[],,[],,False,False,,2
-gaam1241-2-11-1,,gaam1241-2,11,ʔasiɡdi ɛtɛn taman,ʔasiɡdi ɛtɛn taman,[],,[],,False,False,,2
-gaam1241-2-12-1,,gaam1241-2,12,ʔasiɡdi ɛtiɡin diɔk,ʔasiɡdi ɛtiɡin diɔk,[],,[],,False,False,,2
-gaam1241-2-13-1,,gaam1241-2,13,ʔasiɡdi ɛl oða,ʔasiɡdi ɛl oða,[],,[],,False,False,,2
-gaam1241-2-14-1,,gaam1241-2,14,ʔasiɡdi yoli yɛsu,ʔasiɡdi yoli yɛsu,[],,[],,False,False,,2
-gaam1241-2-20-1,,gaam1241-2,20,dʒadwiaʔ,dʒadwiaʔ,[],,[],,False,False,,2
-gaam1241-2-20-2,,gaam1241-2,20,jaduwɪn,jaduwɪn,[],,[],,False,False,,2
-gaam1241-2-20-3,,gaam1241-2,20,jāduyán,jāduyán,[],,[],,False,False,,2
-gaam1241-2-30-1,,gaam1241-2,30,jaduwɪn yol siɡdi,jaduwɪn yol siɡdi,[],,[],,False,False,,2
-gaam1241-2-40-1,,gaam1241-2,40,jaduwɪn yol diɔk,jaduwɪn yol diɔk,[],,[],,False,False,,2
-gaam1241-2-100-1,,gaam1241-2,100,jaduwaŋ tal ʌsumʌn,jaduwaŋ tal ʌsumʌn,[],( 20 x 5 ),[],,False,False,,2
+gaam1241-2-1-1,,gaam1241-2,1,taman,taman,[],,['chan2019'],,False,False,,2
+gaam1241-2-2-1,,gaam1241-2,2,diɔk,diɔk,[],,['chan2019'],,False,False,,2
+gaam1241-2-2-2,,gaam1241-2,2,diak,diak,[],,['chan2019'],,False,False,,2
+gaam1241-2-3-1,,gaam1241-2,3,oða,oða,[],,['chan2019'],,False,False,,2
+gaam1241-2-3-2,,gaam1241-2,3,ʔoda,ʔoda,[],,['chan2019'],,False,False,,2
+gaam1241-2-4-1,,gaam1241-2,4,yɛsu,yɛsu,[],,['chan2019'],,False,False,,2
+gaam1241-2-4-2,,gaam1241-2,4,yɛzan,yɛzan,[],,['chan2019'],,False,False,,2
+gaam1241-2-5-1,,gaam1241-2,5,ʌsumʌn,ʌsumʌn,[],,['chan2019'],,False,False,,2
+gaam1241-2-6-1,,gaam1241-2,6,tɛltɛk,tɛltɛk,[],,['chan2019'],,False,False,,2
+gaam1241-2-6-2,,gaam1241-2,6,tɛldɛk,tɛldɛk,[],,['chan2019'],,False,False,,2
+gaam1241-2-7-1,,gaam1241-2,7,tauðuk,tauðuk,[],,['chan2019'],,False,False,,2
+gaam1241-2-7-2,,gaam1241-2,7,idakʼdiak,idakʼdiak,[],( 5 + 2 ),['chan2019'],,False,False,,2
+gaam1241-2-8-1,,gaam1241-2,8,kurbaiti,kurbaiti,[],,['chan2019'],,False,False,,2
+gaam1241-2-8-2,,gaam1241-2,8,idukʼʔoda,idukʼʔoda,[],( 5 + 3 ),['chan2019'],,False,False,,2
+gaam1241-2-9-1,,gaam1241-2,9,akaitɛn,akaitɛn,[],,['chan2019'],,False,False,,2
+gaam1241-2-9-2,,gaam1241-2,9,idukʼyɛsu,idukʼyɛsu,[],( 5 + 4 ),['chan2019'],,False,False,,2
+gaam1241-2-10-1,,gaam1241-2,10,ʔasiɡdi,ʔasiɡdi,[],,['chan2019'],,False,False,,2
+gaam1241-2-11-1,,gaam1241-2,11,ʔasiɡdi ɛtɛn taman,ʔasiɡdi ɛtɛn taman,[],,['chan2019'],,False,False,,2
+gaam1241-2-12-1,,gaam1241-2,12,ʔasiɡdi ɛtiɡin diɔk,ʔasiɡdi ɛtiɡin diɔk,[],,['chan2019'],,False,False,,2
+gaam1241-2-13-1,,gaam1241-2,13,ʔasiɡdi ɛl oða,ʔasiɡdi ɛl oða,[],,['chan2019'],,False,False,,2
+gaam1241-2-14-1,,gaam1241-2,14,ʔasiɡdi yoli yɛsu,ʔasiɡdi yoli yɛsu,[],,['chan2019'],,False,False,,2
+gaam1241-2-20-1,,gaam1241-2,20,dʒadwiaʔ,dʒadwiaʔ,[],,['chan2019'],,False,False,,2
+gaam1241-2-20-2,,gaam1241-2,20,jaduwɪn,jaduwɪn,[],,['chan2019'],,False,False,,2
+gaam1241-2-20-3,,gaam1241-2,20,jāduyán,jāduyán,[],,['chan2019'],,False,False,,2
+gaam1241-2-30-1,,gaam1241-2,30,jaduwɪn yol siɡdi,jaduwɪn yol siɡdi,[],,['chan2019'],,False,False,,2
+gaam1241-2-40-1,,gaam1241-2,40,jaduwɪn yol diɔk,jaduwɪn yol diɔk,[],,['chan2019'],,False,False,,2
+gaam1241-2-100-1,,gaam1241-2,100,jaduwaŋ tal ʌsumʌn,jaduwaŋ tal ʌsumʌn,[],( 20 x 5 ),['chan2019'],,False,False,,2

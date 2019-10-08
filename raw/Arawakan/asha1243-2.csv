@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-asha1243-2-1-1,,asha1243-2,1,aparo,aparo,[],,[],,False,False,,2
-asha1243-2-2-1,,asha1243-2,2,apite,apite,[],,[],,False,False,,2
-asha1243-2-3-1,,asha1243-2,3,mava,mava,[],,[],,False,False,,2
-asha1243-2-4-1,,asha1243-2,4,otsipasati,otsipasati,[],,[],,False,False,,2
-asha1243-2-5-1,,asha1243-2,5,apapacoroni,apapacoroni,[],(lit: 'a hand full' ),[],,False,False,,2
+asha1243-2-1-1,,asha1243-2,1,aparo,aparo,[],,['chan2019'],,False,False,,2
+asha1243-2-2-1,,asha1243-2,2,apite,apite,[],,['chan2019'],,False,False,,2
+asha1243-2-3-1,,asha1243-2,3,mava,mava,[],,['chan2019'],,False,False,,2
+asha1243-2-4-1,,asha1243-2,4,otsipasati,otsipasati,[],,['chan2019'],,False,False,,2
+asha1243-2-5-1,,asha1243-2,5,apapacoroni,apapacoroni,[],(lit: 'a hand full' ),['chan2019'],,False,False,,2

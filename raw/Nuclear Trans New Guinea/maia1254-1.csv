@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maia1254-1-1-1,,maia1254-1,1,duwa,duwa,[],,[],,False,False,,1
-maia1254-1-2-1,,maia1254-1,2,iner,iner,[],,[],,False,False,,1
-maia1254-1-3-1,,maia1254-1,3,arop,arop,[],,[],,False,False,,1
-maia1254-1-4-1,,maia1254-1,4,rabam,rabam,[],,[],,False,False,,1
-maia1254-1-5-1,,maia1254-1,5,iɡur,iɡur,[],,[],,False,False,,1
-maia1254-1-6-1,,maia1254-1,6,iɡur kuvikra duwa,iɡur kuvikra duwa,[],(litː 'five other side one'),[],,False,False,,1
-maia1254-1-7-1,,maia1254-1,7,iɡur kuvikra iner,iɡur kuvikra iner,[],(litː 'five other side two'),[],,False,False,,1
-maia1254-1-8-1,,maia1254-1,8,iɡur kuvikra arop,iɡur kuvikra arop,[],(litː 'five other side three'),[],,False,False,,1
-maia1254-1-9-1,,maia1254-1,9,iɡur kuvikra rabam,iɡur kuvikra rabam,[],(litː 'five other side four'),[],,False,False,,1
-maia1254-1-10-1,,maia1254-1,10,iɡur kuvikra iɡur,iɡur kuvikra iɡur,[],(litː ' five other side five'),[],,False,False,,1
-maia1254-1-11-1,,maia1254-1,11,Pidgin,Pidgin,[],,[],,False,True,,1
-maia1254-1-11-2,,maia1254-1,11,English terms used,English terms used,[],,[],,False,True,,1
+maia1254-1-1-1,,maia1254-1,1,duwa,duwa,[],,['chan2019'],,False,False,,1
+maia1254-1-2-1,,maia1254-1,2,iner,iner,[],,['chan2019'],,False,False,,1
+maia1254-1-3-1,,maia1254-1,3,arop,arop,[],,['chan2019'],,False,False,,1
+maia1254-1-4-1,,maia1254-1,4,rabam,rabam,[],,['chan2019'],,False,False,,1
+maia1254-1-5-1,,maia1254-1,5,iɡur,iɡur,[],,['chan2019'],,False,False,,1
+maia1254-1-6-1,,maia1254-1,6,iɡur kuvikra duwa,iɡur kuvikra duwa,[],(litː 'five other side one'),['chan2019'],,False,False,,1
+maia1254-1-7-1,,maia1254-1,7,iɡur kuvikra iner,iɡur kuvikra iner,[],(litː 'five other side two'),['chan2019'],,False,False,,1
+maia1254-1-8-1,,maia1254-1,8,iɡur kuvikra arop,iɡur kuvikra arop,[],(litː 'five other side three'),['chan2019'],,False,False,,1
+maia1254-1-9-1,,maia1254-1,9,iɡur kuvikra rabam,iɡur kuvikra rabam,[],(litː 'five other side four'),['chan2019'],,False,False,,1
+maia1254-1-10-1,,maia1254-1,10,iɡur kuvikra iɡur,iɡur kuvikra iɡur,[],(litː ' five other side five'),['chan2019'],,False,False,,1
+maia1254-1-11-1,,maia1254-1,11,Pidgin,Pidgin,[],,['chan2019'],,False,True,,1
+maia1254-1-11-2,,maia1254-1,11,English terms used,English terms used,[],,['chan2019'],,False,True,,1

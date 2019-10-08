@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cash1254-1-1-1,,cash1254-1,1,besti [bɨsti),besti [bɨsti),[],(Brazilian variety),[],,False,True,,1
-cash1254-1-2-1,,cash1254-1,2,rabɨ,rabɨ,[],( litː ''a pair''),[],,False,False,rabe,1
-cash1254-1-3-1,,cash1254-1,3,rabɨ bɨsti,rabɨ bɨsti,[],(litː ''a pair and a unite''),[],,False,False,rabe besti,1
-cash1254-1-4-1,,cash1254-1,4,rabe rabe,rabe rabe,[],( litː ''two pairs'' ),[],,False,False,,1
-cash1254-1-5-1,,cash1254-1,5,mekẽ besti (lit: ''one hand''],mekẽ besti (lit: ''one hand''],[],,[],,False,True,,1
-cash1254-1-6-1,,cash1254-1,6,mekẽ inũ besti or mekẽ inũ metuli dabe,mekẽ inũ besti or mekẽ inũ metuli dabe,[],[litː ''one hand and a finger''],[],,False,True,,1
-cash1254-1-7-1,,cash1254-1,7,mekẽ inũ rabe,mekẽ inũ rabe,[],,[],,False,False,,1
-cash1254-1-8-1,,cash1254-1,8,mekẽ inũ rabe inũ besti,mekẽ inũ rabe inũ besti,[],,[],,False,False,,1
-cash1254-1-9-1,,cash1254-1,9,mekẽ inũ rabe rabe,mekẽ inũ rabe rabe,[],,[],,False,False,,1
-cash1254-1-10-1,,cash1254-1,10,mekẽ inũ,mekẽ inũ,[],,[],,False,False,,1
-cash1254-1-15-1,,cash1254-1,15,mekẽ rabe inũ mekẽ besti,mekẽ rabe inũ mekẽ besti,[],,[],,False,False,,1
-cash1254-1-20-1,,cash1254-1,20,mekẽ rabe inũ tae [taɨ] rabe [litː ''two hands and two feet''),mekẽ rabe inũ tae [taɨ] rabe [litː ''two hands and two feet''),[],,[],,False,True,,1
+cash1254-1-1-1,,cash1254-1,1,besti [bɨsti),besti [bɨsti),[],(Brazilian variety),['chan2019'],,False,True,,1
+cash1254-1-2-1,,cash1254-1,2,rabɨ,rabɨ,[],( litː ''a pair''),['chan2019'],,False,False,rabe,1
+cash1254-1-3-1,,cash1254-1,3,rabɨ bɨsti,rabɨ bɨsti,[],(litː ''a pair and a unite''),['chan2019'],,False,False,rabe besti,1
+cash1254-1-4-1,,cash1254-1,4,rabe rabe,rabe rabe,[],( litː ''two pairs'' ),['chan2019'],,False,False,,1
+cash1254-1-5-1,,cash1254-1,5,mekẽ besti (lit: ''one hand''],mekẽ besti (lit: ''one hand''],[],,['chan2019'],,False,True,,1
+cash1254-1-6-1,,cash1254-1,6,mekẽ inũ besti or mekẽ inũ metuli dabe,mekẽ inũ besti or mekẽ inũ metuli dabe,[],[litː ''one hand and a finger''],['chan2019'],,False,True,,1
+cash1254-1-7-1,,cash1254-1,7,mekẽ inũ rabe,mekẽ inũ rabe,[],,['chan2019'],,False,False,,1
+cash1254-1-8-1,,cash1254-1,8,mekẽ inũ rabe inũ besti,mekẽ inũ rabe inũ besti,[],,['chan2019'],,False,False,,1
+cash1254-1-9-1,,cash1254-1,9,mekẽ inũ rabe rabe,mekẽ inũ rabe rabe,[],,['chan2019'],,False,False,,1
+cash1254-1-10-1,,cash1254-1,10,mekẽ inũ,mekẽ inũ,[],,['chan2019'],,False,False,,1
+cash1254-1-15-1,,cash1254-1,15,mekẽ rabe inũ mekẽ besti,mekẽ rabe inũ mekẽ besti,[],,['chan2019'],,False,False,,1
+cash1254-1-20-1,,cash1254-1,20,mekẽ rabe inũ tae [taɨ] rabe [litː ''two hands and two feet''),mekẽ rabe inũ tae [taɨ] rabe [litː ''two hands and two feet''),[],,['chan2019'],,False,True,,1

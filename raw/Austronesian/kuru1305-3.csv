@@ -1,20 +1,20 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuru1305-3-1-1,,kuru1305-3,1,bosɑndi,bosɑndi,[],,[],,False,False,,3
-kuru1305-3-2-1,,kuru1305-3,2,boru,boru,[],,[],,False,False,,3
-kuru1305-3-3-1,,kuru1305-3,3,botoru,botoru,[],,[],,False,False,,3
-kuru1305-3-4-1,,kuru1305-3,4,boɑt,boɑt,[],,[],,False,False,,3
-kuru1305-3-5-1,,kuru1305-3,5,bowerin,bowerin,[],,[],,False,False,,3
-kuru1305-3-6-1,,kuru1305-3,6,bowerin bosɑndi,bowerin bosɑndi,[],,[],,False,False,,3
-kuru1305-3-7-1,,kuru1305-3,7,bowerin boru,bowerin boru,[],,[],,False,False,,3
-kuru1305-3-8-1,,kuru1305-3,8,bowerin boɑt,bowerin boɑt,[],,[],,False,False,,3
-kuru1305-3-9-1,,kuru1305-3,9,bowerin bowerin,bowerin bowerin,[],,[],,False,False,,3
-kuru1305-3-10-1,,kuru1305-3,10,soro,soro,[],,[],,False,False,,3
-kuru1305-3-11-1,,kuru1305-3,11,soro bosɑndi,soro bosɑndi,[],,[],,False,False,,3
-kuru1305-3-12-1,,kuru1305-3,12,soro boru,soro boru,[],,[],,False,False,,3
-kuru1305-3-13-1,,kuru1305-3,13,soro boɑt,soro boɑt,[],,[],,False,False,,3
-kuru1305-3-14-1,,kuru1305-3,14,soro bowerin,soro bowerin,[],,[],,False,False,,3
-kuru1305-3-15-1,,kuru1305-3,15,soro bowerin,soro bowerin,[],,[],,False,False,,3
-kuru1305-3-16-1,,kuru1305-3,16,soro bowerin bosɑndi,soro bowerin bosɑndi,[],,[],,False,False,,3
-kuru1305-3-17-1,,kuru1305-3,17,soro bowerin boru,soro bowerin boru,[],,[],,False,False,,3
-kuru1305-3-18-1,,kuru1305-3,18,soro bowerin boɑt,soro bowerin boɑt,[],,[],,False,False,,3
-kuru1305-3-19-1,,kuru1305-3,19,soro bowerin bowerin,soro bowerin bowerin,[],,[],,False,False,,3
+kuru1305-3-1-1,,kuru1305-3,1,bosɑndi,bosɑndi,[],,['chan2019'],,False,False,,3
+kuru1305-3-2-1,,kuru1305-3,2,boru,boru,[],,['chan2019'],,False,False,,3
+kuru1305-3-3-1,,kuru1305-3,3,botoru,botoru,[],,['chan2019'],,False,False,,3
+kuru1305-3-4-1,,kuru1305-3,4,boɑt,boɑt,[],,['chan2019'],,False,False,,3
+kuru1305-3-5-1,,kuru1305-3,5,bowerin,bowerin,[],,['chan2019'],,False,False,,3
+kuru1305-3-6-1,,kuru1305-3,6,bowerin bosɑndi,bowerin bosɑndi,[],,['chan2019'],,False,False,,3
+kuru1305-3-7-1,,kuru1305-3,7,bowerin boru,bowerin boru,[],,['chan2019'],,False,False,,3
+kuru1305-3-8-1,,kuru1305-3,8,bowerin boɑt,bowerin boɑt,[],,['chan2019'],,False,False,,3
+kuru1305-3-9-1,,kuru1305-3,9,bowerin bowerin,bowerin bowerin,[],,['chan2019'],,False,False,,3
+kuru1305-3-10-1,,kuru1305-3,10,soro,soro,[],,['chan2019'],,False,False,,3
+kuru1305-3-11-1,,kuru1305-3,11,soro bosɑndi,soro bosɑndi,[],,['chan2019'],,False,False,,3
+kuru1305-3-12-1,,kuru1305-3,12,soro boru,soro boru,[],,['chan2019'],,False,False,,3
+kuru1305-3-13-1,,kuru1305-3,13,soro boɑt,soro boɑt,[],,['chan2019'],,False,False,,3
+kuru1305-3-14-1,,kuru1305-3,14,soro bowerin,soro bowerin,[],,['chan2019'],,False,False,,3
+kuru1305-3-15-1,,kuru1305-3,15,soro bowerin,soro bowerin,[],,['chan2019'],,False,False,,3
+kuru1305-3-16-1,,kuru1305-3,16,soro bowerin bosɑndi,soro bowerin bosɑndi,[],,['chan2019'],,False,False,,3
+kuru1305-3-17-1,,kuru1305-3,17,soro bowerin boru,soro bowerin boru,[],,['chan2019'],,False,False,,3
+kuru1305-3-18-1,,kuru1305-3,18,soro bowerin boɑt,soro bowerin boɑt,[],,['chan2019'],,False,False,,3
+kuru1305-3-19-1,,kuru1305-3,19,soro bowerin bowerin,soro bowerin bowerin,[],,['chan2019'],,False,False,,3

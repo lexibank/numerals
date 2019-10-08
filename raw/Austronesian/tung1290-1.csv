@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tung1290-1-1-1,,tung1290-1,1,sikei,sikei,[],,[],,False,False,,1
-tung1290-1-2-1,,tung1290-1,2,poŋua,poŋua,[],,[],,False,False,,1
-tung1290-1-3-1,,tung1290-1,3,potol,potol,[],,[],,False,False,,1
-tung1290-1-4-1,,tung1290-1,4,puat,puat,[],,[],,False,False,,1
-tung1290-1-5-1,,tung1290-1,5,palpallima,palpallima,[],,[],,False,False,,1
-tung1290-1-6-1,,tung1290-1,6,limalesikei,limalesikei,[],( 5 + 1 ),[],,False,False,,1
-tung1290-1-7-1,,tung1290-1,7,limaleŋua,limaleŋua,[],( 5 + 2 ),[],,False,False,,1
-tung1290-1-8-1,,tung1290-1,8,limaleat,limaleat,[],( 5 + 3 ),[],,False,False,,1
-tung1290-1-9-1,,tung1290-1,9,limaletul,limaletul,[],( 5 + 4 ),[],,False,False,,1
-tung1290-1-10-1,,tung1290-1,10,sikei a saŋauli,sikei a saŋauli,[],,[],,False,False,,1
-tung1290-1-11-1,,tung1290-1,11,sikei a saŋauli na sikei,sikei a saŋauli na sikei,[],,[],,False,False,,1
-tung1290-1-12-1,,tung1290-1,12,sikei a saŋauli na poŋua,sikei a saŋauli na poŋua,[],,[],,False,False,,1
-tung1290-1-13-1,,tung1290-1,13,sikei a saŋauli na potol,sikei a saŋauli na potol,[],,[],,False,False,,1
-tung1290-1-14-1,,tung1290-1,14,sikei a saŋauli na puat,sikei a saŋauli na puat,[],,[],,False,False,,1
-tung1290-1-15-1,,tung1290-1,15,sikei a saŋauli na palpallima,sikei a saŋauli na palpallima,[],,[],,False,False,,1
-tung1290-1-16-1,,tung1290-1,16,sikei a saŋauli na limalesikei,sikei a saŋauli na limalesikei,[],,[],,False,False,,1
-tung1290-1-17-1,,tung1290-1,17,sikei a saŋauli na limaleŋua,sikei a saŋauli na limaleŋua,[],,[],,False,False,,1
-tung1290-1-18-1,,tung1290-1,18,sikei a saŋauli na limaleat,sikei a saŋauli na limaleat,[],,[],,False,False,,1
-tung1290-1-19-1,,tung1290-1,19,sikei a saŋauli na limaletul,sikei a saŋauli na limaletul,[],,[],,False,False,,1
-tung1290-1-20-1,,tung1290-1,20,poŋua na saŋauli,poŋua na saŋauli,[],,[],,False,False,,1
-tung1290-1-21-1,,tung1290-1,21,poŋua na saŋauli na sikei,poŋua na saŋauli na sikei,[],,[],,False,False,,1
-tung1290-1-22-1,,tung1290-1,22,poŋua na saŋauli na poŋua,poŋua na saŋauli na poŋua,[],,[],,False,False,,1
-tung1290-1-23-1,,tung1290-1,23,poŋua na saŋauli na potol,poŋua na saŋauli na potol,[],,[],,False,False,,1
-tung1290-1-24-1,,tung1290-1,24,poŋua na saŋauli na puat,poŋua na saŋauli na puat,[],,[],,False,False,,1
-tung1290-1-25-1,,tung1290-1,25,poŋua na saŋauli na palpallima,poŋua na saŋauli na palpallima,[],,[],,False,False,,1
-tung1290-1-26-1,,tung1290-1,26,poŋua na saŋauli na limalesikei,poŋua na saŋauli na limalesikei,[],,[],,False,False,,1
-tung1290-1-27-1,,tung1290-1,27,poŋua na saŋauli na limaleŋua,poŋua na saŋauli na limaleŋua,[],,[],,False,False,,1
-tung1290-1-28-1,,tung1290-1,28,poŋua na saŋauli na limaleat,poŋua na saŋauli na limaleat,[],,[],,False,False,,1
-tung1290-1-29-1,,tung1290-1,29,poŋua na saŋauli na limaletul,poŋua na saŋauli na limaletul,[],,[],,False,False,,1
-tung1290-1-30-1,,tung1290-1,30,potol a saŋauli,potol a saŋauli,[],,[],,False,False,,1
-tung1290-1-40-1,,tung1290-1,40,puat a saŋauli,puat a saŋauli,[],,[],,False,False,,1
-tung1290-1-50-1,,tung1290-1,50,palpallima na saŋauli,palpallima na saŋauli,[],,[],,False,False,,1
-tung1290-1-60-1,,tung1290-1,60,limalesikei na saŋauli,limalesikei na saŋauli,[],,[],,False,False,,1
-tung1290-1-70-1,,tung1290-1,70,limaleŋua saŋauli,limaleŋua saŋauli,[],,[],,False,False,,1
-tung1290-1-80-1,,tung1290-1,80,limaleat saŋauli,limaleat saŋauli,[],,[],,False,False,,1
-tung1290-1-90-1,,tung1290-1,90,limaletul saŋauli,limaletul saŋauli,[],,[],,False,False,,1
-tung1290-1-100-1,,tung1290-1,100,sikei a lelen saŋauli,sikei a lelen saŋauli,[],,[],,False,False,,1
-tung1290-1-200-1,,tung1290-1,200,poŋua na lelen saŋauli,poŋua na lelen saŋauli,[],,[],,False,False,,1
-tung1290-1-1000-1,,tung1290-1,1000,sikei a tausen,sikei a tausen,[],( < English),[],,True,False,,1
-tung1290-1-2000-1,,tung1290-1,2000,poŋua na tausen,poŋua na tausen,[],,[],,False,False,,1
+tung1290-1-1-1,,tung1290-1,1,sikei,sikei,[],,['chan2019'],,False,False,,1
+tung1290-1-2-1,,tung1290-1,2,poŋua,poŋua,[],,['chan2019'],,False,False,,1
+tung1290-1-3-1,,tung1290-1,3,potol,potol,[],,['chan2019'],,False,False,,1
+tung1290-1-4-1,,tung1290-1,4,puat,puat,[],,['chan2019'],,False,False,,1
+tung1290-1-5-1,,tung1290-1,5,palpallima,palpallima,[],,['chan2019'],,False,False,,1
+tung1290-1-6-1,,tung1290-1,6,limalesikei,limalesikei,[],( 5 + 1 ),['chan2019'],,False,False,,1
+tung1290-1-7-1,,tung1290-1,7,limaleŋua,limaleŋua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+tung1290-1-8-1,,tung1290-1,8,limaleat,limaleat,[],( 5 + 3 ),['chan2019'],,False,False,,1
+tung1290-1-9-1,,tung1290-1,9,limaletul,limaletul,[],( 5 + 4 ),['chan2019'],,False,False,,1
+tung1290-1-10-1,,tung1290-1,10,sikei a saŋauli,sikei a saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-11-1,,tung1290-1,11,sikei a saŋauli na sikei,sikei a saŋauli na sikei,[],,['chan2019'],,False,False,,1
+tung1290-1-12-1,,tung1290-1,12,sikei a saŋauli na poŋua,sikei a saŋauli na poŋua,[],,['chan2019'],,False,False,,1
+tung1290-1-13-1,,tung1290-1,13,sikei a saŋauli na potol,sikei a saŋauli na potol,[],,['chan2019'],,False,False,,1
+tung1290-1-14-1,,tung1290-1,14,sikei a saŋauli na puat,sikei a saŋauli na puat,[],,['chan2019'],,False,False,,1
+tung1290-1-15-1,,tung1290-1,15,sikei a saŋauli na palpallima,sikei a saŋauli na palpallima,[],,['chan2019'],,False,False,,1
+tung1290-1-16-1,,tung1290-1,16,sikei a saŋauli na limalesikei,sikei a saŋauli na limalesikei,[],,['chan2019'],,False,False,,1
+tung1290-1-17-1,,tung1290-1,17,sikei a saŋauli na limaleŋua,sikei a saŋauli na limaleŋua,[],,['chan2019'],,False,False,,1
+tung1290-1-18-1,,tung1290-1,18,sikei a saŋauli na limaleat,sikei a saŋauli na limaleat,[],,['chan2019'],,False,False,,1
+tung1290-1-19-1,,tung1290-1,19,sikei a saŋauli na limaletul,sikei a saŋauli na limaletul,[],,['chan2019'],,False,False,,1
+tung1290-1-20-1,,tung1290-1,20,poŋua na saŋauli,poŋua na saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-21-1,,tung1290-1,21,poŋua na saŋauli na sikei,poŋua na saŋauli na sikei,[],,['chan2019'],,False,False,,1
+tung1290-1-22-1,,tung1290-1,22,poŋua na saŋauli na poŋua,poŋua na saŋauli na poŋua,[],,['chan2019'],,False,False,,1
+tung1290-1-23-1,,tung1290-1,23,poŋua na saŋauli na potol,poŋua na saŋauli na potol,[],,['chan2019'],,False,False,,1
+tung1290-1-24-1,,tung1290-1,24,poŋua na saŋauli na puat,poŋua na saŋauli na puat,[],,['chan2019'],,False,False,,1
+tung1290-1-25-1,,tung1290-1,25,poŋua na saŋauli na palpallima,poŋua na saŋauli na palpallima,[],,['chan2019'],,False,False,,1
+tung1290-1-26-1,,tung1290-1,26,poŋua na saŋauli na limalesikei,poŋua na saŋauli na limalesikei,[],,['chan2019'],,False,False,,1
+tung1290-1-27-1,,tung1290-1,27,poŋua na saŋauli na limaleŋua,poŋua na saŋauli na limaleŋua,[],,['chan2019'],,False,False,,1
+tung1290-1-28-1,,tung1290-1,28,poŋua na saŋauli na limaleat,poŋua na saŋauli na limaleat,[],,['chan2019'],,False,False,,1
+tung1290-1-29-1,,tung1290-1,29,poŋua na saŋauli na limaletul,poŋua na saŋauli na limaletul,[],,['chan2019'],,False,False,,1
+tung1290-1-30-1,,tung1290-1,30,potol a saŋauli,potol a saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-40-1,,tung1290-1,40,puat a saŋauli,puat a saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-50-1,,tung1290-1,50,palpallima na saŋauli,palpallima na saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-60-1,,tung1290-1,60,limalesikei na saŋauli,limalesikei na saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-70-1,,tung1290-1,70,limaleŋua saŋauli,limaleŋua saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-80-1,,tung1290-1,80,limaleat saŋauli,limaleat saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-90-1,,tung1290-1,90,limaletul saŋauli,limaletul saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-100-1,,tung1290-1,100,sikei a lelen saŋauli,sikei a lelen saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-200-1,,tung1290-1,200,poŋua na lelen saŋauli,poŋua na lelen saŋauli,[],,['chan2019'],,False,False,,1
+tung1290-1-1000-1,,tung1290-1,1000,sikei a tausen,sikei a tausen,[],( < English),['chan2019'],,True,False,,1
+tung1290-1-2000-1,,tung1290-1,2000,poŋua na tausen,poŋua na tausen,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-konk1267-2-1-1,,konk1267-2,1,e:kə,e:kə,[],,[],,False,False,,2
-konk1267-2-2-1,,konk1267-2,2,doːni,doːni,[],,[],,False,False,,2
-konk1267-2-3-1,,konk1267-2,3,tin,tin,[],,[],,False,False,,2
-konk1267-2-4-1,,konk1267-2,4,t͡ʃar,t͡ʃar,[],,[],,False,False,,2
-konk1267-2-5-1,,konk1267-2,5,pənt͡sə,pənt͡sə,[],,[],,False,False,,2
-konk1267-2-6-1,,konk1267-2,6,sə,sə,[],,[],,False,False,,2
-konk1267-2-7-1,,konk1267-2,7,saːə,saːə,[],,[],,False,False,,2
-konk1267-2-8-1,,konk1267-2,8,aːʈə,aːʈə,[],,[],,False,False,,2
-konk1267-2-9-1,,konk1267-2,9,nəvvə,nəvvə,[],,[],,False,False,,2
-konk1267-2-10-1,,konk1267-2,10,dʰə,dʰə,[],,[],,False,False,,2
-konk1267-2-11-1,,konk1267-2,11,ikkʰəːra,ikkʰəːra,[],,[],,False,False,,2
-konk1267-2-12-1,,konk1267-2,12,baːra,baːra,[],,[],,False,False,,2
-konk1267-2-13-1,,konk1267-2,13,tɛːra,tɛːra,[],,[],,False,False,,2
-konk1267-2-14-1,,konk1267-2,14,t͡sovda,t͡sovda,[],,[],,False,False,,2
-konk1267-2-15-1,,konk1267-2,15,ponneːra,ponneːra,[],,[],,False,False,,2
-konk1267-2-16-1,,konk1267-2,16,soːla,soːla,[],,[],,False,False,,2
-konk1267-2-17-1,,konk1267-2,17,sətteːra,sətteːra,[],,[],,False,False,,2
-konk1267-2-18-1,,konk1267-2,18,aːʂa,aːʂa,[],,[],,False,False,,2
-konk1267-2-19-1,,konk1267-2,19,ikkuːɳis,ikkuːɳis,[],( 20 - 1),[],,False,False,,2
-konk1267-2-20-1,,konk1267-2,20,viːs,viːs,[],,[],,False,False,,2
-konk1267-2-21-1,,konk1267-2,21,ekkeːviːs,ekkeːviːs,[],,[],,False,False,,2
-konk1267-2-22-1,,konk1267-2,22,baːviːs,baːviːs,[],,[],,False,False,,2
-konk1267-2-23-1,,konk1267-2,23,teːviːs,teːviːs,[],,[],,False,False,,2
-konk1267-2-24-1,,konk1267-2,24,t͡ʃoːviːs,t͡ʃoːviːs,[],,[],,False,False,,2
-konk1267-2-25-1,,konk1267-2,25,pənt͡ʃeːviːs,pənt͡ʃeːviːs,[],,[],,False,False,,2
-konk1267-2-26-1,,konk1267-2,26,soːviːs,soːviːs,[],,[],,False,False,,2
-konk1267-2-27-1,,konk1267-2,27,səttaːviːs,səttaːviːs,[],,[],,False,False,,2
-konk1267-2-28-1,,konk1267-2,28,əʈʈʰaːviːs,əʈʈʰaːviːs,[],,[],,False,False,,2
-konk1267-2-29-1,,konk1267-2,29,ikkuɳtis,ikkuɳtis,[],( 30 - 1),[],,False,False,,2
-konk1267-2-30-1,,konk1267-2,30,tiːs,tiːs,[],,[],,False,False,,2
-konk1267-2-40-1,,konk1267-2,40,t͡ʃaːɭiːs,t͡ʃaːɭiːs,[],,[],,False,False,,2
-konk1267-2-50-1,,konk1267-2,50,pənnaːs,pənnaːs,[],,[],,False,False,,2
-konk1267-2-60-1,,konk1267-2,60,saːʈi,saːʈi,[],,[],,False,False,,2
-konk1267-2-70-1,,konk1267-2,70,səttəːri,səttəːri,[],,[],,False,False,,2
-konk1267-2-80-1,,konk1267-2,80,əssi,əssi,[],,[],,False,False,,2
-konk1267-2-90-1,,konk1267-2,90,nəːvi,nəːvi,[],,[],,False,False,,2
-konk1267-2-100-1,,konk1267-2,100,sɛ̃,sɛ̃,[],,[],,False,False,,2
-konk1267-2-200-1,,konk1267-2,200,donni sɛ̃,donni sɛ̃,[],,[],,False,False,,2
-konk1267-2-1000-1,,konk1267-2,1000,saːsu,saːsu,[],,[],,False,False,,2
-konk1267-2-2000-1,,konk1267-2,2000,don həd͡ʒar,don həd͡ʒar,[],,[],,False,False,,2
+konk1267-2-1-1,,konk1267-2,1,e:kə,e:kə,[],,['chan2019'],,False,False,,2
+konk1267-2-2-1,,konk1267-2,2,doːni,doːni,[],,['chan2019'],,False,False,,2
+konk1267-2-3-1,,konk1267-2,3,tin,tin,[],,['chan2019'],,False,False,,2
+konk1267-2-4-1,,konk1267-2,4,t͡ʃar,t͡ʃar,[],,['chan2019'],,False,False,,2
+konk1267-2-5-1,,konk1267-2,5,pənt͡sə,pənt͡sə,[],,['chan2019'],,False,False,,2
+konk1267-2-6-1,,konk1267-2,6,sə,sə,[],,['chan2019'],,False,False,,2
+konk1267-2-7-1,,konk1267-2,7,saːə,saːə,[],,['chan2019'],,False,False,,2
+konk1267-2-8-1,,konk1267-2,8,aːʈə,aːʈə,[],,['chan2019'],,False,False,,2
+konk1267-2-9-1,,konk1267-2,9,nəvvə,nəvvə,[],,['chan2019'],,False,False,,2
+konk1267-2-10-1,,konk1267-2,10,dʰə,dʰə,[],,['chan2019'],,False,False,,2
+konk1267-2-11-1,,konk1267-2,11,ikkʰəːra,ikkʰəːra,[],,['chan2019'],,False,False,,2
+konk1267-2-12-1,,konk1267-2,12,baːra,baːra,[],,['chan2019'],,False,False,,2
+konk1267-2-13-1,,konk1267-2,13,tɛːra,tɛːra,[],,['chan2019'],,False,False,,2
+konk1267-2-14-1,,konk1267-2,14,t͡sovda,t͡sovda,[],,['chan2019'],,False,False,,2
+konk1267-2-15-1,,konk1267-2,15,ponneːra,ponneːra,[],,['chan2019'],,False,False,,2
+konk1267-2-16-1,,konk1267-2,16,soːla,soːla,[],,['chan2019'],,False,False,,2
+konk1267-2-17-1,,konk1267-2,17,sətteːra,sətteːra,[],,['chan2019'],,False,False,,2
+konk1267-2-18-1,,konk1267-2,18,aːʂa,aːʂa,[],,['chan2019'],,False,False,,2
+konk1267-2-19-1,,konk1267-2,19,ikkuːɳis,ikkuːɳis,[],( 20 - 1),['chan2019'],,False,False,,2
+konk1267-2-20-1,,konk1267-2,20,viːs,viːs,[],,['chan2019'],,False,False,,2
+konk1267-2-21-1,,konk1267-2,21,ekkeːviːs,ekkeːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-22-1,,konk1267-2,22,baːviːs,baːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-23-1,,konk1267-2,23,teːviːs,teːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-24-1,,konk1267-2,24,t͡ʃoːviːs,t͡ʃoːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-25-1,,konk1267-2,25,pənt͡ʃeːviːs,pənt͡ʃeːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-26-1,,konk1267-2,26,soːviːs,soːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-27-1,,konk1267-2,27,səttaːviːs,səttaːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-28-1,,konk1267-2,28,əʈʈʰaːviːs,əʈʈʰaːviːs,[],,['chan2019'],,False,False,,2
+konk1267-2-29-1,,konk1267-2,29,ikkuɳtis,ikkuɳtis,[],( 30 - 1),['chan2019'],,False,False,,2
+konk1267-2-30-1,,konk1267-2,30,tiːs,tiːs,[],,['chan2019'],,False,False,,2
+konk1267-2-40-1,,konk1267-2,40,t͡ʃaːɭiːs,t͡ʃaːɭiːs,[],,['chan2019'],,False,False,,2
+konk1267-2-50-1,,konk1267-2,50,pənnaːs,pənnaːs,[],,['chan2019'],,False,False,,2
+konk1267-2-60-1,,konk1267-2,60,saːʈi,saːʈi,[],,['chan2019'],,False,False,,2
+konk1267-2-70-1,,konk1267-2,70,səttəːri,səttəːri,[],,['chan2019'],,False,False,,2
+konk1267-2-80-1,,konk1267-2,80,əssi,əssi,[],,['chan2019'],,False,False,,2
+konk1267-2-90-1,,konk1267-2,90,nəːvi,nəːvi,[],,['chan2019'],,False,False,,2
+konk1267-2-100-1,,konk1267-2,100,sɛ̃,sɛ̃,[],,['chan2019'],,False,False,,2
+konk1267-2-200-1,,konk1267-2,200,donni sɛ̃,donni sɛ̃,[],,['chan2019'],,False,False,,2
+konk1267-2-1000-1,,konk1267-2,1000,saːsu,saːsu,[],,['chan2019'],,False,False,,2
+konk1267-2-2000-1,,konk1267-2,2000,don həd͡ʒar,don həd͡ʒar,[],,['chan2019'],,False,False,,2

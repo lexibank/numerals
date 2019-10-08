@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-karo1305-1-1-1,,karo1305-1,1,kotĩ,kotĩ,[],,[],,False,False,,1
-karo1305-1-2-1,,karo1305-1,2,caɡarokõm,caɡarokõm,[],( c = palatal stop),[],,False,False,,1
-karo1305-1-3-1,,karo1305-1,3,paɡon tóp,paɡon tóp,[],,[],,False,False,,1
-karo1305-1-4-1,,karo1305-1,4,paɡon pət,paɡon pət,[],,[],,False,False,,1
-karo1305-1-4-2,,karo1305-1,4,paɡon nopət,paɡon nopət,[],,[],,False,False,,1
-karo1305-1-5-1,,karo1305-1,5,paɡon páy tóp,paɡon páy tóp,[],,[],,False,False,,1
-karo1305-1-6-1,,karo1305-1,6,paɡon páy pət,paɡon páy pət,[],,[],,False,False,,1
+karo1305-1-1-1,,karo1305-1,1,kotĩ,kotĩ,[],,['chan2019'],,False,False,,1
+karo1305-1-2-1,,karo1305-1,2,caɡarokõm,caɡarokõm,[],( c = palatal stop),['chan2019'],,False,False,,1
+karo1305-1-3-1,,karo1305-1,3,paɡon tóp,paɡon tóp,[],,['chan2019'],,False,False,,1
+karo1305-1-4-1,,karo1305-1,4,paɡon pət,paɡon pət,[],,['chan2019'],,False,False,,1
+karo1305-1-4-2,,karo1305-1,4,paɡon nopət,paɡon nopət,[],,['chan2019'],,False,False,,1
+karo1305-1-5-1,,karo1305-1,5,paɡon páy tóp,paɡon páy tóp,[],,['chan2019'],,False,False,,1
+karo1305-1-6-1,,karo1305-1,6,paɡon páy pət,paɡon páy pət,[],,['chan2019'],,False,False,,1

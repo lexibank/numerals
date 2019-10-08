@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tomo1244-1-1-1,,tomo1244-1,1,dɛnan,dɛnan,[],,[],,False,False,,1
-tomo1244-1-2-1,,tomo1244-1,2,horo,horo,[],,[],,False,False,,1
-tomo1244-1-3-1,,tomo1244-1,3,horomdɛtu,horomdɛtu,[],( 2 + ? ),[],,False,False,,1
-tomo1244-1-4-1,,tomo1244-1,4,horo mɔ horo,horo mɔ horo,[],( 2 + 2 ),[],,False,False,,1
-tomo1244-1-5-1,,tomo1244-1,5,liɛm,liɛm,[],(litː < lima /hand ?),[],,False,False,,1
-tomo1244-1-6-1,,tomo1244-1,6,liɛm dɛnana mɔ dɛnana,liɛm dɛnana mɔ dɛnana,[],( 5 + 1 ),[],,False,False,,1
-tomo1244-1-7-1,,tomo1244-1,7,liɛm dɛnana mɔ horo,liɛm dɛnana mɔ horo,[],( 5 + 2 ),[],,False,False,,1
-tomo1244-1-8-1,,tomo1244-1,8,liɛm dɛnana mɔ horomdɛtu,liɛm dɛnana mɔ horomdɛtu,[],( 5 + 3 ),[],,False,False,,1
-tomo1244-1-9-1,,tomo1244-1,9,liɛm dɛnana mɔ horo mɔ horo,liɛm dɛnana mɔ horo mɔ horo,[],,[],,False,False,,1
-tomo1244-1-10-1,,tomo1244-1,10,roliɛm kɛrɛ,roliɛm kɛrɛ,[],(litː two hands ?),[],,False,False,,1
-tomo1244-1-20-1,,tomo1244-1,20,tamdil,tamdil,[],,[],,False,False,,1
+tomo1244-1-1-1,,tomo1244-1,1,dɛnan,dɛnan,[],,['chan2019'],,False,False,,1
+tomo1244-1-2-1,,tomo1244-1,2,horo,horo,[],,['chan2019'],,False,False,,1
+tomo1244-1-3-1,,tomo1244-1,3,horomdɛtu,horomdɛtu,[],( 2 + ? ),['chan2019'],,False,False,,1
+tomo1244-1-4-1,,tomo1244-1,4,horo mɔ horo,horo mɔ horo,[],( 2 + 2 ),['chan2019'],,False,False,,1
+tomo1244-1-5-1,,tomo1244-1,5,liɛm,liɛm,[],(litː < lima /hand ?),['chan2019'],,False,False,,1
+tomo1244-1-6-1,,tomo1244-1,6,liɛm dɛnana mɔ dɛnana,liɛm dɛnana mɔ dɛnana,[],( 5 + 1 ),['chan2019'],,False,False,,1
+tomo1244-1-7-1,,tomo1244-1,7,liɛm dɛnana mɔ horo,liɛm dɛnana mɔ horo,[],( 5 + 2 ),['chan2019'],,False,False,,1
+tomo1244-1-8-1,,tomo1244-1,8,liɛm dɛnana mɔ horomdɛtu,liɛm dɛnana mɔ horomdɛtu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+tomo1244-1-9-1,,tomo1244-1,9,liɛm dɛnana mɔ horo mɔ horo,liɛm dɛnana mɔ horo mɔ horo,[],,['chan2019'],,False,False,,1
+tomo1244-1-10-1,,tomo1244-1,10,roliɛm kɛrɛ,roliɛm kɛrɛ,[],(litː two hands ?),['chan2019'],,False,False,,1
+tomo1244-1-20-1,,tomo1244-1,20,tamdil,tamdil,[],,['chan2019'],,False,False,,1

@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sout2857-3-1-1,,sout2857-3,1,i-siʔ,i-siʔ,[],,[],,False,False,,1
-sout2857-3-2-1,,sout2857-3,2,i-ru,i-ru,[],,[],,False,False,,1
-sout2857-3-3-1,,sout2857-3,3,i-tul,i-tul,[],,[],,False,False,,1
-sout2857-3-4-1,,sout2857-3,4,i-βʲes,i-βʲes,[],,[],,False,False,,1
-sout2857-3-5-1,,sout2857-3,5,i-limʲ,i-limʲ,[],,[],,False,False,,1
-sout2857-3-6-1,,sout2857-3,6,(i)-sow-siʔ,(i)-sow-siʔ,[],( 5 + 1 ),[],,False,False,,1
-sout2857-3-7-1,,sout2857-3,7,(i)-sow-ru,(i)-sow-ru,[],( 5 + 2 ),[],,False,False,,1
-sout2857-3-8-1,,sout2857-3,8,(i)-sow-tul,(i)-sow-tul,[],( 5 + 3 ),[],,False,False,,1
-sout2857-3-9-1,,sout2857-3,9,(i)-sow-βʲej,(i)-sow-βʲej,[],( 5 + 4 ),[],,False,False,,1
-sout2857-3-10-1,,sout2857-3,10,(i)-laŋaβʲul,(i)-laŋaβʲul,[],,[],,False,False,,1
-sout2857-3-11-1,,sout2857-3,11,(i)-laŋaβʲul (ni)-ndumʷen i-siʔ,(i)-laŋaβʲul (ni)-ndumʷen i-siʔ,[],,[],,False,False,,1
-sout2857-3-12-1,,sout2857-3,12,(i)-laŋaβʲul (ni)-ndumʷen i-ru,(i)-laŋaβʲul (ni)-ndumʷen i-ru,[],,[],,False,False,,1
-sout2857-3-13-1,,sout2857-3,13,(i)-laŋaβʲul (ni)-ndumʷen i-tul,(i)-laŋaβʲul (ni)-ndumʷen i-tul,[],,[],,False,False,,1
-sout2857-3-14-1,,sout2857-3,14,(i)-laŋaβʲul (ni)-ndumʷen i-βʲes,(i)-laŋaβʲul (ni)-ndumʷen i-βʲes,[],,[],,False,False,,1
-sout2857-3-15-1,,sout2857-3,15,(i)-laŋaβʲul (ni)-ndumʷen i-limʲ,(i)-laŋaβʲul (ni)-ndumʷen i-limʲ,[],,[],,False,False,,1
-sout2857-3-16-1,,sout2857-3,16,(i)-laŋaβʲul (ni)-ndumʷen i-sow-siʔ,(i)-laŋaβʲul (ni)-ndumʷen i-sow-siʔ,[],,[],,False,False,,1
-sout2857-3-17-1,,sout2857-3,17,(i)-laŋaβʲul (ni)-ndumʷen i-sow-ru,(i)-laŋaβʲul (ni)-ndumʷen i-sow-ru,[],,[],,False,False,,1
-sout2857-3-18-1,,sout2857-3,18,(i)-laŋaβʲul (ni)-ndumʷen i-sow-tul,(i)-laŋaβʲul (ni)-ndumʷen i-sow-tul,[],,[],,False,False,,1
-sout2857-3-19-1,,sout2857-3,19,(i)-laŋaβʲul (ni)-ndumʷen i-sow-βʲej,(i)-laŋaβʲul (ni)-ndumʷen i-sow-βʲej,[],,[],,False,False,,1
-sout2857-3-20-1,,sout2857-3,20,(ni)-mʷorlalaʔ,(ni)-mʷorlalaʔ,[],,[],,False,False,,1
-sout2857-3-21-1,,sout2857-3,21,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-siʔ,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-siʔ,[],,[],,False,False,,1
-sout2857-3-22-1,,sout2857-3,22,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-ru,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-ru,[],,[],,False,False,,1
-sout2857-3-23-1,,sout2857-3,23,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-tul,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-tul,[],,[],,False,False,,1
-sout2857-3-24-1,,sout2857-3,24,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-βʲes,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-βʲes,[],,[],,False,False,,1
-sout2857-3-25-1,,sout2857-3,25,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-limʲ,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-limʲ,[],,[],,False,False,,1
-sout2857-3-26-1,,sout2857-3,26,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-siʔ,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-siʔ,[],,[],,False,False,,1
-sout2857-3-27-1,,sout2857-3,27,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-ru,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-ru,[],,[],,False,False,,1
-sout2857-3-28-1,,sout2857-3,28,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-tul,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-tul,[],,[],,False,False,,1
-sout2857-3-29-1,,sout2857-3,29,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-βʲej,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-βʲej,[],,[],,False,False,,1
-sout2857-3-30-1,,sout2857-3,30,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-laŋaβʲul,[],,[],,False,False,,1
-sout2857-3-40-1,,sout2857-3,40,(ni)-mʷorlalaʔ i-ru,(ni)-mʷorlalaʔ i-ru,[],(20 x 2),[],,False,False,,1
-sout2857-3-50-1,,sout2857-3,50,(ni)-mʷorlalaʔ i-ru no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-ru no-ʔorond i-laŋaβʲul,[],,[],,False,False,,1
-sout2857-3-60-1,,sout2857-3,60,(ni)-mʷorlalaʔ i-tul,(ni)-mʷorlalaʔ i-tul,[],(20 x 3),[],,False,False,,1
-sout2857-3-70-1,,sout2857-3,70,(ni)-mʷorlalaʔ i-tul no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-tul no-ʔorond i-laŋaβʲul,[],,[],,False,False,,1
-sout2857-3-80-1,,sout2857-3,80,(ni)-mʷorlalaʔ i-βʲes,(ni)-mʷorlalaʔ i-βʲes,[],(20 x 4),[],,False,False,,1
-sout2857-3-90-1,,sout2857-3,90,(ni)-mʷorlalaʔ i-βʲes no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-βʲes no-ʔorond i-laŋaβʲul,[],,[],,False,False,,1
-sout2857-3-100-1,,sout2857-3,100,(ni)-mʷorlalaʔ i-limʲ,(ni)-mʷorlalaʔ i-limʲ,[],(20 x 5),[],,False,False,,1
-sout2857-3-200-1,,sout2857-3,200,(ni)-mʷorlalaʔ i-laŋaβʲul,(ni)-mʷorlalaʔ i-laŋaβʲul,[],(20 x 10),[],,False,False,,1
+sout2857-3-1-1,,sout2857-3,1,i-siʔ,i-siʔ,[],,['chan2019'],,False,False,,1
+sout2857-3-2-1,,sout2857-3,2,i-ru,i-ru,[],,['chan2019'],,False,False,,1
+sout2857-3-3-1,,sout2857-3,3,i-tul,i-tul,[],,['chan2019'],,False,False,,1
+sout2857-3-4-1,,sout2857-3,4,i-βʲes,i-βʲes,[],,['chan2019'],,False,False,,1
+sout2857-3-5-1,,sout2857-3,5,i-limʲ,i-limʲ,[],,['chan2019'],,False,False,,1
+sout2857-3-6-1,,sout2857-3,6,(i)-sow-siʔ,(i)-sow-siʔ,[],( 5 + 1 ),['chan2019'],,False,False,,1
+sout2857-3-7-1,,sout2857-3,7,(i)-sow-ru,(i)-sow-ru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+sout2857-3-8-1,,sout2857-3,8,(i)-sow-tul,(i)-sow-tul,[],( 5 + 3 ),['chan2019'],,False,False,,1
+sout2857-3-9-1,,sout2857-3,9,(i)-sow-βʲej,(i)-sow-βʲej,[],( 5 + 4 ),['chan2019'],,False,False,,1
+sout2857-3-10-1,,sout2857-3,10,(i)-laŋaβʲul,(i)-laŋaβʲul,[],,['chan2019'],,False,False,,1
+sout2857-3-11-1,,sout2857-3,11,(i)-laŋaβʲul (ni)-ndumʷen i-siʔ,(i)-laŋaβʲul (ni)-ndumʷen i-siʔ,[],,['chan2019'],,False,False,,1
+sout2857-3-12-1,,sout2857-3,12,(i)-laŋaβʲul (ni)-ndumʷen i-ru,(i)-laŋaβʲul (ni)-ndumʷen i-ru,[],,['chan2019'],,False,False,,1
+sout2857-3-13-1,,sout2857-3,13,(i)-laŋaβʲul (ni)-ndumʷen i-tul,(i)-laŋaβʲul (ni)-ndumʷen i-tul,[],,['chan2019'],,False,False,,1
+sout2857-3-14-1,,sout2857-3,14,(i)-laŋaβʲul (ni)-ndumʷen i-βʲes,(i)-laŋaβʲul (ni)-ndumʷen i-βʲes,[],,['chan2019'],,False,False,,1
+sout2857-3-15-1,,sout2857-3,15,(i)-laŋaβʲul (ni)-ndumʷen i-limʲ,(i)-laŋaβʲul (ni)-ndumʷen i-limʲ,[],,['chan2019'],,False,False,,1
+sout2857-3-16-1,,sout2857-3,16,(i)-laŋaβʲul (ni)-ndumʷen i-sow-siʔ,(i)-laŋaβʲul (ni)-ndumʷen i-sow-siʔ,[],,['chan2019'],,False,False,,1
+sout2857-3-17-1,,sout2857-3,17,(i)-laŋaβʲul (ni)-ndumʷen i-sow-ru,(i)-laŋaβʲul (ni)-ndumʷen i-sow-ru,[],,['chan2019'],,False,False,,1
+sout2857-3-18-1,,sout2857-3,18,(i)-laŋaβʲul (ni)-ndumʷen i-sow-tul,(i)-laŋaβʲul (ni)-ndumʷen i-sow-tul,[],,['chan2019'],,False,False,,1
+sout2857-3-19-1,,sout2857-3,19,(i)-laŋaβʲul (ni)-ndumʷen i-sow-βʲej,(i)-laŋaβʲul (ni)-ndumʷen i-sow-βʲej,[],,['chan2019'],,False,False,,1
+sout2857-3-20-1,,sout2857-3,20,(ni)-mʷorlalaʔ,(ni)-mʷorlalaʔ,[],,['chan2019'],,False,False,,1
+sout2857-3-21-1,,sout2857-3,21,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-siʔ,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-siʔ,[],,['chan2019'],,False,False,,1
+sout2857-3-22-1,,sout2857-3,22,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-ru,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-ru,[],,['chan2019'],,False,False,,1
+sout2857-3-23-1,,sout2857-3,23,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-tul,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-tul,[],,['chan2019'],,False,False,,1
+sout2857-3-24-1,,sout2857-3,24,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-βʲes,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-βʲes,[],,['chan2019'],,False,False,,1
+sout2857-3-25-1,,sout2857-3,25,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-limʲ,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-limʲ,[],,['chan2019'],,False,False,,1
+sout2857-3-26-1,,sout2857-3,26,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-siʔ,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-siʔ,[],,['chan2019'],,False,False,,1
+sout2857-3-27-1,,sout2857-3,27,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-ru,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-ru,[],,['chan2019'],,False,False,,1
+sout2857-3-28-1,,sout2857-3,28,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-tul,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-tul,[],,['chan2019'],,False,False,,1
+sout2857-3-29-1,,sout2857-3,29,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-βʲej,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-sow-βʲej,[],,['chan2019'],,False,False,,1
+sout2857-3-30-1,,sout2857-3,30,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-siʔ no-ʔorond i-laŋaβʲul,[],,['chan2019'],,False,False,,1
+sout2857-3-40-1,,sout2857-3,40,(ni)-mʷorlalaʔ i-ru,(ni)-mʷorlalaʔ i-ru,[],(20 x 2),['chan2019'],,False,False,,1
+sout2857-3-50-1,,sout2857-3,50,(ni)-mʷorlalaʔ i-ru no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-ru no-ʔorond i-laŋaβʲul,[],,['chan2019'],,False,False,,1
+sout2857-3-60-1,,sout2857-3,60,(ni)-mʷorlalaʔ i-tul,(ni)-mʷorlalaʔ i-tul,[],(20 x 3),['chan2019'],,False,False,,1
+sout2857-3-70-1,,sout2857-3,70,(ni)-mʷorlalaʔ i-tul no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-tul no-ʔorond i-laŋaβʲul,[],,['chan2019'],,False,False,,1
+sout2857-3-80-1,,sout2857-3,80,(ni)-mʷorlalaʔ i-βʲes,(ni)-mʷorlalaʔ i-βʲes,[],(20 x 4),['chan2019'],,False,False,,1
+sout2857-3-90-1,,sout2857-3,90,(ni)-mʷorlalaʔ i-βʲes no-ʔorond i-laŋaβʲul,(ni)-mʷorlalaʔ i-βʲes no-ʔorond i-laŋaβʲul,[],,['chan2019'],,False,False,,1
+sout2857-3-100-1,,sout2857-3,100,(ni)-mʷorlalaʔ i-limʲ,(ni)-mʷorlalaʔ i-limʲ,[],(20 x 5),['chan2019'],,False,False,,1
+sout2857-3-200-1,,sout2857-3,200,(ni)-mʷorlalaʔ i-laŋaβʲul,(ni)-mʷorlalaʔ i-laŋaβʲul,[],(20 x 10),['chan2019'],,False,False,,1

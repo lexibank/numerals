@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kwaz1243-1-1-1,,kwaz1243-1,1,tei'hɨ̃,tei'hɨ̃,[],,[],,False,False,,1
-kwaz1243-1-2-1,,kwaz1243-1,2,akɨˈhɨ̃,akɨˈhɨ̃,[],,[],,False,False,,1
-kwaz1243-1-3-1,,kwaz1243-1,3,eˈmã,eˈmã,[],(litː ' one more / again'),[],,False,False,,1
-kwaz1243-1-4-1,,kwaz1243-1,4,eleˈle,eleˈle,[],(litː ' one more after '),[],,False,False,,1
-kwaz1243-1-5-1,,kwaz1243-1,5,βwakoˈje,βwakoˈje,[],(litː ' end of hand'),[],,False,False,,1
-kwaz1243-1-6-1,,kwaz1243-1,6,βwakoˈje eˈmã,βwakoˈje eˈmã,[],(litː ' fell outside'),[],,False,False,,1
-kwaz1243-1-7-1,,kwaz1243-1,7,βwakoˈje eˈmã eleˈle,βwakoˈje eˈmã eleˈle,[],,[],,False,False,,1
-kwaz1243-1-8-1,,kwaz1243-1,8,akɨˈhɨ̃ eleˈle,akɨˈhɨ̃ eleˈle,[],(litː ' two times four') ?,[],,False,False,,1
-kwaz1243-1-9-1,,kwaz1243-1,9,eleleˈtse,eleleˈtse,[],,[],,False,False,,1
-kwaz1243-1-10-1,,kwaz1243-1,10,βwakoˈje βwakoˈje,βwakoˈje βwakoˈje,[],,[],,False,False,,1
-kwaz1243-1-11-1,,kwaz1243-1,11,βwakoˈje βwakoˈje ˈteihɨ̃ daijeki,βwakoˈje βwakoˈje ˈteihɨ̃ daijeki,[],,[],,False,False,,1
-kwaz1243-1-13-1,,kwaz1243-1,13,βwakoˈjetja emãko'jetse,βwakoˈjetja emãko'jetse,[],,[],,False,False,,1
-kwaz1243-1-15-1,,kwaz1243-1,15,aˈkikoje eˈmã,aˈkikoje eˈmã,[],,[],,False,False,,1
-kwaz1243-1-20-1,,kwaz1243-1,20,aˈkikoje eˈmã eleˈle,aˈkikoje eˈmã eleˈle,[],(βwaki),[],,False,False,,1
+kwaz1243-1-1-1,,kwaz1243-1,1,tei'hɨ̃,tei'hɨ̃,[],,['chan2019'],,False,False,,1
+kwaz1243-1-2-1,,kwaz1243-1,2,akɨˈhɨ̃,akɨˈhɨ̃,[],,['chan2019'],,False,False,,1
+kwaz1243-1-3-1,,kwaz1243-1,3,eˈmã,eˈmã,[],(litː ' one more / again'),['chan2019'],,False,False,,1
+kwaz1243-1-4-1,,kwaz1243-1,4,eleˈle,eleˈle,[],(litː ' one more after '),['chan2019'],,False,False,,1
+kwaz1243-1-5-1,,kwaz1243-1,5,βwakoˈje,βwakoˈje,[],(litː ' end of hand'),['chan2019'],,False,False,,1
+kwaz1243-1-6-1,,kwaz1243-1,6,βwakoˈje eˈmã,βwakoˈje eˈmã,[],(litː ' fell outside'),['chan2019'],,False,False,,1
+kwaz1243-1-7-1,,kwaz1243-1,7,βwakoˈje eˈmã eleˈle,βwakoˈje eˈmã eleˈle,[],,['chan2019'],,False,False,,1
+kwaz1243-1-8-1,,kwaz1243-1,8,akɨˈhɨ̃ eleˈle,akɨˈhɨ̃ eleˈle,[],(litː ' two times four') ?,['chan2019'],,False,False,,1
+kwaz1243-1-9-1,,kwaz1243-1,9,eleleˈtse,eleleˈtse,[],,['chan2019'],,False,False,,1
+kwaz1243-1-10-1,,kwaz1243-1,10,βwakoˈje βwakoˈje,βwakoˈje βwakoˈje,[],,['chan2019'],,False,False,,1
+kwaz1243-1-11-1,,kwaz1243-1,11,βwakoˈje βwakoˈje ˈteihɨ̃ daijeki,βwakoˈje βwakoˈje ˈteihɨ̃ daijeki,[],,['chan2019'],,False,False,,1
+kwaz1243-1-13-1,,kwaz1243-1,13,βwakoˈjetja emãko'jetse,βwakoˈjetja emãko'jetse,[],,['chan2019'],,False,False,,1
+kwaz1243-1-15-1,,kwaz1243-1,15,aˈkikoje eˈmã,aˈkikoje eˈmã,[],,['chan2019'],,False,False,,1
+kwaz1243-1-20-1,,kwaz1243-1,20,aˈkikoje eˈmã eleˈle,aˈkikoje eˈmã eleˈle,[],(βwaki),['chan2019'],,False,False,,1

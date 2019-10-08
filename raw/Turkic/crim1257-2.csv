@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-crim1257-2-1-1,,crim1257-2,1,bir,bir,[],,[],,False,False,,2
-crim1257-2-2-1,,crim1257-2,2,æki,æki,[],,[],,False,False,,2
-crim1257-2-3-1,,crim1257-2,3,ytʃ,ytʃ,[],,[],,False,False,,2
-crim1257-2-4-1,,crim1257-2,4,dørt,dørt,[],,[],,False,False,,2
-crim1257-2-5-1,,crim1257-2,5,beʃ,beʃ,[],,[],,False,False,,2
-crim1257-2-6-1,,crim1257-2,6,ɑltɨ,ɑltɨ,[],,[],,False,False,,2
-crim1257-2-7-1,,crim1257-2,7,jedi,jedi,[],,[],,False,False,,2
-crim1257-2-8-1,,crim1257-2,8,sekiz,sekiz,[],,[],,False,False,,2
-crim1257-2-9-1,,crim1257-2,9,doquz,doquz,[],,[],,False,False,,2
-crim1257-2-10-1,,crim1257-2,10,on,on,[],,[],,False,False,,2
-crim1257-2-11-1,,crim1257-2,11,on bir,on bir,[],,[],,False,False,,2
-crim1257-2-12-1,,crim1257-2,12,on æki,on æki,[],,[],,False,False,,2
-crim1257-2-13-1,,crim1257-2,13,on ytʃ,on ytʃ,[],,[],,False,False,,2
-crim1257-2-14-1,,crim1257-2,14,on dørt,on dørt,[],,[],,False,False,,2
-crim1257-2-15-1,,crim1257-2,15,on beʃ,on beʃ,[],,[],,False,False,,2
-crim1257-2-16-1,,crim1257-2,16,on ɑltɨ,on ɑltɨ,[],,[],,False,False,,2
-crim1257-2-17-1,,crim1257-2,17,on jedi,on jedi,[],,[],,False,False,,2
-crim1257-2-18-1,,crim1257-2,18,on sekiz,on sekiz,[],,[],,False,False,,2
-crim1257-2-19-1,,crim1257-2,19,on doquz,on doquz,[],,[],,False,False,,2
-crim1257-2-20-1,,crim1257-2,20,jigirmi,jigirmi,[],,[],,False,False,,2
-crim1257-2-21-1,,crim1257-2,21,jigirmi bir,jigirmi bir,[],,[],,False,False,,2
-crim1257-2-22-1,,crim1257-2,22,jigirmi æki,jigirmi æki,[],,[],,False,False,,2
-crim1257-2-23-1,,crim1257-2,23,jigirmi ytʃ,jigirmi ytʃ,[],,[],,False,False,,2
-crim1257-2-24-1,,crim1257-2,24,jigirmi dørt,jigirmi dørt,[],,[],,False,False,,2
-crim1257-2-25-1,,crim1257-2,25,jigirmi beʃ,jigirmi beʃ,[],,[],,False,False,,2
-crim1257-2-26-1,,crim1257-2,26,jigirmi ɑltɨ,jigirmi ɑltɨ,[],,[],,False,False,,2
-crim1257-2-27-1,,crim1257-2,27,jigirmi jedi,jigirmi jedi,[],,[],,False,False,,2
-crim1257-2-28-1,,crim1257-2,28,jigirmi sekiz,jigirmi sekiz,[],,[],,False,False,,2
-crim1257-2-29-1,,crim1257-2,29,jigirmi doquz,jigirmi doquz,[],,[],,False,False,,2
-crim1257-2-30-1,,crim1257-2,30,otuz,otuz,[],,[],,False,False,,2
-crim1257-2-40-1,,crim1257-2,40,qɨrq,qɨrq,[],,[],,False,False,,2
-crim1257-2-50-1,,crim1257-2,50,ælli,ælli,[],,[],,False,False,,2
-crim1257-2-60-1,,crim1257-2,60,ɑltmɨʃ,ɑltmɨʃ,[],,[],,False,False,,2
-crim1257-2-70-1,,crim1257-2,70,jetmiʃ,jetmiʃ,[],,[],,False,False,,2
-crim1257-2-80-1,,crim1257-2,80,sæksæn,sæksæn,[],,[],,False,False,,2
-crim1257-2-90-1,,crim1257-2,90,doqsɑn,doqsɑn,[],,[],,False,False,,2
-crim1257-2-100-1,,crim1257-2,100,yz,yz,[],,[],,False,False,,2
-crim1257-2-100-2,,crim1257-2,100,jyz,jyz,[],,[],,False,False,,2
-crim1257-2-200-1,,crim1257-2,200,æki yz,æki yz,[],,[],,False,False,,2
-crim1257-2-1000-1,,crim1257-2,1000,bin,bin,[],,[],,False,False,,2
-crim1257-2-1000-2,,crim1257-2,1000,biŋ,biŋ,[],,[],,False,False,,2
-crim1257-2-2000-1,,crim1257-2,2000,æki bin,æki bin,[],,[],,False,False,,2
-crim1257-2-2000-2,,crim1257-2,2000,biŋ,biŋ,[],,[],,False,False,,2
+crim1257-2-1-1,,crim1257-2,1,bir,bir,[],,['chan2019'],,False,False,,2
+crim1257-2-2-1,,crim1257-2,2,æki,æki,[],,['chan2019'],,False,False,,2
+crim1257-2-3-1,,crim1257-2,3,ytʃ,ytʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-4-1,,crim1257-2,4,dørt,dørt,[],,['chan2019'],,False,False,,2
+crim1257-2-5-1,,crim1257-2,5,beʃ,beʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-6-1,,crim1257-2,6,ɑltɨ,ɑltɨ,[],,['chan2019'],,False,False,,2
+crim1257-2-7-1,,crim1257-2,7,jedi,jedi,[],,['chan2019'],,False,False,,2
+crim1257-2-8-1,,crim1257-2,8,sekiz,sekiz,[],,['chan2019'],,False,False,,2
+crim1257-2-9-1,,crim1257-2,9,doquz,doquz,[],,['chan2019'],,False,False,,2
+crim1257-2-10-1,,crim1257-2,10,on,on,[],,['chan2019'],,False,False,,2
+crim1257-2-11-1,,crim1257-2,11,on bir,on bir,[],,['chan2019'],,False,False,,2
+crim1257-2-12-1,,crim1257-2,12,on æki,on æki,[],,['chan2019'],,False,False,,2
+crim1257-2-13-1,,crim1257-2,13,on ytʃ,on ytʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-14-1,,crim1257-2,14,on dørt,on dørt,[],,['chan2019'],,False,False,,2
+crim1257-2-15-1,,crim1257-2,15,on beʃ,on beʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-16-1,,crim1257-2,16,on ɑltɨ,on ɑltɨ,[],,['chan2019'],,False,False,,2
+crim1257-2-17-1,,crim1257-2,17,on jedi,on jedi,[],,['chan2019'],,False,False,,2
+crim1257-2-18-1,,crim1257-2,18,on sekiz,on sekiz,[],,['chan2019'],,False,False,,2
+crim1257-2-19-1,,crim1257-2,19,on doquz,on doquz,[],,['chan2019'],,False,False,,2
+crim1257-2-20-1,,crim1257-2,20,jigirmi,jigirmi,[],,['chan2019'],,False,False,,2
+crim1257-2-21-1,,crim1257-2,21,jigirmi bir,jigirmi bir,[],,['chan2019'],,False,False,,2
+crim1257-2-22-1,,crim1257-2,22,jigirmi æki,jigirmi æki,[],,['chan2019'],,False,False,,2
+crim1257-2-23-1,,crim1257-2,23,jigirmi ytʃ,jigirmi ytʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-24-1,,crim1257-2,24,jigirmi dørt,jigirmi dørt,[],,['chan2019'],,False,False,,2
+crim1257-2-25-1,,crim1257-2,25,jigirmi beʃ,jigirmi beʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-26-1,,crim1257-2,26,jigirmi ɑltɨ,jigirmi ɑltɨ,[],,['chan2019'],,False,False,,2
+crim1257-2-27-1,,crim1257-2,27,jigirmi jedi,jigirmi jedi,[],,['chan2019'],,False,False,,2
+crim1257-2-28-1,,crim1257-2,28,jigirmi sekiz,jigirmi sekiz,[],,['chan2019'],,False,False,,2
+crim1257-2-29-1,,crim1257-2,29,jigirmi doquz,jigirmi doquz,[],,['chan2019'],,False,False,,2
+crim1257-2-30-1,,crim1257-2,30,otuz,otuz,[],,['chan2019'],,False,False,,2
+crim1257-2-40-1,,crim1257-2,40,qɨrq,qɨrq,[],,['chan2019'],,False,False,,2
+crim1257-2-50-1,,crim1257-2,50,ælli,ælli,[],,['chan2019'],,False,False,,2
+crim1257-2-60-1,,crim1257-2,60,ɑltmɨʃ,ɑltmɨʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-70-1,,crim1257-2,70,jetmiʃ,jetmiʃ,[],,['chan2019'],,False,False,,2
+crim1257-2-80-1,,crim1257-2,80,sæksæn,sæksæn,[],,['chan2019'],,False,False,,2
+crim1257-2-90-1,,crim1257-2,90,doqsɑn,doqsɑn,[],,['chan2019'],,False,False,,2
+crim1257-2-100-1,,crim1257-2,100,yz,yz,[],,['chan2019'],,False,False,,2
+crim1257-2-100-2,,crim1257-2,100,jyz,jyz,[],,['chan2019'],,False,False,,2
+crim1257-2-200-1,,crim1257-2,200,æki yz,æki yz,[],,['chan2019'],,False,False,,2
+crim1257-2-1000-1,,crim1257-2,1000,bin,bin,[],,['chan2019'],,False,False,,2
+crim1257-2-1000-2,,crim1257-2,1000,biŋ,biŋ,[],,['chan2019'],,False,False,,2
+crim1257-2-2000-1,,crim1257-2,2000,æki bin,æki bin,[],,['chan2019'],,False,False,,2
+crim1257-2-2000-2,,crim1257-2,2000,biŋ,biŋ,[],,['chan2019'],,False,False,,2

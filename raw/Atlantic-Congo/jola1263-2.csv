@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-jola1263-2-1-1,,jola1263-2,1,jəkon,jəkon,[],,[],,False,False,,2
-jola1263-2-2-1,,jola1263-2,2,siɡaba,siɡaba,[],,[],,False,False,,2
-jola1263-2-3-1,,jola1263-2,3,sifeeɡiir,sifeeɡiir,[],,[],,False,False,,2
-jola1263-2-4-1,,jola1263-2,4,sibaakiir,sibaakiir,[],,[],,False,False,,2
-jola1263-2-5-1,,jola1263-2,5,futɔk,futɔk,[],,[],,False,False,,2
-jola1263-2-6-1,,jola1263-2,6,futɔk di jəkon,futɔk di jəkon,[],( 5 + 1 ),[],,False,False,,2
-jola1263-2-7-1,,jola1263-2,7,futɔk di siɡaba,futɔk di siɡaba,[],( 5 + 2 ),[],,False,False,,2
-jola1263-2-8-1,,jola1263-2,8,futɔk di sifeeɡiir,futɔk di sifeeɡiir,[],( 5 + 3 ),[],,False,False,,2
-jola1263-2-9-1,,jola1263-2,9,futɔk di sibaakiir,futɔk di sibaakiir,[],( 5 + 4 ),[],,False,False,,2
-jola1263-2-10-1,,jola1263-2,10,uɲɛn,uɲɛn,[],,[],,False,False,,2
-jola1263-2-11-1,,jola1263-2,11,uɲɛn di jəkon,uɲɛn di jəkon,[],,[],,False,False,,2
-jola1263-2-12-1,,jola1263-2,12,uɲɛn di siɡaba,uɲɛn di siɡaba,[],,[],,False,False,,2
-jola1263-2-13-1,,jola1263-2,13,uɲɛn di sifeeɡiir,uɲɛn di sifeeɡiir,[],,[],,False,False,,2
-jola1263-2-14-1,,jola1263-2,14,uɲɛn di sibaakiir,uɲɛn di sibaakiir,[],,[],,False,False,,2
-jola1263-2-15-1,,jola1263-2,15,uɲɛn di futɔk,uɲɛn di futɔk,[],,[],,False,False,,2
-jola1263-2-16-1,,jola1263-2,16,uɲɛn di futɔk di jəkon,uɲɛn di futɔk di jəkon,[],,[],,False,False,,2
-jola1263-2-17-1,,jola1263-2,17,uɲɛn di futɔk di siɡaba,uɲɛn di futɔk di siɡaba,[],,[],,False,False,,2
-jola1263-2-18-1,,jola1263-2,18,uɲɛn di futɔk di sifeeɡiir,uɲɛn di futɔk di sifeeɡiir,[],,[],,False,False,,2
-jola1263-2-19-1,,jola1263-2,19,uɲɛn di futɔk di sibaakiir,uɲɛn di futɔk di sibaakiir,[],,[],,False,False,,2
-jola1263-2-20-1,,jola1263-2,20,kabanan,kabanan,[],,[],,False,False,,2
-jola1263-2-21-1,,jola1263-2,21,kabanan di jəkon,kabanan di jəkon,[],,[],,False,False,,2
-jola1263-2-22-1,,jola1263-2,22,kabanan di siɡaba,kabanan di siɡaba,[],,[],,False,False,,2
-jola1263-2-23-1,,jola1263-2,23,kabanan di sifeeɡiir,kabanan di sifeeɡiir,[],,[],,False,False,,2
-jola1263-2-24-1,,jola1263-2,24,kabanan di sibaakiir,kabanan di sibaakiir,[],,[],,False,False,,2
-jola1263-2-25-1,,jola1263-2,25,kabanan di futɔk,kabanan di futɔk,[],,[],,False,False,,2
-jola1263-2-26-1,,jola1263-2,26,kabanan di futɔk di jəkon,kabanan di futɔk di jəkon,[],,[],,False,False,,2
-jola1263-2-27-1,,jola1263-2,27,kabanan di futɔk di siɡaba,kabanan di futɔk di siɡaba,[],,[],,False,False,,2
-jola1263-2-28-1,,jola1263-2,28,kabanan di futɔk di sifeeɡiir,kabanan di futɔk di sifeeɡiir,[],,[],,False,False,,2
-jola1263-2-29-1,,jola1263-2,29,kabanan di futɔk di sibaakiir,kabanan di futɔk di sibaakiir,[],,[],,False,False,,2
-jola1263-2-30-1,,jola1263-2,30,kabanan di uɲɛn,kabanan di uɲɛn,[],( 20 + 10),[],,False,False,,2
-jola1263-2-40-1,,jola1263-2,40,bukan siɡaba,bukan siɡaba,[],( 20 x  2 ),[],,False,False,,2
-jola1263-2-50-1,,jola1263-2,50,bukan siɡaba di uɲɛn,bukan siɡaba di uɲɛn,[],,[],,False,False,,2
-jola1263-2-60-1,,jola1263-2,60,bukan sifeeɡiir,bukan sifeeɡiir,[],( 20 x  3),[],,False,False,,2
-jola1263-2-70-1,,jola1263-2,70,bukan sifeeɡiir di uɲɛn,bukan sifeeɡiir di uɲɛn,[],,[],,False,False,,2
-jola1263-2-80-1,,jola1263-2,80,bukan sibaakiir,bukan sibaakiir,[],( 20 x  4 ),[],,False,False,,2
-jola1263-2-90-1,,jola1263-2,90,bukan sibaakiir di uɲɛn,bukan sibaakiir di uɲɛn,[],,[],,False,False,,2
-jola1263-2-100-1,,jola1263-2,100,cɛɛmɛ,cɛɛmɛ,[],,[],,False,False,,2
-jola1263-2-200-1,,jola1263-2,200,cɛɛmɛ siɡaba,cɛɛmɛ siɡaba,[],,[],,False,False,,2
-jola1263-2-1000-1,,jola1263-2,1000,wili,wili,[],,[],,False,False,,2
-jola1263-2-2000-1,,jola1263-2,2000,siwili siɡaba,siwili siɡaba,[],,[],,False,False,,2
+jola1263-2-1-1,,jola1263-2,1,jəkon,jəkon,[],,['chan2019'],,False,False,,2
+jola1263-2-2-1,,jola1263-2,2,siɡaba,siɡaba,[],,['chan2019'],,False,False,,2
+jola1263-2-3-1,,jola1263-2,3,sifeeɡiir,sifeeɡiir,[],,['chan2019'],,False,False,,2
+jola1263-2-4-1,,jola1263-2,4,sibaakiir,sibaakiir,[],,['chan2019'],,False,False,,2
+jola1263-2-5-1,,jola1263-2,5,futɔk,futɔk,[],,['chan2019'],,False,False,,2
+jola1263-2-6-1,,jola1263-2,6,futɔk di jəkon,futɔk di jəkon,[],( 5 + 1 ),['chan2019'],,False,False,,2
+jola1263-2-7-1,,jola1263-2,7,futɔk di siɡaba,futɔk di siɡaba,[],( 5 + 2 ),['chan2019'],,False,False,,2
+jola1263-2-8-1,,jola1263-2,8,futɔk di sifeeɡiir,futɔk di sifeeɡiir,[],( 5 + 3 ),['chan2019'],,False,False,,2
+jola1263-2-9-1,,jola1263-2,9,futɔk di sibaakiir,futɔk di sibaakiir,[],( 5 + 4 ),['chan2019'],,False,False,,2
+jola1263-2-10-1,,jola1263-2,10,uɲɛn,uɲɛn,[],,['chan2019'],,False,False,,2
+jola1263-2-11-1,,jola1263-2,11,uɲɛn di jəkon,uɲɛn di jəkon,[],,['chan2019'],,False,False,,2
+jola1263-2-12-1,,jola1263-2,12,uɲɛn di siɡaba,uɲɛn di siɡaba,[],,['chan2019'],,False,False,,2
+jola1263-2-13-1,,jola1263-2,13,uɲɛn di sifeeɡiir,uɲɛn di sifeeɡiir,[],,['chan2019'],,False,False,,2
+jola1263-2-14-1,,jola1263-2,14,uɲɛn di sibaakiir,uɲɛn di sibaakiir,[],,['chan2019'],,False,False,,2
+jola1263-2-15-1,,jola1263-2,15,uɲɛn di futɔk,uɲɛn di futɔk,[],,['chan2019'],,False,False,,2
+jola1263-2-16-1,,jola1263-2,16,uɲɛn di futɔk di jəkon,uɲɛn di futɔk di jəkon,[],,['chan2019'],,False,False,,2
+jola1263-2-17-1,,jola1263-2,17,uɲɛn di futɔk di siɡaba,uɲɛn di futɔk di siɡaba,[],,['chan2019'],,False,False,,2
+jola1263-2-18-1,,jola1263-2,18,uɲɛn di futɔk di sifeeɡiir,uɲɛn di futɔk di sifeeɡiir,[],,['chan2019'],,False,False,,2
+jola1263-2-19-1,,jola1263-2,19,uɲɛn di futɔk di sibaakiir,uɲɛn di futɔk di sibaakiir,[],,['chan2019'],,False,False,,2
+jola1263-2-20-1,,jola1263-2,20,kabanan,kabanan,[],,['chan2019'],,False,False,,2
+jola1263-2-21-1,,jola1263-2,21,kabanan di jəkon,kabanan di jəkon,[],,['chan2019'],,False,False,,2
+jola1263-2-22-1,,jola1263-2,22,kabanan di siɡaba,kabanan di siɡaba,[],,['chan2019'],,False,False,,2
+jola1263-2-23-1,,jola1263-2,23,kabanan di sifeeɡiir,kabanan di sifeeɡiir,[],,['chan2019'],,False,False,,2
+jola1263-2-24-1,,jola1263-2,24,kabanan di sibaakiir,kabanan di sibaakiir,[],,['chan2019'],,False,False,,2
+jola1263-2-25-1,,jola1263-2,25,kabanan di futɔk,kabanan di futɔk,[],,['chan2019'],,False,False,,2
+jola1263-2-26-1,,jola1263-2,26,kabanan di futɔk di jəkon,kabanan di futɔk di jəkon,[],,['chan2019'],,False,False,,2
+jola1263-2-27-1,,jola1263-2,27,kabanan di futɔk di siɡaba,kabanan di futɔk di siɡaba,[],,['chan2019'],,False,False,,2
+jola1263-2-28-1,,jola1263-2,28,kabanan di futɔk di sifeeɡiir,kabanan di futɔk di sifeeɡiir,[],,['chan2019'],,False,False,,2
+jola1263-2-29-1,,jola1263-2,29,kabanan di futɔk di sibaakiir,kabanan di futɔk di sibaakiir,[],,['chan2019'],,False,False,,2
+jola1263-2-30-1,,jola1263-2,30,kabanan di uɲɛn,kabanan di uɲɛn,[],( 20 + 10),['chan2019'],,False,False,,2
+jola1263-2-40-1,,jola1263-2,40,bukan siɡaba,bukan siɡaba,[],( 20 x  2 ),['chan2019'],,False,False,,2
+jola1263-2-50-1,,jola1263-2,50,bukan siɡaba di uɲɛn,bukan siɡaba di uɲɛn,[],,['chan2019'],,False,False,,2
+jola1263-2-60-1,,jola1263-2,60,bukan sifeeɡiir,bukan sifeeɡiir,[],( 20 x  3),['chan2019'],,False,False,,2
+jola1263-2-70-1,,jola1263-2,70,bukan sifeeɡiir di uɲɛn,bukan sifeeɡiir di uɲɛn,[],,['chan2019'],,False,False,,2
+jola1263-2-80-1,,jola1263-2,80,bukan sibaakiir,bukan sibaakiir,[],( 20 x  4 ),['chan2019'],,False,False,,2
+jola1263-2-90-1,,jola1263-2,90,bukan sibaakiir di uɲɛn,bukan sibaakiir di uɲɛn,[],,['chan2019'],,False,False,,2
+jola1263-2-100-1,,jola1263-2,100,cɛɛmɛ,cɛɛmɛ,[],,['chan2019'],,False,False,,2
+jola1263-2-200-1,,jola1263-2,200,cɛɛmɛ siɡaba,cɛɛmɛ siɡaba,[],,['chan2019'],,False,False,,2
+jola1263-2-1000-1,,jola1263-2,1000,wili,wili,[],,['chan2019'],,False,False,,2
+jola1263-2-2000-1,,jola1263-2,2000,siwili siɡaba,siwili siɡaba,[],,['chan2019'],,False,False,,2

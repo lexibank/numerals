@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-huaa1248-2-1-1,,huaa1248-2,1,ǂʔûã,ǂʔûã,[],,[],,False,False,,1
-huaa1248-2-2-1,,huaa1248-2,2,ǂnûm,ǂnûm,[],,[],,False,False,,1
-huaa1248-2-3-1,,huaa1248-2,3,ǁâe,ǁâe,[],,[],,False,False,,1
-huaa1248-2-4-1,,huaa1248-2,4,borrowed Tswana or Kgalagadi,borrowed Tswana or Kgalagadi,[],,[],,False,True,,1
+huaa1248-2-1-1,,huaa1248-2,1,ǂʔûã,ǂʔûã,[],,['chan2019'],,False,False,,1
+huaa1248-2-2-1,,huaa1248-2,2,ǂnûm,ǂnûm,[],,['chan2019'],,False,False,,1
+huaa1248-2-3-1,,huaa1248-2,3,ǁâe,ǁâe,[],,['chan2019'],,False,False,,1
+huaa1248-2-4-1,,huaa1248-2,4,borrowed Tswana or Kgalagadi,borrowed Tswana or Kgalagadi,[],,['chan2019'],,False,True,,1

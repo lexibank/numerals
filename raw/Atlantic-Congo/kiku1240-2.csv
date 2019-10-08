@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kiku1240-2-1-1,,kiku1240-2,1,imwe,imwe,[],,[],,False,False,,2
-kiku1240-2-2-1,,kiku1240-2,2,iɡiri,iɡiri,[],,[],,False,False,,2
-kiku1240-2-3-1,,kiku1240-2,3,ithatu,ithatu,[],,[],,False,False,,2
-kiku1240-2-4-1,,kiku1240-2,4,inya,inya,[],,[],,False,False,,2
-kiku1240-2-5-1,,kiku1240-2,5,ithano,ithano,[],,[],,False,False,,2
-kiku1240-2-6-1,,kiku1240-2,6,ithathatu,ithathatu,[],( 2 x  3 ) ?,[],,False,False,,2
-kiku1240-2-7-1,,kiku1240-2,7,muɡwanja,muɡwanja,[],,[],,False,False,,2
-kiku1240-2-8-1,,kiku1240-2,8,inyanya,inyanya,[],(2  x 4 ) ?,[],,False,False,,2
-kiku1240-2-9-1,,kiku1240-2,9,kenda,kenda,[],,[],,False,False,,2
-kiku1240-2-10-1,,kiku1240-2,10,ikumi,ikumi,[],,[],,False,False,,2
-kiku1240-2-11-1,,kiku1240-2,11,ikumi na imwe,ikumi na imwe,[],,[],,False,False,,2
-kiku1240-2-12-1,,kiku1240-2,12,ikumi na iɡiri,ikumi na iɡiri,[],,[],,False,False,,2
-kiku1240-2-13-1,,kiku1240-2,13,ikumi na ithatu,ikumi na ithatu,[],,[],,False,False,,2
-kiku1240-2-14-1,,kiku1240-2,14,ikumi na inya,ikumi na inya,[],,[],,False,False,,2
-kiku1240-2-15-1,,kiku1240-2,15,ikumi na ithano,ikumi na ithano,[],,[],,False,False,,2
-kiku1240-2-16-1,,kiku1240-2,16,ikumi na ithathatu,ikumi na ithathatu,[],,[],,False,False,,2
-kiku1240-2-17-1,,kiku1240-2,17,ikumi na muɡwanja,ikumi na muɡwanja,[],,[],,False,False,,2
-kiku1240-2-18-1,,kiku1240-2,18,ikumi na inyanya,ikumi na inyanya,[],,[],,False,False,,2
-kiku1240-2-19-1,,kiku1240-2,19,ikumi na kenda,ikumi na kenda,[],,[],,False,False,,2
-kiku1240-2-20-1,,kiku1240-2,20,mironɡo iri,mironɡo iri,[],,[],,False,False,,2
-kiku1240-2-21-1,,kiku1240-2,21,mironɡo iri na imwe,mironɡo iri na imwe,[],,[],,False,False,,2
-kiku1240-2-22-1,,kiku1240-2,22,mironɡo iri na iɡiri,mironɡo iri na iɡiri,[],,[],,False,False,,2
-kiku1240-2-23-1,,kiku1240-2,23,mironɡo iri na ithatu,mironɡo iri na ithatu,[],,[],,False,False,,2
-kiku1240-2-24-1,,kiku1240-2,24,mironɡo iri na inya,mironɡo iri na inya,[],,[],,False,False,,2
-kiku1240-2-25-1,,kiku1240-2,25,mironɡo iri na ithano,mironɡo iri na ithano,[],,[],,False,False,,2
-kiku1240-2-26-1,,kiku1240-2,26,mironɡo iri na ithathatu,mironɡo iri na ithathatu,[],,[],,False,False,,2
-kiku1240-2-27-1,,kiku1240-2,27,mironɡo iri na muɡwanja,mironɡo iri na muɡwanja,[],,[],,False,False,,2
-kiku1240-2-28-1,,kiku1240-2,28,mironɡo iri na inyanya,mironɡo iri na inyanya,[],,[],,False,False,,2
-kiku1240-2-29-1,,kiku1240-2,29,mironɡo iri na kenda,mironɡo iri na kenda,[],,[],,False,False,,2
-kiku1240-2-30-1,,kiku1240-2,30,mironɡo ithatu,mironɡo ithatu,[],,[],,False,False,,2
-kiku1240-2-40-1,,kiku1240-2,40,mironɡo inya,mironɡo inya,[],,[],,False,False,,2
-kiku1240-2-50-1,,kiku1240-2,50,mironɡo ithano,mironɡo ithano,[],,[],,False,False,,2
-kiku1240-2-60-1,,kiku1240-2,60,mironɡo ithathatu,mironɡo ithathatu,[],,[],,False,False,,2
-kiku1240-2-70-1,,kiku1240-2,70,mironɡo muɡwanja,mironɡo muɡwanja,[],,[],,False,False,,2
-kiku1240-2-80-1,,kiku1240-2,80,mironɡo inyanya,mironɡo inyanya,[],,[],,False,False,,2
-kiku1240-2-90-1,,kiku1240-2,90,mironɡo kenda,mironɡo kenda,[],,[],,False,False,,2
-kiku1240-2-100-1,,kiku1240-2,100,iɡana rimwe,iɡana rimwe,[],,[],,False,False,,2
-kiku1240-2-200-1,,kiku1240-2,200,maɡana meri,maɡana meri,[],,[],,False,False,,2
-kiku1240-2-1000-1,,kiku1240-2,1000,nɡiri imwe,nɡiri imwe,[],,[],,False,False,,2
-kiku1240-2-2000-1,,kiku1240-2,2000,nɡiri iɡiri,nɡiri iɡiri,[],,[],,False,False,,2
+kiku1240-2-1-1,,kiku1240-2,1,imwe,imwe,[],,['chan2019'],,False,False,,2
+kiku1240-2-2-1,,kiku1240-2,2,iɡiri,iɡiri,[],,['chan2019'],,False,False,,2
+kiku1240-2-3-1,,kiku1240-2,3,ithatu,ithatu,[],,['chan2019'],,False,False,,2
+kiku1240-2-4-1,,kiku1240-2,4,inya,inya,[],,['chan2019'],,False,False,,2
+kiku1240-2-5-1,,kiku1240-2,5,ithano,ithano,[],,['chan2019'],,False,False,,2
+kiku1240-2-6-1,,kiku1240-2,6,ithathatu,ithathatu,[],( 2 x  3 ) ?,['chan2019'],,False,False,,2
+kiku1240-2-7-1,,kiku1240-2,7,muɡwanja,muɡwanja,[],,['chan2019'],,False,False,,2
+kiku1240-2-8-1,,kiku1240-2,8,inyanya,inyanya,[],(2  x 4 ) ?,['chan2019'],,False,False,,2
+kiku1240-2-9-1,,kiku1240-2,9,kenda,kenda,[],,['chan2019'],,False,False,,2
+kiku1240-2-10-1,,kiku1240-2,10,ikumi,ikumi,[],,['chan2019'],,False,False,,2
+kiku1240-2-11-1,,kiku1240-2,11,ikumi na imwe,ikumi na imwe,[],,['chan2019'],,False,False,,2
+kiku1240-2-12-1,,kiku1240-2,12,ikumi na iɡiri,ikumi na iɡiri,[],,['chan2019'],,False,False,,2
+kiku1240-2-13-1,,kiku1240-2,13,ikumi na ithatu,ikumi na ithatu,[],,['chan2019'],,False,False,,2
+kiku1240-2-14-1,,kiku1240-2,14,ikumi na inya,ikumi na inya,[],,['chan2019'],,False,False,,2
+kiku1240-2-15-1,,kiku1240-2,15,ikumi na ithano,ikumi na ithano,[],,['chan2019'],,False,False,,2
+kiku1240-2-16-1,,kiku1240-2,16,ikumi na ithathatu,ikumi na ithathatu,[],,['chan2019'],,False,False,,2
+kiku1240-2-17-1,,kiku1240-2,17,ikumi na muɡwanja,ikumi na muɡwanja,[],,['chan2019'],,False,False,,2
+kiku1240-2-18-1,,kiku1240-2,18,ikumi na inyanya,ikumi na inyanya,[],,['chan2019'],,False,False,,2
+kiku1240-2-19-1,,kiku1240-2,19,ikumi na kenda,ikumi na kenda,[],,['chan2019'],,False,False,,2
+kiku1240-2-20-1,,kiku1240-2,20,mironɡo iri,mironɡo iri,[],,['chan2019'],,False,False,,2
+kiku1240-2-21-1,,kiku1240-2,21,mironɡo iri na imwe,mironɡo iri na imwe,[],,['chan2019'],,False,False,,2
+kiku1240-2-22-1,,kiku1240-2,22,mironɡo iri na iɡiri,mironɡo iri na iɡiri,[],,['chan2019'],,False,False,,2
+kiku1240-2-23-1,,kiku1240-2,23,mironɡo iri na ithatu,mironɡo iri na ithatu,[],,['chan2019'],,False,False,,2
+kiku1240-2-24-1,,kiku1240-2,24,mironɡo iri na inya,mironɡo iri na inya,[],,['chan2019'],,False,False,,2
+kiku1240-2-25-1,,kiku1240-2,25,mironɡo iri na ithano,mironɡo iri na ithano,[],,['chan2019'],,False,False,,2
+kiku1240-2-26-1,,kiku1240-2,26,mironɡo iri na ithathatu,mironɡo iri na ithathatu,[],,['chan2019'],,False,False,,2
+kiku1240-2-27-1,,kiku1240-2,27,mironɡo iri na muɡwanja,mironɡo iri na muɡwanja,[],,['chan2019'],,False,False,,2
+kiku1240-2-28-1,,kiku1240-2,28,mironɡo iri na inyanya,mironɡo iri na inyanya,[],,['chan2019'],,False,False,,2
+kiku1240-2-29-1,,kiku1240-2,29,mironɡo iri na kenda,mironɡo iri na kenda,[],,['chan2019'],,False,False,,2
+kiku1240-2-30-1,,kiku1240-2,30,mironɡo ithatu,mironɡo ithatu,[],,['chan2019'],,False,False,,2
+kiku1240-2-40-1,,kiku1240-2,40,mironɡo inya,mironɡo inya,[],,['chan2019'],,False,False,,2
+kiku1240-2-50-1,,kiku1240-2,50,mironɡo ithano,mironɡo ithano,[],,['chan2019'],,False,False,,2
+kiku1240-2-60-1,,kiku1240-2,60,mironɡo ithathatu,mironɡo ithathatu,[],,['chan2019'],,False,False,,2
+kiku1240-2-70-1,,kiku1240-2,70,mironɡo muɡwanja,mironɡo muɡwanja,[],,['chan2019'],,False,False,,2
+kiku1240-2-80-1,,kiku1240-2,80,mironɡo inyanya,mironɡo inyanya,[],,['chan2019'],,False,False,,2
+kiku1240-2-90-1,,kiku1240-2,90,mironɡo kenda,mironɡo kenda,[],,['chan2019'],,False,False,,2
+kiku1240-2-100-1,,kiku1240-2,100,iɡana rimwe,iɡana rimwe,[],,['chan2019'],,False,False,,2
+kiku1240-2-200-1,,kiku1240-2,200,maɡana meri,maɡana meri,[],,['chan2019'],,False,False,,2
+kiku1240-2-1000-1,,kiku1240-2,1000,nɡiri imwe,nɡiri imwe,[],,['chan2019'],,False,False,,2
+kiku1240-2-2000-1,,kiku1240-2,2000,nɡiri iɡiri,nɡiri iɡiri,[],,['chan2019'],,False,False,,2

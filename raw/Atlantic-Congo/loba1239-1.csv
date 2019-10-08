@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-loba1239-1-1-1,,loba1239-1,1,mɔ́nɔ́mɔ́,mɔ́nɔ́mɔ́,[],,[],,False,False,,1
-loba1239-1-2-1,,loba1239-1,2,ibalé,ibalé,[],,[],,False,False,,1
-loba1239-1-3-1,,loba1239-1,3,íáto,íáto,[],,[],,False,False,,1
-loba1239-1-4-1,,loba1239-1,4,ínei,ínei,[],,[],,False,False,,1
-loba1239-1-5-1,,loba1239-1,5,ítáno,ítáno,[],,[],,False,False,,1
-loba1239-1-6-1,,loba1239-1,6,motóbá,motóbá,[],,[],,False,False,,1
-loba1239-1-7-1,,loba1239-1,7,sambo,sambo,[],,[],,False,False,,1
-loba1239-1-8-1,,loba1239-1,8,mwambe,mwambe,[],,[],,False,False,,1
-loba1239-1-9-1,,loba1239-1,9,ibuwá,ibuwá,[],,[],,False,False,,1
-loba1239-1-10-1,,loba1239-1,10,iko,iko,[],,[],,False,False,,1
-loba1239-1-11-1,,loba1239-1,11,iko ná mɔ́nɔ́mɔ́,iko ná mɔ́nɔ́mɔ́,[],,[],,False,False,,1
-loba1239-1-12-1,,loba1239-1,12,iko ná ibalé,iko ná ibalé,[],,[],,False,False,,1
-loba1239-1-13-1,,loba1239-1,13,iko ná íáto,iko ná íáto,[],,[],,False,False,,1
-loba1239-1-14-1,,loba1239-1,14,iko ná ínei,iko ná ínei,[],,[],,False,False,,1
-loba1239-1-15-1,,loba1239-1,15,iko ná ítáno,iko ná ítáno,[],,[],,False,False,,1
-loba1239-1-16-1,,loba1239-1,16,iko ná motóbá,iko ná motóbá,[],,[],,False,False,,1
-loba1239-1-17-1,,loba1239-1,17,iko ná sambo,iko ná sambo,[],,[],,False,False,,1
-loba1239-1-18-1,,loba1239-1,18,iko ná mwambe,iko ná mwambe,[],,[],,False,False,,1
-loba1239-1-19-1,,loba1239-1,19,iko ná ibuwá,iko ná ibuwá,[],,[],,False,False,,1
-loba1239-1-20-1,,loba1239-1,20,mako mabalé,mako mabalé,[],,[],,False,False,,1
-loba1239-1-21-1,,loba1239-1,21,mako mabalé ná mɔ́nɔ́mɔ́,mako mabalé ná mɔ́nɔ́mɔ́,[],,[],,False,False,,1
-loba1239-1-22-1,,loba1239-1,22,mako mabalé ná ibalé,mako mabalé ná ibalé,[],,[],,False,False,,1
-loba1239-1-23-1,,loba1239-1,23,mako mabalé ná íáto,mako mabalé ná íáto,[],,[],,False,False,,1
-loba1239-1-24-1,,loba1239-1,24,mako mabalé ná ínei,mako mabalé ná ínei,[],,[],,False,False,,1
-loba1239-1-25-1,,loba1239-1,25,mako mabalé ná ítáno,mako mabalé ná ítáno,[],,[],,False,False,,1
-loba1239-1-26-1,,loba1239-1,26,mako mabalé ná motóbá,mako mabalé ná motóbá,[],,[],,False,False,,1
-loba1239-1-27-1,,loba1239-1,27,mako mabalé ná sambo,mako mabalé ná sambo,[],,[],,False,False,,1
-loba1239-1-28-1,,loba1239-1,28,mako mabalé ná mwambe,mako mabalé ná mwambe,[],,[],,False,False,,1
-loba1239-1-29-1,,loba1239-1,29,mako mabalé ná ibuwá,mako mabalé ná ibuwá,[],,[],,False,False,,1
-loba1239-1-30-1,,loba1239-1,30,mako mááto,mako mááto,[],,[],,False,False,,1
-loba1239-1-40-1,,loba1239-1,40,mako mánei,mako mánei,[],,[],,False,False,,1
-loba1239-1-50-1,,loba1239-1,50,mako mátáno,mako mátáno,[],,[],,False,False,,1
-loba1239-1-60-1,,loba1239-1,60,mako mótóbá,mako mótóbá,[],,[],,False,False,,1
-loba1239-1-70-1,,loba1239-1,70,mako sambo,mako sambo,[],,[],,False,False,,1
-loba1239-1-80-1,,loba1239-1,80,mako mwambɛ,mako mwambɛ,[],,[],,False,False,,1
-loba1239-1-90-1,,loba1239-1,90,mako ibuwá,mako ibuwá,[],,[],,False,False,,1
-loba1239-1-100-1,,loba1239-1,100,kámá,kámá,[],,[],,False,False,,1
-loba1239-1-200-1,,loba1239-1,200,kama ibalé,kama ibalé,[],,[],,False,False,,1
-loba1239-1-1000-1,,loba1239-1,1000,kóto,kóto,[],,[],,False,False,,1
-loba1239-1-2000-1,,loba1239-1,2000,kóto ibalé,kóto ibalé,[],,[],,False,False,,1
+loba1239-1-1-1,,loba1239-1,1,mɔ́nɔ́mɔ́,mɔ́nɔ́mɔ́,[],,['chan2019'],,False,False,,1
+loba1239-1-2-1,,loba1239-1,2,ibalé,ibalé,[],,['chan2019'],,False,False,,1
+loba1239-1-3-1,,loba1239-1,3,íáto,íáto,[],,['chan2019'],,False,False,,1
+loba1239-1-4-1,,loba1239-1,4,ínei,ínei,[],,['chan2019'],,False,False,,1
+loba1239-1-5-1,,loba1239-1,5,ítáno,ítáno,[],,['chan2019'],,False,False,,1
+loba1239-1-6-1,,loba1239-1,6,motóbá,motóbá,[],,['chan2019'],,False,False,,1
+loba1239-1-7-1,,loba1239-1,7,sambo,sambo,[],,['chan2019'],,False,False,,1
+loba1239-1-8-1,,loba1239-1,8,mwambe,mwambe,[],,['chan2019'],,False,False,,1
+loba1239-1-9-1,,loba1239-1,9,ibuwá,ibuwá,[],,['chan2019'],,False,False,,1
+loba1239-1-10-1,,loba1239-1,10,iko,iko,[],,['chan2019'],,False,False,,1
+loba1239-1-11-1,,loba1239-1,11,iko ná mɔ́nɔ́mɔ́,iko ná mɔ́nɔ́mɔ́,[],,['chan2019'],,False,False,,1
+loba1239-1-12-1,,loba1239-1,12,iko ná ibalé,iko ná ibalé,[],,['chan2019'],,False,False,,1
+loba1239-1-13-1,,loba1239-1,13,iko ná íáto,iko ná íáto,[],,['chan2019'],,False,False,,1
+loba1239-1-14-1,,loba1239-1,14,iko ná ínei,iko ná ínei,[],,['chan2019'],,False,False,,1
+loba1239-1-15-1,,loba1239-1,15,iko ná ítáno,iko ná ítáno,[],,['chan2019'],,False,False,,1
+loba1239-1-16-1,,loba1239-1,16,iko ná motóbá,iko ná motóbá,[],,['chan2019'],,False,False,,1
+loba1239-1-17-1,,loba1239-1,17,iko ná sambo,iko ná sambo,[],,['chan2019'],,False,False,,1
+loba1239-1-18-1,,loba1239-1,18,iko ná mwambe,iko ná mwambe,[],,['chan2019'],,False,False,,1
+loba1239-1-19-1,,loba1239-1,19,iko ná ibuwá,iko ná ibuwá,[],,['chan2019'],,False,False,,1
+loba1239-1-20-1,,loba1239-1,20,mako mabalé,mako mabalé,[],,['chan2019'],,False,False,,1
+loba1239-1-21-1,,loba1239-1,21,mako mabalé ná mɔ́nɔ́mɔ́,mako mabalé ná mɔ́nɔ́mɔ́,[],,['chan2019'],,False,False,,1
+loba1239-1-22-1,,loba1239-1,22,mako mabalé ná ibalé,mako mabalé ná ibalé,[],,['chan2019'],,False,False,,1
+loba1239-1-23-1,,loba1239-1,23,mako mabalé ná íáto,mako mabalé ná íáto,[],,['chan2019'],,False,False,,1
+loba1239-1-24-1,,loba1239-1,24,mako mabalé ná ínei,mako mabalé ná ínei,[],,['chan2019'],,False,False,,1
+loba1239-1-25-1,,loba1239-1,25,mako mabalé ná ítáno,mako mabalé ná ítáno,[],,['chan2019'],,False,False,,1
+loba1239-1-26-1,,loba1239-1,26,mako mabalé ná motóbá,mako mabalé ná motóbá,[],,['chan2019'],,False,False,,1
+loba1239-1-27-1,,loba1239-1,27,mako mabalé ná sambo,mako mabalé ná sambo,[],,['chan2019'],,False,False,,1
+loba1239-1-28-1,,loba1239-1,28,mako mabalé ná mwambe,mako mabalé ná mwambe,[],,['chan2019'],,False,False,,1
+loba1239-1-29-1,,loba1239-1,29,mako mabalé ná ibuwá,mako mabalé ná ibuwá,[],,['chan2019'],,False,False,,1
+loba1239-1-30-1,,loba1239-1,30,mako mááto,mako mááto,[],,['chan2019'],,False,False,,1
+loba1239-1-40-1,,loba1239-1,40,mako mánei,mako mánei,[],,['chan2019'],,False,False,,1
+loba1239-1-50-1,,loba1239-1,50,mako mátáno,mako mátáno,[],,['chan2019'],,False,False,,1
+loba1239-1-60-1,,loba1239-1,60,mako mótóbá,mako mótóbá,[],,['chan2019'],,False,False,,1
+loba1239-1-70-1,,loba1239-1,70,mako sambo,mako sambo,[],,['chan2019'],,False,False,,1
+loba1239-1-80-1,,loba1239-1,80,mako mwambɛ,mako mwambɛ,[],,['chan2019'],,False,False,,1
+loba1239-1-90-1,,loba1239-1,90,mako ibuwá,mako ibuwá,[],,['chan2019'],,False,False,,1
+loba1239-1-100-1,,loba1239-1,100,kámá,kámá,[],,['chan2019'],,False,False,,1
+loba1239-1-200-1,,loba1239-1,200,kama ibalé,kama ibalé,[],,['chan2019'],,False,False,,1
+loba1239-1-1000-1,,loba1239-1,1000,kóto,kóto,[],,['chan2019'],,False,False,,1
+loba1239-1-2000-1,,loba1239-1,2000,kóto ibalé,kóto ibalé,[],,['chan2019'],,False,False,,1

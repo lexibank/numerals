@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-woli1241-1-1-1,,woli1241-1,1,ʔise,ʔise,[],,[],,False,False,,1
-woli1241-1-1-2,,woli1241-1,1,sa,sa,[],,[],,False,False,,1
-woli1241-1-2-1,,woli1241-1,2,ǰua,ǰua,[],,[],,False,False,,1
-woli1241-1-2-2,,woli1241-1,2,rua,rua,[],,[],,False,False,,1
-woli1241-1-3-1,,woli1241-1,3,talu,talu,[],,[],,False,False,,1
-woli1241-1-4-1,,woli1241-1,4,apa,apa,[],,[],,False,False,,1
-woli1241-1-4-2,,woli1241-1,4,pata,pata,[],,[],,False,False,,1
-woli1241-1-5-1,,woli1241-1,5,lima,lima,[],,[],,False,False,,1
-woli1241-1-6-1,,woli1241-1,6,ana,ana,[],,[],,False,False,,1
-woli1241-1-6-2,,woli1241-1,6,nama,nama,[],,[],,False,False,,1
-woli1241-1-7-1,,woli1241-1,7,pitu,pitu,[],,[],,False,False,,1
-woli1241-1-8-1,,woli1241-1,8,βalu,βalu,[],,[],,False,False,,1
-woli1241-1-9-1,,woli1241-1,9,sio,sio,[],,[],,False,False,,1
-woli1241-1-10-1,,woli1241-1,10,sapulu,sapulu,[],,[],,False,False,,1
-woli1241-1-11-1,,woli1241-1,11,sapulu sa aŋu,sapulu sa aŋu,[],,[],,False,False,,1
-woli1241-1-12-1,,woli1241-1,12,sapulu rua aŋu,sapulu rua aŋu,[],,[],,False,False,,1
-woli1241-1-13-1,,woli1241-1,13,sapulu talu aŋu,sapulu talu aŋu,[],,[],,False,False,,1
-woli1241-1-14-1,,woli1241-1,14,sapulu pata aŋu,sapulu pata aŋu,[],,[],,False,False,,1
-woli1241-1-15-1,,woli1241-1,15,sapulu lima aŋu,sapulu lima aŋu,[],,[],,False,False,,1
-woli1241-1-16-1,,woli1241-1,16,sapulu nama aŋu,sapulu nama aŋu,[],,[],,False,False,,1
-woli1241-1-17-1,,woli1241-1,17,sapulu pitu aŋu,sapulu pitu aŋu,[],,[],,False,False,,1
-woli1241-1-18-1,,woli1241-1,18,sapulu βalu aŋu,sapulu βalu aŋu,[],,[],,False,False,,1
-woli1241-1-19-1,,woli1241-1,19,sapulu sio aŋu,sapulu sio aŋu,[],,[],,False,False,,1
-woli1241-1-20-1,,woli1241-1,20,rua pulu,rua pulu,[],,[],,False,False,,1
-woli1241-1-21-1,,woli1241-1,21,rua pulu sa aŋu,rua pulu sa aŋu,[],,[],,False,False,,1
-woli1241-1-22-1,,woli1241-1,22,rua pulu rua aŋu,rua pulu rua aŋu,[],,[],,False,False,,1
-woli1241-1-23-1,,woli1241-1,23,rua pulu talu aŋu,rua pulu talu aŋu,[],,[],,False,False,,1
-woli1241-1-24-1,,woli1241-1,24,rua pulu pata aŋu,rua pulu pata aŋu,[],,[],,False,False,,1
-woli1241-1-25-1,,woli1241-1,25,rua pulu lima aŋu,rua pulu lima aŋu,[],,[],,False,False,,1
-woli1241-1-26-1,,woli1241-1,26,rua pulu nama aŋu,rua pulu nama aŋu,[],,[],,False,False,,1
-woli1241-1-27-1,,woli1241-1,27,rua pulu pitu aŋu,rua pulu pitu aŋu,[],,[],,False,False,,1
-woli1241-1-28-1,,woli1241-1,28,rua pulu βalu aŋu,rua pulu βalu aŋu,[],,[],,False,False,,1
-woli1241-1-29-1,,woli1241-1,29,rua pulu sio aŋu,rua pulu sio aŋu,[],,[],,False,False,,1
-woli1241-1-30-1,,woli1241-1,30,talu pulu,talu pulu,[],,[],,False,False,,1
-woli1241-1-40-1,,woli1241-1,40,pata pulu,pata pulu,[],,[],,False,False,,1
-woli1241-1-50-1,,woli1241-1,50,lima pulu,lima pulu,[],,[],,False,False,,1
-woli1241-1-60-1,,woli1241-1,60,nama pulu,nama pulu,[],,[],,False,False,,1
-woli1241-1-70-1,,woli1241-1,70,pitu pulu,pitu pulu,[],,[],,False,False,,1
-woli1241-1-80-1,,woli1241-1,80,βalu pulu,βalu pulu,[],,[],,False,False,,1
-woli1241-1-90-1,,woli1241-1,90,sio pulu,sio pulu,[],,[],,False,False,,1
-woli1241-1-100-1,,woli1241-1,100,saːtu,saːtu,[],,[],,False,False,,1
-woli1241-1-200-1,,woli1241-1,200,rua atu,rua atu,[],,[],,False,False,,1
-woli1241-1-1000-1,,woli1241-1,1000,sareβu,sareβu,[],,[],,False,False,,1
-woli1241-1-2000-1,,woli1241-1,2000,rua reβu,rua reβu,[],,[],,False,False,,1
+woli1241-1-1-1,,woli1241-1,1,ʔise,ʔise,[],,['chan2019'],,False,False,,1
+woli1241-1-1-2,,woli1241-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+woli1241-1-2-1,,woli1241-1,2,ǰua,ǰua,[],,['chan2019'],,False,False,,1
+woli1241-1-2-2,,woli1241-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+woli1241-1-3-1,,woli1241-1,3,talu,talu,[],,['chan2019'],,False,False,,1
+woli1241-1-4-1,,woli1241-1,4,apa,apa,[],,['chan2019'],,False,False,,1
+woli1241-1-4-2,,woli1241-1,4,pata,pata,[],,['chan2019'],,False,False,,1
+woli1241-1-5-1,,woli1241-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+woli1241-1-6-1,,woli1241-1,6,ana,ana,[],,['chan2019'],,False,False,,1
+woli1241-1-6-2,,woli1241-1,6,nama,nama,[],,['chan2019'],,False,False,,1
+woli1241-1-7-1,,woli1241-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+woli1241-1-8-1,,woli1241-1,8,βalu,βalu,[],,['chan2019'],,False,False,,1
+woli1241-1-9-1,,woli1241-1,9,sio,sio,[],,['chan2019'],,False,False,,1
+woli1241-1-10-1,,woli1241-1,10,sapulu,sapulu,[],,['chan2019'],,False,False,,1
+woli1241-1-11-1,,woli1241-1,11,sapulu sa aŋu,sapulu sa aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-12-1,,woli1241-1,12,sapulu rua aŋu,sapulu rua aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-13-1,,woli1241-1,13,sapulu talu aŋu,sapulu talu aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-14-1,,woli1241-1,14,sapulu pata aŋu,sapulu pata aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-15-1,,woli1241-1,15,sapulu lima aŋu,sapulu lima aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-16-1,,woli1241-1,16,sapulu nama aŋu,sapulu nama aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-17-1,,woli1241-1,17,sapulu pitu aŋu,sapulu pitu aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-18-1,,woli1241-1,18,sapulu βalu aŋu,sapulu βalu aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-19-1,,woli1241-1,19,sapulu sio aŋu,sapulu sio aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-20-1,,woli1241-1,20,rua pulu,rua pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-21-1,,woli1241-1,21,rua pulu sa aŋu,rua pulu sa aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-22-1,,woli1241-1,22,rua pulu rua aŋu,rua pulu rua aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-23-1,,woli1241-1,23,rua pulu talu aŋu,rua pulu talu aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-24-1,,woli1241-1,24,rua pulu pata aŋu,rua pulu pata aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-25-1,,woli1241-1,25,rua pulu lima aŋu,rua pulu lima aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-26-1,,woli1241-1,26,rua pulu nama aŋu,rua pulu nama aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-27-1,,woli1241-1,27,rua pulu pitu aŋu,rua pulu pitu aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-28-1,,woli1241-1,28,rua pulu βalu aŋu,rua pulu βalu aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-29-1,,woli1241-1,29,rua pulu sio aŋu,rua pulu sio aŋu,[],,['chan2019'],,False,False,,1
+woli1241-1-30-1,,woli1241-1,30,talu pulu,talu pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-40-1,,woli1241-1,40,pata pulu,pata pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-50-1,,woli1241-1,50,lima pulu,lima pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-60-1,,woli1241-1,60,nama pulu,nama pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-70-1,,woli1241-1,70,pitu pulu,pitu pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-80-1,,woli1241-1,80,βalu pulu,βalu pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-90-1,,woli1241-1,90,sio pulu,sio pulu,[],,['chan2019'],,False,False,,1
+woli1241-1-100-1,,woli1241-1,100,saːtu,saːtu,[],,['chan2019'],,False,False,,1
+woli1241-1-200-1,,woli1241-1,200,rua atu,rua atu,[],,['chan2019'],,False,False,,1
+woli1241-1-1000-1,,woli1241-1,1000,sareβu,sareβu,[],,['chan2019'],,False,False,,1
+woli1241-1-2000-1,,woli1241-1,2000,rua reβu,rua reβu,[],,['chan2019'],,False,False,,1

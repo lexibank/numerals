@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mini1256-1-1-1,,mini1256-1,1,daa,daa,[],,[],,False,False,,1
-mini1256-1-2-1,,mini1256-1,2,mena,mena,[],,[],,False,False,,1
-mini1256-1-3-1,,mini1256-1,3,daámani,daámani,[],,[],,False,False,,1
-mini1256-1-4-1,,mini1256-1,4,fɨɡoménarie,fɨɡoménarie,[],,[],,False,False,,1
-mini1256-1-5-1,,mini1256-1,5,hubeba,hubeba,[],,[],,False,False,,1
-mini1256-1-6-1,,mini1256-1,6,is marked on the other hand''),is marked on the other hand''),[],,[],,False,True,enéfebamo daa (litː ''one finger,1
-mini1256-1-7-1,,mini1256-1,7,enéfebamo mena,enéfebamo mena,[],,[],,False,False,,1
-mini1256-1-8-1,,mini1256-1,8,enéfebamo daámani,enéfebamo daámani,[],,[],,False,False,,1
-mini1256-1-9-1,,mini1256-1,9,enéfebamo fɨɡoménarie,enéfebamo fɨɡoménarie,[],,[],,False,False,,1
-mini1256-1-10-1,,mini1256-1,10,are marked ''),are marked ''),[],,[],,False,True,náɡafeba (lit: ''both hands,1
-mini1256-1-11-1,,mini1256-1,11,eɨ́bamo da,eɨ́bamo da,[],(litː ''one toe on the foot'' ),[],,False,False,,1
-mini1256-1-12-1,,mini1256-1,12,eɨ́bamo mena,eɨ́bamo mena,[],,[],,False,False,,1
-mini1256-1-13-1,,mini1256-1,13,eɨ́bamo daámani,eɨ́bamo daámani,[],,[],,False,False,,1
-mini1256-1-14-1,,mini1256-1,14,eɨ́bamo fɨɡoménarie,eɨ́bamo fɨɡoménarie,[],,[],,False,False,,1
-mini1256-1-15-1,,mini1256-1,15,eɨ́bamo hubeba,eɨ́bamo hubeba,[],,[],,False,False,,1
-mini1256-1-16-1,,mini1256-1,16,eɨ́ba enéfebamo da,eɨ́ba enéfebamo da,[],,[],,False,False,,1
-mini1256-1-17-1,,mini1256-1,17,eɨ́ba enéfebamo mena,eɨ́ba enéfebamo mena,[],,[],,False,False,,1
-mini1256-1-18-1,,mini1256-1,18,eɨ́ba enéfebamo daámani,eɨ́ba enéfebamo daámani,[],,[],,False,False,,1
-mini1256-1-19-1,,mini1256-1,19,eɨ́ba enéfebamo fɨɡoménarie,eɨ́ba enéfebamo fɨɡoménarie,[],,[],,False,False,,1
-mini1256-1-20-1,,mini1256-1,20,eɨ́ba naɡáfebe,eɨ́ba naɡáfebe,[],(litː ''both feet'' ),[],,False,False,,1
+mini1256-1-1-1,,mini1256-1,1,daa,daa,[],,['chan2019'],,False,False,,1
+mini1256-1-2-1,,mini1256-1,2,mena,mena,[],,['chan2019'],,False,False,,1
+mini1256-1-3-1,,mini1256-1,3,daámani,daámani,[],,['chan2019'],,False,False,,1
+mini1256-1-4-1,,mini1256-1,4,fɨɡoménarie,fɨɡoménarie,[],,['chan2019'],,False,False,,1
+mini1256-1-5-1,,mini1256-1,5,hubeba,hubeba,[],,['chan2019'],,False,False,,1
+mini1256-1-6-1,,mini1256-1,6,is marked on the other hand''),is marked on the other hand''),[],,['chan2019'],,False,True,enéfebamo daa (litː ''one finger,1
+mini1256-1-7-1,,mini1256-1,7,enéfebamo mena,enéfebamo mena,[],,['chan2019'],,False,False,,1
+mini1256-1-8-1,,mini1256-1,8,enéfebamo daámani,enéfebamo daámani,[],,['chan2019'],,False,False,,1
+mini1256-1-9-1,,mini1256-1,9,enéfebamo fɨɡoménarie,enéfebamo fɨɡoménarie,[],,['chan2019'],,False,False,,1
+mini1256-1-10-1,,mini1256-1,10,are marked ''),are marked ''),[],,['chan2019'],,False,True,náɡafeba (lit: ''both hands,1
+mini1256-1-11-1,,mini1256-1,11,eɨ́bamo da,eɨ́bamo da,[],(litː ''one toe on the foot'' ),['chan2019'],,False,False,,1
+mini1256-1-12-1,,mini1256-1,12,eɨ́bamo mena,eɨ́bamo mena,[],,['chan2019'],,False,False,,1
+mini1256-1-13-1,,mini1256-1,13,eɨ́bamo daámani,eɨ́bamo daámani,[],,['chan2019'],,False,False,,1
+mini1256-1-14-1,,mini1256-1,14,eɨ́bamo fɨɡoménarie,eɨ́bamo fɨɡoménarie,[],,['chan2019'],,False,False,,1
+mini1256-1-15-1,,mini1256-1,15,eɨ́bamo hubeba,eɨ́bamo hubeba,[],,['chan2019'],,False,False,,1
+mini1256-1-16-1,,mini1256-1,16,eɨ́ba enéfebamo da,eɨ́ba enéfebamo da,[],,['chan2019'],,False,False,,1
+mini1256-1-17-1,,mini1256-1,17,eɨ́ba enéfebamo mena,eɨ́ba enéfebamo mena,[],,['chan2019'],,False,False,,1
+mini1256-1-18-1,,mini1256-1,18,eɨ́ba enéfebamo daámani,eɨ́ba enéfebamo daámani,[],,['chan2019'],,False,False,,1
+mini1256-1-19-1,,mini1256-1,19,eɨ́ba enéfebamo fɨɡoménarie,eɨ́ba enéfebamo fɨɡoménarie,[],,['chan2019'],,False,False,,1
+mini1256-1-20-1,,mini1256-1,20,eɨ́ba naɡáfebe,eɨ́ba naɡáfebe,[],(litː ''both feet'' ),['chan2019'],,False,False,,1

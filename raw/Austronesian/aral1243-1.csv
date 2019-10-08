@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-aral1243-1-1-1,,aral1243-1,1,mesa,mesa,[],,[],,False,False,,1
-aral1243-1-2-1,,aral1243-1,2,derua,derua,[],,[],,False,False,,1
-aral1243-1-3-1,,aral1243-1,3,tallu,tallu,[],,[],,False,False,,1
-aral1243-1-4-1,,aral1243-1,4,uhpaʔ,uhpaʔ,[],,[],,False,False,,1
-aral1243-1-5-1,,aral1243-1,5,lima,lima,[],,[],,False,False,,1
-aral1243-1-6-1,,aral1243-1,6,unnuŋ,unnuŋ,[],,[],,False,False,,1
-aral1243-1-7-1,,aral1243-1,7,pitu,pitu,[],,[],,False,False,,1
-aral1243-1-8-1,,aral1243-1,8,kahua,kahua,[],(10 - 2 ),[],,False,False,,1
-aral1243-1-9-1,,aral1243-1,9,kamehsa,kamehsa,[],(10 - 1),[],,False,False,,1
-aral1243-1-10-1,,aral1243-1,10,sampulo,sampulo,[],,[],,False,False,,1
-aral1243-1-11-1,,aral1243-1,11,sampulo mesa,sampulo mesa,[],,[],,False,False,,1
-aral1243-1-12-1,,aral1243-1,12,sampulo derua,sampulo derua,[],,[],,False,False,,1
-aral1243-1-13-1,,aral1243-1,13,sampulo tallu,sampulo tallu,[],,[],,False,False,,1
-aral1243-1-14-1,,aral1243-1,14,sampulo uhpaʔ,sampulo uhpaʔ,[],,[],,False,False,,1
-aral1243-1-15-1,,aral1243-1,15,sampulo lima,sampulo lima,[],,[],,False,False,,1
-aral1243-1-16-1,,aral1243-1,16,sampulo unnuŋ,sampulo unnuŋ,[],,[],,False,False,,1
-aral1243-1-17-1,,aral1243-1,17,sampulo pitu,sampulo pitu,[],,[],,False,False,,1
-aral1243-1-18-1,,aral1243-1,18,sampulo kahua,sampulo kahua,[],,[],,False,False,,1
-aral1243-1-19-1,,aral1243-1,19,sampulo kamehsa,sampulo kamehsa,[],,[],,False,False,,1
-aral1243-1-20-1,,aral1243-1,20,dompulo,dompulo,[],,[],,False,False,,1
-aral1243-1-21-1,,aral1243-1,21,dompulomesa,dompulomesa,[],,[],,False,False,,1
-aral1243-1-22-1,,aral1243-1,22,dompulo derua,dompulo derua,[],,[],,False,False,,1
-aral1243-1-23-1,,aral1243-1,23,dompulo tallu,dompulo tallu,[],,[],,False,False,,1
-aral1243-1-24-1,,aral1243-1,24,dompulo uhpaʔ,dompulo uhpaʔ,[],,[],,False,False,,1
-aral1243-1-25-1,,aral1243-1,25,dompulo lima,dompulo lima,[],,[],,False,False,,1
-aral1243-1-26-1,,aral1243-1,26,dompulo unuŋ,dompulo unuŋ,[],,[],,False,False,,1
-aral1243-1-27-1,,aral1243-1,27,dompulo pitu,dompulo pitu,[],,[],,False,False,,1
-aral1243-1-28-1,,aral1243-1,28,dompulo kahua,dompulo kahua,[],,[],,False,False,,1
-aral1243-1-29-1,,aral1243-1,29,dompulo kamehsa,dompulo kamehsa,[],,[],,False,False,,1
-aral1243-1-30-1,,aral1243-1,30,tallumpulo,tallumpulo,[],,[],,False,False,,1
-aral1243-1-40-1,,aral1243-1,40,uhpaʔpulo,uhpaʔpulo,[],,[],,False,False,,1
-aral1243-1-50-1,,aral1243-1,50,limampulo,limampulo,[],,[],,False,False,,1
-aral1243-1-60-1,,aral1243-1,60,unnumpulo,unnumpulo,[],,[],,False,False,,1
-aral1243-1-70-1,,aral1243-1,70,pitumpulo,pitumpulo,[],,[],,False,False,,1
-aral1243-1-80-1,,aral1243-1,80,kahua pulona,kahua pulona,[],,[],,False,False,,1
-aral1243-1-90-1,,aral1243-1,90,kamehsa pulona,kamehsa pulona,[],,[],,False,False,,1
-aral1243-1-100-1,,aral1243-1,100,saŋŋatu,saŋŋatu,[],,[],,False,False,,1
-aral1243-1-200-1,,aral1243-1,200,doŋŋatuʔ,doŋŋatuʔ,[],,[],,False,False,,1
-aral1243-1-1000-1,,aral1243-1,1000,sansaʔbu,sansaʔbu,[],,[],,False,False,,1
-aral1243-1-2000-1,,aral1243-1,2000,donsaʔbu,donsaʔbu,[],,[],,False,False,,1
+aral1243-1-1-1,,aral1243-1,1,mesa,mesa,[],,['chan2019'],,False,False,,1
+aral1243-1-2-1,,aral1243-1,2,derua,derua,[],,['chan2019'],,False,False,,1
+aral1243-1-3-1,,aral1243-1,3,tallu,tallu,[],,['chan2019'],,False,False,,1
+aral1243-1-4-1,,aral1243-1,4,uhpaʔ,uhpaʔ,[],,['chan2019'],,False,False,,1
+aral1243-1-5-1,,aral1243-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+aral1243-1-6-1,,aral1243-1,6,unnuŋ,unnuŋ,[],,['chan2019'],,False,False,,1
+aral1243-1-7-1,,aral1243-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+aral1243-1-8-1,,aral1243-1,8,kahua,kahua,[],(10 - 2 ),['chan2019'],,False,False,,1
+aral1243-1-9-1,,aral1243-1,9,kamehsa,kamehsa,[],(10 - 1),['chan2019'],,False,False,,1
+aral1243-1-10-1,,aral1243-1,10,sampulo,sampulo,[],,['chan2019'],,False,False,,1
+aral1243-1-11-1,,aral1243-1,11,sampulo mesa,sampulo mesa,[],,['chan2019'],,False,False,,1
+aral1243-1-12-1,,aral1243-1,12,sampulo derua,sampulo derua,[],,['chan2019'],,False,False,,1
+aral1243-1-13-1,,aral1243-1,13,sampulo tallu,sampulo tallu,[],,['chan2019'],,False,False,,1
+aral1243-1-14-1,,aral1243-1,14,sampulo uhpaʔ,sampulo uhpaʔ,[],,['chan2019'],,False,False,,1
+aral1243-1-15-1,,aral1243-1,15,sampulo lima,sampulo lima,[],,['chan2019'],,False,False,,1
+aral1243-1-16-1,,aral1243-1,16,sampulo unnuŋ,sampulo unnuŋ,[],,['chan2019'],,False,False,,1
+aral1243-1-17-1,,aral1243-1,17,sampulo pitu,sampulo pitu,[],,['chan2019'],,False,False,,1
+aral1243-1-18-1,,aral1243-1,18,sampulo kahua,sampulo kahua,[],,['chan2019'],,False,False,,1
+aral1243-1-19-1,,aral1243-1,19,sampulo kamehsa,sampulo kamehsa,[],,['chan2019'],,False,False,,1
+aral1243-1-20-1,,aral1243-1,20,dompulo,dompulo,[],,['chan2019'],,False,False,,1
+aral1243-1-21-1,,aral1243-1,21,dompulomesa,dompulomesa,[],,['chan2019'],,False,False,,1
+aral1243-1-22-1,,aral1243-1,22,dompulo derua,dompulo derua,[],,['chan2019'],,False,False,,1
+aral1243-1-23-1,,aral1243-1,23,dompulo tallu,dompulo tallu,[],,['chan2019'],,False,False,,1
+aral1243-1-24-1,,aral1243-1,24,dompulo uhpaʔ,dompulo uhpaʔ,[],,['chan2019'],,False,False,,1
+aral1243-1-25-1,,aral1243-1,25,dompulo lima,dompulo lima,[],,['chan2019'],,False,False,,1
+aral1243-1-26-1,,aral1243-1,26,dompulo unuŋ,dompulo unuŋ,[],,['chan2019'],,False,False,,1
+aral1243-1-27-1,,aral1243-1,27,dompulo pitu,dompulo pitu,[],,['chan2019'],,False,False,,1
+aral1243-1-28-1,,aral1243-1,28,dompulo kahua,dompulo kahua,[],,['chan2019'],,False,False,,1
+aral1243-1-29-1,,aral1243-1,29,dompulo kamehsa,dompulo kamehsa,[],,['chan2019'],,False,False,,1
+aral1243-1-30-1,,aral1243-1,30,tallumpulo,tallumpulo,[],,['chan2019'],,False,False,,1
+aral1243-1-40-1,,aral1243-1,40,uhpaʔpulo,uhpaʔpulo,[],,['chan2019'],,False,False,,1
+aral1243-1-50-1,,aral1243-1,50,limampulo,limampulo,[],,['chan2019'],,False,False,,1
+aral1243-1-60-1,,aral1243-1,60,unnumpulo,unnumpulo,[],,['chan2019'],,False,False,,1
+aral1243-1-70-1,,aral1243-1,70,pitumpulo,pitumpulo,[],,['chan2019'],,False,False,,1
+aral1243-1-80-1,,aral1243-1,80,kahua pulona,kahua pulona,[],,['chan2019'],,False,False,,1
+aral1243-1-90-1,,aral1243-1,90,kamehsa pulona,kamehsa pulona,[],,['chan2019'],,False,False,,1
+aral1243-1-100-1,,aral1243-1,100,saŋŋatu,saŋŋatu,[],,['chan2019'],,False,False,,1
+aral1243-1-200-1,,aral1243-1,200,doŋŋatuʔ,doŋŋatuʔ,[],,['chan2019'],,False,False,,1
+aral1243-1-1000-1,,aral1243-1,1000,sansaʔbu,sansaʔbu,[],,['chan2019'],,False,False,,1
+aral1243-1-2000-1,,aral1243-1,2000,donsaʔbu,donsaʔbu,[],,['chan2019'],,False,False,,1

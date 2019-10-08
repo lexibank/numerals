@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kemt1242-1-1-1,,kemt1242-1,1,klayn,klayn,[],,[],,False,False,,1
-kemt1242-1-2-1,,kemt1242-1,2,namon,namon,[],,[],,False,False,,1
-kemt1242-1-3-1,,kemt1242-1,3,naŋɡlik,naŋɡlik,[],,[],,False,False,,1
-kemt1242-1-4-1,,kemt1242-1,4,namon-namon,namon-namon,[],"(litː '' two twos,  2 + 2 '' )",[],,False,False,,1
-kemt1242-1-5-1,,kemt1242-1,5,ta idi,ta idi,[],(litː '' one hand complete'' ) ?,[],,False,False,,1
-kemt1242-1-6-1,,kemt1242-1,6,ta idi so klayn,ta idi so klayn,[],,[],,False,False,,1
-kemt1242-1-7-1,,kemt1242-1,7,ta idi so namon,ta idi so namon,[],,[],,False,False,,1
-kemt1242-1-8-1,,kemt1242-1,8,ta idi so naŋɡlik,ta idi so naŋɡlik,[],,[],,False,False,,1
-kemt1242-1-9-1,,kemt1242-1,9,ta idi so namon-namon,ta idi so namon-namon,[],,[],,False,False,,1
-kemt1242-1-10-1,,kemt1242-1,10,ta namon,ta namon,[],,[],,False,False,,1
+kemt1242-1-1-1,,kemt1242-1,1,klayn,klayn,[],,['chan2019'],,False,False,,1
+kemt1242-1-2-1,,kemt1242-1,2,namon,namon,[],,['chan2019'],,False,False,,1
+kemt1242-1-3-1,,kemt1242-1,3,naŋɡlik,naŋɡlik,[],,['chan2019'],,False,False,,1
+kemt1242-1-4-1,,kemt1242-1,4,namon-namon,namon-namon,[],"(litː '' two twos,  2 + 2 '' )",['chan2019'],,False,False,,1
+kemt1242-1-5-1,,kemt1242-1,5,ta idi,ta idi,[],(litː '' one hand complete'' ) ?,['chan2019'],,False,False,,1
+kemt1242-1-6-1,,kemt1242-1,6,ta idi so klayn,ta idi so klayn,[],,['chan2019'],,False,False,,1
+kemt1242-1-7-1,,kemt1242-1,7,ta idi so namon,ta idi so namon,[],,['chan2019'],,False,False,,1
+kemt1242-1-8-1,,kemt1242-1,8,ta idi so naŋɡlik,ta idi so naŋɡlik,[],,['chan2019'],,False,False,,1
+kemt1242-1-9-1,,kemt1242-1,9,ta idi so namon-namon,ta idi so namon-namon,[],,['chan2019'],,False,False,,1
+kemt1242-1-10-1,,kemt1242-1,10,ta namon,ta namon,[],,['chan2019'],,False,False,,1

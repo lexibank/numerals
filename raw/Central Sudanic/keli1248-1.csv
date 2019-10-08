@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-keli1248-1-1-1,,keli1248-1,1,àlō,àlō,[],,[],,False,False,,1
-keli1248-1-2-1,,keli1248-1,2,ìrì,ìrì,[],,[],,False,False,,1
-keli1248-1-3-1,,keli1248-1,3,nā,nā,[],,[],,False,False,,1
-keli1248-1-4-1,,keli1248-1,4,sū,sū,[],,[],,False,False,,1
-keli1248-1-5-1,,keli1248-1,5,tàu,tàu,[],,[],,False,False,,1
-keli1248-1-6-1,,keli1248-1,6,ázyá,ázyá,[],,[],,False,False,,1
-keli1248-1-7-1,,keli1248-1,7,ázîrí,ázîrí,[],,[],,False,False,,1
-keli1248-1-8-1,,keli1248-1,8,àrò,àrò,[],,[],,False,False,,1
-keli1248-1-9-1,,keli1248-1,9,órōmè,órōmè,[],,[],,False,False,,1
-keli1248-1-10-1,,keli1248-1,10,mūdrí,mūdrí,[],( hands joined ),[],,False,False,,1
-keli1248-1-11-1,,keli1248-1,11,mūdri drǐfà àlō,mūdri drǐfà àlō,[],,[],,False,False,,1
-keli1248-1-12-1,,keli1248-1,12,mūdri drǐfà ìrì,mūdri drǐfà ìrì,[],,[],,False,False,,1
-keli1248-1-13-1,,keli1248-1,13,mūdri drǐfà nā,mūdri drǐfà nā,[],,[],,False,False,,1
-keli1248-1-14-1,,keli1248-1,14,mūdri drǐfà sū,mūdri drǐfà sū,[],,[],,False,False,,1
-keli1248-1-15-1,,keli1248-1,15,mūdri drǐfà tàu,mūdri drǐfà tàu,[],,[],,False,False,,1
-keli1248-1-16-1,,keli1248-1,16,mūdri drǐfà ázyá,mūdri drǐfà ázyá,[],,[],,False,False,,1
-keli1248-1-17-1,,keli1248-1,17,mūdri drǐfà ázîrí,mūdri drǐfà ázîrí,[],,[],,False,False,,1
-keli1248-1-18-1,,keli1248-1,18,mūdri drǐfà àrò,mūdri drǐfà àrò,[],,[],,False,False,,1
-keli1248-1-19-1,,keli1248-1,19,mūdri drǐfà órōmè,mūdri drǐfà órōmè,[],,[],,False,False,,1
-keli1248-1-20-1,,keli1248-1,20,kàlîrì,kàlîrì,[],( litː ' stick 2' ),[],,False,False,,1
-keli1248-1-21-1,,keli1248-1,21,kàlîrì drǐfa àlō,kàlîrì drǐfa àlō,[],,[],,False,False,,1
-keli1248-1-22-1,,keli1248-1,22,kàlîrì drǐfa ìrì,kàlîrì drǐfa ìrì,[],,[],,False,False,,1
-keli1248-1-23-1,,keli1248-1,23,kàlîrì drǐfa nā,kàlîrì drǐfa nā,[],,[],,False,False,,1
-keli1248-1-24-1,,keli1248-1,24,kàlîrì drǐfa sū,kàlîrì drǐfa sū,[],,[],,False,False,,1
-keli1248-1-25-1,,keli1248-1,25,kàlîrì drǐfa tàu,kàlîrì drǐfa tàu,[],,[],,False,False,,1
-keli1248-1-26-1,,keli1248-1,26,kàlîrì drǐfa ázyá,kàlîrì drǐfa ázyá,[],,[],,False,False,,1
-keli1248-1-27-1,,keli1248-1,27,kàlîrì drǐfa ázîrí,kàlîrì drǐfa ázîrí,[],,[],,False,False,,1
-keli1248-1-28-1,,keli1248-1,28,kàlîrì drǐfa àrò,kàlîrì drǐfa àrò,[],,[],,False,False,,1
-keli1248-1-29-1,,keli1248-1,29,kàlîrì drǐfa órōmè,kàlîrì drǐfa órōmè,[],,[],,False,False,,1
-keli1248-1-30-1,,keli1248-1,30,kàlînā,kàlînā,[],,[],,False,False,,1
-keli1248-1-40-1,,keli1248-1,40,kàlîsū,kàlîsū,[],,[],,False,False,,1
-keli1248-1-50-1,,keli1248-1,50,kàlîtàu,kàlîtàu,[],,[],,False,False,,1
-keli1248-1-60-1,,keli1248-1,60,kàlîázyá,kàlîázyá,[],,[],,False,False,,1
-keli1248-1-70-1,,keli1248-1,70,kàlîázîrí,kàlîázîrí,[],,[],,False,False,,1
-keli1248-1-80-1,,keli1248-1,80,kàlîàrò,kàlîàrò,[],,[],,False,False,,1
-keli1248-1-90-1,,keli1248-1,90,kàlîórōmè,kàlîórōmè,[],,[],,False,False,,1
-keli1248-1-100-1,,keli1248-1,100,kàlîmūdrí,kàlîmūdrí,[],,[],,False,False,,1
-keli1248-1-200-1,,keli1248-1,200,kama-ìrì,kama-ìrì,[],( 'kama' < Lingala),[],,True,False,,1
+keli1248-1-1-1,,keli1248-1,1,àlō,àlō,[],,['chan2019'],,False,False,,1
+keli1248-1-2-1,,keli1248-1,2,ìrì,ìrì,[],,['chan2019'],,False,False,,1
+keli1248-1-3-1,,keli1248-1,3,nā,nā,[],,['chan2019'],,False,False,,1
+keli1248-1-4-1,,keli1248-1,4,sū,sū,[],,['chan2019'],,False,False,,1
+keli1248-1-5-1,,keli1248-1,5,tàu,tàu,[],,['chan2019'],,False,False,,1
+keli1248-1-6-1,,keli1248-1,6,ázyá,ázyá,[],,['chan2019'],,False,False,,1
+keli1248-1-7-1,,keli1248-1,7,ázîrí,ázîrí,[],,['chan2019'],,False,False,,1
+keli1248-1-8-1,,keli1248-1,8,àrò,àrò,[],,['chan2019'],,False,False,,1
+keli1248-1-9-1,,keli1248-1,9,órōmè,órōmè,[],,['chan2019'],,False,False,,1
+keli1248-1-10-1,,keli1248-1,10,mūdrí,mūdrí,[],( hands joined ),['chan2019'],,False,False,,1
+keli1248-1-11-1,,keli1248-1,11,mūdri drǐfà àlō,mūdri drǐfà àlō,[],,['chan2019'],,False,False,,1
+keli1248-1-12-1,,keli1248-1,12,mūdri drǐfà ìrì,mūdri drǐfà ìrì,[],,['chan2019'],,False,False,,1
+keli1248-1-13-1,,keli1248-1,13,mūdri drǐfà nā,mūdri drǐfà nā,[],,['chan2019'],,False,False,,1
+keli1248-1-14-1,,keli1248-1,14,mūdri drǐfà sū,mūdri drǐfà sū,[],,['chan2019'],,False,False,,1
+keli1248-1-15-1,,keli1248-1,15,mūdri drǐfà tàu,mūdri drǐfà tàu,[],,['chan2019'],,False,False,,1
+keli1248-1-16-1,,keli1248-1,16,mūdri drǐfà ázyá,mūdri drǐfà ázyá,[],,['chan2019'],,False,False,,1
+keli1248-1-17-1,,keli1248-1,17,mūdri drǐfà ázîrí,mūdri drǐfà ázîrí,[],,['chan2019'],,False,False,,1
+keli1248-1-18-1,,keli1248-1,18,mūdri drǐfà àrò,mūdri drǐfà àrò,[],,['chan2019'],,False,False,,1
+keli1248-1-19-1,,keli1248-1,19,mūdri drǐfà órōmè,mūdri drǐfà órōmè,[],,['chan2019'],,False,False,,1
+keli1248-1-20-1,,keli1248-1,20,kàlîrì,kàlîrì,[],( litː ' stick 2' ),['chan2019'],,False,False,,1
+keli1248-1-21-1,,keli1248-1,21,kàlîrì drǐfa àlō,kàlîrì drǐfa àlō,[],,['chan2019'],,False,False,,1
+keli1248-1-22-1,,keli1248-1,22,kàlîrì drǐfa ìrì,kàlîrì drǐfa ìrì,[],,['chan2019'],,False,False,,1
+keli1248-1-23-1,,keli1248-1,23,kàlîrì drǐfa nā,kàlîrì drǐfa nā,[],,['chan2019'],,False,False,,1
+keli1248-1-24-1,,keli1248-1,24,kàlîrì drǐfa sū,kàlîrì drǐfa sū,[],,['chan2019'],,False,False,,1
+keli1248-1-25-1,,keli1248-1,25,kàlîrì drǐfa tàu,kàlîrì drǐfa tàu,[],,['chan2019'],,False,False,,1
+keli1248-1-26-1,,keli1248-1,26,kàlîrì drǐfa ázyá,kàlîrì drǐfa ázyá,[],,['chan2019'],,False,False,,1
+keli1248-1-27-1,,keli1248-1,27,kàlîrì drǐfa ázîrí,kàlîrì drǐfa ázîrí,[],,['chan2019'],,False,False,,1
+keli1248-1-28-1,,keli1248-1,28,kàlîrì drǐfa àrò,kàlîrì drǐfa àrò,[],,['chan2019'],,False,False,,1
+keli1248-1-29-1,,keli1248-1,29,kàlîrì drǐfa órōmè,kàlîrì drǐfa órōmè,[],,['chan2019'],,False,False,,1
+keli1248-1-30-1,,keli1248-1,30,kàlînā,kàlînā,[],,['chan2019'],,False,False,,1
+keli1248-1-40-1,,keli1248-1,40,kàlîsū,kàlîsū,[],,['chan2019'],,False,False,,1
+keli1248-1-50-1,,keli1248-1,50,kàlîtàu,kàlîtàu,[],,['chan2019'],,False,False,,1
+keli1248-1-60-1,,keli1248-1,60,kàlîázyá,kàlîázyá,[],,['chan2019'],,False,False,,1
+keli1248-1-70-1,,keli1248-1,70,kàlîázîrí,kàlîázîrí,[],,['chan2019'],,False,False,,1
+keli1248-1-80-1,,keli1248-1,80,kàlîàrò,kàlîàrò,[],,['chan2019'],,False,False,,1
+keli1248-1-90-1,,keli1248-1,90,kàlîórōmè,kàlîórōmè,[],,['chan2019'],,False,False,,1
+keli1248-1-100-1,,keli1248-1,100,kàlîmūdrí,kàlîmūdrí,[],,['chan2019'],,False,False,,1
+keli1248-1-200-1,,keli1248-1,200,kama-ìrì,kama-ìrì,[],( 'kama' < Lingala),['chan2019'],,True,False,,1

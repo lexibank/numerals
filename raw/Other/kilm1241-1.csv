@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kilm1241-1-1-1,,kilm1241-1,1,klokni,klokni,[],,[],,False,False,,1
-kilm1241-1-2-1,,kilm1241-1,2,dupua,dupua,[],,[],,False,False,,1
-kilm1241-1-3-1,,kilm1241-1,3,ro-dupua ro-kini,ro-dupua ro-kini,[],,[],,False,False,,1
-kilm1241-1-4-1,,kilm1241-1,4,ro-dupua ro-dupua,ro-dupua ro-dupua,[],,[],,False,False,,1
-kilm1241-1-5-1,,kilm1241-1,5,an baka,an baka,[],(litː ''hand half'' ),[],,False,False,,1
-kilm1241-1-6-1,,kilm1241-1,6,an baka klokni,an baka klokni,[],,[],,False,False,,1
-kilm1241-1-7-1,,kilm1241-1,7,an baka dupua,an baka dupua,[],,[],,False,False,,1
-kilm1241-1-8-1,,kilm1241-1,8,an baka rondupua rokini,an baka rondupua rokini,[],,[],,False,False,,1
-kilm1241-1-9-1,,kilm1241-1,9,an baka rondupua rondupua,an baka rondupua rondupua,[],,[],,False,False,,1
-kilm1241-1-10-1,,kilm1241-1,10,an kiniyo,an kiniyo,[],(litː ''hand all''),[],,False,False,,1
-kilm1241-1-20-1,,kilm1241-1,20,an dupua dor dupua,an dupua dor dupua,[],,[],,False,False,,1
-kilm1241-1-30-1,,kilm1241-1,30,one klokni an dupua,one klokni an dupua,[],,[],,False,False,,1
-kilm1241-1-40-1,,kilm1241-1,40,ono dupua,ono dupua,[],(litː ''man two''),[],,False,False,,1
-kilm1241-1-50-1,,kilm1241-1,50,ono dupua an-kiniyo,ono dupua an-kiniyo,[],,[],,False,False,,1
-kilm1241-1-60-1,,kilm1241-1,60,ono rondupua-rokini,ono rondupua-rokini,[],,[],,False,False,,1
-kilm1241-1-70-1,,kilm1241-1,70,ono rondupua-rokini an-kinyo,ono rondupua-rokini an-kinyo,[],,[],,False,False,,1
-kilm1241-1-80-1,,kilm1241-1,80,ono rondupua-rondupua,ono rondupua-rondupua,[],,[],,False,False,,1
-kilm1241-1-90-1,,kilm1241-1,90,ono rondupua-rondupua an-kinyo,ono rondupua-rondupua an-kinyo,[],,[],,False,False,,1
-kilm1241-1-100-1,,kilm1241-1,100,suo pele klokni,suo pele klokni,[],,[],,False,False,,1
-kilm1241-1-1000-1,,kilm1241-1,1000,suo pele kiniyo,suo pele kiniyo,[],,[],,False,False,,1
+kilm1241-1-1-1,,kilm1241-1,1,klokni,klokni,[],,['chan2019'],,False,False,,1
+kilm1241-1-2-1,,kilm1241-1,2,dupua,dupua,[],,['chan2019'],,False,False,,1
+kilm1241-1-3-1,,kilm1241-1,3,ro-dupua ro-kini,ro-dupua ro-kini,[],,['chan2019'],,False,False,,1
+kilm1241-1-4-1,,kilm1241-1,4,ro-dupua ro-dupua,ro-dupua ro-dupua,[],,['chan2019'],,False,False,,1
+kilm1241-1-5-1,,kilm1241-1,5,an baka,an baka,[],(litː ''hand half'' ),['chan2019'],,False,False,,1
+kilm1241-1-6-1,,kilm1241-1,6,an baka klokni,an baka klokni,[],,['chan2019'],,False,False,,1
+kilm1241-1-7-1,,kilm1241-1,7,an baka dupua,an baka dupua,[],,['chan2019'],,False,False,,1
+kilm1241-1-8-1,,kilm1241-1,8,an baka rondupua rokini,an baka rondupua rokini,[],,['chan2019'],,False,False,,1
+kilm1241-1-9-1,,kilm1241-1,9,an baka rondupua rondupua,an baka rondupua rondupua,[],,['chan2019'],,False,False,,1
+kilm1241-1-10-1,,kilm1241-1,10,an kiniyo,an kiniyo,[],(litː ''hand all''),['chan2019'],,False,False,,1
+kilm1241-1-20-1,,kilm1241-1,20,an dupua dor dupua,an dupua dor dupua,[],,['chan2019'],,False,False,,1
+kilm1241-1-30-1,,kilm1241-1,30,one klokni an dupua,one klokni an dupua,[],,['chan2019'],,False,False,,1
+kilm1241-1-40-1,,kilm1241-1,40,ono dupua,ono dupua,[],(litː ''man two''),['chan2019'],,False,False,,1
+kilm1241-1-50-1,,kilm1241-1,50,ono dupua an-kiniyo,ono dupua an-kiniyo,[],,['chan2019'],,False,False,,1
+kilm1241-1-60-1,,kilm1241-1,60,ono rondupua-rokini,ono rondupua-rokini,[],,['chan2019'],,False,False,,1
+kilm1241-1-70-1,,kilm1241-1,70,ono rondupua-rokini an-kinyo,ono rondupua-rokini an-kinyo,[],,['chan2019'],,False,False,,1
+kilm1241-1-80-1,,kilm1241-1,80,ono rondupua-rondupua,ono rondupua-rondupua,[],,['chan2019'],,False,False,,1
+kilm1241-1-90-1,,kilm1241-1,90,ono rondupua-rondupua an-kinyo,ono rondupua-rondupua an-kinyo,[],,['chan2019'],,False,False,,1
+kilm1241-1-100-1,,kilm1241-1,100,suo pele klokni,suo pele klokni,[],,['chan2019'],,False,False,,1
+kilm1241-1-1000-1,,kilm1241-1,1000,suo pele kiniyo,suo pele kiniyo,[],,['chan2019'],,False,False,,1

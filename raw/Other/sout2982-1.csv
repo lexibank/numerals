@@ -1,29 +1,29 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sout2982-1-1-1,,sout2982-1,1,čʼaːki,čʼaːki,[],,[],,False,False,,1
-sout2982-1-2-1,,sout2982-1,2,kʰoʔókai,kʰoʔókai,[],,[],,False,False,,1
-sout2982-1-3-1,,sout2982-1,3,kʰúʔočʼahkaː,kʰúʔočʼahkaː,[],,[],,False,False,,1
-sout2982-1-4-1,,sout2982-1,4,kʰalkʰóːt̪on,kʰalkʰóːt̪on,[],,[],,False,False,,1
-sout2982-1-5-1,,sout2982-1,5,čʼáwšon,čʼáwšon,[],,[],,False,False,,1
-sout2982-1-6-1,,sout2982-1,6,čʼadéːyen,čʼadéːyen,[],,[],,False,False,,1
-sout2982-1-7-1,,sout2982-1,7,čumalan,čumalan,[],,[],,False,False,,1
-sout2982-1-8-1,,sout2982-1,8,šeʔƛ͗áwi,šeʔƛ͗áwi,[],,[],,False,False,,1
-sout2982-1-9-1,,sout2982-1,9,šeʔƛ͗áwičʼáː,šeʔƛ͗áwičʼáː,[],( 8 + 1 ),[],,False,False,,1
-sout2982-1-10-1,,sout2982-1,10,mahkʰát̩ʰan,mahkʰát̩ʰan,[],,[],,False,False,,1
-sout2982-1-11-1,,sout2982-1,11,mahkʰát̩(ʰ) čʼáː,mahkʰát̩(ʰ) čʼáː,[],,[],,False,False,,1
-sout2982-1-12-1,,sout2982-1,12,mahkʰát̩(ʰ) kʰoʔón,mahkʰát̩(ʰ) kʰoʔón,[],,[],,False,False,,1
-sout2982-1-13-1,,sout2982-1,13,mahkʰát̩(ʰ) kʰúʔočʼán,mahkʰát̩(ʰ) kʰúʔočʼán,[],,[],,False,False,,1
-sout2982-1-14-1,,sout2982-1,14,mahkʰát̩(ʰ) kʰalkʰóːt̪on,mahkʰát̩(ʰ) kʰalkʰóːt̪on,[],,[],,False,False,,1
-sout2982-1-15-1,,sout2982-1,15,mahkʰát̩(ʰ) čʼáwšon,mahkʰát̩(ʰ) čʼáwšon,[],,[],,False,False,,1
-sout2982-1-16-1,,sout2982-1,16,mahkʰát̩(ʰ) čʼadéːyen,mahkʰát̩(ʰ) čʼadéːyen,[],,[],,False,False,,1
-sout2982-1-17-1,,sout2982-1,17,mahkʰát̩(ʰ) čumalan,mahkʰát̩(ʰ) čumalan,[],,[],,False,False,,1
-sout2982-1-18-1,,sout2982-1,18,mahkʰát̩(ʰ) šeʔƛ͗áwi,mahkʰát̩(ʰ) šeʔƛ͗áwi,[],,[],,False,False,,1
-sout2982-1-19-1,,sout2982-1,19,mahkʰát̩(ʰ) šeʔƛ͗áwičʼáː,mahkʰát̩(ʰ) šeʔƛ͗áwičʼáː,[],,[],,False,False,,1
-sout2982-1-20-1,,sout2982-1,20,čʼakʰámat̯,čʼakʰámat̯,[],,[],,False,False,,1
-sout2982-1-40-1,,sout2982-1,40,kʰóːyi čʼakʰámat̯,kʰóːyi čʼakʰámat̯,[],( 2 x 20 ),[],,False,False,,1
-sout2982-1-60-1,,sout2982-1,60,kʰúʔčʼáyi čʼakʰámat̯,kʰúʔčʼáyi čʼakʰámat̯,[],( 3 x 20 ),[],,False,False,,1
-sout2982-1-80-1,,sout2982-1,80,kʰalkʰóːt̪ai čʼakʰámat̯,kʰalkʰóːt̪ai čʼakʰámat̯,[],( 4 x 20 ),[],,False,False,,1
-sout2982-1-100-1,,sout2982-1,100,čʼáwšon čʼakʰámat̯,čʼáwšon čʼakʰámat̯,[],( 5 x 20 ),[],,False,False,,1
-sout2982-1-120-1,,sout2982-1,120,čʼáwšon čʼadéːyen čʼakʰámat̯,čʼáwšon čʼadéːyen čʼakʰámat̯,[],,[],,False,False,,1
-sout2982-1-140-1,,sout2982-1,140,čʼakʰámat̯ čumalan,čʼakʰámat̯ čumalan,[],( 20 x 7 ),[],,False,False,,1
-sout2982-1-160-1,,sout2982-1,160,čʼakʰámat šeʔƛ͗áwi,čʼakʰámat šeʔƛ͗áwi,[],( 20 x 8 ),[],,False,False,,1
-sout2982-1-180-1,,sout2982-1,180,čʼakʰámat šeʔƛ͗áwičʼáː,čʼakʰámat šeʔƛ͗áwičʼáː,[],( 20 x 9 ),[],,False,False,,1
+sout2982-1-1-1,,sout2982-1,1,čʼaːki,čʼaːki,[],,['chan2019'],,False,False,,1
+sout2982-1-2-1,,sout2982-1,2,kʰoʔókai,kʰoʔókai,[],,['chan2019'],,False,False,,1
+sout2982-1-3-1,,sout2982-1,3,kʰúʔočʼahkaː,kʰúʔočʼahkaː,[],,['chan2019'],,False,False,,1
+sout2982-1-4-1,,sout2982-1,4,kʰalkʰóːt̪on,kʰalkʰóːt̪on,[],,['chan2019'],,False,False,,1
+sout2982-1-5-1,,sout2982-1,5,čʼáwšon,čʼáwšon,[],,['chan2019'],,False,False,,1
+sout2982-1-6-1,,sout2982-1,6,čʼadéːyen,čʼadéːyen,[],,['chan2019'],,False,False,,1
+sout2982-1-7-1,,sout2982-1,7,čumalan,čumalan,[],,['chan2019'],,False,False,,1
+sout2982-1-8-1,,sout2982-1,8,šeʔƛ͗áwi,šeʔƛ͗áwi,[],,['chan2019'],,False,False,,1
+sout2982-1-9-1,,sout2982-1,9,šeʔƛ͗áwičʼáː,šeʔƛ͗áwičʼáː,[],( 8 + 1 ),['chan2019'],,False,False,,1
+sout2982-1-10-1,,sout2982-1,10,mahkʰát̩ʰan,mahkʰát̩ʰan,[],,['chan2019'],,False,False,,1
+sout2982-1-11-1,,sout2982-1,11,mahkʰát̩(ʰ) čʼáː,mahkʰát̩(ʰ) čʼáː,[],,['chan2019'],,False,False,,1
+sout2982-1-12-1,,sout2982-1,12,mahkʰát̩(ʰ) kʰoʔón,mahkʰát̩(ʰ) kʰoʔón,[],,['chan2019'],,False,False,,1
+sout2982-1-13-1,,sout2982-1,13,mahkʰát̩(ʰ) kʰúʔočʼán,mahkʰát̩(ʰ) kʰúʔočʼán,[],,['chan2019'],,False,False,,1
+sout2982-1-14-1,,sout2982-1,14,mahkʰát̩(ʰ) kʰalkʰóːt̪on,mahkʰát̩(ʰ) kʰalkʰóːt̪on,[],,['chan2019'],,False,False,,1
+sout2982-1-15-1,,sout2982-1,15,mahkʰát̩(ʰ) čʼáwšon,mahkʰát̩(ʰ) čʼáwšon,[],,['chan2019'],,False,False,,1
+sout2982-1-16-1,,sout2982-1,16,mahkʰát̩(ʰ) čʼadéːyen,mahkʰát̩(ʰ) čʼadéːyen,[],,['chan2019'],,False,False,,1
+sout2982-1-17-1,,sout2982-1,17,mahkʰát̩(ʰ) čumalan,mahkʰát̩(ʰ) čumalan,[],,['chan2019'],,False,False,,1
+sout2982-1-18-1,,sout2982-1,18,mahkʰát̩(ʰ) šeʔƛ͗áwi,mahkʰát̩(ʰ) šeʔƛ͗áwi,[],,['chan2019'],,False,False,,1
+sout2982-1-19-1,,sout2982-1,19,mahkʰát̩(ʰ) šeʔƛ͗áwičʼáː,mahkʰát̩(ʰ) šeʔƛ͗áwičʼáː,[],,['chan2019'],,False,False,,1
+sout2982-1-20-1,,sout2982-1,20,čʼakʰámat̯,čʼakʰámat̯,[],,['chan2019'],,False,False,,1
+sout2982-1-40-1,,sout2982-1,40,kʰóːyi čʼakʰámat̯,kʰóːyi čʼakʰámat̯,[],( 2 x 20 ),['chan2019'],,False,False,,1
+sout2982-1-60-1,,sout2982-1,60,kʰúʔčʼáyi čʼakʰámat̯,kʰúʔčʼáyi čʼakʰámat̯,[],( 3 x 20 ),['chan2019'],,False,False,,1
+sout2982-1-80-1,,sout2982-1,80,kʰalkʰóːt̪ai čʼakʰámat̯,kʰalkʰóːt̪ai čʼakʰámat̯,[],( 4 x 20 ),['chan2019'],,False,False,,1
+sout2982-1-100-1,,sout2982-1,100,čʼáwšon čʼakʰámat̯,čʼáwšon čʼakʰámat̯,[],( 5 x 20 ),['chan2019'],,False,False,,1
+sout2982-1-120-1,,sout2982-1,120,čʼáwšon čʼadéːyen čʼakʰámat̯,čʼáwšon čʼadéːyen čʼakʰámat̯,[],,['chan2019'],,False,False,,1
+sout2982-1-140-1,,sout2982-1,140,čʼakʰámat̯ čumalan,čʼakʰámat̯ čumalan,[],( 20 x 7 ),['chan2019'],,False,False,,1
+sout2982-1-160-1,,sout2982-1,160,čʼakʰámat šeʔƛ͗áwi,čʼakʰámat šeʔƛ͗áwi,[],( 20 x 8 ),['chan2019'],,False,False,,1
+sout2982-1-180-1,,sout2982-1,180,čʼakʰámat šeʔƛ͗áwičʼáː,čʼakʰámat šeʔƛ͗áwičʼáː,[],( 20 x 9 ),['chan2019'],,False,False,,1

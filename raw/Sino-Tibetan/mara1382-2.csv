@@ -1,35 +1,35 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mara1382-2-1-1,,mara1382-2,1,-kʰa,-kʰa,[],,[],,False,False,,2
-mara1382-2-2-1,,mara1382-2,2,-nʌə˞,-nʌə˞,[],,[],,False,False,,2
-mara1382-2-3-1,,mara1382-2,3,-tʰou,-tʰou,[],,[],,False,False,,2
-mara1382-2-4-1,,mara1382-2,4,-pəli,-pəli,[],,[],,False,False,,2
-mara1382-2-5-1,,mara1382-2,5,-pəŋɔ,-pəŋɔ,[],,[],,False,False,,2
-mara1382-2-6-1,,mara1382-2,6,-cəru,-cəru,[],,[],,False,False,,2
-mara1382-2-7-1,,mara1382-2,7,-səri,-səri,[],,[],,False,False,,2
-mara1382-2-8-1,,mara1382-2,8,-cəri̯e,-cəri̯e,[],,[],,False,False,,2
-mara1382-2-9-1,,mara1382-2,9,-cəki,-cəki,[],,[],,False,False,,2
-mara1382-2-10-1,,mara1382-2,10,-hrɔ,-hrɔ,[],,[],,False,False,,2
-mara1382-2-11-1,,mara1382-2,11,-(hrɔ) hlei kʰa,-(hrɔ) hlei kʰa,[],,[],,False,False,,2
-mara1382-2-12-1,,mara1382-2,12,-(hrɔ) hlei nʌə˞,-(hrɔ) hlei nʌə˞,[],,[],,False,False,,2
-mara1382-2-13-1,,mara1382-2,13,-(hrɔ) hlei tʰou,-(hrɔ) hlei tʰou,[],,[],,False,False,,2
-mara1382-2-14-1,,mara1382-2,14,-(hrɔ) hlei pəli,-(hrɔ) hlei pəli,[],,[],,False,False,,2
-mara1382-2-15-1,,mara1382-2,15,-(hrɔ) hlei pəŋɔ,-(hrɔ) hlei pəŋɔ,[],,[],,False,False,,2
-mara1382-2-16-1,,mara1382-2,16,-(hrɔ) hlei cəru,-(hrɔ) hlei cəru,[],,[],,False,False,,2
-mara1382-2-17-1,,mara1382-2,17,-(hrɔ) hlei səri,-(hrɔ) hlei səri,[],,[],,False,False,,2
-mara1382-2-18-1,,mara1382-2,18,-(hrɔ) hlei cəri̯e,-(hrɔ) hlei cəri̯e,[],,[],,False,False,,2
-mara1382-2-19-1,,mara1382-2,19,-(hrɔ) hlei cəki,-(hrɔ) hlei cəki,[],,[],,False,False,,2
-mara1382-2-20-1,,mara1382-2,20,-ki,-ki,[],,[],,False,False,,2
-mara1382-2-20-2,,mara1382-2,20,sɜ nʌə˞,sɜ nʌə˞,[],,[],,False,False,,2
-mara1382-2-30-1,,mara1382-2,30,sɜ tʰou,sɜ tʰou,[],,[],,False,False,,2
-mara1382-2-40-1,,mara1382-2,40,sɜ pəli,sɜ pəli,[],,[],,False,False,,2
-mara1382-2-50-1,,mara1382-2,50,sɜ pəŋɔ,sɜ pəŋɔ,[],,[],,False,False,,2
-mara1382-2-60-1,,mara1382-2,60,sɜ cəru,sɜ cəru,[],,[],,False,False,,2
-mara1382-2-70-1,,mara1382-2,70,sɜ səri,sɜ səri,[],,[],,False,False,,2
-mara1382-2-80-1,,mara1382-2,80,sɜ cəri̯e,sɜ cəri̯e,[],,[],,False,False,,2
-mara1382-2-90-1,,mara1382-2,90,sɜ cəki,sɜ cəki,[],,[],,False,False,,2
-mara1382-2-100-1,,mara1382-2,100,za kʰa,za kʰa,[],,[],,False,False,,2
-mara1382-2-100-2,,mara1382-2,100,sɜ hrɔ,sɜ hrɔ,[],,[],,False,False,,2
-mara1382-2-200-1,,mara1382-2,200,za nʌə˞,za nʌə˞,[],,[],,False,False,,2
-mara1382-2-1000-1,,mara1382-2,1000,sâ kʰa,sâ kʰa,[],,[],,False,False,,2
-mara1382-2-1000-2,,mara1382-2,1000,za hrɔ,za hrɔ,[],,[],,False,False,,2
-mara1382-2-2000-1,,mara1382-2,2000,sâ nʌə˞,sâ nʌə˞,[],,[],,False,False,,2
+mara1382-2-1-1,,mara1382-2,1,-kʰa,-kʰa,[],,['chan2019'],,False,False,,2
+mara1382-2-2-1,,mara1382-2,2,-nʌə˞,-nʌə˞,[],,['chan2019'],,False,False,,2
+mara1382-2-3-1,,mara1382-2,3,-tʰou,-tʰou,[],,['chan2019'],,False,False,,2
+mara1382-2-4-1,,mara1382-2,4,-pəli,-pəli,[],,['chan2019'],,False,False,,2
+mara1382-2-5-1,,mara1382-2,5,-pəŋɔ,-pəŋɔ,[],,['chan2019'],,False,False,,2
+mara1382-2-6-1,,mara1382-2,6,-cəru,-cəru,[],,['chan2019'],,False,False,,2
+mara1382-2-7-1,,mara1382-2,7,-səri,-səri,[],,['chan2019'],,False,False,,2
+mara1382-2-8-1,,mara1382-2,8,-cəri̯e,-cəri̯e,[],,['chan2019'],,False,False,,2
+mara1382-2-9-1,,mara1382-2,9,-cəki,-cəki,[],,['chan2019'],,False,False,,2
+mara1382-2-10-1,,mara1382-2,10,-hrɔ,-hrɔ,[],,['chan2019'],,False,False,,2
+mara1382-2-11-1,,mara1382-2,11,-(hrɔ) hlei kʰa,-(hrɔ) hlei kʰa,[],,['chan2019'],,False,False,,2
+mara1382-2-12-1,,mara1382-2,12,-(hrɔ) hlei nʌə˞,-(hrɔ) hlei nʌə˞,[],,['chan2019'],,False,False,,2
+mara1382-2-13-1,,mara1382-2,13,-(hrɔ) hlei tʰou,-(hrɔ) hlei tʰou,[],,['chan2019'],,False,False,,2
+mara1382-2-14-1,,mara1382-2,14,-(hrɔ) hlei pəli,-(hrɔ) hlei pəli,[],,['chan2019'],,False,False,,2
+mara1382-2-15-1,,mara1382-2,15,-(hrɔ) hlei pəŋɔ,-(hrɔ) hlei pəŋɔ,[],,['chan2019'],,False,False,,2
+mara1382-2-16-1,,mara1382-2,16,-(hrɔ) hlei cəru,-(hrɔ) hlei cəru,[],,['chan2019'],,False,False,,2
+mara1382-2-17-1,,mara1382-2,17,-(hrɔ) hlei səri,-(hrɔ) hlei səri,[],,['chan2019'],,False,False,,2
+mara1382-2-18-1,,mara1382-2,18,-(hrɔ) hlei cəri̯e,-(hrɔ) hlei cəri̯e,[],,['chan2019'],,False,False,,2
+mara1382-2-19-1,,mara1382-2,19,-(hrɔ) hlei cəki,-(hrɔ) hlei cəki,[],,['chan2019'],,False,False,,2
+mara1382-2-20-1,,mara1382-2,20,-ki,-ki,[],,['chan2019'],,False,False,,2
+mara1382-2-20-2,,mara1382-2,20,sɜ nʌə˞,sɜ nʌə˞,[],,['chan2019'],,False,False,,2
+mara1382-2-30-1,,mara1382-2,30,sɜ tʰou,sɜ tʰou,[],,['chan2019'],,False,False,,2
+mara1382-2-40-1,,mara1382-2,40,sɜ pəli,sɜ pəli,[],,['chan2019'],,False,False,,2
+mara1382-2-50-1,,mara1382-2,50,sɜ pəŋɔ,sɜ pəŋɔ,[],,['chan2019'],,False,False,,2
+mara1382-2-60-1,,mara1382-2,60,sɜ cəru,sɜ cəru,[],,['chan2019'],,False,False,,2
+mara1382-2-70-1,,mara1382-2,70,sɜ səri,sɜ səri,[],,['chan2019'],,False,False,,2
+mara1382-2-80-1,,mara1382-2,80,sɜ cəri̯e,sɜ cəri̯e,[],,['chan2019'],,False,False,,2
+mara1382-2-90-1,,mara1382-2,90,sɜ cəki,sɜ cəki,[],,['chan2019'],,False,False,,2
+mara1382-2-100-1,,mara1382-2,100,za kʰa,za kʰa,[],,['chan2019'],,False,False,,2
+mara1382-2-100-2,,mara1382-2,100,sɜ hrɔ,sɜ hrɔ,[],,['chan2019'],,False,False,,2
+mara1382-2-200-1,,mara1382-2,200,za nʌə˞,za nʌə˞,[],,['chan2019'],,False,False,,2
+mara1382-2-1000-1,,mara1382-2,1000,sâ kʰa,sâ kʰa,[],,['chan2019'],,False,False,,2
+mara1382-2-1000-2,,mara1382-2,1000,za hrɔ,za hrɔ,[],,['chan2019'],,False,False,,2
+mara1382-2-2000-1,,mara1382-2,2000,sâ nʌə˞,sâ nʌə˞,[],,['chan2019'],,False,False,,2

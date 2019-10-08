@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-waig1244-1-1-1,,waig1244-1,1,kitém,kitém,[],,[],,False,False,,1
-waig1244-1-2-1,,waig1244-1,2,lów,lów,[],,[],,False,False,,1
-waig1244-1-3-1,,waig1244-1,3,túl,túl,[],,[],,False,False,,1
-waig1244-1-4-1,,waig1244-1,4,fát,fát,[],,[],,False,False,,1
-waig1244-1-5-1,,waig1244-1,5,lím,lím,[],,[],,False,False,,1
-waig1244-1-6-1,,waig1244-1,6,wanóm,wanóm,[],,[],,False,False,,1
-waig1244-1-7-1,,waig1244-1,7,fít,fít,[],,[],,False,False,,1
-waig1244-1-8-1,,waig1244-1,8,wál,wál,[],,[],,False,False,,1
-waig1244-1-9-1,,waig1244-1,9,síw,síw,[],,[],,False,False,,1
-waig1244-1-10-1,,waig1244-1,10,láfe,láfe,[],,[],,False,False,,1
-waig1244-1-11-1,,waig1244-1,11,lafe mai kitém,lafe mai kitém,[],,[],,False,False,,1
-waig1244-1-12-1,,waig1244-1,12,lafe mai lów,lafe mai lów,[],,[],,False,False,,1
-waig1244-1-13-1,,waig1244-1,13,lafe mai túl,lafe mai túl,[],,[],,False,False,,1
-waig1244-1-14-1,,waig1244-1,14,lafe mai fát,lafe mai fát,[],,[],,False,False,,1
-waig1244-1-15-1,,waig1244-1,15,lafe mai lím,lafe mai lím,[],,[],,False,False,,1
-waig1244-1-16-1,,waig1244-1,16,lafe mai wanóm,lafe mai wanóm,[],,[],,False,False,,1
-waig1244-1-17-1,,waig1244-1,17,lafe mai fít,lafe mai fít,[],,[],,False,False,,1
-waig1244-1-18-1,,waig1244-1,18,lafe mai wál,lafe mai wál,[],,[],,False,False,,1
-waig1244-1-19-1,,waig1244-1,19,lafe mai síw,lafe mai síw,[],,[],,False,False,,1
-waig1244-1-20-1,,waig1244-1,20,lafe lów,lafe lów,[],,[],,False,False,,1
-waig1244-1-21-1,,waig1244-1,21,lafe low mai kitém,lafe low mai kitém,[],,[],,False,False,,1
-waig1244-1-22-1,,waig1244-1,22,lafe low mai lów,lafe low mai lów,[],,[],,False,False,,1
-waig1244-1-23-1,,waig1244-1,23,lafe low mai túl,lafe low mai túl,[],,[],,False,False,,1
-waig1244-1-24-1,,waig1244-1,24,lafe low mai fát,lafe low mai fát,[],,[],,False,False,,1
-waig1244-1-25-1,,waig1244-1,25,lafe low mai lím,lafe low mai lím,[],,[],,False,False,,1
-waig1244-1-26-1,,waig1244-1,26,lafe low mai wanóm,lafe low mai wanóm,[],,[],,False,False,,1
-waig1244-1-27-1,,waig1244-1,27,lafe low mai fít,lafe low mai fít,[],,[],,False,False,,1
-waig1244-1-28-1,,waig1244-1,28,lafe low mai wál,lafe low mai wál,[],,[],,False,False,,1
-waig1244-1-29-1,,waig1244-1,29,lafe low mai síw,lafe low mai síw,[],,[],,False,False,,1
-waig1244-1-30-1,,waig1244-1,30,lafe túl,lafe túl,[],,[],,False,False,,1
-waig1244-1-40-1,,waig1244-1,40,lafe fát,lafe fát,[],,[],,False,False,,1
-waig1244-1-50-1,,waig1244-1,50,lafe lím,lafe lím,[],,[],,False,False,,1
-waig1244-1-60-1,,waig1244-1,60,lafe wanóm,lafe wanóm,[],,[],,False,False,,1
-waig1244-1-70-1,,waig1244-1,70,lafe fít,lafe fít,[],,[],,False,False,,1
-waig1244-1-80-1,,waig1244-1,80,lafe wál,lafe wál,[],,[],,False,False,,1
-waig1244-1-90-1,,waig1244-1,90,lafe síw,lafe síw,[],,[],,False,False,,1
-waig1244-1-100-1,,waig1244-1,100,útun,útun,[],,[],,False,False,,1
-waig1244-1-200-1,,waig1244-1,200,utun lów,utun lów,[],,[],,False,False,,1
-waig1244-1-1000-1,,waig1244-1,1000,tyalan,tyalan,[],,[],,False,False,,1
-waig1244-1-2000-1,,waig1244-1,2000,tyalan lów,tyalan lów,[],,[],,False,False,,1
-waig1244-1-2000-2,,waig1244-1,2000,1,1,[],,[],,False,True,,1
-waig1244-1-2000-3,,waig1244-1,2000,000,000,[],,[],,False,True,,1
-waig1244-1-2000-4,,waig1244-1,2000,000. teten,000. teten,[],,[],,False,True,,1
+waig1244-1-1-1,,waig1244-1,1,kitém,kitém,[],,['chan2019'],,False,False,,1
+waig1244-1-2-1,,waig1244-1,2,lów,lów,[],,['chan2019'],,False,False,,1
+waig1244-1-3-1,,waig1244-1,3,túl,túl,[],,['chan2019'],,False,False,,1
+waig1244-1-4-1,,waig1244-1,4,fát,fát,[],,['chan2019'],,False,False,,1
+waig1244-1-5-1,,waig1244-1,5,lím,lím,[],,['chan2019'],,False,False,,1
+waig1244-1-6-1,,waig1244-1,6,wanóm,wanóm,[],,['chan2019'],,False,False,,1
+waig1244-1-7-1,,waig1244-1,7,fít,fít,[],,['chan2019'],,False,False,,1
+waig1244-1-8-1,,waig1244-1,8,wál,wál,[],,['chan2019'],,False,False,,1
+waig1244-1-9-1,,waig1244-1,9,síw,síw,[],,['chan2019'],,False,False,,1
+waig1244-1-10-1,,waig1244-1,10,láfe,láfe,[],,['chan2019'],,False,False,,1
+waig1244-1-11-1,,waig1244-1,11,lafe mai kitém,lafe mai kitém,[],,['chan2019'],,False,False,,1
+waig1244-1-12-1,,waig1244-1,12,lafe mai lów,lafe mai lów,[],,['chan2019'],,False,False,,1
+waig1244-1-13-1,,waig1244-1,13,lafe mai túl,lafe mai túl,[],,['chan2019'],,False,False,,1
+waig1244-1-14-1,,waig1244-1,14,lafe mai fát,lafe mai fát,[],,['chan2019'],,False,False,,1
+waig1244-1-15-1,,waig1244-1,15,lafe mai lím,lafe mai lím,[],,['chan2019'],,False,False,,1
+waig1244-1-16-1,,waig1244-1,16,lafe mai wanóm,lafe mai wanóm,[],,['chan2019'],,False,False,,1
+waig1244-1-17-1,,waig1244-1,17,lafe mai fít,lafe mai fít,[],,['chan2019'],,False,False,,1
+waig1244-1-18-1,,waig1244-1,18,lafe mai wál,lafe mai wál,[],,['chan2019'],,False,False,,1
+waig1244-1-19-1,,waig1244-1,19,lafe mai síw,lafe mai síw,[],,['chan2019'],,False,False,,1
+waig1244-1-20-1,,waig1244-1,20,lafe lów,lafe lów,[],,['chan2019'],,False,False,,1
+waig1244-1-21-1,,waig1244-1,21,lafe low mai kitém,lafe low mai kitém,[],,['chan2019'],,False,False,,1
+waig1244-1-22-1,,waig1244-1,22,lafe low mai lów,lafe low mai lów,[],,['chan2019'],,False,False,,1
+waig1244-1-23-1,,waig1244-1,23,lafe low mai túl,lafe low mai túl,[],,['chan2019'],,False,False,,1
+waig1244-1-24-1,,waig1244-1,24,lafe low mai fát,lafe low mai fát,[],,['chan2019'],,False,False,,1
+waig1244-1-25-1,,waig1244-1,25,lafe low mai lím,lafe low mai lím,[],,['chan2019'],,False,False,,1
+waig1244-1-26-1,,waig1244-1,26,lafe low mai wanóm,lafe low mai wanóm,[],,['chan2019'],,False,False,,1
+waig1244-1-27-1,,waig1244-1,27,lafe low mai fít,lafe low mai fít,[],,['chan2019'],,False,False,,1
+waig1244-1-28-1,,waig1244-1,28,lafe low mai wál,lafe low mai wál,[],,['chan2019'],,False,False,,1
+waig1244-1-29-1,,waig1244-1,29,lafe low mai síw,lafe low mai síw,[],,['chan2019'],,False,False,,1
+waig1244-1-30-1,,waig1244-1,30,lafe túl,lafe túl,[],,['chan2019'],,False,False,,1
+waig1244-1-40-1,,waig1244-1,40,lafe fát,lafe fát,[],,['chan2019'],,False,False,,1
+waig1244-1-50-1,,waig1244-1,50,lafe lím,lafe lím,[],,['chan2019'],,False,False,,1
+waig1244-1-60-1,,waig1244-1,60,lafe wanóm,lafe wanóm,[],,['chan2019'],,False,False,,1
+waig1244-1-70-1,,waig1244-1,70,lafe fít,lafe fít,[],,['chan2019'],,False,False,,1
+waig1244-1-80-1,,waig1244-1,80,lafe wál,lafe wál,[],,['chan2019'],,False,False,,1
+waig1244-1-90-1,,waig1244-1,90,lafe síw,lafe síw,[],,['chan2019'],,False,False,,1
+waig1244-1-100-1,,waig1244-1,100,útun,útun,[],,['chan2019'],,False,False,,1
+waig1244-1-200-1,,waig1244-1,200,utun lów,utun lów,[],,['chan2019'],,False,False,,1
+waig1244-1-1000-1,,waig1244-1,1000,tyalan,tyalan,[],,['chan2019'],,False,False,,1
+waig1244-1-2000-1,,waig1244-1,2000,tyalan lów,tyalan lów,[],,['chan2019'],,False,False,,1
+waig1244-1-2000-2,,waig1244-1,2000,1,1,[],,['chan2019'],,False,True,,1
+waig1244-1-2000-3,,waig1244-1,2000,000,000,[],,['chan2019'],,False,True,,1
+waig1244-1-2000-4,,waig1244-1,2000,000. teten,000. teten,[],,['chan2019'],,False,True,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-samb1311-1-1-1,,samb1311-1,1,nò:ní,nò:ní,[],,[],,False,False,,1
-samb1311-1-2-1,,samb1311-1,2,bàːɾá,bàːɾá,[],,[],,False,False,,1
-samb1311-1-3-1,,samb1311-1,3,tàɾā,tàɾā,[],,[],,False,False,,1
-samb1311-1-4-1,,samb1311-1,4,nàːsá,nàːsá,[],,[],,False,False,,1
-samb1311-1-5-1,,samb1311-1,5,tûːnā,tûːnā,[],,[],,False,False,,1
-samb1311-1-6-1,,samb1311-1,6,tūnìn,tūnìn,[],,[],,False,False,,1
-samb1311-1-7-1,,samb1311-1,7,dùtím,dùtím,[],,[],,False,False,,1
-samb1311-1-8-1,,samb1311-1,8,dùtímkə́ɾə́ɾə́,dùtímkə́ɾə́ɾə́,[],( 7+ 1 ),[],,False,False,,1
-samb1311-1-9-1,,samb1311-1,9,kúmsìnkə́t͡sɔ̄,kúmsìnkə́t͡sɔ̄,[],,[],,False,False,,1
-samb1311-1-10-1,,samb1311-1,10,kúmkə́ɾə́ɾə́,kúmkə́ɾə́ɾə́,[],( 9+ 1 ),[],,False,False,,1
-samb1311-1-11-1,,samb1311-1,11,kúmbàːnò:ní,kúmbàːnò:ní,[],,[],,False,False,,1
-samb1311-1-12-1,,samb1311-1,12,kúmbàːbàːɾá,kúmbàːbàːɾá,[],,[],,False,False,,1
-samb1311-1-13-1,,samb1311-1,13,kúmbàːtàɾā,kúmbàːtàɾā,[],,[],,False,False,,1
-samb1311-1-14-1,,samb1311-1,14,kúmbàːnàːsá,kúmbàːnàːsá,[],,[],,False,False,,1
-samb1311-1-15-1,,samb1311-1,15,kúmbàːtûːnā,kúmbàːtûːnā,[],,[],,False,False,,1
-samb1311-1-16-1,,samb1311-1,16,kúmbàːtúnìn,kúmbàːtúnìn,[],,[],,False,False,,1
-samb1311-1-17-1,,samb1311-1,17,kúmbàːdùtím,kúmbàːdùtím,[],,[],,False,False,,1
-samb1311-1-18-1,,samb1311-1,18,kúmbàːdùtímkə́ɾə́ɾə́,kúmbàːdùtímkə́ɾə́ɾə́,[],,[],,False,False,,1
-samb1311-1-19-1,,samb1311-1,19,kúmbàːkúmsìnkə́t͡sɔ̄,kúmbàːkúmsìnkə́t͡sɔ̄,[],,[],,False,False,,1
-samb1311-1-20-1,,samb1311-1,20,mūmnòːní,mūmnòːní,[],,[],,False,False,,1
-samb1311-1-21-1,,samb1311-1,21,mūmnòːní-míːnò:ní,mūmnòːní-míːnò:ní,[],,[],,False,False,,1
-samb1311-1-22-1,,samb1311-1,22,mūmnòːní-mɛ́ːbàːɾá,mūmnòːní-mɛ́ːbàːɾá,[],,[],,False,False,,1
-samb1311-1-23-1,,samb1311-1,23,mūmnòːní-mɛ́ːtàɾā,mūmnòːní-mɛ́ːtàɾā,[],,[],,False,False,,1
-samb1311-1-24-1,,samb1311-1,24,mūmnòːní-mɛ́ːnàːsá,mūmnòːní-mɛ́ːnàːsá,[],,[],,False,False,,1
-samb1311-1-25-1,,samb1311-1,25,mūmnòːní-mɛ́ːtûːnā,mūmnòːní-mɛ́ːtûːnā,[],,[],,False,False,,1
-samb1311-1-26-1,,samb1311-1,26,mūmnòːní-mɛ́ːtúnìn,mūmnòːní-mɛ́ːtúnìn,[],,[],,False,False,,1
-samb1311-1-27-1,,samb1311-1,27,mūmnòːní-mɛ́ːdùtím,mūmnòːní-mɛ́ːdùtím,[],,[],,False,False,,1
-samb1311-1-28-1,,samb1311-1,28,mūmnòːní-mɛ́ːdùtímkə́ɾə́ɾə́,mūmnòːní-mɛ́ːdùtímkə́ɾə́ɾə́,[],,[],,False,False,,1
-samb1311-1-29-1,,samb1311-1,29,mūmnòːní-mɛ́ːkúmsìnkə́t͡sɔ̄,mūmnòːní-mɛ́ːkúmsìnkə́t͡sɔ̄,[],,[],,False,False,,1
-samb1311-1-30-1,,samb1311-1,30,mūmnòːní-mɛ́ːmkúmkə́ɾə́ɾə́,mūmnòːní-mɛ́ːmkúmkə́ɾə́ɾə́,[],,[],,False,False,,1
-samb1311-1-40-1,,samb1311-1,40,nōː bàːɾá,nōː bàːɾá,[],,[],,False,False,,1
-samb1311-1-50-1,,samb1311-1,50,nōː bàːɾá-mɛ́ːmkúmkə́ɾə́ɾə́,nōː bàːɾá-mɛ́ːmkúmkə́ɾə́ɾə́,[],( 20+ 10 ),[],,False,False,,1
-samb1311-1-60-1,,samb1311-1,60,nōː táɾá,nōː táɾá,[],( 20 x 3 ),[],,False,False,,1
-samb1311-1-70-1,,samb1311-1,70,nōː táɾá mɛ́ːmkúmkə́ɾə́ɾə́,nōː táɾá mɛ́ːmkúmkə́ɾə́ɾə́,[],( 20 x 3 + 10 ),[],,False,False,,1
-samb1311-1-80-1,,samb1311-1,80,nōː nàːsá,nōː nàːsá,[],( 20 x 4 ),[],,False,False,,1
-samb1311-1-90-1,,samb1311-1,90,nōː nàːsá mɛ́ːmkúmkə́ɾə́ɾə́,nōː nàːsá mɛ́ːmkúmkə́ɾə́ɾə́,[],,[],,False,False,,1
-samb1311-1-100-1,,samb1311-1,100,nōː tûːnā,nōː tûːnā,[],( 20 x 5 ),[],,False,False,,1
-samb1311-1-200-1,,samb1311-1,200,nōː tûnābùm-bàːɾá,nōː tûnābùm-bàːɾá,[],( 20 x 5  x 2 ),[],,False,False,,1
-samb1311-1-1000-1,,samb1311-1,1000,ɲàŋsáŋ-nò:ní,ɲàŋsáŋ-nò:ní,[],,[],,False,False,,1
-samb1311-1-2000-1,,samb1311-1,2000,ɲàŋsáŋ-bàːɾá,ɲàŋsáŋ-bàːɾá,[],,[],,False,False,,1
+samb1311-1-1-1,,samb1311-1,1,nò:ní,nò:ní,[],,['chan2019'],,False,False,,1
+samb1311-1-2-1,,samb1311-1,2,bàːɾá,bàːɾá,[],,['chan2019'],,False,False,,1
+samb1311-1-3-1,,samb1311-1,3,tàɾā,tàɾā,[],,['chan2019'],,False,False,,1
+samb1311-1-4-1,,samb1311-1,4,nàːsá,nàːsá,[],,['chan2019'],,False,False,,1
+samb1311-1-5-1,,samb1311-1,5,tûːnā,tûːnā,[],,['chan2019'],,False,False,,1
+samb1311-1-6-1,,samb1311-1,6,tūnìn,tūnìn,[],,['chan2019'],,False,False,,1
+samb1311-1-7-1,,samb1311-1,7,dùtím,dùtím,[],,['chan2019'],,False,False,,1
+samb1311-1-8-1,,samb1311-1,8,dùtímkə́ɾə́ɾə́,dùtímkə́ɾə́ɾə́,[],( 7+ 1 ),['chan2019'],,False,False,,1
+samb1311-1-9-1,,samb1311-1,9,kúmsìnkə́t͡sɔ̄,kúmsìnkə́t͡sɔ̄,[],,['chan2019'],,False,False,,1
+samb1311-1-10-1,,samb1311-1,10,kúmkə́ɾə́ɾə́,kúmkə́ɾə́ɾə́,[],( 9+ 1 ),['chan2019'],,False,False,,1
+samb1311-1-11-1,,samb1311-1,11,kúmbàːnò:ní,kúmbàːnò:ní,[],,['chan2019'],,False,False,,1
+samb1311-1-12-1,,samb1311-1,12,kúmbàːbàːɾá,kúmbàːbàːɾá,[],,['chan2019'],,False,False,,1
+samb1311-1-13-1,,samb1311-1,13,kúmbàːtàɾā,kúmbàːtàɾā,[],,['chan2019'],,False,False,,1
+samb1311-1-14-1,,samb1311-1,14,kúmbàːnàːsá,kúmbàːnàːsá,[],,['chan2019'],,False,False,,1
+samb1311-1-15-1,,samb1311-1,15,kúmbàːtûːnā,kúmbàːtûːnā,[],,['chan2019'],,False,False,,1
+samb1311-1-16-1,,samb1311-1,16,kúmbàːtúnìn,kúmbàːtúnìn,[],,['chan2019'],,False,False,,1
+samb1311-1-17-1,,samb1311-1,17,kúmbàːdùtím,kúmbàːdùtím,[],,['chan2019'],,False,False,,1
+samb1311-1-18-1,,samb1311-1,18,kúmbàːdùtímkə́ɾə́ɾə́,kúmbàːdùtímkə́ɾə́ɾə́,[],,['chan2019'],,False,False,,1
+samb1311-1-19-1,,samb1311-1,19,kúmbàːkúmsìnkə́t͡sɔ̄,kúmbàːkúmsìnkə́t͡sɔ̄,[],,['chan2019'],,False,False,,1
+samb1311-1-20-1,,samb1311-1,20,mūmnòːní,mūmnòːní,[],,['chan2019'],,False,False,,1
+samb1311-1-21-1,,samb1311-1,21,mūmnòːní-míːnò:ní,mūmnòːní-míːnò:ní,[],,['chan2019'],,False,False,,1
+samb1311-1-22-1,,samb1311-1,22,mūmnòːní-mɛ́ːbàːɾá,mūmnòːní-mɛ́ːbàːɾá,[],,['chan2019'],,False,False,,1
+samb1311-1-23-1,,samb1311-1,23,mūmnòːní-mɛ́ːtàɾā,mūmnòːní-mɛ́ːtàɾā,[],,['chan2019'],,False,False,,1
+samb1311-1-24-1,,samb1311-1,24,mūmnòːní-mɛ́ːnàːsá,mūmnòːní-mɛ́ːnàːsá,[],,['chan2019'],,False,False,,1
+samb1311-1-25-1,,samb1311-1,25,mūmnòːní-mɛ́ːtûːnā,mūmnòːní-mɛ́ːtûːnā,[],,['chan2019'],,False,False,,1
+samb1311-1-26-1,,samb1311-1,26,mūmnòːní-mɛ́ːtúnìn,mūmnòːní-mɛ́ːtúnìn,[],,['chan2019'],,False,False,,1
+samb1311-1-27-1,,samb1311-1,27,mūmnòːní-mɛ́ːdùtím,mūmnòːní-mɛ́ːdùtím,[],,['chan2019'],,False,False,,1
+samb1311-1-28-1,,samb1311-1,28,mūmnòːní-mɛ́ːdùtímkə́ɾə́ɾə́,mūmnòːní-mɛ́ːdùtímkə́ɾə́ɾə́,[],,['chan2019'],,False,False,,1
+samb1311-1-29-1,,samb1311-1,29,mūmnòːní-mɛ́ːkúmsìnkə́t͡sɔ̄,mūmnòːní-mɛ́ːkúmsìnkə́t͡sɔ̄,[],,['chan2019'],,False,False,,1
+samb1311-1-30-1,,samb1311-1,30,mūmnòːní-mɛ́ːmkúmkə́ɾə́ɾə́,mūmnòːní-mɛ́ːmkúmkə́ɾə́ɾə́,[],,['chan2019'],,False,False,,1
+samb1311-1-40-1,,samb1311-1,40,nōː bàːɾá,nōː bàːɾá,[],,['chan2019'],,False,False,,1
+samb1311-1-50-1,,samb1311-1,50,nōː bàːɾá-mɛ́ːmkúmkə́ɾə́ɾə́,nōː bàːɾá-mɛ́ːmkúmkə́ɾə́ɾə́,[],( 20+ 10 ),['chan2019'],,False,False,,1
+samb1311-1-60-1,,samb1311-1,60,nōː táɾá,nōː táɾá,[],( 20 x 3 ),['chan2019'],,False,False,,1
+samb1311-1-70-1,,samb1311-1,70,nōː táɾá mɛ́ːmkúmkə́ɾə́ɾə́,nōː táɾá mɛ́ːmkúmkə́ɾə́ɾə́,[],( 20 x 3 + 10 ),['chan2019'],,False,False,,1
+samb1311-1-80-1,,samb1311-1,80,nōː nàːsá,nōː nàːsá,[],( 20 x 4 ),['chan2019'],,False,False,,1
+samb1311-1-90-1,,samb1311-1,90,nōː nàːsá mɛ́ːmkúmkə́ɾə́ɾə́,nōː nàːsá mɛ́ːmkúmkə́ɾə́ɾə́,[],,['chan2019'],,False,False,,1
+samb1311-1-100-1,,samb1311-1,100,nōː tûːnā,nōː tûːnā,[],( 20 x 5 ),['chan2019'],,False,False,,1
+samb1311-1-200-1,,samb1311-1,200,nōː tûnābùm-bàːɾá,nōː tûnābùm-bàːɾá,[],( 20 x 5  x 2 ),['chan2019'],,False,False,,1
+samb1311-1-1000-1,,samb1311-1,1000,ɲàŋsáŋ-nò:ní,ɲàŋsáŋ-nò:ní,[],,['chan2019'],,False,False,,1
+samb1311-1-2000-1,,samb1311-1,2000,ɲàŋsáŋ-bàːɾá,ɲàŋsáŋ-bàːɾá,[],,['chan2019'],,False,False,,1

@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-waiw1244-1-1-1,,waiw1244-1,1,cewn̂e,cewn̂e,[],,[],,False,False,,1
-waiw1244-1-2-1,,waiw1244-1,2,asakɨ,asakɨ,[],(asakî mak 'just two' really means' a few'),[],,False,False,asakî,1
-waiw1244-1-3-1,,waiw1244-1,3,osorwaw,osorwaw,[],,[],,False,False,,1
+waiw1244-1-1-1,,waiw1244-1,1,cewn̂e,cewn̂e,[],,['chan2019'],,False,False,,1
+waiw1244-1-2-1,,waiw1244-1,2,asakɨ,asakɨ,[],(asakî mak 'just two' really means' a few'),['chan2019'],,False,False,asakî,1
+waiw1244-1-3-1,,waiw1244-1,3,osorwaw,osorwaw,[],,['chan2019'],,False,False,,1

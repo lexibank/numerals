@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yukp1241-2-1-1,,yukp1241-2,1,'tkuma,'tkuma,[],,[],,False,False,,2
-yukp1241-2-2-1,,yukp1241-2,2,'kosa,'kosa,[],,[],,False,False,,2
-yukp1241-2-3-1,,yukp1241-2,3,ko'seʈ͡ʂa,ko'seʈ͡ʂa,[],,[],,False,False,,2
-yukp1241-2-4-1,,yukp1241-2,4,'tpakjot͡ʃ tka,'tpakjot͡ʃ tka,[],,[],,False,False,,2
-yukp1241-2-5-1,,yukp1241-2,5,e'towet͡ʃko 'omapka tka,e'towet͡ʃko 'omapka tka,[],,[],,False,False,,2
-yukp1241-2-6-1,,yukp1241-2,6,'tkumaʂ jo'popaje,'tkumaʂ jo'popaje,[],,[],,False,False,,2
-yukp1241-2-7-1,,yukp1241-2,7,kosaʂ jo'popaje,kosaʂ jo'popaje,[],,[],,False,False,,2
-yukp1241-2-8-1,,yukp1241-2,8,ko'seʈ͡ʂa jo'popaje,ko'seʈ͡ʂa jo'popaje,[],,[],,False,False,,2
-yukp1241-2-9-1,,yukp1241-2,9,'tpakjot͡ʃ tka jo'popaje,'tpakjot͡ʃ tka jo'popaje,[],,[],,False,False,,2
-yukp1241-2-10-1,,yukp1241-2,10,'omapkatka,'omapkatka,[],,[],,False,False,,2
-yukp1241-2-11-1,,yukp1241-2,11,'sajmome,'sajmome,[],,[],,False,False,,2
-yukp1241-2-12-1,,yukp1241-2,12,'sajmome,'sajmome,[],,[],,False,False,,2
+yukp1241-2-1-1,,yukp1241-2,1,'tkuma,'tkuma,[],,['chan2019'],,False,False,,2
+yukp1241-2-2-1,,yukp1241-2,2,'kosa,'kosa,[],,['chan2019'],,False,False,,2
+yukp1241-2-3-1,,yukp1241-2,3,ko'seʈ͡ʂa,ko'seʈ͡ʂa,[],,['chan2019'],,False,False,,2
+yukp1241-2-4-1,,yukp1241-2,4,'tpakjot͡ʃ tka,'tpakjot͡ʃ tka,[],,['chan2019'],,False,False,,2
+yukp1241-2-5-1,,yukp1241-2,5,e'towet͡ʃko 'omapka tka,e'towet͡ʃko 'omapka tka,[],,['chan2019'],,False,False,,2
+yukp1241-2-6-1,,yukp1241-2,6,'tkumaʂ jo'popaje,'tkumaʂ jo'popaje,[],,['chan2019'],,False,False,,2
+yukp1241-2-7-1,,yukp1241-2,7,kosaʂ jo'popaje,kosaʂ jo'popaje,[],,['chan2019'],,False,False,,2
+yukp1241-2-8-1,,yukp1241-2,8,ko'seʈ͡ʂa jo'popaje,ko'seʈ͡ʂa jo'popaje,[],,['chan2019'],,False,False,,2
+yukp1241-2-9-1,,yukp1241-2,9,'tpakjot͡ʃ tka jo'popaje,'tpakjot͡ʃ tka jo'popaje,[],,['chan2019'],,False,False,,2
+yukp1241-2-10-1,,yukp1241-2,10,'omapkatka,'omapkatka,[],,['chan2019'],,False,False,,2
+yukp1241-2-11-1,,yukp1241-2,11,'sajmome,'sajmome,[],,['chan2019'],,False,False,,2
+yukp1241-2-12-1,,yukp1241-2,12,'sajmome,'sajmome,[],,['chan2019'],,False,False,,2

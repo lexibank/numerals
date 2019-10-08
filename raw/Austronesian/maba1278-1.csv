@@ -1,16 +1,16 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maba1278-1-1-1,,maba1278-1,1,pisɔ,pisɔ,[],,[],,False,False,,1
-maba1278-1-2-1,,maba1278-1,2,pilu,pilu,[],,[],,False,False,,1
-maba1278-1-3-1,,maba1278-1,3,pitel,pitel,[],,[],,False,False,,1
-maba1278-1-4-1,,maba1278-1,4,pifɔt,pifɔt,[],,[],,False,False,,1
-maba1278-1-5-1,,maba1278-1,5,pilim,pilim,[],,[],,False,False,,1
-maba1278-1-6-1,,maba1278-1,6,puwonom,puwonom,[],,[],,False,False,,1
-maba1278-1-7-1,,maba1278-1,7,pifit,pifit,[],,[],,False,False,,1
-maba1278-1-8-1,,maba1278-1,8,puwal,puwal,[],,[],,False,False,,1
-maba1278-1-9-1,,maba1278-1,9,siwe,siwe,[],,[],,False,False,,1
-maba1278-1-10-1,,maba1278-1,10,yɔfɔ sɔ,yɔfɔ sɔ,[],,[],,False,False,,1
-maba1278-1-11-1,,maba1278-1,11,yɔfɔ sɔ re pisɔ,yɔfɔ sɔ re pisɔ,[],,[],,False,False,,1
-maba1278-1-20-1,,maba1278-1,20,yɔfɔ lu,yɔfɔ lu,[],,[],,False,False,,1
-maba1278-1-21-1,,maba1278-1,21,yɔfɔ lu re pisɔ,yɔfɔ lu re pisɔ,[],,[],,False,False,,1
-maba1278-1-100-1,,maba1278-1,100,sibi sɔ,sibi sɔ,[],,[],,False,False,,1
-maba1278-1-1000-1,,maba1278-1,1000,t͡ʃalan t͡ʃɔ,t͡ʃalan t͡ʃɔ,[],(*),[],,False,False,,1
+maba1278-1-1-1,,maba1278-1,1,pisɔ,pisɔ,[],,['chan2019'],,False,False,,1
+maba1278-1-2-1,,maba1278-1,2,pilu,pilu,[],,['chan2019'],,False,False,,1
+maba1278-1-3-1,,maba1278-1,3,pitel,pitel,[],,['chan2019'],,False,False,,1
+maba1278-1-4-1,,maba1278-1,4,pifɔt,pifɔt,[],,['chan2019'],,False,False,,1
+maba1278-1-5-1,,maba1278-1,5,pilim,pilim,[],,['chan2019'],,False,False,,1
+maba1278-1-6-1,,maba1278-1,6,puwonom,puwonom,[],,['chan2019'],,False,False,,1
+maba1278-1-7-1,,maba1278-1,7,pifit,pifit,[],,['chan2019'],,False,False,,1
+maba1278-1-8-1,,maba1278-1,8,puwal,puwal,[],,['chan2019'],,False,False,,1
+maba1278-1-9-1,,maba1278-1,9,siwe,siwe,[],,['chan2019'],,False,False,,1
+maba1278-1-10-1,,maba1278-1,10,yɔfɔ sɔ,yɔfɔ sɔ,[],,['chan2019'],,False,False,,1
+maba1278-1-11-1,,maba1278-1,11,yɔfɔ sɔ re pisɔ,yɔfɔ sɔ re pisɔ,[],,['chan2019'],,False,False,,1
+maba1278-1-20-1,,maba1278-1,20,yɔfɔ lu,yɔfɔ lu,[],,['chan2019'],,False,False,,1
+maba1278-1-21-1,,maba1278-1,21,yɔfɔ lu re pisɔ,yɔfɔ lu re pisɔ,[],,['chan2019'],,False,False,,1
+maba1278-1-100-1,,maba1278-1,100,sibi sɔ,sibi sɔ,[],,['chan2019'],,False,False,,1
+maba1278-1-1000-1,,maba1278-1,1000,t͡ʃalan t͡ʃɔ,t͡ʃalan t͡ʃɔ,[],(*),['chan2019'],,False,False,,1

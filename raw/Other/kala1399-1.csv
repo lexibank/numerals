@@ -1,20 +1,20 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kala1399-1-1-1,,kala1399-1,1,ataaseq,ataaseq,[],,[],,False,False,,1
-kala1399-1-2-1,,kala1399-1,2,marluk,marluk,[],,[],,False,False,,1
-kala1399-1-3-1,,kala1399-1,3,piŋasut,piŋasut,[],,[],,False,False,,1
-kala1399-1-4-1,,kala1399-1,4,sisamat,sisamat,[],,[],,False,False,,1
-kala1399-1-5-1,,kala1399-1,5,tallimat,tallimat,[],,[],,False,False,,1
-kala1399-1-6-1,,kala1399-1,6,arfineq,arfineq,[],,[],,False,False,,1
-kala1399-1-7-1,,kala1399-1,7,arfineq marluk,arfineq marluk,[],( 5 + 2 ),[],,False,False,,1
-kala1399-1-8-1,,kala1399-1,8,arfineq piŋasut,arfineq piŋasut,[],( 5 + 3 ),[],,False,False,,1
-kala1399-1-9-1,,kala1399-1,9,qulaaluat,qulaaluat,[],,[],,False,False,,1
-kala1399-1-9-2,,kala1399-1,9,quliŋiluat,quliŋiluat,[],,[],,False,False,,1
-kala1399-1-10-1,,kala1399-1,10,qulit,qulit,[],,[],,False,False,,1
-kala1399-1-11-1,,kala1399-1,11,aqqaneq,aqqaneq,[],,[],,False,False,,1
-kala1399-1-12-1,,kala1399-1,12,aqqaneq marluk,aqqaneq marluk,[],,[],,False,False,,1
-kala1399-1-13-1,,kala1399-1,13,tratenit,tratenit,[],< Danish ,[],,True,False,,1
-kala1399-1-14-1,,kala1399-1,14,fjortenit,fjortenit,[],< Danish ,[],,True,False,,1
-kala1399-1-15-1,,kala1399-1,15,famtenit,famtenit,[],< Danish ,[],,True,False,,1
-kala1399-1-16-1,,kala1399-1,16,saystenit,saystenit,[],< Danish ,[],,True,False,,1
-kala1399-1-50-1,,kala1399-1,50,haltrassit,haltrassit,[],,[],,False,False,,1
-kala1399-1-100-1,,kala1399-1,100,unorujut,unorujut,[],,[],,False,False,,1
+kala1399-1-1-1,,kala1399-1,1,ataaseq,ataaseq,[],,['chan2019'],,False,False,,1
+kala1399-1-2-1,,kala1399-1,2,marluk,marluk,[],,['chan2019'],,False,False,,1
+kala1399-1-3-1,,kala1399-1,3,piŋasut,piŋasut,[],,['chan2019'],,False,False,,1
+kala1399-1-4-1,,kala1399-1,4,sisamat,sisamat,[],,['chan2019'],,False,False,,1
+kala1399-1-5-1,,kala1399-1,5,tallimat,tallimat,[],,['chan2019'],,False,False,,1
+kala1399-1-6-1,,kala1399-1,6,arfineq,arfineq,[],,['chan2019'],,False,False,,1
+kala1399-1-7-1,,kala1399-1,7,arfineq marluk,arfineq marluk,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kala1399-1-8-1,,kala1399-1,8,arfineq piŋasut,arfineq piŋasut,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kala1399-1-9-1,,kala1399-1,9,qulaaluat,qulaaluat,[],,['chan2019'],,False,False,,1
+kala1399-1-9-2,,kala1399-1,9,quliŋiluat,quliŋiluat,[],,['chan2019'],,False,False,,1
+kala1399-1-10-1,,kala1399-1,10,qulit,qulit,[],,['chan2019'],,False,False,,1
+kala1399-1-11-1,,kala1399-1,11,aqqaneq,aqqaneq,[],,['chan2019'],,False,False,,1
+kala1399-1-12-1,,kala1399-1,12,aqqaneq marluk,aqqaneq marluk,[],,['chan2019'],,False,False,,1
+kala1399-1-13-1,,kala1399-1,13,tratenit,tratenit,[],< Danish ,['chan2019'],,True,False,,1
+kala1399-1-14-1,,kala1399-1,14,fjortenit,fjortenit,[],< Danish ,['chan2019'],,True,False,,1
+kala1399-1-15-1,,kala1399-1,15,famtenit,famtenit,[],< Danish ,['chan2019'],,True,False,,1
+kala1399-1-16-1,,kala1399-1,16,saystenit,saystenit,[],< Danish ,['chan2019'],,True,False,,1
+kala1399-1-50-1,,kala1399-1,50,haltrassit,haltrassit,[],,['chan2019'],,False,False,,1
+kala1399-1-100-1,,kala1399-1,100,unorujut,unorujut,[],,['chan2019'],,False,False,,1

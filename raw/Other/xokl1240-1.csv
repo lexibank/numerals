@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xokl1240-1-1-1,,xokl1240-1,1,litː 'one' or 'a few',litː 'one' or 'a few',[],,[],,False,True,pil,1
-xokl1240-1-2-1,,xokl1240-1,2,réɡlẽ,réɡlẽ,[],,[],,False,False,,1
-xokl1240-1-3-1,,xokl1240-1,3,tãɡtũɡ,tãɡtũɡ,[],,[],,False,False,,1
+xokl1240-1-1-1,,xokl1240-1,1,litː 'one' or 'a few',litː 'one' or 'a few',[],,['chan2019'],,False,True,pil,1
+xokl1240-1-2-1,,xokl1240-1,2,réɡlẽ,réɡlẽ,[],,['chan2019'],,False,False,,1
+xokl1240-1-3-1,,xokl1240-1,3,tãɡtũɡ,tãɡtũɡ,[],,['chan2019'],,False,False,,1

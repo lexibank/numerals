@@ -1,38 +1,38 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-numb1247-1-1-1,,numb1247-1,1,sesemi,sesemi,[],,[],,False,False,,1
-numb1247-1-2-1,,numb1247-1,2,lua,lua,[],,[],,False,False,,1
-numb1247-1-3-1,,numb1247-1,3,toli,toli,[],,[],,False,False,,1
-numb1247-1-4-1,,numb1247-1,4,wata,wata,[],,[],,False,False,,1
-numb1247-1-5-1,,numb1247-1,5,nima teula,nima teula,[],"(litː 'hand, half side')",[],,False,False,,1
-numb1247-1-6-1,,numb1247-1,6,nima teula ano sesemi,nima teula ano sesemi,[],( 5 + 1 ),[],,False,False,,1
-numb1247-1-7-1,,numb1247-1,7,nima teula ano lua,nima teula ano lua,[],( 5 + 2 ),[],,False,False,,1
-numb1247-1-8-1,,numb1247-1,8,nima teula ano toli,nima teula ano toli,[],( 5 + 3 ),[],,False,False,,1
-numb1247-1-9-1,,numb1247-1,9,nima teula ano wata,nima teula ano wata,[],( 5 + 4 ),[],,False,False,,1
-numb1247-1-10-1,,numb1247-1,10,nima besua,nima besua,[],(litː 'hands both'),[],,False,False,,1
-numb1247-1-11-1,,numb1247-1,11,nima besua ano sesemi,nima besua ano sesemi,[],,[],,False,False,,1
-numb1247-1-12-1,,numb1247-1,12,nima besua ano lua,nima besua ano lua,[],,[],,False,False,,1
-numb1247-1-13-1,,numb1247-1,13,nima besua ano toli,nima besua ano toli,[],,[],,False,False,,1
-numb1247-1-14-1,,numb1247-1,14,nima besua ano wata,nima besua ano wata,[],,[],,False,False,,1
-numb1247-1-15-1,,numb1247-1,15,nima besua ae teula,nima besua ae teula,[],,[],,False,False,,1
-numb1247-1-16-1,,numb1247-1,16,nima besua ae teula ano sesemi,nima besua ae teula ano sesemi,[],,[],,False,False,,1
-numb1247-1-17-1,,numb1247-1,17,nima besua ae teula ano lua,nima besua ae teula ano lua,[],,[],,False,False,,1
-numb1247-1-18-1,,numb1247-1,18,nima besua ae teula ano toli,nima besua ae teula ano toli,[],,[],,False,False,,1
-numb1247-1-19-1,,numb1247-1,19,nima besua ae teula ano wata,nima besua ae teula ano wata,[],,[],,False,False,,1
-numb1247-1-20-1,,numb1247-1,20,tamota te,tamota te,[],(litː 'person one'),[],,False,False,,1
-numb1247-1-21-1,,numb1247-1,21,tamota te ano sesemi,tamota te ano sesemi,[],,[],,False,False,,1
-numb1247-1-22-1,,numb1247-1,22,tamota te ano lua,tamota te ano lua,[],,[],,False,False,,1
-numb1247-1-23-1,,numb1247-1,23,tamota te ano toli,tamota te ano toli,[],,[],,False,False,,1
-numb1247-1-24-1,,numb1247-1,24,tamota te ano wata,tamota te ano wata,[],,[],,False,False,,1
-numb1247-1-25-1,,numb1247-1,25,tamota te ano nima teula,tamota te ano nima teula,[],,[],,False,False,,1
-numb1247-1-26-1,,numb1247-1,26,tamota te ano nima teula ano sesemi,tamota te ano nima teula ano sesemi,[],,[],,False,False,,1
-numb1247-1-27-1,,numb1247-1,27,tamota te ano nima teula ano lua,tamota te ano nima teula ano lua,[],,[],,False,False,,1
-numb1247-1-28-1,,numb1247-1,28,tamota te ano nima teula ano toli,tamota te ano nima teula ano toli,[],,[],,False,False,,1
-numb1247-1-29-1,,numb1247-1,29,tamota te ano nima teula ano wata,tamota te ano nima teula ano wata,[],,[],,False,False,,1
-numb1247-1-30-1,,numb1247-1,30,tamota te nima besua,tamota te nima besua,[],,[],,False,False,,1
-numb1247-1-40-1,,numb1247-1,40,tamota lua,tamota lua,[],( 20 x 2 ),[],,False,False,,1
-numb1247-1-50-1,,numb1247-1,50,tamota lua nima besua,tamota lua nima besua,[],,[],,False,False,,1
-numb1247-1-60-1,,numb1247-1,60,tamota toli,tamota toli,[],( 20 x 3 ),[],,False,False,,1
-numb1247-1-70-1,,numb1247-1,70,tamota toli nima besua,tamota toli nima besua,[],,[],,False,False,,1
-numb1247-1-80-1,,numb1247-1,80,tamota wata,tamota wata,[],( 20 x 4 ),[],,False,False,,1
-numb1247-1-90-1,,numb1247-1,90,tamota wata nima besua,tamota wata nima besua,[],,[],,False,False,,1
-numb1247-1-100-1,,numb1247-1,100,tamota nima teula,tamota nima teula,[],( 20 x 5 ),[],,False,False,,1
+numb1247-1-1-1,,numb1247-1,1,sesemi,sesemi,[],,['chan2019'],,False,False,,1
+numb1247-1-2-1,,numb1247-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+numb1247-1-3-1,,numb1247-1,3,toli,toli,[],,['chan2019'],,False,False,,1
+numb1247-1-4-1,,numb1247-1,4,wata,wata,[],,['chan2019'],,False,False,,1
+numb1247-1-5-1,,numb1247-1,5,nima teula,nima teula,[],"(litː 'hand, half side')",['chan2019'],,False,False,,1
+numb1247-1-6-1,,numb1247-1,6,nima teula ano sesemi,nima teula ano sesemi,[],( 5 + 1 ),['chan2019'],,False,False,,1
+numb1247-1-7-1,,numb1247-1,7,nima teula ano lua,nima teula ano lua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+numb1247-1-8-1,,numb1247-1,8,nima teula ano toli,nima teula ano toli,[],( 5 + 3 ),['chan2019'],,False,False,,1
+numb1247-1-9-1,,numb1247-1,9,nima teula ano wata,nima teula ano wata,[],( 5 + 4 ),['chan2019'],,False,False,,1
+numb1247-1-10-1,,numb1247-1,10,nima besua,nima besua,[],(litː 'hands both'),['chan2019'],,False,False,,1
+numb1247-1-11-1,,numb1247-1,11,nima besua ano sesemi,nima besua ano sesemi,[],,['chan2019'],,False,False,,1
+numb1247-1-12-1,,numb1247-1,12,nima besua ano lua,nima besua ano lua,[],,['chan2019'],,False,False,,1
+numb1247-1-13-1,,numb1247-1,13,nima besua ano toli,nima besua ano toli,[],,['chan2019'],,False,False,,1
+numb1247-1-14-1,,numb1247-1,14,nima besua ano wata,nima besua ano wata,[],,['chan2019'],,False,False,,1
+numb1247-1-15-1,,numb1247-1,15,nima besua ae teula,nima besua ae teula,[],,['chan2019'],,False,False,,1
+numb1247-1-16-1,,numb1247-1,16,nima besua ae teula ano sesemi,nima besua ae teula ano sesemi,[],,['chan2019'],,False,False,,1
+numb1247-1-17-1,,numb1247-1,17,nima besua ae teula ano lua,nima besua ae teula ano lua,[],,['chan2019'],,False,False,,1
+numb1247-1-18-1,,numb1247-1,18,nima besua ae teula ano toli,nima besua ae teula ano toli,[],,['chan2019'],,False,False,,1
+numb1247-1-19-1,,numb1247-1,19,nima besua ae teula ano wata,nima besua ae teula ano wata,[],,['chan2019'],,False,False,,1
+numb1247-1-20-1,,numb1247-1,20,tamota te,tamota te,[],(litː 'person one'),['chan2019'],,False,False,,1
+numb1247-1-21-1,,numb1247-1,21,tamota te ano sesemi,tamota te ano sesemi,[],,['chan2019'],,False,False,,1
+numb1247-1-22-1,,numb1247-1,22,tamota te ano lua,tamota te ano lua,[],,['chan2019'],,False,False,,1
+numb1247-1-23-1,,numb1247-1,23,tamota te ano toli,tamota te ano toli,[],,['chan2019'],,False,False,,1
+numb1247-1-24-1,,numb1247-1,24,tamota te ano wata,tamota te ano wata,[],,['chan2019'],,False,False,,1
+numb1247-1-25-1,,numb1247-1,25,tamota te ano nima teula,tamota te ano nima teula,[],,['chan2019'],,False,False,,1
+numb1247-1-26-1,,numb1247-1,26,tamota te ano nima teula ano sesemi,tamota te ano nima teula ano sesemi,[],,['chan2019'],,False,False,,1
+numb1247-1-27-1,,numb1247-1,27,tamota te ano nima teula ano lua,tamota te ano nima teula ano lua,[],,['chan2019'],,False,False,,1
+numb1247-1-28-1,,numb1247-1,28,tamota te ano nima teula ano toli,tamota te ano nima teula ano toli,[],,['chan2019'],,False,False,,1
+numb1247-1-29-1,,numb1247-1,29,tamota te ano nima teula ano wata,tamota te ano nima teula ano wata,[],,['chan2019'],,False,False,,1
+numb1247-1-30-1,,numb1247-1,30,tamota te nima besua,tamota te nima besua,[],,['chan2019'],,False,False,,1
+numb1247-1-40-1,,numb1247-1,40,tamota lua,tamota lua,[],( 20 x 2 ),['chan2019'],,False,False,,1
+numb1247-1-50-1,,numb1247-1,50,tamota lua nima besua,tamota lua nima besua,[],,['chan2019'],,False,False,,1
+numb1247-1-60-1,,numb1247-1,60,tamota toli,tamota toli,[],( 20 x 3 ),['chan2019'],,False,False,,1
+numb1247-1-70-1,,numb1247-1,70,tamota toli nima besua,tamota toli nima besua,[],,['chan2019'],,False,False,,1
+numb1247-1-80-1,,numb1247-1,80,tamota wata,tamota wata,[],( 20 x 4 ),['chan2019'],,False,False,,1
+numb1247-1-90-1,,numb1247-1,90,tamota wata nima besua,tamota wata nima besua,[],,['chan2019'],,False,False,,1
+numb1247-1-100-1,,numb1247-1,100,tamota nima teula,tamota nima teula,[],( 20 x 5 ),['chan2019'],,False,False,,1

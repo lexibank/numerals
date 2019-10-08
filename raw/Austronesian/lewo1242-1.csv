@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lewo1242-1-1-1,,lewo1242-1,1,ta:ɡa,ta:ɡa,[],,[],,False,False,,1
-lewo1242-1-2-1,,lewo1242-1,2,lua,lua,[],,[],,False,False,,1
-lewo1242-1-3-1,,lewo1242-1,3,tɛlu,tɛlu,[],,[],,False,False,,1
-lewo1242-1-4-1,,lewo1242-1,4,βari,βari,[],,[],,False,False,,1
-lewo1242-1-5-1,,lewo1242-1,5,lima,lima,[],,[],,False,False,,1
-lewo1242-1-6-1,,lewo1242-1,6,orai,orai,[],( 5 + 1 ),[],,False,False,,1
-lewo1242-1-7-1,,lewo1242-1,7,olua,olua,[],( 5 + 2 ),[],,False,False,,1
-lewo1242-1-8-1,,lewo1242-1,8,orɛlu,orɛlu,[],( 5 + 3 ),[],,False,False,,1
-lewo1242-1-9-1,,lewo1242-1,9,oβari,oβari,[],( 5 + 4 ),[],,False,False,,1
-lewo1242-1-10-1,,lewo1242-1,10,lualima,lualima,[],( 5 + 5 ),[],,False,False,,1
-lewo1242-1-11-1,,lewo1242-1,11,lualima ta:ɡa pa ta:ɡa,lualima ta:ɡa pa ta:ɡa,[],,[],,False,False,,1
-lewo1242-1-12-1,,lewo1242-1,12,lualima ta:ɡa pa lua,lualima ta:ɡa pa lua,[],,[],,False,False,,1
-lewo1242-1-13-1,,lewo1242-1,13,lualima ta:ɡa pa tɛlu,lualima ta:ɡa pa tɛlu,[],,[],,False,False,,1
-lewo1242-1-14-1,,lewo1242-1,14,lualima ta:ɡa pa βari,lualima ta:ɡa pa βari,[],,[],,False,False,,1
-lewo1242-1-15-1,,lewo1242-1,15,lualima ta:ɡa pa lima,lualima ta:ɡa pa lima,[],,[],,False,False,,1
-lewo1242-1-16-1,,lewo1242-1,16,lualima ta:ɡa pa orai,lualima ta:ɡa pa orai,[],,[],,False,False,,1
-lewo1242-1-17-1,,lewo1242-1,17,lualima ta:ɡa pa olua,lualima ta:ɡa pa olua,[],,[],,False,False,,1
-lewo1242-1-18-1,,lewo1242-1,18,lualima ta:ɡa pa orɛlu,lualima ta:ɡa pa orɛlu,[],,[],,False,False,,1
-lewo1242-1-19-1,,lewo1242-1,19,lualima ta:ɡa pa oβari,lualima ta:ɡa pa oβari,[],,[],,False,False,,1
-lewo1242-1-20-1,,lewo1242-1,20,lualima yam lua,lualima yam lua,[],,[],,False,False,,1
-lewo1242-1-21-1,,lewo1242-1,21,lualima yam lua pa ta:ɡa,lualima yam lua pa ta:ɡa,[],,[],,False,False,,1
-lewo1242-1-22-1,,lewo1242-1,22,lualima yam lua pa lua,lualima yam lua pa lua,[],,[],,False,False,,1
-lewo1242-1-23-1,,lewo1242-1,23,lualima yam lua pa tɛlu,lualima yam lua pa tɛlu,[],,[],,False,False,,1
-lewo1242-1-24-1,,lewo1242-1,24,lualima yam lua pa βari,lualima yam lua pa βari,[],,[],,False,False,,1
-lewo1242-1-25-1,,lewo1242-1,25,lualima yam lua pa lima,lualima yam lua pa lima,[],,[],,False,False,,1
-lewo1242-1-26-1,,lewo1242-1,26,lualima yam lua pa orai,lualima yam lua pa orai,[],,[],,False,False,,1
-lewo1242-1-27-1,,lewo1242-1,27,lualima yam lua pa olua,lualima yam lua pa olua,[],,[],,False,False,,1
-lewo1242-1-28-1,,lewo1242-1,28,lualima yam lua pa orɛlu,lualima yam lua pa orɛlu,[],,[],,False,False,,1
-lewo1242-1-29-1,,lewo1242-1,29,lualima yam lua pa oβari,lualima yam lua pa oβari,[],,[],,False,False,,1
-lewo1242-1-30-1,,lewo1242-1,30,lualima yam tɛlu,lualima yam tɛlu,[],,[],,False,False,,1
-lewo1242-1-40-1,,lewo1242-1,40,lualima yam βari,lualima yam βari,[],,[],,False,False,,1
-lewo1242-1-50-1,,lewo1242-1,50,lualima yam lima,lualima yam lima,[],,[],,False,False,,1
-lewo1242-1-60-1,,lewo1242-1,60,lualima yam orai,lualima yam orai,[],,[],,False,False,,1
-lewo1242-1-70-1,,lewo1242-1,70,lualima yam olua,lualima yam olua,[],,[],,False,False,,1
-lewo1242-1-80-1,,lewo1242-1,80,lualima yam orɛlu,lualima yam orɛlu,[],,[],,False,False,,1
-lewo1242-1-90-1,,lewo1242-1,90,lualima yam oβari,lualima yam oβari,[],,[],,False,False,,1
-lewo1242-1-100-1,,lewo1242-1,100,ponotia ta:ɡa,ponotia ta:ɡa,[],,[],,False,False,,1
-lewo1242-1-200-1,,lewo1242-1,200,ponotia lua,ponotia lua,[],,[],,False,False,,1
-lewo1242-1-1000-1,,lewo1242-1,1000,manu ta:ɡa,manu ta:ɡa,[],( < Polynesian ),[],,True,False,,1
-lewo1242-1-2000-1,,lewo1242-1,2000,manu lua,manu lua,[],,[],,False,False,,1
+lewo1242-1-1-1,,lewo1242-1,1,ta:ɡa,ta:ɡa,[],,['chan2019'],,False,False,,1
+lewo1242-1-2-1,,lewo1242-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+lewo1242-1-3-1,,lewo1242-1,3,tɛlu,tɛlu,[],,['chan2019'],,False,False,,1
+lewo1242-1-4-1,,lewo1242-1,4,βari,βari,[],,['chan2019'],,False,False,,1
+lewo1242-1-5-1,,lewo1242-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+lewo1242-1-6-1,,lewo1242-1,6,orai,orai,[],( 5 + 1 ),['chan2019'],,False,False,,1
+lewo1242-1-7-1,,lewo1242-1,7,olua,olua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+lewo1242-1-8-1,,lewo1242-1,8,orɛlu,orɛlu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+lewo1242-1-9-1,,lewo1242-1,9,oβari,oβari,[],( 5 + 4 ),['chan2019'],,False,False,,1
+lewo1242-1-10-1,,lewo1242-1,10,lualima,lualima,[],( 5 + 5 ),['chan2019'],,False,False,,1
+lewo1242-1-11-1,,lewo1242-1,11,lualima ta:ɡa pa ta:ɡa,lualima ta:ɡa pa ta:ɡa,[],,['chan2019'],,False,False,,1
+lewo1242-1-12-1,,lewo1242-1,12,lualima ta:ɡa pa lua,lualima ta:ɡa pa lua,[],,['chan2019'],,False,False,,1
+lewo1242-1-13-1,,lewo1242-1,13,lualima ta:ɡa pa tɛlu,lualima ta:ɡa pa tɛlu,[],,['chan2019'],,False,False,,1
+lewo1242-1-14-1,,lewo1242-1,14,lualima ta:ɡa pa βari,lualima ta:ɡa pa βari,[],,['chan2019'],,False,False,,1
+lewo1242-1-15-1,,lewo1242-1,15,lualima ta:ɡa pa lima,lualima ta:ɡa pa lima,[],,['chan2019'],,False,False,,1
+lewo1242-1-16-1,,lewo1242-1,16,lualima ta:ɡa pa orai,lualima ta:ɡa pa orai,[],,['chan2019'],,False,False,,1
+lewo1242-1-17-1,,lewo1242-1,17,lualima ta:ɡa pa olua,lualima ta:ɡa pa olua,[],,['chan2019'],,False,False,,1
+lewo1242-1-18-1,,lewo1242-1,18,lualima ta:ɡa pa orɛlu,lualima ta:ɡa pa orɛlu,[],,['chan2019'],,False,False,,1
+lewo1242-1-19-1,,lewo1242-1,19,lualima ta:ɡa pa oβari,lualima ta:ɡa pa oβari,[],,['chan2019'],,False,False,,1
+lewo1242-1-20-1,,lewo1242-1,20,lualima yam lua,lualima yam lua,[],,['chan2019'],,False,False,,1
+lewo1242-1-21-1,,lewo1242-1,21,lualima yam lua pa ta:ɡa,lualima yam lua pa ta:ɡa,[],,['chan2019'],,False,False,,1
+lewo1242-1-22-1,,lewo1242-1,22,lualima yam lua pa lua,lualima yam lua pa lua,[],,['chan2019'],,False,False,,1
+lewo1242-1-23-1,,lewo1242-1,23,lualima yam lua pa tɛlu,lualima yam lua pa tɛlu,[],,['chan2019'],,False,False,,1
+lewo1242-1-24-1,,lewo1242-1,24,lualima yam lua pa βari,lualima yam lua pa βari,[],,['chan2019'],,False,False,,1
+lewo1242-1-25-1,,lewo1242-1,25,lualima yam lua pa lima,lualima yam lua pa lima,[],,['chan2019'],,False,False,,1
+lewo1242-1-26-1,,lewo1242-1,26,lualima yam lua pa orai,lualima yam lua pa orai,[],,['chan2019'],,False,False,,1
+lewo1242-1-27-1,,lewo1242-1,27,lualima yam lua pa olua,lualima yam lua pa olua,[],,['chan2019'],,False,False,,1
+lewo1242-1-28-1,,lewo1242-1,28,lualima yam lua pa orɛlu,lualima yam lua pa orɛlu,[],,['chan2019'],,False,False,,1
+lewo1242-1-29-1,,lewo1242-1,29,lualima yam lua pa oβari,lualima yam lua pa oβari,[],,['chan2019'],,False,False,,1
+lewo1242-1-30-1,,lewo1242-1,30,lualima yam tɛlu,lualima yam tɛlu,[],,['chan2019'],,False,False,,1
+lewo1242-1-40-1,,lewo1242-1,40,lualima yam βari,lualima yam βari,[],,['chan2019'],,False,False,,1
+lewo1242-1-50-1,,lewo1242-1,50,lualima yam lima,lualima yam lima,[],,['chan2019'],,False,False,,1
+lewo1242-1-60-1,,lewo1242-1,60,lualima yam orai,lualima yam orai,[],,['chan2019'],,False,False,,1
+lewo1242-1-70-1,,lewo1242-1,70,lualima yam olua,lualima yam olua,[],,['chan2019'],,False,False,,1
+lewo1242-1-80-1,,lewo1242-1,80,lualima yam orɛlu,lualima yam orɛlu,[],,['chan2019'],,False,False,,1
+lewo1242-1-90-1,,lewo1242-1,90,lualima yam oβari,lualima yam oβari,[],,['chan2019'],,False,False,,1
+lewo1242-1-100-1,,lewo1242-1,100,ponotia ta:ɡa,ponotia ta:ɡa,[],,['chan2019'],,False,False,,1
+lewo1242-1-200-1,,lewo1242-1,200,ponotia lua,ponotia lua,[],,['chan2019'],,False,False,,1
+lewo1242-1-1000-1,,lewo1242-1,1000,manu ta:ɡa,manu ta:ɡa,[],( < Polynesian ),['chan2019'],,True,False,,1
+lewo1242-1-2000-1,,lewo1242-1,2000,manu lua,manu lua,[],,['chan2019'],,False,False,,1

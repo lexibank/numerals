@@ -1,19 +1,19 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-anus1237-1-1-1,,anus1237-1,1,'tɛs,'tɛs,[],,[],,False,False,,1
-anus1237-1-2-1,,anus1237-1,2,ʔo'ruʔ,ʔo'ruʔ,[],,[],,False,False,,1
-anus1237-1-3-1,,anus1237-1,3,tou,tou,[],,[],,False,False,,1
-anus1237-1-4-1,,anus1237-1,4,fau,fau,[],,[],,False,False,,1
-anus1237-1-4-2,,anus1237-1,4,fao,fao,[],,[],,False,False,,1
-anus1237-1-5-1,,anus1237-1,5,arim,arim,[],,[],,False,False,,1
-anus1237-1-5-2,,anus1237-1,5,ʔɛ'rim,ʔɛ'rim,[],,[],,False,False,,1
-anus1237-1-6-1,,anus1237-1,6,fawertes,fawertes,[],,[],,False,False,,1
-anus1237-1-6-2,,anus1237-1,6,faru'ertes,faru'ertes,[],( 5+1 ),[],,False,False,,1
-anus1237-1-7-1,,anus1237-1,7,faweruru,faweruru,[],,[],,False,False,,1
-anus1237-1-7-2,,anus1237-1,7,faruer'our,faruer'our,[],( 5+2 ),[],,False,False,,1
-anus1237-1-8-1,,anus1237-1,8,fawertou,fawertou,[],,[],,False,False,,1
-anus1237-1-8-2,,anus1237-1,8,faruer'tour,faruer'tour,[],( 5+3 ),[],,False,False,,1
-anus1237-1-9-1,,anus1237-1,9,fawerfao,fawerfao,[],,[],,False,False,,1
-anus1237-1-9-2,,anus1237-1,9,faruer'faur,faruer'faur,[],( 5+4 ),[],,False,False,,1
-anus1237-1-10-1,,anus1237-1,10,sənafu,sənafu,[],,[],,False,False,,1
-anus1237-1-10-2,,anus1237-1,10,faruerʔɛrim,faruerʔɛrim,[],( 5+5 ),[],,False,False,,1
-anus1237-1-20-1,,anus1237-1,20,'kaxot'oru,'kaxot'oru,[],,[],,False,False,,1
+anus1237-1-1-1,,anus1237-1,1,'tɛs,'tɛs,[],,['chan2019'],,False,False,,1
+anus1237-1-2-1,,anus1237-1,2,ʔo'ruʔ,ʔo'ruʔ,[],,['chan2019'],,False,False,,1
+anus1237-1-3-1,,anus1237-1,3,tou,tou,[],,['chan2019'],,False,False,,1
+anus1237-1-4-1,,anus1237-1,4,fau,fau,[],,['chan2019'],,False,False,,1
+anus1237-1-4-2,,anus1237-1,4,fao,fao,[],,['chan2019'],,False,False,,1
+anus1237-1-5-1,,anus1237-1,5,arim,arim,[],,['chan2019'],,False,False,,1
+anus1237-1-5-2,,anus1237-1,5,ʔɛ'rim,ʔɛ'rim,[],,['chan2019'],,False,False,,1
+anus1237-1-6-1,,anus1237-1,6,fawertes,fawertes,[],,['chan2019'],,False,False,,1
+anus1237-1-6-2,,anus1237-1,6,faru'ertes,faru'ertes,[],( 5+1 ),['chan2019'],,False,False,,1
+anus1237-1-7-1,,anus1237-1,7,faweruru,faweruru,[],,['chan2019'],,False,False,,1
+anus1237-1-7-2,,anus1237-1,7,faruer'our,faruer'our,[],( 5+2 ),['chan2019'],,False,False,,1
+anus1237-1-8-1,,anus1237-1,8,fawertou,fawertou,[],,['chan2019'],,False,False,,1
+anus1237-1-8-2,,anus1237-1,8,faruer'tour,faruer'tour,[],( 5+3 ),['chan2019'],,False,False,,1
+anus1237-1-9-1,,anus1237-1,9,fawerfao,fawerfao,[],,['chan2019'],,False,False,,1
+anus1237-1-9-2,,anus1237-1,9,faruer'faur,faruer'faur,[],( 5+4 ),['chan2019'],,False,False,,1
+anus1237-1-10-1,,anus1237-1,10,sənafu,sənafu,[],,['chan2019'],,False,False,,1
+anus1237-1-10-2,,anus1237-1,10,faruerʔɛrim,faruerʔɛrim,[],( 5+5 ),['chan2019'],,False,False,,1
+anus1237-1-20-1,,anus1237-1,20,'kaxot'oru,'kaxot'oru,[],,['chan2019'],,False,False,,1

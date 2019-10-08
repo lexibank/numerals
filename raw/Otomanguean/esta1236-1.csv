@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-esta1236-1-1-1,,esta1236-1,1,ʔna,ʔna,[],,[],,False,False,,1
-esta1236-1-2-1,,esta1236-1,2,yoho,yoho,[],,[],,False,False,,1
-esta1236-1-3-1,,esta1236-1,3,hñũ,hñũ,[],,[],,False,False,,1
-esta1236-1-4-1,,esta1236-1,4,ɡoho,ɡoho,[],,[],,False,False,,1
-esta1236-1-5-1,,esta1236-1,5,kɨtʔa,kɨtʔa,[],,[],,False,False,,1
-esta1236-1-6-1,,esta1236-1,6,ʔdahto,ʔdahto,[],,[],,False,False,,1
-esta1236-1-7-1,,esta1236-1,7,yohto,yohto,[],( 5 + 2 ),[],,False,False,,1
-esta1236-1-8-1,,esta1236-1,8,hñãhto,hñãhto,[],( lit: 'one eight' ),[],,False,False,,1
-esta1236-1-9-1,,esta1236-1,9,ɡɨhto,ɡɨhto,[],,[],,False,False,,1
-esta1236-1-10-1,,esta1236-1,10,ʔdætʔa,ʔdætʔa,[],,[],,False,False,,1
-esta1236-1-11-1,,esta1236-1,11,ʔdætʔa ma ʔna,ʔdætʔa ma ʔna,[],,[],,False,False,,1
-esta1236-1-12-1,,esta1236-1,12,ʔdætʔa ma yoho,ʔdætʔa ma yoho,[],,[],,False,False,,1
-esta1236-1-13-1,,esta1236-1,13,ʔdætʔa ma hñũ,ʔdætʔa ma hñũ,[],,[],,False,False,,1
-esta1236-1-14-1,,esta1236-1,14,ʔdætʔa ma ɡoho,ʔdætʔa ma ɡoho,[],,[],,False,False,,1
-esta1236-1-15-1,,esta1236-1,15,ʔdætʔa ma kɨtʔa,ʔdætʔa ma kɨtʔa,[],,[],,False,False,,1
-esta1236-1-16-1,,esta1236-1,16,ʔdætʔa ma ʔdahto,ʔdætʔa ma ʔdahto,[],,[],,False,False,,1
-esta1236-1-17-1,,esta1236-1,17,ʔdætʔa ma yohto,ʔdætʔa ma yohto,[],,[],,False,False,,1
-esta1236-1-18-1,,esta1236-1,18,ʔdætʔa ma hñãhto,ʔdætʔa ma hñãhto,[],,[],,False,False,,1
-esta1236-1-19-1,,esta1236-1,19,ʔdætʔa ma ɡɨhto,ʔdætʔa ma ɡɨhto,[],,[],,False,False,,1
-esta1236-1-20-1,,esta1236-1,20,ʔnɔhte,ʔnɔhte,[],,[],,False,False,,1
-esta1236-1-21-1,,esta1236-1,21,ʔnɔhte ma ʔna,ʔnɔhte ma ʔna,[],,[],,False,False,,1
-esta1236-1-22-1,,esta1236-1,22,ʔnɔhte ma yoho,ʔnɔhte ma yoho,[],,[],,False,False,,1
-esta1236-1-23-1,,esta1236-1,23,ʔnɔhte ma hñũ,ʔnɔhte ma hñũ,[],,[],,False,False,,1
-esta1236-1-24-1,,esta1236-1,24,ʔnɔhte ma ɡoho,ʔnɔhte ma ɡoho,[],,[],,False,False,,1
-esta1236-1-25-1,,esta1236-1,25,ʔnɔhte ma kɨtʔa,ʔnɔhte ma kɨtʔa,[],,[],,False,False,,1
-esta1236-1-26-1,,esta1236-1,26,ʔnɔhte ma ʔdahto,ʔnɔhte ma ʔdahto,[],,[],,False,False,,1
-esta1236-1-27-1,,esta1236-1,27,ʔnɔhte ma yohto,ʔnɔhte ma yohto,[],,[],,False,False,,1
-esta1236-1-28-1,,esta1236-1,28,ʔnɔhte ma hñãhto,ʔnɔhte ma hñãhto,[],,[],,False,False,,1
-esta1236-1-29-1,,esta1236-1,29,ʔnɔhte ma ɡɨhto,ʔnɔhte ma ɡɨhto,[],,[],,False,False,,1
-esta1236-1-30-1,,esta1236-1,30,ʔnɔhte ʔnẽ ʔdætʔa,ʔnɔhte ʔnẽ ʔdætʔa,[],,[],,False,False,,1
-esta1236-1-40-1,,esta1236-1,40,yohte,yohte,[],( 2 x 'te' ),[],,False,False,,1
-esta1236-1-50-1,,esta1236-1,50,yohte ʔnẽ ʔdætʔa,yohte ʔnẽ ʔdætʔa,[],,[],,False,False,,1
-esta1236-1-60-1,,esta1236-1,60,hñũhte,hñũhte,[],( 3 x 'te' ),[],,False,False,,1
-esta1236-1-70-1,,esta1236-1,70,hñũhte ʔnẽ ʔdætʔa,hñũhte ʔnẽ ʔdætʔa,[],,[],,False,False,,1
-esta1236-1-80-1,,esta1236-1,80,ɡɨhte,ɡɨhte,[],( 4 x 'te' ),[],,False,False,,1
-esta1236-1-90-1,,esta1236-1,90,ɡɨhte ʔnẽ ʔdætʔa,ɡɨhte ʔnẽ ʔdætʔa,[],,[],,False,False,,1
-esta1236-1-100-1,,esta1236-1,100,siento,siento,[],( < Spanish ),[],,True,False,,1
-esta1236-1-200-1,,esta1236-1,200,dos sientos,dos sientos,[],,[],,False,False,,1
-esta1236-1-1000-1,,esta1236-1,1000,mil,mil,[],( < Spanish ),[],,True,False,,1
-esta1236-1-2000-1,,esta1236-1,2000,dos mil,dos mil,[],,[],,False,False,,1
+esta1236-1-1-1,,esta1236-1,1,ʔna,ʔna,[],,['chan2019'],,False,False,,1
+esta1236-1-2-1,,esta1236-1,2,yoho,yoho,[],,['chan2019'],,False,False,,1
+esta1236-1-3-1,,esta1236-1,3,hñũ,hñũ,[],,['chan2019'],,False,False,,1
+esta1236-1-4-1,,esta1236-1,4,ɡoho,ɡoho,[],,['chan2019'],,False,False,,1
+esta1236-1-5-1,,esta1236-1,5,kɨtʔa,kɨtʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-6-1,,esta1236-1,6,ʔdahto,ʔdahto,[],,['chan2019'],,False,False,,1
+esta1236-1-7-1,,esta1236-1,7,yohto,yohto,[],( 5 + 2 ),['chan2019'],,False,False,,1
+esta1236-1-8-1,,esta1236-1,8,hñãhto,hñãhto,[],( lit: 'one eight' ),['chan2019'],,False,False,,1
+esta1236-1-9-1,,esta1236-1,9,ɡɨhto,ɡɨhto,[],,['chan2019'],,False,False,,1
+esta1236-1-10-1,,esta1236-1,10,ʔdætʔa,ʔdætʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-11-1,,esta1236-1,11,ʔdætʔa ma ʔna,ʔdætʔa ma ʔna,[],,['chan2019'],,False,False,,1
+esta1236-1-12-1,,esta1236-1,12,ʔdætʔa ma yoho,ʔdætʔa ma yoho,[],,['chan2019'],,False,False,,1
+esta1236-1-13-1,,esta1236-1,13,ʔdætʔa ma hñũ,ʔdætʔa ma hñũ,[],,['chan2019'],,False,False,,1
+esta1236-1-14-1,,esta1236-1,14,ʔdætʔa ma ɡoho,ʔdætʔa ma ɡoho,[],,['chan2019'],,False,False,,1
+esta1236-1-15-1,,esta1236-1,15,ʔdætʔa ma kɨtʔa,ʔdætʔa ma kɨtʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-16-1,,esta1236-1,16,ʔdætʔa ma ʔdahto,ʔdætʔa ma ʔdahto,[],,['chan2019'],,False,False,,1
+esta1236-1-17-1,,esta1236-1,17,ʔdætʔa ma yohto,ʔdætʔa ma yohto,[],,['chan2019'],,False,False,,1
+esta1236-1-18-1,,esta1236-1,18,ʔdætʔa ma hñãhto,ʔdætʔa ma hñãhto,[],,['chan2019'],,False,False,,1
+esta1236-1-19-1,,esta1236-1,19,ʔdætʔa ma ɡɨhto,ʔdætʔa ma ɡɨhto,[],,['chan2019'],,False,False,,1
+esta1236-1-20-1,,esta1236-1,20,ʔnɔhte,ʔnɔhte,[],,['chan2019'],,False,False,,1
+esta1236-1-21-1,,esta1236-1,21,ʔnɔhte ma ʔna,ʔnɔhte ma ʔna,[],,['chan2019'],,False,False,,1
+esta1236-1-22-1,,esta1236-1,22,ʔnɔhte ma yoho,ʔnɔhte ma yoho,[],,['chan2019'],,False,False,,1
+esta1236-1-23-1,,esta1236-1,23,ʔnɔhte ma hñũ,ʔnɔhte ma hñũ,[],,['chan2019'],,False,False,,1
+esta1236-1-24-1,,esta1236-1,24,ʔnɔhte ma ɡoho,ʔnɔhte ma ɡoho,[],,['chan2019'],,False,False,,1
+esta1236-1-25-1,,esta1236-1,25,ʔnɔhte ma kɨtʔa,ʔnɔhte ma kɨtʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-26-1,,esta1236-1,26,ʔnɔhte ma ʔdahto,ʔnɔhte ma ʔdahto,[],,['chan2019'],,False,False,,1
+esta1236-1-27-1,,esta1236-1,27,ʔnɔhte ma yohto,ʔnɔhte ma yohto,[],,['chan2019'],,False,False,,1
+esta1236-1-28-1,,esta1236-1,28,ʔnɔhte ma hñãhto,ʔnɔhte ma hñãhto,[],,['chan2019'],,False,False,,1
+esta1236-1-29-1,,esta1236-1,29,ʔnɔhte ma ɡɨhto,ʔnɔhte ma ɡɨhto,[],,['chan2019'],,False,False,,1
+esta1236-1-30-1,,esta1236-1,30,ʔnɔhte ʔnẽ ʔdætʔa,ʔnɔhte ʔnẽ ʔdætʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-40-1,,esta1236-1,40,yohte,yohte,[],( 2 x 'te' ),['chan2019'],,False,False,,1
+esta1236-1-50-1,,esta1236-1,50,yohte ʔnẽ ʔdætʔa,yohte ʔnẽ ʔdætʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-60-1,,esta1236-1,60,hñũhte,hñũhte,[],( 3 x 'te' ),['chan2019'],,False,False,,1
+esta1236-1-70-1,,esta1236-1,70,hñũhte ʔnẽ ʔdætʔa,hñũhte ʔnẽ ʔdætʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-80-1,,esta1236-1,80,ɡɨhte,ɡɨhte,[],( 4 x 'te' ),['chan2019'],,False,False,,1
+esta1236-1-90-1,,esta1236-1,90,ɡɨhte ʔnẽ ʔdætʔa,ɡɨhte ʔnẽ ʔdætʔa,[],,['chan2019'],,False,False,,1
+esta1236-1-100-1,,esta1236-1,100,siento,siento,[],( < Spanish ),['chan2019'],,True,False,,1
+esta1236-1-200-1,,esta1236-1,200,dos sientos,dos sientos,[],,['chan2019'],,False,False,,1
+esta1236-1-1000-1,,esta1236-1,1000,mil,mil,[],( < Spanish ),['chan2019'],,True,False,,1
+esta1236-1-2000-1,,esta1236-1,2000,dos mil,dos mil,[],,['chan2019'],,False,False,,1

@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuli1255-1-1-1,,kuli1255-1,1,e'pa,e'pa,[],,[],,False,False,,1
-kuli1255-1-2-1,,kuli1255-1,2,da'bɨd,da'bɨd,[],,[],,False,False,,1
-kuli1255-1-3-1,,kuli1255-1,3,mɨ'tʂate 'tedtsɨk,mɨ'tʂate 'tedtsɨk,[],(litː ''a few on the hand''),[],,False,False,,1
-kuli1255-1-4-1,,kuli1255-1,4,mɨ'tʂate 'tedtsɨk,mɨ'tʂate 'tedtsɨk,[],(litː ''a few on the hand''),[],,False,False,,1
-kuli1255-1-5-1,,kuli1255-1,5,mɨ'tʂate 'tedi,mɨ'tʂate 'tedi,[],(litː '''all on the hand(s)''),[],,False,False,,1
-kuli1255-1-10-1,,kuli1255-1,10,mɨ'tʂate 'tedi,mɨ'tʂate 'tedi,[],(litː '''all on the hand(s)''),[],,False,False,,1
+kuli1255-1-1-1,,kuli1255-1,1,e'pa,e'pa,[],,['chan2019'],,False,False,,1
+kuli1255-1-2-1,,kuli1255-1,2,da'bɨd,da'bɨd,[],,['chan2019'],,False,False,,1
+kuli1255-1-3-1,,kuli1255-1,3,mɨ'tʂate 'tedtsɨk,mɨ'tʂate 'tedtsɨk,[],(litː ''a few on the hand''),['chan2019'],,False,False,,1
+kuli1255-1-4-1,,kuli1255-1,4,mɨ'tʂate 'tedtsɨk,mɨ'tʂate 'tedtsɨk,[],(litː ''a few on the hand''),['chan2019'],,False,False,,1
+kuli1255-1-5-1,,kuli1255-1,5,mɨ'tʂate 'tedi,mɨ'tʂate 'tedi,[],(litː '''all on the hand(s)''),['chan2019'],,False,False,,1
+kuli1255-1-10-1,,kuli1255-1,10,mɨ'tʂate 'tedi,mɨ'tʂate 'tedi,[],(litː '''all on the hand(s)''),['chan2019'],,False,False,,1

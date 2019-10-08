@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xxxx0013-1-1-1,,xxxx0013-1,1,ia45,ia45,[],,[],,False,False,,1
-xxxx0013-1-2-1,,xxxx0013-1,2,ŋi54,ŋi54,[],,[],,False,False,,1
-xxxx0013-1-3-1,,xxxx0013-1,3,suo33,suo33,[],,[],,False,False,,1
-xxxx0013-1-4-1,,xxxx0013-1,4,sei34,sei34,[],,[],,False,False,,1
-xxxx0013-1-5-1,,xxxx0013-1,5,ŋ̩31,ŋ̩31,[],,[],,False,False,,1
-xxxx0013-1-6-1,,xxxx0013-1,6,lau51,lau51,[],,[],,False,False,,1
-xxxx0013-1-7-1,,xxxx0013-1,7,tsʰa45,tsʰa45,[],,[],,False,False,,1
-xxxx0013-1-8-1,,xxxx0013-1,8,puo45,puo45,[],,[],,False,False,,1
-xxxx0013-1-9-1,,xxxx0013-1,9,kiau31,kiau31,[],,[],,False,False,,1
-xxxx0013-1-10-1,,xxxx0013-1,10,sa51,sa51,[],,[],,False,False,,1
-xxxx0013-1-11-1,,xxxx0013-1,11,sa51ia45,sa51ia45,[],,[],,False,False,,1
-xxxx0013-1-12-1,,xxxx0013-1,12,sa51ŋi54,sa51ŋi54,[],,[],,False,False,,1
-xxxx0013-1-13-1,,xxxx0013-1,13,sa51suo33,sa51suo33,[],,[],,False,False,,1
-xxxx0013-1-14-1,,xxxx0013-1,14,sa51sei34,sa51sei34,[],,[],,False,False,,1
-xxxx0013-1-15-1,,xxxx0013-1,15,sa51ŋ̩31,sa51ŋ̩31,[],,[],,False,False,,1
-xxxx0013-1-16-1,,xxxx0013-1,16,sa51lau51,sa51lau51,[],,[],,False,False,,1
-xxxx0013-1-17-1,,xxxx0013-1,17,sa51tsʰa45,sa51tsʰa45,[],,[],,False,False,,1
-xxxx0013-1-18-1,,xxxx0013-1,18,sa51puo45,sa51puo45,[],,[],,False,False,,1
-xxxx0013-1-19-1,,xxxx0013-1,19,sa51kiau31,sa51kiau31,[],,[],,False,False,,1
-xxxx0013-1-20-1,,xxxx0013-1,20,ŋi54sa51,ŋi54sa51,[],,[],,False,False,,1
-xxxx0013-1-21-1,,xxxx0013-1,21,ŋi54 (sa51) ia45,ŋi54 (sa51) ia45,[],,[],,False,False,,1
-xxxx0013-1-22-1,,xxxx0013-1,22,ŋi54 (sa51) ŋi54,ŋi54 (sa51) ŋi54,[],,[],,False,False,,1
-xxxx0013-1-23-1,,xxxx0013-1,23,ŋi54 (sa51) suo33,ŋi54 (sa51) suo33,[],,[],,False,False,,1
-xxxx0013-1-24-1,,xxxx0013-1,24,ŋi54 (sa51) sei34,ŋi54 (sa51) sei34,[],,[],,False,False,,1
-xxxx0013-1-25-1,,xxxx0013-1,25,ŋi54 (sa51) ŋ̩31,ŋi54 (sa51) ŋ̩31,[],,[],,False,False,,1
-xxxx0013-1-26-1,,xxxx0013-1,26,ŋi54 (sa51) lau51,ŋi54 (sa51) lau51,[],,[],,False,False,,1
-xxxx0013-1-27-1,,xxxx0013-1,27,ŋi54 (sa51) tsʰa45,ŋi54 (sa51) tsʰa45,[],,[],,False,False,,1
-xxxx0013-1-28-1,,xxxx0013-1,28,ŋi54 (sa51) puo45,ŋi54 (sa51) puo45,[],,[],,False,False,,1
-xxxx0013-1-29-1,,xxxx0013-1,29,ŋi54 (sa51) kiau31,ŋi54 (sa51) kiau31,[],,[],,False,False,,1
-xxxx0013-1-30-1,,xxxx0013-1,30,suo33 sa51,suo33 sa51,[],,[],,False,False,,1
-xxxx0013-1-40-1,,xxxx0013-1,40,sei34 sa51,sei34 sa51,[],,[],,False,False,,1
-xxxx0013-1-50-1,,xxxx0013-1,50,ŋ̩31 sa51,ŋ̩31 sa51,[],,[],,False,False,,1
-xxxx0013-1-60-1,,xxxx0013-1,60,lau51 sa51,lau51 sa51,[],,[],,False,False,,1
-xxxx0013-1-70-1,,xxxx0013-1,70,tsʰa45 sa51,tsʰa45 sa51,[],,[],,False,False,,1
-xxxx0013-1-80-1,,xxxx0013-1,80,puo45 sa51,puo45 sa51,[],,[],,False,False,,1
-xxxx0013-1-90-1,,xxxx0013-1,90,kiau31sa51,kiau31sa51,[],,[],,False,False,,1
-xxxx0013-1-100-1,,xxxx0013-1,100,i33 pie45,i33 pie45,[],,[],,False,False,,1
-xxxx0013-1-200-1,,xxxx0013-1,200,niəŋ31pie45,niəŋ31pie45,[],,[],,False,False,,1
-xxxx0013-1-1000-1,,xxxx0013-1,1000,i33 tsʰən33,i33 tsʰən33,[],,[],,False,False,,1
-xxxx0013-1-2000-1,,xxxx0013-1,2000,niəŋ31tsʰən33,niəŋ31tsʰən33,[],,[],,False,False,,1
+xxxx0013-1-1-1,,xxxx0013-1,1,ia45,ia45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-2-1,,xxxx0013-1,2,ŋi54,ŋi54,[],,['chan2019'],,False,False,,1
+xxxx0013-1-3-1,,xxxx0013-1,3,suo33,suo33,[],,['chan2019'],,False,False,,1
+xxxx0013-1-4-1,,xxxx0013-1,4,sei34,sei34,[],,['chan2019'],,False,False,,1
+xxxx0013-1-5-1,,xxxx0013-1,5,ŋ̩31,ŋ̩31,[],,['chan2019'],,False,False,,1
+xxxx0013-1-6-1,,xxxx0013-1,6,lau51,lau51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-7-1,,xxxx0013-1,7,tsʰa45,tsʰa45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-8-1,,xxxx0013-1,8,puo45,puo45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-9-1,,xxxx0013-1,9,kiau31,kiau31,[],,['chan2019'],,False,False,,1
+xxxx0013-1-10-1,,xxxx0013-1,10,sa51,sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-11-1,,xxxx0013-1,11,sa51ia45,sa51ia45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-12-1,,xxxx0013-1,12,sa51ŋi54,sa51ŋi54,[],,['chan2019'],,False,False,,1
+xxxx0013-1-13-1,,xxxx0013-1,13,sa51suo33,sa51suo33,[],,['chan2019'],,False,False,,1
+xxxx0013-1-14-1,,xxxx0013-1,14,sa51sei34,sa51sei34,[],,['chan2019'],,False,False,,1
+xxxx0013-1-15-1,,xxxx0013-1,15,sa51ŋ̩31,sa51ŋ̩31,[],,['chan2019'],,False,False,,1
+xxxx0013-1-16-1,,xxxx0013-1,16,sa51lau51,sa51lau51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-17-1,,xxxx0013-1,17,sa51tsʰa45,sa51tsʰa45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-18-1,,xxxx0013-1,18,sa51puo45,sa51puo45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-19-1,,xxxx0013-1,19,sa51kiau31,sa51kiau31,[],,['chan2019'],,False,False,,1
+xxxx0013-1-20-1,,xxxx0013-1,20,ŋi54sa51,ŋi54sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-21-1,,xxxx0013-1,21,ŋi54 (sa51) ia45,ŋi54 (sa51) ia45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-22-1,,xxxx0013-1,22,ŋi54 (sa51) ŋi54,ŋi54 (sa51) ŋi54,[],,['chan2019'],,False,False,,1
+xxxx0013-1-23-1,,xxxx0013-1,23,ŋi54 (sa51) suo33,ŋi54 (sa51) suo33,[],,['chan2019'],,False,False,,1
+xxxx0013-1-24-1,,xxxx0013-1,24,ŋi54 (sa51) sei34,ŋi54 (sa51) sei34,[],,['chan2019'],,False,False,,1
+xxxx0013-1-25-1,,xxxx0013-1,25,ŋi54 (sa51) ŋ̩31,ŋi54 (sa51) ŋ̩31,[],,['chan2019'],,False,False,,1
+xxxx0013-1-26-1,,xxxx0013-1,26,ŋi54 (sa51) lau51,ŋi54 (sa51) lau51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-27-1,,xxxx0013-1,27,ŋi54 (sa51) tsʰa45,ŋi54 (sa51) tsʰa45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-28-1,,xxxx0013-1,28,ŋi54 (sa51) puo45,ŋi54 (sa51) puo45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-29-1,,xxxx0013-1,29,ŋi54 (sa51) kiau31,ŋi54 (sa51) kiau31,[],,['chan2019'],,False,False,,1
+xxxx0013-1-30-1,,xxxx0013-1,30,suo33 sa51,suo33 sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-40-1,,xxxx0013-1,40,sei34 sa51,sei34 sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-50-1,,xxxx0013-1,50,ŋ̩31 sa51,ŋ̩31 sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-60-1,,xxxx0013-1,60,lau51 sa51,lau51 sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-70-1,,xxxx0013-1,70,tsʰa45 sa51,tsʰa45 sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-80-1,,xxxx0013-1,80,puo45 sa51,puo45 sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-90-1,,xxxx0013-1,90,kiau31sa51,kiau31sa51,[],,['chan2019'],,False,False,,1
+xxxx0013-1-100-1,,xxxx0013-1,100,i33 pie45,i33 pie45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-200-1,,xxxx0013-1,200,niəŋ31pie45,niəŋ31pie45,[],,['chan2019'],,False,False,,1
+xxxx0013-1-1000-1,,xxxx0013-1,1000,i33 tsʰən33,i33 tsʰən33,[],,['chan2019'],,False,False,,1
+xxxx0013-1-2000-1,,xxxx0013-1,2000,niəŋ31tsʰən33,niəŋ31tsʰən33,[],,['chan2019'],,False,False,,1

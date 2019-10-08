@@ -1,32 +1,32 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-turk1308-1-1-1,,turk1308-1,1,a-péy ̀,a-péy ̀,[],,[],,False,False,,1
-turk1308-1-2-1,,turk1308-1,2,ŋa-áréy ̀,ŋa-áréy ̀,[],,[],,False,False,,1
-turk1308-1-3-1,,turk1308-1,3,ŋa-úní ̀,ŋa-úní ̀,[],,[],,False,False,,1
-turk1308-1-4-1,,turk1308-1,4,ŋa-ómwɔ̀n ̀,ŋa-ómwɔ̀n ̀,[],,[],,False,False,,1
-turk1308-1-5-1,,turk1308-1,5,ŋa-kànɪ̥,ŋa-kànɪ̥,[],( < hand),[],,False,False,,1
-turk1308-1-6-1,,turk1308-1,6,ŋa-kanɪ ka-péy,ŋa-kanɪ ka-péy,[],( 5 + 1 ),[],,False,False,,1
-turk1308-1-7-1,,turk1308-1,7,ŋa-kanɪ ka-áréy,ŋa-kanɪ ka-áréy,[],( 5 + 2 ),[],,False,False,,1
-turk1308-1-8-1,,turk1308-1,8,ŋa-kanɪ ka-úní,ŋa-kanɪ ka-úní,[],( 5 + 3 ),[],,False,False,,1
-turk1308-1-9-1,,turk1308-1,9,ŋa-kanɪ ka-ómwɔ̀n,ŋa-kanɪ ka-ómwɔ̀n,[],( 5 + 4 ),[],,False,False,,1
-turk1308-1-10-1,,turk1308-1,10,ŋa-tɔ̀mɔn,ŋa-tɔ̀mɔn,[],,[],,False,False,,1
-turk1308-1-11-1,,turk1308-1,11,ŋa-tɔ̀mɔn kà péì,ŋa-tɔ̀mɔn kà péì,[],,[],,False,False,,1
-turk1308-1-12-1,,turk1308-1,12,ŋa-tɔ̀mɔn kà áréì,ŋa-tɔ̀mɔn kà áréì,[],,[],,False,False,,1
-turk1308-1-13-1,,turk1308-1,13,ŋa-tɔ̀mɔn kà ʊ́nì,ŋa-tɔ̀mɔn kà ʊ́nì,[],,[],,False,False,,1
-turk1308-1-14-1,,turk1308-1,14,ŋa-tɔ̀mɔn kà ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn kà ɔ́ŋwɔ́n,[],,[],,False,False,,1
-turk1308-1-15-1,,turk1308-1,15,ŋa-tɔ̀mɔn kà kànì̥,ŋa-tɔ̀mɔn kà kànì̥,[],,[],,False,False,,1
-turk1308-1-16-1,,turk1308-1,16,ŋa-tɔ̀mɔn kà kànì̥ kà-péì,ŋa-tɔ̀mɔn kà kànì̥ kà-péì,[],,[],,False,False,,1
-turk1308-1-17-1,,turk1308-1,17,ŋa-tɔ̀mɔn kà kànì̥ kà-àréì,ŋa-tɔ̀mɔn kà kànì̥ kà-àréì,[],,[],,False,False,,1
-turk1308-1-18-1,,turk1308-1,18,ŋa-tɔ̀mɔn kà kànì̥ kà-ʊ́ní,ŋa-tɔ̀mɔn kà kànì̥ kà-ʊ́ní,[],,[],,False,False,,1
-turk1308-1-19-1,,turk1308-1,19,ŋa-tɔ̀mɔn kà kànì̥ kà-ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn kà kànì̥ kà-ɔ́ŋwɔ́n,[],,[],,False,False,,1
-turk1308-1-20-1,,turk1308-1,20,ŋa-tɔ̀mɔn áréì,ŋa-tɔ̀mɔn áréì,[],,[],,False,False,,1
-turk1308-1-21-1,,turk1308-1,21,ŋa-tɔ̀mɔn árey ka ̀ a-péy ̀,ŋa-tɔ̀mɔn árey ka ̀ a-péy ̀,[],,[],,False,False,,1
-turk1308-1-30-1,,turk1308-1,30,ŋa-tɔ̀mɔn úní,ŋa-tɔ̀mɔn úní,[],,[],,False,False,,1
-turk1308-1-40-1,,turk1308-1,40,ŋa-tɔ̀mɔn ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn ɔ́ŋwɔ́n,[],,[],,False,False,,1
-turk1308-1-50-1,,turk1308-1,50,ŋa-tɔ̀mɔn kànì̥,ŋa-tɔ̀mɔn kànì̥,[],,[],,False,False,,1
-turk1308-1-60-1,,turk1308-1,60,ŋa-tɔ̀mɔn kànì̥ kà-péì,ŋa-tɔ̀mɔn kànì̥ kà-péì,[],,[],,False,False,,1
-turk1308-1-70-1,,turk1308-1,70,ŋa-tɔ̀mɔn kànì̥ kà-àréì,ŋa-tɔ̀mɔn kànì̥ kà-àréì,[],,[],,False,False,,1
-turk1308-1-80-1,,turk1308-1,80,ŋa-tɔ̀mɔn kànì̥ kà-ʊ́ní,ŋa-tɔ̀mɔn kànì̥ kà-ʊ́ní,[],,[],,False,False,,1
-turk1308-1-90-1,,turk1308-1,90,ŋa-tɔ̀mɔn kànì̥ kà-ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn kànì̥ kà-ɔ́ŋwɔ́n,[],,[],,False,False,,1
-turk1308-1-100-1,,turk1308-1,100,a-kɪtɔ-ɪ ̀ a-pey,a-kɪtɔ-ɪ ̀ a-pey,[],,[],,False,False,,1
-turk1308-1-100-2,,turk1308-1,100,a-mì-at a-pey ̀,a-mì-at a-pey ̀,[],,[],,False,False,,1
-turk1308-1-1000-1,,turk1308-1,1000,a-bʊ̀ŋ-ɛt,a-bʊ̀ŋ-ɛt,[],,[],,False,False,,1
+turk1308-1-1-1,,turk1308-1,1,a-péy ̀,a-péy ̀,[],,['chan2019'],,False,False,,1
+turk1308-1-2-1,,turk1308-1,2,ŋa-áréy ̀,ŋa-áréy ̀,[],,['chan2019'],,False,False,,1
+turk1308-1-3-1,,turk1308-1,3,ŋa-úní ̀,ŋa-úní ̀,[],,['chan2019'],,False,False,,1
+turk1308-1-4-1,,turk1308-1,4,ŋa-ómwɔ̀n ̀,ŋa-ómwɔ̀n ̀,[],,['chan2019'],,False,False,,1
+turk1308-1-5-1,,turk1308-1,5,ŋa-kànɪ̥,ŋa-kànɪ̥,[],( < hand),['chan2019'],,False,False,,1
+turk1308-1-6-1,,turk1308-1,6,ŋa-kanɪ ka-péy,ŋa-kanɪ ka-péy,[],( 5 + 1 ),['chan2019'],,False,False,,1
+turk1308-1-7-1,,turk1308-1,7,ŋa-kanɪ ka-áréy,ŋa-kanɪ ka-áréy,[],( 5 + 2 ),['chan2019'],,False,False,,1
+turk1308-1-8-1,,turk1308-1,8,ŋa-kanɪ ka-úní,ŋa-kanɪ ka-úní,[],( 5 + 3 ),['chan2019'],,False,False,,1
+turk1308-1-9-1,,turk1308-1,9,ŋa-kanɪ ka-ómwɔ̀n,ŋa-kanɪ ka-ómwɔ̀n,[],( 5 + 4 ),['chan2019'],,False,False,,1
+turk1308-1-10-1,,turk1308-1,10,ŋa-tɔ̀mɔn,ŋa-tɔ̀mɔn,[],,['chan2019'],,False,False,,1
+turk1308-1-11-1,,turk1308-1,11,ŋa-tɔ̀mɔn kà péì,ŋa-tɔ̀mɔn kà péì,[],,['chan2019'],,False,False,,1
+turk1308-1-12-1,,turk1308-1,12,ŋa-tɔ̀mɔn kà áréì,ŋa-tɔ̀mɔn kà áréì,[],,['chan2019'],,False,False,,1
+turk1308-1-13-1,,turk1308-1,13,ŋa-tɔ̀mɔn kà ʊ́nì,ŋa-tɔ̀mɔn kà ʊ́nì,[],,['chan2019'],,False,False,,1
+turk1308-1-14-1,,turk1308-1,14,ŋa-tɔ̀mɔn kà ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn kà ɔ́ŋwɔ́n,[],,['chan2019'],,False,False,,1
+turk1308-1-15-1,,turk1308-1,15,ŋa-tɔ̀mɔn kà kànì̥,ŋa-tɔ̀mɔn kà kànì̥,[],,['chan2019'],,False,False,,1
+turk1308-1-16-1,,turk1308-1,16,ŋa-tɔ̀mɔn kà kànì̥ kà-péì,ŋa-tɔ̀mɔn kà kànì̥ kà-péì,[],,['chan2019'],,False,False,,1
+turk1308-1-17-1,,turk1308-1,17,ŋa-tɔ̀mɔn kà kànì̥ kà-àréì,ŋa-tɔ̀mɔn kà kànì̥ kà-àréì,[],,['chan2019'],,False,False,,1
+turk1308-1-18-1,,turk1308-1,18,ŋa-tɔ̀mɔn kà kànì̥ kà-ʊ́ní,ŋa-tɔ̀mɔn kà kànì̥ kà-ʊ́ní,[],,['chan2019'],,False,False,,1
+turk1308-1-19-1,,turk1308-1,19,ŋa-tɔ̀mɔn kà kànì̥ kà-ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn kà kànì̥ kà-ɔ́ŋwɔ́n,[],,['chan2019'],,False,False,,1
+turk1308-1-20-1,,turk1308-1,20,ŋa-tɔ̀mɔn áréì,ŋa-tɔ̀mɔn áréì,[],,['chan2019'],,False,False,,1
+turk1308-1-21-1,,turk1308-1,21,ŋa-tɔ̀mɔn árey ka ̀ a-péy ̀,ŋa-tɔ̀mɔn árey ka ̀ a-péy ̀,[],,['chan2019'],,False,False,,1
+turk1308-1-30-1,,turk1308-1,30,ŋa-tɔ̀mɔn úní,ŋa-tɔ̀mɔn úní,[],,['chan2019'],,False,False,,1
+turk1308-1-40-1,,turk1308-1,40,ŋa-tɔ̀mɔn ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn ɔ́ŋwɔ́n,[],,['chan2019'],,False,False,,1
+turk1308-1-50-1,,turk1308-1,50,ŋa-tɔ̀mɔn kànì̥,ŋa-tɔ̀mɔn kànì̥,[],,['chan2019'],,False,False,,1
+turk1308-1-60-1,,turk1308-1,60,ŋa-tɔ̀mɔn kànì̥ kà-péì,ŋa-tɔ̀mɔn kànì̥ kà-péì,[],,['chan2019'],,False,False,,1
+turk1308-1-70-1,,turk1308-1,70,ŋa-tɔ̀mɔn kànì̥ kà-àréì,ŋa-tɔ̀mɔn kànì̥ kà-àréì,[],,['chan2019'],,False,False,,1
+turk1308-1-80-1,,turk1308-1,80,ŋa-tɔ̀mɔn kànì̥ kà-ʊ́ní,ŋa-tɔ̀mɔn kànì̥ kà-ʊ́ní,[],,['chan2019'],,False,False,,1
+turk1308-1-90-1,,turk1308-1,90,ŋa-tɔ̀mɔn kànì̥ kà-ɔ́ŋwɔ́n,ŋa-tɔ̀mɔn kànì̥ kà-ɔ́ŋwɔ́n,[],,['chan2019'],,False,False,,1
+turk1308-1-100-1,,turk1308-1,100,a-kɪtɔ-ɪ ̀ a-pey,a-kɪtɔ-ɪ ̀ a-pey,[],,['chan2019'],,False,False,,1
+turk1308-1-100-2,,turk1308-1,100,a-mì-at a-pey ̀,a-mì-at a-pey ̀,[],,['chan2019'],,False,False,,1
+turk1308-1-1000-1,,turk1308-1,1000,a-bʊ̀ŋ-ɛt,a-bʊ̀ŋ-ɛt,[],,['chan2019'],,False,False,,1

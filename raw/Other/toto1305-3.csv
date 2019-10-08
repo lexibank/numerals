@@ -1,27 +1,27 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-toto1305-3-1-1,,toto1305-3,1,tʊʔk,tʊʔk,[],,[],,False,False,tʊ'k,2
-toto1305-3-2-1,,toto1305-3,2,mæht͡sk,mæht͡sk,[],,[],,False,False,mæhck,2
-toto1305-3-3-1,,toto1305-3,3,tʊːhk,tʊːhk,[],,[],,False,False,tʊːhk,2
-toto1305-3-4-1,,toto1305-3,4,maktáːʂk,maktáːʂk,[],,[],,False,False,maktáːš̩k,2
-toto1305-3-5-1,,toto1305-3,5,muɡóːʂk,muɡóːʂk,[],,[],,False,False,muɡóːš̩k,2
-toto1305-3-6-1,,toto1305-3,6,tʊ́htʌk,tʊ́htʌk,[],,[],,False,False,tʊ́htʌk,2
-toto1305-3-7-1,,toto1305-3,7,vuʂtʊ́htʌk,vuʂtʊ́htʌk,[],,[],,False,False,vuš̩tʊ́htʌk,2
-toto1305-3-8-1,,toto1305-3,8,tʊːdʊ́htʌk,tʊːdʊ́htʌk,[],,[],,False,False,tʊːdʊ́htʌk,2
-toto1305-3-9-1,,toto1305-3,9,taːʂtʊ́htʌk,taːʂtʊ́htʌk,[],,[],,False,False,taːš̩tʊ́htʌk,2
-toto1305-3-10-1,,toto1305-3,10,mahk,mahk,[],,[],,False,False,mahk,2
-toto1305-3-11-1,,toto1305-3,11,maktʊʔk,maktʊʔk,[],,[],,False,False,maktʊ'k,2
-toto1305-3-12-1,,toto1305-3,12,makmǽht͡sk,makmǽht͡sk,[],,[],,False,False,makmǽhck,2
-toto1305-3-13-1,,toto1305-3,13,maktʊ́ːhk,maktʊ́ːhk,[],,[],,False,False,maktʊ́ːhk,2
-toto1305-3-14-1,,toto1305-3,14,makmáhkt͡s,makmáhkt͡s,[],,[],,False,False,makmáhkc,2
-toto1305-3-15-1,,toto1305-3,15,makmókʂ,makmókʂ,[],,[],,False,False,makmókš̩,2
-toto1305-3-16-1,,toto1305-3,16,maktʊ́ht,maktʊ́ht,[],,[],,False,False,maktʊ́ht,2
-toto1305-3-17-1,,toto1305-3,17,makvuʂtʊ́ht,makvuʂtʊ́ht,[],,[],,False,False,makvuš̩tʊ́ht,2
-toto1305-3-18-1,,toto1305-3,18,maktʊːdʊ́ht,maktʊːdʊ́ht,[],,[],,False,False,maktʊːdʊ́ht,2
-toto1305-3-19-1,,toto1305-3,19,maktaːʂtʊ́ht,maktaːʂtʊ́ht,[],,[],,False,False,maktaːš̩tʊ́ht,2
-toto1305-3-20-1,,toto1305-3,20,ʔiːpʂ,ʔiːpʂ,[],,[],,False,False,'iː'pš̩,2
-toto1305-3-30-1,,toto1305-3,30,ʔiːpʂmáhk,ʔiːpʂmáhk,[],,[],,False,False,'iː'pš̩máhk,2
-toto1305-3-40-1,,toto1305-3,40,və́hʂtkupʂ,və́hʂtkupʂ,[],( 2 x 20 ),[],,False,False,və́hš̩tkupš̩,2
-toto1305-3-60-1,,toto1305-3,60,tʊ́ːɡupʂ,tʊ́ːɡupʂ,[],( 3 x 20 ),[],,False,False,tʊ́ːɡupš̩,2
-toto1305-3-80-1,,toto1305-3,80,máhkupʂ,máhkupʂ,[],( 4 x 20 ),[],,False,False,máhktupš̩,2
-toto1305-3-100-1,,toto1305-3,100,móktupʂ,móktupʂ,[],( 5 x 20 ),[],,False,False,móktupš̩,2
-toto1305-3-200-1,,toto1305-3,200,mæht͡sk móktupʂ,mæht͡sk móktupʂ,[],,[],,False,False,mæhck móktupš̩,2
+toto1305-3-1-1,,toto1305-3,1,tʊʔk,tʊʔk,[],,['chan2019'],,False,False,tʊ'k,2
+toto1305-3-2-1,,toto1305-3,2,mæht͡sk,mæht͡sk,[],,['chan2019'],,False,False,mæhck,2
+toto1305-3-3-1,,toto1305-3,3,tʊːhk,tʊːhk,[],,['chan2019'],,False,False,tʊːhk,2
+toto1305-3-4-1,,toto1305-3,4,maktáːʂk,maktáːʂk,[],,['chan2019'],,False,False,maktáːš̩k,2
+toto1305-3-5-1,,toto1305-3,5,muɡóːʂk,muɡóːʂk,[],,['chan2019'],,False,False,muɡóːš̩k,2
+toto1305-3-6-1,,toto1305-3,6,tʊ́htʌk,tʊ́htʌk,[],,['chan2019'],,False,False,tʊ́htʌk,2
+toto1305-3-7-1,,toto1305-3,7,vuʂtʊ́htʌk,vuʂtʊ́htʌk,[],,['chan2019'],,False,False,vuš̩tʊ́htʌk,2
+toto1305-3-8-1,,toto1305-3,8,tʊːdʊ́htʌk,tʊːdʊ́htʌk,[],,['chan2019'],,False,False,tʊːdʊ́htʌk,2
+toto1305-3-9-1,,toto1305-3,9,taːʂtʊ́htʌk,taːʂtʊ́htʌk,[],,['chan2019'],,False,False,taːš̩tʊ́htʌk,2
+toto1305-3-10-1,,toto1305-3,10,mahk,mahk,[],,['chan2019'],,False,False,mahk,2
+toto1305-3-11-1,,toto1305-3,11,maktʊʔk,maktʊʔk,[],,['chan2019'],,False,False,maktʊ'k,2
+toto1305-3-12-1,,toto1305-3,12,makmǽht͡sk,makmǽht͡sk,[],,['chan2019'],,False,False,makmǽhck,2
+toto1305-3-13-1,,toto1305-3,13,maktʊ́ːhk,maktʊ́ːhk,[],,['chan2019'],,False,False,maktʊ́ːhk,2
+toto1305-3-14-1,,toto1305-3,14,makmáhkt͡s,makmáhkt͡s,[],,['chan2019'],,False,False,makmáhkc,2
+toto1305-3-15-1,,toto1305-3,15,makmókʂ,makmókʂ,[],,['chan2019'],,False,False,makmókš̩,2
+toto1305-3-16-1,,toto1305-3,16,maktʊ́ht,maktʊ́ht,[],,['chan2019'],,False,False,maktʊ́ht,2
+toto1305-3-17-1,,toto1305-3,17,makvuʂtʊ́ht,makvuʂtʊ́ht,[],,['chan2019'],,False,False,makvuš̩tʊ́ht,2
+toto1305-3-18-1,,toto1305-3,18,maktʊːdʊ́ht,maktʊːdʊ́ht,[],,['chan2019'],,False,False,maktʊːdʊ́ht,2
+toto1305-3-19-1,,toto1305-3,19,maktaːʂtʊ́ht,maktaːʂtʊ́ht,[],,['chan2019'],,False,False,maktaːš̩tʊ́ht,2
+toto1305-3-20-1,,toto1305-3,20,ʔiːpʂ,ʔiːpʂ,[],,['chan2019'],,False,False,'iː'pš̩,2
+toto1305-3-30-1,,toto1305-3,30,ʔiːpʂmáhk,ʔiːpʂmáhk,[],,['chan2019'],,False,False,'iː'pš̩máhk,2
+toto1305-3-40-1,,toto1305-3,40,və́hʂtkupʂ,və́hʂtkupʂ,[],( 2 x 20 ),['chan2019'],,False,False,və́hš̩tkupš̩,2
+toto1305-3-60-1,,toto1305-3,60,tʊ́ːɡupʂ,tʊ́ːɡupʂ,[],( 3 x 20 ),['chan2019'],,False,False,tʊ́ːɡupš̩,2
+toto1305-3-80-1,,toto1305-3,80,máhkupʂ,máhkupʂ,[],( 4 x 20 ),['chan2019'],,False,False,máhktupš̩,2
+toto1305-3-100-1,,toto1305-3,100,móktupʂ,móktupʂ,[],( 5 x 20 ),['chan2019'],,False,False,móktupš̩,2
+toto1305-3-200-1,,toto1305-3,200,mæht͡sk móktupʂ,mæht͡sk móktupʂ,[],,['chan2019'],,False,False,mæhck móktupš̩,2

@@ -1,29 +1,29 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yimc1240-3-1-1,,yimc1240-3,1,khülang,khülang,[],,[],,False,False,,3
-yimc1240-3-2-1,,yimc1240-3,2,manie,manie,[],,[],,False,False,,3
-yimc1240-3-3-1,,yimc1240-3,3,asam,asam,[],,[],,False,False,,3
-yimc1240-3-4-1,,yimc1240-3,4,phiyi,phiyi,[],,[],,False,False,,3
-yimc1240-3-5-1,,yimc1240-3,5,phüngü,phüngü,[],,[],,False,False,,3
-yimc1240-3-6-1,,yimc1240-3,6,thruruk,thruruk,[],,[],,False,False,,3
-yimc1240-3-7-1,,yimc1240-3,7,thünie,thünie,[],,[],,False,False,,3
-yimc1240-3-8-1,,yimc1240-3,8,tizha,tizha,[],,[],,False,False,,3
-yimc1240-3-9-1,,yimc1240-3,9,tuku,tuku,[],,[],,False,False,,3
-yimc1240-3-10-1,,yimc1240-3,10,thürü,thürü,[],,[],,False,False,,3
-yimc1240-3-11-1,,yimc1240-3,11,thurukheak khülang,thurukheak khülang,[],,[],,False,False,,3
-yimc1240-3-12-1,,yimc1240-3,12,thurukheak manie,thurukheak manie,[],,[],,False,False,,3
-yimc1240-3-13-1,,yimc1240-3,13,thurukheak asam,thurukheak asam,[],,[],,False,False,,3
-yimc1240-3-14-1,,yimc1240-3,14,thurukheak phiyi,thurukheak phiyi,[],,[],,False,False,,3
-yimc1240-3-15-1,,yimc1240-3,15,thurukheak phüngü,thurukheak phüngü,[],,[],,False,False,,3
-yimc1240-3-16-1,,yimc1240-3,16,thurukheak thruruk,thurukheak thruruk,[],,[],,False,False,,3
-yimc1240-3-17-1,,yimc1240-3,17,thurukheak thünie,thurukheak thünie,[],,[],,False,False,,3
-yimc1240-3-18-1,,yimc1240-3,18,thurukheak tizha,thurukheak tizha,[],,[],,False,False,,3
-yimc1240-3-19-1,,yimc1240-3,19,thurukheak tuku,thurukheak tuku,[],,[],,False,False,,3
-yimc1240-3-20-1,,yimc1240-3,20,muku,muku,[],,[],,False,False,,3
-yimc1240-3-30-1,,yimc1240-3,30,samrü,samrü,[],,[],,False,False,,3
-yimc1240-3-40-1,,yimc1240-3,40,yirür,yirür,[],,[],,False,False,,3
-yimc1240-3-50-1,,yimc1240-3,50,thünim,thünim,[],,[],,False,False,,3
-yimc1240-3-60-1,,yimc1240-3,60,rukrü,rukrü,[],,[],,False,False,,3
-yimc1240-3-70-1,,yimc1240-3,70,nierü,nierü,[],,[],,False,False,,3
-yimc1240-3-80-1,,yimc1240-3,80,zharü,zharü,[],,[],,False,False,,3
-yimc1240-3-90-1,,yimc1240-3,90,kurü,kurü,[],,[],,False,False,,3
-yimc1240-3-100-1,,yimc1240-3,100,amükhepin,amükhepin,[],,[],,False,False,,3
+yimc1240-3-1-1,,yimc1240-3,1,khülang,khülang,[],,['chan2019'],,False,False,,3
+yimc1240-3-2-1,,yimc1240-3,2,manie,manie,[],,['chan2019'],,False,False,,3
+yimc1240-3-3-1,,yimc1240-3,3,asam,asam,[],,['chan2019'],,False,False,,3
+yimc1240-3-4-1,,yimc1240-3,4,phiyi,phiyi,[],,['chan2019'],,False,False,,3
+yimc1240-3-5-1,,yimc1240-3,5,phüngü,phüngü,[],,['chan2019'],,False,False,,3
+yimc1240-3-6-1,,yimc1240-3,6,thruruk,thruruk,[],,['chan2019'],,False,False,,3
+yimc1240-3-7-1,,yimc1240-3,7,thünie,thünie,[],,['chan2019'],,False,False,,3
+yimc1240-3-8-1,,yimc1240-3,8,tizha,tizha,[],,['chan2019'],,False,False,,3
+yimc1240-3-9-1,,yimc1240-3,9,tuku,tuku,[],,['chan2019'],,False,False,,3
+yimc1240-3-10-1,,yimc1240-3,10,thürü,thürü,[],,['chan2019'],,False,False,,3
+yimc1240-3-11-1,,yimc1240-3,11,thurukheak khülang,thurukheak khülang,[],,['chan2019'],,False,False,,3
+yimc1240-3-12-1,,yimc1240-3,12,thurukheak manie,thurukheak manie,[],,['chan2019'],,False,False,,3
+yimc1240-3-13-1,,yimc1240-3,13,thurukheak asam,thurukheak asam,[],,['chan2019'],,False,False,,3
+yimc1240-3-14-1,,yimc1240-3,14,thurukheak phiyi,thurukheak phiyi,[],,['chan2019'],,False,False,,3
+yimc1240-3-15-1,,yimc1240-3,15,thurukheak phüngü,thurukheak phüngü,[],,['chan2019'],,False,False,,3
+yimc1240-3-16-1,,yimc1240-3,16,thurukheak thruruk,thurukheak thruruk,[],,['chan2019'],,False,False,,3
+yimc1240-3-17-1,,yimc1240-3,17,thurukheak thünie,thurukheak thünie,[],,['chan2019'],,False,False,,3
+yimc1240-3-18-1,,yimc1240-3,18,thurukheak tizha,thurukheak tizha,[],,['chan2019'],,False,False,,3
+yimc1240-3-19-1,,yimc1240-3,19,thurukheak tuku,thurukheak tuku,[],,['chan2019'],,False,False,,3
+yimc1240-3-20-1,,yimc1240-3,20,muku,muku,[],,['chan2019'],,False,False,,3
+yimc1240-3-30-1,,yimc1240-3,30,samrü,samrü,[],,['chan2019'],,False,False,,3
+yimc1240-3-40-1,,yimc1240-3,40,yirür,yirür,[],,['chan2019'],,False,False,,3
+yimc1240-3-50-1,,yimc1240-3,50,thünim,thünim,[],,['chan2019'],,False,False,,3
+yimc1240-3-60-1,,yimc1240-3,60,rukrü,rukrü,[],,['chan2019'],,False,False,,3
+yimc1240-3-70-1,,yimc1240-3,70,nierü,nierü,[],,['chan2019'],,False,False,,3
+yimc1240-3-80-1,,yimc1240-3,80,zharü,zharü,[],,['chan2019'],,False,False,,3
+yimc1240-3-90-1,,yimc1240-3,90,kurü,kurü,[],,['chan2019'],,False,False,,3
+yimc1240-3-100-1,,yimc1240-3,100,amükhepin,amükhepin,[],,['chan2019'],,False,False,,3

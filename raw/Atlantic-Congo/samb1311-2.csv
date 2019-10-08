@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-samb1311-2-1-1,,samb1311-2,1,nòòní,nòòní,[],,[],,False,False,,2
-samb1311-2-2-1,,samb1311-2,2,bààrá,bààrá,[],,[],,False,False,,2
-samb1311-2-3-1,,samb1311-2,3,tárā,tárā,[],,[],,False,False,,2
-samb1311-2-4-1,,samb1311-2,4,nààsá,nààsá,[],,[],,False,False,,2
-samb1311-2-5-1,,samb1311-2,5,túùná,túùná,[],,[],,False,False,,2
-samb1311-2-6-1,,samb1311-2,6,túnìn,túnìn,[],,[],,False,False,,2
-samb1311-2-7-1,,samb1311-2,7,dùtím,dùtím,[],,[],,False,False,,2
-samb1311-2-8-1,,samb1311-2,8,dùtím-kə́rə́rə́,dùtím-kə́rə́rə́,[],( 7+ 1 ),[],,False,False,,2
-samb1311-2-9-1,,samb1311-2,9,kúūm,kúūm,[],,[],,False,False,,2
-samb1311-2-10-1,,samb1311-2,10,kúūm-kə́rə́rə́,kúūm-kə́rə́rə́,[],( 9+ 1 ),[],,False,False,,2
-samb1311-2-11-1,,samb1311-2,11,kúūm-bàà nòòní,kúūm-bàà nòòní,[],,[],,False,False,,2
-samb1311-2-12-1,,samb1311-2,12,kúūm-bàà bààrá,kúūm-bàà bààrá,[],,[],,False,False,,2
-samb1311-2-13-1,,samb1311-2,13,kúūm-bàà tárā,kúūm-bàà tárā,[],,[],,False,False,,2
-samb1311-2-14-1,,samb1311-2,14,kúūm-bàà nààsá,kúūm-bàà nààsá,[],,[],,False,False,,2
-samb1311-2-15-1,,samb1311-2,15,kúūm-bàà túùná,kúūm-bàà túùná,[],,[],,False,False,,2
-samb1311-2-16-1,,samb1311-2,16,kúūm-bàà túnìn,kúūm-bàà túnìn,[],,[],,False,False,,2
-samb1311-2-17-1,,samb1311-2,17,kúūm-bàà dùtím,kúūm-bàà dùtím,[],,[],,False,False,,2
-samb1311-2-18-1,,samb1311-2,18,kúūm-bàà dùtím-kə́rə́rə,kúūm-bàà dùtím-kə́rə́rə,[],,[],,False,False,,2
-samb1311-2-19-1,,samb1311-2,19,kúūm-bàà kúūm,kúūm-bàà kúūm,[],,[],,False,False,,2
-samb1311-2-20-1,,samb1311-2,20,mūm nòòní,mūm nòòní,[],,[],,False,False,,2
-samb1311-2-21-1,,samb1311-2,21,mūm nòòní méém nòòní,mūm nòòní méém nòòní,[],,[],,False,False,,2
-samb1311-2-22-1,,samb1311-2,22,mūm nòòní méém bààrá,mūm nòòní méém bààrá,[],,[],,False,False,,2
-samb1311-2-23-1,,samb1311-2,23,mūm nòòní méém tárā,mūm nòòní méém tárā,[],,[],,False,False,,2
-samb1311-2-24-1,,samb1311-2,24,mūm nòòní méém nààsá,mūm nòòní méém nààsá,[],,[],,False,False,,2
-samb1311-2-25-1,,samb1311-2,25,mūm nòòní méém túùná,mūm nòòní méém túùná,[],,[],,False,False,,2
-samb1311-2-26-1,,samb1311-2,26,mūm nòòní méém túnìn,mūm nòòní méém túnìn,[],,[],,False,False,,2
-samb1311-2-27-1,,samb1311-2,27,mūm nòòní méém dùtím,mūm nòòní méém dùtím,[],,[],,False,False,,2
-samb1311-2-28-1,,samb1311-2,28,mūm nòòní méém dùtím-kə́rə́rə,mūm nòòní méém dùtím-kə́rə́rə,[],,[],,False,False,,2
-samb1311-2-29-1,,samb1311-2,29,mūm nòòní méém kúūm,mūm nòòní méém kúūm,[],,[],,False,False,,2
-samb1311-2-30-1,,samb1311-2,30,mūm nòòni méém kúūm,mūm nòòni méém kúūm,[],,[],,False,False,,2
-samb1311-2-40-1,,samb1311-2,40,nōō bààrá,nōō bààrá,[],,[],,False,False,,2
-samb1311-2-50-1,,samb1311-2,50,nōō bààrá méém kúūm,nōō bààrá méém kúūm,[],( 20+ 10 ),[],,False,False,,2
-samb1311-2-60-1,,samb1311-2,60,nōō tárā,nōō tárā,[],( 20 x 3 ),[],,False,False,,2
-samb1311-2-70-1,,samb1311-2,70,nōō tárā méém kúūm,nōō tárā méém kúūm,[],( 20 x 3 + 10 ),[],,False,False,,2
-samb1311-2-80-1,,samb1311-2,80,nōō nààsá,nōō nààsá,[],( 20 x 4 ),[],,False,False,,2
-samb1311-2-90-1,,samb1311-2,90,nōō nààsá méém kúūm,nōō nààsá méém kúūm,[],,[],,False,False,,2
-samb1311-2-100-1,,samb1311-2,100,nōō túùná,nōō túùná,[],( 20 x 5 ),[],,False,False,,2
-samb1311-2-200-1,,samb1311-2,200,nōō túùná bùm bààrá,nōō túùná bùm bààrá,[],( 20 x 5  x 2 ),[],,False,False,,2
-samb1311-2-1000-1,,samb1311-2,1000,nōō túùná bùm bààrá kúūm-kə́rə́rə́,nōō túùná bùm bààrá kúūm-kə́rə́rə́,[],,[],,False,False,,2
-samb1311-2-2000-1,,samb1311-2,2000,nōō túùná bùm mūm nòòní,nōō túùná bùm mūm nòòní,[],,[],,False,False,,2
+samb1311-2-1-1,,samb1311-2,1,nòòní,nòòní,[],,['chan2019'],,False,False,,2
+samb1311-2-2-1,,samb1311-2,2,bààrá,bààrá,[],,['chan2019'],,False,False,,2
+samb1311-2-3-1,,samb1311-2,3,tárā,tárā,[],,['chan2019'],,False,False,,2
+samb1311-2-4-1,,samb1311-2,4,nààsá,nààsá,[],,['chan2019'],,False,False,,2
+samb1311-2-5-1,,samb1311-2,5,túùná,túùná,[],,['chan2019'],,False,False,,2
+samb1311-2-6-1,,samb1311-2,6,túnìn,túnìn,[],,['chan2019'],,False,False,,2
+samb1311-2-7-1,,samb1311-2,7,dùtím,dùtím,[],,['chan2019'],,False,False,,2
+samb1311-2-8-1,,samb1311-2,8,dùtím-kə́rə́rə́,dùtím-kə́rə́rə́,[],( 7+ 1 ),['chan2019'],,False,False,,2
+samb1311-2-9-1,,samb1311-2,9,kúūm,kúūm,[],,['chan2019'],,False,False,,2
+samb1311-2-10-1,,samb1311-2,10,kúūm-kə́rə́rə́,kúūm-kə́rə́rə́,[],( 9+ 1 ),['chan2019'],,False,False,,2
+samb1311-2-11-1,,samb1311-2,11,kúūm-bàà nòòní,kúūm-bàà nòòní,[],,['chan2019'],,False,False,,2
+samb1311-2-12-1,,samb1311-2,12,kúūm-bàà bààrá,kúūm-bàà bààrá,[],,['chan2019'],,False,False,,2
+samb1311-2-13-1,,samb1311-2,13,kúūm-bàà tárā,kúūm-bàà tárā,[],,['chan2019'],,False,False,,2
+samb1311-2-14-1,,samb1311-2,14,kúūm-bàà nààsá,kúūm-bàà nààsá,[],,['chan2019'],,False,False,,2
+samb1311-2-15-1,,samb1311-2,15,kúūm-bàà túùná,kúūm-bàà túùná,[],,['chan2019'],,False,False,,2
+samb1311-2-16-1,,samb1311-2,16,kúūm-bàà túnìn,kúūm-bàà túnìn,[],,['chan2019'],,False,False,,2
+samb1311-2-17-1,,samb1311-2,17,kúūm-bàà dùtím,kúūm-bàà dùtím,[],,['chan2019'],,False,False,,2
+samb1311-2-18-1,,samb1311-2,18,kúūm-bàà dùtím-kə́rə́rə,kúūm-bàà dùtím-kə́rə́rə,[],,['chan2019'],,False,False,,2
+samb1311-2-19-1,,samb1311-2,19,kúūm-bàà kúūm,kúūm-bàà kúūm,[],,['chan2019'],,False,False,,2
+samb1311-2-20-1,,samb1311-2,20,mūm nòòní,mūm nòòní,[],,['chan2019'],,False,False,,2
+samb1311-2-21-1,,samb1311-2,21,mūm nòòní méém nòòní,mūm nòòní méém nòòní,[],,['chan2019'],,False,False,,2
+samb1311-2-22-1,,samb1311-2,22,mūm nòòní méém bààrá,mūm nòòní méém bààrá,[],,['chan2019'],,False,False,,2
+samb1311-2-23-1,,samb1311-2,23,mūm nòòní méém tárā,mūm nòòní méém tárā,[],,['chan2019'],,False,False,,2
+samb1311-2-24-1,,samb1311-2,24,mūm nòòní méém nààsá,mūm nòòní méém nààsá,[],,['chan2019'],,False,False,,2
+samb1311-2-25-1,,samb1311-2,25,mūm nòòní méém túùná,mūm nòòní méém túùná,[],,['chan2019'],,False,False,,2
+samb1311-2-26-1,,samb1311-2,26,mūm nòòní méém túnìn,mūm nòòní méém túnìn,[],,['chan2019'],,False,False,,2
+samb1311-2-27-1,,samb1311-2,27,mūm nòòní méém dùtím,mūm nòòní méém dùtím,[],,['chan2019'],,False,False,,2
+samb1311-2-28-1,,samb1311-2,28,mūm nòòní méém dùtím-kə́rə́rə,mūm nòòní méém dùtím-kə́rə́rə,[],,['chan2019'],,False,False,,2
+samb1311-2-29-1,,samb1311-2,29,mūm nòòní méém kúūm,mūm nòòní méém kúūm,[],,['chan2019'],,False,False,,2
+samb1311-2-30-1,,samb1311-2,30,mūm nòòni méém kúūm,mūm nòòni méém kúūm,[],,['chan2019'],,False,False,,2
+samb1311-2-40-1,,samb1311-2,40,nōō bààrá,nōō bààrá,[],,['chan2019'],,False,False,,2
+samb1311-2-50-1,,samb1311-2,50,nōō bààrá méém kúūm,nōō bààrá méém kúūm,[],( 20+ 10 ),['chan2019'],,False,False,,2
+samb1311-2-60-1,,samb1311-2,60,nōō tárā,nōō tárā,[],( 20 x 3 ),['chan2019'],,False,False,,2
+samb1311-2-70-1,,samb1311-2,70,nōō tárā méém kúūm,nōō tárā méém kúūm,[],( 20 x 3 + 10 ),['chan2019'],,False,False,,2
+samb1311-2-80-1,,samb1311-2,80,nōō nààsá,nōō nààsá,[],( 20 x 4 ),['chan2019'],,False,False,,2
+samb1311-2-90-1,,samb1311-2,90,nōō nààsá méém kúūm,nōō nààsá méém kúūm,[],,['chan2019'],,False,False,,2
+samb1311-2-100-1,,samb1311-2,100,nōō túùná,nōō túùná,[],( 20 x 5 ),['chan2019'],,False,False,,2
+samb1311-2-200-1,,samb1311-2,200,nōō túùná bùm bààrá,nōō túùná bùm bààrá,[],( 20 x 5  x 2 ),['chan2019'],,False,False,,2
+samb1311-2-1000-1,,samb1311-2,1000,nōō túùná bùm bààrá kúūm-kə́rə́rə́,nōō túùná bùm bààrá kúūm-kə́rə́rə́,[],,['chan2019'],,False,False,,2
+samb1311-2-2000-1,,samb1311-2,2000,nōō túùná bùm mūm nòòní,nōō túùná bùm mūm nòòní,[],,['chan2019'],,False,False,,2

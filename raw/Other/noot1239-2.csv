@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-noot1239-2-1-1,,noot1239-2,1,c̉awaa,c̉awaa,[],,[],,False,False,,1
-noot1239-2-1-2,,noot1239-2,1,n̉up,n̉up,[],,[],,False,False,,1
-noot1239-2-2-1,,noot1239-2,2,ʔaƛa,ʔaƛa,[],,[],,False,False,,1
-noot1239-2-3-1,,noot1239-2,3,qacc̉a,qacc̉a,[],,[],,False,False,,1
-noot1239-2-4-1,,noot1239-2,4,muu,muu,[],,[],,False,False,,1
-noot1239-2-5-1,,noot1239-2,5,sučʼa,sučʼa,[],,[],,False,False,,1
-noot1239-2-6-1,,noot1239-2,6,n̉upu,n̉upu,[],( + 1 ? ),[],,False,False,,1
-noot1239-2-7-1,,noot1239-2,7,ʔaƛpu,ʔaƛpu,[],( + 2 ? ),[],,False,False,,1
-noot1239-2-8-1,,noot1239-2,8,ʔaƛakʷaɬ,ʔaƛakʷaɬ,[],( - 2 ?  ),[],,False,False,,1
-noot1239-2-9-1,,noot1239-2,9,c̉awaakʷaɬ,c̉awaakʷaɬ,[],( - 1 ?  ),[],,False,False,,1
-noot1239-2-10-1,,noot1239-2,10,ḥayu,ḥayu,[],,[],,False,False,,1
-noot1239-2-11-1,,noot1239-2,11,ḥayu ʔuḥʔiiš c̉awaa,ḥayu ʔuḥʔiiš c̉awaa,[],,[],,False,False,,1
-noot1239-2-12-1,,noot1239-2,12,ḥayu ʔuḥʔiiš ʔaƛa,ḥayu ʔuḥʔiiš ʔaƛa,[],,[],,False,False,,1
-noot1239-2-13-1,,noot1239-2,13,ḥayu ʔuḥʔiiš qacc̉a,ḥayu ʔuḥʔiiš qacc̉a,[],,[],,False,False,,1
-noot1239-2-14-1,,noot1239-2,14,ḥayu ʔuḥʔiiš muu,ḥayu ʔuḥʔiiš muu,[],,[],,False,False,,1
-noot1239-2-15-1,,noot1239-2,15,ḥayu ʔuḥʔiiš sučʼa,ḥayu ʔuḥʔiiš sučʼa,[],,[],,False,False,,1
-noot1239-2-16-1,,noot1239-2,16,ḥayu ʔuḥʔiiš n̉upu,ḥayu ʔuḥʔiiš n̉upu,[],,[],,False,False,,1
-noot1239-2-17-1,,noot1239-2,17,ḥayu ʔuḥʔiiš ʔaƛpu,ḥayu ʔuḥʔiiš ʔaƛpu,[],,[],,False,False,,1
-noot1239-2-18-1,,noot1239-2,18,ḥayu ʔuḥʔiiš ʔaƛakʷaɬ,ḥayu ʔuḥʔiiš ʔaƛakʷaɬ,[],,[],,False,False,,1
-noot1239-2-19-1,,noot1239-2,19,ḥayu ʔuḥʔiiš c̉awaakʷaɬ,ḥayu ʔuḥʔiiš c̉awaakʷaɬ,[],,[],,False,False,,1
-noot1239-2-20-1,,noot1239-2,20,caqiic ḥayu,caqiic ḥayu,[],,[],,False,False,,1
-noot1239-2-21-1,,noot1239-2,21,caqiic ʔuḥʔiiš c̉awaa,caqiic ʔuḥʔiiš c̉awaa,[],,[],,False,False,,1
-noot1239-2-22-1,,noot1239-2,22,caqiic ʔuḥʔiiš ʔaƛa,caqiic ʔuḥʔiiš ʔaƛa,[],,[],,False,False,,1
-noot1239-2-23-1,,noot1239-2,23,caqiic ʔuḥʔiiš qacc̉a,caqiic ʔuḥʔiiš qacc̉a,[],,[],,False,False,,1
-noot1239-2-24-1,,noot1239-2,24,caqiic ʔuḥʔiiš muu,caqiic ʔuḥʔiiš muu,[],,[],,False,False,,1
-noot1239-2-25-1,,noot1239-2,25,caqiic ʔuḥʔiiš sučʼa,caqiic ʔuḥʔiiš sučʼa,[],,[],,False,False,,1
-noot1239-2-26-1,,noot1239-2,26,caqiic ʔuḥʔiiš n̉upu,caqiic ʔuḥʔiiš n̉upu,[],,[],,False,False,,1
-noot1239-2-27-1,,noot1239-2,27,caqiic ʔuḥʔiiš ʔaƛpu,caqiic ʔuḥʔiiš ʔaƛpu,[],,[],,False,False,,1
-noot1239-2-28-1,,noot1239-2,28,caqiic ʔuḥʔiiš ʔaƛakʷaɬ,caqiic ʔuḥʔiiš ʔaƛakʷaɬ,[],,[],,False,False,,1
-noot1239-2-29-1,,noot1239-2,29,caqiic ʔuḥʔiiš c̉awaakʷaɬ,caqiic ʔuḥʔiiš c̉awaakʷaɬ,[],,[],,False,False,,1
-noot1239-2-30-1,,noot1239-2,30,caqiic ʔuḥʔiiš ḥayu,caqiic ʔuḥʔiiš ḥayu,[],,[],,False,False,,1
-noot1239-2-40-1,,noot1239-2,40,ʔaƛiiq,ʔaƛiiq,[],,[],,False,False,,1
-noot1239-2-50-1,,noot1239-2,50,ʔaƛiiq ʔuḥʔiiš ḥayu,ʔaƛiiq ʔuḥʔiiš ḥayu,[],,[],,False,False,,1
-noot1239-2-60-1,,noot1239-2,60,qacc̉iiq,qacc̉iiq,[],,[],,False,False,,1
-noot1239-2-70-1,,noot1239-2,70,qacc̉iiq ʔuḥʔiiš ḥayu,qacc̉iiq ʔuḥʔiiš ḥayu,[],,[],,False,False,,1
-noot1239-2-80-1,,noot1239-2,80,muuyiiq,muuyiiq,[],,[],,False,False,,1
-noot1239-2-90-1,,noot1239-2,90,muuyiiq ʔuḥʔiiš ḥayu,muuyiiq ʔuḥʔiiš ḥayu,[],,[],,False,False,,1
-noot1239-2-100-1,,noot1239-2,100,sučʼa,sučʼa,[],,[],,False,False,,1
+noot1239-2-1-1,,noot1239-2,1,c̉awaa,c̉awaa,[],,['chan2019'],,False,False,,1
+noot1239-2-1-2,,noot1239-2,1,n̉up,n̉up,[],,['chan2019'],,False,False,,1
+noot1239-2-2-1,,noot1239-2,2,ʔaƛa,ʔaƛa,[],,['chan2019'],,False,False,,1
+noot1239-2-3-1,,noot1239-2,3,qacc̉a,qacc̉a,[],,['chan2019'],,False,False,,1
+noot1239-2-4-1,,noot1239-2,4,muu,muu,[],,['chan2019'],,False,False,,1
+noot1239-2-5-1,,noot1239-2,5,sučʼa,sučʼa,[],,['chan2019'],,False,False,,1
+noot1239-2-6-1,,noot1239-2,6,n̉upu,n̉upu,[],( + 1 ? ),['chan2019'],,False,False,,1
+noot1239-2-7-1,,noot1239-2,7,ʔaƛpu,ʔaƛpu,[],( + 2 ? ),['chan2019'],,False,False,,1
+noot1239-2-8-1,,noot1239-2,8,ʔaƛakʷaɬ,ʔaƛakʷaɬ,[],( - 2 ?  ),['chan2019'],,False,False,,1
+noot1239-2-9-1,,noot1239-2,9,c̉awaakʷaɬ,c̉awaakʷaɬ,[],( - 1 ?  ),['chan2019'],,False,False,,1
+noot1239-2-10-1,,noot1239-2,10,ḥayu,ḥayu,[],,['chan2019'],,False,False,,1
+noot1239-2-11-1,,noot1239-2,11,ḥayu ʔuḥʔiiš c̉awaa,ḥayu ʔuḥʔiiš c̉awaa,[],,['chan2019'],,False,False,,1
+noot1239-2-12-1,,noot1239-2,12,ḥayu ʔuḥʔiiš ʔaƛa,ḥayu ʔuḥʔiiš ʔaƛa,[],,['chan2019'],,False,False,,1
+noot1239-2-13-1,,noot1239-2,13,ḥayu ʔuḥʔiiš qacc̉a,ḥayu ʔuḥʔiiš qacc̉a,[],,['chan2019'],,False,False,,1
+noot1239-2-14-1,,noot1239-2,14,ḥayu ʔuḥʔiiš muu,ḥayu ʔuḥʔiiš muu,[],,['chan2019'],,False,False,,1
+noot1239-2-15-1,,noot1239-2,15,ḥayu ʔuḥʔiiš sučʼa,ḥayu ʔuḥʔiiš sučʼa,[],,['chan2019'],,False,False,,1
+noot1239-2-16-1,,noot1239-2,16,ḥayu ʔuḥʔiiš n̉upu,ḥayu ʔuḥʔiiš n̉upu,[],,['chan2019'],,False,False,,1
+noot1239-2-17-1,,noot1239-2,17,ḥayu ʔuḥʔiiš ʔaƛpu,ḥayu ʔuḥʔiiš ʔaƛpu,[],,['chan2019'],,False,False,,1
+noot1239-2-18-1,,noot1239-2,18,ḥayu ʔuḥʔiiš ʔaƛakʷaɬ,ḥayu ʔuḥʔiiš ʔaƛakʷaɬ,[],,['chan2019'],,False,False,,1
+noot1239-2-19-1,,noot1239-2,19,ḥayu ʔuḥʔiiš c̉awaakʷaɬ,ḥayu ʔuḥʔiiš c̉awaakʷaɬ,[],,['chan2019'],,False,False,,1
+noot1239-2-20-1,,noot1239-2,20,caqiic ḥayu,caqiic ḥayu,[],,['chan2019'],,False,False,,1
+noot1239-2-21-1,,noot1239-2,21,caqiic ʔuḥʔiiš c̉awaa,caqiic ʔuḥʔiiš c̉awaa,[],,['chan2019'],,False,False,,1
+noot1239-2-22-1,,noot1239-2,22,caqiic ʔuḥʔiiš ʔaƛa,caqiic ʔuḥʔiiš ʔaƛa,[],,['chan2019'],,False,False,,1
+noot1239-2-23-1,,noot1239-2,23,caqiic ʔuḥʔiiš qacc̉a,caqiic ʔuḥʔiiš qacc̉a,[],,['chan2019'],,False,False,,1
+noot1239-2-24-1,,noot1239-2,24,caqiic ʔuḥʔiiš muu,caqiic ʔuḥʔiiš muu,[],,['chan2019'],,False,False,,1
+noot1239-2-25-1,,noot1239-2,25,caqiic ʔuḥʔiiš sučʼa,caqiic ʔuḥʔiiš sučʼa,[],,['chan2019'],,False,False,,1
+noot1239-2-26-1,,noot1239-2,26,caqiic ʔuḥʔiiš n̉upu,caqiic ʔuḥʔiiš n̉upu,[],,['chan2019'],,False,False,,1
+noot1239-2-27-1,,noot1239-2,27,caqiic ʔuḥʔiiš ʔaƛpu,caqiic ʔuḥʔiiš ʔaƛpu,[],,['chan2019'],,False,False,,1
+noot1239-2-28-1,,noot1239-2,28,caqiic ʔuḥʔiiš ʔaƛakʷaɬ,caqiic ʔuḥʔiiš ʔaƛakʷaɬ,[],,['chan2019'],,False,False,,1
+noot1239-2-29-1,,noot1239-2,29,caqiic ʔuḥʔiiš c̉awaakʷaɬ,caqiic ʔuḥʔiiš c̉awaakʷaɬ,[],,['chan2019'],,False,False,,1
+noot1239-2-30-1,,noot1239-2,30,caqiic ʔuḥʔiiš ḥayu,caqiic ʔuḥʔiiš ḥayu,[],,['chan2019'],,False,False,,1
+noot1239-2-40-1,,noot1239-2,40,ʔaƛiiq,ʔaƛiiq,[],,['chan2019'],,False,False,,1
+noot1239-2-50-1,,noot1239-2,50,ʔaƛiiq ʔuḥʔiiš ḥayu,ʔaƛiiq ʔuḥʔiiš ḥayu,[],,['chan2019'],,False,False,,1
+noot1239-2-60-1,,noot1239-2,60,qacc̉iiq,qacc̉iiq,[],,['chan2019'],,False,False,,1
+noot1239-2-70-1,,noot1239-2,70,qacc̉iiq ʔuḥʔiiš ḥayu,qacc̉iiq ʔuḥʔiiš ḥayu,[],,['chan2019'],,False,False,,1
+noot1239-2-80-1,,noot1239-2,80,muuyiiq,muuyiiq,[],,['chan2019'],,False,False,,1
+noot1239-2-90-1,,noot1239-2,90,muuyiiq ʔuḥʔiiš ḥayu,muuyiiq ʔuḥʔiiš ḥayu,[],,['chan2019'],,False,False,,1
+noot1239-2-100-1,,noot1239-2,100,sučʼa,sučʼa,[],,['chan2019'],,False,False,,1

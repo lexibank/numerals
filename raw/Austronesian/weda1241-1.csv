@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-weda1241-1-1-1,,weda1241-1,1,tɑ'ɡɔɡi,tɑ'ɡɔɡi,[],,[],,False,False,,1
-weda1241-1-2-1,,weda1241-1,2,ɾu'ʷɑɣɑ,ɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-3-1,,weda1241-1,3,tɔ'nuɣɑ,tɔ'nuɣɑ,[],,[],,False,False,,1
-weda1241-1-4-1,,weda1241-1,4,ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-5-1,,weda1241-1,5,'uɾɑ tɑ'ɡɔɡi,'uɾɑ tɑ'ɡɔɡi,[],( lit: 'hand one' ) (i'kʷɑ),[],,False,False,,1
-weda1241-1-6-1,,weda1241-1,6,'uɾɑ 'ɣɛlɑtɑ'ɡɔɡi,'uɾɑ 'ɣɛlɑtɑ'ɡɔɡi,[],"( lit: 'other hand, one' )",[],,False,False,,1
-weda1241-1-7-1,,weda1241-1,7,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-8-1,,weda1241-1,8,'uɾɑ 'ɣɛlɑtɔ'nuɣɑ,'uɾɑ 'ɣɛlɑtɔ'nuɣɑ,[],,[],,False,False,,1
-weda1241-1-9-1,,weda1241-1,9,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-10-1,,weda1241-1,10,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ,[],( lit: 'hands two' ),[],,False,False,,1
-weda1241-1-11-1,,weda1241-1,11,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɑ'ɡɔɡi,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɑ'ɡɔɡi,[],"(litː 'on the foot, one')",[],,False,False,,1
-weda1241-1-12-1,,weda1241-1,12,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-13-1,,weda1241-1,13,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɔ'nuɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɔ'nuɣɑ,[],,[],,False,False,,1
-weda1241-1-14-1,,weda1241-1,14,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-15-1,,weda1241-1,15,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡ɛ tɑ'ɡɔɡi i'kʷɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡ɛ tɑ'ɡɔɡi i'kʷɑ,[],,[],,False,False,,1
-weda1241-1-16-1,,weda1241-1,16,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɑ'ɡɔɡi,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɑ'ɡɔɡi,[],,[],,False,False,,1
-weda1241-1-17-1,,weda1241-1,17,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-18-1,,weda1241-1,18,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɔ'nuɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɔ'nuɣɑ,[],,[],,False,False,,1
-weda1241-1-19-1,,weda1241-1,19,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,[],,False,False,,1
-weda1241-1-20-1,,weda1241-1,20,'ɾɑvɑ tɑ'ɡɔɡi i'ɾɑɣe,'ɾɑvɑ tɑ'ɡɔɡi i'ɾɑɣe,[],(litː 'one man dead'),[],,False,False,,1
+weda1241-1-1-1,,weda1241-1,1,tɑ'ɡɔɡi,tɑ'ɡɔɡi,[],,['chan2019'],,False,False,,1
+weda1241-1-2-1,,weda1241-1,2,ɾu'ʷɑɣɑ,ɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-3-1,,weda1241-1,3,tɔ'nuɣɑ,tɔ'nuɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-4-1,,weda1241-1,4,ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-5-1,,weda1241-1,5,'uɾɑ tɑ'ɡɔɡi,'uɾɑ tɑ'ɡɔɡi,[],( lit: 'hand one' ) (i'kʷɑ),['chan2019'],,False,False,,1
+weda1241-1-6-1,,weda1241-1,6,'uɾɑ 'ɣɛlɑtɑ'ɡɔɡi,'uɾɑ 'ɣɛlɑtɑ'ɡɔɡi,[],"( lit: 'other hand, one' )",['chan2019'],,False,False,,1
+weda1241-1-7-1,,weda1241-1,7,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-8-1,,weda1241-1,8,'uɾɑ 'ɣɛlɑtɔ'nuɣɑ,'uɾɑ 'ɣɛlɑtɔ'nuɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-9-1,,weda1241-1,9,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,'uɾɑ 'ɣɛlɑɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-10-1,,weda1241-1,10,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ,[],( lit: 'hands two' ),['chan2019'],,False,False,,1
+weda1241-1-11-1,,weda1241-1,11,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɑ'ɡɔɡi,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɑ'ɡɔɡi,[],"(litː 'on the foot, one')",['chan2019'],,False,False,,1
+weda1241-1-12-1,,weda1241-1,12,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-13-1,,weda1241-1,13,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɔ'nuɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ tɔ'nuɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-14-1,,weda1241-1,14,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-15-1,,weda1241-1,15,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡ɛ tɑ'ɡɔɡi i'kʷɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡ɛ tɑ'ɡɔɡi i'kʷɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-16-1,,weda1241-1,16,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɑ'ɡɔɡi,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɑ'ɡɔɡi,[],,['chan2019'],,False,False,,1
+weda1241-1-17-1,,weda1241-1,17,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-18-1,,weda1241-1,18,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɔ'nuɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ tɔ'nuɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-19-1,,weda1241-1,19,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,'uɾɑ ɾu'ʷɑɣɑ i'kʷɑ ɑ͡u ɑ͡ɛ 'ɣɛlɑ ɾu'ʷɑɣɑ mɑ ɾu'ʷɑɣɑ,[],,['chan2019'],,False,False,,1
+weda1241-1-20-1,,weda1241-1,20,'ɾɑvɑ tɑ'ɡɔɡi i'ɾɑɣe,'ɾɑvɑ tɑ'ɡɔɡi i'ɾɑɣe,[],(litː 'one man dead'),['chan2019'],,False,False,,1

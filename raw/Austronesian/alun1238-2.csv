@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-alun1238-2-1-1,,alun1238-2,1,esa,esa,[],,[],,False,False,,2
-alun1238-2-2-1,,alun1238-2,2,lua,lua,[],,[],,False,False,,2
-alun1238-2-3-1,,alun1238-2,3,telu,telu,[],,[],,False,False,,2
-alun1238-2-4-1,,alun1238-2,4,ata,ata,[],,[],,False,False,,2
-alun1238-2-5-1,,alun1238-2,5,lima,lima,[],,[],,False,False,,2
-alun1238-2-6-1,,alun1238-2,6,ne,ne,[],,[],,False,False,,2
-alun1238-2-7-1,,alun1238-2,7,itu,itu,[],,[],,False,False,,2
-alun1238-2-8-1,,alun1238-2,8,walu,walu,[],,[],,False,False,,2
-alun1238-2-8-2,,alun1238-2,8,kwalu,kwalu,[],,[],,False,False,,2
-alun1238-2-9-1,,alun1238-2,9,siwa,siwa,[],,[],,False,False,,2
-alun1238-2-9-2,,alun1238-2,9,sikwa,sikwa,[],,[],,False,False,,2
-alun1238-2-10-1,,alun1238-2,10,butuesa,butuesa,[],,[],,False,False,,2
-alun1238-2-11-1,,alun1238-2,11,butuesa lesin esa,butuesa lesin esa,[],,[],,False,False,,2
-alun1238-2-12-1,,alun1238-2,12,butuesa lesin lua,butuesa lesin lua,[],,[],,False,False,,2
-alun1238-2-13-1,,alun1238-2,13,butuesa lesin telu,butuesa lesin telu,[],,[],,False,False,,2
-alun1238-2-14-1,,alun1238-2,14,butuesa lesin ata,butuesa lesin ata,[],,[],,False,False,,2
-alun1238-2-15-1,,alun1238-2,15,butuesa lesin lima,butuesa lesin lima,[],,[],,False,False,,2
-alun1238-2-16-1,,alun1238-2,16,butuesa lesin ne,butuesa lesin ne,[],,[],,False,False,,2
-alun1238-2-17-1,,alun1238-2,17,butuesa lesin itu,butuesa lesin itu,[],,[],,False,False,,2
-alun1238-2-18-1,,alun1238-2,18,butuesa lesin kwalu,butuesa lesin kwalu,[],,[],,False,False,,2
-alun1238-2-19-1,,alun1238-2,19,butuesa lesin sikwa,butuesa lesin sikwa,[],,[],,False,False,,2
-alun1238-2-20-1,,alun1238-2,20,butu lua,butu lua,[],,[],,False,False,,2
-alun1238-2-21-1,,alun1238-2,21,butu lua lesin esa,butu lua lesin esa,[],,[],,False,False,,2
-alun1238-2-22-1,,alun1238-2,22,butu lua lesin lua,butu lua lesin lua,[],,[],,False,False,,2
-alun1238-2-23-1,,alun1238-2,23,butu lua lesin telu,butu lua lesin telu,[],,[],,False,False,,2
-alun1238-2-24-1,,alun1238-2,24,butu lua lesin ata,butu lua lesin ata,[],,[],,False,False,,2
-alun1238-2-25-1,,alun1238-2,25,butu lua lesin lima,butu lua lesin lima,[],,[],,False,False,,2
-alun1238-2-26-1,,alun1238-2,26,butu lua lesin ne,butu lua lesin ne,[],,[],,False,False,,2
-alun1238-2-27-1,,alun1238-2,27,butu lua lesin itu,butu lua lesin itu,[],,[],,False,False,,2
-alun1238-2-28-1,,alun1238-2,28,butu lua lesin kwalu,butu lua lesin kwalu,[],,[],,False,False,,2
-alun1238-2-29-1,,alun1238-2,29,butu lua lesin sikwa,butu lua lesin sikwa,[],,[],,False,False,,2
-alun1238-2-30-1,,alun1238-2,30,butu telu,butu telu,[],,[],,False,False,,2
-alun1238-2-40-1,,alun1238-2,40,butu ata,butu ata,[],,[],,False,False,,2
-alun1238-2-50-1,,alun1238-2,50,butu lima,butu lima,[],,[],,False,False,,2
-alun1238-2-60-1,,alun1238-2,60,butu ne,butu ne,[],,[],,False,False,,2
-alun1238-2-70-1,,alun1238-2,70,butu itu,butu itu,[],,[],,False,False,,2
-alun1238-2-80-1,,alun1238-2,80,butu kwalu,butu kwalu,[],,[],,False,False,,2
-alun1238-2-90-1,,alun1238-2,90,butu sikwa,butu sikwa,[],,[],,False,False,,2
-alun1238-2-100-1,,alun1238-2,100,utune,utune,[],,[],,False,False,,2
-alun1238-2-200-1,,alun1238-2,200,utuna lua,utuna lua,[],,[],,False,False,,2
-alun1238-2-1000-1,,alun1238-2,1000,usate,usate,[],,[],,False,False,,2
-alun1238-2-2000-1,,alun1238-2,2000,usata lua,usata lua,[],,[],,False,False,,2
+alun1238-2-1-1,,alun1238-2,1,esa,esa,[],,['chan2019'],,False,False,,2
+alun1238-2-2-1,,alun1238-2,2,lua,lua,[],,['chan2019'],,False,False,,2
+alun1238-2-3-1,,alun1238-2,3,telu,telu,[],,['chan2019'],,False,False,,2
+alun1238-2-4-1,,alun1238-2,4,ata,ata,[],,['chan2019'],,False,False,,2
+alun1238-2-5-1,,alun1238-2,5,lima,lima,[],,['chan2019'],,False,False,,2
+alun1238-2-6-1,,alun1238-2,6,ne,ne,[],,['chan2019'],,False,False,,2
+alun1238-2-7-1,,alun1238-2,7,itu,itu,[],,['chan2019'],,False,False,,2
+alun1238-2-8-1,,alun1238-2,8,walu,walu,[],,['chan2019'],,False,False,,2
+alun1238-2-8-2,,alun1238-2,8,kwalu,kwalu,[],,['chan2019'],,False,False,,2
+alun1238-2-9-1,,alun1238-2,9,siwa,siwa,[],,['chan2019'],,False,False,,2
+alun1238-2-9-2,,alun1238-2,9,sikwa,sikwa,[],,['chan2019'],,False,False,,2
+alun1238-2-10-1,,alun1238-2,10,butuesa,butuesa,[],,['chan2019'],,False,False,,2
+alun1238-2-11-1,,alun1238-2,11,butuesa lesin esa,butuesa lesin esa,[],,['chan2019'],,False,False,,2
+alun1238-2-12-1,,alun1238-2,12,butuesa lesin lua,butuesa lesin lua,[],,['chan2019'],,False,False,,2
+alun1238-2-13-1,,alun1238-2,13,butuesa lesin telu,butuesa lesin telu,[],,['chan2019'],,False,False,,2
+alun1238-2-14-1,,alun1238-2,14,butuesa lesin ata,butuesa lesin ata,[],,['chan2019'],,False,False,,2
+alun1238-2-15-1,,alun1238-2,15,butuesa lesin lima,butuesa lesin lima,[],,['chan2019'],,False,False,,2
+alun1238-2-16-1,,alun1238-2,16,butuesa lesin ne,butuesa lesin ne,[],,['chan2019'],,False,False,,2
+alun1238-2-17-1,,alun1238-2,17,butuesa lesin itu,butuesa lesin itu,[],,['chan2019'],,False,False,,2
+alun1238-2-18-1,,alun1238-2,18,butuesa lesin kwalu,butuesa lesin kwalu,[],,['chan2019'],,False,False,,2
+alun1238-2-19-1,,alun1238-2,19,butuesa lesin sikwa,butuesa lesin sikwa,[],,['chan2019'],,False,False,,2
+alun1238-2-20-1,,alun1238-2,20,butu lua,butu lua,[],,['chan2019'],,False,False,,2
+alun1238-2-21-1,,alun1238-2,21,butu lua lesin esa,butu lua lesin esa,[],,['chan2019'],,False,False,,2
+alun1238-2-22-1,,alun1238-2,22,butu lua lesin lua,butu lua lesin lua,[],,['chan2019'],,False,False,,2
+alun1238-2-23-1,,alun1238-2,23,butu lua lesin telu,butu lua lesin telu,[],,['chan2019'],,False,False,,2
+alun1238-2-24-1,,alun1238-2,24,butu lua lesin ata,butu lua lesin ata,[],,['chan2019'],,False,False,,2
+alun1238-2-25-1,,alun1238-2,25,butu lua lesin lima,butu lua lesin lima,[],,['chan2019'],,False,False,,2
+alun1238-2-26-1,,alun1238-2,26,butu lua lesin ne,butu lua lesin ne,[],,['chan2019'],,False,False,,2
+alun1238-2-27-1,,alun1238-2,27,butu lua lesin itu,butu lua lesin itu,[],,['chan2019'],,False,False,,2
+alun1238-2-28-1,,alun1238-2,28,butu lua lesin kwalu,butu lua lesin kwalu,[],,['chan2019'],,False,False,,2
+alun1238-2-29-1,,alun1238-2,29,butu lua lesin sikwa,butu lua lesin sikwa,[],,['chan2019'],,False,False,,2
+alun1238-2-30-1,,alun1238-2,30,butu telu,butu telu,[],,['chan2019'],,False,False,,2
+alun1238-2-40-1,,alun1238-2,40,butu ata,butu ata,[],,['chan2019'],,False,False,,2
+alun1238-2-50-1,,alun1238-2,50,butu lima,butu lima,[],,['chan2019'],,False,False,,2
+alun1238-2-60-1,,alun1238-2,60,butu ne,butu ne,[],,['chan2019'],,False,False,,2
+alun1238-2-70-1,,alun1238-2,70,butu itu,butu itu,[],,['chan2019'],,False,False,,2
+alun1238-2-80-1,,alun1238-2,80,butu kwalu,butu kwalu,[],,['chan2019'],,False,False,,2
+alun1238-2-90-1,,alun1238-2,90,butu sikwa,butu sikwa,[],,['chan2019'],,False,False,,2
+alun1238-2-100-1,,alun1238-2,100,utune,utune,[],,['chan2019'],,False,False,,2
+alun1238-2-200-1,,alun1238-2,200,utuna lua,utuna lua,[],,['chan2019'],,False,False,,2
+alun1238-2-1000-1,,alun1238-2,1000,usate,usate,[],,['chan2019'],,False,False,,2
+alun1238-2-2000-1,,alun1238-2,2000,usata lua,usata lua,[],,['chan2019'],,False,False,,2

@@ -1,26 +1,26 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-macu1260-1-1-1,,macu1260-1,1,koɡɑ,koɡɑ,[],,[],,False,False,,1
-macu1260-1-2-1,,macu1260-1,2,hɨɑɡɑ,hɨɑɡɑ,[],,[],,False,False,,1
-macu1260-1-3-1,,macu1260-1,3,ɨdiɑɡɑ,ɨdiɑɡɑ,[],,[],,False,False,,1
-macu1260-1-4-1,,macu1260-1,4,hɨɑriɑɡɑ,hɨɑriɑɡɑ,[],,[],,False,False,,1
-macu1260-1-5-1,,macu1260-1,5,kodɨhɑ̃mõkõ,kodɨhɑ̃mõkõ,[],(litː mõ < ɑ̃mõ = ''hand'' ),[],,False,False,,1
-macu1260-1-6-1,,macu1260-1,6,koɑ̃mõhẽnõ,koɑ̃mõhẽnõ,[],,[],,False,False,,1
-macu1260-1-7-1,,macu1260-1,7,hɨɑ̃mõhẽnõ,hɨɑ̃mõhẽnõ,[],,[],,False,False,,1
-macu1260-1-8-1,,macu1260-1,8,ɨdiɑ̃mõhẽnõ,ɨdiɑ̃mõhẽnõ,[],,[],,False,False,,1
-macu1260-1-9-1,,macu1260-1,9,hɨɑriɑ̃mõhẽnõ,hɨɑriɑ̃mõhẽnõ,[],,[],,False,False,,1
-macu1260-1-10-1,,macu1260-1,10,hɨɑdɨjɑ̃mõkõ,hɨɑdɨjɑ̃mõkõ,[],(litː ''two hands''),[],,False,False,,1
-macu1260-1-11-1,,macu1260-1,11,koɡɨbo,koɡɨbo,[],(litː ''ɡɨbo'' = ''foot'' ),[],,False,False,,1
-macu1260-1-12-1,,macu1260-1,12,hɨɑɡɨbo,hɨɑɡɨbo,[],,[],,False,False,,1
-macu1260-1-13-1,,macu1260-1,13,ɨdiɑɡɨbo,ɨdiɑɡɨbo,[],,[],,False,False,,1
-macu1260-1-14-1,,macu1260-1,14,hɨɑriɑɡɨbo,hɨɑriɑɡɨbo,[],,[],,False,False,,1
-macu1260-1-15-1,,macu1260-1,15,koɡɨbokõ,koɡɨbokõ,[],,[],,False,False,,1
-macu1260-1-16-1,,macu1260-1,16,koɡɨbohẽnõ,koɡɨbohẽnõ,[],,[],,False,False,,1
-macu1260-1-17-1,,macu1260-1,17,hɨɑɡɨbohẽnõ,hɨɑɡɨbohẽnõ,[],,[],,False,False,,1
-macu1260-1-18-1,,macu1260-1,18,ɨdiɑɡɨbohẽnõ,ɨdiɑɡɨbohẽnõ,[],,[],,False,False,,1
-macu1260-1-19-1,,macu1260-1,19,hɨɑriɑɡɨbohẽnõ,hɨɑriɑɡɨbohẽnõ,[],,[],,False,False,,1
-macu1260-1-20-1,,macu1260-1,20,sĩɡɨ̃mɑ̃sɨ̃kõ,sĩɡɨ̃mɑ̃sɨ̃kõ,[],(litː ''one person''),[],,False,False,,1
-macu1260-1-40-1,,macu1260-1,40,hɨɑ(rɑ̃)mɑ̃sɑ̃kõ,hɨɑ(rɑ̃)mɑ̃sɑ̃kõ,[],,[],,False,False,,1
-macu1260-1-40-2,,macu1260-1,40,60.ɨdiɑ(rɑ̃)mɑ̃sɑ̃kõ,60.ɨdiɑ(rɑ̃)mɑ̃sɑ̃kõ,[],,[],,False,True,,1
-macu1260-1-40-3,,macu1260-1,40,80,80,[],,[],,False,True,,1
-macu1260-1-40-4,,macu1260-1,40,hɨɑriɑ(rɑ̃)mɑ̃sɑ̃kõ,hɨɑriɑ(rɑ̃)mɑ̃sɑ̃kõ,[],,[],,False,False,,1
-macu1260-1-100-1,,macu1260-1,100,kodɨhɑ(mõkõ)mɑ̃sɑ̃kõ,kodɨhɑ(mõkõ)mɑ̃sɑ̃kõ,[],,[],,False,False,,1
+macu1260-1-1-1,,macu1260-1,1,koɡɑ,koɡɑ,[],,['chan2019'],,False,False,,1
+macu1260-1-2-1,,macu1260-1,2,hɨɑɡɑ,hɨɑɡɑ,[],,['chan2019'],,False,False,,1
+macu1260-1-3-1,,macu1260-1,3,ɨdiɑɡɑ,ɨdiɑɡɑ,[],,['chan2019'],,False,False,,1
+macu1260-1-4-1,,macu1260-1,4,hɨɑriɑɡɑ,hɨɑriɑɡɑ,[],,['chan2019'],,False,False,,1
+macu1260-1-5-1,,macu1260-1,5,kodɨhɑ̃mõkõ,kodɨhɑ̃mõkõ,[],(litː mõ < ɑ̃mõ = ''hand'' ),['chan2019'],,False,False,,1
+macu1260-1-6-1,,macu1260-1,6,koɑ̃mõhẽnõ,koɑ̃mõhẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-7-1,,macu1260-1,7,hɨɑ̃mõhẽnõ,hɨɑ̃mõhẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-8-1,,macu1260-1,8,ɨdiɑ̃mõhẽnõ,ɨdiɑ̃mõhẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-9-1,,macu1260-1,9,hɨɑriɑ̃mõhẽnõ,hɨɑriɑ̃mõhẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-10-1,,macu1260-1,10,hɨɑdɨjɑ̃mõkõ,hɨɑdɨjɑ̃mõkõ,[],(litː ''two hands''),['chan2019'],,False,False,,1
+macu1260-1-11-1,,macu1260-1,11,koɡɨbo,koɡɨbo,[],(litː ''ɡɨbo'' = ''foot'' ),['chan2019'],,False,False,,1
+macu1260-1-12-1,,macu1260-1,12,hɨɑɡɨbo,hɨɑɡɨbo,[],,['chan2019'],,False,False,,1
+macu1260-1-13-1,,macu1260-1,13,ɨdiɑɡɨbo,ɨdiɑɡɨbo,[],,['chan2019'],,False,False,,1
+macu1260-1-14-1,,macu1260-1,14,hɨɑriɑɡɨbo,hɨɑriɑɡɨbo,[],,['chan2019'],,False,False,,1
+macu1260-1-15-1,,macu1260-1,15,koɡɨbokõ,koɡɨbokõ,[],,['chan2019'],,False,False,,1
+macu1260-1-16-1,,macu1260-1,16,koɡɨbohẽnõ,koɡɨbohẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-17-1,,macu1260-1,17,hɨɑɡɨbohẽnõ,hɨɑɡɨbohẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-18-1,,macu1260-1,18,ɨdiɑɡɨbohẽnõ,ɨdiɑɡɨbohẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-19-1,,macu1260-1,19,hɨɑriɑɡɨbohẽnõ,hɨɑriɑɡɨbohẽnõ,[],,['chan2019'],,False,False,,1
+macu1260-1-20-1,,macu1260-1,20,sĩɡɨ̃mɑ̃sɨ̃kõ,sĩɡɨ̃mɑ̃sɨ̃kõ,[],(litː ''one person''),['chan2019'],,False,False,,1
+macu1260-1-40-1,,macu1260-1,40,hɨɑ(rɑ̃)mɑ̃sɑ̃kõ,hɨɑ(rɑ̃)mɑ̃sɑ̃kõ,[],,['chan2019'],,False,False,,1
+macu1260-1-40-2,,macu1260-1,40,60.ɨdiɑ(rɑ̃)mɑ̃sɑ̃kõ,60.ɨdiɑ(rɑ̃)mɑ̃sɑ̃kõ,[],,['chan2019'],,False,True,,1
+macu1260-1-40-3,,macu1260-1,40,80,80,[],,['chan2019'],,False,True,,1
+macu1260-1-40-4,,macu1260-1,40,hɨɑriɑ(rɑ̃)mɑ̃sɑ̃kõ,hɨɑriɑ(rɑ̃)mɑ̃sɑ̃kõ,[],,['chan2019'],,False,False,,1
+macu1260-1-100-1,,macu1260-1,100,kodɨhɑ(mõkõ)mɑ̃sɑ̃kõ,kodɨhɑ(mõkõ)mɑ̃sɑ̃kõ,[],,['chan2019'],,False,False,,1

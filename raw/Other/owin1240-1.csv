@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-owin1240-1-1-1,,owin1240-1,1,iiaru,iiaru,[],,[],,False,False,,1
-owin1240-1-1-2,,owin1240-1,1,yaru,yaru,[],,[],,False,False,,1
-owin1240-1-2-1,,owin1240-1,2,simabi,simabi,[],,[],,False,False,,1
-owin1240-1-2-2,,owin1240-1,2,simabi,simabi,[],,[],,False,False,,1
-owin1240-1-3-1,,owin1240-1,3,soumabi,soumabi,[],,[],,False,False,,1
-owin1240-1-3-2,,owin1240-1,3,soɡumavi,soɡumavi,[],,[],,False,False,,1
-owin1240-1-4-1,,owin1240-1,4,sunekami,sunekami,[],,[],,False,False,,1
-owin1240-1-4-2,,owin1240-1,4,sunekame,sunekame,[],,[],,False,False,,1
-owin1240-1-5-1,,owin1240-1,5,nomokerare,nomokerare,[],(litː ''fist''),[],,False,False,,1
-owin1240-1-6-1,,owin1240-1,6,sesi,sesi,[],(litː ''navel''),[],,False,False,,1
-owin1240-1-7-1,,owin1240-1,7,nano akai iaru,nano akai iaru,[],(litː ''hand on breast''),[],,False,False,,1
-owin1240-1-8-1,,owin1240-1,8,nano akai simabi,nano akai simabi,[],(litː ''hand on second breast''),[],,False,False,,1
-owin1240-1-9-1,,owin1240-1,9,moro iaru,moro iaru,[],(litː ''one eye''),[],,False,False,,1
-owin1240-1-10-1,,owin1240-1,10,moro simabi,moro simabi,[],(litː ''two eyes''),[],,False,False,,1
+owin1240-1-1-1,,owin1240-1,1,iiaru,iiaru,[],,['chan2019'],,False,False,,1
+owin1240-1-1-2,,owin1240-1,1,yaru,yaru,[],,['chan2019'],,False,False,,1
+owin1240-1-2-1,,owin1240-1,2,simabi,simabi,[],,['chan2019'],,False,False,,1
+owin1240-1-2-2,,owin1240-1,2,simabi,simabi,[],,['chan2019'],,False,False,,1
+owin1240-1-3-1,,owin1240-1,3,soumabi,soumabi,[],,['chan2019'],,False,False,,1
+owin1240-1-3-2,,owin1240-1,3,soɡumavi,soɡumavi,[],,['chan2019'],,False,False,,1
+owin1240-1-4-1,,owin1240-1,4,sunekami,sunekami,[],,['chan2019'],,False,False,,1
+owin1240-1-4-2,,owin1240-1,4,sunekame,sunekame,[],,['chan2019'],,False,False,,1
+owin1240-1-5-1,,owin1240-1,5,nomokerare,nomokerare,[],(litː ''fist''),['chan2019'],,False,False,,1
+owin1240-1-6-1,,owin1240-1,6,sesi,sesi,[],(litː ''navel''),['chan2019'],,False,False,,1
+owin1240-1-7-1,,owin1240-1,7,nano akai iaru,nano akai iaru,[],(litː ''hand on breast''),['chan2019'],,False,False,,1
+owin1240-1-8-1,,owin1240-1,8,nano akai simabi,nano akai simabi,[],(litː ''hand on second breast''),['chan2019'],,False,False,,1
+owin1240-1-9-1,,owin1240-1,9,moro iaru,moro iaru,[],(litː ''one eye''),['chan2019'],,False,False,,1
+owin1240-1-10-1,,owin1240-1,10,moro simabi,moro simabi,[],(litː ''two eyes''),['chan2019'],,False,False,,1

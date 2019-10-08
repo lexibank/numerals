@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-suba1254-1-1-1,,suba1254-1,1,endala,endala,[],,[],,False,False,,1
-suba1254-1-2-1,,suba1254-1,2,iwiri,iwiri,[],,[],,False,False,,1
-suba1254-1-3-1,,suba1254-1,3,isatu,isatu,[],,[],,False,False,,1
-suba1254-1-4-1,,suba1254-1,4,ine,ine,[],,[],,False,False,,1
-suba1254-1-5-1,,suba1254-1,5,itaanu,itaanu,[],,[],,False,False,,1
-suba1254-1-6-1,,suba1254-1,6,mukaaɡa,mukaaɡa,[],,[],,False,False,,1
-suba1254-1-7-1,,suba1254-1,7,musamvu,musamvu,[],,[],,False,False,,1
-suba1254-1-8-1,,suba1254-1,8,munaane,munaane,[],,[],,False,False,,1
-suba1254-1-9-1,,suba1254-1,9,kienda,kienda,[],,[],,False,False,,1
-suba1254-1-10-1,,suba1254-1,10,ikumi,ikumi,[],,[],,False,False,,1
-suba1254-1-11-1,,suba1254-1,11,ikumi ne endala,ikumi ne endala,[],,[],,False,False,,1
-suba1254-1-12-1,,suba1254-1,12,ikumi ni iwiri,ikumi ni iwiri,[],,[],,False,False,,1
-suba1254-1-13-1,,suba1254-1,13,ikumi ni isatu,ikumi ni isatu,[],,[],,False,False,,1
-suba1254-1-14-1,,suba1254-1,14,ikumi ni ine,ikumi ni ine,[],,[],,False,False,,1
-suba1254-1-15-1,,suba1254-1,15,ikumi ni itaanu,ikumi ni itaanu,[],,[],,False,False,,1
-suba1254-1-16-1,,suba1254-1,16,ikumi ni mukaaɡa,ikumi ni mukaaɡa,[],,[],,False,False,,1
-suba1254-1-17-1,,suba1254-1,17,ikumi ni musamvu,ikumi ni musamvu,[],,[],,False,False,,1
-suba1254-1-18-1,,suba1254-1,18,ikumi ni munaane,ikumi ni munaane,[],,[],,False,False,,1
-suba1254-1-19-1,,suba1254-1,19,ikumi ná kienda,ikumi ná kienda,[],,[],,False,False,,1
-suba1254-1-20-1,,suba1254-1,20,amakumi awiri,amakumi awiri,[],,[],,False,False,,1
-suba1254-1-21-1,,suba1254-1,21,amakumi awiri ne endala,amakumi awiri ne endala,[],,[],,False,False,,1
-suba1254-1-22-1,,suba1254-1,22,amakumi awiri ni iwiri,amakumi awiri ni iwiri,[],,[],,False,False,,1
-suba1254-1-23-1,,suba1254-1,23,amakumi awiri ni isatu,amakumi awiri ni isatu,[],,[],,False,False,,1
-suba1254-1-24-1,,suba1254-1,24,amakumi awiri ni ine,amakumi awiri ni ine,[],,[],,False,False,,1
-suba1254-1-25-1,,suba1254-1,25,amakumi awiri ni itaanu,amakumi awiri ni itaanu,[],,[],,False,False,,1
-suba1254-1-26-1,,suba1254-1,26,amakumi awiri ni mukaaɡa,amakumi awiri ni mukaaɡa,[],,[],,False,False,,1
-suba1254-1-27-1,,suba1254-1,27,amakumi awiri ni musamvu,amakumi awiri ni musamvu,[],,[],,False,False,,1
-suba1254-1-28-1,,suba1254-1,28,amakumi awiri ni munaane,amakumi awiri ni munaane,[],,[],,False,False,,1
-suba1254-1-29-1,,suba1254-1,29,amakumi awiri ni kienda,amakumi awiri ni kienda,[],,[],,False,False,,1
-suba1254-1-30-1,,suba1254-1,30,amakumi asatu,amakumi asatu,[],,[],,False,False,,1
-suba1254-1-40-1,,suba1254-1,40,amakumi ane,amakumi ane,[],,[],,False,False,,1
-suba1254-1-50-1,,suba1254-1,50,amakumi ataanu,amakumi ataanu,[],,[],,False,False,,1
-suba1254-1-60-1,,suba1254-1,60,amakumi mukaaɡa,amakumi mukaaɡa,[],,[],,False,False,,1
-suba1254-1-70-1,,suba1254-1,70,amakumi musamvu,amakumi musamvu,[],,[],,False,False,,1
-suba1254-1-80-1,,suba1254-1,80,amakumi munaane,amakumi munaane,[],,[],,False,False,,1
-suba1254-1-90-1,,suba1254-1,90,amakumi kienda,amakumi kienda,[],,[],,False,False,,1
-suba1254-1-100-1,,suba1254-1,100,mia kilala,mia kilala,[],( 'mia' <Swahili),[],,True,False,,1
-suba1254-1-200-1,,suba1254-1,200,mia wiwiri,mia wiwiri,[],,[],,False,False,,1
-suba1254-1-1000-1,,suba1254-1,1000,elifu kilala,elifu kilala,[],( 'elifu' <Swahili),[],,True,False,,1
-suba1254-1-2000-1,,suba1254-1,2000,elifu wiwiri,elifu wiwiri,[],,[],,False,False,,1
+suba1254-1-1-1,,suba1254-1,1,endala,endala,[],,['chan2019'],,False,False,,1
+suba1254-1-2-1,,suba1254-1,2,iwiri,iwiri,[],,['chan2019'],,False,False,,1
+suba1254-1-3-1,,suba1254-1,3,isatu,isatu,[],,['chan2019'],,False,False,,1
+suba1254-1-4-1,,suba1254-1,4,ine,ine,[],,['chan2019'],,False,False,,1
+suba1254-1-5-1,,suba1254-1,5,itaanu,itaanu,[],,['chan2019'],,False,False,,1
+suba1254-1-6-1,,suba1254-1,6,mukaaɡa,mukaaɡa,[],,['chan2019'],,False,False,,1
+suba1254-1-7-1,,suba1254-1,7,musamvu,musamvu,[],,['chan2019'],,False,False,,1
+suba1254-1-8-1,,suba1254-1,8,munaane,munaane,[],,['chan2019'],,False,False,,1
+suba1254-1-9-1,,suba1254-1,9,kienda,kienda,[],,['chan2019'],,False,False,,1
+suba1254-1-10-1,,suba1254-1,10,ikumi,ikumi,[],,['chan2019'],,False,False,,1
+suba1254-1-11-1,,suba1254-1,11,ikumi ne endala,ikumi ne endala,[],,['chan2019'],,False,False,,1
+suba1254-1-12-1,,suba1254-1,12,ikumi ni iwiri,ikumi ni iwiri,[],,['chan2019'],,False,False,,1
+suba1254-1-13-1,,suba1254-1,13,ikumi ni isatu,ikumi ni isatu,[],,['chan2019'],,False,False,,1
+suba1254-1-14-1,,suba1254-1,14,ikumi ni ine,ikumi ni ine,[],,['chan2019'],,False,False,,1
+suba1254-1-15-1,,suba1254-1,15,ikumi ni itaanu,ikumi ni itaanu,[],,['chan2019'],,False,False,,1
+suba1254-1-16-1,,suba1254-1,16,ikumi ni mukaaɡa,ikumi ni mukaaɡa,[],,['chan2019'],,False,False,,1
+suba1254-1-17-1,,suba1254-1,17,ikumi ni musamvu,ikumi ni musamvu,[],,['chan2019'],,False,False,,1
+suba1254-1-18-1,,suba1254-1,18,ikumi ni munaane,ikumi ni munaane,[],,['chan2019'],,False,False,,1
+suba1254-1-19-1,,suba1254-1,19,ikumi ná kienda,ikumi ná kienda,[],,['chan2019'],,False,False,,1
+suba1254-1-20-1,,suba1254-1,20,amakumi awiri,amakumi awiri,[],,['chan2019'],,False,False,,1
+suba1254-1-21-1,,suba1254-1,21,amakumi awiri ne endala,amakumi awiri ne endala,[],,['chan2019'],,False,False,,1
+suba1254-1-22-1,,suba1254-1,22,amakumi awiri ni iwiri,amakumi awiri ni iwiri,[],,['chan2019'],,False,False,,1
+suba1254-1-23-1,,suba1254-1,23,amakumi awiri ni isatu,amakumi awiri ni isatu,[],,['chan2019'],,False,False,,1
+suba1254-1-24-1,,suba1254-1,24,amakumi awiri ni ine,amakumi awiri ni ine,[],,['chan2019'],,False,False,,1
+suba1254-1-25-1,,suba1254-1,25,amakumi awiri ni itaanu,amakumi awiri ni itaanu,[],,['chan2019'],,False,False,,1
+suba1254-1-26-1,,suba1254-1,26,amakumi awiri ni mukaaɡa,amakumi awiri ni mukaaɡa,[],,['chan2019'],,False,False,,1
+suba1254-1-27-1,,suba1254-1,27,amakumi awiri ni musamvu,amakumi awiri ni musamvu,[],,['chan2019'],,False,False,,1
+suba1254-1-28-1,,suba1254-1,28,amakumi awiri ni munaane,amakumi awiri ni munaane,[],,['chan2019'],,False,False,,1
+suba1254-1-29-1,,suba1254-1,29,amakumi awiri ni kienda,amakumi awiri ni kienda,[],,['chan2019'],,False,False,,1
+suba1254-1-30-1,,suba1254-1,30,amakumi asatu,amakumi asatu,[],,['chan2019'],,False,False,,1
+suba1254-1-40-1,,suba1254-1,40,amakumi ane,amakumi ane,[],,['chan2019'],,False,False,,1
+suba1254-1-50-1,,suba1254-1,50,amakumi ataanu,amakumi ataanu,[],,['chan2019'],,False,False,,1
+suba1254-1-60-1,,suba1254-1,60,amakumi mukaaɡa,amakumi mukaaɡa,[],,['chan2019'],,False,False,,1
+suba1254-1-70-1,,suba1254-1,70,amakumi musamvu,amakumi musamvu,[],,['chan2019'],,False,False,,1
+suba1254-1-80-1,,suba1254-1,80,amakumi munaane,amakumi munaane,[],,['chan2019'],,False,False,,1
+suba1254-1-90-1,,suba1254-1,90,amakumi kienda,amakumi kienda,[],,['chan2019'],,False,False,,1
+suba1254-1-100-1,,suba1254-1,100,mia kilala,mia kilala,[],( 'mia' <Swahili),['chan2019'],,True,False,,1
+suba1254-1-200-1,,suba1254-1,200,mia wiwiri,mia wiwiri,[],,['chan2019'],,False,False,,1
+suba1254-1-1000-1,,suba1254-1,1000,elifu kilala,elifu kilala,[],( 'elifu' <Swahili),['chan2019'],,True,False,,1
+suba1254-1-2000-1,,suba1254-1,2000,elifu wiwiri,elifu wiwiri,[],,['chan2019'],,False,False,,1

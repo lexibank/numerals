@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-basq1248-2-1-1,,basq1248-2,1,bat,bat,[],,[],,False,False,,2
-basq1248-2-2-1,,basq1248-2,2,bi,bi,[],,[],,False,False,,2
-basq1248-2-3-1,,basq1248-2,3,hiru,hiru,[],,[],,False,False,,2
-basq1248-2-4-1,,basq1248-2,4,lau,lau,[],,[],,False,False,,2
-basq1248-2-5-1,,basq1248-2,5,bost,bost,[],,[],,False,False,,2
-basq1248-2-6-1,,basq1248-2,6,sei,sei,[],,[],,False,False,,2
-basq1248-2-7-1,,basq1248-2,7,zazpi,zazpi,[],,[],,False,False,,2
-basq1248-2-8-1,,basq1248-2,8,zortzi,zortzi,[],,[],,False,False,,2
-basq1248-2-9-1,,basq1248-2,9,bederatzi,bederatzi,[],,[],,False,False,,2
-basq1248-2-10-1,,basq1248-2,10,hamar,hamar,[],,[],,False,False,,2
-basq1248-2-11-1,,basq1248-2,11,hamaika,hamaika,[],,[],,False,False,,2
-basq1248-2-12-1,,basq1248-2,12,hamabi,hamabi,[],,[],,False,False,,2
-basq1248-2-13-1,,basq1248-2,13,hamahiru,hamahiru,[],,[],,False,False,,2
-basq1248-2-14-1,,basq1248-2,14,hamalau,hamalau,[],,[],,False,False,,2
-basq1248-2-15-1,,basq1248-2,15,hamabost,hamabost,[],,[],,False,False,,2
-basq1248-2-16-1,,basq1248-2,16,hamasei,hamasei,[],,[],,False,False,,2
-basq1248-2-17-1,,basq1248-2,17,hamazazpi,hamazazpi,[],,[],,False,False,,2
-basq1248-2-18-1,,basq1248-2,18,hemezortzi,hemezortzi,[],,[],,False,False,,2
-basq1248-2-19-1,,basq1248-2,19,hemeretzi,hemeretzi,[],,[],,False,False,,2
-basq1248-2-20-1,,basq1248-2,20,hogei,hogei,[],,[],,False,False,,2
-basq1248-2-21-1,,basq1248-2,21,hogeitabat,hogeitabat,[],,[],,False,False,,2
-basq1248-2-22-1,,basq1248-2,22,hogeitabi,hogeitabi,[],,[],,False,False,,2
-basq1248-2-23-1,,basq1248-2,23,hogeitahiru,hogeitahiru,[],,[],,False,False,,2
-basq1248-2-24-1,,basq1248-2,24,hogeitalau,hogeitalau,[],,[],,False,False,,2
-basq1248-2-25-1,,basq1248-2,25,hogeitabost,hogeitabost,[],,[],,False,False,,2
-basq1248-2-26-1,,basq1248-2,26,hogeitasei,hogeitasei,[],,[],,False,False,,2
-basq1248-2-27-1,,basq1248-2,27,hogeitazapzi,hogeitazapzi,[],,[],,False,False,,2
-basq1248-2-28-1,,basq1248-2,28,hogeitazortzi,hogeitazortzi,[],,[],,False,False,,2
-basq1248-2-29-1,,basq1248-2,29,hogeitabederatzi,hogeitabederatzi,[],,[],,False,False,,2
-basq1248-2-30-1,,basq1248-2,30,hogeitahamar,hogeitahamar,[],( 20 + 10 ),[],,False,False,,2
-basq1248-2-40-1,,basq1248-2,40,berrogei,berrogei,[],( 2 x 20 ),[],,False,False,,2
-basq1248-2-50-1,,basq1248-2,50,berrogeitahamar,berrogeitahamar,[],( 2 x 20 + 10 ),[],,False,False,,2
-basq1248-2-60-1,,basq1248-2,60,hirurogei,hirurogei,[],( 3 x 20 ),[],,False,False,,2
-basq1248-2-70-1,,basq1248-2,70,hirurogeitahamar,hirurogeitahamar,[],( 3 x 20 + 10 ),[],,False,False,,2
-basq1248-2-80-1,,basq1248-2,80,larrogei,larrogei,[],( 4 x 20 ),[],,False,False,,2
-basq1248-2-90-1,,basq1248-2,90,larrogeitahamar,larrogeitahamar,[],( 4 x 20 + 10 ),[],,False,False,,2
-basq1248-2-100-1,,basq1248-2,100,ehun,ehun,[],,[],,False,False,,2
-basq1248-2-200-1,,basq1248-2,200,berrehun,berrehun,[],,[],,False,False,,2
-basq1248-2-1000-1,,basq1248-2,1000,mila,mila,[],< Latin ,[],,True,False,,2
-basq1248-2-2000-1,,basq1248-2,2000,bi mila,bi mila,[],,[],,False,False,,2
+basq1248-2-1-1,,basq1248-2,1,bat,bat,[],,['chan2019'],,False,False,,2
+basq1248-2-2-1,,basq1248-2,2,bi,bi,[],,['chan2019'],,False,False,,2
+basq1248-2-3-1,,basq1248-2,3,hiru,hiru,[],,['chan2019'],,False,False,,2
+basq1248-2-4-1,,basq1248-2,4,lau,lau,[],,['chan2019'],,False,False,,2
+basq1248-2-5-1,,basq1248-2,5,bost,bost,[],,['chan2019'],,False,False,,2
+basq1248-2-6-1,,basq1248-2,6,sei,sei,[],,['chan2019'],,False,False,,2
+basq1248-2-7-1,,basq1248-2,7,zazpi,zazpi,[],,['chan2019'],,False,False,,2
+basq1248-2-8-1,,basq1248-2,8,zortzi,zortzi,[],,['chan2019'],,False,False,,2
+basq1248-2-9-1,,basq1248-2,9,bederatzi,bederatzi,[],,['chan2019'],,False,False,,2
+basq1248-2-10-1,,basq1248-2,10,hamar,hamar,[],,['chan2019'],,False,False,,2
+basq1248-2-11-1,,basq1248-2,11,hamaika,hamaika,[],,['chan2019'],,False,False,,2
+basq1248-2-12-1,,basq1248-2,12,hamabi,hamabi,[],,['chan2019'],,False,False,,2
+basq1248-2-13-1,,basq1248-2,13,hamahiru,hamahiru,[],,['chan2019'],,False,False,,2
+basq1248-2-14-1,,basq1248-2,14,hamalau,hamalau,[],,['chan2019'],,False,False,,2
+basq1248-2-15-1,,basq1248-2,15,hamabost,hamabost,[],,['chan2019'],,False,False,,2
+basq1248-2-16-1,,basq1248-2,16,hamasei,hamasei,[],,['chan2019'],,False,False,,2
+basq1248-2-17-1,,basq1248-2,17,hamazazpi,hamazazpi,[],,['chan2019'],,False,False,,2
+basq1248-2-18-1,,basq1248-2,18,hemezortzi,hemezortzi,[],,['chan2019'],,False,False,,2
+basq1248-2-19-1,,basq1248-2,19,hemeretzi,hemeretzi,[],,['chan2019'],,False,False,,2
+basq1248-2-20-1,,basq1248-2,20,hogei,hogei,[],,['chan2019'],,False,False,,2
+basq1248-2-21-1,,basq1248-2,21,hogeitabat,hogeitabat,[],,['chan2019'],,False,False,,2
+basq1248-2-22-1,,basq1248-2,22,hogeitabi,hogeitabi,[],,['chan2019'],,False,False,,2
+basq1248-2-23-1,,basq1248-2,23,hogeitahiru,hogeitahiru,[],,['chan2019'],,False,False,,2
+basq1248-2-24-1,,basq1248-2,24,hogeitalau,hogeitalau,[],,['chan2019'],,False,False,,2
+basq1248-2-25-1,,basq1248-2,25,hogeitabost,hogeitabost,[],,['chan2019'],,False,False,,2
+basq1248-2-26-1,,basq1248-2,26,hogeitasei,hogeitasei,[],,['chan2019'],,False,False,,2
+basq1248-2-27-1,,basq1248-2,27,hogeitazapzi,hogeitazapzi,[],,['chan2019'],,False,False,,2
+basq1248-2-28-1,,basq1248-2,28,hogeitazortzi,hogeitazortzi,[],,['chan2019'],,False,False,,2
+basq1248-2-29-1,,basq1248-2,29,hogeitabederatzi,hogeitabederatzi,[],,['chan2019'],,False,False,,2
+basq1248-2-30-1,,basq1248-2,30,hogeitahamar,hogeitahamar,[],( 20 + 10 ),['chan2019'],,False,False,,2
+basq1248-2-40-1,,basq1248-2,40,berrogei,berrogei,[],( 2 x 20 ),['chan2019'],,False,False,,2
+basq1248-2-50-1,,basq1248-2,50,berrogeitahamar,berrogeitahamar,[],( 2 x 20 + 10 ),['chan2019'],,False,False,,2
+basq1248-2-60-1,,basq1248-2,60,hirurogei,hirurogei,[],( 3 x 20 ),['chan2019'],,False,False,,2
+basq1248-2-70-1,,basq1248-2,70,hirurogeitahamar,hirurogeitahamar,[],( 3 x 20 + 10 ),['chan2019'],,False,False,,2
+basq1248-2-80-1,,basq1248-2,80,larrogei,larrogei,[],( 4 x 20 ),['chan2019'],,False,False,,2
+basq1248-2-90-1,,basq1248-2,90,larrogeitahamar,larrogeitahamar,[],( 4 x 20 + 10 ),['chan2019'],,False,False,,2
+basq1248-2-100-1,,basq1248-2,100,ehun,ehun,[],,['chan2019'],,False,False,,2
+basq1248-2-200-1,,basq1248-2,200,berrehun,berrehun,[],,['chan2019'],,False,False,,2
+basq1248-2-1000-1,,basq1248-2,1000,mila,mila,[],< Latin ,['chan2019'],,True,False,,2
+basq1248-2-2000-1,,basq1248-2,2000,bi mila,bi mila,[],,['chan2019'],,False,False,,2

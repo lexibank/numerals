@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kama1373-1-1-1,,kama1373-1,1,mojepete,mojepete,[],"( lit: also 'once', 'alone')",[],,False,False,,1
-kama1373-1-2-1,,kama1373-1,2,mokõj,mokõj,[],(lit: 'also 'twins'),[],,False,False,,1
-kama1373-1-3-1,,kama1373-1,3,moʔa'pyt,moʔa'pyt,[],,[],,False,False,,1
-kama1373-1-4-1,,kama1373-1,4,mojoʔrũ,mojoʔrũ,[],,[],,False,False,,1
-kama1373-1-5-1,,kama1373-1,5,jenepomomap,jenepomomap,[],"( jene = 1ᵃ, Inclu.ː -po = hand, finger; -momap = finish Trans)",[],,False,False,,1
-kama1373-1-6-1,,kama1373-1,6,jene poa weroʔyahap mojepete,jene poa weroʔyahap mojepete,[],(litː w-3ᵃ.p.; eroʔyahap = pass),[],,False,False,,1
-kama1373-1-7-1,,kama1373-1,7,jene poa weroʔyahap mokõj,jene poa weroʔyahap mokõj,[],,[],,False,False,,1
-kama1373-1-8-1,,kama1373-1,8,jene poa weroʔyahap moʔapyt,jene poa weroʔyahap moʔapyt,[],,[],,False,False,,1
-kama1373-1-9-1,,kama1373-1,9,jene poa weroʔyahap mojoʔrũ,jene poa weroʔyahap mojoʔrũ,[],,[],,False,False,,1
-kama1373-1-10-1,,kama1373-1,10,jenepomomap,jenepomomap,[],,[],,False,False,,1
-kama1373-1-11-1,,kama1373-1,11,mojepete jene pyaɪ weroʔyahap (pyaï = foot finger) ï = IPA [ɪ] or [ə],mojepete jene pyaɪ weroʔyahap (pyaï = foot finger) ï = IPA [ɪ] or [ə],[],,[],,False,True,,1
-kama1373-1-12-1,,kama1373-1,12,mokõj jene pyaɪ weroʔyahap,mokõj jene pyaɪ weroʔyahap,[],,[],,False,False,,1
-kama1373-1-13-1,,kama1373-1,13,moʔapyt jene pyaɪ weroʔyahap,moʔapyt jene pyaɪ weroʔyahap,[],,[],,False,False,,1
-kama1373-1-14-1,,kama1373-1,14,mojoʔrũ jene pyaɪ weroʔyahap,mojoʔrũ jene pyaɪ weroʔyahap,[],,[],,False,False,,1
-kama1373-1-15-1,,kama1373-1,15,mojepete jene pyaɪ opap,mojepete jene pyaɪ opap,[],(-py = foot; o-=3ᵃ.p.; -pap -finish / intrans),[],,False,False,,1
-kama1373-1-16-1,,kama1373-1,16,jene pya weroʔyahap mojepe'te,jene pya weroʔyahap mojepe'te,[],,[],,False,False,,1
-kama1373-1-17-1,,kama1373-1,17,jene pya weroʔyahap mokõj,jene pya weroʔyahap mokõj,[],,[],,False,False,,1
-kama1373-1-18-1,,kama1373-1,18,jene pya weroʔyahap moʔapyt,jene pya weroʔyahap moʔapyt,[],,[],,False,False,,1
-kama1373-1-19-1,,kama1373-1,19,jene pya weroʔyahap mojoʔrũ,jene pya weroʔyahap mojoʔrũ,[],,[],,False,False,,1
-kama1373-1-20-1,,kama1373-1,20,jene pya omomap mokõj,jene pya omomap mokõj,[],,[],,False,False,,1
+kama1373-1-1-1,,kama1373-1,1,mojepete,mojepete,[],"( lit: also 'once', 'alone')",['chan2019'],,False,False,,1
+kama1373-1-2-1,,kama1373-1,2,mokõj,mokõj,[],(lit: 'also 'twins'),['chan2019'],,False,False,,1
+kama1373-1-3-1,,kama1373-1,3,moʔa'pyt,moʔa'pyt,[],,['chan2019'],,False,False,,1
+kama1373-1-4-1,,kama1373-1,4,mojoʔrũ,mojoʔrũ,[],,['chan2019'],,False,False,,1
+kama1373-1-5-1,,kama1373-1,5,jenepomomap,jenepomomap,[],"( jene = 1ᵃ, Inclu.ː -po = hand, finger; -momap = finish Trans)",['chan2019'],,False,False,,1
+kama1373-1-6-1,,kama1373-1,6,jene poa weroʔyahap mojepete,jene poa weroʔyahap mojepete,[],(litː w-3ᵃ.p.; eroʔyahap = pass),['chan2019'],,False,False,,1
+kama1373-1-7-1,,kama1373-1,7,jene poa weroʔyahap mokõj,jene poa weroʔyahap mokõj,[],,['chan2019'],,False,False,,1
+kama1373-1-8-1,,kama1373-1,8,jene poa weroʔyahap moʔapyt,jene poa weroʔyahap moʔapyt,[],,['chan2019'],,False,False,,1
+kama1373-1-9-1,,kama1373-1,9,jene poa weroʔyahap mojoʔrũ,jene poa weroʔyahap mojoʔrũ,[],,['chan2019'],,False,False,,1
+kama1373-1-10-1,,kama1373-1,10,jenepomomap,jenepomomap,[],,['chan2019'],,False,False,,1
+kama1373-1-11-1,,kama1373-1,11,mojepete jene pyaɪ weroʔyahap (pyaï = foot finger) ï = IPA [ɪ] or [ə],mojepete jene pyaɪ weroʔyahap (pyaï = foot finger) ï = IPA [ɪ] or [ə],[],,['chan2019'],,False,True,,1
+kama1373-1-12-1,,kama1373-1,12,mokõj jene pyaɪ weroʔyahap,mokõj jene pyaɪ weroʔyahap,[],,['chan2019'],,False,False,,1
+kama1373-1-13-1,,kama1373-1,13,moʔapyt jene pyaɪ weroʔyahap,moʔapyt jene pyaɪ weroʔyahap,[],,['chan2019'],,False,False,,1
+kama1373-1-14-1,,kama1373-1,14,mojoʔrũ jene pyaɪ weroʔyahap,mojoʔrũ jene pyaɪ weroʔyahap,[],,['chan2019'],,False,False,,1
+kama1373-1-15-1,,kama1373-1,15,mojepete jene pyaɪ opap,mojepete jene pyaɪ opap,[],(-py = foot; o-=3ᵃ.p.; -pap -finish / intrans),['chan2019'],,False,False,,1
+kama1373-1-16-1,,kama1373-1,16,jene pya weroʔyahap mojepe'te,jene pya weroʔyahap mojepe'te,[],,['chan2019'],,False,False,,1
+kama1373-1-17-1,,kama1373-1,17,jene pya weroʔyahap mokõj,jene pya weroʔyahap mokõj,[],,['chan2019'],,False,False,,1
+kama1373-1-18-1,,kama1373-1,18,jene pya weroʔyahap moʔapyt,jene pya weroʔyahap moʔapyt,[],,['chan2019'],,False,False,,1
+kama1373-1-19-1,,kama1373-1,19,jene pya weroʔyahap mojoʔrũ,jene pya weroʔyahap mojoʔrũ,[],,['chan2019'],,False,False,,1
+kama1373-1-20-1,,kama1373-1,20,jene pya omomap mokõj,jene pya omomap mokõj,[],,['chan2019'],,False,False,,1

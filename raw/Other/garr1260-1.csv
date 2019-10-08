@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-garr1260-1-1-1,,garr1260-1,1,yiŋɡimali,yiŋɡimali,[],,[],,False,False,,1
-garr1260-1-2-1,,garr1260-1,2,ɡujarra,ɡujarra,[],,[],,False,False,,1
-garr1260-1-3-1,,garr1260-1,3,ɡujarra-yiŋɡimali,ɡujarra-yiŋɡimali,[],( 2 + 1),[],,False,False,,1
-garr1260-1-4-1,,garr1260-1,4,murrɡu,murrɡu,[],( lit: 'small mob'),[],,False,False,,1
-garr1260-1-4-2,,garr1260-1,4,5. murrɡu,5. murrɡu,[],( lit: 'small mob'),[],,False,True,,1
-garr1260-1-4-3,,garr1260-1,4,6. murrɡu,6. murrɡu,[],( lit: 'small mob'),[],,False,True,,1
-garr1260-1-7-1,,garr1260-1,7,ɡaja,ɡaja,[],( lit: 'big mob'),[],,False,False,,1
-garr1260-1-7-2,,garr1260-1,7,8. ɡaja,8. ɡaja,[],( lit: 'big mob'),[],,False,True,,1
-garr1260-1-7-3,,garr1260-1,7,9. ɡaja,9. ɡaja,[],( lit: 'big mob'),[],,False,True,,1
-garr1260-1-7-4,,garr1260-1,7,10. ɡaja,10. ɡaja,[],( lit: 'big mob'),[],,False,True,,1
-garr1260-1-7-5,,garr1260-1,7,11. ɡaja,11. ɡaja,[],( lit: 'big mob'),[],,False,True,,1
-garr1260-1-7-6,,garr1260-1,7,12. ɡaja,12. ɡaja,[],( lit: 'big mob'),[],,False,True,,1
-garr1260-1-7-7,,garr1260-1,7,etc.,etc.,[],,[],,False,False,,1
+garr1260-1-1-1,,garr1260-1,1,yiŋɡimali,yiŋɡimali,[],,['chan2019'],,False,False,,1
+garr1260-1-2-1,,garr1260-1,2,ɡujarra,ɡujarra,[],,['chan2019'],,False,False,,1
+garr1260-1-3-1,,garr1260-1,3,ɡujarra-yiŋɡimali,ɡujarra-yiŋɡimali,[],( 2 + 1),['chan2019'],,False,False,,1
+garr1260-1-4-1,,garr1260-1,4,murrɡu,murrɡu,[],( lit: 'small mob'),['chan2019'],,False,False,,1
+garr1260-1-4-2,,garr1260-1,4,5. murrɡu,5. murrɡu,[],( lit: 'small mob'),['chan2019'],,False,True,,1
+garr1260-1-4-3,,garr1260-1,4,6. murrɡu,6. murrɡu,[],( lit: 'small mob'),['chan2019'],,False,True,,1
+garr1260-1-7-1,,garr1260-1,7,ɡaja,ɡaja,[],( lit: 'big mob'),['chan2019'],,False,False,,1
+garr1260-1-7-2,,garr1260-1,7,8. ɡaja,8. ɡaja,[],( lit: 'big mob'),['chan2019'],,False,True,,1
+garr1260-1-7-3,,garr1260-1,7,9. ɡaja,9. ɡaja,[],( lit: 'big mob'),['chan2019'],,False,True,,1
+garr1260-1-7-4,,garr1260-1,7,10. ɡaja,10. ɡaja,[],( lit: 'big mob'),['chan2019'],,False,True,,1
+garr1260-1-7-5,,garr1260-1,7,11. ɡaja,11. ɡaja,[],( lit: 'big mob'),['chan2019'],,False,True,,1
+garr1260-1-7-6,,garr1260-1,7,12. ɡaja,12. ɡaja,[],( lit: 'big mob'),['chan2019'],,False,True,,1
+garr1260-1-7-7,,garr1260-1,7,etc.,etc.,[],,['chan2019'],,False,False,,1

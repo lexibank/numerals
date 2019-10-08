@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-apur1254-2-1-1,,apur1254-2,1,ãti,ãti,[],,[],,False,False,,2
-apur1254-2-2-1,,apur1254-2,2,ipi,ipi,[],,[],,False,False,,2
-apur1254-2-3-1,,apur1254-2,3,ipiãti,ipiãti,[],( 2 + 1 ),[],,False,False,,2
-apur1254-2-4-1,,apur1254-2,4,ipi ipi,ipi ipi,[],( 2 + 2 ),[],,False,False,,2
-apur1254-2-5-1,,apur1254-2,5,ipi ipi ãti,ipi ipi ãti,[],( 2 + 2 + 1 ),[],,False,False,,2
-apur1254-2-6-1,,apur1254-2,6,ipi ipi ipi,ipi ipi ipi,[],( 2 + 2 + 2 ),[],,False,False,,2
+apur1254-2-1-1,,apur1254-2,1,ãti,ãti,[],,['chan2019'],,False,False,,2
+apur1254-2-2-1,,apur1254-2,2,ipi,ipi,[],,['chan2019'],,False,False,,2
+apur1254-2-3-1,,apur1254-2,3,ipiãti,ipiãti,[],( 2 + 1 ),['chan2019'],,False,False,,2
+apur1254-2-4-1,,apur1254-2,4,ipi ipi,ipi ipi,[],( 2 + 2 ),['chan2019'],,False,False,,2
+apur1254-2-5-1,,apur1254-2,5,ipi ipi ãti,ipi ipi ãti,[],( 2 + 2 + 1 ),['chan2019'],,False,False,,2
+apur1254-2-6-1,,apur1254-2,6,ipi ipi ipi,ipi ipi ipi,[],( 2 + 2 + 2 ),['chan2019'],,False,False,,2

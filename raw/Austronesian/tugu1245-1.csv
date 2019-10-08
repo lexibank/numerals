@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tugu1245-1-1-1,,tugu1245-1,1,eha,eha,[],,[],,False,False,,1
-tugu1245-1-1-2,,tugu1245-1,1,hasa,hasa,[],,[],,False,False,,1
-tugu1245-1-2-1,,tugu1245-1,2,farua,farua,[],,[],,False,False,,1
-tugu1245-1-3-1,,tugu1245-1,3,fatelu,fatelu,[],,[],,False,False,,1
-tugu1245-1-4-1,,tugu1245-1,4,faʔaːt,faʔaːt,[],,[],,False,False,,1
-tugu1245-1-5-1,,tugu1245-1,5,falima,falima,[],,[],,False,False,,1
-tugu1245-1-6-1,,tugu1245-1,6,faneːŋ,faneːŋ,[],,[],,False,False,,1
-tugu1245-1-7-1,,tugu1245-1,7,faʔitu,faʔitu,[],,[],,False,False,,1
-tugu1245-1-8-1,,tugu1245-1,8,fakau,fakau,[],,[],,False,False,,1
-tugu1245-1-9-1,,tugu1245-1,9,fasia,fasia,[],,[],,False,False,,1
-tugu1245-1-10-1,,tugu1245-1,10,sanulu,sanulu,[],,[],,False,False,,1
-tugu1245-1-11-1,,tugu1245-1,11,sanulu esin eha,sanulu esin eha,[],,[],,False,False,,1
-tugu1245-1-12-1,,tugu1245-1,12,sanulu esin farua,sanulu esin farua,[],,[],,False,False,,1
-tugu1245-1-13-1,,tugu1245-1,13,sanulu esin fatelu,sanulu esin fatelu,[],,[],,False,False,,1
-tugu1245-1-14-1,,tugu1245-1,14,sanulu esin faʔaːt,sanulu esin faʔaːt,[],,[],,False,False,,1
-tugu1245-1-15-1,,tugu1245-1,15,sanulu esin falima,sanulu esin falima,[],,[],,False,False,,1
-tugu1245-1-16-1,,tugu1245-1,16,sanulu esin faneːŋ,sanulu esin faneːŋ,[],,[],,False,False,,1
-tugu1245-1-17-1,,tugu1245-1,17,sanulu esin faʔitu,sanulu esin faʔitu,[],,[],,False,False,,1
-tugu1245-1-18-1,,tugu1245-1,18,sanulu esin fakau,sanulu esin fakau,[],,[],,False,False,,1
-tugu1245-1-19-1,,tugu1245-1,19,sanulu esin fasia,sanulu esin fasia,[],,[],,False,False,,1
-tugu1245-1-20-1,,tugu1245-1,20,felerua,felerua,[],,[],,False,False,,1
-tugu1245-1-20-2,,tugu1245-1,20,felrua,felrua,[],,[],,False,False,,1
-tugu1245-1-21-1,,tugu1245-1,21,felerua esin eha,felerua esin eha,[],,[],,False,False,,1
-tugu1245-1-22-1,,tugu1245-1,22,felerua esin farua,felerua esin farua,[],,[],,False,False,,1
-tugu1245-1-23-1,,tugu1245-1,23,felerua esin fatelu,felerua esin fatelu,[],,[],,False,False,,1
-tugu1245-1-24-1,,tugu1245-1,24,felerua esin faʔaːt,felerua esin faʔaːt,[],,[],,False,False,,1
-tugu1245-1-25-1,,tugu1245-1,25,felerua esin falima,felerua esin falima,[],,[],,False,False,,1
-tugu1245-1-26-1,,tugu1245-1,26,felerua esin faneːŋ,felerua esin faneːŋ,[],,[],,False,False,,1
-tugu1245-1-27-1,,tugu1245-1,27,felerua esin faʔitu,felerua esin faʔitu,[],,[],,False,False,,1
-tugu1245-1-28-1,,tugu1245-1,28,felerua esin fakau,felerua esin fakau,[],,[],,False,False,,1
-tugu1245-1-29-1,,tugu1245-1,29,felerua esin fasia,felerua esin fasia,[],,[],,False,False,,1
-tugu1245-1-30-1,,tugu1245-1,30,feletelu,feletelu,[],,[],,False,False,,1
-tugu1245-1-40-1,,tugu1245-1,40,feleʔaːt,feleʔaːt,[],,[],,False,False,,1
-tugu1245-1-50-1,,tugu1245-1,50,felelima,felelima,[],,[],,False,False,,1
-tugu1245-1-60-1,,tugu1245-1,60,feleneːŋ,feleneːŋ,[],,[],,False,False,,1
-tugu1245-1-70-1,,tugu1245-1,70,feleʔitu,feleʔitu,[],,[],,False,False,,1
-tugu1245-1-80-1,,tugu1245-1,80,felekau,felekau,[],,[],,False,False,,1
-tugu1245-1-90-1,,tugu1245-1,90,felesia,felesia,[],,[],,False,False,,1
-tugu1245-1-100-1,,tugu1245-1,100,ratu eha,ratu eha,[],,[],,False,False,,1
-tugu1245-1-200-1,,tugu1245-1,200,ratu farua,ratu farua,[],,[],,False,False,,1
-tugu1245-1-1000-1,,tugu1245-1,1000,rihun eha,rihun eha,[],,[],,False,False,,1
-tugu1245-1-2000-1,,tugu1245-1,2000,rihun farua,rihun farua,[],,[],,False,False,,1
+tugu1245-1-1-1,,tugu1245-1,1,eha,eha,[],,['chan2019'],,False,False,,1
+tugu1245-1-1-2,,tugu1245-1,1,hasa,hasa,[],,['chan2019'],,False,False,,1
+tugu1245-1-2-1,,tugu1245-1,2,farua,farua,[],,['chan2019'],,False,False,,1
+tugu1245-1-3-1,,tugu1245-1,3,fatelu,fatelu,[],,['chan2019'],,False,False,,1
+tugu1245-1-4-1,,tugu1245-1,4,faʔaːt,faʔaːt,[],,['chan2019'],,False,False,,1
+tugu1245-1-5-1,,tugu1245-1,5,falima,falima,[],,['chan2019'],,False,False,,1
+tugu1245-1-6-1,,tugu1245-1,6,faneːŋ,faneːŋ,[],,['chan2019'],,False,False,,1
+tugu1245-1-7-1,,tugu1245-1,7,faʔitu,faʔitu,[],,['chan2019'],,False,False,,1
+tugu1245-1-8-1,,tugu1245-1,8,fakau,fakau,[],,['chan2019'],,False,False,,1
+tugu1245-1-9-1,,tugu1245-1,9,fasia,fasia,[],,['chan2019'],,False,False,,1
+tugu1245-1-10-1,,tugu1245-1,10,sanulu,sanulu,[],,['chan2019'],,False,False,,1
+tugu1245-1-11-1,,tugu1245-1,11,sanulu esin eha,sanulu esin eha,[],,['chan2019'],,False,False,,1
+tugu1245-1-12-1,,tugu1245-1,12,sanulu esin farua,sanulu esin farua,[],,['chan2019'],,False,False,,1
+tugu1245-1-13-1,,tugu1245-1,13,sanulu esin fatelu,sanulu esin fatelu,[],,['chan2019'],,False,False,,1
+tugu1245-1-14-1,,tugu1245-1,14,sanulu esin faʔaːt,sanulu esin faʔaːt,[],,['chan2019'],,False,False,,1
+tugu1245-1-15-1,,tugu1245-1,15,sanulu esin falima,sanulu esin falima,[],,['chan2019'],,False,False,,1
+tugu1245-1-16-1,,tugu1245-1,16,sanulu esin faneːŋ,sanulu esin faneːŋ,[],,['chan2019'],,False,False,,1
+tugu1245-1-17-1,,tugu1245-1,17,sanulu esin faʔitu,sanulu esin faʔitu,[],,['chan2019'],,False,False,,1
+tugu1245-1-18-1,,tugu1245-1,18,sanulu esin fakau,sanulu esin fakau,[],,['chan2019'],,False,False,,1
+tugu1245-1-19-1,,tugu1245-1,19,sanulu esin fasia,sanulu esin fasia,[],,['chan2019'],,False,False,,1
+tugu1245-1-20-1,,tugu1245-1,20,felerua,felerua,[],,['chan2019'],,False,False,,1
+tugu1245-1-20-2,,tugu1245-1,20,felrua,felrua,[],,['chan2019'],,False,False,,1
+tugu1245-1-21-1,,tugu1245-1,21,felerua esin eha,felerua esin eha,[],,['chan2019'],,False,False,,1
+tugu1245-1-22-1,,tugu1245-1,22,felerua esin farua,felerua esin farua,[],,['chan2019'],,False,False,,1
+tugu1245-1-23-1,,tugu1245-1,23,felerua esin fatelu,felerua esin fatelu,[],,['chan2019'],,False,False,,1
+tugu1245-1-24-1,,tugu1245-1,24,felerua esin faʔaːt,felerua esin faʔaːt,[],,['chan2019'],,False,False,,1
+tugu1245-1-25-1,,tugu1245-1,25,felerua esin falima,felerua esin falima,[],,['chan2019'],,False,False,,1
+tugu1245-1-26-1,,tugu1245-1,26,felerua esin faneːŋ,felerua esin faneːŋ,[],,['chan2019'],,False,False,,1
+tugu1245-1-27-1,,tugu1245-1,27,felerua esin faʔitu,felerua esin faʔitu,[],,['chan2019'],,False,False,,1
+tugu1245-1-28-1,,tugu1245-1,28,felerua esin fakau,felerua esin fakau,[],,['chan2019'],,False,False,,1
+tugu1245-1-29-1,,tugu1245-1,29,felerua esin fasia,felerua esin fasia,[],,['chan2019'],,False,False,,1
+tugu1245-1-30-1,,tugu1245-1,30,feletelu,feletelu,[],,['chan2019'],,False,False,,1
+tugu1245-1-40-1,,tugu1245-1,40,feleʔaːt,feleʔaːt,[],,['chan2019'],,False,False,,1
+tugu1245-1-50-1,,tugu1245-1,50,felelima,felelima,[],,['chan2019'],,False,False,,1
+tugu1245-1-60-1,,tugu1245-1,60,feleneːŋ,feleneːŋ,[],,['chan2019'],,False,False,,1
+tugu1245-1-70-1,,tugu1245-1,70,feleʔitu,feleʔitu,[],,['chan2019'],,False,False,,1
+tugu1245-1-80-1,,tugu1245-1,80,felekau,felekau,[],,['chan2019'],,False,False,,1
+tugu1245-1-90-1,,tugu1245-1,90,felesia,felesia,[],,['chan2019'],,False,False,,1
+tugu1245-1-100-1,,tugu1245-1,100,ratu eha,ratu eha,[],,['chan2019'],,False,False,,1
+tugu1245-1-200-1,,tugu1245-1,200,ratu farua,ratu farua,[],,['chan2019'],,False,False,,1
+tugu1245-1-1000-1,,tugu1245-1,1000,rihun eha,rihun eha,[],,['chan2019'],,False,False,,1
+tugu1245-1-2000-1,,tugu1245-1,2000,rihun farua,rihun farua,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-khin1240-1-1-1,,khin1240-1,1,sɑ,sɑ,[],,[],,False,False,,1
-khin1240-1-2-1,,khin1240-1,2,kʼu,kʼu,[],,[],,False,False,,1
-khin1240-1-3-1,,khin1240-1,3,pʃʷɑ,pʃʷɑ,[],,[],,False,False,,1
-khin1240-1-4-1,,khin1240-1,4,unʀ,unʀ,[],,[],,False,False,,1
-khin1240-1-5-1,,khin1240-1,5,pxu,pxu,[],,[],,False,False,,1
-khin1240-1-6-1,,khin1240-1,6,zæk,zæk,[],,[],,False,False,,1
-khin1240-1-7-1,,khin1240-1,7,jikʼ,jikʼ,[],,[],,False,False,,1
-khin1240-1-8-1,,khin1240-1,8,inkʼ,inkʼ,[],,[],,False,False,,1
-khin1240-1-9-1,,khin1240-1,9,joz,joz,[],,[],,False,False,,1
-khin1240-1-10-1,,khin1240-1,10,jæʕiz,jæʕiz,[],,[],,False,False,,1
-khin1240-1-11-1,,khin1240-1,11,jæʕiz sɑ,jæʕiz sɑ,[],,[],,False,False,,1
-khin1240-1-12-1,,khin1240-1,12,jæʕiz kʼu,jæʕiz kʼu,[],,[],,False,False,,1
-khin1240-1-13-1,,khin1240-1,13,jæʕiz pʃʷɑ,jæʕiz pʃʷɑ,[],,[],,False,False,,1
-khin1240-1-14-1,,khin1240-1,14,jæʕiz unʀ,jæʕiz unʀ,[],,[],,False,False,,1
-khin1240-1-15-1,,khin1240-1,15,jæʕiz pxu,jæʕiz pxu,[],,[],,False,False,,1
-khin1240-1-16-1,,khin1240-1,16,jæʕiz zæk,jæʕiz zæk,[],,[],,False,False,,1
-khin1240-1-17-1,,khin1240-1,17,jæʕiz jikʼ,jæʕiz jikʼ,[],,[],,False,False,,1
-khin1240-1-18-1,,khin1240-1,18,jæʕiz inkʼ,jæʕiz inkʼ,[],,[],,False,False,,1
-khin1240-1-19-1,,khin1240-1,19,jæʕiz joz,jæʕiz joz,[],,[],,False,False,,1
-khin1240-1-20-1,,khin1240-1,20,qʼɑn,qʼɑn,[],,[],,False,False,,1
-khin1240-1-21-1,,khin1240-1,21,qʼɑn sɑ,qʼɑn sɑ,[],,[],,False,False,,1
-khin1240-1-22-1,,khin1240-1,22,qʼɑn kʼu,qʼɑn kʼu,[],,[],,False,False,,1
-khin1240-1-23-1,,khin1240-1,23,qʼɑn pʃʷɑ,qʼɑn pʃʷɑ,[],,[],,False,False,,1
-khin1240-1-24-1,,khin1240-1,24,qʼɑn unʀ,qʼɑn unʀ,[],,[],,False,False,,1
-khin1240-1-25-1,,khin1240-1,25,qʼɑn pxu,qʼɑn pxu,[],,[],,False,False,,1
-khin1240-1-26-1,,khin1240-1,26,qʼɑn zæk,qʼɑn zæk,[],,[],,False,False,,1
-khin1240-1-27-1,,khin1240-1,27,qʼɑn jikʼ,qʼɑn jikʼ,[],,[],,False,False,,1
-khin1240-1-28-1,,khin1240-1,28,qʼɑn inkʼ,qʼɑn inkʼ,[],,[],,False,False,,1
-khin1240-1-29-1,,khin1240-1,29,qʼɑn joz,qʼɑn joz,[],,[],,False,False,,1
-khin1240-1-30-1,,khin1240-1,30,qʼænnæʕiz,qʼænnæʕiz,[],( 20+10),[],,False,False,,1
-khin1240-1-40-1,,khin1240-1,40,kʼunnu.qʼan,kʼunnu.qʼan,[],( 2 x 20 ),[],,False,False,,1
-khin1240-1-50-1,,khin1240-1,50,kʼunnu.qʼannæʕiz,kʼunnu.qʼannæʕiz,[],,[],,False,False,,1
-khin1240-1-60-1,,khin1240-1,60,kt͡ʃi.qʼɑn,kt͡ʃi.qʼɑn,[],( 3 x 20 ),[],,False,False,,1
-khin1240-1-70-1,,khin1240-1,70,kt͡ʃi.qʼɑnnæʕiz,kt͡ʃi.qʼɑnnæʕiz,[],,[],,False,False,,1
-khin1240-1-80-1,,khin1240-1,80,unkʼu.qʼan,unkʼu.qʼan,[],( 4 x 20 ),[],,False,False,,1
-khin1240-1-90-1,,khin1240-1,90,unkʼu.qʼannæʕiz,unkʼu.qʼannæʕiz,[],,[],,False,False,,1
-khin1240-1-100-1,,khin1240-1,100,pɑn,pɑn,[],,[],,False,False,,1
-khin1240-1-200-1,,khin1240-1,200,kʼunu pɑn,kʼunu pɑn,[],,[],,False,False,,1
-khin1240-1-1000-1,,khin1240-1,1000,ɑːzɯr,ɑːzɯr,[],< Iranian ,[],,True,False,,1
-khin1240-1-2000-1,,khin1240-1,2000,kʼu aːzɯr,kʼu aːzɯr,[],,[],,False,False,,1
+khin1240-1-1-1,,khin1240-1,1,sɑ,sɑ,[],,['chan2019'],,False,False,,1
+khin1240-1-2-1,,khin1240-1,2,kʼu,kʼu,[],,['chan2019'],,False,False,,1
+khin1240-1-3-1,,khin1240-1,3,pʃʷɑ,pʃʷɑ,[],,['chan2019'],,False,False,,1
+khin1240-1-4-1,,khin1240-1,4,unʀ,unʀ,[],,['chan2019'],,False,False,,1
+khin1240-1-5-1,,khin1240-1,5,pxu,pxu,[],,['chan2019'],,False,False,,1
+khin1240-1-6-1,,khin1240-1,6,zæk,zæk,[],,['chan2019'],,False,False,,1
+khin1240-1-7-1,,khin1240-1,7,jikʼ,jikʼ,[],,['chan2019'],,False,False,,1
+khin1240-1-8-1,,khin1240-1,8,inkʼ,inkʼ,[],,['chan2019'],,False,False,,1
+khin1240-1-9-1,,khin1240-1,9,joz,joz,[],,['chan2019'],,False,False,,1
+khin1240-1-10-1,,khin1240-1,10,jæʕiz,jæʕiz,[],,['chan2019'],,False,False,,1
+khin1240-1-11-1,,khin1240-1,11,jæʕiz sɑ,jæʕiz sɑ,[],,['chan2019'],,False,False,,1
+khin1240-1-12-1,,khin1240-1,12,jæʕiz kʼu,jæʕiz kʼu,[],,['chan2019'],,False,False,,1
+khin1240-1-13-1,,khin1240-1,13,jæʕiz pʃʷɑ,jæʕiz pʃʷɑ,[],,['chan2019'],,False,False,,1
+khin1240-1-14-1,,khin1240-1,14,jæʕiz unʀ,jæʕiz unʀ,[],,['chan2019'],,False,False,,1
+khin1240-1-15-1,,khin1240-1,15,jæʕiz pxu,jæʕiz pxu,[],,['chan2019'],,False,False,,1
+khin1240-1-16-1,,khin1240-1,16,jæʕiz zæk,jæʕiz zæk,[],,['chan2019'],,False,False,,1
+khin1240-1-17-1,,khin1240-1,17,jæʕiz jikʼ,jæʕiz jikʼ,[],,['chan2019'],,False,False,,1
+khin1240-1-18-1,,khin1240-1,18,jæʕiz inkʼ,jæʕiz inkʼ,[],,['chan2019'],,False,False,,1
+khin1240-1-19-1,,khin1240-1,19,jæʕiz joz,jæʕiz joz,[],,['chan2019'],,False,False,,1
+khin1240-1-20-1,,khin1240-1,20,qʼɑn,qʼɑn,[],,['chan2019'],,False,False,,1
+khin1240-1-21-1,,khin1240-1,21,qʼɑn sɑ,qʼɑn sɑ,[],,['chan2019'],,False,False,,1
+khin1240-1-22-1,,khin1240-1,22,qʼɑn kʼu,qʼɑn kʼu,[],,['chan2019'],,False,False,,1
+khin1240-1-23-1,,khin1240-1,23,qʼɑn pʃʷɑ,qʼɑn pʃʷɑ,[],,['chan2019'],,False,False,,1
+khin1240-1-24-1,,khin1240-1,24,qʼɑn unʀ,qʼɑn unʀ,[],,['chan2019'],,False,False,,1
+khin1240-1-25-1,,khin1240-1,25,qʼɑn pxu,qʼɑn pxu,[],,['chan2019'],,False,False,,1
+khin1240-1-26-1,,khin1240-1,26,qʼɑn zæk,qʼɑn zæk,[],,['chan2019'],,False,False,,1
+khin1240-1-27-1,,khin1240-1,27,qʼɑn jikʼ,qʼɑn jikʼ,[],,['chan2019'],,False,False,,1
+khin1240-1-28-1,,khin1240-1,28,qʼɑn inkʼ,qʼɑn inkʼ,[],,['chan2019'],,False,False,,1
+khin1240-1-29-1,,khin1240-1,29,qʼɑn joz,qʼɑn joz,[],,['chan2019'],,False,False,,1
+khin1240-1-30-1,,khin1240-1,30,qʼænnæʕiz,qʼænnæʕiz,[],( 20+10),['chan2019'],,False,False,,1
+khin1240-1-40-1,,khin1240-1,40,kʼunnu.qʼan,kʼunnu.qʼan,[],( 2 x 20 ),['chan2019'],,False,False,,1
+khin1240-1-50-1,,khin1240-1,50,kʼunnu.qʼannæʕiz,kʼunnu.qʼannæʕiz,[],,['chan2019'],,False,False,,1
+khin1240-1-60-1,,khin1240-1,60,kt͡ʃi.qʼɑn,kt͡ʃi.qʼɑn,[],( 3 x 20 ),['chan2019'],,False,False,,1
+khin1240-1-70-1,,khin1240-1,70,kt͡ʃi.qʼɑnnæʕiz,kt͡ʃi.qʼɑnnæʕiz,[],,['chan2019'],,False,False,,1
+khin1240-1-80-1,,khin1240-1,80,unkʼu.qʼan,unkʼu.qʼan,[],( 4 x 20 ),['chan2019'],,False,False,,1
+khin1240-1-90-1,,khin1240-1,90,unkʼu.qʼannæʕiz,unkʼu.qʼannæʕiz,[],,['chan2019'],,False,False,,1
+khin1240-1-100-1,,khin1240-1,100,pɑn,pɑn,[],,['chan2019'],,False,False,,1
+khin1240-1-200-1,,khin1240-1,200,kʼunu pɑn,kʼunu pɑn,[],,['chan2019'],,False,False,,1
+khin1240-1-1000-1,,khin1240-1,1000,ɑːzɯr,ɑːzɯr,[],< Iranian ,['chan2019'],,True,False,,1
+khin1240-1-2000-1,,khin1240-1,2000,kʼu aːzɯr,kʼu aːzɯr,[],,['chan2019'],,False,False,,1

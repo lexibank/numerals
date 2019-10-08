@@ -1,36 +1,36 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kasu1251-1-1-1,,kasu1251-1,1,semetei,semetei,[],(''little finger''),[],,False,False,,1
-kasu1251-1-2-1,,kasu1251-1,2,elipei,elipei,[],(''ring finger''),[],,False,False,,1
-kasu1251-1-3-1,,kasu1251-1,3,usulupe,usulupe,[],(''middle finger''),[],,False,False,,1
-kasu1251-1-4-1,,kasu1251-1,4,pinipe,pinipe,[],(''index finger''),[],,False,False,,1
-kasu1251-1-5-1,,kasu1251-1,5,piipe,piipe,[],(''thumb''),[],,False,False,,1
-kasu1251-1-6-1,,kasu1251-1,6,tekapeipe,tekapeipe,[],(''palm''),[],,False,False,,1
-kasu1251-1-7-1,,kasu1251-1,7,tomoipe,tomoipe,[],"(''wrist"")",[],,False,False,,1
-kasu1251-1-8-1,,kasu1251-1,8,oloipe,oloipe,[],"(''middle of forearm"")",[],,False,False,,1
-kasu1251-1-9-1,,kasu1251-1,9,''elbow (inside joint)'',''elbow (inside joint)'',[],,[],,False,True,akotaipe,1
-kasu1251-1-10-1,,kasu1251-1,10,taloipe,taloipe,[],(''bicep''),[],,False,False,,1
-kasu1251-1-11-1,,kasu1251-1,11,kena:nipe,kena:nipe,[],(''shoulder''),[],,False,False,,1
-kasu1251-1-12-1,,kasu1251-1,12,kukuluipe,kukuluipe,[],(''collar bone''),[],,False,False,,1
-kasu1251-1-13-1,,kasu1251-1,13,kekeipe,kekeipe,[],(''underneath ear lobe''),[],,False,False,,1
-kasu1251-1-14-1,,kasu1251-1,14,kena:na:ipe,kena:na:ipe,[],(''ear''),[],,False,False,,1
-kasu1251-1-15-1,,kasu1251-1,15,papoipe,papoipe,[],(''cheek''),[],,False,False,,1
-kasu1251-1-16-1,,kasu1251-1,16,siipe,siipe,[],(''eye''),[],,False,False,,1
-kasu1251-1-17-1,,kasu1251-1,17,mina:kena:neipe,mina:kena:neipe,[],(''nostril''),[],,False,False,,1
-kasu1251-1-18-1,,kasu1251-1,18,mi,mi,[],(''tip of nose''),[],,False,False,,1
-kasu1251-1-19-1,,kasu1251-1,19,mina:kena:neipe [nostril,mina:kena:neipe [nostril,[],(''other side''),[],,False,True,,1
-kasu1251-1-20-1,,kasu1251-1,20,siipe,siipe,[],(''eye of other side''),[],,False,False,,1
-kasu1251-1-21-1,,kasu1251-1,21,papoipe,papoipe,[],(''cheek of other side''),[],,False,False,,1
-kasu1251-1-22-1,,kasu1251-1,22,kena:nipe,kena:nipe,[],(''underneath ear lobe of side''),[],,False,False,,1
-kasu1251-1-23-1,,kasu1251-1,23,kekeipe,kekeipe,[],(''underneath ear lobe of side''),[],,False,False,,1
-kasu1251-1-24-1,,kasu1251-1,24,kukuluipe,kukuluipe,[],(''collar bone of other side''),[],,False,False,,1
-kasu1251-1-25-1,,kasu1251-1,25,kena:nipe,kena:nipe,[],(''shoulder of other side''),[],,False,False,,1
-kasu1251-1-26-1,,kasu1251-1,26,taloipe,taloipe,[],(''bicep of other side''),[],,False,False,,1
-kasu1251-1-27-1,,kasu1251-1,27,''elbow (inside joint) of side'',''elbow (inside joint) of side'',[],,[],,False,True,akotaipe,1
-kasu1251-1-28-1,,kasu1251-1,28,oloipe,oloipe,[],(''middle of forearm of side''),[],,False,False,,1
-kasu1251-1-29-1,,kasu1251-1,29,tomoipe,tomoipe,[],(''wrist of other side''),[],,False,False,,1
-kasu1251-1-30-1,,kasu1251-1,30,tekapeipe,tekapeipe,[],(''palm of other side''),[],,False,False,,1
-kasu1251-1-31-1,,kasu1251-1,31,piipe,piipe,[],(''thumb of other side''),[],,False,False,,1
-kasu1251-1-32-1,,kasu1251-1,32,pinipe,pinipe,[],(''index finger of other side''),[],,False,False,,1
-kasu1251-1-33-1,,kasu1251-1,33,usulupe,usulupe,[],(''middle finger of other side''),[],,False,False,,1
-kasu1251-1-34-1,,kasu1251-1,34,elipei,elipei,[],(''ring finger of other side''),[],,False,False,,1
-kasu1251-1-35-1,,kasu1251-1,35,semetai,semetai,[],(''little finger of other side''),[],,False,False,,1
+kasu1251-1-1-1,,kasu1251-1,1,semetei,semetei,[],(''little finger''),['chan2019'],,False,False,,1
+kasu1251-1-2-1,,kasu1251-1,2,elipei,elipei,[],(''ring finger''),['chan2019'],,False,False,,1
+kasu1251-1-3-1,,kasu1251-1,3,usulupe,usulupe,[],(''middle finger''),['chan2019'],,False,False,,1
+kasu1251-1-4-1,,kasu1251-1,4,pinipe,pinipe,[],(''index finger''),['chan2019'],,False,False,,1
+kasu1251-1-5-1,,kasu1251-1,5,piipe,piipe,[],(''thumb''),['chan2019'],,False,False,,1
+kasu1251-1-6-1,,kasu1251-1,6,tekapeipe,tekapeipe,[],(''palm''),['chan2019'],,False,False,,1
+kasu1251-1-7-1,,kasu1251-1,7,tomoipe,tomoipe,[],"(''wrist"")",['chan2019'],,False,False,,1
+kasu1251-1-8-1,,kasu1251-1,8,oloipe,oloipe,[],"(''middle of forearm"")",['chan2019'],,False,False,,1
+kasu1251-1-9-1,,kasu1251-1,9,''elbow (inside joint)'',''elbow (inside joint)'',[],,['chan2019'],,False,True,akotaipe,1
+kasu1251-1-10-1,,kasu1251-1,10,taloipe,taloipe,[],(''bicep''),['chan2019'],,False,False,,1
+kasu1251-1-11-1,,kasu1251-1,11,kena:nipe,kena:nipe,[],(''shoulder''),['chan2019'],,False,False,,1
+kasu1251-1-12-1,,kasu1251-1,12,kukuluipe,kukuluipe,[],(''collar bone''),['chan2019'],,False,False,,1
+kasu1251-1-13-1,,kasu1251-1,13,kekeipe,kekeipe,[],(''underneath ear lobe''),['chan2019'],,False,False,,1
+kasu1251-1-14-1,,kasu1251-1,14,kena:na:ipe,kena:na:ipe,[],(''ear''),['chan2019'],,False,False,,1
+kasu1251-1-15-1,,kasu1251-1,15,papoipe,papoipe,[],(''cheek''),['chan2019'],,False,False,,1
+kasu1251-1-16-1,,kasu1251-1,16,siipe,siipe,[],(''eye''),['chan2019'],,False,False,,1
+kasu1251-1-17-1,,kasu1251-1,17,mina:kena:neipe,mina:kena:neipe,[],(''nostril''),['chan2019'],,False,False,,1
+kasu1251-1-18-1,,kasu1251-1,18,mi,mi,[],(''tip of nose''),['chan2019'],,False,False,,1
+kasu1251-1-19-1,,kasu1251-1,19,mina:kena:neipe [nostril,mina:kena:neipe [nostril,[],(''other side''),['chan2019'],,False,True,,1
+kasu1251-1-20-1,,kasu1251-1,20,siipe,siipe,[],(''eye of other side''),['chan2019'],,False,False,,1
+kasu1251-1-21-1,,kasu1251-1,21,papoipe,papoipe,[],(''cheek of other side''),['chan2019'],,False,False,,1
+kasu1251-1-22-1,,kasu1251-1,22,kena:nipe,kena:nipe,[],(''underneath ear lobe of side''),['chan2019'],,False,False,,1
+kasu1251-1-23-1,,kasu1251-1,23,kekeipe,kekeipe,[],(''underneath ear lobe of side''),['chan2019'],,False,False,,1
+kasu1251-1-24-1,,kasu1251-1,24,kukuluipe,kukuluipe,[],(''collar bone of other side''),['chan2019'],,False,False,,1
+kasu1251-1-25-1,,kasu1251-1,25,kena:nipe,kena:nipe,[],(''shoulder of other side''),['chan2019'],,False,False,,1
+kasu1251-1-26-1,,kasu1251-1,26,taloipe,taloipe,[],(''bicep of other side''),['chan2019'],,False,False,,1
+kasu1251-1-27-1,,kasu1251-1,27,''elbow (inside joint) of side'',''elbow (inside joint) of side'',[],,['chan2019'],,False,True,akotaipe,1
+kasu1251-1-28-1,,kasu1251-1,28,oloipe,oloipe,[],(''middle of forearm of side''),['chan2019'],,False,False,,1
+kasu1251-1-29-1,,kasu1251-1,29,tomoipe,tomoipe,[],(''wrist of other side''),['chan2019'],,False,False,,1
+kasu1251-1-30-1,,kasu1251-1,30,tekapeipe,tekapeipe,[],(''palm of other side''),['chan2019'],,False,False,,1
+kasu1251-1-31-1,,kasu1251-1,31,piipe,piipe,[],(''thumb of other side''),['chan2019'],,False,False,,1
+kasu1251-1-32-1,,kasu1251-1,32,pinipe,pinipe,[],(''index finger of other side''),['chan2019'],,False,False,,1
+kasu1251-1-33-1,,kasu1251-1,33,usulupe,usulupe,[],(''middle finger of other side''),['chan2019'],,False,False,,1
+kasu1251-1-34-1,,kasu1251-1,34,elipei,elipei,[],(''ring finger of other side''),['chan2019'],,False,False,,1
+kasu1251-1-35-1,,kasu1251-1,35,semetai,semetai,[],(''little finger of other side''),['chan2019'],,False,False,,1

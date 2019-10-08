@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-stan1290-2-1-1,,stan1290-2,1,ˈœ̃,ˈœ̃,[],,[],,False,False,un,2
-stan1290-2-1-2,,stan1290-2,1,ˈyn,ˈyn,[],(masc./fem.),[],,False,False,une,2
-stan1290-2-2-1,,stan1290-2,2,ˈdø,ˈdø,[],,[],,False,False,deux,2
-stan1290-2-3-1,,stan1290-2,3,ˈtʀwɑ,ˈtʀwɑ,[],,[],,False,False,trois,2
-stan1290-2-4-1,,stan1290-2,4,ˈkatʀ,ˈkatʀ,[],,[],,False,False,quatre,2
-stan1290-2-5-1,,stan1290-2,5,ˈsɛ̃k,ˈsɛ̃k,[],,[],,False,False,cinq,2
-stan1290-2-6-1,,stan1290-2,6,ˈsis,ˈsis,[],,[],,False,False,six,2
-stan1290-2-7-1,,stan1290-2,7,ˈsɛt,ˈsɛt,[],,[],,False,False,sept,2
-stan1290-2-8-1,,stan1290-2,8,ˈɥit,ˈɥit,[],,[],,False,False,huit,2
-stan1290-2-9-1,,stan1290-2,9,ˈnœf,ˈnœf,[],,[],,False,False,neuf,2
-stan1290-2-10-1,,stan1290-2,10,ˈdis,ˈdis,[],,[],,False,False,dix,2
-stan1290-2-11-1,,stan1290-2,11,ˈɔ̃z,ˈɔ̃z,[],,[],,False,False,onze,2
-stan1290-2-12-1,,stan1290-2,12,ˈduz,ˈduz,[],,[],,False,False,douze,2
-stan1290-2-13-1,,stan1290-2,13,ˈtʀɛz,ˈtʀɛz,[],,[],,False,False,treize,2
-stan1290-2-14-1,,stan1290-2,14,kaˈtɔʀz,kaˈtɔʀz,[],,[],,False,False,quatorze,2
-stan1290-2-15-1,,stan1290-2,15,ˈkɛ̃z,ˈkɛ̃z,[],,[],,False,False,quinze,2
-stan1290-2-16-1,,stan1290-2,16,ˈsɛz,ˈsɛz,[],,[],,False,False,seize,2
-stan1290-2-17-1,,stan1290-2,17,diˈsɛt,diˈsɛt,[],,[],,False,False,dix-sept,2
-stan1290-2-18-1,,stan1290-2,18,diˈzɥit,diˈzɥit,[],,[],,False,False,dix-huit,2
-stan1290-2-19-1,,stan1290-2,19,dizˈnœf,dizˈnœf,[],,[],,False,False,dix-neuf,2
-stan1290-2-20-1,,stan1290-2,20,ˈvɛ̃,ˈvɛ̃,[],,[],,False,False,vingt,2
-stan1290-2-21-1,,stan1290-2,21,vingt et un,vingt et un,[],,[],,False,False,,2
-stan1290-2-21-2,,stan1290-2,21,vɛ̃teˈœ̃ /ˈyn,vɛ̃teˈœ̃,[],(m./f.),[],,False,True,une,2
-stan1290-2-21-3,,stan1290-2,21,vɛ̃teˈœ̃ /ˈyn,ˈyn,[],(m./f.),[],,False,True,une,2
-stan1290-2-22-1,,stan1290-2,22,vɛ̃tˈdø /vɛ̃nˈdø,vɛ̃tˈdø,[],,[],,False,True,vingt-deux,2
-stan1290-2-22-2,,stan1290-2,22,vɛ̃tˈdø /vɛ̃nˈdø,vɛ̃nˈdø,[],,[],,False,True,vingt-deux,2
-stan1290-2-23-1,,stan1290-2,23,vɛ̃tˈtʀwɑ,vɛ̃tˈtʀwɑ,[],,[],,False,False,vingt-trois,2
-stan1290-2-24-1,,stan1290-2,24,vɛ̃tˈkatʀ,vɛ̃tˈkatʀ,[],,[],,False,False,vingt-quatre,2
-stan1290-2-25-1,,stan1290-2,25,vɛ̃tˈsɛ̃k,vɛ̃tˈsɛ̃k,[],,[],,False,False,vingt-cinq,2
-stan1290-2-26-1,,stan1290-2,26,vɛ̃tˈsis,vɛ̃tˈsis,[],,[],,False,False,vingt-six,2
-stan1290-2-27-1,,stan1290-2,27,vɛ̃tˈsɛt,vɛ̃tˈsɛt,[],,[],,False,False,vingt-sept,2
-stan1290-2-28-1,,stan1290-2,28,vɛ̃ˈtɥit,vɛ̃ˈtɥit,[],,[],,False,False,vingt-huit,2
-stan1290-2-29-1,,stan1290-2,29,vɛ̃tˈnœf,vɛ̃tˈnœf,[],,[],,False,False,vingt-neuf,2
-stan1290-2-30-1,,stan1290-2,30,ˈtʀɑ̃t,ˈtʀɑ̃t,[],,[],,False,False,trente,2
-stan1290-2-40-1,,stan1290-2,40,kaˈʀɑ̃t,kaˈʀɑ̃t,[],,[],,False,False,quarante,2
-stan1290-2-50-1,,stan1290-2,50,sɛ̃ˈkɑ̃t,sɛ̃ˈkɑ̃t,[],,[],,False,False,cinquante,2
-stan1290-2-60-1,,stan1290-2,60,swasɑ̃t,swasɑ̃t,[],,[],,False,False,soixante,2
-stan1290-2-70-1,,stan1290-2,70,septante [sɛptɑ̃t),septante [sɛptɑ̃t),[],,[],,False,True,,2
-stan1290-2-80-1,,stan1290-2,80,ˈɥitɑ̃t,ˈɥitɑ̃t,[],,[],,False,False,huitante,2
-stan1290-2-90-1,,stan1290-2,90,'nœnɑ̃t,'nœnɑ̃t,[],,[],,False,False,nonante,2
-stan1290-2-100-1,,stan1290-2,100,ˈsɑ̃,ˈsɑ̃,[],,[],,False,False,cent,2
-stan1290-2-200-1,,stan1290-2,200,døˈsɑ̃,døˈsɑ̃,[],,[],,False,False,deux cents,2
-stan1290-2-1000-1,,stan1290-2,1000,ˈmil,ˈmil,[],,[],,False,False,mille,2
-stan1290-2-2000-1,,stan1290-2,2000,døˈmil,døˈmil,[],,[],,False,False,deuxmille,2
+stan1290-2-1-1,,stan1290-2,1,ˈœ̃,ˈœ̃,[],,['chan2019'],,False,False,un,2
+stan1290-2-1-2,,stan1290-2,1,ˈyn,ˈyn,[],(masc./fem.),['chan2019'],,False,False,une,2
+stan1290-2-2-1,,stan1290-2,2,ˈdø,ˈdø,[],,['chan2019'],,False,False,deux,2
+stan1290-2-3-1,,stan1290-2,3,ˈtʀwɑ,ˈtʀwɑ,[],,['chan2019'],,False,False,trois,2
+stan1290-2-4-1,,stan1290-2,4,ˈkatʀ,ˈkatʀ,[],,['chan2019'],,False,False,quatre,2
+stan1290-2-5-1,,stan1290-2,5,ˈsɛ̃k,ˈsɛ̃k,[],,['chan2019'],,False,False,cinq,2
+stan1290-2-6-1,,stan1290-2,6,ˈsis,ˈsis,[],,['chan2019'],,False,False,six,2
+stan1290-2-7-1,,stan1290-2,7,ˈsɛt,ˈsɛt,[],,['chan2019'],,False,False,sept,2
+stan1290-2-8-1,,stan1290-2,8,ˈɥit,ˈɥit,[],,['chan2019'],,False,False,huit,2
+stan1290-2-9-1,,stan1290-2,9,ˈnœf,ˈnœf,[],,['chan2019'],,False,False,neuf,2
+stan1290-2-10-1,,stan1290-2,10,ˈdis,ˈdis,[],,['chan2019'],,False,False,dix,2
+stan1290-2-11-1,,stan1290-2,11,ˈɔ̃z,ˈɔ̃z,[],,['chan2019'],,False,False,onze,2
+stan1290-2-12-1,,stan1290-2,12,ˈduz,ˈduz,[],,['chan2019'],,False,False,douze,2
+stan1290-2-13-1,,stan1290-2,13,ˈtʀɛz,ˈtʀɛz,[],,['chan2019'],,False,False,treize,2
+stan1290-2-14-1,,stan1290-2,14,kaˈtɔʀz,kaˈtɔʀz,[],,['chan2019'],,False,False,quatorze,2
+stan1290-2-15-1,,stan1290-2,15,ˈkɛ̃z,ˈkɛ̃z,[],,['chan2019'],,False,False,quinze,2
+stan1290-2-16-1,,stan1290-2,16,ˈsɛz,ˈsɛz,[],,['chan2019'],,False,False,seize,2
+stan1290-2-17-1,,stan1290-2,17,diˈsɛt,diˈsɛt,[],,['chan2019'],,False,False,dix-sept,2
+stan1290-2-18-1,,stan1290-2,18,diˈzɥit,diˈzɥit,[],,['chan2019'],,False,False,dix-huit,2
+stan1290-2-19-1,,stan1290-2,19,dizˈnœf,dizˈnœf,[],,['chan2019'],,False,False,dix-neuf,2
+stan1290-2-20-1,,stan1290-2,20,ˈvɛ̃,ˈvɛ̃,[],,['chan2019'],,False,False,vingt,2
+stan1290-2-21-1,,stan1290-2,21,vingt et un,vingt et un,[],,['chan2019'],,False,False,,2
+stan1290-2-21-2,,stan1290-2,21,vɛ̃teˈœ̃ /ˈyn,vɛ̃teˈœ̃,[],(m./f.),['chan2019'],,False,True,une,2
+stan1290-2-21-3,,stan1290-2,21,vɛ̃teˈœ̃ /ˈyn,ˈyn,[],(m./f.),['chan2019'],,False,True,une,2
+stan1290-2-22-1,,stan1290-2,22,vɛ̃tˈdø /vɛ̃nˈdø,vɛ̃tˈdø,[],,['chan2019'],,False,True,vingt-deux,2
+stan1290-2-22-2,,stan1290-2,22,vɛ̃tˈdø /vɛ̃nˈdø,vɛ̃nˈdø,[],,['chan2019'],,False,True,vingt-deux,2
+stan1290-2-23-1,,stan1290-2,23,vɛ̃tˈtʀwɑ,vɛ̃tˈtʀwɑ,[],,['chan2019'],,False,False,vingt-trois,2
+stan1290-2-24-1,,stan1290-2,24,vɛ̃tˈkatʀ,vɛ̃tˈkatʀ,[],,['chan2019'],,False,False,vingt-quatre,2
+stan1290-2-25-1,,stan1290-2,25,vɛ̃tˈsɛ̃k,vɛ̃tˈsɛ̃k,[],,['chan2019'],,False,False,vingt-cinq,2
+stan1290-2-26-1,,stan1290-2,26,vɛ̃tˈsis,vɛ̃tˈsis,[],,['chan2019'],,False,False,vingt-six,2
+stan1290-2-27-1,,stan1290-2,27,vɛ̃tˈsɛt,vɛ̃tˈsɛt,[],,['chan2019'],,False,False,vingt-sept,2
+stan1290-2-28-1,,stan1290-2,28,vɛ̃ˈtɥit,vɛ̃ˈtɥit,[],,['chan2019'],,False,False,vingt-huit,2
+stan1290-2-29-1,,stan1290-2,29,vɛ̃tˈnœf,vɛ̃tˈnœf,[],,['chan2019'],,False,False,vingt-neuf,2
+stan1290-2-30-1,,stan1290-2,30,ˈtʀɑ̃t,ˈtʀɑ̃t,[],,['chan2019'],,False,False,trente,2
+stan1290-2-40-1,,stan1290-2,40,kaˈʀɑ̃t,kaˈʀɑ̃t,[],,['chan2019'],,False,False,quarante,2
+stan1290-2-50-1,,stan1290-2,50,sɛ̃ˈkɑ̃t,sɛ̃ˈkɑ̃t,[],,['chan2019'],,False,False,cinquante,2
+stan1290-2-60-1,,stan1290-2,60,swasɑ̃t,swasɑ̃t,[],,['chan2019'],,False,False,soixante,2
+stan1290-2-70-1,,stan1290-2,70,septante [sɛptɑ̃t),septante [sɛptɑ̃t),[],,['chan2019'],,False,True,,2
+stan1290-2-80-1,,stan1290-2,80,ˈɥitɑ̃t,ˈɥitɑ̃t,[],,['chan2019'],,False,False,huitante,2
+stan1290-2-90-1,,stan1290-2,90,'nœnɑ̃t,'nœnɑ̃t,[],,['chan2019'],,False,False,nonante,2
+stan1290-2-100-1,,stan1290-2,100,ˈsɑ̃,ˈsɑ̃,[],,['chan2019'],,False,False,cent,2
+stan1290-2-200-1,,stan1290-2,200,døˈsɑ̃,døˈsɑ̃,[],,['chan2019'],,False,False,deux cents,2
+stan1290-2-1000-1,,stan1290-2,1000,ˈmil,ˈmil,[],,['chan2019'],,False,False,mille,2
+stan1290-2-2000-1,,stan1290-2,2000,døˈmil,døˈmil,[],,['chan2019'],,False,False,deuxmille,2

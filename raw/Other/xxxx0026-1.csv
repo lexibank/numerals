@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xxxx0026-1-1-1,,xxxx0026-1,1,kàmô,kàmô,[],,[],,False,False,,1
-xxxx0026-1-2-1,,xxxx0026-1,2,tùbìdʒí,tùbìdʒí,[],,[],,False,False,,1
-xxxx0026-1-3-1,,xxxx0026-1,3,tùsàtú,tùsàtú,[],,[],,False,False,,1
-xxxx0026-1-4-1,,xxxx0026-1,4,tùnâ,tùnâ,[],,[],,False,False,,1
-xxxx0026-1-5-1,,xxxx0026-1,5,tùtáːnó,tùtáːnó,[],,[],,False,False,,1
-xxxx0026-1-6-1,,xxxx0026-1,6,sítà,sítà,[],( < Kiswahili < Arabic ),[],,True,False,,1
-xxxx0026-1-7-1,,xxxx0026-1,7,sábà,sábà,[],( < Kiswahili  < Arabic ),[],,True,False,,1
-xxxx0026-1-8-1,,xxxx0026-1,8,mùnáːné,mùnáːné,[],,[],,False,False,,1
-xxxx0026-1-9-1,,xxxx0026-1,9,kéːndà,kéːndà,[],,[],,False,False,,1
-xxxx0026-1-10-1,,xxxx0026-1,10,dʒíkùmì,dʒíkùmì,[],,[],,False,False,,1
-xxxx0026-1-11-1,,xxxx0026-1,11,dʒíkùmìná kàmô,dʒíkùmìná kàmô,[],,[],,False,False,,1
-xxxx0026-1-12-1,,xxxx0026-1,12,dʒíkùmìná tùbìdʒí,dʒíkùmìná tùbìdʒí,[],,[],,False,False,,1
-xxxx0026-1-13-1,,xxxx0026-1,13,dʒíkùmìná tùsàtú,dʒíkùmìná tùsàtú,[],,[],,False,False,,1
-xxxx0026-1-14-1,,xxxx0026-1,14,dʒíkùmìná tùnâ,dʒíkùmìná tùnâ,[],,[],,False,False,,1
-xxxx0026-1-15-1,,xxxx0026-1,15,dʒíkùmìná tùtáːnó,dʒíkùmìná tùtáːnó,[],,[],,False,False,,1
-xxxx0026-1-16-1,,xxxx0026-1,16,dʒíkùmìná sítà,dʒíkùmìná sítà,[],,[],,False,False,,1
-xxxx0026-1-17-1,,xxxx0026-1,17,dʒíkùmìná sábà,dʒíkùmìná sábà,[],,[],,False,False,,1
-xxxx0026-1-18-1,,xxxx0026-1,18,dʒíkùmìná mùnáːné,dʒíkùmìná mùnáːné,[],,[],,False,False,,1
-xxxx0026-1-19-1,,xxxx0026-1,19,dʒíkùmìná kéːndà,dʒíkùmìná kéːndà,[],,[],,False,False,,1
-xxxx0026-1-20-1,,xxxx0026-1,20,mákùmí àbìdʒì,mákùmí àbìdʒì,[],,[],,False,False,,1
-xxxx0026-1-21-1,,xxxx0026-1,21,mákùmí àbìdʒì ná kàmô,mákùmí àbìdʒì ná kàmô,[],,[],,False,False,,1
-xxxx0026-1-22-1,,xxxx0026-1,22,mákùmí àbìdʒì ná tùbìdʒí,mákùmí àbìdʒì ná tùbìdʒí,[],,[],,False,False,,1
-xxxx0026-1-23-1,,xxxx0026-1,23,mákùmí àbìdʒì ná tùsàtú,mákùmí àbìdʒì ná tùsàtú,[],,[],,False,False,,1
-xxxx0026-1-24-1,,xxxx0026-1,24,mákùmí àbìdʒì ná tùnâ,mákùmí àbìdʒì ná tùnâ,[],,[],,False,False,,1
-xxxx0026-1-25-1,,xxxx0026-1,25,mákùmí àbìdʒì ná tùtáːnó,mákùmí àbìdʒì ná tùtáːnó,[],,[],,False,False,,1
-xxxx0026-1-26-1,,xxxx0026-1,26,mákùmí àbìdʒì ná sítà,mákùmí àbìdʒì ná sítà,[],,[],,False,False,,1
-xxxx0026-1-27-1,,xxxx0026-1,27,mákùmí àbìdʒì ná sábà,mákùmí àbìdʒì ná sábà,[],,[],,False,False,,1
-xxxx0026-1-28-1,,xxxx0026-1,28,mákùmí àbìdʒì ná mùnáːné,mákùmí àbìdʒì ná mùnáːné,[],,[],,False,False,,1
-xxxx0026-1-29-1,,xxxx0026-1,29,mákùmí àbìdʒì kéːndà,mákùmí àbìdʒì kéːndà,[],,[],,False,False,,1
-xxxx0026-1-30-1,,xxxx0026-1,30,mákùmí àsàtù,mákùmí àsàtù,[],,[],,False,False,,1
-xxxx0026-1-40-1,,xxxx0026-1,40,mákùmí ànâ,mákùmí ànâ,[],,[],,False,False,,1
-xxxx0026-1-50-1,,xxxx0026-1,50,mákùmí àtáːnó,mákùmí àtáːnó,[],,[],,False,False,,1
-xxxx0026-1-60-1,,xxxx0026-1,60,mákùmí sítà,mákùmí sítà,[],,[],,False,False,,1
-xxxx0026-1-70-1,,xxxx0026-1,70,mákùmí sábà,mákùmí sábà,[],,[],,False,False,,1
-xxxx0026-1-80-1,,xxxx0026-1,80,mákùmí mùnáːné,mákùmí mùnáːné,[],,[],,False,False,,1
-xxxx0026-1-90-1,,xxxx0026-1,90,mákùmí kéːndà,mákùmí kéːndà,[],,[],,False,False,,1
-xxxx0026-1-100-1,,xxxx0026-1,100,kátwà,kátwà,[],,[],,False,False,,1
-xxxx0026-1-200-1,,xxxx0026-1,200,tútwǎ tùbìdʒì,tútwǎ tùbìdʒì,[],,[],,False,False,,1
-xxxx0026-1-1000-1,,xxxx0026-1,1000,élùfù,élùfù,[],(< Kiswahili < Arabic ),[],,True,False,,1
-xxxx0026-1-2000-1,,xxxx0026-1,2000,máélùfù àbìdʒì,máélùfù àbìdʒì,[],,[],,False,False,,1
+xxxx0026-1-1-1,,xxxx0026-1,1,kàmô,kàmô,[],,['chan2019'],,False,False,,1
+xxxx0026-1-2-1,,xxxx0026-1,2,tùbìdʒí,tùbìdʒí,[],,['chan2019'],,False,False,,1
+xxxx0026-1-3-1,,xxxx0026-1,3,tùsàtú,tùsàtú,[],,['chan2019'],,False,False,,1
+xxxx0026-1-4-1,,xxxx0026-1,4,tùnâ,tùnâ,[],,['chan2019'],,False,False,,1
+xxxx0026-1-5-1,,xxxx0026-1,5,tùtáːnó,tùtáːnó,[],,['chan2019'],,False,False,,1
+xxxx0026-1-6-1,,xxxx0026-1,6,sítà,sítà,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+xxxx0026-1-7-1,,xxxx0026-1,7,sábà,sábà,[],( < Kiswahili  < Arabic ),['chan2019'],,True,False,,1
+xxxx0026-1-8-1,,xxxx0026-1,8,mùnáːné,mùnáːné,[],,['chan2019'],,False,False,,1
+xxxx0026-1-9-1,,xxxx0026-1,9,kéːndà,kéːndà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-10-1,,xxxx0026-1,10,dʒíkùmì,dʒíkùmì,[],,['chan2019'],,False,False,,1
+xxxx0026-1-11-1,,xxxx0026-1,11,dʒíkùmìná kàmô,dʒíkùmìná kàmô,[],,['chan2019'],,False,False,,1
+xxxx0026-1-12-1,,xxxx0026-1,12,dʒíkùmìná tùbìdʒí,dʒíkùmìná tùbìdʒí,[],,['chan2019'],,False,False,,1
+xxxx0026-1-13-1,,xxxx0026-1,13,dʒíkùmìná tùsàtú,dʒíkùmìná tùsàtú,[],,['chan2019'],,False,False,,1
+xxxx0026-1-14-1,,xxxx0026-1,14,dʒíkùmìná tùnâ,dʒíkùmìná tùnâ,[],,['chan2019'],,False,False,,1
+xxxx0026-1-15-1,,xxxx0026-1,15,dʒíkùmìná tùtáːnó,dʒíkùmìná tùtáːnó,[],,['chan2019'],,False,False,,1
+xxxx0026-1-16-1,,xxxx0026-1,16,dʒíkùmìná sítà,dʒíkùmìná sítà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-17-1,,xxxx0026-1,17,dʒíkùmìná sábà,dʒíkùmìná sábà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-18-1,,xxxx0026-1,18,dʒíkùmìná mùnáːné,dʒíkùmìná mùnáːné,[],,['chan2019'],,False,False,,1
+xxxx0026-1-19-1,,xxxx0026-1,19,dʒíkùmìná kéːndà,dʒíkùmìná kéːndà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-20-1,,xxxx0026-1,20,mákùmí àbìdʒì,mákùmí àbìdʒì,[],,['chan2019'],,False,False,,1
+xxxx0026-1-21-1,,xxxx0026-1,21,mákùmí àbìdʒì ná kàmô,mákùmí àbìdʒì ná kàmô,[],,['chan2019'],,False,False,,1
+xxxx0026-1-22-1,,xxxx0026-1,22,mákùmí àbìdʒì ná tùbìdʒí,mákùmí àbìdʒì ná tùbìdʒí,[],,['chan2019'],,False,False,,1
+xxxx0026-1-23-1,,xxxx0026-1,23,mákùmí àbìdʒì ná tùsàtú,mákùmí àbìdʒì ná tùsàtú,[],,['chan2019'],,False,False,,1
+xxxx0026-1-24-1,,xxxx0026-1,24,mákùmí àbìdʒì ná tùnâ,mákùmí àbìdʒì ná tùnâ,[],,['chan2019'],,False,False,,1
+xxxx0026-1-25-1,,xxxx0026-1,25,mákùmí àbìdʒì ná tùtáːnó,mákùmí àbìdʒì ná tùtáːnó,[],,['chan2019'],,False,False,,1
+xxxx0026-1-26-1,,xxxx0026-1,26,mákùmí àbìdʒì ná sítà,mákùmí àbìdʒì ná sítà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-27-1,,xxxx0026-1,27,mákùmí àbìdʒì ná sábà,mákùmí àbìdʒì ná sábà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-28-1,,xxxx0026-1,28,mákùmí àbìdʒì ná mùnáːné,mákùmí àbìdʒì ná mùnáːné,[],,['chan2019'],,False,False,,1
+xxxx0026-1-29-1,,xxxx0026-1,29,mákùmí àbìdʒì kéːndà,mákùmí àbìdʒì kéːndà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-30-1,,xxxx0026-1,30,mákùmí àsàtù,mákùmí àsàtù,[],,['chan2019'],,False,False,,1
+xxxx0026-1-40-1,,xxxx0026-1,40,mákùmí ànâ,mákùmí ànâ,[],,['chan2019'],,False,False,,1
+xxxx0026-1-50-1,,xxxx0026-1,50,mákùmí àtáːnó,mákùmí àtáːnó,[],,['chan2019'],,False,False,,1
+xxxx0026-1-60-1,,xxxx0026-1,60,mákùmí sítà,mákùmí sítà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-70-1,,xxxx0026-1,70,mákùmí sábà,mákùmí sábà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-80-1,,xxxx0026-1,80,mákùmí mùnáːné,mákùmí mùnáːné,[],,['chan2019'],,False,False,,1
+xxxx0026-1-90-1,,xxxx0026-1,90,mákùmí kéːndà,mákùmí kéːndà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-100-1,,xxxx0026-1,100,kátwà,kátwà,[],,['chan2019'],,False,False,,1
+xxxx0026-1-200-1,,xxxx0026-1,200,tútwǎ tùbìdʒì,tútwǎ tùbìdʒì,[],,['chan2019'],,False,False,,1
+xxxx0026-1-1000-1,,xxxx0026-1,1000,élùfù,élùfù,[],(< Kiswahili < Arabic ),['chan2019'],,True,False,,1
+xxxx0026-1-2000-1,,xxxx0026-1,2000,máélùfù àbìdʒì,máélùfù àbìdʒì,[],,['chan2019'],,False,False,,1

@@ -1,63 +1,63 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dehu1237-1-1-1,,dehu1237-1,1,caːs,caːs,[],,[],,False,False,,1
-dehu1237-1-2-1,,dehu1237-1,2,lueʈe,lueʈe,[],,[],,False,False,,1
-dehu1237-1-3-1,,dehu1237-1,3,køniʈe,køniʈe,[],,[],,False,False,,1
-dehu1237-1-4-1,,dehu1237-1,4,ekeʈe,ekeʈe,[],,[],,False,False,,1
-dehu1237-1-5-1,,dehu1237-1,5,ʈiːpi,ʈiːpi,[],( 1 x 5 = one hand  ?),[],,False,False,,1
-dehu1237-1-6-1,,dehu1237-1,6,caːŋømen,caːŋømen,[],( 1 + 5  ),[],,False,False,,1
-dehu1237-1-7-1,,dehu1237-1,7,lueŋømen,lueŋømen,[],( 2 + 5  ),[],,False,False,,1
-dehu1237-1-8-1,,dehu1237-1,8,køniŋømen,køniŋømen,[],( 3 + 5  ),[],,False,False,,1
-dehu1237-1-9-1,,dehu1237-1,9,ekeŋømen,ekeŋømen,[],( 4 + 5  ),[],,False,False,,1
-dehu1237-1-10-1,,dehu1237-1,10,luepi,luepi,[],( 2 x 5 ),[],,False,False,,1
-dehu1237-1-10-2,,dehu1237-1,10,ʈeː,ʈeː,[],( < English ),[],,True,False,,1
-dehu1237-1-11-1,,dehu1237-1,11,caːko,caːko,[],,[],,False,False,,1
-dehu1237-1-11-2,,dehu1237-1,11,levin,levin,[],,[],,False,False,,1
-dehu1237-1-12-1,,dehu1237-1,12,luako,luako,[],,[],,False,False,,1
-dehu1237-1-12-2,,dehu1237-1,12,ʈuelof,ʈuelof,[],,[],,False,False,,1
-dehu1237-1-13-1,,dehu1237-1,13,køniko,køniko,[],,[],,False,False,,1
-dehu1237-1-13-2,,dehu1237-1,13,θøʈin,θøʈin,[],,[],,False,False,,1
-dehu1237-1-14-1,,dehu1237-1,14,ekako,ekako,[],,[],,False,False,,1
-dehu1237-1-14-2,,dehu1237-1,14,foʈin,foʈin,[],,[],,False,False,,1
-dehu1237-1-15-1,,dehu1237-1,15,kønipi,kønipi,[],( 3 x 5 ),[],,False,False,,1
-dehu1237-1-15-2,,dehu1237-1,15,fifiʈin,fifiʈin,[],,[],,False,False,,1
-dehu1237-1-16-1,,dehu1237-1,16,caːw̥aihano,caːw̥aihano,[],,[],,False,False,,1
-dehu1237-1-16-2,,dehu1237-1,16,sikisiʈin,sikisiʈin,[],,[],,False,False,,1
-dehu1237-1-17-1,,dehu1237-1,17,luew̥aihano,luew̥aihano,[],,[],,False,False,,1
-dehu1237-1-17-2,,dehu1237-1,17,semiɖin,semiɖin,[],,[],,False,False,,1
-dehu1237-1-18-1,,dehu1237-1,18,køniw̥aihano,køniw̥aihano,[],,[],,False,False,,1
-dehu1237-1-18-2,,dehu1237-1,18,eiʈin,eiʈin,[],,[],,False,False,,1
-dehu1237-1-19-1,,dehu1237-1,19,ekew̥aihano,ekew̥aihano,[],,[],,False,False,,1
-dehu1237-1-19-2,,dehu1237-1,19,naeɖin,naeɖin,[],,[],,False,False,,1
-dehu1237-1-20-1,,dehu1237-1,20,caːʈ,caːʈ,[],(litː 'one man'),[],,False,False,,1
-dehu1237-1-20-2,,dehu1237-1,20,ʈueɖe,ʈueɖe,[],,[],,False,False,,1
-dehu1237-1-21-1,,dehu1237-1,21,caːʈ ŋe caːs,caːʈ ŋe caːs,[],,[],,False,False,,1
-dehu1237-1-21-2,,dehu1237-1,21,ʈueɖi waːn,ʈueɖi waːn,[],,[],,False,False,,1
-dehu1237-1-22-1,,dehu1237-1,22,caːʈ ŋe lueʈe,caːʈ ŋe lueʈe,[],,[],,False,False,,1
-dehu1237-1-22-2,,dehu1237-1,22,ʈueɖi ʈuː,ʈueɖi ʈuː,[],,[],,False,False,,1
-dehu1237-1-23-1,,dehu1237-1,23,caːʈ ŋe køniʈe,caːʈ ŋe køniʈe,[],,[],,False,False,,1
-dehu1237-1-23-2,,dehu1237-1,23,ʈueɖi θeri,ʈueɖi θeri,[],,[],,False,False,,1
-dehu1237-1-24-1,,dehu1237-1,24,caːʈ ŋe ekeʈ,caːʈ ŋe ekeʈ,[],,[],,False,False,,1
-dehu1237-1-25-1,,dehu1237-1,25,caːʈ ŋe ʈiːpi,caːʈ ŋe ʈiːpi,[],,[],,False,False,,1
-dehu1237-1-26-1,,dehu1237-1,26,caːʈ ŋe caːŋømen,caːʈ ŋe caːŋømen,[],,[],,False,False,,1
-dehu1237-1-27-1,,dehu1237-1,27,caːʈ ŋe lueŋømen,caːʈ ŋe lueŋømen,[],,[],,False,False,,1
-dehu1237-1-28-1,,dehu1237-1,28,caːʈ ŋe køniŋømen,caːʈ ŋe køniŋømen,[],,[],,False,False,,1
-dehu1237-1-29-1,,dehu1237-1,29,caːʈ ŋe ekeŋømen,caːʈ ŋe ekeŋømen,[],,[],,False,False,,1
-dehu1237-1-30-1,,dehu1237-1,30,caːʈ ŋe luepi,caːʈ ŋe luepi,[],,[],,False,False,,1
-dehu1237-1-30-2,,dehu1237-1,30,θøʈe,θøʈe,[],,[],,False,False,,1
-dehu1237-1-40-1,,dehu1237-1,40,luaʈ,luaʈ,[],('two persons),[],,False,False,,1
-dehu1237-1-40-2,,dehu1237-1,40,foʈe,foʈe,[],,[],,False,False,,1
-dehu1237-1-50-1,,dehu1237-1,50,luaʈ ŋe luepi,luaʈ ŋe luepi,[],,[],,False,False,,1
-dehu1237-1-50-2,,dehu1237-1,50,fifiʈe,fifiʈe,[],,[],,False,False,,1
-dehu1237-1-60-1,,dehu1237-1,60,køniaʈ,køniaʈ,[],('three persons),[],,False,False,,1
-dehu1237-1-60-2,,dehu1237-1,60,sikisiʈe,sikisiʈe,[],,[],,False,False,,1
-dehu1237-1-70-1,,dehu1237-1,70,køniaʈ ŋe luepi,køniaʈ ŋe luepi,[],,[],,False,False,,1
-dehu1237-1-70-2,,dehu1237-1,70,semiʈe,semiʈe,[],,[],,False,False,,1
-dehu1237-1-80-1,,dehu1237-1,80,ekaʈ,ekaʈ,[],('four persons),[],,False,False,,1
-dehu1237-1-80-2,,dehu1237-1,80,eiʈe,eiʈe,[],,[],,False,False,,1
-dehu1237-1-90-1,,dehu1237-1,90,ekaʈ ŋe luepi,ekaʈ ŋe luepi,[],,[],,False,False,,1
-dehu1237-1-90-2,,dehu1237-1,90,naiʈe,naiʈe,[],,[],,False,False,,1
-dehu1237-1-100-1,,dehu1237-1,100,ʈiːpi o aʈ,ʈiːpi o aʈ,[],('five persons),[],,False,False,,1
-dehu1237-1-100-2,,dehu1237-1,100,haɖeɖ,haɖeɖ,[],,[],,False,False,,1
-dehu1237-1-200-1,,dehu1237-1,200,lue haɖeɖ,lue haɖeɖ,[],,[],,False,False,,1
-dehu1237-1-1000-1,,dehu1237-1,1000,θaʊzan,θaʊzan,[],( < English ),[],,True,False,,1
-dehu1237-1-2000-1,,dehu1237-1,2000,lue θaʊzan,lue θaʊzan,[],,[],,False,False,,1
+dehu1237-1-1-1,,dehu1237-1,1,caːs,caːs,[],,['chan2019'],,False,False,,1
+dehu1237-1-2-1,,dehu1237-1,2,lueʈe,lueʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-3-1,,dehu1237-1,3,køniʈe,køniʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-4-1,,dehu1237-1,4,ekeʈe,ekeʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-5-1,,dehu1237-1,5,ʈiːpi,ʈiːpi,[],( 1 x 5 = one hand  ?),['chan2019'],,False,False,,1
+dehu1237-1-6-1,,dehu1237-1,6,caːŋømen,caːŋømen,[],( 1 + 5  ),['chan2019'],,False,False,,1
+dehu1237-1-7-1,,dehu1237-1,7,lueŋømen,lueŋømen,[],( 2 + 5  ),['chan2019'],,False,False,,1
+dehu1237-1-8-1,,dehu1237-1,8,køniŋømen,køniŋømen,[],( 3 + 5  ),['chan2019'],,False,False,,1
+dehu1237-1-9-1,,dehu1237-1,9,ekeŋømen,ekeŋømen,[],( 4 + 5  ),['chan2019'],,False,False,,1
+dehu1237-1-10-1,,dehu1237-1,10,luepi,luepi,[],( 2 x 5 ),['chan2019'],,False,False,,1
+dehu1237-1-10-2,,dehu1237-1,10,ʈeː,ʈeː,[],( < English ),['chan2019'],,True,False,,1
+dehu1237-1-11-1,,dehu1237-1,11,caːko,caːko,[],,['chan2019'],,False,False,,1
+dehu1237-1-11-2,,dehu1237-1,11,levin,levin,[],,['chan2019'],,False,False,,1
+dehu1237-1-12-1,,dehu1237-1,12,luako,luako,[],,['chan2019'],,False,False,,1
+dehu1237-1-12-2,,dehu1237-1,12,ʈuelof,ʈuelof,[],,['chan2019'],,False,False,,1
+dehu1237-1-13-1,,dehu1237-1,13,køniko,køniko,[],,['chan2019'],,False,False,,1
+dehu1237-1-13-2,,dehu1237-1,13,θøʈin,θøʈin,[],,['chan2019'],,False,False,,1
+dehu1237-1-14-1,,dehu1237-1,14,ekako,ekako,[],,['chan2019'],,False,False,,1
+dehu1237-1-14-2,,dehu1237-1,14,foʈin,foʈin,[],,['chan2019'],,False,False,,1
+dehu1237-1-15-1,,dehu1237-1,15,kønipi,kønipi,[],( 3 x 5 ),['chan2019'],,False,False,,1
+dehu1237-1-15-2,,dehu1237-1,15,fifiʈin,fifiʈin,[],,['chan2019'],,False,False,,1
+dehu1237-1-16-1,,dehu1237-1,16,caːw̥aihano,caːw̥aihano,[],,['chan2019'],,False,False,,1
+dehu1237-1-16-2,,dehu1237-1,16,sikisiʈin,sikisiʈin,[],,['chan2019'],,False,False,,1
+dehu1237-1-17-1,,dehu1237-1,17,luew̥aihano,luew̥aihano,[],,['chan2019'],,False,False,,1
+dehu1237-1-17-2,,dehu1237-1,17,semiɖin,semiɖin,[],,['chan2019'],,False,False,,1
+dehu1237-1-18-1,,dehu1237-1,18,køniw̥aihano,køniw̥aihano,[],,['chan2019'],,False,False,,1
+dehu1237-1-18-2,,dehu1237-1,18,eiʈin,eiʈin,[],,['chan2019'],,False,False,,1
+dehu1237-1-19-1,,dehu1237-1,19,ekew̥aihano,ekew̥aihano,[],,['chan2019'],,False,False,,1
+dehu1237-1-19-2,,dehu1237-1,19,naeɖin,naeɖin,[],,['chan2019'],,False,False,,1
+dehu1237-1-20-1,,dehu1237-1,20,caːʈ,caːʈ,[],(litː 'one man'),['chan2019'],,False,False,,1
+dehu1237-1-20-2,,dehu1237-1,20,ʈueɖe,ʈueɖe,[],,['chan2019'],,False,False,,1
+dehu1237-1-21-1,,dehu1237-1,21,caːʈ ŋe caːs,caːʈ ŋe caːs,[],,['chan2019'],,False,False,,1
+dehu1237-1-21-2,,dehu1237-1,21,ʈueɖi waːn,ʈueɖi waːn,[],,['chan2019'],,False,False,,1
+dehu1237-1-22-1,,dehu1237-1,22,caːʈ ŋe lueʈe,caːʈ ŋe lueʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-22-2,,dehu1237-1,22,ʈueɖi ʈuː,ʈueɖi ʈuː,[],,['chan2019'],,False,False,,1
+dehu1237-1-23-1,,dehu1237-1,23,caːʈ ŋe køniʈe,caːʈ ŋe køniʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-23-2,,dehu1237-1,23,ʈueɖi θeri,ʈueɖi θeri,[],,['chan2019'],,False,False,,1
+dehu1237-1-24-1,,dehu1237-1,24,caːʈ ŋe ekeʈ,caːʈ ŋe ekeʈ,[],,['chan2019'],,False,False,,1
+dehu1237-1-25-1,,dehu1237-1,25,caːʈ ŋe ʈiːpi,caːʈ ŋe ʈiːpi,[],,['chan2019'],,False,False,,1
+dehu1237-1-26-1,,dehu1237-1,26,caːʈ ŋe caːŋømen,caːʈ ŋe caːŋømen,[],,['chan2019'],,False,False,,1
+dehu1237-1-27-1,,dehu1237-1,27,caːʈ ŋe lueŋømen,caːʈ ŋe lueŋømen,[],,['chan2019'],,False,False,,1
+dehu1237-1-28-1,,dehu1237-1,28,caːʈ ŋe køniŋømen,caːʈ ŋe køniŋømen,[],,['chan2019'],,False,False,,1
+dehu1237-1-29-1,,dehu1237-1,29,caːʈ ŋe ekeŋømen,caːʈ ŋe ekeŋømen,[],,['chan2019'],,False,False,,1
+dehu1237-1-30-1,,dehu1237-1,30,caːʈ ŋe luepi,caːʈ ŋe luepi,[],,['chan2019'],,False,False,,1
+dehu1237-1-30-2,,dehu1237-1,30,θøʈe,θøʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-40-1,,dehu1237-1,40,luaʈ,luaʈ,[],('two persons),['chan2019'],,False,False,,1
+dehu1237-1-40-2,,dehu1237-1,40,foʈe,foʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-50-1,,dehu1237-1,50,luaʈ ŋe luepi,luaʈ ŋe luepi,[],,['chan2019'],,False,False,,1
+dehu1237-1-50-2,,dehu1237-1,50,fifiʈe,fifiʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-60-1,,dehu1237-1,60,køniaʈ,køniaʈ,[],('three persons),['chan2019'],,False,False,,1
+dehu1237-1-60-2,,dehu1237-1,60,sikisiʈe,sikisiʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-70-1,,dehu1237-1,70,køniaʈ ŋe luepi,køniaʈ ŋe luepi,[],,['chan2019'],,False,False,,1
+dehu1237-1-70-2,,dehu1237-1,70,semiʈe,semiʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-80-1,,dehu1237-1,80,ekaʈ,ekaʈ,[],('four persons),['chan2019'],,False,False,,1
+dehu1237-1-80-2,,dehu1237-1,80,eiʈe,eiʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-90-1,,dehu1237-1,90,ekaʈ ŋe luepi,ekaʈ ŋe luepi,[],,['chan2019'],,False,False,,1
+dehu1237-1-90-2,,dehu1237-1,90,naiʈe,naiʈe,[],,['chan2019'],,False,False,,1
+dehu1237-1-100-1,,dehu1237-1,100,ʈiːpi o aʈ,ʈiːpi o aʈ,[],('five persons),['chan2019'],,False,False,,1
+dehu1237-1-100-2,,dehu1237-1,100,haɖeɖ,haɖeɖ,[],,['chan2019'],,False,False,,1
+dehu1237-1-200-1,,dehu1237-1,200,lue haɖeɖ,lue haɖeɖ,[],,['chan2019'],,False,False,,1
+dehu1237-1-1000-1,,dehu1237-1,1000,θaʊzan,θaʊzan,[],( < English ),['chan2019'],,True,False,,1
+dehu1237-1-2000-1,,dehu1237-1,2000,lue θaʊzan,lue θaʊzan,[],,['chan2019'],,False,False,,1

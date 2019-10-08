@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mama1278-1-1-1,,mama1278-1,1,ɡanaɡa-ãni,ɡanaɡa-ãni,[],,[],,False,False,,1
-mama1278-1-2-1,,mama1278-1,2,ɓaah-ãni,ɓaah-ãni,[],,[],,False,False,,1
-mama1278-1-3-1,,mama1278-1,3,ɓaa-kanaɡa-ãni,ɓaa-kanaɡa-ãni,[],( 2 + 1 ),[],,False,False,,1
-mama1278-1-4-1,,mama1278-1,4,ɓaah-ãni,ɓaah-ãni,[],,[],,False,False,,1
-mama1278-1-4-2,,mama1278-1,4,ɓaah-ãni,ɓaah-ãni,[],( 2 + 2 ),[],,False,False,,1
-mama1278-1-5-1,,mama1278-1,5,hikʔ ɡanaɡa hãn,hikʔ ɡanaɡa hãn,[],( lit: ''one full hand''),[],,False,False,,1
-mama1278-1-10-1,,mama1278-1,10,hikʔ ɓaah hãn,hikʔ ɓaah hãn,[],(lit: ''two full hands'' ),[],,False,False,,1
+mama1278-1-1-1,,mama1278-1,1,ɡanaɡa-ãni,ɡanaɡa-ãni,[],,['chan2019'],,False,False,,1
+mama1278-1-2-1,,mama1278-1,2,ɓaah-ãni,ɓaah-ãni,[],,['chan2019'],,False,False,,1
+mama1278-1-3-1,,mama1278-1,3,ɓaa-kanaɡa-ãni,ɓaa-kanaɡa-ãni,[],( 2 + 1 ),['chan2019'],,False,False,,1
+mama1278-1-4-1,,mama1278-1,4,ɓaah-ãni,ɓaah-ãni,[],,['chan2019'],,False,False,,1
+mama1278-1-4-2,,mama1278-1,4,ɓaah-ãni,ɓaah-ãni,[],( 2 + 2 ),['chan2019'],,False,False,,1
+mama1278-1-5-1,,mama1278-1,5,hikʔ ɡanaɡa hãn,hikʔ ɡanaɡa hãn,[],( lit: ''one full hand''),['chan2019'],,False,False,,1
+mama1278-1-10-1,,mama1278-1,10,hikʔ ɓaah hãn,hikʔ ɓaah hãn,[],(lit: ''two full hands'' ),['chan2019'],,False,False,,1

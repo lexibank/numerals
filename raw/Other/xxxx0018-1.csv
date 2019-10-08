@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xxxx0018-1-1-1,,xxxx0018-1,1,nuk,nuk,[],,[],,False,False,,1
-xxxx0018-1-2-1,,xxxx0018-1,2,raq,raq,[],,[],,False,False,,1
-xxxx0018-1-3-1,,xxxx0018-1,3,atiɡ,atiɡ,[],,[],,False,False,,1
-xxxx0018-1-4-1,,xxxx0018-1,4,ut,ut,[],,[],,False,False,,1
-xxxx0018-1-5-1,,xxxx0018-1,5,asan,asan,[],,[],,False,False,,1
-xxxx0018-1-6-1,,xxxx0018-1,6,talaŋ,talaŋ,[],,[],,False,False,,1
-xxxx0018-1-7-1,,xxxx0018-1,7,jewasrak,jewasrak,[],( 'five two'),[],,False,False,,1
-xxxx0018-1-8-1,,xxxx0018-1,8,santiɡ,santiɡ,[],( 'five three'),[],,False,False,,1
-xxxx0018-1-9-1,,xxxx0018-1,9,sanut,sanut,[],( 'five four'),[],,False,False,,1
-xxxx0018-1-10-1,,xxxx0018-1,10,qar nuk,qar nuk,[],('ten one'),[],,False,False,,1
-xxxx0018-1-11-1,,xxxx0018-1,11,qar nuk ruɡ nuk,qar nuk ruɡ nuk,[],,[],,False,False,,1
-xxxx0018-1-12-1,,xxxx0018-1,12,qar nuk ruɡ raq,qar nuk ruɡ raq,[],,[],,False,False,,1
-xxxx0018-1-13-1,,xxxx0018-1,13,qar nuk ruɡ atiɡ,qar nuk ruɡ atiɡ,[],,[],,False,False,,1
-xxxx0018-1-14-1,,xxxx0018-1,14,qar nuk ruɡ ut,qar nuk ruɡ ut,[],,[],,False,False,,1
-xxxx0018-1-15-1,,xxxx0018-1,15,qar nuk ruɡ asan,qar nuk ruɡ asan,[],,[],,False,False,,1
-xxxx0018-1-16-1,,xxxx0018-1,16,qar nuk ruɡ talaŋ,qar nuk ruɡ talaŋ,[],,[],,False,False,,1
-xxxx0018-1-17-1,,xxxx0018-1,17,qar nuk ruɡ jewasrak,qar nuk ruɡ jewasrak,[],,[],,False,False,,1
-xxxx0018-1-18-1,,xxxx0018-1,18,qar nuk ruɡ santiɡ,qar nuk ruɡ santiɡ,[],,[],,False,False,,1
-xxxx0018-1-19-1,,xxxx0018-1,19,qar nuk ruɡ sanut,qar nuk ruɡ sanut,[],,[],,False,False,,1
-xxxx0018-1-20-1,,xxxx0018-1,20,qar raq,qar raq,[],,[],,False,False,,1
-xxxx0018-1-21-1,,xxxx0018-1,21,qar raq ruɡ nuk,qar raq ruɡ nuk,[],,[],,False,False,,1
-xxxx0018-1-22-1,,xxxx0018-1,22,qar raq ruɡ raq,qar raq ruɡ raq,[],,[],,False,False,,1
-xxxx0018-1-23-1,,xxxx0018-1,23,qar raq ruɡ atiɡ,qar raq ruɡ atiɡ,[],,[],,False,False,,1
-xxxx0018-1-24-1,,xxxx0018-1,24,qar raq ruɡ ut,qar raq ruɡ ut,[],,[],,False,False,,1
-xxxx0018-1-25-1,,xxxx0018-1,25,qar raq ruɡ asan,qar raq ruɡ asan,[],,[],,False,False,,1
-xxxx0018-1-26-1,,xxxx0018-1,26,qar raq ruɡ talaŋ,qar raq ruɡ talaŋ,[],,[],,False,False,,1
-xxxx0018-1-27-1,,xxxx0018-1,27,qar raq ruɡ jewasrak,qar raq ruɡ jewasrak,[],,[],,False,False,,1
-xxxx0018-1-28-1,,xxxx0018-1,28,qar raq ruɡ santiɡ,qar raq ruɡ santiɡ,[],,[],,False,False,,1
-xxxx0018-1-29-1,,xxxx0018-1,29,qar raq ruɡ sanut,qar raq ruɡ sanut,[],,[],,False,False,,1
-xxxx0018-1-30-1,,xxxx0018-1,30,qar atiɡ,qar atiɡ,[],,[],,False,False,,1
-xxxx0018-1-40-1,,xxxx0018-1,40,qar ut,qar ut,[],,[],,False,False,,1
-xxxx0018-1-50-1,,xxxx0018-1,50,qar asan,qar asan,[],,[],,False,False,,1
-xxxx0018-1-60-1,,xxxx0018-1,60,qar talaŋ,qar talaŋ,[],,[],,False,False,,1
-xxxx0018-1-70-1,,xxxx0018-1,70,qar jewasrak,qar jewasrak,[],,[],,False,False,,1
-xxxx0018-1-80-1,,xxxx0018-1,80,qar santiɡ,qar santiɡ,[],,[],,False,False,,1
-xxxx0018-1-90-1,,xxxx0018-1,90,qar sanut,qar sanut,[],,[],,False,False,,1
-xxxx0018-1-100-1,,xxxx0018-1,100,aratu,aratu,[],,[],,False,False,,1
-xxxx0018-1-200-1,,xxxx0018-1,200,aratu raq,aratu raq,[],,[],,False,False,,1
-xxxx0018-1-1000-1,,xxxx0018-1,1000,aribu nuk,aribu nuk,[],,[],,False,False,,1
-xxxx0018-1-2000-1,,xxxx0018-1,2000,aribu raq,aribu raq,[],,[],,False,False,,1
+xxxx0018-1-1-1,,xxxx0018-1,1,nuk,nuk,[],,['chan2019'],,False,False,,1
+xxxx0018-1-2-1,,xxxx0018-1,2,raq,raq,[],,['chan2019'],,False,False,,1
+xxxx0018-1-3-1,,xxxx0018-1,3,atiɡ,atiɡ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-4-1,,xxxx0018-1,4,ut,ut,[],,['chan2019'],,False,False,,1
+xxxx0018-1-5-1,,xxxx0018-1,5,asan,asan,[],,['chan2019'],,False,False,,1
+xxxx0018-1-6-1,,xxxx0018-1,6,talaŋ,talaŋ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-7-1,,xxxx0018-1,7,jewasrak,jewasrak,[],( 'five two'),['chan2019'],,False,False,,1
+xxxx0018-1-8-1,,xxxx0018-1,8,santiɡ,santiɡ,[],( 'five three'),['chan2019'],,False,False,,1
+xxxx0018-1-9-1,,xxxx0018-1,9,sanut,sanut,[],( 'five four'),['chan2019'],,False,False,,1
+xxxx0018-1-10-1,,xxxx0018-1,10,qar nuk,qar nuk,[],('ten one'),['chan2019'],,False,False,,1
+xxxx0018-1-11-1,,xxxx0018-1,11,qar nuk ruɡ nuk,qar nuk ruɡ nuk,[],,['chan2019'],,False,False,,1
+xxxx0018-1-12-1,,xxxx0018-1,12,qar nuk ruɡ raq,qar nuk ruɡ raq,[],,['chan2019'],,False,False,,1
+xxxx0018-1-13-1,,xxxx0018-1,13,qar nuk ruɡ atiɡ,qar nuk ruɡ atiɡ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-14-1,,xxxx0018-1,14,qar nuk ruɡ ut,qar nuk ruɡ ut,[],,['chan2019'],,False,False,,1
+xxxx0018-1-15-1,,xxxx0018-1,15,qar nuk ruɡ asan,qar nuk ruɡ asan,[],,['chan2019'],,False,False,,1
+xxxx0018-1-16-1,,xxxx0018-1,16,qar nuk ruɡ talaŋ,qar nuk ruɡ talaŋ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-17-1,,xxxx0018-1,17,qar nuk ruɡ jewasrak,qar nuk ruɡ jewasrak,[],,['chan2019'],,False,False,,1
+xxxx0018-1-18-1,,xxxx0018-1,18,qar nuk ruɡ santiɡ,qar nuk ruɡ santiɡ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-19-1,,xxxx0018-1,19,qar nuk ruɡ sanut,qar nuk ruɡ sanut,[],,['chan2019'],,False,False,,1
+xxxx0018-1-20-1,,xxxx0018-1,20,qar raq,qar raq,[],,['chan2019'],,False,False,,1
+xxxx0018-1-21-1,,xxxx0018-1,21,qar raq ruɡ nuk,qar raq ruɡ nuk,[],,['chan2019'],,False,False,,1
+xxxx0018-1-22-1,,xxxx0018-1,22,qar raq ruɡ raq,qar raq ruɡ raq,[],,['chan2019'],,False,False,,1
+xxxx0018-1-23-1,,xxxx0018-1,23,qar raq ruɡ atiɡ,qar raq ruɡ atiɡ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-24-1,,xxxx0018-1,24,qar raq ruɡ ut,qar raq ruɡ ut,[],,['chan2019'],,False,False,,1
+xxxx0018-1-25-1,,xxxx0018-1,25,qar raq ruɡ asan,qar raq ruɡ asan,[],,['chan2019'],,False,False,,1
+xxxx0018-1-26-1,,xxxx0018-1,26,qar raq ruɡ talaŋ,qar raq ruɡ talaŋ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-27-1,,xxxx0018-1,27,qar raq ruɡ jewasrak,qar raq ruɡ jewasrak,[],,['chan2019'],,False,False,,1
+xxxx0018-1-28-1,,xxxx0018-1,28,qar raq ruɡ santiɡ,qar raq ruɡ santiɡ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-29-1,,xxxx0018-1,29,qar raq ruɡ sanut,qar raq ruɡ sanut,[],,['chan2019'],,False,False,,1
+xxxx0018-1-30-1,,xxxx0018-1,30,qar atiɡ,qar atiɡ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-40-1,,xxxx0018-1,40,qar ut,qar ut,[],,['chan2019'],,False,False,,1
+xxxx0018-1-50-1,,xxxx0018-1,50,qar asan,qar asan,[],,['chan2019'],,False,False,,1
+xxxx0018-1-60-1,,xxxx0018-1,60,qar talaŋ,qar talaŋ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-70-1,,xxxx0018-1,70,qar jewasrak,qar jewasrak,[],,['chan2019'],,False,False,,1
+xxxx0018-1-80-1,,xxxx0018-1,80,qar santiɡ,qar santiɡ,[],,['chan2019'],,False,False,,1
+xxxx0018-1-90-1,,xxxx0018-1,90,qar sanut,qar sanut,[],,['chan2019'],,False,False,,1
+xxxx0018-1-100-1,,xxxx0018-1,100,aratu,aratu,[],,['chan2019'],,False,False,,1
+xxxx0018-1-200-1,,xxxx0018-1,200,aratu raq,aratu raq,[],,['chan2019'],,False,False,,1
+xxxx0018-1-1000-1,,xxxx0018-1,1000,aribu nuk,aribu nuk,[],,['chan2019'],,False,False,,1
+xxxx0018-1-2000-1,,xxxx0018-1,2000,aribu raq,aribu raq,[],,['chan2019'],,False,False,,1

@@ -1,51 +1,51 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mada1285-1-1-1,,mada1285-1,1,kes,kes,[],,[],,False,False,,1
-mada1285-1-1-2,,mada1285-1,1,leɡesara,leɡesara,[],,[],,False,False,,1
-mada1285-1-2-1,,mada1285-1,2,au,au,[],,[],,False,False,,1
-mada1285-1-2-2,,mada1285-1,2,leɡepura,leɡepura,[],,[],,False,False,,1
-mada1285-1-3-1,,mada1285-1,3,tun,tun,[],,[],,False,False,,1
-mada1285-1-3-2,,mada1285-1,3,lavantun,lavantun,[],,[],,False,False,,1
-mada1285-1-4-1,,mada1285-1,4,uet,uet,[],,[],,False,False,,1
-mada1285-1-4-2,,mada1285-1,4,lavanuet,lavanuet,[],,[],,False,False,,1
-mada1285-1-5-1,,mada1285-1,5,limo,limo,[],,[],,False,False,,1
-mada1285-1-5-2,,mada1285-1,5,lavalimo,lavalimo,[],,[],,False,False,,1
-mada1285-1-6-1,,mada1285-1,6,ona,ona,[],,[],,False,False,,1
-mada1285-1-6-2,,mada1285-1,6,lavanna,lavanna,[],,[],,False,False,,1
-mada1285-1-7-1,,mada1285-1,7,uti,uti,[],,[],,False,False,,1
-mada1285-1-7-2,,mada1285-1,7,lavanuti,lavanuti,[],,[],,False,False,,1
-mada1285-1-8-1,,mada1285-1,8,uan,uan,[],,[],,False,False,,1
-mada1285-1-8-2,,mada1285-1,8,lavanuan,lavanuan,[],,[],,False,False,,1
-mada1285-1-9-1,,mada1285-1,9,sik,sik,[],,[],,False,False,,1
-mada1285-1-9-2,,mada1285-1,9,lavasik,lavasik,[],,[],,False,False,,1
-mada1285-1-10-1,,mada1285-1,10,saŋaun,saŋaun,[],,[],,False,False,,1
-mada1285-1-10-2,,mada1285-1,10,lasaŋaun,lasaŋaun,[],,[],,False,False,,1
-mada1285-1-11-1,,mada1285-1,11,saŋaun mi leɡesara,saŋaun mi leɡesara,[],,[],,False,False,,1
-mada1285-1-12-1,,mada1285-1,12,saŋaun mi leɡepura,saŋaun mi leɡepura,[],,[],,False,False,,1
-mada1285-1-13-1,,mada1285-1,13,saŋaun mi lavantun,saŋaun mi lavantun,[],,[],,False,False,,1
-mada1285-1-14-1,,mada1285-1,14,saŋaun mi lavanuet,saŋaun mi lavanuet,[],,[],,False,False,,1
-mada1285-1-15-1,,mada1285-1,15,saŋaun mi lavalimo,saŋaun mi lavalimo,[],,[],,False,False,,1
-mada1285-1-16-1,,mada1285-1,16,saŋaun mi lavanna,saŋaun mi lavanna,[],,[],,False,False,,1
-mada1285-1-17-1,,mada1285-1,17,saŋaun mi lavanuti,saŋaun mi lavanuti,[],,[],,False,False,,1
-mada1285-1-18-1,,mada1285-1,18,saŋaun mi lavanuan,saŋaun mi lavanuan,[],,[],,False,False,,1
-mada1285-1-19-1,,mada1285-1,19,saŋaun mi lavasik,saŋaun mi lavasik,[],,[],,False,False,,1
-mada1285-1-20-1,,mada1285-1,20,leɡepu saŋaun,leɡepu saŋaun,[],,[],,False,False,,1
-mada1285-1-21-1,,mada1285-1,21,leɡepu saŋaun mi leɡesara,leɡepu saŋaun mi leɡesara,[],,[],,False,False,,1
-mada1285-1-22-1,,mada1285-1,22,leɡepu saŋaun mi leɡepura,leɡepu saŋaun mi leɡepura,[],,[],,False,False,,1
-mada1285-1-23-1,,mada1285-1,23,leɡepu saŋaun mi lavantun,leɡepu saŋaun mi lavantun,[],,[],,False,False,,1
-mada1285-1-24-1,,mada1285-1,24,leɡepu saŋaun mi lavanuet,leɡepu saŋaun mi lavanuet,[],,[],,False,False,,1
-mada1285-1-25-1,,mada1285-1,25,leɡepu saŋaun mi lavalimo,leɡepu saŋaun mi lavalimo,[],,[],,False,False,,1
-mada1285-1-26-1,,mada1285-1,26,leɡepu saŋaun mi lavanna,leɡepu saŋaun mi lavanna,[],,[],,False,False,,1
-mada1285-1-27-1,,mada1285-1,27,leɡepu saŋaun mi lavanuti,leɡepu saŋaun mi lavanuti,[],,[],,False,False,,1
-mada1285-1-28-1,,mada1285-1,28,leɡepu saŋaun mi lavanuan,leɡepu saŋaun mi lavanuan,[],,[],,False,False,,1
-mada1285-1-29-1,,mada1285-1,29,leɡepu saŋaun mi lavasik,leɡepu saŋaun mi lavasik,[],,[],,False,False,,1
-mada1285-1-30-1,,mada1285-1,30,lavantun saŋaun,lavantun saŋaun,[],,[],,False,False,,1
-mada1285-1-40-1,,mada1285-1,40,lavanuet saŋaun,lavanuet saŋaun,[],,[],,False,False,,1
-mada1285-1-50-1,,mada1285-1,50,lavalimo saŋaun,lavalimo saŋaun,[],,[],,False,False,,1
-mada1285-1-60-1,,mada1285-1,60,lavanna saŋaun,lavanna saŋaun,[],,[],,False,False,,1
-mada1285-1-70-1,,mada1285-1,70,lavanuti saŋaun,lavanuti saŋaun,[],,[],,False,False,,1
-mada1285-1-80-1,,mada1285-1,80,lavanuan saŋaun,lavanuan saŋaun,[],,[],,False,False,,1
-mada1285-1-90-1,,mada1285-1,90,lavasik saŋaun,lavasik saŋaun,[],,[],,False,False,,1
-mada1285-1-100-1,,mada1285-1,100,leɡesa saŋaun kobot,leɡesa saŋaun kobot,[],,[],,False,False,,1
-mada1285-1-200-1,,mada1285-1,200,leɡepu saŋaun kobot,leɡepu saŋaun kobot,[],,[],,False,False,,1
-mada1285-1-1000-1,,mada1285-1,1000,leɡepu larabin saŋsaŋaun kobot,leɡepu larabin saŋsaŋaun kobot,[],,[],,False,False,,1
-mada1285-1-2000-1,,mada1285-1,2000,leɡepu larabin saŋsaŋaun kobot,leɡepu larabin saŋsaŋaun kobot,[],,[],,False,False,,1
+mada1285-1-1-1,,mada1285-1,1,kes,kes,[],,['chan2019'],,False,False,,1
+mada1285-1-1-2,,mada1285-1,1,leɡesara,leɡesara,[],,['chan2019'],,False,False,,1
+mada1285-1-2-1,,mada1285-1,2,au,au,[],,['chan2019'],,False,False,,1
+mada1285-1-2-2,,mada1285-1,2,leɡepura,leɡepura,[],,['chan2019'],,False,False,,1
+mada1285-1-3-1,,mada1285-1,3,tun,tun,[],,['chan2019'],,False,False,,1
+mada1285-1-3-2,,mada1285-1,3,lavantun,lavantun,[],,['chan2019'],,False,False,,1
+mada1285-1-4-1,,mada1285-1,4,uet,uet,[],,['chan2019'],,False,False,,1
+mada1285-1-4-2,,mada1285-1,4,lavanuet,lavanuet,[],,['chan2019'],,False,False,,1
+mada1285-1-5-1,,mada1285-1,5,limo,limo,[],,['chan2019'],,False,False,,1
+mada1285-1-5-2,,mada1285-1,5,lavalimo,lavalimo,[],,['chan2019'],,False,False,,1
+mada1285-1-6-1,,mada1285-1,6,ona,ona,[],,['chan2019'],,False,False,,1
+mada1285-1-6-2,,mada1285-1,6,lavanna,lavanna,[],,['chan2019'],,False,False,,1
+mada1285-1-7-1,,mada1285-1,7,uti,uti,[],,['chan2019'],,False,False,,1
+mada1285-1-7-2,,mada1285-1,7,lavanuti,lavanuti,[],,['chan2019'],,False,False,,1
+mada1285-1-8-1,,mada1285-1,8,uan,uan,[],,['chan2019'],,False,False,,1
+mada1285-1-8-2,,mada1285-1,8,lavanuan,lavanuan,[],,['chan2019'],,False,False,,1
+mada1285-1-9-1,,mada1285-1,9,sik,sik,[],,['chan2019'],,False,False,,1
+mada1285-1-9-2,,mada1285-1,9,lavasik,lavasik,[],,['chan2019'],,False,False,,1
+mada1285-1-10-1,,mada1285-1,10,saŋaun,saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-10-2,,mada1285-1,10,lasaŋaun,lasaŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-11-1,,mada1285-1,11,saŋaun mi leɡesara,saŋaun mi leɡesara,[],,['chan2019'],,False,False,,1
+mada1285-1-12-1,,mada1285-1,12,saŋaun mi leɡepura,saŋaun mi leɡepura,[],,['chan2019'],,False,False,,1
+mada1285-1-13-1,,mada1285-1,13,saŋaun mi lavantun,saŋaun mi lavantun,[],,['chan2019'],,False,False,,1
+mada1285-1-14-1,,mada1285-1,14,saŋaun mi lavanuet,saŋaun mi lavanuet,[],,['chan2019'],,False,False,,1
+mada1285-1-15-1,,mada1285-1,15,saŋaun mi lavalimo,saŋaun mi lavalimo,[],,['chan2019'],,False,False,,1
+mada1285-1-16-1,,mada1285-1,16,saŋaun mi lavanna,saŋaun mi lavanna,[],,['chan2019'],,False,False,,1
+mada1285-1-17-1,,mada1285-1,17,saŋaun mi lavanuti,saŋaun mi lavanuti,[],,['chan2019'],,False,False,,1
+mada1285-1-18-1,,mada1285-1,18,saŋaun mi lavanuan,saŋaun mi lavanuan,[],,['chan2019'],,False,False,,1
+mada1285-1-19-1,,mada1285-1,19,saŋaun mi lavasik,saŋaun mi lavasik,[],,['chan2019'],,False,False,,1
+mada1285-1-20-1,,mada1285-1,20,leɡepu saŋaun,leɡepu saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-21-1,,mada1285-1,21,leɡepu saŋaun mi leɡesara,leɡepu saŋaun mi leɡesara,[],,['chan2019'],,False,False,,1
+mada1285-1-22-1,,mada1285-1,22,leɡepu saŋaun mi leɡepura,leɡepu saŋaun mi leɡepura,[],,['chan2019'],,False,False,,1
+mada1285-1-23-1,,mada1285-1,23,leɡepu saŋaun mi lavantun,leɡepu saŋaun mi lavantun,[],,['chan2019'],,False,False,,1
+mada1285-1-24-1,,mada1285-1,24,leɡepu saŋaun mi lavanuet,leɡepu saŋaun mi lavanuet,[],,['chan2019'],,False,False,,1
+mada1285-1-25-1,,mada1285-1,25,leɡepu saŋaun mi lavalimo,leɡepu saŋaun mi lavalimo,[],,['chan2019'],,False,False,,1
+mada1285-1-26-1,,mada1285-1,26,leɡepu saŋaun mi lavanna,leɡepu saŋaun mi lavanna,[],,['chan2019'],,False,False,,1
+mada1285-1-27-1,,mada1285-1,27,leɡepu saŋaun mi lavanuti,leɡepu saŋaun mi lavanuti,[],,['chan2019'],,False,False,,1
+mada1285-1-28-1,,mada1285-1,28,leɡepu saŋaun mi lavanuan,leɡepu saŋaun mi lavanuan,[],,['chan2019'],,False,False,,1
+mada1285-1-29-1,,mada1285-1,29,leɡepu saŋaun mi lavasik,leɡepu saŋaun mi lavasik,[],,['chan2019'],,False,False,,1
+mada1285-1-30-1,,mada1285-1,30,lavantun saŋaun,lavantun saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-40-1,,mada1285-1,40,lavanuet saŋaun,lavanuet saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-50-1,,mada1285-1,50,lavalimo saŋaun,lavalimo saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-60-1,,mada1285-1,60,lavanna saŋaun,lavanna saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-70-1,,mada1285-1,70,lavanuti saŋaun,lavanuti saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-80-1,,mada1285-1,80,lavanuan saŋaun,lavanuan saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-90-1,,mada1285-1,90,lavasik saŋaun,lavasik saŋaun,[],,['chan2019'],,False,False,,1
+mada1285-1-100-1,,mada1285-1,100,leɡesa saŋaun kobot,leɡesa saŋaun kobot,[],,['chan2019'],,False,False,,1
+mada1285-1-200-1,,mada1285-1,200,leɡepu saŋaun kobot,leɡepu saŋaun kobot,[],,['chan2019'],,False,False,,1
+mada1285-1-1000-1,,mada1285-1,1000,leɡepu larabin saŋsaŋaun kobot,leɡepu larabin saŋsaŋaun kobot,[],,['chan2019'],,False,False,,1
+mada1285-1-2000-1,,mada1285-1,2000,leɡepu larabin saŋsaŋaun kobot,leɡepu larabin saŋsaŋaun kobot,[],,['chan2019'],,False,False,,1

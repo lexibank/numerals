@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-momj1237-1-1-1,,momj1237-1,1,muzoz,muzoz,[],,[],,False,False,,1
-momj1237-1-2-1,,momj1237-1,2,ɪ̀ttə́z,ɪ̀ttə́z,[],,[],,False,False,,1
-momj1237-1-3-1,,momj1237-1,3,tàáz,tàáz,[],,[],,False,False,,1
-momj1237-1-4-1,,momj1237-1,4,náz,náz,[],,[],,False,False,,1
-momj1237-1-5-1,,momj1237-1,5,ɡbanáá,ɡbanáá,[],,[],,False,False,,1
-momj1237-1-6-1,,momj1237-1,6,bámbə́z,bámbə́z,[],,[],,False,False,,1
-momj1237-1-7-1,,momj1237-1,7,ɡbánsá,ɡbánsá,[],,[],,False,False,,1
-momj1237-1-8-1,,momj1237-1,8,sàmsaara,sàmsaara,[],,[],,False,False,,1
-momj1237-1-9-1,,momj1237-1,9,píttámúzo,píttámúzo,[],( 10 - 1 ? ),[],,False,False,,1
-momj1237-1-10-1,,momj1237-1,10,kòmna,kòmna,[],,[],,False,False,,1
-momj1237-1-11-1,,momj1237-1,11,kòmna nàʔ múzoz,kòmna nàʔ múzoz,[],,[],,False,False,,1
-momj1237-1-12-1,,momj1237-1,12,kòmna nàʔ ɪ̀ttə́z,kòmna nàʔ ɪ̀ttə́z,[],,[],,False,False,,1
-momj1237-1-13-1,,momj1237-1,13,kòmna nàʔ tàáz,kòmna nàʔ tàáz,[],,[],,False,False,,1
-momj1237-1-14-1,,momj1237-1,14,kòmna nàʔ náz,kòmna nàʔ náz,[],,[],,False,False,,1
-momj1237-1-15-1,,momj1237-1,15,kòmna nàʔ ɡbanáʔáz,kòmna nàʔ ɡbanáʔáz,[],,[],,False,False,,1
-momj1237-1-16-1,,momj1237-1,16,kòmna nàʔ bámbə́z,kòmna nàʔ bámbə́z,[],,[],,False,False,,1
-momj1237-1-17-1,,momj1237-1,17,kòmna nàʔ ɡbánsá,kòmna nàʔ ɡbánsá,[],,[],,False,False,,1
-momj1237-1-18-1,,momj1237-1,18,kòmna nàʔ sàmsaara,kòmna nàʔ sàmsaara,[],,[],,False,False,,1
-momj1237-1-19-1,,momj1237-1,19,kòmna nàʔ píttámúzo,kòmna nàʔ píttámúzo,[],,[],,False,False,,1
-momj1237-1-20-1,,momj1237-1,20,zur,zur,[],,[],,False,False,,1
-momj1237-1-21-1,,momj1237-1,21,zur nàʔ múzoz,zur nàʔ múzoz,[],,[],,False,False,,1
-momj1237-1-22-1,,momj1237-1,22,zur nàʔ ɪ̀ttə́z,zur nàʔ ɪ̀ttə́z,[],,[],,False,False,,1
-momj1237-1-23-1,,momj1237-1,23,zur nàʔ tàáz,zur nàʔ tàáz,[],,[],,False,False,,1
-momj1237-1-24-1,,momj1237-1,24,zur nàʔ náz,zur nàʔ náz,[],,[],,False,False,,1
-momj1237-1-25-1,,momj1237-1,25,zur nàʔ ɡbanáʔáz,zur nàʔ ɡbanáʔáz,[],,[],,False,False,,1
-momj1237-1-26-1,,momj1237-1,26,zur nàʔ bámbə́z,zur nàʔ bámbə́z,[],,[],,False,False,,1
-momj1237-1-27-1,,momj1237-1,27,zur nàʔ ɡbánsá,zur nàʔ ɡbánsá,[],,[],,False,False,,1
-momj1237-1-28-1,,momj1237-1,28,zur nàʔ sàmsaara,zur nàʔ sàmsaara,[],,[],,False,False,,1
-momj1237-1-29-1,,momj1237-1,29,zur nàʔ píttámúzo,zur nàʔ píttámúzo,[],,[],,False,False,,1
-momj1237-1-30-1,,momj1237-1,30,zur nàʔ kòmna,zur nàʔ kòmna,[],,[],,False,False,,1
-momj1237-1-40-1,,momj1237-1,40,zúʔ ɪ̀ttə́,zúʔ ɪ̀ttə́,[],( 20 x 2 ),[],,False,False,,1
-momj1237-1-50-1,,momj1237-1,50,zúʔ ɪ̀ttə́ nàʔ kòmna,zúʔ ɪ̀ttə́ nàʔ kòmna,[],,[],,False,False,,1
-momj1237-1-60-1,,momj1237-1,60,zúʔ taare,zúʔ taare,[],( 20 x 3 ),[],,False,False,,1
-momj1237-1-70-1,,momj1237-1,70,zúʔ taare nàʔ kòmna,zúʔ taare nàʔ kòmna,[],,[],,False,False,,1
-momj1237-1-80-1,,momj1237-1,80,zúʔ na rè,zúʔ na rè,[],( 20 x 4 ),[],,False,False,,1
-momj1237-1-90-1,,momj1237-1,90,zúʔ na rè nàʔ kòmna,zúʔ na rè nàʔ kòmna,[],,[],,False,False,,1
-momj1237-1-100-1,,momj1237-1,100,zúʔ ɡbànáárə̀,zúʔ ɡbànáárə̀,[],( 20 x 5 ),[],,False,False,,1
-momj1237-1-200-1,,momj1237-1,200,zúʔ kòmna,zúʔ kòmna,[],( 20 x 10 ),[],,False,False,,1
-momj1237-1-1000-1,,momj1237-1,1000,mul,mul,[],,[],,False,False,,1
-momj1237-1-2000-1,,momj1237-1,2000,muʔ ìtté,muʔ ìtté,[],,[],,False,False,,1
+momj1237-1-1-1,,momj1237-1,1,muzoz,muzoz,[],,['chan2019'],,False,False,,1
+momj1237-1-2-1,,momj1237-1,2,ɪ̀ttə́z,ɪ̀ttə́z,[],,['chan2019'],,False,False,,1
+momj1237-1-3-1,,momj1237-1,3,tàáz,tàáz,[],,['chan2019'],,False,False,,1
+momj1237-1-4-1,,momj1237-1,4,náz,náz,[],,['chan2019'],,False,False,,1
+momj1237-1-5-1,,momj1237-1,5,ɡbanáá,ɡbanáá,[],,['chan2019'],,False,False,,1
+momj1237-1-6-1,,momj1237-1,6,bámbə́z,bámbə́z,[],,['chan2019'],,False,False,,1
+momj1237-1-7-1,,momj1237-1,7,ɡbánsá,ɡbánsá,[],,['chan2019'],,False,False,,1
+momj1237-1-8-1,,momj1237-1,8,sàmsaara,sàmsaara,[],,['chan2019'],,False,False,,1
+momj1237-1-9-1,,momj1237-1,9,píttámúzo,píttámúzo,[],( 10 - 1 ? ),['chan2019'],,False,False,,1
+momj1237-1-10-1,,momj1237-1,10,kòmna,kòmna,[],,['chan2019'],,False,False,,1
+momj1237-1-11-1,,momj1237-1,11,kòmna nàʔ múzoz,kòmna nàʔ múzoz,[],,['chan2019'],,False,False,,1
+momj1237-1-12-1,,momj1237-1,12,kòmna nàʔ ɪ̀ttə́z,kòmna nàʔ ɪ̀ttə́z,[],,['chan2019'],,False,False,,1
+momj1237-1-13-1,,momj1237-1,13,kòmna nàʔ tàáz,kòmna nàʔ tàáz,[],,['chan2019'],,False,False,,1
+momj1237-1-14-1,,momj1237-1,14,kòmna nàʔ náz,kòmna nàʔ náz,[],,['chan2019'],,False,False,,1
+momj1237-1-15-1,,momj1237-1,15,kòmna nàʔ ɡbanáʔáz,kòmna nàʔ ɡbanáʔáz,[],,['chan2019'],,False,False,,1
+momj1237-1-16-1,,momj1237-1,16,kòmna nàʔ bámbə́z,kòmna nàʔ bámbə́z,[],,['chan2019'],,False,False,,1
+momj1237-1-17-1,,momj1237-1,17,kòmna nàʔ ɡbánsá,kòmna nàʔ ɡbánsá,[],,['chan2019'],,False,False,,1
+momj1237-1-18-1,,momj1237-1,18,kòmna nàʔ sàmsaara,kòmna nàʔ sàmsaara,[],,['chan2019'],,False,False,,1
+momj1237-1-19-1,,momj1237-1,19,kòmna nàʔ píttámúzo,kòmna nàʔ píttámúzo,[],,['chan2019'],,False,False,,1
+momj1237-1-20-1,,momj1237-1,20,zur,zur,[],,['chan2019'],,False,False,,1
+momj1237-1-21-1,,momj1237-1,21,zur nàʔ múzoz,zur nàʔ múzoz,[],,['chan2019'],,False,False,,1
+momj1237-1-22-1,,momj1237-1,22,zur nàʔ ɪ̀ttə́z,zur nàʔ ɪ̀ttə́z,[],,['chan2019'],,False,False,,1
+momj1237-1-23-1,,momj1237-1,23,zur nàʔ tàáz,zur nàʔ tàáz,[],,['chan2019'],,False,False,,1
+momj1237-1-24-1,,momj1237-1,24,zur nàʔ náz,zur nàʔ náz,[],,['chan2019'],,False,False,,1
+momj1237-1-25-1,,momj1237-1,25,zur nàʔ ɡbanáʔáz,zur nàʔ ɡbanáʔáz,[],,['chan2019'],,False,False,,1
+momj1237-1-26-1,,momj1237-1,26,zur nàʔ bámbə́z,zur nàʔ bámbə́z,[],,['chan2019'],,False,False,,1
+momj1237-1-27-1,,momj1237-1,27,zur nàʔ ɡbánsá,zur nàʔ ɡbánsá,[],,['chan2019'],,False,False,,1
+momj1237-1-28-1,,momj1237-1,28,zur nàʔ sàmsaara,zur nàʔ sàmsaara,[],,['chan2019'],,False,False,,1
+momj1237-1-29-1,,momj1237-1,29,zur nàʔ píttámúzo,zur nàʔ píttámúzo,[],,['chan2019'],,False,False,,1
+momj1237-1-30-1,,momj1237-1,30,zur nàʔ kòmna,zur nàʔ kòmna,[],,['chan2019'],,False,False,,1
+momj1237-1-40-1,,momj1237-1,40,zúʔ ɪ̀ttə́,zúʔ ɪ̀ttə́,[],( 20 x 2 ),['chan2019'],,False,False,,1
+momj1237-1-50-1,,momj1237-1,50,zúʔ ɪ̀ttə́ nàʔ kòmna,zúʔ ɪ̀ttə́ nàʔ kòmna,[],,['chan2019'],,False,False,,1
+momj1237-1-60-1,,momj1237-1,60,zúʔ taare,zúʔ taare,[],( 20 x 3 ),['chan2019'],,False,False,,1
+momj1237-1-70-1,,momj1237-1,70,zúʔ taare nàʔ kòmna,zúʔ taare nàʔ kòmna,[],,['chan2019'],,False,False,,1
+momj1237-1-80-1,,momj1237-1,80,zúʔ na rè,zúʔ na rè,[],( 20 x 4 ),['chan2019'],,False,False,,1
+momj1237-1-90-1,,momj1237-1,90,zúʔ na rè nàʔ kòmna,zúʔ na rè nàʔ kòmna,[],,['chan2019'],,False,False,,1
+momj1237-1-100-1,,momj1237-1,100,zúʔ ɡbànáárə̀,zúʔ ɡbànáárə̀,[],( 20 x 5 ),['chan2019'],,False,False,,1
+momj1237-1-200-1,,momj1237-1,200,zúʔ kòmna,zúʔ kòmna,[],( 20 x 10 ),['chan2019'],,False,False,,1
+momj1237-1-1000-1,,momj1237-1,1000,mul,mul,[],,['chan2019'],,False,False,,1
+momj1237-1-2000-1,,momj1237-1,2000,muʔ ìtté,muʔ ìtté,[],,['chan2019'],,False,False,,1

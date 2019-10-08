@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tiru1241-1-1-1,,tiru1241-1,1,səbaʔan,səbaʔan,[],,[],,False,False,,1
-tiru1241-1-2-1,,tiru1241-1,2,rəwo,rəwo,[],,[],,False,False,,1
-tiru1241-1-3-1,,tiru1241-1,3,tələw,tələw,[],,[],,False,False,,1
-tiru1241-1-4-1,,tiru1241-1,4,fot,fot,[],,[],,False,False,,1
-tiru1241-1-5-1,,tiru1241-1,5,limo,limo,[],,[],,False,False,,1
-tiru1241-1-6-1,,tiru1241-1,6,nəm,nəm,[],,[],,False,False,,1
-tiru1241-1-7-1,,tiru1241-1,7,fitəw,fitəw,[],,[],,False,False,,1
-tiru1241-1-8-1,,tiru1241-1,8,waləw,waləw,[],,[],,False,False,,1
-tiru1241-1-9-1,,tiru1241-1,9,səyow,səyow,[],,[],,False,False,,1
-tiru1241-1-10-1,,tiru1241-1,10,folo,folo,[],,[],,False,False,,1
-tiru1241-1-11-1,,tiru1241-1,11,folo bra səbaʔan,folo bra səbaʔan,[],,[],,False,False,,1
-tiru1241-1-12-1,,tiru1241-1,12,folo bra rəwo,folo bra rəwo,[],,[],,False,False,,1
-tiru1241-1-13-1,,tiru1241-1,13,folo bra tələw,folo bra tələw,[],,[],,False,False,,1
-tiru1241-1-14-1,,tiru1241-1,14,folo bra fot,folo bra fot,[],,[],,False,False,,1
-tiru1241-1-15-1,,tiru1241-1,15,folo bra limo,folo bra limo,[],,[],,False,False,,1
-tiru1241-1-16-1,,tiru1241-1,16,folo bra nəm,folo bra nəm,[],,[],,False,False,,1
-tiru1241-1-17-1,,tiru1241-1,17,folo bra fitəw,folo bra fitəw,[],,[],,False,False,,1
-tiru1241-1-18-1,,tiru1241-1,18,folo bra waləw,folo bra waləw,[],,[],,False,False,,1
-tiru1241-1-19-1,,tiru1241-1,19,folo bra səyow,folo bra səyow,[],,[],,False,False,,1
-tiru1241-1-20-1,,tiru1241-1,20,rəwo folo,rəwo folo,[],,[],,False,False,,1
-tiru1241-1-21-1,,tiru1241-1,21,rəwo folo bra səbaʔan,rəwo folo bra səbaʔan,[],,[],,False,False,,1
-tiru1241-1-22-1,,tiru1241-1,22,rəwo folo bra rəwo,rəwo folo bra rəwo,[],,[],,False,False,,1
-tiru1241-1-23-1,,tiru1241-1,23,rəwo folo bra tələw,rəwo folo bra tələw,[],,[],,False,False,,1
-tiru1241-1-24-1,,tiru1241-1,24,rəwo folo bra fot,rəwo folo bra fot,[],,[],,False,False,,1
-tiru1241-1-25-1,,tiru1241-1,25,rəwo folo bra limo,rəwo folo bra limo,[],,[],,False,False,,1
-tiru1241-1-26-1,,tiru1241-1,26,rəwo folo bra nəm,rəwo folo bra nəm,[],,[],,False,False,,1
-tiru1241-1-27-1,,tiru1241-1,27,rəwo folo bra pitu,rəwo folo bra pitu,[],,[],,False,False,,1
-tiru1241-1-28-1,,tiru1241-1,28,rəwo folo bra waləw,rəwo folo bra waləw,[],,[],,False,False,,1
-tiru1241-1-29-1,,tiru1241-1,29,rəwo folo bra səyow,rəwo folo bra səyow,[],,[],,False,False,,1
-tiru1241-1-30-1,,tiru1241-1,30,tələw folo,tələw folo,[],,[],,False,False,,1
-tiru1241-1-40-1,,tiru1241-1,40,fot folo,fot folo,[],,[],,False,False,,1
-tiru1241-1-50-1,,tiru1241-1,50,limo folo,limo folo,[],,[],,False,False,,1
-tiru1241-1-60-1,,tiru1241-1,60,nəm folo,nəm folo,[],,[],,False,False,,1
-tiru1241-1-70-1,,tiru1241-1,70,fitəw folo,fitəw folo,[],,[],,False,False,,1
-tiru1241-1-80-1,,tiru1241-1,80,waləw folo,waləw folo,[],,[],,False,False,,1
-tiru1241-1-90-1,,tiru1241-1,90,səyow folo,səyow folo,[],,[],,False,False,,1
-tiru1241-1-100-1,,tiru1241-1,100,məratuh,məratuh,[],,[],,False,False,,1
-tiru1241-1-200-1,,tiru1241-1,200,rəwo ratuh,rəwo ratuh,[],,[],,False,False,,1
-tiru1241-1-1000-1,,tiru1241-1,1000,səŋibu,səŋibu,[],,[],,False,False,,1
-tiru1241-1-2000-1,,tiru1241-1,2000,rəwo ŋibu,rəwo ŋibu,[],,[],,False,False,,1
+tiru1241-1-1-1,,tiru1241-1,1,səbaʔan,səbaʔan,[],,['chan2019'],,False,False,,1
+tiru1241-1-2-1,,tiru1241-1,2,rəwo,rəwo,[],,['chan2019'],,False,False,,1
+tiru1241-1-3-1,,tiru1241-1,3,tələw,tələw,[],,['chan2019'],,False,False,,1
+tiru1241-1-4-1,,tiru1241-1,4,fot,fot,[],,['chan2019'],,False,False,,1
+tiru1241-1-5-1,,tiru1241-1,5,limo,limo,[],,['chan2019'],,False,False,,1
+tiru1241-1-6-1,,tiru1241-1,6,nəm,nəm,[],,['chan2019'],,False,False,,1
+tiru1241-1-7-1,,tiru1241-1,7,fitəw,fitəw,[],,['chan2019'],,False,False,,1
+tiru1241-1-8-1,,tiru1241-1,8,waləw,waləw,[],,['chan2019'],,False,False,,1
+tiru1241-1-9-1,,tiru1241-1,9,səyow,səyow,[],,['chan2019'],,False,False,,1
+tiru1241-1-10-1,,tiru1241-1,10,folo,folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-11-1,,tiru1241-1,11,folo bra səbaʔan,folo bra səbaʔan,[],,['chan2019'],,False,False,,1
+tiru1241-1-12-1,,tiru1241-1,12,folo bra rəwo,folo bra rəwo,[],,['chan2019'],,False,False,,1
+tiru1241-1-13-1,,tiru1241-1,13,folo bra tələw,folo bra tələw,[],,['chan2019'],,False,False,,1
+tiru1241-1-14-1,,tiru1241-1,14,folo bra fot,folo bra fot,[],,['chan2019'],,False,False,,1
+tiru1241-1-15-1,,tiru1241-1,15,folo bra limo,folo bra limo,[],,['chan2019'],,False,False,,1
+tiru1241-1-16-1,,tiru1241-1,16,folo bra nəm,folo bra nəm,[],,['chan2019'],,False,False,,1
+tiru1241-1-17-1,,tiru1241-1,17,folo bra fitəw,folo bra fitəw,[],,['chan2019'],,False,False,,1
+tiru1241-1-18-1,,tiru1241-1,18,folo bra waləw,folo bra waləw,[],,['chan2019'],,False,False,,1
+tiru1241-1-19-1,,tiru1241-1,19,folo bra səyow,folo bra səyow,[],,['chan2019'],,False,False,,1
+tiru1241-1-20-1,,tiru1241-1,20,rəwo folo,rəwo folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-21-1,,tiru1241-1,21,rəwo folo bra səbaʔan,rəwo folo bra səbaʔan,[],,['chan2019'],,False,False,,1
+tiru1241-1-22-1,,tiru1241-1,22,rəwo folo bra rəwo,rəwo folo bra rəwo,[],,['chan2019'],,False,False,,1
+tiru1241-1-23-1,,tiru1241-1,23,rəwo folo bra tələw,rəwo folo bra tələw,[],,['chan2019'],,False,False,,1
+tiru1241-1-24-1,,tiru1241-1,24,rəwo folo bra fot,rəwo folo bra fot,[],,['chan2019'],,False,False,,1
+tiru1241-1-25-1,,tiru1241-1,25,rəwo folo bra limo,rəwo folo bra limo,[],,['chan2019'],,False,False,,1
+tiru1241-1-26-1,,tiru1241-1,26,rəwo folo bra nəm,rəwo folo bra nəm,[],,['chan2019'],,False,False,,1
+tiru1241-1-27-1,,tiru1241-1,27,rəwo folo bra pitu,rəwo folo bra pitu,[],,['chan2019'],,False,False,,1
+tiru1241-1-28-1,,tiru1241-1,28,rəwo folo bra waləw,rəwo folo bra waləw,[],,['chan2019'],,False,False,,1
+tiru1241-1-29-1,,tiru1241-1,29,rəwo folo bra səyow,rəwo folo bra səyow,[],,['chan2019'],,False,False,,1
+tiru1241-1-30-1,,tiru1241-1,30,tələw folo,tələw folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-40-1,,tiru1241-1,40,fot folo,fot folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-50-1,,tiru1241-1,50,limo folo,limo folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-60-1,,tiru1241-1,60,nəm folo,nəm folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-70-1,,tiru1241-1,70,fitəw folo,fitəw folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-80-1,,tiru1241-1,80,waləw folo,waləw folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-90-1,,tiru1241-1,90,səyow folo,səyow folo,[],,['chan2019'],,False,False,,1
+tiru1241-1-100-1,,tiru1241-1,100,məratuh,məratuh,[],,['chan2019'],,False,False,,1
+tiru1241-1-200-1,,tiru1241-1,200,rəwo ratuh,rəwo ratuh,[],,['chan2019'],,False,False,,1
+tiru1241-1-1000-1,,tiru1241-1,1000,səŋibu,səŋibu,[],,['chan2019'],,False,False,,1
+tiru1241-1-2000-1,,tiru1241-1,2000,rəwo ŋibu,rəwo ŋibu,[],,['chan2019'],,False,False,,1

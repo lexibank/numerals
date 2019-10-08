@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-koti1238-1-1-1,,koti1238-1,1,mɔtɛ,mɔtɛ,[],,[],,False,False,,1
-koti1238-1-1-2,,koti1238-1,1,mɔd͡ʒa,mɔd͡ʒa,[],,[],,False,False,,1
-koti1238-1-2-1,,koti1238-1,2,ˈpiːrí,ˈpiːrí,[],,[],,False,False,,1
-koti1238-1-3-1,,koti1238-1,3,ˈʈʰaʈʊ́,ˈʈʰaʈʊ́,[],,[],,False,False,,1
-koti1238-1-4-1,,koti1238-1,4,nnɛ,nnɛ,[],,[],,False,False,,1
-koti1238-1-5-1,,koti1238-1,5,ˈtʰaːnú,ˈtʰaːnú,[],,[],,False,False,,1
-koti1238-1-6-1,,koti1238-1,6,sitʰa,sitʰa,[],( < Swahili ),[],,True,False,,1
-koti1238-1-7-1,,koti1238-1,7,sapa,sapa,[],( < Swahili ),[],,True,False,,1
-koti1238-1-8-1,,koti1238-1,8,naːne,naːne,[],( < Swahili ),[],,True,False,,1
-koti1238-1-9-1,,koti1238-1,9,tiːsiya,tiːsiya,[],,[],,False,False,,1
-koti1238-1-9-2,,koti1238-1,9,kɛnʈa,kɛnʈa,[],( < Swahili ),[],,True,False,,1
-koti1238-1-10-1,,koti1238-1,10,kʰumi,kʰumi,[],,[],,False,False,,1
-koti1238-1-11-1,,koti1238-1,11,kʰumi na moːtɛ,kʰumi na moːtɛ,[],,[],,False,False,,1
-koti1238-1-12-1,,koti1238-1,12,kʰumi na piːrí,kʰumi na piːrí,[],,[],,False,False,,1
-koti1238-1-13-1,,koti1238-1,13,kʰumi na ˈʈʰaʈʊ́,kʰumi na ˈʈʰaʈʊ́,[],,[],,False,False,,1
-koti1238-1-14-1,,koti1238-1,14,kʰumi na nnɛ,kʰumi na nnɛ,[],,[],,False,False,,1
-koti1238-1-15-1,,koti1238-1,15,kʰumi na tʰanú,kʰumi na tʰanú,[],,[],,False,False,,1
-koti1238-1-16-1,,koti1238-1,16,kʰumi na sitʰa,kʰumi na sitʰa,[],,[],,False,False,,1
-koti1238-1-17-1,,koti1238-1,17,kʰumi na sapa,kʰumi na sapa,[],,[],,False,False,,1
-koti1238-1-18-1,,koti1238-1,18,kʰumi na naːne,kʰumi na naːne,[],,[],,False,False,,1
-koti1238-1-19-1,,koti1238-1,19,kʰumi na tiːsiya,kʰumi na tiːsiya,[],,[],,False,False,,1
-koti1238-1-20-1,,koti1238-1,20,ɛʃiːriːni,ɛʃiːriːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-21-1,,koti1238-1,21,ɛʃiːriːni na mɔtɛ,ɛʃiːriːni na mɔtɛ,[],( ''Arabic + Bantu'' ),[],,False,False,,1
-koti1238-1-22-1,,koti1238-1,22,ɛʃiːriːni na piːrí,ɛʃiːriːni na piːrí,[],,[],,False,False,,1
-koti1238-1-23-1,,koti1238-1,23,ɛʃiːriːni na ˈʈʰaʈʊ́,ɛʃiːriːni na ˈʈʰaʈʊ́,[],,[],,False,False,,1
-koti1238-1-24-1,,koti1238-1,24,ɛʃiːriːni na nnɛ,ɛʃiːriːni na nnɛ,[],,[],,False,False,,1
-koti1238-1-25-1,,koti1238-1,25,ɛʃiːriːni na ˈtʰaːnú,ɛʃiːriːni na ˈtʰaːnú,[],,[],,False,False,,1
-koti1238-1-26-1,,koti1238-1,26,ɛʃiːriːni na sitʰa,ɛʃiːriːni na sitʰa,[],,[],,False,False,,1
-koti1238-1-27-1,,koti1238-1,27,ɛʃiːriːni na sapa,ɛʃiːriːni na sapa,[],,[],,False,False,,1
-koti1238-1-28-1,,koti1238-1,28,ɛʃiːriːni na naːne,ɛʃiːriːni na naːne,[],,[],,False,False,,1
-koti1238-1-29-1,,koti1238-1,29,ɛʃiːriːni na tiːsiya,ɛʃiːriːni na tiːsiya,[],,[],,False,False,,1
-koti1238-1-30-1,,koti1238-1,30,talatʰiːni,talatʰiːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-40-1,,koti1238-1,40,arupayiːni,arupayiːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-50-1,,koti1238-1,50,hamsiːni,hamsiːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-60-1,,koti1238-1,60,siːtʰiːni,siːtʰiːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-70-1,,koti1238-1,70,sapiːni,sapiːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-80-1,,koti1238-1,80,tʰamaːniːni,tʰamaːniːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-90-1,,koti1238-1,90,tiːsiːni,tiːsiːni,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-100-1,,koti1238-1,100,miːya,miːya,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-200-1,,koti1238-1,200,miːya piːri,miːya piːri,[],,[],,False,False,,1
-koti1238-1-1000-1,,koti1238-1,1000,alufu,alufu,[],(< Swahili / Arabic ),[],,True,False,,1
-koti1238-1-2000-1,,koti1238-1,2000,alufu piːri,alufu piːri,[],,[],,False,False,,1
+koti1238-1-1-1,,koti1238-1,1,mɔtɛ,mɔtɛ,[],,['chan2019'],,False,False,,1
+koti1238-1-1-2,,koti1238-1,1,mɔd͡ʒa,mɔd͡ʒa,[],,['chan2019'],,False,False,,1
+koti1238-1-2-1,,koti1238-1,2,ˈpiːrí,ˈpiːrí,[],,['chan2019'],,False,False,,1
+koti1238-1-3-1,,koti1238-1,3,ˈʈʰaʈʊ́,ˈʈʰaʈʊ́,[],,['chan2019'],,False,False,,1
+koti1238-1-4-1,,koti1238-1,4,nnɛ,nnɛ,[],,['chan2019'],,False,False,,1
+koti1238-1-5-1,,koti1238-1,5,ˈtʰaːnú,ˈtʰaːnú,[],,['chan2019'],,False,False,,1
+koti1238-1-6-1,,koti1238-1,6,sitʰa,sitʰa,[],( < Swahili ),['chan2019'],,True,False,,1
+koti1238-1-7-1,,koti1238-1,7,sapa,sapa,[],( < Swahili ),['chan2019'],,True,False,,1
+koti1238-1-8-1,,koti1238-1,8,naːne,naːne,[],( < Swahili ),['chan2019'],,True,False,,1
+koti1238-1-9-1,,koti1238-1,9,tiːsiya,tiːsiya,[],,['chan2019'],,False,False,,1
+koti1238-1-9-2,,koti1238-1,9,kɛnʈa,kɛnʈa,[],( < Swahili ),['chan2019'],,True,False,,1
+koti1238-1-10-1,,koti1238-1,10,kʰumi,kʰumi,[],,['chan2019'],,False,False,,1
+koti1238-1-11-1,,koti1238-1,11,kʰumi na moːtɛ,kʰumi na moːtɛ,[],,['chan2019'],,False,False,,1
+koti1238-1-12-1,,koti1238-1,12,kʰumi na piːrí,kʰumi na piːrí,[],,['chan2019'],,False,False,,1
+koti1238-1-13-1,,koti1238-1,13,kʰumi na ˈʈʰaʈʊ́,kʰumi na ˈʈʰaʈʊ́,[],,['chan2019'],,False,False,,1
+koti1238-1-14-1,,koti1238-1,14,kʰumi na nnɛ,kʰumi na nnɛ,[],,['chan2019'],,False,False,,1
+koti1238-1-15-1,,koti1238-1,15,kʰumi na tʰanú,kʰumi na tʰanú,[],,['chan2019'],,False,False,,1
+koti1238-1-16-1,,koti1238-1,16,kʰumi na sitʰa,kʰumi na sitʰa,[],,['chan2019'],,False,False,,1
+koti1238-1-17-1,,koti1238-1,17,kʰumi na sapa,kʰumi na sapa,[],,['chan2019'],,False,False,,1
+koti1238-1-18-1,,koti1238-1,18,kʰumi na naːne,kʰumi na naːne,[],,['chan2019'],,False,False,,1
+koti1238-1-19-1,,koti1238-1,19,kʰumi na tiːsiya,kʰumi na tiːsiya,[],,['chan2019'],,False,False,,1
+koti1238-1-20-1,,koti1238-1,20,ɛʃiːriːni,ɛʃiːriːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-21-1,,koti1238-1,21,ɛʃiːriːni na mɔtɛ,ɛʃiːriːni na mɔtɛ,[],( ''Arabic + Bantu'' ),['chan2019'],,False,False,,1
+koti1238-1-22-1,,koti1238-1,22,ɛʃiːriːni na piːrí,ɛʃiːriːni na piːrí,[],,['chan2019'],,False,False,,1
+koti1238-1-23-1,,koti1238-1,23,ɛʃiːriːni na ˈʈʰaʈʊ́,ɛʃiːriːni na ˈʈʰaʈʊ́,[],,['chan2019'],,False,False,,1
+koti1238-1-24-1,,koti1238-1,24,ɛʃiːriːni na nnɛ,ɛʃiːriːni na nnɛ,[],,['chan2019'],,False,False,,1
+koti1238-1-25-1,,koti1238-1,25,ɛʃiːriːni na ˈtʰaːnú,ɛʃiːriːni na ˈtʰaːnú,[],,['chan2019'],,False,False,,1
+koti1238-1-26-1,,koti1238-1,26,ɛʃiːriːni na sitʰa,ɛʃiːriːni na sitʰa,[],,['chan2019'],,False,False,,1
+koti1238-1-27-1,,koti1238-1,27,ɛʃiːriːni na sapa,ɛʃiːriːni na sapa,[],,['chan2019'],,False,False,,1
+koti1238-1-28-1,,koti1238-1,28,ɛʃiːriːni na naːne,ɛʃiːriːni na naːne,[],,['chan2019'],,False,False,,1
+koti1238-1-29-1,,koti1238-1,29,ɛʃiːriːni na tiːsiya,ɛʃiːriːni na tiːsiya,[],,['chan2019'],,False,False,,1
+koti1238-1-30-1,,koti1238-1,30,talatʰiːni,talatʰiːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-40-1,,koti1238-1,40,arupayiːni,arupayiːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-50-1,,koti1238-1,50,hamsiːni,hamsiːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-60-1,,koti1238-1,60,siːtʰiːni,siːtʰiːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-70-1,,koti1238-1,70,sapiːni,sapiːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-80-1,,koti1238-1,80,tʰamaːniːni,tʰamaːniːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-90-1,,koti1238-1,90,tiːsiːni,tiːsiːni,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-100-1,,koti1238-1,100,miːya,miːya,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-200-1,,koti1238-1,200,miːya piːri,miːya piːri,[],,['chan2019'],,False,False,,1
+koti1238-1-1000-1,,koti1238-1,1000,alufu,alufu,[],(< Swahili / Arabic ),['chan2019'],,True,False,,1
+koti1238-1-2000-1,,koti1238-1,2000,alufu piːri,alufu piːri,[],,['chan2019'],,False,False,,1

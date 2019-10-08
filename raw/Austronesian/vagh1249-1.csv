@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-vagh1249-1-1-1,,vagh1249-1,1,kakaoa,kakaoa,[],,[],,False,False,,1
-vagh1249-1-2-1,,vagh1249-1,2,karua,karua,[],,[],,False,False,,1
-vagh1249-1-3-1,,vagh1249-1,3,kapəsa,kapəsa,[],,[],,False,False,,1
-vagh1249-1-4-1,,vagh1249-1,4,kavats,kavats,[],,[],,False,False,,1
-vagh1249-1-5-1,,vagh1249-1,5,kaləma,kaləma,[],,[],,False,False,,1
-vagh1249-1-6-1,,vagh1249-1,6,kaɔnɔmɔ,kaɔnɔmɔ,[],,[],,False,False,,1
-vagh1249-1-7-1,,vagh1249-1,7,kavuts,kavuts,[],,[],,False,False,,1
-vagh1249-1-8-1,,vagh1249-1,8,kazal,kazal,[],,[],,False,False,,1
-vagh1249-1-9-1,,vagh1249-1,9,kaɣəsa,kaɣəsa,[],,[],,False,False,,1
-vagh1249-1-10-1,,vagh1249-1,10,ŋavəl,ŋavəl,[],,[],,False,False,,1
-vagh1249-1-11-1,,vagh1249-1,11,ŋavəl kakaoa,ŋavəl kakaoa,[],,[],,False,False,,1
-vagh1249-1-12-1,,vagh1249-1,12,ŋavəl karua,ŋavəl karua,[],,[],,False,False,,1
-vagh1249-1-13-1,,vagh1249-1,13,ŋavəl kapəsa,ŋavəl kapəsa,[],,[],,False,False,,1
-vagh1249-1-14-1,,vagh1249-1,14,ŋavəl kavats,ŋavəl kavats,[],,[],,False,False,,1
-vagh1249-1-15-1,,vagh1249-1,15,ŋavəl kaləma,ŋavəl kaləma,[],,[],,False,False,,1
-vagh1249-1-16-1,,vagh1249-1,16,ŋavəl kaɔnɔmɔ,ŋavəl kaɔnɔmɔ,[],,[],,False,False,,1
-vagh1249-1-17-1,,vagh1249-1,17,ŋavəl kavuts,ŋavəl kavuts,[],,[],,False,False,,1
-vagh1249-1-18-1,,vagh1249-1,18,ŋavəl kazal,ŋavəl kazal,[],,[],,False,False,,1
-vagh1249-1-19-1,,vagh1249-1,19,ŋavəl kaɣəsa,ŋavəl kaɣəsa,[],,[],,False,False,,1
-vagh1249-1-20-1,,vagh1249-1,20,karabete,karabete,[],,[],,False,False,,1
-vagh1249-1-21-1,,vagh1249-1,21,karabete kakaoa,karabete kakaoa,[],,[],,False,False,,1
-vagh1249-1-22-1,,vagh1249-1,22,karabete karua,karabete karua,[],,[],,False,False,,1
-vagh1249-1-23-1,,vagh1249-1,23,karabete kapəsa,karabete kapəsa,[],,[],,False,False,,1
-vagh1249-1-24-1,,vagh1249-1,24,karabete kavats,karabete kavats,[],,[],,False,False,,1
-vagh1249-1-25-1,,vagh1249-1,25,karabete kaləma,karabete kaləma,[],,[],,False,False,,1
-vagh1249-1-26-1,,vagh1249-1,26,karabete kaɔnɔmɔ,karabete kaɔnɔmɔ,[],,[],,False,False,,1
-vagh1249-1-27-1,,vagh1249-1,27,karabete kavuts,karabete kavuts,[],,[],,False,False,,1
-vagh1249-1-28-1,,vagh1249-1,28,karabete kazal,karabete kazal,[],,[],,False,False,,1
-vagh1249-1-29-1,,vagh1249-1,29,karabete kaɣəsa,karabete kaɣəsa,[],,[],,False,False,,1
-vagh1249-1-30-1,,vagh1249-1,30,pəsaŋavul,pəsaŋavul,[],,[],,False,False,,1
-vagh1249-1-40-1,,vagh1249-1,40,vatsəŋavul,vatsəŋavul,[],,[],,False,False,,1
-vagh1249-1-50-1,,vagh1249-1,50,neᵑɡɔ,neᵑɡɔ,[],,[],,False,False,,1
-vagh1249-1-60-1,,vagh1249-1,60,ɔnɔmɔŋavul,ɔnɔmɔŋavul,[],,[],,False,False,,1
-vagh1249-1-70-1,,vagh1249-1,70,vutsɔŋavul,vutsɔŋavul,[],,[],,False,False,,1
-vagh1249-1-80-1,,vagh1249-1,80,zaləŋavul,zaləŋavul,[],,[],,False,False,,1
-vagh1249-1-90-1,,vagh1249-1,90,ɣəzaŋavul,ɣəzaŋavul,[],,[],,False,False,,1
-vagh1249-1-100-1,,vagh1249-1,100,kaᵑɡa vasa,kaᵑɡa vasa,[],,[],,False,False,,1
-vagh1249-1-200-1,,vagh1249-1,200,karua kaᵑɡa vasa,karua kaᵑɡa vasa,[],,[],,False,False,,1
-vagh1249-1-1000-1,,vagh1249-1,1000,kaᵑɡa mavə,kaᵑɡa mavə,[],,[],,False,False,,1
-vagh1249-1-2000-1,,vagh1249-1,2000,karua mavə,karua mavə,[],,[],,False,False,,1
+vagh1249-1-1-1,,vagh1249-1,1,kakaoa,kakaoa,[],,['chan2019'],,False,False,,1
+vagh1249-1-2-1,,vagh1249-1,2,karua,karua,[],,['chan2019'],,False,False,,1
+vagh1249-1-3-1,,vagh1249-1,3,kapəsa,kapəsa,[],,['chan2019'],,False,False,,1
+vagh1249-1-4-1,,vagh1249-1,4,kavats,kavats,[],,['chan2019'],,False,False,,1
+vagh1249-1-5-1,,vagh1249-1,5,kaləma,kaləma,[],,['chan2019'],,False,False,,1
+vagh1249-1-6-1,,vagh1249-1,6,kaɔnɔmɔ,kaɔnɔmɔ,[],,['chan2019'],,False,False,,1
+vagh1249-1-7-1,,vagh1249-1,7,kavuts,kavuts,[],,['chan2019'],,False,False,,1
+vagh1249-1-8-1,,vagh1249-1,8,kazal,kazal,[],,['chan2019'],,False,False,,1
+vagh1249-1-9-1,,vagh1249-1,9,kaɣəsa,kaɣəsa,[],,['chan2019'],,False,False,,1
+vagh1249-1-10-1,,vagh1249-1,10,ŋavəl,ŋavəl,[],,['chan2019'],,False,False,,1
+vagh1249-1-11-1,,vagh1249-1,11,ŋavəl kakaoa,ŋavəl kakaoa,[],,['chan2019'],,False,False,,1
+vagh1249-1-12-1,,vagh1249-1,12,ŋavəl karua,ŋavəl karua,[],,['chan2019'],,False,False,,1
+vagh1249-1-13-1,,vagh1249-1,13,ŋavəl kapəsa,ŋavəl kapəsa,[],,['chan2019'],,False,False,,1
+vagh1249-1-14-1,,vagh1249-1,14,ŋavəl kavats,ŋavəl kavats,[],,['chan2019'],,False,False,,1
+vagh1249-1-15-1,,vagh1249-1,15,ŋavəl kaləma,ŋavəl kaləma,[],,['chan2019'],,False,False,,1
+vagh1249-1-16-1,,vagh1249-1,16,ŋavəl kaɔnɔmɔ,ŋavəl kaɔnɔmɔ,[],,['chan2019'],,False,False,,1
+vagh1249-1-17-1,,vagh1249-1,17,ŋavəl kavuts,ŋavəl kavuts,[],,['chan2019'],,False,False,,1
+vagh1249-1-18-1,,vagh1249-1,18,ŋavəl kazal,ŋavəl kazal,[],,['chan2019'],,False,False,,1
+vagh1249-1-19-1,,vagh1249-1,19,ŋavəl kaɣəsa,ŋavəl kaɣəsa,[],,['chan2019'],,False,False,,1
+vagh1249-1-20-1,,vagh1249-1,20,karabete,karabete,[],,['chan2019'],,False,False,,1
+vagh1249-1-21-1,,vagh1249-1,21,karabete kakaoa,karabete kakaoa,[],,['chan2019'],,False,False,,1
+vagh1249-1-22-1,,vagh1249-1,22,karabete karua,karabete karua,[],,['chan2019'],,False,False,,1
+vagh1249-1-23-1,,vagh1249-1,23,karabete kapəsa,karabete kapəsa,[],,['chan2019'],,False,False,,1
+vagh1249-1-24-1,,vagh1249-1,24,karabete kavats,karabete kavats,[],,['chan2019'],,False,False,,1
+vagh1249-1-25-1,,vagh1249-1,25,karabete kaləma,karabete kaləma,[],,['chan2019'],,False,False,,1
+vagh1249-1-26-1,,vagh1249-1,26,karabete kaɔnɔmɔ,karabete kaɔnɔmɔ,[],,['chan2019'],,False,False,,1
+vagh1249-1-27-1,,vagh1249-1,27,karabete kavuts,karabete kavuts,[],,['chan2019'],,False,False,,1
+vagh1249-1-28-1,,vagh1249-1,28,karabete kazal,karabete kazal,[],,['chan2019'],,False,False,,1
+vagh1249-1-29-1,,vagh1249-1,29,karabete kaɣəsa,karabete kaɣəsa,[],,['chan2019'],,False,False,,1
+vagh1249-1-30-1,,vagh1249-1,30,pəsaŋavul,pəsaŋavul,[],,['chan2019'],,False,False,,1
+vagh1249-1-40-1,,vagh1249-1,40,vatsəŋavul,vatsəŋavul,[],,['chan2019'],,False,False,,1
+vagh1249-1-50-1,,vagh1249-1,50,neᵑɡɔ,neᵑɡɔ,[],,['chan2019'],,False,False,,1
+vagh1249-1-60-1,,vagh1249-1,60,ɔnɔmɔŋavul,ɔnɔmɔŋavul,[],,['chan2019'],,False,False,,1
+vagh1249-1-70-1,,vagh1249-1,70,vutsɔŋavul,vutsɔŋavul,[],,['chan2019'],,False,False,,1
+vagh1249-1-80-1,,vagh1249-1,80,zaləŋavul,zaləŋavul,[],,['chan2019'],,False,False,,1
+vagh1249-1-90-1,,vagh1249-1,90,ɣəzaŋavul,ɣəzaŋavul,[],,['chan2019'],,False,False,,1
+vagh1249-1-100-1,,vagh1249-1,100,kaᵑɡa vasa,kaᵑɡa vasa,[],,['chan2019'],,False,False,,1
+vagh1249-1-200-1,,vagh1249-1,200,karua kaᵑɡa vasa,karua kaᵑɡa vasa,[],,['chan2019'],,False,False,,1
+vagh1249-1-1000-1,,vagh1249-1,1000,kaᵑɡa mavə,kaᵑɡa mavə,[],,['chan2019'],,False,False,,1
+vagh1249-1-2000-1,,vagh1249-1,2000,karua mavə,karua mavə,[],,['chan2019'],,False,False,,1

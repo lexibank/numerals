@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sawk1238-1-1-1,,sawk1238-1,1,íɡ̌ɡ̌en,íɡ̌ɡ̌en,[],(masc.),[],,False,False,,1
-sawk1238-1-1-2,,sawk1238-1,1,íɡ̌ɡ̌et,íɡ̌ɡ̌et,[],(fem.),[],,False,False,,1
-sawk1238-1-2-1,,sawk1238-1,2,se̩n,se̩n,[],(masc.),[],,False,False,,1
-sawk1238-1-2-2,,sawk1238-1,2,sénnĕt,sénnĕt,[],(fem.),[],,False,False,,1
-sawk1238-1-3-1,,sawk1238-1,3,šâret,šâret,[],,[],,False,False,,1
-sawk1238-1-10-1,,sawk1238-1,10,ifé̤ssen,ifé̤ssen,[],,[],,False,False,,1
-sawk1238-1-12-1,,sawk1238-1,12,se̩n ifé̤ssen de se̩n id̩ûd̩ān,se̩n ifé̤ssen de se̩n id̩ûd̩ān,[],,[],,False,False,,1
-sawk1238-1-17-1,,sawk1238-1,17,se̩n ifé̤ssen de se̩n id̩ûd̩ān,se̩n ifé̤ssen de se̩n id̩ûd̩ān,[],,[],,False,False,,1
-sawk1238-1-19-1,,sawk1238-1,19,ifé̤ssen ette̤˥skân ġê̤r de dâd̩,ifé̤ssen ette̤˥skân ġê̤r de dâd̩,[],,[],,False,False,,1
-sawk1238-1-30-1,,sawk1238-1,30,yūr,yūr,[],,[],,False,False,,1
-sawk1238-1-100-1,,sawk1238-1,100,sénnet tmîtīn,sénnet tmîtīn,[],,[],,False,False,,1
+sawk1238-1-1-1,,sawk1238-1,1,íɡ̌ɡ̌en,íɡ̌ɡ̌en,[],(masc.),['chan2019'],,False,False,,1
+sawk1238-1-1-2,,sawk1238-1,1,íɡ̌ɡ̌et,íɡ̌ɡ̌et,[],(fem.),['chan2019'],,False,False,,1
+sawk1238-1-2-1,,sawk1238-1,2,se̩n,se̩n,[],(masc.),['chan2019'],,False,False,,1
+sawk1238-1-2-2,,sawk1238-1,2,sénnĕt,sénnĕt,[],(fem.),['chan2019'],,False,False,,1
+sawk1238-1-3-1,,sawk1238-1,3,šâret,šâret,[],,['chan2019'],,False,False,,1
+sawk1238-1-10-1,,sawk1238-1,10,ifé̤ssen,ifé̤ssen,[],,['chan2019'],,False,False,,1
+sawk1238-1-12-1,,sawk1238-1,12,se̩n ifé̤ssen de se̩n id̩ûd̩ān,se̩n ifé̤ssen de se̩n id̩ûd̩ān,[],,['chan2019'],,False,False,,1
+sawk1238-1-17-1,,sawk1238-1,17,se̩n ifé̤ssen de se̩n id̩ûd̩ān,se̩n ifé̤ssen de se̩n id̩ûd̩ān,[],,['chan2019'],,False,False,,1
+sawk1238-1-19-1,,sawk1238-1,19,ifé̤ssen ette̤˥skân ġê̤r de dâd̩,ifé̤ssen ette̤˥skân ġê̤r de dâd̩,[],,['chan2019'],,False,False,,1
+sawk1238-1-30-1,,sawk1238-1,30,yūr,yūr,[],,['chan2019'],,False,False,,1
+sawk1238-1-100-1,,sawk1238-1,100,sénnet tmîtīn,sénnet tmîtīn,[],,['chan2019'],,False,False,,1

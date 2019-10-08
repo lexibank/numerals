@@ -1,38 +1,38 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-korw1242-2-1-1,,korw1242-2,1,mit,mit,[],,[],,False,False,,2
-korw1242-2-2-1,,korw1242-2,2,bər,bər,[],,[],,False,False,,2
-korw1242-2-3-1,,korw1242-2,3,pei,pei,[],,[],,False,False,,2
-korw1242-2-4-1,,korw1242-2,4,sair,sair,[],,[],,False,False,,2
-korw1242-2-5-1,,korw1242-2,5,pac,pac,[],,[],,False,False,,2
-korw1242-2-6-1,,korw1242-2,6,chəo,chəo,[],,[],,False,False,,2
-korw1242-2-7-1,,korw1242-2,7,sat,sat,[],,[],,False,False,,2
-korw1242-2-8-1,,korw1242-2,8,aʈ,aʈ,[],,[],,False,False,,2
-korw1242-2-9-1,,korw1242-2,9,nəo,nəo,[],,[],,False,False,,2
-korw1242-2-10-1,,korw1242-2,10,dəs,dəs,[],,[],,False,False,,2
-korw1242-2-11-1,,korw1242-2,11,ʔgarə,ʔgarə,[],,[],,False,False,,2
-korw1242-2-12-1,,korw1242-2,12,barə,barə,[],,[],,False,False,,2
-korw1242-2-13-1,,korw1242-2,13,ter,ter,[],,[],,False,False,,2
-korw1242-2-14-1,,korw1242-2,14,caud,caud,[],,[],,False,False,,2
-korw1242-2-15-1,,korw1242-2,15,pəndra,pəndra,[],,[],,False,False,,2
-korw1242-2-16-1,,korw1242-2,16,sola,sola,[],,[],,False,False,,2
-korw1242-2-17-1,,korw1242-2,17,sətɾa,sətɾa,[],,[],,False,False,,2
-korw1242-2-18-1,,korw1242-2,18,aʈɾa,aʈɾa,[],,[],,False,False,,2
-korw1242-2-19-1,,korw1242-2,19,unəiis,unəiis,[],,[],,False,False,,2
-korw1242-2-20-1,,korw1242-2,20,ek kor,ek kor,[],,[],,False,False,,2
-korw1242-2-21-1,,korw1242-2,21,ek kori ek,ek kori ek,[],,[],,False,False,,2
-korw1242-2-22-1,,korw1242-2,22,ek kori dui,ek kori dui,[],,[],,False,False,,2
-korw1242-2-23-1,,korw1242-2,23,ek kori tin,ek kori tin,[],,[],,False,False,,2
-korw1242-2-24-1,,korw1242-2,24,ek kori sair,ek kori sair,[],,[],,False,False,,2
-korw1242-2-25-1,,korw1242-2,25,ek kori pac,ek kori pac,[],,[],,False,False,,2
-korw1242-2-26-1,,korw1242-2,26,ek kori chəo,ek kori chəo,[],,[],,False,False,,2
-korw1242-2-27-1,,korw1242-2,27,ek kori chəo,ek kori chəo,[],,[],,False,False,,2
-korw1242-2-28-1,,korw1242-2,28,ek kori aʈ,ek kori aʈ,[],,[],,False,False,,2
-korw1242-2-29-1,,korw1242-2,29,ek kori nəo,ek kori nəo,[],,[],,False,False,,2
-korw1242-2-30-1,,korw1242-2,30,ek kori dəs,ek kori dəs,[],,[],,False,False,,2
-korw1242-2-40-1,,korw1242-2,40,dui kori,dui kori,[],,[],,False,False,,2
-korw1242-2-50-1,,korw1242-2,50,dui kori dəs,dui kori dəs,[],,[],,False,False,,2
-korw1242-2-60-1,,korw1242-2,60,tin kori,tin kori,[],,[],,False,False,,2
-korw1242-2-70-1,,korw1242-2,70,tin kori dəs,tin kori dəs,[],,[],,False,False,,2
-korw1242-2-80-1,,korw1242-2,80,sair kori,sair kori,[],,[],,False,False,,2
-korw1242-2-90-1,,korw1242-2,90,sair kori dəs,sair kori dəs,[],,[],,False,False,,2
-korw1242-2-100-1,,korw1242-2,100,pãc kori,pãc kori,[],,[],,False,False,,2
+korw1242-2-1-1,,korw1242-2,1,mit,mit,[],,['chan2019'],,False,False,,2
+korw1242-2-2-1,,korw1242-2,2,bər,bər,[],,['chan2019'],,False,False,,2
+korw1242-2-3-1,,korw1242-2,3,pei,pei,[],,['chan2019'],,False,False,,2
+korw1242-2-4-1,,korw1242-2,4,sair,sair,[],,['chan2019'],,False,False,,2
+korw1242-2-5-1,,korw1242-2,5,pac,pac,[],,['chan2019'],,False,False,,2
+korw1242-2-6-1,,korw1242-2,6,chəo,chəo,[],,['chan2019'],,False,False,,2
+korw1242-2-7-1,,korw1242-2,7,sat,sat,[],,['chan2019'],,False,False,,2
+korw1242-2-8-1,,korw1242-2,8,aʈ,aʈ,[],,['chan2019'],,False,False,,2
+korw1242-2-9-1,,korw1242-2,9,nəo,nəo,[],,['chan2019'],,False,False,,2
+korw1242-2-10-1,,korw1242-2,10,dəs,dəs,[],,['chan2019'],,False,False,,2
+korw1242-2-11-1,,korw1242-2,11,ʔgarə,ʔgarə,[],,['chan2019'],,False,False,,2
+korw1242-2-12-1,,korw1242-2,12,barə,barə,[],,['chan2019'],,False,False,,2
+korw1242-2-13-1,,korw1242-2,13,ter,ter,[],,['chan2019'],,False,False,,2
+korw1242-2-14-1,,korw1242-2,14,caud,caud,[],,['chan2019'],,False,False,,2
+korw1242-2-15-1,,korw1242-2,15,pəndra,pəndra,[],,['chan2019'],,False,False,,2
+korw1242-2-16-1,,korw1242-2,16,sola,sola,[],,['chan2019'],,False,False,,2
+korw1242-2-17-1,,korw1242-2,17,sətɾa,sətɾa,[],,['chan2019'],,False,False,,2
+korw1242-2-18-1,,korw1242-2,18,aʈɾa,aʈɾa,[],,['chan2019'],,False,False,,2
+korw1242-2-19-1,,korw1242-2,19,unəiis,unəiis,[],,['chan2019'],,False,False,,2
+korw1242-2-20-1,,korw1242-2,20,ek kor,ek kor,[],,['chan2019'],,False,False,,2
+korw1242-2-21-1,,korw1242-2,21,ek kori ek,ek kori ek,[],,['chan2019'],,False,False,,2
+korw1242-2-22-1,,korw1242-2,22,ek kori dui,ek kori dui,[],,['chan2019'],,False,False,,2
+korw1242-2-23-1,,korw1242-2,23,ek kori tin,ek kori tin,[],,['chan2019'],,False,False,,2
+korw1242-2-24-1,,korw1242-2,24,ek kori sair,ek kori sair,[],,['chan2019'],,False,False,,2
+korw1242-2-25-1,,korw1242-2,25,ek kori pac,ek kori pac,[],,['chan2019'],,False,False,,2
+korw1242-2-26-1,,korw1242-2,26,ek kori chəo,ek kori chəo,[],,['chan2019'],,False,False,,2
+korw1242-2-27-1,,korw1242-2,27,ek kori chəo,ek kori chəo,[],,['chan2019'],,False,False,,2
+korw1242-2-28-1,,korw1242-2,28,ek kori aʈ,ek kori aʈ,[],,['chan2019'],,False,False,,2
+korw1242-2-29-1,,korw1242-2,29,ek kori nəo,ek kori nəo,[],,['chan2019'],,False,False,,2
+korw1242-2-30-1,,korw1242-2,30,ek kori dəs,ek kori dəs,[],,['chan2019'],,False,False,,2
+korw1242-2-40-1,,korw1242-2,40,dui kori,dui kori,[],,['chan2019'],,False,False,,2
+korw1242-2-50-1,,korw1242-2,50,dui kori dəs,dui kori dəs,[],,['chan2019'],,False,False,,2
+korw1242-2-60-1,,korw1242-2,60,tin kori,tin kori,[],,['chan2019'],,False,False,,2
+korw1242-2-70-1,,korw1242-2,70,tin kori dəs,tin kori dəs,[],,['chan2019'],,False,False,,2
+korw1242-2-80-1,,korw1242-2,80,sair kori,sair kori,[],,['chan2019'],,False,False,,2
+korw1242-2-90-1,,korw1242-2,90,sair kori dəs,sair kori dəs,[],,['chan2019'],,False,False,,2
+korw1242-2-100-1,,korw1242-2,100,pãc kori,pãc kori,[],,['chan2019'],,False,False,,2

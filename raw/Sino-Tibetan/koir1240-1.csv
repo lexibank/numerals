@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-koir1240-1-1-1,,koir1240-1,1,kinkʰat,kinkʰat,[],,[],,False,False,,1
-koir1240-1-2-1,,koir1240-1,2,kinni,kinni,[],,[],,False,False,,1
-koir1240-1-3-1,,koir1240-1,3,kintʰum,kintʰum,[],,[],,False,False,,1
-koir1240-1-4-1,,koir1240-1,4,minliː,minliː,[],,[],,False,False,,1
-koir1240-1-5-1,,koir1240-1,5,riŋaː,riŋaː,[],,[],,False,False,,1
-koir1240-1-6-1,,koir1240-1,6,kuruk,kuruk,[],,[],,False,False,,1
-koir1240-1-7-1,,koir1240-1,7,sari,sari,[],,[],,False,False,,1
-koir1240-1-8-1,,koir1240-1,8,kiriet,kiriet,[],,[],,False,False,,1
-koir1240-1-9-1,,koir1240-1,9,kuo,kuo,[],,[],,False,False,,1
-koir1240-1-10-1,,koir1240-1,10,soːm,soːm,[],,[],,False,False,,1
-koir1240-1-11-1,,koir1240-1,11,soːm lei kʰat,soːm lei kʰat,[],,[],,False,False,,1
-koir1240-1-12-1,,koir1240-1,12,soːm lei ni,soːm lei ni,[],,[],,False,False,,1
-koir1240-1-13-1,,koir1240-1,13,soːm lei tʰum,soːm lei tʰum,[],,[],,False,False,,1
-koir1240-1-14-1,,koir1240-1,14,soːm lei minli,soːm lei minli,[],,[],,False,False,,1
-koir1240-1-15-1,,koir1240-1,15,soːm lei riŋaː,soːm lei riŋaː,[],,[],,False,False,,1
-koir1240-1-16-1,,koir1240-1,16,soːm lei ruk,soːm lei ruk,[],,[],,False,False,,1
-koir1240-1-17-1,,koir1240-1,17,soːm lei sari,soːm lei sari,[],,[],,False,False,,1
-koir1240-1-18-1,,koir1240-1,18,soːm lei riet,soːm lei riet,[],,[],,False,False,,1
-koir1240-1-19-1,,koir1240-1,19,soːm lei kuo,soːm lei kuo,[],,[],,False,False,,1
-koir1240-1-20-1,,koir1240-1,20,soːm ni,soːm ni,[],,[],,False,False,,1
-koir1240-1-21-1,,koir1240-1,21,soːm ni lei kʰat,soːm ni lei kʰat,[],,[],,False,False,,1
-koir1240-1-22-1,,koir1240-1,22,soːm ni lei ni,soːm ni lei ni,[],,[],,False,False,,1
-koir1240-1-23-1,,koir1240-1,23,soːm ni lei tʰum,soːm ni lei tʰum,[],,[],,False,False,,1
-koir1240-1-24-1,,koir1240-1,24,soːm ni lei minli,soːm ni lei minli,[],,[],,False,False,,1
-koir1240-1-25-1,,koir1240-1,25,soːm ni lei riŋa,soːm ni lei riŋa,[],,[],,False,False,,1
-koir1240-1-26-1,,koir1240-1,26,soːm ni lei ruk,soːm ni lei ruk,[],,[],,False,False,,1
-koir1240-1-27-1,,koir1240-1,27,soːm ni lei sari,soːm ni lei sari,[],,[],,False,False,,1
-koir1240-1-28-1,,koir1240-1,28,soːm ni lei kiriet,soːm ni lei kiriet,[],,[],,False,False,,1
-koir1240-1-29-1,,koir1240-1,29,soːm ni lei kuo,soːm ni lei kuo,[],,[],,False,False,,1
-koir1240-1-30-1,,koir1240-1,30,soːm tʰum,soːm tʰum,[],,[],,False,False,,1
-koir1240-1-40-1,,koir1240-1,40,soːm minli,soːm minli,[],,[],,False,False,,1
-koir1240-1-50-1,,koir1240-1,50,soːm riŋa,soːm riŋa,[],,[],,False,False,,1
-koir1240-1-60-1,,koir1240-1,60,soːm kuruk,soːm kuruk,[],,[],,False,False,,1
-koir1240-1-70-1,,koir1240-1,70,soːm sari,soːm sari,[],,[],,False,False,,1
-koir1240-1-80-1,,koir1240-1,80,soːm kuriet,soːm kuriet,[],,[],,False,False,,1
-koir1240-1-90-1,,koir1240-1,90,soːm kuo,soːm kuo,[],,[],,False,False,,1
-koir1240-1-100-1,,koir1240-1,100,rui akʰat,rui akʰat,[],,[],,False,False,,1
-koir1240-1-200-1,,koir1240-1,200,rui ni or ru-ui ni,rui ni or ru-ui ni,[],,[],,False,True,,1
-koir1240-1-1000-1,,koir1240-1,1000,lisiŋ kʰat or lisiŋ kinkʰat,lisiŋ kʰat or lisiŋ kinkʰat,[],,[],,False,True,,1
-koir1240-1-2000-1,,koir1240-1,2000,lisiŋ kini or lisiŋ kinni,lisiŋ kini or lisiŋ kinni,[],,[],,False,True,,1
+koir1240-1-1-1,,koir1240-1,1,kinkʰat,kinkʰat,[],,['chan2019'],,False,False,,1
+koir1240-1-2-1,,koir1240-1,2,kinni,kinni,[],,['chan2019'],,False,False,,1
+koir1240-1-3-1,,koir1240-1,3,kintʰum,kintʰum,[],,['chan2019'],,False,False,,1
+koir1240-1-4-1,,koir1240-1,4,minliː,minliː,[],,['chan2019'],,False,False,,1
+koir1240-1-5-1,,koir1240-1,5,riŋaː,riŋaː,[],,['chan2019'],,False,False,,1
+koir1240-1-6-1,,koir1240-1,6,kuruk,kuruk,[],,['chan2019'],,False,False,,1
+koir1240-1-7-1,,koir1240-1,7,sari,sari,[],,['chan2019'],,False,False,,1
+koir1240-1-8-1,,koir1240-1,8,kiriet,kiriet,[],,['chan2019'],,False,False,,1
+koir1240-1-9-1,,koir1240-1,9,kuo,kuo,[],,['chan2019'],,False,False,,1
+koir1240-1-10-1,,koir1240-1,10,soːm,soːm,[],,['chan2019'],,False,False,,1
+koir1240-1-11-1,,koir1240-1,11,soːm lei kʰat,soːm lei kʰat,[],,['chan2019'],,False,False,,1
+koir1240-1-12-1,,koir1240-1,12,soːm lei ni,soːm lei ni,[],,['chan2019'],,False,False,,1
+koir1240-1-13-1,,koir1240-1,13,soːm lei tʰum,soːm lei tʰum,[],,['chan2019'],,False,False,,1
+koir1240-1-14-1,,koir1240-1,14,soːm lei minli,soːm lei minli,[],,['chan2019'],,False,False,,1
+koir1240-1-15-1,,koir1240-1,15,soːm lei riŋaː,soːm lei riŋaː,[],,['chan2019'],,False,False,,1
+koir1240-1-16-1,,koir1240-1,16,soːm lei ruk,soːm lei ruk,[],,['chan2019'],,False,False,,1
+koir1240-1-17-1,,koir1240-1,17,soːm lei sari,soːm lei sari,[],,['chan2019'],,False,False,,1
+koir1240-1-18-1,,koir1240-1,18,soːm lei riet,soːm lei riet,[],,['chan2019'],,False,False,,1
+koir1240-1-19-1,,koir1240-1,19,soːm lei kuo,soːm lei kuo,[],,['chan2019'],,False,False,,1
+koir1240-1-20-1,,koir1240-1,20,soːm ni,soːm ni,[],,['chan2019'],,False,False,,1
+koir1240-1-21-1,,koir1240-1,21,soːm ni lei kʰat,soːm ni lei kʰat,[],,['chan2019'],,False,False,,1
+koir1240-1-22-1,,koir1240-1,22,soːm ni lei ni,soːm ni lei ni,[],,['chan2019'],,False,False,,1
+koir1240-1-23-1,,koir1240-1,23,soːm ni lei tʰum,soːm ni lei tʰum,[],,['chan2019'],,False,False,,1
+koir1240-1-24-1,,koir1240-1,24,soːm ni lei minli,soːm ni lei minli,[],,['chan2019'],,False,False,,1
+koir1240-1-25-1,,koir1240-1,25,soːm ni lei riŋa,soːm ni lei riŋa,[],,['chan2019'],,False,False,,1
+koir1240-1-26-1,,koir1240-1,26,soːm ni lei ruk,soːm ni lei ruk,[],,['chan2019'],,False,False,,1
+koir1240-1-27-1,,koir1240-1,27,soːm ni lei sari,soːm ni lei sari,[],,['chan2019'],,False,False,,1
+koir1240-1-28-1,,koir1240-1,28,soːm ni lei kiriet,soːm ni lei kiriet,[],,['chan2019'],,False,False,,1
+koir1240-1-29-1,,koir1240-1,29,soːm ni lei kuo,soːm ni lei kuo,[],,['chan2019'],,False,False,,1
+koir1240-1-30-1,,koir1240-1,30,soːm tʰum,soːm tʰum,[],,['chan2019'],,False,False,,1
+koir1240-1-40-1,,koir1240-1,40,soːm minli,soːm minli,[],,['chan2019'],,False,False,,1
+koir1240-1-50-1,,koir1240-1,50,soːm riŋa,soːm riŋa,[],,['chan2019'],,False,False,,1
+koir1240-1-60-1,,koir1240-1,60,soːm kuruk,soːm kuruk,[],,['chan2019'],,False,False,,1
+koir1240-1-70-1,,koir1240-1,70,soːm sari,soːm sari,[],,['chan2019'],,False,False,,1
+koir1240-1-80-1,,koir1240-1,80,soːm kuriet,soːm kuriet,[],,['chan2019'],,False,False,,1
+koir1240-1-90-1,,koir1240-1,90,soːm kuo,soːm kuo,[],,['chan2019'],,False,False,,1
+koir1240-1-100-1,,koir1240-1,100,rui akʰat,rui akʰat,[],,['chan2019'],,False,False,,1
+koir1240-1-200-1,,koir1240-1,200,rui ni or ru-ui ni,rui ni or ru-ui ni,[],,['chan2019'],,False,True,,1
+koir1240-1-1000-1,,koir1240-1,1000,lisiŋ kʰat or lisiŋ kinkʰat,lisiŋ kʰat or lisiŋ kinkʰat,[],,['chan2019'],,False,True,,1
+koir1240-1-2000-1,,koir1240-1,2000,lisiŋ kini or lisiŋ kinni,lisiŋ kini or lisiŋ kinni,[],,['chan2019'],,False,True,,1

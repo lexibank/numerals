@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yukp1241-1-1-1,,yukp1241-1,1,'kumaɾko,'kumaɾko,[],,[],,False,False,,1
-yukp1241-1-2-1,,yukp1241-1,2,ko'hak,ko'hak,[],,[],,False,False,,1
-yukp1241-1-3-1,,yukp1241-1,3,ko'heɾ,ko'heɾ,[],,[],,False,False,,1
-yukp1241-1-4-1,,yukp1241-1,4,kohatka-ɾkp,kohatka-ɾkp,[],(litː 'twice two'),[],,False,False,,1
-yukp1241-1-5-1,,yukp1241-1,5,kumaɾko oma,kumaɾko oma,[],(litː 'only one hand'),[],,False,False,,1
-yukp1241-1-6-1,,yukp1241-1,6,koheɾatka rko,koheɾatka rko,[],(litː 'only three parts'),[],,False,False,,1
+yukp1241-1-1-1,,yukp1241-1,1,'kumaɾko,'kumaɾko,[],,['chan2019'],,False,False,,1
+yukp1241-1-2-1,,yukp1241-1,2,ko'hak,ko'hak,[],,['chan2019'],,False,False,,1
+yukp1241-1-3-1,,yukp1241-1,3,ko'heɾ,ko'heɾ,[],,['chan2019'],,False,False,,1
+yukp1241-1-4-1,,yukp1241-1,4,kohatka-ɾkp,kohatka-ɾkp,[],(litː 'twice two'),['chan2019'],,False,False,,1
+yukp1241-1-5-1,,yukp1241-1,5,kumaɾko oma,kumaɾko oma,[],(litː 'only one hand'),['chan2019'],,False,False,,1
+yukp1241-1-6-1,,yukp1241-1,6,koheɾatka rko,koheɾatka rko,[],(litː 'only three parts'),['chan2019'],,False,False,,1

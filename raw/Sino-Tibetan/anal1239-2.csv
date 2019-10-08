@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-anal1239-2-1-1,,anal1239-2,1,əkhè,əkhè,[],,[],,False,False,,2
-anal1239-2-2-1,,anal1239-2,2,əhnã̀,əhnã̀,[],,[],,False,False,,2
-anal1239-2-3-1,,anal1239-2,3,thùm,thùm,[],,[],,False,False,,2
-anal1239-2-3-2,,anal1239-2,3,əthùm,əthùm,[],,[],,False,False,,2
-anal1239-2-4-1,,anal1239-2,4,li,li,[],,[],,False,False,,2
-anal1239-2-4-2,,anal1239-2,4,pəli,pəli,[],,[],,False,False,,2
-anal1239-2-5-1,,anal1239-2,5,pəŋã́,pəŋã́,[],,[],,False,False,,2
-anal1239-2-6-1,,anal1239-2,6,tərù,tərù,[],,[],,False,False,,2
-anal1239-2-7-1,,anal1239-2,7,təkhɔ̀,təkhɔ̀,[],,[],,False,False,,2
-anal1239-2-8-1,,anal1239-2,8,tərí,tərí,[],,[],,False,False,,2
-anal1239-2-9-1,,anal1239-2,9,təkú,təkú,[],,[],,False,False,,2
-anal1239-2-10-1,,anal1239-2,10,sóm,sóm,[],,[],,False,False,,2
-anal1239-2-11-1,,anal1239-2,11,sóm əkhè,sóm əkhè,[],,[],,False,False,,2
-anal1239-2-12-1,,anal1239-2,12,sóm əhnã̀,sóm əhnã̀,[],,[],,False,False,,2
-anal1239-2-13-1,,anal1239-2,13,sóm thùm,sóm thùm,[],,[],,False,False,,2
-anal1239-2-14-1,,anal1239-2,14,sóm pəli,sóm pəli,[],,[],,False,False,,2
-anal1239-2-15-1,,anal1239-2,15,sóm pəŋã́,sóm pəŋã́,[],,[],,False,False,,2
-anal1239-2-16-1,,anal1239-2,16,sóm tərù,sóm tərù,[],,[],,False,False,,2
-anal1239-2-17-1,,anal1239-2,17,sóm təkhɔ̀,sóm təkhɔ̀,[],,[],,False,False,,2
-anal1239-2-18-1,,anal1239-2,18,sóm tərí,sóm tərí,[],,[],,False,False,,2
-anal1239-2-19-1,,anal1239-2,19,sómtəkú,sómtəkú,[],,[],,False,False,,2
-anal1239-2-20-1,,anal1239-2,20,sum hnã̀,sum hnã̀,[],,[],,False,False,,2
-anal1239-2-21-1,,anal1239-2,21,sùm hnã̀ əkhè,sùm hnã̀ əkhè,[],,[],,False,False,,2
-anal1239-2-22-1,,anal1239-2,22,sùm hnã̀ əhnã̀,sùm hnã̀ əhnã̀,[],,[],,False,False,,2
-anal1239-2-23-1,,anal1239-2,23,sùm hnã̀ thùm,sùm hnã̀ thùm,[],,[],,False,False,,2
-anal1239-2-24-1,,anal1239-2,24,sùm hnã̀ pəli,sùm hnã̀ pəli,[],,[],,False,False,,2
-anal1239-2-25-1,,anal1239-2,25,sùm hnã̀ pəŋã́,sùm hnã̀ pəŋã́,[],,[],,False,False,,2
-anal1239-2-26-1,,anal1239-2,26,sùm hnã̀ tərù,sùm hnã̀ tərù,[],,[],,False,False,,2
-anal1239-2-27-1,,anal1239-2,27,sùm hnã̀ təkhɔ̀,sùm hnã̀ təkhɔ̀,[],,[],,False,False,,2
-anal1239-2-28-1,,anal1239-2,28,sùm hnã̀ tərí,sùm hnã̀ tərí,[],,[],,False,False,,2
-anal1239-2-29-1,,anal1239-2,29,sùm hnã̀ təkú,sùm hnã̀ təkú,[],,[],,False,False,,2
-anal1239-2-30-1,,anal1239-2,30,sùm thùm,sùm thùm,[],,[],,False,False,,2
-anal1239-2-40-1,,anal1239-2,40,sùm pəli,sùm pəli,[],,[],,False,False,,2
-anal1239-2-50-1,,anal1239-2,50,sùm pəŋã́,sùm pəŋã́,[],,[],,False,False,,2
-anal1239-2-60-1,,anal1239-2,60,sùm tərù,sùm tərù,[],,[],,False,False,,2
-anal1239-2-70-1,,anal1239-2,70,sùm təkhɔ̀,sùm təkhɔ̀,[],,[],,False,False,,2
-anal1239-2-80-1,,anal1239-2,80,sùm tərí,sùm tərí,[],,[],,False,False,,2
-anal1239-2-90-1,,anal1239-2,90,sùm təkú,sùm təkú,[],,[],,False,False,,2
-anal1239-2-100-1,,anal1239-2,100,əzá klè,əzá klè,[],,[],,False,False,,2
+anal1239-2-1-1,,anal1239-2,1,əkhè,əkhè,[],,['chan2019'],,False,False,,2
+anal1239-2-2-1,,anal1239-2,2,əhnã̀,əhnã̀,[],,['chan2019'],,False,False,,2
+anal1239-2-3-1,,anal1239-2,3,thùm,thùm,[],,['chan2019'],,False,False,,2
+anal1239-2-3-2,,anal1239-2,3,əthùm,əthùm,[],,['chan2019'],,False,False,,2
+anal1239-2-4-1,,anal1239-2,4,li,li,[],,['chan2019'],,False,False,,2
+anal1239-2-4-2,,anal1239-2,4,pəli,pəli,[],,['chan2019'],,False,False,,2
+anal1239-2-5-1,,anal1239-2,5,pəŋã́,pəŋã́,[],,['chan2019'],,False,False,,2
+anal1239-2-6-1,,anal1239-2,6,tərù,tərù,[],,['chan2019'],,False,False,,2
+anal1239-2-7-1,,anal1239-2,7,təkhɔ̀,təkhɔ̀,[],,['chan2019'],,False,False,,2
+anal1239-2-8-1,,anal1239-2,8,tərí,tərí,[],,['chan2019'],,False,False,,2
+anal1239-2-9-1,,anal1239-2,9,təkú,təkú,[],,['chan2019'],,False,False,,2
+anal1239-2-10-1,,anal1239-2,10,sóm,sóm,[],,['chan2019'],,False,False,,2
+anal1239-2-11-1,,anal1239-2,11,sóm əkhè,sóm əkhè,[],,['chan2019'],,False,False,,2
+anal1239-2-12-1,,anal1239-2,12,sóm əhnã̀,sóm əhnã̀,[],,['chan2019'],,False,False,,2
+anal1239-2-13-1,,anal1239-2,13,sóm thùm,sóm thùm,[],,['chan2019'],,False,False,,2
+anal1239-2-14-1,,anal1239-2,14,sóm pəli,sóm pəli,[],,['chan2019'],,False,False,,2
+anal1239-2-15-1,,anal1239-2,15,sóm pəŋã́,sóm pəŋã́,[],,['chan2019'],,False,False,,2
+anal1239-2-16-1,,anal1239-2,16,sóm tərù,sóm tərù,[],,['chan2019'],,False,False,,2
+anal1239-2-17-1,,anal1239-2,17,sóm təkhɔ̀,sóm təkhɔ̀,[],,['chan2019'],,False,False,,2
+anal1239-2-18-1,,anal1239-2,18,sóm tərí,sóm tərí,[],,['chan2019'],,False,False,,2
+anal1239-2-19-1,,anal1239-2,19,sómtəkú,sómtəkú,[],,['chan2019'],,False,False,,2
+anal1239-2-20-1,,anal1239-2,20,sum hnã̀,sum hnã̀,[],,['chan2019'],,False,False,,2
+anal1239-2-21-1,,anal1239-2,21,sùm hnã̀ əkhè,sùm hnã̀ əkhè,[],,['chan2019'],,False,False,,2
+anal1239-2-22-1,,anal1239-2,22,sùm hnã̀ əhnã̀,sùm hnã̀ əhnã̀,[],,['chan2019'],,False,False,,2
+anal1239-2-23-1,,anal1239-2,23,sùm hnã̀ thùm,sùm hnã̀ thùm,[],,['chan2019'],,False,False,,2
+anal1239-2-24-1,,anal1239-2,24,sùm hnã̀ pəli,sùm hnã̀ pəli,[],,['chan2019'],,False,False,,2
+anal1239-2-25-1,,anal1239-2,25,sùm hnã̀ pəŋã́,sùm hnã̀ pəŋã́,[],,['chan2019'],,False,False,,2
+anal1239-2-26-1,,anal1239-2,26,sùm hnã̀ tərù,sùm hnã̀ tərù,[],,['chan2019'],,False,False,,2
+anal1239-2-27-1,,anal1239-2,27,sùm hnã̀ təkhɔ̀,sùm hnã̀ təkhɔ̀,[],,['chan2019'],,False,False,,2
+anal1239-2-28-1,,anal1239-2,28,sùm hnã̀ tərí,sùm hnã̀ tərí,[],,['chan2019'],,False,False,,2
+anal1239-2-29-1,,anal1239-2,29,sùm hnã̀ təkú,sùm hnã̀ təkú,[],,['chan2019'],,False,False,,2
+anal1239-2-30-1,,anal1239-2,30,sùm thùm,sùm thùm,[],,['chan2019'],,False,False,,2
+anal1239-2-40-1,,anal1239-2,40,sùm pəli,sùm pəli,[],,['chan2019'],,False,False,,2
+anal1239-2-50-1,,anal1239-2,50,sùm pəŋã́,sùm pəŋã́,[],,['chan2019'],,False,False,,2
+anal1239-2-60-1,,anal1239-2,60,sùm tərù,sùm tərù,[],,['chan2019'],,False,False,,2
+anal1239-2-70-1,,anal1239-2,70,sùm təkhɔ̀,sùm təkhɔ̀,[],,['chan2019'],,False,False,,2
+anal1239-2-80-1,,anal1239-2,80,sùm tərí,sùm tərí,[],,['chan2019'],,False,False,,2
+anal1239-2-90-1,,anal1239-2,90,sùm təkú,sùm təkú,[],,['chan2019'],,False,False,,2
+anal1239-2-100-1,,anal1239-2,100,əzá klè,əzá klè,[],,['chan2019'],,False,False,,2

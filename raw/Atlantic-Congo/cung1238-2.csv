@@ -1,33 +1,33 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cung1238-2-1-1,,cung1238-2,1,mu,mu,[],,[],,False,False,,2
-cung1238-2-2-1,,cung1238-2,2,fa,fa,[],,[],,False,False,,2
-cung1238-2-3-1,,cung1238-2,3,tale,tale,[],,[],,False,False,,2
-cung1238-2-4-1,,cung1238-2,4,ə́nà,ə́nà,[],,[],,False,False,,2
-cung1238-2-5-1,,cung1238-2,5,tè,tè,[],,[],,False,False,,2
-cung1238-2-6-1,,cung1238-2,6,so,so,[],,[],,False,False,,2
-cung1238-2-7-1,,cung1238-2,7,nânita,nânita,[],,[],,False,False,,2
-cung1238-2-8-1,,cung1238-2,8,ɲaŋ,ɲaŋ,[],,[],,False,False,,2
-cung1238-2-9-1,,cung1238-2,9,bùkə,bùkə,[],,[],,False,False,,2
-cung1238-2-10-1,,cung1238-2,10,dʒofi,dʒofi,[],,[],,False,False,,2
-cung1238-2-11-1,,cung1238-2,11,dʒofi ntsò mù,dʒofi ntsò mù,[],,[],,False,False,,2
-cung1238-2-12-1,,cung1238-2,12,dʒofi ntsò jifá,dʒofi ntsò jifá,[],,[],,False,False,,2
-cung1238-2-13-1,,cung1238-2,13,dʒofi ntsò jítale,dʒofi ntsò jítale,[],,[],,False,False,,2
-cung1238-2-14-1,,cung1238-2,14,dʒofi ntsò jínǎ,dʒofi ntsò jínǎ,[],,[],,False,False,,2
-cung1238-2-15-1,,cung1238-2,15,dʒofi ntsò jíte,dʒofi ntsò jíte,[],,[],,False,False,,2
-cung1238-2-16-1,,cung1238-2,16,dʒofi ntsò so,dʒofi ntsò so,[],,[],,False,False,,2
-cung1238-2-17-1,,cung1238-2,17,dʒofi ntsò nanita,dʒofi ntsò nanita,[],,[],,False,False,,2
-cung1238-2-18-1,,cung1238-2,18,dʒofi ntsò ɲaŋ,dʒofi ntsò ɲaŋ,[],,[],,False,False,,2
-cung1238-2-19-1,,cung1238-2,19,dʒofi ntsò bùkə,dʒofi ntsò bùkə,[],,[],,False,False,,2
-cung1238-2-20-1,,cung1238-2,20,mbaŋ fjâ,mbaŋ fjâ,[],,[],,False,False,,2
-cung1238-2-21-1,,cung1238-2,21,mbaŋ fjâ ntsò jimù,mbaŋ fjâ ntsò jimù,[],,[],,False,False,,2
-cung1238-2-22-1,,cung1238-2,22,mbaŋ fjâ ntsò jífá,mbaŋ fjâ ntsò jífá,[],,[],,False,False,,2
-cung1238-2-30-1,,cung1238-2,30,mbaŋ tja,mbaŋ tja,[],,[],,False,False,,2
-cung1238-2-40-1,,cung1238-2,40,mbaŋ ɲani,mbaŋ ɲani,[],,[],,False,False,,2
-cung1238-2-50-1,,cung1238-2,50,mbaŋ ʃi,mbaŋ ʃi,[],,[],,False,False,,2
-cung1238-2-60-1,,cung1238-2,60,mbaŋ bəso,mbaŋ bəso,[],,[],,False,False,,2
-cung1238-2-70-1,,cung1238-2,70,mbaŋ nânita,mbaŋ nânita,[],,[],,False,False,,2
-cung1238-2-80-1,,cung1238-2,80,mbaŋ ɲaŋ,mbaŋ ɲaŋ,[],,[],,False,False,,2
-cung1238-2-90-1,,cung1238-2,90,mbaŋ bùkə,mbaŋ bùkə,[],,[],,False,False,,2
-cung1238-2-100-1,,cung1238-2,100,ɡbí,ɡbí,[],,[],,False,False,,2
-cung1238-2-200-1,,cung1238-2,200,ɡí jífá,ɡí jífá,[],,[],,False,False,,2
-cung1238-2-1000-1,,cung1238-2,1000,ntʃùkù,ntʃùkù,[],,[],,False,False,,2
+cung1238-2-1-1,,cung1238-2,1,mu,mu,[],,['chan2019'],,False,False,,2
+cung1238-2-2-1,,cung1238-2,2,fa,fa,[],,['chan2019'],,False,False,,2
+cung1238-2-3-1,,cung1238-2,3,tale,tale,[],,['chan2019'],,False,False,,2
+cung1238-2-4-1,,cung1238-2,4,ə́nà,ə́nà,[],,['chan2019'],,False,False,,2
+cung1238-2-5-1,,cung1238-2,5,tè,tè,[],,['chan2019'],,False,False,,2
+cung1238-2-6-1,,cung1238-2,6,so,so,[],,['chan2019'],,False,False,,2
+cung1238-2-7-1,,cung1238-2,7,nânita,nânita,[],,['chan2019'],,False,False,,2
+cung1238-2-8-1,,cung1238-2,8,ɲaŋ,ɲaŋ,[],,['chan2019'],,False,False,,2
+cung1238-2-9-1,,cung1238-2,9,bùkə,bùkə,[],,['chan2019'],,False,False,,2
+cung1238-2-10-1,,cung1238-2,10,dʒofi,dʒofi,[],,['chan2019'],,False,False,,2
+cung1238-2-11-1,,cung1238-2,11,dʒofi ntsò mù,dʒofi ntsò mù,[],,['chan2019'],,False,False,,2
+cung1238-2-12-1,,cung1238-2,12,dʒofi ntsò jifá,dʒofi ntsò jifá,[],,['chan2019'],,False,False,,2
+cung1238-2-13-1,,cung1238-2,13,dʒofi ntsò jítale,dʒofi ntsò jítale,[],,['chan2019'],,False,False,,2
+cung1238-2-14-1,,cung1238-2,14,dʒofi ntsò jínǎ,dʒofi ntsò jínǎ,[],,['chan2019'],,False,False,,2
+cung1238-2-15-1,,cung1238-2,15,dʒofi ntsò jíte,dʒofi ntsò jíte,[],,['chan2019'],,False,False,,2
+cung1238-2-16-1,,cung1238-2,16,dʒofi ntsò so,dʒofi ntsò so,[],,['chan2019'],,False,False,,2
+cung1238-2-17-1,,cung1238-2,17,dʒofi ntsò nanita,dʒofi ntsò nanita,[],,['chan2019'],,False,False,,2
+cung1238-2-18-1,,cung1238-2,18,dʒofi ntsò ɲaŋ,dʒofi ntsò ɲaŋ,[],,['chan2019'],,False,False,,2
+cung1238-2-19-1,,cung1238-2,19,dʒofi ntsò bùkə,dʒofi ntsò bùkə,[],,['chan2019'],,False,False,,2
+cung1238-2-20-1,,cung1238-2,20,mbaŋ fjâ,mbaŋ fjâ,[],,['chan2019'],,False,False,,2
+cung1238-2-21-1,,cung1238-2,21,mbaŋ fjâ ntsò jimù,mbaŋ fjâ ntsò jimù,[],,['chan2019'],,False,False,,2
+cung1238-2-22-1,,cung1238-2,22,mbaŋ fjâ ntsò jífá,mbaŋ fjâ ntsò jífá,[],,['chan2019'],,False,False,,2
+cung1238-2-30-1,,cung1238-2,30,mbaŋ tja,mbaŋ tja,[],,['chan2019'],,False,False,,2
+cung1238-2-40-1,,cung1238-2,40,mbaŋ ɲani,mbaŋ ɲani,[],,['chan2019'],,False,False,,2
+cung1238-2-50-1,,cung1238-2,50,mbaŋ ʃi,mbaŋ ʃi,[],,['chan2019'],,False,False,,2
+cung1238-2-60-1,,cung1238-2,60,mbaŋ bəso,mbaŋ bəso,[],,['chan2019'],,False,False,,2
+cung1238-2-70-1,,cung1238-2,70,mbaŋ nânita,mbaŋ nânita,[],,['chan2019'],,False,False,,2
+cung1238-2-80-1,,cung1238-2,80,mbaŋ ɲaŋ,mbaŋ ɲaŋ,[],,['chan2019'],,False,False,,2
+cung1238-2-90-1,,cung1238-2,90,mbaŋ bùkə,mbaŋ bùkə,[],,['chan2019'],,False,False,,2
+cung1238-2-100-1,,cung1238-2,100,ɡbí,ɡbí,[],,['chan2019'],,False,False,,2
+cung1238-2-200-1,,cung1238-2,200,ɡí jífá,ɡí jífá,[],,['chan2019'],,False,False,,2
+cung1238-2-1000-1,,cung1238-2,1000,ntʃùkù,ntʃùkù,[],,['chan2019'],,False,False,,2

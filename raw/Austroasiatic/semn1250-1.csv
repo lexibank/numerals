@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-semn1250-1-1-1,,semn1250-1,1,niːy,niːy,[],,[],,False,False,,1
-semn1250-1-2-1,,semn1250-1,2,naːy,naːy,[],,[],,False,False,,1
-semn1250-1-3-1,,semn1250-1,3,tigaʔ,tigaʔ,[],( < Malay),[],,True,False,,1
-semn1250-1-4-1,,semn1250-1,4,ʔmpăt,ʔmpăt,[],,[],,False,False,,1
-semn1250-1-5-1,,semn1250-1,5,limaːʔ,limaːʔ,[],,[],,False,False,,1
-semn1250-1-6-1,,semn1250-1,6,ʔnaːm,ʔnaːm,[],,[],,False,False,,1
-semn1250-1-7-1,,semn1250-1,7,tuɟŭh,tuɟŭh,[],,[],,False,False,,1
-semn1250-1-8-1,,semn1250-1,8,lapaːn,lapaːn,[],,[],,False,False,,1
-semn1250-1-9-1,,semn1250-1,9,smilaːn,smilaːn,[],,[],,False,False,,1
-semn1250-1-10-1,,semn1250-1,10,spuloːh,spuloːh,[],,[],,False,False,,1
-semn1250-1-11-1,,semn1250-1,11,sblaːs,sblaːs,[],,[],,False,False,,1
-semn1250-1-12-1,,semn1250-1,12,dwə̆h blaːs,dwə̆h blaːs,[],,[],,False,False,,1
-semn1250-1-13-1,,semn1250-1,13,tigaʔ blaːs,tigaʔ blaːs,[],,[],,False,False,,1
-semn1250-1-14-1,,semn1250-1,14,ʔmpăt blaːs,ʔmpăt blaːs,[],,[],,False,False,,1
-semn1250-1-15-1,,semn1250-1,15,limaːʔ blaːs,limaːʔ blaːs,[],,[],,False,False,,1
-semn1250-1-16-1,,semn1250-1,16,ʔnaːm blaːs,ʔnaːm blaːs,[],,[],,False,False,,1
-semn1250-1-17-1,,semn1250-1,17,tuɟŭh blaːs,tuɟŭh blaːs,[],,[],,False,False,,1
-semn1250-1-18-1,,semn1250-1,18,lapaːn blaːs,lapaːn blaːs,[],,[],,False,False,,1
-semn1250-1-19-1,,semn1250-1,19,smilaːn blaːs,smilaːn blaːs,[],,[],,False,False,,1
-semn1250-1-20-1,,semn1250-1,20,dwə̆h puloːh,dwə̆h puloːh,[],,[],,False,False,,1
-semn1250-1-21-1,,semn1250-1,21,dwə̆h puloːh satuːh,dwə̆h puloːh satuːh,[],,[],,False,False,,1
-semn1250-1-22-1,,semn1250-1,22,dwə̆h puloːh dwə̆h,dwə̆h puloːh dwə̆h,[],,[],,False,False,,1
-semn1250-1-23-1,,semn1250-1,23,dwə̆h puloːh tigaʔ,dwə̆h puloːh tigaʔ,[],,[],,False,False,,1
-semn1250-1-24-1,,semn1250-1,24,dwə̆h puloːh ʔmpăt,dwə̆h puloːh ʔmpăt,[],,[],,False,False,,1
-semn1250-1-25-1,,semn1250-1,25,dwə̆h puloːh limaːʔ,dwə̆h puloːh limaːʔ,[],,[],,False,False,,1
-semn1250-1-26-1,,semn1250-1,26,dwə̆h puloːh ʔnaːm,dwə̆h puloːh ʔnaːm,[],,[],,False,False,,1
-semn1250-1-27-1,,semn1250-1,27,dwə̆h puloːh tuɟŭh,dwə̆h puloːh tuɟŭh,[],,[],,False,False,,1
-semn1250-1-28-1,,semn1250-1,28,dwə̆h puloːh lapaːn,dwə̆h puloːh lapaːn,[],,[],,False,False,,1
-semn1250-1-29-1,,semn1250-1,29,dwə̆h puloːh smilaːn,dwə̆h puloːh smilaːn,[],,[],,False,False,,1
-semn1250-1-30-1,,semn1250-1,30,tigaʔ puloːh,tigaʔ puloːh,[],,[],,False,False,,1
-semn1250-1-40-1,,semn1250-1,40,ʔmpăt puloːh,ʔmpăt puloːh,[],,[],,False,False,,1
-semn1250-1-50-1,,semn1250-1,50,limaːʔ puloːh,limaːʔ puloːh,[],,[],,False,False,,1
-semn1250-1-60-1,,semn1250-1,60,ʔnaːm puloːh,ʔnaːm puloːh,[],,[],,False,False,,1
-semn1250-1-70-1,,semn1250-1,70,tuɟŭh puloːh,tuɟŭh puloːh,[],,[],,False,False,,1
-semn1250-1-80-1,,semn1250-1,80,lapaːn puloːh,lapaːn puloːh,[],,[],,False,False,,1
-semn1250-1-90-1,,semn1250-1,90,smilaːn puloːh,smilaːn puloːh,[],,[],,False,False,,1
-semn1250-1-100-1,,semn1250-1,100,sʁatuːs,sʁatuːs,[],,[],,False,False,,1
-semn1250-1-200-1,,semn1250-1,200,dwĕh sʁatuːs,dwĕh sʁatuːs,[],,[],,False,False,,1
-semn1250-1-1000-1,,semn1250-1,1000,sʁibuːh,sʁibuːh,[],,[],,False,False,,1
-semn1250-1-1000-2,,semn1250-1,1000,niːy yibuːh,niːy yibuːh,[],,[],,False,False,,1
-semn1250-1-2000-1,,semn1250-1,2000,dwə̆h ʁibuːh,dwə̆h ʁibuːh,[],,[],,False,False,,1
+semn1250-1-1-1,,semn1250-1,1,niːy,niːy,[],,['chan2019'],,False,False,,1
+semn1250-1-2-1,,semn1250-1,2,naːy,naːy,[],,['chan2019'],,False,False,,1
+semn1250-1-3-1,,semn1250-1,3,tigaʔ,tigaʔ,[],( < Malay),['chan2019'],,True,False,,1
+semn1250-1-4-1,,semn1250-1,4,ʔmpăt,ʔmpăt,[],,['chan2019'],,False,False,,1
+semn1250-1-5-1,,semn1250-1,5,limaːʔ,limaːʔ,[],,['chan2019'],,False,False,,1
+semn1250-1-6-1,,semn1250-1,6,ʔnaːm,ʔnaːm,[],,['chan2019'],,False,False,,1
+semn1250-1-7-1,,semn1250-1,7,tuɟŭh,tuɟŭh,[],,['chan2019'],,False,False,,1
+semn1250-1-8-1,,semn1250-1,8,lapaːn,lapaːn,[],,['chan2019'],,False,False,,1
+semn1250-1-9-1,,semn1250-1,9,smilaːn,smilaːn,[],,['chan2019'],,False,False,,1
+semn1250-1-10-1,,semn1250-1,10,spuloːh,spuloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-11-1,,semn1250-1,11,sblaːs,sblaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-12-1,,semn1250-1,12,dwə̆h blaːs,dwə̆h blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-13-1,,semn1250-1,13,tigaʔ blaːs,tigaʔ blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-14-1,,semn1250-1,14,ʔmpăt blaːs,ʔmpăt blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-15-1,,semn1250-1,15,limaːʔ blaːs,limaːʔ blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-16-1,,semn1250-1,16,ʔnaːm blaːs,ʔnaːm blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-17-1,,semn1250-1,17,tuɟŭh blaːs,tuɟŭh blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-18-1,,semn1250-1,18,lapaːn blaːs,lapaːn blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-19-1,,semn1250-1,19,smilaːn blaːs,smilaːn blaːs,[],,['chan2019'],,False,False,,1
+semn1250-1-20-1,,semn1250-1,20,dwə̆h puloːh,dwə̆h puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-21-1,,semn1250-1,21,dwə̆h puloːh satuːh,dwə̆h puloːh satuːh,[],,['chan2019'],,False,False,,1
+semn1250-1-22-1,,semn1250-1,22,dwə̆h puloːh dwə̆h,dwə̆h puloːh dwə̆h,[],,['chan2019'],,False,False,,1
+semn1250-1-23-1,,semn1250-1,23,dwə̆h puloːh tigaʔ,dwə̆h puloːh tigaʔ,[],,['chan2019'],,False,False,,1
+semn1250-1-24-1,,semn1250-1,24,dwə̆h puloːh ʔmpăt,dwə̆h puloːh ʔmpăt,[],,['chan2019'],,False,False,,1
+semn1250-1-25-1,,semn1250-1,25,dwə̆h puloːh limaːʔ,dwə̆h puloːh limaːʔ,[],,['chan2019'],,False,False,,1
+semn1250-1-26-1,,semn1250-1,26,dwə̆h puloːh ʔnaːm,dwə̆h puloːh ʔnaːm,[],,['chan2019'],,False,False,,1
+semn1250-1-27-1,,semn1250-1,27,dwə̆h puloːh tuɟŭh,dwə̆h puloːh tuɟŭh,[],,['chan2019'],,False,False,,1
+semn1250-1-28-1,,semn1250-1,28,dwə̆h puloːh lapaːn,dwə̆h puloːh lapaːn,[],,['chan2019'],,False,False,,1
+semn1250-1-29-1,,semn1250-1,29,dwə̆h puloːh smilaːn,dwə̆h puloːh smilaːn,[],,['chan2019'],,False,False,,1
+semn1250-1-30-1,,semn1250-1,30,tigaʔ puloːh,tigaʔ puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-40-1,,semn1250-1,40,ʔmpăt puloːh,ʔmpăt puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-50-1,,semn1250-1,50,limaːʔ puloːh,limaːʔ puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-60-1,,semn1250-1,60,ʔnaːm puloːh,ʔnaːm puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-70-1,,semn1250-1,70,tuɟŭh puloːh,tuɟŭh puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-80-1,,semn1250-1,80,lapaːn puloːh,lapaːn puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-90-1,,semn1250-1,90,smilaːn puloːh,smilaːn puloːh,[],,['chan2019'],,False,False,,1
+semn1250-1-100-1,,semn1250-1,100,sʁatuːs,sʁatuːs,[],,['chan2019'],,False,False,,1
+semn1250-1-200-1,,semn1250-1,200,dwĕh sʁatuːs,dwĕh sʁatuːs,[],,['chan2019'],,False,False,,1
+semn1250-1-1000-1,,semn1250-1,1000,sʁibuːh,sʁibuːh,[],,['chan2019'],,False,False,,1
+semn1250-1-1000-2,,semn1250-1,1000,niːy yibuːh,niːy yibuːh,[],,['chan2019'],,False,False,,1
+semn1250-1-2000-1,,semn1250-1,2000,dwə̆h ʁibuːh,dwə̆h ʁibuːh,[],,['chan2019'],,False,False,,1

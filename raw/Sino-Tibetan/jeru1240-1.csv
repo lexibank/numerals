@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-jeru1240-1-1-1,,jeru1240-1,1,kɔʔloa,kɔʔloa,[],,[],,False,False,,1
-jeru1240-1-1-2,,jeru1240-1,1,kɔʔla,kɔʔla,[],,[],,False,False,,1
-jeru1240-1-1-3,,jeru1240-1,1,kwalm,kwalm,[],,[],,False,False,,1
+jeru1240-1-1-1,,jeru1240-1,1,kɔʔloa,kɔʔloa,[],,['chan2019'],,False,False,,1
+jeru1240-1-1-2,,jeru1240-1,1,kɔʔla,kɔʔla,[],,['chan2019'],,False,False,,1
+jeru1240-1-1-3,,jeru1240-1,1,kwalm,kwalm,[],,['chan2019'],,False,False,,1

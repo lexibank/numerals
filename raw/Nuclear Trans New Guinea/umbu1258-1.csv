@@ -1,37 +1,37 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-umbu1258-1-1-1,,umbu1258-1,1,tele,tele,[],,[],,False,False,,1
-umbu1258-1-2-1,,umbu1258-1,2,talo,talo,[],,[],,False,False,,1
-umbu1258-1-3-1,,umbu1258-1,3,yepoko,yepoko,[],,[],,False,False,,1
-umbu1258-1-4-1,,umbu1258-1,4,kise,kise,[],,[],,False,False,,1
-umbu1258-1-5-1,,umbu1258-1,5,kise pakera,kise pakera,[],,[],,False,False,,1
-umbu1258-1-5-2,,umbu1258-1,5,te pakera,te pakera,[],,[],,False,False,,1
-umbu1258-1-6-1,,umbu1258-1,6,talo pakera,talo pakera,[],,[],,False,False,,1
-umbu1258-1-7-1,,umbu1258-1,7,yepoko pakera,yepoko pakera,[],,[],,False,False,,1
-umbu1258-1-8-1,,umbu1258-1,8,engaki,engaki,[],,[],,False,False,,1
-umbu1258-1-9-1,,umbu1258-1,9,rureponga telu,rureponga telu,[],,[],,False,False,,1
-umbu1258-1-10-1,,umbu1258-1,10,rureponga talo,rureponga talo,[],,[],,False,False,,1
-umbu1258-1-11-1,,umbu1258-1,11,rureponga yepoko,rureponga yepoko,[],,[],,False,False,,1
-umbu1258-1-12-1,,umbu1258-1,12,rurepo,rurepo,[],,[],,False,False,,1
-umbu1258-1-13-1,,umbu1258-1,13,malapunge telu,malapunge telu,[],,[],,False,False,,1
-umbu1258-1-14-1,,umbu1258-1,14,malapunge talo,malapunge talo,[],,[],,False,False,,1
-umbu1258-1-15-1,,umbu1258-1,15,malapunge yepoko,malapunge yepoko,[],,[],,False,False,,1
-umbu1258-1-16-1,,umbu1258-1,16,malapu,malapu,[],,[],,False,False,,1
-umbu1258-1-17-1,,umbu1258-1,17,supunge telu,supunge telu,[],,[],,False,False,,1
-umbu1258-1-18-1,,umbu1258-1,18,supunge talo,supunge talo,[],,[],,False,False,,1
-umbu1258-1-19-1,,umbu1258-1,19,supunge yepoko,supunge yepoko,[],,[],,False,False,,1
-umbu1258-1-20-1,,umbu1258-1,20,tokapu,tokapu,[],,[],,False,False,,1
-umbu1258-1-21-1,,umbu1258-1,21,tokapunge telu,tokapunge telu,[],,[],,False,False,,1
-umbu1258-1-22-1,,umbu1258-1,22,tokapunge talo,tokapunge talo,[],,[],,False,False,,1
-umbu1258-1-23-1,,umbu1258-1,23,tokapunge yepoko,tokapunge yepoko,[],,[],,False,False,,1
-umbu1258-1-24-1,,umbu1258-1,24,tokapu,tokapu,[],,[],,False,False,,1
-umbu1258-1-25-1,,umbu1258-1,25,alapunge telu,alapunge telu,[],,[],,False,False,,1
-umbu1258-1-26-1,,umbu1258-1,26,alapunge talo,alapunge talo,[],,[],,False,False,,1
-umbu1258-1-27-1,,umbu1258-1,27,alapunge yepoko,alapunge yepoko,[],,[],,False,False,,1
-umbu1258-1-28-1,,umbu1258-1,28,alapu,alapu,[],,[],,False,False,,1
-umbu1258-1-29-1,,umbu1258-1,29,palangipu telu,palangipu telu,[],,[],,False,False,,1
-umbu1258-1-30-1,,umbu1258-1,30,palangipu talo,palangipu talo,[],,[],,False,False,,1
-umbu1258-1-31-1,,umbu1258-1,31,palangipu yepoko,palangipu yepoko,[],,[],,False,False,,1
-umbu1258-1-32-1,,umbu1258-1,32,palangipu,palangipu,[],,[],,False,False,,1
-umbu1258-1-48-1,,umbu1258-1,48,tokapu talo,tokapu talo,[],( 24 x 2 ),[],,False,False,,1
-umbu1258-1-72-1,,umbu1258-1,72,tokapu yepoko,tokapu yepoko,[],( 24 x 3 ),[],,False,False,,1
-umbu1258-1-96-1,,umbu1258-1,96,tokapu kise,tokapu kise,[],( 24 x 4 ),[],,False,False,,1
+umbu1258-1-1-1,,umbu1258-1,1,tele,tele,[],,['chan2019'],,False,False,,1
+umbu1258-1-2-1,,umbu1258-1,2,talo,talo,[],,['chan2019'],,False,False,,1
+umbu1258-1-3-1,,umbu1258-1,3,yepoko,yepoko,[],,['chan2019'],,False,False,,1
+umbu1258-1-4-1,,umbu1258-1,4,kise,kise,[],,['chan2019'],,False,False,,1
+umbu1258-1-5-1,,umbu1258-1,5,kise pakera,kise pakera,[],,['chan2019'],,False,False,,1
+umbu1258-1-5-2,,umbu1258-1,5,te pakera,te pakera,[],,['chan2019'],,False,False,,1
+umbu1258-1-6-1,,umbu1258-1,6,talo pakera,talo pakera,[],,['chan2019'],,False,False,,1
+umbu1258-1-7-1,,umbu1258-1,7,yepoko pakera,yepoko pakera,[],,['chan2019'],,False,False,,1
+umbu1258-1-8-1,,umbu1258-1,8,engaki,engaki,[],,['chan2019'],,False,False,,1
+umbu1258-1-9-1,,umbu1258-1,9,rureponga telu,rureponga telu,[],,['chan2019'],,False,False,,1
+umbu1258-1-10-1,,umbu1258-1,10,rureponga talo,rureponga talo,[],,['chan2019'],,False,False,,1
+umbu1258-1-11-1,,umbu1258-1,11,rureponga yepoko,rureponga yepoko,[],,['chan2019'],,False,False,,1
+umbu1258-1-12-1,,umbu1258-1,12,rurepo,rurepo,[],,['chan2019'],,False,False,,1
+umbu1258-1-13-1,,umbu1258-1,13,malapunge telu,malapunge telu,[],,['chan2019'],,False,False,,1
+umbu1258-1-14-1,,umbu1258-1,14,malapunge talo,malapunge talo,[],,['chan2019'],,False,False,,1
+umbu1258-1-15-1,,umbu1258-1,15,malapunge yepoko,malapunge yepoko,[],,['chan2019'],,False,False,,1
+umbu1258-1-16-1,,umbu1258-1,16,malapu,malapu,[],,['chan2019'],,False,False,,1
+umbu1258-1-17-1,,umbu1258-1,17,supunge telu,supunge telu,[],,['chan2019'],,False,False,,1
+umbu1258-1-18-1,,umbu1258-1,18,supunge talo,supunge talo,[],,['chan2019'],,False,False,,1
+umbu1258-1-19-1,,umbu1258-1,19,supunge yepoko,supunge yepoko,[],,['chan2019'],,False,False,,1
+umbu1258-1-20-1,,umbu1258-1,20,tokapu,tokapu,[],,['chan2019'],,False,False,,1
+umbu1258-1-21-1,,umbu1258-1,21,tokapunge telu,tokapunge telu,[],,['chan2019'],,False,False,,1
+umbu1258-1-22-1,,umbu1258-1,22,tokapunge talo,tokapunge talo,[],,['chan2019'],,False,False,,1
+umbu1258-1-23-1,,umbu1258-1,23,tokapunge yepoko,tokapunge yepoko,[],,['chan2019'],,False,False,,1
+umbu1258-1-24-1,,umbu1258-1,24,tokapu,tokapu,[],,['chan2019'],,False,False,,1
+umbu1258-1-25-1,,umbu1258-1,25,alapunge telu,alapunge telu,[],,['chan2019'],,False,False,,1
+umbu1258-1-26-1,,umbu1258-1,26,alapunge talo,alapunge talo,[],,['chan2019'],,False,False,,1
+umbu1258-1-27-1,,umbu1258-1,27,alapunge yepoko,alapunge yepoko,[],,['chan2019'],,False,False,,1
+umbu1258-1-28-1,,umbu1258-1,28,alapu,alapu,[],,['chan2019'],,False,False,,1
+umbu1258-1-29-1,,umbu1258-1,29,palangipu telu,palangipu telu,[],,['chan2019'],,False,False,,1
+umbu1258-1-30-1,,umbu1258-1,30,palangipu talo,palangipu talo,[],,['chan2019'],,False,False,,1
+umbu1258-1-31-1,,umbu1258-1,31,palangipu yepoko,palangipu yepoko,[],,['chan2019'],,False,False,,1
+umbu1258-1-32-1,,umbu1258-1,32,palangipu,palangipu,[],,['chan2019'],,False,False,,1
+umbu1258-1-48-1,,umbu1258-1,48,tokapu talo,tokapu talo,[],( 24 x 2 ),['chan2019'],,False,False,,1
+umbu1258-1-72-1,,umbu1258-1,72,tokapu yepoko,tokapu yepoko,[],( 24 x 3 ),['chan2019'],,False,False,,1
+umbu1258-1-96-1,,umbu1258-1,96,tokapu kise,tokapu kise,[],( 24 x 4 ),['chan2019'],,False,False,,1

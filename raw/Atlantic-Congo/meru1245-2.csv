@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-meru1245-2-1-1,,meru1245-2,1,îmwe,îmwe,[],,[],,False,False,,2
-meru1245-2-2-1,,meru1245-2,2,ijîrî,ijîrî,[],,[],,False,False,,2
-meru1245-2-3-1,,meru1245-2,3,ithatû,ithatû,[],,[],,False,False,,2
-meru1245-2-4-1,,meru1245-2,4,inya,inya,[],,[],,False,False,,2
-meru1245-2-5-1,,meru1245-2,5,ithaano,ithaano,[],,[],,False,False,,2
-meru1245-2-6-1,,meru1245-2,6,ithathatû,ithathatû,[],( 2 x  3 ) ?,[],,False,False,,2
-meru1245-2-7-1,,meru1245-2,7,mûɡwanja,mûɡwanja,[],,[],,False,False,,2
-meru1245-2-8-1,,meru1245-2,8,inyaanya,inyaanya,[],(2  x 4 ) ?,[],,False,False,,2
-meru1245-2-9-1,,meru1245-2,9,kenda,kenda,[],,[],,False,False,,2
-meru1245-2-10-1,,meru1245-2,10,îkûmi,îkûmi,[],,[],,False,False,,2
-meru1245-2-11-1,,meru1245-2,11,îkûmi na ĩmwe,îkûmi na ĩmwe,[],,[],,False,False,,2
-meru1245-2-12-1,,meru1245-2,12,îkûmi na ijîrî,îkûmi na ijîrî,[],,[],,False,False,,2
-meru1245-2-13-1,,meru1245-2,13,îkûmi na ithatû,îkûmi na ithatû,[],,[],,False,False,,2
-meru1245-2-14-1,,meru1245-2,14,îkûmi na inya,îkûmi na inya,[],,[],,False,False,,2
-meru1245-2-15-1,,meru1245-2,15,îkûmi na ithaano,îkûmi na ithaano,[],,[],,False,False,,2
-meru1245-2-16-1,,meru1245-2,16,îkûmi na ithathatû,îkûmi na ithathatû,[],,[],,False,False,,2
-meru1245-2-17-1,,meru1245-2,17,îkûmi na mûɡwanja,îkûmi na mûɡwanja,[],,[],,False,False,,2
-meru1245-2-18-1,,meru1245-2,18,îkûmi na inyaanya,îkûmi na inyaanya,[],,[],,False,False,,2
-meru1245-2-19-1,,meru1245-2,19,îkûmi na kenda,îkûmi na kenda,[],,[],,False,False,,2
-meru1245-2-20-1,,meru1245-2,20,mîronɡo îîrî,mîronɡo îîrî,[],,[],,False,False,,2
-meru1245-2-21-1,,meru1245-2,21,mîronɡo îîrî na îmwe,mîronɡo îîrî na îmwe,[],,[],,False,False,,2
-meru1245-2-22-1,,meru1245-2,22,mîronɡo îîrî na ijîrî,mîronɡo îîrî na ijîrî,[],,[],,False,False,,2
-meru1245-2-23-1,,meru1245-2,23,mîronɡo îîrî na ithatû,mîronɡo îîrî na ithatû,[],,[],,False,False,,2
-meru1245-2-24-1,,meru1245-2,24,mîronɡo îîrî na inya,mîronɡo îîrî na inya,[],,[],,False,False,,2
-meru1245-2-25-1,,meru1245-2,25,mîronɡo îîrî na ithaano,mîronɡo îîrî na ithaano,[],,[],,False,False,,2
-meru1245-2-26-1,,meru1245-2,26,mîronɡo îîrî na ithathatû,mîronɡo îîrî na ithathatû,[],,[],,False,False,,2
-meru1245-2-27-1,,meru1245-2,27,mîronɡo îîrî na mûɡwanja,mîronɡo îîrî na mûɡwanja,[],,[],,False,False,,2
-meru1245-2-28-1,,meru1245-2,28,mîronɡo îîrî na inyaanya,mîronɡo îîrî na inyaanya,[],,[],,False,False,,2
-meru1245-2-29-1,,meru1245-2,29,mîronɡo îîrî na kenda,mîronɡo îîrî na kenda,[],,[],,False,False,,2
-meru1245-2-30-1,,meru1245-2,30,mîronɡo îthatû,mîronɡo îthatû,[],,[],,False,False,,2
-meru1245-2-40-1,,meru1245-2,40,mîronɡo îna,mîronɡo îna,[],,[],,False,False,,2
-meru1245-2-50-1,,meru1245-2,50,mîronɡo îthano,mîronɡo îthano,[],,[],,False,False,,2
-meru1245-2-60-1,,meru1245-2,60,mîronɡo îthathatû,mîronɡo îthathatû,[],,[],,False,False,,2
-meru1245-2-70-1,,meru1245-2,70,mîronɡo mûɡwanja,mîronɡo mûɡwanja,[],,[],,False,False,,2
-meru1245-2-80-1,,meru1245-2,80,mîronɡo înaana,mîronɡo înaana,[],,[],,False,False,,2
-meru1245-2-90-1,,meru1245-2,90,mîronɡo kenda,mîronɡo kenda,[],,[],,False,False,,2
-meru1245-2-100-1,,meru1245-2,100,îɡana,îɡana,[],,[],,False,False,,2
-meru1245-2-200-1,,meru1245-2,200,maɡana jaîrî,maɡana jaîrî,[],,[],,False,False,,2
-meru1245-2-1000-1,,meru1245-2,1000,nɡiri,nɡiri,[],,[],,False,False,,2
-meru1245-2-2000-1,,meru1245-2,2000,nɡiri ijîrî,nɡiri ijîrî,[],,[],,False,False,,2
+meru1245-2-1-1,,meru1245-2,1,îmwe,îmwe,[],,['chan2019'],,False,False,,2
+meru1245-2-2-1,,meru1245-2,2,ijîrî,ijîrî,[],,['chan2019'],,False,False,,2
+meru1245-2-3-1,,meru1245-2,3,ithatû,ithatû,[],,['chan2019'],,False,False,,2
+meru1245-2-4-1,,meru1245-2,4,inya,inya,[],,['chan2019'],,False,False,,2
+meru1245-2-5-1,,meru1245-2,5,ithaano,ithaano,[],,['chan2019'],,False,False,,2
+meru1245-2-6-1,,meru1245-2,6,ithathatû,ithathatû,[],( 2 x  3 ) ?,['chan2019'],,False,False,,2
+meru1245-2-7-1,,meru1245-2,7,mûɡwanja,mûɡwanja,[],,['chan2019'],,False,False,,2
+meru1245-2-8-1,,meru1245-2,8,inyaanya,inyaanya,[],(2  x 4 ) ?,['chan2019'],,False,False,,2
+meru1245-2-9-1,,meru1245-2,9,kenda,kenda,[],,['chan2019'],,False,False,,2
+meru1245-2-10-1,,meru1245-2,10,îkûmi,îkûmi,[],,['chan2019'],,False,False,,2
+meru1245-2-11-1,,meru1245-2,11,îkûmi na ĩmwe,îkûmi na ĩmwe,[],,['chan2019'],,False,False,,2
+meru1245-2-12-1,,meru1245-2,12,îkûmi na ijîrî,îkûmi na ijîrî,[],,['chan2019'],,False,False,,2
+meru1245-2-13-1,,meru1245-2,13,îkûmi na ithatû,îkûmi na ithatû,[],,['chan2019'],,False,False,,2
+meru1245-2-14-1,,meru1245-2,14,îkûmi na inya,îkûmi na inya,[],,['chan2019'],,False,False,,2
+meru1245-2-15-1,,meru1245-2,15,îkûmi na ithaano,îkûmi na ithaano,[],,['chan2019'],,False,False,,2
+meru1245-2-16-1,,meru1245-2,16,îkûmi na ithathatû,îkûmi na ithathatû,[],,['chan2019'],,False,False,,2
+meru1245-2-17-1,,meru1245-2,17,îkûmi na mûɡwanja,îkûmi na mûɡwanja,[],,['chan2019'],,False,False,,2
+meru1245-2-18-1,,meru1245-2,18,îkûmi na inyaanya,îkûmi na inyaanya,[],,['chan2019'],,False,False,,2
+meru1245-2-19-1,,meru1245-2,19,îkûmi na kenda,îkûmi na kenda,[],,['chan2019'],,False,False,,2
+meru1245-2-20-1,,meru1245-2,20,mîronɡo îîrî,mîronɡo îîrî,[],,['chan2019'],,False,False,,2
+meru1245-2-21-1,,meru1245-2,21,mîronɡo îîrî na îmwe,mîronɡo îîrî na îmwe,[],,['chan2019'],,False,False,,2
+meru1245-2-22-1,,meru1245-2,22,mîronɡo îîrî na ijîrî,mîronɡo îîrî na ijîrî,[],,['chan2019'],,False,False,,2
+meru1245-2-23-1,,meru1245-2,23,mîronɡo îîrî na ithatû,mîronɡo îîrî na ithatû,[],,['chan2019'],,False,False,,2
+meru1245-2-24-1,,meru1245-2,24,mîronɡo îîrî na inya,mîronɡo îîrî na inya,[],,['chan2019'],,False,False,,2
+meru1245-2-25-1,,meru1245-2,25,mîronɡo îîrî na ithaano,mîronɡo îîrî na ithaano,[],,['chan2019'],,False,False,,2
+meru1245-2-26-1,,meru1245-2,26,mîronɡo îîrî na ithathatû,mîronɡo îîrî na ithathatû,[],,['chan2019'],,False,False,,2
+meru1245-2-27-1,,meru1245-2,27,mîronɡo îîrî na mûɡwanja,mîronɡo îîrî na mûɡwanja,[],,['chan2019'],,False,False,,2
+meru1245-2-28-1,,meru1245-2,28,mîronɡo îîrî na inyaanya,mîronɡo îîrî na inyaanya,[],,['chan2019'],,False,False,,2
+meru1245-2-29-1,,meru1245-2,29,mîronɡo îîrî na kenda,mîronɡo îîrî na kenda,[],,['chan2019'],,False,False,,2
+meru1245-2-30-1,,meru1245-2,30,mîronɡo îthatû,mîronɡo îthatû,[],,['chan2019'],,False,False,,2
+meru1245-2-40-1,,meru1245-2,40,mîronɡo îna,mîronɡo îna,[],,['chan2019'],,False,False,,2
+meru1245-2-50-1,,meru1245-2,50,mîronɡo îthano,mîronɡo îthano,[],,['chan2019'],,False,False,,2
+meru1245-2-60-1,,meru1245-2,60,mîronɡo îthathatû,mîronɡo îthathatû,[],,['chan2019'],,False,False,,2
+meru1245-2-70-1,,meru1245-2,70,mîronɡo mûɡwanja,mîronɡo mûɡwanja,[],,['chan2019'],,False,False,,2
+meru1245-2-80-1,,meru1245-2,80,mîronɡo înaana,mîronɡo înaana,[],,['chan2019'],,False,False,,2
+meru1245-2-90-1,,meru1245-2,90,mîronɡo kenda,mîronɡo kenda,[],,['chan2019'],,False,False,,2
+meru1245-2-100-1,,meru1245-2,100,îɡana,îɡana,[],,['chan2019'],,False,False,,2
+meru1245-2-200-1,,meru1245-2,200,maɡana jaîrî,maɡana jaîrî,[],,['chan2019'],,False,False,,2
+meru1245-2-1000-1,,meru1245-2,1000,nɡiri,nɡiri,[],,['chan2019'],,False,False,,2
+meru1245-2-2000-1,,meru1245-2,2000,nɡiri ijîrî,nɡiri ijîrî,[],,['chan2019'],,False,False,,2

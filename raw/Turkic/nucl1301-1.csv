@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1301-1-1-1,,nucl1301-1,1,bir,bir,[],,[],,False,False,bir,1
-nucl1301-1-2-1,,nucl1301-1,2,iki,iki,[],,[],,False,False,iki,1
-nucl1301-1-3-1,,nucl1301-1,3,ytʃ,ytʃ,[],,[],,False,False,üç,1
-nucl1301-1-4-1,,nucl1301-1,4,dœrt,dœrt,[],,[],,False,False,dört,1
-nucl1301-1-5-1,,nucl1301-1,5,beʃ,beʃ,[],,[],,False,False,beş,1
-nucl1301-1-6-1,,nucl1301-1,6,altɯ,altɯ,[],,[],,False,False,altɪ,1
-nucl1301-1-7-1,,nucl1301-1,7,jedi,jedi,[],,[],,False,False,yedi,1
-nucl1301-1-8-1,,nucl1301-1,8,sekiz,sekiz,[],,[],,False,False,sekiz,1
-nucl1301-1-9-1,,nucl1301-1,9,dokuz,dokuz,[],,[],,False,False,dokuz,1
-nucl1301-1-10-1,,nucl1301-1,10,on,on,[],,[],,False,False,on,1
-nucl1301-1-11-1,,nucl1301-1,11,on bir,on bir,[],,[],,False,False,,1
-nucl1301-1-12-1,,nucl1301-1,12,on iki,on iki,[],,[],,False,False,,1
-nucl1301-1-13-1,,nucl1301-1,13,on ytʃ,on ytʃ,[],,[],,False,False,,1
-nucl1301-1-14-1,,nucl1301-1,14,on dœrt,on dœrt,[],,[],,False,False,,1
-nucl1301-1-15-1,,nucl1301-1,15,on beʃ,on beʃ,[],,[],,False,False,,1
-nucl1301-1-16-1,,nucl1301-1,16,on altɯ,on altɯ,[],,[],,False,False,,1
-nucl1301-1-17-1,,nucl1301-1,17,on jedi,on jedi,[],,[],,False,False,,1
-nucl1301-1-18-1,,nucl1301-1,18,on sekiz,on sekiz,[],,[],,False,False,,1
-nucl1301-1-19-1,,nucl1301-1,19,on dokuz,on dokuz,[],,[],,False,False,,1
-nucl1301-1-20-1,,nucl1301-1,20,jirmi,jirmi,[],,[],,False,False,yirmi,1
-nucl1301-1-21-1,,nucl1301-1,21,jirmi bir,jirmi bir,[],,[],,False,False,,1
-nucl1301-1-22-1,,nucl1301-1,22,jirmi iki,jirmi iki,[],,[],,False,False,,1
-nucl1301-1-23-1,,nucl1301-1,23,jirmi ytʃ,jirmi ytʃ,[],,[],,False,False,,1
-nucl1301-1-24-1,,nucl1301-1,24,jirmi dœrt,jirmi dœrt,[],,[],,False,False,,1
-nucl1301-1-25-1,,nucl1301-1,25,jirmi beʃ,jirmi beʃ,[],,[],,False,False,,1
-nucl1301-1-26-1,,nucl1301-1,26,jirmi altɯ,jirmi altɯ,[],,[],,False,False,,1
-nucl1301-1-27-1,,nucl1301-1,27,jirmi jedi,jirmi jedi,[],,[],,False,False,,1
-nucl1301-1-28-1,,nucl1301-1,28,jirmi sekiz,jirmi sekiz,[],,[],,False,False,,1
-nucl1301-1-29-1,,nucl1301-1,29,jirmi dokuz,jirmi dokuz,[],,[],,False,False,,1
-nucl1301-1-30-1,,nucl1301-1,30,otuz,otuz,[],,[],,False,False,otuz,1
-nucl1301-1-40-1,,nucl1301-1,40,kɯrk,kɯrk,[],,[],,False,False,kɪrk,1
-nucl1301-1-50-1,,nucl1301-1,50,elli,elli,[],,[],,False,False,elli,1
-nucl1301-1-60-1,,nucl1301-1,60,altmɯʃ,altmɯʃ,[],,[],,False,False,altmɪş,1
-nucl1301-1-70-1,,nucl1301-1,70,jetmiʃ,jetmiʃ,[],,[],,False,False,yetmiş,1
-nucl1301-1-80-1,,nucl1301-1,80,seksen,seksen,[],,[],,False,False,seksen,1
-nucl1301-1-90-1,,nucl1301-1,90,doksan,doksan,[],,[],,False,False,doksan,1
-nucl1301-1-100-1,,nucl1301-1,100,jyz,jyz,[],,[],,False,False,jüz,1
-nucl1301-1-200-1,,nucl1301-1,200,iki jyz,iki jyz,[],,[],,False,False,iki jüz,1
-nucl1301-1-1000-1,,nucl1301-1,1000,bin,bin,[],,[],,False,False,,1
-nucl1301-1-2000-1,,nucl1301-1,2000,iki bin,iki bin,[],,[],,False,False,,1
+nucl1301-1-1-1,,nucl1301-1,1,bir,bir,[],,['chan2019'],,False,False,bir,1
+nucl1301-1-2-1,,nucl1301-1,2,iki,iki,[],,['chan2019'],,False,False,iki,1
+nucl1301-1-3-1,,nucl1301-1,3,ytʃ,ytʃ,[],,['chan2019'],,False,False,üç,1
+nucl1301-1-4-1,,nucl1301-1,4,dœrt,dœrt,[],,['chan2019'],,False,False,dört,1
+nucl1301-1-5-1,,nucl1301-1,5,beʃ,beʃ,[],,['chan2019'],,False,False,beş,1
+nucl1301-1-6-1,,nucl1301-1,6,altɯ,altɯ,[],,['chan2019'],,False,False,altɪ,1
+nucl1301-1-7-1,,nucl1301-1,7,jedi,jedi,[],,['chan2019'],,False,False,yedi,1
+nucl1301-1-8-1,,nucl1301-1,8,sekiz,sekiz,[],,['chan2019'],,False,False,sekiz,1
+nucl1301-1-9-1,,nucl1301-1,9,dokuz,dokuz,[],,['chan2019'],,False,False,dokuz,1
+nucl1301-1-10-1,,nucl1301-1,10,on,on,[],,['chan2019'],,False,False,on,1
+nucl1301-1-11-1,,nucl1301-1,11,on bir,on bir,[],,['chan2019'],,False,False,,1
+nucl1301-1-12-1,,nucl1301-1,12,on iki,on iki,[],,['chan2019'],,False,False,,1
+nucl1301-1-13-1,,nucl1301-1,13,on ytʃ,on ytʃ,[],,['chan2019'],,False,False,,1
+nucl1301-1-14-1,,nucl1301-1,14,on dœrt,on dœrt,[],,['chan2019'],,False,False,,1
+nucl1301-1-15-1,,nucl1301-1,15,on beʃ,on beʃ,[],,['chan2019'],,False,False,,1
+nucl1301-1-16-1,,nucl1301-1,16,on altɯ,on altɯ,[],,['chan2019'],,False,False,,1
+nucl1301-1-17-1,,nucl1301-1,17,on jedi,on jedi,[],,['chan2019'],,False,False,,1
+nucl1301-1-18-1,,nucl1301-1,18,on sekiz,on sekiz,[],,['chan2019'],,False,False,,1
+nucl1301-1-19-1,,nucl1301-1,19,on dokuz,on dokuz,[],,['chan2019'],,False,False,,1
+nucl1301-1-20-1,,nucl1301-1,20,jirmi,jirmi,[],,['chan2019'],,False,False,yirmi,1
+nucl1301-1-21-1,,nucl1301-1,21,jirmi bir,jirmi bir,[],,['chan2019'],,False,False,,1
+nucl1301-1-22-1,,nucl1301-1,22,jirmi iki,jirmi iki,[],,['chan2019'],,False,False,,1
+nucl1301-1-23-1,,nucl1301-1,23,jirmi ytʃ,jirmi ytʃ,[],,['chan2019'],,False,False,,1
+nucl1301-1-24-1,,nucl1301-1,24,jirmi dœrt,jirmi dœrt,[],,['chan2019'],,False,False,,1
+nucl1301-1-25-1,,nucl1301-1,25,jirmi beʃ,jirmi beʃ,[],,['chan2019'],,False,False,,1
+nucl1301-1-26-1,,nucl1301-1,26,jirmi altɯ,jirmi altɯ,[],,['chan2019'],,False,False,,1
+nucl1301-1-27-1,,nucl1301-1,27,jirmi jedi,jirmi jedi,[],,['chan2019'],,False,False,,1
+nucl1301-1-28-1,,nucl1301-1,28,jirmi sekiz,jirmi sekiz,[],,['chan2019'],,False,False,,1
+nucl1301-1-29-1,,nucl1301-1,29,jirmi dokuz,jirmi dokuz,[],,['chan2019'],,False,False,,1
+nucl1301-1-30-1,,nucl1301-1,30,otuz,otuz,[],,['chan2019'],,False,False,otuz,1
+nucl1301-1-40-1,,nucl1301-1,40,kɯrk,kɯrk,[],,['chan2019'],,False,False,kɪrk,1
+nucl1301-1-50-1,,nucl1301-1,50,elli,elli,[],,['chan2019'],,False,False,elli,1
+nucl1301-1-60-1,,nucl1301-1,60,altmɯʃ,altmɯʃ,[],,['chan2019'],,False,False,altmɪş,1
+nucl1301-1-70-1,,nucl1301-1,70,jetmiʃ,jetmiʃ,[],,['chan2019'],,False,False,yetmiş,1
+nucl1301-1-80-1,,nucl1301-1,80,seksen,seksen,[],,['chan2019'],,False,False,seksen,1
+nucl1301-1-90-1,,nucl1301-1,90,doksan,doksan,[],,['chan2019'],,False,False,doksan,1
+nucl1301-1-100-1,,nucl1301-1,100,jyz,jyz,[],,['chan2019'],,False,False,jüz,1
+nucl1301-1-200-1,,nucl1301-1,200,iki jyz,iki jyz,[],,['chan2019'],,False,False,iki jüz,1
+nucl1301-1-1000-1,,nucl1301-1,1000,bin,bin,[],,['chan2019'],,False,False,,1
+nucl1301-1-2000-1,,nucl1301-1,2000,iki bin,iki bin,[],,['chan2019'],,False,False,,1

@@ -1,9 +1,9 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-onaa1245-1-1-1,,onaa1245-1,1,'šoːš or 'soːs,'šoːš or 'soːs,[],,[],,False,True,,1
-onaa1245-1-2-1,,onaa1245-1,2,'šoːk or 'soːk,'šoːk or 'soːk,[],,[],,False,True,,1
-onaa1245-1-3-1,,onaa1245-1,3,'šɑːokn or 'sɑːokn,'šɑːokn or 'sɑːokn,[],,[],,False,True,,1
-onaa1245-1-4-1,,onaa1245-1,4,'kone 'šoːk,'kone 'šoːk,[],,[],,False,False,,1
-onaa1245-1-5-1,,onaa1245-1,5,'č'enwn or 'šoːš 'č'eˀn (litː 'one hand') or 'kone 'maɾɑˀj,'č'enwn or 'šoːš 'č'eˀn (litː 'one hand') or 'kone 'maɾɑˀj,[],( second informant),[],,False,True,,1
-onaa1245-1-10-1,,onaa1245-1,10,'šoːk 'č'eˀn or 'šoːk 'č'enwn,'šoːk 'č'eˀn or 'šoːk 'č'enwn,[],(litː 'two hands'),[],,False,True,,1
-onaa1245-1-15-1,,onaa1245-1,15,šɑːokn 'č'enwn,šɑːokn 'č'enwn,[],(litː 'three hands'),[],,False,False,,1
-onaa1245-1-20-1,,onaa1245-1,20,'kone 'šoːk 'č'enˀn,'kone 'šoːk 'č'enˀn,[],(litː 'four hands'),[],,False,False,,1
+onaa1245-1-1-1,,onaa1245-1,1,'šoːš or 'soːs,'šoːš or 'soːs,[],,['chan2019'],,False,True,,1
+onaa1245-1-2-1,,onaa1245-1,2,'šoːk or 'soːk,'šoːk or 'soːk,[],,['chan2019'],,False,True,,1
+onaa1245-1-3-1,,onaa1245-1,3,'šɑːokn or 'sɑːokn,'šɑːokn or 'sɑːokn,[],,['chan2019'],,False,True,,1
+onaa1245-1-4-1,,onaa1245-1,4,'kone 'šoːk,'kone 'šoːk,[],,['chan2019'],,False,False,,1
+onaa1245-1-5-1,,onaa1245-1,5,'č'enwn or 'šoːš 'č'eˀn (litː 'one hand') or 'kone 'maɾɑˀj,'č'enwn or 'šoːš 'č'eˀn (litː 'one hand') or 'kone 'maɾɑˀj,[],( second informant),['chan2019'],,False,True,,1
+onaa1245-1-10-1,,onaa1245-1,10,'šoːk 'č'eˀn or 'šoːk 'č'enwn,'šoːk 'č'eˀn or 'šoːk 'č'enwn,[],(litː 'two hands'),['chan2019'],,False,True,,1
+onaa1245-1-15-1,,onaa1245-1,15,šɑːokn 'č'enwn,šɑːokn 'č'enwn,[],(litː 'three hands'),['chan2019'],,False,False,,1
+onaa1245-1-20-1,,onaa1245-1,20,'kone 'šoːk 'č'enˀn,'kone 'šoːk 'č'enˀn,[],(litː 'four hands'),['chan2019'],,False,False,,1

@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yucu1253-1-1-1,,yucu1253-1,1,pajluwa,pajluwa,[],,[],,False,False,,1
-yucu1253-1-2-1,,yucu1253-1,2,iyamá,iyamá,[],,[],,False,False,,1
-yucu1253-1-3-1,,yucu1253-1,3,weji kele,weji kele,[],(litː ''kele means 'this''),[],,False,False,,1
-yucu1253-1-4-1,,yucu1253-1,4,paʔú kele,paʔú kele,[],,[],,False,False,,1
-yucu1253-1-5-1,,yucu1253-1,5,pajluwa teʔla kele,pajluwa teʔla kele,[],,[],,False,False,,1
-yucu1253-1-6-1,,yucu1253-1,6,pajluwa kuwaʔta kele,pajluwa kuwaʔta kele,[],,[],,False,False,,1
-yucu1253-1-7-1,,yucu1253-1,7,iyamá kuwaʔta kele,iyamá kuwaʔta kele,[],,[],,False,False,,1
-yucu1253-1-8-1,,yucu1253-1,8,weji kele kuwaʔta kele,weji kele kuwaʔta kele,[],,[],,False,False,,1
-yucu1253-1-9-1,,yucu1253-1,9,paʔú kele kuwaʔta kele,paʔú kele kuwaʔta kele,[],,[],,False,False,,1
-yucu1253-1-10-1,,yucu1253-1,10,iyamá teʔla kele,iyamá teʔla kele,[],,[],,False,False,,1
-yucu1253-1-11-1,,yucu1253-1,11,pajluwa rijñaʔa riʔimá nakojé,pajluwa rijñaʔa riʔimá nakojé,[],(kele),[],,False,False,,1
-yucu1253-1-12-1,,yucu1253-1,12,iyamá kele rijñaʔa riʔimá nakojé,iyamá kele rijñaʔa riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-13-1,,yucu1253-1,13,weji kele rijñaʔa riʔimá nakojé,weji kele rijñaʔa riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-14-1,,yucu1253-1,14,paʔú kele rijñaʔa riʔimá nakojé,paʔú kele rijñaʔa riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-15-1,,yucu1253-1,15,paxluwa teʔla kele rijñaʔá riʔimá nakojé,paxluwa teʔla kele rijñaʔá riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-16-1,,yucu1253-1,16,pajluwa kuwaʔta kele rijñaʔá riʔimá nakojé,pajluwa kuwaʔta kele rijñaʔá riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-17-1,,yucu1253-1,17,iyamá kuwaʔta kele rijñaʔá riʔimá nakojé,iyamá kuwaʔta kele rijñaʔá riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-18-1,,yucu1253-1,18,weji kele kuwaʔta kele rijñaʔá riʔimá nakojé,weji kele kuwaʔta kele rijñaʔá riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-19-1,,yucu1253-1,19,paʔú kele kuwaʔta kele rijñaʔá riʔimá nakojé,paʔú kele kuwaʔta kele rijñaʔá riʔimá nakojé,[],,[],,False,False,,1
-yucu1253-1-20-1,,yucu1253-1,20,pajluwaja inaʔuké leʔjé kele,pajluwaja inaʔuké leʔjé kele,[],(litː ''as many as one person has''),[],,False,False,,1
+yucu1253-1-1-1,,yucu1253-1,1,pajluwa,pajluwa,[],,['chan2019'],,False,False,,1
+yucu1253-1-2-1,,yucu1253-1,2,iyamá,iyamá,[],,['chan2019'],,False,False,,1
+yucu1253-1-3-1,,yucu1253-1,3,weji kele,weji kele,[],(litː ''kele means 'this''),['chan2019'],,False,False,,1
+yucu1253-1-4-1,,yucu1253-1,4,paʔú kele,paʔú kele,[],,['chan2019'],,False,False,,1
+yucu1253-1-5-1,,yucu1253-1,5,pajluwa teʔla kele,pajluwa teʔla kele,[],,['chan2019'],,False,False,,1
+yucu1253-1-6-1,,yucu1253-1,6,pajluwa kuwaʔta kele,pajluwa kuwaʔta kele,[],,['chan2019'],,False,False,,1
+yucu1253-1-7-1,,yucu1253-1,7,iyamá kuwaʔta kele,iyamá kuwaʔta kele,[],,['chan2019'],,False,False,,1
+yucu1253-1-8-1,,yucu1253-1,8,weji kele kuwaʔta kele,weji kele kuwaʔta kele,[],,['chan2019'],,False,False,,1
+yucu1253-1-9-1,,yucu1253-1,9,paʔú kele kuwaʔta kele,paʔú kele kuwaʔta kele,[],,['chan2019'],,False,False,,1
+yucu1253-1-10-1,,yucu1253-1,10,iyamá teʔla kele,iyamá teʔla kele,[],,['chan2019'],,False,False,,1
+yucu1253-1-11-1,,yucu1253-1,11,pajluwa rijñaʔa riʔimá nakojé,pajluwa rijñaʔa riʔimá nakojé,[],(kele),['chan2019'],,False,False,,1
+yucu1253-1-12-1,,yucu1253-1,12,iyamá kele rijñaʔa riʔimá nakojé,iyamá kele rijñaʔa riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-13-1,,yucu1253-1,13,weji kele rijñaʔa riʔimá nakojé,weji kele rijñaʔa riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-14-1,,yucu1253-1,14,paʔú kele rijñaʔa riʔimá nakojé,paʔú kele rijñaʔa riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-15-1,,yucu1253-1,15,paxluwa teʔla kele rijñaʔá riʔimá nakojé,paxluwa teʔla kele rijñaʔá riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-16-1,,yucu1253-1,16,pajluwa kuwaʔta kele rijñaʔá riʔimá nakojé,pajluwa kuwaʔta kele rijñaʔá riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-17-1,,yucu1253-1,17,iyamá kuwaʔta kele rijñaʔá riʔimá nakojé,iyamá kuwaʔta kele rijñaʔá riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-18-1,,yucu1253-1,18,weji kele kuwaʔta kele rijñaʔá riʔimá nakojé,weji kele kuwaʔta kele rijñaʔá riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-19-1,,yucu1253-1,19,paʔú kele kuwaʔta kele rijñaʔá riʔimá nakojé,paʔú kele kuwaʔta kele rijñaʔá riʔimá nakojé,[],,['chan2019'],,False,False,,1
+yucu1253-1-20-1,,yucu1253-1,20,pajluwaja inaʔuké leʔjé kele,pajluwaja inaʔuké leʔjé kele,[],(litː ''as many as one person has''),['chan2019'],,False,False,,1

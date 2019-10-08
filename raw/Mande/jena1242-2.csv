@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-jena1242-2-1-1,,jena1242-2,1,sanna,sanna,[],,[],,False,False,,2
-jena1242-2-2-1,,jena1242-2,2,pende,pende,[],,[],,False,False,,2
-jena1242-2-3-1,,jena1242-2,3,sikɛũ,sikɛũ,[],,[],,False,False,,2
-jena1242-2-3-2,,jena1242-2,3,siɡɛũ,siɡɛũ,[],,[],,False,False,,2
-jena1242-2-4-1,,jena1242-2,4,nataũ,nataũ,[],,[],,False,False,,2
-jena1242-2-5-1,,jena1242-2,5,kɔɡõ,kɔɡõ,[],,[],,False,False,,2
-jena1242-2-6-1,,jena1242-2,6,tuumi,tuumi,[],,[],,False,False,,2
-jena1242-2-7-1,,jena1242-2,7,yeeni,yeeni,[],,[],,False,False,,2
-jena1242-2-8-1,,jena1242-2,8,seki,seki,[],,[],,False,False,,2
-jena1242-2-9-1,,jena1242-2,9,kapi,kapi,[],,[],,False,False,,2
-jena1242-2-10-1,,jena1242-2,10,tʃɛmi,tʃɛmi,[],,[],,False,False,,2
-jena1242-2-10-2,,jena1242-2,10,tʃami,tʃami,[],,[],,False,False,,2
-jena1242-2-11-1,,jena1242-2,11,tembie keũ,tembie keũ,[],,[],,False,False,,2
-jena1242-2-12-1,,jena1242-2,12,tembie pende,tembie pende,[],,[],,False,False,,2
-jena1242-2-13-1,,jena1242-2,13,tembie sikɛũ,tembie sikɛũ,[],,[],,False,False,,2
-jena1242-2-14-1,,jena1242-2,14,tembie nataũ,tembie nataũ,[],,[],,False,False,,2
-jena1242-2-15-1,,jena1242-2,15,tembie kɔɡõ,tembie kɔɡõ,[],,[],,False,False,,2
-jena1242-2-16-1,,jena1242-2,16,tembie tuumi,tembie tuumi,[],,[],,False,False,,2
-jena1242-2-17-1,,jena1242-2,17,tembie yeeni,tembie yeeni,[],,[],,False,False,,2
-jena1242-2-18-1,,jena1242-2,18,tembie seki,tembie seki,[],,[],,False,False,,2
-jena1242-2-19-1,,jena1242-2,19,tembie kapi,tembie kapi,[],,[],,False,False,,2
-jena1242-2-20-1,,jena1242-2,20,tampende,tampende,[],,[],,False,False,,2
-jena1242-2-21-1,,jena1242-2,21,tampende yeŋ keũ,tampende yeŋ keũ,[],,[],,False,False,,2
-jena1242-2-22-1,,jena1242-2,22,tampende yem pende,tampende yem pende,[],,[],,False,False,,2
-jena1242-2-23-1,,jena1242-2,23,tampende yen sikɛũ,tampende yen sikɛũ,[],,[],,False,False,,2
-jena1242-2-24-1,,jena1242-2,24,tampende yen nataũ,tampende yen nataũ,[],,[],,False,False,,2
-jena1242-2-25-1,,jena1242-2,25,tampende yeŋ kɔɡõ,tampende yeŋ kɔɡõ,[],,[],,False,False,,2
-jena1242-2-26-1,,jena1242-2,26,tampende yen tuumi,tampende yen tuumi,[],,[],,False,False,,2
-jena1242-2-27-1,,jena1242-2,27,tampende yen yeeni,tampende yen yeeni,[],,[],,False,False,,2
-jena1242-2-28-1,,jena1242-2,28,tampende yen seki,tampende yen seki,[],,[],,False,False,,2
-jena1242-2-29-1,,jena1242-2,29,tampende yeŋ kapi,tampende yeŋ kapi,[],,[],,False,False,,2
-jena1242-2-30-1,,jena1242-2,30,tansikɛũ,tansikɛũ,[],,[],,False,False,,2
-jena1242-2-40-1,,jena1242-2,40,dɛbɛ,dɛbɛ,[],,[],,False,False,,2
-jena1242-2-50-1,,jena1242-2,50,dɛbɛ tʃɛmi,dɛbɛ tʃɛmi,[],( 40 + 10 ),[],,False,False,,2
-jena1242-2-60-1,,jena1242-2,60,tannumasikɛũ,tannumasikɛũ,[],,[],,False,False,,2
-jena1242-2-70-1,,jena1242-2,70,tannumasikɛn tʃɛmi,tannumasikɛn tʃɛmi,[],( 60 + 10 ),[],,False,False,,2
-jena1242-2-80-1,,jena1242-2,80,yoro bambara,yoro bambara,[],,[],,False,False,,2
-jena1242-2-90-1,,jena1242-2,90,yure tʃɛmi,yure tʃɛmi,[],( 70 + 10 ),[],,False,False,,2
-jena1242-2-100-1,,jena1242-2,100,yuro silaam,yuro silaam,[],,[],,False,False,,2
-jena1242-2-100-2,,jena1242-2,100,tɛmɛndɛrɛ,tɛmɛndɛrɛ,[],( < Fulfulde),[],,True,False,,2
-jena1242-2-200-1,,jena1242-2,200,yuro pende silaam,yuro pende silaam,[],,[],,False,False,,2
-jena1242-2-1000-1,,jena1242-2,1000,muso,muso,[],,[],,False,False,,2
-jena1242-2-2000-1,,jena1242-2,2000,muso pende,muso pende,[],,[],,False,False,,2
+jena1242-2-1-1,,jena1242-2,1,sanna,sanna,[],,['chan2019'],,False,False,,2
+jena1242-2-2-1,,jena1242-2,2,pende,pende,[],,['chan2019'],,False,False,,2
+jena1242-2-3-1,,jena1242-2,3,sikɛũ,sikɛũ,[],,['chan2019'],,False,False,,2
+jena1242-2-3-2,,jena1242-2,3,siɡɛũ,siɡɛũ,[],,['chan2019'],,False,False,,2
+jena1242-2-4-1,,jena1242-2,4,nataũ,nataũ,[],,['chan2019'],,False,False,,2
+jena1242-2-5-1,,jena1242-2,5,kɔɡõ,kɔɡõ,[],,['chan2019'],,False,False,,2
+jena1242-2-6-1,,jena1242-2,6,tuumi,tuumi,[],,['chan2019'],,False,False,,2
+jena1242-2-7-1,,jena1242-2,7,yeeni,yeeni,[],,['chan2019'],,False,False,,2
+jena1242-2-8-1,,jena1242-2,8,seki,seki,[],,['chan2019'],,False,False,,2
+jena1242-2-9-1,,jena1242-2,9,kapi,kapi,[],,['chan2019'],,False,False,,2
+jena1242-2-10-1,,jena1242-2,10,tʃɛmi,tʃɛmi,[],,['chan2019'],,False,False,,2
+jena1242-2-10-2,,jena1242-2,10,tʃami,tʃami,[],,['chan2019'],,False,False,,2
+jena1242-2-11-1,,jena1242-2,11,tembie keũ,tembie keũ,[],,['chan2019'],,False,False,,2
+jena1242-2-12-1,,jena1242-2,12,tembie pende,tembie pende,[],,['chan2019'],,False,False,,2
+jena1242-2-13-1,,jena1242-2,13,tembie sikɛũ,tembie sikɛũ,[],,['chan2019'],,False,False,,2
+jena1242-2-14-1,,jena1242-2,14,tembie nataũ,tembie nataũ,[],,['chan2019'],,False,False,,2
+jena1242-2-15-1,,jena1242-2,15,tembie kɔɡõ,tembie kɔɡõ,[],,['chan2019'],,False,False,,2
+jena1242-2-16-1,,jena1242-2,16,tembie tuumi,tembie tuumi,[],,['chan2019'],,False,False,,2
+jena1242-2-17-1,,jena1242-2,17,tembie yeeni,tembie yeeni,[],,['chan2019'],,False,False,,2
+jena1242-2-18-1,,jena1242-2,18,tembie seki,tembie seki,[],,['chan2019'],,False,False,,2
+jena1242-2-19-1,,jena1242-2,19,tembie kapi,tembie kapi,[],,['chan2019'],,False,False,,2
+jena1242-2-20-1,,jena1242-2,20,tampende,tampende,[],,['chan2019'],,False,False,,2
+jena1242-2-21-1,,jena1242-2,21,tampende yeŋ keũ,tampende yeŋ keũ,[],,['chan2019'],,False,False,,2
+jena1242-2-22-1,,jena1242-2,22,tampende yem pende,tampende yem pende,[],,['chan2019'],,False,False,,2
+jena1242-2-23-1,,jena1242-2,23,tampende yen sikɛũ,tampende yen sikɛũ,[],,['chan2019'],,False,False,,2
+jena1242-2-24-1,,jena1242-2,24,tampende yen nataũ,tampende yen nataũ,[],,['chan2019'],,False,False,,2
+jena1242-2-25-1,,jena1242-2,25,tampende yeŋ kɔɡõ,tampende yeŋ kɔɡõ,[],,['chan2019'],,False,False,,2
+jena1242-2-26-1,,jena1242-2,26,tampende yen tuumi,tampende yen tuumi,[],,['chan2019'],,False,False,,2
+jena1242-2-27-1,,jena1242-2,27,tampende yen yeeni,tampende yen yeeni,[],,['chan2019'],,False,False,,2
+jena1242-2-28-1,,jena1242-2,28,tampende yen seki,tampende yen seki,[],,['chan2019'],,False,False,,2
+jena1242-2-29-1,,jena1242-2,29,tampende yeŋ kapi,tampende yeŋ kapi,[],,['chan2019'],,False,False,,2
+jena1242-2-30-1,,jena1242-2,30,tansikɛũ,tansikɛũ,[],,['chan2019'],,False,False,,2
+jena1242-2-40-1,,jena1242-2,40,dɛbɛ,dɛbɛ,[],,['chan2019'],,False,False,,2
+jena1242-2-50-1,,jena1242-2,50,dɛbɛ tʃɛmi,dɛbɛ tʃɛmi,[],( 40 + 10 ),['chan2019'],,False,False,,2
+jena1242-2-60-1,,jena1242-2,60,tannumasikɛũ,tannumasikɛũ,[],,['chan2019'],,False,False,,2
+jena1242-2-70-1,,jena1242-2,70,tannumasikɛn tʃɛmi,tannumasikɛn tʃɛmi,[],( 60 + 10 ),['chan2019'],,False,False,,2
+jena1242-2-80-1,,jena1242-2,80,yoro bambara,yoro bambara,[],,['chan2019'],,False,False,,2
+jena1242-2-90-1,,jena1242-2,90,yure tʃɛmi,yure tʃɛmi,[],( 70 + 10 ),['chan2019'],,False,False,,2
+jena1242-2-100-1,,jena1242-2,100,yuro silaam,yuro silaam,[],,['chan2019'],,False,False,,2
+jena1242-2-100-2,,jena1242-2,100,tɛmɛndɛrɛ,tɛmɛndɛrɛ,[],( < Fulfulde),['chan2019'],,True,False,,2
+jena1242-2-200-1,,jena1242-2,200,yuro pende silaam,yuro pende silaam,[],,['chan2019'],,False,False,,2
+jena1242-2-1000-1,,jena1242-2,1000,muso,muso,[],,['chan2019'],,False,False,,2
+jena1242-2-2000-1,,jena1242-2,2000,muso pende,muso pende,[],,['chan2019'],,False,False,,2

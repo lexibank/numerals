@@ -1,12 +1,10 @@
 import csv
 import pathlib
 
-import attr
 from clldutils.path import Path
 from clldutils.path import walk
 from pycldf import Wordlist
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.dataset import Lexeme
 
 from numerals_util import (
     split_form_table,
@@ -20,12 +18,7 @@ from numerals_util import (
 CHANURL = "https://mpi-lingweb.shh.mpg.de/numeral/"
 
 # FIXME: Point to Zenodo or GitHub API?
-URL = "http://localhost:8000/cldf.zip"
-
-
-@attr.s
-class NumeralsEntry(Lexeme):
-    pass
+URL = "https://github.com/lexibank/channumerals/archive/v1.0.zip"
 
 
 class Dataset(BaseDataset):
@@ -51,7 +44,7 @@ class Dataset(BaseDataset):
         languoids = {l.id: l for l in glottolog.languoids()}
 
         self.raw.download_and_unpack(
-            URL, *[Path("cldf", f) for f in channnumerals_files], log=self.log
+            URL, *[Path("channumerals-1.0/cldf", f) for f in channnumerals_files], log=self.log
         )
 
         channumerals = Wordlist.from_metadata("raw/cldf-metadata.json")

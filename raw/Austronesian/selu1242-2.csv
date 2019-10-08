@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-selu1242-2-1-1,,selu1242-2,1,'sɑsin,'sɑsin,[],,[],,False,False,,1
-selu1242-2-2-1,,selu1242-2,2,r̩'ʃɔ r,r̩'ʃɔ r,[],,[],,False,False,,1
-selu1242-2-3-1,,selu1242-2,3,r̩'tɛdu̥,r̩'tɛdu̥,[],,[],,False,False,,1
-selu1242-2-3-2,,selu1242-2,3,r̩'ɛdʷ,r̩'ɛdʷ,[],,[],,False,False,,1
-selu1242-2-4-1,,selu1242-2,4,ʔɑt,ʔɑt,[],,[],,False,False,,1
-selu1242-2-5-1,,selu1242-2,5,dim,dim,[],,[],,False,False,,1
-selu1242-2-6-1,,selu1242-2,6,nɛm,nɛm,[],,[],,False,False,,1
-selu1242-2-7-1,,selu1242-2,7,'ʔitu,'ʔitu,[],,[],,False,False,,1
-selu1242-2-8-1,,selu1242-2,8,wadu̥,wadu̥,[],,[],,False,False,,1
-selu1242-2-8-2,,selu1242-2,8,wad,wad,[],,[],,False,False,,1
-selu1242-2-9-1,,selu1242-2,9,'siwu,'siwu,[],,[],,False,False,,1
-selu1242-2-10-1,,selu1242-2,10,fɛn,fɛn,[],,[],,False,False,,1
-selu1242-2-100-1,,selu1242-2,100,ʔɑ'suut,ʔɑ'suut,[],,[],,False,False,,1
-selu1242-2-1000-1,,selu1242-2,1000,'ribun,'ribun,[],,[],,False,False,,1
+selu1242-2-1-1,,selu1242-2,1,'sɑsin,'sɑsin,[],,['chan2019'],,False,False,,1
+selu1242-2-2-1,,selu1242-2,2,r̩'ʃɔ r,r̩'ʃɔ r,[],,['chan2019'],,False,False,,1
+selu1242-2-3-1,,selu1242-2,3,r̩'tɛdu̥,r̩'tɛdu̥,[],,['chan2019'],,False,False,,1
+selu1242-2-3-2,,selu1242-2,3,r̩'ɛdʷ,r̩'ɛdʷ,[],,['chan2019'],,False,False,,1
+selu1242-2-4-1,,selu1242-2,4,ʔɑt,ʔɑt,[],,['chan2019'],,False,False,,1
+selu1242-2-5-1,,selu1242-2,5,dim,dim,[],,['chan2019'],,False,False,,1
+selu1242-2-6-1,,selu1242-2,6,nɛm,nɛm,[],,['chan2019'],,False,False,,1
+selu1242-2-7-1,,selu1242-2,7,'ʔitu,'ʔitu,[],,['chan2019'],,False,False,,1
+selu1242-2-8-1,,selu1242-2,8,wadu̥,wadu̥,[],,['chan2019'],,False,False,,1
+selu1242-2-8-2,,selu1242-2,8,wad,wad,[],,['chan2019'],,False,False,,1
+selu1242-2-9-1,,selu1242-2,9,'siwu,'siwu,[],,['chan2019'],,False,False,,1
+selu1242-2-10-1,,selu1242-2,10,fɛn,fɛn,[],,['chan2019'],,False,False,,1
+selu1242-2-100-1,,selu1242-2,100,ʔɑ'suut,ʔɑ'suut,[],,['chan2019'],,False,False,,1
+selu1242-2-1000-1,,selu1242-2,1000,'ribun,'ribun,[],,['chan2019'],,False,False,,1

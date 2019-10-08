@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-opuu1239-1-1-1,,opuu1239-1,1,ɗj́ān,ɗj́ān,[],,[],,False,False,,1
-opuu1239-1-2-1,,opuu1239-1,2,sʊ̄kʼá,sʊ̄kʼá,[],,[],,False,False,,1
-opuu1239-1-3-1,,opuu1239-1,3,tùsù,tùsù,[],,[],,False,False,,1
-opuu1239-1-4-1,,opuu1239-1,4,ʍàn,ʍàn,[],,[],,False,False,,1
-opuu1239-1-5-1,,opuu1239-1,5,mùtʰa̋-kʼʊ̄j,mùtʰa̋-kʼʊ̄j,[],(litː 'be.full-hand' ),[],,False,False,,1
-opuu1239-1-6-1,,opuu1239-1,6,kʰān-ɪ́-ɗjān,kʰān-ɪ́-ɗjān,[],(litː 'five-ASC-one~five-   ASC-one'),[],,False,False,,1
-opuu1239-1-7-1,,opuu1239-1,7,kʰān-ɪ́-sʊ̄kʼá,kʰān-ɪ́-sʊ̄kʼá,[],(litː 'five-ASC-two'),[],,False,False,,1
-opuu1239-1-8-1,,opuu1239-1,8,kʰān-ɪ́-tùsù,kʰān-ɪ́-tùsù,[],(litː 'five-ASC-three'),[],,False,False,,1
-opuu1239-1-9-1,,opuu1239-1,9,kʰān-ɪ́-ʍàn,kʰān-ɪ́-ʍàn,[],(litː 'five-ASC-four'),[],,False,False,,1
-opuu1239-1-10-1,,opuu1239-1,10,kʼʊ̄j-ā-sʊ̄kʼɛ́n,kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː 'hand-SOURCE-    two-3N.POSS'),[],,False,False,,1
-opuu1239-1-11-1,,opuu1239-1,11,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ɗj́ān,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ɗj́ān,[],(hand-  SOURCE-two-3N.POSS have head one),[],,False,False,,1
-opuu1239-1-12-1,,opuu1239-1,12,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p sʊ̄kʼá (hand- SOURCE-two-3N.POSS have head two,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p sʊ̄kʼá (hand- SOURCE-two-3N.POSS have head two,[],,[],,False,True,,1
-opuu1239-1-13-1,,opuu1239-1,13,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p tùsù (hand- SOURCE-two-3N.POSS have head three,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p tùsù (hand- SOURCE-two-3N.POSS have head three,[],,[],,False,True,,1
-opuu1239-1-14-1,,opuu1239-1,14,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ʍàn (hand- SOURCE-two-3N.POSS have head four,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ʍàn (hand- SOURCE-two-3N.POSS have head four,[],,[],,False,True,,1
-opuu1239-1-15-1,,opuu1239-1,15,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,[],(hand SOURCE-two-3N.POSS have    head be.full-hand),[],,False,False,,1
-opuu1239-1-16-1,,opuu1239-1,16,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ɗjān,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ɗjān,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-one),[],,False,False,,1
-opuu1239-1-17-1,,opuu1239-1,17,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-two),[],,False,False,,1
-opuu1239-1-18-1,,opuu1239-1,18,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-three),[],,False,False,,1
-opuu1239-1-19-1,,opuu1239-1,19,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-four),[],,False,False,,1
-opuu1239-1-20-1,,opuu1239-1,20,ɛ̄s-í-ʊ̀-ɗj́ān,ɛ̄s-í-ʊ̀-ɗj́ān,[],(litː 'body-ASC-SG.M-one'),[],,False,False,,1
-opuu1239-1-21-1,,opuu1239-1,21,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ɗj́ān,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ɗj́ān,[],(litː 'body-ASC-SG.M-one have head one'),[],,False,False,,1
-opuu1239-1-22-1,,opuu1239-1,22,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p sʊ̄kʼá,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p sʊ̄kʼá,[],(litː 'body-ASC-SG.M-one have head two'),[],,False,False,,1
-opuu1239-1-23-1,,opuu1239-1,23,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p tùsù,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p tùsù,[],(litː 'body-ASC-SG.M-one have head three'),[],,False,False,,1
-opuu1239-1-24-1,,opuu1239-1,24,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ʍàn,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ʍàn,[],(litː 'body-ASC-SG.M-one have head four'),[],,False,False,,1
-opuu1239-1-25-1,,opuu1239-1,25,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,[],(litː 'body-ASC-SG.M-one have head be.full-hand'),[],,False,False,,1
-opuu1239-1-26-1,,opuu1239-1,26,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́pkʰān-ɪ́-ɗjān,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́pkʰān-ɪ́-ɗjān,[],(litː 'body-ASC-SG.M-one have head  five.ASC-one'),[],,False,False,,1
-opuu1239-1-27-1,,opuu1239-1,27,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,[],(litː 'body-ASC-SG.M-one have head  five.ASC-two'),[],,False,False,,1
-opuu1239-1-28-1,,opuu1239-1,28,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-tùsù,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-tùsù,[],(litː 'body-ASC-SG.M-one have head  five.ASC-three'),[],,False,False,,1
-opuu1239-1-29-1,,opuu1239-1,29,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(litː 'body-ASC-SG.M-one have head  five.ASC-ʍàn'),[],,False,False,,1
-opuu1239-1-30-1,,opuu1239-1,30,ɛ̄s-í-ʊ̀-ɗj́ān mùtʰa̋-kʼʊ̄j-ā-ā-sʊ̄kʼɛ́n,ɛ̄s-í-ʊ̀-ɗj́ān mùtʰa̋-kʼʊ̄j-ā-ā-sʊ̄kʼɛ́n,[],(litː 'body-ASC-SG.M-one be.full-hand-LOC-two-3N.POSS '),[],,False,False,,1
-opuu1239-1-40-1,,opuu1239-1,40,ɛ̄s-í-bì-sūkʼá,ɛ̄s-í-bì-sūkʼá,[],(litː 'body-ASC-PL-two'),[],,False,False,,1
-opuu1239-1-50-1,,opuu1239-1,50,ɛ̄s-í-bì-sūkʼá mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n 'body-ASC-PL-two be.full-hand-SOURCE-two-3N.POSS'),ɛ̄s-í-bì-sūkʼá mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n 'body-ASC-PL-two be.full-hand-SOURCE-two-3N.POSS'),[],,[],,False,True,,1
-opuu1239-1-60-1,,opuu1239-1,60,ɛ̄s-í-bì-tùsù,ɛ̄s-í-bì-tùsù,[],(litː 'body-AS-PL-three'),[],,False,False,,1
-opuu1239-1-70-1,,opuu1239-1,70,ɛ̄s-í-bì-tùsù mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,ɛ̄s-í-bì-tùsù mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː 'body-ASC-PL-three be.full-hand-SOURCE-two-3N.POSS'),[],,False,False,,1
-opuu1239-1-80-1,,opuu1239-1,80,ɛ̄s-í-bì-ʍàn,ɛ̄s-í-bì-ʍàn,[],(litː 'body-ASC-PL-four'),[],,False,False,,1
-opuu1239-1-90-1,,opuu1239-1,90,ɛ̄s-í-bì-ʍàn mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,ɛ̄s-í-bì-ʍàn mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː''body-ASC-PL-four be.full-hand-SOURCE-two-3N.POSS '),[],,False,False,,1
-opuu1239-1-100-1,,opuu1239-1,100,ɛ̄s-í-bì-mùtʰa̋-kʼʊ̄j,ɛ̄s-í-bì-mùtʰa̋-kʼʊ̄j,[],(litː 'body-ASC-PL-be.full-hand'),[],,False,False,,1
-opuu1239-1-200-1,,opuu1239-1,200,no data,no data,[],,[],,False,True,,1
-opuu1239-1-1000-1,,opuu1239-1,1000,no data,no data,[],,[],,False,True,,1
-opuu1239-1-2000-1,,opuu1239-1,2000,no data,no data,[],,[],,False,True,,1
+opuu1239-1-1-1,,opuu1239-1,1,ɗj́ān,ɗj́ān,[],,['chan2019'],,False,False,,1
+opuu1239-1-2-1,,opuu1239-1,2,sʊ̄kʼá,sʊ̄kʼá,[],,['chan2019'],,False,False,,1
+opuu1239-1-3-1,,opuu1239-1,3,tùsù,tùsù,[],,['chan2019'],,False,False,,1
+opuu1239-1-4-1,,opuu1239-1,4,ʍàn,ʍàn,[],,['chan2019'],,False,False,,1
+opuu1239-1-5-1,,opuu1239-1,5,mùtʰa̋-kʼʊ̄j,mùtʰa̋-kʼʊ̄j,[],(litː 'be.full-hand' ),['chan2019'],,False,False,,1
+opuu1239-1-6-1,,opuu1239-1,6,kʰān-ɪ́-ɗjān,kʰān-ɪ́-ɗjān,[],(litː 'five-ASC-one~five-   ASC-one'),['chan2019'],,False,False,,1
+opuu1239-1-7-1,,opuu1239-1,7,kʰān-ɪ́-sʊ̄kʼá,kʰān-ɪ́-sʊ̄kʼá,[],(litː 'five-ASC-two'),['chan2019'],,False,False,,1
+opuu1239-1-8-1,,opuu1239-1,8,kʰān-ɪ́-tùsù,kʰān-ɪ́-tùsù,[],(litː 'five-ASC-three'),['chan2019'],,False,False,,1
+opuu1239-1-9-1,,opuu1239-1,9,kʰān-ɪ́-ʍàn,kʰān-ɪ́-ʍàn,[],(litː 'five-ASC-four'),['chan2019'],,False,False,,1
+opuu1239-1-10-1,,opuu1239-1,10,kʼʊ̄j-ā-sʊ̄kʼɛ́n,kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː 'hand-SOURCE-    two-3N.POSS'),['chan2019'],,False,False,,1
+opuu1239-1-11-1,,opuu1239-1,11,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ɗj́ān,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ɗj́ān,[],(hand-  SOURCE-two-3N.POSS have head one),['chan2019'],,False,False,,1
+opuu1239-1-12-1,,opuu1239-1,12,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p sʊ̄kʼá (hand- SOURCE-two-3N.POSS have head two,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p sʊ̄kʼá (hand- SOURCE-two-3N.POSS have head two,[],,['chan2019'],,False,True,,1
+opuu1239-1-13-1,,opuu1239-1,13,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p tùsù (hand- SOURCE-two-3N.POSS have head three,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p tùsù (hand- SOURCE-two-3N.POSS have head three,[],,['chan2019'],,False,True,,1
+opuu1239-1-14-1,,opuu1239-1,14,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ʍàn (hand- SOURCE-two-3N.POSS have head four,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ʍàn (hand- SOURCE-two-3N.POSS have head four,[],,['chan2019'],,False,True,,1
+opuu1239-1-15-1,,opuu1239-1,15,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,[],(hand SOURCE-two-3N.POSS have    head be.full-hand),['chan2019'],,False,False,,1
+opuu1239-1-16-1,,opuu1239-1,16,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ɗjān,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ɗjān,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-one),['chan2019'],,False,False,,1
+opuu1239-1-17-1,,opuu1239-1,17,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-two),['chan2019'],,False,False,,1
+opuu1239-1-18-1,,opuu1239-1,18,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-three),['chan2019'],,False,False,,1
+opuu1239-1-19-1,,opuu1239-1,19,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(hand-SOURCE-two-3N.POSS have    head five-ASC-four),['chan2019'],,False,False,,1
+opuu1239-1-20-1,,opuu1239-1,20,ɛ̄s-í-ʊ̀-ɗj́ān,ɛ̄s-í-ʊ̀-ɗj́ān,[],(litː 'body-ASC-SG.M-one'),['chan2019'],,False,False,,1
+opuu1239-1-21-1,,opuu1239-1,21,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ɗj́ān,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ɗj́ān,[],(litː 'body-ASC-SG.M-one have head one'),['chan2019'],,False,False,,1
+opuu1239-1-22-1,,opuu1239-1,22,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p sʊ̄kʼá,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p sʊ̄kʼá,[],(litː 'body-ASC-SG.M-one have head two'),['chan2019'],,False,False,,1
+opuu1239-1-23-1,,opuu1239-1,23,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p tùsù,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p tùsù,[],(litː 'body-ASC-SG.M-one have head three'),['chan2019'],,False,False,,1
+opuu1239-1-24-1,,opuu1239-1,24,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ʍàn,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p ʍàn,[],(litː 'body-ASC-SG.M-one have head four'),['chan2019'],,False,False,,1
+opuu1239-1-25-1,,opuu1239-1,25,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,[],(litː 'body-ASC-SG.M-one have head be.full-hand'),['chan2019'],,False,False,,1
+opuu1239-1-26-1,,opuu1239-1,26,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́pkʰān-ɪ́-ɗjān,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́pkʰān-ɪ́-ɗjān,[],(litː 'body-ASC-SG.M-one have head  five.ASC-one'),['chan2019'],,False,False,,1
+opuu1239-1-27-1,,opuu1239-1,27,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,[],(litː 'body-ASC-SG.M-one have head  five.ASC-two'),['chan2019'],,False,False,,1
+opuu1239-1-28-1,,opuu1239-1,28,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-tùsù,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-tùsù,[],(litː 'body-ASC-SG.M-one have head  five.ASC-three'),['chan2019'],,False,False,,1
+opuu1239-1-29-1,,opuu1239-1,29,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,ɛ̄s-í-ʊ̀-ɗj́ān kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(litː 'body-ASC-SG.M-one have head  five.ASC-ʍàn'),['chan2019'],,False,False,,1
+opuu1239-1-30-1,,opuu1239-1,30,ɛ̄s-í-ʊ̀-ɗj́ān mùtʰa̋-kʼʊ̄j-ā-ā-sʊ̄kʼɛ́n,ɛ̄s-í-ʊ̀-ɗj́ān mùtʰa̋-kʼʊ̄j-ā-ā-sʊ̄kʼɛ́n,[],(litː 'body-ASC-SG.M-one be.full-hand-LOC-two-3N.POSS '),['chan2019'],,False,False,,1
+opuu1239-1-40-1,,opuu1239-1,40,ɛ̄s-í-bì-sūkʼá,ɛ̄s-í-bì-sūkʼá,[],(litː 'body-ASC-PL-two'),['chan2019'],,False,False,,1
+opuu1239-1-50-1,,opuu1239-1,50,ɛ̄s-í-bì-sūkʼá mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n 'body-ASC-PL-two be.full-hand-SOURCE-two-3N.POSS'),ɛ̄s-í-bì-sūkʼá mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n 'body-ASC-PL-two be.full-hand-SOURCE-two-3N.POSS'),[],,['chan2019'],,False,True,,1
+opuu1239-1-60-1,,opuu1239-1,60,ɛ̄s-í-bì-tùsù,ɛ̄s-í-bì-tùsù,[],(litː 'body-AS-PL-three'),['chan2019'],,False,False,,1
+opuu1239-1-70-1,,opuu1239-1,70,ɛ̄s-í-bì-tùsù mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,ɛ̄s-í-bì-tùsù mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː 'body-ASC-PL-three be.full-hand-SOURCE-two-3N.POSS'),['chan2019'],,False,False,,1
+opuu1239-1-80-1,,opuu1239-1,80,ɛ̄s-í-bì-ʍàn,ɛ̄s-í-bì-ʍàn,[],(litː 'body-ASC-PL-four'),['chan2019'],,False,False,,1
+opuu1239-1-90-1,,opuu1239-1,90,ɛ̄s-í-bì-ʍàn mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,ɛ̄s-í-bì-ʍàn mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː''body-ASC-PL-four be.full-hand-SOURCE-two-3N.POSS '),['chan2019'],,False,False,,1
+opuu1239-1-100-1,,opuu1239-1,100,ɛ̄s-í-bì-mùtʰa̋-kʼʊ̄j,ɛ̄s-í-bì-mùtʰa̋-kʼʊ̄j,[],(litː 'body-ASC-PL-be.full-hand'),['chan2019'],,False,False,,1
+opuu1239-1-200-1,,opuu1239-1,200,no data,no data,[],,['chan2019'],,False,True,,1
+opuu1239-1-1000-1,,opuu1239-1,1000,no data,no data,[],,['chan2019'],,False,True,,1
+opuu1239-1-2000-1,,opuu1239-1,2000,no data,no data,[],,['chan2019'],,False,True,,1

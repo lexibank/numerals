@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2557-1-1-1,,west2557-1,1,soʔ(o),soʔ(o),[],,[],,False,False,,1
-west2557-1-1-2,,west2557-1,1,sola,sola,[],,[],,False,False,,1
-west2557-1-2-1,,west2557-1,2,duaʔ,duaʔ,[],,[],,False,False,,1
-west2557-1-3-1,,west2557-1,3,tolu,tolu,[],,[],,False,False,,1
-west2557-1-4-1,,west2557-1,4,pat,pat,[],,[],,False,False,,1
-west2557-1-5-1,,west2557-1,5,lima,lima,[],,[],,False,False,,1
-west2557-1-6-1,,west2557-1,6,ɡonom,ɡonom,[],,[],,False,False,,1
-west2557-1-7-1,,west2557-1,7,pitu,pitu,[],,[],,False,False,,1
-west2557-1-8-1,,west2557-1,8,walu,walu,[],,[],,False,False,,1
-west2557-1-9-1,,west2557-1,9,siam,siam,[],,[],,False,False,,1
-west2557-1-10-1,,west2557-1,10,sopuluʔ,sopuluʔ,[],,[],,False,False,,1
-west2557-1-11-1,,west2557-1,11,sopuluʔ bu sola,sopuluʔ bu sola,[],,[],,False,False,,1
-west2557-1-12-1,,west2557-1,12,sopuluʔ bu duaʔ,sopuluʔ bu duaʔ,[],,[],,False,False,,1
-west2557-1-13-1,,west2557-1,13,sopuluʔ bu tolu,sopuluʔ bu tolu,[],,[],,False,False,,1
-west2557-1-14-1,,west2557-1,14,sopuluʔ bu pat,sopuluʔ bu pat,[],,[],,False,False,,1
-west2557-1-15-1,,west2557-1,15,sopuluʔ bu lima,sopuluʔ bu lima,[],,[],,False,False,,1
-west2557-1-16-1,,west2557-1,16,sopuluʔ bu ɡonom,sopuluʔ bu ɡonom,[],,[],,False,False,,1
-west2557-1-17-1,,west2557-1,17,sopuluʔ bu pitu,sopuluʔ bu pitu,[],,[],,False,False,,1
-west2557-1-18-1,,west2557-1,18,sopuluʔ bu walu,sopuluʔ bu walu,[],,[],,False,False,,1
-west2557-1-19-1,,west2557-1,19,sopuluʔ bu siam,sopuluʔ bu siam,[],,[],,False,False,,1
-west2557-1-20-1,,west2557-1,20,duaʔ puluʔ,duaʔ puluʔ,[],,[],,False,False,,1
-west2557-1-21-1,,west2557-1,21,duaʔ puluʔ bu sola,duaʔ puluʔ bu sola,[],,[],,False,False,,1
-west2557-1-22-1,,west2557-1,22,duaʔ puluʔ bu duaʔ,duaʔ puluʔ bu duaʔ,[],,[],,False,False,,1
-west2557-1-23-1,,west2557-1,23,duaʔ puluʔ bu tolu,duaʔ puluʔ bu tolu,[],,[],,False,False,,1
-west2557-1-24-1,,west2557-1,24,duaʔ puluʔ bu pat,duaʔ puluʔ bu pat,[],,[],,False,False,,1
-west2557-1-25-1,,west2557-1,25,duaʔ puluʔ bu lima,duaʔ puluʔ bu lima,[],,[],,False,False,,1
-west2557-1-26-1,,west2557-1,26,duaʔ puluʔ bu ɡonom,duaʔ puluʔ bu ɡonom,[],,[],,False,False,,1
-west2557-1-27-1,,west2557-1,27,duaʔ puluʔ bu pitu,duaʔ puluʔ bu pitu,[],,[],,False,False,,1
-west2557-1-28-1,,west2557-1,28,duaʔ puluʔ bu walu,duaʔ puluʔ bu walu,[],,[],,False,False,,1
-west2557-1-29-1,,west2557-1,29,duaʔ puluʔ bu siam,duaʔ puluʔ bu siam,[],,[],,False,False,,1
-west2557-1-30-1,,west2557-1,30,tolu puluʔ,tolu puluʔ,[],,[],,False,False,,1
-west2557-1-40-1,,west2557-1,40,pat puluʔ,pat puluʔ,[],,[],,False,False,,1
-west2557-1-50-1,,west2557-1,50,lima puluʔ,lima puluʔ,[],,[],,False,False,,1
-west2557-1-60-1,,west2557-1,60,ɡonom puluʔ,ɡonom puluʔ,[],,[],,False,False,,1
-west2557-1-70-1,,west2557-1,70,pitu puluʔ,pitu puluʔ,[],,[],,False,False,,1
-west2557-1-80-1,,west2557-1,80,walu puluʔ,walu puluʔ,[],,[],,False,False,,1
-west2557-1-90-1,,west2557-1,90,siam puluʔ,siam puluʔ,[],,[],,False,False,,1
-west2557-1-100-1,,west2557-1,100,so- ɡatus,so- ɡatus,[],,[],,False,False,,1
-west2557-1-200-1,,west2557-1,200,duaʔ ɡatus,duaʔ ɡatus,[],,[],,False,False,,1
-west2557-1-1000-1,,west2557-1,1000,so- ŋibu,so- ŋibu,[],,[],,False,False,,1
-west2557-1-2000-1,,west2557-1,2000,duaʔ ŋibu,duaʔ ŋibu,[],,[],,False,False,,1
+west2557-1-1-1,,west2557-1,1,soʔ(o),soʔ(o),[],,['chan2019'],,False,False,,1
+west2557-1-1-2,,west2557-1,1,sola,sola,[],,['chan2019'],,False,False,,1
+west2557-1-2-1,,west2557-1,2,duaʔ,duaʔ,[],,['chan2019'],,False,False,,1
+west2557-1-3-1,,west2557-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+west2557-1-4-1,,west2557-1,4,pat,pat,[],,['chan2019'],,False,False,,1
+west2557-1-5-1,,west2557-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+west2557-1-6-1,,west2557-1,6,ɡonom,ɡonom,[],,['chan2019'],,False,False,,1
+west2557-1-7-1,,west2557-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+west2557-1-8-1,,west2557-1,8,walu,walu,[],,['chan2019'],,False,False,,1
+west2557-1-9-1,,west2557-1,9,siam,siam,[],,['chan2019'],,False,False,,1
+west2557-1-10-1,,west2557-1,10,sopuluʔ,sopuluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-11-1,,west2557-1,11,sopuluʔ bu sola,sopuluʔ bu sola,[],,['chan2019'],,False,False,,1
+west2557-1-12-1,,west2557-1,12,sopuluʔ bu duaʔ,sopuluʔ bu duaʔ,[],,['chan2019'],,False,False,,1
+west2557-1-13-1,,west2557-1,13,sopuluʔ bu tolu,sopuluʔ bu tolu,[],,['chan2019'],,False,False,,1
+west2557-1-14-1,,west2557-1,14,sopuluʔ bu pat,sopuluʔ bu pat,[],,['chan2019'],,False,False,,1
+west2557-1-15-1,,west2557-1,15,sopuluʔ bu lima,sopuluʔ bu lima,[],,['chan2019'],,False,False,,1
+west2557-1-16-1,,west2557-1,16,sopuluʔ bu ɡonom,sopuluʔ bu ɡonom,[],,['chan2019'],,False,False,,1
+west2557-1-17-1,,west2557-1,17,sopuluʔ bu pitu,sopuluʔ bu pitu,[],,['chan2019'],,False,False,,1
+west2557-1-18-1,,west2557-1,18,sopuluʔ bu walu,sopuluʔ bu walu,[],,['chan2019'],,False,False,,1
+west2557-1-19-1,,west2557-1,19,sopuluʔ bu siam,sopuluʔ bu siam,[],,['chan2019'],,False,False,,1
+west2557-1-20-1,,west2557-1,20,duaʔ puluʔ,duaʔ puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-21-1,,west2557-1,21,duaʔ puluʔ bu sola,duaʔ puluʔ bu sola,[],,['chan2019'],,False,False,,1
+west2557-1-22-1,,west2557-1,22,duaʔ puluʔ bu duaʔ,duaʔ puluʔ bu duaʔ,[],,['chan2019'],,False,False,,1
+west2557-1-23-1,,west2557-1,23,duaʔ puluʔ bu tolu,duaʔ puluʔ bu tolu,[],,['chan2019'],,False,False,,1
+west2557-1-24-1,,west2557-1,24,duaʔ puluʔ bu pat,duaʔ puluʔ bu pat,[],,['chan2019'],,False,False,,1
+west2557-1-25-1,,west2557-1,25,duaʔ puluʔ bu lima,duaʔ puluʔ bu lima,[],,['chan2019'],,False,False,,1
+west2557-1-26-1,,west2557-1,26,duaʔ puluʔ bu ɡonom,duaʔ puluʔ bu ɡonom,[],,['chan2019'],,False,False,,1
+west2557-1-27-1,,west2557-1,27,duaʔ puluʔ bu pitu,duaʔ puluʔ bu pitu,[],,['chan2019'],,False,False,,1
+west2557-1-28-1,,west2557-1,28,duaʔ puluʔ bu walu,duaʔ puluʔ bu walu,[],,['chan2019'],,False,False,,1
+west2557-1-29-1,,west2557-1,29,duaʔ puluʔ bu siam,duaʔ puluʔ bu siam,[],,['chan2019'],,False,False,,1
+west2557-1-30-1,,west2557-1,30,tolu puluʔ,tolu puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-40-1,,west2557-1,40,pat puluʔ,pat puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-50-1,,west2557-1,50,lima puluʔ,lima puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-60-1,,west2557-1,60,ɡonom puluʔ,ɡonom puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-70-1,,west2557-1,70,pitu puluʔ,pitu puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-80-1,,west2557-1,80,walu puluʔ,walu puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-90-1,,west2557-1,90,siam puluʔ,siam puluʔ,[],,['chan2019'],,False,False,,1
+west2557-1-100-1,,west2557-1,100,so- ɡatus,so- ɡatus,[],,['chan2019'],,False,False,,1
+west2557-1-200-1,,west2557-1,200,duaʔ ɡatus,duaʔ ɡatus,[],,['chan2019'],,False,False,,1
+west2557-1-1000-1,,west2557-1,1000,so- ŋibu,so- ŋibu,[],,['chan2019'],,False,False,,1
+west2557-1-2000-1,,west2557-1,2000,duaʔ ŋibu,duaʔ ŋibu,[],,['chan2019'],,False,False,,1

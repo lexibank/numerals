@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mouk1239-1-1-1,,mouk1239-1,1,kaine,kaine,[],,[],,False,False,,1
-mouk1239-1-1-2,,mouk1239-1,1,keine,keine,[],,[],,False,False,,1
-mouk1239-1-2-1,,mouk1239-1,2,oxuo,oxuo,[],,[],,False,False,,1
-mouk1239-1-2-2,,mouk1239-1,2,orwo,orwo,[],,[],,False,False,,1
-mouk1239-1-3-1,,mouk1239-1,3,etli,etli,[],,[],,False,False,,1
-mouk1239-1-4-1,,mouk1239-1,4,apeinal,apeinal,[],,[],,False,False,,1
-mouk1239-1-5-1,,mouk1239-1,5,elme,elme,[],,[],,False,False,,1
-mouk1239-1-6-1,,mouk1239-1,6,lumakaine,lumakaine,[],( 5 + 1 ),[],,False,False,,1
-mouk1239-1-7-1,,mouk1239-1,7,lumaxuo,lumaxuo,[],( 5 + 2 ),[],,False,False,,1
-mouk1239-1-8-1,,mouk1239-1,8,lumetli,lumetli,[],( 5 + 3 ),[],,False,False,,1
-mouk1239-1-9-1,,mouk1239-1,9,lumesnal,lumesnal,[],( 5 + 4 ),[],,False,False,,1
-mouk1239-1-10-1,,mouk1239-1,10,soŋotno,soŋotno,[],,[],,False,False,,1
-mouk1239-1-11-1,,mouk1239-1,11,soŋotno kaine,soŋotno kaine,[],,[],,False,False,,1
-mouk1239-1-12-1,,mouk1239-1,12,soŋotno oxuo,soŋotno oxuo,[],,[],,False,False,,1
-mouk1239-1-13-1,,mouk1239-1,13,soŋotno etli,soŋotno etli,[],,[],,False,False,,1
-mouk1239-1-14-1,,mouk1239-1,14,soŋotno apeinal,soŋotno apeinal,[],,[],,False,False,,1
-mouk1239-1-15-1,,mouk1239-1,15,soŋotno elme,soŋotno elme,[],,[],,False,False,,1
-mouk1239-1-16-1,,mouk1239-1,16,soŋotno lumakaine,soŋotno lumakaine,[],,[],,False,False,,1
-mouk1239-1-17-1,,mouk1239-1,17,soŋotno lumaxuo,soŋotno lumaxuo,[],,[],,False,False,,1
-mouk1239-1-18-1,,mouk1239-1,18,soŋotno lumetli,soŋotno lumetli,[],,[],,False,False,,1
-mouk1239-1-19-1,,mouk1239-1,19,soŋotno lumesnal,soŋotno lumesnal,[],,[],,False,False,,1
-mouk1239-1-20-1,,mouk1239-1,20,isoxuo,isoxuo,[],,[],,False,False,,1
-mouk1239-1-21-1,,mouk1239-1,21,isoxuo kaine,isoxuo kaine,[],,[],,False,False,,1
-mouk1239-1-22-1,,mouk1239-1,22,isoxuo oxuo,isoxuo oxuo,[],,[],,False,False,,1
-mouk1239-1-23-1,,mouk1239-1,23,isoxuo etli,isoxuo etli,[],,[],,False,False,,1
-mouk1239-1-24-1,,mouk1239-1,24,isoxuo apeinal,isoxuo apeinal,[],,[],,False,False,,1
-mouk1239-1-25-1,,mouk1239-1,25,isoxuo elme,isoxuo elme,[],,[],,False,False,,1
-mouk1239-1-26-1,,mouk1239-1,26,isoxuo lumakaine,isoxuo lumakaine,[],,[],,False,False,,1
-mouk1239-1-27-1,,mouk1239-1,27,isoxuo lumaxuo,isoxuo lumaxuo,[],,[],,False,False,,1
-mouk1239-1-28-1,,mouk1239-1,28,isoxuo lumetli,isoxuo lumetli,[],,[],,False,False,,1
-mouk1239-1-29-1,,mouk1239-1,29,isoxuo lumesnal,isoxuo lumesnal,[],,[],,False,False,,1
-mouk1239-1-30-1,,mouk1239-1,30,isetli,isetli,[],,[],,False,False,,1
-mouk1239-1-40-1,,mouk1239-1,40,isapeinal,isapeinal,[],,[],,False,False,,1
-mouk1239-1-50-1,,mouk1239-1,50,iselme,iselme,[],,[],,False,False,,1
-mouk1239-1-60-1,,mouk1239-1,60,iselme soŋotno,iselme soŋotno,[],( 50 + 10 ),[],,False,False,,1
-mouk1239-1-70-1,,mouk1239-1,70,iselme isoxuo,iselme isoxuo,[],( 50 + 20 ),[],,False,False,,1
-mouk1239-1-80-1,,mouk1239-1,80,iselme isetli,iselme isetli,[],( 50 + 30 ),[],,False,False,,1
-mouk1239-1-90-1,,mouk1239-1,90,iselme isapeinal,iselme isapeinal,[],( 50 + 40 ),[],,False,False,,1
-mouk1239-1-100-1,,mouk1239-1,100,buno,buno,[],,[],,False,False,,1
-mouk1239-1-200-1,,mouk1239-1,200,buno oxuo,buno oxuo,[],,[],,False,False,,1
+mouk1239-1-1-1,,mouk1239-1,1,kaine,kaine,[],,['chan2019'],,False,False,,1
+mouk1239-1-1-2,,mouk1239-1,1,keine,keine,[],,['chan2019'],,False,False,,1
+mouk1239-1-2-1,,mouk1239-1,2,oxuo,oxuo,[],,['chan2019'],,False,False,,1
+mouk1239-1-2-2,,mouk1239-1,2,orwo,orwo,[],,['chan2019'],,False,False,,1
+mouk1239-1-3-1,,mouk1239-1,3,etli,etli,[],,['chan2019'],,False,False,,1
+mouk1239-1-4-1,,mouk1239-1,4,apeinal,apeinal,[],,['chan2019'],,False,False,,1
+mouk1239-1-5-1,,mouk1239-1,5,elme,elme,[],,['chan2019'],,False,False,,1
+mouk1239-1-6-1,,mouk1239-1,6,lumakaine,lumakaine,[],( 5 + 1 ),['chan2019'],,False,False,,1
+mouk1239-1-7-1,,mouk1239-1,7,lumaxuo,lumaxuo,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mouk1239-1-8-1,,mouk1239-1,8,lumetli,lumetli,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mouk1239-1-9-1,,mouk1239-1,9,lumesnal,lumesnal,[],( 5 + 4 ),['chan2019'],,False,False,,1
+mouk1239-1-10-1,,mouk1239-1,10,soŋotno,soŋotno,[],,['chan2019'],,False,False,,1
+mouk1239-1-11-1,,mouk1239-1,11,soŋotno kaine,soŋotno kaine,[],,['chan2019'],,False,False,,1
+mouk1239-1-12-1,,mouk1239-1,12,soŋotno oxuo,soŋotno oxuo,[],,['chan2019'],,False,False,,1
+mouk1239-1-13-1,,mouk1239-1,13,soŋotno etli,soŋotno etli,[],,['chan2019'],,False,False,,1
+mouk1239-1-14-1,,mouk1239-1,14,soŋotno apeinal,soŋotno apeinal,[],,['chan2019'],,False,False,,1
+mouk1239-1-15-1,,mouk1239-1,15,soŋotno elme,soŋotno elme,[],,['chan2019'],,False,False,,1
+mouk1239-1-16-1,,mouk1239-1,16,soŋotno lumakaine,soŋotno lumakaine,[],,['chan2019'],,False,False,,1
+mouk1239-1-17-1,,mouk1239-1,17,soŋotno lumaxuo,soŋotno lumaxuo,[],,['chan2019'],,False,False,,1
+mouk1239-1-18-1,,mouk1239-1,18,soŋotno lumetli,soŋotno lumetli,[],,['chan2019'],,False,False,,1
+mouk1239-1-19-1,,mouk1239-1,19,soŋotno lumesnal,soŋotno lumesnal,[],,['chan2019'],,False,False,,1
+mouk1239-1-20-1,,mouk1239-1,20,isoxuo,isoxuo,[],,['chan2019'],,False,False,,1
+mouk1239-1-21-1,,mouk1239-1,21,isoxuo kaine,isoxuo kaine,[],,['chan2019'],,False,False,,1
+mouk1239-1-22-1,,mouk1239-1,22,isoxuo oxuo,isoxuo oxuo,[],,['chan2019'],,False,False,,1
+mouk1239-1-23-1,,mouk1239-1,23,isoxuo etli,isoxuo etli,[],,['chan2019'],,False,False,,1
+mouk1239-1-24-1,,mouk1239-1,24,isoxuo apeinal,isoxuo apeinal,[],,['chan2019'],,False,False,,1
+mouk1239-1-25-1,,mouk1239-1,25,isoxuo elme,isoxuo elme,[],,['chan2019'],,False,False,,1
+mouk1239-1-26-1,,mouk1239-1,26,isoxuo lumakaine,isoxuo lumakaine,[],,['chan2019'],,False,False,,1
+mouk1239-1-27-1,,mouk1239-1,27,isoxuo lumaxuo,isoxuo lumaxuo,[],,['chan2019'],,False,False,,1
+mouk1239-1-28-1,,mouk1239-1,28,isoxuo lumetli,isoxuo lumetli,[],,['chan2019'],,False,False,,1
+mouk1239-1-29-1,,mouk1239-1,29,isoxuo lumesnal,isoxuo lumesnal,[],,['chan2019'],,False,False,,1
+mouk1239-1-30-1,,mouk1239-1,30,isetli,isetli,[],,['chan2019'],,False,False,,1
+mouk1239-1-40-1,,mouk1239-1,40,isapeinal,isapeinal,[],,['chan2019'],,False,False,,1
+mouk1239-1-50-1,,mouk1239-1,50,iselme,iselme,[],,['chan2019'],,False,False,,1
+mouk1239-1-60-1,,mouk1239-1,60,iselme soŋotno,iselme soŋotno,[],( 50 + 10 ),['chan2019'],,False,False,,1
+mouk1239-1-70-1,,mouk1239-1,70,iselme isoxuo,iselme isoxuo,[],( 50 + 20 ),['chan2019'],,False,False,,1
+mouk1239-1-80-1,,mouk1239-1,80,iselme isetli,iselme isetli,[],( 50 + 30 ),['chan2019'],,False,False,,1
+mouk1239-1-90-1,,mouk1239-1,90,iselme isapeinal,iselme isapeinal,[],( 50 + 40 ),['chan2019'],,False,False,,1
+mouk1239-1-100-1,,mouk1239-1,100,buno,buno,[],,['chan2019'],,False,False,,1
+mouk1239-1-200-1,,mouk1239-1,200,buno oxuo,buno oxuo,[],,['chan2019'],,False,False,,1

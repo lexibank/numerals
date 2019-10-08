@@ -1,23 +1,23 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bedo1237-1-1-1,,bedo1237-1,1,sa,sa,[],,[],,False,False,,1
-bedo1237-1-2-1,,bedo1237-1,2,ru,ru,[],,[],,False,False,,1
-bedo1237-1-3-1,,bedo1237-1,3,taur,taur,[],,[],,False,False,,1
-bedo1237-1-4-1,,bedo1237-1,4,vat,vat,[],,[],,False,False,,1
-bedo1237-1-5-1,,bedo1237-1,5,rim,rim,[],,[],,False,False,,1
-bedo1237-1-6-1,,bedo1237-1,6,venam,venam,[],,[],,False,False,,1
-bedo1237-1-7-1,,bedo1237-1,7,nambatu,nambatu,[],( 6+1 ) ?,[],,False,False,,1
-bedo1237-1-8-1,,bedo1237-1,8,naaru,naaru,[],,[],,False,False,,1
-bedo1237-1-9-1,,bedo1237-1,9,nasuwa,nasuwa,[],,[],,False,False,,1
-bedo1237-1-10-1,,bedo1237-1,10,sambura,sambura,[],,[],,False,False,,1
-bedo1237-1-11-1,,bedo1237-1,11,sambura rese sa,sambura rese sa,[],,[],,False,False,,1
-bedo1237-1-12-1,,bedo1237-1,12,sambura rese ru,sambura rese ru,[],,[],,False,False,,1
-bedo1237-1-13-1,,bedo1237-1,13,sambura rese taur,sambura rese taur,[],,[],,False,False,,1
-bedo1237-1-14-1,,bedo1237-1,14,sambura rese vat,sambura rese vat,[],,[],,False,False,,1
-bedo1237-1-15-1,,bedo1237-1,15,sambura rese rim,sambura rese rim,[],,[],,False,False,,1
-bedo1237-1-16-1,,bedo1237-1,16,sambura rese venam,sambura rese venam,[],,[],,False,False,,1
-bedo1237-1-17-1,,bedo1237-1,17,sambura rese nambatu,sambura rese nambatu,[],,[],,False,False,,1
-bedo1237-1-18-1,,bedo1237-1,18,sambura rese naaru,sambura rese naaru,[],,[],,False,False,,1
-bedo1237-1-19-1,,bedo1237-1,19,sambura rese nasuwa,sambura rese nasuwa,[],,[],,False,False,,1
-bedo1237-1-20-1,,bedo1237-1,20,sinjou sa,sinjou sa,[],( litː 'man one') ?,[],,False,False,,1
-bedo1237-1-30-1,,bedo1237-1,30,sinjou sambura,sinjou sambura,[],,[],,False,False,,1
-bedo1237-1-40-1,,bedo1237-1,40,sinjou ru,sinjou ru,[],( 20 x 2 ),[],,False,False,,1
+bedo1237-1-1-1,,bedo1237-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+bedo1237-1-2-1,,bedo1237-1,2,ru,ru,[],,['chan2019'],,False,False,,1
+bedo1237-1-3-1,,bedo1237-1,3,taur,taur,[],,['chan2019'],,False,False,,1
+bedo1237-1-4-1,,bedo1237-1,4,vat,vat,[],,['chan2019'],,False,False,,1
+bedo1237-1-5-1,,bedo1237-1,5,rim,rim,[],,['chan2019'],,False,False,,1
+bedo1237-1-6-1,,bedo1237-1,6,venam,venam,[],,['chan2019'],,False,False,,1
+bedo1237-1-7-1,,bedo1237-1,7,nambatu,nambatu,[],( 6+1 ) ?,['chan2019'],,False,False,,1
+bedo1237-1-8-1,,bedo1237-1,8,naaru,naaru,[],,['chan2019'],,False,False,,1
+bedo1237-1-9-1,,bedo1237-1,9,nasuwa,nasuwa,[],,['chan2019'],,False,False,,1
+bedo1237-1-10-1,,bedo1237-1,10,sambura,sambura,[],,['chan2019'],,False,False,,1
+bedo1237-1-11-1,,bedo1237-1,11,sambura rese sa,sambura rese sa,[],,['chan2019'],,False,False,,1
+bedo1237-1-12-1,,bedo1237-1,12,sambura rese ru,sambura rese ru,[],,['chan2019'],,False,False,,1
+bedo1237-1-13-1,,bedo1237-1,13,sambura rese taur,sambura rese taur,[],,['chan2019'],,False,False,,1
+bedo1237-1-14-1,,bedo1237-1,14,sambura rese vat,sambura rese vat,[],,['chan2019'],,False,False,,1
+bedo1237-1-15-1,,bedo1237-1,15,sambura rese rim,sambura rese rim,[],,['chan2019'],,False,False,,1
+bedo1237-1-16-1,,bedo1237-1,16,sambura rese venam,sambura rese venam,[],,['chan2019'],,False,False,,1
+bedo1237-1-17-1,,bedo1237-1,17,sambura rese nambatu,sambura rese nambatu,[],,['chan2019'],,False,False,,1
+bedo1237-1-18-1,,bedo1237-1,18,sambura rese naaru,sambura rese naaru,[],,['chan2019'],,False,False,,1
+bedo1237-1-19-1,,bedo1237-1,19,sambura rese nasuwa,sambura rese nasuwa,[],,['chan2019'],,False,False,,1
+bedo1237-1-20-1,,bedo1237-1,20,sinjou sa,sinjou sa,[],( litː 'man one') ?,['chan2019'],,False,False,,1
+bedo1237-1-30-1,,bedo1237-1,30,sinjou sambura,sinjou sambura,[],,['chan2019'],,False,False,,1
+bedo1237-1-40-1,,bedo1237-1,40,sinjou ru,sinjou ru,[],( 20 x 2 ),['chan2019'],,False,False,,1

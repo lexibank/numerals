@@ -1,68 +1,68 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chep1245-1-1-1,,chep1245-1,1,yāt.joʔ,yāt.joʔ,[],,[],,False,False,,1
-chep1245-1-2-1,,chep1245-1,2,nis.joʔ,nis.joʔ,[],,[],,False,False,,1
-chep1245-1-3-1,,chep1245-1,3,sum.joʔ,sum.joʔ,[],,[],,False,False,,1
-chep1245-1-4-1,,chep1245-1,4,pləy.joʔ.,pləy.joʔ.,[],,[],,False,False,,1
-chep1245-1-5-1,,chep1245-1,5,poŋa.joʔ,poŋa.joʔ,[],,[],,False,False,,1
-chep1245-1-6-1,,chep1245-1,6,cha.gotā,cha.gotā,[],( < Nepali ),[],,True,False,,1
-chep1245-1-6-2,,chep1245-1,6,kruk,kruk,[],,[],,False,False,,1
-chep1245-1-7-1,,chep1245-1,7,sāt.gotā,sāt.gotā,[],,[],,False,False,,1
-chep1245-1-7-2,,chep1245-1,7,cana,cana,[],,[],,False,False,,1
-chep1245-1-8-1,,chep1245-1,8,ʔāʈʰ.gotā,ʔāʈʰ.gotā,[],,[],,False,False,,1
-chep1245-1-8-2,,chep1245-1,8,prek,prek,[],,[],,False,False,,1
-chep1245-1-9-1,,chep1245-1,9,naw.gotā,naw.gotā,[],,[],,False,False,,1
-chep1245-1-9-2,,chep1245-1,9,taɡu,taɡu,[],,[],,False,False,,1
-chep1245-1-10-1,,chep1245-1,10,das.gotā,das.gotā,[],,[],,False,False,,1
-chep1245-1-10-2,,chep1245-1,10,ji,ji,[],,[],,False,False,,1
-chep1245-1-11-1,,chep1245-1,11,eghāra,eghāra,[],,[],,False,False,,1
-chep1245-1-11-2,,chep1245-1,11,hlukum,hlukum,[],,[],,False,False,,1
-chep1245-1-12-1,,chep1245-1,12,bāra,bāra,[],,[],,False,False,,1
-chep1245-1-12-2,,chep1245-1,12,trak,trak,[],,[],,False,False,,1
-chep1245-1-12-3,,chep1245-1,12,haːle,haːle,[],,[],,False,False,,1
-chep1245-1-13-1,,chep1245-1,13,tera,tera,[],,[],,False,False,,1
-chep1245-1-13-2,,chep1245-1,13,yāt hāle yāt joʔ,yāt hāle yāt joʔ,[],( 12 + 1 ),[],,False,False,,1
-chep1245-1-14-1,,chep1245-1,14,chaudʰa,chaudʰa,[],,[],,False,False,,1
-chep1245-1-14-2,,chep1245-1,14,yāt hāle nis joʔ,yāt hāle nis joʔ,[],,[],,False,False,,1
-chep1245-1-15-1,,chep1245-1,15,pandʰara,pandʰara,[],,[],,False,False,,1
-chep1245-1-15-2,,chep1245-1,15,yāt hāle sum joʔ,yāt hāle sum joʔ,[],,[],,False,False,,1
-chep1245-1-16-1,,chep1245-1,16,sora,sora,[],,[],,False,False,,1
-chep1245-1-16-2,,chep1245-1,16,yāt hāle pləy joʔ,yāt hāle pləy joʔ,[],,[],,False,False,,1
-chep1245-1-17-1,,chep1245-1,17,satra,satra,[],,[],,False,False,,1
-chep1245-1-17-2,,chep1245-1,17,yāt hāle poŋa joʔ,yāt hāle poŋa joʔ,[],,[],,False,False,,1
-chep1245-1-18-1,,chep1245-1,18,athāra,athāra,[],,[],,False,False,,1
-chep1245-1-18-2,,chep1245-1,18,yāt hāle sāt.gotā,yāt hāle sāt.gotā,[],,[],,False,False,,1
-chep1245-1-19-1,,chep1245-1,19,unnais,unnais,[],,[],,False,False,,1
-chep1245-1-19-2,,chep1245-1,19,yāt hāle sāt.gotā,yāt hāle sāt.gotā,[],,[],,False,False,,1
-chep1245-1-20-1,,chep1245-1,20,bis,bis,[],,[],,False,False,,1
-chep1245-1-20-2,,chep1245-1,20,yāt hāle ʔāʈʰ.gotā,yāt hāle ʔāʈʰ.gotā,[],,[],,False,False,,1
-chep1245-1-21-1,,chep1245-1,21,ekkais,ekkais,[],,[],,False,False,,1
-chep1245-1-21-2,,chep1245-1,21,yāt hāle,yāt hāle,[],,[],,False,False,,1
-chep1245-1-22-1,,chep1245-1,22,bāis,bāis,[],,[],,False,False,,1
-chep1245-1-22-2,,chep1245-1,22,yāt hāle das.gotā,yāt hāle das.gotā,[],,[],,False,False,,1
-chep1245-1-23-1,,chep1245-1,23,teis,teis,[],,[],,False,False,,1
-chep1245-1-23-2,,chep1245-1,23,yāt hāle eghāra gotā,yāt hāle eghāra gotā,[],,[],,False,False,,1
-chep1245-1-24-1,,chep1245-1,24,chaubis,chaubis,[],,[],,False,False,,1
-chep1245-1-24-2,,chep1245-1,24,nis hāle,nis hāle,[],( 2 x 12 ),[],,False,False,,1
-chep1245-1-25-1,,chep1245-1,25,pacchis,pacchis,[],,[],,False,False,,1
-chep1245-1-25-2,,chep1245-1,25,nis hāle yāt joʔ,nis hāle yāt joʔ,[],,[],,False,False,,1
-chep1245-1-26-1,,chep1245-1,26,chabis,chabis,[],,[],,False,False,,1
-chep1245-1-26-2,,chep1245-1,26,nis hāle nis joʔ,nis hāle nis joʔ,[],,[],,False,False,,1
-chep1245-1-27-1,,chep1245-1,27,sattais,sattais,[],,[],,False,False,,1
-chep1245-1-27-2,,chep1245-1,27,nis hāle sum joʔ,nis hāle sum joʔ,[],,[],,False,False,,1
-chep1245-1-28-1,,chep1245-1,28,atthais,atthais,[],,[],,False,False,,1
-chep1245-1-28-2,,chep1245-1,28,nis hāle pləy joʔ,nis hāle pləy joʔ,[],,[],,False,False,,1
-chep1245-1-29-1,,chep1245-1,29,untis,untis,[],,[],,False,False,,1
-chep1245-1-29-2,,chep1245-1,29,nis hāle poŋa joʔ,nis hāle poŋa joʔ,[],,[],,False,False,,1
-chep1245-1-30-1,,chep1245-1,30,tis,tis,[],,[],,False,False,,1
-chep1245-1-30-2,,chep1245-1,30,nis hāle cha.gotā,nis hāle cha.gotā,[],,[],,False,False,,1
-chep1245-1-40-1,,chep1245-1,40,cālis,cālis,[],,[],,False,False,,1
-chep1245-1-40-2,,chep1245-1,40,pləy hāle nis joʔ,pləy hāle nis joʔ,[],,[],,False,False,,1
-chep1245-1-50-1,,chep1245-1,50,pacās,pacās,[],,[],,False,False,,1
-chep1245-1-60-1,,chep1245-1,60,sāʈʰi,sāʈʰi,[],,[],,False,False,,1
-chep1245-1-70-1,,chep1245-1,70,sattari,sattari,[],,[],,False,False,,1
-chep1245-1-80-1,,chep1245-1,80,asi,asi,[],,[],,False,False,,1
-chep1245-1-90-1,,chep1245-1,90,nabbe,nabbe,[],,[],,False,False,,1
-chep1245-1-100-1,,chep1245-1,100,se,se,[],,[],,False,False,,1
-chep1245-1-200-1,,chep1245-1,200,dui se,dui se,[],,[],,False,False,,1
-chep1245-1-1000-1,,chep1245-1,1000,hazār,hazār,[],,[],,False,False,,1
-chep1245-1-2000-1,,chep1245-1,2000,dui hazār,dui hazār,[],,[],,False,False,,1
+chep1245-1-1-1,,chep1245-1,1,yāt.joʔ,yāt.joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-2-1,,chep1245-1,2,nis.joʔ,nis.joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-3-1,,chep1245-1,3,sum.joʔ,sum.joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-4-1,,chep1245-1,4,pləy.joʔ.,pləy.joʔ.,[],,['chan2019'],,False,False,,1
+chep1245-1-5-1,,chep1245-1,5,poŋa.joʔ,poŋa.joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-6-1,,chep1245-1,6,cha.gotā,cha.gotā,[],( < Nepali ),['chan2019'],,True,False,,1
+chep1245-1-6-2,,chep1245-1,6,kruk,kruk,[],,['chan2019'],,False,False,,1
+chep1245-1-7-1,,chep1245-1,7,sāt.gotā,sāt.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-7-2,,chep1245-1,7,cana,cana,[],,['chan2019'],,False,False,,1
+chep1245-1-8-1,,chep1245-1,8,ʔāʈʰ.gotā,ʔāʈʰ.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-8-2,,chep1245-1,8,prek,prek,[],,['chan2019'],,False,False,,1
+chep1245-1-9-1,,chep1245-1,9,naw.gotā,naw.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-9-2,,chep1245-1,9,taɡu,taɡu,[],,['chan2019'],,False,False,,1
+chep1245-1-10-1,,chep1245-1,10,das.gotā,das.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-10-2,,chep1245-1,10,ji,ji,[],,['chan2019'],,False,False,,1
+chep1245-1-11-1,,chep1245-1,11,eghāra,eghāra,[],,['chan2019'],,False,False,,1
+chep1245-1-11-2,,chep1245-1,11,hlukum,hlukum,[],,['chan2019'],,False,False,,1
+chep1245-1-12-1,,chep1245-1,12,bāra,bāra,[],,['chan2019'],,False,False,,1
+chep1245-1-12-2,,chep1245-1,12,trak,trak,[],,['chan2019'],,False,False,,1
+chep1245-1-12-3,,chep1245-1,12,haːle,haːle,[],,['chan2019'],,False,False,,1
+chep1245-1-13-1,,chep1245-1,13,tera,tera,[],,['chan2019'],,False,False,,1
+chep1245-1-13-2,,chep1245-1,13,yāt hāle yāt joʔ,yāt hāle yāt joʔ,[],( 12 + 1 ),['chan2019'],,False,False,,1
+chep1245-1-14-1,,chep1245-1,14,chaudʰa,chaudʰa,[],,['chan2019'],,False,False,,1
+chep1245-1-14-2,,chep1245-1,14,yāt hāle nis joʔ,yāt hāle nis joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-15-1,,chep1245-1,15,pandʰara,pandʰara,[],,['chan2019'],,False,False,,1
+chep1245-1-15-2,,chep1245-1,15,yāt hāle sum joʔ,yāt hāle sum joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-16-1,,chep1245-1,16,sora,sora,[],,['chan2019'],,False,False,,1
+chep1245-1-16-2,,chep1245-1,16,yāt hāle pləy joʔ,yāt hāle pləy joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-17-1,,chep1245-1,17,satra,satra,[],,['chan2019'],,False,False,,1
+chep1245-1-17-2,,chep1245-1,17,yāt hāle poŋa joʔ,yāt hāle poŋa joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-18-1,,chep1245-1,18,athāra,athāra,[],,['chan2019'],,False,False,,1
+chep1245-1-18-2,,chep1245-1,18,yāt hāle sāt.gotā,yāt hāle sāt.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-19-1,,chep1245-1,19,unnais,unnais,[],,['chan2019'],,False,False,,1
+chep1245-1-19-2,,chep1245-1,19,yāt hāle sāt.gotā,yāt hāle sāt.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-20-1,,chep1245-1,20,bis,bis,[],,['chan2019'],,False,False,,1
+chep1245-1-20-2,,chep1245-1,20,yāt hāle ʔāʈʰ.gotā,yāt hāle ʔāʈʰ.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-21-1,,chep1245-1,21,ekkais,ekkais,[],,['chan2019'],,False,False,,1
+chep1245-1-21-2,,chep1245-1,21,yāt hāle,yāt hāle,[],,['chan2019'],,False,False,,1
+chep1245-1-22-1,,chep1245-1,22,bāis,bāis,[],,['chan2019'],,False,False,,1
+chep1245-1-22-2,,chep1245-1,22,yāt hāle das.gotā,yāt hāle das.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-23-1,,chep1245-1,23,teis,teis,[],,['chan2019'],,False,False,,1
+chep1245-1-23-2,,chep1245-1,23,yāt hāle eghāra gotā,yāt hāle eghāra gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-24-1,,chep1245-1,24,chaubis,chaubis,[],,['chan2019'],,False,False,,1
+chep1245-1-24-2,,chep1245-1,24,nis hāle,nis hāle,[],( 2 x 12 ),['chan2019'],,False,False,,1
+chep1245-1-25-1,,chep1245-1,25,pacchis,pacchis,[],,['chan2019'],,False,False,,1
+chep1245-1-25-2,,chep1245-1,25,nis hāle yāt joʔ,nis hāle yāt joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-26-1,,chep1245-1,26,chabis,chabis,[],,['chan2019'],,False,False,,1
+chep1245-1-26-2,,chep1245-1,26,nis hāle nis joʔ,nis hāle nis joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-27-1,,chep1245-1,27,sattais,sattais,[],,['chan2019'],,False,False,,1
+chep1245-1-27-2,,chep1245-1,27,nis hāle sum joʔ,nis hāle sum joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-28-1,,chep1245-1,28,atthais,atthais,[],,['chan2019'],,False,False,,1
+chep1245-1-28-2,,chep1245-1,28,nis hāle pləy joʔ,nis hāle pləy joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-29-1,,chep1245-1,29,untis,untis,[],,['chan2019'],,False,False,,1
+chep1245-1-29-2,,chep1245-1,29,nis hāle poŋa joʔ,nis hāle poŋa joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-30-1,,chep1245-1,30,tis,tis,[],,['chan2019'],,False,False,,1
+chep1245-1-30-2,,chep1245-1,30,nis hāle cha.gotā,nis hāle cha.gotā,[],,['chan2019'],,False,False,,1
+chep1245-1-40-1,,chep1245-1,40,cālis,cālis,[],,['chan2019'],,False,False,,1
+chep1245-1-40-2,,chep1245-1,40,pləy hāle nis joʔ,pləy hāle nis joʔ,[],,['chan2019'],,False,False,,1
+chep1245-1-50-1,,chep1245-1,50,pacās,pacās,[],,['chan2019'],,False,False,,1
+chep1245-1-60-1,,chep1245-1,60,sāʈʰi,sāʈʰi,[],,['chan2019'],,False,False,,1
+chep1245-1-70-1,,chep1245-1,70,sattari,sattari,[],,['chan2019'],,False,False,,1
+chep1245-1-80-1,,chep1245-1,80,asi,asi,[],,['chan2019'],,False,False,,1
+chep1245-1-90-1,,chep1245-1,90,nabbe,nabbe,[],,['chan2019'],,False,False,,1
+chep1245-1-100-1,,chep1245-1,100,se,se,[],,['chan2019'],,False,False,,1
+chep1245-1-200-1,,chep1245-1,200,dui se,dui se,[],,['chan2019'],,False,False,,1
+chep1245-1-1000-1,,chep1245-1,1000,hazār,hazār,[],,['chan2019'],,False,False,,1
+chep1245-1-2000-1,,chep1245-1,2000,dui hazār,dui hazār,[],,['chan2019'],,False,False,,1

@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yagn1238-1-1-1,,yagn1238-1,1,i,i,[],,[],,False,False,,1
-yagn1238-1-2-1,,yagn1238-1,2,du,du,[],,[],,False,False,,1
-yagn1238-1-3-1,,yagn1238-1,3,saɾai,saɾai,[],,[],,False,False,,1
-yagn1238-1-3-2,,yagn1238-1,3,tiɾai,tiɾai,[],( east / west dialect ),[],,False,False,,1
-yagn1238-1-4-1,,yagn1238-1,4,tᵊfoɾ,tᵊfoɾ,[],,[],,False,False,,1
-yagn1238-1-5-1,,yagn1238-1,5,pant͡ʃ,pant͡ʃ,[],,[],,False,False,,1
-yagn1238-1-6-1,,yagn1238-1,6,uxʃ,uxʃ,[],,[],,False,False,,1
-yagn1238-1-7-1,,yagn1238-1,7,avd,avd,[],,[],,False,False,,1
-yagn1238-1-8-1,,yagn1238-1,8,aʃt,aʃt,[],,[],,False,False,,1
-yagn1238-1-9-1,,yagn1238-1,9,naw,naw,[],,[],,False,False,,1
-yagn1238-1-10-1,,yagn1238-1,10,daʃ,daʃ,[],,[],,False,False,,1
-yagn1238-1-11-1,,yagn1238-1,11,jozdah,jozdah,[],( 11 up from Tajik),[],,False,False,,1
-yagn1238-1-12-1,,yagn1238-1,12,duvozdah,duvozdah,[],,[],,False,False,,1
-yagn1238-1-13-1,,yagn1238-1,13,sɛnzdah,sɛnzdah,[],,[],,False,False,,1
-yagn1238-1-14-1,,yagn1238-1,14,t͡ʃoɾdah,t͡ʃoɾdah,[],,[],,False,False,,1
-yagn1238-1-15-1,,yagn1238-1,15,ponzdah,ponzdah,[],,[],,False,False,,1
-yagn1238-1-16-1,,yagn1238-1,16,ʃonzdah,ʃonzdah,[],,[],,False,False,,1
-yagn1238-1-17-1,,yagn1238-1,17,habdah,habdah,[],,[],,False,False,,1
-yagn1238-1-18-1,,yagn1238-1,18,haʒdah,haʒdah,[],,[],,False,False,,1
-yagn1238-1-19-1,,yagn1238-1,19,nuzdah,nuzdah,[],,[],,False,False,,1
-yagn1238-1-20-1,,yagn1238-1,20,bist,bist,[],,[],,False,False,,1
-yagn1238-1-21-1,,yagn1238-1,21,bistujak,bistujak,[],,[],,False,False,,1
-yagn1238-1-22-1,,yagn1238-1,22,bistudu,bistudu,[],,[],,False,False,,1
-yagn1238-1-23-1,,yagn1238-1,23,bistusɛ,bistusɛ,[],,[],,False,False,,1
-yagn1238-1-24-1,,yagn1238-1,24,bistut͡ʃoɾ,bistut͡ʃoɾ,[],,[],,False,False,,1
-yagn1238-1-25-1,,yagn1238-1,25,bistupant͡ʃ,bistupant͡ʃ,[],,[],,False,False,,1
-yagn1238-1-26-1,,yagn1238-1,26,bistuʃaʃ,bistuʃaʃ,[],,[],,False,False,,1
-yagn1238-1-27-1,,yagn1238-1,27,bistuhaft,bistuhaft,[],,[],,False,False,,1
-yagn1238-1-28-1,,yagn1238-1,28,bistuhaʃt,bistuhaʃt,[],,[],,False,False,,1
-yagn1238-1-29-1,,yagn1238-1,29,bistunuh,bistunuh,[],,[],,False,False,,1
-yagn1238-1-30-1,,yagn1238-1,30,si,si,[],,[],,False,False,,1
-yagn1238-1-40-1,,yagn1238-1,40,t͡ʃil,t͡ʃil,[],,[],,False,False,,1
-yagn1238-1-50-1,,yagn1238-1,50,pandʃoh,pandʃoh,[],,[],,False,False,,1
-yagn1238-1-60-1,,yagn1238-1,60,ʃast,ʃast,[],,[],,False,False,,1
-yagn1238-1-70-1,,yagn1238-1,70,haftod,haftod,[],,[],,False,False,,1
-yagn1238-1-80-1,,yagn1238-1,80,haʃtod,haʃtod,[],,[],,False,False,,1
-yagn1238-1-90-1,,yagn1238-1,90,navad,navad,[],,[],,False,False,,1
-yagn1238-1-100-1,,yagn1238-1,100,sad,sad,[],,[],,False,False,,1
-yagn1238-1-200-1,,yagn1238-1,200,du saad,du saad,[],,[],,False,False,,1
-yagn1238-1-1000-1,,yagn1238-1,1000,hazoɾ,hazoɾ,[],,[],,False,False,,1
-yagn1238-1-2000-1,,yagn1238-1,2000,du hazoɾ,du hazoɾ,[],,[],,False,False,,1
+yagn1238-1-1-1,,yagn1238-1,1,i,i,[],,['chan2019'],,False,False,,1
+yagn1238-1-2-1,,yagn1238-1,2,du,du,[],,['chan2019'],,False,False,,1
+yagn1238-1-3-1,,yagn1238-1,3,saɾai,saɾai,[],,['chan2019'],,False,False,,1
+yagn1238-1-3-2,,yagn1238-1,3,tiɾai,tiɾai,[],( east / west dialect ),['chan2019'],,False,False,,1
+yagn1238-1-4-1,,yagn1238-1,4,tᵊfoɾ,tᵊfoɾ,[],,['chan2019'],,False,False,,1
+yagn1238-1-5-1,,yagn1238-1,5,pant͡ʃ,pant͡ʃ,[],,['chan2019'],,False,False,,1
+yagn1238-1-6-1,,yagn1238-1,6,uxʃ,uxʃ,[],,['chan2019'],,False,False,,1
+yagn1238-1-7-1,,yagn1238-1,7,avd,avd,[],,['chan2019'],,False,False,,1
+yagn1238-1-8-1,,yagn1238-1,8,aʃt,aʃt,[],,['chan2019'],,False,False,,1
+yagn1238-1-9-1,,yagn1238-1,9,naw,naw,[],,['chan2019'],,False,False,,1
+yagn1238-1-10-1,,yagn1238-1,10,daʃ,daʃ,[],,['chan2019'],,False,False,,1
+yagn1238-1-11-1,,yagn1238-1,11,jozdah,jozdah,[],( 11 up from Tajik),['chan2019'],,False,False,,1
+yagn1238-1-12-1,,yagn1238-1,12,duvozdah,duvozdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-13-1,,yagn1238-1,13,sɛnzdah,sɛnzdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-14-1,,yagn1238-1,14,t͡ʃoɾdah,t͡ʃoɾdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-15-1,,yagn1238-1,15,ponzdah,ponzdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-16-1,,yagn1238-1,16,ʃonzdah,ʃonzdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-17-1,,yagn1238-1,17,habdah,habdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-18-1,,yagn1238-1,18,haʒdah,haʒdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-19-1,,yagn1238-1,19,nuzdah,nuzdah,[],,['chan2019'],,False,False,,1
+yagn1238-1-20-1,,yagn1238-1,20,bist,bist,[],,['chan2019'],,False,False,,1
+yagn1238-1-21-1,,yagn1238-1,21,bistujak,bistujak,[],,['chan2019'],,False,False,,1
+yagn1238-1-22-1,,yagn1238-1,22,bistudu,bistudu,[],,['chan2019'],,False,False,,1
+yagn1238-1-23-1,,yagn1238-1,23,bistusɛ,bistusɛ,[],,['chan2019'],,False,False,,1
+yagn1238-1-24-1,,yagn1238-1,24,bistut͡ʃoɾ,bistut͡ʃoɾ,[],,['chan2019'],,False,False,,1
+yagn1238-1-25-1,,yagn1238-1,25,bistupant͡ʃ,bistupant͡ʃ,[],,['chan2019'],,False,False,,1
+yagn1238-1-26-1,,yagn1238-1,26,bistuʃaʃ,bistuʃaʃ,[],,['chan2019'],,False,False,,1
+yagn1238-1-27-1,,yagn1238-1,27,bistuhaft,bistuhaft,[],,['chan2019'],,False,False,,1
+yagn1238-1-28-1,,yagn1238-1,28,bistuhaʃt,bistuhaʃt,[],,['chan2019'],,False,False,,1
+yagn1238-1-29-1,,yagn1238-1,29,bistunuh,bistunuh,[],,['chan2019'],,False,False,,1
+yagn1238-1-30-1,,yagn1238-1,30,si,si,[],,['chan2019'],,False,False,,1
+yagn1238-1-40-1,,yagn1238-1,40,t͡ʃil,t͡ʃil,[],,['chan2019'],,False,False,,1
+yagn1238-1-50-1,,yagn1238-1,50,pandʃoh,pandʃoh,[],,['chan2019'],,False,False,,1
+yagn1238-1-60-1,,yagn1238-1,60,ʃast,ʃast,[],,['chan2019'],,False,False,,1
+yagn1238-1-70-1,,yagn1238-1,70,haftod,haftod,[],,['chan2019'],,False,False,,1
+yagn1238-1-80-1,,yagn1238-1,80,haʃtod,haʃtod,[],,['chan2019'],,False,False,,1
+yagn1238-1-90-1,,yagn1238-1,90,navad,navad,[],,['chan2019'],,False,False,,1
+yagn1238-1-100-1,,yagn1238-1,100,sad,sad,[],,['chan2019'],,False,False,,1
+yagn1238-1-200-1,,yagn1238-1,200,du saad,du saad,[],,['chan2019'],,False,False,,1
+yagn1238-1-1000-1,,yagn1238-1,1000,hazoɾ,hazoɾ,[],,['chan2019'],,False,False,,1
+yagn1238-1-2000-1,,yagn1238-1,2000,du hazoɾ,du hazoɾ,[],,['chan2019'],,False,False,,1

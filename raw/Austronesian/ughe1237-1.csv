@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ughe1237-1-1-1,,ughe1237-1,1,kaike,kaike,[],,[],,False,False,,1
-ughe1237-1-2-1,,ughe1237-1,2,rua,rua,[],,[],,False,False,,1
-ughe1237-1-3-1,,ughe1237-1,3,ŋeta,ŋeta,[],,[],,False,False,,1
-ughe1237-1-4-1,,ughe1237-1,4,made,made,[],,[],,False,False,,1
-ughe1237-1-5-1,,ughe1237-1,5,lima,lima,[],,[],,False,False,,1
-ughe1237-1-6-1,,ughe1237-1,6,vonomo,vonomo,[],,[],,False,False,,1
-ughe1237-1-7-1,,ughe1237-1,7,d͡ʒuata,d͡ʒuata,[],,[],,False,False,,1
-ughe1237-1-8-1,,ughe1237-1,8,alu,alu,[],,[],,False,False,,1
-ughe1237-1-9-1,,ughe1237-1,9,niki,niki,[],,[],,False,False,,1
-ughe1237-1-10-1,,ughe1237-1,10,maneɣe,maneɣe,[],,[],,False,False,,1
-ughe1237-1-11-1,,ughe1237-1,11,maneɣe meke,maneɣe meke,[],,[],,False,False,,1
-ughe1237-1-12-1,,ughe1237-1,12,maneɣe rua,maneɣe rua,[],,[],,False,False,,1
-ughe1237-1-13-1,,ughe1237-1,13,maneɣe ŋeta,maneɣe ŋeta,[],,[],,False,False,,1
-ughe1237-1-14-1,,ughe1237-1,14,maneɣe mada,maneɣe mada,[],,[],,False,False,,1
-ughe1237-1-15-1,,ughe1237-1,15,maneɣe lima,maneɣe lima,[],,[],,False,False,,1
-ughe1237-1-16-1,,ughe1237-1,16,maneɣe vonomo,maneɣe vonomo,[],,[],,False,False,,1
-ughe1237-1-17-1,,ughe1237-1,17,maneɣe d͡ʒuata,maneɣe d͡ʒuata,[],,[],,False,False,,1
-ughe1237-1-18-1,,ughe1237-1,18,maneɣe alu,maneɣe alu,[],,[],,False,False,,1
-ughe1237-1-19-1,,ughe1237-1,19,maneɣe niki,maneɣe niki,[],,[],,False,False,,1
-ughe1237-1-20-1,,ughe1237-1,20,siokona,siokona,[],,[],,False,False,,1
-ughe1237-1-21-1,,ughe1237-1,21,siokona meke,siokona meke,[],,[],,False,False,,1
-ughe1237-1-22-1,,ughe1237-1,22,siokona rua,siokona rua,[],,[],,False,False,,1
-ughe1237-1-23-1,,ughe1237-1,23,siokona ŋeta,siokona ŋeta,[],,[],,False,False,,1
-ughe1237-1-24-1,,ughe1237-1,24,siokona made,siokona made,[],,[],,False,False,,1
-ughe1237-1-25-1,,ughe1237-1,25,siokona lima,siokona lima,[],,[],,False,False,,1
-ughe1237-1-26-1,,ughe1237-1,26,siokona vonomo,siokona vonomo,[],,[],,False,False,,1
-ughe1237-1-27-1,,ughe1237-1,27,siokona d͡ʒuata,siokona d͡ʒuata,[],,[],,False,False,,1
-ughe1237-1-28-1,,ughe1237-1,28,siokona alu,siokona alu,[],,[],,False,False,,1
-ughe1237-1-29-1,,ughe1237-1,29,siokona niki,siokona niki,[],,[],,False,False,,1
-ughe1237-1-30-1,,ughe1237-1,30,ŋeta ŋawlu,ŋeta ŋawlu,[],,[],,False,False,,1
-ughe1237-1-40-1,,ughe1237-1,40,made ŋawlu,made ŋawlu,[],,[],,False,False,,1
-ughe1237-1-50-1,,ughe1237-1,50,lima ŋawlu,lima ŋawlu,[],,[],,False,False,,1
-ughe1237-1-60-1,,ughe1237-1,60,vonomo ŋawlu,vonomo ŋawlu,[],,[],,False,False,,1
-ughe1237-1-70-1,,ughe1237-1,70,d͡ʒuata ŋawlu,d͡ʒuata ŋawlu,[],,[],,False,False,,1
-ughe1237-1-80-1,,ughe1237-1,80,alu ŋawlu,alu ŋawlu,[],,[],,False,False,,1
-ughe1237-1-90-1,,ughe1237-1,90,niki ŋawlu,niki ŋawlu,[],,[],,False,False,,1
-ughe1237-1-100-1,,ughe1237-1,100,ɣoɣoto,ɣoɣoto,[],,[],,False,False,,1
-ughe1237-1-200-1,,ughe1237-1,200,rua ɣoɣoto,rua ɣoɣoto,[],,[],,False,False,,1
-ughe1237-1-1000-1,,ughe1237-1,1000,tina,tina,[],,[],,False,False,,1
-ughe1237-1-2000-1,,ughe1237-1,2000,rua tina,rua tina,[],,[],,False,False,,1
+ughe1237-1-1-1,,ughe1237-1,1,kaike,kaike,[],,['chan2019'],,False,False,,1
+ughe1237-1-2-1,,ughe1237-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+ughe1237-1-3-1,,ughe1237-1,3,ŋeta,ŋeta,[],,['chan2019'],,False,False,,1
+ughe1237-1-4-1,,ughe1237-1,4,made,made,[],,['chan2019'],,False,False,,1
+ughe1237-1-5-1,,ughe1237-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+ughe1237-1-6-1,,ughe1237-1,6,vonomo,vonomo,[],,['chan2019'],,False,False,,1
+ughe1237-1-7-1,,ughe1237-1,7,d͡ʒuata,d͡ʒuata,[],,['chan2019'],,False,False,,1
+ughe1237-1-8-1,,ughe1237-1,8,alu,alu,[],,['chan2019'],,False,False,,1
+ughe1237-1-9-1,,ughe1237-1,9,niki,niki,[],,['chan2019'],,False,False,,1
+ughe1237-1-10-1,,ughe1237-1,10,maneɣe,maneɣe,[],,['chan2019'],,False,False,,1
+ughe1237-1-11-1,,ughe1237-1,11,maneɣe meke,maneɣe meke,[],,['chan2019'],,False,False,,1
+ughe1237-1-12-1,,ughe1237-1,12,maneɣe rua,maneɣe rua,[],,['chan2019'],,False,False,,1
+ughe1237-1-13-1,,ughe1237-1,13,maneɣe ŋeta,maneɣe ŋeta,[],,['chan2019'],,False,False,,1
+ughe1237-1-14-1,,ughe1237-1,14,maneɣe mada,maneɣe mada,[],,['chan2019'],,False,False,,1
+ughe1237-1-15-1,,ughe1237-1,15,maneɣe lima,maneɣe lima,[],,['chan2019'],,False,False,,1
+ughe1237-1-16-1,,ughe1237-1,16,maneɣe vonomo,maneɣe vonomo,[],,['chan2019'],,False,False,,1
+ughe1237-1-17-1,,ughe1237-1,17,maneɣe d͡ʒuata,maneɣe d͡ʒuata,[],,['chan2019'],,False,False,,1
+ughe1237-1-18-1,,ughe1237-1,18,maneɣe alu,maneɣe alu,[],,['chan2019'],,False,False,,1
+ughe1237-1-19-1,,ughe1237-1,19,maneɣe niki,maneɣe niki,[],,['chan2019'],,False,False,,1
+ughe1237-1-20-1,,ughe1237-1,20,siokona,siokona,[],,['chan2019'],,False,False,,1
+ughe1237-1-21-1,,ughe1237-1,21,siokona meke,siokona meke,[],,['chan2019'],,False,False,,1
+ughe1237-1-22-1,,ughe1237-1,22,siokona rua,siokona rua,[],,['chan2019'],,False,False,,1
+ughe1237-1-23-1,,ughe1237-1,23,siokona ŋeta,siokona ŋeta,[],,['chan2019'],,False,False,,1
+ughe1237-1-24-1,,ughe1237-1,24,siokona made,siokona made,[],,['chan2019'],,False,False,,1
+ughe1237-1-25-1,,ughe1237-1,25,siokona lima,siokona lima,[],,['chan2019'],,False,False,,1
+ughe1237-1-26-1,,ughe1237-1,26,siokona vonomo,siokona vonomo,[],,['chan2019'],,False,False,,1
+ughe1237-1-27-1,,ughe1237-1,27,siokona d͡ʒuata,siokona d͡ʒuata,[],,['chan2019'],,False,False,,1
+ughe1237-1-28-1,,ughe1237-1,28,siokona alu,siokona alu,[],,['chan2019'],,False,False,,1
+ughe1237-1-29-1,,ughe1237-1,29,siokona niki,siokona niki,[],,['chan2019'],,False,False,,1
+ughe1237-1-30-1,,ughe1237-1,30,ŋeta ŋawlu,ŋeta ŋawlu,[],,['chan2019'],,False,False,,1
+ughe1237-1-40-1,,ughe1237-1,40,made ŋawlu,made ŋawlu,[],,['chan2019'],,False,False,,1
+ughe1237-1-50-1,,ughe1237-1,50,lima ŋawlu,lima ŋawlu,[],,['chan2019'],,False,False,,1
+ughe1237-1-60-1,,ughe1237-1,60,vonomo ŋawlu,vonomo ŋawlu,[],,['chan2019'],,False,False,,1
+ughe1237-1-70-1,,ughe1237-1,70,d͡ʒuata ŋawlu,d͡ʒuata ŋawlu,[],,['chan2019'],,False,False,,1
+ughe1237-1-80-1,,ughe1237-1,80,alu ŋawlu,alu ŋawlu,[],,['chan2019'],,False,False,,1
+ughe1237-1-90-1,,ughe1237-1,90,niki ŋawlu,niki ŋawlu,[],,['chan2019'],,False,False,,1
+ughe1237-1-100-1,,ughe1237-1,100,ɣoɣoto,ɣoɣoto,[],,['chan2019'],,False,False,,1
+ughe1237-1-200-1,,ughe1237-1,200,rua ɣoɣoto,rua ɣoɣoto,[],,['chan2019'],,False,False,,1
+ughe1237-1-1000-1,,ughe1237-1,1000,tina,tina,[],,['chan2019'],,False,False,,1
+ughe1237-1-2000-1,,ughe1237-1,2000,rua tina,rua tina,[],,['chan2019'],,False,False,,1

@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-khan1273-1-1-1,,khan1273-1,1,əj,əj,[],,[],,False,False,,1
-khan1273-1-2-1,,khan1273-1,2,kætkən,kætkən,[],,[],,False,False,,1
-khan1273-1-3-1,,khan1273-1,3,qoləm,qoləm,[],,[],,False,False,,1
-khan1273-1-4-1,,khan1273-1,4,næləm,næləm,[],,[],,False,False,,1
-khan1273-1-5-1,,khan1273-1,5,wet,wet,[],,[],,False,False,,1
-khan1273-1-6-1,,khan1273-1,6,qut,qut,[],,[],,False,False,,1
-khan1273-1-7-1,,khan1273-1,7,læwət,læwət,[],,[],,False,False,,1
-khan1273-1-7-2,,khan1273-1,7,jæwət,jæwət,[],,[],,False,False,,1
-khan1273-1-8-1,,khan1273-1,8,nɨləɣ,nɨləɣ,[],,[],,False,False,,1
-khan1273-1-9-1,,khan1273-1,9,əjərjøŋ,əjərjøŋ,[],( 1 more towards 10),[],,False,False,,1
-khan1273-1-10-1,,khan1273-1,10,jøŋ,jøŋ,[],,[],,False,False,,1
-khan1273-1-11-1,,khan1273-1,11,jøŋərki əj,jøŋərki əj,[],,[],,False,False,,1
-khan1273-1-12-1,,khan1273-1,12,jøŋərki kætkən,jøŋərki kætkən,[],,[],,False,False,,1
-khan1273-1-13-1,,khan1273-1,13,jøŋərki qoləm,jøŋərki qoləm,[],,[],,False,False,,1
-khan1273-1-14-1,,khan1273-1,14,jøŋərki næləm,jøŋərki næləm,[],,[],,False,False,,1
-khan1273-1-15-1,,khan1273-1,15,jøŋərki wet,jøŋərki wet,[],,[],,False,False,,1
-khan1273-1-16-1,,khan1273-1,16,jøŋərki qut,jøŋərki qut,[],,[],,False,False,,1
-khan1273-1-17-1,,khan1273-1,17,jøŋərki læwət,jøŋərki læwət,[],,[],,False,False,,1
-khan1273-1-17-2,,khan1273-1,17,jøŋərki jæwət,jøŋərki jæwət,[],,[],,False,False,,1
-khan1273-1-18-1,,khan1273-1,18,jøŋərki nɨləɣ,jøŋərki nɨləɣ,[],,[],,False,False,,1
-khan1273-1-19-1,,khan1273-1,19,əjərqos,əjərqos,[],( 1 more towards 20),[],,False,False,,1
-khan1273-1-20-1,,khan1273-1,20,qos,qos,[],,[],,False,False,,1
-khan1273-1-21-1,,khan1273-1,21,qosərki əj,qosərki əj,[],,[],,False,False,,1
-khan1273-1-22-1,,khan1273-1,22,qosərki kætkən,qosərki kætkən,[],,[],,False,False,,1
-khan1273-1-23-1,,khan1273-1,23,qosərki qoləm,qosərki qoləm,[],,[],,False,False,,1
-khan1273-1-24-1,,khan1273-1,24,qosərki næləm,qosərki næləm,[],,[],,False,False,,1
-khan1273-1-25-1,,khan1273-1,25,qosərki wet,qosərki wet,[],,[],,False,False,,1
-khan1273-1-26-1,,khan1273-1,26,qosərki qut,qosərki qut,[],,[],,False,False,,1
-khan1273-1-27-1,,khan1273-1,27,qosərki læwət,qosərki læwət,[],,[],,False,False,,1
-khan1273-1-27-2,,khan1273-1,27,qosərki jæwət,qosərki jæwət,[],,[],,False,False,,1
-khan1273-1-28-1,,khan1273-1,28,qosərki nɨləɣ,qosərki nɨləɣ,[],,[],,False,False,,1
-khan1273-1-29-1,,khan1273-1,29,qosərki əjərqoləmjøŋ,qosərki əjərqoləmjøŋ,[],,[],,False,False,,1
-khan1273-1-30-1,,khan1273-1,30,qøɬəmjøŋ,qøɬəmjøŋ,[],,[],,False,False,,1
-khan1273-1-40-1,,khan1273-1,40,næləɣjøŋ,næləɣjøŋ,[],,[],,False,False,,1
-khan1273-1-50-1,,khan1273-1,50,wetjøŋ,wetjøŋ,[],,[],,False,False,,1
-khan1273-1-60-1,,khan1273-1,60,qutjøŋ,qutjøŋ,[],,[],,False,False,,1
-khan1273-1-70-1,,khan1273-1,70,læwetjøŋ,læwetjøŋ,[],,[],,False,False,,1
-khan1273-1-70-2,,khan1273-1,70,jæwetjøŋ,jæwetjøŋ,[],,[],,False,False,,1
-khan1273-1-80-1,,khan1273-1,80,nɨlsat,nɨlsat,[],( eight towards 100),[],,False,False,,1
-khan1273-1-90-1,,khan1273-1,90,əjərsat,əjərsat,[],(one more decimal towards 100),[],,False,False,,1
-khan1273-1-100-1,,khan1273-1,100,sat,sat,[],,[],,False,False,,1
-khan1273-1-200-1,,khan1273-1,200,kætsatqən,kætsatqən,[],,[],,False,False,,1
-khan1273-1-1000-1,,khan1273-1,1000,tərəs,tərəs,[],,[],,False,False,,1
+khan1273-1-1-1,,khan1273-1,1,əj,əj,[],,['chan2019'],,False,False,,1
+khan1273-1-2-1,,khan1273-1,2,kætkən,kætkən,[],,['chan2019'],,False,False,,1
+khan1273-1-3-1,,khan1273-1,3,qoləm,qoləm,[],,['chan2019'],,False,False,,1
+khan1273-1-4-1,,khan1273-1,4,næləm,næləm,[],,['chan2019'],,False,False,,1
+khan1273-1-5-1,,khan1273-1,5,wet,wet,[],,['chan2019'],,False,False,,1
+khan1273-1-6-1,,khan1273-1,6,qut,qut,[],,['chan2019'],,False,False,,1
+khan1273-1-7-1,,khan1273-1,7,læwət,læwət,[],,['chan2019'],,False,False,,1
+khan1273-1-7-2,,khan1273-1,7,jæwət,jæwət,[],,['chan2019'],,False,False,,1
+khan1273-1-8-1,,khan1273-1,8,nɨləɣ,nɨləɣ,[],,['chan2019'],,False,False,,1
+khan1273-1-9-1,,khan1273-1,9,əjərjøŋ,əjərjøŋ,[],( 1 more towards 10),['chan2019'],,False,False,,1
+khan1273-1-10-1,,khan1273-1,10,jøŋ,jøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-11-1,,khan1273-1,11,jøŋərki əj,jøŋərki əj,[],,['chan2019'],,False,False,,1
+khan1273-1-12-1,,khan1273-1,12,jøŋərki kætkən,jøŋərki kætkən,[],,['chan2019'],,False,False,,1
+khan1273-1-13-1,,khan1273-1,13,jøŋərki qoləm,jøŋərki qoləm,[],,['chan2019'],,False,False,,1
+khan1273-1-14-1,,khan1273-1,14,jøŋərki næləm,jøŋərki næləm,[],,['chan2019'],,False,False,,1
+khan1273-1-15-1,,khan1273-1,15,jøŋərki wet,jøŋərki wet,[],,['chan2019'],,False,False,,1
+khan1273-1-16-1,,khan1273-1,16,jøŋərki qut,jøŋərki qut,[],,['chan2019'],,False,False,,1
+khan1273-1-17-1,,khan1273-1,17,jøŋərki læwət,jøŋərki læwət,[],,['chan2019'],,False,False,,1
+khan1273-1-17-2,,khan1273-1,17,jøŋərki jæwət,jøŋərki jæwət,[],,['chan2019'],,False,False,,1
+khan1273-1-18-1,,khan1273-1,18,jøŋərki nɨləɣ,jøŋərki nɨləɣ,[],,['chan2019'],,False,False,,1
+khan1273-1-19-1,,khan1273-1,19,əjərqos,əjərqos,[],( 1 more towards 20),['chan2019'],,False,False,,1
+khan1273-1-20-1,,khan1273-1,20,qos,qos,[],,['chan2019'],,False,False,,1
+khan1273-1-21-1,,khan1273-1,21,qosərki əj,qosərki əj,[],,['chan2019'],,False,False,,1
+khan1273-1-22-1,,khan1273-1,22,qosərki kætkən,qosərki kætkən,[],,['chan2019'],,False,False,,1
+khan1273-1-23-1,,khan1273-1,23,qosərki qoləm,qosərki qoləm,[],,['chan2019'],,False,False,,1
+khan1273-1-24-1,,khan1273-1,24,qosərki næləm,qosərki næləm,[],,['chan2019'],,False,False,,1
+khan1273-1-25-1,,khan1273-1,25,qosərki wet,qosərki wet,[],,['chan2019'],,False,False,,1
+khan1273-1-26-1,,khan1273-1,26,qosərki qut,qosərki qut,[],,['chan2019'],,False,False,,1
+khan1273-1-27-1,,khan1273-1,27,qosərki læwət,qosərki læwət,[],,['chan2019'],,False,False,,1
+khan1273-1-27-2,,khan1273-1,27,qosərki jæwət,qosərki jæwət,[],,['chan2019'],,False,False,,1
+khan1273-1-28-1,,khan1273-1,28,qosərki nɨləɣ,qosərki nɨləɣ,[],,['chan2019'],,False,False,,1
+khan1273-1-29-1,,khan1273-1,29,qosərki əjərqoləmjøŋ,qosərki əjərqoləmjøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-30-1,,khan1273-1,30,qøɬəmjøŋ,qøɬəmjøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-40-1,,khan1273-1,40,næləɣjøŋ,næləɣjøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-50-1,,khan1273-1,50,wetjøŋ,wetjøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-60-1,,khan1273-1,60,qutjøŋ,qutjøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-70-1,,khan1273-1,70,læwetjøŋ,læwetjøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-70-2,,khan1273-1,70,jæwetjøŋ,jæwetjøŋ,[],,['chan2019'],,False,False,,1
+khan1273-1-80-1,,khan1273-1,80,nɨlsat,nɨlsat,[],( eight towards 100),['chan2019'],,False,False,,1
+khan1273-1-90-1,,khan1273-1,90,əjərsat,əjərsat,[],(one more decimal towards 100),['chan2019'],,False,False,,1
+khan1273-1-100-1,,khan1273-1,100,sat,sat,[],,['chan2019'],,False,False,,1
+khan1273-1-200-1,,khan1273-1,200,kætsatqən,kætsatqən,[],,['chan2019'],,False,False,,1
+khan1273-1-1000-1,,khan1273-1,1000,tərəs,tərəs,[],,['chan2019'],,False,False,,1

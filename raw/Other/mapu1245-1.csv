@@ -1,63 +1,63 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mapu1245-1-1-1,,mapu1245-1,1,kiñe,kiñe,[],,[],,False,False,,1
-mapu1245-1-1-2,,mapu1245-1,1,kiɲe,kiɲe,[],,[],,False,False,,1
-mapu1245-1-2-1,,mapu1245-1,2,epu,epu,[],,[],,False,False,,1
-mapu1245-1-2-2,,mapu1245-1,2,epu,epu,[],,[],,False,False,,1
-mapu1245-1-3-1,,mapu1245-1,3,küla,küla,[],,[],,False,False,,1
-mapu1245-1-3-2,,mapu1245-1,3,kɨla,kɨla,[],,[],,False,False,,1
-mapu1245-1-3-3,,mapu1245-1,3,or,or,[],,[],,False,True,,1
-mapu1245-1-3-4,,mapu1245-1,3,kɯla,kɯla,[],,[],,False,False,,1
-mapu1245-1-4-1,,mapu1245-1,4,meli,meli,[],,[],,False,False,,1
-mapu1245-1-4-2,,mapu1245-1,4,meli,meli,[],,[],,False,False,,1
-mapu1245-1-5-1,,mapu1245-1,5,kechu,kechu,[],,[],,False,False,,1
-mapu1245-1-5-2,,mapu1245-1,5,keču,keču,[],,[],,False,False,,1
-mapu1245-1-6-1,,mapu1245-1,6,kayu,kayu,[],,[],,False,False,,1
-mapu1245-1-6-2,,mapu1245-1,6,kaju,kaju,[],,[],,False,False,,1
-mapu1245-1-7-1,,mapu1245-1,7,reɡle,reɡle,[],,[],,False,False,,1
-mapu1245-1-7-2,,mapu1245-1,7,ɻeɰle,ɻeɰle,[],,[],,False,False,,1
-mapu1245-1-7-3,,mapu1245-1,7,or,or,[],,[],,False,True,,1
-mapu1245-1-7-4,,mapu1245-1,7,ɹeˠle,ɹeˠle,[],,[],,False,False,,1
-mapu1245-1-8-1,,mapu1245-1,8,pura,pura,[],,[],,False,False,,1
-mapu1245-1-8-2,,mapu1245-1,8,puɻa,puɻa,[],,[],,False,False,,1
-mapu1245-1-8-3,,mapu1245-1,8,or,or,[],,[],,False,True,,1
-mapu1245-1-8-4,,mapu1245-1,8,puɹa,puɹa,[],,[],,False,False,,1
-mapu1245-1-9-1,,mapu1245-1,9,ailla,ailla,[],,[],,False,False,,1
-mapu1245-1-9-2,,mapu1245-1,9,ajʎa,ajʎa,[],,[],,False,False,,1
-mapu1245-1-10-1,,mapu1245-1,10,mari,mari,[],,[],,False,False,,1
-mapu1245-1-10-2,,mapu1245-1,10,maɻi,maɻi,[],,[],,False,False,,1
-mapu1245-1-10-3,,mapu1245-1,10,or,or,[],,[],,False,True,,1
-mapu1245-1-10-4,,mapu1245-1,10,maɹi,maɹi,[],,[],,False,False,,1
-mapu1245-1-11-1,,mapu1245-1,11,mari,mari,[],,[],,False,False,,1
-mapu1245-1-11-2,,mapu1245-1,11,maɻi kiɲe,maɻi kiɲe,[],,[],,False,False,,1
-mapu1245-1-12-1,,mapu1245-1,12,mari epu,mari epu,[],,[],,False,False,,1
-mapu1245-1-13-1,,mapu1245-1,13,mari küla,mari küla,[],,[],,False,False,,1
-mapu1245-1-14-1,,mapu1245-1,14,mari meli,mari meli,[],,[],,False,False,,1
-mapu1245-1-15-1,,mapu1245-1,15,mari kechu,mari kechu,[],,[],,False,False,,1
-mapu1245-1-16-1,,mapu1245-1,16,mari kayu,mari kayu,[],,[],,False,False,,1
-mapu1245-1-17-1,,mapu1245-1,17,mari reɡle,mari reɡle,[],,[],,False,False,,1
-mapu1245-1-18-1,,mapu1245-1,18,mari pura,mari pura,[],,[],,False,False,,1
-mapu1245-1-19-1,,mapu1245-1,19,mari ailla,mari ailla,[],,[],,False,False,,1
-mapu1245-1-20-1,,mapu1245-1,20,epu mari,epu mari,[],,[],,False,False,,1
-mapu1245-1-20-2,,mapu1245-1,20,epu maɻi ],epu maɻi ],[],,[],,False,True,,1
-mapu1245-1-21-1,,mapu1245-1,21,epu mari kiñe,epu mari kiñe,[],,[],,False,False,,1
-mapu1245-1-22-1,,mapu1245-1,22,epu mari epu,epu mari epu,[],,[],,False,False,,1
-mapu1245-1-23-1,,mapu1245-1,23,epu mari küla,epu mari küla,[],,[],,False,False,,1
-mapu1245-1-24-1,,mapu1245-1,24,epu mari meli,epu mari meli,[],,[],,False,False,,1
-mapu1245-1-25-1,,mapu1245-1,25,epu mari kechu,epu mari kechu,[],,[],,False,False,,1
-mapu1245-1-26-1,,mapu1245-1,26,epu mari kayu,epu mari kayu,[],,[],,False,False,,1
-mapu1245-1-27-1,,mapu1245-1,27,epu mari reɡle,epu mari reɡle,[],,[],,False,False,,1
-mapu1245-1-28-1,,mapu1245-1,28,epu mari pura,epu mari pura,[],,[],,False,False,,1
-mapu1245-1-29-1,,mapu1245-1,29,epu mari ailla,epu mari ailla,[],,[],,False,False,,1
-mapu1245-1-30-1,,mapu1245-1,30,küla mari,küla mari,[],,[],,False,False,,1
-mapu1245-1-40-1,,mapu1245-1,40,meli mari,meli mari,[],,[],,False,False,,1
-mapu1245-1-50-1,,mapu1245-1,50,kechu mari,kechu mari,[],,[],,False,False,,1
-mapu1245-1-60-1,,mapu1245-1,60,kayu mari,kayu mari,[],,[],,False,False,,1
-mapu1245-1-70-1,,mapu1245-1,70,reɡle mari,reɡle mari,[],,[],,False,False,,1
-mapu1245-1-80-1,,mapu1245-1,80,pura mari,pura mari,[],,[],,False,False,,1
-mapu1245-1-90-1,,mapu1245-1,90,ailla mari,ailla mari,[],,[],,False,False,,1
-mapu1245-1-100-1,,mapu1245-1,100,pataka,pataka,[],( < Quechua ),[],,True,False,,1
-mapu1245-1-200-1,,mapu1245-1,200,epu pataka,epu pataka,[],,[],,False,False,,1
-mapu1245-1-1000-1,,mapu1245-1,1000,waranka,waranka,[],,[],,False,False,,1
-mapu1245-1-1000-2,,mapu1245-1,1000,waɽaŋka or mil,waɽaŋka or mil,[],,[],,False,True,,1
-mapu1245-1-1000-3,,mapu1245-1,1000,mil,mil,[],,[],,False,False,,1
-mapu1245-1-2000-1,,mapu1245-1,2000,epu waranka or epu mil,epu waranka or epu mil,[],,[],,False,True,,1
+mapu1245-1-1-1,,mapu1245-1,1,kiñe,kiñe,[],,['chan2019'],,False,False,,1
+mapu1245-1-1-2,,mapu1245-1,1,kiɲe,kiɲe,[],,['chan2019'],,False,False,,1
+mapu1245-1-2-1,,mapu1245-1,2,epu,epu,[],,['chan2019'],,False,False,,1
+mapu1245-1-2-2,,mapu1245-1,2,epu,epu,[],,['chan2019'],,False,False,,1
+mapu1245-1-3-1,,mapu1245-1,3,küla,küla,[],,['chan2019'],,False,False,,1
+mapu1245-1-3-2,,mapu1245-1,3,kɨla,kɨla,[],,['chan2019'],,False,False,,1
+mapu1245-1-3-3,,mapu1245-1,3,or,or,[],,['chan2019'],,False,True,,1
+mapu1245-1-3-4,,mapu1245-1,3,kɯla,kɯla,[],,['chan2019'],,False,False,,1
+mapu1245-1-4-1,,mapu1245-1,4,meli,meli,[],,['chan2019'],,False,False,,1
+mapu1245-1-4-2,,mapu1245-1,4,meli,meli,[],,['chan2019'],,False,False,,1
+mapu1245-1-5-1,,mapu1245-1,5,kechu,kechu,[],,['chan2019'],,False,False,,1
+mapu1245-1-5-2,,mapu1245-1,5,keču,keču,[],,['chan2019'],,False,False,,1
+mapu1245-1-6-1,,mapu1245-1,6,kayu,kayu,[],,['chan2019'],,False,False,,1
+mapu1245-1-6-2,,mapu1245-1,6,kaju,kaju,[],,['chan2019'],,False,False,,1
+mapu1245-1-7-1,,mapu1245-1,7,reɡle,reɡle,[],,['chan2019'],,False,False,,1
+mapu1245-1-7-2,,mapu1245-1,7,ɻeɰle,ɻeɰle,[],,['chan2019'],,False,False,,1
+mapu1245-1-7-3,,mapu1245-1,7,or,or,[],,['chan2019'],,False,True,,1
+mapu1245-1-7-4,,mapu1245-1,7,ɹeˠle,ɹeˠle,[],,['chan2019'],,False,False,,1
+mapu1245-1-8-1,,mapu1245-1,8,pura,pura,[],,['chan2019'],,False,False,,1
+mapu1245-1-8-2,,mapu1245-1,8,puɻa,puɻa,[],,['chan2019'],,False,False,,1
+mapu1245-1-8-3,,mapu1245-1,8,or,or,[],,['chan2019'],,False,True,,1
+mapu1245-1-8-4,,mapu1245-1,8,puɹa,puɹa,[],,['chan2019'],,False,False,,1
+mapu1245-1-9-1,,mapu1245-1,9,ailla,ailla,[],,['chan2019'],,False,False,,1
+mapu1245-1-9-2,,mapu1245-1,9,ajʎa,ajʎa,[],,['chan2019'],,False,False,,1
+mapu1245-1-10-1,,mapu1245-1,10,mari,mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-10-2,,mapu1245-1,10,maɻi,maɻi,[],,['chan2019'],,False,False,,1
+mapu1245-1-10-3,,mapu1245-1,10,or,or,[],,['chan2019'],,False,True,,1
+mapu1245-1-10-4,,mapu1245-1,10,maɹi,maɹi,[],,['chan2019'],,False,False,,1
+mapu1245-1-11-1,,mapu1245-1,11,mari,mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-11-2,,mapu1245-1,11,maɻi kiɲe,maɻi kiɲe,[],,['chan2019'],,False,False,,1
+mapu1245-1-12-1,,mapu1245-1,12,mari epu,mari epu,[],,['chan2019'],,False,False,,1
+mapu1245-1-13-1,,mapu1245-1,13,mari küla,mari küla,[],,['chan2019'],,False,False,,1
+mapu1245-1-14-1,,mapu1245-1,14,mari meli,mari meli,[],,['chan2019'],,False,False,,1
+mapu1245-1-15-1,,mapu1245-1,15,mari kechu,mari kechu,[],,['chan2019'],,False,False,,1
+mapu1245-1-16-1,,mapu1245-1,16,mari kayu,mari kayu,[],,['chan2019'],,False,False,,1
+mapu1245-1-17-1,,mapu1245-1,17,mari reɡle,mari reɡle,[],,['chan2019'],,False,False,,1
+mapu1245-1-18-1,,mapu1245-1,18,mari pura,mari pura,[],,['chan2019'],,False,False,,1
+mapu1245-1-19-1,,mapu1245-1,19,mari ailla,mari ailla,[],,['chan2019'],,False,False,,1
+mapu1245-1-20-1,,mapu1245-1,20,epu mari,epu mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-20-2,,mapu1245-1,20,epu maɻi ],epu maɻi ],[],,['chan2019'],,False,True,,1
+mapu1245-1-21-1,,mapu1245-1,21,epu mari kiñe,epu mari kiñe,[],,['chan2019'],,False,False,,1
+mapu1245-1-22-1,,mapu1245-1,22,epu mari epu,epu mari epu,[],,['chan2019'],,False,False,,1
+mapu1245-1-23-1,,mapu1245-1,23,epu mari küla,epu mari küla,[],,['chan2019'],,False,False,,1
+mapu1245-1-24-1,,mapu1245-1,24,epu mari meli,epu mari meli,[],,['chan2019'],,False,False,,1
+mapu1245-1-25-1,,mapu1245-1,25,epu mari kechu,epu mari kechu,[],,['chan2019'],,False,False,,1
+mapu1245-1-26-1,,mapu1245-1,26,epu mari kayu,epu mari kayu,[],,['chan2019'],,False,False,,1
+mapu1245-1-27-1,,mapu1245-1,27,epu mari reɡle,epu mari reɡle,[],,['chan2019'],,False,False,,1
+mapu1245-1-28-1,,mapu1245-1,28,epu mari pura,epu mari pura,[],,['chan2019'],,False,False,,1
+mapu1245-1-29-1,,mapu1245-1,29,epu mari ailla,epu mari ailla,[],,['chan2019'],,False,False,,1
+mapu1245-1-30-1,,mapu1245-1,30,küla mari,küla mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-40-1,,mapu1245-1,40,meli mari,meli mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-50-1,,mapu1245-1,50,kechu mari,kechu mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-60-1,,mapu1245-1,60,kayu mari,kayu mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-70-1,,mapu1245-1,70,reɡle mari,reɡle mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-80-1,,mapu1245-1,80,pura mari,pura mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-90-1,,mapu1245-1,90,ailla mari,ailla mari,[],,['chan2019'],,False,False,,1
+mapu1245-1-100-1,,mapu1245-1,100,pataka,pataka,[],( < Quechua ),['chan2019'],,True,False,,1
+mapu1245-1-200-1,,mapu1245-1,200,epu pataka,epu pataka,[],,['chan2019'],,False,False,,1
+mapu1245-1-1000-1,,mapu1245-1,1000,waranka,waranka,[],,['chan2019'],,False,False,,1
+mapu1245-1-1000-2,,mapu1245-1,1000,waɽaŋka or mil,waɽaŋka or mil,[],,['chan2019'],,False,True,,1
+mapu1245-1-1000-3,,mapu1245-1,1000,mil,mil,[],,['chan2019'],,False,False,,1
+mapu1245-1-2000-1,,mapu1245-1,2000,epu waranka or epu mil,epu waranka or epu mil,[],,['chan2019'],,False,True,,1

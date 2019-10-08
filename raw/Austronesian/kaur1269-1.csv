@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kaur1269-1-1-1,,kaur1269-1,1,sikoʔ,sikoʔ,[],,[],,False,False,,1
-kaur1269-1-2-1,,kaur1269-1,2,duwə,duwə,[],,[],,False,False,,1
-kaur1269-1-3-1,,kaur1269-1,3,tiɡə,tiɡə,[],,[],,False,False,,1
-kaur1269-1-4-1,,kaur1269-1,4,m̩pat,m̩pat,[],,[],,False,False,,1
-kaur1269-1-5-1,,kaur1269-1,5,limə,limə,[],,[],,False,False,,1
-kaur1269-1-6-1,,kaur1269-1,6,n̩am,n̩am,[],,[],,False,False,,1
-kaur1269-1-7-1,,kaur1269-1,7,tud͡ʒo,tud͡ʒo,[],( j = IPA d͡ʒ),[],,False,False,,1
-kaur1269-1-8-1,,kaur1269-1,8,lapan,lapan,[],,[],,False,False,,1
-kaur1269-1-9-1,,kaur1269-1,9,səmbilan,səmbilan,[],,[],,False,False,,1
-kaur1269-1-10-1,,kaur1269-1,10,səpuloh,səpuloh,[],,[],,False,False,,1
-kaur1269-1-11-1,,kaur1269-1,11,səbəlas,səbəlas,[],,[],,False,False,,1
-kaur1269-1-100-1,,kaur1269-1,100,səʕatos,səʕatos,[],,[],,False,False,,1
-kaur1269-1-1000-1,,kaur1269-1,1000,səʕibu,səʕibu,[],,[],,False,False,,1
+kaur1269-1-1-1,,kaur1269-1,1,sikoʔ,sikoʔ,[],,['chan2019'],,False,False,,1
+kaur1269-1-2-1,,kaur1269-1,2,duwə,duwə,[],,['chan2019'],,False,False,,1
+kaur1269-1-3-1,,kaur1269-1,3,tiɡə,tiɡə,[],,['chan2019'],,False,False,,1
+kaur1269-1-4-1,,kaur1269-1,4,m̩pat,m̩pat,[],,['chan2019'],,False,False,,1
+kaur1269-1-5-1,,kaur1269-1,5,limə,limə,[],,['chan2019'],,False,False,,1
+kaur1269-1-6-1,,kaur1269-1,6,n̩am,n̩am,[],,['chan2019'],,False,False,,1
+kaur1269-1-7-1,,kaur1269-1,7,tud͡ʒo,tud͡ʒo,[],( j = IPA d͡ʒ),['chan2019'],,False,False,,1
+kaur1269-1-8-1,,kaur1269-1,8,lapan,lapan,[],,['chan2019'],,False,False,,1
+kaur1269-1-9-1,,kaur1269-1,9,səmbilan,səmbilan,[],,['chan2019'],,False,False,,1
+kaur1269-1-10-1,,kaur1269-1,10,səpuloh,səpuloh,[],,['chan2019'],,False,False,,1
+kaur1269-1-11-1,,kaur1269-1,11,səbəlas,səbəlas,[],,['chan2019'],,False,False,,1
+kaur1269-1-100-1,,kaur1269-1,100,səʕatos,səʕatos,[],,['chan2019'],,False,False,,1
+kaur1269-1-1000-1,,kaur1269-1,1000,səʕibu,səʕibu,[],,['chan2019'],,False,False,,1

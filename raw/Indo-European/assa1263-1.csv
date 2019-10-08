@@ -1,49 +1,49 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-assa1263-1-1-1,,assa1263-1,1,ɛk,ɛk,[],,[],,False,False,ek,1
-assa1263-1-2-1,,assa1263-1,2,dui,dui,[],,[],,False,False,dui,1
-assa1263-1-3-1,,assa1263-1,3,tini,tini,[],,[],,False,False,tini,1
-assa1263-1-4-1,,assa1263-1,4,sari,sari,[],,[],,False,False,sari,1
-assa1263-1-5-1,,assa1263-1,5,pãs,pãs,[],,[],,False,False,paas,1
-assa1263-1-6-1,,assa1263-1,6,sɔi,sɔi,[],,[],,False,False,sai,1
-assa1263-1-7-1,,assa1263-1,7,xat,xat,[],,[],,False,False,xaat,1
-assa1263-1-8-1,,assa1263-1,8,ãtʰ,ãtʰ,[],,[],,False,False,aath,1
-assa1263-1-8-2,,assa1263-1,8,atʰ,atʰ,[],,[],,False,False,,1
-assa1263-1-9-1,,assa1263-1,9,nɔ,nɔ,[],,[],,False,False,na,1
-assa1263-1-9-2,,assa1263-1,9,nɔu,nɔu,[],,[],,False,False,,1
-assa1263-1-10-1,,assa1263-1,10,dɔh,dɔh,[],,[],,False,False,dah,1
-assa1263-1-10-2,,assa1263-1,10,dɔs,dɔs,[],,[],,False,False,dos,1
-assa1263-1-11-1,,assa1263-1,11,ɛgʰarɔ,ɛgʰarɔ,[],,[],,False,False,eghaara,1
-assa1263-1-12-1,,assa1263-1,12,barɔ,barɔ,[],,[],,False,False,baara,1
-assa1263-1-13-1,,assa1263-1,13,tɛrɔ,tɛrɔ,[],,[],,False,False,tera,1
-assa1263-1-14-1,,assa1263-1,14,sɔiddʰɔ,sɔiddʰɔ,[],,[],,False,False,saiddha,1
-assa1263-1-15-1,,assa1263-1,15,pundʰɔrɔ,pundʰɔrɔ,[],,[],,False,False,pondhara,1
-assa1263-1-16-1,,assa1263-1,16,xullɔ,xullɔ,[],,[],,False,False,xolla,1
-assa1263-1-17-1,,assa1263-1,17,xutɔrɔ,xutɔrɔ,[],,[],,False,False,xotara,1
-assa1263-1-18-1,,assa1263-1,18,utʰɔrɔ,utʰɔrɔ,[],,[],,False,False,othara,1
-assa1263-1-19-1,,assa1263-1,19,unois,unois,[],( 20 - 1),[],,False,False,unois,1
-assa1263-1-20-1,,assa1263-1,20,bis,bis,[],,[],,False,False,,1
-assa1263-1-21-1,,assa1263-1,21,ekois,ekois,[],,[],,False,False,ekois,1
-assa1263-1-22-1,,assa1263-1,22,bais,bais,[],,[],,False,False,baais,1
-assa1263-1-23-1,,assa1263-1,23,teis,teis,[],,[],,False,False,teis,1
-assa1263-1-24-1,,assa1263-1,24,soubbis /sobbis,soubbis,[],,[],,False,True,sabbis,1
-assa1263-1-24-2,,assa1263-1,24,soubbis /sobbis,sobbis,[],,[],,False,True,sabbis,1
-assa1263-1-25-1,,assa1263-1,25,pɔsis,pɔsis,[],,[],,False,False,pasis,1
-assa1263-1-26-1,,assa1263-1,26,sabbis,sabbis,[],,[],,False,False,saabbis,1
-assa1263-1-27-1,,assa1263-1,27,xatais,xatais,[],,[],,False,False,xaataais,1
-assa1263-1-28-1,,assa1263-1,28,ãtʰais,ãtʰais,[],,[],,False,False,aathaais,1
-assa1263-1-28-2,,assa1263-1,28,atʰais,atʰais,[],,[],,False,False,,1
-assa1263-1-29-1,,assa1263-1,29,untris,untris,[],( 30 - 1),[],,False,False,untris,1
-assa1263-1-30-1,,assa1263-1,30,tris,tris,[],,[],,False,False,tris,1
-assa1263-1-40-1,,assa1263-1,40,sollis,sollis,[],,[],,False,False,sallis,1
-assa1263-1-50-1,,assa1263-1,50,pɔnsas,pɔnsas,[],,[],,False,False,pansaas,1
-assa1263-1-60-1,,assa1263-1,60,xatʰi,xatʰi,[],,[],,False,False,xathi,1
-assa1263-1-60-2,,assa1263-1,60,satʰi,satʰi,[],,[],,False,False,,1
-assa1263-1-70-1,,assa1263-1,70,xottor,xottor,[],,[],,False,False,xothar,1
-assa1263-1-70-2,,assa1263-1,70,xottur,xottur,[],,[],,False,False,,1
-assa1263-1-80-1,,assa1263-1,80,ãxi,ãxi,[],,[],,False,False,aaxi,1
-assa1263-1-80-2,,assa1263-1,80,axi],axi],[],,[],,False,True,,1
-assa1263-1-90-1,,assa1263-1,90,nobboi,nobboi,[],,[],,False,False,nobboi,1
-assa1263-1-100-1,,assa1263-1,100,ɛxɔ,ɛxɔ,[],,[],,False,False,exa,1
-assa1263-1-200-1,,assa1263-1,200,duxɔ,duxɔ,[],,[],,False,False,duxa,1
-assa1263-1-1000-1,,assa1263-1,1000,ɛhɛzar,ɛhɛzar,[],,[],,False,False,ehezar,1
-assa1263-1-2000-1,,assa1263-1,2000,duhɛzar,duhɛzar,[],,[],,False,False,duhezar,1
+assa1263-1-1-1,,assa1263-1,1,ɛk,ɛk,[],,['chan2019'],,False,False,ek,1
+assa1263-1-2-1,,assa1263-1,2,dui,dui,[],,['chan2019'],,False,False,dui,1
+assa1263-1-3-1,,assa1263-1,3,tini,tini,[],,['chan2019'],,False,False,tini,1
+assa1263-1-4-1,,assa1263-1,4,sari,sari,[],,['chan2019'],,False,False,sari,1
+assa1263-1-5-1,,assa1263-1,5,pãs,pãs,[],,['chan2019'],,False,False,paas,1
+assa1263-1-6-1,,assa1263-1,6,sɔi,sɔi,[],,['chan2019'],,False,False,sai,1
+assa1263-1-7-1,,assa1263-1,7,xat,xat,[],,['chan2019'],,False,False,xaat,1
+assa1263-1-8-1,,assa1263-1,8,ãtʰ,ãtʰ,[],,['chan2019'],,False,False,aath,1
+assa1263-1-8-2,,assa1263-1,8,atʰ,atʰ,[],,['chan2019'],,False,False,,1
+assa1263-1-9-1,,assa1263-1,9,nɔ,nɔ,[],,['chan2019'],,False,False,na,1
+assa1263-1-9-2,,assa1263-1,9,nɔu,nɔu,[],,['chan2019'],,False,False,,1
+assa1263-1-10-1,,assa1263-1,10,dɔh,dɔh,[],,['chan2019'],,False,False,dah,1
+assa1263-1-10-2,,assa1263-1,10,dɔs,dɔs,[],,['chan2019'],,False,False,dos,1
+assa1263-1-11-1,,assa1263-1,11,ɛgʰarɔ,ɛgʰarɔ,[],,['chan2019'],,False,False,eghaara,1
+assa1263-1-12-1,,assa1263-1,12,barɔ,barɔ,[],,['chan2019'],,False,False,baara,1
+assa1263-1-13-1,,assa1263-1,13,tɛrɔ,tɛrɔ,[],,['chan2019'],,False,False,tera,1
+assa1263-1-14-1,,assa1263-1,14,sɔiddʰɔ,sɔiddʰɔ,[],,['chan2019'],,False,False,saiddha,1
+assa1263-1-15-1,,assa1263-1,15,pundʰɔrɔ,pundʰɔrɔ,[],,['chan2019'],,False,False,pondhara,1
+assa1263-1-16-1,,assa1263-1,16,xullɔ,xullɔ,[],,['chan2019'],,False,False,xolla,1
+assa1263-1-17-1,,assa1263-1,17,xutɔrɔ,xutɔrɔ,[],,['chan2019'],,False,False,xotara,1
+assa1263-1-18-1,,assa1263-1,18,utʰɔrɔ,utʰɔrɔ,[],,['chan2019'],,False,False,othara,1
+assa1263-1-19-1,,assa1263-1,19,unois,unois,[],( 20 - 1),['chan2019'],,False,False,unois,1
+assa1263-1-20-1,,assa1263-1,20,bis,bis,[],,['chan2019'],,False,False,,1
+assa1263-1-21-1,,assa1263-1,21,ekois,ekois,[],,['chan2019'],,False,False,ekois,1
+assa1263-1-22-1,,assa1263-1,22,bais,bais,[],,['chan2019'],,False,False,baais,1
+assa1263-1-23-1,,assa1263-1,23,teis,teis,[],,['chan2019'],,False,False,teis,1
+assa1263-1-24-1,,assa1263-1,24,soubbis /sobbis,soubbis,[],,['chan2019'],,False,True,sabbis,1
+assa1263-1-24-2,,assa1263-1,24,soubbis /sobbis,sobbis,[],,['chan2019'],,False,True,sabbis,1
+assa1263-1-25-1,,assa1263-1,25,pɔsis,pɔsis,[],,['chan2019'],,False,False,pasis,1
+assa1263-1-26-1,,assa1263-1,26,sabbis,sabbis,[],,['chan2019'],,False,False,saabbis,1
+assa1263-1-27-1,,assa1263-1,27,xatais,xatais,[],,['chan2019'],,False,False,xaataais,1
+assa1263-1-28-1,,assa1263-1,28,ãtʰais,ãtʰais,[],,['chan2019'],,False,False,aathaais,1
+assa1263-1-28-2,,assa1263-1,28,atʰais,atʰais,[],,['chan2019'],,False,False,,1
+assa1263-1-29-1,,assa1263-1,29,untris,untris,[],( 30 - 1),['chan2019'],,False,False,untris,1
+assa1263-1-30-1,,assa1263-1,30,tris,tris,[],,['chan2019'],,False,False,tris,1
+assa1263-1-40-1,,assa1263-1,40,sollis,sollis,[],,['chan2019'],,False,False,sallis,1
+assa1263-1-50-1,,assa1263-1,50,pɔnsas,pɔnsas,[],,['chan2019'],,False,False,pansaas,1
+assa1263-1-60-1,,assa1263-1,60,xatʰi,xatʰi,[],,['chan2019'],,False,False,xathi,1
+assa1263-1-60-2,,assa1263-1,60,satʰi,satʰi,[],,['chan2019'],,False,False,,1
+assa1263-1-70-1,,assa1263-1,70,xottor,xottor,[],,['chan2019'],,False,False,xothar,1
+assa1263-1-70-2,,assa1263-1,70,xottur,xottur,[],,['chan2019'],,False,False,,1
+assa1263-1-80-1,,assa1263-1,80,ãxi,ãxi,[],,['chan2019'],,False,False,aaxi,1
+assa1263-1-80-2,,assa1263-1,80,axi],axi],[],,['chan2019'],,False,True,,1
+assa1263-1-90-1,,assa1263-1,90,nobboi,nobboi,[],,['chan2019'],,False,False,nobboi,1
+assa1263-1-100-1,,assa1263-1,100,ɛxɔ,ɛxɔ,[],,['chan2019'],,False,False,exa,1
+assa1263-1-200-1,,assa1263-1,200,duxɔ,duxɔ,[],,['chan2019'],,False,False,duxa,1
+assa1263-1-1000-1,,assa1263-1,1000,ɛhɛzar,ɛhɛzar,[],,['chan2019'],,False,False,ehezar,1
+assa1263-1-2000-1,,assa1263-1,2000,duhɛzar,duhɛzar,[],,['chan2019'],,False,False,duhezar,1

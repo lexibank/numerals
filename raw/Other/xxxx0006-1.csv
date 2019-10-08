@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xxxx0006-1-1-1,,xxxx0006-1,1,kᵊhæ˨,kᵊhæ˨,[],,[],,False,False,,1
-xxxx0006-1-2-1,,xxxx0006-1,2,kᵊne˨,kᵊne˨,[],,[],,False,False,,1
-xxxx0006-1-3-1,,xxxx0006-1,3,kᵊtʰũ˥˩,kᵊtʰũ˥˩,[],,[],,False,False,,1
-xxxx0006-1-4-1,,xxxx0006-1,4,pᵊli˥˩,pᵊli˥˩,[],,[],,False,False,,1
-xxxx0006-1-5-1,,xxxx0006-1,5,bã˧.ŋɔ˥˩,bã˧.ŋɔ˥˩,[],,[],,False,False,,1
-xxxx0006-1-6-1,,xxxx0006-1,6,tᵊru˧,tᵊru˧,[],,[],,False,False,,1
-xxxx0006-1-7-1,,xxxx0006-1,7,sʰᵉri˧,sʰᵉri˧,[],,[],,False,False,,1
-xxxx0006-1-8-1,,xxxx0006-1,8,tᵊja˥˧,tᵊja˥˧,[],,[],,False,False,,1
-xxxx0006-1-9-1,,xxxx0006-1,9,tᵊkɔ˥˧,tᵊkɔ˥˧,[],,[],,False,False,,1
-xxxx0006-1-10-1,,xxxx0006-1,10,hɔ˨,hɔ˨,[],,[],,False,False,,1
-xxxx0006-1-11-1,,xxxx0006-1,11,hɔ˨. lai˩˧.hæ˨,hɔ˨. lai˩˧.hæ˨,[],,[],,False,True,,1
-xxxx0006-1-12-1,,xxxx0006-1,12,hɔ˨. lai˩˧.ne˨,hɔ˨. lai˩˧.ne˨,[],,[],,False,True,,1
-xxxx0006-1-13-1,,xxxx0006-1,13,hɔ˨. lai˩˧.tʰũ ˥˩,hɔ˨. lai˩˧.tʰũ ˥˩,[],,[],,False,True,,1
-xxxx0006-1-14-1,,xxxx0006-1,14,hɔ˨. lai˩˧.pᵊli˥˩,hɔ˨. lai˩˧.pᵊli˥˩,[],,[],,False,True,,1
-xxxx0006-1-15-1,,xxxx0006-1,15,hɔ˨. lai˩˧.bã˧.ŋɔ˥˩,hɔ˨. lai˩˧.bã˧.ŋɔ˥˩,[],,[],,False,True,,1
-xxxx0006-1-16-1,,xxxx0006-1,16,hɔ˨. lai˩˧.tᵊru˧,hɔ˨. lai˩˧.tᵊru˧,[],,[],,False,True,,1
-xxxx0006-1-17-1,,xxxx0006-1,17,hɔ˨. lai˩˧.sʰᵉri˧,hɔ˨. lai˩˧.sʰᵉri˧,[],,[],,False,True,,1
-xxxx0006-1-18-1,,xxxx0006-1,18,hɔ˨. lai˩˧.tᵊja˥˧,hɔ˨. lai˩˧.tᵊja˥˧,[],,[],,False,True,,1
-xxxx0006-1-19-1,,xxxx0006-1,19,hɔ˨. lai˩˧.tᵊkɔ˥˧,hɔ˨. lai˩˧.tᵊkɔ˥˧,[],,[],,False,True,,1
-xxxx0006-1-20-1,,xxxx0006-1,20,kui˨ .sʰə˦,kui˨ .sʰə˦,[],,[],,False,False,,1
-xxxx0006-1-21-1,,xxxx0006-1,21,kui˨ .sʰə˦ .hæ˨,kui˨ .sʰə˦ .hæ˨,[],,[],,False,False,,1
-xxxx0006-1-22-1,,xxxx0006-1,22,kui˨ .sʰə˦ .ne˨,kui˨ .sʰə˦ .ne˨,[],,[],,False,False,,1
-xxxx0006-1-23-1,,xxxx0006-1,23,kui˨ .sʰə˦ .tʰũ ˥˩,kui˨ .sʰə˦ .tʰũ ˥˩,[],,[],,False,False,,1
-xxxx0006-1-24-1,,xxxx0006-1,24,kui˨ .sʰə˦ .pᵊli˥˩,kui˨ .sʰə˦ .pᵊli˥˩,[],,[],,False,False,,1
-xxxx0006-1-25-1,,xxxx0006-1,25,kui˨ .sʰə˦ .bã˧.ŋɔ˥˩,kui˨ .sʰə˦ .bã˧.ŋɔ˥˩,[],,[],,False,False,,1
-xxxx0006-1-26-1,,xxxx0006-1,26,kui˨ .sʰə˦ .tᵊru˧,kui˨ .sʰə˦ .tᵊru˧,[],,[],,False,False,,1
-xxxx0006-1-27-1,,xxxx0006-1,27,kui˨ .sʰə˦ .sʰᵉri˧,kui˨ .sʰə˦ .sʰᵉri˧,[],,[],,False,False,,1
-xxxx0006-1-28-1,,xxxx0006-1,28,kui˨ .sʰə˦ .tᵊja˥˧,kui˨ .sʰə˦ .tᵊja˥˧,[],,[],,False,False,,1
-xxxx0006-1-29-1,,xxxx0006-1,29,kui˨ .sʰə˦ .tᵊkɔ˥˧,kui˨ .sʰə˦ .tᵊkɔ˥˧,[],,[],,False,False,,1
-xxxx0006-1-30-1,,xxxx0006-1,30,rui˩˧.tʰũ ˥˩,rui˩˧.tʰũ ˥˩,[],,[],,False,False,,1
-xxxx0006-1-40-1,,xxxx0006-1,40,rui˩˧.pᵊli˥˩,rui˩˧.pᵊli˥˩,[],,[],,False,False,,1
-xxxx0006-1-50-1,,xxxx0006-1,50,rui˩˧.bã˧.ŋɔ˥˩,rui˩˧.bã˧.ŋɔ˥˩,[],,[],,False,False,,1
-xxxx0006-1-60-1,,xxxx0006-1,60,rui˩˧.tᵊru˧,rui˩˧.tᵊru˧,[],,[],,False,False,,1
-xxxx0006-1-70-1,,xxxx0006-1,70,rui˩˧.sʰᵉri˧,rui˩˧.sʰᵉri˧,[],,[],,False,False,,1
-xxxx0006-1-80-1,,xxxx0006-1,80,rui˩˧.tᵊja˥˧,rui˩˧.tᵊja˥˧,[],,[],,False,False,,1
-xxxx0006-1-90-1,,xxxx0006-1,90,rui˩˧.tᵊkɔ˥˧,rui˩˧.tᵊkɔ˥˧,[],,[],,False,False,,1
-xxxx0006-1-100-1,,xxxx0006-1,100,sũ˨.wai˧,sũ˨.wai˧,[],,[],,False,False,,1
-xxxx0006-1-200-1,,xxxx0006-1,200,sũ˨.wai˧ .ne˨,sũ˨.wai˧ .ne˨,[],,[],,False,False,,1
-xxxx0006-1-1000-1,,xxxx0006-1,1000,sã˥˧.ta˧,sã˥˧.ta˧,[],,[],,False,False,,1
-xxxx0006-1-2000-1,,xxxx0006-1,2000,sã˥˧.ne˨ .ta˧,sã˥˧.ne˨ .ta˧,[],,[],,False,False,,1
+xxxx0006-1-1-1,,xxxx0006-1,1,kᵊhæ˨,kᵊhæ˨,[],,['chan2019'],,False,False,,1
+xxxx0006-1-2-1,,xxxx0006-1,2,kᵊne˨,kᵊne˨,[],,['chan2019'],,False,False,,1
+xxxx0006-1-3-1,,xxxx0006-1,3,kᵊtʰũ˥˩,kᵊtʰũ˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-4-1,,xxxx0006-1,4,pᵊli˥˩,pᵊli˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-5-1,,xxxx0006-1,5,bã˧.ŋɔ˥˩,bã˧.ŋɔ˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-6-1,,xxxx0006-1,6,tᵊru˧,tᵊru˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-7-1,,xxxx0006-1,7,sʰᵉri˧,sʰᵉri˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-8-1,,xxxx0006-1,8,tᵊja˥˧,tᵊja˥˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-9-1,,xxxx0006-1,9,tᵊkɔ˥˧,tᵊkɔ˥˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-10-1,,xxxx0006-1,10,hɔ˨,hɔ˨,[],,['chan2019'],,False,False,,1
+xxxx0006-1-11-1,,xxxx0006-1,11,hɔ˨. lai˩˧.hæ˨,hɔ˨. lai˩˧.hæ˨,[],,['chan2019'],,False,True,,1
+xxxx0006-1-12-1,,xxxx0006-1,12,hɔ˨. lai˩˧.ne˨,hɔ˨. lai˩˧.ne˨,[],,['chan2019'],,False,True,,1
+xxxx0006-1-13-1,,xxxx0006-1,13,hɔ˨. lai˩˧.tʰũ ˥˩,hɔ˨. lai˩˧.tʰũ ˥˩,[],,['chan2019'],,False,True,,1
+xxxx0006-1-14-1,,xxxx0006-1,14,hɔ˨. lai˩˧.pᵊli˥˩,hɔ˨. lai˩˧.pᵊli˥˩,[],,['chan2019'],,False,True,,1
+xxxx0006-1-15-1,,xxxx0006-1,15,hɔ˨. lai˩˧.bã˧.ŋɔ˥˩,hɔ˨. lai˩˧.bã˧.ŋɔ˥˩,[],,['chan2019'],,False,True,,1
+xxxx0006-1-16-1,,xxxx0006-1,16,hɔ˨. lai˩˧.tᵊru˧,hɔ˨. lai˩˧.tᵊru˧,[],,['chan2019'],,False,True,,1
+xxxx0006-1-17-1,,xxxx0006-1,17,hɔ˨. lai˩˧.sʰᵉri˧,hɔ˨. lai˩˧.sʰᵉri˧,[],,['chan2019'],,False,True,,1
+xxxx0006-1-18-1,,xxxx0006-1,18,hɔ˨. lai˩˧.tᵊja˥˧,hɔ˨. lai˩˧.tᵊja˥˧,[],,['chan2019'],,False,True,,1
+xxxx0006-1-19-1,,xxxx0006-1,19,hɔ˨. lai˩˧.tᵊkɔ˥˧,hɔ˨. lai˩˧.tᵊkɔ˥˧,[],,['chan2019'],,False,True,,1
+xxxx0006-1-20-1,,xxxx0006-1,20,kui˨ .sʰə˦,kui˨ .sʰə˦,[],,['chan2019'],,False,False,,1
+xxxx0006-1-21-1,,xxxx0006-1,21,kui˨ .sʰə˦ .hæ˨,kui˨ .sʰə˦ .hæ˨,[],,['chan2019'],,False,False,,1
+xxxx0006-1-22-1,,xxxx0006-1,22,kui˨ .sʰə˦ .ne˨,kui˨ .sʰə˦ .ne˨,[],,['chan2019'],,False,False,,1
+xxxx0006-1-23-1,,xxxx0006-1,23,kui˨ .sʰə˦ .tʰũ ˥˩,kui˨ .sʰə˦ .tʰũ ˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-24-1,,xxxx0006-1,24,kui˨ .sʰə˦ .pᵊli˥˩,kui˨ .sʰə˦ .pᵊli˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-25-1,,xxxx0006-1,25,kui˨ .sʰə˦ .bã˧.ŋɔ˥˩,kui˨ .sʰə˦ .bã˧.ŋɔ˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-26-1,,xxxx0006-1,26,kui˨ .sʰə˦ .tᵊru˧,kui˨ .sʰə˦ .tᵊru˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-27-1,,xxxx0006-1,27,kui˨ .sʰə˦ .sʰᵉri˧,kui˨ .sʰə˦ .sʰᵉri˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-28-1,,xxxx0006-1,28,kui˨ .sʰə˦ .tᵊja˥˧,kui˨ .sʰə˦ .tᵊja˥˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-29-1,,xxxx0006-1,29,kui˨ .sʰə˦ .tᵊkɔ˥˧,kui˨ .sʰə˦ .tᵊkɔ˥˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-30-1,,xxxx0006-1,30,rui˩˧.tʰũ ˥˩,rui˩˧.tʰũ ˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-40-1,,xxxx0006-1,40,rui˩˧.pᵊli˥˩,rui˩˧.pᵊli˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-50-1,,xxxx0006-1,50,rui˩˧.bã˧.ŋɔ˥˩,rui˩˧.bã˧.ŋɔ˥˩,[],,['chan2019'],,False,False,,1
+xxxx0006-1-60-1,,xxxx0006-1,60,rui˩˧.tᵊru˧,rui˩˧.tᵊru˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-70-1,,xxxx0006-1,70,rui˩˧.sʰᵉri˧,rui˩˧.sʰᵉri˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-80-1,,xxxx0006-1,80,rui˩˧.tᵊja˥˧,rui˩˧.tᵊja˥˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-90-1,,xxxx0006-1,90,rui˩˧.tᵊkɔ˥˧,rui˩˧.tᵊkɔ˥˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-100-1,,xxxx0006-1,100,sũ˨.wai˧,sũ˨.wai˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-200-1,,xxxx0006-1,200,sũ˨.wai˧ .ne˨,sũ˨.wai˧ .ne˨,[],,['chan2019'],,False,False,,1
+xxxx0006-1-1000-1,,xxxx0006-1,1000,sã˥˧.ta˧,sã˥˧.ta˧,[],,['chan2019'],,False,False,,1
+xxxx0006-1-2000-1,,xxxx0006-1,2000,sã˥˧.ne˨ .ta˧,sã˥˧.ne˨ .ta˧,[],,['chan2019'],,False,False,,1

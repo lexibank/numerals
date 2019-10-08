@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tuma1260-1-1-1,,tuma1260-1,1,mə̀n,mə̀n,[],,[],,False,False,,1
-tuma1260-1-2-1,,tuma1260-1,2,hɛ̀,hɛ̀,[],,[],,False,False,,1
-tuma1260-1-3-1,,tuma1260-1,3,sùb,sùb,[],,[],,False,False,,1
-tuma1260-1-4-1,,tuma1260-1,4,wōrī,wōrī,[],,[],,False,False,,1
-tuma1260-1-5-1,,tuma1260-1,5,ùsì,ùsì,[],,[],,False,False,,1
-tuma1260-1-6-1,,tuma1260-1,6,ùɡì,ùɡì,[],,[],,False,False,,1
-tuma1260-1-7-1,,tuma1260-1,7,ɗáksùb,ɗáksùb,[],,[],,False,False,,1
-tuma1260-1-8-1,,tuma1260-1,8,wāwār,wāwār,[],( 2 x 4 ) ?,[],,False,False,,1
-tuma1260-1-9-1,,tuma1260-1,9,bìsāmə̄n,bìsāmə̄n,[],( 10 -  1) ?,[],,False,False,,1
-tuma1260-1-10-1,,tuma1260-1,10,kwàr,kwàr,[],,[],,False,False,,1
-tuma1260-1-11-1,,tuma1260-1,11,kwàr bə̀k mə̀n,kwàr bə̀k mə̀n,[],,[],,False,False,,1
-tuma1260-1-12-1,,tuma1260-1,12,kwàr bə̀k hɛ̀,kwàr bə̀k hɛ̀,[],,[],,False,False,,1
-tuma1260-1-13-1,,tuma1260-1,13,kwàr bə̀k sùb,kwàr bə̀k sùb,[],,[],,False,False,,1
-tuma1260-1-14-1,,tuma1260-1,14,kwàr bə̀k wōrī,kwàr bə̀k wōrī,[],,[],,False,False,,1
-tuma1260-1-15-1,,tuma1260-1,15,kwàr bə̀k ùsì,kwàr bə̀k ùsì,[],,[],,False,False,,1
-tuma1260-1-16-1,,tuma1260-1,16,kwàr bə̀k ùɡì,kwàr bə̀k ùɡì,[],,[],,False,False,,1
-tuma1260-1-17-1,,tuma1260-1,17,kwàr bə̀k ɗáksùb,kwàr bə̀k ɗáksùb,[],,[],,False,False,,1
-tuma1260-1-18-1,,tuma1260-1,18,kwàr bə̀k wāwār,kwàr bə̀k wāwār,[],,[],,False,False,,1
-tuma1260-1-19-1,,tuma1260-1,19,kwàr bə̀k bìsāmə̄n,kwàr bə̀k bìsāmə̄n,[],,[],,False,False,,1
-tuma1260-1-20-1,,tuma1260-1,20,dàb hɛ̀,dàb hɛ̀,[],,[],,False,False,,1
-tuma1260-1-21-1,,tuma1260-1,21,dàb hɛ̀ bə̀k mə̀n,dàb hɛ̀ bə̀k mə̀n,[],,[],,False,False,,1
-tuma1260-1-22-1,,tuma1260-1,22,dàb hɛ̀ bə̀k hɛ̀,dàb hɛ̀ bə̀k hɛ̀,[],,[],,False,False,,1
-tuma1260-1-23-1,,tuma1260-1,23,dàb hɛ̀ bə̀k sùb,dàb hɛ̀ bə̀k sùb,[],,[],,False,False,,1
-tuma1260-1-24-1,,tuma1260-1,24,dàb hɛ̀ bə̀k wōrī,dàb hɛ̀ bə̀k wōrī,[],,[],,False,False,,1
-tuma1260-1-25-1,,tuma1260-1,25,dàb hɛ̀ bə̀k ùsì,dàb hɛ̀ bə̀k ùsì,[],,[],,False,False,,1
-tuma1260-1-26-1,,tuma1260-1,26,dàb hɛ̀ bə̀k ùɡì,dàb hɛ̀ bə̀k ùɡì,[],,[],,False,False,,1
-tuma1260-1-27-1,,tuma1260-1,27,dàb hɛ̀ bə̀k ɗáksùb,dàb hɛ̀ bə̀k ɗáksùb,[],,[],,False,False,,1
-tuma1260-1-28-1,,tuma1260-1,28,dàb hɛ̀ bə̀k wāwār,dàb hɛ̀ bə̀k wāwār,[],,[],,False,False,,1
-tuma1260-1-29-1,,tuma1260-1,29,dàb hɛ̀ bə̀k bìsāmə̄n,dàb hɛ̀ bə̀k bìsāmə̄n,[],,[],,False,False,,1
-tuma1260-1-30-1,,tuma1260-1,30,dàb sùb,dàb sùb,[],,[],,False,False,,1
-tuma1260-1-40-1,,tuma1260-1,40,dàb wōrī,dàb wōrī,[],,[],,False,False,,1
-tuma1260-1-50-1,,tuma1260-1,50,dàb ùsì,dàb ùsì,[],,[],,False,False,,1
-tuma1260-1-60-1,,tuma1260-1,60,dàb ùɡì,dàb ùɡì,[],,[],,False,False,,1
-tuma1260-1-70-1,,tuma1260-1,70,dàb ɗáksùb,dàb ɗáksùb,[],,[],,False,False,,1
-tuma1260-1-80-1,,tuma1260-1,80,dàb wāwār,dàb wāwār,[],,[],,False,False,,1
-tuma1260-1-90-1,,tuma1260-1,90,dàb bìsāmə̄n,dàb bìsāmə̄n,[],,[],,False,False,,1
-tuma1260-1-100-1,,tuma1260-1,100,àrū,àrū,[],,[],,False,False,,1
-tuma1260-1-200-1,,tuma1260-1,200,àrū hɛ̀,àrū hɛ̀,[],,[],,False,False,,1
-tuma1260-1-1000-1,,tuma1260-1,1000,dúbú,dúbú,[],( < Hausa ),[],,True,False,,1
-tuma1260-1-2000-1,,tuma1260-1,2000,dúbú hɛ̀,dúbú hɛ̀,[],,[],,False,False,,1
+tuma1260-1-1-1,,tuma1260-1,1,mə̀n,mə̀n,[],,['chan2019'],,False,False,,1
+tuma1260-1-2-1,,tuma1260-1,2,hɛ̀,hɛ̀,[],,['chan2019'],,False,False,,1
+tuma1260-1-3-1,,tuma1260-1,3,sùb,sùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-4-1,,tuma1260-1,4,wōrī,wōrī,[],,['chan2019'],,False,False,,1
+tuma1260-1-5-1,,tuma1260-1,5,ùsì,ùsì,[],,['chan2019'],,False,False,,1
+tuma1260-1-6-1,,tuma1260-1,6,ùɡì,ùɡì,[],,['chan2019'],,False,False,,1
+tuma1260-1-7-1,,tuma1260-1,7,ɗáksùb,ɗáksùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-8-1,,tuma1260-1,8,wāwār,wāwār,[],( 2 x 4 ) ?,['chan2019'],,False,False,,1
+tuma1260-1-9-1,,tuma1260-1,9,bìsāmə̄n,bìsāmə̄n,[],( 10 -  1) ?,['chan2019'],,False,False,,1
+tuma1260-1-10-1,,tuma1260-1,10,kwàr,kwàr,[],,['chan2019'],,False,False,,1
+tuma1260-1-11-1,,tuma1260-1,11,kwàr bə̀k mə̀n,kwàr bə̀k mə̀n,[],,['chan2019'],,False,False,,1
+tuma1260-1-12-1,,tuma1260-1,12,kwàr bə̀k hɛ̀,kwàr bə̀k hɛ̀,[],,['chan2019'],,False,False,,1
+tuma1260-1-13-1,,tuma1260-1,13,kwàr bə̀k sùb,kwàr bə̀k sùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-14-1,,tuma1260-1,14,kwàr bə̀k wōrī,kwàr bə̀k wōrī,[],,['chan2019'],,False,False,,1
+tuma1260-1-15-1,,tuma1260-1,15,kwàr bə̀k ùsì,kwàr bə̀k ùsì,[],,['chan2019'],,False,False,,1
+tuma1260-1-16-1,,tuma1260-1,16,kwàr bə̀k ùɡì,kwàr bə̀k ùɡì,[],,['chan2019'],,False,False,,1
+tuma1260-1-17-1,,tuma1260-1,17,kwàr bə̀k ɗáksùb,kwàr bə̀k ɗáksùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-18-1,,tuma1260-1,18,kwàr bə̀k wāwār,kwàr bə̀k wāwār,[],,['chan2019'],,False,False,,1
+tuma1260-1-19-1,,tuma1260-1,19,kwàr bə̀k bìsāmə̄n,kwàr bə̀k bìsāmə̄n,[],,['chan2019'],,False,False,,1
+tuma1260-1-20-1,,tuma1260-1,20,dàb hɛ̀,dàb hɛ̀,[],,['chan2019'],,False,False,,1
+tuma1260-1-21-1,,tuma1260-1,21,dàb hɛ̀ bə̀k mə̀n,dàb hɛ̀ bə̀k mə̀n,[],,['chan2019'],,False,False,,1
+tuma1260-1-22-1,,tuma1260-1,22,dàb hɛ̀ bə̀k hɛ̀,dàb hɛ̀ bə̀k hɛ̀,[],,['chan2019'],,False,False,,1
+tuma1260-1-23-1,,tuma1260-1,23,dàb hɛ̀ bə̀k sùb,dàb hɛ̀ bə̀k sùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-24-1,,tuma1260-1,24,dàb hɛ̀ bə̀k wōrī,dàb hɛ̀ bə̀k wōrī,[],,['chan2019'],,False,False,,1
+tuma1260-1-25-1,,tuma1260-1,25,dàb hɛ̀ bə̀k ùsì,dàb hɛ̀ bə̀k ùsì,[],,['chan2019'],,False,False,,1
+tuma1260-1-26-1,,tuma1260-1,26,dàb hɛ̀ bə̀k ùɡì,dàb hɛ̀ bə̀k ùɡì,[],,['chan2019'],,False,False,,1
+tuma1260-1-27-1,,tuma1260-1,27,dàb hɛ̀ bə̀k ɗáksùb,dàb hɛ̀ bə̀k ɗáksùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-28-1,,tuma1260-1,28,dàb hɛ̀ bə̀k wāwār,dàb hɛ̀ bə̀k wāwār,[],,['chan2019'],,False,False,,1
+tuma1260-1-29-1,,tuma1260-1,29,dàb hɛ̀ bə̀k bìsāmə̄n,dàb hɛ̀ bə̀k bìsāmə̄n,[],,['chan2019'],,False,False,,1
+tuma1260-1-30-1,,tuma1260-1,30,dàb sùb,dàb sùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-40-1,,tuma1260-1,40,dàb wōrī,dàb wōrī,[],,['chan2019'],,False,False,,1
+tuma1260-1-50-1,,tuma1260-1,50,dàb ùsì,dàb ùsì,[],,['chan2019'],,False,False,,1
+tuma1260-1-60-1,,tuma1260-1,60,dàb ùɡì,dàb ùɡì,[],,['chan2019'],,False,False,,1
+tuma1260-1-70-1,,tuma1260-1,70,dàb ɗáksùb,dàb ɗáksùb,[],,['chan2019'],,False,False,,1
+tuma1260-1-80-1,,tuma1260-1,80,dàb wāwār,dàb wāwār,[],,['chan2019'],,False,False,,1
+tuma1260-1-90-1,,tuma1260-1,90,dàb bìsāmə̄n,dàb bìsāmə̄n,[],,['chan2019'],,False,False,,1
+tuma1260-1-100-1,,tuma1260-1,100,àrū,àrū,[],,['chan2019'],,False,False,,1
+tuma1260-1-200-1,,tuma1260-1,200,àrū hɛ̀,àrū hɛ̀,[],,['chan2019'],,False,False,,1
+tuma1260-1-1000-1,,tuma1260-1,1000,dúbú,dúbú,[],( < Hausa ),['chan2019'],,True,False,,1
+tuma1260-1-2000-1,,tuma1260-1,2000,dúbú hɛ̀,dúbú hɛ̀,[],,['chan2019'],,False,False,,1

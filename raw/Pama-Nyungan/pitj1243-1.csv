@@ -1,15 +1,15 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pitj1243-1-1-1,,pitj1243-1,1,kutju,kutju,[],,[],,False,False,,1
-pitj1243-1-1-2,,pitj1243-1,1,kucu,kucu,[],,[],,False,False,,1
-pitj1243-1-1-3,,pitj1243-1,1,meaning 'one',meaning 'one',[],,[],,False,True,,1
-pitj1243-1-1-4,,pitj1243-1,1,on it's own,on it's own,[],,[],,False,False,,1
-pitj1243-1-1-5,,pitj1243-1,1,single,single,[],,[],,False,False,,1
-pitj1243-1-1-6,,pitj1243-1,1,alone,alone,[],,[],,False,False,,1
-pitj1243-1-2-1,,pitj1243-1,2,kutjar̠a,kutjar̠a,[],,[],,False,False,,1
-pitj1243-1-2-2,,pitj1243-1,2,kucara,kucara,[],,[],,False,False,,1
-pitj1243-1-2-3,,pitj1243-1,2,meaning 'two',meaning 'two',[],,[],,False,True,,1
-pitj1243-1-3-1,,pitj1243-1,3,man̪kurpa,man̪kurpa,[],,[],,False,False,,1
-pitj1243-1-3-2,,pitj1243-1,3,maɳkurpa,maɳkurpa,[],,[],,False,False,,1
-pitj1243-1-3-3,,pitj1243-1,3,meaning 'three,meaning 'three,[],,[],,False,True,,1
-pitj1243-1-3-4,,pitj1243-1,3,a few,a few,[],,[],,False,True,,1
-pitj1243-1-3-5,,pitj1243-1,3,several',several',[],,[],,False,False,,1
+pitj1243-1-1-1,,pitj1243-1,1,kutju,kutju,[],,['chan2019'],,False,False,,1
+pitj1243-1-1-2,,pitj1243-1,1,kucu,kucu,[],,['chan2019'],,False,False,,1
+pitj1243-1-1-3,,pitj1243-1,1,meaning 'one',meaning 'one',[],,['chan2019'],,False,True,,1
+pitj1243-1-1-4,,pitj1243-1,1,on it's own,on it's own,[],,['chan2019'],,False,False,,1
+pitj1243-1-1-5,,pitj1243-1,1,single,single,[],,['chan2019'],,False,False,,1
+pitj1243-1-1-6,,pitj1243-1,1,alone,alone,[],,['chan2019'],,False,False,,1
+pitj1243-1-2-1,,pitj1243-1,2,kutjar̠a,kutjar̠a,[],,['chan2019'],,False,False,,1
+pitj1243-1-2-2,,pitj1243-1,2,kucara,kucara,[],,['chan2019'],,False,False,,1
+pitj1243-1-2-3,,pitj1243-1,2,meaning 'two',meaning 'two',[],,['chan2019'],,False,True,,1
+pitj1243-1-3-1,,pitj1243-1,3,man̪kurpa,man̪kurpa,[],,['chan2019'],,False,False,,1
+pitj1243-1-3-2,,pitj1243-1,3,maɳkurpa,maɳkurpa,[],,['chan2019'],,False,False,,1
+pitj1243-1-3-3,,pitj1243-1,3,meaning 'three,meaning 'three,[],,['chan2019'],,False,True,,1
+pitj1243-1-3-4,,pitj1243-1,3,a few,a few,[],,['chan2019'],,False,True,,1
+pitj1243-1-3-5,,pitj1243-1,3,several',several',[],,['chan2019'],,False,False,,1

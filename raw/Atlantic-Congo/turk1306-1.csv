@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-turk1306-1-1-1,,turk1306-1,1,dẽẽná,dẽẽná,[],,[],,False,False,,1
-turk1306-1-2-1,,turk1306-1,2,hãl,hãl,[],,[],,False,False,,1
-turk1306-1-3-1,,turk1306-1,3,siɛl,siɛl,[],,[],,False,False,,1
-turk1306-1-4-1,,turk1306-1,4,n̩nə̃̀,n̩nə̃̀,[],,[],,False,False,,1
-turk1306-1-5-1,,turk1306-1,5,n̩di,n̩di,[],,[],,False,False,,1
-turk1306-1-6-1,,turk1306-1,6,nã́ndèin,nã́ndèin,[],( 5 + 1 ),[],,False,False,,1
-turk1306-1-7-1,,turk1306-1,7,nə̃́rə̃́hã̀l,nə̃́rə̃́hã̀l,[],( 5 + 2 ),[],,False,False,,1
-turk1306-1-8-1,,turk1306-1,8,nə̃́rə̃́siɛ̀l,nə̃́rə̃́siɛ̀l,[],( 5 + 3 ),[],,False,False,,1
-turk1306-1-9-1,,turk1306-1,9,dɛ̃̀ɛ̃̀sə́,dɛ̃̀ɛ̃̀sə́,[],( 10 -1 ) ?,[],,False,False,,1
-turk1306-1-10-1,,turk1306-1,10,nṹɔ̃́sɔ̃̀,nṹɔ̃́sɔ̃̀,[],,[],,False,False,,1
-turk1306-1-11-1,,turk1306-1,11,nṹɔ̃́sɔ̃̀-nə̃-dədə̃n,nṹɔ̃́sɔ̃̀-nə̃-dədə̃n,[],,[],,False,False,,1
-turk1306-1-12-1,,turk1306-1,12,nṹɔ̃́sɔ̃̀-nə̃-ɡa-hãl,nṹɔ̃́sɔ̃̀-nə̃-ɡa-hãl,[],,[],,False,False,,1
-turk1306-1-13-1,,turk1306-1,13,nṹɔ̃́sɔ̃̀-nə̃-ɡa-siɛl,nṹɔ̃́sɔ̃̀-nə̃-ɡa-siɛl,[],,[],,False,False,,1
-turk1306-1-14-1,,turk1306-1,14,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩nə̃̀,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩nə̃̀,[],,[],,False,False,,1
-turk1306-1-15-1,,turk1306-1,15,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩di,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩di,[],,[],,False,False,,1
-turk1306-1-16-1,,turk1306-1,16,nṹɔ̃́sɔ̃̀-nã́ndèin,nṹɔ̃́sɔ̃̀-nã́ndèin,[],,[],,False,False,,1
-turk1306-1-17-1,,turk1306-1,17,nṹɔ̃́sɔ̃̀-nə̃́rə̃́hã̀l,nṹɔ̃́sɔ̃̀-nə̃́rə̃́hã̀l,[],,[],,False,False,,1
-turk1306-1-18-1,,turk1306-1,18,nṹɔ̃́sɔ̃̀-nə̃́rə̃́siɛ̀l,nṹɔ̃́sɔ̃̀-nə̃́rə̃́siɛ̀l,[],,[],,False,False,,1
-turk1306-1-19-1,,turk1306-1,19,nṹɔ̃́sɔ̃̀-dɛ̃̀ɛ̃̀sə́,nṹɔ̃́sɔ̃̀-dɛ̃̀ɛ̃̀sə́,[],,[],,False,False,,1
-turk1306-1-20-1,,turk1306-1,20,ɡur̃,ɡur̃,[],,[],,False,False,,1
-turk1306-1-21-1,,turk1306-1,21,ɡur̃-nə̃-dədə̃n,ɡur̃-nə̃-dədə̃n,[],,[],,False,False,,1
-turk1306-1-22-1,,turk1306-1,22,ɡur̃-nə̃-ɡa-hãl,ɡur̃-nə̃-ɡa-hãl,[],,[],,False,False,,1
-turk1306-1-23-1,,turk1306-1,23,ɡur̃-nə̃-ɡa-siɛl,ɡur̃-nə̃-ɡa-siɛl,[],,[],,False,False,,1
-turk1306-1-24-1,,turk1306-1,24,ɡur̃-nə̃-ɡa-n̩nə̃̀,ɡur̃-nə̃-ɡa-n̩nə̃̀,[],,[],,False,False,,1
-turk1306-1-25-1,,turk1306-1,25,ɡur̃-nə̃-ɡa-n̩di,ɡur̃-nə̃-ɡa-n̩di,[],,[],,False,False,,1
-turk1306-1-26-1,,turk1306-1,26,ɡur̃-nã́ndèin,ɡur̃-nã́ndèin,[],,[],,False,False,,1
-turk1306-1-27-1,,turk1306-1,27,ɡur̃-nə̃́rə̃́hã̀l,ɡur̃-nə̃́rə̃́hã̀l,[],,[],,False,False,,1
-turk1306-1-28-1,,turk1306-1,28,ɡur̃-nə̃́rə̃́siɛ̀l,ɡur̃-nə̃́rə̃́siɛ̀l,[],,[],,False,False,,1
-turk1306-1-29-1,,turk1306-1,29,ɡur dɛ̃̀ɛ̃̀sə́,ɡur dɛ̃̀ɛ̃̀sə́,[],,[],,False,False,,1
-turk1306-1-30-1,,turk1306-1,30,ɡur̃ nṹɔ̃́sɔ̃̀,ɡur̃ nṹɔ̃́sɔ̃̀,[],,[],,False,False,,1
-turk1306-1-40-1,,turk1306-1,40,ɡwaa-hãl,ɡwaa-hãl,[],( 20 x 2 ),[],,False,False,,1
-turk1306-1-50-1,,turk1306-1,50,ɡwaa-hãl-nṹɔ̃́sɔ̃̀,ɡwaa-hãl-nṹɔ̃́sɔ̃̀,[],,[],,False,False,,1
-turk1306-1-60-1,,turk1306-1,60,ɡwaa-siɛl,ɡwaa-siɛl,[],( 20 x 3 ),[],,False,False,,1
-turk1306-1-70-1,,turk1306-1,70,ɡwaa-siɛl-nṹɔ̃́sɔ̃̀,ɡwaa-siɛl-nṹɔ̃́sɔ̃̀,[],,[],,False,False,,1
-turk1306-1-80-1,,turk1306-1,80,jiiɛ̀tú,jiiɛ̀tú,[],,[],,False,False,,1
-turk1306-1-90-1,,turk1306-1,90,jiiɛ̀tú-nṹɔ̃́sɔ̃̀,jiiɛ̀tú-nṹɔ̃́sɔ̃̀,[],,[],,False,False,,1
-turk1306-1-100-1,,turk1306-1,100,ɡundi,ɡundi,[],,[],,False,False,,1
-turk1306-1-200-1,,turk1306-1,200,ɡundi-ba-hãl,ɡundi-ba-hãl,[],,[],,False,False,,1
-turk1306-1-200-2,,turk1306-1,200,400. tundí,400. tundí,[],,[],,False,True,,1
-turk1306-1-200-3,,turk1306-1,200,800. to-nṹɔ̃́sɔ̃̀,800. to-nṹɔ̃́sɔ̃̀,[],,[],,False,True,,1
-turk1306-1-1000-1,,turk1306-1,1000,to-nṹɔ̃́sɔ̃̀-ɡundi-ba-hãl,to-nṹɔ̃́sɔ̃̀-ɡundi-ba-hãl,[],( 800 + 200 ),[],,False,False,,1
-turk1306-1-2000-1,,turk1306-1,2000,tuyur̃-tundí,tuyur̃-tundí,[],,[],,False,False,,1
+turk1306-1-1-1,,turk1306-1,1,dẽẽná,dẽẽná,[],,['chan2019'],,False,False,,1
+turk1306-1-2-1,,turk1306-1,2,hãl,hãl,[],,['chan2019'],,False,False,,1
+turk1306-1-3-1,,turk1306-1,3,siɛl,siɛl,[],,['chan2019'],,False,False,,1
+turk1306-1-4-1,,turk1306-1,4,n̩nə̃̀,n̩nə̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-5-1,,turk1306-1,5,n̩di,n̩di,[],,['chan2019'],,False,False,,1
+turk1306-1-6-1,,turk1306-1,6,nã́ndèin,nã́ndèin,[],( 5 + 1 ),['chan2019'],,False,False,,1
+turk1306-1-7-1,,turk1306-1,7,nə̃́rə̃́hã̀l,nə̃́rə̃́hã̀l,[],( 5 + 2 ),['chan2019'],,False,False,,1
+turk1306-1-8-1,,turk1306-1,8,nə̃́rə̃́siɛ̀l,nə̃́rə̃́siɛ̀l,[],( 5 + 3 ),['chan2019'],,False,False,,1
+turk1306-1-9-1,,turk1306-1,9,dɛ̃̀ɛ̃̀sə́,dɛ̃̀ɛ̃̀sə́,[],( 10 -1 ) ?,['chan2019'],,False,False,,1
+turk1306-1-10-1,,turk1306-1,10,nṹɔ̃́sɔ̃̀,nṹɔ̃́sɔ̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-11-1,,turk1306-1,11,nṹɔ̃́sɔ̃̀-nə̃-dədə̃n,nṹɔ̃́sɔ̃̀-nə̃-dədə̃n,[],,['chan2019'],,False,False,,1
+turk1306-1-12-1,,turk1306-1,12,nṹɔ̃́sɔ̃̀-nə̃-ɡa-hãl,nṹɔ̃́sɔ̃̀-nə̃-ɡa-hãl,[],,['chan2019'],,False,False,,1
+turk1306-1-13-1,,turk1306-1,13,nṹɔ̃́sɔ̃̀-nə̃-ɡa-siɛl,nṹɔ̃́sɔ̃̀-nə̃-ɡa-siɛl,[],,['chan2019'],,False,False,,1
+turk1306-1-14-1,,turk1306-1,14,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩nə̃̀,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩nə̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-15-1,,turk1306-1,15,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩di,nṹɔ̃́sɔ̃̀-nə̃-ɡa-n̩di,[],,['chan2019'],,False,False,,1
+turk1306-1-16-1,,turk1306-1,16,nṹɔ̃́sɔ̃̀-nã́ndèin,nṹɔ̃́sɔ̃̀-nã́ndèin,[],,['chan2019'],,False,False,,1
+turk1306-1-17-1,,turk1306-1,17,nṹɔ̃́sɔ̃̀-nə̃́rə̃́hã̀l,nṹɔ̃́sɔ̃̀-nə̃́rə̃́hã̀l,[],,['chan2019'],,False,False,,1
+turk1306-1-18-1,,turk1306-1,18,nṹɔ̃́sɔ̃̀-nə̃́rə̃́siɛ̀l,nṹɔ̃́sɔ̃̀-nə̃́rə̃́siɛ̀l,[],,['chan2019'],,False,False,,1
+turk1306-1-19-1,,turk1306-1,19,nṹɔ̃́sɔ̃̀-dɛ̃̀ɛ̃̀sə́,nṹɔ̃́sɔ̃̀-dɛ̃̀ɛ̃̀sə́,[],,['chan2019'],,False,False,,1
+turk1306-1-20-1,,turk1306-1,20,ɡur̃,ɡur̃,[],,['chan2019'],,False,False,,1
+turk1306-1-21-1,,turk1306-1,21,ɡur̃-nə̃-dədə̃n,ɡur̃-nə̃-dədə̃n,[],,['chan2019'],,False,False,,1
+turk1306-1-22-1,,turk1306-1,22,ɡur̃-nə̃-ɡa-hãl,ɡur̃-nə̃-ɡa-hãl,[],,['chan2019'],,False,False,,1
+turk1306-1-23-1,,turk1306-1,23,ɡur̃-nə̃-ɡa-siɛl,ɡur̃-nə̃-ɡa-siɛl,[],,['chan2019'],,False,False,,1
+turk1306-1-24-1,,turk1306-1,24,ɡur̃-nə̃-ɡa-n̩nə̃̀,ɡur̃-nə̃-ɡa-n̩nə̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-25-1,,turk1306-1,25,ɡur̃-nə̃-ɡa-n̩di,ɡur̃-nə̃-ɡa-n̩di,[],,['chan2019'],,False,False,,1
+turk1306-1-26-1,,turk1306-1,26,ɡur̃-nã́ndèin,ɡur̃-nã́ndèin,[],,['chan2019'],,False,False,,1
+turk1306-1-27-1,,turk1306-1,27,ɡur̃-nə̃́rə̃́hã̀l,ɡur̃-nə̃́rə̃́hã̀l,[],,['chan2019'],,False,False,,1
+turk1306-1-28-1,,turk1306-1,28,ɡur̃-nə̃́rə̃́siɛ̀l,ɡur̃-nə̃́rə̃́siɛ̀l,[],,['chan2019'],,False,False,,1
+turk1306-1-29-1,,turk1306-1,29,ɡur dɛ̃̀ɛ̃̀sə́,ɡur dɛ̃̀ɛ̃̀sə́,[],,['chan2019'],,False,False,,1
+turk1306-1-30-1,,turk1306-1,30,ɡur̃ nṹɔ̃́sɔ̃̀,ɡur̃ nṹɔ̃́sɔ̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-40-1,,turk1306-1,40,ɡwaa-hãl,ɡwaa-hãl,[],( 20 x 2 ),['chan2019'],,False,False,,1
+turk1306-1-50-1,,turk1306-1,50,ɡwaa-hãl-nṹɔ̃́sɔ̃̀,ɡwaa-hãl-nṹɔ̃́sɔ̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-60-1,,turk1306-1,60,ɡwaa-siɛl,ɡwaa-siɛl,[],( 20 x 3 ),['chan2019'],,False,False,,1
+turk1306-1-70-1,,turk1306-1,70,ɡwaa-siɛl-nṹɔ̃́sɔ̃̀,ɡwaa-siɛl-nṹɔ̃́sɔ̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-80-1,,turk1306-1,80,jiiɛ̀tú,jiiɛ̀tú,[],,['chan2019'],,False,False,,1
+turk1306-1-90-1,,turk1306-1,90,jiiɛ̀tú-nṹɔ̃́sɔ̃̀,jiiɛ̀tú-nṹɔ̃́sɔ̃̀,[],,['chan2019'],,False,False,,1
+turk1306-1-100-1,,turk1306-1,100,ɡundi,ɡundi,[],,['chan2019'],,False,False,,1
+turk1306-1-200-1,,turk1306-1,200,ɡundi-ba-hãl,ɡundi-ba-hãl,[],,['chan2019'],,False,False,,1
+turk1306-1-200-2,,turk1306-1,200,400. tundí,400. tundí,[],,['chan2019'],,False,True,,1
+turk1306-1-200-3,,turk1306-1,200,800. to-nṹɔ̃́sɔ̃̀,800. to-nṹɔ̃́sɔ̃̀,[],,['chan2019'],,False,True,,1
+turk1306-1-1000-1,,turk1306-1,1000,to-nṹɔ̃́sɔ̃̀-ɡundi-ba-hãl,to-nṹɔ̃́sɔ̃̀-ɡundi-ba-hãl,[],( 800 + 200 ),['chan2019'],,False,False,,1
+turk1306-1-2000-1,,turk1306-1,2000,tuyur̃-tundí,tuyur̃-tundí,[],,['chan2019'],,False,False,,1

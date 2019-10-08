@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-akla1241-2-1-1,,akla1241-2,1,ʔi'sah,ʔi'sah,[],,[],,False,False,,2
-akla1241-2-2-1,,akla1241-2,2,'daywa,'daywa,[],,[],,False,False,,2
-akla1241-2-3-1,,akla1241-2,3,'tatloh,'tatloh,[],,[],,False,False,,2
-akla1241-2-4-1,,akla1241-2,4,ʔa'pat,ʔa'pat,[],,[],,False,False,,2
-akla1241-2-5-1,,akla1241-2,5,li'ma,li'ma,[],,[],,False,False,,2
-akla1241-2-6-1,,akla1241-2,6,ʔa'nom,ʔa'nom,[],,[],,False,False,,2
-akla1241-2-7-1,,akla1241-2,7,pi'toh,pi'toh,[],,[],,False,False,,2
-akla1241-2-8-1,,akla1241-2,8,wa'oh,wa'oh,[],,[],,False,False,,2
-akla1241-2-9-1,,akla1241-2,9,si'yam,si'yam,[],,[],,False,False,,2
-akla1241-2-10-1,,akla1241-2,10,na'puoʔ,na'puoʔ,[],,[],,False,False,,2
-akla1241-2-11-1,,akla1241-2,11,onsi,onsi,[],,[],,False,False,,2
-akla1241-2-12-1,,akla1241-2,12,duːsi,duːsi,[],,[],,False,False,,2
-akla1241-2-13-1,,akla1241-2,13,tresi,tresi,[],,[],,False,False,,2
-akla1241-2-14-1,,akla1241-2,14,katorsi,katorsi,[],,[],,False,False,,2
-akla1241-2-15-1,,akla1241-2,15,kinsi,kinsi,[],,[],,False,False,,2
-akla1241-2-16-1,,akla1241-2,16,disisai,disisai,[],,[],,False,False,,2
-akla1241-2-17-1,,akla1241-2,17,disisieti,disisieti,[],,[],,False,False,,2
-akla1241-2-18-1,,akla1241-2,18,disiot͡so,disiot͡so,[],,[],,False,False,,2
-akla1241-2-19-1,,akla1241-2,19,disinoybi,disinoybi,[],,[],,False,False,,2
-akla1241-2-20-1,,akla1241-2,20,baynti,baynti,[],,[],,False,False,,2
-akla1241-2-21-1,,akla1241-2,21,baynti uno,baynti uno,[],,[],,False,False,,2
-akla1241-2-22-1,,akla1241-2,22,baynti dos,baynti dos,[],,[],,False,False,,2
-akla1241-2-23-1,,akla1241-2,23,baynti tres,baynti tres,[],,[],,False,False,,2
-akla1241-2-24-1,,akla1241-2,24,baynti kwatro,baynti kwatro,[],,[],,False,False,,2
-akla1241-2-25-1,,akla1241-2,25,baynti siŋko,baynti siŋko,[],,[],,False,False,,2
-akla1241-2-26-1,,akla1241-2,26,baynti saes,baynti saes,[],,[],,False,False,,2
-akla1241-2-27-1,,akla1241-2,27,baynti siete,baynti siete,[],,[],,False,False,,2
-akla1241-2-28-1,,akla1241-2,28,baynti ot͡so,baynti ot͡so,[],,[],,False,False,,2
-akla1241-2-29-1,,akla1241-2,29,baynti noybe,baynti noybe,[],,[],,False,False,,2
-akla1241-2-30-1,,akla1241-2,30,trainta,trainta,[],,[],,False,False,,2
-akla1241-2-40-1,,akla1241-2,40,kwarinta,kwarinta,[],,[],,False,False,,2
-akla1241-2-50-1,,akla1241-2,50,siŋkwenta,siŋkwenta,[],,[],,False,False,,2
-akla1241-2-60-1,,akla1241-2,60,sesenta,sesenta,[],,[],,False,False,,2
-akla1241-2-70-1,,akla1241-2,70,setenta,setenta,[],,[],,False,False,,2
-akla1241-2-80-1,,akla1241-2,80,ot͡senta,ot͡senta,[],,[],,False,False,,2
-akla1241-2-90-1,,akla1241-2,90,nobenta,nobenta,[],,[],,False,False,,2
-akla1241-2-100-1,,akla1241-2,100,saŋ ɡatus,saŋ ɡatus,[],,[],,False,False,,2
-akla1241-2-100-2,,akla1241-2,100,syento,syento,[],,[],,False,False,,2
-akla1241-2-200-1,,akla1241-2,200,darwaŋ ɡatus,darwaŋ ɡatus,[],,[],,False,False,,2
-akla1241-2-200-2,,akla1241-2,200,dos syentos,dos syentos,[],,[],,False,False,,2
-akla1241-2-1000-1,,akla1241-2,1000,saŋ libo,saŋ libo,[],,[],,False,False,,2
-akla1241-2-1000-2,,akla1241-2,1000,mil,mil,[],,[],,False,False,,2
-akla1241-2-2000-1,,akla1241-2,2000,darwaŋ libo,darwaŋ libo,[],,[],,False,False,,2
-akla1241-2-2000-2,,akla1241-2,2000,dos mil,dos mil,[],,[],,False,False,,2
+akla1241-2-1-1,,akla1241-2,1,ʔi'sah,ʔi'sah,[],,['chan2019'],,False,False,,2
+akla1241-2-2-1,,akla1241-2,2,'daywa,'daywa,[],,['chan2019'],,False,False,,2
+akla1241-2-3-1,,akla1241-2,3,'tatloh,'tatloh,[],,['chan2019'],,False,False,,2
+akla1241-2-4-1,,akla1241-2,4,ʔa'pat,ʔa'pat,[],,['chan2019'],,False,False,,2
+akla1241-2-5-1,,akla1241-2,5,li'ma,li'ma,[],,['chan2019'],,False,False,,2
+akla1241-2-6-1,,akla1241-2,6,ʔa'nom,ʔa'nom,[],,['chan2019'],,False,False,,2
+akla1241-2-7-1,,akla1241-2,7,pi'toh,pi'toh,[],,['chan2019'],,False,False,,2
+akla1241-2-8-1,,akla1241-2,8,wa'oh,wa'oh,[],,['chan2019'],,False,False,,2
+akla1241-2-9-1,,akla1241-2,9,si'yam,si'yam,[],,['chan2019'],,False,False,,2
+akla1241-2-10-1,,akla1241-2,10,na'puoʔ,na'puoʔ,[],,['chan2019'],,False,False,,2
+akla1241-2-11-1,,akla1241-2,11,onsi,onsi,[],,['chan2019'],,False,False,,2
+akla1241-2-12-1,,akla1241-2,12,duːsi,duːsi,[],,['chan2019'],,False,False,,2
+akla1241-2-13-1,,akla1241-2,13,tresi,tresi,[],,['chan2019'],,False,False,,2
+akla1241-2-14-1,,akla1241-2,14,katorsi,katorsi,[],,['chan2019'],,False,False,,2
+akla1241-2-15-1,,akla1241-2,15,kinsi,kinsi,[],,['chan2019'],,False,False,,2
+akla1241-2-16-1,,akla1241-2,16,disisai,disisai,[],,['chan2019'],,False,False,,2
+akla1241-2-17-1,,akla1241-2,17,disisieti,disisieti,[],,['chan2019'],,False,False,,2
+akla1241-2-18-1,,akla1241-2,18,disiot͡so,disiot͡so,[],,['chan2019'],,False,False,,2
+akla1241-2-19-1,,akla1241-2,19,disinoybi,disinoybi,[],,['chan2019'],,False,False,,2
+akla1241-2-20-1,,akla1241-2,20,baynti,baynti,[],,['chan2019'],,False,False,,2
+akla1241-2-21-1,,akla1241-2,21,baynti uno,baynti uno,[],,['chan2019'],,False,False,,2
+akla1241-2-22-1,,akla1241-2,22,baynti dos,baynti dos,[],,['chan2019'],,False,False,,2
+akla1241-2-23-1,,akla1241-2,23,baynti tres,baynti tres,[],,['chan2019'],,False,False,,2
+akla1241-2-24-1,,akla1241-2,24,baynti kwatro,baynti kwatro,[],,['chan2019'],,False,False,,2
+akla1241-2-25-1,,akla1241-2,25,baynti siŋko,baynti siŋko,[],,['chan2019'],,False,False,,2
+akla1241-2-26-1,,akla1241-2,26,baynti saes,baynti saes,[],,['chan2019'],,False,False,,2
+akla1241-2-27-1,,akla1241-2,27,baynti siete,baynti siete,[],,['chan2019'],,False,False,,2
+akla1241-2-28-1,,akla1241-2,28,baynti ot͡so,baynti ot͡so,[],,['chan2019'],,False,False,,2
+akla1241-2-29-1,,akla1241-2,29,baynti noybe,baynti noybe,[],,['chan2019'],,False,False,,2
+akla1241-2-30-1,,akla1241-2,30,trainta,trainta,[],,['chan2019'],,False,False,,2
+akla1241-2-40-1,,akla1241-2,40,kwarinta,kwarinta,[],,['chan2019'],,False,False,,2
+akla1241-2-50-1,,akla1241-2,50,siŋkwenta,siŋkwenta,[],,['chan2019'],,False,False,,2
+akla1241-2-60-1,,akla1241-2,60,sesenta,sesenta,[],,['chan2019'],,False,False,,2
+akla1241-2-70-1,,akla1241-2,70,setenta,setenta,[],,['chan2019'],,False,False,,2
+akla1241-2-80-1,,akla1241-2,80,ot͡senta,ot͡senta,[],,['chan2019'],,False,False,,2
+akla1241-2-90-1,,akla1241-2,90,nobenta,nobenta,[],,['chan2019'],,False,False,,2
+akla1241-2-100-1,,akla1241-2,100,saŋ ɡatus,saŋ ɡatus,[],,['chan2019'],,False,False,,2
+akla1241-2-100-2,,akla1241-2,100,syento,syento,[],,['chan2019'],,False,False,,2
+akla1241-2-200-1,,akla1241-2,200,darwaŋ ɡatus,darwaŋ ɡatus,[],,['chan2019'],,False,False,,2
+akla1241-2-200-2,,akla1241-2,200,dos syentos,dos syentos,[],,['chan2019'],,False,False,,2
+akla1241-2-1000-1,,akla1241-2,1000,saŋ libo,saŋ libo,[],,['chan2019'],,False,False,,2
+akla1241-2-1000-2,,akla1241-2,1000,mil,mil,[],,['chan2019'],,False,False,,2
+akla1241-2-2000-1,,akla1241-2,2000,darwaŋ libo,darwaŋ libo,[],,['chan2019'],,False,False,,2
+akla1241-2-2000-2,,akla1241-2,2000,dos mil,dos mil,[],,['chan2019'],,False,False,,2

@@ -1,38 +1,38 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wutu1244-1-1-1,,wutu1244-1,1,ofa,ofa,[],,[],,False,False,,1
-wutu1244-1-2-1,,wutu1244-1,2,hɲumo,hɲumo,[],,[],,False,False,,1
-wutu1244-1-3-1,,wutu1244-1,3,hɛno,hɛno,[],,[],,False,False,,1
-wutu1244-1-4-1,,wutu1244-1,4,no,no,[],,[],,False,False,,1
-wutu1244-1-5-1,,wutu1244-1,5,wi,wi,[],,[],,False,False,,1
-wutu1244-1-6-1,,wutu1244-1,6,not͡ʃio,not͡ʃio,[],( < 4+1 ),[],,False,False,,1
-wutu1244-1-7-1,,wutu1244-1,7,not͡ʃiohɲu,not͡ʃiohɲu,[],( < 4+2 ),[],,False,False,,1
-wutu1244-1-8-1,,wutu1244-1,8,not͡ʃiohɛno,not͡ʃiohɛno,[],( < 4+3 ),[],,False,False,,1
-wutu1244-1-9-1,,wutu1244-1,9,not͡ʃɛno,not͡ʃɛno,[],( < 4+4 ),[],,False,False,,1
-wutu1244-1-10-1,,wutu1244-1,10,samuli,samuli,[],,[],,False,False,,1
-wutu1244-1-11-1,,wutu1244-1,11,samuli ofa ple ofa,samuli ofa ple ofa,[],,[],,False,False,,1
-wutu1244-1-12-1,,wutu1244-1,12,samuli ofa ple hɲumo,samuli ofa ple hɲumo,[],,[],,False,False,,1
-wutu1244-1-13-1,,wutu1244-1,13,samuli ofa ple hɛno,samuli ofa ple hɛno,[],,[],,False,False,,1
-wutu1244-1-14-1,,wutu1244-1,14,samuli ofa ple no,samuli ofa ple no,[],,[],,False,False,,1
-wutu1244-1-15-1,,wutu1244-1,15,samuli ofa ple wi,samuli ofa ple wi,[],,[],,False,False,,1
-wutu1244-1-16-1,,wutu1244-1,16,samuli ofa ple not͡ʃio,samuli ofa ple not͡ʃio,[],,[],,False,False,,1
-wutu1244-1-17-1,,wutu1244-1,17,samuli ofa ple not͡ʃiohɲu,samuli ofa ple not͡ʃiohɲu,[],,[],,False,False,,1
-wutu1244-1-18-1,,wutu1244-1,18,samuli ofa ple not͡ʃiohɛno,samuli ofa ple not͡ʃiohɛno,[],,[],,False,False,,1
-wutu1244-1-19-1,,wutu1244-1,19,samuli ofa ple not͡ʃɛno,samuli ofa ple not͡ʃɛno,[],,[],,False,False,,1
-wutu1244-1-20-1,,wutu1244-1,20,samuli hɲumo,samuli hɲumo,[],,[],,False,False,,1
-wutu1244-1-21-1,,wutu1244-1,21,samuli hɲumo ple ofa,samuli hɲumo ple ofa,[],,[],,False,False,,1
-wutu1244-1-22-1,,wutu1244-1,22,samuli hɲumo hɲumo,samuli hɲumo hɲumo,[],,[],,False,False,,1
-wutu1244-1-23-1,,wutu1244-1,23,samuli hɲumo hɛno,samuli hɲumo hɛno,[],,[],,False,False,,1
-wutu1244-1-24-1,,wutu1244-1,24,samuli hɲumo no,samuli hɲumo no,[],,[],,False,False,,1
-wutu1244-1-25-1,,wutu1244-1,25,samuli hɲumo wi,samuli hɲumo wi,[],,[],,False,False,,1
-wutu1244-1-26-1,,wutu1244-1,26,samuli hɲumo not͡ʃio,samuli hɲumo not͡ʃio,[],,[],,False,False,,1
-wutu1244-1-27-1,,wutu1244-1,27,samuli hɲumo not͡ʃiohɲu,samuli hɲumo not͡ʃiohɲu,[],,[],,False,False,,1
-wutu1244-1-28-1,,wutu1244-1,28,samuli hɲumo not͡ʃiohɛno,samuli hɲumo not͡ʃiohɛno,[],,[],,False,False,,1
-wutu1244-1-29-1,,wutu1244-1,29,samuli samuli hɲumo not͡ʃɛno,samuli samuli hɲumo not͡ʃɛno,[],,[],,False,False,,1
-wutu1244-1-30-1,,wutu1244-1,30,samuli hɛno,samuli hɛno,[],,[],,False,False,,1
-wutu1244-1-40-1,,wutu1244-1,40,samuli no,samuli no,[],,[],,False,False,,1
-wutu1244-1-50-1,,wutu1244-1,50,samuli wi,samuli wi,[],,[],,False,False,,1
-wutu1244-1-60-1,,wutu1244-1,60,samuli not͡ʃio,samuli not͡ʃio,[],,[],,False,False,,1
-wutu1244-1-70-1,,wutu1244-1,70,samuli not͡ʃiohɲu,samuli not͡ʃiohɲu,[],,[],,False,False,,1
-wutu1244-1-80-1,,wutu1244-1,80,samuli not͡ʃiohɛno,samuli not͡ʃiohɛno,[],,[],,False,False,,1
-wutu1244-1-90-1,,wutu1244-1,90,samuli not͡ʃɛno,samuli not͡ʃɛno,[],,[],,False,False,,1
-wutu1244-1-100-1,,wutu1244-1,100,Top Pisin,Top Pisin,[],,[],,False,True,,1
+wutu1244-1-1-1,,wutu1244-1,1,ofa,ofa,[],,['chan2019'],,False,False,,1
+wutu1244-1-2-1,,wutu1244-1,2,hɲumo,hɲumo,[],,['chan2019'],,False,False,,1
+wutu1244-1-3-1,,wutu1244-1,3,hɛno,hɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-4-1,,wutu1244-1,4,no,no,[],,['chan2019'],,False,False,,1
+wutu1244-1-5-1,,wutu1244-1,5,wi,wi,[],,['chan2019'],,False,False,,1
+wutu1244-1-6-1,,wutu1244-1,6,not͡ʃio,not͡ʃio,[],( < 4+1 ),['chan2019'],,False,False,,1
+wutu1244-1-7-1,,wutu1244-1,7,not͡ʃiohɲu,not͡ʃiohɲu,[],( < 4+2 ),['chan2019'],,False,False,,1
+wutu1244-1-8-1,,wutu1244-1,8,not͡ʃiohɛno,not͡ʃiohɛno,[],( < 4+3 ),['chan2019'],,False,False,,1
+wutu1244-1-9-1,,wutu1244-1,9,not͡ʃɛno,not͡ʃɛno,[],( < 4+4 ),['chan2019'],,False,False,,1
+wutu1244-1-10-1,,wutu1244-1,10,samuli,samuli,[],,['chan2019'],,False,False,,1
+wutu1244-1-11-1,,wutu1244-1,11,samuli ofa ple ofa,samuli ofa ple ofa,[],,['chan2019'],,False,False,,1
+wutu1244-1-12-1,,wutu1244-1,12,samuli ofa ple hɲumo,samuli ofa ple hɲumo,[],,['chan2019'],,False,False,,1
+wutu1244-1-13-1,,wutu1244-1,13,samuli ofa ple hɛno,samuli ofa ple hɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-14-1,,wutu1244-1,14,samuli ofa ple no,samuli ofa ple no,[],,['chan2019'],,False,False,,1
+wutu1244-1-15-1,,wutu1244-1,15,samuli ofa ple wi,samuli ofa ple wi,[],,['chan2019'],,False,False,,1
+wutu1244-1-16-1,,wutu1244-1,16,samuli ofa ple not͡ʃio,samuli ofa ple not͡ʃio,[],,['chan2019'],,False,False,,1
+wutu1244-1-17-1,,wutu1244-1,17,samuli ofa ple not͡ʃiohɲu,samuli ofa ple not͡ʃiohɲu,[],,['chan2019'],,False,False,,1
+wutu1244-1-18-1,,wutu1244-1,18,samuli ofa ple not͡ʃiohɛno,samuli ofa ple not͡ʃiohɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-19-1,,wutu1244-1,19,samuli ofa ple not͡ʃɛno,samuli ofa ple not͡ʃɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-20-1,,wutu1244-1,20,samuli hɲumo,samuli hɲumo,[],,['chan2019'],,False,False,,1
+wutu1244-1-21-1,,wutu1244-1,21,samuli hɲumo ple ofa,samuli hɲumo ple ofa,[],,['chan2019'],,False,False,,1
+wutu1244-1-22-1,,wutu1244-1,22,samuli hɲumo hɲumo,samuli hɲumo hɲumo,[],,['chan2019'],,False,False,,1
+wutu1244-1-23-1,,wutu1244-1,23,samuli hɲumo hɛno,samuli hɲumo hɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-24-1,,wutu1244-1,24,samuli hɲumo no,samuli hɲumo no,[],,['chan2019'],,False,False,,1
+wutu1244-1-25-1,,wutu1244-1,25,samuli hɲumo wi,samuli hɲumo wi,[],,['chan2019'],,False,False,,1
+wutu1244-1-26-1,,wutu1244-1,26,samuli hɲumo not͡ʃio,samuli hɲumo not͡ʃio,[],,['chan2019'],,False,False,,1
+wutu1244-1-27-1,,wutu1244-1,27,samuli hɲumo not͡ʃiohɲu,samuli hɲumo not͡ʃiohɲu,[],,['chan2019'],,False,False,,1
+wutu1244-1-28-1,,wutu1244-1,28,samuli hɲumo not͡ʃiohɛno,samuli hɲumo not͡ʃiohɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-29-1,,wutu1244-1,29,samuli samuli hɲumo not͡ʃɛno,samuli samuli hɲumo not͡ʃɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-30-1,,wutu1244-1,30,samuli hɛno,samuli hɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-40-1,,wutu1244-1,40,samuli no,samuli no,[],,['chan2019'],,False,False,,1
+wutu1244-1-50-1,,wutu1244-1,50,samuli wi,samuli wi,[],,['chan2019'],,False,False,,1
+wutu1244-1-60-1,,wutu1244-1,60,samuli not͡ʃio,samuli not͡ʃio,[],,['chan2019'],,False,False,,1
+wutu1244-1-70-1,,wutu1244-1,70,samuli not͡ʃiohɲu,samuli not͡ʃiohɲu,[],,['chan2019'],,False,False,,1
+wutu1244-1-80-1,,wutu1244-1,80,samuli not͡ʃiohɛno,samuli not͡ʃiohɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-90-1,,wutu1244-1,90,samuli not͡ʃɛno,samuli not͡ʃɛno,[],,['chan2019'],,False,False,,1
+wutu1244-1-100-1,,wutu1244-1,100,Top Pisin,Top Pisin,[],,['chan2019'],,False,True,,1

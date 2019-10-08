@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-youn1235-1-1-1,,youn1235-1,1,i53,i53,[],,[],,False,False,,1
-youn1235-1-2-1,,youn1235-1,2,əu53,əu53,[],,[],,False,False,,1
-youn1235-1-3-1,,youn1235-1,3,pe53,pe53,[],,[],,False,False,,1
-youn1235-1-4-1,,youn1235-1,4,tɕa53,tɕa53,[],,[],,False,False,,1
-youn1235-1-5-1,,youn1235-1,5,pɤ53,pɤ53,[],,[],,False,False,,1
-youn1235-1-6-1,,youn1235-1,6,tɕu23,tɕu23,[],,[],,False,False,,1
-youn1235-1-7-1,,youn1235-1,7,ʂɔŋ22,ʂɔŋ22,[],,[],,False,False,,1
-youn1235-1-8-1,,youn1235-1,8,jo22,jo22,[],,[],,False,False,,1
-youn1235-1-9-1,,youn1235-1,9,tɕu32,tɕu32,[],,[],,False,False,,1
-youn1235-1-10-1,,youn1235-1,10,tɕu22,tɕu22,[],,[],,False,False,,1
-youn1235-1-11-1,,youn1235-1,11,tɕu22i53,tɕu22i53,[],,[],,False,False,,1
-youn1235-1-12-1,,youn1235-1,12,tɕu22əu53,tɕu22əu53,[],,[],,False,False,,1
-youn1235-1-13-1,,youn1235-1,13,tɕu22pe53,tɕu22pe53,[],,[],,False,False,,1
-youn1235-1-14-1,,youn1235-1,14,tɕu22tɕa53,tɕu22tɕa53,[],,[],,False,False,,1
-youn1235-1-15-1,,youn1235-1,15,tɕu22pɤ53,tɕu22pɤ53,[],,[],,False,False,,1
-youn1235-1-16-1,,youn1235-1,16,tɕu22tɕu23,tɕu22tɕu23,[],,[],,False,False,,1
-youn1235-1-17-1,,youn1235-1,17,tɕu22ʂɔŋ22,tɕu22ʂɔŋ22,[],,[],,False,False,,1
-youn1235-1-19-1,,youn1235-1,19,tɕu22tɕu32,tɕu22tɕu32,[],,[],,False,False,,1
-youn1235-1-20-1,,youn1235-1,20,ȵɔŋ33tɕu22,ȵɔŋ33tɕu22,[],,[],,False,False,,1
-youn1235-1-21-1,,youn1235-1,21,ȵɔŋ33i53,ȵɔŋ33i53,[],,[],,False,False,,1
-youn1235-1-22-1,,youn1235-1,22,ȵɔŋ33əu53,ȵɔŋ33əu53,[],,[],,False,False,,1
-youn1235-1-23-1,,youn1235-1,23,ȵɔŋ33pe53,ȵɔŋ33pe53,[],,[],,False,False,,1
-youn1235-1-24-1,,youn1235-1,24,ȵɔŋ33tɕa53,ȵɔŋ33tɕa53,[],,[],,False,False,,1
-youn1235-1-25-1,,youn1235-1,25,ȵɔŋ33pɤ53,ȵɔŋ33pɤ53,[],,[],,False,False,,1
-youn1235-1-26-1,,youn1235-1,26,ȵɔŋ33tɕu23,ȵɔŋ33tɕu23,[],,[],,False,False,,1
-youn1235-1-27-1,,youn1235-1,27,ȵɔŋ33ʂɔŋ22,ȵɔŋ33ʂɔŋ22,[],,[],,False,False,,1
-youn1235-1-28-1,,youn1235-1,28,ȵɔŋ33jo22,ȵɔŋ33jo22,[],,[],,False,False,,1
-youn1235-1-29-1,,youn1235-1,29,ȵɔŋ33tɕu32,ȵɔŋ33tɕu32,[],,[],,False,False,,1
-youn1235-1-30-1,,youn1235-1,30,pe53 tɕu22,pe53 tɕu22,[],,[],,False,False,,1
-youn1235-1-40-1,,youn1235-1,40,tɕa53 tɕu22,tɕa53 tɕu22,[],,[],,False,False,,1
-youn1235-1-50-1,,youn1235-1,50,pɤ53 tɕu22,pɤ53 tɕu22,[],,[],,False,False,,1
-youn1235-1-60-1,,youn1235-1,60,tɕu23 tɕu22,tɕu23 tɕu22,[],,[],,False,False,,1
-youn1235-1-70-1,,youn1235-1,70,ʂɔŋ22 tɕu22,ʂɔŋ22 tɕu22,[],,[],,False,False,,1
-youn1235-1-80-1,,youn1235-1,80,jo22 tɕu22,jo22 tɕu22,[],,[],,False,False,,1
-youn1235-1-90-1,,youn1235-1,90,tɕu32 tɕu22,tɕu32 tɕu22,[],,[],,False,False,,1
-youn1235-1-100-1,,youn1235-1,100,i53 pei23,i53 pei23,[],(< Chinese),[],,True,False,,1
-youn1235-1-200-1,,youn1235-1,200,əu53 pei23,əu53 pei23,[],,[],,False,False,,1
-youn1235-1-1000-1,,youn1235-1,1000,i53 ʂin53,i53 ʂin53,[],< Chinese ,[],,True,False,,1
-youn1235-1-2000-1,,youn1235-1,2000,əu53 ʂin53,əu53 ʂin53,[],,[],,False,False,,1
+youn1235-1-1-1,,youn1235-1,1,i53,i53,[],,['chan2019'],,False,False,,1
+youn1235-1-2-1,,youn1235-1,2,əu53,əu53,[],,['chan2019'],,False,False,,1
+youn1235-1-3-1,,youn1235-1,3,pe53,pe53,[],,['chan2019'],,False,False,,1
+youn1235-1-4-1,,youn1235-1,4,tɕa53,tɕa53,[],,['chan2019'],,False,False,,1
+youn1235-1-5-1,,youn1235-1,5,pɤ53,pɤ53,[],,['chan2019'],,False,False,,1
+youn1235-1-6-1,,youn1235-1,6,tɕu23,tɕu23,[],,['chan2019'],,False,False,,1
+youn1235-1-7-1,,youn1235-1,7,ʂɔŋ22,ʂɔŋ22,[],,['chan2019'],,False,False,,1
+youn1235-1-8-1,,youn1235-1,8,jo22,jo22,[],,['chan2019'],,False,False,,1
+youn1235-1-9-1,,youn1235-1,9,tɕu32,tɕu32,[],,['chan2019'],,False,False,,1
+youn1235-1-10-1,,youn1235-1,10,tɕu22,tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-11-1,,youn1235-1,11,tɕu22i53,tɕu22i53,[],,['chan2019'],,False,False,,1
+youn1235-1-12-1,,youn1235-1,12,tɕu22əu53,tɕu22əu53,[],,['chan2019'],,False,False,,1
+youn1235-1-13-1,,youn1235-1,13,tɕu22pe53,tɕu22pe53,[],,['chan2019'],,False,False,,1
+youn1235-1-14-1,,youn1235-1,14,tɕu22tɕa53,tɕu22tɕa53,[],,['chan2019'],,False,False,,1
+youn1235-1-15-1,,youn1235-1,15,tɕu22pɤ53,tɕu22pɤ53,[],,['chan2019'],,False,False,,1
+youn1235-1-16-1,,youn1235-1,16,tɕu22tɕu23,tɕu22tɕu23,[],,['chan2019'],,False,False,,1
+youn1235-1-17-1,,youn1235-1,17,tɕu22ʂɔŋ22,tɕu22ʂɔŋ22,[],,['chan2019'],,False,False,,1
+youn1235-1-19-1,,youn1235-1,19,tɕu22tɕu32,tɕu22tɕu32,[],,['chan2019'],,False,False,,1
+youn1235-1-20-1,,youn1235-1,20,ȵɔŋ33tɕu22,ȵɔŋ33tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-21-1,,youn1235-1,21,ȵɔŋ33i53,ȵɔŋ33i53,[],,['chan2019'],,False,False,,1
+youn1235-1-22-1,,youn1235-1,22,ȵɔŋ33əu53,ȵɔŋ33əu53,[],,['chan2019'],,False,False,,1
+youn1235-1-23-1,,youn1235-1,23,ȵɔŋ33pe53,ȵɔŋ33pe53,[],,['chan2019'],,False,False,,1
+youn1235-1-24-1,,youn1235-1,24,ȵɔŋ33tɕa53,ȵɔŋ33tɕa53,[],,['chan2019'],,False,False,,1
+youn1235-1-25-1,,youn1235-1,25,ȵɔŋ33pɤ53,ȵɔŋ33pɤ53,[],,['chan2019'],,False,False,,1
+youn1235-1-26-1,,youn1235-1,26,ȵɔŋ33tɕu23,ȵɔŋ33tɕu23,[],,['chan2019'],,False,False,,1
+youn1235-1-27-1,,youn1235-1,27,ȵɔŋ33ʂɔŋ22,ȵɔŋ33ʂɔŋ22,[],,['chan2019'],,False,False,,1
+youn1235-1-28-1,,youn1235-1,28,ȵɔŋ33jo22,ȵɔŋ33jo22,[],,['chan2019'],,False,False,,1
+youn1235-1-29-1,,youn1235-1,29,ȵɔŋ33tɕu32,ȵɔŋ33tɕu32,[],,['chan2019'],,False,False,,1
+youn1235-1-30-1,,youn1235-1,30,pe53 tɕu22,pe53 tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-40-1,,youn1235-1,40,tɕa53 tɕu22,tɕa53 tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-50-1,,youn1235-1,50,pɤ53 tɕu22,pɤ53 tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-60-1,,youn1235-1,60,tɕu23 tɕu22,tɕu23 tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-70-1,,youn1235-1,70,ʂɔŋ22 tɕu22,ʂɔŋ22 tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-80-1,,youn1235-1,80,jo22 tɕu22,jo22 tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-90-1,,youn1235-1,90,tɕu32 tɕu22,tɕu32 tɕu22,[],,['chan2019'],,False,False,,1
+youn1235-1-100-1,,youn1235-1,100,i53 pei23,i53 pei23,[],(< Chinese),['chan2019'],,True,False,,1
+youn1235-1-200-1,,youn1235-1,200,əu53 pei23,əu53 pei23,[],,['chan2019'],,False,False,,1
+youn1235-1-1000-1,,youn1235-1,1000,i53 ʂin53,i53 ʂin53,[],< Chinese ,['chan2019'],,True,False,,1
+youn1235-1-2000-1,,youn1235-1,2000,əu53 ʂin53,əu53 ʂin53,[],,['chan2019'],,False,False,,1

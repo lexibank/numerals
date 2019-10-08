@@ -1,53 +1,53 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-amba1265-1-1-1,,amba1265-1,1,boyari,boyari,[],,[],,False,False,,1
-amba1265-1-1-2,,amba1265-1,1,mansiri,mansiri,[],,[],,False,False,,1
-amba1265-1-2-1,,amba1265-1,2,boru,boru,[],,[],,False,False,,1
-amba1265-1-2-2,,amba1265-1,2,mandu,mandu,[],,[],,False,False,,1
-amba1265-1-3-1,,amba1265-1,3,botoru,botoru,[],,[],,False,False,,1
-amba1265-1-3-2,,amba1265-1,3,mantoru,mantoru,[],,[],,False,False,,1
-amba1265-1-4-1,,amba1265-1,4,boa,boa,[],,[],,False,False,,1
-amba1265-1-4-2,,amba1265-1,4,mana,mana,[],,[],,False,False,,1
-amba1265-1-5-1,,amba1265-1,5,riŋ,riŋ,[],,[],,False,False,,1
-amba1265-1-6-1,,amba1265-1,6,wonaŋ,wonaŋ,[],,[],,False,False,,1
-amba1265-1-7-1,,amba1265-1,7,itu,itu,[],,[],,False,False,,1
-amba1265-1-8-1,,amba1265-1,8,indeatoru,indeatoru,[],( 2 x 4 ),[],,False,False,,1
-amba1265-1-9-1,,amba1265-1,9,indeata,indeata,[],,[],,False,False,,1
-amba1265-1-10-1,,amba1265-1,10,sura,sura,[],,[],,False,False,,1
-amba1265-1-11-1,,amba1265-1,11,sura boyari,sura boyari,[],,[],,False,False,,1
-amba1265-1-11-2,,amba1265-1,11,mansiri,mansiri,[],,[],,False,False,,1
-amba1265-1-12-1,,amba1265-1,12,sura boru,sura boru,[],,[],,False,False,,1
-amba1265-1-12-2,,amba1265-1,12,mandu,mandu,[],,[],,False,False,,1
-amba1265-1-13-1,,amba1265-1,13,sura botoru,sura botoru,[],,[],,False,False,,1
-amba1265-1-13-2,,amba1265-1,13,mantoru,mantoru,[],,[],,False,False,,1
-amba1265-1-14-1,,amba1265-1,14,sura boa,sura boa,[],,[],,False,False,,1
-amba1265-1-14-2,,amba1265-1,14,mana,mana,[],,[],,False,False,,1
-amba1265-1-15-1,,amba1265-1,15,sura riŋ,sura riŋ,[],,[],,False,False,,1
-amba1265-1-16-1,,amba1265-1,16,sura wonaŋ,sura wonaŋ,[],,[],,False,False,,1
-amba1265-1-17-1,,amba1265-1,17,sura itu,sura itu,[],,[],,False,False,,1
-amba1265-1-18-1,,amba1265-1,18,sura indeatoru,sura indeatoru,[],,[],,False,False,,1
-amba1265-1-19-1,,amba1265-1,19,sura indeata,sura indeata,[],,[],,False,False,,1
-amba1265-1-20-1,,amba1265-1,20,pia-rei,pia-rei,[],( litː 'man one'),[],,False,False,,1
-amba1265-1-21-1,,amba1265-1,21,piareya boyari,piareya boyari,[],,[],,False,False,,1
-amba1265-1-21-2,,amba1265-1,21,mansiri,mansiri,[],,[],,False,False,,1
-amba1265-1-22-1,,amba1265-1,22,piareya boru,piareya boru,[],,[],,False,False,,1
-amba1265-1-22-2,,amba1265-1,22,mandu,mandu,[],,[],,False,False,,1
-amba1265-1-23-1,,amba1265-1,23,piareya botoru,piareya botoru,[],,[],,False,False,,1
-amba1265-1-23-2,,amba1265-1,23,mantoru,mantoru,[],,[],,False,False,,1
-amba1265-1-24-1,,amba1265-1,24,piareya boa,piareya boa,[],,[],,False,False,,1
-amba1265-1-24-2,,amba1265-1,24,mana,mana,[],,[],,False,False,,1
-amba1265-1-25-1,,amba1265-1,25,piareya riŋ,piareya riŋ,[],,[],,False,False,,1
-amba1265-1-26-1,,amba1265-1,26,piareya wonaŋ,piareya wonaŋ,[],,[],,False,False,,1
-amba1265-1-27-1,,amba1265-1,27,piareya itu,piareya itu,[],,[],,False,False,,1
-amba1265-1-28-1,,amba1265-1,28,piareya indeatoru,piareya indeatoru,[],,[],,False,False,,1
-amba1265-1-29-1,,amba1265-1,29,piareya indeata,piareya indeata,[],,[],,False,False,,1
-amba1265-1-30-1,,amba1265-1,30,piareya sura,piareya sura,[],,[],,False,False,,1
-amba1265-1-40-1,,amba1265-1,40,piarua,piarua,[],( 20 x 2 ),[],,False,False,,1
-amba1265-1-50-1,,amba1265-1,50,piarua sura,piarua sura,[],,[],,False,False,,1
-amba1265-1-60-1,,amba1265-1,60,piatoru,piatoru,[],( 20 x 3 ),[],,False,False,,1
-amba1265-1-70-1,,amba1265-1,70,piatoru sura,piatoru sura,[],,[],,False,False,,1
-amba1265-1-80-1,,amba1265-1,80,piaa,piaa,[],( 20 x 4 ),[],,False,False,,1
-amba1265-1-90-1,,amba1265-1,90,piaa sura,piaa sura,[],,[],,False,False,,1
-amba1265-1-100-1,,amba1265-1,100,piariŋ,piariŋ,[],( 20 x 5 ),[],,False,False,,1
-amba1265-1-200-1,,amba1265-1,200,piariŋ sura,piariŋ sura,[],( 20 x 10 ),[],,False,False,,1
-amba1265-1-1000-1,,amba1265-1,1000,piariŋ wesura,piariŋ wesura,[],,[],,False,False,,1
-amba1265-1-2000-1,,amba1265-1,2000,piariŋ wesura wesura,piariŋ wesura wesura,[],,[],,False,False,,1
+amba1265-1-1-1,,amba1265-1,1,boyari,boyari,[],,['chan2019'],,False,False,,1
+amba1265-1-1-2,,amba1265-1,1,mansiri,mansiri,[],,['chan2019'],,False,False,,1
+amba1265-1-2-1,,amba1265-1,2,boru,boru,[],,['chan2019'],,False,False,,1
+amba1265-1-2-2,,amba1265-1,2,mandu,mandu,[],,['chan2019'],,False,False,,1
+amba1265-1-3-1,,amba1265-1,3,botoru,botoru,[],,['chan2019'],,False,False,,1
+amba1265-1-3-2,,amba1265-1,3,mantoru,mantoru,[],,['chan2019'],,False,False,,1
+amba1265-1-4-1,,amba1265-1,4,boa,boa,[],,['chan2019'],,False,False,,1
+amba1265-1-4-2,,amba1265-1,4,mana,mana,[],,['chan2019'],,False,False,,1
+amba1265-1-5-1,,amba1265-1,5,riŋ,riŋ,[],,['chan2019'],,False,False,,1
+amba1265-1-6-1,,amba1265-1,6,wonaŋ,wonaŋ,[],,['chan2019'],,False,False,,1
+amba1265-1-7-1,,amba1265-1,7,itu,itu,[],,['chan2019'],,False,False,,1
+amba1265-1-8-1,,amba1265-1,8,indeatoru,indeatoru,[],( 2 x 4 ),['chan2019'],,False,False,,1
+amba1265-1-9-1,,amba1265-1,9,indeata,indeata,[],,['chan2019'],,False,False,,1
+amba1265-1-10-1,,amba1265-1,10,sura,sura,[],,['chan2019'],,False,False,,1
+amba1265-1-11-1,,amba1265-1,11,sura boyari,sura boyari,[],,['chan2019'],,False,False,,1
+amba1265-1-11-2,,amba1265-1,11,mansiri,mansiri,[],,['chan2019'],,False,False,,1
+amba1265-1-12-1,,amba1265-1,12,sura boru,sura boru,[],,['chan2019'],,False,False,,1
+amba1265-1-12-2,,amba1265-1,12,mandu,mandu,[],,['chan2019'],,False,False,,1
+amba1265-1-13-1,,amba1265-1,13,sura botoru,sura botoru,[],,['chan2019'],,False,False,,1
+amba1265-1-13-2,,amba1265-1,13,mantoru,mantoru,[],,['chan2019'],,False,False,,1
+amba1265-1-14-1,,amba1265-1,14,sura boa,sura boa,[],,['chan2019'],,False,False,,1
+amba1265-1-14-2,,amba1265-1,14,mana,mana,[],,['chan2019'],,False,False,,1
+amba1265-1-15-1,,amba1265-1,15,sura riŋ,sura riŋ,[],,['chan2019'],,False,False,,1
+amba1265-1-16-1,,amba1265-1,16,sura wonaŋ,sura wonaŋ,[],,['chan2019'],,False,False,,1
+amba1265-1-17-1,,amba1265-1,17,sura itu,sura itu,[],,['chan2019'],,False,False,,1
+amba1265-1-18-1,,amba1265-1,18,sura indeatoru,sura indeatoru,[],,['chan2019'],,False,False,,1
+amba1265-1-19-1,,amba1265-1,19,sura indeata,sura indeata,[],,['chan2019'],,False,False,,1
+amba1265-1-20-1,,amba1265-1,20,pia-rei,pia-rei,[],( litː 'man one'),['chan2019'],,False,False,,1
+amba1265-1-21-1,,amba1265-1,21,piareya boyari,piareya boyari,[],,['chan2019'],,False,False,,1
+amba1265-1-21-2,,amba1265-1,21,mansiri,mansiri,[],,['chan2019'],,False,False,,1
+amba1265-1-22-1,,amba1265-1,22,piareya boru,piareya boru,[],,['chan2019'],,False,False,,1
+amba1265-1-22-2,,amba1265-1,22,mandu,mandu,[],,['chan2019'],,False,False,,1
+amba1265-1-23-1,,amba1265-1,23,piareya botoru,piareya botoru,[],,['chan2019'],,False,False,,1
+amba1265-1-23-2,,amba1265-1,23,mantoru,mantoru,[],,['chan2019'],,False,False,,1
+amba1265-1-24-1,,amba1265-1,24,piareya boa,piareya boa,[],,['chan2019'],,False,False,,1
+amba1265-1-24-2,,amba1265-1,24,mana,mana,[],,['chan2019'],,False,False,,1
+amba1265-1-25-1,,amba1265-1,25,piareya riŋ,piareya riŋ,[],,['chan2019'],,False,False,,1
+amba1265-1-26-1,,amba1265-1,26,piareya wonaŋ,piareya wonaŋ,[],,['chan2019'],,False,False,,1
+amba1265-1-27-1,,amba1265-1,27,piareya itu,piareya itu,[],,['chan2019'],,False,False,,1
+amba1265-1-28-1,,amba1265-1,28,piareya indeatoru,piareya indeatoru,[],,['chan2019'],,False,False,,1
+amba1265-1-29-1,,amba1265-1,29,piareya indeata,piareya indeata,[],,['chan2019'],,False,False,,1
+amba1265-1-30-1,,amba1265-1,30,piareya sura,piareya sura,[],,['chan2019'],,False,False,,1
+amba1265-1-40-1,,amba1265-1,40,piarua,piarua,[],( 20 x 2 ),['chan2019'],,False,False,,1
+amba1265-1-50-1,,amba1265-1,50,piarua sura,piarua sura,[],,['chan2019'],,False,False,,1
+amba1265-1-60-1,,amba1265-1,60,piatoru,piatoru,[],( 20 x 3 ),['chan2019'],,False,False,,1
+amba1265-1-70-1,,amba1265-1,70,piatoru sura,piatoru sura,[],,['chan2019'],,False,False,,1
+amba1265-1-80-1,,amba1265-1,80,piaa,piaa,[],( 20 x 4 ),['chan2019'],,False,False,,1
+amba1265-1-90-1,,amba1265-1,90,piaa sura,piaa sura,[],,['chan2019'],,False,False,,1
+amba1265-1-100-1,,amba1265-1,100,piariŋ,piariŋ,[],( 20 x 5 ),['chan2019'],,False,False,,1
+amba1265-1-200-1,,amba1265-1,200,piariŋ sura,piariŋ sura,[],( 20 x 10 ),['chan2019'],,False,False,,1
+amba1265-1-1000-1,,amba1265-1,1000,piariŋ wesura,piariŋ wesura,[],,['chan2019'],,False,False,,1
+amba1265-1-2000-1,,amba1265-1,2000,piariŋ wesura wesura,piariŋ wesura wesura,[],,['chan2019'],,False,False,,1

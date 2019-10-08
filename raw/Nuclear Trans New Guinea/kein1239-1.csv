@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kein1239-1-1-1,,kein1239-1,1,ameɡia,ameɡia,[],,[],,False,False,,1
-kein1239-1-2-1,,kein1239-1,2,aliaɡ,aliaɡ,[],,[],,False,False,,1
-kein1239-1-3-1,,kein1239-1,3,ainarai,ainarai,[],,[],,False,False,,1
-kein1239-1-4-1,,kein1239-1,4,iwanarai,iwanarai,[],,[],,False,False,,1
-kein1239-1-5-1,,kein1239-1,5,tabkuai,tabkuai,[],,[],,False,False,,1
-kein1239-1-6-1,,kein1239-1,6,was oliɡ,was oliɡ,[],,[],,False,False,,1
-kein1239-1-7-1,,kein1239-1,7,kwali,kwali,[],,[],,False,False,,1
-kein1239-1-8-1,,kein1239-1,8,ɡuɡen,ɡuɡen,[],,[],,False,False,,1
-kein1239-1-9-1,,kein1239-1,9,sai naliu,sai naliu,[],,[],,False,False,,1
-kein1239-1-10-1,,kein1239-1,10,houhou,houhou,[],,[],,False,False,,1
-kein1239-1-11-1,,kein1239-1,11,niɡ basiɡ,niɡ basiɡ,[],,[],,False,False,,1
-kein1239-1-12-1,,kein1239-1,12,beɡuruɡ,beɡuruɡ,[],,[],,False,False,,1
+kein1239-1-1-1,,kein1239-1,1,ameɡia,ameɡia,[],,['chan2019'],,False,False,,1
+kein1239-1-2-1,,kein1239-1,2,aliaɡ,aliaɡ,[],,['chan2019'],,False,False,,1
+kein1239-1-3-1,,kein1239-1,3,ainarai,ainarai,[],,['chan2019'],,False,False,,1
+kein1239-1-4-1,,kein1239-1,4,iwanarai,iwanarai,[],,['chan2019'],,False,False,,1
+kein1239-1-5-1,,kein1239-1,5,tabkuai,tabkuai,[],,['chan2019'],,False,False,,1
+kein1239-1-6-1,,kein1239-1,6,was oliɡ,was oliɡ,[],,['chan2019'],,False,False,,1
+kein1239-1-7-1,,kein1239-1,7,kwali,kwali,[],,['chan2019'],,False,False,,1
+kein1239-1-8-1,,kein1239-1,8,ɡuɡen,ɡuɡen,[],,['chan2019'],,False,False,,1
+kein1239-1-9-1,,kein1239-1,9,sai naliu,sai naliu,[],,['chan2019'],,False,False,,1
+kein1239-1-10-1,,kein1239-1,10,houhou,houhou,[],,['chan2019'],,False,False,,1
+kein1239-1-11-1,,kein1239-1,11,niɡ basiɡ,niɡ basiɡ,[],,['chan2019'],,False,False,,1
+kein1239-1-12-1,,kein1239-1,12,beɡuruɡ,beɡuruɡ,[],,['chan2019'],,False,False,,1

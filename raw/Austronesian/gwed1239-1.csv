@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gwed1239-1-1-1,,gwed1239-1,1,emosi,emosi,[],,[],,False,False,,1
-gwed1239-1-2-1,,gwed1239-1,2,luaɡa,luaɡa,[],,[],,False,False,,1
-gwed1239-1-3-1,,gwed1239-1,3,tonuɡa,tonuɡa,[],,[],,False,False,,1
-gwed1239-1-4-1,,gwed1239-1,4,wohepali,wohepali,[],,[],,False,False,,1
-gwed1239-1-5-1,,gwed1239-1,5,nima emosi i tutu,nima emosi i tutu,[],(litː 'one hand finished' ),[],,False,False,,1
-gwed1239-1-10-1,,gwed1239-1,10,nima luaɡa i tutu,nima luaɡa i tutu,[],(litː 'two hands finished' ),[],,False,False,,1
+gwed1239-1-1-1,,gwed1239-1,1,emosi,emosi,[],,['chan2019'],,False,False,,1
+gwed1239-1-2-1,,gwed1239-1,2,luaɡa,luaɡa,[],,['chan2019'],,False,False,,1
+gwed1239-1-3-1,,gwed1239-1,3,tonuɡa,tonuɡa,[],,['chan2019'],,False,False,,1
+gwed1239-1-4-1,,gwed1239-1,4,wohepali,wohepali,[],,['chan2019'],,False,False,,1
+gwed1239-1-5-1,,gwed1239-1,5,nima emosi i tutu,nima emosi i tutu,[],(litː 'one hand finished' ),['chan2019'],,False,False,,1
+gwed1239-1-10-1,,gwed1239-1,10,nima luaɡa i tutu,nima luaɡa i tutu,[],(litː 'two hands finished' ),['chan2019'],,False,False,,1

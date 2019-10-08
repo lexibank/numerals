@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kili1267-1-1-1,,kili1267-1,1,tala,tala,[],,[],,False,False,,1
-kili1267-1-2-1,,kili1267-1,2,yu,yu,[],,[],,False,False,,1
-kili1267-1-3-1,,kili1267-1,3,tolu,tolu,[],,[],,False,False,,1
-kili1267-1-4-1,,kili1267-1,4,vasi,vasi,[],,[],,False,False,,1
-kili1267-1-5-1,,kili1267-1,5,lima,lima,[],,[],,False,False,,1
-kili1267-1-6-1,,kili1267-1,6,lima tala,lima tala,[],( 5+1 ),[],,False,False,,1
-kili1267-1-7-1,,kili1267-1,7,lima yu,lima yu,[],( 5+2 ),[],,False,False,,1
-kili1267-1-8-1,,kili1267-1,8,lima tolu,lima tolu,[],( 5+3 ),[],,False,False,,1
-kili1267-1-9-1,,kili1267-1,9,lima vasi,lima vasi,[],( 5+4 ),[],,False,False,,1
-kili1267-1-10-1,,kili1267-1,10,luwatala,luwatala,[],,[],,False,False,,1
-kili1267-1-11-1,,kili1267-1,11,luwatala tala,luwatala tala,[],,[],,False,False,,1
-kili1267-1-12-1,,kili1267-1,12,luwatala yu,luwatala yu,[],,[],,False,False,,1
-kili1267-1-13-1,,kili1267-1,13,luwatala tolu,luwatala tolu,[],,[],,False,False,,1
-kili1267-1-14-1,,kili1267-1,14,luwatala lima,luwatala lima,[],,[],,False,False,,1
-kili1267-1-15-1,,kili1267-1,15,luwatala lima,luwatala lima,[],,[],,False,False,,1
-kili1267-1-16-1,,kili1267-1,16,luwatala lima tala,luwatala lima tala,[],,[],,False,False,,1
-kili1267-1-17-1,,kili1267-1,17,luwatala lima yu,luwatala lima yu,[],,[],,False,False,,1
-kili1267-1-18-1,,kili1267-1,18,luwatala lima tolu,luwatala lima tolu,[],,[],,False,False,,1
-kili1267-1-19-1,,kili1267-1,19,luwatala lima vasi,luwatala lima vasi,[],,[],,False,False,,1
-kili1267-1-20-1,,kili1267-1,20,luwayu,luwayu,[],,[],,False,False,,1
-kili1267-1-21-1,,kili1267-1,21,luwayu tala,luwayu tala,[],,[],,False,False,,1
-kili1267-1-22-1,,kili1267-1,22,luwayu yu,luwayu yu,[],,[],,False,False,,1
-kili1267-1-23-1,,kili1267-1,23,luwayu tolu,luwayu tolu,[],,[],,False,False,,1
-kili1267-1-24-1,,kili1267-1,24,luwayu vasi,luwayu vasi,[],,[],,False,False,,1
-kili1267-1-25-1,,kili1267-1,25,luwayu lima,luwayu lima,[],,[],,False,False,,1
-kili1267-1-26-1,,kili1267-1,26,luwayu lima tala,luwayu lima tala,[],,[],,False,False,,1
-kili1267-1-27-1,,kili1267-1,27,luwayu lima yu,luwayu lima yu,[],,[],,False,False,,1
-kili1267-1-28-1,,kili1267-1,28,luwayu lima tolu,luwayu lima tolu,[],,[],,False,False,,1
-kili1267-1-29-1,,kili1267-1,29,luwayu lima vasi,luwayu lima vasi,[],,[],,False,False,,1
-kili1267-1-30-1,,kili1267-1,30,luwatolu,luwatolu,[],,[],,False,False,,1
-kili1267-1-40-1,,kili1267-1,40,luwavasi,luwavasi,[],,[],,False,False,,1
-kili1267-1-50-1,,kili1267-1,50,luwalima,luwalima,[],,[],,False,False,,1
-kili1267-1-60-1,,kili1267-1,60,luwalima luwatala,luwalima luwatala,[],( 50 + 10 ),[],,False,False,,1
-kili1267-1-70-1,,kili1267-1,70,luwalima luwayu,luwalima luwayu,[],( 50 + 20 ),[],,False,False,,1
-kili1267-1-80-1,,kili1267-1,80,luwalima luwatolu,luwalima luwatolu,[],( 50 + 30 ),[],,False,False,,1
-kili1267-1-90-1,,kili1267-1,90,luwalima luwavasi,luwalima luwavasi,[],( 50 + 40 ),[],,False,False,,1
-kili1267-1-100-1,,kili1267-1,100,lakatutala,lakatutala,[],,[],,False,False,,1
-kili1267-1-200-1,,kili1267-1,200,lakatuyu,lakatuyu,[],,[],,False,False,,1
-kili1267-1-1000-1,,kili1267-1,1000,lakatuluwatala,lakatuluwatala,[],( 100 x 10 ),[],,False,False,,1
-kili1267-1-2000-1,,kili1267-1,2000,lakatuluwayu,lakatuluwayu,[],( 100 x 20 ),[],,False,False,,1
+kili1267-1-1-1,,kili1267-1,1,tala,tala,[],,['chan2019'],,False,False,,1
+kili1267-1-2-1,,kili1267-1,2,yu,yu,[],,['chan2019'],,False,False,,1
+kili1267-1-3-1,,kili1267-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+kili1267-1-4-1,,kili1267-1,4,vasi,vasi,[],,['chan2019'],,False,False,,1
+kili1267-1-5-1,,kili1267-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+kili1267-1-6-1,,kili1267-1,6,lima tala,lima tala,[],( 5+1 ),['chan2019'],,False,False,,1
+kili1267-1-7-1,,kili1267-1,7,lima yu,lima yu,[],( 5+2 ),['chan2019'],,False,False,,1
+kili1267-1-8-1,,kili1267-1,8,lima tolu,lima tolu,[],( 5+3 ),['chan2019'],,False,False,,1
+kili1267-1-9-1,,kili1267-1,9,lima vasi,lima vasi,[],( 5+4 ),['chan2019'],,False,False,,1
+kili1267-1-10-1,,kili1267-1,10,luwatala,luwatala,[],,['chan2019'],,False,False,,1
+kili1267-1-11-1,,kili1267-1,11,luwatala tala,luwatala tala,[],,['chan2019'],,False,False,,1
+kili1267-1-12-1,,kili1267-1,12,luwatala yu,luwatala yu,[],,['chan2019'],,False,False,,1
+kili1267-1-13-1,,kili1267-1,13,luwatala tolu,luwatala tolu,[],,['chan2019'],,False,False,,1
+kili1267-1-14-1,,kili1267-1,14,luwatala lima,luwatala lima,[],,['chan2019'],,False,False,,1
+kili1267-1-15-1,,kili1267-1,15,luwatala lima,luwatala lima,[],,['chan2019'],,False,False,,1
+kili1267-1-16-1,,kili1267-1,16,luwatala lima tala,luwatala lima tala,[],,['chan2019'],,False,False,,1
+kili1267-1-17-1,,kili1267-1,17,luwatala lima yu,luwatala lima yu,[],,['chan2019'],,False,False,,1
+kili1267-1-18-1,,kili1267-1,18,luwatala lima tolu,luwatala lima tolu,[],,['chan2019'],,False,False,,1
+kili1267-1-19-1,,kili1267-1,19,luwatala lima vasi,luwatala lima vasi,[],,['chan2019'],,False,False,,1
+kili1267-1-20-1,,kili1267-1,20,luwayu,luwayu,[],,['chan2019'],,False,False,,1
+kili1267-1-21-1,,kili1267-1,21,luwayu tala,luwayu tala,[],,['chan2019'],,False,False,,1
+kili1267-1-22-1,,kili1267-1,22,luwayu yu,luwayu yu,[],,['chan2019'],,False,False,,1
+kili1267-1-23-1,,kili1267-1,23,luwayu tolu,luwayu tolu,[],,['chan2019'],,False,False,,1
+kili1267-1-24-1,,kili1267-1,24,luwayu vasi,luwayu vasi,[],,['chan2019'],,False,False,,1
+kili1267-1-25-1,,kili1267-1,25,luwayu lima,luwayu lima,[],,['chan2019'],,False,False,,1
+kili1267-1-26-1,,kili1267-1,26,luwayu lima tala,luwayu lima tala,[],,['chan2019'],,False,False,,1
+kili1267-1-27-1,,kili1267-1,27,luwayu lima yu,luwayu lima yu,[],,['chan2019'],,False,False,,1
+kili1267-1-28-1,,kili1267-1,28,luwayu lima tolu,luwayu lima tolu,[],,['chan2019'],,False,False,,1
+kili1267-1-29-1,,kili1267-1,29,luwayu lima vasi,luwayu lima vasi,[],,['chan2019'],,False,False,,1
+kili1267-1-30-1,,kili1267-1,30,luwatolu,luwatolu,[],,['chan2019'],,False,False,,1
+kili1267-1-40-1,,kili1267-1,40,luwavasi,luwavasi,[],,['chan2019'],,False,False,,1
+kili1267-1-50-1,,kili1267-1,50,luwalima,luwalima,[],,['chan2019'],,False,False,,1
+kili1267-1-60-1,,kili1267-1,60,luwalima luwatala,luwalima luwatala,[],( 50 + 10 ),['chan2019'],,False,False,,1
+kili1267-1-70-1,,kili1267-1,70,luwalima luwayu,luwalima luwayu,[],( 50 + 20 ),['chan2019'],,False,False,,1
+kili1267-1-80-1,,kili1267-1,80,luwalima luwatolu,luwalima luwatolu,[],( 50 + 30 ),['chan2019'],,False,False,,1
+kili1267-1-90-1,,kili1267-1,90,luwalima luwavasi,luwalima luwavasi,[],( 50 + 40 ),['chan2019'],,False,False,,1
+kili1267-1-100-1,,kili1267-1,100,lakatutala,lakatutala,[],,['chan2019'],,False,False,,1
+kili1267-1-200-1,,kili1267-1,200,lakatuyu,lakatuyu,[],,['chan2019'],,False,False,,1
+kili1267-1-1000-1,,kili1267-1,1000,lakatuluwatala,lakatuluwatala,[],( 100 x 10 ),['chan2019'],,False,False,,1
+kili1267-1-2000-1,,kili1267-1,2000,lakatuluwayu,lakatuluwayu,[],( 100 x 20 ),['chan2019'],,False,False,,1

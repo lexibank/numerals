@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1290-2-1-1,,nucl1290-2,1,tʰɛiˀ,tʰɛiˀ,[],,[],,False,False,,2
-nucl1290-2-2-1,,nucl1290-2,2,rɑ,rɑ,[],,[],,False,False,,2
-nucl1290-2-3-1,,nucl1290-2,3,luɛ,luɛ,[],,[],,False,False,,2
-nucl1290-2-4-1,,nucl1290-2,4,pon,pon,[],,[],,False,False,,2
-nucl1290-2-5-1,,nucl1290-2,5,pʰuɑn,pʰuɑn,[],,[],,False,False,,2
-nucl1290-2-6-1,,nucl1290-2,6,liɯh,liɯh,[],,[],,False,False,,2
-nucl1290-2-7-1,,nucl1290-2,7,ˀɑ liɯh,ˀɑ liɯh,[],,[],,False,False,,2
-nucl1290-2-8-1,,nucl1290-2,8,si tɛˀ,si tɛˀ,[],,[],,False,False,,2
-nucl1290-2-9-1,,nucl1290-2,9,si tem,si tem,[],,[],,False,False,,2
-nucl1290-2-10-1,,nucl1290-2,10,kɔ,kɔ,[],,[],,False,False,,2
-nucl1290-2-11-1,,nucl1290-2,11,kɔ tʰɛiˀ,kɔ tʰɛiˀ,[],,[],,False,False,,2
-nucl1290-2-12-1,,nucl1290-2,12,kɔ rɑ,kɔ rɑ,[],,[],,False,False,,2
-nucl1290-2-13-1,,nucl1290-2,13,kɔ luɛ,kɔ luɛ,[],,[],,False,False,,2
-nucl1290-2-14-1,,nucl1290-2,14,kɔ pon,kɔ pon,[],,[],,False,False,,2
-nucl1290-2-15-1,,nucl1290-2,15,kɔ pʰuɑn,kɔ pʰuɑn,[],,[],,False,False,,2
-nucl1290-2-16-1,,nucl1290-2,16,kɔ liɯh,kɔ liɯh,[],,[],,False,False,,2
-nucl1290-2-17-1,,nucl1290-2,17,kɔ ˀɑ liɯh,kɔ ˀɑ liɯh,[],,[],,False,False,,2
-nucl1290-2-18-1,,nucl1290-2,18,kɔ si tɛˀ,kɔ si tɛˀ,[],,[],,False,False,,2
-nucl1290-2-19-1,,nucl1290-2,19,kɔ si tem,kɔ si tem,[],,[],,False,False,,2
-nucl1290-2-20-1,,nucl1290-2,20,ŋɑ,ŋɑ,[],,[],,False,False,,2
-nucl1290-2-21-1,,nucl1290-2,21,ŋɑ tʰɛiˀ,ŋɑ tʰɛiˀ,[],,[],,False,False,,2
-nucl1290-2-22-1,,nucl1290-2,22,ŋɑ rɑ,ŋɑ rɑ,[],,[],,False,False,,2
-nucl1290-2-23-1,,nucl1290-2,23,ŋɑ luɛ,ŋɑ luɛ,[],,[],,False,False,,2
-nucl1290-2-24-1,,nucl1290-2,24,ŋɑ pon,ŋɑ pon,[],,[],,False,False,,2
-nucl1290-2-25-1,,nucl1290-2,25,ŋɑ pʰuɑn,ŋɑ pʰuɑn,[],,[],,False,False,,2
-nucl1290-2-26-1,,nucl1290-2,26,ŋɑ liɯh,ŋɑ liɯh,[],,[],,False,False,,2
-nucl1290-2-27-1,,nucl1290-2,27,ŋɑ ˀɑ liɯh,ŋɑ ˀɑ liɯh,[],,[],,False,False,,2
-nucl1290-2-28-1,,nucl1290-2,28,ŋɑ si tɛˀ,ŋɑ si tɛˀ,[],,[],,False,False,,2
-nucl1290-2-29-1,,nucl1290-2,29,ŋɑ si tem,ŋɑ si tem,[],,[],,False,False,,2
-nucl1290-2-30-1,,nucl1290-2,30,ŋuɛ,ŋuɛ,[],,[],,False,False,,2
-nucl1290-2-40-1,,nucl1290-2,40,ˀa pon,ˀa pon,[],,[],,False,False,,2
-nucl1290-2-50-1,,nucl1290-2,50,rɤ pʰuan,rɤ pʰuan,[],,[],,False,False,,2
-nucl1290-2-60-1,,nucl1290-2,60,gliɯh,gliɯh,[],,[],,False,False,,2
-nucl1290-2-70-1,,nucl1290-2,70,ˀa gliɯh,ˀa gliɯh,[],,[],,False,False,,2
-nucl1290-2-80-1,,nucl1290-2,80,ˀa tɛˀ,ˀa tɛˀ,[],,[],,False,False,,2
-nucl1290-2-90-1,,nucl1290-2,90,ˀa tem,ˀa tem,[],,[],,False,False,,2
-nucl1290-2-100-1,,nucl1290-2,100,tʰɛiˀ kiɛŋ,tʰɛiˀ kiɛŋ,[],,[],,False,False,,2
-nucl1290-2-200-1,,nucl1290-2,200,rɑ kiɛŋ,rɑ kiɛŋ,[],,[],,False,False,,2
-nucl1290-2-1000-1,,nucl1290-2,1000,tʰɛiˀ rʰɛiŋ,tʰɛiˀ rʰɛiŋ,[],,[],,False,False,,2
-nucl1290-2-2000-1,,nucl1290-2,2000,rɑ rʰɛiŋ,rɑ rʰɛiŋ,[],,[],,False,False,,2
+nucl1290-2-1-1,,nucl1290-2,1,tʰɛiˀ,tʰɛiˀ,[],,['chan2019'],,False,False,,2
+nucl1290-2-2-1,,nucl1290-2,2,rɑ,rɑ,[],,['chan2019'],,False,False,,2
+nucl1290-2-3-1,,nucl1290-2,3,luɛ,luɛ,[],,['chan2019'],,False,False,,2
+nucl1290-2-4-1,,nucl1290-2,4,pon,pon,[],,['chan2019'],,False,False,,2
+nucl1290-2-5-1,,nucl1290-2,5,pʰuɑn,pʰuɑn,[],,['chan2019'],,False,False,,2
+nucl1290-2-6-1,,nucl1290-2,6,liɯh,liɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-7-1,,nucl1290-2,7,ˀɑ liɯh,ˀɑ liɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-8-1,,nucl1290-2,8,si tɛˀ,si tɛˀ,[],,['chan2019'],,False,False,,2
+nucl1290-2-9-1,,nucl1290-2,9,si tem,si tem,[],,['chan2019'],,False,False,,2
+nucl1290-2-10-1,,nucl1290-2,10,kɔ,kɔ,[],,['chan2019'],,False,False,,2
+nucl1290-2-11-1,,nucl1290-2,11,kɔ tʰɛiˀ,kɔ tʰɛiˀ,[],,['chan2019'],,False,False,,2
+nucl1290-2-12-1,,nucl1290-2,12,kɔ rɑ,kɔ rɑ,[],,['chan2019'],,False,False,,2
+nucl1290-2-13-1,,nucl1290-2,13,kɔ luɛ,kɔ luɛ,[],,['chan2019'],,False,False,,2
+nucl1290-2-14-1,,nucl1290-2,14,kɔ pon,kɔ pon,[],,['chan2019'],,False,False,,2
+nucl1290-2-15-1,,nucl1290-2,15,kɔ pʰuɑn,kɔ pʰuɑn,[],,['chan2019'],,False,False,,2
+nucl1290-2-16-1,,nucl1290-2,16,kɔ liɯh,kɔ liɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-17-1,,nucl1290-2,17,kɔ ˀɑ liɯh,kɔ ˀɑ liɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-18-1,,nucl1290-2,18,kɔ si tɛˀ,kɔ si tɛˀ,[],,['chan2019'],,False,False,,2
+nucl1290-2-19-1,,nucl1290-2,19,kɔ si tem,kɔ si tem,[],,['chan2019'],,False,False,,2
+nucl1290-2-20-1,,nucl1290-2,20,ŋɑ,ŋɑ,[],,['chan2019'],,False,False,,2
+nucl1290-2-21-1,,nucl1290-2,21,ŋɑ tʰɛiˀ,ŋɑ tʰɛiˀ,[],,['chan2019'],,False,False,,2
+nucl1290-2-22-1,,nucl1290-2,22,ŋɑ rɑ,ŋɑ rɑ,[],,['chan2019'],,False,False,,2
+nucl1290-2-23-1,,nucl1290-2,23,ŋɑ luɛ,ŋɑ luɛ,[],,['chan2019'],,False,False,,2
+nucl1290-2-24-1,,nucl1290-2,24,ŋɑ pon,ŋɑ pon,[],,['chan2019'],,False,False,,2
+nucl1290-2-25-1,,nucl1290-2,25,ŋɑ pʰuɑn,ŋɑ pʰuɑn,[],,['chan2019'],,False,False,,2
+nucl1290-2-26-1,,nucl1290-2,26,ŋɑ liɯh,ŋɑ liɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-27-1,,nucl1290-2,27,ŋɑ ˀɑ liɯh,ŋɑ ˀɑ liɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-28-1,,nucl1290-2,28,ŋɑ si tɛˀ,ŋɑ si tɛˀ,[],,['chan2019'],,False,False,,2
+nucl1290-2-29-1,,nucl1290-2,29,ŋɑ si tem,ŋɑ si tem,[],,['chan2019'],,False,False,,2
+nucl1290-2-30-1,,nucl1290-2,30,ŋuɛ,ŋuɛ,[],,['chan2019'],,False,False,,2
+nucl1290-2-40-1,,nucl1290-2,40,ˀa pon,ˀa pon,[],,['chan2019'],,False,False,,2
+nucl1290-2-50-1,,nucl1290-2,50,rɤ pʰuan,rɤ pʰuan,[],,['chan2019'],,False,False,,2
+nucl1290-2-60-1,,nucl1290-2,60,gliɯh,gliɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-70-1,,nucl1290-2,70,ˀa gliɯh,ˀa gliɯh,[],,['chan2019'],,False,False,,2
+nucl1290-2-80-1,,nucl1290-2,80,ˀa tɛˀ,ˀa tɛˀ,[],,['chan2019'],,False,False,,2
+nucl1290-2-90-1,,nucl1290-2,90,ˀa tem,ˀa tem,[],,['chan2019'],,False,False,,2
+nucl1290-2-100-1,,nucl1290-2,100,tʰɛiˀ kiɛŋ,tʰɛiˀ kiɛŋ,[],,['chan2019'],,False,False,,2
+nucl1290-2-200-1,,nucl1290-2,200,rɑ kiɛŋ,rɑ kiɛŋ,[],,['chan2019'],,False,False,,2
+nucl1290-2-1000-1,,nucl1290-2,1000,tʰɛiˀ rʰɛiŋ,tʰɛiˀ rʰɛiŋ,[],,['chan2019'],,False,False,,2
+nucl1290-2-2000-1,,nucl1290-2,2000,rɑ rʰɛiŋ,rɑ rʰɛiŋ,[],,['chan2019'],,False,False,,2

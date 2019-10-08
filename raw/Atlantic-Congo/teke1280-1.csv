@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-teke1280-1-1-1,,teke1280-1,1,kímɔ,kímɔ,[],,[],,False,False,,1
-teke1280-1-2-1,,teke1280-1,2,bvyɛ́ɛ́lɛ,bvyɛ́ɛ́lɛ,[],,[],,False,False,,1
-teke1280-1-3-1,,teke1280-1,3,bítíri,bítíri,[],,[],,False,False,,1
-teke1280-1-4-1,,teke1280-1,4,bína,bína,[],,[],,False,False,,1
-teke1280-1-5-1,,teke1280-1,5,bítááni,bítááni,[],,[],,False,False,,1
-teke1280-1-6-1,,teke1280-1,6,bísɛ́mɛnɛ,bísɛ́mɛnɛ,[],,[],,False,False,,1
-teke1280-1-7-1,,teke1280-1,7,ntsaami,ntsaami,[],,[],,False,False,,1
-teke1280-1-8-1,,teke1280-1,8,mpwɔ́mɔ,mpwɔ́mɔ,[],,[],,False,False,,1
-teke1280-1-9-1,,teke1280-1,9,wá,wá,[],,[],,False,False,,1
-teke1280-1-10-1,,teke1280-1,10,kfúúmi or kúúmi,kfúúmi or kúúmi,[],,[],,False,True,,1
-teke1280-1-11-1,,teke1280-1,11,kffṹ ya kímɔ or kkṹ ya ímɔ,kffṹ ya kímɔ or kkṹ ya ímɔ,[],,[],,False,True,,1
-teke1280-1-12-1,,teke1280-1,12,kffṹ ya bvyɛ́ɛ́lɔ,kffṹ ya bvyɛ́ɛ́lɔ,[],,[],,False,False,,1
-teke1280-1-12-2,,teke1280-1,12,or kkṹ ya bvyɛ́ɛ́lɛ,or kkṹ ya bvyɛ́ɛ́lɛ,[],,[],,False,True,,1
-teke1280-1-13-1,,teke1280-1,13,kffṹ ya bítíri,kffṹ ya bítíri,[],,[],,False,False,,1
-teke1280-1-14-1,,teke1280-1,14,kffṹ ya bína,kffṹ ya bína,[],,[],,False,False,,1
-teke1280-1-15-1,,teke1280-1,15,kffṹ ya bítááni,kffṹ ya bítááni,[],,[],,False,False,,1
-teke1280-1-16-1,,teke1280-1,16,kffṹ ya bísɛ́mɛnɛ,kffṹ ya bísɛ́mɛnɛ,[],,[],,False,False,,1
-teke1280-1-17-1,,teke1280-1,17,kffṹ ya ntsaami,kffṹ ya ntsaami,[],,[],,False,False,,1
-teke1280-1-18-1,,teke1280-1,18,kffṹ ya mpwɔ́mɔ,kffṹ ya mpwɔ́mɔ,[],,[],,False,False,,1
-teke1280-1-19-1,,teke1280-1,19,kffṹ ya wá,kffṹ ya wá,[],,[],,False,False,,1
-teke1280-1-20-1,,teke1280-1,20,akfṹṹ mwɔ́ɔ́lɔ,akfṹṹ mwɔ́ɔ́lɔ,[],,[],,False,False,,1
-teke1280-1-21-1,,teke1280-1,21,akfṹṹ mwɔ́ɔ́lɔ ya kímɔ,akfṹṹ mwɔ́ɔ́lɔ ya kímɔ,[],,[],,False,False,,1
-teke1280-1-22-1,,teke1280-1,22,akfṹṹ mwɔ́ɔ́lɔ ya bvyɛ́ɛ́lɛ,akfṹṹ mwɔ́ɔ́lɔ ya bvyɛ́ɛ́lɛ,[],,[],,False,False,,1
-teke1280-1-23-1,,teke1280-1,23,akfṹṹ mwɔ́ɔ́lɔ ya bítíri,akfṹṹ mwɔ́ɔ́lɔ ya bítíri,[],,[],,False,False,,1
-teke1280-1-24-1,,teke1280-1,24,akfṹṹ mwɔ́ɔ́lɔ ya bína,akfṹṹ mwɔ́ɔ́lɔ ya bína,[],,[],,False,False,,1
-teke1280-1-25-1,,teke1280-1,25,akfṹṹ mwɔ́ɔ́lɔ ya bítááni,akfṹṹ mwɔ́ɔ́lɔ ya bítááni,[],,[],,False,False,,1
-teke1280-1-26-1,,teke1280-1,26,akfṹṹ mwɔ́ɔ́lɔ ya bísɛ́mɛnɛ,akfṹṹ mwɔ́ɔ́lɔ ya bísɛ́mɛnɛ,[],,[],,False,False,,1
-teke1280-1-27-1,,teke1280-1,27,akfṹṹ mwɔ́ɔ́lɔ ya ntsaami,akfṹṹ mwɔ́ɔ́lɔ ya ntsaami,[],,[],,False,False,,1
-teke1280-1-28-1,,teke1280-1,28,akfṹṹ mwɔ́ɔ́lɔ ya mpwɔ́mɔ,akfṹṹ mwɔ́ɔ́lɔ ya mpwɔ́mɔ,[],,[],,False,False,,1
-teke1280-1-29-1,,teke1280-1,29,akfṹṹ mwɔ́ɔ́lɔ ya wá,akfṹṹ mwɔ́ɔ́lɔ ya wá,[],,[],,False,False,,1
-teke1280-1-30-1,,teke1280-1,30,akfṹṹ atíri,akfṹṹ atíri,[],,[],,False,False,,1
-teke1280-1-40-1,,teke1280-1,40,akfṹṹ ana,akfṹṹ ana,[],,[],,False,False,,1
-teke1280-1-50-1,,teke1280-1,50,akfṹṹ atááni,akfṹṹ atááni,[],,[],,False,False,,1
-teke1280-1-60-1,,teke1280-1,60,akfṹṹ asɛ́mɛnɛ,akfṹṹ asɛ́mɛnɛ,[],,[],,False,False,,1
-teke1280-1-70-1,,teke1280-1,70,akfṹṹ ntsaami,akfṹṹ ntsaami,[],,[],,False,False,,1
-teke1280-1-80-1,,teke1280-1,80,akfṹṹ mpwɔ́mɔ,akfṹṹ mpwɔ́mɔ,[],,[],,False,False,,1
-teke1280-1-90-1,,teke1280-1,90,akfṹṹ wá,akfṹṹ wá,[],,[],,False,False,,1
-teke1280-1-100-1,,teke1280-1,100,nkámá,nkámá,[],,[],,False,False,,1
-teke1280-1-200-1,,teke1280-1,200,nkámá ywɔ́ɔ́lɔ,nkámá ywɔ́ɔ́lɔ,[],,[],,False,False,,1
+teke1280-1-1-1,,teke1280-1,1,kímɔ,kímɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-2-1,,teke1280-1,2,bvyɛ́ɛ́lɛ,bvyɛ́ɛ́lɛ,[],,['chan2019'],,False,False,,1
+teke1280-1-3-1,,teke1280-1,3,bítíri,bítíri,[],,['chan2019'],,False,False,,1
+teke1280-1-4-1,,teke1280-1,4,bína,bína,[],,['chan2019'],,False,False,,1
+teke1280-1-5-1,,teke1280-1,5,bítááni,bítááni,[],,['chan2019'],,False,False,,1
+teke1280-1-6-1,,teke1280-1,6,bísɛ́mɛnɛ,bísɛ́mɛnɛ,[],,['chan2019'],,False,False,,1
+teke1280-1-7-1,,teke1280-1,7,ntsaami,ntsaami,[],,['chan2019'],,False,False,,1
+teke1280-1-8-1,,teke1280-1,8,mpwɔ́mɔ,mpwɔ́mɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-9-1,,teke1280-1,9,wá,wá,[],,['chan2019'],,False,False,,1
+teke1280-1-10-1,,teke1280-1,10,kfúúmi or kúúmi,kfúúmi or kúúmi,[],,['chan2019'],,False,True,,1
+teke1280-1-11-1,,teke1280-1,11,kffṹ ya kímɔ or kkṹ ya ímɔ,kffṹ ya kímɔ or kkṹ ya ímɔ,[],,['chan2019'],,False,True,,1
+teke1280-1-12-1,,teke1280-1,12,kffṹ ya bvyɛ́ɛ́lɔ,kffṹ ya bvyɛ́ɛ́lɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-12-2,,teke1280-1,12,or kkṹ ya bvyɛ́ɛ́lɛ,or kkṹ ya bvyɛ́ɛ́lɛ,[],,['chan2019'],,False,True,,1
+teke1280-1-13-1,,teke1280-1,13,kffṹ ya bítíri,kffṹ ya bítíri,[],,['chan2019'],,False,False,,1
+teke1280-1-14-1,,teke1280-1,14,kffṹ ya bína,kffṹ ya bína,[],,['chan2019'],,False,False,,1
+teke1280-1-15-1,,teke1280-1,15,kffṹ ya bítááni,kffṹ ya bítááni,[],,['chan2019'],,False,False,,1
+teke1280-1-16-1,,teke1280-1,16,kffṹ ya bísɛ́mɛnɛ,kffṹ ya bísɛ́mɛnɛ,[],,['chan2019'],,False,False,,1
+teke1280-1-17-1,,teke1280-1,17,kffṹ ya ntsaami,kffṹ ya ntsaami,[],,['chan2019'],,False,False,,1
+teke1280-1-18-1,,teke1280-1,18,kffṹ ya mpwɔ́mɔ,kffṹ ya mpwɔ́mɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-19-1,,teke1280-1,19,kffṹ ya wá,kffṹ ya wá,[],,['chan2019'],,False,False,,1
+teke1280-1-20-1,,teke1280-1,20,akfṹṹ mwɔ́ɔ́lɔ,akfṹṹ mwɔ́ɔ́lɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-21-1,,teke1280-1,21,akfṹṹ mwɔ́ɔ́lɔ ya kímɔ,akfṹṹ mwɔ́ɔ́lɔ ya kímɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-22-1,,teke1280-1,22,akfṹṹ mwɔ́ɔ́lɔ ya bvyɛ́ɛ́lɛ,akfṹṹ mwɔ́ɔ́lɔ ya bvyɛ́ɛ́lɛ,[],,['chan2019'],,False,False,,1
+teke1280-1-23-1,,teke1280-1,23,akfṹṹ mwɔ́ɔ́lɔ ya bítíri,akfṹṹ mwɔ́ɔ́lɔ ya bítíri,[],,['chan2019'],,False,False,,1
+teke1280-1-24-1,,teke1280-1,24,akfṹṹ mwɔ́ɔ́lɔ ya bína,akfṹṹ mwɔ́ɔ́lɔ ya bína,[],,['chan2019'],,False,False,,1
+teke1280-1-25-1,,teke1280-1,25,akfṹṹ mwɔ́ɔ́lɔ ya bítááni,akfṹṹ mwɔ́ɔ́lɔ ya bítááni,[],,['chan2019'],,False,False,,1
+teke1280-1-26-1,,teke1280-1,26,akfṹṹ mwɔ́ɔ́lɔ ya bísɛ́mɛnɛ,akfṹṹ mwɔ́ɔ́lɔ ya bísɛ́mɛnɛ,[],,['chan2019'],,False,False,,1
+teke1280-1-27-1,,teke1280-1,27,akfṹṹ mwɔ́ɔ́lɔ ya ntsaami,akfṹṹ mwɔ́ɔ́lɔ ya ntsaami,[],,['chan2019'],,False,False,,1
+teke1280-1-28-1,,teke1280-1,28,akfṹṹ mwɔ́ɔ́lɔ ya mpwɔ́mɔ,akfṹṹ mwɔ́ɔ́lɔ ya mpwɔ́mɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-29-1,,teke1280-1,29,akfṹṹ mwɔ́ɔ́lɔ ya wá,akfṹṹ mwɔ́ɔ́lɔ ya wá,[],,['chan2019'],,False,False,,1
+teke1280-1-30-1,,teke1280-1,30,akfṹṹ atíri,akfṹṹ atíri,[],,['chan2019'],,False,False,,1
+teke1280-1-40-1,,teke1280-1,40,akfṹṹ ana,akfṹṹ ana,[],,['chan2019'],,False,False,,1
+teke1280-1-50-1,,teke1280-1,50,akfṹṹ atááni,akfṹṹ atááni,[],,['chan2019'],,False,False,,1
+teke1280-1-60-1,,teke1280-1,60,akfṹṹ asɛ́mɛnɛ,akfṹṹ asɛ́mɛnɛ,[],,['chan2019'],,False,False,,1
+teke1280-1-70-1,,teke1280-1,70,akfṹṹ ntsaami,akfṹṹ ntsaami,[],,['chan2019'],,False,False,,1
+teke1280-1-80-1,,teke1280-1,80,akfṹṹ mpwɔ́mɔ,akfṹṹ mpwɔ́mɔ,[],,['chan2019'],,False,False,,1
+teke1280-1-90-1,,teke1280-1,90,akfṹṹ wá,akfṹṹ wá,[],,['chan2019'],,False,False,,1
+teke1280-1-100-1,,teke1280-1,100,nkámá,nkámá,[],,['chan2019'],,False,False,,1
+teke1280-1-200-1,,teke1280-1,200,nkámá ywɔ́ɔ́lɔ,nkámá ywɔ́ɔ́lɔ,[],,['chan2019'],,False,False,,1

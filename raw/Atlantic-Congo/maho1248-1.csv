@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maho1248-1-1-1,,maho1248-1,1,ɔ̀ɔ̃́ŋkɔ̀,ɔ̀ɔ̃́ŋkɔ̀,[],,[],,False,False,,1
-maho1248-1-2-1,,maho1248-1,2,byɔ́lɛ́,byɔ́lɛ́,[],,[],,False,False,,1
-maho1248-1-3-1,,maho1248-1,3,(mè)hã́ntò,(mè)hã́ntò,[],,[],,False,False,,1
-maho1248-1-4-1,,maho1248-1,4,ìnáyì,ìnáyì,[],,[],,False,False,,1
-maho1248-1-5-1,,maho1248-1,5,ǹ̩táyì,ǹ̩táyì,[],,[],,False,False,,1
-maho1248-1-6-1,,maho1248-1,6,ǹ̩tóbà,ǹ̩tóbà,[],,[],,False,False,,1
-maho1248-1-7-1,,maho1248-1,7,náyìnàhã́ntò,náyìnàhã́ntò,[],( 4 + 3 ),[],,False,False,,1
-maho1248-1-8-1,,maho1248-1,8,mwã́mbì,mwã́mbì,[],,[],,False,False,,1
-maho1248-1-9-1,,maho1248-1,9,ǹtáyìnànáyì,ǹtáyìnànáyì,[],( 5 + 4 ),[],,False,False,,1
-maho1248-1-10-1,,maho1248-1,10,dʒóhũ̀,dʒóhũ̀,[],,[],,False,False,,1
+maho1248-1-1-1,,maho1248-1,1,ɔ̀ɔ̃́ŋkɔ̀,ɔ̀ɔ̃́ŋkɔ̀,[],,['chan2019'],,False,False,,1
+maho1248-1-2-1,,maho1248-1,2,byɔ́lɛ́,byɔ́lɛ́,[],,['chan2019'],,False,False,,1
+maho1248-1-3-1,,maho1248-1,3,(mè)hã́ntò,(mè)hã́ntò,[],,['chan2019'],,False,False,,1
+maho1248-1-4-1,,maho1248-1,4,ìnáyì,ìnáyì,[],,['chan2019'],,False,False,,1
+maho1248-1-5-1,,maho1248-1,5,ǹ̩táyì,ǹ̩táyì,[],,['chan2019'],,False,False,,1
+maho1248-1-6-1,,maho1248-1,6,ǹ̩tóbà,ǹ̩tóbà,[],,['chan2019'],,False,False,,1
+maho1248-1-7-1,,maho1248-1,7,náyìnàhã́ntò,náyìnàhã́ntò,[],( 4 + 3 ),['chan2019'],,False,False,,1
+maho1248-1-8-1,,maho1248-1,8,mwã́mbì,mwã́mbì,[],,['chan2019'],,False,False,,1
+maho1248-1-9-1,,maho1248-1,9,ǹtáyìnànáyì,ǹtáyìnànáyì,[],( 5 + 4 ),['chan2019'],,False,False,,1
+maho1248-1-10-1,,maho1248-1,10,dʒóhũ̀,dʒóhũ̀,[],,['chan2019'],,False,False,,1

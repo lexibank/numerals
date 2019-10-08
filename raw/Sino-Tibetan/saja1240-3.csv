@@ -1,64 +1,64 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-saja1240-3-1-1,,saja1240-3,1,ũ,ũ,[],,[],,False,False,,3
-saja1240-3-1-2,,saja1240-3,1,uŋ,uŋ,[],,[],,False,False,,3
-saja1240-3-2-1,,saja1240-3,2,ɡini,ɡini,[],,[],,False,False,,3
-saja1240-3-2-2,,saja1240-3,2,ɡni,ɡni,[],,[],,False,False,,3
-saja1240-3-3-1,,saja1240-3,3,kthum,kthum,[],,[],,False,False,,3
-saja1240-3-3-2,,saja1240-3,3,ɡtəŋ,ɡtəŋ,[],,[],,False,False,,3
-saja1240-3-3-3,,saja1240-3,3,ɡtɪŋ,ɡtɪŋ,[],,[],,False,False,,3
-saja1240-3-3-4,,saja1240-3,3,ɡtɯŋ,ɡtɯŋ,[],,[],,False,False,,3
-saja1240-3-4-1,,saja1240-3,4,blei,blei,[],,[],,False,False,,3
-saja1240-3-4-2,,saja1240-3,4,blei,blei,[],,[],,False,False,,3
-saja1240-3-5-1,,saja1240-3,5,buŋu,buŋu,[],,[],,False,False,,3
-saja1240-3-5-2,,saja1240-3,5,buŋu,buŋu,[],,[],,False,False,,3
-saja1240-3-6-1,,saja1240-3,6,re,re,[],,[],,False,False,,3
-saja1240-3-6-2,,saja1240-3,6,re,re,[],,[],,False,False,,3
-saja1240-3-7-1,,saja1240-3,7,miya,miya,[],,[],,False,False,,3
-saja1240-3-7-2,,saja1240-3,7,myaʔ,myaʔ,[],,[],,False,False,,3
-saja1240-3-8-1,,saja1240-3,8,sɡui,sɡui,[],,[],,False,False,,3
-saja1240-3-8-2,,saja1240-3,8,sɯkɯ,sɯkɯ,[],,[],,False,False,,3
-saja1240-3-9-1,,saja1240-3,9,sthun,sthun,[],,[],,False,False,,3
-saja1240-3-9-2,,saja1240-3,9,stɪn,stɪn,[],,[],,False,False,,3
-saja1240-3-10-1,,saja1240-3,10,lin,lin,[],,[],,False,False,,3
-saja1240-3-10-2,,saja1240-3,10,lən,lən,[],,[],,False,False,,3
-saja1240-3-10-3,,saja1240-3,10,lɯn,lɯn,[],,[],,False,False,,3
-saja1240-3-11-1,,saja1240-3,11,lən-ũ,lən-ũ,[],,[],,False,False,,3
-saja1240-3-11-2,,saja1240-3,11,lɯn uŋ,lɯn uŋ,[],,[],,False,False,,3
-saja1240-3-12-1,,saja1240-3,12,lən-ɡni,lən-ɡni,[],,[],,False,False,,3
-saja1240-3-12-2,,saja1240-3,12,lɯn ɡni,lɯn ɡni,[],,[],,False,False,,3
-saja1240-3-13-1,,saja1240-3,13,lən-kthum,lən-kthum,[],,[],,False,False,,3
-saja1240-3-13-2,,saja1240-3,13,lɯn ɡtɪŋ,lɯn ɡtɪŋ,[],,[],,False,False,,3
-saja1240-3-13-3,,saja1240-3,13,ɡtɯŋ,ɡtɯŋ,[],,[],,False,False,,3
-saja1240-3-14-1,,saja1240-3,14,lən-blei,lən-blei,[],,[],,False,False,,3
-saja1240-3-14-2,,saja1240-3,14,lɯn blei,lɯn blei,[],,[],,False,False,,3
-saja1240-3-15-1,,saja1240-3,15,lən-buŋu,lən-buŋu,[],,[],,False,False,,3
-saja1240-3-15-2,,saja1240-3,15,lɯn buŋu,lɯn buŋu,[],,[],,False,False,,3
-saja1240-3-16-1,,saja1240-3,16,lən-re,lən-re,[],,[],,False,False,,3
-saja1240-3-16-2,,saja1240-3,16,lɯn re,lɯn re,[],,[],,False,False,,3
-saja1240-3-17-1,,saja1240-3,17,lən-miya,lən-miya,[],,[],,False,False,,3
-saja1240-3-17-2,,saja1240-3,17,lɯn myaʔ,lɯn myaʔ,[],,[],,False,False,,3
-saja1240-3-18-1,,saja1240-3,18,lən-sɡui,lən-sɡui,[],,[],,False,False,,3
-saja1240-3-18-2,,saja1240-3,18,lɯn sɯkɯ,lɯn sɯkɯ,[],,[],,False,False,,3
-saja1240-3-19-1,,saja1240-3,19,lən-sthum,lən-sthum,[],,[],,False,False,,3
-saja1240-3-19-2,,saja1240-3,19,lɯn stɪn,lɯn stɪn,[],,[],,False,False,,3
-saja1240-3-20-1,,saja1240-3,20,ɡini lin,ɡini lin,[],,[],,False,False,,3
-saja1240-3-20-2,,saja1240-3,20,ɡni lɯn,ɡni lɯn,[],,[],,False,False,,3
-saja1240-3-21-1,,saja1240-3,21,ɡini lin ũ,ɡini lin ũ,[],,[],,False,False,,3
-saja1240-3-22-1,,saja1240-3,22,ɡini lin gini,ɡini lin gini,[],,[],,False,False,,3
-saja1240-3-23-1,,saja1240-3,23,ɡini lin kthum,ɡini lin kthum,[],,[],,False,False,,3
-saja1240-3-24-1,,saja1240-3,24,ɡini lin blei,ɡini lin blei,[],,[],,False,False,,3
-saja1240-3-25-1,,saja1240-3,25,ɡini lin buŋu,ɡini lin buŋu,[],,[],,False,False,,3
-saja1240-3-26-1,,saja1240-3,26,ɡini lin re,ɡini lin re,[],,[],,False,False,,3
-saja1240-3-27-1,,saja1240-3,27,ɡini lin miya,ɡini lin miya,[],,[],,False,False,,3
-saja1240-3-28-1,,saja1240-3,28,ɡini lin sɡui,ɡini lin sɡui,[],,[],,False,False,,3
-saja1240-3-29-1,,saja1240-3,29,ɡini lin sthun,ɡini lin sthun,[],,[],,False,False,,3
-saja1240-3-30-1,,saja1240-3,30,kthu-lən,kthu-lən,[],,[],,False,False,,3
-saja1240-3-30-2,,saja1240-3,30,ɡtəŋ lɯn,ɡtəŋ lɯn,[],,[],,False,False,,3
-saja1240-3-40-1,,saja1240-3,40,bəli-lin,bəli-lin,[],,[],,False,False,,3
-saja1240-3-50-1,,saja1240-3,50,buŋu-lin,buŋu-lin,[],,[],,False,False,,3
-saja1240-3-60-1,,saja1240-3,60,re-lin,re-lin,[],,[],,False,False,,3
-saja1240-3-70-1,,saja1240-3,70,miya-lin,miya-lin,[],,[],,False,False,,3
-saja1240-3-80-1,,saja1240-3,80,sɡu-lin-,sɡu-lin-,[],,[],,False,False,,3
-saja1240-3-90-1,,saja1240-3,90,sthun-lin,sthun-lin,[],,[],,False,False,,3
-saja1240-3-100-1,,saja1240-3,100,bləŋ,bləŋ,[],,[],,False,False,,3
-saja1240-3-1000-1,,saja1240-3,1000,hazar,hazar,[],< Indic language ,[],,True,False,,3
+saja1240-3-1-1,,saja1240-3,1,ũ,ũ,[],,['chan2019'],,False,False,,3
+saja1240-3-1-2,,saja1240-3,1,uŋ,uŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-2-1,,saja1240-3,2,ɡini,ɡini,[],,['chan2019'],,False,False,,3
+saja1240-3-2-2,,saja1240-3,2,ɡni,ɡni,[],,['chan2019'],,False,False,,3
+saja1240-3-3-1,,saja1240-3,3,kthum,kthum,[],,['chan2019'],,False,False,,3
+saja1240-3-3-2,,saja1240-3,3,ɡtəŋ,ɡtəŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-3-3,,saja1240-3,3,ɡtɪŋ,ɡtɪŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-3-4,,saja1240-3,3,ɡtɯŋ,ɡtɯŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-4-1,,saja1240-3,4,blei,blei,[],,['chan2019'],,False,False,,3
+saja1240-3-4-2,,saja1240-3,4,blei,blei,[],,['chan2019'],,False,False,,3
+saja1240-3-5-1,,saja1240-3,5,buŋu,buŋu,[],,['chan2019'],,False,False,,3
+saja1240-3-5-2,,saja1240-3,5,buŋu,buŋu,[],,['chan2019'],,False,False,,3
+saja1240-3-6-1,,saja1240-3,6,re,re,[],,['chan2019'],,False,False,,3
+saja1240-3-6-2,,saja1240-3,6,re,re,[],,['chan2019'],,False,False,,3
+saja1240-3-7-1,,saja1240-3,7,miya,miya,[],,['chan2019'],,False,False,,3
+saja1240-3-7-2,,saja1240-3,7,myaʔ,myaʔ,[],,['chan2019'],,False,False,,3
+saja1240-3-8-1,,saja1240-3,8,sɡui,sɡui,[],,['chan2019'],,False,False,,3
+saja1240-3-8-2,,saja1240-3,8,sɯkɯ,sɯkɯ,[],,['chan2019'],,False,False,,3
+saja1240-3-9-1,,saja1240-3,9,sthun,sthun,[],,['chan2019'],,False,False,,3
+saja1240-3-9-2,,saja1240-3,9,stɪn,stɪn,[],,['chan2019'],,False,False,,3
+saja1240-3-10-1,,saja1240-3,10,lin,lin,[],,['chan2019'],,False,False,,3
+saja1240-3-10-2,,saja1240-3,10,lən,lən,[],,['chan2019'],,False,False,,3
+saja1240-3-10-3,,saja1240-3,10,lɯn,lɯn,[],,['chan2019'],,False,False,,3
+saja1240-3-11-1,,saja1240-3,11,lən-ũ,lən-ũ,[],,['chan2019'],,False,False,,3
+saja1240-3-11-2,,saja1240-3,11,lɯn uŋ,lɯn uŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-12-1,,saja1240-3,12,lən-ɡni,lən-ɡni,[],,['chan2019'],,False,False,,3
+saja1240-3-12-2,,saja1240-3,12,lɯn ɡni,lɯn ɡni,[],,['chan2019'],,False,False,,3
+saja1240-3-13-1,,saja1240-3,13,lən-kthum,lən-kthum,[],,['chan2019'],,False,False,,3
+saja1240-3-13-2,,saja1240-3,13,lɯn ɡtɪŋ,lɯn ɡtɪŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-13-3,,saja1240-3,13,ɡtɯŋ,ɡtɯŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-14-1,,saja1240-3,14,lən-blei,lən-blei,[],,['chan2019'],,False,False,,3
+saja1240-3-14-2,,saja1240-3,14,lɯn blei,lɯn blei,[],,['chan2019'],,False,False,,3
+saja1240-3-15-1,,saja1240-3,15,lən-buŋu,lən-buŋu,[],,['chan2019'],,False,False,,3
+saja1240-3-15-2,,saja1240-3,15,lɯn buŋu,lɯn buŋu,[],,['chan2019'],,False,False,,3
+saja1240-3-16-1,,saja1240-3,16,lən-re,lən-re,[],,['chan2019'],,False,False,,3
+saja1240-3-16-2,,saja1240-3,16,lɯn re,lɯn re,[],,['chan2019'],,False,False,,3
+saja1240-3-17-1,,saja1240-3,17,lən-miya,lən-miya,[],,['chan2019'],,False,False,,3
+saja1240-3-17-2,,saja1240-3,17,lɯn myaʔ,lɯn myaʔ,[],,['chan2019'],,False,False,,3
+saja1240-3-18-1,,saja1240-3,18,lən-sɡui,lən-sɡui,[],,['chan2019'],,False,False,,3
+saja1240-3-18-2,,saja1240-3,18,lɯn sɯkɯ,lɯn sɯkɯ,[],,['chan2019'],,False,False,,3
+saja1240-3-19-1,,saja1240-3,19,lən-sthum,lən-sthum,[],,['chan2019'],,False,False,,3
+saja1240-3-19-2,,saja1240-3,19,lɯn stɪn,lɯn stɪn,[],,['chan2019'],,False,False,,3
+saja1240-3-20-1,,saja1240-3,20,ɡini lin,ɡini lin,[],,['chan2019'],,False,False,,3
+saja1240-3-20-2,,saja1240-3,20,ɡni lɯn,ɡni lɯn,[],,['chan2019'],,False,False,,3
+saja1240-3-21-1,,saja1240-3,21,ɡini lin ũ,ɡini lin ũ,[],,['chan2019'],,False,False,,3
+saja1240-3-22-1,,saja1240-3,22,ɡini lin gini,ɡini lin gini,[],,['chan2019'],,False,False,,3
+saja1240-3-23-1,,saja1240-3,23,ɡini lin kthum,ɡini lin kthum,[],,['chan2019'],,False,False,,3
+saja1240-3-24-1,,saja1240-3,24,ɡini lin blei,ɡini lin blei,[],,['chan2019'],,False,False,,3
+saja1240-3-25-1,,saja1240-3,25,ɡini lin buŋu,ɡini lin buŋu,[],,['chan2019'],,False,False,,3
+saja1240-3-26-1,,saja1240-3,26,ɡini lin re,ɡini lin re,[],,['chan2019'],,False,False,,3
+saja1240-3-27-1,,saja1240-3,27,ɡini lin miya,ɡini lin miya,[],,['chan2019'],,False,False,,3
+saja1240-3-28-1,,saja1240-3,28,ɡini lin sɡui,ɡini lin sɡui,[],,['chan2019'],,False,False,,3
+saja1240-3-29-1,,saja1240-3,29,ɡini lin sthun,ɡini lin sthun,[],,['chan2019'],,False,False,,3
+saja1240-3-30-1,,saja1240-3,30,kthu-lən,kthu-lən,[],,['chan2019'],,False,False,,3
+saja1240-3-30-2,,saja1240-3,30,ɡtəŋ lɯn,ɡtəŋ lɯn,[],,['chan2019'],,False,False,,3
+saja1240-3-40-1,,saja1240-3,40,bəli-lin,bəli-lin,[],,['chan2019'],,False,False,,3
+saja1240-3-50-1,,saja1240-3,50,buŋu-lin,buŋu-lin,[],,['chan2019'],,False,False,,3
+saja1240-3-60-1,,saja1240-3,60,re-lin,re-lin,[],,['chan2019'],,False,False,,3
+saja1240-3-70-1,,saja1240-3,70,miya-lin,miya-lin,[],,['chan2019'],,False,False,,3
+saja1240-3-80-1,,saja1240-3,80,sɡu-lin-,sɡu-lin-,[],,['chan2019'],,False,False,,3
+saja1240-3-90-1,,saja1240-3,90,sthun-lin,sthun-lin,[],,['chan2019'],,False,False,,3
+saja1240-3-100-1,,saja1240-3,100,bləŋ,bləŋ,[],,['chan2019'],,False,False,,3
+saja1240-3-1000-1,,saja1240-3,1000,hazar,hazar,[],< Indic language ,['chan2019'],,True,False,,3

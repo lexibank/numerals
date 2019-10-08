@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-adze1240-1-1-1,,adze1240-1,1,bɪtsɪⁿtɑ,bɪtsɪⁿtɑ,[],,[],,False,False,,1
-adze1240-1-1-2,,adze1240-1,1,bɪtʃɪⁿtɑʔ,bɪtʃɪⁿtɑʔ,[],,[],,False,False,,1
-adze1240-1-1-3,,adze1240-1,1,bɪtsɪtɑʔ,bɪtsɪtɑʔ,[],,[],,False,False,,1
-adze1240-1-1-4,,adze1240-1,1,bɪts,bɪts,[],,[],,False,False,,1
-adze1240-1-2-1,,adze1240-1,2,iɾuʔrun,iɾuʔrun,[],,[],,False,False,,1
-adze1240-1-2-2,,adze1240-1,2,iɾuʔ,iɾuʔ,[],( litː also means 'a few' ),[],,False,False,,1
-adze1240-1-3-1,,adze1240-1,3,iɾuʔ dɑ bɪts,iɾuʔ dɑ bɪts,[],( 2 + 1 ),[],,False,False,,1
-adze1240-1-4-1,,adze1240-1,4,iɾuʔ dɑ iɾuʔ,iɾuʔ dɑ iɾuʔ,[],( 2 + 2 ),[],,False,False,,1
-adze1240-1-5-1,,adze1240-1,5,iɾuʔ dɑ iɾuʔ dɑ bɪts,iɾuʔ dɑ iɾuʔ dɑ bɪts,[],( 2 + 2 + 1),[],,False,False,,1
-adze1240-1-5-2,,adze1240-1,5,bɑŋin mɑɾɑfɑiʔ,bɑŋin mɑɾɑfɑiʔ,[],( litː one hand ),[],,False,False,,1
+adze1240-1-1-1,,adze1240-1,1,bɪtsɪⁿtɑ,bɪtsɪⁿtɑ,[],,['chan2019'],,False,False,,1
+adze1240-1-1-2,,adze1240-1,1,bɪtʃɪⁿtɑʔ,bɪtʃɪⁿtɑʔ,[],,['chan2019'],,False,False,,1
+adze1240-1-1-3,,adze1240-1,1,bɪtsɪtɑʔ,bɪtsɪtɑʔ,[],,['chan2019'],,False,False,,1
+adze1240-1-1-4,,adze1240-1,1,bɪts,bɪts,[],,['chan2019'],,False,False,,1
+adze1240-1-2-1,,adze1240-1,2,iɾuʔrun,iɾuʔrun,[],,['chan2019'],,False,False,,1
+adze1240-1-2-2,,adze1240-1,2,iɾuʔ,iɾuʔ,[],( litː also means 'a few' ),['chan2019'],,False,False,,1
+adze1240-1-3-1,,adze1240-1,3,iɾuʔ dɑ bɪts,iɾuʔ dɑ bɪts,[],( 2 + 1 ),['chan2019'],,False,False,,1
+adze1240-1-4-1,,adze1240-1,4,iɾuʔ dɑ iɾuʔ,iɾuʔ dɑ iɾuʔ,[],( 2 + 2 ),['chan2019'],,False,False,,1
+adze1240-1-5-1,,adze1240-1,5,iɾuʔ dɑ iɾuʔ dɑ bɪts,iɾuʔ dɑ iɾuʔ dɑ bɪts,[],( 2 + 2 + 1),['chan2019'],,False,False,,1
+adze1240-1-5-2,,adze1240-1,5,bɑŋin mɑɾɑfɑiʔ,bɑŋin mɑɾɑfɑiʔ,[],( litː one hand ),['chan2019'],,False,False,,1

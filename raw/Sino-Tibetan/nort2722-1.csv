@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nort2722-1-1-1,,nort2722-1,1,a,a,[],,[],,False,False,,1
-nort2722-1-2-1,,nort2722-1,2,ɣnə,ɣnə,[],,[],,False,False,,1
-nort2722-1-3-1,,nort2722-1,3,kʰsi,kʰsi,[],,[],,False,False,,1
-nort2722-1-4-1,,nort2722-1,4,gʐə,gʐə,[],,[],,False,False,,1
-nort2722-1-5-1,,nort2722-1,5,ʁuɑ,ʁuɑ,[],,[],,False,False,,1
-nort2722-1-6-1,,nort2722-1,6,χtʂə,χtʂə,[],,[],,False,False,,1
-nort2722-1-7-1,,nort2722-1,7,stə,stə,[],,[],,False,False,,1
-nort2722-1-8-1,,nort2722-1,8,kʰaʴ,kʰaʴ,[],,[],,False,False,,1
-nort2722-1-9-1,,nort2722-1,9,rguə,rguə,[],,[],,False,False,,1
-nort2722-1-10-1,,nort2722-1,10,hədiu,hədiu,[],,[],,False,False,,1
-nort2722-1-11-1,,nort2722-1,11,hetɕi,hetɕi,[],,[],,False,False,,1
-nort2722-1-12-1,,nort2722-1,12,hɑn,hɑn,[],,[],,False,False,,1
-nort2722-1-13-1,,nort2722-1,13,hesi,hesi,[],,[],,False,False,,1
-nort2722-1-14-1,,nort2722-1,14,hɑʐ,hɑʐ,[],,[],,False,False,,1
-nort2722-1-15-1,,nort2722-1,15,hɑŋu,hɑŋu,[],,[],,False,False,,1
-nort2722-1-16-1,,nort2722-1,16,hɑtʂ,hɑtʂ,[],,[],,False,False,,1
-nort2722-1-17-1,,nort2722-1,17,hast,hast,[],,[],,False,False,,1
-nort2722-1-18-1,,nort2722-1,18,hakʰaʴ,hakʰaʴ,[],,[],,False,False,,1
-nort2722-1-19-1,,nort2722-1,19,harguə,harguə,[],,[],,False,False,,1
-nort2722-1-20-1,,nort2722-1,20,ɣnəsu,ɣnəsu,[],,[],,False,False,,1
-nort2722-1-21-1,,nort2722-1,21,ɣnəsu ȵi tʂi,ɣnəsu ȵi tʂi,[],,[],,False,False,,1
-nort2722-1-22-1,,nort2722-1,22,ɣnəsu ȵi ɣnə,ɣnəsu ȵi ɣnə,[],,[],,False,False,,1
-nort2722-1-23-1,,nort2722-1,23,ɣnəsu ȵi kʰsi,ɣnəsu ȵi kʰsi,[],,[],,False,False,,1
-nort2722-1-24-1,,nort2722-1,24,ɣnəsu ȵi gʐə,ɣnəsu ȵi gʐə,[],,[],,False,False,,1
-nort2722-1-25-1,,nort2722-1,25,ɣnəsu ȵi ʁuɑ,ɣnəsu ȵi ʁuɑ,[],,[],,False,False,,1
-nort2722-1-26-1,,nort2722-1,26,ɣnəsu ȵi χtʂə,ɣnəsu ȵi χtʂə,[],,[],,False,False,,1
-nort2722-1-27-1,,nort2722-1,27,ɣnəsu ȵi stə,ɣnəsu ȵi stə,[],,[],,False,False,,1
-nort2722-1-28-1,,nort2722-1,28,ɣnəsu ȵi kʰaʴ,ɣnəsu ȵi kʰaʴ,[],,[],,False,False,,1
-nort2722-1-29-1,,nort2722-1,29,ɣnəsu ȵi rguə,ɣnəsu ȵi rguə,[],,[],,False,False,,1
-nort2722-1-30-1,,nort2722-1,30,kʰsiasu,kʰsiasu,[],,[],,False,False,,1
-nort2722-1-40-1,,nort2722-1,40,gʐəsu,gʐəsu,[],,[],,False,False,,1
-nort2722-1-50-1,,nort2722-1,50,ʁuɑsu,ʁuɑsu,[],,[],,False,False,,1
-nort2722-1-60-1,,nort2722-1,60,χtʂəsu,χtʂəsu,[],,[],,False,False,,1
-nort2722-1-70-1,,nort2722-1,70,stɕəsu,stɕəsu,[],,[],,False,False,,1
-nort2722-1-80-1,,nort2722-1,80,kʰaʴsu,kʰaʴsu,[],,[],,False,False,,1
-nort2722-1-90-1,,nort2722-1,90,rguəsu,rguəsu,[],,[],,False,False,,1
-nort2722-1-100-1,,nort2722-1,100,e kʰiʴ,e kʰiʴ,[],,[],,False,False,,1
-nort2722-1-200-1,,nort2722-1,200,ɣnəkʰiʴ,ɣnəkʰiʴ,[],,[],,False,False,,1
-nort2722-1-1000-1,,nort2722-1,1000,stuŋstu ari,stuŋstu ari,[],( stuŋstu  < Tibetan ),[],,True,False,,1
-nort2722-1-2000-1,,nort2722-1,2000,stuŋstu ɣnəri,stuŋstu ɣnəri,[],,[],,False,False,,1
+nort2722-1-1-1,,nort2722-1,1,a,a,[],,['chan2019'],,False,False,,1
+nort2722-1-2-1,,nort2722-1,2,ɣnə,ɣnə,[],,['chan2019'],,False,False,,1
+nort2722-1-3-1,,nort2722-1,3,kʰsi,kʰsi,[],,['chan2019'],,False,False,,1
+nort2722-1-4-1,,nort2722-1,4,gʐə,gʐə,[],,['chan2019'],,False,False,,1
+nort2722-1-5-1,,nort2722-1,5,ʁuɑ,ʁuɑ,[],,['chan2019'],,False,False,,1
+nort2722-1-6-1,,nort2722-1,6,χtʂə,χtʂə,[],,['chan2019'],,False,False,,1
+nort2722-1-7-1,,nort2722-1,7,stə,stə,[],,['chan2019'],,False,False,,1
+nort2722-1-8-1,,nort2722-1,8,kʰaʴ,kʰaʴ,[],,['chan2019'],,False,False,,1
+nort2722-1-9-1,,nort2722-1,9,rguə,rguə,[],,['chan2019'],,False,False,,1
+nort2722-1-10-1,,nort2722-1,10,hədiu,hədiu,[],,['chan2019'],,False,False,,1
+nort2722-1-11-1,,nort2722-1,11,hetɕi,hetɕi,[],,['chan2019'],,False,False,,1
+nort2722-1-12-1,,nort2722-1,12,hɑn,hɑn,[],,['chan2019'],,False,False,,1
+nort2722-1-13-1,,nort2722-1,13,hesi,hesi,[],,['chan2019'],,False,False,,1
+nort2722-1-14-1,,nort2722-1,14,hɑʐ,hɑʐ,[],,['chan2019'],,False,False,,1
+nort2722-1-15-1,,nort2722-1,15,hɑŋu,hɑŋu,[],,['chan2019'],,False,False,,1
+nort2722-1-16-1,,nort2722-1,16,hɑtʂ,hɑtʂ,[],,['chan2019'],,False,False,,1
+nort2722-1-17-1,,nort2722-1,17,hast,hast,[],,['chan2019'],,False,False,,1
+nort2722-1-18-1,,nort2722-1,18,hakʰaʴ,hakʰaʴ,[],,['chan2019'],,False,False,,1
+nort2722-1-19-1,,nort2722-1,19,harguə,harguə,[],,['chan2019'],,False,False,,1
+nort2722-1-20-1,,nort2722-1,20,ɣnəsu,ɣnəsu,[],,['chan2019'],,False,False,,1
+nort2722-1-21-1,,nort2722-1,21,ɣnəsu ȵi tʂi,ɣnəsu ȵi tʂi,[],,['chan2019'],,False,False,,1
+nort2722-1-22-1,,nort2722-1,22,ɣnəsu ȵi ɣnə,ɣnəsu ȵi ɣnə,[],,['chan2019'],,False,False,,1
+nort2722-1-23-1,,nort2722-1,23,ɣnəsu ȵi kʰsi,ɣnəsu ȵi kʰsi,[],,['chan2019'],,False,False,,1
+nort2722-1-24-1,,nort2722-1,24,ɣnəsu ȵi gʐə,ɣnəsu ȵi gʐə,[],,['chan2019'],,False,False,,1
+nort2722-1-25-1,,nort2722-1,25,ɣnəsu ȵi ʁuɑ,ɣnəsu ȵi ʁuɑ,[],,['chan2019'],,False,False,,1
+nort2722-1-26-1,,nort2722-1,26,ɣnəsu ȵi χtʂə,ɣnəsu ȵi χtʂə,[],,['chan2019'],,False,False,,1
+nort2722-1-27-1,,nort2722-1,27,ɣnəsu ȵi stə,ɣnəsu ȵi stə,[],,['chan2019'],,False,False,,1
+nort2722-1-28-1,,nort2722-1,28,ɣnəsu ȵi kʰaʴ,ɣnəsu ȵi kʰaʴ,[],,['chan2019'],,False,False,,1
+nort2722-1-29-1,,nort2722-1,29,ɣnəsu ȵi rguə,ɣnəsu ȵi rguə,[],,['chan2019'],,False,False,,1
+nort2722-1-30-1,,nort2722-1,30,kʰsiasu,kʰsiasu,[],,['chan2019'],,False,False,,1
+nort2722-1-40-1,,nort2722-1,40,gʐəsu,gʐəsu,[],,['chan2019'],,False,False,,1
+nort2722-1-50-1,,nort2722-1,50,ʁuɑsu,ʁuɑsu,[],,['chan2019'],,False,False,,1
+nort2722-1-60-1,,nort2722-1,60,χtʂəsu,χtʂəsu,[],,['chan2019'],,False,False,,1
+nort2722-1-70-1,,nort2722-1,70,stɕəsu,stɕəsu,[],,['chan2019'],,False,False,,1
+nort2722-1-80-1,,nort2722-1,80,kʰaʴsu,kʰaʴsu,[],,['chan2019'],,False,False,,1
+nort2722-1-90-1,,nort2722-1,90,rguəsu,rguəsu,[],,['chan2019'],,False,False,,1
+nort2722-1-100-1,,nort2722-1,100,e kʰiʴ,e kʰiʴ,[],,['chan2019'],,False,False,,1
+nort2722-1-200-1,,nort2722-1,200,ɣnəkʰiʴ,ɣnəkʰiʴ,[],,['chan2019'],,False,False,,1
+nort2722-1-1000-1,,nort2722-1,1000,stuŋstu ari,stuŋstu ari,[],( stuŋstu  < Tibetan ),['chan2019'],,True,False,,1
+nort2722-1-2000-1,,nort2722-1,2000,stuŋstu ɣnəri,stuŋstu ɣnəri,[],,['chan2019'],,False,False,,1

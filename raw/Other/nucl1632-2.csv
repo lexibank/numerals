@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1632-2-1-1,,nucl1632-2,1,mbai,mbai,[],,[],,False,False,,2
-nucl1632-2-2-1,,nucl1632-2,2,be,be,[],,[],,False,False,,2
-nucl1632-2-3-1,,nucl1632-2,3,name,name,[],,[],,False,False,,2
-nucl1632-2-4-1,,nucl1632-2,4,keli,keli,[],,[],,False,False,,2
-nucl1632-2-5-1,,nucl1632-2,5,mæhæ mbai,mæhæ mbai,[],,[],,False,False,,2
-nucl1632-2-6-1,,nucl1632-2,6,mehine mbai,mehine mbai,[],,[],,False,False,,2
-nucl1632-2-7-1,,nucl1632-2,7,mehine be,mehine be,[],,[],,False,False,,2
-nucl1632-2-8-1,,nucl1632-2,8,mehine name,mehine name,[],,[],,False,False,,2
-nucl1632-2-9-1,,nucl1632-2,9,mehine keli,mehine keli,[],,[],,False,False,,2
-nucl1632-2-10-1,,nucl1632-2,10,me be,me be,[],,[],,False,False,,2
-nucl1632-2-11-1,,nucl1632-2,11,me be mbai bele,me be mbai bele,[],,[],,False,False,,2
-nucl1632-2-12-1,,nucl1632-2,12,me be be bele,me be be bele,[],,[],,False,False,,2
-nucl1632-2-13-1,,nucl1632-2,13,me be name bele,me be name bele,[],,[],,False,False,,2
-nucl1632-2-14-1,,nucl1632-2,14,me be keli bele,me be keli bele,[],,[],,False,False,,2
-nucl1632-2-15-1,,nucl1632-2,15,me be mæhæ mbai bele,me be mæhæ mbai bele,[],,[],,False,False,,2
-nucl1632-2-16-1,,nucl1632-2,16,me be mehine mbai bele,me be mehine mbai bele,[],,[],,False,False,,2
-nucl1632-2-17-1,,nucl1632-2,17,me be mehine be bele,me be mehine be bele,[],,[],,False,False,,2
-nucl1632-2-18-1,,nucl1632-2,18,me be mehine name bele,me be mehine name bele,[],,[],,False,False,,2
-nucl1632-2-19-1,,nucl1632-2,19,me be mehine keli bele,me be mehine keli bele,[],,[],,False,False,,2
-nucl1632-2-20-1,,nucl1632-2,20,u mbai,u mbai,[],(litː ''one body'' ),[],,False,False,,2
-nucl1632-2-21-1,,nucl1632-2,21,u mbai mbai bele,u mbai mbai bele,[],,[],,False,False,,2
-nucl1632-2-22-1,,nucl1632-2,22,u mbai be bele,u mbai be bele,[],,[],,False,False,,2
-nucl1632-2-23-1,,nucl1632-2,23,u mbai name bele,u mbai name bele,[],,[],,False,False,,2
-nucl1632-2-24-1,,nucl1632-2,24,u mbai keli bele,u mbai keli bele,[],,[],,False,False,,2
-nucl1632-2-25-1,,nucl1632-2,25,u mbai mæhæ mbai bele,u mbai mæhæ mbai bele,[],,[],,False,False,,2
-nucl1632-2-26-1,,nucl1632-2,26,u mbai mehine mbai bele,u mbai mehine mbai bele,[],,[],,False,False,,2
-nucl1632-2-27-1,,nucl1632-2,27,u mbai mehine be bele,u mbai mehine be bele,[],,[],,False,False,,2
-nucl1632-2-28-1,,nucl1632-2,28,u mbai mehine name bele,u mbai mehine name bele,[],,[],,False,False,,2
-nucl1632-2-29-1,,nucl1632-2,29,u mbai mehine keli bele,u mbai mehine keli bele,[],,[],,False,False,,2
-nucl1632-2-30-1,,nucl1632-2,30,u mbai me be bele,u mbai me be bele,[],,[],,False,False,,2
-nucl1632-2-40-1,,nucl1632-2,40,u be,u be,[],(litː ''two bodies'' ),[],,False,False,,2
-nucl1632-2-50-1,,nucl1632-2,50,u be me be bele,u be me be bele,[],,[],,False,False,,2
-nucl1632-2-60-1,,nucl1632-2,60,u name,u name,[],(litː '' three bodies'' ),[],,False,False,,2
-nucl1632-2-70-1,,nucl1632-2,70,u name me be bele,u name me be bele,[],,[],,False,False,,2
-nucl1632-2-80-1,,nucl1632-2,80,u keli,u keli,[],(litː '' four bodies'' ),[],,False,False,,2
-nucl1632-2-90-1,,nucl1632-2,90,u keli me be bele,u keli me be bele,[],,[],,False,False,,2
-nucl1632-2-100-1,,nucl1632-2,100,u mæhæ mbai,u mæhæ mbai,[],(litː '' five bodies'' ),[],,False,False,,2
-nucl1632-2-200-1,,nucl1632-2,200,u me be,u me be,[],(litː '' ten bodies'' ),[],,False,False,,2
+nucl1632-2-1-1,,nucl1632-2,1,mbai,mbai,[],,['chan2019'],,False,False,,2
+nucl1632-2-2-1,,nucl1632-2,2,be,be,[],,['chan2019'],,False,False,,2
+nucl1632-2-3-1,,nucl1632-2,3,name,name,[],,['chan2019'],,False,False,,2
+nucl1632-2-4-1,,nucl1632-2,4,keli,keli,[],,['chan2019'],,False,False,,2
+nucl1632-2-5-1,,nucl1632-2,5,mæhæ mbai,mæhæ mbai,[],,['chan2019'],,False,False,,2
+nucl1632-2-6-1,,nucl1632-2,6,mehine mbai,mehine mbai,[],,['chan2019'],,False,False,,2
+nucl1632-2-7-1,,nucl1632-2,7,mehine be,mehine be,[],,['chan2019'],,False,False,,2
+nucl1632-2-8-1,,nucl1632-2,8,mehine name,mehine name,[],,['chan2019'],,False,False,,2
+nucl1632-2-9-1,,nucl1632-2,9,mehine keli,mehine keli,[],,['chan2019'],,False,False,,2
+nucl1632-2-10-1,,nucl1632-2,10,me be,me be,[],,['chan2019'],,False,False,,2
+nucl1632-2-11-1,,nucl1632-2,11,me be mbai bele,me be mbai bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-12-1,,nucl1632-2,12,me be be bele,me be be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-13-1,,nucl1632-2,13,me be name bele,me be name bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-14-1,,nucl1632-2,14,me be keli bele,me be keli bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-15-1,,nucl1632-2,15,me be mæhæ mbai bele,me be mæhæ mbai bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-16-1,,nucl1632-2,16,me be mehine mbai bele,me be mehine mbai bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-17-1,,nucl1632-2,17,me be mehine be bele,me be mehine be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-18-1,,nucl1632-2,18,me be mehine name bele,me be mehine name bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-19-1,,nucl1632-2,19,me be mehine keli bele,me be mehine keli bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-20-1,,nucl1632-2,20,u mbai,u mbai,[],(litː ''one body'' ),['chan2019'],,False,False,,2
+nucl1632-2-21-1,,nucl1632-2,21,u mbai mbai bele,u mbai mbai bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-22-1,,nucl1632-2,22,u mbai be bele,u mbai be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-23-1,,nucl1632-2,23,u mbai name bele,u mbai name bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-24-1,,nucl1632-2,24,u mbai keli bele,u mbai keli bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-25-1,,nucl1632-2,25,u mbai mæhæ mbai bele,u mbai mæhæ mbai bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-26-1,,nucl1632-2,26,u mbai mehine mbai bele,u mbai mehine mbai bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-27-1,,nucl1632-2,27,u mbai mehine be bele,u mbai mehine be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-28-1,,nucl1632-2,28,u mbai mehine name bele,u mbai mehine name bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-29-1,,nucl1632-2,29,u mbai mehine keli bele,u mbai mehine keli bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-30-1,,nucl1632-2,30,u mbai me be bele,u mbai me be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-40-1,,nucl1632-2,40,u be,u be,[],(litː ''two bodies'' ),['chan2019'],,False,False,,2
+nucl1632-2-50-1,,nucl1632-2,50,u be me be bele,u be me be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-60-1,,nucl1632-2,60,u name,u name,[],(litː '' three bodies'' ),['chan2019'],,False,False,,2
+nucl1632-2-70-1,,nucl1632-2,70,u name me be bele,u name me be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-80-1,,nucl1632-2,80,u keli,u keli,[],(litː '' four bodies'' ),['chan2019'],,False,False,,2
+nucl1632-2-90-1,,nucl1632-2,90,u keli me be bele,u keli me be bele,[],,['chan2019'],,False,False,,2
+nucl1632-2-100-1,,nucl1632-2,100,u mæhæ mbai,u mæhæ mbai,[],(litː '' five bodies'' ),['chan2019'],,False,False,,2
+nucl1632-2-200-1,,nucl1632-2,200,u me be,u me be,[],(litː '' ten bodies'' ),['chan2019'],,False,False,,2

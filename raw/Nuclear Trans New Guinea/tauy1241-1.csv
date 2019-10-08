@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tauy1241-1-1-1,,tauy1241-1,1,ʔafana,ʔafana,[],,[],,False,False,,1
-tauy1241-1-2-1,,tauy1241-1,2,awi,awi,[],,[],,False,False,,1
-tauy1241-1-3-1,,tauy1241-1,3,eni,eni,[],,[],,False,False,,1
-tauy1241-1-4-1,,tauy1241-1,4,niyawainiyawi,niyawainiyawi,[],,[],,False,False,,1
-tauy1241-1-5-1,,tauy1241-1,5,usu-a-na,usu-a-na,[],(litː ''one hand '' ),[],,False,False,,1
-tauy1241-1-6-1,,tauy1241-1,6,wesaʔa (fofe) te-a-na,wesaʔa (fofe) te-a-na,[],(litː 'hand come'),[],,False,False,,1
-tauy1241-1-7-1,,tauy1241-1,7,wesaʔa awi (fofe) te-a-na,wesaʔa awi (fofe) te-a-na,[],(litː 'hand 2 come'),[],,False,False,,1
-tauy1241-1-8-1,,tauy1241-1,8,wesaʔa eni (fofe) te-a-na,wesaʔa eni (fofe) te-a-na,[],(litː 'hand 3 come'),[],,False,False,,1
-tauy1241-1-9-1,,tauy1241-1,9,wesaʔa niyawainiyawi (fofe) te-a-na,wesaʔa niyawainiyawi (fofe) te-a-na,[],(litː 'hand 4 come'),[],,False,False,,1
-tauy1241-1-10-1,,tauy1241-1,10,awi-awi usu-a-na,awi-awi usu-a-na,[],,[],,False,False,,1
+tauy1241-1-1-1,,tauy1241-1,1,ʔafana,ʔafana,[],,['chan2019'],,False,False,,1
+tauy1241-1-2-1,,tauy1241-1,2,awi,awi,[],,['chan2019'],,False,False,,1
+tauy1241-1-3-1,,tauy1241-1,3,eni,eni,[],,['chan2019'],,False,False,,1
+tauy1241-1-4-1,,tauy1241-1,4,niyawainiyawi,niyawainiyawi,[],,['chan2019'],,False,False,,1
+tauy1241-1-5-1,,tauy1241-1,5,usu-a-na,usu-a-na,[],(litː ''one hand '' ),['chan2019'],,False,False,,1
+tauy1241-1-6-1,,tauy1241-1,6,wesaʔa (fofe) te-a-na,wesaʔa (fofe) te-a-na,[],(litː 'hand come'),['chan2019'],,False,False,,1
+tauy1241-1-7-1,,tauy1241-1,7,wesaʔa awi (fofe) te-a-na,wesaʔa awi (fofe) te-a-na,[],(litː 'hand 2 come'),['chan2019'],,False,False,,1
+tauy1241-1-8-1,,tauy1241-1,8,wesaʔa eni (fofe) te-a-na,wesaʔa eni (fofe) te-a-na,[],(litː 'hand 3 come'),['chan2019'],,False,False,,1
+tauy1241-1-9-1,,tauy1241-1,9,wesaʔa niyawainiyawi (fofe) te-a-na,wesaʔa niyawainiyawi (fofe) te-a-na,[],(litː 'hand 4 come'),['chan2019'],,False,False,,1
+tauy1241-1-10-1,,tauy1241-1,10,awi-awi usu-a-na,awi-awi usu-a-na,[],,['chan2019'],,False,False,,1

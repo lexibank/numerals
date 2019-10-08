@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yane1238-2-1-1,,yane1238-2,1,patʸeʐ,patʸeʐ,[],,[],,False,False,pat̃err,2
-yane1238-2-2-1,,yane1238-2,2,epa,epa,[],,[],,False,False,epa,2
-yane1238-2-3-1,,yane1238-2,3,ma'pa,ma'pa,[],,[],,False,False,ma'pa,2
-yane1238-2-4-1,,yane1238-2,4,pa'tat͡s,pa'tat͡s,[],,[],,False,False,pa'tats,2
-yane1238-2-5-1,,yane1238-2,5,amnaɾ,amnaɾ,[],,[],,False,False,amnar,2
-yane1238-2-6-1,,yane1238-2,6,pet͡ʃap,pet͡ʃap,[],,[],,False,False,pechap,2
-yane1238-2-7-1,,yane1238-2,7,kant͡ʂeʐ,kant͡ʂeʐ,[],( < Quechua ? ),[],,True,False,canc̈herr,2
-yane1238-2-8-1,,yane1238-2,8,posok,posok,[],( < Quechua ? ),[],,True,False,posoc,2
-yane1238-2-9-1,,yane1238-2,9,eskont,eskont,[],( < Quechua ? ),[],,True,False,escont,2
-yane1238-2-10-1,,yane1238-2,10,t͡ʂaʐaʔ,t͡ʂaʐaʔ,[],,[],,False,False,c̈harra',2
-yane1238-2-11-1,,yane1238-2,11,c̈harra' puechena pat̃err,c̈harra' puechena pat̃err,[],,[],,False,False,,2
-yane1238-2-12-1,,yane1238-2,12,c̈harra' puechena epa,c̈harra' puechena epa,[],,[],,False,False,,2
-yane1238-2-13-1,,yane1238-2,13,c̈harra' puechena ma'pa,c̈harra' puechena ma'pa,[],,[],,False,False,,2
-yane1238-2-14-1,,yane1238-2,14,c̈harra' puechena pa'tats,c̈harra' puechena pa'tats,[],,[],,False,False,,2
-yane1238-2-15-1,,yane1238-2,15,c̈harra' puechena amnar,c̈harra' puechena amnar,[],,[],,False,False,,2
-yane1238-2-16-1,,yane1238-2,16,c̈harra' puechena pechap,c̈harra' puechena pechap,[],,[],,False,False,,2
-yane1238-2-17-1,,yane1238-2,17,c̈harra' puechena canc̈herr,c̈harra' puechena canc̈herr,[],,[],,False,False,,2
-yane1238-2-18-1,,yane1238-2,18,c̈harra' puechena posoc,c̈harra' puechena posoc,[],,[],,False,False,,2
-yane1238-2-19-1,,yane1238-2,19,c̈harra' puechena escont,c̈harra' puechena escont,[],,[],,False,False,,2
-yane1238-2-20-1,,yane1238-2,20,epot͡ʃ t͡ʂaʐaʔ,epot͡ʃ t͡ʂaʐaʔ,[],,[],,False,False,epoch c̈harra',2
-yane1238-2-21-1,,yane1238-2,21,epoch c̈harra' puechena pat̃err,epoch c̈harra' puechena pat̃err,[],,[],,False,False,,2
-yane1238-2-22-1,,yane1238-2,22,epoch c̈harra' puechena epa,epoch c̈harra' puechena epa,[],,[],,False,False,,2
-yane1238-2-23-1,,yane1238-2,23,epoch c̈harra' puechena ma'pa,epoch c̈harra' puechena ma'pa,[],,[],,False,False,,2
-yane1238-2-24-1,,yane1238-2,24,epoch c̈harra' puechena pa'tats,epoch c̈harra' puechena pa'tats,[],,[],,False,False,,2
-yane1238-2-25-1,,yane1238-2,25,epoch c̈harra' puechena amnar,epoch c̈harra' puechena amnar,[],,[],,False,False,,2
-yane1238-2-26-1,,yane1238-2,26,epoch c̈harra' puechena pechap,epoch c̈harra' puechena pechap,[],,[],,False,False,,2
-yane1238-2-27-1,,yane1238-2,27,epoch c̈harra' puechena canc̈herr,epoch c̈harra' puechena canc̈herr,[],,[],,False,False,,2
-yane1238-2-28-1,,yane1238-2,28,epoch c̈harra' puechena posoc,epoch c̈harra' puechena posoc,[],,[],,False,False,,2
-yane1238-2-29-1,,yane1238-2,29,epoch c̈harra' puechena escont,epoch c̈harra' puechena escont,[],,[],,False,False,,2
-yane1238-2-30-1,,yane1238-2,30,ma'poch c̈harra',ma'poch c̈harra',[],,[],,False,False,,2
-yane1238-2-40-1,,yane1238-2,40,pa'tatsoch c̈harra',pa'tatsoch c̈harra',[],,[],,False,False,,2
-yane1238-2-50-1,,yane1238-2,50,amnaroch c̈harra',amnaroch c̈harra',[],,[],,False,False,,2
-yane1238-2-60-1,,yane1238-2,60,pechapoch c̈harra',pechapoch c̈harra',[],,[],,False,False,,2
-yane1238-2-70-1,,yane1238-2,70,canc̈herroch c̈harra',canc̈herroch c̈harra',[],,[],,False,False,,2
-yane1238-2-80-1,,yane1238-2,80,posooch c̈harra',posooch c̈harra',[],,[],,False,False,,2
-yane1238-2-90-1,,yane1238-2,90,escontoch c̈harra',escontoch c̈harra',[],,[],,False,False,,2
-yane1238-2-100-1,,yane1238-2,100,c̈harroch c̈harra',c̈harroch c̈harra',[],,[],,False,False,,2
-yane1238-2-200-1,,yane1238-2,200,epoch c̈harroch c̈harra',epoch c̈harroch c̈harra',[],,[],,False,False,,2
-yane1238-2-1000-1,,yane1238-2,1000,c̈harroch c̈harroch c̈harra',c̈harroch c̈harroch c̈harra',[],,[],,False,False,,2
-yane1238-2-2000-1,,yane1238-2,2000,epoch c̈harroch c̈harroch c̈harra',epoch c̈harroch c̈harroch c̈harra',[],,[],,False,False,,2
+yane1238-2-1-1,,yane1238-2,1,patʸeʐ,patʸeʐ,[],,['chan2019'],,False,False,pat̃err,2
+yane1238-2-2-1,,yane1238-2,2,epa,epa,[],,['chan2019'],,False,False,epa,2
+yane1238-2-3-1,,yane1238-2,3,ma'pa,ma'pa,[],,['chan2019'],,False,False,ma'pa,2
+yane1238-2-4-1,,yane1238-2,4,pa'tat͡s,pa'tat͡s,[],,['chan2019'],,False,False,pa'tats,2
+yane1238-2-5-1,,yane1238-2,5,amnaɾ,amnaɾ,[],,['chan2019'],,False,False,amnar,2
+yane1238-2-6-1,,yane1238-2,6,pet͡ʃap,pet͡ʃap,[],,['chan2019'],,False,False,pechap,2
+yane1238-2-7-1,,yane1238-2,7,kant͡ʂeʐ,kant͡ʂeʐ,[],( < Quechua ? ),['chan2019'],,True,False,canc̈herr,2
+yane1238-2-8-1,,yane1238-2,8,posok,posok,[],( < Quechua ? ),['chan2019'],,True,False,posoc,2
+yane1238-2-9-1,,yane1238-2,9,eskont,eskont,[],( < Quechua ? ),['chan2019'],,True,False,escont,2
+yane1238-2-10-1,,yane1238-2,10,t͡ʂaʐaʔ,t͡ʂaʐaʔ,[],,['chan2019'],,False,False,c̈harra',2
+yane1238-2-11-1,,yane1238-2,11,c̈harra' puechena pat̃err,c̈harra' puechena pat̃err,[],,['chan2019'],,False,False,,2
+yane1238-2-12-1,,yane1238-2,12,c̈harra' puechena epa,c̈harra' puechena epa,[],,['chan2019'],,False,False,,2
+yane1238-2-13-1,,yane1238-2,13,c̈harra' puechena ma'pa,c̈harra' puechena ma'pa,[],,['chan2019'],,False,False,,2
+yane1238-2-14-1,,yane1238-2,14,c̈harra' puechena pa'tats,c̈harra' puechena pa'tats,[],,['chan2019'],,False,False,,2
+yane1238-2-15-1,,yane1238-2,15,c̈harra' puechena amnar,c̈harra' puechena amnar,[],,['chan2019'],,False,False,,2
+yane1238-2-16-1,,yane1238-2,16,c̈harra' puechena pechap,c̈harra' puechena pechap,[],,['chan2019'],,False,False,,2
+yane1238-2-17-1,,yane1238-2,17,c̈harra' puechena canc̈herr,c̈harra' puechena canc̈herr,[],,['chan2019'],,False,False,,2
+yane1238-2-18-1,,yane1238-2,18,c̈harra' puechena posoc,c̈harra' puechena posoc,[],,['chan2019'],,False,False,,2
+yane1238-2-19-1,,yane1238-2,19,c̈harra' puechena escont,c̈harra' puechena escont,[],,['chan2019'],,False,False,,2
+yane1238-2-20-1,,yane1238-2,20,epot͡ʃ t͡ʂaʐaʔ,epot͡ʃ t͡ʂaʐaʔ,[],,['chan2019'],,False,False,epoch c̈harra',2
+yane1238-2-21-1,,yane1238-2,21,epoch c̈harra' puechena pat̃err,epoch c̈harra' puechena pat̃err,[],,['chan2019'],,False,False,,2
+yane1238-2-22-1,,yane1238-2,22,epoch c̈harra' puechena epa,epoch c̈harra' puechena epa,[],,['chan2019'],,False,False,,2
+yane1238-2-23-1,,yane1238-2,23,epoch c̈harra' puechena ma'pa,epoch c̈harra' puechena ma'pa,[],,['chan2019'],,False,False,,2
+yane1238-2-24-1,,yane1238-2,24,epoch c̈harra' puechena pa'tats,epoch c̈harra' puechena pa'tats,[],,['chan2019'],,False,False,,2
+yane1238-2-25-1,,yane1238-2,25,epoch c̈harra' puechena amnar,epoch c̈harra' puechena amnar,[],,['chan2019'],,False,False,,2
+yane1238-2-26-1,,yane1238-2,26,epoch c̈harra' puechena pechap,epoch c̈harra' puechena pechap,[],,['chan2019'],,False,False,,2
+yane1238-2-27-1,,yane1238-2,27,epoch c̈harra' puechena canc̈herr,epoch c̈harra' puechena canc̈herr,[],,['chan2019'],,False,False,,2
+yane1238-2-28-1,,yane1238-2,28,epoch c̈harra' puechena posoc,epoch c̈harra' puechena posoc,[],,['chan2019'],,False,False,,2
+yane1238-2-29-1,,yane1238-2,29,epoch c̈harra' puechena escont,epoch c̈harra' puechena escont,[],,['chan2019'],,False,False,,2
+yane1238-2-30-1,,yane1238-2,30,ma'poch c̈harra',ma'poch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-40-1,,yane1238-2,40,pa'tatsoch c̈harra',pa'tatsoch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-50-1,,yane1238-2,50,amnaroch c̈harra',amnaroch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-60-1,,yane1238-2,60,pechapoch c̈harra',pechapoch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-70-1,,yane1238-2,70,canc̈herroch c̈harra',canc̈herroch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-80-1,,yane1238-2,80,posooch c̈harra',posooch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-90-1,,yane1238-2,90,escontoch c̈harra',escontoch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-100-1,,yane1238-2,100,c̈harroch c̈harra',c̈harroch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-200-1,,yane1238-2,200,epoch c̈harroch c̈harra',epoch c̈harroch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-1000-1,,yane1238-2,1000,c̈harroch c̈harroch c̈harra',c̈harroch c̈harroch c̈harra',[],,['chan2019'],,False,False,,2
+yane1238-2-2000-1,,yane1238-2,2000,epoch c̈harroch c̈harroch c̈harra',epoch c̈harroch c̈harroch c̈harra',[],,['chan2019'],,False,False,,2

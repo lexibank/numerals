@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wakh1245-2-1-1,,wakh1245-2,1,ji(u),ji(u),[],,[],,False,False,,2
-wakh1245-2-2-1,,wakh1245-2,2,bu(i),bu(i),[],,[],,False,False,,2
-wakh1245-2-3-1,,wakh1245-2,3,tru(i),tru(i),[],,[],,False,False,,2
-wakh1245-2-4-1,,wakh1245-2,4,t͡sɯbɯr,t͡sɯbɯr,[],,[],,False,False,,2
-wakh1245-2-5-1,,wakh1245-2,5,pand͡z,pand͡z,[],,[],,False,False,,2
-wakh1245-2-6-1,,wakh1245-2,6,ʃað,ʃað,[],,[],,False,False,,2
-wakh1245-2-7-1,,wakh1245-2,7,ɯb,ɯb,[],,[],,False,False,,2
-wakh1245-2-7-2,,wakh1245-2,7,hɯb,hɯb,[],,[],,False,False,,2
-wakh1245-2-8-1,,wakh1245-2,8,at,at,[],,[],,False,False,,2
-wakh1245-2-8-2,,wakh1245-2,8,hat,hat,[],,[],,False,False,,2
-wakh1245-2-9-1,,wakh1245-2,9,nau,nau,[],,[],,False,False,,2
-wakh1245-2-10-1,,wakh1245-2,10,ðas,ðas,[],,[],,False,False,,2
-wakh1245-2-11-1,,wakh1245-2,11,ðas jiu,ðas jiu,[],,[],,False,False,,2
-wakh1245-2-12-1,,wakh1245-2,12,ðas bui,ðas bui,[],,[],,False,False,,2
-wakh1245-2-13-1,,wakh1245-2,13,ðas trui,ðas trui,[],,[],,False,False,,2
-wakh1245-2-14-1,,wakh1245-2,14,ðas t͡sɯbɯr,ðas t͡sɯbɯr,[],,[],,False,False,,2
-wakh1245-2-15-1,,wakh1245-2,15,ðas pand͡z,ðas pand͡z,[],,[],,False,False,,2
-wakh1245-2-16-1,,wakh1245-2,16,ðas ʃað,ðas ʃað,[],,[],,False,False,,2
-wakh1245-2-17-1,,wakh1245-2,17,ðas ɯb,ðas ɯb,[],,[],,False,False,,2
-wakh1245-2-18-1,,wakh1245-2,18,ðas at,ðas at,[],,[],,False,False,,2
-wakh1245-2-19-1,,wakh1245-2,19,ðas nau,ðas nau,[],,[],,False,False,,2
-wakh1245-2-20-1,,wakh1245-2,20,wist,wist,[],,[],,False,False,,2
-wakh1245-2-21-1,,wakh1245-2,21,wist ə jiu,wist ə jiu,[],,[],,False,False,,2
-wakh1245-2-22-1,,wakh1245-2,22,wist ə bui,wist ə bui,[],,[],,False,False,,2
-wakh1245-2-23-1,,wakh1245-2,23,wist ə trui,wist ə trui,[],,[],,False,False,,2
-wakh1245-2-24-1,,wakh1245-2,24,wist ə t͡sɯbɯr,wist ə t͡sɯbɯr,[],,[],,False,False,,2
-wakh1245-2-25-1,,wakh1245-2,25,wist ə pand͡z,wist ə pand͡z,[],,[],,False,False,,2
-wakh1245-2-26-1,,wakh1245-2,26,wist ə ʃað,wist ə ʃað,[],,[],,False,False,,2
-wakh1245-2-27-1,,wakh1245-2,27,wist ə ɯb,wist ə ɯb,[],,[],,False,False,,2
-wakh1245-2-28-1,,wakh1245-2,28,wist ə at,wist ə at,[],,[],,False,False,,2
-wakh1245-2-29-1,,wakh1245-2,29,wist ə nau,wist ə nau,[],,[],,False,False,,2
-wakh1245-2-30-1,,wakh1245-2,30,wist ə ðas,wist ə ðas,[],,[],,False,False,,2
-wakh1245-2-40-1,,wakh1245-2,40,bu wist,bu wist,[],( 2 x 20 ),[],,False,False,,2
-wakh1245-2-50-1,,wakh1245-2,50,bu wist ə ðas,bu wist ə ðas,[],( 2 x 20 + 10),[],,False,False,,2
-wakh1245-2-60-1,,wakh1245-2,60,tru wist,tru wist,[],,[],,False,False,,2
-wakh1245-2-70-1,,wakh1245-2,70,tru wist ə ðas,tru wist ə ðas,[],,[],,False,False,,2
-wakh1245-2-80-1,,wakh1245-2,80,t͡sɯbɯr wist,t͡sɯbɯr wist,[],,[],,False,False,,2
-wakh1245-2-90-1,,wakh1245-2,90,t͡sɯbɯr wist ə ðas,t͡sɯbɯr wist ə ðas,[],,[],,False,False,,2
-wakh1245-2-100-1,,wakh1245-2,100,pand͡z wist,pand͡z wist,[],,[],,False,False,,2
-wakh1245-2-100-2,,wakh1245-2,100,sad,sad,[],,[],,False,False,,2
-wakh1245-2-200-1,,wakh1245-2,200,bu sad,bu sad,[],,[],,False,False,,2
-wakh1245-2-1000-1,,wakh1245-2,1000,azor,azor,[],,[],,False,False,,2
-wakh1245-2-1000-2,,wakh1245-2,1000,jiu hazar,jiu hazar,[],< Persian ,[],,True,False,,2
-wakh1245-2-2000-1,,wakh1245-2,2000,bu hazar,bu hazar,[],,[],,False,False,,2
+wakh1245-2-1-1,,wakh1245-2,1,ji(u),ji(u),[],,['chan2019'],,False,False,,2
+wakh1245-2-2-1,,wakh1245-2,2,bu(i),bu(i),[],,['chan2019'],,False,False,,2
+wakh1245-2-3-1,,wakh1245-2,3,tru(i),tru(i),[],,['chan2019'],,False,False,,2
+wakh1245-2-4-1,,wakh1245-2,4,t͡sɯbɯr,t͡sɯbɯr,[],,['chan2019'],,False,False,,2
+wakh1245-2-5-1,,wakh1245-2,5,pand͡z,pand͡z,[],,['chan2019'],,False,False,,2
+wakh1245-2-6-1,,wakh1245-2,6,ʃað,ʃað,[],,['chan2019'],,False,False,,2
+wakh1245-2-7-1,,wakh1245-2,7,ɯb,ɯb,[],,['chan2019'],,False,False,,2
+wakh1245-2-7-2,,wakh1245-2,7,hɯb,hɯb,[],,['chan2019'],,False,False,,2
+wakh1245-2-8-1,,wakh1245-2,8,at,at,[],,['chan2019'],,False,False,,2
+wakh1245-2-8-2,,wakh1245-2,8,hat,hat,[],,['chan2019'],,False,False,,2
+wakh1245-2-9-1,,wakh1245-2,9,nau,nau,[],,['chan2019'],,False,False,,2
+wakh1245-2-10-1,,wakh1245-2,10,ðas,ðas,[],,['chan2019'],,False,False,,2
+wakh1245-2-11-1,,wakh1245-2,11,ðas jiu,ðas jiu,[],,['chan2019'],,False,False,,2
+wakh1245-2-12-1,,wakh1245-2,12,ðas bui,ðas bui,[],,['chan2019'],,False,False,,2
+wakh1245-2-13-1,,wakh1245-2,13,ðas trui,ðas trui,[],,['chan2019'],,False,False,,2
+wakh1245-2-14-1,,wakh1245-2,14,ðas t͡sɯbɯr,ðas t͡sɯbɯr,[],,['chan2019'],,False,False,,2
+wakh1245-2-15-1,,wakh1245-2,15,ðas pand͡z,ðas pand͡z,[],,['chan2019'],,False,False,,2
+wakh1245-2-16-1,,wakh1245-2,16,ðas ʃað,ðas ʃað,[],,['chan2019'],,False,False,,2
+wakh1245-2-17-1,,wakh1245-2,17,ðas ɯb,ðas ɯb,[],,['chan2019'],,False,False,,2
+wakh1245-2-18-1,,wakh1245-2,18,ðas at,ðas at,[],,['chan2019'],,False,False,,2
+wakh1245-2-19-1,,wakh1245-2,19,ðas nau,ðas nau,[],,['chan2019'],,False,False,,2
+wakh1245-2-20-1,,wakh1245-2,20,wist,wist,[],,['chan2019'],,False,False,,2
+wakh1245-2-21-1,,wakh1245-2,21,wist ə jiu,wist ə jiu,[],,['chan2019'],,False,False,,2
+wakh1245-2-22-1,,wakh1245-2,22,wist ə bui,wist ə bui,[],,['chan2019'],,False,False,,2
+wakh1245-2-23-1,,wakh1245-2,23,wist ə trui,wist ə trui,[],,['chan2019'],,False,False,,2
+wakh1245-2-24-1,,wakh1245-2,24,wist ə t͡sɯbɯr,wist ə t͡sɯbɯr,[],,['chan2019'],,False,False,,2
+wakh1245-2-25-1,,wakh1245-2,25,wist ə pand͡z,wist ə pand͡z,[],,['chan2019'],,False,False,,2
+wakh1245-2-26-1,,wakh1245-2,26,wist ə ʃað,wist ə ʃað,[],,['chan2019'],,False,False,,2
+wakh1245-2-27-1,,wakh1245-2,27,wist ə ɯb,wist ə ɯb,[],,['chan2019'],,False,False,,2
+wakh1245-2-28-1,,wakh1245-2,28,wist ə at,wist ə at,[],,['chan2019'],,False,False,,2
+wakh1245-2-29-1,,wakh1245-2,29,wist ə nau,wist ə nau,[],,['chan2019'],,False,False,,2
+wakh1245-2-30-1,,wakh1245-2,30,wist ə ðas,wist ə ðas,[],,['chan2019'],,False,False,,2
+wakh1245-2-40-1,,wakh1245-2,40,bu wist,bu wist,[],( 2 x 20 ),['chan2019'],,False,False,,2
+wakh1245-2-50-1,,wakh1245-2,50,bu wist ə ðas,bu wist ə ðas,[],( 2 x 20 + 10),['chan2019'],,False,False,,2
+wakh1245-2-60-1,,wakh1245-2,60,tru wist,tru wist,[],,['chan2019'],,False,False,,2
+wakh1245-2-70-1,,wakh1245-2,70,tru wist ə ðas,tru wist ə ðas,[],,['chan2019'],,False,False,,2
+wakh1245-2-80-1,,wakh1245-2,80,t͡sɯbɯr wist,t͡sɯbɯr wist,[],,['chan2019'],,False,False,,2
+wakh1245-2-90-1,,wakh1245-2,90,t͡sɯbɯr wist ə ðas,t͡sɯbɯr wist ə ðas,[],,['chan2019'],,False,False,,2
+wakh1245-2-100-1,,wakh1245-2,100,pand͡z wist,pand͡z wist,[],,['chan2019'],,False,False,,2
+wakh1245-2-100-2,,wakh1245-2,100,sad,sad,[],,['chan2019'],,False,False,,2
+wakh1245-2-200-1,,wakh1245-2,200,bu sad,bu sad,[],,['chan2019'],,False,False,,2
+wakh1245-2-1000-1,,wakh1245-2,1000,azor,azor,[],,['chan2019'],,False,False,,2
+wakh1245-2-1000-2,,wakh1245-2,1000,jiu hazar,jiu hazar,[],< Persian ,['chan2019'],,True,False,,2
+wakh1245-2-2000-1,,wakh1245-2,2000,bu hazar,bu hazar,[],,['chan2019'],,False,False,,2

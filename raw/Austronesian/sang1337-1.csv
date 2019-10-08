@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sang1337-1-1-1,,sang1337-1,1,sa,sa,[],,[],,False,False,,1
-sang1337-1-1-2,,sang1337-1,1,sɨmbauʔ,sɨmbauʔ,[],,[],,False,False,,1
-sang1337-1-2-1,,sang1337-1,2,dua,dua,[],,[],,False,False,,1
-sang1337-1-2-2,,sang1337-1,2,daɭua,daɭua,[],,[],,False,False,,1
-sang1337-1-3-1,,sang1337-1,3,taw,taw,[],,[],,False,False,,1
-sang1337-1-3-2,,sang1337-1,3,tataw,tataw,[],,[],,False,False,,1
-sang1337-1-4-1,,sang1337-1,4,paʔ,paʔ,[],,[],,False,False,,1
-sang1337-1-5-1,,sang1337-1,5,lima,lima,[],,[],,False,False,,1
-sang1337-1-6-1,,sang1337-1,6,nuŋ,nuŋ,[],,[],,False,False,,1
-sang1337-1-7-1,,sang1337-1,7,pitu,pitu,[],,[],,False,False,,1
-sang1337-1-8-1,,sang1337-1,8,waw,waw,[],,[],,False,False,,1
-sang1337-1-9-1,,sang1337-1,9,siaw,siaw,[],,[],,False,False,,1
-sang1337-1-10-1,,sang1337-1,10,mapuo,mapuo,[],,[],,False,False,,1
-sang1337-1-11-1,,sang1337-1,11,mapuo sa,mapuo sa,[],,[],,False,False,,1
-sang1337-1-12-1,,sang1337-1,12,mapuo dua,mapuo dua,[],,[],,False,False,,1
-sang1337-1-13-1,,sang1337-1,13,mapuo taw,mapuo taw,[],,[],,False,False,,1
-sang1337-1-14-1,,sang1337-1,14,mapuo paʔ,mapuo paʔ,[],,[],,False,False,,1
-sang1337-1-15-1,,sang1337-1,15,mapuo lima,mapuo lima,[],,[],,False,False,,1
-sang1337-1-16-1,,sang1337-1,16,mapuo nuŋ,mapuo nuŋ,[],,[],,False,False,,1
-sang1337-1-17-1,,sang1337-1,17,mapuo pitu,mapuo pitu,[],,[],,False,False,,1
-sang1337-1-18-1,,sang1337-1,18,mapuo waw,mapuo waw,[],,[],,False,False,,1
-sang1337-1-19-1,,sang1337-1,19,mapuo siaw,mapuo siaw,[],,[],,False,False,,1
-sang1337-1-20-1,,sang1337-1,20,duampuo,duampuo,[],,[],,False,False,,1
-sang1337-1-21-1,,sang1337-1,21,duampuo sa,duampuo sa,[],,[],,False,False,,1
-sang1337-1-22-1,,sang1337-1,22,duampuo rua,duampuo rua,[],,[],,False,False,,1
-sang1337-1-23-1,,sang1337-1,23,duampuo taw,duampuo taw,[],,[],,False,False,,1
-sang1337-1-24-1,,sang1337-1,24,duampuo paʔ,duampuo paʔ,[],,[],,False,False,,1
-sang1337-1-25-1,,sang1337-1,25,duampuo lima,duampuo lima,[],,[],,False,False,,1
-sang1337-1-26-1,,sang1337-1,26,duampuo nuŋ,duampuo nuŋ,[],,[],,False,False,,1
-sang1337-1-27-1,,sang1337-1,27,duampuo pitu,duampuo pitu,[],,[],,False,False,,1
-sang1337-1-28-1,,sang1337-1,28,duampuo waw,duampuo waw,[],,[],,False,False,,1
-sang1337-1-29-1,,sang1337-1,29,duampuo siaw,duampuo siaw,[],,[],,False,False,,1
-sang1337-1-30-1,,sang1337-1,30,taumpuo,taumpuo,[],,[],,False,False,,1
-sang1337-1-40-1,,sang1337-1,40,paʔ umpuo,paʔ umpuo,[],,[],,False,False,,1
-sang1337-1-50-1,,sang1337-1,50,limampuo,limampuo,[],,[],,False,False,,1
-sang1337-1-60-1,,sang1337-1,60,nuŋ puo,nuŋ puo,[],,[],,False,False,,1
-sang1337-1-70-1,,sang1337-1,70,pitumpuo,pitumpuo,[],,[],,False,False,,1
-sang1337-1-80-1,,sang1337-1,80,wawumpuo,wawumpuo,[],,[],,False,False,,1
-sang1337-1-90-1,,sang1337-1,90,siampuo,siampuo,[],,[],,False,False,,1
-sang1337-1-100-1,,sang1337-1,100,marasuʔ,marasuʔ,[],,[],,False,False,,1
-sang1337-1-200-1,,sang1337-1,200,duarasuʔ,duarasuʔ,[],,[],,False,False,,1
-sang1337-1-1000-1,,sang1337-1,1000,sɨriβu,sɨriβu,[],,[],,False,False,,1
-sang1337-1-2000-1,,sang1337-1,2000,duariβu,duariβu,[],,[],,False,False,,1
+sang1337-1-1-1,,sang1337-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+sang1337-1-1-2,,sang1337-1,1,sɨmbauʔ,sɨmbauʔ,[],,['chan2019'],,False,False,,1
+sang1337-1-2-1,,sang1337-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+sang1337-1-2-2,,sang1337-1,2,daɭua,daɭua,[],,['chan2019'],,False,False,,1
+sang1337-1-3-1,,sang1337-1,3,taw,taw,[],,['chan2019'],,False,False,,1
+sang1337-1-3-2,,sang1337-1,3,tataw,tataw,[],,['chan2019'],,False,False,,1
+sang1337-1-4-1,,sang1337-1,4,paʔ,paʔ,[],,['chan2019'],,False,False,,1
+sang1337-1-5-1,,sang1337-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+sang1337-1-6-1,,sang1337-1,6,nuŋ,nuŋ,[],,['chan2019'],,False,False,,1
+sang1337-1-7-1,,sang1337-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+sang1337-1-8-1,,sang1337-1,8,waw,waw,[],,['chan2019'],,False,False,,1
+sang1337-1-9-1,,sang1337-1,9,siaw,siaw,[],,['chan2019'],,False,False,,1
+sang1337-1-10-1,,sang1337-1,10,mapuo,mapuo,[],,['chan2019'],,False,False,,1
+sang1337-1-11-1,,sang1337-1,11,mapuo sa,mapuo sa,[],,['chan2019'],,False,False,,1
+sang1337-1-12-1,,sang1337-1,12,mapuo dua,mapuo dua,[],,['chan2019'],,False,False,,1
+sang1337-1-13-1,,sang1337-1,13,mapuo taw,mapuo taw,[],,['chan2019'],,False,False,,1
+sang1337-1-14-1,,sang1337-1,14,mapuo paʔ,mapuo paʔ,[],,['chan2019'],,False,False,,1
+sang1337-1-15-1,,sang1337-1,15,mapuo lima,mapuo lima,[],,['chan2019'],,False,False,,1
+sang1337-1-16-1,,sang1337-1,16,mapuo nuŋ,mapuo nuŋ,[],,['chan2019'],,False,False,,1
+sang1337-1-17-1,,sang1337-1,17,mapuo pitu,mapuo pitu,[],,['chan2019'],,False,False,,1
+sang1337-1-18-1,,sang1337-1,18,mapuo waw,mapuo waw,[],,['chan2019'],,False,False,,1
+sang1337-1-19-1,,sang1337-1,19,mapuo siaw,mapuo siaw,[],,['chan2019'],,False,False,,1
+sang1337-1-20-1,,sang1337-1,20,duampuo,duampuo,[],,['chan2019'],,False,False,,1
+sang1337-1-21-1,,sang1337-1,21,duampuo sa,duampuo sa,[],,['chan2019'],,False,False,,1
+sang1337-1-22-1,,sang1337-1,22,duampuo rua,duampuo rua,[],,['chan2019'],,False,False,,1
+sang1337-1-23-1,,sang1337-1,23,duampuo taw,duampuo taw,[],,['chan2019'],,False,False,,1
+sang1337-1-24-1,,sang1337-1,24,duampuo paʔ,duampuo paʔ,[],,['chan2019'],,False,False,,1
+sang1337-1-25-1,,sang1337-1,25,duampuo lima,duampuo lima,[],,['chan2019'],,False,False,,1
+sang1337-1-26-1,,sang1337-1,26,duampuo nuŋ,duampuo nuŋ,[],,['chan2019'],,False,False,,1
+sang1337-1-27-1,,sang1337-1,27,duampuo pitu,duampuo pitu,[],,['chan2019'],,False,False,,1
+sang1337-1-28-1,,sang1337-1,28,duampuo waw,duampuo waw,[],,['chan2019'],,False,False,,1
+sang1337-1-29-1,,sang1337-1,29,duampuo siaw,duampuo siaw,[],,['chan2019'],,False,False,,1
+sang1337-1-30-1,,sang1337-1,30,taumpuo,taumpuo,[],,['chan2019'],,False,False,,1
+sang1337-1-40-1,,sang1337-1,40,paʔ umpuo,paʔ umpuo,[],,['chan2019'],,False,False,,1
+sang1337-1-50-1,,sang1337-1,50,limampuo,limampuo,[],,['chan2019'],,False,False,,1
+sang1337-1-60-1,,sang1337-1,60,nuŋ puo,nuŋ puo,[],,['chan2019'],,False,False,,1
+sang1337-1-70-1,,sang1337-1,70,pitumpuo,pitumpuo,[],,['chan2019'],,False,False,,1
+sang1337-1-80-1,,sang1337-1,80,wawumpuo,wawumpuo,[],,['chan2019'],,False,False,,1
+sang1337-1-90-1,,sang1337-1,90,siampuo,siampuo,[],,['chan2019'],,False,False,,1
+sang1337-1-100-1,,sang1337-1,100,marasuʔ,marasuʔ,[],,['chan2019'],,False,False,,1
+sang1337-1-200-1,,sang1337-1,200,duarasuʔ,duarasuʔ,[],,['chan2019'],,False,False,,1
+sang1337-1-1000-1,,sang1337-1,1000,sɨriβu,sɨriβu,[],,['chan2019'],,False,False,,1
+sang1337-1-2000-1,,sang1337-1,2000,duariβu,duariβu,[],,['chan2019'],,False,False,,1

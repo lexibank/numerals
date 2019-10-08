@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-laiy1246-2-1-1,,laiy1246-2,1,səʔənsa,səʔənsa,[],,[],,False,False,,2
-laiy1246-2-2-1,,laiy1246-2,2,rua,rua,[],,[],,False,False,,2
-laiy1246-2-3-1,,laiy1246-2,3,talu,talu,[],,[],,False,False,,2
-laiy1246-2-4-1,,laiy1246-2,4,apa,apa,[],,[],,False,False,,2
-laiy1246-2-5-1,,laiy1246-2,5,lima,lima,[],,[],,False,False,,2
-laiy1246-2-6-1,,laiy1246-2,6,ana,ana,[],,[],,False,False,,2
-laiy1246-2-7-1,,laiy1246-2,7,pitu,pitu,[],,[],,False,False,,2
-laiy1246-2-8-1,,laiy1246-2,8,falu,falu,[],,[],,False,False,,2
-laiy1246-2-9-1,,laiy1246-2,9,sio,sio,[],,[],,False,False,,2
-laiy1246-2-10-1,,laiy1246-2,10,səpulu,səpulu,[],,[],,False,False,,2
-laiy1246-2-11-1,,laiy1246-2,11,səpulu səʔənsa,səpulu səʔənsa,[],,[],,False,False,,2
-laiy1246-2-12-1,,laiy1246-2,12,səpulu rua,səpulu rua,[],,[],,False,False,,2
-laiy1246-2-13-1,,laiy1246-2,13,səpulu talu,səpulu talu,[],,[],,False,False,,2
-laiy1246-2-14-1,,laiy1246-2,14,səpulu apa,səpulu apa,[],,[],,False,False,,2
-laiy1246-2-15-1,,laiy1246-2,15,səpulu lima,səpulu lima,[],,[],,False,False,,2
-laiy1246-2-16-1,,laiy1246-2,16,səpulu ana,səpulu ana,[],,[],,False,False,,2
-laiy1246-2-17-1,,laiy1246-2,17,səpulu pitu,səpulu pitu,[],,[],,False,False,,2
-laiy1246-2-18-1,,laiy1246-2,18,səpulu falu,səpulu falu,[],,[],,False,False,,2
-laiy1246-2-19-1,,laiy1246-2,19,səpulu sio,səpulu sio,[],,[],,False,False,,2
-laiy1246-2-20-1,,laiy1246-2,20,ruappulu,ruappulu,[],,[],,False,False,,2
-laiy1246-2-21-1,,laiy1246-2,21,ruappulu səʔənsa,ruappulu səʔənsa,[],,[],,False,False,,2
-laiy1246-2-22-1,,laiy1246-2,22,ruappulu rua,ruappulu rua,[],,[],,False,False,,2
-laiy1246-2-23-1,,laiy1246-2,23,ruappulu talu,ruappulu talu,[],,[],,False,False,,2
-laiy1246-2-24-1,,laiy1246-2,24,ruappulu apa,ruappulu apa,[],,[],,False,False,,2
-laiy1246-2-25-1,,laiy1246-2,25,ruappulu lima,ruappulu lima,[],,[],,False,False,,2
-laiy1246-2-26-1,,laiy1246-2,26,ruappulu ana,ruappulu ana,[],,[],,False,False,,2
-laiy1246-2-27-1,,laiy1246-2,27,ruappulu pitu,ruappulu pitu,[],,[],,False,False,,2
-laiy1246-2-28-1,,laiy1246-2,28,ruappulu falu,ruappulu falu,[],,[],,False,False,,2
-laiy1246-2-29-1,,laiy1246-2,29,ruappulu sio,ruappulu sio,[],,[],,False,False,,2
-laiy1246-2-30-1,,laiy1246-2,30,taluppulu,taluppulu,[],,[],,False,False,,2
-laiy1246-2-40-1,,laiy1246-2,40,patappulu,patappulu,[],,[],,False,False,,2
-laiy1246-2-50-1,,laiy1246-2,50,limappulu,limappulu,[],,[],,False,False,,2
-laiy1246-2-60-1,,laiy1246-2,60,anappulu,anappulu,[],,[],,False,False,,2
-laiy1246-2-70-1,,laiy1246-2,70,pituppulu,pituppulu,[],,[],,False,False,,2
-laiy1246-2-80-1,,laiy1246-2,80,faluppulu,faluppulu,[],,[],,False,False,,2
-laiy1246-2-90-1,,laiy1246-2,90,sioppulu,sioppulu,[],,[],,False,False,,2
-laiy1246-2-100-1,,laiy1246-2,100,saʔatu,saʔatu,[],,[],,False,False,,2
-laiy1246-2-200-1,,laiy1246-2,200,ruaʔatu,ruaʔatu,[],,[],,False,False,,2
-laiy1246-2-1000-1,,laiy1246-2,1000,sənsofu,sənsofu,[],,[],,False,False,,2
-laiy1246-2-2000-1,,laiy1246-2,2000,ruan sofu,ruan sofu,[],,[],,False,False,,2
+laiy1246-2-1-1,,laiy1246-2,1,səʔənsa,səʔənsa,[],,['chan2019'],,False,False,,2
+laiy1246-2-2-1,,laiy1246-2,2,rua,rua,[],,['chan2019'],,False,False,,2
+laiy1246-2-3-1,,laiy1246-2,3,talu,talu,[],,['chan2019'],,False,False,,2
+laiy1246-2-4-1,,laiy1246-2,4,apa,apa,[],,['chan2019'],,False,False,,2
+laiy1246-2-5-1,,laiy1246-2,5,lima,lima,[],,['chan2019'],,False,False,,2
+laiy1246-2-6-1,,laiy1246-2,6,ana,ana,[],,['chan2019'],,False,False,,2
+laiy1246-2-7-1,,laiy1246-2,7,pitu,pitu,[],,['chan2019'],,False,False,,2
+laiy1246-2-8-1,,laiy1246-2,8,falu,falu,[],,['chan2019'],,False,False,,2
+laiy1246-2-9-1,,laiy1246-2,9,sio,sio,[],,['chan2019'],,False,False,,2
+laiy1246-2-10-1,,laiy1246-2,10,səpulu,səpulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-11-1,,laiy1246-2,11,səpulu səʔənsa,səpulu səʔənsa,[],,['chan2019'],,False,False,,2
+laiy1246-2-12-1,,laiy1246-2,12,səpulu rua,səpulu rua,[],,['chan2019'],,False,False,,2
+laiy1246-2-13-1,,laiy1246-2,13,səpulu talu,səpulu talu,[],,['chan2019'],,False,False,,2
+laiy1246-2-14-1,,laiy1246-2,14,səpulu apa,səpulu apa,[],,['chan2019'],,False,False,,2
+laiy1246-2-15-1,,laiy1246-2,15,səpulu lima,səpulu lima,[],,['chan2019'],,False,False,,2
+laiy1246-2-16-1,,laiy1246-2,16,səpulu ana,səpulu ana,[],,['chan2019'],,False,False,,2
+laiy1246-2-17-1,,laiy1246-2,17,səpulu pitu,səpulu pitu,[],,['chan2019'],,False,False,,2
+laiy1246-2-18-1,,laiy1246-2,18,səpulu falu,səpulu falu,[],,['chan2019'],,False,False,,2
+laiy1246-2-19-1,,laiy1246-2,19,səpulu sio,səpulu sio,[],,['chan2019'],,False,False,,2
+laiy1246-2-20-1,,laiy1246-2,20,ruappulu,ruappulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-21-1,,laiy1246-2,21,ruappulu səʔənsa,ruappulu səʔənsa,[],,['chan2019'],,False,False,,2
+laiy1246-2-22-1,,laiy1246-2,22,ruappulu rua,ruappulu rua,[],,['chan2019'],,False,False,,2
+laiy1246-2-23-1,,laiy1246-2,23,ruappulu talu,ruappulu talu,[],,['chan2019'],,False,False,,2
+laiy1246-2-24-1,,laiy1246-2,24,ruappulu apa,ruappulu apa,[],,['chan2019'],,False,False,,2
+laiy1246-2-25-1,,laiy1246-2,25,ruappulu lima,ruappulu lima,[],,['chan2019'],,False,False,,2
+laiy1246-2-26-1,,laiy1246-2,26,ruappulu ana,ruappulu ana,[],,['chan2019'],,False,False,,2
+laiy1246-2-27-1,,laiy1246-2,27,ruappulu pitu,ruappulu pitu,[],,['chan2019'],,False,False,,2
+laiy1246-2-28-1,,laiy1246-2,28,ruappulu falu,ruappulu falu,[],,['chan2019'],,False,False,,2
+laiy1246-2-29-1,,laiy1246-2,29,ruappulu sio,ruappulu sio,[],,['chan2019'],,False,False,,2
+laiy1246-2-30-1,,laiy1246-2,30,taluppulu,taluppulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-40-1,,laiy1246-2,40,patappulu,patappulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-50-1,,laiy1246-2,50,limappulu,limappulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-60-1,,laiy1246-2,60,anappulu,anappulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-70-1,,laiy1246-2,70,pituppulu,pituppulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-80-1,,laiy1246-2,80,faluppulu,faluppulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-90-1,,laiy1246-2,90,sioppulu,sioppulu,[],,['chan2019'],,False,False,,2
+laiy1246-2-100-1,,laiy1246-2,100,saʔatu,saʔatu,[],,['chan2019'],,False,False,,2
+laiy1246-2-200-1,,laiy1246-2,200,ruaʔatu,ruaʔatu,[],,['chan2019'],,False,False,,2
+laiy1246-2-1000-1,,laiy1246-2,1000,sənsofu,sənsofu,[],,['chan2019'],,False,False,,2
+laiy1246-2-2000-1,,laiy1246-2,2000,ruan sofu,ruan sofu,[],,['chan2019'],,False,False,,2

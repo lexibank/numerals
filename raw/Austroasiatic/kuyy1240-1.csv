@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuyy1240-1-1-1,,kuyy1240-1,1,mu:j,mu:j,[],,[],,False,False,,1
-kuyy1240-1-2-1,,kuyy1240-1,2,ʔabiə,ʔabiə,[],,[],,False,False,,1
-kuyy1240-1-3-1,,kuyy1240-1,3,ʔpaj,ʔpaj,[],,[],,False,False,,1
-kuyy1240-1-4-1,,kuyy1240-1,4,ʔapɔːn,ʔapɔːn,[],,[],,False,False,,1
-kuyy1240-1-5-1,,kuyy1240-1,5,ʔasʌːŋ,ʔasʌːŋ,[],,[],,False,False,,1
-kuyy1240-1-6-1,,kuyy1240-1,6,tapa̤t,tapa̤t,[],,[],,False,False,,1
-kuyy1240-1-7-1,,kuyy1240-1,7,tapo̤ːl,tapo̤ːl,[],,[],,False,False,,1
-kuyy1240-1-8-1,,kuyy1240-1,8,takṳəl,takṳəl,[],,[],,False,False,,1
-kuyy1240-1-9-1,,kuyy1240-1,9,takɛ̤h,takɛ̤h,[],,[],,False,False,,1
-kuyy1240-1-10-1,,kuyy1240-1,10,ɲcit,ɲcit,[],,[],,False,False,,1
-kuyy1240-1-11-1,,kuyy1240-1,11,ɲcit təŋ muːj,ɲcit təŋ muːj,[],,[],,False,False,,1
-kuyy1240-1-12-1,,kuyy1240-1,12,ɲcit təŋ biə,ɲcit təŋ biə,[],,[],,False,False,,1
-kuyy1240-1-13-1,,kuyy1240-1,13,14 to 19 use Thai numerals,14 to 19 use Thai numerals,[],,[],,False,True,,1
-kuyy1240-1-20-1,,kuyy1240-1,20,ciʌ̤w,ciʌ̤w,[],,[],,False,False,,1
-kuyy1240-1-21-1,,kuyy1240-1,21,21 to 29 use Thai numerals,21 to 29 use Thai numerals,[],,[],,False,True,,1
-kuyy1240-1-30-1,,kuyy1240-1,30,30 to 90 use Thai numerals,30 to 90 use Thai numerals,[],,[],,False,True,,1
-kuyy1240-1-100-1,,kuyy1240-1,100,muːj ruʌj,muːj ruʌj,[],< Thai ,[],,True,False,,1
-kuyy1240-1-200-1,,kuyy1240-1,200,biə ruʌj,biə ruʌj,[],,[],,False,False,,1
-kuyy1240-1-1000-1,,kuyy1240-1,1000,muːj pa̤n,muːj pa̤n,[],< Thai ,[],,True,False,,1
-kuyy1240-1-2000-1,,kuyy1240-1,2000,biə pa̤n,biə pa̤n,[],,[],,False,False,,1
+kuyy1240-1-1-1,,kuyy1240-1,1,mu:j,mu:j,[],,['chan2019'],,False,False,,1
+kuyy1240-1-2-1,,kuyy1240-1,2,ʔabiə,ʔabiə,[],,['chan2019'],,False,False,,1
+kuyy1240-1-3-1,,kuyy1240-1,3,ʔpaj,ʔpaj,[],,['chan2019'],,False,False,,1
+kuyy1240-1-4-1,,kuyy1240-1,4,ʔapɔːn,ʔapɔːn,[],,['chan2019'],,False,False,,1
+kuyy1240-1-5-1,,kuyy1240-1,5,ʔasʌːŋ,ʔasʌːŋ,[],,['chan2019'],,False,False,,1
+kuyy1240-1-6-1,,kuyy1240-1,6,tapa̤t,tapa̤t,[],,['chan2019'],,False,False,,1
+kuyy1240-1-7-1,,kuyy1240-1,7,tapo̤ːl,tapo̤ːl,[],,['chan2019'],,False,False,,1
+kuyy1240-1-8-1,,kuyy1240-1,8,takṳəl,takṳəl,[],,['chan2019'],,False,False,,1
+kuyy1240-1-9-1,,kuyy1240-1,9,takɛ̤h,takɛ̤h,[],,['chan2019'],,False,False,,1
+kuyy1240-1-10-1,,kuyy1240-1,10,ɲcit,ɲcit,[],,['chan2019'],,False,False,,1
+kuyy1240-1-11-1,,kuyy1240-1,11,ɲcit təŋ muːj,ɲcit təŋ muːj,[],,['chan2019'],,False,False,,1
+kuyy1240-1-12-1,,kuyy1240-1,12,ɲcit təŋ biə,ɲcit təŋ biə,[],,['chan2019'],,False,False,,1
+kuyy1240-1-13-1,,kuyy1240-1,13,14 to 19 use Thai numerals,14 to 19 use Thai numerals,[],,['chan2019'],,False,True,,1
+kuyy1240-1-20-1,,kuyy1240-1,20,ciʌ̤w,ciʌ̤w,[],,['chan2019'],,False,False,,1
+kuyy1240-1-21-1,,kuyy1240-1,21,21 to 29 use Thai numerals,21 to 29 use Thai numerals,[],,['chan2019'],,False,True,,1
+kuyy1240-1-30-1,,kuyy1240-1,30,30 to 90 use Thai numerals,30 to 90 use Thai numerals,[],,['chan2019'],,False,True,,1
+kuyy1240-1-100-1,,kuyy1240-1,100,muːj ruʌj,muːj ruʌj,[],< Thai ,['chan2019'],,True,False,,1
+kuyy1240-1-200-1,,kuyy1240-1,200,biə ruʌj,biə ruʌj,[],,['chan2019'],,False,False,,1
+kuyy1240-1-1000-1,,kuyy1240-1,1000,muːj pa̤n,muːj pa̤n,[],< Thai ,['chan2019'],,True,False,,1
+kuyy1240-1-2000-1,,kuyy1240-1,2000,biə pa̤n,biə pa̤n,[],,['chan2019'],,False,False,,1

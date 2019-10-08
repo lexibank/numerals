@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-till1254-1-1-1,,till1254-1,1,hikíʔ,hikíʔ,[],,[],,False,False,,1
-till1254-1-1-2,,till1254-1,1,háyɡi,háyɡi,[],,[],,False,False,,1
-till1254-1-2-1,,till1254-1,2,séli,séli,[],,[],,False,False,,1
-till1254-1-3-1,,till1254-1,3,čénet,čénet,[],,[],,False,False,,1
-till1254-1-4-1,,till1254-1,4,wús,wús,[],,[],,False,False,,1
-till1254-1-4-2,,till1254-1,4,wís,wís,[],,[],,False,False,,1
-till1254-1-5-1,,till1254-1,5,cʼxʷə́s,cʼxʷə́s,[],,[],,False,False,,1
-till1254-1-6-1,,till1254-1,6,yə́lhači,yə́lhači,[],,[],,False,False,,1
-till1254-1-7-1,,till1254-1,7,tčʼú.s,tčʼú.s,[],,[],,False,False,,1
-till1254-1-8-1,,till1254-1,8,tqé.či,tqé.či,[],,[],,False,False,,1
-till1254-1-9-1,,till1254-1,9,liyúʔ,liyúʔ,[],,[],,False,False,,1
-till1254-1-10-1,,till1254-1,10,ʔəhánčs,ʔəhánčs,[],,[],,False,False,,1
-till1254-1-20-1,,till1254-1,20,(ta) se.li (ta) sx̩é.ƛʼ,(ta) se.li (ta) sx̩é.ƛʼ,[],,[],,False,False,,1
+till1254-1-1-1,,till1254-1,1,hikíʔ,hikíʔ,[],,['chan2019'],,False,False,,1
+till1254-1-1-2,,till1254-1,1,háyɡi,háyɡi,[],,['chan2019'],,False,False,,1
+till1254-1-2-1,,till1254-1,2,séli,séli,[],,['chan2019'],,False,False,,1
+till1254-1-3-1,,till1254-1,3,čénet,čénet,[],,['chan2019'],,False,False,,1
+till1254-1-4-1,,till1254-1,4,wús,wús,[],,['chan2019'],,False,False,,1
+till1254-1-4-2,,till1254-1,4,wís,wís,[],,['chan2019'],,False,False,,1
+till1254-1-5-1,,till1254-1,5,cʼxʷə́s,cʼxʷə́s,[],,['chan2019'],,False,False,,1
+till1254-1-6-1,,till1254-1,6,yə́lhači,yə́lhači,[],,['chan2019'],,False,False,,1
+till1254-1-7-1,,till1254-1,7,tčʼú.s,tčʼú.s,[],,['chan2019'],,False,False,,1
+till1254-1-8-1,,till1254-1,8,tqé.či,tqé.či,[],,['chan2019'],,False,False,,1
+till1254-1-9-1,,till1254-1,9,liyúʔ,liyúʔ,[],,['chan2019'],,False,False,,1
+till1254-1-10-1,,till1254-1,10,ʔəhánčs,ʔəhánčs,[],,['chan2019'],,False,False,,1
+till1254-1-20-1,,till1254-1,20,(ta) se.li (ta) sx̩é.ƛʼ,(ta) se.li (ta) sx̩é.ƛʼ,[],,['chan2019'],,False,False,,1

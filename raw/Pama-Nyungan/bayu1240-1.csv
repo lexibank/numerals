@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bayu1240-1-1-1,,bayu1240-1,1,ɡurriɡa,ɡurriɡa,[],,[],,False,False,,1
-bayu1240-1-2-1,,bayu1240-1,2,ɡutharra,ɡutharra,[],,[],,False,False,,1
-bayu1240-1-3-1,,bayu1240-1,3,jarrɡu,jarrɡu,[],,[],,False,False,,1
-bayu1240-1-3-2,,bayu1240-1,3,mankurr,mankurr,[],,[],,False,False,,1
+bayu1240-1-1-1,,bayu1240-1,1,ɡurriɡa,ɡurriɡa,[],,['chan2019'],,False,False,,1
+bayu1240-1-2-1,,bayu1240-1,2,ɡutharra,ɡutharra,[],,['chan2019'],,False,False,,1
+bayu1240-1-3-1,,bayu1240-1,3,jarrɡu,jarrɡu,[],,['chan2019'],,False,False,,1
+bayu1240-1-3-2,,bayu1240-1,3,mankurr,mankurr,[],,['chan2019'],,False,False,,1

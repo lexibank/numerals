@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lala1268-2-1-1,,lala1268-2,1,ka,ka,[],,[],,False,False,,2
-lala1268-2-2-1,,lala1268-2,2,lua,lua,[],,[],,False,False,,2
-lala1268-2-3-1,,lala1268-2,3,koi,koi,[],,[],,False,False,,2
-lala1268-2-4-1,,lala1268-2,4,vani,vani,[],,[],,False,False,,2
-lala1268-2-5-1,,lala1268-2,5,ima,ima,[],,[],,False,False,,2
-lala1268-2-6-1,,lala1268-2,6,kala koi,kala koi,[],(doubled 3 ),[],,False,False,,2
-lala1268-2-7-1,,lala1268-2,7,kala koi ka,kala koi ka,[],(doubled 3+ 1 ),[],,False,False,,2
-lala1268-2-8-1,,lala1268-2,8,kala vani,kala vani,[],(doubled 4 ),[],,False,False,,2
-lala1268-2-9-1,,lala1268-2,9,kala vani ka,kala vani ka,[],(doubled 4+ 1 ),[],,False,False,,2
-lala1268-2-10-1,,lala1268-2,10,ʔouka,ʔouka,[],,[],,False,False,,2
-lala1268-2-11-1,,lala1268-2,11,ʔouka ka,ʔouka ka,[],,[],,False,False,,2
-lala1268-2-12-1,,lala1268-2,12,ʔouka lua,ʔouka lua,[],,[],,False,False,,2
-lala1268-2-13-1,,lala1268-2,13,ʔouka koi,ʔouka koi,[],,[],,False,False,,2
-lala1268-2-14-1,,lala1268-2,14,ʔouka vani,ʔouka vani,[],,[],,False,False,,2
-lala1268-2-15-1,,lala1268-2,15,ʔouka ima,ʔouka ima,[],,[],,False,False,,2
-lala1268-2-16-1,,lala1268-2,16,ʔouka kala koi,ʔouka kala koi,[],,[],,False,False,,2
-lala1268-2-17-1,,lala1268-2,17,ʔouka kala koi ka,ʔouka kala koi ka,[],,[],,False,False,,2
-lala1268-2-18-1,,lala1268-2,18,ʔouka kala vani,ʔouka kala vani,[],,[],,False,False,,2
-lala1268-2-19-1,,lala1268-2,19,ʔouka kara vani ka,ʔouka kara vani ka,[],,[],,False,False,,2
-lala1268-2-20-1,,lala1268-2,20,luanavui,luanavui,[],,[],,False,False,,2
-lala1268-2-21-1,,lala1268-2,21,luanavui ka,luanavui ka,[],,[],,False,False,,2
-lala1268-2-22-1,,lala1268-2,22,luanavui lua,luanavui lua,[],,[],,False,False,,2
-lala1268-2-23-1,,lala1268-2,23,luanavui koi,luanavui koi,[],,[],,False,False,,2
-lala1268-2-24-1,,lala1268-2,24,luanavui vani,luanavui vani,[],,[],,False,False,,2
-lala1268-2-25-1,,lala1268-2,25,luanavui ima,luanavui ima,[],,[],,False,False,,2
-lala1268-2-26-1,,lala1268-2,26,luanavui kala koi,luanavui kala koi,[],,[],,False,False,,2
-lala1268-2-27-1,,lala1268-2,27,luanavui kala koi ka,luanavui kala koi ka,[],,[],,False,False,,2
-lala1268-2-28-1,,lala1268-2,28,luanavui kala vani,luanavui kala vani,[],,[],,False,False,,2
-lala1268-2-29-1,,lala1268-2,29,luanavui kala vani ka,luanavui kala vani ka,[],,[],,False,False,,2
-lala1268-2-30-1,,lala1268-2,30,koinavui,koinavui,[],,[],,False,False,,2
-lala1268-2-40-1,,lala1268-2,40,vaninavui,vaninavui,[],,[],,False,False,,2
-lala1268-2-50-1,,lala1268-2,50,imanavui,imanavui,[],,[],,False,False,,2
-lala1268-2-60-1,,lala1268-2,60,kalakoinavui,kalakoinavui,[],,[],,False,False,,2
-lala1268-2-70-1,,lala1268-2,70,kalakoi kanavui,kalakoi kanavui,[],,[],,False,False,,2
-lala1268-2-80-1,,lala1268-2,80,kalavaninavui,kalavaninavui,[],,[],,False,False,,2
-lala1268-2-90-1,,lala1268-2,90,kalavanikanavui,kalavanikanavui,[],,[],,False,False,,2
-lala1268-2-100-1,,lala1268-2,100,sinavu ka,sinavu ka,[],( sinavu< Roro ),[],,True,False,,2
-lala1268-2-200-1,,lala1268-2,200,sinavu lua,sinavu lua,[],,[],,False,False,,2
-lala1268-2-1000-1,,lala1268-2,1000,sinavu ʔouka,sinavu ʔouka,[],,[],,False,False,,2
-lala1268-2-2000-1,,lala1268-2,2000,sinavu luanavui,sinavu luanavui,[],,[],,False,False,,2
+lala1268-2-1-1,,lala1268-2,1,ka,ka,[],,['chan2019'],,False,False,,2
+lala1268-2-2-1,,lala1268-2,2,lua,lua,[],,['chan2019'],,False,False,,2
+lala1268-2-3-1,,lala1268-2,3,koi,koi,[],,['chan2019'],,False,False,,2
+lala1268-2-4-1,,lala1268-2,4,vani,vani,[],,['chan2019'],,False,False,,2
+lala1268-2-5-1,,lala1268-2,5,ima,ima,[],,['chan2019'],,False,False,,2
+lala1268-2-6-1,,lala1268-2,6,kala koi,kala koi,[],(doubled 3 ),['chan2019'],,False,False,,2
+lala1268-2-7-1,,lala1268-2,7,kala koi ka,kala koi ka,[],(doubled 3+ 1 ),['chan2019'],,False,False,,2
+lala1268-2-8-1,,lala1268-2,8,kala vani,kala vani,[],(doubled 4 ),['chan2019'],,False,False,,2
+lala1268-2-9-1,,lala1268-2,9,kala vani ka,kala vani ka,[],(doubled 4+ 1 ),['chan2019'],,False,False,,2
+lala1268-2-10-1,,lala1268-2,10,ʔouka,ʔouka,[],,['chan2019'],,False,False,,2
+lala1268-2-11-1,,lala1268-2,11,ʔouka ka,ʔouka ka,[],,['chan2019'],,False,False,,2
+lala1268-2-12-1,,lala1268-2,12,ʔouka lua,ʔouka lua,[],,['chan2019'],,False,False,,2
+lala1268-2-13-1,,lala1268-2,13,ʔouka koi,ʔouka koi,[],,['chan2019'],,False,False,,2
+lala1268-2-14-1,,lala1268-2,14,ʔouka vani,ʔouka vani,[],,['chan2019'],,False,False,,2
+lala1268-2-15-1,,lala1268-2,15,ʔouka ima,ʔouka ima,[],,['chan2019'],,False,False,,2
+lala1268-2-16-1,,lala1268-2,16,ʔouka kala koi,ʔouka kala koi,[],,['chan2019'],,False,False,,2
+lala1268-2-17-1,,lala1268-2,17,ʔouka kala koi ka,ʔouka kala koi ka,[],,['chan2019'],,False,False,,2
+lala1268-2-18-1,,lala1268-2,18,ʔouka kala vani,ʔouka kala vani,[],,['chan2019'],,False,False,,2
+lala1268-2-19-1,,lala1268-2,19,ʔouka kara vani ka,ʔouka kara vani ka,[],,['chan2019'],,False,False,,2
+lala1268-2-20-1,,lala1268-2,20,luanavui,luanavui,[],,['chan2019'],,False,False,,2
+lala1268-2-21-1,,lala1268-2,21,luanavui ka,luanavui ka,[],,['chan2019'],,False,False,,2
+lala1268-2-22-1,,lala1268-2,22,luanavui lua,luanavui lua,[],,['chan2019'],,False,False,,2
+lala1268-2-23-1,,lala1268-2,23,luanavui koi,luanavui koi,[],,['chan2019'],,False,False,,2
+lala1268-2-24-1,,lala1268-2,24,luanavui vani,luanavui vani,[],,['chan2019'],,False,False,,2
+lala1268-2-25-1,,lala1268-2,25,luanavui ima,luanavui ima,[],,['chan2019'],,False,False,,2
+lala1268-2-26-1,,lala1268-2,26,luanavui kala koi,luanavui kala koi,[],,['chan2019'],,False,False,,2
+lala1268-2-27-1,,lala1268-2,27,luanavui kala koi ka,luanavui kala koi ka,[],,['chan2019'],,False,False,,2
+lala1268-2-28-1,,lala1268-2,28,luanavui kala vani,luanavui kala vani,[],,['chan2019'],,False,False,,2
+lala1268-2-29-1,,lala1268-2,29,luanavui kala vani ka,luanavui kala vani ka,[],,['chan2019'],,False,False,,2
+lala1268-2-30-1,,lala1268-2,30,koinavui,koinavui,[],,['chan2019'],,False,False,,2
+lala1268-2-40-1,,lala1268-2,40,vaninavui,vaninavui,[],,['chan2019'],,False,False,,2
+lala1268-2-50-1,,lala1268-2,50,imanavui,imanavui,[],,['chan2019'],,False,False,,2
+lala1268-2-60-1,,lala1268-2,60,kalakoinavui,kalakoinavui,[],,['chan2019'],,False,False,,2
+lala1268-2-70-1,,lala1268-2,70,kalakoi kanavui,kalakoi kanavui,[],,['chan2019'],,False,False,,2
+lala1268-2-80-1,,lala1268-2,80,kalavaninavui,kalavaninavui,[],,['chan2019'],,False,False,,2
+lala1268-2-90-1,,lala1268-2,90,kalavanikanavui,kalavanikanavui,[],,['chan2019'],,False,False,,2
+lala1268-2-100-1,,lala1268-2,100,sinavu ka,sinavu ka,[],( sinavu< Roro ),['chan2019'],,True,False,,2
+lala1268-2-200-1,,lala1268-2,200,sinavu lua,sinavu lua,[],,['chan2019'],,False,False,,2
+lala1268-2-1000-1,,lala1268-2,1000,sinavu ʔouka,sinavu ʔouka,[],,['chan2019'],,False,False,,2
+lala1268-2-2000-1,,lala1268-2,2000,sinavu luanavui,sinavu luanavui,[],,['chan2019'],,False,False,,2

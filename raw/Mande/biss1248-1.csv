@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-biss1248-1-1-1,,biss1248-1,1,díí,díí,[],,[],,False,False,,1
-biss1248-1-2-1,,biss1248-1,2,píjà,píjà,[],,[],,False,False,,1
-biss1248-1-3-1,,biss1248-1,3,kakʊ́,kakʊ́,[],,[],,False,False,,1
-biss1248-1-4-1,,biss1248-1,4,sɪ̀,sɪ̀,[],,[],,False,False,,1
-biss1248-1-5-1,,biss1248-1,5,sɔ́ɔ̀,sɔ́ɔ̀,[],,[],,False,False,,1
-biss1248-1-6-1,,biss1248-1,6,sòàtɪ,sòàtɪ,[],( 5 + 1 ),[],,False,False,,1
-biss1248-1-7-1,,biss1248-1,7,sáápra,sáápra,[],( 5 + 2 ),[],,False,False,,1
-biss1248-1-8-1,,biss1248-1,8,síɲe,síɲe,[],( 2 x 4 ) ?,[],,False,False,,1
-biss1248-1-9-1,,biss1248-1,9,nɛfʊ̀,nɛfʊ̀,[],( 10 -1 ) ?,[],,False,False,,1
-biss1248-1-10-1,,biss1248-1,10,bʊ̀,bʊ̀,[],,[],,False,False,,1
-biss1248-1-11-1,,biss1248-1,11,bèrèdíɪ́,bèrèdíɪ́,[],,[],,False,False,,1
-biss1248-1-12-1,,biss1248-1,12,bèrèpíja,bèrèpíja,[],,[],,False,False,,1
-biss1248-1-13-1,,biss1248-1,13,bèrèkakʊ́,bèrèkakʊ́,[],,[],,False,False,,1
-biss1248-1-14-1,,biss1248-1,14,bèrèsɪ̀,bèrèsɪ̀,[],,[],,False,False,,1
-biss1248-1-15-1,,biss1248-1,15,bèrèsɔ́ɔ̀,bèrèsɔ́ɔ̀,[],,[],,False,False,,1
-biss1248-1-16-1,,biss1248-1,16,bèrèsòàtɪ,bèrèsòàtɪ,[],,[],,False,False,,1
-biss1248-1-17-1,,biss1248-1,17,bèrèsáápra,bèrèsáápra,[],,[],,False,False,,1
-biss1248-1-18-1,,biss1248-1,18,bèrèsíɲe,bèrèsíɲe,[],,[],,False,False,,1
-biss1248-1-19-1,,biss1248-1,19,bèrènɛfʊ̀,bèrènɛfʊ̀,[],,[],,False,False,,1
-biss1248-1-20-1,,biss1248-1,20,bʊ̀prá,bʊ̀prá,[],,[],,False,False,,1
-biss1248-1-21-1,,biss1248-1,21,bʊ̀prá jaɴ díí,bʊ̀prá jaɴ díí,[],,[],,False,False,,1
-biss1248-1-22-1,,biss1248-1,22,bʊ̀prá jaɴ píja,bʊ̀prá jaɴ píja,[],,[],,False,False,,1
-biss1248-1-23-1,,biss1248-1,23,bʊ̀prá jaɴ kakʊ́,bʊ̀prá jaɴ kakʊ́,[],,[],,False,False,,1
-biss1248-1-24-1,,biss1248-1,24,bʊ̀prá jaɴ sɪ̀,bʊ̀prá jaɴ sɪ̀,[],,[],,False,False,,1
-biss1248-1-25-1,,biss1248-1,25,bʊ̀prá jaɴ sɔ́ɔ̀,bʊ̀prá jaɴ sɔ́ɔ̀,[],,[],,False,False,,1
-biss1248-1-26-1,,biss1248-1,26,bʊ̀prá jaɴ sòàtɪ,bʊ̀prá jaɴ sòàtɪ,[],,[],,False,False,,1
-biss1248-1-27-1,,biss1248-1,27,bʊ̀prá jaɴ sáápra,bʊ̀prá jaɴ sáápra,[],,[],,False,False,,1
-biss1248-1-28-1,,biss1248-1,28,bʊ̀prá jaɴ síɲe,bʊ̀prá jaɴ síɲe,[],,[],,False,False,,1
-biss1248-1-29-1,,biss1248-1,29,bʊ̀prá jaɴ nɛfʊ̀,bʊ̀prá jaɴ nɛfʊ̀,[],,[],,False,False,,1
-biss1248-1-30-1,,biss1248-1,30,bʊ̀kərkʊ,bʊ̀kərkʊ,[],(linkerː kʷajaɴ ),[],,False,False,,1
-biss1248-1-40-1,,biss1248-1,40,bɪsí,bɪsí,[],,[],,False,False,,1
-biss1248-1-50-1,,biss1248-1,50,bʊ̀sɔ́rʊ,bʊ̀sɔ́rʊ,[],,[],,False,False,,1
-biss1248-1-60-1,,biss1248-1,60,bʊ̀sòàtɪ,bʊ̀sòàtɪ,[],,[],,False,False,,1
-biss1248-1-70-1,,biss1248-1,70,bʊ̀sáápra,bʊ̀sáápra,[],,[],,False,False,,1
-biss1248-1-80-1,,biss1248-1,80,bʊ̀síɲe,bʊ̀síɲe,[],,[],,False,False,,1
-biss1248-1-90-1,,biss1248-1,90,bʊ̀nɛfʊ̀,bʊ̀nɛfʊ̀,[],,[],,False,False,,1
-biss1248-1-100-1,,biss1248-1,100,sɔ́rɔ̀,sɔ́rɔ̀,[],,[],,False,False,,1
-biss1248-1-200-1,,biss1248-1,200,sɔ́rɔ̀pra,sɔ́rɔ̀pra,[],,[],,False,False,,1
-biss1248-1-1000-1,,biss1248-1,1000,tɪ́sɪ́,tɪ́sɪ́,[],,[],,False,False,,1
-biss1248-1-2000-1,,biss1248-1,2000,tɪ́sɪ́pra,tɪ́sɪ́pra,[],,[],,False,False,,1
+biss1248-1-1-1,,biss1248-1,1,díí,díí,[],,['chan2019'],,False,False,,1
+biss1248-1-2-1,,biss1248-1,2,píjà,píjà,[],,['chan2019'],,False,False,,1
+biss1248-1-3-1,,biss1248-1,3,kakʊ́,kakʊ́,[],,['chan2019'],,False,False,,1
+biss1248-1-4-1,,biss1248-1,4,sɪ̀,sɪ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-5-1,,biss1248-1,5,sɔ́ɔ̀,sɔ́ɔ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-6-1,,biss1248-1,6,sòàtɪ,sòàtɪ,[],( 5 + 1 ),['chan2019'],,False,False,,1
+biss1248-1-7-1,,biss1248-1,7,sáápra,sáápra,[],( 5 + 2 ),['chan2019'],,False,False,,1
+biss1248-1-8-1,,biss1248-1,8,síɲe,síɲe,[],( 2 x 4 ) ?,['chan2019'],,False,False,,1
+biss1248-1-9-1,,biss1248-1,9,nɛfʊ̀,nɛfʊ̀,[],( 10 -1 ) ?,['chan2019'],,False,False,,1
+biss1248-1-10-1,,biss1248-1,10,bʊ̀,bʊ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-11-1,,biss1248-1,11,bèrèdíɪ́,bèrèdíɪ́,[],,['chan2019'],,False,False,,1
+biss1248-1-12-1,,biss1248-1,12,bèrèpíja,bèrèpíja,[],,['chan2019'],,False,False,,1
+biss1248-1-13-1,,biss1248-1,13,bèrèkakʊ́,bèrèkakʊ́,[],,['chan2019'],,False,False,,1
+biss1248-1-14-1,,biss1248-1,14,bèrèsɪ̀,bèrèsɪ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-15-1,,biss1248-1,15,bèrèsɔ́ɔ̀,bèrèsɔ́ɔ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-16-1,,biss1248-1,16,bèrèsòàtɪ,bèrèsòàtɪ,[],,['chan2019'],,False,False,,1
+biss1248-1-17-1,,biss1248-1,17,bèrèsáápra,bèrèsáápra,[],,['chan2019'],,False,False,,1
+biss1248-1-18-1,,biss1248-1,18,bèrèsíɲe,bèrèsíɲe,[],,['chan2019'],,False,False,,1
+biss1248-1-19-1,,biss1248-1,19,bèrènɛfʊ̀,bèrènɛfʊ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-20-1,,biss1248-1,20,bʊ̀prá,bʊ̀prá,[],,['chan2019'],,False,False,,1
+biss1248-1-21-1,,biss1248-1,21,bʊ̀prá jaɴ díí,bʊ̀prá jaɴ díí,[],,['chan2019'],,False,False,,1
+biss1248-1-22-1,,biss1248-1,22,bʊ̀prá jaɴ píja,bʊ̀prá jaɴ píja,[],,['chan2019'],,False,False,,1
+biss1248-1-23-1,,biss1248-1,23,bʊ̀prá jaɴ kakʊ́,bʊ̀prá jaɴ kakʊ́,[],,['chan2019'],,False,False,,1
+biss1248-1-24-1,,biss1248-1,24,bʊ̀prá jaɴ sɪ̀,bʊ̀prá jaɴ sɪ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-25-1,,biss1248-1,25,bʊ̀prá jaɴ sɔ́ɔ̀,bʊ̀prá jaɴ sɔ́ɔ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-26-1,,biss1248-1,26,bʊ̀prá jaɴ sòàtɪ,bʊ̀prá jaɴ sòàtɪ,[],,['chan2019'],,False,False,,1
+biss1248-1-27-1,,biss1248-1,27,bʊ̀prá jaɴ sáápra,bʊ̀prá jaɴ sáápra,[],,['chan2019'],,False,False,,1
+biss1248-1-28-1,,biss1248-1,28,bʊ̀prá jaɴ síɲe,bʊ̀prá jaɴ síɲe,[],,['chan2019'],,False,False,,1
+biss1248-1-29-1,,biss1248-1,29,bʊ̀prá jaɴ nɛfʊ̀,bʊ̀prá jaɴ nɛfʊ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-30-1,,biss1248-1,30,bʊ̀kərkʊ,bʊ̀kərkʊ,[],(linkerː kʷajaɴ ),['chan2019'],,False,False,,1
+biss1248-1-40-1,,biss1248-1,40,bɪsí,bɪsí,[],,['chan2019'],,False,False,,1
+biss1248-1-50-1,,biss1248-1,50,bʊ̀sɔ́rʊ,bʊ̀sɔ́rʊ,[],,['chan2019'],,False,False,,1
+biss1248-1-60-1,,biss1248-1,60,bʊ̀sòàtɪ,bʊ̀sòàtɪ,[],,['chan2019'],,False,False,,1
+biss1248-1-70-1,,biss1248-1,70,bʊ̀sáápra,bʊ̀sáápra,[],,['chan2019'],,False,False,,1
+biss1248-1-80-1,,biss1248-1,80,bʊ̀síɲe,bʊ̀síɲe,[],,['chan2019'],,False,False,,1
+biss1248-1-90-1,,biss1248-1,90,bʊ̀nɛfʊ̀,bʊ̀nɛfʊ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-100-1,,biss1248-1,100,sɔ́rɔ̀,sɔ́rɔ̀,[],,['chan2019'],,False,False,,1
+biss1248-1-200-1,,biss1248-1,200,sɔ́rɔ̀pra,sɔ́rɔ̀pra,[],,['chan2019'],,False,False,,1
+biss1248-1-1000-1,,biss1248-1,1000,tɪ́sɪ́,tɪ́sɪ́,[],,['chan2019'],,False,False,,1
+biss1248-1-2000-1,,biss1248-1,2000,tɪ́sɪ́pra,tɪ́sɪ́pra,[],,['chan2019'],,False,False,,1

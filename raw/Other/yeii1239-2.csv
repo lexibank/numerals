@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yeii1239-2-1-1,,yeii1239-2,1,'nɑːmˌpɑj,'nɑːmˌpɑj,[],,[],,False,False,,2
-yeii1239-2-2-1,,yeii1239-2,2,'jɛtɑːˌpɑj,'jɛtɑːˌpɑj,[],,[],,False,False,,2
-yeii1239-2-3-1,,yeii1239-2,3,'jɛtɑːˌpɑj'nɑmpɑj,'jɛtɑːˌpɑj'nɑmpɑj,[],( 2 + 1 ),[],,False,False,,2
+yeii1239-2-1-1,,yeii1239-2,1,'nɑːmˌpɑj,'nɑːmˌpɑj,[],,['chan2019'],,False,False,,2
+yeii1239-2-2-1,,yeii1239-2,2,'jɛtɑːˌpɑj,'jɛtɑːˌpɑj,[],,['chan2019'],,False,False,,2
+yeii1239-2-3-1,,yeii1239-2,3,'jɛtɑːˌpɑj'nɑmpɑj,'jɛtɑːˌpɑj'nɑmpɑj,[],( 2 + 1 ),['chan2019'],,False,False,,2

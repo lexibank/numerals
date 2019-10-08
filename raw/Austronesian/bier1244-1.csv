@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bier1244-1-1-1,,bier1244-1,1,ta,ta,[],,[],,False,False,,1
-bier1244-1-1-2,,bier1244-1,1,takrana,takrana,[],,[],,False,False,,1
-bier1244-1-2-1,,bier1244-1,2,tʃuwa,tʃuwa,[],,[],,False,False,,1
-bier1244-1-3-1,,bier1244-1,3,tolu,tolu,[],,[],,False,False,,1
-bier1244-1-4-1,,bier1244-1,4,βeri,βeri,[],,[],,False,False,,1
-bier1244-1-5-1,,bier1244-1,5,tʃima,tʃima,[],,[],,False,False,,1
-bier1244-1-6-1,,bier1244-1,6,wora,wora,[],( 5 + 1 ),[],,False,False,,1
-bier1244-1-7-1,,bier1244-1,7,okolua,okolua,[],( 5 + 2 ),[],,False,False,,1
-bier1244-1-8-1,,bier1244-1,8,okorolu,okorolu,[],( 5 + 3 ),[],,False,False,,1
-bier1244-1-9-1,,bier1244-1,9,okoβeri,okoβeri,[],( 5 + 4 ),[],,False,False,,1
-bier1244-1-10-1,,bier1244-1,10,lualima,lualima,[],( 5 + 5 ),[],,False,False,,1
-bier1244-1-11-1,,bier1244-1,11,lualima-ban-takrana,lualima-ban-takrana,[],,[],,False,False,,1
-bier1244-1-12-1,,bier1244-1,12,lualima-ban-tʃuwa,lualima-ban-tʃuwa,[],,[],,False,False,,1
-bier1244-1-13-1,,bier1244-1,13,lualima-ban-tolu,lualima-ban-tolu,[],,[],,False,False,,1
-bier1244-1-14-1,,bier1244-1,14,lualima-ban-βeri,lualima-ban-βeri,[],,[],,False,False,,1
-bier1244-1-15-1,,bier1244-1,15,lualima-ban-tʃima,lualima-ban-tʃima,[],,[],,False,False,,1
-bier1244-1-16-1,,bier1244-1,16,lualima-ban-wora,lualima-ban-wora,[],,[],,False,False,,1
-bier1244-1-17-1,,bier1244-1,17,lualima-ban-okolua,lualima-ban-okolua,[],,[],,False,False,,1
-bier1244-1-18-1,,bier1244-1,18,lualima-ban-okorolu,lualima-ban-okorolu,[],,[],,False,False,,1
-bier1244-1-19-1,,bier1244-1,19,lualima-ban-okoβeri,lualima-ban-okoβeri,[],,[],,False,False,,1
-bier1244-1-20-1,,bier1244-1,20,lualima-wa-tʃuwa,lualima-wa-tʃuwa,[],,[],,False,False,,1
-bier1244-1-21-1,,bier1244-1,21,lualima-wa-tʃuwa-ban-takrana,lualima-wa-tʃuwa-ban-takrana,[],,[],,False,False,,1
-bier1244-1-22-1,,bier1244-1,22,lualima-wa-tʃuwa-ban-tʃuwa,lualima-wa-tʃuwa-ban-tʃuwa,[],,[],,False,False,,1
-bier1244-1-23-1,,bier1244-1,23,lualima-wa-tʃuwa-ban-tolu,lualima-wa-tʃuwa-ban-tolu,[],,[],,False,False,,1
-bier1244-1-24-1,,bier1244-1,24,lualima-wa-tʃuwa-ban-βeri,lualima-wa-tʃuwa-ban-βeri,[],,[],,False,False,,1
-bier1244-1-25-1,,bier1244-1,25,lualima-wa-tʃuwa-ban-tʃima,lualima-wa-tʃuwa-ban-tʃima,[],,[],,False,False,,1
-bier1244-1-26-1,,bier1244-1,26,lualima-wa-tʃuwa-ban-wora,lualima-wa-tʃuwa-ban-wora,[],,[],,False,False,,1
-bier1244-1-27-1,,bier1244-1,27,lualima-wa-tʃuwa-ban-okolua,lualima-wa-tʃuwa-ban-okolua,[],,[],,False,False,,1
-bier1244-1-28-1,,bier1244-1,28,lualima-wa-tʃuwa-ban-okorolu,lualima-wa-tʃuwa-ban-okorolu,[],,[],,False,False,,1
-bier1244-1-29-1,,bier1244-1,29,lualima-wa-tʃuwa-ban-okoβeri,lualima-wa-tʃuwa-ban-okoβeri,[],,[],,False,False,,1
-bier1244-1-30-1,,bier1244-1,30,lualima-wa-tolu,lualima-wa-tolu,[],,[],,False,False,,1
-bier1244-1-40-1,,bier1244-1,40,lualima-wa-βeri,lualima-wa-βeri,[],,[],,False,False,,1
-bier1244-1-50-1,,bier1244-1,50,lualima-wa-tʃima,lualima-wa-tʃima,[],,[],,False,False,,1
-bier1244-1-60-1,,bier1244-1,60,lualima-wa-wora,lualima-wa-wora,[],,[],,False,False,,1
-bier1244-1-70-1,,bier1244-1,70,lualima-wa-okolua,lualima-wa-okolua,[],,[],,False,False,,1
-bier1244-1-80-1,,bier1244-1,80,lualima-wa-okorolu,lualima-wa-okorolu,[],,[],,False,False,,1
-bier1244-1-90-1,,bier1244-1,90,lualima-wa-okoβeri,lualima-wa-okoβeri,[],,[],,False,False,,1
-bier1244-1-100-1,,bier1244-1,100,tormum takrana,tormum takrana,[],,[],,False,False,,1
-bier1244-1-200-1,,bier1244-1,200,tormum tʃuwa,tormum tʃuwa,[],,[],,False,False,,1
-bier1244-1-1000-1,,bier1244-1,1000,tormum lualima,tormum lualima,[],,[],,False,False,,1
-bier1244-1-2000-1,,bier1244-1,2000,tormum lualima tʃuwa,tormum lualima tʃuwa,[],,[],,False,False,,1
+bier1244-1-1-1,,bier1244-1,1,ta,ta,[],,['chan2019'],,False,False,,1
+bier1244-1-1-2,,bier1244-1,1,takrana,takrana,[],,['chan2019'],,False,False,,1
+bier1244-1-2-1,,bier1244-1,2,tʃuwa,tʃuwa,[],,['chan2019'],,False,False,,1
+bier1244-1-3-1,,bier1244-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+bier1244-1-4-1,,bier1244-1,4,βeri,βeri,[],,['chan2019'],,False,False,,1
+bier1244-1-5-1,,bier1244-1,5,tʃima,tʃima,[],,['chan2019'],,False,False,,1
+bier1244-1-6-1,,bier1244-1,6,wora,wora,[],( 5 + 1 ),['chan2019'],,False,False,,1
+bier1244-1-7-1,,bier1244-1,7,okolua,okolua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+bier1244-1-8-1,,bier1244-1,8,okorolu,okorolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+bier1244-1-9-1,,bier1244-1,9,okoβeri,okoβeri,[],( 5 + 4 ),['chan2019'],,False,False,,1
+bier1244-1-10-1,,bier1244-1,10,lualima,lualima,[],( 5 + 5 ),['chan2019'],,False,False,,1
+bier1244-1-11-1,,bier1244-1,11,lualima-ban-takrana,lualima-ban-takrana,[],,['chan2019'],,False,False,,1
+bier1244-1-12-1,,bier1244-1,12,lualima-ban-tʃuwa,lualima-ban-tʃuwa,[],,['chan2019'],,False,False,,1
+bier1244-1-13-1,,bier1244-1,13,lualima-ban-tolu,lualima-ban-tolu,[],,['chan2019'],,False,False,,1
+bier1244-1-14-1,,bier1244-1,14,lualima-ban-βeri,lualima-ban-βeri,[],,['chan2019'],,False,False,,1
+bier1244-1-15-1,,bier1244-1,15,lualima-ban-tʃima,lualima-ban-tʃima,[],,['chan2019'],,False,False,,1
+bier1244-1-16-1,,bier1244-1,16,lualima-ban-wora,lualima-ban-wora,[],,['chan2019'],,False,False,,1
+bier1244-1-17-1,,bier1244-1,17,lualima-ban-okolua,lualima-ban-okolua,[],,['chan2019'],,False,False,,1
+bier1244-1-18-1,,bier1244-1,18,lualima-ban-okorolu,lualima-ban-okorolu,[],,['chan2019'],,False,False,,1
+bier1244-1-19-1,,bier1244-1,19,lualima-ban-okoβeri,lualima-ban-okoβeri,[],,['chan2019'],,False,False,,1
+bier1244-1-20-1,,bier1244-1,20,lualima-wa-tʃuwa,lualima-wa-tʃuwa,[],,['chan2019'],,False,False,,1
+bier1244-1-21-1,,bier1244-1,21,lualima-wa-tʃuwa-ban-takrana,lualima-wa-tʃuwa-ban-takrana,[],,['chan2019'],,False,False,,1
+bier1244-1-22-1,,bier1244-1,22,lualima-wa-tʃuwa-ban-tʃuwa,lualima-wa-tʃuwa-ban-tʃuwa,[],,['chan2019'],,False,False,,1
+bier1244-1-23-1,,bier1244-1,23,lualima-wa-tʃuwa-ban-tolu,lualima-wa-tʃuwa-ban-tolu,[],,['chan2019'],,False,False,,1
+bier1244-1-24-1,,bier1244-1,24,lualima-wa-tʃuwa-ban-βeri,lualima-wa-tʃuwa-ban-βeri,[],,['chan2019'],,False,False,,1
+bier1244-1-25-1,,bier1244-1,25,lualima-wa-tʃuwa-ban-tʃima,lualima-wa-tʃuwa-ban-tʃima,[],,['chan2019'],,False,False,,1
+bier1244-1-26-1,,bier1244-1,26,lualima-wa-tʃuwa-ban-wora,lualima-wa-tʃuwa-ban-wora,[],,['chan2019'],,False,False,,1
+bier1244-1-27-1,,bier1244-1,27,lualima-wa-tʃuwa-ban-okolua,lualima-wa-tʃuwa-ban-okolua,[],,['chan2019'],,False,False,,1
+bier1244-1-28-1,,bier1244-1,28,lualima-wa-tʃuwa-ban-okorolu,lualima-wa-tʃuwa-ban-okorolu,[],,['chan2019'],,False,False,,1
+bier1244-1-29-1,,bier1244-1,29,lualima-wa-tʃuwa-ban-okoβeri,lualima-wa-tʃuwa-ban-okoβeri,[],,['chan2019'],,False,False,,1
+bier1244-1-30-1,,bier1244-1,30,lualima-wa-tolu,lualima-wa-tolu,[],,['chan2019'],,False,False,,1
+bier1244-1-40-1,,bier1244-1,40,lualima-wa-βeri,lualima-wa-βeri,[],,['chan2019'],,False,False,,1
+bier1244-1-50-1,,bier1244-1,50,lualima-wa-tʃima,lualima-wa-tʃima,[],,['chan2019'],,False,False,,1
+bier1244-1-60-1,,bier1244-1,60,lualima-wa-wora,lualima-wa-wora,[],,['chan2019'],,False,False,,1
+bier1244-1-70-1,,bier1244-1,70,lualima-wa-okolua,lualima-wa-okolua,[],,['chan2019'],,False,False,,1
+bier1244-1-80-1,,bier1244-1,80,lualima-wa-okorolu,lualima-wa-okorolu,[],,['chan2019'],,False,False,,1
+bier1244-1-90-1,,bier1244-1,90,lualima-wa-okoβeri,lualima-wa-okoβeri,[],,['chan2019'],,False,False,,1
+bier1244-1-100-1,,bier1244-1,100,tormum takrana,tormum takrana,[],,['chan2019'],,False,False,,1
+bier1244-1-200-1,,bier1244-1,200,tormum tʃuwa,tormum tʃuwa,[],,['chan2019'],,False,False,,1
+bier1244-1-1000-1,,bier1244-1,1000,tormum lualima,tormum lualima,[],,['chan2019'],,False,False,,1
+bier1244-1-2000-1,,bier1244-1,2000,tormum lualima tʃuwa,tormum lualima tʃuwa,[],,['chan2019'],,False,False,,1

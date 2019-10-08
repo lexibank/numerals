@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-saka1289-1-1-1,,saka1289-1,1,tei,tei,[],,[],,False,False,,1
-saka1289-1-2-1,,saka1289-1,2,ru,ru,[],,[],,False,False,,1
-saka1289-1-3-1,,saka1289-1,3,tël,tël,[],,[],,False,False,,1
-saka1289-1-3-2,,saka1289-1,3,ë = IPA [ɤ] ??,ë = IPA [ɤ] ??,[],,[],,False,True,,1
-saka1289-1-4-1,,saka1289-1,4,iet = IPA,iet = IPA,[],[iɛt]? ?,[],,False,True,,1
-saka1289-1-5-1,,saka1289-1,5,kəlön = kəløn ?,kəlön = kəløn ?,[],( < lima < hand ),[],,False,True,,1
-saka1289-1-6-1,,saka1289-1,6,hora =,hora =,[],( 5 + 1 ) ??,[],,False,False,,1
-saka1289-1-7-1,,saka1289-1,7,karu =,karu =,[],( 5 + 2 ) ??,[],,False,False,,1
-saka1289-1-8-1,,saka1289-1,8,ratël =,ratël =,[],( 5 + 3 ) ??,[],,False,False,,1
-saka1289-1-9-1,,saka1289-1,9,sacël c=IPA [c] or [t͡s] ?,sacël c=IPA [c] or [t͡s] ?,[],( 5+4 ) ??,[],,False,True,,1
-saka1289-1-10-1,,saka1289-1,10,möltei van mœɣœlte,möltei van mœɣœlte,[],,[],,False,False,,1
-saka1289-1-11-1,,saka1289-1,11,möltei van tetkün,möltei van tetkün,[],(ü = IPA [y] ??),[],,False,False,,1
-saka1289-1-12-1,,saka1289-1,12,möltei van ru v = v or β ??,möltei van ru v = v or β ??,[],,[],,False,True,,1
-saka1289-1-13-1,,saka1289-1,13,möltei van thël,möltei van thël,[],(th = IPA [θ or ð]?),[],,False,False,,1
-saka1289-1-14-1,,saka1289-1,14,möltei van ieth,möltei van ieth,[],,[],,False,False,,1
-saka1289-1-15-1,,saka1289-1,15,möltei van lön,möltei van lön,[],,[],,False,False,,1
-saka1289-1-16-1,,saka1289-1,16,möltei van lönëra,möltei van lönëra,[],,[],,False,False,,1
-saka1289-1-17-1,,saka1289-1,17,möltei van lairu,möltei van lairu,[],,[],,False,False,,1
-saka1289-1-18-1,,saka1289-1,18,möltei van raitël,möltei van raitël,[],,[],,False,False,,1
-saka1289-1-19-1,,saka1289-1,19,raipeθ ?,raipeθ ?,[],,[],,False,True,möltei van raipeth,1
-saka1289-1-20-1,,saka1289-1,20,mølru ??,mølru ??,[],,[],,False,True,mölru,1
-saka1289-1-21-1,,saka1289-1,21,mölru van tetkün,mölru van tetkün,[],,[],,False,False,,1
-saka1289-1-22-1,,saka1289-1,22,mölru van ru,mölru van ru,[],,[],,False,False,,1
-saka1289-1-23-1,,saka1289-1,23,mölru van theël,mölru van theël,[],,[],,False,False,,1
-saka1289-1-24-1,,saka1289-1,24,mölru van ieth,mölru van ieth,[],,[],,False,False,,1
-saka1289-1-25-1,,saka1289-1,25,mölru van lön,mölru van lön,[],,[],,False,False,,1
-saka1289-1-26-1,,saka1289-1,26,mölru van lönëra,mölru van lönëra,[],,[],,False,False,,1
-saka1289-1-27-1,,saka1289-1,27,mölru van lairu,mölru van lairu,[],,[],,False,False,,1
-saka1289-1-28-1,,saka1289-1,28,mölru van raitël,mölru van raitël,[],,[],,False,False,,1
-saka1289-1-29-1,,saka1289-1,29,mölru van raipeth,mölru van raipeth,[],,[],,False,False,,1
-saka1289-1-30-1,,saka1289-1,30,mölthël,mölthël,[],,[],,False,False,,1
-saka1289-1-40-1,,saka1289-1,40,cëlieth,cëlieth,[],,[],,False,False,,1
-saka1289-1-50-1,,saka1289-1,50,cëlon,cëlon,[],,[],,False,False,,1
-saka1289-1-60-1,,saka1289-1,60,??,??,[],,[],,False,True,,1
-saka1289-1-70-1,,saka1289-1,70,??,??,[],,[],,False,True,,1
-saka1289-1-80-1,,saka1289-1,80,??,??,[],,[],,False,True,,1
-saka1289-1-90-1,,saka1289-1,90,??,??,[],,[],,False,True,,1
-saka1289-1-100-1,,saka1289-1,100,mteire,mteire,[],(r = IPA [r] or [ɾ] ??),[],,False,False,,1
-saka1289-1-200-1,,saka1289-1,200,??,??,[],,[],,False,True,,1
-saka1289-1-1000-1,,saka1289-1,1000,nën,nën,[],,[],,False,False,,1
-saka1289-1-2000-1,,saka1289-1,2000,nɤn θa løn ?),nɤn θa løn ?),[],,[],,False,True,?? ( 5000. nën tha lön,1
+saka1289-1-1-1,,saka1289-1,1,tei,tei,[],,['chan2019'],,False,False,,1
+saka1289-1-2-1,,saka1289-1,2,ru,ru,[],,['chan2019'],,False,False,,1
+saka1289-1-3-1,,saka1289-1,3,tël,tël,[],,['chan2019'],,False,False,,1
+saka1289-1-3-2,,saka1289-1,3,ë = IPA [ɤ] ??,ë = IPA [ɤ] ??,[],,['chan2019'],,False,True,,1
+saka1289-1-4-1,,saka1289-1,4,iet = IPA,iet = IPA,[],[iɛt]? ?,['chan2019'],,False,True,,1
+saka1289-1-5-1,,saka1289-1,5,kəlön = kəløn ?,kəlön = kəløn ?,[],( < lima < hand ),['chan2019'],,False,True,,1
+saka1289-1-6-1,,saka1289-1,6,hora =,hora =,[],( 5 + 1 ) ??,['chan2019'],,False,False,,1
+saka1289-1-7-1,,saka1289-1,7,karu =,karu =,[],( 5 + 2 ) ??,['chan2019'],,False,False,,1
+saka1289-1-8-1,,saka1289-1,8,ratël =,ratël =,[],( 5 + 3 ) ??,['chan2019'],,False,False,,1
+saka1289-1-9-1,,saka1289-1,9,sacël c=IPA [c] or [t͡s] ?,sacël c=IPA [c] or [t͡s] ?,[],( 5+4 ) ??,['chan2019'],,False,True,,1
+saka1289-1-10-1,,saka1289-1,10,möltei van mœɣœlte,möltei van mœɣœlte,[],,['chan2019'],,False,False,,1
+saka1289-1-11-1,,saka1289-1,11,möltei van tetkün,möltei van tetkün,[],(ü = IPA [y] ??),['chan2019'],,False,False,,1
+saka1289-1-12-1,,saka1289-1,12,möltei van ru v = v or β ??,möltei van ru v = v or β ??,[],,['chan2019'],,False,True,,1
+saka1289-1-13-1,,saka1289-1,13,möltei van thël,möltei van thël,[],(th = IPA [θ or ð]?),['chan2019'],,False,False,,1
+saka1289-1-14-1,,saka1289-1,14,möltei van ieth,möltei van ieth,[],,['chan2019'],,False,False,,1
+saka1289-1-15-1,,saka1289-1,15,möltei van lön,möltei van lön,[],,['chan2019'],,False,False,,1
+saka1289-1-16-1,,saka1289-1,16,möltei van lönëra,möltei van lönëra,[],,['chan2019'],,False,False,,1
+saka1289-1-17-1,,saka1289-1,17,möltei van lairu,möltei van lairu,[],,['chan2019'],,False,False,,1
+saka1289-1-18-1,,saka1289-1,18,möltei van raitël,möltei van raitël,[],,['chan2019'],,False,False,,1
+saka1289-1-19-1,,saka1289-1,19,raipeθ ?,raipeθ ?,[],,['chan2019'],,False,True,möltei van raipeth,1
+saka1289-1-20-1,,saka1289-1,20,mølru ??,mølru ??,[],,['chan2019'],,False,True,mölru,1
+saka1289-1-21-1,,saka1289-1,21,mölru van tetkün,mölru van tetkün,[],,['chan2019'],,False,False,,1
+saka1289-1-22-1,,saka1289-1,22,mölru van ru,mölru van ru,[],,['chan2019'],,False,False,,1
+saka1289-1-23-1,,saka1289-1,23,mölru van theël,mölru van theël,[],,['chan2019'],,False,False,,1
+saka1289-1-24-1,,saka1289-1,24,mölru van ieth,mölru van ieth,[],,['chan2019'],,False,False,,1
+saka1289-1-25-1,,saka1289-1,25,mölru van lön,mölru van lön,[],,['chan2019'],,False,False,,1
+saka1289-1-26-1,,saka1289-1,26,mölru van lönëra,mölru van lönëra,[],,['chan2019'],,False,False,,1
+saka1289-1-27-1,,saka1289-1,27,mölru van lairu,mölru van lairu,[],,['chan2019'],,False,False,,1
+saka1289-1-28-1,,saka1289-1,28,mölru van raitël,mölru van raitël,[],,['chan2019'],,False,False,,1
+saka1289-1-29-1,,saka1289-1,29,mölru van raipeth,mölru van raipeth,[],,['chan2019'],,False,False,,1
+saka1289-1-30-1,,saka1289-1,30,mölthël,mölthël,[],,['chan2019'],,False,False,,1
+saka1289-1-40-1,,saka1289-1,40,cëlieth,cëlieth,[],,['chan2019'],,False,False,,1
+saka1289-1-50-1,,saka1289-1,50,cëlon,cëlon,[],,['chan2019'],,False,False,,1
+saka1289-1-60-1,,saka1289-1,60,??,??,[],,['chan2019'],,False,True,,1
+saka1289-1-70-1,,saka1289-1,70,??,??,[],,['chan2019'],,False,True,,1
+saka1289-1-80-1,,saka1289-1,80,??,??,[],,['chan2019'],,False,True,,1
+saka1289-1-90-1,,saka1289-1,90,??,??,[],,['chan2019'],,False,True,,1
+saka1289-1-100-1,,saka1289-1,100,mteire,mteire,[],(r = IPA [r] or [ɾ] ??),['chan2019'],,False,False,,1
+saka1289-1-200-1,,saka1289-1,200,??,??,[],,['chan2019'],,False,True,,1
+saka1289-1-1000-1,,saka1289-1,1000,nën,nën,[],,['chan2019'],,False,False,,1
+saka1289-1-2000-1,,saka1289-1,2000,nɤn θa løn ?),nɤn θa løn ?),[],,['chan2019'],,False,True,?? ( 5000. nën tha lön,1

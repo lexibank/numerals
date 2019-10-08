@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-metl1238-1-1-1,,metl1238-1,1,ĩː,ĩː,[],,[],,False,False,,1
-metl1238-1-2-1,,metl1238-1,2,ùvì,ùvì,[],,[],,False,False,,1
-metl1238-1-3-1,,metl1238-1,3,ùnì,ùnì,[],,[],,False,False,,1
-metl1238-1-4-1,,metl1238-1,4,kùmí,kùmí,[],,[],,False,False,,1
-metl1238-1-5-1,,metl1238-1,5,ũ̀ʔũ̀,ũ̀ʔũ̀,[],,[],,False,False,,1
-metl1238-1-6-1,,metl1238-1,6,ìɲù,ìɲù,[],,[],,False,False,,1
-metl1238-1-7-1,,metl1238-1,7,ùxà = ùhà ?,ùxà = ùhà ?,[],,[],,False,True,,1
-metl1238-1-8-1,,metl1238-1,8,ùnà,ùnà,[],,[],,False,False,,1
-metl1238-1-9-1,,metl1238-1,9,ĩĩ̀,ĩĩ̀,[],,[],,False,False,,1
-metl1238-1-10-1,,metl1238-1,10,ùhì,ùhì,[],,[],,False,False,,1
-metl1238-1-11-1,,metl1238-1,11,ùhì ĩː,ùhì ĩː,[],,[],,False,False,,1
-metl1238-1-12-1,,metl1238-1,12,ùhì ùvì,ùhì ùvì,[],,[],,False,False,,1
-metl1238-1-13-1,,metl1238-1,13,ùhì ùnì,ùhì ùnì,[],,[],,False,False,,1
-metl1238-1-14-1,,metl1238-1,14,ùhì kùmí,ùhì kùmí,[],,[],,False,False,,1
-metl1238-1-15-1,,metl1238-1,15,hàʔũ̀,hàʔũ̀,[],,[],,False,False,,1
-metl1238-1-16-1,,metl1238-1,16,hàʔu ĩː,hàʔu ĩː,[],( 15 + 1 ),[],,False,False,,1
-metl1238-1-17-1,,metl1238-1,17,hàʔu ùvì,hàʔu ùvì,[],( 15 + 2 ),[],,False,False,,1
-metl1238-1-18-1,,metl1238-1,18,hàʔu ùnì,hàʔu ùnì,[],( 15 + 3 ),[],,False,False,,1
-metl1238-1-19-1,,metl1238-1,19,hàʔu kùmí,hàʔu kùmí,[],( 15 + 4 ),[],,False,False,,1
-metl1238-1-20-1,,metl1238-1,20,òkò,òkò,[],,[],,False,False,,1
-metl1238-1-21-1,,metl1238-1,21,òkò ĩː,òkò ĩː,[],,[],,False,False,,1
-metl1238-1-22-1,,metl1238-1,22,òkò ùvì,òkò ùvì,[],,[],,False,False,,1
-metl1238-1-23-1,,metl1238-1,23,òkò ùnì,òkò ùnì,[],,[],,False,False,,1
-metl1238-1-24-1,,metl1238-1,24,òkò kùmí,òkò kùmí,[],,[],,False,False,,1
-metl1238-1-25-1,,metl1238-1,25,òkò ũ̀ʔũ̀,òkò ũ̀ʔũ̀,[],,[],,False,False,,1
-metl1238-1-26-1,,metl1238-1,26,òkò ìɲù,òkò ìɲù,[],,[],,False,False,,1
-metl1238-1-27-1,,metl1238-1,27,òkò ùhà,òkò ùhà,[],,[],,False,False,,1
-metl1238-1-28-1,,metl1238-1,28,òkò ùnà,òkò ùnà,[],,[],,False,False,,1
-metl1238-1-29-1,,metl1238-1,29,òkò ĩĩ̀,òkò ĩĩ̀,[],,[],,False,False,,1
-metl1238-1-30-1,,metl1238-1,30,òkò ùhì,òkò ùhì,[],,[],,False,False,,1
-metl1238-1-40-1,,metl1238-1,40,ùvì hìko,ùvì hìko,[],( 2 x 20 ),[],,False,False,,1
-metl1238-1-50-1,,metl1238-1,50,ùvì hìko hì,ùvì hìko hì,[],,[],,False,False,,1
-metl1238-1-60-1,,metl1238-1,60,ùnì hìko,ùnì hìko,[],( 3 x 20 ),[],,False,False,,1
-metl1238-1-70-1,,metl1238-1,70,ùnì hìko hì,ùnì hìko hì,[],,[],,False,False,,1
-metl1238-1-80-1,,metl1238-1,80,kùmí hìko,kùmí hìko,[],( 4 x 20 ),[],,False,False,,1
-metl1238-1-90-1,,metl1238-1,90,kùmí hìko hì,kùmí hìko hì,[],,[],,False,False,,1
-metl1238-1-100-1,,metl1238-1,100,síendo,síendo,[],( síendo < Spanish ),[],,True,False,,1
-metl1238-1-200-1,,metl1238-1,200,ùvì síendó,ùvì síendó,[],,[],,False,False,,1
-metl1238-1-1000-1,,metl1238-1,1000,mílĩ,mílĩ,[],( mílĩ < Spanish ),[],,True,False,,1
-metl1238-1-2000-1,,metl1238-1,2000,ùvì mílĩ,ùvì mílĩ,[],,[],,False,False,,1
+metl1238-1-1-1,,metl1238-1,1,ĩː,ĩː,[],,['chan2019'],,False,False,,1
+metl1238-1-2-1,,metl1238-1,2,ùvì,ùvì,[],,['chan2019'],,False,False,,1
+metl1238-1-3-1,,metl1238-1,3,ùnì,ùnì,[],,['chan2019'],,False,False,,1
+metl1238-1-4-1,,metl1238-1,4,kùmí,kùmí,[],,['chan2019'],,False,False,,1
+metl1238-1-5-1,,metl1238-1,5,ũ̀ʔũ̀,ũ̀ʔũ̀,[],,['chan2019'],,False,False,,1
+metl1238-1-6-1,,metl1238-1,6,ìɲù,ìɲù,[],,['chan2019'],,False,False,,1
+metl1238-1-7-1,,metl1238-1,7,ùxà = ùhà ?,ùxà = ùhà ?,[],,['chan2019'],,False,True,,1
+metl1238-1-8-1,,metl1238-1,8,ùnà,ùnà,[],,['chan2019'],,False,False,,1
+metl1238-1-9-1,,metl1238-1,9,ĩĩ̀,ĩĩ̀,[],,['chan2019'],,False,False,,1
+metl1238-1-10-1,,metl1238-1,10,ùhì,ùhì,[],,['chan2019'],,False,False,,1
+metl1238-1-11-1,,metl1238-1,11,ùhì ĩː,ùhì ĩː,[],,['chan2019'],,False,False,,1
+metl1238-1-12-1,,metl1238-1,12,ùhì ùvì,ùhì ùvì,[],,['chan2019'],,False,False,,1
+metl1238-1-13-1,,metl1238-1,13,ùhì ùnì,ùhì ùnì,[],,['chan2019'],,False,False,,1
+metl1238-1-14-1,,metl1238-1,14,ùhì kùmí,ùhì kùmí,[],,['chan2019'],,False,False,,1
+metl1238-1-15-1,,metl1238-1,15,hàʔũ̀,hàʔũ̀,[],,['chan2019'],,False,False,,1
+metl1238-1-16-1,,metl1238-1,16,hàʔu ĩː,hàʔu ĩː,[],( 15 + 1 ),['chan2019'],,False,False,,1
+metl1238-1-17-1,,metl1238-1,17,hàʔu ùvì,hàʔu ùvì,[],( 15 + 2 ),['chan2019'],,False,False,,1
+metl1238-1-18-1,,metl1238-1,18,hàʔu ùnì,hàʔu ùnì,[],( 15 + 3 ),['chan2019'],,False,False,,1
+metl1238-1-19-1,,metl1238-1,19,hàʔu kùmí,hàʔu kùmí,[],( 15 + 4 ),['chan2019'],,False,False,,1
+metl1238-1-20-1,,metl1238-1,20,òkò,òkò,[],,['chan2019'],,False,False,,1
+metl1238-1-21-1,,metl1238-1,21,òkò ĩː,òkò ĩː,[],,['chan2019'],,False,False,,1
+metl1238-1-22-1,,metl1238-1,22,òkò ùvì,òkò ùvì,[],,['chan2019'],,False,False,,1
+metl1238-1-23-1,,metl1238-1,23,òkò ùnì,òkò ùnì,[],,['chan2019'],,False,False,,1
+metl1238-1-24-1,,metl1238-1,24,òkò kùmí,òkò kùmí,[],,['chan2019'],,False,False,,1
+metl1238-1-25-1,,metl1238-1,25,òkò ũ̀ʔũ̀,òkò ũ̀ʔũ̀,[],,['chan2019'],,False,False,,1
+metl1238-1-26-1,,metl1238-1,26,òkò ìɲù,òkò ìɲù,[],,['chan2019'],,False,False,,1
+metl1238-1-27-1,,metl1238-1,27,òkò ùhà,òkò ùhà,[],,['chan2019'],,False,False,,1
+metl1238-1-28-1,,metl1238-1,28,òkò ùnà,òkò ùnà,[],,['chan2019'],,False,False,,1
+metl1238-1-29-1,,metl1238-1,29,òkò ĩĩ̀,òkò ĩĩ̀,[],,['chan2019'],,False,False,,1
+metl1238-1-30-1,,metl1238-1,30,òkò ùhì,òkò ùhì,[],,['chan2019'],,False,False,,1
+metl1238-1-40-1,,metl1238-1,40,ùvì hìko,ùvì hìko,[],( 2 x 20 ),['chan2019'],,False,False,,1
+metl1238-1-50-1,,metl1238-1,50,ùvì hìko hì,ùvì hìko hì,[],,['chan2019'],,False,False,,1
+metl1238-1-60-1,,metl1238-1,60,ùnì hìko,ùnì hìko,[],( 3 x 20 ),['chan2019'],,False,False,,1
+metl1238-1-70-1,,metl1238-1,70,ùnì hìko hì,ùnì hìko hì,[],,['chan2019'],,False,False,,1
+metl1238-1-80-1,,metl1238-1,80,kùmí hìko,kùmí hìko,[],( 4 x 20 ),['chan2019'],,False,False,,1
+metl1238-1-90-1,,metl1238-1,90,kùmí hìko hì,kùmí hìko hì,[],,['chan2019'],,False,False,,1
+metl1238-1-100-1,,metl1238-1,100,síendo,síendo,[],( síendo < Spanish ),['chan2019'],,True,False,,1
+metl1238-1-200-1,,metl1238-1,200,ùvì síendó,ùvì síendó,[],,['chan2019'],,False,False,,1
+metl1238-1-1000-1,,metl1238-1,1000,mílĩ,mílĩ,[],( mílĩ < Spanish ),['chan2019'],,True,False,,1
+metl1238-1-2000-1,,metl1238-1,2000,ùvì mílĩ,ùvì mílĩ,[],,['chan2019'],,False,False,,1

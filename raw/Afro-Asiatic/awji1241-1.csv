@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-awji1241-1-1-1,,awji1241-1,1,iwìn,iwìn,[],,[],,False,False,,1
-awji1241-1-1-2,,awji1241-1,1,iwinàn,iwinàn,[],(m.),[],,False,False,,1
-awji1241-1-1-3,,awji1241-1,1,iwát,iwát,[],,[],,False,False,,1
-awji1241-1-1-4,,awji1241-1,1,iwatàn,iwatàn,[],(f.),[],,False,False,,1
-awji1241-1-2-1,,awji1241-1,2,itnèn,itnèn,[],( < Arabic ),[],,True,False,,1
-awji1241-1-3-1,,awji1241-1,3,təlàta,təlàta,[],( < Arabic ),[],,True,False,,1
-awji1241-1-4-1,,awji1241-1,4,àrbəʕa,àrbəʕa,[],( < Arabic ),[],,True,False,,1
-awji1241-1-7-1,,awji1241-1,7,sə̀bəʕa,sə̀bəʕa,[],( < Arabic ),[],,True,False,,1
-awji1241-1-9-1,,awji1241-1,9,tə̀səʕa,tə̀səʕa,[],( < Arabic ),[],,True,False,,1
-awji1241-1-90-1,,awji1241-1,90,təsʕìn,təsʕìn,[],,[],,False,False,,1
-awji1241-1-100-1,,awji1241-1,100,mə̀yət,mə̀yət,[],,[],,False,False,,1
-awji1241-1-1000-1,,awji1241-1,1000,əlf,əlf,[],,[],,False,False,,1
+awji1241-1-1-1,,awji1241-1,1,iwìn,iwìn,[],,['chan2019'],,False,False,,1
+awji1241-1-1-2,,awji1241-1,1,iwinàn,iwinàn,[],(m.),['chan2019'],,False,False,,1
+awji1241-1-1-3,,awji1241-1,1,iwát,iwát,[],,['chan2019'],,False,False,,1
+awji1241-1-1-4,,awji1241-1,1,iwatàn,iwatàn,[],(f.),['chan2019'],,False,False,,1
+awji1241-1-2-1,,awji1241-1,2,itnèn,itnèn,[],( < Arabic ),['chan2019'],,True,False,,1
+awji1241-1-3-1,,awji1241-1,3,təlàta,təlàta,[],( < Arabic ),['chan2019'],,True,False,,1
+awji1241-1-4-1,,awji1241-1,4,àrbəʕa,àrbəʕa,[],( < Arabic ),['chan2019'],,True,False,,1
+awji1241-1-7-1,,awji1241-1,7,sə̀bəʕa,sə̀bəʕa,[],( < Arabic ),['chan2019'],,True,False,,1
+awji1241-1-9-1,,awji1241-1,9,tə̀səʕa,tə̀səʕa,[],( < Arabic ),['chan2019'],,True,False,,1
+awji1241-1-90-1,,awji1241-1,90,təsʕìn,təsʕìn,[],,['chan2019'],,False,False,,1
+awji1241-1-100-1,,awji1241-1,100,mə̀yət,mə̀yət,[],,['chan2019'],,False,False,,1
+awji1241-1-1000-1,,awji1241-1,1000,əlf,əlf,[],,['chan2019'],,False,False,,1

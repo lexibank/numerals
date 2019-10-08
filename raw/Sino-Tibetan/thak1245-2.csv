@@ -1,47 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-thak1245-2-1-1,,thak1245-2,1,kiː,kiː,[],,[],,False,False,,2
-thak1245-2-2-1,,thak1245-2,2,ŋi:,ŋi:,[],,[],,False,False,,2
-thak1245-2-3-1,,thak1245-2,3,som,som,[],,[],,False,False,,2
-thak1245-2-4-1,,thak1245-2,4,pli:,pli:,[],,[],,False,False,,2
-thak1245-2-5-1,,thak1245-2,5,ŋʌ:,ŋʌ:,[],,[],,False,False,,2
-thak1245-2-6-1,,thak1245-2,6,ʈu,ʈu,[],,[],,False,False,,2
-thak1245-2-7-1,,thak1245-2,7,ŋis,ŋis,[],,[],,False,False,,2
-thak1245-2-8-1,,thak1245-2,8,pre,pre,[],,[],,False,False,,2
-thak1245-2-9-1,,thak1245-2,9,ku,ku,[],,[],,False,False,,2
-thak1245-2-10-1,,thak1245-2,10,tsyu,tsyu,[],( tsy = IPA [t͡ʃ] ?),[],,False,False,,2
-thak1245-2-11-1,,thak1245-2,11,t͡sukiː,t͡sukiː,[],,[],,False,False,,2
-thak1245-2-12-1,,thak1245-2,12,t͡suŋi,t͡suŋi,[],,[],,False,False,,2
-thak1245-2-13-1,,thak1245-2,13,t͡susom,t͡susom,[],,[],,False,False,,2
-thak1245-2-14-1,,thak1245-2,14,t͡supliː,t͡supliː,[],,[],,False,False,,2
-thak1245-2-15-1,,thak1245-2,15,t͡saŋ,t͡saŋ,[],,[],,False,False,,2
-thak1245-2-16-1,,thak1245-2,16,t͡suʈu,t͡suʈu,[],,[],,False,False,,2
-thak1245-2-17-1,,thak1245-2,17,t͡sʌŋiːs,t͡sʌŋiːs,[],,[],,False,False,,2
-thak1245-2-18-1,,thak1245-2,18,t͡sopre,t͡sopre,[],,[],,False,False,,2
-thak1245-2-19-1,,thak1245-2,19,t͡surʌku,t͡surʌku,[],,[],,False,False,,2
-thak1245-2-20-1,,thak1245-2,20,ŋɦyusyu,ŋɦyusyu,[],,[],,False,False,,2
-thak1245-2-21-1,,thak1245-2,21,ŋɦyusyukiː,ŋɦyusyukiː,[],,[],,False,False,,2
-thak1245-2-22-1,,thak1245-2,22,ŋɦyusyuŋiː,ŋɦyusyuŋiː,[],,[],,False,False,,2
-thak1245-2-23-1,,thak1245-2,23,ŋɦyusyusom,ŋɦyusyusom,[],,[],,False,False,,2
-thak1245-2-24-1,,thak1245-2,24,ŋɦyusyupli:,ŋɦyusyupli:,[],,[],,False,False,,2
-thak1245-2-25-1,,thak1245-2,25,ŋɦyusyuŋʌː,ŋɦyusyuŋʌː,[],,[],,False,False,,2
-thak1245-2-26-1,,thak1245-2,26,ŋɦyusyuʈu,ŋɦyusyuʈu,[],,[],,False,False,,2
-thak1245-2-27-1,,thak1245-2,27,ŋɦyusyuŋis,ŋɦyusyuŋis,[],,[],,False,False,,2
-thak1245-2-28-1,,thak1245-2,28,ŋɦyusyupre,ŋɦyusyupre,[],,[],,False,False,,2
-thak1245-2-29-1,,thak1245-2,29,ŋɦyusyuku,ŋɦyusyuku,[],,[],,False,False,,2
-thak1245-2-30-1,,thak1245-2,30,somtsyu,somtsyu,[],,[],,False,False,,2
-thak1245-2-40-1,,thak1245-2,40,pliːtsyu,pliːtsyu,[],,[],,False,False,,2
-thak1245-2-50-1,,thak1245-2,50,ŋʌtsyu,ŋʌtsyu,[],,[],,False,False,,2
-thak1245-2-60-1,,thak1245-2,60,ʈuktsyu,ʈuktsyu,[],,[],,False,False,,2
-thak1245-2-70-1,,thak1245-2,70,ŋiːtsyu,ŋiːtsyu,[],,[],,False,False,,2
-thak1245-2-80-1,,thak1245-2,80,pretsyu,pretsyu,[],,[],,False,False,,2
-thak1245-2-90-1,,thak1245-2,90,kuiːtsyu,kuiːtsyu,[],,[],,False,False,,2
-thak1245-2-100-1,,thak1245-2,100,prʌ,prʌ,[],,[],,False,False,,2
-thak1245-2-100-2,,thak1245-2,100,200. ŋʌɦiprʌ,200. ŋʌɦiprʌ,[],,[],,False,True,,2
-thak1245-2-100-3,,thak1245-2,100,300. somprʌ,300. somprʌ,[],,[],,False,True,,2
-thak1245-2-400-1,,thak1245-2,400,bʰliː prʌ,bʰliː prʌ,[],,[],,False,False,,2
-thak1245-2-400-2,,thak1245-2,400,500.ŋʌprʌ,500.ŋʌprʌ,[],,[],,False,True,,2
-thak1245-2-400-3,,thak1245-2,400,600.ɖʰuprʌ,600.ɖʰuprʌ,[],,[],,False,True,,2
-thak1245-2-700-1,,thak1245-2,700,ŋisprʌ,ŋisprʌ,[],,[],,False,False,,2
-thak1245-2-700-2,,thak1245-2,700,800. bʰeprʌ,800. bʰeprʌ,[],,[],,False,True,,2
-thak1245-2-700-3,,thak1245-2,700,900.kuprʌ,900.kuprʌ,[],,[],,False,True,,2
-thak1245-2-2000-1,,thak1245-2,2000,ɦadzar,ɦadzar,[],< Nepali ,[],,True,False,,2
+thak1245-2-1-1,,thak1245-2,1,kiː,kiː,[],,['chan2019'],,False,False,,2
+thak1245-2-2-1,,thak1245-2,2,ŋi:,ŋi:,[],,['chan2019'],,False,False,,2
+thak1245-2-3-1,,thak1245-2,3,som,som,[],,['chan2019'],,False,False,,2
+thak1245-2-4-1,,thak1245-2,4,pli:,pli:,[],,['chan2019'],,False,False,,2
+thak1245-2-5-1,,thak1245-2,5,ŋʌ:,ŋʌ:,[],,['chan2019'],,False,False,,2
+thak1245-2-6-1,,thak1245-2,6,ʈu,ʈu,[],,['chan2019'],,False,False,,2
+thak1245-2-7-1,,thak1245-2,7,ŋis,ŋis,[],,['chan2019'],,False,False,,2
+thak1245-2-8-1,,thak1245-2,8,pre,pre,[],,['chan2019'],,False,False,,2
+thak1245-2-9-1,,thak1245-2,9,ku,ku,[],,['chan2019'],,False,False,,2
+thak1245-2-10-1,,thak1245-2,10,tsyu,tsyu,[],( tsy = IPA [t͡ʃ] ?),['chan2019'],,False,False,,2
+thak1245-2-11-1,,thak1245-2,11,t͡sukiː,t͡sukiː,[],,['chan2019'],,False,False,,2
+thak1245-2-12-1,,thak1245-2,12,t͡suŋi,t͡suŋi,[],,['chan2019'],,False,False,,2
+thak1245-2-13-1,,thak1245-2,13,t͡susom,t͡susom,[],,['chan2019'],,False,False,,2
+thak1245-2-14-1,,thak1245-2,14,t͡supliː,t͡supliː,[],,['chan2019'],,False,False,,2
+thak1245-2-15-1,,thak1245-2,15,t͡saŋ,t͡saŋ,[],,['chan2019'],,False,False,,2
+thak1245-2-16-1,,thak1245-2,16,t͡suʈu,t͡suʈu,[],,['chan2019'],,False,False,,2
+thak1245-2-17-1,,thak1245-2,17,t͡sʌŋiːs,t͡sʌŋiːs,[],,['chan2019'],,False,False,,2
+thak1245-2-18-1,,thak1245-2,18,t͡sopre,t͡sopre,[],,['chan2019'],,False,False,,2
+thak1245-2-19-1,,thak1245-2,19,t͡surʌku,t͡surʌku,[],,['chan2019'],,False,False,,2
+thak1245-2-20-1,,thak1245-2,20,ŋɦyusyu,ŋɦyusyu,[],,['chan2019'],,False,False,,2
+thak1245-2-21-1,,thak1245-2,21,ŋɦyusyukiː,ŋɦyusyukiː,[],,['chan2019'],,False,False,,2
+thak1245-2-22-1,,thak1245-2,22,ŋɦyusyuŋiː,ŋɦyusyuŋiː,[],,['chan2019'],,False,False,,2
+thak1245-2-23-1,,thak1245-2,23,ŋɦyusyusom,ŋɦyusyusom,[],,['chan2019'],,False,False,,2
+thak1245-2-24-1,,thak1245-2,24,ŋɦyusyupli:,ŋɦyusyupli:,[],,['chan2019'],,False,False,,2
+thak1245-2-25-1,,thak1245-2,25,ŋɦyusyuŋʌː,ŋɦyusyuŋʌː,[],,['chan2019'],,False,False,,2
+thak1245-2-26-1,,thak1245-2,26,ŋɦyusyuʈu,ŋɦyusyuʈu,[],,['chan2019'],,False,False,,2
+thak1245-2-27-1,,thak1245-2,27,ŋɦyusyuŋis,ŋɦyusyuŋis,[],,['chan2019'],,False,False,,2
+thak1245-2-28-1,,thak1245-2,28,ŋɦyusyupre,ŋɦyusyupre,[],,['chan2019'],,False,False,,2
+thak1245-2-29-1,,thak1245-2,29,ŋɦyusyuku,ŋɦyusyuku,[],,['chan2019'],,False,False,,2
+thak1245-2-30-1,,thak1245-2,30,somtsyu,somtsyu,[],,['chan2019'],,False,False,,2
+thak1245-2-40-1,,thak1245-2,40,pliːtsyu,pliːtsyu,[],,['chan2019'],,False,False,,2
+thak1245-2-50-1,,thak1245-2,50,ŋʌtsyu,ŋʌtsyu,[],,['chan2019'],,False,False,,2
+thak1245-2-60-1,,thak1245-2,60,ʈuktsyu,ʈuktsyu,[],,['chan2019'],,False,False,,2
+thak1245-2-70-1,,thak1245-2,70,ŋiːtsyu,ŋiːtsyu,[],,['chan2019'],,False,False,,2
+thak1245-2-80-1,,thak1245-2,80,pretsyu,pretsyu,[],,['chan2019'],,False,False,,2
+thak1245-2-90-1,,thak1245-2,90,kuiːtsyu,kuiːtsyu,[],,['chan2019'],,False,False,,2
+thak1245-2-100-1,,thak1245-2,100,prʌ,prʌ,[],,['chan2019'],,False,False,,2
+thak1245-2-100-2,,thak1245-2,100,200. ŋʌɦiprʌ,200. ŋʌɦiprʌ,[],,['chan2019'],,False,True,,2
+thak1245-2-100-3,,thak1245-2,100,300. somprʌ,300. somprʌ,[],,['chan2019'],,False,True,,2
+thak1245-2-400-1,,thak1245-2,400,bʰliː prʌ,bʰliː prʌ,[],,['chan2019'],,False,False,,2
+thak1245-2-400-2,,thak1245-2,400,500.ŋʌprʌ,500.ŋʌprʌ,[],,['chan2019'],,False,True,,2
+thak1245-2-400-3,,thak1245-2,400,600.ɖʰuprʌ,600.ɖʰuprʌ,[],,['chan2019'],,False,True,,2
+thak1245-2-700-1,,thak1245-2,700,ŋisprʌ,ŋisprʌ,[],,['chan2019'],,False,False,,2
+thak1245-2-700-2,,thak1245-2,700,800. bʰeprʌ,800. bʰeprʌ,[],,['chan2019'],,False,True,,2
+thak1245-2-700-3,,thak1245-2,700,900.kuprʌ,900.kuprʌ,[],,['chan2019'],,False,True,,2
+thak1245-2-2000-1,,thak1245-2,2000,ɦadzar,ɦadzar,[],< Nepali ,['chan2019'],,True,False,,2

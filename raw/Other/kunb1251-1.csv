@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kunb1251-1-1-1,,kunb1251-1,1,-kuɟi,-kuɟi,[],,[],,False,False,-kudji 'one',1
-kunb1251-1-2-1,,kunb1251-1,2,kaburk,kaburk,[],,[],,False,False,kaburrk 'two',1
-kunb1251-1-3-1,,kunb1251-1,3,kaburkla kuɟi 'three',kaburkla kuɟi 'three',[],(literally 'two and one'),[],,False,False,baburrk ka -kudji or kaburrk la kun-kudji,1
-kunb1251-1-4-1,,kunb1251-1,4,kaburklakaburk,kaburklakaburk,[],(litː 'two and two'),[],,False,False,kaburrk la kaburrk,1
-kunb1251-1-5-1,,kunb1251-1,5,kunbidkunkuɟi,kunbidkunkuɟi,[],(litː 'hand one'),[],,False,False,kun-bid-kun-kudji,1
+kunb1251-1-1-1,,kunb1251-1,1,-kuɟi,-kuɟi,[],,['chan2019'],,False,False,-kudji 'one',1
+kunb1251-1-2-1,,kunb1251-1,2,kaburk,kaburk,[],,['chan2019'],,False,False,kaburrk 'two',1
+kunb1251-1-3-1,,kunb1251-1,3,kaburkla kuɟi 'three',kaburkla kuɟi 'three',[],(literally 'two and one'),['chan2019'],,False,False,baburrk ka -kudji or kaburrk la kun-kudji,1
+kunb1251-1-4-1,,kunb1251-1,4,kaburklakaburk,kaburklakaburk,[],(litː 'two and two'),['chan2019'],,False,False,kaburrk la kaburrk,1
+kunb1251-1-5-1,,kunb1251-1,5,kunbidkunkuɟi,kunbidkunkuɟi,[],(litː 'hand one'),['chan2019'],,False,False,kun-bid-kun-kudji,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cent1989-1-1-1,,cent1989-1,1,muːəj,muːəj,[],,[],,False,False,muəy,1
-cent1989-1-2-1,,cent1989-1,2,piː,piː,[],,[],,False,False,pii,1
-cent1989-1-3-1,,cent1989-1,3,ˀbɤːj,ˀbɤːj,[],,[],,False,False,bəy,1
-cent1989-1-4-1,,cent1989-1,4,ˀbuːən,ˀbuːən,[],,[],,False,False,buən,1
-cent1989-1-5-1,,cent1989-1,5,præm,præm,[],,[],,False,False,pram,1
-cent1989-1-6-1,,cent1989-1,6,prəmˈmuːəj,prəmˈmuːəj,[],,[],,False,False,prammuəy,1
-cent1989-1-7-1,,cent1989-1,7,prəmˈpiː,prəmˈpiː,[],,[],,False,False,prampii,1
-cent1989-1-8-1,,cent1989-1,8,prəmˈˀbɤːj,prəmˈˀbɤːj,[],,[],,False,False,prambəy,1
-cent1989-1-9-1,,cent1989-1,9,prəmˈˀbuːən,prəmˈˀbuːən,[],,[],,False,False,prambuən,1
-cent1989-1-10-1,,cent1989-1,10,ˀdɒp,ˀdɒp,[],,[],,False,False,dɑp,1
-cent1989-1-11-1,,cent1989-1,11,ˀdɒpˈmuːəj,ˀdɒpˈmuːəj,[],,[],,False,False,dɑp-muəy,1
-cent1989-1-12-1,,cent1989-1,12,ˀdɒpˈpiː,ˀdɒpˈpiː,[],,[],,False,False,dɑp-pii,1
-cent1989-1-13-1,,cent1989-1,13,ˀdɒpˈˀbɤːj,ˀdɒpˈˀbɤːj,[],,[],,False,False,dɑp-bəy,1
-cent1989-1-14-1,,cent1989-1,14,ˀdɒpˈˀbuːən,ˀdɒpˈˀbuːən,[],,[],,False,False,dɑp-buən,1
-cent1989-1-15-1,,cent1989-1,15,ˀdɒpˈpræm,ˀdɒpˈpræm,[],,[],,False,False,dɑp-pram,1
-cent1989-1-16-1,,cent1989-1,16,ˀdɒp prəmˈmuːəj,ˀdɒp prəmˈmuːəj,[],,[],,False,False,dɑp-prammuəy,1
-cent1989-1-17-1,,cent1989-1,17,ˀdɒp prəmˈpiː,ˀdɒp prəmˈpiː,[],,[],,False,False,dɑp-prampii,1
-cent1989-1-18-1,,cent1989-1,18,ˀdɒp prəmˈˀbɤːj,ˀdɒp prəmˈˀbɤːj,[],,[],,False,False,dɑp-prambəy,1
-cent1989-1-19-1,,cent1989-1,19,ˀdɒp prəmˈˀbuːən,ˀdɒp prəmˈˀbuːən,[],,[],,False,False,dɑp-prambuən,1
-cent1989-1-20-1,,cent1989-1,20,məphɨy,məphɨy,[],,[],,False,False,,1
-cent1989-1-21-1,,cent1989-1,21,məphɨy-muəy,məphɨy-muəy,[],,[],,False,False,,1
-cent1989-1-22-1,,cent1989-1,22,məphɨy-pii,məphɨy-pii,[],,[],,False,False,,1
-cent1989-1-23-1,,cent1989-1,23,məphɨy-bəy,məphɨy-bəy,[],,[],,False,False,,1
-cent1989-1-24-1,,cent1989-1,24,məphɨy-buən,məphɨy-buən,[],,[],,False,False,,1
-cent1989-1-25-1,,cent1989-1,25,məphɨy-pram,məphɨy-pram,[],,[],,False,False,,1
-cent1989-1-26-1,,cent1989-1,26,məphɨy-prammuəy,məphɨy-prammuəy,[],,[],,False,False,,1
-cent1989-1-27-1,,cent1989-1,27,məphɨy-prampii,məphɨy-prampii,[],,[],,False,False,,1
-cent1989-1-28-1,,cent1989-1,28,məphɨy-prambəy,məphɨy-prambəy,[],,[],,False,False,,1
-cent1989-1-29-1,,cent1989-1,29,məphɨy-prambuən,məphɨy-prambuən,[],,[],,False,False,,1
-cent1989-1-30-1,,cent1989-1,30,ˈsæːmsɤp,ˈsæːmsɤp,[],< Thai ,[],,True,False,saamsəp,1
-cent1989-1-40-1,,cent1989-1,40,ˈsæːɛsɤp,ˈsæːɛsɤp,[],,[],,False,False,saesəp,1
-cent1989-1-50-1,,cent1989-1,50,ˈhæːsɤp,ˈhæːsɤp,[],,[],,False,False,haasəp,1
-cent1989-1-60-1,,cent1989-1,60,ˈhɔʷksɤp,ˈhɔʷksɤp,[],,[],,False,False,hoksəp,1
-cent1989-1-70-1,,cent1989-1,70,ˈt͡ʃɤtsɤp,ˈt͡ʃɤtsɤp,[],,[],,False,False,cətsəp,1
-cent1989-1-80-1,,cent1989-1,80,ˈpæːɛsɤp,ˈpæːɛsɤp,[],,[],,False,False,paetsəp,1
-cent1989-1-90-1,,cent1989-1,90,ˈkæːwsɤp,ˈkæːwsɤp,[],,[],,False,False,kawsəp,1
-cent1989-1-100-1,,cent1989-1,100,rɔːj,rɔːj,[],,[],,False,False,muəy rooy,1
-cent1989-1-200-1,,cent1989-1,200,pii rooy,pii rooy,[],,[],,False,False,,1
-cent1989-1-1000-1,,cent1989-1,1000,pɔən,pɔən,[],,[],,False,False,muəy poən,1
-cent1989-1-2000-1,,cent1989-1,2000,pii poən,pii poən,[],,[],,False,False,,1
+cent1989-1-1-1,,cent1989-1,1,muːəj,muːəj,[],,['chan2019'],,False,False,muəy,1
+cent1989-1-2-1,,cent1989-1,2,piː,piː,[],,['chan2019'],,False,False,pii,1
+cent1989-1-3-1,,cent1989-1,3,ˀbɤːj,ˀbɤːj,[],,['chan2019'],,False,False,bəy,1
+cent1989-1-4-1,,cent1989-1,4,ˀbuːən,ˀbuːən,[],,['chan2019'],,False,False,buən,1
+cent1989-1-5-1,,cent1989-1,5,præm,præm,[],,['chan2019'],,False,False,pram,1
+cent1989-1-6-1,,cent1989-1,6,prəmˈmuːəj,prəmˈmuːəj,[],,['chan2019'],,False,False,prammuəy,1
+cent1989-1-7-1,,cent1989-1,7,prəmˈpiː,prəmˈpiː,[],,['chan2019'],,False,False,prampii,1
+cent1989-1-8-1,,cent1989-1,8,prəmˈˀbɤːj,prəmˈˀbɤːj,[],,['chan2019'],,False,False,prambəy,1
+cent1989-1-9-1,,cent1989-1,9,prəmˈˀbuːən,prəmˈˀbuːən,[],,['chan2019'],,False,False,prambuən,1
+cent1989-1-10-1,,cent1989-1,10,ˀdɒp,ˀdɒp,[],,['chan2019'],,False,False,dɑp,1
+cent1989-1-11-1,,cent1989-1,11,ˀdɒpˈmuːəj,ˀdɒpˈmuːəj,[],,['chan2019'],,False,False,dɑp-muəy,1
+cent1989-1-12-1,,cent1989-1,12,ˀdɒpˈpiː,ˀdɒpˈpiː,[],,['chan2019'],,False,False,dɑp-pii,1
+cent1989-1-13-1,,cent1989-1,13,ˀdɒpˈˀbɤːj,ˀdɒpˈˀbɤːj,[],,['chan2019'],,False,False,dɑp-bəy,1
+cent1989-1-14-1,,cent1989-1,14,ˀdɒpˈˀbuːən,ˀdɒpˈˀbuːən,[],,['chan2019'],,False,False,dɑp-buən,1
+cent1989-1-15-1,,cent1989-1,15,ˀdɒpˈpræm,ˀdɒpˈpræm,[],,['chan2019'],,False,False,dɑp-pram,1
+cent1989-1-16-1,,cent1989-1,16,ˀdɒp prəmˈmuːəj,ˀdɒp prəmˈmuːəj,[],,['chan2019'],,False,False,dɑp-prammuəy,1
+cent1989-1-17-1,,cent1989-1,17,ˀdɒp prəmˈpiː,ˀdɒp prəmˈpiː,[],,['chan2019'],,False,False,dɑp-prampii,1
+cent1989-1-18-1,,cent1989-1,18,ˀdɒp prəmˈˀbɤːj,ˀdɒp prəmˈˀbɤːj,[],,['chan2019'],,False,False,dɑp-prambəy,1
+cent1989-1-19-1,,cent1989-1,19,ˀdɒp prəmˈˀbuːən,ˀdɒp prəmˈˀbuːən,[],,['chan2019'],,False,False,dɑp-prambuən,1
+cent1989-1-20-1,,cent1989-1,20,məphɨy,məphɨy,[],,['chan2019'],,False,False,,1
+cent1989-1-21-1,,cent1989-1,21,məphɨy-muəy,məphɨy-muəy,[],,['chan2019'],,False,False,,1
+cent1989-1-22-1,,cent1989-1,22,məphɨy-pii,məphɨy-pii,[],,['chan2019'],,False,False,,1
+cent1989-1-23-1,,cent1989-1,23,məphɨy-bəy,məphɨy-bəy,[],,['chan2019'],,False,False,,1
+cent1989-1-24-1,,cent1989-1,24,məphɨy-buən,məphɨy-buən,[],,['chan2019'],,False,False,,1
+cent1989-1-25-1,,cent1989-1,25,məphɨy-pram,məphɨy-pram,[],,['chan2019'],,False,False,,1
+cent1989-1-26-1,,cent1989-1,26,məphɨy-prammuəy,məphɨy-prammuəy,[],,['chan2019'],,False,False,,1
+cent1989-1-27-1,,cent1989-1,27,məphɨy-prampii,məphɨy-prampii,[],,['chan2019'],,False,False,,1
+cent1989-1-28-1,,cent1989-1,28,məphɨy-prambəy,məphɨy-prambəy,[],,['chan2019'],,False,False,,1
+cent1989-1-29-1,,cent1989-1,29,məphɨy-prambuən,məphɨy-prambuən,[],,['chan2019'],,False,False,,1
+cent1989-1-30-1,,cent1989-1,30,ˈsæːmsɤp,ˈsæːmsɤp,[],< Thai ,['chan2019'],,True,False,saamsəp,1
+cent1989-1-40-1,,cent1989-1,40,ˈsæːɛsɤp,ˈsæːɛsɤp,[],,['chan2019'],,False,False,saesəp,1
+cent1989-1-50-1,,cent1989-1,50,ˈhæːsɤp,ˈhæːsɤp,[],,['chan2019'],,False,False,haasəp,1
+cent1989-1-60-1,,cent1989-1,60,ˈhɔʷksɤp,ˈhɔʷksɤp,[],,['chan2019'],,False,False,hoksəp,1
+cent1989-1-70-1,,cent1989-1,70,ˈt͡ʃɤtsɤp,ˈt͡ʃɤtsɤp,[],,['chan2019'],,False,False,cətsəp,1
+cent1989-1-80-1,,cent1989-1,80,ˈpæːɛsɤp,ˈpæːɛsɤp,[],,['chan2019'],,False,False,paetsəp,1
+cent1989-1-90-1,,cent1989-1,90,ˈkæːwsɤp,ˈkæːwsɤp,[],,['chan2019'],,False,False,kawsəp,1
+cent1989-1-100-1,,cent1989-1,100,rɔːj,rɔːj,[],,['chan2019'],,False,False,muəy rooy,1
+cent1989-1-200-1,,cent1989-1,200,pii rooy,pii rooy,[],,['chan2019'],,False,False,,1
+cent1989-1-1000-1,,cent1989-1,1000,pɔən,pɔən,[],,['chan2019'],,False,False,muəy poən,1
+cent1989-1-2000-1,,cent1989-1,2000,pii poən,pii poən,[],,['chan2019'],,False,False,,1

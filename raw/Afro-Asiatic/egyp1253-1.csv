@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-egyp1253-1-1-1,,egyp1253-1,1,waaɦid,waaɦid,[],(masc),[],,False,False,,1
-egyp1253-1-1-2,,egyp1253-1,1,waɦda,waɦda,[],(fem),[],,False,False,,1
-egyp1253-1-2-1,,egyp1253-1,2,ʕitneen,ʕitneen,[],,[],,False,False,,1
-egyp1253-1-3-1,,egyp1253-1,3,talaata,talaata,[],,[],,False,False,,1
-egyp1253-1-4-1,,egyp1253-1,4,arbaʕa,arbaʕa,[],,[],,False,False,,1
-egyp1253-1-5-1,,egyp1253-1,5,xamsa,xamsa,[],,[],,False,False,,1
-egyp1253-1-6-1,,egyp1253-1,6,sitta,sitta,[],,[],,False,False,,1
-egyp1253-1-7-1,,egyp1253-1,7,sabʕa,sabʕa,[],,[],,False,False,,1
-egyp1253-1-8-1,,egyp1253-1,8,tamanya,tamanya,[],,[],,False,False,,1
-egyp1253-1-9-1,,egyp1253-1,9,tisʕa,tisʕa,[],,[],,False,False,,1
-egyp1253-1-10-1,,egyp1253-1,10,ʕašr̩a,ʕašr̩a,[],,[],,False,False,,1
-egyp1253-1-11-1,,egyp1253-1,11,ɦid̩aašaṛ,ɦid̩aašaṛ,[],,[],,False,False,,1
-egyp1253-1-12-1,,egyp1253-1,12,it̩naašaṛ,it̩naašaṛ,[],,[],,False,False,,1
-egyp1253-1-13-1,,egyp1253-1,13,talat̩t̩aašaṛ,talat̩t̩aašaṛ,[],,[],,False,False,,1
-egyp1253-1-14-1,,egyp1253-1,14,aṛbaʕṣṭaašaṛ,aṛbaʕṣṭaašaṛ,[],,[],,False,False,,1
-egyp1253-1-15-1,,egyp1253-1,15,xamṣṭaašaṛ,xamṣṭaašaṛ,[],,[],,False,False,,1
-egyp1253-1-16-1,,egyp1253-1,16,siṭṭ̩aašaṛ,siṭṭ̩aašaṛ,[],,[],,False,False,,1
-egyp1253-1-17-1,,egyp1253-1,17,sabʕt̩aašaṛ,sabʕt̩aašaṛ,[],,[],,False,False,,1
-egyp1253-1-18-1,,egyp1253-1,18,tamant̩aašaṛ,tamant̩aašaṛ,[],,[],,False,False,,1
-egyp1253-1-19-1,,egyp1253-1,19,tisʕat̩aašaṛ,tisʕat̩aašaṛ,[],,[],,False,False,,1
-egyp1253-1-20-1,,egyp1253-1,20,ʕišriin,ʕišriin,[],,[],,False,False,,1
-egyp1253-1-21-1,,egyp1253-1,21,waaɦid wiʕišriin,waaɦid wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-22-1,,egyp1253-1,22,itneen wiʕišriin,itneen wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-23-1,,egyp1253-1,23,talaata wiʕišriin,talaata wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-24-1,,egyp1253-1,24,aṛbaʕa wiʕišriin,aṛbaʕa wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-25-1,,egyp1253-1,25,xamsa wiʕišriin,xamsa wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-26-1,,egyp1253-1,26,sitta wiʕišriin,sitta wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-27-1,,egyp1253-1,27,sabʕa wiʕišriin,sabʕa wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-28-1,,egyp1253-1,28,tamanya wiʕišriin,tamanya wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-29-1,,egyp1253-1,29,tisʕa wiʕišriin,tisʕa wiʕišriin,[],,[],,False,False,,1
-egyp1253-1-30-1,,egyp1253-1,30,talatiin,talatiin,[],,[],,False,False,,1
-egyp1253-1-40-1,,egyp1253-1,40,arbiʕiin,arbiʕiin,[],,[],,False,False,,1
-egyp1253-1-50-1,,egyp1253-1,50,xamsiin,xamsiin,[],,[],,False,False,,1
-egyp1253-1-60-1,,egyp1253-1,60,sittiin,sittiin,[],,[],,False,False,,1
-egyp1253-1-70-1,,egyp1253-1,70,sabʕiin,sabʕiin,[],,[],,False,False,,1
-egyp1253-1-80-1,,egyp1253-1,80,tamaniin,tamaniin,[],,[],,False,False,,1
-egyp1253-1-90-1,,egyp1253-1,90,tisʕiin,tisʕiin,[],,[],,False,False,,1
-egyp1253-1-100-1,,egyp1253-1,100,miyya,miyya,[],,[],,False,False,,1
-egyp1253-1-200-1,,egyp1253-1,200,miteen,miteen,[],,[],,False,False,,1
-egyp1253-1-1000-1,,egyp1253-1,1000,alf,alf,[],,[],,False,False,,1
-egyp1253-1-2000-1,,egyp1253-1,2000,ʕalféen,ʕalféen,[],,[],,False,False,,1
+egyp1253-1-1-1,,egyp1253-1,1,waaɦid,waaɦid,[],(masc),['chan2019'],,False,False,,1
+egyp1253-1-1-2,,egyp1253-1,1,waɦda,waɦda,[],(fem),['chan2019'],,False,False,,1
+egyp1253-1-2-1,,egyp1253-1,2,ʕitneen,ʕitneen,[],,['chan2019'],,False,False,,1
+egyp1253-1-3-1,,egyp1253-1,3,talaata,talaata,[],,['chan2019'],,False,False,,1
+egyp1253-1-4-1,,egyp1253-1,4,arbaʕa,arbaʕa,[],,['chan2019'],,False,False,,1
+egyp1253-1-5-1,,egyp1253-1,5,xamsa,xamsa,[],,['chan2019'],,False,False,,1
+egyp1253-1-6-1,,egyp1253-1,6,sitta,sitta,[],,['chan2019'],,False,False,,1
+egyp1253-1-7-1,,egyp1253-1,7,sabʕa,sabʕa,[],,['chan2019'],,False,False,,1
+egyp1253-1-8-1,,egyp1253-1,8,tamanya,tamanya,[],,['chan2019'],,False,False,,1
+egyp1253-1-9-1,,egyp1253-1,9,tisʕa,tisʕa,[],,['chan2019'],,False,False,,1
+egyp1253-1-10-1,,egyp1253-1,10,ʕašr̩a,ʕašr̩a,[],,['chan2019'],,False,False,,1
+egyp1253-1-11-1,,egyp1253-1,11,ɦid̩aašaṛ,ɦid̩aašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-12-1,,egyp1253-1,12,it̩naašaṛ,it̩naašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-13-1,,egyp1253-1,13,talat̩t̩aašaṛ,talat̩t̩aašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-14-1,,egyp1253-1,14,aṛbaʕṣṭaašaṛ,aṛbaʕṣṭaašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-15-1,,egyp1253-1,15,xamṣṭaašaṛ,xamṣṭaašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-16-1,,egyp1253-1,16,siṭṭ̩aašaṛ,siṭṭ̩aašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-17-1,,egyp1253-1,17,sabʕt̩aašaṛ,sabʕt̩aašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-18-1,,egyp1253-1,18,tamant̩aašaṛ,tamant̩aašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-19-1,,egyp1253-1,19,tisʕat̩aašaṛ,tisʕat̩aašaṛ,[],,['chan2019'],,False,False,,1
+egyp1253-1-20-1,,egyp1253-1,20,ʕišriin,ʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-21-1,,egyp1253-1,21,waaɦid wiʕišriin,waaɦid wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-22-1,,egyp1253-1,22,itneen wiʕišriin,itneen wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-23-1,,egyp1253-1,23,talaata wiʕišriin,talaata wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-24-1,,egyp1253-1,24,aṛbaʕa wiʕišriin,aṛbaʕa wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-25-1,,egyp1253-1,25,xamsa wiʕišriin,xamsa wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-26-1,,egyp1253-1,26,sitta wiʕišriin,sitta wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-27-1,,egyp1253-1,27,sabʕa wiʕišriin,sabʕa wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-28-1,,egyp1253-1,28,tamanya wiʕišriin,tamanya wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-29-1,,egyp1253-1,29,tisʕa wiʕišriin,tisʕa wiʕišriin,[],,['chan2019'],,False,False,,1
+egyp1253-1-30-1,,egyp1253-1,30,talatiin,talatiin,[],,['chan2019'],,False,False,,1
+egyp1253-1-40-1,,egyp1253-1,40,arbiʕiin,arbiʕiin,[],,['chan2019'],,False,False,,1
+egyp1253-1-50-1,,egyp1253-1,50,xamsiin,xamsiin,[],,['chan2019'],,False,False,,1
+egyp1253-1-60-1,,egyp1253-1,60,sittiin,sittiin,[],,['chan2019'],,False,False,,1
+egyp1253-1-70-1,,egyp1253-1,70,sabʕiin,sabʕiin,[],,['chan2019'],,False,False,,1
+egyp1253-1-80-1,,egyp1253-1,80,tamaniin,tamaniin,[],,['chan2019'],,False,False,,1
+egyp1253-1-90-1,,egyp1253-1,90,tisʕiin,tisʕiin,[],,['chan2019'],,False,False,,1
+egyp1253-1-100-1,,egyp1253-1,100,miyya,miyya,[],,['chan2019'],,False,False,,1
+egyp1253-1-200-1,,egyp1253-1,200,miteen,miteen,[],,['chan2019'],,False,False,,1
+egyp1253-1-1000-1,,egyp1253-1,1000,alf,alf,[],,['chan2019'],,False,False,,1
+egyp1253-1-2000-1,,egyp1253-1,2000,ʕalféen,ʕalféen,[],,['chan2019'],,False,False,,1

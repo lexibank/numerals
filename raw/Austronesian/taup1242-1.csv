@@ -1,26 +1,26 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-taup1242-1-1-1,,taup1242-1,1,emosi,emosi,[],,[],,False,False,,1
-taup1242-1-1-2,,taup1242-1,1,eseɡa,eseɡa,[],,[],,False,False,,1
-taup1242-1-2-1,,taup1242-1,2,luaɡa,luaɡa,[],,[],,False,False,,1
-taup1242-1-3-1,,taup1242-1,3,tonuɡa,tonuɡa,[],,[],,False,False,,1
-taup1242-1-4-1,,taup1242-1,4,wonepari,wonepari,[],,[],,False,False,,1
-taup1242-1-4-2,,taup1242-1,4,luaɡa ma luaɡa,luaɡa ma luaɡa,[],,[],,False,False,,1
-taup1242-1-5-1,,taup1242-1,5,nima emosi i tutu,nima emosi i tutu,[],( lit: 'hand 3SG-hit' ),[],,False,False,,1
-taup1242-1-6-1,,taup1242-1,6,nima emosi i tutu emosi,nima emosi i tutu emosi,[],,[],,False,False,,1
-taup1242-1-6-2,,taup1242-1,6,eseɡa,eseɡa,[],( litː 'five and one' ),[],,False,False,,1
-taup1242-1-7-1,,taup1242-1,7,nima emosi i tutu luaɡa,nima emosi i tutu luaɡa,[],,[],,False,False,,1
-taup1242-1-8-1,,taup1242-1,8,nima emosi i tutu tonuɡa,nima emosi i tutu tonuɡa,[],,[],,False,False,,1
-taup1242-1-9-1,,taup1242-1,9,nima emosi i tutu wonepali,nima emosi i tutu wonepali,[],,[],,False,False,,1
-taup1242-1-10-1,,taup1242-1,10,nima luaɡa i tutu,nima luaɡa i tutu,[],( lit: 'hand two 3SG-hit' ),[],,False,False,,1
-taup1242-1-11-1,,taup1242-1,11,nima luaɡa i tutu ma au ae emosi,nima luaɡa i tutu ma au ae emosi,[],,[],,False,False,,1
-taup1242-1-11-2,,taup1242-1,11,eseɡa,eseɡa,[],,[],,False,False,,1
-taup1242-1-12-1,,taup1242-1,12,nima luaɡa i tutu ma au ae luaɡa,nima luaɡa i tutu ma au ae luaɡa,[],,[],,False,False,,1
-taup1242-1-13-1,,taup1242-1,13,nima luaɡa i tutu ma au ae tonuɡa,nima luaɡa i tutu ma au ae tonuɡa,[],,[],,False,False,,1
-taup1242-1-14-1,,taup1242-1,14,nima luaɡa i tutu ma au ae wonepali,nima luaɡa i tutu ma au ae wonepali,[],,[],,False,False,,1
-taup1242-1-15-1,,taup1242-1,15,nima luaɡa i tutu ma au ae nima emosi i tutu,nima luaɡa i tutu ma au ae nima emosi i tutu,[],,[],,False,False,,1
-taup1242-1-16-1,,taup1242-1,16,nima luaɡa i tutu ma au ae nima emosi i tutu emosi,nima luaɡa i tutu ma au ae nima emosi i tutu emosi,[],,[],,False,False,,1
-taup1242-1-16-2,,taup1242-1,16,eseɡa,eseɡa,[],,[],,False,False,,1
-taup1242-1-17-1,,taup1242-1,17,nima luaɡa i tutu ma au ae nima emosi i tutu luaɡa,nima luaɡa i tutu ma au ae nima emosi i tutu luaɡa,[],,[],,False,False,,1
-taup1242-1-18-1,,taup1242-1,18,nima luaɡa i tutu ma au ae nima emosi i tutu tonuɡa,nima luaɡa i tutu ma au ae nima emosi i tutu tonuɡa,[],,[],,False,False,,1
-taup1242-1-19-1,,taup1242-1,19,nima luaɡa i tutu ma au ae nima emosi i tutu wonepali,nima luaɡa i tutu ma au ae nima emosi i tutu wonepali,[],,[],,False,False,,1
-taup1242-1-20-1,,taup1242-1,20,oroto-emosi-i-irage,oroto-emosi-i-irage,[],(litː 'man one is dead'),[],,False,False,,1
+taup1242-1-1-1,,taup1242-1,1,emosi,emosi,[],,['chan2019'],,False,False,,1
+taup1242-1-1-2,,taup1242-1,1,eseɡa,eseɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-2-1,,taup1242-1,2,luaɡa,luaɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-3-1,,taup1242-1,3,tonuɡa,tonuɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-4-1,,taup1242-1,4,wonepari,wonepari,[],,['chan2019'],,False,False,,1
+taup1242-1-4-2,,taup1242-1,4,luaɡa ma luaɡa,luaɡa ma luaɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-5-1,,taup1242-1,5,nima emosi i tutu,nima emosi i tutu,[],( lit: 'hand 3SG-hit' ),['chan2019'],,False,False,,1
+taup1242-1-6-1,,taup1242-1,6,nima emosi i tutu emosi,nima emosi i tutu emosi,[],,['chan2019'],,False,False,,1
+taup1242-1-6-2,,taup1242-1,6,eseɡa,eseɡa,[],( litː 'five and one' ),['chan2019'],,False,False,,1
+taup1242-1-7-1,,taup1242-1,7,nima emosi i tutu luaɡa,nima emosi i tutu luaɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-8-1,,taup1242-1,8,nima emosi i tutu tonuɡa,nima emosi i tutu tonuɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-9-1,,taup1242-1,9,nima emosi i tutu wonepali,nima emosi i tutu wonepali,[],,['chan2019'],,False,False,,1
+taup1242-1-10-1,,taup1242-1,10,nima luaɡa i tutu,nima luaɡa i tutu,[],( lit: 'hand two 3SG-hit' ),['chan2019'],,False,False,,1
+taup1242-1-11-1,,taup1242-1,11,nima luaɡa i tutu ma au ae emosi,nima luaɡa i tutu ma au ae emosi,[],,['chan2019'],,False,False,,1
+taup1242-1-11-2,,taup1242-1,11,eseɡa,eseɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-12-1,,taup1242-1,12,nima luaɡa i tutu ma au ae luaɡa,nima luaɡa i tutu ma au ae luaɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-13-1,,taup1242-1,13,nima luaɡa i tutu ma au ae tonuɡa,nima luaɡa i tutu ma au ae tonuɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-14-1,,taup1242-1,14,nima luaɡa i tutu ma au ae wonepali,nima luaɡa i tutu ma au ae wonepali,[],,['chan2019'],,False,False,,1
+taup1242-1-15-1,,taup1242-1,15,nima luaɡa i tutu ma au ae nima emosi i tutu,nima luaɡa i tutu ma au ae nima emosi i tutu,[],,['chan2019'],,False,False,,1
+taup1242-1-16-1,,taup1242-1,16,nima luaɡa i tutu ma au ae nima emosi i tutu emosi,nima luaɡa i tutu ma au ae nima emosi i tutu emosi,[],,['chan2019'],,False,False,,1
+taup1242-1-16-2,,taup1242-1,16,eseɡa,eseɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-17-1,,taup1242-1,17,nima luaɡa i tutu ma au ae nima emosi i tutu luaɡa,nima luaɡa i tutu ma au ae nima emosi i tutu luaɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-18-1,,taup1242-1,18,nima luaɡa i tutu ma au ae nima emosi i tutu tonuɡa,nima luaɡa i tutu ma au ae nima emosi i tutu tonuɡa,[],,['chan2019'],,False,False,,1
+taup1242-1-19-1,,taup1242-1,19,nima luaɡa i tutu ma au ae nima emosi i tutu wonepali,nima luaɡa i tutu ma au ae nima emosi i tutu wonepali,[],,['chan2019'],,False,False,,1
+taup1242-1-20-1,,taup1242-1,20,oroto-emosi-i-irage,oroto-emosi-i-irage,[],(litː 'man one is dead'),['chan2019'],,False,False,,1

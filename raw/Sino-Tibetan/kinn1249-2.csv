@@ -1,46 +1,46 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kinn1249-2-1-1,,kinn1249-2,1,id,id,[],,[],,False,False,,2
-kinn1249-2-2-1,,kinn1249-2,2,niʃ,niʃ,[],,[],,False,False,,2
-kinn1249-2-3-1,,kinn1249-2,3,sum,sum,[],,[],,False,False,,2
-kinn1249-2-3-2,,kinn1249-2,3,homo,homo,[],,[],,False,False,,2
-kinn1249-2-4-1,,kinn1249-2,4,pəː,pəː,[],,[],,False,False,,2
-kinn1249-2-5-1,,kinn1249-2,5,ŋa,ŋa,[],,[],,False,False,,2
-kinn1249-2-6-1,,kinn1249-2,6,ʈuk,ʈuk,[],,[],,False,False,,2
-kinn1249-2-7-1,,kinn1249-2,7,tiʃ,tiʃ,[],,[],,False,False,,2
-kinn1249-2-7-2,,kinn1249-2,7,stiʃ,stiʃ,[],,[],,False,False,,2
-kinn1249-2-8-1,,kinn1249-2,8,rəy,rəy,[],,[],,False,False,,2
-kinn1249-2-8-2,,kinn1249-2,8,rɛ,rɛ,[],,[],,False,False,,2
-kinn1249-2-9-1,,kinn1249-2,9,sɡui,sɡui,[],,[],,False,False,,2
-kinn1249-2-9-2,,kinn1249-2,9,ɡui,ɡui,[],,[],,False,False,,2
-kinn1249-2-10-1,,kinn1249-2,10,səy,səy,[],,[],,False,False,,2
-kinn1249-2-10-2,,kinn1249-2,10,sɛ,sɛ,[],,[],,False,False,,2
-kinn1249-2-11-1,,kinn1249-2,11,sihid,sihid,[],,[],,False,False,,2
-kinn1249-2-12-1,,kinn1249-2,12,soniʃ,soniʃ,[],,[],,False,False,,2
-kinn1249-2-13-1,,kinn1249-2,13,sorum,sorum,[],,[],,False,False,,2
-kinn1249-2-14-1,,kinn1249-2,14,sapəː,sapəː,[],,[],,False,False,,2
-kinn1249-2-15-1,,kinn1249-2,15,soŋa,soŋa,[],,[],,False,False,,2
-kinn1249-2-16-1,,kinn1249-2,16,soruk,soruk,[],,[],,False,False,,2
-kinn1249-2-17-1,,kinn1249-2,17,səstiʃ,səstiʃ,[],,[],,False,False,,2
-kinn1249-2-18-1,,kinn1249-2,18,sorəy,sorəy,[],,[],,False,False,,2
-kinn1249-2-19-1,,kinn1249-2,19,sosɡui,sosɡui,[],,[],,False,False,,2
-kinn1249-2-20-1,,kinn1249-2,20,niza,niza,[],,[],,False,False,,2
-kinn1249-2-21-1,,kinn1249-2,21,nizoid,nizoid,[],,[],,False,False,,2
-kinn1249-2-22-1,,kinn1249-2,22,nizoniʃ,nizoniʃ,[],,[],,False,False,,2
-kinn1249-2-23-1,,kinn1249-2,23,nizosum,nizosum,[],,[],,False,False,,2
-kinn1249-2-24-1,,kinn1249-2,24,nizopəː,nizopəː,[],,[],,False,False,,2
-kinn1249-2-25-1,,kinn1249-2,25,nizoŋa,nizoŋa,[],,[],,False,False,,2
-kinn1249-2-26-1,,kinn1249-2,26,nizoʈuk,nizoʈuk,[],,[],,False,False,,2
-kinn1249-2-27-1,,kinn1249-2,27,nizostiʃ,nizostiʃ,[],,[],,False,False,,2
-kinn1249-2-28-1,,kinn1249-2,28,nizorəy,nizorəy,[],,[],,False,False,,2
-kinn1249-2-29-1,,kinn1249-2,29,nizosɡui,nizosɡui,[],,[],,False,False,,2
-kinn1249-2-30-1,,kinn1249-2,30,nizosəy,nizosəy,[],,[],,False,False,,2
-kinn1249-2-40-1,,kinn1249-2,40,niʃniza,niʃniza,[],( 2 x 20 ),[],,False,False,,2
-kinn1249-2-50-1,,kinn1249-2,50,niʃnizo səy,niʃnizo səy,[],,[],,False,False,,2
-kinn1249-2-60-1,,kinn1249-2,60,sumniza,sumniza,[],( 3 x 20 ),[],,False,False,,2
-kinn1249-2-70-1,,kinn1249-2,70,sumnizo səy,sumnizo səy,[],,[],,False,False,,2
-kinn1249-2-80-1,,kinn1249-2,80,pəniza,pəniza,[],( 4 x 20 ),[],,False,False,,2
-kinn1249-2-90-1,,kinn1249-2,90,pənizo səy,pənizo səy,[],,[],,False,False,,2
-kinn1249-2-100-1,,kinn1249-2,100,ra,ra,[],,[],,False,False,,2
-kinn1249-2-200-1,,kinn1249-2,200,niʃra,niʃra,[],,[],,False,False,,2
-kinn1249-2-1000-1,,kinn1249-2,1000,həzar,həzar,[],< from Indo-Aryan ,[],,True,False,,2
-kinn1249-2-2000-1,,kinn1249-2,2000,niʃ həzar,niʃ həzar,[],,[],,False,False,,2
+kinn1249-2-1-1,,kinn1249-2,1,id,id,[],,['chan2019'],,False,False,,2
+kinn1249-2-2-1,,kinn1249-2,2,niʃ,niʃ,[],,['chan2019'],,False,False,,2
+kinn1249-2-3-1,,kinn1249-2,3,sum,sum,[],,['chan2019'],,False,False,,2
+kinn1249-2-3-2,,kinn1249-2,3,homo,homo,[],,['chan2019'],,False,False,,2
+kinn1249-2-4-1,,kinn1249-2,4,pəː,pəː,[],,['chan2019'],,False,False,,2
+kinn1249-2-5-1,,kinn1249-2,5,ŋa,ŋa,[],,['chan2019'],,False,False,,2
+kinn1249-2-6-1,,kinn1249-2,6,ʈuk,ʈuk,[],,['chan2019'],,False,False,,2
+kinn1249-2-7-1,,kinn1249-2,7,tiʃ,tiʃ,[],,['chan2019'],,False,False,,2
+kinn1249-2-7-2,,kinn1249-2,7,stiʃ,stiʃ,[],,['chan2019'],,False,False,,2
+kinn1249-2-8-1,,kinn1249-2,8,rəy,rəy,[],,['chan2019'],,False,False,,2
+kinn1249-2-8-2,,kinn1249-2,8,rɛ,rɛ,[],,['chan2019'],,False,False,,2
+kinn1249-2-9-1,,kinn1249-2,9,sɡui,sɡui,[],,['chan2019'],,False,False,,2
+kinn1249-2-9-2,,kinn1249-2,9,ɡui,ɡui,[],,['chan2019'],,False,False,,2
+kinn1249-2-10-1,,kinn1249-2,10,səy,səy,[],,['chan2019'],,False,False,,2
+kinn1249-2-10-2,,kinn1249-2,10,sɛ,sɛ,[],,['chan2019'],,False,False,,2
+kinn1249-2-11-1,,kinn1249-2,11,sihid,sihid,[],,['chan2019'],,False,False,,2
+kinn1249-2-12-1,,kinn1249-2,12,soniʃ,soniʃ,[],,['chan2019'],,False,False,,2
+kinn1249-2-13-1,,kinn1249-2,13,sorum,sorum,[],,['chan2019'],,False,False,,2
+kinn1249-2-14-1,,kinn1249-2,14,sapəː,sapəː,[],,['chan2019'],,False,False,,2
+kinn1249-2-15-1,,kinn1249-2,15,soŋa,soŋa,[],,['chan2019'],,False,False,,2
+kinn1249-2-16-1,,kinn1249-2,16,soruk,soruk,[],,['chan2019'],,False,False,,2
+kinn1249-2-17-1,,kinn1249-2,17,səstiʃ,səstiʃ,[],,['chan2019'],,False,False,,2
+kinn1249-2-18-1,,kinn1249-2,18,sorəy,sorəy,[],,['chan2019'],,False,False,,2
+kinn1249-2-19-1,,kinn1249-2,19,sosɡui,sosɡui,[],,['chan2019'],,False,False,,2
+kinn1249-2-20-1,,kinn1249-2,20,niza,niza,[],,['chan2019'],,False,False,,2
+kinn1249-2-21-1,,kinn1249-2,21,nizoid,nizoid,[],,['chan2019'],,False,False,,2
+kinn1249-2-22-1,,kinn1249-2,22,nizoniʃ,nizoniʃ,[],,['chan2019'],,False,False,,2
+kinn1249-2-23-1,,kinn1249-2,23,nizosum,nizosum,[],,['chan2019'],,False,False,,2
+kinn1249-2-24-1,,kinn1249-2,24,nizopəː,nizopəː,[],,['chan2019'],,False,False,,2
+kinn1249-2-25-1,,kinn1249-2,25,nizoŋa,nizoŋa,[],,['chan2019'],,False,False,,2
+kinn1249-2-26-1,,kinn1249-2,26,nizoʈuk,nizoʈuk,[],,['chan2019'],,False,False,,2
+kinn1249-2-27-1,,kinn1249-2,27,nizostiʃ,nizostiʃ,[],,['chan2019'],,False,False,,2
+kinn1249-2-28-1,,kinn1249-2,28,nizorəy,nizorəy,[],,['chan2019'],,False,False,,2
+kinn1249-2-29-1,,kinn1249-2,29,nizosɡui,nizosɡui,[],,['chan2019'],,False,False,,2
+kinn1249-2-30-1,,kinn1249-2,30,nizosəy,nizosəy,[],,['chan2019'],,False,False,,2
+kinn1249-2-40-1,,kinn1249-2,40,niʃniza,niʃniza,[],( 2 x 20 ),['chan2019'],,False,False,,2
+kinn1249-2-50-1,,kinn1249-2,50,niʃnizo səy,niʃnizo səy,[],,['chan2019'],,False,False,,2
+kinn1249-2-60-1,,kinn1249-2,60,sumniza,sumniza,[],( 3 x 20 ),['chan2019'],,False,False,,2
+kinn1249-2-70-1,,kinn1249-2,70,sumnizo səy,sumnizo səy,[],,['chan2019'],,False,False,,2
+kinn1249-2-80-1,,kinn1249-2,80,pəniza,pəniza,[],( 4 x 20 ),['chan2019'],,False,False,,2
+kinn1249-2-90-1,,kinn1249-2,90,pənizo səy,pənizo səy,[],,['chan2019'],,False,False,,2
+kinn1249-2-100-1,,kinn1249-2,100,ra,ra,[],,['chan2019'],,False,False,,2
+kinn1249-2-200-1,,kinn1249-2,200,niʃra,niʃra,[],,['chan2019'],,False,False,,2
+kinn1249-2-1000-1,,kinn1249-2,1000,həzar,həzar,[],< from Indo-Aryan ,['chan2019'],,True,False,,2
+kinn1249-2-2000-1,,kinn1249-2,2000,niʃ həzar,niʃ həzar,[],,['chan2019'],,False,False,,2

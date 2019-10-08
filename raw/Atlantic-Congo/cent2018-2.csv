@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cent2018-2-1-1,,cent2018-2,1,ɡoʔo,ɡoʔo,[],,[],,False,False,,1
-cent2018-2-2-1,,cent2018-2,2,ɗiɗi,ɗiɗi,[],,[],,False,False,,1
-cent2018-2-3-1,,cent2018-2,3,tati,tati,[],,[],,False,False,,1
-cent2018-2-4-1,,cent2018-2,4,nayi,nayi,[],,[],,False,False,,1
-cent2018-2-5-1,,cent2018-2,5,ɟoβi,ɟoβi,[],,[],,False,False,,1
-cent2018-2-6-1,,cent2018-2,6,ɟoβeeɡoʔo,ɟoβeeɡoʔo,[],( 5 + 1 ),[],,False,False,,1
-cent2018-2-7-1,,cent2018-2,7,ɟoβeeɗɗi,ɟoβeeɗɗi,[],( 5 + 2 ),[],,False,False,,1
-cent2018-2-8-1,,cent2018-2,8,ɟoβeetati,ɟoβeetati,[],( 5 + 3 ),[],,False,False,,1
-cent2018-2-9-1,,cent2018-2,9,ɟoβeenayi,ɟoβeenayi,[],( 5 + 4 ),[],,False,False,,1
-cent2018-2-10-1,,cent2018-2,10,sappo,sappo,[],,[],,False,False,,1
-cent2018-2-11-1,,cent2018-2,11,sappo e ɡoʔo,sappo e ɡoʔo,[],,[],,False,False,,1
-cent2018-2-12-1,,cent2018-2,12,sappo e ɗiɗi,sappo e ɗiɗi,[],,[],,False,False,,1
-cent2018-2-13-1,,cent2018-2,13,sappo e tati,sappo e tati,[],,[],,False,False,,1
-cent2018-2-14-1,,cent2018-2,14,sappo e nayi,sappo e nayi,[],,[],,False,False,,1
-cent2018-2-15-1,,cent2018-2,15,sappo e ɟoβi,sappo e ɟoβi,[],,[],,False,False,,1
-cent2018-2-16-1,,cent2018-2,16,sappo e ɟoβeeɡoʔo,sappo e ɟoβeeɡoʔo,[],,[],,False,False,,1
-cent2018-2-17-1,,cent2018-2,17,sappo e ɟoβeeɗɗi,sappo e ɟoβeeɗɗi,[],,[],,False,False,,1
-cent2018-2-18-1,,cent2018-2,18,sappo e ɟoβeetati,sappo e ɟoβeetati,[],,[],,False,False,,1
-cent2018-2-19-1,,cent2018-2,19,sappo e ɟoβeenayi,sappo e ɟoβeenayi,[],,[],,False,False,,1
-cent2018-2-20-1,,cent2018-2,20,asiɾiinin or ʃappanɗe ɗiɗi,asiɾiinin or ʃappanɗe ɗiɗi,[],,[],,False,True,,1
-cent2018-2-21-1,,cent2018-2,21,asiɾiin e ɡoʔo,asiɾiin e ɡoʔo,[],,[],,False,False,,1
-cent2018-2-22-1,,cent2018-2,22,asiɾiin e ɗiɗi,asiɾiin e ɗiɗi,[],,[],,False,False,,1
-cent2018-2-23-1,,cent2018-2,23,asiɾiin e tati,asiɾiin e tati,[],,[],,False,False,,1
-cent2018-2-24-1,,cent2018-2,24,asiɾiin e nayi,asiɾiin e nayi,[],,[],,False,False,,1
-cent2018-2-25-1,,cent2018-2,25,asiɾiin e ɟoβi,asiɾiin e ɟoβi,[],,[],,False,False,,1
-cent2018-2-26-1,,cent2018-2,26,asiɾiin e ɟoβeeɡoʔo,asiɾiin e ɟoβeeɡoʔo,[],,[],,False,False,,1
-cent2018-2-27-1,,cent2018-2,27,asiɾiin e ɟoβeeɗɗi,asiɾiin e ɟoβeeɗɗi,[],,[],,False,False,,1
-cent2018-2-28-1,,cent2018-2,28,asiɾiin e ɟoβeetati,asiɾiin e ɟoβeetati,[],,[],,False,False,,1
-cent2018-2-29-1,,cent2018-2,29,asiɾiin e ɟoβeenayi,asiɾiin e ɟoβeenayi,[],,[],,False,False,,1
-cent2018-2-30-1,,cent2018-2,30,talatin or ʃappanɗe tati,talatin or ʃappanɗe tati,[],,[],,False,True,,1
-cent2018-2-40-1,,cent2018-2,40,aɾbaʔiin or ʃappanɗe nayi,aɾbaʔiin or ʃappanɗe nayi,[],,[],,False,True,,1
-cent2018-2-50-1,,cent2018-2,50,hamsiin or ʃappanɗe ɟoβi,hamsiin or ʃappanɗe ɟoβi,[],,[],,False,True,,1
-cent2018-2-60-1,,cent2018-2,60,sittiin or ʃappanɗe ɟoβeeɡoʔo,sittiin or ʃappanɗe ɟoβeeɡoʔo,[],,[],,False,True,,1
-cent2018-2-70-1,,cent2018-2,70,sabaʔiin or ʃappanɗe ɟoβeeɗɗi,sabaʔiin or ʃappanɗe ɟoβeeɗɗi,[],,[],,False,True,,1
-cent2018-2-80-1,,cent2018-2,80,tamaniin or ʃappanɗe ɟoβeetati,tamaniin or ʃappanɗe ɟoβeetati,[],,[],,False,True,,1
-cent2018-2-90-1,,cent2018-2,90,tasaʔiin or ʃappanɗe ɟoβeenayi,tasaʔiin or ʃappanɗe ɟoβeenayi,[],,[],,False,True,,1
-cent2018-2-100-1,,cent2018-2,100,hemɾe,hemɾe,[],,[],,False,False,,1
-cent2018-2-200-1,,cent2018-2,200,keme ɗiɗi,keme ɗiɗi,[],,[],,False,False,,1
-cent2018-2-1000-1,,cent2018-2,1000,duubu,duubu,[],( < Hausa ),[],,True,False,,1
-cent2018-2-2000-1,,cent2018-2,2000,duubuuɟe ɗiɗi,duubuuɟe ɗiɗi,[],,[],,False,False,,1
+cent2018-2-1-1,,cent2018-2,1,ɡoʔo,ɡoʔo,[],,['chan2019'],,False,False,,1
+cent2018-2-2-1,,cent2018-2,2,ɗiɗi,ɗiɗi,[],,['chan2019'],,False,False,,1
+cent2018-2-3-1,,cent2018-2,3,tati,tati,[],,['chan2019'],,False,False,,1
+cent2018-2-4-1,,cent2018-2,4,nayi,nayi,[],,['chan2019'],,False,False,,1
+cent2018-2-5-1,,cent2018-2,5,ɟoβi,ɟoβi,[],,['chan2019'],,False,False,,1
+cent2018-2-6-1,,cent2018-2,6,ɟoβeeɡoʔo,ɟoβeeɡoʔo,[],( 5 + 1 ),['chan2019'],,False,False,,1
+cent2018-2-7-1,,cent2018-2,7,ɟoβeeɗɗi,ɟoβeeɗɗi,[],( 5 + 2 ),['chan2019'],,False,False,,1
+cent2018-2-8-1,,cent2018-2,8,ɟoβeetati,ɟoβeetati,[],( 5 + 3 ),['chan2019'],,False,False,,1
+cent2018-2-9-1,,cent2018-2,9,ɟoβeenayi,ɟoβeenayi,[],( 5 + 4 ),['chan2019'],,False,False,,1
+cent2018-2-10-1,,cent2018-2,10,sappo,sappo,[],,['chan2019'],,False,False,,1
+cent2018-2-11-1,,cent2018-2,11,sappo e ɡoʔo,sappo e ɡoʔo,[],,['chan2019'],,False,False,,1
+cent2018-2-12-1,,cent2018-2,12,sappo e ɗiɗi,sappo e ɗiɗi,[],,['chan2019'],,False,False,,1
+cent2018-2-13-1,,cent2018-2,13,sappo e tati,sappo e tati,[],,['chan2019'],,False,False,,1
+cent2018-2-14-1,,cent2018-2,14,sappo e nayi,sappo e nayi,[],,['chan2019'],,False,False,,1
+cent2018-2-15-1,,cent2018-2,15,sappo e ɟoβi,sappo e ɟoβi,[],,['chan2019'],,False,False,,1
+cent2018-2-16-1,,cent2018-2,16,sappo e ɟoβeeɡoʔo,sappo e ɟoβeeɡoʔo,[],,['chan2019'],,False,False,,1
+cent2018-2-17-1,,cent2018-2,17,sappo e ɟoβeeɗɗi,sappo e ɟoβeeɗɗi,[],,['chan2019'],,False,False,,1
+cent2018-2-18-1,,cent2018-2,18,sappo e ɟoβeetati,sappo e ɟoβeetati,[],,['chan2019'],,False,False,,1
+cent2018-2-19-1,,cent2018-2,19,sappo e ɟoβeenayi,sappo e ɟoβeenayi,[],,['chan2019'],,False,False,,1
+cent2018-2-20-1,,cent2018-2,20,asiɾiinin or ʃappanɗe ɗiɗi,asiɾiinin or ʃappanɗe ɗiɗi,[],,['chan2019'],,False,True,,1
+cent2018-2-21-1,,cent2018-2,21,asiɾiin e ɡoʔo,asiɾiin e ɡoʔo,[],,['chan2019'],,False,False,,1
+cent2018-2-22-1,,cent2018-2,22,asiɾiin e ɗiɗi,asiɾiin e ɗiɗi,[],,['chan2019'],,False,False,,1
+cent2018-2-23-1,,cent2018-2,23,asiɾiin e tati,asiɾiin e tati,[],,['chan2019'],,False,False,,1
+cent2018-2-24-1,,cent2018-2,24,asiɾiin e nayi,asiɾiin e nayi,[],,['chan2019'],,False,False,,1
+cent2018-2-25-1,,cent2018-2,25,asiɾiin e ɟoβi,asiɾiin e ɟoβi,[],,['chan2019'],,False,False,,1
+cent2018-2-26-1,,cent2018-2,26,asiɾiin e ɟoβeeɡoʔo,asiɾiin e ɟoβeeɡoʔo,[],,['chan2019'],,False,False,,1
+cent2018-2-27-1,,cent2018-2,27,asiɾiin e ɟoβeeɗɗi,asiɾiin e ɟoβeeɗɗi,[],,['chan2019'],,False,False,,1
+cent2018-2-28-1,,cent2018-2,28,asiɾiin e ɟoβeetati,asiɾiin e ɟoβeetati,[],,['chan2019'],,False,False,,1
+cent2018-2-29-1,,cent2018-2,29,asiɾiin e ɟoβeenayi,asiɾiin e ɟoβeenayi,[],,['chan2019'],,False,False,,1
+cent2018-2-30-1,,cent2018-2,30,talatin or ʃappanɗe tati,talatin or ʃappanɗe tati,[],,['chan2019'],,False,True,,1
+cent2018-2-40-1,,cent2018-2,40,aɾbaʔiin or ʃappanɗe nayi,aɾbaʔiin or ʃappanɗe nayi,[],,['chan2019'],,False,True,,1
+cent2018-2-50-1,,cent2018-2,50,hamsiin or ʃappanɗe ɟoβi,hamsiin or ʃappanɗe ɟoβi,[],,['chan2019'],,False,True,,1
+cent2018-2-60-1,,cent2018-2,60,sittiin or ʃappanɗe ɟoβeeɡoʔo,sittiin or ʃappanɗe ɟoβeeɡoʔo,[],,['chan2019'],,False,True,,1
+cent2018-2-70-1,,cent2018-2,70,sabaʔiin or ʃappanɗe ɟoβeeɗɗi,sabaʔiin or ʃappanɗe ɟoβeeɗɗi,[],,['chan2019'],,False,True,,1
+cent2018-2-80-1,,cent2018-2,80,tamaniin or ʃappanɗe ɟoβeetati,tamaniin or ʃappanɗe ɟoβeetati,[],,['chan2019'],,False,True,,1
+cent2018-2-90-1,,cent2018-2,90,tasaʔiin or ʃappanɗe ɟoβeenayi,tasaʔiin or ʃappanɗe ɟoβeenayi,[],,['chan2019'],,False,True,,1
+cent2018-2-100-1,,cent2018-2,100,hemɾe,hemɾe,[],,['chan2019'],,False,False,,1
+cent2018-2-200-1,,cent2018-2,200,keme ɗiɗi,keme ɗiɗi,[],,['chan2019'],,False,False,,1
+cent2018-2-1000-1,,cent2018-2,1000,duubu,duubu,[],( < Hausa ),['chan2019'],,True,False,,1
+cent2018-2-2000-1,,cent2018-2,2000,duubuuɟe ɗiɗi,duubuuɟe ɗiɗi,[],,['chan2019'],,False,False,,1

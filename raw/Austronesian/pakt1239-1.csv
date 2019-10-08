@@ -1,20 +1,20 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pakt1239-1-1-1,,pakt1239-1,1,dip,dip,[],,[],,False,False,,1
-pakt1239-1-2-1,,pakt1239-1,2,(ma)huo,(ma)huo,[],,[],,False,False,,1
-pakt1239-1-3-1,,pakt1239-1,3,(ma)loh,(ma)loh,[],,[],,False,False,,1
-pakt1239-1-4-1,,pakt1239-1,4,(ma)alor,(ma)alor,[],,[],,False,False,,1
-pakt1239-1-5-1,,pakt1239-1,5,(ma)nuron,(ma)nuron,[],,[],,False,False,,1
-pakt1239-1-6-1,,pakt1239-1,6,(ma)wono,(ma)wono,[],,[],,False,False,,1
-pakt1239-1-7-1,,pakt1239-1,7,(ma)arloh,(ma)arloh,[],( 10 - 3 ),[],,False,False,,1
-pakt1239-1-8-1,,pakt1239-1,8,(ma)arhuo,(ma)arhuo,[],( 10 - 2 ),[],,False,False,,1
-pakt1239-1-9-1,,pakt1239-1,9,(ma)ardih,(ma)ardih,[],( 10 - 1 ),[],,False,False,,1
-pakt1239-1-10-1,,pakt1239-1,10,(ma)saŋo,(ma)saŋo,[],,[],,False,False,,1
-pakt1239-1-11-1,,pakt1239-1,11,(ma)saŋo e dip,(ma)saŋo e dip,[],,[],,False,False,,1
-pakt1239-1-12-1,,pakt1239-1,12,(ma)saŋo e duloh,(ma)saŋo e duloh,[],,[],,False,False,,1
-pakt1239-1-13-1,,pakt1239-1,13,(ma)saŋo e dalor,(ma)saŋo e dalor,[],,[],,False,False,,1
-pakt1239-1-14-1,,pakt1239-1,14,(ma)saŋo e nuron,(ma)saŋo e nuron,[],,[],,False,False,,1
-pakt1239-1-17-1,,pakt1239-1,17,(ma)saŋo e darloh,(ma)saŋo e darloh,[],,[],,False,False,,1
-pakt1239-1-19-1,,pakt1239-1,19,(ma)saŋo e dardih,(ma)saŋo e dardih,[],,[],,False,False,,1
-pakt1239-1-20-1,,pakt1239-1,20,kotohandih,kotohandih,[],,[],,False,False,,1
-pakt1239-1-100-1,,pakt1239-1,100,masaŋarh,masaŋarh,[],,[],,False,False,,1
-pakt1239-1-1000-1,,pakt1239-1,1000,mahaŋorh,mahaŋorh,[],,[],,False,False,,1
+pakt1239-1-1-1,,pakt1239-1,1,dip,dip,[],,['chan2019'],,False,False,,1
+pakt1239-1-2-1,,pakt1239-1,2,(ma)huo,(ma)huo,[],,['chan2019'],,False,False,,1
+pakt1239-1-3-1,,pakt1239-1,3,(ma)loh,(ma)loh,[],,['chan2019'],,False,False,,1
+pakt1239-1-4-1,,pakt1239-1,4,(ma)alor,(ma)alor,[],,['chan2019'],,False,False,,1
+pakt1239-1-5-1,,pakt1239-1,5,(ma)nuron,(ma)nuron,[],,['chan2019'],,False,False,,1
+pakt1239-1-6-1,,pakt1239-1,6,(ma)wono,(ma)wono,[],,['chan2019'],,False,False,,1
+pakt1239-1-7-1,,pakt1239-1,7,(ma)arloh,(ma)arloh,[],( 10 - 3 ),['chan2019'],,False,False,,1
+pakt1239-1-8-1,,pakt1239-1,8,(ma)arhuo,(ma)arhuo,[],( 10 - 2 ),['chan2019'],,False,False,,1
+pakt1239-1-9-1,,pakt1239-1,9,(ma)ardih,(ma)ardih,[],( 10 - 1 ),['chan2019'],,False,False,,1
+pakt1239-1-10-1,,pakt1239-1,10,(ma)saŋo,(ma)saŋo,[],,['chan2019'],,False,False,,1
+pakt1239-1-11-1,,pakt1239-1,11,(ma)saŋo e dip,(ma)saŋo e dip,[],,['chan2019'],,False,False,,1
+pakt1239-1-12-1,,pakt1239-1,12,(ma)saŋo e duloh,(ma)saŋo e duloh,[],,['chan2019'],,False,False,,1
+pakt1239-1-13-1,,pakt1239-1,13,(ma)saŋo e dalor,(ma)saŋo e dalor,[],,['chan2019'],,False,False,,1
+pakt1239-1-14-1,,pakt1239-1,14,(ma)saŋo e nuron,(ma)saŋo e nuron,[],,['chan2019'],,False,False,,1
+pakt1239-1-17-1,,pakt1239-1,17,(ma)saŋo e darloh,(ma)saŋo e darloh,[],,['chan2019'],,False,False,,1
+pakt1239-1-19-1,,pakt1239-1,19,(ma)saŋo e dardih,(ma)saŋo e dardih,[],,['chan2019'],,False,False,,1
+pakt1239-1-20-1,,pakt1239-1,20,kotohandih,kotohandih,[],,['chan2019'],,False,False,,1
+pakt1239-1-100-1,,pakt1239-1,100,masaŋarh,masaŋarh,[],,['chan2019'],,False,False,,1
+pakt1239-1-1000-1,,pakt1239-1,1000,mahaŋorh,mahaŋorh,[],,['chan2019'],,False,False,,1

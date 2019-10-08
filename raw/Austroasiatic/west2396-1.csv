@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2396-1-1-1,,west2396-1,1,tiˀ,tiˀ,[],,[],,False,False,,1
-west2396-1-2-1,,west2396-1,2,lʌa,lʌa,[],,[],,False,False,,1
-west2396-1-3-1,,west2396-1,3,lʌue,lʌue,[],,[],,False,False,,1
-west2396-1-4-1,,west2396-1,4,paon,paon,[],,[],,False,False,,1
-west2396-1-5-1,,west2396-1,5,pʰawn,pʰawn,[],,[],,False,False,,1
-west2396-1-6-1,,west2396-1,6,laeh,laeh,[],,[],,False,False,,1
-west2396-1-7-1,,west2396-1,7,aːlaeh,aːlaeh,[],,[],,False,False,,1
-west2396-1-8-1,,west2396-1,8,sʌ teˀ,sʌ teˀ,[],,[],,False,False,,1
-west2396-1-9-1,,west2396-1,9,sʌ taim,sʌ taim,[],,[],,False,False,,1
-west2396-1-10-1,,west2396-1,10,kao,kao,[],,[],,False,False,,1
-west2396-1-11-1,,west2396-1,11,kao roh tiˀ,kao roh tiˀ,[],,[],,False,False,,1
-west2396-1-12-1,,west2396-1,12,kao roh lʌa,kao roh lʌa,[],,[],,False,False,,1
-west2396-1-13-1,,west2396-1,13,kao roh lʌue,kao roh lʌue,[],,[],,False,False,,1
-west2396-1-14-1,,west2396-1,14,kao roh paon,kao roh paon,[],,[],,False,False,,1
-west2396-1-15-1,,west2396-1,15,kao roh pʰawn,kao roh pʰawn,[],,[],,False,False,,1
-west2396-1-16-1,,west2396-1,16,kao roh laeh,kao roh laeh,[],,[],,False,False,,1
-west2396-1-17-1,,west2396-1,17,kao roh aːlaeh,kao roh aːlaeh,[],,[],,False,False,,1
-west2396-1-18-1,,west2396-1,18,kao roh sʌ teˀ,kao roh sʌ teˀ,[],,[],,False,False,,1
-west2396-1-19-1,,west2396-1,19,kao roh sʌ taim,kao roh sʌ taim,[],,[],,False,False,,1
-west2396-1-20-1,,west2396-1,20,ˀŋa,ˀŋa,[],,[],,False,False,,1
-west2396-1-21-1,,west2396-1,21,ˀŋa roh tiˀ,ˀŋa roh tiˀ,[],,[],,False,False,,1
-west2396-1-22-1,,west2396-1,22,ˀŋa roh lʌa,ˀŋa roh lʌa,[],,[],,False,False,,1
-west2396-1-23-1,,west2396-1,23,ˀŋa roh lʌue,ˀŋa roh lʌue,[],,[],,False,False,,1
-west2396-1-24-1,,west2396-1,24,ˀŋa roh paon,ˀŋa roh paon,[],,[],,False,False,,1
-west2396-1-25-1,,west2396-1,25,ˀŋa roh pʰawn,ˀŋa roh pʰawn,[],,[],,False,False,,1
-west2396-1-26-1,,west2396-1,26,ˀŋa roh laeh,ˀŋa roh laeh,[],,[],,False,False,,1
-west2396-1-27-1,,west2396-1,27,ˀŋa roh aːlaeh,ˀŋa roh aːlaeh,[],,[],,False,False,,1
-west2396-1-28-1,,west2396-1,28,ˀŋa roh sʌ teˀ,ˀŋa roh sʌ teˀ,[],,[],,False,False,,1
-west2396-1-29-1,,west2396-1,29,ˀŋa roh sʌ taim,ˀŋa roh sʌ taim,[],,[],,False,False,,1
-west2396-1-30-1,,west2396-1,30,ˀŋue,ˀŋue,[],,[],,False,False,,1
-west2396-1-40-1,,west2396-1,40,rʌ paon,rʌ paon,[],,[],,False,False,,1
-west2396-1-50-1,,west2396-1,50,rʌ hawn,rʌ hawn,[],,[],,False,False,,1
-west2396-1-60-1,,west2396-1,60,lʌŋlaeh,lʌŋlaeh,[],,[],,False,False,,1
-west2396-1-70-1,,west2396-1,70,aːʌŋlaeh,aːʌŋlaeh,[],,[],,False,False,,1
-west2396-1-80-1,,west2396-1,80,rʌteˀ,rʌteˀ,[],,[],,False,False,,1
-west2396-1-90-1,,west2396-1,90,rʌtaim,rʌtaim,[],,[],,False,False,,1
-west2396-1-100-1,,west2396-1,100,tiˀ rawi,tiˀ rawi,[],,[],,False,False,,1
-west2396-1-200-1,,west2396-1,200,lʌa rawi,lʌa rawi,[],,[],,False,False,,1
-west2396-1-1000-1,,west2396-1,1000,tiˀ pian,tiˀ pian,[],< Thai ,[],,True,False,,1
-west2396-1-2000-1,,west2396-1,2000,lʌa pian,lʌa pian,[],,[],,False,False,,1
+west2396-1-1-1,,west2396-1,1,tiˀ,tiˀ,[],,['chan2019'],,False,False,,1
+west2396-1-2-1,,west2396-1,2,lʌa,lʌa,[],,['chan2019'],,False,False,,1
+west2396-1-3-1,,west2396-1,3,lʌue,lʌue,[],,['chan2019'],,False,False,,1
+west2396-1-4-1,,west2396-1,4,paon,paon,[],,['chan2019'],,False,False,,1
+west2396-1-5-1,,west2396-1,5,pʰawn,pʰawn,[],,['chan2019'],,False,False,,1
+west2396-1-6-1,,west2396-1,6,laeh,laeh,[],,['chan2019'],,False,False,,1
+west2396-1-7-1,,west2396-1,7,aːlaeh,aːlaeh,[],,['chan2019'],,False,False,,1
+west2396-1-8-1,,west2396-1,8,sʌ teˀ,sʌ teˀ,[],,['chan2019'],,False,False,,1
+west2396-1-9-1,,west2396-1,9,sʌ taim,sʌ taim,[],,['chan2019'],,False,False,,1
+west2396-1-10-1,,west2396-1,10,kao,kao,[],,['chan2019'],,False,False,,1
+west2396-1-11-1,,west2396-1,11,kao roh tiˀ,kao roh tiˀ,[],,['chan2019'],,False,False,,1
+west2396-1-12-1,,west2396-1,12,kao roh lʌa,kao roh lʌa,[],,['chan2019'],,False,False,,1
+west2396-1-13-1,,west2396-1,13,kao roh lʌue,kao roh lʌue,[],,['chan2019'],,False,False,,1
+west2396-1-14-1,,west2396-1,14,kao roh paon,kao roh paon,[],,['chan2019'],,False,False,,1
+west2396-1-15-1,,west2396-1,15,kao roh pʰawn,kao roh pʰawn,[],,['chan2019'],,False,False,,1
+west2396-1-16-1,,west2396-1,16,kao roh laeh,kao roh laeh,[],,['chan2019'],,False,False,,1
+west2396-1-17-1,,west2396-1,17,kao roh aːlaeh,kao roh aːlaeh,[],,['chan2019'],,False,False,,1
+west2396-1-18-1,,west2396-1,18,kao roh sʌ teˀ,kao roh sʌ teˀ,[],,['chan2019'],,False,False,,1
+west2396-1-19-1,,west2396-1,19,kao roh sʌ taim,kao roh sʌ taim,[],,['chan2019'],,False,False,,1
+west2396-1-20-1,,west2396-1,20,ˀŋa,ˀŋa,[],,['chan2019'],,False,False,,1
+west2396-1-21-1,,west2396-1,21,ˀŋa roh tiˀ,ˀŋa roh tiˀ,[],,['chan2019'],,False,False,,1
+west2396-1-22-1,,west2396-1,22,ˀŋa roh lʌa,ˀŋa roh lʌa,[],,['chan2019'],,False,False,,1
+west2396-1-23-1,,west2396-1,23,ˀŋa roh lʌue,ˀŋa roh lʌue,[],,['chan2019'],,False,False,,1
+west2396-1-24-1,,west2396-1,24,ˀŋa roh paon,ˀŋa roh paon,[],,['chan2019'],,False,False,,1
+west2396-1-25-1,,west2396-1,25,ˀŋa roh pʰawn,ˀŋa roh pʰawn,[],,['chan2019'],,False,False,,1
+west2396-1-26-1,,west2396-1,26,ˀŋa roh laeh,ˀŋa roh laeh,[],,['chan2019'],,False,False,,1
+west2396-1-27-1,,west2396-1,27,ˀŋa roh aːlaeh,ˀŋa roh aːlaeh,[],,['chan2019'],,False,False,,1
+west2396-1-28-1,,west2396-1,28,ˀŋa roh sʌ teˀ,ˀŋa roh sʌ teˀ,[],,['chan2019'],,False,False,,1
+west2396-1-29-1,,west2396-1,29,ˀŋa roh sʌ taim,ˀŋa roh sʌ taim,[],,['chan2019'],,False,False,,1
+west2396-1-30-1,,west2396-1,30,ˀŋue,ˀŋue,[],,['chan2019'],,False,False,,1
+west2396-1-40-1,,west2396-1,40,rʌ paon,rʌ paon,[],,['chan2019'],,False,False,,1
+west2396-1-50-1,,west2396-1,50,rʌ hawn,rʌ hawn,[],,['chan2019'],,False,False,,1
+west2396-1-60-1,,west2396-1,60,lʌŋlaeh,lʌŋlaeh,[],,['chan2019'],,False,False,,1
+west2396-1-70-1,,west2396-1,70,aːʌŋlaeh,aːʌŋlaeh,[],,['chan2019'],,False,False,,1
+west2396-1-80-1,,west2396-1,80,rʌteˀ,rʌteˀ,[],,['chan2019'],,False,False,,1
+west2396-1-90-1,,west2396-1,90,rʌtaim,rʌtaim,[],,['chan2019'],,False,False,,1
+west2396-1-100-1,,west2396-1,100,tiˀ rawi,tiˀ rawi,[],,['chan2019'],,False,False,,1
+west2396-1-200-1,,west2396-1,200,lʌa rawi,lʌa rawi,[],,['chan2019'],,False,False,,1
+west2396-1-1000-1,,west2396-1,1000,tiˀ pian,tiˀ pian,[],< Thai ,['chan2019'],,True,False,,1
+west2396-1-2000-1,,west2396-1,2000,lʌa pian,lʌa pian,[],,['chan2019'],,False,False,,1

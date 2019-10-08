@@ -1,18 +1,18 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pich1237-2-1-1,,pich1237-2,1,aparoni,aparoni,[],,[],,False,False,,1
-pich1237-2-2-1,,pich1237-2,2,apito,apito,[],,[],,False,False,,1
-pich1237-2-3-1,,pich1237-2,3,mava,mava,[],,[],,False,False,,1
-pich1237-2-4-1,,pich1237-2,4,cuatro,cuatro,[],,[],,False,False,,1
-pich1237-2-4-2,,pich1237-2,4,apaka nashi nako,apaka nashi nako,[],,[],,False,False,,1
-pich1237-2-5-1,,pich1237-2,5,cinco,cinco,[],,[],,False,False,,1
-pich1237-2-5-2,,pich1237-2,5,tsonkapaka,tsonkapaka,[],,[],,False,False,,1
-pich1237-2-6-1,,pich1237-2,6,seis,seis,[],,[],,False,False,,1
-pich1237-2-6-2,,pich1237-2,6,apaka,apaka,[],,[],,False,False,,1
-pich1237-2-7-1,,pich1237-2,7,siete,siete,[],,[],,False,False,,1
-pich1237-2-7-2,,pich1237-2,7,tsapatapaka,tsapatapaka,[],,[],,False,False,,1
-pich1237-2-8-1,,pich1237-2,8,ocho,ocho,[],,[],,False,False,,1
-pich1237-2-8-2,,pich1237-2,8,apaka pashini,apaka pashini,[],,[],,False,False,,1
-pich1237-2-9-1,,pich1237-2,9,nueve,nueve,[],,[],,False,False,,1
-pich1237-2-9-2,,pich1237-2,9,otsonkatya,otsonkatya,[],,[],,False,False,,1
-pich1237-2-10-1,,pich1237-2,10,diez,diez,[],,[],,False,False,,1
-pich1237-2-10-2,,pich1237-2,10,tsonkapaka,tsonkapaka,[],,[],,False,False,,1
+pich1237-2-1-1,,pich1237-2,1,aparoni,aparoni,[],,['chan2019'],,False,False,,1
+pich1237-2-2-1,,pich1237-2,2,apito,apito,[],,['chan2019'],,False,False,,1
+pich1237-2-3-1,,pich1237-2,3,mava,mava,[],,['chan2019'],,False,False,,1
+pich1237-2-4-1,,pich1237-2,4,cuatro,cuatro,[],,['chan2019'],,False,False,,1
+pich1237-2-4-2,,pich1237-2,4,apaka nashi nako,apaka nashi nako,[],,['chan2019'],,False,False,,1
+pich1237-2-5-1,,pich1237-2,5,cinco,cinco,[],,['chan2019'],,False,False,,1
+pich1237-2-5-2,,pich1237-2,5,tsonkapaka,tsonkapaka,[],,['chan2019'],,False,False,,1
+pich1237-2-6-1,,pich1237-2,6,seis,seis,[],,['chan2019'],,False,False,,1
+pich1237-2-6-2,,pich1237-2,6,apaka,apaka,[],,['chan2019'],,False,False,,1
+pich1237-2-7-1,,pich1237-2,7,siete,siete,[],,['chan2019'],,False,False,,1
+pich1237-2-7-2,,pich1237-2,7,tsapatapaka,tsapatapaka,[],,['chan2019'],,False,False,,1
+pich1237-2-8-1,,pich1237-2,8,ocho,ocho,[],,['chan2019'],,False,False,,1
+pich1237-2-8-2,,pich1237-2,8,apaka pashini,apaka pashini,[],,['chan2019'],,False,False,,1
+pich1237-2-9-1,,pich1237-2,9,nueve,nueve,[],,['chan2019'],,False,False,,1
+pich1237-2-9-2,,pich1237-2,9,otsonkatya,otsonkatya,[],,['chan2019'],,False,False,,1
+pich1237-2-10-1,,pich1237-2,10,diez,diez,[],,['chan2019'],,False,False,,1
+pich1237-2-10-2,,pich1237-2,10,tsonkapaka,tsonkapaka,[],,['chan2019'],,False,False,,1

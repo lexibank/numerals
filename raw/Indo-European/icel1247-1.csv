@@ -1,49 +1,49 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-icel1247-1-1-1,,icel1247-1,1,ˈeitn,ˈeitn,[],,[],,False,False,einn,1
-icel1247-1-1-2,,icel1247-1,1,ein,ein,[],,[],,False,False,,1
-icel1247-1-1-3,,icel1247-1,1,eitt,eitt,[],,[],,False,False,,1
-icel1247-1-2-1,,icel1247-1,2,ˈtʰveiːɾ,ˈtʰveiːɾ,[],,[],,False,False,tveir,1
-icel1247-1-2-2,,icel1247-1,2,tvær,tvær,[],,[],,False,False,,1
-icel1247-1-2-3,,icel1247-1,2,tvö,tvö,[],,[],,False,False,,1
-icel1247-1-3-1,,icel1247-1,3,ˈθɾiːɾ,ˈθɾiːɾ,[],,[],,False,False,þrír,1
-icel1247-1-3-2,,icel1247-1,3,þrjár,þrjár,[],,[],,False,False,,1
-icel1247-1-3-3,,icel1247-1,3,þrjú,þrjú,[],,[],,False,False,,1
-icel1247-1-4-1,,icel1247-1,4,ˈfjouːɾɪɾ,ˈfjouːɾɪɾ,[],,[],,False,False,fjórir,1
-icel1247-1-4-2,,icel1247-1,4,fjórar,fjórar,[],,[],,False,False,,1
-icel1247-1-4-3,,icel1247-1,4,fjögur,fjögur,[],,[],,False,False,,1
-icel1247-1-5-1,,icel1247-1,5,ˈfɪmː,ˈfɪmː,[],,[],,False,False,fimm,1
-icel1247-1-6-1,,icel1247-1,6,ˈsɛxs,ˈsɛxs,[],,[],,False,False,sex,1
-icel1247-1-7-1,,icel1247-1,7,sjœː,sjœː,[],,[],,False,False,sjö,1
-icel1247-1-8-1,,icel1247-1,8,ˈauhta,ˈauhta,[],,[],,False,False,átta,1
-icel1247-1-9-1,,icel1247-1,9,ˈniːʏ,ˈniːʏ,[],,[],,False,False,níu,1
-icel1247-1-10-1,,icel1247-1,10,ˈtʰiːʏ,ˈtʰiːʏ,[],,[],,False,False,tíu,1
-icel1247-1-11-1,,icel1247-1,11,ˈɛtlɛvʏ,ˈɛtlɛvʏ,[],,[],,False,False,ellefu,1
-icel1247-1-12-1,,icel1247-1,12,ˈtʰoulv,ˈtʰoulv,[],,[],,False,False,tólf,1
-icel1247-1-13-1,,icel1247-1,13,ˈθɾɛhtaun,ˈθɾɛhtaun,[],,[],,False,False,þrettán,1
-icel1247-1-14-1,,icel1247-1,14,ˈfjouɾ̥taun,ˈfjouɾ̥taun,[],,[],,False,False,fjórtán,1
-icel1247-1-15-1,,icel1247-1,15,ˈfɪm̥taun̩,ˈfɪm̥taun̩,[],,[],,False,False,femtán,1
-icel1247-1-16-1,,icel1247-1,16,ˈsexstaun,ˈsexstaun,[],,[],,False,False,sextán,1
-icel1247-1-17-1,,icel1247-1,17,ˈsøyːtjaun,ˈsøyːtjaun,[],,[],,False,False,sautján,1
-icel1247-1-18-1,,icel1247-1,18,ˈauːtjaun,ˈauːtjaun,[],,[],,False,False,átján,1
-icel1247-1-19-1,,icel1247-1,19,ˈniːtjaun,ˈniːtjaun,[],,[],,False,False,nítján,1
-icel1247-1-20-1,,icel1247-1,20,ˈtʰʏhtʏɣʏ,ˈtʰʏhtʏɣʏ,[],,[],,False,False,tuttugu,1
-icel1247-1-21-1,,icel1247-1,21,ˈtʰʏhtʏɣɔˌeitn,ˈtʰʏhtʏɣɔˌeitn,[],,[],,False,False,tuttugu og einn,1
-icel1247-1-22-1,,icel1247-1,22,ˈtʰʏhtʏɣɔˌtʰveiːɾ,ˈtʰʏhtʏɣɔˌtʰveiːɾ,[],,[],,False,False,tuttugu og tveir,1
-icel1247-1-23-1,,icel1247-1,23,ˈtʰʏhtʏɣɔˌθɾiːɾ,ˈtʰʏhtʏɣɔˌθɾiːɾ,[],,[],,False,False,tuttugu og þrír,1
-icel1247-1-24-1,,icel1247-1,24,ˈtʰʏhtʏɣɔˌˈfjouːɾɪɾ,ˈtʰʏhtʏɣɔˌˈfjouːɾɪɾ,[],,[],,False,False,tuttugu og fjórir,1
-icel1247-1-25-1,,icel1247-1,25,ˈtʰʏhtʏɣɔˌfɪmː,ˈtʰʏhtʏɣɔˌfɪmː,[],,[],,False,False,tuttugu ogfimm,1
-icel1247-1-26-1,,icel1247-1,26,ˈtʰʏhtʏɣɔˌsɛxs,ˈtʰʏhtʏɣɔˌsɛxs,[],,[],,False,False,tuttugu og sex,1
-icel1247-1-27-1,,icel1247-1,27,ˈtʰʏhtʏɣɔˌsjœː,ˈtʰʏhtʏɣɔˌsjœː,[],,[],,False,False,tuttugu og sjö,1
-icel1247-1-28-1,,icel1247-1,28,ˈtʰʏhtʏɣɔˌauhta,ˈtʰʏhtʏɣɔˌauhta,[],,[],,False,False,tuttugu ogátta,1
-icel1247-1-29-1,,icel1247-1,29,ˈtʰʏhtʏɣɔˌniːʏ,ˈtʰʏhtʏɣɔˌniːʏ,[],,[],,False,False,tuttugu og níu,1
-icel1247-1-30-1,,icel1247-1,30,ˈθɾjauːtʰiʏ,ˈθɾjauːtʰiʏ,[],,[],,False,False,þrjátíu,1
-icel1247-1-40-1,,icel1247-1,40,ˈfjɶɾtʰiʏ,ˈfjɶɾtʰiʏ,[],,[],,False,False,fiörutíu,1
-icel1247-1-50-1,,icel1247-1,50,ˈfim̥tʰiʏ,ˈfim̥tʰiʏ,[],,[],,False,False,fimmtíu,1
-icel1247-1-60-1,,icel1247-1,60,ˈsɛxstʰiʏ,ˈsɛxstʰiʏ,[],,[],,False,False,sextíu,1
-icel1247-1-70-1,,icel1247-1,70,ˈsjœːtʰiʏ,ˈsjœːtʰiʏ,[],,[],,False,False,sjötíu,1
-icel1247-1-80-1,,icel1247-1,80,ˈauhtaːtʰiʏ,ˈauhtaːtʰiʏ,[],,[],,False,False,áttatíu,1
-icel1247-1-90-1,,icel1247-1,90,ˈniːʏtʰiʏ,ˈniːʏtʰiʏ,[],,[],,False,False,níutíu,1
-icel1247-1-100-1,,icel1247-1,100,ˈeiht ˈhʏntɾað,ˈeiht ˈhʏntɾað,[],,[],,False,False,(eitt) hundrað,1
-icel1247-1-200-1,,icel1247-1,200,ˈtʰvœːhʏntɾað,ˈtʰvœːhʏntɾað,[],,[],,False,False,tvö  hundrað,1
-icel1247-1-1000-1,,icel1247-1,1000,ˈeihtθusʏnt,ˈeihtθusʏnt,[],,[],,False,False,(eitt) þúsund,1
-icel1247-1-2000-1,,icel1247-1,2000,ˈtʰvœːθusʏnt,ˈtʰvœːθusʏnt,[],,[],,False,False,tvö þúsund,1
+icel1247-1-1-1,,icel1247-1,1,ˈeitn,ˈeitn,[],,['chan2019'],,False,False,einn,1
+icel1247-1-1-2,,icel1247-1,1,ein,ein,[],,['chan2019'],,False,False,,1
+icel1247-1-1-3,,icel1247-1,1,eitt,eitt,[],,['chan2019'],,False,False,,1
+icel1247-1-2-1,,icel1247-1,2,ˈtʰveiːɾ,ˈtʰveiːɾ,[],,['chan2019'],,False,False,tveir,1
+icel1247-1-2-2,,icel1247-1,2,tvær,tvær,[],,['chan2019'],,False,False,,1
+icel1247-1-2-3,,icel1247-1,2,tvö,tvö,[],,['chan2019'],,False,False,,1
+icel1247-1-3-1,,icel1247-1,3,ˈθɾiːɾ,ˈθɾiːɾ,[],,['chan2019'],,False,False,þrír,1
+icel1247-1-3-2,,icel1247-1,3,þrjár,þrjár,[],,['chan2019'],,False,False,,1
+icel1247-1-3-3,,icel1247-1,3,þrjú,þrjú,[],,['chan2019'],,False,False,,1
+icel1247-1-4-1,,icel1247-1,4,ˈfjouːɾɪɾ,ˈfjouːɾɪɾ,[],,['chan2019'],,False,False,fjórir,1
+icel1247-1-4-2,,icel1247-1,4,fjórar,fjórar,[],,['chan2019'],,False,False,,1
+icel1247-1-4-3,,icel1247-1,4,fjögur,fjögur,[],,['chan2019'],,False,False,,1
+icel1247-1-5-1,,icel1247-1,5,ˈfɪmː,ˈfɪmː,[],,['chan2019'],,False,False,fimm,1
+icel1247-1-6-1,,icel1247-1,6,ˈsɛxs,ˈsɛxs,[],,['chan2019'],,False,False,sex,1
+icel1247-1-7-1,,icel1247-1,7,sjœː,sjœː,[],,['chan2019'],,False,False,sjö,1
+icel1247-1-8-1,,icel1247-1,8,ˈauhta,ˈauhta,[],,['chan2019'],,False,False,átta,1
+icel1247-1-9-1,,icel1247-1,9,ˈniːʏ,ˈniːʏ,[],,['chan2019'],,False,False,níu,1
+icel1247-1-10-1,,icel1247-1,10,ˈtʰiːʏ,ˈtʰiːʏ,[],,['chan2019'],,False,False,tíu,1
+icel1247-1-11-1,,icel1247-1,11,ˈɛtlɛvʏ,ˈɛtlɛvʏ,[],,['chan2019'],,False,False,ellefu,1
+icel1247-1-12-1,,icel1247-1,12,ˈtʰoulv,ˈtʰoulv,[],,['chan2019'],,False,False,tólf,1
+icel1247-1-13-1,,icel1247-1,13,ˈθɾɛhtaun,ˈθɾɛhtaun,[],,['chan2019'],,False,False,þrettán,1
+icel1247-1-14-1,,icel1247-1,14,ˈfjouɾ̥taun,ˈfjouɾ̥taun,[],,['chan2019'],,False,False,fjórtán,1
+icel1247-1-15-1,,icel1247-1,15,ˈfɪm̥taun̩,ˈfɪm̥taun̩,[],,['chan2019'],,False,False,femtán,1
+icel1247-1-16-1,,icel1247-1,16,ˈsexstaun,ˈsexstaun,[],,['chan2019'],,False,False,sextán,1
+icel1247-1-17-1,,icel1247-1,17,ˈsøyːtjaun,ˈsøyːtjaun,[],,['chan2019'],,False,False,sautján,1
+icel1247-1-18-1,,icel1247-1,18,ˈauːtjaun,ˈauːtjaun,[],,['chan2019'],,False,False,átján,1
+icel1247-1-19-1,,icel1247-1,19,ˈniːtjaun,ˈniːtjaun,[],,['chan2019'],,False,False,nítján,1
+icel1247-1-20-1,,icel1247-1,20,ˈtʰʏhtʏɣʏ,ˈtʰʏhtʏɣʏ,[],,['chan2019'],,False,False,tuttugu,1
+icel1247-1-21-1,,icel1247-1,21,ˈtʰʏhtʏɣɔˌeitn,ˈtʰʏhtʏɣɔˌeitn,[],,['chan2019'],,False,False,tuttugu og einn,1
+icel1247-1-22-1,,icel1247-1,22,ˈtʰʏhtʏɣɔˌtʰveiːɾ,ˈtʰʏhtʏɣɔˌtʰveiːɾ,[],,['chan2019'],,False,False,tuttugu og tveir,1
+icel1247-1-23-1,,icel1247-1,23,ˈtʰʏhtʏɣɔˌθɾiːɾ,ˈtʰʏhtʏɣɔˌθɾiːɾ,[],,['chan2019'],,False,False,tuttugu og þrír,1
+icel1247-1-24-1,,icel1247-1,24,ˈtʰʏhtʏɣɔˌˈfjouːɾɪɾ,ˈtʰʏhtʏɣɔˌˈfjouːɾɪɾ,[],,['chan2019'],,False,False,tuttugu og fjórir,1
+icel1247-1-25-1,,icel1247-1,25,ˈtʰʏhtʏɣɔˌfɪmː,ˈtʰʏhtʏɣɔˌfɪmː,[],,['chan2019'],,False,False,tuttugu ogfimm,1
+icel1247-1-26-1,,icel1247-1,26,ˈtʰʏhtʏɣɔˌsɛxs,ˈtʰʏhtʏɣɔˌsɛxs,[],,['chan2019'],,False,False,tuttugu og sex,1
+icel1247-1-27-1,,icel1247-1,27,ˈtʰʏhtʏɣɔˌsjœː,ˈtʰʏhtʏɣɔˌsjœː,[],,['chan2019'],,False,False,tuttugu og sjö,1
+icel1247-1-28-1,,icel1247-1,28,ˈtʰʏhtʏɣɔˌauhta,ˈtʰʏhtʏɣɔˌauhta,[],,['chan2019'],,False,False,tuttugu ogátta,1
+icel1247-1-29-1,,icel1247-1,29,ˈtʰʏhtʏɣɔˌniːʏ,ˈtʰʏhtʏɣɔˌniːʏ,[],,['chan2019'],,False,False,tuttugu og níu,1
+icel1247-1-30-1,,icel1247-1,30,ˈθɾjauːtʰiʏ,ˈθɾjauːtʰiʏ,[],,['chan2019'],,False,False,þrjátíu,1
+icel1247-1-40-1,,icel1247-1,40,ˈfjɶɾtʰiʏ,ˈfjɶɾtʰiʏ,[],,['chan2019'],,False,False,fiörutíu,1
+icel1247-1-50-1,,icel1247-1,50,ˈfim̥tʰiʏ,ˈfim̥tʰiʏ,[],,['chan2019'],,False,False,fimmtíu,1
+icel1247-1-60-1,,icel1247-1,60,ˈsɛxstʰiʏ,ˈsɛxstʰiʏ,[],,['chan2019'],,False,False,sextíu,1
+icel1247-1-70-1,,icel1247-1,70,ˈsjœːtʰiʏ,ˈsjœːtʰiʏ,[],,['chan2019'],,False,False,sjötíu,1
+icel1247-1-80-1,,icel1247-1,80,ˈauhtaːtʰiʏ,ˈauhtaːtʰiʏ,[],,['chan2019'],,False,False,áttatíu,1
+icel1247-1-90-1,,icel1247-1,90,ˈniːʏtʰiʏ,ˈniːʏtʰiʏ,[],,['chan2019'],,False,False,níutíu,1
+icel1247-1-100-1,,icel1247-1,100,ˈeiht ˈhʏntɾað,ˈeiht ˈhʏntɾað,[],,['chan2019'],,False,False,(eitt) hundrað,1
+icel1247-1-200-1,,icel1247-1,200,ˈtʰvœːhʏntɾað,ˈtʰvœːhʏntɾað,[],,['chan2019'],,False,False,tvö  hundrað,1
+icel1247-1-1000-1,,icel1247-1,1000,ˈeihtθusʏnt,ˈeihtθusʏnt,[],,['chan2019'],,False,False,(eitt) þúsund,1
+icel1247-1-2000-1,,icel1247-1,2000,ˈtʰvœːθusʏnt,ˈtʰvœːθusʏnt,[],,['chan2019'],,False,False,tvö þúsund,1

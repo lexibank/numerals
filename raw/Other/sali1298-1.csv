@@ -1,16 +1,16 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sali1298-1-1-1,,sali1298-1,1,hotobe,hotobe,[],(anim.masc),[],,False,False,,1
-sali1298-1-1-2,,sali1298-1,1,hotobo,hotobo,[],(anim.fem),[],,False,False,,1
-sali1298-1-1-3,,sali1298-1,1,hi-CL-te,hi-CL-te,[],,[],,False,True,,1
-sali1298-1-1-4,,sali1298-1,1,ɟo-CL-te,ɟo-CL-te,[],,[],,False,True,,1
-sali1298-1-1-5,,sali1298-1,1,ɟe-CL-te,ɟe-CL-te,[],(inan ),[],,False,True,,1
-sali1298-1-2-1,,sali1298-1,2,tuxudu,tuxudu,[],(anim),[],,False,False,,1
-sali1298-1-2-2,,sali1298-1,2,to-CL-sa,to-CL-sa,[],,[],,False,True,,1
-sali1298-1-2-3,,sali1298-1,2,tõ-CL-sa,tõ-CL-sa,[],(inan),[],,False,True,,1
-sali1298-1-3-1,,sali1298-1,3,xedobadu,xedobadu,[],(anim),[],,False,False,,1
-sali1298-1-3-2,,sali1298-1,3,xe-CL-badi,xe-CL-badi,[],(inan ),[],,False,True,,1
-sali1298-1-4-1,,sali1298-1,4,bahĩɡo-du,bahĩɡo-du,[],(anim),[],,False,False,,1
-sali1298-1-4-2,,sali1298-1,4,bahĩɡV-CL,bahĩɡV-CL,[],(inan),[],,False,True,,1
-sali1298-1-5-1,,sali1298-1,5,sĩkote,sĩkote,[],( < Spanish ),[],,True,False,,1
-sali1298-1-6-1,,sali1298-1,6,sietehe,sietehe,[],,[],,False,False,,1
-sali1298-1-7-1,,sali1298-1,7,ocote,ocote,[],,[],,False,False,,1
+sali1298-1-1-1,,sali1298-1,1,hotobe,hotobe,[],(anim.masc),['chan2019'],,False,False,,1
+sali1298-1-1-2,,sali1298-1,1,hotobo,hotobo,[],(anim.fem),['chan2019'],,False,False,,1
+sali1298-1-1-3,,sali1298-1,1,hi-CL-te,hi-CL-te,[],,['chan2019'],,False,True,,1
+sali1298-1-1-4,,sali1298-1,1,ɟo-CL-te,ɟo-CL-te,[],,['chan2019'],,False,True,,1
+sali1298-1-1-5,,sali1298-1,1,ɟe-CL-te,ɟe-CL-te,[],(inan ),['chan2019'],,False,True,,1
+sali1298-1-2-1,,sali1298-1,2,tuxudu,tuxudu,[],(anim),['chan2019'],,False,False,,1
+sali1298-1-2-2,,sali1298-1,2,to-CL-sa,to-CL-sa,[],,['chan2019'],,False,True,,1
+sali1298-1-2-3,,sali1298-1,2,tõ-CL-sa,tõ-CL-sa,[],(inan),['chan2019'],,False,True,,1
+sali1298-1-3-1,,sali1298-1,3,xedobadu,xedobadu,[],(anim),['chan2019'],,False,False,,1
+sali1298-1-3-2,,sali1298-1,3,xe-CL-badi,xe-CL-badi,[],(inan ),['chan2019'],,False,True,,1
+sali1298-1-4-1,,sali1298-1,4,bahĩɡo-du,bahĩɡo-du,[],(anim),['chan2019'],,False,False,,1
+sali1298-1-4-2,,sali1298-1,4,bahĩɡV-CL,bahĩɡV-CL,[],(inan),['chan2019'],,False,True,,1
+sali1298-1-5-1,,sali1298-1,5,sĩkote,sĩkote,[],( < Spanish ),['chan2019'],,True,False,,1
+sali1298-1-6-1,,sali1298-1,6,sietehe,sietehe,[],,['chan2019'],,False,False,,1
+sali1298-1-7-1,,sali1298-1,7,ocote,ocote,[],,['chan2019'],,False,False,,1

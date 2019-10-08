@@ -1,33 +1,33 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dana1252-1-1-1,,dana1252-1,1,ăkɔt3,ăkɔt3,[],,[],,False,False,,1
-dana1252-1-2-1,,dana1252-1,2,an4,an4,[],,[],,False,False,,1
-dana1252-1-3-1,,dana1252-1,3,ui4,ui4,[],,[],,False,False,,1
-dana1252-1-4-1,,dana1252-1,4,pən4,pən4,[],,[],,False,False,,1
-dana1252-1-5-1,,dana1252-1,5,θôn4,θôn4,[],,[],,False,False,,1
-dana1252-1-6-1,,dana1252-1,6,tun1,tun1,[],,[],,False,False,,1
-dana1252-1-7-1,,dana1252-1,7,pat4,pat4,[],,[],,False,False,,1
-dana1252-1-8-1,,dana1252-1,8,tsan4,tsan4,[],,[],,False,False,,1
-dana1252-1-9-1,,dana1252-1,9,tsən4,tsən4,[],,[],,False,False,,1
-dana1252-1-10-1,,dana1252-1,10,măkyén4,măkyén4,[],,[],,False,False,,1
-dana1252-1-11-1,,dana1252-1,11,măkyén4naʔ1 ăkɔt3,măkyén4naʔ1 ăkɔt3,[],,[],,False,False,,1
-dana1252-1-12-1,,dana1252-1,12,măkyén4an4,măkyén4an4,[],,[],,False,False,,1
-dana1252-1-13-1,,dana1252-1,13,măkyén4ui4,măkyén4ui4,[],,[],,False,False,,1
-dana1252-1-14-1,,dana1252-1,14,măkyén4pən4,măkyén4pən4,[],,[],,False,False,,1
-dana1252-1-15-1,,dana1252-1,15,măkyén4θôn4,măkyén4θôn4,[],,[],,False,False,,1
-dana1252-1-16-1,,dana1252-1,16,măkyén4tun1,măkyén4tun1,[],,[],,False,False,,1
-dana1252-1-17-1,,dana1252-1,17,măkyén4pat4,măkyén4pat4,[],,[],,False,False,,1
-dana1252-1-18-1,,dana1252-1,18,măkyén4tsan4,măkyén4tsan4,[],,[],,False,False,,1
-dana1252-1-19-1,,dana1252-1,19,măkyén4tsən4,măkyén4tsən4,[],,[],,False,False,,1
-dana1252-1-20-1,,dana1252-1,20,an4kyén4,an4kyén4,[],,[],,False,False,,1
-dana1252-1-21-1,,dana1252-1,21,an4kyén4 naʔ1 ăkɔt3,an4kyén4 naʔ1 ăkɔt3,[],,[],,False,False,,1
-dana1252-1-25-1,,dana1252-1,25,an4kyén4 θôn4,an4kyén4 θôn4,[],,[],,False,False,,1
-dana1252-1-29-1,,dana1252-1,29,an4kyén4 tsən4,an4kyén4 tsən4,[],,[],,False,False,,1
-dana1252-1-30-1,,dana1252-1,30,ui4kyén4,ui4kyén4,[],,[],,False,False,,1
-dana1252-1-40-1,,dana1252-1,40,pən4kyén4,pən4kyén4,[],,[],,False,False,,1
-dana1252-1-50-1,,dana1252-1,50,θôn4kyén4,θôn4kyén4,[],,[],,False,False,,1
-dana1252-1-60-1,,dana1252-1,60,tun1kyén4,tun1kyén4,[],,[],,False,False,,1
-dana1252-1-70-1,,dana1252-1,70,pat4kyén4,pat4kyén4,[],,[],,False,False,,1
-dana1252-1-80-1,,dana1252-1,80,tsan4kyén4,tsan4kyén4,[],,[],,False,False,,1
-dana1252-1-90-1,,dana1252-1,90,tsən4kyén4,tsən4kyén4,[],,[],,False,False,,1
-dana1252-1-100-1,,dana1252-1,100,ă4pʰa2,ă4pʰa2,[],,[],,False,False,,1
-dana1252-1-1000-1,,dana1252-1,1000,ă4tʰāu4,ă4tʰāu4,[],,[],,False,False,,1
+dana1252-1-1-1,,dana1252-1,1,ăkɔt3,ăkɔt3,[],,['chan2019'],,False,False,,1
+dana1252-1-2-1,,dana1252-1,2,an4,an4,[],,['chan2019'],,False,False,,1
+dana1252-1-3-1,,dana1252-1,3,ui4,ui4,[],,['chan2019'],,False,False,,1
+dana1252-1-4-1,,dana1252-1,4,pən4,pən4,[],,['chan2019'],,False,False,,1
+dana1252-1-5-1,,dana1252-1,5,θôn4,θôn4,[],,['chan2019'],,False,False,,1
+dana1252-1-6-1,,dana1252-1,6,tun1,tun1,[],,['chan2019'],,False,False,,1
+dana1252-1-7-1,,dana1252-1,7,pat4,pat4,[],,['chan2019'],,False,False,,1
+dana1252-1-8-1,,dana1252-1,8,tsan4,tsan4,[],,['chan2019'],,False,False,,1
+dana1252-1-9-1,,dana1252-1,9,tsən4,tsən4,[],,['chan2019'],,False,False,,1
+dana1252-1-10-1,,dana1252-1,10,măkyén4,măkyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-11-1,,dana1252-1,11,măkyén4naʔ1 ăkɔt3,măkyén4naʔ1 ăkɔt3,[],,['chan2019'],,False,False,,1
+dana1252-1-12-1,,dana1252-1,12,măkyén4an4,măkyén4an4,[],,['chan2019'],,False,False,,1
+dana1252-1-13-1,,dana1252-1,13,măkyén4ui4,măkyén4ui4,[],,['chan2019'],,False,False,,1
+dana1252-1-14-1,,dana1252-1,14,măkyén4pən4,măkyén4pən4,[],,['chan2019'],,False,False,,1
+dana1252-1-15-1,,dana1252-1,15,măkyén4θôn4,măkyén4θôn4,[],,['chan2019'],,False,False,,1
+dana1252-1-16-1,,dana1252-1,16,măkyén4tun1,măkyén4tun1,[],,['chan2019'],,False,False,,1
+dana1252-1-17-1,,dana1252-1,17,măkyén4pat4,măkyén4pat4,[],,['chan2019'],,False,False,,1
+dana1252-1-18-1,,dana1252-1,18,măkyén4tsan4,măkyén4tsan4,[],,['chan2019'],,False,False,,1
+dana1252-1-19-1,,dana1252-1,19,măkyén4tsən4,măkyén4tsən4,[],,['chan2019'],,False,False,,1
+dana1252-1-20-1,,dana1252-1,20,an4kyén4,an4kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-21-1,,dana1252-1,21,an4kyén4 naʔ1 ăkɔt3,an4kyén4 naʔ1 ăkɔt3,[],,['chan2019'],,False,False,,1
+dana1252-1-25-1,,dana1252-1,25,an4kyén4 θôn4,an4kyén4 θôn4,[],,['chan2019'],,False,False,,1
+dana1252-1-29-1,,dana1252-1,29,an4kyén4 tsən4,an4kyén4 tsən4,[],,['chan2019'],,False,False,,1
+dana1252-1-30-1,,dana1252-1,30,ui4kyén4,ui4kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-40-1,,dana1252-1,40,pən4kyén4,pən4kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-50-1,,dana1252-1,50,θôn4kyén4,θôn4kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-60-1,,dana1252-1,60,tun1kyén4,tun1kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-70-1,,dana1252-1,70,pat4kyén4,pat4kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-80-1,,dana1252-1,80,tsan4kyén4,tsan4kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-90-1,,dana1252-1,90,tsən4kyén4,tsən4kyén4,[],,['chan2019'],,False,False,,1
+dana1252-1-100-1,,dana1252-1,100,ă4pʰa2,ă4pʰa2,[],,['chan2019'],,False,False,,1
+dana1252-1-1000-1,,dana1252-1,1000,ă4tʰāu4,ă4tʰāu4,[],,['chan2019'],,False,False,,1

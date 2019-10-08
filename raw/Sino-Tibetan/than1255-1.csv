@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-than1255-1-1-1,,than1255-1,1,kʰət,kʰət,[],,[],,False,False,,1
-than1255-1-2-1,,than1255-1,2,kəti,kəti,[],,[],,False,False,,1
-than1255-1-3-1,,than1255-1,3,kətʰum,kətʰum,[],,[],,False,False,,1
-than1255-1-4-1,,than1255-1,4,mədi,mədi,[],,[],,False,False,,1
-than1255-1-5-1,,than1255-1,5,məŋa,məŋa,[],,[],,False,False,,1
-than1255-1-6-1,,than1255-1,6,səruk,səruk,[],,[],,False,False,,1
-than1255-1-7-1,,than1255-1,7,səni,səni,[],,[],,False,False,,1
-than1255-1-8-1,,than1255-1,8,təcet,təcet,[],,[],,False,False,,1
-than1255-1-9-1,,than1255-1,9,cəku,cəku,[],,[],,False,False,,1
-than1255-1-10-1,,than1255-1,10,səra,səra,[],,[],,False,False,,1
-than1255-1-11-1,,than1255-1,11,sərani kʰət ton,sərani kʰət ton,[],,[],,False,False,,1
-than1255-1-12-1,,than1255-1,12,sərani kəti ton,sərani kəti ton,[],,[],,False,False,,1
-than1255-1-13-1,,than1255-1,13,sərani kətʰum ton,sərani kətʰum ton,[],,[],,False,False,,1
-than1255-1-14-1,,than1255-1,14,sərani mədi ton,sərani mədi ton,[],,[],,False,False,,1
-than1255-1-15-1,,than1255-1,15,sərani məŋa ton,sərani məŋa ton,[],,[],,False,False,,1
-than1255-1-16-1,,than1255-1,16,sərani səruk ton,sərani səruk ton,[],,[],,False,False,,1
-than1255-1-17-1,,than1255-1,17,sərani səni ton,sərani səni ton,[],,[],,False,False,,1
-than1255-1-18-1,,than1255-1,18,sərani təcet ton,sərani təcet ton,[],,[],,False,False,,1
-than1255-1-19-1,,than1255-1,19,sərani cəku ton,sərani cəku ton,[],,[],,False,False,,1
-than1255-1-20-1,,than1255-1,20,məci,məci,[],,[],,False,False,,1
-than1255-1-21-1,,than1255-1,21,məci kʰət ton,məci kʰət ton,[],,[],,False,False,,1
-than1255-1-22-1,,than1255-1,22,məci kətʰum ton,məci kətʰum ton,[],,[],,False,False,,1
-than1255-1-24-1,,than1255-1,24,məci mədi ton,məci mədi ton,[],,[],,False,False,,1
-than1255-1-25-1,,than1255-1,25,məci məŋa ton,məci məŋa ton,[],,[],,False,False,,1
-than1255-1-26-1,,than1255-1,26,məci səruk ton,məci səruk ton,[],,[],,False,False,,1
-than1255-1-27-1,,than1255-1,27,məci səni ton,məci səni ton,[],,[],,False,False,,1
-than1255-1-28-1,,than1255-1,28,məci təcet ton,məci təcet ton,[],,[],,False,False,,1
-than1255-1-29-1,,than1255-1,29,məci cəku ton,məci cəku ton,[],,[],,False,False,,1
-than1255-1-30-1,,than1255-1,30,tʰəmra,tʰəmra,[],,[],,False,False,,1
-than1255-1-40-1,,than1255-1,40,rekmədi,rekmədi,[],,[],,False,False,,1
-than1255-1-50-1,,than1255-1,50,reŋa,reŋa,[],,[],,False,False,,1
-than1255-1-60-1,,than1255-1,60,reksəruk,reksəruk,[],,[],,False,False,,1
-than1255-1-70-1,,than1255-1,70,reksəni,reksəni,[],,[],,False,False,,1
-than1255-1-80-1,,than1255-1,80,rektəcet,rektəcet,[],,[],,False,False,,1
-than1255-1-90-1,,than1255-1,90,rekcəku,rekcəku,[],,[],,False,False,,1
-than1255-1-100-1,,than1255-1,100,ki kʰət,ki kʰət,[],,[],,False,False,,1
-than1255-1-200-1,,than1255-1,200,ki ti,ki ti,[],,[],,False,False,,1
-than1255-1-1000-1,,than1255-1,1000,tʰaŋ,tʰaŋ,[],,[],,False,False,,1
-than1255-1-2000-1,,than1255-1,2000,tʰaŋ kəti,tʰaŋ kəti,[],,[],,False,False,,1
+than1255-1-1-1,,than1255-1,1,kʰət,kʰət,[],,['chan2019'],,False,False,,1
+than1255-1-2-1,,than1255-1,2,kəti,kəti,[],,['chan2019'],,False,False,,1
+than1255-1-3-1,,than1255-1,3,kətʰum,kətʰum,[],,['chan2019'],,False,False,,1
+than1255-1-4-1,,than1255-1,4,mədi,mədi,[],,['chan2019'],,False,False,,1
+than1255-1-5-1,,than1255-1,5,məŋa,məŋa,[],,['chan2019'],,False,False,,1
+than1255-1-6-1,,than1255-1,6,səruk,səruk,[],,['chan2019'],,False,False,,1
+than1255-1-7-1,,than1255-1,7,səni,səni,[],,['chan2019'],,False,False,,1
+than1255-1-8-1,,than1255-1,8,təcet,təcet,[],,['chan2019'],,False,False,,1
+than1255-1-9-1,,than1255-1,9,cəku,cəku,[],,['chan2019'],,False,False,,1
+than1255-1-10-1,,than1255-1,10,səra,səra,[],,['chan2019'],,False,False,,1
+than1255-1-11-1,,than1255-1,11,sərani kʰət ton,sərani kʰət ton,[],,['chan2019'],,False,False,,1
+than1255-1-12-1,,than1255-1,12,sərani kəti ton,sərani kəti ton,[],,['chan2019'],,False,False,,1
+than1255-1-13-1,,than1255-1,13,sərani kətʰum ton,sərani kətʰum ton,[],,['chan2019'],,False,False,,1
+than1255-1-14-1,,than1255-1,14,sərani mədi ton,sərani mədi ton,[],,['chan2019'],,False,False,,1
+than1255-1-15-1,,than1255-1,15,sərani məŋa ton,sərani məŋa ton,[],,['chan2019'],,False,False,,1
+than1255-1-16-1,,than1255-1,16,sərani səruk ton,sərani səruk ton,[],,['chan2019'],,False,False,,1
+than1255-1-17-1,,than1255-1,17,sərani səni ton,sərani səni ton,[],,['chan2019'],,False,False,,1
+than1255-1-18-1,,than1255-1,18,sərani təcet ton,sərani təcet ton,[],,['chan2019'],,False,False,,1
+than1255-1-19-1,,than1255-1,19,sərani cəku ton,sərani cəku ton,[],,['chan2019'],,False,False,,1
+than1255-1-20-1,,than1255-1,20,məci,məci,[],,['chan2019'],,False,False,,1
+than1255-1-21-1,,than1255-1,21,məci kʰət ton,məci kʰət ton,[],,['chan2019'],,False,False,,1
+than1255-1-22-1,,than1255-1,22,məci kətʰum ton,məci kətʰum ton,[],,['chan2019'],,False,False,,1
+than1255-1-24-1,,than1255-1,24,məci mədi ton,məci mədi ton,[],,['chan2019'],,False,False,,1
+than1255-1-25-1,,than1255-1,25,məci məŋa ton,məci məŋa ton,[],,['chan2019'],,False,False,,1
+than1255-1-26-1,,than1255-1,26,məci səruk ton,məci səruk ton,[],,['chan2019'],,False,False,,1
+than1255-1-27-1,,than1255-1,27,məci səni ton,məci səni ton,[],,['chan2019'],,False,False,,1
+than1255-1-28-1,,than1255-1,28,məci təcet ton,məci təcet ton,[],,['chan2019'],,False,False,,1
+than1255-1-29-1,,than1255-1,29,məci cəku ton,məci cəku ton,[],,['chan2019'],,False,False,,1
+than1255-1-30-1,,than1255-1,30,tʰəmra,tʰəmra,[],,['chan2019'],,False,False,,1
+than1255-1-40-1,,than1255-1,40,rekmədi,rekmədi,[],,['chan2019'],,False,False,,1
+than1255-1-50-1,,than1255-1,50,reŋa,reŋa,[],,['chan2019'],,False,False,,1
+than1255-1-60-1,,than1255-1,60,reksəruk,reksəruk,[],,['chan2019'],,False,False,,1
+than1255-1-70-1,,than1255-1,70,reksəni,reksəni,[],,['chan2019'],,False,False,,1
+than1255-1-80-1,,than1255-1,80,rektəcet,rektəcet,[],,['chan2019'],,False,False,,1
+than1255-1-90-1,,than1255-1,90,rekcəku,rekcəku,[],,['chan2019'],,False,False,,1
+than1255-1-100-1,,than1255-1,100,ki kʰət,ki kʰət,[],,['chan2019'],,False,False,,1
+than1255-1-200-1,,than1255-1,200,ki ti,ki ti,[],,['chan2019'],,False,False,,1
+than1255-1-1000-1,,than1255-1,1000,tʰaŋ,tʰaŋ,[],,['chan2019'],,False,False,,1
+than1255-1-2000-1,,than1255-1,2000,tʰaŋ kəti,tʰaŋ kəti,[],,['chan2019'],,False,False,,1

@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-koru1245-2-1-1,,koru1245-2,1,'tuknuk,'tuknuk,[],,[],,False,False,,2
-koru1245-2-1-2,,koru1245-2,1,'ŋʰɔn,'ŋʰɔn,[],(ɔk),[],,False,False,,2
-koru1245-2-2-1,,koru1245-2,2,bɪsɪ'nɪ,bɪsɪ'nɪ,[],,[],,False,False,,2
-koru1245-2-2-2,,koru1245-2,2,pʰɪ'nɪ,pʰɪ'nɪ,[],,[],,False,False,,2
-koru1245-2-3-1,,koru1245-2,3,wɛnɛ'li,wɛnɛ'li,[],,[],,False,False,,2
-koru1245-2-3-2,,koru1245-2,3,wɛna'li,wɛna'li,[],,[],,False,False,,2
-koru1245-2-4-1,,koru1245-2,4,dum ba'ɾi,dum ba'ɾi,[],,[],,False,False,,2
-koru1245-2-4-2,,koru1245-2,4,dɔm ba'ʒɛ,dɔm ba'ʒɛ,[],( ž = ʒ ?),[],,False,False,,2
-koru1245-2-5-1,,koru1245-2,5,lam ba'ɾi,lam ba'ɾi,[],,[],,False,False,,2
-koru1245-2-5-2,,koru1245-2,5,lamba'ʒɛ,lamba'ʒɛ,[],,[],,False,False,,2
-koru1245-2-6-1,,koru1245-2,6,na'ʢap,na'ʢap,[],( ba'ɾi ),[],,False,False,,2
-koru1245-2-6-2,,koru1245-2,6,'ŋʰamppaʒɛ,'ŋʰamppaʒɛ,[],,[],,False,False,,2
-koru1245-2-7-1,,koru1245-2,7,sɛk,sɛk,[],( ba'ɾi ),[],,False,False,,2
-koru1245-2-7-2,,koru1245-2,7,'sɛkpaʒɛ,'sɛkpaʒɛ,[],,[],,False,False,,2
-koru1245-2-8-1,,koru1245-2,8,lin,lin,[],( ba'ɾi ),[],,False,False,,2
-koru1245-2-8-2,,koru1245-2,8,'linbaʒɛ,'linbaʒɛ,[],,[],,False,False,,2
-koru1245-2-9-1,,koru1245-2,9,'sukna,'sukna,[],( ba'ɾi ),[],,False,False,,2
-koru1245-2-9-2,,koru1245-2,9,'suknabaʒɛ,'suknabaʒɛ,[],,[],,False,False,,2
-koru1245-2-10-1,,koru1245-2,10,sa'ʢu,sa'ʢu,[],( ba'ɾi ),[],,False,False,,2
-koru1245-2-10-2,,koru1245-2,10,'saᵓbaʒɛ,'saᵓbaʒɛ,[],,[],,False,False,,2
+koru1245-2-1-1,,koru1245-2,1,'tuknuk,'tuknuk,[],,['chan2019'],,False,False,,2
+koru1245-2-1-2,,koru1245-2,1,'ŋʰɔn,'ŋʰɔn,[],(ɔk),['chan2019'],,False,False,,2
+koru1245-2-2-1,,koru1245-2,2,bɪsɪ'nɪ,bɪsɪ'nɪ,[],,['chan2019'],,False,False,,2
+koru1245-2-2-2,,koru1245-2,2,pʰɪ'nɪ,pʰɪ'nɪ,[],,['chan2019'],,False,False,,2
+koru1245-2-3-1,,koru1245-2,3,wɛnɛ'li,wɛnɛ'li,[],,['chan2019'],,False,False,,2
+koru1245-2-3-2,,koru1245-2,3,wɛna'li,wɛna'li,[],,['chan2019'],,False,False,,2
+koru1245-2-4-1,,koru1245-2,4,dum ba'ɾi,dum ba'ɾi,[],,['chan2019'],,False,False,,2
+koru1245-2-4-2,,koru1245-2,4,dɔm ba'ʒɛ,dɔm ba'ʒɛ,[],( ž = ʒ ?),['chan2019'],,False,False,,2
+koru1245-2-5-1,,koru1245-2,5,lam ba'ɾi,lam ba'ɾi,[],,['chan2019'],,False,False,,2
+koru1245-2-5-2,,koru1245-2,5,lamba'ʒɛ,lamba'ʒɛ,[],,['chan2019'],,False,False,,2
+koru1245-2-6-1,,koru1245-2,6,na'ʢap,na'ʢap,[],( ba'ɾi ),['chan2019'],,False,False,,2
+koru1245-2-6-2,,koru1245-2,6,'ŋʰamppaʒɛ,'ŋʰamppaʒɛ,[],,['chan2019'],,False,False,,2
+koru1245-2-7-1,,koru1245-2,7,sɛk,sɛk,[],( ba'ɾi ),['chan2019'],,False,False,,2
+koru1245-2-7-2,,koru1245-2,7,'sɛkpaʒɛ,'sɛkpaʒɛ,[],,['chan2019'],,False,False,,2
+koru1245-2-8-1,,koru1245-2,8,lin,lin,[],( ba'ɾi ),['chan2019'],,False,False,,2
+koru1245-2-8-2,,koru1245-2,8,'linbaʒɛ,'linbaʒɛ,[],,['chan2019'],,False,False,,2
+koru1245-2-9-1,,koru1245-2,9,'sukna,'sukna,[],( ba'ɾi ),['chan2019'],,False,False,,2
+koru1245-2-9-2,,koru1245-2,9,'suknabaʒɛ,'suknabaʒɛ,[],,['chan2019'],,False,False,,2
+koru1245-2-10-1,,koru1245-2,10,sa'ʢu,sa'ʢu,[],( ba'ɾi ),['chan2019'],,False,False,,2
+koru1245-2-10-2,,koru1245-2,10,'saᵓbaʒɛ,'saᵓbaʒɛ,[],,['chan2019'],,False,False,,2

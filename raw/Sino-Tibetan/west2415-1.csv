@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2415-1-1-1,,west2415-1,1,ɡi,ɡi,[],,[],,False,False,,1
-west2415-1-2-1,,west2415-1,2,ŋi,ŋi,[],,[],,False,False,,1
-west2415-1-3-1,,west2415-1,3,som,som,[],,[],,False,False,,1
-west2415-1-4-1,,west2415-1,4,bli,bli,[],,[],,False,False,,1
-west2415-1-5-1,,west2415-1,5,ŋa,ŋa,[],,[],,False,False,,1
-west2415-1-6-1,,west2415-1,6,du,du,[],,[],,False,False,,1
-west2415-1-7-1,,west2415-1,7,ŋis,ŋis,[],,[],,False,False,,1
-west2415-1-8-1,,west2415-1,8,bret,bret,[],,[],,False,False,,1
-west2415-1-9-1,,west2415-1,9,ku,ku,[],,[],,False,False,,1
-west2415-1-10-1,,west2415-1,10,t͡si,t͡si,[],,[],,False,False,,1
-west2415-1-11-1,,west2415-1,11,t͡su-kʰri,t͡su-kʰri,[],,[],,False,False,,1
-west2415-1-12-1,,west2415-1,12,t͡su-ŋi,t͡su-ŋi,[],,[],,False,False,,1
-west2415-1-13-1,,west2415-1,13,t͡su-som,t͡su-som,[],,[],,False,False,,1
-west2415-1-14-1,,west2415-1,14,t͡su-bli,t͡su-bli,[],,[],,False,False,,1
-west2415-1-15-1,,west2415-1,15,t͡su-ŋa,t͡su-ŋa,[],,[],,False,False,,1
-west2415-1-16-1,,west2415-1,16,t͡su-du,t͡su-du,[],,[],,False,False,,1
-west2415-1-17-1,,west2415-1,17,t͡su-ŋis,t͡su-ŋis,[],,[],,False,False,,1
-west2415-1-18-1,,west2415-1,18,t͡su-bret,t͡su-bret,[],,[],,False,False,,1
-west2415-1-19-1,,west2415-1,19,t͡su-ku,t͡su-ku,[],,[],,False,False,,1
-west2415-1-20-1,,west2415-1,20,kʰal,kʰal,[],,[],,False,False,,1
-west2415-1-21-1,,west2415-1,21,kʰal-ɡi-si-ɡi,kʰal-ɡi-si-ɡi,[],,[],,False,False,,1
-west2415-1-22-1,,west2415-1,22,kʰal-ɡi-si-ŋi,kʰal-ɡi-si-ŋi,[],,[],,False,False,,1
-west2415-1-23-1,,west2415-1,23,kʰal-ɡi-si-som,kʰal-ɡi-si-som,[],,[],,False,False,,1
-west2415-1-24-1,,west2415-1,24,kʰal-ɡi-si-bli,kʰal-ɡi-si-bli,[],,[],,False,False,,1
-west2415-1-25-1,,west2415-1,25,kʰal-ɡi-si-ŋa,kʰal-ɡi-si-ŋa,[],,[],,False,False,,1
-west2415-1-26-1,,west2415-1,26,kʰal-ɡi-si-du,kʰal-ɡi-si-du,[],,[],,False,False,,1
-west2415-1-27-1,,west2415-1,27,kʰal-ɡi-si-ŋis,kʰal-ɡi-si-ŋis,[],,[],,False,False,,1
-west2415-1-28-1,,west2415-1,28,kʰal-ɡi-si-bret,kʰal-ɡi-si-bret,[],,[],,False,False,,1
-west2415-1-29-1,,west2415-1,29,kʰal-ɡi-si-ku,kʰal-ɡi-si-ku,[],,[],,False,False,,1
-west2415-1-30-1,,west2415-1,30,kʰal-ɡi-si-t͡si,kʰal-ɡi-si-t͡si,[],( 20 + 10 ),[],,False,False,,1
-west2415-1-40-1,,west2415-1,40,kʰal-ŋi,kʰal-ŋi,[],( 20 x 2 ),[],,False,False,,1
-west2415-1-50-1,,west2415-1,50,kʰal-ŋi-t͡si,kʰal-ŋi-t͡si,[],,[],,False,False,,1
-west2415-1-60-1,,west2415-1,60,kʰal-som,kʰal-som,[],( 20 x 3 ),[],,False,False,,1
-west2415-1-70-1,,west2415-1,70,kʰal-som-si-t͡si,kʰal-som-si-t͡si,[],,[],,False,False,,1
-west2415-1-80-1,,west2415-1,80,kʰal-bli,kʰal-bli,[],( 20 x 4 ),[],,False,False,,1
-west2415-1-90-1,,west2415-1,90,kʰal-bl-t͡si,kʰal-bl-t͡si,[],,[],,False,False,,1
-west2415-1-100-1,,west2415-1,100,ɡjard͡za,ɡjard͡za,[],,[],,False,False,,1
-west2415-1-200-1,,west2415-1,200,ɡjard͡za-ŋi,ɡjard͡za-ŋi,[],,[],,False,False,,1
+west2415-1-1-1,,west2415-1,1,ɡi,ɡi,[],,['chan2019'],,False,False,,1
+west2415-1-2-1,,west2415-1,2,ŋi,ŋi,[],,['chan2019'],,False,False,,1
+west2415-1-3-1,,west2415-1,3,som,som,[],,['chan2019'],,False,False,,1
+west2415-1-4-1,,west2415-1,4,bli,bli,[],,['chan2019'],,False,False,,1
+west2415-1-5-1,,west2415-1,5,ŋa,ŋa,[],,['chan2019'],,False,False,,1
+west2415-1-6-1,,west2415-1,6,du,du,[],,['chan2019'],,False,False,,1
+west2415-1-7-1,,west2415-1,7,ŋis,ŋis,[],,['chan2019'],,False,False,,1
+west2415-1-8-1,,west2415-1,8,bret,bret,[],,['chan2019'],,False,False,,1
+west2415-1-9-1,,west2415-1,9,ku,ku,[],,['chan2019'],,False,False,,1
+west2415-1-10-1,,west2415-1,10,t͡si,t͡si,[],,['chan2019'],,False,False,,1
+west2415-1-11-1,,west2415-1,11,t͡su-kʰri,t͡su-kʰri,[],,['chan2019'],,False,False,,1
+west2415-1-12-1,,west2415-1,12,t͡su-ŋi,t͡su-ŋi,[],,['chan2019'],,False,False,,1
+west2415-1-13-1,,west2415-1,13,t͡su-som,t͡su-som,[],,['chan2019'],,False,False,,1
+west2415-1-14-1,,west2415-1,14,t͡su-bli,t͡su-bli,[],,['chan2019'],,False,False,,1
+west2415-1-15-1,,west2415-1,15,t͡su-ŋa,t͡su-ŋa,[],,['chan2019'],,False,False,,1
+west2415-1-16-1,,west2415-1,16,t͡su-du,t͡su-du,[],,['chan2019'],,False,False,,1
+west2415-1-17-1,,west2415-1,17,t͡su-ŋis,t͡su-ŋis,[],,['chan2019'],,False,False,,1
+west2415-1-18-1,,west2415-1,18,t͡su-bret,t͡su-bret,[],,['chan2019'],,False,False,,1
+west2415-1-19-1,,west2415-1,19,t͡su-ku,t͡su-ku,[],,['chan2019'],,False,False,,1
+west2415-1-20-1,,west2415-1,20,kʰal,kʰal,[],,['chan2019'],,False,False,,1
+west2415-1-21-1,,west2415-1,21,kʰal-ɡi-si-ɡi,kʰal-ɡi-si-ɡi,[],,['chan2019'],,False,False,,1
+west2415-1-22-1,,west2415-1,22,kʰal-ɡi-si-ŋi,kʰal-ɡi-si-ŋi,[],,['chan2019'],,False,False,,1
+west2415-1-23-1,,west2415-1,23,kʰal-ɡi-si-som,kʰal-ɡi-si-som,[],,['chan2019'],,False,False,,1
+west2415-1-24-1,,west2415-1,24,kʰal-ɡi-si-bli,kʰal-ɡi-si-bli,[],,['chan2019'],,False,False,,1
+west2415-1-25-1,,west2415-1,25,kʰal-ɡi-si-ŋa,kʰal-ɡi-si-ŋa,[],,['chan2019'],,False,False,,1
+west2415-1-26-1,,west2415-1,26,kʰal-ɡi-si-du,kʰal-ɡi-si-du,[],,['chan2019'],,False,False,,1
+west2415-1-27-1,,west2415-1,27,kʰal-ɡi-si-ŋis,kʰal-ɡi-si-ŋis,[],,['chan2019'],,False,False,,1
+west2415-1-28-1,,west2415-1,28,kʰal-ɡi-si-bret,kʰal-ɡi-si-bret,[],,['chan2019'],,False,False,,1
+west2415-1-29-1,,west2415-1,29,kʰal-ɡi-si-ku,kʰal-ɡi-si-ku,[],,['chan2019'],,False,False,,1
+west2415-1-30-1,,west2415-1,30,kʰal-ɡi-si-t͡si,kʰal-ɡi-si-t͡si,[],( 20 + 10 ),['chan2019'],,False,False,,1
+west2415-1-40-1,,west2415-1,40,kʰal-ŋi,kʰal-ŋi,[],( 20 x 2 ),['chan2019'],,False,False,,1
+west2415-1-50-1,,west2415-1,50,kʰal-ŋi-t͡si,kʰal-ŋi-t͡si,[],,['chan2019'],,False,False,,1
+west2415-1-60-1,,west2415-1,60,kʰal-som,kʰal-som,[],( 20 x 3 ),['chan2019'],,False,False,,1
+west2415-1-70-1,,west2415-1,70,kʰal-som-si-t͡si,kʰal-som-si-t͡si,[],,['chan2019'],,False,False,,1
+west2415-1-80-1,,west2415-1,80,kʰal-bli,kʰal-bli,[],( 20 x 4 ),['chan2019'],,False,False,,1
+west2415-1-90-1,,west2415-1,90,kʰal-bl-t͡si,kʰal-bl-t͡si,[],,['chan2019'],,False,False,,1
+west2415-1-100-1,,west2415-1,100,ɡjard͡za,ɡjard͡za,[],,['chan2019'],,False,False,,1
+west2415-1-200-1,,west2415-1,200,ɡjard͡za-ŋi,ɡjard͡za-ŋi,[],,['chan2019'],,False,False,,1

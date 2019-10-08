@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ahin1234-2-1-1,,ahin1234-2,1,ha'key,ha'key,[],,[],,False,False,,2
-ahin1234-2-2-1,,ahin1234-2,2,do'wa,do'wa,[],,[],,False,False,,2
-ahin1234-2-3-1,,ahin1234-2,3,təl'lo,təl'lo,[],,[],,False,False,,2
-ahin1234-2-4-1,,ahin1234-2,4,ʔa'pat,ʔa'pat,[],,[],,False,False,,2
-ahin1234-2-5-1,,ahin1234-2,5,li'ma,li'ma,[],,[],,False,False,,2
-ahin1234-2-6-1,,ahin1234-2,6,ʔə'nəm,ʔə'nəm,[],,[],,False,False,,2
-ahin1234-2-7-1,,ahin1234-2,7,pi'to,pi'to,[],,[],,False,False,,2
-ahin1234-2-8-1,,ahin1234-2,8,wa'lo,wa'lo,[],,[],,False,False,,2
-ahin1234-2-9-1,,ahin1234-2,9,hi'yam,hi'yam,[],,[],,False,False,,2
-ahin1234-2-10-1,,ahin1234-2,10,ham'polo,ham'polo,[],,[],,False,False,,2
-ahin1234-2-11-1,,ahin1234-2,11,hawal ni ha'key,hawal ni ha'key,[],,[],,False,False,,2
-ahin1234-2-12-1,,ahin1234-2,12,hawal ni do'wa,hawal ni do'wa,[],,[],,False,False,,2
-ahin1234-2-13-1,,ahin1234-2,13,hawal ni təl'lo,hawal ni təl'lo,[],,[],,False,False,,2
-ahin1234-2-14-1,,ahin1234-2,14,hawal ni ʔa'pat,hawal ni ʔa'pat,[],,[],,False,False,,2
-ahin1234-2-15-1,,ahin1234-2,15,hawal ni li'ma,hawal ni li'ma,[],,[],,False,False,,2
-ahin1234-2-16-1,,ahin1234-2,16,hawal ni ʔə'nəm,hawal ni ʔə'nəm,[],,[],,False,False,,2
-ahin1234-2-17-1,,ahin1234-2,17,hawal ni pi'to,hawal ni pi'to,[],,[],,False,False,,2
-ahin1234-2-18-1,,ahin1234-2,18,hawal ni wa'lo,hawal ni wa'lo,[],,[],,False,False,,2
-ahin1234-2-19-1,,ahin1234-2,19,hawal ni hi'yam,hawal ni hi'yam,[],,[],,False,False,,2
-ahin1234-2-20-1,,ahin1234-2,20,dowan 'polo,dowan 'polo,[],,[],,False,False,,2
-ahin1234-2-21-1,,ahin1234-2,21,dowan 'polo tan ha'key,dowan 'polo tan ha'key,[],,[],,False,False,,2
-ahin1234-2-22-1,,ahin1234-2,22,dowan 'polo tan do'wa,dowan 'polo tan do'wa,[],,[],,False,False,,2
-ahin1234-2-23-1,,ahin1234-2,23,dowan 'polo tan təl'lo,dowan 'polo tan təl'lo,[],,[],,False,False,,2
-ahin1234-2-24-1,,ahin1234-2,24,dowan 'polo tan ʔa'pat,dowan 'polo tan ʔa'pat,[],,[],,False,False,,2
-ahin1234-2-25-1,,ahin1234-2,25,dowan 'polo tan li'ma,dowan 'polo tan li'ma,[],,[],,False,False,,2
-ahin1234-2-26-1,,ahin1234-2,26,dowan 'polo tan ʔə'nəm,dowan 'polo tan ʔə'nəm,[],,[],,False,False,,2
-ahin1234-2-27-1,,ahin1234-2,27,dowan 'polo tan pi'to,dowan 'polo tan pi'to,[],,[],,False,False,,2
-ahin1234-2-28-1,,ahin1234-2,28,dowan 'polo tan wa'lo,dowan 'polo tan wa'lo,[],,[],,False,False,,2
-ahin1234-2-29-1,,ahin1234-2,29,dowan 'polo tan hi'yam,dowan 'polo tan hi'yam,[],,[],,False,False,,2
-ahin1234-2-30-1,,ahin1234-2,30,təllon 'polo,təllon 'polo,[],,[],,False,False,,2
-ahin1234-2-40-1,,ahin1234-2,40,ʔapatta 'polo,ʔapatta 'polo,[],,[],,False,False,,2
-ahin1234-2-50-1,,ahin1234-2,50,liman 'polo,liman 'polo,[],,[],,False,False,,2
-ahin1234-2-60-1,,ahin1234-2,60,ʔənəm ma 'polo,ʔənəm ma 'polo,[],,[],,False,False,,2
-ahin1234-2-70-1,,ahin1234-2,70,piton 'polo,piton 'polo,[],,[],,False,False,,2
-ahin1234-2-80-1,,ahin1234-2,80,walon 'polo,walon 'polo,[],,[],,False,False,,2
-ahin1234-2-90-1,,ahin1234-2,90,hiyam 'polo,hiyam 'polo,[],,[],,False,False,,2
-ahin1234-2-100-1,,ahin1234-2,100,hal la'hoh,hal la'hoh,[],,[],,False,False,,2
-ahin1234-2-200-1,,ahin1234-2,200,dowan la'hoh,dowan la'hoh,[],,[],,False,False,,2
-ahin1234-2-1000-1,,ahin1234-2,1000,hal 'libo,hal 'libo,[],,[],,False,False,,2
-ahin1234-2-2000-1,,ahin1234-2,2000,dowan 'libo,dowan 'libo,[],,[],,False,False,,2
+ahin1234-2-1-1,,ahin1234-2,1,ha'key,ha'key,[],,['chan2019'],,False,False,,2
+ahin1234-2-2-1,,ahin1234-2,2,do'wa,do'wa,[],,['chan2019'],,False,False,,2
+ahin1234-2-3-1,,ahin1234-2,3,təl'lo,təl'lo,[],,['chan2019'],,False,False,,2
+ahin1234-2-4-1,,ahin1234-2,4,ʔa'pat,ʔa'pat,[],,['chan2019'],,False,False,,2
+ahin1234-2-5-1,,ahin1234-2,5,li'ma,li'ma,[],,['chan2019'],,False,False,,2
+ahin1234-2-6-1,,ahin1234-2,6,ʔə'nəm,ʔə'nəm,[],,['chan2019'],,False,False,,2
+ahin1234-2-7-1,,ahin1234-2,7,pi'to,pi'to,[],,['chan2019'],,False,False,,2
+ahin1234-2-8-1,,ahin1234-2,8,wa'lo,wa'lo,[],,['chan2019'],,False,False,,2
+ahin1234-2-9-1,,ahin1234-2,9,hi'yam,hi'yam,[],,['chan2019'],,False,False,,2
+ahin1234-2-10-1,,ahin1234-2,10,ham'polo,ham'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-11-1,,ahin1234-2,11,hawal ni ha'key,hawal ni ha'key,[],,['chan2019'],,False,False,,2
+ahin1234-2-12-1,,ahin1234-2,12,hawal ni do'wa,hawal ni do'wa,[],,['chan2019'],,False,False,,2
+ahin1234-2-13-1,,ahin1234-2,13,hawal ni təl'lo,hawal ni təl'lo,[],,['chan2019'],,False,False,,2
+ahin1234-2-14-1,,ahin1234-2,14,hawal ni ʔa'pat,hawal ni ʔa'pat,[],,['chan2019'],,False,False,,2
+ahin1234-2-15-1,,ahin1234-2,15,hawal ni li'ma,hawal ni li'ma,[],,['chan2019'],,False,False,,2
+ahin1234-2-16-1,,ahin1234-2,16,hawal ni ʔə'nəm,hawal ni ʔə'nəm,[],,['chan2019'],,False,False,,2
+ahin1234-2-17-1,,ahin1234-2,17,hawal ni pi'to,hawal ni pi'to,[],,['chan2019'],,False,False,,2
+ahin1234-2-18-1,,ahin1234-2,18,hawal ni wa'lo,hawal ni wa'lo,[],,['chan2019'],,False,False,,2
+ahin1234-2-19-1,,ahin1234-2,19,hawal ni hi'yam,hawal ni hi'yam,[],,['chan2019'],,False,False,,2
+ahin1234-2-20-1,,ahin1234-2,20,dowan 'polo,dowan 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-21-1,,ahin1234-2,21,dowan 'polo tan ha'key,dowan 'polo tan ha'key,[],,['chan2019'],,False,False,,2
+ahin1234-2-22-1,,ahin1234-2,22,dowan 'polo tan do'wa,dowan 'polo tan do'wa,[],,['chan2019'],,False,False,,2
+ahin1234-2-23-1,,ahin1234-2,23,dowan 'polo tan təl'lo,dowan 'polo tan təl'lo,[],,['chan2019'],,False,False,,2
+ahin1234-2-24-1,,ahin1234-2,24,dowan 'polo tan ʔa'pat,dowan 'polo tan ʔa'pat,[],,['chan2019'],,False,False,,2
+ahin1234-2-25-1,,ahin1234-2,25,dowan 'polo tan li'ma,dowan 'polo tan li'ma,[],,['chan2019'],,False,False,,2
+ahin1234-2-26-1,,ahin1234-2,26,dowan 'polo tan ʔə'nəm,dowan 'polo tan ʔə'nəm,[],,['chan2019'],,False,False,,2
+ahin1234-2-27-1,,ahin1234-2,27,dowan 'polo tan pi'to,dowan 'polo tan pi'to,[],,['chan2019'],,False,False,,2
+ahin1234-2-28-1,,ahin1234-2,28,dowan 'polo tan wa'lo,dowan 'polo tan wa'lo,[],,['chan2019'],,False,False,,2
+ahin1234-2-29-1,,ahin1234-2,29,dowan 'polo tan hi'yam,dowan 'polo tan hi'yam,[],,['chan2019'],,False,False,,2
+ahin1234-2-30-1,,ahin1234-2,30,təllon 'polo,təllon 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-40-1,,ahin1234-2,40,ʔapatta 'polo,ʔapatta 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-50-1,,ahin1234-2,50,liman 'polo,liman 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-60-1,,ahin1234-2,60,ʔənəm ma 'polo,ʔənəm ma 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-70-1,,ahin1234-2,70,piton 'polo,piton 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-80-1,,ahin1234-2,80,walon 'polo,walon 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-90-1,,ahin1234-2,90,hiyam 'polo,hiyam 'polo,[],,['chan2019'],,False,False,,2
+ahin1234-2-100-1,,ahin1234-2,100,hal la'hoh,hal la'hoh,[],,['chan2019'],,False,False,,2
+ahin1234-2-200-1,,ahin1234-2,200,dowan la'hoh,dowan la'hoh,[],,['chan2019'],,False,False,,2
+ahin1234-2-1000-1,,ahin1234-2,1000,hal 'libo,hal 'libo,[],,['chan2019'],,False,False,,2
+ahin1234-2-2000-1,,ahin1234-2,2000,dowan 'libo,dowan 'libo,[],,['chan2019'],,False,False,,2

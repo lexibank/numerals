@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-arop1243-1-1-1,,arop1243-1,1,'ɑ.tu,'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-2-1,,arop1243-1,2,'ru,'ru,[],,[],,False,False,,1
-arop1243-1-3-1,,arop1243-1,3,'toɭ,'toɭ,[],,[],,False,False,,1
-arop1243-1-4-1,,arop1243-1,4,'pɑi,'pɑi,[],,[],,False,False,,1
-arop1243-1-5-1,,arop1243-1,5,'li.mi,'li.mi,[],,[],,False,False,,1
-arop1243-1-6-1,,arop1243-1,6,'li.mi 'bɛ 'ɑ.tu,'li.mi 'bɛ 'ɑ.tu,[],( 5 + 1 ),[],,False,False,,1
-arop1243-1-7-1,,arop1243-1,7,'li.mi 'bɛ 'ru,'li.mi 'bɛ 'ru,[],( 5 + 2 ),[],,False,False,,1
-arop1243-1-8-1,,arop1243-1,8,'li.mi 'bɛ 'toɭ,'li.mi 'bɛ 'toɭ,[],( 5 + 3 ),[],,False,False,,1
-arop1243-1-9-1,,arop1243-1,9,'li.mi 'bɛ 'pɑi,'li.mi 'bɛ 'pɑi,[],( 5 + 4 ),[],,False,False,,1
-arop1243-1-10-1,,arop1243-1,10,sɑ.'ŋɑu.uɭ,sɑ.'ŋɑu.uɭ,[],,[],,False,False,,1
-arop1243-1-11-1,,arop1243-1,11,sɑ.'ŋɑu.uɭ 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'bɛ 'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-12-1,,arop1243-1,12,sɑ.'ŋɑu.uɭ 'bɛ 'ru,sɑ.'ŋɑu.uɭ 'bɛ 'ru,[],,[],,False,False,,1
-arop1243-1-13-1,,arop1243-1,13,sɑ.'ŋɑu.uɭ 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ 'bɛ 'toɭ,[],,[],,False,False,,1
-arop1243-1-14-1,,arop1243-1,14,sɑ.'ŋɑu.uɭ 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ 'bɛ 'pɑi,[],,[],,False,False,,1
-arop1243-1-15-1,,arop1243-1,15,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi,[],,[],,False,False,,1
-arop1243-1-16-1,,arop1243-1,16,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-17-1,,arop1243-1,17,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-18-1,,arop1243-1,18,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'toɭ,[],,[],,False,False,,1
-arop1243-1-19-1,,arop1243-1,19,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'pɑi,[],,[],,False,False,,1
-arop1243-1-20-1,,arop1243-1,20,sɑ.'ŋɑu.uɭ'ru,sɑ.'ŋɑu.uɭ'ru,[],,[],,False,False,,1
-arop1243-1-21-1,,arop1243-1,21,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-22-1,,arop1243-1,22,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ru,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ru,[],,[],,False,False,,1
-arop1243-1-23-1,,arop1243-1,23,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'toɭ,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'toɭ,[],,[],,False,False,,1
-arop1243-1-24-1,,arop1243-1,24,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'pɑi,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'pɑi,[],,[],,False,False,,1
-arop1243-1-25-1,,arop1243-1,25,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi,[],,[],,False,False,,1
-arop1243-1-26-1,,arop1243-1,26,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-27-1,,arop1243-1,27,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ru,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ru,[],,[],,False,False,,1
-arop1243-1-28-1,,arop1243-1,28,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'toɭ,[],,[],,False,False,,1
-arop1243-1-29-1,,arop1243-1,29,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'pɑi,[],,[],,False,False,,1
-arop1243-1-30-1,,arop1243-1,30,sɑ.'ŋɑu.uɭ 'toɭ,sɑ.'ŋɑu.uɭ 'toɭ,[],,[],,False,False,,1
-arop1243-1-40-1,,arop1243-1,40,sɑ.'ŋɑu.uɭ 'pɑi,sɑ.'ŋɑu.uɭ 'pɑi,[],,[],,False,False,,1
-arop1243-1-50-1,,arop1243-1,50,sɑ.'ŋɑu.uɭ 'li.mi,sɑ.'ŋɑu.uɭ 'li.mi,[],,[],,False,False,,1
-arop1243-1-60-1,,arop1243-1,60,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-70-1,,arop1243-1,70,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ru,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ru,[],,[],,False,False,,1
-arop1243-1-80-1,,arop1243-1,80,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'toɭ,[],,[],,False,False,,1
-arop1243-1-90-1,,arop1243-1,90,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'pɑi,[],,[],,False,False,,1
-arop1243-1-100-1,,arop1243-1,100,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ,[],,[],,False,False,,1
-arop1243-1-200-1,,arop1243-1,200,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ'ru,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ'ru,[],,[],,False,False,,1
-arop1243-1-1000-1,,arop1243-1,1000,'tɑu 'ɑ.tu,'tɑu 'ɑ.tu,[],,[],,False,False,,1
-arop1243-1-2000-1,,arop1243-1,2000,'tɑu 'ru,'tɑu 'ru,[],,[],,False,False,,1
+arop1243-1-1-1,,arop1243-1,1,'ɑ.tu,'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-2-1,,arop1243-1,2,'ru,'ru,[],,['chan2019'],,False,False,,1
+arop1243-1-3-1,,arop1243-1,3,'toɭ,'toɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-4-1,,arop1243-1,4,'pɑi,'pɑi,[],,['chan2019'],,False,False,,1
+arop1243-1-5-1,,arop1243-1,5,'li.mi,'li.mi,[],,['chan2019'],,False,False,,1
+arop1243-1-6-1,,arop1243-1,6,'li.mi 'bɛ 'ɑ.tu,'li.mi 'bɛ 'ɑ.tu,[],( 5 + 1 ),['chan2019'],,False,False,,1
+arop1243-1-7-1,,arop1243-1,7,'li.mi 'bɛ 'ru,'li.mi 'bɛ 'ru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+arop1243-1-8-1,,arop1243-1,8,'li.mi 'bɛ 'toɭ,'li.mi 'bɛ 'toɭ,[],( 5 + 3 ),['chan2019'],,False,False,,1
+arop1243-1-9-1,,arop1243-1,9,'li.mi 'bɛ 'pɑi,'li.mi 'bɛ 'pɑi,[],( 5 + 4 ),['chan2019'],,False,False,,1
+arop1243-1-10-1,,arop1243-1,10,sɑ.'ŋɑu.uɭ,sɑ.'ŋɑu.uɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-11-1,,arop1243-1,11,sɑ.'ŋɑu.uɭ 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'bɛ 'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-12-1,,arop1243-1,12,sɑ.'ŋɑu.uɭ 'bɛ 'ru,sɑ.'ŋɑu.uɭ 'bɛ 'ru,[],,['chan2019'],,False,False,,1
+arop1243-1-13-1,,arop1243-1,13,sɑ.'ŋɑu.uɭ 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ 'bɛ 'toɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-14-1,,arop1243-1,14,sɑ.'ŋɑu.uɭ 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ 'bɛ 'pɑi,[],,['chan2019'],,False,False,,1
+arop1243-1-15-1,,arop1243-1,15,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi,[],,['chan2019'],,False,False,,1
+arop1243-1-16-1,,arop1243-1,16,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-17-1,,arop1243-1,17,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-18-1,,arop1243-1,18,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'toɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-19-1,,arop1243-1,19,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ 'bɛ 'li.mi 'bɛ 'pɑi,[],,['chan2019'],,False,False,,1
+arop1243-1-20-1,,arop1243-1,20,sɑ.'ŋɑu.uɭ'ru,sɑ.'ŋɑu.uɭ'ru,[],,['chan2019'],,False,False,,1
+arop1243-1-21-1,,arop1243-1,21,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-22-1,,arop1243-1,22,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ru,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'ru,[],,['chan2019'],,False,False,,1
+arop1243-1-23-1,,arop1243-1,23,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'toɭ,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'toɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-24-1,,arop1243-1,24,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'pɑi,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'pɑi,[],,['chan2019'],,False,False,,1
+arop1243-1-25-1,,arop1243-1,25,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi,[],,['chan2019'],,False,False,,1
+arop1243-1-26-1,,arop1243-1,26,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-27-1,,arop1243-1,27,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ru,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'ru,[],,['chan2019'],,False,False,,1
+arop1243-1-28-1,,arop1243-1,28,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'toɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-29-1,,arop1243-1,29,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ'ru 'in.bɛ 'li.mi 'bɛ 'pɑi,[],,['chan2019'],,False,False,,1
+arop1243-1-30-1,,arop1243-1,30,sɑ.'ŋɑu.uɭ 'toɭ,sɑ.'ŋɑu.uɭ 'toɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-40-1,,arop1243-1,40,sɑ.'ŋɑu.uɭ 'pɑi,sɑ.'ŋɑu.uɭ 'pɑi,[],,['chan2019'],,False,False,,1
+arop1243-1-50-1,,arop1243-1,50,sɑ.'ŋɑu.uɭ 'li.mi,sɑ.'ŋɑu.uɭ 'li.mi,[],,['chan2019'],,False,False,,1
+arop1243-1-60-1,,arop1243-1,60,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ɑ.tu,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-70-1,,arop1243-1,70,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ru,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'ru,[],,['chan2019'],,False,False,,1
+arop1243-1-80-1,,arop1243-1,80,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'toɭ,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'toɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-90-1,,arop1243-1,90,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'pɑi,sɑ.'ŋɑu.uɭ 'li.mi 'bɛ 'pɑi,[],,['chan2019'],,False,False,,1
+arop1243-1-100-1,,arop1243-1,100,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ,[],,['chan2019'],,False,False,,1
+arop1243-1-200-1,,arop1243-1,200,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ'ru,sɑ.'ŋɑu.uɭ sɑ.'ŋɑu.uɭ'ru,[],,['chan2019'],,False,False,,1
+arop1243-1-1000-1,,arop1243-1,1000,'tɑu 'ɑ.tu,'tɑu 'ɑ.tu,[],,['chan2019'],,False,False,,1
+arop1243-1-2000-1,,arop1243-1,2000,'tɑu 'ru,'tɑu 'ru,[],,['chan2019'],,False,False,,1

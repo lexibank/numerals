@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lowe1395-1-1-1,,lowe1395-1,1,mu:j,mu:j,[],,[],,False,False,,1
-lowe1395-1-2-1,,lowe1395-1,2,ba:r,ba:r,[],,[],,False,False,,1
-lowe1395-1-3-1,,lowe1395-1,3,pɛː,pɛː,[],,[],,False,False,,1
-lowe1395-1-4-1,,lowe1395-1,4,pṵan,pṵan,[],,[],,False,False,poan,1
-lowe1395-1-5-1,,lowe1395-1,5,sɤːŋ,sɤːŋ,[],,[],,False,False,,1
-lowe1395-1-6-1,,lowe1395-1,6,tapat,tapat,[],,[],,False,False,,1
-lowe1395-1-7-1,,lowe1395-1,7,tapoːl,tapoːl,[],,[],,False,False,,1
-lowe1395-1-8-1,,lowe1395-1,8,takɔːl,takɔːl,[],,[],,False,False,,1
-lowe1395-1-9-1,,lowe1395-1,9,takḭajh,takḭajh,[],,[],,False,False,takeaih,1
-lowe1395-1-10-1,,lowe1395-1,10,ma ʔɲcit,ma ʔɲcit,[],,[],,False,False,,1
-lowe1395-1-11-1,,lowe1395-1,11,ma ʔɲcit la muːj,ma ʔɲcit la muːj,[],,[],,False,False,,1
-lowe1395-1-12-1,,lowe1395-1,12,ma ʔɲcit la baːr,ma ʔɲcit la baːr,[],,[],,False,False,,1
-lowe1395-1-13-1,,lowe1395-1,13,ma ʔɲcit la pɛː,ma ʔɲcit la pɛː,[],,[],,False,False,,1
-lowe1395-1-14-1,,lowe1395-1,14,ma ʔɲcit la poan,ma ʔɲcit la poan,[],,[],,False,False,,1
-lowe1395-1-15-1,,lowe1395-1,15,ma ʔɲcit la sɤːŋ,ma ʔɲcit la sɤːŋ,[],,[],,False,False,,1
-lowe1395-1-16-1,,lowe1395-1,16,ma ʔɲcit la tapat,ma ʔɲcit la tapat,[],,[],,False,False,,1
-lowe1395-1-17-1,,lowe1395-1,17,ma ʔɲcit la tapoːl,ma ʔɲcit la tapoːl,[],,[],,False,False,,1
-lowe1395-1-18-1,,lowe1395-1,18,ma ʔɲcit la takɔːl,ma ʔɲcit la takɔːl,[],,[],,False,False,,1
-lowe1395-1-19-1,,lowe1395-1,19,ma ʔɲcit la takiəih,ma ʔɲcit la takiəih,[],,[],,False,False,,1
-lowe1395-1-20-1,,lowe1395-1,20,baːr cit,baːr cit,[],,[],,False,False,,1
-lowe1395-1-21-1,,lowe1395-1,21,baːr cit la muːj,baːr cit la muːj,[],,[],,False,False,,1
-lowe1395-1-22-1,,lowe1395-1,22,baːr cit la baːr,baːr cit la baːr,[],,[],,False,False,,1
-lowe1395-1-23-1,,lowe1395-1,23,baːr cit la pɛː,baːr cit la pɛː,[],,[],,False,False,,1
-lowe1395-1-24-1,,lowe1395-1,24,baːr cit la poan,baːr cit la poan,[],,[],,False,False,,1
-lowe1395-1-25-1,,lowe1395-1,25,baːr cit la sɤːŋ,baːr cit la sɤːŋ,[],,[],,False,False,,1
-lowe1395-1-26-1,,lowe1395-1,26,baːr cit la tapat,baːr cit la tapat,[],,[],,False,False,,1
-lowe1395-1-27-1,,lowe1395-1,27,baːr cit la tapoːl,baːr cit la tapoːl,[],,[],,False,False,,1
-lowe1395-1-28-1,,lowe1395-1,28,baːr cit la takɔːl,baːr cit la takɔːl,[],,[],,False,False,,1
-lowe1395-1-29-1,,lowe1395-1,29,baːr cit la takiəih,baːr cit la takiəih,[],,[],,False,False,,1
-lowe1395-1-30-1,,lowe1395-1,30,pɛː cit,pɛː cit,[],,[],,False,False,,1
-lowe1395-1-40-1,,lowe1395-1,40,poan cit,poan cit,[],,[],,False,False,,1
-lowe1395-1-50-1,,lowe1395-1,50,sɤːŋ cit,sɤːŋ cit,[],,[],,False,False,,1
-lowe1395-1-60-1,,lowe1395-1,60,tapat cit,tapat cit,[],,[],,False,False,,1
-lowe1395-1-70-1,,lowe1395-1,70,tapoːl cit,tapoːl cit,[],,[],,False,False,,1
-lowe1395-1-80-1,,lowe1395-1,80,takɔːl cit,takɔːl cit,[],,[],,False,False,,1
-lowe1395-1-90-1,,lowe1395-1,90,takiəih cit,takiəih cit,[],,[],,False,False,,1
-lowe1395-1-100-1,,lowe1395-1,100,muːj klam,muːj klam,[],,[],,False,False,,1
-lowe1395-1-200-1,,lowe1395-1,200,baːr klam,baːr klam,[],,[],,False,False,,1
-lowe1395-1-1000-1,,lowe1395-1,1000,muːj pan,muːj pan,[],< Thai ,[],,True,False,,1
-lowe1395-1-2000-1,,lowe1395-1,2000,baːr pan,baːr pan,[],,[],,False,False,,1
+lowe1395-1-1-1,,lowe1395-1,1,mu:j,mu:j,[],,['chan2019'],,False,False,,1
+lowe1395-1-2-1,,lowe1395-1,2,ba:r,ba:r,[],,['chan2019'],,False,False,,1
+lowe1395-1-3-1,,lowe1395-1,3,pɛː,pɛː,[],,['chan2019'],,False,False,,1
+lowe1395-1-4-1,,lowe1395-1,4,pṵan,pṵan,[],,['chan2019'],,False,False,poan,1
+lowe1395-1-5-1,,lowe1395-1,5,sɤːŋ,sɤːŋ,[],,['chan2019'],,False,False,,1
+lowe1395-1-6-1,,lowe1395-1,6,tapat,tapat,[],,['chan2019'],,False,False,,1
+lowe1395-1-7-1,,lowe1395-1,7,tapoːl,tapoːl,[],,['chan2019'],,False,False,,1
+lowe1395-1-8-1,,lowe1395-1,8,takɔːl,takɔːl,[],,['chan2019'],,False,False,,1
+lowe1395-1-9-1,,lowe1395-1,9,takḭajh,takḭajh,[],,['chan2019'],,False,False,takeaih,1
+lowe1395-1-10-1,,lowe1395-1,10,ma ʔɲcit,ma ʔɲcit,[],,['chan2019'],,False,False,,1
+lowe1395-1-11-1,,lowe1395-1,11,ma ʔɲcit la muːj,ma ʔɲcit la muːj,[],,['chan2019'],,False,False,,1
+lowe1395-1-12-1,,lowe1395-1,12,ma ʔɲcit la baːr,ma ʔɲcit la baːr,[],,['chan2019'],,False,False,,1
+lowe1395-1-13-1,,lowe1395-1,13,ma ʔɲcit la pɛː,ma ʔɲcit la pɛː,[],,['chan2019'],,False,False,,1
+lowe1395-1-14-1,,lowe1395-1,14,ma ʔɲcit la poan,ma ʔɲcit la poan,[],,['chan2019'],,False,False,,1
+lowe1395-1-15-1,,lowe1395-1,15,ma ʔɲcit la sɤːŋ,ma ʔɲcit la sɤːŋ,[],,['chan2019'],,False,False,,1
+lowe1395-1-16-1,,lowe1395-1,16,ma ʔɲcit la tapat,ma ʔɲcit la tapat,[],,['chan2019'],,False,False,,1
+lowe1395-1-17-1,,lowe1395-1,17,ma ʔɲcit la tapoːl,ma ʔɲcit la tapoːl,[],,['chan2019'],,False,False,,1
+lowe1395-1-18-1,,lowe1395-1,18,ma ʔɲcit la takɔːl,ma ʔɲcit la takɔːl,[],,['chan2019'],,False,False,,1
+lowe1395-1-19-1,,lowe1395-1,19,ma ʔɲcit la takiəih,ma ʔɲcit la takiəih,[],,['chan2019'],,False,False,,1
+lowe1395-1-20-1,,lowe1395-1,20,baːr cit,baːr cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-21-1,,lowe1395-1,21,baːr cit la muːj,baːr cit la muːj,[],,['chan2019'],,False,False,,1
+lowe1395-1-22-1,,lowe1395-1,22,baːr cit la baːr,baːr cit la baːr,[],,['chan2019'],,False,False,,1
+lowe1395-1-23-1,,lowe1395-1,23,baːr cit la pɛː,baːr cit la pɛː,[],,['chan2019'],,False,False,,1
+lowe1395-1-24-1,,lowe1395-1,24,baːr cit la poan,baːr cit la poan,[],,['chan2019'],,False,False,,1
+lowe1395-1-25-1,,lowe1395-1,25,baːr cit la sɤːŋ,baːr cit la sɤːŋ,[],,['chan2019'],,False,False,,1
+lowe1395-1-26-1,,lowe1395-1,26,baːr cit la tapat,baːr cit la tapat,[],,['chan2019'],,False,False,,1
+lowe1395-1-27-1,,lowe1395-1,27,baːr cit la tapoːl,baːr cit la tapoːl,[],,['chan2019'],,False,False,,1
+lowe1395-1-28-1,,lowe1395-1,28,baːr cit la takɔːl,baːr cit la takɔːl,[],,['chan2019'],,False,False,,1
+lowe1395-1-29-1,,lowe1395-1,29,baːr cit la takiəih,baːr cit la takiəih,[],,['chan2019'],,False,False,,1
+lowe1395-1-30-1,,lowe1395-1,30,pɛː cit,pɛː cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-40-1,,lowe1395-1,40,poan cit,poan cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-50-1,,lowe1395-1,50,sɤːŋ cit,sɤːŋ cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-60-1,,lowe1395-1,60,tapat cit,tapat cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-70-1,,lowe1395-1,70,tapoːl cit,tapoːl cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-80-1,,lowe1395-1,80,takɔːl cit,takɔːl cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-90-1,,lowe1395-1,90,takiəih cit,takiəih cit,[],,['chan2019'],,False,False,,1
+lowe1395-1-100-1,,lowe1395-1,100,muːj klam,muːj klam,[],,['chan2019'],,False,False,,1
+lowe1395-1-200-1,,lowe1395-1,200,baːr klam,baːr klam,[],,['chan2019'],,False,False,,1
+lowe1395-1-1000-1,,lowe1395-1,1000,muːj pan,muːj pan,[],< Thai ,['chan2019'],,True,False,,1
+lowe1395-1-2000-1,,lowe1395-1,2000,baːr pan,baːr pan,[],,['chan2019'],,False,False,,1

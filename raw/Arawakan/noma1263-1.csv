@@ -1,16 +1,16 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-noma1263-1-1-1,,noma1263-1,1,pátiró,pátiró,[],( inanimate),[],,False,False,,1
-noma1263-1-1-2,,noma1263-1,1,pániro,pániro,[],(animate ),[],,False,False,,1
-noma1263-1-2-1,,noma1263-1,2,pítetí,pítetí,[],( inanimate),[],,False,False,,1
-noma1263-1-2-2,,noma1263-1,2,pítení,pítení,[],(animate ),[],,False,False,,1
-noma1263-1-3-1,,noma1263-1,3,mábatí,mábatí,[],( inanimate),[],,False,False,,1
-noma1263-1-3-2,,noma1263-1,3,mábaní,mábaní,[],(animate ),[],,False,False,,1
-noma1263-1-4-1,,noma1263-1,4,otsibasáti,otsibasáti,[],( inanimate),[],,False,False,,1
-noma1263-1-4-2,,noma1263-1,4,itsibasáti,itsibasáti,[],(animate ),[],,False,False,,1
-noma1263-1-5-1,,noma1263-1,5,pabocoróti,pabocoróti,[],( inanimate),[],,False,False,,1
-noma1263-1-5-2,,noma1263-1,5,pabocoróti,pabocoróti,[],(litː 'one hand') (animate ),[],,False,False,,1
-noma1263-1-6-1,,noma1263-1,6,áɡaca pátiró basíní nobaco,áɡaca pátiró basíní nobaco,[],,[],,False,False,,1
-noma1263-1-7-1,,noma1263-1,7,áɡaca píte basíní nobaco,áɡaca píte basíní nobaco,[],,[],,False,False,,1
-noma1263-1-8-1,,noma1263-1,8,áɡaca mába basíní nobaco,áɡaca mába basíní nobaco,[],,[],,False,False,,1
-noma1263-1-9-1,,noma1263-1,9,áɡaca otsibasáti basíní nobaco,áɡaca otsibasáti basíní nobaco,[],,[],,False,False,,1
-noma1263-1-10-1,,noma1263-1,10,antaɡaísá nobaco,antaɡaísá nobaco,[],(litː 'all over my hands'),[],,False,False,,1
+noma1263-1-1-1,,noma1263-1,1,pátiró,pátiró,[],( inanimate),['chan2019'],,False,False,,1
+noma1263-1-1-2,,noma1263-1,1,pániro,pániro,[],(animate ),['chan2019'],,False,False,,1
+noma1263-1-2-1,,noma1263-1,2,pítetí,pítetí,[],( inanimate),['chan2019'],,False,False,,1
+noma1263-1-2-2,,noma1263-1,2,pítení,pítení,[],(animate ),['chan2019'],,False,False,,1
+noma1263-1-3-1,,noma1263-1,3,mábatí,mábatí,[],( inanimate),['chan2019'],,False,False,,1
+noma1263-1-3-2,,noma1263-1,3,mábaní,mábaní,[],(animate ),['chan2019'],,False,False,,1
+noma1263-1-4-1,,noma1263-1,4,otsibasáti,otsibasáti,[],( inanimate),['chan2019'],,False,False,,1
+noma1263-1-4-2,,noma1263-1,4,itsibasáti,itsibasáti,[],(animate ),['chan2019'],,False,False,,1
+noma1263-1-5-1,,noma1263-1,5,pabocoróti,pabocoróti,[],( inanimate),['chan2019'],,False,False,,1
+noma1263-1-5-2,,noma1263-1,5,pabocoróti,pabocoróti,[],(litː 'one hand') (animate ),['chan2019'],,False,False,,1
+noma1263-1-6-1,,noma1263-1,6,áɡaca pátiró basíní nobaco,áɡaca pátiró basíní nobaco,[],,['chan2019'],,False,False,,1
+noma1263-1-7-1,,noma1263-1,7,áɡaca píte basíní nobaco,áɡaca píte basíní nobaco,[],,['chan2019'],,False,False,,1
+noma1263-1-8-1,,noma1263-1,8,áɡaca mába basíní nobaco,áɡaca mába basíní nobaco,[],,['chan2019'],,False,False,,1
+noma1263-1-9-1,,noma1263-1,9,áɡaca otsibasáti basíní nobaco,áɡaca otsibasáti basíní nobaco,[],,['chan2019'],,False,False,,1
+noma1263-1-10-1,,noma1263-1,10,antaɡaísá nobaco,antaɡaísá nobaco,[],(litː 'all over my hands'),['chan2019'],,False,False,,1

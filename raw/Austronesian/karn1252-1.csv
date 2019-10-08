@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-karn1252-1-1-1,,karn1252-1,1,ta,ta,[],,[],,False,False,,1
-karn1252-1-2-1,,karn1252-1,2,ru,ru,[],,[],,False,False,,1
-karn1252-1-3-1,,karn1252-1,3,tol,tol,[],,[],,False,False,,1
-karn1252-1-4-1,,karn1252-1,4,paŋ,paŋ,[],,[],,False,False,,1
-karn1252-1-5-1,,karn1252-1,5,lim,lim,[],,[],,False,False,,1
-karn1252-1-6-1,,karn1252-1,6,lim be ta,lim be ta,[],( 5 + 1 ),[],,False,False,,1
-karn1252-1-7-1,,karn1252-1,7,lim be ru,lim be ru,[],( 5 + 2 ),[],,False,False,,1
-karn1252-1-8-1,,karn1252-1,8,lim be tol,lim be tol,[],( 5 + 3 ),[],,False,False,,1
-karn1252-1-9-1,,karn1252-1,9,lim be paŋ,lim be paŋ,[],( 5 + 4 ),[],,False,False,,1
-karn1252-1-10-1,,karn1252-1,10,saŋul,saŋul,[],,[],,False,False,,1
-karn1252-1-11-1,,karn1252-1,11,saŋul be ta,saŋul be ta,[],,[],,False,False,,1
-karn1252-1-12-1,,karn1252-1,12,saŋul be ru,saŋul be ru,[],,[],,False,False,,1
-karn1252-1-13-1,,karn1252-1,13,saŋul be tol,saŋul be tol,[],,[],,False,False,,1
-karn1252-1-14-1,,karn1252-1,14,saŋul be paŋ,saŋul be paŋ,[],,[],,False,False,,1
-karn1252-1-15-1,,karn1252-1,15,saŋul be lim,saŋul be lim,[],,[],,False,False,,1
-karn1252-1-16-1,,karn1252-1,16,saŋul be lim be ta,saŋul be lim be ta,[],,[],,False,False,,1
-karn1252-1-17-1,,karn1252-1,17,saŋul be lim be ru,saŋul be lim be ru,[],,[],,False,False,,1
-karn1252-1-18-1,,karn1252-1,18,saŋul be lim be tol,saŋul be lim be tol,[],,[],,False,False,,1
-karn1252-1-19-1,,karn1252-1,19,saŋul be lim be paŋ,saŋul be lim be paŋ,[],,[],,False,False,,1
-karn1252-1-20-1,,karn1252-1,20,tamot ta,tamot ta,[],( litː ''one person''),[],,False,False,,1
-karn1252-1-21-1,,karn1252-1,21,tamot ta kanon ta,tamot ta kanon ta,[],,[],,False,False,,1
-karn1252-1-22-1,,karn1252-1,22,tamot ta kanon ru,tamot ta kanon ru,[],,[],,False,False,,1
-karn1252-1-23-1,,karn1252-1,23,tamot ta kanon tol,tamot ta kanon tol,[],,[],,False,False,,1
-karn1252-1-24-1,,karn1252-1,24,tamot ta kanon paŋ,tamot ta kanon paŋ,[],,[],,False,False,,1
-karn1252-1-25-1,,karn1252-1,25,tamot ta kanon lim,tamot ta kanon lim,[],,[],,False,False,,1
-karn1252-1-26-1,,karn1252-1,26,tamot ta kanon lim be ta,tamot ta kanon lim be ta,[],,[],,False,False,,1
-karn1252-1-27-1,,karn1252-1,27,tamot ta kanon lim be ru,tamot ta kanon lim be ru,[],,[],,False,False,,1
-karn1252-1-28-1,,karn1252-1,28,tamot ta kanon lim be tol,tamot ta kanon lim be tol,[],,[],,False,False,,1
-karn1252-1-29-1,,karn1252-1,29,tamot ta kanon lim be paŋ,tamot ta kanon lim be paŋ,[],,[],,False,False,,1
-karn1252-1-30-1,,karn1252-1,30,tamot ta saŋul,tamot ta saŋul,[],,[],,False,False,,1
-karn1252-1-40-1,,karn1252-1,40,tamot ru,tamot ru,[],,[],,False,False,,1
-karn1252-1-50-1,,karn1252-1,50,tamot ru saŋul,tamot ru saŋul,[],,[],,False,False,,1
-karn1252-1-60-1,,karn1252-1,60,tamot tol,tamot tol,[],,[],,False,False,,1
-karn1252-1-70-1,,karn1252-1,70,tamot tol saŋul,tamot tol saŋul,[],,[],,False,False,,1
-karn1252-1-80-1,,karn1252-1,80,tamot paŋ,tamot paŋ,[],,[],,False,False,,1
-karn1252-1-90-1,,karn1252-1,90,tamot paŋ saŋul,tamot paŋ saŋul,[],,[],,False,False,,1
-karn1252-1-100-1,,karn1252-1,100,diŋdiŋ,diŋdiŋ,[],(ta),[],,False,False,,1
-karn1252-1-200-1,,karn1252-1,200,diŋdiŋ ru,diŋdiŋ ru,[],,[],,False,False,,1
+karn1252-1-1-1,,karn1252-1,1,ta,ta,[],,['chan2019'],,False,False,,1
+karn1252-1-2-1,,karn1252-1,2,ru,ru,[],,['chan2019'],,False,False,,1
+karn1252-1-3-1,,karn1252-1,3,tol,tol,[],,['chan2019'],,False,False,,1
+karn1252-1-4-1,,karn1252-1,4,paŋ,paŋ,[],,['chan2019'],,False,False,,1
+karn1252-1-5-1,,karn1252-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+karn1252-1-6-1,,karn1252-1,6,lim be ta,lim be ta,[],( 5 + 1 ),['chan2019'],,False,False,,1
+karn1252-1-7-1,,karn1252-1,7,lim be ru,lim be ru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+karn1252-1-8-1,,karn1252-1,8,lim be tol,lim be tol,[],( 5 + 3 ),['chan2019'],,False,False,,1
+karn1252-1-9-1,,karn1252-1,9,lim be paŋ,lim be paŋ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+karn1252-1-10-1,,karn1252-1,10,saŋul,saŋul,[],,['chan2019'],,False,False,,1
+karn1252-1-11-1,,karn1252-1,11,saŋul be ta,saŋul be ta,[],,['chan2019'],,False,False,,1
+karn1252-1-12-1,,karn1252-1,12,saŋul be ru,saŋul be ru,[],,['chan2019'],,False,False,,1
+karn1252-1-13-1,,karn1252-1,13,saŋul be tol,saŋul be tol,[],,['chan2019'],,False,False,,1
+karn1252-1-14-1,,karn1252-1,14,saŋul be paŋ,saŋul be paŋ,[],,['chan2019'],,False,False,,1
+karn1252-1-15-1,,karn1252-1,15,saŋul be lim,saŋul be lim,[],,['chan2019'],,False,False,,1
+karn1252-1-16-1,,karn1252-1,16,saŋul be lim be ta,saŋul be lim be ta,[],,['chan2019'],,False,False,,1
+karn1252-1-17-1,,karn1252-1,17,saŋul be lim be ru,saŋul be lim be ru,[],,['chan2019'],,False,False,,1
+karn1252-1-18-1,,karn1252-1,18,saŋul be lim be tol,saŋul be lim be tol,[],,['chan2019'],,False,False,,1
+karn1252-1-19-1,,karn1252-1,19,saŋul be lim be paŋ,saŋul be lim be paŋ,[],,['chan2019'],,False,False,,1
+karn1252-1-20-1,,karn1252-1,20,tamot ta,tamot ta,[],( litː ''one person''),['chan2019'],,False,False,,1
+karn1252-1-21-1,,karn1252-1,21,tamot ta kanon ta,tamot ta kanon ta,[],,['chan2019'],,False,False,,1
+karn1252-1-22-1,,karn1252-1,22,tamot ta kanon ru,tamot ta kanon ru,[],,['chan2019'],,False,False,,1
+karn1252-1-23-1,,karn1252-1,23,tamot ta kanon tol,tamot ta kanon tol,[],,['chan2019'],,False,False,,1
+karn1252-1-24-1,,karn1252-1,24,tamot ta kanon paŋ,tamot ta kanon paŋ,[],,['chan2019'],,False,False,,1
+karn1252-1-25-1,,karn1252-1,25,tamot ta kanon lim,tamot ta kanon lim,[],,['chan2019'],,False,False,,1
+karn1252-1-26-1,,karn1252-1,26,tamot ta kanon lim be ta,tamot ta kanon lim be ta,[],,['chan2019'],,False,False,,1
+karn1252-1-27-1,,karn1252-1,27,tamot ta kanon lim be ru,tamot ta kanon lim be ru,[],,['chan2019'],,False,False,,1
+karn1252-1-28-1,,karn1252-1,28,tamot ta kanon lim be tol,tamot ta kanon lim be tol,[],,['chan2019'],,False,False,,1
+karn1252-1-29-1,,karn1252-1,29,tamot ta kanon lim be paŋ,tamot ta kanon lim be paŋ,[],,['chan2019'],,False,False,,1
+karn1252-1-30-1,,karn1252-1,30,tamot ta saŋul,tamot ta saŋul,[],,['chan2019'],,False,False,,1
+karn1252-1-40-1,,karn1252-1,40,tamot ru,tamot ru,[],,['chan2019'],,False,False,,1
+karn1252-1-50-1,,karn1252-1,50,tamot ru saŋul,tamot ru saŋul,[],,['chan2019'],,False,False,,1
+karn1252-1-60-1,,karn1252-1,60,tamot tol,tamot tol,[],,['chan2019'],,False,False,,1
+karn1252-1-70-1,,karn1252-1,70,tamot tol saŋul,tamot tol saŋul,[],,['chan2019'],,False,False,,1
+karn1252-1-80-1,,karn1252-1,80,tamot paŋ,tamot paŋ,[],,['chan2019'],,False,False,,1
+karn1252-1-90-1,,karn1252-1,90,tamot paŋ saŋul,tamot paŋ saŋul,[],,['chan2019'],,False,False,,1
+karn1252-1-100-1,,karn1252-1,100,diŋdiŋ,diŋdiŋ,[],(ta),['chan2019'],,False,False,,1
+karn1252-1-200-1,,karn1252-1,200,diŋdiŋ ru,diŋdiŋ ru,[],,['chan2019'],,False,False,,1

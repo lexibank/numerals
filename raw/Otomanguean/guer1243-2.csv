@@ -1,38 +1,38 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-guer1243-2-1-1,,guer1243-2,1,cwii,cwii,[],,[],,False,False,,2
-guer1243-2-2-1,,guer1243-2,2,we,we,[],,[],,False,False,,2
-guer1243-2-3-1,,guer1243-2,3,ndyee,ndyee,[],,[],,False,False,,2
-guer1243-2-4-1,,guer1243-2,4,ñequiee,ñequiee,[],,[],,False,False,,2
-guer1243-2-5-1,,guer1243-2,5,ˀom,ˀom,[],,[],,False,False,,2
-guer1243-2-5-2,,guer1243-2,5,nˀoom,nˀoom,[],,[],,False,False,,2
-guer1243-2-6-1,,guer1243-2,6,yom,yom,[],,[],,False,False,,2
-guer1243-2-7-1,,guer1243-2,7,ntyquinee',ntyquinee',[],,[],,False,False,,2
-guer1243-2-8-1,,guer1243-2,8,ñeeⁿ,ñeeⁿ,[],,[],,False,False,,2
-guer1243-2-9-1,,guer1243-2,9,ñjeeⁿ,ñjeeⁿ,[],,[],,False,False,,2
-guer1243-2-10-1,,guer1243-2,10,qui,qui,[],( qu = k),[],,False,False,,2
-guer1243-2-11-1,,guer1243-2,11,canchoo'cwii,canchoo'cwii,[],,[],,False,False,,2
-guer1243-2-11-2,,guer1243-2,11,quinchoo'cwii,quinchoo'cwii,[],,[],,False,False,,2
-guer1243-2-12-1,,guer1243-2,12,canchoo'cwii,canchoo'cwii,[],,[],,False,False,,2
-guer1243-2-12-2,,guer1243-2,12,quinchoo'cwii,quinchoo'cwii,[],,[],,False,False,,2
-guer1243-2-13-1,,guer1243-2,13,canchoo'cwii,canchoo'cwii,[],,[],,False,False,,2
-guer1243-2-13-2,,guer1243-2,13,quinchoo'cwii,quinchoo'cwii,[],,[],,False,False,,2
-guer1243-2-14-1,,guer1243-2,14,canchoo'cwii,canchoo'cwii,[],,[],,False,False,,2
-guer1243-2-14-2,,guer1243-2,14,quinchoo'cwii,quinchoo'cwii,[],,[],,False,False,,2
-guer1243-2-15-1,,guer1243-2,15,(n)quin'oon,(n)quin'oon,[],,[],,False,False,,2
-guer1243-2-16-1,,guer1243-2,16,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 1 ),[],,False,False,,2
-guer1243-2-17-1,,guer1243-2,17,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 2 ),[],,False,False,,2
-guer1243-2-18-1,,guer1243-2,18,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 3 ) ?,[],,False,False,,2
-guer1243-2-19-1,,guer1243-2,19,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 4 ) ?,[],,False,False,,2
-guer1243-2-20-1,,guer1243-2,20,ntyquiuu,ntyquiuu,[],,[],,False,False,,2
-guer1243-2-21-1,,guer1243-2,21,ntyquiuu nchoo' cwii,ntyquiuu nchoo' cwii,[],,[],,False,False,,2
-guer1243-2-30-1,,guer1243-2,30,ntyquiuu nchoo' qui,ntyquiuu nchoo' qui,[],,[],,False,False,,2
-guer1243-2-40-1,,guer1243-2,40,wen' aaⁿ,wen' aaⁿ,[],( 2 x 20  ),[],,False,False,,2
-guer1243-2-50-1,,guer1243-2,50,wen' aaⁿ,wen' aaⁿ,[],,[],,False,False,,2
-guer1243-2-60-1,,guer1243-2,60,ndyeen' aaⁿ,ndyeen' aaⁿ,[],( 3 x 20  ),[],,False,False,,2
-guer1243-2-70-1,,guer1243-2,70,ndyeen' aaⁿ nchoo' qui ?,ndyeen' aaⁿ nchoo' qui ?,[],,[],,False,True,,2
-guer1243-2-80-1,,guer1243-2,80,ñequieen nchoo',ñequieen nchoo',[],( 4 x 20  ),[],,False,False,,2
-guer1243-2-90-1,,guer1243-2,90,ñequieen nchoo',ñequieen nchoo',[],,[],,False,False,,2
-guer1243-2-100-1,,guer1243-2,100,cwi siaⁿnto,cwi siaⁿnto,[],,[],,False,False,,2
-guer1243-2-200-1,,guer1243-2,200,we siaⁿnto ?,we siaⁿnto ?,[],,[],,False,True,,2
-guer1243-2-1000-1,,guer1243-2,1000,cwii meiⁿ,cwii meiⁿ,[],,[],,False,False,,2
-guer1243-2-2000-1,,guer1243-2,2000,we meⁿ ?,we meⁿ ?,[],,[],,False,True,,2
+guer1243-2-1-1,,guer1243-2,1,cwii,cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-2-1,,guer1243-2,2,we,we,[],,['chan2019'],,False,False,,2
+guer1243-2-3-1,,guer1243-2,3,ndyee,ndyee,[],,['chan2019'],,False,False,,2
+guer1243-2-4-1,,guer1243-2,4,ñequiee,ñequiee,[],,['chan2019'],,False,False,,2
+guer1243-2-5-1,,guer1243-2,5,ˀom,ˀom,[],,['chan2019'],,False,False,,2
+guer1243-2-5-2,,guer1243-2,5,nˀoom,nˀoom,[],,['chan2019'],,False,False,,2
+guer1243-2-6-1,,guer1243-2,6,yom,yom,[],,['chan2019'],,False,False,,2
+guer1243-2-7-1,,guer1243-2,7,ntyquinee',ntyquinee',[],,['chan2019'],,False,False,,2
+guer1243-2-8-1,,guer1243-2,8,ñeeⁿ,ñeeⁿ,[],,['chan2019'],,False,False,,2
+guer1243-2-9-1,,guer1243-2,9,ñjeeⁿ,ñjeeⁿ,[],,['chan2019'],,False,False,,2
+guer1243-2-10-1,,guer1243-2,10,qui,qui,[],( qu = k),['chan2019'],,False,False,,2
+guer1243-2-11-1,,guer1243-2,11,canchoo'cwii,canchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-11-2,,guer1243-2,11,quinchoo'cwii,quinchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-12-1,,guer1243-2,12,canchoo'cwii,canchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-12-2,,guer1243-2,12,quinchoo'cwii,quinchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-13-1,,guer1243-2,13,canchoo'cwii,canchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-13-2,,guer1243-2,13,quinchoo'cwii,quinchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-14-1,,guer1243-2,14,canchoo'cwii,canchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-14-2,,guer1243-2,14,quinchoo'cwii,quinchoo'cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-15-1,,guer1243-2,15,(n)quin'oon,(n)quin'oon,[],,['chan2019'],,False,False,,2
+guer1243-2-16-1,,guer1243-2,16,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 1 ),['chan2019'],,False,False,,2
+guer1243-2-17-1,,guer1243-2,17,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 2 ),['chan2019'],,False,False,,2
+guer1243-2-18-1,,guer1243-2,18,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 3 ) ?,['chan2019'],,False,False,,2
+guer1243-2-19-1,,guer1243-2,19,(n)quin'oom nchoo'cwii,(n)quin'oom nchoo'cwii,[],( 15 + 4 ) ?,['chan2019'],,False,False,,2
+guer1243-2-20-1,,guer1243-2,20,ntyquiuu,ntyquiuu,[],,['chan2019'],,False,False,,2
+guer1243-2-21-1,,guer1243-2,21,ntyquiuu nchoo' cwii,ntyquiuu nchoo' cwii,[],,['chan2019'],,False,False,,2
+guer1243-2-30-1,,guer1243-2,30,ntyquiuu nchoo' qui,ntyquiuu nchoo' qui,[],,['chan2019'],,False,False,,2
+guer1243-2-40-1,,guer1243-2,40,wen' aaⁿ,wen' aaⁿ,[],( 2 x 20  ),['chan2019'],,False,False,,2
+guer1243-2-50-1,,guer1243-2,50,wen' aaⁿ,wen' aaⁿ,[],,['chan2019'],,False,False,,2
+guer1243-2-60-1,,guer1243-2,60,ndyeen' aaⁿ,ndyeen' aaⁿ,[],( 3 x 20  ),['chan2019'],,False,False,,2
+guer1243-2-70-1,,guer1243-2,70,ndyeen' aaⁿ nchoo' qui ?,ndyeen' aaⁿ nchoo' qui ?,[],,['chan2019'],,False,True,,2
+guer1243-2-80-1,,guer1243-2,80,ñequieen nchoo',ñequieen nchoo',[],( 4 x 20  ),['chan2019'],,False,False,,2
+guer1243-2-90-1,,guer1243-2,90,ñequieen nchoo',ñequieen nchoo',[],,['chan2019'],,False,False,,2
+guer1243-2-100-1,,guer1243-2,100,cwi siaⁿnto,cwi siaⁿnto,[],,['chan2019'],,False,False,,2
+guer1243-2-200-1,,guer1243-2,200,we siaⁿnto ?,we siaⁿnto ?,[],,['chan2019'],,False,True,,2
+guer1243-2-1000-1,,guer1243-2,1000,cwii meiⁿ,cwii meiⁿ,[],,['chan2019'],,False,False,,2
+guer1243-2-2000-1,,guer1243-2,2000,we meⁿ ?,we meⁿ ?,[],,['chan2019'],,False,True,,2

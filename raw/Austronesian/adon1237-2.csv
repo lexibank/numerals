@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-adon1237-2-1-1,,adon1237-2,1,tou,tou,[],,[],,False,False,,1
-adon1237-2-2-1,,adon1237-2,2,rua,rua,[],,[],,False,False,,1
-adon1237-2-3-1,,adon1237-2,3,təlo,təlo,[],,[],,False,False,,1
-adon1237-2-4-1,,adon1237-2,4,pat,pat,[],,[],,False,False,,1
-adon1237-2-5-1,,adon1237-2,5,lema,lema,[],,[],,False,False,,1
-adon1237-2-6-1,,adon1237-2,6,nəmə,nəmə,[],,[],,False,False,,1
-adon1237-2-7-1,,adon1237-2,7,pito,pito,[],,[],,False,False,,1
-adon1237-2-8-1,,adon1237-2,8,buto,buto,[],,[],,False,False,,1
-adon1237-2-9-1,,adon1237-2,9,hiwa,hiwa,[],,[],,False,False,,1
-adon1237-2-10-1,,adon1237-2,10,pulo,pulo,[],,[],,False,False,,1
-adon1237-2-11-1,,adon1237-2,11,pulɔk tou,pulɔk tou,[],,[],,False,False,,1
-adon1237-2-12-1,,adon1237-2,12,pulɔk rua,pulɔk rua,[],,[],,False,False,,1
-adon1237-2-13-1,,adon1237-2,13,pulɔk təlo,pulɔk təlo,[],,[],,False,False,,1
-adon1237-2-14-1,,adon1237-2,14,pulɔk pat,pulɔk pat,[],,[],,False,False,,1
-adon1237-2-15-1,,adon1237-2,15,pulɔk lema,pulɔk lema,[],,[],,False,False,,1
-adon1237-2-16-1,,adon1237-2,16,pulɔk nəmə,pulɔk nəmə,[],,[],,False,False,,1
-adon1237-2-17-1,,adon1237-2,17,pulɔk pito,pulɔk pito,[],,[],,False,False,,1
-adon1237-2-18-1,,adon1237-2,18,pulok buto,pulok buto,[],,[],,False,False,,1
-adon1237-2-19-1,,adon1237-2,19,pulɔk hiwa,pulɔk hiwa,[],,[],,False,False,,1
-adon1237-2-20-1,,adon1237-2,20,pulu rua,pulu rua,[],,[],,False,False,,1
-adon1237-2-21-1,,adon1237-2,21,pulu rua nɔʔɔn tou,pulu rua nɔʔɔn tou,[],,[],,False,False,,1
-adon1237-2-22-1,,adon1237-2,22,pulu rua nɔʔɔn rua,pulu rua nɔʔɔn rua,[],,[],,False,False,,1
-adon1237-2-23-1,,adon1237-2,23,pulu rua nɔʔɔn təlo,pulu rua nɔʔɔn təlo,[],,[],,False,False,,1
-adon1237-2-24-1,,adon1237-2,24,pulu rua nɔʔɔn pat,pulu rua nɔʔɔn pat,[],,[],,False,False,,1
-adon1237-2-25-1,,adon1237-2,25,pulu rua nɔʔɔn lema,pulu rua nɔʔɔn lema,[],,[],,False,False,,1
-adon1237-2-26-1,,adon1237-2,26,pulu rua nɔʔɔn nəmə,pulu rua nɔʔɔn nəmə,[],,[],,False,False,,1
-adon1237-2-27-1,,adon1237-2,27,pulu rua nɔʔɔn pito,pulu rua nɔʔɔn pito,[],,[],,False,False,,1
-adon1237-2-28-1,,adon1237-2,28,pulu rua nɔʔɔn buto,pulu rua nɔʔɔn buto,[],,[],,False,False,,1
-adon1237-2-29-1,,adon1237-2,29,pulu rua nɔʔɔn hiwa,pulu rua nɔʔɔn hiwa,[],,[],,False,False,,1
-adon1237-2-30-1,,adon1237-2,30,pulu təlo,pulu təlo,[],,[],,False,False,,1
-adon1237-2-40-1,,adon1237-2,40,pulu pat,pulu pat,[],,[],,False,False,,1
-adon1237-2-50-1,,adon1237-2,50,pulu lema,pulu lema,[],,[],,False,False,,1
-adon1237-2-60-1,,adon1237-2,60,pulu nəmə,pulu nəmə,[],,[],,False,False,,1
-adon1237-2-70-1,,adon1237-2,70,pulu pito,pulu pito,[],,[],,False,False,,1
-adon1237-2-80-1,,adon1237-2,80,pulu buto,pulu buto,[],,[],,False,False,,1
-adon1237-2-90-1,,adon1237-2,90,pulu hiwa,pulu hiwa,[],,[],,False,False,,1
-adon1237-2-100-1,,adon1237-2,100,teratu,teratu,[],,[],,False,False,,1
-adon1237-2-200-1,,adon1237-2,200,ratu rua,ratu rua,[],,[],,False,False,,1
-adon1237-2-1000-1,,adon1237-2,1000,ribu,ribu,[],,[],,False,False,,1
-adon1237-2-2000-1,,adon1237-2,2000,ribu rua,ribu rua,[],,[],,False,False,,1
+adon1237-2-1-1,,adon1237-2,1,tou,tou,[],,['chan2019'],,False,False,,1
+adon1237-2-2-1,,adon1237-2,2,rua,rua,[],,['chan2019'],,False,False,,1
+adon1237-2-3-1,,adon1237-2,3,təlo,təlo,[],,['chan2019'],,False,False,,1
+adon1237-2-4-1,,adon1237-2,4,pat,pat,[],,['chan2019'],,False,False,,1
+adon1237-2-5-1,,adon1237-2,5,lema,lema,[],,['chan2019'],,False,False,,1
+adon1237-2-6-1,,adon1237-2,6,nəmə,nəmə,[],,['chan2019'],,False,False,,1
+adon1237-2-7-1,,adon1237-2,7,pito,pito,[],,['chan2019'],,False,False,,1
+adon1237-2-8-1,,adon1237-2,8,buto,buto,[],,['chan2019'],,False,False,,1
+adon1237-2-9-1,,adon1237-2,9,hiwa,hiwa,[],,['chan2019'],,False,False,,1
+adon1237-2-10-1,,adon1237-2,10,pulo,pulo,[],,['chan2019'],,False,False,,1
+adon1237-2-11-1,,adon1237-2,11,pulɔk tou,pulɔk tou,[],,['chan2019'],,False,False,,1
+adon1237-2-12-1,,adon1237-2,12,pulɔk rua,pulɔk rua,[],,['chan2019'],,False,False,,1
+adon1237-2-13-1,,adon1237-2,13,pulɔk təlo,pulɔk təlo,[],,['chan2019'],,False,False,,1
+adon1237-2-14-1,,adon1237-2,14,pulɔk pat,pulɔk pat,[],,['chan2019'],,False,False,,1
+adon1237-2-15-1,,adon1237-2,15,pulɔk lema,pulɔk lema,[],,['chan2019'],,False,False,,1
+adon1237-2-16-1,,adon1237-2,16,pulɔk nəmə,pulɔk nəmə,[],,['chan2019'],,False,False,,1
+adon1237-2-17-1,,adon1237-2,17,pulɔk pito,pulɔk pito,[],,['chan2019'],,False,False,,1
+adon1237-2-18-1,,adon1237-2,18,pulok buto,pulok buto,[],,['chan2019'],,False,False,,1
+adon1237-2-19-1,,adon1237-2,19,pulɔk hiwa,pulɔk hiwa,[],,['chan2019'],,False,False,,1
+adon1237-2-20-1,,adon1237-2,20,pulu rua,pulu rua,[],,['chan2019'],,False,False,,1
+adon1237-2-21-1,,adon1237-2,21,pulu rua nɔʔɔn tou,pulu rua nɔʔɔn tou,[],,['chan2019'],,False,False,,1
+adon1237-2-22-1,,adon1237-2,22,pulu rua nɔʔɔn rua,pulu rua nɔʔɔn rua,[],,['chan2019'],,False,False,,1
+adon1237-2-23-1,,adon1237-2,23,pulu rua nɔʔɔn təlo,pulu rua nɔʔɔn təlo,[],,['chan2019'],,False,False,,1
+adon1237-2-24-1,,adon1237-2,24,pulu rua nɔʔɔn pat,pulu rua nɔʔɔn pat,[],,['chan2019'],,False,False,,1
+adon1237-2-25-1,,adon1237-2,25,pulu rua nɔʔɔn lema,pulu rua nɔʔɔn lema,[],,['chan2019'],,False,False,,1
+adon1237-2-26-1,,adon1237-2,26,pulu rua nɔʔɔn nəmə,pulu rua nɔʔɔn nəmə,[],,['chan2019'],,False,False,,1
+adon1237-2-27-1,,adon1237-2,27,pulu rua nɔʔɔn pito,pulu rua nɔʔɔn pito,[],,['chan2019'],,False,False,,1
+adon1237-2-28-1,,adon1237-2,28,pulu rua nɔʔɔn buto,pulu rua nɔʔɔn buto,[],,['chan2019'],,False,False,,1
+adon1237-2-29-1,,adon1237-2,29,pulu rua nɔʔɔn hiwa,pulu rua nɔʔɔn hiwa,[],,['chan2019'],,False,False,,1
+adon1237-2-30-1,,adon1237-2,30,pulu təlo,pulu təlo,[],,['chan2019'],,False,False,,1
+adon1237-2-40-1,,adon1237-2,40,pulu pat,pulu pat,[],,['chan2019'],,False,False,,1
+adon1237-2-50-1,,adon1237-2,50,pulu lema,pulu lema,[],,['chan2019'],,False,False,,1
+adon1237-2-60-1,,adon1237-2,60,pulu nəmə,pulu nəmə,[],,['chan2019'],,False,False,,1
+adon1237-2-70-1,,adon1237-2,70,pulu pito,pulu pito,[],,['chan2019'],,False,False,,1
+adon1237-2-80-1,,adon1237-2,80,pulu buto,pulu buto,[],,['chan2019'],,False,False,,1
+adon1237-2-90-1,,adon1237-2,90,pulu hiwa,pulu hiwa,[],,['chan2019'],,False,False,,1
+adon1237-2-100-1,,adon1237-2,100,teratu,teratu,[],,['chan2019'],,False,False,,1
+adon1237-2-200-1,,adon1237-2,200,ratu rua,ratu rua,[],,['chan2019'],,False,False,,1
+adon1237-2-1000-1,,adon1237-2,1000,ribu,ribu,[],,['chan2019'],,False,False,,1
+adon1237-2-2000-1,,adon1237-2,2000,ribu rua,ribu rua,[],,['chan2019'],,False,False,,1

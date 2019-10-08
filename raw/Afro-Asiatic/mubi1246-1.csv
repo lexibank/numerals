@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mubi1246-1-1-1,,mubi1246-1,1,fíní,fíní,[],,[],,False,False,,1
-mubi1246-1-2-1,,mubi1246-1,2,sìr,sìr,[],,[],,False,False,,1
-mubi1246-1-3-1,,mubi1246-1,3,súɓà,súɓà,[],,[],,False,False,,1
-mubi1246-1-4-1,,mubi1246-1,4,fádà,fádà,[],,[],,False,False,,1
-mubi1246-1-5-1,,mubi1246-1,5,bíɗyà,bíɗyà,[],,[],,False,False,,1
-mubi1246-1-6-1,,mubi1246-1,6,ìstàlà,ìstàlà,[],,[],,False,False,,1
-mubi1246-1-7-1,,mubi1246-1,7,béesír,béesír,[],,[],,False,False,,1
-mubi1246-1-8-1,,mubi1246-1,8,fàrbàt,fàrbàt,[],,[],,False,False,,1
-mubi1246-1-9-1,,mubi1246-1,9,férbínì,férbínì,[],,[],,False,False,,1
-mubi1246-1-10-1,,mubi1246-1,10,kúrúk,kúrúk,[],,[],,False,False,,1
-mubi1246-1-11-1,,mubi1246-1,11,kúrúk tí fíní,kúrúk tí fíní,[],,[],,False,False,,1
-mubi1246-1-12-1,,mubi1246-1,12,kúrúk tísìr,kúrúk tísìr,[],,[],,False,False,,1
-mubi1246-1-13-1,,mubi1246-1,13,kúrúk tí súɓà,kúrúk tí súɓà,[],,[],,False,False,,1
-mubi1246-1-14-1,,mubi1246-1,14,kúrúk tí fádà,kúrúk tí fádà,[],,[],,False,False,,1
-mubi1246-1-15-1,,mubi1246-1,15,kúrúk tí bíɗyà,kúrúk tí bíɗyà,[],,[],,False,False,,1
-mubi1246-1-16-1,,mubi1246-1,16,kúrúk tí ìstàlà,kúrúk tí ìstàlà,[],,[],,False,False,,1
-mubi1246-1-17-1,,mubi1246-1,17,kúrúk tíbéesír,kúrúk tíbéesír,[],,[],,False,False,,1
-mubi1246-1-18-1,,mubi1246-1,18,kúrúk tífàrbàt,kúrúk tífàrbàt,[],,[],,False,False,,1
-mubi1246-1-19-1,,mubi1246-1,19,kúrúk tí férbínì,kúrúk tí férbínì,[],,[],,False,False,,1
-mubi1246-1-20-1,,mubi1246-1,20,kírá sìr,kírá sìr,[],,[],,False,False,,1
-mubi1246-1-21-1,,mubi1246-1,21,kírá sìr tí fíní,kírá sìr tí fíní,[],,[],,False,False,,1
-mubi1246-1-22-1,,mubi1246-1,22,kírá sìr tí sìr,kírá sìr tí sìr,[],,[],,False,False,,1
-mubi1246-1-23-1,,mubi1246-1,23,kírá sìr tí súɓà,kírá sìr tí súɓà,[],,[],,False,False,,1
-mubi1246-1-24-1,,mubi1246-1,24,kírá sìr tí fádà,kírá sìr tí fádà,[],,[],,False,False,,1
-mubi1246-1-25-1,,mubi1246-1,25,kírá sìr tí bíɗyà,kírá sìr tí bíɗyà,[],,[],,False,False,,1
-mubi1246-1-26-1,,mubi1246-1,26,kírá sìr tí ìstàlà,kírá sìr tí ìstàlà,[],,[],,False,False,,1
-mubi1246-1-27-1,,mubi1246-1,27,kírá sìr tí béesír,kírá sìr tí béesír,[],,[],,False,False,,1
-mubi1246-1-28-1,,mubi1246-1,28,kírá sìr tí fàrbàt,kírá sìr tí fàrbàt,[],,[],,False,False,,1
-mubi1246-1-29-1,,mubi1246-1,29,kírá sìr tí férbínì,kírá sìr tí férbínì,[],,[],,False,False,,1
-mubi1246-1-30-1,,mubi1246-1,30,kírásúɓà,kírásúɓà,[],,[],,False,False,,1
-mubi1246-1-40-1,,mubi1246-1,40,kírá fádà,kírá fádà,[],,[],,False,False,,1
-mubi1246-1-50-1,,mubi1246-1,50,kírá bíɗyà,kírá bíɗyà,[],,[],,False,False,,1
-mubi1246-1-60-1,,mubi1246-1,60,kírá ìstàlà,kírá ìstàlà,[],,[],,False,False,,1
-mubi1246-1-70-1,,mubi1246-1,70,kírá béesír,kírá béesír,[],,[],,False,False,,1
-mubi1246-1-80-1,,mubi1246-1,80,kírá fàrbàt,kírá fàrbàt,[],,[],,False,False,,1
-mubi1246-1-90-1,,mubi1246-1,90,kírá férbínì,kírá férbínì,[],,[],,False,False,,1
-mubi1246-1-100-1,,mubi1246-1,100,míyé,míyé,[],< Arabic ) or kíré kúrúk ,[],,True,False,,1
-mubi1246-1-200-1,,mubi1246-1,200,meyay sìr,meyay sìr,[],,[],,False,False,,1
-mubi1246-1-1000-1,,mubi1246-1,1000,álíf,álíf,[],( < Arabic ),[],,True,False,,1
-mubi1246-1-2000-1,,mubi1246-1,2000,ulufa sìr,ulufa sìr,[],,[],,False,False,,1
+mubi1246-1-1-1,,mubi1246-1,1,fíní,fíní,[],,['chan2019'],,False,False,,1
+mubi1246-1-2-1,,mubi1246-1,2,sìr,sìr,[],,['chan2019'],,False,False,,1
+mubi1246-1-3-1,,mubi1246-1,3,súɓà,súɓà,[],,['chan2019'],,False,False,,1
+mubi1246-1-4-1,,mubi1246-1,4,fádà,fádà,[],,['chan2019'],,False,False,,1
+mubi1246-1-5-1,,mubi1246-1,5,bíɗyà,bíɗyà,[],,['chan2019'],,False,False,,1
+mubi1246-1-6-1,,mubi1246-1,6,ìstàlà,ìstàlà,[],,['chan2019'],,False,False,,1
+mubi1246-1-7-1,,mubi1246-1,7,béesír,béesír,[],,['chan2019'],,False,False,,1
+mubi1246-1-8-1,,mubi1246-1,8,fàrbàt,fàrbàt,[],,['chan2019'],,False,False,,1
+mubi1246-1-9-1,,mubi1246-1,9,férbínì,férbínì,[],,['chan2019'],,False,False,,1
+mubi1246-1-10-1,,mubi1246-1,10,kúrúk,kúrúk,[],,['chan2019'],,False,False,,1
+mubi1246-1-11-1,,mubi1246-1,11,kúrúk tí fíní,kúrúk tí fíní,[],,['chan2019'],,False,False,,1
+mubi1246-1-12-1,,mubi1246-1,12,kúrúk tísìr,kúrúk tísìr,[],,['chan2019'],,False,False,,1
+mubi1246-1-13-1,,mubi1246-1,13,kúrúk tí súɓà,kúrúk tí súɓà,[],,['chan2019'],,False,False,,1
+mubi1246-1-14-1,,mubi1246-1,14,kúrúk tí fádà,kúrúk tí fádà,[],,['chan2019'],,False,False,,1
+mubi1246-1-15-1,,mubi1246-1,15,kúrúk tí bíɗyà,kúrúk tí bíɗyà,[],,['chan2019'],,False,False,,1
+mubi1246-1-16-1,,mubi1246-1,16,kúrúk tí ìstàlà,kúrúk tí ìstàlà,[],,['chan2019'],,False,False,,1
+mubi1246-1-17-1,,mubi1246-1,17,kúrúk tíbéesír,kúrúk tíbéesír,[],,['chan2019'],,False,False,,1
+mubi1246-1-18-1,,mubi1246-1,18,kúrúk tífàrbàt,kúrúk tífàrbàt,[],,['chan2019'],,False,False,,1
+mubi1246-1-19-1,,mubi1246-1,19,kúrúk tí férbínì,kúrúk tí férbínì,[],,['chan2019'],,False,False,,1
+mubi1246-1-20-1,,mubi1246-1,20,kírá sìr,kírá sìr,[],,['chan2019'],,False,False,,1
+mubi1246-1-21-1,,mubi1246-1,21,kírá sìr tí fíní,kírá sìr tí fíní,[],,['chan2019'],,False,False,,1
+mubi1246-1-22-1,,mubi1246-1,22,kírá sìr tí sìr,kírá sìr tí sìr,[],,['chan2019'],,False,False,,1
+mubi1246-1-23-1,,mubi1246-1,23,kírá sìr tí súɓà,kírá sìr tí súɓà,[],,['chan2019'],,False,False,,1
+mubi1246-1-24-1,,mubi1246-1,24,kírá sìr tí fádà,kírá sìr tí fádà,[],,['chan2019'],,False,False,,1
+mubi1246-1-25-1,,mubi1246-1,25,kírá sìr tí bíɗyà,kírá sìr tí bíɗyà,[],,['chan2019'],,False,False,,1
+mubi1246-1-26-1,,mubi1246-1,26,kírá sìr tí ìstàlà,kírá sìr tí ìstàlà,[],,['chan2019'],,False,False,,1
+mubi1246-1-27-1,,mubi1246-1,27,kírá sìr tí béesír,kírá sìr tí béesír,[],,['chan2019'],,False,False,,1
+mubi1246-1-28-1,,mubi1246-1,28,kírá sìr tí fàrbàt,kírá sìr tí fàrbàt,[],,['chan2019'],,False,False,,1
+mubi1246-1-29-1,,mubi1246-1,29,kírá sìr tí férbínì,kírá sìr tí férbínì,[],,['chan2019'],,False,False,,1
+mubi1246-1-30-1,,mubi1246-1,30,kírásúɓà,kírásúɓà,[],,['chan2019'],,False,False,,1
+mubi1246-1-40-1,,mubi1246-1,40,kírá fádà,kírá fádà,[],,['chan2019'],,False,False,,1
+mubi1246-1-50-1,,mubi1246-1,50,kírá bíɗyà,kírá bíɗyà,[],,['chan2019'],,False,False,,1
+mubi1246-1-60-1,,mubi1246-1,60,kírá ìstàlà,kírá ìstàlà,[],,['chan2019'],,False,False,,1
+mubi1246-1-70-1,,mubi1246-1,70,kírá béesír,kírá béesír,[],,['chan2019'],,False,False,,1
+mubi1246-1-80-1,,mubi1246-1,80,kírá fàrbàt,kírá fàrbàt,[],,['chan2019'],,False,False,,1
+mubi1246-1-90-1,,mubi1246-1,90,kírá férbínì,kírá férbínì,[],,['chan2019'],,False,False,,1
+mubi1246-1-100-1,,mubi1246-1,100,míyé,míyé,[],< Arabic ) or kíré kúrúk ,['chan2019'],,True,False,,1
+mubi1246-1-200-1,,mubi1246-1,200,meyay sìr,meyay sìr,[],,['chan2019'],,False,False,,1
+mubi1246-1-1000-1,,mubi1246-1,1000,álíf,álíf,[],( < Arabic ),['chan2019'],,True,False,,1
+mubi1246-1-2000-1,,mubi1246-1,2000,ulufa sìr,ulufa sìr,[],,['chan2019'],,False,False,,1

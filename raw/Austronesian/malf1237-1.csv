@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-malf1237-1-1-1,,malf1237-1,1,iteʔ,iteʔ,[],,[],,False,False,,1
-malf1237-1-2-1,,malf1237-1,2,iru,iru,[],,[],,False,False,,1
-malf1237-1-3-1,,malf1237-1,3,itul,itul,[],,[],,False,False,,1
-malf1237-1-4-1,,malf1237-1,4,ivas,ivas,[],,[],,False,False,,1
-malf1237-1-5-1,,malf1237-1,5,ilim,ilim,[],,[],,False,False,,1
-malf1237-1-6-1,,malf1237-1,6,raʔate,raʔate,[],( 5 + 1 ),[],,False,False,,1
-malf1237-1-7-1,,malf1237-1,7,raʔaru,raʔaru,[],( 5 + 2 ),[],,False,False,,1
-malf1237-1-8-1,,malf1237-1,8,raʔatul,raʔatul,[],( 5 + 3 ),[],,False,False,,1
-malf1237-1-9-1,,malf1237-1,9,raʔavas,raʔavas,[],( 5 + 4 ),[],,False,False,,1
-malf1237-1-10-1,,malf1237-1,10,i laŋaβul,i laŋaβul,[],,[],,False,False,,1
-malf1237-1-11-1,,malf1237-1,11,i laŋaβul ⁿduman iteʔ,i laŋaβul ⁿduman iteʔ,[],,[],,False,False,,1
-malf1237-1-12-1,,malf1237-1,12,i laŋaβul ⁿduman iru,i laŋaβul ⁿduman iru,[],,[],,False,False,,1
-malf1237-1-13-1,,malf1237-1,13,i laŋaβul ⁿduman itul,i laŋaβul ⁿduman itul,[],,[],,False,False,,1
-malf1237-1-14-1,,malf1237-1,14,i laŋaβul ⁿduman ivas,i laŋaβul ⁿduman ivas,[],,[],,False,False,,1
-malf1237-1-15-1,,malf1237-1,15,i laŋaβul ⁿduman ilim,i laŋaβul ⁿduman ilim,[],,[],,False,False,,1
-malf1237-1-16-1,,malf1237-1,16,i laŋaβul ⁿduman raʔate,i laŋaβul ⁿduman raʔate,[],,[],,False,False,,1
-malf1237-1-17-1,,malf1237-1,17,i laŋaβul ⁿduman raʔaru,i laŋaβul ⁿduman raʔaru,[],,[],,False,False,,1
-malf1237-1-18-1,,malf1237-1,18,i laŋaβul ⁿduman raʔatul,i laŋaβul ⁿduman raʔatul,[],,[],,False,False,,1
-malf1237-1-19-1,,malf1237-1,19,i laŋaβul ⁿduman raʔavas,i laŋaβul ⁿduman raʔavas,[],,[],,False,False,,1
-malf1237-1-20-1,,malf1237-1,20,maratin iteʔ,maratin iteʔ,[],,[],,False,False,,1
-malf1237-1-21-1,,malf1237-1,21,maratin iteʔ noʔoron iteʔ,maratin iteʔ noʔoron iteʔ,[],,[],,False,False,,1
-malf1237-1-22-1,,malf1237-1,22,maratin iteʔ noʔoron iru,maratin iteʔ noʔoron iru,[],,[],,False,False,,1
-malf1237-1-23-1,,malf1237-1,23,maratin iteʔ noʔoron itul,maratin iteʔ noʔoron itul,[],,[],,False,False,,1
-malf1237-1-24-1,,malf1237-1,24,maratin iteʔ noʔoron ivas,maratin iteʔ noʔoron ivas,[],,[],,False,False,,1
-malf1237-1-25-1,,malf1237-1,25,maratin iteʔ noʔoron ilim,maratin iteʔ noʔoron ilim,[],,[],,False,False,,1
-malf1237-1-26-1,,malf1237-1,26,maratin iteʔ noʔoron raʔate,maratin iteʔ noʔoron raʔate,[],,[],,False,False,,1
-malf1237-1-27-1,,malf1237-1,27,maratin iteʔ noʔoron raʔaru,maratin iteʔ noʔoron raʔaru,[],,[],,False,False,,1
-malf1237-1-28-1,,malf1237-1,28,maratin iteʔ noʔoron raʔatul,maratin iteʔ noʔoron raʔatul,[],,[],,False,False,,1
-malf1237-1-29-1,,malf1237-1,29,maratin iteʔ noʔoron raʔavas,maratin iteʔ noʔoron raʔavas,[],,[],,False,False,,1
-malf1237-1-30-1,,malf1237-1,30,maratin iteʔ noʔoron ilaŋaβul,maratin iteʔ noʔoron ilaŋaβul,[],(20+10),[],,False,False,,1
-malf1237-1-40-1,,malf1237-1,40,maratin iru,maratin iru,[],(20 x 2),[],,False,False,,1
-malf1237-1-50-1,,malf1237-1,50,maratin iru ilaŋaβul,maratin iru ilaŋaβul,[],(20 x 2+10),[],,False,False,,1
-malf1237-1-60-1,,malf1237-1,60,maratin itul,maratin itul,[],(20 x 3),[],,False,False,,1
-malf1237-1-70-1,,malf1237-1,70,maratin itul ilaŋaβul,maratin itul ilaŋaβul,[],(20 x 3+10),[],,False,False,,1
-malf1237-1-80-1,,malf1237-1,80,maratin ivas,maratin ivas,[],(20 x 4),[],,False,False,,1
-malf1237-1-90-1,,malf1237-1,90,maratin ivas ilaŋaβul,maratin ivas ilaŋaβul,[],(20 x 4+10),[],,False,False,,1
-malf1237-1-100-1,,malf1237-1,100,maratin ilim,maratin ilim,[],(20 x 5),[],,False,False,,1
-malf1237-1-200-1,,malf1237-1,200,nrenhavui ŋa-sŋavur,nrenhavui ŋa-sŋavur,[],(20 x 10),[],,False,False,,1
+malf1237-1-1-1,,malf1237-1,1,iteʔ,iteʔ,[],,['chan2019'],,False,False,,1
+malf1237-1-2-1,,malf1237-1,2,iru,iru,[],,['chan2019'],,False,False,,1
+malf1237-1-3-1,,malf1237-1,3,itul,itul,[],,['chan2019'],,False,False,,1
+malf1237-1-4-1,,malf1237-1,4,ivas,ivas,[],,['chan2019'],,False,False,,1
+malf1237-1-5-1,,malf1237-1,5,ilim,ilim,[],,['chan2019'],,False,False,,1
+malf1237-1-6-1,,malf1237-1,6,raʔate,raʔate,[],( 5 + 1 ),['chan2019'],,False,False,,1
+malf1237-1-7-1,,malf1237-1,7,raʔaru,raʔaru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+malf1237-1-8-1,,malf1237-1,8,raʔatul,raʔatul,[],( 5 + 3 ),['chan2019'],,False,False,,1
+malf1237-1-9-1,,malf1237-1,9,raʔavas,raʔavas,[],( 5 + 4 ),['chan2019'],,False,False,,1
+malf1237-1-10-1,,malf1237-1,10,i laŋaβul,i laŋaβul,[],,['chan2019'],,False,False,,1
+malf1237-1-11-1,,malf1237-1,11,i laŋaβul ⁿduman iteʔ,i laŋaβul ⁿduman iteʔ,[],,['chan2019'],,False,False,,1
+malf1237-1-12-1,,malf1237-1,12,i laŋaβul ⁿduman iru,i laŋaβul ⁿduman iru,[],,['chan2019'],,False,False,,1
+malf1237-1-13-1,,malf1237-1,13,i laŋaβul ⁿduman itul,i laŋaβul ⁿduman itul,[],,['chan2019'],,False,False,,1
+malf1237-1-14-1,,malf1237-1,14,i laŋaβul ⁿduman ivas,i laŋaβul ⁿduman ivas,[],,['chan2019'],,False,False,,1
+malf1237-1-15-1,,malf1237-1,15,i laŋaβul ⁿduman ilim,i laŋaβul ⁿduman ilim,[],,['chan2019'],,False,False,,1
+malf1237-1-16-1,,malf1237-1,16,i laŋaβul ⁿduman raʔate,i laŋaβul ⁿduman raʔate,[],,['chan2019'],,False,False,,1
+malf1237-1-17-1,,malf1237-1,17,i laŋaβul ⁿduman raʔaru,i laŋaβul ⁿduman raʔaru,[],,['chan2019'],,False,False,,1
+malf1237-1-18-1,,malf1237-1,18,i laŋaβul ⁿduman raʔatul,i laŋaβul ⁿduman raʔatul,[],,['chan2019'],,False,False,,1
+malf1237-1-19-1,,malf1237-1,19,i laŋaβul ⁿduman raʔavas,i laŋaβul ⁿduman raʔavas,[],,['chan2019'],,False,False,,1
+malf1237-1-20-1,,malf1237-1,20,maratin iteʔ,maratin iteʔ,[],,['chan2019'],,False,False,,1
+malf1237-1-21-1,,malf1237-1,21,maratin iteʔ noʔoron iteʔ,maratin iteʔ noʔoron iteʔ,[],,['chan2019'],,False,False,,1
+malf1237-1-22-1,,malf1237-1,22,maratin iteʔ noʔoron iru,maratin iteʔ noʔoron iru,[],,['chan2019'],,False,False,,1
+malf1237-1-23-1,,malf1237-1,23,maratin iteʔ noʔoron itul,maratin iteʔ noʔoron itul,[],,['chan2019'],,False,False,,1
+malf1237-1-24-1,,malf1237-1,24,maratin iteʔ noʔoron ivas,maratin iteʔ noʔoron ivas,[],,['chan2019'],,False,False,,1
+malf1237-1-25-1,,malf1237-1,25,maratin iteʔ noʔoron ilim,maratin iteʔ noʔoron ilim,[],,['chan2019'],,False,False,,1
+malf1237-1-26-1,,malf1237-1,26,maratin iteʔ noʔoron raʔate,maratin iteʔ noʔoron raʔate,[],,['chan2019'],,False,False,,1
+malf1237-1-27-1,,malf1237-1,27,maratin iteʔ noʔoron raʔaru,maratin iteʔ noʔoron raʔaru,[],,['chan2019'],,False,False,,1
+malf1237-1-28-1,,malf1237-1,28,maratin iteʔ noʔoron raʔatul,maratin iteʔ noʔoron raʔatul,[],,['chan2019'],,False,False,,1
+malf1237-1-29-1,,malf1237-1,29,maratin iteʔ noʔoron raʔavas,maratin iteʔ noʔoron raʔavas,[],,['chan2019'],,False,False,,1
+malf1237-1-30-1,,malf1237-1,30,maratin iteʔ noʔoron ilaŋaβul,maratin iteʔ noʔoron ilaŋaβul,[],(20+10),['chan2019'],,False,False,,1
+malf1237-1-40-1,,malf1237-1,40,maratin iru,maratin iru,[],(20 x 2),['chan2019'],,False,False,,1
+malf1237-1-50-1,,malf1237-1,50,maratin iru ilaŋaβul,maratin iru ilaŋaβul,[],(20 x 2+10),['chan2019'],,False,False,,1
+malf1237-1-60-1,,malf1237-1,60,maratin itul,maratin itul,[],(20 x 3),['chan2019'],,False,False,,1
+malf1237-1-70-1,,malf1237-1,70,maratin itul ilaŋaβul,maratin itul ilaŋaβul,[],(20 x 3+10),['chan2019'],,False,False,,1
+malf1237-1-80-1,,malf1237-1,80,maratin ivas,maratin ivas,[],(20 x 4),['chan2019'],,False,False,,1
+malf1237-1-90-1,,malf1237-1,90,maratin ivas ilaŋaβul,maratin ivas ilaŋaβul,[],(20 x 4+10),['chan2019'],,False,False,,1
+malf1237-1-100-1,,malf1237-1,100,maratin ilim,maratin ilim,[],(20 x 5),['chan2019'],,False,False,,1
+malf1237-1-200-1,,malf1237-1,200,nrenhavui ŋa-sŋavur,nrenhavui ŋa-sŋavur,[],(20 x 10),['chan2019'],,False,False,,1

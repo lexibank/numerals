@@ -1,38 +1,38 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dong1286-1-1-1,,dong1286-1,1,tʂʰʅ21,tʂʰʅ21,[],,[],,False,False,,1
-dong1286-1-2-1,,dong1286-1,2,ŋ̩21,ŋ̩21,[],,[],,False,False,,1
-dong1286-1-3-1,,dong1286-1,3,sa33,sa33,[],,[],,False,False,,1
-dong1286-1-4-1,,dong1286-1,4,ʔi33,ʔi33,[],,[],,False,False,,1
-dong1286-1-5-1,,dong1286-1,5,ŋa21,ŋa21,[],,[],,False,False,,1
-dong1286-1-6-1,,dong1286-1,6,kʰɔ21,kʰɔ21,[],,[],,False,False,,1
-dong1286-1-7-1,,dong1286-1,7,xɨ21,xɨ21,[],,[],,False,False,,1
-dong1286-1-8-1,,dong1286-1,8,çẽ21,çẽ21,[],,[],,False,False,,1
-dong1286-1-9-1,,dong1286-1,9,kɯ̪33,kɯ̪33,[],,[],,False,False,,1
-dong1286-1-10-1,,dong1286-1,10,tsʰi55,tsʰi55,[],,[],,False,False,,1
-dong1286-1-11-1,,dong1286-1,11,tsʰi55ti21,tsʰi55ti21,[],,[],,False,False,,1
-dong1286-1-12-1,,dong1286-1,12,tsʰi55ŋ̩21,tsʰi55ŋ̩21,[],,[],,False,False,,1
-dong1286-1-13-1,,dong1286-1,13,tsʰi55sa33,tsʰi55sa33,[],,[],,False,False,,1
-dong1286-1-14-1,,dong1286-1,14,tsʰi55ʔi33,tsʰi55ʔi33,[],,[],,False,False,,1
-dong1286-1-15-1,,dong1286-1,15,tsʰi55ŋa21,tsʰi55ŋa21,[],,[],,False,False,,1
-dong1286-1-16-1,,dong1286-1,16,tsʰi55kʰɔ21,tsʰi55kʰɔ21,[],,[],,False,False,,1
-dong1286-1-17-1,,dong1286-1,17,tsʰi55xɨ21,tsʰi55xɨ21,[],,[],,False,False,,1
-dong1286-1-18-1,,dong1286-1,18,tsʰi55çẽ21,tsʰi55çẽ21,[],,[],,False,False,,1
-dong1286-1-19-1,,dong1286-1,19,tsʰi55kɯ̪33,tsʰi55kɯ̪33,[],,[],,False,False,,1
-dong1286-1-20-1,,dong1286-1,20,ŋ̩21tsi55,ŋ̩21tsi55,[],,[],,False,False,,1
-dong1286-1-24-1,,dong1286-1,24,ŋ̩21tsi55 ʔi33,ŋ̩21tsi55 ʔi33,[],,[],,False,False,,1
-dong1286-1-25-1,,dong1286-1,25,ŋ̩21tsi55 ŋa21,ŋ̩21tsi55 ŋa21,[],,[],,False,False,,1
-dong1286-1-26-1,,dong1286-1,26,ŋ̩21tsi55 kʰɔ21,ŋ̩21tsi55 kʰɔ21,[],,[],,False,False,,1
-dong1286-1-27-1,,dong1286-1,27,ŋ̩21tsi55 xɨ21,ŋ̩21tsi55 xɨ21,[],,[],,False,False,,1
-dong1286-1-28-1,,dong1286-1,28,ŋ̩21tsi55 çẽ21,ŋ̩21tsi55 çẽ21,[],,[],,False,False,,1
-dong1286-1-29-1,,dong1286-1,29,ŋ̩21tsi55 kɯ̪33,ŋ̩21tsi55 kɯ̪33,[],,[],,False,False,,1
-dong1286-1-30-1,,dong1286-1,30,sa33 tsʰi55,sa33 tsʰi55,[],,[],,False,False,,1
-dong1286-1-40-1,,dong1286-1,40,ʔi33 tsʰi55,ʔi33 tsʰi55,[],,[],,False,False,,1
-dong1286-1-50-1,,dong1286-1,50,ŋa̤21 tsʰi55,ŋa̤21 tsʰi55,[],,[],,False,False,,1
-dong1286-1-60-1,,dong1286-1,60,kʰɔ21 tsʰi55,kʰɔ21 tsʰi55,[],,[],,False,False,,1
-dong1286-1-70-1,,dong1286-1,70,xɨ21 tsʰi55,xɨ21 tsʰi55,[],,[],,False,False,,1
-dong1286-1-80-1,,dong1286-1,80,çẽ21 tsʰi55,çẽ21 tsʰi55,[],,[],,False,False,,1
-dong1286-1-90-1,,dong1286-1,90,kɯ̪33 tsʰi55,kɯ̪33 tsʰi55,[],,[],,False,False,,1
-dong1286-1-100-1,,dong1286-1,100,tʂʰʅ21 hã55,tʂʰʅ21 hã55,[],,[],,False,False,,1
-dong1286-1-200-1,,dong1286-1,200,ŋ̩21 h̃ã55,ŋ̩21 h̃ã55,[],,[],,False,False,,1
-dong1286-1-1000-1,,dong1286-1,1000,tsʰi55 hã55,tsʰi55 hã55,[],( 10 x 100 ) ?,[],,False,False,,1
-dong1286-1-2000-1,,dong1286-1,2000,ŋ21 tsʰi55 hã55,ŋ21 tsʰi55 hã55,[],,[],,False,False,,1
+dong1286-1-1-1,,dong1286-1,1,tʂʰʅ21,tʂʰʅ21,[],,['chan2019'],,False,False,,1
+dong1286-1-2-1,,dong1286-1,2,ŋ̩21,ŋ̩21,[],,['chan2019'],,False,False,,1
+dong1286-1-3-1,,dong1286-1,3,sa33,sa33,[],,['chan2019'],,False,False,,1
+dong1286-1-4-1,,dong1286-1,4,ʔi33,ʔi33,[],,['chan2019'],,False,False,,1
+dong1286-1-5-1,,dong1286-1,5,ŋa21,ŋa21,[],,['chan2019'],,False,False,,1
+dong1286-1-6-1,,dong1286-1,6,kʰɔ21,kʰɔ21,[],,['chan2019'],,False,False,,1
+dong1286-1-7-1,,dong1286-1,7,xɨ21,xɨ21,[],,['chan2019'],,False,False,,1
+dong1286-1-8-1,,dong1286-1,8,çẽ21,çẽ21,[],,['chan2019'],,False,False,,1
+dong1286-1-9-1,,dong1286-1,9,kɯ̪33,kɯ̪33,[],,['chan2019'],,False,False,,1
+dong1286-1-10-1,,dong1286-1,10,tsʰi55,tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-11-1,,dong1286-1,11,tsʰi55ti21,tsʰi55ti21,[],,['chan2019'],,False,False,,1
+dong1286-1-12-1,,dong1286-1,12,tsʰi55ŋ̩21,tsʰi55ŋ̩21,[],,['chan2019'],,False,False,,1
+dong1286-1-13-1,,dong1286-1,13,tsʰi55sa33,tsʰi55sa33,[],,['chan2019'],,False,False,,1
+dong1286-1-14-1,,dong1286-1,14,tsʰi55ʔi33,tsʰi55ʔi33,[],,['chan2019'],,False,False,,1
+dong1286-1-15-1,,dong1286-1,15,tsʰi55ŋa21,tsʰi55ŋa21,[],,['chan2019'],,False,False,,1
+dong1286-1-16-1,,dong1286-1,16,tsʰi55kʰɔ21,tsʰi55kʰɔ21,[],,['chan2019'],,False,False,,1
+dong1286-1-17-1,,dong1286-1,17,tsʰi55xɨ21,tsʰi55xɨ21,[],,['chan2019'],,False,False,,1
+dong1286-1-18-1,,dong1286-1,18,tsʰi55çẽ21,tsʰi55çẽ21,[],,['chan2019'],,False,False,,1
+dong1286-1-19-1,,dong1286-1,19,tsʰi55kɯ̪33,tsʰi55kɯ̪33,[],,['chan2019'],,False,False,,1
+dong1286-1-20-1,,dong1286-1,20,ŋ̩21tsi55,ŋ̩21tsi55,[],,['chan2019'],,False,False,,1
+dong1286-1-24-1,,dong1286-1,24,ŋ̩21tsi55 ʔi33,ŋ̩21tsi55 ʔi33,[],,['chan2019'],,False,False,,1
+dong1286-1-25-1,,dong1286-1,25,ŋ̩21tsi55 ŋa21,ŋ̩21tsi55 ŋa21,[],,['chan2019'],,False,False,,1
+dong1286-1-26-1,,dong1286-1,26,ŋ̩21tsi55 kʰɔ21,ŋ̩21tsi55 kʰɔ21,[],,['chan2019'],,False,False,,1
+dong1286-1-27-1,,dong1286-1,27,ŋ̩21tsi55 xɨ21,ŋ̩21tsi55 xɨ21,[],,['chan2019'],,False,False,,1
+dong1286-1-28-1,,dong1286-1,28,ŋ̩21tsi55 çẽ21,ŋ̩21tsi55 çẽ21,[],,['chan2019'],,False,False,,1
+dong1286-1-29-1,,dong1286-1,29,ŋ̩21tsi55 kɯ̪33,ŋ̩21tsi55 kɯ̪33,[],,['chan2019'],,False,False,,1
+dong1286-1-30-1,,dong1286-1,30,sa33 tsʰi55,sa33 tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-40-1,,dong1286-1,40,ʔi33 tsʰi55,ʔi33 tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-50-1,,dong1286-1,50,ŋa̤21 tsʰi55,ŋa̤21 tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-60-1,,dong1286-1,60,kʰɔ21 tsʰi55,kʰɔ21 tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-70-1,,dong1286-1,70,xɨ21 tsʰi55,xɨ21 tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-80-1,,dong1286-1,80,çẽ21 tsʰi55,çẽ21 tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-90-1,,dong1286-1,90,kɯ̪33 tsʰi55,kɯ̪33 tsʰi55,[],,['chan2019'],,False,False,,1
+dong1286-1-100-1,,dong1286-1,100,tʂʰʅ21 hã55,tʂʰʅ21 hã55,[],,['chan2019'],,False,False,,1
+dong1286-1-200-1,,dong1286-1,200,ŋ̩21 h̃ã55,ŋ̩21 h̃ã55,[],,['chan2019'],,False,False,,1
+dong1286-1-1000-1,,dong1286-1,1000,tsʰi55 hã55,tsʰi55 hã55,[],( 10 x 100 ) ?,['chan2019'],,False,False,,1
+dong1286-1-2000-1,,dong1286-1,2000,ŋ21 tsʰi55 hã55,ŋ21 tsʰi55 hã55,[],,['chan2019'],,False,False,,1

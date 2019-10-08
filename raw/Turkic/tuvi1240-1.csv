@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tuvi1240-1-1-1,,tuvi1240-1,1,bir,bir,[],,[],,False,False,,1
-tuvi1240-1-2-1,,tuvi1240-1,2,iji,iji,[],,[],,False,False,,1
-tuvi1240-1-3-1,,tuvi1240-1,3,yʃ,yʃ,[],,[],,False,False,,1
-tuvi1240-1-4-1,,tuvi1240-1,4,dørt,dørt,[],,[],,False,False,,1
-tuvi1240-1-5-1,,tuvi1240-1,5,beʃ,beʃ,[],,[],,False,False,,1
-tuvi1240-1-6-1,,tuvi1240-1,6,ɑldɤ,ɑldɤ,[],,[],,False,False,,1
-tuvi1240-1-7-1,,tuvi1240-1,7,tʃedi,tʃedi,[],,[],,False,False,,1
-tuvi1240-1-8-1,,tuvi1240-1,8,sɛs,sɛs,[],,[],,False,False,,1
-tuvi1240-1-9-1,,tuvi1240-1,9,tos,tos,[],,[],,False,False,,1
-tuvi1240-1-10-1,,tuvi1240-1,10,on,on,[],,[],,False,False,,1
-tuvi1240-1-11-1,,tuvi1240-1,11,on bir,on bir,[],,[],,False,False,,1
-tuvi1240-1-12-1,,tuvi1240-1,12,on iji,on iji,[],,[],,False,False,,1
-tuvi1240-1-13-1,,tuvi1240-1,13,on yʃ,on yʃ,[],,[],,False,False,,1
-tuvi1240-1-14-1,,tuvi1240-1,14,on dørt,on dørt,[],,[],,False,False,,1
-tuvi1240-1-15-1,,tuvi1240-1,15,on beʃ,on beʃ,[],,[],,False,False,,1
-tuvi1240-1-16-1,,tuvi1240-1,16,on ɑldɤ,on ɑldɤ,[],,[],,False,False,,1
-tuvi1240-1-17-1,,tuvi1240-1,17,on tʃedi,on tʃedi,[],,[],,False,False,,1
-tuvi1240-1-18-1,,tuvi1240-1,18,on sɛs,on sɛs,[],,[],,False,False,,1
-tuvi1240-1-19-1,,tuvi1240-1,19,on tos,on tos,[],,[],,False,False,,1
-tuvi1240-1-20-1,,tuvi1240-1,20,tʃe:rbi,tʃe:rbi,[],,[],,False,False,,1
-tuvi1240-1-21-1,,tuvi1240-1,21,tʃe:rbi bir,tʃe:rbi bir,[],,[],,False,False,,1
-tuvi1240-1-22-1,,tuvi1240-1,22,tʃe:rbi iji,tʃe:rbi iji,[],,[],,False,False,,1
-tuvi1240-1-23-1,,tuvi1240-1,23,tʃe:rbi yʃ,tʃe:rbi yʃ,[],,[],,False,False,,1
-tuvi1240-1-24-1,,tuvi1240-1,24,tʃe:rbi dørt,tʃe:rbi dørt,[],,[],,False,False,,1
-tuvi1240-1-25-1,,tuvi1240-1,25,tʃe:rbi beʃ,tʃe:rbi beʃ,[],,[],,False,False,,1
-tuvi1240-1-26-1,,tuvi1240-1,26,tʃe:rbi ɑldɤ,tʃe:rbi ɑldɤ,[],,[],,False,False,,1
-tuvi1240-1-27-1,,tuvi1240-1,27,tʃe:rbi tʃedi,tʃe:rbi tʃedi,[],,[],,False,False,,1
-tuvi1240-1-28-1,,tuvi1240-1,28,tʃe:rbi sɛs,tʃe:rbi sɛs,[],,[],,False,False,,1
-tuvi1240-1-29-1,,tuvi1240-1,29,tʃe:rbi tos,tʃe:rbi tos,[],,[],,False,False,,1
-tuvi1240-1-30-1,,tuvi1240-1,30,yʒen,yʒen,[],,[],,False,False,,1
-tuvi1240-1-40-1,,tuvi1240-1,40,dørten,dørten,[],,[],,False,False,,1
-tuvi1240-1-50-1,,tuvi1240-1,50,beʒen,beʒen,[],,[],,False,False,,1
-tuvi1240-1-60-1,,tuvi1240-1,60,ɑldɑn,ɑldɑn,[],,[],,False,False,,1
-tuvi1240-1-70-1,,tuvi1240-1,70,tʃeden,tʃeden,[],,[],,False,False,,1
-tuvi1240-1-80-1,,tuvi1240-1,80,sɛzen,sɛzen,[],,[],,False,False,,1
-tuvi1240-1-90-1,,tuvi1240-1,90,tozɑn,tozɑn,[],,[],,False,False,,1
-tuvi1240-1-100-1,,tuvi1240-1,100,tʃys,tʃys,[],,[],,False,False,,1
-tuvi1240-1-200-1,,tuvi1240-1,200,iji tʃys,iji tʃys,[],,[],,False,False,,1
-tuvi1240-1-1000-1,,tuvi1240-1,1000,bir muŋ,bir muŋ,[],,[],,False,False,,1
-tuvi1240-1-2000-1,,tuvi1240-1,2000,iji muŋ,iji muŋ,[],,[],,False,False,,1
+tuvi1240-1-1-1,,tuvi1240-1,1,bir,bir,[],,['chan2019'],,False,False,,1
+tuvi1240-1-2-1,,tuvi1240-1,2,iji,iji,[],,['chan2019'],,False,False,,1
+tuvi1240-1-3-1,,tuvi1240-1,3,yʃ,yʃ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-4-1,,tuvi1240-1,4,dørt,dørt,[],,['chan2019'],,False,False,,1
+tuvi1240-1-5-1,,tuvi1240-1,5,beʃ,beʃ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-6-1,,tuvi1240-1,6,ɑldɤ,ɑldɤ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-7-1,,tuvi1240-1,7,tʃedi,tʃedi,[],,['chan2019'],,False,False,,1
+tuvi1240-1-8-1,,tuvi1240-1,8,sɛs,sɛs,[],,['chan2019'],,False,False,,1
+tuvi1240-1-9-1,,tuvi1240-1,9,tos,tos,[],,['chan2019'],,False,False,,1
+tuvi1240-1-10-1,,tuvi1240-1,10,on,on,[],,['chan2019'],,False,False,,1
+tuvi1240-1-11-1,,tuvi1240-1,11,on bir,on bir,[],,['chan2019'],,False,False,,1
+tuvi1240-1-12-1,,tuvi1240-1,12,on iji,on iji,[],,['chan2019'],,False,False,,1
+tuvi1240-1-13-1,,tuvi1240-1,13,on yʃ,on yʃ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-14-1,,tuvi1240-1,14,on dørt,on dørt,[],,['chan2019'],,False,False,,1
+tuvi1240-1-15-1,,tuvi1240-1,15,on beʃ,on beʃ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-16-1,,tuvi1240-1,16,on ɑldɤ,on ɑldɤ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-17-1,,tuvi1240-1,17,on tʃedi,on tʃedi,[],,['chan2019'],,False,False,,1
+tuvi1240-1-18-1,,tuvi1240-1,18,on sɛs,on sɛs,[],,['chan2019'],,False,False,,1
+tuvi1240-1-19-1,,tuvi1240-1,19,on tos,on tos,[],,['chan2019'],,False,False,,1
+tuvi1240-1-20-1,,tuvi1240-1,20,tʃe:rbi,tʃe:rbi,[],,['chan2019'],,False,False,,1
+tuvi1240-1-21-1,,tuvi1240-1,21,tʃe:rbi bir,tʃe:rbi bir,[],,['chan2019'],,False,False,,1
+tuvi1240-1-22-1,,tuvi1240-1,22,tʃe:rbi iji,tʃe:rbi iji,[],,['chan2019'],,False,False,,1
+tuvi1240-1-23-1,,tuvi1240-1,23,tʃe:rbi yʃ,tʃe:rbi yʃ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-24-1,,tuvi1240-1,24,tʃe:rbi dørt,tʃe:rbi dørt,[],,['chan2019'],,False,False,,1
+tuvi1240-1-25-1,,tuvi1240-1,25,tʃe:rbi beʃ,tʃe:rbi beʃ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-26-1,,tuvi1240-1,26,tʃe:rbi ɑldɤ,tʃe:rbi ɑldɤ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-27-1,,tuvi1240-1,27,tʃe:rbi tʃedi,tʃe:rbi tʃedi,[],,['chan2019'],,False,False,,1
+tuvi1240-1-28-1,,tuvi1240-1,28,tʃe:rbi sɛs,tʃe:rbi sɛs,[],,['chan2019'],,False,False,,1
+tuvi1240-1-29-1,,tuvi1240-1,29,tʃe:rbi tos,tʃe:rbi tos,[],,['chan2019'],,False,False,,1
+tuvi1240-1-30-1,,tuvi1240-1,30,yʒen,yʒen,[],,['chan2019'],,False,False,,1
+tuvi1240-1-40-1,,tuvi1240-1,40,dørten,dørten,[],,['chan2019'],,False,False,,1
+tuvi1240-1-50-1,,tuvi1240-1,50,beʒen,beʒen,[],,['chan2019'],,False,False,,1
+tuvi1240-1-60-1,,tuvi1240-1,60,ɑldɑn,ɑldɑn,[],,['chan2019'],,False,False,,1
+tuvi1240-1-70-1,,tuvi1240-1,70,tʃeden,tʃeden,[],,['chan2019'],,False,False,,1
+tuvi1240-1-80-1,,tuvi1240-1,80,sɛzen,sɛzen,[],,['chan2019'],,False,False,,1
+tuvi1240-1-90-1,,tuvi1240-1,90,tozɑn,tozɑn,[],,['chan2019'],,False,False,,1
+tuvi1240-1-100-1,,tuvi1240-1,100,tʃys,tʃys,[],,['chan2019'],,False,False,,1
+tuvi1240-1-200-1,,tuvi1240-1,200,iji tʃys,iji tʃys,[],,['chan2019'],,False,False,,1
+tuvi1240-1-1000-1,,tuvi1240-1,1000,bir muŋ,bir muŋ,[],,['chan2019'],,False,False,,1
+tuvi1240-1-2000-1,,tuvi1240-1,2000,iji muŋ,iji muŋ,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kons1243-1-1-1,,kons1243-1,1,takka,takka,[],,[],,False,False,,1
-kons1243-1-2-1,,kons1243-1,2,lakki,lakki,[],,[],,False,False,,1
-kons1243-1-3-1,,kons1243-1,3,sessa,sessa,[],,[],,False,False,,1
-kons1243-1-4-1,,kons1243-1,4,afur,afur,[],,[],,False,False,,1
-kons1243-1-5-1,,kons1243-1,5,ken,ken,[],,[],,False,False,,1
-kons1243-1-6-1,,kons1243-1,6,lehi,lehi,[],,[],,False,False,,1
-kons1243-1-7-1,,kons1243-1,7,tappa,tappa,[],,[],,False,False,,1
-kons1243-1-8-1,,kons1243-1,8,sette,sette,[],,[],,False,False,,1
-kons1243-1-9-1,,kons1243-1,9,saɡal,saɡal,[],,[],,False,False,,1
-kons1243-1-10-1,,kons1243-1,10,kuɗan,kuɗan,[],,[],,False,False,,1
-kons1243-1-11-1,,kons1243-1,11,kuɗan ka takka,kuɗan ka takka,[],,[],,False,False,,1
-kons1243-1-12-1,,kons1243-1,12,kuɗan ka lakki,kuɗan ka lakki,[],,[],,False,False,,1
-kons1243-1-13-1,,kons1243-1,13,kuɗan ka sessa,kuɗan ka sessa,[],,[],,False,False,,1
-kons1243-1-14-1,,kons1243-1,14,kuɗan ka afur,kuɗan ka afur,[],,[],,False,False,,1
-kons1243-1-15-1,,kons1243-1,15,kuɗan ka ken,kuɗan ka ken,[],,[],,False,False,,1
-kons1243-1-16-1,,kons1243-1,16,kuɗan ka lehi,kuɗan ka lehi,[],,[],,False,False,,1
-kons1243-1-17-1,,kons1243-1,17,kuɗan ka tappa,kuɗan ka tappa,[],,[],,False,False,,1
-kons1243-1-18-1,,kons1243-1,18,kuɗan ka sette,kuɗan ka sette,[],,[],,False,False,,1
-kons1243-1-19-1,,kons1243-1,19,kuɗan ka saɡal,kuɗan ka saɡal,[],,[],,False,False,,1
-kons1243-1-20-1,,kons1243-1,20,kuɗan lakki,kuɗan lakki,[],,[],,False,False,,1
-kons1243-1-21-1,,kons1243-1,21,kunɗa lakki takka,kunɗa lakki takka,[],,[],,False,False,,1
-kons1243-1-22-1,,kons1243-1,22,kunɗa lakki lakki,kunɗa lakki lakki,[],,[],,False,False,,1
-kons1243-1-23-1,,kons1243-1,23,kunɗa lakki sessa,kunɗa lakki sessa,[],,[],,False,False,,1
-kons1243-1-24-1,,kons1243-1,24,kunɗa lakki afur,kunɗa lakki afur,[],,[],,False,False,,1
-kons1243-1-25-1,,kons1243-1,25,kunɗa lakki ken,kunɗa lakki ken,[],,[],,False,False,,1
-kons1243-1-26-1,,kons1243-1,26,kunɗa lakki lehi,kunɗa lakki lehi,[],,[],,False,False,,1
-kons1243-1-27-1,,kons1243-1,27,kunɗa lakki tappa,kunɗa lakki tappa,[],,[],,False,False,,1
-kons1243-1-28-1,,kons1243-1,28,kunɗa lakki sette,kunɗa lakki sette,[],,[],,False,False,,1
-kons1243-1-29-1,,kons1243-1,29,kunɗa lakki saɡal,kunɗa lakki saɡal,[],,[],,False,False,,1
-kons1243-1-30-1,,kons1243-1,30,kunɗa sessa,kunɗa sessa,[],,[],,False,False,,1
-kons1243-1-40-1,,kons1243-1,40,kunɗa afur,kunɗa afur,[],,[],,False,False,,1
-kons1243-1-50-1,,kons1243-1,50,kunɗa ken,kunɗa ken,[],,[],,False,False,,1
-kons1243-1-60-1,,kons1243-1,60,kunɗa lehi,kunɗa lehi,[],,[],,False,False,,1
-kons1243-1-70-1,,kons1243-1,70,kunɗa tappa,kunɗa tappa,[],,[],,False,False,,1
-kons1243-1-80-1,,kons1243-1,80,kunɗa sette,kunɗa sette,[],,[],,False,False,,1
-kons1243-1-90-1,,kons1243-1,90,kunɗa saɡal,kunɗa saɡal,[],,[],,False,False,,1
-kons1243-1-100-1,,kons1243-1,100,ɗippa,ɗippa,[],(takka),[],,False,False,,1
-kons1243-1-200-1,,kons1243-1,200,ɗippa lakki,ɗippa lakki,[],,[],,False,False,,1
-kons1243-1-1000-1,,kons1243-1,1000,kuma,kuma,[],,[],,False,False,,1
-kons1243-1-2000-1,,kons1243-1,2000,kuma lakki,kuma lakki,[],,[],,False,False,,1
+kons1243-1-1-1,,kons1243-1,1,takka,takka,[],,['chan2019'],,False,False,,1
+kons1243-1-2-1,,kons1243-1,2,lakki,lakki,[],,['chan2019'],,False,False,,1
+kons1243-1-3-1,,kons1243-1,3,sessa,sessa,[],,['chan2019'],,False,False,,1
+kons1243-1-4-1,,kons1243-1,4,afur,afur,[],,['chan2019'],,False,False,,1
+kons1243-1-5-1,,kons1243-1,5,ken,ken,[],,['chan2019'],,False,False,,1
+kons1243-1-6-1,,kons1243-1,6,lehi,lehi,[],,['chan2019'],,False,False,,1
+kons1243-1-7-1,,kons1243-1,7,tappa,tappa,[],,['chan2019'],,False,False,,1
+kons1243-1-8-1,,kons1243-1,8,sette,sette,[],,['chan2019'],,False,False,,1
+kons1243-1-9-1,,kons1243-1,9,saɡal,saɡal,[],,['chan2019'],,False,False,,1
+kons1243-1-10-1,,kons1243-1,10,kuɗan,kuɗan,[],,['chan2019'],,False,False,,1
+kons1243-1-11-1,,kons1243-1,11,kuɗan ka takka,kuɗan ka takka,[],,['chan2019'],,False,False,,1
+kons1243-1-12-1,,kons1243-1,12,kuɗan ka lakki,kuɗan ka lakki,[],,['chan2019'],,False,False,,1
+kons1243-1-13-1,,kons1243-1,13,kuɗan ka sessa,kuɗan ka sessa,[],,['chan2019'],,False,False,,1
+kons1243-1-14-1,,kons1243-1,14,kuɗan ka afur,kuɗan ka afur,[],,['chan2019'],,False,False,,1
+kons1243-1-15-1,,kons1243-1,15,kuɗan ka ken,kuɗan ka ken,[],,['chan2019'],,False,False,,1
+kons1243-1-16-1,,kons1243-1,16,kuɗan ka lehi,kuɗan ka lehi,[],,['chan2019'],,False,False,,1
+kons1243-1-17-1,,kons1243-1,17,kuɗan ka tappa,kuɗan ka tappa,[],,['chan2019'],,False,False,,1
+kons1243-1-18-1,,kons1243-1,18,kuɗan ka sette,kuɗan ka sette,[],,['chan2019'],,False,False,,1
+kons1243-1-19-1,,kons1243-1,19,kuɗan ka saɡal,kuɗan ka saɡal,[],,['chan2019'],,False,False,,1
+kons1243-1-20-1,,kons1243-1,20,kuɗan lakki,kuɗan lakki,[],,['chan2019'],,False,False,,1
+kons1243-1-21-1,,kons1243-1,21,kunɗa lakki takka,kunɗa lakki takka,[],,['chan2019'],,False,False,,1
+kons1243-1-22-1,,kons1243-1,22,kunɗa lakki lakki,kunɗa lakki lakki,[],,['chan2019'],,False,False,,1
+kons1243-1-23-1,,kons1243-1,23,kunɗa lakki sessa,kunɗa lakki sessa,[],,['chan2019'],,False,False,,1
+kons1243-1-24-1,,kons1243-1,24,kunɗa lakki afur,kunɗa lakki afur,[],,['chan2019'],,False,False,,1
+kons1243-1-25-1,,kons1243-1,25,kunɗa lakki ken,kunɗa lakki ken,[],,['chan2019'],,False,False,,1
+kons1243-1-26-1,,kons1243-1,26,kunɗa lakki lehi,kunɗa lakki lehi,[],,['chan2019'],,False,False,,1
+kons1243-1-27-1,,kons1243-1,27,kunɗa lakki tappa,kunɗa lakki tappa,[],,['chan2019'],,False,False,,1
+kons1243-1-28-1,,kons1243-1,28,kunɗa lakki sette,kunɗa lakki sette,[],,['chan2019'],,False,False,,1
+kons1243-1-29-1,,kons1243-1,29,kunɗa lakki saɡal,kunɗa lakki saɡal,[],,['chan2019'],,False,False,,1
+kons1243-1-30-1,,kons1243-1,30,kunɗa sessa,kunɗa sessa,[],,['chan2019'],,False,False,,1
+kons1243-1-40-1,,kons1243-1,40,kunɗa afur,kunɗa afur,[],,['chan2019'],,False,False,,1
+kons1243-1-50-1,,kons1243-1,50,kunɗa ken,kunɗa ken,[],,['chan2019'],,False,False,,1
+kons1243-1-60-1,,kons1243-1,60,kunɗa lehi,kunɗa lehi,[],,['chan2019'],,False,False,,1
+kons1243-1-70-1,,kons1243-1,70,kunɗa tappa,kunɗa tappa,[],,['chan2019'],,False,False,,1
+kons1243-1-80-1,,kons1243-1,80,kunɗa sette,kunɗa sette,[],,['chan2019'],,False,False,,1
+kons1243-1-90-1,,kons1243-1,90,kunɗa saɡal,kunɗa saɡal,[],,['chan2019'],,False,False,,1
+kons1243-1-100-1,,kons1243-1,100,ɗippa,ɗippa,[],(takka),['chan2019'],,False,False,,1
+kons1243-1-200-1,,kons1243-1,200,ɗippa lakki,ɗippa lakki,[],,['chan2019'],,False,False,,1
+kons1243-1-1000-1,,kons1243-1,1000,kuma,kuma,[],,['chan2019'],,False,False,,1
+kons1243-1-2000-1,,kons1243-1,2000,kuma lakki,kuma lakki,[],,['chan2019'],,False,False,,1

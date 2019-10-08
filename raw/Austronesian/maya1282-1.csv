@@ -1,24 +1,24 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maya1282-1-1-1,,maya1282-1,1,etem,etem,[],,[],,False,False,,1
-maya1282-1-1-2,,maya1282-1,1,sa,sa,[],,[],,False,False,,1
-maya1282-1-2-1,,maya1282-1,2,luw,luw,[],,[],,False,False,,1
-maya1282-1-3-1,,maya1282-1,3,tul,tul,[],,[],,False,False,,1
-maya1282-1-4-1,,maya1282-1,4,fat,fat,[],,[],,False,False,,1
-maya1282-1-5-1,,maya1282-1,5,lim,lim,[],,[],,False,False,,1
-maya1282-1-6-1,,maya1282-1,6,wonom,wonom,[],,[],,False,False,,1
-maya1282-1-7-1,,maya1282-1,7,fit,fit,[],,[],,False,False,,1
-maya1282-1-8-1,,maya1282-1,8,wal,wal,[],,[],,False,False,,1
-maya1282-1-9-1,,maya1282-1,9,siw,siw,[],,[],,False,False,,1
-maya1282-1-10-1,,maya1282-1,10,laf,laf,[],,[],,False,False,,1
-maya1282-1-11-1,,maya1282-1,11,laf mai etem,laf mai etem,[],,[],,False,False,,1
-maya1282-1-12-1,,maya1282-1,12,laf mai lu,laf mai lu,[],,[],,False,False,,1
-maya1282-1-13-1,,maya1282-1,13,laf mai tul,laf mai tul,[],,[],,False,False,,1
-maya1282-1-20-1,,maya1282-1,20,luf lu,luf lu,[],,[],,False,False,,1
-maya1282-1-30-1,,maya1282-1,30,luf tol,luf tol,[],,[],,False,False,,1
-maya1282-1-100-1,,maya1282-1,100,wutun etem,wutun etem,[],,[],,False,False,,1
-maya1282-1-100-2,,maya1282-1,100,wutun ha,wutun ha,[],,[],,False,False,,1
-maya1282-1-101-1,,maya1282-1,101,wutun ha mai etem,wutun ha mai etem,[],,[],,False,False,,1
-maya1282-1-1000-1,,maya1282-1,1000,yip etem,yip etem,[],,[],,False,False,,1
-maya1282-1-1000-2,,maya1282-1,1000,yip ha,yip ha,[],,[],,False,False,,1
-maya1282-1-1000000-1,,maya1282-1,1000000,d͡ʒuta etem,d͡ʒuta etem,[],,[],,False,False,,1
-maya1282-1-1000000-2,,maya1282-1,1000000,d͡ʒuta ha,d͡ʒuta ha,[],,[],,False,False,,1
+maya1282-1-1-1,,maya1282-1,1,etem,etem,[],,['chan2019'],,False,False,,1
+maya1282-1-1-2,,maya1282-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+maya1282-1-2-1,,maya1282-1,2,luw,luw,[],,['chan2019'],,False,False,,1
+maya1282-1-3-1,,maya1282-1,3,tul,tul,[],,['chan2019'],,False,False,,1
+maya1282-1-4-1,,maya1282-1,4,fat,fat,[],,['chan2019'],,False,False,,1
+maya1282-1-5-1,,maya1282-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+maya1282-1-6-1,,maya1282-1,6,wonom,wonom,[],,['chan2019'],,False,False,,1
+maya1282-1-7-1,,maya1282-1,7,fit,fit,[],,['chan2019'],,False,False,,1
+maya1282-1-8-1,,maya1282-1,8,wal,wal,[],,['chan2019'],,False,False,,1
+maya1282-1-9-1,,maya1282-1,9,siw,siw,[],,['chan2019'],,False,False,,1
+maya1282-1-10-1,,maya1282-1,10,laf,laf,[],,['chan2019'],,False,False,,1
+maya1282-1-11-1,,maya1282-1,11,laf mai etem,laf mai etem,[],,['chan2019'],,False,False,,1
+maya1282-1-12-1,,maya1282-1,12,laf mai lu,laf mai lu,[],,['chan2019'],,False,False,,1
+maya1282-1-13-1,,maya1282-1,13,laf mai tul,laf mai tul,[],,['chan2019'],,False,False,,1
+maya1282-1-20-1,,maya1282-1,20,luf lu,luf lu,[],,['chan2019'],,False,False,,1
+maya1282-1-30-1,,maya1282-1,30,luf tol,luf tol,[],,['chan2019'],,False,False,,1
+maya1282-1-100-1,,maya1282-1,100,wutun etem,wutun etem,[],,['chan2019'],,False,False,,1
+maya1282-1-100-2,,maya1282-1,100,wutun ha,wutun ha,[],,['chan2019'],,False,False,,1
+maya1282-1-101-1,,maya1282-1,101,wutun ha mai etem,wutun ha mai etem,[],,['chan2019'],,False,False,,1
+maya1282-1-1000-1,,maya1282-1,1000,yip etem,yip etem,[],,['chan2019'],,False,False,,1
+maya1282-1-1000-2,,maya1282-1,1000,yip ha,yip ha,[],,['chan2019'],,False,False,,1
+maya1282-1-1000000-1,,maya1282-1,1000000,d͡ʒuta etem,d͡ʒuta etem,[],,['chan2019'],,False,False,,1
+maya1282-1-1000000-2,,maya1282-1,1000000,d͡ʒuta ha,d͡ʒuta ha,[],,['chan2019'],,False,False,,1

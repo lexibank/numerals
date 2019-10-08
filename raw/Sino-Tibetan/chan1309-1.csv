@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chan1309-1-1-1,,chan1309-1,1,tʃik,tʃik,[],,[],,False,False,,1
-chan1309-1-2-1,,chan1309-1,2,ɲis,ɲis,[],,[],,False,False,,1
-chan1309-1-3-1,,chan1309-1,3,sum,sum,[],,[],,False,False,,1
-chan1309-1-4-1,,chan1309-1,4,zi,zi,[],,[],,False,False,,1
-chan1309-1-5-1,,chan1309-1,5,ŋa,ŋa,[],,[],,False,False,,1
-chan1309-1-6-1,,chan1309-1,6,ɖruk,ɖruk,[],,[],,False,False,,1
-chan1309-1-7-1,,chan1309-1,7,dun,dun,[],,[],,False,False,,1
-chan1309-1-8-1,,chan1309-1,8,ɡʲat,ɡʲat,[],,[],,False,False,,1
-chan1309-1-9-1,,chan1309-1,9,ɡu,ɡu,[],,[],,False,False,,1
-chan1309-1-10-1,,chan1309-1,10,tʃu,tʃu,[],,[],,False,False,,1
-chan1309-1-11-1,,chan1309-1,11,tʃuk ʃik,tʃuk ʃik,[],,[],,False,False,,1
-chan1309-1-12-1,,chan1309-1,12,tʃukɲis,tʃukɲis,[],,[],,False,False,,1
-chan1309-1-13-1,,chan1309-1,13,tʃuk sum,tʃuk sum,[],,[],,False,False,,1
-chan1309-1-14-1,,chan1309-1,14,tʃup zi,tʃup zi,[],,[],,False,False,,1
-chan1309-1-15-1,,chan1309-1,15,tʃo ŋa,tʃo ŋa,[],,[],,False,False,,1
-chan1309-1-16-1,,chan1309-1,16,tʃu ɖruk,tʃu ɖruk,[],,[],,False,False,,1
-chan1309-1-17-1,,chan1309-1,17,tʃup dun,tʃup dun,[],,[],,False,False,,1
-chan1309-1-18-1,,chan1309-1,18,tʃop ɡʲat,tʃop ɡʲat,[],,[],,False,False,,1
-chan1309-1-19-1,,chan1309-1,19,tʃur ɡu,tʃur ɡu,[],,[],,False,False,,1
-chan1309-1-20-1,,chan1309-1,20,ɲiʃu,ɲiʃu,[],,[],,False,False,,1
-chan1309-1-21-1,,chan1309-1,21,ɲiʃu tsak ʃik,ɲiʃu tsak ʃik,[],,[],,False,False,,1
-chan1309-1-22-1,,chan1309-1,22,ɲiʃu tsak ɲis,ɲiʃu tsak ɲis,[],,[],,False,False,,1
-chan1309-1-23-1,,chan1309-1,23,ɲiʃu tsak sum,ɲiʃu tsak sum,[],,[],,False,False,,1
-chan1309-1-24-1,,chan1309-1,24,ɲiʃu tsap zi,ɲiʃu tsap zi,[],,[],,False,False,,1
-chan1309-1-25-1,,chan1309-1,25,ɲiʃu tsa ŋa,ɲiʃu tsa ŋa,[],,[],,False,False,,1
-chan1309-1-26-1,,chan1309-1,26,ɲiʃu tsa ɖruk,ɲiʃu tsa ɖruk,[],,[],,False,False,,1
-chan1309-1-27-1,,chan1309-1,27,ɲiʃu tsap dun,ɲiʃu tsap dun,[],,[],,False,False,,1
-chan1309-1-28-1,,chan1309-1,28,ɲiʃu tsap ɡʲat,ɲiʃu tsap ɡʲat,[],,[],,False,False,,1
-chan1309-1-29-1,,chan1309-1,29,ɲiʃu tsar ɡu,ɲiʃu tsar ɡu,[],,[],,False,False,,1
-chan1309-1-30-1,,chan1309-1,30,sumtʃu,sumtʃu,[],,[],,False,False,,1
-chan1309-1-40-1,,chan1309-1,40,ziptʃu,ziptʃu,[],,[],,False,False,,1
-chan1309-1-50-1,,chan1309-1,50,ŋaptʃu,ŋaptʃu,[],,[],,False,False,,1
-chan1309-1-60-1,,chan1309-1,60,ɖruktʃu,ɖruktʃu,[],,[],,False,False,,1
-chan1309-1-70-1,,chan1309-1,70,duntʃu,duntʃu,[],,[],,False,False,,1
-chan1309-1-80-1,,chan1309-1,80,ɡʲatʃu,ɡʲatʃu,[],,[],,False,False,,1
-chan1309-1-90-1,,chan1309-1,90,ɡuptʃu,ɡuptʃu,[],,[],,False,False,,1
-chan1309-1-100-1,,chan1309-1,100,ɡʲa,ɡʲa,[],,[],,False,False,,1
-chan1309-1-200-1,,chan1309-1,200,ɲibɡʲa,ɲibɡʲa,[],,[],,False,False,,1
-chan1309-1-1000-1,,chan1309-1,1000,toŋ tʃik,toŋ tʃik,[],,[],,False,False,,1
-chan1309-1-2000-1,,chan1309-1,2000,toŋ ɲis,toŋ ɲis,[],,[],,False,False,,1
+chan1309-1-1-1,,chan1309-1,1,tʃik,tʃik,[],,['chan2019'],,False,False,,1
+chan1309-1-2-1,,chan1309-1,2,ɲis,ɲis,[],,['chan2019'],,False,False,,1
+chan1309-1-3-1,,chan1309-1,3,sum,sum,[],,['chan2019'],,False,False,,1
+chan1309-1-4-1,,chan1309-1,4,zi,zi,[],,['chan2019'],,False,False,,1
+chan1309-1-5-1,,chan1309-1,5,ŋa,ŋa,[],,['chan2019'],,False,False,,1
+chan1309-1-6-1,,chan1309-1,6,ɖruk,ɖruk,[],,['chan2019'],,False,False,,1
+chan1309-1-7-1,,chan1309-1,7,dun,dun,[],,['chan2019'],,False,False,,1
+chan1309-1-8-1,,chan1309-1,8,ɡʲat,ɡʲat,[],,['chan2019'],,False,False,,1
+chan1309-1-9-1,,chan1309-1,9,ɡu,ɡu,[],,['chan2019'],,False,False,,1
+chan1309-1-10-1,,chan1309-1,10,tʃu,tʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-11-1,,chan1309-1,11,tʃuk ʃik,tʃuk ʃik,[],,['chan2019'],,False,False,,1
+chan1309-1-12-1,,chan1309-1,12,tʃukɲis,tʃukɲis,[],,['chan2019'],,False,False,,1
+chan1309-1-13-1,,chan1309-1,13,tʃuk sum,tʃuk sum,[],,['chan2019'],,False,False,,1
+chan1309-1-14-1,,chan1309-1,14,tʃup zi,tʃup zi,[],,['chan2019'],,False,False,,1
+chan1309-1-15-1,,chan1309-1,15,tʃo ŋa,tʃo ŋa,[],,['chan2019'],,False,False,,1
+chan1309-1-16-1,,chan1309-1,16,tʃu ɖruk,tʃu ɖruk,[],,['chan2019'],,False,False,,1
+chan1309-1-17-1,,chan1309-1,17,tʃup dun,tʃup dun,[],,['chan2019'],,False,False,,1
+chan1309-1-18-1,,chan1309-1,18,tʃop ɡʲat,tʃop ɡʲat,[],,['chan2019'],,False,False,,1
+chan1309-1-19-1,,chan1309-1,19,tʃur ɡu,tʃur ɡu,[],,['chan2019'],,False,False,,1
+chan1309-1-20-1,,chan1309-1,20,ɲiʃu,ɲiʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-21-1,,chan1309-1,21,ɲiʃu tsak ʃik,ɲiʃu tsak ʃik,[],,['chan2019'],,False,False,,1
+chan1309-1-22-1,,chan1309-1,22,ɲiʃu tsak ɲis,ɲiʃu tsak ɲis,[],,['chan2019'],,False,False,,1
+chan1309-1-23-1,,chan1309-1,23,ɲiʃu tsak sum,ɲiʃu tsak sum,[],,['chan2019'],,False,False,,1
+chan1309-1-24-1,,chan1309-1,24,ɲiʃu tsap zi,ɲiʃu tsap zi,[],,['chan2019'],,False,False,,1
+chan1309-1-25-1,,chan1309-1,25,ɲiʃu tsa ŋa,ɲiʃu tsa ŋa,[],,['chan2019'],,False,False,,1
+chan1309-1-26-1,,chan1309-1,26,ɲiʃu tsa ɖruk,ɲiʃu tsa ɖruk,[],,['chan2019'],,False,False,,1
+chan1309-1-27-1,,chan1309-1,27,ɲiʃu tsap dun,ɲiʃu tsap dun,[],,['chan2019'],,False,False,,1
+chan1309-1-28-1,,chan1309-1,28,ɲiʃu tsap ɡʲat,ɲiʃu tsap ɡʲat,[],,['chan2019'],,False,False,,1
+chan1309-1-29-1,,chan1309-1,29,ɲiʃu tsar ɡu,ɲiʃu tsar ɡu,[],,['chan2019'],,False,False,,1
+chan1309-1-30-1,,chan1309-1,30,sumtʃu,sumtʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-40-1,,chan1309-1,40,ziptʃu,ziptʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-50-1,,chan1309-1,50,ŋaptʃu,ŋaptʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-60-1,,chan1309-1,60,ɖruktʃu,ɖruktʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-70-1,,chan1309-1,70,duntʃu,duntʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-80-1,,chan1309-1,80,ɡʲatʃu,ɡʲatʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-90-1,,chan1309-1,90,ɡuptʃu,ɡuptʃu,[],,['chan2019'],,False,False,,1
+chan1309-1-100-1,,chan1309-1,100,ɡʲa,ɡʲa,[],,['chan2019'],,False,False,,1
+chan1309-1-200-1,,chan1309-1,200,ɲibɡʲa,ɲibɡʲa,[],,['chan2019'],,False,False,,1
+chan1309-1-1000-1,,chan1309-1,1000,toŋ tʃik,toŋ tʃik,[],,['chan2019'],,False,False,,1
+chan1309-1-2000-1,,chan1309-1,2000,toŋ ɲis,toŋ ɲis,[],,['chan2019'],,False,False,,1

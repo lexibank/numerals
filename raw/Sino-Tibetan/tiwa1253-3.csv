@@ -1,39 +1,39 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tiwa1253-3-1-1,,tiwa1253-3,1,sa,sa,[],,[],,False,False,,2
-tiwa1253-3-2-1,,tiwa1253-3,2,niŋ,niŋ,[],,[],,False,False,,2
-tiwa1253-3-3-1,,tiwa1253-3,3,tʰini,tʰini,[],< Indic language ,[],,True,False,,2
-tiwa1253-3-4-1,,tiwa1253-3,4,tsari,tsari,[],,[],,False,False,,2
-tiwa1253-3-5-1,,tiwa1253-3,5,pʰac,pʰac,[],,[],,False,False,,2
-tiwa1253-3-6-1,,tiwa1253-3,6,cʰui,cʰui,[],,[],,False,False,,2
-tiwa1253-3-7-1,,tiwa1253-3,7,sat,sat,[],,[],,False,False,,2
-tiwa1253-3-8-1,,tiwa1253-3,8,aʈ,aʈ,[],,[],,False,False,,2
-tiwa1253-3-9-1,,tiwa1253-3,9,nu,nu,[],,[],,False,False,,2
-tiwa1253-3-10-1,,tiwa1253-3,10,dɔs,dɔs,[],,[],,False,False,,2
-tiwa1253-3-11-1,,tiwa1253-3,11,egarɔ,egarɔ,[],,[],,False,False,,2
-tiwa1253-3-12-1,,tiwa1253-3,12,barɔ,barɔ,[],,[],,False,False,,2
-tiwa1253-3-13-1,,tiwa1253-3,13,terɔ,terɔ,[],,[],,False,False,,2
-tiwa1253-3-14-1,,tiwa1253-3,14,codɔ,codɔ,[],,[],,False,False,,2
-tiwa1253-3-15-1,,tiwa1253-3,15,pəndrɔ,pəndrɔ,[],,[],,False,False,,2
-tiwa1253-3-16-1,,tiwa1253-3,16,solə,solə,[],,[],,False,False,,2
-tiwa1253-3-17-1,,tiwa1253-3,17,sətrɔ,sətrɔ,[],,[],,False,False,,2
-tiwa1253-3-18-1,,tiwa1253-3,18,əʈarɔ,əʈarɔ,[],,[],,False,False,,2
-tiwa1253-3-19-1,,tiwa1253-3,19,unis,unis,[],,[],,False,False,,2
-tiwa1253-3-20-1,,tiwa1253-3,20,bis,bis,[],,[],,False,False,,2
-tiwa1253-3-21-1,,tiwa1253-3,21,ikʰuri ek,ikʰuri ek,[],,[],,False,False,,2
-tiwa1253-3-22-1,,tiwa1253-3,22,ikʰuri tini,ikʰuri tini,[],,[],,False,False,,2
-tiwa1253-3-24-1,,tiwa1253-3,24,ikʰuri tsari,ikʰuri tsari,[],,[],,False,False,,2
-tiwa1253-3-25-1,,tiwa1253-3,25,ikʰuri pʰac,ikʰuri pʰac,[],,[],,False,False,,2
-tiwa1253-3-26-1,,tiwa1253-3,26,ikʰuri cʰui,ikʰuri cʰui,[],,[],,False,False,,2
-tiwa1253-3-27-1,,tiwa1253-3,27,ikʰuri sat,ikʰuri sat,[],,[],,False,False,,2
-tiwa1253-3-28-1,,tiwa1253-3,28,ikʰuri aʈ,ikʰuri aʈ,[],,[],,False,False,,2
-tiwa1253-3-29-1,,tiwa1253-3,29,ikʰuri nu,ikʰuri nu,[],,[],,False,False,,2
-tiwa1253-3-30-1,,tiwa1253-3,30,ikʰuri dɔs,ikʰuri dɔs,[],( 20 + 10),[],,False,False,,2
-tiwa1253-3-40-1,,tiwa1253-3,40,di ikʰuri,di ikʰuri,[],( 2 x 20 ),[],,False,False,,2
-tiwa1253-3-50-1,,tiwa1253-3,50,di ikʰuri dɔs,di ikʰuri dɔs,[],,[],,False,False,,2
-tiwa1253-3-60-1,,tiwa1253-3,60,tini ikʰuri,tini ikʰuri,[],( 3 x 20 ),[],,False,False,,2
-tiwa1253-3-70-1,,tiwa1253-3,70,tini ikʰuri dɔs,tini ikʰuri dɔs,[],,[],,False,False,,2
-tiwa1253-3-80-1,,tiwa1253-3,80,tsari ikʰuri,tsari ikʰuri,[],( 4 x 20 ),[],,False,False,,2
-tiwa1253-3-90-1,,tiwa1253-3,90,tsari ikʰuri dɔs,tsari ikʰuri dɔs,[],,[],,False,False,,2
-tiwa1253-3-100-1,,tiwa1253-3,100,sɔi-cha,sɔi-cha,[],,[],,False,False,,2
-tiwa1253-3-1000-1,,tiwa1253-3,1000,həjrɔ,həjrɔ,[],< Indic language ,[],,True,False,,2
-tiwa1253-3-2000-1,,tiwa1253-3,2000,həjar nui,həjar nui,[],,[],,False,False,,2
+tiwa1253-3-1-1,,tiwa1253-3,1,sa,sa,[],,['chan2019'],,False,False,,2
+tiwa1253-3-2-1,,tiwa1253-3,2,niŋ,niŋ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-3-1,,tiwa1253-3,3,tʰini,tʰini,[],< Indic language ,['chan2019'],,True,False,,2
+tiwa1253-3-4-1,,tiwa1253-3,4,tsari,tsari,[],,['chan2019'],,False,False,,2
+tiwa1253-3-5-1,,tiwa1253-3,5,pʰac,pʰac,[],,['chan2019'],,False,False,,2
+tiwa1253-3-6-1,,tiwa1253-3,6,cʰui,cʰui,[],,['chan2019'],,False,False,,2
+tiwa1253-3-7-1,,tiwa1253-3,7,sat,sat,[],,['chan2019'],,False,False,,2
+tiwa1253-3-8-1,,tiwa1253-3,8,aʈ,aʈ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-9-1,,tiwa1253-3,9,nu,nu,[],,['chan2019'],,False,False,,2
+tiwa1253-3-10-1,,tiwa1253-3,10,dɔs,dɔs,[],,['chan2019'],,False,False,,2
+tiwa1253-3-11-1,,tiwa1253-3,11,egarɔ,egarɔ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-12-1,,tiwa1253-3,12,barɔ,barɔ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-13-1,,tiwa1253-3,13,terɔ,terɔ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-14-1,,tiwa1253-3,14,codɔ,codɔ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-15-1,,tiwa1253-3,15,pəndrɔ,pəndrɔ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-16-1,,tiwa1253-3,16,solə,solə,[],,['chan2019'],,False,False,,2
+tiwa1253-3-17-1,,tiwa1253-3,17,sətrɔ,sətrɔ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-18-1,,tiwa1253-3,18,əʈarɔ,əʈarɔ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-19-1,,tiwa1253-3,19,unis,unis,[],,['chan2019'],,False,False,,2
+tiwa1253-3-20-1,,tiwa1253-3,20,bis,bis,[],,['chan2019'],,False,False,,2
+tiwa1253-3-21-1,,tiwa1253-3,21,ikʰuri ek,ikʰuri ek,[],,['chan2019'],,False,False,,2
+tiwa1253-3-22-1,,tiwa1253-3,22,ikʰuri tini,ikʰuri tini,[],,['chan2019'],,False,False,,2
+tiwa1253-3-24-1,,tiwa1253-3,24,ikʰuri tsari,ikʰuri tsari,[],,['chan2019'],,False,False,,2
+tiwa1253-3-25-1,,tiwa1253-3,25,ikʰuri pʰac,ikʰuri pʰac,[],,['chan2019'],,False,False,,2
+tiwa1253-3-26-1,,tiwa1253-3,26,ikʰuri cʰui,ikʰuri cʰui,[],,['chan2019'],,False,False,,2
+tiwa1253-3-27-1,,tiwa1253-3,27,ikʰuri sat,ikʰuri sat,[],,['chan2019'],,False,False,,2
+tiwa1253-3-28-1,,tiwa1253-3,28,ikʰuri aʈ,ikʰuri aʈ,[],,['chan2019'],,False,False,,2
+tiwa1253-3-29-1,,tiwa1253-3,29,ikʰuri nu,ikʰuri nu,[],,['chan2019'],,False,False,,2
+tiwa1253-3-30-1,,tiwa1253-3,30,ikʰuri dɔs,ikʰuri dɔs,[],( 20 + 10),['chan2019'],,False,False,,2
+tiwa1253-3-40-1,,tiwa1253-3,40,di ikʰuri,di ikʰuri,[],( 2 x 20 ),['chan2019'],,False,False,,2
+tiwa1253-3-50-1,,tiwa1253-3,50,di ikʰuri dɔs,di ikʰuri dɔs,[],,['chan2019'],,False,False,,2
+tiwa1253-3-60-1,,tiwa1253-3,60,tini ikʰuri,tini ikʰuri,[],( 3 x 20 ),['chan2019'],,False,False,,2
+tiwa1253-3-70-1,,tiwa1253-3,70,tini ikʰuri dɔs,tini ikʰuri dɔs,[],,['chan2019'],,False,False,,2
+tiwa1253-3-80-1,,tiwa1253-3,80,tsari ikʰuri,tsari ikʰuri,[],( 4 x 20 ),['chan2019'],,False,False,,2
+tiwa1253-3-90-1,,tiwa1253-3,90,tsari ikʰuri dɔs,tsari ikʰuri dɔs,[],,['chan2019'],,False,False,,2
+tiwa1253-3-100-1,,tiwa1253-3,100,sɔi-cha,sɔi-cha,[],,['chan2019'],,False,False,,2
+tiwa1253-3-1000-1,,tiwa1253-3,1000,həjrɔ,həjrɔ,[],< Indic language ,['chan2019'],,True,False,,2
+tiwa1253-3-2000-1,,tiwa1253-3,2000,həjar nui,həjar nui,[],,['chan2019'],,False,False,,2

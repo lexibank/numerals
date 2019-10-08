@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-komb1273-1-1-1,,komb1273-1,1,kənok or konok,kənok or konok,[],,[],,False,True,,1
-komb1273-1-2-1,,komb1273-1,2,zaɣat,zaɣat,[],,[],,False,False,,1
-komb1273-1-3-1,,komb1273-1,3,karambut,karambut,[],,[],,False,False,,1
-komb1273-1-4-1,,komb1273-1,4,kimembut,kimembut,[],,[],,False,False,,1
-komb1273-1-5-1,,komb1273-1,5,bet nambut,bet nambut,[],(litː ''hand side'' ),[],,False,False,,1
-komb1273-1-6-1,,komb1273-1,6,namburan kənok,namburan kənok,[],"(litː ''hand side side, one'')",[],,False,False,,1
-komb1273-1-7-1,,komb1273-1,7,namburan zaɣat,namburan zaɣat,[],,[],,False,False,,1
-komb1273-1-8-1,,komb1273-1,8,namburan karambut,namburan karambut,[],,[],,False,False,,1
-komb1273-1-9-1,,komb1273-1,9,namburan kimembut,namburan kimembut,[],,[],,False,False,,1
-komb1273-1-10-1,,komb1273-1,10,bet zaɣat (litː ''hand two'' ) or bet nambul nambul,bet zaɣat (litː ''hand two'' ) or bet nambul nambul,[],(litː 'hand side side'),[],,False,True,,1
-komb1273-1-11-1,,komb1273-1,11,kin kənok,kin kənok,[],(litː ''foot one''),[],,False,False,,1
-komb1273-1-12-1,,komb1273-1,12,kin zaɣat,kin zaɣat,[],,[],,False,False,,1
-komb1273-1-13-1,,komb1273-1,13,kin karambut,kin karambut,[],,[],,False,False,,1
-komb1273-1-14-1,,komb1273-1,14,kin kimembut,kin kimembut,[],,[],,False,False,,1
-komb1273-1-15-1,,komb1273-1,15,kin bet nambut,kin bet nambut,[],,[],,False,False,,1
-komb1273-1-16-1,,komb1273-1,16,kin namburan kənok,kin namburan kənok,[],"(litː ''foot one, hand side side, one'')",[],,False,False,,1
-komb1273-1-17-1,,komb1273-1,17,kin namburan zaɣat,kin namburan zaɣat,[],,[],,False,False,,1
-komb1273-1-18-1,,komb1273-1,18,kin namburan karambut,kin namburan karambut,[],,[],,False,False,,1
-komb1273-1-19-1,,komb1273-1,19,kin namburan kimembut,kin namburan kimembut,[],,[],,False,False,,1
-komb1273-1-20-1,,komb1273-1,20,a kənok,a kənok,[],(litː ''man one''),[],,False,False,,1
+komb1273-1-1-1,,komb1273-1,1,kənok or konok,kənok or konok,[],,['chan2019'],,False,True,,1
+komb1273-1-2-1,,komb1273-1,2,zaɣat,zaɣat,[],,['chan2019'],,False,False,,1
+komb1273-1-3-1,,komb1273-1,3,karambut,karambut,[],,['chan2019'],,False,False,,1
+komb1273-1-4-1,,komb1273-1,4,kimembut,kimembut,[],,['chan2019'],,False,False,,1
+komb1273-1-5-1,,komb1273-1,5,bet nambut,bet nambut,[],(litː ''hand side'' ),['chan2019'],,False,False,,1
+komb1273-1-6-1,,komb1273-1,6,namburan kənok,namburan kənok,[],"(litː ''hand side side, one'')",['chan2019'],,False,False,,1
+komb1273-1-7-1,,komb1273-1,7,namburan zaɣat,namburan zaɣat,[],,['chan2019'],,False,False,,1
+komb1273-1-8-1,,komb1273-1,8,namburan karambut,namburan karambut,[],,['chan2019'],,False,False,,1
+komb1273-1-9-1,,komb1273-1,9,namburan kimembut,namburan kimembut,[],,['chan2019'],,False,False,,1
+komb1273-1-10-1,,komb1273-1,10,bet zaɣat (litː ''hand two'' ) or bet nambul nambul,bet zaɣat (litː ''hand two'' ) or bet nambul nambul,[],(litː 'hand side side'),['chan2019'],,False,True,,1
+komb1273-1-11-1,,komb1273-1,11,kin kənok,kin kənok,[],(litː ''foot one''),['chan2019'],,False,False,,1
+komb1273-1-12-1,,komb1273-1,12,kin zaɣat,kin zaɣat,[],,['chan2019'],,False,False,,1
+komb1273-1-13-1,,komb1273-1,13,kin karambut,kin karambut,[],,['chan2019'],,False,False,,1
+komb1273-1-14-1,,komb1273-1,14,kin kimembut,kin kimembut,[],,['chan2019'],,False,False,,1
+komb1273-1-15-1,,komb1273-1,15,kin bet nambut,kin bet nambut,[],,['chan2019'],,False,False,,1
+komb1273-1-16-1,,komb1273-1,16,kin namburan kənok,kin namburan kənok,[],"(litː ''foot one, hand side side, one'')",['chan2019'],,False,False,,1
+komb1273-1-17-1,,komb1273-1,17,kin namburan zaɣat,kin namburan zaɣat,[],,['chan2019'],,False,False,,1
+komb1273-1-18-1,,komb1273-1,18,kin namburan karambut,kin namburan karambut,[],,['chan2019'],,False,False,,1
+komb1273-1-19-1,,komb1273-1,19,kin namburan kimembut,kin namburan kimembut,[],,['chan2019'],,False,False,,1
+komb1273-1-20-1,,komb1273-1,20,a kənok,a kənok,[],(litː ''man one''),['chan2019'],,False,False,,1

@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-xava1240-2-1-1,,xava1240-2,1,mitsi,mitsi,[],,[],,False,False,,2
-xava1240-2-2-1,,xava1240-2,2,maparane,maparane,[],,[],,False,False,,2
-xava1240-2-3-1,,xava1240-2,3,tsiʔubtatõ,tsiʔubtatõ,[],,[],,False,False,,2
-xava1240-2-4-1,,xava1240-2,4,maparane tsuiʔuiwana,maparane tsuiʔuiwana,[],,[],,False,False,,2
-xava1240-2-5-1,,xava1240-2,5,mrõ tõ,mrõ tõ,[],,[],,False,False,,2
-xava1240-2-6-1,,xava1240-2,6,ahö di,ahö di,[],( litː 'many' or 'a lot' ),[],,False,False,,2
+xava1240-2-1-1,,xava1240-2,1,mitsi,mitsi,[],,['chan2019'],,False,False,,2
+xava1240-2-2-1,,xava1240-2,2,maparane,maparane,[],,['chan2019'],,False,False,,2
+xava1240-2-3-1,,xava1240-2,3,tsiʔubtatõ,tsiʔubtatõ,[],,['chan2019'],,False,False,,2
+xava1240-2-4-1,,xava1240-2,4,maparane tsuiʔuiwana,maparane tsuiʔuiwana,[],,['chan2019'],,False,False,,2
+xava1240-2-5-1,,xava1240-2,5,mrõ tõ,mrõ tõ,[],,['chan2019'],,False,False,,2
+xava1240-2-6-1,,xava1240-2,6,ahö di,ahö di,[],( litː 'many' or 'a lot' ),['chan2019'],,False,False,,2

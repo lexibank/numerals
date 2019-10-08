@@ -1,28 +1,28 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cemu1238-2-1-1,,cemu1238-2,1,cɛ́iu,cɛ́iu,[],,[],,False,False,,2
-cemu1238-2-2-1,,cemu1238-2,2,álò,álò,[],,[],,False,False,,2
-cemu1238-2-3-1,,cemu1238-2,3,cíé,cíé,[],,[],,False,False,,2
-cemu1238-2-4-1,,cemu1238-2,4,páá,páá,[],,[],,False,False,,2
-cemu1238-2-5-1,,cemu1238-2,5,ním,ním,[],( litː 'hand'),[],,False,False,,2
-cemu1238-2-6-1,,cemu1238-2,6,ním bʷɔ̌a mú cɛ́iu pʷɔ-n,ním bʷɔ̌a mú cɛ́iu pʷɔ-n,[],( 5 + 1 ),[],,False,False,,2
-cemu1238-2-7-1,,cemu1238-2,7,ním bʷɔ̌a mú álò pʷɔ-n,ním bʷɔ̌a mú álò pʷɔ-n,[],( 5 + 2 ),[],,False,False,,2
-cemu1238-2-8-1,,cemu1238-2,8,ním bʷɔ̌a mú cíé pʷɔ-n,ním bʷɔ̌a mú cíé pʷɔ-n,[],( 5 + 3 ),[],,False,False,,2
-cemu1238-2-9-1,,cemu1238-2,9,ním bʷɔ̌a mú páá pʷɔ-n,ním bʷɔ̌a mú páá pʷɔ-n,[],( 5 + 4 ),[],,False,False,,2
-cemu1238-2-10-1,,cemu1238-2,10,pàɟylu,pàɟylu,[],,[],,False,False,,2
-cemu1238-2-11-1,,cemu1238-2,11,pàɟylu kâ(bo) cɛ́iu,pàɟylu kâ(bo) cɛ́iu,[],,[],,False,False,,2
-cemu1238-2-12-1,,cemu1238-2,12,pàɟylu kâ(bo) álò,pàɟylu kâ(bo) álò,[],,[],,False,False,,2
-cemu1238-2-13-1,,cemu1238-2,13,pàɟylu kâ(bo) cíé,pàɟylu kâ(bo) cíé,[],,[],,False,False,,2
-cemu1238-2-14-1,,cemu1238-2,14,pàɟylu kâ(bo) páá,pàɟylu kâ(bo) páá,[],,[],,False,False,,2
-cemu1238-2-15-1,,cemu1238-2,15,pàɟylu kâ(bo) ním,pàɟylu kâ(bo) ním,[],,[],,False,False,,2
-cemu1238-2-16-1,,cemu1238-2,16,pàɟylu kâ(bo) ním bʷɔ̌a mú cɛ́iu pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú cɛ́iu pʷɔ-n,[],,[],,False,False,,2
-cemu1238-2-17-1,,cemu1238-2,17,pàɟylu kâ(bo) ním bʷɔ̌a mú álò pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú álò pʷɔ-n,[],,[],,False,False,,2
-cemu1238-2-18-1,,cemu1238-2,18,pàɟylu kâ(bo) ním bʷɔ̌a mú cíé pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú cíé pʷɔ-n,[],,[],,False,False,,2
-cemu1238-2-19-1,,cemu1238-2,19,pàɟylu kâ(bo) ním bʷɔ̌a mú páá pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú páá pʷɔ-n,[],,[],,False,False,,2
-cemu1238-2-20-1,,cemu1238-2,20,cɛ́iu âpulip,cɛ́iu âpulip,[],(litː 'one man'),[],,False,False,,2
-cemu1238-2-20-2,,cemu1238-2,20,30. cɛ́iu âpulip kâ(bo) pàɟylu,30. cɛ́iu âpulip kâ(bo) pàɟylu,[],,[],,False,True,,2
-cemu1238-2-40-1,,cemu1238-2,40,álò âpulip,álò âpulip,[],(two men),[],,False,False,,2
-cemu1238-2-40-2,,cemu1238-2,40,50. álò âpulip kâ(bo) pàɟylu,50. álò âpulip kâ(bo) pàɟylu,[],,[],,False,True,,2
-cemu1238-2-60-1,,cemu1238-2,60,cíé âpulip,cíé âpulip,[],,[],,False,False,,2
-cemu1238-2-60-2,,cemu1238-2,60,70. cíé kâ(bo) pàɟylu,70. cíé kâ(bo) pàɟylu,[],,[],,False,True,,2
-cemu1238-2-80-1,,cemu1238-2,80,páá âpulip 90. páá kâ(bo) pàɟylu,páá âpulip 90. páá kâ(bo) pàɟylu,[],,[],,False,True,,2
-cemu1238-2-100-1,,cemu1238-2,100,ním âpulip,ním âpulip,[],(five people),[],,False,False,,2
+cemu1238-2-1-1,,cemu1238-2,1,cɛ́iu,cɛ́iu,[],,['chan2019'],,False,False,,2
+cemu1238-2-2-1,,cemu1238-2,2,álò,álò,[],,['chan2019'],,False,False,,2
+cemu1238-2-3-1,,cemu1238-2,3,cíé,cíé,[],,['chan2019'],,False,False,,2
+cemu1238-2-4-1,,cemu1238-2,4,páá,páá,[],,['chan2019'],,False,False,,2
+cemu1238-2-5-1,,cemu1238-2,5,ním,ním,[],( litː 'hand'),['chan2019'],,False,False,,2
+cemu1238-2-6-1,,cemu1238-2,6,ním bʷɔ̌a mú cɛ́iu pʷɔ-n,ním bʷɔ̌a mú cɛ́iu pʷɔ-n,[],( 5 + 1 ),['chan2019'],,False,False,,2
+cemu1238-2-7-1,,cemu1238-2,7,ním bʷɔ̌a mú álò pʷɔ-n,ním bʷɔ̌a mú álò pʷɔ-n,[],( 5 + 2 ),['chan2019'],,False,False,,2
+cemu1238-2-8-1,,cemu1238-2,8,ním bʷɔ̌a mú cíé pʷɔ-n,ním bʷɔ̌a mú cíé pʷɔ-n,[],( 5 + 3 ),['chan2019'],,False,False,,2
+cemu1238-2-9-1,,cemu1238-2,9,ním bʷɔ̌a mú páá pʷɔ-n,ním bʷɔ̌a mú páá pʷɔ-n,[],( 5 + 4 ),['chan2019'],,False,False,,2
+cemu1238-2-10-1,,cemu1238-2,10,pàɟylu,pàɟylu,[],,['chan2019'],,False,False,,2
+cemu1238-2-11-1,,cemu1238-2,11,pàɟylu kâ(bo) cɛ́iu,pàɟylu kâ(bo) cɛ́iu,[],,['chan2019'],,False,False,,2
+cemu1238-2-12-1,,cemu1238-2,12,pàɟylu kâ(bo) álò,pàɟylu kâ(bo) álò,[],,['chan2019'],,False,False,,2
+cemu1238-2-13-1,,cemu1238-2,13,pàɟylu kâ(bo) cíé,pàɟylu kâ(bo) cíé,[],,['chan2019'],,False,False,,2
+cemu1238-2-14-1,,cemu1238-2,14,pàɟylu kâ(bo) páá,pàɟylu kâ(bo) páá,[],,['chan2019'],,False,False,,2
+cemu1238-2-15-1,,cemu1238-2,15,pàɟylu kâ(bo) ním,pàɟylu kâ(bo) ním,[],,['chan2019'],,False,False,,2
+cemu1238-2-16-1,,cemu1238-2,16,pàɟylu kâ(bo) ním bʷɔ̌a mú cɛ́iu pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú cɛ́iu pʷɔ-n,[],,['chan2019'],,False,False,,2
+cemu1238-2-17-1,,cemu1238-2,17,pàɟylu kâ(bo) ním bʷɔ̌a mú álò pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú álò pʷɔ-n,[],,['chan2019'],,False,False,,2
+cemu1238-2-18-1,,cemu1238-2,18,pàɟylu kâ(bo) ním bʷɔ̌a mú cíé pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú cíé pʷɔ-n,[],,['chan2019'],,False,False,,2
+cemu1238-2-19-1,,cemu1238-2,19,pàɟylu kâ(bo) ním bʷɔ̌a mú páá pʷɔ-n,pàɟylu kâ(bo) ním bʷɔ̌a mú páá pʷɔ-n,[],,['chan2019'],,False,False,,2
+cemu1238-2-20-1,,cemu1238-2,20,cɛ́iu âpulip,cɛ́iu âpulip,[],(litː 'one man'),['chan2019'],,False,False,,2
+cemu1238-2-20-2,,cemu1238-2,20,30. cɛ́iu âpulip kâ(bo) pàɟylu,30. cɛ́iu âpulip kâ(bo) pàɟylu,[],,['chan2019'],,False,True,,2
+cemu1238-2-40-1,,cemu1238-2,40,álò âpulip,álò âpulip,[],(two men),['chan2019'],,False,False,,2
+cemu1238-2-40-2,,cemu1238-2,40,50. álò âpulip kâ(bo) pàɟylu,50. álò âpulip kâ(bo) pàɟylu,[],,['chan2019'],,False,True,,2
+cemu1238-2-60-1,,cemu1238-2,60,cíé âpulip,cíé âpulip,[],,['chan2019'],,False,False,,2
+cemu1238-2-60-2,,cemu1238-2,60,70. cíé kâ(bo) pàɟylu,70. cíé kâ(bo) pàɟylu,[],,['chan2019'],,False,True,,2
+cemu1238-2-80-1,,cemu1238-2,80,páá âpulip 90. páá kâ(bo) pàɟylu,páá âpulip 90. páá kâ(bo) pàɟylu,[],,['chan2019'],,False,True,,2
+cemu1238-2-100-1,,cemu1238-2,100,ním âpulip,ním âpulip,[],(five people),['chan2019'],,False,False,,2

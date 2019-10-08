@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kima1244-1-1-1,,kima1244-1,1,isoʔ,isoʔ,[],,[],,False,False,,1
-kima1244-1-2-1,,kima1244-1,2,duwoʔ,duwoʔ,[],,[],,False,False,,1
-kima1244-1-3-1,,kima1244-1,3,toluʔ,toluʔ,[],,[],,False,False,,1
-kima1244-1-4-1,,kima1244-1,4,apat,apat,[],,[],,False,False,,1
-kima1244-1-5-1,,kima1244-1,5,limoʔ,limoʔ,[],,[],,False,False,,1
-kima1244-1-6-1,,kima1244-1,6,onom,onom,[],,[],,False,False,,1
-kima1244-1-7-1,,kima1244-1,7,turuʔ,turuʔ,[],,[],,False,False,,1
-kima1244-1-8-1,,kima1244-1,8,waluʔ,waluʔ,[],,[],,False,False,,1
-kima1244-1-9-1,,kima1244-1,9,siyam,siyam,[],,[],,False,False,,1
-kima1244-1-10-1,,kima1244-1,10,opod,opod,[],,[],,False,False,,1
-kima1244-1-11-1,,kima1244-1,11,opod om isoʔ,opod om isoʔ,[],,[],,False,False,,1
-kima1244-1-12-1,,kima1244-1,12,opod om duwoʔ,opod om duwoʔ,[],,[],,False,False,,1
-kima1244-1-13-1,,kima1244-1,13,opod om toluʔ,opod om toluʔ,[],,[],,False,False,,1
-kima1244-1-14-1,,kima1244-1,14,opod om apat,opod om apat,[],,[],,False,False,,1
-kima1244-1-15-1,,kima1244-1,15,opod om limoʔ,opod om limoʔ,[],,[],,False,False,,1
-kima1244-1-16-1,,kima1244-1,16,opod om onom,opod om onom,[],,[],,False,False,,1
-kima1244-1-17-1,,kima1244-1,17,opod om turuʔ,opod om turuʔ,[],,[],,False,False,,1
-kima1244-1-18-1,,kima1244-1,18,opod om waluʔ,opod om waluʔ,[],,[],,False,False,,1
-kima1244-1-19-1,,kima1244-1,19,opod om siyam,opod om siyam,[],,[],,False,False,,1
-kima1244-1-20-1,,kima1244-1,20,duwoʔ nopod,duwoʔ nopod,[],,[],,False,False,,1
-kima1244-1-21-1,,kima1244-1,21,duwoʔ nopod om isoʔ,duwoʔ nopod om isoʔ,[],,[],,False,False,,1
-kima1244-1-22-1,,kima1244-1,22,duwoʔ nopod om duwoʔ,duwoʔ nopod om duwoʔ,[],,[],,False,False,,1
-kima1244-1-23-1,,kima1244-1,23,duwoʔ nopod om toluʔ,duwoʔ nopod om toluʔ,[],,[],,False,False,,1
-kima1244-1-24-1,,kima1244-1,24,duwoʔ nopod om apat,duwoʔ nopod om apat,[],,[],,False,False,,1
-kima1244-1-25-1,,kima1244-1,25,duwoʔ nopod om limoʔ,duwoʔ nopod om limoʔ,[],,[],,False,False,,1
-kima1244-1-26-1,,kima1244-1,26,duwoʔ nopod om onom,duwoʔ nopod om onom,[],,[],,False,False,,1
-kima1244-1-27-1,,kima1244-1,27,duwoʔ nopod om turuʔ,duwoʔ nopod om turuʔ,[],,[],,False,False,,1
-kima1244-1-28-1,,kima1244-1,28,duwoʔ nopod om waluʔ,duwoʔ nopod om waluʔ,[],,[],,False,False,,1
-kima1244-1-29-1,,kima1244-1,29,duwoʔ nopod om siyam,duwoʔ nopod om siyam,[],,[],,False,False,,1
-kima1244-1-30-1,,kima1244-1,30,toluʔ nopod,toluʔ nopod,[],,[],,False,False,,1
-kima1244-1-40-1,,kima1244-1,40,apat nopod,apat nopod,[],,[],,False,False,,1
-kima1244-1-50-1,,kima1244-1,50,limoʔ nopod,limoʔ nopod,[],,[],,False,False,,1
-kima1244-1-60-1,,kima1244-1,60,onom nopod,onom nopod,[],,[],,False,False,,1
-kima1244-1-70-1,,kima1244-1,70,turuʔ nopod,turuʔ nopod,[],,[],,False,False,,1
-kima1244-1-80-1,,kima1244-1,80,waluʔ nopod,waluʔ nopod,[],,[],,False,False,,1
-kima1244-1-90-1,,kima1244-1,90,siyam nopod,siyam nopod,[],,[],,False,False,,1
-kima1244-1-100-1,,kima1244-1,100,atus,atus,[],,[],,False,False,,1
-kima1244-1-200-1,,kima1244-1,200,duwoʔ natus,duwoʔ natus,[],,[],,False,False,,1
-kima1244-1-1000-1,,kima1244-1,1000,oribu,oribu,[],,[],,False,False,,1
-kima1244-1-2000-1,,kima1244-1,2000,duwoʔ naribu,duwoʔ naribu,[],,[],,False,False,,1
+kima1244-1-1-1,,kima1244-1,1,isoʔ,isoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-2-1,,kima1244-1,2,duwoʔ,duwoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-3-1,,kima1244-1,3,toluʔ,toluʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-4-1,,kima1244-1,4,apat,apat,[],,['chan2019'],,False,False,,1
+kima1244-1-5-1,,kima1244-1,5,limoʔ,limoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-6-1,,kima1244-1,6,onom,onom,[],,['chan2019'],,False,False,,1
+kima1244-1-7-1,,kima1244-1,7,turuʔ,turuʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-8-1,,kima1244-1,8,waluʔ,waluʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-9-1,,kima1244-1,9,siyam,siyam,[],,['chan2019'],,False,False,,1
+kima1244-1-10-1,,kima1244-1,10,opod,opod,[],,['chan2019'],,False,False,,1
+kima1244-1-11-1,,kima1244-1,11,opod om isoʔ,opod om isoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-12-1,,kima1244-1,12,opod om duwoʔ,opod om duwoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-13-1,,kima1244-1,13,opod om toluʔ,opod om toluʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-14-1,,kima1244-1,14,opod om apat,opod om apat,[],,['chan2019'],,False,False,,1
+kima1244-1-15-1,,kima1244-1,15,opod om limoʔ,opod om limoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-16-1,,kima1244-1,16,opod om onom,opod om onom,[],,['chan2019'],,False,False,,1
+kima1244-1-17-1,,kima1244-1,17,opod om turuʔ,opod om turuʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-18-1,,kima1244-1,18,opod om waluʔ,opod om waluʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-19-1,,kima1244-1,19,opod om siyam,opod om siyam,[],,['chan2019'],,False,False,,1
+kima1244-1-20-1,,kima1244-1,20,duwoʔ nopod,duwoʔ nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-21-1,,kima1244-1,21,duwoʔ nopod om isoʔ,duwoʔ nopod om isoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-22-1,,kima1244-1,22,duwoʔ nopod om duwoʔ,duwoʔ nopod om duwoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-23-1,,kima1244-1,23,duwoʔ nopod om toluʔ,duwoʔ nopod om toluʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-24-1,,kima1244-1,24,duwoʔ nopod om apat,duwoʔ nopod om apat,[],,['chan2019'],,False,False,,1
+kima1244-1-25-1,,kima1244-1,25,duwoʔ nopod om limoʔ,duwoʔ nopod om limoʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-26-1,,kima1244-1,26,duwoʔ nopod om onom,duwoʔ nopod om onom,[],,['chan2019'],,False,False,,1
+kima1244-1-27-1,,kima1244-1,27,duwoʔ nopod om turuʔ,duwoʔ nopod om turuʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-28-1,,kima1244-1,28,duwoʔ nopod om waluʔ,duwoʔ nopod om waluʔ,[],,['chan2019'],,False,False,,1
+kima1244-1-29-1,,kima1244-1,29,duwoʔ nopod om siyam,duwoʔ nopod om siyam,[],,['chan2019'],,False,False,,1
+kima1244-1-30-1,,kima1244-1,30,toluʔ nopod,toluʔ nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-40-1,,kima1244-1,40,apat nopod,apat nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-50-1,,kima1244-1,50,limoʔ nopod,limoʔ nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-60-1,,kima1244-1,60,onom nopod,onom nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-70-1,,kima1244-1,70,turuʔ nopod,turuʔ nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-80-1,,kima1244-1,80,waluʔ nopod,waluʔ nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-90-1,,kima1244-1,90,siyam nopod,siyam nopod,[],,['chan2019'],,False,False,,1
+kima1244-1-100-1,,kima1244-1,100,atus,atus,[],,['chan2019'],,False,False,,1
+kima1244-1-200-1,,kima1244-1,200,duwoʔ natus,duwoʔ natus,[],,['chan2019'],,False,False,,1
+kima1244-1-1000-1,,kima1244-1,1000,oribu,oribu,[],,['chan2019'],,False,False,,1
+kima1244-1-2000-1,,kima1244-1,2000,duwoʔ naribu,duwoʔ naribu,[],,['chan2019'],,False,False,,1

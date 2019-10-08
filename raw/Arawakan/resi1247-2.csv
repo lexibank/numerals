@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-resi1247-2-1-1,,resi1247-2,1,saɡú,saɡú,[],,[],,False,False,,2
-resi1247-2-2-1,,resi1247-2,2,miɡaakú,miɡaakú,[],,[],,False,False,,2
-resi1247-2-3-1,,resi1247-2,3,miɡaakú saɡú,miɡaakú saɡú,[],( 2 + 1 ),[],,False,False,,2
-resi1247-2-4-1,,resi1247-2,4,poʔtsááváɡaahí,poʔtsááváɡaahí,[],,[],,False,False,,2
-resi1247-2-5-1,,resi1247-2,5,síʔosí,síʔosí,[],,[],,False,False,,2
-resi1247-2-6-1,,resi1247-2,6,síʔosikhó saɡú,síʔosikhó saɡú,[],,[],,False,False,,2
-resi1247-2-7-1,,resi1247-2,7,síʔosikhó miɡaakú,síʔosikhó miɡaakú,[],,[],,False,False,,2
-resi1247-2-8-1,,resi1247-2,8,síʔosikhó miɡaakú saɡú,síʔosikhó miɡaakú saɡú,[],,[],,False,False,,2
-resi1247-2-9-1,,resi1247-2,9,síʔosikhó poʔtsááváɡaahí,síʔosikhó poʔtsááváɡaahí,[],,[],,False,False,,2
-resi1247-2-10-1,,resi1247-2,10,páʔosíkuná,páʔosíkuná,[],,[],,False,False,,2
-resi1247-2-11-1,,resi1247-2,11,feeʔpákhó saɡú,feeʔpákhó saɡú,[],,[],,False,False,,2
-resi1247-2-12-1,,resi1247-2,12,feeʔpákhó miɡaakú,feeʔpákhó miɡaakú,[],,[],,False,False,,2
-resi1247-2-13-1,,resi1247-2,13,feeʔpákhó miɡaakú saɡú,feeʔpákhó miɡaakú saɡú,[],,[],,False,False,,2
-resi1247-2-14-1,,resi1247-2,14,feeʔpákhó poʔtsááváɡaahí,feeʔpákhó poʔtsááváɡaahí,[],,[],,False,False,,2
-resi1247-2-15-1,,resi1247-2,15,feeʔpákhó síʔosí,feeʔpákhó síʔosí,[],,[],,False,False,,2
-resi1247-2-16-1,,resi1247-2,16,sítuʔpákhó saɡú,sítuʔpákhó saɡú,[],,[],,False,False,,2
-resi1247-2-17-1,,resi1247-2,17,sítuʔpákhó miɡaakú,sítuʔpákhó miɡaakú,[],,[],,False,False,,2
-resi1247-2-18-1,,resi1247-2,18,sítuʔpákhó miɡaakú saɡú,sítuʔpákhó miɡaakú saɡú,[],,[],,False,False,,2
-resi1247-2-19-1,,resi1247-2,19,sítuʔpákhó poʔtsááváɡaahí,sítuʔpákhó poʔtsááváɡaahí,[],,[],,False,False,,2
-resi1247-2-20-1,,resi1247-2,20,saɡú,saɡú,[],,[],,False,False,,2
+resi1247-2-1-1,,resi1247-2,1,saɡú,saɡú,[],,['chan2019'],,False,False,,2
+resi1247-2-2-1,,resi1247-2,2,miɡaakú,miɡaakú,[],,['chan2019'],,False,False,,2
+resi1247-2-3-1,,resi1247-2,3,miɡaakú saɡú,miɡaakú saɡú,[],( 2 + 1 ),['chan2019'],,False,False,,2
+resi1247-2-4-1,,resi1247-2,4,poʔtsááváɡaahí,poʔtsááváɡaahí,[],,['chan2019'],,False,False,,2
+resi1247-2-5-1,,resi1247-2,5,síʔosí,síʔosí,[],,['chan2019'],,False,False,,2
+resi1247-2-6-1,,resi1247-2,6,síʔosikhó saɡú,síʔosikhó saɡú,[],,['chan2019'],,False,False,,2
+resi1247-2-7-1,,resi1247-2,7,síʔosikhó miɡaakú,síʔosikhó miɡaakú,[],,['chan2019'],,False,False,,2
+resi1247-2-8-1,,resi1247-2,8,síʔosikhó miɡaakú saɡú,síʔosikhó miɡaakú saɡú,[],,['chan2019'],,False,False,,2
+resi1247-2-9-1,,resi1247-2,9,síʔosikhó poʔtsááváɡaahí,síʔosikhó poʔtsááváɡaahí,[],,['chan2019'],,False,False,,2
+resi1247-2-10-1,,resi1247-2,10,páʔosíkuná,páʔosíkuná,[],,['chan2019'],,False,False,,2
+resi1247-2-11-1,,resi1247-2,11,feeʔpákhó saɡú,feeʔpákhó saɡú,[],,['chan2019'],,False,False,,2
+resi1247-2-12-1,,resi1247-2,12,feeʔpákhó miɡaakú,feeʔpákhó miɡaakú,[],,['chan2019'],,False,False,,2
+resi1247-2-13-1,,resi1247-2,13,feeʔpákhó miɡaakú saɡú,feeʔpákhó miɡaakú saɡú,[],,['chan2019'],,False,False,,2
+resi1247-2-14-1,,resi1247-2,14,feeʔpákhó poʔtsááváɡaahí,feeʔpákhó poʔtsááváɡaahí,[],,['chan2019'],,False,False,,2
+resi1247-2-15-1,,resi1247-2,15,feeʔpákhó síʔosí,feeʔpákhó síʔosí,[],,['chan2019'],,False,False,,2
+resi1247-2-16-1,,resi1247-2,16,sítuʔpákhó saɡú,sítuʔpákhó saɡú,[],,['chan2019'],,False,False,,2
+resi1247-2-17-1,,resi1247-2,17,sítuʔpákhó miɡaakú,sítuʔpákhó miɡaakú,[],,['chan2019'],,False,False,,2
+resi1247-2-18-1,,resi1247-2,18,sítuʔpákhó miɡaakú saɡú,sítuʔpákhó miɡaakú saɡú,[],,['chan2019'],,False,False,,2
+resi1247-2-19-1,,resi1247-2,19,sítuʔpákhó poʔtsááváɡaahí,sítuʔpákhó poʔtsááváɡaahí,[],,['chan2019'],,False,False,,2
+resi1247-2-20-1,,resi1247-2,20,saɡú,saɡú,[],,['chan2019'],,False,False,,2

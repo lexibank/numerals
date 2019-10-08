@@ -1,35 +1,35 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-marg1265-1-1-1,,marg1265-1,1,taŋ,taŋ,[],,[],,False,False,,1
-marg1265-1-1-2,,marg1265-1,1,paɬu,paɬu,[],,[],,False,False,,1
-marg1265-1-1-3,,marg1265-1,1,tɪtɨkù,tɪtɨkù,[],,[],,False,False,,1
-marg1265-1-2-1,,marg1265-1,2,mɨɬù,mɨɬù,[],,[],,False,False,,1
-marg1265-1-2-2,,marg1265-1,2,sɪɗàŋ,sɪɗàŋ,[],,[],,False,False,,1
-marg1265-1-3-1,,marg1265-1,3,makùr̃,makùr̃,[],,[],,False,False,,1
-marg1265-1-4-1,,marg1265-1,4,fwoɗù,fwoɗù,[],,[],,False,False,,1
-marg1265-1-5-1,,marg1265-1,5,ntɪfù,ntɪfù,[],,[],,False,False,,1
-marg1265-1-6-1,,marg1265-1,6,ŋ̀kwà,ŋ̀kwà,[],,[],,False,False,,1
-marg1265-1-7-1,,marg1265-1,7,mɪɗɪfù,mɪɗɪfù,[],,[],,False,False,,1
-marg1265-1-8-1,,marg1265-1,8,ntsisù,ntsisù,[],,[],,False,False,,1
-marg1265-1-9-1,,marg1265-1,9,ḿðù,ḿðù,[],,[],,False,False,,1
-marg1265-1-10-1,,marg1265-1,10,kumu,kumu,[],,[],,False,False,,1
-marg1265-1-11-1,,marg1265-1,11,(kumu) sur̃təŋu ɡàsur taŋ,(kumu) sur̃təŋu ɡàsur taŋ,[],,[],,False,False,,1
-marg1265-1-12-1,,marg1265-1,12,(kumu) ɡàpɔ mɨ́ɬu,(kumu) ɡàpɔ mɨ́ɬu,[],,[],,False,False,,1
-marg1265-1-13-1,,marg1265-1,13,(kumu) ɡàpɔ makùr̃,(kumu) ɡàpɔ makùr̃,[],,[],,False,False,,1
-marg1265-1-14-1,,marg1265-1,14,(kumu) ɡàpɔ fwoɗù,(kumu) ɡàpɔ fwoɗù,[],,[],,False,False,,1
-marg1265-1-15-1,,marg1265-1,15,(kumu) ɡàpɔ ntɪfù,(kumu) ɡàpɔ ntɪfù,[],,[],,False,False,,1
-marg1265-1-16-1,,marg1265-1,16,(kumu) ɡàpɔ ŋkwà,(kumu) ɡàpɔ ŋkwà,[],,[],,False,False,,1
-marg1265-1-17-1,,marg1265-1,17,(kumu) ɡàpɔ mɨ́ɗɨ́fə̄,(kumu) ɡàpɔ mɨ́ɗɨ́fə̄,[],,[],,False,False,,1
-marg1265-1-18-1,,marg1265-1,18,(kumu) ɡàpɔ ntsisù,(kumu) ɡàpɔ ntsisù,[],,[],,False,False,,1
-marg1265-1-19-1,,marg1265-1,19,(kumu) ɡàpɔ ḿðù,(kumu) ɡàpɔ ḿðù,[],,[],,False,False,,1
-marg1265-1-20-1,,marg1265-1,20,mɪɬkùmi,mɪɬkùmi,[],,[],,False,False,,1
-marg1265-1-21-1,,marg1265-1,21,mɪɬkùmi à ɡàsur taŋ,mɪɬkùmi à ɡàsur taŋ,[],,[],,False,False,,1
-marg1265-1-24-1,,marg1265-1,24,mɪɬkùmi ɡàpɔ fwoɗu,mɪɬkùmi ɡàpɔ fwoɗu,[],,[],,False,False,,1
-marg1265-1-25-1,,marg1265-1,25,mɪɬkùmi ɡàpɔ ntɪfù,mɪɬkùmi ɡàpɔ ntɪfù,[],,[],,False,False,,1
-marg1265-1-30-1,,marg1265-1,30,mar̃kùmi,mar̃kùmi,[],,[],,False,False,,1
-marg1265-1-40-1,,marg1265-1,40,fwɔɗkùmi,fwɔɗkùmi,[],,[],,False,False,,1
-marg1265-1-50-1,,marg1265-1,50,(n)tɪfkùmi,(n)tɪfkùmi,[],,[],,False,False,,1
-marg1265-1-60-1,,marg1265-1,60,(ŋ)kwɔkùmi,(ŋ)kwɔkùmi,[],,[],,False,False,,1
-marg1265-1-70-1,,marg1265-1,70,mɨɗɪfkùmi,mɨɗɪfkùmi,[],,[],,False,False,,1
-marg1265-1-80-1,,marg1265-1,80,ntsɪskùmi,ntsɪskùmi,[],,[],,False,False,,1
-marg1265-1-90-1,,marg1265-1,90,ḿðukùmi,ḿðukùmi,[],,[],,False,False,,1
-marg1265-1-100-1,,marg1265-1,100,ɣàru,ɣàru,[],,[],,False,False,,1
+marg1265-1-1-1,,marg1265-1,1,taŋ,taŋ,[],,['chan2019'],,False,False,,1
+marg1265-1-1-2,,marg1265-1,1,paɬu,paɬu,[],,['chan2019'],,False,False,,1
+marg1265-1-1-3,,marg1265-1,1,tɪtɨkù,tɪtɨkù,[],,['chan2019'],,False,False,,1
+marg1265-1-2-1,,marg1265-1,2,mɨɬù,mɨɬù,[],,['chan2019'],,False,False,,1
+marg1265-1-2-2,,marg1265-1,2,sɪɗàŋ,sɪɗàŋ,[],,['chan2019'],,False,False,,1
+marg1265-1-3-1,,marg1265-1,3,makùr̃,makùr̃,[],,['chan2019'],,False,False,,1
+marg1265-1-4-1,,marg1265-1,4,fwoɗù,fwoɗù,[],,['chan2019'],,False,False,,1
+marg1265-1-5-1,,marg1265-1,5,ntɪfù,ntɪfù,[],,['chan2019'],,False,False,,1
+marg1265-1-6-1,,marg1265-1,6,ŋ̀kwà,ŋ̀kwà,[],,['chan2019'],,False,False,,1
+marg1265-1-7-1,,marg1265-1,7,mɪɗɪfù,mɪɗɪfù,[],,['chan2019'],,False,False,,1
+marg1265-1-8-1,,marg1265-1,8,ntsisù,ntsisù,[],,['chan2019'],,False,False,,1
+marg1265-1-9-1,,marg1265-1,9,ḿðù,ḿðù,[],,['chan2019'],,False,False,,1
+marg1265-1-10-1,,marg1265-1,10,kumu,kumu,[],,['chan2019'],,False,False,,1
+marg1265-1-11-1,,marg1265-1,11,(kumu) sur̃təŋu ɡàsur taŋ,(kumu) sur̃təŋu ɡàsur taŋ,[],,['chan2019'],,False,False,,1
+marg1265-1-12-1,,marg1265-1,12,(kumu) ɡàpɔ mɨ́ɬu,(kumu) ɡàpɔ mɨ́ɬu,[],,['chan2019'],,False,False,,1
+marg1265-1-13-1,,marg1265-1,13,(kumu) ɡàpɔ makùr̃,(kumu) ɡàpɔ makùr̃,[],,['chan2019'],,False,False,,1
+marg1265-1-14-1,,marg1265-1,14,(kumu) ɡàpɔ fwoɗù,(kumu) ɡàpɔ fwoɗù,[],,['chan2019'],,False,False,,1
+marg1265-1-15-1,,marg1265-1,15,(kumu) ɡàpɔ ntɪfù,(kumu) ɡàpɔ ntɪfù,[],,['chan2019'],,False,False,,1
+marg1265-1-16-1,,marg1265-1,16,(kumu) ɡàpɔ ŋkwà,(kumu) ɡàpɔ ŋkwà,[],,['chan2019'],,False,False,,1
+marg1265-1-17-1,,marg1265-1,17,(kumu) ɡàpɔ mɨ́ɗɨ́fə̄,(kumu) ɡàpɔ mɨ́ɗɨ́fə̄,[],,['chan2019'],,False,False,,1
+marg1265-1-18-1,,marg1265-1,18,(kumu) ɡàpɔ ntsisù,(kumu) ɡàpɔ ntsisù,[],,['chan2019'],,False,False,,1
+marg1265-1-19-1,,marg1265-1,19,(kumu) ɡàpɔ ḿðù,(kumu) ɡàpɔ ḿðù,[],,['chan2019'],,False,False,,1
+marg1265-1-20-1,,marg1265-1,20,mɪɬkùmi,mɪɬkùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-21-1,,marg1265-1,21,mɪɬkùmi à ɡàsur taŋ,mɪɬkùmi à ɡàsur taŋ,[],,['chan2019'],,False,False,,1
+marg1265-1-24-1,,marg1265-1,24,mɪɬkùmi ɡàpɔ fwoɗu,mɪɬkùmi ɡàpɔ fwoɗu,[],,['chan2019'],,False,False,,1
+marg1265-1-25-1,,marg1265-1,25,mɪɬkùmi ɡàpɔ ntɪfù,mɪɬkùmi ɡàpɔ ntɪfù,[],,['chan2019'],,False,False,,1
+marg1265-1-30-1,,marg1265-1,30,mar̃kùmi,mar̃kùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-40-1,,marg1265-1,40,fwɔɗkùmi,fwɔɗkùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-50-1,,marg1265-1,50,(n)tɪfkùmi,(n)tɪfkùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-60-1,,marg1265-1,60,(ŋ)kwɔkùmi,(ŋ)kwɔkùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-70-1,,marg1265-1,70,mɨɗɪfkùmi,mɨɗɪfkùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-80-1,,marg1265-1,80,ntsɪskùmi,ntsɪskùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-90-1,,marg1265-1,90,ḿðukùmi,ḿðukùmi,[],,['chan2019'],,False,False,,1
+marg1265-1-100-1,,marg1265-1,100,ɣàru,ɣàru,[],,['chan2019'],,False,False,,1

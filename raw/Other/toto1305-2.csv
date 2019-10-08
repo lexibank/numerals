@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-toto1305-2-1-1,,toto1305-2,1,toʼk,toʼk,[],,[],,False,False,,1
-toto1305-2-2-1,,toto1305-2,2,mæhck,mæhck,[],,[],,False,False,,1
-toto1305-2-3-1,,toto1305-2,3,toohk,toohk,[],,[],,False,False,,1
-toto1305-2-4-1,,toto1305-2,4,maktaaxk,maktaaxk,[],,[],,False,False,,1
-toto1305-2-5-1,,toto1305-2,5,muɡɔɔxk,muɡɔɔxk,[],,[],,False,False,,1
-toto1305-2-6-1,,toto1305-2,6,tohtɨk,tohtɨk,[],,[],,False,False,,1
-toto1305-2-7-1,,toto1305-2,7,wuxtohtɨk,wuxtohtɨk,[],,[],,False,False,,1
-toto1305-2-8-1,,toto1305-2,8,toodohtɨk,toodohtɨk,[],,[],,False,False,,1
-toto1305-2-9-1,,toto1305-2,9,taaxtohɨk,taaxtohɨk,[],,[],,False,False,,1
-toto1305-2-10-1,,toto1305-2,10,mahk,mahk,[],,[],,False,False,,1
-toto1305-2-11-1,,toto1305-2,11,maktoʼk,maktoʼk,[],,[],,False,False,,1
-toto1305-2-12-1,,toto1305-2,12,makmæhck,makmæhck,[],,[],,False,False,,1
-toto1305-2-13-1,,toto1305-2,13,maktoohk,maktoohk,[],,[],,False,False,,1
-toto1305-2-14-1,,toto1305-2,14,makmahkc,makmahkc,[],,[],,False,False,,1
-toto1305-2-15-1,,toto1305-2,15,makmɔkx,makmɔkx,[],,[],,False,False,,1
-toto1305-2-16-1,,toto1305-2,16,maktoht,maktoht,[],,[],,False,False,,1
-toto1305-2-17-1,,toto1305-2,17,makwuxtoht,makwuxtoht,[],,[],,False,False,,1
-toto1305-2-18-1,,toto1305-2,18,maktoodoht,maktoodoht,[],,[],,False,False,,1
-toto1305-2-19-1,,toto1305-2,19,maktaxtoht,maktaxtoht,[],,[],,False,False,,1
-toto1305-2-20-1,,toto1305-2,20,iiʼpx,iiʼpx,[],,[],,False,False,,1
-toto1305-2-21-1,,toto1305-2,21,iiʼpx toʼk,iiʼpx toʼk,[],,[],,False,False,,1
-toto1305-2-22-1,,toto1305-2,22,iiʼpx mæhck,iiʼpx mæhck,[],,[],,False,False,,1
-toto1305-2-23-1,,toto1305-2,23,iiʼpx toohk,iiʼpx toohk,[],,[],,False,False,,1
-toto1305-2-24-1,,toto1305-2,24,iiʼpx maktaaxk,iiʼpx maktaaxk,[],,[],,False,False,,1
-toto1305-2-25-1,,toto1305-2,25,iiʼpx muɡɔɔxk,iiʼpx muɡɔɔxk,[],,[],,False,False,,1
-toto1305-2-26-1,,toto1305-2,26,iiʼpx tohtɨk,iiʼpx tohtɨk,[],,[],,False,False,,1
-toto1305-2-27-1,,toto1305-2,27,iiʼpx wuxtohtɨk,iiʼpx wuxtohtɨk,[],,[],,False,False,,1
-toto1305-2-28-1,,toto1305-2,28,iiʼpx toodohtɨk,iiʼpx toodohtɨk,[],,[],,False,False,,1
-toto1305-2-29-1,,toto1305-2,29,iiʼpx taaxtohɨk,iiʼpx taaxtohɨk,[],,[],,False,False,,1
-toto1305-2-30-1,,toto1305-2,30,iiʼpx mahk,iiʼpx mahk,[],,[],,False,False,,1
-toto1305-2-40-1,,toto1305-2,40,wuxtkupx,wuxtkupx,[],( 2 x 20 ),[],,False,False,,1
-toto1305-2-50-1,,toto1305-2,50,wuxtkupt mahk,wuxtkupt mahk,[],,[],,False,False,,1
-toto1305-2-60-1,,toto1305-2,60,tooɡupx,tooɡupx,[],( 3 x 20 ),[],,False,False,,1
-toto1305-2-70-1,,toto1305-2,70,tooɡupx mahk,tooɡupx mahk,[],,[],,False,False,,1
-toto1305-2-80-1,,toto1305-2,80,mahktupx,mahktupx,[],( 4 x 20 ),[],,False,False,,1
-toto1305-2-90-1,,toto1305-2,90,mahktupx mahk,mahktupx mahk,[],,[],,False,False,,1
-toto1305-2-100-1,,toto1305-2,100,mɔkupx,mɔkupx,[],( 5 x 20 ),[],,False,False,,1
-toto1305-2-200-1,,toto1305-2,200,mæhck mɔkupx,mæhck mɔkupx,[],( 2 x  5 x 20 ),[],,False,False,,1
-toto1305-2-1000-1,,toto1305-2,1000,mil,mil,[],,[],,False,False,,1
-toto1305-2-2000-1,,toto1305-2,2000,mahck mil,mahck mil,[],,[],,False,False,,1
+toto1305-2-1-1,,toto1305-2,1,toʼk,toʼk,[],,['chan2019'],,False,False,,1
+toto1305-2-2-1,,toto1305-2,2,mæhck,mæhck,[],,['chan2019'],,False,False,,1
+toto1305-2-3-1,,toto1305-2,3,toohk,toohk,[],,['chan2019'],,False,False,,1
+toto1305-2-4-1,,toto1305-2,4,maktaaxk,maktaaxk,[],,['chan2019'],,False,False,,1
+toto1305-2-5-1,,toto1305-2,5,muɡɔɔxk,muɡɔɔxk,[],,['chan2019'],,False,False,,1
+toto1305-2-6-1,,toto1305-2,6,tohtɨk,tohtɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-7-1,,toto1305-2,7,wuxtohtɨk,wuxtohtɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-8-1,,toto1305-2,8,toodohtɨk,toodohtɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-9-1,,toto1305-2,9,taaxtohɨk,taaxtohɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-10-1,,toto1305-2,10,mahk,mahk,[],,['chan2019'],,False,False,,1
+toto1305-2-11-1,,toto1305-2,11,maktoʼk,maktoʼk,[],,['chan2019'],,False,False,,1
+toto1305-2-12-1,,toto1305-2,12,makmæhck,makmæhck,[],,['chan2019'],,False,False,,1
+toto1305-2-13-1,,toto1305-2,13,maktoohk,maktoohk,[],,['chan2019'],,False,False,,1
+toto1305-2-14-1,,toto1305-2,14,makmahkc,makmahkc,[],,['chan2019'],,False,False,,1
+toto1305-2-15-1,,toto1305-2,15,makmɔkx,makmɔkx,[],,['chan2019'],,False,False,,1
+toto1305-2-16-1,,toto1305-2,16,maktoht,maktoht,[],,['chan2019'],,False,False,,1
+toto1305-2-17-1,,toto1305-2,17,makwuxtoht,makwuxtoht,[],,['chan2019'],,False,False,,1
+toto1305-2-18-1,,toto1305-2,18,maktoodoht,maktoodoht,[],,['chan2019'],,False,False,,1
+toto1305-2-19-1,,toto1305-2,19,maktaxtoht,maktaxtoht,[],,['chan2019'],,False,False,,1
+toto1305-2-20-1,,toto1305-2,20,iiʼpx,iiʼpx,[],,['chan2019'],,False,False,,1
+toto1305-2-21-1,,toto1305-2,21,iiʼpx toʼk,iiʼpx toʼk,[],,['chan2019'],,False,False,,1
+toto1305-2-22-1,,toto1305-2,22,iiʼpx mæhck,iiʼpx mæhck,[],,['chan2019'],,False,False,,1
+toto1305-2-23-1,,toto1305-2,23,iiʼpx toohk,iiʼpx toohk,[],,['chan2019'],,False,False,,1
+toto1305-2-24-1,,toto1305-2,24,iiʼpx maktaaxk,iiʼpx maktaaxk,[],,['chan2019'],,False,False,,1
+toto1305-2-25-1,,toto1305-2,25,iiʼpx muɡɔɔxk,iiʼpx muɡɔɔxk,[],,['chan2019'],,False,False,,1
+toto1305-2-26-1,,toto1305-2,26,iiʼpx tohtɨk,iiʼpx tohtɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-27-1,,toto1305-2,27,iiʼpx wuxtohtɨk,iiʼpx wuxtohtɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-28-1,,toto1305-2,28,iiʼpx toodohtɨk,iiʼpx toodohtɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-29-1,,toto1305-2,29,iiʼpx taaxtohɨk,iiʼpx taaxtohɨk,[],,['chan2019'],,False,False,,1
+toto1305-2-30-1,,toto1305-2,30,iiʼpx mahk,iiʼpx mahk,[],,['chan2019'],,False,False,,1
+toto1305-2-40-1,,toto1305-2,40,wuxtkupx,wuxtkupx,[],( 2 x 20 ),['chan2019'],,False,False,,1
+toto1305-2-50-1,,toto1305-2,50,wuxtkupt mahk,wuxtkupt mahk,[],,['chan2019'],,False,False,,1
+toto1305-2-60-1,,toto1305-2,60,tooɡupx,tooɡupx,[],( 3 x 20 ),['chan2019'],,False,False,,1
+toto1305-2-70-1,,toto1305-2,70,tooɡupx mahk,tooɡupx mahk,[],,['chan2019'],,False,False,,1
+toto1305-2-80-1,,toto1305-2,80,mahktupx,mahktupx,[],( 4 x 20 ),['chan2019'],,False,False,,1
+toto1305-2-90-1,,toto1305-2,90,mahktupx mahk,mahktupx mahk,[],,['chan2019'],,False,False,,1
+toto1305-2-100-1,,toto1305-2,100,mɔkupx,mɔkupx,[],( 5 x 20 ),['chan2019'],,False,False,,1
+toto1305-2-200-1,,toto1305-2,200,mæhck mɔkupx,mæhck mɔkupx,[],( 2 x  5 x 20 ),['chan2019'],,False,False,,1
+toto1305-2-1000-1,,toto1305-2,1000,mil,mil,[],,['chan2019'],,False,False,,1
+toto1305-2-2000-1,,toto1305-2,2000,mahck mil,mahck mil,[],,['chan2019'],,False,False,,1

@@ -1,33 +1,33 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-fwai1237-1-1-1,,fwai1237-1,1,heec,heec,[],,[],,False,False,,1
-fwai1237-1-2-1,,fwai1237-1,2,heluk,heluk,[],,[],,False,False,,1
-fwai1237-1-3-1,,fwai1237-1,3,heyen,heyen,[],,[],,False,False,,1
-fwai1237-1-4-1,,fwai1237-1,4,fovec,fovec,[],,[],,False,False,,1
-fwai1237-1-5-1,,fwai1237-1,5,nim,nim,[],,[],,False,False,,1
-fwai1237-1-6-1,,fwai1237-1,6,ni-bweec,ni-bweec,[],,[],,False,False,,1
-fwai1237-1-6-2,,fwai1237-1,6,hemen heec,hemen heec,[],( 5 + 1 ),[],,False,False,,1
-fwai1237-1-7-1,,fwai1237-1,7,ni-bweluk,ni-bweluk,[],,[],,False,False,,1
-fwai1237-1-7-2,,fwai1237-1,7,hemen heluk,hemen heluk,[],( 5 + 2 ),[],,False,False,,1
-fwai1237-1-8-1,,fwai1237-1,8,ni-bweyen,ni-bweyen,[],,[],,False,False,,1
-fwai1237-1-8-2,,fwai1237-1,8,hemen heyen,hemen heyen,[],( 5 + 3 ),[],,False,False,,1
-fwai1237-1-9-1,,fwai1237-1,9,ni-bovec,ni-bovec,[],,[],,False,False,,1
-fwai1237-1-9-2,,fwai1237-1,9,hemen fovac,hemen fovac,[],( 5 + 4 ),[],,False,False,,1
-fwai1237-1-10-1,,fwai1237-1,10,paidu,paidu,[],( litː ''two hands''),[],,False,False,,1
-fwai1237-1-11-1,,fwai1237-1,11,paidu ɡan heec,paidu ɡan heec,[],,[],,False,False,,1
-fwai1237-1-12-1,,fwai1237-1,12,paidu ɡan heluk,paidu ɡan heluk,[],,[],,False,False,,1
-fwai1237-1-13-1,,fwai1237-1,13,paidu ɡan heyen,paidu ɡan heyen,[],,[],,False,False,,1
-fwai1237-1-14-1,,fwai1237-1,14,paidu ɡan fovec,paidu ɡan fovec,[],,[],,False,False,,1
-fwai1237-1-15-1,,fwai1237-1,15,paidu ɡan nim,paidu ɡan nim,[],,[],,False,False,,1
-fwai1237-1-16-1,,fwai1237-1,16,paidu ɡan ni-bweec,paidu ɡan ni-bweec,[],,[],,False,False,,1
-fwai1237-1-17-1,,fwai1237-1,17,paidu ɡan ni-bweluk,paidu ɡan ni-bweluk,[],,[],,False,False,,1
-fwai1237-1-18-1,,fwai1237-1,18,paidu ɡan ni-bweyen,paidu ɡan ni-bweyen,[],,[],,False,False,,1
-fwai1237-1-19-1,,fwai1237-1,19,paidu ɡan ni-bovec,paidu ɡan ni-bovec,[],,[],,False,False,,1
-fwai1237-1-20-1,,fwai1237-1,20,hee kahok,hee kahok,[],(lit: ''kahok = 'person''),[],,False,False,,1
-fwai1237-1-30-1,,fwai1237-1,30,hee kahok ɡan paidu,hee kahok ɡan paidu,[],,[],,False,False,,1
-fwai1237-1-40-1,,fwai1237-1,40,heluk kahok,heluk kahok,[],(lit: ''two persons''),[],,False,False,,1
-fwai1237-1-50-1,,fwai1237-1,50,heluk kahok ɡan paidu,heluk kahok ɡan paidu,[],,[],,False,False,,1
-fwai1237-1-60-1,,fwai1237-1,60,heyen kahok,heyen kahok,[],(lit: ''three persons''),[],,False,False,,1
-fwai1237-1-70-1,,fwai1237-1,70,heyen kahok ɡan paidu,heyen kahok ɡan paidu,[],,[],,False,False,,1
-fwai1237-1-80-1,,fwai1237-1,80,fovec kahok,fovec kahok,[],(lit: ''four persons''),[],,False,False,,1
-fwai1237-1-90-1,,fwai1237-1,90,fovec kahok ɡan paidu,fovec kahok ɡan paidu,[],,[],,False,False,,1
-fwai1237-1-100-1,,fwai1237-1,100,nim kahok,nim kahok,[],(lit: ''five persons''),[],,False,False,,1
+fwai1237-1-1-1,,fwai1237-1,1,heec,heec,[],,['chan2019'],,False,False,,1
+fwai1237-1-2-1,,fwai1237-1,2,heluk,heluk,[],,['chan2019'],,False,False,,1
+fwai1237-1-3-1,,fwai1237-1,3,heyen,heyen,[],,['chan2019'],,False,False,,1
+fwai1237-1-4-1,,fwai1237-1,4,fovec,fovec,[],,['chan2019'],,False,False,,1
+fwai1237-1-5-1,,fwai1237-1,5,nim,nim,[],,['chan2019'],,False,False,,1
+fwai1237-1-6-1,,fwai1237-1,6,ni-bweec,ni-bweec,[],,['chan2019'],,False,False,,1
+fwai1237-1-6-2,,fwai1237-1,6,hemen heec,hemen heec,[],( 5 + 1 ),['chan2019'],,False,False,,1
+fwai1237-1-7-1,,fwai1237-1,7,ni-bweluk,ni-bweluk,[],,['chan2019'],,False,False,,1
+fwai1237-1-7-2,,fwai1237-1,7,hemen heluk,hemen heluk,[],( 5 + 2 ),['chan2019'],,False,False,,1
+fwai1237-1-8-1,,fwai1237-1,8,ni-bweyen,ni-bweyen,[],,['chan2019'],,False,False,,1
+fwai1237-1-8-2,,fwai1237-1,8,hemen heyen,hemen heyen,[],( 5 + 3 ),['chan2019'],,False,False,,1
+fwai1237-1-9-1,,fwai1237-1,9,ni-bovec,ni-bovec,[],,['chan2019'],,False,False,,1
+fwai1237-1-9-2,,fwai1237-1,9,hemen fovac,hemen fovac,[],( 5 + 4 ),['chan2019'],,False,False,,1
+fwai1237-1-10-1,,fwai1237-1,10,paidu,paidu,[],( litː ''two hands''),['chan2019'],,False,False,,1
+fwai1237-1-11-1,,fwai1237-1,11,paidu ɡan heec,paidu ɡan heec,[],,['chan2019'],,False,False,,1
+fwai1237-1-12-1,,fwai1237-1,12,paidu ɡan heluk,paidu ɡan heluk,[],,['chan2019'],,False,False,,1
+fwai1237-1-13-1,,fwai1237-1,13,paidu ɡan heyen,paidu ɡan heyen,[],,['chan2019'],,False,False,,1
+fwai1237-1-14-1,,fwai1237-1,14,paidu ɡan fovec,paidu ɡan fovec,[],,['chan2019'],,False,False,,1
+fwai1237-1-15-1,,fwai1237-1,15,paidu ɡan nim,paidu ɡan nim,[],,['chan2019'],,False,False,,1
+fwai1237-1-16-1,,fwai1237-1,16,paidu ɡan ni-bweec,paidu ɡan ni-bweec,[],,['chan2019'],,False,False,,1
+fwai1237-1-17-1,,fwai1237-1,17,paidu ɡan ni-bweluk,paidu ɡan ni-bweluk,[],,['chan2019'],,False,False,,1
+fwai1237-1-18-1,,fwai1237-1,18,paidu ɡan ni-bweyen,paidu ɡan ni-bweyen,[],,['chan2019'],,False,False,,1
+fwai1237-1-19-1,,fwai1237-1,19,paidu ɡan ni-bovec,paidu ɡan ni-bovec,[],,['chan2019'],,False,False,,1
+fwai1237-1-20-1,,fwai1237-1,20,hee kahok,hee kahok,[],(lit: ''kahok = 'person''),['chan2019'],,False,False,,1
+fwai1237-1-30-1,,fwai1237-1,30,hee kahok ɡan paidu,hee kahok ɡan paidu,[],,['chan2019'],,False,False,,1
+fwai1237-1-40-1,,fwai1237-1,40,heluk kahok,heluk kahok,[],(lit: ''two persons''),['chan2019'],,False,False,,1
+fwai1237-1-50-1,,fwai1237-1,50,heluk kahok ɡan paidu,heluk kahok ɡan paidu,[],,['chan2019'],,False,False,,1
+fwai1237-1-60-1,,fwai1237-1,60,heyen kahok,heyen kahok,[],(lit: ''three persons''),['chan2019'],,False,False,,1
+fwai1237-1-70-1,,fwai1237-1,70,heyen kahok ɡan paidu,heyen kahok ɡan paidu,[],,['chan2019'],,False,False,,1
+fwai1237-1-80-1,,fwai1237-1,80,fovec kahok,fovec kahok,[],(lit: ''four persons''),['chan2019'],,False,False,,1
+fwai1237-1-90-1,,fwai1237-1,90,fovec kahok ɡan paidu,fovec kahok ɡan paidu,[],,['chan2019'],,False,False,,1
+fwai1237-1-100-1,,fwai1237-1,100,nim kahok,nim kahok,[],(lit: ''five persons''),['chan2019'],,False,False,,1

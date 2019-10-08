@@ -1,77 +1,77 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gwan1268-1-1-1,,gwan1268-1,1,da,da,[],,[],,False,False,,1
-gwan1268-1-2-1,,gwan1268-1,2,bi,bi,[],,[],,False,False,,1
-gwan1268-1-3-1,,gwan1268-1,3,úkù,úkù,[],,[],,False,False,,1
-gwan1268-1-3-2,,gwan1268-1,3,úɡú,úɡú,[],( Nimbia dialect),[],,False,False,,1
-gwan1268-1-4-1,,gwan1268-1,4,huru,huru,[],,[],,False,False,,1
-gwan1268-1-4-2,,gwan1268-1,4,furu,furu,[],( Nimbia dialect),[],,False,False,,1
-gwan1268-1-5-1,,gwan1268-1,5,bìyàri,bìyàri,[],,[],,False,False,,1
-gwan1268-1-5-2,,gwan1268-1,5,bìyàr,bìyàr,[],( Nimbia dialect),[],,False,False,,1
-gwan1268-1-6-1,,gwan1268-1,6,ʃídà,ʃídà,[],,[],,False,False,,1
-gwan1268-1-6-2,,gwan1268-1,6,ʃídə́,ʃídə́,[],( Nimbia dialect),[],,False,False,,1
-gwan1268-1-7-1,,gwan1268-1,7,bákwè,bákwè,[],,[],,False,False,,1
-gwan1268-1-7-2,,gwan1268-1,7,boʔo,boʔo,[],( Nimbia dialect),[],,False,False,,1
-gwan1268-1-8-1,,gwan1268-1,8,tákùʃì,tákùʃì,[],,[],,False,False,,1
-gwan1268-1-8-2,,gwan1268-1,8,táɡə́r,táɡə́r,[],( Nimbia dialect),[],,False,False,,1
-gwan1268-1-9-1,,gwan1268-1,9,tárà,tárà,[],,[],,False,False,,1
-gwan1268-1-9-2,,gwan1268-1,9,tãrã,tãrã,[],( Nimbia dialect),[],,False,False,,1
-gwan1268-1-10-1,,gwan1268-1,10,ɡóm̀,ɡóm̀,[],,[],,False,False,,1
-gwan1268-1-10-2,,gwan1268-1,10,ɡóŋ̀,ɡóŋ̀,[],,[],,False,False,,1
-gwan1268-1-10-3,,gwan1268-1,10,ɡwóm,ɡwóm,[],( Nim. dialect),[],,False,False,,1
-gwan1268-1-11-1,,gwan1268-1,11,ɡóm̀,ɡóm̀,[],,[],,False,False,,1
-gwan1268-1-11-2,,gwan1268-1,11,ɡóŋ̀ ʃáʔ da,ɡóŋ̀ ʃáʔ da,[],,[],,False,False,,1
-gwan1268-1-11-3,,gwan1268-1,11,kwáda,kwáda,[],,[],,False,False,,1
-gwan1268-1-12-1,,gwan1268-1,12,ɡóm̀,ɡóm̀,[],,[],,False,False,,1
-gwan1268-1-12-2,,gwan1268-1,12,ɡóŋ̀ ʃáʔ bi,ɡóŋ̀ ʃáʔ bi,[],,[],,False,False,,1
-gwan1268-1-12-3,,gwan1268-1,12,tùni,tùni,[],,[],,False,False,,1
-gwan1268-1-13-1,,gwan1268-1,13,ɡóm̀,ɡóm̀,[],,[],,False,False,,1
-gwan1268-1-13-2,,gwan1268-1,13,ɡóŋ̀ ʃáʔ úkù,ɡóŋ̀ ʃáʔ úkù,[],,[],,False,False,,1
-gwan1268-1-13-3,,gwan1268-1,13,tùni m̀bé da,tùni m̀bé da,[],,[],,False,False,,1
-gwan1268-1-14-1,,gwan1268-1,14,ɡóm̀,ɡóm̀,[],,[],,False,False,,1
-gwan1268-1-14-2,,gwan1268-1,14,ɡóŋ̀ ʃáʔ huru,ɡóŋ̀ ʃáʔ huru,[],,[],,False,False,,1
-gwan1268-1-14-3,,gwan1268-1,14,tùni m̀bé bi,tùni m̀bé bi,[],,[],,False,False,,1
-gwan1268-1-15-1,,gwan1268-1,15,ɡóm̀ ʃáʔ bìyàri,ɡóm̀ ʃáʔ bìyàri,[],,[],,False,False,,1
-gwan1268-1-15-2,,gwan1268-1,15,tùni m̀bé úɡú,tùni m̀bé úɡú,[],,[],,False,False,,1
-gwan1268-1-16-1,,gwan1268-1,16,ɡóm̀ ʃáʔ ʃídà,ɡóm̀ ʃáʔ ʃídà,[],,[],,False,False,,1
-gwan1268-1-16-2,,gwan1268-1,16,tùni m̀bé furu,tùni m̀bé furu,[],,[],,False,False,,1
-gwan1268-1-17-1,,gwan1268-1,17,ɡóm̀ ʃáʔ bákwè,ɡóm̀ ʃáʔ bákwè,[],,[],,False,False,,1
-gwan1268-1-17-2,,gwan1268-1,17,tùni m̀bé bìyàr,tùni m̀bé bìyàr,[],,[],,False,False,,1
-gwan1268-1-18-1,,gwan1268-1,18,ɡóm̀ ʃáʔ tákùʃì,ɡóm̀ ʃáʔ tákùʃì,[],,[],,False,False,,1
-gwan1268-1-18-2,,gwan1268-1,18,tùni m̀bé ʃídə́,tùni m̀bé ʃídə́,[],,[],,False,False,,1
-gwan1268-1-19-1,,gwan1268-1,19,ɡóm̀ ʃáʔ tárà,ɡóm̀ ʃáʔ tárà,[],,[],,False,False,,1
-gwan1268-1-19-2,,gwan1268-1,19,tùni m̀bé boʔo,tùni m̀bé boʔo,[],,[],,False,False,,1
-gwan1268-1-20-1,,gwan1268-1,20,àʃȉrín,àʃȉrín,[],,[],,False,False,,1
-gwan1268-1-20-2,,gwan1268-1,20,tùni m̀bé táɡə́r,tùni m̀bé táɡə́r,[],( 12 + 8 ),[],,False,False,,1
-gwan1268-1-21-1,,gwan1268-1,21,àʃȉríní ǹ da,àʃȉríní ǹ da,[],,[],,False,False,,1
-gwan1268-1-21-2,,gwan1268-1,21,tùni m̀bé táɡə́r,tùni m̀bé táɡə́r,[],( 12 + 8 ),[],,False,False,,1
-gwan1268-1-22-1,,gwan1268-1,22,àʃȉríní ǹ bi,àʃȉríní ǹ bi,[],,[],,False,False,,1
-gwan1268-1-22-2,,gwan1268-1,22,tùni m̀bé tãrã,tùni m̀bé tãrã,[],,[],,False,False,,1
-gwan1268-1-23-1,,gwan1268-1,23,àʃȉríní ǹ úkù,àʃȉríní ǹ úkù,[],,[],,False,False,,1
-gwan1268-1-23-2,,gwan1268-1,23,tùni m̀bé ɡwóm,tùni m̀bé ɡwóm,[],,[],,False,False,,1
-gwan1268-1-24-1,,gwan1268-1,24,àʃȉríní ǹ huru,àʃȉríní ǹ huru,[],,[],,False,False,,1
-gwan1268-1-24-2,,gwan1268-1,24,ɡùme bi,ɡùme bi,[],( 12 x 2 ),[],,False,False,,1
-gwan1268-1-25-1,,gwan1268-1,25,àʃȉríní ǹ bìyàri,àʃȉríní ǹ bìyàri,[],,[],,False,False,,1
-gwan1268-1-26-1,,gwan1268-1,26,àʃȉríní ǹ ʃídà,àʃȉríní ǹ ʃídà,[],,[],,False,False,,1
-gwan1268-1-27-1,,gwan1268-1,27,àʃȉríní ǹ bákwè,àʃȉríní ǹ bákwè,[],,[],,False,False,,1
-gwan1268-1-28-1,,gwan1268-1,28,àʃȉríní ǹ tákùʃì,àʃȉríní ǹ tákùʃì,[],,[],,False,False,,1
-gwan1268-1-29-1,,gwan1268-1,29,àʃȉríní ǹ tárà,àʃȉríní ǹ tárà,[],,[],,False,False,,1
-gwan1268-1-30-1,,gwan1268-1,30,tàlàtíní,tàlàtíní,[],,[],,False,False,,1
-gwan1268-1-30-2,,gwan1268-1,30,ɡùme bi nì ʃìdə́,ɡùme bi nì ʃìdə́,[],( 12 x 2+6 ),[],,False,False,,1
-gwan1268-1-40-1,,gwan1268-1,40,àrìbə̀yĩ́,àrìbə̀yĩ́,[],,[],,False,False,,1
-gwan1268-1-40-2,,gwan1268-1,40,ɡùme úɡú nì furu,ɡùme úɡú nì furu,[],( 12 x 3+4 ),[],,False,False,,1
-gwan1268-1-50-1,,gwan1268-1,50,àmìsíní,àmìsíní,[],,[],,False,False,,1
-gwan1268-1-50-2,,gwan1268-1,50,ɡùme furu nì bi,ɡùme furu nì bi,[],( 12 x 4+2 ),[],,False,False,,1
-gwan1268-1-60-1,,gwan1268-1,60,sìtíní,sìtíní,[],,[],,False,False,,1
-gwan1268-1-60-2,,gwan1268-1,60,ɡùme bìyàr,ɡùme bìyàr,[],( 12 x 5 ),[],,False,False,,1
-gwan1268-1-70-1,,gwan1268-1,70,sə̀bə̀yí,sə̀bə̀yí,[],,[],,False,False,,1
-gwan1268-1-70-2,,gwan1268-1,70,ɡ. bìyàr nì ɡwóm,ɡ. bìyàr nì ɡwóm,[],( 12 x 5+10 ),[],,False,True,,1
-gwan1268-1-80-1,,gwan1268-1,80,tàmànĩ́,tàmànĩ́,[],,[],,False,False,,1
-gwan1268-1-80-2,,gwan1268-1,80,ɡ. ʃìdə́ nì táɡə́r,ɡ. ʃìdə́ nì táɡə́r,[],( 12 x 6+8 ),[],,False,True,,1
-gwan1268-1-90-1,,gwan1268-1,90,tə̀sə̀yí,tə̀sə̀yí,[],,[],,False,False,,1
-gwan1268-1-90-2,,gwan1268-1,90,ɡùme boʔo nì ʃídə́,ɡùme boʔo nì ʃídə́,[],( 12 x 7+6 ),[],,False,False,,1
-gwan1268-1-100-1,,gwan1268-1,100,də̀ri,də̀ri,[],,[],,False,False,,1
-gwan1268-1-100-2,,gwan1268-1,100,ɡùme táɡə́r nì furu,ɡùme táɡə́r nì furu,[],,[],,False,False,,1
-gwan1268-1-100-3,,gwan1268-1,100,wo da,wo da,[],,[],,False,False,,1
-gwan1268-1-200-1,,gwan1268-1,200,də̀ri bi,də̀ri bi,[],,[],,False,False,,1
-gwan1268-1-200-2,,gwan1268-1,200,wo nì ɡùme furu nì táɡə́r,wo nì ɡùme furu nì táɡə́r,[],,[],,False,False,,1
-gwan1268-1-1000-1,,gwan1268-1,1000,dubu,dubu,[],,[],,False,False,,1
+gwan1268-1-1-1,,gwan1268-1,1,da,da,[],,['chan2019'],,False,False,,1
+gwan1268-1-2-1,,gwan1268-1,2,bi,bi,[],,['chan2019'],,False,False,,1
+gwan1268-1-3-1,,gwan1268-1,3,úkù,úkù,[],,['chan2019'],,False,False,,1
+gwan1268-1-3-2,,gwan1268-1,3,úɡú,úɡú,[],( Nimbia dialect),['chan2019'],,False,False,,1
+gwan1268-1-4-1,,gwan1268-1,4,huru,huru,[],,['chan2019'],,False,False,,1
+gwan1268-1-4-2,,gwan1268-1,4,furu,furu,[],( Nimbia dialect),['chan2019'],,False,False,,1
+gwan1268-1-5-1,,gwan1268-1,5,bìyàri,bìyàri,[],,['chan2019'],,False,False,,1
+gwan1268-1-5-2,,gwan1268-1,5,bìyàr,bìyàr,[],( Nimbia dialect),['chan2019'],,False,False,,1
+gwan1268-1-6-1,,gwan1268-1,6,ʃídà,ʃídà,[],,['chan2019'],,False,False,,1
+gwan1268-1-6-2,,gwan1268-1,6,ʃídə́,ʃídə́,[],( Nimbia dialect),['chan2019'],,False,False,,1
+gwan1268-1-7-1,,gwan1268-1,7,bákwè,bákwè,[],,['chan2019'],,False,False,,1
+gwan1268-1-7-2,,gwan1268-1,7,boʔo,boʔo,[],( Nimbia dialect),['chan2019'],,False,False,,1
+gwan1268-1-8-1,,gwan1268-1,8,tákùʃì,tákùʃì,[],,['chan2019'],,False,False,,1
+gwan1268-1-8-2,,gwan1268-1,8,táɡə́r,táɡə́r,[],( Nimbia dialect),['chan2019'],,False,False,,1
+gwan1268-1-9-1,,gwan1268-1,9,tárà,tárà,[],,['chan2019'],,False,False,,1
+gwan1268-1-9-2,,gwan1268-1,9,tãrã,tãrã,[],( Nimbia dialect),['chan2019'],,False,False,,1
+gwan1268-1-10-1,,gwan1268-1,10,ɡóm̀,ɡóm̀,[],,['chan2019'],,False,False,,1
+gwan1268-1-10-2,,gwan1268-1,10,ɡóŋ̀,ɡóŋ̀,[],,['chan2019'],,False,False,,1
+gwan1268-1-10-3,,gwan1268-1,10,ɡwóm,ɡwóm,[],( Nim. dialect),['chan2019'],,False,False,,1
+gwan1268-1-11-1,,gwan1268-1,11,ɡóm̀,ɡóm̀,[],,['chan2019'],,False,False,,1
+gwan1268-1-11-2,,gwan1268-1,11,ɡóŋ̀ ʃáʔ da,ɡóŋ̀ ʃáʔ da,[],,['chan2019'],,False,False,,1
+gwan1268-1-11-3,,gwan1268-1,11,kwáda,kwáda,[],,['chan2019'],,False,False,,1
+gwan1268-1-12-1,,gwan1268-1,12,ɡóm̀,ɡóm̀,[],,['chan2019'],,False,False,,1
+gwan1268-1-12-2,,gwan1268-1,12,ɡóŋ̀ ʃáʔ bi,ɡóŋ̀ ʃáʔ bi,[],,['chan2019'],,False,False,,1
+gwan1268-1-12-3,,gwan1268-1,12,tùni,tùni,[],,['chan2019'],,False,False,,1
+gwan1268-1-13-1,,gwan1268-1,13,ɡóm̀,ɡóm̀,[],,['chan2019'],,False,False,,1
+gwan1268-1-13-2,,gwan1268-1,13,ɡóŋ̀ ʃáʔ úkù,ɡóŋ̀ ʃáʔ úkù,[],,['chan2019'],,False,False,,1
+gwan1268-1-13-3,,gwan1268-1,13,tùni m̀bé da,tùni m̀bé da,[],,['chan2019'],,False,False,,1
+gwan1268-1-14-1,,gwan1268-1,14,ɡóm̀,ɡóm̀,[],,['chan2019'],,False,False,,1
+gwan1268-1-14-2,,gwan1268-1,14,ɡóŋ̀ ʃáʔ huru,ɡóŋ̀ ʃáʔ huru,[],,['chan2019'],,False,False,,1
+gwan1268-1-14-3,,gwan1268-1,14,tùni m̀bé bi,tùni m̀bé bi,[],,['chan2019'],,False,False,,1
+gwan1268-1-15-1,,gwan1268-1,15,ɡóm̀ ʃáʔ bìyàri,ɡóm̀ ʃáʔ bìyàri,[],,['chan2019'],,False,False,,1
+gwan1268-1-15-2,,gwan1268-1,15,tùni m̀bé úɡú,tùni m̀bé úɡú,[],,['chan2019'],,False,False,,1
+gwan1268-1-16-1,,gwan1268-1,16,ɡóm̀ ʃáʔ ʃídà,ɡóm̀ ʃáʔ ʃídà,[],,['chan2019'],,False,False,,1
+gwan1268-1-16-2,,gwan1268-1,16,tùni m̀bé furu,tùni m̀bé furu,[],,['chan2019'],,False,False,,1
+gwan1268-1-17-1,,gwan1268-1,17,ɡóm̀ ʃáʔ bákwè,ɡóm̀ ʃáʔ bákwè,[],,['chan2019'],,False,False,,1
+gwan1268-1-17-2,,gwan1268-1,17,tùni m̀bé bìyàr,tùni m̀bé bìyàr,[],,['chan2019'],,False,False,,1
+gwan1268-1-18-1,,gwan1268-1,18,ɡóm̀ ʃáʔ tákùʃì,ɡóm̀ ʃáʔ tákùʃì,[],,['chan2019'],,False,False,,1
+gwan1268-1-18-2,,gwan1268-1,18,tùni m̀bé ʃídə́,tùni m̀bé ʃídə́,[],,['chan2019'],,False,False,,1
+gwan1268-1-19-1,,gwan1268-1,19,ɡóm̀ ʃáʔ tárà,ɡóm̀ ʃáʔ tárà,[],,['chan2019'],,False,False,,1
+gwan1268-1-19-2,,gwan1268-1,19,tùni m̀bé boʔo,tùni m̀bé boʔo,[],,['chan2019'],,False,False,,1
+gwan1268-1-20-1,,gwan1268-1,20,àʃȉrín,àʃȉrín,[],,['chan2019'],,False,False,,1
+gwan1268-1-20-2,,gwan1268-1,20,tùni m̀bé táɡə́r,tùni m̀bé táɡə́r,[],( 12 + 8 ),['chan2019'],,False,False,,1
+gwan1268-1-21-1,,gwan1268-1,21,àʃȉríní ǹ da,àʃȉríní ǹ da,[],,['chan2019'],,False,False,,1
+gwan1268-1-21-2,,gwan1268-1,21,tùni m̀bé táɡə́r,tùni m̀bé táɡə́r,[],( 12 + 8 ),['chan2019'],,False,False,,1
+gwan1268-1-22-1,,gwan1268-1,22,àʃȉríní ǹ bi,àʃȉríní ǹ bi,[],,['chan2019'],,False,False,,1
+gwan1268-1-22-2,,gwan1268-1,22,tùni m̀bé tãrã,tùni m̀bé tãrã,[],,['chan2019'],,False,False,,1
+gwan1268-1-23-1,,gwan1268-1,23,àʃȉríní ǹ úkù,àʃȉríní ǹ úkù,[],,['chan2019'],,False,False,,1
+gwan1268-1-23-2,,gwan1268-1,23,tùni m̀bé ɡwóm,tùni m̀bé ɡwóm,[],,['chan2019'],,False,False,,1
+gwan1268-1-24-1,,gwan1268-1,24,àʃȉríní ǹ huru,àʃȉríní ǹ huru,[],,['chan2019'],,False,False,,1
+gwan1268-1-24-2,,gwan1268-1,24,ɡùme bi,ɡùme bi,[],( 12 x 2 ),['chan2019'],,False,False,,1
+gwan1268-1-25-1,,gwan1268-1,25,àʃȉríní ǹ bìyàri,àʃȉríní ǹ bìyàri,[],,['chan2019'],,False,False,,1
+gwan1268-1-26-1,,gwan1268-1,26,àʃȉríní ǹ ʃídà,àʃȉríní ǹ ʃídà,[],,['chan2019'],,False,False,,1
+gwan1268-1-27-1,,gwan1268-1,27,àʃȉríní ǹ bákwè,àʃȉríní ǹ bákwè,[],,['chan2019'],,False,False,,1
+gwan1268-1-28-1,,gwan1268-1,28,àʃȉríní ǹ tákùʃì,àʃȉríní ǹ tákùʃì,[],,['chan2019'],,False,False,,1
+gwan1268-1-29-1,,gwan1268-1,29,àʃȉríní ǹ tárà,àʃȉríní ǹ tárà,[],,['chan2019'],,False,False,,1
+gwan1268-1-30-1,,gwan1268-1,30,tàlàtíní,tàlàtíní,[],,['chan2019'],,False,False,,1
+gwan1268-1-30-2,,gwan1268-1,30,ɡùme bi nì ʃìdə́,ɡùme bi nì ʃìdə́,[],( 12 x 2+6 ),['chan2019'],,False,False,,1
+gwan1268-1-40-1,,gwan1268-1,40,àrìbə̀yĩ́,àrìbə̀yĩ́,[],,['chan2019'],,False,False,,1
+gwan1268-1-40-2,,gwan1268-1,40,ɡùme úɡú nì furu,ɡùme úɡú nì furu,[],( 12 x 3+4 ),['chan2019'],,False,False,,1
+gwan1268-1-50-1,,gwan1268-1,50,àmìsíní,àmìsíní,[],,['chan2019'],,False,False,,1
+gwan1268-1-50-2,,gwan1268-1,50,ɡùme furu nì bi,ɡùme furu nì bi,[],( 12 x 4+2 ),['chan2019'],,False,False,,1
+gwan1268-1-60-1,,gwan1268-1,60,sìtíní,sìtíní,[],,['chan2019'],,False,False,,1
+gwan1268-1-60-2,,gwan1268-1,60,ɡùme bìyàr,ɡùme bìyàr,[],( 12 x 5 ),['chan2019'],,False,False,,1
+gwan1268-1-70-1,,gwan1268-1,70,sə̀bə̀yí,sə̀bə̀yí,[],,['chan2019'],,False,False,,1
+gwan1268-1-70-2,,gwan1268-1,70,ɡ. bìyàr nì ɡwóm,ɡ. bìyàr nì ɡwóm,[],( 12 x 5+10 ),['chan2019'],,False,True,,1
+gwan1268-1-80-1,,gwan1268-1,80,tàmànĩ́,tàmànĩ́,[],,['chan2019'],,False,False,,1
+gwan1268-1-80-2,,gwan1268-1,80,ɡ. ʃìdə́ nì táɡə́r,ɡ. ʃìdə́ nì táɡə́r,[],( 12 x 6+8 ),['chan2019'],,False,True,,1
+gwan1268-1-90-1,,gwan1268-1,90,tə̀sə̀yí,tə̀sə̀yí,[],,['chan2019'],,False,False,,1
+gwan1268-1-90-2,,gwan1268-1,90,ɡùme boʔo nì ʃídə́,ɡùme boʔo nì ʃídə́,[],( 12 x 7+6 ),['chan2019'],,False,False,,1
+gwan1268-1-100-1,,gwan1268-1,100,də̀ri,də̀ri,[],,['chan2019'],,False,False,,1
+gwan1268-1-100-2,,gwan1268-1,100,ɡùme táɡə́r nì furu,ɡùme táɡə́r nì furu,[],,['chan2019'],,False,False,,1
+gwan1268-1-100-3,,gwan1268-1,100,wo da,wo da,[],,['chan2019'],,False,False,,1
+gwan1268-1-200-1,,gwan1268-1,200,də̀ri bi,də̀ri bi,[],,['chan2019'],,False,False,,1
+gwan1268-1-200-2,,gwan1268-1,200,wo nì ɡùme furu nì táɡə́r,wo nì ɡùme furu nì táɡə́r,[],,['chan2019'],,False,False,,1
+gwan1268-1-1000-1,,gwan1268-1,1000,dubu,dubu,[],,['chan2019'],,False,False,,1

@@ -1,32 +1,32 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-naun1237-1-1-1,,naun1237-1,1,sɨw,sɨw,[],,[],,False,False,,1
-naun1237-1-2-1,,naun1237-1,2,ruh,ruh,[],,[],,False,False,,1
-naun1237-1-3-1,,naun1237-1,3,tuluh,tuluh,[],,[],,False,False,,1
-naun1237-1-4-1,,naun1237-1,4,talɨt,talɨt,[],,[],,False,False,,1
-naun1237-1-5-1,,naun1237-1,5,tutɨn,tutɨn,[],,[],,False,False,,1
-naun1237-1-6-1,,naun1237-1,6,tutɨn a sɨw,tutɨn a sɨw,[],( 5 + 1 ),[],,False,False,,1
-naun1237-1-7-1,,naun1237-1,7,tutɨn a ruh,tutɨn a ruh,[],( 5 + 2 ),[],,False,False,,1
-naun1237-1-8-1,,naun1237-1,8,tutɨn a tuluh,tutɨn a tuluh,[],( 5 + 3 ),[],,False,False,,1
-naun1237-1-9-1,,naun1237-1,9,tutɨn a talɨt,tutɨn a talɨt,[],( 5 + 4 ),[],,False,False,,1
-naun1237-1-10-1,,naun1237-1,10,saŋahul,saŋahul,[],,[],,False,False,,1
-naun1237-1-11-1,,naun1237-1,11,saŋahul a sɨw,saŋahul a sɨw,[],,[],,False,False,,1
-naun1237-1-12-1,,naun1237-1,12,saŋahul a ruh,saŋahul a ruh,[],,[],,False,False,,1
-naun1237-1-13-1,,naun1237-1,13,saŋahul a tuluh,saŋahul a tuluh,[],,[],,False,False,,1
-naun1237-1-14-1,,naun1237-1,14,saŋahul a talɨt,saŋahul a talɨt,[],,[],,False,False,,1
-naun1237-1-15-1,,naun1237-1,15,saŋahul a tutɨn,saŋahul a tutɨn,[],,[],,False,False,,1
-naun1237-1-16-1,,naun1237-1,16,saŋahul a tutɨn a sɨw,saŋahul a tutɨn a sɨw,[],,[],,False,False,,1
-naun1237-1-17-1,,naun1237-1,17,saŋahul a tutɨn a ruh,saŋahul a tutɨn a ruh,[],,[],,False,False,,1
-naun1237-1-18-1,,naun1237-1,18,saŋahul a tutɨn a tuluh,saŋahul a tutɨn a tuluh,[],,[],,False,False,,1
-naun1237-1-19-1,,naun1237-1,19,saŋahul a tutɨn a talɨt,saŋahul a tutɨn a talɨt,[],,[],,False,False,,1
-naun1237-1-20-1,,naun1237-1,20,ruŋohul,ruŋohul,[],,[],,False,False,,1
-naun1237-1-21-1,,naun1237-1,21,ruŋohul a sɨw,ruŋohul a sɨw,[],,[],,False,False,,1
-naun1237-1-22-1,,naun1237-1,22,ruŋohul a ruh,ruŋohul a ruh,[],,[],,False,False,,1
-naun1237-1-23-1,,naun1237-1,23,ruŋohul a tuluh,ruŋohul a tuluh,[],,[],,False,False,,1
-naun1237-1-24-1,,naun1237-1,24,ruŋohul a talɨt,ruŋohul a talɨt,[],,[],,False,False,,1
-naun1237-1-25-1,,naun1237-1,25,ruŋohul a tutɨn,ruŋohul a tutɨn,[],,[],,False,False,,1
-naun1237-1-26-1,,naun1237-1,26,ruŋohul a tutɨn a sɨw,ruŋohul a tutɨn a sɨw,[],,[],,False,False,,1
-naun1237-1-27-1,,naun1237-1,27,ruŋohul a tutɨn a ruh,ruŋohul a tutɨn a ruh,[],,[],,False,False,,1
-naun1237-1-28-1,,naun1237-1,28,ruŋohul a tutɨn a tuluh,ruŋohul a tutɨn a tuluh,[],,[],,False,False,,1
-naun1237-1-29-1,,naun1237-1,29,ruŋohul a tutɨn a talɨt,ruŋohul a tutɨn a talɨt,[],,[],,False,False,,1
-naun1237-1-100-1,,naun1237-1,100,saŋɨt,saŋɨt,[],,[],,False,False,,1
-naun1237-1-1000-1,,naun1237-1,1000,mocon saŋɨt,mocon saŋɨt,[],,[],,False,False,,1
+naun1237-1-1-1,,naun1237-1,1,sɨw,sɨw,[],,['chan2019'],,False,False,,1
+naun1237-1-2-1,,naun1237-1,2,ruh,ruh,[],,['chan2019'],,False,False,,1
+naun1237-1-3-1,,naun1237-1,3,tuluh,tuluh,[],,['chan2019'],,False,False,,1
+naun1237-1-4-1,,naun1237-1,4,talɨt,talɨt,[],,['chan2019'],,False,False,,1
+naun1237-1-5-1,,naun1237-1,5,tutɨn,tutɨn,[],,['chan2019'],,False,False,,1
+naun1237-1-6-1,,naun1237-1,6,tutɨn a sɨw,tutɨn a sɨw,[],( 5 + 1 ),['chan2019'],,False,False,,1
+naun1237-1-7-1,,naun1237-1,7,tutɨn a ruh,tutɨn a ruh,[],( 5 + 2 ),['chan2019'],,False,False,,1
+naun1237-1-8-1,,naun1237-1,8,tutɨn a tuluh,tutɨn a tuluh,[],( 5 + 3 ),['chan2019'],,False,False,,1
+naun1237-1-9-1,,naun1237-1,9,tutɨn a talɨt,tutɨn a talɨt,[],( 5 + 4 ),['chan2019'],,False,False,,1
+naun1237-1-10-1,,naun1237-1,10,saŋahul,saŋahul,[],,['chan2019'],,False,False,,1
+naun1237-1-11-1,,naun1237-1,11,saŋahul a sɨw,saŋahul a sɨw,[],,['chan2019'],,False,False,,1
+naun1237-1-12-1,,naun1237-1,12,saŋahul a ruh,saŋahul a ruh,[],,['chan2019'],,False,False,,1
+naun1237-1-13-1,,naun1237-1,13,saŋahul a tuluh,saŋahul a tuluh,[],,['chan2019'],,False,False,,1
+naun1237-1-14-1,,naun1237-1,14,saŋahul a talɨt,saŋahul a talɨt,[],,['chan2019'],,False,False,,1
+naun1237-1-15-1,,naun1237-1,15,saŋahul a tutɨn,saŋahul a tutɨn,[],,['chan2019'],,False,False,,1
+naun1237-1-16-1,,naun1237-1,16,saŋahul a tutɨn a sɨw,saŋahul a tutɨn a sɨw,[],,['chan2019'],,False,False,,1
+naun1237-1-17-1,,naun1237-1,17,saŋahul a tutɨn a ruh,saŋahul a tutɨn a ruh,[],,['chan2019'],,False,False,,1
+naun1237-1-18-1,,naun1237-1,18,saŋahul a tutɨn a tuluh,saŋahul a tutɨn a tuluh,[],,['chan2019'],,False,False,,1
+naun1237-1-19-1,,naun1237-1,19,saŋahul a tutɨn a talɨt,saŋahul a tutɨn a talɨt,[],,['chan2019'],,False,False,,1
+naun1237-1-20-1,,naun1237-1,20,ruŋohul,ruŋohul,[],,['chan2019'],,False,False,,1
+naun1237-1-21-1,,naun1237-1,21,ruŋohul a sɨw,ruŋohul a sɨw,[],,['chan2019'],,False,False,,1
+naun1237-1-22-1,,naun1237-1,22,ruŋohul a ruh,ruŋohul a ruh,[],,['chan2019'],,False,False,,1
+naun1237-1-23-1,,naun1237-1,23,ruŋohul a tuluh,ruŋohul a tuluh,[],,['chan2019'],,False,False,,1
+naun1237-1-24-1,,naun1237-1,24,ruŋohul a talɨt,ruŋohul a talɨt,[],,['chan2019'],,False,False,,1
+naun1237-1-25-1,,naun1237-1,25,ruŋohul a tutɨn,ruŋohul a tutɨn,[],,['chan2019'],,False,False,,1
+naun1237-1-26-1,,naun1237-1,26,ruŋohul a tutɨn a sɨw,ruŋohul a tutɨn a sɨw,[],,['chan2019'],,False,False,,1
+naun1237-1-27-1,,naun1237-1,27,ruŋohul a tutɨn a ruh,ruŋohul a tutɨn a ruh,[],,['chan2019'],,False,False,,1
+naun1237-1-28-1,,naun1237-1,28,ruŋohul a tutɨn a tuluh,ruŋohul a tutɨn a tuluh,[],,['chan2019'],,False,False,,1
+naun1237-1-29-1,,naun1237-1,29,ruŋohul a tutɨn a talɨt,ruŋohul a tutɨn a talɨt,[],,['chan2019'],,False,False,,1
+naun1237-1-100-1,,naun1237-1,100,saŋɨt,saŋɨt,[],,['chan2019'],,False,False,,1
+naun1237-1-1000-1,,naun1237-1,1000,mocon saŋɨt,mocon saŋɨt,[],,['chan2019'],,False,False,,1

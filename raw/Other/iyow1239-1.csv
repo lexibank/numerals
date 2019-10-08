@@ -1,16 +1,16 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-iyow1239-1-1-1,,iyow1239-1,1,i'hwjɛnhliʔ,i'hwjɛnhliʔ,[],,[],,False,False,,1
-iyow1239-1-2-1,,iyow1239-1,2,ti'mes,ti'mes,[],,[],,False,False,,1
-iyow1239-1-3-1,,iyow1239-1,3,ʔna'hapɛ,ʔna'hapɛ,[],,[],,False,False,,1
-iyow1239-1-4-1,,iyow1239-1,4,ih'nyuhlits’iʔ,ih'nyuhlits’iʔ,[],,[],,False,False,,1
-iyow1239-1-5-1,,iyow1239-1,5,i'hwjɛnhli si'kjᴐʔ i'tihʔwɛʔ,i'hwjɛnhli si'kjᴐʔ i'tihʔwɛʔ,[],(lit: ‘one our hand is exhausted’),[],,False,False,,1
-iyow1239-1-6-1,,iyow1239-1,6,and one is placed over there’),and one is placed over there’),[],,[],,False,True,i'hwjɛnhli tom ʔni'hi (lit: ‘one our hand is exhausted,1
-iyow1239-1-7-1,,iyow1239-1,7,and two are placed over there’),and two are placed over there’),[],,[],,False,True,i'hwjɛnhli siˈkjᴐʔ i'tihʔweʔti'mes tom ʔni'hi   (lit: ‘one our hand is exhausted,1
-iyow1239-1-8-1,,iyow1239-1,8,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔ ʔna'hapɛ tom ʔni'hi,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔ ʔna'hapɛ tom ʔni'hi,[],,[],,False,False,,1
-iyow1239-1-9-1,,iyow1239-1,9,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔih'nyuhlits’iʔ tom ʔni'hi,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔih'nyuhlits’iʔ tom ʔni'hi,[],,[],,False,False,,1
-iyow1239-1-10-1,,iyow1239-1,10,i'tihwam niwa si'kjᴐjɛʔ,i'tihwam niwa si'kjᴐjɛʔ,[],(lit: ‘exhausted our hands’),[],,False,False,,1
-iyow1239-1-11-1,,iyow1239-1,11,and one is placed over there’),and one is placed over there’),[],,[],,False,True,i'tihwam (niwa) si'kjᴐjɛʔi'hwjɛnhli tom ʔni'hi (lit: ‘exhausted our hands,1
-iyow1239-1-12-1,,iyow1239-1,12,i'tihwam (niwa) si'kjᴐjɛʔti'mes tom ʔni'hi,i'tihwam (niwa) si'kjᴐjɛʔti'mes tom ʔni'hi,[],,[],,False,False,,1
-iyow1239-1-13-1,,iyow1239-1,13,i'tihwam (niwa) si'kjᴐjɛʔ ʔna'hapɛ tom ʔni'hi,i'tihwam (niwa) si'kjᴐjɛʔ ʔna'hapɛ tom ʔni'hi,[],,[],,False,False,,1
-iyow1239-1-14-1,,iyow1239-1,14,i'tihwam (niwa) si'kjᴐjɛʔ ih'nyuhlits’iʔ tom ʔni'hi,i'tihwam (niwa) si'kjᴐjɛʔ ih'nyuhlits’iʔ tom ʔni'hi,[],,[],,False,False,,1
-iyow1239-1-15-1,,iyow1239-1,15,and one our foot is placed over there’),and one our foot is placed over there’),[],,[],,False,True,i'tihwam(niwa) si'kjᴐjɛʔi'hwjɛnhli si'sjɛt tom ʔni'hi (lit: ‘exhausted our hands,1
+iyow1239-1-1-1,,iyow1239-1,1,i'hwjɛnhliʔ,i'hwjɛnhliʔ,[],,['chan2019'],,False,False,,1
+iyow1239-1-2-1,,iyow1239-1,2,ti'mes,ti'mes,[],,['chan2019'],,False,False,,1
+iyow1239-1-3-1,,iyow1239-1,3,ʔna'hapɛ,ʔna'hapɛ,[],,['chan2019'],,False,False,,1
+iyow1239-1-4-1,,iyow1239-1,4,ih'nyuhlits’iʔ,ih'nyuhlits’iʔ,[],,['chan2019'],,False,False,,1
+iyow1239-1-5-1,,iyow1239-1,5,i'hwjɛnhli si'kjᴐʔ i'tihʔwɛʔ,i'hwjɛnhli si'kjᴐʔ i'tihʔwɛʔ,[],(lit: ‘one our hand is exhausted’),['chan2019'],,False,False,,1
+iyow1239-1-6-1,,iyow1239-1,6,and one is placed over there’),and one is placed over there’),[],,['chan2019'],,False,True,i'hwjɛnhli tom ʔni'hi (lit: ‘one our hand is exhausted,1
+iyow1239-1-7-1,,iyow1239-1,7,and two are placed over there’),and two are placed over there’),[],,['chan2019'],,False,True,i'hwjɛnhli siˈkjᴐʔ i'tihʔweʔti'mes tom ʔni'hi   (lit: ‘one our hand is exhausted,1
+iyow1239-1-8-1,,iyow1239-1,8,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔ ʔna'hapɛ tom ʔni'hi,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔ ʔna'hapɛ tom ʔni'hi,[],,['chan2019'],,False,False,,1
+iyow1239-1-9-1,,iyow1239-1,9,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔih'nyuhlits’iʔ tom ʔni'hi,i'hwjɛnhli sikjᴐʔ i'tihʔwɛʔih'nyuhlits’iʔ tom ʔni'hi,[],,['chan2019'],,False,False,,1
+iyow1239-1-10-1,,iyow1239-1,10,i'tihwam niwa si'kjᴐjɛʔ,i'tihwam niwa si'kjᴐjɛʔ,[],(lit: ‘exhausted our hands’),['chan2019'],,False,False,,1
+iyow1239-1-11-1,,iyow1239-1,11,and one is placed over there’),and one is placed over there’),[],,['chan2019'],,False,True,i'tihwam (niwa) si'kjᴐjɛʔi'hwjɛnhli tom ʔni'hi (lit: ‘exhausted our hands,1
+iyow1239-1-12-1,,iyow1239-1,12,i'tihwam (niwa) si'kjᴐjɛʔti'mes tom ʔni'hi,i'tihwam (niwa) si'kjᴐjɛʔti'mes tom ʔni'hi,[],,['chan2019'],,False,False,,1
+iyow1239-1-13-1,,iyow1239-1,13,i'tihwam (niwa) si'kjᴐjɛʔ ʔna'hapɛ tom ʔni'hi,i'tihwam (niwa) si'kjᴐjɛʔ ʔna'hapɛ tom ʔni'hi,[],,['chan2019'],,False,False,,1
+iyow1239-1-14-1,,iyow1239-1,14,i'tihwam (niwa) si'kjᴐjɛʔ ih'nyuhlits’iʔ tom ʔni'hi,i'tihwam (niwa) si'kjᴐjɛʔ ih'nyuhlits’iʔ tom ʔni'hi,[],,['chan2019'],,False,False,,1
+iyow1239-1-15-1,,iyow1239-1,15,and one our foot is placed over there’),and one our foot is placed over there’),[],,['chan2019'],,False,True,i'tihwam(niwa) si'kjᴐjɛʔi'hwjɛnhli si'sjɛt tom ʔni'hi (lit: ‘exhausted our hands,1

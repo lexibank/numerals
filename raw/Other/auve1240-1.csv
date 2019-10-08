@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-auve1240-1-1-1,,auve1240-1,1,vyn,vyn,[],,[],,False,False,vun,1
-auve1240-1-1-2,,auve1240-1,1,ˈvynɐ,ˈvynɐ,[],(m./f.),[],,False,False,vynå,1
-auve1240-1-2-1,,auve1240-1,2,du,du,[],,[],,False,False,dou,1
-auve1240-1-2-2,,auve1240-1,2,dua,dua,[],(m./f.),[],,False,False,duas,1
-auve1240-1-3-1,,auve1240-1,3,tʀej,tʀej,[],,[],,False,False,trei,1
-auve1240-1-4-1,,auve1240-1,4,ˈkatʀə,ˈkatʀə,[],,[],,False,False,catre,1
-auve1240-1-5-1,,auve1240-1,5,ʃin,ʃin,[],,[],,False,False,sin,1
-auve1240-1-6-1,,auve1240-1,6,ʃej,ʃej,[],,[],,False,False,siei,1
-auve1240-1-7-1,,auve1240-1,7,se,se,[],,[],,False,False,sé,1
-auve1240-1-8-1,,auve1240-1,8,vø,vø,[],,[],,False,False,veu,1
-auve1240-1-9-1,,auve1240-1,9,njø,njø,[],,[],,False,False,nieu,1
-auve1240-1-9-2,,auve1240-1,9,nu,nu,[],,[],,False,False,nou,1
-auve1240-1-10-1,,auve1240-1,10,dje,dje,[],,[],,False,False,dié,1
-auve1240-1-10-2,,auve1240-1,10,de,de,[],,[],,False,False,dé,1
-auve1240-1-11-1,,auve1240-1,11,ˈvund͡ze,ˈvund͡ze,[],,[],,False,False,vounje,1
-auve1240-1-12-1,,auve1240-1,12,ˈdud͡ze,ˈdud͡ze,[],,[],,False,False,douje,1
-auve1240-1-13-1,,auve1240-1,13,ˈtʀed͡ze,ˈtʀed͡ze,[],,[],,False,False,treje,1
-auve1240-1-14-1,,auve1240-1,14,kaˈtɔʀd͡ze,kaˈtɔʀd͡ze,[],,[],,False,False,catorje,1
-auve1240-1-15-1,,auve1240-1,15,ˈtjind͡ze,ˈtjind͡ze,[],,[],,False,False,tïnze,1
-auve1240-1-16-1,,auve1240-1,16,ˈsɛd͡ze,ˈsɛd͡ze,[],,[],,False,False,seje,1
-auve1240-1-17-1,,auve1240-1,17,daraˈsɛ,daraˈsɛ,[],,[],,False,False,darassê,1
-auve1240-1-18-1,,auve1240-1,18,ˈdozjø,ˈdozjø,[],,[],,False,False,dozieu,1
-auve1240-1-19-1,,auve1240-1,19,dazaˈnjø,dazaˈnjø,[],,[],,False,False,dazanjeu,1
-auve1240-1-20-1,,auve1240-1,20,vjin,vjin,[],,[],,False,False,vïn,1
-auve1240-1-21-1,,auve1240-1,21,vjintaˈvyn,vjintaˈvyn,[],,[],,False,False,vïntavun,1
-auve1240-1-22-1,,auve1240-1,22,vjintaˈdu,vjintaˈdu,[],,[],,False,False,vïntadus,1
-auve1240-1-23-1,,auve1240-1,23,vjintaˈtʀej,vjintaˈtʀej,[],,[],,False,False,vïntatres,1
-auve1240-1-24-1,,auve1240-1,24,vjintaˈkatʀə,vjintaˈkatʀə,[],,[],,False,False,vïntaquatre,1
-auve1240-1-25-1,,auve1240-1,25,vjintaˈʃin,vjintaˈʃin,[],,[],,False,False,vïntacinq,1
-auve1240-1-26-1,,auve1240-1,26,vjintaˈʃej,vjintaˈʃej,[],,[],,False,False,vïntasheis,1
-auve1240-1-27-1,,auve1240-1,27,vjintaˈse,vjintaˈse,[],,[],,False,False,vïntasèt,1
-auve1240-1-28-1,,auve1240-1,28,vjintaˈvø,vjintaˈvø,[],,[],,False,False,vïntaveu,1
-auve1240-1-29-1,,auve1240-1,29,vjintaˈnjø,vjintaˈnjø,[],,[],,False,False,vïntanieu,1
-auve1240-1-30-1,,auve1240-1,30,ˈtʀẽtɐ,ˈtʀẽtɐ,[],,[],,False,False,trentà,1
-auve1240-1-40-1,,auve1240-1,40,ˈkʀãtɐ,ˈkʀãtɐ,[],,[],,False,False,crantà,1
-auve1240-1-50-1,,auve1240-1,50,ʃinˈkãtɐ,ʃinˈkãtɐ,[],,[],,False,False,sincantà,1
-auve1240-1-60-1,,auve1240-1,60,seˈsãtɐ,seˈsãtɐ,[],,[],,False,False,seissantà,1
-auve1240-1-70-1,,auve1240-1,70,sejˈsãtɐ ˈdje,sejˈsãtɐ ˈdje,[],(60 + 10 ),[],,False,False,seissanta dié,1
-auve1240-1-80-1,,auve1240-1,80,katʀəˈvjin,katʀəˈvjin,[],(4 x 20 ),[],,False,False,catre vïn,1
-auve1240-1-90-1,,auve1240-1,90,katʀəˈvjin ˈdje,katʀəˈvjin ˈdje,[],(80 + 10 ),[],,False,False,catre vïndié,1
-auve1240-1-100-1,,auve1240-1,100,sẽ,sẽ,[],,[],,False,False,sen,1
-auve1240-1-200-1,,auve1240-1,200,duˈsẽ,duˈsẽ,[],,[],,False,False,dou sen,1
-auve1240-1-1000-1,,auve1240-1,1000,ˈmjilɐ,ˈmjilɐ,[],,[],,False,False,mïlà,1
-auve1240-1-2000-1,,auve1240-1,2000,duˈmjilɐ,duˈmjilɐ,[],,[],,False,False,doumïla,1
+auve1240-1-1-1,,auve1240-1,1,vyn,vyn,[],,['chan2019'],,False,False,vun,1
+auve1240-1-1-2,,auve1240-1,1,ˈvynɐ,ˈvynɐ,[],(m./f.),['chan2019'],,False,False,vynå,1
+auve1240-1-2-1,,auve1240-1,2,du,du,[],,['chan2019'],,False,False,dou,1
+auve1240-1-2-2,,auve1240-1,2,dua,dua,[],(m./f.),['chan2019'],,False,False,duas,1
+auve1240-1-3-1,,auve1240-1,3,tʀej,tʀej,[],,['chan2019'],,False,False,trei,1
+auve1240-1-4-1,,auve1240-1,4,ˈkatʀə,ˈkatʀə,[],,['chan2019'],,False,False,catre,1
+auve1240-1-5-1,,auve1240-1,5,ʃin,ʃin,[],,['chan2019'],,False,False,sin,1
+auve1240-1-6-1,,auve1240-1,6,ʃej,ʃej,[],,['chan2019'],,False,False,siei,1
+auve1240-1-7-1,,auve1240-1,7,se,se,[],,['chan2019'],,False,False,sé,1
+auve1240-1-8-1,,auve1240-1,8,vø,vø,[],,['chan2019'],,False,False,veu,1
+auve1240-1-9-1,,auve1240-1,9,njø,njø,[],,['chan2019'],,False,False,nieu,1
+auve1240-1-9-2,,auve1240-1,9,nu,nu,[],,['chan2019'],,False,False,nou,1
+auve1240-1-10-1,,auve1240-1,10,dje,dje,[],,['chan2019'],,False,False,dié,1
+auve1240-1-10-2,,auve1240-1,10,de,de,[],,['chan2019'],,False,False,dé,1
+auve1240-1-11-1,,auve1240-1,11,ˈvund͡ze,ˈvund͡ze,[],,['chan2019'],,False,False,vounje,1
+auve1240-1-12-1,,auve1240-1,12,ˈdud͡ze,ˈdud͡ze,[],,['chan2019'],,False,False,douje,1
+auve1240-1-13-1,,auve1240-1,13,ˈtʀed͡ze,ˈtʀed͡ze,[],,['chan2019'],,False,False,treje,1
+auve1240-1-14-1,,auve1240-1,14,kaˈtɔʀd͡ze,kaˈtɔʀd͡ze,[],,['chan2019'],,False,False,catorje,1
+auve1240-1-15-1,,auve1240-1,15,ˈtjind͡ze,ˈtjind͡ze,[],,['chan2019'],,False,False,tïnze,1
+auve1240-1-16-1,,auve1240-1,16,ˈsɛd͡ze,ˈsɛd͡ze,[],,['chan2019'],,False,False,seje,1
+auve1240-1-17-1,,auve1240-1,17,daraˈsɛ,daraˈsɛ,[],,['chan2019'],,False,False,darassê,1
+auve1240-1-18-1,,auve1240-1,18,ˈdozjø,ˈdozjø,[],,['chan2019'],,False,False,dozieu,1
+auve1240-1-19-1,,auve1240-1,19,dazaˈnjø,dazaˈnjø,[],,['chan2019'],,False,False,dazanjeu,1
+auve1240-1-20-1,,auve1240-1,20,vjin,vjin,[],,['chan2019'],,False,False,vïn,1
+auve1240-1-21-1,,auve1240-1,21,vjintaˈvyn,vjintaˈvyn,[],,['chan2019'],,False,False,vïntavun,1
+auve1240-1-22-1,,auve1240-1,22,vjintaˈdu,vjintaˈdu,[],,['chan2019'],,False,False,vïntadus,1
+auve1240-1-23-1,,auve1240-1,23,vjintaˈtʀej,vjintaˈtʀej,[],,['chan2019'],,False,False,vïntatres,1
+auve1240-1-24-1,,auve1240-1,24,vjintaˈkatʀə,vjintaˈkatʀə,[],,['chan2019'],,False,False,vïntaquatre,1
+auve1240-1-25-1,,auve1240-1,25,vjintaˈʃin,vjintaˈʃin,[],,['chan2019'],,False,False,vïntacinq,1
+auve1240-1-26-1,,auve1240-1,26,vjintaˈʃej,vjintaˈʃej,[],,['chan2019'],,False,False,vïntasheis,1
+auve1240-1-27-1,,auve1240-1,27,vjintaˈse,vjintaˈse,[],,['chan2019'],,False,False,vïntasèt,1
+auve1240-1-28-1,,auve1240-1,28,vjintaˈvø,vjintaˈvø,[],,['chan2019'],,False,False,vïntaveu,1
+auve1240-1-29-1,,auve1240-1,29,vjintaˈnjø,vjintaˈnjø,[],,['chan2019'],,False,False,vïntanieu,1
+auve1240-1-30-1,,auve1240-1,30,ˈtʀẽtɐ,ˈtʀẽtɐ,[],,['chan2019'],,False,False,trentà,1
+auve1240-1-40-1,,auve1240-1,40,ˈkʀãtɐ,ˈkʀãtɐ,[],,['chan2019'],,False,False,crantà,1
+auve1240-1-50-1,,auve1240-1,50,ʃinˈkãtɐ,ʃinˈkãtɐ,[],,['chan2019'],,False,False,sincantà,1
+auve1240-1-60-1,,auve1240-1,60,seˈsãtɐ,seˈsãtɐ,[],,['chan2019'],,False,False,seissantà,1
+auve1240-1-70-1,,auve1240-1,70,sejˈsãtɐ ˈdje,sejˈsãtɐ ˈdje,[],(60 + 10 ),['chan2019'],,False,False,seissanta dié,1
+auve1240-1-80-1,,auve1240-1,80,katʀəˈvjin,katʀəˈvjin,[],(4 x 20 ),['chan2019'],,False,False,catre vïn,1
+auve1240-1-90-1,,auve1240-1,90,katʀəˈvjin ˈdje,katʀəˈvjin ˈdje,[],(80 + 10 ),['chan2019'],,False,False,catre vïndié,1
+auve1240-1-100-1,,auve1240-1,100,sẽ,sẽ,[],,['chan2019'],,False,False,sen,1
+auve1240-1-200-1,,auve1240-1,200,duˈsẽ,duˈsẽ,[],,['chan2019'],,False,False,dou sen,1
+auve1240-1-1000-1,,auve1240-1,1000,ˈmjilɐ,ˈmjilɐ,[],,['chan2019'],,False,False,mïlà,1
+auve1240-1-2000-1,,auve1240-1,2000,duˈmjilɐ,duˈmjilɐ,[],,['chan2019'],,False,False,doumïla,1

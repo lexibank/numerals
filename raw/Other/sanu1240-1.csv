@@ -1,3 +1,3 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sanu1240-1-1-1,,sanu1240-1,1,tsami,tsami,[],,[],,False,False,tsami,1
-sanu1240-1-2-1,,sanu1240-1,2,polakapi,polakapi,[],,[],,False,False,polakapi,1
+sanu1240-1-1-1,,sanu1240-1,1,tsami,tsami,[],,['chan2019'],,False,False,tsami,1
+sanu1240-1-2-1,,sanu1240-1,2,polakapi,polakapi,[],,['chan2019'],,False,False,polakapi,1

@@ -1,83 +1,83 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tiwa1253-1-1-1,,tiwa1253-1,1,êk,êk,[],,[],,False,False,,1
-tiwa1253-1-1-2,,tiwa1253-1,1,kishá,kishá,[],,[],,False,False,,1
-tiwa1253-1-1-3,,tiwa1253-1,1,sa,sa,[],,[],,False,False,,1
-tiwa1253-1-2-1,,tiwa1253-1,2,dûy,dûy,[],,[],,False,False,,1
-tiwa1253-1-2-2,,tiwa1253-1,2,kiníŋ,kiníŋ,[],,[],,False,False,,1
-tiwa1253-1-2-3,,tiwa1253-1,2,nui,nui,[],,[],,False,False,,1
-tiwa1253-1-3-1,,tiwa1253-1,3,thîn,thîn,[],,[],,False,False,,1
-tiwa1253-1-3-2,,tiwa1253-1,3,tʰam,tʰam,[],,[],,False,False,,1
-tiwa1253-1-4-1,,tiwa1253-1,4,shâr,shâr,[],,[],,False,False,,1
-tiwa1253-1-4-2,,tiwa1253-1,4,shâri,shâri,[],,[],,False,False,,1
-tiwa1253-1-4-3,,tiwa1253-1,4,bumi,bumi,[],,[],,False,False,,1
-tiwa1253-1-5-1,,tiwa1253-1,5,phâs,phâs,[],,[],,False,False,,1
-tiwa1253-1-5-2,,tiwa1253-1,5,ba,ba,[],,[],,False,False,,1
-tiwa1253-1-6-1,,tiwa1253-1,6,shûy,shûy,[],,[],,False,False,,1
-tiwa1253-1-6-2,,tiwa1253-1,6,dok,dok,[],,[],,False,False,,1
-tiwa1253-1-7-1,,tiwa1253-1,7,sât,sât,[],,[],,False,False,,1
-tiwa1253-1-7-2,,tiwa1253-1,7,sini,sini,[],,[],,False,False,,1
-tiwa1253-1-8-1,,tiwa1253-1,8,ât,ât,[],,[],,False,False,,1
-tiwa1253-1-8-2,,tiwa1253-1,8,car,car,[],,[],,False,False,,1
-tiwa1253-1-9-1,,tiwa1253-1,9,nû,nû,[],,[],,False,False,,1
-tiwa1253-1-9-2,,tiwa1253-1,9,cuku,cuku,[],,[],,False,False,,1
-tiwa1253-1-10-1,,tiwa1253-1,10,tôs,tôs,[],,[],,False,False,,1
-tiwa1253-1-10-2,,tiwa1253-1,10,ci,ci,[],,[],,False,False,,1
-tiwa1253-1-11-1,,tiwa1253-1,11,egâro,egâro,[],,[],,False,False,,1
-tiwa1253-1-11-2,,tiwa1253-1,11,ci sa,ci sa,[],,[],,False,False,,1
-tiwa1253-1-12-1,,tiwa1253-1,12,parô,parô,[],,[],,False,False,,1
-tiwa1253-1-12-2,,tiwa1253-1,12,ci nui,ci nui,[],,[],,False,False,,1
-tiwa1253-1-13-1,,tiwa1253-1,13,thêro,thêro,[],,[],,False,False,,1
-tiwa1253-1-13-2,,tiwa1253-1,13,ci tʰam,ci tʰam,[],,[],,False,False,,1
-tiwa1253-1-14-1,,tiwa1253-1,14,shûydo,shûydo,[],,[],,False,False,,1
-tiwa1253-1-14-2,,tiwa1253-1,14,cibumi,cibumi,[],,[],,False,False,,1
-tiwa1253-1-15-1,,tiwa1253-1,15,phôntro,phôntro,[],,[],,False,False,,1
-tiwa1253-1-15-2,,tiwa1253-1,15,ciba,ciba,[],,[],,False,False,,1
-tiwa1253-1-16-1,,tiwa1253-1,16,sôllo,sôllo,[],,[],,False,False,,1
-tiwa1253-1-16-2,,tiwa1253-1,16,cidok,cidok,[],,[],,False,False,,1
-tiwa1253-1-17-1,,tiwa1253-1,17,satthâro,satthâro,[],,[],,False,False,,1
-tiwa1253-1-17-2,,tiwa1253-1,17,cisini,cisini,[],,[],,False,False,,1
-tiwa1253-1-18-1,,tiwa1253-1,18,atthâro,atthâro,[],,[],,False,False,,1
-tiwa1253-1-18-2,,tiwa1253-1,18,cicar,cicar,[],,[],,False,False,,1
-tiwa1253-1-19-1,,tiwa1253-1,19,unîs,unîs,[],,[],,False,False,,1
-tiwa1253-1-19-2,,tiwa1253-1,19,cicuku,cicuku,[],,[],,False,False,,1
-tiwa1253-1-20-1,,tiwa1253-1,20,ikhûri,ikhûri,[],,[],,False,False,,1
-tiwa1253-1-20-2,,tiwa1253-1,20,kʰɔl,kʰɔl,[],,[],,False,False,,1
-tiwa1253-1-21-1,,tiwa1253-1,21,ikhûri kishá,ikhûri kishá,[],,[],,False,False,,1
-tiwa1253-1-21-2,,tiwa1253-1,21,kʰɔl-pe-sa,kʰɔl-pe-sa,[],,[],,False,False,,1
-tiwa1253-1-22-1,,tiwa1253-1,22,ikhûri thîn,ikhûri thîn,[],,[],,False,False,,1
-tiwa1253-1-22-2,,tiwa1253-1,22,kʰɔl-pe-tʰam,kʰɔl-pe-tʰam,[],,[],,False,False,,1
-tiwa1253-1-24-1,,tiwa1253-1,24,ikhûri shâr,ikhûri shâr,[],,[],,False,False,,1
-tiwa1253-1-24-2,,tiwa1253-1,24,kʰɔl-pe-bumi,kʰɔl-pe-bumi,[],,[],,False,False,,1
-tiwa1253-1-25-1,,tiwa1253-1,25,ikhûri phâs,ikhûri phâs,[],,[],,False,False,,1
-tiwa1253-1-25-2,,tiwa1253-1,25,kʰɔl-pe-ba,kʰɔl-pe-ba,[],,[],,False,False,,1
-tiwa1253-1-26-1,,tiwa1253-1,26,ikhûri shûy,ikhûri shûy,[],,[],,False,False,,1
-tiwa1253-1-26-2,,tiwa1253-1,26,kʰɔl-pe-dok,kʰɔl-pe-dok,[],,[],,False,False,,1
-tiwa1253-1-27-1,,tiwa1253-1,27,ikhûri sât,ikhûri sât,[],,[],,False,False,,1
-tiwa1253-1-27-2,,tiwa1253-1,27,kʰɔl-pe-sini,kʰɔl-pe-sini,[],,[],,False,False,,1
-tiwa1253-1-28-1,,tiwa1253-1,28,ikhûri ât,ikhûri ât,[],,[],,False,False,,1
-tiwa1253-1-28-2,,tiwa1253-1,28,kʰɔl-pe-car,kʰɔl-pe-car,[],,[],,False,False,,1
-tiwa1253-1-29-1,,tiwa1253-1,29,ikhûri nû,ikhûri nû,[],,[],,False,False,,1
-tiwa1253-1-29-2,,tiwa1253-1,29,kʰɔl-pe-cuku,kʰɔl-pe-cuku,[],,[],,False,False,,1
-tiwa1253-1-30-1,,tiwa1253-1,30,ikhûri tôs,ikhûri tôs,[],,[],,False,False,,1
-tiwa1253-1-30-2,,tiwa1253-1,30,kʰɔl-pe-ci,kʰɔl-pe-ci,[],( 20 + 10),[],,False,False,,1
-tiwa1253-1-40-1,,tiwa1253-1,40,tikhûri,tikhûri,[],,[],,False,False,,1
-tiwa1253-1-40-2,,tiwa1253-1,40,kʰɔl-nui,kʰɔl-nui,[],( 20 x 2 ),[],,False,False,,1
-tiwa1253-1-50-1,,tiwa1253-1,50,tikhûri tôs,tikhûri tôs,[],,[],,False,False,,1
-tiwa1253-1-50-2,,tiwa1253-1,50,kʰɔl-nui-ci,kʰɔl-nui-ci,[],,[],,False,False,,1
-tiwa1253-1-60-1,,tiwa1253-1,60,thîni khûri,thîni khûri,[],,[],,False,False,,1
-tiwa1253-1-60-2,,tiwa1253-1,60,kʰɔl-tʰam,kʰɔl-tʰam,[],( 20 x 3 ),[],,False,False,,1
-tiwa1253-1-70-1,,tiwa1253-1,70,thîni khûri tôs,thîni khûri tôs,[],,[],,False,False,,1
-tiwa1253-1-70-2,,tiwa1253-1,70,kʰɔl-tʰam-ci,kʰɔl-tʰam-ci,[],,[],,False,False,,1
-tiwa1253-1-80-1,,tiwa1253-1,80,shâri khûri,shâri khûri,[],,[],,False,False,,1
-tiwa1253-1-80-2,,tiwa1253-1,80,kʰɔl-bumi,kʰɔl-bumi,[],( 20 x 4 ),[],,False,False,,1
-tiwa1253-1-90-1,,tiwa1253-1,90,shâri khûri tôs,shâri khûri tôs,[],,[],,False,False,,1
-tiwa1253-1-90-2,,tiwa1253-1,90,kʰɔl-bumi-ci,kʰɔl-bumi-ci,[],,[],,False,False,,1
-tiwa1253-1-100-1,,tiwa1253-1,100,phâs khûri,phâs khûri,[],,[],,False,False,,1
-tiwa1253-1-100-2,,tiwa1253-1,100,soshá,soshá,[],,[],,False,False,,1
-tiwa1253-1-100-3,,tiwa1253-1,100,rasa,rasa,[],,[],,False,False,,1
-tiwa1253-1-200-1,,tiwa1253-1,200,tisô,tisô,[],,[],,False,False,,1
-tiwa1253-1-200-2,,tiwa1253-1,200,ra nui,ra nui,[],,[],,False,False,,1
-tiwa1253-1-1000-1,,tiwa1253-1,1000,hacarshá,hacarshá,[],,[],,False,False,,1
-tiwa1253-1-1000-2,,tiwa1253-1,1000,həjar,həjar,[],< Indic ,[],,True,False,,1
-tiwa1253-1-2000-1,,tiwa1253-1,2000,tihacâr,tihacâr,[],,[],,False,False,,1
-tiwa1253-1-2000-2,,tiwa1253-1,2000,həjar nui,həjar nui,[],,[],,False,False,,1
+tiwa1253-1-1-1,,tiwa1253-1,1,êk,êk,[],,['chan2019'],,False,False,,1
+tiwa1253-1-1-2,,tiwa1253-1,1,kishá,kishá,[],,['chan2019'],,False,False,,1
+tiwa1253-1-1-3,,tiwa1253-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+tiwa1253-1-2-1,,tiwa1253-1,2,dûy,dûy,[],,['chan2019'],,False,False,,1
+tiwa1253-1-2-2,,tiwa1253-1,2,kiníŋ,kiníŋ,[],,['chan2019'],,False,False,,1
+tiwa1253-1-2-3,,tiwa1253-1,2,nui,nui,[],,['chan2019'],,False,False,,1
+tiwa1253-1-3-1,,tiwa1253-1,3,thîn,thîn,[],,['chan2019'],,False,False,,1
+tiwa1253-1-3-2,,tiwa1253-1,3,tʰam,tʰam,[],,['chan2019'],,False,False,,1
+tiwa1253-1-4-1,,tiwa1253-1,4,shâr,shâr,[],,['chan2019'],,False,False,,1
+tiwa1253-1-4-2,,tiwa1253-1,4,shâri,shâri,[],,['chan2019'],,False,False,,1
+tiwa1253-1-4-3,,tiwa1253-1,4,bumi,bumi,[],,['chan2019'],,False,False,,1
+tiwa1253-1-5-1,,tiwa1253-1,5,phâs,phâs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-5-2,,tiwa1253-1,5,ba,ba,[],,['chan2019'],,False,False,,1
+tiwa1253-1-6-1,,tiwa1253-1,6,shûy,shûy,[],,['chan2019'],,False,False,,1
+tiwa1253-1-6-2,,tiwa1253-1,6,dok,dok,[],,['chan2019'],,False,False,,1
+tiwa1253-1-7-1,,tiwa1253-1,7,sât,sât,[],,['chan2019'],,False,False,,1
+tiwa1253-1-7-2,,tiwa1253-1,7,sini,sini,[],,['chan2019'],,False,False,,1
+tiwa1253-1-8-1,,tiwa1253-1,8,ât,ât,[],,['chan2019'],,False,False,,1
+tiwa1253-1-8-2,,tiwa1253-1,8,car,car,[],,['chan2019'],,False,False,,1
+tiwa1253-1-9-1,,tiwa1253-1,9,nû,nû,[],,['chan2019'],,False,False,,1
+tiwa1253-1-9-2,,tiwa1253-1,9,cuku,cuku,[],,['chan2019'],,False,False,,1
+tiwa1253-1-10-1,,tiwa1253-1,10,tôs,tôs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-10-2,,tiwa1253-1,10,ci,ci,[],,['chan2019'],,False,False,,1
+tiwa1253-1-11-1,,tiwa1253-1,11,egâro,egâro,[],,['chan2019'],,False,False,,1
+tiwa1253-1-11-2,,tiwa1253-1,11,ci sa,ci sa,[],,['chan2019'],,False,False,,1
+tiwa1253-1-12-1,,tiwa1253-1,12,parô,parô,[],,['chan2019'],,False,False,,1
+tiwa1253-1-12-2,,tiwa1253-1,12,ci nui,ci nui,[],,['chan2019'],,False,False,,1
+tiwa1253-1-13-1,,tiwa1253-1,13,thêro,thêro,[],,['chan2019'],,False,False,,1
+tiwa1253-1-13-2,,tiwa1253-1,13,ci tʰam,ci tʰam,[],,['chan2019'],,False,False,,1
+tiwa1253-1-14-1,,tiwa1253-1,14,shûydo,shûydo,[],,['chan2019'],,False,False,,1
+tiwa1253-1-14-2,,tiwa1253-1,14,cibumi,cibumi,[],,['chan2019'],,False,False,,1
+tiwa1253-1-15-1,,tiwa1253-1,15,phôntro,phôntro,[],,['chan2019'],,False,False,,1
+tiwa1253-1-15-2,,tiwa1253-1,15,ciba,ciba,[],,['chan2019'],,False,False,,1
+tiwa1253-1-16-1,,tiwa1253-1,16,sôllo,sôllo,[],,['chan2019'],,False,False,,1
+tiwa1253-1-16-2,,tiwa1253-1,16,cidok,cidok,[],,['chan2019'],,False,False,,1
+tiwa1253-1-17-1,,tiwa1253-1,17,satthâro,satthâro,[],,['chan2019'],,False,False,,1
+tiwa1253-1-17-2,,tiwa1253-1,17,cisini,cisini,[],,['chan2019'],,False,False,,1
+tiwa1253-1-18-1,,tiwa1253-1,18,atthâro,atthâro,[],,['chan2019'],,False,False,,1
+tiwa1253-1-18-2,,tiwa1253-1,18,cicar,cicar,[],,['chan2019'],,False,False,,1
+tiwa1253-1-19-1,,tiwa1253-1,19,unîs,unîs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-19-2,,tiwa1253-1,19,cicuku,cicuku,[],,['chan2019'],,False,False,,1
+tiwa1253-1-20-1,,tiwa1253-1,20,ikhûri,ikhûri,[],,['chan2019'],,False,False,,1
+tiwa1253-1-20-2,,tiwa1253-1,20,kʰɔl,kʰɔl,[],,['chan2019'],,False,False,,1
+tiwa1253-1-21-1,,tiwa1253-1,21,ikhûri kishá,ikhûri kishá,[],,['chan2019'],,False,False,,1
+tiwa1253-1-21-2,,tiwa1253-1,21,kʰɔl-pe-sa,kʰɔl-pe-sa,[],,['chan2019'],,False,False,,1
+tiwa1253-1-22-1,,tiwa1253-1,22,ikhûri thîn,ikhûri thîn,[],,['chan2019'],,False,False,,1
+tiwa1253-1-22-2,,tiwa1253-1,22,kʰɔl-pe-tʰam,kʰɔl-pe-tʰam,[],,['chan2019'],,False,False,,1
+tiwa1253-1-24-1,,tiwa1253-1,24,ikhûri shâr,ikhûri shâr,[],,['chan2019'],,False,False,,1
+tiwa1253-1-24-2,,tiwa1253-1,24,kʰɔl-pe-bumi,kʰɔl-pe-bumi,[],,['chan2019'],,False,False,,1
+tiwa1253-1-25-1,,tiwa1253-1,25,ikhûri phâs,ikhûri phâs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-25-2,,tiwa1253-1,25,kʰɔl-pe-ba,kʰɔl-pe-ba,[],,['chan2019'],,False,False,,1
+tiwa1253-1-26-1,,tiwa1253-1,26,ikhûri shûy,ikhûri shûy,[],,['chan2019'],,False,False,,1
+tiwa1253-1-26-2,,tiwa1253-1,26,kʰɔl-pe-dok,kʰɔl-pe-dok,[],,['chan2019'],,False,False,,1
+tiwa1253-1-27-1,,tiwa1253-1,27,ikhûri sât,ikhûri sât,[],,['chan2019'],,False,False,,1
+tiwa1253-1-27-2,,tiwa1253-1,27,kʰɔl-pe-sini,kʰɔl-pe-sini,[],,['chan2019'],,False,False,,1
+tiwa1253-1-28-1,,tiwa1253-1,28,ikhûri ât,ikhûri ât,[],,['chan2019'],,False,False,,1
+tiwa1253-1-28-2,,tiwa1253-1,28,kʰɔl-pe-car,kʰɔl-pe-car,[],,['chan2019'],,False,False,,1
+tiwa1253-1-29-1,,tiwa1253-1,29,ikhûri nû,ikhûri nû,[],,['chan2019'],,False,False,,1
+tiwa1253-1-29-2,,tiwa1253-1,29,kʰɔl-pe-cuku,kʰɔl-pe-cuku,[],,['chan2019'],,False,False,,1
+tiwa1253-1-30-1,,tiwa1253-1,30,ikhûri tôs,ikhûri tôs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-30-2,,tiwa1253-1,30,kʰɔl-pe-ci,kʰɔl-pe-ci,[],( 20 + 10),['chan2019'],,False,False,,1
+tiwa1253-1-40-1,,tiwa1253-1,40,tikhûri,tikhûri,[],,['chan2019'],,False,False,,1
+tiwa1253-1-40-2,,tiwa1253-1,40,kʰɔl-nui,kʰɔl-nui,[],( 20 x 2 ),['chan2019'],,False,False,,1
+tiwa1253-1-50-1,,tiwa1253-1,50,tikhûri tôs,tikhûri tôs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-50-2,,tiwa1253-1,50,kʰɔl-nui-ci,kʰɔl-nui-ci,[],,['chan2019'],,False,False,,1
+tiwa1253-1-60-1,,tiwa1253-1,60,thîni khûri,thîni khûri,[],,['chan2019'],,False,False,,1
+tiwa1253-1-60-2,,tiwa1253-1,60,kʰɔl-tʰam,kʰɔl-tʰam,[],( 20 x 3 ),['chan2019'],,False,False,,1
+tiwa1253-1-70-1,,tiwa1253-1,70,thîni khûri tôs,thîni khûri tôs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-70-2,,tiwa1253-1,70,kʰɔl-tʰam-ci,kʰɔl-tʰam-ci,[],,['chan2019'],,False,False,,1
+tiwa1253-1-80-1,,tiwa1253-1,80,shâri khûri,shâri khûri,[],,['chan2019'],,False,False,,1
+tiwa1253-1-80-2,,tiwa1253-1,80,kʰɔl-bumi,kʰɔl-bumi,[],( 20 x 4 ),['chan2019'],,False,False,,1
+tiwa1253-1-90-1,,tiwa1253-1,90,shâri khûri tôs,shâri khûri tôs,[],,['chan2019'],,False,False,,1
+tiwa1253-1-90-2,,tiwa1253-1,90,kʰɔl-bumi-ci,kʰɔl-bumi-ci,[],,['chan2019'],,False,False,,1
+tiwa1253-1-100-1,,tiwa1253-1,100,phâs khûri,phâs khûri,[],,['chan2019'],,False,False,,1
+tiwa1253-1-100-2,,tiwa1253-1,100,soshá,soshá,[],,['chan2019'],,False,False,,1
+tiwa1253-1-100-3,,tiwa1253-1,100,rasa,rasa,[],,['chan2019'],,False,False,,1
+tiwa1253-1-200-1,,tiwa1253-1,200,tisô,tisô,[],,['chan2019'],,False,False,,1
+tiwa1253-1-200-2,,tiwa1253-1,200,ra nui,ra nui,[],,['chan2019'],,False,False,,1
+tiwa1253-1-1000-1,,tiwa1253-1,1000,hacarshá,hacarshá,[],,['chan2019'],,False,False,,1
+tiwa1253-1-1000-2,,tiwa1253-1,1000,həjar,həjar,[],< Indic ,['chan2019'],,True,False,,1
+tiwa1253-1-2000-1,,tiwa1253-1,2000,tihacâr,tihacâr,[],,['chan2019'],,False,False,,1
+tiwa1253-1-2000-2,,tiwa1253-1,2000,həjar nui,həjar nui,[],,['chan2019'],,False,False,,1

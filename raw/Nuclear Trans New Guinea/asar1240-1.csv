@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-asar1240-1-1-1,,asar1240-1,1,orfɨtam,orfɨtam,[],,[],,False,False,,1
-asar1240-1-2-1,,asar1240-1,2,yɨryɨr,yɨryɨr,[],,[],,False,False,,1
-asar1240-1-3-1,,asar1240-1,3,arfɨ,arfɨ,[],,[],,False,False,,1
-asar1240-1-4-1,,asar1240-1,4,citi,citi,[],,[],,False,False,,1
-asar1240-1-5-1,,asar1240-1,5,citi soŋi,citi soŋi,[],,[],,False,False,,1
+asar1240-1-1-1,,asar1240-1,1,orfɨtam,orfɨtam,[],,['chan2019'],,False,False,,1
+asar1240-1-2-1,,asar1240-1,2,yɨryɨr,yɨryɨr,[],,['chan2019'],,False,False,,1
+asar1240-1-3-1,,asar1240-1,3,arfɨ,arfɨ,[],,['chan2019'],,False,False,,1
+asar1240-1-4-1,,asar1240-1,4,citi,citi,[],,['chan2019'],,False,False,,1
+asar1240-1-5-1,,asar1240-1,5,citi soŋi,citi soŋi,[],,['chan2019'],,False,False,,1

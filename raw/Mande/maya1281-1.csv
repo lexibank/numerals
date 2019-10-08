@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maya1281-1-1-1,,maya1281-1,1,dɛ́nɛ́,dɛ́nɛ́,[],,[],,False,False,,1
-maya1281-1-2-1,,maya1281-1,2,fúrá,fúrá,[],,[],,False,False,,1
-maya1281-1-3-1,,maya1281-1,3,kàakú,kàakú,[],,[],,False,False,,1
-maya1281-1-4-1,,maya1281-1,4,síirí,síirí,[],,[],,False,False,,1
-maya1281-1-5-1,,maya1281-1,5,sɔ́ɔrɔ́,sɔ́ɔrɔ́,[],,[],,False,False,,1
-maya1281-1-6-1,,maya1281-1,6,sɔ̀rɔ̀,sɔ̀rɔ̀,[],( 5 + 1 ),[],,False,False,,1
-maya1281-1-7-1,,maya1281-1,7,sɔ̀frá,sɔ̀frá,[],( 5 + 2 ),[],,False,False,,1
-maya1281-1-8-1,,maya1281-1,8,cíɡísí,cíɡísí,[],( 2 x 4  )  ?,[],,False,False,,1
-maya1281-1-9-1,,maya1281-1,9,sóosí,sóosí,[],( 5 + 4 ) ?,[],,False,False,,1
-maya1281-1-10-1,,maya1281-1,10,bù,bù,[],,[],,False,False,,1
-maya1281-1-11-1,,maya1281-1,11,bù kú dɛ́nɛ́,bù kú dɛ́nɛ́,[],,[],,False,False,,1
-maya1281-1-12-1,,maya1281-1,12,bù kú fúrá,bù kú fúrá,[],,[],,False,False,,1
-maya1281-1-13-1,,maya1281-1,13,bù kú kàakú,bù kú kàakú,[],,[],,False,False,,1
-maya1281-1-14-1,,maya1281-1,14,bù kú síirí,bù kú síirí,[],,[],,False,False,,1
-maya1281-1-15-1,,maya1281-1,15,bù kú sɔ́ɔrɔ́,bù kú sɔ́ɔrɔ́,[],,[],,False,False,,1
-maya1281-1-16-1,,maya1281-1,16,bù kú sɔ̀rɔ̀,bù kú sɔ̀rɔ̀,[],,[],,False,False,,1
-maya1281-1-17-1,,maya1281-1,17,bù kú sɔ̀frá,bù kú sɔ̀frá,[],,[],,False,False,,1
-maya1281-1-18-1,,maya1281-1,18,bù kú cíɡísí,bù kú cíɡísí,[],,[],,False,False,,1
-maya1281-1-19-1,,maya1281-1,19,bù kú sóosí,bù kú sóosí,[],,[],,False,False,,1
-maya1281-1-20-1,,maya1281-1,20,bùró,bùró,[],,[],,False,False,,1
-maya1281-1-21-1,,maya1281-1,21,bùró kú dɛ́nɛ́,bùró kú dɛ́nɛ́,[],,[],,False,False,,1
-maya1281-1-22-1,,maya1281-1,22,bùró kú fúrá,bùró kú fúrá,[],,[],,False,False,,1
-maya1281-1-23-1,,maya1281-1,23,bùró kú kàakú,bùró kú kàakú,[],,[],,False,False,,1
-maya1281-1-24-1,,maya1281-1,24,bùró kú síirí,bùró kú síirí,[],,[],,False,False,,1
-maya1281-1-25-1,,maya1281-1,25,bùró kú sɔ́ɔrɔ́,bùró kú sɔ́ɔrɔ́,[],,[],,False,False,,1
-maya1281-1-26-1,,maya1281-1,26,bùró kú sɔ̀rɔ̀,bùró kú sɔ̀rɔ̀,[],,[],,False,False,,1
-maya1281-1-27-1,,maya1281-1,27,bùró kú sɔ̀frá,bùró kú sɔ̀frá,[],,[],,False,False,,1
-maya1281-1-28-1,,maya1281-1,28,bùró kú cíɡísí,bùró kú cíɡísí,[],,[],,False,False,,1
-maya1281-1-29-1,,maya1281-1,29,bùró kú sóosí,bùró kú sóosí,[],,[],,False,False,,1
-maya1281-1-30-1,,maya1281-1,30,bɔ̀ɔ̀ɡɔ́,bɔ̀ɔ̀ɡɔ́,[],,[],,False,False,,1
-maya1281-1-40-1,,maya1281-1,40,bùùsí,bùùsí,[],,[],,False,False,,1
-maya1281-1-50-1,,maya1281-1,50,bùùsí kúní bùú,bùùsí kúní bùú,[],( 40 + 10 ),[],,False,False,,1
-maya1281-1-60-1,,maya1281-1,60,mã̀címiʔ,mã̀címiʔ,[],,[],,False,False,,1
-maya1281-1-70-1,,maya1281-1,70,bùbáalí,bùbáalí,[],,[],,False,False,,1
-maya1281-1-80-1,,maya1281-1,80,sã̀ paàbìrí,sã̀ paàbìrí,[],,[],,False,False,,1
-maya1281-1-90-1,,maya1281-1,90,sã̀ paàbìrí kúní bùú,sã̀ paàbìrí kúní bùú,[],( 80 + 10 ),[],,False,False,,1
-maya1281-1-100-1,,maya1281-1,100,paàbìrí,paàbìrí,[],,[],,False,False,,1
-maya1281-1-200-1,,maya1281-1,200,bɛ̀frá,bɛ̀frá,[],,[],,False,False,,1
-maya1281-1-1000-1,,maya1281-1,1000,pàdí,pàdí,[],,[],,False,False,,1
-maya1281-1-2000-1,,maya1281-1,2000,pàdífrá,pàdífrá,[],,[],,False,False,,1
+maya1281-1-1-1,,maya1281-1,1,dɛ́nɛ́,dɛ́nɛ́,[],,['chan2019'],,False,False,,1
+maya1281-1-2-1,,maya1281-1,2,fúrá,fúrá,[],,['chan2019'],,False,False,,1
+maya1281-1-3-1,,maya1281-1,3,kàakú,kàakú,[],,['chan2019'],,False,False,,1
+maya1281-1-4-1,,maya1281-1,4,síirí,síirí,[],,['chan2019'],,False,False,,1
+maya1281-1-5-1,,maya1281-1,5,sɔ́ɔrɔ́,sɔ́ɔrɔ́,[],,['chan2019'],,False,False,,1
+maya1281-1-6-1,,maya1281-1,6,sɔ̀rɔ̀,sɔ̀rɔ̀,[],( 5 + 1 ),['chan2019'],,False,False,,1
+maya1281-1-7-1,,maya1281-1,7,sɔ̀frá,sɔ̀frá,[],( 5 + 2 ),['chan2019'],,False,False,,1
+maya1281-1-8-1,,maya1281-1,8,cíɡísí,cíɡísí,[],( 2 x 4  )  ?,['chan2019'],,False,False,,1
+maya1281-1-9-1,,maya1281-1,9,sóosí,sóosí,[],( 5 + 4 ) ?,['chan2019'],,False,False,,1
+maya1281-1-10-1,,maya1281-1,10,bù,bù,[],,['chan2019'],,False,False,,1
+maya1281-1-11-1,,maya1281-1,11,bù kú dɛ́nɛ́,bù kú dɛ́nɛ́,[],,['chan2019'],,False,False,,1
+maya1281-1-12-1,,maya1281-1,12,bù kú fúrá,bù kú fúrá,[],,['chan2019'],,False,False,,1
+maya1281-1-13-1,,maya1281-1,13,bù kú kàakú,bù kú kàakú,[],,['chan2019'],,False,False,,1
+maya1281-1-14-1,,maya1281-1,14,bù kú síirí,bù kú síirí,[],,['chan2019'],,False,False,,1
+maya1281-1-15-1,,maya1281-1,15,bù kú sɔ́ɔrɔ́,bù kú sɔ́ɔrɔ́,[],,['chan2019'],,False,False,,1
+maya1281-1-16-1,,maya1281-1,16,bù kú sɔ̀rɔ̀,bù kú sɔ̀rɔ̀,[],,['chan2019'],,False,False,,1
+maya1281-1-17-1,,maya1281-1,17,bù kú sɔ̀frá,bù kú sɔ̀frá,[],,['chan2019'],,False,False,,1
+maya1281-1-18-1,,maya1281-1,18,bù kú cíɡísí,bù kú cíɡísí,[],,['chan2019'],,False,False,,1
+maya1281-1-19-1,,maya1281-1,19,bù kú sóosí,bù kú sóosí,[],,['chan2019'],,False,False,,1
+maya1281-1-20-1,,maya1281-1,20,bùró,bùró,[],,['chan2019'],,False,False,,1
+maya1281-1-21-1,,maya1281-1,21,bùró kú dɛ́nɛ́,bùró kú dɛ́nɛ́,[],,['chan2019'],,False,False,,1
+maya1281-1-22-1,,maya1281-1,22,bùró kú fúrá,bùró kú fúrá,[],,['chan2019'],,False,False,,1
+maya1281-1-23-1,,maya1281-1,23,bùró kú kàakú,bùró kú kàakú,[],,['chan2019'],,False,False,,1
+maya1281-1-24-1,,maya1281-1,24,bùró kú síirí,bùró kú síirí,[],,['chan2019'],,False,False,,1
+maya1281-1-25-1,,maya1281-1,25,bùró kú sɔ́ɔrɔ́,bùró kú sɔ́ɔrɔ́,[],,['chan2019'],,False,False,,1
+maya1281-1-26-1,,maya1281-1,26,bùró kú sɔ̀rɔ̀,bùró kú sɔ̀rɔ̀,[],,['chan2019'],,False,False,,1
+maya1281-1-27-1,,maya1281-1,27,bùró kú sɔ̀frá,bùró kú sɔ̀frá,[],,['chan2019'],,False,False,,1
+maya1281-1-28-1,,maya1281-1,28,bùró kú cíɡísí,bùró kú cíɡísí,[],,['chan2019'],,False,False,,1
+maya1281-1-29-1,,maya1281-1,29,bùró kú sóosí,bùró kú sóosí,[],,['chan2019'],,False,False,,1
+maya1281-1-30-1,,maya1281-1,30,bɔ̀ɔ̀ɡɔ́,bɔ̀ɔ̀ɡɔ́,[],,['chan2019'],,False,False,,1
+maya1281-1-40-1,,maya1281-1,40,bùùsí,bùùsí,[],,['chan2019'],,False,False,,1
+maya1281-1-50-1,,maya1281-1,50,bùùsí kúní bùú,bùùsí kúní bùú,[],( 40 + 10 ),['chan2019'],,False,False,,1
+maya1281-1-60-1,,maya1281-1,60,mã̀címiʔ,mã̀címiʔ,[],,['chan2019'],,False,False,,1
+maya1281-1-70-1,,maya1281-1,70,bùbáalí,bùbáalí,[],,['chan2019'],,False,False,,1
+maya1281-1-80-1,,maya1281-1,80,sã̀ paàbìrí,sã̀ paàbìrí,[],,['chan2019'],,False,False,,1
+maya1281-1-90-1,,maya1281-1,90,sã̀ paàbìrí kúní bùú,sã̀ paàbìrí kúní bùú,[],( 80 + 10 ),['chan2019'],,False,False,,1
+maya1281-1-100-1,,maya1281-1,100,paàbìrí,paàbìrí,[],,['chan2019'],,False,False,,1
+maya1281-1-200-1,,maya1281-1,200,bɛ̀frá,bɛ̀frá,[],,['chan2019'],,False,False,,1
+maya1281-1-1000-1,,maya1281-1,1000,pàdí,pàdí,[],,['chan2019'],,False,False,,1
+maya1281-1-2000-1,,maya1281-1,2000,pàdífrá,pàdífrá,[],,['chan2019'],,False,False,,1

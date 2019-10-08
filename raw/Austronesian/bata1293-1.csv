@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bata1293-1-1-1,,bata1293-1,1,sadə,sadə,[],,[],,False,False,,1
-bata1293-1-2-1,,bata1293-1,2,duə,duə,[],,[],,False,False,,1
-bata1293-1-3-1,,bata1293-1,3,təlu,təlu,[],,[],,False,False,,1
-bata1293-1-4-1,,bata1293-1,4,əmpat,əmpat,[],,[],,False,False,,1
-bata1293-1-5-1,,bata1293-1,5,limə,limə,[],,[],,False,False,,1
-bata1293-1-6-1,,bata1293-1,6,ənəm,ənəm,[],,[],,False,False,,1
-bata1293-1-7-1,,bata1293-1,7,pitu,pitu,[],,[],,False,False,,1
-bata1293-1-8-1,,bata1293-1,8,walu,walu,[],,[],,False,False,,1
-bata1293-1-9-1,,bata1293-1,9,siwah,siwah,[],,[],,False,False,,1
-bata1293-1-10-1,,bata1293-1,10,səpuluh,səpuluh,[],,[],,False,False,,1
-bata1293-1-11-1,,bata1293-1,11,səpuluh,səpuluh,[],,[],,False,False,,1
-bata1293-1-12-1,,bata1293-1,12,səpuluh,səpuluh,[],,[],,False,False,,1
-bata1293-1-13-1,,bata1293-1,13,səpuluh təlu bolas,səpuluh təlu bolas,[],,[],,False,False,,1
-bata1293-1-14-1,,bata1293-1,14,səpuluh opat bolas,səpuluh opat bolas,[],,[],,False,False,,1
-bata1293-1-15-1,,bata1293-1,15,səpuluh lima bolas,səpuluh lima bolas,[],,[],,False,False,,1
-bata1293-1-16-1,,bata1293-1,16,səpuluh onom bolas,səpuluh onom bolas,[],,[],,False,False,,1
-bata1293-1-17-1,,bata1293-1,17,səpuluh pitu bolas,səpuluh pitu bolas,[],,[],,False,False,,1
-bata1293-1-18-1,,bata1293-1,18,səpuluh lapan bolas,səpuluh lapan bolas,[],,[],,False,False,,1
-bata1293-1-19-1,,bata1293-1,19,səpuluh sambilan bolas,səpuluh sambilan bolas,[],,[],,False,False,,1
-bata1293-1-20-1,,bata1293-1,20,duə pulu,duə pulu,[],,[],,False,False,,1
-bata1293-1-21-1,,bata1293-1,21,duə pulu sada,duə pulu sada,[],,[],,False,False,,1
-bata1293-1-22-1,,bata1293-1,22,duə pulu duə,duə pulu duə,[],,[],,False,False,,1
-bata1293-1-23-1,,bata1293-1,23,duə pulu təlu,duə pulu təlu,[],,[],,False,False,,1
-bata1293-1-24-1,,bata1293-1,24,duə pulu opat,duə pulu opat,[],,[],,False,False,,1
-bata1293-1-25-1,,bata1293-1,25,duə pulu lima,duə pulu lima,[],,[],,False,False,,1
-bata1293-1-26-1,,bata1293-1,26,duə pulu onom,duə pulu onom,[],,[],,False,False,,1
-bata1293-1-27-1,,bata1293-1,27,duə pulu pitu,duə pulu pitu,[],,[],,False,False,,1
-bata1293-1-28-1,,bata1293-1,28,duə pulu lapan,duə pulu lapan,[],,[],,False,False,,1
-bata1293-1-29-1,,bata1293-1,29,duə pulu sambilan,duə pulu sambilan,[],,[],,False,False,,1
-bata1293-1-30-1,,bata1293-1,30,təlu pulu,təlu pulu,[],,[],,False,False,,1
-bata1293-1-40-1,,bata1293-1,40,opat pulu,opat pulu,[],,[],,False,False,,1
-bata1293-1-50-1,,bata1293-1,50,lima pulu,lima pulu,[],,[],,False,False,,1
-bata1293-1-60-1,,bata1293-1,60,onom pulu,onom pulu,[],,[],,False,False,,1
-bata1293-1-70-1,,bata1293-1,70,pitu pulu,pitu pulu,[],,[],,False,False,,1
-bata1293-1-80-1,,bata1293-1,80,lapan pulu,lapan pulu,[],,[],,False,False,,1
-bata1293-1-90-1,,bata1293-1,90,sambilan pulu,sambilan pulu,[],,[],,False,False,,1
-bata1293-1-100-1,,bata1293-1,100,saratus,saratus,[],,[],,False,False,,1
-bata1293-1-200-1,,bata1293-1,200,dua ratus,dua ratus,[],,[],,False,False,,1
-bata1293-1-1000-1,,bata1293-1,1000,saribu,saribu,[],,[],,False,False,,1
-bata1293-1-2000-1,,bata1293-1,2000,dua ribu,dua ribu,[],,[],,False,False,,1
+bata1293-1-1-1,,bata1293-1,1,sadə,sadə,[],,['chan2019'],,False,False,,1
+bata1293-1-2-1,,bata1293-1,2,duə,duə,[],,['chan2019'],,False,False,,1
+bata1293-1-3-1,,bata1293-1,3,təlu,təlu,[],,['chan2019'],,False,False,,1
+bata1293-1-4-1,,bata1293-1,4,əmpat,əmpat,[],,['chan2019'],,False,False,,1
+bata1293-1-5-1,,bata1293-1,5,limə,limə,[],,['chan2019'],,False,False,,1
+bata1293-1-6-1,,bata1293-1,6,ənəm,ənəm,[],,['chan2019'],,False,False,,1
+bata1293-1-7-1,,bata1293-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+bata1293-1-8-1,,bata1293-1,8,walu,walu,[],,['chan2019'],,False,False,,1
+bata1293-1-9-1,,bata1293-1,9,siwah,siwah,[],,['chan2019'],,False,False,,1
+bata1293-1-10-1,,bata1293-1,10,səpuluh,səpuluh,[],,['chan2019'],,False,False,,1
+bata1293-1-11-1,,bata1293-1,11,səpuluh,səpuluh,[],,['chan2019'],,False,False,,1
+bata1293-1-12-1,,bata1293-1,12,səpuluh,səpuluh,[],,['chan2019'],,False,False,,1
+bata1293-1-13-1,,bata1293-1,13,səpuluh təlu bolas,səpuluh təlu bolas,[],,['chan2019'],,False,False,,1
+bata1293-1-14-1,,bata1293-1,14,səpuluh opat bolas,səpuluh opat bolas,[],,['chan2019'],,False,False,,1
+bata1293-1-15-1,,bata1293-1,15,səpuluh lima bolas,səpuluh lima bolas,[],,['chan2019'],,False,False,,1
+bata1293-1-16-1,,bata1293-1,16,səpuluh onom bolas,səpuluh onom bolas,[],,['chan2019'],,False,False,,1
+bata1293-1-17-1,,bata1293-1,17,səpuluh pitu bolas,səpuluh pitu bolas,[],,['chan2019'],,False,False,,1
+bata1293-1-18-1,,bata1293-1,18,səpuluh lapan bolas,səpuluh lapan bolas,[],,['chan2019'],,False,False,,1
+bata1293-1-19-1,,bata1293-1,19,səpuluh sambilan bolas,səpuluh sambilan bolas,[],,['chan2019'],,False,False,,1
+bata1293-1-20-1,,bata1293-1,20,duə pulu,duə pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-21-1,,bata1293-1,21,duə pulu sada,duə pulu sada,[],,['chan2019'],,False,False,,1
+bata1293-1-22-1,,bata1293-1,22,duə pulu duə,duə pulu duə,[],,['chan2019'],,False,False,,1
+bata1293-1-23-1,,bata1293-1,23,duə pulu təlu,duə pulu təlu,[],,['chan2019'],,False,False,,1
+bata1293-1-24-1,,bata1293-1,24,duə pulu opat,duə pulu opat,[],,['chan2019'],,False,False,,1
+bata1293-1-25-1,,bata1293-1,25,duə pulu lima,duə pulu lima,[],,['chan2019'],,False,False,,1
+bata1293-1-26-1,,bata1293-1,26,duə pulu onom,duə pulu onom,[],,['chan2019'],,False,False,,1
+bata1293-1-27-1,,bata1293-1,27,duə pulu pitu,duə pulu pitu,[],,['chan2019'],,False,False,,1
+bata1293-1-28-1,,bata1293-1,28,duə pulu lapan,duə pulu lapan,[],,['chan2019'],,False,False,,1
+bata1293-1-29-1,,bata1293-1,29,duə pulu sambilan,duə pulu sambilan,[],,['chan2019'],,False,False,,1
+bata1293-1-30-1,,bata1293-1,30,təlu pulu,təlu pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-40-1,,bata1293-1,40,opat pulu,opat pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-50-1,,bata1293-1,50,lima pulu,lima pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-60-1,,bata1293-1,60,onom pulu,onom pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-70-1,,bata1293-1,70,pitu pulu,pitu pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-80-1,,bata1293-1,80,lapan pulu,lapan pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-90-1,,bata1293-1,90,sambilan pulu,sambilan pulu,[],,['chan2019'],,False,False,,1
+bata1293-1-100-1,,bata1293-1,100,saratus,saratus,[],,['chan2019'],,False,False,,1
+bata1293-1-200-1,,bata1293-1,200,dua ratus,dua ratus,[],,['chan2019'],,False,False,,1
+bata1293-1-1000-1,,bata1293-1,1000,saribu,saribu,[],,['chan2019'],,False,False,,1
+bata1293-1-2000-1,,bata1293-1,2000,dua ribu,dua ribu,[],,['chan2019'],,False,False,,1

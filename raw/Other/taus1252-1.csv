@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-taus1252-1-1-1,,taus1252-1,1,iraɣe,iraɣe,[],,[],,False,False,,1
-taus1252-1-2-1,,taus1252-1,2,ɸido,ɸido,[],,[],,False,False,,1
-taus1252-1-3-1,,taus1252-1,3,ɸido iraɣe,ɸido iraɣe,[],,[],,False,False,,1
-taus1252-1-4-1,,taus1252-1,4,ɸido ɸido,ɸido ɸido,[],,[],,False,False,,1
+taus1252-1-1-1,,taus1252-1,1,iraɣe,iraɣe,[],,['chan2019'],,False,False,,1
+taus1252-1-2-1,,taus1252-1,2,ɸido,ɸido,[],,['chan2019'],,False,False,,1
+taus1252-1-3-1,,taus1252-1,3,ɸido iraɣe,ɸido iraɣe,[],,['chan2019'],,False,False,,1
+taus1252-1-4-1,,taus1252-1,4,ɸido ɸido,ɸido ɸido,[],,['chan2019'],,False,False,,1

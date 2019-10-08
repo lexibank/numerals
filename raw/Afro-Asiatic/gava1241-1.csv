@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gava1241-1-1-1,,gava1241-1,1,ŋ̀tɑ́t̚,ŋ̀tɑ́t̚,[],,[],,False,False,,1
-gava1241-1-2-1,,gava1241-1,2,ɡ͡bɑ̀k,ɡ͡bɑ̀k,[],,[],,False,False,,1
-gava1241-1-3-1,,gava1241-1,3,mɑ̄xkɑ̀t̚,mɑ̄xkɑ̀t̚,[],,[],,False,False,,1
-gava1241-1-4-1,,gava1241-1,4,ŋ̀fɑ̄t̚,ŋ̀fɑ̄t̚,[],,[],,False,False,,1
-gava1241-1-5-1,,gava1241-1,5,dzɑ̄ɓə̄n,dzɑ̄ɓə̄n,[],,[],,False,False,,1
-gava1241-1-6-1,,gava1241-1,6,ŋ̀kʷɑ́x,ŋ̀kʷɑ́x,[],,[],,False,False,,1
-gava1241-1-7-1,,gava1241-1,7,ŋ̀ʃɪ́lít̚,ŋ̀ʃɪ́lít̚,[],,[],,False,False,,1
-gava1241-1-8-1,,gava1241-1,8,dzɑ̄mɑ̄xkɑ̄t̚,dzɑ̄mɑ̄xkɑ̄t̚,[],( 5 + 3 ),[],,False,False,,1
-gava1241-1-9-1,,gava1241-1,9,dzɑ́ŋfɑ́t̚,dzɑ́ŋfɑ́t̚,[],( 5 + 4 ),[],,False,False,,1
-gava1241-1-10-1,,gava1241-1,10,wɑ̄m,wɑ̄m,[],,[],,False,False,,1
-gava1241-1-11-1,,gava1241-1,11,wɑ̄m ɑ́hɑ̄ ŋ̀tɑ́t̚,wɑ̄m ɑ́hɑ̄ ŋ̀tɑ́t̚,[],,[],,False,False,,1
-gava1241-1-12-1,,gava1241-1,12,wɑ̄m ɑ́hɑ̄ ɡ͡bɑ́k,wɑ̄m ɑ́hɑ̄ ɡ͡bɑ́k,[],,[],,False,False,,1
-gava1241-1-13-1,,gava1241-1,13,wɑ̄m ɑ́hɑ̄ mɑ̄xkɑ̀t̚,wɑ̄m ɑ́hɑ̄ mɑ̄xkɑ̀t̚,[],,[],,False,False,,1
-gava1241-1-14-1,,gava1241-1,14,wɑ̄m ɑ́hɑ̄ ŋ̀fɑ̄t̚,wɑ̄m ɑ́hɑ̄ ŋ̀fɑ̄t̚,[],,[],,False,False,,1
-gava1241-1-15-1,,gava1241-1,15,wɑ̄m ɑ́hɑ̄ dzɑ̄ɓə̄n,wɑ̄m ɑ́hɑ̄ dzɑ̄ɓə̄n,[],,[],,False,False,,1
-gava1241-1-16-1,,gava1241-1,16,wɑ̄m ɑ́hɑ̄ ŋ̀kʷɑ́x,wɑ̄m ɑ́hɑ̄ ŋ̀kʷɑ́x,[],,[],,False,False,,1
-gava1241-1-17-1,,gava1241-1,17,wɑ̄m ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,wɑ̄m ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,[],,[],,False,False,,1
-gava1241-1-18-1,,gava1241-1,18,wɑ̄m ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,wɑ̄m ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,[],,[],,False,False,,1
-gava1241-1-19-1,,gava1241-1,19,wɑ̄m ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,wɑ̄m ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,[],,[],,False,False,,1
-gava1241-1-20-1,,gava1241-1,20,rɑ̀ɡ͡bɑ̀k,rɑ̀ɡ͡bɑ̀k,[],,[],,False,False,,1
-gava1241-1-21-1,,gava1241-1,21,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀tɑ́t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀tɑ́t̚,[],,[],,False,False,,1
-gava1241-1-22-1,,gava1241-1,22,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ɡ͡bɑ̀k,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ɡ͡bɑ̀k,[],,[],,False,False,,1
-gava1241-1-23-1,,gava1241-1,23,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ mɑ̄xkɑ́t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ mɑ̄xkɑ́t̚,[],,[],,False,False,,1
-gava1241-1-24-1,,gava1241-1,24,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀fɑ̄t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀fɑ̄t̚,[],,[],,False,False,,1
-gava1241-1-25-1,,gava1241-1,25,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄ɓə̄n,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄ɓə̄n,[],,[],,False,False,,1
-gava1241-1-26-1,,gava1241-1,26,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀kʷɑ́x,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀kʷɑ́x,[],,[],,False,False,,1
-gava1241-1-27-1,,gava1241-1,27,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,[],,[],,False,False,,1
-gava1241-1-28-1,,gava1241-1,28,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,[],,[],,False,False,,1
-gava1241-1-29-1,,gava1241-1,29,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,[],,[],,False,False,,1
-gava1241-1-30-1,,gava1241-1,30,rɑ̀mɑ̄xkɑ̄t̚,rɑ̀mɑ̄xkɑ̄t̚,[],,[],,False,False,,1
-gava1241-1-40-1,,gava1241-1,40,rɑ̀ŋfɑ́t̚,rɑ̀ŋfɑ́t̚,[],,[],,False,False,,1
-gava1241-1-50-1,,gava1241-1,50,rɑ̀dzɑ̄ɓə̄n,rɑ̀dzɑ̄ɓə̄n,[],,[],,False,False,,1
-gava1241-1-60-1,,gava1241-1,60,rɑ̀ŋkʷɑ́x,rɑ̀ŋkʷɑ́x,[],,[],,False,False,,1
-gava1241-1-70-1,,gava1241-1,70,rɑ̀ŋʃɪ́lɪ́t̚,rɑ̀ŋʃɪ́lɪ́t̚,[],,[],,False,False,,1
-gava1241-1-80-1,,gava1241-1,80,rɑ̀dzɑ̄mɑ̄xkɑ̄t̚,rɑ̀dzɑ̄mɑ̄xkɑ̄t̚,[],,[],,False,False,,1
-gava1241-1-90-1,,gava1241-1,90,rɑ̀dzɑ́ŋfɑ́t̚,rɑ̀dzɑ́ŋfɑ́t̚,[],,[],,False,False,,1
-gava1241-1-100-1,,gava1241-1,100,tɛ̄ːmɛ̄rɛ̄,tɛ̄ːmɛ̄rɛ̄,[],< Fulfulde loan ,[],,True,False,,1
-gava1241-1-200-1,,gava1241-1,200,tɛ̄ːmɛ̄rɛ̄ ɡ͡bɑ̀k,tɛ̄ːmɛ̄rɛ̄ ɡ͡bɑ̀k,[],,[],,False,False,,1
-gava1241-1-1000-1,,gava1241-1,1000,tɛ̄ːmɛ̄rɛ̄ wɑ̄m,tɛ̄ːmɛ̄rɛ̄ wɑ̄m,[],,[],,False,False,,1
+gava1241-1-1-1,,gava1241-1,1,ŋ̀tɑ́t̚,ŋ̀tɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-2-1,,gava1241-1,2,ɡ͡bɑ̀k,ɡ͡bɑ̀k,[],,['chan2019'],,False,False,,1
+gava1241-1-3-1,,gava1241-1,3,mɑ̄xkɑ̀t̚,mɑ̄xkɑ̀t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-4-1,,gava1241-1,4,ŋ̀fɑ̄t̚,ŋ̀fɑ̄t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-5-1,,gava1241-1,5,dzɑ̄ɓə̄n,dzɑ̄ɓə̄n,[],,['chan2019'],,False,False,,1
+gava1241-1-6-1,,gava1241-1,6,ŋ̀kʷɑ́x,ŋ̀kʷɑ́x,[],,['chan2019'],,False,False,,1
+gava1241-1-7-1,,gava1241-1,7,ŋ̀ʃɪ́lít̚,ŋ̀ʃɪ́lít̚,[],,['chan2019'],,False,False,,1
+gava1241-1-8-1,,gava1241-1,8,dzɑ̄mɑ̄xkɑ̄t̚,dzɑ̄mɑ̄xkɑ̄t̚,[],( 5 + 3 ),['chan2019'],,False,False,,1
+gava1241-1-9-1,,gava1241-1,9,dzɑ́ŋfɑ́t̚,dzɑ́ŋfɑ́t̚,[],( 5 + 4 ),['chan2019'],,False,False,,1
+gava1241-1-10-1,,gava1241-1,10,wɑ̄m,wɑ̄m,[],,['chan2019'],,False,False,,1
+gava1241-1-11-1,,gava1241-1,11,wɑ̄m ɑ́hɑ̄ ŋ̀tɑ́t̚,wɑ̄m ɑ́hɑ̄ ŋ̀tɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-12-1,,gava1241-1,12,wɑ̄m ɑ́hɑ̄ ɡ͡bɑ́k,wɑ̄m ɑ́hɑ̄ ɡ͡bɑ́k,[],,['chan2019'],,False,False,,1
+gava1241-1-13-1,,gava1241-1,13,wɑ̄m ɑ́hɑ̄ mɑ̄xkɑ̀t̚,wɑ̄m ɑ́hɑ̄ mɑ̄xkɑ̀t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-14-1,,gava1241-1,14,wɑ̄m ɑ́hɑ̄ ŋ̀fɑ̄t̚,wɑ̄m ɑ́hɑ̄ ŋ̀fɑ̄t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-15-1,,gava1241-1,15,wɑ̄m ɑ́hɑ̄ dzɑ̄ɓə̄n,wɑ̄m ɑ́hɑ̄ dzɑ̄ɓə̄n,[],,['chan2019'],,False,False,,1
+gava1241-1-16-1,,gava1241-1,16,wɑ̄m ɑ́hɑ̄ ŋ̀kʷɑ́x,wɑ̄m ɑ́hɑ̄ ŋ̀kʷɑ́x,[],,['chan2019'],,False,False,,1
+gava1241-1-17-1,,gava1241-1,17,wɑ̄m ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,wɑ̄m ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,[],,['chan2019'],,False,False,,1
+gava1241-1-18-1,,gava1241-1,18,wɑ̄m ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,wɑ̄m ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-19-1,,gava1241-1,19,wɑ̄m ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,wɑ̄m ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-20-1,,gava1241-1,20,rɑ̀ɡ͡bɑ̀k,rɑ̀ɡ͡bɑ̀k,[],,['chan2019'],,False,False,,1
+gava1241-1-21-1,,gava1241-1,21,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀tɑ́t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀tɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-22-1,,gava1241-1,22,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ɡ͡bɑ̀k,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ɡ͡bɑ̀k,[],,['chan2019'],,False,False,,1
+gava1241-1-23-1,,gava1241-1,23,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ mɑ̄xkɑ́t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ mɑ̄xkɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-24-1,,gava1241-1,24,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀fɑ̄t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀fɑ̄t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-25-1,,gava1241-1,25,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄ɓə̄n,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄ɓə̄n,[],,['chan2019'],,False,False,,1
+gava1241-1-26-1,,gava1241-1,26,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀kʷɑ́x,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀kʷɑ́x,[],,['chan2019'],,False,False,,1
+gava1241-1-27-1,,gava1241-1,27,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ ŋ̀ʃɪ́lít̚,[],,['chan2019'],,False,False,,1
+gava1241-1-28-1,,gava1241-1,28,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ̄mɑ̄xkɑ̄t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-29-1,,gava1241-1,29,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,rɑ̀ɡ͡bɑ̀k ɑ́hɑ̄ dzɑ́ŋfɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-30-1,,gava1241-1,30,rɑ̀mɑ̄xkɑ̄t̚,rɑ̀mɑ̄xkɑ̄t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-40-1,,gava1241-1,40,rɑ̀ŋfɑ́t̚,rɑ̀ŋfɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-50-1,,gava1241-1,50,rɑ̀dzɑ̄ɓə̄n,rɑ̀dzɑ̄ɓə̄n,[],,['chan2019'],,False,False,,1
+gava1241-1-60-1,,gava1241-1,60,rɑ̀ŋkʷɑ́x,rɑ̀ŋkʷɑ́x,[],,['chan2019'],,False,False,,1
+gava1241-1-70-1,,gava1241-1,70,rɑ̀ŋʃɪ́lɪ́t̚,rɑ̀ŋʃɪ́lɪ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-80-1,,gava1241-1,80,rɑ̀dzɑ̄mɑ̄xkɑ̄t̚,rɑ̀dzɑ̄mɑ̄xkɑ̄t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-90-1,,gava1241-1,90,rɑ̀dzɑ́ŋfɑ́t̚,rɑ̀dzɑ́ŋfɑ́t̚,[],,['chan2019'],,False,False,,1
+gava1241-1-100-1,,gava1241-1,100,tɛ̄ːmɛ̄rɛ̄,tɛ̄ːmɛ̄rɛ̄,[],< Fulfulde loan ,['chan2019'],,True,False,,1
+gava1241-1-200-1,,gava1241-1,200,tɛ̄ːmɛ̄rɛ̄ ɡ͡bɑ̀k,tɛ̄ːmɛ̄rɛ̄ ɡ͡bɑ̀k,[],,['chan2019'],,False,False,,1
+gava1241-1-1000-1,,gava1241-1,1000,tɛ̄ːmɛ̄rɛ̄ wɑ̄m,tɛ̄ːmɛ̄rɛ̄ wɑ̄m,[],,['chan2019'],,False,False,,1

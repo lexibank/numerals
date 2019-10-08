@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-orej1242-2-1-1,,orej1242-2,1,te,te,[],,[],,False,False,,2
-orej1242-2-2-1,,orej1242-2,2,tepe,tepe,[],,[],,False,False,,2
-orej1242-2-3-1,,orej1242-2,3,baba,baba,[],,[],,False,False,,2
-orej1242-2-4-1,,orej1242-2,4,bɨ̠o̠yo,bɨ̠o̠yo,[],,[],,False,False,,2
-orej1242-2-5-1,,orej1242-2,5,hɨ̠tɨdea,hɨ̠tɨdea,[],( litː ''one hand'' ),[],,False,False,,2
-orej1242-2-6-1,,orej1242-2,6,yeke hɨ̠tɨ te,yeke hɨ̠tɨ te,[],"( litː ''other hand, one'' )",[],,False,False,,2
-orej1242-2-7-1,,orej1242-2,7,yeke hɨ̠tɨ tepe,yeke hɨ̠tɨ tepe,[],"( litː ''other hand, two'' )",[],,False,False,,2
-orej1242-2-8-1,,orej1242-2,8,yeke hɨ̠tɨ baba,yeke hɨ̠tɨ baba,[],"( litː ''other hand, three'' )",[],,False,False,,2
-orej1242-2-9-1,,orej1242-2,9,yeke hɨ̠tɨ bɨ̠o̠yo,yeke hɨ̠tɨ bɨ̠o̠yo,[],"( litː ''other hand, four'' )",[],,False,False,,2
-orej1242-2-10-1,,orej1242-2,10,hɨ̠tɨba̠dea,hɨ̠tɨba̠dea,[],( litː ''hands-plural'' ),[],,False,False,,2
-orej1242-2-11-1,,orej1242-2,11,ˀɨ̠o te,ˀɨ̠o te,[],"( litː ''foot, one'' )",[],,False,False,,2
-orej1242-2-12-1,,orej1242-2,12,ˀɨ̠o tepe,ˀɨ̠o tepe,[],"( litː ''foot, two'' )",[],,False,False,,2
-orej1242-2-13-1,,orej1242-2,13,ˀɨ̠o baba,ˀɨ̠o baba,[],"( litː ''foot, three'' )",[],,False,False,,2
-orej1242-2-14-1,,orej1242-2,14,ˀɨ̠o bɨ̠o̠yo,ˀɨ̠o bɨ̠o̠yo,[],"( litː ''foot, four'' )",[],,False,False,,2
-orej1242-2-15-1,,orej1242-2,15,ˀɨ̠odea,ˀɨ̠odea,[],( litː ''one foot'' ),[],,False,False,,2
-orej1242-2-16-1,,orej1242-2,16,yeke ˀɨ̠o te,yeke ˀɨ̠o te,[],"( litː ''other foot, one'' )",[],,False,False,,2
-orej1242-2-17-1,,orej1242-2,17,yeke ˀɨ̠o tepe,yeke ˀɨ̠o tepe,[],"( litː ''other foot, two'' )",[],,False,False,,2
-orej1242-2-18-1,,orej1242-2,18,yeke ˀɨ̠o baba,yeke ˀɨ̠o baba,[],"( litː ''other foot, three'' )",[],,False,False,,2
-orej1242-2-19-1,,orej1242-2,19,yeke ˀɨ̠o bɨ̠o̠yo,yeke ˀɨ̠o bɨ̠o̠yo,[],"( litː ''other foot, four'' )",[],,False,False,,2
-orej1242-2-20-1,,orej1242-2,20,ˀɨ̠oba̠dea,ˀɨ̠oba̠dea,[],( litː ''feet'' ),[],,False,False,,2
+orej1242-2-1-1,,orej1242-2,1,te,te,[],,['chan2019'],,False,False,,2
+orej1242-2-2-1,,orej1242-2,2,tepe,tepe,[],,['chan2019'],,False,False,,2
+orej1242-2-3-1,,orej1242-2,3,baba,baba,[],,['chan2019'],,False,False,,2
+orej1242-2-4-1,,orej1242-2,4,bɨ̠o̠yo,bɨ̠o̠yo,[],,['chan2019'],,False,False,,2
+orej1242-2-5-1,,orej1242-2,5,hɨ̠tɨdea,hɨ̠tɨdea,[],( litː ''one hand'' ),['chan2019'],,False,False,,2
+orej1242-2-6-1,,orej1242-2,6,yeke hɨ̠tɨ te,yeke hɨ̠tɨ te,[],"( litː ''other hand, one'' )",['chan2019'],,False,False,,2
+orej1242-2-7-1,,orej1242-2,7,yeke hɨ̠tɨ tepe,yeke hɨ̠tɨ tepe,[],"( litː ''other hand, two'' )",['chan2019'],,False,False,,2
+orej1242-2-8-1,,orej1242-2,8,yeke hɨ̠tɨ baba,yeke hɨ̠tɨ baba,[],"( litː ''other hand, three'' )",['chan2019'],,False,False,,2
+orej1242-2-9-1,,orej1242-2,9,yeke hɨ̠tɨ bɨ̠o̠yo,yeke hɨ̠tɨ bɨ̠o̠yo,[],"( litː ''other hand, four'' )",['chan2019'],,False,False,,2
+orej1242-2-10-1,,orej1242-2,10,hɨ̠tɨba̠dea,hɨ̠tɨba̠dea,[],( litː ''hands-plural'' ),['chan2019'],,False,False,,2
+orej1242-2-11-1,,orej1242-2,11,ˀɨ̠o te,ˀɨ̠o te,[],"( litː ''foot, one'' )",['chan2019'],,False,False,,2
+orej1242-2-12-1,,orej1242-2,12,ˀɨ̠o tepe,ˀɨ̠o tepe,[],"( litː ''foot, two'' )",['chan2019'],,False,False,,2
+orej1242-2-13-1,,orej1242-2,13,ˀɨ̠o baba,ˀɨ̠o baba,[],"( litː ''foot, three'' )",['chan2019'],,False,False,,2
+orej1242-2-14-1,,orej1242-2,14,ˀɨ̠o bɨ̠o̠yo,ˀɨ̠o bɨ̠o̠yo,[],"( litː ''foot, four'' )",['chan2019'],,False,False,,2
+orej1242-2-15-1,,orej1242-2,15,ˀɨ̠odea,ˀɨ̠odea,[],( litː ''one foot'' ),['chan2019'],,False,False,,2
+orej1242-2-16-1,,orej1242-2,16,yeke ˀɨ̠o te,yeke ˀɨ̠o te,[],"( litː ''other foot, one'' )",['chan2019'],,False,False,,2
+orej1242-2-17-1,,orej1242-2,17,yeke ˀɨ̠o tepe,yeke ˀɨ̠o tepe,[],"( litː ''other foot, two'' )",['chan2019'],,False,False,,2
+orej1242-2-18-1,,orej1242-2,18,yeke ˀɨ̠o baba,yeke ˀɨ̠o baba,[],"( litː ''other foot, three'' )",['chan2019'],,False,False,,2
+orej1242-2-19-1,,orej1242-2,19,yeke ˀɨ̠o bɨ̠o̠yo,yeke ˀɨ̠o bɨ̠o̠yo,[],"( litː ''other foot, four'' )",['chan2019'],,False,False,,2
+orej1242-2-20-1,,orej1242-2,20,ˀɨ̠oba̠dea,ˀɨ̠oba̠dea,[],( litː ''feet'' ),['chan2019'],,False,False,,2

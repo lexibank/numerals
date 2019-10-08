@@ -1,60 +1,60 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-suoy1242-1-1-1,,suoy1242-1,1,muːj,muːj,[],,[],,False,False,,1
-suoy1242-1-1-2,,suoy1242-1,1,muːˀj,muːˀj,[],(secondː JD Crowley),[],,False,False,,1
-suoy1242-1-2-1,,suoy1242-1,2,par,par,[],,[],,False,False,,1
-suoy1242-1-2-2,,suoy1242-1,2,paˀa,paˀa,[],,[],,False,False,,1
-suoy1242-1-3-1,,suoy1242-1,3,pʰeˀj,pʰeˀj,[],,[],,False,False,,1
-suoy1242-1-3-2,,suoy1242-1,3,pʰɛˀi,pʰɛˀi,[],,[],,False,False,,1
-suoy1242-1-4-1,,suoy1242-1,4,pʰɔun,pʰɔun,[],,[],,False,False,,1
-suoy1242-1-4-2,,suoy1242-1,4,pʰouˀn,pʰouˀn,[],,[],,False,False,,1
-suoy1242-1-5-1,,suoy1242-1,5,pʰram,pʰram,[],,[],,False,False,,1
-suoy1242-1-5-2,,suoy1242-1,5,pram,pram,[],,[],,False,False,,1
-suoy1242-1-6-1,,suoy1242-1,6,kʰdaːŋ,kʰdaːŋ,[],,[],,False,False,,1
-suoy1242-1-6-2,,suoy1242-1,6,kadɔːŋ,kadɔːŋ,[],,[],,False,False,,1
-suoy1242-1-7-1,,suoy1242-1,7,kʰnuːl,kʰnuːl,[],,[],,False,False,,1
-suoy1242-1-7-2,,suoy1242-1,7,knuːl,knuːl,[],,[],,False,False,,1
-suoy1242-1-8-1,,suoy1242-1,8,kratej,kratej,[],,[],,False,False,,1
-suoy1242-1-8-2,,suoy1242-1,8,kləj,kləj,[],,[],,False,False,,1
-suoy1242-1-9-1,,suoy1242-1,9,kansar,kansar,[],,[],,False,False,,1
-suoy1242-1-9-2,,suoy1242-1,9,kaɲsaː,kaɲsaː,[],,[],,False,False,,1
-suoy1242-1-10-1,,suoy1242-1,10,raːj,raːj,[],,[],,False,False,,1
-suoy1242-1-10-2,,suoy1242-1,10,raːj,raːj,[],,[],,False,False,,1
-suoy1242-1-11-1,,suoy1242-1,11,raːj muːj,raːj muːj,[],,[],,False,False,,1
-suoy1242-1-11-2,,suoy1242-1,11,məˀ dɔndɔp,məˀ dɔndɔp,[],,[],,False,False,,1
-suoy1242-1-12-1,,suoy1242-1,12,raːj par,raːj par,[],,[],,False,False,,1
-suoy1242-1-12-2,,suoy1242-1,12,piː dɔndɔp,piː dɔndɔp,[],,[],,False,False,,1
-suoy1242-1-13-1,,suoy1242-1,13,raːj pʰeˀj,raːj pʰeˀj,[],,[],,False,False,,1
-suoy1242-1-13-2,,suoy1242-1,13,bəj dɔndɔp,bəj dɔndɔp,[],,[],,False,False,,1
-suoy1242-1-14-1,,suoy1242-1,14,raːj pʰɔuːn,raːj pʰɔuːn,[],,[],,False,False,,1
-suoy1242-1-14-2,,suoy1242-1,14,buəndɔndɔp,buəndɔndɔp,[],,[],,False,False,,1
-suoy1242-1-15-1,,suoy1242-1,15,raːj pʰram,raːj pʰram,[],,[],,False,False,,1
-suoy1242-1-15-2,,suoy1242-1,15,dɑp pram,dɑp pram,[],,[],,False,False,,1
-suoy1242-1-16-1,,suoy1242-1,16,raːj kʰdaːŋ,raːj kʰdaːŋ,[],,[],,False,False,,1
-suoy1242-1-16-2,,suoy1242-1,16,dɑp prammuəj,dɑp prammuəj,[],,[],,False,False,,1
-suoy1242-1-17-1,,suoy1242-1,17,raːj kʰnuːl,raːj kʰnuːl,[],,[],,False,False,,1
-suoy1242-1-17-2,,suoy1242-1,17,dɑp prampiː,dɑp prampiː,[],,[],,False,False,,1
-suoy1242-1-18-1,,suoy1242-1,18,raːj kratej,raːj kratej,[],,[],,False,False,,1
-suoy1242-1-18-2,,suoy1242-1,18,dɑp prambəj,dɑp prambəj,[],,[],,False,False,,1
-suoy1242-1-19-1,,suoy1242-1,19,raːj kansar,raːj kansar,[],,[],,False,False,,1
-suoy1242-1-19-2,,suoy1242-1,19,dɑp prambuən,dɑp prambuən,[],,[],,False,False,,1
-suoy1242-1-20-1,,suoy1242-1,20,məpʰei,məpʰei,[],< Khmer ,[],,True,False,,1
-suoy1242-1-21-1,,suoy1242-1,21,məpʰei muəj,məpʰei muəj,[],,[],,False,False,,1
-suoy1242-1-22-1,,suoy1242-1,22,məpʰei piː,məpʰei piː,[],,[],,False,False,,1
-suoy1242-1-23-1,,suoy1242-1,23,məpʰei bəj,məpʰei bəj,[],,[],,False,False,,1
-suoy1242-1-24-1,,suoy1242-1,24,məpʰei buən,məpʰei buən,[],,[],,False,False,,1
-suoy1242-1-25-1,,suoy1242-1,25,məpʰei pram,məpʰei pram,[],,[],,False,False,,1
-suoy1242-1-26-1,,suoy1242-1,26,məpʰei prammuəj,məpʰei prammuəj,[],,[],,False,False,,1
-suoy1242-1-27-1,,suoy1242-1,27,məpʰei prampii,məpʰei prampii,[],,[],,False,False,,1
-suoy1242-1-28-1,,suoy1242-1,28,məpʰei prambəj,məpʰei prambəj,[],,[],,False,False,,1
-suoy1242-1-29-1,,suoy1242-1,29,məpʰei prambuən,məpʰei prambuən,[],,[],,False,False,,1
-suoy1242-1-30-1,,suoy1242-1,30,samsɤp,samsɤp,[],,[],,False,False,,1
-suoy1242-1-40-1,,suoy1242-1,40,saːɛsɤp,saːɛsɤp,[],,[],,False,False,,1
-suoy1242-1-50-1,,suoy1242-1,50,haːsɤp,haːsɤp,[],,[],,False,False,,1
-suoy1242-1-60-1,,suoy1242-1,60,hɔʷksɤp,hɔʷksɤp,[],,[],,False,False,,1
-suoy1242-1-70-1,,suoy1242-1,70,t͡ʃɤtsɤp,t͡ʃɤtsɤp,[],,[],,False,False,,1
-suoy1242-1-80-1,,suoy1242-1,80,paːɛsɤp,paːɛsɤp,[],,[],,False,False,,1
-suoy1242-1-90-1,,suoy1242-1,90,kaːwsɤp,kaːwsɤp,[],,[],,False,False,,1
-suoy1242-1-100-1,,suoy1242-1,100,mərɔːj,mərɔːj,[],,[],,False,False,,1
-suoy1242-1-200-1,,suoy1242-1,200,piː rɔːj,piː rɔːj,[],,[],,False,False,,1
-suoy1242-1-1000-1,,suoy1242-1,1000,məpɔən,məpɔən,[],,[],,False,False,,1
-suoy1242-1-2000-1,,suoy1242-1,2000,piː pɔən,piː pɔən,[],,[],,False,False,,1
+suoy1242-1-1-1,,suoy1242-1,1,muːj,muːj,[],,['chan2019'],,False,False,,1
+suoy1242-1-1-2,,suoy1242-1,1,muːˀj,muːˀj,[],(secondː JD Crowley),['chan2019'],,False,False,,1
+suoy1242-1-2-1,,suoy1242-1,2,par,par,[],,['chan2019'],,False,False,,1
+suoy1242-1-2-2,,suoy1242-1,2,paˀa,paˀa,[],,['chan2019'],,False,False,,1
+suoy1242-1-3-1,,suoy1242-1,3,pʰeˀj,pʰeˀj,[],,['chan2019'],,False,False,,1
+suoy1242-1-3-2,,suoy1242-1,3,pʰɛˀi,pʰɛˀi,[],,['chan2019'],,False,False,,1
+suoy1242-1-4-1,,suoy1242-1,4,pʰɔun,pʰɔun,[],,['chan2019'],,False,False,,1
+suoy1242-1-4-2,,suoy1242-1,4,pʰouˀn,pʰouˀn,[],,['chan2019'],,False,False,,1
+suoy1242-1-5-1,,suoy1242-1,5,pʰram,pʰram,[],,['chan2019'],,False,False,,1
+suoy1242-1-5-2,,suoy1242-1,5,pram,pram,[],,['chan2019'],,False,False,,1
+suoy1242-1-6-1,,suoy1242-1,6,kʰdaːŋ,kʰdaːŋ,[],,['chan2019'],,False,False,,1
+suoy1242-1-6-2,,suoy1242-1,6,kadɔːŋ,kadɔːŋ,[],,['chan2019'],,False,False,,1
+suoy1242-1-7-1,,suoy1242-1,7,kʰnuːl,kʰnuːl,[],,['chan2019'],,False,False,,1
+suoy1242-1-7-2,,suoy1242-1,7,knuːl,knuːl,[],,['chan2019'],,False,False,,1
+suoy1242-1-8-1,,suoy1242-1,8,kratej,kratej,[],,['chan2019'],,False,False,,1
+suoy1242-1-8-2,,suoy1242-1,8,kləj,kləj,[],,['chan2019'],,False,False,,1
+suoy1242-1-9-1,,suoy1242-1,9,kansar,kansar,[],,['chan2019'],,False,False,,1
+suoy1242-1-9-2,,suoy1242-1,9,kaɲsaː,kaɲsaː,[],,['chan2019'],,False,False,,1
+suoy1242-1-10-1,,suoy1242-1,10,raːj,raːj,[],,['chan2019'],,False,False,,1
+suoy1242-1-10-2,,suoy1242-1,10,raːj,raːj,[],,['chan2019'],,False,False,,1
+suoy1242-1-11-1,,suoy1242-1,11,raːj muːj,raːj muːj,[],,['chan2019'],,False,False,,1
+suoy1242-1-11-2,,suoy1242-1,11,məˀ dɔndɔp,məˀ dɔndɔp,[],,['chan2019'],,False,False,,1
+suoy1242-1-12-1,,suoy1242-1,12,raːj par,raːj par,[],,['chan2019'],,False,False,,1
+suoy1242-1-12-2,,suoy1242-1,12,piː dɔndɔp,piː dɔndɔp,[],,['chan2019'],,False,False,,1
+suoy1242-1-13-1,,suoy1242-1,13,raːj pʰeˀj,raːj pʰeˀj,[],,['chan2019'],,False,False,,1
+suoy1242-1-13-2,,suoy1242-1,13,bəj dɔndɔp,bəj dɔndɔp,[],,['chan2019'],,False,False,,1
+suoy1242-1-14-1,,suoy1242-1,14,raːj pʰɔuːn,raːj pʰɔuːn,[],,['chan2019'],,False,False,,1
+suoy1242-1-14-2,,suoy1242-1,14,buəndɔndɔp,buəndɔndɔp,[],,['chan2019'],,False,False,,1
+suoy1242-1-15-1,,suoy1242-1,15,raːj pʰram,raːj pʰram,[],,['chan2019'],,False,False,,1
+suoy1242-1-15-2,,suoy1242-1,15,dɑp pram,dɑp pram,[],,['chan2019'],,False,False,,1
+suoy1242-1-16-1,,suoy1242-1,16,raːj kʰdaːŋ,raːj kʰdaːŋ,[],,['chan2019'],,False,False,,1
+suoy1242-1-16-2,,suoy1242-1,16,dɑp prammuəj,dɑp prammuəj,[],,['chan2019'],,False,False,,1
+suoy1242-1-17-1,,suoy1242-1,17,raːj kʰnuːl,raːj kʰnuːl,[],,['chan2019'],,False,False,,1
+suoy1242-1-17-2,,suoy1242-1,17,dɑp prampiː,dɑp prampiː,[],,['chan2019'],,False,False,,1
+suoy1242-1-18-1,,suoy1242-1,18,raːj kratej,raːj kratej,[],,['chan2019'],,False,False,,1
+suoy1242-1-18-2,,suoy1242-1,18,dɑp prambəj,dɑp prambəj,[],,['chan2019'],,False,False,,1
+suoy1242-1-19-1,,suoy1242-1,19,raːj kansar,raːj kansar,[],,['chan2019'],,False,False,,1
+suoy1242-1-19-2,,suoy1242-1,19,dɑp prambuən,dɑp prambuən,[],,['chan2019'],,False,False,,1
+suoy1242-1-20-1,,suoy1242-1,20,məpʰei,məpʰei,[],< Khmer ,['chan2019'],,True,False,,1
+suoy1242-1-21-1,,suoy1242-1,21,məpʰei muəj,məpʰei muəj,[],,['chan2019'],,False,False,,1
+suoy1242-1-22-1,,suoy1242-1,22,məpʰei piː,məpʰei piː,[],,['chan2019'],,False,False,,1
+suoy1242-1-23-1,,suoy1242-1,23,məpʰei bəj,məpʰei bəj,[],,['chan2019'],,False,False,,1
+suoy1242-1-24-1,,suoy1242-1,24,məpʰei buən,məpʰei buən,[],,['chan2019'],,False,False,,1
+suoy1242-1-25-1,,suoy1242-1,25,məpʰei pram,məpʰei pram,[],,['chan2019'],,False,False,,1
+suoy1242-1-26-1,,suoy1242-1,26,məpʰei prammuəj,məpʰei prammuəj,[],,['chan2019'],,False,False,,1
+suoy1242-1-27-1,,suoy1242-1,27,məpʰei prampii,məpʰei prampii,[],,['chan2019'],,False,False,,1
+suoy1242-1-28-1,,suoy1242-1,28,məpʰei prambəj,məpʰei prambəj,[],,['chan2019'],,False,False,,1
+suoy1242-1-29-1,,suoy1242-1,29,məpʰei prambuən,məpʰei prambuən,[],,['chan2019'],,False,False,,1
+suoy1242-1-30-1,,suoy1242-1,30,samsɤp,samsɤp,[],,['chan2019'],,False,False,,1
+suoy1242-1-40-1,,suoy1242-1,40,saːɛsɤp,saːɛsɤp,[],,['chan2019'],,False,False,,1
+suoy1242-1-50-1,,suoy1242-1,50,haːsɤp,haːsɤp,[],,['chan2019'],,False,False,,1
+suoy1242-1-60-1,,suoy1242-1,60,hɔʷksɤp,hɔʷksɤp,[],,['chan2019'],,False,False,,1
+suoy1242-1-70-1,,suoy1242-1,70,t͡ʃɤtsɤp,t͡ʃɤtsɤp,[],,['chan2019'],,False,False,,1
+suoy1242-1-80-1,,suoy1242-1,80,paːɛsɤp,paːɛsɤp,[],,['chan2019'],,False,False,,1
+suoy1242-1-90-1,,suoy1242-1,90,kaːwsɤp,kaːwsɤp,[],,['chan2019'],,False,False,,1
+suoy1242-1-100-1,,suoy1242-1,100,mərɔːj,mərɔːj,[],,['chan2019'],,False,False,,1
+suoy1242-1-200-1,,suoy1242-1,200,piː rɔːj,piː rɔːj,[],,['chan2019'],,False,False,,1
+suoy1242-1-1000-1,,suoy1242-1,1000,məpɔən,məpɔən,[],,['chan2019'],,False,False,,1
+suoy1242-1-2000-1,,suoy1242-1,2000,piː pɔən,piː pɔən,[],,['chan2019'],,False,False,,1

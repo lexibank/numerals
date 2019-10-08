@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-indo1317-1-1-1,,indo1317-1,1,dakau,dakau,[],,[],,False,False,,1
-indo1317-1-2-1,,indo1317-1,2,dua,dua,[],,[],,False,False,,1
-indo1317-1-3-1,,indo1317-1,3,telu,telu,[],,[],,False,False,,1
-indo1317-1-4-1,,indo1317-1,4,əpat,əpat,[],,[],,False,False,,1
-indo1317-1-5-1,,indo1317-1,5,limə,limə,[],,[],,False,False,,1
-indo1317-1-6-1,,indo1317-1,6,ənaŋ,ənaŋ,[],,[],,False,False,,1
-indo1317-1-7-1,,indo1317-1,7,pitu,pitu,[],,[],,False,False,,1
-indo1317-1-8-1,,indo1317-1,8,walu,walu,[],,[],,False,False,,1
-indo1317-1-9-1,,indo1317-1,9,saŋa,saŋa,[],,[],,False,False,,1
-indo1317-1-10-1,,indo1317-1,10,sapulu,sapulu,[],,[],,False,False,,1
-indo1317-1-11-1,,indo1317-1,11,sapulu dakau,sapulu dakau,[],,[],,False,False,,1
-indo1317-1-12-1,,indo1317-1,12,sapulu dua,sapulu dua,[],,[],,False,False,,1
-indo1317-1-13-1,,indo1317-1,13,sapulu telu,sapulu telu,[],,[],,False,False,,1
-indo1317-1-14-1,,indo1317-1,14,sapulu əpat,sapulu əpat,[],,[],,False,False,,1
-indo1317-1-15-1,,indo1317-1,15,sapulu limə,sapulu limə,[],,[],,False,False,,1
-indo1317-1-16-1,,indo1317-1,16,sapulu ənaŋ,sapulu ənaŋ,[],,[],,False,False,,1
-indo1317-1-17-1,,indo1317-1,17,sapulu pitu,sapulu pitu,[],,[],,False,False,,1
-indo1317-1-18-1,,indo1317-1,18,sapulu walu,sapulu walu,[],,[],,False,False,,1
-indo1317-1-19-1,,indo1317-1,19,sapulu saŋa,sapulu saŋa,[],,[],,False,False,,1
-indo1317-1-20-1,,indo1317-1,20,duəmpulu,duəmpulu,[],,[],,False,False,,1
-indo1317-1-21-1,,indo1317-1,21,duəmpulu dakau,duəmpulu dakau,[],,[],,False,False,,1
-indo1317-1-22-1,,indo1317-1,22,duəmpulu dua,duəmpulu dua,[],,[],,False,False,,1
-indo1317-1-23-1,,indo1317-1,23,duəmpulu telu,duəmpulu telu,[],,[],,False,False,,1
-indo1317-1-24-1,,indo1317-1,24,duəmpulu əpat,duəmpulu əpat,[],,[],,False,False,,1
-indo1317-1-25-1,,indo1317-1,25,duəmpulu limə,duəmpulu limə,[],,[],,False,False,,1
-indo1317-1-26-1,,indo1317-1,26,duəmpulu ənaŋ,duəmpulu ənaŋ,[],,[],,False,False,,1
-indo1317-1-27-1,,indo1317-1,27,duəmpulu pitu,duəmpulu pitu,[],,[],,False,False,,1
-indo1317-1-28-1,,indo1317-1,28,duəmpulu walu,duəmpulu walu,[],,[],,False,False,,1
-indo1317-1-29-1,,indo1317-1,29,duəmpulu saŋa,duəmpulu saŋa,[],,[],,False,False,,1
-indo1317-1-30-1,,indo1317-1,30,telumpulu,telumpulu,[],,[],,False,False,,1
-indo1317-1-40-1,,indo1317-1,40,empeʔmpulu,empeʔmpulu,[],,[],,False,False,,1
-indo1317-1-50-1,,indo1317-1,50,liməmpulu,liməmpulu,[],,[],,False,False,,1
-indo1317-1-60-1,,indo1317-1,60,ənampulu,ənampulu,[],,[],,False,False,,1
-indo1317-1-70-1,,indo1317-1,70,pitumpulu,pitumpulu,[],,[],,False,False,,1
-indo1317-1-80-1,,indo1317-1,80,walumpulu,walumpulu,[],,[],,False,False,,1
-indo1317-1-90-1,,indo1317-1,90,saŋanpulu,saŋanpulu,[],,[],,False,False,,1
-indo1317-1-100-1,,indo1317-1,100,da atɔs,da atɔs,[],,[],,False,False,,1
-indo1317-1-200-1,,indo1317-1,200,dua atɔs,dua atɔs,[],,[],,False,False,,1
-indo1317-1-1000-1,,indo1317-1,1000,da sabːu,da sabːu,[],,[],,False,False,,1
-indo1317-1-2000-1,,indo1317-1,2000,dua sabːu,dua sabːu,[],,[],,False,False,,1
+indo1317-1-1-1,,indo1317-1,1,dakau,dakau,[],,['chan2019'],,False,False,,1
+indo1317-1-2-1,,indo1317-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+indo1317-1-3-1,,indo1317-1,3,telu,telu,[],,['chan2019'],,False,False,,1
+indo1317-1-4-1,,indo1317-1,4,əpat,əpat,[],,['chan2019'],,False,False,,1
+indo1317-1-5-1,,indo1317-1,5,limə,limə,[],,['chan2019'],,False,False,,1
+indo1317-1-6-1,,indo1317-1,6,ənaŋ,ənaŋ,[],,['chan2019'],,False,False,,1
+indo1317-1-7-1,,indo1317-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+indo1317-1-8-1,,indo1317-1,8,walu,walu,[],,['chan2019'],,False,False,,1
+indo1317-1-9-1,,indo1317-1,9,saŋa,saŋa,[],,['chan2019'],,False,False,,1
+indo1317-1-10-1,,indo1317-1,10,sapulu,sapulu,[],,['chan2019'],,False,False,,1
+indo1317-1-11-1,,indo1317-1,11,sapulu dakau,sapulu dakau,[],,['chan2019'],,False,False,,1
+indo1317-1-12-1,,indo1317-1,12,sapulu dua,sapulu dua,[],,['chan2019'],,False,False,,1
+indo1317-1-13-1,,indo1317-1,13,sapulu telu,sapulu telu,[],,['chan2019'],,False,False,,1
+indo1317-1-14-1,,indo1317-1,14,sapulu əpat,sapulu əpat,[],,['chan2019'],,False,False,,1
+indo1317-1-15-1,,indo1317-1,15,sapulu limə,sapulu limə,[],,['chan2019'],,False,False,,1
+indo1317-1-16-1,,indo1317-1,16,sapulu ənaŋ,sapulu ənaŋ,[],,['chan2019'],,False,False,,1
+indo1317-1-17-1,,indo1317-1,17,sapulu pitu,sapulu pitu,[],,['chan2019'],,False,False,,1
+indo1317-1-18-1,,indo1317-1,18,sapulu walu,sapulu walu,[],,['chan2019'],,False,False,,1
+indo1317-1-19-1,,indo1317-1,19,sapulu saŋa,sapulu saŋa,[],,['chan2019'],,False,False,,1
+indo1317-1-20-1,,indo1317-1,20,duəmpulu,duəmpulu,[],,['chan2019'],,False,False,,1
+indo1317-1-21-1,,indo1317-1,21,duəmpulu dakau,duəmpulu dakau,[],,['chan2019'],,False,False,,1
+indo1317-1-22-1,,indo1317-1,22,duəmpulu dua,duəmpulu dua,[],,['chan2019'],,False,False,,1
+indo1317-1-23-1,,indo1317-1,23,duəmpulu telu,duəmpulu telu,[],,['chan2019'],,False,False,,1
+indo1317-1-24-1,,indo1317-1,24,duəmpulu əpat,duəmpulu əpat,[],,['chan2019'],,False,False,,1
+indo1317-1-25-1,,indo1317-1,25,duəmpulu limə,duəmpulu limə,[],,['chan2019'],,False,False,,1
+indo1317-1-26-1,,indo1317-1,26,duəmpulu ənaŋ,duəmpulu ənaŋ,[],,['chan2019'],,False,False,,1
+indo1317-1-27-1,,indo1317-1,27,duəmpulu pitu,duəmpulu pitu,[],,['chan2019'],,False,False,,1
+indo1317-1-28-1,,indo1317-1,28,duəmpulu walu,duəmpulu walu,[],,['chan2019'],,False,False,,1
+indo1317-1-29-1,,indo1317-1,29,duəmpulu saŋa,duəmpulu saŋa,[],,['chan2019'],,False,False,,1
+indo1317-1-30-1,,indo1317-1,30,telumpulu,telumpulu,[],,['chan2019'],,False,False,,1
+indo1317-1-40-1,,indo1317-1,40,empeʔmpulu,empeʔmpulu,[],,['chan2019'],,False,False,,1
+indo1317-1-50-1,,indo1317-1,50,liməmpulu,liməmpulu,[],,['chan2019'],,False,False,,1
+indo1317-1-60-1,,indo1317-1,60,ənampulu,ənampulu,[],,['chan2019'],,False,False,,1
+indo1317-1-70-1,,indo1317-1,70,pitumpulu,pitumpulu,[],,['chan2019'],,False,False,,1
+indo1317-1-80-1,,indo1317-1,80,walumpulu,walumpulu,[],,['chan2019'],,False,False,,1
+indo1317-1-90-1,,indo1317-1,90,saŋanpulu,saŋanpulu,[],,['chan2019'],,False,False,,1
+indo1317-1-100-1,,indo1317-1,100,da atɔs,da atɔs,[],,['chan2019'],,False,False,,1
+indo1317-1-200-1,,indo1317-1,200,dua atɔs,dua atɔs,[],,['chan2019'],,False,False,,1
+indo1317-1-1000-1,,indo1317-1,1000,da sabːu,da sabːu,[],,['chan2019'],,False,False,,1
+indo1317-1-2000-1,,indo1317-1,2000,dua sabːu,dua sabːu,[],,['chan2019'],,False,False,,1

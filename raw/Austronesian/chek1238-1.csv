@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chek1238-1-1-1,,chek1238-1,1,kaisei,kaisei,[],,[],,False,False,,1
-chek1238-1-2-1,,chek1238-1,2,pʰei,pʰei,[],,[],,False,False,,1
-chek1238-1-3-1,,chek1238-1,3,tʰiloi,tʰiloi,[],,[],,False,False,,1
-chek1238-1-4-1,,chek1238-1,4,fati,fati,[],,[],,False,False,,1
-chek1238-1-5-1,,chek1238-1,5,ɡlimai,ɡlimai,[],,[],,False,False,,1
-chek1238-1-6-1,,chek1238-1,6,nam̥noi,nam̥noi,[],,[],,False,False,,1
-chek1238-1-7-1,,chek1238-1,7,fitui,fitui,[],,[],,False,False,,1
-chek1238-1-8-1,,chek1238-1,8,n̥anai,n̥anai,[],,[],,False,False,,1
-chek1238-1-9-1,,chek1238-1,9,n̥evai,n̥evai,[],,[],,False,False,,1
-chek1238-1-10-1,,chek1238-1,10,nabotʰoi,nabotʰoi,[],,[],,False,False,,1
-chek1238-1-11-1,,chek1238-1,11,nabotʰo kaisei,nabotʰo kaisei,[],,[],,False,False,,1
-chek1238-1-12-1,,chek1238-1,12,nabotʰo pʰei,nabotʰo pʰei,[],,[],,False,False,,1
-chek1238-1-13-1,,chek1238-1,13,nabotʰo tʰiloi,nabotʰo tʰiloi,[],,[],,False,False,,1
-chek1238-1-14-1,,chek1238-1,14,nabotʰo fati,nabotʰo fati,[],,[],,False,False,,1
-chek1238-1-15-1,,chek1238-1,15,nabotʰo ɡlimai,nabotʰo ɡlimai,[],,[],,False,False,,1
-chek1238-1-16-1,,chek1238-1,16,nabotʰo nam̥noi,nabotʰo nam̥noi,[],,[],,False,False,,1
-chek1238-1-17-1,,chek1238-1,17,nabotʰo fitui,nabotʰo fitui,[],,[],,False,False,,1
-chek1238-1-18-1,,chek1238-1,18,nabotʰo n̥anai,nabotʰo n̥anai,[],,[],,False,False,,1
-chek1238-1-19-1,,chek1238-1,19,nabotʰo n̥evai,nabotʰo n̥evai,[],,[],,False,False,,1
-chek1238-1-20-1,,chek1238-1,20,varadaki,varadaki,[],,[],,False,False,,1
-chek1238-1-21-1,,chek1238-1,21,varadaki kaisei,varadaki kaisei,[],,[],,False,False,,1
-chek1238-1-22-1,,chek1238-1,22,varadaki pʰei,varadaki pʰei,[],,[],,False,False,,1
-chek1238-1-23-1,,chek1238-1,23,varadaki tʰiloi,varadaki tʰiloi,[],,[],,False,False,,1
-chek1238-1-24-1,,chek1238-1,24,varadaki fati,varadaki fati,[],,[],,False,False,,1
-chek1238-1-25-1,,chek1238-1,25,varadaki ɡlimai,varadaki ɡlimai,[],,[],,False,False,,1
-chek1238-1-26-1,,chek1238-1,26,varadaki nam̥noi,varadaki nam̥noi,[],,[],,False,False,,1
-chek1238-1-27-1,,chek1238-1,27,varadaki fitui,varadaki fitui,[],,[],,False,False,,1
-chek1238-1-28-1,,chek1238-1,28,varadaki n̥anai,varadaki n̥anai,[],,[],,False,False,,1
-chek1238-1-29-1,,chek1238-1,29,varadaki n̥evai,varadaki n̥evai,[],,[],,False,False,,1
-chek1238-1-30-1,,chek1238-1,30,tolo fului,tolo fului,[],,[],,False,False,,1
-chek1238-1-40-1,,chek1238-1,40,pʰia tutu,pʰia tutu,[],( 'two scores' ),[],,False,False,,1
-chek1238-1-50-1,,chek1238-1,50,ɡlima fului,ɡlima fului,[],,[],,False,False,,1
-chek1238-1-60-1,,chek1238-1,60,nam̥no salei,nam̥no salei,[],,[],,False,False,,1
-chek1238-1-70-1,,chek1238-1,70,fitu salei,fitu salei,[],,[],,False,False,,1
-chek1238-1-80-1,,chek1238-1,80,n̥anai salei,n̥anai salei,[],,[],,False,False,,1
-chek1238-1-90-1,,chek1238-1,90,n̥evai salei,n̥evai salei,[],,[],,False,False,,1
-chek1238-1-100-1,,chek1238-1,100,kaisei ɣobi,kaisei ɣobi,[],,[],,False,False,,1
-chek1238-1-200-1,,chek1238-1,200,pʰei ɣobi,pʰei ɣobi,[],,[],,False,False,,1
-chek1238-1-1000-1,,chek1238-1,1000,kaisei tʰoɣa,kaisei tʰoɣa,[],,[],,False,False,,1
-chek1238-1-2000-1,,chek1238-1,2000,pʰei tʰoɣa,pʰei tʰoɣa,[],,[],,False,False,,1
+chek1238-1-1-1,,chek1238-1,1,kaisei,kaisei,[],,['chan2019'],,False,False,,1
+chek1238-1-2-1,,chek1238-1,2,pʰei,pʰei,[],,['chan2019'],,False,False,,1
+chek1238-1-3-1,,chek1238-1,3,tʰiloi,tʰiloi,[],,['chan2019'],,False,False,,1
+chek1238-1-4-1,,chek1238-1,4,fati,fati,[],,['chan2019'],,False,False,,1
+chek1238-1-5-1,,chek1238-1,5,ɡlimai,ɡlimai,[],,['chan2019'],,False,False,,1
+chek1238-1-6-1,,chek1238-1,6,nam̥noi,nam̥noi,[],,['chan2019'],,False,False,,1
+chek1238-1-7-1,,chek1238-1,7,fitui,fitui,[],,['chan2019'],,False,False,,1
+chek1238-1-8-1,,chek1238-1,8,n̥anai,n̥anai,[],,['chan2019'],,False,False,,1
+chek1238-1-9-1,,chek1238-1,9,n̥evai,n̥evai,[],,['chan2019'],,False,False,,1
+chek1238-1-10-1,,chek1238-1,10,nabotʰoi,nabotʰoi,[],,['chan2019'],,False,False,,1
+chek1238-1-11-1,,chek1238-1,11,nabotʰo kaisei,nabotʰo kaisei,[],,['chan2019'],,False,False,,1
+chek1238-1-12-1,,chek1238-1,12,nabotʰo pʰei,nabotʰo pʰei,[],,['chan2019'],,False,False,,1
+chek1238-1-13-1,,chek1238-1,13,nabotʰo tʰiloi,nabotʰo tʰiloi,[],,['chan2019'],,False,False,,1
+chek1238-1-14-1,,chek1238-1,14,nabotʰo fati,nabotʰo fati,[],,['chan2019'],,False,False,,1
+chek1238-1-15-1,,chek1238-1,15,nabotʰo ɡlimai,nabotʰo ɡlimai,[],,['chan2019'],,False,False,,1
+chek1238-1-16-1,,chek1238-1,16,nabotʰo nam̥noi,nabotʰo nam̥noi,[],,['chan2019'],,False,False,,1
+chek1238-1-17-1,,chek1238-1,17,nabotʰo fitui,nabotʰo fitui,[],,['chan2019'],,False,False,,1
+chek1238-1-18-1,,chek1238-1,18,nabotʰo n̥anai,nabotʰo n̥anai,[],,['chan2019'],,False,False,,1
+chek1238-1-19-1,,chek1238-1,19,nabotʰo n̥evai,nabotʰo n̥evai,[],,['chan2019'],,False,False,,1
+chek1238-1-20-1,,chek1238-1,20,varadaki,varadaki,[],,['chan2019'],,False,False,,1
+chek1238-1-21-1,,chek1238-1,21,varadaki kaisei,varadaki kaisei,[],,['chan2019'],,False,False,,1
+chek1238-1-22-1,,chek1238-1,22,varadaki pʰei,varadaki pʰei,[],,['chan2019'],,False,False,,1
+chek1238-1-23-1,,chek1238-1,23,varadaki tʰiloi,varadaki tʰiloi,[],,['chan2019'],,False,False,,1
+chek1238-1-24-1,,chek1238-1,24,varadaki fati,varadaki fati,[],,['chan2019'],,False,False,,1
+chek1238-1-25-1,,chek1238-1,25,varadaki ɡlimai,varadaki ɡlimai,[],,['chan2019'],,False,False,,1
+chek1238-1-26-1,,chek1238-1,26,varadaki nam̥noi,varadaki nam̥noi,[],,['chan2019'],,False,False,,1
+chek1238-1-27-1,,chek1238-1,27,varadaki fitui,varadaki fitui,[],,['chan2019'],,False,False,,1
+chek1238-1-28-1,,chek1238-1,28,varadaki n̥anai,varadaki n̥anai,[],,['chan2019'],,False,False,,1
+chek1238-1-29-1,,chek1238-1,29,varadaki n̥evai,varadaki n̥evai,[],,['chan2019'],,False,False,,1
+chek1238-1-30-1,,chek1238-1,30,tolo fului,tolo fului,[],,['chan2019'],,False,False,,1
+chek1238-1-40-1,,chek1238-1,40,pʰia tutu,pʰia tutu,[],( 'two scores' ),['chan2019'],,False,False,,1
+chek1238-1-50-1,,chek1238-1,50,ɡlima fului,ɡlima fului,[],,['chan2019'],,False,False,,1
+chek1238-1-60-1,,chek1238-1,60,nam̥no salei,nam̥no salei,[],,['chan2019'],,False,False,,1
+chek1238-1-70-1,,chek1238-1,70,fitu salei,fitu salei,[],,['chan2019'],,False,False,,1
+chek1238-1-80-1,,chek1238-1,80,n̥anai salei,n̥anai salei,[],,['chan2019'],,False,False,,1
+chek1238-1-90-1,,chek1238-1,90,n̥evai salei,n̥evai salei,[],,['chan2019'],,False,False,,1
+chek1238-1-100-1,,chek1238-1,100,kaisei ɣobi,kaisei ɣobi,[],,['chan2019'],,False,False,,1
+chek1238-1-200-1,,chek1238-1,200,pʰei ɣobi,pʰei ɣobi,[],,['chan2019'],,False,False,,1
+chek1238-1-1000-1,,chek1238-1,1000,kaisei tʰoɣa,kaisei tʰoɣa,[],,['chan2019'],,False,False,,1
+chek1238-1-2000-1,,chek1238-1,2000,pʰei tʰoɣa,pʰei tʰoɣa,[],,['chan2019'],,False,False,,1

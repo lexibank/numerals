@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ende1246-1-1-1,,ende1246-1,1,saʔəsa,saʔəsa,[],,[],,False,False,,1
-ende1246-1-2-1,,ende1246-1,2,əsa rua,əsa rua,[],,[],,False,False,,1
-ende1246-1-3-1,,ende1246-1,3,əsa təlu,əsa təlu,[],,[],,False,False,,1
-ende1246-1-4-1,,ende1246-1,4,əsa ʋutu,əsa ʋutu,[],,[],,False,False,,1
-ende1246-1-5-1,,ende1246-1,5,əsa lima,əsa lima,[],,[],,False,False,,1
-ende1246-1-6-1,,ende1246-1,6,əsa lima əsa,əsa lima əsa,[],(5 + 1),[],,False,False,,1
-ende1246-1-7-1,,ende1246-1,7,əsa lima rua,əsa lima rua,[],(5 + 2),[],,False,False,,1
-ende1246-1-8-1,,ende1246-1,8,əsa rua mbutu,əsa rua mbutu,[],(2  x  4),[],,False,False,,1
-ende1246-1-9-1,,ende1246-1,9,əsa təra əsa,əsa təra əsa,[],(10 -  1),[],,False,False,,1
-ende1246-1-10-1,,ende1246-1,10,əsa sambulu,əsa sambulu,[],,[],,False,False,,1
-ende1246-1-11-1,,ende1246-1,11,sambulu saʔəsa,sambulu saʔəsa,[],,[],,False,False,,1
-ende1246-1-12-1,,ende1246-1,12,sambulu əsə rua,sambulu əsə rua,[],,[],,False,False,,1
-ende1246-1-13-1,,ende1246-1,13,sambulu əsə təlu,sambulu əsə təlu,[],,[],,False,False,,1
-ende1246-1-14-1,,ende1246-1,14,sambulu əsə ʋutu,sambulu əsə ʋutu,[],,[],,False,False,,1
-ende1246-1-15-1,,ende1246-1,15,sambulu əsə lima,sambulu əsə lima,[],,[],,False,False,,1
-ende1246-1-16-1,,ende1246-1,16,sambulu əsə lima əsa,sambulu əsə lima əsa,[],,[],,False,False,,1
-ende1246-1-17-1,,ende1246-1,17,sambulu əsə lima rua,sambulu əsə lima rua,[],,[],,False,False,,1
-ende1246-1-18-1,,ende1246-1,18,sambulu əsə lima rua mbutu,sambulu əsə lima rua mbutu,[],,[],,False,False,,1
-ende1246-1-19-1,,ende1246-1,19,sambulu əsə əsa təra əsa,sambulu əsə əsa təra əsa,[],,[],,False,False,,1
-ende1246-1-20-1,,ende1246-1,20,əsa mbulu rua,əsa mbulu rua,[],,[],,False,False,,1
-ende1246-1-21-1,,ende1246-1,21,mbulu rua saʔəsa,mbulu rua saʔəsa,[],,[],,False,False,,1
-ende1246-1-22-1,,ende1246-1,22,mbulu rua əsa rua,mbulu rua əsa rua,[],,[],,False,False,,1
-ende1246-1-23-1,,ende1246-1,23,mbulu rua əsa təlu,mbulu rua əsa təlu,[],,[],,False,False,,1
-ende1246-1-24-1,,ende1246-1,24,mbulu rua əsa ʋutu,mbulu rua əsa ʋutu,[],,[],,False,False,,1
-ende1246-1-25-1,,ende1246-1,25,mbulu rua əsa lima,mbulu rua əsa lima,[],,[],,False,False,,1
-ende1246-1-26-1,,ende1246-1,26,mbulu rua əsa lima əsa,mbulu rua əsa lima əsa,[],,[],,False,False,,1
-ende1246-1-27-1,,ende1246-1,27,mbulu rua əsa lima rua,mbulu rua əsa lima rua,[],,[],,False,False,,1
-ende1246-1-28-1,,ende1246-1,28,mbulu rua əsa rua mbutu,mbulu rua əsa rua mbutu,[],,[],,False,False,,1
-ende1246-1-29-1,,ende1246-1,29,mbulu rua əsa təra əsa,mbulu rua əsa təra əsa,[],,[],,False,False,,1
-ende1246-1-30-1,,ende1246-1,30,mbulu təlu,mbulu təlu,[],,[],,False,False,,1
-ende1246-1-40-1,,ende1246-1,40,mbulu ʋutu,mbulu ʋutu,[],,[],,False,False,,1
-ende1246-1-50-1,,ende1246-1,50,mbulu lima,mbulu lima,[],,[],,False,False,,1
-ende1246-1-60-1,,ende1246-1,60,mbulu lima əsa,mbulu lima əsa,[],,[],,False,False,,1
-ende1246-1-70-1,,ende1246-1,70,mbulu lima rua,mbulu lima rua,[],,[],,False,False,,1
-ende1246-1-80-1,,ende1246-1,80,mbulu rua mbutu,mbulu rua mbutu,[],,[],,False,False,,1
-ende1246-1-90-1,,ende1246-1,90,mbulu təra əsa,mbulu təra əsa,[],,[],,False,False,,1
-ende1246-1-100-1,,ende1246-1,100,sa ŋasu,sa ŋasu,[],,[],,False,False,,1
-ende1246-1-200-1,,ende1246-1,200,ŋasu rua,ŋasu rua,[],,[],,False,False,,1
-ende1246-1-1000-1,,ende1246-1,1000,sa riʋu,sa riʋu,[],,[],,False,False,,1
-ende1246-1-2000-1,,ende1246-1,2000,riʋu rua,riʋu rua,[],,[],,False,False,,1
+ende1246-1-1-1,,ende1246-1,1,saʔəsa,saʔəsa,[],,['chan2019'],,False,False,,1
+ende1246-1-2-1,,ende1246-1,2,əsa rua,əsa rua,[],,['chan2019'],,False,False,,1
+ende1246-1-3-1,,ende1246-1,3,əsa təlu,əsa təlu,[],,['chan2019'],,False,False,,1
+ende1246-1-4-1,,ende1246-1,4,əsa ʋutu,əsa ʋutu,[],,['chan2019'],,False,False,,1
+ende1246-1-5-1,,ende1246-1,5,əsa lima,əsa lima,[],,['chan2019'],,False,False,,1
+ende1246-1-6-1,,ende1246-1,6,əsa lima əsa,əsa lima əsa,[],(5 + 1),['chan2019'],,False,False,,1
+ende1246-1-7-1,,ende1246-1,7,əsa lima rua,əsa lima rua,[],(5 + 2),['chan2019'],,False,False,,1
+ende1246-1-8-1,,ende1246-1,8,əsa rua mbutu,əsa rua mbutu,[],(2  x  4),['chan2019'],,False,False,,1
+ende1246-1-9-1,,ende1246-1,9,əsa təra əsa,əsa təra əsa,[],(10 -  1),['chan2019'],,False,False,,1
+ende1246-1-10-1,,ende1246-1,10,əsa sambulu,əsa sambulu,[],,['chan2019'],,False,False,,1
+ende1246-1-11-1,,ende1246-1,11,sambulu saʔəsa,sambulu saʔəsa,[],,['chan2019'],,False,False,,1
+ende1246-1-12-1,,ende1246-1,12,sambulu əsə rua,sambulu əsə rua,[],,['chan2019'],,False,False,,1
+ende1246-1-13-1,,ende1246-1,13,sambulu əsə təlu,sambulu əsə təlu,[],,['chan2019'],,False,False,,1
+ende1246-1-14-1,,ende1246-1,14,sambulu əsə ʋutu,sambulu əsə ʋutu,[],,['chan2019'],,False,False,,1
+ende1246-1-15-1,,ende1246-1,15,sambulu əsə lima,sambulu əsə lima,[],,['chan2019'],,False,False,,1
+ende1246-1-16-1,,ende1246-1,16,sambulu əsə lima əsa,sambulu əsə lima əsa,[],,['chan2019'],,False,False,,1
+ende1246-1-17-1,,ende1246-1,17,sambulu əsə lima rua,sambulu əsə lima rua,[],,['chan2019'],,False,False,,1
+ende1246-1-18-1,,ende1246-1,18,sambulu əsə lima rua mbutu,sambulu əsə lima rua mbutu,[],,['chan2019'],,False,False,,1
+ende1246-1-19-1,,ende1246-1,19,sambulu əsə əsa təra əsa,sambulu əsə əsa təra əsa,[],,['chan2019'],,False,False,,1
+ende1246-1-20-1,,ende1246-1,20,əsa mbulu rua,əsa mbulu rua,[],,['chan2019'],,False,False,,1
+ende1246-1-21-1,,ende1246-1,21,mbulu rua saʔəsa,mbulu rua saʔəsa,[],,['chan2019'],,False,False,,1
+ende1246-1-22-1,,ende1246-1,22,mbulu rua əsa rua,mbulu rua əsa rua,[],,['chan2019'],,False,False,,1
+ende1246-1-23-1,,ende1246-1,23,mbulu rua əsa təlu,mbulu rua əsa təlu,[],,['chan2019'],,False,False,,1
+ende1246-1-24-1,,ende1246-1,24,mbulu rua əsa ʋutu,mbulu rua əsa ʋutu,[],,['chan2019'],,False,False,,1
+ende1246-1-25-1,,ende1246-1,25,mbulu rua əsa lima,mbulu rua əsa lima,[],,['chan2019'],,False,False,,1
+ende1246-1-26-1,,ende1246-1,26,mbulu rua əsa lima əsa,mbulu rua əsa lima əsa,[],,['chan2019'],,False,False,,1
+ende1246-1-27-1,,ende1246-1,27,mbulu rua əsa lima rua,mbulu rua əsa lima rua,[],,['chan2019'],,False,False,,1
+ende1246-1-28-1,,ende1246-1,28,mbulu rua əsa rua mbutu,mbulu rua əsa rua mbutu,[],,['chan2019'],,False,False,,1
+ende1246-1-29-1,,ende1246-1,29,mbulu rua əsa təra əsa,mbulu rua əsa təra əsa,[],,['chan2019'],,False,False,,1
+ende1246-1-30-1,,ende1246-1,30,mbulu təlu,mbulu təlu,[],,['chan2019'],,False,False,,1
+ende1246-1-40-1,,ende1246-1,40,mbulu ʋutu,mbulu ʋutu,[],,['chan2019'],,False,False,,1
+ende1246-1-50-1,,ende1246-1,50,mbulu lima,mbulu lima,[],,['chan2019'],,False,False,,1
+ende1246-1-60-1,,ende1246-1,60,mbulu lima əsa,mbulu lima əsa,[],,['chan2019'],,False,False,,1
+ende1246-1-70-1,,ende1246-1,70,mbulu lima rua,mbulu lima rua,[],,['chan2019'],,False,False,,1
+ende1246-1-80-1,,ende1246-1,80,mbulu rua mbutu,mbulu rua mbutu,[],,['chan2019'],,False,False,,1
+ende1246-1-90-1,,ende1246-1,90,mbulu təra əsa,mbulu təra əsa,[],,['chan2019'],,False,False,,1
+ende1246-1-100-1,,ende1246-1,100,sa ŋasu,sa ŋasu,[],,['chan2019'],,False,False,,1
+ende1246-1-200-1,,ende1246-1,200,ŋasu rua,ŋasu rua,[],,['chan2019'],,False,False,,1
+ende1246-1-1000-1,,ende1246-1,1000,sa riʋu,sa riʋu,[],,['chan2019'],,False,False,,1
+ende1246-1-2000-1,,ende1246-1,2000,riʋu rua,riʋu rua,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-guer1243-1-1-1,,guer1243-1,1,kwi˦,kwi˦,[],( c = k),[],,False,False,,1
-guer1243-1-2-1,,guer1243-1,2,we˨,we˨,[],,[],,False,False,,1
-guer1243-1-3-1,,guer1243-1,3,ndʲeː˩˧,ndʲeː˩˧,[],(  dy = dʲ),[],,False,False,,1
-guer1243-1-4-1,,guer1243-1,4,ɲe˨kieː˩˧,ɲe˨kieː˩˧,[],( ñ = ɲ),[],,False,False,,1
-guer1243-1-5-1,,guer1243-1,5,ʔom˨,ʔom˨,[],( ' = ʔ),[],,False,False,,1
-guer1243-1-6-1,,guer1243-1,6,jom˨,jom˨,[],( y = j),[],,False,False,,1
-guer1243-1-7-1,,guer1243-1,7,ntʲ˨kieːʔ˧,ntʲ˨kieːʔ˧,[],( ty = tʲ),[],,False,False,,1
-guer1243-1-8-1,,guer1243-1,8,ɲẽː˩˧,ɲẽː˩˧,[],( ñ = ɲ),[],,False,False,,1
-guer1243-1-9-1,,guer1243-1,9,ɲʲẽː˩˧,ɲʲẽː˩˧,[],,[],,False,False,,1
-guer1243-1-10-1,,guer1243-1,10,ki˨,ki˨,[],,[],,False,False,,1
-guer1243-1-11-1,,guer1243-1,11,kã˨tʃoːʔ˩˧kwi˦,kã˨tʃoːʔ˩˧kwi˦,[],( 10 + 1 ),[],,False,False,,1
-guer1243-1-12-1,,guer1243-1,12,kã˨tʃoːʔ˩˧we˨,kã˨tʃoːʔ˩˧we˨,[],( 10 + 2 ),[],,False,False,,1
-guer1243-1-13-1,,guer1243-1,13,kã˨tʃoːʔ˩˧ndʲeː˩˧,kã˨tʃoːʔ˩˧ndʲeː˩˧,[],( 10 + 3 ),[],,False,False,,1
-guer1243-1-14-1,,guer1243-1,14,kã˨tʃoːʔ˩˧ɲe˨kieː˩˧,kã˨tʃoːʔ˩˧ɲe˨kieː˩˧,[],( 10 + 4 ),[],,False,False,,1
-guer1243-1-15-1,,guer1243-1,15,(n)kĩ˨ʔoːm˩˧,(n)kĩ˨ʔoːm˩˧,[],,[],,False,False,,1
-guer1243-1-16-1,,guer1243-1,16,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧kwi˦,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧kwi˦,[],( 15 + 1 ),[],,False,False,,1
-guer1243-1-17-1,,guer1243-1,17,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧we˨,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧we˨,[],( 15 + 2 ),[],,False,False,,1
-guer1243-1-18-1,,guer1243-1,18,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ndʲeː˩˧,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ndʲeː˩˧,[],( 15 + 3 ),[],,False,False,,1
-guer1243-1-19-1,,guer1243-1,19,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,[],,[],,False,False,,1
-guer1243-1-20-1,,guer1243-1,20,ntʲkiuː˩˧,ntʲkiuː˩˧,[],,[],,False,False,,1
-guer1243-1-21-1,,guer1243-1,21,ntʲkiuː˩˧ntʃoːʔ˩˧kwi˦,ntʲkiuː˩˧ntʃoːʔ˩˧kwi˦,[],,[],,False,False,,1
-guer1243-1-22-1,,guer1243-1,22,ntʲkiuː˩˧ntʃoːʔ˩˧we˨,ntʲkiuː˩˧ntʃoːʔ˩˧we˨,[],,[],,False,False,,1
-guer1243-1-23-1,,guer1243-1,23,ntʲkiuː˩˧ntʃoːʔ˩˧ndʲeː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ndʲeː˩˧,[],,[],,False,False,,1
-guer1243-1-24-1,,guer1243-1,24,ntʲkiuː˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,[],,[],,False,False,,1
-guer1243-1-25-1,,guer1243-1,25,ntʲkiuː˩˧ntʃoːʔ˩˧ʔom˨,ntʲkiuː˩˧ntʃoːʔ˩˧ʔom˨,[],,[],,False,False,,1
-guer1243-1-26-1,,guer1243-1,26,ntʲkiuː˩˧ntʃoːʔ˩˧jom˨,ntʲkiuː˩˧ntʃoːʔ˩˧jom˨,[],,[],,False,False,,1
-guer1243-1-27-1,,guer1243-1,27,ntʲkiuː˩˧ntʃoːʔ˩˧ntʲ˨kieːʔ˧,ntʲkiuː˩˧ntʃoːʔ˩˧ntʲ˨kieːʔ˧,[],,[],,False,False,,1
-guer1243-1-28-1,,guer1243-1,28,ntʲkiuː˩˧ntʃoːʔ˩˧ɲẽː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ɲẽː˩˧,[],,[],,False,False,,1
-guer1243-1-29-1,,guer1243-1,29,ntʲkiuː˩˧ntʃoːʔ˩˧ɲʲẽː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ɲʲẽː˩˧,[],,[],,False,False,,1
-guer1243-1-30-1,,guer1243-1,30,ntʲkiuː˩˧ntʃoːʔ˩˧(n)ki˨,ntʲkiuː˩˧ntʃoːʔ˩˧(n)ki˨,[],,[],,False,False,,1
-guer1243-1-40-1,,guer1243-1,40,wẽ˨ ʔãː˩˧,wẽ˨ ʔãː˩˧,[],( 2 x 20  ),[],,False,False,,1
-guer1243-1-50-1,,guer1243-1,50,wẽ˨ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,wẽ˨ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,[],,[],,False,False,,1
-guer1243-1-60-1,,guer1243-1,60,ndʲẽː˩˧ʔãː˩˧,ndʲẽː˩˧ʔãː˩˧,[],( 3 x 20 ),[],,False,False,,1
-guer1243-1-70-1,,guer1243-1,70,ndʲẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,ndʲẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,[],,[],,False,False,,1
-guer1243-1-80-1,,guer1243-1,80,ɲe˨kiẽː˩˧ʔãː˩˧,ɲe˨kiẽː˩˧ʔãː˩˧,[],( 4 x 20  ),[],,False,False,,1
-guer1243-1-90-1,,guer1243-1,90,ɲe˨kiẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,ɲe˨kiẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,[],,[],,False,False,,1
-guer1243-1-100-1,,guer1243-1,100,kwi˦ siã˦to˨,kwi˦ siã˦to˨,[],(  < Spanish ),[],,True,False,,1
-guer1243-1-200-1,,guer1243-1,200,we˨ siã˦to˨,we˨ siã˦to˨,[],,[],,False,False,,1
-guer1243-1-1000-1,,guer1243-1,1000,kwi˦ meĩ˥˧,kwi˦ meĩ˥˧,[],(  < Spanish ),[],,True,False,,1
-guer1243-1-2000-1,,guer1243-1,2000,we˨ meĩ˥˧,we˨ meĩ˥˧,[],,[],,False,False,,1
+guer1243-1-1-1,,guer1243-1,1,kwi˦,kwi˦,[],( c = k),['chan2019'],,False,False,,1
+guer1243-1-2-1,,guer1243-1,2,we˨,we˨,[],,['chan2019'],,False,False,,1
+guer1243-1-3-1,,guer1243-1,3,ndʲeː˩˧,ndʲeː˩˧,[],(  dy = dʲ),['chan2019'],,False,False,,1
+guer1243-1-4-1,,guer1243-1,4,ɲe˨kieː˩˧,ɲe˨kieː˩˧,[],( ñ = ɲ),['chan2019'],,False,False,,1
+guer1243-1-5-1,,guer1243-1,5,ʔom˨,ʔom˨,[],( ' = ʔ),['chan2019'],,False,False,,1
+guer1243-1-6-1,,guer1243-1,6,jom˨,jom˨,[],( y = j),['chan2019'],,False,False,,1
+guer1243-1-7-1,,guer1243-1,7,ntʲ˨kieːʔ˧,ntʲ˨kieːʔ˧,[],( ty = tʲ),['chan2019'],,False,False,,1
+guer1243-1-8-1,,guer1243-1,8,ɲẽː˩˧,ɲẽː˩˧,[],( ñ = ɲ),['chan2019'],,False,False,,1
+guer1243-1-9-1,,guer1243-1,9,ɲʲẽː˩˧,ɲʲẽː˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-10-1,,guer1243-1,10,ki˨,ki˨,[],,['chan2019'],,False,False,,1
+guer1243-1-11-1,,guer1243-1,11,kã˨tʃoːʔ˩˧kwi˦,kã˨tʃoːʔ˩˧kwi˦,[],( 10 + 1 ),['chan2019'],,False,False,,1
+guer1243-1-12-1,,guer1243-1,12,kã˨tʃoːʔ˩˧we˨,kã˨tʃoːʔ˩˧we˨,[],( 10 + 2 ),['chan2019'],,False,False,,1
+guer1243-1-13-1,,guer1243-1,13,kã˨tʃoːʔ˩˧ndʲeː˩˧,kã˨tʃoːʔ˩˧ndʲeː˩˧,[],( 10 + 3 ),['chan2019'],,False,False,,1
+guer1243-1-14-1,,guer1243-1,14,kã˨tʃoːʔ˩˧ɲe˨kieː˩˧,kã˨tʃoːʔ˩˧ɲe˨kieː˩˧,[],( 10 + 4 ),['chan2019'],,False,False,,1
+guer1243-1-15-1,,guer1243-1,15,(n)kĩ˨ʔoːm˩˧,(n)kĩ˨ʔoːm˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-16-1,,guer1243-1,16,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧kwi˦,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧kwi˦,[],( 15 + 1 ),['chan2019'],,False,False,,1
+guer1243-1-17-1,,guer1243-1,17,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧we˨,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧we˨,[],( 15 + 2 ),['chan2019'],,False,False,,1
+guer1243-1-18-1,,guer1243-1,18,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ndʲeː˩˧,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ndʲeː˩˧,[],( 15 + 3 ),['chan2019'],,False,False,,1
+guer1243-1-19-1,,guer1243-1,19,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,(n)kĩ˨ʔoːm˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-20-1,,guer1243-1,20,ntʲkiuː˩˧,ntʲkiuː˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-21-1,,guer1243-1,21,ntʲkiuː˩˧ntʃoːʔ˩˧kwi˦,ntʲkiuː˩˧ntʃoːʔ˩˧kwi˦,[],,['chan2019'],,False,False,,1
+guer1243-1-22-1,,guer1243-1,22,ntʲkiuː˩˧ntʃoːʔ˩˧we˨,ntʲkiuː˩˧ntʃoːʔ˩˧we˨,[],,['chan2019'],,False,False,,1
+guer1243-1-23-1,,guer1243-1,23,ntʲkiuː˩˧ntʃoːʔ˩˧ndʲeː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ndʲeː˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-24-1,,guer1243-1,24,ntʲkiuː˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ɲe˨kieː˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-25-1,,guer1243-1,25,ntʲkiuː˩˧ntʃoːʔ˩˧ʔom˨,ntʲkiuː˩˧ntʃoːʔ˩˧ʔom˨,[],,['chan2019'],,False,False,,1
+guer1243-1-26-1,,guer1243-1,26,ntʲkiuː˩˧ntʃoːʔ˩˧jom˨,ntʲkiuː˩˧ntʃoːʔ˩˧jom˨,[],,['chan2019'],,False,False,,1
+guer1243-1-27-1,,guer1243-1,27,ntʲkiuː˩˧ntʃoːʔ˩˧ntʲ˨kieːʔ˧,ntʲkiuː˩˧ntʃoːʔ˩˧ntʲ˨kieːʔ˧,[],,['chan2019'],,False,False,,1
+guer1243-1-28-1,,guer1243-1,28,ntʲkiuː˩˧ntʃoːʔ˩˧ɲẽː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ɲẽː˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-29-1,,guer1243-1,29,ntʲkiuː˩˧ntʃoːʔ˩˧ɲʲẽː˩˧,ntʲkiuː˩˧ntʃoːʔ˩˧ɲʲẽː˩˧,[],,['chan2019'],,False,False,,1
+guer1243-1-30-1,,guer1243-1,30,ntʲkiuː˩˧ntʃoːʔ˩˧(n)ki˨,ntʲkiuː˩˧ntʃoːʔ˩˧(n)ki˨,[],,['chan2019'],,False,False,,1
+guer1243-1-40-1,,guer1243-1,40,wẽ˨ ʔãː˩˧,wẽ˨ ʔãː˩˧,[],( 2 x 20  ),['chan2019'],,False,False,,1
+guer1243-1-50-1,,guer1243-1,50,wẽ˨ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,wẽ˨ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,[],,['chan2019'],,False,False,,1
+guer1243-1-60-1,,guer1243-1,60,ndʲẽː˩˧ʔãː˩˧,ndʲẽː˩˧ʔãː˩˧,[],( 3 x 20 ),['chan2019'],,False,False,,1
+guer1243-1-70-1,,guer1243-1,70,ndʲẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,ndʲẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,[],,['chan2019'],,False,False,,1
+guer1243-1-80-1,,guer1243-1,80,ɲe˨kiẽː˩˧ʔãː˩˧,ɲe˨kiẽː˩˧ʔãː˩˧,[],( 4 x 20  ),['chan2019'],,False,False,,1
+guer1243-1-90-1,,guer1243-1,90,ɲe˨kiẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,ɲe˨kiẽː˩˧ʔãː˩˧ntʃoːʔ˩˧(n)ki˨,[],,['chan2019'],,False,False,,1
+guer1243-1-100-1,,guer1243-1,100,kwi˦ siã˦to˨,kwi˦ siã˦to˨,[],(  < Spanish ),['chan2019'],,True,False,,1
+guer1243-1-200-1,,guer1243-1,200,we˨ siã˦to˨,we˨ siã˦to˨,[],,['chan2019'],,False,False,,1
+guer1243-1-1000-1,,guer1243-1,1000,kwi˦ meĩ˥˧,kwi˦ meĩ˥˧,[],(  < Spanish ),['chan2019'],,True,False,,1
+guer1243-1-2000-1,,guer1243-1,2000,we˨ meĩ˥˧,we˨ meĩ˥˧,[],,['chan2019'],,False,False,,1

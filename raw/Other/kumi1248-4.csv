@@ -1,34 +1,34 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kumi1248-4-1-1,,kumi1248-4,1,ʔəsin,ʔəsin,[],,[],,False,False,,1
-kumi1248-4-1-2,,kumi1248-4,1,"sin ‘one, be one’",sin ‘one,[],,[],,False,True,,1
-kumi1248-4-1-3,,kumi1248-4,1,"sin ‘one, be one’",be one’,[],,[],,False,True,,1
-kumi1248-4-2-1,,kumi1248-4,2,"xəwak ‘two, be two’",xəwak ‘two,[],,[],,False,True,,1
-kumi1248-4-2-2,,kumi1248-4,2,"xəwak ‘two, be two’",be two’,[],,[],,False,True,,1
-kumi1248-4-3-1,,kumi1248-4,3,"xəmuk ‘three, be three’",xəmuk ‘three,[],,[],,False,True,,1
-kumi1248-4-3-2,,kumi1248-4,3,"xəmuk ‘three, be three’",be three’,[],,[],,False,True,,1
-kumi1248-4-4-1,,kumi1248-4,4,"čəpap ‘four, be four’",čəpap ‘four,[],,[],,False,True,,1
-kumi1248-4-4-2,,kumi1248-4,4,"čəpap ‘four, be four’",be four’,[],,[],,False,True,,1
-kumi1248-4-5-1,,kumi1248-4,5,"sa:rap ‘five, be five’",sa:rap ‘five,[],,[],,False,True,,1
-kumi1248-4-5-2,,kumi1248-4,5,"sa:rap ‘five, be five’",be five’,[],,[],,False,True,,1
-kumi1248-4-6-1,,kumi1248-4,6,"xəmxu:k ‘six, be six’",xəmxu:k ‘six,[],,[],,False,True,,1
-kumi1248-4-6-2,,kumi1248-4,6,"xəmxu:k ‘six, be six’",be six’,[],,[],,False,True,,1
-kumi1248-4-7-1,,kumi1248-4,7,"pəxka:y ‘seven, be seven’",pəxka:y ‘seven,[],,[],,False,True,,1
-kumi1248-4-7-2,,kumi1248-4,7,"pəxka:y ‘seven, be seven’",be seven’,[],,[],,False,True,,1
-kumi1248-4-8-1,,kumi1248-4,8,"čəmxu:k ‘eight, be eight’",čəmxu:k ‘eight,[],,[],,False,True,,1
-kumi1248-4-8-2,,kumi1248-4,8,"čəmxu:k ‘eight, be eight’",be eight’,[],,[],,False,True,,1
-kumi1248-4-9-1,,kumi1248-4,9,"nʸəmxəmu:k ‘nine, be nine’",nʸəmxəmu:k ‘nine,[],,[],,False,True,,1
-kumi1248-4-9-2,,kumi1248-4,9,"nʸəmxəmu:k ‘nine, be nine’",be nine’,[],,[],,False,True,,1
-kumi1248-4-10-1,,kumi1248-4,10,"ṣa:xu:k ‘ten, be ten’",ṣa:xu:k ‘ten,[],,[],,False,True,,1
-kumi1248-4-10-2,,kumi1248-4,10,"ṣa:xu:k ‘ten, be ten’",be ten’,[],,[],,False,True,,1
-kumi1248-4-11-1,,kumi1248-4,11,ṣa:xu:k ʔəma:yk ʔəsin,ṣa:xu:k ʔəma:yk ʔəsin,[],,[],,False,False,,1
-kumi1248-4-12-1,,kumi1248-4,12,ṣa:xu:k sin ʔəma:yk xəwak,ṣa:xu:k sin ʔəma:yk xəwak,[],,[],,False,False,,1
-kumi1248-4-13-1,,kumi1248-4,13,ṣa:xu:k sin ʔəma:yk xəmuk,ṣa:xu:k sin ʔəma:yk xəmuk,[],,[],,False,False,,1
-kumi1248-4-14-1,,kumi1248-4,14,ṣa:xu:k sin ʔəma:yk čəpap,ṣa:xu:k sin ʔəma:yk čəpap,[],,[],,False,False,,1
-kumi1248-4-15-1,,kumi1248-4,15,ṣa:xu:k sin ʔəma:yk sa:rap,ṣa:xu:k sin ʔəma:yk sa:rap,[],,[],,False,False,,1
-kumi1248-4-20-1,,kumi1248-4,20,ṣa:xu:k xəwak,ṣa:xu:k xəwak,[],,[],,False,False,,1
-kumi1248-4-21-1,,kumi1248-4,21,ṣa:xu:k xəwak ʔəma:yk ʔəsin,ṣa:xu:k xəwak ʔəma:yk ʔəsin,[],,[],,False,False,,1
-kumi1248-4-22-1,,kumi1248-4,22,ṣa:xu:k xəwak ʔəma:yk xəwak,ṣa:xu:k xəwak ʔəma:yk xəwak,[],,[],,False,False,,1
-kumi1248-4-23-1,,kumi1248-4,23,ṣa:xu:k xəwak ʔəma:yk xəmuk,ṣa:xu:k xəwak ʔəma:yk xəmuk,[],,[],,False,False,,1
-kumi1248-4-30-1,,kumi1248-4,30,ṣa:xu:k xəmuk,ṣa:xu:k xəmuk,[],,[],,False,False,,1
-kumi1248-4-40-1,,kumi1248-4,40,ṣa:xu:k čəpap,ṣa:xu:k čəpap,[],,[],,False,False,,1
-kumi1248-4-50-1,,kumi1248-4,50,ṣa:xu:k sa:rap,ṣa:xu:k sa:rap,[],,[],,False,False,,1
+kumi1248-4-1-1,,kumi1248-4,1,ʔəsin,ʔəsin,[],,['chan2019'],,False,False,,1
+kumi1248-4-1-2,,kumi1248-4,1,"sin ‘one, be one’",sin ‘one,[],,['chan2019'],,False,True,,1
+kumi1248-4-1-3,,kumi1248-4,1,"sin ‘one, be one’",be one’,[],,['chan2019'],,False,True,,1
+kumi1248-4-2-1,,kumi1248-4,2,"xəwak ‘two, be two’",xəwak ‘two,[],,['chan2019'],,False,True,,1
+kumi1248-4-2-2,,kumi1248-4,2,"xəwak ‘two, be two’",be two’,[],,['chan2019'],,False,True,,1
+kumi1248-4-3-1,,kumi1248-4,3,"xəmuk ‘three, be three’",xəmuk ‘three,[],,['chan2019'],,False,True,,1
+kumi1248-4-3-2,,kumi1248-4,3,"xəmuk ‘three, be three’",be three’,[],,['chan2019'],,False,True,,1
+kumi1248-4-4-1,,kumi1248-4,4,"čəpap ‘four, be four’",čəpap ‘four,[],,['chan2019'],,False,True,,1
+kumi1248-4-4-2,,kumi1248-4,4,"čəpap ‘four, be four’",be four’,[],,['chan2019'],,False,True,,1
+kumi1248-4-5-1,,kumi1248-4,5,"sa:rap ‘five, be five’",sa:rap ‘five,[],,['chan2019'],,False,True,,1
+kumi1248-4-5-2,,kumi1248-4,5,"sa:rap ‘five, be five’",be five’,[],,['chan2019'],,False,True,,1
+kumi1248-4-6-1,,kumi1248-4,6,"xəmxu:k ‘six, be six’",xəmxu:k ‘six,[],,['chan2019'],,False,True,,1
+kumi1248-4-6-2,,kumi1248-4,6,"xəmxu:k ‘six, be six’",be six’,[],,['chan2019'],,False,True,,1
+kumi1248-4-7-1,,kumi1248-4,7,"pəxka:y ‘seven, be seven’",pəxka:y ‘seven,[],,['chan2019'],,False,True,,1
+kumi1248-4-7-2,,kumi1248-4,7,"pəxka:y ‘seven, be seven’",be seven’,[],,['chan2019'],,False,True,,1
+kumi1248-4-8-1,,kumi1248-4,8,"čəmxu:k ‘eight, be eight’",čəmxu:k ‘eight,[],,['chan2019'],,False,True,,1
+kumi1248-4-8-2,,kumi1248-4,8,"čəmxu:k ‘eight, be eight’",be eight’,[],,['chan2019'],,False,True,,1
+kumi1248-4-9-1,,kumi1248-4,9,"nʸəmxəmu:k ‘nine, be nine’",nʸəmxəmu:k ‘nine,[],,['chan2019'],,False,True,,1
+kumi1248-4-9-2,,kumi1248-4,9,"nʸəmxəmu:k ‘nine, be nine’",be nine’,[],,['chan2019'],,False,True,,1
+kumi1248-4-10-1,,kumi1248-4,10,"ṣa:xu:k ‘ten, be ten’",ṣa:xu:k ‘ten,[],,['chan2019'],,False,True,,1
+kumi1248-4-10-2,,kumi1248-4,10,"ṣa:xu:k ‘ten, be ten’",be ten’,[],,['chan2019'],,False,True,,1
+kumi1248-4-11-1,,kumi1248-4,11,ṣa:xu:k ʔəma:yk ʔəsin,ṣa:xu:k ʔəma:yk ʔəsin,[],,['chan2019'],,False,False,,1
+kumi1248-4-12-1,,kumi1248-4,12,ṣa:xu:k sin ʔəma:yk xəwak,ṣa:xu:k sin ʔəma:yk xəwak,[],,['chan2019'],,False,False,,1
+kumi1248-4-13-1,,kumi1248-4,13,ṣa:xu:k sin ʔəma:yk xəmuk,ṣa:xu:k sin ʔəma:yk xəmuk,[],,['chan2019'],,False,False,,1
+kumi1248-4-14-1,,kumi1248-4,14,ṣa:xu:k sin ʔəma:yk čəpap,ṣa:xu:k sin ʔəma:yk čəpap,[],,['chan2019'],,False,False,,1
+kumi1248-4-15-1,,kumi1248-4,15,ṣa:xu:k sin ʔəma:yk sa:rap,ṣa:xu:k sin ʔəma:yk sa:rap,[],,['chan2019'],,False,False,,1
+kumi1248-4-20-1,,kumi1248-4,20,ṣa:xu:k xəwak,ṣa:xu:k xəwak,[],,['chan2019'],,False,False,,1
+kumi1248-4-21-1,,kumi1248-4,21,ṣa:xu:k xəwak ʔəma:yk ʔəsin,ṣa:xu:k xəwak ʔəma:yk ʔəsin,[],,['chan2019'],,False,False,,1
+kumi1248-4-22-1,,kumi1248-4,22,ṣa:xu:k xəwak ʔəma:yk xəwak,ṣa:xu:k xəwak ʔəma:yk xəwak,[],,['chan2019'],,False,False,,1
+kumi1248-4-23-1,,kumi1248-4,23,ṣa:xu:k xəwak ʔəma:yk xəmuk,ṣa:xu:k xəwak ʔəma:yk xəmuk,[],,['chan2019'],,False,False,,1
+kumi1248-4-30-1,,kumi1248-4,30,ṣa:xu:k xəmuk,ṣa:xu:k xəmuk,[],,['chan2019'],,False,False,,1
+kumi1248-4-40-1,,kumi1248-4,40,ṣa:xu:k čəpap,ṣa:xu:k čəpap,[],,['chan2019'],,False,False,,1
+kumi1248-4-50-1,,kumi1248-4,50,ṣa:xu:k sa:rap,ṣa:xu:k sa:rap,[],,['chan2019'],,False,False,,1

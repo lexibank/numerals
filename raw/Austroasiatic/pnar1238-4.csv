@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pnar1238-4-1-1,,pnar1238-4,1,wi,wi,[],,[],,False,False,,4
-pnar1238-4-2-1,,pnar1238-4,2,ar,ar,[],,[],,False,False,,4
-pnar1238-4-3-1,,pnar1238-4,3,le,le,[],,[],,False,False,,4
-pnar1238-4-4-1,,pnar1238-4,4,so,so,[],,[],,False,False,,4
-pnar1238-4-5-1,,pnar1238-4,5,san,san,[],,[],,False,False,,4
-pnar1238-4-6-1,,pnar1238-4,6,ɨndru,ɨndru,[],,[],,False,False,,4
-pnar1238-4-7-1,,pnar1238-4,7,ɨnɲaw,ɨnɲaw,[],,[],,False,False,,4
-pnar1238-4-8-1,,pnar1238-4,8,pʰra,pʰra,[],,[],,False,False,,4
-pnar1238-4-9-1,,pnar1238-4,9,kʰɨnde,kʰɨnde,[],,[],,False,False,,4
-pnar1238-4-10-1,,pnar1238-4,10,cʰipʰaw,cʰipʰaw,[],,[],,False,False,,4
-pnar1238-4-11-1,,pnar1238-4,11,kʰat wi,kʰat wi,[],,[],,False,False,,4
-pnar1238-4-12-1,,pnar1238-4,12,kʰat ar,kʰat ar,[],,[],,False,False,,4
-pnar1238-4-13-1,,pnar1238-4,13,kʰat le,kʰat le,[],,[],,False,False,,4
-pnar1238-4-14-1,,pnar1238-4,14,kʰat so,kʰat so,[],,[],,False,False,,4
-pnar1238-4-15-1,,pnar1238-4,15,kʰat san,kʰat san,[],,[],,False,False,,4
-pnar1238-4-16-1,,pnar1238-4,16,kʰat ɨndru,kʰat ɨndru,[],,[],,False,False,,4
-pnar1238-4-17-1,,pnar1238-4,17,kʰat ɨnɲaw,kʰat ɨnɲaw,[],,[],,False,False,,4
-pnar1238-4-18-1,,pnar1238-4,18,kʰat pʰraː,kʰat pʰraː,[],,[],,False,False,,4
-pnar1238-4-19-1,,pnar1238-4,19,kʰat kʰɨnde,kʰat kʰɨnde,[],,[],,False,False,,4
-pnar1238-4-20-1,,pnar1238-4,20,arpʰaw,arpʰaw,[],,[],,False,False,,4
-pnar1238-4-21-1,,pnar1238-4,21,arpʰawwi,arpʰawwi,[],,[],,False,False,,4
-pnar1238-4-22-1,,pnar1238-4,22,arpʰaw ar,arpʰaw ar,[],,[],,False,False,,4
-pnar1238-4-23-1,,pnar1238-4,23,arpʰaw le,arpʰaw le,[],,[],,False,False,,4
-pnar1238-4-24-1,,pnar1238-4,24,arpʰaw so,arpʰaw so,[],,[],,False,False,,4
-pnar1238-4-25-1,,pnar1238-4,25,arpʰaw san,arpʰaw san,[],,[],,False,False,,4
-pnar1238-4-26-1,,pnar1238-4,26,arpʰaw ɨndru,arpʰaw ɨndru,[],,[],,False,False,,4
-pnar1238-4-27-1,,pnar1238-4,27,arpʰaw ɨnɲaw,arpʰaw ɨnɲaw,[],,[],,False,False,,4
-pnar1238-4-28-1,,pnar1238-4,28,arpʰaw pʰraː,arpʰaw pʰraː,[],,[],,False,False,,4
-pnar1238-4-29-1,,pnar1238-4,29,arpʰaw kʰɨnde,arpʰaw kʰɨnde,[],,[],,False,False,,4
-pnar1238-4-30-1,,pnar1238-4,30,le pʰaw,le pʰaw,[],,[],,False,False,,4
-pnar1238-4-40-1,,pnar1238-4,40,so pʰaw,so pʰaw,[],,[],,False,False,,4
-pnar1238-4-50-1,,pnar1238-4,50,san pʰaw,san pʰaw,[],,[],,False,False,,4
-pnar1238-4-60-1,,pnar1238-4,60,ɨndru pʰaw,ɨndru pʰaw,[],,[],,False,False,,4
-pnar1238-4-70-1,,pnar1238-4,70,ɨnɲaw pʰaw,ɨnɲaw pʰaw,[],,[],,False,False,,4
-pnar1238-4-80-1,,pnar1238-4,80,pʰraː pʰaw,pʰraː pʰaw,[],,[],,False,False,,4
-pnar1238-4-90-1,,pnar1238-4,90,kʰɨnde pʰaw,kʰɨnde pʰaw,[],,[],,False,False,,4
-pnar1238-4-100-1,,pnar1238-4,100,cʰispaʔ,cʰispaʔ,[],,[],,False,False,,4
-pnar1238-4-200-1,,pnar1238-4,200,arspaʔ,arspaʔ,[],,[],,False,False,,4
-pnar1238-4-1000-1,,pnar1238-4,1000,cʰihaɟar,cʰihaɟar,[],< Indo-Aryan ,[],,True,False,,4
-pnar1238-4-2000-1,,pnar1238-4,2000,ar haɟar,ar haɟar,[],,[],,False,False,,4
+pnar1238-4-1-1,,pnar1238-4,1,wi,wi,[],,['chan2019'],,False,False,,4
+pnar1238-4-2-1,,pnar1238-4,2,ar,ar,[],,['chan2019'],,False,False,,4
+pnar1238-4-3-1,,pnar1238-4,3,le,le,[],,['chan2019'],,False,False,,4
+pnar1238-4-4-1,,pnar1238-4,4,so,so,[],,['chan2019'],,False,False,,4
+pnar1238-4-5-1,,pnar1238-4,5,san,san,[],,['chan2019'],,False,False,,4
+pnar1238-4-6-1,,pnar1238-4,6,ɨndru,ɨndru,[],,['chan2019'],,False,False,,4
+pnar1238-4-7-1,,pnar1238-4,7,ɨnɲaw,ɨnɲaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-8-1,,pnar1238-4,8,pʰra,pʰra,[],,['chan2019'],,False,False,,4
+pnar1238-4-9-1,,pnar1238-4,9,kʰɨnde,kʰɨnde,[],,['chan2019'],,False,False,,4
+pnar1238-4-10-1,,pnar1238-4,10,cʰipʰaw,cʰipʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-11-1,,pnar1238-4,11,kʰat wi,kʰat wi,[],,['chan2019'],,False,False,,4
+pnar1238-4-12-1,,pnar1238-4,12,kʰat ar,kʰat ar,[],,['chan2019'],,False,False,,4
+pnar1238-4-13-1,,pnar1238-4,13,kʰat le,kʰat le,[],,['chan2019'],,False,False,,4
+pnar1238-4-14-1,,pnar1238-4,14,kʰat so,kʰat so,[],,['chan2019'],,False,False,,4
+pnar1238-4-15-1,,pnar1238-4,15,kʰat san,kʰat san,[],,['chan2019'],,False,False,,4
+pnar1238-4-16-1,,pnar1238-4,16,kʰat ɨndru,kʰat ɨndru,[],,['chan2019'],,False,False,,4
+pnar1238-4-17-1,,pnar1238-4,17,kʰat ɨnɲaw,kʰat ɨnɲaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-18-1,,pnar1238-4,18,kʰat pʰraː,kʰat pʰraː,[],,['chan2019'],,False,False,,4
+pnar1238-4-19-1,,pnar1238-4,19,kʰat kʰɨnde,kʰat kʰɨnde,[],,['chan2019'],,False,False,,4
+pnar1238-4-20-1,,pnar1238-4,20,arpʰaw,arpʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-21-1,,pnar1238-4,21,arpʰawwi,arpʰawwi,[],,['chan2019'],,False,False,,4
+pnar1238-4-22-1,,pnar1238-4,22,arpʰaw ar,arpʰaw ar,[],,['chan2019'],,False,False,,4
+pnar1238-4-23-1,,pnar1238-4,23,arpʰaw le,arpʰaw le,[],,['chan2019'],,False,False,,4
+pnar1238-4-24-1,,pnar1238-4,24,arpʰaw so,arpʰaw so,[],,['chan2019'],,False,False,,4
+pnar1238-4-25-1,,pnar1238-4,25,arpʰaw san,arpʰaw san,[],,['chan2019'],,False,False,,4
+pnar1238-4-26-1,,pnar1238-4,26,arpʰaw ɨndru,arpʰaw ɨndru,[],,['chan2019'],,False,False,,4
+pnar1238-4-27-1,,pnar1238-4,27,arpʰaw ɨnɲaw,arpʰaw ɨnɲaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-28-1,,pnar1238-4,28,arpʰaw pʰraː,arpʰaw pʰraː,[],,['chan2019'],,False,False,,4
+pnar1238-4-29-1,,pnar1238-4,29,arpʰaw kʰɨnde,arpʰaw kʰɨnde,[],,['chan2019'],,False,False,,4
+pnar1238-4-30-1,,pnar1238-4,30,le pʰaw,le pʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-40-1,,pnar1238-4,40,so pʰaw,so pʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-50-1,,pnar1238-4,50,san pʰaw,san pʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-60-1,,pnar1238-4,60,ɨndru pʰaw,ɨndru pʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-70-1,,pnar1238-4,70,ɨnɲaw pʰaw,ɨnɲaw pʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-80-1,,pnar1238-4,80,pʰraː pʰaw,pʰraː pʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-90-1,,pnar1238-4,90,kʰɨnde pʰaw,kʰɨnde pʰaw,[],,['chan2019'],,False,False,,4
+pnar1238-4-100-1,,pnar1238-4,100,cʰispaʔ,cʰispaʔ,[],,['chan2019'],,False,False,,4
+pnar1238-4-200-1,,pnar1238-4,200,arspaʔ,arspaʔ,[],,['chan2019'],,False,False,,4
+pnar1238-4-1000-1,,pnar1238-4,1000,cʰihaɟar,cʰihaɟar,[],< Indo-Aryan ,['chan2019'],,True,False,,4
+pnar1238-4-2000-1,,pnar1238-4,2000,ar haɟar,ar haɟar,[],,['chan2019'],,False,False,,4

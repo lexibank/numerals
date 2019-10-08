@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-caqu1242-1-1-1,,caqu1242-1,1,apaɾo,apaɾo,[],,[],,False,False,aparo,1
-caqu1242-1-2-1,,caqu1242-1,2,maβite,maβite,[],,[],,False,False,mavite,1
-caqu1242-1-3-1,,caqu1242-1,3,maβitetapohatsika,maβitetapohatsika,[],,[],,False,False,mavitetapojátsica,1
-caqu1242-1-4-1,,caqu1242-1,4,ɡihatapohiɾoka,ɡihatapohiɾoka,[],,[],,False,False,ɡuijatapójiroca,1
-caqu1242-1-5-1,,caqu1242-1,5,teɾoŋɡapoha,teɾoŋɡapoha,[],,[],,False,False,teroncapoja,1
+caqu1242-1-1-1,,caqu1242-1,1,apaɾo,apaɾo,[],,['chan2019'],,False,False,aparo,1
+caqu1242-1-2-1,,caqu1242-1,2,maβite,maβite,[],,['chan2019'],,False,False,mavite,1
+caqu1242-1-3-1,,caqu1242-1,3,maβitetapohatsika,maβitetapohatsika,[],,['chan2019'],,False,False,mavitetapojátsica,1
+caqu1242-1-4-1,,caqu1242-1,4,ɡihatapohiɾoka,ɡihatapohiɾoka,[],,['chan2019'],,False,False,ɡuijatapójiroca,1
+caqu1242-1-5-1,,caqu1242-1,5,teɾoŋɡapoha,teɾoŋɡapoha,[],,['chan2019'],,False,False,teroncapoja,1

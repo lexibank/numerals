@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-baro1253-1-1-1,,baro1253-1,1,oŋ,oŋ,[],,[],,False,False,,1
-baro1253-1-2-1,,baro1253-1,2,ninoŋ,ninoŋ,[],,[],,False,False,,1
-baro1253-1-2-2,,baro1253-1,2,ni,ni,[],,[],,False,False,,1
-baro1253-1-3-1,,baro1253-1,3,narun,narun,[],,[],,False,False,,1
-baro1253-1-4-1,,baro1253-1,4,nit,nit,[],,[],,False,False,,1
-baro1253-1-5-1,,baro1253-1,5,pitno,pitno,[],,[],,False,False,,1
-baro1253-1-6-1,,baro1253-1,6,pitno ma oŋ,pitno ma oŋ,[],( 5 + 1 ),[],,False,False,,1
-baro1253-1-7-1,,baro1253-1,7,pitno ma ninoŋ,pitno ma ninoŋ,[],( 5 + 2 ),[],,False,False,,1
-baro1253-1-8-1,,baro1253-1,8,pitno ma narun,pitno ma narun,[],( 5 + 3 ),[],,False,False,,1
-baro1253-1-9-1,,baro1253-1,9,pitno ma nit,pitno ma nit,[],( 5 + 4 ),[],,False,False,,1
-baro1253-1-10-1,,baro1253-1,10,saŋaun,saŋaun,[],,[],,False,False,,1
-baro1253-1-11-1,,baro1253-1,11,saŋaun ma oŋ,saŋaun ma oŋ,[],,[],,False,False,,1
-baro1253-1-12-1,,baro1253-1,12,saŋaun ma ninoŋ,saŋaun ma ninoŋ,[],,[],,False,False,,1
-baro1253-1-13-1,,baro1253-1,13,saŋaun ma narun,saŋaun ma narun,[],,[],,False,False,,1
-baro1253-1-14-1,,baro1253-1,14,saŋaun ma nit,saŋaun ma nit,[],,[],,False,False,,1
-baro1253-1-15-1,,baro1253-1,15,saŋaun ma pitno,saŋaun ma pitno,[],,[],,False,False,,1
-baro1253-1-16-1,,baro1253-1,16,saŋaun ma pitno ma oŋ,saŋaun ma pitno ma oŋ,[],,[],,False,False,,1
-baro1253-1-17-1,,baro1253-1,17,saŋaun ma pitno ma ninoŋ,saŋaun ma pitno ma ninoŋ,[],,[],,False,False,,1
-baro1253-1-18-1,,baro1253-1,18,saŋaun ma pitno ma narun,saŋaun ma pitno ma narun,[],,[],,False,False,,1
-baro1253-1-19-1,,baro1253-1,19,saŋaun ma pitno ma nit,saŋaun ma pitno ma nit,[],,[],,False,False,,1
-baro1253-1-20-1,,baro1253-1,20,ni ne saŋaun,ni ne saŋaun,[],,[],,False,False,,1
-baro1253-1-21-1,,baro1253-1,21,ni ne saŋaun ma oŋ,ni ne saŋaun ma oŋ,[],,[],,False,False,,1
-baro1253-1-22-1,,baro1253-1,22,ni ne saŋaun ma ninoŋ,ni ne saŋaun ma ninoŋ,[],,[],,False,False,,1
-baro1253-1-23-1,,baro1253-1,23,ni ne saŋaun ma narun,ni ne saŋaun ma narun,[],,[],,False,False,,1
-baro1253-1-24-1,,baro1253-1,24,ni ne saŋaun ma nit,ni ne saŋaun ma nit,[],,[],,False,False,,1
-baro1253-1-25-1,,baro1253-1,25,ni ne saŋaun ma pitno,ni ne saŋaun ma pitno,[],,[],,False,False,,1
-baro1253-1-26-1,,baro1253-1,26,ni ne saŋaun ma pitno ma oŋ,ni ne saŋaun ma pitno ma oŋ,[],,[],,False,False,,1
-baro1253-1-27-1,,baro1253-1,27,ni ne saŋaun ma pitno ma ninoŋ,ni ne saŋaun ma pitno ma ninoŋ,[],,[],,False,False,,1
-baro1253-1-28-1,,baro1253-1,28,ni ne saŋaun ma pitno ma narun,ni ne saŋaun ma pitno ma narun,[],,[],,False,False,,1
-baro1253-1-29-1,,baro1253-1,29,ni ne saŋaun ma pitno ma nit,ni ne saŋaun ma pitno ma nit,[],,[],,False,False,,1
-baro1253-1-30-1,,baro1253-1,30,narun ne saŋaun,narun ne saŋaun,[],,[],,False,False,,1
-baro1253-1-40-1,,baro1253-1,40,nit ne saŋaun,nit ne saŋaun,[],,[],,False,False,,1
-baro1253-1-50-1,,baro1253-1,50,pitno ne saŋaun,pitno ne saŋaun,[],,[],,False,False,,1
-baro1253-1-60-1,,baro1253-1,60,pitno ma oŋ ne saŋaun,pitno ma oŋ ne saŋaun,[],,[],,False,False,,1
-baro1253-1-70-1,,baro1253-1,70,pitno ma ninoŋ ne saŋaun,pitno ma ninoŋ ne saŋaun,[],,[],,False,False,,1
-baro1253-1-80-1,,baro1253-1,80,pitno ma narun ne saŋaun,pitno ma narun ne saŋaun,[],,[],,False,False,,1
-baro1253-1-90-1,,baro1253-1,90,pitno ma nit ne saŋaun,pitno ma nit ne saŋaun,[],,[],,False,False,,1
-baro1253-1-100-1,,baro1253-1,100,oŋ a mar,oŋ a mar,[],( < Tolai ),[],,True,False,,1
-baro1253-1-200-1,,baro1253-1,200,ninoŋ ne mar,ninoŋ ne mar,[],,[],,False,False,,1
-baro1253-1-1000-1,,baro1253-1,1000,oŋ a arip,oŋ a arip,[],( < Tolai ),[],,True,False,,1
-baro1253-1-2000-1,,baro1253-1,2000,ninoŋ ne arip,ninoŋ ne arip,[],,[],,False,False,,1
+baro1253-1-1-1,,baro1253-1,1,oŋ,oŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-2-1,,baro1253-1,2,ninoŋ,ninoŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-2-2,,baro1253-1,2,ni,ni,[],,['chan2019'],,False,False,,1
+baro1253-1-3-1,,baro1253-1,3,narun,narun,[],,['chan2019'],,False,False,,1
+baro1253-1-4-1,,baro1253-1,4,nit,nit,[],,['chan2019'],,False,False,,1
+baro1253-1-5-1,,baro1253-1,5,pitno,pitno,[],,['chan2019'],,False,False,,1
+baro1253-1-6-1,,baro1253-1,6,pitno ma oŋ,pitno ma oŋ,[],( 5 + 1 ),['chan2019'],,False,False,,1
+baro1253-1-7-1,,baro1253-1,7,pitno ma ninoŋ,pitno ma ninoŋ,[],( 5 + 2 ),['chan2019'],,False,False,,1
+baro1253-1-8-1,,baro1253-1,8,pitno ma narun,pitno ma narun,[],( 5 + 3 ),['chan2019'],,False,False,,1
+baro1253-1-9-1,,baro1253-1,9,pitno ma nit,pitno ma nit,[],( 5 + 4 ),['chan2019'],,False,False,,1
+baro1253-1-10-1,,baro1253-1,10,saŋaun,saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-11-1,,baro1253-1,11,saŋaun ma oŋ,saŋaun ma oŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-12-1,,baro1253-1,12,saŋaun ma ninoŋ,saŋaun ma ninoŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-13-1,,baro1253-1,13,saŋaun ma narun,saŋaun ma narun,[],,['chan2019'],,False,False,,1
+baro1253-1-14-1,,baro1253-1,14,saŋaun ma nit,saŋaun ma nit,[],,['chan2019'],,False,False,,1
+baro1253-1-15-1,,baro1253-1,15,saŋaun ma pitno,saŋaun ma pitno,[],,['chan2019'],,False,False,,1
+baro1253-1-16-1,,baro1253-1,16,saŋaun ma pitno ma oŋ,saŋaun ma pitno ma oŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-17-1,,baro1253-1,17,saŋaun ma pitno ma ninoŋ,saŋaun ma pitno ma ninoŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-18-1,,baro1253-1,18,saŋaun ma pitno ma narun,saŋaun ma pitno ma narun,[],,['chan2019'],,False,False,,1
+baro1253-1-19-1,,baro1253-1,19,saŋaun ma pitno ma nit,saŋaun ma pitno ma nit,[],,['chan2019'],,False,False,,1
+baro1253-1-20-1,,baro1253-1,20,ni ne saŋaun,ni ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-21-1,,baro1253-1,21,ni ne saŋaun ma oŋ,ni ne saŋaun ma oŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-22-1,,baro1253-1,22,ni ne saŋaun ma ninoŋ,ni ne saŋaun ma ninoŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-23-1,,baro1253-1,23,ni ne saŋaun ma narun,ni ne saŋaun ma narun,[],,['chan2019'],,False,False,,1
+baro1253-1-24-1,,baro1253-1,24,ni ne saŋaun ma nit,ni ne saŋaun ma nit,[],,['chan2019'],,False,False,,1
+baro1253-1-25-1,,baro1253-1,25,ni ne saŋaun ma pitno,ni ne saŋaun ma pitno,[],,['chan2019'],,False,False,,1
+baro1253-1-26-1,,baro1253-1,26,ni ne saŋaun ma pitno ma oŋ,ni ne saŋaun ma pitno ma oŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-27-1,,baro1253-1,27,ni ne saŋaun ma pitno ma ninoŋ,ni ne saŋaun ma pitno ma ninoŋ,[],,['chan2019'],,False,False,,1
+baro1253-1-28-1,,baro1253-1,28,ni ne saŋaun ma pitno ma narun,ni ne saŋaun ma pitno ma narun,[],,['chan2019'],,False,False,,1
+baro1253-1-29-1,,baro1253-1,29,ni ne saŋaun ma pitno ma nit,ni ne saŋaun ma pitno ma nit,[],,['chan2019'],,False,False,,1
+baro1253-1-30-1,,baro1253-1,30,narun ne saŋaun,narun ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-40-1,,baro1253-1,40,nit ne saŋaun,nit ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-50-1,,baro1253-1,50,pitno ne saŋaun,pitno ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-60-1,,baro1253-1,60,pitno ma oŋ ne saŋaun,pitno ma oŋ ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-70-1,,baro1253-1,70,pitno ma ninoŋ ne saŋaun,pitno ma ninoŋ ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-80-1,,baro1253-1,80,pitno ma narun ne saŋaun,pitno ma narun ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-90-1,,baro1253-1,90,pitno ma nit ne saŋaun,pitno ma nit ne saŋaun,[],,['chan2019'],,False,False,,1
+baro1253-1-100-1,,baro1253-1,100,oŋ a mar,oŋ a mar,[],( < Tolai ),['chan2019'],,True,False,,1
+baro1253-1-200-1,,baro1253-1,200,ninoŋ ne mar,ninoŋ ne mar,[],,['chan2019'],,False,False,,1
+baro1253-1-1000-1,,baro1253-1,1000,oŋ a arip,oŋ a arip,[],( < Tolai ),['chan2019'],,True,False,,1
+baro1253-1-2000-1,,baro1253-1,2000,ninoŋ ne arip,ninoŋ ne arip,[],,['chan2019'],,False,False,,1

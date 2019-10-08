@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-wamb1257-1-1-1,,wamb1257-1,1,kwalo,kwalo,[],,[],,False,False,,1
-wamb1257-1-1-2,,wamb1257-1,1,kwal,kwal,[],,[],,False,False,,1
-wamb1257-1-2-1,,wamb1257-1,2,dui,dui,[],< Nepali ,[],,True,False,,1
-wamb1257-1-3-1,,wamb1257-1,3,tin,tin,[],< Nepali ,[],,True,False,,1
-wamb1257-1-4-1,,wamb1257-1,4,car,car,[],< Nepali ,[],,True,False,,1
-wamb1257-1-5-1,,wamb1257-1,5,pãn,pãn,[],< Nepali ,[],,True,False,,1
-wamb1257-1-6-1,,wamb1257-1,6,chʌ,chʌ,[],< Nepali ,[],,True,False,,1
-wamb1257-1-7-1,,wamb1257-1,7,sat,sat,[],< Nepali ,[],,True,False,,1
-wamb1257-1-8-1,,wamb1257-1,8,aʈʰ,aʈʰ,[],< Nepali ,[],,True,False,,1
-wamb1257-1-9-1,,wamb1257-1,9,nʌu,nʌu,[],< Nepali ,[],,True,False,,1
-wamb1257-1-10-1,,wamb1257-1,10,dʌs,dʌs,[],< Nepali ,[],,True,False,,1
-wamb1257-1-11-1,,wamb1257-1,11,egʰarʌ,egʰarʌ,[],< Nepali ,[],,True,False,,1
-wamb1257-1-12-1,,wamb1257-1,12,barʌ,barʌ,[],< Nepali ,[],,True,False,,1
+wamb1257-1-1-1,,wamb1257-1,1,kwalo,kwalo,[],,['chan2019'],,False,False,,1
+wamb1257-1-1-2,,wamb1257-1,1,kwal,kwal,[],,['chan2019'],,False,False,,1
+wamb1257-1-2-1,,wamb1257-1,2,dui,dui,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-3-1,,wamb1257-1,3,tin,tin,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-4-1,,wamb1257-1,4,car,car,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-5-1,,wamb1257-1,5,pãn,pãn,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-6-1,,wamb1257-1,6,chʌ,chʌ,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-7-1,,wamb1257-1,7,sat,sat,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-8-1,,wamb1257-1,8,aʈʰ,aʈʰ,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-9-1,,wamb1257-1,9,nʌu,nʌu,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-10-1,,wamb1257-1,10,dʌs,dʌs,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-11-1,,wamb1257-1,11,egʰarʌ,egʰarʌ,[],< Nepali ,['chan2019'],,True,False,,1
+wamb1257-1-12-1,,wamb1257-1,12,barʌ,barʌ,[],< Nepali ,['chan2019'],,True,False,,1

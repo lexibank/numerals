@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gebe1237-1-1-1,,gebe1237-1,1,pisa,pisa,[],,[],,False,False,,1
-gebe1237-1-2-1,,gebe1237-1,2,pilu,pilu,[],,[],,False,False,,1
-gebe1237-1-3-1,,gebe1237-1,3,pitol,pitol,[],,[],,False,False,,1
-gebe1237-1-4-1,,gebe1237-1,4,pifat,pifat,[],,[],,False,False,,1
-gebe1237-1-5-1,,gebe1237-1,5,pilim,pilim,[],,[],,False,False,,1
-gebe1237-1-6-1,,gebe1237-1,6,piwonom,piwonom,[],,[],,False,False,,1
-gebe1237-1-7-1,,gebe1237-1,7,pifit,pifit,[],,[],,False,False,,1
-gebe1237-1-8-1,,gebe1237-1,8,piwal,piwal,[],,[],,False,False,,1
-gebe1237-1-9-1,,gebe1237-1,9,pisiw,pisiw,[],,[],,False,False,,1
-gebe1237-1-10-1,,gebe1237-1,10,wot͡ʃa,wot͡ʃa,[],,[],,False,False,,1
-gebe1237-1-11-1,,gebe1237-1,11,wot͡ʃa re pisa,wot͡ʃa re pisa,[],,[],,False,False,,1
-gebe1237-1-12-1,,gebe1237-1,12,wot͡ʃa re pilu,wot͡ʃa re pilu,[],,[],,False,False,,1
-gebe1237-1-13-1,,gebe1237-1,13,wot͡ʃa re pitol,wot͡ʃa re pitol,[],,[],,False,False,,1
-gebe1237-1-14-1,,gebe1237-1,14,wot͡ʃa re pifat,wot͡ʃa re pifat,[],,[],,False,False,,1
-gebe1237-1-15-1,,gebe1237-1,15,wot͡ʃa re pilim,wot͡ʃa re pilim,[],,[],,False,False,,1
-gebe1237-1-16-1,,gebe1237-1,16,wot͡ʃa re piwonom,wot͡ʃa re piwonom,[],,[],,False,False,,1
-gebe1237-1-17-1,,gebe1237-1,17,wot͡ʃa re pifit,wot͡ʃa re pifit,[],,[],,False,False,,1
-gebe1237-1-18-1,,gebe1237-1,18,wot͡ʃa re piwal,wot͡ʃa re piwal,[],,[],,False,False,,1
-gebe1237-1-19-1,,gebe1237-1,19,wot͡ʃa re pisiw,wot͡ʃa re pisiw,[],,[],,False,False,,1
-gebe1237-1-20-1,,gebe1237-1,20,afalu,afalu,[],,[],,False,False,,1
-gebe1237-1-21-1,,gebe1237-1,21,afalu re pisa,afalu re pisa,[],,[],,False,False,,1
-gebe1237-1-22-1,,gebe1237-1,22,afalu re pilu,afalu re pilu,[],,[],,False,False,,1
-gebe1237-1-23-1,,gebe1237-1,23,afalu re pitol,afalu re pitol,[],,[],,False,False,,1
-gebe1237-1-24-1,,gebe1237-1,24,afalu re pifat,afalu re pifat,[],,[],,False,False,,1
-gebe1237-1-25-1,,gebe1237-1,25,afalu re pilim,afalu re pilim,[],,[],,False,False,,1
-gebe1237-1-26-1,,gebe1237-1,26,afalu re piwonom,afalu re piwonom,[],,[],,False,False,,1
-gebe1237-1-27-1,,gebe1237-1,27,afalu re pifit,afalu re pifit,[],,[],,False,False,,1
-gebe1237-1-28-1,,gebe1237-1,28,afalu re piwal,afalu re piwal,[],,[],,False,False,,1
-gebe1237-1-29-1,,gebe1237-1,29,afalu re pisiw,afalu re pisiw,[],,[],,False,False,,1
-gebe1237-1-30-1,,gebe1237-1,30,afatol,afatol,[],,[],,False,False,,1
-gebe1237-1-40-1,,gebe1237-1,40,affat,affat,[],,[],,False,False,,1
-gebe1237-1-50-1,,gebe1237-1,50,afalim,afalim,[],,[],,False,False,,1
-gebe1237-1-60-1,,gebe1237-1,60,afawonom,afawonom,[],,[],,False,False,,1
-gebe1237-1-70-1,,gebe1237-1,70,affit,affit,[],,[],,False,False,,1
-gebe1237-1-80-1,,gebe1237-1,80,afawai,afawai,[],,[],,False,False,,1
-gebe1237-1-90-1,,gebe1237-1,90,afasiw,afasiw,[],,[],,False,False,,1
-gebe1237-1-100-1,,gebe1237-1,100,utinsa,utinsa,[],,[],,False,False,,1
-gebe1237-1-200-1,,gebe1237-1,200,utinlu,utinlu,[],,[],,False,False,,1
-gebe1237-1-1000-1,,gebe1237-1,1000,t͡ʃalansa,t͡ʃalansa,[],( c = IPA [t͡ʃ]),[],,False,False,,1
-gebe1237-1-2000-1,,gebe1237-1,2000,t͡ʃalanlu,t͡ʃalanlu,[],,[],,False,False,,1
+gebe1237-1-1-1,,gebe1237-1,1,pisa,pisa,[],,['chan2019'],,False,False,,1
+gebe1237-1-2-1,,gebe1237-1,2,pilu,pilu,[],,['chan2019'],,False,False,,1
+gebe1237-1-3-1,,gebe1237-1,3,pitol,pitol,[],,['chan2019'],,False,False,,1
+gebe1237-1-4-1,,gebe1237-1,4,pifat,pifat,[],,['chan2019'],,False,False,,1
+gebe1237-1-5-1,,gebe1237-1,5,pilim,pilim,[],,['chan2019'],,False,False,,1
+gebe1237-1-6-1,,gebe1237-1,6,piwonom,piwonom,[],,['chan2019'],,False,False,,1
+gebe1237-1-7-1,,gebe1237-1,7,pifit,pifit,[],,['chan2019'],,False,False,,1
+gebe1237-1-8-1,,gebe1237-1,8,piwal,piwal,[],,['chan2019'],,False,False,,1
+gebe1237-1-9-1,,gebe1237-1,9,pisiw,pisiw,[],,['chan2019'],,False,False,,1
+gebe1237-1-10-1,,gebe1237-1,10,wot͡ʃa,wot͡ʃa,[],,['chan2019'],,False,False,,1
+gebe1237-1-11-1,,gebe1237-1,11,wot͡ʃa re pisa,wot͡ʃa re pisa,[],,['chan2019'],,False,False,,1
+gebe1237-1-12-1,,gebe1237-1,12,wot͡ʃa re pilu,wot͡ʃa re pilu,[],,['chan2019'],,False,False,,1
+gebe1237-1-13-1,,gebe1237-1,13,wot͡ʃa re pitol,wot͡ʃa re pitol,[],,['chan2019'],,False,False,,1
+gebe1237-1-14-1,,gebe1237-1,14,wot͡ʃa re pifat,wot͡ʃa re pifat,[],,['chan2019'],,False,False,,1
+gebe1237-1-15-1,,gebe1237-1,15,wot͡ʃa re pilim,wot͡ʃa re pilim,[],,['chan2019'],,False,False,,1
+gebe1237-1-16-1,,gebe1237-1,16,wot͡ʃa re piwonom,wot͡ʃa re piwonom,[],,['chan2019'],,False,False,,1
+gebe1237-1-17-1,,gebe1237-1,17,wot͡ʃa re pifit,wot͡ʃa re pifit,[],,['chan2019'],,False,False,,1
+gebe1237-1-18-1,,gebe1237-1,18,wot͡ʃa re piwal,wot͡ʃa re piwal,[],,['chan2019'],,False,False,,1
+gebe1237-1-19-1,,gebe1237-1,19,wot͡ʃa re pisiw,wot͡ʃa re pisiw,[],,['chan2019'],,False,False,,1
+gebe1237-1-20-1,,gebe1237-1,20,afalu,afalu,[],,['chan2019'],,False,False,,1
+gebe1237-1-21-1,,gebe1237-1,21,afalu re pisa,afalu re pisa,[],,['chan2019'],,False,False,,1
+gebe1237-1-22-1,,gebe1237-1,22,afalu re pilu,afalu re pilu,[],,['chan2019'],,False,False,,1
+gebe1237-1-23-1,,gebe1237-1,23,afalu re pitol,afalu re pitol,[],,['chan2019'],,False,False,,1
+gebe1237-1-24-1,,gebe1237-1,24,afalu re pifat,afalu re pifat,[],,['chan2019'],,False,False,,1
+gebe1237-1-25-1,,gebe1237-1,25,afalu re pilim,afalu re pilim,[],,['chan2019'],,False,False,,1
+gebe1237-1-26-1,,gebe1237-1,26,afalu re piwonom,afalu re piwonom,[],,['chan2019'],,False,False,,1
+gebe1237-1-27-1,,gebe1237-1,27,afalu re pifit,afalu re pifit,[],,['chan2019'],,False,False,,1
+gebe1237-1-28-1,,gebe1237-1,28,afalu re piwal,afalu re piwal,[],,['chan2019'],,False,False,,1
+gebe1237-1-29-1,,gebe1237-1,29,afalu re pisiw,afalu re pisiw,[],,['chan2019'],,False,False,,1
+gebe1237-1-30-1,,gebe1237-1,30,afatol,afatol,[],,['chan2019'],,False,False,,1
+gebe1237-1-40-1,,gebe1237-1,40,affat,affat,[],,['chan2019'],,False,False,,1
+gebe1237-1-50-1,,gebe1237-1,50,afalim,afalim,[],,['chan2019'],,False,False,,1
+gebe1237-1-60-1,,gebe1237-1,60,afawonom,afawonom,[],,['chan2019'],,False,False,,1
+gebe1237-1-70-1,,gebe1237-1,70,affit,affit,[],,['chan2019'],,False,False,,1
+gebe1237-1-80-1,,gebe1237-1,80,afawai,afawai,[],,['chan2019'],,False,False,,1
+gebe1237-1-90-1,,gebe1237-1,90,afasiw,afasiw,[],,['chan2019'],,False,False,,1
+gebe1237-1-100-1,,gebe1237-1,100,utinsa,utinsa,[],,['chan2019'],,False,False,,1
+gebe1237-1-200-1,,gebe1237-1,200,utinlu,utinlu,[],,['chan2019'],,False,False,,1
+gebe1237-1-1000-1,,gebe1237-1,1000,t͡ʃalansa,t͡ʃalansa,[],( c = IPA [t͡ʃ]),['chan2019'],,False,False,,1
+gebe1237-1-2000-1,,gebe1237-1,2000,t͡ʃalanlu,t͡ʃalanlu,[],,['chan2019'],,False,False,,1

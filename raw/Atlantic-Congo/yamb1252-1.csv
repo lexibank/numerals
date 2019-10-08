@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yamb1252-1-1-1,,yamb1252-1,1,ímùʔ,ímùʔ,[],,[],,False,False,,1
-yamb1252-1-2-1,,yamb1252-1,2,mɔ́bààn,mɔ́bààn,[],,[],,False,False,,1
-yamb1252-1-3-1,,yamb1252-1,3,mɔ́dáád,mɔ́dáád,[],,[],,False,False,,1
-yamb1252-1-4-1,,yamb1252-1,4,múnìʔ,múnìʔ,[],,[],,False,False,,1
-yamb1252-1-5-1,,yamb1252-1,5,mɔ́táàn,mɔ́táàn,[],,[],,False,False,,1
-yamb1252-1-6-1,,yamb1252-1,6,mɔ́táàn nà úmmùʔ,mɔ́táàn nà úmmùʔ,[],( 5 + 1),[],,False,False,,1
-yamb1252-1-7-1,,yamb1252-1,7,mɔ́táàn nà mɔ́bààn,mɔ́táàn nà mɔ́bààn,[],( 5 + 2),[],,False,False,,1
-yamb1252-1-8-1,,yamb1252-1,8,mɔ́táàn nà mɔ́dáád,mɔ́táàn nà mɔ́dáád,[],( 5 + 3),[],,False,False,,1
-yamb1252-1-9-1,,yamb1252-1,9,mɔ́táàn nà múnìʔ,mɔ́táàn nà múnìʔ,[],( 5 + 4),[],,False,False,,1
-yamb1252-1-10-1,,yamb1252-1,10,mɔ́wád,mɔ́wád,[],,[],,False,False,,1
-yamb1252-1-11-1,,yamb1252-1,11,mɔ́wád nà úmmùʔ,mɔ́wád nà úmmùʔ,[],( 10 + 1 ),[],,False,False,,1
-yamb1252-1-12-1,,yamb1252-1,12,mɔ́wád nà mɔ́bààn,mɔ́wád nà mɔ́bààn,[],( 10 + 2 ),[],,False,False,,1
-yamb1252-1-13-1,,yamb1252-1,13,mɔ́wád nà mɔ́dáád,mɔ́wád nà mɔ́dáád,[],( 10 + 3 ),[],,False,False,,1
-yamb1252-1-14-1,,yamb1252-1,14,mɔ́wád nà múnìʔ,mɔ́wád nà múnìʔ,[],( 10 + 4 ),[],,False,False,,1
-yamb1252-1-15-1,,yamb1252-1,15,pùùnìʔ,pùùnìʔ,[],,[],,False,False,,1
-yamb1252-1-16-1,,yamb1252-1,16,pùùnìʔ nà úmmùʔ,pùùnìʔ nà úmmùʔ,[],( 15 + 1 ),[],,False,False,,1
-yamb1252-1-17-1,,yamb1252-1,17,pùùnìʔ nà mɔ́bààn,pùùnìʔ nà mɔ́bààn,[],( 15 + 2),[],,False,False,,1
-yamb1252-1-18-1,,yamb1252-1,18,pùùnìʔ nà mɔ́dáád,pùùnìʔ nà mɔ́dáád,[],( 15 + 3 ),[],,False,False,,1
-yamb1252-1-19-1,,yamb1252-1,19,pùùnìʔ nà múnìʔ,pùùnìʔ nà múnìʔ,[],( 15 + 4 ),[],,False,False,,1
-yamb1252-1-20-1,,yamb1252-1,20,nìtìn,nìtìn,[],,[],,False,False,,1
-yamb1252-1-21-1,,yamb1252-1,21,nìtìn nà úmmùʔ,nìtìn nà úmmùʔ,[],,[],,False,False,,1
-yamb1252-1-22-1,,yamb1252-1,22,nìtìn nà mɔ́bààn,nìtìn nà mɔ́bààn,[],,[],,False,False,,1
-yamb1252-1-23-1,,yamb1252-1,23,nìtìn nà mɔ́dáád,nìtìn nà mɔ́dáád,[],,[],,False,False,,1
-yamb1252-1-24-1,,yamb1252-1,24,nìtìn nà múnìʔ,nìtìn nà múnìʔ,[],,[],,False,False,,1
-yamb1252-1-25-1,,yamb1252-1,25,nìtìn nà mɔ́táàn,nìtìn nà mɔ́táàn,[],,[],,False,False,,1
-yamb1252-1-26-1,,yamb1252-1,26,nìtìn nà mɔ́táàn nà úmmùʔ,nìtìn nà mɔ́táàn nà úmmùʔ,[],,[],,False,False,,1
-yamb1252-1-27-1,,yamb1252-1,27,nìtìn nà mɔ́táàn nà mɔ́bààn,nìtìn nà mɔ́táàn nà mɔ́bààn,[],,[],,False,False,,1
-yamb1252-1-28-1,,yamb1252-1,28,nìtìn nà mɔ́táàn nà mɔ́dáád,nìtìn nà mɔ́táàn nà mɔ́dáád,[],,[],,False,False,,1
-yamb1252-1-29-1,,yamb1252-1,29,nìtìn nà mɔ́táàn nà múnìʔ,nìtìn nà mɔ́táàn nà múnìʔ,[],,[],,False,False,,1
-yamb1252-1-30-1,,yamb1252-1,30,nìtìn nà mɔ́wád,nìtìn nà mɔ́wád,[],( '20 with 10 '),[],,False,False,,1
-yamb1252-1-40-1,,yamb1252-1,40,ə̀tìn ábààn,ə̀tìn ábààn,[],( 20's two ),[],,False,False,,1
-yamb1252-1-50-1,,yamb1252-1,50,ə̀tìn ábààn nà mɔ́wád,ə̀tìn ábààn nà mɔ́wád,[],,[],,False,False,,1
-yamb1252-1-60-1,,yamb1252-1,60,ə̀tìn ádáád,ə̀tìn ádáád,[],( 20's three ),[],,False,False,,1
-yamb1252-1-70-1,,yamb1252-1,70,ə̀tìn ádáád nà mɔ́wád,ə̀tìn ádáád nà mɔ́wád,[],,[],,False,False,,1
-yamb1252-1-80-1,,yamb1252-1,80,ə̀tìn ə́nìʔ,ə̀tìn ə́nìʔ,[],( 20's four ),[],,False,False,,1
-yamb1252-1-90-1,,yamb1252-1,90,ə̀tìn ə́nìʔ nà mɔ́wád,ə̀tìn ə́nìʔ nà mɔ́wád,[],,[],,False,False,,1
-yamb1252-1-100-1,,yamb1252-1,100,ə̀tìn átáàn,ə̀tìn átáàn,[],,[],,False,False,,1
-yamb1252-1-100-2,,yamb1252-1,100,ɔ́ndɛ́d,ɔ́ndɛ́d,[],( 'ɔ́ndɛ́d '< English ),[],,True,False,,1
-yamb1252-1-200-1,,yamb1252-1,200,ə̀tìn jówád,ə̀tìn jówád,[],,[],,False,False,,1
-yamb1252-1-200-2,,yamb1252-1,200,ɔ́ndɛ́d ɛ́bààn,ɔ́ndɛ́d ɛ́bààn,[],,[],,False,False,,1
-yamb1252-1-1000-1,,yamb1252-1,1000,tɔ́ɔsɛ̀n,tɔ́ɔsɛ̀n,[],( ' tɔ́ɔsɛ̀n ' from English ),[],,False,False,,1
-yamb1252-1-2000-1,,yamb1252-1,2000,tɔ́ɔsɛ̀n ɛ́bààn,tɔ́ɔsɛ̀n ɛ́bààn,[],,[],,False,False,,1
+yamb1252-1-1-1,,yamb1252-1,1,ímùʔ,ímùʔ,[],,['chan2019'],,False,False,,1
+yamb1252-1-2-1,,yamb1252-1,2,mɔ́bààn,mɔ́bààn,[],,['chan2019'],,False,False,,1
+yamb1252-1-3-1,,yamb1252-1,3,mɔ́dáád,mɔ́dáád,[],,['chan2019'],,False,False,,1
+yamb1252-1-4-1,,yamb1252-1,4,múnìʔ,múnìʔ,[],,['chan2019'],,False,False,,1
+yamb1252-1-5-1,,yamb1252-1,5,mɔ́táàn,mɔ́táàn,[],,['chan2019'],,False,False,,1
+yamb1252-1-6-1,,yamb1252-1,6,mɔ́táàn nà úmmùʔ,mɔ́táàn nà úmmùʔ,[],( 5 + 1),['chan2019'],,False,False,,1
+yamb1252-1-7-1,,yamb1252-1,7,mɔ́táàn nà mɔ́bààn,mɔ́táàn nà mɔ́bààn,[],( 5 + 2),['chan2019'],,False,False,,1
+yamb1252-1-8-1,,yamb1252-1,8,mɔ́táàn nà mɔ́dáád,mɔ́táàn nà mɔ́dáád,[],( 5 + 3),['chan2019'],,False,False,,1
+yamb1252-1-9-1,,yamb1252-1,9,mɔ́táàn nà múnìʔ,mɔ́táàn nà múnìʔ,[],( 5 + 4),['chan2019'],,False,False,,1
+yamb1252-1-10-1,,yamb1252-1,10,mɔ́wád,mɔ́wád,[],,['chan2019'],,False,False,,1
+yamb1252-1-11-1,,yamb1252-1,11,mɔ́wád nà úmmùʔ,mɔ́wád nà úmmùʔ,[],( 10 + 1 ),['chan2019'],,False,False,,1
+yamb1252-1-12-1,,yamb1252-1,12,mɔ́wád nà mɔ́bààn,mɔ́wád nà mɔ́bààn,[],( 10 + 2 ),['chan2019'],,False,False,,1
+yamb1252-1-13-1,,yamb1252-1,13,mɔ́wád nà mɔ́dáád,mɔ́wád nà mɔ́dáád,[],( 10 + 3 ),['chan2019'],,False,False,,1
+yamb1252-1-14-1,,yamb1252-1,14,mɔ́wád nà múnìʔ,mɔ́wád nà múnìʔ,[],( 10 + 4 ),['chan2019'],,False,False,,1
+yamb1252-1-15-1,,yamb1252-1,15,pùùnìʔ,pùùnìʔ,[],,['chan2019'],,False,False,,1
+yamb1252-1-16-1,,yamb1252-1,16,pùùnìʔ nà úmmùʔ,pùùnìʔ nà úmmùʔ,[],( 15 + 1 ),['chan2019'],,False,False,,1
+yamb1252-1-17-1,,yamb1252-1,17,pùùnìʔ nà mɔ́bààn,pùùnìʔ nà mɔ́bààn,[],( 15 + 2),['chan2019'],,False,False,,1
+yamb1252-1-18-1,,yamb1252-1,18,pùùnìʔ nà mɔ́dáád,pùùnìʔ nà mɔ́dáád,[],( 15 + 3 ),['chan2019'],,False,False,,1
+yamb1252-1-19-1,,yamb1252-1,19,pùùnìʔ nà múnìʔ,pùùnìʔ nà múnìʔ,[],( 15 + 4 ),['chan2019'],,False,False,,1
+yamb1252-1-20-1,,yamb1252-1,20,nìtìn,nìtìn,[],,['chan2019'],,False,False,,1
+yamb1252-1-21-1,,yamb1252-1,21,nìtìn nà úmmùʔ,nìtìn nà úmmùʔ,[],,['chan2019'],,False,False,,1
+yamb1252-1-22-1,,yamb1252-1,22,nìtìn nà mɔ́bààn,nìtìn nà mɔ́bààn,[],,['chan2019'],,False,False,,1
+yamb1252-1-23-1,,yamb1252-1,23,nìtìn nà mɔ́dáád,nìtìn nà mɔ́dáád,[],,['chan2019'],,False,False,,1
+yamb1252-1-24-1,,yamb1252-1,24,nìtìn nà múnìʔ,nìtìn nà múnìʔ,[],,['chan2019'],,False,False,,1
+yamb1252-1-25-1,,yamb1252-1,25,nìtìn nà mɔ́táàn,nìtìn nà mɔ́táàn,[],,['chan2019'],,False,False,,1
+yamb1252-1-26-1,,yamb1252-1,26,nìtìn nà mɔ́táàn nà úmmùʔ,nìtìn nà mɔ́táàn nà úmmùʔ,[],,['chan2019'],,False,False,,1
+yamb1252-1-27-1,,yamb1252-1,27,nìtìn nà mɔ́táàn nà mɔ́bààn,nìtìn nà mɔ́táàn nà mɔ́bààn,[],,['chan2019'],,False,False,,1
+yamb1252-1-28-1,,yamb1252-1,28,nìtìn nà mɔ́táàn nà mɔ́dáád,nìtìn nà mɔ́táàn nà mɔ́dáád,[],,['chan2019'],,False,False,,1
+yamb1252-1-29-1,,yamb1252-1,29,nìtìn nà mɔ́táàn nà múnìʔ,nìtìn nà mɔ́táàn nà múnìʔ,[],,['chan2019'],,False,False,,1
+yamb1252-1-30-1,,yamb1252-1,30,nìtìn nà mɔ́wád,nìtìn nà mɔ́wád,[],( '20 with 10 '),['chan2019'],,False,False,,1
+yamb1252-1-40-1,,yamb1252-1,40,ə̀tìn ábààn,ə̀tìn ábààn,[],( 20's two ),['chan2019'],,False,False,,1
+yamb1252-1-50-1,,yamb1252-1,50,ə̀tìn ábààn nà mɔ́wád,ə̀tìn ábààn nà mɔ́wád,[],,['chan2019'],,False,False,,1
+yamb1252-1-60-1,,yamb1252-1,60,ə̀tìn ádáád,ə̀tìn ádáád,[],( 20's three ),['chan2019'],,False,False,,1
+yamb1252-1-70-1,,yamb1252-1,70,ə̀tìn ádáád nà mɔ́wád,ə̀tìn ádáád nà mɔ́wád,[],,['chan2019'],,False,False,,1
+yamb1252-1-80-1,,yamb1252-1,80,ə̀tìn ə́nìʔ,ə̀tìn ə́nìʔ,[],( 20's four ),['chan2019'],,False,False,,1
+yamb1252-1-90-1,,yamb1252-1,90,ə̀tìn ə́nìʔ nà mɔ́wád,ə̀tìn ə́nìʔ nà mɔ́wád,[],,['chan2019'],,False,False,,1
+yamb1252-1-100-1,,yamb1252-1,100,ə̀tìn átáàn,ə̀tìn átáàn,[],,['chan2019'],,False,False,,1
+yamb1252-1-100-2,,yamb1252-1,100,ɔ́ndɛ́d,ɔ́ndɛ́d,[],( 'ɔ́ndɛ́d '< English ),['chan2019'],,True,False,,1
+yamb1252-1-200-1,,yamb1252-1,200,ə̀tìn jówád,ə̀tìn jówád,[],,['chan2019'],,False,False,,1
+yamb1252-1-200-2,,yamb1252-1,200,ɔ́ndɛ́d ɛ́bààn,ɔ́ndɛ́d ɛ́bààn,[],,['chan2019'],,False,False,,1
+yamb1252-1-1000-1,,yamb1252-1,1000,tɔ́ɔsɛ̀n,tɔ́ɔsɛ̀n,[],( ' tɔ́ɔsɛ̀n ' from English ),['chan2019'],,False,False,,1
+yamb1252-1-2000-1,,yamb1252-1,2000,tɔ́ɔsɛ̀n ɛ́bààn,tɔ́ɔsɛ̀n ɛ́bààn,[],,['chan2019'],,False,False,,1

@@ -1,59 +1,59 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-keii1239-1-1-1,,keii1239-1,1,ʔain,ʔain,[],,[],,False,False,,1
-keii1239-1-1-2,,keii1239-1,1,ʔaɛn,ʔaɛn,[],,[],,False,False,,1
-keii1239-1-2-1,,keii1239-1,2,ru,ru,[],,[],,False,False,,1
-keii1239-1-3-1,,keii1239-1,3,tɛl,tɛl,[],,[],,False,False,,1
-keii1239-1-4-1,,keii1239-1,4,faak,faak,[],,[],,False,False,,1
-keii1239-1-5-1,,keii1239-1,5,lim,lim,[],,[],,False,False,,1
-keii1239-1-6-1,,keii1239-1,6,nean,nean,[],,[],,False,False,,1
-keii1239-1-7-1,,keii1239-1,7,fit,fit,[],,[],,False,False,,1
-keii1239-1-8-1,,keii1239-1,8,waᵘ,waᵘ,[],,[],,False,False,,1
-keii1239-1-9-1,,keii1239-1,9,siᵘ,siᵘ,[],,[],,False,False,,1
-keii1239-1-10-1,,keii1239-1,10,βut,βut,[],,[],,False,False,,1
-keii1239-1-11-1,,keii1239-1,11,βut ʔain,βut ʔain,[],,[],,False,False,,1
-keii1239-1-12-1,,keii1239-1,12,βut ru,βut ru,[],,[],,False,False,,1
-keii1239-1-12-2,,keii1239-1,12,βut ʔənru,βut ʔənru,[],,[],,False,False,,1
-keii1239-1-13-1,,keii1239-1,13,βut tɛl,βut tɛl,[],,[],,False,False,,1
-keii1239-1-13-2,,keii1239-1,13,βut ʔəntɛl,βut ʔəntɛl,[],,[],,False,False,,1
-keii1239-1-14-1,,keii1239-1,14,βut faak,βut faak,[],,[],,False,False,,1
-keii1239-1-14-2,,keii1239-1,14,βut ʔənfaak,βut ʔənfaak,[],,[],,False,False,,1
-keii1239-1-15-1,,keii1239-1,15,βut lim,βut lim,[],,[],,False,False,,1
-keii1239-1-15-2,,keii1239-1,15,βut ʔənlim,βut ʔənlim,[],,[],,False,False,,1
-keii1239-1-16-1,,keii1239-1,16,βut nean,βut nean,[],,[],,False,False,,1
-keii1239-1-16-2,,keii1239-1,16,βut ʔənnean,βut ʔənnean,[],,[],,False,False,,1
-keii1239-1-17-1,,keii1239-1,17,βut fit,βut fit,[],,[],,False,False,,1
-keii1239-1-17-2,,keii1239-1,17,βut ʔənfit,βut ʔənfit,[],,[],,False,False,,1
-keii1239-1-18-1,,keii1239-1,18,βut waᵘ,βut waᵘ,[],,[],,False,False,,1
-keii1239-1-18-2,,keii1239-1,18,βut ʔənwaᵘ,βut ʔənwaᵘ,[],,[],,False,False,,1
-keii1239-1-19-1,,keii1239-1,19,βut siᵘ,βut siᵘ,[],,[],,False,False,,1
-keii1239-1-19-2,,keii1239-1,19,βut ʔənsiᵘ,βut ʔənsiᵘ,[],,[],,False,False,,1
-keii1239-1-20-1,,keii1239-1,20,βut ru,βut ru,[],,[],,False,False,,1
-keii1239-1-21-1,,keii1239-1,21,βut ru ʔain,βut ru ʔain,[],,[],,False,False,,1
-keii1239-1-21-2,,keii1239-1,21,βut ru ʔaen,βut ru ʔaen,[],,[],,False,False,,1
-keii1239-1-22-1,,keii1239-1,22,βut ru ru,βut ru ru,[],,[],,False,False,,1
-keii1239-1-22-2,,keii1239-1,22,βut ru ʔənru,βut ru ʔənru,[],,[],,False,False,,1
-keii1239-1-23-1,,keii1239-1,23,βut ru tɛl,βut ru tɛl,[],,[],,False,False,,1
-keii1239-1-23-2,,keii1239-1,23,βut ru ʔəntɛl,βut ru ʔəntɛl,[],,[],,False,False,,1
-keii1239-1-24-1,,keii1239-1,24,βut ru faak,βut ru faak,[],,[],,False,False,,1
-keii1239-1-24-2,,keii1239-1,24,βut ru ʔənfaak,βut ru ʔənfaak,[],,[],,False,False,,1
-keii1239-1-25-1,,keii1239-1,25,βut ru lim,βut ru lim,[],,[],,False,False,,1
-keii1239-1-25-2,,keii1239-1,25,βut ru ʔənlim,βut ru ʔənlim,[],,[],,False,False,,1
-keii1239-1-26-1,,keii1239-1,26,βut ru nean,βut ru nean,[],,[],,False,False,,1
-keii1239-1-26-2,,keii1239-1,26,βut ru ʔənean,βut ru ʔənean,[],,[],,False,False,,1
-keii1239-1-27-1,,keii1239-1,27,βut ru fit,βut ru fit,[],,[],,False,False,,1
-keii1239-1-27-2,,keii1239-1,27,βut ru ʔənfit,βut ru ʔənfit,[],,[],,False,False,,1
-keii1239-1-28-1,,keii1239-1,28,βut ru waᵘ,βut ru waᵘ,[],,[],,False,False,,1
-keii1239-1-28-2,,keii1239-1,28,βut ru ʔənwaᵘ,βut ru ʔənwaᵘ,[],,[],,False,False,,1
-keii1239-1-29-1,,keii1239-1,29,βut ru siᵘ,βut ru siᵘ,[],,[],,False,False,,1
-keii1239-1-29-2,,keii1239-1,29,βut ru ʔənsiᵘ,βut ru ʔənsiᵘ,[],,[],,False,False,,1
-keii1239-1-30-1,,keii1239-1,30,βut tɛl,βut tɛl,[],,[],,False,False,,1
-keii1239-1-40-1,,keii1239-1,40,βut faak,βut faak,[],,[],,False,False,,1
-keii1239-1-50-1,,keii1239-1,50,βut lim,βut lim,[],,[],,False,False,,1
-keii1239-1-60-1,,keii1239-1,60,βut nean,βut nean,[],,[],,False,False,,1
-keii1239-1-70-1,,keii1239-1,70,βut fit,βut fit,[],,[],,False,False,,1
-keii1239-1-80-1,,keii1239-1,80,βut waᵘ,βut waᵘ,[],,[],,False,False,,1
-keii1239-1-90-1,,keii1239-1,90,βut siᵘ,βut siᵘ,[],,[],,False,False,,1
-keii1239-1-100-1,,keii1239-1,100,ratut,ratut,[],,[],,False,False,,1
-keii1239-1-200-1,,keii1239-1,200,rat ru,rat ru,[],,[],,False,False,,1
-keii1239-1-1000-1,,keii1239-1,1000,riβun,riβun,[],,[],,False,False,,1
-keii1239-1-2000-1,,keii1239-1,2000,riβun ru,riβun ru,[],,[],,False,False,,1
+keii1239-1-1-1,,keii1239-1,1,ʔain,ʔain,[],,['chan2019'],,False,False,,1
+keii1239-1-1-2,,keii1239-1,1,ʔaɛn,ʔaɛn,[],,['chan2019'],,False,False,,1
+keii1239-1-2-1,,keii1239-1,2,ru,ru,[],,['chan2019'],,False,False,,1
+keii1239-1-3-1,,keii1239-1,3,tɛl,tɛl,[],,['chan2019'],,False,False,,1
+keii1239-1-4-1,,keii1239-1,4,faak,faak,[],,['chan2019'],,False,False,,1
+keii1239-1-5-1,,keii1239-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+keii1239-1-6-1,,keii1239-1,6,nean,nean,[],,['chan2019'],,False,False,,1
+keii1239-1-7-1,,keii1239-1,7,fit,fit,[],,['chan2019'],,False,False,,1
+keii1239-1-8-1,,keii1239-1,8,waᵘ,waᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-9-1,,keii1239-1,9,siᵘ,siᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-10-1,,keii1239-1,10,βut,βut,[],,['chan2019'],,False,False,,1
+keii1239-1-11-1,,keii1239-1,11,βut ʔain,βut ʔain,[],,['chan2019'],,False,False,,1
+keii1239-1-12-1,,keii1239-1,12,βut ru,βut ru,[],,['chan2019'],,False,False,,1
+keii1239-1-12-2,,keii1239-1,12,βut ʔənru,βut ʔənru,[],,['chan2019'],,False,False,,1
+keii1239-1-13-1,,keii1239-1,13,βut tɛl,βut tɛl,[],,['chan2019'],,False,False,,1
+keii1239-1-13-2,,keii1239-1,13,βut ʔəntɛl,βut ʔəntɛl,[],,['chan2019'],,False,False,,1
+keii1239-1-14-1,,keii1239-1,14,βut faak,βut faak,[],,['chan2019'],,False,False,,1
+keii1239-1-14-2,,keii1239-1,14,βut ʔənfaak,βut ʔənfaak,[],,['chan2019'],,False,False,,1
+keii1239-1-15-1,,keii1239-1,15,βut lim,βut lim,[],,['chan2019'],,False,False,,1
+keii1239-1-15-2,,keii1239-1,15,βut ʔənlim,βut ʔənlim,[],,['chan2019'],,False,False,,1
+keii1239-1-16-1,,keii1239-1,16,βut nean,βut nean,[],,['chan2019'],,False,False,,1
+keii1239-1-16-2,,keii1239-1,16,βut ʔənnean,βut ʔənnean,[],,['chan2019'],,False,False,,1
+keii1239-1-17-1,,keii1239-1,17,βut fit,βut fit,[],,['chan2019'],,False,False,,1
+keii1239-1-17-2,,keii1239-1,17,βut ʔənfit,βut ʔənfit,[],,['chan2019'],,False,False,,1
+keii1239-1-18-1,,keii1239-1,18,βut waᵘ,βut waᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-18-2,,keii1239-1,18,βut ʔənwaᵘ,βut ʔənwaᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-19-1,,keii1239-1,19,βut siᵘ,βut siᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-19-2,,keii1239-1,19,βut ʔənsiᵘ,βut ʔənsiᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-20-1,,keii1239-1,20,βut ru,βut ru,[],,['chan2019'],,False,False,,1
+keii1239-1-21-1,,keii1239-1,21,βut ru ʔain,βut ru ʔain,[],,['chan2019'],,False,False,,1
+keii1239-1-21-2,,keii1239-1,21,βut ru ʔaen,βut ru ʔaen,[],,['chan2019'],,False,False,,1
+keii1239-1-22-1,,keii1239-1,22,βut ru ru,βut ru ru,[],,['chan2019'],,False,False,,1
+keii1239-1-22-2,,keii1239-1,22,βut ru ʔənru,βut ru ʔənru,[],,['chan2019'],,False,False,,1
+keii1239-1-23-1,,keii1239-1,23,βut ru tɛl,βut ru tɛl,[],,['chan2019'],,False,False,,1
+keii1239-1-23-2,,keii1239-1,23,βut ru ʔəntɛl,βut ru ʔəntɛl,[],,['chan2019'],,False,False,,1
+keii1239-1-24-1,,keii1239-1,24,βut ru faak,βut ru faak,[],,['chan2019'],,False,False,,1
+keii1239-1-24-2,,keii1239-1,24,βut ru ʔənfaak,βut ru ʔənfaak,[],,['chan2019'],,False,False,,1
+keii1239-1-25-1,,keii1239-1,25,βut ru lim,βut ru lim,[],,['chan2019'],,False,False,,1
+keii1239-1-25-2,,keii1239-1,25,βut ru ʔənlim,βut ru ʔənlim,[],,['chan2019'],,False,False,,1
+keii1239-1-26-1,,keii1239-1,26,βut ru nean,βut ru nean,[],,['chan2019'],,False,False,,1
+keii1239-1-26-2,,keii1239-1,26,βut ru ʔənean,βut ru ʔənean,[],,['chan2019'],,False,False,,1
+keii1239-1-27-1,,keii1239-1,27,βut ru fit,βut ru fit,[],,['chan2019'],,False,False,,1
+keii1239-1-27-2,,keii1239-1,27,βut ru ʔənfit,βut ru ʔənfit,[],,['chan2019'],,False,False,,1
+keii1239-1-28-1,,keii1239-1,28,βut ru waᵘ,βut ru waᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-28-2,,keii1239-1,28,βut ru ʔənwaᵘ,βut ru ʔənwaᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-29-1,,keii1239-1,29,βut ru siᵘ,βut ru siᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-29-2,,keii1239-1,29,βut ru ʔənsiᵘ,βut ru ʔənsiᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-30-1,,keii1239-1,30,βut tɛl,βut tɛl,[],,['chan2019'],,False,False,,1
+keii1239-1-40-1,,keii1239-1,40,βut faak,βut faak,[],,['chan2019'],,False,False,,1
+keii1239-1-50-1,,keii1239-1,50,βut lim,βut lim,[],,['chan2019'],,False,False,,1
+keii1239-1-60-1,,keii1239-1,60,βut nean,βut nean,[],,['chan2019'],,False,False,,1
+keii1239-1-70-1,,keii1239-1,70,βut fit,βut fit,[],,['chan2019'],,False,False,,1
+keii1239-1-80-1,,keii1239-1,80,βut waᵘ,βut waᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-90-1,,keii1239-1,90,βut siᵘ,βut siᵘ,[],,['chan2019'],,False,False,,1
+keii1239-1-100-1,,keii1239-1,100,ratut,ratut,[],,['chan2019'],,False,False,,1
+keii1239-1-200-1,,keii1239-1,200,rat ru,rat ru,[],,['chan2019'],,False,False,,1
+keii1239-1-1000-1,,keii1239-1,1000,riβun,riβun,[],,['chan2019'],,False,False,,1
+keii1239-1-2000-1,,keii1239-1,2000,riβun ru,riβun ru,[],,['chan2019'],,False,False,,1

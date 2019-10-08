@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gand1255-1-1-1,,gand1255-1,1,èmû,èmû,[],,[],,False,False,,1
-gand1255-1-2-1,,gand1255-1,2,̀bːírì,̀bːírì,[],,[],,False,False,,1
-gand1255-1-3-1,,gand1255-1,3,̀sːátù,̀sːátù,[],,[],,False,False,,1
-gand1255-1-4-1,,gand1255-1,4,̀ɲ̩nâ,̀ɲ̩nâ,[],,[],,False,False,,1
-gand1255-1-5-1,,gand1255-1,5,tːáàːnó,tːáàːnó,[],,[],,False,False,,1
-gand1255-1-6-1,,gand1255-1,6,mùkâːɡá,mùkâːɡá,[],,[],,False,False,,1
-gand1255-1-7-1,,gand1255-1,7,mùsáɱvú,mùsáɱvú,[],,[],,False,False,,1
-gand1255-1-8-1,,gand1255-1,8,mùnáːnâ,mùnáːnâ,[],,[],,False,False,,1
-gand1255-1-9-1,,gand1255-1,9,mwèndâ,mwèndâ,[],,[],,False,False,,1
-gand1255-1-10-1,,gand1255-1,10,̀kːúmì,̀kːúmì,[],,[],,False,False,,1
-gand1255-1-11-1,,gand1255-1,11,̀kːúmì néːmû,̀kːúmì néːmû,[],,[],,False,False,,1
-gand1255-1-12-1,,gand1255-1,12,̀kːúmì nà ̀bːírì,̀kːúmì nà ̀bːírì,[],,[],,False,False,,1
-gand1255-1-13-1,,gand1255-1,13,̀kːúmì nà ̀sːátù,̀kːúmì nà ̀sːátù,[],,[],,False,False,,1
-gand1255-1-14-1,,gand1255-1,14,̀kːúmì nà ̀ɲ̩nâ,̀kːúmì nà ̀ɲ̩nâ,[],,[],,False,False,,1
-gand1255-1-15-1,,gand1255-1,15,̀kːúmì nà tːáàːnó,̀kːúmì nà tːáàːnó,[],,[],,False,False,,1
-gand1255-1-16-1,,gand1255-1,16,̀kːúmì nà mùkâːɡá,̀kːúmì nà mùkâːɡá,[],,[],,False,False,,1
-gand1255-1-17-1,,gand1255-1,17,̀kːúmì nà mùsáɱvú,̀kːúmì nà mùsáɱvú,[],,[],,False,False,,1
-gand1255-1-18-1,,gand1255-1,18,̀kːúmì nà mùnáːnâ,̀kːúmì nà mùnáːnâ,[],,[],,False,False,,1
-gand1255-1-19-1,,gand1255-1,19,̀kːúmì nà mwèndâ,̀kːúmì nà mwèndâ,[],,[],,False,False,,1
-gand1255-1-20-1,,gand1255-1,20,àmàkúmì àbírì,àmàkúmì àbírì,[],,[],,False,False,,1
-gand1255-1-21-1,,gand1255-1,21,àmàkúmì àbírì mwè,àmàkúmì àbírì mwè,[],,[],,False,False,,1
-gand1255-1-21-2,,gand1255-1,21,mû,mû,[],,[],,False,False,,1
-gand1255-1-22-1,,gand1255-1,22,àmàkúmì àbírì mù ̀bːírì,àmàkúmì àbírì mù ̀bːírì,[],,[],,False,False,,1
-gand1255-1-23-1,,gand1255-1,23,àmàkúmì àbírì mù ̀sːátù,àmàkúmì àbírì mù ̀sːátù,[],,[],,False,False,,1
-gand1255-1-24-1,,gand1255-1,24,àmàkúmì àbírì mù ̀ɲ̩nâ,àmàkúmì àbírì mù ̀ɲ̩nâ,[],,[],,False,False,,1
-gand1255-1-25-1,,gand1255-1,25,àmàkúmì àbírì mù tːáàːnó,àmàkúmì àbírì mù tːáàːnó,[],,[],,False,False,,1
-gand1255-1-26-1,,gand1255-1,26,àmàkúmì àbírì mù mùkâːɡá,àmàkúmì àbírì mù mùkâːɡá,[],,[],,False,False,,1
-gand1255-1-27-1,,gand1255-1,27,àmàkúmì àbírì mù mùsáɱvú,àmàkúmì àbírì mù mùsáɱvú,[],,[],,False,False,,1
-gand1255-1-28-1,,gand1255-1,28,àmàkúmì àbírì mù mùnáːnâ,àmàkúmì àbírì mù mùnáːnâ,[],,[],,False,False,,1
-gand1255-1-29-1,,gand1255-1,29,àmàkúmì àbírì mù mwèndâ,àmàkúmì àbírì mù mwèndâ,[],,[],,False,False,,1
-gand1255-1-30-1,,gand1255-1,30,àsːátù,àsːátù,[],,[],,False,False,,1
-gand1255-1-40-1,,gand1255-1,40,ânâ,ânâ,[],,[],,False,False,,1
-gand1255-1-50-1,,gand1255-1,50,àtâːnó,àtâːnó,[],,[],,False,False,,1
-gand1255-1-60-1,,gand1255-1,60,̀ŋkâːɡá,̀ŋkâːɡá,[],,[],,False,False,,1
-gand1255-1-70-1,,gand1255-1,70,̀n̩sàːɱvú,̀n̩sàːɱvú,[],,[],,False,False,,1
-gand1255-1-80-1,,gand1255-1,80,tʃìnáːnâ,tʃìnáːnâ,[],,[],,False,False,,1
-gand1255-1-90-1,,gand1255-1,90,kjèndâ,kjèndâ,[],,[],,False,False,,1
-gand1255-1-100-1,,gand1255-1,100,tʃìkúmì,tʃìkúmì,[],,[],,False,False,,1
-gand1255-1-200-1,,gand1255-1,200,bìkúmì bìbírì,bìkúmì bìbírì,[],,[],,False,False,,1
-gand1255-1-1000-1,,gand1255-1,1000,lùkúmì,lùkúmì,[],,[],,False,False,,1
-gand1255-1-2000-1,,gand1255-1,2000,ŋ̩kùmí bìbírì,ŋ̩kùmí bìbírì,[],,[],,False,False,,1
+gand1255-1-1-1,,gand1255-1,1,èmû,èmû,[],,['chan2019'],,False,False,,1
+gand1255-1-2-1,,gand1255-1,2,̀bːírì,̀bːírì,[],,['chan2019'],,False,False,,1
+gand1255-1-3-1,,gand1255-1,3,̀sːátù,̀sːátù,[],,['chan2019'],,False,False,,1
+gand1255-1-4-1,,gand1255-1,4,̀ɲ̩nâ,̀ɲ̩nâ,[],,['chan2019'],,False,False,,1
+gand1255-1-5-1,,gand1255-1,5,tːáàːnó,tːáàːnó,[],,['chan2019'],,False,False,,1
+gand1255-1-6-1,,gand1255-1,6,mùkâːɡá,mùkâːɡá,[],,['chan2019'],,False,False,,1
+gand1255-1-7-1,,gand1255-1,7,mùsáɱvú,mùsáɱvú,[],,['chan2019'],,False,False,,1
+gand1255-1-8-1,,gand1255-1,8,mùnáːnâ,mùnáːnâ,[],,['chan2019'],,False,False,,1
+gand1255-1-9-1,,gand1255-1,9,mwèndâ,mwèndâ,[],,['chan2019'],,False,False,,1
+gand1255-1-10-1,,gand1255-1,10,̀kːúmì,̀kːúmì,[],,['chan2019'],,False,False,,1
+gand1255-1-11-1,,gand1255-1,11,̀kːúmì néːmû,̀kːúmì néːmû,[],,['chan2019'],,False,False,,1
+gand1255-1-12-1,,gand1255-1,12,̀kːúmì nà ̀bːírì,̀kːúmì nà ̀bːírì,[],,['chan2019'],,False,False,,1
+gand1255-1-13-1,,gand1255-1,13,̀kːúmì nà ̀sːátù,̀kːúmì nà ̀sːátù,[],,['chan2019'],,False,False,,1
+gand1255-1-14-1,,gand1255-1,14,̀kːúmì nà ̀ɲ̩nâ,̀kːúmì nà ̀ɲ̩nâ,[],,['chan2019'],,False,False,,1
+gand1255-1-15-1,,gand1255-1,15,̀kːúmì nà tːáàːnó,̀kːúmì nà tːáàːnó,[],,['chan2019'],,False,False,,1
+gand1255-1-16-1,,gand1255-1,16,̀kːúmì nà mùkâːɡá,̀kːúmì nà mùkâːɡá,[],,['chan2019'],,False,False,,1
+gand1255-1-17-1,,gand1255-1,17,̀kːúmì nà mùsáɱvú,̀kːúmì nà mùsáɱvú,[],,['chan2019'],,False,False,,1
+gand1255-1-18-1,,gand1255-1,18,̀kːúmì nà mùnáːnâ,̀kːúmì nà mùnáːnâ,[],,['chan2019'],,False,False,,1
+gand1255-1-19-1,,gand1255-1,19,̀kːúmì nà mwèndâ,̀kːúmì nà mwèndâ,[],,['chan2019'],,False,False,,1
+gand1255-1-20-1,,gand1255-1,20,àmàkúmì àbírì,àmàkúmì àbírì,[],,['chan2019'],,False,False,,1
+gand1255-1-21-1,,gand1255-1,21,àmàkúmì àbírì mwè,àmàkúmì àbírì mwè,[],,['chan2019'],,False,False,,1
+gand1255-1-21-2,,gand1255-1,21,mû,mû,[],,['chan2019'],,False,False,,1
+gand1255-1-22-1,,gand1255-1,22,àmàkúmì àbírì mù ̀bːírì,àmàkúmì àbírì mù ̀bːírì,[],,['chan2019'],,False,False,,1
+gand1255-1-23-1,,gand1255-1,23,àmàkúmì àbírì mù ̀sːátù,àmàkúmì àbírì mù ̀sːátù,[],,['chan2019'],,False,False,,1
+gand1255-1-24-1,,gand1255-1,24,àmàkúmì àbírì mù ̀ɲ̩nâ,àmàkúmì àbírì mù ̀ɲ̩nâ,[],,['chan2019'],,False,False,,1
+gand1255-1-25-1,,gand1255-1,25,àmàkúmì àbírì mù tːáàːnó,àmàkúmì àbírì mù tːáàːnó,[],,['chan2019'],,False,False,,1
+gand1255-1-26-1,,gand1255-1,26,àmàkúmì àbírì mù mùkâːɡá,àmàkúmì àbírì mù mùkâːɡá,[],,['chan2019'],,False,False,,1
+gand1255-1-27-1,,gand1255-1,27,àmàkúmì àbírì mù mùsáɱvú,àmàkúmì àbírì mù mùsáɱvú,[],,['chan2019'],,False,False,,1
+gand1255-1-28-1,,gand1255-1,28,àmàkúmì àbírì mù mùnáːnâ,àmàkúmì àbírì mù mùnáːnâ,[],,['chan2019'],,False,False,,1
+gand1255-1-29-1,,gand1255-1,29,àmàkúmì àbírì mù mwèndâ,àmàkúmì àbírì mù mwèndâ,[],,['chan2019'],,False,False,,1
+gand1255-1-30-1,,gand1255-1,30,àsːátù,àsːátù,[],,['chan2019'],,False,False,,1
+gand1255-1-40-1,,gand1255-1,40,ânâ,ânâ,[],,['chan2019'],,False,False,,1
+gand1255-1-50-1,,gand1255-1,50,àtâːnó,àtâːnó,[],,['chan2019'],,False,False,,1
+gand1255-1-60-1,,gand1255-1,60,̀ŋkâːɡá,̀ŋkâːɡá,[],,['chan2019'],,False,False,,1
+gand1255-1-70-1,,gand1255-1,70,̀n̩sàːɱvú,̀n̩sàːɱvú,[],,['chan2019'],,False,False,,1
+gand1255-1-80-1,,gand1255-1,80,tʃìnáːnâ,tʃìnáːnâ,[],,['chan2019'],,False,False,,1
+gand1255-1-90-1,,gand1255-1,90,kjèndâ,kjèndâ,[],,['chan2019'],,False,False,,1
+gand1255-1-100-1,,gand1255-1,100,tʃìkúmì,tʃìkúmì,[],,['chan2019'],,False,False,,1
+gand1255-1-200-1,,gand1255-1,200,bìkúmì bìbírì,bìkúmì bìbírì,[],,['chan2019'],,False,False,,1
+gand1255-1-1000-1,,gand1255-1,1000,lùkúmì,lùkúmì,[],,['chan2019'],,False,False,,1
+gand1255-1-2000-1,,gand1255-1,2000,ŋ̩kùmí bìbírì,ŋ̩kùmí bìbírì,[],,['chan2019'],,False,False,,1

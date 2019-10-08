@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-mpot1241-1-1-1,,mpot1241-1,1,matˢe,matˢe,[],,[],,False,False,,1
-mpot1241-1-2-1,,mpot1241-1,2,rua,rua,[],,[],,False,False,,1
-mpot1241-1-3-1,,mpot1241-1,3,tolu,tolu,[],,[],,False,False,,1
-mpot1241-1-4-1,,mpot1241-1,4,βat,βat,[],,[],,False,False,,1
-mpot1241-1-5-1,,mpot1241-1,5,lima,lima,[],,[],,False,False,,1
-mpot1241-1-6-1,,mpot1241-1,6,lima-raβe,lima-raβe,[],( 5 + 1),[],,False,False,,1
-mpot1241-1-7-1,,mpot1241-1,7,lima-raβurua,lima-raβurua,[],( 5 + 2),[],,False,False,,1
-mpot1241-1-8-1,,mpot1241-1,8,lima-raβutol,lima-raβutol,[],( 5 + 3),[],,False,False,,1
-mpot1241-1-9-1,,mpot1241-1,9,lima-rapati,lima-rapati,[],( 5 + 4),[],,False,False,,1
-mpot1241-1-10-1,,mpot1241-1,10,sanaβulu,sanaβulu,[],,[],,False,False,,1
+mpot1241-1-1-1,,mpot1241-1,1,matˢe,matˢe,[],,['chan2019'],,False,False,,1
+mpot1241-1-2-1,,mpot1241-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+mpot1241-1-3-1,,mpot1241-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+mpot1241-1-4-1,,mpot1241-1,4,βat,βat,[],,['chan2019'],,False,False,,1
+mpot1241-1-5-1,,mpot1241-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+mpot1241-1-6-1,,mpot1241-1,6,lima-raβe,lima-raβe,[],( 5 + 1),['chan2019'],,False,False,,1
+mpot1241-1-7-1,,mpot1241-1,7,lima-raβurua,lima-raβurua,[],( 5 + 2),['chan2019'],,False,False,,1
+mpot1241-1-8-1,,mpot1241-1,8,lima-raβutol,lima-raβutol,[],( 5 + 3),['chan2019'],,False,False,,1
+mpot1241-1-9-1,,mpot1241-1,9,lima-rapati,lima-rapati,[],( 5 + 4),['chan2019'],,False,False,,1
+mpot1241-1-10-1,,mpot1241-1,10,sanaβulu,sanaβulu,[],,['chan2019'],,False,False,,1

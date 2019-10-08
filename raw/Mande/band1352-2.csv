@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-band1352-2-1-1,,band1352-2,1,iitá,iitá,[],,[],,False,False,,2
-band1352-2-2-1,,band1352-2,2,feelé,feelé,[],,[],,False,False,,2
-band1352-2-3-1,,band1352-2,3,saawá,saawá,[],,[],,False,False,,2
-band1352-2-4-1,,band1352-2,4,naáni,naáni,[],,[],,False,False,,2
-band1352-2-5-1,,band1352-2,5,ndɔɔ́lu,ndɔɔ́lu,[],,[],,False,False,,2
-band1352-2-6-1,,band1352-2,6,nɡɔhíta,nɡɔhíta,[],( 5 + 1 ),[],,False,False,,2
-band1352-2-7-1,,band1352-2,7,nɡɔféla,nɡɔféla,[],( 5 + 2 ),[],,False,False,,2
-band1352-2-8-1,,band1352-2,8,nɡwahák͡pa,nɡwahák͡pa,[],( 5 + 3 ),[],,False,False,,2
-band1352-2-9-1,,band1352-2,9,taávu,taávu,[],( 10 - 1 ) ?,[],,False,False,,2
-band1352-2-10-1,,band1352-2,10,púu,púu,[],,[],,False,False,,2
-band1352-2-11-1,,band1352-2,11,púu maahu yíla,púu maahu yíla,[],,[],,False,False,,2
-band1352-2-12-1,,band1352-2,12,púu maahu felé,púu maahu felé,[],,[],,False,False,,2
-band1352-2-13-1,,band1352-2,13,púu maahu sawá,púu maahu sawá,[],,[],,False,False,,2
-band1352-2-14-1,,band1352-2,14,púu maahu naáni,púu maahu naáni,[],,[],,False,False,,2
-band1352-2-15-1,,band1352-2,15,púu maahu lɔɔ́lu,púu maahu lɔɔ́lu,[],,[],,False,False,,2
-band1352-2-16-1,,band1352-2,16,púu maahu wɔhíta,púu maahu wɔhíta,[],,[],,False,False,,2
-band1352-2-17-1,,band1352-2,17,púu maahu wɔféla,púu maahu wɔféla,[],,[],,False,False,,2
-band1352-2-18-1,,band1352-2,18,púu maahu wahák͡pa,púu maahu wahák͡pa,[],,[],,False,False,,2
-band1352-2-19-1,,band1352-2,19,púu maahu taávu,púu maahu taávu,[],,[],,False,False,,2
-band1352-2-20-1,,band1352-2,20,púu felénɡɔ,púu felénɡɔ,[],,[],,False,False,,2
-band1352-2-21-1,,band1352-2,21,púu felénɡɔ maahu yíla,púu felénɡɔ maahu yíla,[],,[],,False,False,,2
-band1352-2-22-1,,band1352-2,22,púu felénɡɔ maahu felé,púu felénɡɔ maahu felé,[],,[],,False,False,,2
-band1352-2-23-1,,band1352-2,23,púu felénɡɔ maahu sawá,púu felénɡɔ maahu sawá,[],,[],,False,False,,2
-band1352-2-24-1,,band1352-2,24,púu felénɡɔ maahu naáni,púu felénɡɔ maahu naáni,[],,[],,False,False,,2
-band1352-2-25-1,,band1352-2,25,púu felénɡɔ maahu lɔɔ́lu,púu felénɡɔ maahu lɔɔ́lu,[],,[],,False,False,,2
-band1352-2-26-1,,band1352-2,26,púu felénɡɔ maahu wɔhíta,púu felénɡɔ maahu wɔhíta,[],,[],,False,False,,2
-band1352-2-27-1,,band1352-2,27,púu felénɡɔ maahu wɔféla,púu felénɡɔ maahu wɔféla,[],,[],,False,False,,2
-band1352-2-28-1,,band1352-2,28,púu felénɡɔ maahu wahák͡pa,púu felénɡɔ maahu wahák͡pa,[],,[],,False,False,,2
-band1352-2-29-1,,band1352-2,29,púu felénɡɔ maahu taávu,púu felénɡɔ maahu taávu,[],,[],,False,False,,2
-band1352-2-30-1,,band1352-2,30,púu sáánɡɔ,púu sáánɡɔ,[],,[],,False,False,,2
-band1352-2-40-1,,band1352-2,40,púu naanínɡɔ,púu naanínɡɔ,[],,[],,False,False,,2
-band1352-2-50-1,,band1352-2,50,púu ndɔɔlunɡɔ,púu ndɔɔlunɡɔ,[],,[],,False,False,,2
-band1352-2-60-1,,band1352-2,60,púu nɡɔhítanɡɔ,púu nɡɔhítanɡɔ,[],,[],,False,False,,2
-band1352-2-70-1,,band1352-2,70,púu nɡɔfélanɡɔ,púu nɡɔfélanɡɔ,[],,[],,False,False,,2
-band1352-2-80-1,,band1352-2,80,púu nɡwahák͡panɡɔ,púu nɡwahák͡panɡɔ,[],,[],,False,False,,2
-band1352-2-90-1,,band1352-2,90,púu taávunɡɔ,púu taávunɡɔ,[],,[],,False,False,,2
-band1352-2-100-1,,band1352-2,100,hɔ́ndɔlɔ nɡilá,hɔ́ndɔlɔ nɡilá,[],( ' hɔ́ndɔlɔ' < English ),[],,True,False,,2
-band1352-2-200-1,,band1352-2,200,hɔ́ndɔlɔ felénɡɔ,hɔ́ndɔlɔ felénɡɔ,[],,[],,False,False,,2
-band1352-2-1000-1,,band1352-2,1000,tásuu nɡilá,tásuu nɡilá,[],( ' tásuu' < English ),[],,True,False,,2
-band1352-2-2000-1,,band1352-2,2000,tásuu felénɡɔ,tásuu felénɡɔ,[],,[],,False,False,,2
+band1352-2-1-1,,band1352-2,1,iitá,iitá,[],,['chan2019'],,False,False,,2
+band1352-2-2-1,,band1352-2,2,feelé,feelé,[],,['chan2019'],,False,False,,2
+band1352-2-3-1,,band1352-2,3,saawá,saawá,[],,['chan2019'],,False,False,,2
+band1352-2-4-1,,band1352-2,4,naáni,naáni,[],,['chan2019'],,False,False,,2
+band1352-2-5-1,,band1352-2,5,ndɔɔ́lu,ndɔɔ́lu,[],,['chan2019'],,False,False,,2
+band1352-2-6-1,,band1352-2,6,nɡɔhíta,nɡɔhíta,[],( 5 + 1 ),['chan2019'],,False,False,,2
+band1352-2-7-1,,band1352-2,7,nɡɔféla,nɡɔféla,[],( 5 + 2 ),['chan2019'],,False,False,,2
+band1352-2-8-1,,band1352-2,8,nɡwahák͡pa,nɡwahák͡pa,[],( 5 + 3 ),['chan2019'],,False,False,,2
+band1352-2-9-1,,band1352-2,9,taávu,taávu,[],( 10 - 1 ) ?,['chan2019'],,False,False,,2
+band1352-2-10-1,,band1352-2,10,púu,púu,[],,['chan2019'],,False,False,,2
+band1352-2-11-1,,band1352-2,11,púu maahu yíla,púu maahu yíla,[],,['chan2019'],,False,False,,2
+band1352-2-12-1,,band1352-2,12,púu maahu felé,púu maahu felé,[],,['chan2019'],,False,False,,2
+band1352-2-13-1,,band1352-2,13,púu maahu sawá,púu maahu sawá,[],,['chan2019'],,False,False,,2
+band1352-2-14-1,,band1352-2,14,púu maahu naáni,púu maahu naáni,[],,['chan2019'],,False,False,,2
+band1352-2-15-1,,band1352-2,15,púu maahu lɔɔ́lu,púu maahu lɔɔ́lu,[],,['chan2019'],,False,False,,2
+band1352-2-16-1,,band1352-2,16,púu maahu wɔhíta,púu maahu wɔhíta,[],,['chan2019'],,False,False,,2
+band1352-2-17-1,,band1352-2,17,púu maahu wɔféla,púu maahu wɔféla,[],,['chan2019'],,False,False,,2
+band1352-2-18-1,,band1352-2,18,púu maahu wahák͡pa,púu maahu wahák͡pa,[],,['chan2019'],,False,False,,2
+band1352-2-19-1,,band1352-2,19,púu maahu taávu,púu maahu taávu,[],,['chan2019'],,False,False,,2
+band1352-2-20-1,,band1352-2,20,púu felénɡɔ,púu felénɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-21-1,,band1352-2,21,púu felénɡɔ maahu yíla,púu felénɡɔ maahu yíla,[],,['chan2019'],,False,False,,2
+band1352-2-22-1,,band1352-2,22,púu felénɡɔ maahu felé,púu felénɡɔ maahu felé,[],,['chan2019'],,False,False,,2
+band1352-2-23-1,,band1352-2,23,púu felénɡɔ maahu sawá,púu felénɡɔ maahu sawá,[],,['chan2019'],,False,False,,2
+band1352-2-24-1,,band1352-2,24,púu felénɡɔ maahu naáni,púu felénɡɔ maahu naáni,[],,['chan2019'],,False,False,,2
+band1352-2-25-1,,band1352-2,25,púu felénɡɔ maahu lɔɔ́lu,púu felénɡɔ maahu lɔɔ́lu,[],,['chan2019'],,False,False,,2
+band1352-2-26-1,,band1352-2,26,púu felénɡɔ maahu wɔhíta,púu felénɡɔ maahu wɔhíta,[],,['chan2019'],,False,False,,2
+band1352-2-27-1,,band1352-2,27,púu felénɡɔ maahu wɔféla,púu felénɡɔ maahu wɔféla,[],,['chan2019'],,False,False,,2
+band1352-2-28-1,,band1352-2,28,púu felénɡɔ maahu wahák͡pa,púu felénɡɔ maahu wahák͡pa,[],,['chan2019'],,False,False,,2
+band1352-2-29-1,,band1352-2,29,púu felénɡɔ maahu taávu,púu felénɡɔ maahu taávu,[],,['chan2019'],,False,False,,2
+band1352-2-30-1,,band1352-2,30,púu sáánɡɔ,púu sáánɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-40-1,,band1352-2,40,púu naanínɡɔ,púu naanínɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-50-1,,band1352-2,50,púu ndɔɔlunɡɔ,púu ndɔɔlunɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-60-1,,band1352-2,60,púu nɡɔhítanɡɔ,púu nɡɔhítanɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-70-1,,band1352-2,70,púu nɡɔfélanɡɔ,púu nɡɔfélanɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-80-1,,band1352-2,80,púu nɡwahák͡panɡɔ,púu nɡwahák͡panɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-90-1,,band1352-2,90,púu taávunɡɔ,púu taávunɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-100-1,,band1352-2,100,hɔ́ndɔlɔ nɡilá,hɔ́ndɔlɔ nɡilá,[],( ' hɔ́ndɔlɔ' < English ),['chan2019'],,True,False,,2
+band1352-2-200-1,,band1352-2,200,hɔ́ndɔlɔ felénɡɔ,hɔ́ndɔlɔ felénɡɔ,[],,['chan2019'],,False,False,,2
+band1352-2-1000-1,,band1352-2,1000,tásuu nɡilá,tásuu nɡilá,[],( ' tásuu' < English ),['chan2019'],,True,False,,2
+band1352-2-2000-1,,band1352-2,2000,tásuu felénɡɔ,tásuu felénɡɔ,[],,['chan2019'],,False,False,,2

@@ -1,9 +1,9 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-baka1277-1-1-1,,baka1277-1,1,tokalâ,tokalâ,[],,[],,False,False,,1
-baka1277-1-2-1,,baka1277-1,2,azaɡâ,azaɡâ,[],,[],,False,False,,1
-baka1277-1-3-1,,baka1277-1,3,azaɡâ tokalâ wara,azaɡâ tokalâ wara,[],( 2 + 1 ),[],,False,False,,1
-baka1277-1-4-1,,baka1277-1,4,azaɡâ,azaɡâ,[],,[],,False,False,,1
-baka1277-1-4-2,,baka1277-1,4,azaɡâ wara,azaɡâ wara,[],( 2 + 2 ),[],,False,False,,1
-baka1277-1-5-1,,baka1277-1,5,azaɡâ,azaɡâ,[],,[],,False,False,,1
-baka1277-1-5-2,,baka1277-1,5,azaɡâ,azaɡâ,[],,[],,False,False,,1
-baka1277-1-5-3,,baka1277-1,5,tokalâ wara,tokalâ wara,[],( 2 + 2 + 1),[],,False,False,,1
+baka1277-1-1-1,,baka1277-1,1,tokalâ,tokalâ,[],,['chan2019'],,False,False,,1
+baka1277-1-2-1,,baka1277-1,2,azaɡâ,azaɡâ,[],,['chan2019'],,False,False,,1
+baka1277-1-3-1,,baka1277-1,3,azaɡâ tokalâ wara,azaɡâ tokalâ wara,[],( 2 + 1 ),['chan2019'],,False,False,,1
+baka1277-1-4-1,,baka1277-1,4,azaɡâ,azaɡâ,[],,['chan2019'],,False,False,,1
+baka1277-1-4-2,,baka1277-1,4,azaɡâ wara,azaɡâ wara,[],( 2 + 2 ),['chan2019'],,False,False,,1
+baka1277-1-5-1,,baka1277-1,5,azaɡâ,azaɡâ,[],,['chan2019'],,False,False,,1
+baka1277-1-5-2,,baka1277-1,5,azaɡâ,azaɡâ,[],,['chan2019'],,False,False,,1
+baka1277-1-5-3,,baka1277-1,5,tokalâ wara,tokalâ wara,[],( 2 + 2 + 1),['chan2019'],,False,False,,1

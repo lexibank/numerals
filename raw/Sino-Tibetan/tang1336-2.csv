@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tang1336-2-1-1,,tang1336-2,1,əkʰə,əkʰə,[],,[],,False,False,,2
-tang1336-2-2-1,,tang1336-2,2,kʰəni,kʰəni,[],,[],,False,False,,2
-tang1336-2-3-1,,tang1336-2,3,kətʰum,kətʰum,[],,[],,False,False,,2
-tang1336-2-4-1,,tang1336-2,4,məti,məti,[],,[],,False,False,,2
-tang1336-2-5-1,,tang1336-2,5,pʰəŋa,pʰəŋa,[],,[],,False,False,,2
-tang1336-2-6-1,,tang1336-2,6,tʰəruk,tʰəruk,[],,[],,False,False,,2
-tang1336-2-7-1,,tang1336-2,7,ʃini,ʃini,[],,[],,False,False,,2
-tang1336-2-8-1,,tang1336-2,8,ciʃət,ciʃət,[],,[],,False,False,,2
-tang1336-2-9-1,,tang1336-2,9,ciko,ciko,[],,[],,False,False,,2
-tang1336-2-10-1,,tang1336-2,10,tʰəra,tʰəra,[],,[],,False,False,,2
-tang1336-2-11-1,,tang1336-2,11,tʰəra tə əkʰə,tʰəra tə əkʰə,[],,[],,False,False,,2
-tang1336-2-12-1,,tang1336-2,12,tʰəra tə kʰəni,tʰəra tə kʰəni,[],,[],,False,False,,2
-tang1336-2-13-1,,tang1336-2,13,tʰəra tə kətʰum,tʰəra tə kətʰum,[],,[],,False,False,,2
-tang1336-2-14-1,,tang1336-2,14,tʰəra tə məti,tʰəra tə məti,[],,[],,False,False,,2
-tang1336-2-15-1,,tang1336-2,15,tʰəra tə pʰəŋa,tʰəra tə pʰəŋa,[],,[],,False,False,,2
-tang1336-2-16-1,,tang1336-2,16,tʰəra tə tʰəruk,tʰəra tə tʰəruk,[],,[],,False,False,,2
-tang1336-2-17-1,,tang1336-2,17,tʰəra tə ʃini,tʰəra tə ʃini,[],,[],,False,False,,2
-tang1336-2-18-1,,tang1336-2,18,tʰəra tə ciʃət,tʰəra tə ciʃət,[],,[],,False,False,,2
-tang1336-2-19-1,,tang1336-2,19,tʰəra tə ciko,tʰəra tə ciko,[],,[],,False,False,,2
-tang1336-2-20-1,,tang1336-2,20,məku,məku,[],,[],,False,False,,2
-tang1336-2-21-1,,tang1336-2,21,məku tə əkʰə,məku tə əkʰə,[],,[],,False,False,,2
-tang1336-2-22-1,,tang1336-2,22,məku tə kʰəni,məku tə kʰəni,[],,[],,False,False,,2
-tang1336-2-23-1,,tang1336-2,23,məku tə kətʰum,məku tə kətʰum,[],,[],,False,False,,2
-tang1336-2-24-1,,tang1336-2,24,məku tə məti,məku tə məti,[],,[],,False,False,,2
-tang1336-2-25-1,,tang1336-2,25,məku tə pʰəŋa,məku tə pʰəŋa,[],,[],,False,False,,2
-tang1336-2-26-1,,tang1336-2,26,məku tə tʰəruk,məku tə tʰəruk,[],,[],,False,False,,2
-tang1336-2-27-1,,tang1336-2,27,məku tə ʃini,məku tə ʃini,[],,[],,False,False,,2
-tang1336-2-28-1,,tang1336-2,28,məku tə ciʃət,məku tə ciʃət,[],,[],,False,False,,2
-tang1336-2-29-1,,tang1336-2,29,məku tə ciko,məku tə ciko,[],,[],,False,False,,2
-tang1336-2-30-1,,tang1336-2,30,tʰumra,tʰumra,[],( < tʰum + tʰəra  ),[],,False,False,,2
-tang1336-2-40-1,,tang1336-2,40,həŋməti,həŋməti,[],,[],,False,False,,2
-tang1336-2-50-1,,tang1336-2,50,həŋpʰəŋa,həŋpʰəŋa,[],,[],,False,False,,2
-tang1336-2-60-1,,tang1336-2,60,həŋtʰəruk,həŋtʰəruk,[],,[],,False,False,,2
-tang1336-2-70-1,,tang1336-2,70,həŋʃini,həŋʃini,[],,[],,False,False,,2
-tang1336-2-80-1,,tang1336-2,80,həŋciʃət,həŋciʃət,[],,[],,False,False,,2
-tang1336-2-90-1,,tang1336-2,90,həŋciko,həŋciko,[],,[],,False,False,,2
-tang1336-2-100-1,,tang1336-2,100,ʃakʰə,ʃakʰə,[],,[],,False,False,,2
-tang1336-2-200-1,,tang1336-2,200,ʃakʰəni,ʃakʰəni,[],,[],,False,False,,2
-tang1336-2-1000-1,,tang1336-2,1000,tʰinkʰə,tʰinkʰə,[],,[],,False,False,,2
-tang1336-2-2000-1,,tang1336-2,2000,tʰinkʰəni,tʰinkʰəni,[],,[],,False,False,,2
+tang1336-2-1-1,,tang1336-2,1,əkʰə,əkʰə,[],,['chan2019'],,False,False,,2
+tang1336-2-2-1,,tang1336-2,2,kʰəni,kʰəni,[],,['chan2019'],,False,False,,2
+tang1336-2-3-1,,tang1336-2,3,kətʰum,kətʰum,[],,['chan2019'],,False,False,,2
+tang1336-2-4-1,,tang1336-2,4,məti,məti,[],,['chan2019'],,False,False,,2
+tang1336-2-5-1,,tang1336-2,5,pʰəŋa,pʰəŋa,[],,['chan2019'],,False,False,,2
+tang1336-2-6-1,,tang1336-2,6,tʰəruk,tʰəruk,[],,['chan2019'],,False,False,,2
+tang1336-2-7-1,,tang1336-2,7,ʃini,ʃini,[],,['chan2019'],,False,False,,2
+tang1336-2-8-1,,tang1336-2,8,ciʃət,ciʃət,[],,['chan2019'],,False,False,,2
+tang1336-2-9-1,,tang1336-2,9,ciko,ciko,[],,['chan2019'],,False,False,,2
+tang1336-2-10-1,,tang1336-2,10,tʰəra,tʰəra,[],,['chan2019'],,False,False,,2
+tang1336-2-11-1,,tang1336-2,11,tʰəra tə əkʰə,tʰəra tə əkʰə,[],,['chan2019'],,False,False,,2
+tang1336-2-12-1,,tang1336-2,12,tʰəra tə kʰəni,tʰəra tə kʰəni,[],,['chan2019'],,False,False,,2
+tang1336-2-13-1,,tang1336-2,13,tʰəra tə kətʰum,tʰəra tə kətʰum,[],,['chan2019'],,False,False,,2
+tang1336-2-14-1,,tang1336-2,14,tʰəra tə məti,tʰəra tə məti,[],,['chan2019'],,False,False,,2
+tang1336-2-15-1,,tang1336-2,15,tʰəra tə pʰəŋa,tʰəra tə pʰəŋa,[],,['chan2019'],,False,False,,2
+tang1336-2-16-1,,tang1336-2,16,tʰəra tə tʰəruk,tʰəra tə tʰəruk,[],,['chan2019'],,False,False,,2
+tang1336-2-17-1,,tang1336-2,17,tʰəra tə ʃini,tʰəra tə ʃini,[],,['chan2019'],,False,False,,2
+tang1336-2-18-1,,tang1336-2,18,tʰəra tə ciʃət,tʰəra tə ciʃət,[],,['chan2019'],,False,False,,2
+tang1336-2-19-1,,tang1336-2,19,tʰəra tə ciko,tʰəra tə ciko,[],,['chan2019'],,False,False,,2
+tang1336-2-20-1,,tang1336-2,20,məku,məku,[],,['chan2019'],,False,False,,2
+tang1336-2-21-1,,tang1336-2,21,məku tə əkʰə,məku tə əkʰə,[],,['chan2019'],,False,False,,2
+tang1336-2-22-1,,tang1336-2,22,məku tə kʰəni,məku tə kʰəni,[],,['chan2019'],,False,False,,2
+tang1336-2-23-1,,tang1336-2,23,məku tə kətʰum,məku tə kətʰum,[],,['chan2019'],,False,False,,2
+tang1336-2-24-1,,tang1336-2,24,məku tə məti,məku tə məti,[],,['chan2019'],,False,False,,2
+tang1336-2-25-1,,tang1336-2,25,məku tə pʰəŋa,məku tə pʰəŋa,[],,['chan2019'],,False,False,,2
+tang1336-2-26-1,,tang1336-2,26,məku tə tʰəruk,məku tə tʰəruk,[],,['chan2019'],,False,False,,2
+tang1336-2-27-1,,tang1336-2,27,məku tə ʃini,məku tə ʃini,[],,['chan2019'],,False,False,,2
+tang1336-2-28-1,,tang1336-2,28,məku tə ciʃət,məku tə ciʃət,[],,['chan2019'],,False,False,,2
+tang1336-2-29-1,,tang1336-2,29,məku tə ciko,məku tə ciko,[],,['chan2019'],,False,False,,2
+tang1336-2-30-1,,tang1336-2,30,tʰumra,tʰumra,[],( < tʰum + tʰəra  ),['chan2019'],,False,False,,2
+tang1336-2-40-1,,tang1336-2,40,həŋməti,həŋməti,[],,['chan2019'],,False,False,,2
+tang1336-2-50-1,,tang1336-2,50,həŋpʰəŋa,həŋpʰəŋa,[],,['chan2019'],,False,False,,2
+tang1336-2-60-1,,tang1336-2,60,həŋtʰəruk,həŋtʰəruk,[],,['chan2019'],,False,False,,2
+tang1336-2-70-1,,tang1336-2,70,həŋʃini,həŋʃini,[],,['chan2019'],,False,False,,2
+tang1336-2-80-1,,tang1336-2,80,həŋciʃət,həŋciʃət,[],,['chan2019'],,False,False,,2
+tang1336-2-90-1,,tang1336-2,90,həŋciko,həŋciko,[],,['chan2019'],,False,False,,2
+tang1336-2-100-1,,tang1336-2,100,ʃakʰə,ʃakʰə,[],,['chan2019'],,False,False,,2
+tang1336-2-200-1,,tang1336-2,200,ʃakʰəni,ʃakʰəni,[],,['chan2019'],,False,False,,2
+tang1336-2-1000-1,,tang1336-2,1000,tʰinkʰə,tʰinkʰə,[],,['chan2019'],,False,False,,2
+tang1336-2-2000-1,,tang1336-2,2000,tʰinkʰəni,tʰinkʰəni,[],,['chan2019'],,False,False,,2

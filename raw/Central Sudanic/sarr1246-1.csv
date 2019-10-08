@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sarr1246-1-1-1,,sarr1246-1,1,nuk,nuk,[],,[],,False,False,,1
-sarr1246-1-2-1,,sarr1246-1,2,raq,raq,[],,[],,False,False,,1
-sarr1246-1-3-1,,sarr1246-1,3,tiɡ,tiɡ,[],,[],,False,False,,1
-sarr1246-1-4-1,,sarr1246-1,4,ut,ut,[],,[],,False,False,,1
-sarr1246-1-5-1,,sarr1246-1,5,jawan,jawan,[],,[],,False,False,,1
-sarr1246-1-6-1,,sarr1246-1,6,tejaŋ,tejaŋ,[],,[],,False,False,,1
-sarr1246-1-7-1,,sarr1246-1,7,jisraq,jisraq,[],( 'five two'),[],,False,False,,1
-sarr1246-1-8-1,,sarr1246-1,8,jinatiɡ,jinatiɡ,[],( 'five three'),[],,False,False,,1
-sarr1246-1-9-1,,sarr1246-1,9,jinaut,jinaut,[],( 'five four'),[],,False,False,,1
-sarr1246-1-10-1,,sarr1246-1,10,qar nuk,qar nuk,[],('ten one'),[],,False,False,,1
-sarr1246-1-11-1,,sarr1246-1,11,qar nuk ruɡ nuk,qar nuk ruɡ nuk,[],,[],,False,False,,1
-sarr1246-1-12-1,,sarr1246-1,12,qar nuk ruɡ raq,qar nuk ruɡ raq,[],,[],,False,False,,1
-sarr1246-1-13-1,,sarr1246-1,13,qar nuk ruɡ tiɡ,qar nuk ruɡ tiɡ,[],,[],,False,False,,1
-sarr1246-1-14-1,,sarr1246-1,14,qar nuk ruɡ ut,qar nuk ruɡ ut,[],,[],,False,False,,1
-sarr1246-1-15-1,,sarr1246-1,15,qar nuk ruɡ jawan,qar nuk ruɡ jawan,[],,[],,False,False,,1
-sarr1246-1-16-1,,sarr1246-1,16,qar nuk ruɡ tejaŋ,qar nuk ruɡ tejaŋ,[],,[],,False,False,,1
-sarr1246-1-17-1,,sarr1246-1,17,qar nuk ruɡ jisraq,qar nuk ruɡ jisraq,[],,[],,False,False,,1
-sarr1246-1-18-1,,sarr1246-1,18,qar nuk ruɡ jinatiɡ,qar nuk ruɡ jinatiɡ,[],,[],,False,False,,1
-sarr1246-1-19-1,,sarr1246-1,19,qar nuk ruɡ jinaut,qar nuk ruɡ jinaut,[],,[],,False,False,,1
-sarr1246-1-20-1,,sarr1246-1,20,qar raq,qar raq,[],,[],,False,False,,1
-sarr1246-1-21-1,,sarr1246-1,21,qar raq ruɡ nuk,qar raq ruɡ nuk,[],,[],,False,False,,1
-sarr1246-1-22-1,,sarr1246-1,22,qar raq ruɡ raq,qar raq ruɡ raq,[],,[],,False,False,,1
-sarr1246-1-23-1,,sarr1246-1,23,qar raq ruɡ tiɡ,qar raq ruɡ tiɡ,[],,[],,False,False,,1
-sarr1246-1-24-1,,sarr1246-1,24,qar raq ruɡ ut,qar raq ruɡ ut,[],,[],,False,False,,1
-sarr1246-1-25-1,,sarr1246-1,25,qar raq ruɡ jawan,qar raq ruɡ jawan,[],,[],,False,False,,1
-sarr1246-1-26-1,,sarr1246-1,26,qar raq ruɡ tejaŋ,qar raq ruɡ tejaŋ,[],,[],,False,False,,1
-sarr1246-1-27-1,,sarr1246-1,27,qar raq ruɡ jisraq,qar raq ruɡ jisraq,[],,[],,False,False,,1
-sarr1246-1-28-1,,sarr1246-1,28,qar raq ruɡ jinatiɡ,qar raq ruɡ jinatiɡ,[],,[],,False,False,,1
-sarr1246-1-29-1,,sarr1246-1,29,qar raq ruɡ jinaut,qar raq ruɡ jinaut,[],,[],,False,False,,1
-sarr1246-1-30-1,,sarr1246-1,30,qar tiɡ,qar tiɡ,[],,[],,False,False,,1
-sarr1246-1-40-1,,sarr1246-1,40,qar ut,qar ut,[],,[],,False,False,,1
-sarr1246-1-50-1,,sarr1246-1,50,qar jawan,qar jawan,[],,[],,False,False,,1
-sarr1246-1-60-1,,sarr1246-1,60,qar tejaŋ,qar tejaŋ,[],,[],,False,False,,1
-sarr1246-1-70-1,,sarr1246-1,70,qar jisraq,qar jisraq,[],,[],,False,False,,1
-sarr1246-1-80-1,,sarr1246-1,80,qar jinatiɡ,qar jinatiɡ,[],,[],,False,False,,1
-sarr1246-1-90-1,,sarr1246-1,90,qar jinaut,qar jinaut,[],,[],,False,False,,1
-sarr1246-1-100-1,,sarr1246-1,100,ratu,ratu,[],,[],,False,False,,1
-sarr1246-1-200-1,,sarr1246-1,200,ratu raq,ratu raq,[],,[],,False,False,,1
-sarr1246-1-1000-1,,sarr1246-1,1000,ribu nuk,ribu nuk,[],,[],,False,False,,1
-sarr1246-1-2000-1,,sarr1246-1,2000,ribu raq,ribu raq,[],,[],,False,False,,1
+sarr1246-1-1-1,,sarr1246-1,1,nuk,nuk,[],,['chan2019'],,False,False,,1
+sarr1246-1-2-1,,sarr1246-1,2,raq,raq,[],,['chan2019'],,False,False,,1
+sarr1246-1-3-1,,sarr1246-1,3,tiɡ,tiɡ,[],,['chan2019'],,False,False,,1
+sarr1246-1-4-1,,sarr1246-1,4,ut,ut,[],,['chan2019'],,False,False,,1
+sarr1246-1-5-1,,sarr1246-1,5,jawan,jawan,[],,['chan2019'],,False,False,,1
+sarr1246-1-6-1,,sarr1246-1,6,tejaŋ,tejaŋ,[],,['chan2019'],,False,False,,1
+sarr1246-1-7-1,,sarr1246-1,7,jisraq,jisraq,[],( 'five two'),['chan2019'],,False,False,,1
+sarr1246-1-8-1,,sarr1246-1,8,jinatiɡ,jinatiɡ,[],( 'five three'),['chan2019'],,False,False,,1
+sarr1246-1-9-1,,sarr1246-1,9,jinaut,jinaut,[],( 'five four'),['chan2019'],,False,False,,1
+sarr1246-1-10-1,,sarr1246-1,10,qar nuk,qar nuk,[],('ten one'),['chan2019'],,False,False,,1
+sarr1246-1-11-1,,sarr1246-1,11,qar nuk ruɡ nuk,qar nuk ruɡ nuk,[],,['chan2019'],,False,False,,1
+sarr1246-1-12-1,,sarr1246-1,12,qar nuk ruɡ raq,qar nuk ruɡ raq,[],,['chan2019'],,False,False,,1
+sarr1246-1-13-1,,sarr1246-1,13,qar nuk ruɡ tiɡ,qar nuk ruɡ tiɡ,[],,['chan2019'],,False,False,,1
+sarr1246-1-14-1,,sarr1246-1,14,qar nuk ruɡ ut,qar nuk ruɡ ut,[],,['chan2019'],,False,False,,1
+sarr1246-1-15-1,,sarr1246-1,15,qar nuk ruɡ jawan,qar nuk ruɡ jawan,[],,['chan2019'],,False,False,,1
+sarr1246-1-16-1,,sarr1246-1,16,qar nuk ruɡ tejaŋ,qar nuk ruɡ tejaŋ,[],,['chan2019'],,False,False,,1
+sarr1246-1-17-1,,sarr1246-1,17,qar nuk ruɡ jisraq,qar nuk ruɡ jisraq,[],,['chan2019'],,False,False,,1
+sarr1246-1-18-1,,sarr1246-1,18,qar nuk ruɡ jinatiɡ,qar nuk ruɡ jinatiɡ,[],,['chan2019'],,False,False,,1
+sarr1246-1-19-1,,sarr1246-1,19,qar nuk ruɡ jinaut,qar nuk ruɡ jinaut,[],,['chan2019'],,False,False,,1
+sarr1246-1-20-1,,sarr1246-1,20,qar raq,qar raq,[],,['chan2019'],,False,False,,1
+sarr1246-1-21-1,,sarr1246-1,21,qar raq ruɡ nuk,qar raq ruɡ nuk,[],,['chan2019'],,False,False,,1
+sarr1246-1-22-1,,sarr1246-1,22,qar raq ruɡ raq,qar raq ruɡ raq,[],,['chan2019'],,False,False,,1
+sarr1246-1-23-1,,sarr1246-1,23,qar raq ruɡ tiɡ,qar raq ruɡ tiɡ,[],,['chan2019'],,False,False,,1
+sarr1246-1-24-1,,sarr1246-1,24,qar raq ruɡ ut,qar raq ruɡ ut,[],,['chan2019'],,False,False,,1
+sarr1246-1-25-1,,sarr1246-1,25,qar raq ruɡ jawan,qar raq ruɡ jawan,[],,['chan2019'],,False,False,,1
+sarr1246-1-26-1,,sarr1246-1,26,qar raq ruɡ tejaŋ,qar raq ruɡ tejaŋ,[],,['chan2019'],,False,False,,1
+sarr1246-1-27-1,,sarr1246-1,27,qar raq ruɡ jisraq,qar raq ruɡ jisraq,[],,['chan2019'],,False,False,,1
+sarr1246-1-28-1,,sarr1246-1,28,qar raq ruɡ jinatiɡ,qar raq ruɡ jinatiɡ,[],,['chan2019'],,False,False,,1
+sarr1246-1-29-1,,sarr1246-1,29,qar raq ruɡ jinaut,qar raq ruɡ jinaut,[],,['chan2019'],,False,False,,1
+sarr1246-1-30-1,,sarr1246-1,30,qar tiɡ,qar tiɡ,[],,['chan2019'],,False,False,,1
+sarr1246-1-40-1,,sarr1246-1,40,qar ut,qar ut,[],,['chan2019'],,False,False,,1
+sarr1246-1-50-1,,sarr1246-1,50,qar jawan,qar jawan,[],,['chan2019'],,False,False,,1
+sarr1246-1-60-1,,sarr1246-1,60,qar tejaŋ,qar tejaŋ,[],,['chan2019'],,False,False,,1
+sarr1246-1-70-1,,sarr1246-1,70,qar jisraq,qar jisraq,[],,['chan2019'],,False,False,,1
+sarr1246-1-80-1,,sarr1246-1,80,qar jinatiɡ,qar jinatiɡ,[],,['chan2019'],,False,False,,1
+sarr1246-1-90-1,,sarr1246-1,90,qar jinaut,qar jinaut,[],,['chan2019'],,False,False,,1
+sarr1246-1-100-1,,sarr1246-1,100,ratu,ratu,[],,['chan2019'],,False,False,,1
+sarr1246-1-200-1,,sarr1246-1,200,ratu raq,ratu raq,[],,['chan2019'],,False,False,,1
+sarr1246-1-1000-1,,sarr1246-1,1000,ribu nuk,ribu nuk,[],,['chan2019'],,False,False,,1
+sarr1246-1-2000-1,,sarr1246-1,2000,ribu raq,ribu raq,[],,['chan2019'],,False,False,,1

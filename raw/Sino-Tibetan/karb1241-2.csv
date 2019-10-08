@@ -1,47 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-karb1241-2-1-1,,karb1241-2,1,itʃʰi,itʃʰi,[],,[],,False,False,,2
-karb1241-2-2-1,,karb1241-2,2,hini,hini,[],,[],,False,False,,2
-karb1241-2-3-1,,karb1241-2,3,ketʰɔm,ketʰɔm,[],,[],,False,False,,2
-karb1241-2-4-1,,karb1241-2,4,pʰli,pʰli,[],,[],,False,False,,2
-karb1241-2-5-1,,karb1241-2,5,pʰo,pʰo,[],,[],,False,False,,2
-karb1241-2-6-1,,karb1241-2,6,tʰrɔk,tʰrɔk,[],,[],,False,False,,2
-karb1241-2-7-1,,karb1241-2,7,tʰrɔk-itʃʰi,tʰrɔk-itʃʰi,[],( lit: 6 + 1 ),[],,False,False,,2
-karb1241-2-8-1,,karb1241-2,8,ner-kep,ner-kep,[],( lit: 2 less 10 ),[],,False,False,,2
-karb1241-2-9-1,,karb1241-2,9,itʃʰir-kep,itʃʰir-kep,[],(lit: 1 less 10),[],,False,False,,2
-karb1241-2-10-1,,karb1241-2,10,kep,kep,[],,[],,False,False,,2
-karb1241-2-10-2,,karb1241-2,10,kre,kre,[],( bound form),[],,False,False,,2
-karb1241-2-11-1,,karb1241-2,11,kreitʃʰi,kreitʃʰi,[],,[],,False,False,,2
-karb1241-2-12-1,,karb1241-2,12,krehini,krehini,[],,[],,False,False,,2
-karb1241-2-13-1,,karb1241-2,13,kreketʰɔm,kreketʰɔm,[],,[],,False,False,,2
-karb1241-2-14-1,,karb1241-2,14,krepʰli,krepʰli,[],,[],,False,False,,2
-karb1241-2-15-1,,karb1241-2,15,krepʰo,krepʰo,[],,[],,False,False,,2
-karb1241-2-16-1,,karb1241-2,16,kretʰrɔk,kretʰrɔk,[],,[],,False,False,,2
-karb1241-2-17-1,,karb1241-2,17,kretʰrɔk-itʃʰi,kretʰrɔk-itʃʰi,[],,[],,False,False,,2
-karb1241-2-18-1,,karb1241-2,18,krenerkep,krenerkep,[],,[],,False,False,,2
-karb1241-2-19-1,,karb1241-2,19,kreitʃʰir-kep,kreitʃʰir-kep,[],,[],,False,False,,2
-karb1241-2-20-1,,karb1241-2,20,iŋkɔj,iŋkɔj,[],,[],,False,False,,2
-karb1241-2-20-2,,karb1241-2,20,kuri,kuri,[],< Assamese ,[],,True,False,,2
-karb1241-2-21-1,,karb1241-2,21,iŋkɔj-ra-itʃʰi,iŋkɔj-ra-itʃʰi,[],,[],,False,False,,2
-karb1241-2-21-2,,karb1241-2,21,iŋkɔrrra-itʃʰi,iŋkɔrrra-itʃʰi,[],,[],,False,False,,2
-karb1241-2-22-1,,karb1241-2,22,iŋkɔj-ra-hini,iŋkɔj-ra-hini,[],,[],,False,False,,2
-karb1241-2-23-1,,karb1241-2,23,iŋkɔj-ra-ketʰɔm,iŋkɔj-ra-ketʰɔm,[],,[],,False,False,,2
-karb1241-2-24-1,,karb1241-2,24,iŋkɔj-ra-pʰli,iŋkɔj-ra-pʰli,[],,[],,False,False,,2
-karb1241-2-25-1,,karb1241-2,25,iŋkɔj-ra-pʰo,iŋkɔj-ra-pʰo,[],,[],,False,False,,2
-karb1241-2-26-1,,karb1241-2,26,iŋkɔj-ra-tʰrɔk,iŋkɔj-ra-tʰrɔk,[],,[],,False,False,,2
-karb1241-2-27-1,,karb1241-2,27,iŋkɔj-ra-tʰrɔk-itʃʰi,iŋkɔj-ra-tʰrɔk-itʃʰi,[],,[],,False,False,,2
-karb1241-2-28-1,,karb1241-2,28,iŋkɔj-ra-ner-kep,iŋkɔj-ra-ner-kep,[],,[],,False,False,,2
-karb1241-2-29-1,,karb1241-2,29,iŋkɔj-ra-itʃʰir-kep,iŋkɔj-ra-itʃʰir-kep,[],,[],,False,False,,2
-karb1241-2-30-1,,karb1241-2,30,tʰɔm-kep,tʰɔm-kep,[],,[],,False,False,,2
-karb1241-2-40-1,,karb1241-2,40,pʰli-kep,pʰli-kep,[],,[],,False,False,,2
-karb1241-2-40-2,,karb1241-2,40,du kuri,du kuri,[],( 2 x 20 ),[],,False,False,,2
-karb1241-2-50-1,,karb1241-2,50,pʰɔh-kep,pʰɔh-kep,[],,[],,False,False,,2
-karb1241-2-60-1,,karb1241-2,60,tʰrɔk-kep,tʰrɔk-kep,[],,[],,False,False,,2
-karb1241-2-70-1,,karb1241-2,70,tʰrɔk-itʃʰi-kep,tʰrɔk-itʃʰi-kep,[],( 6 + 1  x 10 ),[],,False,False,,2
-karb1241-2-80-1,,karb1241-2,80,tʰɔk-ner-kep,tʰɔk-ner-kep,[],,[],,False,False,,2
-karb1241-2-80-2,,karb1241-2,80,tʃʰari kuri,tʃʰari kuri,[],( 4 x 20),[],,False,False,,2
-karb1241-2-90-1,,karb1241-2,90,tʰɔk-itʃʰir-kep,tʰɔk-itʃʰir-kep,[],,[],,False,False,,2
-karb1241-2-100-1,,karb1241-2,100,pʰaro,pʰaro,[],,[],,False,False,,2
-karb1241-2-100-2,,karb1241-2,100,patʃʰ kuri,patʃʰ kuri,[],,[],,False,False,,2
-karb1241-2-100-3,,karb1241-2,100,ek ho,ek ho,[],< Assamese ,[],,True,False,,2
-karb1241-2-1000-1,,karb1241-2,1000,tʃʰuri,tʃʰuri,[],,[],,False,False,,2
-karb1241-2-1000-2,,karb1241-2,1000,itʃʰi ra itʃʰi,itʃʰi ra itʃʰi,[],,[],,False,False,,2
+karb1241-2-1-1,,karb1241-2,1,itʃʰi,itʃʰi,[],,['chan2019'],,False,False,,2
+karb1241-2-2-1,,karb1241-2,2,hini,hini,[],,['chan2019'],,False,False,,2
+karb1241-2-3-1,,karb1241-2,3,ketʰɔm,ketʰɔm,[],,['chan2019'],,False,False,,2
+karb1241-2-4-1,,karb1241-2,4,pʰli,pʰli,[],,['chan2019'],,False,False,,2
+karb1241-2-5-1,,karb1241-2,5,pʰo,pʰo,[],,['chan2019'],,False,False,,2
+karb1241-2-6-1,,karb1241-2,6,tʰrɔk,tʰrɔk,[],,['chan2019'],,False,False,,2
+karb1241-2-7-1,,karb1241-2,7,tʰrɔk-itʃʰi,tʰrɔk-itʃʰi,[],( lit: 6 + 1 ),['chan2019'],,False,False,,2
+karb1241-2-8-1,,karb1241-2,8,ner-kep,ner-kep,[],( lit: 2 less 10 ),['chan2019'],,False,False,,2
+karb1241-2-9-1,,karb1241-2,9,itʃʰir-kep,itʃʰir-kep,[],(lit: 1 less 10),['chan2019'],,False,False,,2
+karb1241-2-10-1,,karb1241-2,10,kep,kep,[],,['chan2019'],,False,False,,2
+karb1241-2-10-2,,karb1241-2,10,kre,kre,[],( bound form),['chan2019'],,False,False,,2
+karb1241-2-11-1,,karb1241-2,11,kreitʃʰi,kreitʃʰi,[],,['chan2019'],,False,False,,2
+karb1241-2-12-1,,karb1241-2,12,krehini,krehini,[],,['chan2019'],,False,False,,2
+karb1241-2-13-1,,karb1241-2,13,kreketʰɔm,kreketʰɔm,[],,['chan2019'],,False,False,,2
+karb1241-2-14-1,,karb1241-2,14,krepʰli,krepʰli,[],,['chan2019'],,False,False,,2
+karb1241-2-15-1,,karb1241-2,15,krepʰo,krepʰo,[],,['chan2019'],,False,False,,2
+karb1241-2-16-1,,karb1241-2,16,kretʰrɔk,kretʰrɔk,[],,['chan2019'],,False,False,,2
+karb1241-2-17-1,,karb1241-2,17,kretʰrɔk-itʃʰi,kretʰrɔk-itʃʰi,[],,['chan2019'],,False,False,,2
+karb1241-2-18-1,,karb1241-2,18,krenerkep,krenerkep,[],,['chan2019'],,False,False,,2
+karb1241-2-19-1,,karb1241-2,19,kreitʃʰir-kep,kreitʃʰir-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-20-1,,karb1241-2,20,iŋkɔj,iŋkɔj,[],,['chan2019'],,False,False,,2
+karb1241-2-20-2,,karb1241-2,20,kuri,kuri,[],< Assamese ,['chan2019'],,True,False,,2
+karb1241-2-21-1,,karb1241-2,21,iŋkɔj-ra-itʃʰi,iŋkɔj-ra-itʃʰi,[],,['chan2019'],,False,False,,2
+karb1241-2-21-2,,karb1241-2,21,iŋkɔrrra-itʃʰi,iŋkɔrrra-itʃʰi,[],,['chan2019'],,False,False,,2
+karb1241-2-22-1,,karb1241-2,22,iŋkɔj-ra-hini,iŋkɔj-ra-hini,[],,['chan2019'],,False,False,,2
+karb1241-2-23-1,,karb1241-2,23,iŋkɔj-ra-ketʰɔm,iŋkɔj-ra-ketʰɔm,[],,['chan2019'],,False,False,,2
+karb1241-2-24-1,,karb1241-2,24,iŋkɔj-ra-pʰli,iŋkɔj-ra-pʰli,[],,['chan2019'],,False,False,,2
+karb1241-2-25-1,,karb1241-2,25,iŋkɔj-ra-pʰo,iŋkɔj-ra-pʰo,[],,['chan2019'],,False,False,,2
+karb1241-2-26-1,,karb1241-2,26,iŋkɔj-ra-tʰrɔk,iŋkɔj-ra-tʰrɔk,[],,['chan2019'],,False,False,,2
+karb1241-2-27-1,,karb1241-2,27,iŋkɔj-ra-tʰrɔk-itʃʰi,iŋkɔj-ra-tʰrɔk-itʃʰi,[],,['chan2019'],,False,False,,2
+karb1241-2-28-1,,karb1241-2,28,iŋkɔj-ra-ner-kep,iŋkɔj-ra-ner-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-29-1,,karb1241-2,29,iŋkɔj-ra-itʃʰir-kep,iŋkɔj-ra-itʃʰir-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-30-1,,karb1241-2,30,tʰɔm-kep,tʰɔm-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-40-1,,karb1241-2,40,pʰli-kep,pʰli-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-40-2,,karb1241-2,40,du kuri,du kuri,[],( 2 x 20 ),['chan2019'],,False,False,,2
+karb1241-2-50-1,,karb1241-2,50,pʰɔh-kep,pʰɔh-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-60-1,,karb1241-2,60,tʰrɔk-kep,tʰrɔk-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-70-1,,karb1241-2,70,tʰrɔk-itʃʰi-kep,tʰrɔk-itʃʰi-kep,[],( 6 + 1  x 10 ),['chan2019'],,False,False,,2
+karb1241-2-80-1,,karb1241-2,80,tʰɔk-ner-kep,tʰɔk-ner-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-80-2,,karb1241-2,80,tʃʰari kuri,tʃʰari kuri,[],( 4 x 20),['chan2019'],,False,False,,2
+karb1241-2-90-1,,karb1241-2,90,tʰɔk-itʃʰir-kep,tʰɔk-itʃʰir-kep,[],,['chan2019'],,False,False,,2
+karb1241-2-100-1,,karb1241-2,100,pʰaro,pʰaro,[],,['chan2019'],,False,False,,2
+karb1241-2-100-2,,karb1241-2,100,patʃʰ kuri,patʃʰ kuri,[],,['chan2019'],,False,False,,2
+karb1241-2-100-3,,karb1241-2,100,ek ho,ek ho,[],< Assamese ,['chan2019'],,True,False,,2
+karb1241-2-1000-1,,karb1241-2,1000,tʃʰuri,tʃʰuri,[],,['chan2019'],,False,False,,2
+karb1241-2-1000-2,,karb1241-2,1000,itʃʰi ra itʃʰi,itʃʰi ra itʃʰi,[],,['chan2019'],,False,False,,2

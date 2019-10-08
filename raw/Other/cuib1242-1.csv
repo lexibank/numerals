@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cuib1242-1-1-1,,cuib1242-1,1,këwa,këwa,[],( ë = IPA [ə]),[],,False,False,,1
-cuib1242-1-2-1,,cuib1242-1,2,nakúeyatabe,nakúeyatabe,[],,[],,False,False,,1
-cuib1242-1-3-1,,cuib1242-1,3,akoibi (noun)-be or akoibi xóyobe,akoibi (noun)-be or akoibi xóyobe,[],,[],,False,True,,1
-cuib1242-1-4-1,,cuib1242-1,4,nakuéyatabe xoyobebe,nakuéyatabe xoyobebe,[],,[],,False,False,,1
-cuib1242-1-4-2,,cuib1242-1,4,or cuatro xóyobe,or cuatro xóyobe,[],,[],,False,True,,1
-cuib1242-1-5-1,,cuib1242-1,5,cinco xóyobe,cinco xóyobe,[],,[],,False,False,,1
-cuib1242-1-6-1,,cuib1242-1,6,used Spanish numbers from six on.,used Spanish numbers from six on.,[],,[],,False,True,,1
+cuib1242-1-1-1,,cuib1242-1,1,këwa,këwa,[],( ë = IPA [ə]),['chan2019'],,False,False,,1
+cuib1242-1-2-1,,cuib1242-1,2,nakúeyatabe,nakúeyatabe,[],,['chan2019'],,False,False,,1
+cuib1242-1-3-1,,cuib1242-1,3,akoibi (noun)-be or akoibi xóyobe,akoibi (noun)-be or akoibi xóyobe,[],,['chan2019'],,False,True,,1
+cuib1242-1-4-1,,cuib1242-1,4,nakuéyatabe xoyobebe,nakuéyatabe xoyobebe,[],,['chan2019'],,False,False,,1
+cuib1242-1-4-2,,cuib1242-1,4,or cuatro xóyobe,or cuatro xóyobe,[],,['chan2019'],,False,True,,1
+cuib1242-1-5-1,,cuib1242-1,5,cinco xóyobe,cinco xóyobe,[],,['chan2019'],,False,False,,1
+cuib1242-1-6-1,,cuib1242-1,6,used Spanish numbers from six on.,used Spanish numbers from six on.,[],,['chan2019'],,False,True,,1

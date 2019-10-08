@@ -1,46 +1,46 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-balk1252-1-1-1,,balk1252-1,1,jekʰ,jekʰ,[],,[],,False,False,,1
-balk1252-1-2-1,,balk1252-1,2,dui,dui,[],,[],,False,False,,1
-balk1252-1-3-1,,balk1252-1,3,tri,tri,[],,[],,False,False,,1
-balk1252-1-4-1,,balk1252-1,4,ʃtar,ʃtar,[],,[],,False,False,,1
-balk1252-1-5-1,,balk1252-1,5,pan(ʒ),pan(ʒ),[],,[],,False,False,,1
-balk1252-1-6-1,,balk1252-1,6,ʃov,ʃov,[],,[],,False,False,,1
-balk1252-1-7-1,,balk1252-1,7,efta,efta,[],< Greek ,[],,True,False,,1
-balk1252-1-8-1,,balk1252-1,8,oxto,oxto,[],< Greek ,[],,True,False,,1
-balk1252-1-9-1,,balk1252-1,9,eɲa,eɲa,[],< Greek ,[],,True,False,,1
-balk1252-1-10-1,,balk1252-1,10,de,de,[],,[],,False,False,,1
-balk1252-1-10-2,,balk1252-1,10,deʃ,deʃ,[],,[],,False,False,,1
-balk1252-1-11-1,,balk1252-1,11,deʃujekʰ,deʃujekʰ,[],,[],,False,False,,1
-balk1252-1-12-1,,balk1252-1,12,deʃudui,deʃudui,[],,[],,False,False,,1
-balk1252-1-13-1,,balk1252-1,13,deʃutri,deʃutri,[],,[],,False,False,,1
-balk1252-1-14-1,,balk1252-1,14,deʃuʃtar,deʃuʃtar,[],,[],,False,False,,1
-balk1252-1-15-1,,balk1252-1,15,deʃupanʒ,deʃupanʒ,[],,[],,False,False,,1
-balk1252-1-15-2,,balk1252-1,15,dekapende,dekapende,[],,[],,False,False,,1
-balk1252-1-16-1,,balk1252-1,16,deʃuʃov,deʃuʃov,[],,[],,False,False,,1
-balk1252-1-17-1,,balk1252-1,17,deʃuefta,deʃuefta,[],,[],,False,False,,1
-balk1252-1-18-1,,balk1252-1,18,deʃuoxto,deʃuoxto,[],,[],,False,False,,1
-balk1252-1-19-1,,balk1252-1,19,deʃueɲa,deʃueɲa,[],,[],,False,False,,1
-balk1252-1-20-1,,balk1252-1,20,bi,bi,[],,[],,False,False,,1
-balk1252-1-20-2,,balk1252-1,20,bis,bis,[],,[],,False,False,,1
-balk1252-1-21-1,,balk1252-1,21,bi ta ekʰ,bi ta ekʰ,[],,[],,False,False,,1
-balk1252-1-21-2,,balk1252-1,21,bis ta ekʰ,bis ta ekʰ,[],,[],,False,False,,1
-balk1252-1-22-1,,balk1252-1,22,bis ta dui,bis ta dui,[],,[],,False,False,,1
-balk1252-1-23-1,,balk1252-1,23,bis ta tri,bis ta tri,[],,[],,False,False,,1
-balk1252-1-24-1,,balk1252-1,24,bis ta ʃtar,bis ta ʃtar,[],,[],,False,False,,1
-balk1252-1-25-1,,balk1252-1,25,bis ta pan(ʒ),bis ta pan(ʒ),[],,[],,False,False,,1
-balk1252-1-26-1,,balk1252-1,26,bis ta ʃov,bis ta ʃov,[],,[],,False,False,,1
-balk1252-1-27-1,,balk1252-1,27,bis ta efta,bis ta efta,[],,[],,False,False,,1
-balk1252-1-28-1,,balk1252-1,28,bis ta oxto,bis ta oxto,[],,[],,False,False,,1
-balk1252-1-29-1,,balk1252-1,29,bis ta eɲa,bis ta eɲa,[],,[],,False,False,,1
-balk1252-1-30-1,,balk1252-1,30,trianda,trianda,[],< Greek ,[],,True,False,,1
-balk1252-1-40-1,,balk1252-1,40,saranda,saranda,[],< Greek ,[],,True,False,,1
-balk1252-1-50-1,,balk1252-1,50,peninda,peninda,[],< Greek ,[],,True,False,,1
-balk1252-1-60-1,,balk1252-1,60,ʃov-var-de(ʃ),ʃov-var-de(ʃ),[],,[],,False,False,,1
-balk1252-1-70-1,,balk1252-1,70,efta-var-de(ʃ),efta-var-de(ʃ),[],,[],,False,False,,1
-balk1252-1-80-1,,balk1252-1,80,oxto-var-de(ʃ),oxto-var-de(ʃ),[],,[],,False,False,,1
-balk1252-1-90-1,,balk1252-1,90,eɲa-var-de(ʃ),eɲa-var-de(ʃ),[],,[],,False,False,,1
-balk1252-1-100-1,,balk1252-1,100,ʃel,ʃel,[],,[],,False,False,,1
-balk1252-1-200-1,,balk1252-1,200,dui ʃel,dui ʃel,[],,[],,False,False,,1
-balk1252-1-1000-1,,balk1252-1,1000,hijiada,hijiada,[],< Bulgarian < Greek ,[],,True,False,,1
-balk1252-1-2000-1,,balk1252-1,2000,dui hiljada,dui hiljada,[],,[],,False,False,,1
-balk1252-1-2000-2,,balk1252-1,2000,dui hiliade,dui hiliade,[],,[],,False,False,,1
+balk1252-1-1-1,,balk1252-1,1,jekʰ,jekʰ,[],,['chan2019'],,False,False,,1
+balk1252-1-2-1,,balk1252-1,2,dui,dui,[],,['chan2019'],,False,False,,1
+balk1252-1-3-1,,balk1252-1,3,tri,tri,[],,['chan2019'],,False,False,,1
+balk1252-1-4-1,,balk1252-1,4,ʃtar,ʃtar,[],,['chan2019'],,False,False,,1
+balk1252-1-5-1,,balk1252-1,5,pan(ʒ),pan(ʒ),[],,['chan2019'],,False,False,,1
+balk1252-1-6-1,,balk1252-1,6,ʃov,ʃov,[],,['chan2019'],,False,False,,1
+balk1252-1-7-1,,balk1252-1,7,efta,efta,[],< Greek ,['chan2019'],,True,False,,1
+balk1252-1-8-1,,balk1252-1,8,oxto,oxto,[],< Greek ,['chan2019'],,True,False,,1
+balk1252-1-9-1,,balk1252-1,9,eɲa,eɲa,[],< Greek ,['chan2019'],,True,False,,1
+balk1252-1-10-1,,balk1252-1,10,de,de,[],,['chan2019'],,False,False,,1
+balk1252-1-10-2,,balk1252-1,10,deʃ,deʃ,[],,['chan2019'],,False,False,,1
+balk1252-1-11-1,,balk1252-1,11,deʃujekʰ,deʃujekʰ,[],,['chan2019'],,False,False,,1
+balk1252-1-12-1,,balk1252-1,12,deʃudui,deʃudui,[],,['chan2019'],,False,False,,1
+balk1252-1-13-1,,balk1252-1,13,deʃutri,deʃutri,[],,['chan2019'],,False,False,,1
+balk1252-1-14-1,,balk1252-1,14,deʃuʃtar,deʃuʃtar,[],,['chan2019'],,False,False,,1
+balk1252-1-15-1,,balk1252-1,15,deʃupanʒ,deʃupanʒ,[],,['chan2019'],,False,False,,1
+balk1252-1-15-2,,balk1252-1,15,dekapende,dekapende,[],,['chan2019'],,False,False,,1
+balk1252-1-16-1,,balk1252-1,16,deʃuʃov,deʃuʃov,[],,['chan2019'],,False,False,,1
+balk1252-1-17-1,,balk1252-1,17,deʃuefta,deʃuefta,[],,['chan2019'],,False,False,,1
+balk1252-1-18-1,,balk1252-1,18,deʃuoxto,deʃuoxto,[],,['chan2019'],,False,False,,1
+balk1252-1-19-1,,balk1252-1,19,deʃueɲa,deʃueɲa,[],,['chan2019'],,False,False,,1
+balk1252-1-20-1,,balk1252-1,20,bi,bi,[],,['chan2019'],,False,False,,1
+balk1252-1-20-2,,balk1252-1,20,bis,bis,[],,['chan2019'],,False,False,,1
+balk1252-1-21-1,,balk1252-1,21,bi ta ekʰ,bi ta ekʰ,[],,['chan2019'],,False,False,,1
+balk1252-1-21-2,,balk1252-1,21,bis ta ekʰ,bis ta ekʰ,[],,['chan2019'],,False,False,,1
+balk1252-1-22-1,,balk1252-1,22,bis ta dui,bis ta dui,[],,['chan2019'],,False,False,,1
+balk1252-1-23-1,,balk1252-1,23,bis ta tri,bis ta tri,[],,['chan2019'],,False,False,,1
+balk1252-1-24-1,,balk1252-1,24,bis ta ʃtar,bis ta ʃtar,[],,['chan2019'],,False,False,,1
+balk1252-1-25-1,,balk1252-1,25,bis ta pan(ʒ),bis ta pan(ʒ),[],,['chan2019'],,False,False,,1
+balk1252-1-26-1,,balk1252-1,26,bis ta ʃov,bis ta ʃov,[],,['chan2019'],,False,False,,1
+balk1252-1-27-1,,balk1252-1,27,bis ta efta,bis ta efta,[],,['chan2019'],,False,False,,1
+balk1252-1-28-1,,balk1252-1,28,bis ta oxto,bis ta oxto,[],,['chan2019'],,False,False,,1
+balk1252-1-29-1,,balk1252-1,29,bis ta eɲa,bis ta eɲa,[],,['chan2019'],,False,False,,1
+balk1252-1-30-1,,balk1252-1,30,trianda,trianda,[],< Greek ,['chan2019'],,True,False,,1
+balk1252-1-40-1,,balk1252-1,40,saranda,saranda,[],< Greek ,['chan2019'],,True,False,,1
+balk1252-1-50-1,,balk1252-1,50,peninda,peninda,[],< Greek ,['chan2019'],,True,False,,1
+balk1252-1-60-1,,balk1252-1,60,ʃov-var-de(ʃ),ʃov-var-de(ʃ),[],,['chan2019'],,False,False,,1
+balk1252-1-70-1,,balk1252-1,70,efta-var-de(ʃ),efta-var-de(ʃ),[],,['chan2019'],,False,False,,1
+balk1252-1-80-1,,balk1252-1,80,oxto-var-de(ʃ),oxto-var-de(ʃ),[],,['chan2019'],,False,False,,1
+balk1252-1-90-1,,balk1252-1,90,eɲa-var-de(ʃ),eɲa-var-de(ʃ),[],,['chan2019'],,False,False,,1
+balk1252-1-100-1,,balk1252-1,100,ʃel,ʃel,[],,['chan2019'],,False,False,,1
+balk1252-1-200-1,,balk1252-1,200,dui ʃel,dui ʃel,[],,['chan2019'],,False,False,,1
+balk1252-1-1000-1,,balk1252-1,1000,hijiada,hijiada,[],< Bulgarian < Greek ,['chan2019'],,True,False,,1
+balk1252-1-2000-1,,balk1252-1,2000,dui hiljada,dui hiljada,[],,['chan2019'],,False,False,,1
+balk1252-1-2000-2,,balk1252-1,2000,dui hiliade,dui hiliade,[],,['chan2019'],,False,False,,1

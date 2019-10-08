@@ -1,25 +1,25 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1595-1-1-1,,nucl1595-1,1,abɛrias,abɛrias,[],,[],,False,False,,1
-nucl1595-1-2-1,,nucl1595-1,2,nenumʷano,nenumʷano,[],,[],,False,False,,1
-nucl1595-1-3-1,,nucl1595-1,3,ɪ̌sini,ɪ̌sini,[],,[],,False,False,,1
-nucl1595-1-4-1,,nucl1595-1,4,ɪ̌sinimaro,ɪ̌sinimaro,[],(litː ''2 + 2''),[],,False,False,,1
-nucl1595-1-5-1,,nucl1595-1,5,matantac ( litː 'this hand') * c =,matantac ( litː 'this hand') * c =,[],[tʃ],[],,False,True,,1
-nucl1595-1-6-1,,nucl1595-1,6,matantac abɛrias,matantac abɛrias,[],,[],,False,False,,1
-nucl1595-1-7-1,,nucl1595-1,7,matantac nenumʷano,matantac nenumʷano,[],,[],,False,False,,1
-nucl1595-1-8-1,,nucl1595-1,8,matantac ɪ̌sini,matantac ɪ̌sini,[],,[],,False,False,,1
-nucl1595-1-9-1,,nucl1595-1,9,matantac ɪ̌sinimaro,matantac ɪ̌sinimaro,[],,[],,False,False,,1
-nucl1595-1-10-1,,nucl1595-1,10,matantac matantac,matantac matantac,[],"(litː 'this hand, this hand')",[],,False,False,,1
-nucl1595-1-11-1,,nucl1595-1,11,matantac matantac abɛrias or (matan) tenica abɛrias,matantac matantac abɛrias or (matan) tenica abɛrias,[],"(litː 'this foot, one')",[],,False,True,,1
-nucl1595-1-12-1,,nucl1595-1,12,matantac matantac nenumʷano or (matan) tenica abɛrias nenumʷano,matantac matantac nenumʷano or (matan) tenica abɛrias nenumʷano,[],,[],,False,True,,1
-nucl1595-1-13-1,,nucl1595-1,13,matantac matantac ɪ̌sini or (matan) tenica abɛrias ɪ̌sini,matantac matantac ɪ̌sini or (matan) tenica abɛrias ɪ̌sini,[],,[],,False,True,,1
-nucl1595-1-14-1,,nucl1595-1,14,matantac matantac ɪ̌sinimaro or (matan) tenica abɛrias ̌sinimaro,matantac matantac ɪ̌sinimaro or (matan) tenica abɛrias ̌sinimaro,[],,[],,False,True,,1
-nucl1595-1-15-1,,nucl1595-1,15,matantac matantac matantac mantan tenica or matan tenicaba,matantac matantac matantac mantan tenica or matan tenicaba,[],(burukwe),[],,False,True,,1
-nucl1595-1-16-1,,nucl1595-1,16,tenic awotan abɛrias,tenic awotan abɛrias,[],(litː 'foot other one'),[],,False,False,,1
-nucl1595-1-17-1,,nucl1595-1,17,tenic awotan nenumʷano,tenic awotan nenumʷano,[],,[],,False,False,,1
-nucl1595-1-18-1,,nucl1595-1,18,tenic awotan ɪ̌sini,tenic awotan ɪ̌sini,[],,[],,False,False,,1
-nucl1595-1-19-1,,nucl1595-1,19,tenic awotan ɪ̌sinimaro,tenic awotan ɪ̌sinimaro,[],,[],,False,False,,1
-nucl1595-1-20-1,,nucl1595-1,20,abacaba abɛriasaba (litː 'man one') or anaba abɛriasaba,abacaba abɛriasaba (litː 'man one') or anaba abɛriasaba,[],(litː 'man one'),[],,False,True,,1
-nucl1595-1-30-1,,nucl1595-1,30,abacaba abɛriasaba bar matantac matantac,abacaba abɛriasaba bar matantac matantac,[],,[],,False,False,,1
-nucl1595-1-30-2,,nucl1595-1,30,40. matantac nenumʷano,40. matantac nenumʷano,[],,[],,False,True,,1
-nucl1595-1-100-1,,nucl1595-1,100,abacaba matantacaba or seratus,abacaba matantacaba or seratus,[],( < Bahasa Indonesia),[],,True,True,,1
-nucl1595-1-1000-1,,nucl1595-1,1000,seribu,seribu,[],( < Bahasa Indonesia),[],,True,False,,1
+nucl1595-1-1-1,,nucl1595-1,1,abɛrias,abɛrias,[],,['chan2019'],,False,False,,1
+nucl1595-1-2-1,,nucl1595-1,2,nenumʷano,nenumʷano,[],,['chan2019'],,False,False,,1
+nucl1595-1-3-1,,nucl1595-1,3,ɪ̌sini,ɪ̌sini,[],,['chan2019'],,False,False,,1
+nucl1595-1-4-1,,nucl1595-1,4,ɪ̌sinimaro,ɪ̌sinimaro,[],(litː ''2 + 2''),['chan2019'],,False,False,,1
+nucl1595-1-5-1,,nucl1595-1,5,matantac ( litː 'this hand') * c =,matantac ( litː 'this hand') * c =,[],[tʃ],['chan2019'],,False,True,,1
+nucl1595-1-6-1,,nucl1595-1,6,matantac abɛrias,matantac abɛrias,[],,['chan2019'],,False,False,,1
+nucl1595-1-7-1,,nucl1595-1,7,matantac nenumʷano,matantac nenumʷano,[],,['chan2019'],,False,False,,1
+nucl1595-1-8-1,,nucl1595-1,8,matantac ɪ̌sini,matantac ɪ̌sini,[],,['chan2019'],,False,False,,1
+nucl1595-1-9-1,,nucl1595-1,9,matantac ɪ̌sinimaro,matantac ɪ̌sinimaro,[],,['chan2019'],,False,False,,1
+nucl1595-1-10-1,,nucl1595-1,10,matantac matantac,matantac matantac,[],"(litː 'this hand, this hand')",['chan2019'],,False,False,,1
+nucl1595-1-11-1,,nucl1595-1,11,matantac matantac abɛrias or (matan) tenica abɛrias,matantac matantac abɛrias or (matan) tenica abɛrias,[],"(litː 'this foot, one')",['chan2019'],,False,True,,1
+nucl1595-1-12-1,,nucl1595-1,12,matantac matantac nenumʷano or (matan) tenica abɛrias nenumʷano,matantac matantac nenumʷano or (matan) tenica abɛrias nenumʷano,[],,['chan2019'],,False,True,,1
+nucl1595-1-13-1,,nucl1595-1,13,matantac matantac ɪ̌sini or (matan) tenica abɛrias ɪ̌sini,matantac matantac ɪ̌sini or (matan) tenica abɛrias ɪ̌sini,[],,['chan2019'],,False,True,,1
+nucl1595-1-14-1,,nucl1595-1,14,matantac matantac ɪ̌sinimaro or (matan) tenica abɛrias ̌sinimaro,matantac matantac ɪ̌sinimaro or (matan) tenica abɛrias ̌sinimaro,[],,['chan2019'],,False,True,,1
+nucl1595-1-15-1,,nucl1595-1,15,matantac matantac matantac mantan tenica or matan tenicaba,matantac matantac matantac mantan tenica or matan tenicaba,[],(burukwe),['chan2019'],,False,True,,1
+nucl1595-1-16-1,,nucl1595-1,16,tenic awotan abɛrias,tenic awotan abɛrias,[],(litː 'foot other one'),['chan2019'],,False,False,,1
+nucl1595-1-17-1,,nucl1595-1,17,tenic awotan nenumʷano,tenic awotan nenumʷano,[],,['chan2019'],,False,False,,1
+nucl1595-1-18-1,,nucl1595-1,18,tenic awotan ɪ̌sini,tenic awotan ɪ̌sini,[],,['chan2019'],,False,False,,1
+nucl1595-1-19-1,,nucl1595-1,19,tenic awotan ɪ̌sinimaro,tenic awotan ɪ̌sinimaro,[],,['chan2019'],,False,False,,1
+nucl1595-1-20-1,,nucl1595-1,20,abacaba abɛriasaba (litː 'man one') or anaba abɛriasaba,abacaba abɛriasaba (litː 'man one') or anaba abɛriasaba,[],(litː 'man one'),['chan2019'],,False,True,,1
+nucl1595-1-30-1,,nucl1595-1,30,abacaba abɛriasaba bar matantac matantac,abacaba abɛriasaba bar matantac matantac,[],,['chan2019'],,False,False,,1
+nucl1595-1-30-2,,nucl1595-1,30,40. matantac nenumʷano,40. matantac nenumʷano,[],,['chan2019'],,False,True,,1
+nucl1595-1-100-1,,nucl1595-1,100,abacaba matantacaba or seratus,abacaba matantacaba or seratus,[],( < Bahasa Indonesia),['chan2019'],,True,True,,1
+nucl1595-1-1000-1,,nucl1595-1,1000,seribu,seribu,[],( < Bahasa Indonesia),['chan2019'],,True,False,,1

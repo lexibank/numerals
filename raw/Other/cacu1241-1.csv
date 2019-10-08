@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cacu1241-1-1-1,,cacu1241-1,1,bǐk ''one'',bǐk ''one'',[],,[],,False,True,,1
-cacu1241-1-2-1,,cacu1241-1,2,tʃên ''two'',tʃên ''two'',[],,[],,False,True,,1
-cacu1241-1-3-1,,cacu1241-1,3,bǐk-pejʔ-kan-ni ''three'' (lit. one-be.friend/together-NEG-ADJVZ'one with no company) pejʔ might be a grammaticalized form of peh-h?m 'be.friends,bǐk-pejʔ-kan-ni ''three'' (lit. one-be.friend/together-NEG-ADJVZ'one with no company) pejʔ might be a grammaticalized form of peh-h?m 'be.friends,[],,[],,False,True,,1
-cacu1241-1-3-2,,cacu1241-1,3,together-exist',together-exist',[],,[],,False,False,,1
-cacu1241-1-3-3,,cacu1241-1,3,as for,as for,[],( now),[],,False,False,,1
-cacu1241-1-3-4,,cacu1241-1,3,it can only be translated as 'three',it can only be translated as 'three',[],,[],,False,True,,1
-cacu1241-1-3-5,,cacu1241-1,3,always a bound form.,always a bound form.,[],,[],,False,True,,1
-cacu1241-1-4-1,,cacu1241-1,4,tʃên-na-mîk ''four'',tʃên-na-mîk ''four'',[],(two/partner-PL.inanimate-reciprocal'each other have a partner'),[],,False,True,,1
-cacu1241-1-5-1,,cacu1241-1,5,bǐk-hĩʔ-bǔ tejʔja ''five'',bǐk-hĩʔ-bǔ tejʔja ''five'',[],(one-conmitative-LOC/EMPHZhand 'with one hand'),[],,False,True,,1
-cacu1241-1-6-1,,cacu1241-1,6,and take one finger out'),and take one finger out'),[],,[],,False,True,bǐk-hĩʔ-bǔ tejʔja bǐk-têjʔ-tib-dubʔ ʔɨbʔ-ni ''six'' (one-COMM-LOC/EMPHZhand one-    hand-finger-CL:pointed take.out-ADJVZ'with one hand,1
-cacu1241-1-7-1,,cacu1241-1,7,and take two fingers out,and take two fingers out,[],,[],,False,True,bǐk-hĩʔ-bǔ tejʔja tʃêne-têjʔ-tib-dubʔ ʔɨbʔ-ni ''seven'' (one-COMM-LOC/EMPHZhand    two/partner-hand-finger-CL:pointed take.out-ADJVZ 'with one hand,1
+cacu1241-1-1-1,,cacu1241-1,1,bǐk ''one'',bǐk ''one'',[],,['chan2019'],,False,True,,1
+cacu1241-1-2-1,,cacu1241-1,2,tʃên ''two'',tʃên ''two'',[],,['chan2019'],,False,True,,1
+cacu1241-1-3-1,,cacu1241-1,3,bǐk-pejʔ-kan-ni ''three'' (lit. one-be.friend/together-NEG-ADJVZ'one with no company) pejʔ might be a grammaticalized form of peh-h?m 'be.friends,bǐk-pejʔ-kan-ni ''three'' (lit. one-be.friend/together-NEG-ADJVZ'one with no company) pejʔ might be a grammaticalized form of peh-h?m 'be.friends,[],,['chan2019'],,False,True,,1
+cacu1241-1-3-2,,cacu1241-1,3,together-exist',together-exist',[],,['chan2019'],,False,False,,1
+cacu1241-1-3-3,,cacu1241-1,3,as for,as for,[],( now),['chan2019'],,False,False,,1
+cacu1241-1-3-4,,cacu1241-1,3,it can only be translated as 'three',it can only be translated as 'three',[],,['chan2019'],,False,True,,1
+cacu1241-1-3-5,,cacu1241-1,3,always a bound form.,always a bound form.,[],,['chan2019'],,False,True,,1
+cacu1241-1-4-1,,cacu1241-1,4,tʃên-na-mîk ''four'',tʃên-na-mîk ''four'',[],(two/partner-PL.inanimate-reciprocal'each other have a partner'),['chan2019'],,False,True,,1
+cacu1241-1-5-1,,cacu1241-1,5,bǐk-hĩʔ-bǔ tejʔja ''five'',bǐk-hĩʔ-bǔ tejʔja ''five'',[],(one-conmitative-LOC/EMPHZhand 'with one hand'),['chan2019'],,False,True,,1
+cacu1241-1-6-1,,cacu1241-1,6,and take one finger out'),and take one finger out'),[],,['chan2019'],,False,True,bǐk-hĩʔ-bǔ tejʔja bǐk-têjʔ-tib-dubʔ ʔɨbʔ-ni ''six'' (one-COMM-LOC/EMPHZhand one-    hand-finger-CL:pointed take.out-ADJVZ'with one hand,1
+cacu1241-1-7-1,,cacu1241-1,7,and take two fingers out,and take two fingers out,[],,['chan2019'],,False,True,bǐk-hĩʔ-bǔ tejʔja tʃêne-têjʔ-tib-dubʔ ʔɨbʔ-ni ''seven'' (one-COMM-LOC/EMPHZhand    two/partner-hand-finger-CL:pointed take.out-ADJVZ 'with one hand,1

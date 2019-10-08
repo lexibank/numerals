@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-oroc1248-1-1-1,,oroc1248-1,1,omoː,omoː,[],,[],,False,False,,1
-oroc1248-1-2-1,,oroc1248-1,2,dʒuː,dʒuː,[],,[],,False,False,,1
-oroc1248-1-3-1,,oroc1248-1,3,ila,ila,[],,[],,False,False,,1
-oroc1248-1-4-1,,oroc1248-1,4,diː,diː,[],,[],,False,False,,1
-oroc1248-1-5-1,,oroc1248-1,5,tuŋa,tuŋa,[],,[],,False,False,,1
-oroc1248-1-6-1,,oroc1248-1,6,ɲuŋu,ɲuŋu,[],,[],,False,False,,1
-oroc1248-1-7-1,,oroc1248-1,7,nada,nada,[],,[],,False,False,,1
-oroc1248-1-8-1,,oroc1248-1,8,dʒakpu,dʒakpu,[],,[],,False,False,,1
-oroc1248-1-9-1,,oroc1248-1,9,xuju,xuju,[],,[],,False,False,,1
-oroc1248-1-10-1,,oroc1248-1,10,dʒaː,dʒaː,[],,[],,False,False,,1
-oroc1248-1-11-1,,oroc1248-1,11,dʒaː omo,dʒaː omo,[],,[],,False,False,,1
-oroc1248-1-12-1,,oroc1248-1,12,dʒan dʒuː,dʒan dʒuː,[],,[],,False,False,,1
-oroc1248-1-13-1,,oroc1248-1,13,dʒaː ila,dʒaː ila,[],,[],,False,False,,1
-oroc1248-1-14-1,,oroc1248-1,14,dʒaː diː,dʒaː diː,[],,[],,False,False,,1
-oroc1248-1-15-1,,oroc1248-1,15,dʒaː tuŋa,dʒaː tuŋa,[],,[],,False,False,,1
-oroc1248-1-16-1,,oroc1248-1,16,dʒaː ɲuŋu,dʒaː ɲuŋu,[],,[],,False,False,,1
-oroc1248-1-17-1,,oroc1248-1,17,dʒaː nada,dʒaː nada,[],,[],,False,False,,1
-oroc1248-1-18-1,,oroc1248-1,18,dʒaː dʒakpu,dʒaː dʒakpu,[],,[],,False,False,,1
-oroc1248-1-19-1,,oroc1248-1,19,dʒaː xuji,dʒaː xuji,[],,[],,False,False,,1
-oroc1248-1-20-1,,oroc1248-1,20,oi,oi,[],,[],,False,False,,1
-oroc1248-1-21-1,,oroc1248-1,21,oi omo,oi omo,[],,[],,False,False,,1
-oroc1248-1-22-1,,oroc1248-1,22,oi dʒuː,oi dʒuː,[],,[],,False,False,,1
-oroc1248-1-23-1,,oroc1248-1,23,oi ila,oi ila,[],,[],,False,False,,1
-oroc1248-1-24-1,,oroc1248-1,24,oi diː,oi diː,[],,[],,False,False,,1
-oroc1248-1-25-1,,oroc1248-1,25,oi tuŋa,oi tuŋa,[],,[],,False,False,,1
-oroc1248-1-26-1,,oroc1248-1,26,oi ɲuŋu,oi ɲuŋu,[],,[],,False,False,,1
-oroc1248-1-27-1,,oroc1248-1,27,oi nada,oi nada,[],,[],,False,False,,1
-oroc1248-1-28-1,,oroc1248-1,28,oi dʒakpu,oi dʒakpu,[],,[],,False,False,,1
-oroc1248-1-29-1,,oroc1248-1,29,oi xuju,oi xuju,[],,[],,False,False,,1
-oroc1248-1-30-1,,oroc1248-1,30,guti,guti,[],,[],,False,False,,1
-oroc1248-1-40-1,,oroc1248-1,40,dindʒa,dindʒa,[],,[],,False,False,,1
-oroc1248-1-50-1,,oroc1248-1,50,tuŋandʒa,tuŋandʒa,[],,[],,False,False,,1
-oroc1248-1-60-1,,oroc1248-1,60,ɲuŋundʒa,ɲuŋundʒa,[],,[],,False,False,,1
-oroc1248-1-70-1,,oroc1248-1,70,nadandʒa,nadandʒa,[],,[],,False,False,,1
-oroc1248-1-80-1,,oroc1248-1,80,dʒakpundʒa,dʒakpundʒa,[],,[],,False,False,,1
-oroc1248-1-90-1,,oroc1248-1,90,xujundʒa,xujundʒa,[],,[],,False,False,,1
-oroc1248-1-100-1,,oroc1248-1,100,taŋgu,taŋgu,[],,[],,False,False,,1
-oroc1248-1-200-1,,oroc1248-1,200,dʒuː taŋgu,dʒuː taŋgu,[],,[],,False,False,,1
-oroc1248-1-1000-1,,oroc1248-1,1000,miŋga,miŋga,[],,[],,False,False,,1
-oroc1248-1-2000-1,,oroc1248-1,2000,dʒuː miŋga,dʒuː miŋga,[],,[],,False,False,,1
+oroc1248-1-1-1,,oroc1248-1,1,omoː,omoː,[],,['chan2019'],,False,False,,1
+oroc1248-1-2-1,,oroc1248-1,2,dʒuː,dʒuː,[],,['chan2019'],,False,False,,1
+oroc1248-1-3-1,,oroc1248-1,3,ila,ila,[],,['chan2019'],,False,False,,1
+oroc1248-1-4-1,,oroc1248-1,4,diː,diː,[],,['chan2019'],,False,False,,1
+oroc1248-1-5-1,,oroc1248-1,5,tuŋa,tuŋa,[],,['chan2019'],,False,False,,1
+oroc1248-1-6-1,,oroc1248-1,6,ɲuŋu,ɲuŋu,[],,['chan2019'],,False,False,,1
+oroc1248-1-7-1,,oroc1248-1,7,nada,nada,[],,['chan2019'],,False,False,,1
+oroc1248-1-8-1,,oroc1248-1,8,dʒakpu,dʒakpu,[],,['chan2019'],,False,False,,1
+oroc1248-1-9-1,,oroc1248-1,9,xuju,xuju,[],,['chan2019'],,False,False,,1
+oroc1248-1-10-1,,oroc1248-1,10,dʒaː,dʒaː,[],,['chan2019'],,False,False,,1
+oroc1248-1-11-1,,oroc1248-1,11,dʒaː omo,dʒaː omo,[],,['chan2019'],,False,False,,1
+oroc1248-1-12-1,,oroc1248-1,12,dʒan dʒuː,dʒan dʒuː,[],,['chan2019'],,False,False,,1
+oroc1248-1-13-1,,oroc1248-1,13,dʒaː ila,dʒaː ila,[],,['chan2019'],,False,False,,1
+oroc1248-1-14-1,,oroc1248-1,14,dʒaː diː,dʒaː diː,[],,['chan2019'],,False,False,,1
+oroc1248-1-15-1,,oroc1248-1,15,dʒaː tuŋa,dʒaː tuŋa,[],,['chan2019'],,False,False,,1
+oroc1248-1-16-1,,oroc1248-1,16,dʒaː ɲuŋu,dʒaː ɲuŋu,[],,['chan2019'],,False,False,,1
+oroc1248-1-17-1,,oroc1248-1,17,dʒaː nada,dʒaː nada,[],,['chan2019'],,False,False,,1
+oroc1248-1-18-1,,oroc1248-1,18,dʒaː dʒakpu,dʒaː dʒakpu,[],,['chan2019'],,False,False,,1
+oroc1248-1-19-1,,oroc1248-1,19,dʒaː xuji,dʒaː xuji,[],,['chan2019'],,False,False,,1
+oroc1248-1-20-1,,oroc1248-1,20,oi,oi,[],,['chan2019'],,False,False,,1
+oroc1248-1-21-1,,oroc1248-1,21,oi omo,oi omo,[],,['chan2019'],,False,False,,1
+oroc1248-1-22-1,,oroc1248-1,22,oi dʒuː,oi dʒuː,[],,['chan2019'],,False,False,,1
+oroc1248-1-23-1,,oroc1248-1,23,oi ila,oi ila,[],,['chan2019'],,False,False,,1
+oroc1248-1-24-1,,oroc1248-1,24,oi diː,oi diː,[],,['chan2019'],,False,False,,1
+oroc1248-1-25-1,,oroc1248-1,25,oi tuŋa,oi tuŋa,[],,['chan2019'],,False,False,,1
+oroc1248-1-26-1,,oroc1248-1,26,oi ɲuŋu,oi ɲuŋu,[],,['chan2019'],,False,False,,1
+oroc1248-1-27-1,,oroc1248-1,27,oi nada,oi nada,[],,['chan2019'],,False,False,,1
+oroc1248-1-28-1,,oroc1248-1,28,oi dʒakpu,oi dʒakpu,[],,['chan2019'],,False,False,,1
+oroc1248-1-29-1,,oroc1248-1,29,oi xuju,oi xuju,[],,['chan2019'],,False,False,,1
+oroc1248-1-30-1,,oroc1248-1,30,guti,guti,[],,['chan2019'],,False,False,,1
+oroc1248-1-40-1,,oroc1248-1,40,dindʒa,dindʒa,[],,['chan2019'],,False,False,,1
+oroc1248-1-50-1,,oroc1248-1,50,tuŋandʒa,tuŋandʒa,[],,['chan2019'],,False,False,,1
+oroc1248-1-60-1,,oroc1248-1,60,ɲuŋundʒa,ɲuŋundʒa,[],,['chan2019'],,False,False,,1
+oroc1248-1-70-1,,oroc1248-1,70,nadandʒa,nadandʒa,[],,['chan2019'],,False,False,,1
+oroc1248-1-80-1,,oroc1248-1,80,dʒakpundʒa,dʒakpundʒa,[],,['chan2019'],,False,False,,1
+oroc1248-1-90-1,,oroc1248-1,90,xujundʒa,xujundʒa,[],,['chan2019'],,False,False,,1
+oroc1248-1-100-1,,oroc1248-1,100,taŋgu,taŋgu,[],,['chan2019'],,False,False,,1
+oroc1248-1-200-1,,oroc1248-1,200,dʒuː taŋgu,dʒuː taŋgu,[],,['chan2019'],,False,False,,1
+oroc1248-1-1000-1,,oroc1248-1,1000,miŋga,miŋga,[],,['chan2019'],,False,False,,1
+oroc1248-1-2000-1,,oroc1248-1,2000,dʒuː miŋga,dʒuː miŋga,[],,['chan2019'],,False,False,,1

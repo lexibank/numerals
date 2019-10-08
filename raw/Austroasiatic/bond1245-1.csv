@@ -1,53 +1,53 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bond1245-1-1-1,,bond1245-1,1,minɖa,minɖa,[],(Animate),[],,False,False,,1
-bond1245-1-1-2,,bond1245-1,1,muiyɔ,muiyɔ,[],(Inanimate),[],,False,False,,1
-bond1245-1-2-1,,bond1245-1,2,ũbɔya,ũbɔya,[],(Animate),[],,False,False,,1
-bond1245-1-2-2,,bond1245-1,2,ũbar,ũbar,[],(Inanimate),[],,False,False,,1
-bond1245-1-3-1,,bond1245-1,3,ĩŋeɖrɔ,ĩŋeɖrɔ,[],(Animate),[],,False,False,,1
-bond1245-1-3-2,,bond1245-1,3,ĩŋĩar,ĩŋĩar,[],(Inanimate),[],,False,False,,1
-bond1245-1-4-1,,bond1245-1,4,ũnɖro,ũnɖro,[],(Animate),[],,False,False,,1
-bond1245-1-4-2,,bond1245-1,4,ũʔũ,ũʔũ,[],(Inanimate),[],,False,False,,1
-bond1245-1-5-1,,bond1245-1,5,mɔlɔy,mɔlɔy,[],(Animate),[],,False,False,,1
-bond1245-1-5-2,,bond1245-1,5,mɔlɔy,mɔlɔy,[],(Inanimate),[],,False,False,,1
-bond1245-1-6-1,,bond1245-1,6,tiram,tiram,[],(Animate),[],,False,False,,1
-bond1245-1-6-2,,bond1245-1,6,tiri,tiri,[],(Inanimate),[],,False,False,,1
-bond1245-1-7-1,,bond1245-1,7,ɡiʔ,ɡiʔ,[],(Animate),[],,False,False,,1
-bond1245-1-7-2,,bond1245-1,7,ɡiʔ,ɡiʔ,[],(Inanimate),[],,False,False,,1
-bond1245-1-8-1,,bond1245-1,8,tɔmam,tɔmam,[],(Animate),[],,False,False,,1
-bond1245-1-8-2,,bond1245-1,8,tɔmam,tɔmam,[],(Inanimate),[],,False,False,,1
-bond1245-1-9-1,,bond1245-1,9,nɔ,nɔ,[],(Animate),[],,False,False,,1
-bond1245-1-9-2,,bond1245-1,9,nɔ,nɔ,[],(Inanimate),[],,False,False,,1
-bond1245-1-10-1,,bond1245-1,10,dɔs,dɔs,[],(Animate),[],,False,False,,1
-bond1245-1-10-2,,bond1245-1,10,dɔs,dɔs,[],(Inanimate),[],,False,False,,1
-bond1245-1-11-1,,bond1245-1,11,dɔs muiyɔ,dɔs muiyɔ,[],,[],,False,False,,1
-bond1245-1-12-1,,bond1245-1,12,dɔs ũbar,dɔs ũbar,[],,[],,False,False,,1
-bond1245-1-13-1,,bond1245-1,13,dɔs ĩŋĩar,dɔs ĩŋĩar,[],,[],,False,False,,1
-bond1245-1-14-1,,bond1245-1,14,dɔs ũʔũ,dɔs ũʔũ,[],,[],,False,False,,1
-bond1245-1-15-1,,bond1245-1,15,dɔs mɔlɔy,dɔs mɔlɔy,[],,[],,False,False,,1
-bond1245-1-16-1,,bond1245-1,16,dɔs tiri,dɔs tiri,[],,[],,False,False,,1
-bond1245-1-17-1,,bond1245-1,17,dɔs ɡiʔ,dɔs ɡiʔ,[],,[],,False,False,,1
-bond1245-1-18-1,,bond1245-1,18,dɔs tɔmam,dɔs tɔmam,[],,[],,False,False,,1
-bond1245-1-19-1,,bond1245-1,19,unis,unis,[],,[],,False,False,,1
-bond1245-1-20-1,,bond1245-1,20,koɖe,koɖe,[],,[],,False,False,,1
-bond1245-1-21-1,,bond1245-1,21,koɖe muiyɔ,koɖe muiyɔ,[],,[],,False,False,,1
-bond1245-1-22-1,,bond1245-1,22,koɖe ũbar,koɖe ũbar,[],,[],,False,False,,1
-bond1245-1-23-1,,bond1245-1,23,koɖe ĩŋĩar,koɖe ĩŋĩar,[],,[],,False,False,,1
-bond1245-1-24-1,,bond1245-1,24,koɖe ũʔũ,koɖe ũʔũ,[],,[],,False,False,,1
-bond1245-1-25-1,,bond1245-1,25,koɖe mɔlɔy,koɖe mɔlɔy,[],,[],,False,False,,1
-bond1245-1-26-1,,bond1245-1,26,koɖe tiri,koɖe tiri,[],,[],,False,False,,1
-bond1245-1-27-1,,bond1245-1,27,koɖe ɡiʔ,koɖe ɡiʔ,[],,[],,False,False,,1
-bond1245-1-28-1,,bond1245-1,28,koɖe tɔmam,koɖe tɔmam,[],,[],,False,False,,1
-bond1245-1-29-1,,bond1245-1,29,koɖe nɔ,koɖe nɔ,[],,[],,False,False,,1
-bond1245-1-30-1,,bond1245-1,30,koɖe dɔs,koɖe dɔs,[],(20+10 ),[],,False,False,,1
-bond1245-1-40-1,,bond1245-1,40,di koɖi,di koɖi,[],(2 x 20),[],,False,False,,1
-bond1245-1-50-1,,bond1245-1,50,di koɖi dɔs,di koɖi dɔs,[],,[],,False,False,,1
-bond1245-1-60-1,,bond1245-1,60,tin koɖi,tin koɖi,[],(3 x 20),[],,False,False,,1
-bond1245-1-70-1,,bond1245-1,70,tin koɖi dɔs,tin koɖi dɔs,[],,[],,False,False,,1
-bond1245-1-80-1,,bond1245-1,80,tʃar koɖi,tʃar koɖi,[],(4 x 20),[],,False,False,,1
-bond1245-1-90-1,,bond1245-1,90,tʃar koɖi dɔs,tʃar koɖi dɔs,[],,[],,False,False,,1
-bond1245-1-100-1,,bond1245-1,100,patʃ koɖi,patʃ koɖi,[],(5 x 20),[],,False,False,,1
-bond1245-1-100-2,,bond1245-1,100,200. dɔs koɖi,200. dɔs koɖi,[],,[],,False,True,,1
-bond1245-1-400-1,,bond1245-1,400,tʃar sɔ,tʃar sɔ,[],< Indo-Aryan ,[],,True,False,,1
-bond1245-1-400-2,,bond1245-1,400,800. aːʈ sɔ,800. aːʈ sɔ,[],,[],,False,True,,1
-bond1245-1-1000-1,,bond1245-1,1000,hadʒar,hadʒar,[],< Indo-Aryan ,[],,True,False,,1
-bond1245-1-2000-1,,bond1245-1,2000,di hadʒar,di hadʒar,[],,[],,False,False,,1
+bond1245-1-1-1,,bond1245-1,1,minɖa,minɖa,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-1-2,,bond1245-1,1,muiyɔ,muiyɔ,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-2-1,,bond1245-1,2,ũbɔya,ũbɔya,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-2-2,,bond1245-1,2,ũbar,ũbar,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-3-1,,bond1245-1,3,ĩŋeɖrɔ,ĩŋeɖrɔ,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-3-2,,bond1245-1,3,ĩŋĩar,ĩŋĩar,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-4-1,,bond1245-1,4,ũnɖro,ũnɖro,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-4-2,,bond1245-1,4,ũʔũ,ũʔũ,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-5-1,,bond1245-1,5,mɔlɔy,mɔlɔy,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-5-2,,bond1245-1,5,mɔlɔy,mɔlɔy,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-6-1,,bond1245-1,6,tiram,tiram,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-6-2,,bond1245-1,6,tiri,tiri,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-7-1,,bond1245-1,7,ɡiʔ,ɡiʔ,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-7-2,,bond1245-1,7,ɡiʔ,ɡiʔ,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-8-1,,bond1245-1,8,tɔmam,tɔmam,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-8-2,,bond1245-1,8,tɔmam,tɔmam,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-9-1,,bond1245-1,9,nɔ,nɔ,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-9-2,,bond1245-1,9,nɔ,nɔ,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-10-1,,bond1245-1,10,dɔs,dɔs,[],(Animate),['chan2019'],,False,False,,1
+bond1245-1-10-2,,bond1245-1,10,dɔs,dɔs,[],(Inanimate),['chan2019'],,False,False,,1
+bond1245-1-11-1,,bond1245-1,11,dɔs muiyɔ,dɔs muiyɔ,[],,['chan2019'],,False,False,,1
+bond1245-1-12-1,,bond1245-1,12,dɔs ũbar,dɔs ũbar,[],,['chan2019'],,False,False,,1
+bond1245-1-13-1,,bond1245-1,13,dɔs ĩŋĩar,dɔs ĩŋĩar,[],,['chan2019'],,False,False,,1
+bond1245-1-14-1,,bond1245-1,14,dɔs ũʔũ,dɔs ũʔũ,[],,['chan2019'],,False,False,,1
+bond1245-1-15-1,,bond1245-1,15,dɔs mɔlɔy,dɔs mɔlɔy,[],,['chan2019'],,False,False,,1
+bond1245-1-16-1,,bond1245-1,16,dɔs tiri,dɔs tiri,[],,['chan2019'],,False,False,,1
+bond1245-1-17-1,,bond1245-1,17,dɔs ɡiʔ,dɔs ɡiʔ,[],,['chan2019'],,False,False,,1
+bond1245-1-18-1,,bond1245-1,18,dɔs tɔmam,dɔs tɔmam,[],,['chan2019'],,False,False,,1
+bond1245-1-19-1,,bond1245-1,19,unis,unis,[],,['chan2019'],,False,False,,1
+bond1245-1-20-1,,bond1245-1,20,koɖe,koɖe,[],,['chan2019'],,False,False,,1
+bond1245-1-21-1,,bond1245-1,21,koɖe muiyɔ,koɖe muiyɔ,[],,['chan2019'],,False,False,,1
+bond1245-1-22-1,,bond1245-1,22,koɖe ũbar,koɖe ũbar,[],,['chan2019'],,False,False,,1
+bond1245-1-23-1,,bond1245-1,23,koɖe ĩŋĩar,koɖe ĩŋĩar,[],,['chan2019'],,False,False,,1
+bond1245-1-24-1,,bond1245-1,24,koɖe ũʔũ,koɖe ũʔũ,[],,['chan2019'],,False,False,,1
+bond1245-1-25-1,,bond1245-1,25,koɖe mɔlɔy,koɖe mɔlɔy,[],,['chan2019'],,False,False,,1
+bond1245-1-26-1,,bond1245-1,26,koɖe tiri,koɖe tiri,[],,['chan2019'],,False,False,,1
+bond1245-1-27-1,,bond1245-1,27,koɖe ɡiʔ,koɖe ɡiʔ,[],,['chan2019'],,False,False,,1
+bond1245-1-28-1,,bond1245-1,28,koɖe tɔmam,koɖe tɔmam,[],,['chan2019'],,False,False,,1
+bond1245-1-29-1,,bond1245-1,29,koɖe nɔ,koɖe nɔ,[],,['chan2019'],,False,False,,1
+bond1245-1-30-1,,bond1245-1,30,koɖe dɔs,koɖe dɔs,[],(20+10 ),['chan2019'],,False,False,,1
+bond1245-1-40-1,,bond1245-1,40,di koɖi,di koɖi,[],(2 x 20),['chan2019'],,False,False,,1
+bond1245-1-50-1,,bond1245-1,50,di koɖi dɔs,di koɖi dɔs,[],,['chan2019'],,False,False,,1
+bond1245-1-60-1,,bond1245-1,60,tin koɖi,tin koɖi,[],(3 x 20),['chan2019'],,False,False,,1
+bond1245-1-70-1,,bond1245-1,70,tin koɖi dɔs,tin koɖi dɔs,[],,['chan2019'],,False,False,,1
+bond1245-1-80-1,,bond1245-1,80,tʃar koɖi,tʃar koɖi,[],(4 x 20),['chan2019'],,False,False,,1
+bond1245-1-90-1,,bond1245-1,90,tʃar koɖi dɔs,tʃar koɖi dɔs,[],,['chan2019'],,False,False,,1
+bond1245-1-100-1,,bond1245-1,100,patʃ koɖi,patʃ koɖi,[],(5 x 20),['chan2019'],,False,False,,1
+bond1245-1-100-2,,bond1245-1,100,200. dɔs koɖi,200. dɔs koɖi,[],,['chan2019'],,False,True,,1
+bond1245-1-400-1,,bond1245-1,400,tʃar sɔ,tʃar sɔ,[],< Indo-Aryan ,['chan2019'],,True,False,,1
+bond1245-1-400-2,,bond1245-1,400,800. aːʈ sɔ,800. aːʈ sɔ,[],,['chan2019'],,False,True,,1
+bond1245-1-1000-1,,bond1245-1,1000,hadʒar,hadʒar,[],< Indo-Aryan ,['chan2019'],,True,False,,1
+bond1245-1-2000-1,,bond1245-1,2000,di hadʒar,di hadʒar,[],,['chan2019'],,False,False,,1

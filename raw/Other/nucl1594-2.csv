@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1594-2-1-1,,nucl1594-2,1,naw'ɑzɛ,naw'ɑzɛ,[],,[],,False,False,,1
-nucl1594-2-2-1,,nucl1594-2,2,ɑm'oi,ɑm'oi,[],,[],,False,False,,1
-nucl1594-2-3-1,,nucl1594-2,3,kɑr'ia,kɑr'ia,[],,[],,False,False,,1
-nucl1594-2-4-1,,nucl1594-2,4,ɑuw'ɛra,ɑuw'ɛra,[],,[],,False,False,,1
-nucl1594-2-5-1,,nucl1594-2,5,iv'oro,iv'oro,[],,[],,False,False,,1
-nucl1594-2-6-1,,nucl1594-2,6,iv'odɑnɑ,iv'odɑnɑ,[],,[],,False,False,,1
-nucl1594-2-7-1,,nucl1594-2,7,iv'orɑm'ɑi,iv'orɑm'ɑi,[],,[],,False,False,,1
-nucl1594-2-8-1,,nucl1594-2,8,iv'oɑria,iv'oɑria,[],,[],,False,False,,1
-nucl1594-2-9-1,,nucl1594-2,9,ivduə,ivduə,[],,[],,False,False,,1
-nucl1594-2-10-1,,nucl1594-2,10,t'oɡi d'ɑni,t'oɡi d'ɑni,[],,[],,False,False,,1
+nucl1594-2-1-1,,nucl1594-2,1,naw'ɑzɛ,naw'ɑzɛ,[],,['chan2019'],,False,False,,1
+nucl1594-2-2-1,,nucl1594-2,2,ɑm'oi,ɑm'oi,[],,['chan2019'],,False,False,,1
+nucl1594-2-3-1,,nucl1594-2,3,kɑr'ia,kɑr'ia,[],,['chan2019'],,False,False,,1
+nucl1594-2-4-1,,nucl1594-2,4,ɑuw'ɛra,ɑuw'ɛra,[],,['chan2019'],,False,False,,1
+nucl1594-2-5-1,,nucl1594-2,5,iv'oro,iv'oro,[],,['chan2019'],,False,False,,1
+nucl1594-2-6-1,,nucl1594-2,6,iv'odɑnɑ,iv'odɑnɑ,[],,['chan2019'],,False,False,,1
+nucl1594-2-7-1,,nucl1594-2,7,iv'orɑm'ɑi,iv'orɑm'ɑi,[],,['chan2019'],,False,False,,1
+nucl1594-2-8-1,,nucl1594-2,8,iv'oɑria,iv'oɑria,[],,['chan2019'],,False,False,,1
+nucl1594-2-9-1,,nucl1594-2,9,ivduə,ivduə,[],,['chan2019'],,False,False,,1
+nucl1594-2-10-1,,nucl1594-2,10,t'oɡi d'ɑni,t'oɡi d'ɑni,[],,['chan2019'],,False,False,,1

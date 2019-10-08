@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-alor1247-1-1-1,,alor1247-1,1,tou,tou,[],,[],,False,False,,1
-alor1247-1-2-1,,alor1247-1,2,ruwa,ruwa,[],,[],,False,False,,1
-alor1247-1-3-1,,alor1247-1,3,təlo,təlo,[],,[],,False,False,,1
-alor1247-1-4-1,,alor1247-1,4,pa,pa,[],,[],,False,False,,1
-alor1247-1-5-1,,alor1247-1,5,ləma,ləma,[],,[],,False,False,,1
-alor1247-1-6-1,,alor1247-1,6,namo,namo,[],,[],,False,False,,1
-alor1247-1-7-1,,alor1247-1,7,pitu,pitu,[],,[],,False,False,,1
-alor1247-1-8-1,,alor1247-1,8,bittu,bittu,[],,[],,False,False,,1
-alor1247-1-9-1,,alor1247-1,9,hiwa,hiwa,[],,[],,False,False,,1
-alor1247-1-10-1,,alor1247-1,10,kartou,kartou,[],,[],,False,False,,1
-alor1247-1-11-1,,alor1247-1,11,kartou laka tou,kartou laka tou,[],,[],,False,False,,1
-alor1247-1-12-1,,alor1247-1,12,kartou laka ruwa,kartou laka ruwa,[],,[],,False,False,,1
-alor1247-1-13-1,,alor1247-1,13,kartou laka təlo,kartou laka təlo,[],,[],,False,False,,1
-alor1247-1-14-1,,alor1247-1,14,kartou laka pa,kartou laka pa,[],,[],,False,False,,1
-alor1247-1-15-1,,alor1247-1,15,kartou laka ləma,kartou laka ləma,[],,[],,False,False,,1
-alor1247-1-16-1,,alor1247-1,16,kartou laka namo,kartou laka namo,[],,[],,False,False,,1
-alor1247-1-17-1,,alor1247-1,17,kartou laka pitu,kartou laka pitu,[],,[],,False,False,,1
-alor1247-1-18-1,,alor1247-1,18,kartou laka bittu,kartou laka bittu,[],,[],,False,False,,1
-alor1247-1-19-1,,alor1247-1,19,kartou laka hiwa,kartou laka hiwa,[],,[],,False,False,,1
-alor1247-1-20-1,,alor1247-1,20,karwa,karwa,[],,[],,False,False,,1
-alor1247-1-21-1,,alor1247-1,21,karwa laka tou,karwa laka tou,[],,[],,False,False,,1
-alor1247-1-22-1,,alor1247-1,22,karwa laka ruwa,karwa laka ruwa,[],,[],,False,False,,1
-alor1247-1-23-1,,alor1247-1,23,karwa laka təlo,karwa laka təlo,[],,[],,False,False,,1
-alor1247-1-24-1,,alor1247-1,24,karwa laka pa,karwa laka pa,[],,[],,False,False,,1
-alor1247-1-25-1,,alor1247-1,25,karwa laka ləma,karwa laka ləma,[],,[],,False,False,,1
-alor1247-1-26-1,,alor1247-1,26,karwa laka namo,karwa laka namo,[],,[],,False,False,,1
-alor1247-1-27-1,,alor1247-1,27,karwa laka pitu,karwa laka pitu,[],,[],,False,False,,1
-alor1247-1-28-1,,alor1247-1,28,karwa laka bittu,karwa laka bittu,[],,[],,False,False,,1
-alor1247-1-29-1,,alor1247-1,29,karwa laka hiwa,karwa laka hiwa,[],,[],,False,False,,1
-alor1247-1-30-1,,alor1247-1,30,kartalo,kartalo,[],,[],,False,False,,1
-alor1247-1-40-1,,alor1247-1,40,karpa,karpa,[],,[],,False,False,,1
-alor1247-1-50-1,,alor1247-1,50,karoləma,karoləma,[],,[],,False,False,,1
-alor1247-1-60-1,,alor1247-1,60,karnamo,karnamo,[],,[],,False,False,,1
-alor1247-1-70-1,,alor1247-1,70,karpitu,karpitu,[],,[],,False,False,,1
-alor1247-1-80-1,,alor1247-1,80,karbitu,karbitu,[],,[],,False,False,,1
-alor1247-1-90-1,,alor1247-1,90,karhiwa,karhiwa,[],,[],,False,False,,1
-alor1247-1-100-1,,alor1247-1,100,ratu,ratu,[],,[],,False,False,,1
-alor1247-1-200-1,,alor1247-1,200,ratu ruwa,ratu ruwa,[],,[],,False,False,,1
-alor1247-1-1000-1,,alor1247-1,1000,ribu,ribu,[],,[],,False,False,,1
-alor1247-1-2000-1,,alor1247-1,2000,ribu ruwa,ribu ruwa,[],,[],,False,False,,1
+alor1247-1-1-1,,alor1247-1,1,tou,tou,[],,['chan2019'],,False,False,,1
+alor1247-1-2-1,,alor1247-1,2,ruwa,ruwa,[],,['chan2019'],,False,False,,1
+alor1247-1-3-1,,alor1247-1,3,təlo,təlo,[],,['chan2019'],,False,False,,1
+alor1247-1-4-1,,alor1247-1,4,pa,pa,[],,['chan2019'],,False,False,,1
+alor1247-1-5-1,,alor1247-1,5,ləma,ləma,[],,['chan2019'],,False,False,,1
+alor1247-1-6-1,,alor1247-1,6,namo,namo,[],,['chan2019'],,False,False,,1
+alor1247-1-7-1,,alor1247-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+alor1247-1-8-1,,alor1247-1,8,bittu,bittu,[],,['chan2019'],,False,False,,1
+alor1247-1-9-1,,alor1247-1,9,hiwa,hiwa,[],,['chan2019'],,False,False,,1
+alor1247-1-10-1,,alor1247-1,10,kartou,kartou,[],,['chan2019'],,False,False,,1
+alor1247-1-11-1,,alor1247-1,11,kartou laka tou,kartou laka tou,[],,['chan2019'],,False,False,,1
+alor1247-1-12-1,,alor1247-1,12,kartou laka ruwa,kartou laka ruwa,[],,['chan2019'],,False,False,,1
+alor1247-1-13-1,,alor1247-1,13,kartou laka təlo,kartou laka təlo,[],,['chan2019'],,False,False,,1
+alor1247-1-14-1,,alor1247-1,14,kartou laka pa,kartou laka pa,[],,['chan2019'],,False,False,,1
+alor1247-1-15-1,,alor1247-1,15,kartou laka ləma,kartou laka ləma,[],,['chan2019'],,False,False,,1
+alor1247-1-16-1,,alor1247-1,16,kartou laka namo,kartou laka namo,[],,['chan2019'],,False,False,,1
+alor1247-1-17-1,,alor1247-1,17,kartou laka pitu,kartou laka pitu,[],,['chan2019'],,False,False,,1
+alor1247-1-18-1,,alor1247-1,18,kartou laka bittu,kartou laka bittu,[],,['chan2019'],,False,False,,1
+alor1247-1-19-1,,alor1247-1,19,kartou laka hiwa,kartou laka hiwa,[],,['chan2019'],,False,False,,1
+alor1247-1-20-1,,alor1247-1,20,karwa,karwa,[],,['chan2019'],,False,False,,1
+alor1247-1-21-1,,alor1247-1,21,karwa laka tou,karwa laka tou,[],,['chan2019'],,False,False,,1
+alor1247-1-22-1,,alor1247-1,22,karwa laka ruwa,karwa laka ruwa,[],,['chan2019'],,False,False,,1
+alor1247-1-23-1,,alor1247-1,23,karwa laka təlo,karwa laka təlo,[],,['chan2019'],,False,False,,1
+alor1247-1-24-1,,alor1247-1,24,karwa laka pa,karwa laka pa,[],,['chan2019'],,False,False,,1
+alor1247-1-25-1,,alor1247-1,25,karwa laka ləma,karwa laka ləma,[],,['chan2019'],,False,False,,1
+alor1247-1-26-1,,alor1247-1,26,karwa laka namo,karwa laka namo,[],,['chan2019'],,False,False,,1
+alor1247-1-27-1,,alor1247-1,27,karwa laka pitu,karwa laka pitu,[],,['chan2019'],,False,False,,1
+alor1247-1-28-1,,alor1247-1,28,karwa laka bittu,karwa laka bittu,[],,['chan2019'],,False,False,,1
+alor1247-1-29-1,,alor1247-1,29,karwa laka hiwa,karwa laka hiwa,[],,['chan2019'],,False,False,,1
+alor1247-1-30-1,,alor1247-1,30,kartalo,kartalo,[],,['chan2019'],,False,False,,1
+alor1247-1-40-1,,alor1247-1,40,karpa,karpa,[],,['chan2019'],,False,False,,1
+alor1247-1-50-1,,alor1247-1,50,karoləma,karoləma,[],,['chan2019'],,False,False,,1
+alor1247-1-60-1,,alor1247-1,60,karnamo,karnamo,[],,['chan2019'],,False,False,,1
+alor1247-1-70-1,,alor1247-1,70,karpitu,karpitu,[],,['chan2019'],,False,False,,1
+alor1247-1-80-1,,alor1247-1,80,karbitu,karbitu,[],,['chan2019'],,False,False,,1
+alor1247-1-90-1,,alor1247-1,90,karhiwa,karhiwa,[],,['chan2019'],,False,False,,1
+alor1247-1-100-1,,alor1247-1,100,ratu,ratu,[],,['chan2019'],,False,False,,1
+alor1247-1-200-1,,alor1247-1,200,ratu ruwa,ratu ruwa,[],,['chan2019'],,False,False,,1
+alor1247-1-1000-1,,alor1247-1,1000,ribu,ribu,[],,['chan2019'],,False,False,,1
+alor1247-1-2000-1,,alor1247-1,2000,ribu ruwa,ribu ruwa,[],,['chan2019'],,False,False,,1

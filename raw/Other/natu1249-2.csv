@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-natu1249-2-1-1,,natu1249-2,1,esə̃,esə̃,[],,[],,False,False,,1
-natu1249-2-2-1,,natu1249-2,2,li,li,[],,[],,False,False,,1
-natu1249-2-3-1,,natu1249-2,3,tü,tü,[],,[],,False,False,,1
-natu1249-2-4-1,,natu1249-2,4,pwæ,pwæ,[],,[],,False,False,,1
-natu1249-2-5-1,,natu1249-2,5,nəlvün,nəlvün,[],,[],,False,False,,1
-natu1249-2-6-1,,natu1249-2,6,esə̃mə,esə̃mə,[],( 1 + 5 ),[],,False,False,,1
-natu1249-2-7-1,,natu1249-2,7,ölimə,ölimə,[],( 2 + 5 ),[],,False,False,,1
-natu1249-2-8-1,,natu1249-2,8,ötümə,ötümə,[],( 3 + 5 ),[],,False,False,,1
-natu1249-2-9-1,,natu1249-2,9,öpwæmə,öpwæmə,[],( 4 + 5 ),[],,False,False,,1
-natu1249-2-10-1,,natu1249-2,10,nəpnũ,nəpnũ,[],,[],,False,False,,1
-natu1249-2-11-1,,natu1249-2,11,nəpnũ (esə̃) nöade esə̃,nəpnũ (esə̃) nöade esə̃,[],,[],,False,False,,1
-natu1249-2-12-1,,natu1249-2,12,nəpnũ (esə̃) nöade li,nəpnũ (esə̃) nöade li,[],,[],,False,False,,1
-natu1249-2-13-1,,natu1249-2,13,nəpnũ (esə̃) nöade tü,nəpnũ (esə̃) nöade tü,[],,[],,False,False,,1
-natu1249-2-14-1,,natu1249-2,14,nəpnũ (esə̃) nöade pwæ,nəpnũ (esə̃) nöade pwæ,[],,[],,False,False,,1
-natu1249-2-15-1,,natu1249-2,15,nəpnũ (esə̃) nöade nəlvün,nəpnũ (esə̃) nöade nəlvün,[],,[],,False,False,,1
-natu1249-2-16-1,,natu1249-2,16,nəpnũ (esə̃) nöade esə̃mə,nəpnũ (esə̃) nöade esə̃mə,[],,[],,False,False,,1
-natu1249-2-17-1,,natu1249-2,17,nəpnũ (esə̃) nöade ölimə,nəpnũ (esə̃) nöade ölimə,[],,[],,False,False,,1
-natu1249-2-18-1,,natu1249-2,18,nəpnũ (esə̃) nöade ötümə,nəpnũ (esə̃) nöade ötümə,[],,[],,False,False,,1
-natu1249-2-19-1,,natu1249-2,19,nəpnũ (esə̃) nöade öpwæmə,nəpnũ (esə̃) nöade öpwæmə,[],,[],,False,False,,1
-natu1249-2-20-1,,natu1249-2,20,nəpnũ li,nəpnũ li,[],,[],,False,False,,1
-natu1249-2-21-1,,natu1249-2,21,nəpnũ-li-nöade-esə̃,nəpnũ-li-nöade-esə̃,[],,[],,False,False,,1
-natu1249-2-22-1,,natu1249-2,22,nəpnũ-li-nöade-li,nəpnũ-li-nöade-li,[],,[],,False,False,,1
-natu1249-2-23-1,,natu1249-2,23,nəpnũ-li-nöade-tü,nəpnũ-li-nöade-tü,[],,[],,False,False,,1
-natu1249-2-24-1,,natu1249-2,24,nəpnũ-li-nöade-pwæ,nəpnũ-li-nöade-pwæ,[],,[],,False,False,,1
-natu1249-2-25-1,,natu1249-2,25,nəpnũ-li-nöade-nəlvün,nəpnũ-li-nöade-nəlvün,[],,[],,False,False,,1
-natu1249-2-26-1,,natu1249-2,26,nəpnũ-li-nöade-esə̃mə,nəpnũ-li-nöade-esə̃mə,[],,[],,False,False,,1
-natu1249-2-27-1,,natu1249-2,27,nəpnũ-li-nöade-ölimə,nəpnũ-li-nöade-ölimə,[],,[],,False,False,,1
-natu1249-2-28-1,,natu1249-2,28,nəpnũ-li-nöade-ötümə,nəpnũ-li-nöade-ötümə,[],,[],,False,False,,1
-natu1249-2-29-1,,natu1249-2,29,nəpnũ-li-nöade-öpwæmə,nəpnũ-li-nöade-öpwæmə,[],,[],,False,False,,1
-natu1249-2-30-1,,natu1249-2,30,nəpnũ-tü,nəpnũ-tü,[],,[],,False,False,,1
-natu1249-2-40-1,,natu1249-2,40,nəpnũ-pwæ,nəpnũ-pwæ,[],,[],,False,False,,1
-natu1249-2-50-1,,natu1249-2,50,nəpnũ-nəlvün,nəpnũ-nəlvün,[],,[],,False,False,,1
-natu1249-2-60-1,,natu1249-2,60,nəpnũ-esə̃mə,nəpnũ-esə̃mə,[],,[],,False,False,,1
-natu1249-2-70-1,,natu1249-2,70,nəpnũ-ölimə,nəpnũ-ölimə,[],,[],,False,False,,1
-natu1249-2-80-1,,natu1249-2,80,nəpnũ-ötümə,nəpnũ-ötümə,[],,[],,False,False,,1
-natu1249-2-90-1,,natu1249-2,90,nəpnũ-öpwæmə,nəpnũ-öpwæmə,[],,[],,False,False,,1
-natu1249-2-100-1,,natu1249-2,100,tötüki,tötüki,[],,[],,False,False,,1
-natu1249-2-200-1,,natu1249-2,200,tötüki li,tötüki li,[],,[],,False,False,,1
-natu1249-2-1000-1,,natu1249-2,1000,siu,siu,[],,[],,False,False,,1
-natu1249-2-2000-1,,natu1249-2,2000,siu li,siu li,[],,[],,False,False,,1
+natu1249-2-1-1,,natu1249-2,1,esə̃,esə̃,[],,['chan2019'],,False,False,,1
+natu1249-2-2-1,,natu1249-2,2,li,li,[],,['chan2019'],,False,False,,1
+natu1249-2-3-1,,natu1249-2,3,tü,tü,[],,['chan2019'],,False,False,,1
+natu1249-2-4-1,,natu1249-2,4,pwæ,pwæ,[],,['chan2019'],,False,False,,1
+natu1249-2-5-1,,natu1249-2,5,nəlvün,nəlvün,[],,['chan2019'],,False,False,,1
+natu1249-2-6-1,,natu1249-2,6,esə̃mə,esə̃mə,[],( 1 + 5 ),['chan2019'],,False,False,,1
+natu1249-2-7-1,,natu1249-2,7,ölimə,ölimə,[],( 2 + 5 ),['chan2019'],,False,False,,1
+natu1249-2-8-1,,natu1249-2,8,ötümə,ötümə,[],( 3 + 5 ),['chan2019'],,False,False,,1
+natu1249-2-9-1,,natu1249-2,9,öpwæmə,öpwæmə,[],( 4 + 5 ),['chan2019'],,False,False,,1
+natu1249-2-10-1,,natu1249-2,10,nəpnũ,nəpnũ,[],,['chan2019'],,False,False,,1
+natu1249-2-11-1,,natu1249-2,11,nəpnũ (esə̃) nöade esə̃,nəpnũ (esə̃) nöade esə̃,[],,['chan2019'],,False,False,,1
+natu1249-2-12-1,,natu1249-2,12,nəpnũ (esə̃) nöade li,nəpnũ (esə̃) nöade li,[],,['chan2019'],,False,False,,1
+natu1249-2-13-1,,natu1249-2,13,nəpnũ (esə̃) nöade tü,nəpnũ (esə̃) nöade tü,[],,['chan2019'],,False,False,,1
+natu1249-2-14-1,,natu1249-2,14,nəpnũ (esə̃) nöade pwæ,nəpnũ (esə̃) nöade pwæ,[],,['chan2019'],,False,False,,1
+natu1249-2-15-1,,natu1249-2,15,nəpnũ (esə̃) nöade nəlvün,nəpnũ (esə̃) nöade nəlvün,[],,['chan2019'],,False,False,,1
+natu1249-2-16-1,,natu1249-2,16,nəpnũ (esə̃) nöade esə̃mə,nəpnũ (esə̃) nöade esə̃mə,[],,['chan2019'],,False,False,,1
+natu1249-2-17-1,,natu1249-2,17,nəpnũ (esə̃) nöade ölimə,nəpnũ (esə̃) nöade ölimə,[],,['chan2019'],,False,False,,1
+natu1249-2-18-1,,natu1249-2,18,nəpnũ (esə̃) nöade ötümə,nəpnũ (esə̃) nöade ötümə,[],,['chan2019'],,False,False,,1
+natu1249-2-19-1,,natu1249-2,19,nəpnũ (esə̃) nöade öpwæmə,nəpnũ (esə̃) nöade öpwæmə,[],,['chan2019'],,False,False,,1
+natu1249-2-20-1,,natu1249-2,20,nəpnũ li,nəpnũ li,[],,['chan2019'],,False,False,,1
+natu1249-2-21-1,,natu1249-2,21,nəpnũ-li-nöade-esə̃,nəpnũ-li-nöade-esə̃,[],,['chan2019'],,False,False,,1
+natu1249-2-22-1,,natu1249-2,22,nəpnũ-li-nöade-li,nəpnũ-li-nöade-li,[],,['chan2019'],,False,False,,1
+natu1249-2-23-1,,natu1249-2,23,nəpnũ-li-nöade-tü,nəpnũ-li-nöade-tü,[],,['chan2019'],,False,False,,1
+natu1249-2-24-1,,natu1249-2,24,nəpnũ-li-nöade-pwæ,nəpnũ-li-nöade-pwæ,[],,['chan2019'],,False,False,,1
+natu1249-2-25-1,,natu1249-2,25,nəpnũ-li-nöade-nəlvün,nəpnũ-li-nöade-nəlvün,[],,['chan2019'],,False,False,,1
+natu1249-2-26-1,,natu1249-2,26,nəpnũ-li-nöade-esə̃mə,nəpnũ-li-nöade-esə̃mə,[],,['chan2019'],,False,False,,1
+natu1249-2-27-1,,natu1249-2,27,nəpnũ-li-nöade-ölimə,nəpnũ-li-nöade-ölimə,[],,['chan2019'],,False,False,,1
+natu1249-2-28-1,,natu1249-2,28,nəpnũ-li-nöade-ötümə,nəpnũ-li-nöade-ötümə,[],,['chan2019'],,False,False,,1
+natu1249-2-29-1,,natu1249-2,29,nəpnũ-li-nöade-öpwæmə,nəpnũ-li-nöade-öpwæmə,[],,['chan2019'],,False,False,,1
+natu1249-2-30-1,,natu1249-2,30,nəpnũ-tü,nəpnũ-tü,[],,['chan2019'],,False,False,,1
+natu1249-2-40-1,,natu1249-2,40,nəpnũ-pwæ,nəpnũ-pwæ,[],,['chan2019'],,False,False,,1
+natu1249-2-50-1,,natu1249-2,50,nəpnũ-nəlvün,nəpnũ-nəlvün,[],,['chan2019'],,False,False,,1
+natu1249-2-60-1,,natu1249-2,60,nəpnũ-esə̃mə,nəpnũ-esə̃mə,[],,['chan2019'],,False,False,,1
+natu1249-2-70-1,,natu1249-2,70,nəpnũ-ölimə,nəpnũ-ölimə,[],,['chan2019'],,False,False,,1
+natu1249-2-80-1,,natu1249-2,80,nəpnũ-ötümə,nəpnũ-ötümə,[],,['chan2019'],,False,False,,1
+natu1249-2-90-1,,natu1249-2,90,nəpnũ-öpwæmə,nəpnũ-öpwæmə,[],,['chan2019'],,False,False,,1
+natu1249-2-100-1,,natu1249-2,100,tötüki,tötüki,[],,['chan2019'],,False,False,,1
+natu1249-2-200-1,,natu1249-2,200,tötüki li,tötüki li,[],,['chan2019'],,False,False,,1
+natu1249-2-1000-1,,natu1249-2,1000,siu,siu,[],,['chan2019'],,False,False,,1
+natu1249-2-2000-1,,natu1249-2,2000,siu li,siu li,[],,['chan2019'],,False,False,,1

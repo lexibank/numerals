@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-sari1246-1-1-1,,sari1246-1,1,ʔiw,ʔiw,[],,[],,False,False,,1
-sari1246-1-2-1,,sari1246-1,2,ðɔu,ðɔu,[],,[],,False,False,,1
-sari1246-1-3-1,,sari1246-1,3,arɔij,arɔij,[],,[],,False,False,,1
-sari1246-1-4-1,,sari1246-1,4,t͡savur,t͡savur,[],,[],,False,False,,1
-sari1246-1-5-1,,sari1246-1,5,pinz,pinz,[],,[],,False,False,,1
-sari1246-1-6-1,,sari1246-1,6,χejl,χejl,[],,[],,False,False,,1
-sari1246-1-7-1,,sari1246-1,7,ɯvd,ɯvd,[],,[],,False,False,,1
-sari1246-1-8-1,,sari1246-1,8,wɔxt,wɔxt,[],,[],,False,False,,1
-sari1246-1-9-1,,sari1246-1,9,njɛw,njɛw,[],,[],,False,False,,1
-sari1246-1-10-1,,sari1246-1,10,ðɛs,ðɛs,[],,[],,False,False,,1
-sari1246-1-11-1,,sari1246-1,11,ðɛs at ʔiw,ðɛs at ʔiw,[],,[],,False,False,,1
-sari1246-1-12-1,,sari1246-1,12,ðɛs at ðɔu,ðɛs at ðɔu,[],,[],,False,False,,1
-sari1246-1-13-1,,sari1246-1,13,ðɛs at arɔij,ðɛs at arɔij,[],,[],,False,False,,1
-sari1246-1-14-1,,sari1246-1,14,ðɛs at t͡savur,ðɛs at t͡savur,[],,[],,False,False,,1
-sari1246-1-15-1,,sari1246-1,15,ðɛs at pinz,ðɛs at pinz,[],,[],,False,False,,1
-sari1246-1-16-1,,sari1246-1,16,ðɛs at χejl,ðɛs at χejl,[],,[],,False,False,,1
-sari1246-1-17-1,,sari1246-1,17,ðɛs at ɯvd,ðɛs at ɯvd,[],,[],,False,False,,1
-sari1246-1-18-1,,sari1246-1,18,ðɛs at wɔxt,ðɛs at wɔxt,[],,[],,False,False,,1
-sari1246-1-19-1,,sari1246-1,19,ðɛs at njɛw,ðɛs at njɛw,[],,[],,False,False,,1
-sari1246-1-20-1,,sari1246-1,20,wist,wist,[],,[],,False,False,,1
-sari1246-1-21-1,,sari1246-1,21,wist at ʔiw,wist at ʔiw,[],,[],,False,False,,1
-sari1246-1-22-1,,sari1246-1,22,wist at ðɔu,wist at ðɔu,[],,[],,False,False,,1
-sari1246-1-23-1,,sari1246-1,23,wist at arɔij,wist at arɔij,[],,[],,False,False,,1
-sari1246-1-24-1,,sari1246-1,24,wist at t͡savur,wist at t͡savur,[],,[],,False,False,,1
-sari1246-1-25-1,,sari1246-1,25,wist at pinz,wist at pinz,[],,[],,False,False,,1
-sari1246-1-26-1,,sari1246-1,26,wist at χejl,wist at χejl,[],,[],,False,False,,1
-sari1246-1-27-1,,sari1246-1,27,wist at ɯvd,wist at ɯvd,[],,[],,False,False,,1
-sari1246-1-28-1,,sari1246-1,28,wist at wɔxt,wist at wɔxt,[],,[],,False,False,,1
-sari1246-1-29-1,,sari1246-1,29,wist at njɛw,wist at njɛw,[],,[],,False,False,,1
-sari1246-1-30-1,,sari1246-1,30,si,si,[],,[],,False,False,,1
-sari1246-1-40-1,,sari1246-1,40,t͡ʃal,t͡ʃal,[],,[],,False,False,,1
-sari1246-1-50-1,,sari1246-1,50,pind͡ʒu,pind͡ʒu,[],,[],,False,False,,1
-sari1246-1-60-1,,sari1246-1,60,ɔltmiʃ,ɔltmiʃ,[],< Uighur ,[],,True,False,,1
-sari1246-1-70-1,,sari1246-1,70,yɛtmiʃ,yɛtmiʃ,[],< Uighur ,[],,True,False,,1
-sari1246-1-80-1,,sari1246-1,80,sɛksɛn,sɛksɛn,[],< Uighur ,[],,True,False,,1
-sari1246-1-90-1,,sari1246-1,90,tɔqsan,tɔqsan,[],< Uighur ,[],,True,False,,1
-sari1246-1-100-1,,sari1246-1,100,sad,sad,[],,[],,False,False,,1
-sari1246-1-200-1,,sari1246-1,200,ðaf sad,ðaf sad,[],,[],,False,False,,1
-sari1246-1-1000-1,,sari1246-1,1000,hazur,hazur,[],,[],,False,False,,1
-sari1246-1-2000-1,,sari1246-1,2000,ðɔu hazur,ðɔu hazur,[],,[],,False,False,,1
+sari1246-1-1-1,,sari1246-1,1,ʔiw,ʔiw,[],,['chan2019'],,False,False,,1
+sari1246-1-2-1,,sari1246-1,2,ðɔu,ðɔu,[],,['chan2019'],,False,False,,1
+sari1246-1-3-1,,sari1246-1,3,arɔij,arɔij,[],,['chan2019'],,False,False,,1
+sari1246-1-4-1,,sari1246-1,4,t͡savur,t͡savur,[],,['chan2019'],,False,False,,1
+sari1246-1-5-1,,sari1246-1,5,pinz,pinz,[],,['chan2019'],,False,False,,1
+sari1246-1-6-1,,sari1246-1,6,χejl,χejl,[],,['chan2019'],,False,False,,1
+sari1246-1-7-1,,sari1246-1,7,ɯvd,ɯvd,[],,['chan2019'],,False,False,,1
+sari1246-1-8-1,,sari1246-1,8,wɔxt,wɔxt,[],,['chan2019'],,False,False,,1
+sari1246-1-9-1,,sari1246-1,9,njɛw,njɛw,[],,['chan2019'],,False,False,,1
+sari1246-1-10-1,,sari1246-1,10,ðɛs,ðɛs,[],,['chan2019'],,False,False,,1
+sari1246-1-11-1,,sari1246-1,11,ðɛs at ʔiw,ðɛs at ʔiw,[],,['chan2019'],,False,False,,1
+sari1246-1-12-1,,sari1246-1,12,ðɛs at ðɔu,ðɛs at ðɔu,[],,['chan2019'],,False,False,,1
+sari1246-1-13-1,,sari1246-1,13,ðɛs at arɔij,ðɛs at arɔij,[],,['chan2019'],,False,False,,1
+sari1246-1-14-1,,sari1246-1,14,ðɛs at t͡savur,ðɛs at t͡savur,[],,['chan2019'],,False,False,,1
+sari1246-1-15-1,,sari1246-1,15,ðɛs at pinz,ðɛs at pinz,[],,['chan2019'],,False,False,,1
+sari1246-1-16-1,,sari1246-1,16,ðɛs at χejl,ðɛs at χejl,[],,['chan2019'],,False,False,,1
+sari1246-1-17-1,,sari1246-1,17,ðɛs at ɯvd,ðɛs at ɯvd,[],,['chan2019'],,False,False,,1
+sari1246-1-18-1,,sari1246-1,18,ðɛs at wɔxt,ðɛs at wɔxt,[],,['chan2019'],,False,False,,1
+sari1246-1-19-1,,sari1246-1,19,ðɛs at njɛw,ðɛs at njɛw,[],,['chan2019'],,False,False,,1
+sari1246-1-20-1,,sari1246-1,20,wist,wist,[],,['chan2019'],,False,False,,1
+sari1246-1-21-1,,sari1246-1,21,wist at ʔiw,wist at ʔiw,[],,['chan2019'],,False,False,,1
+sari1246-1-22-1,,sari1246-1,22,wist at ðɔu,wist at ðɔu,[],,['chan2019'],,False,False,,1
+sari1246-1-23-1,,sari1246-1,23,wist at arɔij,wist at arɔij,[],,['chan2019'],,False,False,,1
+sari1246-1-24-1,,sari1246-1,24,wist at t͡savur,wist at t͡savur,[],,['chan2019'],,False,False,,1
+sari1246-1-25-1,,sari1246-1,25,wist at pinz,wist at pinz,[],,['chan2019'],,False,False,,1
+sari1246-1-26-1,,sari1246-1,26,wist at χejl,wist at χejl,[],,['chan2019'],,False,False,,1
+sari1246-1-27-1,,sari1246-1,27,wist at ɯvd,wist at ɯvd,[],,['chan2019'],,False,False,,1
+sari1246-1-28-1,,sari1246-1,28,wist at wɔxt,wist at wɔxt,[],,['chan2019'],,False,False,,1
+sari1246-1-29-1,,sari1246-1,29,wist at njɛw,wist at njɛw,[],,['chan2019'],,False,False,,1
+sari1246-1-30-1,,sari1246-1,30,si,si,[],,['chan2019'],,False,False,,1
+sari1246-1-40-1,,sari1246-1,40,t͡ʃal,t͡ʃal,[],,['chan2019'],,False,False,,1
+sari1246-1-50-1,,sari1246-1,50,pind͡ʒu,pind͡ʒu,[],,['chan2019'],,False,False,,1
+sari1246-1-60-1,,sari1246-1,60,ɔltmiʃ,ɔltmiʃ,[],< Uighur ,['chan2019'],,True,False,,1
+sari1246-1-70-1,,sari1246-1,70,yɛtmiʃ,yɛtmiʃ,[],< Uighur ,['chan2019'],,True,False,,1
+sari1246-1-80-1,,sari1246-1,80,sɛksɛn,sɛksɛn,[],< Uighur ,['chan2019'],,True,False,,1
+sari1246-1-90-1,,sari1246-1,90,tɔqsan,tɔqsan,[],< Uighur ,['chan2019'],,True,False,,1
+sari1246-1-100-1,,sari1246-1,100,sad,sad,[],,['chan2019'],,False,False,,1
+sari1246-1-200-1,,sari1246-1,200,ðaf sad,ðaf sad,[],,['chan2019'],,False,False,,1
+sari1246-1-1000-1,,sari1246-1,1000,hazur,hazur,[],,['chan2019'],,False,False,,1
+sari1246-1-2000-1,,sari1246-1,2000,ðɔu hazur,ðɔu hazur,[],,['chan2019'],,False,False,,1

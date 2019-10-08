@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-awee1242-1-1-1,,awee1242-1,1,kóów,kóów,[],,[],,False,False,,1
-awee1242-1-1-2,,awee1242-1,1,hál-ó,hál-ó,[],(mascu),[],,False,False,,1
-awee1242-1-1-3,,awee1242-1,1,hás-só,hás-só,[],(fem),[],,False,False,,1
-awee1242-1-2-1,,awee1242-1,2,lába,lába,[],,[],,False,False,,1
-awee1242-1-3-1,,awee1242-1,3,síddéh,síddéh,[],,[],,False,False,,1
-awee1242-1-4-1,,awee1242-1,4,áfar,áfar,[],,[],,False,False,,1
-awee1242-1-5-1,,awee1242-1,5,ʃan,ʃan,[],,[],,False,False,,1
-awee1242-1-6-1,,awee1242-1,6,líh,líh,[],,[],,False,False,,1
-awee1242-1-7-1,,awee1242-1,7,toddóu,toddóu,[],,[],,False,False,,1
-awee1242-1-8-1,,awee1242-1,8,siyyéèd,siyyéèd,[],,[],,False,False,,1
-awee1242-1-9-1,,awee1242-1,9,saaɡal,saaɡal,[],,[],,False,False,,1
-awee1242-1-10-1,,awee1242-1,10,tammán,tammán,[],,[],,False,False,,1
-awee1242-1-11-1,,awee1242-1,11,tammán o kóòw,tammán o kóòw,[],,[],,False,False,,1
-awee1242-1-12-1,,awee1242-1,12,tammán o lába,tammán o lába,[],,[],,False,False,,1
-awee1242-1-13-1,,awee1242-1,13,tammán o síddéh,tammán o síddéh,[],,[],,False,False,,1
-awee1242-1-14-1,,awee1242-1,14,tammán o áfar,tammán o áfar,[],,[],,False,False,,1
-awee1242-1-15-1,,awee1242-1,15,tammán o ʃan,tammán o ʃan,[],,[],,False,False,,1
-awee1242-1-16-1,,awee1242-1,16,tammán o líh,tammán o líh,[],,[],,False,False,,1
-awee1242-1-17-1,,awee1242-1,17,tammán o toddóu,tammán o toddóu,[],,[],,False,False,,1
-awee1242-1-18-1,,awee1242-1,18,tammán o siyyéèd,tammán o siyyéèd,[],,[],,False,False,,1
-awee1242-1-19-1,,awee1242-1,19,tammán o saaɡal,tammán o saaɡal,[],,[],,False,False,,1
-awee1242-1-20-1,,awee1242-1,20,labaatán,labaatán,[],,[],,False,False,,1
-awee1242-1-21-1,,awee1242-1,21,labaatán o kóòw,labaatán o kóòw,[],,[],,False,False,,1
-awee1242-1-22-1,,awee1242-1,22,labaatán o lába,labaatán o lába,[],,[],,False,False,,1
-awee1242-1-23-1,,awee1242-1,23,labaatán o síddéh,labaatán o síddéh,[],,[],,False,False,,1
-awee1242-1-24-1,,awee1242-1,24,labaatán o áfar,labaatán o áfar,[],,[],,False,False,,1
-awee1242-1-25-1,,awee1242-1,25,labaatán o ʃan,labaatán o ʃan,[],,[],,False,False,,1
-awee1242-1-26-1,,awee1242-1,26,labaatán o líh,labaatán o líh,[],,[],,False,False,,1
-awee1242-1-27-1,,awee1242-1,27,labaatán o toddóu,labaatán o toddóu,[],,[],,False,False,,1
-awee1242-1-28-1,,awee1242-1,28,labaatán o siyyéèd,labaatán o siyyéèd,[],,[],,False,False,,1
-awee1242-1-29-1,,awee1242-1,29,labaatán o saaɡal,labaatán o saaɡal,[],,[],,False,False,,1
-awee1242-1-30-1,,awee1242-1,30,sóddon,sóddon,[],,[],,False,False,,1
-awee1242-1-40-1,,awee1242-1,40,afártan,afártan,[],,[],,False,False,,1
-awee1242-1-50-1,,awee1242-1,50,kónton,kónton,[],,[],,False,False,,1
-awee1242-1-60-1,,awee1242-1,60,líhidan,líhidan,[],,[],,False,False,,1
-awee1242-1-70-1,,awee1242-1,70,toddobáátan,toddobáátan,[],,[],,False,False,,1
-awee1242-1-80-1,,awee1242-1,80,siddéétan,siddéétan,[],,[],,False,False,,1
-awee1242-1-90-1,,awee1242-1,90,saaɡááʃan,saaɡááʃan,[],,[],,False,False,,1
-awee1242-1-100-1,,awee1242-1,100,bogʼól,bogʼól,[],,[],,False,False,,1
-awee1242-1-1000-1,,awee1242-1,1000,bogʼól íyo tamman,bogʼól íyo tamman,[],( 100 x 10 ),[],,False,False,,1
+awee1242-1-1-1,,awee1242-1,1,kóów,kóów,[],,['chan2019'],,False,False,,1
+awee1242-1-1-2,,awee1242-1,1,hál-ó,hál-ó,[],(mascu),['chan2019'],,False,False,,1
+awee1242-1-1-3,,awee1242-1,1,hás-só,hás-só,[],(fem),['chan2019'],,False,False,,1
+awee1242-1-2-1,,awee1242-1,2,lába,lába,[],,['chan2019'],,False,False,,1
+awee1242-1-3-1,,awee1242-1,3,síddéh,síddéh,[],,['chan2019'],,False,False,,1
+awee1242-1-4-1,,awee1242-1,4,áfar,áfar,[],,['chan2019'],,False,False,,1
+awee1242-1-5-1,,awee1242-1,5,ʃan,ʃan,[],,['chan2019'],,False,False,,1
+awee1242-1-6-1,,awee1242-1,6,líh,líh,[],,['chan2019'],,False,False,,1
+awee1242-1-7-1,,awee1242-1,7,toddóu,toddóu,[],,['chan2019'],,False,False,,1
+awee1242-1-8-1,,awee1242-1,8,siyyéèd,siyyéèd,[],,['chan2019'],,False,False,,1
+awee1242-1-9-1,,awee1242-1,9,saaɡal,saaɡal,[],,['chan2019'],,False,False,,1
+awee1242-1-10-1,,awee1242-1,10,tammán,tammán,[],,['chan2019'],,False,False,,1
+awee1242-1-11-1,,awee1242-1,11,tammán o kóòw,tammán o kóòw,[],,['chan2019'],,False,False,,1
+awee1242-1-12-1,,awee1242-1,12,tammán o lába,tammán o lába,[],,['chan2019'],,False,False,,1
+awee1242-1-13-1,,awee1242-1,13,tammán o síddéh,tammán o síddéh,[],,['chan2019'],,False,False,,1
+awee1242-1-14-1,,awee1242-1,14,tammán o áfar,tammán o áfar,[],,['chan2019'],,False,False,,1
+awee1242-1-15-1,,awee1242-1,15,tammán o ʃan,tammán o ʃan,[],,['chan2019'],,False,False,,1
+awee1242-1-16-1,,awee1242-1,16,tammán o líh,tammán o líh,[],,['chan2019'],,False,False,,1
+awee1242-1-17-1,,awee1242-1,17,tammán o toddóu,tammán o toddóu,[],,['chan2019'],,False,False,,1
+awee1242-1-18-1,,awee1242-1,18,tammán o siyyéèd,tammán o siyyéèd,[],,['chan2019'],,False,False,,1
+awee1242-1-19-1,,awee1242-1,19,tammán o saaɡal,tammán o saaɡal,[],,['chan2019'],,False,False,,1
+awee1242-1-20-1,,awee1242-1,20,labaatán,labaatán,[],,['chan2019'],,False,False,,1
+awee1242-1-21-1,,awee1242-1,21,labaatán o kóòw,labaatán o kóòw,[],,['chan2019'],,False,False,,1
+awee1242-1-22-1,,awee1242-1,22,labaatán o lába,labaatán o lába,[],,['chan2019'],,False,False,,1
+awee1242-1-23-1,,awee1242-1,23,labaatán o síddéh,labaatán o síddéh,[],,['chan2019'],,False,False,,1
+awee1242-1-24-1,,awee1242-1,24,labaatán o áfar,labaatán o áfar,[],,['chan2019'],,False,False,,1
+awee1242-1-25-1,,awee1242-1,25,labaatán o ʃan,labaatán o ʃan,[],,['chan2019'],,False,False,,1
+awee1242-1-26-1,,awee1242-1,26,labaatán o líh,labaatán o líh,[],,['chan2019'],,False,False,,1
+awee1242-1-27-1,,awee1242-1,27,labaatán o toddóu,labaatán o toddóu,[],,['chan2019'],,False,False,,1
+awee1242-1-28-1,,awee1242-1,28,labaatán o siyyéèd,labaatán o siyyéèd,[],,['chan2019'],,False,False,,1
+awee1242-1-29-1,,awee1242-1,29,labaatán o saaɡal,labaatán o saaɡal,[],,['chan2019'],,False,False,,1
+awee1242-1-30-1,,awee1242-1,30,sóddon,sóddon,[],,['chan2019'],,False,False,,1
+awee1242-1-40-1,,awee1242-1,40,afártan,afártan,[],,['chan2019'],,False,False,,1
+awee1242-1-50-1,,awee1242-1,50,kónton,kónton,[],,['chan2019'],,False,False,,1
+awee1242-1-60-1,,awee1242-1,60,líhidan,líhidan,[],,['chan2019'],,False,False,,1
+awee1242-1-70-1,,awee1242-1,70,toddobáátan,toddobáátan,[],,['chan2019'],,False,False,,1
+awee1242-1-80-1,,awee1242-1,80,siddéétan,siddéétan,[],,['chan2019'],,False,False,,1
+awee1242-1-90-1,,awee1242-1,90,saaɡááʃan,saaɡááʃan,[],,['chan2019'],,False,False,,1
+awee1242-1-100-1,,awee1242-1,100,bogʼól,bogʼól,[],,['chan2019'],,False,False,,1
+awee1242-1-1000-1,,awee1242-1,1000,bogʼól íyo tamman,bogʼól íyo tamman,[],( 100 x 10 ),['chan2019'],,False,False,,1

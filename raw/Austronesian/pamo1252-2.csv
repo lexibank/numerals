@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pamo1252-2-1-1,,pamo1252-2,1,sambaʔa,sambaʔa,[],,[],,False,False,,2
-pamo1252-2-2-1,,pamo1252-2,2,radua,radua,[],,[],,False,False,,2
-pamo1252-2-3-1,,pamo1252-2,3,tatoɡo,tatoɡo,[],,[],,False,False,,2
-pamo1252-2-4-1,,pamo1252-2,4,aopa,aopa,[],,[],,False,False,,2
-pamo1252-2-5-1,,pamo1252-2,5,alima,alima,[],,[],,False,False,,2
-pamo1252-2-6-1,,pamo1252-2,6,aono,aono,[],,[],,False,False,,2
-pamo1252-2-7-1,,pamo1252-2,7,papitu,papitu,[],,[],,False,False,,2
-pamo1252-2-8-1,,pamo1252-2,8,uayu,uayu,[],,[],,False,False,,2
-pamo1252-2-9-1,,pamo1252-2,9,sasio,sasio,[],,[],,False,False,,2
-pamo1252-2-10-1,,pamo1252-2,10,sampuyu,sampuyu,[],,[],,False,False,,2
-pamo1252-2-11-1,,pamo1252-2,11,sampuyu sambaʔa,sampuyu sambaʔa,[],,[],,False,False,,2
-pamo1252-2-12-1,,pamo1252-2,12,sampuyu radua,sampuyu radua,[],,[],,False,False,,2
-pamo1252-2-13-1,,pamo1252-2,13,sampuyu tatoɡo,sampuyu tatoɡo,[],,[],,False,False,,2
-pamo1252-2-14-1,,pamo1252-2,14,sampuyu aopa,sampuyu aopa,[],,[],,False,False,,2
-pamo1252-2-15-1,,pamo1252-2,15,sampuyu alima,sampuyu alima,[],,[],,False,False,,2
-pamo1252-2-16-1,,pamo1252-2,16,sampuyu aono,sampuyu aono,[],,[],,False,False,,2
-pamo1252-2-17-1,,pamo1252-2,17,sampuyu papitu,sampuyu papitu,[],,[],,False,False,,2
-pamo1252-2-18-1,,pamo1252-2,18,sampuyu uayu,sampuyu uayu,[],,[],,False,False,,2
-pamo1252-2-19-1,,pamo1252-2,19,sampuyu sasio,sampuyu sasio,[],,[],,False,False,,2
-pamo1252-2-20-1,,pamo1252-2,20,radua mpuyu,radua mpuyu,[],,[],,False,False,,2
-pamo1252-2-21-1,,pamo1252-2,21,radua mpuyu sambaʔa,radua mpuyu sambaʔa,[],,[],,False,False,,2
-pamo1252-2-22-1,,pamo1252-2,22,radua mpuyu radua,radua mpuyu radua,[],,[],,False,False,,2
-pamo1252-2-23-1,,pamo1252-2,23,radua mpuyu tatoɡo,radua mpuyu tatoɡo,[],,[],,False,False,,2
-pamo1252-2-24-1,,pamo1252-2,24,radua mpuyu aopa,radua mpuyu aopa,[],,[],,False,False,,2
-pamo1252-2-25-1,,pamo1252-2,25,radua mpuyu alima,radua mpuyu alima,[],,[],,False,False,,2
-pamo1252-2-26-1,,pamo1252-2,26,radua mpuyu aono,radua mpuyu aono,[],,[],,False,False,,2
-pamo1252-2-27-1,,pamo1252-2,27,radua mpuyu papitu,radua mpuyu papitu,[],,[],,False,False,,2
-pamo1252-2-28-1,,pamo1252-2,28,radua mpuyu uayu,radua mpuyu uayu,[],,[],,False,False,,2
-pamo1252-2-29-1,,pamo1252-2,29,radua mpuyu sasio,radua mpuyu sasio,[],,[],,False,False,,2
-pamo1252-2-30-1,,pamo1252-2,30,tatoɡo mpuyu,tatoɡo mpuyu,[],,[],,False,False,,2
-pamo1252-2-40-1,,pamo1252-2,40,aopa mpuyu,aopa mpuyu,[],,[],,False,False,,2
-pamo1252-2-50-1,,pamo1252-2,50,alima mpuyu,alima mpuyu,[],,[],,False,False,,2
-pamo1252-2-60-1,,pamo1252-2,60,aono mpuyu,aono mpuyu,[],,[],,False,False,,2
-pamo1252-2-70-1,,pamo1252-2,70,papitu mpuyu,papitu mpuyu,[],,[],,False,False,,2
-pamo1252-2-80-1,,pamo1252-2,80,uayu mpuyu,uayu mpuyu,[],,[],,False,False,,2
-pamo1252-2-90-1,,pamo1252-2,90,sasio mpuyu,sasio mpuyu,[],,[],,False,False,,2
-pamo1252-2-100-1,,pamo1252-2,100,saatu,saatu,[],,[],,False,False,,2
-pamo1252-2-200-1,,pamo1252-2,200,radua atu,radua atu,[],,[],,False,False,,2
-pamo1252-2-1000-1,,pamo1252-2,1000,sant͡ʃowu,sant͡ʃowu,[],,[],,False,False,,2
-pamo1252-2-2000-1,,pamo1252-2,2000,radua nt͡ʃowu,radua nt͡ʃowu,[],,[],,False,False,,2
+pamo1252-2-1-1,,pamo1252-2,1,sambaʔa,sambaʔa,[],,['chan2019'],,False,False,,2
+pamo1252-2-2-1,,pamo1252-2,2,radua,radua,[],,['chan2019'],,False,False,,2
+pamo1252-2-3-1,,pamo1252-2,3,tatoɡo,tatoɡo,[],,['chan2019'],,False,False,,2
+pamo1252-2-4-1,,pamo1252-2,4,aopa,aopa,[],,['chan2019'],,False,False,,2
+pamo1252-2-5-1,,pamo1252-2,5,alima,alima,[],,['chan2019'],,False,False,,2
+pamo1252-2-6-1,,pamo1252-2,6,aono,aono,[],,['chan2019'],,False,False,,2
+pamo1252-2-7-1,,pamo1252-2,7,papitu,papitu,[],,['chan2019'],,False,False,,2
+pamo1252-2-8-1,,pamo1252-2,8,uayu,uayu,[],,['chan2019'],,False,False,,2
+pamo1252-2-9-1,,pamo1252-2,9,sasio,sasio,[],,['chan2019'],,False,False,,2
+pamo1252-2-10-1,,pamo1252-2,10,sampuyu,sampuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-11-1,,pamo1252-2,11,sampuyu sambaʔa,sampuyu sambaʔa,[],,['chan2019'],,False,False,,2
+pamo1252-2-12-1,,pamo1252-2,12,sampuyu radua,sampuyu radua,[],,['chan2019'],,False,False,,2
+pamo1252-2-13-1,,pamo1252-2,13,sampuyu tatoɡo,sampuyu tatoɡo,[],,['chan2019'],,False,False,,2
+pamo1252-2-14-1,,pamo1252-2,14,sampuyu aopa,sampuyu aopa,[],,['chan2019'],,False,False,,2
+pamo1252-2-15-1,,pamo1252-2,15,sampuyu alima,sampuyu alima,[],,['chan2019'],,False,False,,2
+pamo1252-2-16-1,,pamo1252-2,16,sampuyu aono,sampuyu aono,[],,['chan2019'],,False,False,,2
+pamo1252-2-17-1,,pamo1252-2,17,sampuyu papitu,sampuyu papitu,[],,['chan2019'],,False,False,,2
+pamo1252-2-18-1,,pamo1252-2,18,sampuyu uayu,sampuyu uayu,[],,['chan2019'],,False,False,,2
+pamo1252-2-19-1,,pamo1252-2,19,sampuyu sasio,sampuyu sasio,[],,['chan2019'],,False,False,,2
+pamo1252-2-20-1,,pamo1252-2,20,radua mpuyu,radua mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-21-1,,pamo1252-2,21,radua mpuyu sambaʔa,radua mpuyu sambaʔa,[],,['chan2019'],,False,False,,2
+pamo1252-2-22-1,,pamo1252-2,22,radua mpuyu radua,radua mpuyu radua,[],,['chan2019'],,False,False,,2
+pamo1252-2-23-1,,pamo1252-2,23,radua mpuyu tatoɡo,radua mpuyu tatoɡo,[],,['chan2019'],,False,False,,2
+pamo1252-2-24-1,,pamo1252-2,24,radua mpuyu aopa,radua mpuyu aopa,[],,['chan2019'],,False,False,,2
+pamo1252-2-25-1,,pamo1252-2,25,radua mpuyu alima,radua mpuyu alima,[],,['chan2019'],,False,False,,2
+pamo1252-2-26-1,,pamo1252-2,26,radua mpuyu aono,radua mpuyu aono,[],,['chan2019'],,False,False,,2
+pamo1252-2-27-1,,pamo1252-2,27,radua mpuyu papitu,radua mpuyu papitu,[],,['chan2019'],,False,False,,2
+pamo1252-2-28-1,,pamo1252-2,28,radua mpuyu uayu,radua mpuyu uayu,[],,['chan2019'],,False,False,,2
+pamo1252-2-29-1,,pamo1252-2,29,radua mpuyu sasio,radua mpuyu sasio,[],,['chan2019'],,False,False,,2
+pamo1252-2-30-1,,pamo1252-2,30,tatoɡo mpuyu,tatoɡo mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-40-1,,pamo1252-2,40,aopa mpuyu,aopa mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-50-1,,pamo1252-2,50,alima mpuyu,alima mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-60-1,,pamo1252-2,60,aono mpuyu,aono mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-70-1,,pamo1252-2,70,papitu mpuyu,papitu mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-80-1,,pamo1252-2,80,uayu mpuyu,uayu mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-90-1,,pamo1252-2,90,sasio mpuyu,sasio mpuyu,[],,['chan2019'],,False,False,,2
+pamo1252-2-100-1,,pamo1252-2,100,saatu,saatu,[],,['chan2019'],,False,False,,2
+pamo1252-2-200-1,,pamo1252-2,200,radua atu,radua atu,[],,['chan2019'],,False,False,,2
+pamo1252-2-1000-1,,pamo1252-2,1000,sant͡ʃowu,sant͡ʃowu,[],,['chan2019'],,False,False,,2
+pamo1252-2-2000-1,,pamo1252-2,2000,radua nt͡ʃowu,radua nt͡ʃowu,[],,['chan2019'],,False,False,,2

@@ -1,47 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-brah1256-1-1-1,,brah1256-1,1,asiʈː,asiʈː,[],,[],,False,False,,1
-brah1256-1-2-1,,brah1256-1,2,iraʈː,iraʈː,[],,[],,False,False,,1
-brah1256-1-2-2,,brah1256-1,2,iraː,iraː,[],,[],,False,False,,1
-brah1256-1-3-1,,brah1256-1,3,musiʈː,musiʈː,[],,[],,False,False,,1
-brah1256-1-4-1,,brah1256-1,4,t͡ʃaːr,t͡ʃaːr,[],,[],,False,False,,1
-brah1256-1-5-1,,brah1256-1,5,pant͡ʃ,pant͡ʃ,[],,[],,False,False,,1
-brah1256-1-6-1,,brah1256-1,6,ʃaʃ,ʃaʃ,[],,[],,False,False,,1
-brah1256-1-7-1,,brah1256-1,7,ˀapt,ˀapt,[],,[],,False,False,,1
-brah1256-1-7-2,,brah1256-1,7,ˀaft,ˀaft,[],,[],,False,False,,1
-brah1256-1-8-1,,brah1256-1,8,ˀaʃt,ˀaʃt,[],,[],,False,False,,1
-brah1256-1-9-1,,brah1256-1,9,noːˀ,noːˀ,[],,[],,False,False,,1
-brah1256-1-10-1,,brah1256-1,10,daʔ,daʔ,[],,[],,False,False,,1
-brah1256-1-11-1,,brah1256-1,11,jãːzda,jãːzda,[],,[],,False,False,,1
-brah1256-1-12-1,,brah1256-1,12,dwãːzda,dwãːzda,[],,[],,False,False,,1
-brah1256-1-13-1,,brah1256-1,13,sẽːzda,sẽːzda,[],,[],,False,False,,1
-brah1256-1-14-1,,brah1256-1,14,t͡ʃãːrda,t͡ʃãːrda,[],,[],,False,False,,1
-brah1256-1-15-1,,brah1256-1,15,pãːnzda,pãːnzda,[],,[],,False,False,,1
-brah1256-1-16-1,,brah1256-1,16,ʃãːnzda,ʃãːnzda,[],,[],,False,False,,1
-brah1256-1-17-1,,brah1256-1,17,ˀavda,ˀavda,[],,[],,False,False,,1
-brah1256-1-18-1,,brah1256-1,18,ˀaʒda,ˀaʒda,[],,[],,False,False,,1
-brah1256-1-19-1,,brah1256-1,19,noːzda,noːzda,[],,[],,False,False,,1
-brah1256-1-20-1,,brah1256-1,20,biːst,biːst,[],,[],,False,False,,1
-brah1256-1-21-1,,brah1256-1,21,biːst u jak,biːst u jak,[],,[],,False,False,,1
-brah1256-1-22-1,,brah1256-1,22,biːst u do,biːst u do,[],,[],,False,False,,1
-brah1256-1-23-1,,brah1256-1,23,biːst u saj,biːst u saj,[],,[],,False,False,,1
-brah1256-1-24-1,,brah1256-1,24,biːst u t͡ʃaːr,biːst u t͡ʃaːr,[],,[],,False,False,,1
-brah1256-1-25-1,,brah1256-1,25,biːst u pant͡ʃ,biːst u pant͡ʃ,[],,[],,False,False,,1
-brah1256-1-26-1,,brah1256-1,26,biːst u ʃaʃ,biːst u ʃaʃ,[],,[],,False,False,,1
-brah1256-1-27-1,,brah1256-1,27,biːst u apt,biːst u apt,[],,[],,False,False,,1
-brah1256-1-28-1,,brah1256-1,28,biːst u aʃt,biːst u aʃt,[],,[],,False,False,,1
-brah1256-1-29-1,,brah1256-1,29,biːst u no,biːst u no,[],,[],,False,False,,1
-brah1256-1-30-1,,brah1256-1,30,siː,siː,[],,[],,False,False,,1
-brah1256-1-40-1,,brah1256-1,40,t͡ʃil,t͡ʃil,[],,[],,False,False,,1
-brah1256-1-50-1,,brah1256-1,50,pand͡ʒaː,pand͡ʒaː,[],,[],,False,False,,1
-brah1256-1-60-1,,brah1256-1,60,ʃast,ʃast,[],,[],,False,False,,1
-brah1256-1-60-2,,brah1256-1,60,musi biːst,musi biːst,[],(3 x 20),[],,False,False,,1
-brah1256-1-70-1,,brah1256-1,70,ˀaptaːd,ˀaptaːd,[],,[],,False,False,,1
-brah1256-1-70-2,,brah1256-1,70,must biːst u da,must biːst u da,[],( 3 x 20+ 10),[],,False,False,,1
-brah1256-1-80-1,,brah1256-1,80,ˀaʃtaːd,ˀaʃtaːd,[],,[],,False,False,,1
-brah1256-1-80-2,,brah1256-1,80,t͡ʃaːr biːst,t͡ʃaːr biːst,[],( 4 x 20 ),[],,False,False,,1
-brah1256-1-90-1,,brah1256-1,90,navad,navad,[],,[],,False,False,,1
-brah1256-1-90-2,,brah1256-1,90,t͡ʃaːr biːst u da,t͡ʃaːr biːst u da,[],,[],,False,False,,1
-brah1256-1-100-1,,brah1256-1,100,sad,sad,[],,[],,False,False,,1
-brah1256-1-200-1,,brah1256-1,200,do sad,do sad,[],,[],,False,False,,1
-brah1256-1-1000-1,,brah1256-1,1000,ˀazaːr,ˀazaːr,[],,[],,False,False,,1
-brah1256-1-2000-1,,brah1256-1,2000,do ˀazaːr,do ˀazaːr,[],,[],,False,False,,1
+brah1256-1-1-1,,brah1256-1,1,asiʈː,asiʈː,[],,['chan2019'],,False,False,,1
+brah1256-1-2-1,,brah1256-1,2,iraʈː,iraʈː,[],,['chan2019'],,False,False,,1
+brah1256-1-2-2,,brah1256-1,2,iraː,iraː,[],,['chan2019'],,False,False,,1
+brah1256-1-3-1,,brah1256-1,3,musiʈː,musiʈː,[],,['chan2019'],,False,False,,1
+brah1256-1-4-1,,brah1256-1,4,t͡ʃaːr,t͡ʃaːr,[],,['chan2019'],,False,False,,1
+brah1256-1-5-1,,brah1256-1,5,pant͡ʃ,pant͡ʃ,[],,['chan2019'],,False,False,,1
+brah1256-1-6-1,,brah1256-1,6,ʃaʃ,ʃaʃ,[],,['chan2019'],,False,False,,1
+brah1256-1-7-1,,brah1256-1,7,ˀapt,ˀapt,[],,['chan2019'],,False,False,,1
+brah1256-1-7-2,,brah1256-1,7,ˀaft,ˀaft,[],,['chan2019'],,False,False,,1
+brah1256-1-8-1,,brah1256-1,8,ˀaʃt,ˀaʃt,[],,['chan2019'],,False,False,,1
+brah1256-1-9-1,,brah1256-1,9,noːˀ,noːˀ,[],,['chan2019'],,False,False,,1
+brah1256-1-10-1,,brah1256-1,10,daʔ,daʔ,[],,['chan2019'],,False,False,,1
+brah1256-1-11-1,,brah1256-1,11,jãːzda,jãːzda,[],,['chan2019'],,False,False,,1
+brah1256-1-12-1,,brah1256-1,12,dwãːzda,dwãːzda,[],,['chan2019'],,False,False,,1
+brah1256-1-13-1,,brah1256-1,13,sẽːzda,sẽːzda,[],,['chan2019'],,False,False,,1
+brah1256-1-14-1,,brah1256-1,14,t͡ʃãːrda,t͡ʃãːrda,[],,['chan2019'],,False,False,,1
+brah1256-1-15-1,,brah1256-1,15,pãːnzda,pãːnzda,[],,['chan2019'],,False,False,,1
+brah1256-1-16-1,,brah1256-1,16,ʃãːnzda,ʃãːnzda,[],,['chan2019'],,False,False,,1
+brah1256-1-17-1,,brah1256-1,17,ˀavda,ˀavda,[],,['chan2019'],,False,False,,1
+brah1256-1-18-1,,brah1256-1,18,ˀaʒda,ˀaʒda,[],,['chan2019'],,False,False,,1
+brah1256-1-19-1,,brah1256-1,19,noːzda,noːzda,[],,['chan2019'],,False,False,,1
+brah1256-1-20-1,,brah1256-1,20,biːst,biːst,[],,['chan2019'],,False,False,,1
+brah1256-1-21-1,,brah1256-1,21,biːst u jak,biːst u jak,[],,['chan2019'],,False,False,,1
+brah1256-1-22-1,,brah1256-1,22,biːst u do,biːst u do,[],,['chan2019'],,False,False,,1
+brah1256-1-23-1,,brah1256-1,23,biːst u saj,biːst u saj,[],,['chan2019'],,False,False,,1
+brah1256-1-24-1,,brah1256-1,24,biːst u t͡ʃaːr,biːst u t͡ʃaːr,[],,['chan2019'],,False,False,,1
+brah1256-1-25-1,,brah1256-1,25,biːst u pant͡ʃ,biːst u pant͡ʃ,[],,['chan2019'],,False,False,,1
+brah1256-1-26-1,,brah1256-1,26,biːst u ʃaʃ,biːst u ʃaʃ,[],,['chan2019'],,False,False,,1
+brah1256-1-27-1,,brah1256-1,27,biːst u apt,biːst u apt,[],,['chan2019'],,False,False,,1
+brah1256-1-28-1,,brah1256-1,28,biːst u aʃt,biːst u aʃt,[],,['chan2019'],,False,False,,1
+brah1256-1-29-1,,brah1256-1,29,biːst u no,biːst u no,[],,['chan2019'],,False,False,,1
+brah1256-1-30-1,,brah1256-1,30,siː,siː,[],,['chan2019'],,False,False,,1
+brah1256-1-40-1,,brah1256-1,40,t͡ʃil,t͡ʃil,[],,['chan2019'],,False,False,,1
+brah1256-1-50-1,,brah1256-1,50,pand͡ʒaː,pand͡ʒaː,[],,['chan2019'],,False,False,,1
+brah1256-1-60-1,,brah1256-1,60,ʃast,ʃast,[],,['chan2019'],,False,False,,1
+brah1256-1-60-2,,brah1256-1,60,musi biːst,musi biːst,[],(3 x 20),['chan2019'],,False,False,,1
+brah1256-1-70-1,,brah1256-1,70,ˀaptaːd,ˀaptaːd,[],,['chan2019'],,False,False,,1
+brah1256-1-70-2,,brah1256-1,70,must biːst u da,must biːst u da,[],( 3 x 20+ 10),['chan2019'],,False,False,,1
+brah1256-1-80-1,,brah1256-1,80,ˀaʃtaːd,ˀaʃtaːd,[],,['chan2019'],,False,False,,1
+brah1256-1-80-2,,brah1256-1,80,t͡ʃaːr biːst,t͡ʃaːr biːst,[],( 4 x 20 ),['chan2019'],,False,False,,1
+brah1256-1-90-1,,brah1256-1,90,navad,navad,[],,['chan2019'],,False,False,,1
+brah1256-1-90-2,,brah1256-1,90,t͡ʃaːr biːst u da,t͡ʃaːr biːst u da,[],,['chan2019'],,False,False,,1
+brah1256-1-100-1,,brah1256-1,100,sad,sad,[],,['chan2019'],,False,False,,1
+brah1256-1-200-1,,brah1256-1,200,do sad,do sad,[],,['chan2019'],,False,False,,1
+brah1256-1-1000-1,,brah1256-1,1000,ˀazaːr,ˀazaːr,[],,['chan2019'],,False,False,,1
+brah1256-1-2000-1,,brah1256-1,2000,do ˀazaːr,do ˀazaːr,[],,['chan2019'],,False,False,,1

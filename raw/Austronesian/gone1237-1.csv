@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gone1237-1-1-1,,gone1237-1,1,tila,tila,[],,[],,False,False,,1
-gone1237-1-2-1,,gone1237-1,2,rua,rua,[],,[],,False,False,,1
-gone1237-1-3-1,,gone1237-1,3,tolu,tolu,[],,[],,False,False,,1
-gone1237-1-4-1,,gone1237-1,4,βa:,βa:,[],,[],,False,False,,1
-gone1237-1-5-1,,gone1237-1,5,lima,lima,[],,[],,False,False,,1
-gone1237-1-6-1,,gone1237-1,6,ɔnɔ,ɔnɔ,[],,[],,False,False,,1
-gone1237-1-7-1,,gone1237-1,7,βitu,βitu,[],,[],,False,False,,1
-gone1237-1-8-1,,gone1237-1,8,walu,walu,[],,[],,False,False,,1
-gone1237-1-9-1,,gone1237-1,9,ðiwa,ðiwa,[],,[],,False,False,,1
-gone1237-1-10-1,,gone1237-1,10,tini,tini,[],,[],,False,False,,1
-gone1237-1-11-1,,gone1237-1,11,tini ka tila,tini ka tila,[],,[],,False,False,,1
-gone1237-1-12-1,,gone1237-1,12,tini ka rua,tini ka rua,[],,[],,False,False,,1
-gone1237-1-13-1,,gone1237-1,13,tini ka tolu,tini ka tolu,[],,[],,False,False,,1
-gone1237-1-14-1,,gone1237-1,14,tini ka βa:,tini ka βa:,[],,[],,False,False,,1
-gone1237-1-15-1,,gone1237-1,15,tini ka lima,tini ka lima,[],,[],,False,False,,1
-gone1237-1-16-1,,gone1237-1,16,tini ka ɔnɔ,tini ka ɔnɔ,[],,[],,False,False,,1
-gone1237-1-17-1,,gone1237-1,17,tini ka βitu,tini ka βitu,[],,[],,False,False,,1
-gone1237-1-18-1,,gone1237-1,18,tini ka walu,tini ka walu,[],,[],,False,False,,1
-gone1237-1-19-1,,gone1237-1,19,tini ka ðiwa,tini ka ðiwa,[],,[],,False,False,,1
-gone1237-1-20-1,,gone1237-1,20,rua-saŋaβulu,rua-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-21-1,,gone1237-1,21,rua-saŋaβulu ka tila,rua-saŋaβulu ka tila,[],,[],,False,False,,1
-gone1237-1-22-1,,gone1237-1,22,rua-saŋaβulu ka rua,rua-saŋaβulu ka rua,[],,[],,False,False,,1
-gone1237-1-23-1,,gone1237-1,23,rua-saŋaβulu ka tolu,rua-saŋaβulu ka tolu,[],,[],,False,False,,1
-gone1237-1-24-1,,gone1237-1,24,rua-saŋaβulu ka βa:,rua-saŋaβulu ka βa:,[],,[],,False,False,,1
-gone1237-1-25-1,,gone1237-1,25,rua-saŋaβulu ka lima,rua-saŋaβulu ka lima,[],,[],,False,False,,1
-gone1237-1-26-1,,gone1237-1,26,rua-saŋaβulu ka ɔnɔ,rua-saŋaβulu ka ɔnɔ,[],,[],,False,False,,1
-gone1237-1-27-1,,gone1237-1,27,rua-saŋaβulu ka βitu,rua-saŋaβulu ka βitu,[],,[],,False,False,,1
-gone1237-1-28-1,,gone1237-1,28,rua-saŋaβulu ka walu,rua-saŋaβulu ka walu,[],,[],,False,False,,1
-gone1237-1-29-1,,gone1237-1,29,rua-saŋaβulu ka ðiwa,rua-saŋaβulu ka ðiwa,[],,[],,False,False,,1
-gone1237-1-30-1,,gone1237-1,30,tolu-saŋaβulu,tolu-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-40-1,,gone1237-1,40,βaː-saŋaβulu,βaː-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-50-1,,gone1237-1,50,lima-saŋaβulu,lima-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-60-1,,gone1237-1,60,ɔnɔ-saŋaβulu,ɔnɔ-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-70-1,,gone1237-1,70,βitu-saŋaβulu,βitu-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-80-1,,gone1237-1,80,walu-saŋaβulu,walu-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-90-1,,gone1237-1,90,ðiwa-saŋaβulu,ðiwa-saŋaβulu,[],,[],,False,False,,1
-gone1237-1-100-1,,gone1237-1,100,ⁿdua na ᶯɖua,ⁿdua na ᶯɖua,[],,[],,False,False,,1
-gone1237-1-200-1,,gone1237-1,200,rua na ᶯɖua,rua na ᶯɖua,[],,[],,False,False,,1
-gone1237-1-1000-1,,gone1237-1,1000,ⁿdua na uⁿdɔlu,ⁿdua na uⁿdɔlu,[],,[],,False,False,,1
-gone1237-1-2000-1,,gone1237-1,2000,ruana uⁿdɔlu,ruana uⁿdɔlu,[],,[],,False,False,,1
+gone1237-1-1-1,,gone1237-1,1,tila,tila,[],,['chan2019'],,False,False,,1
+gone1237-1-2-1,,gone1237-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+gone1237-1-3-1,,gone1237-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+gone1237-1-4-1,,gone1237-1,4,βa:,βa:,[],,['chan2019'],,False,False,,1
+gone1237-1-5-1,,gone1237-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+gone1237-1-6-1,,gone1237-1,6,ɔnɔ,ɔnɔ,[],,['chan2019'],,False,False,,1
+gone1237-1-7-1,,gone1237-1,7,βitu,βitu,[],,['chan2019'],,False,False,,1
+gone1237-1-8-1,,gone1237-1,8,walu,walu,[],,['chan2019'],,False,False,,1
+gone1237-1-9-1,,gone1237-1,9,ðiwa,ðiwa,[],,['chan2019'],,False,False,,1
+gone1237-1-10-1,,gone1237-1,10,tini,tini,[],,['chan2019'],,False,False,,1
+gone1237-1-11-1,,gone1237-1,11,tini ka tila,tini ka tila,[],,['chan2019'],,False,False,,1
+gone1237-1-12-1,,gone1237-1,12,tini ka rua,tini ka rua,[],,['chan2019'],,False,False,,1
+gone1237-1-13-1,,gone1237-1,13,tini ka tolu,tini ka tolu,[],,['chan2019'],,False,False,,1
+gone1237-1-14-1,,gone1237-1,14,tini ka βa:,tini ka βa:,[],,['chan2019'],,False,False,,1
+gone1237-1-15-1,,gone1237-1,15,tini ka lima,tini ka lima,[],,['chan2019'],,False,False,,1
+gone1237-1-16-1,,gone1237-1,16,tini ka ɔnɔ,tini ka ɔnɔ,[],,['chan2019'],,False,False,,1
+gone1237-1-17-1,,gone1237-1,17,tini ka βitu,tini ka βitu,[],,['chan2019'],,False,False,,1
+gone1237-1-18-1,,gone1237-1,18,tini ka walu,tini ka walu,[],,['chan2019'],,False,False,,1
+gone1237-1-19-1,,gone1237-1,19,tini ka ðiwa,tini ka ðiwa,[],,['chan2019'],,False,False,,1
+gone1237-1-20-1,,gone1237-1,20,rua-saŋaβulu,rua-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-21-1,,gone1237-1,21,rua-saŋaβulu ka tila,rua-saŋaβulu ka tila,[],,['chan2019'],,False,False,,1
+gone1237-1-22-1,,gone1237-1,22,rua-saŋaβulu ka rua,rua-saŋaβulu ka rua,[],,['chan2019'],,False,False,,1
+gone1237-1-23-1,,gone1237-1,23,rua-saŋaβulu ka tolu,rua-saŋaβulu ka tolu,[],,['chan2019'],,False,False,,1
+gone1237-1-24-1,,gone1237-1,24,rua-saŋaβulu ka βa:,rua-saŋaβulu ka βa:,[],,['chan2019'],,False,False,,1
+gone1237-1-25-1,,gone1237-1,25,rua-saŋaβulu ka lima,rua-saŋaβulu ka lima,[],,['chan2019'],,False,False,,1
+gone1237-1-26-1,,gone1237-1,26,rua-saŋaβulu ka ɔnɔ,rua-saŋaβulu ka ɔnɔ,[],,['chan2019'],,False,False,,1
+gone1237-1-27-1,,gone1237-1,27,rua-saŋaβulu ka βitu,rua-saŋaβulu ka βitu,[],,['chan2019'],,False,False,,1
+gone1237-1-28-1,,gone1237-1,28,rua-saŋaβulu ka walu,rua-saŋaβulu ka walu,[],,['chan2019'],,False,False,,1
+gone1237-1-29-1,,gone1237-1,29,rua-saŋaβulu ka ðiwa,rua-saŋaβulu ka ðiwa,[],,['chan2019'],,False,False,,1
+gone1237-1-30-1,,gone1237-1,30,tolu-saŋaβulu,tolu-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-40-1,,gone1237-1,40,βaː-saŋaβulu,βaː-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-50-1,,gone1237-1,50,lima-saŋaβulu,lima-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-60-1,,gone1237-1,60,ɔnɔ-saŋaβulu,ɔnɔ-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-70-1,,gone1237-1,70,βitu-saŋaβulu,βitu-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-80-1,,gone1237-1,80,walu-saŋaβulu,walu-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-90-1,,gone1237-1,90,ðiwa-saŋaβulu,ðiwa-saŋaβulu,[],,['chan2019'],,False,False,,1
+gone1237-1-100-1,,gone1237-1,100,ⁿdua na ᶯɖua,ⁿdua na ᶯɖua,[],,['chan2019'],,False,False,,1
+gone1237-1-200-1,,gone1237-1,200,rua na ᶯɖua,rua na ᶯɖua,[],,['chan2019'],,False,False,,1
+gone1237-1-1000-1,,gone1237-1,1000,ⁿdua na uⁿdɔlu,ⁿdua na uⁿdɔlu,[],,['chan2019'],,False,False,,1
+gone1237-1-2000-1,,gone1237-1,2000,ruana uⁿdɔlu,ruana uⁿdɔlu,[],,['chan2019'],,False,False,,1

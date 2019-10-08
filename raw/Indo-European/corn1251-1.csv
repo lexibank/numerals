@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-corn1251-1-1-1,,corn1251-1,1,ˈɔˑnan,ˈɔˑnan,[],,[],,False,False,onan,1
-corn1251-1-1-2,,corn1251-1,1,ynː,ynː,[],(with noun),[],,False,False,unn,1
-corn1251-1-2-1,,corn1251-1,2,dɛʊ,dɛʊ,[],,[],,False,False,dew,1
-corn1251-1-2-2,,corn1251-1,2,dɪʊ,dɪʊ,[],(masc. / fem.),[],,False,False,diw,1
-corn1251-1-3-1,,corn1251-1,3,triː,triː,[],,[],,False,False,tri,1
-corn1251-1-3-2,,corn1251-1,3,teɪr,teɪr,[],(masc. /fem.),[],,False,False,teyr,1
-corn1251-1-4-1,,corn1251-1,4,ˈpɛzwar,ˈpɛzwar,[],,[],,False,False,peswar,1
-corn1251-1-4-2,,corn1251-1,4,ˈpeˑdɛr,ˈpeˑdɛr,[],,[],,False,False,peder,1
-corn1251-1-5-1,,corn1251-1,5,pɪmp,pɪmp,[],,[],,False,False,pymp,1
-corn1251-1-6-1,,corn1251-1,6,hwɛːx,hwɛːx,[],,[],,False,False,hwegh,1
-corn1251-1-7-1,,corn1251-1,7,seɪθ,seɪθ,[],,[],,False,False,seyth,1
-corn1251-1-8-1,,corn1251-1,8,ɛːθ,ɛːθ,[],,[],,False,False,eth,1
-corn1251-1-9-1,,corn1251-1,9,naʊ,naʊ,[],,[],,False,False,naw,1
-corn1251-1-10-1,,corn1251-1,10,dɛːg,dɛːg,[],,[],,False,False,deg,1
-corn1251-1-11-1,,corn1251-1,11,ˈynːɛk,ˈynːɛk,[],,[],,False,False,unnek,1
-corn1251-1-12-1,,corn1251-1,12,ˈdɛʊðɛk,ˈdɛʊðɛk,[],,[],,False,False,dewdhek,1
-corn1251-1-13-1,,corn1251-1,13,ˈtrɪðɛk,ˈtrɪðɛk,[],,[],,False,False,trydhek,1
-corn1251-1-14-1,,corn1251-1,14,pɛzˈwarðɛk,pɛzˈwarðɛk,[],,[],,False,False,peswardhek,1
-corn1251-1-15-1,,corn1251-1,15,ˈpɪmðɛk,ˈpɪmðɛk,[],,[],,False,False,pymthek,1
-corn1251-1-16-1,,corn1251-1,16,ˈhwɛˑtɛk,ˈhwɛˑtɛk,[],,[],,False,False,hwetek,1
-corn1251-1-17-1,,corn1251-1,17,ˈseitetɛk,ˈseitetɛk,[],,[],,False,False,seytek,1
-corn1251-1-18-1,,corn1251-1,18,ˈɛˑtɛk,ˈɛˑtɛk,[],,[],,False,False,etek,1
-corn1251-1-19-1,,corn1251-1,19,ˈnɔʊtɛk,ˈnɔʊtɛk,[],,[],,False,False,nownsek,1
-corn1251-1-20-1,,corn1251-1,20,ˈyˑgɛns,ˈyˑgɛns,[],,[],,False,False,ugens,1
-corn1251-1-21-1,,corn1251-1,21,ˈɔˑnan warn ˈyˑgɛns,ˈɔˑnan warn ˈyˑgɛns,[],,[],,False,False,onan warn ugens,1
-corn1251-1-22-1,,corn1251-1,22,ˈdɛʊ warn ˈyˑgɛns,ˈdɛʊ warn ˈyˑgɛns,[],,[],,False,False,dew warn ugens,1
-corn1251-1-23-1,,corn1251-1,23,ˈtriːwarn ˈyˑgɛns,ˈtriːwarn ˈyˑgɛns,[],,[],,False,False,tri warn ugens,1
-corn1251-1-24-1,,corn1251-1,24,ˈpɛzwar warn ˈyˑgɛns,ˈpɛzwar warn ˈyˑgɛns,[],,[],,False,False,peswar warn ugens,1
-corn1251-1-25-1,,corn1251-1,25,ˈpɪmp warn ˈyˑgɛns,ˈpɪmp warn ˈyˑgɛns,[],,[],,False,False,pymp warn ugens,1
-corn1251-1-26-1,,corn1251-1,26,ˈhwɛːx warn ˈyˑgɛns,ˈhwɛːx warn ˈyˑgɛns,[],,[],,False,False,hwegh warn ugens,1
-corn1251-1-27-1,,corn1251-1,27,ˈsaɪθ warn ˈyˑgɛns,ˈsaɪθ warn ˈyˑgɛns,[],,[],,False,False,seyth warn ugens,1
-corn1251-1-28-1,,corn1251-1,28,ˈʊɪθ warn ˈyˑgɛns,ˈʊɪθ warn ˈyˑgɛns,[],,[],,False,False,eth warn ugens,1
-corn1251-1-29-1,,corn1251-1,29,ˈnɑʊ warn ˈyˑgɛns,ˈnɑʊ warn ˈyˑgɛns,[],,[],,False,False,naw warn ugens,1
-corn1251-1-30-1,,corn1251-1,30,ˈdeg warn ˈyˑgɛns,ˈdeg warn ˈyˑgɛns,[],,[],,False,False,deg warn ugens,1
-corn1251-1-40-1,,corn1251-1,40,ˈdəʊˈyˑgɛns,ˈdəʊˈyˑgɛns,[],( 2 x 20 ),[],,False,False,dewugens,1
-corn1251-1-50-1,,corn1251-1,50,ˈdɛg ha dəʊˈyˑgɛns,ˈdɛg ha dəʊˈyˑgɛns,[],,[],,False,False,deg ha dewugens,1
-corn1251-1-60-1,,corn1251-1,60,ˈtriːˈyˑgɛns,ˈtriːˈyˑgɛns,[],( 3 x 20 ),[],,False,False,triugens,1
-corn1251-1-70-1,,corn1251-1,70,ˈdɛg ha triːˈyˑgɛns,ˈdɛg ha triːˈyˑgɛns,[],,[],,False,False,deg ha triugens,1
-corn1251-1-80-1,,corn1251-1,80,ˈpɛzwar ˈyˑgɛns,ˈpɛzwar ˈyˑgɛns,[],,[],,False,False,peswar ugens,1
-corn1251-1-90-1,,corn1251-1,90,ˈdɛg ha pɛzwar ˈyˑgɛns,ˈdɛg ha pɛzwar ˈyˑgɛns,[],,[],,False,False,deg ha pedwar ugens,1
-corn1251-1-100-1,,corn1251-1,100,kans,kans,[],,[],,False,False,kans,1
-corn1251-1-200-1,,corn1251-1,200,ˈdeʊˈkans,ˈdeʊˈkans,[],,[],,False,False,dewkans,1
-corn1251-1-1000-1,,corn1251-1,1000,ˈmilː,ˈmilː,[],,[],,False,False,mil,1
-corn1251-1-2000-1,,corn1251-1,2000,ˈdiʊvil,ˈdiʊvil,[],,[],,False,False,diwvil,1
+corn1251-1-1-1,,corn1251-1,1,ˈɔˑnan,ˈɔˑnan,[],,['chan2019'],,False,False,onan,1
+corn1251-1-1-2,,corn1251-1,1,ynː,ynː,[],(with noun),['chan2019'],,False,False,unn,1
+corn1251-1-2-1,,corn1251-1,2,dɛʊ,dɛʊ,[],,['chan2019'],,False,False,dew,1
+corn1251-1-2-2,,corn1251-1,2,dɪʊ,dɪʊ,[],(masc. / fem.),['chan2019'],,False,False,diw,1
+corn1251-1-3-1,,corn1251-1,3,triː,triː,[],,['chan2019'],,False,False,tri,1
+corn1251-1-3-2,,corn1251-1,3,teɪr,teɪr,[],(masc. /fem.),['chan2019'],,False,False,teyr,1
+corn1251-1-4-1,,corn1251-1,4,ˈpɛzwar,ˈpɛzwar,[],,['chan2019'],,False,False,peswar,1
+corn1251-1-4-2,,corn1251-1,4,ˈpeˑdɛr,ˈpeˑdɛr,[],,['chan2019'],,False,False,peder,1
+corn1251-1-5-1,,corn1251-1,5,pɪmp,pɪmp,[],,['chan2019'],,False,False,pymp,1
+corn1251-1-6-1,,corn1251-1,6,hwɛːx,hwɛːx,[],,['chan2019'],,False,False,hwegh,1
+corn1251-1-7-1,,corn1251-1,7,seɪθ,seɪθ,[],,['chan2019'],,False,False,seyth,1
+corn1251-1-8-1,,corn1251-1,8,ɛːθ,ɛːθ,[],,['chan2019'],,False,False,eth,1
+corn1251-1-9-1,,corn1251-1,9,naʊ,naʊ,[],,['chan2019'],,False,False,naw,1
+corn1251-1-10-1,,corn1251-1,10,dɛːg,dɛːg,[],,['chan2019'],,False,False,deg,1
+corn1251-1-11-1,,corn1251-1,11,ˈynːɛk,ˈynːɛk,[],,['chan2019'],,False,False,unnek,1
+corn1251-1-12-1,,corn1251-1,12,ˈdɛʊðɛk,ˈdɛʊðɛk,[],,['chan2019'],,False,False,dewdhek,1
+corn1251-1-13-1,,corn1251-1,13,ˈtrɪðɛk,ˈtrɪðɛk,[],,['chan2019'],,False,False,trydhek,1
+corn1251-1-14-1,,corn1251-1,14,pɛzˈwarðɛk,pɛzˈwarðɛk,[],,['chan2019'],,False,False,peswardhek,1
+corn1251-1-15-1,,corn1251-1,15,ˈpɪmðɛk,ˈpɪmðɛk,[],,['chan2019'],,False,False,pymthek,1
+corn1251-1-16-1,,corn1251-1,16,ˈhwɛˑtɛk,ˈhwɛˑtɛk,[],,['chan2019'],,False,False,hwetek,1
+corn1251-1-17-1,,corn1251-1,17,ˈseitetɛk,ˈseitetɛk,[],,['chan2019'],,False,False,seytek,1
+corn1251-1-18-1,,corn1251-1,18,ˈɛˑtɛk,ˈɛˑtɛk,[],,['chan2019'],,False,False,etek,1
+corn1251-1-19-1,,corn1251-1,19,ˈnɔʊtɛk,ˈnɔʊtɛk,[],,['chan2019'],,False,False,nownsek,1
+corn1251-1-20-1,,corn1251-1,20,ˈyˑgɛns,ˈyˑgɛns,[],,['chan2019'],,False,False,ugens,1
+corn1251-1-21-1,,corn1251-1,21,ˈɔˑnan warn ˈyˑgɛns,ˈɔˑnan warn ˈyˑgɛns,[],,['chan2019'],,False,False,onan warn ugens,1
+corn1251-1-22-1,,corn1251-1,22,ˈdɛʊ warn ˈyˑgɛns,ˈdɛʊ warn ˈyˑgɛns,[],,['chan2019'],,False,False,dew warn ugens,1
+corn1251-1-23-1,,corn1251-1,23,ˈtriːwarn ˈyˑgɛns,ˈtriːwarn ˈyˑgɛns,[],,['chan2019'],,False,False,tri warn ugens,1
+corn1251-1-24-1,,corn1251-1,24,ˈpɛzwar warn ˈyˑgɛns,ˈpɛzwar warn ˈyˑgɛns,[],,['chan2019'],,False,False,peswar warn ugens,1
+corn1251-1-25-1,,corn1251-1,25,ˈpɪmp warn ˈyˑgɛns,ˈpɪmp warn ˈyˑgɛns,[],,['chan2019'],,False,False,pymp warn ugens,1
+corn1251-1-26-1,,corn1251-1,26,ˈhwɛːx warn ˈyˑgɛns,ˈhwɛːx warn ˈyˑgɛns,[],,['chan2019'],,False,False,hwegh warn ugens,1
+corn1251-1-27-1,,corn1251-1,27,ˈsaɪθ warn ˈyˑgɛns,ˈsaɪθ warn ˈyˑgɛns,[],,['chan2019'],,False,False,seyth warn ugens,1
+corn1251-1-28-1,,corn1251-1,28,ˈʊɪθ warn ˈyˑgɛns,ˈʊɪθ warn ˈyˑgɛns,[],,['chan2019'],,False,False,eth warn ugens,1
+corn1251-1-29-1,,corn1251-1,29,ˈnɑʊ warn ˈyˑgɛns,ˈnɑʊ warn ˈyˑgɛns,[],,['chan2019'],,False,False,naw warn ugens,1
+corn1251-1-30-1,,corn1251-1,30,ˈdeg warn ˈyˑgɛns,ˈdeg warn ˈyˑgɛns,[],,['chan2019'],,False,False,deg warn ugens,1
+corn1251-1-40-1,,corn1251-1,40,ˈdəʊˈyˑgɛns,ˈdəʊˈyˑgɛns,[],( 2 x 20 ),['chan2019'],,False,False,dewugens,1
+corn1251-1-50-1,,corn1251-1,50,ˈdɛg ha dəʊˈyˑgɛns,ˈdɛg ha dəʊˈyˑgɛns,[],,['chan2019'],,False,False,deg ha dewugens,1
+corn1251-1-60-1,,corn1251-1,60,ˈtriːˈyˑgɛns,ˈtriːˈyˑgɛns,[],( 3 x 20 ),['chan2019'],,False,False,triugens,1
+corn1251-1-70-1,,corn1251-1,70,ˈdɛg ha triːˈyˑgɛns,ˈdɛg ha triːˈyˑgɛns,[],,['chan2019'],,False,False,deg ha triugens,1
+corn1251-1-80-1,,corn1251-1,80,ˈpɛzwar ˈyˑgɛns,ˈpɛzwar ˈyˑgɛns,[],,['chan2019'],,False,False,peswar ugens,1
+corn1251-1-90-1,,corn1251-1,90,ˈdɛg ha pɛzwar ˈyˑgɛns,ˈdɛg ha pɛzwar ˈyˑgɛns,[],,['chan2019'],,False,False,deg ha pedwar ugens,1
+corn1251-1-100-1,,corn1251-1,100,kans,kans,[],,['chan2019'],,False,False,kans,1
+corn1251-1-200-1,,corn1251-1,200,ˈdeʊˈkans,ˈdeʊˈkans,[],,['chan2019'],,False,False,dewkans,1
+corn1251-1-1000-1,,corn1251-1,1000,ˈmilː,ˈmilː,[],,['chan2019'],,False,False,mil,1
+corn1251-1-2000-1,,corn1251-1,2000,ˈdiʊvil,ˈdiʊvil,[],,['chan2019'],,False,False,diwvil,1

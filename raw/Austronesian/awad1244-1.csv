@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-awad1244-1-1-1,,awad1244-1,1,tesaɡ,tesaɡ,[],,[],,False,False,,1
-awad1244-1-2-1,,awad1244-1,2,ruw,ruw,[],,[],,False,False,,1
-awad1244-1-3-1,,awad1244-1,3,tohol,tohol,[],,[],,False,False,,1
-awad1244-1-4-1,,awad1244-1,4,paiy,paiy,[],,[],,False,False,,1
-awad1244-1-5-1,,awad1244-1,5,dimad tesaɡ,dimad tesaɡ,[],( lit: 'hand one' ),[],,False,False,,1
-awad1244-1-6-1,,awad1244-1,6,dimadtesaɡ didilytesaɡ,dimadtesaɡ didilytesaɡ,[],,[],,False,False,,1
-awad1244-1-7-1,,awad1244-1,7,dimad tesaɡ didily ruw,dimad tesaɡ didily ruw,[],,[],,False,False,,1
-awad1244-1-8-1,,awad1244-1,8,dimad tesaɡ didily tohol,dimad tesaɡ didily tohol,[],,[],,False,False,,1
-awad1244-1-9-1,,awad1244-1,9,dimad tesaɡ didily paiy,dimad tesaɡ didily paiy,[],,[],,False,False,,1
-awad1244-1-10-1,,awad1244-1,10,dimad ruw,dimad ruw,[],( lit: 'hand two' ),[],,False,False,,1
-awad1244-1-11-1,,awad1244-1,11,dimad ruw yeed didily tesaɡ,dimad ruw yeed didily tesaɡ,[],,[],,False,False,,1
-awad1244-1-12-1,,awad1244-1,12,dimad ruw yeed didily ruw,dimad ruw yeed didily ruw,[],,[],,False,False,,1
-awad1244-1-13-1,,awad1244-1,13,dimad ruw yeed didily tohol,dimad ruw yeed didily tohol,[],,[],,False,False,,1
-awad1244-1-14-1,,awad1244-1,14,dimad ruw yeed didily paiy,dimad ruw yeed didily paiy,[],,[],,False,False,,1
-awad1244-1-15-1,,awad1244-1,15,dimad ruw yeed tesaɡ,dimad ruw yeed tesaɡ,[],"(lit: 'hand one, and foot one')",[],,False,False,,1
-awad1244-1-16-1,,awad1244-1,16,dimad ruw yeed tesaɡ didily tesaɡ,dimad ruw yeed tesaɡ didily tesaɡ,[],,[],,False,False,,1
-awad1244-1-17-1,,awad1244-1,17,dimad ruw yeed tesaɡ didily ruw,dimad ruw yeed tesaɡ didily ruw,[],,[],,False,False,,1
-awad1244-1-18-1,,awad1244-1,18,dimad ruw yeed tesaɡ didily tohol,dimad ruw yeed tesaɡ didily tohol,[],,[],,False,False,,1
-awad1244-1-19-1,,awad1244-1,19,dimad ruw yeed tesaɡ didily paiy,dimad ruw yeed tesaɡ didily paiy,[],,[],,False,False,,1
-awad1244-1-20-1,,awad1244-1,20,dimad ruw yeed ruw,dimad ruw yeed ruw,[],"(lit: 'hand two, foot two')",[],,False,False,,1
+awad1244-1-1-1,,awad1244-1,1,tesaɡ,tesaɡ,[],,['chan2019'],,False,False,,1
+awad1244-1-2-1,,awad1244-1,2,ruw,ruw,[],,['chan2019'],,False,False,,1
+awad1244-1-3-1,,awad1244-1,3,tohol,tohol,[],,['chan2019'],,False,False,,1
+awad1244-1-4-1,,awad1244-1,4,paiy,paiy,[],,['chan2019'],,False,False,,1
+awad1244-1-5-1,,awad1244-1,5,dimad tesaɡ,dimad tesaɡ,[],( lit: 'hand one' ),['chan2019'],,False,False,,1
+awad1244-1-6-1,,awad1244-1,6,dimadtesaɡ didilytesaɡ,dimadtesaɡ didilytesaɡ,[],,['chan2019'],,False,False,,1
+awad1244-1-7-1,,awad1244-1,7,dimad tesaɡ didily ruw,dimad tesaɡ didily ruw,[],,['chan2019'],,False,False,,1
+awad1244-1-8-1,,awad1244-1,8,dimad tesaɡ didily tohol,dimad tesaɡ didily tohol,[],,['chan2019'],,False,False,,1
+awad1244-1-9-1,,awad1244-1,9,dimad tesaɡ didily paiy,dimad tesaɡ didily paiy,[],,['chan2019'],,False,False,,1
+awad1244-1-10-1,,awad1244-1,10,dimad ruw,dimad ruw,[],( lit: 'hand two' ),['chan2019'],,False,False,,1
+awad1244-1-11-1,,awad1244-1,11,dimad ruw yeed didily tesaɡ,dimad ruw yeed didily tesaɡ,[],,['chan2019'],,False,False,,1
+awad1244-1-12-1,,awad1244-1,12,dimad ruw yeed didily ruw,dimad ruw yeed didily ruw,[],,['chan2019'],,False,False,,1
+awad1244-1-13-1,,awad1244-1,13,dimad ruw yeed didily tohol,dimad ruw yeed didily tohol,[],,['chan2019'],,False,False,,1
+awad1244-1-14-1,,awad1244-1,14,dimad ruw yeed didily paiy,dimad ruw yeed didily paiy,[],,['chan2019'],,False,False,,1
+awad1244-1-15-1,,awad1244-1,15,dimad ruw yeed tesaɡ,dimad ruw yeed tesaɡ,[],"(lit: 'hand one, and foot one')",['chan2019'],,False,False,,1
+awad1244-1-16-1,,awad1244-1,16,dimad ruw yeed tesaɡ didily tesaɡ,dimad ruw yeed tesaɡ didily tesaɡ,[],,['chan2019'],,False,False,,1
+awad1244-1-17-1,,awad1244-1,17,dimad ruw yeed tesaɡ didily ruw,dimad ruw yeed tesaɡ didily ruw,[],,['chan2019'],,False,False,,1
+awad1244-1-18-1,,awad1244-1,18,dimad ruw yeed tesaɡ didily tohol,dimad ruw yeed tesaɡ didily tohol,[],,['chan2019'],,False,False,,1
+awad1244-1-19-1,,awad1244-1,19,dimad ruw yeed tesaɡ didily paiy,dimad ruw yeed tesaɡ didily paiy,[],,['chan2019'],,False,False,,1
+awad1244-1-20-1,,awad1244-1,20,dimad ruw yeed ruw,dimad ruw yeed ruw,[],"(lit: 'hand two, foot two')",['chan2019'],,False,False,,1

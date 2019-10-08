@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nyam1271-1-1-1,,nyam1271-1,1,yikamarta,yikamarta,[],,[],,False,False,,1
-nyam1271-1-2-1,,nyam1271-1,2,kujarra,kujarra,[],,[],,False,False,,1
-nyam1271-1-3-1,,nyam1271-1,3,purrku,purrku,[],,[],,False,False,,1
+nyam1271-1-1-1,,nyam1271-1,1,yikamarta,yikamarta,[],,['chan2019'],,False,False,,1
+nyam1271-1-2-1,,nyam1271-1,2,kujarra,kujarra,[],,['chan2019'],,False,False,,1
+nyam1271-1-3-1,,nyam1271-1,3,purrku,purrku,[],,['chan2019'],,False,False,,1

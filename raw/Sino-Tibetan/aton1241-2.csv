@@ -1,60 +1,60 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-aton1241-2-1-1,,aton1241-2,1,roŋ sa,roŋ sa,[],,[],,False,False,,2
-aton1241-2-2-1,,aton1241-2,2,roŋ ni,roŋ ni,[],,[],,False,False,,2
-aton1241-2-3-1,,aton1241-2,3,roŋ tʰam,roŋ tʰam,[],,[],,False,False,,2
-aton1241-2-4-1,,aton1241-2,4,bərəy,bərəy,[],( y = IPA [j]),[],,False,False,,2
-aton1241-2-5-1,,aton1241-2,5,baŋa,baŋa,[],,[],,False,False,,2
-aton1241-2-6-1,,aton1241-2,6,korok,korok,[],,[],,False,False,,2
-aton1241-2-7-1,,aton1241-2,7,sene,sene,[],,[],,False,False,,2
-aton1241-2-8-1,,aton1241-2,8,catɡək,catɡək,[],( c = IPA [tɕ]),[],,False,False,,2
-aton1241-2-9-1,,aton1241-2,9,cəkʰəw,cəkʰəw,[],,[],,False,False,,2
-aton1241-2-10-1,,aton1241-2,10,cəyɡək,cəyɡək,[],,[],,False,False,,2
-aton1241-2-11-1,,aton1241-2,11,cit sa,cit sa,[],,[],,False,False,,2
-aton1241-2-12-1,,aton1241-2,12,ci ni,ci ni,[],,[],,False,False,,2
-aton1241-2-13-1,,aton1241-2,13,ci tʰam,ci tʰam,[],,[],,False,False,,2
-aton1241-2-14-1,,aton1241-2,14,ci bəri,ci bəri,[],,[],,False,False,,2
-aton1241-2-15-1,,aton1241-2,15,ci raŋa,ci raŋa,[],,[],,False,False,,2
-aton1241-2-15-2,,aton1241-2,15,ci baŋa,ci baŋa,[],(calque on Garo),[],,False,False,,2
-aton1241-2-16-1,,aton1241-2,16,ci dok,ci dok,[],,[],,False,False,,2
-aton1241-2-17-1,,aton1241-2,17,ci sene,ci sene,[],,[],,False,False,,2
-aton1241-2-17-2,,aton1241-2,17,ci səni,ci səni,[],,[],,False,False,,2
-aton1241-2-18-1,,aton1241-2,18,ci tsat,ci tsat,[],,[],,False,False,,2
-aton1241-2-19-1,,aton1241-2,19,ci səkʰu,ci səkʰu,[],,[],,False,False,,2
-aton1241-2-20-1,,aton1241-2,20,kʰolɡək,kʰolɡək,[],,[],,False,False,,2
-aton1241-2-20-2,,aton1241-2,20,kʰolɡrək,kʰolɡrək,[],,[],,False,False,,2
-aton1241-2-20-3,,aton1241-2,20,kʰol,kʰol,[],< Garo  Note: Only the form kholgryk (with the      /r/) is a loan from Garo. The other      two forms are not loans from Garo. ,[],,True,False,,2
-aton1241-2-21-1,,aton1241-2,21,kʰole roŋ sa,kʰole roŋ sa,[],,[],,False,False,,2
-aton1241-2-21-2,,aton1241-2,21,kʰolɡrək sa,kʰolɡrək sa,[],,[],,False,False,,2
-aton1241-2-22-1,,aton1241-2,22,kʰole roŋ tʰam,kʰole roŋ tʰam,[],,[],,False,False,,2
-aton1241-2-22-2,,aton1241-2,22,kʰolɡrək tʰam,kʰolɡrək tʰam,[],,[],,False,False,,2
-aton1241-2-24-1,,aton1241-2,24,kʰole bərəy,kʰole bərəy,[],,[],,False,False,,2
-aton1241-2-24-2,,aton1241-2,24,kʰole roŋ bəri,kʰole roŋ bəri,[],,[],,False,False,,2
-aton1241-2-25-1,,aton1241-2,25,kʰole baŋa,kʰole baŋa,[],,[],,False,False,,2
-aton1241-2-25-2,,aton1241-2,25,kʰole roŋ baŋa,kʰole roŋ baŋa,[],,[],,False,False,,2
-aton1241-2-26-1,,aton1241-2,26,kʰole korok,kʰole korok,[],,[],,False,False,,2
-aton1241-2-26-2,,aton1241-2,26,kʰole roŋ korok,kʰole roŋ korok,[],,[],,False,False,,2
-aton1241-2-27-1,,aton1241-2,27,kʰole sene,kʰole sene,[],,[],,False,False,,2
-aton1241-2-27-2,,aton1241-2,27,kʰole roŋ sene,kʰole roŋ sene,[],,[],,False,False,,2
-aton1241-2-28-1,,aton1241-2,28,kʰole catɡək,kʰole catɡək,[],,[],,False,False,,2
-aton1241-2-28-2,,aton1241-2,28,kʰole roŋ catɡək,kʰole roŋ catɡək,[],,[],,False,False,,2
-aton1241-2-29-1,,aton1241-2,29,kʰole cəkʰəw,kʰole cəkʰəw,[],,[],,False,False,,2
-aton1241-2-29-2,,aton1241-2,29,kʰole roŋ cəkʰəw,kʰole roŋ cəkʰəw,[],,[],,False,False,,2
-aton1241-2-30-1,,aton1241-2,30,kʰole cəy,kʰole cəy,[],,[],,False,False,,2
-aton1241-2-40-1,,aton1241-2,40,rumʔ ni,rumʔ ni,[],( 20 x 2 ),[],,False,False,,2
-aton1241-2-40-2,,aton1241-2,40,sot bəri,sot bəri,[],,[],,False,False,,2
-aton1241-2-50-1,,aton1241-2,50,rumʔ ni cəyɡək,rumʔ ni cəyɡək,[],,[],,False,False,,2
-aton1241-2-50-2,,aton1241-2,50,sot boŋa,sot boŋa,[],,[],,False,False,,2
-aton1241-2-60-1,,aton1241-2,60,rumʔ tʰam,rumʔ tʰam,[],( 20 x 3),[],,False,False,,2
-aton1241-2-60-2,,aton1241-2,60,sotok,sotok,[],,[],,False,False,,2
-aton1241-2-60-3,,aton1241-2,60,sotdok,sotdok,[],,[],,False,False,,2
-aton1241-2-70-1,,aton1241-2,70,rumʔ tʰam cəyɡək,rumʔ tʰam cəyɡək,[],,[],,False,False,,2
-aton1241-2-70-2,,aton1241-2,70,sot sene,sot sene,[],,[],,False,False,,2
-aton1241-2-70-3,,aton1241-2,70,səni,səni,[],,[],,False,False,,2
-aton1241-2-80-1,,aton1241-2,80,rumʔ (kʰolcaŋ) bərəy,rumʔ (kʰolcaŋ) bərəy,[],( 20 x 4),[],,False,False,,2
-aton1241-2-80-2,,aton1241-2,80,sot cet,sot cet,[],,[],,False,False,,2
-aton1241-2-90-1,,aton1241-2,90,rumʔ (kʰolcaŋ) bərəy cəyɡək,rumʔ (kʰolcaŋ) bərəy cəyɡək,[],,[],,False,False,,2
-aton1241-2-100-1,,aton1241-2,100,raja sa,raja sa,[],( j = IPA [ dʑ]),[],,False,False,,2
-aton1241-2-200-1,,aton1241-2,200,raja ni,raja ni,[],,[],,False,False,,2
-aton1241-2-1000-1,,aton1241-2,1000,hajal,hajal,[],,[],,False,False,,2
-aton1241-2-1000-2,,aton1241-2,1000,hajar sa,hajar sa,[],( hajal from Indic ),[],,False,False,,2
-aton1241-2-2000-1,,aton1241-2,2000,hajal ni,hajal ni,[],,[],,False,False,,2
+aton1241-2-1-1,,aton1241-2,1,roŋ sa,roŋ sa,[],,['chan2019'],,False,False,,2
+aton1241-2-2-1,,aton1241-2,2,roŋ ni,roŋ ni,[],,['chan2019'],,False,False,,2
+aton1241-2-3-1,,aton1241-2,3,roŋ tʰam,roŋ tʰam,[],,['chan2019'],,False,False,,2
+aton1241-2-4-1,,aton1241-2,4,bərəy,bərəy,[],( y = IPA [j]),['chan2019'],,False,False,,2
+aton1241-2-5-1,,aton1241-2,5,baŋa,baŋa,[],,['chan2019'],,False,False,,2
+aton1241-2-6-1,,aton1241-2,6,korok,korok,[],,['chan2019'],,False,False,,2
+aton1241-2-7-1,,aton1241-2,7,sene,sene,[],,['chan2019'],,False,False,,2
+aton1241-2-8-1,,aton1241-2,8,catɡək,catɡək,[],( c = IPA [tɕ]),['chan2019'],,False,False,,2
+aton1241-2-9-1,,aton1241-2,9,cəkʰəw,cəkʰəw,[],,['chan2019'],,False,False,,2
+aton1241-2-10-1,,aton1241-2,10,cəyɡək,cəyɡək,[],,['chan2019'],,False,False,,2
+aton1241-2-11-1,,aton1241-2,11,cit sa,cit sa,[],,['chan2019'],,False,False,,2
+aton1241-2-12-1,,aton1241-2,12,ci ni,ci ni,[],,['chan2019'],,False,False,,2
+aton1241-2-13-1,,aton1241-2,13,ci tʰam,ci tʰam,[],,['chan2019'],,False,False,,2
+aton1241-2-14-1,,aton1241-2,14,ci bəri,ci bəri,[],,['chan2019'],,False,False,,2
+aton1241-2-15-1,,aton1241-2,15,ci raŋa,ci raŋa,[],,['chan2019'],,False,False,,2
+aton1241-2-15-2,,aton1241-2,15,ci baŋa,ci baŋa,[],(calque on Garo),['chan2019'],,False,False,,2
+aton1241-2-16-1,,aton1241-2,16,ci dok,ci dok,[],,['chan2019'],,False,False,,2
+aton1241-2-17-1,,aton1241-2,17,ci sene,ci sene,[],,['chan2019'],,False,False,,2
+aton1241-2-17-2,,aton1241-2,17,ci səni,ci səni,[],,['chan2019'],,False,False,,2
+aton1241-2-18-1,,aton1241-2,18,ci tsat,ci tsat,[],,['chan2019'],,False,False,,2
+aton1241-2-19-1,,aton1241-2,19,ci səkʰu,ci səkʰu,[],,['chan2019'],,False,False,,2
+aton1241-2-20-1,,aton1241-2,20,kʰolɡək,kʰolɡək,[],,['chan2019'],,False,False,,2
+aton1241-2-20-2,,aton1241-2,20,kʰolɡrək,kʰolɡrək,[],,['chan2019'],,False,False,,2
+aton1241-2-20-3,,aton1241-2,20,kʰol,kʰol,[],< Garo  Note: Only the form kholgryk (with the      /r/) is a loan from Garo. The other      two forms are not loans from Garo. ,['chan2019'],,True,False,,2
+aton1241-2-21-1,,aton1241-2,21,kʰole roŋ sa,kʰole roŋ sa,[],,['chan2019'],,False,False,,2
+aton1241-2-21-2,,aton1241-2,21,kʰolɡrək sa,kʰolɡrək sa,[],,['chan2019'],,False,False,,2
+aton1241-2-22-1,,aton1241-2,22,kʰole roŋ tʰam,kʰole roŋ tʰam,[],,['chan2019'],,False,False,,2
+aton1241-2-22-2,,aton1241-2,22,kʰolɡrək tʰam,kʰolɡrək tʰam,[],,['chan2019'],,False,False,,2
+aton1241-2-24-1,,aton1241-2,24,kʰole bərəy,kʰole bərəy,[],,['chan2019'],,False,False,,2
+aton1241-2-24-2,,aton1241-2,24,kʰole roŋ bəri,kʰole roŋ bəri,[],,['chan2019'],,False,False,,2
+aton1241-2-25-1,,aton1241-2,25,kʰole baŋa,kʰole baŋa,[],,['chan2019'],,False,False,,2
+aton1241-2-25-2,,aton1241-2,25,kʰole roŋ baŋa,kʰole roŋ baŋa,[],,['chan2019'],,False,False,,2
+aton1241-2-26-1,,aton1241-2,26,kʰole korok,kʰole korok,[],,['chan2019'],,False,False,,2
+aton1241-2-26-2,,aton1241-2,26,kʰole roŋ korok,kʰole roŋ korok,[],,['chan2019'],,False,False,,2
+aton1241-2-27-1,,aton1241-2,27,kʰole sene,kʰole sene,[],,['chan2019'],,False,False,,2
+aton1241-2-27-2,,aton1241-2,27,kʰole roŋ sene,kʰole roŋ sene,[],,['chan2019'],,False,False,,2
+aton1241-2-28-1,,aton1241-2,28,kʰole catɡək,kʰole catɡək,[],,['chan2019'],,False,False,,2
+aton1241-2-28-2,,aton1241-2,28,kʰole roŋ catɡək,kʰole roŋ catɡək,[],,['chan2019'],,False,False,,2
+aton1241-2-29-1,,aton1241-2,29,kʰole cəkʰəw,kʰole cəkʰəw,[],,['chan2019'],,False,False,,2
+aton1241-2-29-2,,aton1241-2,29,kʰole roŋ cəkʰəw,kʰole roŋ cəkʰəw,[],,['chan2019'],,False,False,,2
+aton1241-2-30-1,,aton1241-2,30,kʰole cəy,kʰole cəy,[],,['chan2019'],,False,False,,2
+aton1241-2-40-1,,aton1241-2,40,rumʔ ni,rumʔ ni,[],( 20 x 2 ),['chan2019'],,False,False,,2
+aton1241-2-40-2,,aton1241-2,40,sot bəri,sot bəri,[],,['chan2019'],,False,False,,2
+aton1241-2-50-1,,aton1241-2,50,rumʔ ni cəyɡək,rumʔ ni cəyɡək,[],,['chan2019'],,False,False,,2
+aton1241-2-50-2,,aton1241-2,50,sot boŋa,sot boŋa,[],,['chan2019'],,False,False,,2
+aton1241-2-60-1,,aton1241-2,60,rumʔ tʰam,rumʔ tʰam,[],( 20 x 3),['chan2019'],,False,False,,2
+aton1241-2-60-2,,aton1241-2,60,sotok,sotok,[],,['chan2019'],,False,False,,2
+aton1241-2-60-3,,aton1241-2,60,sotdok,sotdok,[],,['chan2019'],,False,False,,2
+aton1241-2-70-1,,aton1241-2,70,rumʔ tʰam cəyɡək,rumʔ tʰam cəyɡək,[],,['chan2019'],,False,False,,2
+aton1241-2-70-2,,aton1241-2,70,sot sene,sot sene,[],,['chan2019'],,False,False,,2
+aton1241-2-70-3,,aton1241-2,70,səni,səni,[],,['chan2019'],,False,False,,2
+aton1241-2-80-1,,aton1241-2,80,rumʔ (kʰolcaŋ) bərəy,rumʔ (kʰolcaŋ) bərəy,[],( 20 x 4),['chan2019'],,False,False,,2
+aton1241-2-80-2,,aton1241-2,80,sot cet,sot cet,[],,['chan2019'],,False,False,,2
+aton1241-2-90-1,,aton1241-2,90,rumʔ (kʰolcaŋ) bərəy cəyɡək,rumʔ (kʰolcaŋ) bərəy cəyɡək,[],,['chan2019'],,False,False,,2
+aton1241-2-100-1,,aton1241-2,100,raja sa,raja sa,[],( j = IPA [ dʑ]),['chan2019'],,False,False,,2
+aton1241-2-200-1,,aton1241-2,200,raja ni,raja ni,[],,['chan2019'],,False,False,,2
+aton1241-2-1000-1,,aton1241-2,1000,hajal,hajal,[],,['chan2019'],,False,False,,2
+aton1241-2-1000-2,,aton1241-2,1000,hajar sa,hajar sa,[],( hajal from Indic ),['chan2019'],,False,False,,2
+aton1241-2-2000-1,,aton1241-2,2000,hajal ni,hajal ni,[],,['chan2019'],,False,False,,2

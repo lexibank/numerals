@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-onoo1246-1-1-1,,onoo1246-1,1,weku,weku,[],,[],,False,False,,1
-onoo1246-1-2-1,,onoo1246-1,2,etke,etke,[],,[],,False,False,,1
-onoo1246-1-3-1,,onoo1246-1,3,karewe,karewe,[],,[],,False,False,,1
-onoo1246-1-4-1,,onoo1246-1,4,etke so etke,etke so etke,[],,[],,False,False,,1
-onoo1246-1-5-1,,onoo1246-1,5,mete mane,mete mane,[],,[],,False,False,,1
-onoo1246-1-6-1,,onoo1246-1,6,mete mane so weku,mete mane so weku,[],,[],,False,False,,1
-onoo1246-1-7-1,,onoo1246-1,7,mete mane so etke,mete mane so etke,[],,[],,False,False,,1
-onoo1246-1-8-1,,onoo1246-1,8,mete mane so karewe,mete mane so karewe,[],,[],,False,False,,1
-onoo1246-1-9-1,,onoo1246-1,9,mete mane so etke so etke,mete mane so etke so etke,[],,[],,False,False,,1
-onoo1246-1-10-1,,onoo1246-1,10,mete etke,mete etke,[],,[],,False,False,,1
-onoo1246-1-11-1,,onoo1246-1,11,mete etke so weku,mete etke so weku,[],,[],,False,False,,1
-onoo1246-1-12-1,,onoo1246-1,12,mete etke so etke,mete etke so etke,[],,[],,False,False,,1
-onoo1246-1-13-1,,onoo1246-1,13,mete etke so karewe,mete etke so karewe,[],,[],,False,False,,1
-onoo1246-1-14-1,,onoo1246-1,14,mete etke so etke so etke,mete etke so etke so etke,[],,[],,False,False,,1
-onoo1246-1-15-1,,onoo1246-1,15,mete etke so kiye mane,mete etke so kiye mane,[],,[],,False,False,,1
-onoo1246-1-16-1,,onoo1246-1,16,mete etke kiye mane so weku,mete etke kiye mane so weku,[],,[],,False,False,,1
-onoo1246-1-17-1,,onoo1246-1,17,mete etke kiye mane so etke,mete etke kiye mane so etke,[],,[],,False,False,,1
-onoo1246-1-18-1,,onoo1246-1,18,mete etke kiye mane so karewe,mete etke kiye mane so karewe,[],,[],,False,False,,1
-onoo1246-1-19-1,,onoo1246-1,19,mete etke kiye mane so etke so etke,mete etke kiye mane so etke so etke,[],,[],,False,False,,1
-onoo1246-1-20-1,,onoo1246-1,20,mete etke so kiye etke,mete etke so kiye etke,[],,[],,False,False,,1
+onoo1246-1-1-1,,onoo1246-1,1,weku,weku,[],,['chan2019'],,False,False,,1
+onoo1246-1-2-1,,onoo1246-1,2,etke,etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-3-1,,onoo1246-1,3,karewe,karewe,[],,['chan2019'],,False,False,,1
+onoo1246-1-4-1,,onoo1246-1,4,etke so etke,etke so etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-5-1,,onoo1246-1,5,mete mane,mete mane,[],,['chan2019'],,False,False,,1
+onoo1246-1-6-1,,onoo1246-1,6,mete mane so weku,mete mane so weku,[],,['chan2019'],,False,False,,1
+onoo1246-1-7-1,,onoo1246-1,7,mete mane so etke,mete mane so etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-8-1,,onoo1246-1,8,mete mane so karewe,mete mane so karewe,[],,['chan2019'],,False,False,,1
+onoo1246-1-9-1,,onoo1246-1,9,mete mane so etke so etke,mete mane so etke so etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-10-1,,onoo1246-1,10,mete etke,mete etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-11-1,,onoo1246-1,11,mete etke so weku,mete etke so weku,[],,['chan2019'],,False,False,,1
+onoo1246-1-12-1,,onoo1246-1,12,mete etke so etke,mete etke so etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-13-1,,onoo1246-1,13,mete etke so karewe,mete etke so karewe,[],,['chan2019'],,False,False,,1
+onoo1246-1-14-1,,onoo1246-1,14,mete etke so etke so etke,mete etke so etke so etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-15-1,,onoo1246-1,15,mete etke so kiye mane,mete etke so kiye mane,[],,['chan2019'],,False,False,,1
+onoo1246-1-16-1,,onoo1246-1,16,mete etke kiye mane so weku,mete etke kiye mane so weku,[],,['chan2019'],,False,False,,1
+onoo1246-1-17-1,,onoo1246-1,17,mete etke kiye mane so etke,mete etke kiye mane so etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-18-1,,onoo1246-1,18,mete etke kiye mane so karewe,mete etke kiye mane so karewe,[],,['chan2019'],,False,False,,1
+onoo1246-1-19-1,,onoo1246-1,19,mete etke kiye mane so etke so etke,mete etke kiye mane so etke so etke,[],,['chan2019'],,False,False,,1
+onoo1246-1-20-1,,onoo1246-1,20,mete etke so kiye etke,mete etke so kiye etke,[],,['chan2019'],,False,False,,1

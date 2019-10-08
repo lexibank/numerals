@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-neng1238-1-1-1,,neng1238-1,1,sa,sa,[],,[],,False,False,,1
-neng1238-1-2-1,,neng1238-1,2,rewe,rewe,[],,[],,False,False,,1
-neng1238-1-3-1,,neng1238-1,3,tini,tini,[],,[],,False,False,,1
-neng1238-1-4-1,,neng1238-1,4,ece,ece,[],,[],,False,False,,1
-neng1238-1-5-1,,neng1238-1,5,sedoŋ,sedoŋ,[],,[],,False,False,,1
-neng1238-1-6-1,,neng1238-1,6,sedoŋo ne sa,sedoŋo ne sa,[],(sedosa),[],,False,False,,1
-neng1238-1-7-1,,neng1238-1,7,sedoŋo ne rewe,sedoŋo ne rewe,[],(sedorew),[],,False,False,,1
-neng1238-1-8-1,,neng1238-1,8,sedoŋo ne tin,sedoŋo ne tin,[],(sedotin),[],,False,False,,1
-neng1238-1-9-1,,neng1238-1,9,sedoŋo ne ec,sedoŋo ne ec,[],(sedoec),[],,False,False,,1
-neng1238-1-10-1,,neng1238-1,10,ruenin,ruenin,[],(litː 'both hands'),[],,False,False,,1
-neng1238-1-11-1,,neng1238-1,11,rueninesa,rueninesa,[],(ruesa),[],,False,False,,1
-neng1238-1-12-1,,neng1238-1,12,rueninerew,rueninerew,[],(ruerew),[],,False,False,,1
-neng1238-1-13-1,,neng1238-1,13,rueninetin,rueninetin,[],(ruetin),[],,False,False,,1
-neng1238-1-14-1,,neng1238-1,14,ruenineec,ruenineec,[],(rueec),[],,False,False,,1
-neng1238-1-15-1,,neng1238-1,15,adenin,adenin,[],(ade),[],,False,False,,1
-neng1238-1-16-1,,neng1238-1,16,adeninesa,adeninesa,[],(adesa),[],,False,False,,1
-neng1238-1-17-1,,neng1238-1,17,adeninerew,adeninerew,[],(aderew),[],,False,False,,1
-neng1238-1-18-1,,neng1238-1,18,adeninetin,adeninetin,[],(adetin),[],,False,False,,1
-neng1238-1-19-1,,neng1238-1,19,adenineec,adenineec,[],(ade-ec),[],,False,False,,1
-neng1238-1-20-1,,neng1238-1,20,sareŋom,sareŋom,[],(litː 'one man') (sare),[],,False,False,,1
-neng1238-1-21-1,,neng1238-1,21,sareŋome ne sa,sareŋome ne sa,[],(saresa),[],,False,False,,1
-neng1238-1-22-1,,neng1238-1,22,sareŋome ne rew,sareŋome ne rew,[],(sarerew),[],,False,False,,1
-neng1238-1-23-1,,neng1238-1,23,sareŋome ne tin,sareŋome ne tin,[],(saretin),[],,False,False,,1
-neng1238-1-24-1,,neng1238-1,24,sareŋome ne ec,sareŋome ne ec,[],(sare-ec),[],,False,False,,1
-neng1238-1-25-1,,neng1238-1,25,sareŋome ne sedoŋ,sareŋome ne sedoŋ,[],(saresedoŋ),[],,False,False,,1
-neng1238-1-26-1,,neng1238-1,26,sareŋom ne sedoŋ sa,sareŋom ne sedoŋ sa,[],,[],,False,False,,1
-neng1238-1-27-1,,neng1238-1,27,sareŋom ne sedoŋ rew,sareŋom ne sedoŋ rew,[],,[],,False,False,,1
-neng1238-1-28-1,,neng1238-1,28,sareŋom ne sedoŋ tin,sareŋom ne sedoŋ tin,[],,[],,False,False,,1
-neng1238-1-29-1,,neng1238-1,29,sareŋom ne sedoŋ ec,sareŋom ne sedoŋ ec,[],,[],,False,False,,1
-neng1238-1-30-1,,neng1238-1,30,sareŋome ne ruenin,sareŋome ne ruenin,[],,[],,False,False,,1
-neng1238-1-40-1,,neng1238-1,40,rueŋome,rueŋome,[],(litː 'two men'),[],,False,False,,1
-neng1238-1-50-1,,neng1238-1,50,rueŋome ne ruenin,rueŋome ne ruenin,[],,[],,False,False,,1
-neng1238-1-60-1,,neng1238-1,60,adeŋome,adeŋome,[],(litː 'three men') (adene),[],,False,False,,1
-neng1238-1-70-1,,neng1238-1,70,adeŋome ne ruenin,adeŋome ne ruenin,[],,[],,False,False,,1
-neng1238-1-80-1,,neng1238-1,80,ecereŋome,ecereŋome,[],(litː 'four men') (ecene),[],,False,False,,1
-neng1238-1-90-1,,neng1238-1,90,ecereŋome ne ruenin,ecereŋome ne ruenin,[],,[],,False,False,,1
-neng1238-1-100-1,,neng1238-1,100,sedoŋ reŋome,sedoŋ reŋome,[],('five men') (sedoŋom),[],,False,False,,1
-neng1238-1-200-1,,neng1238-1,200,rue sedoŋom,rue sedoŋom,[],,[],,False,False,,1
-neng1238-1-1000-1,,neng1238-1,1000,ruenin sedoŋom,ruenin sedoŋom,[],,[],,False,False,,1
-neng1238-1-2000-1,,neng1238-1,2000,sedoŋom sedoŋom,sedoŋom sedoŋom,[],,[],,False,False,,1
+neng1238-1-1-1,,neng1238-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+neng1238-1-2-1,,neng1238-1,2,rewe,rewe,[],,['chan2019'],,False,False,,1
+neng1238-1-3-1,,neng1238-1,3,tini,tini,[],,['chan2019'],,False,False,,1
+neng1238-1-4-1,,neng1238-1,4,ece,ece,[],,['chan2019'],,False,False,,1
+neng1238-1-5-1,,neng1238-1,5,sedoŋ,sedoŋ,[],,['chan2019'],,False,False,,1
+neng1238-1-6-1,,neng1238-1,6,sedoŋo ne sa,sedoŋo ne sa,[],(sedosa),['chan2019'],,False,False,,1
+neng1238-1-7-1,,neng1238-1,7,sedoŋo ne rewe,sedoŋo ne rewe,[],(sedorew),['chan2019'],,False,False,,1
+neng1238-1-8-1,,neng1238-1,8,sedoŋo ne tin,sedoŋo ne tin,[],(sedotin),['chan2019'],,False,False,,1
+neng1238-1-9-1,,neng1238-1,9,sedoŋo ne ec,sedoŋo ne ec,[],(sedoec),['chan2019'],,False,False,,1
+neng1238-1-10-1,,neng1238-1,10,ruenin,ruenin,[],(litː 'both hands'),['chan2019'],,False,False,,1
+neng1238-1-11-1,,neng1238-1,11,rueninesa,rueninesa,[],(ruesa),['chan2019'],,False,False,,1
+neng1238-1-12-1,,neng1238-1,12,rueninerew,rueninerew,[],(ruerew),['chan2019'],,False,False,,1
+neng1238-1-13-1,,neng1238-1,13,rueninetin,rueninetin,[],(ruetin),['chan2019'],,False,False,,1
+neng1238-1-14-1,,neng1238-1,14,ruenineec,ruenineec,[],(rueec),['chan2019'],,False,False,,1
+neng1238-1-15-1,,neng1238-1,15,adenin,adenin,[],(ade),['chan2019'],,False,False,,1
+neng1238-1-16-1,,neng1238-1,16,adeninesa,adeninesa,[],(adesa),['chan2019'],,False,False,,1
+neng1238-1-17-1,,neng1238-1,17,adeninerew,adeninerew,[],(aderew),['chan2019'],,False,False,,1
+neng1238-1-18-1,,neng1238-1,18,adeninetin,adeninetin,[],(adetin),['chan2019'],,False,False,,1
+neng1238-1-19-1,,neng1238-1,19,adenineec,adenineec,[],(ade-ec),['chan2019'],,False,False,,1
+neng1238-1-20-1,,neng1238-1,20,sareŋom,sareŋom,[],(litː 'one man') (sare),['chan2019'],,False,False,,1
+neng1238-1-21-1,,neng1238-1,21,sareŋome ne sa,sareŋome ne sa,[],(saresa),['chan2019'],,False,False,,1
+neng1238-1-22-1,,neng1238-1,22,sareŋome ne rew,sareŋome ne rew,[],(sarerew),['chan2019'],,False,False,,1
+neng1238-1-23-1,,neng1238-1,23,sareŋome ne tin,sareŋome ne tin,[],(saretin),['chan2019'],,False,False,,1
+neng1238-1-24-1,,neng1238-1,24,sareŋome ne ec,sareŋome ne ec,[],(sare-ec),['chan2019'],,False,False,,1
+neng1238-1-25-1,,neng1238-1,25,sareŋome ne sedoŋ,sareŋome ne sedoŋ,[],(saresedoŋ),['chan2019'],,False,False,,1
+neng1238-1-26-1,,neng1238-1,26,sareŋom ne sedoŋ sa,sareŋom ne sedoŋ sa,[],,['chan2019'],,False,False,,1
+neng1238-1-27-1,,neng1238-1,27,sareŋom ne sedoŋ rew,sareŋom ne sedoŋ rew,[],,['chan2019'],,False,False,,1
+neng1238-1-28-1,,neng1238-1,28,sareŋom ne sedoŋ tin,sareŋom ne sedoŋ tin,[],,['chan2019'],,False,False,,1
+neng1238-1-29-1,,neng1238-1,29,sareŋom ne sedoŋ ec,sareŋom ne sedoŋ ec,[],,['chan2019'],,False,False,,1
+neng1238-1-30-1,,neng1238-1,30,sareŋome ne ruenin,sareŋome ne ruenin,[],,['chan2019'],,False,False,,1
+neng1238-1-40-1,,neng1238-1,40,rueŋome,rueŋome,[],(litː 'two men'),['chan2019'],,False,False,,1
+neng1238-1-50-1,,neng1238-1,50,rueŋome ne ruenin,rueŋome ne ruenin,[],,['chan2019'],,False,False,,1
+neng1238-1-60-1,,neng1238-1,60,adeŋome,adeŋome,[],(litː 'three men') (adene),['chan2019'],,False,False,,1
+neng1238-1-70-1,,neng1238-1,70,adeŋome ne ruenin,adeŋome ne ruenin,[],,['chan2019'],,False,False,,1
+neng1238-1-80-1,,neng1238-1,80,ecereŋome,ecereŋome,[],(litː 'four men') (ecene),['chan2019'],,False,False,,1
+neng1238-1-90-1,,neng1238-1,90,ecereŋome ne ruenin,ecereŋome ne ruenin,[],,['chan2019'],,False,False,,1
+neng1238-1-100-1,,neng1238-1,100,sedoŋ reŋome,sedoŋ reŋome,[],('five men') (sedoŋom),['chan2019'],,False,False,,1
+neng1238-1-200-1,,neng1238-1,200,rue sedoŋom,rue sedoŋom,[],,['chan2019'],,False,False,,1
+neng1238-1-1000-1,,neng1238-1,1000,ruenin sedoŋom,ruenin sedoŋom,[],,['chan2019'],,False,False,,1
+neng1238-1-2000-1,,neng1238-1,2000,sedoŋom sedoŋom,sedoŋom sedoŋom,[],,['chan2019'],,False,False,,1

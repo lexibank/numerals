@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-zenz1235-1-1-1,,zenz1235-1,1,tsaka,tsaka,[],,[],,False,False,,1
-zenz1235-1-2-1,,zenz1235-1,2,tukua,tukua,[],,[],,False,False,,1
-zenz1235-1-3-1,,zenz1235-1,3,tsunä,tsunä,[],,[],,False,False,,1
-zenz1235-1-4-1,,zenz1235-1,4,jakua,jakua,[],,[],,False,False,,1
-zenz1235-1-5-1,,zenz1235-1,5,kaʔyu,kaʔyu,[],,[],,False,False,,1
-zenz1235-1-6-1,,zenz1235-1,6,sukua,sukua,[],,[],,False,False,,1
-zenz1235-1-7-1,,zenz1235-1,7,kati,kati,[],,[],,False,False,,1
-zenz1235-1-8-1,,zenz1235-1,8,jnuöʔ,jnuöʔ,[],,[],,False,False,,1
-zenz1235-1-9-1,,zenz1235-1,9,kaa,kaa,[],,[],,False,False,,1
-zenz1235-1-10-1,,zenz1235-1,10,tii,tii,[],,[],,False,False,,1
-zenz1235-1-11-1,,zenz1235-1,11,tyiʔ tsaka,tyiʔ tsaka,[],,[],,False,False,,1
-zenz1235-1-12-1,,zenz1235-1,12,tyiʔ tukua,tyiʔ tukua,[],,[],,False,False,,1
-zenz1235-1-13-1,,zenz1235-1,13,tyiʔ tsunä,tyiʔ tsunä,[],,[],,False,False,,1
-zenz1235-1-14-1,,zenz1235-1,14,tyiʔ jakua,tyiʔ jakua,[],,[],,False,False,,1
-zenz1235-1-15-1,,zenz1235-1,15,tyiʔ nyö,tyiʔ nyö,[],,[],,False,False,,1
-zenz1235-1-16-1,,zenz1235-1,16,tyiʔ nyö tsaka,tyiʔ nyö tsaka,[],( 15 + 1 ),[],,False,False,,1
-zenz1235-1-17-1,,zenz1235-1,17,tyiʔ nyö tukua,tyiʔ nyö tukua,[],( 15 + 2 ),[],,False,False,,1
-zenz1235-1-18-1,,zenz1235-1,18,tyiʔ nyö tsuna,tyiʔ nyö tsuna,[],( 15 + 3 ),[],,False,False,,1
-zenz1235-1-19-1,,zenz1235-1,19,tyiʔ nyö jakua,tyiʔ nyö jakua,[],( 15 + 4 ),[],,False,False,,1
-zenz1235-1-20-1,,zenz1235-1,20,kala,kala,[],,[],,False,False,,1
-zenz1235-1-21-1,,zenz1235-1,21,kala ndukua tsaka,kala ndukua tsaka,[],,[],,False,False,,1
-zenz1235-1-22-1,,zenz1235-1,22,kala ndukua tukua,kala ndukua tukua,[],,[],,False,False,,1
-zenz1235-1-23-1,,zenz1235-1,23,kala ndukua tsuna,kala ndukua tsuna,[],,[],,False,False,,1
-zenz1235-1-24-1,,zenz1235-1,24,kala ndukua jakua,kala ndukua jakua,[],,[],,False,False,,1
-zenz1235-1-25-1,,zenz1235-1,25,kala ndyiʔ nyö,kala ndyiʔ nyö,[],,[],,False,False,,1
-zenz1235-1-26-1,,zenz1235-1,26,kala ndukua sukua,kala ndukua sukua,[],,[],,False,False,,1
-zenz1235-1-27-1,,zenz1235-1,27,kala ndukua kati,kala ndukua kati,[],,[],,False,False,,1
-zenz1235-1-28-1,,zenz1235-1,28,kala ndukua jnöʔ,kala ndukua jnöʔ,[],,[],,False,False,,1
-zenz1235-1-29-1,,zenz1235-1,29,kala ndukua kaa,kala ndukua kaa,[],,[],,False,False,,1
-zenz1235-1-30-1,,zenz1235-1,30,kalatyi,kalatyi,[],,[],,False,False,,1
-zenz1235-1-40-1,,zenz1235-1,40,tuʔwa,tuʔwa,[],( 2 x 20 ),[],,False,False,,1
-zenz1235-1-50-1,,zenz1235-1,50,tuʔwatyi,tuʔwatyi,[],,[],,False,False,,1
-zenz1235-1-60-1,,zenz1235-1,60,tsuna yala,tsuna yala,[],( 3 x 20 ),[],,False,False,,1
-zenz1235-1-70-1,,zenz1235-1,70,tsuna yala tyi,tsuna yala tyi,[],,[],,False,False,,1
-zenz1235-1-80-1,,zenz1235-1,80,jakua yala,jakua yala,[],( 4 x 20 ),[],,False,False,,1
-zenz1235-1-90-1,,zenz1235-1,90,jakua yala tyi,jakua yala tyi,[],,[],,False,False,,1
-zenz1235-1-100-1,,zenz1235-1,100,tsa siendu,tsa siendu,[],('siendo' < Spanish ),[],,True,False,,1
-zenz1235-1-200-1,,zenz1235-1,200,tukua siendu,tukua siendu,[],,[],,False,False,,1
-zenz1235-1-1000-1,,zenz1235-1,1000,tsa milyi,tsa milyi,[],( 'milyi' < Spanish ),[],,True,False,,1
-zenz1235-1-2000-1,,zenz1235-1,2000,tukua milyi,tukua milyi,[],,[],,False,False,,1
+zenz1235-1-1-1,,zenz1235-1,1,tsaka,tsaka,[],,['chan2019'],,False,False,,1
+zenz1235-1-2-1,,zenz1235-1,2,tukua,tukua,[],,['chan2019'],,False,False,,1
+zenz1235-1-3-1,,zenz1235-1,3,tsunä,tsunä,[],,['chan2019'],,False,False,,1
+zenz1235-1-4-1,,zenz1235-1,4,jakua,jakua,[],,['chan2019'],,False,False,,1
+zenz1235-1-5-1,,zenz1235-1,5,kaʔyu,kaʔyu,[],,['chan2019'],,False,False,,1
+zenz1235-1-6-1,,zenz1235-1,6,sukua,sukua,[],,['chan2019'],,False,False,,1
+zenz1235-1-7-1,,zenz1235-1,7,kati,kati,[],,['chan2019'],,False,False,,1
+zenz1235-1-8-1,,zenz1235-1,8,jnuöʔ,jnuöʔ,[],,['chan2019'],,False,False,,1
+zenz1235-1-9-1,,zenz1235-1,9,kaa,kaa,[],,['chan2019'],,False,False,,1
+zenz1235-1-10-1,,zenz1235-1,10,tii,tii,[],,['chan2019'],,False,False,,1
+zenz1235-1-11-1,,zenz1235-1,11,tyiʔ tsaka,tyiʔ tsaka,[],,['chan2019'],,False,False,,1
+zenz1235-1-12-1,,zenz1235-1,12,tyiʔ tukua,tyiʔ tukua,[],,['chan2019'],,False,False,,1
+zenz1235-1-13-1,,zenz1235-1,13,tyiʔ tsunä,tyiʔ tsunä,[],,['chan2019'],,False,False,,1
+zenz1235-1-14-1,,zenz1235-1,14,tyiʔ jakua,tyiʔ jakua,[],,['chan2019'],,False,False,,1
+zenz1235-1-15-1,,zenz1235-1,15,tyiʔ nyö,tyiʔ nyö,[],,['chan2019'],,False,False,,1
+zenz1235-1-16-1,,zenz1235-1,16,tyiʔ nyö tsaka,tyiʔ nyö tsaka,[],( 15 + 1 ),['chan2019'],,False,False,,1
+zenz1235-1-17-1,,zenz1235-1,17,tyiʔ nyö tukua,tyiʔ nyö tukua,[],( 15 + 2 ),['chan2019'],,False,False,,1
+zenz1235-1-18-1,,zenz1235-1,18,tyiʔ nyö tsuna,tyiʔ nyö tsuna,[],( 15 + 3 ),['chan2019'],,False,False,,1
+zenz1235-1-19-1,,zenz1235-1,19,tyiʔ nyö jakua,tyiʔ nyö jakua,[],( 15 + 4 ),['chan2019'],,False,False,,1
+zenz1235-1-20-1,,zenz1235-1,20,kala,kala,[],,['chan2019'],,False,False,,1
+zenz1235-1-21-1,,zenz1235-1,21,kala ndukua tsaka,kala ndukua tsaka,[],,['chan2019'],,False,False,,1
+zenz1235-1-22-1,,zenz1235-1,22,kala ndukua tukua,kala ndukua tukua,[],,['chan2019'],,False,False,,1
+zenz1235-1-23-1,,zenz1235-1,23,kala ndukua tsuna,kala ndukua tsuna,[],,['chan2019'],,False,False,,1
+zenz1235-1-24-1,,zenz1235-1,24,kala ndukua jakua,kala ndukua jakua,[],,['chan2019'],,False,False,,1
+zenz1235-1-25-1,,zenz1235-1,25,kala ndyiʔ nyö,kala ndyiʔ nyö,[],,['chan2019'],,False,False,,1
+zenz1235-1-26-1,,zenz1235-1,26,kala ndukua sukua,kala ndukua sukua,[],,['chan2019'],,False,False,,1
+zenz1235-1-27-1,,zenz1235-1,27,kala ndukua kati,kala ndukua kati,[],,['chan2019'],,False,False,,1
+zenz1235-1-28-1,,zenz1235-1,28,kala ndukua jnöʔ,kala ndukua jnöʔ,[],,['chan2019'],,False,False,,1
+zenz1235-1-29-1,,zenz1235-1,29,kala ndukua kaa,kala ndukua kaa,[],,['chan2019'],,False,False,,1
+zenz1235-1-30-1,,zenz1235-1,30,kalatyi,kalatyi,[],,['chan2019'],,False,False,,1
+zenz1235-1-40-1,,zenz1235-1,40,tuʔwa,tuʔwa,[],( 2 x 20 ),['chan2019'],,False,False,,1
+zenz1235-1-50-1,,zenz1235-1,50,tuʔwatyi,tuʔwatyi,[],,['chan2019'],,False,False,,1
+zenz1235-1-60-1,,zenz1235-1,60,tsuna yala,tsuna yala,[],( 3 x 20 ),['chan2019'],,False,False,,1
+zenz1235-1-70-1,,zenz1235-1,70,tsuna yala tyi,tsuna yala tyi,[],,['chan2019'],,False,False,,1
+zenz1235-1-80-1,,zenz1235-1,80,jakua yala,jakua yala,[],( 4 x 20 ),['chan2019'],,False,False,,1
+zenz1235-1-90-1,,zenz1235-1,90,jakua yala tyi,jakua yala tyi,[],,['chan2019'],,False,False,,1
+zenz1235-1-100-1,,zenz1235-1,100,tsa siendu,tsa siendu,[],('siendo' < Spanish ),['chan2019'],,True,False,,1
+zenz1235-1-200-1,,zenz1235-1,200,tukua siendu,tukua siendu,[],,['chan2019'],,False,False,,1
+zenz1235-1-1000-1,,zenz1235-1,1000,tsa milyi,tsa milyi,[],( 'milyi' < Spanish ),['chan2019'],,True,False,,1
+zenz1235-1-2000-1,,zenz1235-1,2000,tukua milyi,tukua milyi,[],,['chan2019'],,False,False,,1

@@ -1,31 +1,31 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bara1362-1-1-1,,bara1362-1,1,ɣífìːmbə̀,ɣífìːmbə̀,[],,[],,False,False,,1
-bara1362-1-2-1,,bara1362-1,2,bìbèyì,bìbèyì,[],,[],,False,False,,1
-bara1362-1-3-1,,bara1362-1,3,bìrèrù,bìrèrù,[],,[],,False,False,,1
-bara1362-1-4-1,,bara1362-1,4,bìnə̀,bìnə̀,[],,[],,False,False,,1
-bara1362-1-5-1,,bara1362-1,5,bìràːnù,bìràːnù,[],,[],,False,False,,1
-bara1362-1-6-1,,bara1362-1,6,bìsyàmànù,bìsyàmànù,[],,[],,False,False,,1
-bara1362-1-7-1,,bara1362-1,7,bìnə̀ ɣú bìrèrù,bìnə̀ ɣú bìrèrù,[],( 4 + 3 ),[],,False,False,,1
-bara1362-1-8-1,,bara1362-1,8,ɣìnànə̀,ɣìnànə̀,[],,[],,False,False,,1
-bara1362-1-9-1,,bara1362-1,9,kàmbə úmôsì,kàmbə úmôsì,[],( (' one is lacking ') *),[],,False,False,,1
-bara1362-1-10-1,,bara1362-1,10,díɣùmì,díɣùmì,[],,[],,False,False,,1
-bara1362-1-11-1,,bara1362-1,11,díɣùmì ná ìmwɛ᷅ːɣə᷆,díɣùmì ná ìmwɛ᷅ːɣə᷆,[],,[],,False,False,,1
-bara1362-1-12-1,,bara1362-1,12,díɣùmì ná bìbèyì,díɣùmì ná bìbèyì,[],,[],,False,False,,1
-bara1362-1-13-1,,bara1362-1,13,díɣùmì ná bìrèrù,díɣùmì ná bìrèrù,[],,[],,False,False,,1
-bara1362-1-14-1,,bara1362-1,14,díɣùmì ná bìnə̀,díɣùmì ná bìnə̀,[],,[],,False,False,,1
-bara1362-1-15-1,,bara1362-1,15,díɣùmì ná bìràːnù,díɣùmì ná bìràːnù,[],,[],,False,False,,1
-bara1362-1-16-1,,bara1362-1,16,díɣùmì ná bìsyàmànù,díɣùmì ná bìsyàmànù,[],,[],,False,False,,1
-bara1362-1-17-1,,bara1362-1,17,díɣùmì ná bìnə̀ ɣú bìrèrù,díɣùmì ná bìnə̀ ɣú bìrèrù,[],,[],,False,False,,1
-bara1362-1-18-1,,bara1362-1,18,díɣùmì ná ɣìnànə̀,díɣùmì ná ɣìnànə̀,[],,[],,False,False,,1
-bara1362-1-19-1,,bara1362-1,19,díɣùmì ná kàmbə úmôsì,díɣùmì ná kàmbə úmôsì,[],,[],,False,False,,1
-bara1362-1-20-1,,bara1362-1,20,màɣú màbèyì,màɣú màbèyì,[],,[],,False,False,,1
-bara1362-1-30-1,,bara1362-1,30,màɣú bìrèrù,màɣú bìrèrù,[],,[],,False,False,,1
-bara1362-1-40-1,,bara1362-1,40,màɣú bìnə̀,màɣú bìnə̀,[],,[],,False,False,,1
-bara1362-1-50-1,,bara1362-1,50,màɣú bìràːnù,màɣú bìràːnù,[],,[],,False,False,,1
-bara1362-1-60-1,,bara1362-1,60,màɣú bìsyàmànù,màɣú bìsyàmànù,[],,[],,False,False,,1
-bara1362-1-70-1,,bara1362-1,70,màɣú bìnə̀ ɣú bìrèrù,màɣú bìnə̀ ɣú bìrèrù,[],,[],,False,False,,1
-bara1362-1-80-1,,bara1362-1,80,màɣú ɣìnànə̀,màɣú ɣìnànə̀,[],,[],,False,False,,1
-bara1362-1-90-1,,bara1362-1,90,màɣú kàmbə úmôsì,màɣú kàmbə úmôsì,[],,[],,False,False,,1
-bara1362-1-100-1,,bara1362-1,100,kámə̀,kámə̀,[],,[],,False,False,,1
-bara1362-1-1000-1,,bara1362-1,1000,díɣùmì díkámə̀,díɣùmì díkámə̀,[],,[],,False,False,,1
-bara1362-1-1000-2,,bara1362-1,1000,tòsánì,tòsánì,[],< English ,[],,True,False,,1
+bara1362-1-1-1,,bara1362-1,1,ɣífìːmbə̀,ɣífìːmbə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-2-1,,bara1362-1,2,bìbèyì,bìbèyì,[],,['chan2019'],,False,False,,1
+bara1362-1-3-1,,bara1362-1,3,bìrèrù,bìrèrù,[],,['chan2019'],,False,False,,1
+bara1362-1-4-1,,bara1362-1,4,bìnə̀,bìnə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-5-1,,bara1362-1,5,bìràːnù,bìràːnù,[],,['chan2019'],,False,False,,1
+bara1362-1-6-1,,bara1362-1,6,bìsyàmànù,bìsyàmànù,[],,['chan2019'],,False,False,,1
+bara1362-1-7-1,,bara1362-1,7,bìnə̀ ɣú bìrèrù,bìnə̀ ɣú bìrèrù,[],( 4 + 3 ),['chan2019'],,False,False,,1
+bara1362-1-8-1,,bara1362-1,8,ɣìnànə̀,ɣìnànə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-9-1,,bara1362-1,9,kàmbə úmôsì,kàmbə úmôsì,[],( (' one is lacking ') *),['chan2019'],,False,False,,1
+bara1362-1-10-1,,bara1362-1,10,díɣùmì,díɣùmì,[],,['chan2019'],,False,False,,1
+bara1362-1-11-1,,bara1362-1,11,díɣùmì ná ìmwɛ᷅ːɣə᷆,díɣùmì ná ìmwɛ᷅ːɣə᷆,[],,['chan2019'],,False,False,,1
+bara1362-1-12-1,,bara1362-1,12,díɣùmì ná bìbèyì,díɣùmì ná bìbèyì,[],,['chan2019'],,False,False,,1
+bara1362-1-13-1,,bara1362-1,13,díɣùmì ná bìrèrù,díɣùmì ná bìrèrù,[],,['chan2019'],,False,False,,1
+bara1362-1-14-1,,bara1362-1,14,díɣùmì ná bìnə̀,díɣùmì ná bìnə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-15-1,,bara1362-1,15,díɣùmì ná bìràːnù,díɣùmì ná bìràːnù,[],,['chan2019'],,False,False,,1
+bara1362-1-16-1,,bara1362-1,16,díɣùmì ná bìsyàmànù,díɣùmì ná bìsyàmànù,[],,['chan2019'],,False,False,,1
+bara1362-1-17-1,,bara1362-1,17,díɣùmì ná bìnə̀ ɣú bìrèrù,díɣùmì ná bìnə̀ ɣú bìrèrù,[],,['chan2019'],,False,False,,1
+bara1362-1-18-1,,bara1362-1,18,díɣùmì ná ɣìnànə̀,díɣùmì ná ɣìnànə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-19-1,,bara1362-1,19,díɣùmì ná kàmbə úmôsì,díɣùmì ná kàmbə úmôsì,[],,['chan2019'],,False,False,,1
+bara1362-1-20-1,,bara1362-1,20,màɣú màbèyì,màɣú màbèyì,[],,['chan2019'],,False,False,,1
+bara1362-1-30-1,,bara1362-1,30,màɣú bìrèrù,màɣú bìrèrù,[],,['chan2019'],,False,False,,1
+bara1362-1-40-1,,bara1362-1,40,màɣú bìnə̀,màɣú bìnə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-50-1,,bara1362-1,50,màɣú bìràːnù,màɣú bìràːnù,[],,['chan2019'],,False,False,,1
+bara1362-1-60-1,,bara1362-1,60,màɣú bìsyàmànù,màɣú bìsyàmànù,[],,['chan2019'],,False,False,,1
+bara1362-1-70-1,,bara1362-1,70,màɣú bìnə̀ ɣú bìrèrù,màɣú bìnə̀ ɣú bìrèrù,[],,['chan2019'],,False,False,,1
+bara1362-1-80-1,,bara1362-1,80,màɣú ɣìnànə̀,màɣú ɣìnànə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-90-1,,bara1362-1,90,màɣú kàmbə úmôsì,màɣú kàmbə úmôsì,[],,['chan2019'],,False,False,,1
+bara1362-1-100-1,,bara1362-1,100,kámə̀,kámə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-1000-1,,bara1362-1,1000,díɣùmì díkámə̀,díɣùmì díkámə̀,[],,['chan2019'],,False,False,,1
+bara1362-1-1000-2,,bara1362-1,1000,tòsánì,tòsánì,[],< English ,['chan2019'],,True,False,,1

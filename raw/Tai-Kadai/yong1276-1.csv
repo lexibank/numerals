@@ -1,45 +1,45 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yong1276-1-1-1,,yong1276-1,1,deu1,deu1,[],,[],,False,False,,1
-yong1276-1-2-1,,yong1276-1,2,soːŋ1,soːŋ1,[],,[],,False,False,,1
-yong1276-1-3-1,,yong1276-1,3,saːm1,saːm1,[],,[],,False,False,,1
-yong1276-1-4-1,,yong1276-1,4,sei5,sei5,[],,[],,False,False,,1
-yong1276-1-5-1,,yong1276-1,5,ha3,ha3,[],,[],,False,False,,1
-yong1276-1-5-2,,yong1276-1,5,ŋu4,ŋu4,[],,[],,False,False,,1
-yong1276-1-6-1,,yong1276-1,6,ɣɔk7,ɣɔk7,[],,[],,False,False,,1
-yong1276-1-6-2,,yong1276-1,6,lɔk8,lɔk8,[],,[],,False,False,,1
-yong1276-1-7-1,,yong1276-1,7,ɕat7,ɕat7,[],,[],,False,False,,1
-yong1276-1-8-1,,yong1276-1,8,pet7,pet7,[],,[],,False,False,,1
-yong1276-1-8-2,,yong1276-1,8,paːk7,paːk7,[],,[],,False,False,,1
-yong1276-1-9-1,,yong1276-1,9,kou3,kou3,[],,[],,False,False,,1
-yong1276-1-10-1,,yong1276-1,10,ɕip8,ɕip8,[],,[],,False,False,,1
-yong1276-1-11-1,,yong1276-1,11,ɕip8 it7,ɕip8 it7,[],,[],,False,False,,1
-yong1276-1-12-1,,yong1276-1,12,ɕip8 ŋei6,ɕip8 ŋei6,[],,[],,False,False,,1
-yong1276-1-13-1,,yong1276-1,13,ɕip8 saːm1,ɕip8 saːm1,[],,[],,False,False,,1
-yong1276-1-14-1,,yong1276-1,14,ɕip8 sei5,ɕip8 sei5,[],,[],,False,False,,1
-yong1276-1-15-1,,yong1276-1,15,ɕip8 ha3,ɕip8 ha3,[],,[],,False,False,,1
-yong1276-1-16-1,,yong1276-1,16,ɕip8 ɣɔk7,ɕip8 ɣɔk7,[],,[],,False,False,,1
-yong1276-1-17-1,,yong1276-1,17,ɕip8 ɕat7,ɕip8 ɕat7,[],,[],,False,False,,1
-yong1276-1-18-1,,yong1276-1,18,ɕip8 pet7,ɕip8 pet7,[],,[],,False,False,,1
-yong1276-1-19-1,,yong1276-1,19,ɕip8 kou3,ɕip8 kou3,[],,[],,False,False,,1
-yong1276-1-20-1,,yong1276-1,20,ŋei6ɕip8,ŋei6ɕip8,[],,[],,False,False,,1
-yong1276-1-21-1,,yong1276-1,21,ŋei6 ɕip8 it7,ŋei6 ɕip8 it7,[],,[],,False,False,,1
-yong1276-1-22-1,,yong1276-1,22,ŋei6 ɕip8 ŋei6,ŋei6 ɕip8 ŋei6,[],,[],,False,False,,1
-yong1276-1-23-1,,yong1276-1,23,ŋei6 ɕip8 saːm1,ŋei6 ɕip8 saːm1,[],,[],,False,False,,1
-yong1276-1-24-1,,yong1276-1,24,ŋei6 ɕip8 sei5,ŋei6 ɕip8 sei5,[],,[],,False,False,,1
-yong1276-1-25-1,,yong1276-1,25,ŋei6 ɕip8 ha3,ŋei6 ɕip8 ha3,[],,[],,False,False,,1
-yong1276-1-26-1,,yong1276-1,26,ŋei6 ɕip8 ɣɔk7,ŋei6 ɕip8 ɣɔk7,[],,[],,False,False,,1
-yong1276-1-27-1,,yong1276-1,27,ŋei6 ɕip8 ɕat7,ŋei6 ɕip8 ɕat7,[],,[],,False,False,,1
-yong1276-1-28-1,,yong1276-1,28,ŋei6 ɕip8 pet7,ŋei6 ɕip8 pet7,[],,[],,False,False,,1
-yong1276-1-29-1,,yong1276-1,29,ŋei6 ɕip8 kou3,ŋei6 ɕip8 kou3,[],,[],,False,False,,1
-yong1276-1-30-1,,yong1276-1,30,saːm1 sip8,saːm1 sip8,[],,[],,False,False,,1
-yong1276-1-40-1,,yong1276-1,40,sei5 ɕip8,sei5 ɕip8,[],,[],,False,False,,1
-yong1276-1-50-1,,yong1276-1,50,ha3 ɕip8,ha3 ɕip8,[],,[],,False,False,,1
-yong1276-1-60-1,,yong1276-1,60,ɣɔk7 ɕip8,ɣɔk7 ɕip8,[],,[],,False,False,,1
-yong1276-1-70-1,,yong1276-1,70,ɕat7 ɕip8,ɕat7 ɕip8,[],,[],,False,False,,1
-yong1276-1-80-1,,yong1276-1,80,pet7 ɕip8,pet7 ɕip8,[],,[],,False,False,,1
-yong1276-1-90-1,,yong1276-1,90,kou3 ɕip8,kou3 ɕip8,[],,[],,False,False,,1
-yong1276-1-100-1,,yong1276-1,100,paːk7 deu1,paːk7 deu1,[],,[],,False,False,,1
-yong1276-1-100-2,,yong1276-1,100,it7 paːk7,it7 paːk7,[],,[],,False,False,,1
-yong1276-1-200-1,,yong1276-1,200,soːŋ1 paːk7,soːŋ1 paːk7,[],,[],,False,False,,1
-yong1276-1-1000-1,,yong1276-1,1000,ɕiːn1 deu1,ɕiːn1 deu1,[],,[],,False,False,,1
-yong1276-1-2000-1,,yong1276-1,2000,soːŋ1 ɕiːn1,soːŋ1 ɕiːn1,[],,[],,False,False,,1
+yong1276-1-1-1,,yong1276-1,1,deu1,deu1,[],,['chan2019'],,False,False,,1
+yong1276-1-2-1,,yong1276-1,2,soːŋ1,soːŋ1,[],,['chan2019'],,False,False,,1
+yong1276-1-3-1,,yong1276-1,3,saːm1,saːm1,[],,['chan2019'],,False,False,,1
+yong1276-1-4-1,,yong1276-1,4,sei5,sei5,[],,['chan2019'],,False,False,,1
+yong1276-1-5-1,,yong1276-1,5,ha3,ha3,[],,['chan2019'],,False,False,,1
+yong1276-1-5-2,,yong1276-1,5,ŋu4,ŋu4,[],,['chan2019'],,False,False,,1
+yong1276-1-6-1,,yong1276-1,6,ɣɔk7,ɣɔk7,[],,['chan2019'],,False,False,,1
+yong1276-1-6-2,,yong1276-1,6,lɔk8,lɔk8,[],,['chan2019'],,False,False,,1
+yong1276-1-7-1,,yong1276-1,7,ɕat7,ɕat7,[],,['chan2019'],,False,False,,1
+yong1276-1-8-1,,yong1276-1,8,pet7,pet7,[],,['chan2019'],,False,False,,1
+yong1276-1-8-2,,yong1276-1,8,paːk7,paːk7,[],,['chan2019'],,False,False,,1
+yong1276-1-9-1,,yong1276-1,9,kou3,kou3,[],,['chan2019'],,False,False,,1
+yong1276-1-10-1,,yong1276-1,10,ɕip8,ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-11-1,,yong1276-1,11,ɕip8 it7,ɕip8 it7,[],,['chan2019'],,False,False,,1
+yong1276-1-12-1,,yong1276-1,12,ɕip8 ŋei6,ɕip8 ŋei6,[],,['chan2019'],,False,False,,1
+yong1276-1-13-1,,yong1276-1,13,ɕip8 saːm1,ɕip8 saːm1,[],,['chan2019'],,False,False,,1
+yong1276-1-14-1,,yong1276-1,14,ɕip8 sei5,ɕip8 sei5,[],,['chan2019'],,False,False,,1
+yong1276-1-15-1,,yong1276-1,15,ɕip8 ha3,ɕip8 ha3,[],,['chan2019'],,False,False,,1
+yong1276-1-16-1,,yong1276-1,16,ɕip8 ɣɔk7,ɕip8 ɣɔk7,[],,['chan2019'],,False,False,,1
+yong1276-1-17-1,,yong1276-1,17,ɕip8 ɕat7,ɕip8 ɕat7,[],,['chan2019'],,False,False,,1
+yong1276-1-18-1,,yong1276-1,18,ɕip8 pet7,ɕip8 pet7,[],,['chan2019'],,False,False,,1
+yong1276-1-19-1,,yong1276-1,19,ɕip8 kou3,ɕip8 kou3,[],,['chan2019'],,False,False,,1
+yong1276-1-20-1,,yong1276-1,20,ŋei6ɕip8,ŋei6ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-21-1,,yong1276-1,21,ŋei6 ɕip8 it7,ŋei6 ɕip8 it7,[],,['chan2019'],,False,False,,1
+yong1276-1-22-1,,yong1276-1,22,ŋei6 ɕip8 ŋei6,ŋei6 ɕip8 ŋei6,[],,['chan2019'],,False,False,,1
+yong1276-1-23-1,,yong1276-1,23,ŋei6 ɕip8 saːm1,ŋei6 ɕip8 saːm1,[],,['chan2019'],,False,False,,1
+yong1276-1-24-1,,yong1276-1,24,ŋei6 ɕip8 sei5,ŋei6 ɕip8 sei5,[],,['chan2019'],,False,False,,1
+yong1276-1-25-1,,yong1276-1,25,ŋei6 ɕip8 ha3,ŋei6 ɕip8 ha3,[],,['chan2019'],,False,False,,1
+yong1276-1-26-1,,yong1276-1,26,ŋei6 ɕip8 ɣɔk7,ŋei6 ɕip8 ɣɔk7,[],,['chan2019'],,False,False,,1
+yong1276-1-27-1,,yong1276-1,27,ŋei6 ɕip8 ɕat7,ŋei6 ɕip8 ɕat7,[],,['chan2019'],,False,False,,1
+yong1276-1-28-1,,yong1276-1,28,ŋei6 ɕip8 pet7,ŋei6 ɕip8 pet7,[],,['chan2019'],,False,False,,1
+yong1276-1-29-1,,yong1276-1,29,ŋei6 ɕip8 kou3,ŋei6 ɕip8 kou3,[],,['chan2019'],,False,False,,1
+yong1276-1-30-1,,yong1276-1,30,saːm1 sip8,saːm1 sip8,[],,['chan2019'],,False,False,,1
+yong1276-1-40-1,,yong1276-1,40,sei5 ɕip8,sei5 ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-50-1,,yong1276-1,50,ha3 ɕip8,ha3 ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-60-1,,yong1276-1,60,ɣɔk7 ɕip8,ɣɔk7 ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-70-1,,yong1276-1,70,ɕat7 ɕip8,ɕat7 ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-80-1,,yong1276-1,80,pet7 ɕip8,pet7 ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-90-1,,yong1276-1,90,kou3 ɕip8,kou3 ɕip8,[],,['chan2019'],,False,False,,1
+yong1276-1-100-1,,yong1276-1,100,paːk7 deu1,paːk7 deu1,[],,['chan2019'],,False,False,,1
+yong1276-1-100-2,,yong1276-1,100,it7 paːk7,it7 paːk7,[],,['chan2019'],,False,False,,1
+yong1276-1-200-1,,yong1276-1,200,soːŋ1 paːk7,soːŋ1 paːk7,[],,['chan2019'],,False,False,,1
+yong1276-1-1000-1,,yong1276-1,1000,ɕiːn1 deu1,ɕiːn1 deu1,[],,['chan2019'],,False,False,,1
+yong1276-1-2000-1,,yong1276-1,2000,soːŋ1 ɕiːn1,soːŋ1 ɕiːn1,[],,['chan2019'],,False,False,,1

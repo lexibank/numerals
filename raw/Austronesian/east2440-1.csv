@@ -1,43 +1,43 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-east2440-1-1-1,,east2440-1,1,p-so,p-so,[],,[],,False,False,,1
-east2440-1-2-1,,east2440-1,2,p-lu,p-lu,[],,[],,False,False,,1
-east2440-1-3-1,,east2440-1,3,p-tol,p-tol,[],,[],,False,False,,1
-east2440-1-4-1,,east2440-1,4,p-hot,p-hot,[],,[],,False,False,,1
-east2440-1-5-1,,east2440-1,5,p-lim,p-lim,[],,[],,False,False,,1
-east2440-1-6-1,,east2440-1,6,p-wonom,p-wonom,[],,[],,False,False,,1
-east2440-1-7-1,,east2440-1,7,p-hit,p-hit,[],,[],,False,False,,1
-east2440-1-8-1,,east2440-1,8,p-wal,p-wal,[],,[],,False,False,,1
-east2440-1-9-1,,east2440-1,9,p-siwo,p-siwo,[],,[],,False,False,,1
-east2440-1-10-1,,east2440-1,10,yo ha so,yo ha so,[],,[],,False,False,,1
-east2440-1-11-1,,east2440-1,11,yo ha so lo p-so,yo ha so lo p-so,[],,[],,False,False,,1
-east2440-1-12-1,,east2440-1,12,yo ha so lo p-lu,yo ha so lo p-lu,[],,[],,False,False,,1
-east2440-1-13-1,,east2440-1,13,yo ha so lo p-tol,yo ha so lo p-tol,[],,[],,False,False,,1
-east2440-1-14-1,,east2440-1,14,yo ha so lo p-hot,yo ha so lo p-hot,[],,[],,False,False,,1
-east2440-1-15-1,,east2440-1,15,yo ha so lo p-lim,yo ha so lo p-lim,[],,[],,False,False,,1
-east2440-1-16-1,,east2440-1,16,yo ha so lo p-wonom,yo ha so lo p-wonom,[],,[],,False,False,,1
-east2440-1-17-1,,east2440-1,17,yo ha so lo p-hit,yo ha so lo p-hit,[],,[],,False,False,,1
-east2440-1-18-1,,east2440-1,18,yo ha so lo p-wal,yo ha so lo p-wal,[],,[],,False,False,,1
-east2440-1-19-1,,east2440-1,19,yo ha so lo p-siwo,yo ha so lo p-siwo,[],,[],,False,False,,1
-east2440-1-20-1,,east2440-1,20,yo ha lu,yo ha lu,[],,[],,False,False,,1
-east2440-1-21-1,,east2440-1,21,yo ha lu lo p-so,yo ha lu lo p-so,[],,[],,False,False,,1
-east2440-1-22-1,,east2440-1,22,yo ha lu lo p-lu,yo ha lu lo p-lu,[],,[],,False,False,,1
-east2440-1-23-1,,east2440-1,23,yo ha lu lo p-tol,yo ha lu lo p-tol,[],,[],,False,False,,1
-east2440-1-24-1,,east2440-1,24,yo ha lu lo p-hot,yo ha lu lo p-hot,[],,[],,False,False,,1
-east2440-1-25-1,,east2440-1,25,yo ha lu lo p-lim,yo ha lu lo p-lim,[],,[],,False,False,,1
-east2440-1-26-1,,east2440-1,26,yo ha lu lo p-wonom,yo ha lu lo p-wonom,[],,[],,False,False,,1
-east2440-1-27-1,,east2440-1,27,yo ha lu lo p-hit,yo ha lu lo p-hit,[],,[],,False,False,,1
-east2440-1-28-1,,east2440-1,28,yo ha lu lo p-wal,yo ha lu lo p-wal,[],,[],,False,False,,1
-east2440-1-29-1,,east2440-1,29,yo ha lu lo p-siwo,yo ha lu lo p-siwo,[],,[],,False,False,,1
-east2440-1-30-1,,east2440-1,30,yo ha tol,yo ha tol,[],,[],,False,False,,1
-east2440-1-40-1,,east2440-1,40,yo ha hot,yo ha hot,[],,[],,False,False,,1
-east2440-1-50-1,,east2440-1,50,yo ha lim,yo ha lim,[],,[],,False,False,,1
-east2440-1-60-1,,east2440-1,60,yo ha wonom,yo ha wonom,[],,[],,False,False,,1
-east2440-1-70-1,,east2440-1,70,yo ha hit,yo ha hit,[],,[],,False,False,,1
-east2440-1-80-1,,east2440-1,80,yo ha wal,yo ha wal,[],,[],,False,False,,1
-east2440-1-90-1,,east2440-1,90,yo ha siwo,yo ha siwo,[],,[],,False,False,,1
-east2440-1-100-1,,east2440-1,100,utinco,utinco,[],,[],,False,False,,1
-east2440-1-100-2,,east2440-1,100,unti-so,unti-so,[],,[],,False,False,,1
-east2440-1-200-1,,east2440-1,200,utin-lu,utin-lu,[],,[],,False,False,,1
-east2440-1-1000-1,,east2440-1,1000,calanco,calanco,[],,[],,False,False,,1
-east2440-1-1000-2,,east2440-1,1000,calans-o,calans-o,[],,[],,False,False,,1
-east2440-1-2000-1,,east2440-1,2000,calan-lu,calan-lu,[],,[],,False,False,,1
+east2440-1-1-1,,east2440-1,1,p-so,p-so,[],,['chan2019'],,False,False,,1
+east2440-1-2-1,,east2440-1,2,p-lu,p-lu,[],,['chan2019'],,False,False,,1
+east2440-1-3-1,,east2440-1,3,p-tol,p-tol,[],,['chan2019'],,False,False,,1
+east2440-1-4-1,,east2440-1,4,p-hot,p-hot,[],,['chan2019'],,False,False,,1
+east2440-1-5-1,,east2440-1,5,p-lim,p-lim,[],,['chan2019'],,False,False,,1
+east2440-1-6-1,,east2440-1,6,p-wonom,p-wonom,[],,['chan2019'],,False,False,,1
+east2440-1-7-1,,east2440-1,7,p-hit,p-hit,[],,['chan2019'],,False,False,,1
+east2440-1-8-1,,east2440-1,8,p-wal,p-wal,[],,['chan2019'],,False,False,,1
+east2440-1-9-1,,east2440-1,9,p-siwo,p-siwo,[],,['chan2019'],,False,False,,1
+east2440-1-10-1,,east2440-1,10,yo ha so,yo ha so,[],,['chan2019'],,False,False,,1
+east2440-1-11-1,,east2440-1,11,yo ha so lo p-so,yo ha so lo p-so,[],,['chan2019'],,False,False,,1
+east2440-1-12-1,,east2440-1,12,yo ha so lo p-lu,yo ha so lo p-lu,[],,['chan2019'],,False,False,,1
+east2440-1-13-1,,east2440-1,13,yo ha so lo p-tol,yo ha so lo p-tol,[],,['chan2019'],,False,False,,1
+east2440-1-14-1,,east2440-1,14,yo ha so lo p-hot,yo ha so lo p-hot,[],,['chan2019'],,False,False,,1
+east2440-1-15-1,,east2440-1,15,yo ha so lo p-lim,yo ha so lo p-lim,[],,['chan2019'],,False,False,,1
+east2440-1-16-1,,east2440-1,16,yo ha so lo p-wonom,yo ha so lo p-wonom,[],,['chan2019'],,False,False,,1
+east2440-1-17-1,,east2440-1,17,yo ha so lo p-hit,yo ha so lo p-hit,[],,['chan2019'],,False,False,,1
+east2440-1-18-1,,east2440-1,18,yo ha so lo p-wal,yo ha so lo p-wal,[],,['chan2019'],,False,False,,1
+east2440-1-19-1,,east2440-1,19,yo ha so lo p-siwo,yo ha so lo p-siwo,[],,['chan2019'],,False,False,,1
+east2440-1-20-1,,east2440-1,20,yo ha lu,yo ha lu,[],,['chan2019'],,False,False,,1
+east2440-1-21-1,,east2440-1,21,yo ha lu lo p-so,yo ha lu lo p-so,[],,['chan2019'],,False,False,,1
+east2440-1-22-1,,east2440-1,22,yo ha lu lo p-lu,yo ha lu lo p-lu,[],,['chan2019'],,False,False,,1
+east2440-1-23-1,,east2440-1,23,yo ha lu lo p-tol,yo ha lu lo p-tol,[],,['chan2019'],,False,False,,1
+east2440-1-24-1,,east2440-1,24,yo ha lu lo p-hot,yo ha lu lo p-hot,[],,['chan2019'],,False,False,,1
+east2440-1-25-1,,east2440-1,25,yo ha lu lo p-lim,yo ha lu lo p-lim,[],,['chan2019'],,False,False,,1
+east2440-1-26-1,,east2440-1,26,yo ha lu lo p-wonom,yo ha lu lo p-wonom,[],,['chan2019'],,False,False,,1
+east2440-1-27-1,,east2440-1,27,yo ha lu lo p-hit,yo ha lu lo p-hit,[],,['chan2019'],,False,False,,1
+east2440-1-28-1,,east2440-1,28,yo ha lu lo p-wal,yo ha lu lo p-wal,[],,['chan2019'],,False,False,,1
+east2440-1-29-1,,east2440-1,29,yo ha lu lo p-siwo,yo ha lu lo p-siwo,[],,['chan2019'],,False,False,,1
+east2440-1-30-1,,east2440-1,30,yo ha tol,yo ha tol,[],,['chan2019'],,False,False,,1
+east2440-1-40-1,,east2440-1,40,yo ha hot,yo ha hot,[],,['chan2019'],,False,False,,1
+east2440-1-50-1,,east2440-1,50,yo ha lim,yo ha lim,[],,['chan2019'],,False,False,,1
+east2440-1-60-1,,east2440-1,60,yo ha wonom,yo ha wonom,[],,['chan2019'],,False,False,,1
+east2440-1-70-1,,east2440-1,70,yo ha hit,yo ha hit,[],,['chan2019'],,False,False,,1
+east2440-1-80-1,,east2440-1,80,yo ha wal,yo ha wal,[],,['chan2019'],,False,False,,1
+east2440-1-90-1,,east2440-1,90,yo ha siwo,yo ha siwo,[],,['chan2019'],,False,False,,1
+east2440-1-100-1,,east2440-1,100,utinco,utinco,[],,['chan2019'],,False,False,,1
+east2440-1-100-2,,east2440-1,100,unti-so,unti-so,[],,['chan2019'],,False,False,,1
+east2440-1-200-1,,east2440-1,200,utin-lu,utin-lu,[],,['chan2019'],,False,False,,1
+east2440-1-1000-1,,east2440-1,1000,calanco,calanco,[],,['chan2019'],,False,False,,1
+east2440-1-1000-2,,east2440-1,1000,calans-o,calans-o,[],,['chan2019'],,False,False,,1
+east2440-1-2000-1,,east2440-1,2000,calan-lu,calan-lu,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nara1263-1-1-1,,nara1263-1,1,mate,mate,[],,[],,False,False,,1
-nara1263-1-2-1,,nara1263-1,2,mo rua,mo rua,[],,[],,False,False,,1
-nara1263-1-3-1,,nara1263-1,3,mo tol,mo tol,[],,[],,False,False,,1
-nara1263-1-4-1,,nara1263-1,4,mo fat,mo fat,[],,[],,False,False,,1
-nara1263-1-5-1,,nara1263-1,5,mo lima,mo lima,[],,[],,False,False,,1
-nara1263-1-6-1,,nara1263-1,6,mo lima-raf,mo lima-raf,[],( 5 + 1 ),[],,False,False,,1
-nara1263-1-7-1,,nara1263-1,7,mo raf-rua,mo raf-rua,[],( 5 + 2 ),[],,False,False,,1
-nara1263-1-8-1,,nara1263-1,8,mo raf-tolu,mo raf-tolu,[],( 5 + 3 ),[],,False,False,,1
-nara1263-1-9-1,,nara1263-1,9,mo rapat,mo rapat,[],( 5 + 4 ),[],,False,False,,1
-nara1263-1-10-1,,nara1263-1,10,mo sanaful,mo sanaful,[],,[],,False,False,,1
-nara1263-1-11-1,,nara1263-1,11,mo sanaful roman-mate,mo sanaful roman-mate,[],,[],,False,False,,1
-nara1263-1-12-1,,nara1263-1,12,mo sanaful roman-rua,mo sanaful roman-rua,[],,[],,False,False,,1
-nara1263-1-13-1,,nara1263-1,13,mo sanaful roman-tol,mo sanaful roman-tol,[],,[],,False,False,,1
-nara1263-1-14-1,,nara1263-1,14,mo sanaful roman-fat,mo sanaful roman-fat,[],,[],,False,False,,1
-nara1263-1-15-1,,nara1263-1,15,mo sanaful roman-lima,mo sanaful roman-lima,[],,[],,False,False,,1
-nara1263-1-16-1,,nara1263-1,16,mo sanaful roman-lima-raf,mo sanaful roman-lima-raf,[],,[],,False,False,,1
-nara1263-1-17-1,,nara1263-1,17,mo sanaful roman-raf-rua,mo sanaful roman-raf-rua,[],,[],,False,False,,1
-nara1263-1-18-1,,nara1263-1,18,mo sanaful roman-raf-tol,mo sanaful roman-raf-tol,[],,[],,False,False,,1
-nara1263-1-19-1,,nara1263-1,19,mo sanaful roman-rapat,mo sanaful roman-rapat,[],,[],,False,False,,1
-nara1263-1-20-1,,nara1263-1,20,mo naful rua,mo naful rua,[],,[],,False,False,,1
-nara1263-1-21-1,,nara1263-1,21,mo naful rua romon-mate,mo naful rua romon-mate,[],,[],,False,False,,1
-nara1263-1-22-1,,nara1263-1,22,mo naful rua romon-rua,mo naful rua romon-rua,[],,[],,False,False,,1
-nara1263-1-23-1,,nara1263-1,23,mo naful rua romon-tol,mo naful rua romon-tol,[],,[],,False,False,,1
-nara1263-1-24-1,,nara1263-1,24,mo naful rua romon-fat,mo naful rua romon-fat,[],,[],,False,False,,1
-nara1263-1-25-1,,nara1263-1,25,mo naful rua romon-lima,mo naful rua romon-lima,[],,[],,False,False,,1
-nara1263-1-26-1,,nara1263-1,26,mo naful rua romon-lima-raf,mo naful rua romon-lima-raf,[],,[],,False,False,,1
-nara1263-1-27-1,,nara1263-1,27,mo naful rua romon-raf-rua,mo naful rua romon-raf-rua,[],,[],,False,False,,1
-nara1263-1-28-1,,nara1263-1,28,mo naful rua romon-raf-tol,mo naful rua romon-raf-tol,[],,[],,False,False,,1
-nara1263-1-29-1,,nara1263-1,29,mo naful rua romon-rapat,mo naful rua romon-rapat,[],,[],,False,False,,1
-nara1263-1-30-1,,nara1263-1,30,mo naful tol,mo naful tol,[],,[],,False,False,,1
-nara1263-1-40-1,,nara1263-1,40,mo naful fat,mo naful fat,[],,[],,False,False,,1
-nara1263-1-50-1,,nara1263-1,50,mo naful lima,mo naful lima,[],,[],,False,False,,1
-nara1263-1-60-1,,nara1263-1,60,mo naful lima-raf,mo naful lima-raf,[],,[],,False,False,,1
-nara1263-1-70-1,,nara1263-1,70,mo naful raf-rua,mo naful raf-rua,[],,[],,False,False,,1
-nara1263-1-80-1,,nara1263-1,80,mo naful raf-tol,mo naful raf-tol,[],,[],,False,False,,1
-nara1263-1-90-1,,nara1263-1,90,mo naful rapat,mo naful rapat,[],,[],,False,False,,1
-nara1263-1-100-1,,nara1263-1,100,mo laful mate,mo laful mate,[],,[],,False,False,,1
-nara1263-1-200-1,,nara1263-1,200,mo laful mo rua,mo laful mo rua,[],,[],,False,False,,1
-nara1263-1-1000-1,,nara1263-1,1000,tau mate,tau mate,[],,[],,False,False,,1
-nara1263-1-2000-1,,nara1263-1,2000,tau mo rua,tau mo rua,[],,[],,False,False,,1
+nara1263-1-1-1,,nara1263-1,1,mate,mate,[],,['chan2019'],,False,False,,1
+nara1263-1-2-1,,nara1263-1,2,mo rua,mo rua,[],,['chan2019'],,False,False,,1
+nara1263-1-3-1,,nara1263-1,3,mo tol,mo tol,[],,['chan2019'],,False,False,,1
+nara1263-1-4-1,,nara1263-1,4,mo fat,mo fat,[],,['chan2019'],,False,False,,1
+nara1263-1-5-1,,nara1263-1,5,mo lima,mo lima,[],,['chan2019'],,False,False,,1
+nara1263-1-6-1,,nara1263-1,6,mo lima-raf,mo lima-raf,[],( 5 + 1 ),['chan2019'],,False,False,,1
+nara1263-1-7-1,,nara1263-1,7,mo raf-rua,mo raf-rua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+nara1263-1-8-1,,nara1263-1,8,mo raf-tolu,mo raf-tolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+nara1263-1-9-1,,nara1263-1,9,mo rapat,mo rapat,[],( 5 + 4 ),['chan2019'],,False,False,,1
+nara1263-1-10-1,,nara1263-1,10,mo sanaful,mo sanaful,[],,['chan2019'],,False,False,,1
+nara1263-1-11-1,,nara1263-1,11,mo sanaful roman-mate,mo sanaful roman-mate,[],,['chan2019'],,False,False,,1
+nara1263-1-12-1,,nara1263-1,12,mo sanaful roman-rua,mo sanaful roman-rua,[],,['chan2019'],,False,False,,1
+nara1263-1-13-1,,nara1263-1,13,mo sanaful roman-tol,mo sanaful roman-tol,[],,['chan2019'],,False,False,,1
+nara1263-1-14-1,,nara1263-1,14,mo sanaful roman-fat,mo sanaful roman-fat,[],,['chan2019'],,False,False,,1
+nara1263-1-15-1,,nara1263-1,15,mo sanaful roman-lima,mo sanaful roman-lima,[],,['chan2019'],,False,False,,1
+nara1263-1-16-1,,nara1263-1,16,mo sanaful roman-lima-raf,mo sanaful roman-lima-raf,[],,['chan2019'],,False,False,,1
+nara1263-1-17-1,,nara1263-1,17,mo sanaful roman-raf-rua,mo sanaful roman-raf-rua,[],,['chan2019'],,False,False,,1
+nara1263-1-18-1,,nara1263-1,18,mo sanaful roman-raf-tol,mo sanaful roman-raf-tol,[],,['chan2019'],,False,False,,1
+nara1263-1-19-1,,nara1263-1,19,mo sanaful roman-rapat,mo sanaful roman-rapat,[],,['chan2019'],,False,False,,1
+nara1263-1-20-1,,nara1263-1,20,mo naful rua,mo naful rua,[],,['chan2019'],,False,False,,1
+nara1263-1-21-1,,nara1263-1,21,mo naful rua romon-mate,mo naful rua romon-mate,[],,['chan2019'],,False,False,,1
+nara1263-1-22-1,,nara1263-1,22,mo naful rua romon-rua,mo naful rua romon-rua,[],,['chan2019'],,False,False,,1
+nara1263-1-23-1,,nara1263-1,23,mo naful rua romon-tol,mo naful rua romon-tol,[],,['chan2019'],,False,False,,1
+nara1263-1-24-1,,nara1263-1,24,mo naful rua romon-fat,mo naful rua romon-fat,[],,['chan2019'],,False,False,,1
+nara1263-1-25-1,,nara1263-1,25,mo naful rua romon-lima,mo naful rua romon-lima,[],,['chan2019'],,False,False,,1
+nara1263-1-26-1,,nara1263-1,26,mo naful rua romon-lima-raf,mo naful rua romon-lima-raf,[],,['chan2019'],,False,False,,1
+nara1263-1-27-1,,nara1263-1,27,mo naful rua romon-raf-rua,mo naful rua romon-raf-rua,[],,['chan2019'],,False,False,,1
+nara1263-1-28-1,,nara1263-1,28,mo naful rua romon-raf-tol,mo naful rua romon-raf-tol,[],,['chan2019'],,False,False,,1
+nara1263-1-29-1,,nara1263-1,29,mo naful rua romon-rapat,mo naful rua romon-rapat,[],,['chan2019'],,False,False,,1
+nara1263-1-30-1,,nara1263-1,30,mo naful tol,mo naful tol,[],,['chan2019'],,False,False,,1
+nara1263-1-40-1,,nara1263-1,40,mo naful fat,mo naful fat,[],,['chan2019'],,False,False,,1
+nara1263-1-50-1,,nara1263-1,50,mo naful lima,mo naful lima,[],,['chan2019'],,False,False,,1
+nara1263-1-60-1,,nara1263-1,60,mo naful lima-raf,mo naful lima-raf,[],,['chan2019'],,False,False,,1
+nara1263-1-70-1,,nara1263-1,70,mo naful raf-rua,mo naful raf-rua,[],,['chan2019'],,False,False,,1
+nara1263-1-80-1,,nara1263-1,80,mo naful raf-tol,mo naful raf-tol,[],,['chan2019'],,False,False,,1
+nara1263-1-90-1,,nara1263-1,90,mo naful rapat,mo naful rapat,[],,['chan2019'],,False,False,,1
+nara1263-1-100-1,,nara1263-1,100,mo laful mate,mo laful mate,[],,['chan2019'],,False,False,,1
+nara1263-1-200-1,,nara1263-1,200,mo laful mo rua,mo laful mo rua,[],,['chan2019'],,False,False,,1
+nara1263-1-1000-1,,nara1263-1,1000,tau mate,tau mate,[],,['chan2019'],,False,False,,1
+nara1263-1-2000-1,,nara1263-1,2000,tau mo rua,tau mo rua,[],,['chan2019'],,False,False,,1

@@ -1,44 +1,44 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gudu1252-1-1-1,,gudu1252-1,1,tekʷè,tekʷè,[],,[],,False,False,,1
-gudu1252-1-1-2,,gudu1252-1,1,kitakʷè,kitakʷè,[],,[],,False,False,,1
-gudu1252-1-2-1,,gudu1252-1,2,mitsè,mitsè,[],,[],,False,False,,1
-gudu1252-1-3-1,,gudu1252-1,3,xəkərɗè,xəkərɗè,[],,[],,False,False,,1
-gudu1252-1-4-1,,gudu1252-1,4,ùfəɗè,ùfəɗè,[],,[],,False,False,,1
-gudu1252-1-5-1,,gudu1252-1,5,ɮɨ̀ɓè,ɮɨ̀ɓè,[],,[],,False,False,,1
-gudu1252-1-6-1,,gudu1252-1,6,ŋkʷaxè,ŋkʷaxè,[],,[],,False,False,,1
-gudu1252-1-7-1,,gudu1252-1,7,ùɗifè,ùɗifè,[],,[],,False,False,,1
-gudu1252-1-8-1,,gudu1252-1,8,tə̀ɣəsè,tə̀ɣəsè,[],,[],,False,False,,1
-gudu1252-1-9-1,,gudu1252-1,9,vaslambàɗè,vaslambàɗè,[],,[],,False,False,,1
-gudu1252-1-10-1,,gudu1252-1,10,kuləkè,kuləkè,[],,[],,False,False,,1
-gudu1252-1-11-1,,gudu1252-1,11,kula ta kitakʷè,kula ta kitakʷè,[],,[],,False,False,,1
-gudu1252-1-12-1,,gudu1252-1,12,kula ta mitsè,kula ta mitsè,[],,[],,False,False,,1
-gudu1252-1-13-1,,gudu1252-1,13,kula ta xəkərɗè,kula ta xəkərɗè,[],,[],,False,False,,1
-gudu1252-1-14-1,,gudu1252-1,14,kula ta ùfəɗè,kula ta ùfəɗè,[],,[],,False,False,,1
-gudu1252-1-15-1,,gudu1252-1,15,kula ta ɮɨ̀ɓè,kula ta ɮɨ̀ɓè,[],,[],,False,False,,1
-gudu1252-1-16-1,,gudu1252-1,16,kula ta ŋkʷaxè,kula ta ŋkʷaxè,[],,[],,False,False,,1
-gudu1252-1-17-1,,gudu1252-1,17,kula ta ùɗifè,kula ta ùɗifè,[],,[],,False,False,,1
-gudu1252-1-18-1,,gudu1252-1,18,kula ta tə̀ɣə̀sà,kula ta tə̀ɣə̀sà,[],,[],,False,False,,1
-gudu1252-1-19-1,,gudu1252-1,19,kula ta vaslambàɗè,kula ta vaslambàɗè,[],,[],,False,False,,1
-gudu1252-1-20-1,,gudu1252-1,20,kul mitsè,kul mitsè,[],,[],,False,False,,1
-gudu1252-1-21-1,,gudu1252-1,21,kul mits ɣə̀r f kitakʷè,kul mits ɣə̀r f kitakʷè,[],,[],,False,False,,1
-gudu1252-1-22-1,,gudu1252-1,22,kul mits ɣə̀r f mitsè,kul mits ɣə̀r f mitsè,[],,[],,False,False,,1
-gudu1252-1-23-1,,gudu1252-1,23,kul mits ɣə̀r f xəkərɗè,kul mits ɣə̀r f xəkərɗè,[],,[],,False,False,,1
-gudu1252-1-24-1,,gudu1252-1,24,kul mits ɣə̀r f ùfəɗè,kul mits ɣə̀r f ùfəɗè,[],,[],,False,False,,1
-gudu1252-1-25-1,,gudu1252-1,25,kul mits ɣə̀r f ɮɨ̀ɓè,kul mits ɣə̀r f ɮɨ̀ɓè,[],,[],,False,False,,1
-gudu1252-1-26-1,,gudu1252-1,26,kul mits ɣə̀r f ŋkʷaxè,kul mits ɣə̀r f ŋkʷaxè,[],,[],,False,False,,1
-gudu1252-1-27-1,,gudu1252-1,27,kul mits ɣə̀r f ùɗifè,kul mits ɣə̀r f ùɗifè,[],,[],,False,False,,1
-gudu1252-1-28-1,,gudu1252-1,28,kul mits ɣə̀r f tə̀ɣəsè,kul mits ɣə̀r f tə̀ɣəsè,[],,[],,False,False,,1
-gudu1252-1-29-1,,gudu1252-1,29,kul mits ɣə̀r f vaslambàɗè,kul mits ɣə̀r f vaslambàɗè,[],,[],,False,False,,1
-gudu1252-1-30-1,,gudu1252-1,30,kul xəkərɗè,kul xəkərɗè,[],,[],,False,False,,1
-gudu1252-1-40-1,,gudu1252-1,40,kul ùfəɗè,kul ùfəɗè,[],,[],,False,False,,1
-gudu1252-1-50-1,,gudu1252-1,50,kul ɮɨ̀ɓè,kul ɮɨ̀ɓè,[],,[],,False,False,,1
-gudu1252-1-60-1,,gudu1252-1,60,kul ŋkʷaxè,kul ŋkʷaxè,[],,[],,False,False,,1
-gudu1252-1-70-1,,gudu1252-1,70,kul ùɗifè,kul ùɗifè,[],,[],,False,False,,1
-gudu1252-1-80-1,,gudu1252-1,80,kul tə̀ɣəsè,kul tə̀ɣəsè,[],,[],,False,False,,1
-gudu1252-1-90-1,,gudu1252-1,90,kul vaslambàɗè,kul vaslambàɗè,[],,[],,False,False,,1
-gudu1252-1-100-1,,gudu1252-1,100,dərməkè,dərməkè,[],,[],,False,False,,1
-gudu1252-1-100-2,,gudu1252-1,100,dərmək kitakʷè,dərmək kitakʷè,[],,[],,False,False,,1
-gudu1252-1-200-1,,gudu1252-1,200,dərmək mitsè,dərmək mitsè,[],,[],,False,False,,1
-gudu1252-1-1000-1,,gudu1252-1,1000,dɨbu,dɨbu,[],,[],,False,False,,1
-gudu1252-1-1000-2,,gudu1252-1,1000,dɨb kitakʷè,dɨb kitakʷè,[],,[],,False,False,,1
-gudu1252-1-2000-1,,gudu1252-1,2000,dɨb mitsè,dɨb mitsè,[],,[],,False,False,,1
+gudu1252-1-1-1,,gudu1252-1,1,tekʷè,tekʷè,[],,['chan2019'],,False,False,,1
+gudu1252-1-1-2,,gudu1252-1,1,kitakʷè,kitakʷè,[],,['chan2019'],,False,False,,1
+gudu1252-1-2-1,,gudu1252-1,2,mitsè,mitsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-3-1,,gudu1252-1,3,xəkərɗè,xəkərɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-4-1,,gudu1252-1,4,ùfəɗè,ùfəɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-5-1,,gudu1252-1,5,ɮɨ̀ɓè,ɮɨ̀ɓè,[],,['chan2019'],,False,False,,1
+gudu1252-1-6-1,,gudu1252-1,6,ŋkʷaxè,ŋkʷaxè,[],,['chan2019'],,False,False,,1
+gudu1252-1-7-1,,gudu1252-1,7,ùɗifè,ùɗifè,[],,['chan2019'],,False,False,,1
+gudu1252-1-8-1,,gudu1252-1,8,tə̀ɣəsè,tə̀ɣəsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-9-1,,gudu1252-1,9,vaslambàɗè,vaslambàɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-10-1,,gudu1252-1,10,kuləkè,kuləkè,[],,['chan2019'],,False,False,,1
+gudu1252-1-11-1,,gudu1252-1,11,kula ta kitakʷè,kula ta kitakʷè,[],,['chan2019'],,False,False,,1
+gudu1252-1-12-1,,gudu1252-1,12,kula ta mitsè,kula ta mitsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-13-1,,gudu1252-1,13,kula ta xəkərɗè,kula ta xəkərɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-14-1,,gudu1252-1,14,kula ta ùfəɗè,kula ta ùfəɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-15-1,,gudu1252-1,15,kula ta ɮɨ̀ɓè,kula ta ɮɨ̀ɓè,[],,['chan2019'],,False,False,,1
+gudu1252-1-16-1,,gudu1252-1,16,kula ta ŋkʷaxè,kula ta ŋkʷaxè,[],,['chan2019'],,False,False,,1
+gudu1252-1-17-1,,gudu1252-1,17,kula ta ùɗifè,kula ta ùɗifè,[],,['chan2019'],,False,False,,1
+gudu1252-1-18-1,,gudu1252-1,18,kula ta tə̀ɣə̀sà,kula ta tə̀ɣə̀sà,[],,['chan2019'],,False,False,,1
+gudu1252-1-19-1,,gudu1252-1,19,kula ta vaslambàɗè,kula ta vaslambàɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-20-1,,gudu1252-1,20,kul mitsè,kul mitsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-21-1,,gudu1252-1,21,kul mits ɣə̀r f kitakʷè,kul mits ɣə̀r f kitakʷè,[],,['chan2019'],,False,False,,1
+gudu1252-1-22-1,,gudu1252-1,22,kul mits ɣə̀r f mitsè,kul mits ɣə̀r f mitsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-23-1,,gudu1252-1,23,kul mits ɣə̀r f xəkərɗè,kul mits ɣə̀r f xəkərɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-24-1,,gudu1252-1,24,kul mits ɣə̀r f ùfəɗè,kul mits ɣə̀r f ùfəɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-25-1,,gudu1252-1,25,kul mits ɣə̀r f ɮɨ̀ɓè,kul mits ɣə̀r f ɮɨ̀ɓè,[],,['chan2019'],,False,False,,1
+gudu1252-1-26-1,,gudu1252-1,26,kul mits ɣə̀r f ŋkʷaxè,kul mits ɣə̀r f ŋkʷaxè,[],,['chan2019'],,False,False,,1
+gudu1252-1-27-1,,gudu1252-1,27,kul mits ɣə̀r f ùɗifè,kul mits ɣə̀r f ùɗifè,[],,['chan2019'],,False,False,,1
+gudu1252-1-28-1,,gudu1252-1,28,kul mits ɣə̀r f tə̀ɣəsè,kul mits ɣə̀r f tə̀ɣəsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-29-1,,gudu1252-1,29,kul mits ɣə̀r f vaslambàɗè,kul mits ɣə̀r f vaslambàɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-30-1,,gudu1252-1,30,kul xəkərɗè,kul xəkərɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-40-1,,gudu1252-1,40,kul ùfəɗè,kul ùfəɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-50-1,,gudu1252-1,50,kul ɮɨ̀ɓè,kul ɮɨ̀ɓè,[],,['chan2019'],,False,False,,1
+gudu1252-1-60-1,,gudu1252-1,60,kul ŋkʷaxè,kul ŋkʷaxè,[],,['chan2019'],,False,False,,1
+gudu1252-1-70-1,,gudu1252-1,70,kul ùɗifè,kul ùɗifè,[],,['chan2019'],,False,False,,1
+gudu1252-1-80-1,,gudu1252-1,80,kul tə̀ɣəsè,kul tə̀ɣəsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-90-1,,gudu1252-1,90,kul vaslambàɗè,kul vaslambàɗè,[],,['chan2019'],,False,False,,1
+gudu1252-1-100-1,,gudu1252-1,100,dərməkè,dərməkè,[],,['chan2019'],,False,False,,1
+gudu1252-1-100-2,,gudu1252-1,100,dərmək kitakʷè,dərmək kitakʷè,[],,['chan2019'],,False,False,,1
+gudu1252-1-200-1,,gudu1252-1,200,dərmək mitsè,dərmək mitsè,[],,['chan2019'],,False,False,,1
+gudu1252-1-1000-1,,gudu1252-1,1000,dɨbu,dɨbu,[],,['chan2019'],,False,False,,1
+gudu1252-1-1000-2,,gudu1252-1,1000,dɨb kitakʷè,dɨb kitakʷè,[],,['chan2019'],,False,False,,1
+gudu1252-1-2000-1,,gudu1252-1,2000,dɨb mitsè,dɨb mitsè,[],,['chan2019'],,False,False,,1

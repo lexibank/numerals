@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-west2397-1-1-1,,west2397-1,1,mṳəj,mṳəj,[],,[],,False,False,,1
-west2397-1-2-1,,west2397-1,2,baal,baal,[],,[],,False,False,,1
-west2397-1-3-1,,west2397-1,3,paj,paj,[],,[],,False,False,,1
-west2397-1-4-1,,west2397-1,4,poon,poon,[],,[],,False,False,,1
-west2397-1-5-1,,west2397-1,5,səəŋ,səəŋ,[],,[],,False,False,,1
-west2397-1-6-1,,west2397-1,6,t.piat,t.piat,[],,[],,False,False,,1
-west2397-1-7-1,,west2397-1,7,t.pṳul,t.pṳul,[],,[],,False,False,,1
-west2397-1-8-1,,west2397-1,8,t.kṳal,t.kṳal,[],,[],,False,False,,1
-west2397-1-9-1,,west2397-1,9,t.ke̤eh,t.ke̤eh,[],,[],,False,False,,1
-west2397-1-10-1,,west2397-1,10,mṳəj ʔɲ.cit̤,mṳəj ʔɲ.cit̤,[],,[],,False,False,,1
-west2397-1-1000-1,,west2397-1,1000,pa̤n,pa̤n,[],,[],,False,False,,1
+west2397-1-1-1,,west2397-1,1,mṳəj,mṳəj,[],,['chan2019'],,False,False,,1
+west2397-1-2-1,,west2397-1,2,baal,baal,[],,['chan2019'],,False,False,,1
+west2397-1-3-1,,west2397-1,3,paj,paj,[],,['chan2019'],,False,False,,1
+west2397-1-4-1,,west2397-1,4,poon,poon,[],,['chan2019'],,False,False,,1
+west2397-1-5-1,,west2397-1,5,səəŋ,səəŋ,[],,['chan2019'],,False,False,,1
+west2397-1-6-1,,west2397-1,6,t.piat,t.piat,[],,['chan2019'],,False,False,,1
+west2397-1-7-1,,west2397-1,7,t.pṳul,t.pṳul,[],,['chan2019'],,False,False,,1
+west2397-1-8-1,,west2397-1,8,t.kṳal,t.kṳal,[],,['chan2019'],,False,False,,1
+west2397-1-9-1,,west2397-1,9,t.ke̤eh,t.ke̤eh,[],,['chan2019'],,False,False,,1
+west2397-1-10-1,,west2397-1,10,mṳəj ʔɲ.cit̤,mṳəj ʔɲ.cit̤,[],,['chan2019'],,False,False,,1
+west2397-1-1000-1,,west2397-1,1000,pa̤n,pa̤n,[],,['chan2019'],,False,False,,1

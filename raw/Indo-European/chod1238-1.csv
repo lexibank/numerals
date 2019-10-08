@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-chod1238-1-1-1,,chod1238-1,1,ek,ek,[],,[],,False,False,,1
-chod1238-1-2-1,,chod1238-1,2,be,be,[],,[],,False,False,,1
-chod1238-1-3-1,,chod1238-1,3,t̪in,t̪in,[],,[],,False,False,,1
-chod1238-1-4-1,,chod1238-1,4,t͡ʃaɾ,t͡ʃaɾ,[],,[],,False,False,,1
-chod1238-1-5-1,,chod1238-1,5,pãt͡ʃ,pãt͡ʃ,[],,[],,False,False,,1
-chod1238-1-6-1,,chod1238-1,6,t͡ʃʰə,t͡ʃʰə,[],,[],,False,False,,1
-chod1238-1-7-1,,chod1238-1,7,hat̪,hat̪,[],,[],,False,False,,1
-chod1238-1-8-1,,chod1238-1,8,aʈʰ,aʈʰ,[],,[],,False,False,,1
-chod1238-1-9-1,,chod1238-1,9,no,no,[],,[],,False,False,,1
-chod1238-1-10-1,,chod1238-1,10,d̪əhə,d̪əhə,[],,[],,False,False,,1
-chod1238-1-11-1,,chod1238-1,11,əgjər,əgjər,[],,[],,False,False,,1
-chod1238-1-12-1,,chod1238-1,12,bar,bar,[],,[],,False,False,,1
-chod1238-1-13-1,,chod1238-1,13,ter,ter,[],,[],,False,False,,1
-chod1238-1-14-1,,chod1238-1,14,t͡ʃʋud̪,t͡ʃʋud̪,[],,[],,False,False,,1
-chod1238-1-15-1,,chod1238-1,15,pənd̪ər,pənd̪ər,[],,[],,False,False,,1
-chod1238-1-16-1,,chod1238-1,16,hol,hol,[],,[],,False,False,,1
-chod1238-1-17-1,,chod1238-1,17,hət̪ər,hət̪ər,[],,[],,False,False,,1
-chod1238-1-18-1,,chod1238-1,18,əraɽ,əraɽ,[],,[],,False,False,,1
-chod1238-1-19-1,,chod1238-1,19,ogɜɳi,ogɜɳi,[],( 20 - 1),[],,False,False,,1
-chod1238-1-20-1,,chod1238-1,20,vihi,vihi,[],,[],,False,False,,1
-chod1238-1-21-1,,chod1238-1,21,ekvihi,ekvihi,[],,[],,False,False,,1
-chod1238-1-22-1,,chod1238-1,22,bavi,bavi,[],,[],,False,False,,1
-chod1238-1-23-1,,chod1238-1,23,t̪evi,t̪evi,[],,[],,False,False,,1
-chod1238-1-24-1,,chod1238-1,24,t͡ʃovi,t͡ʃovi,[],,[],,False,False,,1
-chod1238-1-25-1,,chod1238-1,25,pət͡ʃi,pət͡ʃi,[],,[],,False,False,,1
-chod1238-1-26-1,,chod1238-1,26,t͡ʃʰəvi,t͡ʃʰəvi,[],,[],,False,False,,1
-chod1238-1-27-1,,chod1238-1,27,hət̪avi,hət̪avi,[],,[],,False,False,,1
-chod1238-1-28-1,,chod1238-1,28,əʈʰavi,əʈʰavi,[],,[],,False,False,,1
-chod1238-1-29-1,,chod1238-1,29,ogɜɳtihi,ogɜɳtihi,[],( 30 - 1),[],,False,False,,1
-chod1238-1-30-1,,chod1238-1,30,tihi,tihi,[],,[],,False,False,,1
-chod1238-1-40-1,,chod1238-1,40,t͡ʃalihi,t͡ʃalihi,[],,[],,False,False,,1
-chod1238-1-50-1,,chod1238-1,50,pət͡ʃaha,pət͡ʃaha,[],,[],,False,False,,1
-chod1238-1-60-1,,chod1238-1,60,haʈʰ,haʈʰ,[],,[],,False,False,,1
-chod1238-1-70-1,,chod1238-1,70,hiter,hiter,[],,[],,False,False,,1
-chod1238-1-80-1,,chod1238-1,80,əhi,əhi,[],,[],,False,False,,1
-chod1238-1-90-1,,chod1238-1,90,neu,neu,[],,[],,False,False,,1
-chod1238-1-100-1,,chod1238-1,100,ek hɛ̃,ek hɛ̃,[],,[],,False,False,,1
-chod1238-1-200-1,,chod1238-1,200,bə hɛ̃,bə hɛ̃,[],,[],,False,False,,1
-chod1238-1-1000-1,,chod1238-1,1000,ek həzaɾ,ek həzaɾ,[],,[],,False,False,,1
-chod1238-1-2000-1,,chod1238-1,2000,bə həzaɾ,bə həzaɾ,[],,[],,False,False,,1
+chod1238-1-1-1,,chod1238-1,1,ek,ek,[],,['chan2019'],,False,False,,1
+chod1238-1-2-1,,chod1238-1,2,be,be,[],,['chan2019'],,False,False,,1
+chod1238-1-3-1,,chod1238-1,3,t̪in,t̪in,[],,['chan2019'],,False,False,,1
+chod1238-1-4-1,,chod1238-1,4,t͡ʃaɾ,t͡ʃaɾ,[],,['chan2019'],,False,False,,1
+chod1238-1-5-1,,chod1238-1,5,pãt͡ʃ,pãt͡ʃ,[],,['chan2019'],,False,False,,1
+chod1238-1-6-1,,chod1238-1,6,t͡ʃʰə,t͡ʃʰə,[],,['chan2019'],,False,False,,1
+chod1238-1-7-1,,chod1238-1,7,hat̪,hat̪,[],,['chan2019'],,False,False,,1
+chod1238-1-8-1,,chod1238-1,8,aʈʰ,aʈʰ,[],,['chan2019'],,False,False,,1
+chod1238-1-9-1,,chod1238-1,9,no,no,[],,['chan2019'],,False,False,,1
+chod1238-1-10-1,,chod1238-1,10,d̪əhə,d̪əhə,[],,['chan2019'],,False,False,,1
+chod1238-1-11-1,,chod1238-1,11,əgjər,əgjər,[],,['chan2019'],,False,False,,1
+chod1238-1-12-1,,chod1238-1,12,bar,bar,[],,['chan2019'],,False,False,,1
+chod1238-1-13-1,,chod1238-1,13,ter,ter,[],,['chan2019'],,False,False,,1
+chod1238-1-14-1,,chod1238-1,14,t͡ʃʋud̪,t͡ʃʋud̪,[],,['chan2019'],,False,False,,1
+chod1238-1-15-1,,chod1238-1,15,pənd̪ər,pənd̪ər,[],,['chan2019'],,False,False,,1
+chod1238-1-16-1,,chod1238-1,16,hol,hol,[],,['chan2019'],,False,False,,1
+chod1238-1-17-1,,chod1238-1,17,hət̪ər,hət̪ər,[],,['chan2019'],,False,False,,1
+chod1238-1-18-1,,chod1238-1,18,əraɽ,əraɽ,[],,['chan2019'],,False,False,,1
+chod1238-1-19-1,,chod1238-1,19,ogɜɳi,ogɜɳi,[],( 20 - 1),['chan2019'],,False,False,,1
+chod1238-1-20-1,,chod1238-1,20,vihi,vihi,[],,['chan2019'],,False,False,,1
+chod1238-1-21-1,,chod1238-1,21,ekvihi,ekvihi,[],,['chan2019'],,False,False,,1
+chod1238-1-22-1,,chod1238-1,22,bavi,bavi,[],,['chan2019'],,False,False,,1
+chod1238-1-23-1,,chod1238-1,23,t̪evi,t̪evi,[],,['chan2019'],,False,False,,1
+chod1238-1-24-1,,chod1238-1,24,t͡ʃovi,t͡ʃovi,[],,['chan2019'],,False,False,,1
+chod1238-1-25-1,,chod1238-1,25,pət͡ʃi,pət͡ʃi,[],,['chan2019'],,False,False,,1
+chod1238-1-26-1,,chod1238-1,26,t͡ʃʰəvi,t͡ʃʰəvi,[],,['chan2019'],,False,False,,1
+chod1238-1-27-1,,chod1238-1,27,hət̪avi,hət̪avi,[],,['chan2019'],,False,False,,1
+chod1238-1-28-1,,chod1238-1,28,əʈʰavi,əʈʰavi,[],,['chan2019'],,False,False,,1
+chod1238-1-29-1,,chod1238-1,29,ogɜɳtihi,ogɜɳtihi,[],( 30 - 1),['chan2019'],,False,False,,1
+chod1238-1-30-1,,chod1238-1,30,tihi,tihi,[],,['chan2019'],,False,False,,1
+chod1238-1-40-1,,chod1238-1,40,t͡ʃalihi,t͡ʃalihi,[],,['chan2019'],,False,False,,1
+chod1238-1-50-1,,chod1238-1,50,pət͡ʃaha,pət͡ʃaha,[],,['chan2019'],,False,False,,1
+chod1238-1-60-1,,chod1238-1,60,haʈʰ,haʈʰ,[],,['chan2019'],,False,False,,1
+chod1238-1-70-1,,chod1238-1,70,hiter,hiter,[],,['chan2019'],,False,False,,1
+chod1238-1-80-1,,chod1238-1,80,əhi,əhi,[],,['chan2019'],,False,False,,1
+chod1238-1-90-1,,chod1238-1,90,neu,neu,[],,['chan2019'],,False,False,,1
+chod1238-1-100-1,,chod1238-1,100,ek hɛ̃,ek hɛ̃,[],,['chan2019'],,False,False,,1
+chod1238-1-200-1,,chod1238-1,200,bə hɛ̃,bə hɛ̃,[],,['chan2019'],,False,False,,1
+chod1238-1-1000-1,,chod1238-1,1000,ek həzaɾ,ek həzaɾ,[],,['chan2019'],,False,False,,1
+chod1238-1-2000-1,,chod1238-1,2000,bə həzaɾ,bə həzaɾ,[],,['chan2019'],,False,False,,1

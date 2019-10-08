@@ -1,29 +1,29 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-savi1242-2-1-1,,savi1242-2,1,yʌk,yʌk,[],,[],,False,False,,2
-savi1242-2-1-2,,savi1242-2,1,jak,jak,[],,[],,False,False,,2
-savi1242-2-2-1,,savi1242-2,2,du,du,[],,[],,False,False,,2
-savi1242-2-3-1,,savi1242-2,3,tro,tro,[],,[],,False,False,,2
-savi1242-2-3-2,,savi1242-2,3,ɮoː,ɮoː,[],,[],,False,False,,2
-savi1242-2-4-1,,savi1242-2,4,t͡ʃor,t͡ʃor,[],,[],,False,False,,2
-savi1242-2-5-1,,savi1242-2,5,pãʒ,pãʒ,[],,[],,False,False,,2
-savi1242-2-5-2,,savi1242-2,5,paːnd͡ʒ,paːnd͡ʒ,[],,[],,False,False,,2
-savi1242-2-6-1,,savi1242-2,6,ʂo,ʂo,[],,[],,False,False,,2
-savi1242-2-7-1,,savi1242-2,7,satʰ,satʰ,[],,[],,False,False,,2
-savi1242-2-7-2,,savi1242-2,7,saːt,saːt,[],,[],,False,False,,2
-savi1242-2-8-1,,savi1242-2,8,aːʂ,aːʂ,[],,[],,False,False,,2
-savi1242-2-9-1,,savi1242-2,9,ɳũ,ɳũ,[],,[],,False,False,,2
-savi1242-2-9-2,,savi1242-2,9,nũ,nũ,[],,[],,False,False,,2
-savi1242-2-10-1,,savi1242-2,10,dɛʃ,dɛʃ,[],,[],,False,False,,2
-savi1242-2-10-2,,savi1242-2,10,dɑːʃ,dɑːʃ,[],,[],,False,False,,2
-savi1242-2-11-1,,savi1242-2,11,yʌkoʃ,yʌkoʃ,[],,[],,False,False,,2
-savi1242-2-11-2,,savi1242-2,11,yakoʃ,yakoʃ,[],,[],,False,False,,2
-savi1242-2-12-1,,savi1242-2,12,boʃ,boʃ,[],,[],,False,False,,2
-savi1242-2-13-1,,savi1242-2,13,troinʃ,troinʃ,[],,[],,False,False,,2
-savi1242-2-14-1,,savi1242-2,14,t͡ʃediʃ,t͡ʃediʃ,[],,[],,False,False,,2
-savi1242-2-15-1,,savi1242-2,15,pand͡ʒiʃ,pand͡ʒiʃ,[],,[],,False,False,,2
-savi1242-2-16-1,,savi1242-2,16,ʂolaʃ,ʂolaʃ,[],,[],,False,False,,2
-savi1242-2-17-1,,savi1242-2,17,satioiʃ,satioiʃ,[],,[],,False,False,,2
-savi1242-2-18-1,,savi1242-2,18,aʂtioʃ,aʂtioʃ,[],,[],,False,False,,2
-savi1242-2-19-1,,savi1242-2,19,uɳiʃ,uɳiʃ,[],( 20 - 1),[],,False,False,,2
-savi1242-2-20-1,,savi1242-2,20,biʃ,biʃ,[],,[],,False,False,,2
-savi1242-2-100-1,,savi1242-2,100,pãʒ biʃa,pãʒ biʃa,[],( 5 x 20),[],,False,False,,2
+savi1242-2-1-1,,savi1242-2,1,yʌk,yʌk,[],,['chan2019'],,False,False,,2
+savi1242-2-1-2,,savi1242-2,1,jak,jak,[],,['chan2019'],,False,False,,2
+savi1242-2-2-1,,savi1242-2,2,du,du,[],,['chan2019'],,False,False,,2
+savi1242-2-3-1,,savi1242-2,3,tro,tro,[],,['chan2019'],,False,False,,2
+savi1242-2-3-2,,savi1242-2,3,ɮoː,ɮoː,[],,['chan2019'],,False,False,,2
+savi1242-2-4-1,,savi1242-2,4,t͡ʃor,t͡ʃor,[],,['chan2019'],,False,False,,2
+savi1242-2-5-1,,savi1242-2,5,pãʒ,pãʒ,[],,['chan2019'],,False,False,,2
+savi1242-2-5-2,,savi1242-2,5,paːnd͡ʒ,paːnd͡ʒ,[],,['chan2019'],,False,False,,2
+savi1242-2-6-1,,savi1242-2,6,ʂo,ʂo,[],,['chan2019'],,False,False,,2
+savi1242-2-7-1,,savi1242-2,7,satʰ,satʰ,[],,['chan2019'],,False,False,,2
+savi1242-2-7-2,,savi1242-2,7,saːt,saːt,[],,['chan2019'],,False,False,,2
+savi1242-2-8-1,,savi1242-2,8,aːʂ,aːʂ,[],,['chan2019'],,False,False,,2
+savi1242-2-9-1,,savi1242-2,9,ɳũ,ɳũ,[],,['chan2019'],,False,False,,2
+savi1242-2-9-2,,savi1242-2,9,nũ,nũ,[],,['chan2019'],,False,False,,2
+savi1242-2-10-1,,savi1242-2,10,dɛʃ,dɛʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-10-2,,savi1242-2,10,dɑːʃ,dɑːʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-11-1,,savi1242-2,11,yʌkoʃ,yʌkoʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-11-2,,savi1242-2,11,yakoʃ,yakoʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-12-1,,savi1242-2,12,boʃ,boʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-13-1,,savi1242-2,13,troinʃ,troinʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-14-1,,savi1242-2,14,t͡ʃediʃ,t͡ʃediʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-15-1,,savi1242-2,15,pand͡ʒiʃ,pand͡ʒiʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-16-1,,savi1242-2,16,ʂolaʃ,ʂolaʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-17-1,,savi1242-2,17,satioiʃ,satioiʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-18-1,,savi1242-2,18,aʂtioʃ,aʂtioʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-19-1,,savi1242-2,19,uɳiʃ,uɳiʃ,[],( 20 - 1),['chan2019'],,False,False,,2
+savi1242-2-20-1,,savi1242-2,20,biʃ,biʃ,[],,['chan2019'],,False,False,,2
+savi1242-2-100-1,,savi1242-2,100,pãʒ biʃa,pãʒ biʃa,[],( 5 x 20),['chan2019'],,False,False,,2

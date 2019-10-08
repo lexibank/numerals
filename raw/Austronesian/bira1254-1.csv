@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bira1254-1-1-1,,bira1254-1,1,tʃika,tʃika,[],,[],,False,False,,1
-bira1254-1-1-2,,bira1254-1,1,tʃikai,tʃikai,[],,[],,False,False,,1
-bira1254-1-2-1,,bira1254-1,2,ruka,ruka,[],,[],,False,False,,1
-bira1254-1-3-1,,bira1254-1,3,tɔlu,tɔlu,[],,[],,False,False,,1
-bira1254-1-4-1,,bira1254-1,4,vati,vati,[],,[],,False,False,,1
-bira1254-1-5-1,,bira1254-1,5,lima,lima,[],,[],,False,False,,1
-bira1254-1-6-1,,bira1254-1,6,ɔnɔ,ɔnɔ,[],,[],,False,False,,1
-bira1254-1-7-1,,bira1254-1,7,vitu,vitu,[],,[],,False,False,,1
-bira1254-1-8-1,,bira1254-1,8,alu,alu,[],,[],,False,False,,1
-bira1254-1-9-1,,bira1254-1,9,siu,siu,[],,[],,False,False,,1
-bira1254-1-10-1,,bira1254-1,10,(tʃika) saŋavulu,(tʃika) saŋavulu,[],,[],,False,False,,1
-bira1254-1-11-1,,bira1254-1,11,(tʃika) saŋavulu,(tʃika) saŋavulu,[],(tʃika),[],,False,False,,1
-bira1254-1-12-1,,bira1254-1,12,(tʃika) saŋavulu ruka,(tʃika) saŋavulu ruka,[],,[],,False,False,,1
-bira1254-1-13-1,,bira1254-1,13,(tʃika) saŋavulu tɔlu,(tʃika) saŋavulu tɔlu,[],,[],,False,False,,1
-bira1254-1-14-1,,bira1254-1,14,(tʃika) saŋavulu vati,(tʃika) saŋavulu vati,[],,[],,False,False,,1
-bira1254-1-15-1,,bira1254-1,15,(tʃika) saŋavulu lima,(tʃika) saŋavulu lima,[],,[],,False,False,,1
-bira1254-1-16-1,,bira1254-1,16,(tʃika) saŋavulu ɔnɔ,(tʃika) saŋavulu ɔnɔ,[],,[],,False,False,,1
-bira1254-1-17-1,,bira1254-1,17,(tʃika) saŋavulu vitu,(tʃika) saŋavulu vitu,[],,[],,False,False,,1
-bira1254-1-18-1,,bira1254-1,18,(tʃika) saŋavulu alu,(tʃika) saŋavulu alu,[],,[],,False,False,,1
-bira1254-1-19-1,,bira1254-1,19,(tʃika) saŋavulu siu,(tʃika) saŋavulu siu,[],,[],,False,False,,1
-bira1254-1-20-1,,bira1254-1,20,ruka saŋavulu,ruka saŋavulu,[],,[],,False,False,,1
-bira1254-1-21-1,,bira1254-1,21,ruka saŋavulu tʃika,ruka saŋavulu tʃika,[],,[],,False,False,,1
-bira1254-1-22-1,,bira1254-1,22,ruka saŋavulu ruka,ruka saŋavulu ruka,[],,[],,False,False,,1
-bira1254-1-23-1,,bira1254-1,23,ruka saŋavulu tɔlu,ruka saŋavulu tɔlu,[],,[],,False,False,,1
-bira1254-1-24-1,,bira1254-1,24,ruka saŋavulu vati,ruka saŋavulu vati,[],,[],,False,False,,1
-bira1254-1-25-1,,bira1254-1,25,ruka saŋavulu lima,ruka saŋavulu lima,[],,[],,False,False,,1
-bira1254-1-26-1,,bira1254-1,26,ruka saŋavulu ɔnɔ,ruka saŋavulu ɔnɔ,[],,[],,False,False,,1
-bira1254-1-27-1,,bira1254-1,27,ruka saŋavulu vitu,ruka saŋavulu vitu,[],,[],,False,False,,1
-bira1254-1-28-1,,bira1254-1,28,ruka saŋavulu alu,ruka saŋavulu alu,[],,[],,False,False,,1
-bira1254-1-29-1,,bira1254-1,29,ruka saŋavulu siu,ruka saŋavulu siu,[],,[],,False,False,,1
-bira1254-1-30-1,,bira1254-1,30,tɔlu saŋavulu,tɔlu saŋavulu,[],,[],,False,False,,1
-bira1254-1-40-1,,bira1254-1,40,vati saŋavulu,vati saŋavulu,[],,[],,False,False,,1
-bira1254-1-50-1,,bira1254-1,50,lima saŋavulu,lima saŋavulu,[],,[],,False,False,,1
-bira1254-1-60-1,,bira1254-1,60,ɔnɔsaŋavulu,ɔnɔsaŋavulu,[],,[],,False,False,,1
-bira1254-1-70-1,,bira1254-1,70,vitu saŋavulu,vitu saŋavulu,[],,[],,False,False,,1
-bira1254-1-80-1,,bira1254-1,80,alu saŋavulu,alu saŋavulu,[],,[],,False,False,,1
-bira1254-1-90-1,,bira1254-1,90,siu saŋavulu,siu saŋavulu,[],,[],,False,False,,1
-bira1254-1-100-1,,bira1254-1,100,(tʃika) saŋatu,(tʃika) saŋatu,[],,[],,False,False,,1
-bira1254-1-200-1,,bira1254-1,200,ruka saŋatu,ruka saŋatu,[],,[],,False,False,,1
-bira1254-1-1000-1,,bira1254-1,1000,(tʃika) tɔɣa,(tʃika) tɔɣa,[],,[],,False,False,,1
-bira1254-1-2000-1,,bira1254-1,2000,ruka tɔɣa,ruka tɔɣa,[],,[],,False,False,,1
+bira1254-1-1-1,,bira1254-1,1,tʃika,tʃika,[],,['chan2019'],,False,False,,1
+bira1254-1-1-2,,bira1254-1,1,tʃikai,tʃikai,[],,['chan2019'],,False,False,,1
+bira1254-1-2-1,,bira1254-1,2,ruka,ruka,[],,['chan2019'],,False,False,,1
+bira1254-1-3-1,,bira1254-1,3,tɔlu,tɔlu,[],,['chan2019'],,False,False,,1
+bira1254-1-4-1,,bira1254-1,4,vati,vati,[],,['chan2019'],,False,False,,1
+bira1254-1-5-1,,bira1254-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+bira1254-1-6-1,,bira1254-1,6,ɔnɔ,ɔnɔ,[],,['chan2019'],,False,False,,1
+bira1254-1-7-1,,bira1254-1,7,vitu,vitu,[],,['chan2019'],,False,False,,1
+bira1254-1-8-1,,bira1254-1,8,alu,alu,[],,['chan2019'],,False,False,,1
+bira1254-1-9-1,,bira1254-1,9,siu,siu,[],,['chan2019'],,False,False,,1
+bira1254-1-10-1,,bira1254-1,10,(tʃika) saŋavulu,(tʃika) saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-11-1,,bira1254-1,11,(tʃika) saŋavulu,(tʃika) saŋavulu,[],(tʃika),['chan2019'],,False,False,,1
+bira1254-1-12-1,,bira1254-1,12,(tʃika) saŋavulu ruka,(tʃika) saŋavulu ruka,[],,['chan2019'],,False,False,,1
+bira1254-1-13-1,,bira1254-1,13,(tʃika) saŋavulu tɔlu,(tʃika) saŋavulu tɔlu,[],,['chan2019'],,False,False,,1
+bira1254-1-14-1,,bira1254-1,14,(tʃika) saŋavulu vati,(tʃika) saŋavulu vati,[],,['chan2019'],,False,False,,1
+bira1254-1-15-1,,bira1254-1,15,(tʃika) saŋavulu lima,(tʃika) saŋavulu lima,[],,['chan2019'],,False,False,,1
+bira1254-1-16-1,,bira1254-1,16,(tʃika) saŋavulu ɔnɔ,(tʃika) saŋavulu ɔnɔ,[],,['chan2019'],,False,False,,1
+bira1254-1-17-1,,bira1254-1,17,(tʃika) saŋavulu vitu,(tʃika) saŋavulu vitu,[],,['chan2019'],,False,False,,1
+bira1254-1-18-1,,bira1254-1,18,(tʃika) saŋavulu alu,(tʃika) saŋavulu alu,[],,['chan2019'],,False,False,,1
+bira1254-1-19-1,,bira1254-1,19,(tʃika) saŋavulu siu,(tʃika) saŋavulu siu,[],,['chan2019'],,False,False,,1
+bira1254-1-20-1,,bira1254-1,20,ruka saŋavulu,ruka saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-21-1,,bira1254-1,21,ruka saŋavulu tʃika,ruka saŋavulu tʃika,[],,['chan2019'],,False,False,,1
+bira1254-1-22-1,,bira1254-1,22,ruka saŋavulu ruka,ruka saŋavulu ruka,[],,['chan2019'],,False,False,,1
+bira1254-1-23-1,,bira1254-1,23,ruka saŋavulu tɔlu,ruka saŋavulu tɔlu,[],,['chan2019'],,False,False,,1
+bira1254-1-24-1,,bira1254-1,24,ruka saŋavulu vati,ruka saŋavulu vati,[],,['chan2019'],,False,False,,1
+bira1254-1-25-1,,bira1254-1,25,ruka saŋavulu lima,ruka saŋavulu lima,[],,['chan2019'],,False,False,,1
+bira1254-1-26-1,,bira1254-1,26,ruka saŋavulu ɔnɔ,ruka saŋavulu ɔnɔ,[],,['chan2019'],,False,False,,1
+bira1254-1-27-1,,bira1254-1,27,ruka saŋavulu vitu,ruka saŋavulu vitu,[],,['chan2019'],,False,False,,1
+bira1254-1-28-1,,bira1254-1,28,ruka saŋavulu alu,ruka saŋavulu alu,[],,['chan2019'],,False,False,,1
+bira1254-1-29-1,,bira1254-1,29,ruka saŋavulu siu,ruka saŋavulu siu,[],,['chan2019'],,False,False,,1
+bira1254-1-30-1,,bira1254-1,30,tɔlu saŋavulu,tɔlu saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-40-1,,bira1254-1,40,vati saŋavulu,vati saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-50-1,,bira1254-1,50,lima saŋavulu,lima saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-60-1,,bira1254-1,60,ɔnɔsaŋavulu,ɔnɔsaŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-70-1,,bira1254-1,70,vitu saŋavulu,vitu saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-80-1,,bira1254-1,80,alu saŋavulu,alu saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-90-1,,bira1254-1,90,siu saŋavulu,siu saŋavulu,[],,['chan2019'],,False,False,,1
+bira1254-1-100-1,,bira1254-1,100,(tʃika) saŋatu,(tʃika) saŋatu,[],,['chan2019'],,False,False,,1
+bira1254-1-200-1,,bira1254-1,200,ruka saŋatu,ruka saŋatu,[],,['chan2019'],,False,False,,1
+bira1254-1-1000-1,,bira1254-1,1000,(tʃika) tɔɣa,(tʃika) tɔɣa,[],,['chan2019'],,False,False,,1
+bira1254-1-2000-1,,bira1254-1,2000,ruka tɔɣa,ruka tɔɣa,[],,['chan2019'],,False,False,,1

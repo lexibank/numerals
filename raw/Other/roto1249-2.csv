@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-roto1249-2-1-1,,roto1249-2,1,katai,katai,[],,[],,False,False,,2
-roto1249-2-2-1,,roto1249-2,2,eɾao,eɾao,[],,[],,False,False,,2
-roto1249-2-3-1,,roto1249-2,3,(βo)peβa,(βo)peβa,[],,[],,False,False,,2
-roto1249-2-4-1,,roto1249-2,4,(βo)ɾesiuɾa,(βo)ɾesiuɾa,[],,[],,False,False,,2
-roto1249-2-5-1,,roto1249-2,5,(βo)βaβae,(βo)βaβae,[],,[],,False,False,,2
-roto1249-2-6-1,,roto1249-2,6,katai βataɾa,katai βataɾa,[],,[],,False,False,,2
-roto1249-2-7-1,,roto1249-2,7,eɾao βataɾa,eɾao βataɾa,[],,[],,False,False,,2
-roto1249-2-8-1,,roto1249-2,8,(βo)peβa βataɾa,(βo)peβa βataɾa,[],,[],,False,False,,2
-roto1249-2-9-1,,roto1249-2,9,(βo)ɾesiuɾa βataɾa,(βo)ɾesiuɾa βataɾa,[],,[],,False,False,,2
-roto1249-2-10-1,,roto1249-2,10,katai tau,katai tau,[],,[],,False,False,,2
-roto1249-2-11-1,,roto1249-2,11,katai tau katai,katai tau katai,[],,[],,False,False,,2
-roto1249-2-12-1,,roto1249-2,12,katai tau eɾao,katai tau eɾao,[],,[],,False,False,,2
-roto1249-2-13-1,,roto1249-2,13,katai tau βopeβa,katai tau βopeβa,[],,[],,False,False,,2
-roto1249-2-14-1,,roto1249-2,14,katai tau βoɾesiuɾa,katai tau βoɾesiuɾa,[],,[],,False,False,,2
-roto1249-2-15-1,,roto1249-2,15,katai tau βoβaβae,katai tau βoβaβae,[],,[],,False,False,,2
-roto1249-2-16-1,,roto1249-2,16,katai tau katai βataɾa,katai tau katai βataɾa,[],,[],,False,False,,2
-roto1249-2-17-1,,roto1249-2,17,katai tau eɾao βataɾa,katai tau eɾao βataɾa,[],,[],,False,False,,2
-roto1249-2-18-1,,roto1249-2,18,katai tau βopeβa βataɾa,katai tau βopeβa βataɾa,[],,[],,False,False,,2
-roto1249-2-19-1,,roto1249-2,19,katai tau βoɾesiuɾa βataɾa,katai tau βoɾesiuɾa βataɾa,[],,[],,False,False,,2
-roto1249-2-20-1,,roto1249-2,20,eɾao tau,eɾao tau,[],,[],,False,False,,2
-roto1249-2-21-1,,roto1249-2,21,eɾao tau katai,eɾao tau katai,[],,[],,False,False,,2
-roto1249-2-22-1,,roto1249-2,22,eɾao tau eɾao,eɾao tau eɾao,[],,[],,False,False,,2
-roto1249-2-23-1,,roto1249-2,23,eɾao tau βopeβa,eɾao tau βopeβa,[],,[],,False,False,,2
-roto1249-2-24-1,,roto1249-2,24,eɾao tau βoɾesiuɾa,eɾao tau βoɾesiuɾa,[],,[],,False,False,,2
-roto1249-2-25-1,,roto1249-2,25,eɾao tau βoβaβae,eɾao tau βoβaβae,[],,[],,False,False,,2
-roto1249-2-26-1,,roto1249-2,26,eɾao tau katai βataɾa,eɾao tau katai βataɾa,[],,[],,False,False,,2
-roto1249-2-27-1,,roto1249-2,27,eɾao tau eɾao βataɾa,eɾao tau eɾao βataɾa,[],,[],,False,False,,2
-roto1249-2-28-1,,roto1249-2,28,eɾao tau βopeβa βataɾa,eɾao tau βopeβa βataɾa,[],,[],,False,False,,2
-roto1249-2-29-1,,roto1249-2,29,eɾao tau βoɾesiuɾa βataɾa,eɾao tau βoɾesiuɾa βataɾa,[],,[],,False,False,,2
-roto1249-2-30-1,,roto1249-2,30,βopeβa tau,βopeβa tau,[],,[],,False,False,,2
-roto1249-2-40-1,,roto1249-2,40,βoɾesiuɾa tau,βoɾesiuɾa tau,[],,[],,False,False,,2
-roto1249-2-50-1,,roto1249-2,50,βoβaβae tau,βoβaβae tau,[],,[],,False,False,,2
-roto1249-2-60-1,,roto1249-2,60,katai βataɾa tau,katai βataɾa tau,[],,[],,False,False,,2
-roto1249-2-70-1,,roto1249-2,70,eɾao βataɾa tau,eɾao βataɾa tau,[],,[],,False,False,,2
-roto1249-2-80-1,,roto1249-2,80,βopeβa βataɾa tau,βopeβa βataɾa tau,[],,[],,False,False,,2
-roto1249-2-90-1,,roto1249-2,90,βoɾesiuɾa βataɾa tau,βoɾesiuɾa βataɾa tau,[],,[],,False,False,,2
-roto1249-2-100-1,,roto1249-2,100,katai βoβota,katai βoβota,[],,[],,False,False,,2
-roto1249-2-200-1,,roto1249-2,200,eɾao βoβota,eɾao βoβota,[],,[],,False,False,,2
-roto1249-2-1000-1,,roto1249-2,1000,katai kuku,katai kuku,[],,[],,False,False,,2
-roto1249-2-2000-1,,roto1249-2,2000,eɾao kuku,eɾao kuku,[],,[],,False,False,,2
+roto1249-2-1-1,,roto1249-2,1,katai,katai,[],,['chan2019'],,False,False,,2
+roto1249-2-2-1,,roto1249-2,2,eɾao,eɾao,[],,['chan2019'],,False,False,,2
+roto1249-2-3-1,,roto1249-2,3,(βo)peβa,(βo)peβa,[],,['chan2019'],,False,False,,2
+roto1249-2-4-1,,roto1249-2,4,(βo)ɾesiuɾa,(βo)ɾesiuɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-5-1,,roto1249-2,5,(βo)βaβae,(βo)βaβae,[],,['chan2019'],,False,False,,2
+roto1249-2-6-1,,roto1249-2,6,katai βataɾa,katai βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-7-1,,roto1249-2,7,eɾao βataɾa,eɾao βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-8-1,,roto1249-2,8,(βo)peβa βataɾa,(βo)peβa βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-9-1,,roto1249-2,9,(βo)ɾesiuɾa βataɾa,(βo)ɾesiuɾa βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-10-1,,roto1249-2,10,katai tau,katai tau,[],,['chan2019'],,False,False,,2
+roto1249-2-11-1,,roto1249-2,11,katai tau katai,katai tau katai,[],,['chan2019'],,False,False,,2
+roto1249-2-12-1,,roto1249-2,12,katai tau eɾao,katai tau eɾao,[],,['chan2019'],,False,False,,2
+roto1249-2-13-1,,roto1249-2,13,katai tau βopeβa,katai tau βopeβa,[],,['chan2019'],,False,False,,2
+roto1249-2-14-1,,roto1249-2,14,katai tau βoɾesiuɾa,katai tau βoɾesiuɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-15-1,,roto1249-2,15,katai tau βoβaβae,katai tau βoβaβae,[],,['chan2019'],,False,False,,2
+roto1249-2-16-1,,roto1249-2,16,katai tau katai βataɾa,katai tau katai βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-17-1,,roto1249-2,17,katai tau eɾao βataɾa,katai tau eɾao βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-18-1,,roto1249-2,18,katai tau βopeβa βataɾa,katai tau βopeβa βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-19-1,,roto1249-2,19,katai tau βoɾesiuɾa βataɾa,katai tau βoɾesiuɾa βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-20-1,,roto1249-2,20,eɾao tau,eɾao tau,[],,['chan2019'],,False,False,,2
+roto1249-2-21-1,,roto1249-2,21,eɾao tau katai,eɾao tau katai,[],,['chan2019'],,False,False,,2
+roto1249-2-22-1,,roto1249-2,22,eɾao tau eɾao,eɾao tau eɾao,[],,['chan2019'],,False,False,,2
+roto1249-2-23-1,,roto1249-2,23,eɾao tau βopeβa,eɾao tau βopeβa,[],,['chan2019'],,False,False,,2
+roto1249-2-24-1,,roto1249-2,24,eɾao tau βoɾesiuɾa,eɾao tau βoɾesiuɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-25-1,,roto1249-2,25,eɾao tau βoβaβae,eɾao tau βoβaβae,[],,['chan2019'],,False,False,,2
+roto1249-2-26-1,,roto1249-2,26,eɾao tau katai βataɾa,eɾao tau katai βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-27-1,,roto1249-2,27,eɾao tau eɾao βataɾa,eɾao tau eɾao βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-28-1,,roto1249-2,28,eɾao tau βopeβa βataɾa,eɾao tau βopeβa βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-29-1,,roto1249-2,29,eɾao tau βoɾesiuɾa βataɾa,eɾao tau βoɾesiuɾa βataɾa,[],,['chan2019'],,False,False,,2
+roto1249-2-30-1,,roto1249-2,30,βopeβa tau,βopeβa tau,[],,['chan2019'],,False,False,,2
+roto1249-2-40-1,,roto1249-2,40,βoɾesiuɾa tau,βoɾesiuɾa tau,[],,['chan2019'],,False,False,,2
+roto1249-2-50-1,,roto1249-2,50,βoβaβae tau,βoβaβae tau,[],,['chan2019'],,False,False,,2
+roto1249-2-60-1,,roto1249-2,60,katai βataɾa tau,katai βataɾa tau,[],,['chan2019'],,False,False,,2
+roto1249-2-70-1,,roto1249-2,70,eɾao βataɾa tau,eɾao βataɾa tau,[],,['chan2019'],,False,False,,2
+roto1249-2-80-1,,roto1249-2,80,βopeβa βataɾa tau,βopeβa βataɾa tau,[],,['chan2019'],,False,False,,2
+roto1249-2-90-1,,roto1249-2,90,βoɾesiuɾa βataɾa tau,βoɾesiuɾa βataɾa tau,[],,['chan2019'],,False,False,,2
+roto1249-2-100-1,,roto1249-2,100,katai βoβota,katai βoβota,[],,['chan2019'],,False,False,,2
+roto1249-2-200-1,,roto1249-2,200,eɾao βoβota,eɾao βoβota,[],,['chan2019'],,False,False,,2
+roto1249-2-1000-1,,roto1249-2,1000,katai kuku,katai kuku,[],,['chan2019'],,False,False,,2
+roto1249-2-2000-1,,roto1249-2,2000,eɾao kuku,eɾao kuku,[],,['chan2019'],,False,False,,2

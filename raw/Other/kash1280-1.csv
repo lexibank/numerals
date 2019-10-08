@@ -1,31 +1,31 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kash1280-1-1-1,,kash1280-1,1,ku,ku,[],,[],,False,False,,1
-kash1280-1-2-1,,kash1280-1,2,qʰo:,qʰo:,[],,[],,False,False,,1
-kash1280-1-3-1,,kash1280-1,3,sibo,sibo,[],,[],,False,False,,1
-kash1280-1-4-1,,kash1280-1,4,mintʃa,mintʃa,[],,[],,False,False,,1
-kash1280-1-5-1,,kash1280-1,5,t̩uhʃo,t̩uhʃo,[],,[],,False,False,,1
-kash1280-1-6-1,,kash1280-1,6,lanhtʃʼa,lanhtʃʼa,[],,[],,False,False,,1
-kash1280-1-7-1,,kash1280-1,7,lanʰkʰo,lanʰkʰo,[],,[],,False,False,,1
-kash1280-1-8-1,,kash1280-1,8,kʰomʰtʃa,kʰomʰtʃa,[],,[],,False,False,,1
-kash1280-1-9-1,,kash1280-1,9,tʃʼaʔtʃʰo,tʃʼaʔtʃʰo,[],,[],,False,False,,1
-kash1280-1-10-1,,kash1280-1,10,tʃʼa ʃot̩ʼo,tʃʼa ʃot̩ʼo,[],,[],,False,False,,1
-kash1280-1-11-1,,kash1280-1,11,naːntʃʼa,naːntʃʼa,[],,[],,False,False,,1
-kash1280-1-12-1,,kash1280-1,12,naːqʰo,naːqʰo,[],[litː ''(ten) plus two''],[],,False,False,,1
-kash1280-1-13-1,,kash1280-1,13,naːsibo,naːsibo,[],[litː ''three on (ten) ],[],,False,False,,1
-kash1280-1-14-1,,kash1280-1,14,simʰma ʃon,simʰma ʃon,[],,[],,False,False,,1
-kash1280-1-15-1,,kash1280-1,15,simʰma,simʰma,[],,[],,False,False,,1
-kash1280-1-16-1,,kash1280-1,16,simʰma naːntʃʼa,simʰma naːntʃʼa,[],,[],,False,False,,1
-kash1280-1-17-1,,kash1280-1,17,simʰma naːqʰo,simʰma naːqʰo,[],,[],,False,False,,1
-kash1280-1-18-1,,kash1280-1,18,simʰma naːsibo,simʰma naːsibo,[],,[],,False,False,,1
-kash1280-1-19-1,,kash1280-1,19,camhma ʃon,camhma ʃon,[],,[],,False,False,,1
-kash1280-1-20-1,,kash1280-1,20,tʃamʰma,tʃamʰma,[],,[],,False,False,,1
-kash1280-1-25-1,,kash1280-1,25,t̩uhʃomʰma,t̩uhʃomʰma,[],,[],,False,False,,1
-kash1280-1-30-1,,kash1280-1,30,lanʰtʃʼamʰma,lanʰtʃʼamʰma,[],,[],,False,False,,1
-kash1280-1-40-1,,kash1280-1,40,kuhay,kuhay,[],( ''one stick'' ),[],,False,False,,1
-kash1280-1-50-1,,kash1280-1,50,ʃot̩ʼomʰma,ʃot̩ʼomʰma,[],( ''ten fives'' ),[],,False,False,,1
-kash1280-1-80-1,,kash1280-1,80,qʰohay,qʰohay,[],( ''two sticks'' ),[],,False,False,,1
-kash1280-1-100-1,,kash1280-1,100,qʰoʃotʼomʰma,qʰoʃotʼomʰma,[],( ''two fifties''),[],,False,False,,1
-kash1280-1-100-2,,kash1280-1,100,ku seːntu,ku seːntu,[],,[],,False,False,,1
-kash1280-1-200-1,,kash1280-1,200,qʰo seːntu,qʰo seːntu,[],,[],,False,False,,1
-kash1280-1-1000-1,,kash1280-1,1000,miːl,miːl,[],( < Spanish ''mil''),[],,True,False,,1
-kash1280-1-2000-1,,kash1280-1,2000,qʰo miːl,qʰo miːl,[],,[],,False,False,,1
+kash1280-1-1-1,,kash1280-1,1,ku,ku,[],,['chan2019'],,False,False,,1
+kash1280-1-2-1,,kash1280-1,2,qʰo:,qʰo:,[],,['chan2019'],,False,False,,1
+kash1280-1-3-1,,kash1280-1,3,sibo,sibo,[],,['chan2019'],,False,False,,1
+kash1280-1-4-1,,kash1280-1,4,mintʃa,mintʃa,[],,['chan2019'],,False,False,,1
+kash1280-1-5-1,,kash1280-1,5,t̩uhʃo,t̩uhʃo,[],,['chan2019'],,False,False,,1
+kash1280-1-6-1,,kash1280-1,6,lanhtʃʼa,lanhtʃʼa,[],,['chan2019'],,False,False,,1
+kash1280-1-7-1,,kash1280-1,7,lanʰkʰo,lanʰkʰo,[],,['chan2019'],,False,False,,1
+kash1280-1-8-1,,kash1280-1,8,kʰomʰtʃa,kʰomʰtʃa,[],,['chan2019'],,False,False,,1
+kash1280-1-9-1,,kash1280-1,9,tʃʼaʔtʃʰo,tʃʼaʔtʃʰo,[],,['chan2019'],,False,False,,1
+kash1280-1-10-1,,kash1280-1,10,tʃʼa ʃot̩ʼo,tʃʼa ʃot̩ʼo,[],,['chan2019'],,False,False,,1
+kash1280-1-11-1,,kash1280-1,11,naːntʃʼa,naːntʃʼa,[],,['chan2019'],,False,False,,1
+kash1280-1-12-1,,kash1280-1,12,naːqʰo,naːqʰo,[],[litː ''(ten) plus two''],['chan2019'],,False,False,,1
+kash1280-1-13-1,,kash1280-1,13,naːsibo,naːsibo,[],[litː ''three on (ten) ],['chan2019'],,False,False,,1
+kash1280-1-14-1,,kash1280-1,14,simʰma ʃon,simʰma ʃon,[],,['chan2019'],,False,False,,1
+kash1280-1-15-1,,kash1280-1,15,simʰma,simʰma,[],,['chan2019'],,False,False,,1
+kash1280-1-16-1,,kash1280-1,16,simʰma naːntʃʼa,simʰma naːntʃʼa,[],,['chan2019'],,False,False,,1
+kash1280-1-17-1,,kash1280-1,17,simʰma naːqʰo,simʰma naːqʰo,[],,['chan2019'],,False,False,,1
+kash1280-1-18-1,,kash1280-1,18,simʰma naːsibo,simʰma naːsibo,[],,['chan2019'],,False,False,,1
+kash1280-1-19-1,,kash1280-1,19,camhma ʃon,camhma ʃon,[],,['chan2019'],,False,False,,1
+kash1280-1-20-1,,kash1280-1,20,tʃamʰma,tʃamʰma,[],,['chan2019'],,False,False,,1
+kash1280-1-25-1,,kash1280-1,25,t̩uhʃomʰma,t̩uhʃomʰma,[],,['chan2019'],,False,False,,1
+kash1280-1-30-1,,kash1280-1,30,lanʰtʃʼamʰma,lanʰtʃʼamʰma,[],,['chan2019'],,False,False,,1
+kash1280-1-40-1,,kash1280-1,40,kuhay,kuhay,[],( ''one stick'' ),['chan2019'],,False,False,,1
+kash1280-1-50-1,,kash1280-1,50,ʃot̩ʼomʰma,ʃot̩ʼomʰma,[],( ''ten fives'' ),['chan2019'],,False,False,,1
+kash1280-1-80-1,,kash1280-1,80,qʰohay,qʰohay,[],( ''two sticks'' ),['chan2019'],,False,False,,1
+kash1280-1-100-1,,kash1280-1,100,qʰoʃotʼomʰma,qʰoʃotʼomʰma,[],( ''two fifties''),['chan2019'],,False,False,,1
+kash1280-1-100-2,,kash1280-1,100,ku seːntu,ku seːntu,[],,['chan2019'],,False,False,,1
+kash1280-1-200-1,,kash1280-1,200,qʰo seːntu,qʰo seːntu,[],,['chan2019'],,False,False,,1
+kash1280-1-1000-1,,kash1280-1,1000,miːl,miːl,[],( < Spanish ''mil''),['chan2019'],,True,False,,1
+kash1280-1-2000-1,,kash1280-1,2000,qʰo miːl,qʰo miːl,[],,['chan2019'],,False,False,,1

@@ -1,10 +1,10 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cham1315-1-1-1,,cham1315-1,1,tsom̥ɨ'ɹa or nohmɨra,tsom̥ɨ'ɹa or nohmɨra,[],[nom̥ɨ'ɹa],[],,False,True,sohmɨ̃ra,1
-cham1315-1-2-1,,cham1315-1,2,osi'jeɹ,osi'jeɹ,[],,[],,False,False,osiyer,1
-cham1315-1-3-1,,cham1315-1,3,arĩ toho,arĩ toho,[],,[],,False,False,,1
-cham1315-1-4-1,,cham1315-1,4,arĩ sharĩ toho,arĩ sharĩ toho,[],,[],,False,False,,1
-cham1315-1-5-1,,cham1315-1,5,arĩ sharĩ toho,arĩ sharĩ toho,[],,[],,False,False,,1
-cham1315-1-6-1,,cham1315-1,6,arĩ sharĩ sharĩ,arĩ sharĩ sharĩ,[],,[],,False,False,,1
-cham1315-1-7-1,,cham1315-1,7,arĩ sharĩ sharĩ toho,arĩ sharĩ sharĩ toho,[],,[],,False,False,,1
-cham1315-1-8-1,,cham1315-1,8,arĩ sharĩ sharĩ sharĩ,arĩ sharĩ sharĩ sharĩ,[],,[],,False,False,,1
-cham1315-1-9-1,,cham1315-1,9,arĩ sharĩ sharĩ sharĩ toho,arĩ sharĩ sharĩ sharĩ toho,[],,[],,False,False,,1
+cham1315-1-1-1,,cham1315-1,1,tsom̥ɨ'ɹa or nohmɨra,tsom̥ɨ'ɹa or nohmɨra,[],[nom̥ɨ'ɹa],['chan2019'],,False,True,sohmɨ̃ra,1
+cham1315-1-2-1,,cham1315-1,2,osi'jeɹ,osi'jeɹ,[],,['chan2019'],,False,False,osiyer,1
+cham1315-1-3-1,,cham1315-1,3,arĩ toho,arĩ toho,[],,['chan2019'],,False,False,,1
+cham1315-1-4-1,,cham1315-1,4,arĩ sharĩ toho,arĩ sharĩ toho,[],,['chan2019'],,False,False,,1
+cham1315-1-5-1,,cham1315-1,5,arĩ sharĩ toho,arĩ sharĩ toho,[],,['chan2019'],,False,False,,1
+cham1315-1-6-1,,cham1315-1,6,arĩ sharĩ sharĩ,arĩ sharĩ sharĩ,[],,['chan2019'],,False,False,,1
+cham1315-1-7-1,,cham1315-1,7,arĩ sharĩ sharĩ toho,arĩ sharĩ sharĩ toho,[],,['chan2019'],,False,False,,1
+cham1315-1-8-1,,cham1315-1,8,arĩ sharĩ sharĩ sharĩ,arĩ sharĩ sharĩ sharĩ,[],,['chan2019'],,False,False,,1
+cham1315-1-9-1,,cham1315-1,9,arĩ sharĩ sharĩ sharĩ toho,arĩ sharĩ sharĩ sharĩ toho,[],,['chan2019'],,False,False,,1

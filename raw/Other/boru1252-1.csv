@@ -1,16 +1,16 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-boru1252-1-1-1,,boru1252-1,1,éʔtsè,éʔtsè,[],( for some speakers),[],,False,False,,1
-boru1252-1-1-2,,boru1252-1,1,éʔtsiꜜ,éʔtsiꜜ,[],(for others ),[],,False,False,,1
-boru1252-1-2-1,,boru1252-1,2,búʔk,búʔk,[],,[],,False,False,,1
-boru1252-1-3-1,,boru1252-1,3,máŋ,máŋ,[],,[],,False,False,,1
-boru1252-1-4-1,,boru1252-1,4,báxkàŋ,báxkàŋ,[],,[],,False,False,,1
-boru1252-1-5-1,,boru1252-1,5,ʃɪꜜʃkáŋ,ʃɪꜜʃkáŋ,[],,[],,False,False,,1
-boru1252-1-6-1,,boru1252-1,6,téʃàŋ,téʃàŋ,[],,[],,False,False,,1
-boru1252-1-7-1,,boru1252-1,7,kúx,kúx,[],,[],,False,False,,1
-boru1252-1-8-1,,boru1252-1,8,éxtàŋ,éxtàŋ,[],(for some speakers),[],,False,False,,1
-boru1252-1-8-2,,boru1252-1,8,kúxtàŋ (for others). Previous sources giveː osh-tan,kúxtàŋ (for others). Previous sources giveː osh-tan,[],(Gabb),[],,False,True,,1
-boru1252-1-8-3,,boru1252-1,8,uh'tɑng,uh'tɑng,[],(pittier),[],,False,False,,1
-boru1252-1-8-4,,boru1252-1,8,uj tan,uj tan,[],(Thiel),[],,False,False,,1
-boru1252-1-8-5,,boru1252-1,8,ujtɑn,ujtɑn,[],(Valentini ),[],,False,False,,1
-boru1252-1-9-1,,boru1252-1,9,éxkùx.,éxkùx.,[],,[],,False,False,,1
-boru1252-1-10-1,,boru1252-1,10,téxkùx,téxkùx,[],,[],,False,False,,1
+boru1252-1-1-1,,boru1252-1,1,éʔtsè,éʔtsè,[],( for some speakers),['chan2019'],,False,False,,1
+boru1252-1-1-2,,boru1252-1,1,éʔtsiꜜ,éʔtsiꜜ,[],(for others ),['chan2019'],,False,False,,1
+boru1252-1-2-1,,boru1252-1,2,búʔk,búʔk,[],,['chan2019'],,False,False,,1
+boru1252-1-3-1,,boru1252-1,3,máŋ,máŋ,[],,['chan2019'],,False,False,,1
+boru1252-1-4-1,,boru1252-1,4,báxkàŋ,báxkàŋ,[],,['chan2019'],,False,False,,1
+boru1252-1-5-1,,boru1252-1,5,ʃɪꜜʃkáŋ,ʃɪꜜʃkáŋ,[],,['chan2019'],,False,False,,1
+boru1252-1-6-1,,boru1252-1,6,téʃàŋ,téʃàŋ,[],,['chan2019'],,False,False,,1
+boru1252-1-7-1,,boru1252-1,7,kúx,kúx,[],,['chan2019'],,False,False,,1
+boru1252-1-8-1,,boru1252-1,8,éxtàŋ,éxtàŋ,[],(for some speakers),['chan2019'],,False,False,,1
+boru1252-1-8-2,,boru1252-1,8,kúxtàŋ (for others). Previous sources giveː osh-tan,kúxtàŋ (for others). Previous sources giveː osh-tan,[],(Gabb),['chan2019'],,False,True,,1
+boru1252-1-8-3,,boru1252-1,8,uh'tɑng,uh'tɑng,[],(pittier),['chan2019'],,False,False,,1
+boru1252-1-8-4,,boru1252-1,8,uj tan,uj tan,[],(Thiel),['chan2019'],,False,False,,1
+boru1252-1-8-5,,boru1252-1,8,ujtɑn,ujtɑn,[],(Valentini ),['chan2019'],,False,False,,1
+boru1252-1-9-1,,boru1252-1,9,éxkùx.,éxkùx.,[],,['chan2019'],,False,False,,1
+boru1252-1-10-1,,boru1252-1,10,téxkùx,téxkùx,[],,['chan2019'],,False,False,,1

@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bari1286-1-1-1,,bari1286-1,1,'ɛde,'ɛde,[],,[],,False,False,,1
-bari1286-1-2-1,,bari1286-1,2,'ruɑ,'ruɑ,[],,[],,False,False,,1
-bari1286-1-3-1,,bari1286-1,3,tol,tol,[],,[],,False,False,,1
-bari1286-1-4-1,,bari1286-1,4,'pɑŋe,'pɑŋe,[],,[],,False,False,,1
-bari1286-1-5-1,,bari1286-1,5,'limɑ,'limɑ,[],,[],,False,False,,1
-bari1286-1-6-1,,bari1286-1,6,'limɑ ɡɑ 'ɛde,'limɑ ɡɑ 'ɛde,[],( 5 + 1 ),[],,False,False,,1
-bari1286-1-7-1,,bari1286-1,7,'limɑ ɡɑ 'ruɑ,'limɑ ɡɑ 'ruɑ,[],( 5 + 2 ),[],,False,False,,1
-bari1286-1-8-1,,bari1286-1,8,'limɑ ɡɑ 'tol,'limɑ ɡɑ 'tol,[],( 5 + 3 ),[],,False,False,,1
-bari1286-1-9-1,,bari1286-1,9,'limɑ ɡɑ 'pɑŋe,'limɑ ɡɑ 'pɑŋe,[],( 5 + 4 ),[],,False,False,,1
-bari1286-1-10-1,,bari1286-1,10,sɑ'ŋɑu̯l,sɑ'ŋɑu̯l,[],,[],,False,False,,1
-bari1286-1-11-1,,bari1286-1,11,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'ɛde,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'ɛde,[],,[],,False,False,,1
-bari1286-1-12-1,,bari1286-1,12,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ ruɑ,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ ruɑ,[],,[],,False,False,,1
-bari1286-1-13-1,,bari1286-1,13,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ tol,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ tol,[],,[],,False,False,,1
-bari1286-1-14-1,,bari1286-1,14,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'pɑŋe,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'pɑŋe,[],,[],,False,False,,1
-bari1286-1-15-1,,bari1286-1,15,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ,[],,[],,False,False,,1
-bari1286-1-16-1,,bari1286-1,16,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,[],,[],,False,False,,1
-bari1286-1-17-1,,bari1286-1,17,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,[],,[],,False,False,,1
-bari1286-1-18-1,,bari1286-1,18,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,[],,[],,False,False,,1
-bari1286-1-19-1,,bari1286-1,19,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,[],,[],,False,False,,1
-bari1286-1-20-1,,bari1286-1,20,sɑ'ŋɑu̯l 'ruɑ,sɑ'ŋɑu̯l 'ruɑ,[],,[],,False,False,,1
-bari1286-1-21-1,,bari1286-1,21,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ɛde,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ɛde,[],,[],,False,False,,1
-bari1286-1-22-1,,bari1286-1,22,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ruɑ,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ruɑ,[],,[],,False,False,,1
-bari1286-1-23-1,,bari1286-1,23,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ tol,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ tol,[],,[],,False,False,,1
-bari1286-1-24-1,,bari1286-1,24,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'pɑŋe,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'pɑŋe,[],,[],,False,False,,1
-bari1286-1-25-1,,bari1286-1,25,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ,[],,[],,False,False,,1
-bari1286-1-26-1,,bari1286-1,26,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,[],,[],,False,False,,1
-bari1286-1-27-1,,bari1286-1,27,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,[],,[],,False,False,,1
-bari1286-1-28-1,,bari1286-1,28,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,[],,[],,False,False,,1
-bari1286-1-29-1,,bari1286-1,29,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,[],,[],,False,False,,1
-bari1286-1-30-1,,bari1286-1,30,sɑ'ŋɑu̯l tol,sɑ'ŋɑu̯l tol,[],,[],,False,False,,1
-bari1286-1-40-1,,bari1286-1,40,sɑ'ŋɑu̯l 'pɑŋe,sɑ'ŋɑu̯l 'pɑŋe,[],,[],,False,False,,1
-bari1286-1-50-1,,bari1286-1,50,sɑŋɑ'limɑ,sɑŋɑ'limɑ,[],,[],,False,False,,1
-bari1286-1-60-1,,bari1286-1,60,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ɛde,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ɛde,[],,[],,False,False,,1
-bari1286-1-70-1,,bari1286-1,70,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ruɑ,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ruɑ,[],,[],,False,False,,1
-bari1286-1-80-1,,bari1286-1,80,sɑŋɑ'limɑ sɑ'ŋɑu̯l tol,sɑŋɑ'limɑ sɑ'ŋɑu̯l tol,[],,[],,False,False,,1
-bari1286-1-90-1,,bari1286-1,90,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'pɑŋe,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'pɑŋe,[],,[],,False,False,,1
-bari1286-1-100-1,,bari1286-1,100,'buno,'buno,[],,[],,False,False,,1
-bari1286-1-200-1,,bari1286-1,200,'buno 'ruɑ,'buno 'ruɑ,[],,[],,False,False,,1
-bari1286-1-1000-1,,bari1286-1,1000,buno'rɪŋrɪŋ,buno'rɪŋrɪŋ,[],,[],,False,False,,1
-bari1286-1-2000-1,,bari1286-1,2000,buno'rɪŋrɪŋ 'ruɑ,buno'rɪŋrɪŋ 'ruɑ,[],,[],,False,False,,1
+bari1286-1-1-1,,bari1286-1,1,'ɛde,'ɛde,[],,['chan2019'],,False,False,,1
+bari1286-1-2-1,,bari1286-1,2,'ruɑ,'ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-3-1,,bari1286-1,3,tol,tol,[],,['chan2019'],,False,False,,1
+bari1286-1-4-1,,bari1286-1,4,'pɑŋe,'pɑŋe,[],,['chan2019'],,False,False,,1
+bari1286-1-5-1,,bari1286-1,5,'limɑ,'limɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-6-1,,bari1286-1,6,'limɑ ɡɑ 'ɛde,'limɑ ɡɑ 'ɛde,[],( 5 + 1 ),['chan2019'],,False,False,,1
+bari1286-1-7-1,,bari1286-1,7,'limɑ ɡɑ 'ruɑ,'limɑ ɡɑ 'ruɑ,[],( 5 + 2 ),['chan2019'],,False,False,,1
+bari1286-1-8-1,,bari1286-1,8,'limɑ ɡɑ 'tol,'limɑ ɡɑ 'tol,[],( 5 + 3 ),['chan2019'],,False,False,,1
+bari1286-1-9-1,,bari1286-1,9,'limɑ ɡɑ 'pɑŋe,'limɑ ɡɑ 'pɑŋe,[],( 5 + 4 ),['chan2019'],,False,False,,1
+bari1286-1-10-1,,bari1286-1,10,sɑ'ŋɑu̯l,sɑ'ŋɑu̯l,[],,['chan2019'],,False,False,,1
+bari1286-1-11-1,,bari1286-1,11,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'ɛde,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'ɛde,[],,['chan2019'],,False,False,,1
+bari1286-1-12-1,,bari1286-1,12,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ ruɑ,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-13-1,,bari1286-1,13,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ tol,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ tol,[],,['chan2019'],,False,False,,1
+bari1286-1-14-1,,bari1286-1,14,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'pɑŋe,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'pɑŋe,[],,['chan2019'],,False,False,,1
+bari1286-1-15-1,,bari1286-1,15,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-16-1,,bari1286-1,16,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,[],,['chan2019'],,False,False,,1
+bari1286-1-17-1,,bari1286-1,17,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-18-1,,bari1286-1,18,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,[],,['chan2019'],,False,False,,1
+bari1286-1-19-1,,bari1286-1,19,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,sɑ'ŋɑu̯l ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,[],,['chan2019'],,False,False,,1
+bari1286-1-20-1,,bari1286-1,20,sɑ'ŋɑu̯l 'ruɑ,sɑ'ŋɑu̯l 'ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-21-1,,bari1286-1,21,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ɛde,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ɛde,[],,['chan2019'],,False,False,,1
+bari1286-1-22-1,,bari1286-1,22,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ruɑ,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-23-1,,bari1286-1,23,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ tol,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ tol,[],,['chan2019'],,False,False,,1
+bari1286-1-24-1,,bari1286-1,24,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'pɑŋe,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'pɑŋe,[],,['chan2019'],,False,False,,1
+bari1286-1-25-1,,bari1286-1,25,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-26-1,,bari1286-1,26,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ɛde,[],,['chan2019'],,False,False,,1
+bari1286-1-27-1,,bari1286-1,27,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-28-1,,bari1286-1,28,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ tol,[],,['chan2019'],,False,False,,1
+bari1286-1-29-1,,bari1286-1,29,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,sɑ'ŋɑu̯l 'ruɑ ɡɑ i'ɣɛɣɛɑ 'limɑ ɡɑ 'pɑŋe,[],,['chan2019'],,False,False,,1
+bari1286-1-30-1,,bari1286-1,30,sɑ'ŋɑu̯l tol,sɑ'ŋɑu̯l tol,[],,['chan2019'],,False,False,,1
+bari1286-1-40-1,,bari1286-1,40,sɑ'ŋɑu̯l 'pɑŋe,sɑ'ŋɑu̯l 'pɑŋe,[],,['chan2019'],,False,False,,1
+bari1286-1-50-1,,bari1286-1,50,sɑŋɑ'limɑ,sɑŋɑ'limɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-60-1,,bari1286-1,60,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ɛde,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ɛde,[],,['chan2019'],,False,False,,1
+bari1286-1-70-1,,bari1286-1,70,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ruɑ,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-80-1,,bari1286-1,80,sɑŋɑ'limɑ sɑ'ŋɑu̯l tol,sɑŋɑ'limɑ sɑ'ŋɑu̯l tol,[],,['chan2019'],,False,False,,1
+bari1286-1-90-1,,bari1286-1,90,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'pɑŋe,sɑŋɑ'limɑ sɑ'ŋɑu̯l 'pɑŋe,[],,['chan2019'],,False,False,,1
+bari1286-1-100-1,,bari1286-1,100,'buno,'buno,[],,['chan2019'],,False,False,,1
+bari1286-1-200-1,,bari1286-1,200,'buno 'ruɑ,'buno 'ruɑ,[],,['chan2019'],,False,False,,1
+bari1286-1-1000-1,,bari1286-1,1000,buno'rɪŋrɪŋ,buno'rɪŋrɪŋ,[],,['chan2019'],,False,False,,1
+bari1286-1-2000-1,,bari1286-1,2000,buno'rɪŋrɪŋ 'ruɑ,buno'rɪŋrɪŋ 'ruɑ,[],,['chan2019'],,False,False,,1

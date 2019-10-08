@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ingr1248-1-1-1,,ingr1248-1,1,yks,yks,[],,[],,False,False,,1
-ingr1248-1-2-1,,ingr1248-1,2,kaks,kaks,[],,[],,False,False,,1
-ingr1248-1-3-1,,ingr1248-1,3,kold̥,kold̥,[],,[],,False,False,,1
-ingr1248-1-4-1,,ingr1248-1,4,neljæ,neljæ,[],,[],,False,False,,1
-ingr1248-1-5-1,,ingr1248-1,5,viːz̥,viːz̥,[],,[],,False,False,,1
-ingr1248-1-6-1,,ingr1248-1,6,kuːz̥,kuːz̥,[],,[],,False,False,,1
-ingr1248-1-7-1,,ingr1248-1,7,seitsemæn,seitsemæn,[],,[],,False,False,,1
-ingr1248-1-8-1,,ingr1248-1,8,kaheksan,kaheksan,[],,[],,False,False,,1
-ingr1248-1-9-1,,ingr1248-1,9,yheksæn,yheksæn,[],,[],,False,False,,1
-ingr1248-1-10-1,,ingr1248-1,10,kymːenæn,kymːenæn,[],,[],,False,False,,1
-ingr1248-1-11-1,,ingr1248-1,11,ykstoist,ykstoist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-12-1,,ingr1248-1,12,kakstoist,kakstoist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-13-1,,ingr1248-1,13,kold̥toist,kold̥toist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-14-1,,ingr1248-1,14,neljætoist,neljætoist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-15-1,,ingr1248-1,15,viːz̥toist,viːz̥toist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-16-1,,ingr1248-1,16,kuːz̥toist,kuːz̥toist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-17-1,,ingr1248-1,17,seitsemæntoist,seitsemæntoist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-18-1,,ingr1248-1,18,kaheksantoist,kaheksantoist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-19-1,,ingr1248-1,19,yheksæntoist,yheksæntoist,[],(kymːend̥),[],,False,False,,1
-ingr1248-1-20-1,,ingr1248-1,20,kakskymːend̥,kakskymːend̥,[],,[],,False,False,,1
-ingr1248-1-21-1,,ingr1248-1,21,kakskymːend yks,kakskymːend yks,[],,[],,False,False,,1
-ingr1248-1-22-1,,ingr1248-1,22,kakskymːend kaks,kakskymːend kaks,[],,[],,False,False,,1
-ingr1248-1-23-1,,ingr1248-1,23,kakskymːend kold̥,kakskymːend kold̥,[],,[],,False,False,,1
-ingr1248-1-24-1,,ingr1248-1,24,kakskymːend neljæ,kakskymːend neljæ,[],,[],,False,False,,1
-ingr1248-1-25-1,,ingr1248-1,25,kakskymːend viːz̥,kakskymːend viːz̥,[],,[],,False,False,,1
-ingr1248-1-26-1,,ingr1248-1,26,kakskymːend kuːz̥,kakskymːend kuːz̥,[],,[],,False,False,,1
-ingr1248-1-27-1,,ingr1248-1,27,kakskymːend seitsemæn,kakskymːend seitsemæn,[],,[],,False,False,,1
-ingr1248-1-28-1,,ingr1248-1,28,kakskymːend kaheksan,kakskymːend kaheksan,[],,[],,False,False,,1
-ingr1248-1-29-1,,ingr1248-1,29,kakskymːend yheksæn,kakskymːend yheksæn,[],,[],,False,False,,1
-ingr1248-1-30-1,,ingr1248-1,30,kold̥kym.end̥,kold̥kym.end̥,[],,[],,False,False,,1
-ingr1248-1-40-1,,ingr1248-1,40,neljækym.end̥,neljækym.end̥,[],,[],,False,False,,1
-ingr1248-1-50-1,,ingr1248-1,50,viːz̥kym.end̥,viːz̥kym.end̥,[],,[],,False,False,,1
-ingr1248-1-60-1,,ingr1248-1,60,kuːz̥kym.end̥,kuːz̥kym.end̥,[],,[],,False,False,,1
-ingr1248-1-70-1,,ingr1248-1,70,seitsemænkym.end̥,seitsemænkym.end̥,[],,[],,False,False,,1
-ingr1248-1-80-1,,ingr1248-1,80,kaheksankym.end̥,kaheksankym.end̥,[],,[],,False,False,,1
-ingr1248-1-90-1,,ingr1248-1,90,yheksænkym.end̥,yheksænkym.end̥,[],,[],,False,False,,1
-ingr1248-1-100-1,,ingr1248-1,100,sada,sada,[],,[],,False,False,,1
-ingr1248-1-200-1,,ingr1248-1,200,kakssad̥a,kakssad̥a,[],,[],,False,False,,1
-ingr1248-1-1000-1,,ingr1248-1,1000,tuhad̥,tuhad̥,[],,[],,False,False,,1
-ingr1248-1-2000-1,,ingr1248-1,2000,kakstuhad̥,kakstuhad̥,[],,[],,False,False,,1
+ingr1248-1-1-1,,ingr1248-1,1,yks,yks,[],,['chan2019'],,False,False,,1
+ingr1248-1-2-1,,ingr1248-1,2,kaks,kaks,[],,['chan2019'],,False,False,,1
+ingr1248-1-3-1,,ingr1248-1,3,kold̥,kold̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-4-1,,ingr1248-1,4,neljæ,neljæ,[],,['chan2019'],,False,False,,1
+ingr1248-1-5-1,,ingr1248-1,5,viːz̥,viːz̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-6-1,,ingr1248-1,6,kuːz̥,kuːz̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-7-1,,ingr1248-1,7,seitsemæn,seitsemæn,[],,['chan2019'],,False,False,,1
+ingr1248-1-8-1,,ingr1248-1,8,kaheksan,kaheksan,[],,['chan2019'],,False,False,,1
+ingr1248-1-9-1,,ingr1248-1,9,yheksæn,yheksæn,[],,['chan2019'],,False,False,,1
+ingr1248-1-10-1,,ingr1248-1,10,kymːenæn,kymːenæn,[],,['chan2019'],,False,False,,1
+ingr1248-1-11-1,,ingr1248-1,11,ykstoist,ykstoist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-12-1,,ingr1248-1,12,kakstoist,kakstoist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-13-1,,ingr1248-1,13,kold̥toist,kold̥toist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-14-1,,ingr1248-1,14,neljætoist,neljætoist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-15-1,,ingr1248-1,15,viːz̥toist,viːz̥toist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-16-1,,ingr1248-1,16,kuːz̥toist,kuːz̥toist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-17-1,,ingr1248-1,17,seitsemæntoist,seitsemæntoist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-18-1,,ingr1248-1,18,kaheksantoist,kaheksantoist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-19-1,,ingr1248-1,19,yheksæntoist,yheksæntoist,[],(kymːend̥),['chan2019'],,False,False,,1
+ingr1248-1-20-1,,ingr1248-1,20,kakskymːend̥,kakskymːend̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-21-1,,ingr1248-1,21,kakskymːend yks,kakskymːend yks,[],,['chan2019'],,False,False,,1
+ingr1248-1-22-1,,ingr1248-1,22,kakskymːend kaks,kakskymːend kaks,[],,['chan2019'],,False,False,,1
+ingr1248-1-23-1,,ingr1248-1,23,kakskymːend kold̥,kakskymːend kold̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-24-1,,ingr1248-1,24,kakskymːend neljæ,kakskymːend neljæ,[],,['chan2019'],,False,False,,1
+ingr1248-1-25-1,,ingr1248-1,25,kakskymːend viːz̥,kakskymːend viːz̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-26-1,,ingr1248-1,26,kakskymːend kuːz̥,kakskymːend kuːz̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-27-1,,ingr1248-1,27,kakskymːend seitsemæn,kakskymːend seitsemæn,[],,['chan2019'],,False,False,,1
+ingr1248-1-28-1,,ingr1248-1,28,kakskymːend kaheksan,kakskymːend kaheksan,[],,['chan2019'],,False,False,,1
+ingr1248-1-29-1,,ingr1248-1,29,kakskymːend yheksæn,kakskymːend yheksæn,[],,['chan2019'],,False,False,,1
+ingr1248-1-30-1,,ingr1248-1,30,kold̥kym.end̥,kold̥kym.end̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-40-1,,ingr1248-1,40,neljækym.end̥,neljækym.end̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-50-1,,ingr1248-1,50,viːz̥kym.end̥,viːz̥kym.end̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-60-1,,ingr1248-1,60,kuːz̥kym.end̥,kuːz̥kym.end̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-70-1,,ingr1248-1,70,seitsemænkym.end̥,seitsemænkym.end̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-80-1,,ingr1248-1,80,kaheksankym.end̥,kaheksankym.end̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-90-1,,ingr1248-1,90,yheksænkym.end̥,yheksænkym.end̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-100-1,,ingr1248-1,100,sada,sada,[],,['chan2019'],,False,False,,1
+ingr1248-1-200-1,,ingr1248-1,200,kakssad̥a,kakssad̥a,[],,['chan2019'],,False,False,,1
+ingr1248-1-1000-1,,ingr1248-1,1000,tuhad̥,tuhad̥,[],,['chan2019'],,False,False,,1
+ingr1248-1-2000-1,,ingr1248-1,2000,kakstuhad̥,kakstuhad̥,[],,['chan2019'],,False,False,,1

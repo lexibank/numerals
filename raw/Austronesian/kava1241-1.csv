@@ -1,61 +1,61 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kava1241-1-1-1,,kava1241-1,1,siq,siq,[],,[],,False,False,,1
-kava1241-1-1-2,,kava1241-1,1,ussiq,ussiq,[],,[],,False,False,,1
-kava1241-1-1-3,,kava1241-1,1,paqnanəm,paqnanəm,[],,[],,False,False,,1
-kava1241-1-2-1,,kava1241-1,2,zusa,zusa,[],,[],,False,False,,1
-kava1241-1-2-2,,kava1241-1,2,uzusa,uzusa,[],,[],,False,False,,1
-kava1241-1-2-3,,kava1241-1,2,kinausa,kinausa,[],,[],,False,False,,1
-kava1241-1-3-1,,kava1241-1,3,turu,turu,[],,[],,False,False,,1
-kava1241-1-3-2,,kava1241-1,3,uturu,uturu,[],,[],,False,False,,1
-kava1241-1-3-3,,kava1241-1,3,kinturu,kinturu,[],,[],,False,False,,1
-kava1241-1-4-1,,kava1241-1,4,spat,spat,[],,[],,False,False,,1
-kava1241-1-4-2,,kava1241-1,4,uspat,uspat,[],,[],,False,False,,1
-kava1241-1-4-3,,kava1241-1,4,kinspat,kinspat,[],,[],,False,False,,1
-kava1241-1-5-1,,kava1241-1,5,rima,rima,[],,[],,False,False,,1
-kava1241-1-5-2,,kava1241-1,5,urima,urima,[],,[],,False,False,,1
-kava1241-1-5-3,,kava1241-1,5,kinrima,kinrima,[],,[],,False,False,,1
-kava1241-1-6-1,,kava1241-1,6,ənnəm,ənnəm,[],,[],,False,False,,1
-kava1241-1-6-2,,kava1241-1,6,unnəm,unnəm,[],,[],,False,False,,1
-kava1241-1-6-3,,kava1241-1,6,kinənəm,kinənəm,[],,[],,False,False,,1
-kava1241-1-7-1,,kava1241-1,7,pitu,pitu,[],,[],,False,False,,1
-kava1241-1-7-2,,kava1241-1,7,upitu,upitu,[],,[],,False,False,,1
-kava1241-1-7-3,,kava1241-1,7,kinpitu,kinpitu,[],,[],,False,False,,1
-kava1241-1-8-1,,kava1241-1,8,waru,waru,[],,[],,False,False,,1
-kava1241-1-8-2,,kava1241-1,8,uwaru,uwaru,[],,[],,False,False,,1
-kava1241-1-8-3,,kava1241-1,8,kinwaru,kinwaru,[],,[],,False,False,,1
-kava1241-1-9-1,,kava1241-1,9,siwa,siwa,[],,[],,False,False,,1
-kava1241-1-9-2,,kava1241-1,9,usiwa,usiwa,[],,[],,False,False,,1
-kava1241-1-9-3,,kava1241-1,9,kinsiwa,kinsiwa,[],,[],,False,False,,1
-kava1241-1-10-1,,kava1241-1,10,βtin,βtin,[],,[],,False,False,,1
-kava1241-1-10-2,,kava1241-1,10,ʀaβtin,ʀaβtin,[],,[],,False,False,,1
-kava1241-1-10-3,,kava1241-1,10,kinʀaβtin,kinʀaβtin,[],,[],,False,False,,1
-kava1241-1-11-1,,kava1241-1,11,ʀaβtin yau ussiq,ʀaβtin yau ussiq,[],,[],,False,False,,1
-kava1241-1-12-1,,kava1241-1,12,ʀaβtin yau uzusa,ʀaβtin yau uzusa,[],,[],,False,False,,1
-kava1241-1-13-1,,kava1241-1,13,ʀaβtin yau uturu,ʀaβtin yau uturu,[],,[],,False,False,,1
-kava1241-1-14-1,,kava1241-1,14,ʀaβtin yau uspat,ʀaβtin yau uspat,[],,[],,False,False,,1
-kava1241-1-15-1,,kava1241-1,15,ʀaβtin yau urima,ʀaβtin yau urima,[],,[],,False,False,,1
-kava1241-1-16-1,,kava1241-1,16,ʀaβtin yau unnəm,ʀaβtin yau unnəm,[],,[],,False,False,,1
-kava1241-1-17-1,,kava1241-1,17,ʀaβtin yau upitu,ʀaβtin yau upitu,[],,[],,False,False,,1
-kava1241-1-18-1,,kava1241-1,18,ʀaβtin yau uwaru,ʀaβtin yau uwaru,[],,[],,False,False,,1
-kava1241-1-19-1,,kava1241-1,19,ʀaβtin yau usiwa,ʀaβtin yau usiwa,[],,[],,False,False,,1
-kava1241-1-20-1,,kava1241-1,20,uzusaβtin,uzusaβtin,[],,[],,False,False,,1
-kava1241-1-21-1,,kava1241-1,21,uzusaβtin yau ussiq,uzusaβtin yau ussiq,[],,[],,False,False,,1
-kava1241-1-22-1,,kava1241-1,22,uzusaβtin yau uzusa,uzusaβtin yau uzusa,[],,[],,False,False,,1
-kava1241-1-23-1,,kava1241-1,23,uzusaβtin yau uturu,uzusaβtin yau uturu,[],,[],,False,False,,1
-kava1241-1-24-1,,kava1241-1,24,uzusaβtin yau uspat,uzusaβtin yau uspat,[],,[],,False,False,,1
-kava1241-1-25-1,,kava1241-1,25,uzusaβtin yau urima,uzusaβtin yau urima,[],,[],,False,False,,1
-kava1241-1-26-1,,kava1241-1,26,uzusaβtin yau unnəm,uzusaβtin yau unnəm,[],,[],,False,False,,1
-kava1241-1-27-1,,kava1241-1,27,uzusaβtin yau upitu,uzusaβtin yau upitu,[],,[],,False,False,,1
-kava1241-1-28-1,,kava1241-1,28,uzusaβtin yau uwaru,uzusaβtin yau uwaru,[],,[],,False,False,,1
-kava1241-1-29-1,,kava1241-1,29,uzusaβtin yau usiwa,uzusaβtin yau usiwa,[],,[],,False,False,,1
-kava1241-1-30-1,,kava1241-1,30,uturuβtin,uturuβtin,[],,[],,False,False,,1
-kava1241-1-40-1,,kava1241-1,40,uspatβtin,uspatβtin,[],,[],,False,False,,1
-kava1241-1-50-1,,kava1241-1,50,urimaβtin,urimaβtin,[],,[],,False,False,,1
-kava1241-1-60-1,,kava1241-1,60,unəmβtin,unəmβtin,[],,[],,False,False,,1
-kava1241-1-70-1,,kava1241-1,70,upituβtin,upituβtin,[],,[],,False,False,,1
-kava1241-1-80-1,,kava1241-1,80,uwaruβtin,uwaruβtin,[],,[],,False,False,,1
-kava1241-1-90-1,,kava1241-1,90,usiwaβtin,usiwaβtin,[],,[],,False,False,,1
-kava1241-1-100-1,,kava1241-1,100,ʀasiβu,ʀasiβu,[],,[],,False,False,,1
-kava1241-1-200-1,,kava1241-1,200,uzusaʀasiβu,uzusaʀasiβu,[],,[],,False,False,,1
-kava1241-1-1000-1,,kava1241-1,1000,merarazan,merarazan,[],,[],,False,False,,1
-kava1241-1-2000-1,,kava1241-1,2000,uzusamerarazan,uzusamerarazan,[],,[],,False,False,,1
+kava1241-1-1-1,,kava1241-1,1,siq,siq,[],,['chan2019'],,False,False,,1
+kava1241-1-1-2,,kava1241-1,1,ussiq,ussiq,[],,['chan2019'],,False,False,,1
+kava1241-1-1-3,,kava1241-1,1,paqnanəm,paqnanəm,[],,['chan2019'],,False,False,,1
+kava1241-1-2-1,,kava1241-1,2,zusa,zusa,[],,['chan2019'],,False,False,,1
+kava1241-1-2-2,,kava1241-1,2,uzusa,uzusa,[],,['chan2019'],,False,False,,1
+kava1241-1-2-3,,kava1241-1,2,kinausa,kinausa,[],,['chan2019'],,False,False,,1
+kava1241-1-3-1,,kava1241-1,3,turu,turu,[],,['chan2019'],,False,False,,1
+kava1241-1-3-2,,kava1241-1,3,uturu,uturu,[],,['chan2019'],,False,False,,1
+kava1241-1-3-3,,kava1241-1,3,kinturu,kinturu,[],,['chan2019'],,False,False,,1
+kava1241-1-4-1,,kava1241-1,4,spat,spat,[],,['chan2019'],,False,False,,1
+kava1241-1-4-2,,kava1241-1,4,uspat,uspat,[],,['chan2019'],,False,False,,1
+kava1241-1-4-3,,kava1241-1,4,kinspat,kinspat,[],,['chan2019'],,False,False,,1
+kava1241-1-5-1,,kava1241-1,5,rima,rima,[],,['chan2019'],,False,False,,1
+kava1241-1-5-2,,kava1241-1,5,urima,urima,[],,['chan2019'],,False,False,,1
+kava1241-1-5-3,,kava1241-1,5,kinrima,kinrima,[],,['chan2019'],,False,False,,1
+kava1241-1-6-1,,kava1241-1,6,ənnəm,ənnəm,[],,['chan2019'],,False,False,,1
+kava1241-1-6-2,,kava1241-1,6,unnəm,unnəm,[],,['chan2019'],,False,False,,1
+kava1241-1-6-3,,kava1241-1,6,kinənəm,kinənəm,[],,['chan2019'],,False,False,,1
+kava1241-1-7-1,,kava1241-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+kava1241-1-7-2,,kava1241-1,7,upitu,upitu,[],,['chan2019'],,False,False,,1
+kava1241-1-7-3,,kava1241-1,7,kinpitu,kinpitu,[],,['chan2019'],,False,False,,1
+kava1241-1-8-1,,kava1241-1,8,waru,waru,[],,['chan2019'],,False,False,,1
+kava1241-1-8-2,,kava1241-1,8,uwaru,uwaru,[],,['chan2019'],,False,False,,1
+kava1241-1-8-3,,kava1241-1,8,kinwaru,kinwaru,[],,['chan2019'],,False,False,,1
+kava1241-1-9-1,,kava1241-1,9,siwa,siwa,[],,['chan2019'],,False,False,,1
+kava1241-1-9-2,,kava1241-1,9,usiwa,usiwa,[],,['chan2019'],,False,False,,1
+kava1241-1-9-3,,kava1241-1,9,kinsiwa,kinsiwa,[],,['chan2019'],,False,False,,1
+kava1241-1-10-1,,kava1241-1,10,βtin,βtin,[],,['chan2019'],,False,False,,1
+kava1241-1-10-2,,kava1241-1,10,ʀaβtin,ʀaβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-10-3,,kava1241-1,10,kinʀaβtin,kinʀaβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-11-1,,kava1241-1,11,ʀaβtin yau ussiq,ʀaβtin yau ussiq,[],,['chan2019'],,False,False,,1
+kava1241-1-12-1,,kava1241-1,12,ʀaβtin yau uzusa,ʀaβtin yau uzusa,[],,['chan2019'],,False,False,,1
+kava1241-1-13-1,,kava1241-1,13,ʀaβtin yau uturu,ʀaβtin yau uturu,[],,['chan2019'],,False,False,,1
+kava1241-1-14-1,,kava1241-1,14,ʀaβtin yau uspat,ʀaβtin yau uspat,[],,['chan2019'],,False,False,,1
+kava1241-1-15-1,,kava1241-1,15,ʀaβtin yau urima,ʀaβtin yau urima,[],,['chan2019'],,False,False,,1
+kava1241-1-16-1,,kava1241-1,16,ʀaβtin yau unnəm,ʀaβtin yau unnəm,[],,['chan2019'],,False,False,,1
+kava1241-1-17-1,,kava1241-1,17,ʀaβtin yau upitu,ʀaβtin yau upitu,[],,['chan2019'],,False,False,,1
+kava1241-1-18-1,,kava1241-1,18,ʀaβtin yau uwaru,ʀaβtin yau uwaru,[],,['chan2019'],,False,False,,1
+kava1241-1-19-1,,kava1241-1,19,ʀaβtin yau usiwa,ʀaβtin yau usiwa,[],,['chan2019'],,False,False,,1
+kava1241-1-20-1,,kava1241-1,20,uzusaβtin,uzusaβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-21-1,,kava1241-1,21,uzusaβtin yau ussiq,uzusaβtin yau ussiq,[],,['chan2019'],,False,False,,1
+kava1241-1-22-1,,kava1241-1,22,uzusaβtin yau uzusa,uzusaβtin yau uzusa,[],,['chan2019'],,False,False,,1
+kava1241-1-23-1,,kava1241-1,23,uzusaβtin yau uturu,uzusaβtin yau uturu,[],,['chan2019'],,False,False,,1
+kava1241-1-24-1,,kava1241-1,24,uzusaβtin yau uspat,uzusaβtin yau uspat,[],,['chan2019'],,False,False,,1
+kava1241-1-25-1,,kava1241-1,25,uzusaβtin yau urima,uzusaβtin yau urima,[],,['chan2019'],,False,False,,1
+kava1241-1-26-1,,kava1241-1,26,uzusaβtin yau unnəm,uzusaβtin yau unnəm,[],,['chan2019'],,False,False,,1
+kava1241-1-27-1,,kava1241-1,27,uzusaβtin yau upitu,uzusaβtin yau upitu,[],,['chan2019'],,False,False,,1
+kava1241-1-28-1,,kava1241-1,28,uzusaβtin yau uwaru,uzusaβtin yau uwaru,[],,['chan2019'],,False,False,,1
+kava1241-1-29-1,,kava1241-1,29,uzusaβtin yau usiwa,uzusaβtin yau usiwa,[],,['chan2019'],,False,False,,1
+kava1241-1-30-1,,kava1241-1,30,uturuβtin,uturuβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-40-1,,kava1241-1,40,uspatβtin,uspatβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-50-1,,kava1241-1,50,urimaβtin,urimaβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-60-1,,kava1241-1,60,unəmβtin,unəmβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-70-1,,kava1241-1,70,upituβtin,upituβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-80-1,,kava1241-1,80,uwaruβtin,uwaruβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-90-1,,kava1241-1,90,usiwaβtin,usiwaβtin,[],,['chan2019'],,False,False,,1
+kava1241-1-100-1,,kava1241-1,100,ʀasiβu,ʀasiβu,[],,['chan2019'],,False,False,,1
+kava1241-1-200-1,,kava1241-1,200,uzusaʀasiβu,uzusaʀasiβu,[],,['chan2019'],,False,False,,1
+kava1241-1-1000-1,,kava1241-1,1000,merarazan,merarazan,[],,['chan2019'],,False,False,,1
+kava1241-1-2000-1,,kava1241-1,2000,uzusamerarazan,uzusamerarazan,[],,['chan2019'],,False,False,,1

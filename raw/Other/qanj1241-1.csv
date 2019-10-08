@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-qanj1241-1-1-1,,qanj1241-1,1,χun,χun,[],,[],,False,False,jun,1
-qanj1241-1-2-1,,qanj1241-1,2,kaɓ,kaɓ,[],,[],,False,False,kabʼ,1
-qanj1241-1-3-1,,qanj1241-1,3,oʂeɓ,oʂeɓ,[],,[],,False,False,oxebʼ,1
-qanj1241-1-4-1,,qanj1241-1,4,kaneɓ,kaneɓ,[],,[],,False,False,kanebʼ,1
-qanj1241-1-5-1,,qanj1241-1,5,ojeɓ,ojeɓ,[],,[],,False,False,oyebʼ,1
-qanj1241-1-6-1,,qanj1241-1,6,waqeɓ,waqeɓ,[],,[],,False,False,waqebʼ,1
-qanj1241-1-7-1,,qanj1241-1,7,uqeɓ,uqeɓ,[],,[],,False,False,uqebʼ,1
-qanj1241-1-8-1,,qanj1241-1,8,waʂaqeɓ,waʂaqeɓ,[],,[],,False,False,waxaqebʼ,1
-qanj1241-1-9-1,,qanj1241-1,9,ɓaloneɓ,ɓaloneɓ,[],,[],,False,False,bʼalonebʼ,1
-qanj1241-1-10-1,,qanj1241-1,10,laχoneɓ,laχoneɓ,[],,[],,False,False,lajonebʼ,1
-qanj1241-1-11-1,,qanj1241-1,11,uslukʼeɓ,uslukʼeɓ,[],,[],,False,False,uslukʼebʼ,1
-qanj1241-1-12-1,,qanj1241-1,12,laχkaweɓ,laχkaweɓ,[],,[],,False,False,lajkawebʼ,1
-qanj1241-1-13-1,,qanj1241-1,13,oʂlaχoneɓ,oʂlaχoneɓ,[],,[],,False,False,oxlajonebʼ,1
-qanj1241-1-14-1,,qanj1241-1,14,kanlaχoneɓ,kanlaχoneɓ,[],,[],,False,False,kanlajonebʼ,1
-qanj1241-1-15-1,,qanj1241-1,15,olaχoneɓ,olaχoneɓ,[],,[],,False,False,olajonebʼ,1
-qanj1241-1-16-1,,qanj1241-1,16,waqlaχoneɓ,waqlaχoneɓ,[],,[],,False,False,waqlajonebʼ [,1
-qanj1241-1-17-1,,qanj1241-1,17,uqlaχoneɓ,uqlaχoneɓ,[],,[],,False,False,uqlajonebʼ [,1
-qanj1241-1-18-1,,qanj1241-1,18,waʂaqlaχoneɓ,waʂaqlaχoneɓ,[],,[],,False,False,waxaqlajonebʼ [,1
-qanj1241-1-19-1,,qanj1241-1,19,ɓalonqlaχoneɓ,ɓalonqlaχoneɓ,[],,[],,False,False,bʼalonlajonebʼ [,1
-qanj1241-1-20-1,,qanj1241-1,20,χunkʼal,χunkʼal,[],,[],,False,False,junkʼal,1
-qanj1241-1-21-1,,qanj1241-1,21,χun skawinaq,χun skawinaq,[],,[],,False,False,jun skawinaq,1
-qanj1241-1-22-1,,qanj1241-1,22,kabʼ skawinaq,kabʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-23-1,,qanj1241-1,23,oxebʼ skawinaq,oxebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-24-1,,qanj1241-1,24,kanebʼ skawinaq,kanebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-25-1,,qanj1241-1,25,oyebʼ skawinaq,oyebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-26-1,,qanj1241-1,26,waqebʼ skawinaq,waqebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-27-1,,qanj1241-1,27,uqebʼ skawinaq,uqebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-28-1,,qanj1241-1,28,waxaqebʼ skawinaq,waxaqebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-29-1,,qanj1241-1,29,bʼalonebʼ skawinaq,bʼalonebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-30-1,,qanj1241-1,30,lajonebʼ skawinaq,lajonebʼ skawinaq,[],,[],,False,False,,1
-qanj1241-1-40-1,,qanj1241-1,40,kawinaq,kawinaq,[],( 2 x 20 ),[],,False,False,kawinaq,1
-qanj1241-1-50-1,,qanj1241-1,50,joʂkʼal ??,joʂkʼal ??,[],,[],,False,True,lajonebʼ yoxkʼal,1
-qanj1241-1-60-1,,qanj1241-1,60,oʂkʼal,oʂkʼal,[],( 3 x 20 ) ??,[],,False,False,oxkʼal,1
-qanj1241-1-70-1,,qanj1241-1,70,lajonebʼ kanwinaq ??,lajonebʼ kanwinaq ??,[],,[],,False,True,,1
-qanj1241-1-80-1,,qanj1241-1,80,kanwinaq,kanwinaq,[],( 4 x 20 ),[],,False,False,,1
-qanj1241-1-90-1,,qanj1241-1,90,jokʼal ??,jokʼal ??,[],,[],,False,True,lajonebʼ yokʼal,1
-qanj1241-1-100-1,,qanj1241-1,100,okʼal,okʼal,[],,[],,False,False,okʼal,1
-qanj1241-1-200-1,,qanj1241-1,200,laχonwinq,laχonwinq,[],,[],,False,False,lajonwinq,1
-qanj1241-1-1000-1,,qanj1241-1,1000,jun mil?,jun mil?,[],,[],,False,True,,1
-qanj1241-1-2000-1,,qanj1241-1,2000,kabʼ mil ?,kabʼ mil ?,[],,[],,False,True,,1
+qanj1241-1-1-1,,qanj1241-1,1,χun,χun,[],,['chan2019'],,False,False,jun,1
+qanj1241-1-2-1,,qanj1241-1,2,kaɓ,kaɓ,[],,['chan2019'],,False,False,kabʼ,1
+qanj1241-1-3-1,,qanj1241-1,3,oʂeɓ,oʂeɓ,[],,['chan2019'],,False,False,oxebʼ,1
+qanj1241-1-4-1,,qanj1241-1,4,kaneɓ,kaneɓ,[],,['chan2019'],,False,False,kanebʼ,1
+qanj1241-1-5-1,,qanj1241-1,5,ojeɓ,ojeɓ,[],,['chan2019'],,False,False,oyebʼ,1
+qanj1241-1-6-1,,qanj1241-1,6,waqeɓ,waqeɓ,[],,['chan2019'],,False,False,waqebʼ,1
+qanj1241-1-7-1,,qanj1241-1,7,uqeɓ,uqeɓ,[],,['chan2019'],,False,False,uqebʼ,1
+qanj1241-1-8-1,,qanj1241-1,8,waʂaqeɓ,waʂaqeɓ,[],,['chan2019'],,False,False,waxaqebʼ,1
+qanj1241-1-9-1,,qanj1241-1,9,ɓaloneɓ,ɓaloneɓ,[],,['chan2019'],,False,False,bʼalonebʼ,1
+qanj1241-1-10-1,,qanj1241-1,10,laχoneɓ,laχoneɓ,[],,['chan2019'],,False,False,lajonebʼ,1
+qanj1241-1-11-1,,qanj1241-1,11,uslukʼeɓ,uslukʼeɓ,[],,['chan2019'],,False,False,uslukʼebʼ,1
+qanj1241-1-12-1,,qanj1241-1,12,laχkaweɓ,laχkaweɓ,[],,['chan2019'],,False,False,lajkawebʼ,1
+qanj1241-1-13-1,,qanj1241-1,13,oʂlaχoneɓ,oʂlaχoneɓ,[],,['chan2019'],,False,False,oxlajonebʼ,1
+qanj1241-1-14-1,,qanj1241-1,14,kanlaχoneɓ,kanlaχoneɓ,[],,['chan2019'],,False,False,kanlajonebʼ,1
+qanj1241-1-15-1,,qanj1241-1,15,olaχoneɓ,olaχoneɓ,[],,['chan2019'],,False,False,olajonebʼ,1
+qanj1241-1-16-1,,qanj1241-1,16,waqlaχoneɓ,waqlaχoneɓ,[],,['chan2019'],,False,False,waqlajonebʼ [,1
+qanj1241-1-17-1,,qanj1241-1,17,uqlaχoneɓ,uqlaχoneɓ,[],,['chan2019'],,False,False,uqlajonebʼ [,1
+qanj1241-1-18-1,,qanj1241-1,18,waʂaqlaχoneɓ,waʂaqlaχoneɓ,[],,['chan2019'],,False,False,waxaqlajonebʼ [,1
+qanj1241-1-19-1,,qanj1241-1,19,ɓalonqlaχoneɓ,ɓalonqlaχoneɓ,[],,['chan2019'],,False,False,bʼalonlajonebʼ [,1
+qanj1241-1-20-1,,qanj1241-1,20,χunkʼal,χunkʼal,[],,['chan2019'],,False,False,junkʼal,1
+qanj1241-1-21-1,,qanj1241-1,21,χun skawinaq,χun skawinaq,[],,['chan2019'],,False,False,jun skawinaq,1
+qanj1241-1-22-1,,qanj1241-1,22,kabʼ skawinaq,kabʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-23-1,,qanj1241-1,23,oxebʼ skawinaq,oxebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-24-1,,qanj1241-1,24,kanebʼ skawinaq,kanebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-25-1,,qanj1241-1,25,oyebʼ skawinaq,oyebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-26-1,,qanj1241-1,26,waqebʼ skawinaq,waqebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-27-1,,qanj1241-1,27,uqebʼ skawinaq,uqebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-28-1,,qanj1241-1,28,waxaqebʼ skawinaq,waxaqebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-29-1,,qanj1241-1,29,bʼalonebʼ skawinaq,bʼalonebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-30-1,,qanj1241-1,30,lajonebʼ skawinaq,lajonebʼ skawinaq,[],,['chan2019'],,False,False,,1
+qanj1241-1-40-1,,qanj1241-1,40,kawinaq,kawinaq,[],( 2 x 20 ),['chan2019'],,False,False,kawinaq,1
+qanj1241-1-50-1,,qanj1241-1,50,joʂkʼal ??,joʂkʼal ??,[],,['chan2019'],,False,True,lajonebʼ yoxkʼal,1
+qanj1241-1-60-1,,qanj1241-1,60,oʂkʼal,oʂkʼal,[],( 3 x 20 ) ??,['chan2019'],,False,False,oxkʼal,1
+qanj1241-1-70-1,,qanj1241-1,70,lajonebʼ kanwinaq ??,lajonebʼ kanwinaq ??,[],,['chan2019'],,False,True,,1
+qanj1241-1-80-1,,qanj1241-1,80,kanwinaq,kanwinaq,[],( 4 x 20 ),['chan2019'],,False,False,,1
+qanj1241-1-90-1,,qanj1241-1,90,jokʼal ??,jokʼal ??,[],,['chan2019'],,False,True,lajonebʼ yokʼal,1
+qanj1241-1-100-1,,qanj1241-1,100,okʼal,okʼal,[],,['chan2019'],,False,False,okʼal,1
+qanj1241-1-200-1,,qanj1241-1,200,laχonwinq,laχonwinq,[],,['chan2019'],,False,False,lajonwinq,1
+qanj1241-1-1000-1,,qanj1241-1,1000,jun mil?,jun mil?,[],,['chan2019'],,False,True,,1
+qanj1241-1-2000-1,,qanj1241-1,2000,kabʼ mil ?,kabʼ mil ?,[],,['chan2019'],,False,True,,1

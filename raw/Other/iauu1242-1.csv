@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-iauu1242-1-1-1,,iauu1242-1,1,bɪ̄síbɛ̄,bɪ̄síbɛ̄,[],,[],,False,False,,1
-iauu1242-1-2-1,,iauu1242-1,2,bɔ̀bɛ̄,bɔ̀bɛ̄,[],,[],,False,False,,1
-iauu1242-1-3-1,,iauu1242-1,3,báuībē,báuībē,[],,[],,False,False,,1
-iauu1242-1-4-1,,iauu1242-1,4,bɔ́-hāī bɔ́-hāidɛ̄,bɔ́-hāī bɔ́-hāidɛ̄,[],( litː both-both ?),[],,False,False,,1
-iauu1242-1-5-1,,iauu1242-1,5,ōí áisītòɛ̀dɛ̄,ōí áisītòɛ̀dɛ̄,[],( litː hand finished ),[],,False,False,,1
-iauu1242-1-6-1,,iauu1242-1,6,ōí ābū ì kõi bísībɛ̄,ōí ābū ì kõi bísībɛ̄,[],( litː hand other - one ),[],,False,False,,1
-iauu1242-1-7-1,,iauu1242-1,7,ōí ābū bɔ̀bɛ̄,ōí ābū bɔ̀bɛ̄,[],( litː hand other - two ),[],,False,False,,1
-iauu1242-1-8-1,,iauu1242-1,8,ōí ābū báuībē,ōí ābū báuībē,[],( litː hand other - three ),[],,False,False,,1
-iauu1242-1-9-1,,iauu1242-1,9,ōí ābū bɔ́-hāī bɔ́-hāidɛ̄,ōí ābū bɔ́-hāī bɔ́-hāidɛ̄,[],( litː 'other hand both-both' ),[],,False,False,,1
-iauu1242-1-10-1,,iauu1242-1,10,ōí ɸāhu áisītòɛ̀dɛ̄,ōí ɸāhu áisītòɛ̀dɛ̄,[],( litː hand all finished ),[],,False,False,,1
-iauu1242-1-10-2,,iauu1242-1,10,kadi,kadi,[],( litː many),[],,False,False,,1
+iauu1242-1-1-1,,iauu1242-1,1,bɪ̄síbɛ̄,bɪ̄síbɛ̄,[],,['chan2019'],,False,False,,1
+iauu1242-1-2-1,,iauu1242-1,2,bɔ̀bɛ̄,bɔ̀bɛ̄,[],,['chan2019'],,False,False,,1
+iauu1242-1-3-1,,iauu1242-1,3,báuībē,báuībē,[],,['chan2019'],,False,False,,1
+iauu1242-1-4-1,,iauu1242-1,4,bɔ́-hāī bɔ́-hāidɛ̄,bɔ́-hāī bɔ́-hāidɛ̄,[],( litː both-both ?),['chan2019'],,False,False,,1
+iauu1242-1-5-1,,iauu1242-1,5,ōí áisītòɛ̀dɛ̄,ōí áisītòɛ̀dɛ̄,[],( litː hand finished ),['chan2019'],,False,False,,1
+iauu1242-1-6-1,,iauu1242-1,6,ōí ābū ì kõi bísībɛ̄,ōí ābū ì kõi bísībɛ̄,[],( litː hand other - one ),['chan2019'],,False,False,,1
+iauu1242-1-7-1,,iauu1242-1,7,ōí ābū bɔ̀bɛ̄,ōí ābū bɔ̀bɛ̄,[],( litː hand other - two ),['chan2019'],,False,False,,1
+iauu1242-1-8-1,,iauu1242-1,8,ōí ābū báuībē,ōí ābū báuībē,[],( litː hand other - three ),['chan2019'],,False,False,,1
+iauu1242-1-9-1,,iauu1242-1,9,ōí ābū bɔ́-hāī bɔ́-hāidɛ̄,ōí ābū bɔ́-hāī bɔ́-hāidɛ̄,[],( litː 'other hand both-both' ),['chan2019'],,False,False,,1
+iauu1242-1-10-1,,iauu1242-1,10,ōí ɸāhu áisītòɛ̀dɛ̄,ōí ɸāhu áisītòɛ̀dɛ̄,[],( litː hand all finished ),['chan2019'],,False,False,,1
+iauu1242-1-10-2,,iauu1242-1,10,kadi,kadi,[],( litː many),['chan2019'],,False,False,,1

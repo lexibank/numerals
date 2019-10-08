@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-dyan1251-1-1-1,,dyan1251-1,1,bɛ̃̀ɡ,bɛ̃̀ɡ,[],,[],,False,False,,1
-dyan1251-1-1-2,,dyan1251-1,1,bɪ̀ɛlè,bɪ̀ɛlè,[],,[],,False,False,,1
-dyan1251-1-2-1,,dyan1251-1,2,yèɲɔ̃̀,yèɲɔ̃̀,[],,[],,False,False,,1
-dyan1251-1-3-1,,dyan1251-1,3,yèthɛ̃̀sì,yèthɛ̃̀sì,[],,[],,False,False,,1
-dyan1251-1-4-1,,dyan1251-1,4,yènàa,yènàa,[],,[],,False,False,,1
-dyan1251-1-5-1,,dyan1251-1,5,dìemà,dìemà,[],,[],,False,False,,1
-dyan1251-1-6-1,,dyan1251-1,6,mɔ̀lɔ̀dũ̀,mɔ̀lɔ̀dũ̀,[],( 5 + 1 ),[],,False,False,,1
-dyan1251-1-7-1,,dyan1251-1,7,mɔ̀lɔ̀ɲɔ̃̀,mɔ̀lɔ̀ɲɔ̃̀,[],( 5 + 2 ),[],,False,False,,1
-dyan1251-1-8-1,,dyan1251-1,8,mɔ̀lɔ̀thɛ̃̀sì,mɔ̀lɔ̀thɛ̃̀sì,[],( 5 + 3 ),[],,False,False,,1
-dyan1251-1-9-1,,dyan1251-1,9,nĩ́kpó-cí-bèrè,nĩ́kpó-cí-bèrè,[],( 10 - 1 ) ?,[],,False,False,,1
-dyan1251-1-10-1,,dyan1251-1,10,nĩ́kpó,nĩ́kpó,[],,[],,False,False,,1
-dyan1251-1-11-1,,dyan1251-1,11,nĩ́kpó-bèrè,nĩ́kpó-bèrè,[],,[],,False,False,,1
-dyan1251-1-12-1,,dyan1251-1,12,nĩ́kpó-yéɲɔ̃̀,nĩ́kpó-yéɲɔ̃̀,[],,[],,False,False,,1
-dyan1251-1-13-1,,dyan1251-1,13,nĩ́kpó-yéthɛ̃̀sì,nĩ́kpó-yéthɛ̃̀sì,[],,[],,False,False,,1
-dyan1251-1-14-1,,dyan1251-1,14,nĩ́kpó-yénàa,nĩ́kpó-yénàa,[],,[],,False,False,,1
-dyan1251-1-15-1,,dyan1251-1,15,nĩ́kpó-dìemà,nĩ́kpó-dìemà,[],,[],,False,False,,1
-dyan1251-1-16-1,,dyan1251-1,16,nĩ́kpó-mɔ́lɔ̀dũ̀,nĩ́kpó-mɔ́lɔ̀dũ̀,[],,[],,False,False,,1
-dyan1251-1-17-1,,dyan1251-1,17,nĩ́kpó-mɔ́lɔ̀ɲɔ̃̀,nĩ́kpó-mɔ́lɔ̀ɲɔ̃̀,[],,[],,False,False,,1
-dyan1251-1-18-1,,dyan1251-1,18,nĩ́kpó-mɔ́lɔ̀thɛ̃̀sì,nĩ́kpó-mɔ́lɔ̀thɛ̃̀sì,[],,[],,False,False,,1
-dyan1251-1-19-1,,dyan1251-1,19,cèerù-cí-bèrè,cèerù-cí-bèrè,[],( 20 - 1 ) ?,[],,False,False,,1
-dyan1251-1-20-1,,dyan1251-1,20,cèerù,cèerù,[],,[],,False,False,,1
-dyan1251-1-21-1,,dyan1251-1,21,cèerù-bèrè,cèerù-bèrè,[],,[],,False,False,,1
-dyan1251-1-22-1,,dyan1251-1,22,cèerù-bɛ̀-ɲɔ̃̀,cèerù-bɛ̀-ɲɔ̃̀,[],,[],,False,False,,1
-dyan1251-1-23-1,,dyan1251-1,23,cèerù-bɛ̀-thɛ̃̀sì,cèerù-bɛ̀-thɛ̃̀sì,[],,[],,False,False,,1
-dyan1251-1-24-1,,dyan1251-1,24,cèerù-bɛ̀-nàa,cèerù-bɛ̀-nàa,[],,[],,False,False,,1
-dyan1251-1-25-1,,dyan1251-1,25,cèerù-dìemà,cèerù-dìemà,[],,[],,False,False,,1
-dyan1251-1-26-1,,dyan1251-1,26,cèerù-bɛ̀-mɔ̀lɔ̀dũ̀,cèerù-bɛ̀-mɔ̀lɔ̀dũ̀,[],,[],,False,False,,1
-dyan1251-1-27-1,,dyan1251-1,27,cèerù-bɛ̀-mɔ̀lɔ̀ɲɔ̃̀,cèerù-bɛ̀-mɔ̀lɔ̀ɲɔ̃̀,[],,[],,False,False,,1
-dyan1251-1-28-1,,dyan1251-1,28,cèerù-bɛ̀-mɔ̀lɔ̀thɛ̃̀sì,cèerù-bɛ̀-mɔ̀lɔ̀thɛ̃̀sì,[],,[],,False,False,,1
-dyan1251-1-29-1,,dyan1251-1,29,cèerù-nĩ́kpó-cí-bèrè,cèerù-nĩ́kpó-cí-bèrè,[],( 20 + 10 -1),[],,False,False,,1
-dyan1251-1-30-1,,dyan1251-1,30,cèerù-nĩ́kpó,cèerù-nĩ́kpó,[],( 20 + 10 ),[],,False,False,,1
-dyan1251-1-40-1,,dyan1251-1,40,mùɲɔ̃̀,mùɲɔ̃̀,[],( 20 x 2 ),[],,False,False,,1
-dyan1251-1-50-1,,dyan1251-1,50,mùɲɔ̃̀-nĩ́kpó,mùɲɔ̃̀-nĩ́kpó,[],,[],,False,False,,1
-dyan1251-1-60-1,,dyan1251-1,60,mùthɛ̃̀sì,mùthɛ̃̀sì,[],( 20 x 3 ),[],,False,False,,1
-dyan1251-1-70-1,,dyan1251-1,70,mùthɛ̃̀sì-nĩ́kpó,mùthɛ̃̀sì-nĩ́kpó,[],,[],,False,False,,1
-dyan1251-1-80-1,,dyan1251-1,80,mùnàa,mùnàa,[],( 20 x 4 ),[],,False,False,,1
-dyan1251-1-90-1,,dyan1251-1,90,mùnàa-nĩ́kpó,mùnàa-nĩ́kpó,[],,[],,False,False,,1
-dyan1251-1-100-1,,dyan1251-1,100,tàmúɡú,tàmúɡú,[],,[],,False,False,,1
-dyan1251-1-200-1,,dyan1251-1,200,tã̀á-ɲɔ̃́,tã̀á-ɲɔ̃́,[],,[],,False,False,,1
-dyan1251-1-1000-1,,dyan1251-1,1000,tã̀a-nĩ́kpó,tã̀a-nĩ́kpó,[],,[],,False,False,,1
-dyan1251-1-2000-1,,dyan1251-1,2000,ɡbèlmà-ɲɔ̃̀,ɡbèlmà-ɲɔ̃̀,[],,[],,False,False,,1
+dyan1251-1-1-1,,dyan1251-1,1,bɛ̃̀ɡ,bɛ̃̀ɡ,[],,['chan2019'],,False,False,,1
+dyan1251-1-1-2,,dyan1251-1,1,bɪ̀ɛlè,bɪ̀ɛlè,[],,['chan2019'],,False,False,,1
+dyan1251-1-2-1,,dyan1251-1,2,yèɲɔ̃̀,yèɲɔ̃̀,[],,['chan2019'],,False,False,,1
+dyan1251-1-3-1,,dyan1251-1,3,yèthɛ̃̀sì,yèthɛ̃̀sì,[],,['chan2019'],,False,False,,1
+dyan1251-1-4-1,,dyan1251-1,4,yènàa,yènàa,[],,['chan2019'],,False,False,,1
+dyan1251-1-5-1,,dyan1251-1,5,dìemà,dìemà,[],,['chan2019'],,False,False,,1
+dyan1251-1-6-1,,dyan1251-1,6,mɔ̀lɔ̀dũ̀,mɔ̀lɔ̀dũ̀,[],( 5 + 1 ),['chan2019'],,False,False,,1
+dyan1251-1-7-1,,dyan1251-1,7,mɔ̀lɔ̀ɲɔ̃̀,mɔ̀lɔ̀ɲɔ̃̀,[],( 5 + 2 ),['chan2019'],,False,False,,1
+dyan1251-1-8-1,,dyan1251-1,8,mɔ̀lɔ̀thɛ̃̀sì,mɔ̀lɔ̀thɛ̃̀sì,[],( 5 + 3 ),['chan2019'],,False,False,,1
+dyan1251-1-9-1,,dyan1251-1,9,nĩ́kpó-cí-bèrè,nĩ́kpó-cí-bèrè,[],( 10 - 1 ) ?,['chan2019'],,False,False,,1
+dyan1251-1-10-1,,dyan1251-1,10,nĩ́kpó,nĩ́kpó,[],,['chan2019'],,False,False,,1
+dyan1251-1-11-1,,dyan1251-1,11,nĩ́kpó-bèrè,nĩ́kpó-bèrè,[],,['chan2019'],,False,False,,1
+dyan1251-1-12-1,,dyan1251-1,12,nĩ́kpó-yéɲɔ̃̀,nĩ́kpó-yéɲɔ̃̀,[],,['chan2019'],,False,False,,1
+dyan1251-1-13-1,,dyan1251-1,13,nĩ́kpó-yéthɛ̃̀sì,nĩ́kpó-yéthɛ̃̀sì,[],,['chan2019'],,False,False,,1
+dyan1251-1-14-1,,dyan1251-1,14,nĩ́kpó-yénàa,nĩ́kpó-yénàa,[],,['chan2019'],,False,False,,1
+dyan1251-1-15-1,,dyan1251-1,15,nĩ́kpó-dìemà,nĩ́kpó-dìemà,[],,['chan2019'],,False,False,,1
+dyan1251-1-16-1,,dyan1251-1,16,nĩ́kpó-mɔ́lɔ̀dũ̀,nĩ́kpó-mɔ́lɔ̀dũ̀,[],,['chan2019'],,False,False,,1
+dyan1251-1-17-1,,dyan1251-1,17,nĩ́kpó-mɔ́lɔ̀ɲɔ̃̀,nĩ́kpó-mɔ́lɔ̀ɲɔ̃̀,[],,['chan2019'],,False,False,,1
+dyan1251-1-18-1,,dyan1251-1,18,nĩ́kpó-mɔ́lɔ̀thɛ̃̀sì,nĩ́kpó-mɔ́lɔ̀thɛ̃̀sì,[],,['chan2019'],,False,False,,1
+dyan1251-1-19-1,,dyan1251-1,19,cèerù-cí-bèrè,cèerù-cí-bèrè,[],( 20 - 1 ) ?,['chan2019'],,False,False,,1
+dyan1251-1-20-1,,dyan1251-1,20,cèerù,cèerù,[],,['chan2019'],,False,False,,1
+dyan1251-1-21-1,,dyan1251-1,21,cèerù-bèrè,cèerù-bèrè,[],,['chan2019'],,False,False,,1
+dyan1251-1-22-1,,dyan1251-1,22,cèerù-bɛ̀-ɲɔ̃̀,cèerù-bɛ̀-ɲɔ̃̀,[],,['chan2019'],,False,False,,1
+dyan1251-1-23-1,,dyan1251-1,23,cèerù-bɛ̀-thɛ̃̀sì,cèerù-bɛ̀-thɛ̃̀sì,[],,['chan2019'],,False,False,,1
+dyan1251-1-24-1,,dyan1251-1,24,cèerù-bɛ̀-nàa,cèerù-bɛ̀-nàa,[],,['chan2019'],,False,False,,1
+dyan1251-1-25-1,,dyan1251-1,25,cèerù-dìemà,cèerù-dìemà,[],,['chan2019'],,False,False,,1
+dyan1251-1-26-1,,dyan1251-1,26,cèerù-bɛ̀-mɔ̀lɔ̀dũ̀,cèerù-bɛ̀-mɔ̀lɔ̀dũ̀,[],,['chan2019'],,False,False,,1
+dyan1251-1-27-1,,dyan1251-1,27,cèerù-bɛ̀-mɔ̀lɔ̀ɲɔ̃̀,cèerù-bɛ̀-mɔ̀lɔ̀ɲɔ̃̀,[],,['chan2019'],,False,False,,1
+dyan1251-1-28-1,,dyan1251-1,28,cèerù-bɛ̀-mɔ̀lɔ̀thɛ̃̀sì,cèerù-bɛ̀-mɔ̀lɔ̀thɛ̃̀sì,[],,['chan2019'],,False,False,,1
+dyan1251-1-29-1,,dyan1251-1,29,cèerù-nĩ́kpó-cí-bèrè,cèerù-nĩ́kpó-cí-bèrè,[],( 20 + 10 -1),['chan2019'],,False,False,,1
+dyan1251-1-30-1,,dyan1251-1,30,cèerù-nĩ́kpó,cèerù-nĩ́kpó,[],( 20 + 10 ),['chan2019'],,False,False,,1
+dyan1251-1-40-1,,dyan1251-1,40,mùɲɔ̃̀,mùɲɔ̃̀,[],( 20 x 2 ),['chan2019'],,False,False,,1
+dyan1251-1-50-1,,dyan1251-1,50,mùɲɔ̃̀-nĩ́kpó,mùɲɔ̃̀-nĩ́kpó,[],,['chan2019'],,False,False,,1
+dyan1251-1-60-1,,dyan1251-1,60,mùthɛ̃̀sì,mùthɛ̃̀sì,[],( 20 x 3 ),['chan2019'],,False,False,,1
+dyan1251-1-70-1,,dyan1251-1,70,mùthɛ̃̀sì-nĩ́kpó,mùthɛ̃̀sì-nĩ́kpó,[],,['chan2019'],,False,False,,1
+dyan1251-1-80-1,,dyan1251-1,80,mùnàa,mùnàa,[],( 20 x 4 ),['chan2019'],,False,False,,1
+dyan1251-1-90-1,,dyan1251-1,90,mùnàa-nĩ́kpó,mùnàa-nĩ́kpó,[],,['chan2019'],,False,False,,1
+dyan1251-1-100-1,,dyan1251-1,100,tàmúɡú,tàmúɡú,[],,['chan2019'],,False,False,,1
+dyan1251-1-200-1,,dyan1251-1,200,tã̀á-ɲɔ̃́,tã̀á-ɲɔ̃́,[],,['chan2019'],,False,False,,1
+dyan1251-1-1000-1,,dyan1251-1,1000,tã̀a-nĩ́kpó,tã̀a-nĩ́kpó,[],,['chan2019'],,False,False,,1
+dyan1251-1-2000-1,,dyan1251-1,2000,ɡbèlmà-ɲɔ̃̀,ɡbèlmà-ɲɔ̃̀,[],,['chan2019'],,False,False,,1

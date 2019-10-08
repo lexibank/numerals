@@ -1,27 +1,27 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-huam1247-1-1-1,,huam1247-1,1,tʃikitʃi,tʃikitʃi,[],,[],,False,False,,1
-huam1247-1-2-1,,huam1247-1,2,ximaɾ,ximaɾ,[],,[],,False,False,,1
-huam1247-1-3-1,,huam1247-1,3,kampatum,kampatum,[],,[],,False,False,,1
-huam1247-1-4-1,,huam1247-1,4,aintuk aintuk,aintuk aintuk,[],,[],,False,False,,1
-huam1247-1-5-1,,huam1247-1,5,tʃikitʃik uwɨxan amua,tʃikitʃik uwɨxan amua,[],,[],,False,False,,1
-huam1247-1-6-1,,huam1247-1,6,tʃikitʃik uwɨxan amua iɾaku,tʃikitʃik uwɨxan amua iɾaku,[],,[],,False,False,,1
-huam1247-1-7-1,,huam1247-1,7,ximaɾ uwɨxan amua iɾaku,ximaɾ uwɨxan amua iɾaku,[],,[],,False,False,,1
-huam1247-1-8-1,,huam1247-1,8,kampatum uwɨxan amua iɾaku,kampatum uwɨxan amua iɾaku,[],,[],,False,False,,1
-huam1247-1-9-1,,huam1247-1,9,ipak usumak,ipak usumak,[],,[],,False,False,,1
-huam1247-1-10-1,,huam1247-1,10,ximaɾa uwɨxan amua,ximaɾa uwɨxan amua,[],,[],,False,False,,1
-huam1247-1-11-1,,huam1247-1,11,ximaɾa uwɨxan amua tʃikitʃik,ximaɾa uwɨxan amua tʃikitʃik,[],,[],,False,False,,1
-huam1247-1-12-1,,huam1247-1,12,ximaɾa uwɨxan amua ximaɾ,ximaɾa uwɨxan amua ximaɾ,[],,[],,False,False,,1
-huam1247-1-13-1,,huam1247-1,13,ximaɾa uwɨxan amua kampatum,ximaɾa uwɨxan amua kampatum,[],,[],,False,False,,1
-huam1247-1-14-1,,huam1247-1,14,ximaɾa uwɨxan amua aintuk aintuk,ximaɾa uwɨxan amua aintuk aintuk,[],,[],,False,False,,1
-huam1247-1-15-1,,huam1247-1,15,ximaɾa u. a. tʃikitʃi nawɨn amua,ximaɾa u. a. tʃikitʃi nawɨn amua,[],,[],,False,True,,1
-huam1247-1-16-1,,huam1247-1,16,ximaɾa u. a. tʃikitʃi n. a. iɾaku,ximaɾa u. a. tʃikitʃi n. a. iɾaku,[],,[],,False,True,,1
-huam1247-1-17-1,,huam1247-1,17,ximaɾa u. a. ximaɾa n. a. iɾaku,ximaɾa u. a. ximaɾa n. a. iɾaku,[],,[],,False,True,,1
-huam1247-1-18-1,,huam1247-1,18,ximaɾa u. a. kampatum n. a. iɾaku,ximaɾa u. a. kampatum n. a. iɾaku,[],,[],,False,True,,1
-huam1247-1-19-1,,huam1247-1,19,ximaɾa u. a. ipak usumak,ximaɾa u. a. ipak usumak,[],,[],,False,True,,1
-huam1247-1-20-1,,huam1247-1,20,ximaɾa uwɨxan amua ximaɾa nawɨn,ximaɾa uwɨxan amua ximaɾa nawɨn,[],(amua *),[],,False,False,,1
-huam1247-1-21-1,,huam1247-1,21,ximaɾa u. a. x. n. amua nuiʎaʃa tʃikitʃi,ximaɾa u. a. x. n. amua nuiʎaʃa tʃikitʃi,[],,[],,False,True,,1
-huam1247-1-22-1,,huam1247-1,22,ximaɾa u. a. x. n. amua nuiʎaʃa ximar,ximaɾa u. a. x. n. amua nuiʎaʃa ximar,[],,[],,False,True,,1
-huam1247-1-23-1,,huam1247-1,23,23 to 29 in the same patterns,23 to 29 in the same patterns,[],,[],,False,True,,1
-huam1247-1-30-1,,huam1247-1,30,ximaɾa u. a. x. n. amua nuiʎaʃa + 10,ximaɾa u. a. x. n. amua nuiʎaʃa + 10,[],,[],,False,True,,1
-huam1247-1-40-1,,huam1247-1,40,ximaɾa u. a. x. n. amua nuiʎaʃa + 20,ximaɾa u. a. x. n. amua nuiʎaʃa + 20,[],,[],,False,True,,1
-huam1247-1-50-1,,huam1247-1,50,50 to 100 in the same patterns,50 to 100 in the same patterns,[],,[],,False,True,,1
+huam1247-1-1-1,,huam1247-1,1,tʃikitʃi,tʃikitʃi,[],,['chan2019'],,False,False,,1
+huam1247-1-2-1,,huam1247-1,2,ximaɾ,ximaɾ,[],,['chan2019'],,False,False,,1
+huam1247-1-3-1,,huam1247-1,3,kampatum,kampatum,[],,['chan2019'],,False,False,,1
+huam1247-1-4-1,,huam1247-1,4,aintuk aintuk,aintuk aintuk,[],,['chan2019'],,False,False,,1
+huam1247-1-5-1,,huam1247-1,5,tʃikitʃik uwɨxan amua,tʃikitʃik uwɨxan amua,[],,['chan2019'],,False,False,,1
+huam1247-1-6-1,,huam1247-1,6,tʃikitʃik uwɨxan amua iɾaku,tʃikitʃik uwɨxan amua iɾaku,[],,['chan2019'],,False,False,,1
+huam1247-1-7-1,,huam1247-1,7,ximaɾ uwɨxan amua iɾaku,ximaɾ uwɨxan amua iɾaku,[],,['chan2019'],,False,False,,1
+huam1247-1-8-1,,huam1247-1,8,kampatum uwɨxan amua iɾaku,kampatum uwɨxan amua iɾaku,[],,['chan2019'],,False,False,,1
+huam1247-1-9-1,,huam1247-1,9,ipak usumak,ipak usumak,[],,['chan2019'],,False,False,,1
+huam1247-1-10-1,,huam1247-1,10,ximaɾa uwɨxan amua,ximaɾa uwɨxan amua,[],,['chan2019'],,False,False,,1
+huam1247-1-11-1,,huam1247-1,11,ximaɾa uwɨxan amua tʃikitʃik,ximaɾa uwɨxan amua tʃikitʃik,[],,['chan2019'],,False,False,,1
+huam1247-1-12-1,,huam1247-1,12,ximaɾa uwɨxan amua ximaɾ,ximaɾa uwɨxan amua ximaɾ,[],,['chan2019'],,False,False,,1
+huam1247-1-13-1,,huam1247-1,13,ximaɾa uwɨxan amua kampatum,ximaɾa uwɨxan amua kampatum,[],,['chan2019'],,False,False,,1
+huam1247-1-14-1,,huam1247-1,14,ximaɾa uwɨxan amua aintuk aintuk,ximaɾa uwɨxan amua aintuk aintuk,[],,['chan2019'],,False,False,,1
+huam1247-1-15-1,,huam1247-1,15,ximaɾa u. a. tʃikitʃi nawɨn amua,ximaɾa u. a. tʃikitʃi nawɨn amua,[],,['chan2019'],,False,True,,1
+huam1247-1-16-1,,huam1247-1,16,ximaɾa u. a. tʃikitʃi n. a. iɾaku,ximaɾa u. a. tʃikitʃi n. a. iɾaku,[],,['chan2019'],,False,True,,1
+huam1247-1-17-1,,huam1247-1,17,ximaɾa u. a. ximaɾa n. a. iɾaku,ximaɾa u. a. ximaɾa n. a. iɾaku,[],,['chan2019'],,False,True,,1
+huam1247-1-18-1,,huam1247-1,18,ximaɾa u. a. kampatum n. a. iɾaku,ximaɾa u. a. kampatum n. a. iɾaku,[],,['chan2019'],,False,True,,1
+huam1247-1-19-1,,huam1247-1,19,ximaɾa u. a. ipak usumak,ximaɾa u. a. ipak usumak,[],,['chan2019'],,False,True,,1
+huam1247-1-20-1,,huam1247-1,20,ximaɾa uwɨxan amua ximaɾa nawɨn,ximaɾa uwɨxan amua ximaɾa nawɨn,[],(amua *),['chan2019'],,False,False,,1
+huam1247-1-21-1,,huam1247-1,21,ximaɾa u. a. x. n. amua nuiʎaʃa tʃikitʃi,ximaɾa u. a. x. n. amua nuiʎaʃa tʃikitʃi,[],,['chan2019'],,False,True,,1
+huam1247-1-22-1,,huam1247-1,22,ximaɾa u. a. x. n. amua nuiʎaʃa ximar,ximaɾa u. a. x. n. amua nuiʎaʃa ximar,[],,['chan2019'],,False,True,,1
+huam1247-1-23-1,,huam1247-1,23,23 to 29 in the same patterns,23 to 29 in the same patterns,[],,['chan2019'],,False,True,,1
+huam1247-1-30-1,,huam1247-1,30,ximaɾa u. a. x. n. amua nuiʎaʃa + 10,ximaɾa u. a. x. n. amua nuiʎaʃa + 10,[],,['chan2019'],,False,True,,1
+huam1247-1-40-1,,huam1247-1,40,ximaɾa u. a. x. n. amua nuiʎaʃa + 20,ximaɾa u. a. x. n. amua nuiʎaʃa + 20,[],,['chan2019'],,False,True,,1
+huam1247-1-50-1,,huam1247-1,50,50 to 100 in the same patterns,50 to 100 in the same patterns,[],,['chan2019'],,False,True,,1

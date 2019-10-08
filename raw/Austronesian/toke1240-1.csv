@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-toke1240-1-1-1,,toke1240-1,1,tahi,tahi,[],,[],,False,False,,1
-toke1240-1-2-1,,toke1240-1,2,lua,lua,[],,[],,False,False,,1
-toke1240-1-3-1,,toke1240-1,3,tolu,tolu,[],,[],,False,False,,1
-toke1240-1-4-1,,toke1240-1,4,faː,faː,[],,[],,False,False,,1
-toke1240-1-5-1,,toke1240-1,5,lima,lima,[],,[],,False,False,,1
-toke1240-1-6-1,,toke1240-1,6,ono,ono,[],,[],,False,False,,1
-toke1240-1-7-1,,toke1240-1,7,fitu,fitu,[],,[],,False,False,,1
-toke1240-1-8-1,,toke1240-1,8,valu,valu,[],,[],,False,False,,1
-toke1240-1-9-1,,toke1240-1,9,iva,iva,[],,[],,False,False,,1
-toke1240-1-10-1,,toke1240-1,10,hefulu,hefulu,[],,[],,False,False,,1
-toke1240-1-11-1,,toke1240-1,11,hefulu tahi,hefulu tahi,[],,[],,False,False,,1
-toke1240-1-12-1,,toke1240-1,12,hefulu lua,hefulu lua,[],,[],,False,False,,1
-toke1240-1-13-1,,toke1240-1,13,hefulu tolu,hefulu tolu,[],,[],,False,False,,1
-toke1240-1-14-1,,toke1240-1,14,hefulu faː,hefulu faː,[],,[],,False,False,,1
-toke1240-1-15-1,,toke1240-1,15,hefulu lima,hefulu lima,[],,[],,False,False,,1
-toke1240-1-16-1,,toke1240-1,16,hefulu ono,hefulu ono,[],,[],,False,False,,1
-toke1240-1-17-1,,toke1240-1,17,hefulu fitu,hefulu fitu,[],,[],,False,False,,1
-toke1240-1-18-1,,toke1240-1,18,hefulu valu,hefulu valu,[],,[],,False,False,,1
-toke1240-1-19-1,,toke1240-1,19,hefulu iva,hefulu iva,[],,[],,False,False,,1
-toke1240-1-20-1,,toke1240-1,20,lua hefulu,lua hefulu,[],,[],,False,False,,1
-toke1240-1-21-1,,toke1240-1,21,lua hefulu tahi,lua hefulu tahi,[],,[],,False,False,,1
-toke1240-1-22-1,,toke1240-1,22,lua hefulu lua,lua hefulu lua,[],,[],,False,False,,1
-toke1240-1-23-1,,toke1240-1,23,lua hefulu tolu,lua hefulu tolu,[],,[],,False,False,,1
-toke1240-1-24-1,,toke1240-1,24,lua hefulu faː,lua hefulu faː,[],,[],,False,False,,1
-toke1240-1-25-1,,toke1240-1,25,lua hefulu lima,lua hefulu lima,[],,[],,False,False,,1
-toke1240-1-26-1,,toke1240-1,26,lua hefulu ono,lua hefulu ono,[],,[],,False,False,,1
-toke1240-1-27-1,,toke1240-1,27,lua hefulu fitu,lua hefulu fitu,[],,[],,False,False,,1
-toke1240-1-28-1,,toke1240-1,28,lua hefulu valu,lua hefulu valu,[],,[],,False,False,,1
-toke1240-1-29-1,,toke1240-1,29,lua hefulu iva,lua hefulu iva,[],,[],,False,False,,1
-toke1240-1-30-1,,toke1240-1,30,tolu hefulu,tolu hefulu,[],,[],,False,False,,1
-toke1240-1-40-1,,toke1240-1,40,faː hefulu,faː hefulu,[],,[],,False,False,,1
-toke1240-1-50-1,,toke1240-1,50,lima hefulu,lima hefulu,[],,[],,False,False,,1
-toke1240-1-60-1,,toke1240-1,60,ono hefulu,ono hefulu,[],,[],,False,False,,1
-toke1240-1-70-1,,toke1240-1,70,fitu hefulu,fitu hefulu,[],,[],,False,False,,1
-toke1240-1-80-1,,toke1240-1,80,valu hefulu,valu hefulu,[],,[],,False,False,,1
-toke1240-1-90-1,,toke1240-1,90,iva hefulu,iva hefulu,[],,[],,False,False,,1
-toke1240-1-100-1,,toke1240-1,100,helau,helau,[],,[],,False,False,,1
-toke1240-1-200-1,,toke1240-1,200,lua helau,lua helau,[],,[],,False,False,,1
-toke1240-1-1000-1,,toke1240-1,1000,afe,afe,[],,[],,False,False,,1
-toke1240-1-2000-1,,toke1240-1,2000,lua afe,lua afe,[],,[],,False,False,,1
+toke1240-1-1-1,,toke1240-1,1,tahi,tahi,[],,['chan2019'],,False,False,,1
+toke1240-1-2-1,,toke1240-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+toke1240-1-3-1,,toke1240-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+toke1240-1-4-1,,toke1240-1,4,faː,faː,[],,['chan2019'],,False,False,,1
+toke1240-1-5-1,,toke1240-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+toke1240-1-6-1,,toke1240-1,6,ono,ono,[],,['chan2019'],,False,False,,1
+toke1240-1-7-1,,toke1240-1,7,fitu,fitu,[],,['chan2019'],,False,False,,1
+toke1240-1-8-1,,toke1240-1,8,valu,valu,[],,['chan2019'],,False,False,,1
+toke1240-1-9-1,,toke1240-1,9,iva,iva,[],,['chan2019'],,False,False,,1
+toke1240-1-10-1,,toke1240-1,10,hefulu,hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-11-1,,toke1240-1,11,hefulu tahi,hefulu tahi,[],,['chan2019'],,False,False,,1
+toke1240-1-12-1,,toke1240-1,12,hefulu lua,hefulu lua,[],,['chan2019'],,False,False,,1
+toke1240-1-13-1,,toke1240-1,13,hefulu tolu,hefulu tolu,[],,['chan2019'],,False,False,,1
+toke1240-1-14-1,,toke1240-1,14,hefulu faː,hefulu faː,[],,['chan2019'],,False,False,,1
+toke1240-1-15-1,,toke1240-1,15,hefulu lima,hefulu lima,[],,['chan2019'],,False,False,,1
+toke1240-1-16-1,,toke1240-1,16,hefulu ono,hefulu ono,[],,['chan2019'],,False,False,,1
+toke1240-1-17-1,,toke1240-1,17,hefulu fitu,hefulu fitu,[],,['chan2019'],,False,False,,1
+toke1240-1-18-1,,toke1240-1,18,hefulu valu,hefulu valu,[],,['chan2019'],,False,False,,1
+toke1240-1-19-1,,toke1240-1,19,hefulu iva,hefulu iva,[],,['chan2019'],,False,False,,1
+toke1240-1-20-1,,toke1240-1,20,lua hefulu,lua hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-21-1,,toke1240-1,21,lua hefulu tahi,lua hefulu tahi,[],,['chan2019'],,False,False,,1
+toke1240-1-22-1,,toke1240-1,22,lua hefulu lua,lua hefulu lua,[],,['chan2019'],,False,False,,1
+toke1240-1-23-1,,toke1240-1,23,lua hefulu tolu,lua hefulu tolu,[],,['chan2019'],,False,False,,1
+toke1240-1-24-1,,toke1240-1,24,lua hefulu faː,lua hefulu faː,[],,['chan2019'],,False,False,,1
+toke1240-1-25-1,,toke1240-1,25,lua hefulu lima,lua hefulu lima,[],,['chan2019'],,False,False,,1
+toke1240-1-26-1,,toke1240-1,26,lua hefulu ono,lua hefulu ono,[],,['chan2019'],,False,False,,1
+toke1240-1-27-1,,toke1240-1,27,lua hefulu fitu,lua hefulu fitu,[],,['chan2019'],,False,False,,1
+toke1240-1-28-1,,toke1240-1,28,lua hefulu valu,lua hefulu valu,[],,['chan2019'],,False,False,,1
+toke1240-1-29-1,,toke1240-1,29,lua hefulu iva,lua hefulu iva,[],,['chan2019'],,False,False,,1
+toke1240-1-30-1,,toke1240-1,30,tolu hefulu,tolu hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-40-1,,toke1240-1,40,faː hefulu,faː hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-50-1,,toke1240-1,50,lima hefulu,lima hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-60-1,,toke1240-1,60,ono hefulu,ono hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-70-1,,toke1240-1,70,fitu hefulu,fitu hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-80-1,,toke1240-1,80,valu hefulu,valu hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-90-1,,toke1240-1,90,iva hefulu,iva hefulu,[],,['chan2019'],,False,False,,1
+toke1240-1-100-1,,toke1240-1,100,helau,helau,[],,['chan2019'],,False,False,,1
+toke1240-1-200-1,,toke1240-1,200,lua helau,lua helau,[],,['chan2019'],,False,False,,1
+toke1240-1-1000-1,,toke1240-1,1000,afe,afe,[],,['chan2019'],,False,False,,1
+toke1240-1-2000-1,,toke1240-1,2000,lua afe,lua afe,[],,['chan2019'],,False,False,,1

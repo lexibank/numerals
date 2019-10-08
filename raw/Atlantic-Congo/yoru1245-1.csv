@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-yoru1245-1-1-1,,yoru1245-1,1,oókan,oókan,[],,[],,False,False,oókan,1
-yoru1245-1-2-1,,yoru1245-1,2,eéɟì,eéɟì,[],,[],,False,False,eéjì,1
-yoru1245-1-3-1,,yoru1245-1,3,ɛɛ́ta,ɛɛ́ta,[],,[],,False,False,ẹẹ́ta,1
-yoru1245-1-4-1,,yoru1245-1,4,ɛɛ́ɾin,ɛɛ́ɾin,[],,[],,False,False,ẹẹ́rin,1
-yoru1245-1-5-1,,yoru1245-1,5,aáɾun,aáɾun,[],,[],,False,False,aárùn,1
-yoru1245-1-6-1,,yoru1245-1,6,ɛɛ́fà,ɛɛ́fà,[],,[],,False,False,ẹẹ́fà,1
-yoru1245-1-7-1,,yoru1245-1,7,ɛɛ́ɟe,ɛɛ́ɟe,[],,[],,False,False,ẹẹ́je,1
-yoru1245-1-8-1,,yoru1245-1,8,ɛɛ́ɟɔ,ɛɛ́ɟɔ,[],,[],,False,False,ẹẹ́jọ,1
-yoru1245-1-9-1,,yoru1245-1,9,ɛɛ́sàn,ɛɛ́sàn,[],,[],,False,False,ẹẹ́sàn,1
-yoru1245-1-10-1,,yoru1245-1,10,ɛɛ́wàá,ɛɛ́wàá,[],,[],,False,False,ẹẹ́wàá,1
-yoru1245-1-11-1,,yoru1245-1,11,oókàn làá,oókàn làá,[],( 10+ 1),[],,False,False,,1
-yoru1245-1-12-1,,yoru1245-1,12,eéjì làá,eéjì làá,[],( 10+ 2 ),[],,False,False,,1
-yoru1245-1-13-1,,yoru1245-1,13,ẹẹ́tà làá,ẹẹ́tà làá,[],( 10+ 3 ),[],,False,False,,1
-yoru1245-1-14-1,,yoru1245-1,14,ẹẹ́rìn làá,ẹẹ́rìn làá,[],( 10+ 4 ),[],,False,False,,1
-yoru1245-1-15-1,,yoru1245-1,15,ẹ̀ẹ́doɡún,ẹ̀ẹ́doɡún,[],( 20 - 5 ),[],,False,False,,1
-yoru1245-1-16-1,,yoru1245-1,16,ẹẹ́rìn dín lóɡún,ẹẹ́rìn dín lóɡún,[],( 20 - 4 ),[],,False,False,,1
-yoru1245-1-17-1,,yoru1245-1,17,ẹẹ́tà dín lóɡún,ẹẹ́tà dín lóɡún,[],( 20 - 3 ),[],,False,False,,1
-yoru1245-1-18-1,,yoru1245-1,18,eéjì dín lóɡún,eéjì dín lóɡún,[],( 20 - 2 ),[],,False,False,,1
-yoru1245-1-19-1,,yoru1245-1,19,oókàn dín lóɡún,oókàn dín lóɡún,[],( 20 - 1 ),[],,False,False,,1
-yoru1245-1-20-1,,yoru1245-1,20,oɡún,oɡún,[],,[],,False,False,,1
-yoru1245-1-21-1,,yoru1245-1,21,oókàn lé lóɡún,oókàn lé lóɡún,[],( 20+ 1),[],,False,False,,1
-yoru1245-1-22-1,,yoru1245-1,22,eéjì lé lóɡún,eéjì lé lóɡún,[],( 20+ 2 ),[],,False,False,,1
-yoru1245-1-23-1,,yoru1245-1,23,ẹẹ́tà lé lóɡún,ẹẹ́tà lé lóɡún,[],( 20+ 3 ),[],,False,False,,1
-yoru1245-1-24-1,,yoru1245-1,24,ẹẹ́rìn lé lóɡún,ẹẹ́rìn lé lóɡún,[],( 20+ 4 ),[],,False,False,,1
-yoru1245-1-25-1,,yoru1245-1,25,ẹ̀ẹ́dọ̀ọ́ɡbọ̀ǹ,ẹ̀ẹ́dọ̀ọ́ɡbọ̀ǹ,[],( 30 - 5 ),[],,False,False,,1
-yoru1245-1-26-1,,yoru1245-1,26,ẹẹ́rìn dín lọɡbọ̀n,ẹẹ́rìn dín lọɡbọ̀n,[],( 30 - 4 ),[],,False,False,,1
-yoru1245-1-27-1,,yoru1245-1,27,ẹẹ́tà dín lọɡbọ̀n,ẹẹ́tà dín lọɡbọ̀n,[],( 30 - 3 ),[],,False,False,,1
-yoru1245-1-28-1,,yoru1245-1,28,eéjì dín lọɡbọ̀n,eéjì dín lọɡbọ̀n,[],( 30 - 2 ),[],,False,False,,1
-yoru1245-1-29-1,,yoru1245-1,29,oókàn dín lọɡbọ̀n,oókàn dín lọɡbọ̀n,[],( 30 -1 ),[],,False,False,,1
-yoru1245-1-30-1,,yoru1245-1,30,ɔɡ͡bɔ̀n,ɔɡ͡bɔ̀n,[],,[],,False,False,ọɡbọ̀n,1
-yoru1245-1-40-1,,yoru1245-1,40,ọɡbọ̀ji,ọɡbọ̀ji,[],( 20 x 2 ),[],,False,False,,1
-yoru1245-1-50-1,,yoru1245-1,50,àádọ́ta,àádọ́ta,[],[ ( 20 x 3 ) -10 )],[],,False,False,,1
-yoru1245-1-60-1,,yoru1245-1,60,ọɡọ́ta,ọɡọ́ta,[],( 20 x 3 ),[],,False,False,,1
-yoru1245-1-70-1,,yoru1245-1,70,àádọ́rin,àádọ́rin,[],(' ten from five twenties '),[],,False,False,,1
-yoru1245-1-80-1,,yoru1245-1,80,ọɡọ́rin,ọɡọ́rin,[],( 20 x 4 ),[],,False,False,,1
-yoru1245-1-90-1,,yoru1245-1,90,àádọ́rùń,àádọ́rùń,[],(' ten from five twenties '),[],,False,False,,1
-yoru1245-1-100-1,,yoru1245-1,100,ọɡọ́rùn = ọ̀rún,ọɡọ́rùn = ọ̀rún,[],,[],,False,True,,1
-yoru1245-1-200-1,,yoru1245-1,200,iɡba,iɡba,[],,[],,False,False,,1
-yoru1245-1-200-2,,yoru1245-1,200,400. irínwó,400. irínwó,[],,[],,False,True,,1
-yoru1245-1-1000-1,,yoru1245-1,1000,ẹɡbẹ̀rún,ẹɡbẹ̀rún,[],( 5 x 200),[],,False,False,,1
-yoru1245-1-2000-1,,yoru1245-1,2000,ẹɡbẹ̀wá = ẹɡbàá,ẹɡbẹ̀wá = ẹɡbàá,[],( 200 x 10 ),[],,False,True,,1
+yoru1245-1-1-1,,yoru1245-1,1,oókan,oókan,[],,['chan2019'],,False,False,oókan,1
+yoru1245-1-2-1,,yoru1245-1,2,eéɟì,eéɟì,[],,['chan2019'],,False,False,eéjì,1
+yoru1245-1-3-1,,yoru1245-1,3,ɛɛ́ta,ɛɛ́ta,[],,['chan2019'],,False,False,ẹẹ́ta,1
+yoru1245-1-4-1,,yoru1245-1,4,ɛɛ́ɾin,ɛɛ́ɾin,[],,['chan2019'],,False,False,ẹẹ́rin,1
+yoru1245-1-5-1,,yoru1245-1,5,aáɾun,aáɾun,[],,['chan2019'],,False,False,aárùn,1
+yoru1245-1-6-1,,yoru1245-1,6,ɛɛ́fà,ɛɛ́fà,[],,['chan2019'],,False,False,ẹẹ́fà,1
+yoru1245-1-7-1,,yoru1245-1,7,ɛɛ́ɟe,ɛɛ́ɟe,[],,['chan2019'],,False,False,ẹẹ́je,1
+yoru1245-1-8-1,,yoru1245-1,8,ɛɛ́ɟɔ,ɛɛ́ɟɔ,[],,['chan2019'],,False,False,ẹẹ́jọ,1
+yoru1245-1-9-1,,yoru1245-1,9,ɛɛ́sàn,ɛɛ́sàn,[],,['chan2019'],,False,False,ẹẹ́sàn,1
+yoru1245-1-10-1,,yoru1245-1,10,ɛɛ́wàá,ɛɛ́wàá,[],,['chan2019'],,False,False,ẹẹ́wàá,1
+yoru1245-1-11-1,,yoru1245-1,11,oókàn làá,oókàn làá,[],( 10+ 1),['chan2019'],,False,False,,1
+yoru1245-1-12-1,,yoru1245-1,12,eéjì làá,eéjì làá,[],( 10+ 2 ),['chan2019'],,False,False,,1
+yoru1245-1-13-1,,yoru1245-1,13,ẹẹ́tà làá,ẹẹ́tà làá,[],( 10+ 3 ),['chan2019'],,False,False,,1
+yoru1245-1-14-1,,yoru1245-1,14,ẹẹ́rìn làá,ẹẹ́rìn làá,[],( 10+ 4 ),['chan2019'],,False,False,,1
+yoru1245-1-15-1,,yoru1245-1,15,ẹ̀ẹ́doɡún,ẹ̀ẹ́doɡún,[],( 20 - 5 ),['chan2019'],,False,False,,1
+yoru1245-1-16-1,,yoru1245-1,16,ẹẹ́rìn dín lóɡún,ẹẹ́rìn dín lóɡún,[],( 20 - 4 ),['chan2019'],,False,False,,1
+yoru1245-1-17-1,,yoru1245-1,17,ẹẹ́tà dín lóɡún,ẹẹ́tà dín lóɡún,[],( 20 - 3 ),['chan2019'],,False,False,,1
+yoru1245-1-18-1,,yoru1245-1,18,eéjì dín lóɡún,eéjì dín lóɡún,[],( 20 - 2 ),['chan2019'],,False,False,,1
+yoru1245-1-19-1,,yoru1245-1,19,oókàn dín lóɡún,oókàn dín lóɡún,[],( 20 - 1 ),['chan2019'],,False,False,,1
+yoru1245-1-20-1,,yoru1245-1,20,oɡún,oɡún,[],,['chan2019'],,False,False,,1
+yoru1245-1-21-1,,yoru1245-1,21,oókàn lé lóɡún,oókàn lé lóɡún,[],( 20+ 1),['chan2019'],,False,False,,1
+yoru1245-1-22-1,,yoru1245-1,22,eéjì lé lóɡún,eéjì lé lóɡún,[],( 20+ 2 ),['chan2019'],,False,False,,1
+yoru1245-1-23-1,,yoru1245-1,23,ẹẹ́tà lé lóɡún,ẹẹ́tà lé lóɡún,[],( 20+ 3 ),['chan2019'],,False,False,,1
+yoru1245-1-24-1,,yoru1245-1,24,ẹẹ́rìn lé lóɡún,ẹẹ́rìn lé lóɡún,[],( 20+ 4 ),['chan2019'],,False,False,,1
+yoru1245-1-25-1,,yoru1245-1,25,ẹ̀ẹ́dọ̀ọ́ɡbọ̀ǹ,ẹ̀ẹ́dọ̀ọ́ɡbọ̀ǹ,[],( 30 - 5 ),['chan2019'],,False,False,,1
+yoru1245-1-26-1,,yoru1245-1,26,ẹẹ́rìn dín lọɡbọ̀n,ẹẹ́rìn dín lọɡbọ̀n,[],( 30 - 4 ),['chan2019'],,False,False,,1
+yoru1245-1-27-1,,yoru1245-1,27,ẹẹ́tà dín lọɡbọ̀n,ẹẹ́tà dín lọɡbọ̀n,[],( 30 - 3 ),['chan2019'],,False,False,,1
+yoru1245-1-28-1,,yoru1245-1,28,eéjì dín lọɡbọ̀n,eéjì dín lọɡbọ̀n,[],( 30 - 2 ),['chan2019'],,False,False,,1
+yoru1245-1-29-1,,yoru1245-1,29,oókàn dín lọɡbọ̀n,oókàn dín lọɡbọ̀n,[],( 30 -1 ),['chan2019'],,False,False,,1
+yoru1245-1-30-1,,yoru1245-1,30,ɔɡ͡bɔ̀n,ɔɡ͡bɔ̀n,[],,['chan2019'],,False,False,ọɡbọ̀n,1
+yoru1245-1-40-1,,yoru1245-1,40,ọɡbọ̀ji,ọɡbọ̀ji,[],( 20 x 2 ),['chan2019'],,False,False,,1
+yoru1245-1-50-1,,yoru1245-1,50,àádọ́ta,àádọ́ta,[],[ ( 20 x 3 ) -10 )],['chan2019'],,False,False,,1
+yoru1245-1-60-1,,yoru1245-1,60,ọɡọ́ta,ọɡọ́ta,[],( 20 x 3 ),['chan2019'],,False,False,,1
+yoru1245-1-70-1,,yoru1245-1,70,àádọ́rin,àádọ́rin,[],(' ten from five twenties '),['chan2019'],,False,False,,1
+yoru1245-1-80-1,,yoru1245-1,80,ọɡọ́rin,ọɡọ́rin,[],( 20 x 4 ),['chan2019'],,False,False,,1
+yoru1245-1-90-1,,yoru1245-1,90,àádọ́rùń,àádọ́rùń,[],(' ten from five twenties '),['chan2019'],,False,False,,1
+yoru1245-1-100-1,,yoru1245-1,100,ọɡọ́rùn = ọ̀rún,ọɡọ́rùn = ọ̀rún,[],,['chan2019'],,False,True,,1
+yoru1245-1-200-1,,yoru1245-1,200,iɡba,iɡba,[],,['chan2019'],,False,False,,1
+yoru1245-1-200-2,,yoru1245-1,200,400. irínwó,400. irínwó,[],,['chan2019'],,False,True,,1
+yoru1245-1-1000-1,,yoru1245-1,1000,ẹɡbẹ̀rún,ẹɡbẹ̀rún,[],( 5 x 200),['chan2019'],,False,False,,1
+yoru1245-1-2000-1,,yoru1245-1,2000,ẹɡbẹ̀wá = ẹɡbàá,ẹɡbẹ̀wá = ẹɡbàá,[],( 200 x 10 ),['chan2019'],,False,True,,1

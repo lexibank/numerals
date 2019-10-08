@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nucl1696-1-1-1,,nucl1696-1,1,dɔk,dɔk,[],,[],,False,False,,1
-nucl1696-1-2-1,,nucl1696-1,2,ràp,ràp,[],,[],,False,False,,1
-nucl1696-1-3-1,,nucl1696-1,3,kúnuŋ,kúnuŋ,[],,[],,False,False,,1
-nucl1696-1-4-1,,nucl1696-1,4,pàdàó,pàdàó,[],,[],,False,False,,1
-nucl1696-1-5-1,,nucl1696-1,5,fùwàt,fùwàt,[],,[],,False,False,,1
-nucl1696-1-6-1,,nucl1696-1,6,pàíndì,pàíndì,[],,[],,False,False,,1
-nucl1696-1-7-1,,nucl1696-1,7,pèláù,pèláù,[],,[],,False,False,,1
-nucl1696-1-8-1,,nucl1696-1,8,pàpádà,pàpádà,[],( 2 x 4 ),[],,False,False,,1
-nucl1696-1-9-1,,nucl1696-1,9,làmbùdà,làmbùdà,[],,[],,False,False,,1
-nucl1696-1-10-1,,nucl1696-1,10,ɡ͡bɔmɔ,ɡ͡bɔmɔ,[],,[],,False,False,,1
-nucl1696-1-11-1,,nucl1696-1,11,ɡ͡bɔmɔ sálai dɔk,ɡ͡bɔmɔ sálai dɔk,[],,[],,False,False,,1
-nucl1696-1-12-1,,nucl1696-1,12,ɡ͡bɔmɔ sálai ràp,ɡ͡bɔmɔ sálai ràp,[],,[],,False,False,,1
-nucl1696-1-13-1,,nucl1696-1,13,ɡ͡bɔmɔ sálai kúnuŋ,ɡ͡bɔmɔ sálai kúnuŋ,[],,[],,False,False,,1
-nucl1696-1-14-1,,nucl1696-1,14,ɡ͡bɔmɔ sálai pàdàó,ɡ͡bɔmɔ sálai pàdàó,[],,[],,False,False,,1
-nucl1696-1-15-1,,nucl1696-1,15,ɡ͡bɔmɔ sálai fùwàt,ɡ͡bɔmɔ sálai fùwàt,[],,[],,False,False,,1
-nucl1696-1-16-1,,nucl1696-1,16,ɡ͡bɔmɔ sálai pàíndì,ɡ͡bɔmɔ sálai pàíndì,[],,[],,False,False,,1
-nucl1696-1-17-1,,nucl1696-1,17,ɡ͡bɔmɔ sálai pèláù,ɡ͡bɔmɔ sálai pèláù,[],,[],,False,False,,1
-nucl1696-1-18-1,,nucl1696-1,18,ɡ͡bɔmɔ sálai pàpádà,ɡ͡bɔmɔ sálai pàpádà,[],,[],,False,False,,1
-nucl1696-1-19-1,,nucl1696-1,19,ɡ͡bɔmɔ sálai làmbùdà,ɡ͡bɔmɔ sálai làmbùdà,[],,[],,False,False,,1
-nucl1696-1-20-1,,nucl1696-1,20,kʷì ràb,kʷì ràb,[],,[],,False,False,,1
-nucl1696-1-21-1,,nucl1696-1,21,kʷì ràb sálai dɔk,kʷì ràb sálai dɔk,[],,[],,False,False,,1
-nucl1696-1-22-1,,nucl1696-1,22,kʷì ràb sálai ràp,kʷì ràb sálai ràp,[],,[],,False,False,,1
-nucl1696-1-23-1,,nucl1696-1,23,kʷì ràb sálai kúnuŋ,kʷì ràb sálai kúnuŋ,[],,[],,False,False,,1
-nucl1696-1-24-1,,nucl1696-1,24,kʷì ràb sálai pàdàó,kʷì ràb sálai pàdàó,[],,[],,False,False,,1
-nucl1696-1-25-1,,nucl1696-1,25,kʷì ràb sálai fùwàt,kʷì ràb sálai fùwàt,[],,[],,False,False,,1
-nucl1696-1-26-1,,nucl1696-1,26,kʷì ràb sálai pàíndì,kʷì ràb sálai pàíndì,[],,[],,False,False,,1
-nucl1696-1-27-1,,nucl1696-1,27,kʷì ràb sálai pèláù,kʷì ràb sálai pèláù,[],,[],,False,False,,1
-nucl1696-1-28-1,,nucl1696-1,28,kʷì ràb sálai pàpádà,kʷì ràb sálai pàpádà,[],,[],,False,False,,1
-nucl1696-1-29-1,,nucl1696-1,29,kʷì ràb sálai làmbùdà,kʷì ràb sálai làmbùdà,[],,[],,False,False,,1
-nucl1696-1-30-1,,nucl1696-1,30,kʷi kunuŋ,kʷi kunuŋ,[],,[],,False,False,,1
-nucl1696-1-40-1,,nucl1696-1,40,kʷì pàdàó,kʷì pàdàó,[],,[],,False,False,,1
-nucl1696-1-50-1,,nucl1696-1,50,kʷì fùwàt,kʷì fùwàt,[],,[],,False,False,,1
-nucl1696-1-60-1,,nucl1696-1,60,kʷì pàíndì,kʷì pàíndì,[],,[],,False,False,,1
-nucl1696-1-70-1,,nucl1696-1,70,kʷì pèláù,kʷì pèláù,[],,[],,False,False,,1
-nucl1696-1-80-1,,nucl1696-1,80,kʷì pàpàdà,kʷì pàpàdà,[],,[],,False,False,,1
-nucl1696-1-90-1,,nucl1696-1,90,kʷì làmbùdà,kʷì làmbùdà,[],,[],,False,False,,1
-nucl1696-1-100-1,,nucl1696-1,100,wɔn dɔk,wɔn dɔk,[],,[],,False,False,,1
-nucl1696-1-200-1,,nucl1696-1,200,wɔn ràp,wɔn ràp,[],,[],,False,False,,1
-nucl1696-1-1000-1,,nucl1696-1,1000,dùbú dɔk,dùbú dɔk,[],( 'dùbú' < Hausa ),[],,True,False,,1
-nucl1696-1-2000-1,,nucl1696-1,2000,dùbú ràp,dùbú ràp,[],,[],,False,False,,1
+nucl1696-1-1-1,,nucl1696-1,1,dɔk,dɔk,[],,['chan2019'],,False,False,,1
+nucl1696-1-2-1,,nucl1696-1,2,ràp,ràp,[],,['chan2019'],,False,False,,1
+nucl1696-1-3-1,,nucl1696-1,3,kúnuŋ,kúnuŋ,[],,['chan2019'],,False,False,,1
+nucl1696-1-4-1,,nucl1696-1,4,pàdàó,pàdàó,[],,['chan2019'],,False,False,,1
+nucl1696-1-5-1,,nucl1696-1,5,fùwàt,fùwàt,[],,['chan2019'],,False,False,,1
+nucl1696-1-6-1,,nucl1696-1,6,pàíndì,pàíndì,[],,['chan2019'],,False,False,,1
+nucl1696-1-7-1,,nucl1696-1,7,pèláù,pèláù,[],,['chan2019'],,False,False,,1
+nucl1696-1-8-1,,nucl1696-1,8,pàpádà,pàpádà,[],( 2 x 4 ),['chan2019'],,False,False,,1
+nucl1696-1-9-1,,nucl1696-1,9,làmbùdà,làmbùdà,[],,['chan2019'],,False,False,,1
+nucl1696-1-10-1,,nucl1696-1,10,ɡ͡bɔmɔ,ɡ͡bɔmɔ,[],,['chan2019'],,False,False,,1
+nucl1696-1-11-1,,nucl1696-1,11,ɡ͡bɔmɔ sálai dɔk,ɡ͡bɔmɔ sálai dɔk,[],,['chan2019'],,False,False,,1
+nucl1696-1-12-1,,nucl1696-1,12,ɡ͡bɔmɔ sálai ràp,ɡ͡bɔmɔ sálai ràp,[],,['chan2019'],,False,False,,1
+nucl1696-1-13-1,,nucl1696-1,13,ɡ͡bɔmɔ sálai kúnuŋ,ɡ͡bɔmɔ sálai kúnuŋ,[],,['chan2019'],,False,False,,1
+nucl1696-1-14-1,,nucl1696-1,14,ɡ͡bɔmɔ sálai pàdàó,ɡ͡bɔmɔ sálai pàdàó,[],,['chan2019'],,False,False,,1
+nucl1696-1-15-1,,nucl1696-1,15,ɡ͡bɔmɔ sálai fùwàt,ɡ͡bɔmɔ sálai fùwàt,[],,['chan2019'],,False,False,,1
+nucl1696-1-16-1,,nucl1696-1,16,ɡ͡bɔmɔ sálai pàíndì,ɡ͡bɔmɔ sálai pàíndì,[],,['chan2019'],,False,False,,1
+nucl1696-1-17-1,,nucl1696-1,17,ɡ͡bɔmɔ sálai pèláù,ɡ͡bɔmɔ sálai pèláù,[],,['chan2019'],,False,False,,1
+nucl1696-1-18-1,,nucl1696-1,18,ɡ͡bɔmɔ sálai pàpádà,ɡ͡bɔmɔ sálai pàpádà,[],,['chan2019'],,False,False,,1
+nucl1696-1-19-1,,nucl1696-1,19,ɡ͡bɔmɔ sálai làmbùdà,ɡ͡bɔmɔ sálai làmbùdà,[],,['chan2019'],,False,False,,1
+nucl1696-1-20-1,,nucl1696-1,20,kʷì ràb,kʷì ràb,[],,['chan2019'],,False,False,,1
+nucl1696-1-21-1,,nucl1696-1,21,kʷì ràb sálai dɔk,kʷì ràb sálai dɔk,[],,['chan2019'],,False,False,,1
+nucl1696-1-22-1,,nucl1696-1,22,kʷì ràb sálai ràp,kʷì ràb sálai ràp,[],,['chan2019'],,False,False,,1
+nucl1696-1-23-1,,nucl1696-1,23,kʷì ràb sálai kúnuŋ,kʷì ràb sálai kúnuŋ,[],,['chan2019'],,False,False,,1
+nucl1696-1-24-1,,nucl1696-1,24,kʷì ràb sálai pàdàó,kʷì ràb sálai pàdàó,[],,['chan2019'],,False,False,,1
+nucl1696-1-25-1,,nucl1696-1,25,kʷì ràb sálai fùwàt,kʷì ràb sálai fùwàt,[],,['chan2019'],,False,False,,1
+nucl1696-1-26-1,,nucl1696-1,26,kʷì ràb sálai pàíndì,kʷì ràb sálai pàíndì,[],,['chan2019'],,False,False,,1
+nucl1696-1-27-1,,nucl1696-1,27,kʷì ràb sálai pèláù,kʷì ràb sálai pèláù,[],,['chan2019'],,False,False,,1
+nucl1696-1-28-1,,nucl1696-1,28,kʷì ràb sálai pàpádà,kʷì ràb sálai pàpádà,[],,['chan2019'],,False,False,,1
+nucl1696-1-29-1,,nucl1696-1,29,kʷì ràb sálai làmbùdà,kʷì ràb sálai làmbùdà,[],,['chan2019'],,False,False,,1
+nucl1696-1-30-1,,nucl1696-1,30,kʷi kunuŋ,kʷi kunuŋ,[],,['chan2019'],,False,False,,1
+nucl1696-1-40-1,,nucl1696-1,40,kʷì pàdàó,kʷì pàdàó,[],,['chan2019'],,False,False,,1
+nucl1696-1-50-1,,nucl1696-1,50,kʷì fùwàt,kʷì fùwàt,[],,['chan2019'],,False,False,,1
+nucl1696-1-60-1,,nucl1696-1,60,kʷì pàíndì,kʷì pàíndì,[],,['chan2019'],,False,False,,1
+nucl1696-1-70-1,,nucl1696-1,70,kʷì pèláù,kʷì pèláù,[],,['chan2019'],,False,False,,1
+nucl1696-1-80-1,,nucl1696-1,80,kʷì pàpàdà,kʷì pàpàdà,[],,['chan2019'],,False,False,,1
+nucl1696-1-90-1,,nucl1696-1,90,kʷì làmbùdà,kʷì làmbùdà,[],,['chan2019'],,False,False,,1
+nucl1696-1-100-1,,nucl1696-1,100,wɔn dɔk,wɔn dɔk,[],,['chan2019'],,False,False,,1
+nucl1696-1-200-1,,nucl1696-1,200,wɔn ràp,wɔn ràp,[],,['chan2019'],,False,False,,1
+nucl1696-1-1000-1,,nucl1696-1,1000,dùbú dɔk,dùbú dɔk,[],( 'dùbú' < Hausa ),['chan2019'],,True,False,,1
+nucl1696-1-2000-1,,nucl1696-1,2000,dùbú ràp,dùbú ràp,[],,['chan2019'],,False,False,,1

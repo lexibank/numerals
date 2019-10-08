@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-jara1245-2-1-1,,jara1245-2,1,wəyə,wəyə,[],,[],,False,False,,2
-jara1245-2-2-1,,jara1245-2,2,nayə,nayə,[],,[],,False,False,,2
-jara1245-2-3-1,,jara1245-2,3,kaŋ itəjile,kaŋ itəjile,[],,[],,False,False,,2
+jara1245-2-1-1,,jara1245-2,1,wəyə,wəyə,[],,['chan2019'],,False,False,,2
+jara1245-2-2-1,,jara1245-2,2,nayə,nayə,[],,['chan2019'],,False,False,,2
+jara1245-2-3-1,,jara1245-2,3,kaŋ itəjile,kaŋ itəjile,[],,['chan2019'],,False,False,,2

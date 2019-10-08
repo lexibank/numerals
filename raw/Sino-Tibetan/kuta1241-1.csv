@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuta1241-1-1-1,,kuta1241-1,1,t̪jak,t̪jak,[],(mid),[],,False,False,,1
-kuta1241-1-2-1,,kuta1241-1,2,n̪i,n̪i,[],(mid-fall),[],,False,False,,1
-kuta1241-1-3-1,,kuta1241-1,3,som,som,[],(mid-fall),[],,False,False,,1
-kuta1241-1-4-1,,kuta1241-1,4,si,si,[],(rise-fall),[],,False,False,,1
-kuta1241-1-5-1,,kuta1241-1,5,hŋa,hŋa,[],(high-fall),[],,False,False,,1
-kuta1241-1-6-1,,kuta1241-1,6,hɹok,hɹok,[],(rise),[],,False,False,,1
-kuta1241-1-7-1,,kuta1241-1,7,hn̪e,hn̪e,[],(high-fall),[],,False,False,,1
-kuta1241-1-8-1,,kuta1241-1,8,hjet̪,hjet̪,[],(high),[],,False,False,,1
-kuta1241-1-9-1,,kuta1241-1,9,kṳ,kṳ,[],(rise-fall ),[],,False,False,,1
-kuta1241-1-10-1,,kuta1241-1,10,t͡sju,t͡sju,[],(high-fall),[],,False,False,,1
-kuta1241-1-11-1,,kuta1241-1,11,t͡sukt̪ik,t͡sukt̪ik,[],,[],,False,False,,1
-kuta1241-1-12-1,,kuta1241-1,12,t͡soŋn̪e,t͡soŋn̪e,[],,[],,False,False,,1
-kuta1241-1-13-1,,kuta1241-1,13,t͡soksom,t͡soksom,[],,[],,False,False,,1
-kuta1241-1-14-1,,kuta1241-1,14,t͡suβsi,t͡suβsi,[],,[],,False,False,,1
-kuta1241-1-15-1,,kuta1241-1,15,t͡saŋa,t͡saŋa,[],,[],,False,False,,1
-kuta1241-1-16-1,,kuta1241-1,16,t͡suɹuk,t͡suɹuk,[],,[],,False,False,,1
-kuta1241-1-17-1,,kuta1241-1,17,t͡suɹn̪e,t͡suɹn̪e,[],,[],,False,False,,1
-kuta1241-1-18-1,,kuta1241-1,18,t͡sapet̪,t͡sapet̪,[],,[],,False,False,,1
-kuta1241-1-19-1,,kuta1241-1,19,t͡suku,t͡suku,[],,[],,False,False,,1
-kuta1241-1-20-1,,kuta1241-1,20,n̪isju,n̪isju,[],,[],,False,False,,1
-kuta1241-1-21-1,,kuta1241-1,21,n̪isju t̪jak,n̪isju t̪jak,[],,[],,False,False,,1
-kuta1241-1-22-1,,kuta1241-1,22,n̪isju n̪i,n̪isju n̪i,[],,[],,False,False,,1
-kuta1241-1-23-1,,kuta1241-1,23,n̪isju som,n̪isju som,[],,[],,False,False,,1
-kuta1241-1-24-1,,kuta1241-1,24,n̪isju si,n̪isju si,[],,[],,False,False,,1
-kuta1241-1-25-1,,kuta1241-1,25,n̪isju hŋa,n̪isju hŋa,[],,[],,False,False,,1
-kuta1241-1-26-1,,kuta1241-1,26,n̪isju hɹok,n̪isju hɹok,[],,[],,False,False,,1
-kuta1241-1-27-1,,kuta1241-1,27,n̪isju hn̪e,n̪isju hn̪e,[],,[],,False,False,,1
-kuta1241-1-28-1,,kuta1241-1,28,n̪isju hjet,n̪isju hjet,[],,[],,False,False,,1
-kuta1241-1-29-1,,kuta1241-1,29,n̪isju kṳ,n̪isju kṳ,[],,[],,False,False,,1
-kuta1241-1-30-1,,kuta1241-1,30,sumt͡sju,sumt͡sju,[],,[],,False,False,,1
-kuta1241-1-40-1,,kuta1241-1,40,sibt͡sju,sibt͡sju,[],,[],,False,False,,1
-kuta1241-1-50-1,,kuta1241-1,50,hŋapt͡sju,hŋapt͡sju,[],,[],,False,False,,1
-kuta1241-1-60-1,,kuta1241-1,60,tɹukt͡sju,tɹukt͡sju,[],,[],,False,False,,1
-kuta1241-1-70-1,,kuta1241-1,70,t̪un̪t͡sju,t̪un̪t͡sju,[],,[],,False,False,,1
-kuta1241-1-80-1,,kuta1241-1,80,kjet͡sju,kjet͡sju,[],,[],,False,False,,1
-kuta1241-1-90-1,,kuta1241-1,90,kṳpt͡sju,kṳpt͡sju,[],,[],,False,False,,1
-kuta1241-1-100-1,,kuta1241-1,100,kja,kja,[],,[],,False,False,,1
-kuta1241-1-200-1,,kuta1241-1,200,n̪i kja,n̪i kja,[],,[],,False,False,,1
-kuta1241-1-1000-1,,kuta1241-1,1000,t̪oŋ t̪jak,t̪oŋ t̪jak,[],,[],,False,False,,1
-kuta1241-1-2000-1,,kuta1241-1,2000,t̪oŋ n̪i,t̪oŋ n̪i,[],,[],,False,False,,1
+kuta1241-1-1-1,,kuta1241-1,1,t̪jak,t̪jak,[],(mid),['chan2019'],,False,False,,1
+kuta1241-1-2-1,,kuta1241-1,2,n̪i,n̪i,[],(mid-fall),['chan2019'],,False,False,,1
+kuta1241-1-3-1,,kuta1241-1,3,som,som,[],(mid-fall),['chan2019'],,False,False,,1
+kuta1241-1-4-1,,kuta1241-1,4,si,si,[],(rise-fall),['chan2019'],,False,False,,1
+kuta1241-1-5-1,,kuta1241-1,5,hŋa,hŋa,[],(high-fall),['chan2019'],,False,False,,1
+kuta1241-1-6-1,,kuta1241-1,6,hɹok,hɹok,[],(rise),['chan2019'],,False,False,,1
+kuta1241-1-7-1,,kuta1241-1,7,hn̪e,hn̪e,[],(high-fall),['chan2019'],,False,False,,1
+kuta1241-1-8-1,,kuta1241-1,8,hjet̪,hjet̪,[],(high),['chan2019'],,False,False,,1
+kuta1241-1-9-1,,kuta1241-1,9,kṳ,kṳ,[],(rise-fall ),['chan2019'],,False,False,,1
+kuta1241-1-10-1,,kuta1241-1,10,t͡sju,t͡sju,[],(high-fall),['chan2019'],,False,False,,1
+kuta1241-1-11-1,,kuta1241-1,11,t͡sukt̪ik,t͡sukt̪ik,[],,['chan2019'],,False,False,,1
+kuta1241-1-12-1,,kuta1241-1,12,t͡soŋn̪e,t͡soŋn̪e,[],,['chan2019'],,False,False,,1
+kuta1241-1-13-1,,kuta1241-1,13,t͡soksom,t͡soksom,[],,['chan2019'],,False,False,,1
+kuta1241-1-14-1,,kuta1241-1,14,t͡suβsi,t͡suβsi,[],,['chan2019'],,False,False,,1
+kuta1241-1-15-1,,kuta1241-1,15,t͡saŋa,t͡saŋa,[],,['chan2019'],,False,False,,1
+kuta1241-1-16-1,,kuta1241-1,16,t͡suɹuk,t͡suɹuk,[],,['chan2019'],,False,False,,1
+kuta1241-1-17-1,,kuta1241-1,17,t͡suɹn̪e,t͡suɹn̪e,[],,['chan2019'],,False,False,,1
+kuta1241-1-18-1,,kuta1241-1,18,t͡sapet̪,t͡sapet̪,[],,['chan2019'],,False,False,,1
+kuta1241-1-19-1,,kuta1241-1,19,t͡suku,t͡suku,[],,['chan2019'],,False,False,,1
+kuta1241-1-20-1,,kuta1241-1,20,n̪isju,n̪isju,[],,['chan2019'],,False,False,,1
+kuta1241-1-21-1,,kuta1241-1,21,n̪isju t̪jak,n̪isju t̪jak,[],,['chan2019'],,False,False,,1
+kuta1241-1-22-1,,kuta1241-1,22,n̪isju n̪i,n̪isju n̪i,[],,['chan2019'],,False,False,,1
+kuta1241-1-23-1,,kuta1241-1,23,n̪isju som,n̪isju som,[],,['chan2019'],,False,False,,1
+kuta1241-1-24-1,,kuta1241-1,24,n̪isju si,n̪isju si,[],,['chan2019'],,False,False,,1
+kuta1241-1-25-1,,kuta1241-1,25,n̪isju hŋa,n̪isju hŋa,[],,['chan2019'],,False,False,,1
+kuta1241-1-26-1,,kuta1241-1,26,n̪isju hɹok,n̪isju hɹok,[],,['chan2019'],,False,False,,1
+kuta1241-1-27-1,,kuta1241-1,27,n̪isju hn̪e,n̪isju hn̪e,[],,['chan2019'],,False,False,,1
+kuta1241-1-28-1,,kuta1241-1,28,n̪isju hjet,n̪isju hjet,[],,['chan2019'],,False,False,,1
+kuta1241-1-29-1,,kuta1241-1,29,n̪isju kṳ,n̪isju kṳ,[],,['chan2019'],,False,False,,1
+kuta1241-1-30-1,,kuta1241-1,30,sumt͡sju,sumt͡sju,[],,['chan2019'],,False,False,,1
+kuta1241-1-40-1,,kuta1241-1,40,sibt͡sju,sibt͡sju,[],,['chan2019'],,False,False,,1
+kuta1241-1-50-1,,kuta1241-1,50,hŋapt͡sju,hŋapt͡sju,[],,['chan2019'],,False,False,,1
+kuta1241-1-60-1,,kuta1241-1,60,tɹukt͡sju,tɹukt͡sju,[],,['chan2019'],,False,False,,1
+kuta1241-1-70-1,,kuta1241-1,70,t̪un̪t͡sju,t̪un̪t͡sju,[],,['chan2019'],,False,False,,1
+kuta1241-1-80-1,,kuta1241-1,80,kjet͡sju,kjet͡sju,[],,['chan2019'],,False,False,,1
+kuta1241-1-90-1,,kuta1241-1,90,kṳpt͡sju,kṳpt͡sju,[],,['chan2019'],,False,False,,1
+kuta1241-1-100-1,,kuta1241-1,100,kja,kja,[],,['chan2019'],,False,False,,1
+kuta1241-1-200-1,,kuta1241-1,200,n̪i kja,n̪i kja,[],,['chan2019'],,False,False,,1
+kuta1241-1-1000-1,,kuta1241-1,1000,t̪oŋ t̪jak,t̪oŋ t̪jak,[],,['chan2019'],,False,False,,1
+kuta1241-1-2000-1,,kuta1241-1,2000,t̪oŋ n̪i,t̪oŋ n̪i,[],,['chan2019'],,False,False,,1

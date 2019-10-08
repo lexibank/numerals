@@ -1,21 +1,21 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kate1253-1-1-1,,kate1253-1,1,moʔ yahaʔ,moʔ yahaʔ,[],,[],,False,False,,1
-kate1253-1-2-1,,kate1253-1,2,yayaheʔ,yayaheʔ,[],,[],,False,False,,1
-kate1253-1-3-1,,kate1253-1,3,yaheʔ a moʔ,yaheʔ a moʔ,[],,[],,False,False,,1
-kate1253-1-4-1,,kate1253-1,4,yaheʔ a yaheʔ,yaheʔ a yaheʔ,[],,[],,False,False,,1
-kate1253-1-5-1,,kate1253-1,5,me moʔ,me moʔ,[],( litː 'hand one' ),[],,False,False,,1
-kate1253-1-6-1,,kate1253-1,6,me moʔ a moʔ,me moʔ a moʔ,[],,[],,False,False,,1
-kate1253-1-7-1,,kate1253-1,7,me moʔ a yaheʔ,me moʔ a yaheʔ,[],,[],,False,False,,1
-kate1253-1-8-1,,kate1253-1,8,me moʔ a yaheʔ a moʔ,me moʔ a yaheʔ a moʔ,[],,[],,False,False,,1
-kate1253-1-9-1,,kate1253-1,9,me moʔ a yaheʔ a yaheʔ,me moʔ a yaheʔ a yaheʔ,[],,[],,False,False,,1
-kate1253-1-10-1,,kate1253-1,10,me yayaheʔ,me yayaheʔ,[],( litː 'hands two' ),[],,False,False,,1
-kate1253-1-11-1,,kate1253-1,11,me yayaheʔ a moʔ,me yayaheʔ a moʔ,[],,[],,False,False,,1
-kate1253-1-12-1,,kate1253-1,12,me yayaheʔ a yaheʔ,me yayaheʔ a yaheʔ,[],,[],,False,False,,1
-kate1253-1-13-1,,kate1253-1,13,me yayaheʔ a yaheʔ a moʔ,me yayaheʔ a yaheʔ a moʔ,[],,[],,False,False,,1
-kate1253-1-14-1,,kate1253-1,14,me yayaheʔ a yaheʔ a yaheʔ,me yayaheʔ a yaheʔ a yaheʔ,[],,[],,False,False,,1
-kate1253-1-15-1,,kate1253-1,15,me yayaheʔ a kike moʔ,me yayaheʔ a kike moʔ,[],,[],,False,False,,1
-kate1253-1-16-1,,kate1253-1,16,me yayaheʔ a kike moʔ a moʔ,me yayaheʔ a kike moʔ a moʔ,[],,[],,False,False,,1
-kate1253-1-17-1,,kate1253-1,17,me yayaheʔ a kike moʔ a yaheʔ,me yayaheʔ a kike moʔ a yaheʔ,[],,[],,False,False,,1
-kate1253-1-18-1,,kate1253-1,18,me yayaheʔ a kike moʔ a yaheʔ a moʔ,me yayaheʔ a kike moʔ a yaheʔ a moʔ,[],,[],,False,False,,1
-kate1253-1-19-1,,kate1253-1,19,me yayaheʔ a kike moʔ a yaheʔ a yaheʔ,me yayaheʔ a kike moʔ a yaheʔ a yaheʔ,[],,[],,False,False,,1
-kate1253-1-20-1,,kate1253-1,20,ŋiʔ moʔ,ŋiʔ moʔ,[],( litː 'man one' ),[],,False,False,,1
+kate1253-1-1-1,,kate1253-1,1,moʔ yahaʔ,moʔ yahaʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-2-1,,kate1253-1,2,yayaheʔ,yayaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-3-1,,kate1253-1,3,yaheʔ a moʔ,yaheʔ a moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-4-1,,kate1253-1,4,yaheʔ a yaheʔ,yaheʔ a yaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-5-1,,kate1253-1,5,me moʔ,me moʔ,[],( litː 'hand one' ),['chan2019'],,False,False,,1
+kate1253-1-6-1,,kate1253-1,6,me moʔ a moʔ,me moʔ a moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-7-1,,kate1253-1,7,me moʔ a yaheʔ,me moʔ a yaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-8-1,,kate1253-1,8,me moʔ a yaheʔ a moʔ,me moʔ a yaheʔ a moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-9-1,,kate1253-1,9,me moʔ a yaheʔ a yaheʔ,me moʔ a yaheʔ a yaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-10-1,,kate1253-1,10,me yayaheʔ,me yayaheʔ,[],( litː 'hands two' ),['chan2019'],,False,False,,1
+kate1253-1-11-1,,kate1253-1,11,me yayaheʔ a moʔ,me yayaheʔ a moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-12-1,,kate1253-1,12,me yayaheʔ a yaheʔ,me yayaheʔ a yaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-13-1,,kate1253-1,13,me yayaheʔ a yaheʔ a moʔ,me yayaheʔ a yaheʔ a moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-14-1,,kate1253-1,14,me yayaheʔ a yaheʔ a yaheʔ,me yayaheʔ a yaheʔ a yaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-15-1,,kate1253-1,15,me yayaheʔ a kike moʔ,me yayaheʔ a kike moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-16-1,,kate1253-1,16,me yayaheʔ a kike moʔ a moʔ,me yayaheʔ a kike moʔ a moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-17-1,,kate1253-1,17,me yayaheʔ a kike moʔ a yaheʔ,me yayaheʔ a kike moʔ a yaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-18-1,,kate1253-1,18,me yayaheʔ a kike moʔ a yaheʔ a moʔ,me yayaheʔ a kike moʔ a yaheʔ a moʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-19-1,,kate1253-1,19,me yayaheʔ a kike moʔ a yaheʔ a yaheʔ,me yayaheʔ a kike moʔ a yaheʔ a yaheʔ,[],,['chan2019'],,False,False,,1
+kate1253-1-20-1,,kate1253-1,20,ŋiʔ moʔ,ŋiʔ moʔ,[],( litː 'man one' ),['chan2019'],,False,False,,1

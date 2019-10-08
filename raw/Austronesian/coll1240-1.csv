@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-coll1240-1-1-1,,coll1240-1,1,hikoʔ,hikoʔ,[],,[],,False,False,,1
-coll1240-1-2-1,,coll1240-1,2,duɛ,duɛ,[],,[],,False,False,,1
-coll1240-1-3-1,,coll1240-1,3,tiɡɛ,tiɡɛ,[],,[],,False,False,,1
-coll1240-1-4-1,,coll1240-1,4,paʈ,paʈ,[],,[],,False,False,,1
-coll1240-1-5-1,,coll1240-1,5,limɛ,limɛ,[],,[],,False,False,,1
-coll1240-1-6-1,,coll1240-1,6,ənam,ənam,[],,[],,False,False,,1
-coll1240-1-7-1,,coll1240-1,7,tod͡ʒuh,tod͡ʒuh,[],( j = IPA d͡ʒ),[],,False,False,,1
-coll1240-1-8-1,,coll1240-1,8,lap̤an,lap̤an,[],,[],,False,False,,1
-coll1240-1-9-1,,coll1240-1,9,hamilan,hamilan,[],,[],,False,False,,1
-coll1240-1-10-1,,coll1240-1,10,hapoloh,hapoloh,[],,[],,False,False,,1
-coll1240-1-11-1,,coll1240-1,11,habəlas,habəlas,[],,[],,False,False,,1
-coll1240-1-100-1,,coll1240-1,100,haratus,haratus,[],,[],,False,False,,1
-coll1240-1-1000-1,,coll1240-1,1000,haribu,haribu,[],,[],,False,False,,1
+coll1240-1-1-1,,coll1240-1,1,hikoʔ,hikoʔ,[],,['chan2019'],,False,False,,1
+coll1240-1-2-1,,coll1240-1,2,duɛ,duɛ,[],,['chan2019'],,False,False,,1
+coll1240-1-3-1,,coll1240-1,3,tiɡɛ,tiɡɛ,[],,['chan2019'],,False,False,,1
+coll1240-1-4-1,,coll1240-1,4,paʈ,paʈ,[],,['chan2019'],,False,False,,1
+coll1240-1-5-1,,coll1240-1,5,limɛ,limɛ,[],,['chan2019'],,False,False,,1
+coll1240-1-6-1,,coll1240-1,6,ənam,ənam,[],,['chan2019'],,False,False,,1
+coll1240-1-7-1,,coll1240-1,7,tod͡ʒuh,tod͡ʒuh,[],( j = IPA d͡ʒ),['chan2019'],,False,False,,1
+coll1240-1-8-1,,coll1240-1,8,lap̤an,lap̤an,[],,['chan2019'],,False,False,,1
+coll1240-1-9-1,,coll1240-1,9,hamilan,hamilan,[],,['chan2019'],,False,False,,1
+coll1240-1-10-1,,coll1240-1,10,hapoloh,hapoloh,[],,['chan2019'],,False,False,,1
+coll1240-1-11-1,,coll1240-1,11,habəlas,habəlas,[],,['chan2019'],,False,False,,1
+coll1240-1-100-1,,coll1240-1,100,haratus,haratus,[],,['chan2019'],,False,False,,1
+coll1240-1-1000-1,,coll1240-1,1000,haribu,haribu,[],,['chan2019'],,False,False,,1

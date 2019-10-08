@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-paez1247-1-1-1,,paez1247-1,1,teet͡ʃ,teet͡ʃ,[],,[],,False,False,,1
-paez1247-1-2-1,,paez1247-1,2,jeɁⁿdz,jeɁⁿdz,[],,[],,False,False,,1
-paez1247-1-3-1,,paez1247-1,3,tekʰ,tekʰ,[],,[],,False,False,,1
-paez1247-1-4-1,,paez1247-1,4,paʰndz,paʰndz,[],,[],,False,False,,1
-paez1247-1-5-1,,paez1247-1,5,taʰt͡s,taʰt͡s,[],,[],,False,False,,1
-paez1247-1-6-1,,paez1247-1,6,setʲ,setʲ,[],,[],,False,False,,1
-paez1247-1-7-1,,paez1247-1,7,saɁt,saɁt,[],,[],,False,False,,1
-paez1247-1-8-1,,paez1247-1,8,taw,taw,[],,[],,False,False,,1
-paez1247-1-9-1,,paez1247-1,9,kjeᵐb,kjeᵐb,[],,[],,False,False,,1
-paez1247-1-10-1,,paez1247-1,10,kseᵐba,kseᵐba,[],,[],,False,False,,1
-paez1247-1-11-1,,paez1247-1,11,kseteet͡ʃ,kseteet͡ʃ,[],,[],,False,False,,1
-paez1247-1-12-1,,paez1247-1,12,kse jeɁⁿdz,kse jeɁⁿdz,[],,[],,False,False,,1
-paez1247-1-13-1,,paez1247-1,13,kse tekʰ,kse tekʰ,[],,[],,False,False,,1
-paez1247-1-14-1,,paez1247-1,14,kse paʰndz,kse paʰndz,[],,[],,False,False,,1
-paez1247-1-15-1,,paez1247-1,15,kse taʰt͡s,kse taʰt͡s,[],,[],,False,False,,1
-paez1247-1-16-1,,paez1247-1,16,kse setʲ,kse setʲ,[],,[],,False,False,,1
-paez1247-1-17-1,,paez1247-1,17,kse saɁt,kse saɁt,[],,[],,False,False,,1
-paez1247-1-18-1,,paez1247-1,18,kse taw,kse taw,[],,[],,False,False,,1
-paez1247-1-19-1,,paez1247-1,19,kse kjeᵐb,kse kjeᵐb,[],,[],,False,False,,1
-paez1247-1-20-1,,paez1247-1,20,jeᵐba,jeᵐba,[],,[],,False,False,,1
-paez1247-1-21-1,,paez1247-1,21,jeᵐba teet͡ʃ,jeᵐba teet͡ʃ,[],,[],,False,False,,1
-paez1247-1-22-1,,paez1247-1,22,jeᵐba jeɁⁿdz,jeᵐba jeɁⁿdz,[],,[],,False,False,,1
-paez1247-1-23-1,,paez1247-1,23,jeᵐba tekʰ,jeᵐba tekʰ,[],,[],,False,False,,1
-paez1247-1-24-1,,paez1247-1,24,jeᵐba paʰndz,jeᵐba paʰndz,[],,[],,False,False,,1
-paez1247-1-25-1,,paez1247-1,25,jeᵐba taʰt͡s,jeᵐba taʰt͡s,[],,[],,False,False,,1
-paez1247-1-26-1,,paez1247-1,26,jeᵐba setʲ,jeᵐba setʲ,[],,[],,False,False,,1
-paez1247-1-27-1,,paez1247-1,27,jeᵐba saɁt,jeᵐba saɁt,[],,[],,False,False,,1
-paez1247-1-28-1,,paez1247-1,28,jeᵐba taw,jeᵐba taw,[],,[],,False,False,,1
-paez1247-1-29-1,,paez1247-1,29,jeᵐba kjeᵐb,jeᵐba kjeᵐb,[],,[],,False,False,,1
-paez1247-1-30-1,,paez1247-1,30,teᵐba,teᵐba,[],,[],,False,False,,1
-paez1247-1-40-1,,paez1247-1,40,paᵐba,paᵐba,[],,[],,False,False,,1
-paez1247-1-50-1,,paez1247-1,50,taᵐba,taᵐba,[],,[],,False,False,,1
-paez1247-1-60-1,,paez1247-1,60,seᵐba,seᵐba,[],,[],,False,False,,1
-paez1247-1-70-1,,paez1247-1,70,saᵐba,saᵐba,[],,[],,False,False,,1
-paez1247-1-80-1,,paez1247-1,80,tawᵐba,tawᵐba,[],,[],,False,False,,1
-paez1247-1-90-1,,paez1247-1,90,kjeᵐba,kjeᵐba,[],,[],,False,False,,1
-paez1247-1-100-1,,paez1247-1,100,et͡ʃkan,et͡ʃkan,[],,[],,False,False,,1
-paez1247-1-200-1,,paez1247-1,200,jekan,jekan,[],,[],,False,False,,1
-paez1247-1-1000-1,,paez1247-1,1000,pkaᵐb,pkaᵐb,[],,[],,False,False,,1
-paez1247-1-2000-1,,paez1247-1,2000,jeɁⁿdz pkaᵐb,jeɁⁿdz pkaᵐb,[],,[],,False,False,,1
+paez1247-1-1-1,,paez1247-1,1,teet͡ʃ,teet͡ʃ,[],,['chan2019'],,False,False,,1
+paez1247-1-2-1,,paez1247-1,2,jeɁⁿdz,jeɁⁿdz,[],,['chan2019'],,False,False,,1
+paez1247-1-3-1,,paez1247-1,3,tekʰ,tekʰ,[],,['chan2019'],,False,False,,1
+paez1247-1-4-1,,paez1247-1,4,paʰndz,paʰndz,[],,['chan2019'],,False,False,,1
+paez1247-1-5-1,,paez1247-1,5,taʰt͡s,taʰt͡s,[],,['chan2019'],,False,False,,1
+paez1247-1-6-1,,paez1247-1,6,setʲ,setʲ,[],,['chan2019'],,False,False,,1
+paez1247-1-7-1,,paez1247-1,7,saɁt,saɁt,[],,['chan2019'],,False,False,,1
+paez1247-1-8-1,,paez1247-1,8,taw,taw,[],,['chan2019'],,False,False,,1
+paez1247-1-9-1,,paez1247-1,9,kjeᵐb,kjeᵐb,[],,['chan2019'],,False,False,,1
+paez1247-1-10-1,,paez1247-1,10,kseᵐba,kseᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-11-1,,paez1247-1,11,kseteet͡ʃ,kseteet͡ʃ,[],,['chan2019'],,False,False,,1
+paez1247-1-12-1,,paez1247-1,12,kse jeɁⁿdz,kse jeɁⁿdz,[],,['chan2019'],,False,False,,1
+paez1247-1-13-1,,paez1247-1,13,kse tekʰ,kse tekʰ,[],,['chan2019'],,False,False,,1
+paez1247-1-14-1,,paez1247-1,14,kse paʰndz,kse paʰndz,[],,['chan2019'],,False,False,,1
+paez1247-1-15-1,,paez1247-1,15,kse taʰt͡s,kse taʰt͡s,[],,['chan2019'],,False,False,,1
+paez1247-1-16-1,,paez1247-1,16,kse setʲ,kse setʲ,[],,['chan2019'],,False,False,,1
+paez1247-1-17-1,,paez1247-1,17,kse saɁt,kse saɁt,[],,['chan2019'],,False,False,,1
+paez1247-1-18-1,,paez1247-1,18,kse taw,kse taw,[],,['chan2019'],,False,False,,1
+paez1247-1-19-1,,paez1247-1,19,kse kjeᵐb,kse kjeᵐb,[],,['chan2019'],,False,False,,1
+paez1247-1-20-1,,paez1247-1,20,jeᵐba,jeᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-21-1,,paez1247-1,21,jeᵐba teet͡ʃ,jeᵐba teet͡ʃ,[],,['chan2019'],,False,False,,1
+paez1247-1-22-1,,paez1247-1,22,jeᵐba jeɁⁿdz,jeᵐba jeɁⁿdz,[],,['chan2019'],,False,False,,1
+paez1247-1-23-1,,paez1247-1,23,jeᵐba tekʰ,jeᵐba tekʰ,[],,['chan2019'],,False,False,,1
+paez1247-1-24-1,,paez1247-1,24,jeᵐba paʰndz,jeᵐba paʰndz,[],,['chan2019'],,False,False,,1
+paez1247-1-25-1,,paez1247-1,25,jeᵐba taʰt͡s,jeᵐba taʰt͡s,[],,['chan2019'],,False,False,,1
+paez1247-1-26-1,,paez1247-1,26,jeᵐba setʲ,jeᵐba setʲ,[],,['chan2019'],,False,False,,1
+paez1247-1-27-1,,paez1247-1,27,jeᵐba saɁt,jeᵐba saɁt,[],,['chan2019'],,False,False,,1
+paez1247-1-28-1,,paez1247-1,28,jeᵐba taw,jeᵐba taw,[],,['chan2019'],,False,False,,1
+paez1247-1-29-1,,paez1247-1,29,jeᵐba kjeᵐb,jeᵐba kjeᵐb,[],,['chan2019'],,False,False,,1
+paez1247-1-30-1,,paez1247-1,30,teᵐba,teᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-40-1,,paez1247-1,40,paᵐba,paᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-50-1,,paez1247-1,50,taᵐba,taᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-60-1,,paez1247-1,60,seᵐba,seᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-70-1,,paez1247-1,70,saᵐba,saᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-80-1,,paez1247-1,80,tawᵐba,tawᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-90-1,,paez1247-1,90,kjeᵐba,kjeᵐba,[],,['chan2019'],,False,False,,1
+paez1247-1-100-1,,paez1247-1,100,et͡ʃkan,et͡ʃkan,[],,['chan2019'],,False,False,,1
+paez1247-1-200-1,,paez1247-1,200,jekan,jekan,[],,['chan2019'],,False,False,,1
+paez1247-1-1000-1,,paez1247-1,1000,pkaᵐb,pkaᵐb,[],,['chan2019'],,False,False,,1
+paez1247-1-2000-1,,paez1247-1,2000,jeɁⁿdz pkaᵐb,jeɁⁿdz pkaᵐb,[],,['chan2019'],,False,False,,1

@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-lonc1237-1-1-1,,lonc1237-1,1,setoʔ,setoʔ,[],,[],,False,False,,1
-lonc1237-1-2-1,,lonc1237-1,2,duəʔ,duəʔ,[],,[],,False,False,,1
-lonc1237-1-3-1,,lonc1237-1,3,tiɡəʔ,tiɡəʔ,[],,[],,False,False,,1
-lonc1237-1-4-1,,lonc1237-1,4,əmpat,əmpat,[],,[],,False,False,,1
-lonc1237-1-5-1,,lonc1237-1,5,limaʔ,limaʔ,[],,[],,False,False,,1
-lonc1237-1-6-1,,lonc1237-1,6,ən̩əm,ən̩əm,[],,[],,False,False,,1
-lonc1237-1-7-1,,lonc1237-1,7,tud͡ʒu,tud͡ʒu,[],( j = IPA d͡ʒ),[],,False,False,,1
-lonc1237-1-8-1,,lonc1237-1,8,ləpan,ləpan,[],,[],,False,False,,1
-lonc1237-1-9-1,,lonc1237-1,9,səmilən,səmilən,[],,[],,False,False,,1
-lonc1237-1-10-1,,lonc1237-1,10,puluh,puluh,[],,[],,False,False,,1
-lonc1237-1-11-1,,lonc1237-1,11,səbəlas,səbəlas,[],,[],,False,False,,1
-lonc1237-1-100-1,,lonc1237-1,100,ratus,ratus,[],,[],,False,False,,1
-lonc1237-1-1000-1,,lonc1237-1,1000,libuʔ,libuʔ,[],,[],,False,False,,1
+lonc1237-1-1-1,,lonc1237-1,1,setoʔ,setoʔ,[],,['chan2019'],,False,False,,1
+lonc1237-1-2-1,,lonc1237-1,2,duəʔ,duəʔ,[],,['chan2019'],,False,False,,1
+lonc1237-1-3-1,,lonc1237-1,3,tiɡəʔ,tiɡəʔ,[],,['chan2019'],,False,False,,1
+lonc1237-1-4-1,,lonc1237-1,4,əmpat,əmpat,[],,['chan2019'],,False,False,,1
+lonc1237-1-5-1,,lonc1237-1,5,limaʔ,limaʔ,[],,['chan2019'],,False,False,,1
+lonc1237-1-6-1,,lonc1237-1,6,ən̩əm,ən̩əm,[],,['chan2019'],,False,False,,1
+lonc1237-1-7-1,,lonc1237-1,7,tud͡ʒu,tud͡ʒu,[],( j = IPA d͡ʒ),['chan2019'],,False,False,,1
+lonc1237-1-8-1,,lonc1237-1,8,ləpan,ləpan,[],,['chan2019'],,False,False,,1
+lonc1237-1-9-1,,lonc1237-1,9,səmilən,səmilən,[],,['chan2019'],,False,False,,1
+lonc1237-1-10-1,,lonc1237-1,10,puluh,puluh,[],,['chan2019'],,False,False,,1
+lonc1237-1-11-1,,lonc1237-1,11,səbəlas,səbəlas,[],,['chan2019'],,False,False,,1
+lonc1237-1-100-1,,lonc1237-1,100,ratus,ratus,[],,['chan2019'],,False,False,,1
+lonc1237-1-1000-1,,lonc1237-1,1000,libuʔ,libuʔ,[],,['chan2019'],,False,False,,1

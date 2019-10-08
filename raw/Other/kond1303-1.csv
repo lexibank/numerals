@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kond1303-1-1-1,,kond1303-1,1,mutu,mutu,[],,[],,False,False,,1
-kond1303-1-2-1,,kond1303-1,2,iɾe'ɡe,iɾe'ɡe,[],,[],,False,False,,1
-kond1303-1-3-1,,kond1303-1,3,odɾioɾɡe,odɾioɾɡe,[],,[],,False,False,,1
-kond1303-1-4-1,,kond1303-1,4,ɑdeŋɡo'se,ɑdeŋɡo'se,[],,[],,False,False,,1
-kond1303-1-5-1,,kond1303-1,5,deɾebuye'ri,deɾebuye'ri,[],,[],,False,False,,1
-kond1303-1-6-1,,kond1303-1,6,ɑdenɑmu mu'tu,ɑdenɑmu mu'tu,[],( 5 + 1 ),[],,False,False,,1
-kond1303-1-7-1,,kond1303-1,7,ɑdenɑmu iɾe'ɡe,ɑdenɑmu iɾe'ɡe,[],( 5 + 2 ),[],,False,False,,1
-kond1303-1-8-1,,kond1303-1,8,ɑdenɑmu oɾioɾ'ɡe,ɑdenɑmu oɾioɾ'ɡe,[],( 5 + 3 ),[],,False,False,,1
-kond1303-1-9-1,,kond1303-1,9,ɑdenɑmu ɑdeŋɡo'šieɾ,ɑdenɑmu ɑdeŋɡo'šieɾ,[],( 5 + 4 ),[],,False,False,,1
-kond1303-1-10-1,,kond1303-1,10,deɾebɾe'ɡe,deɾebɾe'ɡe,[],( 2 x 5 ),[],,False,False,,1
+kond1303-1-1-1,,kond1303-1,1,mutu,mutu,[],,['chan2019'],,False,False,,1
+kond1303-1-2-1,,kond1303-1,2,iɾe'ɡe,iɾe'ɡe,[],,['chan2019'],,False,False,,1
+kond1303-1-3-1,,kond1303-1,3,odɾioɾɡe,odɾioɾɡe,[],,['chan2019'],,False,False,,1
+kond1303-1-4-1,,kond1303-1,4,ɑdeŋɡo'se,ɑdeŋɡo'se,[],,['chan2019'],,False,False,,1
+kond1303-1-5-1,,kond1303-1,5,deɾebuye'ri,deɾebuye'ri,[],,['chan2019'],,False,False,,1
+kond1303-1-6-1,,kond1303-1,6,ɑdenɑmu mu'tu,ɑdenɑmu mu'tu,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kond1303-1-7-1,,kond1303-1,7,ɑdenɑmu iɾe'ɡe,ɑdenɑmu iɾe'ɡe,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kond1303-1-8-1,,kond1303-1,8,ɑdenɑmu oɾioɾ'ɡe,ɑdenɑmu oɾioɾ'ɡe,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kond1303-1-9-1,,kond1303-1,9,ɑdenɑmu ɑdeŋɡo'šieɾ,ɑdenɑmu ɑdeŋɡo'šieɾ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kond1303-1-10-1,,kond1303-1,10,deɾebɾe'ɡe,deɾebɾe'ɡe,[],( 2 x 5 ),['chan2019'],,False,False,,1

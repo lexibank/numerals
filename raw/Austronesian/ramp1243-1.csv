@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ramp1243-1-1-1,,ramp1243-1,1,isa,isa,[],,[],,False,False,,1
-ramp1243-1-2-1,,ramp1243-1,2,dua,dua,[],,[],,False,False,,1
-ramp1243-1-3-1,,ramp1243-1,3,toɾu,toɾu,[],,[],,False,False,,1
-ramp1243-1-4-1,,ramp1243-1,4,iba,iba,[],,[],,False,False,,1
-ramp1243-1-5-1,,ramp1243-1,5,limo,limo,[],,[],,False,False,,1
-ramp1243-1-6-1,,ramp1243-1,6,oni,oni,[],,[],,False,False,,1
-ramp1243-1-7-1,,ramp1243-1,7,pitu,pitu,[],,[],,False,False,,1
-ramp1243-1-8-1,,ramp1243-1,8,waɾu,waɾu,[],,[],,False,False,,1
-ramp1243-1-9-1,,ramp1243-1,9,hio,hio,[],,[],,False,False,,1
-ramp1243-1-10-1,,ramp1243-1,10,hampuɾu,hampuɾu,[],,[],,False,False,,1
-ramp1243-1-11-1,,ramp1243-1,11,hampuɾu seise,hampuɾu seise,[],,[],,False,False,,1
-ramp1243-1-12-1,,ramp1243-1,12,hampuɾu rudua,hampuɾu rudua,[],,[],,False,False,,1
-ramp1243-1-13-1,,ramp1243-1,13,hampuɾu totolu,hampuɾu totolu,[],,[],,False,False,,1
-ramp1243-1-14-1,,ramp1243-1,14,hampuɾu popaa,hampuɾu popaa,[],,[],,False,False,,1
-ramp1243-1-15-1,,ramp1243-1,15,hampuɾu didima,hampuɾu didima,[],,[],,False,False,,1
-ramp1243-1-16-1,,ramp1243-1,16,hampuɾu nonoo,hampuɾu nonoo,[],,[],,False,False,,1
-ramp1243-1-17-1,,ramp1243-1,17,hampuɾu pipitu,hampuɾu pipitu,[],,[],,False,False,,1
-ramp1243-1-18-1,,ramp1243-1,18,hampuɾu oalu,hampuɾu oalu,[],,[],,False,False,,1
-ramp1243-1-19-1,,ramp1243-1,19,hampuɾu sisiua,hampuɾu sisiua,[],,[],,False,False,,1
-ramp1243-1-20-1,,ramp1243-1,20,rompuɾu,rompuɾu,[],,[],,False,False,,1
-ramp1243-1-21-1,,ramp1243-1,21,rompuɾu isa,rompuɾu isa,[],,[],,False,False,,1
-ramp1243-1-22-1,,ramp1243-1,22,rompuɾu dua,rompuɾu dua,[],,[],,False,False,,1
-ramp1243-1-23-1,,ramp1243-1,23,rompuɾu toɾu,rompuɾu toɾu,[],,[],,False,False,,1
-ramp1243-1-24-1,,ramp1243-1,24,rompuɾu iba,rompuɾu iba,[],,[],,False,False,,1
-ramp1243-1-25-1,,ramp1243-1,25,rompuɾu limo,rompuɾu limo,[],,[],,False,False,,1
-ramp1243-1-26-1,,ramp1243-1,26,rompuɾu oni,rompuɾu oni,[],,[],,False,False,,1
-ramp1243-1-27-1,,ramp1243-1,27,rompuɾu pitu,rompuɾu pitu,[],,[],,False,False,,1
-ramp1243-1-28-1,,ramp1243-1,28,rompuɾu waɾu,rompuɾu waɾu,[],,[],,False,False,,1
-ramp1243-1-29-1,,ramp1243-1,29,rompuɾu hio,rompuɾu hio,[],,[],,False,False,,1
-ramp1243-1-30-1,,ramp1243-1,30,toɾumpuɾu,toɾumpuɾu,[],,[],,False,False,,1
-ramp1243-1-40-1,,ramp1243-1,40,ibampuɾu,ibampuɾu,[],,[],,False,False,,1
-ramp1243-1-50-1,,ramp1243-1,50,limompuɾu,limompuɾu,[],,[],,False,False,,1
-ramp1243-1-60-1,,ramp1243-1,60,onimpuɾu,onimpuɾu,[],,[],,False,False,,1
-ramp1243-1-70-1,,ramp1243-1,70,pitumpuɾu,pitumpuɾu,[],,[],,False,False,,1
-ramp1243-1-80-1,,ramp1243-1,80,waɾumpuɾu,waɾumpuɾu,[],,[],,False,False,,1
-ramp1243-1-90-1,,ramp1243-1,90,hiompuɾu,hiompuɾu,[],,[],,False,False,,1
-ramp1243-1-100-1,,ramp1243-1,100,hanatu,hanatu,[],,[],,False,False,,1
-ramp1243-1-200-1,,ramp1243-1,200,ronatu,ronatu,[],,[],,False,False,,1
-ramp1243-1-1000-1,,ramp1243-1,1000,hasabu,hasabu,[],,[],,False,False,,1
-ramp1243-1-2000-1,,ramp1243-1,2000,rosabu,rosabu,[],,[],,False,False,,1
+ramp1243-1-1-1,,ramp1243-1,1,isa,isa,[],,['chan2019'],,False,False,,1
+ramp1243-1-2-1,,ramp1243-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+ramp1243-1-3-1,,ramp1243-1,3,toɾu,toɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-4-1,,ramp1243-1,4,iba,iba,[],,['chan2019'],,False,False,,1
+ramp1243-1-5-1,,ramp1243-1,5,limo,limo,[],,['chan2019'],,False,False,,1
+ramp1243-1-6-1,,ramp1243-1,6,oni,oni,[],,['chan2019'],,False,False,,1
+ramp1243-1-7-1,,ramp1243-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+ramp1243-1-8-1,,ramp1243-1,8,waɾu,waɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-9-1,,ramp1243-1,9,hio,hio,[],,['chan2019'],,False,False,,1
+ramp1243-1-10-1,,ramp1243-1,10,hampuɾu,hampuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-11-1,,ramp1243-1,11,hampuɾu seise,hampuɾu seise,[],,['chan2019'],,False,False,,1
+ramp1243-1-12-1,,ramp1243-1,12,hampuɾu rudua,hampuɾu rudua,[],,['chan2019'],,False,False,,1
+ramp1243-1-13-1,,ramp1243-1,13,hampuɾu totolu,hampuɾu totolu,[],,['chan2019'],,False,False,,1
+ramp1243-1-14-1,,ramp1243-1,14,hampuɾu popaa,hampuɾu popaa,[],,['chan2019'],,False,False,,1
+ramp1243-1-15-1,,ramp1243-1,15,hampuɾu didima,hampuɾu didima,[],,['chan2019'],,False,False,,1
+ramp1243-1-16-1,,ramp1243-1,16,hampuɾu nonoo,hampuɾu nonoo,[],,['chan2019'],,False,False,,1
+ramp1243-1-17-1,,ramp1243-1,17,hampuɾu pipitu,hampuɾu pipitu,[],,['chan2019'],,False,False,,1
+ramp1243-1-18-1,,ramp1243-1,18,hampuɾu oalu,hampuɾu oalu,[],,['chan2019'],,False,False,,1
+ramp1243-1-19-1,,ramp1243-1,19,hampuɾu sisiua,hampuɾu sisiua,[],,['chan2019'],,False,False,,1
+ramp1243-1-20-1,,ramp1243-1,20,rompuɾu,rompuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-21-1,,ramp1243-1,21,rompuɾu isa,rompuɾu isa,[],,['chan2019'],,False,False,,1
+ramp1243-1-22-1,,ramp1243-1,22,rompuɾu dua,rompuɾu dua,[],,['chan2019'],,False,False,,1
+ramp1243-1-23-1,,ramp1243-1,23,rompuɾu toɾu,rompuɾu toɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-24-1,,ramp1243-1,24,rompuɾu iba,rompuɾu iba,[],,['chan2019'],,False,False,,1
+ramp1243-1-25-1,,ramp1243-1,25,rompuɾu limo,rompuɾu limo,[],,['chan2019'],,False,False,,1
+ramp1243-1-26-1,,ramp1243-1,26,rompuɾu oni,rompuɾu oni,[],,['chan2019'],,False,False,,1
+ramp1243-1-27-1,,ramp1243-1,27,rompuɾu pitu,rompuɾu pitu,[],,['chan2019'],,False,False,,1
+ramp1243-1-28-1,,ramp1243-1,28,rompuɾu waɾu,rompuɾu waɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-29-1,,ramp1243-1,29,rompuɾu hio,rompuɾu hio,[],,['chan2019'],,False,False,,1
+ramp1243-1-30-1,,ramp1243-1,30,toɾumpuɾu,toɾumpuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-40-1,,ramp1243-1,40,ibampuɾu,ibampuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-50-1,,ramp1243-1,50,limompuɾu,limompuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-60-1,,ramp1243-1,60,onimpuɾu,onimpuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-70-1,,ramp1243-1,70,pitumpuɾu,pitumpuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-80-1,,ramp1243-1,80,waɾumpuɾu,waɾumpuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-90-1,,ramp1243-1,90,hiompuɾu,hiompuɾu,[],,['chan2019'],,False,False,,1
+ramp1243-1-100-1,,ramp1243-1,100,hanatu,hanatu,[],,['chan2019'],,False,False,,1
+ramp1243-1-200-1,,ramp1243-1,200,ronatu,ronatu,[],,['chan2019'],,False,False,,1
+ramp1243-1-1000-1,,ramp1243-1,1000,hasabu,hasabu,[],,['chan2019'],,False,False,,1
+ramp1243-1-2000-1,,ramp1243-1,2000,rosabu,rosabu,[],,['chan2019'],,False,False,,1

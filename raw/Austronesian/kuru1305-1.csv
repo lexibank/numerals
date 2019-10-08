@@ -1,18 +1,18 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kuru1305-1-1-1,,kuru1305-1,1,bosandi,bosandi,[],,[],,False,False,,1
-kuru1305-1-2-1,,kuru1305-1,2,boru,boru,[],,[],,False,False,,1
-kuru1305-1-3-1,,kuru1305-1,3,botor,botor,[],,[],,False,False,,1
-kuru1305-1-4-1,,kuru1305-1,4,boat,boat,[],,[],,False,False,,1
-kuru1305-1-5-1,,kuru1305-1,5,boverim,boverim,[],,[],,False,False,,1
-kuru1305-1-6-1,,kuru1305-1,6,boverim de bosandi,boverim de bosandi,[],(5 + 1),[],,False,False,,1
-kuru1305-1-7-1,,kuru1305-1,7,boverim de boru,boverim de boru,[],( 5 + 2),[],,False,False,,1
-kuru1305-1-8-1,,kuru1305-1,8,boverim de botor,boverim de botor,[],( 5 + 3),[],,False,False,,1
-kuru1305-1-9-1,,kuru1305-1,9,boverim de boat,boverim de boat,[],( 5 + 4),[],,False,False,,1
-kuru1305-1-10-1,,kuru1305-1,10,sur,sur,[],,[],,False,False,,1
-kuru1305-1-11-1,,kuru1305-1,11,surare bosandi,surare bosandi,[],,[],,False,False,,1
-kuru1305-1-12-1,,kuru1305-1,12,surare boru,surare boru,[],,[],,False,False,,1
-kuru1305-1-19-1,,kuru1305-1,19,surare boverim mare boat,surare boverim mare boat,[],,[],,False,False,,1
-kuru1305-1-20-1,,kuru1305-1,20,parsinon mansandi,parsinon mansandi,[],,[],,False,False,,1
-kuru1305-1-30-1,,kuru1305-1,30,parsinon mansandi re sur,parsinon mansandi re sur,[],,[],,False,False,,1
-kuru1305-1-40-1,,kuru1305-1,40,parsinin mandu,parsinin mandu,[],,[],,False,False,,1
-kuru1305-1-100-1,,kuru1305-1,100,parsinon boverim,parsinon boverim,[],,[],,False,False,,1
+kuru1305-1-1-1,,kuru1305-1,1,bosandi,bosandi,[],,['chan2019'],,False,False,,1
+kuru1305-1-2-1,,kuru1305-1,2,boru,boru,[],,['chan2019'],,False,False,,1
+kuru1305-1-3-1,,kuru1305-1,3,botor,botor,[],,['chan2019'],,False,False,,1
+kuru1305-1-4-1,,kuru1305-1,4,boat,boat,[],,['chan2019'],,False,False,,1
+kuru1305-1-5-1,,kuru1305-1,5,boverim,boverim,[],,['chan2019'],,False,False,,1
+kuru1305-1-6-1,,kuru1305-1,6,boverim de bosandi,boverim de bosandi,[],(5 + 1),['chan2019'],,False,False,,1
+kuru1305-1-7-1,,kuru1305-1,7,boverim de boru,boverim de boru,[],( 5 + 2),['chan2019'],,False,False,,1
+kuru1305-1-8-1,,kuru1305-1,8,boverim de botor,boverim de botor,[],( 5 + 3),['chan2019'],,False,False,,1
+kuru1305-1-9-1,,kuru1305-1,9,boverim de boat,boverim de boat,[],( 5 + 4),['chan2019'],,False,False,,1
+kuru1305-1-10-1,,kuru1305-1,10,sur,sur,[],,['chan2019'],,False,False,,1
+kuru1305-1-11-1,,kuru1305-1,11,surare bosandi,surare bosandi,[],,['chan2019'],,False,False,,1
+kuru1305-1-12-1,,kuru1305-1,12,surare boru,surare boru,[],,['chan2019'],,False,False,,1
+kuru1305-1-19-1,,kuru1305-1,19,surare boverim mare boat,surare boverim mare boat,[],,['chan2019'],,False,False,,1
+kuru1305-1-20-1,,kuru1305-1,20,parsinon mansandi,parsinon mansandi,[],,['chan2019'],,False,False,,1
+kuru1305-1-30-1,,kuru1305-1,30,parsinon mansandi re sur,parsinon mansandi re sur,[],,['chan2019'],,False,False,,1
+kuru1305-1-40-1,,kuru1305-1,40,parsinin mandu,parsinin mandu,[],,['chan2019'],,False,False,,1
+kuru1305-1-100-1,,kuru1305-1,100,parsinon boverim,parsinon boverim,[],,['chan2019'],,False,False,,1

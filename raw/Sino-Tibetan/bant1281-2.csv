@@ -1,28 +1,28 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bant1281-2-1-1,,bant1281-2,1,ɔk,ɔk,[],,[],,False,False,,2
-bant1281-2-2-1,,bant1281-2,2,hɔwa,hɔwa,[],,[],,False,False,,2
-bant1281-2-3-1,,bant1281-2,3,sum,sum,[],,[],,False,False,,2
-bant1281-2-4-1,,bant1281-2,4,lu,lu,[],,[],,False,False,,2
-bant1281-2-5-1,,bant1281-2,5,ŋa,ŋa,[],,[],,False,False,,2
-bant1281-2-6-1,,bant1281-2,6,t̪uk,t̪uk,[],,[],,False,False,,2
-bant1281-2-7-1,,bant1281-2,7,e,e,[],,[],,False,False,,2
-bant1281-2-8-1,,bant1281-2,8,re,re,[],,[],,False,False,,2
-bant1281-2-9-1,,bant1281-2,9,bʰɔu,bʰɔu,[],,[],,False,False,,2
-bant1281-2-10-1,,bant1281-2,10,pɔu,pɔu,[],,[],,False,False,,2
-bant1281-2-11-1,,bant1281-2,11,pɔu ɔk,pɔu ɔk,[],,[],,False,False,,2
-bant1281-2-12-1,,bant1281-2,12,pɔu hɔwa,pɔu hɔwa,[],,[],,False,False,,2
-bant1281-2-13-1,,bant1281-2,13,pɔu sum,pɔu sum,[],,[],,False,False,,2
-bant1281-2-14-1,,bant1281-2,14,pɔu lu,pɔu lu,[],,[],,False,False,,2
-bant1281-2-15-1,,bant1281-2,15,pɔu ŋa,pɔu ŋa,[],,[],,False,False,,2
-bant1281-2-16-1,,bant1281-2,16,pɔu t̪uk,pɔu t̪uk,[],,[],,False,False,,2
-bant1281-2-17-1,,bant1281-2,17,pɔu e,pɔu e,[],,[],,False,False,,2
-bant1281-2-18-1,,bant1281-2,18,pɔu re,pɔu re,[],,[],,False,False,,2
-bant1281-2-19-1,,bant1281-2,19,pɔu bʰɔu,pɔu bʰɔu,[],,[],,False,False,,2
-bant1281-2-20-1,,bant1281-2,20,hit͡ʃi,hit͡ʃi,[],,[],,False,False,,2
-bant1281-2-30-1,,bant1281-2,30,sukki,sukki,[],,[],,False,False,,2
-bant1281-2-40-1,,bant1281-2,40,lukki,lukki,[],,[],,False,False,,2
-bant1281-2-50-1,,bant1281-2,50,ŋakki,ŋakki,[],,[],,False,False,,2
-bant1281-2-60-1,,bant1281-2,60,t̪ukki,t̪ukki,[],,[],,False,False,,2
-bant1281-2-70-1,,bant1281-2,70,ekki,ekki,[],,[],,False,False,,2
-bant1281-2-80-1,,bant1281-2,80,rekki,rekki,[],,[],,False,False,,2
-bant1281-2-90-1,,bant1281-2,90,bʰɔukki,bʰɔukki,[],,[],,False,False,,2
+bant1281-2-1-1,,bant1281-2,1,ɔk,ɔk,[],,['chan2019'],,False,False,,2
+bant1281-2-2-1,,bant1281-2,2,hɔwa,hɔwa,[],,['chan2019'],,False,False,,2
+bant1281-2-3-1,,bant1281-2,3,sum,sum,[],,['chan2019'],,False,False,,2
+bant1281-2-4-1,,bant1281-2,4,lu,lu,[],,['chan2019'],,False,False,,2
+bant1281-2-5-1,,bant1281-2,5,ŋa,ŋa,[],,['chan2019'],,False,False,,2
+bant1281-2-6-1,,bant1281-2,6,t̪uk,t̪uk,[],,['chan2019'],,False,False,,2
+bant1281-2-7-1,,bant1281-2,7,e,e,[],,['chan2019'],,False,False,,2
+bant1281-2-8-1,,bant1281-2,8,re,re,[],,['chan2019'],,False,False,,2
+bant1281-2-9-1,,bant1281-2,9,bʰɔu,bʰɔu,[],,['chan2019'],,False,False,,2
+bant1281-2-10-1,,bant1281-2,10,pɔu,pɔu,[],,['chan2019'],,False,False,,2
+bant1281-2-11-1,,bant1281-2,11,pɔu ɔk,pɔu ɔk,[],,['chan2019'],,False,False,,2
+bant1281-2-12-1,,bant1281-2,12,pɔu hɔwa,pɔu hɔwa,[],,['chan2019'],,False,False,,2
+bant1281-2-13-1,,bant1281-2,13,pɔu sum,pɔu sum,[],,['chan2019'],,False,False,,2
+bant1281-2-14-1,,bant1281-2,14,pɔu lu,pɔu lu,[],,['chan2019'],,False,False,,2
+bant1281-2-15-1,,bant1281-2,15,pɔu ŋa,pɔu ŋa,[],,['chan2019'],,False,False,,2
+bant1281-2-16-1,,bant1281-2,16,pɔu t̪uk,pɔu t̪uk,[],,['chan2019'],,False,False,,2
+bant1281-2-17-1,,bant1281-2,17,pɔu e,pɔu e,[],,['chan2019'],,False,False,,2
+bant1281-2-18-1,,bant1281-2,18,pɔu re,pɔu re,[],,['chan2019'],,False,False,,2
+bant1281-2-19-1,,bant1281-2,19,pɔu bʰɔu,pɔu bʰɔu,[],,['chan2019'],,False,False,,2
+bant1281-2-20-1,,bant1281-2,20,hit͡ʃi,hit͡ʃi,[],,['chan2019'],,False,False,,2
+bant1281-2-30-1,,bant1281-2,30,sukki,sukki,[],,['chan2019'],,False,False,,2
+bant1281-2-40-1,,bant1281-2,40,lukki,lukki,[],,['chan2019'],,False,False,,2
+bant1281-2-50-1,,bant1281-2,50,ŋakki,ŋakki,[],,['chan2019'],,False,False,,2
+bant1281-2-60-1,,bant1281-2,60,t̪ukki,t̪ukki,[],,['chan2019'],,False,False,,2
+bant1281-2-70-1,,bant1281-2,70,ekki,ekki,[],,['chan2019'],,False,False,,2
+bant1281-2-80-1,,bant1281-2,80,rekki,rekki,[],,['chan2019'],,False,False,,2
+bant1281-2-90-1,,bant1281-2,90,bʰɔukki,bʰɔukki,[],,['chan2019'],,False,False,,2

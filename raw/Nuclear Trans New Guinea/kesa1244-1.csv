@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kesa1244-1-1-1,,kesa1244-1,1,ɐtəɾɛi,ɐtəɾɛi,[],,[],,False,False,aterei,1
-kesa1244-1-2-1,,kesa1244-1,2,ɐɛɾɛ,ɐɛɾɛ,[],,[],,False,False,aere,1
-kesa1244-1-3-1,,kesa1244-1,3,ii,ii,[],,[],,False,False,ii,1
-kesa1244-1-4-1,,kesa1244-1,4,ɐɛɾɛto ɐɛɾɛto,ɐɛɾɛto ɐɛɾɛto,[],,[],,False,False,aerato aerato,1
-kesa1244-1-5-1,,kesa1244-1,5,ɐɛɾɛto ɐɛɾɛto ɐtəɾɛi ɐto,ɐɛɾɛto ɐɛɾɛto ɐtəɾɛi ɐto,[],,[],,False,False,aerato aerato aterei ato,1
-kesa1244-1-6-1,,kesa1244-1,6,ɐɛɾɛto ɐɛɾɛto ɐɛɾɛto,ɐɛɾɛto ɐɛɾɛto ɐɛɾɛto,[],,[],,False,False,aerato aerato aerato,1
+kesa1244-1-1-1,,kesa1244-1,1,ɐtəɾɛi,ɐtəɾɛi,[],,['chan2019'],,False,False,aterei,1
+kesa1244-1-2-1,,kesa1244-1,2,ɐɛɾɛ,ɐɛɾɛ,[],,['chan2019'],,False,False,aere,1
+kesa1244-1-3-1,,kesa1244-1,3,ii,ii,[],,['chan2019'],,False,False,ii,1
+kesa1244-1-4-1,,kesa1244-1,4,ɐɛɾɛto ɐɛɾɛto,ɐɛɾɛto ɐɛɾɛto,[],,['chan2019'],,False,False,aerato aerato,1
+kesa1244-1-5-1,,kesa1244-1,5,ɐɛɾɛto ɐɛɾɛto ɐtəɾɛi ɐto,ɐɛɾɛto ɐɛɾɛto ɐtəɾɛi ɐto,[],,['chan2019'],,False,False,aerato aerato aterei ato,1
+kesa1244-1-6-1,,kesa1244-1,6,ɐɛɾɛto ɐɛɾɛto ɐɛɾɛto,ɐɛɾɛto ɐɛɾɛto ɐɛɾɛto,[],,['chan2019'],,False,False,aerato aerato aerato,1

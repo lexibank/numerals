@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ngas1240-1-1-1,,ngas1240-1,1,ɡàk,ɡàk,[],,[],,False,False,,1
-ngas1240-1-2-1,,ngas1240-1,2,báp,báp,[],,[],,False,False,,1
-ngas1240-1-3-1,,ngas1240-1,3,kʷán,kʷán,[],,[],,False,False,,1
-ngas1240-1-4-1,,ngas1240-1,4,fír,fír,[],,[],,False,False,,1
-ngas1240-1-5-1,,ngas1240-1,5,pɛ̀t,pɛ̀t,[],,[],,False,False,,1
-ngas1240-1-6-1,,ngas1240-1,6,pìmí,pìmí,[],( 5 + 1 ),[],,False,False,,1
-ngas1240-1-7-1,,ngas1240-1,7,pòbáp,pòbáp,[],( 5 + 2 ),[],,False,False,,1
-ngas1240-1-8-1,,ngas1240-1,8,pòkʷún,pòkʷún,[],( 5 + 3 ),[],,False,False,,1
-ngas1240-1-9-1,,ngas1240-1,9,pòfár,pòfár,[],( 5 + 4 ),[],,False,False,,1
-ngas1240-1-10-1,,ngas1240-1,10,sàr,sàr,[],,[],,False,False,,1
-ngas1240-1-11-1,,ngas1240-1,11,sàr pò ɡàk,sàr pò ɡàk,[],,[],,False,False,,1
-ngas1240-1-12-1,,ngas1240-1,12,sàr pò báp,sàr pò báp,[],,[],,False,False,,1
-ngas1240-1-13-1,,ngas1240-1,13,sàr pò kʷán,sàr pò kʷán,[],,[],,False,False,,1
-ngas1240-1-14-1,,ngas1240-1,14,sàr pò fír,sàr pò fír,[],,[],,False,False,,1
-ngas1240-1-15-1,,ngas1240-1,15,sàr pò pɛ̀t,sàr pò pɛ̀t,[],,[],,False,False,,1
-ngas1240-1-16-1,,ngas1240-1,16,sàr pò pìmí,sàr pò pìmí,[],,[],,False,False,,1
-ngas1240-1-17-1,,ngas1240-1,17,sàr pò pòbáp,sàr pò pòbáp,[],,[],,False,False,,1
-ngas1240-1-18-1,,ngas1240-1,18,sàr pò pòkʷún,sàr pò pòkʷún,[],,[],,False,False,,1
-ngas1240-1-19-1,,ngas1240-1,19,sàr pò pòfár,sàr pò pòfár,[],,[],,False,False,,1
-ngas1240-1-20-1,,ngas1240-1,20,tɛ́ᵋk báp,tɛ́ᵋk báp,[],,[],,False,False,,1
-ngas1240-1-21-1,,ngas1240-1,21,tɛ́ᵋk báp pò ɡàk,tɛ́ᵋk báp pò ɡàk,[],,[],,False,False,,1
-ngas1240-1-22-1,,ngas1240-1,22,tɛ́ᵋk báp pò báp,tɛ́ᵋk báp pò báp,[],,[],,False,False,,1
-ngas1240-1-23-1,,ngas1240-1,23,tɛ́ᵋk báp pò kʷán,tɛ́ᵋk báp pò kʷán,[],,[],,False,False,,1
-ngas1240-1-24-1,,ngas1240-1,24,tɛ́ᵋk báp pò fír,tɛ́ᵋk báp pò fír,[],,[],,False,False,,1
-ngas1240-1-25-1,,ngas1240-1,25,tɛ́ᵋk báp pò pɛ̀t,tɛ́ᵋk báp pò pɛ̀t,[],,[],,False,False,,1
-ngas1240-1-26-1,,ngas1240-1,26,tɛ́ᵋk báp pò pìmí,tɛ́ᵋk báp pò pìmí,[],,[],,False,False,,1
-ngas1240-1-27-1,,ngas1240-1,27,tɛ́ᵋk báp pò pòbáp,tɛ́ᵋk báp pò pòbáp,[],,[],,False,False,,1
-ngas1240-1-28-1,,ngas1240-1,28,tɛ́ᵋk báp pò pòkʷún,tɛ́ᵋk báp pò pòkʷún,[],,[],,False,False,,1
-ngas1240-1-29-1,,ngas1240-1,29,tɛ́ᵋk báp pò pòfár,tɛ́ᵋk báp pò pòfár,[],,[],,False,False,,1
-ngas1240-1-30-1,,ngas1240-1,30,tɛ́ᵋk kʷán,tɛ́ᵋk kʷán,[],,[],,False,False,,1
-ngas1240-1-40-1,,ngas1240-1,40,tɛ́ᵋk fír,tɛ́ᵋk fír,[],,[],,False,False,,1
-ngas1240-1-50-1,,ngas1240-1,50,tɛ́ᵋk pɛ̀t,tɛ́ᵋk pɛ̀t,[],,[],,False,False,,1
-ngas1240-1-60-1,,ngas1240-1,60,tɛ́ᵋk pìmí,tɛ́ᵋk pìmí,[],,[],,False,False,,1
-ngas1240-1-70-1,,ngas1240-1,70,tɛ́ᵋk pòbáp,tɛ́ᵋk pòbáp,[],,[],,False,False,,1
-ngas1240-1-80-1,,ngas1240-1,80,tɛ́ᵋk pòkʷún,tɛ́ᵋk pòkʷún,[],,[],,False,False,,1
-ngas1240-1-90-1,,ngas1240-1,90,tɛ́ᵋk pòfár,tɛ́ᵋk pòfár,[],,[],,False,False,,1
-ngas1240-1-100-1,,ngas1240-1,100,ɗàlí,ɗàlí,[],( < Hausa ),[],,True,False,,1
-ngas1240-1-200-1,,ngas1240-1,200,ɗàlí báp,ɗàlí báp,[],,[],,False,False,,1
-ngas1240-1-1000-1,,ngas1240-1,1000,dúbù,dúbù,[],(< Hausa 'dubu'),[],,True,False,,1
-ngas1240-1-2000-1,,ngas1240-1,2000,dúbù báp,dúbù báp,[],,[],,False,False,,1
+ngas1240-1-1-1,,ngas1240-1,1,ɡàk,ɡàk,[],,['chan2019'],,False,False,,1
+ngas1240-1-2-1,,ngas1240-1,2,báp,báp,[],,['chan2019'],,False,False,,1
+ngas1240-1-3-1,,ngas1240-1,3,kʷán,kʷán,[],,['chan2019'],,False,False,,1
+ngas1240-1-4-1,,ngas1240-1,4,fír,fír,[],,['chan2019'],,False,False,,1
+ngas1240-1-5-1,,ngas1240-1,5,pɛ̀t,pɛ̀t,[],,['chan2019'],,False,False,,1
+ngas1240-1-6-1,,ngas1240-1,6,pìmí,pìmí,[],( 5 + 1 ),['chan2019'],,False,False,,1
+ngas1240-1-7-1,,ngas1240-1,7,pòbáp,pòbáp,[],( 5 + 2 ),['chan2019'],,False,False,,1
+ngas1240-1-8-1,,ngas1240-1,8,pòkʷún,pòkʷún,[],( 5 + 3 ),['chan2019'],,False,False,,1
+ngas1240-1-9-1,,ngas1240-1,9,pòfár,pòfár,[],( 5 + 4 ),['chan2019'],,False,False,,1
+ngas1240-1-10-1,,ngas1240-1,10,sàr,sàr,[],,['chan2019'],,False,False,,1
+ngas1240-1-11-1,,ngas1240-1,11,sàr pò ɡàk,sàr pò ɡàk,[],,['chan2019'],,False,False,,1
+ngas1240-1-12-1,,ngas1240-1,12,sàr pò báp,sàr pò báp,[],,['chan2019'],,False,False,,1
+ngas1240-1-13-1,,ngas1240-1,13,sàr pò kʷán,sàr pò kʷán,[],,['chan2019'],,False,False,,1
+ngas1240-1-14-1,,ngas1240-1,14,sàr pò fír,sàr pò fír,[],,['chan2019'],,False,False,,1
+ngas1240-1-15-1,,ngas1240-1,15,sàr pò pɛ̀t,sàr pò pɛ̀t,[],,['chan2019'],,False,False,,1
+ngas1240-1-16-1,,ngas1240-1,16,sàr pò pìmí,sàr pò pìmí,[],,['chan2019'],,False,False,,1
+ngas1240-1-17-1,,ngas1240-1,17,sàr pò pòbáp,sàr pò pòbáp,[],,['chan2019'],,False,False,,1
+ngas1240-1-18-1,,ngas1240-1,18,sàr pò pòkʷún,sàr pò pòkʷún,[],,['chan2019'],,False,False,,1
+ngas1240-1-19-1,,ngas1240-1,19,sàr pò pòfár,sàr pò pòfár,[],,['chan2019'],,False,False,,1
+ngas1240-1-20-1,,ngas1240-1,20,tɛ́ᵋk báp,tɛ́ᵋk báp,[],,['chan2019'],,False,False,,1
+ngas1240-1-21-1,,ngas1240-1,21,tɛ́ᵋk báp pò ɡàk,tɛ́ᵋk báp pò ɡàk,[],,['chan2019'],,False,False,,1
+ngas1240-1-22-1,,ngas1240-1,22,tɛ́ᵋk báp pò báp,tɛ́ᵋk báp pò báp,[],,['chan2019'],,False,False,,1
+ngas1240-1-23-1,,ngas1240-1,23,tɛ́ᵋk báp pò kʷán,tɛ́ᵋk báp pò kʷán,[],,['chan2019'],,False,False,,1
+ngas1240-1-24-1,,ngas1240-1,24,tɛ́ᵋk báp pò fír,tɛ́ᵋk báp pò fír,[],,['chan2019'],,False,False,,1
+ngas1240-1-25-1,,ngas1240-1,25,tɛ́ᵋk báp pò pɛ̀t,tɛ́ᵋk báp pò pɛ̀t,[],,['chan2019'],,False,False,,1
+ngas1240-1-26-1,,ngas1240-1,26,tɛ́ᵋk báp pò pìmí,tɛ́ᵋk báp pò pìmí,[],,['chan2019'],,False,False,,1
+ngas1240-1-27-1,,ngas1240-1,27,tɛ́ᵋk báp pò pòbáp,tɛ́ᵋk báp pò pòbáp,[],,['chan2019'],,False,False,,1
+ngas1240-1-28-1,,ngas1240-1,28,tɛ́ᵋk báp pò pòkʷún,tɛ́ᵋk báp pò pòkʷún,[],,['chan2019'],,False,False,,1
+ngas1240-1-29-1,,ngas1240-1,29,tɛ́ᵋk báp pò pòfár,tɛ́ᵋk báp pò pòfár,[],,['chan2019'],,False,False,,1
+ngas1240-1-30-1,,ngas1240-1,30,tɛ́ᵋk kʷán,tɛ́ᵋk kʷán,[],,['chan2019'],,False,False,,1
+ngas1240-1-40-1,,ngas1240-1,40,tɛ́ᵋk fír,tɛ́ᵋk fír,[],,['chan2019'],,False,False,,1
+ngas1240-1-50-1,,ngas1240-1,50,tɛ́ᵋk pɛ̀t,tɛ́ᵋk pɛ̀t,[],,['chan2019'],,False,False,,1
+ngas1240-1-60-1,,ngas1240-1,60,tɛ́ᵋk pìmí,tɛ́ᵋk pìmí,[],,['chan2019'],,False,False,,1
+ngas1240-1-70-1,,ngas1240-1,70,tɛ́ᵋk pòbáp,tɛ́ᵋk pòbáp,[],,['chan2019'],,False,False,,1
+ngas1240-1-80-1,,ngas1240-1,80,tɛ́ᵋk pòkʷún,tɛ́ᵋk pòkʷún,[],,['chan2019'],,False,False,,1
+ngas1240-1-90-1,,ngas1240-1,90,tɛ́ᵋk pòfár,tɛ́ᵋk pòfár,[],,['chan2019'],,False,False,,1
+ngas1240-1-100-1,,ngas1240-1,100,ɗàlí,ɗàlí,[],( < Hausa ),['chan2019'],,True,False,,1
+ngas1240-1-200-1,,ngas1240-1,200,ɗàlí báp,ɗàlí báp,[],,['chan2019'],,False,False,,1
+ngas1240-1-1000-1,,ngas1240-1,1000,dúbù,dúbù,[],(< Hausa 'dubu'),['chan2019'],,True,False,,1
+ngas1240-1-2000-1,,ngas1240-1,2000,dúbù báp,dúbù báp,[],,['chan2019'],,False,False,,1

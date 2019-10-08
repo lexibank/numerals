@@ -1,63 +1,63 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-nort2943-1-1-1,,nort2943-1,1,atausiq,atausiq,[],,[],,False,False,,1
-nort2943-1-2-1,,nort2943-1,2,malġuk,malġuk,[],,[],,False,False,,1
-nort2943-1-2-2,,nort2943-1,2,malʁuk,malʁuk,[],,[],,False,False,,1
-nort2943-1-3-1,,nort2943-1,3,piŋasut,piŋasut,[],,[],,False,False,,1
-nort2943-1-4-1,,nort2943-1,4,sisamat,sisamat,[],,[],,False,False,,1
-nort2943-1-5-1,,nort2943-1,5,tallimat,tallimat,[],,[],,False,False,,1
-nort2943-1-6-1,,nort2943-1,6,itchaksrat,itchaksrat,[],,[],,False,False,,1
-nort2943-1-6-2,,nort2943-1,6,itːʃakʂat,itːʃakʂat,[],,[],,False,False,,1
-nort2943-1-7-1,,nort2943-1,7,tallimat malʁuk,tallimat malʁuk,[],,[],,False,False,,1
-nort2943-1-8-1,,nort2943-1,8,tallimat piŋasut,tallimat piŋasut,[],,[],,False,False,,1
-nort2943-1-9-1,,nort2943-1,9,quliŋŋ̩uʁutailʲaq,quliŋŋ̩uʁutailʲaq,[],,[],,False,False,,1
-nort2943-1-10-1,,nort2943-1,10,qulit,qulit,[],,[],,False,False,,1
-nort2943-1-11-1,,nort2943-1,11,qulit atausiq,qulit atausiq,[],,[],,False,False,,1
-nort2943-1-12-1,,nort2943-1,12,qulit malġuk,qulit malġuk,[],,[],,False,False,,1
-nort2943-1-12-2,,nort2943-1,12,qulit malʁuk,qulit malʁuk,[],,[],,False,False,,1
-nort2943-1-13-1,,nort2943-1,13,qulit piŋasut,qulit piŋasut,[],,[],,False,False,,1
-nort2943-1-14-1,,nort2943-1,14,akimaġutaiḷaq,akimaġutaiḷaq,[],,[],,False,False,,1
-nort2943-1-14-2,,nort2943-1,14,akimaʁutaiʎaq,akimaʁutaiʎaq,[],,[],,False,False,,1
-nort2943-1-15-1,,nort2943-1,15,akimaq,akimaq,[],,[],,False,False,,1
-nort2943-1-16-1,,nort2943-1,16,akimaq atausiq,akimaq atausiq,[],,[],,False,False,,1
-nort2943-1-17-1,,nort2943-1,17,akimaq malġuk,akimaq malġuk,[],,[],,False,False,,1
-nort2943-1-17-2,,nort2943-1,17,akimaq malʁuk,akimaq malʁuk,[],,[],,False,False,,1
-nort2943-1-18-1,,nort2943-1,18,akimaq piŋasut,akimaq piŋasut,[],,[],,False,False,,1
-nort2943-1-19-1,,nort2943-1,19,iñuiñaġutaiḷaq,iñuiñaġutaiḷaq,[],,[],,False,False,,1
-nort2943-1-19-2,,nort2943-1,19,iɲuiɲauʁutaiʎaq,iɲuiɲauʁutaiʎaq,[],,[],,False,False,,1
-nort2943-1-20-1,,nort2943-1,20,iñuiñaq,iñuiñaq,[],,[],,False,False,,1
-nort2943-1-20-2,,nort2943-1,20,iɲuiɲaq,iɲuiɲaq,[],,[],,False,False,,1
-nort2943-1-21-1,,nort2943-1,21,iñuiñaq atausiq,iñuiñaq atausiq,[],,[],,False,False,,1
-nort2943-1-21-2,,nort2943-1,21,iɲuiɲaq atausiq,iɲuiɲaq atausiq,[],,[],,False,False,,1
-nort2943-1-22-1,,nort2943-1,22,iñuiñaq malġuk,iñuiñaq malġuk,[],,[],,False,False,,1
-nort2943-1-22-2,,nort2943-1,22,iɲuiɲaq malʁuk,iɲuiɲaq malʁuk,[],,[],,False,False,,1
-nort2943-1-23-1,,nort2943-1,23,iñuiñaq piŋasut,iñuiñaq piŋasut,[],,[],,False,False,,1
-nort2943-1-23-2,,nort2943-1,23,iɲuiɲaq piŋasut,iɲuiɲaq piŋasut,[],,[],,False,False,,1
-nort2943-1-24-1,,nort2943-1,24,iñuiñaq sisamat,iñuiñaq sisamat,[],,[],,False,False,,1
-nort2943-1-24-2,,nort2943-1,24,iɲuiɲaq sisamat,iɲuiɲaq sisamat,[],,[],,False,False,,1
-nort2943-1-25-1,,nort2943-1,25,iñuiñaq tallimat,iñuiñaq tallimat,[],,[],,False,False,,1
-nort2943-1-25-2,,nort2943-1,25,iɲuiɲaq tallimat,iɲuiɲaq tallimat,[],,[],,False,False,,1
-nort2943-1-26-1,,nort2943-1,26,iñuiñaq itchaksrat,iñuiñaq itchaksrat,[],,[],,False,False,,1
-nort2943-1-26-2,,nort2943-1,26,iɲuiɲaq itːʃakʂat,iɲuiɲaq itːʃakʂat,[],,[],,False,False,,1
-nort2943-1-27-1,,nort2943-1,27,iñuiñaq tallimat malġuk,iñuiñaq tallimat malġuk,[],,[],,False,False,,1
-nort2943-1-27-2,,nort2943-1,27,iɲuiɲaq tallimat malʁuk,iɲuiɲaq tallimat malʁuk,[],,[],,False,False,,1
-nort2943-1-28-1,,nort2943-1,28,iñuiñaq tallimat piŋasut,iñuiñaq tallimat piŋasut,[],,[],,False,False,,1
-nort2943-1-28-2,,nort2943-1,28,iɲuiɲaq tallimat piŋasut,iɲuiɲaq tallimat piŋasut,[],,[],,False,False,,1
-nort2943-1-29-1,,nort2943-1,29,iñuiñaq quliŋuġutaiḷaq,iñuiñaq quliŋuġutaiḷaq,[],,[],,False,False,,1
-nort2943-1-29-2,,nort2943-1,29,iɲuiɲaq quliŋuʁutaiʎaq,iɲuiɲaq quliŋuʁutaiʎaq,[],,[],,False,False,,1
-nort2943-1-30-1,,nort2943-1,30,iñuiñaq qulit,iñuiñaq qulit,[],,[],,False,False,,1
-nort2943-1-30-2,,nort2943-1,30,iɲuiɲaq qulit,iɲuiɲaq qulit,[],,[],,False,False,,1
-nort2943-1-40-1,,nort2943-1,40,malġukipiaq,malġukipiaq,[],,[],,False,False,,1
-nort2943-1-40-2,,nort2943-1,40,malʁukipiaq,malʁukipiaq,[],,[],,False,False,,1
-nort2943-1-50-1,,nort2943-1,50,malġukipiaq qulit,malġukipiaq qulit,[],,[],,False,False,,1
-nort2943-1-50-2,,nort2943-1,50,malʁukipiaq qulit,malʁukipiaq qulit,[],,[],,False,False,,1
-nort2943-1-60-1,,nort2943-1,60,piŋasukipiaq,piŋasukipiaq,[],,[],,False,False,,1
-nort2943-1-70-1,,nort2943-1,70,piŋasukipiaq qulit,piŋasukipiaq qulit,[],,[],,False,False,,1
-nort2943-1-80-1,,nort2943-1,80,sisamakipiaq,sisamakipiaq,[],,[],,False,False,,1
-nort2943-1-90-1,,nort2943-1,90,sisamakipiaq qulit,sisamakipiaq qulit,[],,[],,False,False,,1
-nort2943-1-100-1,,nort2943-1,100,qavluun,qavluun,[],,[],,False,False,,1
-nort2943-1-100-2,,nort2943-1,100,qavluːn,qavluːn,[],,[],,False,False,,1
-nort2943-1-100-3,,nort2943-1,100,OR tallimakipiaq,OR tallimakipiaq,[],,[],,False,True,,1
-nort2943-1-200-1,,nort2943-1,200,qulikipiaq,qulikipiaq,[],,[],,False,False,,1
-nort2943-1-1000-1,,nort2943-1,1000,.....,.....,[],,[],,False,True,,1
-nort2943-1-2000-1,,nort2943-1,2000,tallimaagliaq,tallimaagliaq,[],,[],,False,False,,1
-nort2943-1-2000-2,,nort2943-1,2000,tallimaːɣliaq,tallimaːɣliaq,[],,[],,False,False,,1
+nort2943-1-1-1,,nort2943-1,1,atausiq,atausiq,[],,['chan2019'],,False,False,,1
+nort2943-1-2-1,,nort2943-1,2,malġuk,malġuk,[],,['chan2019'],,False,False,,1
+nort2943-1-2-2,,nort2943-1,2,malʁuk,malʁuk,[],,['chan2019'],,False,False,,1
+nort2943-1-3-1,,nort2943-1,3,piŋasut,piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-4-1,,nort2943-1,4,sisamat,sisamat,[],,['chan2019'],,False,False,,1
+nort2943-1-5-1,,nort2943-1,5,tallimat,tallimat,[],,['chan2019'],,False,False,,1
+nort2943-1-6-1,,nort2943-1,6,itchaksrat,itchaksrat,[],,['chan2019'],,False,False,,1
+nort2943-1-6-2,,nort2943-1,6,itːʃakʂat,itːʃakʂat,[],,['chan2019'],,False,False,,1
+nort2943-1-7-1,,nort2943-1,7,tallimat malʁuk,tallimat malʁuk,[],,['chan2019'],,False,False,,1
+nort2943-1-8-1,,nort2943-1,8,tallimat piŋasut,tallimat piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-9-1,,nort2943-1,9,quliŋŋ̩uʁutailʲaq,quliŋŋ̩uʁutailʲaq,[],,['chan2019'],,False,False,,1
+nort2943-1-10-1,,nort2943-1,10,qulit,qulit,[],,['chan2019'],,False,False,,1
+nort2943-1-11-1,,nort2943-1,11,qulit atausiq,qulit atausiq,[],,['chan2019'],,False,False,,1
+nort2943-1-12-1,,nort2943-1,12,qulit malġuk,qulit malġuk,[],,['chan2019'],,False,False,,1
+nort2943-1-12-2,,nort2943-1,12,qulit malʁuk,qulit malʁuk,[],,['chan2019'],,False,False,,1
+nort2943-1-13-1,,nort2943-1,13,qulit piŋasut,qulit piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-14-1,,nort2943-1,14,akimaġutaiḷaq,akimaġutaiḷaq,[],,['chan2019'],,False,False,,1
+nort2943-1-14-2,,nort2943-1,14,akimaʁutaiʎaq,akimaʁutaiʎaq,[],,['chan2019'],,False,False,,1
+nort2943-1-15-1,,nort2943-1,15,akimaq,akimaq,[],,['chan2019'],,False,False,,1
+nort2943-1-16-1,,nort2943-1,16,akimaq atausiq,akimaq atausiq,[],,['chan2019'],,False,False,,1
+nort2943-1-17-1,,nort2943-1,17,akimaq malġuk,akimaq malġuk,[],,['chan2019'],,False,False,,1
+nort2943-1-17-2,,nort2943-1,17,akimaq malʁuk,akimaq malʁuk,[],,['chan2019'],,False,False,,1
+nort2943-1-18-1,,nort2943-1,18,akimaq piŋasut,akimaq piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-19-1,,nort2943-1,19,iñuiñaġutaiḷaq,iñuiñaġutaiḷaq,[],,['chan2019'],,False,False,,1
+nort2943-1-19-2,,nort2943-1,19,iɲuiɲauʁutaiʎaq,iɲuiɲauʁutaiʎaq,[],,['chan2019'],,False,False,,1
+nort2943-1-20-1,,nort2943-1,20,iñuiñaq,iñuiñaq,[],,['chan2019'],,False,False,,1
+nort2943-1-20-2,,nort2943-1,20,iɲuiɲaq,iɲuiɲaq,[],,['chan2019'],,False,False,,1
+nort2943-1-21-1,,nort2943-1,21,iñuiñaq atausiq,iñuiñaq atausiq,[],,['chan2019'],,False,False,,1
+nort2943-1-21-2,,nort2943-1,21,iɲuiɲaq atausiq,iɲuiɲaq atausiq,[],,['chan2019'],,False,False,,1
+nort2943-1-22-1,,nort2943-1,22,iñuiñaq malġuk,iñuiñaq malġuk,[],,['chan2019'],,False,False,,1
+nort2943-1-22-2,,nort2943-1,22,iɲuiɲaq malʁuk,iɲuiɲaq malʁuk,[],,['chan2019'],,False,False,,1
+nort2943-1-23-1,,nort2943-1,23,iñuiñaq piŋasut,iñuiñaq piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-23-2,,nort2943-1,23,iɲuiɲaq piŋasut,iɲuiɲaq piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-24-1,,nort2943-1,24,iñuiñaq sisamat,iñuiñaq sisamat,[],,['chan2019'],,False,False,,1
+nort2943-1-24-2,,nort2943-1,24,iɲuiɲaq sisamat,iɲuiɲaq sisamat,[],,['chan2019'],,False,False,,1
+nort2943-1-25-1,,nort2943-1,25,iñuiñaq tallimat,iñuiñaq tallimat,[],,['chan2019'],,False,False,,1
+nort2943-1-25-2,,nort2943-1,25,iɲuiɲaq tallimat,iɲuiɲaq tallimat,[],,['chan2019'],,False,False,,1
+nort2943-1-26-1,,nort2943-1,26,iñuiñaq itchaksrat,iñuiñaq itchaksrat,[],,['chan2019'],,False,False,,1
+nort2943-1-26-2,,nort2943-1,26,iɲuiɲaq itːʃakʂat,iɲuiɲaq itːʃakʂat,[],,['chan2019'],,False,False,,1
+nort2943-1-27-1,,nort2943-1,27,iñuiñaq tallimat malġuk,iñuiñaq tallimat malġuk,[],,['chan2019'],,False,False,,1
+nort2943-1-27-2,,nort2943-1,27,iɲuiɲaq tallimat malʁuk,iɲuiɲaq tallimat malʁuk,[],,['chan2019'],,False,False,,1
+nort2943-1-28-1,,nort2943-1,28,iñuiñaq tallimat piŋasut,iñuiñaq tallimat piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-28-2,,nort2943-1,28,iɲuiɲaq tallimat piŋasut,iɲuiɲaq tallimat piŋasut,[],,['chan2019'],,False,False,,1
+nort2943-1-29-1,,nort2943-1,29,iñuiñaq quliŋuġutaiḷaq,iñuiñaq quliŋuġutaiḷaq,[],,['chan2019'],,False,False,,1
+nort2943-1-29-2,,nort2943-1,29,iɲuiɲaq quliŋuʁutaiʎaq,iɲuiɲaq quliŋuʁutaiʎaq,[],,['chan2019'],,False,False,,1
+nort2943-1-30-1,,nort2943-1,30,iñuiñaq qulit,iñuiñaq qulit,[],,['chan2019'],,False,False,,1
+nort2943-1-30-2,,nort2943-1,30,iɲuiɲaq qulit,iɲuiɲaq qulit,[],,['chan2019'],,False,False,,1
+nort2943-1-40-1,,nort2943-1,40,malġukipiaq,malġukipiaq,[],,['chan2019'],,False,False,,1
+nort2943-1-40-2,,nort2943-1,40,malʁukipiaq,malʁukipiaq,[],,['chan2019'],,False,False,,1
+nort2943-1-50-1,,nort2943-1,50,malġukipiaq qulit,malġukipiaq qulit,[],,['chan2019'],,False,False,,1
+nort2943-1-50-2,,nort2943-1,50,malʁukipiaq qulit,malʁukipiaq qulit,[],,['chan2019'],,False,False,,1
+nort2943-1-60-1,,nort2943-1,60,piŋasukipiaq,piŋasukipiaq,[],,['chan2019'],,False,False,,1
+nort2943-1-70-1,,nort2943-1,70,piŋasukipiaq qulit,piŋasukipiaq qulit,[],,['chan2019'],,False,False,,1
+nort2943-1-80-1,,nort2943-1,80,sisamakipiaq,sisamakipiaq,[],,['chan2019'],,False,False,,1
+nort2943-1-90-1,,nort2943-1,90,sisamakipiaq qulit,sisamakipiaq qulit,[],,['chan2019'],,False,False,,1
+nort2943-1-100-1,,nort2943-1,100,qavluun,qavluun,[],,['chan2019'],,False,False,,1
+nort2943-1-100-2,,nort2943-1,100,qavluːn,qavluːn,[],,['chan2019'],,False,False,,1
+nort2943-1-100-3,,nort2943-1,100,OR tallimakipiaq,OR tallimakipiaq,[],,['chan2019'],,False,True,,1
+nort2943-1-200-1,,nort2943-1,200,qulikipiaq,qulikipiaq,[],,['chan2019'],,False,False,,1
+nort2943-1-1000-1,,nort2943-1,1000,.....,.....,[],,['chan2019'],,False,True,,1
+nort2943-1-2000-1,,nort2943-1,2000,tallimaagliaq,tallimaagliaq,[],,['chan2019'],,False,False,,1
+nort2943-1-2000-2,,nort2943-1,2000,tallimaːɣliaq,tallimaːɣliaq,[],,['chan2019'],,False,False,,1

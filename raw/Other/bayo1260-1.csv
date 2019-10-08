@@ -1,24 +1,24 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bayo1260-1-1-1,,bayo1260-1,1,tjã,tjã,[],,[],,False,False,,1
-bayo1260-1-2-1,,bayo1260-1,2,'tjãmuɾuh,'tjãmuɾuh,[],,[],,False,False,,1
-bayo1260-1-3-1,,bayo1260-1,3,bu'ɾumuɾuh,bu'ɾumuɾuh,[],,[],,False,False,,1
-bayo1260-1-4-1,,bayo1260-1,4,'temuɾuh,'temuɾuh,[],,[],,False,False,,1
-bayo1260-1-5-1,,bayo1260-1,5,'tauɡɔh,'tauɡɔh,[],,[],,False,False,,1
-bayo1260-1-6-1,,bayo1260-1,6,'tõɡɔh,'tõɡɔh,[],,[],,False,False,,1
-bayo1260-1-7-1,,bayo1260-1,7,'bɔɡɔh,'bɔɡɔh,[],,[],,False,False,,1
-bayo1260-1-8-1,,bayo1260-1,8,bunuɡɔh,bunuɡɔh,[],,[],,False,False,,1
-bayo1260-1-9-1,,bayo1260-1,9,'tuɡɔh,'tuɡɔh,[],,[],,False,False,,1
-bayo1260-1-10-1,,bayo1260-1,10,'mɨɡɔh or 'mu͡ɨɡɔh,'mɨɡɔh or 'mu͡ɨɡɔh,[],,[],,False,True,,1
-bayo1260-1-11-1,,bayo1260-1,11,kubu'kahɡɔh,kubu'kahɡɔh,[],,[],,False,False,,1
-bayo1260-1-12-1,,bayo1260-1,12,du'ɡɔɡɔh,du'ɡɔɡɔh,[],,[],,False,False,,1
-bayo1260-1-13-1,,bayo1260-1,13,kəɾi'buɡɔh,kəɾi'buɡɔh,[],,[],,False,False,,1
-bayo1260-1-14-1,,bayo1260-1,14,mə'sasɔ',mə'sasɔ',[],,[],,False,False,,1
-bayo1260-1-15-1,,bayo1260-1,15,mə'sa'tu,mə'sa'tu,[],,[],,False,False,,1
-bayo1260-1-16-1,,bayo1260-1,16,mə'sa'bunu,mə'sa'bunu,[],,[],,False,False,,1
-bayo1260-1-17-1,,bayo1260-1,17,mə'sa'bunu'bwa,mə'sa'bunu'bwa,[],(ɡɔh),[],,False,False,,1
-bayo1260-1-18-1,,bayo1260-1,18,mə'sa(so) 'tə̃,mə'sa(so) 'tə̃,[],(ɡɔh),[],,False,False,,1
-bayo1260-1-19-1,,bayo1260-1,19,mə'sa(so) 'tau,mə'sa(so) 'tau,[],(ɡɔh),[],,False,False,,1
-bayo1260-1-20-1,,bayo1260-1,20,mə'sa(so) 'temuɾu,mə'sa(so) 'temuɾu,[],(ɡɔh),[],,False,False,,1
-bayo1260-1-21-1,,bayo1260-1,21,mə'sa(so) bu'ɾumuɾu,mə'sa(so) bu'ɾumuɾu,[],(ɡɔh),[],,False,False,,1
-bayo1260-1-22-1,,bayo1260-1,22,mə'sa(so) tjãmuɾu,mə'sa(so) tjãmuɾu,[],(ɡɔh),[],,False,False,,1
-bayo1260-1-23-1,,bayo1260-1,23,tjã taɾa'busaɾe,tjã taɾa'busaɾe,[],,[],,False,False,,1
+bayo1260-1-1-1,,bayo1260-1,1,tjã,tjã,[],,['chan2019'],,False,False,,1
+bayo1260-1-2-1,,bayo1260-1,2,'tjãmuɾuh,'tjãmuɾuh,[],,['chan2019'],,False,False,,1
+bayo1260-1-3-1,,bayo1260-1,3,bu'ɾumuɾuh,bu'ɾumuɾuh,[],,['chan2019'],,False,False,,1
+bayo1260-1-4-1,,bayo1260-1,4,'temuɾuh,'temuɾuh,[],,['chan2019'],,False,False,,1
+bayo1260-1-5-1,,bayo1260-1,5,'tauɡɔh,'tauɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-6-1,,bayo1260-1,6,'tõɡɔh,'tõɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-7-1,,bayo1260-1,7,'bɔɡɔh,'bɔɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-8-1,,bayo1260-1,8,bunuɡɔh,bunuɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-9-1,,bayo1260-1,9,'tuɡɔh,'tuɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-10-1,,bayo1260-1,10,'mɨɡɔh or 'mu͡ɨɡɔh,'mɨɡɔh or 'mu͡ɨɡɔh,[],,['chan2019'],,False,True,,1
+bayo1260-1-11-1,,bayo1260-1,11,kubu'kahɡɔh,kubu'kahɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-12-1,,bayo1260-1,12,du'ɡɔɡɔh,du'ɡɔɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-13-1,,bayo1260-1,13,kəɾi'buɡɔh,kəɾi'buɡɔh,[],,['chan2019'],,False,False,,1
+bayo1260-1-14-1,,bayo1260-1,14,mə'sasɔ',mə'sasɔ',[],,['chan2019'],,False,False,,1
+bayo1260-1-15-1,,bayo1260-1,15,mə'sa'tu,mə'sa'tu,[],,['chan2019'],,False,False,,1
+bayo1260-1-16-1,,bayo1260-1,16,mə'sa'bunu,mə'sa'bunu,[],,['chan2019'],,False,False,,1
+bayo1260-1-17-1,,bayo1260-1,17,mə'sa'bunu'bwa,mə'sa'bunu'bwa,[],(ɡɔh),['chan2019'],,False,False,,1
+bayo1260-1-18-1,,bayo1260-1,18,mə'sa(so) 'tə̃,mə'sa(so) 'tə̃,[],(ɡɔh),['chan2019'],,False,False,,1
+bayo1260-1-19-1,,bayo1260-1,19,mə'sa(so) 'tau,mə'sa(so) 'tau,[],(ɡɔh),['chan2019'],,False,False,,1
+bayo1260-1-20-1,,bayo1260-1,20,mə'sa(so) 'temuɾu,mə'sa(so) 'temuɾu,[],(ɡɔh),['chan2019'],,False,False,,1
+bayo1260-1-21-1,,bayo1260-1,21,mə'sa(so) bu'ɾumuɾu,mə'sa(so) bu'ɾumuɾu,[],(ɡɔh),['chan2019'],,False,False,,1
+bayo1260-1-22-1,,bayo1260-1,22,mə'sa(so) tjãmuɾu,mə'sa(so) tjãmuɾu,[],(ɡɔh),['chan2019'],,False,False,,1
+bayo1260-1-23-1,,bayo1260-1,23,tjã taɾa'busaɾe,tjã taɾa'busaɾe,[],,['chan2019'],,False,False,,1

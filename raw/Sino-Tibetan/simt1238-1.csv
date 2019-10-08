@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-simt1238-1-1-1,,simt1238-1,1,khat,khat,[],,[],,False,False,,1
-simt1238-1-2-1,,simt1238-1,2,nih,nih,[],,[],,False,False,,1
-simt1238-1-3-1,,simt1238-1,3,thum,thum,[],,[],,False,False,,1
-simt1238-1-4-1,,simt1238-1,4,li,li,[],,[],,False,False,,1
-simt1238-1-5-1,,simt1238-1,5,nga,nga,[],,[],,False,False,,1
-simt1238-1-6-1,,simt1238-1,6,ɡuup,ɡuup,[],,[],,False,False,,1
-simt1238-1-7-1,,simt1238-1,7,saɡih,saɡih,[],,[],,False,False,,1
-simt1238-1-8-1,,simt1238-1,8,ɡiat,ɡiat,[],,[],,False,False,,1
-simt1238-1-9-1,,simt1238-1,9,kuah,kuah,[],,[],,False,False,,1
-simt1238-1-10-1,,simt1238-1,10,sawm,sawm,[],,[],,False,False,,1
-simt1238-1-11-1,,simt1238-1,11,sawm le khat,sawm le khat,[],,[],,False,False,,1
-simt1238-1-12-1,,simt1238-1,12,sawm le nih,sawm le nih,[],,[],,False,False,,1
-simt1238-1-13-1,,simt1238-1,13,sawm le thum,sawm le thum,[],,[],,False,False,,1
-simt1238-1-14-1,,simt1238-1,14,sawm le li,sawm le li,[],,[],,False,False,,1
-simt1238-1-15-1,,simt1238-1,15,sawm le nga,sawm le nga,[],,[],,False,False,,1
-simt1238-1-16-1,,simt1238-1,16,sawm le ɡuup,sawm le ɡuup,[],,[],,False,False,,1
-simt1238-1-17-1,,simt1238-1,17,sawm le sagih,sawm le sagih,[],,[],,False,False,,1
-simt1238-1-18-1,,simt1238-1,18,sawm le ɡiat,sawm le ɡiat,[],,[],,False,False,,1
-simt1238-1-19-1,,simt1238-1,19,sawm le kuah,sawm le kuah,[],,[],,False,False,,1
-simt1238-1-20-1,,simt1238-1,20,sawm nih,sawm nih,[],,[],,False,False,,1
-simt1238-1-21-1,,simt1238-1,21,swam nih le khat,swam nih le khat,[],,[],,False,False,,1
-simt1238-1-22-1,,simt1238-1,22,swam nih le nih,swam nih le nih,[],,[],,False,False,,1
-simt1238-1-23-1,,simt1238-1,23,swam nih le thum,swam nih le thum,[],,[],,False,False,,1
-simt1238-1-24-1,,simt1238-1,24,swam nih le li,swam nih le li,[],,[],,False,False,,1
-simt1238-1-25-1,,simt1238-1,25,swam nih le nga,swam nih le nga,[],,[],,False,False,,1
-simt1238-1-26-1,,simt1238-1,26,swam nih le ɡuup,swam nih le ɡuup,[],,[],,False,False,,1
-simt1238-1-27-1,,simt1238-1,27,swam nih le sagih,swam nih le sagih,[],,[],,False,False,,1
-simt1238-1-28-1,,simt1238-1,28,swam nih le ɡiat,swam nih le ɡiat,[],,[],,False,False,,1
-simt1238-1-29-1,,simt1238-1,29,swam nih le kuah,swam nih le kuah,[],,[],,False,False,,1
-simt1238-1-30-1,,simt1238-1,30,sawm thum,sawm thum,[],,[],,False,False,,1
-simt1238-1-40-1,,simt1238-1,40,sawm li,sawm li,[],,[],,False,False,,1
-simt1238-1-50-1,,simt1238-1,50,sawm nga,sawm nga,[],,[],,False,False,,1
-simt1238-1-60-1,,simt1238-1,60,sawm guup,sawm guup,[],,[],,False,False,,1
-simt1238-1-70-1,,simt1238-1,70,sawm sagih,sawm sagih,[],,[],,False,False,,1
-simt1238-1-80-1,,simt1238-1,80,sawm giah,sawm giah,[],,[],,False,False,,1
-simt1238-1-90-1,,simt1238-1,90,sawm kuah,sawm kuah,[],,[],,False,False,,1
-simt1238-1-100-1,,simt1238-1,100,za khat,za khat,[],,[],,False,False,,1
-simt1238-1-200-1,,simt1238-1,200,za nih,za nih,[],,[],,False,False,,1
-simt1238-1-1000-1,,simt1238-1,1000,sang khat,sang khat,[],,[],,False,False,,1
-simt1238-1-2000-1,,simt1238-1,2000,sang nih,sang nih,[],,[],,False,False,,1
+simt1238-1-1-1,,simt1238-1,1,khat,khat,[],,['chan2019'],,False,False,,1
+simt1238-1-2-1,,simt1238-1,2,nih,nih,[],,['chan2019'],,False,False,,1
+simt1238-1-3-1,,simt1238-1,3,thum,thum,[],,['chan2019'],,False,False,,1
+simt1238-1-4-1,,simt1238-1,4,li,li,[],,['chan2019'],,False,False,,1
+simt1238-1-5-1,,simt1238-1,5,nga,nga,[],,['chan2019'],,False,False,,1
+simt1238-1-6-1,,simt1238-1,6,ɡuup,ɡuup,[],,['chan2019'],,False,False,,1
+simt1238-1-7-1,,simt1238-1,7,saɡih,saɡih,[],,['chan2019'],,False,False,,1
+simt1238-1-8-1,,simt1238-1,8,ɡiat,ɡiat,[],,['chan2019'],,False,False,,1
+simt1238-1-9-1,,simt1238-1,9,kuah,kuah,[],,['chan2019'],,False,False,,1
+simt1238-1-10-1,,simt1238-1,10,sawm,sawm,[],,['chan2019'],,False,False,,1
+simt1238-1-11-1,,simt1238-1,11,sawm le khat,sawm le khat,[],,['chan2019'],,False,False,,1
+simt1238-1-12-1,,simt1238-1,12,sawm le nih,sawm le nih,[],,['chan2019'],,False,False,,1
+simt1238-1-13-1,,simt1238-1,13,sawm le thum,sawm le thum,[],,['chan2019'],,False,False,,1
+simt1238-1-14-1,,simt1238-1,14,sawm le li,sawm le li,[],,['chan2019'],,False,False,,1
+simt1238-1-15-1,,simt1238-1,15,sawm le nga,sawm le nga,[],,['chan2019'],,False,False,,1
+simt1238-1-16-1,,simt1238-1,16,sawm le ɡuup,sawm le ɡuup,[],,['chan2019'],,False,False,,1
+simt1238-1-17-1,,simt1238-1,17,sawm le sagih,sawm le sagih,[],,['chan2019'],,False,False,,1
+simt1238-1-18-1,,simt1238-1,18,sawm le ɡiat,sawm le ɡiat,[],,['chan2019'],,False,False,,1
+simt1238-1-19-1,,simt1238-1,19,sawm le kuah,sawm le kuah,[],,['chan2019'],,False,False,,1
+simt1238-1-20-1,,simt1238-1,20,sawm nih,sawm nih,[],,['chan2019'],,False,False,,1
+simt1238-1-21-1,,simt1238-1,21,swam nih le khat,swam nih le khat,[],,['chan2019'],,False,False,,1
+simt1238-1-22-1,,simt1238-1,22,swam nih le nih,swam nih le nih,[],,['chan2019'],,False,False,,1
+simt1238-1-23-1,,simt1238-1,23,swam nih le thum,swam nih le thum,[],,['chan2019'],,False,False,,1
+simt1238-1-24-1,,simt1238-1,24,swam nih le li,swam nih le li,[],,['chan2019'],,False,False,,1
+simt1238-1-25-1,,simt1238-1,25,swam nih le nga,swam nih le nga,[],,['chan2019'],,False,False,,1
+simt1238-1-26-1,,simt1238-1,26,swam nih le ɡuup,swam nih le ɡuup,[],,['chan2019'],,False,False,,1
+simt1238-1-27-1,,simt1238-1,27,swam nih le sagih,swam nih le sagih,[],,['chan2019'],,False,False,,1
+simt1238-1-28-1,,simt1238-1,28,swam nih le ɡiat,swam nih le ɡiat,[],,['chan2019'],,False,False,,1
+simt1238-1-29-1,,simt1238-1,29,swam nih le kuah,swam nih le kuah,[],,['chan2019'],,False,False,,1
+simt1238-1-30-1,,simt1238-1,30,sawm thum,sawm thum,[],,['chan2019'],,False,False,,1
+simt1238-1-40-1,,simt1238-1,40,sawm li,sawm li,[],,['chan2019'],,False,False,,1
+simt1238-1-50-1,,simt1238-1,50,sawm nga,sawm nga,[],,['chan2019'],,False,False,,1
+simt1238-1-60-1,,simt1238-1,60,sawm guup,sawm guup,[],,['chan2019'],,False,False,,1
+simt1238-1-70-1,,simt1238-1,70,sawm sagih,sawm sagih,[],,['chan2019'],,False,False,,1
+simt1238-1-80-1,,simt1238-1,80,sawm giah,sawm giah,[],,['chan2019'],,False,False,,1
+simt1238-1-90-1,,simt1238-1,90,sawm kuah,sawm kuah,[],,['chan2019'],,False,False,,1
+simt1238-1-100-1,,simt1238-1,100,za khat,za khat,[],,['chan2019'],,False,False,,1
+simt1238-1-200-1,,simt1238-1,200,za nih,za nih,[],,['chan2019'],,False,False,,1
+simt1238-1-1000-1,,simt1238-1,1000,sang khat,sang khat,[],,['chan2019'],,False,False,,1
+simt1238-1-2000-1,,simt1238-1,2000,sang nih,sang nih,[],,['chan2019'],,False,False,,1

@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-jaqa1244-1-1-1,,jaqa1244-1,1,maya,maya,[],( also used meaning 'other'),[],,False,False,,1
-jaqa1244-1-2-1,,jaqa1244-1,2,paha,paha,[],,[],,False,False,,1
-jaqa1244-1-2-2,,jaqa1244-1,2,pani,pani,[],,[],,False,False,,1
-jaqa1244-1-3-1,,jaqa1244-1,3,kimsa,kimsa,[],,[],,False,False,,1
-jaqa1244-1-4-1,,jaqa1244-1,4,puši,puši,[],,[],,False,False,,1
-jaqa1244-1-5-1,,jaqa1244-1,5,pičqa,pičqa,[],,[],,False,False,,1
-jaqa1244-1-6-1,,jaqa1244-1,6,suhta,suhta,[],,[],,False,False,,1
-jaqa1244-1-7-1,,jaqa1244-1,7,qančisi,qančisi,[],,[],,False,False,,1
-jaqa1244-1-8-1,,jaqa1244-1,8,pusaqa,pusaqa,[],,[],,False,False,,1
-jaqa1244-1-9-1,,jaqa1244-1,9,isquña,isquña,[],,[],,False,False,,1
-jaqa1244-1-10-1,,jaqa1244-1,10,čuŋka,čuŋka,[],,[],,False,False,,1
-jaqa1244-1-11-1,,jaqa1244-1,11,čuŋka maya ni,čuŋka maya ni,[],,[],,False,False,,1
-jaqa1244-1-12-1,,jaqa1244-1,12,čuŋka paha ni,čuŋka paha ni,[],,[],,False,False,,1
-jaqa1244-1-13-1,,jaqa1244-1,13,čuŋka kimsa ni,čuŋka kimsa ni,[],,[],,False,False,,1
-jaqa1244-1-14-1,,jaqa1244-1,14,čuŋka puši ni,čuŋka puši ni,[],,[],,False,False,,1
-jaqa1244-1-15-1,,jaqa1244-1,15,čuŋka pičqa ni,čuŋka pičqa ni,[],,[],,False,False,,1
-jaqa1244-1-16-1,,jaqa1244-1,16,čuŋka suhta ni,čuŋka suhta ni,[],,[],,False,False,,1
-jaqa1244-1-17-1,,jaqa1244-1,17,čuŋka qančisi ni,čuŋka qančisi ni,[],,[],,False,False,,1
-jaqa1244-1-18-1,,jaqa1244-1,18,čuŋka pusaqa ni,čuŋka pusaqa ni,[],,[],,False,False,,1
-jaqa1244-1-19-1,,jaqa1244-1,19,čuŋka isquña ni,čuŋka isquña ni,[],,[],,False,False,,1
-jaqa1244-1-20-1,,jaqa1244-1,20,pah čuŋka,pah čuŋka,[],,[],,False,False,,1
-jaqa1244-1-21-1,,jaqa1244-1,21,pah čuŋka maya ni,pah čuŋka maya ni,[],,[],,False,False,,1
-jaqa1244-1-22-1,,jaqa1244-1,22,pah čuŋka paha ni,pah čuŋka paha ni,[],,[],,False,False,,1
-jaqa1244-1-23-1,,jaqa1244-1,23,pah čuŋka kimsa ni,pah čuŋka kimsa ni,[],,[],,False,False,,1
-jaqa1244-1-24-1,,jaqa1244-1,24,pah čuŋka puši ni,pah čuŋka puši ni,[],,[],,False,False,,1
-jaqa1244-1-25-1,,jaqa1244-1,25,pah čuŋka pičqa ni,pah čuŋka pičqa ni,[],,[],,False,False,,1
-jaqa1244-1-26-1,,jaqa1244-1,26,pah čuŋka suhta ni,pah čuŋka suhta ni,[],,[],,False,False,,1
-jaqa1244-1-27-1,,jaqa1244-1,27,pah čuŋka qančisi ni,pah čuŋka qančisi ni,[],,[],,False,False,,1
-jaqa1244-1-28-1,,jaqa1244-1,28,pah čuŋka pusaqa ni,pah čuŋka pusaqa ni,[],,[],,False,False,,1
-jaqa1244-1-29-1,,jaqa1244-1,29,pah čuŋka isquña ni,pah čuŋka isquña ni,[],,[],,False,False,,1
-jaqa1244-1-30-1,,jaqa1244-1,30,kims čuŋka,kims čuŋka,[],,[],,False,False,,1
-jaqa1244-1-40-1,,jaqa1244-1,40,puš čuŋka,puš čuŋka,[],,[],,False,False,,1
-jaqa1244-1-50-1,,jaqa1244-1,50,pičq čuŋka,pičq čuŋka,[],,[],,False,False,,1
-jaqa1244-1-60-1,,jaqa1244-1,60,suhta čuŋka,suhta čuŋka,[],,[],,False,False,,1
-jaqa1244-1-70-1,,jaqa1244-1,70,qančisi čuŋka,qančisi čuŋka,[],,[],,False,False,,1
-jaqa1244-1-80-1,,jaqa1244-1,80,pusaqa čuŋka,pusaqa čuŋka,[],,[],,False,False,,1
-jaqa1244-1-90-1,,jaqa1244-1,90,isquña čuŋka,isquña čuŋka,[],,[],,False,False,,1
-jaqa1244-1-100-1,,jaqa1244-1,100,pačak,pačak,[],,[],,False,False,,1
-jaqa1244-1-200-1,,jaqa1244-1,200,pah pačak,pah pačak,[],,[],,False,False,,1
-jaqa1244-1-1000-1,,jaqa1244-1,1000,waraŋqa,waraŋqa,[],,[],,False,False,,1
-jaqa1244-1-2000-1,,jaqa1244-1,2000,pah waraŋqa,pah waraŋqa,[],,[],,False,False,,1
+jaqa1244-1-1-1,,jaqa1244-1,1,maya,maya,[],( also used meaning 'other'),['chan2019'],,False,False,,1
+jaqa1244-1-2-1,,jaqa1244-1,2,paha,paha,[],,['chan2019'],,False,False,,1
+jaqa1244-1-2-2,,jaqa1244-1,2,pani,pani,[],,['chan2019'],,False,False,,1
+jaqa1244-1-3-1,,jaqa1244-1,3,kimsa,kimsa,[],,['chan2019'],,False,False,,1
+jaqa1244-1-4-1,,jaqa1244-1,4,puši,puši,[],,['chan2019'],,False,False,,1
+jaqa1244-1-5-1,,jaqa1244-1,5,pičqa,pičqa,[],,['chan2019'],,False,False,,1
+jaqa1244-1-6-1,,jaqa1244-1,6,suhta,suhta,[],,['chan2019'],,False,False,,1
+jaqa1244-1-7-1,,jaqa1244-1,7,qančisi,qančisi,[],,['chan2019'],,False,False,,1
+jaqa1244-1-8-1,,jaqa1244-1,8,pusaqa,pusaqa,[],,['chan2019'],,False,False,,1
+jaqa1244-1-9-1,,jaqa1244-1,9,isquña,isquña,[],,['chan2019'],,False,False,,1
+jaqa1244-1-10-1,,jaqa1244-1,10,čuŋka,čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-11-1,,jaqa1244-1,11,čuŋka maya ni,čuŋka maya ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-12-1,,jaqa1244-1,12,čuŋka paha ni,čuŋka paha ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-13-1,,jaqa1244-1,13,čuŋka kimsa ni,čuŋka kimsa ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-14-1,,jaqa1244-1,14,čuŋka puši ni,čuŋka puši ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-15-1,,jaqa1244-1,15,čuŋka pičqa ni,čuŋka pičqa ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-16-1,,jaqa1244-1,16,čuŋka suhta ni,čuŋka suhta ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-17-1,,jaqa1244-1,17,čuŋka qančisi ni,čuŋka qančisi ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-18-1,,jaqa1244-1,18,čuŋka pusaqa ni,čuŋka pusaqa ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-19-1,,jaqa1244-1,19,čuŋka isquña ni,čuŋka isquña ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-20-1,,jaqa1244-1,20,pah čuŋka,pah čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-21-1,,jaqa1244-1,21,pah čuŋka maya ni,pah čuŋka maya ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-22-1,,jaqa1244-1,22,pah čuŋka paha ni,pah čuŋka paha ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-23-1,,jaqa1244-1,23,pah čuŋka kimsa ni,pah čuŋka kimsa ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-24-1,,jaqa1244-1,24,pah čuŋka puši ni,pah čuŋka puši ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-25-1,,jaqa1244-1,25,pah čuŋka pičqa ni,pah čuŋka pičqa ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-26-1,,jaqa1244-1,26,pah čuŋka suhta ni,pah čuŋka suhta ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-27-1,,jaqa1244-1,27,pah čuŋka qančisi ni,pah čuŋka qančisi ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-28-1,,jaqa1244-1,28,pah čuŋka pusaqa ni,pah čuŋka pusaqa ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-29-1,,jaqa1244-1,29,pah čuŋka isquña ni,pah čuŋka isquña ni,[],,['chan2019'],,False,False,,1
+jaqa1244-1-30-1,,jaqa1244-1,30,kims čuŋka,kims čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-40-1,,jaqa1244-1,40,puš čuŋka,puš čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-50-1,,jaqa1244-1,50,pičq čuŋka,pičq čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-60-1,,jaqa1244-1,60,suhta čuŋka,suhta čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-70-1,,jaqa1244-1,70,qančisi čuŋka,qančisi čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-80-1,,jaqa1244-1,80,pusaqa čuŋka,pusaqa čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-90-1,,jaqa1244-1,90,isquña čuŋka,isquña čuŋka,[],,['chan2019'],,False,False,,1
+jaqa1244-1-100-1,,jaqa1244-1,100,pačak,pačak,[],,['chan2019'],,False,False,,1
+jaqa1244-1-200-1,,jaqa1244-1,200,pah pačak,pah pačak,[],,['chan2019'],,False,False,,1
+jaqa1244-1-1000-1,,jaqa1244-1,1000,waraŋqa,waraŋqa,[],,['chan2019'],,False,False,,1
+jaqa1244-1-2000-1,,jaqa1244-1,2000,pah waraŋqa,pah waraŋqa,[],,['chan2019'],,False,False,,1

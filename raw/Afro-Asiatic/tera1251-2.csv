@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tera1251-2-1-1,,tera1251-2,1,da,da,[],,[],,False,False,,2
-tera1251-2-2-1,,tera1251-2,2,rab,rab,[],,[],,False,False,,2
-tera1251-2-3-1,,tera1251-2,3,kunuk,kunuk,[],,[],,False,False,,2
-tera1251-2-4-1,,tera1251-2,4,fad,fad,[],,[],,False,False,,2
-tera1251-2-5-1,,tera1251-2,5,ɠurmun,ɠurmun,[],,[],,False,False,,2
-tera1251-2-6-1,,tera1251-2,6,njoŋ,njoŋ,[],,[],,False,False,,2
-tera1251-2-7-1,,tera1251-2,7,mut,mut,[],,[],,False,False,,2
-tera1251-2-8-1,,tera1251-2,8,miyasi,miyasi,[],,[],,False,False,,2
-tera1251-2-9-1,,tera1251-2,9,milam,milam,[],,[],,False,False,,2
-tera1251-2-10-1,,tera1251-2,10,ɡwan,ɡwan,[],,[],,False,False,,2
-tera1251-2-11-1,,tera1251-2,11,ɡwan kim da,ɡwan kim da,[],,[],,False,False,,2
-tera1251-2-12-1,,tera1251-2,12,ɡwan kim rab,ɡwan kim rab,[],,[],,False,False,,2
-tera1251-2-13-1,,tera1251-2,13,ɡwan kim kunuk,ɡwan kim kunuk,[],,[],,False,False,,2
-tera1251-2-14-1,,tera1251-2,14,ɡwan kim fad,ɡwan kim fad,[],,[],,False,False,,2
-tera1251-2-15-1,,tera1251-2,15,ɡwan kim ɠurmun,ɡwan kim ɠurmun,[],,[],,False,False,,2
-tera1251-2-16-1,,tera1251-2,16,ɡwan kim njoŋ,ɡwan kim njoŋ,[],,[],,False,False,,2
-tera1251-2-17-1,,tera1251-2,17,ɡwan kim mut,ɡwan kim mut,[],,[],,False,False,,2
-tera1251-2-18-1,,tera1251-2,18,ɡwan kim miyasi,ɡwan kim miyasi,[],,[],,False,False,,2
-tera1251-2-19-1,,tera1251-2,19,ɡwan kim milam,ɡwan kim milam,[],,[],,False,False,,2
-tera1251-2-20-1,,tera1251-2,20,ɠiram,ɠiram,[],,[],,False,False,,2
-tera1251-2-21-1,,tera1251-2,21,ɠiram kim da,ɠiram kim da,[],,[],,False,False,,2
-tera1251-2-22-1,,tera1251-2,22,ɠiram kim rab,ɠiram kim rab,[],,[],,False,False,,2
-tera1251-2-23-1,,tera1251-2,23,ɠiram kim kunuk,ɠiram kim kunuk,[],,[],,False,False,,2
-tera1251-2-24-1,,tera1251-2,24,ɠiram kim fad,ɠiram kim fad,[],,[],,False,False,,2
-tera1251-2-25-1,,tera1251-2,25,ɠiram kim ɠurmun,ɠiram kim ɠurmun,[],,[],,False,False,,2
-tera1251-2-26-1,,tera1251-2,26,ɠiram kim njoŋ,ɠiram kim njoŋ,[],,[],,False,False,,2
-tera1251-2-27-1,,tera1251-2,27,ɠiram kim mut,ɠiram kim mut,[],,[],,False,False,,2
-tera1251-2-28-1,,tera1251-2,28,ɠiram kim miyasi,ɠiram kim miyasi,[],,[],,False,False,,2
-tera1251-2-29-1,,tera1251-2,29,ɠiram kim milam,ɠiram kim milam,[],,[],,False,False,,2
-tera1251-2-30-1,,tera1251-2,30,yin kunuk,yin kunuk,[],,[],,False,False,,2
-tera1251-2-40-1,,tera1251-2,40,yin fad,yin fad,[],,[],,False,False,,2
-tera1251-2-50-1,,tera1251-2,50,yin ɠurmun,yin ɠurmun,[],,[],,False,False,,2
-tera1251-2-60-1,,tera1251-2,60,yin njoŋ,yin njoŋ,[],,[],,False,False,,2
-tera1251-2-70-1,,tera1251-2,70,yin mut,yin mut,[],,[],,False,False,,2
-tera1251-2-80-1,,tera1251-2,80,yin miyasi,yin miyasi,[],,[],,False,False,,2
-tera1251-2-90-1,,tera1251-2,90,yin milam,yin milam,[],,[],,False,False,,2
-tera1251-2-100-1,,tera1251-2,100,won da,won da,[],,[],,False,False,,2
-tera1251-2-200-1,,tera1251-2,200,won rab,won rab,[],,[],,False,False,,2
-tera1251-2-1000-1,,tera1251-2,1000,dibu da,dibu da,[],( 'dibu'< Hausa ),[],,True,False,,2
-tera1251-2-2000-1,,tera1251-2,2000,dibu rab,dibu rab,[],,[],,False,False,,2
+tera1251-2-1-1,,tera1251-2,1,da,da,[],,['chan2019'],,False,False,,2
+tera1251-2-2-1,,tera1251-2,2,rab,rab,[],,['chan2019'],,False,False,,2
+tera1251-2-3-1,,tera1251-2,3,kunuk,kunuk,[],,['chan2019'],,False,False,,2
+tera1251-2-4-1,,tera1251-2,4,fad,fad,[],,['chan2019'],,False,False,,2
+tera1251-2-5-1,,tera1251-2,5,ɠurmun,ɠurmun,[],,['chan2019'],,False,False,,2
+tera1251-2-6-1,,tera1251-2,6,njoŋ,njoŋ,[],,['chan2019'],,False,False,,2
+tera1251-2-7-1,,tera1251-2,7,mut,mut,[],,['chan2019'],,False,False,,2
+tera1251-2-8-1,,tera1251-2,8,miyasi,miyasi,[],,['chan2019'],,False,False,,2
+tera1251-2-9-1,,tera1251-2,9,milam,milam,[],,['chan2019'],,False,False,,2
+tera1251-2-10-1,,tera1251-2,10,ɡwan,ɡwan,[],,['chan2019'],,False,False,,2
+tera1251-2-11-1,,tera1251-2,11,ɡwan kim da,ɡwan kim da,[],,['chan2019'],,False,False,,2
+tera1251-2-12-1,,tera1251-2,12,ɡwan kim rab,ɡwan kim rab,[],,['chan2019'],,False,False,,2
+tera1251-2-13-1,,tera1251-2,13,ɡwan kim kunuk,ɡwan kim kunuk,[],,['chan2019'],,False,False,,2
+tera1251-2-14-1,,tera1251-2,14,ɡwan kim fad,ɡwan kim fad,[],,['chan2019'],,False,False,,2
+tera1251-2-15-1,,tera1251-2,15,ɡwan kim ɠurmun,ɡwan kim ɠurmun,[],,['chan2019'],,False,False,,2
+tera1251-2-16-1,,tera1251-2,16,ɡwan kim njoŋ,ɡwan kim njoŋ,[],,['chan2019'],,False,False,,2
+tera1251-2-17-1,,tera1251-2,17,ɡwan kim mut,ɡwan kim mut,[],,['chan2019'],,False,False,,2
+tera1251-2-18-1,,tera1251-2,18,ɡwan kim miyasi,ɡwan kim miyasi,[],,['chan2019'],,False,False,,2
+tera1251-2-19-1,,tera1251-2,19,ɡwan kim milam,ɡwan kim milam,[],,['chan2019'],,False,False,,2
+tera1251-2-20-1,,tera1251-2,20,ɠiram,ɠiram,[],,['chan2019'],,False,False,,2
+tera1251-2-21-1,,tera1251-2,21,ɠiram kim da,ɠiram kim da,[],,['chan2019'],,False,False,,2
+tera1251-2-22-1,,tera1251-2,22,ɠiram kim rab,ɠiram kim rab,[],,['chan2019'],,False,False,,2
+tera1251-2-23-1,,tera1251-2,23,ɠiram kim kunuk,ɠiram kim kunuk,[],,['chan2019'],,False,False,,2
+tera1251-2-24-1,,tera1251-2,24,ɠiram kim fad,ɠiram kim fad,[],,['chan2019'],,False,False,,2
+tera1251-2-25-1,,tera1251-2,25,ɠiram kim ɠurmun,ɠiram kim ɠurmun,[],,['chan2019'],,False,False,,2
+tera1251-2-26-1,,tera1251-2,26,ɠiram kim njoŋ,ɠiram kim njoŋ,[],,['chan2019'],,False,False,,2
+tera1251-2-27-1,,tera1251-2,27,ɠiram kim mut,ɠiram kim mut,[],,['chan2019'],,False,False,,2
+tera1251-2-28-1,,tera1251-2,28,ɠiram kim miyasi,ɠiram kim miyasi,[],,['chan2019'],,False,False,,2
+tera1251-2-29-1,,tera1251-2,29,ɠiram kim milam,ɠiram kim milam,[],,['chan2019'],,False,False,,2
+tera1251-2-30-1,,tera1251-2,30,yin kunuk,yin kunuk,[],,['chan2019'],,False,False,,2
+tera1251-2-40-1,,tera1251-2,40,yin fad,yin fad,[],,['chan2019'],,False,False,,2
+tera1251-2-50-1,,tera1251-2,50,yin ɠurmun,yin ɠurmun,[],,['chan2019'],,False,False,,2
+tera1251-2-60-1,,tera1251-2,60,yin njoŋ,yin njoŋ,[],,['chan2019'],,False,False,,2
+tera1251-2-70-1,,tera1251-2,70,yin mut,yin mut,[],,['chan2019'],,False,False,,2
+tera1251-2-80-1,,tera1251-2,80,yin miyasi,yin miyasi,[],,['chan2019'],,False,False,,2
+tera1251-2-90-1,,tera1251-2,90,yin milam,yin milam,[],,['chan2019'],,False,False,,2
+tera1251-2-100-1,,tera1251-2,100,won da,won da,[],,['chan2019'],,False,False,,2
+tera1251-2-200-1,,tera1251-2,200,won rab,won rab,[],,['chan2019'],,False,False,,2
+tera1251-2-1000-1,,tera1251-2,1000,dibu da,dibu da,[],( 'dibu'< Hausa ),['chan2019'],,True,False,,2
+tera1251-2-2000-1,,tera1251-2,2000,dibu rab,dibu rab,[],,['chan2019'],,False,False,,2

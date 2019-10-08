@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-caml1239-4-1-1,,caml1239-4,1,i-,i-,[],,[],,False,False,,4
-caml1239-4-2-1,,caml1239-4,2,haka-,haka-,[],,[],,False,False,,4
-caml1239-4-3-1,,caml1239-4,3,sum-,sum-,[],,[],,False,False,,4
-caml1239-4-3-2,,caml1239-4,3,sim-,sim-,[],,[],,False,False,,4
-caml1239-4-4-1,,caml1239-4,4,car,car,[],< Nepali ,[],,True,False,,4
+caml1239-4-1-1,,caml1239-4,1,i-,i-,[],,['chan2019'],,False,False,,4
+caml1239-4-2-1,,caml1239-4,2,haka-,haka-,[],,['chan2019'],,False,False,,4
+caml1239-4-3-1,,caml1239-4,3,sum-,sum-,[],,['chan2019'],,False,False,,4
+caml1239-4-3-2,,caml1239-4,3,sim-,sim-,[],,['chan2019'],,False,False,,4
+caml1239-4-4-1,,caml1239-4,4,car,car,[],< Nepali ,['chan2019'],,True,False,,4

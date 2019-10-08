@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-boly1239-1-1-1,,boly1239-1,1,mə33,mə33,[],,[],,False,False,,1
-boly1239-1-2-1,,boly1239-1,2,bi55,bi55,[],,[],,False,False,,1
-boly1239-1-3-1,,boly1239-1,3,pa:i55,pa:i55,[],,[],,False,False,,1
-boly1239-1-4-1,,boly1239-1,4,pu:n53,pu:n53,[],,[],,False,False,,1
-boly1239-1-5-1,,boly1239-1,5,me31,me31,[],,[],,False,False,,1
-boly1239-1-6-1,,boly1239-1,6,piu53,piu53,[],,[],,False,False,,1
-boly1239-1-7-1,,boly1239-1,7,pai55,pai55,[],,[],,False,False,,1
-boly1239-1-8-1,,boly1239-1,8,sa:m53,sa:m53,[],,[],,False,False,,1
-boly1239-1-9-1,,boly1239-1,9,ɕən53,ɕən53,[],,[],,False,False,,1
-boly1239-1-10-1,,boly1239-1,10,maːn33,maːn33,[],,[],,False,False,,1
-boly1239-1-11-1,,boly1239-1,11,maːn33mə33,maːn33mə33,[],,[],,False,False,,1
-boly1239-1-12-1,,boly1239-1,12,maːn33bi55,maːn33bi55,[],,[],,False,False,,1
-boly1239-1-13-1,,boly1239-1,13,maːn33paːi55,maːn33paːi55,[],,[],,False,False,,1
-boly1239-1-14-1,,boly1239-1,14,maːn33pu:n53,maːn33pu:n53,[],,[],,False,False,,1
-boly1239-1-15-1,,boly1239-1,15,maːn33me31,maːn33me31,[],,[],,False,False,,1
-boly1239-1-16-1,,boly1239-1,16,maːn33piu53,maːn33piu53,[],,[],,False,False,,1
-boly1239-1-17-1,,boly1239-1,17,maːn33pai55,maːn33pai55,[],,[],,False,False,,1
-boly1239-1-18-1,,boly1239-1,18,maːn33sa:m53,maːn33sa:m53,[],,[],,False,False,,1
-boly1239-1-19-1,,boly1239-1,19,maːn33ɕən53,maːn33ɕən53,[],,[],,False,False,,1
-boly1239-1-20-1,,boly1239-1,20,bi55 maːn33,bi55 maːn33,[],,[],,False,False,,1
-boly1239-1-21-1,,boly1239-1,21,bi55 maːn33 mə33,bi55 maːn33 mə33,[],,[],,False,False,,1
-boly1239-1-22-1,,boly1239-1,22,bi55 maːn33 bi55,bi55 maːn33 bi55,[],,[],,False,False,,1
-boly1239-1-23-1,,boly1239-1,23,bi55 maːn33 pa:i55,bi55 maːn33 pa:i55,[],,[],,False,False,,1
-boly1239-1-24-1,,boly1239-1,24,bi55 maːn33 pu:n53,bi55 maːn33 pu:n53,[],,[],,False,False,,1
-boly1239-1-25-1,,boly1239-1,25,bi55 maːn33 me31,bi55 maːn33 me31,[],,[],,False,False,,1
-boly1239-1-26-1,,boly1239-1,26,bi55 maːn33 piu53,bi55 maːn33 piu53,[],,[],,False,False,,1
-boly1239-1-27-1,,boly1239-1,27,bi55 maːn33 pai55,bi55 maːn33 pai55,[],,[],,False,False,,1
-boly1239-1-28-1,,boly1239-1,28,bi55 maːn33 sa:m53,bi55 maːn33 sa:m53,[],,[],,False,False,,1
-boly1239-1-29-1,,boly1239-1,29,bi55 maːn33 ɕən53,bi55 maːn33 ɕən53,[],,[],,False,False,,1
-boly1239-1-30-1,,boly1239-1,30,pa:i55 maːn33,pa:i55 maːn33,[],,[],,False,False,,1
-boly1239-1-40-1,,boly1239-1,40,pu:n53 maːn33,pu:n53 maːn33,[],,[],,False,False,,1
-boly1239-1-50-1,,boly1239-1,50,me31 maːn33,me31 maːn33,[],,[],,False,False,,1
-boly1239-1-60-1,,boly1239-1,60,piu53 maːn33,piu53 maːn33,[],,[],,False,False,,1
-boly1239-1-70-1,,boly1239-1,70,pai55 maːn33,pai55 maːn33,[],,[],,False,False,,1
-boly1239-1-80-1,,boly1239-1,80,sa:m53 maːn33,sa:m53 maːn33,[],,[],,False,False,,1
-boly1239-1-90-1,,boly1239-1,90,ɕən53 maːn33,ɕən53 maːn33,[],,[],,False,False,,1
-boly1239-1-100-1,,boly1239-1,100,mə33 ʑɔ31,mə33 ʑɔ31,[],,[],,False,False,,1
-boly1239-1-200-1,,boly1239-1,200,bi31ʑɔ31,bi31ʑɔ31,[],,[],,False,False,,1
-boly1239-1-1000-1,,boly1239-1,1000,mə33toːŋ55,mə33toːŋ55,[],,[],,False,False,,1
-boly1239-1-2000-1,,boly1239-1,2000,bi31 toːŋ55,bi31 toːŋ55,[],,[],,False,False,,1
+boly1239-1-1-1,,boly1239-1,1,mə33,mə33,[],,['chan2019'],,False,False,,1
+boly1239-1-2-1,,boly1239-1,2,bi55,bi55,[],,['chan2019'],,False,False,,1
+boly1239-1-3-1,,boly1239-1,3,pa:i55,pa:i55,[],,['chan2019'],,False,False,,1
+boly1239-1-4-1,,boly1239-1,4,pu:n53,pu:n53,[],,['chan2019'],,False,False,,1
+boly1239-1-5-1,,boly1239-1,5,me31,me31,[],,['chan2019'],,False,False,,1
+boly1239-1-6-1,,boly1239-1,6,piu53,piu53,[],,['chan2019'],,False,False,,1
+boly1239-1-7-1,,boly1239-1,7,pai55,pai55,[],,['chan2019'],,False,False,,1
+boly1239-1-8-1,,boly1239-1,8,sa:m53,sa:m53,[],,['chan2019'],,False,False,,1
+boly1239-1-9-1,,boly1239-1,9,ɕən53,ɕən53,[],,['chan2019'],,False,False,,1
+boly1239-1-10-1,,boly1239-1,10,maːn33,maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-11-1,,boly1239-1,11,maːn33mə33,maːn33mə33,[],,['chan2019'],,False,False,,1
+boly1239-1-12-1,,boly1239-1,12,maːn33bi55,maːn33bi55,[],,['chan2019'],,False,False,,1
+boly1239-1-13-1,,boly1239-1,13,maːn33paːi55,maːn33paːi55,[],,['chan2019'],,False,False,,1
+boly1239-1-14-1,,boly1239-1,14,maːn33pu:n53,maːn33pu:n53,[],,['chan2019'],,False,False,,1
+boly1239-1-15-1,,boly1239-1,15,maːn33me31,maːn33me31,[],,['chan2019'],,False,False,,1
+boly1239-1-16-1,,boly1239-1,16,maːn33piu53,maːn33piu53,[],,['chan2019'],,False,False,,1
+boly1239-1-17-1,,boly1239-1,17,maːn33pai55,maːn33pai55,[],,['chan2019'],,False,False,,1
+boly1239-1-18-1,,boly1239-1,18,maːn33sa:m53,maːn33sa:m53,[],,['chan2019'],,False,False,,1
+boly1239-1-19-1,,boly1239-1,19,maːn33ɕən53,maːn33ɕən53,[],,['chan2019'],,False,False,,1
+boly1239-1-20-1,,boly1239-1,20,bi55 maːn33,bi55 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-21-1,,boly1239-1,21,bi55 maːn33 mə33,bi55 maːn33 mə33,[],,['chan2019'],,False,False,,1
+boly1239-1-22-1,,boly1239-1,22,bi55 maːn33 bi55,bi55 maːn33 bi55,[],,['chan2019'],,False,False,,1
+boly1239-1-23-1,,boly1239-1,23,bi55 maːn33 pa:i55,bi55 maːn33 pa:i55,[],,['chan2019'],,False,False,,1
+boly1239-1-24-1,,boly1239-1,24,bi55 maːn33 pu:n53,bi55 maːn33 pu:n53,[],,['chan2019'],,False,False,,1
+boly1239-1-25-1,,boly1239-1,25,bi55 maːn33 me31,bi55 maːn33 me31,[],,['chan2019'],,False,False,,1
+boly1239-1-26-1,,boly1239-1,26,bi55 maːn33 piu53,bi55 maːn33 piu53,[],,['chan2019'],,False,False,,1
+boly1239-1-27-1,,boly1239-1,27,bi55 maːn33 pai55,bi55 maːn33 pai55,[],,['chan2019'],,False,False,,1
+boly1239-1-28-1,,boly1239-1,28,bi55 maːn33 sa:m53,bi55 maːn33 sa:m53,[],,['chan2019'],,False,False,,1
+boly1239-1-29-1,,boly1239-1,29,bi55 maːn33 ɕən53,bi55 maːn33 ɕən53,[],,['chan2019'],,False,False,,1
+boly1239-1-30-1,,boly1239-1,30,pa:i55 maːn33,pa:i55 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-40-1,,boly1239-1,40,pu:n53 maːn33,pu:n53 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-50-1,,boly1239-1,50,me31 maːn33,me31 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-60-1,,boly1239-1,60,piu53 maːn33,piu53 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-70-1,,boly1239-1,70,pai55 maːn33,pai55 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-80-1,,boly1239-1,80,sa:m53 maːn33,sa:m53 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-90-1,,boly1239-1,90,ɕən53 maːn33,ɕən53 maːn33,[],,['chan2019'],,False,False,,1
+boly1239-1-100-1,,boly1239-1,100,mə33 ʑɔ31,mə33 ʑɔ31,[],,['chan2019'],,False,False,,1
+boly1239-1-200-1,,boly1239-1,200,bi31ʑɔ31,bi31ʑɔ31,[],,['chan2019'],,False,False,,1
+boly1239-1-1000-1,,boly1239-1,1000,mə33toːŋ55,mə33toːŋ55,[],,['chan2019'],,False,False,,1
+boly1239-1-2000-1,,boly1239-1,2000,bi31 toːŋ55,bi31 toːŋ55,[],,['chan2019'],,False,False,,1

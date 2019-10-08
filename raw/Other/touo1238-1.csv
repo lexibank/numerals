@@ -1,48 +1,48 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-touo1238-1-1-1,,touo1238-1,1,ela,ela,[],,[],,False,False,,1
-touo1238-1-1-2,,touo1238-1,1,pa,pa,[],,[],,False,False,,1
-touo1238-1-2-1,,touo1238-1,2,eⁿdo,eⁿdo,[],,[],,False,False,,1
-touo1238-1-3-1,,touo1238-1,3,iɰiva,iɰiva,[],,[],,False,False,,1
-touo1238-1-3-2,,touo1238-1,3,iɣiva,iɣiva,[],,[],,False,False,,1
-touo1238-1-4-1,,touo1238-1,4,aɰava,aɰava,[],,[],,False,False,,1
-touo1238-1-4-2,,touo1238-1,4,aɣava,aɣava,[],,[],,False,False,,1
-touo1238-1-5-1,,touo1238-1,5,ara,ara,[],,[],,False,False,,1
-touo1238-1-6-1,,touo1238-1,6,poɰoa,poɰoa,[],,[],,False,False,,1
-touo1238-1-6-2,,touo1238-1,6,poɣoa,poɣoa,[],,[],,False,False,,1
-touo1238-1-7-1,,touo1238-1,7,poɰoro,poɰoro,[],,[],,False,False,,1
-touo1238-1-7-2,,touo1238-1,7,poɣoro,poɣoro,[],,[],,False,False,,1
-touo1238-1-8-1,,touo1238-1,8,kui,kui,[],,[],,False,False,,1
-touo1238-1-9-1,,touo1238-1,9,kuava,kuava,[],,[],,False,False,,1
-touo1238-1-10-1,,touo1238-1,10,atale,atale,[],,[],,False,False,,1
-touo1238-1-11-1,,touo1238-1,11,panipiti,panipiti,[],,[],,False,False,,1
-touo1238-1-12-1,,touo1238-1,12,eⁿdonipiti,eⁿdonipiti,[],,[],,False,False,,1
-touo1238-1-13-1,,touo1238-1,13,iɰivanipiti,iɰivanipiti,[],,[],,False,False,,1
-touo1238-1-14-1,,touo1238-1,14,aɰavanipiti,aɰavanipiti,[],,[],,False,False,,1
-touo1238-1-15-1,,touo1238-1,15,aranipiti,aranipiti,[],,[],,False,False,,1
-touo1238-1-16-1,,touo1238-1,16,poɰoanipiti,poɰoanipiti,[],,[],,False,False,,1
-touo1238-1-17-1,,touo1238-1,17,poɰoronipiti,poɰoronipiti,[],,[],,False,False,,1
-touo1238-1-18-1,,touo1238-1,18,kuinipiti,kuinipiti,[],,[],,False,False,,1
-touo1238-1-19-1,,touo1238-1,19,kuavanipiti,kuavanipiti,[],,[],,False,False,,1
-touo1238-1-20-1,,touo1238-1,20,nebolo,nebolo,[],,[],,False,False,,1
-touo1238-1-21-1,,touo1238-1,21,nebolo pa,nebolo pa,[],,[],,False,False,,1
-touo1238-1-22-1,,touo1238-1,22,nebolo eⁿdo,nebolo eⁿdo,[],,[],,False,False,,1
-touo1238-1-23-1,,touo1238-1,23,nebolo iɰiva,nebolo iɰiva,[],,[],,False,False,,1
-touo1238-1-24-1,,touo1238-1,24,nebolo aɰava,nebolo aɰava,[],,[],,False,False,,1
-touo1238-1-25-1,,touo1238-1,25,nebolo ara,nebolo ara,[],,[],,False,False,,1
-touo1238-1-26-1,,touo1238-1,26,nebolo poɰoa,nebolo poɰoa,[],,[],,False,False,,1
-touo1238-1-27-1,,touo1238-1,27,nebolo poɰoro,nebolo poɰoro,[],,[],,False,False,,1
-touo1238-1-28-1,,touo1238-1,28,nebolo kui,nebolo kui,[],,[],,False,False,,1
-touo1238-1-29-1,,touo1238-1,29,nebolo kuava,nebolo kuava,[],,[],,False,False,,1
-touo1238-1-30-1,,touo1238-1,30,iɰivaleza,iɰivaleza,[],,[],,False,False,,1
-touo1238-1-40-1,,touo1238-1,40,aɰavaleza,aɰavaleza,[],,[],,False,False,,1
-touo1238-1-50-1,,touo1238-1,50,aratale,aratale,[],,[],,False,False,,1
-touo1238-1-60-1,,touo1238-1,60,poɰoatale,poɰoatale,[],,[],,False,False,,1
-touo1238-1-70-1,,touo1238-1,70,poɰoroatale,poɰoroatale,[],,[],,False,False,,1
-touo1238-1-80-1,,touo1238-1,80,kuiatale,kuiatale,[],,[],,False,False,,1
-touo1238-1-90-1,,touo1238-1,90,kuavatale,kuavatale,[],,[],,False,False,,1
-touo1238-1-100-1,,touo1238-1,100,pa kela,pa kela,[],,[],,False,False,,1
-touo1238-1-200-1,,touo1238-1,200,eⁿdo kela,eⁿdo kela,[],,[],,False,False,,1
-touo1238-1-1000-1,,touo1238-1,1000,pa toɰa,pa toɰa,[],,[],,False,False,,1
-touo1238-1-1000-2,,touo1238-1,1000,pa toɣa,pa toɣa,[],,[],,False,False,,1
-touo1238-1-2000-1,,touo1238-1,2000,eⁿdo toɰa,eⁿdo toɰa,[],,[],,False,False,,1
-touo1238-1-2000-2,,touo1238-1,2000,eⁿdo toɣa,eⁿdo toɣa,[],,[],,False,False,,1
+touo1238-1-1-1,,touo1238-1,1,ela,ela,[],,['chan2019'],,False,False,,1
+touo1238-1-1-2,,touo1238-1,1,pa,pa,[],,['chan2019'],,False,False,,1
+touo1238-1-2-1,,touo1238-1,2,eⁿdo,eⁿdo,[],,['chan2019'],,False,False,,1
+touo1238-1-3-1,,touo1238-1,3,iɰiva,iɰiva,[],,['chan2019'],,False,False,,1
+touo1238-1-3-2,,touo1238-1,3,iɣiva,iɣiva,[],,['chan2019'],,False,False,,1
+touo1238-1-4-1,,touo1238-1,4,aɰava,aɰava,[],,['chan2019'],,False,False,,1
+touo1238-1-4-2,,touo1238-1,4,aɣava,aɣava,[],,['chan2019'],,False,False,,1
+touo1238-1-5-1,,touo1238-1,5,ara,ara,[],,['chan2019'],,False,False,,1
+touo1238-1-6-1,,touo1238-1,6,poɰoa,poɰoa,[],,['chan2019'],,False,False,,1
+touo1238-1-6-2,,touo1238-1,6,poɣoa,poɣoa,[],,['chan2019'],,False,False,,1
+touo1238-1-7-1,,touo1238-1,7,poɰoro,poɰoro,[],,['chan2019'],,False,False,,1
+touo1238-1-7-2,,touo1238-1,7,poɣoro,poɣoro,[],,['chan2019'],,False,False,,1
+touo1238-1-8-1,,touo1238-1,8,kui,kui,[],,['chan2019'],,False,False,,1
+touo1238-1-9-1,,touo1238-1,9,kuava,kuava,[],,['chan2019'],,False,False,,1
+touo1238-1-10-1,,touo1238-1,10,atale,atale,[],,['chan2019'],,False,False,,1
+touo1238-1-11-1,,touo1238-1,11,panipiti,panipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-12-1,,touo1238-1,12,eⁿdonipiti,eⁿdonipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-13-1,,touo1238-1,13,iɰivanipiti,iɰivanipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-14-1,,touo1238-1,14,aɰavanipiti,aɰavanipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-15-1,,touo1238-1,15,aranipiti,aranipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-16-1,,touo1238-1,16,poɰoanipiti,poɰoanipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-17-1,,touo1238-1,17,poɰoronipiti,poɰoronipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-18-1,,touo1238-1,18,kuinipiti,kuinipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-19-1,,touo1238-1,19,kuavanipiti,kuavanipiti,[],,['chan2019'],,False,False,,1
+touo1238-1-20-1,,touo1238-1,20,nebolo,nebolo,[],,['chan2019'],,False,False,,1
+touo1238-1-21-1,,touo1238-1,21,nebolo pa,nebolo pa,[],,['chan2019'],,False,False,,1
+touo1238-1-22-1,,touo1238-1,22,nebolo eⁿdo,nebolo eⁿdo,[],,['chan2019'],,False,False,,1
+touo1238-1-23-1,,touo1238-1,23,nebolo iɰiva,nebolo iɰiva,[],,['chan2019'],,False,False,,1
+touo1238-1-24-1,,touo1238-1,24,nebolo aɰava,nebolo aɰava,[],,['chan2019'],,False,False,,1
+touo1238-1-25-1,,touo1238-1,25,nebolo ara,nebolo ara,[],,['chan2019'],,False,False,,1
+touo1238-1-26-1,,touo1238-1,26,nebolo poɰoa,nebolo poɰoa,[],,['chan2019'],,False,False,,1
+touo1238-1-27-1,,touo1238-1,27,nebolo poɰoro,nebolo poɰoro,[],,['chan2019'],,False,False,,1
+touo1238-1-28-1,,touo1238-1,28,nebolo kui,nebolo kui,[],,['chan2019'],,False,False,,1
+touo1238-1-29-1,,touo1238-1,29,nebolo kuava,nebolo kuava,[],,['chan2019'],,False,False,,1
+touo1238-1-30-1,,touo1238-1,30,iɰivaleza,iɰivaleza,[],,['chan2019'],,False,False,,1
+touo1238-1-40-1,,touo1238-1,40,aɰavaleza,aɰavaleza,[],,['chan2019'],,False,False,,1
+touo1238-1-50-1,,touo1238-1,50,aratale,aratale,[],,['chan2019'],,False,False,,1
+touo1238-1-60-1,,touo1238-1,60,poɰoatale,poɰoatale,[],,['chan2019'],,False,False,,1
+touo1238-1-70-1,,touo1238-1,70,poɰoroatale,poɰoroatale,[],,['chan2019'],,False,False,,1
+touo1238-1-80-1,,touo1238-1,80,kuiatale,kuiatale,[],,['chan2019'],,False,False,,1
+touo1238-1-90-1,,touo1238-1,90,kuavatale,kuavatale,[],,['chan2019'],,False,False,,1
+touo1238-1-100-1,,touo1238-1,100,pa kela,pa kela,[],,['chan2019'],,False,False,,1
+touo1238-1-200-1,,touo1238-1,200,eⁿdo kela,eⁿdo kela,[],,['chan2019'],,False,False,,1
+touo1238-1-1000-1,,touo1238-1,1000,pa toɰa,pa toɰa,[],,['chan2019'],,False,False,,1
+touo1238-1-1000-2,,touo1238-1,1000,pa toɣa,pa toɣa,[],,['chan2019'],,False,False,,1
+touo1238-1-2000-1,,touo1238-1,2000,eⁿdo toɰa,eⁿdo toɰa,[],,['chan2019'],,False,False,,1
+touo1238-1-2000-2,,touo1238-1,2000,eⁿdo toɣa,eⁿdo toɣa,[],,['chan2019'],,False,False,,1

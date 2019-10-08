@@ -1,4 +1,4 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-pana1307-2-1-1,,pana1307-2,1,ipʉti,ipʉti,[],,[],,False,False,,2
-pana1307-2-2-1,,pana1307-2,2,pʉtira,pʉtira,[],,[],,False,False,,2
-pana1307-2-3-1,,pana1307-2,3,nəpĩə,nəpĩə,[],,[],,False,False,,2
+pana1307-2-1-1,,pana1307-2,1,ipʉti,ipʉti,[],,['chan2019'],,False,False,,2
+pana1307-2-2-1,,pana1307-2,2,pʉtira,pʉtira,[],,['chan2019'],,False,False,,2
+pana1307-2-3-1,,pana1307-2,3,nəpĩə,nəpĩə,[],,['chan2019'],,False,False,,2

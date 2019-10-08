@@ -1,40 +1,40 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-baet1237-1-1-1,,baet1237-1,1,tiβʷale,tiβʷale,[],,[],,False,False,,1
-baet1237-1-2-1,,baet1237-1,2,rua,rua,[],,[],,False,False,,1
-baet1237-1-3-1,,baet1237-1,3,tolu,tolu,[],,[],,False,False,,1
-baet1237-1-4-1,,baet1237-1,4,βati,βati,[],,[],,False,False,,1
-baet1237-1-5-1,,baet1237-1,5,teβe-lma,teβe-lma,[],,[],,False,False,,1
-baet1237-1-6-1,,baet1237-1,6,le-tiβʷale,le-tiβʷale,[],( 5 + 1 ),[],,False,False,,1
-baet1237-1-7-1,,baet1237-1,7,leβ-rua,leβ-rua,[],( 5 + 2 ),[],,False,False,,1
-baet1237-1-8-1,,baet1237-1,8,lep-tolu,lep-tolu,[],( 5 + 3 ),[],,False,False,,1
-baet1237-1-9-1,,baet1237-1,9,le-βati,le-βati,[],( 5 + 4 ),[],,False,False,,1
-baet1237-1-10-1,,baet1237-1,10,saŋaβulu,saŋaβulu,[],,[],,False,False,,1
-baet1237-1-11-1,,baet1237-1,11,(saŋaβulu) ndomwa naɡi tiβʷale,(saŋaβulu) ndomwa naɡi tiβʷale,[],,[],,False,False,,1
-baet1237-1-12-1,,baet1237-1,12,(saŋaβulu) ndomwa naɡi rua,(saŋaβulu) ndomwa naɡi rua,[],,[],,False,False,,1
-baet1237-1-13-1,,baet1237-1,13,(saŋaβulu) ndomwa naɡi tolu,(saŋaβulu) ndomwa naɡi tolu,[],,[],,False,False,,1
-baet1237-1-14-1,,baet1237-1,14,(saŋaβulu) ndomwa naɡi βati,(saŋaβulu) ndomwa naɡi βati,[],,[],,False,False,,1
-baet1237-1-15-1,,baet1237-1,15,(saŋaβulu) ndomwa naɡi teβe-lma,(saŋaβulu) ndomwa naɡi teβe-lma,[],,[],,False,False,,1
-baet1237-1-16-1,,baet1237-1,16,(saŋaβulu) ndomwa naɡi le-tiβʷale,(saŋaβulu) ndomwa naɡi le-tiβʷale,[],,[],,False,False,,1
-baet1237-1-17-1,,baet1237-1,17,(saŋaβulu) ndomwa naɡi leβ-rua,(saŋaβulu) ndomwa naɡi leβ-rua,[],,[],,False,False,,1
-baet1237-1-18-1,,baet1237-1,18,(saŋaβulu) ndomwa naɡi lep-tolu,(saŋaβulu) ndomwa naɡi lep-tolu,[],,[],,False,False,,1
-baet1237-1-19-1,,baet1237-1,19,(saŋaβulu) ndomwa naɡi le-βati,(saŋaβulu) ndomwa naɡi le-βati,[],,[],,False,False,,1
-baet1237-1-20-1,,baet1237-1,20,saŋaβulu rua,saŋaβulu rua,[],,[],,False,False,,1
-baet1237-1-21-1,,baet1237-1,21,saŋaβulu rua ndomwa naɡi tiβʷale,saŋaβulu rua ndomwa naɡi tiβʷale,[],,[],,False,False,,1
-baet1237-1-22-1,,baet1237-1,22,saŋaβulu rua ndomwa naɡi rua,saŋaβulu rua ndomwa naɡi rua,[],,[],,False,False,,1
-baet1237-1-23-1,,baet1237-1,23,saŋaβulu rua ndomwa naɡi tolu,saŋaβulu rua ndomwa naɡi tolu,[],,[],,False,False,,1
-baet1237-1-24-1,,baet1237-1,24,saŋaβulu rua ndomwa naɡi βati,saŋaβulu rua ndomwa naɡi βati,[],,[],,False,False,,1
-baet1237-1-25-1,,baet1237-1,25,saŋaβulu rua ndomwa naɡi teβe-lma,saŋaβulu rua ndomwa naɡi teβe-lma,[],,[],,False,False,,1
-baet1237-1-26-1,,baet1237-1,26,saŋaβulu rua ndomwa naɡi le-tiβʷale,saŋaβulu rua ndomwa naɡi le-tiβʷale,[],,[],,False,False,,1
-baet1237-1-27-1,,baet1237-1,27,saŋaβulu rua ndomwa naɡi leβ-rua,saŋaβulu rua ndomwa naɡi leβ-rua,[],,[],,False,False,,1
-baet1237-1-28-1,,baet1237-1,28,saŋaβulu rua ndomwa naɡi lep-tolu,saŋaβulu rua ndomwa naɡi lep-tolu,[],,[],,False,False,,1
-baet1237-1-29-1,,baet1237-1,29,saŋaβulu rua ndomwa naɡi le-βati,saŋaβulu rua ndomwa naɡi le-βati,[],,[],,False,False,,1
-baet1237-1-30-1,,baet1237-1,30,saŋaβulu tolu,saŋaβulu tolu,[],,[],,False,False,,1
-baet1237-1-40-1,,baet1237-1,40,saŋaβulu βati,saŋaβulu βati,[],,[],,False,False,,1
-baet1237-1-50-1,,baet1237-1,50,saŋaβulu teβe-lma,saŋaβulu teβe-lma,[],,[],,False,False,,1
-baet1237-1-60-1,,baet1237-1,60,saŋaβulu le-tiβʷale,saŋaβulu le-tiβʷale,[],,[],,False,False,,1
-baet1237-1-70-1,,baet1237-1,70,saŋaβulu leβ-rua,saŋaβulu leβ-rua,[],,[],,False,False,,1
-baet1237-1-80-1,,baet1237-1,80,saŋaβulu lep-tolu,saŋaβulu lep-tolu,[],,[],,False,False,,1
-baet1237-1-90-1,,baet1237-1,90,saŋaβulu le-βati,saŋaβulu le-βati,[],,[],,False,False,,1
-baet1237-1-100-1,,baet1237-1,100,βundolua,βundolua,[],,[],,False,False,,1
-baet1237-1-200-1,,baet1237-1,200,βundolua rua,βundolua rua,[],,[],,False,False,,1
-baet1237-1-1000-1,,baet1237-1,1000,menamena rau mbaŋɡa ??,menamena rau mbaŋɡa ??,[],,[],,False,True,,1
+baet1237-1-1-1,,baet1237-1,1,tiβʷale,tiβʷale,[],,['chan2019'],,False,False,,1
+baet1237-1-2-1,,baet1237-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+baet1237-1-3-1,,baet1237-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+baet1237-1-4-1,,baet1237-1,4,βati,βati,[],,['chan2019'],,False,False,,1
+baet1237-1-5-1,,baet1237-1,5,teβe-lma,teβe-lma,[],,['chan2019'],,False,False,,1
+baet1237-1-6-1,,baet1237-1,6,le-tiβʷale,le-tiβʷale,[],( 5 + 1 ),['chan2019'],,False,False,,1
+baet1237-1-7-1,,baet1237-1,7,leβ-rua,leβ-rua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+baet1237-1-8-1,,baet1237-1,8,lep-tolu,lep-tolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+baet1237-1-9-1,,baet1237-1,9,le-βati,le-βati,[],( 5 + 4 ),['chan2019'],,False,False,,1
+baet1237-1-10-1,,baet1237-1,10,saŋaβulu,saŋaβulu,[],,['chan2019'],,False,False,,1
+baet1237-1-11-1,,baet1237-1,11,(saŋaβulu) ndomwa naɡi tiβʷale,(saŋaβulu) ndomwa naɡi tiβʷale,[],,['chan2019'],,False,False,,1
+baet1237-1-12-1,,baet1237-1,12,(saŋaβulu) ndomwa naɡi rua,(saŋaβulu) ndomwa naɡi rua,[],,['chan2019'],,False,False,,1
+baet1237-1-13-1,,baet1237-1,13,(saŋaβulu) ndomwa naɡi tolu,(saŋaβulu) ndomwa naɡi tolu,[],,['chan2019'],,False,False,,1
+baet1237-1-14-1,,baet1237-1,14,(saŋaβulu) ndomwa naɡi βati,(saŋaβulu) ndomwa naɡi βati,[],,['chan2019'],,False,False,,1
+baet1237-1-15-1,,baet1237-1,15,(saŋaβulu) ndomwa naɡi teβe-lma,(saŋaβulu) ndomwa naɡi teβe-lma,[],,['chan2019'],,False,False,,1
+baet1237-1-16-1,,baet1237-1,16,(saŋaβulu) ndomwa naɡi le-tiβʷale,(saŋaβulu) ndomwa naɡi le-tiβʷale,[],,['chan2019'],,False,False,,1
+baet1237-1-17-1,,baet1237-1,17,(saŋaβulu) ndomwa naɡi leβ-rua,(saŋaβulu) ndomwa naɡi leβ-rua,[],,['chan2019'],,False,False,,1
+baet1237-1-18-1,,baet1237-1,18,(saŋaβulu) ndomwa naɡi lep-tolu,(saŋaβulu) ndomwa naɡi lep-tolu,[],,['chan2019'],,False,False,,1
+baet1237-1-19-1,,baet1237-1,19,(saŋaβulu) ndomwa naɡi le-βati,(saŋaβulu) ndomwa naɡi le-βati,[],,['chan2019'],,False,False,,1
+baet1237-1-20-1,,baet1237-1,20,saŋaβulu rua,saŋaβulu rua,[],,['chan2019'],,False,False,,1
+baet1237-1-21-1,,baet1237-1,21,saŋaβulu rua ndomwa naɡi tiβʷale,saŋaβulu rua ndomwa naɡi tiβʷale,[],,['chan2019'],,False,False,,1
+baet1237-1-22-1,,baet1237-1,22,saŋaβulu rua ndomwa naɡi rua,saŋaβulu rua ndomwa naɡi rua,[],,['chan2019'],,False,False,,1
+baet1237-1-23-1,,baet1237-1,23,saŋaβulu rua ndomwa naɡi tolu,saŋaβulu rua ndomwa naɡi tolu,[],,['chan2019'],,False,False,,1
+baet1237-1-24-1,,baet1237-1,24,saŋaβulu rua ndomwa naɡi βati,saŋaβulu rua ndomwa naɡi βati,[],,['chan2019'],,False,False,,1
+baet1237-1-25-1,,baet1237-1,25,saŋaβulu rua ndomwa naɡi teβe-lma,saŋaβulu rua ndomwa naɡi teβe-lma,[],,['chan2019'],,False,False,,1
+baet1237-1-26-1,,baet1237-1,26,saŋaβulu rua ndomwa naɡi le-tiβʷale,saŋaβulu rua ndomwa naɡi le-tiβʷale,[],,['chan2019'],,False,False,,1
+baet1237-1-27-1,,baet1237-1,27,saŋaβulu rua ndomwa naɡi leβ-rua,saŋaβulu rua ndomwa naɡi leβ-rua,[],,['chan2019'],,False,False,,1
+baet1237-1-28-1,,baet1237-1,28,saŋaβulu rua ndomwa naɡi lep-tolu,saŋaβulu rua ndomwa naɡi lep-tolu,[],,['chan2019'],,False,False,,1
+baet1237-1-29-1,,baet1237-1,29,saŋaβulu rua ndomwa naɡi le-βati,saŋaβulu rua ndomwa naɡi le-βati,[],,['chan2019'],,False,False,,1
+baet1237-1-30-1,,baet1237-1,30,saŋaβulu tolu,saŋaβulu tolu,[],,['chan2019'],,False,False,,1
+baet1237-1-40-1,,baet1237-1,40,saŋaβulu βati,saŋaβulu βati,[],,['chan2019'],,False,False,,1
+baet1237-1-50-1,,baet1237-1,50,saŋaβulu teβe-lma,saŋaβulu teβe-lma,[],,['chan2019'],,False,False,,1
+baet1237-1-60-1,,baet1237-1,60,saŋaβulu le-tiβʷale,saŋaβulu le-tiβʷale,[],,['chan2019'],,False,False,,1
+baet1237-1-70-1,,baet1237-1,70,saŋaβulu leβ-rua,saŋaβulu leβ-rua,[],,['chan2019'],,False,False,,1
+baet1237-1-80-1,,baet1237-1,80,saŋaβulu lep-tolu,saŋaβulu lep-tolu,[],,['chan2019'],,False,False,,1
+baet1237-1-90-1,,baet1237-1,90,saŋaβulu le-βati,saŋaβulu le-βati,[],,['chan2019'],,False,False,,1
+baet1237-1-100-1,,baet1237-1,100,βundolua,βundolua,[],,['chan2019'],,False,False,,1
+baet1237-1-200-1,,baet1237-1,200,βundolua rua,βundolua rua,[],,['chan2019'],,False,False,,1
+baet1237-1-1000-1,,baet1237-1,1000,menamena rau mbaŋɡa ??,menamena rau mbaŋɡa ??,[],,['chan2019'],,False,True,,1

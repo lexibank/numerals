@@ -1,41 +1,41 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-gela1263-1-1-1,,gela1263-1,1,sakai,sakai,[],,[],,False,False,,1
-gela1263-1-2-1,,gela1263-1,2,rua,rua,[],,[],,False,False,,1
-gela1263-1-3-1,,gela1263-1,3,tolu,tolu,[],,[],,False,False,,1
-gela1263-1-4-1,,gela1263-1,4,vati,vati,[],,[],,False,False,,1
-gela1263-1-5-1,,gela1263-1,5,lima,lima,[],,[],,False,False,,1
-gela1263-1-6-1,,gela1263-1,6,ono,ono,[],,[],,False,False,,1
-gela1263-1-7-1,,gela1263-1,7,vitu,vitu,[],,[],,False,False,,1
-gela1263-1-8-1,,gela1263-1,8,alu,alu,[],,[],,False,False,,1
-gela1263-1-9-1,,gela1263-1,9,hiua,hiua,[],,[],,False,False,,1
-gela1263-1-10-1,,gela1263-1,10,haŋavulu,haŋavulu,[],,[],,False,False,,1
-gela1263-1-11-1,,gela1263-1,11,haŋavulu sakai,haŋavulu sakai,[],,[],,False,False,,1
-gela1263-1-12-1,,gela1263-1,12,haŋavulu rua,haŋavulu rua,[],,[],,False,False,,1
-gela1263-1-13-1,,gela1263-1,13,haŋavulu tolu,haŋavulu tolu,[],,[],,False,False,,1
-gela1263-1-14-1,,gela1263-1,14,haŋavulu vati,haŋavulu vati,[],,[],,False,False,,1
-gela1263-1-15-1,,gela1263-1,15,haŋavulu lima,haŋavulu lima,[],,[],,False,False,,1
-gela1263-1-16-1,,gela1263-1,16,haŋavulu ono,haŋavulu ono,[],,[],,False,False,,1
-gela1263-1-17-1,,gela1263-1,17,haŋavulu vitu,haŋavulu vitu,[],,[],,False,False,,1
-gela1263-1-18-1,,gela1263-1,18,haŋavulu alu,haŋavulu alu,[],,[],,False,False,,1
-gela1263-1-19-1,,gela1263-1,19,haŋavulu hiua,haŋavulu hiua,[],,[],,False,False,,1
-gela1263-1-20-1,,gela1263-1,20,rua haŋavulu,rua haŋavulu,[],,[],,False,False,,1
-gela1263-1-21-1,,gela1263-1,21,rua haŋavulu sakai,rua haŋavulu sakai,[],,[],,False,False,,1
-gela1263-1-22-1,,gela1263-1,22,rua haŋavulu rua,rua haŋavulu rua,[],,[],,False,False,,1
-gela1263-1-23-1,,gela1263-1,23,rua haŋavulu tolu,rua haŋavulu tolu,[],,[],,False,False,,1
-gela1263-1-24-1,,gela1263-1,24,rua haŋavulu vati,rua haŋavulu vati,[],,[],,False,False,,1
-gela1263-1-25-1,,gela1263-1,25,rua haŋavulu lima,rua haŋavulu lima,[],,[],,False,False,,1
-gela1263-1-26-1,,gela1263-1,26,rua haŋavulu ono,rua haŋavulu ono,[],,[],,False,False,,1
-gela1263-1-27-1,,gela1263-1,27,rua haŋavulu vitu,rua haŋavulu vitu,[],,[],,False,False,,1
-gela1263-1-28-1,,gela1263-1,28,rua haŋavulu alu,rua haŋavulu alu,[],,[],,False,False,,1
-gela1263-1-29-1,,gela1263-1,29,rua haŋavulu hiwa,rua haŋavulu hiwa,[],,[],,False,False,,1
-gela1263-1-30-1,,gela1263-1,30,tolu haŋavulu,tolu haŋavulu,[],,[],,False,False,,1
-gela1263-1-40-1,,gela1263-1,40,vati haŋavulu,vati haŋavulu,[],,[],,False,False,,1
-gela1263-1-50-1,,gela1263-1,50,lima haŋavulu,lima haŋavulu,[],,[],,False,False,,1
-gela1263-1-60-1,,gela1263-1,60,ono haŋavulu,ono haŋavulu,[],,[],,False,False,,1
-gela1263-1-70-1,,gela1263-1,70,vitu haŋavulu,vitu haŋavulu,[],,[],,False,False,,1
-gela1263-1-80-1,,gela1263-1,80,alu haŋavulu,alu haŋavulu,[],,[],,False,False,,1
-gela1263-1-90-1,,gela1263-1,90,hiua haŋavulu,hiua haŋavulu,[],,[],,False,False,,1
-gela1263-1-100-1,,gela1263-1,100,(sakai na )haŋalatu,(sakai na )haŋalatu,[],,[],,False,False,,1
-gela1263-1-200-1,,gela1263-1,200,rua na haŋalatu,rua na haŋalatu,[],,[],,False,False,,1
-gela1263-1-1000-1,,gela1263-1,1000,sakai na tɔɣa,sakai na tɔɣa,[],,[],,False,False,,1
-gela1263-1-2000-1,,gela1263-1,2000,rua na tɔɣa,rua na tɔɣa,[],,[],,False,False,,1
+gela1263-1-1-1,,gela1263-1,1,sakai,sakai,[],,['chan2019'],,False,False,,1
+gela1263-1-2-1,,gela1263-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+gela1263-1-3-1,,gela1263-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+gela1263-1-4-1,,gela1263-1,4,vati,vati,[],,['chan2019'],,False,False,,1
+gela1263-1-5-1,,gela1263-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+gela1263-1-6-1,,gela1263-1,6,ono,ono,[],,['chan2019'],,False,False,,1
+gela1263-1-7-1,,gela1263-1,7,vitu,vitu,[],,['chan2019'],,False,False,,1
+gela1263-1-8-1,,gela1263-1,8,alu,alu,[],,['chan2019'],,False,False,,1
+gela1263-1-9-1,,gela1263-1,9,hiua,hiua,[],,['chan2019'],,False,False,,1
+gela1263-1-10-1,,gela1263-1,10,haŋavulu,haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-11-1,,gela1263-1,11,haŋavulu sakai,haŋavulu sakai,[],,['chan2019'],,False,False,,1
+gela1263-1-12-1,,gela1263-1,12,haŋavulu rua,haŋavulu rua,[],,['chan2019'],,False,False,,1
+gela1263-1-13-1,,gela1263-1,13,haŋavulu tolu,haŋavulu tolu,[],,['chan2019'],,False,False,,1
+gela1263-1-14-1,,gela1263-1,14,haŋavulu vati,haŋavulu vati,[],,['chan2019'],,False,False,,1
+gela1263-1-15-1,,gela1263-1,15,haŋavulu lima,haŋavulu lima,[],,['chan2019'],,False,False,,1
+gela1263-1-16-1,,gela1263-1,16,haŋavulu ono,haŋavulu ono,[],,['chan2019'],,False,False,,1
+gela1263-1-17-1,,gela1263-1,17,haŋavulu vitu,haŋavulu vitu,[],,['chan2019'],,False,False,,1
+gela1263-1-18-1,,gela1263-1,18,haŋavulu alu,haŋavulu alu,[],,['chan2019'],,False,False,,1
+gela1263-1-19-1,,gela1263-1,19,haŋavulu hiua,haŋavulu hiua,[],,['chan2019'],,False,False,,1
+gela1263-1-20-1,,gela1263-1,20,rua haŋavulu,rua haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-21-1,,gela1263-1,21,rua haŋavulu sakai,rua haŋavulu sakai,[],,['chan2019'],,False,False,,1
+gela1263-1-22-1,,gela1263-1,22,rua haŋavulu rua,rua haŋavulu rua,[],,['chan2019'],,False,False,,1
+gela1263-1-23-1,,gela1263-1,23,rua haŋavulu tolu,rua haŋavulu tolu,[],,['chan2019'],,False,False,,1
+gela1263-1-24-1,,gela1263-1,24,rua haŋavulu vati,rua haŋavulu vati,[],,['chan2019'],,False,False,,1
+gela1263-1-25-1,,gela1263-1,25,rua haŋavulu lima,rua haŋavulu lima,[],,['chan2019'],,False,False,,1
+gela1263-1-26-1,,gela1263-1,26,rua haŋavulu ono,rua haŋavulu ono,[],,['chan2019'],,False,False,,1
+gela1263-1-27-1,,gela1263-1,27,rua haŋavulu vitu,rua haŋavulu vitu,[],,['chan2019'],,False,False,,1
+gela1263-1-28-1,,gela1263-1,28,rua haŋavulu alu,rua haŋavulu alu,[],,['chan2019'],,False,False,,1
+gela1263-1-29-1,,gela1263-1,29,rua haŋavulu hiwa,rua haŋavulu hiwa,[],,['chan2019'],,False,False,,1
+gela1263-1-30-1,,gela1263-1,30,tolu haŋavulu,tolu haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-40-1,,gela1263-1,40,vati haŋavulu,vati haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-50-1,,gela1263-1,50,lima haŋavulu,lima haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-60-1,,gela1263-1,60,ono haŋavulu,ono haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-70-1,,gela1263-1,70,vitu haŋavulu,vitu haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-80-1,,gela1263-1,80,alu haŋavulu,alu haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-90-1,,gela1263-1,90,hiua haŋavulu,hiua haŋavulu,[],,['chan2019'],,False,False,,1
+gela1263-1-100-1,,gela1263-1,100,(sakai na )haŋalatu,(sakai na )haŋalatu,[],,['chan2019'],,False,False,,1
+gela1263-1-200-1,,gela1263-1,200,rua na haŋalatu,rua na haŋalatu,[],,['chan2019'],,False,False,,1
+gela1263-1-1000-1,,gela1263-1,1000,sakai na tɔɣa,sakai na tɔɣa,[],,['chan2019'],,False,False,,1
+gela1263-1-2000-1,,gela1263-1,2000,rua na tɔɣa,rua na tɔɣa,[],,['chan2019'],,False,False,,1

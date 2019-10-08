@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ngge1241-2-1-1,,ngge1241-2,1,ambit,ambit,[],,[],,False,False,,2
-ngge1241-2-2-1,,ngge1241-2,2,beren,beren,[],,[],,False,False,,2
-ngge1241-2-3-1,,ngge1241-2,3,kenaɡan,kenaɡan,[],,[],,False,False,,2
-ngge1241-2-4-1,,ngge1241-2,4,beren-beren eroɡo,beren-beren eroɡo,[],(litː ''2 + 2'' ),[],,False,False,,2
-ngge1241-2-5-1,,ngge1241-2,5,ninɡɡis ambi dinɡɡik,ninɡɡis ambi dinɡɡik,[],(litː ''side hand'' ? ),[],,False,False,,2
-ngge1241-2-6-1,,ngge1241-2,6,iteke henɡɡam henɡɡam ?,iteke henɡɡam henɡɡam ?,[],,[],,False,True,,2
-ngge1241-2-7-1,,ngge1241-2,7,ninɡɡis ambi dinɡɡi berein,ninɡɡis ambi dinɡɡi berein,[],,[],,False,False,,2
-ngge1241-2-8-1,,ngge1241-2,8,ninɡɡis obok berein dik,ninɡɡis obok berein dik,[],,[],,False,False,,2
-ngge1241-2-9-1,,ngge1241-2,9,ninɡɡis obok ambiat dik,ninɡɡis obok ambiat dik,[],,[],,False,False,,2
-ngge1241-2-10-1,,ngge1241-2,10,ninɡɡis obok dinɡɡik,ninɡɡis obok dinɡɡik,[],,[],,False,False,,2
+ngge1241-2-1-1,,ngge1241-2,1,ambit,ambit,[],,['chan2019'],,False,False,,2
+ngge1241-2-2-1,,ngge1241-2,2,beren,beren,[],,['chan2019'],,False,False,,2
+ngge1241-2-3-1,,ngge1241-2,3,kenaɡan,kenaɡan,[],,['chan2019'],,False,False,,2
+ngge1241-2-4-1,,ngge1241-2,4,beren-beren eroɡo,beren-beren eroɡo,[],(litː ''2 + 2'' ),['chan2019'],,False,False,,2
+ngge1241-2-5-1,,ngge1241-2,5,ninɡɡis ambi dinɡɡik,ninɡɡis ambi dinɡɡik,[],(litː ''side hand'' ? ),['chan2019'],,False,False,,2
+ngge1241-2-6-1,,ngge1241-2,6,iteke henɡɡam henɡɡam ?,iteke henɡɡam henɡɡam ?,[],,['chan2019'],,False,True,,2
+ngge1241-2-7-1,,ngge1241-2,7,ninɡɡis ambi dinɡɡi berein,ninɡɡis ambi dinɡɡi berein,[],,['chan2019'],,False,False,,2
+ngge1241-2-8-1,,ngge1241-2,8,ninɡɡis obok berein dik,ninɡɡis obok berein dik,[],,['chan2019'],,False,False,,2
+ngge1241-2-9-1,,ngge1241-2,9,ninɡɡis obok ambiat dik,ninɡɡis obok ambiat dik,[],,['chan2019'],,False,False,,2
+ngge1241-2-10-1,,ngge1241-2,10,ninɡɡis obok dinɡɡik,ninɡɡis obok dinɡɡik,[],,['chan2019'],,False,False,,2

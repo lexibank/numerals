@@ -1,13 +1,13 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-moun1252-1-1-1,,moun1252-1,1,iɡae,iɡae,[],,[],,False,False,,1
-moun1252-1-2-1,,moun1252-1,2,abui,abui,[],,[],,False,False,,1
-moun1252-1-3-1,,moun1252-1,3,abuita iɡaeta,abuita iɡaeta,[],,[],,False,False,,1
-moun1252-1-4-1,,moun1252-1,4,abuita abuita,abuita abuita,[],,[],,False,False,,1
-moun1252-1-5-1,,moun1252-1,5,ada mole abui,ada mole abui,[],,[],,False,False,,1
-moun1252-1-6-1,,moun1252-1,6,ada moleiɡae,ada moleiɡae,[],,[],,False,False,,1
-moun1252-1-7-1,,moun1252-1,7,ada moleabuita,ada moleabuita,[],,[],,False,False,,1
-moun1252-1-8-1,,moun1252-1,8,ada mole abuita iɡaeta,ada mole abuita iɡaeta,[],,[],,False,False,,1
-moun1252-1-9-1,,moun1252-1,9,ada mole abuita abuita,ada mole abuita abuita,[],,[],,False,False,,1
-moun1252-1-10-1,,moun1252-1,10,ada abuita,ada abuita,[],,[],,False,False,,1
-moun1252-1-15-1,,moun1252-1,15,ada abuita velo iɡae,ada abuita velo iɡae,[],,[],,False,False,,1
-moun1252-1-20-1,,moun1252-1,20,ada abuita velo abuita,ada abuita velo abuita,[],,[],,False,False,,1
+moun1252-1-1-1,,moun1252-1,1,iɡae,iɡae,[],,['chan2019'],,False,False,,1
+moun1252-1-2-1,,moun1252-1,2,abui,abui,[],,['chan2019'],,False,False,,1
+moun1252-1-3-1,,moun1252-1,3,abuita iɡaeta,abuita iɡaeta,[],,['chan2019'],,False,False,,1
+moun1252-1-4-1,,moun1252-1,4,abuita abuita,abuita abuita,[],,['chan2019'],,False,False,,1
+moun1252-1-5-1,,moun1252-1,5,ada mole abui,ada mole abui,[],,['chan2019'],,False,False,,1
+moun1252-1-6-1,,moun1252-1,6,ada moleiɡae,ada moleiɡae,[],,['chan2019'],,False,False,,1
+moun1252-1-7-1,,moun1252-1,7,ada moleabuita,ada moleabuita,[],,['chan2019'],,False,False,,1
+moun1252-1-8-1,,moun1252-1,8,ada mole abuita iɡaeta,ada mole abuita iɡaeta,[],,['chan2019'],,False,False,,1
+moun1252-1-9-1,,moun1252-1,9,ada mole abuita abuita,ada mole abuita abuita,[],,['chan2019'],,False,False,,1
+moun1252-1-10-1,,moun1252-1,10,ada abuita,ada abuita,[],,['chan2019'],,False,False,,1
+moun1252-1-15-1,,moun1252-1,15,ada abuita velo iɡae,ada abuita velo iɡae,[],,['chan2019'],,False,False,,1
+moun1252-1-20-1,,moun1252-1,20,ada abuita velo abuita,ada abuita velo abuita,[],,['chan2019'],,False,False,,1

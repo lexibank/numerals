@@ -1,42 +1,42 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-bint1246-1-1-1,,bint1246-1,1,d͡ʒiʌŋ,d͡ʒiʌŋ,[],,[],,False,False,,1
-bint1246-1-1-2,,bint1246-1,1,d͡ʒiah,d͡ʒiah,[],,[],,False,False,,1
-bint1246-1-2-1,,bint1246-1,2,baː,baː,[],,[],,False,False,,1
-bint1246-1-3-1,,bint1246-1,3,ləw,ləw,[],,[],,False,False,,1
-bint1246-1-4-1,,bint1246-1,4,pat,pat,[],,[],,False,False,,1
-bint1246-1-5-1,,bint1246-1,5,lima,lima,[],,[],,False,False,,1
-bint1246-1-6-1,,bint1246-1,6,nəm,nəm,[],,[],,False,False,,1
-bint1246-1-7-1,,bint1246-1,7,tud͡ʒuʔ,tud͡ʒuʔ,[],,[],,False,False,,1
-bint1246-1-8-1,,bint1246-1,8,maʔdiʔ,maʔdiʔ,[],,[],,False,False,,1
-bint1246-1-9-1,,bint1246-1,9,supiʔ,supiʔ,[],,[],,False,False,,1
-bint1246-1-10-1,,bint1246-1,10,pəluʔən,pəluʔən,[],,[],,False,False,,1
-bint1246-1-11-1,,bint1246-1,11,pəluʔən d͡ʒiʌŋ,pəluʔən d͡ʒiʌŋ,[],,[],,False,False,,1
-bint1246-1-12-1,,bint1246-1,12,pəluʔən baː,pəluʔən baː,[],,[],,False,False,,1
-bint1246-1-13-1,,bint1246-1,13,pəluʔən ləw,pəluʔən ləw,[],,[],,False,False,,1
-bint1246-1-14-1,,bint1246-1,14,pəluʔən pat,pəluʔən pat,[],,[],,False,False,,1
-bint1246-1-15-1,,bint1246-1,15,pəluʔən lima,pəluʔən lima,[],,[],,False,False,,1
-bint1246-1-16-1,,bint1246-1,16,pəluʔən nəm,pəluʔən nəm,[],,[],,False,False,,1
-bint1246-1-17-1,,bint1246-1,17,pəluʔən tud͡ʒuʔ,pəluʔən tud͡ʒuʔ,[],,[],,False,False,,1
-bint1246-1-18-1,,bint1246-1,18,pəluʔən maʔdiʔ,pəluʔən maʔdiʔ,[],,[],,False,False,,1
-bint1246-1-19-1,,bint1246-1,19,pəluʔən supiʔ,pəluʔən supiʔ,[],,[],,False,False,,1
-bint1246-1-20-1,,bint1246-1,20,baː puluʔ,baː puluʔ,[],,[],,False,False,,1
-bint1246-1-21-1,,bint1246-1,21,baː puluʔ d͡ʒiʌŋ,baː puluʔ d͡ʒiʌŋ,[],,[],,False,False,,1
-bint1246-1-22-1,,bint1246-1,22,baː puluʔ baː,baː puluʔ baː,[],,[],,False,False,,1
-bint1246-1-23-1,,bint1246-1,23,baː puluʔ ləw,baː puluʔ ləw,[],,[],,False,False,,1
-bint1246-1-24-1,,bint1246-1,24,baː puluʔ pat,baː puluʔ pat,[],,[],,False,False,,1
-bint1246-1-25-1,,bint1246-1,25,baː puluʔ lima,baː puluʔ lima,[],,[],,False,False,,1
-bint1246-1-26-1,,bint1246-1,26,baː puluʔ nəm,baː puluʔ nəm,[],,[],,False,False,,1
-bint1246-1-27-1,,bint1246-1,27,baː puluʔ tud͡ʒuʔ,baː puluʔ tud͡ʒuʔ,[],,[],,False,False,,1
-bint1246-1-28-1,,bint1246-1,28,baː puluʔ maʔdiʔ,baː puluʔ maʔdiʔ,[],,[],,False,False,,1
-bint1246-1-29-1,,bint1246-1,29,baː puluʔ supiʔ,baː puluʔ supiʔ,[],,[],,False,False,,1
-bint1246-1-30-1,,bint1246-1,30,ləw puluʔ,ləw puluʔ,[],,[],,False,False,,1
-bint1246-1-40-1,,bint1246-1,40,pat puluʔ,pat puluʔ,[],,[],,False,False,,1
-bint1246-1-50-1,,bint1246-1,50,lima puluʔ,lima puluʔ,[],,[],,False,False,,1
-bint1246-1-60-1,,bint1246-1,60,nəm puluʔ,nəm puluʔ,[],,[],,False,False,,1
-bint1246-1-70-1,,bint1246-1,70,tud͡ʒuʔ puluʔ,tud͡ʒuʔ puluʔ,[],,[],,False,False,,1
-bint1246-1-80-1,,bint1246-1,80,maʔdiʔ puluʔ,maʔdiʔ puluʔ,[],,[],,False,False,,1
-bint1246-1-90-1,,bint1246-1,90,supi? puluʔ,supi? puluʔ,[],,[],,False,True,,1
-bint1246-1-100-1,,bint1246-1,100,səratos,səratos,[],,[],,False,False,,1
-bint1246-1-200-1,,bint1246-1,200,baː ratos,baː ratos,[],,[],,False,False,,1
-bint1246-1-1000-1,,bint1246-1,1000,d͡ʒiʌŋ ribu,d͡ʒiʌŋ ribu,[],,[],,False,False,,1
-bint1246-1-2000-1,,bint1246-1,2000,baː ribu,baː ribu,[],,[],,False,False,,1
+bint1246-1-1-1,,bint1246-1,1,d͡ʒiʌŋ,d͡ʒiʌŋ,[],,['chan2019'],,False,False,,1
+bint1246-1-1-2,,bint1246-1,1,d͡ʒiah,d͡ʒiah,[],,['chan2019'],,False,False,,1
+bint1246-1-2-1,,bint1246-1,2,baː,baː,[],,['chan2019'],,False,False,,1
+bint1246-1-3-1,,bint1246-1,3,ləw,ləw,[],,['chan2019'],,False,False,,1
+bint1246-1-4-1,,bint1246-1,4,pat,pat,[],,['chan2019'],,False,False,,1
+bint1246-1-5-1,,bint1246-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+bint1246-1-6-1,,bint1246-1,6,nəm,nəm,[],,['chan2019'],,False,False,,1
+bint1246-1-7-1,,bint1246-1,7,tud͡ʒuʔ,tud͡ʒuʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-8-1,,bint1246-1,8,maʔdiʔ,maʔdiʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-9-1,,bint1246-1,9,supiʔ,supiʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-10-1,,bint1246-1,10,pəluʔən,pəluʔən,[],,['chan2019'],,False,False,,1
+bint1246-1-11-1,,bint1246-1,11,pəluʔən d͡ʒiʌŋ,pəluʔən d͡ʒiʌŋ,[],,['chan2019'],,False,False,,1
+bint1246-1-12-1,,bint1246-1,12,pəluʔən baː,pəluʔən baː,[],,['chan2019'],,False,False,,1
+bint1246-1-13-1,,bint1246-1,13,pəluʔən ləw,pəluʔən ləw,[],,['chan2019'],,False,False,,1
+bint1246-1-14-1,,bint1246-1,14,pəluʔən pat,pəluʔən pat,[],,['chan2019'],,False,False,,1
+bint1246-1-15-1,,bint1246-1,15,pəluʔən lima,pəluʔən lima,[],,['chan2019'],,False,False,,1
+bint1246-1-16-1,,bint1246-1,16,pəluʔən nəm,pəluʔən nəm,[],,['chan2019'],,False,False,,1
+bint1246-1-17-1,,bint1246-1,17,pəluʔən tud͡ʒuʔ,pəluʔən tud͡ʒuʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-18-1,,bint1246-1,18,pəluʔən maʔdiʔ,pəluʔən maʔdiʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-19-1,,bint1246-1,19,pəluʔən supiʔ,pəluʔən supiʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-20-1,,bint1246-1,20,baː puluʔ,baː puluʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-21-1,,bint1246-1,21,baː puluʔ d͡ʒiʌŋ,baː puluʔ d͡ʒiʌŋ,[],,['chan2019'],,False,False,,1
+bint1246-1-22-1,,bint1246-1,22,baː puluʔ baː,baː puluʔ baː,[],,['chan2019'],,False,False,,1
+bint1246-1-23-1,,bint1246-1,23,baː puluʔ ləw,baː puluʔ ləw,[],,['chan2019'],,False,False,,1
+bint1246-1-24-1,,bint1246-1,24,baː puluʔ pat,baː puluʔ pat,[],,['chan2019'],,False,False,,1
+bint1246-1-25-1,,bint1246-1,25,baː puluʔ lima,baː puluʔ lima,[],,['chan2019'],,False,False,,1
+bint1246-1-26-1,,bint1246-1,26,baː puluʔ nəm,baː puluʔ nəm,[],,['chan2019'],,False,False,,1
+bint1246-1-27-1,,bint1246-1,27,baː puluʔ tud͡ʒuʔ,baː puluʔ tud͡ʒuʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-28-1,,bint1246-1,28,baː puluʔ maʔdiʔ,baː puluʔ maʔdiʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-29-1,,bint1246-1,29,baː puluʔ supiʔ,baː puluʔ supiʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-30-1,,bint1246-1,30,ləw puluʔ,ləw puluʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-40-1,,bint1246-1,40,pat puluʔ,pat puluʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-50-1,,bint1246-1,50,lima puluʔ,lima puluʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-60-1,,bint1246-1,60,nəm puluʔ,nəm puluʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-70-1,,bint1246-1,70,tud͡ʒuʔ puluʔ,tud͡ʒuʔ puluʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-80-1,,bint1246-1,80,maʔdiʔ puluʔ,maʔdiʔ puluʔ,[],,['chan2019'],,False,False,,1
+bint1246-1-90-1,,bint1246-1,90,supi? puluʔ,supi? puluʔ,[],,['chan2019'],,False,True,,1
+bint1246-1-100-1,,bint1246-1,100,səratos,səratos,[],,['chan2019'],,False,False,,1
+bint1246-1-200-1,,bint1246-1,200,baː ratos,baː ratos,[],,['chan2019'],,False,False,,1
+bint1246-1-1000-1,,bint1246-1,1000,d͡ʒiʌŋ ribu,d͡ʒiʌŋ ribu,[],,['chan2019'],,False,False,,1
+bint1246-1-2000-1,,bint1246-1,2000,baː ribu,baː ribu,[],,['chan2019'],,False,False,,1
