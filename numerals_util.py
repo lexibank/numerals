@@ -31,7 +31,7 @@ def make_chan_link(s, url):
 
 def check_for_problems(entry):
     for row in entry:
-        if row["Problematic"] == "True":
+        if row["Problematic"] is True:
             return " **(Problems)**"
 
     return ""

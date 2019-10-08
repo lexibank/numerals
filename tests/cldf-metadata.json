@@ -8,6 +8,7 @@
     "dc:isVersionOf": null,
     "dc:license": null,
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "channumerals",
     "rdf:ID": "channumerals",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
@@ -18,8 +19,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0-41-g122d0c0b24",
-                "concepticon_version": "v2.1.0-76-g5b487cd"
+                "glottolog_version": "v4.0-42-gd617e7c6b8",
+                "concepticon_version": "v2.1.0-81-g4a3ad95"
             }
         }
     ],
@@ -89,7 +90,7 @@
                         "name": "Loan"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": "boolean",
                         "name": "Problematic"
                     },
                     {
