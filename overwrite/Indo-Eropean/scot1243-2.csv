@@ -1,0 +1,50 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+scot1243-2-1-1,,scot1243-2,1,en,en,[],,['chan2019'],,False,False,ane,1
+scot1243-2-1-2,,scot1243-2,1,jin,jin,[],,['chan2019'],,False,False,yin,1
+scot1243-2-2-1,,scot1243-2,2,tʰwa,tʰwa,[],,['chan2019'],,False,False,twa,1
+scot1243-2-2-2,,scot1243-2,2,twe,twe,[],,['chan2019'],,False,False,twae,1
+scot1243-2-3-1,,scot1243-2,3,θɹi,θɹi,[],,['chan2019'],,False,False,three,1
+scot1243-2-3-2,,scot1243-2,3,θri,θri,[],,['chan2019'],,False,False,three,1
+scot1243-2-4-1,,scot1243-2,4,fowər,fowər,[],,['chan2019'],,False,False,fower,1
+scot1243-2-5-1,,scot1243-2,5,faɪv,faɪv,[],,['chan2019'],,False,False,five,1
+scot1243-2-6-1,,scot1243-2,6,saks,saks,[],,['chan2019'],,False,False,sax,1
+scot1243-2-6-2,,scot1243-2,6,seks,seks,[],,['chan2019'],,False,False,sax,1
+scot1243-2-7-1,,scot1243-2,7,ˈsivən,ˈsivən,[],,['chan2019'],,False,False,seeven,1
+scot1243-2-8-1,,scot1243-2,8,ext,ext,[],,['chan2019'],,False,False,aicht,1
+scot1243-2-8-2,,scot1243-2,8,axt,axt,[],,['chan2019'],,False,False,aucht,1
+scot1243-2-9-1,,scot1243-2,9,nəɪn,nəɪn,[],,['chan2019'],,False,False,nine,1
+scot1243-2-10-1,,scot1243-2,10,tʰen,tʰen,[],,['chan2019'],,False,False,ten,1
+scot1243-2-11-1,,scot1243-2,11,əˈlivən,əˈlivən,[],,['chan2019'],,False,False,eleeven,1
+scot1243-2-12-1,,scot1243-2,12,ˈtwal,ˈtwal,[],,['chan2019'],,False,False,twal,1
+scot1243-2-13-1,,scot1243-2,13,ˌθɾɛˈtin,ˌθɾɛˈtin,[],,['chan2019'],,False,False,thretteen,1
+scot1243-2-14-1,,scot1243-2,14,ˌfʌuɾˈtin,ˌfʌuɾˈtin,[],,['chan2019'],,False,False,fowerteen,1
+scot1243-2-15-1,,scot1243-2,15,ˌfɪfˈtin,ˌfɪfˈtin,[],,['chan2019'],,False,False,fifteen,1
+scot1243-2-16-1,,scot1243-2,16,ˌseksˈtin,ˌseksˈtin,[],,['chan2019'],,False,False,saxteen,1
+scot1243-2-17-1,,scot1243-2,17,ˌsiːvənˈˈtin,ˌsiːvənˈˈtin,[],,['chan2019'],,False,False,seeventeen,1
+scot1243-2-18-1,,scot1243-2,18,ˌexˈtin,ˌexˈtin,[],,['chan2019'],,False,False,aichteen,1
+scot1243-2-18-2,,scot1243-2,18,ˌaxˈtin,ˌaxˈtin,[],,['chan2019'],,False,False,auchteen,1
+scot1243-2-19-1,,scot1243-2,19,ˌnaɪnˈtin,ˌnaɪnˈtin,[],,['chan2019'],,False,False,nineteen,1
+scot1243-2-20-1,,scot1243-2,20,ˈtw̥ɪntɪ,ˈtw̥ɪntɪ,[],,['chan2019'],,False,False,twentie,1
+scot1243-2-21-1,,scot1243-2,21,ˌtw̥ɪntɪ ˈen,ˌtw̥ɪntɪ ˈen,[],,['chan2019'],,False,False,twintie ane,1
+scot1243-2-21-2,,scot1243-2,21,ˌtw̥ɪntɪ ˈjin,ˈjin,[],,['chan2019'],,False,False,twintie ane,1
+scot1243-2-22-1,,scot1243-2,22,ˌtw̥ɪntɪ ˈtʰwa,ˌtw̥ɪntɪ ˈtʰwa,[],,['chan2019'],,False,False,twintietwa,1
+scot1243-2-23-1,,scot1243-2,23,ˌtw̥ɪntɪ ˈθɹi,ˌtw̥ɪntɪ ˈθɹi,[],,['chan2019'],,False,False,twintiethree,1
+scot1243-2-24-1,,scot1243-2,24,ˌtw̥ɪntɪ ˈfowəɾ,ˌtw̥ɪntɪ ˈfowəɾ,[],,['chan2019'],,False,False,twintiefower,1
+scot1243-2-25-1,,scot1243-2,25,ˌtw̥ɪntɪ ˈfaɪv,ˌtw̥ɪntɪ ˈfaɪv,[],,['chan2019'],,False,False,twintiefive,1
+scot1243-2-26-1,,scot1243-2,26,ˌtw̥ɪntɪ ˈsaks,ˌtw̥ɪntɪ ˈsaks,[],,['chan2019'],,False,False,twintiesax,1
+scot1243-2-27-1,,scot1243-2,27,ˌtw̥ɪntɪ ˈsivən,ˌtw̥ɪntɪ ˈsivən,[],,['chan2019'],,False,False,twintiesieven,1
+scot1243-2-28-1,,scot1243-2,28,ˌtw̥ɪntɪ ˈext ,ˌtw̥ɪntɪ ˈext,[],,['chan2019'],,False,False,twintie aicht,1
+scot1243-2-28-2,,scot1243-2,28,ˌtw̥ɪntɪ axt,axt,[],,['chan2019'],,False,False,twintie aicht,1
+scot1243-2-29-1,,scot1243-2,29,ˌtw̥ɪntɪ ˈnəɪn,ˌtw̥ɪntɪ ˈnəɪn,[],,['chan2019'],,False,False,twintienine,1
+scot1243-2-30-1,,scot1243-2,30,ˈθɾɪti,ˈθɾɪti,[],,['chan2019'],,False,False,thrittie,1
+scot1243-2-30-2,,scot1243-2,30,θɾɛtɪ,θɾɛtɪ,[],,['chan2019'],,False,False,thretty,1
+scot1243-2-40-1,,scot1243-2,40,ˈfɔɾtɪ,ˈfɔɾtɪ,[],,['chan2019'],,False,False,forty,1
+scot1243-2-50-1,,scot1243-2,50,ˈfɪftɪ,ˈfɪftɪ,[],,['chan2019'],,False,False,fifty,1
+scot1243-2-60-1,,scot1243-2,60,ˈsekstɪ,ˈsekstɪ,[],,['chan2019'],,False,False,saxtie,1
+scot1243-2-70-1,,scot1243-2,70,ˈsɪvn̩tɪ,ˈsɪvn̩tɪ,[],,['chan2019'],,False,False,sieventie,1
+scot1243-2-80-1,,scot1243-2,80,ˈaxtɪ,ˈaxtɪ,[],,['chan2019'],,False,False,aichtie,1
+scot1243-2-90-1,,scot1243-2,90,ˈnəɪntɪ,ˈnəɪntɪ,[],,['chan2019'],,False,False,ninety,1
+scot1243-2-100-1,,scot1243-2,100,ˈhʌn(d)əɾ,ˈhʌn(d)əɾ,[],,['chan2019'],,False,False,hundre,1
+scot1243-2-200-1,,scot1243-2,200,ˌtʰwaˈhʌn(d)əɾ,ˌtʰwaˈhʌn(d)əɾ,[],,['chan2019'],,False,False,twa hundre,1
+scot1243-2-1000-1,,scot1243-2,1000,ˈθuzən(d),ˈθuzən(d),[],,['chan2019'],,False,False,thoosand,1
+scot1243-2-2000-1,,scot1243-2,2000,ˌtʰwaˈθuzən(d),ˌtʰwaˈθuzən(d),[],,['chan2019'],,False,False,twathoosand,1
