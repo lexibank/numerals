@@ -1,0 +1,62 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+faro1244-1-1-1,,faro1244-1,1,ăɪʰtː,ăɪʰtː,[],(n.),['chan2019'],,False,False,eitt,1
+faro1244-1-1-2,,faro1244-1,1,ain,ain,[],(m. and f.),['chan2019'],,False,False,ein,1
+faro1244-1-2-1,,faro1244-1,2,tʰvɛi,tʰvɛi,[],(n.),['chan2019'],,False,False,tvey,1
+faro1244-1-2-2,,faro1244-1,2,ˈtʰveiːɾ,ˈtʰveiːɾ,[],(m.),['chan2019'],,False,False,tveir,1
+faro1244-1-2-3,,faro1244-1,2,tʰɛaɹ,tʰɛaɹ,[],,['chan2019'],,False,False,tvær,1
+faro1244-1-3-1,,faro1244-1,3,tʰɹʊi,tʰɹʊi,[],(n.),['chan2019'],,False,False,trý,1
+faro1244-1-3-2,,faro1244-1,3,tʰɹʊd̥͡ʒːɪɹ,tʰɹʊd̥͡ʒːɪɹ,[],(m.),['chan2019'],,False,False,tríggir,1
+faro1244-1-3-3,,faro1244-1,3,tʰɹʊd̥͡ʒːɪɹ,tʰɹʊd̥͡ʒːɪɹ,[],(f.),['chan2019'],,False,False,tríggjar,1
+faro1244-1-4-1,,faro1244-1,4,ˈfʊiɹa,ˈfʊiɹa,[],,['chan2019'],,False,False,fýra,1
+faro1244-1-5-1,,faro1244-1,5,ˈfɪmː,ˈfɪmː,[],,['chan2019'],,False,False,fimm,1
+faro1244-1-6-1,,faro1244-1,6,ˈsɛg̊s,ˈsɛg̊s,[],,['chan2019'],,False,False,seks,1
+faro1244-1-7-1,,faro1244-1,7,ʃɛi,ʃɛi,[],,['chan2019'],,False,False,sjey,1
+faro1244-1-8-1,,faro1244-1,8,ˈɔʰtːa,ˈɔʰtːa,[],,['chan2019'],,False,False,átta,1
+faro1244-1-9-1,,faro1244-1,9,ˈnʊd̥͡ʒːʊ,ˈnʊd̥͡ʒːʊ,[],,['chan2019'],,False,False,níggju,1
+faro1244-1-10-1,,faro1244-1,10,ˈtʰʊd̥͡ʒːʊ,ˈtʰʊd̥͡ʒːʊ,[],,['chan2019'],,False,False,tíggju,1
+faro1244-1-11-1,,faro1244-1,11,ˈɛd̥lɪvʊ,ˈɛd̥lɪvʊ,[],,['chan2019'],,False,False,ellivu,1
+faro1244-1-12-1,,faro1244-1,12,ˈtʰœlv,ˈtʰœlv,[],,['chan2019'],,False,False,tólv,1
+faro1244-1-13-1,,faro1244-1,13,ˈtʰɹɛʰtːan,ˈtʰɹɛʰtːan,[],,['chan2019'],,False,False,trettan,1
+faro1244-1-14-1,,faro1244-1,14,ˈfjʏɹ̥tan,ˈfjʏɹ̥tan,[],,['chan2019'],,False,False,fjúrtan,1
+faro1244-1-15-1,,faro1244-1,15,ˈfɪm̥tan,ˈfɪm̥tan,[],,['chan2019'],,False,False,fimtan,1
+faro1244-1-16-1,,faro1244-1,16,ˈsɛg̊stan,ˈsɛg̊stan,[],,['chan2019'],,False,False,sekstan,1
+faro1244-1-17-1,,faro1244-1,17,ˈʃɛid̥͡ʒan,ˈʃɛid̥͡ʒan,[],,['chan2019'],,False,False,seytjan,1
+faro1244-1-18-1,,faro1244-1,18,ˈɔaʰt͡ʃan,ˈɔaʰt͡ʃan,[],,['chan2019'],,False,False,átjan,1
+faro1244-1-19-1,,faro1244-1,19,ˈnʊid̥͡ʒan,ˈnʊid̥͡ʒan,[],,['chan2019'],,False,False,nítjan,1
+faro1244-1-20-1,,faro1244-1,20,ˈt͡ʃʰʉuwʊ,ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,tjúgu,1
+faro1244-1-21-1,,faro1244-1,21,ˈainɔ ˈt͡ʃʰʉuwʊ,ˈainɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,einnog tjúgu,1
+faro1244-1-21-2,,faro1244-1,21,ˈt͡ʃʰʉuwʊɔ ˈain,ˈt͡ʃʰʉuwʊɔ ˈain,[],,['chan2019'],,False,False,tjúgu ogeinn,1
+faro1244-1-22-1,,faro1244-1,22,tʰvɛi ɔ ˈt͡ʃʰʉuwʊ,tʰvɛi ɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,tvey og og tjúgu,1
+faro1244-1-22-2,,faro1244-1,22,ˈt͡ʃʰʉuwʊɔ ˈtʰvaiɹ,ˈt͡ʃʰʉuwʊɔ ˈtʰvaiɹ,[],,['chan2019'],,False,False,tjúgu og tveir,1
+faro1244-1-23-1,,faro1244-1,23,tʰɹʊi ɔ ˈt͡ʃʰʉuwʊ,tʰɹʊi ɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,trý og tjúgu,1
+faro1244-1-23-2,,faro1244-1,23,ˈt͡ʃʰʉuwʊɔ ˈtʰɹʊd̥͡ʒːɪɹ,ˈt͡ʃʰʉuwʊɔ ˈtʰɹʊd̥͡ʒːɪɹ,[],,['chan2019'],,False,False,tjúgu og tríggir,1
+faro1244-1-24-1,,faro1244-1,24,ˈfʊiɹa ɔ ˈt͡ʃʰʉuwʊ,ˈfʊiɹa ɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,fýraog tjúgu,1
+faro1244-1-24-2,,faro1244-1,24,ˈt͡ʃʰʉuwʊɔ ˈfʊiɹa,ˈt͡ʃʰʉuwʊɔ ˈfʊiɹa,[],,['chan2019'],,False,False,tjúgu og fýra,1
+faro1244-1-25-1,,faro1244-1,25,ˈfɪmː ɔ ˈt͡ʃʰʉuwʊ,ˈfɪmː ɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,fimm og tjúgu,1
+faro1244-1-25-2,,faro1244-1,25,ˈt͡ʃʰʉuwʊɔ ˈfɪmː,ˈt͡ʃʰʉuwʊɔ ˈfɪmː,[],,['chan2019'],,False,False,tjúguog fimm,1
+faro1244-1-26-1,,faro1244-1,26,ˈsɛg̊s ɔ ˈt͡ʃʰʉuwʊ,ˈsɛg̊s ɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,seks og tjúgu,1
+faro1244-1-26-2,,faro1244-1,26,ˈt͡ʃʰʉuwʊɔ ˈsɛg̊s,ˈt͡ʃʰʉuwʊɔ ˈsɛg̊s,[],,['chan2019'],,False,False,tjúgu og seks,1
+faro1244-1-27-1,,faro1244-1,27,ʃɛi ɔ ˈt͡ʃʰʉuwʊ,ʃɛi ɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,sjey og tjúgu,1
+faro1244-1-27-2,,faro1244-1,27,ˈt͡ʃʰʉuwʊɔ ʃɛi,ˈt͡ʃʰʉuwʊɔ ʃɛi,[],,['chan2019'],,False,False,tjúgu og sjey,1
+faro1244-1-28-1,,faro1244-1,28,ˈɔʰtːaɔ ˈt͡ʃʰʉuwʊ,ˈɔʰtːaɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,átta og tjúgu,1
+faro1244-1-28-2,,faro1244-1,28,ˈt͡ʃʰʉuwʊɔ ˈɔʰtːa,ˈt͡ʃʰʉuwʊɔ ˈɔʰtːa,[],,['chan2019'],,False,False,tjúguog átta,1
+faro1244-1-29-1,,faro1244-1,29,ˈnʊd̥͡ʒːʊɔ ˈt͡ʃʰʉuwʊ,ˈnʊd̥͡ʒːʊɔ ˈt͡ʃʰʉuwʊ,[],,['chan2019'],,False,False,níggju og tjúgu,1
+faro1244-1-29-2,,faro1244-1,29,ˈt͡ʃʰʉuwʊɔ ˈnʊd̥͡ʒːʊ,ˈt͡ʃʰʉuwʊɔ ˈnʊd̥͡ʒːʊ,[],,['chan2019'],,False,False,tjúgu og níggju,1
+faro1244-1-30-1,,faro1244-1,30,ˈtʰɹeːd̥(ɪ)vʊ,ˈtʰɹeːd̥(ɪ)vʊ,[],,['chan2019'],,False,False,tretivu,1
+faro1244-1-30-2,,faro1244-1,30,ˈtʰɹʊijad̥i,ˈtʰɹʊijad̥i,[],,['chan2019'],,False,False,tríati,1
+faro1244-1-40-1,,faro1244-1,40,ˈfjøːɹʊd̥i,ˈfjøːɹʊd̥i,[],,['chan2019'],,False,False,fjøruti,1
+faro1244-1-40-2,,faro1244-1,40,ˈfʊiɹad̥i,ˈfʊiɹad̥i,[],,['chan2019'],,False,False,fýrati,1
+faro1244-1-50-1,,faro1244-1,50,hɔl̥ˈtʰɹʊʃː,hɔl̥ˈtʰɹʊʃː,[],,['chan2019'],,False,False,hálvtrýss,1
+faro1244-1-50-2,,faro1244-1,50,ˈfim̥tɪ,ˈfim̥tɪ,[],,['chan2019'],,False,False,fimmti,1
+faro1244-1-60-1,,faro1244-1,60,tʰɹʊʃː̥,tʰɹʊʃː̥,[],,['chan2019'],,False,False,trýss,1
+faro1244-1-60-2,,faro1244-1,60,ˈsɛg̊sd̥i,ˈsɛg̊sd̥i,[],,['chan2019'],,False,False,seksti,1
+faro1244-1-70-1,,faro1244-1,70,hɔl̥ˈfjɛʂː,hɔl̥ˈfjɛʂː,[],[ˈʃɛid̥i],['chan2019'],,False,False,hálvfjerðs [,1
+faro1244-1-70-2,,faro1244-1,70,sjeyti,sjeyti,[],[ˈʃɛid̥i],['chan2019'],,False,False,hálvfjerðs [,1
+faro1244-1-80-1,,faro1244-1,80,fʊʂː̥,fʊʂː̥,[],,['chan2019'],,False,False,fýrs,1
+faro1244-1-80-2,,faro1244-1,80,ˈɔʰtːad̥ɪ,ˈɔʰtːad̥ɪ,[],,['chan2019'],,False,False,áttati,1
+faro1244-1-90-1,,faro1244-1,90,hɔl̥ˈfɛm̥s,hɔl̥ˈfɛm̥s,[],,['chan2019'],,False,False,hálvfems,1
+faro1244-1-90-2,,faro1244-1,90,ˈnʊid̥ɪ,ˈnʊid̥ɪ,[],,['chan2019'],,False,False,níti,1
+faro1244-1-100-1,,faro1244-1,100,ˈăĭʰtːˌhʊnd̥ɹa,ˈăĭʰtːˌhʊnd̥ɹa,[],,['chan2019'],,False,False,(eitt) hundrað,1
+faro1244-1-200-1,,faro1244-1,200,ˈtvɛi ˌhʊnd̥ɹa,ˈtvɛi ˌhʊnd̥ɹa,[],,['chan2019'],,False,False,tvey hundrað,1
+faro1244-1-1000-1,,faro1244-1,1000,ˈăĭʰtː ˌtʰʉusʊnd̥,ˈăĭʰtː ˌtʰʉusʊnd̥,[],,['chan2019'],,False,False,(eitt) túsund,1
+faro1244-1-2000-1,,faro1244-1,2000,ˈtvɛi ˌtʰʉusʊnd̥,ˈtvɛi ˌtʰʉusʊnd̥,[],,['chan2019'],,False,False,tveytúsund [,1
