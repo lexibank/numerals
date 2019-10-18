@@ -1,0 +1,52 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bret1244-1-1-1,,bret1244-1,1,ˈyːnɑ̃n,ˈyːnɑ̃n,[],(both masc. / fem.),['chan2019'],,False,False,unan,1
+bret1244-1-2-1,,bret1244-1,2,dou̯,dou̯,[],,['chan2019'],,False,False,daou,1
+bret1244-1-2-2,,bret1244-1,2,diw,diw,[],(masc. / fem.),['chan2019'],,False,False,div,1
+bret1244-1-3-1,,bret1244-1,3,triː,triː,[],,['chan2019'],,False,False,tri,1
+bret1244-1-3-2,,bret1244-1,3,tei̯r,tei̯r,[],(masc. /fem.),['chan2019'],,False,False,teir,1
+bret1244-1-4-1,,bret1244-1,4,ˈpɛːvar,ˈpɛːvar,[],,['chan2019'],,False,False,pevar,1
+bret1244-1-4-2,,bret1244-1,4,ˈpeːdɛr,ˈpeːdɛr,[],,['chan2019'],,False,False,peder,1
+bret1244-1-5-1,,bret1244-1,5,pɛm(p),pɛm(p),[],,['chan2019'],,False,False,pem(p),1
+bret1244-1-6-1,,bret1244-1,6,xwɛːx,xwɛːx,[],,['chan2019'],,False,False,cʼhwecʼh,1
+bret1244-1-7-1,,bret1244-1,7,sei̯s,sei̯s,[],,['chan2019'],,False,False,seizh,1
+bret1244-1-8-1,,bret1244-1,8,ei̯s,ei̯s,[],,['chan2019'],,False,False,eizh,1
+bret1244-1-9-1,,bret1244-1,9,nao̯,nao̯,[],,['chan2019'],,False,False,nav,1
+bret1244-1-10-1,,bret1244-1,10,dek,dek,[],,['chan2019'],,False,False,dek,1
+bret1244-1-10-2,,bret1244-1,10,deːɡ,deːɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-11-1,,bret1244-1,11,ˈœ̃nɛk,ˈœ̃nɛk,[],,['chan2019'],,False,False,unnek,1
+bret1244-1-11-2,,bret1244-1,11,ˈœ̃nɛɡ,ˈœ̃nɛɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-12-1,,bret1244-1,12,ˈdɔu̯zɛk,ˈdɔu̯zɛk,[],,['chan2019'],,False,False,daouzek,1
+bret1244-1-12-2,,bret1244-1,12,ˈdɔu̯zɛɡ,ˈdɔu̯zɛɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-13-1,,bret1244-1,13,ˈtriːzɛk,ˈtriːzɛk,[],,['chan2019'],,False,False,trizek,1
+bret1244-1-13-2,,bret1244-1,13,ˈtriːzɛɡ,ˈtriːzɛɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-14-1,,bret1244-1,14,pɛˈvarzɛk,pɛˈvarzɛk,[],,['chan2019'],,False,False,pevarzek,1
+bret1244-1-14-2,,bret1244-1,14,pɛˈvarzɛɡ,pɛˈvarzɛɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-15-1,,bret1244-1,15,ˈpɛmzɛk,ˈpɛmzɛk,[],,['chan2019'],,False,False,pemzek,1
+bret1244-1-15-2,,bret1244-1,15,ˈpɛmzɛɡ,ˈpɛmzɛɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-16-1,,bret1244-1,16,ˈxweːzɛk,ˈxweːzɛk,[],,['chan2019'],,False,False,cʼhwezek,1
+bret1244-1-16-2,,bret1244-1,16,ˈxweːzɛɡ,ˈxweːzɛɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-17-1,,bret1244-1,17,ˈsei̯tɛk,ˈsei̯tɛk,[],,['chan2019'],,False,False,seitek,1
+bret1244-1-17-2,,bret1244-1,17,ˈsei̯tɛɡ,ˈsei̯tɛɡ,[],,['chan2019'],,False,False,,1
+bret1244-1-18-1,,bret1244-1,18,ˈtriwɛx,ˈtriwɛx,[],( 3 x 6 ),['chan2019'],,False,False,triwecʼh,1
+bret1244-1-19-1,,bret1244-1,19,ˈnao̯tɛk,ˈnao̯tɛk,[],,['chan2019'],,False,False,naontek,1
+bret1244-1-20-1,,bret1244-1,20,ˈyːɡɛn(t),ˈyːɡɛn(t),[],,['chan2019'],,False,False,uɡent,1
+bret1244-1-21-1,,bret1244-1,21,ˈyːnɑ̃n warˈnyːɡɛn(t),ˈyːnɑ̃n warˈnyːɡɛn(t),[],,['chan2019'],,False,False,unan warn uɡent,1
+bret1244-1-22-1,,bret1244-1,22,ˈdou̯ warˈnyːɡɛn(t),ˈdou̯ warˈnyːɡɛn(t),[],,['chan2019'],,False,False,daou warn uɡent,1
+bret1244-1-23-1,,bret1244-1,23,ˈtriːwarˈnyːɡɛn(t),ˈtriːwarˈnyːɡɛn(t),[],,['chan2019'],,False,False,tri warn uɡent,1
+bret1244-1-24-1,,bret1244-1,24,ˈpɛvar warˈnyːɡɛn(t),ˈpɛvar warˈnyːɡɛn(t,[],,['chan2019'],,False,False,pevar warn uɡent,1
+bret1244-1-25-1,,bret1244-1,25,ˈpɛmp warˈnyːɡɛnt,ˈpɛmp warˈnyːɡɛnt,[],,['chan2019'],,False,False,pemp warn uɡent,1
+bret1244-1-26-1,,bret1244-1,26,cʼhwecʼh warn uɡent,cʼhwecʼh warn uɡent,[],,['chan2019'],,False,False,,1
+bret1244-1-27-1,,bret1244-1,27,ˈsei̯z warˈnyːɡɛn(t),ˈsei̯z warˈnyːɡɛn(t),[],,['chan2019'],,False,False,seizh warn uɡent,1
+bret1244-1-28-1,,bret1244-1,28,ˈei̯z warˈnyːɡɛn(t),ˈei̯z warˈnyːɡɛn(t),[],,['chan2019'],,False,False,eizh warn uɡent,1
+bret1244-1-29-1,,bret1244-1,29,ˈnao̯ warˈnyːɡɛn(t),ˈnao̯ warˈnyːɡɛn(t),[],,['chan2019'],,False,False,nav warn uɡent,1
+bret1244-1-30-1,,bret1244-1,30,ˈtreːɡɔn,ˈtreːɡɔn,[],,['chan2019'],,False,False,treɡont,1
+bret1244-1-40-1,,bret1244-1,40,dou̯ˈyːɡɛn(t),dou̯ˈyːɡɛn),[],( 2 x 20 ),['chan2019'],,False,False,daou uɡent,1
+bret1244-1-50-1,,bret1244-1,50,ˈhɑ̃ntɛr ˈkɑ̃n,ˈhɑ̃ntɛr ˈkɑ̃n,[],(half 100),['chan2019'],,False,False,hanter kant,1
+bret1244-1-60-1,,bret1244-1,60,ˈtriˈyːɡɛn,ˈtriˈyːɡɛn,[],( 3 x 20 ),['chan2019'],,False,False,tri uɡent,1
+bret1244-1-70-1,,bret1244-1,70,ˈdɛɡ a triˈyːɡɛn,ˈdɛɡ a triˈyːɡɛn,[],,['chan2019'],,False,False,dek ha tri uɡent,1
+bret1244-1-80-1,,bret1244-1,80,ˈpɛːvar ˈyːɡɛn,ˈpɛːvar ˈyːɡɛn,[],( 4 x 20 ),['chan2019'],,False,False,pevar uɡent,1
+bret1244-1-90-1,,bret1244-1,90,dek ha pevaruɡent,dek ha pevaruɡent,[],[ 10 + (4 x 20)],['chan2019'],,False,False,,1
+bret1244-1-100-1,,bret1244-1,100,kɑ̃n,kɑ̃n,[],,['chan2019'],,False,False,kant,1
+bret1244-1-200-1,,bret1244-1,200,ˈdou̯ ˈxɑ̃n,ˈdou̯ ˈxɑ̃n,[],,['chan2019'],,False,False,daou cʼhant,1
+bret1244-1-1000-1,,bret1244-1,1000,ˈmil,ˈmil,[],,['chan2019'],,False,False,mil,1
+bret1244-1-2000-1,,bret1244-1,2000,dou̯ˈvil,dou̯ˈvil,[],,['chan2019'],,False,False,daou vil,1
