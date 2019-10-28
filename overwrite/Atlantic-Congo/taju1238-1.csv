@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+taju1238-1-1-1,,taju1238-1,1,doe,doe,[],,['chan2019'],,False,False,,1
+taju1238-1-2-1,,taju1238-1,2,sunn,sunn,[],( nn = ?),['chan2019'],,False,False,,1
+taju1238-1-3-1,,taju1238-1,3,tan,tan,[],,['chan2019'],,False,False,,1
+taju1238-1-4-1,,taju1238-1,4,hin,hin,[],,['chan2019'],,False,False,,1
+taju1238-1-5-1,,taju1238-1,5,hoom,hoom,[],,['chan2019'],,False,False,,1
+taju1238-1-6-1,,taju1238-1,6,ḿhon doe,ḿhon doe,[],( 5 + 1 ),['chan2019'],,False,False,,1
+taju1238-1-7-1,,taju1238-1,7,ḿhon sunn,ḿhon sunn,[],( 5 + 2 ),['chan2019'],,False,False,,1
+taju1238-1-8-1,,taju1238-1,8,hinin,hinin,[],( 4 + 4 ),['chan2019'],,False,False,,1
+taju1238-1-9-1,,taju1238-1,9,siɛrdoe,siɛrdoe,[],(litː 'remains one' ),['chan2019'],,False,False,,1
+taju1238-1-10-1,,taju1238-1,10,punn,punn,[],,['chan2019'],,False,False,,1
+taju1238-1-11-1,,taju1238-1,11,punn-joy-doe,punn-joy-doe,[],j = ɟ or dʒ ??,['chan2019'],,False,False,,1
+taju1238-1-12-1,,taju1238-1,12,punn-joy-sunn,punn-joy-sunn,[],,['chan2019'],,False,False,,1
+taju1238-1-13-1,,taju1238-1,13,punn-joy-tan,punn-joy-tan,[],,['chan2019'],,False,False,,1
+taju1238-1-14-1,,taju1238-1,14,punn-joy-hin,punn-joy-hin,[],,['chan2019'],,False,False,,1
+taju1238-1-15-1,,taju1238-1,15,punn-joy-hoom,punn-joy-hoom,[],,['chan2019'],,False,False,,1
+taju1238-1-16-1,,taju1238-1,16,punn-joy-ḿhon doe,punn-joy-ḿhon doe,[],,['chan2019'],,False,False,,1
+taju1238-1-17-1,,taju1238-1,17,punn-joy-ḿhon sunn,punn-joy-ḿhon sunn,[],,['chan2019'],,False,False,,1
+taju1238-1-18-1,,taju1238-1,18,punn-joy-hinin,punn-joy-hinin,[],,['chan2019'],,False,False,,1
+taju1238-1-19-1,,taju1238-1,19,punn-joy-siɛrdoe,punn-joy-siɛrdoe,[],,['chan2019'],,False,False,,1
+taju1238-1-20-1,,taju1238-1,20,quilar-sunn,quilar-sunn,[],qu = kw ??,['chan2019'],,False,False,,1
+taju1238-1-21-1,,taju1238-1,21,quilarsunn - joy doe,quilarsunn - joy doe,[],,['chan2019'],,False,False,,1
+taju1238-1-22-1,,taju1238-1,22,quilarsunn - sunn,quilarsunn - sunn,[],,['chan2019'],,False,False,,1
+taju1238-1-23-1,,taju1238-1,23,quilarsunn - tan,quilarsunn - tan,[],,['chan2019'],,False,False,,1
+taju1238-1-24-1,,taju1238-1,24,quilarsunn - hin,quilarsunn - hin,[],,['chan2019'],,False,False,,1
+taju1238-1-25-1,,taju1238-1,25,quilarsunn - hoom,quilarsunn - hoom,[],,['chan2019'],,False,False,,1
+taju1238-1-26-1,,taju1238-1,26,quilarsunn - ḿhon doe,quilarsunn - ḿhon doe,[],,['chan2019'],,False,False,,1
+taju1238-1-27-1,,taju1238-1,27,quilarsunn - ḿhon sunn,quilarsunn - ḿhon sunn,[],,['chan2019'],,False,False,,1
+taju1238-1-28-1,,taju1238-1,28,quilarsunn - hinin,quilarsunn - hinin,[],,['chan2019'],,False,False,,1
+taju1238-1-29-1,,taju1238-1,29,quilarsunn - siɛrdoe,quilarsunn - siɛrdoe,[],,['chan2019'],,False,False,,1
+taju1238-1-30-1,,taju1238-1,30,quilar-tan,quilar-tan,[],,['chan2019'],,False,False,,1
+taju1238-1-40-1,,taju1238-1,40,quilar-hin,quilar-hin,[],,['chan2019'],,False,False,,1
+taju1238-1-50-1,,taju1238-1,50,quilar-hoom,quilar-hoom,[],,['chan2019'],,False,False,,1
+taju1238-1-60-1,,taju1238-1,60,quilar-ḿhon doe,quilar-ḿhon doe,[],,['chan2019'],,False,False,,1
+taju1238-1-70-1,,taju1238-1,70,quilar-ḿhon sunn,quilar-ḿhon sunn,[],,['chan2019'],,False,False,,1
+taju1238-1-80-1,,taju1238-1,80,quilar-hinin,quilar-hinin,[],,['chan2019'],,False,False,,1
+taju1238-1-90-1,,taju1238-1,90,quilar-siɛrdoe,quilar-siɛrdoe,[],,['chan2019'],,False,False,,1
+taju1238-1-100-1,,taju1238-1,100,kemann doe,kemann doe,[],,['chan2019'],,False,False,,1
+taju1238-1-200-1,,taju1238-1,200,kemann sunn,kemann sunn,[],,['chan2019'],,False,False,,1
+taju1238-1-1000-1,,taju1238-1,1000,wooluu doe,wooluu doe,[],,['chan2019'],,False,False,,1
+taju1238-1-2000-1,,taju1238-1,2000,wooluu sunn,wooluu sunn,[],,['chan2019'],,False,False,,1
