@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+awad1244-2-1-1,,awad1244-2,1,daseɡ,daseɡ,[],,['chan2019'],,False,False,,2
+awad1244-2-2-1,,awad1244-2,2,ruw,ruw,[],,['chan2019'],,False,False,,2
+awad1244-2-3-1,,awad1244-2,3,toul,toul,[],,['chan2019'],,False,False,,2
+awad1244-2-4-1,,awad1244-2,4,wahalbad,wahalbad,[],,['chan2019'],,False,False,,2
+awad1244-2-5-1,,awad1244-2,5,dimadbad,dimadbad,[],( lit: 'hand one' ),['chan2019'],,False,False,,2
+awad1244-2-6-1,,awad1244-2,6,dimad didiliy daseɡ,dimad didiliy daseɡ,[],,['chan2019'],,False,False,,2
+awad1244-2-7-1,,awad1244-2,7,dimad didiliy ruw,dimad didiliy ruw,[],,['chan2019'],,False,False,,2
+awad1244-2-8-1,,awad1244-2,8,dimad didiliy toul,dimad didiliy toul,[],,['chan2019'],,False,False,,2
+awad1244-2-9-1,,awad1244-2,9,dimad didiliy wahalbad,dimad didiliy wahalbad,[],,['chan2019'],,False,False,,2
+awad1244-2-10-1,,awad1244-2,10,dimad ruw,dimad ruw,[],( lit: 'hand two' ),['chan2019'],,False,False,,2
+awad1244-2-11-1,,awad1244-2,11,dimad ruw wiyed didiliy daseɡ,dimad ruw wiyed didiliy daseɡ,[],,['chan2019'],,False,False,,2
+awad1244-2-12-1,,awad1244-2,12,dimad ruw wiyed didiliy ruw,dimad ruw wiyed didiliy ruw,[],,['chan2019'],,False,False,,2
+awad1244-2-13-1,,awad1244-2,13,dimad ruw wiyed didiliy toul,dimad ruw wiyed didiliy toul,[],,['chan2019'],,False,False,,2
+awad1244-2-14-1,,awad1244-2,14,dimad ruw wiyed didiliy wahalbad,dimad ruw wiyed didiliy wahalbad,[],,['chan2019'],,False,False,,2
+awad1244-2-15-1,,awad1244-2,15,dimad ruw wiyed daseɡ,dimad ruw wiyed daseɡ,[],"(lit: 'hand one, and foot one')",['chan2019'],,False,False,,2
+awad1244-2-16-1,,awad1244-2,16,dimad ruw wiyed daseɡ didiliy daseɡ,dimad ruw wiyed daseɡ didiliy daseɡ,[],,['chan2019'],,False,False,,2
+awad1244-2-17-1,,awad1244-2,17,dimad ruw wiyed daseɡ didiliy ruw,dimad ruw wiyed daseɡ didiliy ruw,[],,['chan2019'],,False,False,,2
+awad1244-2-18-1,,awad1244-2,18,dimad ruw wiyed daseɡ didiliy toul,dimad ruw wiyed daseɡ didiliy toul,[],,['chan2019'],,False,False,,2
+awad1244-2-19-1,,awad1244-2,19,dimad ruw wiyed daseɡ didiliywahalbad,dimad ruw wiyed daseɡ didiliywahalbad,[],,['chan2019'],,False,False,,2
+awad1244-2-20-1,,awad1244-2,20,dimad ruw wiyed ruw,dimad ruw wiyed ruw,[],"(lit: 'hand two, foot two')",['chan2019'],,False,False,,2
+awad1244-2-21-1,,awad1244-2,21,tuwentiy wan,tuwentiy wan,[],,['chan2019'],,False,False,,2
+Awad1244-2-30-1,,awad1244-2,30,tətiy,30. tətiy,[],,['chan2019'],,False,False,,2
+Awad1244-2-40-1,,awad1244-2,40,fotiy,40. fotiy,[],,['chan2019'],,False,False,,2
+Awad1244-2-50-1,,awad1244-2,50,fifitiy,50. fifitiy,[],,['chan2019'],,False,False,,2
+Awad1244-2-60-1,,awad1244-2,60,sikistiy,60. sikistiy,[],,['chan2019'],,False,False,,2
+Awad1244-2-70-1,,awad1244-2,70,sebentiy,70. sebentiy,[],,['chan2019'],,False,False,,2
+Awad1244-2-80-1,,awad1244-2,80,eitiy,80. eitiy,[],,['chan2019'],,False,False,,2
+awad1244-2-90-1,,awad1244-2,90,naintiy,naintiy,[],,['chan2019'],,False,False,,2
+Awad1244-2-100-1,,awad1244-2,100,wan handed,100. wan handed,[],,['chan2019'],,False,False,,2
+Awad1244-2-200-1,,awad1244-2,200,tu handed,200. tu handed,[],,['chan2019'],,False,False,,2
+Awad1244-2-1000-1,,awad1244-2,1000,wan tausan,1000. wan tausan,[],,['chan2019'],,False,False,,2
+Awad1244-2-2000-1,,awad1244-2,2000,tu tausan,2000. tu tausan,[],,['chan2019'],,False,False,,2
