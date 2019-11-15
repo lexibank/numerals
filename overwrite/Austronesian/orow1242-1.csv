@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+orow1242-1-1-1,,orow1242-1,1,rakẽ,rakẽ,[],,['chan2019'],,False,False,,1
+orow1242-1-2-1,,orow1242-1,2,kẽaɾu,kẽaɾu,[],,['chan2019'],,False,False,,1
+orow1242-1-2-2,,orow1242-1,2,kẽʌhɾu,kẽʌhɾu,[],,['chan2019'],,False,False,,1
+orow1242-1-3-1,,orow1242-1,3,kẽɾeɾe,kẽɾeɾe,[],,['chan2019'],,False,False,,1
+orow1242-1-4-1,,orow1242-1,4,kẽvɛɛ,kẽvɛɛ,[],,['chan2019'],,False,False,,1
+orow1242-1-4-2,,orow1242-1,4,kẽvwɛ,kẽvwɛ,[],,['chan2019'],,False,False,,1
+orow1242-1-5-1,,orow1242-1,5,kẽnĩ,kẽnĩ,[],,['chan2019'],,False,False,,1
+orow1242-1-5-2,,orow1242-1,5,kẽni,kẽni,[],,['chan2019'],,False,False,,1
+orow1242-1-6-1,,orow1242-1,6,kẽnĩ mɛ rakẽ,kẽnĩ mɛ rakẽ,[],( 5 + 1 ),['chan2019'],,False,False,,1
+orow1242-1-7-1,,orow1242-1,7,kẽnĩ mɛ kẽaɾu,kẽnĩ mɛ kẽaɾu,[],( 5 + 2 ),['chan2019'],,False,False,,1
+orow1242-1-8-1,,orow1242-1,8,kẽnĩ mɛ kẽɾeɾe,kẽnĩ mɛ kẽɾeɾe,[],( 5 + 3 ),['chan2019'],,False,False,,1
+orow1242-1-9-1,,orow1242-1,9,kẽnĩ mɛ kẽvɛɛ,kẽnĩ mɛ kẽvɛɛ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+orow1242-1-10-1,,orow1242-1,10,kẽnĩ mɛ kẽnĩ,kẽnĩ mɛ kẽnĩ,[],( litː ' two hands' ),['chan2019'],,False,False,,1
+orow1242-1-11-1,,orow1242-1,11,pauru mɛ rakẽ,pauru mɛ rakẽ,[],,['chan2019'],,False,False,,1
+orow1242-1-12-1,,orow1242-1,12,pauru mɛ kẽʌhɾu,pauru mɛ kẽʌhɾu,[],,['chan2019'],,False,False,,1
+orow1242-1-13-1,,orow1242-1,13,pauru mɛ kẽɾeɾe,pauru mɛ kẽɾeɾe,[],,['chan2019'],,False,False,,1
+orow1242-1-14-1,,orow1242-1,14,pauru mɛ kẽvwɛ,pauru mɛ kẽvwɛ,[],,['chan2019'],,False,False,,1
+orow1242-1-15-1,,orow1242-1,15,pauru mɛ kẽni,pauru mɛ kẽni,[],,['chan2019'],,False,False,,1
+orow1242-1-16-1,,orow1242-1,16,pauru mɛ kẽni rake ,pauru mɛ kẽni rake *̃,[],,['chan2019'],,False,False,,1
+orow1242-1-17-1,,orow1242-1,17,pauru mɛ kẽni kẽʌhɾu,pauru mɛ kẽni kẽʌhɾu,[],,['chan2019'],,False,False,,1
+orow1242-1-18-1,,orow1242-1,18,pauru mɛ kẽni kẽɾeɾe,pauru mɛ kẽni kẽɾeɾe,[],,['chan2019'],,False,False,,1
+orow1242-1-19-1,,orow1242-1,19,pauru mɛ kẽni kẽvwɛ,pauru mɛ kẽni kẽvwɛ,[],,['chan2019'],,False,False,,1
+orow1242-1-20-1,,orow1242-1,20,raʔɔ,raʔɔ,[],,['chan2019'],,False,False,,1
+orow1242-1-20-2,,orow1242-1,20,rakẽ oː,rakẽ oː,[],,['chan2019'],,False,False,,1
+orow1242-1-30-1,,orow1242-1,30,rakẽ oː mɛ pauru,rakẽ oː mɛ pauru,[],,['chan2019'],,False,False,,1
+orow1242-1-40-1,,orow1242-1,40,kẽʌhɾu oː,kẽʌhɾu oː,[],( 2  x 20 ),['chan2019'],,False,False,,1
+orow1242-1-50-1,,orow1242-1,50,kẽʌhɾu oː mɛ pauru,kẽʌhɾu oː mɛ pauru,[],,['chan2019'],,False,False,,1
+orow1242-1-60-1,,orow1242-1,60,kẽɾeɾe oː,kẽɾeɾe oː,[],( 3  x 20 ),['chan2019'],,False,False,,1
+orow1242-1-70-1,,orow1242-1,70,kẽɾeɾe oː mɛ pauru,kẽɾeɾe oː mɛ pauru,[],,['chan2019'],,False,False,,1
+orow1242-1-80-1,,orow1242-1,80,kẽvwɛ oː,kẽvwɛ oː,[],( 4  x 20 ),['chan2019'],,False,False,,1
+orow1242-1-90-1,,orow1242-1,90,kẽvwɛ oː mɛ pauru,kẽvwɛ oː mɛ pauru,[],,['chan2019'],,False,False,,1
+orow1242-1-100-1,,orow1242-1,100,kẽni oː,kẽni oː,[],( 5  x 20 ),['chan2019'],,False,False,,1
