@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sher1258-1-1-1,,sher1258-1,1,bul,bul,[],,['chan2019'],,False,False,,1
+sher1258-1-2-1,,sher1258-1,2,tɪŋ,tɪŋ,[],,['chan2019'],,False,False,,1
+sher1258-1-3-1,,sher1258-1,3,ræ,ræ,[],,['chan2019'],,False,False,,1
+sher1258-1-4-1,,sher1258-1,4,hyo̠l,hyo̠l,[],(  o̠ = French ''au'' in ''aube'),['chan2019'],,False,False,,1
+sher1258-1-5-1,,sher1258-1,5,mɛn,mɛn,[],,['chan2019'],,False,False,,1
+sher1258-1-6-1,,sher1258-1,6,mɛn-buk,mɛn-buk,[],( 5 + 1 ),['chan2019'],,False,False,,1
+sher1258-1-7-1,,sher1258-1,7,mɛn-tɪŋ,mɛn-tɪŋ,[],( 5 + 2 ),['chan2019'],,False,False,,1
+sher1258-1-8-1,,sher1258-1,8,mɛn-ra,mɛn-ra,[],( 5 + 3 ),['chan2019'],,False,False,,1
+sher1258-1-9-1,,sher1258-1,9,mɛn-hyo̠l,mɛn-hyo̠l,[],( 5 + 4 ),['chan2019'],,False,False,,1
+sher1258-1-10-1,,sher1258-1,10,wāŋ,wāŋ,[],,['chan2019'],,False,False,,1
+sher1258-1-11-1,,sher1258-1,11,wāŋ ni bul,wāŋ ni bul,[],,['chan2019'],,False,False,,1
+sher1258-1-12-1,,sher1258-1,12,wāŋ ni tɪŋ,wāŋ ni tɪŋ,[],?,['chan2019'],,False,False,,1
+sher1258-1-13-1,,sher1258-1,13,wāŋ ni ræ,wāŋ ni ræ,[],?,['chan2019'],,False,False,,1
+sher1258-1-14-1,,sher1258-1,14,wāŋ ni hyo̠l,wāŋ ni hyo̠l,[],?,['chan2019'],,False,False,,1
+sher1258-1-15-1,,sher1258-1,15,wāŋ ni mɛn,wāŋ ni mɛn,[],,['chan2019'],,False,False,,1
+sher1258-1-16-1,,sher1258-1,16,wāŋ ni mɛn-buk,wāŋ ni mɛn-buk,[],?,['chan2019'],,False,False,,1
+sher1258-1-17-1,,sher1258-1,17,wāŋ ni mɛn-tɪŋ,wāŋ ni mɛn-tɪŋ,[],?,['chan2019'],,False,False,,1
+sher1258-1-18-1,,sher1258-1,18,wāŋ ni mɛn-ra,wāŋ ni mɛn-ra,[],?,['chan2019'],,False,False,,1
+sher1258-1-19-1,,sher1258-1,19,wāŋ ni mɛn-hyo̠l,wāŋ ni mɛn-hyo̠l,[],?,['chan2019'],,False,False,,1
+sher1258-1-20-1,,sher1258-1,20,kwono̠,kwono̠,[],( < koŋ õ no̠ ),['chan2019'],,False,False,,1
+sher1258-1-21-1,,sher1258-1,21,kwono ni bul,kwono ni bul,[],?,['chan2019'],,False,False,,1
+sher1258-1-30-1,,sher1258-1,30,kwono̠ ni wāŋ,kwono̠ ni wāŋ,[],( 20 + 10 ),['chan2019'],,False,False,,1
+sher1258-1-40-1,,sher1258-1,40,kwono̠ aña tɪŋ,kwono̠ aña tɪŋ,[],( 20 x  2 ),['chan2019'],,False,False,,1
+sher1258-1-50-1,,sher1258-1,50,kwono̠ aña tɪŋ ni wāŋ,kwono̠ aña tɪŋ ni wāŋ,[],,['chan2019'],,False,False,,1
+sher1258-1-60-1,,sher1258-1,60,kwono̠ ræ,kwono̠ ræ,[],,['chan2019'],,False,False,,1
+sher1258-1-70-1,,sher1258-1,70,kwono̠ ræ ni bul,kwono̠ ræ ni bul,[],,['chan2019'],,False,False,,1
+sher1258-1-80-1,,sher1258-1,80,kwono̠ hyo̠l,kwono̠ hyo̠l,[],,['chan2019'],,False,False,,1
+sher1258-1-90-1,,sher1258-1,90,kwono̠ hyo̠l ni bul,kwono̠ hyo̠l ni bul,[],,['chan2019'],,False,False,,1
+sher1258-1-100-1,,sher1258-1,100,ho̠ndrɛ̠d,ho̠ndrɛ̠d,[],( < English ''hundred'' ),['chan2019'],,True,False,,1
+sher1258-1-200-1,,sher1258-1,200,ho̠ndrɛ̠d tɪŋ,ho̠ndrɛ̠d tɪŋ,[],,['chan2019'],,False,False,,1
+sher1258-1-1000-1,,sher1258-1,1000,tawsin,tawsin,[],( < English ''thousand'' ),['chan2019'],,True,False,,1
+sher1258-1-2000-1,,sher1258-1,2000,tawsin tɪŋ,tawsin tɪŋ,[],,['chan2019'],,False,False,,1
