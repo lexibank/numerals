@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sanp1260-1-1-1,,sanp1260-1,1,nkwi⁵,nkwi⁵,[],,['chan2019'],,False,False,,1
+sanp1260-1-2-1,,sanp1260-1,2,we¹,we¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-3-1,,sanp1260-1,3,n¹dye³,n¹dye³,[],,['chan2019'],,False,False,,1
+sanp1260-1-4-1,,sanp1260-1,4,ñe¹nke³,ñe¹nke³,[],,['chan2019'],,False,False,,1
+sanp1260-1-5-1,,sanp1260-1,5,ˀon¹,ˀon¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-6-1,,sanp1260-1,6,yon¹,yon¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-7-1,,sanp1260-1,7,n¹tykeʼ³,n¹tykeʼ³,[],,['chan2019'],,False,False,,1
+sanp1260-1-8-1,,sanp1260-1,8,n¹ñe³,n¹ñe³,[],,['chan2019'],,False,False,,1
+sanp1260-1-9-1,,sanp1260-1,9,n¹ñje³,n¹ñje³,[],,['chan2019'],,False,False,,1
+sanp1260-1-10-1,,sanp1260-1,10,nki¹,nki¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-11-1,,sanp1260-1,11,nki¹ choʼ³ nkwi⁵,nki¹ choʼ³ nkwi⁵,[],,['chan2019'],,False,False,,1
+sanp1260-1-12-1,,sanp1260-1,12,nki¹ choʼ³ we¹,nki¹ choʼ³ we¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-13-1,,sanp1260-1,13,nki¹ choʼ³ n¹dye¹,nki¹ choʼ³ n¹dye¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-14-1,,sanp1260-1,14,nki¹ choʼ³ ñe¹nke³,nki¹ choʼ³ ñe¹nke³,[],,['chan2019'],,False,False,,1
+sanp1260-1-15-1,,sanp1260-1,15,nki¹ nʼo³,nki¹ nʼo³,[],,['chan2019'],,False,False,,1
+sanp1260-1-16-1,,sanp1260-1,16,nki¹ nʼo³ choʼ³ nkwi⁵,nki¹ nʼo³ choʼ³ nkwi⁵,[],( 15 + 1 ),['chan2019'],,False,False,,1
+sanp1260-1-17-1,,sanp1260-1,17,nki¹ nʼo³ choʼ³ we¹,nki¹ nʼo³ choʼ³ we¹,[],( 15 + 2 ),['chan2019'],,False,False,,1
+sanp1260-1-18-1,,sanp1260-1,18,nki¹ nʼo³ choʼ³ n¹dye¹,nki¹ nʼo³ choʼ³ n¹dye¹,[],( 15 + 3 ),['chan2019'],,False,False,,1
+sanp1260-1-19-1,,sanp1260-1,19,nki¹ nʼo³ choʼ³ñe¹nke³,nki¹ nʼo³ choʼ³ñe¹nke³,[],( 15 + 4 ),['chan2019'],,False,False,,1
+sanp1260-1-20-1,,sanp1260-1,20,n¹tykiu¹,n¹tykiu¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-30-1,,sanp1260-1,30,n¹tykiu¹ choʼ³ nki¹,n¹tykiu¹ choʼ³ nki¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-40-1,,sanp1260-1,40,we¹ nʼa³,we¹ nʼa³,[],( 2 x 20  ),['chan2019'],,False,False,,1
+sanp1260-1-50-1,,sanp1260-1,50,we¹ nʼa³ choʼ³ nki¹,we¹ nʼa³ choʼ³ nki¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-60-1,,sanp1260-1,60,n¹dye³ nʼa³,n¹dye³ nʼa³,[],( 3 x 20  ),['chan2019'],,False,False,,1
+sanp1260-1-70-1,,sanp1260-1,70,n¹dye³ nʼa³ choʼ³ nki¹,n¹dye³ nʼa³ choʼ³ nki¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-80-1,,sanp1260-1,80,ñe¹nke³ nʼa³,ñe¹nke³ nʼa³,[],( 3 x 20  ),['chan2019'],,False,False,,1
+sanp1260-1-90-1,,sanp1260-1,90,ñe¹nke³ nʼa³ choʼ³ nki¹,ñe¹nke³ nʼa³ choʼ³ nki¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-100-1,,sanp1260-1,100,ˀon¹ nʼa³,ˀon¹ nʼa³,[],( 5 x 20  ),['chan2019'],,False,False,,1
+sanp1260-1-100-2,,sanp1260-1,100,nkwi⁵ sie³nto¹,nkwi⁵ sie³nto¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-200-1,,sanp1260-1,200,we¹ sie³nto¹,we¹ sie³nto¹,[],,['chan2019'],,False,False,,1
+Sanp1260-1-400-1,,sanp1260-1,400,ñe¹nke³ sie³nto¹,400.ñe¹nke³ sie³nto¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-1000-1,,sanp1260-1,1000,nkwi⁵ me³¹,nkwi⁵ me³¹,[],,['chan2019'],,False,False,,1
+sanp1260-1-2000-1,,sanp1260-1,2000,we¹ me³¹,we¹ me³¹,[],,['chan2019'],,False,False,,1
