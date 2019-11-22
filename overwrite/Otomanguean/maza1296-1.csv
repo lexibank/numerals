@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+maza1296-1-1-1,,maza1296-1,1,n̥ɡu˧,n̥ɡu˧,[],,['chan2019'],,False,False,,1
+maza1296-1-2-1,,maza1296-1,2,ho˧,ho˧,[],,['chan2019'],,False,False,,1
+maza1296-1-3-1,,maza1296-1,3,hjã˥,hjã˥,[],,['chan2019'],,False,False,,1
+maza1296-1-4-1,,maza1296-1,4,ɲu˧hũ˧,ɲu˧hũ˧,[],,['chan2019'],,False,False,,1
+maza1296-1-5-1,,maza1296-1,5,ʔõw˧,ʔõw˧,[],,['chan2019'],,False,False,,1
+maza1296-1-6-1,,maza1296-1,6,hjõ˧,hjõ˧,[],,['chan2019'],,False,False,,1
+maza1296-1-7-1,,maza1296-1,7,ja˧tu˧,ja˧tu˧,[],,['chan2019'],,False,False,,1
+maza1296-1-8-1,,maza1296-1,8,hĩ˧,hĩ˧,[],,['chan2019'],,False,False,,1
+maza1296-1-9-1,,maza1296-1,9,ɲa˧.hã˧,ɲa˧.hã˧,[],,['chan2019'],,False,False,,1
+maza1296-1-10-1,,maza1296-1,10,tje˥,tje˥,[],,['chan2019'],,False,False,,1
+maza1296-1-11-1,,maza1296-1,11,te˧.n̥ɡu˧,te˧.n̥ɡu˧,[],,['chan2019'],,False,False,,1
+maza1296-1-12-1,,maza1296-1,12,te˧.ho˥,te˧.ho˥,[],,['chan2019'],,False,False,,1
+maza1296-1-13-1,,maza1296-1,13,te˧.hjã˥,te˧.hjã˥,[],,['chan2019'],,False,False,,1
+maza1296-1-14-1,,maza1296-1,14,te˧.ɲu˧hũ˧,te˧. ɲu˧hũ˧,[],,['chan2019'],,False,False,,1
+maza1296-1-15-1,,maza1296-1,15,tjõ˥,tjõ˥,[],,['chan2019'],,False,False,,1
+maza1296-1-16-1,,maza1296-1,16,tjõ˥.ŋɡu˧,tjõ˥.ŋɡu˧,[],(15+1),['chan2019'],,False,False,,1
+maza1296-1-17-1,,maza1296-1,17,tjõ˥.ho˥,tjõ˥.ho˥,[],(15+2),['chan2019'],,False,False,,1
+maza1296-1-18-1,,maza1296-1,18,tjõ˥.ʃjã˥,tjõ˥.ʃjã˥,[],(15+3),['chan2019'],,False,False,,1
+maza1296-1-19-1,,maza1296-1,19,tjõ˥.ɲu˧hũ˥,tjõ˥.ɲu˧hũ˥,[],(15+4),['chan2019'],,False,False,,1
+maza1296-1-20-1,,maza1296-1,20,kã˥,kã˥,[],,['chan2019'],,False,False,,1
+maza1296-1-21-1,,maza1296-1,21,kã˥.n̥ɡu˧,kã˥.n̥ɡu˧,[],,['chan2019'],,False,False,,1
+maza1296-1-22-1,,maza1296-1,22,kã˥.ho˧,kã˥.ho˧,[],,['chan2019'],,False,False,,1
+maza1296-1-23-1,,maza1296-1,23,kã˥.hjã˥,kã˥.hjã˥,[],,['chan2019'],,False,False,,1
+maza1296-1-24-1,,maza1296-1,24,kã˥.ɲu˧hũ˧,kã˥.ɲu˧hũ˧,[],,['chan2019'],,False,False,,1
+maza1296-1-25-1,,maza1296-1,25,kã˥.ʔõw˧,kã˥.ʔõw˧,[],,['chan2019'],,False,False,,1
+maza1296-1-26-1,,maza1296-1,26,kã˥.hjõ˧,kã˥.hjõ˧,[],,['chan2019'],,False,False,,1
+maza1296-1-27-1,,maza1296-1,27,kã˥.ja˧tu˧,kã˥.ja˧tu˧,[],,['chan2019'],,False,False,,1
+maza1296-1-28-1,,maza1296-1,28,kã˥.hĩ˧,kã˥.hĩ˧,[],,['chan2019'],,False,False,,1
+maza1296-1-29-1,,maza1296-1,29,kã˥.ɲa˧.hã˧,kã˥.ɲa˧.hã˧,[],,['chan2019'],,False,False,,1
+maza1296-1-30-1,,maza1296-1,30,ka˧.tje˥,ka˧.tje˥,[],(20+10),['chan2019'],,False,False,,1
+maza1296-1-40-1,,maza1296-1,40,ho˥.kã˧,ho˥.kã˧,[],(2 x 20),['chan2019'],,False,False,,1
+maza1296-1-50-1,,maza1296-1,50,ja˧.tʃa˥.tie˧,ja˧.tʃa˥.tie˧,[],,['chan2019'],,False,False,,1
+maza1296-1-60-1,,maza1296-1,60,ʃjã˥.kã˧,ʃjã˥.kã˧,[],(3 x 20),['chan2019'],,False,False,,1
+maza1296-1-70-1,,maza1296-1,70,ʃjã˥.kã˧ ku˩ tje˧,ʃjã˥.kã˧ ku˩ tje˧,[],(3 x 20+10 ),['chan2019'],,False,False,,1
+maza1296-1-80-1,,maza1296-1,80,ɲu˧hũ˧.kã˧,ɲu˧hũ˧.kã˧,[],(4 x 20 ),['chan2019'],,False,False,,1
+maza1296-1-90-1,,maza1296-1,90,ɲu˧hũ˧.kã˧ tje˧,ɲu˧hũ˧.kã˧ tje˧,[],(4 x 20+10),['chan2019'],,False,False,,1
+maza1296-1-100-1,,maza1296-1,100,sjen˥.tu˧,sjen˥.tu˧,[],< loanword from Spanish ,['chan2019'],,True,False,,1
+maza1296-1-200-1,,maza1296-1,200,ho˧ sjen˥.tu˧,ho˧ sjen˥.tu˧,[],,['chan2019'],,False,False,,1
+maza1296-1-1000-1,,maza1296-1,1000,mi˥,mi˥,[],< loanword from Spanish ,['chan2019'],,True,False,,1
+maza1296-1-2000-1,,maza1296-1,2000,ho˧ mi˧,ho˧ mi˧,[],,['chan2019'],,False,False,,1
