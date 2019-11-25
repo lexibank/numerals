@@ -1,0 +1,53 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+limo1250-1-1-1,,limo1250-1,1,ˈỹ,ˈỹ,[],(masc.),['chan2019'],,False,False,un,1
+limo1250-1-1-2,,limo1250-1,1,ˈynɔ,ˈynɔ,[],(fem.),['chan2019'],,False,False,una,1
+limo1250-1-2-1,,limo1250-1,2,ˈdu,ˈdu,[],(m.),['chan2019'],,False,False,dos,1
+limo1250-1-2-2,,limo1250-1,2,ˈdwa,ˈdwa,[],(f.),['chan2019'],,False,False,doas,1
+limo1250-1-3-1,,limo1250-1,3,ˈtɾej,ˈtɾej,[],,['chan2019'],,False,False,tres,1
+limo1250-1-4-1,,limo1250-1,4,ˈkatɾe,ˈkatɾe,[],,['chan2019'],,False,False,quatre,1
+limo1250-1-5-1,,limo1250-1,5,ˈʃĩ,ˈʃĩ,[],,['chan2019'],,False,False,cinc,1
+limo1250-1-6-1,,limo1250-1,6,ˈʃjej,ˈʃjej,[],,['chan2019'],,False,False,sieis,1
+limo1250-1-7-1,,limo1250-1,7,ˈʃe,ˈʃe,[],,['chan2019'],,False,False,sèt,1
+limo1250-1-8-1,,limo1250-1,8,ˈjɥe,ˈjɥe,[],,['chan2019'],,False,False,uech,1
+limo1250-1-9-1,,limo1250-1,9,ˈnɔu,ˈnɔu,[],,['chan2019'],,False,False,nòu,1
+limo1250-1-10-1,,limo1250-1,10,ˈde,ˈde,[],,['chan2019'],,False,False,detz,1
+limo1250-1-10-2,,limo1250-1,10,djɛ,djɛ,[],,['chan2019'],,False,False,detz,1
+limo1250-1-11-1,,limo1250-1,11,ˈũʒɛ,ˈũʒɛ,[],,['chan2019'],,False,False,onze,1
+limo1250-1-11-2,,limo1250-1,11,vũzɛ,vũzɛ,[],,['chan2019'],,False,False,onze,1
+limo1250-1-12-1,,limo1250-1,12,ˈdʊd͡zɛ,ˈdʊd͡zɛ,[],,['chan2019'],,False,False,dotze,1
+limo1250-1-13-1,,limo1250-1,13,ˈtɾɛd͡zɛ,ˈtɾɛd͡zɛ,[],,['chan2019'],,False,False,tretze,1
+limo1250-1-14-1,,limo1250-1,14,kaˈtɔrʒɛ,kaˈtɔrʒɛ,[],,['chan2019'],,False,False,quatorze,1
+limo1250-1-15-1,,limo1250-1,15,ˈkĩʒɛ,ˈkĩʒɛ,[],,['chan2019'],,False,False,quinze,1
+limo1250-1-16-1,,limo1250-1,16,ˈsɛd͡zɛ,ˈsɛd͡zɛ,[],,['chan2019'],,False,False,setze,1
+limo1250-1-17-1,,limo1250-1,17,deˈʃe,deˈʃe,[],,['chan2019'],,False,False,detz-sèt,1
+limo1250-1-17-2,,limo1250-1,17,dɔrɔˈʃe,dɔrɔˈʃe,[],,['chan2019'],,False,False,detz-sèt,1
+limo1250-1-18-1,,limo1250-1,18,deˈʒɥe,deˈʒɥe,[],,['chan2019'],,False,False,detz-uech,1
+limo1250-1-19-1,,limo1250-1,19,deʒeˈnɔw,deʒeˈnɔw,[],,['chan2019'],,False,False,detz-e-nòu,1
+limo1250-1-20-1,,limo1250-1,20,ˈvĩ,ˈvĩ,[],,['chan2019'],,False,False,vint,1
+limo1250-1-21-1,,limo1250-1,21,vintun,vintun,[],,['chan2019'],,False,False,,1
+limo1250-1-21-2,,limo1250-1,21,vĩˈtỹ,vĩˈtỹ,[],(masc.),['chan2019'],,False,False,vintun,1
+limo1250-1-21-3,,limo1250-1,21,ynɔ,ynɔ,[],(fem.),['chan2019'],,False,False,una,1
+limo1250-1-22-1,,limo1250-1,22,vint-e-dos,vint-e-dos,[],,['chan2019'],,False,False,,1
+limo1250-1-22-2,,limo1250-1,22,vĩtɛˈdu,vĩtɛˈdu,[],(m.),['chan2019'],,False,False,vint-e-dos,1
+limo1250-1-22-3,,limo1250-1,22,dwa,dwa,[],(f.),['chan2019'],,False,False,doas,1
+limo1250-1-23-1,,limo1250-1,23,vĩteˈtɾej,vĩteˈtɾej,[],,['chan2019'],,False,False,vint-e-tres,1
+limo1250-1-24-1,,limo1250-1,24,vĩteˈkatɾe,vĩteˈkatɾe,[],,['chan2019'],,False,False,vint-e-quatre,1
+limo1250-1-25-1,,limo1250-1,25,vĩteˈʃĩ,vĩteˈʃĩ,[],,['chan2019'],,False,False,vint-e-cinc,1
+limo1250-1-26-1,,limo1250-1,26,vĩteˈʃjej,vĩteˈʃjej,[],,['chan2019'],,False,False,vint-e-sieis,1
+limo1250-1-27-1,,limo1250-1,27,vĩteˈʃe,vĩteˈʃe,[],,['chan2019'],,False,False,vint-e-set,1
+limo1250-1-28-1,,limo1250-1,28,vĩteˈjɥe,vĩteˈjɥe,[],,['chan2019'],,False,False,vint-e-uech,1
+limo1250-1-29-1,,limo1250-1,29,vĩteˈnɔu,vĩteˈnɔu,[],,['chan2019'],,False,False,vint-e-nòu,1
+limo1250-1-30-1,,limo1250-1,30,ˈtɾɛ̃tɔ,ˈtɾɛ̃tɔ,[],,['chan2019'],,False,False,trenta,1
+limo1250-1-40-1,,limo1250-1,40,kaˈɾɔ̃tɔ,kaˈɾɔ̃tɔ,[],,['chan2019'],,False,False,quaranta,1
+limo1250-1-40-2,,limo1250-1,40,ˈkɾɔ̃tɔ,ˈkɾɔ̃tɔ,[],,['chan2019'],,False,False,quaranta,1
+limo1250-1-50-1,,limo1250-1,50,ʃĩˈkɔ̃tɔ,ʃĩˈkɔ̃tɔ,[],,['chan2019'],,False,False,cinquanta,1
+limo1250-1-60-1,,limo1250-1,60,ʃejˈʃɔ̃tɔ,ʃejˈʃɔ̃tɔ,[],,['chan2019'],,False,False,seissanta,1
+limo1250-1-70-1,,limo1250-1,70,ʃɛjʃɔ̃tɔˈde,ʃɛjʃɔ̃tɔˈde,[],(60 + 10),['chan2019'],,False,False,seissanta-detz,1
+limo1250-1-80-1,,limo1250-1,80,quatre-vints,quatre-vints,[],(4 x 20),['chan2019'],,False,False,,1
+limo1250-1-80-2,,limo1250-1,80,uechanta,uechanta,[],,['chan2019'],,False,False,,1
+limo1250-1-90-1,,limo1250-1,90,quatrevint-detz,quatrevint-detz,[],(80 + 10),['chan2019'],,False,False,,1
+limo1250-1-90-2,,limo1250-1,90,nonanta,nonanta,[],,['chan2019'],,False,False,,1
+limo1250-1-100-1,,limo1250-1,100,ˈʃẽ,ˈʃẽ,[],,['chan2019'],,False,False,cent,1
+limo1250-1-200-1,,limo1250-1,200,duˈʃẽ,duˈʃẽ,[],,['chan2019'],,False,False,dos cents,1
+limo1250-1-1000-1,,limo1250-1,1000,miˈlɔ,miˈlɔ,[],,['chan2019'],,False,False,mila,1
+limo1250-1-2000-1,,limo1250-1,2000,dumiˈlɔ,dumiˈlɔ,[],,['chan2019'],,False,False,dosmila,1
