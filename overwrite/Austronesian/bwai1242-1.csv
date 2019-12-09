@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bwai1242-1-1-1,,bwai1242-1,1,seyana,seyana,[],,['chan2019'],,False,False,,1
+bwai1242-1-2-1,,bwai1242-1,2,luwei,luwei,[],,['chan2019'],,False,False,,1
+bwai1242-1-3-1,,bwai1242-1,3,toiye,toiye,[],,['chan2019'],,False,False,,1
+bwai1242-1-4-1,,bwai1242-1,4,laufuli,laufuli,[],,['chan2019'],,False,False,,1
+bwai1242-1-5-1,,bwai1242-1,5,nimafafalina,nimafafalina (litː 'hand-it's side') or faivi,[],(litː 'hand-it's side'),['chan2019'],,False,False,,1
+bwai1242-1-5-2,,Bwai1242-1,5,faivi,,,,,,,False,,
+bwai1242-1-6-1,,bwai1242-1,6,nimafafalina seyana,nimafafalina seyana ( 5 + 1 ) or sikisi,[],( 5 + 1 ),['chan2019'],,False,False,,1
+bwai1242-1-6-2,,Bwai1242-1,6,sikisi,,,,,,,False,,
+bwai1242-1-7-1,,bwai1242-1,7,nimafafalina luwei,nimafafalina luwei ( 5 + 2 ) or seveni,[],( 5 + 2 ),['chan2019'],,False,False,,1
+bwai1242-1-7-2,,Bwai1242-1,7,seveni,,,,,,,False,,
+bwai1242-1-8-1,,bwai1242-1,8,nimafafalina toiye,nimafafalina toiye ( 5 + 3 ) or eita,[],( 5 + 3 ),['chan2019'],,False,False,,1
+bwai1242-1-8-2,,Bwai1242-1,8,eita,,,,,,,False,,
+bwai1242-1-9-1,,bwai1242-1,9,nimafafalina laufuli ,nimafafalina laufuli ( 5 + 4 ) or naeni,[],( 5 + 4 ) ,['chan2019'],,False,False,,1
+bwai1242-1-9-2,,Bwai1242-1,9,naeni,,,,,,,False,,
+bwai1242-1-10-1,,bwai1242-1,10,nimafafaliluɡa,nimafafaliluɡa (litː 'hand-it's side-two') or teni,[],(litː 'hand-it's side-two'),['chan2019'],,False,False,,1
+bwai1242-1-10-2,,Bwai1242-1,10,teni,,,,,,,False,,
+bwai1242-1-11-1,,bwai1242-1,11,Aɡe-seyana,aɡe-seyana (litː 'leg-one') or ileveni,[],(litː 'leg-one'),['chan2019'],,False,False,,1
+bwai1242-1-11-2,,Bwai1242-1,11,ileveni,,,,,,,False,,
+bwai1242-1-12-1,,bwai1242-1,12,Aɡe-luwei,aɡe-luwei or tuwelo,[],,['chan2019'],,False,False,,1
+bwai1242-1-12-2,,Bwai1242-1,12,tuwelo,,,,,,,False,,
+bwai1242-1-13-1,,bwai1242-1,13,Aɡe-toiye,aɡe-toiye or tetini,[],,['chan2019'],,False,False,,1
+bwai1242-1-13-2,,Bwai1242-1,13,tetini,,,,,,,False,,
+bwai1242-1-14-1,,bwai1242-1,14,Aɡe-laufuli,aɡe-laufuli or fotni,[],,['chan2019'],,False,False,,1
+bwai1242-1-14-2,,Bwai1242-1,14,fotni,,,,,,,False,,
+bwai1242-1-15-1,,bwai1242-1,15,aɡefafalifafali,aɡefafalifafali (litː 'leg-one') or fifitini,[],(litː 'leg-one'),['chan2019'],,False,False,,1
+bwai1242-1-15-2,,Bwai1242-1,15,fifitini,,,,,,,False,,
+bwai1242-1-16-1,,bwai1242-1,16,aɡefafali-aɡe-seyana,aɡefafali-aɡe-seyana,[],( litː 'leg-side-one'),['chan2019'],,False,False,,1
+bwai1242-1-17-1,,bwai1242-1,17,aɡefafali-aɡe-luwei,aɡefafali-aɡe-luwei,[],,['chan2019'],,False,False,,1
+bwai1242-1-18-1,,bwai1242-1,18,aɡefafali-aɡe-toiye,aɡefafali-aɡe-toiye,[],,['chan2019'],,False,False,,1
+bwai1242-1-19-1,,bwai1242-1,19,aɡefafali-aɡe-laufuli,aɡefafali-aɡe-laufuli,[],,['chan2019'],,False,False,,1
+bwai1242-1-20-1,,bwai1242-1,20,aɡefafaliɡa,aɡefafaliɡa (litː 'leg-side-two') or tuweniti,[],(litː 'leg-side-two'),['chan2019'],,False,False,,1
+bwai1242-1-20-2,,Bwai1242-1,20,tuweniti,,,,,,,False,,
