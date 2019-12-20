@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bamu1256-2-1-1,,bamu1256-2,1,mɔʔ,mɔʔ,[],L=Low,['chan2019'],,False,False,,2
+bamu1256-2-2-1,,bamu1256-2,2,buː,buː,[],RF = Rising-Falling,['chan2019'],,False,False,,2
+bamu1256-2-3-1,,bamu1256-2,3,tià,tià,[],F=Falling,['chan2019'],,False,False,,2
+bamu1256-2-4-1,,bamu1256-2,4,kʷi,kʷi,[],L=Low,['chan2019'],,False,False,,2
+bamu1256-2-5-1,,bamu1256-2,5,ta,ta,[],F=Falling,['chan2019'],,False,False,,2
+bamu1256-2-6-1,,bamu1256-2,6,ntʉ̀ʔ,ntʉ̀ʔ,[],F=Falling,['chan2019'],,False,False,,2
+bamu1256-2-7-1,,bamu1256-2,7,təkʷitia,təkʷitia,[],HHF = High High Falling, ( 4 + 3 ) ?,['chan2019'],,False,False,,2
+bamu1256-2-8-1,,bamu1256-2,8,fɔ̃,fɔ̃,[],R,['chan2019'],,False,False,,2
+bamu1256-2-9-1,,bamu1256-2,9,bɔmɔʔ,bɔmɔʔ,[],R, ( 10 - 1) ?,['chan2019'],,False,False,,2
+bamu1256-2-10-1,,bamu1256-2,10,wũ,wũ,[],L=Low,['chan2019'],,False,False,,2
+bamu1256-2-11-1,,bamu1256-2,11,dzuɔ,dzuɔ,[],,['chan2019'],,False,False,,2
+bamu1256-2-12-1,,bamu1256-2,12,dzuɔbuː,dzuɔbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-13-1,,bamu1256-2,13,dzuɔtia,dzuɔtia,[],,['chan2019'],,False,False,,2
+bamu1256-2-14-1,,bamu1256-2,14,dzuɔkʷi,dzuɔkʷi,[],,['chan2019'],,False,False,,2
+bamu1256-2-15-1,,bamu1256-2,15,dzuɔta,dzuɔta,[],,['chan2019'],,False,False,,2
+bamu1256-2-16-1,,bamu1256-2,16,dzuɔntʉʔ,dzuɔntʉʔ,[],,['chan2019'],,False,False,,2
+bamu1256-2-17-1,,bamu1256-2,17,dzuɔtəkʷitia,dzuɔtəkʷitia,[],,['chan2019'],,False,False,,2
+bamu1256-2-18-1,,bamu1256-2,18,dzuɔfɔ̃,dzuɔfɔ̃,[],,['chan2019'],,False,False,,2
+bamu1256-2-19-1,,bamu1256-2,19,dzuɔbɔmɔʔ,dzuɔbɔmɔʔ,[],,['chan2019'],,False,False,,2
+bamu1256-2-20-1,,bamu1256-2,20,wũbuː,wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-21-1,,bamu1256-2,21,dzuɔ nə wũbuː,dzuɔ nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-22-1,,bamu1256-2,22,dzuɔbuː nə wũbuː,dzuɔbuː nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-23-1,,bamu1256-2,23,dzuɔtia nə wũbuː,dzuɔtia nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-24-1,,bamu1256-2,24,dzuɔkʷi nə wũbuː,dzuɔkʷi nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-25-1,,bamu1256-2,25,dzuɔta nə wũbuː,dzuɔta nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-26-1,,bamu1256-2,26,dzuɔntʉʔ nə wũbuː,dzuɔntʉʔ nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-27-1,,bamu1256-2,27,dzuɔtəkʷitia nə wũbuː,dzuɔtəkʷitia nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-28-1,,bamu1256-2,28,dzuɔfɔ̃ nə wũbuː,dzuɔfɔ̃ nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-29-1,,bamu1256-2,29,dzuɔbɔmɔʔ nə wũbuː,dzuɔbɔmɔʔ nə wũbuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-30-1,,bamu1256-2,30,wũtia,wũtia,[],,['chan2019'],,False,False,,2
+bamu1256-2-40-1,,bamu1256-2,40,wũkʷi,wũkʷi,[],,['chan2019'],,False,False,,2
+bamu1256-2-50-1,,bamu1256-2,50,wũta,wũta,[],,['chan2019'],,False,False,,2
+bamu1256-2-60-1,,bamu1256-2,60,wũntʉʔ,wũntʉʔ,[],,['chan2019'],,False,False,,2
+bamu1256-2-70-1,,bamu1256-2,70,wũtəkʷitia,wũtəkʷitia,[],,['chan2019'],,False,False,,2
+bamu1256-2-80-1,,bamu1256-2,80,wũfɔ̃,wũfɔ̃,[],,['chan2019'],,False,False,,2
+bamu1256-2-90-1,,bamu1256-2,90,wũbɔmɔʔ,wũbɔmɔʔ,[],,['chan2019'],,False,False,,2
+bamu1256-2-100-1,,bamu1256-2,100,ɣʉ̝,ɣʉ̝,[],,['chan2019'],,False,False,,2
+bamu1256-2-200-1,,bamu1256-2,200,ɣʉ̝tə ibuː,ɣʉ̝tə ibuː,[],,['chan2019'],,False,False,,2
+bamu1256-2-1000-1,,bamu1256-2,1000,mbʉ ŋkɔ̃,mbʉ ŋkɔ̃,[],,['chan2019'],,False,False,,2
+bamu1256-2-2000-1,,bamu1256-2,2000,ŋkɔ̃hə ibu,ŋkɔ̃hə ibu,[],,['chan2019'],,False,False,,2
