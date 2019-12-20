@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+efik1245-1-1-1,,efik1245-1,1,kíét,kíét,[],,['chan2019'],,False,False,,1
+efik1245-1-2-1,,efik1245-1,2,íbá,íbá,[],,['chan2019'],,False,False,,1
+efik1245-1-3-1,,efik1245-1,3,ítá,ítá,[],,['chan2019'],,False,False,,1
+efik1245-1-4-1,,efik1245-1,4,ínáŋ,ínáŋ,[],,['chan2019'],,False,False,,1
+efik1245-1-5-1,,efik1245-1,5,ítíón,ítíón,[],,['chan2019'],,False,False,,1
+efik1245-1-6-1,,efik1245-1,6,ítíókíét,ítíókíét,[],< ítíón yé kíét ( 5+ 1 ),['chan2019'],,False,False,,1
+efik1245-1-7-1,,efik1245-1,7,ítíábá,ítíábá,[],< ítíón yé íbá ( 5+ 2 ),['chan2019'],,False,False,,1
+efik1245-1-8-1,,efik1245-1,8,ítíáitá,ítíáitá,[],< ítíón yé ítá ( 5+ 3 ),['chan2019'],,False,False,,1
+efik1245-1-9-1,,efik1245-1,9,úsúk-kíét,úsúk-kíét,[],(litː ''ten less one'' ),['chan2019'],,False,False,,1
+efik1245-1-10-1,,efik1245-1,10,dúóp,dúóp,[],,['chan2019'],,False,False,,1
+efik1245-1-11-1,,efik1245-1,11,dúóp ekíét,dúóp ekíét,[],( 10+ 1 ),['chan2019'],,False,False,,1
+efik1245-1-12-1,,efik1245-1,12,dúóp ebá,dúóp ebá,[],( 10+ 2 ),['chan2019'],,False,False,,1
+efik1245-1-13-1,,efik1245-1,13,dúóp étá,dúóp étá,[],( 10+ 3 ),['chan2019'],,False,False,,1
+efik1245-1-14-1,,efik1245-1,14,dúóp enáŋ,dúóp enáŋ,[],( 10+ 4 ),['chan2019'],,False,False,,1
+efik1245-1-15-1,,efik1245-1,15,éfít,éfít,[],,['chan2019'],,False,False,,1
+efik1245-1-16-1,,efik1245-1,16,éfít ékíét,éfít ékíét,[],( 15+ 1 ),['chan2019'],,False,False,,1
+efik1245-1-17-1,,efik1245-1,17,éfít éba,éfít éba,[],( 15+ 2 ),['chan2019'],,False,False,,1
+efik1245-1-18-1,,efik1245-1,18,éfít éta,éfít éta,[],( 15+ 3 ),['chan2019'],,False,False,,1
+efik1245-1-19-1,,efik1245-1,19,éfít enaŋ,éfít enaŋ,[],( 15+ 4 ),['chan2019'],,False,False,,1
+efik1245-1-20-1,,efik1245-1,20,édíp,édíp,[],,['chan2019'],,False,False,,1
+efik1245-1-21-1,,efik1245-1,21,édíp yé kíét,édíp yé kíét,[],,['chan2019'],,False,False,,1
+efik1245-1-22-1,,efik1245-1,22,édíp yé íbá,édíp yé íbá,[],,['chan2019'],,False,False,,1
+efik1245-1-23-1,,efik1245-1,23,édíp yé ítá,édíp yé ítá,[],,['chan2019'],,False,False,,1
+efik1245-1-24-1,,efik1245-1,24,édíp yé ínáŋ,édíp yé ínáŋ,[],,['chan2019'],,False,False,,1
+efik1245-1-25-1,,efik1245-1,25,édíp yé ítíón,édíp yé ítíón,[],,['chan2019'],,False,False,,1
+efik1245-1-26-1,,efik1245-1,26,édíp yé ítíókíét,édíp yé ítíókíét,[],,['chan2019'],,False,False,,1
+efik1245-1-27-1,,efik1245-1,27,édíp yé ítíábá,édíp yé ítíábá,[],,['chan2019'],,False,False,,1
+efik1245-1-28-1,,efik1245-1,28,édíp yé ítíáitá,édíp yé ítíáitá,[],,['chan2019'],,False,False,,1
+efik1245-1-29-1,,efik1245-1,29,édíp yé úsúkíét,édíp yé úsúkíét,[],,['chan2019'],,False,False,,1
+efik1245-1-30-1,,efik1245-1,30,édíp yé dúóp,édíp yé dúóp,[],,['chan2019'],,False,False,,1
+efik1245-1-40-1,,efik1245-1,40,àbà,àbà,[],( 2 x 2 x 10 ),['chan2019'],,False,False,,1
+efik1245-1-50-1,,efik1245-1,50,àbà yé dúóp,àbà yé dúóp,[],,['chan2019'],,False,False,,1
+efik1245-1-60-1,,efik1245-1,60,àtá,àtá,[],( 3 x 2 x 10 ),['chan2019'],,False,False,,1
+efik1245-1-70-1,,efik1245-1,70,àtá yé dúóp,àtá yé dúóp,[],,['chan2019'],,False,False,,1
+efik1245-1-80-1,,efik1245-1,80,ànàŋ,ànàŋ,[],( 4 x 2 x 10 ),['chan2019'],,False,False,,1
+efik1245-1-90-1,,efik1245-1,90,ànàŋ yé dúóp,ànàŋ yé dúóp,[],,['chan2019'],,False,False,,1
+efik1245-1-100-1,,efik1245-1,100,kíét,kíét,[],( < íkíé  1 x 10 x 10 ),['chan2019'],,False,False,,1
+efik1245-1-200-1,,efik1245-1,200,íkíé íbá,íkíé íbá,[],,['chan2019'],,False,False,,1
+efik1245-1-1000-1,,efik1245-1,1000,íkíé dúóp,íkíé dúóp,[],( < English ),['chan2019'],,True,False,,1
+efik1245-1-1000-2,,efik1245-1,1000,tɔ́sìn,tɔ́sìn,[],( < English ),['chan2019'],,True,False,,1
+efik1245-1-2000-1,,efik1245-1,2000,íkíé édíp,íkíé édíp,[],( 100 x 20 ),['chan2019'],,False,False,,1
+efik1245-1-2000-2,,efik1245-1,2000,tɔ́sìn íbá,tɔ́sìn íbá,[],,['chan2019'],,False,False,,1
