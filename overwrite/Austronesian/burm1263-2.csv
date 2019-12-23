@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+burm1263-2-1-1,,burm1263-2,1,soxa,soxa,[],,['chan2019'],,False,False,,2
+burm1263-2-2-1,,burm1263-2,2,e-ru,e-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-3-1,,burm1263-2,3,e-ter,e-ter,[],,['chan2019'],,False,False,,2
+burm1263-2-4-1,,burm1263-2,4,e-vet,e-vet,[],,['chan2019'],,False,False,,2
+burm1263-2-5-1,,burm1263-2,5,e-lim,e-lim,[],,['chan2019'],,False,False,,2
+burm1263-2-6-1,,burm1263-2,6,ma-roptes,ma-roptes,[],( 5 + 1 ),['chan2019'],,False,False,,2
+burm1263-2-7-1,,burm1263-2,7,ma-rov-ru,ma-rov-ru,[],( 5 + 2 ),['chan2019'],,False,False,,2
+burm1263-2-8-1,,burm1263-2,8,ma-ruv-ter,ma-ruv-ter,[],( 5 + 3 ),['chan2019'],,False,False,,2
+burm1263-2-9-1,,burm1263-2,9,ma-rope,ma-rope,[],( 5 + 4 ),['chan2019'],,False,False,,2
+burm1263-2-10-1,,burm1263-2,10,saŋavyr,saŋavyr,[],,['chan2019'],,False,False,,2
+burm1263-2-11-1,,burm1263-2,11,saŋavyr soxaⁿdro-mo-xte soxa,saŋavyr soxaⁿdro-mo-xte soxa,[],,['chan2019'],,False,False,,2
+burm1263-2-12-1,,burm1263-2,12,saŋavyr soxa ⁿdro-mo-xte e-ru,saŋavyr soxa ⁿdro-mo-xte e-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-13-1,,burm1263-2,13,saŋavyr soxa ⁿdro-mo-xte e-ter,saŋavyr soxa ⁿdro-mo-xte e-ter,[],,['chan2019'],,False,False,,2
+burm1263-2-14-1,,burm1263-2,14,saŋavyr soxa ⁿdro-mo-xte e-vet,saŋavyr soxa ⁿdro-mo-xte e-vet,[],,['chan2019'],,False,False,,2
+burm1263-2-15-1,,burm1263-2,15,saŋavyr soxa ⁿdro-mo-xte e-lim,saŋavyr soxa ⁿdro-mo-xte e-lim,[],,['chan2019'],,False,False,,2
+burm1263-2-16-1,,burm1263-2,16,saŋavyr soxa ⁿdro-mo-xte ma-roptes,saŋavyr soxa ⁿdro-mo-xte ma-roptes,[],,['chan2019'],,False,False,,2
+burm1263-2-17-1,,burm1263-2,17,saŋavyr soxa ⁿdro-mo-xte ma-rov-ru,saŋavyr soxa ⁿdro-mo-xte ma-rov-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-18-1,,burm1263-2,18,saŋavyr soxa ⁿdro-mo-xte ma-ruv-ter,saŋavyr soxa ⁿdro-mo-xte ma-ruv-ter,[],,['chan2019'],,False,False,,2
+burm1263-2-19-1,,burm1263-2,19,saŋavyr soxa ⁿdro-mo-xte ma-rope,saŋavyr soxa ⁿdro-mo-xte ma-rope,[],,['chan2019'],,False,False,,2
+burm1263-2-20-1,,burm1263-2,20,saŋavyr e-ru,saŋavyr e-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-21-1,,burm1263-2,21,saŋavyr e-ru ⁿdro-mo-xte soxa,saŋavyr e-ru ⁿdro-mo-xte soxa,[],,['chan2019'],,False,False,,2
+burm1263-2-22-1,,burm1263-2,22,saŋavyr e-ru ⁿdro-mo-xte e-ru,saŋavyr e-ru ⁿdro-mo-xte e-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-23-1,,burm1263-2,23,saŋavyr e-ru ⁿdro-mo-xte e-ter,saŋavyr e-ru ⁿdro-mo-xte e-ter,[],,['chan2019'],,False,False,,2
+burm1263-2-24-1,,burm1263-2,24,saŋavyr e-ru ⁿdro-mo-xte e-vet,saŋavyr e-ru ⁿdro-mo-xte e-vet,[],,['chan2019'],,False,False,,2
+burm1263-2-25-1,,burm1263-2,25,saŋavyr e-ru ⁿdro-mo-xte e-lim,saŋavyr e-ru ⁿdro-mo-xte e-lim,[],,['chan2019'],,False,False,,2
+burm1263-2-26-1,,burm1263-2,26,saŋavyr e-ru ⁿdro-mo-xte ma-roptes,saŋavyr e-ru ⁿdro-mo-xte ma-roptes,[],,['chan2019'],,False,False,,2
+burm1263-2-27-1,,burm1263-2,27,saŋavyr e-ru ⁿdro-mo-xte ma-rov-ru,saŋavyr e-ru ⁿdro-mo-xte ma-rov-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-28-1,,burm1263-2,28,saŋavyr e-ru ⁿdro-mo-xte ma-ruv-ter,saŋavyr e-ru ⁿdro-mo-xte ma-ruv-ter,[],,['chan2019'],,False,False,,2
+burm1263-2-29-1,,burm1263-2,29,saŋavyr e-ru ⁿdro-mo-xte ma-rope,saŋavyr e-ru ⁿdro-mo-xte ma-rope,[],,['chan2019'],,False,False,,2
+burm1263-2-30-1,,burm1263-2,30,saŋavyr e-ter,saŋavyr e-ter,[],,['chan2019'],,False,False,,2
+burm1263-2-40-1,,burm1263-2,40,saŋavyr e-vet,saŋavyr e-vet,[],,['chan2019'],,False,False,,2
+burm1263-2-50-1,,burm1263-2,50,saŋavyr e-lim,saŋavyr e-lim,[],,['chan2019'],,False,False,,2
+burm1263-2-60-1,,burm1263-2,60,saŋavyr ma-roptes,saŋavyr ma-roptes,[],,['chan2019'],,False,False,,2
+burm1263-2-70-1,,burm1263-2,70,saŋavyr ma-rov-ru,saŋavyr ma-rov-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-80-1,,burm1263-2,80,saŋavyr ma-ruv-ter,saŋavyr ma-ruv-ter,[],,['chan2019'],,False,False,,2
+burm1263-2-90-1,,burm1263-2,90,saŋavyr ma-rope,saŋavyr ma-rope,[],,['chan2019'],,False,False,,2
+burm1263-2-100-1,,burm1263-2,100,mo-ŋot vaxa-soxa,mo-ŋot vaxa-soxa,[],,['chan2019'],,False,False,,2
+burm1263-2-200-1,,burm1263-2,200,mo-ŋot vaxa-ru,mo-ŋot vaxa-ru,[],,['chan2019'],,False,False,,2
+burm1263-2-1000-1,,burm1263-2,1000,mo-ŋot sar-soxa ,mo-ŋot sar-soxa ?,[],?,['chan2019'],,False,True,,2
+burm1263-2-2000-1,,burm1263-2,2000,mo-ŋot vaxa-ru ,mo-ŋot vaxa-ru ?,[],?,['chan2019'],,False,True,,2

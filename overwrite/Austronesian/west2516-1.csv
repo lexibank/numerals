@@ -1,0 +1,35 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+west2516-1-1-1,,west2516-1,1,tahi,tahi,[],,['chan2019'],,False,False,,1
+west2516-1-2-1,,west2516-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+west2516-1-3-1,,west2516-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+west2516-1-4-1,,west2516-1,4,faː,faː,[],,['chan2019'],,False,False,,1
+west2516-1-5-1,,west2516-1,5,lima,lima,[],( lit: 'hand'),['chan2019'],,False,False,,1
+west2516-1-6-1,,west2516-1,6,tahi hona tupu,tahi hona tupu,[],(lit: 'tupu' means 'sum') ( 1+ 5 ),['chan2019'],,False,False,,1
+west2516-1-7-1,,west2516-1,7,lua hona tupu,lua hona tupu,[],( 2+ 5 ),['chan2019'],,False,False,,1
+west2516-1-8-1,,west2516-1,8,tolu hona tupu,tolu hona tupu,[],( 3+ 5 ),['chan2019'],,False,False,,1
+west2516-1-9-1,,west2516-1,9,fa: hona tupu,fa: hona tupu,[],( 4+ 5 ),['chan2019'],,False,False,,1
+west2516-1-10-1,,west2516-1,10,lua a lima,lua a lima,[],( lit: 'two hands'),['chan2019'],,False,False,,1
+west2516-1-11-1,,west2516-1,11,lua a lima ma tahi,lua a lima ma tahi,[],,['chan2019'],,False,False,,1
+west2516-1-11-2,,west2516-1,11,tahi a koje,tahi a koje,[],( Archaic form),['chan2019'],,False,False,,1
+west2516-1-12-1,,west2516-1,12,lua a lima ma lua,lua a lima ma lua,[],,['chan2019'],,False,False,,1
+west2516-1-12-2,,west2516-1,12,lua a koje,lua a koje,[],,['chan2019'],,False,False,,1
+west2516-1-13-1,,west2516-1,13,lua a lima ma tolu,lua a lima ma tolu,[],,['chan2019'],,False,False,,1
+west2516-1-13-2,,west2516-1,13,tolu a koje,tolu a koje,[],,['chan2019'],,False,False,,1
+west2516-1-14-1,,west2516-1,14,lua a lima ma fa:,lua a lima ma fa:,[],,['chan2019'],,False,False,,1
+west2516-1-14-2,,west2516-1,14,fa: a koje,fa: a koje,[],,['chan2019'],,False,False,,1
+west2516-1-15-1,,west2516-1,15,lua a lima ma lima,lua a lima ma lima,[],,['chan2019'],,False,False,,1
+west2516-1-15-2,,west2516-1,15,lima a koje,lima a koje,[],,['chan2019'],,False,False,,1
+west2516-1-16-1,,west2516-1,16,lua a lima ma tahi hona tupu,lua a lima ma tahi hona tupu,[],,['chan2019'],,False,False,,1
+west2516-1-16-2,,west2516-1,16,tahi a hano,tahi a hano,[],,['chan2019'],,False,False,,1
+west2516-1-17-1,,west2516-1,17,lua a lima ma lua hona tupu,lua a lima ma lua hona tupu,[],,['chan2019'],,False,False,,1
+west2516-1-17-2,,west2516-1,17,lua a hano,lua a hano,[],,['chan2019'],,False,False,,1
+west2516-1-18-1,,west2516-1,18,lua a lima ma tolu hona tupu,lua a lima ma tolu hona tupu,[],,['chan2019'],,False,False,,1
+west2516-1-18-2,,west2516-1,18,tolu a hano,tolu a hano,[],,['chan2019'],,False,False,,1
+west2516-1-19-1,,west2516-1,19,lua a lima ma fa: hona tupu,lua a lima ma fa: hona tupu,[],,['chan2019'],,False,False,,1
+west2516-1-19-2,,west2516-1,19,fa: a hano,fa: a hano,[],,['chan2019'],,False,False,,1
+west2516-1-20-1,,west2516-1,20,tahi a teenua,tahi a teenua,[],,['chan2019'],,False,False,,1
+west2516-1-20-2,,west2516-1,20,tahi enea,tahi enea,[],,['chan2019'],,False,False,,1
+West2516-1-40-1,,west2516-1,40,lua a teenua,40. lua a teenua,[],,['chan2019'],,False,False,,1
+west2516-1-20-4,,west2516-1,20,lua enea,lua enea,[],,['chan2019'],,False,False,,1
+West2516-1-100-1,,west2516-1,100,lima a teenua,100. lima a teenua,[],,['chan2019'],,False,False,,1
+west2516-1-20-6,,west2516-1,20,lima enea,lima enea,[],,['chan2019'],,False,False,,1

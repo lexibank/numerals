@@ -1,0 +1,26 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+caac1237-1-1-1,,caac1237-1,1,ʃec or,ʃec or,[],[t͡ʃec] ?,['chan2019'],,False,False,chec,1
+caac1237-1-1-2,,caac1237-1,1,jɛc ,jɛc ??,[],??,['chan2019'],,False,False,-yec,1
+caac1237-1-2-1,,caac1237-1,2,he ruː ,he ruː ??,[],??,['chan2019'],,False,False,he ruu,1
+caac1237-1-3-1,,caac1237-1,3,he cin,he cin [he cin] ?? c = palatal stop ?,[],??,['chan2019'],,False,False,,1
+caac1237-1-4-1,,caac1237-1,4,pac,pac,[],,['chan2019'],,False,False,he pac,1
+caac1237-1-5-1,,caac1237-1,5,he nim,he nim,[],,['chan2019'],,False,False,,1
+caac1237-1-6-1,,caac1237-1,6,he niyec,he niyec,[],( 5 + 1 ),['chan2019'],,False,False,,1
+caac1237-1-7-1,,caac1237-1,7,he nidu,he nidu,[],( 5 + 2 ),['chan2019'],,False,False,,1
+caac1237-1-8-1,,caac1237-1,8,he nijin ,he nijin ( 5 + 3 ) j = [j] or [ɟ] ??,[],?? ( 5 + 3 ),['chan2019'],,False,False,,1
+caac1237-1-9-1,,caac1237-1,9,he nim pac,he nim pac,[],( 5 + 4 ),['chan2019'],,False,False,,1
+caac1237-1-10-1,,caac1237-1,10,pʰaidu ,pʰaidu ?,[],? ( litː 'two hands' ),['chan2019'],,False,False,phaidu,1
+caac1237-1-11-1,,caac1237-1,11,phaidu bwan he yec,phaidu bwan he yec,[],,['chan2019'],,False,False,,1
+caac1237-1-12-1,,caac1237-1,12,phaidu bwan he ruu,phaidu bwan he ruu,[],,['chan2019'],,False,False,,1
+caac1237-1-13-1,,caac1237-1,13,phaidu bwan he cin,phaidu bwan he cin,[],,['chan2019'],,False,False,,1
+caac1237-1-14-1,,caac1237-1,14,phaidu bwan he pac,phaidu bwan he pac,[],,['chan2019'],,False,False,,1
+caac1237-1-15-1,,caac1237-1,15,phaidu bwan he nim,phaidu bwan he nim,[],,['chan2019'],,False,False,,1
+caac1237-1-20-1,,caac1237-1,20,he ye ãc,he ye ãc,[],(lit: ''ãc = 'person''),['chan2019'],,False,False,,1
+caac1237-1-30-1,,caac1237-1,30,he ye ãc phaidu,he ye ãc phaidu ??,[],??,['chan2019'],,False,False,,1
+caac1237-1-40-1,,caac1237-1,40,he ru ãc,he ru ãc,[],(lit: ''two persons''),['chan2019'],,False,False,,1
+caac1237-1-50-1,,caac1237-1,50,he ru ãc phaidu ,he ru ãc phaidu ??,[],??,['chan2019'],,False,False,,1
+caac1237-1-60-1,,caac1237-1,60,he cin ãc,he cin ãc ??,[],??,['chan2019'],,False,False,,1
+caac1237-1-70-1,,caac1237-1,70,he cin ãc phaidu,he cin ãc phaidu ??,[],??,['chan2019'],,False,False,,1
+caac1237-1-80-1,,caac1237-1,80,he pac ãc ,he pac ãc ??,[],??,['chan2019'],,False,False,,1
+caac1237-1-90-1,,caac1237-1,90,he pac ãc phaidu ,he pac ãc phaidu ??,[],??,['chan2019'],,False,False,,1
+caac1237-1-100-1,,caac1237-1,100,he nim ãc,he nim ãc,[],(lit: ''five persons''),['chan2019'],,False,False,,1
