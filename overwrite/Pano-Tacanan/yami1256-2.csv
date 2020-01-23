@@ -1,0 +1,9 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yami1256-2-1-1,,yami1256-2,1,fisti,fisti,[],,['chan2019'],,False,False,,2
+yami1256-2-2-1,,yami1256-2,2,rafe,rafe,[],,['chan2019'],,False,False,,2
+yami1256-2-3-1,,yami1256-2,3,rafe nõ fisti,rafe nõ fisti,[],( 2 + 1 ),['chan2019'],,False,False,,2
+yami1256-2-4-1,,yami1256-2,4,rafe nõ rafe,rafe nõ rafe,[],( 2 + 2 ),['chan2019'],,False,False,,2
+yami1256-2-5-1,,yami1256-2,5,mẽke,mẽke or mẽketii,[],(litː ''mẽke''= hand),['chan2019'],,False,False,,2
+yami1256-2-5-2,,Yami1256-2,5,mẽketii,,,,,,,False,,
+yami1256-2-10-1,,yami1256-2,10,mẽke rafetii,mẽke rafe or mẽke rafetii,[],( litː 'two hands''),['chan2019'],,False,False,,2
+yami1256-2-10-2,,Yami1256-2,10,mẽke rafe,,,,,,,False,,
