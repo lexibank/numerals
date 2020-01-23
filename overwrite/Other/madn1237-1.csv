@@ -1,0 +1,6 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+madn1237-1-1-1,,madn1237-1,1,nembiyu,nembiyu,[],(= one),['chan2019'],,False,False,,1
+madn1237-1-2-1,,madn1237-1,2,kurruentyuyu,kurruentyuyu,[],(= two),['chan2019'],,False,False,,1
+madn1237-1-3-1,,madn1237-1,3,kurruentyuyunembiyu,kurruentyuyunembiyu,[],(= three),['chan2019'],,False,False,,1
+madn1237-1-4-1,,madn1237-1,4,kurruentyuyukurruentyuyu,kurruentyuyukurruentyuyu,[],(= four),['chan2019'],,False,False,,1
+madn1237-1-5-1,,madn1237-1,5,memeknemberre,memeknemberre,[],(= five, literally: ‘hand’ + other ‘side’),['chan2019'],,False,False,,1

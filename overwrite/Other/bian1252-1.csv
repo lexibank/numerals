@@ -1,0 +1,20 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bian1252-1-1-1,,bian1252-1,1,nak,nak,[],(litː ''one''),['chan2019'],,False,False,,1
+bian1252-1-1-2,,bian1252-1,1,wame-nak,wame-nak,[],(litː ''only / just one''),['chan2019'],,False,False,,1
+bian1252-1-2-1,,bian1252-1,2,na-yau,na-yau,[],,['chan2019'],,False,False,,1
+bian1252-1-3-1,,bian1252-1,3,nayau ga nak,nayau ga nak,[],(litː ''two and one'' ),['chan2019'],,False,False,,1
+bian1252-1-4-1,,bian1252-1,4,manga-bek-tau no,manga-bek-tau no,[],(lit: five minus one''),['chan2019'],,False,False,,1
+bian1252-1-5-1,,bian1252-1,5,mele na zik,mele na zik,[],(litː ''hand one'' ),['chan2019'],,False,False,,1
+bian1252-1-6-1,,bian1252-1,6,mele na zik nak,mele na zik nak,[],,['chan2019'],,False,False,,1
+bian1252-1-7-1,,bian1252-1,7,mele na zik nayau,mele na zik nayau,[],,['chan2019'],,False,False,,1
+bian1252-1-8-1,,bian1252-1,8,mele na zik nayau ga nak,mele na zik nayau ga nak,[],,['chan2019'],,False,False,,1
+bian1252-1-9-1,,bian1252-1,9,mele na zik manga-bek-tau no,mele na zik manga-bek-tau no,[],,['chan2019'],,False,False,,1
+bian1252-1-10-1,,bian1252-1,10,mele yau,mele yau,[],(litː ''hands two'' ),['chan2019'],,False,False,,1
+bian1252-1-11-1,,bian1252-1,11,mele yau keya pongo inge na-zik ka nak,mele yau keya pongo inge na-zik ka nak,[],,['chan2019'],,False,False,,1
+bian1252-1-15-1,,bian1252-1,15,mele yau keya pongo inge nz-zik keya mangobektau,mele yau keya pongo inge nz-zik keya mangobektau,[],,['chan2019'],,False,False,,1
+bian1252-1-20-1,,bian1252-1,20,mele yau keya pongo inge na-zik-ka nazik-ka mangobektau,mele yau keya pongo inge na-zik-ka nazik-ka mangobektau,[],,['chan2019'],,False,False,,1
+bian1252-1-20-2,,bian1252-1,20,yompu nak,yompu nak,[],,['chan2019'],,False,False,,1
+bian1252-1-40-1,,bian1252-1,40,yompu nayau,yompu nayau,[],,['chan2019'],,False,False,,1
+bian1252-1-60-1,,bian1252-1,60,jombunajauganak,jombunajauganak,[],,['chan2019'],,False,False,yompu nayauganak,1
+bian1252-1-80-1,,bian1252-1,80,yompu manga-bek-tau-no,yompu manga-bek-tau-no,[],,['chan2019'],,False,False,,1
+bian1252-1-100-1,,bian1252-1,100,yompu mele na-zik,yompu mele na-zik,[],,['chan2019'],,False,False,,1
