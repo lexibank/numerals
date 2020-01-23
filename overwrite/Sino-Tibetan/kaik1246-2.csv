@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kaik1246-2-1-1,,kaik1246-2,1,tiː,tiː,[],,['chan2019'],,False,False,,2
+kaik1246-2-2-1,,kaik1246-2,2,nye,nye,[],,['chan2019'],,False,False,,2
+kaik1246-2-3-1,,kaik1246-2,3,sum,sum,[],,['chan2019'],,False,False,,2
+kaik1246-2-4-1,,kaik1246-2,4,li,li,[],,['chan2019'],,False,False,,2
+kaik1246-2-5-1,,kaik1246-2,5,ŋā,ŋā,[],,['chan2019'],,False,False,,2
+kaik1246-2-6-1,,kaik1246-2,6,ru,ru,[],,['chan2019'],,False,False,,2
+kaik1246-2-7-1,,kaik1246-2,7,ne,ne,[],,['chan2019'],,False,False,,2
+kaik1246-2-8-1,,kaik1246-2,8,kyeː,kyeː,[],,['chan2019'],,False,False,,2
+kaik1246-2-9-1,,kaik1246-2,9,ɡu,ɡu,[],,['chan2019'],,False,False,,2
+kaik1246-2-10-1,,kaik1246-2,10,cyu,cyu,[],,['chan2019'],,False,False,,2
+kaik1246-2-11-1,,kaik1246-2,11,cyu-tiː,cyu-tiː,[],,['chan2019'],,False,False,,2
+kaik1246-2-12-1,,kaik1246-2,12,cyo-nye,cyo-nye,[],,['chan2019'],,False,False,,2
+kaik1246-2-13-1,,kaik1246-2,13,cyu-sum,cyu-sum,[],,['chan2019'],,False,False,,2
+kaik1246-2-14-1,,kaik1246-2,14,cyul-li,cyul-li,[],,['chan2019'],,False,False,,2
+kaik1246-2-15-1,,kaik1246-2,15,cyor-ŋā,cyor-ŋā,[],,['chan2019'],,False,False,,2
+kaik1246-2-16-1,,kaik1246-2,16,cyuː-ruː,cyuː-ruː,[],,['chan2019'],,False,False,,2
+kaik1246-2-17-1,,kaik1246-2,17,cyon-ne,cyon-ne,[],,['chan2019'],,False,False,,2
+kaik1246-2-18-1,,kaik1246-2,18,cyor-kyeː,cyor-kyeː,[],,['chan2019'],,False,False,,2
+kaik1246-2-19-1,,kaik1246-2,19,cyur-ɡu,cyur-ɡu,[],,['chan2019'],,False,False,,2
+kaik1246-2-20-1,,kaik1246-2,20,nicyu,nicyu or tiːthal,[],,['chan2019'],,False,False,,2
+kaik1246-2-20-2,,Kaik1246-2,20,tiːthal,,,,,,,False,,
+kaik1246-2-30-1,,kaik1246-2,30,Sum-cyu,sum-cyu or nyi-cyu ri cyu,[],( less often),['chan2019'],,False,False,,2
+kaik1246-2-30-2,,Kaik1246-2,30,nyi-cyu ri cyu,,,,,,,False,,
+kaik1246-2-40-1,,kaik1246-2,40,nye-thal,nye-thal,[],,['chan2019'],,False,False,,2
+kaik1246-2-50-1,,kaik1246-2,50,pherāŋ sum-thal,pherāŋ sum-thal or nye-thal ri cyu,[],,['chan2019'],,False,False,,2
+kaik1246-2-50-2,,Kaik1246-2,50,nye-thal ri cyu,,,,,,,False,,
+kaik1246-2-60-1,,kaik1246-2,60,sum-thal,sum-thal,[],,['chan2019'],,False,False,,2
+kaik1246-2-70-1,,kaik1246-2,70,pherāŋ li-thal,pherāŋ li-thal,[],( 80 -10 ?),['chan2019'],,False,False,,2
+kaik1246-2-80-1,,kaik1246-2,80,li-thal,li-thal,[],,['chan2019'],,False,False,,2
+kaik1246-2-90-1,,kaik1246-2,90,pherāŋ ŋā-thal,pherāŋ ŋā-thal,[],( 100 -10 ?),['chan2019'],,False,False,,2
+kaik1246-2-100-1,,kaik1246-2,100,ŋā-thal,ŋā-thal or kyāmā tiː,[],,['chan2019'],,False,False,,2
+kaik1246-2-100-2,,Kaik1246-2,100,kyāmā tiː,,,,,,,False,,
+kaik1246-2-200-1,,kaik1246-2,200,kyāmā tiː ,kyāmā tiː or cyu-thal,[],,['chan2019'],,False,False,,2
+kaik1246-2-200-2,,Kaik1246-2,200,cyu-thal,,,,,,,False,,
+kaik1246-2-1000-1,,kaik1246-2,1000,kyāmā cyu,kyāmā cyu or hajār tiː,[],,['chan2019'],,False,False,,2
+kaik1246-2-1000-2,,Kaik1246-2,1000,hajār tiː,,,,,,,False,,
+kaik1246-2-2000-1,,kaik1246-2,2000,kyāmā nyi-cyu,kyāmā nyi-cyu or hajār nye,[],,['chan2019'],,False,False,,2
+kaik1246-2-2000-2,,Kaik1246-1,2000,hajār nye,,,,,,,,,

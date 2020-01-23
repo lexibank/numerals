@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+garo1247-1-1-1,,garo1247-1,1,sa,sa,[],( A'chik dialect),['chan2019'],,False,False,,1
+garo1247-1-2-1,,garo1247-1,2,ɡin-i,ɡin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-2-2,,garo1247-1,2,ɡin-iŋ,ɡin-iŋ ~ɡin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-3-1,,garo1247-1,3,ɡit-tam,ɡit-tam,[],,['chan2019'],,False,False,,1
+garo1247-1-4-1,,garo1247-1,4,bri,bri,[],,['chan2019'],,False,False,,1
+garo1247-1-5-1,,garo1247-1,5,boŋ-a,boŋ-a,[],,['chan2019'],,False,False,,1
+garo1247-1-5-2,,garo1247-1,5,biŋ-a,biŋ-a,[],,['chan2019'],,False,False,,1
+garo1247-1-6-1,,garo1247-1,6,dok,dok,[],,['chan2019'],,False,False,,1
+garo1247-1-7-1,,garo1247-1,7,sin-i,sin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-8-1,,garo1247-1,8,chet,chet,[],( ch = tʃ),['chan2019'],,False,False,,1
+garo1247-1-9-1,,garo1247-1,9,sku,sku,[],,['chan2019'],,False,False,,1
+garo1247-1-10-1,,garo1247-1,10,chi-kiŋ,chi-kiŋ,[],,['chan2019'],,False,False,,1
+garo1247-1-11-1,,garo1247-1,11,chi-sa,chi-sa,[],,['chan2019'],,False,False,,1
+garo1247-1-12-1,,garo1247-1,12,chi-ɡin-i,chi-ɡin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-13-1,,garo1247-1,13,chi-git-tam,chi-git-tam,[],,['chan2019'],,False,False,,1
+garo1247-1-14-1,,garo1247-1,14,chi-bri,chi-bri,[],,['chan2019'],,False,False,,1
+garo1247-1-15-1,,garo1247-1,15,chi-boŋ-a,chi-boŋ-a,[],,['chan2019'],,False,False,,1
+garo1247-1-16-1,,garo1247-1,16,chi-dok,chi-dok,[],,['chan2019'],,False,False,,1
+garo1247-1-17-1,,garo1247-1,17,chi-sin-i,chi-sin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-18-1,,garo1247-1,18,chi-chet,chi-chet,[],,['chan2019'],,False,False,,1
+garo1247-1-19-1,,garo1247-1,19,chi-sku,chi-sku,[],,['chan2019'],,False,False,,1
+garo1247-1-20-1,,garo1247-1,20,kol-ɡrik,kol-ɡrik,[],,['chan2019'],,False,False,,1
+garo1247-1-20-2,,garo1247-1,20,kol-chaŋ-sa,kol-chaŋ-sa,[],(twenty once),['chan2019'],,False,False,,1
+garo1247-1-21-1,,garo1247-1,21,kol-ɡrik-sa,kol-ɡrik-sa,[],,['chan2019'],,False,False,,1
+garo1247-1-22-1,,garo1247-1,22,kol-ɡrik-gi-tam,kol-ɡrik-gi-tam,[],,['chan2019'],,False,False,,1
+garo1247-1-24-1,,garo1247-1,24,kol-ɡrik-bri,kol-ɡrik-bri,[],,['chan2019'],,False,False,,1
+garo1247-1-25-1,,garo1247-1,25,kol-ɡrik-boŋ-a,kol-ɡrik-boŋ-a,[],,['chan2019'],,False,False,,1
+garo1247-1-26-1,,garo1247-1,26,kol-ɡrik-dok,kol-ɡrik-dok,[],,['chan2019'],,False,False,,1
+garo1247-1-27-1,,garo1247-1,27,kol-ɡrik-sin-i,kol-ɡrik-sin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-28-1,,garo1247-1,28,kol-ɡrik-chet,kol-ɡrik-chet,[],,['chan2019'],,False,False,,1
+garo1247-1-29-1,,garo1247-1,29,kol-ɡrik-sku,kol-ɡrik-sku,[],,['chan2019'],,False,False,,1
+garo1247-1-30-1,,garo1247-1,30,kol-a-chi,kol-a-chi,[],,['chan2019'],,False,False,,1
+garo1247-1-40-1,,garo1247-1,40,sot-bri,sot-bri,[],,['chan2019'],,False,False,,1
+garo1247-1-40-2,,garo1247-1,40,kol-chaŋ-gin-i,kol-chaŋ-gin-i,[],( 20 x 2 ),['chan2019'],,False,False,,1
+garo1247-1-50-1,,garo1247-1,50,sot-boŋ-a,sot-boŋ-a,[],,['chan2019'],,False,False,,1
+garo1247-1-50-2,,garo1247-1,50,kol-chaŋ-gin-i-chi-kiŋ,kol-chaŋ-gin-i-chi-kiŋ,[],,['chan2019'],,False,False,,1
+garo1247-1-60-1,,garo1247-1,60,sot-dok,sot-dok,[],,['chan2019'],,False,False,,1
+garo1247-1-60-2,,garo1247-1,60,kol-chaŋ-git-tam,kol-chaŋ-git-tam,[],( 20 x 3),['chan2019'],,False,False,,1
+garo1247-1-70-1,,garo1247-1,70,sot-sin-i,sot-sin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-80-1,,garo1247-1,80,sot-chet,sot-chet,[],,['chan2019'],,False,False,,1
+garo1247-1-80-2,,garo1247-1,80,kol-chaŋ-bri,kol-chaŋ-bri,[],( 20 x 4),['chan2019'],,False,False,,1
+garo1247-1-90-1,,garo1247-1,90,sot-sku,sot-sku,[],,['chan2019'],,False,False,,1
+garo1247-1-100-1,,garo1247-1,100,rit-cha-sa,rit-cha-sa,[],,['chan2019'],,False,False,,1
+garo1247-1-200-1,,garo1247-1,200,rit-cha-ɡin-i,rit-cha-ɡin-i,[],,['chan2019'],,False,False,,1
+garo1247-1-1000-1,,garo1247-1,1000,ha-jal sa,ha-jal sa,[],( hajal from Indic ),['chan2019'],,False,False,,1
+garo1247-1-2000-1,,garo1247-1,2000,ha-jal ɡin-i,ha-jal ɡin-i,[],,['chan2019'],,False,False,,1
