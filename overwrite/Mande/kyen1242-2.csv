@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kyen1242-2-1-1,,kyen1242-2,1,dūː,dūː,[],,['chan2019'],,False,False,,2
+kyen1242-2-2-1,,kyen1242-2,2,fʲâː,fʲâː,[],,['chan2019'],,False,False,,2
+kyen1242-2-3-1,,kyen1242-2,3,ʔàː,ʔàː,[],,['chan2019'],,False,False,,2
+kyen1242-2-4-1,,kyen1242-2,4,ʃíː,ʃíː,[],,['chan2019'],,False,False,,2
+kyen1242-2-5-1,,kyen1242-2,5,sɔ̂ːwû,sɔ̂ːwû,[],,['chan2019'],,False,False,,2
+kyen1242-2-6-1,,kyen1242-2,6,sɔ̂ːdū,sɔ̂ːdū,[],( 5 + 1 ),['chan2019'],,False,False,,2
+kyen1242-2-7-1,,kyen1242-2,7,sɔ̂ːfʲá,sɔ̂ːfʲá,[],( 5 + 2 ),['chan2019'],,False,False,,2
+kyen1242-2-8-1,,kyen1242-2,8,sōːuwà,sōːuwà,[],( 5 + 3 ),['chan2019'],,False,False,,2
+kyen1242-2-9-1,,kyen1242-2,9,sōwēʃíː,sōwēʃíː,[],( 5 + 4 ),['chan2019'],,False,False,,2
+kyen1242-2-10-1,,kyen1242-2,10,kōːlì,kōːlì,[],,['chan2019'],,False,False,,2
+kyen1242-2-11-1,,kyen1242-2,11,kōːlāːwēːduzò,kōːlāːwēːduzò,[],(litː 10 + 1 ),['chan2019'],,False,False,,2
+kyen1242-2-12-1,,kyen1242-2,12,kōːlāːwēːfʲâːdò,kōːlāːwēːfʲâːdò,[],(litː 10 + 2 ),['chan2019'],,False,False,,2
+kyen1242-2-13-1,,kyen1242-2,13,kōːlāːwéːʔàzↄ̀,kōːlāːwéːʔàzↄ̀,[],(litː 10 + 3 ),['chan2019'],,False,False,,2
+kyen1242-2-14-1,,kyen1242-2,14,kōːlāːwēːʃīːdō,kōːlāːwēːʃīːdō,[],(litː 10 + 4 ),['chan2019'],,False,False,,2
+kyen1242-2-15-1,,kyen1242-2,15,kōːlāːwēːsɔ̂lzò,kōːlāːwēːsɔ̂lzò,[],(litː 10 + 5 ),['chan2019'],,False,False,,2
+kyen1242-2-16-1,,kyen1242-2,16,kōːlāːwésɔ̀dùzò,kōːlāːwésɔ̀dùzò,[],(litː 10 + 5 +1 ),['chan2019'],,False,False,,2
+kyen1242-2-17-1,,kyen1242-2,17,kōːlāːwésɔ̄fʲâzò,kōːlāːwésɔ̄fʲâzò,[],(litː 10 + 5 + 2 ),['chan2019'],,False,False,,2
+kyen1242-2-18-1,,kyen1242-2,18,kōːlāːwésùwɔ̀l,kōːlāːwésùwɔ̀l,[],(litː 10 + 5 + 3 ),['chan2019'],,False,False,,2
+kyen1242-2-19-1,,kyen1242-2,19,kōːlāːwésɔ̀ʃīːdō,kōːlāːwésɔ̀ʃīːdō,[],(litː 10 + 5  + 4),['chan2019'],,False,False,,2
+kyen1242-2-20-1,,kyen1242-2,20,kēːdū,kēːdū,[],(20 x 1),['chan2019'],,False,False,,2
+kyen1242-2-30-1,,kyen1242-2,30,kēdóːkólì,kēdóːkólì,[],( 20 + 10 ),['chan2019'],,False,False,,2
+kyen1242-2-40-1,,kyen1242-2,40,kēːfʲâː,kēːfʲâː,[],( 20 x 2 ),['chan2019'],,False,False,,2
+kyen1242-2-50-1,,kyen1242-2,50,ke̊ːfʲâːwékūlzò,ke̊ːfʲâːwékūlzò,[],( 40 + 10 ),['chan2019'],,False,False,,2
+kyen1242-2-60-1,,kyen1242-2,60,kēːʔà,kēːʔà,[],( 20 x 3 ),['chan2019'],,False,False,,2
+kyen1242-2-70-1,,kyen1242-2,70,kēːʔàːwékūlzò,kēːʔàːwékūlzò,[],( 60 + 10 ),['chan2019'],,False,False,,2
+kyen1242-2-80-1,,kyen1242-2,80,kēːʃíː,kēːʃíː,[],( 20 x 4 ),['chan2019'],,False,False,,2
+kyen1242-2-90-1,,kyen1242-2,90,kēːʃíːwékūlzò,kēːʃíːwékūlzò,[],( 80 + 10 ),['chan2019'],,False,False,,2
+kyen1242-2-100-1,,kyen1242-2,100,kēːsó͡ù,kēːsó͡ù,[],( 20 x 5 ),['chan2019'],,False,False,,2
+kyen1242-2-200-1,,kyen1242-2,200,kēːʔōkūːlì,kēːʔōkūːlì,[],( 20 x 10 ),['chan2019'],,False,False,,2
+kyen1242-2-300-1,,kyen1242-2,300,ɡūrkīnkó͡ìdù,ɡūrkīnkó͡ìdù,[],,['chan2019'],,False,False,,2
+Kyen1242-2-400-1,,kyen1242-2,400,ɡēːkólì,400. ɡēːkólì,[],,['chan2019'],,False,False,,2
+kyen1242-2-1000-1,,kyen1242-2,1000,kó͡ī̀wàsói kōːʷ,kó͡ī̀wàsói kōːʷ,[],,['chan2019'],,False,False,,2
