@@ -1,0 +1,27 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+taii1241-1-1-1,,taii1241-1,1,nokom,nokom,[],,['chan2019'],,False,False,,1
+taii1241-1-2-1,,taii1241-1,2,omɨŋal,omɨŋal,[],,['chan2019'],,False,False,,1
+taii1241-1-3-1,,taii1241-1,3,omɨŋal nokom,omɨŋal nokom,[],( 2 + 1),['chan2019'],,False,False,,1
+taii1241-1-4-1,,taii1241-1,4,omɨŋal omɨŋal,omɨŋal omɨŋal,[],( 2 + 2),['chan2019'],,False,False,,1
+taii1241-1-4-2,,taii1241-1,4,tɨŋɡaup,tɨŋɡaup,[],,['chan2019'],,False,False,,1
+taii1241-1-5-1,,taii1241-1,5,mamɨnt,mamɨnt,[],,['chan2019'],,False,False,,1
+taii1241-1-6-1,,taii1241-1,6,kaŋɡol,kaŋɡol,[],,['chan2019'],,False,False,,1
+taii1241-1-7-1,,taii1241-1,7,kuŋɡul,kuŋɡul,[],,['chan2019'],,False,False,,1
+taii1241-1-8-1,,taii1241-1,8,ñjel,ñjel,[],,['chan2019'],,False,False,,1
+taii1241-1-9-1,,taii1241-1,9,añjɨp,añjɨp,[],,['chan2019'],,False,False,,1
+taii1241-1-10-1,,taii1241-1,10,wañjɨlem,wañjɨlem,[],,['chan2019'],,False,False,,1
+taii1241-1-11-1,,taii1241-1,11,aŋɡɨp,aŋɡɨp,[],,['chan2019'],,False,False,,1
+taii1241-1-12-1,,taii1241-1,12,umɨŋɡan,umɨŋɡan,[],,['chan2019'],,False,False,,1
+taii1241-1-13-1,,taii1241-1,13,aŋɡɨp pɨs,aŋɡɨp pɨs,[],,['chan2019'],,False,False,,1
+taii1241-1-14-1,,taii1241-1,14,wañjɨlem pɨs,wañjɨlem pɨs,[],,['chan2019'],,False,False,,1
+taii1241-1-15-1,,taii1241-1,15,aŋɡɨp pɨs,aŋɡɨp pɨs,[],,['chan2019'],,False,False,,1
+Taii1241-1-16-1,,taii1241-1,16,ñjel pɨs,16. ñjel pɨs,[],,['chan2019'],,False,False,,1
+Taii1241-1-17-1,,taii1241-1,17,kuŋɡul pɨs,17. kuŋɡul pɨs,[],,['chan2019'],,False,False,,1
+Taii1241-1-18-1,,taii1241-1,18,kaŋɡol pɨs,18. kaŋɡol pɨs,[],,['chan2019'],,False,False,,1
+taii1241-1-19-1,,taii1241-1,19,mamɨnt pɨs,mamɨnt pɨs,[],,['chan2019'],,False,False,,1
+Taii1241-1-20-1,,taii1241-1,20,tɨŋɡaup pɨs,20. tɨŋɡaup pɨs,[],,['chan2019'],,False,False,,1
+Taii1241-1-20-2,,taii1241-1,20,ñɨn jul,ñɨn jul,[],,['chan2019'],,False,False,,1
+taii1241-1-40-1,,taii1241-1,40,ñɨn jul omɨŋal,ñɨn jul omɨŋal,[],(20 x 2),['chan2019'],,False,False,,1
+taii1241-1-60-1,,taii1241-1,60,ñɨn jul omɨŋal nokom,ñɨn jul omɨŋal nokom,[],( 20 x 3),['chan2019'],,False,False,,1
+taii1241-1-80-1,,taii1241-1,80,ñɨn jul omɨŋal omɨŋal,ñɨn jul omɨŋal omɨŋal,[],( 20 x 2 x 2),['chan2019'],,False,False,,1
+taii1241-1-100-1,,taii1241-1,100,ñɨn jul mamɨnt,ñɨn jul mamɨnt,[],( 20 x 5),['chan2019'],,False,False,,1
