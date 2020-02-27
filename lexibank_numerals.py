@@ -145,8 +145,7 @@ class Dataset(BaseDataset):
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
-        for c in progressbar(sorted(walk(self.raw_dir, mode="files"),
-                                    key=lambda k: k.name), desc="makecldf"):
+        for c in progressbar(walk(self.raw_dir, mode="files"), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\
                     or c.name in self.channumerals_files\
                     or c.name.startswith("."):
@@ -154,8 +153,9 @@ class Dataset(BaseDataset):
             with Path.open(c) as csvfile:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
-                    args.writer.add_lexemes(
+                    args.writer.add_form(
                         Value=row["Value"],
+                        Form=row["Form"],
                         Language_ID=row["Language_ID"],
                         Parameter_ID=row["Parameter_ID"],
                         Source="chan2019",
@@ -165,3 +165,12 @@ class Dataset(BaseDataset):
                         Variant_ID=row["Variant_ID"],
                         Problematic=bool(row["Problematic"] == "True"),
                     )
+        def _x(s):
+            try:
+                return int(s)
+            except:
+                return s
+
+        args.writer.objects['FormTable'] = sorted(args.writer.objects['FormTable'],
+                key=lambda item: ([_x(i) for i in item['ID'].split('-')]))
+
