@@ -29,10 +29,10 @@ py==1.6.0
 pybtex==0.22.2
 pycldf==1.12.1
 pyclts==2.0.0
--e git+git@github.com:concepticon/pyconcepticon.git@5886de566efde28ac98d7f56d9a81c78146130b1#egg=pyconcepticon
+pyconcepticon==2.5.2.dev0
 pycountry==18.12.8
 pyglottolog==2.2.1
--e git+git@github.com:lexibank/pylexibank.git@2e5f817203b7f6067c34cac9065975adcafca85c#egg=pylexibank
+pylexibank==2.1.1.dev0
 pyparsing==2.2.0
 pytest==3.7.4
 pytz==2018.5
