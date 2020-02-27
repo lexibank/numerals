@@ -138,21 +138,62 @@ class Dataset(BaseDataset):
 
         args.writer.add_sources()
 
+        valid_parameters = set()
+        valid_languages = set()
         for concept in self.concepts:
             args.writer.add_concept(**concept)
+            valid_parameters.add(concept['ID'])
         for language in self.languages:
             args.writer.add_language(**language)
+            valid_languages.add(language['ID'])
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
-        for c in progressbar(walk(self.raw_dir, mode="files"), desc="makecldf"):
+        # gather all overwrite candidates {file_name: path}
+        overwrites = {}
+        for c in walk(self.dir / "overwrite", mode="files"):
             if c.name == "index.md" or c.name == "README.md"\
                     or c.name in self.channumerals_files\
                     or c.name.startswith("."):
                 continue
+            overwrites[c.name] = c
+
+        overwrites_cnt = 0
+        unknown_params = []
+        misaligned_overwrites = set()
+        unknown_languages = []
+        seen_unknown_languages = set()
+
+        for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
+            if c.name == "index.md" or c.name == "README.md"\
+                    or c.name in self.channumerals_files\
+                    or c.name.startswith("."):
+                continue
+
+            # if an overwrite exists then take the overwrite's path
+            if c.name in overwrites:
+                c = overwrites[c.name]
+                overwrites_cnt += 1
+
             with Path.open(c) as csvfile:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
+
+                    if row["Parameter_ID"] not in valid_parameters:
+                        unknown_params.append(
+                                'Parameter_ID {0} for {1} unknown'.format(
+                                        row["Parameter_ID"], row["Language_ID"]))
+                        continue
+
+                    if row["Loan"] is None or row["Variant_ID"] is None or\
+                                len(row["Loan"]) < 3 or len(row["Variant_ID"]) < 1:
+                        misaligned_overwrites.add(row["Language_ID"])
+
+                    if row["Language_ID"] not in valid_languages:
+                        if row["Language_ID"] not in seen_unknown_languages:
+                            unknown_languages.append({'id': row["Language_ID"], 'lg': c.name})
+                            seen_unknown_languages.add(row["Language_ID"])
+
                     args.writer.add_form(
                         Value=row["Value"],
                         Form=row["Form"],
@@ -170,7 +211,18 @@ class Dataset(BaseDataset):
                 return int(s)
             except:
                 return s
-
+        # apply the same sort order as for channumerals
         args.writer.objects['FormTable'] = sorted(args.writer.objects['FormTable'],
                 key=lambda item: ([_x(i) for i in item['ID'].split('-')]))
+
+        args.log.info('{0} overwritten languages'.format(overwrites_cnt))
+
+        for u in sorted(unknown_params, key=lambda k: int(k.split(" ")[1])):
+            args.log.warn(u)
+
+        for u in sorted(misaligned_overwrites):
+            args.log.warn("check overwrite {0} for misalignments".format(u))
+
+        for u in sorted(unknown_languages, key=lambda k: k['lg']):
+            args.log.warn("check Language_ID {0} in overwrite {1}".format(u['id'], u['lg']))
 
