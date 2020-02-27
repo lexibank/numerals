@@ -1,12 +1,9 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-akaw1239-3-1-1,,akaw1239-3,1,tiwin,tiwin,[],,['chan2019'],,False,False,,3
-akaw1239-3-1-2,,akaw1239-3,1,one,one,[],(finger),['chan2019'],,False,False,,3
-akaw1239-3-2-1,,akaw1239-3,2,asakrë,asakrë,[],,['chan2019'],,False,False,,3
-akaw1239-3-2-2,,akaw1239-3,2,two,two,[],(fingers),['chan2019'],,False,False,,3
-akaw1239-3-3-1,,akaw1239-3,3,osoruwau,osoruwau,[],,['chan2019'],,False,False,,3
-akaw1239-3-3-2,,akaw1239-3,3,three,three,[],(fingers),['chan2019'],,False,False,,3
-akaw1239-3-4-1,,akaw1239-3,4,asakërëkne,asakërëkne,[],,['chan2019'],,False,False,,3
-akaw1239-3-5-1,,akaw1239-3,5,tiwin miyak,tiwin miyak,[],,['chan2019'],,False,False,,3
+akaw1239-3-1-1,,akaw1239-3,1,tiwin,tiwin,[],one (finger),['chan2019'],,False,False,,3
+akaw1239-3-2-1,,akaw1239-3,2,asakrë,asakrë,[],two (fingers),['chan2019'],,False,False,,3
+akaw1239-3-3-1,,akaw1239-3,3,osoruwau,osoruwau,[],three (fingers),['chan2019'],,False,False,,3
+akaw1239-3-4-1,,akaw1239-3,4,asakërëkne,asakërëkne,[],literallyː 'two pairs of fingers together' (four),['chan2019'],,False,False,,3
+akaw1239-3-5-1,,akaw1239-3,5,tiwin miyak,tiwin miyak,[],literallyː 'one hand' (five),['chan2019'],,False,False,,3
 akaw1239-3-6-1,,akaw1239-3,6,tiwin miya (pona) twin (miyak) potu,tiwin miya (pona) twin (miyak) potu,[],,['chan2019'],,False,False,,3
 akaw1239-3-7-1,,akaw1239-3,7,tiwin (pona) asakrëne (miyak) potu,tiwin (pona) asakrëne (miyak) potu,[],,['chan2019'],,False,False,,3
 akaw1239-3-8-1,,akaw1239-3,8,tiwin (pona) osoruwaune (miyak) potu,tiwin (pona) osoruwaune (miyak) potu,[],,['chan2019'],,False,False,,3
