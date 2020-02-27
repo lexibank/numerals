@@ -10,6 +10,7 @@ from pycldf import Wordlist
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.models import Lexeme, Language
 from pylexibank.util import progressbar
+from pylexibank.forms import FormSpec
 
 from numerals_util import (
     split_form_table,
@@ -47,6 +48,15 @@ class Dataset(BaseDataset):
 
     lexeme_class = NumeralsLexeme
     language_class = NumeralsLanguage
+
+    form_spec = FormSpec(
+        brackets={},
+        replacements=[],
+        separators="",
+        missing_data=(),
+        strip_inside_brackets=False,
+        normalize_unicode=None,
+    )
 
     channumerals_files = [
         "cldf-metadata.json",
@@ -145,4 +155,5 @@ class Dataset(BaseDataset):
                         Other_Form=row["Other_Form"],
                         Loan=bool(row["Loan"] == "True"),
                         Variant_ID=row["Variant_ID"],
+                        Problematic=bool(row["Problematic"] == "True"),
                     )
