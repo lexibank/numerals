@@ -89,7 +89,8 @@ class Dataset(BaseDataset):
         smaller families).
         """
         for entry in split_ft:
-            lt = next(item for item in language_table if item["ID"] == entry[0]["Language_ID"])
+            lt = next(
+                item for item in language_table if item["ID"] == entry[0]["Language_ID"])
 
             if lt["Glottocode"]:
                 lid = lt["Glottocode"]
@@ -107,13 +108,15 @@ class Dataset(BaseDataset):
             except KeyError:
                 pass
 
-            pathlib.Path(self.raw_dir / family).mkdir(parents=True, exist_ok=True)
+            pathlib.Path(self.raw_dir /
+                         family).mkdir(parents=True, exist_ok=True)
 
             # Write data from form table into respective CSV file:
             with open(self.raw_dir / family / csv_name, "w") as outfile:
                 fp = csv.DictWriter(outfile, entry[0].keys())
                 fp.writeheader()
-                fp.writerows(sorted(entry, key=lambda x: int(x["Parameter_ID"])))
+                fp.writerows(
+                    sorted(entry, key=lambda x: int(x["Parameter_ID"])))
                 github_file = outfile.name
 
             # Write index for easier reference:
@@ -121,11 +124,15 @@ class Dataset(BaseDataset):
                 index_link = make_index_link(github_file)
                 chan_link = make_chan_link(chansrc, CHANURL)
                 language_name = make_language_name(lt["Name"])
-                outfile.write(index_link + chan_link + language_name + problems + "\n")
+                outfile.write(index_link + chan_link +
+                              language_name + problems + "\n")
 
-        shutil.move(self.raw_dir / "cognates.csv", self.etc_dir / "cognates.csv")
-        shutil.move(self.raw_dir / "parameters.csv", self.etc_dir / "concepts.csv")
-        shutil.move(self.raw_dir / "languages.csv", self.etc_dir / "languages.csv")
+        shutil.move(self.raw_dir / "cognates.csv",
+                    self.etc_dir / "cognates.csv")
+        shutil.move(self.raw_dir / "parameters.csv",
+                    self.etc_dir / "concepts.csv")
+        shutil.move(self.raw_dir / "languages.csv",
+                    self.etc_dir / "languages.csv")
 
     def cmd_makecldf(self, args):
 
@@ -138,7 +145,8 @@ class Dataset(BaseDataset):
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
-        for c in progressbar(sorted(walk(self.raw_dir, mode="files"), key=lambda k: k.name), desc="makecldf"):
+        for c in progressbar(sorted(walk(self.raw_dir, mode="files"),
+                                    key=lambda k: k.name), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\
                     or c.name in self.channumerals_files\
                     or c.name.startswith("."):
