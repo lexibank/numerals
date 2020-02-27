@@ -163,6 +163,8 @@ class Dataset(BaseDataset):
         misaligned_overwrites = set()
         unknown_languages = []
         seen_unknown_languages = set()
+        form_length = set()
+        other_form = set()
 
         for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\
@@ -194,16 +196,24 @@ class Dataset(BaseDataset):
                             unknown_languages.append({'id': row["Language_ID"], 'lg': c.name})
                             seen_unknown_languages.add(row["Language_ID"])
 
+                    if len(row["Form"]) > len(row["Value"])+1 or\
+                            "[" in row["Form"] or "]" in row["Form"]:
+                        form_length.add(c.name)
+
+                    if row["Other_Form"] is not None and\
+                        ("[" in row["Other_Form"] or "]" in row["Other_Form"]):
+                        other_form.add(c.name)
+
                     args.writer.add_form(
-                        Value=row["Value"],
-                        Form=row["Form"],
-                        Language_ID=row["Language_ID"],
-                        Parameter_ID=row["Parameter_ID"],
+                        Value=row["Value"].strip(),
+                        Form=row["Form"].strip(),
+                        Language_ID=row["Language_ID"].strip(),
+                        Parameter_ID=row["Parameter_ID"].strip(),
                         Source="chan2019",
-                        Comment=row["Comment"],
-                        Other_Form=row["Other_Form"],
+                        Comment=row["Comment"].strip() if row["Comment"] else "",
+                        Other_Form=row["Other_Form"].strip() if row["Other_Form"] else "",
                         Loan=bool(row["Loan"] == "True"),
-                        Variant_ID=row["Variant_ID"],
+                        Variant_ID=row["Variant_ID"].strip() if row["Other_Form"] else "",
                         Problematic=bool(row["Problematic"] == "True"),
                     )
         def _x(s):
@@ -225,4 +235,10 @@ class Dataset(BaseDataset):
 
         for u in sorted(unknown_languages, key=lambda k: k['lg']):
             args.log.warn("check Language_ID {0} in overwrite {1}".format(u['id'], u['lg']))
+
+        for u in sorted(form_length):
+            args.log.warn("check Form in {0}".format(u))
+
+        for u in sorted(other_form):
+            args.log.warn("check Other_Form for [] in {0}".format(u))
 
