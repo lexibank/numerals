@@ -28,7 +28,7 @@ URL = "https://github.com/lexibank/channumerals/raw/v1.0/cldf"
 
 
 @attr.s
-class NumeralsLanguage(Language):
+class CustomLanguage(Language):
     SourceFile = attr.ib(default=None)
     Contributor = attr.ib(default=None)
     Base = attr.ib(default=None)
@@ -36,7 +36,7 @@ class NumeralsLanguage(Language):
 
 
 @attr.s
-class NumeralsLexeme(Lexeme):
+class CustomLexeme(Lexeme):
     Problematic = attr.ib(default=False)
     Other_Form = attr.ib(default=None)
     Variant_ID = attr.ib(default=1)
@@ -46,8 +46,8 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "numerals"
 
-    lexeme_class = NumeralsLexeme
-    language_class = NumeralsLanguage
+    lexeme_class = CustomLexeme
+    language_class = CustomLanguage
 
     form_spec = FormSpec(
         brackets={},
