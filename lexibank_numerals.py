@@ -213,7 +213,7 @@ class Dataset(BaseDataset):
                         Comment=row["Comment"].strip() if row["Comment"] else "",
                         Other_Form=row["Other_Form"].strip() if row["Other_Form"] else "",
                         Loan=bool(row["Loan"] == "True"),
-                        Variant_ID=row["Variant_ID"].strip() if row["Other_Form"] else "",
+                        Variant_ID=row["Variant_ID"].strip() if row["Variant_ID"] else "",
                         Problematic=bool(row["Problematic"] == "True"),
                     )
         def _x(s):
