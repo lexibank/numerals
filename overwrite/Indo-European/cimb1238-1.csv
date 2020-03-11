@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cimb1238-1-1-1,,cimb1238-1,1,ˈoɐn,ˈoɐn,[],,['chan2019'],,False,False,,1
-cimb1238-1-1-2,,cimb1238-1,1,ˈɔːna,ˈɔːna,[],,['chan2019'],,False,False,,1
-cimb1238-1-1-3,,cimb1238-1,1,ˈoɐs,ˈoɐs,[],(m./fem./neut.),['chan2019'],,False,False,,1
+cimb1238-1-1-1,,cimb1238-1,1,ˈoɐn,ˈoɐn,[],(m.),['chan2019'],,False,False,,1
+cimb1238-1-1-2,,cimb1238-1,1,ˈɔːna,ˈɔːna,[],(fem.),['chan2019'],,False,False,,1
+cimb1238-1-1-3,,cimb1238-1,1,ˈoɐs,ˈoɐs,[],(neut.),['chan2019'],,False,False,,1
 cimb1238-1-2-1,,cimb1238-1,2,ˈsbeːn,ˈsbeːn,[],(masc./neut.),['chan2019'],,False,False,,1
 cimb1238-1-2-2,,cimb1238-1,2,ˈsbɔa,ˈsbɔa,[],(fem.),['chan2019'],,False,False,,1
 cimb1238-1-3-1,,cimb1238-1,3,ˈdrai,ˈdrai,[],,['chan2019'],,False,False,,1
@@ -39,7 +39,7 @@ cimb1238-1-19-1,,cimb1238-1,19,ˈnɔɪnt͡sɘne,ˈnɔɪnt͡sɘne,[],,['chan2019'
 cimb1238-1-19-2,,cimb1238-1,19,ˈnɔɪnt͡sɘn,ˈnɔɪnt͡sɘn,[],,['chan2019'],,False,False,,1
 cimb1238-1-20-1,,cimb1238-1,20,ˈsbɔɐskx,ˈsbɔɐskx,[],,['chan2019'],,False,False,,1
 cimb1238-1-21-1,,cimb1238-1,21,ˈoɐnənˈsbɔɐskx,ˈoɐnənˈsbɔɐskx,[],,['chan2019'],,False,False,,1
-cimb1238-1-22-1,,cimb1238-1,22,ˈsbeːnənˈsbɔɐskx,ˈ[ˈsbeːnənˈsbɔɐskx,[],,['chan2019'],,False,False,,1
+cimb1238-1-22-1,,cimb1238-1,22,ˈsbeːnənˈsbɔɐskx,ˈsbeːnənˈsbɔɐskx,[],,['chan2019'],,False,False,,1
 cimb1238-1-23-1,,cimb1238-1,23,ˈdrajənˈsbɔɐskx,ˈdrajənˈsbɔɐskx,[],,['chan2019'],,False,False,,1
 cimb1238-1-24-1,,cimb1238-1,24,ˈviɐrənˈsbɔɐskx,ˈviɐrənˈsbɔɐskx,[],,['chan2019'],,False,False,,1
 cimb1238-1-25-1,,cimb1238-1,25,ˈbymbənˈsbɔɐskx,ˈbymbənˈsbɔɐskx,[],,['chan2019'],,False,False,,1

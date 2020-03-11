@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 birh1242-2-1-1,,birh1242-2,1,mi,mi,[],,['chan2019'],,False,False,,2
 birh1242-2-2-1,,birh1242-2,2,bar,bar,[],,['chan2019'],,False,False,,2
-birh1242-2-3-1,,birh1242-2,3,t̪ɪn ,t̪ɪn < 3 up from Indo-Aryan,[],,['chan2019'],,False,False,,2
+birh1242-2-3-1,,birh1242-2,3,t̪ɪn ,t̪ɪn,[],< 3 up from Indo-Aryan,['chan2019'],,False,False,,2
 birh1242-2-4-1,,birh1242-2,4,t͡sər,t͡sər,[],,['chan2019'],,False,False,,2
 birh1242-2-5-1,,birh1242-2,5,pãt͡s,pãt͡s,[],,['chan2019'],,False,False,,2
 birh1242-2-6-1,,birh1242-2,6,t͡ʃʰe,t͡ʃʰe,[],,['chan2019'],,False,False,,2

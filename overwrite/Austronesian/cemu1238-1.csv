@@ -3,22 +3,22 @@ cemu1238-1-1-1,,cemu1238-1,1,jɛiu,jɛiu,[],,['chan2019'],,False,False,cèiu,1
 cemu1238-1-2-1,,cemu1238-1,2,alo,alo,[],,['chan2019'],,False,False,alo,1
 cemu1238-1-3-1,,cemu1238-1,3,tʲie,tʲie,[],,['chan2019'],,False,False,cié,1
 cemu1238-1-4-1,,cemu1238-1,4,paː,paː,[],,['chan2019'],,False,False,paa,1
-cemu1238-1-5-1,,cemu1238-1,5,nim,nim,[],( litː 'hand' ),['chan2019'],,False,False,,1
+cemu1238-1-5-1,,cemu1238-1,5,nim,,[],( litː 'hand' ),['chan2019'],,False,False,nim,1
 cemu1238-1-6-1,,cemu1238-1,6,mbwɔ mu jɛlu wɔn,mbwɔ mu jɛlu wɔn,[],( 5 + 1 ),['chan2019'],,False,False,bwömucèiupwön,1
 cemu1238-1-7-1,,cemu1238-1,7,mbwɔ mu alo wɔn,mbwɔ mu alo wɔn,[],( 5 + 2 ),['chan2019'],,False,False,bwömualopwön,1
 cemu1238-1-8-1,,cemu1238-1,8,mbwɔ mu tʲie wɔn,mbwɔ mu tʲie wɔn,[],( 5 + 3 ),['chan2019'],,False,False,bwömuciépwön,1
 cemu1238-1-9-1,,cemu1238-1,9,mbwɔ mu paː wɔn,mbwɔ mu paː wɔn,[],( 5 + 4 ),['chan2019'],,False,False,bwömupaapwön,1
-cemu1238-1-10-1,,cemu1238-1,10,pɔn ɟulu or,pɔn ɟulu or,[],[pan ɟulu],['chan2019'],,False,False,pajulu,1
-cemu1238-1-11-1,,cemu1238-1,11,pajulu ka cèiu,pajulu ka cèiu,[],,['chan2019'],,False,False,,1
-cemu1238-1-12-1,,cemu1238-1,12,pajulu ka alo,pajulu ka alo,[],,['chan2019'],,False,False,,1
-cemu1238-1-13-1,,cemu1238-1,13,pajulu ka cié,pajulu ka cié,[],,['chan2019'],,False,False,,1
-cemu1238-1-14-1,,cemu1238-1,14,pajulu ka paa,pajulu ka paa,[],,['chan2019'],,False,False,,1
-cemu1238-1-15-1,,cemu1238-1,15,pajulu ka nim,pajulu ka nim,[],,['chan2019'],,False,False,,1
-cemu1238-1-16-1,,cemu1238-1,16,pajulu ka bwömucèiupwön,pajulu ka bwömucèiupwön,[],,['chan2019'],,False,False,,1
-cemu1238-1-17-1,,cemu1238-1,17,pajulu ka bwömualopwön,pajulu ka bwömualopwön,[],,['chan2019'],,False,False,,1
-cemu1238-1-18-1,,cemu1238-1,18,pajulu ka bwömuciépwön,pajulu ka bwömuciépwön,[],,['chan2019'],,False,False,,1
-cemu1238-1-19-1,,cemu1238-1,19,pajulu ka bwömupaapwön,pajulu ka bwömupaapwön,[],,['chan2019'],,False,False,,1
-cemu1238-1-20-1,,cemu1238-1,20,apuliè,apuliè,[],(litː 'one man'),['chan2019'],,False,False,,1
-Cemu1238-1-40-1,,cemu1238-1,40,alo apulie,40. alo apulie,[],(two men),['chan2019'],,False,False,,1
-Cemu1238-1-40-2,,cemu1238-1,40,rare used,rare used100. nim apulie,[],(five people),['chan2019'],,False,False,,1
-Cemu1238-1-100-1,,cemu1238-2,100,nim apulie,,,,,,,False,,
+cemu1238-1-10-1,,cemu1238-1,10,pɔn ɟulu,pɔn ɟulu,[],,['chan2019'],,False,False,pajulu,1
+cemu1238-1-10-2,,cemu1238-1,10,pan ɟulu,pan ɟulu,[],,['chan2019'],,False,False,pajulu,1
+cemu1238-1-11-1,,cemu1238-1,11,pajulu ka cèiu,,[],,['chan2019'],,False,False,pajulu ka cèiu,1
+cemu1238-1-12-1,,cemu1238-1,12,pajulu ka alo,,[],,['chan2019'],,False,False,pajulu ka alo,1
+cemu1238-1-13-1,,cemu1238-1,13,pajulu ka cié,,[],,['chan2019'],,False,False,pajulu ka cié,1
+cemu1238-1-14-1,,cemu1238-1,14,pajulu ka paa,,[],,['chan2019'],,False,False,pajulu ka paa,1
+cemu1238-1-15-1,,cemu1238-1,15,pajulu ka nim,,[],,['chan2019'],,False,False,pajulu ka nim,1
+cemu1238-1-16-1,,cemu1238-1,16,pajulu ka bwömucèiupwön,,[],,['chan2019'],,False,False,pajulu ka bwömucèiupwön,1
+cemu1238-1-17-1,,cemu1238-1,17,pajulu ka bwömualopwön,,[],,['chan2019'],,False,False,pajulu ka bwömualopwön,1
+cemu1238-1-18-1,,cemu1238-1,18,pajulu ka bwömuciépwön,,[],,['chan2019'],,False,False,pajulu ka bwömuciépwön,1
+cemu1238-1-19-1,,cemu1238-1,19,pajulu ka bwömupaapwön,,[],,['chan2019'],,False,False,pajulu ka bwömupaapwön,1
+cemu1238-1-20-1,,cemu1238-1,20,apuliè,,[],(litː 'one man'),['chan2019'],,False,False,apuliè,1
+cemu1238-1-40-1,,cemu1238-1,40,alo apulie,,[],(two men), rare used,['chan2019'],,False,False,alo apulie,1
+cemu1238-1-100-1,,cemu1238-2,100,nim apulie,,[],,['chan2019'],,False,False,nim apulie,1
