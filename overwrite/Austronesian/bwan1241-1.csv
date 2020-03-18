@@ -1,9 +1,9 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 bwan1241-1-1-1,,bwan1241-1,1,kaiɡeda,kaiɡeda,[],,['chan2019'],,False,False,,1
-bwan1241-1-1-2,,bwan1241-1,1,keseɡa,keseɡa in other dialects,[],,['chan2019'],,False,False,,1
+bwan1241-1-1-2,,bwan1241-1,1,keseɡa,keseɡa,[],in other dialects,['chan2019'],,False,False,,1
 bwan1241-1-2-1,,bwan1241-1,2,labui,labui,[],,['chan2019'],,False,False,,1
 bwan1241-1-3-1,,bwan1241-1,3,yaiyona,yaiyona,[],,['chan2019'],,False,False,,1
-bwan1241-1-3-2,,bwan1241-1,3,tolu ,tolu in other dialects,[],,['chan2019'],,False,False,,1
+bwan1241-1-3-2,,bwan1241-1,3,tolu ,tolu,[],in other dialects,['chan2019'],,False,False,,1
 bwan1241-1-4-1,,bwan1241-1,4,esopali,esopali,[],,['chan2019'],,False,False,,1
 bwan1241-1-5-1,,bwan1241-1,5,valiɡiɡi,valiɡiɡi,[],,['chan2019'],,False,False,,1
 bwan1241-1-6-1,,bwan1241-1,6,valiɡiɡi kaiɡeda,valiɡiɡi kaiɡeda,[],( 5 + 1 ),['chan2019'],,False,False,,1

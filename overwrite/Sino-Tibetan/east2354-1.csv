@@ -2,7 +2,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 east2354-1-1-1,,east2354-1,1,tubu,tubu,[],,['chan2019'],,False,False,,1
 east2354-1-2-1,,east2354-1,2,jor,jor,[],( j = IPA dʒ),['chan2019'],,False,False,,1
 east2354-1-3-1,,east2354-1,3,sohm,sohm,[],,['chan2019'],,False,False,,1
-east2354-1-4-1,,east2354-1,4,jüih ,jüih ( ü = IPA y],[],( ü = IPA y],['chan2019'],,False,False,,1
+east2354-1-4-1,,east2354-1,4,jüih ,jüih,[],( ü = IPA y],['chan2019'],,False,False,,1
 east2354-1-5-1,,east2354-1,5,pac,pac,[],< Nepali ,['chan2019'],,True,False,,1
 east2354-1-6-1,,east2354-1,6,cha,cha,[],,['chan2019'],,False,False,,1
 east2354-1-7-1,,east2354-1,7,sat,sat,[],,['chan2019'],,False,False,,1

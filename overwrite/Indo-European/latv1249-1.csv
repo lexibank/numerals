@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-latv1249-1-1-1,,latv1249-1,1,viɛns,viɛns,[],,['chan2019'],,False,False,viens,1
-latv1249-1-1-2,,latv1249-1,1,viɛnɑ,viɛnɑ,[],(m./f.),['chan2019'],,False,False,viena,1
+latv1249-1-1-1,,latv1249-1,1,viɛns,viɛns,[],(m.),['chan2019'],,False,False,viens,1
+latv1249-1-1-2,,latv1249-1,1,viɛnɑ,viɛnɑ,[],(f.),['chan2019'],,False,False,viena,1
 latv1249-1-2-1,,latv1249-1,2,ˈdivi,ˈdivi,[],,['chan2019'],,False,False,divi,1
 latv1249-1-2-2,,latv1249-1,2,ˈdivɑs,ˈdivɑs,[],,['chan2019'],,False,False,divas,1
 latv1249-1-3-1,,latv1249-1,3,triːs,triːs,[],,['chan2019'],,False,False,tris,1
@@ -39,7 +39,7 @@ latv1249-1-29-1,,latv1249-1,29,ˌdiu̯dɛsmit ˈdɛviɲi,ˌdiu̯dɛsmit ˈdɛvi�
 latv1249-1-30-1,,latv1249-1,30,ˈtriːsdɛsmit,ˈtriːsdɛsmit,[],,['chan2019'],,False,False,trīsdesmit,1
 latv1249-1-40-1,,latv1249-1,40,ˈt͡ʃɛtrdɛsmit,ˈt͡ʃɛtrdɛsmit,[],,['chan2019'],,False,False,četrdesmit,1
 latv1249-1-50-1,,latv1249-1,50,ˈpiɛt͡sdɛsmit,ˈpiɛt͡sdɛsmit,[],,['chan2019'],,False,False,piecdesmit,1
-latv1249-1-60-1,,latv1249-1,60,ˈsɛʃdɛsmit ,ˈsɛʃdɛsmit ],[],,['chan2019'],,False,False,sešdesmit,1
+latv1249-1-60-1,,latv1249-1,60,ˈsɛʃdɛsmit ,ˈsɛʃdɛsmit,[],,['chan2019'],,False,False,sešdesmit,1
 latv1249-1-70-1,,latv1249-1,70,ˈsɛptiɲdɛsmit,ˈsɛptiɲdɛsmit,[],,['chan2019'],,False,False,septiṇdesmit,1
 latv1249-1-80-1,,latv1249-1,80,ˈɑstuɔɲdɛsmit,ˈɑstuɔɲdɛsmit,[],,['chan2019'],,False,False,astoṇdesmit,1
 latv1249-1-90-1,,latv1249-1,90,ˈdɛviɲdɛsmit,ˈdɛviɲdɛsmit,[],,['chan2019'],,False,False,deviṇdesmit,1

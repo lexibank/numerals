@@ -1,10 +1,10 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 misi1242-1-1-1,,misi1242-1,1,akɔ,akɔ,[],,['chan2019'],,False,False,,1
-misi1242-1-2-1,,misi1242-1,2,anɲiː,anɲiː or adɲiː,[],,['chan2019'],,False,False,,1
-misi1242-1-2-2,,Misi1242-1,2,adɲiː,,,,,,,False,,
+misi1242-1-2-1,,misi1242-1,2,anɲiː,anɲiː,[],,['chan2019'],,False,False,,1
+misi1242-1-2-2,,misi1242-1,2,adɲiː,adɲiː,[],,['chan2019'],,False,False,,1
 misi1242-1-3-1,,misi1242-1,3,auːm,auːm,[],,['chan2019'],,False,False,,1
-misi1242-1-4-1,,misi1242-1,4,appiː,appiː or abpiː,[],,['chan2019'],,False,False,,1
-misi1242-1-4-2,,Misi1242-1,4,abpiː,,,,,,,False,,
+misi1242-1-4-1,,misi1242-1,4,appiː,appiː,[],,['chan2019'],,False,False,,1
+misi1242-1-4-2,,misi1242-1,4,abpiː,abpiː,[],,['chan2019'],,False,False,,1
 misi1242-1-5-1,,misi1242-1,5,aŋŋɔː,aŋŋɔː,[],,['chan2019'],,False,False,,1
 misi1242-1-6-1,,misi1242-1,6,akkɜŋ,akkɜŋ,[],,['chan2019'],,False,False,,1
 misi1242-1-6-2,,misi1242-1,6,sɔj,sɔj,[],( from Assamese ɛxo ),['chan2019'],,False,False,,1
@@ -16,8 +16,8 @@ misi1242-1-10-2,,misi1242-1,10,dɔs,dɔs,[],( from Assamese),['chan2019'],,False
 misi1242-1-11-1,,misi1242-1,11,ɨjiŋkɔlaŋ akɔ,ɨjiŋkɔlaŋ akɔ,[],,['chan2019'],,False,False,,1
 misi1242-1-12-1,,misi1242-1,12,ɨjiŋkɔlaŋ anɲiː,ɨjiŋkɔlaŋ anɲiː,[],,['chan2019'],,False,False,,1
 misi1242-1-13-1,,misi1242-1,13,ɨjiŋkɔlaŋ aum,ɨjiŋkɔlaŋ aum,[],,['chan2019'],,False,False,,1
-misi1242-1-14-1,,misi1242-1,14,ɨjiŋkɔlaŋ appiːː,ɨjiŋkɔlaŋ appiː or abpiː,[],,['chan2019'],,False,False,,1
-misi1242-1-14-2,,Misi1242-1,14,ɨjiŋkɔlaŋ abpiː,,,,,,,False,,
+misi1242-1-14-1,,misi1242-1,14,ɨjiŋkɔlaŋ appiːː,ɨjiŋkɔlaŋ appiː,[],,['chan2019'],,False,False,,1
+misi1242-1-14-2,,misi1242-1,14,ɨjiŋkɔlaŋ abpiː,ɨjiŋkɔlaŋ abpiː,[],,['chan2019'],,False,False,,1
 misi1242-1-15-1,,misi1242-1,15,ɨjiŋkɔlaŋ aŋŋɔː,ɨjiŋkɔlaŋ aŋŋɔː,[],,['chan2019'],,False,False,,1
 misi1242-1-16-1,,misi1242-1,16,ɨjiŋkɔlaŋ akkɜŋ,ɨjiŋkɔlaŋ akkɜŋ,[],,['chan2019'],,False,False,,1
 misi1242-1-17-1,,misi1242-1,17,ɨjiŋkɔlaŋ kɨnɨd,ɨjiŋkɔlaŋ kɨnɨd,[],,['chan2019'],,False,False,,1
@@ -27,8 +27,8 @@ misi1242-1-20-1,,misi1242-1,20,ɨjiŋadɲiː,ɨjiŋadɲiː,[],,['chan2019'],,Fal
 misi1242-1-21-1,,misi1242-1,21,ɨjiŋanɲi kɔlaŋ akɔ,ɨjiŋanɲi kɔlaŋ akɔ,[],,['chan2019'],,False,False,,1
 misi1242-1-22-1,,misi1242-1,22,ɨjiŋanɲi kɔlaŋ anɲiː,ɨjiŋanɲi kɔlaŋ anɲiː,[],,['chan2019'],,False,False,,1
 misi1242-1-23-1,,misi1242-1,23,ɨjiŋanɲi kɔlaŋ auːm,ɨjiŋanɲi kɔlaŋ auːm,[],,['chan2019'],,False,False,,1
-misi1242-1-24-1,,misi1242-1,24,ɨjiŋanɲi kɔlaŋ appiː,ɨjiŋanɲi kɔlaŋ appiː or abpiː,[],,['chan2019'],,False,False,,1
-misi1242-1-24-2,,Misi1242-1,24,ɨjiŋanɲi kɔlaŋ abpiː,,,,,,,False,,
+misi1242-1-24-1,,misi1242-1,24,ɨjiŋanɲi kɔlaŋ appiː,ɨjiŋanɲi kɔlaŋ appiː,[],,['chan2019'],,False,False,,1
+misi1242-1-24-2,,misi1242-1,24,ɨjiŋanɲi kɔlaŋ abpiː,ɨjiŋanɲi kɔlaŋ abpiː,[],,['chan2019'],,False,False,,1
 misi1242-1-25-1,,misi1242-1,25,ɨjiŋanɲi kɔlaŋ aŋŋɔː,ɨjiŋanɲi kɔlaŋ aŋŋɔː,[],,['chan2019'],,False,False,,1
 misi1242-1-26-1,,misi1242-1,26,ɨjiŋanɲi kɔlaŋ akkɜŋ,ɨjiŋanɲi kɔlaŋ akkɜŋ,[],,['chan2019'],,False,False,,1
 misi1242-1-27-1,,misi1242-1,27,ɨjiŋanɲi kɔlaŋ kɨnɨd,ɨjiŋanɲi kɔlaŋ kɨnɨd,[],,['chan2019'],,False,False,,1
@@ -42,7 +42,7 @@ misi1242-1-70-1,,misi1242-1,70,ɨjiŋkɨnɨd,ɨjiŋkɨnɨd,[],,['chan2019'],,Fal
 misi1242-1-80-1,,misi1242-1,80,ɨjiŋpiːnŋi,ɨjiŋpiːnŋi,[],,['chan2019'],,False,False,,1
 misi1242-1-90-1,,misi1242-1,90,ɨjiŋ ponaŋ,ɨjiŋ ponaŋ,[],,['chan2019'],,False,False,,1
 misi1242-1-100-1,,misi1242-1,100,lɨŋkɔŋ,lɨŋkɔŋ,[],,['chan2019'],,False,False,,1
-Misi1242-1-200-1,,misi1242-1,200,lɨŋkɔŋ anɲiː,200. lɨŋkɔŋ anɲiː,[],,['chan2019'],,False,False,,1
+misi1242-1-200-1,,misi1242-1,200,lɨŋkɔŋ anɲiː,lɨŋkɔŋ anɲiː,[],,['chan2019'],,False,False,,1
 misi1242-1-400-1,,misi1242-1,400,lɨŋkɔŋ appiː,lɨŋkɔŋ appiː,[],,['chan2019'],,False,False,,1
-Misi1242-1-800-1,,misi1242-1,800,lɨŋkɔŋ piːnŋi,800. lɨŋkɔŋ piːnŋi,[],,['chan2019'],,False,False,,1
+misi1242-1-800-1,,misi1242-1,800,lɨŋkɔŋ piːnŋi,lɨŋkɔŋ piːnŋi,[],,['chan2019'],,False,False,,1
 misi1242-1-1000-1,,misi1242-1,1000,ɛːzar,ɛːzar,[],( from Assamese hɛzar),['chan2019'],,False,False,,1

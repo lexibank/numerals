@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 brok1248-1-1-1,,brok1248-1,1,thi,thi,[],,['chan2019'],,False,False,,1
 brok1248-1-1-2,,brok1248-1,1,tʰé,tʰé,[],( Dakpa),['chan2019'],,False,False,,1
-brok1248-1-1-3,,brok1248-1,1,Dzala,Dzala,[],,['chan2019'],,False,False,,1
+brok1248-1-1-3,,brok1248-1,1,dzala,dzala,[],,['chan2019'],,False,False,,1
 brok1248-1-2-1,,brok1248-1,2,lɛyi,lɛyi,[],,['chan2019'],,False,False,,1
 brok1248-1-2-2,,brok1248-1,2,nœ̀i,nœ̀i,[],,['chan2019'],,False,False,,1
 brok1248-1-3-1,,brok1248-1,3,sum,sum,[],,['chan2019'],,False,False,,1
@@ -60,13 +60,13 @@ brok1248-1-70-1,,brok1248-1,70,khǎisum cih,khǎisum cih,[],,['chan2019'],,Fal
 brok1248-1-70-2,,brok1248-1,70,kʰé-sùm-(tíŋ)-tʃí,kʰé-sùm-(tíŋ)-tʃí,[],,['chan2019'],,False,False,,1
 brok1248-1-80-1,,brok1248-1,80,khǎibli,khǎibli,[],,['chan2019'],,False,False,,1
 brok1248-1-80-2,,brok1248-1,80,kʰé-blì,kʰé-blì,[],( 20 x 4 ),['chan2019'],,False,False,,1
-brok1248-1-90-1,,brok1248-1,90,khǎibli cih ,khǎibli cih ?,[],?,['chan2019'],,False,False,,1
+brok1248-1-90-1,,brok1248-1,90,khǎibli cih ,khǎibli cih,[],?,['chan2019'],,False,False,,1
 brok1248-1-90-2,,brok1248-1,90,kʰé-blì-(tíŋ)-tʃí,kʰé-blì-(tíŋ)-tʃí,[],,['chan2019'],,False,False,,1
-brok1248-1-100-1,,brok1248-1,100,khǎilɛŋa,khǎilɛŋa?,[],?,['chan2019'],,False,False,,1
+brok1248-1-100-1,,brok1248-1,100,khǎilɛŋa,khǎilɛŋa,[],?,['chan2019'],,False,False,,1
 brok1248-1-100-2,,brok1248-1,100,kʰé-lə̀ŋa,kʰé-lə̀ŋa,[],,['chan2019'],,False,False,,1
-brok1248-1-200-1,,brok1248-1,200,kʰé-tʃí,? kʰé-tʃí,[],?,['chan2019'],,False,False,,1
-Brok1248-1-400-1,,brok1248-1,400,pʰóŋ-tʰé,400. pʰóŋ-tʰé,[],,['chan2019'],,False,False,,1
-brok1248-1-1000-1,,brok1248-1,1000,pʰóŋ-nœ̀i-tíŋ-kʰé-tʃí,? pʰóŋ-nœ̀i-tíŋ-kʰé-tʃí,[],?,['chan2019'],,False,False,,1
+brok1248-1-200-1,,brok1248-1,200,kʰé-tʃí,kʰé-tʃí,[],?,['chan2019'],,False,False,,1
+brok1248-1-400-1,,brok1248-1,400,pʰóŋ-tʰé,pʰóŋ-tʰé,[],,['chan2019'],,False,False,,1
+brok1248-1-1000-1,,brok1248-1,1000,pʰóŋ-nœ̀i-tíŋ-kʰé-tʃí,pʰóŋ-nœ̀i-tíŋ-kʰé-tʃí,[],?,['chan2019'],,False,False,,1
 brok1248-1-1000-2,,brok1248-1,1000,tóŋ-tʰé,tóŋ-tʰé,[],,['chan2019'],,False,False,,1
-brok1248-1-2000-1,,brok1248-1,2000,pʰóŋ-lə̀ŋa,? pʰóŋ-lə̀ŋa,[],?,['chan2019'],,False,False,,1
+brok1248-1-2000-1,,brok1248-1,2000,pʰóŋ-lə̀ŋa,pʰóŋ-lə̀ŋa,[],?,['chan2019'],,False,False,,1
 brok1248-1-2000-2,,brok1248-1,2000,tóŋ-nœ̀i,tóŋ-nœ̀i,[],,['chan2019'],,False,False,,1

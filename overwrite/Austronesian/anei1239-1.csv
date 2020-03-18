@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 anei1239-1-1-1,,anei1239-1,1,it.hi:,it.hi:,[],,['chan2019'],,False,False,ithii,1
 anei1239-1-2-1,,anei1239-1,2,'ɛɾou,'ɛɾou,[],,['chan2019'],,False,False,erou,1
-anei1239-1-3-1,,anei1239-1,3,eseč,eseč,[],,['chan2019'],,False,False,,1
+anei1239-1-3-1,,anei1239-1,3,'ʔɛsɛit͡ʃ,'ʔɛsɛit͡ʃ,[],,['chan2019'],,False,False,eseč,1
 anei1239-1-3-2,,anei1239-1,3,'ʔɛsɛit͡ʃ,'ʔɛsɛit͡ʃ,[],,['chan2019'],,False,False,esej,1
 anei1239-1-4-1,,anei1239-1,4,ɛma'nɔhɔwan,ɛma'nɔhɔwan,[],,['chan2019'],,False,False,emanohowan,1
 anei1239-1-4-2,,anei1239-1,4,fo,fo,[],,['chan2019'],,False,False,,1
-anei1239-1-5-1,,anei1239-1,5,nit͡ʃman,"nijman [nit͡ʃman), faiv",[],,['chan2019'],,False,False,,1
-anei1239-1-5-2,,Anei1239-1,5,faiv,,,,,,,False,,
+anei1239-1-5-1,,anei1239-1,5,nit͡ʃman,nit͡ʃman,[],,['chan2019'],,False,False,nijman,1
+anei1239-1-5-2,,anei1239-1,5,faiv,faiv,[],,['chan2019'],,False,False,,1
 anei1239-1-6-1,,anei1239-1,6,mɛlɛθ,mɛlɛθ,[],,['chan2019'],,False,False,meled,1
 anei1239-1-6-2,,anei1239-1,6,sikis,sikis,[],,['chan2019'],,False,False,,1
 anei1239-1-7-1,,anei1239-1,7,meled-erou,meled-erou,[],,['chan2019'],,False,False,,1

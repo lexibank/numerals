@@ -2,7 +2,8 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 east2330-1-1-1,,east2330-1,1,teˀ,teˀ,[],,['chan2019'],,False,False,,1
 east2330-1-2-1,,east2330-1,2,laʔa,laʔa,[],,['chan2019'],,False,False,,1
 east2330-1-3-1,,east2330-1,3,laʔɔi,laʔɔi,[],,['chan2019'],,False,False,,1
-east2330-1-4-1,,east2330-1,4,paɨŋ ,paɨŋ (creaky) pa̰ɨŋ < v̰ >,[],,['chan2019'],,False,False,,1
+east2330-1-4-1,,east2330-1,4,paɨŋ ,paɨŋ,[],(creaky),['chan2019'],,False,False,,1
+east2330-1-4-2,,east2330-1,4,pa̰ɨŋ,pa̰ɨŋ,[],< v̰ >,['chan2019'],,False,False,,1
 east2330-1-5-1,,east2330-1,5,pʰuan,pʰuan,[],,['chan2019'],,False,False,,1
 east2330-1-6-1,,east2330-1,6,leh,leh,[],,['chan2019'],,False,False,,1
 east2330-1-7-1,,east2330-1,7,ˀa leh,ˀa leh,[],,['chan2019'],,False,False,,1

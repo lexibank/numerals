@@ -37,6 +37,6 @@ jang1254-1-80-1,,jang1254-1,80,pɨ nisa,pɨ nisa,[],( 4 x 20 ),['chan2019'],,Fal
 jang1254-1-90-1,,jang1254-1,90,pɨ nisa tɕui,pɨ nisa tɕui,[],( 4 x 20 + 10 ),['chan2019'],,False,False,,1
 jang1254-1-100-1,,jang1254-1,100,ra,ra,[],,['chan2019'],,False,False,,1
 jang1254-1-200-1,,jang1254-1,200,niɕ ra,niɕ ra,[],,['chan2019'],,False,False,,1
-jang1254-1-1000-1,,jang1254-1,1000,tɕui ra,tɕui ra (10 x 100) or hɐzar,[],,['chan2019'],,False,False,,1
-jang1254-1-1000-2,,Jang1254-1,1000,hɐzar,,,,,,,False,,
+jang1254-1-1000-1,,jang1254-1,1000,tɕui ra,tɕui ra,[],(10 x 100),['chan2019'],,False,False,,1
+jang1254-1-1000-2,,jang1254-1,1000,hɐzar,hɐzar,[],,['chan2019'],,False,False,,1
 jang1254-1-2000-1,,jang1254-1,2000,niɕ hɐzar,niɕ hɐzar,[],,['chan2019'],,False,False,,1

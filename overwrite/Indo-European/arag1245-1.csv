@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-arag1245-1-1-1,,arag1245-1,1,ˈun(o),ˈun(o),[],,['chan2019'],,False,False,un(o),1
-arag1245-1-1-2,,arag1245-1,1,ˈuna,ˈuna,[],(m./f.),['chan2019'],,False,False,una,1
+arag1245-1-1-1,,arag1245-1,1,ˈun(o),ˈun(o),[],(m.),['chan2019'],,False,False,un(o),1
+arag1245-1-1-2,,arag1245-1,1,ˈuna,ˈuna,[],(f.),['chan2019'],,False,False,una,1
 arag1245-1-2-1,,arag1245-1,2,dos,dos,[],,['chan2019'],,False,False,dos,1
 arag1245-1-3-1,,arag1245-1,3,tres,tres,[],,['chan2019'],,False,False,tres,1
 arag1245-1-4-1,,arag1245-1,4,ˈkwatro,ˈkwatro,[],,['chan2019'],,False,False,cuatro,1
@@ -22,11 +22,11 @@ arag1245-1-18-1,,arag1245-1,18,deθiˈɣwei̯to,deθiˈɣwei̯to,[],,['chan2019'
 arag1245-1-19-1,,arag1245-1,19,deθiˈnweu,deθiˈnweu,[],,['chan2019'],,False,False,dezinueu,1
 arag1245-1-20-1,,arag1245-1,20,ˈbeɲte,ˈbeɲte,[],,['chan2019'],,False,False,bente,1
 arag1245-1-21-1,,arag1245-1,21,beɲtiˈun,beɲtiˈun,[],,['chan2019'],,False,False,bentiún,1
-arag1245-1-21-2,,arag1245-1,21,beɲtiˈuna,beɲtiˈuna],[],,['chan2019'],,False,False,,1
+arag1245-1-21-2,,arag1245-1,21,beɲtiˈuna,beɲtiˈuna,[],,['chan2019'],,False,False,,1
 arag1245-1-22-1,,arag1245-1,22,beɲtiˈðos,beɲtiˈðos,[],,['chan2019'],,False,False,bentidós,1
 arag1245-1-23-1,,arag1245-1,23,beɲtiˈtres,beɲtiˈtres,[],,['chan2019'],,False,False,bentitrés,1
 arag1245-1-24-1,,arag1245-1,24,beɲtiˈkwatro,beɲtiˈkwatro,[],,['chan2019'],,False,False,benticuatro,1
-arag1245-1-25-1,,arag1245-1,25,beɲtiˈθiŋko,beɲtiˈθiŋko,[],,['chan2019'],,False,False,bentizinco [,1
+arag1245-1-25-1,,arag1245-1,25,beɲtiˈθiŋko,beɲtiˈθiŋko,[],,['chan2019'],,False,False,bentizinco,1
 arag1245-1-26-1,,arag1245-1,26,beɲtiˈsei̯s,beɲtiˈsei̯s,[],,['chan2019'],,False,False,bentiséis,1
 arag1245-1-27-1,,arag1245-1,27,beɲtiˈsjete,beɲtiˈsjete,[],,['chan2019'],,False,False,bentisiete,1
 arag1245-1-28-1,,arag1245-1,28,beɲtiˈɣwei̯to,beɲtiˈɣwei̯to,[],,['chan2019'],,False,False,bentigüeito,1
@@ -39,7 +39,7 @@ arag1245-1-70-1,,arag1245-1,70,seˈtaɲa,seˈtaɲa,[],,['chan2019'],,False,False
 arag1245-1-80-1,,arag1245-1,80,gwitaɲta,gwitaɲta,[],,['chan2019'],,False,False,güitanta,1
 arag1245-1-90-1,,arag1245-1,90,noˈβaɲta,noˈβaɲta,[],,['chan2019'],,False,False,nobanta,1
 arag1245-1-100-1,,arag1245-1,100,sen,sen,[],,['chan2019'],,False,False,zien,1
-arag1245-1-200-1,,arag1245-1,200,dosˈθjeɲtos,dosˈθjeɲtos,[],,['chan2019'],,False,False,doszientos,1
-arag1245-1-200-2,,arag1245-1,200,dosˈθjeɲtas,dosˈθjeɲtas,[],(masc./fem.),['chan2019'],,False,False,doszientas,1
+arag1245-1-200-1,,arag1245-1,200,dosˈθjeɲtos,dosˈθjeɲtos,[],(masc.),['chan2019'],,False,False,doszientos,1
+arag1245-1-200-2,,arag1245-1,200,dosˈθjeɲtas,dosˈθjeɲtas,[],(fem.),['chan2019'],,False,False,doszientas,1
 arag1245-1-1000-1,,arag1245-1,1000,ˈmil,ˈmil,[],,['chan2019'],,False,False,mil,1
 arag1245-1-2000-1,,arag1245-1,2000,dozˈmil,dozˈmil,[],,['chan2019'],,False,False,dosmil,1
