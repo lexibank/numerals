@@ -181,6 +181,12 @@ class Dataset(BaseDataset):
                 reader = csv.DictReader(csvfile)
                 for row in reader:
 
+                    if row["Language_ID"] not in valid_languages:
+                        if row["Language_ID"] not in seen_unknown_languages:
+                            unknown_languages.append({'id': row["Language_ID"], 'lg': c.name})
+                            seen_unknown_languages.add(row["Language_ID"])
+                        continue
+
                     if row["Parameter_ID"] not in valid_parameters:
                         unknown_params.append(
                                 'Parameter_ID {0} for {1} unknown'.format(
@@ -190,11 +196,6 @@ class Dataset(BaseDataset):
                     if row["Loan"] is None or row["Variant_ID"] is None or\
                                 len(row["Loan"]) < 3 or len(row["Variant_ID"]) < 1:
                         misaligned_overwrites.add(row["Language_ID"])
-
-                    if row["Language_ID"] not in valid_languages:
-                        if row["Language_ID"] not in seen_unknown_languages:
-                            unknown_languages.append({'id': row["Language_ID"], 'lg': c.name})
-                            seen_unknown_languages.add(row["Language_ID"])
 
                     if len(row["Form"]) > len(row["Value"])+1 or\
                             "[" in row["Form"] or "]" in row["Form"]:
