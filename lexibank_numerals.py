@@ -53,7 +53,7 @@ class Dataset(BaseDataset):
         brackets={},
         replacements=[],
         separators="",
-        missing_data=(),
+        missing_data=("Ø"),
         strip_inside_brackets=False,
         normalize_unicode=None,
     )
