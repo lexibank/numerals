@@ -10,7 +10,7 @@
 
 - **Varieties:** 5,283
 - **Concepts:** 95
-- **Lexemes:** 185,476
+- **Lexemes:** 185,471
 - **Sources:** 1
 - **Synonymy:** 1.09
 

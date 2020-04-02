@@ -13,7 +13,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
 - `separators`: ``
   Iterable of single character tokens that should be recognized as word separator
-- `missing_data`: `()`
+- `missing_data`: `['Ø']`
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `False`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
@@ -23,5 +23,5 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.
 - `normalize_whitespace`: `True`
   Flag signaling whether to normalize whitespace - stripping leading and trailing whitespace and collapsing multi-character whitespace to single spaces
-- `normalize_unicode`: `None`
+- `normalize_unicode`: `NFC`
   UNICODE normalization form to use for input of `split` (`None`, 'NFD' or 'NFC')

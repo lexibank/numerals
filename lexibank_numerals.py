@@ -2,6 +2,7 @@ import csv
 import pathlib
 import attr
 import shutil
+import unicodedata
 
 from pyglottolog import Glottolog
 
@@ -53,9 +54,9 @@ class Dataset(BaseDataset):
         brackets={},
         replacements=[],
         separators="",
-        missing_data=("Ø"),
+        missing_data=["Ø"],
         strip_inside_brackets=False,
-        normalize_unicode=None,
+        normalize_unicode="NFC",
     )
 
     channumerals_files = [
@@ -166,6 +167,9 @@ class Dataset(BaseDataset):
         form_length = set()
         other_form = set()
 
+        # only for avoiding outputting a warning
+        ignored_lang_ids = ["gela1261-3", "hmon1338-1"]
+
         for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\
                     or c.name in self.channumerals_files\
@@ -181,50 +185,65 @@ class Dataset(BaseDataset):
                 reader = csv.DictReader(csvfile)
                 for row in reader:
 
-                    if row["Language_ID"] not in valid_languages:
-                        if row["Language_ID"] not in seen_unknown_languages:
-                            unknown_languages.append({'id': row["Language_ID"], 'lg': c.name})
-                            seen_unknown_languages.add(row["Language_ID"])
+                    lang_id = row["Language_ID"].strip()
+                    param_id = row["Parameter_ID"].strip()
+                    form = unicodedata.normalize('NFC', row["Form"].strip())
+                    value = unicodedata.normalize('NFC', row["Value"].strip())
+
+                    if lang_id not in valid_languages:
+                        if lang_id not in ignored_lang_ids\
+                                and lang_id not in seen_unknown_languages:
+                            unknown_languages.append({'id': lang_id, 'lg': c.name})
+                            seen_unknown_languages.add(lang_id)
                         continue
 
-                    if row["Parameter_ID"] not in valid_parameters:
+                    if param_id not in valid_parameters:
                         unknown_params.append(
                                 'Parameter_ID {0} for {1} unknown'.format(
-                                        row["Parameter_ID"], row["Language_ID"]))
+                                        param_id, lang_id))
                         continue
 
-                    if row["Loan"] is None or row["Variant_ID"] is None or\
-                                len(row["Loan"]) < 3 or len(row["Variant_ID"]) < 1:
-                        misaligned_overwrites.add(row["Language_ID"])
+                    if form in self.form_spec.missing_data:
+                        continue
 
-                    if len(row["Form"]) > len(row["Value"])+1 or\
-                            "[" in row["Form"] or "]" in row["Form"]:
+                    if row["Loan"] is None or\
+                            row["Variant_ID"] is None or\
+                            len(row["Loan"].strip()) < 3 or\
+                            len(row["Variant_ID"].strip()) < 1:
+                        misaligned_overwrites.add(lang_id)
+
+                    if len(form) > len(value)+1 or\
+                            "[" in form or "]" in form:
                         form_length.add(c.name)
 
                     if row["Other_Form"] is not None and\
-                        ("[" in row["Other_Form"] or "]" in row["Other_Form"]):
+                            ("[" in row["Other_Form"] or "]" in row["Other_Form"]):
                         other_form.add(c.name)
 
                     args.writer.add_form(
-                        Value=row["Value"].strip(),
-                        Form=row["Form"].strip(),
-                        Language_ID=row["Language_ID"].strip(),
-                        Parameter_ID=row["Parameter_ID"].strip(),
+                        Value=value,
+                        Form=form,
+                        Language_ID=lang_id,
+                        Parameter_ID=param_id,
                         Source="chan2019",
-                        Comment=row["Comment"].strip() if row["Comment"] else "",
-                        Other_Form=row["Other_Form"].strip() if row["Other_Form"] else "",
-                        Loan=bool(row["Loan"] == "True"),
-                        Variant_ID=row["Variant_ID"].strip() if row["Variant_ID"] else "",
-                        Problematic=bool(row["Problematic"] == "True"),
+                        Comment=row["Comment"].strip() if row["Comment"].strip() else "",
+                        Other_Form=row["Other_Form"].strip() if row["Other_Form"].strip() else "",
+                        Loan=bool(row["Loan"].strip() == "True"),
+                        Variant_ID=row["Variant_ID"].strip() if row["Variant_ID"].strip() else "",
+                        Problematic=bool(row["Problematic"].strip() == "True"),
                     )
+
         def _x(s):
             try:
                 return int(s)
-            except:
+            except ValueError:
                 return s
+
         # apply the same sort order as for channumerals
-        args.writer.objects['FormTable'] = sorted(args.writer.objects['FormTable'],
-                key=lambda item: ([_x(i) for i in item['ID'].split('-')]))
+        args.writer.objects['FormTable'] = sorted(
+                args.writer.objects['FormTable'],
+                key=lambda item: ([_x(i) for i in item['ID'].split('-')])
+            )
 
         args.log.info('{0} overwritten languages'.format(overwrites_cnt))
 
@@ -242,4 +261,3 @@ class Dataset(BaseDataset):
 
         for u in sorted(other_form):
             args.log.warn("check Other_Form for [] in {0}".format(u))
-
