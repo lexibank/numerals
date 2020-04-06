@@ -13,6 +13,8 @@ from pylexibank.models import Lexeme, Language
 from pylexibank.util import progressbar
 from pylexibank.forms import FormSpec
 
+from base_mapper import BASE_MAP
+
 from numerals_util import (
     split_form_table,
     make_language_name,
@@ -141,12 +143,29 @@ class Dataset(BaseDataset):
 
         valid_parameters = set()
         valid_languages = set()
+        changed_glottolog_codes = []
+        no_glottolog_codes = []
+
         for concept in self.concepts:
             args.writer.add_concept(**concept)
             valid_parameters.add(concept['ID'])
         for language in self.languages:
+            if language["Base"]:
+                if language["Base"] in BASE_MAP:
+                    language["Base"] = BASE_MAP[language["Base"]]
+                else:
+                    args.log.warn("Base '{0}' is known for {1}".format(
+                        language["Base"], language['ID']))
             args.writer.add_language(**language)
             valid_languages.add(language['ID'])
+            if language['Glottocode']:
+                if language['ID'].split("-")[0] != language['Glottocode']:
+                    changed_glottolog_codes.append(
+                        (language['ID'], language['Glottocode'])
+                    )
+            else:
+                no_glottolog_codes.append(language['ID'])
+
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
@@ -162,13 +181,16 @@ class Dataset(BaseDataset):
         overwrites_cnt = 0
         unknown_params = []
         misaligned_overwrites = set()
+        misaligned = set()
         unknown_languages = []
         seen_unknown_languages = set()
         form_length = set()
         other_form = set()
 
         # only for avoiding outputting a warning
-        ignored_lang_ids = ["gela1261-3", "hmon1338-1"]
+        ignored_lang_ids = ["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
+                            "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
+                            "twen1241-2"]
 
         for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\
@@ -205,6 +227,9 @@ class Dataset(BaseDataset):
 
                     if form in self.form_spec.missing_data:
                         continue
+
+                    if len(row) != 14:
+                        misaligned.add(c)
 
                     if row["Loan"] is None or\
                             row["Variant_ID"] is None or\
@@ -247,11 +272,23 @@ class Dataset(BaseDataset):
 
         args.log.info('{0} overwritten languages'.format(overwrites_cnt))
 
+        for u in changed_glottolog_codes:
+            args.log.info("changed {0} to {1}".format(u[0], u[1]))
+
+        for u in ignored_lang_ids:
+            args.log.info("removed ID {0}".format(u))
+
+        for u in no_glottolog_codes:
+            args.log.info("no Glottolog code for ID {0}".format(u))
+
         for u in sorted(unknown_params, key=lambda k: int(k.split(" ")[1])):
             args.log.warn(u)
 
         for u in sorted(misaligned_overwrites):
             args.log.warn("check overwrite {0} for misalignments".format(u))
+
+        for u in sorted(misaligned):
+            args.log.warn("check {0} for number of colums".format(u))
 
         for u in sorted(unknown_languages, key=lambda k: k['lg']):
             args.log.warn("check Language_ID {0} in overwrite {1}".format(u['id'], u['lg']))

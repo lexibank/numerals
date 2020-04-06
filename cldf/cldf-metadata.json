@@ -12,7 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/numerals",
-            "dc:created": "3e59d154"
+            "dc:created": "9ff93deb"
         },
         {
             "rdf:type": "prov:Entity",
@@ -24,7 +24,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -51,7 +51,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 185471,
+            "dc:extent": 185208,
             "tableSchema": {
                 "columns": [
                     {
@@ -114,6 +114,14 @@
                         "name": "Loan"
                     },
                     {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
+                    },
+                    {
                         "datatype": "boolean",
                         "name": "Problematic"
                     },
@@ -158,7 +166,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5283,
+            "dc:extent": 5277,
             "tableSchema": {
                 "columns": [
                     {

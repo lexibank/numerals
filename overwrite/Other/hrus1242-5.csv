@@ -18,7 +18,7 @@ hrus1242-5-16-1,,hrus1242-5,16,ʁə tʃə yɛ̌,ʁə tʃə yɛ̌,[],,['chan2019'
 hrus1242-5-17-1,,hrus1242-5,17,ʁə tʃə mrəɔ,ʁə tʃə mrəɔ,[],,['chan2019'],,False,False,,5
 hrus1242-5-18-1,,hrus1242-5,18,ʁə tʃə skzə,ʁə tʃə skzə,[],,['chan2019'],,False,False,,5
 hrus1242-5-19-1,,hrus1242-5,19,ʁə tʃə sðə,ʁə tʃə sðə,[],,['chan2019'],,False,False,,5
-hrus1242-5-20-1,,hrus1242-5,20,bʃa,bʃa,[],< bis ( Indo-Aryan),['chan2019'],,False,False,,5
+hrus1242-5-20-1,,hrus1242-5,20,bʃa,bʃa,[],< bis ( Indo-Aryan),['chan2019'],,True,False,,5
 hrus1242-5-21-1,,hrus1242-5,21,bʃayə ǎ,bʃayə ǎ,[],,['chan2019'],,False,False,,5
 hrus1242-5-30-1,,hrus1242-5,30,ðə ʁə,ðə ʁə,[],,['chan2019'],,False,False,,5
 hrus1242-5-40-1,,hrus1242-5,40,pi ʁə,pi ʁə,[],,['chan2019'],,False,False,,5
@@ -36,4 +36,4 @@ hrus1242-5-600-1,,hrus1242-5,600,fuɡ ʒɛ̌,fuɡ ʒɛ̌,[],,['chan2019'],,False
 hrus1242-5-700-1,,hrus1242-5,700,fuɡ mrəɔ,fuɡ mrəɔ,[],,['chan2019'],,False,False,,5
 hrus1242-5-800-1,,hrus1242-5,800,fuɡ skzə,fuɡ skzə,[],,['chan2019'],,False,False,,5
 hrus1242-5-900-1,,hrus1242-5,900,fuɡ ˢðə,fuɡ ˢðə,[],,['chan2019'],,False,False,,5
-hrus1242-5-1000-1,,hrus1242-5,1000,hazeya,hazeya,[],(<loan from Indic),['chan2019'],,False,False,,5
+hrus1242-5-1000-1,,hrus1242-5,1000,,,[],(<loan from Indic),['chan2019'],hazeya,True,False,,5
