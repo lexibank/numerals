@@ -2,7 +2,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 naii1241-1-1-1,,naii1241-1,1,maime,maime,[],,['chan2019'],,False,False,,1
 naii1241-1-2-1,,naii1241-1,2,areme,areme,[],,['chan2019'],,False,False,,1
 naii1241-1-3-1,,naii1241-1,3,maɡʊfe,maɡʊfe,[],,['chan2019'],,False,False,,1
-naii1241-1-4-1,,naii1241-1,4,amitai,amitai,[],(litː 'ami' is hand / arm,  'tai' is a bundle ),['chan2019'],,False,False,,1
+naii1241-1-4-1,,naii1241-1,4,amitai,amitai,[],(litː 'ami' is hand / arm  'tai' is a bundle ) ,['chan2019'],,False,False,,1
 naii1241-1-5-1,,naii1241-1,5,yaritʊ,yaritʊ,[],,['chan2019'],,False,False,,1
 naii1241-1-6-1,,naii1241-1,6,kruitʊ,kruitʊ,[],(litː 'krui' is the wrsit'),['chan2019'],,False,False,,1
 naii1241-1-7-1,,naii1241-1,7,fritaritɔ,fritaritɔ,[],(litː 'forearm'),['chan2019'],,False,False,,1
@@ -19,6 +19,6 @@ naii1241-1-17-1,,naii1241-1,17,neifritaritɔ,neifritaritɔ,[],,['chan2019'],,Fal
 naii1241-1-18-1,,naii1241-1,18,neikruitʊ,neikruitʊ,[],,['chan2019'],,False,False,,1
 naii1241-1-19-1,,naii1241-1,19,neiyaritʊ,neiyaritʊ,[],,['chan2019'],,False,False,,1
 naii1241-1-20-1,,naii1241-1,20,neiamitai,neiamitai,[],,['chan2019'],,False,False,,1
-naii1241-1-21-1,,naii1241-1,21,neimaɡʊfe.,neimaɡʊfe.,[],,['chan2019'],,False,False,,1
+naii1241-1-21-1,,naii1241-1,21,neimaɡʊfe,neimaɡʊfe,[],,['chan2019'],,False,False,,1
 naii1241-1-22-1,,naii1241-1,22,neiareme,neiareme,[],,['chan2019'],,False,False,,1
 naii1241-1-23-1,,naii1241-1,23,neimaime,neimaime,[],,['chan2019'],,False,False,,1

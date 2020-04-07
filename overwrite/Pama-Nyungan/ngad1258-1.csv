@@ -1,14 +1,14 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 ngad1258-1-1-1,,ngad1258-1,1,kantula,kantula,[],,['chan2019'],,False,False,,1
 ngad1258-1-1-2,,ngad1258-1,1,kayanu,kayanu,[],,['chan2019'],,False,False,,1
-ngad1258-1-1-3,,ngad1258-1,1,kutharra,kutharra,[],"( one, alone)",['chan2019'],,False,False,,1
+ngad1258-1-1-3,,ngad1258-1,1,kutharra,kutharra,[],( one, alone),['chan2019'],,False,False,,1
 ngad1258-1-2-1,,ngad1258-1,2,kutarra,kutarra,[],,['chan2019'],,False,False,,1
 ngad1258-1-2-2,,ngad1258-1,2,kutara,kutara,[],,['chan2019'],,False,False,,1
-ngad1258-1-2-3,,ngad1258-1,2,kutharra,or kutharra,[],,['chan2019'],,False,False,,1
+ngad1258-1-2-3,,ngad1258-1,2,kutharra,kutharra,[],,['chan2019'],,False,False,,1
 ngad1258-1-2-4,,ngad1258-1,2,kut̪aɹa,kut̪aɹa,[],,['chan2019'],,False,False,,1
 ngad1258-1-3-1,,ngad1258-1,3,waaril,waaril,[],,['chan2019'],,False,False,,1
 ngad1258-1-3-2,,ngad1258-1,3,waːɹil,waːɹil,[],,['chan2019'],,False,False,,1
-ngad1258-1-3-3,,ngad1258-1,3,warrul,or warrul,[],,['chan2019'],,False,False,,1
+ngad1258-1-3-3,,ngad1258-1,3,warrul,warrul,[],,['chan2019'],,False,False,,1
 ngad1258-1-3-4,,ngad1258-1,3,warul,warul,[],,['chan2019'],,False,False,,1
 ngad1258-1-4-1,,ngad1258-1,4,manguru,manguru,[],,['chan2019'],,False,False,,1
 ngad1258-1-4-2,,ngad1258-1,4,maŋuɹu,maŋuɹu,[],,['chan2019'],,False,False,,1
