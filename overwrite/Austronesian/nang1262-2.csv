@@ -1,12 +1,12 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 nang1262-2-1-1,,nang1262-2,1,ɞte,ɞte,[],,['chan2019'],,False,False,,2
 nang1262-2-1-2,,nang1262-2,1,tete,tete,[],( when counting),['chan2019'],,False,False,,2
-nang1262-2-2-1,,nang1262-2,2,li ,li ~lili,[],,['chan2019'],,False,False,,2
-nang1262-2-2-2,,Nang1262-2,2,lili,,,,,,,False,,
+nang1262-2-2-1,,nang1262-2,2,li ,li ,[],,['chan2019'],,False,False,,2
+nang1262-2-2-2,,nang1262-2,2,lili,lili,[],,['chan2019'],,False,False,,2
 nang1262-2-3-1,,nang1262-2,3,tʉ,tʉ,[],,['chan2019'],,False,False,,2
 nang1262-2-3-2,,nang1262-2,3,tʉtʉ,tʉtʉ,[],,['chan2019'],,False,False,,2
-nang1262-2-4-1,,nang1262-2,4,pwɔ,pwɔ ~tupwɔ,[],,['chan2019'],,False,False,,2
-nang1262-2-4-2,,Nang1262-2,4,tupwɔ,,,,,,,False,,
+nang1262-2-4-1,,nang1262-2,4,pwɔ,pwɔ,[],,['chan2019'],,False,False,,2
+nang1262-2-4-2,,nang1262-2,4,tupwɔ,tupwɔ,[],,['chan2019'],,False,False,,2
 nang1262-2-5-1,,nang1262-2,5,məpũ,məpũ,[],,['chan2019'],,False,False,,2
 nang1262-2-6-1,,nang1262-2,6,meremou,meremou,[],,['chan2019'],,False,False,,2
 nang1262-2-7-1,,nang1262-2,7,tʊm,tʊm,[],,['chan2019'],,False,False,,2
