@@ -63,7 +63,6 @@ class Dataset(BaseDataset):
 
     channumerals_files = [
         "cldf-metadata.json",
-        "cognates.csv",
         "forms.csv",
         "languages.csv",
         "parameters.csv",
@@ -130,8 +129,6 @@ class Dataset(BaseDataset):
                 outfile.write(index_link + chan_link +
                               language_name + problems + "\n")
 
-        shutil.move(self.raw_dir / "cognates.csv",
-                    self.etc_dir / "cognates.csv")
         shutil.move(self.raw_dir / "parameters.csv",
                     self.etc_dir / "concepts.csv")
         shutil.move(self.raw_dir / "languages.csv",
