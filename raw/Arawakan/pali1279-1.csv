@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+pali1279-1-1-1,,pali1279-1,1,paha-t,paha-t,[],(-t classifies cylindrical objects like fingers),['chan2019'],,False,False,,1
+pali1279-1-2-1,,pali1279-1,2,pi-ta-na,pi-ta-na,[],(the -t infix classifies cylindrical objects),['chan2019'],,False,False,,1
+pali1279-1-3-1,,pali1279-1,3,mpana,mpana,[],,['chan2019'],,False,False,,1
+pali1279-1-4-1,,pali1279-1,4,paxnika,paxnika,[],,['chan2019'],,False,False,,1
+pali1279-1-5-1,,pali1279-1,5,poho-wku,poho-wku,[],(lit: 'one hand'),['chan2019'],,False,False,,1
+pali1279-1-6-1,,pali1279-1,6,puɡuhkuna,puɡuhkuna,[],,['chan2019'],,False,False,,1
+pali1279-1-7-1,,pali1279-1,7,ntewnehker,ntewnehker,[],,['chan2019'],,False,False,,1
+pali1279-1-8-1,,pali1279-1,8,ntewnehker a-kak paha-t ar-awna,ntewnehker a-kak paha-t ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-9-1,,pali1279-1,9,ntewnehker a-kak pi-ta-na ar-awna,ntewnehker a-kak pi-ta-na ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-10-1,,pali1279-1,10,madik-awku,madik-awku,[],(lit: 'end (of) hands'),['chan2019'],,False,False,,1
+pali1279-1-11-1,,pali1279-1,11,madik-awku a-kak paha-t ar-awna,madik-awku a-kak paha-t ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-12-1,,pali1279-1,12,madik-awku a-kak pi-ta-na ar-awna,madik-awku a-kak pi-ta-na ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-13-1,,pali1279-1,13,madik-awku a-kak mpana ar-awna,madik-awku a-kak mpana ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-14-1,,pali1279-1,14,madik-awku a-kak paxnika ar-awna,madik-awku a-kak paxnika ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-15-1,,pali1279-1,15,15 to 19 are in the same pattern.,15 to 19 are in the same pattern.,[],,['chan2019'],,False,True,,1
+pali1279-1-20-1,,pali1279-1,20,p-i-na madikwa,p-i-na madikwa,[],(-i classifies series) ('2 tens'),['chan2019'],,False,False,,1
+pali1279-1-21-1,,pali1279-1,21,p-i-na madikwa a-kak paha-t ar-awna,p-i-na madikwa a-kak paha-t ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-22-1,,pali1279-1,22,p-i-na madikwa a-kak pi-ta-na ar-awna,p-i-na madikwa a-kak pi-ta-na ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-23-1,,pali1279-1,23,p-i-na madikwa a-kak mpana ar-awna,p-i-na madikwa a-kak mpana ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-24-1,,pali1279-1,24,p-i-na madikwa a-kak paxnika ar-awna,p-i-na madikwa a-kak paxnika ar-awna,[],,['chan2019'],,False,False,,1
+pali1279-1-25-1,,pali1279-1,25,25 to 29 are in the same pattern,25 to 29 are in the same pattern,[],,['chan2019'],,False,True,,1
+pali1279-1-30-1,,pali1279-1,30,mpana madikwa,mpana madikwa,[],('3 tens'),['chan2019'],,False,False,,1
+pali1279-1-40-1,,pali1279-1,40,paxnika madikwa,paxnika madikwa,[],('4 tens' ),['chan2019'],,False,False,,1
+pali1279-1-50-1,,pali1279-1,50,pohowku madikwa,pohowku madikwa,[],('5 tens'),['chan2019'],,False,False,,1
+pali1279-1-60-1,,pali1279-1,60,puɡuhkuna madikwa,puɡuhkuna madikwa,[],('6 tens'),['chan2019'],,False,False,,1
+pali1279-1-70-1,,pali1279-1,70,ntewnehker madikwa,ntewnehker madikwa,[],('7 tens'),['chan2019'],,False,False,,1
+pali1279-1-80-1,,pali1279-1,80,ntewnehker mad. a-kak madikawku ar-awna,ntewnehker mad. a-kak madikawku ar-awna,[],,['chan2019'],,False,True,,1
+pali1279-1-90-1,,pali1279-1,90,ntewnehker mad. a. pina madikwa ar-awna,ntewnehker mad. a. pina madikwa ar-awna,[],,['chan2019'],,False,True,,1
+pali1279-1-100-1,,pali1279-1,100,madikawku madikwa,madikawku madikwa,[],('10 tens' ),['chan2019'],,False,False,,1
+pali1279-1-200-1,,pali1279-1,200,pima-vut madikawku madikwa,pima-vut madikawku madikwa,[],(‘2 x 100' ),['chan2019'],,False,False,,1
+pali1279-1-1000-1,,pali1279-1,1000,madikawku-vut mad. mad.,madikawku-vut mad. mad.,[],(‘10 x 100' ),['chan2019'],,False,True,,1
+pali1279-1-2000-1,,pali1279-1,2000,French Creole is used,French Creole is used,[],,['chan2019'],,False,True,,1

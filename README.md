@@ -5,12 +5,12 @@
 
 [![Build Status](https://travis-ci.org/lexibank/numerals.svg?branch=master)](https://travis-ci.org/lexibank/numerals)
 ![Glottolog: 99%](https://img.shields.io/badge/Glottolog-99%25-brightgreen.svg "Glottolog: 99%")
-![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5,277
-- **Concepts:** 95
-- **Lexemes:** 185,324
+- **Varieties:** 5,324
+- **Concepts:** 100
+- **Lexemes:** 187,002
 - **Sources:** 1
 - **Synonymy:** 1.09
 
