@@ -81,6 +81,7 @@
 * [Austronesian/ajie1238-1.csv](Austronesian/ajie1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ajie.htm)) (Ajië (Houailou), New Caledonia)
 * [Atlantic-Congo/akan1250-1.csv](Atlantic-Congo/akan1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Akan.htm)) (Akan (Akuapem Twi), Ghana) **(Problems)**
 * [Atlantic-Congo/akan1250-2.csv](Atlantic-Congo/akan1250-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Akan.htm)) (Akan, Ghana)
+* [Atlantic-Congo/akas1242-1.csv](Atlantic-Congo/akas1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Akaselem.htm)) (Akaselem, Togo)
 * [Cariban/akaw1239-1.csv](Cariban/akaw1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Akawaio.htm)) (Inɡarikó (Akawaio), Brazil, Guyana) **(Problems)**
 * [Cariban/akaw1239-2.csv](Cariban/akaw1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Akawaio.htm)) (Inɡarikó (Akawaio), Brazil, Guyana) **(Problems)**
 * [Cariban/akaw1239-3.csv](Cariban/akaw1239-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Akawaio.htm)) (Inɡarikó (Akawaio), Brazil, Guyana) **(Problems)**
@@ -568,11 +569,14 @@
 * [Austronesian/bima1247-1.csv](Austronesian/bima1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bima-Sambori.htm)) (Sambori, Flores, Indonesia)
 * [Austronesian/bima1247-2.csv](Austronesian/bima1247-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bima.htm)) (Bima, Flores, Indonesia)
 * [Nuclear Trans New Guinea/bimi1240-1.csv](Nuclear%20Trans%20New%20Guinea/bimi1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bimin.htm)) (Bimin, Papua New Guinea)
+* [Atlantic-Congo/bimo1239-1.csv](Atlantic-Congo/bimo1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bimoba.htm)) (Bimoba, Ghana)
+* [Atlantic-Congo/bimo1239-2.csv](Atlantic-Congo/bimo1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ntcham.htm)) (Ntcham, Togo, Ghana)
 * [Austronesian/bina1271-1.csv](Austronesian/bina1271-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bina.htm)) (Bina, Papua New Guinea)
 * [Other/bine1240-1.csv](Other/bine1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bine.htm)) (Bine, Papua New Guinea)
 * [Other/bine1240-2.csv](Other/bine1240-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bine.htm)) (Bine, Papua New Guinea) **(Problems)**
 * [Atlantic-Congo/bini1246-1.csv](Atlantic-Congo/bini1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Edo.htm)) (Ẹdo, Nigeria) **(Problems)**
 * [Atlantic-Congo/bini1246-2.csv](Atlantic-Congo/bini1246-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Edo.htm)) (Edo (Bini), Nigeria)
+* [Atlantic-Congo/binj1249-1.csv](Atlantic-Congo/binj1249-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Binji.htm)) (ciBinji, DR of the Congo) **(Problems)**
 * [Austronesian/bino1237-1.csv](Austronesian/bino1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Itneg-Binongan.htm)) (Binongan Itneg, Philippines) **(Problems)**
 * [Austronesian/bint1245-1.csv](Austronesian/bint1245-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bintauna.htm)) (Bintauna, Sulawesi, Indonesia)
 * [Austronesian/bint1246-1.csv](Austronesian/bint1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bintulu.htm)) (Bintulu, Malaysia) **(Problems)**
@@ -583,6 +587,7 @@
 * [Austronesian/bira1254-1.csv](Austronesian/bira1254-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Mbirao.htm)) (Birao (Mbirao), Solomon Islands)
 * [Austroasiatic/birh1242-1.csv](Austroasiatic/birh1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Birhor.htm)) (Birhor, Jharkhand State, India) **(Problems)**
 * [Austroasiatic/birh1242-2.csv](Austroasiatic/birh1242-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Birhor.htm)) (Birhor, Jharkhand State, India) **(Problems)**
+* [Atlantic-Congo/birw1238-1.csv](Atlantic-Congo/birw1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Birwa.htm)) (Birwa (Sebirwa), Botswana)
 * [Indo-European/bish1244-1.csv](Indo-European/bish1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bishnupriya.htm)) (Bishnupriya, Bangladesh, India)
 * [Mande/biss1248-1.csv](Mande/biss1248-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bissa.htm)) (Bissa (Bisa), Burkina Faso, Ghana)
 * [Other/bisu1247-1.csv](Other/bisu1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bisu.htm)) (Bisu, China, Thailand)
@@ -662,6 +667,7 @@
 * [Sino-Tibetan/brek1238-1.csv](Sino-Tibetan/brek1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Karen-Brek.htm)) (Brek Karen (Kayaw), Myanmar)
 * [Sino-Tibetan/brek1238-2.csv](Sino-Tibetan/brek1238-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Karen-Brek.htm)) (Brek Karen, Myanmar)
 * [Sino-Tibetan/brek1238-3.csv](Sino-Tibetan/brek1238-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Karen-Kayaw.htm)) (Kayaw, Kayah State, Myanmar) **(Problems)**
+* [Sino-Tibetan/brek1238-4.csv](Sino-Tibetan/brek1238-4.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Karen-Kayaw.htm)) (Kayaw, Kayah State, Myanmar) **(Problems)**
 * [Other/brer1240-1.csv](Other/brer1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Breri.htm)) (Breri, Papua New Guinea) **(Problems)**
 * [Indo-European/bret1244-1.csv](Indo-European/bret1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Breton.htm)) (Breton, France) **(Problems)**
 * [Other/brib1243-1.csv](Other/brib1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bribari.htm)) (Bribri, Costa Rica)
@@ -881,6 +887,7 @@
 * [Atlantic-Congo/chig1238-1.csv](Atlantic-Congo/chig1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chiga.htm)) (Chiga, Uganda)
 * [Other/chim1309-1.csv](Other/chim1309-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chimila.htm)) (Chimila (Ette), Colombia)
 * [Indo-European/chin1475-1.csv](Indo-European/chin1475-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chinali.htm)) (Chinali, Himachal Pradesh, India)
+* [Sino-Tibetan/chin1478-1.csv](Sino-Tibetan/chin1478-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chin-Uppu.htm)) (Uppu Chin, Myanmar)
 * [Other/chip1261-1.csv](Other/chip1261-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chipewyan.htm)) (Chipewyan (Dëne Sų́łıne), Canada)
 * [Other/chip1261-2.csv](Other/chip1261-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chipewyan.htm)) (Chipewyan (Dëne Sų́łıne), Canada)
 * [Other/chip1261-3.csv](Other/chip1261-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chipewyan.htm)) (Chipewyan, Canada)
@@ -908,6 +915,7 @@
 * [Sino-Tibetan/chot1239-2.csv](Sino-Tibetan/chot1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chothe.htm)) (Chothe, India)
 * [Austroasiatic/chra1242-1.csv](Austroasiatic/chra1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chrau.htm)) (Chrau, Vietnam)
 * [Austronesian/chru1239-1.csv](Austronesian/chru1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chru.htm)) (Chru, Vietnam)
+* [Nuclear Trans New Guinea/chua1250-1.csv](Nuclear%20Trans%20New%20Guinea/chua1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chuave.htm)) (Chuave, Papua New Guinea) **(Problems)**
 * [Sino-Tibetan/chug1252-1.csv](Sino-Tibetan/chug1252-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chukpa-Duhumbi.htm)) (Duhumbi (Chukpa), India)
 * [Other/chuj1250-1.csv](Other/chuj1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chuj-Ixtatan.htm)) (Chuj, Mexico, Guatemala)
 * [Other/chuk1273-1.csv](Other/chuk1273-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chukchi.htm)) (Chukchi, Russia)
@@ -1111,6 +1119,7 @@
 * [Indo-European/doma1258-2.csv](Indo-European/doma1258-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Domari.htm)) (Domari, Syria, Iraq, Iran, Turkey)
 * [Indo-European/doma1260-1.csv](Indo-European/doma1260-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Domaaki.htm)) (Domaaki, Pakistan)
 * [Nuclear Trans New Guinea/domm1246-1.csv](Nuclear%20Trans%20New%20Guinea/domm1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Dogon-Yanda-Dom.htm)) (Yanda Dom Dogon, Mali) **(Problems)**
+* [Nuclear Trans New Guinea/domm1246-2.csv](Nuclear%20Trans%20New%20Guinea/domm1246-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Dom-PNG.htm)) (Dom, Papua New Guinea) **(Problems)**
 * [Nuclear Trans New Guinea/domu1246-1.csv](Nuclear%20Trans%20New%20Guinea/domu1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Domung.html)) (Domung, Papua New Guinea)
 * [Austronesian/dond1249-1.csv](Austronesian/dond1249-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Dondo.htm)) (Dondo, Sulawesi, Indonesia)
 * [Other/dong1285-1.csv](Other/dong1285-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Dongxiang.htm)) (Dongxiang, China) **(Problems)**
@@ -1442,6 +1451,7 @@
 * [Other/gogo1265-1.csv](Other/gogo1265-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Gogodala.htm)) (Gogodala, Papua New Guinea)
 * [Atlantic-Congo/goka1239-1.csv](Atlantic-Congo/goka1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Gokana.htm)) (Gokana, Nigeria) **(Problems)**
 * [Atlantic-Congo/gola1255-1.csv](Atlantic-Congo/gola1255-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Gola.htm)) (Gola, Liberia, Sierra Leone)
+* [Nuclear Trans New Guinea/goli1247-1.csv](Nuclear%20Trans%20New%20Guinea/goli1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Golin.htm)) (Golin, Papua New Guinea) **(Problems)**
 * [Austronesian/gone1237-1.csv](Austronesian/gone1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Fijian-Gone-Dau.htm)) (Gone Dau Fijian, Republic of Fiji)
 * [Austronesian/gone1237-2.csv](Austronesian/gone1237-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Fijian-Namosi-Naitasiri-Serua.htm)) (Namosi-Naitasiri-Serua, Fiji)
 * [Atlantic-Congo/gonj1241-1.csv](Atlantic-Congo/gonj1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Gonja.htm)) (Gonja, Ghana)
@@ -1541,6 +1551,7 @@
 * [Other/hame1242-1.csv](Other/hame1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Banna.htm)) (Hamer-Banna, Ethiopia)
 * [Other/hame1242-2.csv](Other/hame1242-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Banna.htm)) (Hamer-Banna, Ethiopia)
 * [Other/hamt1247-1.csv](Other/hamt1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Hamtai.htm)) (Hamtai, Papua New Guinea) **(Problems)**
+* [Atlantic-Congo/hang1258-1.csv](Atlantic-Congo/hang1258-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Hanga.htm)) (Hanga, Ghana)
 * [Sino-Tibetan/hani1248-1.csv](Sino-Tibetan/hani1248-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Haya-Hani.htm)) (Hani, China, Laos, Vietnam)
 * [Other/hann1241-1.csv](Other/hann1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Han-Athascan.htm)) (Hän (Han Kutchin), Canada, USA) **(Problems)**
 * [Austronesian/hano1246-1.csv](Austronesian/hano1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Hano-Raga.htm)) (Hano, Raga Island, Vanuatu)
@@ -1652,6 +1663,8 @@
 * [Other/hupa1239-2.csv](Other/hupa1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Hupa.htm)) (Hupa, USA) **(Problems)**
 * [Other/hupd1244-1.csv](Other/hupd1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Guahibo.htm)) (Sikuani (Guahibo), Colombia) **(Problems)**
 * [Other/hupd1244-2.csv](Other/hupd1244-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Hupde.htm)) (Hupdë, Brazil, Colombia) **(Problems)**
+* [Other/hupd1244-3.csv](Other/hupd1244-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Guahibo.htm)) (Sikuani (Guahibo), Colombia) **(Problems)**
+* [Other/hupd1244-4.csv](Other/hupd1244-4.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Guahibo.htm)) (Sikuani (Guahibo), Colombia) **(Problems)**
 * [Indo-European/hutt1235-1.csv](Indo-European/hutt1235-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/German-Hutterite.htm)) (German Hutterite, Canada, USA)
 * [Austroasiatic/huuu1240-1.csv](Austroasiatic/huuu1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Hu.htm)) (Hu, China)
 * [Afro-Asiatic/hwan1240-1.csv](Afro-Asiatic/hwan1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Hwana.htm)) (Hwana (Hwona), Nigeria)
@@ -1761,6 +1774,7 @@
 * [Other/iyow1239-1.csv](Other/iyow1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chorete-Manjui.htm)) (Iyojwa’ja Chorote, Argentina) **(Problems)**
 * [Other/iyow1239-2.csv](Other/iyow1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chorete-Manjui.htm)) (Manjui (Chorote), Paraguay) **(Problems)**
 * [Other/izer1243-1.csv](Other/izer1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Izere.htm)) (Izere, Nigeria)
+* [Atlantic-Congo/izie1238-1.csv](Atlantic-Congo/izie1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Izi.htm)) (Izi-Ezaa-Ikwo-Mgbo, Nigeria) **(Problems)**
 * [Other/izon1238-1.csv](Other/izon1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Izon.htm)) (Izon (Ijaw/Ijo), Nigeria) **(Problems)**
 * [Other/izon1238-2.csv](Other/izon1238-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Izon.htm)) (Izon (Ijaw/Ijo), Nigeria) **(Problems)**
 * [Other/izon1238-3.csv](Other/izon1238-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Izon.htm)) (Izon (Ijaw/Ijo), Nigeria) **(Problems)**
@@ -1929,6 +1943,7 @@
 * [Atlantic-Congo/kamb1297-1.csv](Atlantic-Congo/kamb1297-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kikamba.htm)) (Kikamba, Kenya)
 * [Austronesian/kamb1299-1.csv](Austronesian/kamb1299-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kambera.htm)) (Kambera, Sumba, Indonesia)
 * [Nuclear Trans New Guinea/kamb1302-1.csv](Nuclear%20Trans%20New%20Guinea/kamb1302-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kamberau.htm)) (Kamberau, Papua, Indonesia)
+* [Afro-Asiatic/kamb1316-1.csv](Afro-Asiatic/kamb1316-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kambaata.htm)) (Kambaata, Ethiopia) **(Problems)**
 * [Atlantic-Congo/kamm1249-1.csv](Atlantic-Congo/kamm1249-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kam-NG.htm)) (Kam, Taraba State, Nigeria) **(Problems)**
 * [Nuclear Trans New Guinea/kamo1255-1.csv](Nuclear%20Trans%20New%20Guinea/kamo1255-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kamoro.htm)) (Kamoro, Papua, Indonesia)
 * [Other/kamu1260-1.csv](Other/kamu1260-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kamula.htm)) (Kamula, Papua New Guinea)
@@ -1999,6 +2014,7 @@
 * [Austroasiatic/kata1264-2.csv](Austroasiatic/kata1264-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kataang.htm)) (Kataang, Laos)
 * [Austronesian/katb1237-1.csv](Austronesian/katb1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Katbol.htm)) (Katbol (Avava), Vanuatu)
 * [Other/katc1249-1.csv](Other/katc1249-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kadugli.htm)) (Katcha, Sudan)
+* [Other/katc1249-2.csv](Other/katc1249-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kadugli.htm)) (Kadugli (Talla dialect), Sudan)
 * [Nuclear Trans New Guinea/kate1253-1.csv](Nuclear%20Trans%20New%20Guinea/kate1253-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kate.htm)) (Kâte, Papua New Guinea)
 * [Indo-European/kath1250-1.csv](Indo-European/kath1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tharu-Kathariya.htm)) (Kathariya Tharu, Nepal, India) **(Problems)**
 * [Indo-European/kati1270-1.csv](Indo-European/kati1270-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kati.htm)) (Kati, Afghanistan)
@@ -2048,7 +2064,8 @@
 * [Other/kemb1235-1.csv](Other/kemb1235-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kemberano.htm)) (Kemberano, Papua, Indonesia)
 * [Atlantic-Congo/keme1240-1.csv](Atlantic-Congo/keme1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kemezung.htm)) (Kemedzung, Cameroun)
 * [Atlantic-Congo/keme1240-2.csv](Atlantic-Congo/keme1240-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kemezung.htm)) (Kemedzung, Cameroun)
-* [Other/kemt1242-1.csv](Other/kemt1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kemtuik.htm)) (Kemtuik, Papua, Indonesia)
+* [Other/kemt1242-1.csv](Other/kemt1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kemtuik.htm)) (Kemtuik, Papua, Indonesia) **(Problems)**
+* [Other/kemt1242-2.csv](Other/kemt1242-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kemtuik.htm)) (Kemtuik, Papua, Indonesia)
 * [Other/kend1253-1.csv](Other/kend1253-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kendeje.htm)) (Kendeje (Korandje), Algeria)
 * [Austronesian/kend1254-1.csv](Austronesian/kend1254-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kendayan-Selako.htm)) (Kendayan (Salako), Indonesia)
 * [Central Sudanic/keng1240-1.csv](Central%20Sudanic/keng1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kenga.htm)) (Kenga, Chad)
@@ -2066,6 +2083,7 @@
 * [Nuclear Trans New Guinea/kete1254-1.csv](Nuclear%20Trans%20New%20Guinea/kete1254-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ketengban.htm)) (Ketengban, Papua, Indonesia) **(Problems)**
 * [Other/kett1243-1.csv](Other/kett1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ket.htm)) (Ket, Russia)
 * [Nuclear Trans New Guinea/keya1238-1.csv](Nuclear%20Trans%20New%20Guinea/keya1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Keyagana.htm)) (Keyagana, Papua New Guinea)
+* [Atlantic-Congo/kgal1244-1.csv](Atlantic-Congo/kgal1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kgalagadi.htm)) (Kgalagadi (Shekgalagari), Botswana)
 * [Turkic/khak1248-1.csv](Turkic/khak1248-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Khakas.htm)) (Khakas, Russia)
 * [Sino-Tibetan/khal1275-1.csv](Sino-Tibetan/khal1275-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Khaling.htm)) (Khaling, Nepal)
 * [Sino-Tibetan/kham1282-1.csv](Sino-Tibetan/kham1282-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Khams-Tibetan.htm)) (Khams Tibetan, China)
@@ -2143,6 +2161,7 @@
 * [Nuclear Trans New Guinea/kobo1249-1.csv](Nuclear%20Trans%20New%20Guinea/kobo1249-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kobon.htm)) (Kobon, Papua New Guinea) **(Problems)**
 * [Sino-Tibetan/koch1250-1.csv](Sino-Tibetan/koch1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Koch.htm)) (Koch, India)
 * [Austroasiatic/koda1236-1.csv](Austroasiatic/koda1236-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Koda-AA.htm)) (Koda, Bangladesh, India)
+* [Austroasiatic/koda1254-1.csv](Austroasiatic/koda1254-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Koraku.htm)) (Koraku (Kodaku), India)
 * [Dravidian/koda1255-1.csv](Dravidian/koda1255-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kodagu.htm)) (Kodagu, India)
 * [Dravidian/koda1255-2.csv](Dravidian/koda1255-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kodagu.htm)) (Kodagu, India)
 * [Atlantic-Congo/kodi1246-1.csv](Atlantic-Congo/kodi1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kodia.htm)) (Kodia, Côte d'Ivoire)
@@ -2189,12 +2208,14 @@
 * [Other/kone1241-1.csv](Other/kone1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Koneraw.htm)) (Koneraw, Papua, Indonesia)
 * [Indo-European/konk1267-1.csv](Indo-European/konk1267-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konkani.htm)) (Konkani, India)
 * [Indo-European/konk1267-2.csv](Indo-European/konk1267-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konkani.htm)) (Konkani, India)
+* [Atlantic-Congo/konk1269-1.csv](Atlantic-Congo/konk1269-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konkomba.htm)) (Konkomba, Ghana, Togo)
 * [Atlantic-Congo/konn1242-1.csv](Atlantic-Congo/konn1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konni.htm)) (Konni, Ghana)
 * [Atlantic-Congo/kono1265-1.csv](Atlantic-Congo/kono1265-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konongo.htm)) (Konongo, Tanzania)
 * [Mande/kono1268-1.csv](Mande/kono1268-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kono.htm)) (Kono, Sierra Leone)
 * [Afro-Asiatic/kons1243-1.csv](Afro-Asiatic/kons1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konso.htm)) (Konso, Ethiopia)
 * [Sino-Tibetan/kony1248-1.csv](Sino-Tibetan/kony1248-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konyak-Naga.htm)) (Konyak Naga, India)
 * [Sino-Tibetan/kony1248-2.csv](Sino-Tibetan/kony1248-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Konyak-Naga.htm)) (Konyak Naga, India)
+* [Sino-Tibetan/kony1248-3.csv](Sino-Tibetan/kony1248-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Naga-Kokak.htm)) (Kokak Naga, Myanmar) **(Problems)**
 * [Atlantic-Congo/koon1244-1.csv](Atlantic-Congo/koon1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kikongo.htm)) (Kikongo (Iwoyo), DR. of the Congo)
 * [Atlantic-Congo/koon1244-2.csv](Atlantic-Congo/koon1244-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kikongo.htm)) (Kikongo ( Koongo), DR. of the Congo) **(Problems)**
 * [Atlantic-Congo/koon1244-3.csv](Atlantic-Congo/koon1244-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kikongo.htm)) (Kikongo ( Koongo), DR. of the Congo)
@@ -2335,6 +2356,7 @@
 * [Atlantic-Congo/kuwa1246-1.csv](Atlantic-Congo/kuwa1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kwatay.htm)) (Kwatay (Kwaataay), Senegal)
 * [Atlantic-Congo/kuwa1247-1.csv](Atlantic-Congo/kuwa1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kuwaa.htm)) (Kuwaa (Belleh), Liberia)
 * [Austroasiatic/kuyy1240-1.csv](Austroasiatic/kuyy1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kuy.htm)) (Kuuy, Thailand) **(Problems)**
+* [Uralic/kven1236-1.csv](Uralic/kven1236-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Finnish-Kven.htm)) (Kven Finnish, Norway)
 * [Atlantic-Congo/kwaa1262-1.csv](Atlantic-Congo/kwaa1262-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kwa-Baa.htm)) (Kwa (Baa), Adamawa, Nigeria) **(Problems)**
 * [Atlantic-Congo/kwaa1262-2.csv](Atlantic-Congo/kwaa1262-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kwa-Baa.htm)) (Kwa (Baa), Adamawa, Nigeria) **(Problems)**
 * [Afro-Asiatic/kwaa1269-1.csv](Afro-Asiatic/kwaa1269-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kwami.htm)) (Kwaami, Nigeria)
@@ -2380,6 +2402,7 @@
 * [Sino-Tibetan/lada1244-2.csv](Sino-Tibetan/lada1244-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ladakhi.htm)) (Ladakhi, India)
 * [Sino-Tibetan/lada1244-3.csv](Sino-Tibetan/lada1244-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Purik.htm)) (Purik, India)
 * [Indo-European/ladi1250-1.csv](Indo-European/ladi1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ladin.htm)) (Ladin, Italy)
+* [Indo-European/ladi1251-1.csv](Indo-European/ladi1251-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ladino.htm)) (Ladino; Israel, Turkey)
 * [Sino-Tibetan/lagh1245-1.csv](Sino-Tibetan/lagh1245-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Laghuu.htm)) (Laghuu (Xa Pho), Vietnam)
 * [Afro-Asiatic/lagw1237-1.csv](Afro-Asiatic/lagw1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Lagwan.htm)) (Lagwan, Cameroun, Chad)
 * [Tai-Kadai/laha1250-1.csv](Tai-Kadai/laha1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Laha.htm)) (Laha (Tan-Yuen), Vietnam)
@@ -2564,6 +2587,7 @@
 * [Other/lowl1260-1.csv](Other/lowl1260-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chontal-Lowland-Oaxaca.htm)) (Lowland Oaxaca Chontal, Mexico) **(Problems)**
 * [Uto-Aztecan/lowl1265-1.csv](Uto-Aztecan/lowl1265-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tarahumara-Lowland.htm)) (Lowland Tarahumara, Mexico)
 * [Otomanguean/loxi1235-1.csv](Otomanguean/loxi1235-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Zapotec-Loxicha-Miahuatec.htm)) (Miahuatec Zapotec, Mexico)
+* [Atlantic-Congo/lozi1239-1.csv](Atlantic-Congo/lozi1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Lozi.htm)) (Lozi (Silozi), Zambia, Zimbabwe) **(Problems)**
 * [Austronesian/luan1263-1.csv](Austronesian/luan1263-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Luang.htm)) (Luang (Letri Lgona), Indonesia)
 * [Atlantic-Congo/luba1249-1.csv](Atlantic-Congo/luba1249-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Luba-Kasai.htm)) (Ciluba (Luba-Kasai), DR. of the Congo)
 * [Atlantic-Congo/luba1250-1.csv](Atlantic-Congo/luba1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Luba-Katanga.htm)) (Luba-Katanga, DR. of the Congo)
@@ -2595,6 +2619,7 @@
 * [Nilotic/luwo1239-1.csv](Nilotic/luwo1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Luwo.htm)) (Luwo, Sudan)
 * [Indo-European/luxe1241-1.csv](Indo-European/luxe1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Luxembourg.htm)) (Luxembourgish, Luxemburg)
 * [Atlantic-Congo/lyel1241-1.csv](Atlantic-Congo/lyel1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Lyele.htm)) (Lyélé, Burkina Faso)
+* [Afro-Asiatic/maak1236-1.csv](Afro-Asiatic/maak1236-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Maaka.htm)) (Maaka, Nigeria) **(Problems)**
 * [Austronesian/maan1238-1.csv](Austronesian/maan1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Lawangan.htm)) (Lawangan, Kalimantan, Indonesia)
 * [Austronesian/maan1238-2.csv](Austronesian/maan1238-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Maanyan.htm)) (Ma'anyan, Kalimantan, Indonesia)
 * [Atlantic-Congo/maas1239-1.csv](Atlantic-Congo/maas1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Fulfulde-Maasina.htm)) (Fulfulde Maasina, Mali, Ghana)
@@ -2731,6 +2756,7 @@
 * [Sino-Tibetan/mani1292-1.csv](Sino-Tibetan/mani1292-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Meithei.htm)) (Meithei (Manipuri), India) **(Problems)**
 * [Austronesian/mani1297-1.csv](Austronesian/mani1297-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Manipa-Maluku.htm)) (Manipa, Maluku, Indonesia)
 * [Atlantic-Congo/mank1251-1.csv](Atlantic-Congo/mank1251-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Mankanya.htm)) (Mankanya, Guinea-Bissau)
+* [Indo-European/mank1256-1.csv](Indo-European/mank1256-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Mankiyali.htm)) (Mankiyali, Pakistan) **(Problems)**
 * [Austroasiatic/manm1238-1.csv](Austroasiatic/manm1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kemi.htm)) (Kemi (Manmet), China)
 * [Dravidian/mann1246-1.csv](Dravidian/mann1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Mannan.htm)) (Mannan, India)
 * [Mande/mann1248-1.csv](Mande/mann1248-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Mann.htm)) (Mann (Mano), Liberia, Guinea)
@@ -3205,6 +3231,7 @@
 * [Atlantic-Congo/ngam1267-2.csv](Atlantic-Congo/ngam1267-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ngamambo.htm)) (Ngamambo, Cameroun)
 * [Central Sudanic/ngam1268-1.csv](Central%20Sudanic/ngam1268-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ngambay.htm)) (Ngambay (Sara Ngambai), Chad)
 * [Central Sudanic/ngam1269-1.csv](Central%20Sudanic/ngam1269-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ngam.htm)) (Ngam, Chad)
+* [Afro-Asiatic/ngam1282-1.csv](Afro-Asiatic/ngam1282-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ngamo.htm)) (Ngamo, Nigeria) **(Problems)**
 * [Uralic/ngan1291-1.csv](Uralic/ngan1291-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nganasan.htm)) (Nganasan, Russia)
 * [Atlantic-Congo/ngan1299-1.csv](Atlantic-Congo/ngan1299-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ngangam.htm)) (Ngangam, Togo, Benin)
 * [Atlantic-Congo/ngan1299-2.csv](Atlantic-Congo/ngan1299-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ngangam.htm)) (Ngangam, Togo, Benin)
@@ -3390,6 +3417,7 @@
 * [Atlantic-Congo/nucl1418-1.csv](Atlantic-Congo/nucl1418-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bassa.htm)) (Bassa, Liberia, Sierra Leone)
 * [Other/nucl1440-1.csv](Other/nucl1440-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Masalit.htm)) (Masalit, Chad, Sudan) **(Problems)**
 * [Other/nucl1440-2.csv](Other/nucl1440-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Masalit.htm)) (Masalit, Chad, Sudan) **(Problems)**
+* [Other/nucl1440-3.csv](Other/nucl1440-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Masalit.htm)) (Masalit, Chad, Sudan) **(Problems)**
 * [Other/nucl1454-1.csv](Other/nucl1454-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Yawa.htm)) (Yawa, Papua, Indonesia)
 * [Austronesian/nucl1460-1.csv](Austronesian/nucl1460-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Madurese.htm)) (Madurese, Java, Indonesia)
 * [Other/nucl1593-1.csv](Other/nucl1593-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kwomtari.htm)) (Kwomtari, Papua New Guinea)
@@ -3443,6 +3471,7 @@
 * [Atlantic-Congo/nyam1275-1.csv](Atlantic-Congo/nyam1275-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nyamwanga.htm)) (Nyamwanga, Zambia, Tanzania)
 * [Atlantic-Congo/nyam1276-1.csv](Atlantic-Congo/nyam1276-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nyamwezi.htm)) (Nyamwezi, Tanzania) **(Problems)**
 * [Atlantic-Congo/nyam1277-1.csv](Atlantic-Congo/nyam1277-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nyambo.htm)) (Nyambo (Runyambo), Tanzania)
+* [Afro-Asiatic/nyam1285-1.csv](Afro-Asiatic/nyam1285-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nyam.htm)) (Nyam, Nigeria)
 * [Pama-Nyungan/nyan1301-1.csv](Pama-Nyungan/nyan1301-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nyangumarta.htm)) (Nyangumarta, Australia) **(Problems)**
 * [Atlantic-Congo/nyan1302-1.csv](Atlantic-Congo/nyan1302-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nyangbo.htm)) (Nyangbo, Ghana)
 * [Atlantic-Congo/nyan1302-2.csv](Atlantic-Congo/nyan1302-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nyangbo.htm)) (Nyangbo, Ghana)
@@ -3573,6 +3602,7 @@
 * [Indo-European/pala1330-1.csv](Indo-European/pala1330-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/German-Palatine.htm)) (Palatine German (Pfälzisch), Germany)
 * [Atlantic-Congo/pala1342-1.csv](Atlantic-Congo/pala1342-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Senufo-Palaka.htm)) (Palaka Senoufo, Côte d'Ivoire) **(Problems)**
 * [Austronesian/pala1344-1.csv](Austronesian/pala1344-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Palauan.htm)) (Palauan, Palau Island)
+* [Arawakan/pali1279-1.csv](Arawakan/pali1279-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Palikur.htm)) (Palikúr, Brazil, French Guiana) **(Problems)**
 * [Atlantic-Congo/palo1243-1.csv](Atlantic-Congo/palo1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Palor.htm)) (Palor (Falor), Senegal)
 * [Austronesian/palu1252-1.csv](Austronesian/palu1252-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Palue.htm)) (Palu'e, Indonesia)
 * [Austronesian/palu1252-2.csv](Austronesian/palu1252-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Palue.htm)) (Palu'e, Indonesia)
@@ -3616,6 +3646,7 @@
 * [Austroasiatic/para1301-1.csv](Austroasiatic/para1301-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Parauk.htm)) (Parauk Wa, Myanmar, China) **(Problems)**
 * [Austroasiatic/para1301-2.csv](Austroasiatic/para1301-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Parauk.htm)) (Parauk, China, Myanmar)
 * [Austroasiatic/para1301-3.csv](Austroasiatic/para1301-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Parauk.htm)) (Parauk, China) **(Problems)**
+* [Sino-Tibetan/para1302-1.csv](Sino-Tibetan/para1302-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Naga-Para-Jejara.htm)) (Jeraja (Para Naga), Myanmar)
 * [Cariban/para1310-1.csv](Cariban/para1310-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Arara-of-Para.htm)) (Arára of Pará, Brazil) **(Problems)**
 * [Tupian/para1311-1.csv](Tupian/para1311-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Guarani-Paraguayan.htm)) (Paraguayan Guarani, Paraguay)
 * [Tupian/para1312-1.csv](Tupian/para1312-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Parakana.htm)) (Parakanã, Brazil) **(Problems)**
@@ -3641,6 +3672,7 @@
 * [Nuclear Trans New Guinea/payn1244-1.csv](Nuclear%20Trans%20New%20Guinea/payn1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Paynamar.htm)) (Paynamar, Papua New Guinea) **(Problems)**
 * [Austroasiatic/pear1247-1.csv](Austroasiatic/pear1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Pear.htm)) (Pear, Cambodia)
 * [Other/pech1241-1.csv](Other/pech1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Pech.htm)) (Pech (Paya), Honduras)
+* [Atlantic-Congo/pedi1238-1.csv](Atlantic-Congo/pedi1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sotho%20Northern.htm)) (Northern Sotho, South Africa)
 * [Atlantic-Congo/peer1241-1.csv](Atlantic-Congo/peer1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kutin.htm)) (Peere (Kutin), Cameroun)
 * [Austronesian/peka1242-1.csv](Austronesian/peka1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Pekal.htm)) (Pekal, Sumatra, Indonesia)
 * [Sino-Tibetan/pela1242-1.csv](Sino-Tibetan/pela1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bola-Pela.htm)) (Bola (Pela), China)
@@ -3725,12 +3757,15 @@
 * [Austronesian/pono1240-1.csv](Austronesian/pono1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ponosakan.htm)) (Ponosakan, Sulawesi, Indonesia)
 * [Other/poqo1254-1.csv](Other/poqo1254-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Poqomchi-Western.htm)) (Poqomchi', Guatemala)
 * [Indo-European/port1283-1.csv](Indo-European/port1283-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Portuguese.htm)) (Portuguese, Portugal) **(Problems)**
+* [Indo-European/port1283-2.csv](Indo-European/port1283-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Portuguese.htm)) (Portuguese, Portugal) **(Problems)**
 * [Austronesian/port1285-1.csv](Austronesian/port1285-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Port-Sandwich.htm)) (Port Sandwich, Vanuatu)
 * [Austronesian/port1286-1.csv](Austronesian/port1286-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Port-Vato.htm)) (Port Vato (Daakie), Vanuatu)
 * [Algic/pota1247-1.csv](Algic/pota1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Potawatomi.htm)) (Potawatomi, USA, Canada)
 * [Dravidian/pott1240-1.csv](Dravidian/pott1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Gadaba-Konekor.htm)) (Pottangi Ollar Gadaba, India)
 * [Dravidian/pott1240-2.csv](Dravidian/pott1240-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Gadaba-Konekor.htm)) (Konekor Gadabar, India)
 * [Sino-Tibetan/poum1235-1.csv](Sino-Tibetan/poum1235-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Poumai-Naga.htm)) (Poumai Naga (Poula), India)
+* [Sino-Tibetan/poum1235-2.csv](Sino-Tibetan/poum1235-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Oinam-Naga.htm)) (Oinam Naga, India)
+* [Sino-Tibetan/poum1235-3.csv](Sino-Tibetan/poum1235-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Poumai-Naga.htm)) (Poumai Naga, India)
 * [Other/pouy1238-1.csv](Other/pouy1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Pouye.htm)) (Pouye, Papua New Guinea)
 * [Pano-Tacanan/poya1241-1.csv](Pano-Tacanan/poya1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Poyanawa.htm)) (Poyanáwa, Brazil)
 * [Indo-European/pras1239-1.csv](Indo-European/pras1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Prasun.htm)) (Prasuni, Afghanistan) **(Problems)**
@@ -4178,8 +4213,8 @@
 * [Other/siwa1245-1.csv](Other/siwa1245-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Siwai-Motuna.htm)) (Siwai (Motuna), Papua New Guinea)
 * [Afro-Asiatic/siwi1239-1.csv](Afro-Asiatic/siwi1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Siwa.htm)) (Siwa (Siwi), Egypt) **(Problems)**
 * [Atlantic-Congo/siwu1238-1.csv](Atlantic-Congo/siwu1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Siwu.htm)) (Siwu (Akpafu ), Ghana)
-* [Other/siza1240-1.csv](Other/siza1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sizaki.htm)) (Sizaki, Tanzania) **(Problems)**
-* [Other/siza1240-2.csv](Other/siza1240-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sizaki.htm)) (Sizaki, Tanzania)
+* [Atlantic-Congo/siza1240-1.csv](Atlantic-Congo/siza1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sizaki.htm)) (Sizaki, Tanzania) **(Problems)**
+* [Atlantic-Congo/siza1240-2.csv](Atlantic-Congo/siza1240-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sizaki.htm)) (Sizaki, Tanzania)
 * [Uralic/skol1241-1.csv](Uralic/skol1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sami-Skolt.htm)) (Skolt Sami, Finland) **(Problems)**
 * [Indo-European/slov1268-1.csv](Indo-European/slov1268-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Slovene.htm)) (Slovene, Slovenia) **(Problems)**
 * [Indo-European/slov1269-1.csv](Indo-European/slov1269-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Slovak.htm)) (Slovak, Slovakia)
@@ -4244,6 +4279,8 @@
 * [Atlantic-Congo/sout2790-1.csv](Atlantic-Congo/sout2790-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Birifor-Southern.htm)) (Southern Birifor, Ghana)
 * [Atlantic-Congo/sout2795-1.csv](Atlantic-Congo/sout2795-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Nuni-Southern.htm)) (Southern Nuni, Burkina Faso)
 * [Atlantic-Congo/sout2797-1.csv](Atlantic-Congo/sout2797-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Toussian-Southern.htm)) (Southern Toussian, Burkina Faso)
+* [Atlantic-Congo/sout2807-1.csv](Atlantic-Congo/sout2807-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sotho-Southern.htm)) (Southern Sotho, Lesotho)
+* [Atlantic-Congo/sout2808-1.csv](Atlantic-Congo/sout2808-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ndebele-Southern.htm)) (Southern Ndebele, South Africa)
 * [Nilotic/sout2833-1.csv](Nilotic/sout2833-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Dinka-Agaar.htm)) (Dinka Agaar, Sudan)
 * [Mande/sout2840-1.csv](Mande/sout2840-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Bobo-Madare-Sud.htm)) (Southern Bobo Madare, Burkina Faso)
 * [Mande/sout2844-1.csv](Mande/sout2844-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Samo-Southern.htm)) (Southern Samo (Maka) Burkina Faso)
@@ -4329,6 +4366,7 @@
 * [Sino-Tibetan/sunw1242-1.csv](Sino-Tibetan/sunw1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sunwar.htm)) (Sunwar, Nepal) **(Problems)**
 * [Austroasiatic/suoy1242-1.csv](Austroasiatic/suoy1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Suoy.htm)) (Suoy, Cambodia)
 * [Atlantic-Congo/supy1237-1.csv](Atlantic-Congo/supy1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Senufo-Supyire.htm)) (Supyire Senoufo, Mali)
+* [Other/surb1238-1.csv](Other/surb1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Surbakhal.htm)) (Surbakhal, Chad) **(Problems)**
 * [Indo-European/surg1246-1.csv](Indo-European/surg1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Surgujia.htm)) (Surgujia, Chhattisgarh State, India) **(Problems)**
 * [Other/suri1267-1.csv](Other/suri1267-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Suri.htm)) (Suri, Ethiopia)
 * [Austronesian/suri1273-1.csv](Austronesian/suri1273-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Surigaonon.htm)) (Surigaonon, Philippines)
@@ -4344,6 +4382,7 @@
 * [Atlantic-Congo/swah1253-1.csv](Atlantic-Congo/swah1253-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chimiini.htm)) (Chimiini, Somalia)
 * [Atlantic-Congo/swah1253-2.csv](Atlantic-Congo/swah1253-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Shangaji.htm)) (Shangaji, Mozambique)
 * [Atlantic-Congo/swah1253-3.csv](Atlantic-Congo/swah1253-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Swahili.htm)) (Swahili, Kenya, Tanzania)
+* [Atlantic-Congo/swat1243-1.csv](Atlantic-Congo/swat1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Swati.htm)) (Swati, Swaziland, South Africa)
 * [Indo-European/swed1254-1.csv](Indo-European/swed1254-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Jamska.htm)) (Jamska, Sweden) **(Problems)**
 * [Indo-European/swed1254-2.csv](Indo-European/swed1254-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Swedish.htm)) (Swedish, Sweden) **(Problems)**
 * [Indo-European/swis1247-1.csv](Indo-European/swis1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/GermanSwiss.htm)) (Swiss-German, Switzerland) **(Problems)**
@@ -4353,6 +4392,7 @@
 * [Other/tabr1243-1.csv](Other/tabr1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Karawari-Tabriak.htm)) (Karawari, Papua New Guinea)
 * [Pano-Tacanan/taca1256-1.csv](Pano-Tacanan/taca1256-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tacana.htm)) (Tacana, Bolivia)
 * [Afro-Asiatic/tach1250-1.csv](Afro-Asiatic/tach1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tachelhit.htm)) (Tachelhit, Morocco)
+* [Other/tada1238-1.csv](Other/tada1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tadaksahak.htm)) (Tadaksahak, Mali)
 * [Austronesian/tady1237-1.csv](Austronesian/tady1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tadyawan.htm)) (Tadyawan, Philippines)
 * [Atlantic-Congo/tafi1243-1.csv](Atlantic-Congo/tafi1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tafi.htm)) (Tafi, Ghana)
 * [Atlantic-Congo/tafi1243-2.csv](Atlantic-Congo/tafi1243-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tafi.htm)) (Tafi, Ghana)
@@ -4559,7 +4599,7 @@
 * [Atlantic-Congo/tigo1236-1.csv](Atlantic-Congo/tigo1236-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Mbembe.htm)) (Tigon Mbembe, Cameroun)
 * [Afro-Asiatic/tigr1270-1.csv](Afro-Asiatic/tigr1270-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Dahalik.htm)) (Dahalik, Eritrea)
 * [Afro-Asiatic/tigr1270-2.csv](Afro-Asiatic/tigr1270-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tigre.htm)) (Tigré, Eritrea)
-* [Afro-Asiatic/tigr1271-1.csv](Afro-Asiatic/tigr1271-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tigrigna.htm)) (Tigrigna, Eritrea, Ethiopia)
+* [Afro-Asiatic/tigr1271-1.csv](Afro-Asiatic/tigr1271-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tigrigna.html)) (Tigriga, Eritrea, Ethiopia) **(Problems)**
 * [Atlantic-Congo/tika1246-1.csv](Atlantic-Congo/tika1246-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tikar.htm)) (Tikar, Cameroun)
 * [Austronesian/tiko1237-1.csv](Austronesian/tiko1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tikopia.htm)) (Tikopia, Solomon Islands)
 * [Salishan/till1254-1.csv](Salishan/till1254-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tillamook.htm)) (Tillamook, USA)
@@ -4614,6 +4654,7 @@
 * [Austronesian/tomo1244-1.csv](Austronesian/tomo1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tomoip.htm)) (Tomoip, Papua New Guinea)
 * [Austronesian/tond1251-1.csv](Austronesian/tond1251-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tondano.htm)) (Tondano, Sulawesi, Indonesia)
 * [Austroasiatic/tong1308-1.csv](Austroasiatic/tong1308-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tonga-Maniq.htm)) (Tonga (Manriq, Mos), Thailand) **(Problems)**
+* [Atlantic-Congo/tong1318-1.csv](Atlantic-Congo/tong1318-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chitonga.htm)) (ChiTonga, Zambia, Zimbabwe)
 * [Atlantic-Congo/tong1321-1.csv](Atlantic-Congo/tong1321-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Citonga.htm)) (CiTonga (KiTonga), Malawi)
 * [Austronesian/tong1325-1.csv](Austronesian/tong1325-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tongan.htm)) (Tongan, Tonga)
 * [Austronesian/tons1239-1.csv](Austronesian/tons1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tonsawang.htm)) (Tonsawang, Sulawesi, Indonesia)
@@ -4668,6 +4709,7 @@
 * [Austronesian/tsou1248-1.csv](Austronesian/tsou1248-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tsou.htm)) (Tsou, Taiwan)
 * [Austronesian/tsou1248-2.csv](Austronesian/tsou1248-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tsou.htm)) (Tsou, Taiwan)
 * [Sino-Tibetan/tsum1240-1.csv](Sino-Tibetan/tsum1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tsum.htm)) (Tsum, Nepal)
+* [Atlantic-Congo/tswa1253-1.csv](Atlantic-Congo/tswa1253-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tswana.htm)) (Tswana (Setswana), Botswana)
 * [Atlantic-Congo/tswa1255-1.csv](Atlantic-Congo/tswa1255-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tswa.htm)) (Tswa, Mozambique, South Africa) **(Problems)**
 * [Atlantic-Congo/tswa1255-2.csv](Atlantic-Congo/tswa1255-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tswa.htm)) (Tswa, Mozambique, South Africa)
 * [Austronesian/tuam1242-1.csv](Austronesian/tuam1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Tuamotuan.htm)) (Tuamotuan, French Polynesia)
@@ -4822,6 +4864,7 @@
 * [Other/vatr1237-2.csv](Other/vatr1237-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Vatrata-Veraa.htm)) (Vatrata (Vera'a), Vanuatu)
 * [Indo-European/vedd1240-1.csv](Indo-European/vedd1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Vedda.htm)) (Vedda (Veddah), Sri Lanka) **(Problems)**
 * [Afro-Asiatic/vemg1240-1.csv](Afro-Asiatic/vemg1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Vemgo-Mabas.htm)) (Vemgo-Mabas, Nigeria, Cam.)
+* [Atlantic-Congo/vend1245-1.csv](Atlantic-Congo/vend1245-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Venda.htm)) ((tshi)Venda, South Africa, Zimbabwe)
 * [Indo-European/vene1258-1.csv](Indo-European/vene1258-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Venetian.htm)) (Venetian, Italy) **(Problems)**
 * [Uralic/veps1250-1.csv](Uralic/veps1250-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Vepsian.htm)) (Vepsian, Russia)
 * [Atlantic-Congo/vidu1238-1.csv](Atlantic-Congo/vidu1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Vidunda.htm)) (Vidunda, Tanzania)
@@ -4940,6 +4983,7 @@
 * [Tupian/waya1270-1.csv](Tupian/waya1270-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Wayampi.htm)) (Wayampi, Brazil, French Guiana)
 * [Tupian/waya1270-2.csv](Tupian/waya1270-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Wayampi.htm)) (Wayampi, Brazil, French Guiana)
 * [Sino-Tibetan/wayu1241-1.csv](Sino-Tibetan/wayu1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Vayu.htm)) (Vayu, Nepal)
+* [Sino-Tibetan/wayu1241-2.csv](Sino-Tibetan/wayu1241-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Duleli.htm)) (Duleli, Bajhang District, Nepal)
 * [Arawakan/wayu1243-1.csv](Arawakan/wayu1243-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Wayuu.htm)) (Wayuu (Guajiro), Colombia)
 * [Austronesian/weda1241-1.csv](Austronesian/weda1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Wedau.htm)) (Wedau, Papua New Guinea)
 * [Atlantic-Congo/wehh1238-1.csv](Atlantic-Congo/wehh1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Weh.htm)) (Weh, Cameroun)
@@ -5044,6 +5088,8 @@
 * [Other/xava1240-2.csv](Other/xava1240-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Xavante.htm)) (Xavánte, Brazil)
 * [Other/xere1240-1.csv](Other/xere1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Xerente.htm)) (Xerénte (Akwẽ-Xerente), Brazil) **(Problems)**
 * [Tupian/xeta1241-1.csv](Tupian/xeta1241-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Xeta.htm)) (Xetá, Brazil)
+* [Atlantic-Congo/xhos1239-1.csv](Atlantic-Congo/xhos1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Xhosa.htm)) (Xhosa, South Africa, Lesotho)
+* [Atlantic-Congo/xhos1239-2.csv](Atlantic-Congo/xhos1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Xhosa.htm)) (Xhosa, South Africa, Lesotho)
 * [Sino-Tibetan/xian1249-1.csv](Sino-Tibetan/xian1249-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chintau.htm)) (Chintau (Xiandao), China)
 * [Sino-Tibetan/xian1251-1.csv](Sino-Tibetan/xian1251-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chinese-Xiang-Changsha.htm)) (Changsha Xiang, China)
 * [Sino-Tibetan/xian1251-2.csv](Sino-Tibetan/xian1251-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Chinese-Xiang-Hengshan.htm)) (Hengshan Xiang, China)
@@ -5138,6 +5184,7 @@
 * [Pano-Tacanan/yami1256-2.csv](Pano-Tacanan/yami1256-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Yaminahua.htm)) (Yaminahua, Peru, Bolivia, Brazil) **(Problems)**
 * [Austronesian/yamn1237-1.csv](Austronesian/yamn1237-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sunum-Yamna.htm)) (Sunum (Yamna), Papua, Indonesia)
 * [Sino-Tibetan/yamp1242-1.csv](Sino-Tibetan/yamp1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Yamphu.htm)) (Yamphu, Nepal)
+* [Pama-Nyungan/yand1253-1.csv](Pama-Nyungan/yand1253-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Yandruwandha.htm)) (Yandruwandha, Australia)
 * [Arawakan/yane1238-1.csv](Arawakan/yane1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Yanesha.htm)) (Yanesha' (Amuesha), Peru)
 * [Arawakan/yane1238-2.csv](Arawakan/yane1238-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Yanesha.htm)) (Yanesha' (Amuesha), Peru)
 * [Tai-Kadai/yang1286-1.csv](Tai-Kadai/yang1286-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Zhuang-Yang.htm)) (Yang Zhuang, China, Vietnam)
@@ -5280,5 +5327,6 @@
 * [Sino-Tibetan/zouu1235-1.csv](Sino-Tibetan/zouu1235-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Zome.htm)) (Zome (Zou), India, Myanmar)
 * [Sino-Tibetan/zouu1235-2.csv](Sino-Tibetan/zouu1235-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Zome.htm)) (Zome, India, Myanmar)
 * [Afro-Asiatic/zulg1242-1.csv](Afro-Asiatic/zulg1242-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Gemzek.htm)) (Zulgo-Gemzek, Cameroun)
+* [Atlantic-Congo/zulu1248-1.csv](Atlantic-Congo/zulu1248-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Zulu.htm)) (Zulu, South Africa, Lesotho)
 * [Other/zuni1245-1.csv](Other/zuni1245-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Zuni.htm)) (Zuni, USA)
 * [Tai-Kadai/zuoj1238-1.csv](Tai-Kadai/zuoj1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Zhuang-South.htm)) (Southern Zhuang, China, Vietnam)

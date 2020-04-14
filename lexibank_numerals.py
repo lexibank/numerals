@@ -187,7 +187,7 @@ class Dataset(BaseDataset):
         # only for avoiding outputting a warning
         ignored_lang_ids = ["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
                             "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
-                            "twen1241-2"]
+                            "twen1241-2", "brek1238-2"]
 
         for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\

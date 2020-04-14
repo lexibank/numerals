@@ -1,0 +1,76 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+domm1246-2-1-1,,domm1246-2,1,ta,ta,[],,['chan2019'],,False,False,,1
+domm1246-2-1-2,,domm1246-2,1,tenan,tenan,[],,['chan2019'],,False,False,,1
+domm1246-2-1-3,,domm1246-2,1,tenanta,tenanta,[],,['chan2019'],,False,False,,1
+domm1246-2-1-4,,domm1246-2,1,wan,wan,[],,['chan2019'],,False,False,,1
+domm1246-2-1-5,,domm1246-2,1,wanpla,wanpla,[],,['chan2019'],,False,False,,1
+domm1246-2-2-1,,domm1246-2,2,su,su,[],,['chan2019'],,False,False,,1
+domm1246-2-2-2,,domm1246-2,2,sukle,sukle,[],,['chan2019'],,False,False,,1
+domm1246-2-2-3,,domm1246-2,2,tu,tu,[],,['chan2019'],,False,False,,1
+domm1246-2-2-4,,domm1246-2,2,tupla,tupla,[],,['chan2019'],,False,False,,1
+domm1246-2-3-1,,domm1246-2,3,suta,suta,[],,['chan2019'],,False,False,,1
+domm1246-2-3-2,,domm1246-2,3,sutakope,sutakope,[],(litː 'two one plus' ?),['chan2019'],,False,False,,1
+domm1246-2-3-3,,domm1246-2,3,tri,tri,[],,['chan2019'],,False,False,,1
+domm1246-2-3-4,,domm1246-2,3,tripla,tripla,[],,['chan2019'],,False,False,,1
+domm1246-2-4-1,,domm1246-2,4,sui sui,sui sui,[],(litː 'two two'),['chan2019'],,False,False,,1
+domm1246-2-4-2,,domm1246-2,4,po,po,[],,['chan2019'],,False,False,,1
+domm1246-2-4-3,,domm1246-2,4,popla,popla,[],,['chan2019'],,False,False,,1
+domm1246-2-5-1,,domm1246-2,5,sui sui ta,sui sui ta,[],(litː 'two two one this'),['chan2019'],,False,False,,1
+domm1246-2-5-2,,domm1246-2,5,one kole,one kole,[],,['chan2019'],,False,False,,1
+domm1246-2-5-3,,domm1246-2,5,muru,muru,[],,['chan2019'],,False,False,,1
+domm1246-2-5-4,,domm1246-2,5,paip,paip,[],,['chan2019'],,False,False,,1
+domm1246-2-5-5,,domm1246-2,5,paipla,paipla,[],,['chan2019'],,False,False,,1
+domm1246-2-6-1,,domm1246-2,6,sui sui sui,sui sui sui,[],('two two two'),['chan2019'],,False,False,,1
+domm1246-2-6-2,,domm1246-2,6,one kole ire ta ire,one kole ire ta ire,[],"('my hand part all, one')",['chan2019'],,False,False,,1
+domm1246-2-6-3,,domm1246-2,6,siks,siks,[],,['chan2019'],,False,False,,1
+domm1246-2-6-4,,domm1246-2,6,sikspla,sikspla,[],,['chan2019'],,False,False,,1
+domm1246-2-7-1,,domm1246-2,7,sui sui sui ta,sui sui sui ta,[],,['chan2019'],,False,False,,1
+domm1246-2-7-2,,domm1246-2,7,one kole ire sui ire,one kole ire sui ire,[],"(lit: my hand part all, two')",['chan2019'],,False,False,,1
+domm1246-2-7-3,,domm1246-2,7,sepen,sepen,[],,['chan2019'],,False,False,,1
+domm1246-2-7-4,,domm1246-2,7,sepenpla,sepenpla,[],,['chan2019'],,False,False,,1
+domm1246-2-8-1,,domm1246-2,8,sui sui sui sui,sui sui sui sui,[],,['chan2019'],,False,False,,1
+domm1246-2-8-2,,domm1246-2,8,one kole ire sui ire suta ire,one kole ire sui ire suta ire,[],"('my hand part all, three')",['chan2019'],,False,False,,1
+domm1246-2-8-3,,domm1246-2,8,et,et,[],,['chan2019'],,False,False,,1
+domm1246-2-8-4,,domm1246-2,8,etpla,etpla,[],,['chan2019'],,False,False,,1
+domm1246-2-9-1,,domm1246-2,9,one kole ire sui sui ire,one kole ire sui sui ire,[],"('my hand part all, two two')",['chan2019'],,False,False,,1
+domm1246-2-9-2,,domm1246-2,9,nain,nain,[],,['chan2019'],,False,False,,1
+domm1246-2-9-3,,domm1246-2,9,nainpla,nainpla,[],,['chan2019'],,False,False,,1
+domm1246-2-10-1,,domm1246-2,10,one kole kole,one kole kole,[],(lit: my hand part part all'),['chan2019'],,False,False,,1
+domm1246-2-10-2,,domm1246-2,10,ten,ten,[],,['chan2019'],,False,False,,1
+domm1246-2-10-3,,domm1246-2,10,tenpla,tenpla,[],,['chan2019'],,False,False,,1
+domm1246-2-10-4,,domm1246-2,10,11.,11.,[],,['chan2019'],,False,True,,1
+domm1246-2-10-5,,domm1246-2,10,12. twelp,12. twelp,[],,['chan2019'],,False,True,,1
+domm1246-2-10-6,,domm1246-2,10,13. tertin,13. tertin,[],,['chan2019'],,False,True,,1
+domm1246-2-14-1,,domm1246-2,14,portin,portin,[],,['chan2019'],,False,False,,1
+domm1246-2-14-2,,domm1246-2,14,potin,potin,[],,['chan2019'],,False,False,,1
+domm1246-2-14-3,,domm1246-2,14,15. piptin,15. piptin,[],,['chan2019'],,False,True,,1
+domm1246-2-14-4,,domm1246-2,14,16. sikstin,16. sikstin,[],,['chan2019'],,False,True,,1
+domm1246-2-14-5,,domm1246-2,14,17. sepentin,17. sepentin,[],,['chan2019'],,False,True,,1
+domm1246-2-14-6,,domm1246-2,14,18. etin,18. etin,[],,['chan2019'],,False,True,,1
+domm1246-2-14-7,,domm1246-2,14,19. naintin,19. naintin,[],,['chan2019'],,False,True,,1
+domm1246-2-20-1,,domm1246-2,20,one kole kole kalne kole kole,one kole kole kalne kole kole,[],,['chan2019'],,False,False,,1
+domm1246-2-20-2,,domm1246-2,20,yal gal ta,yal gal ta,[],,['chan2019'],,False,False,,1
+domm1246-2-20-3,,domm1246-2,20,twenti,twenti,[],,['chan2019'],,False,False,,1
+domm1246-2-21-1,,domm1246-2,21,twenti wan,twenti wan,[],,['chan2019'],,False,False,,1
+domm1246-2-21-2,,domm1246-2,21,22. twenti tu,22. twenti tu,[],,['chan2019'],,False,True,,1
+domm1246-2-21-3,,domm1246-2,21,23. twenti tri,23. twenti tri,[],,['chan2019'],,False,True,,1
+domm1246-2-21-4,,domm1246-2,21,24. twenti po,24. twenti po,[],,['chan2019'],,False,True,,1
+domm1246-2-21-5,,domm1246-2,21,25. twenti paip,25. twenti paip,[],,['chan2019'],,False,True,,1
+domm1246-2-26-1,,domm1246-2,26,twenti siks,twenti siks,[],,['chan2019'],,False,False,,1
+domm1246-2-26-2,,domm1246-2,26,27. twenti sepen,27. twenti sepen,[],,['chan2019'],,False,True,,1
+domm1246-2-26-3,,domm1246-2,26,28. twenti et,28. twenti et,[],,['chan2019'],,False,True,,1
+domm1246-2-26-4,,domm1246-2,26,29. twenti nain,29. twenti nain,[],,['chan2019'],,False,True,,1
+domm1246-2-26-5,,domm1246-2,26,30. teti,30. teti,[],,['chan2019'],,False,True,,1
+domm1246-2-40-1,,domm1246-2,40,yal gal su,yal gal su,[],,['chan2019'],,False,False,,1
+domm1246-2-40-2,,domm1246-2,40,poti,poti,[],,['chan2019'],,False,False,,1
+domm1246-2-40-3,,domm1246-2,40,50. pipti,50. pipti,[],,['chan2019'],,False,True,,1
+domm1246-2-40-4,,domm1246-2,40,60. siksti,60. siksti,[],,['chan2019'],,False,True,,1
+domm1246-2-40-5,,domm1246-2,40,70. sepenti,70. sepenti,[],,['chan2019'],,False,True,,1
+domm1246-2-40-6,,domm1246-2,40,80. eti,80. eti,[],,['chan2019'],,False,True,,1
+domm1246-2-40-7,,domm1246-2,40,90. nainti,90. nainti,[],,['chan2019'],,False,True,,1
+domm1246-2-100-1,,domm1246-2,100,andret,andret,[],,['chan2019'],,False,False,,1
+domm1246-2-100-2,,domm1246-2,100,200. tu andret,200. tu andret,[],,['chan2019'],,False,True,,1
+domm1246-2-100-3,,domm1246-2,100,1,1,[],,['chan2019'],,False,True,,1
+domm1246-2-100-4,,domm1246-2,100,000. tausen,000. tausen,[],,['chan2019'],,False,True,,1
+domm1246-2-100-5,,domm1246-2,100,2,2,[],,['chan2019'],,False,True,,1
+domm1246-2-100-6,,domm1246-2,100,000. tu tausen,000. tu tausen,[],,['chan2019'],,False,True,,1

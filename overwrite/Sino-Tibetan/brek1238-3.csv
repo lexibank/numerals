@@ -45,12 +45,15 @@ brek1238-3-70-1,,brek1238-3,70,né ʃí,né ʃí,[],,['chan2019'],,False,Fal
 brek1238-3-80-1,,brek1238-3,80,ʃó ʃí,ʃó ʃí,[],,['chan2019'],,False,False,,1
 brek1238-3-80-2,,brek1238-3,80,ʃɔ́ ʃí,ʃɔ́ ʃí,[],,['chan2019'],,False,False,,1
 brek1238-3-90-1,,brek1238-3,90,kʰí ʃí,kʰí ʃí,[],,['chan2019'],,False,False,,1
-brek1238-3-100-1,,brek1238-3,100,tə̄ kō,tə̄ kō,[],( aslo tə̄ ja < Burmese ),['chan2019'],,True,False,,1
+brek1238-3-100-1,,brek1238-3,100,tə̄ kō,tə̄ kō,[],,['chan2019'],,False,False,,1
+brek1238-3-100-2,,brek1238-3,100,tə̄ ja,tə̄ ja,[],( < Burmese ),['chan2019'],,True,False,,1
 brek1238-3-200-1,,brek1238-3,200,ɡī kō,ɡī kō,[],,['chan2019'],,False,False,,1
 brek1238-3-400-1,,brek1238-3,400,lí kō,lí kō,[],,['chan2019'],,False,False,,1
 brek1238-3-800-1,,brek1238-3,800,ʃó kō,ʃó kō,[],,['chan2019'],,False,False,,1
 brek1238-3-800-2,,brek1238-3,800,ʃɔ́ kō,ʃɔ́ kō,[],,['chan2019'],,False,False,,1
-brek1238-3-1000-1,,brek1238-3,1000,tə̄ rī,tə̄ rī,[],( also tētʰō < Burmese ),['chan2019'],,True,False,,1
+brek1238-3-1000-1,,brek1238-3,1000,tə̄ rī,tə̄ rī,[],,['chan2019'],,False,False,,1
+brek1238-3-1000-2,,brek1238-3,1000,tētʰō,tētʰō,[],( < Burmese ),['chan2019'],,True,False,,1
 brek1238-3-2000-1,,brek1238-3,2000,ɡī rī,ɡī rī,[],,['chan2019'],,False,False,,1
 brek1238-3-10000-1,,brek1238-3,10000,tə̄ tī,tə̄ tī,[],,['chan2019'],,False,False,,1
 brek1238-3-100000-1,,brek1238-3,100000,tə̄ pɪ,tə̄ pɪ,[],,['chan2019'],,False,False,,1
+brek1238-3-1000000-1,,brek1238-3,1000000,tə̄ tʊ,tə̄ tʊ,[],,['chan2019'],,False,False,,1
