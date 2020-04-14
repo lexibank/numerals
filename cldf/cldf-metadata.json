@@ -12,7 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/numerals",
-            "dc:created": "4221b09c"
+            "dc:created": "24bd52af"
         },
         {
             "rdf:type": "prov:Entity",
@@ -51,7 +51,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 187002,
+            "dc:extent": 186998,
             "tableSchema": {
                 "columns": [
                     {
