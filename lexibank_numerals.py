@@ -190,7 +190,8 @@ class Dataset(BaseDataset):
                             "twen1241-2", "brek1238-2", "nang1262-3", "nang1262-4",
                             "guan1266-5", "guan1266-6", "guan1266-7", "orin1239-3",
                             "tase1235-1", "tase1235-2", "whit1267-5", "whit1267-4",
-                            "zakh1243-1", "zakh1243-2", "zakh1243-3"]
+                            "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
+                            "meta1238-1", "piem1238-2", "piem1238-3"]
 
         for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\

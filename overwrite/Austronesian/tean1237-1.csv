@@ -6,12 +6,12 @@ tean1237-1-4-1,,tean1237-1,4,teva,teva,[],,['chan2019'],,False,False,,1
 tean1237-1-5-1,,tean1237-1,5,tili,tili,[],( < ti + lima ?),['chan2019'],,False,False,,1
 tean1237-1-6-1,,tean1237-1,6,tuo,tuo,[],,['chan2019'],,False,False,,1
 tean1237-1-7-1,,tean1237-1,7,tiᵐbi,tiᵐbi,[],,['chan2019'],,False,False,,1
-tean1237-1-8-1,,tean1237-1,8,tua,tua or tilu tae,[],,['chan2019'],,False,False,,1
-tean1237-1-8-2,,Tean1237-1,8,tilu tae,,,,,,,False,,
-tean1237-1-9-1,,tean1237-1,9,tiⁿdi,tiⁿdi or iune tae,[],,['chan2019'],,False,False,,1
-tean1237-1-9-2,,Tean1237-1,9,iune tae,,,,,,,False,,
-tean1237-1-10-1,,tean1237-1,10,saŋaulu,saŋaulu or uluko,[],,['chan2019'],,False,False,,1
-tean1237-1-10-2,,Tean1237-1,10,uluko,,,,,,,False,,
+tean1237-1-8-1,,tean1237-1,8,tua or tilu tae,tua,[],,['chan2019'],,False,False,,1
+tean1237-1-8-2,,tean1237-1,8,tua or tilu tae,tilu tae,[],,['chan2019'],,False,False,,1
+tean1237-1-9-1,,tean1237-1,9,tiⁿdi or iune tae,tiⁿdi,[],,['chan2019'],,False,False,,1
+tean1237-1-9-2,,tean1237-1,9,tiⁿdi or iune tae,iune tae,[],,['chan2019'],,False,False,,1
+tean1237-1-10-1,,tean1237-1,10,saŋaulu or uluko,saŋaulu,[],,['chan2019'],,False,False,,1
+tean1237-1-10-2,,tean1237-1,10,saŋaulu or uluko,uluko,[],,['chan2019'],,False,False,,1
 tean1237-1-11-1,,tean1237-1,11,uluko tamana iune,uluko tamana iune,[],,['chan2019'],,False,False,,1
 tean1237-1-12-1,,tean1237-1,12,uluko tamana tilu,uluko tamana tilu,[],,['chan2019'],,False,False,,1
 tean1237-1-13-1,,tean1237-1,13,uluko tamana tete,uluko tamana tete,[],,['chan2019'],,False,False,,1

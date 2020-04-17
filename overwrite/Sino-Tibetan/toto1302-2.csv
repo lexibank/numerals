@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 toto1302-2-1-1,,toto1302-2,1,ipu,ipu,[],,['chan2019'],,False,False,,2
-toto1302-2-2-1,,toto1302-2,2,nihpu,nihpu or nʰipu,[],,['chan2019'],,False,False,,2
-toto1302-2-2-2,,Toto1302-2,2,nʰipu,,,,,,,False,,
+toto1302-2-2-1,,toto1302-2,2,nihpu or nʰipu,nihpu,[],,['chan2019'],,False,False,,2
+toto1302-2-2-2,,toto1302-2,2,nihpu or nʰipu,nʰipu,[],,['chan2019'],,False,False,,2
 toto1302-2-3-1,,toto1302-2,3,suŋpu,suŋpu,[],,['chan2019'],,False,False,,2
 toto1302-2-4-1,,toto1302-2,4,dipu,dipu,[],,['chan2019'],,False,False,,2
 toto1302-2-5-1,,toto1302-2,5,napu,napu,[],,['chan2019'],,False,False,,2

@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 toto1304-1-1-1,,toto1304-1,1,sobatu,sobatu,[],,['chan2019'],,False,False,,1
-toto1304-1-1-2,,toto1304-1,1,inɟa,inja [inɟa],[],( j = IPA [ɟ]),['chan2019'],,False,False,,1
+toto1304-1-1-2,,toto1304-1,1,inja,inja,[],( j = IPA [ɟ]),['chan2019'],,False,False,,1
 toto1304-1-2-1,,toto1304-1,2,dowa,dowa,[],,['chan2019'],,False,False,,1
 toto1304-1-3-1,,toto1304-1,3,totolu,totolu,[],,['chan2019'],,False,False,,1
 toto1304-1-3-2,,toto1304-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1

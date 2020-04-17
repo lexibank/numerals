@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-stan1290-2-1-1,,stan1290-2,1,ˈœ̃,ˈœ̃,[],,['chan2019'],,False,False,un,2
-stan1290-2-1-2,,stan1290-2,1,ˈyn,ˈyn,[],(masc./fem.),['chan2019'],,False,False,une,2
+stan1290-2-1-1,,stan1290-2,1,ˈœ̃,ˈœ̃,[],(masc.),['chan2019'],,False,False,un,2
+stan1290-2-1-2,,stan1290-2,1,ˈyn,ˈyn,[],(fem.),['chan2019'],,False,False,une,2
 stan1290-2-2-1,,stan1290-2,2,ˈdø,ˈdø,[],,['chan2019'],,False,False,deux,2
 stan1290-2-3-1,,stan1290-2,3,ˈtʀwɑ,ˈtʀwɑ,[],,['chan2019'],,False,False,trois,2
 stan1290-2-4-1,,stan1290-2,4,ˈkatʀ,ˈkatʀ,[],,['chan2019'],,False,False,quatre,2
@@ -20,9 +20,8 @@ stan1290-2-17-1,,stan1290-2,17,diˈsɛt,diˈsɛt,[],,['chan2019'],,False,False,d
 stan1290-2-18-1,,stan1290-2,18,diˈzɥit,diˈzɥit,[],,['chan2019'],,False,False,dix-huit,2
 stan1290-2-19-1,,stan1290-2,19,dizˈnœf,dizˈnœf,[],,['chan2019'],,False,False,dix-neuf,2
 stan1290-2-20-1,,stan1290-2,20,ˈvɛ̃,ˈvɛ̃,[],,['chan2019'],,False,False,vingt,2
-stan1290-2-21-1,,stan1290-2,21,vingt et un,vingt et un,[],,['chan2019'],,False,False,,2
-stan1290-2-21-2,,stan1290-2,21,vɛ̃teˈœ̃ ,vɛ̃teˈœ̃,[],(m./f.),['chan2019'],,False,False,une,2
-stan1290-2-21-3,,stan1290-2,21,vɛ̃teˈyn,ˈyn,[],(m./f.),['chan2019'],,False,False,une,2
+stan1290-2-21-1,,stan1290-2,21,vɛ̃teˈœ̃ ,vɛ̃teˈœ̃,[],(m.),['chan2019'],,False,False,vingt et un,2
+stan1290-2-21-2,,stan1290-2,21,vɛ̃teˈyn,ˈyn,[],(f.),['chan2019'],,False,False,vingt et une,2
 stan1290-2-22-1,,stan1290-2,22,vɛ̃tˈdø,vɛ̃tˈdø,[],,['chan2019'],,False,False,vingt-deux,2
 stan1290-2-22-2,,stan1290-2,22,vɛ̃nˈdø,vɛ̃nˈdø,[],,['chan2019'],,False,False,vingt-deux,2
 stan1290-2-23-1,,stan1290-2,23,vɛ̃tˈtʀwɑ,vɛ̃tˈtʀwɑ,[],,['chan2019'],,False,False,vingt-trois,2
@@ -36,7 +35,7 @@ stan1290-2-30-1,,stan1290-2,30,ˈtʀɑ̃t,ˈtʀɑ̃t,[],,['chan2019'],,False,Fal
 stan1290-2-40-1,,stan1290-2,40,kaˈʀɑ̃t,kaˈʀɑ̃t,[],,['chan2019'],,False,False,quarante,2
 stan1290-2-50-1,,stan1290-2,50,sɛ̃ˈkɑ̃t,sɛ̃ˈkɑ̃t,[],,['chan2019'],,False,False,cinquante,2
 stan1290-2-60-1,,stan1290-2,60,swasɑ̃t,swasɑ̃t,[],,['chan2019'],,False,False,soixante,2
-stan1290-2-70-1,,stan1290-2,70,sɛptɑ̃t,septante [sɛptɑ̃t),[],,['chan2019'],,False,False,,2
+stan1290-2-70-1,,stan1290-2,70,sɛptɑ̃t,sɛptɑ̃t,[],,['chan2019'],,False,False,septante,2
 stan1290-2-80-1,,stan1290-2,80,ˈɥitɑ̃t,ˈɥitɑ̃t,[],,['chan2019'],,False,False,huitante,2
 stan1290-2-90-1,,stan1290-2,90,'nœnɑ̃t,'nœnɑ̃t,[],,['chan2019'],,False,False,nonante,2
 stan1290-2-100-1,,stan1290-2,100,ˈsɑ̃,ˈsɑ̃,[],,['chan2019'],,False,False,cent,2

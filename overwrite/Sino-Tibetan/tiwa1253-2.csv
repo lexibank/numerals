@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 tiwa1253-2-1-1,,tiwa1253-2,1,kitsʰa,kitsʰa,[],,['chan2019'],,False,False,,1
 tiwa1253-2-2-1,,tiwa1253-2,2,kiniŋ,kiniŋ,[],,['chan2019'],,False,False,,1
-tiwa1253-2-3-1,,tiwa1253-2,3,tʰin,tʰin < three up from Assamese,[],,['chan2019'],,False,False,,1
+tiwa1253-2-3-1,,tiwa1253-2,3,tʰin,tʰin,[],< three up from Assamese,['chan2019'],,True,False,,1
 tiwa1253-2-4-1,,tiwa1253-2,4,tsʰaɾ,tsʰaɾ,[],,['chan2019'],,False,False,,1
 tiwa1253-2-5-1,,tiwa1253-2,5,pʰas,pʰas,[],,['chan2019'],,False,False,,1
 tiwa1253-2-6-1,,tiwa1253-2,6,tsʰuj,tsʰuj,[],,['chan2019'],,False,False,,1

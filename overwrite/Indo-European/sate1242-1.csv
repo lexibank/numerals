@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 sate1242-1-1-1,,sate1242-1,1,aːn,aːn,[],(m.),['chan2019'],,False,False,aan,1
-sate1242-1-1-2,,sate1242-1,1,eːn ,eːn ],[],(f./n.),['chan2019'],,False,False,een,1
+sate1242-1-1-2,,sate1242-1,1,eːn,eːn,[],(f./n.),['chan2019'],,False,False,een,1
 sate1242-1-2-1,,sate1242-1,2,twɛin,twɛin,[],(m.),['chan2019'],,False,False,twäin,1
 sate1242-1-2-2,,sate1242-1,2,twoː,twoː,[],(f./n.),['chan2019'],,False,False,two,1
 sate1242-1-3-1,,sate1242-1,3,ˈtrɛi,ˈtrɛi,[],(m.),['chan2019'],,False,False,träi,1
@@ -9,7 +9,7 @@ sate1242-1-4-1,,sate1242-1,4,ˈfjauər,ˈfjauər,[],,['chan2019'],,False,False,f
 sate1242-1-5-1,,sate1242-1,5,fi.uw,fi.uw,[],,['chan2019'],,False,False,fieuw,1
 sate1242-1-6-1,,sate1242-1,6,sɛks,sɛks,[],,['chan2019'],,False,False,säks,1
 sate1242-1-7-1,,sate1242-1,7,ˈsoːɣ̊ən,ˈsoːɣ̊ən,[],,['chan2019'],,False,False,sogen,1
-sate1242-1-8-1,,sate1242-1,8,̪ˈɔːxtə,̪ˈɔːxtə,[],,['chan2019'],,False,False,oachte,1
+sate1242-1-8-1,,sate1242-1,8,ˈɔːxtə,ˈɔːxtə,[],,['chan2019'],,False,False,oachte,1
 sate1242-1-9-1,,sate1242-1,9,ˈnjuːɣ̊ən,ˈnjuːɣ̊ən,[],,['chan2019'],,False,False,njúgen,1
 sate1242-1-10-1,,sate1242-1,10,tjoːn,tjoːn,[],,['chan2019'],,False,False,tjoon,1
 sate1242-1-11-1,,sate1242-1,11,ˈalvən,ˈalvən,[],,['chan2019'],,False,False,alven,1
@@ -30,8 +30,8 @@ sate1242-1-24-1,,sate1242-1,24,ˈfjauerʊntwɪntɪx,ˈfjauerʊntwɪntɪx,[],,['c
 sate1242-1-25-1,,sate1242-1,25,ˈfiːuwʊntwɪntɪx,ˈfiːuwʊntwɪntɪx,[],,['chan2019'],,False,False,fieuwuntwintig,1
 sate1242-1-26-1,,sate1242-1,26,ˈsɛksʊntwɪntɪx,ˈsɛksʊntwɪntɪx,[],,['chan2019'],,False,False,säksuntwintig,1
 sate1242-1-27-1,,sate1242-1,27,ˈsoːɣ̊ənʊntwɪntɪx,ˈsoːɣ̊ənʊntwɪntɪx,[],,['chan2019'],,False,False,sogenuntwintig,1
-sate1242-1-28-1,,sate1242-1,28,ˈ̪ɔːxtʊntwɪntɪx,ˈ̪ɔːxtʊntwɪntɪx,[],,['chan2019'],,False,False,oachtuntwintig,1
-sate1242-1-29-1,,sate1242-1,29,ˈ̪njuːɣ̊ənʊntwɪntɪx,ˈ̪njuːɣ̊ənʊntwɪntɪx,[],,['chan2019'],,False,False,njúgenuntwintig,1
+sate1242-1-28-1,,sate1242-1,28,ˈɔːxtʊntwɪntɪx,ˈɔːxtʊntwɪntɪx,[],,['chan2019'],,False,False,oachtuntwintig,1
+sate1242-1-29-1,,sate1242-1,29,ˈnjuːɣ̊ənʊntwɪntɪx,ˈnjuːɣ̊ənʊntwɪntɪx,[],,['chan2019'],,False,False,njúgenuntwintig,1
 sate1242-1-30-1,,sate1242-1,30,ˈtritɪx,ˈtritɪx,[],,['chan2019'],,False,False,trietig,1
 sate1242-1-30-2,,sate1242-1,30,ˈtrytɪx,ˈtrytɪx,[],,['chan2019'],,False,False,trüütig,1
 sate1242-1-40-1,,sate1242-1,40,ˈfjautɪx,ˈfjautɪx,[],,['chan2019'],,False,False,fjautig,1

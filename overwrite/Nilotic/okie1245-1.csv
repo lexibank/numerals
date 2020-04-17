@@ -36,6 +36,8 @@ okie1245-1-70-1,,okie1245-1,70,ntomoni nápíʃana,ntomoni nápíʃana,[],,[
 okie1245-1-80-1,,okie1245-1,80,ntomoni ísíêt,ntomoni ísíêt,[],,['chan2019'],,False,False,,1
 okie1245-1-90-1,,okie1245-1,90,ntomoni náúdo,ntomoni náúdo,[],,['chan2019'],,False,False,,1
 okie1245-1-100-1,,okie1245-1,100,ɛnkɛɛnɛ́,ɛnkɛɛnɛ́,[],,['chan2019'],,False,False,,1
-okie1245-1-200-1,,okie1245-1,200,ɛnkɛɛnɛ́ ayen or îîp aré,ɛnkɛɛnɛ́ ayen or îîp aré Maasai,[],,['chan2019'],,False,False,,1
-okie1245-1-1000-1,,okie1245-1,1000,ipkát tɔ́mɔ̂n or élêpu ,ipkát tɔ́mɔ̂n or élêpu ?,[],< Swahili ,['chan2019'],,True,False,,1
+okie1245-1-200-1,,okie1245-1,200,ɛnkɛɛnɛ́ ayen,ɛnkɛɛnɛ́ ayen,[],,['chan2019'],,False,False,,1
+okie1245-1-200-2,,okie1245-1,200,îîp aré,îîp aré,[],Maasai,['chan2019'],,True,False,,1
+okie1245-1-1000-1,,okie1245-1,1000,ipkát tɔ́mɔ̂n,ipkát tɔ́mɔ̂n,[],,['chan2019'],,False,False,,1
+okie1245-1-1000-2,,okie1245-1,1000,élêpu,élêpu,[],? < Swahili,['chan2019'],,True,False,,1
 okie1245-1-2000-1,,okie1245-1,2000,élêpu ayen,élêpu ayen,[],,['chan2019'],,False,False,,1

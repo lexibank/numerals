@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 rawa1265-4-1-1,,rawa1265-4,1,tʃiʔ,tʃiʔ,[],(citation form),['chan2019'],,False,False,,1
-rawa1265-4-1-2,,rawa1265-4,1,tʃi,tʃi,[],"(when    combined with classifiers, e.g. tʃi-joʔ  'one-person')",['chan2019'],,False,False,,1
+rawa1265-4-1-2,,rawa1265-4,1,tʃi,tʃi,[],"(when combined with classifiers, e.g. tʃi-joʔ  'one-person')",['chan2019'],,False,False,,1
 rawa1265-4-2-1,,rawa1265-4,2,əɲí,əɲí,[],,['chan2019'],,False,False,,1
 rawa1265-4-3-1,,rawa1265-4,3,əsɨ̀m,əsɨ̀m,[],,['chan2019'],,False,False,,1
 rawa1265-4-4-1,,rawa1265-4,4,əblì,əblì,[],,['chan2019'],,False,False,,1
@@ -17,8 +17,8 @@ rawa1265-4-13-1,,rawa1265-4,13,tʃisə́l əsɨ̀m,tʃisə́l əsɨ̀m,[],,['cha
 rawa1265-4-14-1,,rawa1265-4,14,tʃisə́l əblì,tʃisə́l əblì,[],,['chan2019'],,False,False,,1
 rawa1265-4-15-1,,rawa1265-4,15,tʃisə́l puŋwà,tʃisə́l puŋwà,[],,['chan2019'],,False,False,,1
 rawa1265-4-16-1,,rawa1265-4,16,tʃisə́l təruʔ,tʃisə́l təruʔ,[],,['chan2019'],,False,False,,1
-rawa1265-4-17-1,,rawa1265-4,17,tʃisə́l səɲint,tʃisə́l səɲint~ʃɨŋit,[],,['chan2019'],,False,False,,1
-rawa1265-4-17-2,,Rawa1265-4,17,tʃisə́l ʃɨŋit,,,,,,,False,,
+rawa1265-4-17-1,,rawa1265-4,17,tʃisə́l səɲint~ʃɨŋit,tʃisə́l səɲint,[],,['chan2019'],,False,False,,1
+rawa1265-4-17-2,,rawa1265-4,17,tʃisə́l səɲint~ʃɨŋit,tʃisə́l ʃɨŋit,[],,['chan2019'],,False,False,,1
 rawa1265-4-18-1,,rawa1265-4,18,tʃisə́l ʃət,tʃisə́l ʃət,[],,['chan2019'],,False,False,,1
 rawa1265-4-19-1,,rawa1265-4,19,tʃisə́l dəɡɨ̀,tʃisə́l dəɡɨ̀,[],,['chan2019'],,False,False,,1
 rawa1265-4-20-1,,rawa1265-4,20,əní sə́l,əní sə́l,[],,['chan2019'],,False,False,,1
@@ -28,21 +28,21 @@ rawa1265-4-23-1,,rawa1265-4,23,əɲí sə́l əsɨ̀m,əɲí sə́l əsɨ̀m,[
 rawa1265-4-24-1,,rawa1265-4,24,əɲí sə́l əblì,əɲí sə́l əblì,[],,['chan2019'],,False,False,,1
 rawa1265-4-25-1,,rawa1265-4,25,əɲí sə́l puŋwà,əɲí sə́l puŋwà,[],,['chan2019'],,False,False,,1
 rawa1265-4-26-1,,rawa1265-4,26,əɲí sə́l təruʔ,əɲí sə́l təruʔ,[],,['chan2019'],,False,False,,1
-rawa1265-4-27-1,,rawa1265-4,27,əɲí sə́l səɲint,əɲí sə́l səɲint~ʃɨŋit,[],,['chan2019'],,False,False,,1
-rawa1265-4-27-2,,Rawa1265-4,27,əɲí sə́l ʃɨŋit,,,,,,,False,,
+rawa1265-4-27-1,,rawa1265-4,27,əɲí sə́l səɲint~ʃɨŋit,əɲí sə́l səɲint,[],,['chan2019'],,False,False,,1
+rawa1265-4-27-2,,rawa1265-4,27,əɲí sə́l səɲint~ʃɨŋit,əɲí sə́l ʃɨŋit,[],,['chan2019'],,False,False,,1
 rawa1265-4-28-1,,rawa1265-4,28,əɲí sə́l ʃət,əɲí sə́l ʃət,[],,['chan2019'],,False,False,,1
 rawa1265-4-29-1,,rawa1265-4,29,əɲí sə́l dəɡɨ̀,əɲí sə́l dəɡɨ̀,[],,['chan2019'],,False,False,,1
 rawa1265-4-30-1,,rawa1265-4,30,əsɨ̀m sə́l,əsɨ̀m sə́l,[],,['chan2019'],,False,False,,1
 rawa1265-4-40-1,,rawa1265-4,40,əblì sə́l,əblì sə́l,[],,['chan2019'],,False,False,,1
 rawa1265-4-50-1,,rawa1265-4,50,puŋwà sə́l,puŋwà sə́l,[],,['chan2019'],,False,False,,1
 rawa1265-4-60-1,,rawa1265-4,60,təruʔ sə́l,təruʔ sə́l,[],,['chan2019'],,False,False,,1
-rawa1265-4-70-1,,rawa1265-4,70,səɲint sə́l,səɲint~ʃɨŋit sə́l,[],,['chan2019'],,False,False,,1
-rawa1265-4-70-2,,Rawa1265-4,70,ʃɨŋit sə́l,,,,,,,False,,
+rawa1265-4-70-1,,rawa1265-4,70,səɲint~ʃɨŋit sə́l,səɲint sə́l,[],,['chan2019'],,False,False,,1
+rawa1265-4-70-2,,rawa1265-4,70,səɲint~ʃɨŋit sə́l,ʃɨŋit sə́l,[],,['chan2019'],,False,False,,1
 rawa1265-4-80-1,,rawa1265-4,80,ʃət sə́l,ʃət sə́l,[],,['chan2019'],,False,False,,1
 rawa1265-4-90-1,,rawa1265-4,90,dəɡɨ̀ sə́l,dəɡɨ̀ sə́l,[],,['chan2019'],,False,False,,1
 rawa1265-4-100-1,,rawa1265-4,100,tʃi já,tʃi já,[],,['chan2019'],,False,False,,1
-Rawa1265-4-200-1,,rawa1265-4,200,əɲí já,200. əɲí já,[],,['chan2019'],,False,False,,1
+rawa1265-4-200-1,,rawa1265-4,200,əɲí já,əɲí já,[],,['chan2019'],,False,False,,1
 rawa1265-4-400-1,,rawa1265-4,400,əblìjá,əblìjá,[],,['chan2019'],,False,False,,1
-Rawa1265-4-800-1,,rawa1265-4,800,ʃət já,800. ʃət já,[],,['chan2019'],,False,False,,1
+rawa1265-4-800-1,,rawa1265-4,800,ʃət já,ʃət já,[],,['chan2019'],,False,False,,1
 rawa1265-4-1000-1,,rawa1265-4,1000,tʃi kíŋ,tʃi kíŋ,[],,['chan2019'],,False,False,,1
 rawa1265-4-2000-1,,rawa1265-4,2000,əɲí kíŋ,əɲí kíŋ,[],,['chan2019'],,False,False,,1

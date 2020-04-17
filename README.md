@@ -8,9 +8,9 @@
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5,324
+- **Varieties:** 5,325
 - **Concepts:** 100
-- **Lexemes:** 187,003
+- **Lexemes:** 187,125
 - **Sources:** 1
 - **Synonymy:** 1.09
 
