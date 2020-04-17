@@ -1,11 +1,11 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 nafu1238-1-1-1,,nafu1238-1,1,úɡ̌un,úɡ̌un,[],,['chan2019'],,False,False,,1
 nafu1238-1-1-2,,nafu1238-1,1,úɡ̌ûn,úɡ̌ûn,[],,['chan2019'],,False,False,,1
-nafu1238-1-1-3,,nafu1238-1,1,ˈu.d͡ʒun,ˈu.d͡ʒun,[],,['chan2019'],,False,False,úɡ̌ɡ̌un (masc.),1
+nafu1238-1-1-3,,nafu1238-1,1,ˈu.d͡ʒun,ˈu.d͡ʒun,[],(masc.),['chan2019'],,False,False,úɡ̌ɡ̌un,1
 nafu1238-1-1-4,,nafu1238-1,1,úɡ̌ut,úɡ̌ut,[],,['chan2019'],,False,False,,1
-nafu1238-1-1-5,,nafu1238-1,1,ˈu.d͡ʒut,ˈu.d͡ʒut,[],,['chan2019'],,False,False,úɡ̌ut (fem.),1
-nafu1238-1-2-1,,nafu1238-1,2,sən,sən,[],,['chan2019'],,False,False,sen (masc.),1
-nafu1238-1-2-2,,nafu1238-1,2,sənt,sənt,[],,['chan2019'],,False,False,sent (fem.),1
+nafu1238-1-1-5,,nafu1238-1,1,ˈu.d͡ʒut,ˈu.d͡ʒut,[],(fem.),['chan2019'],,False,False,úɡ̌ut,1
+nafu1238-1-2-1,,nafu1238-1,2,sən,sən,[],,['chan2019'],(masc.),False,False,sen,1
+nafu1238-1-2-2,,nafu1238-1,2,sənt,sənt,[],,['chan2019'],(fem.),False,False,sent,1
 nafu1238-1-3-1,,nafu1238-1,3,'tlæː.tæ,'tlæː.tæ,[],(< Arabic ),['chan2019'],,True,False,tlâta,1
 nafu1238-1-4-1,,nafu1238-1,4,árbʻa,árbʻa,[],,['chan2019'],,False,False,,1
 nafu1238-1-4-2,,nafu1238-1,4,árbaʻa,árbaʻa,[],,['chan2019'],,False,False,,1

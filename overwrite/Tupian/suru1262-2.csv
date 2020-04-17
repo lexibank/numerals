@@ -1,5 +1,5 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 suru1262-2-1-1,,suru1262-2,1,mũy,mũy,[],,['chan2019'],,False,False,,2
 suru1262-2-2-1,,suru1262-2,2,mûyakábud,mûyakábud,[],,['chan2019'],,False,False,,2
-suru1262-2-3-1,,suru1262-2,3,kaysér,kaysér,[],,['chan2019'],,False,False,,2
-suru1262-2-3-2,,suru1262-2,3,also means ' more',also means ' more',[],,['chan2019'],,False,True,,2
+suru1262-2-3-1,,suru1262-2,3,kaysér,kaysér,[],also means ' more',['chan2019'],,False,False,,2
+
