@@ -1,25 +1,25 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 nang1262-3-1-1,,nang1262-3,1,ɞte,ɞte,[],,['chan2019'],,False,False,,1
 nang1262-3-1-2,,nang1262-3,1,tʉɞte,tʉɞte,[],,['chan2019'],,False,False,,1
-nang1262-3-2-1,,nang1262-3,2,liː,*liː,[],,['chan2019'],,False,False,,1
+nang1262-3-2-1,,nang1262-3,2,liː,liː,[],*,['chan2019'],,False,False,,1
 nang1262-3-2-2,,nang1262-3,2,laliː,laliː,[],,['chan2019'],,False,False,,1
 nang1262-3-2-3,,nang1262-3,2,tʉliː,tʉliː,[],,['chan2019'],,False,False,,1
-nang1262-3-3-1,,nang1262-3,3,tʉː,*tʉː,[],,['chan2019'],,False,False,,1
+nang1262-3-3-1,,nang1262-3,3,tʉː,tʉː,[],*,['chan2019'],,False,False,,1
 nang1262-3-3-2,,nang1262-3,3,latʉː,latʉː,[],,['chan2019'],,False,False,,1
-nang1262-3-4-1,,nang1262-3,4,pwɔː,*pwɔː,[],,['chan2019'],,False,False,,1
+nang1262-3-4-1,,nang1262-3,4,pwɔː,pwɔː,[],*,['chan2019'],,False,False,,1
 nang1262-3-4-2,,nang1262-3,4,lɒpwɔː,lɒpwɔː,[],,['chan2019'],,False,False,,1
 nang1262-3-4-3,,nang1262-3,4,tupwɔː,tupwɔː,[],,['chan2019'],,False,False,,1
-nang1262-3-5-1,,nang1262-3,5,mɞpu̥,*mɞpu̥,[],,['chan2019'],,False,False,,1
+nang1262-3-5-1,,nang1262-3,5,mɞpu̥,mɞpu̥,[],*,['chan2019'],,False,False,,1
 nang1262-3-5-2,,nang1262-3,5,lamɞpu̥,lamɞpu̥,[],,['chan2019'],,False,False,,1
 nang1262-3-5-3,,nang1262-3,5,tʉmɞpu̥,tʉmɞpu̥,[],,['chan2019'],,False,False,,1
-nang1262-3-6-1,,nang1262-3,6,mɞtimɔu,*mɞtimɔu,[],,['chan2019'],,False,False,,1
+nang1262-3-6-1,,nang1262-3,6,mɞtimɔu,mɞtimɔu,[],*,['chan2019'],,False,False,,1
 nang1262-3-6-2,,nang1262-3,6,lamɞtimɔu,lamɞtimɔu,[],,['chan2019'],,False,False,,1
 nang1262-3-6-3,,nang1262-3,6,tʉmɞtimɔu,tʉmɞtimɔu,[],,['chan2019'],,False,False,,1
-nang1262-3-7-1,,nang1262-3,7,mʉtʉː,*mʉtʉː,[],,['chan2019'],,False,False,,1
+nang1262-3-7-1,,nang1262-3,7,mʉtʉː,mʉtʉː,[],*,['chan2019'],,False,False,,1
 nang1262-3-7-2,,nang1262-3,7,tʉmʉtʉː,tʉmʉtʉː,[],,['chan2019'],,False,False,,1
-nang1262-3-8-1,,nang1262-3,8,mʉliː,*mʉliː,[],,['chan2019'],,False,False,,1
+nang1262-3-8-1,,nang1262-3,8,mʉliː,mʉliː,[],*,['chan2019'],,False,False,,1
 nang1262-3-8-2,,nang1262-3,8,tʉmʉliː,tʉmʉliː,[],,['chan2019'],,False,False,,1
-nang1262-3-9-1,,nang1262-3,9,muɞte,*muɞte,[],,['chan2019'],,False,False,,1
+nang1262-3-9-1,,nang1262-3,9,muɞte,muɞte,[],*,['chan2019'],,False,False,,1
 nang1262-3-9-2,,nang1262-3,9,tumuɞte,tumuɞte,[],,['chan2019'],,False,False,,1
 nang1262-3-10-1,,nang1262-3,10,nɔpⁿu,nɔpⁿu,[],,['chan2019'],,False,False,,1
 nang1262-3-10-2,,nang1262-3,10,nɔpⁿu ɞte,nɔpⁿu ɞte,[],,['chan2019'],,False,False,,1
@@ -37,7 +37,7 @@ nang1262-3-21-1,,nang1262-3,21,nɔpⁿu laliː ɛ (luɒː) ɞte,nɔpⁿu laliː 
 nang1262-3-22-1,,nang1262-3,22,nɔpⁿu laliː ɛ (luɒː) laliː,nɔpⁿu laliː ɛ (luɒː) laliː,[],,['chan2019'],,False,False,,1
 nang1262-3-23-1,,nang1262-3,23,nɔpⁿu laliː ɛ (luɒː) latʉː,nɔpⁿu laliː ɛ (luɒː) latʉː,[],,['chan2019'],,False,False,,1
 nang1262-3-24-1,,nang1262-3,24,nɔpⁿu laliː ɛ (luɒː) lɒpwɔː,nɔpⁿu laliː ɛ (luɒː) lɒpwɔː,[],,['chan2019'],,False,False,,1
-nang1262-3-25-1,,nang1262-3,25,nɔpⁿu laliː ɛ,nɔpⁿu laliː ɛ,[],(luɒː) lamɞp(u),['chan2019'],,False,False,,1
+nang1262-3-25-1,,nang1262-3,25,nɔpⁿu laliː ɛ (luɒː) lamɞp(u),nɔpⁿu laliː ɛ (luɒː) lamɞp(u),[],,['chan2019'],,False,False,,1
 nang1262-3-26-1,,nang1262-3,26,nɔpⁿu laliː ɛ (luɒː) lamɞtimɔu,nɔpⁿu laliː ɛ (luɒː) lamɞtimɔu,[],,['chan2019'],,False,False,,1
 nang1262-3-27-1,,nang1262-3,27,nɔpⁿu laliː ɛ (luɒː) tʉmʉtʉː,nɔpⁿu laliː ɛ (luɒː) tʉmʉtʉː,[],,['chan2019'],,False,False,,1
 nang1262-3-28-1,,nang1262-3,28,nɔpⁿu laliː ɛ (luɒː) tʉmʉliː,nɔpⁿu laliː ɛ (luɒː) tʉmʉliː,[],,['chan2019'],,False,False,,1
@@ -50,6 +50,7 @@ nang1262-3-70-1,,nang1262-3,70,nɔpⁿu tʉmʉtʉː,nɔpⁿu tʉmʉtʉː,[],,['c
 nang1262-3-80-1,,nang1262-3,80,nɔpⁿu tʉmʉliː,nɔpⁿu tʉmʉliː,[],,['chan2019'],,False,False,,1
 nang1262-3-90-1,,nang1262-3,90,nɔpⁿu tumuɞte,nɔpⁿu tumuɞte,[],,['chan2019'],,False,False,,1
 nang1262-3-100-1,,nang1262-3,100,telau,telau,[],,['chan2019'],,False,False,,1
-nang1262-3-200-1,,nang1262-3,200,telau laliː,telau laliː,[],( 400. telau lɒpwɔː),['chan2019'],,False,False,,1
+nang1262-3-200-1,,nang1262-3,200,telau laliː,telau laliː,[],,['chan2019'],,False,False,,1
+nang1262-3-400-1,,nang1262-3,400,telau lɒpwɔː,telau lɒpwɔː,[],,['chan2019'],,False,False,,1
 nang1262-3-1000-1,,nang1262-3,1000,tiu ɞte,tiu ɞte,[],,['chan2019'],,False,False,,1
 nang1262-3-2000-1,,nang1262-3,2000,tiu laliː,tiu laliː,[],,['chan2019'],,False,False,,1
