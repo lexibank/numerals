@@ -13,6 +13,7 @@ from pylexibank.models import Lexeme, Language
 from pylexibank.util import progressbar
 from pylexibank.forms import FormSpec
 
+from errorcheck import errorchecks
 from base_mapper import BASE_MAP
 
 from numerals_util import (
@@ -43,6 +44,15 @@ class CustomLexeme(Lexeme):
     Problematic = attr.ib(default=False)
     Other_Form = attr.ib(default=None)
     Variant_ID = attr.ib(default=1)
+
+    def __attrs_post_init__(self):
+        self.Problematic = False
+        for check in errorchecks:
+            if check(self.Form):
+                self.Problematic = True
+                break
+        if not self.Problematic and self.Other_Form and '<' in self.Other_Form:
+            self.Problematic = True
 
 
 class Dataset(BaseDataset):
@@ -163,7 +173,6 @@ class Dataset(BaseDataset):
             else:
                 no_glottolog_codes.append(language['ID'])
 
-
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
         # gather all overwrite candidates {file_name: path}
@@ -190,7 +199,28 @@ class Dataset(BaseDataset):
                             "twen1241-2", "brek1238-2", "nang1262-3", "nang1262-4",
                             "guan1266-5", "guan1266-6", "guan1266-7", "orin1239-3",
                             "tase1235-1", "tase1235-2", "whit1267-5", "whit1267-4",
-                            "zakh1243-1", "zakh1243-2", "zakh1243-3"]
+                            "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
+                            "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4"]
+
+        # form IDs and forms which are correct after error checking
+        whitelist = {
+            "amha1245-1-1-1": "and",
+            "amha1245-2-1-1": "and",
+            "uppe1438-1-2-1": "notek’a",
+            "uppe1438-1-7-1": "donannotek’a",
+            "uppe1438-1-12-1": "hilozrunh notek’a mik’ide’",
+            "uppe1438-1-22-1": "ts’ełk’inh dina notek’a mik’ide’",
+            "uppe1438-1-40-1": "notehina dina",
+            "uppe1438-1-50-1": "notehina dina hwlozrunh mik’ide’",
+            "uppe1438-1-70-1": "donannotek’a dina",
+            "waro1242-2-3-1": "or",
+            "west2643-1-4-1": "kõ(o̥/h)mĩ",
+            "west2643-1-14-1": "uʃi kõ(o̥/h)mĩ",
+            "west2643-1-19-1": "ʃɑʔũ kõ(o̥/h)mĩ",
+            "west2643-1-24-1": "oko kõ(o̥/h)mĩ",
+            "west2643-1-80-1": "kõ(o̥/h)mĩ ʃiko",
+            "west2643-1-90-1": "kõ(o̥/h)mĩ ʃiko uʃi",
+        }
 
         for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\
@@ -280,6 +310,13 @@ class Dataset(BaseDataset):
 
         for u in no_glottolog_codes:
             args.log.info("no Glottolog code for ID {0}".format(u))
+
+        for u in args.writer.objects['FormTable']:
+            if u["Problematic"]:
+                if u["ID"] in whitelist and u["Form"] == whitelist[u["ID"]]:
+                    u["Problematic"] = False
+                else:
+                    args.log.warn("{0} -> {1}".format(u["ID"], u["Form"]))
 
         for u in sorted(unknown_params, key=lambda k: int(k.split(" ")[1])):
             args.log.warn(u)

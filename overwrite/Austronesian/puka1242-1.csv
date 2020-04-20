@@ -10,7 +10,9 @@ puka1242-1-7-1,,puka1242-1,7,witu,witu,[],,['chan2019'],,False,False,,1
 puka1242-1-8-1,,puka1242-1,8,valu,valu,[],,['chan2019'],,False,False,,1
 puka1242-1-9-1,,puka1242-1,9,iva,iva,[],,['chan2019'],,False,False,,1
 puka1242-1-10-1,,puka1242-1,10,lauŋaulu,lauŋaulu,[],,['chan2019'],,False,False,,1
-puka1242-1-10-2,,puka1242-1,10,ðeːpulupulu,archaic * ðeːpulupulu 'ten coconuts (counted in pairs)' tinoangulu,[],archaic,['chan2019'],,False,False,aŋaulu,1
+puka1242-1-10-2,,puka1242-1,10,aŋaulu,aŋaulu,[],[archaic] *,['chan2019'],,False,False,,1
+puka1242-1-10-3,,puka1242-1,10,ðeːpulupulu,ðeːpulupulu,[],'ten coconuts (counted in pairs)' ,['chan2019'],,False,False,,1
+puka1242-1-10-4,,puka1242-1,10,tinoangulu,tinoangulu,[],,['chan2019'],,False,False,,1
 puka1242-1-11-1,,puka1242-1,11,lauŋaulu ma tai,lauŋaulu ma tai,[],,['chan2019'],,False,False,,1
 puka1242-1-12-1,,puka1242-1,12,lauŋaulu ma lua,lauŋaulu ma lua,[],,['chan2019'],,False,False,,1
 puka1242-1-13-1,,puka1242-1,13,lauŋaulu ma tolu,lauŋaulu ma tolu,[],,['chan2019'],,False,False,,1
@@ -21,7 +23,7 @@ puka1242-1-17-1,,puka1242-1,17,lauŋaulu ma witu,lauŋaulu ma witu,[],,['chan201
 puka1242-1-18-1,,puka1242-1,18,lauŋaulu ma valu,lauŋaulu ma valu,[],,['chan2019'],,False,False,,1
 puka1242-1-19-1,,puka1242-1,19,lauŋaulu ma iva,lauŋaulu ma iva,[],,['chan2019'],,False,False,,1
 puka1242-1-20-1,,puka1242-1,20,lualua,lualua,[],,['chan2019'],,False,False,,1
-puka1242-1-20-2,,puka1242-1,20,luaŋaulu,luaŋaulu,[],( Cook Is. Maori),['chan2019'],,False,False,,1
+puka1242-1-20-2,,puka1242-1,20,luaŋaulu,luaŋaulu,[],( Cook Is. Maori),['chan2019'],,True,False,,1
 puka1242-1-21-1,,puka1242-1,21,lualua ma tai,lualua ma tai,[],,['chan2019'],,False,False,,1
 puka1242-1-22-1,,puka1242-1,22,lualua ma lua,lualua ma lua,[],,['chan2019'],,False,False,,1
 puka1242-1-23-1,,puka1242-1,23,lualua ma tolu,lualua ma tolu,[],,['chan2019'],,False,False,,1
@@ -32,21 +34,21 @@ puka1242-1-27-1,,puka1242-1,27,lualua ma witu,lualua ma witu,[],,['chan2019'],,F
 puka1242-1-28-1,,puka1242-1,28,lualua ma valu,lualua ma valu,[],,['chan2019'],,False,False,,1
 puka1242-1-29-1,,puka1242-1,29,lualua ma iva,lualua ma iva,[],,['chan2019'],,False,False,,1
 puka1242-1-30-1,,puka1242-1,30,lautolu,lautolu,[],,['chan2019'],,False,False,,1
-puka1242-1-30-2,,puka1242-1,30,toluŋaulu,toluŋaulu,[],( Cook Is. Maori ),['chan2019'],,False,False,,1
+puka1242-1-30-2,,puka1242-1,30,toluŋaulu,toluŋaulu,[],( Cook Is. Maori ),['chan2019'],,True,False,,1
 puka1242-1-40-1,,puka1242-1,40,lauwaː,lauwaː,[],,['chan2019'],,False,False,,1
-puka1242-1-40-2,,puka1242-1,40,waːŋaulu,waːŋaulu,[],( Cook Is. Maori ),['chan2019'],,False,False,,1
+puka1242-1-40-2,,puka1242-1,40,waːŋaulu,waːŋaulu,[],( Cook Is. Maori ),['chan2019'],,True,False,,1
 puka1242-1-50-1,,puka1242-1,50,laulima,laulima,[],,['chan2019'],,False,False,,1
-puka1242-1-50-2,,puka1242-1,50,limaŋaulu,limaŋaulu,[],( Cook Is. Maori ),['chan2019'],,False,False,,1
+puka1242-1-50-2,,puka1242-1,50,limaŋaulu,limaŋaulu,[],( Cook Is. Maori ),['chan2019'],,True,False,,1
 puka1242-1-60-1,,puka1242-1,60,lauono,lauono,[],,['chan2019'],,False,False,,1
-puka1242-1-60-2,,puka1242-1,60,onoŋaulu,onoŋaulu,[],( Cook Is. Maori ),['chan2019'],,False,False,,1
+puka1242-1-60-2,,puka1242-1,60,onoŋaulu,onoŋaulu,[],( Cook Is. Maori ),['chan2019'],,True,False,,1
 puka1242-1-70-1,,puka1242-1,70,lauwitu,lauwitu,[],,['chan2019'],,False,False,,1
-puka1242-1-70-2,,puka1242-1,70,wituŋaulu,wituŋaulu,[],( Cook Is. Maori ),['chan2019'],,False,False,,1
+puka1242-1-70-2,,puka1242-1,70,wituŋaulu,wituŋaulu,[],( Cook Is. Maori ),['chan2019'],,True,False,,1
 puka1242-1-80-1,,puka1242-1,80,lauvalu,lauvalu,[],,['chan2019'],,False,False,,1
-puka1242-1-80-2,,puka1242-1,80,valuŋaulu,valuŋaulu,[],( Cook Is. Maori ),['chan2019'],,False,False,,1
+puka1242-1-80-2,,puka1242-1,80,valuŋaulu,valuŋaulu,[],( Cook Is. Maori ),['chan2019'],,True,False,,1
 puka1242-1-90-1,,puka1242-1,90,lauiva,lauiva,[],,['chan2019'],,False,False,,1
-puka1242-1-90-2,,puka1242-1,90,ivaŋaulu,ivaŋaulu,[],( Cook Is. Maori ),['chan2019'],,False,False,,1
+puka1242-1-90-2,,puka1242-1,90,ivaŋaulu,ivaŋaulu,[],( Cook Is. Maori ),['chan2019'],,True,False,,1
 puka1242-1-100-1,,puka1242-1,100,lau,lau,[],,['chan2019'],,False,False,,1
-puka1242-1-100-2,,puka1242-1,100,aːnele,aːnele,[],( English ),['chan2019'],,False,False,,1
+puka1242-1-100-2,,puka1242-1,100,aːnele,aːnele,[],( English ),['chan2019'],,True,False,,1
 puka1242-1-200-1,,puka1242-1,200,lualau,lualau,[],,['chan2019'],,False,False,,1
 puka1242-1-200-2,,puka1242-1,200,lua aːnele,lua aːnele,[],,['chan2019'],,False,False,,1
 puka1242-1-1000-1,,puka1242-1,1000,mano,mano,[],,['chan2019'],,False,False,,1

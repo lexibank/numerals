@@ -1,6 +1,6 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-maco1239-1-1-1,,maco1239-1,1,bakw-CL,bakw-CL,[],,['chan2019'],,False,False,,1
-maco1239-1-2-1,,maco1239-1,2,d-CL-latahi,d-CL-latahi,[],,['chan2019'],,False,False,,1
-maco1239-1-3-1,,maco1239-1,3,wap-CL-kwa,wap-CL-kwa,[],,['chan2019'],,False,False,,1
-maco1239-1-4-1,,maco1239-1,4,ɨˀwehemu hawa-CL,ɨˀwehemu hawa-CL,[],,['chan2019'],,False,False,,1
-maco1239-1-5-1,,maco1239-1,5,bãkwamu hawa-CL,bãkwamu hawa-CL,[],,['chan2019'],,False,False,,1
+maco1239-1-1-1,,maco1239-1,1,bakw-,bakw-,[],-CL,['chan2019'],,False,False,,1
+maco1239-1-2-1,,maco1239-1,2,d- -latahi,d- -latahi,[],-CL-,['chan2019'],,False,False,,1
+maco1239-1-3-1,,maco1239-1,3,wap- -kwa,wap- -kwa,[],-CL-,['chan2019'],,False,False,,1
+maco1239-1-4-1,,maco1239-1,4,ɨˀwehemu hawa-,ɨˀwehemu hawa-,[],-CL,['chan2019'],,False,False,,1
+maco1239-1-5-1,,maco1239-1,5,bãkwamu hawa-,bãkwamu hawa-,[],-CL,['chan2019'],,False,False,,1

@@ -1,44 +1,29 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-tobi1238-1-1-1,,tobi1238-1,1,sewo,sewo,[],,['chan2019'],,False,False,,1
-tobi1238-1-1-2,,tobi1238-1,1,ðeːw ,ðeːw ? or,[],[ðɛʉ] ?,['chan2019'],,False,False,seew,1
-tobi1238-1-2-1,,tobi1238-1,2,huwou,huwou,[],,['chan2019'],,False,False,,1
-tobi1238-1-2-2,,tobi1238-1,2,ɣuwou ,ɣuwou ?,[],?,['chan2019'],,False,False,ɡuwow,1
-tobi1238-1-3-1,,tobi1238-1,3,soruo,soruo,[],,['chan2019'],,False,False,,1
-tobi1238-1-3-2,,tobi1238-1,3,sɛluw,sɛluw,[],,['chan2019'],,False,False,séruw,1
-tobi1238-1-4-1,,tobi1238-1,4,fauwo,fauwo,[],,['chan2019'],,False,False,,1
-tobi1238-1-4-2,,tobi1238-1,4,faːw,faːw,[],,['chan2019'],,False,False,faaw,1
-tobi1238-1-5-1,,tobi1238-1,5,rimouo,rimouo,[],,['chan2019'],,False,False,,1
-tobi1238-1-5-2,,tobi1238-1,5,rimou,rimou,[],,['chan2019'],,False,False,rimou,1
-tobi1238-1-6-1,,tobi1238-1,6,worouo,worouo,[],,['chan2019'],,False,False,,1
-tobi1238-1-6-2,,tobi1238-1,6,wɔrou,wɔrou,[],,['chan2019'],,False,False,worow,1
-tobi1238-1-7-1,,tobi1238-1,7,fisuo,fisuo,[],,['chan2019'],,False,False,,1
-tobi1238-1-7-2,,tobi1238-1,7,fisuw ,fisuw or,[],[fiðuw],['chan2019'],,False,False,fisuw,1
-tobi1238-1-8-1,,tobi1238-1,8,waruo,waruo,[],,['chan2019'],,False,False,,1
-tobi1238-1-8-2,,tobi1238-1,8,waruw,waruw,[],,['chan2019'],,False,False,waruw,1
-tobi1238-1-9-1,,tobi1238-1,9,tiwouo,tiwouo,[],,['chan2019'],,False,False,,1
-tobi1238-1-9-2,,tobi1238-1,9,tiwow,tiwow,[],,['chan2019'],,False,False,tiwow,1
+tobi1238-1-1-1,,tobi1238-1,1,ðeːw,ðeːw,[],?,['chan2019'],,False,False,"sewo, seew",1
+tobi1238-1-1-2,,tobi1238-1,1,ðɛʉ,ðɛʉ,[],?,['chan2019'],,False,False,"sewo, seew",1
+tobi1238-1-2-1,,tobi1238-1,2,ɣuwou,ɣuwou,[],?,['chan2019'],,False,False,"huwou, ɡuwow",1
+tobi1238-1-3-1,,tobi1238-1,3,sɛluw,sɛluw,[],,['chan2019'],,False,False,"soruo, séruw",1
+tobi1238-1-4-1,,tobi1238-1,4,faːw,faːw,[],,['chan2019'],,False,False,"fauwo, faaw",1
+tobi1238-1-5-1,,tobi1238-1,5,rimou,rimou,[],,['chan2019'],,False,False,"rimouo, rimou",1
+tobi1238-1-6-1,,tobi1238-1,6,wɔrou,wɔrou,[],,['chan2019'],,False,False,"worouo, worow",1
+tobi1238-1-7-1,,tobi1238-1,7,fisuw,fisuw,[],,['chan2019'],,False,False,"fisuo, fisuw",1
+tobi1238-1-7-2,,tobi1238-1,7,fiðuw,fiðuw,[],,['chan2019'],,False,False,"fisuo, fisuw",1
+tobi1238-1-8-1,,tobi1238-1,8,waruw,waruw,[],,['chan2019'],,False,False,"waruo, waruw",1
+tobi1238-1-9-1,,tobi1238-1,9,tiwow,tiwow,[],,['chan2019'],,False,False,"tiwouo, tiwow",1
 tobi1238-1-10-1,,tobi1238-1,10,seih,seih,[],,['chan2019'],,False,False,seih,1
-tobi1238-1-10-2,,tobi1238-1,10,sejiɡ  ðɛɡɛtiu,sejiɡ ? ðɛɡɛtiu,[],?,['chan2019'],,False,False,,1
+tobi1238-1-10-2,,tobi1238-1,10,ðɛɡɛtiu,ðɛɡɛtiu,[],?,['chan2019'],,False,False,sejiɡ,1
 tobi1238-1-10-3,,tobi1238-1,10,seu,seu,[],,['chan2019'],,False,False,,1
-tobi1238-1-11-1,,tobi1238-1,11,seih ma sewo,seih ma sewo,[],,['chan2019'],,False,False,,1
-tobi1238-1-11-2,,tobi1238-1,11,ðɛɡɛti mʌ ðɛʉ,ðɛɡɛti mʌ ðɛʉ,[],,['chan2019'],,False,False,,1
-tobi1238-1-12-1,,tobi1238-1,12,seih ma huwou,seih ma huwou,[],,['chan2019'],,False,False,,1
-tobi1238-1-12-2,,tobi1238-1,12,ðɛɡɛti mʌ ɣuou,ðɛɡɛti mʌ ɣuou,[],,['chan2019'],,False,False,,1
-tobi1238-1-13-1,,tobi1238-1,13,seih ma soruo,seih ma soruo,[],,['chan2019'],,False,False,,1
-tobi1238-1-13-2,,tobi1238-1,13,ðɛɡɛti mʌ sɛlu,ðɛɡɛti mʌ sɛlu,[],,['chan2019'],,False,False,,1
-tobi1238-1-14-1,,tobi1238-1,14,seih ma fauwo,seih ma fauwo,[],,['chan2019'],,False,False,,1
-tobi1238-1-14-2,,tobi1238-1,14,ðɛɡɛti mʌ fʌu,ðɛɡɛti mʌ fʌu,[],,['chan2019'],,False,False,,1
-tobi1238-1-15-1,,tobi1238-1,15,seih ma rimouo,seih ma rimouo,[],,['chan2019'],,False,False,,1
-tobi1238-1-15-2,,tobi1238-1,15,ðɛɡɛti mʌ rimou,ðɛɡɛti mʌ rimou,[],,['chan2019'],,False,False,,1
-tobi1238-1-16-1,,tobi1238-1,16,seih ma worouo,seih ma worouo,[],,['chan2019'],,False,False,,1
-tobi1238-1-16-2,,tobi1238-1,16,ðɛɡɛti mʌ wɔrou,ðɛɡɛti mʌ wɔrou,[],,['chan2019'],,False,False,,1
-tobi1238-1-17-1,,tobi1238-1,17,seih ma fisuo,seih ma fisuo,[],,['chan2019'],,False,False,,1
-tobi1238-1-17-2,,tobi1238-1,17,ðɛɡɛti mʌ fiðu,ðɛɡɛti mʌ fiðu,[],,['chan2019'],,False,False,,1
-tobi1238-1-18-1,,tobi1238-1,18,seih ma waruo,seih ma waruo,[],,['chan2019'],,False,False,,1
-tobi1238-1-18-2,,tobi1238-1,18,ðɛɡɛti mʌ wʌru,ðɛɡɛti mʌ wʌru,[],,['chan2019'],,False,False,,1
-tobi1238-1-19-1,,tobi1238-1,19,seih ma tiwouo,seih ma tiwouo,[],,['chan2019'],,False,False,,1
-tobi1238-1-19-2,,tobi1238-1,19,ðɛɡɛti mʌ timou,ðɛɡɛti mʌ timou,[],,['chan2019'],,False,False,,1
-tobi1238-1-20-1,,tobi1238-1,20,huheih ɡyɡejiɡ,huheih ? ɡyɡejiɡ,[],[ɣueik] ?,['chan2019'],,False,False,huheih,1
+tobi1238-1-11-1,,tobi1238-1,11,ðɛɡɛti mʌ ðɛʉ,ðɛɡɛti mʌ ðɛʉ,[],,['chan2019'],,False,False,seih ma sewo,1
+tobi1238-1-12-1,,tobi1238-1,12,ðɛɡɛti mʌ ɣuou,ðɛɡɛti mʌ ɣuou,[],,['chan2019'],,False,False,seih ma huwou,1
+tobi1238-1-13-1,,tobi1238-1,13,ðɛɡɛti mʌ sɛlu,ðɛɡɛti mʌ sɛlu,[],,['chan2019'],,False,False,seih ma soruo,1
+tobi1238-1-14-1,,tobi1238-1,14,ðɛɡɛti mʌ fʌu,ðɛɡɛti mʌ fʌu,[],,['chan2019'],,False,False,seih ma fauwo,1
+tobi1238-1-15-1,,tobi1238-1,15,ðɛɡɛti mʌ rimou,ðɛɡɛti mʌ rimou,[],,['chan2019'],,False,False,seih ma rimouo,1
+tobi1238-1-16-1,,tobi1238-1,16,ðɛɡɛti mʌ wɔrou,ðɛɡɛti mʌ wɔrou,[],,['chan2019'],,False,False,seih ma worouo,1
+tobi1238-1-17-1,,tobi1238-1,17,ðɛɡɛti mʌ fiðu,ðɛɡɛti mʌ fiðu,[],,['chan2019'],,False,False,seih ma fisuo,1
+tobi1238-1-18-1,,tobi1238-1,18,ðɛɡɛti mʌ wʌru,ðɛɡɛti mʌ wʌru,[],,['chan2019'],,False,False,seih ma waruo,1
+tobi1238-1-19-1,,tobi1238-1,19,ðɛɡɛti mʌ timou,ðɛɡɛti mʌ timou,[],,['chan2019'],,False,False,seih ma tiwouo,1
+tobi1238-1-20-1,,tobi1238-1,20,huheih,huheih,[],?,['chan2019'],,False,False,huheih,1
+tobi1238-1-20-2,,tobi1238-1,20,ɣueik,ɣueik,[],?,['chan2019'],,False,False,ɡyɡejiɡ,1
 tobi1238-1-21-1,,tobi1238-1,21,ɣueik mʌ ðɛʉ,ɣueik mʌ ðɛʉ,[],,['chan2019'],,False,False,,1
 tobi1238-1-22-1,,tobi1238-1,22,ɣueik mʌ ɣuou,ɣueik mʌ ɣuou,[],,['chan2019'],,False,False,,1
 tobi1238-1-23-1,,tobi1238-1,23,ɣueik mʌ sɛluw,ɣueik mʌ sɛluw,[],,['chan2019'],,False,False,,1
@@ -48,19 +33,19 @@ tobi1238-1-26-1,,tobi1238-1,26,ɣueik mʌ wɔrou,ɣueik mʌ wɔrou,[],,['chan201
 tobi1238-1-27-1,,tobi1238-1,27,ɣueik mʌ fiðu,ɣueik mʌ fiðu,[],,['chan2019'],,False,False,,1
 tobi1238-1-28-1,,tobi1238-1,28,ɣueik mʌ wʌru,ɣueik mʌ wʌru,[],,['chan2019'],,False,False,,1
 tobi1238-1-29-1,,tobi1238-1,29,ɣueik mʌ tiwou,ɣueik mʌ tiwou,[],,['chan2019'],,False,False,,1
-tobi1238-1-30-1,,tobi1238-1,30,seriho ,seriho ?,[],,['chan2019'],?,False,False,seriho,1
+tobi1238-1-30-1,,tobi1238-1,30,seriho,seriho,[],?,['chan2019'],,False,False,seriho,1
 tobi1238-1-30-2,,tobi1238-1,30,ðɛːrik,ðɛːrik,[],,['chan2019'],,False,False,seriɡ,1
-tobi1238-1-40-1,,tobi1238-1,40,faih ,faih ?,[],,['chan2019'],?,False,False,faih,1
+tobi1238-1-40-1,,tobi1238-1,40,faih,faih,[],?,['chan2019'],,False,False,faih,1
 tobi1238-1-40-2,,tobi1238-1,40,fʌːik,fʌːik,[],,['chan2019'],,False,False,fasjiɡ,1
-tobi1238-1-50-1,,tobi1238-1,50,limeih ,limeih ?,[],,['chan2019'],?,False,False,limeih,1
+tobi1238-1-50-1,,tobi1238-1,50,limeih,limeih,[],?,['chan2019'],,False,False,limeih,1
 tobi1238-1-50-2,,tobi1238-1,50,rimeik,rimeik,[],,['chan2019'],,False,False,rimejiɡ,1
-tobi1238-1-60-1,,tobi1238-1,60,woreih ,woreih ?,[],,['chan2019'],?,False,False,woreih,1
+tobi1238-1-60-1,,tobi1238-1,60,woreih,woreih,[],?,['chan2019'],,False,False,woreih,1
 tobi1238-1-60-2,,tobi1238-1,60,wɔreik,wɔreik,[],,['chan2019'],,False,False,worojiɡ,1
-tobi1238-1-70-1,,tobi1238-1,70,fisih ,fisih ?,[],,['chan2019'],?,False,False,fisih,1
+tobi1238-1-70-1,,tobi1238-1,70,fisih,fisih,[],?,['chan2019'],,False,False,fisih,1
 tobi1238-1-70-2,,tobi1238-1,70,fiðiːk,fiðiːk,[],,['chan2019'],,False,False,fisiiɡ,1
-tobi1238-1-80-1,,tobi1238-1,80,warih ,warih ?,[],,['chan2019'],?,False,False,warih,1
+tobi1238-1-80-1,,tobi1238-1,80,warih,warih,[],?,['chan2019'],,False,False,warih,1
 tobi1238-1-80-2,,tobi1238-1,80,wʌriːk,wʌriːk,[],,['chan2019'],,False,False,wariiɡ,1
-tobi1238-1-90-1,,tobi1238-1,90,tiweiχ ,tiweiχ ?,[],,['chan2019'],?,False,False,tiweih,1
+tobi1238-1-90-1,,tobi1238-1,90,tiweiχ,tiweiχ,[],?,['chan2019'],,False,False,tiweih,1
 tobi1238-1-90-2,,tobi1238-1,90,tiweik,tiweik,[],,['chan2019'],,False,False,tiwejiɡ,1
 tobi1238-1-100-1,,tobi1238-1,100,subuhuh,subuhuh,[],,['chan2019'],,False,False,,1
 tobi1238-1-100-2,,tobi1238-1,100,ðɛwɔɣuk,ðɛwɔɣuk,[],,['chan2019'],,False,False,,1

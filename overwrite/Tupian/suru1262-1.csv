@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 suru1262-1-1-1,,suru1262-1,1,mũy,mũy,[],(litː 'one'),['chan2019'],,False,False,,1
-suru1262-1-2-1,,suru1262-1,2,mũyakabud,mũyakabud or xakalar,[],(litː 'two'),['chan2019'],,False,False,,1
-suru1262-1-2-2,,Suru1262-1,2,xakalar,,,,,,,False,,
+suru1262-1-2-1,,suru1262-1,2,mũyakabud or xakalar,mũyakabud,[],(litː 'two'),['chan2019'],,False,False,,1
+suru1262-1-2-2,,suru1262-1,2,mũyakabud or xakalar,xakalar,[],(litː 'two'),['chan2019'],,False,False,,1
 suru1262-1-3-1,,suru1262-1,3,xakalar makab om,xakalar makab om,[],(litː 'two + two without one'),['chan2019'],,False,False,,1
 suru1262-1-4-1,,suru1262-1,4,xakalar iter,xakalar iter,[],(litː 'two + two'),['chan2019'],,False,False,,1
 suru1262-1-5-1,,suru1262-1,5,mũy pabe,mũy pabe,[],(litː 'one hand'),['chan2019'],,False,False,,1
