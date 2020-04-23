@@ -3,6 +3,7 @@ import pathlib
 import attr
 import shutil
 import unicodedata
+import hashlib
 
 from pyglottolog import Glottolog
 
@@ -200,7 +201,22 @@ class Dataset(BaseDataset):
                             "guan1266-5", "guan1266-6", "guan1266-7", "orin1239-3",
                             "tase1235-1", "tase1235-2", "whit1267-5", "whit1267-4",
                             "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
-                            "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4"]
+                            "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4",
+                            "alab1254-2", "yulu1243-1", "yulu1243-2", "caqu1242-2",
+                            "inap1243-1", "bayo1255-3", "chuw1238-2", "dalo1238-1",
+                            "koma1266-3", "nafa1258-1", "tswa1255-2", "tuni1251-1",
+                            "sout2711-1", "zigu1244-1", "kata1264-1", "kata1264-2",
+                            "lave1248-2", "adon1237-1", "aust1304-2", "boto1242-4",
+                            "inon1237-1", "kuan1248-1", "watu1247-1", "ngaj1237-1",
+                            "sout2866-2", "paaf1237-2", "ping1243-2", "farw1235-1",
+                            "ravu1237-2", "chha1249-1", "gade1236-2", "paha1251-1",
+                            "rohi1238-1", "waig1243-1", "tsak1250-2", "nang1259-2",
+                            "bert1249-1", "cogu1240-3", "gamo1244-3", "gamo1244-2",
+                            "hrus1242-3", "hupd1244-3", "kair1267-2", "kend1253-1",
+                            "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
+                            "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
+                            "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
+                            "mans1258-3", "mono1275-1"]
 
         # form IDs and forms which are correct after error checking
         whitelist = {
@@ -221,6 +237,24 @@ class Dataset(BaseDataset):
             "west2643-1-80-1": "kõ(o̥/h)mĩ ʃiko",
             "west2643-1-90-1": "kõ(o̥/h)mĩ ʃiko uʃi",
         }
+        whitelist_datatable_check = [
+            "mach1267-1, nant1250-1",
+            "bang1353-1, ling1263-1",
+            "lano1248-1, sabu1253-1",
+            "abai1240-1, selu1243-1",
+            "east2472-1, nort2860-1",
+            "ouma1237-1, yoba1237-1",
+            "sepa1241-1, tere1276-1",
+            "arab1268-1, iqui1243-1",
+            "sibe1248-1, uisa1238-1",
+            "xish1235-2, xxxx0049-1",
+            "leal1235-1, soch1239-1",
+            "xian1251-2, xian1251-3",
+            "yano1261-2, yano1262-2",
+            "lada1244-2, lada1244-3",
+        ]
+
+        datatable_checks = {}
 
         for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
             if c.name == "index.md" or c.name == "README.md"\
@@ -238,22 +272,23 @@ class Dataset(BaseDataset):
                 for row in reader:
 
                     lang_id = row["Language_ID"].strip()
-                    param_id = row["Parameter_ID"].strip()
-                    form = unicodedata.normalize('NFC', row["Form"].strip())
-                    value = unicodedata.normalize('NFC', row["Value"].strip())
 
+                    if lang_id in ignored_lang_ids:
+                        continue
                     if lang_id not in valid_languages:
-                        if lang_id not in ignored_lang_ids\
-                                and lang_id not in seen_unknown_languages:
+                        if lang_id not in seen_unknown_languages:
                             unknown_languages.append({'id': lang_id, 'lg': c.name})
                             seen_unknown_languages.add(lang_id)
                         continue
 
+                    param_id = row["Parameter_ID"].strip()
                     if param_id not in valid_parameters:
                         unknown_params.append(
                                 'Parameter_ID {0} for {1} unknown'.format(
                                         param_id, lang_id))
                         continue
+
+                    form = unicodedata.normalize('NFC', row["Form"].strip())
 
                     if form in self.form_spec.missing_data:
                         continue
@@ -266,6 +301,8 @@ class Dataset(BaseDataset):
                             len(row["Loan"].strip()) < 3 or\
                             len(row["Variant_ID"].strip()) < 1:
                         misaligned_overwrites.add(lang_id)
+
+                    value = unicodedata.normalize('NFC', row["Value"].strip())
 
                     if len(form) > len(value)+1 or\
                             "[" in form or "]" in form:
@@ -287,6 +324,25 @@ class Dataset(BaseDataset):
                         Variant_ID=row["Variant_ID"].strip() if row["Variant_ID"].strip() else "",
                         Problematic=bool(row["Problematic"].strip() == "True"),
                     )
+                    if lang_id not in datatable_checks:
+                        datatable_checks[lang_id] = []
+                    datatable_checks[lang_id].append(form)
+
+        # check identical data tables
+        for f in datatable_checks:
+            datatable_checks[f] = hashlib.md5(
+                "".join(datatable_checks[f]).encode("utf-8")).hexdigest()
+        datatable_checks_flipped = {}
+        for key, value in datatable_checks.items():
+            if value not in datatable_checks_flipped:
+                datatable_checks_flipped[value] = [key]
+            else:
+                datatable_checks_flipped[value].append(key)
+        for k, v in datatable_checks_flipped.items():
+            if len(v) > 1:
+                vj = ", ".join(sorted(v))
+                if vj not in whitelist_datatable_check:
+                    args.log.warn("Check identical data tables in lang_ids: {0}".format(vj))
 
         def _x(s):
             try:
