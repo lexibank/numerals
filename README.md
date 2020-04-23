@@ -8,9 +8,9 @@
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5,325
+- **Varieties:** 5,248
 - **Concepts:** 100
-- **Lexemes:** 187,136
+- **Lexemes:** 184,491
 - **Sources:** 1
 - **Synonymy:** 1.09
 
@@ -23,6 +23,5 @@
   - Punan Merap, Indonesia [puna1274](http://glottolog.org/resource/languoid/id/puna1274)
   - Shempire Senoufo, Mali [shem1239](http://glottolog.org/resource/languoid/id/shem1239)
   - Shempire Senoufo, Côte d'Ivoire [shem1239](http://glottolog.org/resource/languoid/id/shem1239)
-  - Southern Zhuang, China [sout3221](http://glottolog.org/resource/languoid/id/sout3221)
   - Xinca, Guatemala [xinc1247](http://glottolog.org/resource/languoid/id/xinc1247)
 
