@@ -157,15 +157,45 @@ class Dataset(BaseDataset):
         for concept in self.concepts:
             args.writer.add_concept(**concept)
             valid_parameters.add(concept['ID'])
+
+        ignored_lang_ids = ["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
+                            "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
+                            "twen1241-2", "brek1238-2", "nang1262-3", "nang1262-4",
+                            "guan1266-5", "guan1266-6", "guan1266-7", "orin1239-3",
+                            "tase1235-1", "tase1235-2", "whit1267-5", "whit1267-4",
+                            "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
+                            "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4",
+                            "alab1254-2", "yulu1243-1", "yulu1243-2", "caqu1242-2",
+                            "inap1243-1", "bayo1255-3", "chuw1238-2", "dalo1238-1",
+                            "koma1266-3", "nafa1258-1", "tswa1255-2", "tuni1251-1",
+                            "sout2711-1", "zigu1244-1", "kata1264-1", "kata1264-2",
+                            "lave1248-2", "adon1237-1", "aust1304-2", "boto1242-4",
+                            "inon1237-1", "kuan1248-1", "watu1247-1", "ngaj1237-1",
+                            "sout2866-2", "paaf1237-2", "ping1243-2", "farw1235-1",
+                            "ravu1237-2", "chha1249-1", "gade1236-2", "paha1251-1",
+                            "rohi1238-1", "waig1243-1", "tsak1250-2", "nang1259-2",
+                            "bert1249-1", "cogu1240-3", "gamo1244-3", "gamo1244-2",
+                            "hrus1242-3", "hupd1244-3", "kair1267-2", "kend1253-1",
+                            "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
+                            "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
+                            "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
+                            "mans1258-3", "mono1275-1"]
+
         for language in self.languages:
+
+            if language['ID'].strip() in ignored_lang_ids:
+                continue
+
             if language["Base"]:
                 if language["Base"] in BASE_MAP:
                     language["Base"] = BASE_MAP[language["Base"]]
                 else:
                     args.log.warn("Base '{0}' is known for {1}".format(
                         language["Base"], language['ID']))
+
             args.writer.add_language(**language)
             valid_languages.add(language['ID'])
+
             if language['Glottocode']:
                 if language['ID'].split("-")[0] != language['Glottocode']:
                     changed_glottolog_codes.append(
@@ -193,30 +223,6 @@ class Dataset(BaseDataset):
         seen_unknown_languages = set()
         form_length = set()
         other_form = set()
-
-        # only for avoiding outputting a warning
-        ignored_lang_ids = ["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
-                            "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
-                            "twen1241-2", "brek1238-2", "nang1262-3", "nang1262-4",
-                            "guan1266-5", "guan1266-6", "guan1266-7", "orin1239-3",
-                            "tase1235-1", "tase1235-2", "whit1267-5", "whit1267-4",
-                            "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
-                            "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4",
-                            "alab1254-2", "yulu1243-1", "yulu1243-2", "caqu1242-2",
-                            "inap1243-1", "bayo1255-3", "chuw1238-2", "dalo1238-1",
-                            "koma1266-3", "nafa1258-1", "tswa1255-2", "tuni1251-1",
-                            "sout2711-1", "zigu1244-1", "kata1264-1", "kata1264-2",
-                            "lave1248-2", "adon1237-1", "aust1304-2", "boto1242-4",
-                            "inon1237-1", "kuan1248-1", "watu1247-1", "ngaj1237-1",
-                            "sout2866-2", "paaf1237-2", "ping1243-2", "farw1235-1",
-                            "ravu1237-2", "chha1249-1", "gade1236-2", "paha1251-1",
-                            "rohi1238-1", "waig1243-1", "tsak1250-2", "nang1259-2",
-                            "bert1249-1", "cogu1240-3", "gamo1244-3", "gamo1244-2",
-                            "hrus1242-3", "hupd1244-3", "kair1267-2", "kend1253-1",
-                            "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
-                            "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
-                            "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
-                            "mans1258-3", "mono1275-1"]
 
         # form IDs and forms which are correct after error checking
         whitelist = {
