@@ -2,7 +2,8 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 magd1235-3-1-1,,magd1235-3,1,ʔī̃̄ĩ̄,ʔī̃̄ĩ̄,[],,['chan2019'],,False,False,,3
 magd1235-3-2-1,,magd1235-3,2,ʔūù,ʔūù,[],,['chan2019'],,False,False,,3
 magd1235-3-3-1,,magd1235-3,3,ʔũ̄nĩ̀,ʔũ̄nĩ̀,[],,['chan2019'],,False,False,,3
-magd1235-3-4-1,,magd1235-3,4,̀ ́,̀ ́,[],,['chan2019'],,False,False,kũ̄ũ̀,3
+magd1235-3-4-1,,magd1235-3,4,kũ̄ũ̀,kũ̄ũ̀,[],,['chan2019'],,False,False,,3
+magd1235-3-4-2,,magd1235-3,4,kũ̀ṹ,kũ̀ṹ,[],,['chan2019'],,False,False,,3
 magd1235-3-5-1,,magd1235-3,5,ʔũ̄ʔũ̀,ʔũ̄ʔũ̀,[],,['chan2019'],,False,False,,3
 magd1235-3-6-1,,magd1235-3,6,ʔĩ̄ɲù,ʔĩ̄ɲù,[],,['chan2019'],,False,False,,3
 magd1235-3-7-1,,magd1235-3,7,ʔūxɑ̀,ʔūxɑ̀,[],,['chan2019'],,False,False,,3
@@ -24,6 +25,7 @@ magd1235-3-21-1,,magd1235-3,21,ʔōkò ʔī̃̄ĩ̄,ʔōkò ʔī̃̄ĩ̄
 magd1235-3-22-1,,magd1235-3,22,ʔōkò ʔūù,ʔōkò ʔūù,[],,['chan2019'],,False,False,,3
 magd1235-3-23-1,,magd1235-3,23,ʔōkò ʔũ̄nĩ̀,ʔōkò ʔũ̄nĩ̀,[],,['chan2019'],,False,False,,3
 magd1235-3-24-1,,magd1235-3,24,ʔōkò kũ̀ṹ,ʔōkò kũ̀ṹ,[],,['chan2019'],,False,False,,3
+magd1235-3-24-2,,magd1235-3,24,ʔōkò kũ̀ũ̄,ʔōkò kũ̀ũ̄,[],,['chan2019'],,False,False,,3
 magd1235-3-25-1,,magd1235-3,25,ʔōkò ʔũ̄ʔũ̀,ʔōkò ʔũ̄ʔũ̀,[],,['chan2019'],,False,False,,3
 magd1235-3-26-1,,magd1235-3,26,ʔōkò ʔĩ̄ɲù,ʔōkò ʔĩ̄ɲù,[],,['chan2019'],,False,False,,3
 magd1235-3-27-1,,magd1235-3,27,ʔōkò ʔūxɑ̀,ʔōkò ʔūxɑ̀,[],,['chan2019'],,False,False,,3
@@ -40,7 +42,7 @@ magd1235-3-100-1,,magd1235-3,100,sʲēntú,sʲēntú,[],( < Spanish ),['chan
 magd1235-3-100-2,,magd1235-3,100,ʔũ̄ʔũ̀ ʂīkō,ʔũ̄ʔũ̀ ʂīkō,[],,['chan2019'],,False,False,,3
 magd1235-3-200-1,,magd1235-3,200,ʔūù sʲēntú,ʔūù sʲēntú,[],,['chan2019'],,False,False,,3
 magd1235-3-200-2,,magd1235-3,200,ʔūʃì ʂīkō,ʔūʃì ʂīkō,[],,['chan2019'],,False,False,,3
-magd1235-3-1000-1,,magd1235-3,1000,mîl,mîl,[],,['chan2019'],,False,False,,3
+magd1235-3-1000-1,,magd1235-3,1000,mîl,mîl,[],,['chan2019'],,True,False,,3
 magd1235-3-1000-2,,magd1235-3,1000,ʔūù tūù ʔūʃì ʂīkō,ʔūù tūù ʔūʃì ʂīkō,[],,['chan2019'],,False,False,,3
 magd1235-3-2000-1,,magd1235-3,2000,ʔūù mîl ́,ʔūù mîl ́,[],,['chan2019'],,False,False,,3
 magd1235-3-2000-2,,magd1235-3,2000,ʔũ̄ʔũ̀ tūù,ʔũ̄ʔũ̀ tūù,[],,['chan2019'],,False,False,,3
