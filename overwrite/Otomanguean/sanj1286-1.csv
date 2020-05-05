@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sanj1286-1-1-1,,sanj1286-1,1,nɡo,nɡo,[],,['chan2019'],,False,False,,1
+sanj1286-1-2-1,,sanj1286-1,2,jó,jó,[],,['chan2019'],,False,False,,1
+sanj1286-1-3-1,,sanj1286-1,3,ján,ján,[],,['chan2019'],,False,False,,1
+sanj1286-1-4-1,,sanj1286-1,4,nijún,nijún,[],,['chan2019'],,False,False,,1
+sanj1286-1-5-1,,sanj1286-1,5,ún,ún,[],,['chan2019'],,False,False,,1
+sanj1286-1-6-1,,sanj1286-1,6,jún,jún,[],,['chan2019'],,False,False,,1
+sanj1286-1-7-1,,sanj1286-1,7,yito,yito,[],,['chan2019'],,False,False,,1
+sanj1286-1-8-1,,sanj1286-1,8,jin,jin,[],,['chan2019'],,False,False,,1
+sanj1286-1-9-1,,sanj1286-1,9,nijan,nijan,[],,['chan2019'],,False,False,,1
+sanj1286-1-10-1,,sanj1286-1,10,tie,tie,[],,['chan2019'],,False,False,,1
+sanj1286-1-11-1,,sanj1286-1,11,tie nɡo,tie nɡo,[],,['chan2019'],,False,False,,1
+sanj1286-1-12-1,,sanj1286-1,12,tie jó,tie jó,[],,['chan2019'],,False,False,,1
+sanj1286-1-13-1,,sanj1286-1,13,tie ján,tie ján,[],,['chan2019'],,False,False,,1
+sanj1286-1-14-1,,sanj1286-1,14,tie nijún,tie nijún,[],,['chan2019'],,False,False,,1
+sanj1286-1-15-1,,sanj1286-1,15,tji'ún,tji'ún,[],,['chan2019'],,False,False,,1
+sanj1286-1-16-1,,sanj1286-1,16,tji'ún nɡo,tji'ún nɡo,[],( 15 + 1 ),['chan2019'],,False,False,,1
+sanj1286-1-17-1,,sanj1286-1,17,tji'ún jó,tji'ún jó,[],( 15 + 2 ),['chan2019'],,False,False,,1
+sanj1286-1-18-1,,sanj1286-1,18,tji'ún ján,tji'ún ján,[],( 15 + 3 ),['chan2019'],,False,False,,1
+sanj1286-1-19-1,,sanj1286-1,19,tji'ún nijún,tji'ún nijún,[],( 15 + 4 ),['chan2019'],,False,False,,1
+sanj1286-1-20-1,,sanj1286-1,20,kan,kan,[],,['chan2019'],,False,False,,1
+sanj1286-1-21-1,,sanj1286-1,21,kan nɡo,kan nɡo,[],,['chan2019'],,False,False,,1
+sanj1286-1-22-1,,sanj1286-1,22,kan jó,kan jó,[],,['chan2019'],,False,False,,1
+sanj1286-1-23-1,,sanj1286-1,23,kan ján,kan ján,[],,['chan2019'],,False,False,,1
+sanj1286-1-24-1,,sanj1286-1,24,kan nijún,kan nijún,[],,['chan2019'],,False,False,,1
+sanj1286-1-25-1,,sanj1286-1,25,kan ún,kan ún,[],,['chan2019'],,False,False,,1
+sanj1286-1-26-1,,sanj1286-1,26,kan jún,kan jún,[],,['chan2019'],,False,False,,1
+sanj1286-1-27-1,,sanj1286-1,27,kan yito,kan yito,[],,['chan2019'],,False,False,,1
+sanj1286-1-28-1,,sanj1286-1,28,kan jin,kan jin,[],,['chan2019'],,False,False,,1
+sanj1286-1-29-1,,sanj1286-1,29,kan nijan,kan nijan,[],,['chan2019'],,False,False,,1
+sanj1286-1-30-1,,sanj1286-1,30,kan tie,kan tie,[],( 20 + 10),['chan2019'],,False,False,,1
+sanj1286-1-40-1,,sanj1286-1,40,yichán,yichán,[],,['chan2019'],,False,False,,1
+sanj1286-1-50-1,,sanj1286-1,50,ichítié,ichítié,[],,['chan2019'],,False,False,,1
+sanj1286-1-60-1,,sanj1286-1,60,ichítié ko̱jo tie,ichítié ko̱jo tie,[],( 50+ 10 ),['chan2019'],,False,False,,1
+sanj1286-1-70-1,,sanj1286-1,70,ichítié ko̱jo kan,ichítié ko̱jo kan,[],( 50+ 20 ),['chan2019'],,False,False,,1
+sanj1286-1-80-1,,sanj1286-1,80,ichítié ko̱jo kantié,ichítié ko̱jo kantié,[],( 50+ 20+ 10 ),['chan2019'],,False,False,,1
+sanj1286-1-90-1,,sanj1286-1,90,ichítié ko̱jo yichán,ichítié ko̱jo yichán,[],( 50+ 40 ),['chan2019'],,False,False,,1
+sanj1286-1-100-1,,sanj1286-1,100,úchán,úchán,[],,['chan2019'],,False,False,,1
+sanj1286-1-200-1,,sanj1286-1,200,jó úchán,jó úchán,[],,['chan2019'],,False,False,,1
+sanj1286-1-1000-1,,sanj1286-1,1000,nɡo mi̠,nɡo mi̠,[],( mi < Spanish),['chan2019'],,True,False,,1
+sanj1286-1-2000-1,,sanj1286-1,2000,jó mi̠,jó mi̠,[],,['chan2019'],,False,False,,1
