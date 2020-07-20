@@ -1,7 +1,7 @@
 {
-    "title": "numerals",
-    "url": "",
+    "title": "CLDF dataset derived from Chan's \"Numeral Systems of the World's Languages.\" from 2019",
+    "url": "https://mpi-lingweb.shh.mpg.de/numeral",
     "license": "",
-    "conceptlist": "",
-    "citation": ""
+    "conceptlist": "Chan-2019-128",
+    "citation": "Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages. https://mpi-lingweb.shh.mpg.de/numeral - accessed: 30 Sep 2019"
 }

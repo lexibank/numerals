@@ -20,7 +20,9 @@ setup(
         ]
     },
     install_requires=[
+        'cldfcatalog',
         'pylexibank>=2.1',
+        'pynumerals',
     ],
     extras_require={
         'test': [

@@ -6,6 +6,7 @@ import unicodedata
 import hashlib
 
 from pyglottolog import Glottolog
+from cldfcatalog import Config
 
 from clldutils.path import Path, walk
 from pycldf import Wordlist
@@ -14,10 +15,10 @@ from pylexibank.models import Lexeme, Language
 from pylexibank.util import progressbar
 from pylexibank.forms import FormSpec
 
-from errorcheck import errorchecks
-from base_mapper import BASE_MAP
+from pynumerals.errorcheck import errorchecks
+from pynumerals.mappings import BASE_MAP
 
-from numerals_util import (
+from pynumerals.numerals_utils import (
     split_form_table,
     make_language_name,
     check_for_problems,
@@ -29,7 +30,7 @@ from numerals_util import (
 CHANURL = "https://mpi-lingweb.shh.mpg.de/numeral/"
 
 # FIXME: Point to Zenodo or GitHub API?
-URL = "https://github.com/lexibank/channumerals/raw/v1.0/cldf"
+URL = "https://raw.githubusercontent.com/numeralbank/channumerals/master/cldf"
 
 
 @attr.s
@@ -81,7 +82,10 @@ class Dataset(BaseDataset):
     ]
 
     def cmd_download(self, args):
-        glottolog = Glottolog('../glottolog')
+        try:
+            glottolog = Glottolog('../glottolog')
+        except ValueError:
+            glottolog = Glottolog(Config.from_file().get_clone('glottolog'))
         index = Path(self.raw_dir / "index.md")
 
         # Create index always from scratch:
@@ -142,8 +146,9 @@ class Dataset(BaseDataset):
 
         shutil.move(self.raw_dir / "parameters.csv",
                     self.etc_dir / "concepts.csv")
-        shutil.move(self.raw_dir / "languages.csv",
-                    self.etc_dir / "languages.csv")
+        if not Path(self.etc_dir / "languages.csv").exists():
+            shutil.move(self.raw_dir / "languages.csv",
+                        self.etc_dir / "languages.csv")
 
     def cmd_makecldf(self, args):
 
@@ -179,7 +184,7 @@ class Dataset(BaseDataset):
                             "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
                             "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
                             "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
-                            "mans1258-3", "mono1275-1"]
+                            "mans1258-3", "mono1275-1", "pume1238-2"]
 
         for language in self.languages:
 

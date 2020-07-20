@@ -1,7 +1,7 @@
 from pycldf import Wordlist
 
 from lexibank_numerals import CHANURL
-from numerals_util import split_form_table
+from pynumerals.numerals_utils import split_form_table
 
 channumerals = split_form_table(Wordlist.from_metadata("tests/cldf-metadata.json"))
 
@@ -32,7 +32,7 @@ class TestUtil:
 
     @staticmethod
     def test_index_link():
-        from numerals_util import make_index_link
+        from pynumerals.numerals_utils import make_index_link
 
         assert "* []()" == make_index_link("")
         assert "* [Path/to/file](Path/to/file)" == make_index_link("Path/to/file")
@@ -40,21 +40,21 @@ class TestUtil:
 
     @staticmethod
     def test_chan_link():
-        from numerals_util import make_chan_link
+        from pynumerals.numerals_utils import make_chan_link
 
         assert f" ([Source]({CHANURL}))" == make_chan_link("", CHANURL)
         assert f" ([Source]({CHANURL}Bateri.htm))" == make_chan_link("Bateri.htm", CHANURL)
 
     @staticmethod
     def test_check_problems():
-        from numerals_util import check_for_problems
+        from pynumerals.numerals_utils import check_for_problems
 
         assert "" == check_for_problems(channumerals[0])
         assert " **(Problems)**" == check_for_problems(channumerals[3])
 
     @staticmethod
     def test_language_name():
-        from numerals_util import make_language_name
+        from pynumerals.numerals_utils import make_language_name
 
         assert "" == make_language_name()
         assert " (Sindarin)" == make_language_name("Sindarin")

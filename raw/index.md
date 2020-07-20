@@ -4142,8 +4142,8 @@
 * [Other/shek1244-1.csv](Other/shek1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Shekkacho.htm)) (Shekkacho (Mocha), Ethiopia)
 * [Other/shek1245-1.csv](Other/shek1245-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sheko.htm)) (Sheko, Ethiopia)
 * [Other/shek1245-2.csv](Other/shek1245-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sheko.htm)) (Sheko, Ethiopia)
-* [Other/shem1239-1.csv](Other/shem1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Senufo-Shempire.htm)) (Shempire Senoufo, Mali)
-* [Other/shem1239-2.csv](Other/shem1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Senufo-Shempire.htm)) (Shempire Senoufo, Côte d'Ivoire)
+* [Atlantic-Congo/shem1239-1.csv](Atlantic-Congo/shem1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Senufo-Shempire.htm)) (Shempire Senoufo, Mali)
+* [Atlantic-Congo/shem1239-2.csv](Atlantic-Congo/shem1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Senufo-Shempire.htm)) (Shempire Senoufo, Côte d'Ivoire)
 * [Sino-Tibetan/sher1255-1.csv](Sino-Tibetan/sher1255-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sherpa.htm)) (Sherpa, Nepal, China)
 * [Sino-Tibetan/sher1257-1.csv](Sino-Tibetan/sher1257-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sherdukpen.htm)) (Sherdukpen, India) **(Problems)**
 * [Sino-Tibetan/sher1257-2.csv](Sino-Tibetan/sher1257-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Sherdukpen.htm)) (Sherdukpen, India) **(Problems)**
