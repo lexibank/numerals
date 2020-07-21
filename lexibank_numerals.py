@@ -81,7 +81,7 @@ class Dataset(BaseDataset):
     ]
 
     def cmd_download(self, args):
-        glottolog_path = "/Users/bibiko/Library/Application Support/cldf/glottolog"
+        glottolog_path = "../glottolog"
         glottolog = Glottolog(glottolog_path)
         index = Path(self.raw_dir / "index.md")
 
