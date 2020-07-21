@@ -43,7 +43,7 @@ pyparsing==2.2.0
 pytest==5.4.3
 pytz==2018.5
 regex==2018.11.7
-requests==2.12.3
+requests==2.24.0
 rfc3986==1.1.0
 scipy==1.4.1
 segments==2.1.2
@@ -53,6 +53,7 @@ tabulate==0.7.7
 termcolor==1.1.0
 tqdm==4.29.0
 uritemplate==3.0.0
+urllib3==1.25.8
 virtualenvwrapper==4.8.2
 wcwidth==0.1.7
 webencodings==0.5.1
