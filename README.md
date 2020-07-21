@@ -1,4 +1,4 @@
-# Curated CLDF dataset derived from Chan's "Numeral Systems of the World's Languages." from 2019
+# CLDF dataset derived from curated Chan's "Numeral Systems of the World's Languages." from 2019
 
 Cite the source dataset as
 

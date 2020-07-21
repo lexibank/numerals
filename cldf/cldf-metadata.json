@@ -10,14 +10,14 @@
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Curated CLDF dataset derived from Chan's \"Numeral Systems of the World's Languages.\" from 2019",
+    "dc:title": "CLDF dataset derived from curated Chan's \"Numeral Systems of the World's Languages.\" from 2019",
     "dcat:accessURL": "https://github.com/numeralbank/numerals",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/numeralbank/numerals",
-            "dc:created": "7fd54750"
+            "dc:created": "0f7cb71d"
         },
         {
             "rdf:type": "prov:Entity",
