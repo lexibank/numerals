@@ -1,14 +1,14 @@
-# CLDF dataset derived from Chan's "Numeral Systems of the World's Languages." from 2019
+# Curated CLDF dataset derived from Chan's "Numeral Systems of the World's Languages." from 2019
 
 Cite the source dataset as
 
-> Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages. https://mpi-lingweb.shh.mpg.de/numeral - accessed: 30 Sep 2019
+> Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30
 
 Available online at https://mpi-lingweb.shh.mpg.de/numeral
 
 
 Conceptlists in Concepticon:
-- [Chan-2019-128](https://concepticon.clld.org/contributions/Chan-2019-128)
+- [Chan-2019-133](https://concepticon.clld.org/contributions/Chan-2019-133)
 ## Statistics
 
 
@@ -18,8 +18,8 @@ Conceptlists in Concepticon:
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 5,248
-- **Concepts:** 100
-- **Lexemes:** 184,485
+- **Concepts:** 133
+- **Lexemes:** 184,526
 - **Sources:** 1
 - **Synonymy:** 1.09
 

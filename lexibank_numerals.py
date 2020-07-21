@@ -6,7 +6,6 @@ import unicodedata
 import hashlib
 
 from pyglottolog import Glottolog
-from cldfcatalog import Config
 
 from clldutils.path import Path, walk
 from pycldf import Wordlist
@@ -82,10 +81,8 @@ class Dataset(BaseDataset):
     ]
 
     def cmd_download(self, args):
-        try:
-            glottolog = Glottolog('../glottolog')
-        except ValueError:
-            glottolog = Glottolog(Config.from_file().get_clone('glottolog'))
+        glottolog_path = "/Users/bibiko/Library/Application Support/cldf/glottolog"
+        glottolog = Glottolog(glottolog_path)
         index = Path(self.raw_dir / "index.md")
 
         # Create index always from scratch:
@@ -144,8 +141,6 @@ class Dataset(BaseDataset):
                 outfile.write(index_link + chan_link +
                               language_name + problems + "\n")
 
-        shutil.move(self.raw_dir / "parameters.csv",
-                    self.etc_dir / "concepts.csv")
         if not Path(self.etc_dir / "languages.csv").exists():
             shutil.move(self.raw_dir / "languages.csv",
                         self.etc_dir / "languages.csv")
@@ -159,9 +154,10 @@ class Dataset(BaseDataset):
         changed_glottolog_codes = []
         no_glottolog_codes = []
 
-        for concept in self.concepts:
-            args.writer.add_concept(**concept)
-            valid_parameters.add(concept['ID'])
+        args.writer.add_concepts(id_factory=lambda d: d.english)
+
+        for concept in args.writer.objects['ParameterTable']:
+            valid_parameters.add(concept["Name"])
 
         ignored_lang_ids = ["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
                             "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
@@ -195,7 +191,7 @@ class Dataset(BaseDataset):
                 if language["Base"] in BASE_MAP:
                     language["Base"] = BASE_MAP[language["Base"]]
                 else:
-                    args.log.warn("Base '{0}' is known for {1}".format(
+                    args.log.warn("Base '{0}' is unknown for {1}".format(
                         language["Base"], language['ID']))
 
             args.writer.add_language(**language)
