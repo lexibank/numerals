@@ -141,9 +141,6 @@ class Dataset(BaseDataset):
                 outfile.write(index_link + chan_link +
                               language_name + problems + "\n")
 
-        if not Path(self.etc_dir / "languages.csv").exists():
-            shutil.move(self.raw_dir / "languages.csv",
-                        self.etc_dir / "languages.csv")
 
     def cmd_makecldf(self, args):
 

@@ -1,23 +1,23 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages. https://mpi-lingweb.shh.mpg.de/numeral - accessed: 30 Sep 2019",
+    "dc:bibliographicCitation": "Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages. https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Chan-2019-128"
+        "http://concepticon.clld.org/contributions/Chan-2019-133"
     ],
     "dc:identifier": "https://mpi-lingweb.shh.mpg.de/numeral",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Chan's Numerals",
+    "dc:title": "CLDF dataset derived from Chan's \"Numeral Systems of the World's Languages.\" from 2019",
     "dcat:accessURL": "https://github.com/numeralbank/channumerals",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/numeralbank/channumerals",
-            "dc:created": "v1.0-10-gf6ced24"
+            "dc:created": "v1.0-14-gd9a7ece"
         },
         {
             "rdf:type": "prov:Entity",
@@ -29,7 +29,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
