@@ -1,0 +1,16 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+cash1251-1-1-1,,cash1251-1,1,a't͡ʃuʃi,a't͡ʃuʃi,[],,['chan2019'],,False,False,,1
+cash1251-1-2-1,,cash1251-1,2,ra'βɨ,ra'βɨ,[],,['chan2019'],,False,False,,1
+cash1251-1-3-1,,cash1251-1,3,ra'βɨ a't͡ʃuʃi,ra'βɨ a't͡ʃuʃi,[],( 2 + 1 ),['chan2019'],,False,False,,1
+cash1251-1-3-2,,cash1251-1,3,tres,tres,[],( < Spanish ),['chan2019'],,True,False,,1
+cash1251-1-3-3,,cash1251-1,3,'kimiʃa,'kimiʃa,[],( < Quechua ),['chan2019'],,True,False,,1
+cash1251-1-4-1,,cash1251-1,4,ra'βɨ ra'βɨ,ra'βɨ ra'βɨ,[],( 2 + 2 ),['chan2019'],,False,False,,1
+cash1251-1-4-2,,cash1251-1,4,quatro,quatro,[],( < Spanish ),['chan2019'],,True,False,,1
+cash1251-1-5-1,,cash1251-1,5,'mapaj,'mapaj,[],,['chan2019'],,False,False,,1
+cash1251-1-5-2,,cash1251-1,5,or mɨ'kɨ̃n,or mɨ'kɨ̃n,[],(litː ''mɨ'kɨ̃n''= hand),['chan2019'],,False,True,,1
+cash1251-1-6-1,,cash1251-1,6,seis,seis,[],( < Spanish ),['chan2019'],,True,False,,1
+cash1251-1-7-1,,cash1251-1,7,siete,siete,[],( < Spanish ),['chan2019'],,True,False,,1
+cash1251-1-8-1,,cash1251-1,8,otʃo,otʃo,[],( < Spanish ),['chan2019'],,True,False,,1
+cash1251-1-9-1,,cash1251-1,9,nueve,nueve,[],( < Spanish ),['chan2019'],,True,False,,1
+cash1251-1-10-1,,cash1251-1,10,'mapa 'mapa or ra'βɨ mɨ'kɨ̃n,'mapa 'mapa or ra'βɨ mɨ'kɨ̃n,[],( litː 'two hands''),['chan2019'],,False,True,,1
+cash1251-1-11-1,,cash1251-1,11,11 upwards from Spanish,11 upwards from Spanish,[],,['chan2019'],,False,True,,1

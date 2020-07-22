@@ -1,0 +1,20 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+auuu1241-1-1-1,,auuu1241-1,1,kiutip,kiutip,[],(lit: 'it-one'),['chan2019'],,False,False,,1
+auuu1241-1-2-1,,auuu1241-1,2,wiketeres,wiketeres,[],(lit: 'two-those'),['chan2019'],,False,False,,1
+auuu1241-1-3-1,,auuu1241-1,3,wikak,wikak,[],(lit: 'three'),['chan2019'],,False,False,,1
+auuu1241-1-4-1,,auuu1241-1,4,tekyait,tekyait,[],( litː 'four'),['chan2019'],,False,False,,1
+auuu1241-1-5-1,,auuu1241-1,5,his pinak,his pinak,[],(litː 'hand-side-it' ),['chan2019'],,False,False,,1
+auuu1241-1-6-1,,auuu1241-1,6,his pinak kiutip,his pinak kiutip,[],"( litː 'hand-side-it, one')",['chan2019'],,False,False,,1
+auuu1241-1-7-1,,auuu1241-1,7,his pinak wiketeres,his pinak wiketeres,[],,['chan2019'],,False,False,,1
+auuu1241-1-8-1,,auuu1241-1,8,his pinak wikak,his pinak wikak,[],,['chan2019'],,False,False,,1
+auuu1241-1-9-1,,auuu1241-1,9,his pinak tekyait,his pinak tekyait,[],,['chan2019'],,False,False,,1
+auuu1241-1-11-1,,auuu1241-1,11,his wien kiutip,his wien kiutip,[],,['chan2019'],,False,False,,1
+auuu1241-1-12-1,,auuu1241-1,12,his wien wiketeres,his wien wiketeres,[],,['chan2019'],,False,False,,1
+auuu1241-1-13-1,,auuu1241-1,13,his wien wikak,his wien wikak,[],,['chan2019'],,False,False,,1
+auuu1241-1-14-1,,auuu1241-1,14,his wien tekyait,his wien tekyait,[],,['chan2019'],,False,False,,1
+auuu1241-1-15-1,,auuu1241-1,15,his wien his pinak,his wien his pinak,[],"[litː 'his hand(s) both, hand-side-it']",['chan2019'],,False,False,,1
+auuu1241-1-16-1,,auuu1241-1,16,his wien his pinak kiutip,his wien his pinak kiutip,[],,['chan2019'],,False,False,,1
+auuu1241-1-17-1,,auuu1241-1,17,his wien his pinak wiketeres,his wien his pinak wiketeres,[],,['chan2019'],,False,False,,1
+auuu1241-1-18-1,,auuu1241-1,18,his wien his pinak wikak,his wien his pinak wikak,[],,['chan2019'],,False,False,,1
+auuu1241-1-19-1,,auuu1241-1,19,his wien his pinak tekyait,his wien his pinak tekyait,[],,['chan2019'],,False,False,,1
+auuu1241-1-20-1,,auuu1241-1,20,his wien his wien,his wien his wien,[],[litː 'hand(s) both hand(s) both'],['chan2019'],,False,False,,1

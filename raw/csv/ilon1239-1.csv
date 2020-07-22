@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ilon1239-1-1-1,,ilon1239-1,1,sit,sit,[],,['chan2019'],,False,False,,1
+ilon1239-1-2-1,,ilon1239-1,2,dewa,dewa,[],,['chan2019'],,False,False,,1
+ilon1239-1-3-1,,ilon1239-1,3,teɣo,teɣo,[],,['chan2019'],,False,False,,1
+ilon1239-1-4-1,,ilon1239-1,4,opat,opat,[],,['chan2019'],,False,False,,1
+ilon1239-1-5-1,,ilon1239-1,5,tambiaŋ,tambiaŋ,[],,['chan2019'],,False,False,,1
+ilon1239-1-6-1,,ilon1239-1,6,tambiaŋ no sit,tambiaŋ no sit,[],( 5 + 1 ),['chan2019'],,False,False,,1
+ilon1239-1-7-1,,ilon1239-1,7,tambiaŋ no dewa,tambiaŋ no dewa,[],( 5 + 2 ),['chan2019'],,False,False,,1
+ilon1239-1-8-1,,ilon1239-1,8,tambiaŋ no teɣo,tambiaŋ no teɣo,[],( 5 + 3 ),['chan2019'],,False,False,,1
+ilon1239-1-9-1,,ilon1239-1,9,tambiaŋ no opat,tambiaŋ no opat,[],( 5 + 4 ),['chan2019'],,False,False,,1
+ilon1239-1-10-1,,ilon1239-1,10,tampo,tampo,[],,['chan2019'],,False,False,,1
+ilon1239-1-11-1,,ilon1239-1,11,tampo no sit,tampo no sit,[],,['chan2019'],,False,False,,1
+ilon1239-1-12-1,,ilon1239-1,12,tampo no dewa,tampo no dewa,[],,['chan2019'],,False,False,,1
+ilon1239-1-13-1,,ilon1239-1,13,tampo no teɣo,tampo no teɣo,[],,['chan2019'],,False,False,,1
+ilon1239-1-14-1,,ilon1239-1,14,tampo no opat,tampo no opat,[],,['chan2019'],,False,False,,1
+ilon1239-1-15-1,,ilon1239-1,15,tampo no tambiaŋ,tampo no tambiaŋ,[],,['chan2019'],,False,False,,1
+ilon1239-1-16-1,,ilon1239-1,16,tampo no tambiaŋ no sit,tampo no tambiaŋ no sit,[],,['chan2019'],,False,False,,1
+ilon1239-1-17-1,,ilon1239-1,17,tampo no tambiaŋ no dewa,tampo no tambiaŋ no dewa,[],,['chan2019'],,False,False,,1
+ilon1239-1-18-1,,ilon1239-1,18,tampo no tambiaŋ no teɣo,tampo no tambiaŋ no teɣo,[],,['chan2019'],,False,False,,1
+ilon1239-1-19-1,,ilon1239-1,19,tampo no tambiaŋ no opat,tampo no tambiaŋ no opat,[],,['chan2019'],,False,False,,1
+ilon1239-1-20-1,,ilon1239-1,20,dowampo,dowampo,[],,['chan2019'],,False,False,,1
+ilon1239-1-21-1,,ilon1239-1,21,dowampo no sit,dowampo no sit,[],,['chan2019'],,False,False,,1
+ilon1239-1-22-1,,ilon1239-1,22,dowampo no dewa,dowampo no dewa,[],,['chan2019'],,False,False,,1
+ilon1239-1-23-1,,ilon1239-1,23,dowampo no təɣo,dowampo no təɣo,[],,['chan2019'],,False,False,,1
+ilon1239-1-24-1,,ilon1239-1,24,dowampo no opat,dowampo no opat,[],,['chan2019'],,False,False,,1
+ilon1239-1-25-1,,ilon1239-1,25,dowampo no tambiaŋ,dowampo no tambiaŋ,[],,['chan2019'],,False,False,,1
+ilon1239-1-26-1,,ilon1239-1,26,dowampo no tambiaŋ no sit,dowampo no tambiaŋ no sit,[],,['chan2019'],,False,False,,1
+ilon1239-1-27-1,,ilon1239-1,27,dowampo no tambiaŋ no dewa,dowampo no tambiaŋ no dewa,[],,['chan2019'],,False,False,,1
+ilon1239-1-28-1,,ilon1239-1,28,dowampo no tambiaŋ no teɣo,dowampo no tambiaŋ no teɣo,[],,['chan2019'],,False,False,,1
+ilon1239-1-29-1,,ilon1239-1,29,dowampo no tambiaŋ no opat,dowampo no tambiaŋ no opat,[],,['chan2019'],,False,False,,1
+ilon1239-1-30-1,,ilon1239-1,30,təɣompo,təɣompo,[],,['chan2019'],,False,False,,1
+ilon1239-1-40-1,,ilon1239-1,40,apatapu,apatapu,[],,['chan2019'],,False,False,,1
+ilon1239-1-50-1,,ilon1239-1,50,tambiaŋapo,tambiaŋapo,[],,['chan2019'],,False,False,,1
+ilon1239-1-60-1,,ilon1239-1,60,tambiaŋ no sitapo,tambiaŋ no sitapo,[],( 50 + 10 ),['chan2019'],,False,False,,1
+ilon1239-1-70-1,,ilon1239-1,70,tambiaŋ no dewampo,tambiaŋ no dewampo,[],( 50 + 20 ),['chan2019'],,False,False,,1
+ilon1239-1-80-1,,ilon1239-1,80,tambiaŋ no təɣompo,tambiaŋ no təɣompo,[],( 50 + 30 ),['chan2019'],,False,False,,1
+ilon1239-1-90-1,,ilon1239-1,90,tambiaŋ no apatapo,tambiaŋ no apatapo,[],( 50 + 40 ),['chan2019'],,False,False,,1
+ilon1239-1-100-1,,ilon1239-1,100,tanbokɣay,tanbokɣay,[],,['chan2019'],,False,False,,1
+ilon1239-1-100-2,,ilon1239-1,100,tanmolo,tanmolo,[],,['chan2019'],,False,False,,1
+ilon1239-1-200-1,,ilon1239-1,200,dewan bokzay,dewan bokzay,[],,['chan2019'],,False,False,,1
+ilon1239-1-1000-1,,ilon1239-1,1000,tan ɣibo,tan ɣibo,[],,['chan2019'],,False,False,,1
+ilon1239-1-2000-1,,ilon1239-1,2000,dewan ɣibo,dewan ɣibo,[],,['chan2019'],,False,False,,1

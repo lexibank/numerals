@@ -1,0 +1,54 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hrus1242-2-1-1,,hrus1242-2,1,a,a,[],,['chan2019'],,False,False,a,2
+hrus1242-2-2-1,,hrus1242-2,2,ksɨ,ksɨ,[],,['chan2019'],,False,False,ksü,2
+hrus1242-2-3-1,,hrus1242-2,3,dzɨ,dzɨ,[],,['chan2019'],,False,False,dzü,2
+hrus1242-2-4-1,,hrus1242-2,4,piĝi,piĝi,[],,['chan2019'],,False,False,,2
+hrus1242-2-4-2,,hrus1242-2,4,pçiʝi,pçiʝi,[],,['chan2019'],,False,False,pi1,2
+hrus1242-2-4-3,,hrus1242-2,4,pçiː],pçiː],[],,['chan2019'],,False,True,,2
+hrus1242-2-4-4,,hrus1242-2,4,piɣi,piɣi,[],,['chan2019'],,False,False,,2
+hrus1242-2-4-5,,hrus1242-2,4,or,or,[],,['chan2019'],,False,True,,2
+hrus1242-2-4-6,,hrus1242-2,4,pi,pi,[],,['chan2019'],,False,False,,2
+hrus1242-2-5-1,,hrus1242-2,5,pom,pom,[],,['chan2019'],,False,False,pom,2
+hrus1242-2-6-1,,hrus1242-2,6,ʝe,ʝe,[],,['chan2019'],,False,False,ĝe,2
+hrus1242-2-6-2,,hrus1242-2,6,ɣe,ɣe,[],,['chan2019'],,False,False,,2
+hrus1242-2-7-1,,hrus1242-2,7,mɹo,mɹo,[],,['chan2019'],,False,False,mro,2
+hrus1242-2-7-2,,hrus1242-2,7,mʐo,mʐo,[],,['chan2019'],,False,False,,2
+hrus1242-2-8-1,,hrus1242-2,8,sɨɡzɨ,sɨɡzɨ,[],,['chan2019'],,False,False,ŝügzü,2
+hrus1242-2-9-1,,hrus1242-2,9,sɨ̥t̪ʰɨ́,sɨ̥t̪ʰɨ́,[],,['chan2019'],,False,False,sütü,2
+hrus1242-2-9-2,,hrus1242-2,9,sɨtɨ́,sɨtɨ́,[],,['chan2019'],,False,False,,2
+hrus1242-2-9-3,,hrus1242-2,9,2,2,[],,['chan2019'],,False,True,,2
+hrus1242-2-10-1,,hrus1242-2,10,ɣɨ,ɣɨ,[],,['chan2019'],,False,False,ĝü,2
+hrus1242-2-11-1,,hrus1242-2,11,ɣɨ́jo a,ɣɨ́jo a,[],,['chan2019'],,False,False,ĝüyo a,2
+hrus1242-2-12-1,,hrus1242-2,12,ɣɨ́jo kʃɨ,ɣɨ́jo kʃɨ,[],,['chan2019'],,False,False,ĝüyo ksü,2
+hrus1242-2-13-1,,hrus1242-2,13,ɣɨ́jo dzɨ,ɣɨ́jo dzɨ,[],,['chan2019'],,False,False,ĝüyo dzü,2
+hrus1242-2-14-1,,hrus1242-2,14,ɣɨʈʂɨ́ pʝiʝi,ɣɨʈʂɨ́ pʝiʝi,[],,['chan2019'],,False,False,ĝütrü piĝi,2
+hrus1242-2-15-1,,hrus1242-2,15,ɣɨʈʂɨ́ pom,ɣɨʈʂɨ́ pom,[],,['chan2019'],,False,False,ĝütrü pom,2
+hrus1242-2-16-1,,hrus1242-2,16,ɣɨʈʂɨ ʝe,ɣɨʈʂɨ ʝe,[],,['chan2019'],,False,False,ĝütrü ĝe,2
+hrus1242-2-16-2,,hrus1242-2,16,ɣɨʈʂɨ ɣe,ɣɨʈʂɨ ɣe,[],,['chan2019'],,False,False,,2
+hrus1242-2-17-1,,hrus1242-2,17,ɣɨʈʂɨ mɹo,ɣɨʈʂɨ mɹo,[],,['chan2019'],,False,False,ĝütrü mro,2
+hrus1242-2-18-1,,hrus1242-2,18,ɣɨʈʂɨ́ ʃɨɡzɨ,ɣɨʈʂɨ́ ʃɨɡzɨ,[],,['chan2019'],,False,False,ĝütrǘ ŝügzü,2
+hrus1242-2-19-1,,hrus1242-2,19,ɣɨʈʂɨ́ sɨ̥t̪ʰɨ,ɣɨʈʂɨ́ sɨ̥t̪ʰɨ,[],,['chan2019'],,False,False,ĝütrü sütü,2
+hrus1242-2-20-1,,hrus1242-2,20,bɨʂa,bɨʂa,[],"[biːs], < Assamese: ",['chan2019'],,True,False,büsha,2
+hrus1242-2-21-1,,hrus1242-2,21,bɨʂa jo a,bɨʂa jo a,[],,['chan2019'],,False,False,büsha yo a,2
+hrus1242-2-22-1,,hrus1242-2,22,bɨʂa jo ksɨ,bɨʂa jo ksɨ,[],,['chan2019'],,False,False,büsha yo ksü,2
+hrus1242-2-23-1,,hrus1242-2,23,bɨʂa jo dzɨ,bɨʂa jo dzɨ,[],,['chan2019'],,False,False,büsha yo dzü,2
+hrus1242-2-24-1,,hrus1242-2,24,bɨʂa jo pʝiʝi,bɨʂa jo pʝiʝi,[],,['chan2019'],,False,False,büsha yo piĝi,2
+hrus1242-2-25-1,,hrus1242-2,25,bɨʂa jo pom,bɨʂa jo pom,[],,['chan2019'],,False,False,büsha yo om,2
+hrus1242-2-26-1,,hrus1242-2,26,bɨʂa jo ʝé,bɨʂa jo ʝé,[],,['chan2019'],,False,False,büsha yo ĝe,2
+hrus1242-2-27-1,,hrus1242-2,27,bɨʂa jo mɹó,bɨʂa jo mɹó,[],,['chan2019'],,False,False,büsha yo mro,2
+hrus1242-2-28-1,,hrus1242-2,28,bɨʂa jo sɨɡzɨ,bɨʂa jo sɨɡzɨ,[],,['chan2019'],,False,False,büsha yo ŝügzü,2
+hrus1242-2-29-1,,hrus1242-2,29,bɨʂa jo sɨ̥t̪ʰɨ,bɨʂa jo sɨ̥t̪ʰɨ,[],,['chan2019'],,False,False,büsha yo sütü,2
+hrus1242-2-30-1,,hrus1242-2,30,dzɨɣɨ́,dzɨɣɨ́,[],,['chan2019'],,False,False,dzüĝü,2
+hrus1242-2-40-1,,hrus1242-2,40,pçiɣɨ,pçiɣɨ,[],,['chan2019'],,False,False,piĝü,2
+hrus1242-2-40-2,,hrus1242-2,40,piɣɨ́,piɣɨ́,[],,['chan2019'],,False,False,,2
+hrus1242-2-50-1,,hrus1242-2,50,pomɣɨ́,pomɣɨ́,[],,['chan2019'],,False,False,pomĝü,2
+hrus1242-2-60-1,,hrus1242-2,60,ʝeɣɨ́,ʝeɣɨ́,[],,['chan2019'],,False,False,ĝeĝü,2
+hrus1242-2-60-2,,hrus1242-2,60,ɣeɣɨ́,ɣeɣɨ́,[],,['chan2019'],,False,False,,2
+hrus1242-2-70-1,,hrus1242-2,70,mɹoɣɨ́,mɹoɣɨ́,[],,['chan2019'],,False,False,mroĝü,2
+hrus1242-2-80-1,,hrus1242-2,80,sɨɡzɨɣɨ́,sɨɡzɨɣɨ́,[],,['chan2019'],,False,False,sügzüĝü,2
+hrus1242-2-90-1,,hrus1242-2,90,sɨ̥t̪ʰɨɣɨ́,sɨ̥t̪ʰɨɣɨ́,[],,['chan2019'],,False,False,sütüĝü,2
+hrus1242-2-100-1,,hrus1242-2,100,fuɣu a,fuɣu a,[],,['chan2019'],,False,False,fúĝu a,2
+hrus1242-2-100-2,,hrus1242-2,100,fuɣa,fuɣa,[],,['chan2019'],,False,False,or,2
+hrus1242-2-200-1,,hrus1242-2,200,fúɣu ksɨ,fúɣu ksɨ,[],,['chan2019'],,False,False,fuĝu ksü,2
+hrus1242-2-1000-1,,hrus1242-2,1000,haza:r ),haza:r ),[],,['chan2019'],,False,True,hadza a (loan word < Hindi:,2
+hrus1242-2-2000-1,,hrus1242-2,2000,hadza ksü,hadza ksü,[],,['chan2019'],,False,False,,2

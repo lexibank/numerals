@@ -1,0 +1,8 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+suki1245-2-1-1,,suki1245-2,1,nimap,nimap,[],,['chan2019'],,False,False,,2
+suki1245-2-2-1,,suki1245-2,2,menes,menes,[],,['chan2019'],,False,False,,2
+suki1245-2-3-1,,suki1245-2,3,menes nimap,menes nimap,[],,['chan2019'],,False,False,,2
+suki1245-2-4-1,,suki1245-2,4,menes menes,menes menes,[],,['chan2019'],,False,False,,2
+suki1245-2-4-2,,suki1245-2,4,pirebia,pirebia,[],(litː 'many'),['chan2019'],,False,False,,2
+suki1245-2-5-1,,suki1245-2,5,menes menes nimap,menes menes nimap,[],,['chan2019'],,False,False,,2
+suki1245-2-5-2,,suki1245-2,5,pira,pira,[],(litː 'many'),['chan2019'],,False,False,,2

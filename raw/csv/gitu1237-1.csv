@@ -1,0 +1,26 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+gitu1237-1-1-1,,gitu1237-1,1,eze,eze,[],,['chan2019'],,False,False,,1
+gitu1237-1-2-1,,gitu1237-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+gitu1237-1-3-1,,gitu1237-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+gitu1237-1-4-1,,gitu1237-1,4,paŋe,paŋe,[],,['chan2019'],,False,False,,1
+gitu1237-1-5-1,,gitu1237-1,5,nimanda sirip,nimanda sirip,[],"( lit: 'hand half ?"")",['chan2019'],,False,False,,1
+gitu1237-1-6-1,,gitu1237-1,6,nimanda sirip wolo eze,nimanda sirip wolo eze,[],( 5 + 1 ),['chan2019'],,False,False,,1
+gitu1237-1-7-1,,gitu1237-1,7,nimanda sirip wolo rua,nimanda sirip wolo rua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+gitu1237-1-8-1,,gitu1237-1,8,nimanda sirip wolo tolu,nimanda sirip wolo tolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+gitu1237-1-9-1,,gitu1237-1,9,nimanda sirip wolo paŋe,nimanda sirip wolo paŋe,[],( 5 + 4 ),['chan2019'],,False,False,,1
+gitu1237-1-10-1,,gitu1237-1,10,nimanda rua,nimanda rua,[],"( lit: ''hands two"")",['chan2019'],,False,False,,1
+gitu1237-1-11-1,,gitu1237-1,11,nimanda rua wolo eze,nimanda rua wolo eze,[],,['chan2019'],,False,False,,1
+gitu1237-1-12-1,,gitu1237-1,12,nimanda rua wolo rua,nimanda rua wolo rua,[],,['chan2019'],,False,False,,1
+gitu1237-1-13-1,,gitu1237-1,13,nimanda rua wolo tolu,nimanda rua wolo tolu,[],,['chan2019'],,False,False,,1
+gitu1237-1-14-1,,gitu1237-1,14,nimanda rua wolo paŋe,nimanda rua wolo paŋe,[],,['chan2019'],,False,False,,1
+gitu1237-1-15-1,,gitu1237-1,15,nimanda rua aɡenda sirip,nimanda rua aɡenda sirip,[],,['chan2019'],,False,False,,1
+gitu1237-1-16-1,,gitu1237-1,16,nimanda rua aɡenda sirip wolo eze,nimanda rua aɡenda sirip wolo eze,[],,['chan2019'],,False,False,,1
+gitu1237-1-17-1,,gitu1237-1,17,nimanda rua aɡenda sirip wolo rua,nimanda rua aɡenda sirip wolo rua,[],,['chan2019'],,False,False,,1
+gitu1237-1-18-1,,gitu1237-1,18,nimanda rua aɡenda sirip wolo tolu,nimanda rua aɡenda sirip wolo tolu,[],,['chan2019'],,False,False,,1
+gitu1237-1-19-1,,gitu1237-1,19,nimanda rua aɡenda sirip wolo paŋe,nimanda rua aɡenda sirip wolo paŋe,[],,['chan2019'],,False,False,,1
+gitu1237-1-20-1,,gitu1237-1,20,onɡere eze,onɡere eze,[],( lit: one man''),['chan2019'],,False,False,,1
+gitu1237-1-30-1,,gitu1237-1,30,nɡere eze nimanda rua,nɡere eze nimanda rua,[],,['chan2019'],,False,False,,1
+gitu1237-1-40-1,,gitu1237-1,40,nɡere rua,nɡere rua,[],"( litː ''two person"")",['chan2019'],,False,False,,1
+gitu1237-1-60-1,,gitu1237-1,60,nɡere tolu,nɡere tolu,[],"( litː ''three person"")",['chan2019'],,False,False,,1
+gitu1237-1-80-1,,gitu1237-1,80,nɡere paŋe,nɡere paŋe,[],"( litː ''four person"")",['chan2019'],,False,False,,1
+gitu1237-1-100-1,,gitu1237-1,100,ai eze,ai eze,[],,['chan2019'],,False,False,,1

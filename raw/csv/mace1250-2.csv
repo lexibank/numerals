@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mace1250-2-1-1,,mace1250-2,1,ˈeden,ˈeden,[],,['chan2019'],,False,False,eden,1
+mace1250-2-2-1,,mace1250-2,2,dva,dva,[],,['chan2019'],,False,False,dva,1
+mace1250-2-3-1,,mace1250-2,3,tri,tri,[],,['chan2019'],,False,False,tri,1
+mace1250-2-4-1,,mace1250-2,4,ˈt͡ʃetiri,ˈt͡ʃetiri,[],,['chan2019'],,False,False,četiri,1
+mace1250-2-5-1,,mace1250-2,5,pet,pet,[],,['chan2019'],,False,False,pet,1
+mace1250-2-6-1,,mace1250-2,6,ʃest,ʃest,[],,['chan2019'],,False,False,šest,1
+mace1250-2-7-1,,mace1250-2,7,ˈsedum,ˈsedum,[],,['chan2019'],,False,False,sedum,1
+mace1250-2-8-1,,mace1250-2,8,ˈosum,ˈosum,[],,['chan2019'],,False,False,osum,1
+mace1250-2-9-1,,mace1250-2,9,ˈdevet,ˈdevet,[],,['chan2019'],,False,False,devet,1
+mace1250-2-10-1,,mace1250-2,10,ˈdeset,ˈdeset,[],,['chan2019'],,False,False,deset,1
+mace1250-2-11-1,,mace1250-2,11,edinaeset,edinaeset,[],,['chan2019'],,False,False,edinaeset,1
+mace1250-2-12-1,,mace1250-2,12,dvaˈnaeset,dvaˈnaeset,[],,['chan2019'],,False,False,dvanaeset,1
+mace1250-2-13-1,,mace1250-2,13,triˈnaeset,triˈnaeset,[],,['chan2019'],,False,False,trinaeset,1
+mace1250-2-14-1,,mace1250-2,14,t͡ʃetiriˈnaeset,t͡ʃetiriˈnaeset,[],,['chan2019'],,False,False,četirinaeset,1
+mace1250-2-15-1,,mace1250-2,15,petˈnaeset,petˈnaeset,[],,['chan2019'],,False,False,petnaeset,1
+mace1250-2-16-1,,mace1250-2,16,ˈʃesˈnaeset,ˈʃesˈnaeset,[],,['chan2019'],,False,False,šestnaeset,1
+mace1250-2-17-1,,mace1250-2,17,sedumˈnaeset,sedumˈnaeset,[],,['chan2019'],,False,False,sedumnaeset,1
+mace1250-2-18-1,,mace1250-2,18,osumˈnaeset,osumˈnaeset,[],,['chan2019'],,False,False,osumnaeset,1
+mace1250-2-19-1,,mace1250-2,19,devetˈnaeset,devetˈnaeset,[],,['chan2019'],,False,False,devetnaeset,1
+mace1250-2-20-1,,mace1250-2,20,ˈdvaeset,ˈdvaeset,[],,['chan2019'],,False,False,dva(d)eset,1
+mace1250-2-21-1,,mace1250-2,21,ˈdvaeset i eden,ˈdvaeset i eden,[],,['chan2019'],,False,False,dvadeset i edino,1
+mace1250-2-22-1,,mace1250-2,22,ˈdvaesetidva,ˈdvaesetidva,[],,['chan2019'],,False,False,dvadeset i dva,1
+mace1250-2-23-1,,mace1250-2,23,ˈdvaeset i tri,ˈdvaeset i tri,[],,['chan2019'],,False,False,dvadeset i tri,1
+mace1250-2-24-1,,mace1250-2,24,ˈdvaeset i ˈt͡ʃetiri,ˈdvaeset i ˈt͡ʃetiri,[],,['chan2019'],,False,False,dvadeset i četiri,1
+mace1250-2-25-1,,mace1250-2,25,ˈdvaeset i pet,ˈdvaeset i pet,[],,['chan2019'],,False,False,dvadeset i pet,1
+mace1250-2-26-1,,mace1250-2,26,ˈdvaeset i ʃest,ˈdvaeset i ʃest,[],,['chan2019'],,False,False,dvadeset i šest,1
+mace1250-2-27-1,,mace1250-2,27,ˈdvaeset i ˈsedum,ˈdvaeset i ˈsedum,[],,['chan2019'],,False,False,dvadeset i sedum,1
+mace1250-2-28-1,,mace1250-2,28,ˈdvaeset i ˈosum,ˈdvaeset i ˈosum,[],,['chan2019'],,False,False,dvadeset i osum,1
+mace1250-2-29-1,,mace1250-2,29,ˈdvaeset i devet,ˈdvaeset i devet,[],,['chan2019'],,False,False,dvadeset i devet,1
+mace1250-2-30-1,,mace1250-2,30,trieset,trieset,[],,['chan2019'],,False,False,tri(d)eset,1
+mace1250-2-40-1,,mace1250-2,40,t͡ʃetiˈrieset,t͡ʃetiˈrieset,[],,['chan2019'],,False,False,četirideset,1
+mace1250-2-50-1,,mace1250-2,50,ˈpedeset,ˈpedeset,[],,['chan2019'],,False,False,pedeset,1
+mace1250-2-60-1,,mace1250-2,60,ˈʃeeset,ˈʃeeset,[],,['chan2019'],,False,False,še(d)eset,1
+mace1250-2-70-1,,mace1250-2,70,seˈdumdeset,seˈdumdeset,[],,['chan2019'],,False,False,sedumdeset,1
+mace1250-2-80-1,,mace1250-2,80,oˈsumdeset,oˈsumdeset,[],,['chan2019'],,False,False,osumdeset,1
+mace1250-2-90-1,,mace1250-2,90,deˈvedeset,deˈvedeset,[],,['chan2019'],,False,False,devetdeset,1
+mace1250-2-100-1,,mace1250-2,100,sto,sto,[],,['chan2019'],,False,False,sto,1
+mace1250-2-200-1,,mace1250-2,200,ˈdveste,ˈdveste,[],,['chan2019'],,False,False,dveste,1
+mace1250-2-1000-1,,mace1250-2,1000,ˈilʲada,ˈilʲada,[],,['chan2019'],,False,False,iljada,1
+mace1250-2-2000-1,,mace1250-2,2000,ˈdve ˈilʲadi,ˈdve ˈilʲadi,[],,['chan2019'],,False,False,dve iljade,1

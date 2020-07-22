@@ -1,0 +1,35 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+argu1237-1-1-1,,argu1237-1,1,se,se,[],,['chan2019'],,False,False,,1
+argu1237-1-1-2,,argu1237-1,1,sye,sye,[],,['chan2019'],,False,False,,1
+argu1237-1-1-3,,argu1237-1,1,siʔa,siʔa,[],?,['chan2019'],,False,False,si'a,1
+argu1237-1-2-1,,argu1237-1,2,ru,ru,[],,['chan2019'],,False,False,,1
+argu1237-1-3-1,,argu1237-1,3,taor,taor,[],,['chan2019'],,False,False,,1
+argu1237-1-4-1,,argu1237-1,4,fat,fat,[],,['chan2019'],,False,False,,1
+argu1237-1-5-1,,argu1237-1,5,rim,rim,[],,['chan2019'],,False,False,,1
+argu1237-1-6-1,,argu1237-1,6,a'nem,a'nem,[],,['chan2019'],,False,False,,1
+argu1237-1-7-1,,argu1237-1,7,nam'batu,nam'batu,[],( 6+1 ) ?,['chan2019'],,False,False,,1
+argu1237-1-8-1,,argu1237-1,8,'narwu,'narwu,[],,['chan2019'],,False,False,,1
+argu1237-1-8-2,,argu1237-1,8,'nafu,'nafu,[],,['chan2019'],,False,False,,1
+argu1237-1-9-1,,argu1237-1,9,'nasua,'nasua,[],,['chan2019'],,False,False,,1
+argu1237-1-9-2,,argu1237-1,9,'naswa,'naswa,[],,['chan2019'],,False,False,,1
+argu1237-1-10-1,,argu1237-1,10,sam'bure,sam'bure,[],,['chan2019'],,False,False,,1
+argu1237-1-11-1,,argu1237-1,11,sambure resi se,sambure resi se,[],,['chan2019'],,False,False,,1
+argu1237-1-12-1,,argu1237-1,12,sambure resi ru,sambure resi ru,[],,['chan2019'],,False,False,,1
+argu1237-1-13-1,,argu1237-1,13,sambure resi taor,sambure resi taor,[],,['chan2019'],,False,False,,1
+argu1237-1-14-1,,argu1237-1,14,sambure resi fat,sambure resi fat,[],,['chan2019'],,False,False,,1
+argu1237-1-15-1,,argu1237-1,15,sambure resi rim,sambure resi rim,[],,['chan2019'],,False,False,,1
+argu1237-1-16-1,,argu1237-1,16,sambure resi anem,sambure resi anem,[],,['chan2019'],,False,False,,1
+argu1237-1-17-1,,argu1237-1,17,sambure resi nambatu,sambure resi nambatu,[],,['chan2019'],,False,False,,1
+argu1237-1-18-1,,argu1237-1,18,sambure resi narwu,sambure resi narwu,[],,['chan2019'],,False,False,,1
+argu1237-1-19-1,,argu1237-1,19,sambure resi nasua,sambure resi nasua,[],,['chan2019'],,False,False,,1
+argu1237-1-20-1,,argu1237-1,20,sinon se,sinon se,[],( litː 'man one') ?,['chan2019'],,False,False,,1
+argu1237-1-30-1,,argu1237-1,30,sinon se sambure,sinon se sambure,[],,['chan2019'],,False,False,,1
+argu1237-1-40-1,,argu1237-1,40,sinon ru,sinon ru,[],( 20 x 2 ),['chan2019'],,False,False,,1
+argu1237-1-50-1,,argu1237-1,50,sinon ru sambure,sinon ru sambure,[],,['chan2019'],,False,False,,1
+argu1237-1-60-1,,argu1237-1,60,sinon taor,sinon taor,[],( 20 x 3 ),['chan2019'],,False,False,,1
+argu1237-1-70-1,,argu1237-1,70,sinon taor sambure,sinon taor sambure,[],,['chan2019'],,False,False,,1
+argu1237-1-80-1,,argu1237-1,80,sinon fat,sinon fat,[],( 20 x 4 ),['chan2019'],,False,False,,1
+argu1237-1-90-1,,argu1237-1,90,sinon fat sambure,sinon fat sambure,[],,['chan2019'],,False,False,,1
+argu1237-1-100-1,,argu1237-1,100,ratisye,ratisye,[],,['chan2019'],,False,False,,1
+argu1237-1-100-2,,argu1237-1,100,ratise,ratise,[],,['chan2019'],,False,False,,1
+argu1237-1-1000-1,,argu1237-1,1000,ripisye,ripisye,[],,['chan2019'],,False,False,,1

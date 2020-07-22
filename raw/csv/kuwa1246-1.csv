@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kuwa1246-1-1-1,,kuwa1246-1,1,hifeeneŋ,hifeeneŋ,[],,['chan2019'],,False,False,,1
+kuwa1246-1-2-1,,kuwa1246-1,2,kúsuba,kúsuba,[],,['chan2019'],,False,False,,1
+kuwa1246-1-3-1,,kuwa1246-1,3,kíhaaji,kíhaaji,[],,['chan2019'],,False,False,,1
+kuwa1246-1-4-1,,kuwa1246-1,4,kibaakir,kibaakir,[],,['chan2019'],,False,False,,1
+kuwa1246-1-5-1,,kuwa1246-1,5,hutok,hutok,[],,['chan2019'],,False,False,,1
+kuwa1246-1-6-1,,kuwa1246-1,6,hutok ni hifeeneŋ,hutok ni hifeeneŋ,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kuwa1246-1-7-1,,kuwa1246-1,7,hutok nu kúsuba,hutok nu kúsuba,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kuwa1246-1-8-1,,kuwa1246-1,8,hutok ni kíhaaji,hutok ni kíhaaji,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kuwa1246-1-9-1,,kuwa1246-1,9,hutok ni kibaakir,hutok ni kibaakir,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kuwa1246-1-10-1,,kuwa1246-1,10,sumoŋu,sumoŋu,[],,['chan2019'],,False,False,,1
+kuwa1246-1-11-1,,kuwa1246-1,11,sumoŋu ni hifeeneŋ,sumoŋu ni hifeeneŋ,[],,['chan2019'],,False,False,,1
+kuwa1246-1-12-1,,kuwa1246-1,12,sumoŋu nu kúsuba,sumoŋu nu kúsuba,[],,['chan2019'],,False,False,,1
+kuwa1246-1-13-1,,kuwa1246-1,13,sumoŋu ni kíhaaji,sumoŋu ni kíhaaji,[],,['chan2019'],,False,False,,1
+kuwa1246-1-14-1,,kuwa1246-1,14,sumoŋu ni kibaakir,sumoŋu ni kibaakir,[],,['chan2019'],,False,False,,1
+kuwa1246-1-15-1,,kuwa1246-1,15,sumoŋu nu hutok,sumoŋu nu hutok,[],,['chan2019'],,False,False,,1
+kuwa1246-1-16-1,,kuwa1246-1,16,sumoŋu nu hutok ni hifeeneŋ,sumoŋu nu hutok ni hifeeneŋ,[],,['chan2019'],,False,False,,1
+kuwa1246-1-17-1,,kuwa1246-1,17,sumoŋu nu hutok nu kúsuba,sumoŋu nu hutok nu kúsuba,[],,['chan2019'],,False,False,,1
+kuwa1246-1-18-1,,kuwa1246-1,18,sumoŋu nu hutok ni kíhaaji,sumoŋu nu hutok ni kíhaaji,[],,['chan2019'],,False,False,,1
+kuwa1246-1-19-1,,kuwa1246-1,19,sumoŋu nu hutok ni kibaakir,sumoŋu nu hutok ni kibaakir,[],,['chan2019'],,False,False,,1
+kuwa1246-1-20-1,,kuwa1246-1,20,butuman,butuman,[],,['chan2019'],,False,False,,1
+kuwa1246-1-21-1,,kuwa1246-1,21,butuman ni hifeeneŋ,butuman ni hifeeneŋ,[],,['chan2019'],,False,False,,1
+kuwa1246-1-22-1,,kuwa1246-1,22,butuman nu kúsuba,butuman nu kúsuba,[],,['chan2019'],,False,False,,1
+kuwa1246-1-23-1,,kuwa1246-1,23,butuman ni kíhaaji,butuman ni kíhaaji,[],,['chan2019'],,False,False,,1
+kuwa1246-1-24-1,,kuwa1246-1,24,butuman ni kibaakir,butuman ni kibaakir,[],,['chan2019'],,False,False,,1
+kuwa1246-1-25-1,,kuwa1246-1,25,butuman nu hutok,butuman nu hutok,[],,['chan2019'],,False,False,,1
+kuwa1246-1-26-1,,kuwa1246-1,26,butuman nu hutok ni hifeeneŋ,butuman nu hutok ni hifeeneŋ,[],,['chan2019'],,False,False,,1
+kuwa1246-1-27-1,,kuwa1246-1,27,butuman nu hutok nu kúsuba,butuman nu hutok nu kúsuba,[],,['chan2019'],,False,False,,1
+kuwa1246-1-28-1,,kuwa1246-1,28,butuman nu hutok ni kíhaaji,butuman nu hutok ni kíhaaji,[],,['chan2019'],,False,False,,1
+kuwa1246-1-29-1,,kuwa1246-1,29,butuman nu hutok ni kibaakir,butuman nu hutok ni kibaakir,[],,['chan2019'],,False,False,,1
+kuwa1246-1-30-1,,kuwa1246-1,30,butuman nu sumoŋu,butuman nu sumoŋu,[],( 20 + 10),['chan2019'],,False,False,,1
+kuwa1246-1-40-1,,kuwa1246-1,40,bakan bákasuba,bakan bákasuba,[],( ' persons two '),['chan2019'],,False,False,,1
+kuwa1246-1-50-1,,kuwa1246-1,50,bakan bákasuba nu sumoŋu,bakan bákasuba nu sumoŋu,[],,['chan2019'],,False,False,,1
+kuwa1246-1-60-1,,kuwa1246-1,60,bakan bákahaaji,bakan bákahaaji,[],(' persons three '),['chan2019'],,False,False,,1
+kuwa1246-1-70-1,,kuwa1246-1,70,bakan bákahaaji nu sumoŋu,bakan bákahaaji nu sumoŋu,[],,['chan2019'],,False,False,,1
+kuwa1246-1-80-1,,kuwa1246-1,80,bakan bákabaakir,bakan bákabaakir,[],( ' persons four '),['chan2019'],,False,False,,1
+kuwa1246-1-90-1,,kuwa1246-1,90,bakan bákabaakir nu sumoŋu,bakan bákabaakir nu sumoŋu,[],,['chan2019'],,False,False,,1
+kuwa1246-1-100-1,,kuwa1246-1,100,temer,temer,[],< Wolof ,['chan2019'],,True,False,,1
+kuwa1246-1-200-1,,kuwa1246-1,200,sitemer súsuba,sitemer súsuba,[],,['chan2019'],,False,False,,1
+kuwa1246-1-1000-1,,kuwa1246-1,1000,ẽñjune,ẽñjune,[],< Wolof ,['chan2019'],,True,False,,1
+kuwa1246-1-2000-1,,kuwa1246-1,2000,súñjune súsuba,súñjune súsuba,[],,['chan2019'],,False,False,,1

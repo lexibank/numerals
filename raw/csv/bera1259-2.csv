@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bera1259-2-1-1,,bera1259-2,1,nɡilini,nɡilini,[],,['chan2019'],,False,False,,2
+bera1259-2-2-1,,bera1259-2,2,bali,bali,[],,['chan2019'],,False,False,,2
+bera1259-2-3-1,,bera1259-2,3,salo,salo,[],,['chan2019'],,False,False,,2
+bera1259-2-4-1,,bera1259-2,4,ini,ini,[],,['chan2019'],,False,False,,2
+bera1259-2-5-1,,bera1259-2,5,tanu,tanu,[],( < Swahili ),['chan2019'],,True,False,,2
+bera1259-2-6-1,,bera1259-2,6,sita,sita,[],( < Swahili ),['chan2019'],,True,False,,2
+bera1259-2-7-1,,bera1259-2,7,saba,saba,[],( < Swahili ),['chan2019'],,True,False,,2
+bera1259-2-8-1,,bera1259-2,8,munani,munani,[],( < Swahili ),['chan2019'],,True,False,,2
+bera1259-2-9-1,,bera1259-2,9,tisa,tisa,[],( < Swahili ),['chan2019'],,True,False,,2
+bera1259-2-10-1,,bera1259-2,10,kumi,kumi,[],,['chan2019'],,False,False,,2
+bera1259-2-11-1,,bera1259-2,11,kumi na nɡilini,kumi na nɡilini,[],,['chan2019'],,False,False,,2
+bera1259-2-12-1,,bera1259-2,12,kumi na bali,kumi na bali,[],,['chan2019'],,False,False,,2
+bera1259-2-13-1,,bera1259-2,13,kumi na salo,kumi na salo,[],,['chan2019'],,False,False,,2
+bera1259-2-14-1,,bera1259-2,14,kumi na ini,kumi na ini,[],,['chan2019'],,False,False,,2
+bera1259-2-15-1,,bera1259-2,15,kumi na tanu,kumi na tanu,[],,['chan2019'],,False,False,,2
+bera1259-2-16-1,,bera1259-2,16,kumi na sita,kumi na sita,[],,['chan2019'],,False,False,,2
+bera1259-2-17-1,,bera1259-2,17,kumi na saba,kumi na saba,[],,['chan2019'],,False,False,,2
+bera1259-2-18-1,,bera1259-2,18,kumi na munani,kumi na munani,[],,['chan2019'],,False,False,,2
+bera1259-2-19-1,,bera1259-2,19,kumi na tisa,kumi na tisa,[],,['chan2019'],,False,False,,2
+bera1259-2-20-1,,bera1259-2,20,makumi bali,makumi bali,[],,['chan2019'],,False,False,,2
+bera1259-2-21-1,,bera1259-2,21,makumi bali nanɡilini,makumi bali nanɡilini,[],,['chan2019'],,False,False,,2
+bera1259-2-22-1,,bera1259-2,22,makumi bali na bali,makumi bali na bali,[],,['chan2019'],,False,False,,2
+bera1259-2-23-1,,bera1259-2,23,makumi bali na salo,makumi bali na salo,[],,['chan2019'],,False,False,,2
+bera1259-2-24-1,,bera1259-2,24,makumi bali na ini,makumi bali na ini,[],,['chan2019'],,False,False,,2
+bera1259-2-25-1,,bera1259-2,25,makumi bali na tanu,makumi bali na tanu,[],,['chan2019'],,False,False,,2
+bera1259-2-26-1,,bera1259-2,26,makumi bali na sita,makumi bali na sita,[],,['chan2019'],,False,False,,2
+bera1259-2-27-1,,bera1259-2,27,makumi bali na saba,makumi bali na saba,[],,['chan2019'],,False,False,,2
+bera1259-2-28-1,,bera1259-2,28,makumi bali na munani,makumi bali na munani,[],,['chan2019'],,False,False,,2
+bera1259-2-29-1,,bera1259-2,29,makumi bali na tisa,makumi bali na tisa,[],,['chan2019'],,False,False,,2
+bera1259-2-30-1,,bera1259-2,30,makumi salo,makumi salo,[],,['chan2019'],,False,False,,2
+bera1259-2-40-1,,bera1259-2,40,makumi ini,makumi ini,[],,['chan2019'],,False,False,,2
+bera1259-2-50-1,,bera1259-2,50,makumi tanu,makumi tanu,[],,['chan2019'],,False,False,,2
+bera1259-2-60-1,,bera1259-2,60,makumi sita,makumi sita,[],,['chan2019'],,False,False,,2
+bera1259-2-70-1,,bera1259-2,70,makumi saba,makumi saba,[],,['chan2019'],,False,False,,2
+bera1259-2-80-1,,bera1259-2,80,makumi munani,makumi munani,[],,['chan2019'],,False,False,,2
+bera1259-2-90-1,,bera1259-2,90,makumi tisa,makumi tisa,[],,['chan2019'],,False,False,,2
+bera1259-2-100-1,,bera1259-2,100,miya nɡilini,miya nɡilini,[],( 'miya' < Swahili ),['chan2019'],,True,False,,2
+bera1259-2-200-1,,bera1259-2,200,miya bali,miya bali,[],,['chan2019'],,False,False,,2
+bera1259-2-1000-1,,bera1259-2,1000,elfu nɡilini,elfu nɡilini,[],( 'elfu' < Swahili ),['chan2019'],,True,False,,2
+bera1259-2-2000-1,,bera1259-2,2000,elfu bali,elfu bali,[],,['chan2019'],,False,False,,2

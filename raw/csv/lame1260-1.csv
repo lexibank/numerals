@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lame1260-1-1-1,,lame1260-1,1,sokoroɡa,sokoroɡa,[],,['chan2019'],,False,False,,1
+lame1260-1-2-1,,lame1260-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+lame1260-1-3-1,,lame1260-1,3,sɛlu,sɛlu,[],,['chan2019'],,False,False,,1
+lame1260-1-4-1,,lame1260-1,4,βeri,βeri,[],,['chan2019'],,False,False,,1
+lame1260-1-5-1,,lame1260-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+lame1260-1-6-1,,lame1260-1,6,ara,ara,[],( 5 + 1 ),['chan2019'],,False,False,,1
+lame1260-1-7-1,,lame1260-1,7,olua,olua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+lame1260-1-8-1,,lame1260-1,8,orɛlu,orɛlu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+lame1260-1-9-1,,lame1260-1,9,oβɛri,oβɛri,[],( 5 + 4 ),['chan2019'],,False,False,,1
+lame1260-1-10-1,,lame1260-1,10,lualima,lualima,[],( 5 + 5 ),['chan2019'],,False,False,,1
+lame1260-1-11-1,,lame1260-1,11,lualima pa sokoroɡa,lualima pa sokoroɡa,[],,['chan2019'],,False,False,,1
+lame1260-1-12-1,,lame1260-1,12,lualima pa lua,lualima pa lua,[],,['chan2019'],,False,False,,1
+lame1260-1-13-1,,lame1260-1,13,lualima pa sɛlu,lualima pa sɛlu,[],,['chan2019'],,False,False,,1
+lame1260-1-14-1,,lame1260-1,14,lualima pa βeri,lualima pa βeri,[],,['chan2019'],,False,False,,1
+lame1260-1-15-1,,lame1260-1,15,lualima pa lima,lualima pa lima,[],,['chan2019'],,False,False,,1
+lame1260-1-16-1,,lame1260-1,16,lualima pa ara,lualima pa ara,[],,['chan2019'],,False,False,,1
+lame1260-1-17-1,,lame1260-1,17,lualima pa olua,lualima pa olua,[],,['chan2019'],,False,False,,1
+lame1260-1-18-1,,lame1260-1,18,lualima pa orɛlu,lualima pa orɛlu,[],,['chan2019'],,False,False,,1
+lame1260-1-19-1,,lame1260-1,19,lualima pa oβɛri,lualima pa oβɛri,[],,['chan2019'],,False,False,,1
+lame1260-1-20-1,,lame1260-1,20,lualima βa lua,lualima βa lua,[],,['chan2019'],,False,False,,1
+lame1260-1-21-1,,lame1260-1,21,lualima βa lua pa sokoroɡa,lualima βa lua pa sokoroɡa,[],,['chan2019'],,False,False,,1
+lame1260-1-22-1,,lame1260-1,22,lualima βa lua pa lua,lualima βa lua pa lua,[],,['chan2019'],,False,False,,1
+lame1260-1-23-1,,lame1260-1,23,lualima βa lua pa sɛlu,lualima βa lua pa sɛlu,[],,['chan2019'],,False,False,,1
+lame1260-1-24-1,,lame1260-1,24,lualima βa lua pa βeri,lualima βa lua pa βeri,[],,['chan2019'],,False,False,,1
+lame1260-1-25-1,,lame1260-1,25,lualima βa lua pa lima,lualima βa lua pa lima,[],,['chan2019'],,False,False,,1
+lame1260-1-26-1,,lame1260-1,26,lualima βa lua pa ara,lualima βa lua pa ara,[],,['chan2019'],,False,False,,1
+lame1260-1-27-1,,lame1260-1,27,lualima βa lua pa olua,lualima βa lua pa olua,[],,['chan2019'],,False,False,,1
+lame1260-1-28-1,,lame1260-1,28,lualima βa lua pa orɛlu,lualima βa lua pa orɛlu,[],,['chan2019'],,False,False,,1
+lame1260-1-29-1,,lame1260-1,29,lualima βa lua pa oβɛri,lualima βa lua pa oβɛri,[],,['chan2019'],,False,False,,1
+lame1260-1-30-1,,lame1260-1,30,lualima βa sɛlu,lualima βa sɛlu,[],,['chan2019'],,False,False,,1
+lame1260-1-40-1,,lame1260-1,40,lualima βa βeri,lualima βa βeri,[],,['chan2019'],,False,False,,1
+lame1260-1-50-1,,lame1260-1,50,lualima βa lima,lualima βa lima,[],,['chan2019'],,False,False,,1
+lame1260-1-60-1,,lame1260-1,60,lualima βa ara,lualima βa ara,[],,['chan2019'],,False,False,,1
+lame1260-1-70-1,,lame1260-1,70,lualima βa olua,lualima βa olua,[],,['chan2019'],,False,False,,1
+lame1260-1-80-1,,lame1260-1,80,lualima βa orɛlu,lualima βa orɛlu,[],,['chan2019'],,False,False,,1
+lame1260-1-90-1,,lame1260-1,90,lualima βa oβɛri,lualima βa oβɛri,[],,['chan2019'],,False,False,,1
+lame1260-1-100-1,,lame1260-1,100,ponotiya,ponotiya,[],,['chan2019'],,False,False,,1
+lame1260-1-200-1,,lame1260-1,200,ponotiya lua,ponotiya lua,[],,['chan2019'],,False,False,,1
+lame1260-1-1000-1,,lame1260-1,1000,manu,manu,[],( < Polynesian ),['chan2019'],,True,False,,1
+lame1260-1-2000-1,,lame1260-1,2000,manu lua,manu lua,[],,['chan2019'],,False,False,,1

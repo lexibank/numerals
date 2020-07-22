@@ -1,0 +1,31 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+onin1245-1-1-1,,onin1245-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+onin1245-1-1-2,,onin1245-1,1,sawatan,sawatan,[],,['chan2019'],,False,False,,1
+onin1245-1-2-1,,onin1245-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+onin1245-1-2-2,,onin1245-1,2,nua,nua,[],,['chan2019'],,False,False,,1
+onin1245-1-3-1,,onin1245-1,3,téni,téni,[],,['chan2019'],,False,False,,1
+onin1245-1-4-1,,onin1245-1,4,fat,fat,[],,['chan2019'],,False,False,,1
+onin1245-1-5-1,,onin1245-1,5,níma,níma,[],,['chan2019'],,False,False,,1
+onin1245-1-6-1,,onin1245-1,6,nɛm,nɛm,[],,['chan2019'],,False,False,,1
+onin1245-1-6-2,,onin1245-1,6,anèm,anèm,[],,['chan2019'],,False,False,,1
+onin1245-1-7-1,,onin1245-1,7,tařasá,tařasá,[],,['chan2019'],,False,False,,1
+onin1245-1-7-2,,onin1245-1,7,butères,butères,[],( 6+1 ),['chan2019'],,False,False,,1
+onin1245-1-8-1,,onin1245-1,8,tařanua,tařanua,[],,['chan2019'],,False,False,,1
+onin1245-1-8-2,,onin1245-1,8,butènua,butènua,[],( 6+2 ),['chan2019'],,False,False,,1
+onin1245-1-9-1,,onin1245-1,9,səpútih,səpútih,[],,['chan2019'],,False,False,,1
+onin1245-1-9-2,,onin1245-1,9,sabuti,sabuti,[],(10 - 1 ),['chan2019'],,False,False,,1
+onin1245-1-10-1,,onin1245-1,10,pusúa,pusúa,[],,['chan2019'],,False,False,,1
+onin1245-1-10-2,,onin1245-1,10,busua,busua,[],,['chan2019'],,False,False,,1
+onin1245-1-11-1,,onin1245-1,11,busua-resi-sa,busua-resi-sa,[],,['chan2019'],,False,False,,1
+onin1245-1-12-1,,onin1245-1,12,busua-resi-nua,busua-resi-nua,[],,['chan2019'],,False,False,,1
+onin1245-1-13-1,,onin1245-1,13,busua-resi-teni,busua-resi-teni,[],,['chan2019'],,False,False,,1
+onin1245-1-14-1,,onin1245-1,14,busua-resi-fat,busua-resi-fat,[],,['chan2019'],,False,False,,1
+onin1245-1-15-1,,onin1245-1,15,busua-resi-nima,busua-resi-nima,[],,['chan2019'],,False,False,,1
+onin1245-1-16-1,,onin1245-1,16,busua-resi-nɛm,busua-resi-nɛm,[],,['chan2019'],,False,False,,1
+onin1245-1-17-1,,onin1245-1,17,busua-resi-tařasá,busua-resi-tařasá,[],,['chan2019'],,False,False,,1
+onin1245-1-18-1,,onin1245-1,18,busua-resi-tařanua,busua-resi-tařanua,[],,['chan2019'],,False,False,,1
+onin1245-1-19-1,,onin1245-1,19,busua-resi-səputih,busua-resi-səputih,[],,['chan2019'],,False,False,,1
+onin1245-1-20-1,,onin1245-1,20,buti-nua,buti-nua,[],,['chan2019'],,False,False,,1
+onin1245-1-20-2,,onin1245-1,20,tumate sa,tumate sa,[],( litː 'man one'),['chan2019'],,False,False,,1
+onin1245-1-40-1,,onin1245-1,40,buti fat,buti fat,[],,['chan2019'],,False,False,,1
+onin1245-1-40-2,,onin1245-1,40,tumate rua,tumate rua,[],,['chan2019'],,False,False,,1

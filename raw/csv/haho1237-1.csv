@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+haho1237-1-1-1,,haho1237-1,1,'paya,'paya,[],,['chan2019'],,False,False,,1
+haho1237-1-1-2,,haho1237-1,1,paia,paia,[],,['chan2019'],,False,False,,1
+haho1237-1-2-1,,haho1237-1,2,'buaku,'buaku,[],,['chan2019'],,False,False,,1
+haho1237-1-3-1,,haho1237-1,3,ku'kana,ku'kana,[],,['chan2019'],,False,False,,1
+haho1237-1-4-1,,haho1237-1,4,'tana,'tana,[],,['chan2019'],,False,False,,1
+haho1237-1-5-1,,haho1237-1,5,'taunima,'taunima,[],,['chan2019'],,False,False,,1
+haho1237-1-6-1,,haho1237-1,6,'taunima mana paia,'taunima mana paia,[],( 1+ 5 ),['chan2019'],,False,False,,1
+haho1237-1-7-1,,haho1237-1,7,'taunima mana 'buaku,'taunima mana 'buaku,[],( 2+ 5 ),['chan2019'],,False,False,,1
+haho1237-1-8-1,,haho1237-1,8,'taunima mana ku'kana,'taunima mana ku'kana,[],( 3+ 5 ),['chan2019'],,False,False,,1
+haho1237-1-9-1,,haho1237-1,9,'taunima mana 'tana,'taunima mana 'tana,[],( 4+ 5 ),['chan2019'],,False,False,,1
+haho1237-1-10-1,,haho1237-1,10,savun,savun,[],,['chan2019'],,False,False,,1
+haho1237-1-11-1,,haho1237-1,11,savun mana paia,savun mana paia,[],,['chan2019'],,False,False,,1
+haho1237-1-12-1,,haho1237-1,12,savun mana 'buaku,savun mana 'buaku,[],,['chan2019'],,False,False,,1
+haho1237-1-13-1,,haho1237-1,13,savun mana ku'kana,savun mana ku'kana,[],,['chan2019'],,False,False,,1
+haho1237-1-14-1,,haho1237-1,14,savun mana 'tana,savun mana 'tana,[],,['chan2019'],,False,False,,1
+haho1237-1-15-1,,haho1237-1,15,savun mana 'taunima,savun mana 'taunima,[],,['chan2019'],,False,False,,1
+haho1237-1-16-1,,haho1237-1,16,savun mana 'taunima mana paia,savun mana 'taunima mana paia,[],,['chan2019'],,False,False,,1
+haho1237-1-17-1,,haho1237-1,17,savun mana 'taunima mana 'buaku,savun mana 'taunima mana 'buaku,[],,['chan2019'],,False,False,,1
+haho1237-1-18-1,,haho1237-1,18,savun mana 'taunima mana 'ku'kana,savun mana 'taunima mana 'ku'kana,[],,['chan2019'],,False,False,,1
+haho1237-1-19-1,,haho1237-1,19,savun mana 'taunima mana 'tana,savun mana 'taunima mana 'tana,[],,['chan2019'],,False,False,,1
+haho1237-1-20-1,,haho1237-1,20,bua savun,bua savun,[],,['chan2019'],,False,False,,1
+haho1237-1-21-1,,haho1237-1,21,bua savun mana paia,bua savun mana paia,[],,['chan2019'],,False,False,,1
+haho1237-1-22-1,,haho1237-1,22,bua savun mana 'buaku,bua savun mana 'buaku,[],,['chan2019'],,False,False,,1
+haho1237-1-23-1,,haho1237-1,23,bua savun mana ku'kana,bua savun mana ku'kana,[],,['chan2019'],,False,False,,1
+haho1237-1-24-1,,haho1237-1,24,bua savun mana 'tana,bua savun mana 'tana,[],,['chan2019'],,False,False,,1
+haho1237-1-25-1,,haho1237-1,25,bua savun mana 'tau'nima,bua savun mana 'tau'nima,[],,['chan2019'],,False,False,,1
+haho1237-1-26-1,,haho1237-1,26,bua savun mana 'tau'nima mana paia,bua savun mana 'tau'nima mana paia,[],,['chan2019'],,False,False,,1
+haho1237-1-27-1,,haho1237-1,27,bua savun mana 'tau'nima mana 'buaku,bua savun mana 'tau'nima mana 'buaku,[],,['chan2019'],,False,False,,1
+haho1237-1-28-1,,haho1237-1,28,bua savun mana 'tau'nima mana ku'kana,bua savun mana 'tau'nima mana ku'kana,[],,['chan2019'],,False,False,,1
+haho1237-1-29-1,,haho1237-1,29,bua savun mana 'tau'nima mana 'tana,bua savun mana 'tau'nima mana 'tana,[],,['chan2019'],,False,False,,1
+haho1237-1-30-1,,haho1237-1,30,ku'ka 'savun,ku'ka 'savun,[],,['chan2019'],,False,False,,1
+haho1237-1-40-1,,haho1237-1,40,'tana 'savun,'tana 'savun,[],,['chan2019'],,False,False,,1
+haho1237-1-50-1,,haho1237-1,50,tau'nima 'savun,tau'nima 'savun,[],,['chan2019'],,False,False,,1
+haho1237-1-60-1,,haho1237-1,60,'taunima (mana) paia 'savun,'taunima (mana) paia 'savun,[],,['chan2019'],,False,False,,1
+haho1237-1-70-1,,haho1237-1,70,'taunima (mana) 'buaku 'savun,'taunima (mana) 'buaku 'savun,[],,['chan2019'],,False,False,,1
+haho1237-1-80-1,,haho1237-1,80,'taunima (mana) 'ku'kana 'savun,'taunima (mana) 'ku'kana 'savun,[],,['chan2019'],,False,False,,1
+haho1237-1-90-1,,haho1237-1,90,'taunima (mana) 'tana 'savun,'taunima (mana) 'tana 'savun,[],,['chan2019'],,False,False,,1
+haho1237-1-100-1,,haho1237-1,100,oan 'handrət,oan 'handrət,[],< Tok Pijin ,['chan2019'],,True,False,,1
+haho1237-1-200-1,,haho1237-1,200,tu 'handrət,tu 'handrət,[],< Tok Pijin ,['chan2019'],,True,False,,1
+haho1237-1-1000-1,,haho1237-1,1000,oan 'tausen,oan 'tausen,[],< Tok Pijin ,['chan2019'],,True,False,,1
+haho1237-1-2000-1,,haho1237-1,2000,tu 'tausen,tu 'tausen,[],< Tok Pijin ,['chan2019'],,True,False,,1

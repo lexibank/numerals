@@ -1,0 +1,6 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+odoo1238-1-1-1,,odoo1238-1,1,hɛdɛˈpɛ,hɛdɛˈpɛ,[],,['chan2019'],,False,False,,1
+odoo1238-1-2-1,,odoo1238-1,2,ˈbɑkɑdʲɔ,ˈbɑkɑdʲɔ,[],,['chan2019'],,False,False,,1
+odoo1238-1-3-1,,odoo1238-1,3,ˈbɑkɑdʲɔ hɛdɛˈbɛ,ˈbɑkɑdʲɔ hɛdɛˈbɛ,[],( 2 + 1 ),['chan2019'],,False,False,,1
+odoo1238-1-4-1,,odoo1238-1,4,ˈbɑkɑdʲɔ ˈbɑkɑdʲɔ,ˈbɑkɑdʲɔ ˈbɑkɑdʲɔ,[],( 2 + 2 ),['chan2019'],,False,False,,1
+odoo1238-1-5-1,,odoo1238-1,5,de ˈtʲɑdo,de ˈtʲɑdo,[],,['chan2019'],,False,False,,1

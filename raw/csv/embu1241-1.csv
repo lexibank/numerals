@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+embu1241-1-1-1,,embu1241-1,1,imwe,imwe,[],,['chan2019'],,False,False,,1
+embu1241-1-2-1,,embu1241-1,2,iɡiri,iɡiri,[],,['chan2019'],,False,False,,1
+embu1241-1-3-1,,embu1241-1,3,ithatu,ithatu,[],,['chan2019'],,False,False,,1
+embu1241-1-4-1,,embu1241-1,4,inye,inye,[],,['chan2019'],,False,False,,1
+embu1241-1-5-1,,embu1241-1,5,ithano,ithano,[],,['chan2019'],,False,False,,1
+embu1241-1-6-1,,embu1241-1,6,ithathatu,ithathatu,[],( 2 x  3 ) ?,['chan2019'],,False,False,,1
+embu1241-1-7-1,,embu1241-1,7,muɡuanja,muɡuanja,[],,['chan2019'],,False,False,,1
+embu1241-1-8-1,,embu1241-1,8,inyanya,inyanya,[],( 2  x 4 ) ?,['chan2019'],,False,False,,1
+embu1241-1-9-1,,embu1241-1,9,kenda,kenda,[],,['chan2019'],,False,False,,1
+embu1241-1-10-1,,embu1241-1,10,ikumi,ikumi,[],,['chan2019'],,False,False,,1
+embu1241-1-11-1,,embu1241-1,11,ikumi na imwe,ikumi na imwe,[],,['chan2019'],,False,False,,1
+embu1241-1-12-1,,embu1241-1,12,ikumi na iɡiri,ikumi na iɡiri,[],,['chan2019'],,False,False,,1
+embu1241-1-13-1,,embu1241-1,13,ikumi na ithatû,ikumi na ithatû,[],,['chan2019'],,False,False,,1
+embu1241-1-14-1,,embu1241-1,14,ikumi na inya,ikumi na inya,[],,['chan2019'],,False,False,,1
+embu1241-1-15-1,,embu1241-1,15,ikumi na ithano,ikumi na ithano,[],,['chan2019'],,False,False,,1
+embu1241-1-16-1,,embu1241-1,16,ikumi na ithathatu,ikumi na ithathatu,[],,['chan2019'],,False,False,,1
+embu1241-1-17-1,,embu1241-1,17,ikumi na muɡuanja,ikumi na muɡuanja,[],,['chan2019'],,False,False,,1
+embu1241-1-18-1,,embu1241-1,18,ikumi na inyanya,ikumi na inyanya,[],,['chan2019'],,False,False,,1
+embu1241-1-19-1,,embu1241-1,19,ikumi na kenda,ikumi na kenda,[],,['chan2019'],,False,False,,1
+embu1241-1-20-1,,embu1241-1,20,mironɡo iɡiri,mironɡo iɡiri,[],,['chan2019'],,False,False,,1
+embu1241-1-21-1,,embu1241-1,21,mironɡo iri na imwe,mironɡo iri na imwe,[],,['chan2019'],,False,False,,1
+embu1241-1-22-1,,embu1241-1,22,mironɡo irina iɡiri,mironɡo irina iɡiri,[],,['chan2019'],,False,False,,1
+embu1241-1-23-1,,embu1241-1,23,mironɡo irina ithatu,mironɡo irina ithatu,[],,['chan2019'],,False,False,,1
+embu1241-1-24-1,,embu1241-1,24,mironɡo irina inya,mironɡo irina inya,[],,['chan2019'],,False,False,,1
+embu1241-1-25-1,,embu1241-1,25,mironɡo irina ithano,mironɡo irina ithano,[],,['chan2019'],,False,False,,1
+embu1241-1-26-1,,embu1241-1,26,mironɡo irina ithathatu,mironɡo irina ithathatu,[],,['chan2019'],,False,False,,1
+embu1241-1-27-1,,embu1241-1,27,mironɡo irina muɡuanja,mironɡo irina muɡuanja,[],,['chan2019'],,False,False,,1
+embu1241-1-28-1,,embu1241-1,28,mironɡo irina inyanya,mironɡo irina inyanya,[],,['chan2019'],,False,False,,1
+embu1241-1-29-1,,embu1241-1,29,mironɡo irina kenda,mironɡo irina kenda,[],,['chan2019'],,False,False,,1
+embu1241-1-30-1,,embu1241-1,30,mironɡo ithatu,mironɡo ithatu,[],,['chan2019'],,False,False,,1
+embu1241-1-40-1,,embu1241-1,40,mironɡo ina,mironɡo ina,[],,['chan2019'],,False,False,,1
+embu1241-1-50-1,,embu1241-1,50,mironɡo ithano,mironɡo ithano,[],,['chan2019'],,False,False,,1
+embu1241-1-60-1,,embu1241-1,60,mironɡo ithathatu,mironɡo ithathatu,[],,['chan2019'],,False,False,,1
+embu1241-1-70-1,,embu1241-1,70,mironɡo muɡuanja,mironɡo muɡuanja,[],,['chan2019'],,False,False,,1
+embu1241-1-80-1,,embu1241-1,80,mironɡo inyanya,mironɡo inyanya,[],,['chan2019'],,False,False,,1
+embu1241-1-90-1,,embu1241-1,90,mironɡo kenda,mironɡo kenda,[],,['chan2019'],,False,False,,1
+embu1241-1-100-1,,embu1241-1,100,iɡana,iɡana,[],,['chan2019'],,False,False,,1
+embu1241-1-200-1,,embu1241-1,200,maɡana meri,maɡana meri,[],,['chan2019'],,False,False,,1
+embu1241-1-1000-1,,embu1241-1,1000,nɡiri imwe,nɡiri imwe,[],,['chan2019'],,False,False,,1
+embu1241-1-2000-1,,embu1241-1,2000,nɡiri iɡiri,nɡiri iɡiri,[],,['chan2019'],,False,False,,1

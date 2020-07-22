@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+baki1244-1-1-1,,baki1244-1,1,tai,tai,[],,['chan2019'],,False,False,,1
+baki1244-1-1-2,,baki1244-1,1,takurano,takurano,[],,['chan2019'],,False,False,,1
+baki1244-1-2-1,,baki1244-1,2,tʃuwo,tʃuwo,[],,['chan2019'],,False,False,,1
+baki1244-1-3-1,,baki1244-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+baki1244-1-4-1,,baki1244-1,4,βeri,βeri,[],,['chan2019'],,False,False,,1
+baki1244-1-5-1,,baki1244-1,5,tʃima,tʃima,[],,['chan2019'],,False,False,,1
+baki1244-1-6-1,,baki1244-1,6,ari,ari,[],( 5 + 1 ),['chan2019'],,False,False,,1
+baki1244-1-7-1,,baki1244-1,7,aluwo,aluwo,[],( 5 + 2 ),['chan2019'],,False,False,,1
+baki1244-1-8-1,,baki1244-1,8,arolu,arolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+baki1244-1-9-1,,baki1244-1,9,aβeri,aβeri,[],( 5 + 4 ),['chan2019'],,False,False,,1
+baki1244-1-10-1,,baki1244-1,10,duwelimo,duwelimo,[],( 5 + 5 ),['chan2019'],,False,False,,1
+baki1244-1-11-1,,baki1244-1,11,duwelimo ᵐba takurano,duwelimo ᵐba takurano,[],,['chan2019'],,False,False,,1
+baki1244-1-12-1,,baki1244-1,12,duwelimo ᵐba tʃuwo,duwelimo ᵐba tʃuwo,[],,['chan2019'],,False,False,,1
+baki1244-1-13-1,,baki1244-1,13,duwelimo ᵐba tolu,duwelimo ᵐba tolu,[],,['chan2019'],,False,False,,1
+baki1244-1-14-1,,baki1244-1,14,duwelimo ᵐba βeri,duwelimo ᵐba βeri,[],,['chan2019'],,False,False,,1
+baki1244-1-15-1,,baki1244-1,15,duwelimo ᵐba tʃima,duwelimo ᵐba tʃima,[],,['chan2019'],,False,False,,1
+baki1244-1-16-1,,baki1244-1,16,duwelimo ᵐba ari,duwelimo ᵐba ari,[],,['chan2019'],,False,False,,1
+baki1244-1-17-1,,baki1244-1,17,duwelimo ᵐba aluwo,duwelimo ᵐba aluwo,[],,['chan2019'],,False,False,,1
+baki1244-1-18-1,,baki1244-1,18,duwelimo ᵐba arolu,duwelimo ᵐba arolu,[],,['chan2019'],,False,False,,1
+baki1244-1-19-1,,baki1244-1,19,duwelimo ᵐba aβeri,duwelimo ᵐba aβeri,[],,['chan2019'],,False,False,,1
+baki1244-1-20-1,,baki1244-1,20,duwelimo βa tʃuwo,duwelimo βa tʃuwo,[],,['chan2019'],,False,False,,1
+baki1244-1-21-1,,baki1244-1,21,duwelimo βa tʃuwo ᵐba takurano,duwelimo βa tʃuwo ᵐba takurano,[],,['chan2019'],,False,False,,1
+baki1244-1-22-1,,baki1244-1,22,duwelimo βa tʃuwo ᵐba tʃuwo,duwelimo βa tʃuwo ᵐba tʃuwo,[],,['chan2019'],,False,False,,1
+baki1244-1-23-1,,baki1244-1,23,duwelimo βa tʃuwo ᵐba tolu,duwelimo βa tʃuwo ᵐba tolu,[],,['chan2019'],,False,False,,1
+baki1244-1-24-1,,baki1244-1,24,duwelimo βa tʃuwo ᵐba βeri,duwelimo βa tʃuwo ᵐba βeri,[],,['chan2019'],,False,False,,1
+baki1244-1-25-1,,baki1244-1,25,duwelimo βa tʃuwo ᵐba tʃima,duwelimo βa tʃuwo ᵐba tʃima,[],,['chan2019'],,False,False,,1
+baki1244-1-26-1,,baki1244-1,26,duwelimo βa tʃuwo ᵐba ari,duwelimo βa tʃuwo ᵐba ari,[],,['chan2019'],,False,False,,1
+baki1244-1-27-1,,baki1244-1,27,duwelimo βa tʃuwo ᵐba aluwo,duwelimo βa tʃuwo ᵐba aluwo,[],,['chan2019'],,False,False,,1
+baki1244-1-28-1,,baki1244-1,28,duwelimo βa tʃuwo ᵐba arolu,duwelimo βa tʃuwo ᵐba arolu,[],,['chan2019'],,False,False,,1
+baki1244-1-29-1,,baki1244-1,29,duwelimo βa tʃuwo ᵐba aβeri,duwelimo βa tʃuwo ᵐba aβeri,[],,['chan2019'],,False,False,,1
+baki1244-1-30-1,,baki1244-1,30,duwelimo βa tolu,duwelimo βa tolu,[],,['chan2019'],,False,False,,1
+baki1244-1-40-1,,baki1244-1,40,duwelimo βa βeri,duwelimo βa βeri,[],,['chan2019'],,False,False,,1
+baki1244-1-50-1,,baki1244-1,50,duwelimo βa tʃima,duwelimo βa tʃima,[],,['chan2019'],,False,False,,1
+baki1244-1-60-1,,baki1244-1,60,duwelimo βa ari,duwelimo βa ari,[],,['chan2019'],,False,False,,1
+baki1244-1-70-1,,baki1244-1,70,duwelimo βa aluwo,duwelimo βa aluwo,[],,['chan2019'],,False,False,,1
+baki1244-1-80-1,,baki1244-1,80,duwelimo βa arolu,duwelimo βa arolu,[],,['chan2019'],,False,False,,1
+baki1244-1-90-1,,baki1244-1,90,duwelimo βa aβeri,duwelimo βa aβeri,[],,['chan2019'],,False,False,,1
+baki1244-1-100-1,,baki1244-1,100,duwelimo βa duwelimo,duwelimo βa duwelimo,[],( 10 x 10 ),['chan2019'],,False,False,,1
+baki1244-1-200-1,,baki1244-1,200,duwelimo toro-momou tʃuwo,duwelimo toro-momou tʃuwo,[],,['chan2019'],,False,False,,1
+baki1244-1-1000-1,,baki1244-1,1000,menu takurano,menu takurano,[],( < Polynesian ),['chan2019'],,True,False,,1
+baki1244-1-2000-1,,baki1244-1,2000,menu tʃuwo,menu tʃuwo,[],,['chan2019'],,False,False,,1

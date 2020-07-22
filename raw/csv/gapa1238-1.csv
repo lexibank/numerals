@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+gapa1238-1-1-1,,gapa1238-1,1,saɡo,saɡo,[],,['chan2019'],,False,False,,1
+gapa1238-1-2-1,,gapa1238-1,2,ruwa,ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-3-1,,gapa1238-1,3,aroba,aroba,[],,['chan2019'],,False,False,,1
+gapa1238-1-4-1,,gapa1238-1,4,ruwa ma ruwa,ruwa ma ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-5-1,,gapa1238-1,5,miikovi,miikovi,[],,['chan2019'],,False,False,,1
+gapa1238-1-5-2,,gapa1238-1,5,ima ikovi,ima ikovi,[],('hand finished'),['chan2019'],,False,False,,1
+gapa1238-1-6-1,,gapa1238-1,6,miikovi ma saɡo,miikovi ma saɡo,[],( 5 + 1 ),['chan2019'],,False,False,,1
+gapa1238-1-7-1,,gapa1238-1,7,miikovi ma ruwa,miikovi ma ruwa,[],( 5 + 2 ),['chan2019'],,False,False,,1
+gapa1238-1-8-1,,gapa1238-1,8,miikovi ma aroba,miikovi ma aroba,[],( 5 + 3 ),['chan2019'],,False,False,,1
+gapa1238-1-9-1,,gapa1238-1,9,miikovi ma ruwa ma ruwa,miikovi ma ruwa ma ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-10-1,,gapa1238-1,10,imaruwa,imaruwa,[],( litː 'two hands' ),['chan2019'],,False,False,,1
+gapa1238-1-11-1,,gapa1238-1,11,imaruwa ma saɡo,imaruwa ma saɡo,[],,['chan2019'],,False,False,,1
+gapa1238-1-12-1,,gapa1238-1,12,imaruwa ma ruwa,imaruwa ma ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-13-1,,gapa1238-1,13,imaruwa ma aroba,imaruwa ma aroba,[],,['chan2019'],,False,False,,1
+gapa1238-1-14-1,,gapa1238-1,14,imaruwa ma ruwa ma ruwa,imaruwa ma ruwa ma ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-15-1,,gapa1238-1,15,imaruwa ma kaena saɡo irabobo,imaruwa ma kaena saɡo irabobo,[],,['chan2019'],,False,False,,1
+gapa1238-1-16-1,,gapa1238-1,16,im. ma kaena saɡo irabobo,im. ma kaena saɡo irabobo,[],,['chan2019'],,False,True,,1
+gapa1238-1-17-1,,gapa1238-1,17,im. ma kaena saɡo irabobo ma saɡo,im. ma kaena saɡo irabobo ma saɡo,[],,['chan2019'],,False,True,,1
+gapa1238-1-18-1,,gapa1238-1,18,18 to 19 follow the same pattern,18 to 19 follow the same pattern,[],,['chan2019'],,False,True,,1
+gapa1238-1-20-1,,gapa1238-1,20,tomowina,tomowina,[],(litː 'one man' ),['chan2019'],,False,False,,1
+gapa1238-1-21-1,,gapa1238-1,21,tomowina ma saɡo,tomowina ma saɡo,[],,['chan2019'],,False,False,,1
+gapa1238-1-22-1,,gapa1238-1,22,tomowina ma ruwa,tomowina ma ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-23-1,,gapa1238-1,23,tomowina ma aroba,tomowina ma aroba,[],,['chan2019'],,False,False,,1
+gapa1238-1-24-1,,gapa1238-1,24,tomowina ma ruwa ma ruwa,tomowina ma ruwa ma ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-25-1,,gapa1238-1,25,25 to 29 follow the same pattern,25 to 29 follow the same pattern,[],,['chan2019'],,False,True,,1
+gapa1238-1-30-1,,gapa1238-1,30,tomowina ma imaruwa,tomowina ma imaruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-40-1,,gapa1238-1,40,tomowina ruwa,tomowina ruwa,[],(litː 'two persons' ),['chan2019'],,False,False,,1
+gapa1238-1-50-1,,gapa1238-1,50,tomowina ruwa ma imaruwa,tomowina ruwa ma imaruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-60-1,,gapa1238-1,60,tomowina aroba,tomowina aroba,[],,['chan2019'],,False,False,,1
+gapa1238-1-70-1,,gapa1238-1,70,tomowina aroba ma imaruwa,tomowina aroba ma imaruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-80-1,,gapa1238-1,80,tomowina ruwa ma ruwa,tomowina ruwa ma ruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-90-1,,gapa1238-1,90,tomowina ruwa ma ruwa ma imaruwa,tomowina ruwa ma ruwa ma imaruwa,[],,['chan2019'],,False,False,,1
+gapa1238-1-100-1,,gapa1238-1,100,tomowina miikovi,tomowina miikovi,[],(litː 'five persons' ),['chan2019'],,False,False,,1

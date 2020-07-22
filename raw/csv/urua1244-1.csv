@@ -1,0 +1,36 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+urua1244-1-1-1,,urua1244-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+urua1244-1-2-1,,urua1244-1,2,nua,nua,[],,['chan2019'],,False,False,,1
+urua1244-1-3-1,,urua1244-1,3,téni,téni,[],,['chan2019'],,False,False,,1
+urua1244-1-4-1,,urua1244-1,4,fat,fat,[],,['chan2019'],,False,False,,1
+urua1244-1-5-1,,urua1244-1,5,níma,níma,[],,['chan2019'],,False,False,,1
+urua1244-1-6-1,,urua1244-1,6,nem,nem,[],,['chan2019'],,False,False,,1
+urua1244-1-7-1,,urua1244-1,7,taransá,taransá,[],( 6+1 ),['chan2019'],,False,False,,1
+urua1244-1-8-1,,urua1244-1,8,terinúa,terinúa,[],( 6+2 ),['chan2019'],,False,False,,1
+urua1244-1-9-1,,urua1244-1,9,sapúti,sapúti,[],(10 - 1 ),['chan2019'],,False,False,,1
+urua1244-1-10-1,,urua1244-1,10,putʃá,putʃá,[],,['chan2019'],,False,False,,1
+urua1244-1-11-1,,urua1244-1,11,putça resinsa,putça resinsa,[],,['chan2019'],,False,False,,1
+urua1244-1-12-1,,urua1244-1,12,putça resinnua,putça resinnua,[],,['chan2019'],,False,False,,1
+urua1244-1-13-1,,urua1244-1,13,putça resinteni,putça resinteni,[],,['chan2019'],,False,False,,1
+urua1244-1-14-1,,urua1244-1,14,putça resinfat,putça resinfat,[],,['chan2019'],,False,False,,1
+urua1244-1-15-1,,urua1244-1,15,putça resinima,putça resinima,[],,['chan2019'],,False,False,,1
+urua1244-1-16-1,,urua1244-1,16,putça resinem,putça resinem,[],,['chan2019'],,False,False,,1
+urua1244-1-17-1,,urua1244-1,17,putça resintaransa,putça resintaransa,[],,['chan2019'],,False,False,,1
+urua1244-1-18-1,,urua1244-1,18,putça resinterinua,putça resinterinua,[],,['chan2019'],,False,False,,1
+urua1244-1-19-1,,urua1244-1,19,putça resinsaputi,putça resinsaputi,[],,['chan2019'],,False,False,,1
+urua1244-1-20-1,,urua1244-1,20,putinúa,putinúa,[],,['chan2019'],,False,False,,1
+urua1244-1-21-1,,urua1244-1,21,putinúa resinsa,putinúa resinsa,[],,['chan2019'],,False,False,,1
+urua1244-1-22-1,,urua1244-1,22,putinúa resinnua,putinúa resinnua,[],,['chan2019'],,False,False,,1
+urua1244-1-23-1,,urua1244-1,23,putinúa resinteni,putinúa resinteni,[],,['chan2019'],,False,False,,1
+urua1244-1-24-1,,urua1244-1,24,putinúa resinfat,putinúa resinfat,[],,['chan2019'],,False,False,,1
+urua1244-1-25-1,,urua1244-1,25,putinúa resinima,putinúa resinima,[],,['chan2019'],,False,False,,1
+urua1244-1-30-1,,urua1244-1,30,puteni,puteni,[],,['chan2019'],,False,False,,1
+urua1244-1-40-1,,urua1244-1,40,putifat,putifat,[],,['chan2019'],,False,False,,1
+urua1244-1-50-1,,urua1244-1,50,putinima,putinima,[],,['chan2019'],,False,False,,1
+urua1244-1-60-1,,urua1244-1,60,putinem,putinem,[],,['chan2019'],,False,False,,1
+urua1244-1-70-1,,urua1244-1,70,putaransa,putaransa,[],,['chan2019'],,False,False,,1
+urua1244-1-80-1,,urua1244-1,80,puterinua,puterinua,[],,['chan2019'],,False,False,,1
+urua1244-1-90-1,,urua1244-1,90,puterinsaputi,puterinsaputi,[],( probably wrong),['chan2019'],,False,False,,1
+urua1244-1-100-1,,urua1244-1,100,ra'ca,ra'ca,[],< Malay ,['chan2019'],,True,False,,1
+urua1244-1-200-1,,urua1244-1,200,rati nua,rati nua,[],,['chan2019'],,False,False,,1
+urua1244-1-1000-1,,urua1244-1,1000,ripi sa,ripi sa,[],< Malay ,['chan2019'],,True,False,,1

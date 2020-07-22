@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kele1257-5-1-1,,kele1257-5,1,nwúntù,nwúntù,[],,['chan2019'],,False,False,,1
+kele1257-5-2-1,,kele1257-5,2,bàbá,bàbá,[],,['chan2019'],,False,False,,1
+kele1257-5-3-1,,kele1257-5,3,bàlál,bàlál,[],(è),['chan2019'],,False,False,,1
+kele1257-5-4-1,,kele1257-5,4,bànáyì,bànáyì,[],,['chan2019'],,False,False,,1
+kele1257-5-5-1,,kele1257-5,5,bàtán,bàtán,[],,['chan2019'],,False,False,,1
+kele1257-5-6-1,,kele1257-5,6,bàtánnànwúntù,bàtánnànwúntù,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kele1257-5-7-1,,kele1257-5,7,bàtánnàbàbá,bàtánnàbàbá,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kele1257-5-8-1,,kele1257-5,8,bàtánnàbàlàl,bàtánnàbàlàl,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kele1257-5-9-1,,kele1257-5,9,bàtánnàbànáyì,bàtánnàbànáyì,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kele1257-5-10-1,,kele1257-5,10,dyúm,dyúm,[],(ù),['chan2019'],,False,False,,1
+kele1257-5-11-1,,kele1257-5,11,dyúmùnànwúntù,dyúmùnànwúntù,[],,['chan2019'],,False,False,,1
+kele1257-5-12-1,,kele1257-5,12,dyúmùnàbàbá,dyúmùnàbàbá,[],,['chan2019'],,False,False,,1
+kele1257-5-13-1,,kele1257-5,13,dyúmùnàbàlál,dyúmùnàbàlál,[],(è),['chan2019'],,False,False,,1
+kele1257-5-14-1,,kele1257-5,14,dyúmùnàbànáyì,dyúmùnàbànáyì,[],,['chan2019'],,False,False,,1
+kele1257-5-15-1,,kele1257-5,15,dyúmùnàbàtán,dyúmùnàbàtán,[],,['chan2019'],,False,False,,1
+kele1257-5-16-1,,kele1257-5,16,dyúmùnàbàtánnànwúntù,dyúmùnàbàtánnànwúntù,[],,['chan2019'],,False,False,,1
+kele1257-5-17-1,,kele1257-5,17,dyúmùnàbàtánnàbàbá,dyúmùnàbàtánnàbàbá,[],,['chan2019'],,False,False,,1
+kele1257-5-18-1,,kele1257-5,18,dyúmùnàbàtánnàbàlàl,dyúmùnàbàtánnàbàlàl,[],,['chan2019'],,False,False,,1
+kele1257-5-19-1,,kele1257-5,19,dyúmùnàbàtánnàbànáyì,dyúmùnàbàtánnàbànáyì,[],,['chan2019'],,False,False,,1
+kele1257-5-20-1,,kele1257-5,20,màbúmàbà,màbúmàbà,[],,['chan2019'],,False,False,,1
+kele1257-5-21-1,,kele1257-5,21,màbúmàbànànwúntù,màbúmàbànànwúntù,[],,['chan2019'],,False,False,,1
+kele1257-5-22-1,,kele1257-5,22,màbúmàbànàbàbá,màbúmàbànàbàbá,[],,['chan2019'],,False,False,,1
+kele1257-5-23-1,,kele1257-5,23,màbúmàbànàbàlál,màbúmàbànàbàlál,[],(è),['chan2019'],,False,False,,1
+kele1257-5-24-1,,kele1257-5,24,màbúmàbànàbànáyì,màbúmàbànàbànáyì,[],,['chan2019'],,False,False,,1
+kele1257-5-25-1,,kele1257-5,25,màbúmàbànàbàtán,màbúmàbànàbàtán,[],,['chan2019'],,False,False,,1
+kele1257-5-26-1,,kele1257-5,26,màbúmàbànàbàtánnànwúntù,màbúmàbànàbàtánnànwúntù,[],,['chan2019'],,False,False,,1
+kele1257-5-27-1,,kele1257-5,27,màbúmàbànàbàtánnàbàbá,màbúmàbànàbàtánnàbàbá,[],,['chan2019'],,False,False,,1
+kele1257-5-28-1,,kele1257-5,28,màbúmàbànàbàtánnàbàlàl,màbúmàbànàbàtánnàbàlàl,[],,['chan2019'],,False,False,,1
+kele1257-5-29-1,,kele1257-5,29,màbúmàbànàbàtánnàbànáyì,màbúmàbànàbàtánnàbànáyì,[],,['chan2019'],,False,False,,1
+kele1257-5-30-1,,kele1257-5,30,màbúmàlál,màbúmàlál,[],(è),['chan2019'],,False,False,,1
+kele1257-5-40-1,,kele1257-5,40,màbúmànáyì,màbúmànáyì,[],,['chan2019'],,False,False,,1
+kele1257-5-50-1,,kele1257-5,50,màbúmàtán,màbúmàtán,[],,['chan2019'],,False,False,,1
+kele1257-5-60-1,,kele1257-5,60,màbúmàtánnànwúntù,màbúmàtánnànwúntù,[],,['chan2019'],,False,False,,1
+kele1257-5-70-1,,kele1257-5,70,màbúmàtánnàmàbá,màbúmàtánnàmàbá,[],,['chan2019'],,False,False,,1
+kele1257-5-80-1,,kele1257-5,80,màbúmàtánnàmàlálì,màbúmàtánnàmàlálì,[],,['chan2019'],,False,False,,1
+kele1257-5-90-1,,kele1257-5,90,màbúmàtánnàmànáyì,màbúmàtánnàmànáyì,[],,['chan2019'],,False,False,,1
+kele1257-5-100-1,,kele1257-5,100,ŋkámà,ŋkámà,[],,['chan2019'],,False,False,,1
+kele1257-5-200-1,,kele1257-5,200,ŋkámà mbá,ŋkámà mbá,[],,['chan2019'],,False,False,,1

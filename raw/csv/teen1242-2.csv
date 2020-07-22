@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+teen1242-2-1-1,,teen1242-2,1,tani,tani,[],,['chan2019'],,False,False,,2
+teen1242-2-2-1,,teen1242-2,2,nyor,nyor,[],,['chan2019'],,False,False,,2
+teen1242-2-3-1,,teen1242-2,3,sanr,sanr,[],,['chan2019'],,False,False,,2
+teen1242-2-4-1,,teen1242-2,4,nan,nan,[],,['chan2019'],,False,False,,2
+teen1242-2-5-1,,teen1242-2,5,tɔ,tɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-6-1,,teen1242-2,6,tɔ tani,tɔ tani,[],( 5 + 1 ),['chan2019'],,False,False,,2
+teen1242-2-7-1,,teen1242-2,7,tɔ nyor,tɔ nyor,[],( 5 + 2 ),['chan2019'],,False,False,,2
+teen1242-2-8-1,,teen1242-2,8,tɔ sanr,tɔ sanr,[],( 5 + 3 ),['chan2019'],,False,False,,2
+teen1242-2-9-1,,teen1242-2,9,tan bal ˈpɔrwɔ,tan bal ˈpɔrwɔ,[],( 10 - 1 ) ?,['chan2019'],,False,False,,2
+teen1242-2-10-1,,teen1242-2,10,ˈpɔrwɔ,ˈpɔrwɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-11-1,,teen1242-2,11,ˈpɔrwɔ lɛ tani,ˈpɔrwɔ lɛ tani,[],,['chan2019'],,False,False,,2
+teen1242-2-12-1,,teen1242-2,12,ˈpɔrwɔ lɛ nyor,ˈpɔrwɔ lɛ nyor,[],,['chan2019'],,False,False,,2
+teen1242-2-13-1,,teen1242-2,13,ˈpɔrwɔ lɛ sanr,ˈpɔrwɔ lɛ sanr,[],,['chan2019'],,False,False,,2
+teen1242-2-14-1,,teen1242-2,14,ˈpɔrwɔ lɛ nan,ˈpɔrwɔ lɛ nan,[],,['chan2019'],,False,False,,2
+teen1242-2-15-1,,teen1242-2,15,ˈpɔrwɔ lɛ tɔ,ˈpɔrwɔ lɛ tɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-16-1,,teen1242-2,16,ˈpɔrwɔ lɛ tɔ tani,ˈpɔrwɔ lɛ tɔ tani,[],,['chan2019'],,False,False,,2
+teen1242-2-17-1,,teen1242-2,17,ˈpɔrwɔ lɛ tɔ nyor,ˈpɔrwɔ lɛ tɔ nyor,[],,['chan2019'],,False,False,,2
+teen1242-2-18-1,,teen1242-2,18,ˈpɔrwɔ lɛ tɔ sanr,ˈpɔrwɔ lɛ tɔ sanr,[],,['chan2019'],,False,False,,2
+teen1242-2-19-1,,teen1242-2,19,tan bal toko,tan bal toko,[],( 20 - 1 ),['chan2019'],,False,False,,2
+teen1242-2-20-1,,teen1242-2,20,toko,toko,[],,['chan2019'],,False,False,,2
+teen1242-2-21-1,,teen1242-2,21,toko lɛ tani,toko lɛ tani,[],,['chan2019'],,False,False,,2
+teen1242-2-22-1,,teen1242-2,22,toko lɛ nyor,toko lɛ nyor,[],,['chan2019'],,False,False,,2
+teen1242-2-23-1,,teen1242-2,23,toko lɛ sanr,toko lɛ sanr,[],,['chan2019'],,False,False,,2
+teen1242-2-24-1,,teen1242-2,24,toko lɛ nan,toko lɛ nan,[],,['chan2019'],,False,False,,2
+teen1242-2-25-1,,teen1242-2,25,toko lɛ tɔ,toko lɛ tɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-26-1,,teen1242-2,26,toko lɛ tɔ tani,toko lɛ tɔ tani,[],,['chan2019'],,False,False,,2
+teen1242-2-27-1,,teen1242-2,27,toko lɛ tɔ nyor,toko lɛ tɔ nyor,[],,['chan2019'],,False,False,,2
+teen1242-2-28-1,,teen1242-2,28,toko lɛ tɔ sanr,toko lɛ tɔ sanr,[],,['chan2019'],,False,False,,2
+teen1242-2-29-1,,teen1242-2,29,toko lɛ tamal ˈpɔrwɔ,toko lɛ tamal ˈpɔrwɔ,[],( 30 - 1 ) ?,['chan2019'],,False,False,,2
+teen1242-2-30-1,,teen1242-2,30,toko lɛ ˈpɔrwɔ,toko lɛ ˈpɔrwɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-40-1,,teen1242-2,40,toor nyor,toor nyor,[],,['chan2019'],,False,False,,2
+teen1242-2-40-2,,teen1242-2,40,tonyur,tonyur,[],( 20 x 2 ),['chan2019'],,False,False,,2
+teen1242-2-50-1,,teen1242-2,50,too nyur lɛ ˈpɔrwɔ,too nyur lɛ ˈpɔrwɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-60-1,,teen1242-2,60,too sanr,too sanr,[],( 20 x 3 ),['chan2019'],,False,False,,2
+teen1242-2-70-1,,teen1242-2,70,too sanr lɛ ˈpɔrwɔ,too sanr lɛ ˈpɔrwɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-80-1,,teen1242-2,80,too nan,too nan,[],( 20 x 4 ),['chan2019'],,False,False,,2
+teen1242-2-90-1,,teen1242-2,90,too nan lɛ ˈpɔrwɔ,too nan lɛ ˈpɔrwɔ,[],,['chan2019'],,False,False,,2
+teen1242-2-100-1,,teen1242-2,100,too tɔ,too tɔ,[],( 20 x 5 ),['chan2019'],,False,False,,2
+teen1242-2-200-1,,teen1242-2,200,nʊsɪ,nʊsɪ,[],,['chan2019'],,False,False,,2
+teen1242-2-200-2,,teen1242-2,200,nʊse,nʊse,[],,['chan2019'],,False,False,,2
+teen1242-2-200-3,,teen1242-2,200,300. nʊ san tɔ,300. nʊ san tɔ,[],,['chan2019'],,False,True,,2
+teen1242-2-400-1,,teen1242-2,400,bomi nyor,bomi nyor,[],,['chan2019'],,False,False,,2
+teen1242-2-400-2,,teen1242-2,400,1000.danyɛ,1000.danyɛ,[],,['chan2019'],,False,True,,2
+teen1242-2-2000-1,,teen1242-2,2000,dany nyor,dany nyor,[],,['chan2019'],,False,False,,2

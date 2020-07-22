@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mamb1306-1-1-1,,mamb1306-1,1,id,id,[],,['chan2019'],,False,False,,1
+mamb1306-1-2-1,,mamb1306-1,2,ɾua,ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-3-1,,mamb1306-1,3,tel,tel,[],,['chan2019'],,False,False,,1
+mamb1306-1-4-1,,mamb1306-1,4,pat,pat,[],,['chan2019'],,False,False,,1
+mamb1306-1-5-1,,mamb1306-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+mamb1306-1-6-1,,mamb1306-1,6,lim-nah-id,lim-nah-id,[],,['chan2019'],,False,False,,1
+mamb1306-1-6-2,,mamb1306-1,6,lim-nain-ide,lim-nain-ide,[],( 5 + 1 ),['chan2019'],,False,False,,1
+mamb1306-1-7-1,,mamb1306-1,7,lim-nah-ɾua,lim-nah-ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-7-2,,mamb1306-1,7,lim-nain-ɾua,lim-nain-ɾua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mamb1306-1-8-1,,mamb1306-1,8,lim-nah-tel,lim-nah-tel,[],,['chan2019'],,False,False,,1
+mamb1306-1-8-2,,mamb1306-1,8,lim-nain-telu,lim-nain-telu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mamb1306-1-9-1,,mamb1306-1,9,lim-nah-pat,lim-nah-pat,[],,['chan2019'],,False,False,,1
+mamb1306-1-9-2,,mamb1306-1,9,lim-nain-pata,lim-nain-pata,[],( 5 + 4 ),['chan2019'],,False,False,,1
+mamb1306-1-10-1,,mamb1306-1,10,sa'ɡul,sa'ɡul,[],,['chan2019'],,False,False,,1
+mamb1306-1-11-1,,mamb1306-1,11,sa'ɡul-ɾesi-kid,sa'ɡul-ɾesi-kid,[],,['chan2019'],,False,False,,1
+mamb1306-1-12-1,,mamb1306-1,12,sa'ɡul-ɾesi-ɾua,sa'ɡul-ɾesi-ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-13-1,,mamb1306-1,13,sa'ɡul-ɾesi-tel,sa'ɡul-ɾesi-tel,[],,['chan2019'],,False,False,,1
+mamb1306-1-14-1,,mamb1306-1,14,sa'ɡul-ɾesi-pat,sa'ɡul-ɾesi-pat,[],,['chan2019'],,False,False,,1
+mamb1306-1-15-1,,mamb1306-1,15,sa'ɡul-ɾesi-lim,sa'ɡul-ɾesi-lim,[],,['chan2019'],,False,False,,1
+mamb1306-1-16-1,,mamb1306-1,16,sa'ɡul-ɾesi-lim-nain-ide,sa'ɡul-ɾesi-lim-nain-ide,[],,['chan2019'],,False,False,,1
+mamb1306-1-17-1,,mamb1306-1,17,sa'ɡul-ɾesi-lim-nain-ɾua,sa'ɡul-ɾesi-lim-nain-ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-18-1,,mamb1306-1,18,sa'ɡul-ɾesi-lim-nain-telu,sa'ɡul-ɾesi-lim-nain-telu,[],,['chan2019'],,False,False,,1
+mamb1306-1-19-1,,mamb1306-1,19,sa'ɡul-ɾesi-lim-nain-pata,sa'ɡul-ɾesi-lim-nain-pata,[],,['chan2019'],,False,False,,1
+mamb1306-1-20-1,,mamb1306-1,20,(sa'ɡul-)hat-ɾua,(sa'ɡul-)hat-ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-21-1,,mamb1306-1,21,(sa'ɡul-)hat-ɾua-ɾesi-kid,(sa'ɡul-)hat-ɾua-ɾesi-kid,[],,['chan2019'],,False,False,,1
+mamb1306-1-22-1,,mamb1306-1,22,(sa'ɡul-)hat-ɾua-ɾesi-ɾua,(sa'ɡul-)hat-ɾua-ɾesi-ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-23-1,,mamb1306-1,23,(sa'ɡul-)hat-ɾua-ɾesi-tel,(sa'ɡul-)hat-ɾua-ɾesi-tel,[],,['chan2019'],,False,False,,1
+mamb1306-1-24-1,,mamb1306-1,24,(sa'ɡul-)hat-ɾua-ɾesi-pat,(sa'ɡul-)hat-ɾua-ɾesi-pat,[],,['chan2019'],,False,False,,1
+mamb1306-1-25-1,,mamb1306-1,25,(sa'ɡul-)hat-ɾua-ɾesi-lim,(sa'ɡul-)hat-ɾua-ɾesi-lim,[],,['chan2019'],,False,False,,1
+mamb1306-1-26-1,,mamb1306-1,26,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-ide,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-ide,[],,['chan2019'],,False,False,,1
+mamb1306-1-27-1,,mamb1306-1,27,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-ɾua,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-28-1,,mamb1306-1,28,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-telu,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-telu,[],,['chan2019'],,False,False,,1
+mamb1306-1-29-1,,mamb1306-1,29,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-pata,(sa'ɡul-)hat-ɾua-ɾesi-lim-nain-pata,[],,['chan2019'],,False,False,,1
+mamb1306-1-30-1,,mamb1306-1,30,(sa'ɡul-)hat-tel,(sa'ɡul-)hat-tel,[],,['chan2019'],,False,False,,1
+mamb1306-1-40-1,,mamb1306-1,40,(sa'ɡul-)hat-paːt,(sa'ɡul-)hat-paːt,[],,['chan2019'],,False,False,,1
+mamb1306-1-50-1,,mamb1306-1,50,(sa'ɡul-)hat-lim,(sa'ɡul-)hat-lim,[],,['chan2019'],,False,False,,1
+mamb1306-1-60-1,,mamb1306-1,60,(sa'ɡul-)hat-lim-nain-ide,(sa'ɡul-)hat-lim-nain-ide,[],,['chan2019'],,False,False,,1
+mamb1306-1-70-1,,mamb1306-1,70,(sa'ɡul-)hat-lim-nain-ɾua,(sa'ɡul-)hat-lim-nain-ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-80-1,,mamb1306-1,80,(sa'ɡul-)hat-lim-nain-telu,(sa'ɡul-)hat-lim-nain-telu,[],,['chan2019'],,False,False,,1
+mamb1306-1-90-1,,mamb1306-1,90,(sa'ɡul-)hat-lim-nain-pata,(sa'ɡul-)hat-lim-nain-pata,[],,['chan2019'],,False,False,,1
+mamb1306-1-100-1,,mamb1306-1,100,atus is,atus is,[],,['chan2019'],,False,False,,1
+mamb1306-1-200-1,,mamb1306-1,200,atus ɾua,atus ɾua,[],,['chan2019'],,False,False,,1
+mamb1306-1-1000-1,,mamb1306-1,1000,ɾihun id,ɾihun id,[],,['chan2019'],,False,False,,1
+mamb1306-1-2000-1,,mamb1306-1,2000,ɾihun ɾua,ɾihun ɾua,[],,['chan2019'],,False,False,,1

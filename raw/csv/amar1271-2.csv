@@ -1,0 +1,6 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+amar1271-2-1-1,,amar1271-2,1,yařbařan,yařbařan,[],,['chan2019'],,False,False,,2
+amar1271-2-2-1,,amar1271-2,2,iřulubuřuɡ,iřulubuřuɡ,[],,['chan2019'],,False,False,,2
+amar1271-2-3-1,,amar1271-2,3,alabuřuɡ,alabuřuɡ,[],,['chan2019'],,False,False,,2
+amar1271-2-4-1,,amar1271-2,4,iřulubuřuɡ iřulubuřuɡ,iřulubuřuɡ iřulubuřuɡ,[],( 2 + 2 ),['chan2019'],,False,False,,2
+amar1271-2-5-1,,amar1271-2,5,iřulubuřuɡ iřulubuřuɡ yařbařan,iřulubuřuɡ iřulubuřuɡ yařbařan,[],( 2 + 2 + 1),['chan2019'],,False,False,,2

@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bian1251-1-1-1,,bian1251-1,1,iska,iska,[],,['chan2019'],,False,False,,1
+bian1251-1-2-1,,bian1251-1,2,inah,inah,[],,['chan2019'],,False,False,,1
+bian1251-1-3-1,,bian1251-1,3,inaska,inaska,[],(2 + 1),['chan2019'],,False,False,,1
+bian1251-1-4-1,,bian1251-1,4,inahina,inahina,[],(2 + 2),['chan2019'],,False,False,,1
+bian1251-1-5-1,,bian1251-1,5,mbja-lay-saŋɡa,mbja-lay-saŋɡa,[],(litː 'all-side-hand'),['chan2019'],,False,False,,1
+bian1251-1-6-1,,bian1251-1,6,mbja laɣ-saŋɡa-iska,mbja laɣ-saŋɡa-iska,[],(litː 'side-hand+1'),['chan2019'],,False,False,,1
+bian1251-1-7-1,,bian1251-1,7,mbja laɣ-saŋɡa-inah,mbja laɣ-saŋɡa-inah,[],(litː 'side-hand+2'),['chan2019'],,False,False,,1
+bian1251-1-8-1,,bian1251-1,8,mbja laɣ-saŋɡa-inaska,mbja laɣ-saŋɡa-inaska,[],(litː 'side-hand+3'),['chan2019'],,False,False,,1
+bian1251-1-9-1,,bian1251-1,9,mbja laɣ-saŋɡa-inahina,mbja laɣ-saŋɡa-inahina,[],(litː 'side-hand+4'),['chan2019'],,False,False,,1
+bian1251-1-10-1,,bian1251-1,10,saŋɡa-balen,saŋɡa-balen,[],(litː 'hand-finish'),['chan2019'],,False,False,,1
+bian1251-1-11-1,,bian1251-1,11,tekam-iska,tekam-iska,[],(litː 'foot+1'),['chan2019'],,False,False,,1
+bian1251-1-12-1,,bian1251-1,12,tekam-inah,tekam-inah,[],(litː 'foot+2'),['chan2019'],,False,False,,1
+bian1251-1-13-1,,bian1251-1,13,tekam-inaska,tekam-inaska,[],(litː 'foot+3'),['chan2019'],,False,False,,1
+bian1251-1-14-1,,bian1251-1,14,tekam-inahina,tekam-inahina,[],(litː 'foot+4'),['chan2019'],,False,False,,1
+bian1251-1-15-1,,bian1251-1,15,mbja-laɣ-tekam,mbja-laɣ-tekam,[],(litː 'all-side-foot'),['chan2019'],,False,False,,1
+bian1251-1-16-1,,bian1251-1,16,mbja laɣ-tekam-iska,mbja laɣ-tekam-iska,[],(litː 'side-foot+1'),['chan2019'],,False,False,,1
+bian1251-1-17-1,,bian1251-1,17,mbja laɣ-tekam-inah,mbja laɣ-tekam-inah,[],(litː 'side-foot+2'),['chan2019'],,False,False,,1
+bian1251-1-18-1,,bian1251-1,18,mbja laɣ-tekam-inaska,mbja laɣ-tekam-inaska,[],(litː 'side-foot+3'),['chan2019'],,False,False,,1
+bian1251-1-19-1,,bian1251-1,19,mbja laɣ-tekam-inahina,mbja laɣ-tekam-inahina,[],(litː 'side-foot+4'),['chan2019'],,False,False,,1
+bian1251-1-20-1,,bian1251-1,20,tekam-balen,tekam-balen,[],(litː 'foot-finish'),['chan2019'],,False,False,,1

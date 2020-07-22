@@ -1,0 +1,15 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+fyer1241-1-1-1,,fyer1241-1,1,kàl,kàl,[],,['chan2019'],,False,False,,1
+fyer1241-1-2-1,,fyer1241-1,2,vȁɖ ́,vȁɖ ́,[],,['chan2019'],,False,False,,1
+fyer1241-1-3-1,,fyer1241-1,3,wìtà,wìtà,[],,['chan2019'],,False,False,,1
+fyer1241-1-4-1,,fyer1241-1,4,sɔ̀,sɔ̀,[],,['chan2019'],,False,False,,1
+fyer1241-1-5-1,,fyer1241-1,5,mì,mì,[],,['chan2019'],,False,False,,1
+fyer1241-1-6-1,,fyer1241-1,6,sítè,sítè,[],( < Arabic),['chan2019'],,True,False,,1
+fyer1241-1-7-1,,fyer1241-1,7,sábà,sábà,[],( < Arabic),['chan2019'],,True,False,,1
+fyer1241-1-8-1,,fyer1241-1,8,tàmáɲnà,tàmáɲnà,[],< Arabic ,['chan2019'],,True,False,,1
+fyer1241-1-9-1,,fyer1241-1,9,tísà,tísà,[],( < Arabic),['chan2019'],,True,False,,1
+fyer1241-1-10-1,,fyer1241-1,10,dɔ̀ɡ ̏,dɔ̀ɡ ̏,[],,['chan2019'],,False,False,,1
+fyer1241-1-11-1,,fyer1241-1,11,dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl,dɔ̀ɡ ̏.(s̀.)kɔ́s.kàl,[],{ten.(?.)?.one},['chan2019'],,False,False,,1
+fyer1241-1-12-1,,fyer1241-1,12,dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́,dɔ̀ɡ ̏.(s̀.)kɔ́s.vȁɖ ́,[],{ten.(?.)?.two},['chan2019'],,False,False,,1
+fyer1241-1-20-1,,fyer1241-1,20,dɔ̀ɡ ̏.vȁɖ,dɔ̀ɡ ̏.vȁɖ,[],( ten. two ),['chan2019'],,False,False,,1
+fyer1241-1-100-1,,fyer1241-1,100,dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏,dɔ̀ɡ ̏.(s̀.)kɔ́s.dɔ̀ɡ ̏,[],{ten.(?.) ?. ten},['chan2019'],,False,False,,1

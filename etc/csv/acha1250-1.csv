@@ -1,0 +1,12 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+acha1250-1-1-1,,acha1250-1,1,áabai,áabai,[],,['chan2019'],,False,False,,1
+acha1250-1-2-1,,acha1250-1,2,cháamai,cháamai,[],( ch = tʃ),['chan2019'],,False,False,,1
+acha1250-1-3-1,,acha1250-1,3,matáli,matáli,[],,['chan2019'],,False,False,,1
+acha1250-1-3-2,,acha1250-1,3,tres,tres,[],< Spanish ,['chan2019'],,True,False,,1
+acha1250-1-4-1,,acha1250-1,4,cuátru,cuátru,[],< Spanish,['chan2019'],,True,False,,1
+acha1250-1-5-1,,acha1250-1,5,síincu,síincu,[],< Spanish,['chan2019'],,True,False,,1
+acha1250-1-6-1,,acha1250-1,6,sáis,sáis,[],< Spanish,['chan2019'],,True,False,,1
+acha1250-1-7-1,,acha1250-1,7,siete,siete,[],< Spanish,['chan2019'],,True,False,,1
+acha1250-1-8-1,,acha1250-1,8,ocho,ocho,[],< Spanish,['chan2019'],,True,False,,1
+acha1250-1-9-1,,acha1250-1,9,nuébe,nuébe,[],< Spanish,['chan2019'],,True,False,,1
+acha1250-1-10-1,,acha1250-1,10,diési,diési,[],< Spanish (use Spanish numerals completely),['chan2019'],,True,False,,1

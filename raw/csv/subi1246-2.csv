@@ -1,0 +1,19 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+subi1246-2-1-1,,subi1246-2,1,-mwina,-mwina,[],,['chan2019'],,False,False,,2
+subi1246-2-2-1,,subi1246-2,2,-óbele,-óbele,[],,['chan2019'],,False,False,,2
+subi1246-2-3-1,,subi1246-2,3,-ótatwe,-ótatwe,[],,['chan2019'],,False,False,,2
+subi1246-2-4-1,,subi1246-2,4,-óne,-óne,[],,['chan2019'],,False,False,,2
+subi1246-2-5-1,,subi1246-2,5,-keteeyáánza,-keteeyáánza,[],( 'iyáánza' means 'hand'),['chan2019'],,False,False,,2
+subi1246-2-6-1,,subi1246-2,6,-keteeyáánza ni kámwina,-keteeyáánza ni kámwina,[],( 5 + 1 ),['chan2019'],,False,False,,2
+subi1246-2-7-1,,subi1246-2,7,-keteeyáánza ni tóbele,-keteeyáánza ni tóbele,[],( 5 + 2 ),['chan2019'],,False,False,,2
+subi1246-2-8-1,,subi1246-2,8,-keteeyáánza ni tótatwe,-keteeyáánza ni tótatwe,[],( 5 + 3 ),['chan2019'],,False,False,,2
+subi1246-2-9-1,,subi1246-2,9,-keteeyáánza ni tóne,-keteeyáánza ni tóne,[],( 5 + 4 ),['chan2019'],,False,False,,2
+subi1246-2-10-1,,subi1246-2,10,íkumi,íkumi,[],,['chan2019'],,False,False,,2
+subi1246-2-11-1,,subi1246-2,11,íkumi ni kámwina,íkumi ni kámwina,[],,['chan2019'],,False,False,,2
+subi1246-2-12-1,,subi1246-2,12,íkumi ni tóbele,íkumi ni tóbele,[],,['chan2019'],,False,False,,2
+subi1246-2-13-1,,subi1246-2,13,íkumi ni tótatwe,íkumi ni tótatwe,[],,['chan2019'],,False,False,,2
+subi1246-2-20-1,,subi1246-2,20,mákumi óbele,mákumi óbele,[],,['chan2019'],,False,False,,2
+subi1246-2-30-1,,subi1246-2,30,mákumi tótatwe,mákumi tótatwe,[],,['chan2019'],,False,False,,2
+subi1246-2-40-1,,subi1246-2,40,mákumi óne,mákumi óne,[],,['chan2019'],,False,False,,2
+subi1246-2-100-1,,subi1246-2,100,mwáànda,mwáànda,[],,['chan2019'],,False,False,,2
+subi1246-2-100-2,,subi1246-2,100,-cita-mwáàda,-cita-mwáàda,[],,['chan2019'],,False,False,,2

@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+opuu1239-3-1-1,,opuu1239-3,1,ɗj́ɗɛ̄n~dɛ̄,ɗj́ɗɛ̄n,[],,['chan2019'],,False,False,,3
+opuu1239-3-1-2,,opuu1239-3,1,ɗj́ɗɛ̄n~dɛ̄,dɛ̄,[],(contraction),['chan2019'],,False,False,,3
+opuu1239-3-2-1,,opuu1239-3,2,sʊ̄kʼá,sʊ̄kʼá,[],,['chan2019'],,False,False,,3
+opuu1239-3-3-1,,opuu1239-3,3,tùsù,tùsù,[],,['chan2019'],,False,False,,3
+opuu1239-3-4-1,,opuu1239-3,4,ʍàn,ʍàn,[],,['chan2019'],,False,False,,3
+opuu1239-3-5-1,,opuu1239-3,5,mùtʰa̋-kʼʊ̄j,mùtʰa̋-kʼʊ̄j,[],(litː 'be.full-hand' ),['chan2019'],,False,False,,3
+opuu1239-3-6-1,,opuu1239-3,6,kʰán-dɛ̄,kʰán-dɛ̄,[],(contraction),['chan2019'],,False,False,,3
+opuu1239-3-7-1,,opuu1239-3,7,kʰān-ɪ́-sʊ̄kʼá,kʰān-ɪ́-sʊ̄kʼá,[],(litː 'five-ASC-two'),['chan2019'],,False,False,,3
+opuu1239-3-8-1,,opuu1239-3,8,kʰān-ɪ́-tùsù,kʰān-ɪ́-tùsù,[],(litː' five-ASC-three'),['chan2019'],,False,False,,3
+opuu1239-3-9-1,,opuu1239-3,9,kʰān-ɪ́-ʍàn,kʰān-ɪ́-ʍàn,[],(litː 'five-ASC-four'),['chan2019'],,False,False,,3
+opuu1239-3-10-1,,opuu1239-3,10,kʼʊ̄j-ā-sʊ̄kʼɛ́n,kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː 'hand-SOURCE- two-3N.POSS'),['chan2019'],,False,False,,3
+opuu1239-3-11-1,,opuu1239-3,11,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ɗj́ān,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ɗj́ān,[],(hand- SOURCE-two-3N.POSS have head one),['chan2019'],,False,False,,3
+opuu1239-3-12-1,,opuu1239-3,12,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p sʊ̄kʼá,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p sʊ̄kʼá,[],(hand- SOURCE-two-3N.POSS have head two),['chan2019'],,False,False,,3
+opuu1239-3-13-1,,opuu1239-3,13,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p tùsù,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p tùsù,[],(hand- SOURCE-two-3N.POSS have head three),['chan2019'],,False,False,,3
+opuu1239-3-14-1,,opuu1239-3,14,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ʍàn,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p ʍàn,[],(hand- SOURCE-two-3N.POSS have head four),['chan2019'],,False,False,,3
+opuu1239-3-15-1,,opuu1239-3,15,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p mùtʰa̋-kʼʊ̄j,[],(hand SOURCE-two-3N.POSS have head be.full-hand),['chan2019'],,False,False,,3
+opuu1239-3-16-1,,opuu1239-3,16,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ɗjān,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ɗjān,[],(hand-SOURCE-two-3N.POSS have head five-ASC-one),['chan2019'],,False,False,,3
+opuu1239-3-17-1,,opuu1239-3,17,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-sʊ̄kʼá,[],(hand-SOURCE-two-3N.POSS have head five-ASC-two),['chan2019'],,False,False,,3
+opuu1239-3-18-1,,opuu1239-3,18,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(hand-SOURCE-two-3N.POSS have head five-ASC-three),['chan2019'],,False,False,,3
+opuu1239-3-19-1,,opuu1239-3,19,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,kʼʊ̄j-ā-sʊ̄kʼɛ́n kɔ̀t kʼʊ́p kʰān-ɪ́-ʍàn,[],(hand-SOURCE-two-3N.POSS have head five-ASC-four),['chan2019'],,False,False,,3
+opuu1239-3-20-1,,opuu1239-3,20,ɛ̄s-í-bì-sʊ̄kʼá,ɛ̄s-í-bì-sʊ̄kʼá,[],(litː 'body-ASC-PL-two'),['chan2019'],,False,False,,3
+opuu1239-3-21-1,,opuu1239-3,21,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-ɗj́ān,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-ɗj́ān,[],(litː 'body-ASC-PL-two COM ORD-one'),['chan2019'],,False,False,,3
+opuu1239-3-22-1,,opuu1239-3,22,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-sʊ̄kʼa,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-sʊ̄kʼa,[],(litː 'body-ASC-PL-two COM ORD-two'),['chan2019'],,False,False,,3
+opuu1239-3-23-1,,opuu1239-3,23,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-tùsù,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-tùsù,[],(litː 'body-ASC-PL-two COM ORD-three'),['chan2019'],,False,False,,3
+opuu1239-3-24-1,,opuu1239-3,24,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-ʍàn,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-ʍàn,[],(litː 'body-ASC-PL-two COM ORD-four'),['chan2019'],,False,False,,3
+opuu1239-3-25-1,,opuu1239-3,25,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-mùtʰa̋-kʼʊ̄j,ɛ̄s-í-bì-sʊ̄kʼá-ɗj́ān ɡʊ̄ ɪ̄-mùtʰa̋-kʼʊ̄j,[],(litː 'body-ASC-PL-two COM ORD-be.full- hand'),['chan2019'],,False,False,,3
+opuu1239-3-26-1,,opuu1239-3,26,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-ɗjān,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-ɗjān,[],(litː 'body-ASC-PL-two COM ORD-five- ASC-one'),['chan2019'],,False,False,,3
+opuu1239-3-27-1,,opuu1239-3,27,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-sʊ̄kʼá,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-sʊ̄kʼá,[],(litː 'body-ASC-PL-two COM ORD-five- ASC-two'),['chan2019'],,False,False,,3
+opuu1239-3-28-1,,opuu1239-3,28,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-tùsù,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-tùsù,[],(litː 'body-ASC-PL-two COM ORD-five- ASC-three'),['chan2019'],,False,False,,3
+opuu1239-3-29-1,,opuu1239-3,29,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-ʍàn,ɛ̄s-í-bì-sʊ̄kʼá-ɡʊ̄ ɪ̄-kʰān-ɪ́-ʍàn,[],(litː 'body-ASC-PL-three COM ORD-five- ASC-four'),['chan2019'],,False,False,,3
+opuu1239-3-30-1,,opuu1239-3,30,ɛ̄s-í-bì-tùsù,ɛ̄s-í-bì-tùsù,[],(litː 'body-ASC-PL-three'),['chan2019'],,False,False,,3
+opuu1239-3-40-1,,opuu1239-3,40,ɛ̄s-í-bì-ʍàn,ɛ̄s-í-bì-ʍàn,[],(litː 'body-ASC-PL-four'),['chan2019'],,False,False,,3
+opuu1239-3-50-1,,opuu1239-3,50,ɛ̄s-í-bì-sūkʼá mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,ɛ̄s-í-bì-sūkʼá mùtʰa̋-kʼʊ̄j-ā-sʊ̄kʼɛ́n,[],(litː 'body-ASC-PL-five'),['chan2019'],,False,False,,3
+opuu1239-3-60-1,,opuu1239-3,60,ɛ̄s-í-bì-kʰān-ɪ́-ɗjān,ɛ̄s-í-bì-kʰān-ɪ́-ɗjān,[],(litː 'body-ASC-PL-five-ASC-one'),['chan2019'],,False,False,,3
+opuu1239-3-70-1,,opuu1239-3,70,ɛ̄s-í-bì-kʰān-ɪ́-sʊ̄kʼá,ɛ̄s-í-bì-kʰān-ɪ́-sʊ̄kʼá,[],(litː 'body-ASC-PL-five-ASC-two'),['chan2019'],,False,False,,3
+opuu1239-3-80-1,,opuu1239-3,80,ɛ̄s-í-bì-kʰān-ɪ́-tùsù,ɛ̄s-í-bì-kʰān-ɪ́-tùsù,[],(litː 'body-ASC-PL-five-ASC-three'),['chan2019'],,False,False,,3
+opuu1239-3-90-1,,opuu1239-3,90,ɛ̄s-í-bì-kʰān-ɪ́-ʍàn,ɛ̄s-í-bì-kʰān-ɪ́-ʍàn,[],(litː 'body-ASC-PL-five-ASC-four'),['chan2019'],,False,False,,3
+opuu1239-3-100-1,,opuu1239-3,100,ɛ̄s-í-bì-mùtʰa̋-kʼʊ̄j-ɛ́n,ɛ̄s-í-bì-mùtʰa̋-kʼʊ̄j-ɛ́n,[],(litː 'body-ASC-PL-be.full-hand-SOURCE- two-3N.POSS),['chan2019'],,False,False,,3
+opuu1239-3-100-2,,opuu1239-3,100,ɗɪ́bà ɗj́ān,ɗɪ́bà ɗj́ān,[],(Oromo borrowing),['chan2019'],,True,False,,3
+opuu1239-3-200-1,,opuu1239-3,200,ɗɪ́bà sʊ̄kʼa,ɗɪ́bà sʊ̄kʼa,[],(Oromo borrowing),['chan2019'],,True,False,,3
+opuu1239-3-1000-1,,opuu1239-3,1000,kàlkʼàtʼí,kàlkʼàtʼí,[],(Oromo borrowing) (thousand),['chan2019'],,True,False,,3
+opuu1239-3-2000-1,,opuu1239-3,2000,kàlkʼàtʼí sʊ̄kʼá,kàlkʼàtʼí sʊ̄kʼá,[],(Oromo borrowing) (hundred-two),['chan2019'],,True,False,,3

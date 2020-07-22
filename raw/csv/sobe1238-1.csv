@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sobe1238-1-1-1,,sobe1238-1,1,tes,tes,[],,['chan2019'],,False,False,,1
+sobe1238-1-2-1,,sobe1238-1,2,daidu,daidu,[],,['chan2019'],,False,False,,1
+sobe1238-1-3-1,,sobe1238-1,3,tou,tou,[],,['chan2019'],,False,False,,1
+sobe1238-1-4-1,,sobe1238-1,4,fau,fau,[],,['chan2019'],,False,False,,1
+sobe1238-1-5-1,,sobe1238-1,5,dim,dim,[],,['chan2019'],,False,False,,1
+sobe1238-1-6-1,,sobe1238-1,6,dimtes,dimtes,[],( 5+1 ),['chan2019'],,False,False,,1
+sobe1238-1-7-1,,sobe1238-1,7,dimdaidu,dimdaidu,[],( 5+2 ),['chan2019'],,False,False,,1
+sobe1238-1-8-1,,sobe1238-1,8,dimtou,dimtou,[],( 5+3 ),['chan2019'],,False,False,,1
+sobe1238-1-9-1,,sobe1238-1,9,dimfau,dimfau,[],( 5+4 ),['chan2019'],,False,False,,1
+sobe1238-1-10-1,,sobe1238-1,10,snafut,snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-11-1,,sobe1238-1,11,snafut tes,snafut tes,[],,['chan2019'],,False,False,,1
+sobe1238-1-12-1,,sobe1238-1,12,snafut daidu,snafut daidu,[],,['chan2019'],,False,False,,1
+sobe1238-1-13-1,,sobe1238-1,13,snafut tou,snafut tou,[],,['chan2019'],,False,False,,1
+sobe1238-1-14-1,,sobe1238-1,14,snafut fau,snafut fau,[],,['chan2019'],,False,False,,1
+sobe1238-1-15-1,,sobe1238-1,15,snafut dim,snafut dim,[],,['chan2019'],,False,False,,1
+sobe1238-1-16-1,,sobe1238-1,16,snafut dimtes,snafut dimtes,[],,['chan2019'],,False,False,,1
+sobe1238-1-17-1,,sobe1238-1,17,snafut dimdaidu,snafut dimdaidu,[],,['chan2019'],,False,False,,1
+sobe1238-1-18-1,,sobe1238-1,18,snafut dimtou,snafut dimtou,[],,['chan2019'],,False,False,,1
+sobe1238-1-19-1,,sobe1238-1,19,snafut dimfau,snafut dimfau,[],,['chan2019'],,False,False,,1
+sobe1238-1-20-1,,sobe1238-1,20,daidu snafut,daidu snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-21-1,,sobe1238-1,21,daidu snafut tes,daidu snafut tes,[],,['chan2019'],,False,False,,1
+sobe1238-1-22-1,,sobe1238-1,22,daidu snafut daidu,daidu snafut daidu,[],,['chan2019'],,False,False,,1
+sobe1238-1-23-1,,sobe1238-1,23,daidu snafut tou,daidu snafut tou,[],,['chan2019'],,False,False,,1
+sobe1238-1-24-1,,sobe1238-1,24,daidu snafut fau,daidu snafut fau,[],,['chan2019'],,False,False,,1
+sobe1238-1-25-1,,sobe1238-1,25,daidu snafut dim,daidu snafut dim,[],,['chan2019'],,False,False,,1
+sobe1238-1-26-1,,sobe1238-1,26,daidu snafut dimtes,daidu snafut dimtes,[],,['chan2019'],,False,False,,1
+sobe1238-1-27-1,,sobe1238-1,27,daidu snafut dimdaidu,daidu snafut dimdaidu,[],,['chan2019'],,False,False,,1
+sobe1238-1-28-1,,sobe1238-1,28,daidu snafut dimtou,daidu snafut dimtou,[],,['chan2019'],,False,False,,1
+sobe1238-1-29-1,,sobe1238-1,29,daidu snafut dimfau,daidu snafut dimfau,[],,['chan2019'],,False,False,,1
+sobe1238-1-30-1,,sobe1238-1,30,tou snafut,tou snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-40-1,,sobe1238-1,40,fau snafut,fau snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-50-1,,sobe1238-1,50,dim snafut,dim snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-60-1,,sobe1238-1,60,dimtes snafut,dimtes snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-70-1,,sobe1238-1,70,dimdaidu snafut,dimdaidu snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-80-1,,sobe1238-1,80,dimtou snafut,dimtou snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-90-1,,sobe1238-1,90,dimfau snafut,dimfau snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-100-1,,sobe1238-1,100,snafut wero snafut,snafut wero snafut,[],( 10 x 10 ),['chan2019'],,False,False,,1
+sobe1238-1-200-1,,sobe1238-1,200,daidu snafut snafut,daidu snafut snafut,[],,['chan2019'],,False,False,,1
+sobe1238-1-1000-1,,sobe1238-1,1000,tes snafut snafut wero,tes snafut snafut wero,[],,['chan2019'],,False,False,,1
+sobe1238-1-2000-1,,sobe1238-1,2000,daidu snafut snafut wero,daidu snafut snafut wero,[],,['chan2019'],,False,False,,1

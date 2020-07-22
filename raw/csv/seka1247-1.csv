@@ -1,0 +1,35 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+seka1247-1-1-1,,seka1247-1,1,sa,sa,[],,['chan2019'],,False,False,,1
+seka1247-1-1-2,,seka1247-1,1,isáʔ,isáʔ,[],,['chan2019'],,False,False,,1
+seka1247-1-2-1,,seka1247-1,2,nua,nua,[],,['chan2019'],,False,False,,1
+seka1247-1-3-1,,seka1247-1,3,teni,teni,[],,['chan2019'],,False,False,,1
+seka1247-1-4-1,,seka1247-1,4,fat,fat,[],,['chan2019'],,False,False,,1
+seka1247-1-5-1,,seka1247-1,5,nima,nima,[],,['chan2019'],,False,False,,1
+seka1247-1-6-1,,seka1247-1,6,nema,nema,[],,['chan2019'],,False,False,,1
+seka1247-1-6-2,,seka1247-1,6,nɛm,nɛm,[],,['chan2019'],,False,False,,1
+seka1247-1-7-1,,seka1247-1,7,buteres,buteres,[],,['chan2019'],,False,False,,1
+seka1247-1-7-2,,seka1247-1,7,buteras,buteras,[],( 6+1 ),['chan2019'],,False,False,,1
+seka1247-1-8-1,,seka1247-1,8,buturua,buturua,[],,['chan2019'],,False,False,,1
+seka1247-1-8-2,,seka1247-1,8,bete'rua,bete'rua,[],( 6+2 ),['chan2019'],,False,False,,1
+seka1247-1-9-1,,seka1247-1,9,masbuti,masbuti,[],,['chan2019'],,False,False,,1
+seka1247-1-10-1,,seka1247-1,10,busuwa,busuwa,[],,['chan2019'],,False,False,,1
+seka1247-1-10-2,,seka1247-1,10,busu'a,busu'a,[],,['chan2019'],,False,False,,1
+seka1247-1-11-1,,seka1247-1,11,busuwa resi sa,busuwa resi sa,[],,['chan2019'],,False,False,,1
+seka1247-1-12-1,,seka1247-1,12,busuwa resi nua,busuwa resi nua,[],,['chan2019'],,False,False,,1
+seka1247-1-13-1,,seka1247-1,13,busuwa resi teni,busuwa resi teni,[],,['chan2019'],,False,False,,1
+seka1247-1-14-1,,seka1247-1,14,busuwa resi fat,busuwa resi fat,[],,['chan2019'],,False,False,,1
+seka1247-1-15-1,,seka1247-1,15,busuwa resi nima,busuwa resi nima,[],,['chan2019'],,False,False,,1
+seka1247-1-16-1,,seka1247-1,16,busuwa resi nɛm,busuwa resi nɛm,[],,['chan2019'],,False,False,,1
+seka1247-1-17-1,,seka1247-1,17,busuwa resi tařasá,busuwa resi tařasá,[],,['chan2019'],,False,False,,1
+seka1247-1-18-1,,seka1247-1,18,busuwa resi tařanua,busuwa resi tařanua,[],,['chan2019'],,False,False,,1
+seka1247-1-19-1,,seka1247-1,19,busuwa resi səputih,busuwa resi səputih,[],,['chan2019'],,False,False,,1
+seka1247-1-20-1,,seka1247-1,20,tumate sa,tumate sa,[],( litː 'man one'),['chan2019'],,False,False,,1
+seka1247-1-30-1,,seka1247-1,30,tumate sa busawa,tumate sa busawa,[],,['chan2019'],,False,False,,1
+seka1247-1-40-1,,seka1247-1,40,tumate nua,tumate nua,[],( 20 x 2 ),['chan2019'],,False,False,,1
+seka1247-1-50-1,,seka1247-1,50,tumate nua busawa,tumate nua busawa,[],,['chan2019'],,False,False,,1
+seka1247-1-60-1,,seka1247-1,60,tumate teni,tumate teni,[],( 20 x 3 ),['chan2019'],,False,False,,1
+seka1247-1-70-1,,seka1247-1,70,tumate teni busawa,tumate teni busawa,[],,['chan2019'],,False,False,,1
+seka1247-1-80-1,,seka1247-1,80,tumate fat,tumate fat,[],( 20 x 4 ),['chan2019'],,False,False,,1
+seka1247-1-90-1,,seka1247-1,90,tumate fatbusawa,tumate fatbusawa,[],,['chan2019'],,False,False,,1
+seka1247-1-100-1,,seka1247-1,100,ratisa,ratisa,[],,['chan2019'],,False,False,,1
+seka1247-1-1000-1,,seka1247-1,1000,ripisa,ripisa,[],,['chan2019'],,False,False,,1

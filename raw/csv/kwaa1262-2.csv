@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kwaa1262-2-1-1,,kwaa1262-2,1,nə́ nkú,nə́ nkú,[],,['chan2019'],,False,False,,2
+kwaa1262-2-2-1,,kwaa1262-2,2,nə́ ɡbéè,nə́ ɡbéè,[],,['chan2019'],,False,False,,2
+kwaa1262-2-3-1,,kwaa1262-2,3,nə mwáàn,nə mwáàn,[],,['chan2019'],,False,False,,2
+kwaa1262-2-4-1,,kwaa1262-2,4,nə̀ nàt,nə̀ nàt,[],,['chan2019'],,False,False,,2
+kwaa1262-2-5-1,,kwaa1262-2,5,nə núú,nə núú,[],,['chan2019'],,False,False,,2
+kwaa1262-2-6-1,,kwaa1262-2,6,nə nwíya kũ̀,nə nwíya kũ̀,[],,['chan2019'],,False,False,,2
+kwaa1262-2-6-2,,kwaa1262-2,6,nə nwíyá nùkũ̀,nə nwíyá nùkũ̀,[],( 5+1),['chan2019'],,False,False,,2
+kwaa1262-2-7-1,,kwaa1262-2,7,nə nwíyá ɡbéè,nə nwíyá ɡbéè,[],( 5+ 2 ),['chan2019'],,False,False,,2
+kwaa1262-2-8-1,,kwaa1262-2,8,fɔ̀fɔ̀t,fɔ̀fɔ̀t,[],,['chan2019'],,False,False,,2
+kwaa1262-2-9-1,,kwaa1262-2,9,nukút lánùkù,nukút lánùkù,[],( 10 - 1 ),['chan2019'],,False,False,,2
+kwaa1262-2-10-1,,kwaa1262-2,10,nukút,nukút,[],,['chan2019'],,False,False,,2
+kwaa1262-2-11-1,,kwaa1262-2,11,nukút ál núkù,nukút ál núkù,[],,['chan2019'],,False,False,,2
+kwaa1262-2-15-1,,kwaa1262-2,15,níŋɡbàà,níŋɡbàà,[],,['chan2019'],,False,False,,2
+kwaa1262-2-20-1,,kwaa1262-2,20,kánũ̀kũ̀,kánũ̀kũ̀,[],,['chan2019'],,False,False,,2
+kwaa1262-2-40-1,,kwaa1262-2,40,kã̂ ɡbéè,kã̂ ɡbéè,[],( 20 x 2 ),['chan2019'],,False,False,,2
+kwaa1262-2-60-1,,kwaa1262-2,60,kã̂ mwáàn,kã̂ mwáàn,[],( 20 x 3 ),['chan2019'],,False,False,,2
+kwaa1262-2-80-1,,kwaa1262-2,80,kã̂ nàt,kã̂ nàt,[],( 20 x 4 ),['chan2019'],,False,False,,2
+kwaa1262-2-100-1,,kwaa1262-2,100,kã̂ núú,kã̂ núú,[],( 20 x 5 ),['chan2019'],,False,False,,2
+kwaa1262-2-200-1,,kwaa1262-2,200,kã̂ kút,kã̂ kút,[],( 20 x 10 ),['chan2019'],,False,False,,2
+kwaa1262-2-200-2,,kwaa1262-2,200,400. kã́ã̀ núú nənát,400. kã́ã̀ núú nənát,[],,['chan2019'],,False,True,,2

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lamb1273-1-1-1,,lamb1273-1,1,dihha,dihha,[],,['chan2019'],,False,False,,1
+lamb1273-1-2-1,,lamb1273-1,2,duda,duda,[],,['chan2019'],,False,False,,1
+lamb1273-1-3-1,,lamb1273-1,3,tauda,tauda,[],,['chan2019'],,False,False,,1
+lamb1273-1-4-1,,lamb1273-1,4,pata,pata,[],,['chan2019'],,False,False,,1
+lamb1273-1-5-1,,lamb1273-1,5,limma,limma,[],,['chan2019'],,False,False,,1
+lamb1273-1-6-1,,lamb1273-1,6,anni,anni,[],,['chan2019'],,False,False,,1
+lamb1273-1-7-1,,lamb1273-1,7,pittu,pittu,[],,['chan2019'],,False,False,,1
+lamb1273-1-8-1,,lamb1273-1,8,poddopata,poddopata,[],( 2 x 4 ),['chan2019'],,False,False,,1
+lamb1273-1-9-1,,lamb1273-1,9,bandihha,bandihha,[],( 10 - 1 ),['chan2019'],,False,False,,1
+lamb1273-1-10-1,,lamb1273-1,10,kabul,kabul,[],,['chan2019'],,False,False,,1
+lamb1273-1-11-1,,lamb1273-1,11,kabulʔ dihha,kabulʔ dihha,[],,['chan2019'],,False,False,,1
+lamb1273-1-12-1,,lamb1273-1,12,kabulʔ duda,kabulʔ duda,[],,['chan2019'],,False,False,,1
+lamb1273-1-13-1,,lamb1273-1,13,kabulʔ tauda,kabulʔ tauda,[],,['chan2019'],,False,False,,1
+lamb1273-1-14-1,,lamb1273-1,14,kabulʔ pata,kabulʔ pata,[],,['chan2019'],,False,False,,1
+lamb1273-1-15-1,,lamb1273-1,15,kabulʔ limma,kabulʔ limma,[],,['chan2019'],,False,False,,1
+lamb1273-1-16-1,,lamb1273-1,16,kabulʔ anni,kabulʔ anni,[],,['chan2019'],,False,False,,1
+lamb1273-1-17-1,,lamb1273-1,17,kabulʔ pittu,kabulʔ pittu,[],,['chan2019'],,False,False,,1
+lamb1273-1-18-1,,lamb1273-1,18,kabulʔ poddopata,kabulʔ poddopata,[],,['chan2019'],,False,False,,1
+lamb1273-1-19-1,,lamb1273-1,19,kabulʔ bandihha,kabulʔ bandihha,[],,['chan2019'],,False,False,,1
+lamb1273-1-20-1,,lamb1273-1,20,dokabullu,dokabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-21-1,,lamb1273-1,21,dokabulluʔ dihha,dokabulluʔ dihha,[],,['chan2019'],,False,False,,1
+lamb1273-1-22-1,,lamb1273-1,22,dokabulluʔ duda,dokabulluʔ duda,[],,['chan2019'],,False,False,,1
+lamb1273-1-23-1,,lamb1273-1,23,dokabulluʔ tauda,dokabulluʔ tauda,[],,['chan2019'],,False,False,,1
+lamb1273-1-24-1,,lamb1273-1,24,dokabulluʔ pata,dokabulluʔ pata,[],,['chan2019'],,False,False,,1
+lamb1273-1-25-1,,lamb1273-1,25,dokabulluʔ limma,dokabulluʔ limma,[],,['chan2019'],,False,False,,1
+lamb1273-1-26-1,,lamb1273-1,26,dokabulluʔ anni,dokabulluʔ anni,[],,['chan2019'],,False,False,,1
+lamb1273-1-27-1,,lamb1273-1,27,dokabulluʔ pittu,dokabulluʔ pittu,[],,['chan2019'],,False,False,,1
+lamb1273-1-28-1,,lamb1273-1,28,dokabulluʔ poddopata,dokabulluʔ poddopata,[],,['chan2019'],,False,False,,1
+lamb1273-1-29-1,,lamb1273-1,29,dokabulluʔ bandihha,dokabulluʔ bandihha,[],,['chan2019'],,False,False,,1
+lamb1273-1-30-1,,lamb1273-1,30,talkabullu,talkabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-40-1,,lamb1273-1,40,patakabullu,patakabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-50-1,,lamb1273-1,50,limmakabullu,limmakabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-60-1,,lamb1273-1,60,ankabullu,ankabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-70-1,,lamb1273-1,70,pittukabullu,pittukabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-80-1,,lamb1273-1,80,podopatakabullu,podopatakabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-90-1,,lamb1273-1,90,bandikabullu,bandikabullu,[],,['chan2019'],,False,False,,1
+lamb1273-1-100-1,,lamb1273-1,100,ŋahu,ŋahu,[],,['chan2019'],,False,False,,1
+lamb1273-1-200-1,,lamb1273-1,200,doŋahu,doŋahu,[],,['chan2019'],,False,False,,1
+lamb1273-1-1000-1,,lamb1273-1,1000,rata,rata,[],,['chan2019'],,False,False,,1
+lamb1273-1-2000-1,,lamb1273-1,2000,dorata,dorata,[],,['chan2019'],,False,False,,1

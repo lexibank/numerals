@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sanf1262-1-1-1,,sanf1262-1,1,ráwi,ráwi,[],,['chan2019'],,False,False,,1
+sanf1262-1-2-1,,sanf1262-1,2,tenówi,tenówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-3-1,,sanf1262-1,3,roxú,roxú,[],,['chan2019'],,False,False,,1
+sanf1262-1-4-1,,sanf1262-1,4,rókunhówi,rókunhówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-5-1,,sanf1262-1,5,rókutá,rókutá,[],,['chan2019'],,False,False,,1
+sanf1262-1-6-1,,sanf1262-1,6,raatowi,raatowi,[],,['chan2019'],,False,False,,1
+sanf1262-1-7-1,,sanf1262-1,7,neetowi,neetowi,[],,['chan2019'],,False,False,,1
+sanf1262-1-8-1,,sanf1262-1,8,neenkunhówi,neenkunhówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-9-1,,sanf1262-1,9,murátanraata,murátanraata,[],( 10 - 1 ) ?,['chan2019'],,False,False,,1
+sanf1262-1-10-1,,sanf1262-1,10,raata,raata,[],,['chan2019'],,False,False,,1
+sanf1262-1-11-1,,sanf1262-1,11,raata musrawí,raata musrawí,[],,['chan2019'],,False,False,,1
+sanf1262-1-12-1,,sanf1262-1,12,raata mustenówi,raata mustenówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-13-1,,sanf1262-1,13,raata musyú,raata musyú,[],,['chan2019'],,False,False,,1
+sanf1262-1-14-1,,sanf1262-1,14,raata musrókunhówi,raata musrókunhówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-15-1,,sanf1262-1,15,raata musrókutá,raata musrókutá,[],,['chan2019'],,False,False,,1
+sanf1262-1-16-1,,sanf1262-1,16,raata musraatowi,raata musraatowi,[],,['chan2019'],,False,False,,1
+sanf1262-1-17-1,,sanf1262-1,17,raata musneetowi,raata musneetowi,[],,['chan2019'],,False,False,,1
+sanf1262-1-18-1,,sanf1262-1,18,raata musneenkunhówi,raata musneenkunhówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-19-1,,sanf1262-1,19,raata musmurátanraata,raata musmurátanraata,[],,['chan2019'],,False,False,,1
+sanf1262-1-20-1,,sanf1262-1,20,roonta,roonta,[],,['chan2019'],,False,False,,1
+sanf1262-1-21-1,,sanf1262-1,21,roonta musrawí,roonta musrawí,[],,['chan2019'],,False,False,,1
+sanf1262-1-22-1,,sanf1262-1,22,roonta mustenówi,roonta mustenówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-23-1,,sanf1262-1,23,roonta musyú,roonta musyú,[],,['chan2019'],,False,False,,1
+sanf1262-1-24-1,,sanf1262-1,24,roonta musrókunhówi,roonta musrókunhówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-25-1,,sanf1262-1,25,roonta musrókutá,roonta musrókutá,[],,['chan2019'],,False,False,,1
+sanf1262-1-26-1,,sanf1262-1,26,roonta musraatowi,roonta musraatowi,[],,['chan2019'],,False,False,,1
+sanf1262-1-27-1,,sanf1262-1,27,roonta musneetowi,roonta musneetowi,[],,['chan2019'],,False,False,,1
+sanf1262-1-28-1,,sanf1262-1,28,roonta musneenkunhówi,roonta musneenkunhówi,[],,['chan2019'],,False,False,,1
+sanf1262-1-29-1,,sanf1262-1,29,roonta musmurátanraata,roonta musmurátanraata,[],,['chan2019'],,False,False,,1
+sanf1262-1-30-1,,sanf1262-1,30,roonta musraata,roonta musraata,[],,['chan2019'],,False,False,,1
+sanf1262-1-40-1,,sanf1262-1,40,neenta,neenta,[],,['chan2019'],,False,False,,1
+sanf1262-1-50-1,,sanf1262-1,50,neenta musraata,neenta musraata,[],(40 + 10 ),['chan2019'],,False,False,,1
+sanf1262-1-60-1,,sanf1262-1,60,neenta musroonta,neenta musroonta,[],(40 + 20 ),['chan2019'],,False,False,,1
+sanf1262-1-70-1,,sanf1262-1,70,neenta musroonta musraata,neenta musroonta musraata,[],,['chan2019'],,False,False,,1
+sanf1262-1-80-1,,sanf1262-1,80,ochheenta,ochheenta,[],( < Spanish 'ochenta),['chan2019'],,True,False,,1
+sanf1262-1-90-1,,sanf1262-1,90,raatha sieentu,raatha sieentu,[],,['chan2019'],,False,False,,1
+sanf1262-1-100-1,,sanf1262-1,100,sieentu,sieentu,[],( < Spanish ),['chan2019'],,True,False,,1

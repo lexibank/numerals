@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lama1278-1-1-1,,lama1278-1,1,tou,tou,[],,['chan2019'],,False,False,,1
+lama1278-1-2-1,,lama1278-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+lama1278-1-3-1,,lama1278-1,3,təlo,təlo,[],(e = IPA [ə]),['chan2019'],,False,False,,1
+lama1278-1-4-1,,lama1278-1,4,pat,pat,[],,['chan2019'],,False,False,,1
+lama1278-1-5-1,,lama1278-1,5,léma,léma,[],(é = IPA [ɛ] ??),['chan2019'],,False,False,,1
+lama1278-1-6-1,,lama1278-1,6,nəmu,nəmu,[],,['chan2019'],,False,False,,1
+lama1278-1-7-1,,lama1278-1,7,pito,pito,[],,['chan2019'],,False,False,,1
+lama1278-1-8-1,,lama1278-1,8,buto,buto,[],,['chan2019'],,False,False,,1
+lama1278-1-9-1,,lama1278-1,9,hifa,hifa,[],,['chan2019'],,False,False,,1
+lama1278-1-10-1,,lama1278-1,10,pulo,pulo,[],,['chan2019'],,False,False,,1
+lama1278-1-11-1,,lama1278-1,11,pulo(k) nã tou,pulo(k) nã tou,[],,['chan2019'],,False,False,,1
+lama1278-1-12-1,,lama1278-1,12,pulo(k) nã rua,pulo(k) nã rua,[],,['chan2019'],,False,False,,1
+lama1278-1-13-1,,lama1278-1,13,pulo(k) nã təlo,pulo(k) nã təlo,[],,['chan2019'],,False,False,,1
+lama1278-1-14-1,,lama1278-1,14,pulo(k) nã pat,pulo(k) nã pat,[],,['chan2019'],,False,False,,1
+lama1278-1-15-1,,lama1278-1,15,pulo(k) nã léma,pulo(k) nã léma,[],,['chan2019'],,False,False,,1
+lama1278-1-16-1,,lama1278-1,16,pulo(k) nã nəmu,pulo(k) nã nəmu,[],,['chan2019'],,False,False,,1
+lama1278-1-17-1,,lama1278-1,17,pulo(k) nã pito,pulo(k) nã pito,[],,['chan2019'],,False,False,,1
+lama1278-1-18-1,,lama1278-1,18,pulo(k) nã buto,pulo(k) nã buto,[],,['chan2019'],,False,False,,1
+lama1278-1-19-1,,lama1278-1,19,pulo(k) nã hifa,pulo(k) nã hifa,[],,['chan2019'],,False,False,,1
+lama1278-1-20-1,,lama1278-1,20,pulu rua,pulu rua,[],,['chan2019'],,False,False,,1
+lama1278-1-21-1,,lama1278-1,21,pulu rua nã tou,pulu rua nã tou,[],,['chan2019'],,False,False,,1
+lama1278-1-22-1,,lama1278-1,22,pulu rua nã rua,pulu rua nã rua,[],,['chan2019'],,False,False,,1
+lama1278-1-23-1,,lama1278-1,23,pulu rua nã təlo,pulu rua nã təlo,[],,['chan2019'],,False,False,,1
+lama1278-1-24-1,,lama1278-1,24,pulu rua nã pat,pulu rua nã pat,[],,['chan2019'],,False,False,,1
+lama1278-1-25-1,,lama1278-1,25,pulu rua nã léma,pulu rua nã léma,[],,['chan2019'],,False,False,,1
+lama1278-1-26-1,,lama1278-1,26,pulu rua nã nəmu,pulu rua nã nəmu,[],,['chan2019'],,False,False,,1
+lama1278-1-27-1,,lama1278-1,27,pulu rua nã pito,pulu rua nã pito,[],,['chan2019'],,False,False,,1
+lama1278-1-28-1,,lama1278-1,28,pulu rua nã buto,pulu rua nã buto,[],,['chan2019'],,False,False,,1
+lama1278-1-29-1,,lama1278-1,29,pulu rua nã hifa,pulu rua nã hifa,[],,['chan2019'],,False,False,,1
+lama1278-1-30-1,,lama1278-1,30,pulu təlo,pulu təlo,[],,['chan2019'],,False,False,,1
+lama1278-1-40-1,,lama1278-1,40,pulu pat,pulu pat,[],,['chan2019'],,False,False,,1
+lama1278-1-50-1,,lama1278-1,50,pulu léma,pulu léma,[],,['chan2019'],,False,False,,1
+lama1278-1-60-1,,lama1278-1,60,pulu nəmu,pulu nəmu,[],,['chan2019'],,False,False,,1
+lama1278-1-70-1,,lama1278-1,70,pulu pito,pulu pito,[],,['chan2019'],,False,False,,1
+lama1278-1-80-1,,lama1278-1,80,pulu buto,pulu buto,[],,['chan2019'],,False,False,,1
+lama1278-1-90-1,,lama1278-1,90,pulu hifa,pulu hifa,[],,['chan2019'],,False,False,,1
+lama1278-1-100-1,,lama1278-1,100,ratu tou,ratu tou,[],,['chan2019'],,False,False,,1
+lama1278-1-100-2,,lama1278-1,100,təratu,təratu,[],,['chan2019'],,False,False,,1
+lama1278-1-200-1,,lama1278-1,200,ratu rua,ratu rua,[],,['chan2019'],,False,False,,1
+lama1278-1-1000-1,,lama1278-1,1000,ribu tou,ribu tou,[],,['chan2019'],,False,False,,1
+lama1278-1-2000-1,,lama1278-1,2000,ribu rua,ribu rua,[],,['chan2019'],,False,False,,1

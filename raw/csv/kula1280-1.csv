@@ -1,0 +1,33 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kula1280-1-1-1,,kula1280-1,1,'sona,'sona,[],,['chan2019'],,False,False,,1
+kula1280-1-2-1,,kula1280-1,2,'yɘku,'yɘku,[],,['chan2019'],,False,False,,1
+kula1280-1-2-2,,kula1280-1,2,yəkwana,yəkwana,[],,['chan2019'],,False,False,,1
+kula1280-1-3-1,,kula1280-1,3,tu,tu,[],,['chan2019'],,False,False,,1
+kula1280-1-3-2,,kula1280-1,3,'tukana,'tukana,[],,['chan2019'],,False,False,,1
+kula1280-1-4-1,,kula1280-1,4,a'rasiku,a'rasiku,[],,['chan2019'],,False,False,,1
+kula1280-1-5-1,,kula1280-1,5,yawa'tɪn,yawa'tɪn,[],,['chan2019'],,False,False,,1
+kula1280-1-6-1,,kula1280-1,6,yawa'tɪn 'sona,yawa'tɪn 'sona,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kula1280-1-7-1,,kula1280-1,7,yawa'tɪn 'yɘku,yawa'tɪn 'yɘku,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kula1280-1-8-1,,kula1280-1,8,yawa'tɪn tu,yawa'tɪn tu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kula1280-1-9-1,,kula1280-1,9,yawa'tɪn a'rasiku,yawa'tɪn a'rasiku,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kula1280-1-10-1,,kula1280-1,10,ada'yəku,ada'yəku,[],,['chan2019'],,False,False,,1
+kula1280-1-11-1,,kula1280-1,11,ada'yəku 'arasɪn sona,ada'yəku 'arasɪn sona,[],,['chan2019'],,False,False,,1
+kula1280-1-12-1,,kula1280-1,12,ada'yəku 'arasɪn yɘku,ada'yəku 'arasɪn yɘku,[],,['chan2019'],,False,False,,1
+kula1280-1-13-1,,kula1280-1,13,ada'yəku 'arasɪn tu,ada'yəku 'arasɪn tu,[],,['chan2019'],,False,False,,1
+kula1280-1-14-1,,kula1280-1,14,ada'yəku 'arasɪn arasiku,ada'yəku 'arasɪn arasiku,[],,['chan2019'],,False,False,,1
+kula1280-1-15-1,,kula1280-1,15,ada'yəku 'arasɪn yawatɪn,ada'yəku 'arasɪn yawatɪn,[],,['chan2019'],,False,False,,1
+kula1280-1-16-1,,kula1280-1,16,ada'yəku 'arasɪn yawatɪn sona,ada'yəku 'arasɪn yawatɪn sona,[],,['chan2019'],,False,False,,1
+kula1280-1-17-1,,kula1280-1,17,ada'yəku 'arasɪn yawatɪn yɘku,ada'yəku 'arasɪn yawatɪn yɘku,[],,['chan2019'],,False,False,,1
+kula1280-1-18-1,,kula1280-1,18,ada'yəku 'arasɪn yawatɪn tu,ada'yəku 'arasɪn yawatɪn tu,[],,['chan2019'],,False,False,,1
+kula1280-1-19-1,,kula1280-1,19,ada'yəku 'arasɪn yawatɪn arasiku,ada'yəku 'arasɪn yawatɪn arasiku,[],,['chan2019'],,False,False,,1
+kula1280-1-20-1,,kula1280-1,20,ada'yəku mi'yɘku,ada'yəku mi'yɘku,[],,['chan2019'],,False,False,,1
+kula1280-1-30-1,,kula1280-1,30,ada'yəku mitu,ada'yəku mitu,[],,['chan2019'],,False,False,,1
+kula1280-1-40-1,,kula1280-1,40,ada'yəku mi'arasiku,ada'yəku mi'arasiku,[],,['chan2019'],,False,False,,1
+kula1280-1-50-1,,kula1280-1,50,ada'yəku miyawatɪn,ada'yəku miyawatɪn,[],,['chan2019'],,False,False,,1
+kula1280-1-60-1,,kula1280-1,60,ada'yəku miyawatɪn sona,ada'yəku miyawatɪn sona,[],,['chan2019'],,False,False,,1
+kula1280-1-70-1,,kula1280-1,70,ada'yəku miyawatɪn yɘku,ada'yəku miyawatɪn yɘku,[],,['chan2019'],,False,False,,1
+kula1280-1-80-1,,kula1280-1,80,ada'yəku miyawatɪn tu,ada'yəku miyawatɪn tu,[],,['chan2019'],,False,False,,1
+kula1280-1-90-1,,kula1280-1,90,ada'yəku miyawatɪn arasiku,ada'yəku miyawatɪn arasiku,[],,['chan2019'],,False,False,,1
+kula1280-1-100-1,,kula1280-1,100,ɡasaka,ɡasaka,[],(dɛna),['chan2019'],,False,False,,1
+kula1280-1-1000-1,,kula1280-1,1000,rib,rib,[],(dɛna),['chan2019'],,False,False,,1
+kula1280-1-2000-1,,kula1280-1,2000,rib yɘkwana,rib yɘkwana,[],,['chan2019'],,False,False,,1

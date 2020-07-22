@@ -1,0 +1,25 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nort2954-2-1-1,,nort2954-2,1,sumu,sumu,[],,['chan2019'],,False,False,,2
+nort2954-2-2-1,,nort2954-2,2,waha,waha,[],,['chan2019'],,False,False,,2
+nort2954-2-3-1,,nort2954-2,3,pahe,pahe,[],,['chan2019'],,False,False,,2
+nort2954-2-4-1,,nort2954-2,4,wasuɡwe,wasuɡwe,[],,['chan2019'],,False,False,,2
+nort2954-2-5-1,,nort2954-2,5,manneɡe,manneɡe,[],,['chan2019'],,False,False,,2
+nort2954-2-6-1,,nort2954-2,6,napahe,napahe,[],( 2 x 3 ) ?,['chan2019'],,False,False,,2
+nort2954-2-7-1,,nort2954-2,7,natakwasu,natakwasu,[],,['chan2019'],,False,False,,2
+nort2954-2-8-1,,nort2954-2,8,namewasuɡwe,namewasuɡwe,[],( 2 x 4 ) ?,['chan2019'],,False,False,,2
+nort2954-2-9-1,,nort2954-2,9,sumu kadoo,sumu kadoo,[],(lit: ''one missing'' ),['chan2019'],,False,False,,2
+nort2954-2-10-1,,nort2954-2,10,sumu mano,sumu mano,[],(lit: '' one hands'' ),['chan2019'],,False,False,,2
+nort2954-2-11-1,,nort2954-2,11,use Spanish numbers 11 to 19,use Spanish numbers 11 to 19,[],,['chan2019'],,False,True,,2
+nort2954-2-20-1,,nort2954-2,20,waha mano,waha mano,[],,['chan2019'],,False,False,,2
+nort2954-2-21-1,,nort2954-2,21,use Spanish numbers 21 to 29,use Spanish numbers 21 to 29,[],,['chan2019'],,False,True,,2
+nort2954-2-30-1,,nort2954-2,30,pahe mano,pahe mano,[],,['chan2019'],,False,False,,2
+nort2954-2-40-1,,nort2954-2,40,wasuɡwe mano,wasuɡwe mano,[],,['chan2019'],,False,False,,2
+nort2954-2-50-1,,nort2954-2,50,manneɡe mano,manneɡe mano,[],,['chan2019'],,False,False,,2
+nort2954-2-60-1,,nort2954-2,60,napahe mano,napahe mano,[],,['chan2019'],,False,False,,2
+nort2954-2-70-1,,nort2954-2,70,natakwasu mano,natakwasu mano,[],,['chan2019'],,False,False,,2
+nort2954-2-80-1,,nort2954-2,80,namewasuɡwe mano,namewasuɡwe mano,[],,['chan2019'],,False,False,,2
+nort2954-2-90-1,,nort2954-2,90,sumu kadoo mano,sumu kadoo mano,[],,['chan2019'],,False,False,,2
+nort2954-2-100-1,,nort2954-2,100,use Spanish number,use Spanish number,[],,['chan2019'],,False,True,,2
+nort2954-2-200-1,,nort2954-2,200,use Spanish number,use Spanish number,[],,['chan2019'],,False,True,,2
+nort2954-2-1000-1,,nort2954-2,1000,use Spanish number,use Spanish number,[],,['chan2019'],,False,True,,2
+nort2954-2-2000-1,,nort2954-2,2000,use Spanish number,use Spanish number,[],,['chan2019'],,False,True,,2

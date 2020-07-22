@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+band1344-1-1-1,,band1344-1,1,bale,bale,[],,['chan2019'],,False,False,,1
+band1344-1-2-1,,band1344-1,2,biʃi,biʃi,[],,['chan2019'],,False,False,,1
+band1344-1-3-1,,band1344-1,3,vɘta,vɘta,[],,['chan2019'],,False,False,,1
+band1344-1-4-1,,band1344-1,4,vana,vana,[],,['chan2019'],,False,False,,1
+band1344-1-5-1,,band1344-1,5,mīndū,mīndū,[],,['chan2019'],,False,False,,1
+band1344-1-6-1,,band1344-1,6,mīndū ama nɘ bale ( 5 + 1 )̄,mīndū ama nɘ bale ( 5 + 1 )̄,[],,['chan2019'],,False,True,,1
+band1344-1-7-1,,band1344-1,7,mīndū ama nɘ bīʃi,mīndū ama nɘ bīʃi,[],( 5 + 2 ),['chan2019'],,False,False,,1
+band1344-1-8-1,,band1344-1,8,mīndū ama nɘ vɘta,mīndū ama nɘ vɘta,[],( 5 + 3 ),['chan2019'],,False,False,,1
+band1344-1-9-1,,band1344-1,9,mīndū ama nɘ vana,mīndū ama nɘ vana,[],( 5 + 4 ),['chan2019'],,False,False,,1
+band1344-1-10-1,,band1344-1,10,moɾofo,moɾofo,[],,['chan2019'],,False,False,,1
+band1344-1-11-1,,band1344-1,11,moɾofo ama nɘ bale,moɾofo ama nɘ bale,[],,['chan2019'],,False,False,,1
+band1344-1-12-1,,band1344-1,12,moɾofo ama nɘ bīʃi,moɾofo ama nɘ bīʃi,[],,['chan2019'],,False,False,,1
+band1344-1-13-1,,band1344-1,13,moɾofo ama nɘ vɘta,moɾofo ama nɘ vɘta,[],,['chan2019'],,False,False,,1
+band1344-1-14-1,,band1344-1,14,moɾofo ama nɘ vana,moɾofo ama nɘ vana,[],,['chan2019'],,False,False,,1
+band1344-1-15-1,,band1344-1,15,ɡrɘvɘta,ɡrɘvɘta,[],,['chan2019'],,False,False,,1
+band1344-1-16-1,,band1344-1,16,ɡrɘvɘta ama nɘ bale,ɡrɘvɘta ama nɘ bale,[],,['chan2019'],,False,False,,1
+band1344-1-17-1,,band1344-1,17,ɡrɘvɘta ama nɘ bīʃi,ɡrɘvɘta ama nɘ bīʃi,[],,['chan2019'],,False,False,,1
+band1344-1-18-1,,band1344-1,18,ɡrɘvɘta ama nɘ vɘta,ɡrɘvɘta ama nɘ vɘta,[],,['chan2019'],,False,False,,1
+band1344-1-19-1,,band1344-1,19,ɡrɘvɘta ama nɘ vana,ɡrɘvɘta ama nɘ vana,[],,['chan2019'],,False,False,,1
+band1344-1-20-1,,band1344-1,20,zazu bale,zazu bale,[],(litː 'one person' ),['chan2019'],,False,False,,1
+band1344-1-21-1,,band1344-1,21,zazu bale ama nɘ bale,zazu bale ama nɘ bale,[],,['chan2019'],,False,False,,1
+band1344-1-22-1,,band1344-1,22,zazu bale ama nɘ biʃi,zazu bale ama nɘ biʃi,[],,['chan2019'],,False,False,,1
+band1344-1-23-1,,band1344-1,23,zazu bale ama nɘ vɘta,zazu bale ama nɘ vɘta,[],,['chan2019'],,False,False,,1
+band1344-1-24-1,,band1344-1,24,zazu bale ama nɘ vana,zazu bale ama nɘ vana,[],,['chan2019'],,False,False,,1
+band1344-1-25-1,,band1344-1,25,zazu bale ama nɘ mīndū,zazu bale ama nɘ mīndū,[],,['chan2019'],,False,False,,1
+band1344-1-26-1,,band1344-1,26,zazu bale ama nɘ mīndū ama nɘ bale,zazu bale ama nɘ mīndū ama nɘ bale,[],,['chan2019'],,False,False,,1
+band1344-1-27-1,,band1344-1,27,zazu bale ama nɘ mīndū ama nɘ bīʃi,zazu bale ama nɘ mīndū ama nɘ bīʃi,[],,['chan2019'],,False,False,,1
+band1344-1-28-1,,band1344-1,28,zazu bale ama nɘ mīndū ama nɘ vɘta,zazu bale ama nɘ mīndū ama nɘ vɘta,[],,['chan2019'],,False,False,,1
+band1344-1-29-1,,band1344-1,29,zazu bale ama nɘ mīndū ama nɘ vana,zazu bale ama nɘ mīndū ama nɘ vana,[],,['chan2019'],,False,False,,1
+band1344-1-30-1,,band1344-1,30,zazu bale de moɾofo,zazu bale de moɾofo,[],,['chan2019'],,False,False,,1
+band1344-1-40-1,,band1344-1,40,zazu bīʃì,zazu bīʃì,[],( 'two persons' ),['chan2019'],,False,False,,1
+band1344-1-50-1,,band1344-1,50,zazu bīʃì de moɾofo,zazu bīʃì de moɾofo,[],,['chan2019'],,False,False,,1
+band1344-1-60-1,,band1344-1,60,zazu vɘta,zazu vɘta,[],( 'three persons' ),['chan2019'],,False,False,,1
+band1344-1-70-1,,band1344-1,70,zazu vɘta de moɾofo,zazu vɘta de moɾofo,[],,['chan2019'],,False,False,,1
+band1344-1-80-1,,band1344-1,80,zazu vana,zazu vana,[],( 'four persons' ),['chan2019'],,False,False,,1
+band1344-1-90-1,,band1344-1,90,zazu vana de moɾofo,zazu vana de moɾofo,[],,['chan2019'],,False,False,,1
+band1344-1-100-1,,band1344-1,100,zazu mīndū,zazu mīndū,[],( 'five persons' ),['chan2019'],,False,False,,1
+band1344-1-200-1,,band1344-1,200,nɡ͡banɡ͡bo biʃi,nɡ͡banɡ͡bo biʃi,[],,['chan2019'],,False,False,,1
+band1344-1-1000-1,,band1344-1,1000,sake bale,sake bale,[],,['chan2019'],,False,False,,1
+band1344-1-2000-1,,band1344-1,2000,sake biʃi,sake biʃi,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+meke1243-1-1-1,,meke1243-1,1,aŋaʔomo,aŋaʔomo,[],,['chan2019'],,False,False,,1
+meke1243-1-2-1,,meke1243-1,2,ŋua,ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-3-1,,meke1243-1,3,oiso,oiso,[],,['chan2019'],,False,False,,1
+meke1243-1-4-1,,meke1243-1,4,pani,pani,[],,['chan2019'],,False,False,,1
+meke1243-1-5-1,,meke1243-1,5,ima,ima,[],,['chan2019'],,False,False,,1
+meke1243-1-6-1,,meke1243-1,6,imaŋea,imaŋea,[],( 5 + 1 ),['chan2019'],,False,False,,1
+meke1243-1-7-1,,meke1243-1,7,imaŋea ŋua,imaŋea ŋua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+meke1243-1-8-1,,meke1243-1,8,imaŋea oiso,imaŋea oiso,[],( 5 + 3 ),['chan2019'],,False,False,,1
+meke1243-1-9-1,,meke1243-1,9,imaŋea pani,imaŋea pani,[],( 5 + 4 ),['chan2019'],,False,False,,1
+meke1243-1-10-1,,meke1243-1,10,ouaŋa,ouaŋa,[],,['chan2019'],,False,False,,1
+meke1243-1-11-1,,meke1243-1,11,ouaŋa kuaŋai aŋaʔomo,ouaŋa kuaŋai aŋaʔomo,[],,['chan2019'],,False,False,,1
+meke1243-1-12-1,,meke1243-1,12,ouaŋa kuaŋai ŋua,ouaŋa kuaŋai ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-13-1,,meke1243-1,13,ouaŋa kuaŋai oiso,ouaŋa kuaŋai oiso,[],,['chan2019'],,False,False,,1
+meke1243-1-14-1,,meke1243-1,14,ouaŋa kuaŋai pani,ouaŋa kuaŋai pani,[],,['chan2019'],,False,False,,1
+meke1243-1-15-1,,meke1243-1,15,ouaŋa kuaŋai ima,ouaŋa kuaŋai ima,[],,['chan2019'],,False,False,,1
+meke1243-1-16-1,,meke1243-1,16,ouaŋa kuaŋai imaŋea,ouaŋa kuaŋai imaŋea,[],,['chan2019'],,False,False,,1
+meke1243-1-17-1,,meke1243-1,17,ouaŋa kuaŋai imaŋea ŋua,ouaŋa kuaŋai imaŋea ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-18-1,,meke1243-1,18,ouaŋa kuaŋai imaŋea oiso,ouaŋa kuaŋai imaŋea oiso,[],,['chan2019'],,False,False,,1
+meke1243-1-19-1,,meke1243-1,19,ouaŋa kuaŋai imaŋea pani,ouaŋa kuaŋai imaŋea pani,[],,['chan2019'],,False,False,,1
+meke1243-1-20-1,,meke1243-1,20,ouaŋa ŋua,ouaŋa ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-21-1,,meke1243-1,21,ouaŋa ŋua kuaŋai aŋaʔomo,ouaŋa ŋua kuaŋai aŋaʔomo,[],,['chan2019'],,False,False,,1
+meke1243-1-22-1,,meke1243-1,22,ouaŋa ŋua kuaŋai ŋua,ouaŋa ŋua kuaŋai ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-23-1,,meke1243-1,23,ouaŋa ŋua kuaŋai oiso,ouaŋa ŋua kuaŋai oiso,[],,['chan2019'],,False,False,,1
+meke1243-1-24-1,,meke1243-1,24,ouaŋa ŋua kuaŋai pani,ouaŋa ŋua kuaŋai pani,[],,['chan2019'],,False,False,,1
+meke1243-1-25-1,,meke1243-1,25,ouaŋa ŋua kuaŋai ima,ouaŋa ŋua kuaŋai ima,[],,['chan2019'],,False,False,,1
+meke1243-1-26-1,,meke1243-1,26,ouaŋa ŋua kuaŋai imaŋea,ouaŋa ŋua kuaŋai imaŋea,[],,['chan2019'],,False,False,,1
+meke1243-1-27-1,,meke1243-1,27,ouaŋa ŋua kuaŋai imaŋea ŋua,ouaŋa ŋua kuaŋai imaŋea ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-28-1,,meke1243-1,28,ouaŋa ŋua kuaŋai imaŋea oiso,ouaŋa ŋua kuaŋai imaŋea oiso,[],,['chan2019'],,False,False,,1
+meke1243-1-29-1,,meke1243-1,29,ouaŋa ŋua kuaŋai imaŋea pani,ouaŋa ŋua kuaŋai imaŋea pani,[],,['chan2019'],,False,False,,1
+meke1243-1-30-1,,meke1243-1,30,ouaŋa oiso,ouaŋa oiso,[],,['chan2019'],,False,False,,1
+meke1243-1-40-1,,meke1243-1,40,ouaŋa pani,ouaŋa pani,[],,['chan2019'],,False,False,,1
+meke1243-1-50-1,,meke1243-1,50,ouaŋa ima,ouaŋa ima,[],,['chan2019'],,False,False,,1
+meke1243-1-60-1,,meke1243-1,60,ouaŋa imaŋea,ouaŋa imaŋea,[],,['chan2019'],,False,False,,1
+meke1243-1-70-1,,meke1243-1,70,ouaŋa imaŋea ŋua,ouaŋa imaŋea ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-80-1,,meke1243-1,80,ouaŋa imaŋea oiso,ouaŋa imaŋea oiso,[],,['chan2019'],,False,False,,1
+meke1243-1-90-1,,meke1243-1,90,ouaŋa imaŋea pani,ouaŋa imaŋea pani,[],,['chan2019'],,False,False,,1
+meke1243-1-100-1,,meke1243-1,100,tsinafu,tsinafu,[],( < Roro ),['chan2019'],,True,False,,1
+meke1243-1-200-1,,meke1243-1,200,tsinafu ŋua,tsinafu ŋua,[],,['chan2019'],,False,False,,1
+meke1243-1-1000-1,,meke1243-1,1000,tsinafu ouaŋa aŋaʔomo,tsinafu ouaŋa aŋaʔomo,[],,['chan2019'],,False,False,,1
+meke1243-1-2000-1,,meke1243-1,2000,tsinafu ouaŋa ŋua,tsinafu ouaŋa ŋua,[],,['chan2019'],,False,False,,1

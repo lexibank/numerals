@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mago1248-1-1-1,,mago1248-1,1,ana,ana,[],,['chan2019'],,False,False,,1
+mago1248-1-1-2,,mago1248-1,1,anaoni,anaoni,[],,['chan2019'],,False,False,,1
+mago1248-1-2-1,,mago1248-1,2,buau,buau,[],,['chan2019'],,False,False,,1
+mago1248-1-3-1,,mago1248-1,3,aiteri,aiteri,[],,['chan2019'],,False,False,,1
+mago1248-1-3-2,,mago1248-1,3,aiseri,aiseri,[],,['chan2019'],,False,False,,1
+mago1248-1-4-1,,mago1248-1,4,vati,vati,[],,['chan2019'],,False,False,,1
+mago1248-1-4-2,,mago1248-1,4,vasi,vasi,[],,['chan2019'],,False,False,,1
+mago1248-1-5-1,,mago1248-1,5,ima,ima,[],,['chan2019'],,False,False,,1
+mago1248-1-6-1,,mago1248-1,6,ima reria ana,ima reria ana,[],( 5 + 1 ),['chan2019'],,False,False,,1
+mago1248-1-7-1,,mago1248-1,7,ima reia buau,ima reia buau,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mago1248-1-8-1,,mago1248-1,8,ima reria aiteri,ima reria aiteri,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mago1248-1-9-1,,mago1248-1,9,ima reria vati,ima reria vati,[],( 5 + 4 ),['chan2019'],,False,False,,1
+mago1248-1-10-1,,mago1248-1,10,nanau ana,nanau ana,[],( 'nanau' < Magi),['chan2019'],,True,False,,1
+mago1248-1-11-1,,mago1248-1,11,nanau ana ana,nanau ana ana,[],,['chan2019'],,False,False,,1
+mago1248-1-12-1,,mago1248-1,12,nanau ana buau,nanau ana buau,[],,['chan2019'],,False,False,,1
+mago1248-1-13-1,,mago1248-1,13,nanau ana aiseri,nanau ana aiseri,[],,['chan2019'],,False,False,,1
+mago1248-1-14-1,,mago1248-1,14,nanau ana vasi,nanau ana vasi,[],,['chan2019'],,False,False,,1
+mago1248-1-15-1,,mago1248-1,15,nanau ana ima,nanau ana ima,[],,['chan2019'],,False,False,,1
+mago1248-1-16-1,,mago1248-1,16,nanau ana ima reria ana,nanau ana ima reria ana,[],,['chan2019'],,False,False,,1
+mago1248-1-17-1,,mago1248-1,17,nanau ana ima reria buau,nanau ana ima reria buau,[],,['chan2019'],,False,False,,1
+mago1248-1-18-1,,mago1248-1,18,nanau ana ima reria aiseri,nanau ana ima reria aiseri,[],,['chan2019'],,False,False,,1
+mago1248-1-19-1,,mago1248-1,19,nanau ana ima reria vasi,nanau ana ima reria vasi,[],,['chan2019'],,False,False,,1
+mago1248-1-20-1,,mago1248-1,20,nanau buau,nanau buau,[],,['chan2019'],,False,False,,1
+mago1248-1-21-1,,mago1248-1,21,nanau buau ana,nanau buau ana,[],,['chan2019'],,False,False,,1
+mago1248-1-22-1,,mago1248-1,22,nanau buau buau,nanau buau buau,[],,['chan2019'],,False,False,,1
+mago1248-1-23-1,,mago1248-1,23,nanau buau aiseri,nanau buau aiseri,[],,['chan2019'],,False,False,,1
+mago1248-1-24-1,,mago1248-1,24,nanau buau vasi,nanau buau vasi,[],,['chan2019'],,False,False,,1
+mago1248-1-25-1,,mago1248-1,25,nanau buau ima,nanau buau ima,[],,['chan2019'],,False,False,,1
+mago1248-1-26-1,,mago1248-1,26,nanau buau ima reria ana,nanau buau ima reria ana,[],,['chan2019'],,False,False,,1
+mago1248-1-27-1,,mago1248-1,27,nanau buau ima reria buau,nanau buau ima reria buau,[],,['chan2019'],,False,False,,1
+mago1248-1-28-1,,mago1248-1,28,nanau buau ima reria aiteri,nanau buau ima reria aiteri,[],,['chan2019'],,False,False,,1
+mago1248-1-29-1,,mago1248-1,29,nanau buau ima reria vasi,nanau buau ima reria vasi,[],,['chan2019'],,False,False,,1
+mago1248-1-30-1,,mago1248-1,30,nanau aiseri,nanau aiseri,[],,['chan2019'],,False,False,,1
+mago1248-1-40-1,,mago1248-1,40,nanau vasi,nanau vasi,[],,['chan2019'],,False,False,,1
+mago1248-1-50-1,,mago1248-1,50,nanau ima,nanau ima,[],,['chan2019'],,False,False,,1
+mago1248-1-60-1,,mago1248-1,60,nanau ima reria ana,nanau ima reria ana,[],,['chan2019'],,False,False,,1
+mago1248-1-70-1,,mago1248-1,70,nanau ima reria buau,nanau ima reria buau,[],,['chan2019'],,False,False,,1
+mago1248-1-80-1,,mago1248-1,80,nanau ima reria aiseri,nanau ima reria aiseri,[],,['chan2019'],,False,False,,1
+mago1248-1-90-1,,mago1248-1,90,nanau ima reria vasi,nanau ima reria vasi,[],,['chan2019'],,False,False,,1
+mago1248-1-100-1,,mago1248-1,100,wuwuru ana,wuwuru ana,[],('wuwuru' < Magi),['chan2019'],,True,False,,1
+mago1248-1-200-1,,mago1248-1,200,wuwuru buau,wuwuru buau,[],,['chan2019'],,False,False,,1
+mago1248-1-1000-1,,mago1248-1,1000,wuwuru ima buau,wuwuru ima buau,[],,['chan2019'],,False,False,,1
+mago1248-1-2000-1,,mago1248-1,2000,wuwuru ima vasi,wuwuru ima vasi,[],,['chan2019'],,False,False,,1

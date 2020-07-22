@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+diod1237-1-1-1,,diod1237-1,1,ifokeyana,ifokeyana,[],,['chan2019'],,False,False,,1
+diod1237-1-2-1,,diod1237-1,2,iluyedi,iluyedi,[],,['chan2019'],,False,False,,1
+diod1237-1-3-1,,diod1237-1,3,itoi,itoi,[],,['chan2019'],,False,False,,1
+diod1237-1-4-1,,diod1237-1,4,laufuli,laufuli,[],,['chan2019'],,False,False,,1
+diod1237-1-5-1,,diod1237-1,5,nimafakewatamo,nimafakewatamo,[],,['chan2019'],,False,False,,1
+diod1237-1-6-1,,diod1237-1,6,nimafakewatamo ifokeyana,nimafakewatamo ifokeyana,[],( 5 + 1 ),['chan2019'],,False,False,,1
+diod1237-1-7-1,,diod1237-1,7,nimafakewatamo iluyedi,nimafakewatamo iluyedi,[],( 5 + 2 ),['chan2019'],,False,False,,1
+diod1237-1-8-1,,diod1237-1,8,nimafakewatamo itoi,nimafakewatamo itoi,[],( 5 + 3 ),['chan2019'],,False,False,,1
+diod1237-1-9-1,,diod1237-1,9,nimafakewatamo laufuli,nimafakewatamo laufuli,[],( 5 + 4 ),['chan2019'],,False,False,,1
+diod1237-1-10-1,,diod1237-1,10,nima iluyedi,nima iluyedi,[],,['chan2019'],,False,False,,1

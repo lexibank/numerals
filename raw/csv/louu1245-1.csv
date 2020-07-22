@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+louu1245-1-1-1,,louu1245-1,1,sip,sip,[],,['chan2019'],,False,False,,1
+louu1245-1-2-1,,louu1245-1,2,luep,luep,[],,['chan2019'],,False,False,,1
+louu1245-1-3-1,,louu1245-1,3,telip,telip,[],,['chan2019'],,False,False,,1
+louu1245-1-4-1,,louu1245-1,4,tolɔt,tolɔt,[],,['chan2019'],,False,False,,1
+louu1245-1-5-1,,louu1245-1,5,ŋunan,ŋunan,[],,['chan2019'],,False,False,,1
+louu1245-1-6-1,,louu1245-1,6,ŋiniop,ŋiniop,[],,['chan2019'],,False,False,,1
+louu1245-1-7-1,,louu1245-1,7,ŋaniselɨp,ŋaniselɨp,[],( 10 - 3 ),['chan2019'],,False,False,,1
+louu1245-1-8-1,,louu1245-1,8,ŋaniruep,ŋaniruep,[],( 10 - 2 ),['chan2019'],,False,False,,1
+louu1245-1-9-1,,louu1245-1,9,ŋanisip,ŋanisip,[],( 10 - 1 ),['chan2019'],,False,False,,1
+louu1245-1-10-1,,louu1245-1,10,saŋaul,saŋaul,[],,['chan2019'],,False,False,,1
+louu1245-1-11-1,,louu1245-1,11,saŋaul a sip,saŋaul a sip,[],,['chan2019'],,False,False,,1
+louu1245-1-12-1,,louu1245-1,12,saŋaul a luep,saŋaul a luep,[],,['chan2019'],,False,False,,1
+louu1245-1-13-1,,louu1245-1,13,saŋaul a telip,saŋaul a telip,[],,['chan2019'],,False,False,,1
+louu1245-1-14-1,,louu1245-1,14,saŋaul a tolɔt,saŋaul a tolɔt,[],,['chan2019'],,False,False,,1
+louu1245-1-15-1,,louu1245-1,15,saŋaul a ŋunan,saŋaul a ŋunan,[],,['chan2019'],,False,False,,1
+louu1245-1-16-1,,louu1245-1,16,saŋaul a ŋiniop,saŋaul a ŋiniop,[],,['chan2019'],,False,False,,1
+louu1245-1-17-1,,louu1245-1,17,saŋaul a ŋaniselɨp,saŋaul a ŋaniselɨp,[],,['chan2019'],,False,False,,1
+louu1245-1-18-1,,louu1245-1,18,saŋaul a ŋaniruep,saŋaul a ŋaniruep,[],,['chan2019'],,False,False,,1
+louu1245-1-19-1,,louu1245-1,19,saŋaul a ŋanisip,saŋaul a ŋanisip,[],,['chan2019'],,False,False,,1
+louu1245-1-20-1,,louu1245-1,20,ruŋoul,ruŋoul,[],,['chan2019'],,False,False,,1
+louu1245-1-21-1,,louu1245-1,21,ruŋoul a sip,ruŋoul a sip,[],,['chan2019'],,False,False,,1
+louu1245-1-22-1,,louu1245-1,22,ruŋoul a luep,ruŋoul a luep,[],,['chan2019'],,False,False,,1
+louu1245-1-23-1,,louu1245-1,23,ruŋoul a telip,ruŋoul a telip,[],,['chan2019'],,False,False,,1
+louu1245-1-24-1,,louu1245-1,24,ruŋoul a tolɔt,ruŋoul a tolɔt,[],,['chan2019'],,False,False,,1
+louu1245-1-25-1,,louu1245-1,25,ruŋoul a ŋunan,ruŋoul a ŋunan,[],,['chan2019'],,False,False,,1
+louu1245-1-26-1,,louu1245-1,26,ruŋoul a ŋiniop,ruŋoul a ŋiniop,[],,['chan2019'],,False,False,,1
+louu1245-1-27-1,,louu1245-1,27,ruŋoul a ŋaniselɨp,ruŋoul a ŋaniselɨp,[],,['chan2019'],,False,False,,1
+louu1245-1-28-1,,louu1245-1,28,ruŋoul a ŋaniruep,ruŋoul a ŋaniruep,[],,['chan2019'],,False,False,,1
+louu1245-1-29-1,,louu1245-1,29,ruŋoul a ŋanisip,ruŋoul a ŋanisip,[],,['chan2019'],,False,False,,1
+louu1245-1-30-1,,louu1245-1,30,tuluŋoul,tuluŋoul,[],,['chan2019'],,False,False,,1
+louu1245-1-40-1,,louu1245-1,40,awɨ,awɨ,[],,['chan2019'],,False,False,,1
+louu1245-1-50-1,,louu1245-1,50,topol,topol,[],,['chan2019'],,False,False,,1
+louu1245-1-60-1,,louu1245-1,60,onoŋoul,onoŋoul,[],,['chan2019'],,False,False,,1
+louu1245-1-70-1,,louu1245-1,70,ŋanisuluŋoul,ŋanisuluŋoul,[],( 100 - 30 ),['chan2019'],,False,False,,1
+louu1245-1-80-1,,louu1245-1,80,ŋaniruluŋoul,ŋaniruluŋoul,[],( 100 - 20 ),['chan2019'],,False,False,,1
+louu1245-1-90-1,,louu1245-1,90,ŋanisaŋoul,ŋanisaŋoul,[],( 100 - 10 ),['chan2019'],,False,False,,1
+louu1245-1-100-1,,louu1245-1,100,soŋɔt,soŋɔt,[],,['chan2019'],,False,False,,1
+louu1245-1-200-1,,louu1245-1,200,ruŋɔt,ruŋɔt,[],,['chan2019'],,False,False,,1
+louu1245-1-1000-1,,louu1245-1,1000,mwasun sip,mwasun sip,[],,['chan2019'],,False,False,,1
+louu1245-1-2000-1,,louu1245-1,2000,mwasun ruep,mwasun ruep,[],,['chan2019'],,False,False,,1

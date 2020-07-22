@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+biem1237-2-1-1,,biem1237-2,1,tini,tini,[],,['chan2019'],,False,False,,2
+biem1237-2-2-1,,biem1237-2,2,ru,ru,[],,['chan2019'],,False,False,,2
+biem1237-2-3-1,,biem1237-2,3,tual,tual,[],,['chan2019'],,False,False,,2
+biem1237-2-3-2,,biem1237-2,3,tuol,tuol,[],,['chan2019'],,False,False,,2
+biem1237-2-4-1,,biem1237-2,4,kiki,kiki,[],,['chan2019'],,False,False,,2
+biem1237-2-5-1,,biem1237-2,5,kiki be kubua,kiki be kubua,[],(4+1),['chan2019'],,False,False,,2
+biem1237-2-6-1,,biem1237-2,6,kiki be areɡ di ru,kiki be areɡ di ru,[],(4+2),['chan2019'],,False,False,,2
+biem1237-2-7-1,,biem1237-2,7,kiki be areɡ di tuol,kiki be areɡ di tuol,[],(4+3),['chan2019'],,False,False,,2
+biem1237-2-8-1,,biem1237-2,8,kiki ru,kiki ru,[],(4 x 2),['chan2019'],,False,False,,2
+biem1237-2-9-1,,biem1237-2,9,kiki ru be kubua,kiki ru be kubua,[],[(4 x 2 )+1],['chan2019'],,False,False,,2
+biem1237-2-10-1,,biem1237-2,10,kiki ru be ru,kiki ru be ru,[],[(4 x 2 )+2],['chan2019'],,False,False,,2
+biem1237-2-11-1,,biem1237-2,11,kiki ru be tuol,kiki ru be tuol,[],[(4 x 2 )+3],['chan2019'],,False,False,,2
+biem1237-2-12-1,,biem1237-2,12,kiki tuol,kiki tuol,[],(4 x 3),['chan2019'],,False,False,,2
+biem1237-2-13-1,,biem1237-2,13,kiki tuol be kubua,kiki tuol be kubua,[],[(4 x 3 )+1],['chan2019'],,False,False,,2
+biem1237-2-14-1,,biem1237-2,14,kiki tuol be ru,kiki tuol be ru,[],[(4 x 3 )+2],['chan2019'],,False,False,,2
+biem1237-2-15-1,,biem1237-2,15,kiki tuol be tuol,kiki tuol be tuol,[],[(4 x 3 )+3],['chan2019'],,False,False,,2
+biem1237-2-16-1,,biem1237-2,16,kiki eat,kiki eat,[],,['chan2019'],,False,False,,2
+biem1237-2-16-2,,biem1237-2,16,kiki yat,kiki yat,[],(4 x 4),['chan2019'],,False,False,,2
+biem1237-2-17-1,,biem1237-2,17,kiki yat be kubua,kiki yat be kubua,[],[(4 x 4 )+1],['chan2019'],,False,False,,2
+biem1237-2-18-1,,biem1237-2,18,kiki yat be ru,kiki yat be ru,[],[(4 x 4 )+2],['chan2019'],,False,False,,2
+biem1237-2-19-1,,biem1237-2,19,kiki yat be tuol,kiki yat be tuol,[],[(4 x 4 )+3],['chan2019'],,False,False,,2
+biem1237-2-20-1,,biem1237-2,20,kiki lim,kiki lim,[],(4 x 5),['chan2019'],,False,False,,2

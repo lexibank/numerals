@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+gaoo1237-1-1-1,,gaoo1237-1,1,tasa,tasa,[],,['chan2019'],,False,False,,1
+gaoo1237-1-1-2,,gaoo1237-1,1,kaheni,kaheni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-2-1,,gaoo1237-1,2,pʰalu,pʰalu,[],,['chan2019'],,False,False,,1
+gaoo1237-1-3-1,,gaoo1237-1,3,tʰɔlu,tʰɔlu,[],,['chan2019'],,False,False,,1
+gaoo1237-1-4-1,,gaoo1237-1,4,fati,fati,[],,['chan2019'],,False,False,,1
+gaoo1237-1-5-1,,gaoo1237-1,5,falima,falima,[],,['chan2019'],,False,False,,1
+gaoo1237-1-5-2,,gaoo1237-1,5,ɡlimani,ɡlimani,[],,['chan2019'],,False,False,,1
+gaoo1237-1-6-1,,gaoo1237-1,6,famnɔ,famnɔ,[],,['chan2019'],,False,False,,1
+gaoo1237-1-6-2,,gaoo1237-1,6,namnoni,namnoni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-7-1,,gaoo1237-1,7,fitu,fitu,[],,['chan2019'],,False,False,,1
+gaoo1237-1-8-1,,gaoo1237-1,8,fehu,fehu,[],,['chan2019'],,False,False,,1
+gaoo1237-1-9-1,,gaoo1237-1,9,fahia,fahia,[],,['chan2019'],,False,False,,1
+gaoo1237-1-9-2,,gaoo1237-1,9,n̥iani,n̥iani,[],,['chan2019'],,False,False,,1
+gaoo1237-1-10-1,,gaoo1237-1,10,fabɔtʰɔ,fabɔtʰɔ,[],,['chan2019'],,False,False,,1
+gaoo1237-1-11-1,,gaoo1237-1,11,sali-kaheni,sali-kaheni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-12-1,,gaoo1237-1,12,sali-pʰaluni,sali-pʰaluni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-13-1,,gaoo1237-1,13,sali-tʰɔluni,sali-tʰɔluni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-14-1,,gaoo1237-1,14,sali-fatini,sali-fatini,[],,['chan2019'],,False,False,,1
+gaoo1237-1-15-1,,gaoo1237-1,15,sali-ɡlimani,sali-ɡlimani,[],,['chan2019'],,False,False,,1
+gaoo1237-1-16-1,,gaoo1237-1,16,sali-namnoni,sali-namnoni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-17-1,,gaoo1237-1,17,sali-fituni,sali-fituni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-18-1,,gaoo1237-1,18,sali-fehuni,sali-fehuni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-19-1,,gaoo1237-1,19,sali-n̥iani,sali-n̥iani,[],,['chan2019'],,False,False,,1
+gaoo1237-1-20-1,,gaoo1237-1,20,varadaki,varadaki,[],,['chan2019'],,False,False,,1
+gaoo1237-1-21-1,,gaoo1237-1,21,varadaki-kaheni,varadaki-kaheni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-22-1,,gaoo1237-1,22,varadaki-pʰaluni,varadaki-pʰaluni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-23-1,,gaoo1237-1,23,varadakii-tʰɔluni,varadakii-tʰɔluni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-24-1,,gaoo1237-1,24,varadaki-fatini,varadaki-fatini,[],,['chan2019'],,False,False,,1
+gaoo1237-1-25-1,,gaoo1237-1,25,varadaki-ɡlimani,varadaki-ɡlimani,[],,['chan2019'],,False,False,,1
+gaoo1237-1-26-1,,gaoo1237-1,26,varadaki-namnoni,varadaki-namnoni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-27-1,,gaoo1237-1,27,varadaki-fituni,varadaki-fituni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-28-1,,gaoo1237-1,28,varadaki-fehuni,varadaki-fehuni,[],,['chan2019'],,False,False,,1
+gaoo1237-1-29-1,,gaoo1237-1,29,varadaki-n̥iani,varadaki-n̥iani,[],,['chan2019'],,False,False,,1
+gaoo1237-1-30-1,,gaoo1237-1,30,tʰɔlufulu,tʰɔlufulu,[],,['chan2019'],,False,False,,1
+gaoo1237-1-40-1,,gaoo1237-1,40,pʰalututu,pʰalututu,[],( 'two scores' ),['chan2019'],,False,False,,1
+gaoo1237-1-50-1,,gaoo1237-1,50,pʰalututu-ka-salaɣi,pʰalututu-ka-salaɣi,[],,['chan2019'],,False,False,,1
+gaoo1237-1-60-1,,gaoo1237-1,60,tʰɔlututu,tʰɔlututu,[],,['chan2019'],,False,False,,1
+gaoo1237-1-70-1,,gaoo1237-1,70,tʰɔlututu-ka-salaɣi,tʰɔlututu-ka-salaɣi,[],,['chan2019'],,False,False,,1
+gaoo1237-1-80-1,,gaoo1237-1,80,fatitutu,fatitutu,[],,['chan2019'],,False,False,,1
+gaoo1237-1-90-1,,gaoo1237-1,90,fatitutu-ka-salaɣi,fatitutu-ka-salaɣi,[],,['chan2019'],,False,False,,1
+gaoo1237-1-100-1,,gaoo1237-1,100,kahe ɣɔbi,kahe ɣɔbi,[],,['chan2019'],,False,False,,1
+gaoo1237-1-200-1,,gaoo1237-1,200,pʰalu ɣɔbi,pʰalu ɣɔbi,[],,['chan2019'],,False,False,,1
+gaoo1237-1-1000-1,,gaoo1237-1,1000,kahe tɔɣa,kahe tɔɣa,[],,['chan2019'],,False,False,,1
+gaoo1237-1-2000-1,,gaoo1237-1,2000,pʰalu tɔɣa,pʰalu tɔɣa,[],,['chan2019'],,False,False,,1

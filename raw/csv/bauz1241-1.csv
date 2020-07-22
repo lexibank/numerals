@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bauz1241-1-1-1,,bauz1241-1,1,vámtea,vámtea,[],( v́ is a stress mark),['chan2019'],,False,False,,1
+bauz1241-1-2-1,,bauz1241-1,2,behásu,behásu,[],,['chan2019'],,False,False,,1
+bauz1241-1-3-1,,bauz1241-1,3,látela,látela,[],,['chan2019'],,False,False,,1
+bauz1241-1-4-1,,bauz1241-1,4,ahim labe ahim labe,ahim labe ahim labe,[],( 2 + 2 ),['chan2019'],,False,False,,1
+bauz1241-1-5-1,,bauz1241-1,5,auohole,auohole,[],(lit: 'palm finished'),['chan2019'],,False,False,,1
+bauz1241-1-6-1,,bauz1241-1,6,au meida vi va,au meida vi va,[],(lit: 'palm another digit'),['chan2019'],,False,False,,1
+bauz1241-1-7-1,,bauz1241-1,7,au meida behásu vi va,au meida behásu vi va,[],(lit: 'palm another two digits'),['chan2019'],,False,False,,1
+bauz1241-1-8-1,,bauz1241-1,8,au meida látela vi va,au meida látela vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-9-1,,bauz1241-1,9,au meida ahia vi va,au meida ahia vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-10-1,,bauz1241-1,10,au ahim fole,au ahim fole,[],(lit: 'palm pair finished'),['chan2019'],,False,False,,1
+bauz1241-1-11-1,,bauz1241-1,11,nabaso meida vi va or naba bu vametea viva,nabaso meida vi va or naba bu vametea viva,[],[lit: 'foot (bu) one digit'],['chan2019'],,False,True,,1
+bauz1241-1-12-1,,bauz1241-1,12,nabaso meida behásu vi va,nabaso meida behásu vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-13-1,,bauz1241-1,13,nabaso meida láéla vi va,nabaso meida láéla vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-14-1,,bauz1241-1,14,nabaso meida ahia vi va,nabaso meida ahia vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-15-1,,bauz1241-1,15,naba meida fole or naba media ahebu fole,naba meida fole or naba media ahebu fole,[],(lit: 'foot one all finished'),['chan2019'],,False,True,,1
+bauz1241-1-16-1,,bauz1241-1,16,naba meida vi va or au ahim fore,naba meida vi va or au ahim fore,[],,['chan2019'],,False,True,,1
+bauz1241-1-16-2,,bauz1241-1,16,naba media fole,naba media fole,[],,['chan2019'],,False,False,,1
+bauz1241-1-16-3,,bauz1241-1,16,naba bu media vametea viva,naba bu media vametea viva,[],"[lit: 'palm pair finshed, foot another finished, foot (bu) one digit']",['chan2019'],,False,False,,1
+bauz1241-1-17-1,,bauz1241-1,17,naba meida behásu vi va,naba meida behásu vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-18-1,,bauz1241-1,18,naba meida látéla vi va,naba meida látéla vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-19-1,,bauz1241-1,19,naba meida ahia vi va,naba meida ahia vi va,[],,['chan2019'],,False,False,,1
+bauz1241-1-20-1,,bauz1241-1,20,au ahim fole naba ahim fole (lit: 'foot pair finished')21. dat media anekeha vametea via,au ahim fole naba ahim fole (lit: 'foot pair finished')21. dat media anekeha vametea via,[],(lit: man another hand one digit'),['chan2019'],,False,True,,1

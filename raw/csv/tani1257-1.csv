@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tani1257-1-1-1,,tani1257-1,1,~íʔró -o,~íʔró -o,[],(litː one- CLS ),['chan2019'],,False,True,,1
+tani1257-1-2-1,,tani1257-1,2,~íɸo-ó,~íɸo-ó,[],(litː two- CLS),['chan2019'],,False,True,,1
+tani1257-1-3-1,,tani1257-1,3,~baéka-ráʔká-ó,~baéka-ráʔká-ó,[],(litːthree- QUANT- CLS),['chan2019'],,False,True,,1
+tani1257-1-4-1,,tani1257-1,4,~botá-ráʔká-ó,~botá-ráʔká-ó,[],(litː four-QUANT- CLS),['chan2019'],,False,True,,1
+tani1257-1-5-1,,tani1257-1,5,~íʔra ɸiʔta-ráʔká -o,~íʔra ɸiʔta-ráʔká -o,[],(litː one hand-QUANT -CLS),['chan2019'],,False,True,,1
+tani1257-1-6-1,,tani1257-1,6,~iʔró-o ~téɟa-ɟú,~iʔró-o ~téɟa-ɟú,[],(litː one-CLS cross -HAB),['chan2019'],,False,True,,1
+tani1257-1-7-1,,tani1257-1,7,~íɸo-o ~téɟa-ɟú,~íɸo-o ~téɟa-ɟú,[],(litː two-CLS cross-HAB),['chan2019'],,False,True,,1
+tani1257-1-8-1,,tani1257-1,8,~baéka-ráʔká -ó ~téɟa-ɟú,~baéka-ráʔká -ó ~téɟa-ɟú,[],(litː three -QUANT-CLS cross- HAB),['chan2019'],,False,True,,1
+tani1257-1-9-1,,tani1257-1,9,~botá-ráʔká-ó ~téɟa-ɟú,~botá-ráʔká-ó ~téɟa-ɟú,[],(litː four-QUANT-CLS cross -HAB),['chan2019'],,False,True,,1
+tani1257-1-10-1,,tani1257-1,10,~íɸa-ɸiʔta-ráʔká-o,~íɸa-ɸiʔta-ráʔká-o,[],(litː two hand-QUANT-CLS),['chan2019'],,False,True,,1
+tani1257-1-11-1,,tani1257-1,11,~íʔró-o ~úʔɸua-~rá éʔ-a-ɟú,~íʔró-o ~úʔɸua-~rá éʔ-a-ɟú,[],(litː one-cl foot-ALL take-CAUS-HAB),['chan2019'],,False,True,,1
+tani1257-1-12-1,,tani1257-1,12,~íɸo -o ~úʔɸua-~rá éʔ-a-ɟú,~íɸo -o ~úʔɸua-~rá éʔ-a-ɟú,[],(litː two-cl foot-ALL take- CAUS-HAB),['chan2019'],,False,True,,1
+tani1257-1-13-1,,tani1257-1,13,~baéka-ráʔká -ó~úʔɸua-~ráéʔ-a-ɟúthree -QUANT- CLS foot-ALL take- CAU-SHAB,~baéka-ráʔká -ó~úʔɸua-~ráéʔ-a-ɟúthree -QUANT- CLS foot-ALL take- CAU-SHAB,[],,['chan2019'],,False,True,,1
+tani1257-1-14-1,,tani1257-1,14,~botá-ráʔká--ó ~úʔɸua-~rá éʔ-a-ɟúfour-QUANT-cl foot-ALL,~botá-ráʔká--ó ~úʔɸua-~rá éʔ-a-ɟúfour-QUANT-cl foot-ALL,[],(take- CAUS-HAB),['chan2019'],,False,True,,1
+tani1257-1-15-1,,tani1257-1,15,~íɸa- ɸiʔta-ráʔká -o ~úʔɸua-~rá éʔ-a-ɟú,~íɸa- ɸiʔta-ráʔká -o ~úʔɸua-~rá éʔ-a-ɟú,[],( five-QUANT-CLS  foot-ALL take- CAUS-HAB),['chan2019'],,False,True,,1
+tani1257-1-16-1,,tani1257-1,16,~íʔró o ɸẽrõto ~úʔɸua-~rá éʔ-a-ɟú,~íʔró o ɸẽrõto ~úʔɸua-~rá éʔ-a-ɟú,[],( one-CLS  side foot-ALL take- CAUS-HAB),['chan2019'],,False,True,,1
+tani1257-1-17-1,,tani1257-1,17,~íɸo,~íɸo,[],(ɸẽrõto ~úʔɸua-~rá éʔ-a-ɟú      two-CLS side   foot-ALL take- CAUS-HAB),['chan2019'],,False,True,,1
+tani1257-1-18-1,,tani1257-1,18,~baéka-ráʔká-ó,~baéka-ráʔká-ó,[],(ɸẽrõto ~úʔɸua-~rá éʔ-a-ɟú      three-QUANT-CLS side foot-ALL take- CAUS-HAB),['chan2019'],,False,True,,1
+tani1257-1-19-1,,tani1257-1,19,botá-raʔká-ó,botá-raʔká-ó,[],(ɸẽrõto ~úʔɸua-~rá éʔ-a-ɟú     four-QUANT-CLS side foot-ALL take- CAUS-HAB),['chan2019'],,False,False,,1
+tani1257-1-20-1,,tani1257-1,20,~iʔri-ka ~ɸoibahá,~iʔri-ka ~ɸoibahá,[],(litː one-neut person),['chan2019'],,False,True,,1

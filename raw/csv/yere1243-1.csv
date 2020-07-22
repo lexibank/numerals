@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yere1243-1-1-1,,yere1243-1,1,kotem,kotem,[],,['chan2019'],,False,False,,1
+yere1243-1-2-1,,yere1243-1,2,edih,edih,[],,['chan2019'],,False,False,,1
+yere1243-1-3-1,,yere1243-1,3,etro,etro,[],,['chan2019'],,False,False,,1
+yere1243-1-4-1,,yere1243-1,4,eat,eat,[],,['chan2019'],,False,False,,1
+yere1243-1-4-2,,yere1243-1,4,iat,iat,[],,['chan2019'],,False,False,,1
+yere1243-1-5-1,,yere1243-1,5,matehi,matehi,[],,['chan2019'],,False,False,,1
+yere1243-1-6-1,,yere1243-1,6,matehi kotem,matehi kotem,[],( 5 + 1),['chan2019'],,False,False,,1
+yere1243-1-7-1,,yere1243-1,7,matehi edih,matehi edih,[],( 5 + 2),['chan2019'],,False,False,,1
+yere1243-1-8-1,,yere1243-1,8,matehi etro,matehi etro,[],( 5 + 3),['chan2019'],,False,False,,1
+yere1243-1-9-1,,yere1243-1,9,matehi eat,matehi eat,[],( 5 + 4),['chan2019'],,False,False,,1
+yere1243-1-10-1,,yere1243-1,10,maβtedih,maβtedih,[],(litː '' two arms''),['chan2019'],,False,False,,1
+yere1243-1-11-1,,yere1243-1,11,maβtedih kotem,maβtedih kotem,[],,['chan2019'],,False,False,,1
+yere1243-1-12-1,,yere1243-1,12,maβtedih edih,maβtedih edih,[],,['chan2019'],,False,False,,1
+yere1243-1-13-1,,yere1243-1,13,maβtedih etro,maβtedih etro,[],,['chan2019'],,False,False,,1
+yere1243-1-14-1,,yere1243-1,14,maβtedih eat,maβtedih eat,[],,['chan2019'],,False,False,,1
+yere1243-1-15-1,,yere1243-1,15,maβtedih matehi,maβtedih matehi,[],,['chan2019'],,False,False,,1
+yere1243-1-16-1,,yere1243-1,16,maβtedih matehi kotem,maβtedih matehi kotem,[],,['chan2019'],,False,False,,1
+yere1243-1-17-1,,yere1243-1,17,maβtedih matehi edih,maβtedih matehi edih,[],,['chan2019'],,False,False,,1
+yere1243-1-18-1,,yere1243-1,18,maβtedih matehi etro,maβtedih matehi etro,[],,['chan2019'],,False,False,,1
+yere1243-1-19-1,,yere1243-1,19,maβtedih matehi eat,maβtedih matehi eat,[],,['chan2019'],,False,False,,1
+yere1243-1-20-1,,yere1243-1,20,nomtuho kotem,nomtuho kotem,[],(litː ''one person''),['chan2019'],,False,False,,1
+yere1243-1-21-1,,yere1243-1,21,nomtuho kotem kotem,nomtuho kotem kotem,[],,['chan2019'],,False,False,,1
+yere1243-1-22-1,,yere1243-1,22,nomtuho kotem edih,nomtuho kotem edih,[],,['chan2019'],,False,False,,1
+yere1243-1-23-1,,yere1243-1,23,nomtuho kotem etro,nomtuho kotem etro,[],,['chan2019'],,False,False,,1
+yere1243-1-24-1,,yere1243-1,24,nomtuho kotem eat,nomtuho kotem eat,[],,['chan2019'],,False,False,,1
+yere1243-1-25-1,,yere1243-1,25,nomtuho kotem matehi,nomtuho kotem matehi,[],,['chan2019'],,False,False,,1
+yere1243-1-26-1,,yere1243-1,26,nomtuho kotem matehi kotem,nomtuho kotem matehi kotem,[],,['chan2019'],,False,False,,1
+yere1243-1-27-1,,yere1243-1,27,nomtuho kotem matehi edih,nomtuho kotem matehi edih,[],,['chan2019'],,False,False,,1
+yere1243-1-28-1,,yere1243-1,28,nomtuho kotem matehi etro,nomtuho kotem matehi etro,[],,['chan2019'],,False,False,,1
+yere1243-1-29-1,,yere1243-1,29,nomtuho kotem matehi eat,nomtuho kotem matehi eat,[],,['chan2019'],,False,False,,1
+yere1243-1-30-1,,yere1243-1,30,nomtuho kotem maβtedih,nomtuho kotem maβtedih,[],( 20 + 10),['chan2019'],,False,False,,1
+yere1243-1-40-1,,yere1243-1,40,nomtuho edih,nomtuho edih,[],( 20 x 2 ),['chan2019'],,False,False,,1
+yere1243-1-50-1,,yere1243-1,50,nomtuho edih maβtedih,nomtuho edih maβtedih,[],,['chan2019'],,False,False,,1
+yere1243-1-60-1,,yere1243-1,60,nomtuho etro,nomtuho etro,[],( 20 x 3 ),['chan2019'],,False,False,,1
+yere1243-1-70-1,,yere1243-1,70,nomtuho etro maβtedih,nomtuho etro maβtedih,[],,['chan2019'],,False,False,,1
+yere1243-1-80-1,,yere1243-1,80,nomtuho eat,nomtuho eat,[],( 20 x 4 ),['chan2019'],,False,False,,1
+yere1243-1-90-1,,yere1243-1,90,nomtuho eat maβtedih,nomtuho eat maβtedih,[],,['chan2019'],,False,False,,1
+yere1243-1-100-1,,yere1243-1,100,utinho kotem,utinho kotem,[],,['chan2019'],,False,False,,1
+yere1243-1-200-1,,yere1243-1,200,utinho edih,utinho edih,[],,['chan2019'],,False,False,,1
+yere1243-1-1000-1,,yere1243-1,1000,hiaranho kotem,hiaranho kotem,[],,['chan2019'],,False,False,,1
+yere1243-1-2000-1,,yere1243-1,2000,hiaranho edih,hiaranho edih,[],,['chan2019'],,False,False,,1

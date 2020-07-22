@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+subi1246-1-1-1,,subi1246-1,1,kàmwīnā,kàmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-1-2,,subi1246-1,1,ìmwīnā,ìmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-1-3,,subi1246-1,1,βùmwīnā,βùmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-2-1,,subi1246-1,2,kòβérē,kòβérē,[],,['chan2019'],,False,False,,1
+subi1246-1-2-2,,subi1246-1,2,zò̀βérē,zò̀βérē,[],,['chan2019'],,False,False,,1
+subi1246-1-2-3,,subi1246-1,2,βùβérī,βùβérī,[],,['chan2019'],,False,False,,1
+subi1246-1-3-1,,subi1246-1,3,kòtátwē,kòtátwē,[],,['chan2019'],,False,False,,1
+subi1246-1-3-2,,subi1246-1,3,zòtátwē,zòtátwē,[],,['chan2019'],,False,False,,1
+subi1246-1-3-3,,subi1246-1,3,βùtáwē,βùtáwē,[],,['chan2019'],,False,False,,1
+subi1246-1-3-4,,subi1246-1,3,βùtátū,βùtátū,[],,['chan2019'],,False,False,,1
+subi1246-1-4-1,,subi1246-1,4,kòōnē,kòōnē,[],,['chan2019'],,False,False,,1
+subi1246-1-4-2,,subi1246-1,4,zòōnē,zòōnē,[],,['chan2019'],,False,False,,1
+subi1246-1-4-3,,subi1246-1,4,βùūnē,βùūnē,[],,['chan2019'],,False,False,,1
+subi1246-1-5-1,,subi1246-1,5,kùmánéʝānzà,kùmánéʝānzà,[],,['chan2019'],,False,False,,1
+subi1246-1-6-1,,subi1246-1,6,kùmánéʝānzā nékàmwīnā,kùmánéʝānzā nékàmwīnā,[],( 5 + 1 ),['chan2019'],,False,False,,1
+subi1246-1-7-1,,subi1246-1,7,kùmánéʝānzā néβùβérī,kùmánéʝānzā néβùβérī,[],( 5 + 2 ),['chan2019'],,False,False,,1
+subi1246-1-8-1,,subi1246-1,8,kùmánéʝānzā néβùtátū,kùmánéʝānzā néβùtátū,[],( 5 + 3 ),['chan2019'],,False,False,,1
+subi1246-1-9-1,,subi1246-1,9,kùmánéʝānzā néβùūnē,kùmánéʝānzā néβùūnē,[],( 5 + 4 ),['chan2019'],,False,False,,1
+subi1246-1-10-1,,subi1246-1,10,ìkúmī,ìkúmī,[],,['chan2019'],,False,False,,1
+subi1246-1-11-1,,subi1246-1,11,ìkúmī nékàmwīnā,ìkúmī nékàmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-12-1,,subi1246-1,12,ìkúmī néβùβérī,ìkúmī néβùβérī,[],,['chan2019'],,False,False,,1
+subi1246-1-13-1,,subi1246-1,13,ìkúmī néβùtátū,ìkúmī néβùtátū,[],,['chan2019'],,False,False,,1
+subi1246-1-14-1,,subi1246-1,14,ìkúmī néβùūnē,ìkúmī néβùūnē,[],,['chan2019'],,False,False,,1
+subi1246-1-15-1,,subi1246-1,15,ìkúmī nékūmánéʝānzā,ìkúmī nékūmánéʝānzā,[],,['chan2019'],,False,False,,1
+subi1246-1-16-1,,subi1246-1,16,ìkúmī nékūmánéʝānzā nékàmwīnā,ìkúmī nékūmánéʝānzā nékàmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-17-1,,subi1246-1,17,ìkúmī nékūcʰóólā mìnwē ʝōtátwē,ìkúmī nékūcʰóólā mìnwē ʝōtátwē,[],,['chan2019'],,False,False,,1
+subi1246-1-18-1,,subi1246-1,18,ìkúmī nékūcʰóólā mìnwē ʝōβérē,ìkúmī nékūcʰóólā mìnwē ʝōβérē,[],,['chan2019'],,False,False,,1
+subi1246-1-19-1,,subi1246-1,19,ìkúmī nékūcʰóólā mìnwē ūmwīnā,ìkúmī nékūcʰóólā mìnwē ūmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-20-1,,subi1246-1,20,màkúmī ōβérē,màkúmī ōβérē,[],,['chan2019'],,False,False,,1
+subi1246-1-21-1,,subi1246-1,21,màkúmī ōβérē nékàmwīnā,màkúmī ōβérē nékàmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-22-1,,subi1246-1,22,màkúmī ōβérē nézōβérē,màkúmī ōβérē nézōβérē,[],,['chan2019'],,False,False,,1
+subi1246-1-23-1,,subi1246-1,23,màkúmī ōβérē néβùtátū,màkúmī ōβérē néβùtátū,[],,['chan2019'],,False,False,,1
+subi1246-1-23-2,,subi1246-1,23,nézōtátwē,nézōtátwē,[],,['chan2019'],,False,False,,1
+subi1246-1-24-1,,subi1246-1,24,màkúmī ōβérē nézōōnē,màkúmī ōβérē nézōōnē,[],,['chan2019'],,False,False,,1
+subi1246-1-25-1,,subi1246-1,25,màkúmī ōβérē nékùmánéʝānzà,màkúmī ōβérē nékùmánéʝānzà,[],,['chan2019'],,False,False,,1
+subi1246-1-26-1,,subi1246-1,26,màkúmī ōβérē nékàmwīnā,màkúmī ōβérē nékàmwīnā,[],,['chan2019'],,False,False,,1
+subi1246-1-27-1,,subi1246-1,27,màkúmī ōβérē nékūcʰóólā mìn. ʝōtátwe,màkúmī ōβérē nékūcʰóólā mìn. ʝōtátwe,[],,['chan2019'],,False,True,,1
+subi1246-1-28-1,,subi1246-1,28,màkúmī ōβérē nékūcʰóólā mìn. ʝōβérē,màkúmī ōβérē nékūcʰóólā mìn. ʝōβérē,[],,['chan2019'],,False,True,,1
+subi1246-1-29-1,,subi1246-1,29,màkúmī ōβérē nékūcʰóólā mìn. ūmwīnā,màkúmī ōβérē nékūcʰóólā mìn. ūmwīnā,[],,['chan2019'],,False,True,,1
+subi1246-1-30-1,,subi1246-1,30,màkúmī ōtátwē,màkúmī ōtátwē,[],,['chan2019'],,False,False,,1
+subi1246-1-40-1,,subi1246-1,40,màkúmī ōónē,màkúmī ōónē,[],,['chan2019'],,False,False,,1
+subi1246-1-50-1,,subi1246-1,50,màkúmī ámánéʝānzà,màkúmī ámánéʝānzà,[],,['chan2019'],,False,False,,1
+subi1246-1-100-1,,subi1246-1,100,màkúmī énékūmī,màkúmī énékūmī,[],,['chan2019'],,False,False,,1

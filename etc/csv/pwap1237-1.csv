@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+pwap1237-1-1-1,,pwap1237-1,1,chaac,chaac,[],,['chan2019'],,False,False,,1
+pwap1237-1-2-1,,pwap1237-1,2,cheluk,cheluk,[],,['chan2019'],,False,False,,1
+pwap1237-1-3-1,,pwap1237-1,3,pwaceen,pwaceen,[],,['chan2019'],,False,False,,1
+pwap1237-1-4-1,,pwap1237-1,4,pweovec,pweovec,[],,['chan2019'],,False,False,,1
+pwap1237-1-5-1,,pwap1237-1,5,nim,nim,[],,['chan2019'],,False,False,,1
+pwap1237-1-6-1,,pwap1237-1,6,nim ɡwa chaac,nim ɡwa chaac,[],( 5 + 1 ),['chan2019'],,False,False,,1
+pwap1237-1-7-1,,pwap1237-1,7,nim ɡwa cheluk,nim ɡwa cheluk,[],( 5 + 2 ),['chan2019'],,False,False,,1
+pwap1237-1-8-1,,pwap1237-1,8,nim ɡwa pwaceen,nim ɡwa pwaceen,[],( 5 + 3 ),['chan2019'],,False,False,,1
+pwap1237-1-9-1,,pwap1237-1,9,nim ɡwa pweovec,nim ɡwa pweovec,[],( 5 + 4 ),['chan2019'],,False,False,,1
+pwap1237-1-10-1,,pwap1237-1,10,paidu,paidu,[],(lit: 'plating bones'),['chan2019'],,False,False,,1
+pwap1237-1-11-1,,pwap1237-1,11,paidu ɡwa chaac,paidu ɡwa chaac,[],,['chan2019'],,False,False,,1
+pwap1237-1-12-1,,pwap1237-1,12,paidu ɡwa cheluk,paidu ɡwa cheluk,[],,['chan2019'],,False,False,,1
+pwap1237-1-13-1,,pwap1237-1,13,paidu ɡwa pwaceen,paidu ɡwa pwaceen,[],,['chan2019'],,False,False,,1
+pwap1237-1-14-1,,pwap1237-1,14,paidu ɡwa pweovec,paidu ɡwa pweovec,[],,['chan2019'],,False,False,,1
+pwap1237-1-15-1,,pwap1237-1,15,paidu ɡwa nim,paidu ɡwa nim,[],,['chan2019'],,False,False,,1
+pwap1237-1-16-1,,pwap1237-1,16,paidu ɡwa nim ɡwa chaac,paidu ɡwa nim ɡwa chaac,[],,['chan2019'],,False,False,,1
+pwap1237-1-17-1,,pwap1237-1,17,paidu ɡwa nim ɡwa cheluk,paidu ɡwa nim ɡwa cheluk,[],,['chan2019'],,False,False,,1
+pwap1237-1-18-1,,pwap1237-1,18,paidu ɡwa nim ɡwa pwaceen,paidu ɡwa nim ɡwa pwaceen,[],,['chan2019'],,False,False,,1
+pwap1237-1-19-1,,pwap1237-1,19,paidu ɡwa nim ɡwa pweovec,paidu ɡwa nim ɡwa pweovec,[],,['chan2019'],,False,False,,1
+pwap1237-1-20-1,,pwap1237-1,20,chaac i kac,chaac i kac,[],(litː 'kac' = man),['chan2019'],,False,False,,1
+pwap1237-1-21-1,,pwap1237-1,21,chaac i kac ɡwa chaac,chaac i kac ɡwa chaac,[],,['chan2019'],,False,False,,1
+pwap1237-1-22-1,,pwap1237-1,22,chaac i kac ɡwa cheluk,chaac i kac ɡwa cheluk,[],,['chan2019'],,False,False,,1
+pwap1237-1-23-1,,pwap1237-1,23,chaac i kac ɡwa pwaceen,chaac i kac ɡwa pwaceen,[],,['chan2019'],,False,False,,1
+pwap1237-1-24-1,,pwap1237-1,24,chaac i kac ɡwa pweovec,chaac i kac ɡwa pweovec,[],,['chan2019'],,False,False,,1
+pwap1237-1-25-1,,pwap1237-1,25,chaac i kac ɡwa nim,chaac i kac ɡwa nim,[],,['chan2019'],,False,False,,1
+pwap1237-1-26-1,,pwap1237-1,26,chaac i kac ɡwa nim ɡwa chaac,chaac i kac ɡwa nim ɡwa chaac,[],,['chan2019'],,False,False,,1
+pwap1237-1-27-1,,pwap1237-1,27,chaac i kac ɡwa nim ɡwa cheluk,chaac i kac ɡwa nim ɡwa cheluk,[],,['chan2019'],,False,False,,1
+pwap1237-1-28-1,,pwap1237-1,28,chaac i kac ɡwa nim ɡwa pwaceen,chaac i kac ɡwa nim ɡwa pwaceen,[],,['chan2019'],,False,False,,1
+pwap1237-1-29-1,,pwap1237-1,29,chaac i kac ɡwa nim ɡwa pweovec,chaac i kac ɡwa nim ɡwa pweovec,[],,['chan2019'],,False,False,,1
+pwap1237-1-30-1,,pwap1237-1,30,chaac i kac ɡwa paidu,chaac i kac ɡwa paidu,[],,['chan2019'],,False,False,,1
+pwap1237-1-40-1,,pwap1237-1,40,cheluk i kac,cheluk i kac,[],( 2  x 20 ),['chan2019'],,False,False,,1
+pwap1237-1-50-1,,pwap1237-1,50,cheluk i kac ɡwa paidu,cheluk i kac ɡwa paidu,[],,['chan2019'],,False,False,,1
+pwap1237-1-60-1,,pwap1237-1,60,pwaceen i kac,pwaceen i kac,[],( 3  x 20 ),['chan2019'],,False,False,,1
+pwap1237-1-70-1,,pwap1237-1,70,pwaceen i kac ɡwa paidu,pwaceen i kac ɡwa paidu,[],,['chan2019'],,False,False,,1
+pwap1237-1-80-1,,pwap1237-1,80,pweovec i kac,pweovec i kac,[],(4  x 20 ),['chan2019'],,False,False,,1
+pwap1237-1-90-1,,pwap1237-1,90,pweovec i kac ɡwa paidu,pweovec i kac ɡwa paidu,[],,['chan2019'],,False,False,,1
+pwap1237-1-100-1,,pwap1237-1,100,nim i kac,nim i kac,[],( 5  x 20 ),['chan2019'],,False,False,,1
+pwap1237-1-110-1,,pwap1237-1,110,nim i kac ɡwa paidu,nim i kac ɡwa paidu,[],,['chan2019'],,False,False,,1
+pwap1237-1-120-1,,pwap1237-1,120,nim ɡwa chaac i kac,nim ɡwa chaac i kac,[],,['chan2019'],,False,False,,1
+pwap1237-1-160-1,,pwap1237-1,160,nim ɡwa pwaceen i kac,nim ɡwa pwaceen i kac,[],,['chan2019'],,False,False,,1

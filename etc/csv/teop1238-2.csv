@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+teop1238-2-1-1,,teop1238-2,1,peha,peha,[],,['chan2019'],,False,False,,2
+teop1238-2-2-1,,teop1238-2,2,buaku,buaku,[],,['chan2019'],,False,False,,2
+teop1238-2-3-1,,teop1238-2,3,kukan,kukan,[],,['chan2019'],,False,False,,2
+teop1238-2-4-1,,teop1238-2,4,dorana,dorana,[],,['chan2019'],,False,False,,2
+teop1238-2-5-1,,teop1238-2,5,taonim,taonim,[],,['chan2019'],,False,False,,2
+teop1238-2-6-1,,teop1238-2,6,peha to toka,peha to toka,[],( 1+ 5 ),['chan2019'],,False,False,,2
+teop1238-2-7-1,,teop1238-2,7,buaku to toka,buaku to toka,[],( 2+ 5 ),['chan2019'],,False,False,,2
+teop1238-2-8-1,,teop1238-2,8,kukan to toka,kukan to toka,[],( 3+ 5 ),['chan2019'],,False,False,,2
+teop1238-2-9-1,,teop1238-2,9,dorana to toka,dorana to toka,[],( 4+ 5 ),['chan2019'],,False,False,,2
+teop1238-2-10-1,,teop1238-2,10,peha savun,peha savun,[],,['chan2019'],,False,False,,2
+teop1238-2-11-1,,teop1238-2,11,peha savun peha,peha savun peha,[],,['chan2019'],,False,False,,2
+teop1238-2-12-1,,teop1238-2,12,peha savun buaku,peha savun buaku,[],,['chan2019'],,False,False,,2
+teop1238-2-13-1,,teop1238-2,13,peha savun kukan,peha savun kukan,[],,['chan2019'],,False,False,,2
+teop1238-2-14-1,,teop1238-2,14,peha savun dorana,peha savun dorana,[],,['chan2019'],,False,False,,2
+teop1238-2-15-1,,teop1238-2,15,peha savun taonim,peha savun taonim,[],,['chan2019'],,False,False,,2
+teop1238-2-16-1,,teop1238-2,16,peha savun peha to toka,peha savun peha to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-17-1,,teop1238-2,17,peha savun buaku to toka,peha savun buaku to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-18-1,,teop1238-2,18,peha savun kukan to toka,peha savun kukan to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-19-1,,teop1238-2,19,peha savun dorana to toka,peha savun dorana to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-20-1,,teop1238-2,20,buaku savun,buaku savun,[],,['chan2019'],,False,False,,2
+teop1238-2-21-1,,teop1238-2,21,buaku savun peha,buaku savun peha,[],,['chan2019'],,False,False,,2
+teop1238-2-22-1,,teop1238-2,22,buaku savun buaku,buaku savun buaku,[],,['chan2019'],,False,False,,2
+teop1238-2-23-1,,teop1238-2,23,buaku savun kukan,buaku savun kukan,[],,['chan2019'],,False,False,,2
+teop1238-2-24-1,,teop1238-2,24,buaku savun dorana,buaku savun dorana,[],,['chan2019'],,False,False,,2
+teop1238-2-25-1,,teop1238-2,25,buaku savun taonim,buaku savun taonim,[],,['chan2019'],,False,False,,2
+teop1238-2-26-1,,teop1238-2,26,buaku savun peha to toka,buaku savun peha to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-27-1,,teop1238-2,27,buaku savun buaku to toka,buaku savun buaku to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-28-1,,teop1238-2,28,buaku savun kukan to toka,buaku savun kukan to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-29-1,,teop1238-2,29,buaku savun dorana to toka,buaku savun dorana to toka,[],,['chan2019'],,False,False,,2
+teop1238-2-30-1,,teop1238-2,30,kukan savun,kukan savun,[],,['chan2019'],,False,False,,2
+teop1238-2-40-1,,teop1238-2,40,dorana savun,dorana savun,[],,['chan2019'],,False,False,,2
+teop1238-2-50-1,,teop1238-2,50,taonim savun,taonim savun,[],,['chan2019'],,False,False,,2
+teop1238-2-60-1,,teop1238-2,60,peha to toka savun,peha to toka savun,[],,['chan2019'],,False,False,,2
+teop1238-2-70-1,,teop1238-2,70,buaku to toka savun,buaku to toka savun,[],,['chan2019'],,False,False,,2
+teop1238-2-80-1,,teop1238-2,80,kukan to toka savun,kukan to toka savun,[],,['chan2019'],,False,False,,2
+teop1238-2-90-1,,teop1238-2,90,dorana to toka savun,dorana to toka savun,[],,['chan2019'],,False,False,,2
+teop1238-2-100-1,,teop1238-2,100,oan hantət,oan hantət,[],,['chan2019'],,False,False,,2
+teop1238-2-200-1,,teop1238-2,200,tu hantət,tu hantət,[],?,['chan2019'],,False,False,,2
+teop1238-2-1000-1,,teop1238-2,1000,tausen,tausen,[],?,['chan2019'],,False,False,,2
+teop1238-2-2000-1,,teop1238-2,2000,tu tausen,tu tausen,[],?,['chan2019'],,False,False,,2

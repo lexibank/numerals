@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+jola1263-1-1-1,,jola1263-1,1,jəkon,jəkon,[],,['chan2019'],,False,False,,1
+jola1263-1-2-1,,jola1263-1,2,siɡaba,siɡaba,[],,['chan2019'],,False,False,,1
+jola1263-1-3-1,,jola1263-1,3,sifeeɡiir,sifeeɡiir,[],,['chan2019'],,False,False,,1
+jola1263-1-4-1,,jola1263-1,4,sibaakiir,sibaakiir,[],,['chan2019'],,False,False,,1
+jola1263-1-5-1,,jola1263-1,5,futɔk,futɔk,[],,['chan2019'],,False,False,,1
+jola1263-1-6-1,,jola1263-1,6,futɔk di jəkon,futɔk di jəkon,[],( 5 + 1 ),['chan2019'],,False,False,,1
+jola1263-1-7-1,,jola1263-1,7,futɔk di siɡaba,futɔk di siɡaba,[],( 5 + 2 ),['chan2019'],,False,False,,1
+jola1263-1-8-1,,jola1263-1,8,futɔk di sifeeɡiir,futɔk di sifeeɡiir,[],( 5 + 3 ),['chan2019'],,False,False,,1
+jola1263-1-9-1,,jola1263-1,9,futɔk di sibaakiir,futɔk di sibaakiir,[],( 5 + 4 ),['chan2019'],,False,False,,1
+jola1263-1-10-1,,jola1263-1,10,uɲɛn,uɲɛn,[],,['chan2019'],,False,False,,1
+jola1263-1-11-1,,jola1263-1,11,uɲɛn di jəkon,uɲɛn di jəkon,[],,['chan2019'],,False,False,,1
+jola1263-1-12-1,,jola1263-1,12,uɲɛn di siɡaba,uɲɛn di siɡaba,[],,['chan2019'],,False,False,,1
+jola1263-1-13-1,,jola1263-1,13,uɲɛn di sifeeɡiir,uɲɛn di sifeeɡiir,[],,['chan2019'],,False,False,,1
+jola1263-1-14-1,,jola1263-1,14,uɲɛn di sibaakiir,uɲɛn di sibaakiir,[],,['chan2019'],,False,False,,1
+jola1263-1-15-1,,jola1263-1,15,butinken,butinken,[],,['chan2019'],,False,False,,1
+jola1263-1-16-1,,jola1263-1,16,butinken di jəkon,butinken di jəkon,[],(15 + 1),['chan2019'],,False,False,,1
+jola1263-1-17-1,,jola1263-1,17,butinken di siɡaba,butinken di siɡaba,[],(15 + 2),['chan2019'],,False,False,,1
+jola1263-1-18-1,,jola1263-1,18,butinken di sifeeɡiir,butinken di sifeeɡiir,[],(15 + 2),['chan2019'],,False,False,,1
+jola1263-1-19-1,,jola1263-1,19,butinken di sibaakiir,butinken di sibaakiir,[],(15 + 3),['chan2019'],,False,False,,1
+jola1263-1-20-1,,jola1263-1,20,kabanan,kabanan,[],,['chan2019'],,False,False,,1
+jola1263-1-21-1,,jola1263-1,21,kabanan di jəkon,kabanan di jəkon,[],,['chan2019'],,False,False,,1
+jola1263-1-22-1,,jola1263-1,22,kabanan di siɡaba,kabanan di siɡaba,[],,['chan2019'],,False,False,,1
+jola1263-1-23-1,,jola1263-1,23,kabanan di sifeeɡiir,kabanan di sifeeɡiir,[],,['chan2019'],,False,False,,1
+jola1263-1-24-1,,jola1263-1,24,kabanan di sibaakiir,kabanan di sibaakiir,[],,['chan2019'],,False,False,,1
+jola1263-1-25-1,,jola1263-1,25,kabanan di futɔk,kabanan di futɔk,[],,['chan2019'],,False,False,,1
+jola1263-1-26-1,,jola1263-1,26,kabanan di futɔk di jəkon,kabanan di futɔk di jəkon,[],,['chan2019'],,False,False,,1
+jola1263-1-27-1,,jola1263-1,27,kabanan di futɔk di siɡaba,kabanan di futɔk di siɡaba,[],,['chan2019'],,False,False,,1
+jola1263-1-28-1,,jola1263-1,28,kabanan di futɔk di sifeeɡiir,kabanan di futɔk di sifeeɡiir,[],,['chan2019'],,False,False,,1
+jola1263-1-29-1,,jola1263-1,29,kabanan di futɔk di sibaakiir,kabanan di futɔk di sibaakiir,[],,['chan2019'],,False,False,,1
+jola1263-1-30-1,,jola1263-1,30,kabanan di uɲɛn,kabanan di uɲɛn,[],( 20 + 10),['chan2019'],,False,False,,1
+jola1263-1-40-1,,jola1263-1,40,bukan kuɡaba,bukan kuɡaba,[],(lit: 2 people),['chan2019'],,False,False,,1
+jola1263-1-50-1,,jola1263-1,50,bukan siɡaba di uɲɛn,bukan siɡaba di uɲɛn,[],,['chan2019'],,False,False,,1
+jola1263-1-60-1,,jola1263-1,60,bukan sifeeɡiir,bukan sifeeɡiir,[],(lit: 3 people),['chan2019'],,False,False,,1
+jola1263-1-70-1,,jola1263-1,70,bukan sifeeɡiir di uɲɛn,bukan sifeeɡiir di uɲɛn,[],,['chan2019'],,False,False,,1
+jola1263-1-80-1,,jola1263-1,80,bukan sibaakiir,bukan sibaakiir,[],(lit: 4 people),['chan2019'],,False,False,,1
+jola1263-1-90-1,,jola1263-1,90,bukan sibaakiir di uɲɛn,bukan sibaakiir di uɲɛn,[],,['chan2019'],,False,False,,1
+jola1263-1-100-1,,jola1263-1,100,cɛɛmɛ,cɛɛmɛ,[],,['chan2019'],,False,False,,1
+jola1263-1-200-1,,jola1263-1,200,cɛɛmɛ siɡaba,cɛɛmɛ siɡaba,[],,['chan2019'],,False,False,,1
+jola1263-1-1000-1,,jola1263-1,1000,wili,wili,[],,['chan2019'],,False,False,,1
+jola1263-1-2000-1,,jola1263-1,2000,siwili siɡaba,siwili siɡaba,[],,['chan2019'],,False,False,,1

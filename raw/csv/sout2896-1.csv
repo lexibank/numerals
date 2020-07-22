@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sout2896-1-1-1,,sout2896-1,1,tu,tu,[],,['chan2019'],,False,False,,1
+sout2896-1-2-1,,sout2896-1,2,'dʒua,'dʒua,[],,['chan2019'],,False,False,,1
+sout2896-1-3-1,,sout2896-1,3,təl,təl,[],,['chan2019'],,False,False,,1
+sout2896-1-4-1,,sout2896-1,4,'pate,'pate,[],,['chan2019'],,False,False,,1
+sout2896-1-5-1,,sout2896-1,5,'lɛma,'lɛma,[],,['chan2019'],,False,False,,1
+sout2896-1-6-1,,sout2896-1,6,ə'nam,ə'nam,[],,['chan2019'],,False,False,,1
+sout2896-1-7-1,,sout2896-1,7,'pito,'pito,[],,['chan2019'],,False,False,,1
+sout2896-1-8-1,,sout2896-1,8,'buto,'buto,[],,['chan2019'],,False,False,,1
+sout2896-1-9-1,,sout2896-1,9,'hiva,'hiva,[],,['chan2019'],,False,False,,1
+sout2896-1-10-1,,sout2896-1,10,he'pulo,he'pulo,[],,['chan2019'],,False,False,,1
+sout2896-1-11-1,,sout2896-1,11,he'pulo no tu,he'pulo no tu,[],,['chan2019'],,False,False,,1
+sout2896-1-12-1,,sout2896-1,12,he'pulo no 'dʒua,he'pulo no 'dʒua,[],,['chan2019'],,False,False,,1
+sout2896-1-13-1,,sout2896-1,13,he'pulo no təl,he'pulo no təl,[],,['chan2019'],,False,False,,1
+sout2896-1-14-1,,sout2896-1,14,he'pulo no 'pate,he'pulo no 'pate,[],,['chan2019'],,False,False,,1
+sout2896-1-15-1,,sout2896-1,15,he'pulo no 'lɛma,he'pulo no 'lɛma,[],,['chan2019'],,False,False,,1
+sout2896-1-16-1,,sout2896-1,16,he'pulo no ə'nəm,he'pulo no ə'nəm,[],,['chan2019'],,False,False,,1
+sout2896-1-17-1,,sout2896-1,17,he'pulo no 'pito,he'pulo no 'pito,[],,['chan2019'],,False,False,,1
+sout2896-1-18-1,,sout2896-1,18,he'pulo no 'buto,he'pulo no 'buto,[],,['chan2019'],,False,False,,1
+sout2896-1-19-1,,sout2896-1,19,he'pulo no 'hiva,he'pulo no 'hiva,[],,['chan2019'],,False,False,,1
+sout2896-1-20-1,,sout2896-1,20,pul 'dʒua,pul 'dʒua,[],,['chan2019'],,False,False,,1
+sout2896-1-21-1,,sout2896-1,21,pul 'dʒə no tu,pul 'dʒə no tu,[],,['chan2019'],,False,False,,1
+sout2896-1-22-1,,sout2896-1,22,pul 'dʒə no 'dʒua,pul 'dʒə no 'dʒua,[],,['chan2019'],,False,False,,1
+sout2896-1-23-1,,sout2896-1,23,pul 'dʒə no təl,pul 'dʒə no təl,[],,['chan2019'],,False,False,,1
+sout2896-1-24-1,,sout2896-1,24,pul 'dʒə no 'pate,pul 'dʒə no 'pate,[],,['chan2019'],,False,False,,1
+sout2896-1-25-1,,sout2896-1,25,pul 'dʒə no 'lɛma,pul 'dʒə no 'lɛma,[],,['chan2019'],,False,False,,1
+sout2896-1-26-1,,sout2896-1,26,pul 'dʒə no ə'nam,pul 'dʒə no ə'nam,[],,['chan2019'],,False,False,,1
+sout2896-1-27-1,,sout2896-1,27,pul 'dʒə no 'pito,pul 'dʒə no 'pito,[],,['chan2019'],,False,False,,1
+sout2896-1-28-1,,sout2896-1,28,pul 'dʒə no buto,pul 'dʒə no buto,[],,['chan2019'],,False,False,,1
+sout2896-1-29-1,,sout2896-1,29,pul 'dʒə no 'hiva,pul 'dʒə no 'hiva,[],,['chan2019'],,False,False,,1
+sout2896-1-30-1,,sout2896-1,30,pul təl,pul təl,[],,['chan2019'],,False,False,,1
+sout2896-1-40-1,,sout2896-1,40,pul 'pata,pul 'pata,[],,['chan2019'],,False,False,,1
+sout2896-1-50-1,,sout2896-1,50,pul 'lɛma,pul 'lɛma,[],,['chan2019'],,False,False,,1
+sout2896-1-60-1,,sout2896-1,60,pul ə'nəm,pul ə'nəm,[],,['chan2019'],,False,False,,1
+sout2896-1-70-1,,sout2896-1,70,pul 'pito,pul 'pito,[],,['chan2019'],,False,False,,1
+sout2896-1-80-1,,sout2896-1,80,pul 'buto,pul 'buto,[],,['chan2019'],,False,False,,1
+sout2896-1-90-1,,sout2896-1,90,pul 'hiva,pul 'hiva,[],,['chan2019'],,False,False,,1
+sout2896-1-100-1,,sout2896-1,100,rat,rat,[],,['chan2019'],,False,False,,1
+sout2896-1-100-2,,sout2896-1,100,123. rat tu no pul 'dʒua təl,123. rat tu no pul 'dʒua təl,[],,['chan2019'],,False,True,,1
+sout2896-1-200-1,,sout2896-1,200,rat 'dʒua,rat 'dʒua,[],,['chan2019'],,False,False,,1
+sout2896-1-1000-1,,sout2896-1,1000,rib tu,rib tu,[],,['chan2019'],,False,False,,1
+sout2896-1-100000-1,,sout2896-1,100000,rib rat tu,rib rat tu,[],,['chan2019'],,False,False,,1

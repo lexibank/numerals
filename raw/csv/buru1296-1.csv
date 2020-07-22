@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+buru1296-1-1-1,,buru1296-1,1,han,han,[],,['chan2019'],,False,False,,1
+buru1296-1-2-1,,buru1296-1,2,alto,alto,[],,['chan2019'],,False,False,,1
+buru1296-1-3-1,,buru1296-1,3,usko,usko,[],,['chan2019'],,False,False,,1
+buru1296-1-4-1,,buru1296-1,4,walto,walto,[],,['chan2019'],,False,False,,1
+buru1296-1-5-1,,buru1296-1,5,t͡sʰundo,t͡sʰundo,[],,['chan2019'],,False,False,,1
+buru1296-1-6-1,,buru1296-1,6,miʃindo,miʃindo,[],,['chan2019'],,False,False,,1
+buru1296-1-7-1,,buru1296-1,7,tʰalo,tʰalo,[],,['chan2019'],,False,False,,1
+buru1296-1-8-1,,buru1296-1,8,altambo,altambo,[],,['chan2019'],,False,False,,1
+buru1296-1-9-1,,buru1296-1,9,hunt͡ʃo,hunt͡ʃo,[],,['chan2019'],,False,False,,1
+buru1296-1-10-1,,buru1296-1,10,toorumo,toorumo,[],,['chan2019'],,False,False,,1
+buru1296-1-11-1,,buru1296-1,11,turma han,turma han,[],,['chan2019'],,False,False,,1
+buru1296-1-12-1,,buru1296-1,12,turma alto,turma alto,[],,['chan2019'],,False,False,,1
+buru1296-1-13-1,,buru1296-1,13,turma usko,turma usko,[],,['chan2019'],,False,False,,1
+buru1296-1-14-1,,buru1296-1,14,turma walto,turma walto,[],,['chan2019'],,False,False,,1
+buru1296-1-15-1,,buru1296-1,15,turma t͡sʰundo,turma t͡sʰundo,[],,['chan2019'],,False,False,,1
+buru1296-1-16-1,,buru1296-1,16,turma miʃindo,turma miʃindo,[],,['chan2019'],,False,False,,1
+buru1296-1-17-1,,buru1296-1,17,turma tʰalo,turma tʰalo,[],,['chan2019'],,False,False,,1
+buru1296-1-18-1,,buru1296-1,18,turma altambo,turma altambo,[],,['chan2019'],,False,False,,1
+buru1296-1-19-1,,buru1296-1,19,turma hunt͡ʃo,turma hunt͡ʃo,[],,['chan2019'],,False,False,,1
+buru1296-1-20-1,,buru1296-1,20,altar,altar,[],,['chan2019'],,False,False,,1
+buru1296-1-21-1,,buru1296-1,21,altar han,altar han,[],,['chan2019'],,False,False,,1
+buru1296-1-22-1,,buru1296-1,22,altar alto,altar alto,[],,['chan2019'],,False,False,,1
+buru1296-1-23-1,,buru1296-1,23,altar usko,altar usko,[],,['chan2019'],,False,False,,1
+buru1296-1-24-1,,buru1296-1,24,altar walto,altar walto,[],,['chan2019'],,False,False,,1
+buru1296-1-25-1,,buru1296-1,25,altar t͡sʰundo,altar t͡sʰundo,[],,['chan2019'],,False,False,,1
+buru1296-1-26-1,,buru1296-1,26,altar miʃindo,altar miʃindo,[],,['chan2019'],,False,False,,1
+buru1296-1-27-1,,buru1296-1,27,altar tʰalo,altar tʰalo,[],,['chan2019'],,False,False,,1
+buru1296-1-28-1,,buru1296-1,28,altar altambo,altar altambo,[],,['chan2019'],,False,False,,1
+buru1296-1-29-1,,buru1296-1,29,altar hunt͡ʃo,altar hunt͡ʃo,[],,['chan2019'],,False,False,,1
+buru1296-1-30-1,,buru1296-1,30,altar toorumo,altar toorumo,[],( 20 + 10 ),['chan2019'],,False,False,,1
+buru1296-1-40-1,,buru1296-1,40,alto altar,alto altar,[],( 2 x 20 ),['chan2019'],,False,False,,1
+buru1296-1-50-1,,buru1296-1,50,alto altar toorumo,alto altar toorumo,[],,['chan2019'],,False,False,,1
+buru1296-1-60-1,,buru1296-1,60,usko altar,usko altar,[],( 3 x 20 ),['chan2019'],,False,False,,1
+buru1296-1-70-1,,buru1296-1,70,usko altar toorumo,usko altar toorumo,[],,['chan2019'],,False,False,,1
+buru1296-1-80-1,,buru1296-1,80,walto altar,walto altar,[],( 4 x 20 ),['chan2019'],,False,False,,1
+buru1296-1-90-1,,buru1296-1,90,walto altar toorumo,walto altar toorumo,[],,['chan2019'],,False,False,,1
+buru1296-1-100-1,,buru1296-1,100,tʰaa,tʰaa,[],,['chan2019'],,False,False,,1
+buru1296-1-200-1,,buru1296-1,200,alto tʰaa,alto tʰaa,[],,['chan2019'],,False,False,,1
+buru1296-1-1000-1,,buru1296-1,1000,alto hazaar,alto hazaar,[],,['chan2019'],,False,False,,1

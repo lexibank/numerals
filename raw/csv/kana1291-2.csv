@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kana1291-2-1-1,,kana1291-2,1,ikik,ikik,[],,['chan2019'],,False,False,,2
+kana1291-2-2-1,,kana1291-2,2,obowa,obowa,[],,['chan2019'],,False,False,,2
+kana1291-2-3-1,,kana1291-2,3,ikik obowa hokatu,ikik obowa hokatu,[],( one plus two ),['chan2019'],,False,False,,2
+kana1291-2-4-1,,kana1291-2,4,obowa obowa hokatu,obowa obowa hokatu,[],( two plus two ),['chan2019'],,False,False,,2
+kana1291-2-5-1,,kana1291-2,5,ba ikik,ba ikik,[],( lit: 'one hand' ),['chan2019'],,False,False,,2
+kana1291-2-6-1,,kana1291-2,6,ba ikik ikik hokatu,ba ikik ikik hokatu,[],( lit: 'one hand plus one' ),['chan2019'],,False,False,,2
+kana1291-2-7-1,,kana1291-2,7,ba ikik obowa hokatu,ba ikik obowa hokatu,[],( lit: 'one hand plus two' ),['chan2019'],,False,False,,2
+kana1291-2-8-1,,kana1291-2,8,ba ikik ikik obowa hokatu,ba ikik ikik obowa hokatu,[],( lit: ' one hand plus two plus one plus two' ),['chan2019'],,False,False,,2
+kana1291-2-9-1,,kana1291-2,9,ba ikik obowa obowa hokatu,ba ikik obowa obowa hokatu,[],( lit: 'one hand plus two plus two plus two' ),['chan2019'],,False,False,,2
+kana1291-2-10-1,,kana1291-2,10,ba obowa,ba obowa,[],( lit: 'two hands' ),['chan2019'],,False,False,,2

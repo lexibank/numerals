@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mend1268-1-1-1,,mend1268-1,1,nam.dar,nam.dar,[],,['chan2019'],,False,False,,1
+mend1268-1-2-1,,mend1268-1,2,fri.ʃip,fri.ʃip,[],,['chan2019'],,False,False,,1
+mend1268-1-3-1,,mend1268-1,3,nal.min.ɡrip,nal.min.ɡrip,[],,['chan2019'],,False,False,,1
+mend1268-1-4-1,,mend1268-1,4,tɔ.βrɔ.ka.βrɔ,tɔ.βrɔ.ka.βrɔ,[],,['chan2019'],,False,False,,1
+mend1268-1-5-1,,mend1268-1,5,tɔs.ta.βa,tɔs.ta.βa,[],,['chan2019'],,False,False,,1
+mend1268-1-6-1,,mend1268-1,6,tɔs.ta.βa.ta.βa.jɔk nam.dar,tɔs.ta.βa.ta.βa.jɔk nam.dar,[],( 5 + 1 ),['chan2019'],,False,False,,1
+mend1268-1-7-1,,mend1268-1,7,tɔs.ta.βa.ta.βa.jɔk fri.ʃip,tɔs.ta.βa.ta.βa.jɔk fri.ʃip,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mend1268-1-8-1,,mend1268-1,8,tɔs.ta.βa.ta.βa.jɔk nal.min.ɡrip,tɔs.ta.βa.ta.βa.jɔk nal.min.ɡrip,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mend1268-1-9-1,,mend1268-1,9,tɔs.ta.βa.ta.βa.jɔk tɔ.βrɔ.ka.βrɔ,tɔs.ta.βa.ta.βa.jɔk tɔ.βrɔ.ka.βrɔ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+mend1268-1-10-1,,mend1268-1,10,tɔs.ta.βa.kas.ta.βa,tɔs.ta.βa.kas.ta.βa,[],,['chan2019'],,False,False,,1
+mend1268-1-11-1,,mend1268-1,11,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk nam.dar,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk nam.dar,[],,['chan2019'],,False,False,,1
+mend1268-1-12-1,,mend1268-1,12,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk fri.ʃip,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk fri.ʃip,[],,['chan2019'],,False,False,,1
+mend1268-1-13-1,,mend1268-1,13,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk nal.min.ɡrip,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk nal.min.ɡrip,[],,['chan2019'],,False,False,,1
+mend1268-1-14-1,,mend1268-1,14,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk tɔ.βrɔ.ka.βrɔ,tɔs.ta.βa.kas.ta.βa ku.mba.jɔk tɔ.βrɔ.ka.βrɔ,[],,['chan2019'],,False,False,,1
+mend1268-1-15-1,,mend1268-1,15,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba,[],,['chan2019'],,False,False,,1
+mend1268-1-16-1,,mend1268-1,16,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk nam dar,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk nam dar,[],,['chan2019'],,False,False,,1
+mend1268-1-17-1,,mend1268-1,17,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk fri.ʃip,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk fri.ʃip,[],,['chan2019'],,False,False,,1
+mend1268-1-18-1,,mend1268-1,18,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk nal.min.ɡrip,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk nal.min.ɡrip,[],,['chan2019'],,False,False,,1
+mend1268-1-19-1,,mend1268-1,19,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk tɔ.βrɔ.ka.βrɔ,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba ku.mba.jɔk tɔ.βrɔ.ka.βrɔ,[],,['chan2019'],,False,False,,1
+mend1268-1-20-1,,mend1268-1,20,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba kas ku.mba,tɔs.ta.βa.kas.ta.βa tɔs.ku.mba kas ku.mba,[],,['chan2019'],,False,False,,1

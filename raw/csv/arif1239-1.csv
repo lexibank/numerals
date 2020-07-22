@@ -1,0 +1,20 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+arif1239-1-1-1,,arif1239-1,1,taʔimon,taʔimon,[],,['chan2019'],,False,False,,1
+arif1239-1-1-2,,arif1239-1,1,taimon,taimon,[],,['chan2019'],,False,False,,1
+arif1239-1-2-1,,arif1239-1,2,roʔab,roʔab,[],,['chan2019'],,False,False,,1
+arif1239-1-2-2,,arif1239-1,2,ruaba,ruaba,[],,['chan2019'],,False,False,,1
+arif1239-1-3-1,,arif1239-1,3,tounu,tounu,[],,['chan2019'],,False,False,,1
+arif1239-1-3-2,,arif1239-1,3,tonu,tonu,[],,['chan2019'],,False,False,,1
+arif1239-1-4-1,,arif1239-1,4,kwafeʔen,kwafeʔen,[],,['chan2019'],,False,False,,1
+arif1239-1-4-2,,arif1239-1,4,bata,bata,[],,['chan2019'],,False,False,,1
+arif1239-1-5-1,,arif1239-1,5,umat ron,umat ron,[],(lit: 'hand one side'),['chan2019'],,False,False,,1
+arif1239-1-6-1,,arif1239-1,6,umat ron taʔimon,umat ron taʔimon,[],,['chan2019'],,False,False,,1
+arif1239-1-7-1,,arif1239-1,7,umat ron roʔab,umat ron roʔab,[],,['chan2019'],,False,False,,1
+arif1239-1-8-1,,arif1239-1,8,umat ron tounu,umat ron tounu,[],,['chan2019'],,False,False,,1
+arif1239-1-9-1,,arif1239-1,9,umat ron kwafeʔen,umat ron kwafeʔen,[],,['chan2019'],,False,False,,1
+arif1239-1-10-1,,arif1239-1,10,umat ron roun,umat ron roun,[],(lit: 'hands two sides'),['chan2019'],,False,False,,1
+arif1239-1-20-1,,arif1239-1,20,orot (aroto ) taʔimon,orot (aroto ) taʔimon,[],(litː 'person one'),['chan2019'],,False,False,,1
+arif1239-1-40-1,,arif1239-1,40,orot roʔab,orot roʔab,[],(litː 'persons two'),['chan2019'],,False,False,,1
+arif1239-1-60-1,,arif1239-1,60,orot tounu,orot tounu,[],(litː 'persons three'),['chan2019'],,False,False,,1
+arif1239-1-80-1,,arif1239-1,80,orot kwafeʔen,orot kwafeʔen,[],(litː 'persons four'),['chan2019'],,False,False,,1
+arif1239-1-100-1,,arif1239-1,100,orot umat ron,orot umat ron,[],(litː 'persons five'),['chan2019'],,False,False,,1

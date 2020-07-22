@@ -1,0 +1,71 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+komo1260-1-1-1,,komo1260-1,1,ímotí,ímotí,[],,['chan2019'],,False,False,,1
+komo1260-1-1-2,,komo1260-1,1,mocí,mocí,[],,['chan2019'],,False,False,,1
+komo1260-1-1-3,,komo1260-1,1,ímotí,ímotí,[],,['chan2019'],,False,False,,1
+komo1260-1-1-4,,komo1260-1,1,mocí,mocí,[],,['chan2019'],,False,False,,1
+komo1260-1-2-1,,komo1260-1,2,íɓɛ,íɓɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-2-2,,komo1260-1,2,íɓɛ,íɓɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-3-1,,komo1260-1,3,ísáɔ,ísáɔ,[],,['chan2019'],,False,False,,1
+komo1260-1-3-2,,komo1260-1,3,ísáɔ,ísáɔ,[],,['chan2019'],,False,False,,1
+komo1260-1-4-1,,komo1260-1,4,ɡena,ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-4-2,,komo1260-1,4,ɡena,ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-5-1,,komo1260-1,5,ɓɔ́ku,ɓɔ́ku,[],,['chan2019'],,False,False,,1
+komo1260-1-5-2,,komo1260-1,5,ɓɔ́ku,ɓɔ́ku,[],,['chan2019'],,False,False,,1
+komo1260-1-6-1,,komo1260-1,6,njaɡa na motí,njaɡa na motí,[],,['chan2019'],,False,False,,1
+komo1260-1-6-2,,komo1260-1,6,síta,síta,[],( < Swahili),['chan2019'],,True,False,,1
+komo1260-1-7-1,,komo1260-1,7,njaɡa na íɓɛ̂,njaɡa na íɓɛ̂,[],,['chan2019'],,False,False,,1
+komo1260-1-7-2,,komo1260-1,7,sáɓa,sáɓa,[],( < Swahili),['chan2019'],,True,False,,1
+komo1260-1-8-1,,komo1260-1,8,njaɡa na ísâɔ̃,njaɡa na ísâɔ̃,[],,['chan2019'],,False,False,,1
+komo1260-1-8-2,,komo1260-1,8,monánɛ,monánɛ,[],( < Sw.),['chan2019'],,True,False,,1
+komo1260-1-9-1,,komo1260-1,9,njaɡa na ɡena,njaɡa na ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-9-2,,komo1260-1,9,kenda,kenda,[],,['chan2019'],,False,False,,1
+komo1260-1-9-3,,komo1260-1,9,tísa,tísa,[],(<Sw.),['chan2019'],,True,False,,1
+komo1260-1-10-1,,komo1260-1,10,njaɡa íɓɛ,njaɡa íɓɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-10-2,,komo1260-1,10,nkámá,nkámá,[],,['chan2019'],,False,False,,1
+komo1260-1-11-1,,komo1260-1,11,njaɡa íɓɛ na motí,njaɡa íɓɛ na motí,[],,['chan2019'],,False,False,,1
+komo1260-1-11-2,,komo1260-1,11,nkámá na motí,nkámá na motí,[],,['chan2019'],,False,False,,1
+komo1260-1-12-1,,komo1260-1,12,njaɡa íɓɛ na íɓɛ̂,njaɡa íɓɛ na íɓɛ̂,[],,['chan2019'],,False,False,,1
+komo1260-1-12-2,,komo1260-1,12,nkámá na íɓɛ̂,nkámá na íɓɛ̂,[],,['chan2019'],,False,False,,1
+komo1260-1-13-1,,komo1260-1,13,njaɡa íɓɛ na ísáɔ̃,njaɡa íɓɛ na ísáɔ̃,[],,['chan2019'],,False,False,,1
+komo1260-1-13-2,,komo1260-1,13,nkámá na ísáɔ̃,nkámá na ísáɔ̃,[],,['chan2019'],,False,False,,1
+komo1260-1-14-1,,komo1260-1,14,njaɡa íɓɛ na ɡena,njaɡa íɓɛ na ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-14-2,,komo1260-1,14,nkámá na,nkámá na,[],,['chan2019'],,False,False,,1
+komo1260-1-15-1,,komo1260-1,15,njaɡa ísáɔ̃,njaɡa ísáɔ̃,[],,['chan2019'],,False,False,,1
+komo1260-1-15-2,,komo1260-1,15,nkámá na ɓɔ́ku,nkámá na ɓɔ́ku,[],,['chan2019'],,False,False,,1
+komo1260-1-16-1,,komo1260-1,16,njaɡa ísáɔ̃ na motí,njaɡa ísáɔ̃ na motí,[],,['chan2019'],,False,False,,1
+komo1260-1-16-2,,komo1260-1,16,nkámá na síta,nkámá na síta,[],,['chan2019'],,False,False,,1
+komo1260-1-17-1,,komo1260-1,17,njaɡa ísáɔ̃ na íɓɛ̂,njaɡa ísáɔ̃ na íɓɛ̂,[],,['chan2019'],,False,False,,1
+komo1260-1-17-2,,komo1260-1,17,nkámá na sáɓa,nkámá na sáɓa,[],,['chan2019'],,False,False,,1
+komo1260-1-18-1,,komo1260-1,18,njaɡa ísáɔ̃ na ísáɔ̃,njaɡa ísáɔ̃ na ísáɔ̃,[],,['chan2019'],,False,False,,1
+komo1260-1-18-2,,komo1260-1,18,nkámá na m.,nkámá na m.,[],,['chan2019'],,False,False,,1
+komo1260-1-19-1,,komo1260-1,19,njaɡa ísáɔ̃ na ɡena,njaɡa ísáɔ̃ na ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-19-2,,komo1260-1,19,nkámá na tísa,nkámá na tísa,[],,['chan2019'],,False,False,,1
+komo1260-1-20-1,,komo1260-1,20,nkpá búi,nkpá búi,[],,['chan2019'],,False,False,,1
+komo1260-1-20-2,,komo1260-1,20,nkámá íɓɛ,nkámá íɓɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-21-1,,komo1260-1,21,nkpá búi na motí,nkpá búi na motí,[],,['chan2019'],,False,False,,1
+komo1260-1-21-2,,komo1260-1,21,nkámá íɓɛ na motí,nkámá íɓɛ na motí,[],,['chan2019'],,False,False,,1
+komo1260-1-22-1,,komo1260-1,22,nkpá búi na íɓɛ,nkpá búi na íɓɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-22-2,,komo1260-1,22,nkámá íɓɛ na íɓɛ,nkámá íɓɛ na íɓɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-23-1,,komo1260-1,23,nkpá búi na ísáɔ,nkpá búi na ísáɔ,[],,['chan2019'],,False,False,,1
+komo1260-1-23-2,,komo1260-1,23,nkámá íɓɛ na ísáɔ,nkámá íɓɛ na ísáɔ,[],,['chan2019'],,False,False,,1
+komo1260-1-24-1,,komo1260-1,24,nkpá búi na ɡena,nkpá búi na ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-24-2,,komo1260-1,24,nkámá íɓɛ na ɡena,nkámá íɓɛ na ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-25-1,,komo1260-1,25,nkpá búi na ɓɔ́ku,nkpá búi na ɓɔ́ku,[],,['chan2019'],,False,False,,1
+komo1260-1-25-2,,komo1260-1,25,nkámá íɓɛ na ɓɔ́ku,nkámá íɓɛ na ɓɔ́ku,[],,['chan2019'],,False,False,,1
+komo1260-1-26-1,,komo1260-1,26,nkámá íɓɛ na síta,nkámá íɓɛ na síta,[],,['chan2019'],,False,False,,1
+komo1260-1-27-1,,komo1260-1,27,nkámá íɓɛ na sáɓa,nkámá íɓɛ na sáɓa,[],,['chan2019'],,False,False,,1
+komo1260-1-28-1,,komo1260-1,28,nkámá íɓɛ na monánɛ,nkámá íɓɛ na monánɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-29-1,,komo1260-1,29,nkámá íɓɛ na kenda,nkámá íɓɛ na kenda,[],,['chan2019'],,False,False,,1
+komo1260-1-29-2,,komo1260-1,29,tísa,tísa,[],,['chan2019'],,False,False,,1
+komo1260-1-30-1,,komo1260-1,30,nkámá ísáɔ̃,nkámá ísáɔ̃,[],,['chan2019'],,False,False,,1
+komo1260-1-40-1,,komo1260-1,40,nkámá ɡena,nkámá ɡena,[],,['chan2019'],,False,False,,1
+komo1260-1-50-1,,komo1260-1,50,nkámá ɓɔ́ku,nkámá ɓɔ́ku,[],,['chan2019'],,False,False,,1
+komo1260-1-60-1,,komo1260-1,60,nkámá síta,nkámá síta,[],,['chan2019'],,False,False,,1
+komo1260-1-70-1,,komo1260-1,70,nkámá sáɓa,nkámá sáɓa,[],,['chan2019'],,False,False,,1
+komo1260-1-80-1,,komo1260-1,80,nkámá monánɛ,nkámá monánɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-90-1,,komo1260-1,90,nkámá tísa,nkámá tísa,[],,['chan2019'],,False,False,,1
+komo1260-1-100-1,,komo1260-1,100,mía,mía,[],( <Swahili ),['chan2019'],,True,False,,1
+komo1260-1-200-1,,komo1260-1,200,mía íɓɛ,mía íɓɛ,[],,['chan2019'],,False,False,,1
+komo1260-1-1000-1,,komo1260-1,1000,ɛ́ɛphu,ɛ́ɛphu,[],,['chan2019'],,False,False,,1
+komo1260-1-1000-2,,komo1260-1,1000,ɛ́lɛphu,ɛ́lɛphu,[],(ɛ́lɛphu < Swahili),['chan2019'],,True,False,,1
+komo1260-1-2000-1,,komo1260-1,2000,ɛ́lɛphu íɓɛ,ɛ́lɛphu íɓɛ,[],,['chan2019'],,False,False,,1

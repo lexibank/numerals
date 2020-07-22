@@ -1,0 +1,25 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lopi1242-1-1-1,,lopi1242-1,1,nàbóìtóì,nàbóìtóì,[],(F),['chan2019'],,False,False,,1
+lopi1242-1-1-2,,lopi1242-1,1,lòbóìtóì,lòbóìtóì,[],(M),['chan2019'],,False,False,,1
+lopi1242-1-2-1,,lopi1242-1,2,lòhórìk,lòhórìk,[],,['chan2019'],,False,False,,1
+lopi1242-1-2-2,,lopi1242-1,2,arik,arik,[],,['chan2019'],,False,False,,1
+lopi1242-1-3-1,,lopi1242-1,3,lòhúnìk,lòhúnìk,[],,['chan2019'],,False,False,,1
+lopi1242-1-4-1,,lopi1242-1,4,lóŋwán,lóŋwán,[],,['chan2019'],,False,False,,1
+lopi1242-1-5-1,,lopi1242-1,5,mìyét,mìyét,[],(litː < 'hand'),['chan2019'],,False,False,,1
+lopi1242-1-6-1,,lopi1242-1,6,ile,ile,[],,['chan2019'],,False,False,,1
+lopi1242-1-7-1,,lopi1242-1,7,hatarik,hatarik,[],( 5 + 2 ),['chan2019'],,False,False,,1
+lopi1242-1-8-1,,lopi1242-1,8,hotohunɪk,hotohunɪk,[],( 5 + 3 ),['chan2019'],,False,False,,1
+lopi1242-1-9-1,,lopi1242-1,9,hotoŋwan,hotoŋwan,[],( 5 + 4 ),['chan2019'],,False,False,,1
+lopi1242-1-10-1,,lopi1242-1,10,tomon,tomon,[],,['chan2019'],,False,False,,1
+lopi1242-1-11-1,,lopi1242-1,11,tomon ho naboitoi,tomon ho naboitoi,[],,['chan2019'],,False,False,,1
+lopi1242-1-12-1,,lopi1242-1,12,tomon ho arik,tomon ho arik,[],,['chan2019'],,False,False,,1
+lopi1242-1-13-1,,lopi1242-1,13,tomon ho wunik,tomon ho wunik,[],,['chan2019'],,False,False,,1
+lopi1242-1-14-1,,lopi1242-1,14,tomon ho aŋwan,tomon ho aŋwan,[],,['chan2019'],,False,False,,1
+lopi1242-1-15-1,,lopi1242-1,15,tomon ho miyet,tomon ho miyet,[],,['chan2019'],,False,False,,1
+lopi1242-1-16-1,,lopi1242-1,16,tomon ho ile,tomon ho ile,[],,['chan2019'],,False,False,,1
+lopi1242-1-17-1,,lopi1242-1,17,tomon ho hatarik,tomon ho hatarik,[],,['chan2019'],,False,False,,1
+lopi1242-1-18-1,,lopi1242-1,18,tomon ho hotohunɪk,tomon ho hotohunɪk,[],,['chan2019'],,False,False,,1
+lopi1242-1-19-1,,lopi1242-1,19,tomon ho hotoŋwan,tomon ho hotoŋwan,[],,['chan2019'],,False,False,,1
+lopi1242-1-20-1,,lopi1242-1,20,tomon arik,tomon arik,[],,['chan2019'],,False,False,,1
+lopi1242-1-100-1,,lopi1242-1,100,tomona tomon,tomona tomon,[],,['chan2019'],,False,False,,1
+lopi1242-1-1000-1,,lopi1242-1,1000,hicihi naboite,hicihi naboite,[],,['chan2019'],,False,False,,1

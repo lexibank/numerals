@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+guhu1244-1-1-1,,guhu1244-1,1,tena,tena,[],(lit: ''one finger'' ),['chan2019'],,False,False,,1
+guhu1244-1-2-1,,guhu1244-1,2,eseri,eseri,[],(lit: ''two fingers'' ),['chan2019'],,False,False,,1
+guhu1244-1-3-1,,guhu1244-1,3,tapari,tapari,[],,['chan2019'],,False,False,,1
+guhu1244-1-4-1,,guhu1244-1,4,eserisa eseri,eserisa eseri,[],,['chan2019'],,False,False,,1
+guhu1244-1-5-1,,guhu1244-1,5,boto tena,boto tena,[],(litː ''one hand'' ),['chan2019'],,False,False,,1
+guhu1244-1-6-1,,guhu1244-1,6,boto tena ma sika,boto tena ma sika,[],(litː ''one hand and a finger''),['chan2019'],,False,False,,1
+guhu1244-1-7-1,,guhu1244-1,7,boto tena ma sika eseri,boto tena ma sika eseri,[],,['chan2019'],,False,False,,1
+guhu1244-1-8-1,,guhu1244-1,8,boto tena ma sika tapari,boto tena ma sika tapari,[],,['chan2019'],,False,False,,1
+guhu1244-1-9-1,,guhu1244-1,9,boto tena ma sika eserisa eseri,boto tena ma sika eserisa eseri,[],,['chan2019'],,False,False,,1
+guhu1244-1-10-1,,guhu1244-1,10,boto eseri,boto eseri,[],(litː ''two hands'' ),['chan2019'],,False,False,,1
+guhu1244-1-11-1,,guhu1244-1,11,boto eseri ma sika,boto eseri ma sika,[],(litː ''two hands and a finger'' ),['chan2019'],,False,False,,1
+guhu1244-1-12-1,,guhu1244-1,12,boto eseri ma sika eseri,boto eseri ma sika eseri,[],,['chan2019'],,False,False,,1
+guhu1244-1-13-1,,guhu1244-1,13,boto eseri ma sika tapari,boto eseri ma sika tapari,[],,['chan2019'],,False,False,,1
+guhu1244-1-14-1,,guhu1244-1,14,boto eseri ma sika eserisa eseri,boto eseri ma sika eserisa eseri,[],,['chan2019'],,False,False,,1
+guhu1244-1-15-1,,guhu1244-1,15,boto eseri ma oko tena,boto eseri ma oko tena,[],(litː ''two hands and a leg'' ),['chan2019'],,False,False,,1
+guhu1244-1-20-1,,guhu1244-1,20,abi same tena,abi same tena,[],( litː ''one whole man'' ),['chan2019'],,False,False,,1
+guhu1244-1-40-1,,guhu1244-1,40,abi same eseri,abi same eseri,[],( litː ''two people'' ),['chan2019'],,False,False,,1
+guhu1244-1-60-1,,guhu1244-1,60,abi same tapari,abi same tapari,[],( litː ''three people''),['chan2019'],,False,False,,1
+guhu1244-1-80-1,,guhu1244-1,80,abi same eserisa eseri,abi same eserisa eseri,[],( litː ''four people'' ),['chan2019'],,False,False,,1
+guhu1244-1-100-1,,guhu1244-1,100,abi same boto tena,abi same boto tena,[],( litː ''five people'' ),['chan2019'],,False,False,,1

@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nucl1632-1-1-1,,nucl1632-1,1,mbai,mbai,[],,['chan2019'],,False,False,,1
+nucl1632-1-2-1,,nucl1632-1,2,be,be,[],,['chan2019'],,False,False,,1
+nucl1632-1-3-1,,nucl1632-1,3,namʌ,namʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-4-1,,nucl1632-1,4,kʌli,kʌli,[],,['chan2019'],,False,False,,1
+nucl1632-1-5-1,,nucl1632-1,5,mæhæ mbai,mæhæ mbai,[],,['chan2019'],,False,False,,1
+nucl1632-1-6-1,,nucl1632-1,6,mʌhinʌ mbai,mʌhinʌ mbai,[],,['chan2019'],,False,False,,1
+nucl1632-1-7-1,,nucl1632-1,7,mʌhinʌ be,mʌhinʌ be,[],,['chan2019'],,False,False,,1
+nucl1632-1-8-1,,nucl1632-1,8,mʌhinʌ namʌ,mʌhinʌ namʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-9-1,,nucl1632-1,9,mʌhinʌ kʌli,mʌhinʌ kʌli,[],,['chan2019'],,False,False,,1
+nucl1632-1-10-1,,nucl1632-1,10,mʌ be,mʌ be,[],,['chan2019'],,False,False,,1
+nucl1632-1-11-1,,nucl1632-1,11,mʌ be mbai bʌlʌ,mʌ be mbai bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-12-1,,nucl1632-1,12,mʌ be bʌ bʌlʌ,mʌ be bʌ bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-13-1,,nucl1632-1,13,mʌ be namə bʌlʌ,mʌ be namə bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-14-1,,nucl1632-1,14,mʌ be kəli bʌlʌ,mʌ be kəli bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-15-1,,nucl1632-1,15,mʌ be mæhæ mbai bʌlʌ,mʌ be mæhæ mbai bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-16-1,,nucl1632-1,16,mʌ be mʌhinʌ mbai bʌlʌ,mʌ be mʌhinʌ mbai bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-17-1,,nucl1632-1,17,mʌ be mʌhinʌ be bʌlʌ,mʌ be mʌhinʌ be bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-18-1,,nucl1632-1,18,mʌ be mʌhinʌ namʌ bʌlʌ,mʌ be mʌhinʌ namʌ bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-19-1,,nucl1632-1,19,mʌ be mʌhinʌ kʌli bʌlʌ,mʌ be mʌhinʌ kʌli bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-20-1,,nucl1632-1,20,u mbai,u mbai,[],(litː ''one body'' ),['chan2019'],,False,False,,1
+nucl1632-1-21-1,,nucl1632-1,21,u mbai mbai bʌlʌ,u mbai mbai bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-22-1,,nucl1632-1,22,u mbai be bʌlʌ,u mbai be bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-23-1,,nucl1632-1,23,u mbai namʌ bʌlʌ,u mbai namʌ bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-24-1,,nucl1632-1,24,u mbai kʌli bʌlʌ,u mbai kʌli bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-25-1,,nucl1632-1,25,u mbai mæhæ mbai bʌlʌ,u mbai mæhæ mbai bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-26-1,,nucl1632-1,26,u mbai mʌhinʌ mbai bʌlʌ,u mbai mʌhinʌ mbai bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-27-1,,nucl1632-1,27,u mbai mʌhinʌbebʌlʌ,u mbai mʌhinʌbebʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-28-1,,nucl1632-1,28,u mbai mʌhinʌ namʌ bʌlʌ,u mbai mʌhinʌ namʌ bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-29-1,,nucl1632-1,29,u mbai mʌhinʌ kʌli bʌlʌ,u mbai mʌhinʌ kʌli bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-30-1,,nucl1632-1,30,u mbai mʌ be bʌlʌ,u mbai mʌ be bʌlʌ,[],( litː 20 + 10 ),['chan2019'],,False,False,,1
+nucl1632-1-40-1,,nucl1632-1,40,u be,u be,[],(litː ''two bodies'' ),['chan2019'],,False,False,,1
+nucl1632-1-50-1,,nucl1632-1,50,u be mʌ be bʌlʌ,u be mʌ be bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-60-1,,nucl1632-1,60,u namʌ,u namʌ,[],(litː ''three bodies'' ),['chan2019'],,False,False,,1
+nucl1632-1-70-1,,nucl1632-1,70,u namʌ mʌ be bʌlʌ,u namʌ mʌ be bʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-80-1,,nucl1632-1,80,u kʌli,u kʌli,[],(litː ''four bodies'' ),['chan2019'],,False,False,,1
+nucl1632-1-90-1,,nucl1632-1,90,u kʌli mʌ bebʌlʌ,u kʌli mʌ bebʌlʌ,[],,['chan2019'],,False,False,,1
+nucl1632-1-100-1,,nucl1632-1,100,u mæhæ mbai,u mæhæ mbai,[],(litː ''five bodies'' ),['chan2019'],,False,False,,1
+nucl1632-1-200-1,,nucl1632-1,200,u mʌ be,u mʌ be,[],(litː ''ten bodies'' ),['chan2019'],,False,False,,1

@@ -1,0 +1,14 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tawo1244-1-1-1,,tawo1244-1,1,ko-ta',ko-ta',[],,['chan2019'],,False,False,,1
+tawo1244-1-2-1,,tawo1244-1,2,tai,tai,[],,['chan2019'],,False,False,,1
+tawo1244-1-3-1,,tawo1244-1,3,twi,twi,[],,['chan2019'],,False,False,,1
+tawo1244-1-4-1,,tawo1244-1,4,bia tai' bia tai',bia tai' bia tai',[],"(bia=not taken, leftover)",['chan2019'],,False,False,,1
+tawo1244-1-5-1,,tawo1244-1,5,ri' ɡwat-ta',ri' ɡwat-ta',[],"(ri=hand, ɡwat-ta=thumb)",['chan2019'],,False,False,,1
+tawo1244-1-6-1,,tawo1244-1,6,ri' bia ɡwat-ta',ri' bia ɡwat-ta',[],,['chan2019'],,False,False,,1
+tawo1244-1-7-1,,tawo1244-1,7,ri' ɡou'-bu,ri' ɡou'-bu,[],(ɡou'-bu=middle),['chan2019'],,False,False,,1
+tawo1244-1-8-1,,tawo1244-1,8,ri' ɡou'-bu fa-da',ri' ɡou'-bu fa-da',[],( fa-da=tall),['chan2019'],,False,False,,1
+tawo1244-1-9-1,,tawo1244-1,9,"ri' di-ɡe' fa-da' bu (di-ɡe'=pinky (little finger), bu=big","ri' di-ɡe' fa-da' bu (di-ɡe'=pinky (little finger), bu=big",[],,['chan2019'],,False,True,,1
+tawo1244-1-10-1,,tawo1244-1,10,ri' di-ɡe',ri' di-ɡe',[],,['chan2019'],,False,False,,1
+tawo1244-1-11-1,,tawo1244-1,11,ai' ɡwa ɡwat-ta',ai' ɡwa ɡwat-ta',[],(ai-ɡwa=foot),['chan2019'],,False,False,,1
+tawo1244-1-12-1,,tawo1244-1,12,ai' ɡwa ɡwat-ta' ɡou'-bu,ai' ɡwa ɡwat-ta' ɡou'-bu,[],,['chan2019'],,False,False,,1
+tawo1244-1-13-1,,tawo1244-1,13,bia tai' bia ko-ka',bia tai' bia ko-ka',[],,['chan2019'],,False,False,,1

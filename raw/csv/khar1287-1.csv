@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+khar1287-1-1-1,,khar1287-1,1,mõɲ,mõɲ,[],,['chan2019'],,False,False,,1
+khar1287-1-2-1,,khar1287-1,2,ubar,ubar,[],,['chan2019'],,False,False,,1
+khar1287-1-3-1,,khar1287-1,3,uafe,uafe,[],,['chan2019'],,False,False,,1
+khar1287-1-4-1,,khar1287-1,4,eafɔn,eafɔn,[],,['chan2019'],,False,False,,1
+khar1287-1-5-1,,khar1287-1,5,mɔlɔy,mɔlɔy,[],,['chan2019'],,False,False,,1
+khar1287-1-6-1,,khar1287-1,6,tibru,tibru,[],,['chan2019'],,False,False,,1
+khar1287-1-7-1,,khar1287-1,7,tʰam,tʰam,[],,['chan2019'],,False,False,,1
+khar1287-1-8-1,,khar1287-1,8,tʰɔm,tʰɔm,[],,['chan2019'],,False,False,,1
+khar1287-1-9-1,,khar1287-1,9,tʰɔmsiŋ,tʰɔmsiŋ,[],,['chan2019'],,False,False,,1
+khar1287-1-10-1,,khar1287-1,10,gʰɔl,gʰɔl,[],,['chan2019'],,False,False,,1
+khar1287-1-11-1,,khar1287-1,11,gʰɔl mõɲ,gʰɔl mõɲ,[],,['chan2019'],,False,False,,1
+khar1287-1-12-1,,khar1287-1,12,gʰɔl ubar,gʰɔl ubar,[],,['chan2019'],,False,False,,1
+khar1287-1-13-1,,khar1287-1,13,gʰɔl uafe,gʰɔl uafe,[],,['chan2019'],,False,False,,1
+khar1287-1-14-1,,khar1287-1,14,gʰɔl eafɔn,gʰɔl eafɔn,[],,['chan2019'],,False,False,,1
+khar1287-1-15-1,,khar1287-1,15,gʰɔl mɔlɔy,gʰɔl mɔlɔy,[],,['chan2019'],,False,False,,1
+khar1287-1-16-1,,khar1287-1,16,gʰɔl tibru,gʰɔl tibru,[],,['chan2019'],,False,False,,1
+khar1287-1-17-1,,khar1287-1,17,gʰɔl tʰam,gʰɔl tʰam,[],,['chan2019'],,False,False,,1
+khar1287-1-18-1,,khar1287-1,18,gʰɔl tʰɔm,gʰɔl tʰɔm,[],,['chan2019'],,False,False,,1
+khar1287-1-19-1,,khar1287-1,19,gʰɔl tʰɔmsiŋ,gʰɔl tʰɔmsiŋ,[],,['chan2019'],,False,False,,1
+khar1287-1-20-1,,khar1287-1,20,ekri,ekri,[],,['chan2019'],,False,False,,1
+khar1287-1-20-2,,khar1287-1,20,biːs,biːs,[],< Indo-Aryan ,['chan2019'],,True,False,,1
+khar1287-1-21-1,,khar1287-1,21,ekri mõɲ,ekri mõɲ,[],,['chan2019'],,False,False,,1
+khar1287-1-22-1,,khar1287-1,22,ekri ubar,ekri ubar,[],,['chan2019'],,False,False,,1
+khar1287-1-23-1,,khar1287-1,23,ekri uafe,ekri uafe,[],,['chan2019'],,False,False,,1
+khar1287-1-24-1,,khar1287-1,24,ekri eafɔn,ekri eafɔn,[],,['chan2019'],,False,False,,1
+khar1287-1-25-1,,khar1287-1,25,ekri mɔlɔy,ekri mɔlɔy,[],,['chan2019'],,False,False,,1
+khar1287-1-26-1,,khar1287-1,26,ekri tibru,ekri tibru,[],,['chan2019'],,False,False,,1
+khar1287-1-27-1,,khar1287-1,27,ekri tʰam,ekri tʰam,[],,['chan2019'],,False,False,,1
+khar1287-1-28-1,,khar1287-1,28,ekri tʰɔm,ekri tʰɔm,[],,['chan2019'],,False,False,,1
+khar1287-1-29-1,,khar1287-1,29,ekri tʰɔmsiŋ,ekri tʰɔmsiŋ,[],,['chan2019'],,False,False,,1
+khar1287-1-30-1,,khar1287-1,30,ekri gʰɔl,ekri gʰɔl,[],,['chan2019'],,False,False,,1
+khar1287-1-40-1,,khar1287-1,40,ubar ekri,ubar ekri,[],,['chan2019'],,False,False,,1
+khar1287-1-50-1,,khar1287-1,50,ubar ekri gʰɔl,ubar ekri gʰɔl,[],,['chan2019'],,False,False,,1
+khar1287-1-60-1,,khar1287-1,60,uafe ekri,uafe ekri,[],,['chan2019'],,False,False,,1
+khar1287-1-70-1,,khar1287-1,70,uafe ekri gʰɔl,uafe ekri gʰɔl,[],,['chan2019'],,False,False,,1
+khar1287-1-80-1,,khar1287-1,80,eafɔn ekri,eafɔn ekri,[],,['chan2019'],,False,False,,1
+khar1287-1-90-1,,khar1287-1,90,eafɔn ekri gʰɔl,eafɔn ekri gʰɔl,[],,['chan2019'],,False,False,,1
+khar1287-1-100-1,,khar1287-1,100,say,say,[],< Indo-Aryan ,['chan2019'],,True,False,,1
+khar1287-1-200-1,,khar1287-1,200,ubar say,ubar say,[],,['chan2019'],,False,False,,1
+khar1287-1-1000-1,,khar1287-1,1000,mõɲ had͡ʒaɾ,mõɲ had͡ʒaɾ,[],< Indo-Aryan ,['chan2019'],,True,False,,1
+khar1287-1-2000-1,,khar1287-1,2000,ubar had͡ʒaɾ,ubar had͡ʒaɾ,[],,['chan2019'],,False,False,,1

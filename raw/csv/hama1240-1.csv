@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hama1240-1-1-1,,hama1240-1,1,nu,nu,[],,['chan2019'],,False,False,,1
+hama1240-1-2-1,,hama1240-1,2,alo,alo,[],,['chan2019'],,False,False,,1
+hama1240-1-3-1,,hama1240-1,3,tof,tof,[],,['chan2019'],,False,False,,1
+hama1240-1-4-1,,hama1240-1,4,ut,ut,[],,['chan2019'],,False,False,,1
+hama1240-1-5-1,,hama1240-1,5,ivehiŋ,ivehiŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-6-1,,hama1240-1,6,talaŋ,talaŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-7-1,,hama1240-1,7,itito,itito,[],('seven three'),['chan2019'],,False,False,,1
+hama1240-1-8-1,,hama1240-1,8,turalo,turalo,[],( 'ten minus two'),['chan2019'],,False,False,,1
+hama1240-1-9-1,,hama1240-1,9,tieu,tieu,[],( 'ten minus one'),['chan2019'],,False,False,,1
+hama1240-1-10-1,,hama1240-1,10,air nu,air nu,[],,['chan2019'],,False,False,,1
+hama1240-1-11-1,,hama1240-1,11,air nu faliŋ nu ???,air nu faliŋ nu ???,[],,['chan2019'],,False,True,,1
+hama1240-1-12-1,,hama1240-1,12,ʡɛr nu faliŋ alo,ʡɛr nu faliŋ alo,[],,['chan2019'],,False,False,,1
+hama1240-1-13-1,,hama1240-1,13,ʡɛr nu faliŋ tof,ʡɛr nu faliŋ tof,[],,['chan2019'],,False,False,,1
+hama1240-1-14-1,,hama1240-1,14,ʡɛr nu faliŋ ut,ʡɛr nu faliŋ ut,[],,['chan2019'],,False,False,,1
+hama1240-1-15-1,,hama1240-1,15,ʡɛr nu faliŋ ivehiŋ,ʡɛr nu faliŋ ivehiŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-16-1,,hama1240-1,16,ʡɛr nu faliŋ talaŋ,ʡɛr nu faliŋ talaŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-17-1,,hama1240-1,17,ʡɛr nu faliŋ itito,ʡɛr nu faliŋ itito,[],,['chan2019'],,False,False,,1
+hama1240-1-18-1,,hama1240-1,18,ʡɛr nu faliŋ turalo,ʡɛr nu faliŋ turalo,[],,['chan2019'],,False,False,,1
+hama1240-1-19-1,,hama1240-1,19,ʡɛr nu faliŋ tieu,ʡɛr nu faliŋ tieu,[],,['chan2019'],,False,False,,1
+hama1240-1-20-1,,hama1240-1,20,air alo,air alo,[],,['chan2019'],,False,False,,1
+hama1240-1-21-1,,hama1240-1,21,air alo faliŋ nu,air alo faliŋ nu,[],,['chan2019'],,False,False,,1
+hama1240-1-22-1,,hama1240-1,22,air alo faliŋ alo,air alo faliŋ alo,[],,['chan2019'],,False,False,,1
+hama1240-1-23-1,,hama1240-1,23,air alo faliŋ tof,air alo faliŋ tof,[],,['chan2019'],,False,False,,1
+hama1240-1-24-1,,hama1240-1,24,air alo faliŋ ut,air alo faliŋ ut,[],,['chan2019'],,False,False,,1
+hama1240-1-25-1,,hama1240-1,25,air alo faliŋ ivehiŋ,air alo faliŋ ivehiŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-26-1,,hama1240-1,26,air alo faliŋ talaŋ,air alo faliŋ talaŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-27-1,,hama1240-1,27,air alo faliŋ itito,air alo faliŋ itito,[],,['chan2019'],,False,False,,1
+hama1240-1-28-1,,hama1240-1,28,air alo faliŋ turalo,air alo faliŋ turalo,[],,['chan2019'],,False,False,,1
+hama1240-1-29-1,,hama1240-1,29,air alo faliŋ tieu,air alo faliŋ tieu,[],,['chan2019'],,False,False,,1
+hama1240-1-30-1,,hama1240-1,30,air tof,air tof,[],,['chan2019'],,False,False,,1
+hama1240-1-40-1,,hama1240-1,40,air ut,air ut,[],,['chan2019'],,False,False,,1
+hama1240-1-50-1,,hama1240-1,50,air ivehiŋ,air ivehiŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-60-1,,hama1240-1,60,air talaŋ,air talaŋ,[],,['chan2019'],,False,False,,1
+hama1240-1-70-1,,hama1240-1,70,air itito,air itito,[],,['chan2019'],,False,False,,1
+hama1240-1-80-1,,hama1240-1,80,air turalo,air turalo,[],,['chan2019'],,False,False,,1
+hama1240-1-90-1,,hama1240-1,90,air tieu,air tieu,[],,['chan2019'],,False,False,,1
+hama1240-1-100-1,,hama1240-1,100,rat nu,rat nu,[],,['chan2019'],,False,False,,1
+hama1240-1-200-1,,hama1240-1,200,rat alo,rat alo,[],,['chan2019'],,False,False,,1
+hama1240-1-1000-1,,hama1240-1,1000,??,??,[],,['chan2019'],,False,True,,1
+hama1240-1-2000-1,,hama1240-1,2000,??,??,[],,['chan2019'],,False,True,,1

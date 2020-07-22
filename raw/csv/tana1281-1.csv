@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tana1281-1-1-1,,tana1281-1,1,eːt,eːt,[],,['chan2019'],,False,False,eet,1
+tana1281-1-1-2,,tana1281-1,1,ɶːt,ɶːt,[],,['chan2019'],,False,False,éét,1
+tana1281-1-2-1,,tana1281-1,2,rɯːw,rɯːw,[],,['chan2019'],,False,False,rúúw,1
+tana1281-1-3-1,,tana1281-1,3,eːl,eːl,[],,['chan2019'],,False,False,eel,1
+tana1281-1-4-1,,tana1281-1,4,fæːn,fæːn,[],,['chan2019'],,False,False,fáán,1
+tana1281-1-5-1,,tana1281-1,5,liːm,liːm,[],,['chan2019'],,False,False,liim,1
+tana1281-1-6-1,,tana1281-1,6,oːn,oːn,[],,['chan2019'],,False,False,oon,1
+tana1281-1-7-1,,tana1281-1,7,fiːs,fiːs,[],,['chan2019'],,False,False,fiis,1
+tana1281-1-7-2,,tana1281-1,7,fɯːs,fɯːs,[],,['chan2019'],,False,False,fúús,1
+tana1281-1-8-1,,tana1281-1,8,waːl,waːl,[],,['chan2019'],,False,False,waal,1
+tana1281-1-8-2,,tana1281-1,8,waːn,waːn,[],,['chan2019'],,False,False,waan,1
+tana1281-1-9-1,,tana1281-1,9,tiːw,tiːw,[],,['chan2019'],,False,False,tiiw,1
+tana1281-1-10-1,,tana1281-1,10,heiɡ,heiɡ,[],,['chan2019'],,False,False,heiɡ,1
+tana1281-1-11-1,,tana1281-1,11,heiɡ me e-uwa,heiɡ me e-uwa,[],,['chan2019'],,False,False,heiɡ me eew,1
+tana1281-1-12-1,,tana1281-1,12,heiɡ me rɯːw-uwa,heiɡ me rɯːw-uwa,[],,['chan2019'],,False,False,heiɡ me ruwoow,1
+tana1281-1-13-1,,tana1281-1,13,heiɡ me ele-/ili-uwa,heiɡ me ele-,[],,['chan2019'],,False,True,heiɡ me elluw,1
+tana1281-1-13-2,,tana1281-1,13,heiɡ me ele-/ili-uwa,ili-uwa,[],,['chan2019'],,False,True,heiɡ me elluw,1
+tana1281-1-14-1,,tana1281-1,14,heiɡ me faaw,heiɡ me faaw,[],,['chan2019'],,False,False,,1
+tana1281-1-15-1,,tana1281-1,15,heiɡ me limoow,heiɡ me limoow,[],,['chan2019'],,False,False,,1
+tana1281-1-16-1,,tana1281-1,16,heiɡ me onoow,heiɡ me onoow,[],,['chan2019'],,False,False,,1
+tana1281-1-17-1,,tana1281-1,17,heiɡ me fisuuw,heiɡ me fisuuw,[],,['chan2019'],,False,False,,1
+tana1281-1-18-1,,tana1281-1,18,heiɡ me waluuw,heiɡ me waluuw,[],,['chan2019'],,False,False,,1
+tana1281-1-19-1,,tana1281-1,19,heiɡ me tiwoow,heiɡ me tiwoow,[],,['chan2019'],,False,False,,1
+tana1281-1-20-1,,tana1281-1,20,rɯweiɡ,rɯweiɡ,[],,['chan2019'],,False,False,ruweiɡ,1
+tana1281-1-21-1,,tana1281-1,21,ruweiɡ me eew,ruweiɡ me eew,[],,['chan2019'],,False,False,,1
+tana1281-1-22-1,,tana1281-1,22,ruweiɡ me ruwoow,ruweiɡ me ruwoow,[],,['chan2019'],,False,False,,1
+tana1281-1-23-1,,tana1281-1,23,ruweiɡ me eluuw,ruweiɡ me eluuw,[],,['chan2019'],,False,False,,1
+tana1281-1-24-1,,tana1281-1,24,ruweiɡ me faaw,ruweiɡ me faaw,[],,['chan2019'],,False,False,,1
+tana1281-1-25-1,,tana1281-1,25,ruweiɡ me limoow,ruweiɡ me limoow,[],,['chan2019'],,False,False,,1
+tana1281-1-26-1,,tana1281-1,26,ruweiɡ me onoow,ruweiɡ me onoow,[],,['chan2019'],,False,False,,1
+tana1281-1-27-1,,tana1281-1,27,ruweiɡ me fisuuw,ruweiɡ me fisuuw,[],,['chan2019'],,False,False,,1
+tana1281-1-28-1,,tana1281-1,28,ruweiɡ me waluuw,ruweiɡ me waluuw,[],,['chan2019'],,False,False,,1
+tana1281-1-29-1,,tana1281-1,29,ruweiɡ me tiwoow,ruweiɡ me tiwoow,[],,['chan2019'],,False,False,,1
+tana1281-1-30-1,,tana1281-1,30,eliːɡ,eliːɡ,[],,['chan2019'],,False,False,ellig,1
+tana1281-1-40-1,,tana1281-1,40,fæːiɡ,fæːiɡ,[],,['chan2019'],,False,False,fááɡ,1
+tana1281-1-50-1,,tana1281-1,50,limeiɡ,limeiɡ,[],,['chan2019'],,False,False,limeiɡ,1
+tana1281-1-60-1,,tana1281-1,60,oneiɡ,oneiɡ,[],,['chan2019'],,False,False,oneiɡ,1
+tana1281-1-70-1,,tana1281-1,70,fisiːɡ,fisiːɡ,[],,['chan2019'],,False,False,fisiiɡ,1
+tana1281-1-80-1,,tana1281-1,80,waliːɡ,waliːɡ,[],,['chan2019'],,False,False,waliiɡ,1
+tana1281-1-90-1,,tana1281-1,90,tiweiɡ,tiweiɡ,[],,['chan2019'],,False,False,tiweiɡ,1
+tana1281-1-100-1,,tana1281-1,100,ebʷɯɡɯ,ebʷɯɡɯ,[],,['chan2019'],,False,False,ebwúɡu,1
+tana1281-1-200-1,,tana1281-1,200,ruwabʷɯɡɯ,ruwabʷɯɡɯ,[],,['chan2019'],,False,False,ruwabwúɡu,1
+tana1281-1-1000-1,,tana1281-1,1000,aŋaras,aŋaras,[],,['chan2019'],,False,False,anɡaras,1
+tana1281-1-1000-2,,tana1281-1,1000,saŋaras,saŋaras,[],,['chan2019'],,False,False,sanɡaras,1
+tana1281-1-2000-1,,tana1281-1,2000,ruwaŋaras,ruwaŋaras,[],,['chan2019'],,False,False,ruwanɡaras,1

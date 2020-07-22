@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+moii1235-2-1-1,,moii1235-2,1,mele,mele,[],,['chan2019'],,False,False,,2
+moii1235-2-2-1,,moii1235-2,2,ali,ali,[],,['chan2019'],,False,False,,2
+moii1235-2-3-1,,moii1235-2,3,tuluk,tuluk,[],,['chan2019'],,False,False,,2
+moii1235-2-4-1,,moii1235-2,4,fak,fak,[],,['chan2019'],,False,False,,2
+moii1235-2-5-1,,moii1235-2,5,mafuk,mafuk,[],,['chan2019'],,False,False,,2
+moii1235-2-6-1,,moii1235-2,6,mafutani mele,mafutani mele,[],( 5 + 1 ),['chan2019'],,False,False,,2
+moii1235-2-7-1,,moii1235-2,7,mafwatani ali,mafwatani ali,[],( 5 + 2 ),['chan2019'],,False,False,,2
+moii1235-2-8-1,,moii1235-2,8,mafwatani tuluk,mafwatani tuluk,[],( 5 + 3 ),['chan2019'],,False,False,,2
+moii1235-2-9-1,,moii1235-2,9,mafwatani fat,mafwatani fat,[],( 5 + 4 ),['chan2019'],,False,False,,2
+moii1235-2-10-1,,moii1235-2,10,fe,fe,[],,['chan2019'],,False,False,,2

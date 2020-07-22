@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bali1245-1-1-1,,bali1245-1,1,ɓini,ɓini,[],,['chan2019'],,False,False,,1
+bali1245-1-2-1,,bali1245-1,2,iye,iye,[],,['chan2019'],,False,False,,1
+bali1245-1-3-1,,bali1245-1,3,taat,taat,[],,['chan2019'],,False,False,,1
+bali1245-1-4-1,,bali1245-1,4,naat,naat,[],,['chan2019'],,False,False,,1
+bali1245-1-5-1,,bali1245-1,5,nɔng,nɔng,[],,['chan2019'],,False,False,,1
+bali1245-1-6-1,,bali1245-1,6,niɓini,niɓini,[],( 5+ 1 ),['chan2019'],,False,False,,1
+bali1245-1-7-1,,bali1245-1,7,niaiye,niaiye,[],( 5+ 2 ),['chan2019'],,False,False,,1
+bali1245-1-8-1,,bali1245-1,8,nitaat,nitaat,[],( 5+ 3 ),['chan2019'],,False,False,,1
+bali1245-1-9-1,,bali1245-1,9,ninaat,ninaat,[],( 5+ 4 ),['chan2019'],,False,False,,1
+bali1245-1-10-1,,bali1245-1,10,kop,kop,[],,['chan2019'],,False,False,,1
+bali1245-1-11-1,,bali1245-1,11,kop nyang ɓini,kop nyang ɓini,[],,['chan2019'],,False,False,,1
+bali1245-1-12-1,,bali1245-1,12,kop nyang iye,kop nyang iye,[],,['chan2019'],,False,False,,1
+bali1245-1-13-1,,bali1245-1,13,kop nyang taat,kop nyang taat,[],,['chan2019'],,False,False,,1
+bali1245-1-14-1,,bali1245-1,14,kop nyang naat,kop nyang naat,[],,['chan2019'],,False,False,,1
+bali1245-1-15-1,,bali1245-1,15,wãng,wãng,[],,['chan2019'],,False,False,,1
+bali1245-1-16-1,,bali1245-1,16,kop nyang ɓini,kop nyang ɓini,[],,['chan2019'],,False,False,,1
+bali1245-1-17-1,,bali1245-1,17,kop nyang niiye,kop nyang niiye,[],,['chan2019'],,False,False,,1
+bali1245-1-18-1,,bali1245-1,18,kop nyang nuye,kop nyang nuye,[],,['chan2019'],,False,False,,1
+bali1245-1-19-1,,bali1245-1,19,kop nyang naat,kop nyang naat,[],,['chan2019'],,False,False,,1
+bali1245-1-20-1,,bali1245-1,20,karɓini,karɓini,[],,['chan2019'],,False,False,,1
+bali1245-1-21-1,,bali1245-1,21,karɓini nyang ɓini,karɓini nyang ɓini,[],,['chan2019'],,False,False,,1
+bali1245-1-22-1,,bali1245-1,22,karɓini nyang iye,karɓini nyang iye,[],,['chan2019'],,False,False,,1
+bali1245-1-23-1,,bali1245-1,23,karɓini nyang taat,karɓini nyang taat,[],,['chan2019'],,False,False,,1
+bali1245-1-24-1,,bali1245-1,24,karɓini nyang naat,karɓini nyang naat,[],,['chan2019'],,False,False,,1
+bali1245-1-25-1,,bali1245-1,25,karɓini nyang nɔng,karɓini nyang nɔng,[],,['chan2019'],,False,False,,1
+bali1245-1-26-1,,bali1245-1,26,karɓini nyang ni ɓini,karɓini nyang ni ɓini,[],,['chan2019'],,False,False,,1
+bali1245-1-27-1,,bali1245-1,27,karɓini nyang ni iye,karɓini nyang ni iye,[],,['chan2019'],,False,False,,1
+bali1245-1-28-1,,bali1245-1,28,karɓini nyang ni taat,karɓini nyang ni taat,[],,['chan2019'],,False,False,,1
+bali1245-1-29-1,,bali1245-1,29,karɓini nyang ni naat,karɓini nyang ni naat,[],,['chan2019'],,False,False,,1
+bali1245-1-30-1,,bali1245-1,30,karɓini nyang kop,karɓini nyang kop,[],,['chan2019'],,False,False,,1
+bali1245-1-40-1,,bali1245-1,40,ka i,ka i,[],( 20 x 2 ),['chan2019'],,False,False,,1
+bali1245-1-50-1,,bali1245-1,50,ka i ya kop,ka i ya kop,[],,['chan2019'],,False,False,,1
+bali1245-1-60-1,,bali1245-1,60,ka taat,ka taat,[],( 20 x 3 ),['chan2019'],,False,False,,1
+bali1245-1-70-1,,bali1245-1,70,ka taat nyi kop,ka taat nyi kop,[],,['chan2019'],,False,False,,1
+bali1245-1-80-1,,bali1245-1,80,ka naat,ka naat,[],( 20 x 4 ),['chan2019'],,False,False,,1
+bali1245-1-90-1,,bali1245-1,90,ka naat nyi kop,ka naat nyi kop,[],,['chan2019'],,False,False,,1
+bali1245-1-100-1,,bali1245-1,100,ka nɔn,ka nɔn,[],( 20 x 5 ),['chan2019'],,False,False,,1
+bali1245-1-200-1,,bali1245-1,200,laː kopi,laː kopi,[],( 20 x 10 ),['chan2019'],,False,False,,1
+bali1245-1-1000-1,,bali1245-1,1000,ka non kop ɓini,ka non kop ɓini,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+uuuu1243-1-1-1,,uuuu1243-1,1,moŋ,moŋ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-1-2,,uuuu1243-1,1,mu,mu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-2-1,,uuuu1243-1,2,ɒʔ,ɒʔ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-2-2,,uuuu1243-1,2,ɑ,ɑ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-3-1,,uuuu1243-1,3,ue,ue,[],,['chan2019'],,False,False,,1
+uuuu1243-1-3-2,,uuuu1243-1,3,uəi,uəi,[],,['chan2019'],,False,False,,1
+uuuu1243-1-4-1,,uuuu1243-1,4,poŋ,poŋ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-4-2,,uuuu1243-1,4,pu,pu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-4-3,,uuuu1243-1,4,puən,puən,[],,['chan2019'],,False,False,,1
+uuuu1243-1-5-1,,uuuu1243-1,5,sɑ,sɑ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-5-2,,uuuu1243-1,5,sɑ,sɑ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-6-1,,uuuu1243-1,6,dhou ~ntʌv,dhou ~ntʌv,[],,['chan2019'],,False,True,,1
+uuuu1243-1-6-2,,uuuu1243-1,6,to,to,[],,['chan2019'],,False,False,,1
+uuuu1243-1-7-1,,uuuu1243-1,7,bh̥u ~mph̥u,bh̥u ~mph̥u,[],,['chan2019'],,False,True,,1
+uuuu1243-1-7-2,,uuuu1243-1,7,pɯ,pɯ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-8-1,,uuuu1243-1,8,tɒʔ,tɒʔ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-8-2,,uuuu1243-1,8,tɑ,tɑ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-9-1,,uuuu1243-1,9,te ~ti,te ~ti,[],,['chan2019'],,False,True,,1
+uuuu1243-1-9-2,,uuuu1243-1,9,tiən,tiən,[],,['chan2019'],,False,False,,1
+uuuu1243-1-10-1,,uuuu1243-1,10,tʃɯu,tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-20-1,,uuuu1243-1,20,ɒʔ tʃɯu,ɒʔ tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-20-2,,uuuu1243-1,20,ɑ tʃo,ɑ tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-30-1,,uuuu1243-1,30,ue tʃɯu,ue tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-30-2,,uuuu1243-1,30,uəi tʃo,uəi tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-40-1,,uuuu1243-1,40,poŋ tʃɯu,poŋ tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-40-2,,uuuu1243-1,40,puən tʃo,puən tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-50-1,,uuuu1243-1,50,sɑ tʃɯu,sɑ tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-50-2,,uuuu1243-1,50,sɑ tʃo,sɑ tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-60-1,,uuuu1243-1,60,dhou tʃɯu,dhou tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-60-2,,uuuu1243-1,60,to tʃo,to tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-70-1,,uuuu1243-1,70,bh̥u tʃɯu,bh̥u tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-70-2,,uuuu1243-1,70,pɯ tʃo,pɯ tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-80-1,,uuuu1243-1,80,tɒʔ tʃɯu,tɒʔ tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-80-2,,uuuu1243-1,80,tɑ tʃo,tɑ tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-90-1,,uuuu1243-1,90,ti tʃɯu,ti tʃɯu,[],,['chan2019'],,False,False,,1
+uuuu1243-1-90-2,,uuuu1243-1,90,tiən tʃo,tiən tʃo,[],,['chan2019'],,False,False,,1
+uuuu1243-1-100-1,,uuuu1243-1,100,piɒ,piɒ,[],,['chan2019'],,False,False,,1
+uuuu1243-1-100-2,,uuuu1243-1,100,piɑ,piɑ,[],< Chinese ,['chan2019'],,True,False,,1
+uuuu1243-1-1000-1,,uuuu1243-1,1000,tʂuɑn,tʂuɑn,[],,['chan2019'],,False,False,,1
+uuuu1243-1-1000-2,,uuuu1243-1,1000,tsuan,tsuan,[],< Chinese ,['chan2019'],,True,False,,1

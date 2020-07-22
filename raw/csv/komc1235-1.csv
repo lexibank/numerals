@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+komc1235-1-1-1,,komc1235-1,1,nòʔ,nòʔ,[],,['chan2019'],,False,False,,1
+komc1235-1-2-1,,komc1235-1,2,bò,bò,[],,['chan2019'],,False,False,,1
+komc1235-1-3-1,,komc1235-1,3,tal,tal,[],,['chan2019'],,False,False,,1
+komc1235-1-4-1,,komc1235-1,4,kàe,kàe,[],,['chan2019'],,False,False,,1
+komc1235-1-4-2,,komc1235-1,4,kæ̀,kæ̀,[],,['chan2019'],,False,False,,1
+komc1235-1-5-1,,komc1235-1,5,tâyn,tâyn,[],,['chan2019'],,False,False,,1
+komc1235-1-6-1,,komc1235-1,6,ntufa,ntufa,[],,['chan2019'],,False,False,,1
+komc1235-1-7-1,,komc1235-1,7,nsòmbo,nsòmbo,[],,['chan2019'],,False,False,,1
+komc1235-1-7-2,,komc1235-1,7,nsombô,nsombô,[],,['chan2019'],,False,False,,1
+komc1235-1-8-1,,komc1235-1,8,nfama,nfama,[],,['chan2019'],,False,False,,1
+komc1235-1-9-1,,komc1235-1,9,bulamòʔ,bulamòʔ,[],,['chan2019'],,False,False,,1
+komc1235-1-10-1,,komc1235-1,10,ivɨm,ivɨm,[],,['chan2019'],,False,False,,1
+komc1235-1-11-1,,komc1235-1,11,ɲvà ì mòʔ,ɲvà ì mòʔ,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-12-1,,komc1235-1,12,ɲvàsɨ̀ bò,ɲvàsɨ̀ bò,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-13-1,,komc1235-1,13,ɲvàsɨ̀ tal,ɲvàsɨ̀ tal,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-14-1,,komc1235-1,14,ɲvàsɨ̀ kæ̀,ɲvàsɨ̀ kæ̀,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-15-1,,komc1235-1,15,ɲvàsɨ̀ tâyn,ɲvàsɨ̀ tâyn,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-16-1,,komc1235-1,16,ɲvàsɨ̀ ntufa,ɲvàsɨ̀ ntufa,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-17-1,,komc1235-1,17,ɲvàsɨ̀ nfama,ɲvàsɨ̀ nfama,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-18-1,,komc1235-1,18,ɲvàsɨ̀ nfama,ɲvàsɨ̀ nfama,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-19-1,,komc1235-1,19,ɲvàsɨ̀ bulamòʔ,ɲvàsɨ̀ bulamòʔ,[],(ivɨm),['chan2019'],,False,False,,1
+komc1235-1-20-1,,komc1235-1,20,mɨ̀vɨ̂m-bò,mɨ̀vɨ̂m-bò,[],,['chan2019'],,False,False,,1
+komc1235-1-21-1,,komc1235-1,21,mɨ̀vɨ̂m-bò ɲvà ì mòʔ,mɨ̀vɨ̂m-bò ɲvà ì mòʔ,[],,['chan2019'],,False,False,,1
+komc1235-1-22-1,,komc1235-1,22,mɨ̀vɨ̂m-bò ɲvàsɨ̀ bò,mɨ̀vɨ̂m-bò ɲvàsɨ̀ bò,[],,['chan2019'],,False,False,,1
+komc1235-1-23-1,,komc1235-1,23,mɨ̀vɨ̂m-bò ɲvàsɨ̀ tal,mɨ̀vɨ̂m-bò ɲvàsɨ̀ tal,[],,['chan2019'],,False,False,,1
+komc1235-1-24-1,,komc1235-1,24,mɨ̀vɨ̂m-bò ɲvàsɨ̀ kæ̀,mɨ̀vɨ̂m-bò ɲvàsɨ̀ kæ̀,[],,['chan2019'],,False,False,,1
+komc1235-1-25-1,,komc1235-1,25,mɨ̀vɨ̂m-bò ɲvàsɨ̀ tâyn,mɨ̀vɨ̂m-bò ɲvàsɨ̀ tâyn,[],,['chan2019'],,False,False,,1
+komc1235-1-26-1,,komc1235-1,26,mɨ̀vɨ̂m-bò ɲvàsɨ̀ ntufa,mɨ̀vɨ̂m-bò ɲvàsɨ̀ ntufa,[],,['chan2019'],,False,False,,1
+komc1235-1-27-1,,komc1235-1,27,mɨ̀vɨ̂m-bò ɲvàsɨ̀ nsòmbo,mɨ̀vɨ̂m-bò ɲvàsɨ̀ nsòmbo,[],,['chan2019'],,False,False,,1
+komc1235-1-28-1,,komc1235-1,28,mɨ̀vɨ̂m-bò ɲvàsɨ̀ nfama,mɨ̀vɨ̂m-bò ɲvàsɨ̀ nfama,[],,['chan2019'],,False,False,,1
+komc1235-1-29-1,,komc1235-1,29,mɨ̀vɨ̂m-bò ɲvàsɨ̀ bulamòʔ,mɨ̀vɨ̂m-bò ɲvàsɨ̀ bulamòʔ,[],,['chan2019'],,False,False,,1
+komc1235-1-30-1,,komc1235-1,30,mɨ̀vɨ̂m-tal,mɨ̀vɨ̂m-tal,[],,['chan2019'],,False,False,,1
+komc1235-1-40-1,,komc1235-1,40,mɨ̀vɨ̂m-kæ̀,mɨ̀vɨ̂m-kæ̀,[],,['chan2019'],,False,False,,1
+komc1235-1-50-1,,komc1235-1,50,mɨ̀vɨ̂m-tâyn,mɨ̀vɨ̂m-tâyn,[],,['chan2019'],,False,False,,1
+komc1235-1-60-1,,komc1235-1,60,mɨ̀vɨ̂m-ntufa,mɨ̀vɨ̂m-ntufa,[],,['chan2019'],,False,False,,1
+komc1235-1-70-1,,komc1235-1,70,mɨ̀vɨ̂m-n̩sòmbo,mɨ̀vɨ̂m-n̩sòmbo,[],,['chan2019'],,False,False,,1
+komc1235-1-80-1,,komc1235-1,80,mɨ̀vɨ̂m-n̩fama,mɨ̀vɨ̂m-n̩fama,[],,['chan2019'],,False,False,,1
+komc1235-1-90-1,,komc1235-1,90,mɨ̀vɨ̂m-bulamòʔ,mɨ̀vɨ̂m-bulamòʔ,[],,['chan2019'],,False,False,,1
+komc1235-1-100-1,,komc1235-1,100,ɨvɨweʔa,ɨvɨweʔa,[],,['chan2019'],,False,False,,1
+komc1235-1-100-2,,komc1235-1,100,ɨvɨ,ɨvɨ,[],,['chan2019'],,False,False,,1
+komc1235-1-200-1,,komc1235-1,200,ɨɣɨ ibò,ɨɣɨ ibò,[],,['chan2019'],,False,False,,1
+komc1235-1-1000-1,,komc1235-1,1000,ŋkam,ŋkam,[],,['chan2019'],,False,False,,1
+komc1235-1-2000-1,,komc1235-1,2000,ŋkamsɨ bò,ŋkamsɨ bò,[],,['chan2019'],,False,False,,1

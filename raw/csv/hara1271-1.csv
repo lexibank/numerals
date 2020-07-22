@@ -1,0 +1,52 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hara1271-1-1-1,,hara1271-1,1,aħad,aħad,[],,['chan2019'],,False,False,,1
+hara1271-1-2-1,,hara1271-1,2,koʔot,koʔot,[],,['chan2019'],,False,False,,1
+hara1271-1-2-2,,hara1271-1,2,koːt,koːt,[],,['chan2019'],,False,False,,1
+hara1271-1-3-1,,hara1271-1,3,ʃiʔiʃti,ʃiʔiʃti,[],,['chan2019'],,False,False,,1
+hara1271-1-3-2,,hara1271-1,3,ʃiːʃti,ʃiːʃti,[],,['chan2019'],,False,False,,1
+hara1271-1-4-1,,hara1271-1,4,ħarat,ħarat,[],,['chan2019'],,False,False,,1
+hara1271-1-5-1,,hara1271-1,5,ħammisti,ħammisti,[],,['chan2019'],,False,False,,1
+hara1271-1-6-1,,hara1271-1,6,siddisti,siddisti,[],,['chan2019'],,False,False,,1
+hara1271-1-7-1,,hara1271-1,7,saːtti,saːtti,[],,['chan2019'],,False,False,,1
+hara1271-1-8-1,,hara1271-1,8,suːt,suːt,[],,['chan2019'],,False,False,,1
+hara1271-1-9-1,,hara1271-1,9,ziħtʼaɲ,ziħtʼaɲ,[],,['chan2019'],,False,False,,1
+hara1271-1-10-1,,hara1271-1,10,assir,assir,[],,['chan2019'],,False,False,,1
+hara1271-1-11-1,,hara1271-1,11,asraːħad,asraːħad,[],,['chan2019'],,False,False,,1
+hara1271-1-12-1,,hara1271-1,12,asraːkoːt,asraːkoːt,[],,['chan2019'],,False,False,,1
+hara1271-1-13-1,,hara1271-1,13,assraːʃiːʃti,assraːʃiːʃti,[],,['chan2019'],,False,False,,1
+hara1271-1-14-1,,hara1271-1,14,assir ħarat,assir ħarat,[],,['chan2019'],,False,False,,1
+hara1271-1-15-1,,hara1271-1,15,assir ħammisti,assir ħammisti,[],,['chan2019'],,False,False,,1
+hara1271-1-16-1,,hara1271-1,16,assir siddisti,assir siddisti,[],,['chan2019'],,False,False,,1
+hara1271-1-17-1,,hara1271-1,17,assir saːtti,assir saːtti,[],,['chan2019'],,False,False,,1
+hara1271-1-18-1,,hara1271-1,18,assir suːt,assir suːt,[],,['chan2019'],,False,False,,1
+hara1271-1-19-1,,hara1271-1,19,assir ziħtʼaɲ,assir ziħtʼaɲ,[],,['chan2019'],,False,False,,1
+hara1271-1-20-1,,hara1271-1,20,kuya,kuya,[],,['chan2019'],,False,False,,1
+hara1271-1-21-1,,hara1271-1,21,kuya aħad,kuya aħad,[],,['chan2019'],,False,False,,1
+hara1271-1-22-1,,hara1271-1,22,kuya koːt,kuya koːt,[],,['chan2019'],,False,False,,1
+hara1271-1-23-1,,hara1271-1,23,kuya ʃiːʃti,kuya ʃiːʃti,[],,['chan2019'],,False,False,,1
+hara1271-1-24-1,,hara1271-1,24,kuya ħarat,kuya ħarat,[],,['chan2019'],,False,False,,1
+hara1271-1-25-1,,hara1271-1,25,kuya ħammisti,kuya ħammisti,[],,['chan2019'],,False,False,,1
+hara1271-1-26-1,,hara1271-1,26,kuya siddisti,kuya siddisti,[],,['chan2019'],,False,False,,1
+hara1271-1-27-1,,hara1271-1,27,kuya saːtti,kuya saːtti,[],,['chan2019'],,False,False,,1
+hara1271-1-28-1,,hara1271-1,28,kuya suːt,kuya suːt,[],,['chan2019'],,False,False,,1
+hara1271-1-29-1,,hara1271-1,29,kuya ziħtʼaɲ,kuya ziħtʼaɲ,[],,['chan2019'],,False,False,,1
+hara1271-1-30-1,,hara1271-1,30,saːsa,saːsa,[],,['chan2019'],,False,False,,1
+hara1271-1-40-1,,hara1271-1,40,ħaratassir,ħaratassir,[],,['chan2019'],,False,False,,1
+hara1271-1-40-2,,hara1271-1,40,arbaʔiːn(a),arbaʔiːn(a),[],,['chan2019'],,False,False,,1
+hara1271-1-40-3,,hara1271-1,40,arbiːn(a),arbiːn(a),[],,['chan2019'],,False,False,,1
+hara1271-1-50-1,,hara1271-1,50,ħammistassir,ħammistassir,[],,['chan2019'],,False,False,,1
+hara1271-1-50-2,,hara1271-1,50,xamsiːn(a),xamsiːn(a),[],,['chan2019'],,False,False,,1
+hara1271-1-60-1,,hara1271-1,60,siddistassir,siddistassir,[],,['chan2019'],,False,False,,1
+hara1271-1-60-2,,hara1271-1,60,sittiːn(a),sittiːn(a),[],,['chan2019'],,False,False,,1
+hara1271-1-70-1,,hara1271-1,70,saːttassir,saːttassir,[],,['chan2019'],,False,False,,1
+hara1271-1-70-2,,hara1271-1,70,sabʼiːn(a),sabʼiːn(a),[],,['chan2019'],,False,False,,1
+hara1271-1-80-1,,hara1271-1,80,suːtassir,suːtassir,[],,['chan2019'],,False,False,,1
+hara1271-1-80-2,,hara1271-1,80,tamaːniːn(a),tamaːniːn(a),[],,['chan2019'],,False,False,,1
+hara1271-1-90-1,,hara1271-1,90,ziħtana,ziħtana,[],,['chan2019'],,False,False,,1
+hara1271-1-90-2,,hara1271-1,90,tisʼiːn(a),tisʼiːn(a),[],,['chan2019'],,False,False,,1
+hara1271-1-100-1,,hara1271-1,100,baklaː,baklaː,[],,['chan2019'],,False,False,,1
+hara1271-1-200-1,,hara1271-1,200,baklaː koːt,baklaː koːt,[],,['chan2019'],,False,False,,1
+hara1271-1-1000-1,,hara1271-1,1000,kum,kum,[],,['chan2019'],,False,False,,1
+hara1271-1-1000-2,,hara1271-1,1000,alfi,alfi,[],,['chan2019'],,False,False,,1
+hara1271-1-1000-3,,hara1271-1,1000,alfa,alfa,[],,['chan2019'],,False,False,,1
+hara1271-1-2000-1,,hara1271-1,2000,alfi koːt,alfi koːt,[],,['chan2019'],,False,False,,1

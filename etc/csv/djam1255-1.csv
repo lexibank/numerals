@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+djam1255-1-1-1,,djam1255-1,1,juŋulʊk,juŋulʊk,[],time,['chan2019'],,False,False,jungulug,1
+djam1255-1-1-2,,djam1255-1,1,juŋulʊlʊk,juŋulʊlʊk,[],once,['chan2019'],,False,False,jungulugug,1
+djam1255-1-2-1,,djam1255-1,2,jirɐmə,jirɐmə,[],times,['chan2019'],,False,False,"jirrama, yirram, jirram",1
+djam1255-1-2-2,,djam1255-1,2,jirɐmʊk,jirɐmʊk,[],twice,['chan2019'],,False,False,jirramug,1
+djam1255-1-3-1,,djam1255-1,3,murgʊn,murgʊn,[],(some) times,['chan2019'],,False,False,murrgun,1
+djam1255-1-3-2,,djam1255-1,3,murgʊngʊk,murgʊngʊk,[],thrice,['chan2019'],,False,False,murrgunkug,1
+djam1255-1-4-1,,djam1255-1,4,jirɐmə jirɐmə,jirɐmə jirɐmə,[],(not really used at present),['chan2019'],,False,False,jirrama jirrama,1
+djam1255-1-4-2,,djam1255-1,4,lubɐji,lubɐji,[],many: (only Jaminjung),['chan2019'],,False,False,lubayi,1
+djam1255-1-5-1,,djam1255-1,5,jirɐmə jirɐmə juŋulʊk,jirɐmə jirɐmə juŋulʊk,[],(not really used at present),['chan2019'],,False,False,jirrama jirrama jungulug,1
+djam1255-1-5-2,,djam1255-1,5,wujuja,wujuja,[],"many, a lot (only Jaminjung)",['chan2019'],,False,False,wujuja,1

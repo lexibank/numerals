@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+iwal1237-1-1-1,,iwal1237-1,1,doŋke,doŋke,[],,['chan2019'],,False,False,,1
+iwal1237-1-2-1,,iwal1237-1,2,ailu,ailu,[],,['chan2019'],,False,False,,1
+iwal1237-1-3-1,,iwal1237-1,3,aitol,aitol,[],,['chan2019'],,False,False,,1
+iwal1237-1-4-1,,iwal1237-1,4,aivat,aivat,[],,['chan2019'],,False,False,,1
+iwal1237-1-5-1,,iwal1237-1,5,baɡa tavlu,baɡa tavlu,[],"( lit: 'hand a half "")",['chan2019'],,False,False,,1
+iwal1237-1-6-1,,iwal1237-1,6,baɡa tavlu ano doŋke,baɡa tavlu ano doŋke,[],( 5 + 1 ),['chan2019'],,False,False,,1
+iwal1237-1-7-1,,iwal1237-1,7,baɡa tavlu ano ailu,baɡa tavlu ano ailu,[],( 5 + 2 ),['chan2019'],,False,False,,1
+iwal1237-1-8-1,,iwal1237-1,8,baɡa tavlu ano aitol,baɡa tavlu ano aitol,[],( 5 + 3 ),['chan2019'],,False,False,,1
+iwal1237-1-9-1,,iwal1237-1,9,baɡa tavlu ano aivat,baɡa tavlu ano aivat,[],( 5 + 4 ),['chan2019'],,False,False,,1
+iwal1237-1-10-1,,iwal1237-1,10,baɡa isɡabu,baɡa isɡabu,[],"( lit: ''hands completed"")",['chan2019'],,False,False,,1
+iwal1237-1-11-1,,iwal1237-1,11,baɡa isɡabu ano doŋke,baɡa isɡabu ano doŋke,[],,['chan2019'],,False,False,,1
+iwal1237-1-12-1,,iwal1237-1,12,baɡa isɡabu ano ailu,baɡa isɡabu ano ailu,[],,['chan2019'],,False,False,,1
+iwal1237-1-13-1,,iwal1237-1,13,baɡa isɡabu ano aitol,baɡa isɡabu ano aitol,[],,['chan2019'],,False,False,,1
+iwal1237-1-14-1,,iwal1237-1,14,baɡa isɡabu ano aivat,baɡa isɡabu ano aivat,[],,['chan2019'],,False,False,,1
+iwal1237-1-15-1,,iwal1237-1,15,baɡa isɡabu vatavlu,baɡa isɡabu vatavlu,[],(litː ''hands completed and one foot''),['chan2019'],,False,False,,1
+iwal1237-1-16-1,,iwal1237-1,16,baɡa isɡabu vatavlu ano doŋke,baɡa isɡabu vatavlu ano doŋke,[],,['chan2019'],,False,False,,1
+iwal1237-1-17-1,,iwal1237-1,17,baɡa isɡabu vatavlu ano ailu,baɡa isɡabu vatavlu ano ailu,[],,['chan2019'],,False,False,,1
+iwal1237-1-18-1,,iwal1237-1,18,baɡa isɡabu vatavlu ano aitol,baɡa isɡabu vatavlu ano aitol,[],,['chan2019'],,False,False,,1
+iwal1237-1-19-1,,iwal1237-1,19,baɡa isɡabu vatavlu ano aivat,baɡa isɡabu vatavlu ano aivat,[],,['chan2019'],,False,False,,1
+iwal1237-1-20-1,,iwal1237-1,20,buni apmol til,buni apmol til,[],(litː ''completed man''),['chan2019'],,False,False,,1

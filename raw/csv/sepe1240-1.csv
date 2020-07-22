@@ -1,0 +1,7 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sepe1240-1-1-1,,sepe1240-1,1,uvʰuavɨra,uvʰuavɨra,[],(lit: 'one'),['chan2019'],,False,False,,1
+sepe1240-1-2-1,,sepe1240-1,2,pʰunĩ:ni,pʰunĩ:ni,[],( lit: 'two'),['chan2019'],,False,False,,1
+sepe1240-1-3-1,,sepe1240-1,3,pʰunĩ:ni mbɨke:tav,pʰunĩ:ni mbɨke:tav,[],(lit: 'two another'),['chan2019'],,False,False,,1
+sepe1240-1-4-1,,sepe1240-1,4,pʰunĩ:ni ko pʰunĩ:ni,pʰunĩ:ni ko pʰunĩ:ni,[],(litː 'two plus two'),['chan2019'],,False,False,,1
+sepe1240-1-5-1,,sepe1240-1,5,pʰunĩ:ni ko pʰunĩ:ni mbɨke:tav,pʰunĩ:ni ko pʰunĩ:ni mbɨke:tav,[],(lit: 'two plus two another'),['chan2019'],,False,False,,1
+sepe1240-1-6-1,,sepe1240-1,6,"pʰunĩ:ni ko pʰunĩ:ni ko pʰunĩ:ni (lit: 'two plus two plus two', OR pʰunĩ:ni mbɨke:tav pʰunĩ:ni mbɨke:tav","pʰunĩ:ni ko pʰunĩ:ni ko pʰunĩ:ni (lit: 'two plus two plus two', OR pʰunĩ:ni mbɨke:tav pʰunĩ:ni mbɨke:tav",[],(lit: ‘two another two another’),['chan2019'],,False,True,,1

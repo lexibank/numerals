@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+abad1241-1-1-1,,abad1241-1,1,kapea,kapea,[],,['chan2019'],,False,False,,1
+abad1241-1-2-1,,abad1241-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+abad1241-1-3-1,,abad1241-1,3,koi,koi,[],,['chan2019'],,False,False,,1
+abad1241-1-4-1,,abad1241-1,4,vani,vani,[],,['chan2019'],,False,False,,1
+abad1241-1-5-1,,abad1241-1,5,ima,ima,[],,['chan2019'],,False,False,,1
+abad1241-1-6-1,,abad1241-1,6,kara koi,kara koi,[],(doubled 3 ),['chan2019'],,False,False,,1
+abad1241-1-7-1,,abad1241-1,7,isu,isu,[],,['chan2019'],,False,False,,1
+abad1241-1-8-1,,abad1241-1,8,kara vani,kara vani,[],(doubled 4 ),['chan2019'],,False,False,,1
+abad1241-1-9-1,,abad1241-1,9,kara van ka(pea),kara van ka(pea),[],(doubled 4+ 1 ),['chan2019'],,False,False,,1
+abad1241-1-10-1,,abad1241-1,10,ʔouka,ʔouka,[],,['chan2019'],,False,False,,1
+abad1241-1-11-1,,abad1241-1,11,ʔouka kapea,ʔouka kapea,[],,['chan2019'],,False,False,,1
+abad1241-1-12-1,,abad1241-1,12,ʔouka rua,ʔouka rua,[],,['chan2019'],,False,False,,1
+abad1241-1-13-1,,abad1241-1,13,ʔouka koi,ʔouka koi,[],,['chan2019'],,False,False,,1
+abad1241-1-14-1,,abad1241-1,14,ʔouka vani,ʔouka vani,[],,['chan2019'],,False,False,,1
+abad1241-1-15-1,,abad1241-1,15,ʔouka ima,ʔouka ima,[],,['chan2019'],,False,False,,1
+abad1241-1-16-1,,abad1241-1,16,ʔouka kara koi,ʔouka kara koi,[],,['chan2019'],,False,False,,1
+abad1241-1-17-1,,abad1241-1,17,ʔouka isu,ʔouka isu,[],,['chan2019'],,False,False,,1
+abad1241-1-18-1,,abad1241-1,18,ʔouka kara vani,ʔouka kara vani,[],,['chan2019'],,False,False,,1
+abad1241-1-19-1,,abad1241-1,19,ʔouka kara vani kapea,ʔouka kara vani kapea,[],,['chan2019'],,False,False,,1
+abad1241-1-20-1,,abad1241-1,20,ruavui,ruavui,[],,['chan2019'],,False,False,,1
+abad1241-1-21-1,,abad1241-1,21,ruavui kapea,ruavui kapea,[],,['chan2019'],,False,False,,1
+abad1241-1-22-1,,abad1241-1,22,ruavui rua,ruavui rua,[],,['chan2019'],,False,False,,1
+abad1241-1-23-1,,abad1241-1,23,ruavui koi,ruavui koi,[],,['chan2019'],,False,False,,1
+abad1241-1-24-1,,abad1241-1,24,ruavui vani,ruavui vani,[],,['chan2019'],,False,False,,1
+abad1241-1-25-1,,abad1241-1,25,ruavui ima,ruavui ima,[],,['chan2019'],,False,False,,1
+abad1241-1-26-1,,abad1241-1,26,ruavui kara koi,ruavui kara koi,[],,['chan2019'],,False,False,,1
+abad1241-1-27-1,,abad1241-1,27,ruavui isu,ruavui isu,[],,['chan2019'],,False,False,,1
+abad1241-1-28-1,,abad1241-1,28,ruavui kara vani,ruavui kara vani,[],,['chan2019'],,False,False,,1
+abad1241-1-29-1,,abad1241-1,29,ruavui kara vani kapea,ruavui kara vani kapea,[],,['chan2019'],,False,False,,1
+abad1241-1-30-1,,abad1241-1,30,koiavui,koiavui,[],,['chan2019'],,False,False,,1
+abad1241-1-40-1,,abad1241-1,40,vaniavui,vaniavui,[],,['chan2019'],,False,False,,1
+abad1241-1-50-1,,abad1241-1,50,imavui,imavui,[],,['chan2019'],,False,False,,1
+abad1241-1-60-1,,abad1241-1,60,karakoiavui,karakoiavui,[],,['chan2019'],,False,False,,1
+abad1241-1-70-1,,abad1241-1,70,isuavui,isuavui,[],,['chan2019'],,False,False,,1
+abad1241-1-80-1,,abad1241-1,80,karavaniavui,karavaniavui,[],,['chan2019'],,False,False,,1
+abad1241-1-90-1,,abad1241-1,90,karavanikavui,karavanikavui,[],,['chan2019'],,False,False,,1
+abad1241-1-100-1,,abad1241-1,100,sinau kapea,sinau kapea,[],( sinau< Roro ),['chan2019'],,True,False,,1
+abad1241-1-200-1,,abad1241-1,200,sinau rua,sinau rua,[],,['chan2019'],,False,False,,1
+abad1241-1-1000-1,,abad1241-1,1000,sinauda ʔouka,sinauda ʔouka,[],,['chan2019'],,False,False,,1
+abad1241-1-2000-1,,abad1241-1,2000,sinauda ruavui,sinauda ruavui,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,82 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+xxxx0001-1-1-1,,xxxx0001-1,1,iha,iha,[],,['chan2019'],,False,False,,1
+xxxx0001-1-1-2,,xxxx0001-1,1,iha,iha,[],,['chan2019'],,False,False,,1
+xxxx0001-1-1-3,,xxxx0001-1,1,hea,hea,[],,['chan2019'],,False,False,,1
+xxxx0001-1-1-4,,xxxx0001-1,1,hia,hia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-2-1,,xxxx0001-1,2,paɾua,paɾua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-2-2,,xxxx0001-1,2,parua,parua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-2-3,,xxxx0001-1,2,herua,herua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-2-4,,xxxx0001-1,2,harua,harua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-3-1,,xxxx0001-1,3,pateilu,pateilu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-3-2,,xxxx0001-1,3,patelu,patelu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-3-3,,xxxx0001-1,3,hetelu,hetelu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-3-4,,xxxx0001-1,3,hatelu,hatelu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-4-1,,xxxx0001-1,4,waː,waː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-4-2,,xxxx0001-1,4,waa,waa,[],,['chan2019'],,False,False,,1
+xxxx0001-1-4-3,,xxxx0001-1,4,haat,haat,[],,['chan2019'],,False,False,,1
+xxxx0001-1-4-4,,xxxx0001-1,4,haak,haak,[],,['chan2019'],,False,False,,1
+xxxx0001-1-5-1,,xxxx0001-1,5,palima,palima,[],,['chan2019'],,False,False,,1
+xxxx0001-1-5-2,,xxxx0001-1,5,palima,palima,[],,['chan2019'],,False,False,,1
+xxxx0001-1-5-3,,xxxx0001-1,5,helima,helima,[],,['chan2019'],,False,False,,1
+xxxx0001-1-5-4,,xxxx0001-1,5,halima,halima,[],,['chan2019'],,False,False,,1
+xxxx0001-1-6-1,,xxxx0001-1,6,pane,pane,[],,['chan2019'],,False,False,,1
+xxxx0001-1-6-2,,xxxx0001-1,6,panee,panee,[],,['chan2019'],,False,False,,1
+xxxx0001-1-6-3,,xxxx0001-1,6,heneen,heneen,[],,['chan2019'],,False,False,,1
+xxxx0001-1-6-4,,xxxx0001-1,6,haneen,haneen,[],,['chan2019'],,False,False,,1
+xxxx0001-1-7-1,,xxxx0001-1,7,paʔitu,paʔitu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-7-2,,xxxx0001-1,7,paʔitu,paʔitu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-7-3,,xxxx0001-1,7,heʔitu,heʔitu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-7-4,,xxxx0001-1,7,haʔitu,haʔitu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-8-1,,xxxx0001-1,8,paʔuː,paʔuː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-8-2,,xxxx0001-1,8,pau,pau,[],,['chan2019'],,False,False,,1
+xxxx0001-1-8-3,,xxxx0001-1,8,heʔao,heʔao,[],,['chan2019'],,False,False,,1
+xxxx0001-1-8-4,,xxxx0001-1,8,haʔoo,haʔoo,[],,['chan2019'],,False,False,,1
+xxxx0001-1-9-1,,xxxx0001-1,9,pasia,pasia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-9-2,,xxxx0001-1,9,pasia,pasia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-9-3,,xxxx0001-1,9,hesee,hesee,[],,['chan2019'],,False,False,,1
+xxxx0001-1-9-4,,xxxx0001-1,9,hasia,hasia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-10-1,,xxxx0001-1,10,sanulu,sanulu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-10-2,,xxxx0001-1,10,sanulu,sanulu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-10-3,,xxxx0001-1,10,seŋulu,seŋulu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-10-4,,xxxx0001-1,10,saŋulu,saŋulu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-11-1,,xxxx0001-1,11,sanulu ɾehe iha,sanulu ɾehe iha,[],,['chan2019'],,False,False,,1
+xxxx0001-1-12-1,,xxxx0001-1,12,sanulu ɾehe paɾua,sanulu ɾehe paɾua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-13-1,,xxxx0001-1,13,sanulu ɾehe pateilu,sanulu ɾehe pateilu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-14-1,,xxxx0001-1,14,sanulu ɾehe waː,sanulu ɾehe waː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-15-1,,xxxx0001-1,15,sanulu ɾehe palima,sanulu ɾehe palima,[],,['chan2019'],,False,False,,1
+xxxx0001-1-16-1,,xxxx0001-1,16,sanulu ɾehe paneː,sanulu ɾehe paneː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-17-1,,xxxx0001-1,17,sanulu ɾehe paʔitu,sanulu ɾehe paʔitu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-18-1,,xxxx0001-1,18,sanulu ɾehe paʔuː,sanulu ɾehe paʔuː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-19-1,,xxxx0001-1,19,sanulu ɾehe pasia,sanulu ɾehe pasia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-20-1,,xxxx0001-1,20,heleɾua,heleɾua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-21-1,,xxxx0001-1,21,heleɾua ɾehe iha,heleɾua ɾehe iha,[],,['chan2019'],,False,False,,1
+xxxx0001-1-22-1,,xxxx0001-1,22,heleɾua ɾehe paɾua,heleɾua ɾehe paɾua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-23-1,,xxxx0001-1,23,heleɾua ɾehe pateilu,heleɾua ɾehe pateilu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-24-1,,xxxx0001-1,24,heleɾua ɾehe waː,heleɾua ɾehe waː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-25-1,,xxxx0001-1,25,heleɾua ɾehe palima,heleɾua ɾehe palima,[],,['chan2019'],,False,False,,1
+xxxx0001-1-26-1,,xxxx0001-1,26,heleɾua ɾehe paneː,heleɾua ɾehe paneː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-27-1,,xxxx0001-1,27,heleɾua ɾehe paʔitu,heleɾua ɾehe paʔitu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-28-1,,xxxx0001-1,28,heleɾua ɾehe paʔuː,heleɾua ɾehe paʔuː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-29-1,,xxxx0001-1,29,heleɾua ɾehe pasia,heleɾua ɾehe pasia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-30-1,,xxxx0001-1,30,heleteilu,heleteilu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-40-1,,xxxx0001-1,40,helewaː,helewaː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-50-1,,xxxx0001-1,50,helelima,helelima,[],,['chan2019'],,False,False,,1
+xxxx0001-1-60-1,,xxxx0001-1,60,heleneː,heleneː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-70-1,,xxxx0001-1,70,helehitu,helehitu,[],,['chan2019'],,False,False,,1
+xxxx0001-1-80-1,,xxxx0001-1,80,helepaʔuː,helepaʔuː,[],,['chan2019'],,False,False,,1
+xxxx0001-1-90-1,,xxxx0001-1,90,helesia,helesia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-100-1,,xxxx0001-1,100,atu hea,atu hea,[],,['chan2019'],,False,False,,1
+xxxx0001-1-100-2,,xxxx0001-1,100,atu iha,atu iha,[],,['chan2019'],,False,False,,1
+xxxx0001-1-100-3,,xxxx0001-1,100,atus hea,atus hea,[],,['chan2019'],,False,False,,1
+xxxx0001-1-100-4,,xxxx0001-1,100,atus hia,atus hia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-200-1,,xxxx0001-1,200,atu paɾua,atu paɾua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-200-2,,xxxx0001-1,200,parua,parua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-200-3,,xxxx0001-1,200,atus herua,atus herua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-200-4,,xxxx0001-1,200,harua,harua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-1000-1,,xxxx0001-1,1000,rihu isa,rihu isa,[],,['chan2019'],,False,False,,1
+xxxx0001-1-1000-2,,xxxx0001-1,1000,rihu iha,rihu iha,[],,['chan2019'],,False,False,,1
+xxxx0001-1-1000-3,,xxxx0001-1,1000,rihun hea,rihun hea,[],,['chan2019'],,False,False,,1
+xxxx0001-1-1000-4,,xxxx0001-1,1000,hia,hia,[],,['chan2019'],,False,False,,1
+xxxx0001-1-2000-1,,xxxx0001-1,2000,rihu paɾua,rihu paɾua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-2000-2,,xxxx0001-1,2000,rihu parua,rihu parua,[],,['chan2019'],,False,False,,1
+xxxx0001-1-2000-3,,xxxx0001-1,2000,rihun herua,rihun herua,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+quio1241-1-1-1,,quio1241-1,1,tú,tú,[],,['chan2019'],,False,False,,1
+quio1241-1-2-1,,quio1241-1,2,čòp,čòp,[],,['chan2019'],,False,False,,1
+quio1241-1-3-1,,quio1241-1,3,tsǒn,tsǒn,[],,['chan2019'],,False,False,,1
+quio1241-1-4-1,,quio1241-1,4,tàp,tàp,[],,['chan2019'],,False,False,,1
+quio1241-1-5-1,,quio1241-1,5,kàʼy,kàʼy,[],,['chan2019'],,False,False,,1
+quio1241-1-6-1,,quio1241-1,6,šòʼp,šòʼp,[],,['chan2019'],,False,False,,1
+quio1241-1-7-1,,quio1241-1,7,kǎdz,kǎdz,[],,['chan2019'],,False,False,,1
+quio1241-1-8-1,,quio1241-1,8,šòn,šòn,[],,['chan2019'],,False,False,,1
+quio1241-1-9-1,,quio1241-1,9,kèʔ,kèʔ,[],,['chan2019'],,False,False,,1
+quio1241-1-10-1,,quio1241-1,10,tsiʔ,tsiʔ,[],,['chan2019'],,False,False,,1
+quio1241-1-11-1,,quio1241-1,11,tsìʔptú,tsìʔptú,[],,['chan2019'],,False,False,,1
+quio1241-1-12-1,,quio1241-1,12,tsìʔpčòp,tsìʔpčòp,[],,['chan2019'],,False,False,,1
+quio1241-1-13-1,,quio1241-1,13,tsìnʸ,tsìnʸ,[],,['chan2019'],,False,False,,1
+quio1241-1-14-1,,quio1241-1,14,tsìdà,tsìdà,[],,['chan2019'],,False,False,,1
+quio1241-1-15-1,,quio1241-1,15,tsìʼnʸ,tsìʼnʸ,[],,['chan2019'],,False,False,,1
+quio1241-1-16-1,,quio1241-1,16,tsiʼ̀mtú,tsiʼ̀mtú,[],,['chan2019'],,False,False,,1
+quio1241-1-17-1,,quio1241-1,17,tsìʼmčop,tsìʼmčop,[],,['chan2019'],,False,False,,1
+quio1241-1-18-1,,quio1241-1,18,tsìʼmtsǒn,tsìʼmtsǒn,[],,['chan2019'],,False,False,,1
+quio1241-1-19-1,,quio1241-1,19,tsìʼmtàp,tsìʼmtàp,[],,['chan2019'],,False,False,,1
+quio1241-1-20-1,,quio1241-1,20,kǎlʸ,kǎlʸ,[],,['chan2019'],,False,False,,1
+quio1241-1-21-1,,quio1241-1,21,kǎlptú,kǎlptú,[],,['chan2019'],,False,False,,1
+quio1241-1-22-1,,quio1241-1,22,kǎlpčòp,kǎlpčòp,[],,['chan2019'],,False,False,,1
+quio1241-1-23-1,,quio1241-1,23,kǎlptsǒn,kǎlptsǒn,[],,['chan2019'],,False,False,,1
+quio1241-1-24-1,,quio1241-1,24,kǎlptàp,kǎlptàp,[],,['chan2019'],,False,False,,1
+quio1241-1-25-1,,quio1241-1,25,kǎlpkàʼy,kǎlpkàʼy,[],,['chan2019'],,False,False,,1
+quio1241-1-26-1,,quio1241-1,26,kǎlpšòʼp,kǎlpšòʼp,[],,['chan2019'],,False,False,,1
+quio1241-1-27-1,,quio1241-1,27,kǎlpkǎdz,kǎlpkǎdz,[],,['chan2019'],,False,False,,1
+quio1241-1-28-1,,quio1241-1,28,kǎlpšòn,kǎlpšòn,[],,['chan2019'],,False,False,,1
+quio1241-1-29-1,,quio1241-1,29,kǎlpkèʔ,kǎlpkèʔ,[],,['chan2019'],,False,False,,1
+quio1241-1-30-1,,quio1241-1,30,kǎlptsiʔ,kǎlptsiʔ,[],,['chan2019'],,False,False,,1
+quio1241-1-40-1,,quio1241-1,40,čòʼw,čòʼw,[],( 2 x 20 ),['chan2019'],,False,False,,1
+quio1241-1-50-1,,quio1241-1,50,čòʼwptsìʼ,čòʼwptsìʼ,[],,['chan2019'],,False,False,,1
+quio1241-1-60-1,,quio1241-1,60,tsǒnɡǎlʸ,tsǒnɡǎlʸ,[],( 3 x 20 ),['chan2019'],,False,False,,1
+quio1241-1-70-1,,quio1241-1,70,tsǒnɡǎltsìʼ,tsǒnɡǎltsìʼ,[],,['chan2019'],,False,False,,1
+quio1241-1-80-1,,quio1241-1,80,tàpkǎl,tàpkǎl,[],,['chan2019'],,False,False,,1
+quio1241-1-90-1,,quio1241-1,90,tàpkǎltsìʼ,tàpkǎltsìʼ,[],,['chan2019'],,False,False,,1
+quio1241-1-100-1,,quio1241-1,100,tú kʸòʼw,tú kʸòʼw,[],,['chan2019'],,False,False,,1
+quio1241-1-200-1,,quio1241-1,200,čòp kʸòʼw,čòp kʸòʼw,[],,['chan2019'],,False,False,,1
+quio1241-1-1000-1,,quio1241-1,1000,tú mílʸ,tú mílʸ,[],( mílʸ < Spanish ),['chan2019'],,True,False,,1
+quio1241-1-2000-1,,quio1241-1,2000,čòp mílʸ,čòp mílʸ,[],,['chan2019'],,False,False,,1

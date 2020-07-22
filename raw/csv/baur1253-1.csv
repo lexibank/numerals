@@ -1,0 +1,5 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+baur1253-1-1-1,,baur1253-1,1,po-classifier-ʃ,po-classifier-ʃ,[],,['chan2019'],,False,True,,1
+baur1253-1-2-1,,baur1253-1,2,(m)api-classifier,(m)api-classifier,[],,['chan2019'],,False,True,,1
+baur1253-1-3-1,,baur1253-1,3,mbo--classifier,mbo--classifier,[],,['chan2019'],,False,True,,1
+baur1253-1-4-1,,baur1253-1,4,use Spanish numerals completely.,use Spanish numerals completely.,[],,['chan2019'],,False,True,,1

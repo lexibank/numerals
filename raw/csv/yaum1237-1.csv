@@ -1,0 +1,12 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yaum1237-1-1-1,,yaum1237-1,1,tungu,tungu,[],,['chan2019'],,False,False,,1
+yaum1237-1-2-1,,yaum1237-1,2,yai,yai,[],,['chan2019'],,False,False,,1
+yaum1237-1-3-1,,yaum1237-1,3,anfi,anfi,[],,['chan2019'],,False,False,,1
+yaum1237-1-4-1,,yaum1237-1,4,awanomuno,awanomuno,[],,['chan2019'],,False,False,,1
+yaum1237-1-5-1,,yaum1237-1,5,obukema,obukema,[],( litː 'one hand full'),['chan2019'],,False,False,,1
+yaum1237-1-6-1,,yaum1237-1,6,obu tungu tungu,obu tungu tungu,[],( litː 'one hand and one '),['chan2019'],,False,False,,1
+yaum1237-1-7-1,,yaum1237-1,7,obu tungu yai,obu tungu yai,[],( litː 'one hand and two'),['chan2019'],,False,False,,1
+yaum1237-1-8-1,,yaum1237-1,8,obu tungu anfi,obu tungu anfi,[],( litː 'one hand and three'),['chan2019'],,False,False,,1
+yaum1237-1-9-1,,yaum1237-1,9,obu tungu awanomuno,obu tungu awanomuno,[],( litː 'one hand and four '),['chan2019'],,False,False,,1
+yaum1237-1-10-1,,yaum1237-1,10,obu yait yait,obu yait yait,[],(litː 'two hands'),['chan2019'],,False,False,,1
+yaum1237-1-11-1,,yaum1237-1,11,all numbers higher than ten are named in English,all numbers higher than ten are named in English,[],,['chan2019'],,False,True,,1

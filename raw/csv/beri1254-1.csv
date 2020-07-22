@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+beri1254-1-1-1,,beri1254-1,1,daanfena,daanfena,[],,['chan2019'],,False,False,,1
+beri1254-1-2-1,,beri1254-1,2,naura,naura,[],,['chan2019'],,False,False,,1
+beri1254-1-3-1,,beri1254-1,3,nauniŋna,nauniŋna,[],,['chan2019'],,False,False,,1
+beri1254-1-4-1,,beri1254-1,4,naunaura,naunaura,[],(litː '2 + 2'),['chan2019'],,False,False,,1
+beri1254-1-5-1,,beri1254-1,5,tafna ɡuri,tafna ɡuri,[],(lit: 'hand all'),['chan2019'],,False,False,,1
+beri1254-1-6-1,,beri1254-1,6,tafa afwer daanfena,tafa afwer daanfena,[],(lit: 'hand other one'),['chan2019'],,False,False,,1
+beri1254-1-7-1,,beri1254-1,7,tafa afwer naura,tafa afwer naura,[],,['chan2019'],,False,False,,1
+beri1254-1-8-1,,beri1254-1,8,tafa afwer nauniŋna,tafa afwer nauniŋna,[],,['chan2019'],,False,False,,1
+beri1254-1-9-1,,beri1254-1,9,tafa afwer naunaura,tafa afwer naunaura,[],,['chan2019'],,False,False,,1
+beri1254-1-10-1,,beri1254-1,10,tafa afwer sama ɡuri,tafa afwer sama ɡuri,[],(lit: hand two both all'),['chan2019'],,False,False,,1
+beri1254-1-11-1,,beri1254-1,11,"tafa nau sama ɡuri tufa daanfena (lit: 'hand two both all, foot one') or tufa daafena","tafa nau sama ɡuri tufa daanfena (lit: 'hand two both all, foot one') or tufa daafena",[],(lit: 'foot one'),['chan2019'],,False,True,,1
+beri1254-1-12-1,,beri1254-1,12,tafa nau sama ɡuri tufa naura,tafa nau sama ɡuri tufa naura,[],,['chan2019'],,False,False,,1
+beri1254-1-13-1,,beri1254-1,13,tafa nau sama ɡuri tufa nauniŋna,tafa nau sama ɡuri tufa nauniŋna,[],,['chan2019'],,False,False,,1
+beri1254-1-14-1,,beri1254-1,14,tafa nau sama ɡuri tufa naunaura,tafa nau sama ɡuri tufa naunaura,[],,['chan2019'],,False,False,,1
+beri1254-1-15-1,,beri1254-1,15,"tafa nau sama ɡuri tufa tafna ɡuri (lit: 'hand two both all, foot all') or tufa ɡuri","tafa nau sama ɡuri tufa tafna ɡuri (lit: 'hand two both all, foot all') or tufa ɡuri",[],,['chan2019'],,False,True,,1
+beri1254-1-16-1,,beri1254-1,16,"tafa nau sama ɡuri tufa tafa afwer daanfena (lit: 'hand two both all, foot all, one') or tufa afwer daanfena","tafa nau sama ɡuri tufa tafa afwer daanfena (lit: 'hand two both all, foot all, one') or tufa afwer daanfena",[],(lit: 'foot other one'),['chan2019'],,False,True,,1
+beri1254-1-17-1,,beri1254-1,17,tafa nau sama ɡuri tufa tafa afwer naura,tafa nau sama ɡuri tufa tafa afwer naura,[],,['chan2019'],,False,False,,1
+beri1254-1-18-1,,beri1254-1,18,tafa nau sama ɡuri tufa tafa afwer nauniŋna,tafa nau sama ɡuri tufa tafa afwer nauniŋna,[],,['chan2019'],,False,False,,1
+beri1254-1-19-1,,beri1254-1,19,tafa nau sama ɡuri tufa tafa afwer naunaura,tafa nau sama ɡuri tufa tafa afwer naunaura,[],,['chan2019'],,False,False,,1
+beri1254-1-20-1,,beri1254-1,20,tafa nau sama ɡuri tufa nau sama ɡuri ( lit: 'foot two both all')21. tufa nao sama ɡuri daanfena,tafa nau sama ɡuri tufa nau sama ɡuri ( lit: 'foot two both all')21. tufa nao sama ɡuri daanfena,[],(lit: foot two both all one'),['chan2019'],,False,True,,1

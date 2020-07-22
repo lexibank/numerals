@@ -1,0 +1,22 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tarp1240-1-1-1,,tarp1240-1,1,sukse,sukse,[],,['chan2019'],,False,False,,1
+tarp1240-1-2-1,,tarp1240-1,2,arko,arko,[],,['chan2019'],,False,False,,1
+tarp1240-1-3-1,,tarp1240-1,3,tor,tor,[],,['chan2019'],,False,False,,1
+tarp1240-1-4-1,,tarp1240-1,4,pau,pau,[],,['chan2019'],,False,False,,1
+tarp1240-1-5-1,,tarp1240-1,5,rim,rim,[],,['chan2019'],,False,False,,1
+tarp1240-1-6-1,,tarp1240-1,6,mana-sukse,mana-sukse,[],( 5+1 ),['chan2019'],,False,False,,1
+tarp1240-1-7-1,,tarp1240-1,7,mana-arko,mana-arko,[],( 5+2 ),['chan2019'],,False,False,,1
+tarp1240-1-8-1,,tarp1240-1,8,mana-tor,mana-tor,[],( 5+3 ),['chan2019'],,False,False,,1
+tarp1240-1-9-1,,tarp1240-1,9,mana-pau,mana-pau,[],( 5+4 ),['chan2019'],,False,False,,1
+tarp1240-1-10-1,,tarp1240-1,10,mana-rim,mana-rim,[],( 5+5 ),['chan2019'],,False,False,,1
+tarp1240-1-11-1,,tarp1240-1,11,dorno-sukse,dorno-sukse,[],,['chan2019'],,False,False,,1
+tarp1240-1-12-1,,tarp1240-1,12,dorno-arko,dorno-arko,[],,['chan2019'],,False,False,,1
+tarp1240-1-13-1,,tarp1240-1,13,dorno-tor,dorno-tor,[],,['chan2019'],,False,False,,1
+tarp1240-1-14-1,,tarp1240-1,14,dorno-rim,dorno-rim,[],,['chan2019'],,False,False,,1
+tarp1240-1-15-1,,tarp1240-1,15,dorno-rim,dorno-rim,[],,['chan2019'],,False,False,,1
+tarp1240-1-16-1,,tarp1240-1,16,dorno-mana-sukse,dorno-mana-sukse,[],,['chan2019'],,False,False,,1
+tarp1240-1-17-1,,tarp1240-1,17,dorno-mana-arko,dorno-mana-arko,[],,['chan2019'],,False,False,,1
+tarp1240-1-18-1,,tarp1240-1,18,dorno-mana-tor,dorno-mana-tor,[],,['chan2019'],,False,False,,1
+tarp1240-1-19-1,,tarp1240-1,19,dorno-mana-pau,dorno-mana-pau,[],,['chan2019'],,False,False,,1
+tarp1240-1-20-1,,tarp1240-1,20,dorno-mana-rim,dorno-mana-rim,[],,['chan2019'],,False,False,,1
+tarp1240-1-20-2,,tarp1240-1,20,mikma,mikma,[],,['chan2019'],,False,False,,1

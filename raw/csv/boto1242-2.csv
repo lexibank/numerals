@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+boto1242-2-1-1,,boto1242-2,1,sadi,sadi,[],,['chan2019'],,False,False,,1
+boto1242-2-2-1,,boto1242-2,2,duwa,duwa,[],,['chan2019'],,False,False,,1
+boto1242-2-3-1,,boto1242-2,3,tulu,tulu,[],,['chan2019'],,False,False,,1
+boto1242-2-4-1,,boto1242-2,4,ufat,ufat,[],,['chan2019'],,False,False,,1
+boto1242-2-5-1,,boto1242-2,5,lima,lima,[],,['chan2019'],,False,False,,1
+boto1242-2-6-1,,boto1242-2,6,unum,unum,[],,['chan2019'],,False,False,,1
+boto1242-2-7-1,,boto1242-2,7,fitu,fitu,[],,['chan2019'],,False,False,,1
+boto1242-2-8-1,,boto1242-2,8,walu,walu,[],,['chan2019'],,False,False,,1
+boto1242-2-9-1,,boto1242-2,9,siyam,siyam,[],,['chan2019'],,False,False,,1
+boto1242-2-10-1,,boto1242-2,10,safulu,safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-11-1,,boto1242-2,11,labi sadi,labi sadi,[],,['chan2019'],,False,False,,1
+boto1242-2-12-1,,boto1242-2,12,labi duwa,labi duwa,[],,['chan2019'],,False,False,,1
+boto1242-2-13-1,,boto1242-2,13,labi tulu,labi tulu,[],,['chan2019'],,False,False,,1
+boto1242-2-14-1,,boto1242-2,14,labi ufat,labi ufat,[],,['chan2019'],,False,False,,1
+boto1242-2-15-1,,boto1242-2,15,labi lima,labi lima,[],,['chan2019'],,False,False,,1
+boto1242-2-16-1,,boto1242-2,16,labi unum,labi unum,[],,['chan2019'],,False,False,,1
+boto1242-2-17-1,,boto1242-2,17,labi fitu,labi fitu,[],,['chan2019'],,False,False,,1
+boto1242-2-18-1,,boto1242-2,18,labi walu,labi walu,[],,['chan2019'],,False,False,,1
+boto1242-2-19-1,,boto1242-2,19,labi siyam,labi siyam,[],,['chan2019'],,False,False,,1
+boto1242-2-20-1,,boto1242-2,20,duwak safulu,duwak safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-21-1,,boto1242-2,21,duwak safulu sadi,duwak safulu sadi,[],,['chan2019'],,False,False,,1
+boto1242-2-22-1,,boto1242-2,22,duwak safulu duwa,duwak safulu duwa,[],,['chan2019'],,False,False,,1
+boto1242-2-23-1,,boto1242-2,23,duwak safulu tulu,duwak safulu tulu,[],,['chan2019'],,False,False,,1
+boto1242-2-24-1,,boto1242-2,24,duwak safulu ufat,duwak safulu ufat,[],,['chan2019'],,False,False,,1
+boto1242-2-25-1,,boto1242-2,25,duwak safulu lima,duwak safulu lima,[],,['chan2019'],,False,False,,1
+boto1242-2-26-1,,boto1242-2,26,duwak safulu unum,duwak safulu unum,[],,['chan2019'],,False,False,,1
+boto1242-2-27-1,,boto1242-2,27,duwak safulu fitu,duwak safulu fitu,[],,['chan2019'],,False,False,,1
+boto1242-2-28-1,,boto1242-2,28,duwak safulu walu,duwak safulu walu,[],,['chan2019'],,False,False,,1
+boto1242-2-29-1,,boto1242-2,29,duwak safulu siyam,duwak safulu siyam,[],,['chan2019'],,False,False,,1
+boto1242-2-30-1,,boto1242-2,30,tuluk safulu,tuluk safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-40-1,,boto1242-2,40,ufat safulu,ufat safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-40-2,,boto1242-2,40,ufatk safulu,ufatk safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-50-1,,boto1242-2,50,limak safulu,limak safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-60-1,,boto1242-2,60,unum safulu,unum safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-60-2,,boto1242-2,60,unumk safulu,unumk safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-70-1,,boto1242-2,70,fituk safulu,fituk safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-80-1,,boto1242-2,80,waluk safulu,waluk safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-90-1,,boto1242-2,90,siyam safulu,siyam safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-90-2,,boto1242-2,90,siyamk safulu,siyamk safulu,[],,['chan2019'],,False,False,,1
+boto1242-2-100-1,,boto1242-2,100,safuluk safuluk,safuluk safuluk,[],,['chan2019'],,False,False,,1
+boto1242-2-100-2,,boto1242-2,100,sadik sandan,sadik sandan,[],,['chan2019'],,False,False,,1
+boto1242-2-200-1,,boto1242-2,200,duwak sandan,duwak sandan,[],,['chan2019'],,False,False,,1
+boto1242-2-200-2,,boto1242-2,200,400. ufat sandan,400. ufat sandan,[],,['chan2019'],,False,True,,1
+boto1242-2-1000-1,,boto1242-2,1000,safuluk sandan,safuluk sandan,[],,['chan2019'],,False,False,,1
+boto1242-2-2000-1,,boto1242-2,2000,duwak safuluk sandan,duwak safuluk sandan,[],,['chan2019'],,False,False,,1

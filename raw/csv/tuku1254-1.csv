@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tuku1254-1-1-1,,tuku1254-1,1,iso,iso,[],,['chan2019'],,False,False,,1
+tuku1254-1-2-1,,tuku1254-1,2,ɾu,ɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-3-1,,tuku1254-1,3,telu,telu,[],,['chan2019'],,False,False,,1
+tuku1254-1-4-1,,tuku1254-1,4,paːt,paːt,[],,['chan2019'],,False,False,,1
+tuku1254-1-5-1,,tuku1254-1,5,lim,lim,[],,['chan2019'],,False,False,,1
+tuku1254-1-6-1,,tuku1254-1,6,vovo-niso,vovo-niso,[],( 5 + 1 ),['chan2019'],,False,False,,1
+tuku1254-1-7-1,,tuku1254-1,7,vovo-ɾu,vovo-ɾu,[],( 5 + 2 ),['chan2019'],,False,False,,1
+tuku1254-1-8-1,,tuku1254-1,8,vovo-telu,vovo-telu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+tuku1254-1-9-1,,tuku1254-1,9,vovo-paːt,vovo-paːt,[],( 5 + 4 ),['chan2019'],,False,False,,1
+tuku1254-1-10-1,,tuku1254-1,10,saɡalu,saɡalu,[],,['chan2019'],,False,False,,1
+tuku1254-1-11-1,,tuku1254-1,11,saɡalu-ɡeɾesi-niso,saɡalu-ɡeɾesi-niso,[],,['chan2019'],,False,False,,1
+tuku1254-1-12-1,,tuku1254-1,12,saɡalu-ɡeɾesi-ɾu,saɡalu-ɡeɾesi-ɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-13-1,,tuku1254-1,13,saɡalu-ɡeɾesi-telu,saɡalu-ɡeɾesi-telu,[],,['chan2019'],,False,False,,1
+tuku1254-1-14-1,,tuku1254-1,14,saɡalu-ɡeɾesi-paːt,saɡalu-ɡeɾesi-paːt,[],,['chan2019'],,False,False,,1
+tuku1254-1-15-1,,tuku1254-1,15,saɡalu-ɡeɾesi-lim,saɡalu-ɡeɾesi-lim,[],,['chan2019'],,False,False,,1
+tuku1254-1-16-1,,tuku1254-1,16,saɡalu-ɡeɾesi-vovo-niso,saɡalu-ɡeɾesi-vovo-niso,[],,['chan2019'],,False,False,,1
+tuku1254-1-17-1,,tuku1254-1,17,saɡalu-ɡeɾesi-vovo-ɾu,saɡalu-ɡeɾesi-vovo-ɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-18-1,,tuku1254-1,18,saɡalu-ɡeɾesi-vovo-telu,saɡalu-ɡeɾesi-vovo-telu,[],,['chan2019'],,False,False,,1
+tuku1254-1-19-1,,tuku1254-1,19,saɡalu-ɡeɾesi-vovo-paːt,saɡalu-ɡeɾesi-vovo-paːt,[],,['chan2019'],,False,False,,1
+tuku1254-1-20-1,,tuku1254-1,20,saɡalu-kuiɾu,saɡalu-kuiɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-20-2,,tuku1254-1,20,sakoiɾu,sakoiɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-21-1,,tuku1254-1,21,sakoiɾu-ɡeɾesi-niso,sakoiɾu-ɡeɾesi-niso,[],,['chan2019'],,False,False,,1
+tuku1254-1-22-1,,tuku1254-1,22,sakoiɾu-ɡeɾesi-ru,sakoiɾu-ɡeɾesi-ru,[],,['chan2019'],,False,False,,1
+tuku1254-1-23-1,,tuku1254-1,23,sakoiɾu-ɡeɾesi-telu,sakoiɾu-ɡeɾesi-telu,[],,['chan2019'],,False,False,,1
+tuku1254-1-24-1,,tuku1254-1,24,sakoiɾu-ɡeɾesi-paːt,sakoiɾu-ɡeɾesi-paːt,[],,['chan2019'],,False,False,,1
+tuku1254-1-25-1,,tuku1254-1,25,sakoiɾu-ɡeɾesi-lim,sakoiɾu-ɡeɾesi-lim,[],,['chan2019'],,False,False,,1
+tuku1254-1-26-1,,tuku1254-1,26,sakoiɾu-ɡeɾesi-vovo-niso,sakoiɾu-ɡeɾesi-vovo-niso,[],,['chan2019'],,False,False,,1
+tuku1254-1-27-1,,tuku1254-1,27,sakoiɾu-ɡeɾesi-vovo-ɾu,sakoiɾu-ɡeɾesi-vovo-ɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-28-1,,tuku1254-1,28,sakoiɾu-ɡeɾesi-vovo-telu,sakoiɾu-ɡeɾesi-vovo-telu,[],,['chan2019'],,False,False,,1
+tuku1254-1-29-1,,tuku1254-1,29,sakoiɾu-ɡeɾesi-vovo-paːt,sakoiɾu-ɡeɾesi-vovo-paːt,[],,['chan2019'],,False,False,,1
+tuku1254-1-30-1,,tuku1254-1,30,sakoiɾutelu,sakoiɾutelu,[],,['chan2019'],,False,False,,1
+tuku1254-1-40-1,,tuku1254-1,40,sakoiɾupaːt,sakoiɾupaːt,[],,['chan2019'],,False,False,,1
+tuku1254-1-50-1,,tuku1254-1,50,sakoiɾulim,sakoiɾulim,[],,['chan2019'],,False,False,,1
+tuku1254-1-60-1,,tuku1254-1,60,sakoi-vovo-niso,sakoi-vovo-niso,[],,['chan2019'],,False,False,,1
+tuku1254-1-70-1,,tuku1254-1,70,sakoi-vovo-ɾu,sakoi-vovo-ɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-80-1,,tuku1254-1,80,sakoi-vovo-telu,sakoi-vovo-telu,[],,['chan2019'],,False,False,,1
+tuku1254-1-90-1,,tuku1254-1,90,sakoi-vovo-paːt,sakoi-vovo-paːt,[],,['chan2019'],,False,False,,1
+tuku1254-1-100-1,,tuku1254-1,100,atus iso,atus iso,[],,['chan2019'],,False,False,,1
+tuku1254-1-200-1,,tuku1254-1,200,atus ɾu,atus ɾu,[],,['chan2019'],,False,False,,1
+tuku1254-1-1000-1,,tuku1254-1,1000,ɾibu iso,ɾibu iso,[],,['chan2019'],,False,False,,1
+tuku1254-1-2000-1,,tuku1254-1,2000,ɾibu ɾu,ɾibu ɾu,[],,['chan2019'],,False,False,,1

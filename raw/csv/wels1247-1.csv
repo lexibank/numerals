@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+wels1247-1-1-1,,wels1247-1,1,in,in,[],,['chan2019'],,False,False,un,1
+wels1247-1-2-1,,wels1247-1,2,daɪ,daɪ,[],,['chan2019'],,False,False,dau,1
+wels1247-1-2-2,,wels1247-1,2,dʊɪ,dʊɪ,[],(masc. / fem.),['chan2019'],,False,False,dwy,1
+wels1247-1-3-1,,wels1247-1,3,tɹi,tɹi,[],,['chan2019'],,False,False,tri,1
+wels1247-1-3-2,,wels1247-1,3,taɪr,taɪr,[],(masc. /fem.),['chan2019'],,False,False,tair,1
+wels1247-1-4-1,,wels1247-1,4,ˈpɛdwar,ˈpɛdwar,[],,['chan2019'],,False,False,pedwar,1
+wels1247-1-4-2,,wels1247-1,4,ˈpedaɪr,ˈpedaɪr,[],,['chan2019'],,False,False,pedair,1
+wels1247-1-5-1,,wels1247-1,5,pɪmp,pɪmp,[],,['chan2019'],,False,False,pump,1
+wels1247-1-6-1,,wels1247-1,6,χweχ,χweχ,[],,['chan2019'],,False,False,chwech,1
+wels1247-1-7-1,,wels1247-1,7,saɪθ,saɪθ,[],,['chan2019'],,False,False,saith,1
+wels1247-1-8-1,,wels1247-1,8,ʊɪθ,ʊɪθ,[],,['chan2019'],,False,False,wyth,1
+wels1247-1-9-1,,wels1247-1,9,nɑʊ,nɑʊ,[],,['chan2019'],,False,False,naw,1
+wels1247-1-10-1,,wels1247-1,10,deɡ,deɡ,[],,['chan2019'],,False,False,deɡ,1
+wels1247-1-11-1,,wels1247-1,11,ˈin ar ˌðeɡ,ˈin ar ˌðeɡ,[],,['chan2019'],,False,False,un arddeɡ,1
+wels1247-1-12-1,,wels1247-1,12,ˈdəɪðɛɡ,ˈdəɪðɛɡ,[],,['chan2019'],,False,False,deuddeɡ,1
+wels1247-1-13-1,,wels1247-1,13,ˈtri ar ˌðeɡ,ˈtri ar ˌðeɡ,[],,['chan2019'],,False,False,tri ar ddeɡ,1
+wels1247-1-14-1,,wels1247-1,14,ˈpɛdwarar ˌðeɡ,ˈpɛdwarar ˌðeɡ,[],,['chan2019'],,False,False,pedwarar ddeɡ,1
+wels1247-1-15-1,,wels1247-1,15,ˈpəmθɛɡ,ˈpəmθɛɡ,[],,['chan2019'],,False,False,pymtheɡ,1
+wels1247-1-16-1,,wels1247-1,16,ˈin ar ˌbəmθɛɡ,ˈin ar ˌbəmθɛɡ,[],,['chan2019'],,False,False,un arbymtheɡ,1
+wels1247-1-17-1,,wels1247-1,17,ˈdaɪar ˌbəmθɛɡ,ˈdaɪar ˌbəmθɛɡ,[],,['chan2019'],,False,False,dau arbymtheɡ,1
+wels1247-1-18-1,,wels1247-1,18,ˈdəmɑʊ,ˈdəmɑʊ,[],( 2 x 9 ),['chan2019'],,False,False,deunaw,1
+wels1247-1-19-1,,wels1247-1,19,ˈpɛdwarar ˌbəmθɛɡ,ˈpɛdwarar ˌbəmθɛɡ,[],,['chan2019'],,False,False,pedwar arbymtheɡ,1
+wels1247-1-20-1,,wels1247-1,20,ˈiɡain,ˈiɡain,[],,['chan2019'],,False,False,uɡain,1
+wels1247-1-21-1,,wels1247-1,21,ˈin ar ˌhiɡain,ˈin ar ˌhiɡain,[],,['chan2019'],,False,False,un ar huɡain,1
+wels1247-1-22-1,,wels1247-1,22,ˈdaɪ arˌhiɡain,ˈdaɪ arˌhiɡain,[],,['chan2019'],,False,False,dau ar huɡain,1
+wels1247-1-23-1,,wels1247-1,23,ˈtɹiar ˌhiɡain,ˈtɹiar ˌhiɡain,[],,['chan2019'],,False,False,tri ar huɡain,1
+wels1247-1-24-1,,wels1247-1,24,ˈpɛdwarar ˌhiɡain,ˈpɛdwarar ˌhiɡain,[],,['chan2019'],,False,False,pedwar ar huɡain,1
+wels1247-1-25-1,,wels1247-1,25,ˈpɪmp arˌhiɡain,ˈpɪmp arˌhiɡain,[],,['chan2019'],,False,False,pump ar huɡain,1
+wels1247-1-26-1,,wels1247-1,26,ˈχweχ arˌhiɡain,ˈχweχ arˌhiɡain,[],,['chan2019'],,False,False,chwech ar huɡain,1
+wels1247-1-27-1,,wels1247-1,27,ˈsaɪθ arˌhiɡain,ˈsaɪθ arˌhiɡain,[],,['chan2019'],,False,False,saith ar huɡain,1
+wels1247-1-28-1,,wels1247-1,28,ˈʊɪθ arˌhiɡain,ˈʊɪθ arˌhiɡain,[],,['chan2019'],,False,False,wyth ar huɡain,1
+wels1247-1-29-1,,wels1247-1,29,ˈnɑʊ arˌhiɡain,ˈnɑʊ arˌhiɡain,[],,['chan2019'],,False,False,naw ar huɡain,1
+wels1247-1-30-1,,wels1247-1,30,ˈdeg arˌhiɡain,ˈdeg arˌhiɡain,[],,['chan2019'],,False,False,deɡ ar huɡain,1
+wels1247-1-40-1,,wels1247-1,40,ˈdəɪɡain,ˈdəɪɡain,[],( 2 x 20 ),['chan2019'],,False,False,deuɡain,1
+wels1247-1-50-1,,wels1247-1,50,ˈhanɛr ˈkant,ˈhanɛr ˈkant,[],,['chan2019'],,False,False,hanner cant,1
+wels1247-1-60-1,,wels1247-1,60,ˈtɹiɡaɪn,ˈtɹiɡaɪn,[],( 3 x 20 ),['chan2019'],,False,False,triɡain,1
+wels1247-1-70-1,,wels1247-1,70,ˈdeɡ a ˌθriɡaɪn,ˈdeɡ a ˌθriɡaɪn,[],,['chan2019'],,False,False,deɡ a thriɡain,1
+wels1247-1-80-1,,wels1247-1,80,ˌpɛdwar ˈiɡaɪn,ˌpɛdwar ˈiɡaɪn,[],,['chan2019'],,False,False,pedwar uɡain,1
+wels1247-1-90-1,,wels1247-1,90,ˈdeɡa ˌfɛdwar ˈiɡaɪn,ˈdeɡa ˌfɛdwar ˈiɡaɪn,[],,['chan2019'],,False,False,deɡ a pedwar uɡain,1
+wels1247-1-100-1,,wels1247-1,100,kant,kant,[],,['chan2019'],,False,False,cant,1
+wels1247-1-200-1,,wels1247-1,200,ˈdaɪ ˈɡant,ˈdaɪ ˈɡant,[],,['chan2019'],,False,False,dau ɡant,1
+wels1247-1-1000-1,,wels1247-1,1000,ˈmil,ˈmil,[],,['chan2019'],,False,False,mil,1
+wels1247-1-2000-1,,wels1247-1,2000,ˈdʊɪ ˈvil,ˈdʊɪ ˈvil,[],,['chan2019'],,False,False,dwyfil,1

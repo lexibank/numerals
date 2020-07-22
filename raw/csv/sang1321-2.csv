@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sang1321-2-1-1,,sang1321-2,1,khe,khe,[],,['chan2019'],,False,False,,2
+sang1321-2-1-2,,sang1321-2,1,kʰəru,kʰəru,[],,['chan2019'],,False,False,khürü,2
+sang1321-2-1-3,,sang1321-2,1,kʰədu ?,kʰədu ?,[],,['chan2019'],,False,True,khüdu,2
+sang1321-2-2-1,,sang1321-2,2,anyəh ?,anyəh ?,[],,['chan2019'],,False,True,anyüh,2
+sang1321-2-3-1,,sang1321-2,3,asaŋ ? aseng,asaŋ ? aseng,[],[aseŋ? ],['chan2019'],,False,True,asang,2
+sang1321-2-4-1,,sang1321-2,4,məzyə?,məzyə?,[],,['chan2019'],,False,True,müzyü,2
+sang1321-2-4-2,,sang1321-2,4,onəzyə?,onəzyə?,[],,['chan2019'],,False,True,onüzyü,2
+sang1321-2-5-1,,sang1321-2,5,məŋa?,məŋa?,[],,['chan2019'],,False,True,münga,2
+sang1321-2-5-2,,sang1321-2,5,onəŋa ?,onəŋa ?,[],,['chan2019'],,False,True,onünga,2
+sang1321-2-6-1,,sang1321-2,6,tʰəroh ?,tʰəroh ?,[],,['chan2019'],,False,True,thüroh,2
+sang1321-2-7-1,,sang1321-2,7,tʰənyeh ?,tʰənyeh ?,[],,['chan2019'],,False,True,thünyeh,2
+sang1321-2-8-1,,sang1321-2,8,keh?,keh?,[],,['chan2019'],,False,True,keh,2
+sang1321-2-9-1,,sang1321-2,9,təkuh?,təkuh?,[],,['chan2019'],,False,True,tükuh,2
+sang1321-2-10-1,,sang1321-2,10,thüre [tʰəre ?,thüre [tʰəre ?,[],,['chan2019'],,False,True,,2
+sang1321-2-11-1,,sang1321-2,11,tʰəre kʰe ?,tʰəre kʰe ?,[],,['chan2019'],,False,True,thüre khe,2
+sang1321-2-12-1,,sang1321-2,12,thüre anyü,thüre anyü,[],,['chan2019'],,False,False,,2
+sang1321-2-13-1,,sang1321-2,13,thüre asang,thüre asang,[],,['chan2019'],,False,False,,2
+sang1321-2-14-1,,sang1321-2,14,thüre müzyü,thüre müzyü,[],,['chan2019'],,False,False,,2
+sang1321-2-15-1,,sang1321-2,15,thüre münga,thüre münga,[],,['chan2019'],,False,False,,2
+sang1321-2-16-1,,sang1321-2,16,thüre thüro,thüre thüro,[],,['chan2019'],,False,False,,2
+sang1321-2-17-1,,sang1321-2,17,thüre thünye,thüre thünye,[],,['chan2019'],,False,False,,2
+sang1321-2-18-1,,sang1321-2,18,thüre ke,thüre ke,[],,['chan2019'],,False,False,,2
+sang1321-2-19-1,,sang1321-2,19,thüre tüku,thüre tüku,[],,['chan2019'],,False,False,,2
+sang1321-2-20-1,,sang1321-2,20,məkyə ?,məkyə ?,[],,['chan2019'],,False,True,mükyü,2
+sang1321-2-21-1,,sang1321-2,21,mükyü keh ?,mükyü keh ?,[],,['chan2019'],,False,True,,2
+sang1321-2-30-1,,sang1321-2,30,saŋre ?,saŋre ?,[],,['chan2019'],,False,True,sangre,2
+sang1321-2-40-1,,sang1321-2,40,zyure,zyure,[],,['chan2019'],,False,False,,2
+sang1321-2-40-2,,sang1321-2,40,zyərepə ?,zyərepə ?,[],,['chan2019'],,False,True,zyürepü,2
+sang1321-2-50-1,,sang1321-2,50,tʰənyaŋ,tʰənyaŋ,[],,['chan2019'],,False,False,thünyang,2
+sang1321-2-50-2,,sang1321-2,50,thüryeng,thüryeng,[],,['chan2019'],,False,False,,2
+sang1321-2-60-1,,sang1321-2,60,rore,rore,[],,['chan2019'],,False,False,,2
+sang1321-2-60-2,,sang1321-2,60,rohre ?,rohre ?,[],,['chan2019'],,False,True,rohre,2
+sang1321-2-70-1,,sang1321-2,70,nyure,nyure,[],,['chan2019'],,False,False,,2
+sang1321-2-70-2,,sang1321-2,70,nyəlire ?,nyəlire ?,[],,['chan2019'],,False,True,nyülire,2
+sang1321-2-80-1,,sang1321-2,80,zyuere-anyu,zyuere-anyu,[],( 40 x 2 ),['chan2019'],,False,False,,2
+sang1321-2-80-2,,sang1321-2,80,qure ?,qure ?,[],,['chan2019'],,False,True,,2
+sang1321-2-90-1,,sang1321-2,90,kure ?,kure ?,[],,['chan2019'],,False,True,kure,2
+sang1321-2-100-1,,sang1321-2,100,tʰesih kʰindu ?,tʰesih kʰindu ?,[],,['chan2019'],,False,True,thesih khindu,2

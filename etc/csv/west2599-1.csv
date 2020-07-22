@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+west2599-1-1-1,,west2599-1,1,eɡata,eɡata,[],(lit: ''little finger'' ),['chan2019'],,False,False,,1
+west2599-1-2-1,,west2599-1,2,laapo,laapo,[],(lit: ''ring finger'' ),['chan2019'],,False,False,,1
+west2599-1-3-1,,west2599-1,3,repo,repo,[],(lit: ''middle finger'' ),['chan2019'],,False,False,,1
+west2599-1-4-1,,west2599-1,4,malaa,malaa,[],(lit: ''index finger'' ),['chan2019'],,False,False,,1
+west2599-1-5-1,,west2599-1,5,supu,supu,[],(lit: ''thumb''),['chan2019'],,False,False,,1
+west2599-1-6-1,,west2599-1,6,oraapu,oraapu,[],(lit: ''flesh of the thumb''),['chan2019'],,False,False,,1
+west2599-1-7-1,,west2599-1,7,waraa,waraa,[],(lit: ''palm''),['chan2019'],,False,False,,1
+west2599-1-8-1,,west2599-1,8,kerepo,kerepo,[],(lit: ''wrist'' ),['chan2019'],,False,False,,1
+west2599-1-9-1,,west2599-1,9,noae,noae,[],(lit: ''carpals'' ),['chan2019'],,False,False,,1
+west2599-1-10-1,,west2599-1,10,noae re pambu,noae re pambu,[],(lit: ''radius'' ),['chan2019'],,False,False,,1
+west2599-1-11-1,,west2599-1,11,noae re luambu,noae re luambu,[],(lit: ''ulna / small arm'' ),['chan2019'],,False,False,,1
+west2599-1-12-1,,west2599-1,12,pini,pini,[],(lit: '' mid upper arm'' ),['chan2019'],,False,False,,1
+west2599-1-13-1,,west2599-1,13,pini re pambu,pini re pambu,[],,['chan2019'],,False,False,,1
+west2599-1-14-1,,west2599-1,14,pasaa,pasaa,[],(lit: ''shoulder''),['chan2019'],,False,False,,1
+west2599-1-15-1,,west2599-1,15,pasaa re pambu,pasaa re pambu,[],,['chan2019'],,False,False,,1
+west2599-1-16-1,,west2599-1,16,kalambe,kalambe,[],( lit: ''top of the shoulder''),['chan2019'],,False,False,,1
+west2599-1-17-1,,west2599-1,17,ipa lo,ipa lo,[],(lit: ''lower neck'' ),['chan2019'],,False,False,,1
+west2599-1-18-1,,west2599-1,18,maa,maa,[],(lit: ''neck'' ),['chan2019'],,False,False,,1
+west2599-1-19-1,,west2599-1,19,peae,peae,[],(lit: ''back of cheek''),['chan2019'],,False,False,,1
+west2599-1-20-1,,west2599-1,20,peae re pambu,peae re pambu,[],( lit: ''temple''),['chan2019'],,False,False,,1
+west2599-1-21-1,,west2599-1,21,aane,aane,[],(lit: ''ear''),['chan2019'],,False,False,,1
+west2599-1-22-1,,west2599-1,22,ini,ini,[],(lit: ''eye'' ),['chan2019'],,False,False,,1
+west2599-1-23-1,,west2599-1,23,paki,paki,[],(lit: ''inside corner of eye'' ),['chan2019'],,False,False,,1
+west2599-1-24-1,,west2599-1,24,rikaa,rikaa,[],(lit: ''between eyes'' ),['chan2019'],,False,False,,1
+west2599-1-25-1,,west2599-1,25,paki menda,paki menda,[],( the body parts are repeated in reverse order and by adding menda ''another''.),['chan2019'],,False,False,,1
+west2599-1-26-1,,west2599-1,26,ini menda,ini menda,[],,['chan2019'],,False,False,,1
+west2599-1-27-1,,west2599-1,27,aane menda,aane menda,[],,['chan2019'],,False,False,,1
+west2599-1-28-1,,west2599-1,28,peae re pambu menda,peae re pambu menda,[],,['chan2019'],,False,False,,1
+west2599-1-29-1,,west2599-1,29,peae menda,peae menda,[],,['chan2019'],,False,False,,1
+west2599-1-30-1,,west2599-1,30,maa menda,maa menda,[],,['chan2019'],,False,False,,1
+west2599-1-40-1,,west2599-1,40,palaa ki menda,palaa ki menda,[],,['chan2019'],,False,False,,1
+west2599-1-100-1,,west2599-1,100,paapu,paapu,[],,['chan2019'],,False,False,,1
+west2599-1-200-1,,west2599-1,200,paapu laap,paapu laap,[],,['chan2019'],,False,False,,1

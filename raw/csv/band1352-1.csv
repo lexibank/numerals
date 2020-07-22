@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+band1352-1-1-1,,band1352-1,1,ìtá(ŋ),ìtá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-1-2,,band1352-1,1,hítà(ŋ),hítà(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-2-1,,band1352-1,2,fèlé(ŋ),fèlé(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-3-1,,band1352-1,3,sàwá(ŋ),sàwá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-3-2,,band1352-1,3,sàá(ŋ),sàá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-4-1,,band1352-1,4,náánì(ŋ),náánì(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-5-1,,band1352-1,5,ndɔ̀ɔ́lú(ŋ),ndɔ̀ɔ́lú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-6-1,,band1352-1,6,nɡɔ̀hítá(ŋ),nɡɔ̀hítá(ŋ),[],( 5 + 1 ),['chan2019'],,False,False,,1
+band1352-1-7-1,,band1352-1,7,ŋɡɔ̀félà(ŋ),ŋɡɔ̀félà(ŋ),[],( 5 + 2 ),['chan2019'],,False,False,,1
+band1352-1-8-1,,band1352-1,8,ŋɡɔ̀hák͡pá(ŋ),ŋɡɔ̀hák͡pá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-8-2,,band1352-1,8,ŋɡwahák͡pá(ŋ),ŋɡwahák͡pá(ŋ),[],( 5+ 4),['chan2019'],,False,False,,1
+band1352-1-9-1,,band1352-1,9,tààwú(ŋ),tààwú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-9-2,,band1352-1,9,tààvú(ŋ),tààvú(ŋ),[],( 10 - 1 ) ?,['chan2019'],,False,False,,1
+band1352-1-10-1,,band1352-1,10,pû(ŋ),pû(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-10-2,,band1352-1,10,púù(ŋ),púù(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-11-1,,band1352-1,11,pû màhũ yílà(ŋ),pû màhũ yílà(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-12-1,,band1352-1,12,pû màhũ fèlé(ŋ),pû màhũ fèlé(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-13-1,,band1352-1,13,pû màhũ sàwà(ŋ),pû màhũ sàwà(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-14-1,,band1352-1,14,pû màhũ nàànì(ŋ),pû màhũ nàànì(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-15-1,,band1352-1,15,pû màhũ lɔ̀ɔ̀lú(ŋ),pû màhũ lɔ̀ɔ̀lú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-16-1,,band1352-1,16,pû màhũ wɔ̀hítá(ŋ),pû màhũ wɔ̀hítá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-17-1,,band1352-1,17,pû màhũ wɔ̀félà(ŋ),pû màhũ wɔ̀félà(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-18-1,,band1352-1,18,pû màhũ wɔ̀hák͡pá(ŋ),pû màhũ wɔ̀hák͡pá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-19-1,,band1352-1,19,pû màhũ tààwú(ŋ),pû màhũ tààwú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-20-1,,band1352-1,20,pù félé(ŋ),pù félé(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-21-1,,band1352-1,21,pù félé màhũ yílà(ŋ),pù félé màhũ yílà(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-22-1,,band1352-1,22,pù félé màhũ fèlé(ŋ),pù félé màhũ fèlé(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-23-1,,band1352-1,23,pù félé màhũ sàwá(ŋ),pù félé màhũ sàwá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-24-1,,band1352-1,24,pù félé màhũ náánì(ŋ),pù félé màhũ náánì(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-25-1,,band1352-1,25,pù félé màhũ lɔ̀ɔ́lú(ŋ),pù félé màhũ lɔ̀ɔ́lú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-26-1,,band1352-1,26,pù félé màhũ wɔ̀hítá(ŋ),pù félé màhũ wɔ̀hítá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-27-1,,band1352-1,27,pù félé màhũ wɔ̀félà(ŋ),pù félé màhũ wɔ̀félà(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-28-1,,band1352-1,28,pù félé màhũ wɔ̀hák͡pá(ŋ),pù félé màhũ wɔ̀hák͡pá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-29-1,,band1352-1,29,pù félé màhũ tààwú(ŋ),pù félé màhũ tààwú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-30-1,,band1352-1,30,pù sáwá(ŋ),pù sáwá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-40-1,,band1352-1,40,pù náání(ŋ),pù náání(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-50-1,,band1352-1,50,pù lɔ́ɔ́lú(ŋ),pù lɔ́ɔ́lú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-60-1,,band1352-1,60,pù wɔ̀hítá(ŋ),pù wɔ̀hítá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-70-1,,band1352-1,70,pù wɔ̀félà(ŋ),pù wɔ̀félà(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-80-1,,band1352-1,80,pù wɔ̀hák͡pá(ŋ),pù wɔ̀hák͡pá(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-90-1,,band1352-1,90,pù tààwú(ŋ),pù tààwú(ŋ),[],,['chan2019'],,False,False,,1
+band1352-1-100-1,,band1352-1,100,hɔndɔlɔ nɡila,hɔndɔlɔ nɡila,[],( 'hɔ́ndɔlɔ' < English ),['chan2019'],,True,False,,1
+band1352-1-200-1,,band1352-1,200,hɔndɔlɔ fele,hɔndɔlɔ fele,[],,['chan2019'],,False,False,,1
+band1352-1-1000-1,,band1352-1,1000,tásuu nɡila,tásuu nɡila,[],('tásuu' < English ),['chan2019'],,True,False,,1
+band1352-1-2000-1,,band1352-1,2000,tásuu fele,tásuu fele,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,39 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hrus1242-5-1-1,,hrus1242-5,1,a,a,[],,['chan2019'],,False,False,,5
+hrus1242-5-2-1,,hrus1242-5,2,ksə,ksə,[],,['chan2019'],,False,False,,5
+hrus1242-5-3-1,,hrus1242-5,3,ðə,ðə,[],,['chan2019'],,False,False,,5
+hrus1242-5-4-1,,hrus1242-5,4,pi,pi,[],,['chan2019'],,False,False,,5
+hrus1242-5-5-1,,hrus1242-5,5,pom,pom,[],,['chan2019'],,False,False,,5
+hrus1242-5-6-1,,hrus1242-5,6,ʒɛ̌,ʒɛ̌,[],,['chan2019'],,False,False,,5
+hrus1242-5-7-1,,hrus1242-5,7,mrə,mrə,[],,['chan2019'],,False,False,,5
+hrus1242-5-8-1,,hrus1242-5,8,skzə,skzə,[],,['chan2019'],,False,False,,5
+hrus1242-5-9-1,,hrus1242-5,9,stʰə,stʰə,[],,['chan2019'],,False,False,,5
+hrus1242-5-10-1,,hrus1242-5,10,ʁə,ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-11-1,,hrus1242-5,11,ʁə ǎ,ʁə ǎ,[],,['chan2019'],,False,False,,5
+hrus1242-5-12-1,,hrus1242-5,12,ʁə ksə,ʁə ksə,[],,['chan2019'],,False,False,,5
+hrus1242-5-13-1,,hrus1242-5,13,ʁə zðə,ʁə zðə,[],,['chan2019'],,False,False,,5
+hrus1242-5-14-1,,hrus1242-5,14,ʁə tʃə pi,ʁə tʃə pi,[],,['chan2019'],,False,False,,5
+hrus1242-5-15-1,,hrus1242-5,15,ʁə tʃə pom,ʁə tʃə pom,[],,['chan2019'],,False,False,,5
+hrus1242-5-16-1,,hrus1242-5,16,ʁə tʃə yɛ̌,ʁə tʃə yɛ̌,[],,['chan2019'],,False,False,,5
+hrus1242-5-17-1,,hrus1242-5,17,ʁə tʃə mrəɔ,ʁə tʃə mrəɔ,[],,['chan2019'],,False,False,,5
+hrus1242-5-18-1,,hrus1242-5,18,ʁə tʃə skzə,ʁə tʃə skzə,[],,['chan2019'],,False,False,,5
+hrus1242-5-19-1,,hrus1242-5,19,ʁə tʃə sðə,ʁə tʃə sðə,[],,['chan2019'],,False,False,,5
+hrus1242-5-20-1,,hrus1242-5,20,bʃa < bis,bʃa < bis,[],( Indo-Aryan),['chan2019'],,False,True,,5
+hrus1242-5-21-1,,hrus1242-5,21,bʃayə ǎ,bʃayə ǎ,[],,['chan2019'],,False,False,,5
+hrus1242-5-30-1,,hrus1242-5,30,ðə ʁə,ðə ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-40-1,,hrus1242-5,40,pi ʁə,pi ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-50-1,,hrus1242-5,50,pom ʁə,pom ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-60-1,,hrus1242-5,60,ʒɛ̌ ʁə,ʒɛ̌ ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-70-1,,hrus1242-5,70,mrə ʁə,mrə ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-80-1,,hrus1242-5,80,skzə ʁə,skzə ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-90-1,,hrus1242-5,90,sðə ʁə,sðə ʁə,[],,['chan2019'],,False,False,,5
+hrus1242-5-100-1,,hrus1242-5,100,fuɡ ǎ,fuɡ ǎ,[],,['chan2019'],,False,False,,5
+hrus1242-5-100-2,,hrus1242-5,100,200. fuɡ ksə,200. fuɡ ksə,[],,['chan2019'],,False,True,,5
+hrus1242-5-100-3,,hrus1242-5,100,300. fuɡ ðə,300. fuɡ ðə,[],,['chan2019'],,False,True,,5
+hrus1242-5-400-1,,hrus1242-5,400,fuɡ bi,fuɡ bi,[],,['chan2019'],,False,False,,5
+hrus1242-5-400-2,,hrus1242-5,400,500. fuɡ pom,500. fuɡ pom,[],,['chan2019'],,False,True,,5
+hrus1242-5-400-3,,hrus1242-5,400,600. fuɡ ʒɛ̌,600. fuɡ ʒɛ̌,[],,['chan2019'],,False,True,,5
+hrus1242-5-700-1,,hrus1242-5,700,fuɡ mrəɔ,fuɡ mrəɔ,[],,['chan2019'],,False,False,,5
+hrus1242-5-700-2,,hrus1242-5,700,800. fuɡ skzə,800. fuɡ skzə,[],,['chan2019'],,False,True,,5
+hrus1242-5-700-3,,hrus1242-5,700,900. fuɡ ˢðə,900. fuɡ ˢðə,[],,['chan2019'],,False,True,,5
+hrus1242-5-1000-1,,hrus1242-5,1000,hazeya,hazeya,[],(<loan from Indic),['chan2019'],,False,False,,5

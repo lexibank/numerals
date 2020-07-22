@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+fyam1238-1-1-1,,fyam1238-1,1,kʲéŋ,kʲéŋ,[],,['chan2019'],,False,False,,1
+fyam1238-1-2-1,,fyam1238-1,2,por,por,[],,['chan2019'],,False,False,,1
+fyam1238-1-3-1,,fyam1238-1,3,táár,táár,[],,['chan2019'],,False,False,,1
+fyam1238-1-4-1,,fyam1238-1,4,naas,naas,[],,['chan2019'],,False,False,,1
+fyam1238-1-5-1,,fyam1238-1,5,tóón,tóón,[],,['chan2019'],,False,False,,1
+fyam1238-1-6-1,,fyam1238-1,6,táárin,táárin,[],,['chan2019'],,False,False,,1
+fyam1238-1-7-1,,fyam1238-1,7,támor,támor,[],,['chan2019'],,False,False,,1
+fyam1238-1-8-1,,fyam1238-1,8,tʃínít,tʃínít,[],,['chan2019'],,False,False,,1
+fyam1238-1-9-1,,fyam1238-1,9,téres,téres,[],,['chan2019'],,False,False,,1
+fyam1238-1-10-1,,fyam1238-1,10,dukút,dukút,[],,['chan2019'],,False,False,,1
+fyam1238-1-11-1,,fyam1238-1,11,dukút abil kʲéŋ,dukút abil kʲéŋ,[],,['chan2019'],,False,False,,1
+fyam1238-1-12-1,,fyam1238-1,12,dukút abil por,dukút abil por,[],,['chan2019'],,False,False,,1
+fyam1238-1-13-1,,fyam1238-1,13,dukút abil taar,dukút abil taar,[],,['chan2019'],,False,False,,1
+fyam1238-1-14-1,,fyam1238-1,14,dukút abil naas,dukút abil naas,[],,['chan2019'],,False,False,,1
+fyam1238-1-15-1,,fyam1238-1,15,dukút abil tóón,dukút abil tóón,[],,['chan2019'],,False,False,,1
+fyam1238-1-16-1,,fyam1238-1,16,dukút abil táárin,dukút abil táárin,[],,['chan2019'],,False,False,,1
+fyam1238-1-17-1,,fyam1238-1,17,dukút abil támor,dukút abil támor,[],,['chan2019'],,False,False,,1
+fyam1238-1-18-1,,fyam1238-1,18,dukút abil tʃínít,dukút abil tʃínít,[],,['chan2019'],,False,False,,1
+fyam1238-1-19-1,,fyam1238-1,19,dukút abil téres,dukút abil téres,[],,['chan2019'],,False,False,,1
+fyam1238-1-20-1,,fyam1238-1,20,kútá por,kútá por,[],,['chan2019'],,False,False,,1
+fyam1238-1-21-1,,fyam1238-1,21,kútá por ná kʲéŋ,kútá por ná kʲéŋ,[],,['chan2019'],,False,False,,1
+fyam1238-1-22-1,,fyam1238-1,22,kútá por ná por,kútá por ná por,[],,['chan2019'],,False,False,,1
+fyam1238-1-23-1,,fyam1238-1,23,kútá por ná táár,kútá por ná táár,[],,['chan2019'],,False,False,,1
+fyam1238-1-24-1,,fyam1238-1,24,kútá por ná naas,kútá por ná naas,[],,['chan2019'],,False,False,,1
+fyam1238-1-25-1,,fyam1238-1,25,kútá por ná tóón,kútá por ná tóón,[],,['chan2019'],,False,False,,1
+fyam1238-1-26-1,,fyam1238-1,26,kútá por ná táárin,kútá por ná táárin,[],,['chan2019'],,False,False,,1
+fyam1238-1-27-1,,fyam1238-1,27,kútá por ná támor,kútá por ná támor,[],,['chan2019'],,False,False,,1
+fyam1238-1-28-1,,fyam1238-1,28,kútá por ná tʃínít,kútá por ná tʃínít,[],,['chan2019'],,False,False,,1
+fyam1238-1-29-1,,fyam1238-1,29,kútá por ná téres,kútá por ná téres,[],,['chan2019'],,False,False,,1
+fyam1238-1-30-1,,fyam1238-1,30,kútá táár,kútá táár,[],,['chan2019'],,False,False,,1
+fyam1238-1-40-1,,fyam1238-1,40,kútá naas,kútá naas,[],,['chan2019'],,False,False,,1
+fyam1238-1-50-1,,fyam1238-1,50,kútá tóón,kútá tóón,[],,['chan2019'],,False,False,,1
+fyam1238-1-60-1,,fyam1238-1,60,kútá táárin,kútá táárin,[],,['chan2019'],,False,False,,1
+fyam1238-1-70-1,,fyam1238-1,70,kútá támor,kútá támor,[],,['chan2019'],,False,False,,1
+fyam1238-1-80-1,,fyam1238-1,80,kútá tʃínít,kútá tʃínít,[],,['chan2019'],,False,False,,1
+fyam1238-1-90-1,,fyam1238-1,90,kútá téres,kútá téres,[],,['chan2019'],,False,False,,1
+fyam1238-1-100-1,,fyam1238-1,100,diŋ kʲéŋ,diŋ kʲéŋ,[],,['chan2019'],,False,False,,1
+fyam1238-1-100-2,,fyam1238-1,100,dari,dari,[],( < Hausa),['chan2019'],,True,False,,1
+fyam1238-1-200-1,,fyam1238-1,200,dari por,dari por,[],,['chan2019'],,False,False,,1
+fyam1238-1-1000-1,,fyam1238-1,1000,dubu kʲéŋ,dubu kʲéŋ,[],( dubu < Hausa),['chan2019'],,True,False,,1
+fyam1238-1-2000-1,,fyam1238-1,2000,dubu por,dubu por,[],,['chan2019'],,False,False,,1

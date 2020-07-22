@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bond1247-1-1-1,,bond1247-1,1,mweŋa,mweŋa,[],,['chan2019'],,False,False,,1
+bond1247-1-2-1,,bond1247-1,2,mbii,mbii,[],,['chan2019'],,False,False,,1
+bond1247-1-3-1,,bond1247-1,3,ndatu,ndatu,[],,['chan2019'],,False,False,,1
+bond1247-1-4-1,,bond1247-1,4,ń̩nɛ,ń̩nɛ,[],,['chan2019'],,False,False,,1
+bond1247-1-5-1,,bond1247-1,5,ʃáno,ʃáno,[],,['chan2019'],,False,False,,1
+bond1247-1-6-1,,bond1247-1,6,síta,síta,[],( < Swahili / Arabic ),['chan2019'],,True,False,,1
+bond1247-1-7-1,,bond1247-1,7,sába,sába,[],( < Swahili / Arabic ),['chan2019'],,True,False,,1
+bond1247-1-8-1,,bond1247-1,8,nánɛ,nánɛ,[],,['chan2019'],,False,False,,1
+bond1247-1-9-1,,bond1247-1,9,kenda,kenda,[],,['chan2019'],,False,False,,1
+bond1247-1-9-2,,bond1247-1,9,tísa,tísa,[],(Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-10-1,,bond1247-1,10,kúmi,kúmi,[],,['chan2019'],,False,False,,1
+bond1247-1-11-1,,bond1247-1,11,kumi na mweŋa,kumi na mweŋa,[],,['chan2019'],,False,False,,1
+bond1247-1-12-1,,bond1247-1,12,kumi na mbíli,kumi na mbíli,[],,['chan2019'],,False,False,,1
+bond1247-1-13-1,,bond1247-1,13,kumi na ndatu,kumi na ndatu,[],,['chan2019'],,False,False,,1
+bond1247-1-14-1,,bond1247-1,14,kumi na ń̩nɛ,kumi na ń̩nɛ,[],,['chan2019'],,False,False,,1
+bond1247-1-15-1,,bond1247-1,15,kumi na ʃáno,kumi na ʃáno,[],,['chan2019'],,False,False,,1
+bond1247-1-16-1,,bond1247-1,16,kumi na síta,kumi na síta,[],,['chan2019'],,False,False,,1
+bond1247-1-17-1,,bond1247-1,17,kumi na sába,kumi na sába,[],,['chan2019'],,False,False,,1
+bond1247-1-18-1,,bond1247-1,18,kumi na nánɛ,kumi na nánɛ,[],,['chan2019'],,False,False,,1
+bond1247-1-19-1,,bond1247-1,19,kumi na tísa,kumi na tísa,[],,['chan2019'],,False,False,,1
+bond1247-1-20-1,,bond1247-1,20,iʃini,iʃini,[],,['chan2019'],,False,False,,1
+bond1247-1-20-2,,bond1247-1,20,iʃiin,iʃiin,[],,['chan2019'],,False,False,,1
+bond1247-1-21-1,,bond1247-1,21,iʃiin na mweŋa,iʃiin na mweŋa,[],( Arabic + Bantu),['chan2019'],,False,False,,1
+bond1247-1-22-1,,bond1247-1,22,iʃiin na mbíi,iʃiin na mbíi,[],,['chan2019'],,False,False,,1
+bond1247-1-23-1,,bond1247-1,23,iʃiin na ndatu,iʃiin na ndatu,[],,['chan2019'],,False,False,,1
+bond1247-1-24-1,,bond1247-1,24,iʃiin na ń̩nɛ,iʃiin na ń̩nɛ,[],,['chan2019'],,False,False,,1
+bond1247-1-25-1,,bond1247-1,25,iʃiin na ʃáno,iʃiin na ʃáno,[],,['chan2019'],,False,False,,1
+bond1247-1-26-1,,bond1247-1,26,iʃiin na síta,iʃiin na síta,[],,['chan2019'],,False,False,,1
+bond1247-1-27-1,,bond1247-1,27,iʃiin na sába,iʃiin na sába,[],,['chan2019'],,False,False,,1
+bond1247-1-28-1,,bond1247-1,28,iʃiin na nánɛ,iʃiin na nánɛ,[],,['chan2019'],,False,False,,1
+bond1247-1-29-1,,bond1247-1,29,iʃiin na kenda,iʃiin na kenda,[],,['chan2019'],,False,False,,1
+bond1247-1-30-1,,bond1247-1,30,saasini,saasini,[],( Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-40-1,,bond1247-1,40,albaini,albaini,[],( Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-50-1,,bond1247-1,50,hamsíni,hamsíni,[],( Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-60-1,,bond1247-1,60,sitíni,sitíni,[],( Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-70-1,,bond1247-1,70,sabíni,sabíni,[],( Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-80-1,,bond1247-1,80,ðamaníni,ðamaníni,[],( Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-90-1,,bond1247-1,90,tisíni,tisíni,[],( Swahili / < Arabic ),['chan2019'],,True,False,,1
+bond1247-1-100-1,,bond1247-1,100,mia,mia,[],( 'mia' from Swahili /Arabic ),['chan2019'],,False,False,,1
+bond1247-1-200-1,,bond1247-1,200,mija mbíi,mija mbíi,[],,['chan2019'],,False,False,,1
+bond1247-1-1000-1,,bond1247-1,1000,alfu mweŋa,alfu mweŋa,[],( 'alfu ' from Arabic ),['chan2019'],,False,False,,1
+bond1247-1-2000-1,,bond1247-1,2000,alfu mbii,alfu mbii,[],,['chan2019'],,False,False,,1

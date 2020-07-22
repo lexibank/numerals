@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+amga1235-1-1-1,,amga1235-1,1,ʔo'ha,ʔo'ha,[],,['chan2019'],,False,False,,1
+amga1235-1-2-1,,amga1235-1,2,du'wa,du'wa,[],,['chan2019'],,False,False,,1
+amga1235-1-3-1,,amga1235-1,3,tu'lu,tu'lu,[],,['chan2019'],,False,False,,1
+amga1235-1-4-1,,amga1235-1,4,ʔo'pat,ʔo'pat,[],,['chan2019'],,False,False,,1
+amga1235-1-5-1,,amga1235-1,5,li'ma,li'ma,[],,['chan2019'],,False,False,,1
+amga1235-1-6-1,,amga1235-1,6,ʔo'nom,ʔo'nom,[],,['chan2019'],,False,False,,1
+amga1235-1-7-1,,amga1235-1,7,pi'tu,pi'tu,[],,['chan2019'],,False,False,,1
+amga1235-1-8-1,,amga1235-1,8,wa'lu,wa'lu,[],,['chan2019'],,False,False,,1
+amga1235-1-9-1,,amga1235-1,9,hi'yam,hi'yam,[],,['chan2019'],,False,False,,1
+amga1235-1-10-1,,amga1235-1,10,him'pulu,him'pulu,[],,['chan2019'],,False,False,,1
+amga1235-1-11-1,,amga1235-1,11,him'pulut ʔo'ha <him'pulu ta ʔo'ha,him'pulut ʔo'ha <him'pulu ta ʔo'ha,[],,['chan2019'],,False,True,,1
+amga1235-1-12-1,,amga1235-1,12,him'pulut du'wa,him'pulut du'wa,[],,['chan2019'],,False,False,,1
+amga1235-1-13-1,,amga1235-1,13,him'pulut tu'lu,him'pulut tu'lu,[],,['chan2019'],,False,False,,1
+amga1235-1-14-1,,amga1235-1,14,him'pulut ʔo'pat,him'pulut ʔo'pat,[],,['chan2019'],,False,False,,1
+amga1235-1-15-1,,amga1235-1,15,him'pulut li'ma,him'pulut li'ma,[],,['chan2019'],,False,False,,1
+amga1235-1-16-1,,amga1235-1,16,him'pulut ʔo'nom,him'pulut ʔo'nom,[],,['chan2019'],,False,False,,1
+amga1235-1-17-1,,amga1235-1,17,him'pulut pi'tu,him'pulut pi'tu,[],,['chan2019'],,False,False,,1
+amga1235-1-18-1,,amga1235-1,18,him'pulut wa'lu,him'pulut wa'lu,[],,['chan2019'],,False,False,,1
+amga1235-1-19-1,,amga1235-1,19,him'pulut hi'yam,him'pulut hi'yam,[],,['chan2019'],,False,False,,1
+amga1235-1-20-1,,amga1235-1,20,bain'ti,bain'ti,[],< Spanish ) ,['chan2019'],,True,False,,1
+amga1235-1-21-1,,amga1235-1,21,bain'tit ʔo'ha < bain'ti ta ʔo'ha,bain'tit ʔo'ha < bain'ti ta ʔo'ha,[],,['chan2019'],,False,True,,1
+amga1235-1-22-1,,amga1235-1,22,bain'titdu'wa,bain'titdu'wa,[],,['chan2019'],,False,False,,1
+amga1235-1-23-1,,amga1235-1,23,bain'tit tu'lu,bain'tit tu'lu,[],,['chan2019'],,False,False,,1
+amga1235-1-24-1,,amga1235-1,24,bain'tit ʔo'pat,bain'tit ʔo'pat,[],,['chan2019'],,False,False,,1
+amga1235-1-25-1,,amga1235-1,25,bain'tit li'ma,bain'tit li'ma,[],,['chan2019'],,False,False,,1
+amga1235-1-26-1,,amga1235-1,26,bain'tit ʔo'nom,bain'tit ʔo'nom,[],,['chan2019'],,False,False,,1
+amga1235-1-27-1,,amga1235-1,27,bain'tit pi'tu,bain'tit pi'tu,[],,['chan2019'],,False,False,,1
+amga1235-1-28-1,,amga1235-1,28,bain'tit wa'lu,bain'tit wa'lu,[],,['chan2019'],,False,False,,1
+amga1235-1-29-1,,amga1235-1,29,bain'tit hi'yam,bain'tit hi'yam,[],,['chan2019'],,False,False,,1
+amga1235-1-30-1,,amga1235-1,30,tulum'pulu,tulum'pulu,[],,['chan2019'],,False,False,,1
+amga1235-1-40-1,,amga1235-1,40,na'pat,na'pat,[],,['chan2019'],,False,False,,1
+amga1235-1-50-1,,amga1235-1,50,na'boŋle,na'boŋle,[],,['chan2019'],,False,False,,1
+amga1235-1-60-1,,amga1235-1,60,na'nom,na'nom,[],,['chan2019'],,False,False,,1
+amga1235-1-70-1,,amga1235-1,70,na'pitu,na'pitu,[],,['chan2019'],,False,False,,1
+amga1235-1-80-1,,amga1235-1,80,nawa'lu,nawa'lu,[],,['chan2019'],,False,False,,1
+amga1235-1-90-1,,amga1235-1,90,nahi'yam,nahi'yam,[],,['chan2019'],,False,False,,1
+amga1235-1-100-1,,amga1235-1,100,hiŋɡa'hut,hiŋɡa'hut,[],,['chan2019'],,False,False,,1
+amga1235-1-200-1,,amga1235-1,200,du'way ɡa'hut,du'way ɡa'hut,[],,['chan2019'],,False,False,,1
+amga1235-1-1000-1,,amga1235-1,1000,hin'lu:bu,hin'lu:bu,[],,['chan2019'],,False,False,,1
+amga1235-1-2000-1,,amga1235-1,2000,du'way 'lu:bu,du'way 'lu:bu,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,32 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+usag1244-1-1-1,,usag1244-1,1,tʃɛ̀n,tʃɛ̀n,[],,['chan2019'],,False,False,,1
+usag1244-1-2-1,,usag1244-1,2,m̀bà,m̀bà,[],,['chan2019'],,False,False,,1
+usag1244-1-3-1,,usag1244-1,3,ǹtá,ǹtá,[],,['chan2019'],,False,False,,1
+usag1244-1-4-1,,usag1244-1,4,ǹnìɔ̀ŋ,ǹnìɔ̀ŋ,[],,['chan2019'],,False,False,,1
+usag1244-1-5-1,,usag1244-1,5,ǹtʃôn,ǹtʃôn,[],,['chan2019'],,False,False,,1
+usag1244-1-6-1,,usag1244-1,6,ǹtʃéékɛ̀n,ǹtʃéékɛ̀n,[],( 5 + 1),['chan2019'],,False,False,,1
+usag1244-1-7-1,,usag1244-1,7,ǹtʃám̀bà,ǹtʃám̀bà,[],( 5 + 2 ),['chan2019'],,False,False,,1
+usag1244-1-8-1,,usag1244-1,8,ǹtʃáńǃtá,ǹtʃáńǃtá,[],( 5 + 3),['chan2019'],,False,False,,1
+usag1244-1-9-1,,usag1244-1,9,ǹtʃáǹnìàŋ,ǹtʃáǹnìàŋ,[],( 5 + 4),['chan2019'],,False,False,,1
+usag1244-1-10-1,,usag1244-1,10,nùòp,nùòp,[],,['chan2019'],,False,False,,1
+usag1244-1-11-1,,usag1244-1,11,nùòbàtʃɛ̀n,nùòbàtʃɛ̀n,[],,['chan2019'],,False,False,,1
+usag1244-1-12-1,,usag1244-1,12,nùàm̀bà,nùàm̀bà,[],,['chan2019'],,False,False,,1
+usag1244-1-13-1,,usag1244-1,13,nùòbàǹtá,nùòbàǹtá,[],,['chan2019'],,False,False,,1
+usag1244-1-14-1,,usag1244-1,14,nùòbàǹnìàŋ,nùòbàǹnìàŋ,[],,['chan2019'],,False,False,,1
+usag1244-1-15-1,,usag1244-1,15,èfút,èfút,[],,['chan2019'],,False,False,,1
+usag1244-1-16-1,,usag1244-1,16,èfúɾátʃɛ̀n,èfúɾátʃɛ̀n,[],( 15 + 1 ),['chan2019'],,False,False,,1
+usag1244-1-17-1,,usag1244-1,17,èfúɾám̀bà,èfúɾám̀bà,[],( 15 + 2 ),['chan2019'],,False,False,,1
+usag1244-1-18-1,,usag1244-1,18,èfúɾáǹtá,èfúɾáǹtá,[],( 15 + 3 ),['chan2019'],,False,False,,1
+usag1244-1-19-1,,usag1244-1,19,èfúɾàǹnìàŋ,èfúɾàǹnìàŋ,[],( 15 + 4 ),['chan2019'],,False,False,,1
+usag1244-1-20-1,,usag1244-1,20,édíp,édíp,[],,['chan2019'],,False,False,,1
+usag1244-1-21-1,,usag1244-1,21,ɛ́díbnétʃèn,ɛ́díbnétʃèn,[],,['chan2019'],,False,False,,1
+usag1244-1-22-1,,usag1244-1,22,ɛ́díbném̀bà,ɛ́díbném̀bà,[],,['chan2019'],,False,False,,1
+usag1244-1-30-1,,usag1244-1,30,ɛ́dípnénùop,ɛ́dípnénùop,[],( 20 + 10 ),['chan2019'],,False,False,,1
+usag1244-1-40-1,,usag1244-1,40,ádíbábà,ádíbábà,[],,['chan2019'],,False,False,,1
+usag1244-1-50-1,,usag1244-1,50,ádíbábánènùòp,ádíbábánènùòp,[],( 40 + 10 ),['chan2019'],,False,False,,1
+usag1244-1-60-1,,usag1244-1,60,ádíbátà,ádíbátà,[],,['chan2019'],,False,False,,1
+usag1244-1-70-1,,usag1244-1,70,ádíbátânènùòp,ádíbátânènùòp,[],( 60 + 10 ),['chan2019'],,False,False,,1
+usag1244-1-80-1,,usag1244-1,80,ádíbâǹnìàŋ,ádíbâǹnìàŋ,[],,['chan2019'],,False,False,,1
+usag1244-1-90-1,,usag1244-1,90,ádíbâǹnìàŋnènùòp,ádíbâǹnìàŋnènùòp,[],( 80 + 10 ),['chan2019'],,False,False,,1
+usag1244-1-100-1,,usag1244-1,100,íkíɛ̂,íkíɛ̂,[],,['chan2019'],,False,False,,1
+usag1244-1-200-1,,usag1244-1,200,íkí ìbà,íkí ìbà,[],,['chan2019'],,False,False,,1

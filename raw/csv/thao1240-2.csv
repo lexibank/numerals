@@ -1,0 +1,49 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+thao1240-2-1-1,,thao1240-2,1,taha,taha,[],,['chan2019'],,False,False,,2
+thao1240-2-1-2,,thao1240-2,1,tata,tata,[],,['chan2019'],,False,False,,2
+thao1240-2-2-1,,thao1240-2,2,tuʃa,tuʃa,[],,['chan2019'],,False,False,,2
+thao1240-2-2-2,,thao1240-2,2,latuʃa,latuʃa,[],,['chan2019'],,False,False,,2
+thao1240-2-2-3,,thao1240-2,2,tatuʃa,tatuʃa,[],,['chan2019'],,False,False,,2
+thao1240-2-3-1,,thao1240-2,3,turu,turu,[],,['chan2019'],,False,False,,2
+thao1240-2-3-2,,thao1240-2,3,laturu,laturu,[],,['chan2019'],,False,False,,2
+thao1240-2-3-3,,thao1240-2,3,taturu,taturu,[],,['chan2019'],,False,False,,2
+thao1240-2-4-1,,thao1240-2,4,ʃpat,ʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-4-2,,thao1240-2,4,laʃpat,laʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-4-3,,thao1240-2,4,ʃaʃpat,ʃaʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-5-1,,thao1240-2,5,rima,rima,[],,['chan2019'],,False,False,,2
+thao1240-2-5-2,,thao1240-2,5,larima,larima,[],,['chan2019'],,False,False,,2
+thao1240-2-5-3,,thao1240-2,5,rarima,rarima,[],,['chan2019'],,False,False,,2
+thao1240-2-6-1,,thao1240-2,6,katuru,katuru,[],( 2 x 3 ),['chan2019'],,False,False,,2
+thao1240-2-7-1,,thao1240-2,7,pitu,pitu,[],,['chan2019'],,False,False,,2
+thao1240-2-7-2,,thao1240-2,7,papitu,papitu,[],,['chan2019'],,False,False,,2
+thao1240-2-8-1,,thao1240-2,8,kaʃpat,kaʃpat,[],( 2 x 4 ),['chan2019'],,False,False,,2
+thao1240-2-9-1,,thao1240-2,9,tanaθu,tanaθu,[],,['chan2019'],,False,False,,2
+thao1240-2-9-2,,thao1240-2,9,makatanaθu,makatanaθu,[],( 10 - 1),['chan2019'],,False,False,,2
+thao1240-2-10-1,,thao1240-2,10,makθin,makθin,[],,['chan2019'],,False,False,,2
+thao1240-2-11-1,,thao1240-2,11,makθin yanan tata,makθin yanan tata,[],,['chan2019'],,False,False,,2
+thao1240-2-12-1,,thao1240-2,12,makθin yanan tuʃa,makθin yanan tuʃa,[],,['chan2019'],,False,False,,2
+thao1240-2-13-1,,thao1240-2,13,makθin yanan turu,makθin yanan turu,[],,['chan2019'],,False,False,,2
+thao1240-2-14-1,,thao1240-2,14,makθin yanan ʃpat,makθin yanan ʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-15-1,,thao1240-2,15,makθin yanan rima,makθin yanan rima,[],,['chan2019'],,False,False,,2
+thao1240-2-16-1,,thao1240-2,16,makθin yanan katuru,makθin yanan katuru,[],,['chan2019'],,False,False,,2
+thao1240-2-17-1,,thao1240-2,17,makθin yanan pitu,makθin yanan pitu,[],,['chan2019'],,False,False,,2
+thao1240-2-18-1,,thao1240-2,18,makθin yanan kaʃpat,makθin yanan kaʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-19-1,,thao1240-2,19,makθin yanan tanaθu,makθin yanan tanaθu,[],,['chan2019'],,False,False,,2
+thao1240-2-20-1,,thao1240-2,20,mapuʃað,mapuʃað,[],,['chan2019'],,False,False,,2
+thao1240-2-21-1,,thao1240-2,21,mapuʃað tata,mapuʃað tata,[],,['chan2019'],,False,False,,2
+thao1240-2-22-1,,thao1240-2,22,mapuʃað tuʃa,mapuʃað tuʃa,[],,['chan2019'],,False,False,,2
+thao1240-2-23-1,,thao1240-2,23,mapuʃað turu,mapuʃað turu,[],,['chan2019'],,False,False,,2
+thao1240-2-24-1,,thao1240-2,24,mapuʃað ʃpat,mapuʃað ʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-25-1,,thao1240-2,25,mapuʃað rima,mapuʃað rima,[],,['chan2019'],,False,False,,2
+thao1240-2-26-1,,thao1240-2,26,mapuʃað katuru,mapuʃað katuru,[],,['chan2019'],,False,False,,2
+thao1240-2-27-1,,thao1240-2,27,mapuʃað pitu,mapuʃað pitu,[],,['chan2019'],,False,False,,2
+thao1240-2-28-1,,thao1240-2,28,mapuʃað kaʃpat,mapuʃað kaʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-29-1,,thao1240-2,29,mapuʃað tanaθu,mapuʃað tanaθu,[],,['chan2019'],,False,False,,2
+thao1240-2-30-1,,thao1240-2,30,maturuð,maturuð,[],,['chan2019'],,False,False,,2
+thao1240-2-40-1,,thao1240-2,40,maʃpatið,maʃpatið,[],,['chan2019'],,False,False,,2
+thao1240-2-50-1,,thao1240-2,50,marimað,marimað,[],,['chan2019'],,False,False,,2
+thao1240-2-60-1,,thao1240-2,60,makaʃturu,makaʃturu,[],,['chan2019'],,False,False,,2
+thao1240-2-70-1,,thao1240-2,70,mapituʔun,mapituʔun,[],,['chan2019'],,False,False,,2
+thao1240-2-80-1,,thao1240-2,80,makaʃpat,makaʃpat,[],,['chan2019'],,False,False,,2
+thao1240-2-90-1,,thao1240-2,90,makatanaθu,makatanaθu,[],,['chan2019'],,False,False,,2
+thao1240-2-100-1,,thao1240-2,100,ʃaba,ʃaba,[],,['chan2019'],,False,False,,2

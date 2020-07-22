@@ -1,0 +1,22 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+biaf1240-2-1-1,,biaf1240-2,1,-nnəmma,-nnəmma,[],,['chan2019'],,False,False,,2
+biaf1240-2-2-1,,biaf1240-2,2,-ke,-ke,[],,['chan2019'],,False,False,,2
+biaf1240-2-3-1,,biaf1240-2,3,-jo,-jo,[],,['chan2019'],,False,False,,2
+biaf1240-2-4-1,,biaf1240-2,4,-nnihi,-nnihi,[],,['chan2019'],,False,False,,2
+biaf1240-2-5-1,,biaf1240-2,5,ɡəbəda,ɡəbəda,[],,['chan2019'],,False,False,,2
+biaf1240-2-6-1,,biaf1240-2,6,mpaaji,mpaaji,[],,['chan2019'],,False,False,,2
+biaf1240-2-7-1,,biaf1240-2,7,mpaaji nyi,mpaaji nyi,[],( 6 + nyi ),['chan2019'],,False,False,,2
+biaf1240-2-8-1,,biaf1240-2,8,wose,wose,[],,['chan2019'],,False,False,,2
+biaf1240-2-9-1,,biaf1240-2,9,liberebo,liberebo,[],,['chan2019'],,False,False,,2
+biaf1240-2-10-1,,biaf1240-2,10,ba-ppo,ba-ppo,[],,['chan2019'],,False,False,,2
+biaf1240-2-30-1,,biaf1240-2,30,bappo buɡunjo,bappo buɡunjo,[],,['chan2019'],,False,False,,2
+biaf1240-2-40-1,,biaf1240-2,40,bappo buɡunnihi,bappo buɡunnihi,[],,['chan2019'],,False,False,,2
+biaf1240-2-50-1,,biaf1240-2,50,bappo buɡunnyi ɡəbəda,bappo buɡunnyi ɡəbəda,[],,['chan2019'],,False,False,,2
+biaf1240-2-60-1,,biaf1240-2,60,bappo buɡunnyi mpaaji,bappo buɡunnyi mpaaji,[],,['chan2019'],,False,False,,2
+biaf1240-2-70-1,,biaf1240-2,70,bappo buɡunnyi mpaaji ŋɡa nyi,bappo buɡunnyi mpaaji ŋɡa nyi,[],,['chan2019'],,False,False,,2
+biaf1240-2-80-1,,biaf1240-2,80,bappo buɡunnyi wose,bappo buɡunnyi wose,[],,['chan2019'],,False,False,,2
+biaf1240-2-90-1,,biaf1240-2,90,bappo buɡunnyi liberebo,bappo buɡunnyi liberebo,[],,['chan2019'],,False,False,,2
+biaf1240-2-100-1,,biaf1240-2,100,keme ɡanəmma,keme ɡanəmma,[],( keme < Puular),['chan2019'],,True,False,,2
+biaf1240-2-200-1,,biaf1240-2,200,bakɛmɛ baɡahe,bakɛmɛ baɡahe,[],,['chan2019'],,False,False,,2
+biaf1240-2-1000-1,,biaf1240-2,1000,wil ɡanəmma,wil ɡanəmma,[],( wil< Mankanya),['chan2019'],,True,False,,2
+biaf1240-2-2000-1,,biaf1240-2,2000,bawil baɡahe,bawil baɡahe,[],,['chan2019'],,False,False,,2

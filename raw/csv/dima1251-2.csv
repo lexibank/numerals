@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+dima1251-2-1-1,,dima1251-2,1,sé,sé,[],,['chan2019'],,False,False,,2
+dima1251-2-2-1,,dima1251-2,2,ɡɪní,ɡɪní,[],,['chan2019'],,False,False,,2
+dima1251-2-3-1,,dima1251-2,3,tʰám,tʰám,[],,['chan2019'],,False,False,,2
+dima1251-2-4-1,,dima1251-2,4,brí,brí,[],,['chan2019'],,False,False,,2
+dima1251-2-5-1,,dima1251-2,5,bɔ́wa,bɔ́wa,[],,['chan2019'],,False,False,,2
+dima1251-2-6-1,,dima1251-2,6,dó,dó,[],,['chan2019'],,False,False,,2
+dima1251-2-7-1,,dima1251-2,7,tsɪní,tsɪní,[],,['chan2019'],,False,False,,2
+dima1251-2-8-1,,dima1251-2,8,záɪ,záɪ,[],,['chan2019'],,False,False,,2
+dima1251-2-9-1,,dima1251-2,9,tsʊ́ɡú,tsʊ́ɡú,[],,['chan2019'],,False,False,,2
+dima1251-2-10-1,,dima1251-2,10,dzí,dzí,[],,['chan2019'],,False,False,,2
+dima1251-2-11-1,,dima1251-2,11,dzí sé,dzí sé,[],,['chan2019'],,False,False,,2
+dima1251-2-12-1,,dima1251-2,12,dzí ɡɪní,dzí ɡɪní,[],,['chan2019'],,False,False,,2
+dima1251-2-13-1,,dima1251-2,13,dzí tʰám,dzí tʰám,[],,['chan2019'],,False,False,,2
+dima1251-2-14-1,,dima1251-2,14,dzí brí,dzí brí,[],,['chan2019'],,False,False,,2
+dima1251-2-15-1,,dima1251-2,15,dzí bɔ́wa,dzí bɔ́wa,[],,['chan2019'],,False,False,,2
+dima1251-2-16-1,,dima1251-2,16,dzí dó,dzí dó,[],,['chan2019'],,False,False,,2
+dima1251-2-17-1,,dima1251-2,17,dzí tsɪ́ni,dzí tsɪ́ni,[],,['chan2019'],,False,False,,2
+dima1251-2-18-1,,dima1251-2,18,dzí záɪ,dzí záɪ,[],,['chan2019'],,False,False,,2
+dima1251-2-19-1,,dima1251-2,19,dzí tsʊ́ɡú,dzí tsʊ́ɡú,[],,['chan2019'],,False,False,,2
+dima1251-2-20-1,,dima1251-2,20,kʰón,kʰón,[],,['chan2019'],,False,False,,2
+dima1251-2-21-1,,dima1251-2,21,kʰon sé,kʰon sé,[],,['chan2019'],,False,False,,2
+dima1251-2-22-1,,dima1251-2,22,kʰon ɡɪní,kʰon ɡɪní,[],,['chan2019'],,False,False,,2
+dima1251-2-23-1,,dima1251-2,23,kʰon tʰám,kʰon tʰám,[],,['chan2019'],,False,False,,2
+dima1251-2-24-1,,dima1251-2,24,kʰon brí,kʰon brí,[],,['chan2019'],,False,False,,2
+dima1251-2-25-1,,dima1251-2,25,kʰon bɔ́wa,kʰon bɔ́wa,[],,['chan2019'],,False,False,,2
+dima1251-2-26-1,,dima1251-2,26,kʰon dó,kʰon dó,[],,['chan2019'],,False,False,,2
+dima1251-2-27-1,,dima1251-2,27,kʰon tsɪní,kʰon tsɪní,[],,['chan2019'],,False,False,,2
+dima1251-2-28-1,,dima1251-2,28,kʰon záɪ,kʰon záɪ,[],,['chan2019'],,False,False,,2
+dima1251-2-29-1,,dima1251-2,29,kʰon tsʊ́ɡú,kʰon tsʊ́ɡú,[],,['chan2019'],,False,False,,2
+dima1251-2-30-1,,dima1251-2,30,tʰɪm dzi,tʰɪm dzi,[],( 3 x 10),['chan2019'],,False,False,,2
+dima1251-2-40-1,,dima1251-2,40,bɪsá ɡɪní,bɪsá ɡɪní,[],( 20 x 2),['chan2019'],,False,False,,2
+dima1251-2-50-1,,dima1251-2,50,dán,dán,[],,['chan2019'],,False,False,,2
+dima1251-2-60-1,,dima1251-2,60,bɪsá tʰam,bɪsá tʰam,[],( 20 x 3 ),['chan2019'],,False,False,,2
+dima1251-2-70-1,,dima1251-2,70,bɪsá tʰam dzí,bɪsá tʰam dzí,[],( 20 x 3+10 ),['chan2019'],,False,False,,2
+dima1251-2-80-1,,dima1251-2,80,bɪsá brí,bɪsá brí,[],(20 x 4 ),['chan2019'],,False,False,,2
+dima1251-2-90-1,,dima1251-2,90,bɪsá brɪ dzí,bɪsá brɪ dzí,[],( 20 x 4+ 10 ),['chan2019'],,False,False,,2
+dima1251-2-100-1,,dima1251-2,100,razá tsi,razá tsi,[],,['chan2019'],,False,False,,2
+dima1251-2-200-1,,dima1251-2,200,razá ɡɪní,razá ɡɪní,[],,['chan2019'],,False,False,,2
+dima1251-2-1000-1,,dima1251-2,1000,ridzɪŋ tsi,ridzɪŋ tsi,[],,['chan2019'],,False,False,,2
+dima1251-2-2000-1,,dima1251-2,2000,ridziŋ ɡɪni,ridziŋ ɡɪni,[],,['chan2019'],,False,False,,2

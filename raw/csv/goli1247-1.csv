@@ -1,0 +1,32 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+goli1247-1-1-1,,goli1247-1,1,ta,ta,[],,['chan2019'],,False,False,,1
+goli1247-1-1-2,,goli1247-1,1,taran,taran,[],,['chan2019'],,False,False,,1
+goli1247-1-1-3,,goli1247-1,1,taranta,taranta,[],,['chan2019'],,False,False,,1
+goli1247-1-2-1,,goli1247-1,2,su,su,[],,['chan2019'],,False,False,,1
+goli1247-1-2-2,,goli1247-1,2,sutan,sutan,[],,['chan2019'],,False,False,,1
+goli1247-1-2-3,,goli1247-1,2,sui,sui,[],,['chan2019'],,False,False,,1
+goli1247-1-3-1,,goli1247-1,3,sutakobe,sutakobe,[],(litː ' two one plus'),['chan2019'],,False,False,,1
+goli1247-1-3-2,,goli1247-1,3,su ta i,su ta i,[],(litː 'two one this'),['chan2019'],,False,False,,1
+goli1247-1-4-1,,goli1247-1,4,sui sui,sui sui,[],(litː ' two two' ),['chan2019'],,False,False,,1
+goli1247-1-5-1,,goli1247-1,5,sui sui ta i,sui sui ta i,[],( two two one this),['chan2019'],,False,False,,1
+goli1247-1-5-2,,goli1247-1,5,anan kole muru,anan kole muru,[],(lit: my hand part all'),['chan2019'],,False,False,,1
+goli1247-1-6-1,,goli1247-1,6,sui sui sui,sui sui sui,[],( two two two),['chan2019'],,False,False,,1
+goli1247-1-6-2,,goli1247-1,6,anan kole muru kole taran,anan kole muru kole taran,[],"(lit: my hand part all, one')",['chan2019'],,False,False,,1
+goli1247-1-7-1,,goli1247-1,7,sui sui sui ta i,sui sui sui ta i,[],,['chan2019'],,False,False,,1
+goli1247-1-7-2,,goli1247-1,7,anan kole muru kole sutan,anan kole muru kole sutan,[],"(lit: my hand part all, two')",['chan2019'],,False,False,,1
+goli1247-1-8-1,,goli1247-1,8,sui sui sui sui,sui sui sui sui,[],,['chan2019'],,False,False,,1
+goli1247-1-8-2,,goli1247-1,8,anan kole muru kole sutakobe,anan kole muru kole sutakobe,[],"(lit: my hand part all, three')",['chan2019'],,False,False,,1
+goli1247-1-9-1,,goli1247-1,9,sui sui sui sui ta i,sui sui sui sui ta i,[],,['chan2019'],,False,False,,1
+goli1247-1-9-2,,goli1247-1,9,anan kole muru kole sui sui,anan kole muru kole sui sui,[],"(lit: my hand part all, two two')",['chan2019'],,False,False,,1
+goli1247-1-10-1,,goli1247-1,10,sui sui sui sui sui,sui sui sui sui sui,[],,['chan2019'],,False,False,,1
+goli1247-1-10-2,,goli1247-1,10,anan kole kole muru,anan kole kole muru,[],(lit: my hand part part all'),['chan2019'],,False,False,,1
+goli1247-1-11-1,,goli1247-1,11,* kawnan milin taran,* kawnan milin taran,[],( anan kole kole muru) ( lit: 'my foot seed one'),['chan2019'],,False,True,,1
+goli1247-1-12-1,,goli1247-1,12,*kawnan milin sutan,*kawnan milin sutan,[],( lit: 'my foot seed two'),['chan2019'],,False,True,,1
+goli1247-1-13-1,,goli1247-1,13,* kawnan milin sutakobe,* kawnan milin sutakobe,[],( lit: 'my foot seed three'),['chan2019'],,False,True,,1
+goli1247-1-14-1,,goli1247-1,14,* kawnan milin sui sui,* kawnan milin sui sui,[],( lit: 'my foot seed two two'),['chan2019'],,False,True,,1
+goli1247-1-15-1,,goli1247-1,15,*kawnan kole muru,*kawnan kole muru,[],( lit: 'my foot part all'),['chan2019'],,False,True,,1
+goli1247-1-16-1,,goli1247-1,16,* kawnan kole muru kole taran,* kawnan kole muru kole taran,[],( lit: 'my foot part all part one'),['chan2019'],,False,True,,1
+goli1247-1-20-1,,goli1247-1,20,*yal ta an kawn muru,*yal ta an kawn muru,[],(litː 'man one his hand foot all),['chan2019'],,False,True,,1
+goli1247-1-40-1,,goli1247-1,40,yal sutan an kawn muru,yal sutan an kawn muru,[],(litː 'men two his hand foot all),['chan2019'],,False,False,,1
+goli1247-1-60-1,,goli1247-1,60,tuenti sutakobe,tuenti sutakobe,[],,['chan2019'],,False,False,,1
+goli1247-1-80-1,,goli1247-1,80,tuenti sui sui,tuenti sui sui,[],,['chan2019'],,False,False,,1

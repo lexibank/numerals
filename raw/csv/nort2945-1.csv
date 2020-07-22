@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nort2945-1-1-1,,nort2945-1,1,atausiq,atausiq,[],,['chan2019'],,False,False,,1
+nort2945-1-2-1,,nort2945-1,2,malɡ̩uk,malɡ̩uk,[],,['chan2019'],,False,False,,1
+nort2945-1-3-1,,nort2945-1,3,piŋasut,piŋasut,[],,['chan2019'],,False,False,,1
+nort2945-1-4-1,,nort2945-1,4,sisamat,sisamat,[],,['chan2019'],,False,False,,1
+nort2945-1-5-1,,nort2945-1,5,tallimat,tallimat,[],,['chan2019'],,False,False,,1
+nort2945-1-6-1,,nort2945-1,6,itchaksraq,itchaksraq,[],,['chan2019'],,False,False,,1
+nort2945-1-7-1,,nort2945-1,7,tallimat malɡuk,tallimat malɡuk,[],( plus two ?),['chan2019'],,False,False,,1
+nort2945-1-8-1,,nort2945-1,8,tallimat piŋasut,tallimat piŋasut,[],( plus three ?),['chan2019'],,False,False,,1
+nort2945-1-9-1,,nort2945-1,9,quliŋuɡ̩utail̩aq,quliŋuɡ̩utail̩aq,[],( ten minus one ? ),['chan2019'],,False,False,,1
+nort2945-1-10-1,,nort2945-1,10,qulit,qulit,[],,['chan2019'],,False,False,,1
+nort2945-1-11-1,,nort2945-1,11,qulit atausiq,qulit atausiq,[],,['chan2019'],,False,False,,1
+nort2945-1-12-1,,nort2945-1,12,qulit malɡ̩uk,qulit malɡ̩uk,[],,['chan2019'],,False,False,,1
+nort2945-1-13-1,,nort2945-1,13,qulit piŋajun,qulit piŋajun,[],,['chan2019'],,False,False,,1
+nort2945-1-14-1,,nort2945-1,14,akimaq ʁutail̩aq,akimaq ʁutail̩aq,[],( 15 - 1 ),['chan2019'],,False,False,,1
+nort2945-1-15-1,,nort2945-1,15,akimaq,akimaq,[],,['chan2019'],,False,False,,1
+nort2945-1-16-1,,nort2945-1,16,akimaq atausiq,akimaq atausiq,[],(15+ 1),['chan2019'],,False,False,,1
+nort2945-1-17-1,,nort2945-1,17,akimaq malɡ̩uk,akimaq malɡ̩uk,[],,['chan2019'],,False,False,,1
+nort2945-1-18-1,,nort2945-1,18,akimaq piŋasut,akimaq piŋasut,[],,['chan2019'],,False,False,,1
+nort2945-1-19-1,,nort2945-1,19,iñuiñaɡ̩utail̩aq,iñuiñaɡ̩utail̩aq,[],( 20 - 1 ) ?,['chan2019'],,False,False,,1
+nort2945-1-20-1,,nort2945-1,20,iñuiñaq,iñuiñaq,[],,['chan2019'],,False,False,,1
+nort2945-1-21-1,,nort2945-1,21,iñuiñaq atausiq,iñuiñaq atausiq,[],,['chan2019'],,False,False,,1
+nort2945-1-22-1,,nort2945-1,22,iñuiñaq malɡ̩uk,iñuiñaq malɡ̩uk,[],,['chan2019'],,False,False,,1
+nort2945-1-23-1,,nort2945-1,23,iñuiñaq piŋasut,iñuiñaq piŋasut,[],,['chan2019'],,False,False,,1
+nort2945-1-24-1,,nort2945-1,24,iñuiñaq sisamat,iñuiñaq sisamat,[],,['chan2019'],,False,False,,1
+nort2945-1-25-1,,nort2945-1,25,iñuiñaq tallimat,iñuiñaq tallimat,[],,['chan2019'],,False,False,,1
+nort2945-1-26-1,,nort2945-1,26,iñuiñaq itchaksraq,iñuiñaq itchaksraq,[],,['chan2019'],,False,False,,1
+nort2945-1-27-1,,nort2945-1,27,iñuiñaq tallimat malɡuk,iñuiñaq tallimat malɡuk,[],,['chan2019'],,False,False,,1
+nort2945-1-28-1,,nort2945-1,28,iñuiñaq tallimat piŋasut,iñuiñaq tallimat piŋasut,[],,['chan2019'],,False,False,,1
+nort2945-1-29-1,,nort2945-1,29,iñuiñaq quliŋuɡ̩utail̩aq,iñuiñaq quliŋuɡ̩utail̩aq,[],( 30 - 1 ) ?,['chan2019'],,False,False,,1
+nort2945-1-30-1,,nort2945-1,30,iñuiñaq qulit,iñuiñaq qulit,[],( 20 + 10 ),['chan2019'],,False,False,,1
+nort2945-1-40-1,,nort2945-1,40,malɡ̩ukipiaq,malɡ̩ukipiaq,[],( 2 x 20 ),['chan2019'],,False,False,,1
+nort2945-1-50-1,,nort2945-1,50,malɡ̩ukipiaq qulit,malɡ̩ukipiaq qulit,[],,['chan2019'],,False,False,,1
+nort2945-1-60-1,,nort2945-1,60,piŋasukipiaq,piŋasukipiaq,[],( 3 x 20 ),['chan2019'],,False,False,,1
+nort2945-1-70-1,,nort2945-1,70,piŋasukipiaq qulit,piŋasukipiaq qulit,[],,['chan2019'],,False,False,,1
+nort2945-1-80-1,,nort2945-1,80,sisamakipiaq,sisamakipiaq,[],( 4 x 20 ),['chan2019'],,False,False,,1
+nort2945-1-90-1,,nort2945-1,90,sisamakipiaq qulit,sisamakipiaq qulit,[],,['chan2019'],,False,False,,1
+nort2945-1-100-1,,nort2945-1,100,tallimakipiaq,tallimakipiaq,[],( 5 x 20 ),['chan2019'],,False,False,,1
+nort2945-1-200-1,,nort2945-1,200,tallimak tallimakipiak,tallimak tallimakipiak,[],,['chan2019'],,False,False,,1
+nort2945-1-1000-1,,nort2945-1,1000,kavluutit,kavluutit,[],,['chan2019'],,False,False,,1
+nort2945-1-2000-1,,nort2945-1,2000,malɡ̩uk kavluutit,malɡ̩uk kavluutit,[],,['chan2019'],,False,False,,1

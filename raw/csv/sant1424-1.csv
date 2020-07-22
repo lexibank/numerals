@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sant1424-1-1-1,,sant1424-1,1,saã,saã,[],,['chan2019'],,False,False,,1
+sant1424-1-2-1,,sant1424-1,2,wá'pʷa,wá'pʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-3-1,,sant1424-1,3,weíka,weíka,[],,['chan2019'],,False,False,,1
+sant1424-1-4-1,,sant1424-1,4,mʷákʷa,mʷákʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-5-1,,sant1424-1,5,anšåvi,anšåvi,[],,['chan2019'],,False,False,,1
+sant1424-1-6-1,,sant1424-1,6,arájsevi,arájsevi,[],,['chan2019'],,False,False,,1
+sant1424-1-7-1,,sant1424-1,7,aráʷa'pʷa,aráʷa'pʷa,[],( 5 + 2 ),['chan2019'],,False,False,,1
+sant1424-1-8-1,,sant1424-1,8,aráweiika,aráweiika,[],( 5 + 3 ),['chan2019'],,False,False,,1
+sant1424-1-9-1,,sant1424-1,9,arámʷakʷa,arámʷakʷa,[],( 5 + 4 ),['chan2019'],,False,False,,1
+sant1424-1-10-1,,sant1424-1,10,tamʷámʷata,tamʷámʷata,[],( litː ''our-hand'' ),['chan2019'],,False,False,,1
+sant1424-1-11-1,,sant1424-1,11,tamʷámʷata apʷán saã,tamʷámʷata apʷán saã,[],,['chan2019'],,False,False,,1
+sant1424-1-12-1,,sant1424-1,12,tamʷámʷata apʷán wápʷa,tamʷámʷata apʷán wápʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-13-1,,sant1424-1,13,tamʷámʷata apʷán wéika,tamʷámʷata apʷán wéika,[],,['chan2019'],,False,False,,1
+sant1424-1-14-1,,sant1424-1,14,tamʷámʷata apʷán mʷákʷa,tamʷámʷata apʷán mʷákʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-15-1,,sant1424-1,15,tamʷámʷata apʷán anšåvi,tamʷámʷata apʷán anšåvi,[],,['chan2019'],,False,False,,1
+sant1424-1-16-1,,sant1424-1,16,tamʷámʷata apʷán arájsevi,tamʷámʷata apʷán arájsevi,[],,['chan2019'],,False,False,,1
+sant1424-1-17-1,,sant1424-1,17,tamʷámʷata apʷán aráwa'pʷa,tamʷámʷata apʷán aráwa'pʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-18-1,,sant1424-1,18,tamʷámʷata apʷán aráweika,tamʷámʷata apʷán aráweika,[],,['chan2019'],,False,False,,1
+sant1424-1-19-1,,sant1424-1,19,tamʷámʷata apʷán arámʷakʷa,tamʷámʷata apʷán arámʷakʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-20-1,,sant1424-1,20,seitʸé,seitʸé,[],( < Spanish ),['chan2019'],,True,False,,1
+sant1424-1-21-1,,sant1424-1,21,seitʸé apʷán saã,seitʸé apʷán saã,[],,['chan2019'],,False,False,,1
+sant1424-1-22-1,,sant1424-1,22,seitʸé apʷán wá'pʷa,seitʸé apʷán wá'pʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-23-1,,sant1424-1,23,seitʸé apʷán wéíka,seitʸé apʷán wéíka,[],,['chan2019'],,False,False,,1
+sant1424-1-24-1,,sant1424-1,24,seitʸé apʷán mʷákʷa,seitʸé apʷán mʷákʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-25-1,,sant1424-1,25,wápʷa eȼe,wápʷa eȼe,[],(  ȼ = IPA 'tʃ'),['chan2019'],,False,False,,1
+sant1424-1-26-1,,sant1424-1,26,seitʸé apʷán araj́sevi,seitʸé apʷán araj́sevi,[],,['chan2019'],,False,False,,1
+sant1424-1-27-1,,sant1424-1,27,seitʸé apʷán wapʷa,seitʸé apʷán wapʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-28-1,,sant1424-1,28,seitʸé apʷán aráweika,seitʸé apʷán aráweika,[],,['chan2019'],,False,False,,1
+sant1424-1-29-1,,sant1424-1,29,seitʸé apʷán arámʷakʷa,seitʸé apʷán arámʷakʷa,[],,['chan2019'],,False,False,,1
+sant1424-1-30-1,,sant1424-1,30,seitʸé apʷán tamʷámʷata,seitʸé apʷán tamʷámʷata,[],,['chan2019'],,False,False,,1
+sant1424-1-40-1,,sant1424-1,40,wá'pʷatʸe,wá'pʷatʸe,[],( 2 x 20 ),['chan2019'],,False,False,,1
+sant1424-1-50-1,,sant1424-1,50,mʷákʷa eȼe,mʷákʷa eȼe,[],,['chan2019'],,False,False,,1
+sant1424-1-60-1,,sant1424-1,60,weikatʸe,weikatʸe,[],( 3 x 20 ),['chan2019'],,False,False,,1
+sant1424-1-70-1,,sant1424-1,70,weikatʸe apʷán tamʷámʷata,weikatʸe apʷán tamʷámʷata,[],,['chan2019'],,False,False,,1
+sant1424-1-80-1,,sant1424-1,80,mʷákʷatʸe,mʷákʷatʸe,[],( 4 x 20 ),['chan2019'],,False,False,,1
+sant1424-1-90-1,,sant1424-1,90,mʷákʷatʸe apʷán tamʷámʷata,mʷákʷatʸe apʷán tamʷámʷata,[],,['chan2019'],,False,False,,1
+sant1424-1-100-1,,sant1424-1,100,anšåtʸe,anšåtʸe,[],( 5 x 20 ),['chan2019'],,False,False,,1
+sant1424-1-200-1,,sant1424-1,200,tamʷámʷataʔa tʸe,tamʷámʷataʔa tʸe,[],( ?),['chan2019'],,False,False,,1
+sant1424-1-1000-1,,sant1424-1,1000,sei vi'ira'a,sei vi'ira'a,[],,['chan2019'],,False,False,,1
+sant1424-1-2000-1,,sant1424-1,2000,wá'pʷa vi'ira'a,wá'pʷa vi'ira'a,[],,['chan2019'],,False,False,,1

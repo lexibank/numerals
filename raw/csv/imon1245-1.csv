@@ -1,0 +1,6 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+imon1245-1-1-1,,imon1245-1,1,muɡasl,muɡasl,[],,['chan2019'],,False,False,,1
+imon1245-1-2-1,,imon1245-1,2,sabla,sabla,[],,['chan2019'],,False,False,,1
+imon1245-1-3-1,,imon1245-1,3,sabla muɡõ,sabla muɡõ,[],(2 + 1 ),['chan2019'],,False,False,,1
+imon1245-1-4-1,,imon1245-1,4,sabla sabla,sabla sabla,[],(2 + 2 ),['chan2019'],,False,False,,1
+imon1245-1-5-1,,imon1245-1,5,sabla sabla muɡõ,sabla sabla muɡõ,[],(2 + 2 + 1 ),['chan2019'],,False,False,,1

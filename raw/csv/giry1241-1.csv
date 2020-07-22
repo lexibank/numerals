@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+giry1241-1-1-1,,giry1241-1,1,mosi,mosi,[],,['chan2019'],,False,False,,1
+giry1241-1-2-1,,giry1241-1,2,hiri,hiri,[],,['chan2019'],,False,False,,1
+giry1241-1-3-1,,giry1241-1,3,hahu,hahu,[],,['chan2019'],,False,False,,1
+giry1241-1-4-1,,giry1241-1,4,ine,ine,[],,['chan2019'],,False,False,,1
+giry1241-1-5-1,,giry1241-1,5,ts'ano,ts'ano,[],,['chan2019'],,False,False,,1
+giry1241-1-6-1,,giry1241-1,6,handahu,handahu,[],( 2 x  3 ) ?,['chan2019'],,False,False,,1
+giry1241-1-7-1,,giry1241-1,7,funɡahe,funɡahe,[],,['chan2019'],,False,False,,1
+giry1241-1-8-1,,giry1241-1,8,nane,nane,[],,['chan2019'],,False,False,,1
+giry1241-1-9-1,,giry1241-1,9,chenda,chenda,[],,['chan2019'],,False,False,,1
+giry1241-1-10-1,,giry1241-1,10,kumi,kumi,[],,['chan2019'],,False,False,,1
+giry1241-1-11-1,,giry1241-1,11,kumi na mwenɡa,kumi na mwenɡa,[],,['chan2019'],,False,False,,1
+giry1241-1-12-1,,giry1241-1,12,kumi na mbiri,kumi na mbiri,[],,['chan2019'],,False,False,,1
+giry1241-1-13-1,,giry1241-1,13,kumi na t'ahu,kumi na t'ahu,[],,['chan2019'],,False,False,,1
+giry1241-1-14-1,,giry1241-1,14,kumi na ne,kumi na ne,[],,['chan2019'],,False,False,,1
+giry1241-1-15-1,,giry1241-1,15,kumi na ts'ano,kumi na ts'ano,[],,['chan2019'],,False,False,,1
+giry1241-1-16-1,,giry1241-1,16,kumi na t'andahu,kumi na t'andahu,[],,['chan2019'],,False,False,,1
+giry1241-1-17-1,,giry1241-1,17,kumi na mifunɡahe,kumi na mifunɡahe,[],,['chan2019'],,False,False,,1
+giry1241-1-18-1,,giry1241-1,18,kumi na nane,kumi na nane,[],,['chan2019'],,False,False,,1
+giry1241-1-19-1,,giry1241-1,19,kumi na chenda,kumi na chenda,[],,['chan2019'],,False,False,,1
+giry1241-1-20-1,,giry1241-1,20,mironɡo miri,mironɡo miri,[],,['chan2019'],,False,False,,1
+giry1241-1-21-1,,giry1241-1,21,mironɡo miri na mwenɡa,mironɡo miri na mwenɡa,[],,['chan2019'],,False,False,,1
+giry1241-1-22-1,,giry1241-1,22,mironɡo miri na mbiri,mironɡo miri na mbiri,[],,['chan2019'],,False,False,,1
+giry1241-1-23-1,,giry1241-1,23,mironɡo miri na t'ahu,mironɡo miri na t'ahu,[],,['chan2019'],,False,False,,1
+giry1241-1-24-1,,giry1241-1,24,mironɡo miri na nane,mironɡo miri na nane,[],,['chan2019'],,False,False,,1
+giry1241-1-25-1,,giry1241-1,25,mironɡo miri na ts'ano,mironɡo miri na ts'ano,[],,['chan2019'],,False,False,,1
+giry1241-1-26-1,,giry1241-1,26,mironɡo miri na t'andahu,mironɡo miri na t'andahu,[],,['chan2019'],,False,False,,1
+giry1241-1-27-1,,giry1241-1,27,mironɡo miri na funɡahe,mironɡo miri na funɡahe,[],,['chan2019'],,False,False,,1
+giry1241-1-28-1,,giry1241-1,28,mironɡo miri na nane,mironɡo miri na nane,[],,['chan2019'],,False,False,,1
+giry1241-1-29-1,,giry1241-1,29,mironɡo miri na chenda,mironɡo miri na chenda,[],,['chan2019'],,False,False,,1
+giry1241-1-30-1,,giry1241-1,30,mironɡo mihahu,mironɡo mihahu,[],,['chan2019'],,False,False,,1
+giry1241-1-40-1,,giry1241-1,40,mironɡo mine,mironɡo mine,[],,['chan2019'],,False,False,,1
+giry1241-1-50-1,,giry1241-1,50,mironɡo mits'ano,mironɡo mits'ano,[],,['chan2019'],,False,False,,1
+giry1241-1-60-1,,giry1241-1,60,mironɡo mihandahu,mironɡo mihandahu,[],,['chan2019'],,False,False,,1
+giry1241-1-70-1,,giry1241-1,70,mironɡo mifunɡahe,mironɡo mifunɡahe,[],,['chan2019'],,False,False,,1
+giry1241-1-80-1,,giry1241-1,80,mironɡo mine,mironɡo mine,[],,['chan2019'],,False,False,,1
+giry1241-1-90-1,,giry1241-1,90,mironɡo chenda,mironɡo chenda,[],,['chan2019'],,False,False,,1
+giry1241-1-100-1,,giry1241-1,100,ɡana,ɡana,[],(mwenɡa),['chan2019'],,False,False,,1
+giry1241-1-200-1,,giry1241-1,200,maɡana mairi,maɡana mairi,[],,['chan2019'],,False,False,,1
+giry1241-1-1000-1,,giry1241-1,1000,alifu,alifu,[],( 'alifu' < Swahili ) (mwenɡa),['chan2019'],,True,False,,1
+giry1241-1-2000-1,,giry1241-1,2000,alifu mbiri,alifu mbiri,[],,['chan2019'],,False,False,,1

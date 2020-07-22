@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nyin1250-1-1-1,,nyin1250-1,1,ari,ari,[],,['chan2019'],,False,False,,1
+nyin1250-1-2-1,,nyin1250-1,2,la-uh,la-uh,[],,['chan2019'],,False,False,,1
+nyin1250-1-3-1,,nyin1250-1,3,taloh,taloh,[],,['chan2019'],,False,False,,1
+nyin1250-1-4-1,,nyin1250-1,4,hahuw,hahuw,[],,['chan2019'],,False,False,,1
+nyin1250-1-5-1,,nyin1250-1,5,limeh,limeh,[],,['chan2019'],,False,False,,1
+nyin1250-1-6-1,,nyin1250-1,6,onoh,onoh,[],,['chan2019'],,False,False,,1
+nyin1250-1-7-1,,nyin1250-1,7,ndro taloh,ndro taloh,[],( 10 - 3 ),['chan2019'],,False,False,,1
+nyin1250-1-8-1,,nyin1250-1,8,ndro la-uh,ndro la-uh,[],( 10 - 2 ),['chan2019'],,False,False,,1
+nyin1250-1-9-1,,nyin1250-1,9,ndro ari,ndro ari,[],( 10 - 1 ),['chan2019'],,False,False,,1
+nyin1250-1-10-1,,nyin1250-1,10,ronoh,ronoh,[],,['chan2019'],,False,False,,1
+nyin1250-1-11-1,,nyin1250-1,11,ronoh ari,ronoh ari,[],,['chan2019'],,False,False,,1
+nyin1250-1-12-1,,nyin1250-1,12,ronoh la-uh,ronoh la-uh,[],,['chan2019'],,False,False,,1
+nyin1250-1-13-1,,nyin1250-1,13,ronoh taloh,ronoh taloh,[],,['chan2019'],,False,False,,1
+nyin1250-1-14-1,,nyin1250-1,14,ronoh hahuw,ronoh hahuw,[],,['chan2019'],,False,False,,1
+nyin1250-1-15-1,,nyin1250-1,15,ronoh limeh,ronoh limeh,[],,['chan2019'],,False,False,,1
+nyin1250-1-16-1,,nyin1250-1,16,ronoh onoh,ronoh onoh,[],,['chan2019'],,False,False,,1
+nyin1250-1-17-1,,nyin1250-1,17,ronoh ndro taloh,ronoh ndro taloh,[],,['chan2019'],,False,False,,1
+nyin1250-1-18-1,,nyin1250-1,18,ronoh ndro la-uh,ronoh ndro la-uh,[],,['chan2019'],,False,False,,1
+nyin1250-1-19-1,,nyin1250-1,19,lunoh ndro ari,lunoh ndro ari,[],,['chan2019'],,False,False,,1
+nyin1250-1-20-1,,nyin1250-1,20,luŋui,luŋui,[],,['chan2019'],,False,False,,1
+nyin1250-1-21-1,,nyin1250-1,21,lunoh ari,lunoh ari,[],,['chan2019'],,False,False,,1
+nyin1250-1-22-1,,nyin1250-1,22,lunoh la-uh,lunoh la-uh,[],,['chan2019'],,False,False,,1
+nyin1250-1-23-1,,nyin1250-1,23,lunoh taloh,lunoh taloh,[],,['chan2019'],,False,False,,1
+nyin1250-1-24-1,,nyin1250-1,24,lunoh hahuw,lunoh hahuw,[],,['chan2019'],,False,False,,1
+nyin1250-1-25-1,,nyin1250-1,25,lunoh limeh,lunoh limeh,[],,['chan2019'],,False,False,,1
+nyin1250-1-26-1,,nyin1250-1,26,lunoh onoh,lunoh onoh,[],,['chan2019'],,False,False,,1
+nyin1250-1-27-1,,nyin1250-1,27,lunoh ndro taloh,lunoh ndro taloh,[],,['chan2019'],,False,False,,1
+nyin1250-1-28-1,,nyin1250-1,28,lunoh ndro la-uh,lunoh ndro la-uh,[],,['chan2019'],,False,False,,1
+nyin1250-1-29-1,,nyin1250-1,29,lunoh ndro ari,lunoh ndro ari,[],,['chan2019'],,False,False,,1
+nyin1250-1-30-1,,nyin1250-1,30,tonoh,tonoh,[],,['chan2019'],,False,False,,1
+nyin1250-1-40-1,,nyin1250-1,40,hanoh,hanoh,[],,['chan2019'],,False,False,,1
+nyin1250-1-50-1,,nyin1250-1,50,lomonoh,lomonoh,[],,['chan2019'],,False,False,,1
+nyin1250-1-60-1,,nyin1250-1,60,ndro hanoh,ndro hanoh,[],( 100 - 40 ),['chan2019'],,False,False,,1
+nyin1250-1-70-1,,nyin1250-1,70,ndro tonoh,ndro tonoh,[],( 100 - 30 ),['chan2019'],,False,False,,1
+nyin1250-1-80-1,,nyin1250-1,80,ndro lunoh,ndro lunoh,[],( 100 - 20 ),['chan2019'],,False,False,,1
+nyin1250-1-90-1,,nyin1250-1,90,ndro ronoh,ndro ronoh,[],( 100 - 10 ),['chan2019'],,False,False,,1
+nyin1250-1-100-1,,nyin1250-1,100,rinek,rinek,[],,['chan2019'],,False,False,,1
+nyin1250-1-200-1,,nyin1250-1,200,lunek,lunek,[],,['chan2019'],,False,False,,1
+nyin1250-1-1000-1,,nyin1250-1,1000,rawa,rawa,[],,['chan2019'],,False,False,,1
+nyin1250-1-2000-1,,nyin1250-1,2000,luwa,luwa,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sher1257-3-1-1,,sher1257-3,1,han,han,[],,['chan2019'],,False,False,,3
+sher1257-3-2-1,,sher1257-3,2,nyit,nyit,[],,['chan2019'],,False,False,,3
+sher1257-3-3-1,,sher1257-3,3,ung,ung,[],,['chan2019'],,False,False,,3
+sher1257-3-4-1,,sher1257-3,4,phsi,phsi,[],,['chan2019'],,False,False,,3
+sher1257-3-5-1,,sher1257-3,5,khu,khu,[],,['chan2019'],,False,False,,3
+sher1257-3-6-1,,sher1257-3,6,chuk,chuk,[],,['chan2019'],,False,False,,3
+sher1257-3-7-1,,sher1257-3,7,sit,sit,[],,['chan2019'],,False,False,,3
+sher1257-3-8-1,,sher1257-3,8,sarɡyat,sarɡyat,[],,['chan2019'],,False,False,,3
+sher1257-3-9-1,,sher1257-3,9,thikhi,thikhi,[],,['chan2019'],,False,False,,3
+sher1257-3-10-1,,sher1257-3,10,sõ,sõ,[],,['chan2019'],,False,False,,3
+sher1257-3-11-1,,sher1257-3,11,sahan,sahan,[],,['chan2019'],,False,False,,3
+sher1257-3-12-1,,sher1257-3,12,sanyit,sanyit,[],,['chan2019'],,False,False,,3
+sher1257-3-13-1,,sher1257-3,13,saung,saung,[],,['chan2019'],,False,False,,3
+sher1257-3-14-1,,sher1257-3,14,samphsi,samphsi,[],,['chan2019'],,False,False,,3
+sher1257-3-15-1,,sher1257-3,15,sãngkhu,sãngkhu,[],,['chan2019'],,False,False,,3
+sher1257-3-16-1,,sher1257-3,16,sãchuk,sãchuk,[],,['chan2019'],,False,False,,3
+sher1257-3-17-1,,sher1257-3,17,sãsit,sãsit,[],,['chan2019'],,False,False,,3
+sher1257-3-18-1,,sher1257-3,18,sãsarɡyat,sãsarɡyat,[],,['chan2019'],,False,False,,3
+sher1257-3-19-1,,sher1257-3,19,sãthikhi,sãthikhi,[],,['chan2019'],,False,False,,3
+sher1257-3-20-1,,sher1257-3,20,khahan-lo-han,khahan-lo-han,[],( one twenty),['chan2019'],,False,False,,3
+sher1257-3-21-1,,sher1257-3,21,khahan-lo-han,khahan-lo-han,[],,['chan2019'],,False,False,,3
+sher1257-3-22-1,,sher1257-3,22,khahan-lo-nyit,khahan-lo-nyit,[],,['chan2019'],,False,False,,3
+sher1257-3-23-1,,sher1257-3,23,khahan-lo-ung,khahan-lo-ung,[],,['chan2019'],,False,False,,3
+sher1257-3-24-1,,sher1257-3,24,khahan-lo-phsi,khahan-lo-phsi,[],,['chan2019'],,False,False,,3
+sher1257-3-25-1,,sher1257-3,25,khahan-lo-khu,khahan-lo-khu,[],,['chan2019'],,False,False,,3
+sher1257-3-26-1,,sher1257-3,26,khahan-lo-chuk,khahan-lo-chuk,[],,['chan2019'],,False,False,,3
+sher1257-3-27-1,,sher1257-3,27,khahan-lo-sit,khahan-lo-sit,[],,['chan2019'],,False,False,,3
+sher1257-3-28-1,,sher1257-3,28,khahan-lo-sarɡyat,khahan-lo-sarɡyat,[],,['chan2019'],,False,False,,3
+sher1257-3-29-1,,sher1257-3,29,khahan-lo-thikhi,khahan-lo-thikhi,[],,['chan2019'],,False,False,,3
+sher1257-3-30-1,,sher1257-3,30,khahan-lo-sõ,khahan-lo-sõ,[],( 20 + 10 ),['chan2019'],,False,False,,3
+sher1257-3-40-1,,sher1257-3,40,khanyit,khanyit,[],( 2 x 20 ),['chan2019'],,False,False,,3
+sher1257-3-50-1,,sher1257-3,50,khanyit-lo-sõ,khanyit-lo-sõ,[],,['chan2019'],,False,False,,3
+sher1257-3-60-1,,sher1257-3,60,khaung,khaung,[],( 3 x 30 ),['chan2019'],,False,False,,3
+sher1257-3-70-1,,sher1257-3,70,khaung-lo-sõ,khaung-lo-sõ,[],,['chan2019'],,False,False,,3
+sher1257-3-80-1,,sher1257-3,80,khaphsi,khaphsi,[],( 4 x 30 ),['chan2019'],,False,False,,3
+sher1257-3-90-1,,sher1257-3,90,khaphsi-lo-so~,khaphsi-lo-so~,[],,['chan2019'],,False,True,,3
+sher1257-3-100-1,,sher1257-3,100,gyo,gyo,[],,['chan2019'],,False,False,,3

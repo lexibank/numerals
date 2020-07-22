@@ -1,0 +1,16 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kona1242-1-1-1,,kona1242-1,1,sesafei,sesafei,[],(''little finger''),['chan2019'],,False,False,,1
+kona1242-1-2-1,,kona1242-1,2,sesama,sesama,[],"(""ring finger"")",['chan2019'],,False,False,,1
+kona1242-1-3-1,,kona1242-1,3,koma,koma,[],"(""middle finger"")",['chan2019'],,False,False,,1
+kona1242-1-4-1,,kona1242-1,4,doso͡u,doso͡u,[],"(""index finger"")",['chan2019'],,False,False,,1
+kona1242-1-5-1,,kona1242-1,5,hou,hou,[],"(""thumb"")",['chan2019'],,False,False,,1
+kona1242-1-6-1,,kona1242-1,6,walai,walai,[],"(""wrist"")",['chan2019'],,False,False,,1
+kona1242-1-7-1,,kona1242-1,7,dio,dio,[],"(""lower arm"")",['chan2019'],,False,False,,1
+kona1242-1-8-1,,kona1242-1,8,dimaa,dimaa,[],"(""elbow"")",['chan2019'],,False,False,,1
+kona1242-1-9-1,,kona1242-1,9,dese,dese,[],"(""upper arm"")",['chan2019'],,False,False,,1
+kona1242-1-10-1,,kona1242-1,10,yetou,yetou,[],"(""shoulder"")",['chan2019'],,False,False,,1
+kona1242-1-11-1,,kona1242-1,11,kehe,kehe,[],"(""ear"")",['chan2019'],,False,False,,1
+kona1242-1-12-1,,kona1242-1,12,diho,diho,[],"(""ear"")",['chan2019'],,False,False,,1
+kona1242-1-13-1,,kona1242-1,13,mukuo,mukuo,[],"(""nose"")",['chan2019'],,False,False,,1
+kona1242-1-14-1,,kona1242-1,14,moɡou,moɡou,[],"(""mouth"")",['chan2019'],,False,False,,1
+kona1242-1-15-1,,kona1242-1,15,"''the other hand"": doboɡo̠͡u̠ to","''the other hand"": doboɡo̠͡u̠ to",[],,['chan2019'],,False,True,,1

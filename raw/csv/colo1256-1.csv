@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+colo1256-1-1-1,,colo1256-1,1,mãŋ,mãŋ,[],,['chan2019'],,False,False,,1
+colo1256-1-2-1,,colo1256-1,2,pa'lu,pa'lu,[],,['chan2019'],,False,False,,1
+colo1256-1-3-1,,colo1256-1,3,pe'mãŋ,pe'mãŋ,[],( litː ''with one'' ),['chan2019'],,False,False,,1
+colo1256-1-4-1,,colo1256-1,4,hum'palu,hum'palu,[],( litː that two'' ),['chan2019'],,False,False,,1
+colo1256-1-5-1,,colo1256-1,5,mãnte,mãnte,[],( litː ''one hand'' ),['chan2019'],,False,False,,1
+colo1256-1-6-1,,colo1256-1,6,sta,sta,[],( < Quichua ''sokta'' ),['chan2019'],,True,False,,1
+colo1256-1-7-1,,colo1256-1,7,ʃi'yete,ʃi'yete,[],( < Spanish ''siete'' ),['chan2019'],,True,False,,1
+colo1256-1-8-1,,colo1256-1,8,'ʔotʃo,'ʔotʃo,[],( < Spanish ''ocho'' ),['chan2019'],,True,False,,1
+colo1256-1-9-1,,colo1256-1,9,nu'we,nu'we,[],( < Spanish ''nueve'' ),['chan2019'],,True,False,,1
+colo1256-1-10-1,,colo1256-1,10,tʃuŋ'ka,tʃuŋ'ka,[],( < Quichua ''chunga'' ),['chan2019'],,True,False,,1
+colo1256-1-11-1,,colo1256-1,11,tʃuŋ'ka mãŋ,tʃuŋ'ka mãŋ,[],,['chan2019'],,False,False,,1
+colo1256-1-12-1,,colo1256-1,12,tʃuŋ'ka pa'lu,tʃuŋ'ka pa'lu,[],,['chan2019'],,False,False,,1
+colo1256-1-13-1,,colo1256-1,13,tʃuŋ'ka pe'mãŋ,tʃuŋ'ka pe'mãŋ,[],,['chan2019'],,False,False,,1
+colo1256-1-14-1,,colo1256-1,14,tʃuŋ'ka hum'palu,tʃuŋ'ka hum'palu,[],,['chan2019'],,False,False,,1
+colo1256-1-15-1,,colo1256-1,15,tʃuŋ'ka mãnte,tʃuŋ'ka mãnte,[],,['chan2019'],,False,False,,1
+colo1256-1-16-1,,colo1256-1,16,tʃuŋ'ka sta,tʃuŋ'ka sta,[],,['chan2019'],,False,False,,1
+colo1256-1-17-1,,colo1256-1,17,tʃuŋ'ka ʃi'yete,tʃuŋ'ka ʃi'yete,[],,['chan2019'],,False,False,,1
+colo1256-1-18-1,,colo1256-1,18,tʃuŋ'ka ʔotʃo,tʃuŋ'ka ʔotʃo,[],,['chan2019'],,False,False,,1
+colo1256-1-19-1,,colo1256-1,19,tʃuŋ'ka nu'we,tʃuŋ'ka nu'we,[],,['chan2019'],,False,False,,1
+colo1256-1-20-1,,colo1256-1,20,pa'lu tʃuŋ'ka,pa'lu tʃuŋ'ka,[],,['chan2019'],,False,False,,1
+colo1256-1-21-1,,colo1256-1,21,pa'lu tʃuŋ'ka mãŋ,pa'lu tʃuŋ'ka mãŋ,[],,['chan2019'],,False,False,,1
+colo1256-1-22-1,,colo1256-1,22,pa'lu tʃuŋ'ka pa'lu,pa'lu tʃuŋ'ka pa'lu,[],,['chan2019'],,False,False,,1
+colo1256-1-23-1,,colo1256-1,23,pa'lu tʃuŋ'ka pe'mãŋ,pa'lu tʃuŋ'ka pe'mãŋ,[],,['chan2019'],,False,False,,1
+colo1256-1-24-1,,colo1256-1,24,pa'lu tʃuŋ'ka hum'palu,pa'lu tʃuŋ'ka hum'palu,[],,['chan2019'],,False,False,,1
+colo1256-1-25-1,,colo1256-1,25,pa'lu tʃuŋ'ka mãnte,pa'lu tʃuŋ'ka mãnte,[],,['chan2019'],,False,False,,1
+colo1256-1-26-1,,colo1256-1,26,pa'lu tʃuŋ'ka sta,pa'lu tʃuŋ'ka sta,[],,['chan2019'],,False,False,,1
+colo1256-1-27-1,,colo1256-1,27,pa'lu tʃuŋ'ka ʃi'yete,pa'lu tʃuŋ'ka ʃi'yete,[],,['chan2019'],,False,False,,1
+colo1256-1-28-1,,colo1256-1,28,pa'lu tʃuŋ'ka ʔotʃo,pa'lu tʃuŋ'ka ʔotʃo,[],,['chan2019'],,False,False,,1
+colo1256-1-29-1,,colo1256-1,29,pa'lu tʃuŋ'ka nu'we,pa'lu tʃuŋ'ka nu'we,[],,['chan2019'],,False,False,,1
+colo1256-1-30-1,,colo1256-1,30,pe'mãŋ ˈtʃun.ɡa,pe'mãŋ ˈtʃun.ɡa,[],,['chan2019'],,False,False,,1
+colo1256-1-40-1,,colo1256-1,40,hum'palu ˈtʃunka,hum'palu ˈtʃunka,[],,['chan2019'],,False,False,,1
+colo1256-1-50-1,,colo1256-1,50,mãnte ˈtʃunka,mãnte ˈtʃunka,[],,['chan2019'],,False,False,,1
+colo1256-1-60-1,,colo1256-1,60,ʃi'yete ˈtʃunka,ʃi'yete ˈtʃunka,[],,['chan2019'],,False,False,,1
+colo1256-1-70-1,,colo1256-1,70,ʃi'yete ˈtʃunka,ʃi'yete ˈtʃunka,[],,['chan2019'],,False,False,,1
+colo1256-1-80-1,,colo1256-1,80,ʔotʃo ˈtʃunka,ʔotʃo ˈtʃunka,[],,['chan2019'],,False,False,,1
+colo1256-1-90-1,,colo1256-1,90,nu'we ˈtʃunka,nu'we ˈtʃunka,[],,['chan2019'],,False,False,,1
+colo1256-1-100-1,,colo1256-1,100,pa'tsa,pa'tsa,[],( < Quichua ''pacha'' ),['chan2019'],,True,False,,1

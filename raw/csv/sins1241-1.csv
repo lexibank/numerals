@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sins1241-1-1-1,,sins1241-1,1,atin,atin,[],,['chan2019'],,False,False,,1
+sins1241-1-2-1,,sins1241-1,2,aeri,aeri,[],,['chan2019'],,False,False,,1
+sins1241-1-3-1,,sins1241-1,3,hei,hei,[],,['chan2019'],,False,False,,1
+sins1241-1-4-1,,sins1241-1,4,wapmoɡ,wapmoɡ,[],"(lit"" 'fingers')",['chan2019'],,False,False,,1
+sins1241-1-5-1,,sins1241-1,5,hat atin,hat atin,[],(lit. 'hand one'),['chan2019'],,False,False,,1
+sins1241-1-6-1,,sins1241-1,6,hat atin wapmoɡ atin,hat atin wapmoɡ atin,[],"(lit. 'hand one, fingers one')",['chan2019'],,False,False,,1
+sins1241-1-7-1,,sins1241-1,7,hat atin wapmoɡ aeri,hat atin wapmoɡ aeri,[],,['chan2019'],,False,False,,1
+sins1241-1-8-1,,sins1241-1,8,hat atin wapmoɡ hei,hat atin wapmoɡ hei,[],,['chan2019'],,False,False,,1
+sins1241-1-9-1,,sins1241-1,9,hat atin wapmoɡ wapmoɡ,hat atin wapmoɡ wapmoɡ,[],,['chan2019'],,False,False,,1
+sins1241-1-10-1,,sins1241-1,10,hat aeri,hat aeri,[],(lit. 'hand two'),['chan2019'],,False,False,,1
+sins1241-1-11-1,,sins1241-1,11,hat aeri wapmoɡ atin,hat aeri wapmoɡ atin,[],,['chan2019'],,False,False,,1
+sins1241-1-12-1,,sins1241-1,12,hat aeri wapmoɡ aeri,hat aeri wapmoɡ aeri,[],,['chan2019'],,False,False,,1
+sins1241-1-13-1,,sins1241-1,13,hat aeri wapmoɡ hei,hat aeri wapmoɡ hei,[],,['chan2019'],,False,False,,1
+sins1241-1-14-1,,sins1241-1,14,hat aeri wapmoɡ wapmoɡ,hat aeri wapmoɡ wapmoɡ,[],,['chan2019'],,False,False,,1
+sins1241-1-15-1,,sins1241-1,15,hat hei,hat hei,[],,['chan2019'],,False,False,,1
+sins1241-1-16-1,,sins1241-1,16,hat hei wapmoɡ atin,hat hei wapmoɡ atin,[],,['chan2019'],,False,False,,1
+sins1241-1-17-1,,sins1241-1,17,hat hei wapmoɡ aeri,hat hei wapmoɡ aeri,[],,['chan2019'],,False,False,,1
+sins1241-1-18-1,,sins1241-1,18,hat hei wapmoɡ hei,hat hei wapmoɡ hei,[],,['chan2019'],,False,False,,1
+sins1241-1-19-1,,sins1241-1,19,hat hei wapmoɡ wapmoɡ,hat hei wapmoɡ wapmoɡ,[],,['chan2019'],,False,False,,1
+sins1241-1-20-1,,sins1241-1,20,hat moɡ,hat moɡ,[],(lit. 'hand four'),['chan2019'],,False,False,,1

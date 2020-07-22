@@ -1,0 +1,6 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sepa1241-1-1-1,,sepa1241-1,1,ta,ta,[],,['chan2019'],,False,False,,1
+sepa1241-1-2-1,,sepa1241-1,2,lu,lu,[],,['chan2019'],,False,False,,1
+sepa1241-1-3-1,,sepa1241-1,3,tol,tol,[],,['chan2019'],,False,False,,1
+sepa1241-1-4-1,,sepa1241-1,4,tual,tual,[],,['chan2019'],,False,False,,1
+sepa1241-1-5-1,,sepa1241-1,5,lim,lim,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,48 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bali1278-1-1-1,,bali1278-1,1,sə,sə,[],,['chan2019'],,False,False,,1
+bali1278-1-1-2,,bali1278-1,1,bəsik,bəsik,[],,['chan2019'],,False,False,,1
+bali1278-1-2-1,,bali1278-1,2,duə,duə,[],,['chan2019'],,False,False,,1
+bali1278-1-3-1,,bali1278-1,3,təlu,təlu,[],,['chan2019'],,False,False,,1
+bali1278-1-4-1,,bali1278-1,4,pat,pat,[],,['chan2019'],,False,False,,1
+bali1278-1-5-1,,bali1278-1,5,limə,limə,[],,['chan2019'],,False,False,,1
+bali1278-1-6-1,,bali1278-1,6,nəm,nəm,[],,['chan2019'],,False,False,,1
+bali1278-1-7-1,,bali1278-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+bali1278-1-8-1,,bali1278-1,8,kutus,kutus,[],( 10 -2 ),['chan2019'],,False,False,,1
+bali1278-1-9-1,,bali1278-1,9,siə,siə,[],,['chan2019'],,False,False,,1
+bali1278-1-10-1,,bali1278-1,10,dasə,dasə,[],( < Sanskrit ),['chan2019'],,True,False,,1
+bali1278-1-11-1,,bali1278-1,11,sələs,sələs,[],( < sə- plus oləs ),['chan2019'],,False,False,,1
+bali1278-1-12-1,,bali1278-1,12,roləs,roləs,[],,['chan2019'],,False,False,,1
+bali1278-1-13-1,,bali1278-1,13,təluləs,təluləs,[],,['chan2019'],,False,False,,1
+bali1278-1-13-2,,bali1278-1,13,tluləs,tluləs,[],,['chan2019'],,False,False,,1
+bali1278-1-14-1,,bali1278-1,14,patbələs,patbələs,[],,['chan2019'],,False,False,,1
+bali1278-1-15-1,,bali1278-1,15,limɔbələs,limɔbələs,[],,['chan2019'],,False,False,,1
+bali1278-1-16-1,,bali1278-1,16,nəmbələs,nəmbələs,[],,['chan2019'],,False,False,,1
+bali1278-1-16-2,,bali1278-1,16,nəmbləs,nəmbləs,[],,['chan2019'],,False,False,,1
+bali1278-1-17-1,,bali1278-1,17,pituləs,pituləs,[],,['chan2019'],,False,False,,1
+bali1278-1-18-1,,bali1278-1,18,pələkutus,pələkutus,[],,['chan2019'],,False,False,,1
+bali1278-1-18-2,,bali1278-1,18,pləkutus,pləkutus,[],,['chan2019'],,False,False,,1
+bali1278-1-19-1,,bali1278-1,19,siŋɔləs,siŋɔləs,[],,['chan2019'],,False,False,,1
+bali1278-1-20-1,,bali1278-1,20,duaŋ dasəs,duaŋ dasəs,[],,['chan2019'],,False,False,,1
+bali1278-1-21-1,,bali1278-1,21,səlikur,səlikur,[],,['chan2019'],,False,False,,1
+bali1278-1-22-1,,bali1278-1,22,duəlikur,duəlikur,[],,['chan2019'],,False,False,,1
+bali1278-1-23-1,,bali1278-1,23,təlulikur,təlulikur,[],,['chan2019'],,False,False,,1
+bali1278-1-24-1,,bali1278-1,24,patlikur,patlikur,[],,['chan2019'],,False,False,,1
+bali1278-1-25-1,,bali1278-1,25,sala.e,sala.e,[],,['chan2019'],,False,False,,1
+bali1278-1-26-1,,bali1278-1,26,nəmlikur,nəmlikur,[],,['chan2019'],,False,False,,1
+bali1278-1-27-1,,bali1278-1,27,pitulikur,pitulikur,[],,['chan2019'],,False,False,,1
+bali1278-1-28-1,,bali1278-1,28,ululikur,ululikur,[],,['chan2019'],,False,False,,1
+bali1278-1-29-1,,bali1278-1,29,siəlikur,siəlikur,[],,['chan2019'],,False,False,,1
+bali1278-1-29-2,,bali1278-1,29,saŋolikur,saŋolikur,[],,['chan2019'],,False,False,,1
+bali1278-1-30-1,,bali1278-1,30,tiɡaŋ dasə,tiɡaŋ dasə,[],,['chan2019'],,False,False,,1
+bali1278-1-30-2,,bali1278-1,30,təluŋ dasə,təluŋ dasə,[],,['chan2019'],,False,False,,1
+bali1278-1-40-1,,bali1278-1,40,pətaŋ dasə,pətaŋ dasə,[],,['chan2019'],,False,False,,1
+bali1278-1-50-1,,bali1278-1,50,sekət,sekət,[],"(litː 'come off, tear off')",['chan2019'],,False,False,,1
+bali1278-1-60-1,,bali1278-1,60,nəm dasə,nəm dasə,[],,['chan2019'],,False,False,,1
+bali1278-1-70-1,,bali1278-1,70,pituŋ dasə,pituŋ dasə,[],,['chan2019'],,False,False,,1
+bali1278-1-80-1,,bali1278-1,80,uluŋ dasə,uluŋ dasə,[],,['chan2019'],,False,False,,1
+bali1278-1-90-1,,bali1278-1,90,saŋaŋ dasə,saŋaŋ dasə,[],,['chan2019'],,False,False,,1
+bali1278-1-90-2,,bali1278-1,90,siɔdasə,siɔdasə,[],,['chan2019'],,False,False,,1
+bali1278-1-100-1,,bali1278-1,100,satus,satus,[],( < sə- pluas atus ),['chan2019'],,False,False,,1
+bali1278-1-200-1,,bali1278-1,200,satak,satak,[],( < Old Javanese ),['chan2019'],,True,False,,1
+bali1278-1-1000-1,,bali1278-1,1000,siu,siu,[],,['chan2019'],,False,False,,1
+bali1278-1-2000-1,,bali1278-1,2000,duaŋ tali,duaŋ tali,[],,['chan2019'],,False,False,,1

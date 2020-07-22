@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+cent2131-1-1-1,,cent2131-1,1,bilé,bilé,[],,['chan2019'],,False,False,,1
+cent2131-1-2-1,,cent2131-1,2,okuá,okuá,[],,['chan2019'],,False,False,,1
+cent2131-1-3-1,,cent2131-1,3,bakiá,bakiá,[],,['chan2019'],,False,False,,1
+cent2131-1-4-1,,cent2131-1,4,naó,naó,[],,['chan2019'],,False,False,,1
+cent2131-1-5-1,,cent2131-1,5,malí,malí,[],,['chan2019'],,False,False,,1
+cent2131-1-6-1,,cent2131-1,6,usáni,usáni,[],,['chan2019'],,False,False,,1
+cent2131-1-7-1,,cent2131-1,7,kicháo,kicháo,[],,['chan2019'],,False,False,,1
+cent2131-1-8-1,,cent2131-1,8,osá naó,osá naó,[],(lit: 'two fours' ),['chan2019'],,False,False,,1
+cent2131-1-9-1,,cent2131-1,9,kímakói,kímakói,[],(lit: 'not-ten' ),['chan2019'],,False,False,,1
+cent2131-1-10-1,,cent2131-1,10,makói,makói,[],,['chan2019'],,False,False,,1
+cent2131-1-11-1,,cent2131-1,11,makói miná bilé,makói miná bilé,[],,['chan2019'],,False,False,,1
+cent2131-1-11-2,,cent2131-1,11,makói bilé,makói bilé,[],,['chan2019'],,False,False,,1
+cent2131-1-11-3,,cent2131-1,11,etc,etc,[],,['chan2019'],,False,False,,1
+cent2131-1-12-1,,cent2131-1,12,makói miná okuá,makói miná okuá,[],,['chan2019'],,False,False,,1
+cent2131-1-13-1,,cent2131-1,13,makói miná bakiá,makói miná bakiá,[],,['chan2019'],,False,False,,1
+cent2131-1-14-1,,cent2131-1,14,makói miná naó,makói miná naó,[],,['chan2019'],,False,False,,1
+cent2131-1-15-1,,cent2131-1,15,makói miná malí,makói miná malí,[],,['chan2019'],,False,False,,1
+cent2131-1-16-1,,cent2131-1,16,makói miná usáni,makói miná usáni,[],,['chan2019'],,False,False,,1
+cent2131-1-17-1,,cent2131-1,17,makói miná kicháo,makói miná kicháo,[],,['chan2019'],,False,False,,1
+cent2131-1-18-1,,cent2131-1,18,makói miná osá naó,makói miná osá naó,[],,['chan2019'],,False,False,,1
+cent2131-1-19-1,,cent2131-1,19,makói minákímakói,makói minákímakói,[],,['chan2019'],,False,False,,1
+cent2131-1-20-1,,cent2131-1,20,osá makói,osá makói,[],,['chan2019'],,False,False,,1
+cent2131-1-21-1,,cent2131-1,21,osá makói miná bilé,osá makói miná bilé,[],,['chan2019'],,False,False,,1
+cent2131-1-21-2,,cent2131-1,21,osá miná bilé,osá miná bilé,[],,['chan2019'],,False,False,,1
+cent2131-1-22-1,,cent2131-1,22,osá makói miná okuá,osá makói miná okuá,[],,['chan2019'],,False,False,,1
+cent2131-1-23-1,,cent2131-1,23,osá makói miná bakiá,osá makói miná bakiá,[],,['chan2019'],,False,False,,1
+cent2131-1-24-1,,cent2131-1,24,osá makói miná naó,osá makói miná naó,[],,['chan2019'],,False,False,,1
+cent2131-1-25-1,,cent2131-1,25,osá makói miná malí,osá makói miná malí,[],,['chan2019'],,False,False,,1
+cent2131-1-26-1,,cent2131-1,26,osá makói miná usáni,osá makói miná usáni,[],,['chan2019'],,False,False,,1
+cent2131-1-27-1,,cent2131-1,27,osá makói miná kicháo,osá makói miná kicháo,[],,['chan2019'],,False,False,,1
+cent2131-1-28-1,,cent2131-1,28,osá makói miná osá naó,osá makói miná osá naó,[],,['chan2019'],,False,False,,1
+cent2131-1-29-1,,cent2131-1,29,osá makói miná kímakói,osá makói miná kímakói,[],,['chan2019'],,False,False,,1
+cent2131-1-30-1,,cent2131-1,30,baisá makói,baisá makói,[],,['chan2019'],,False,False,,1
+cent2131-1-40-1,,cent2131-1,40,naósa makói,naósa makói,[],,['chan2019'],,False,False,,1
+cent2131-1-50-1,,cent2131-1,50,malísa makói,malísa makói,[],,['chan2019'],,False,False,,1
+cent2131-1-60-1,,cent2131-1,60,usánsa makói,usánsa makói,[],,['chan2019'],,False,False,,1
+cent2131-1-70-1,,cent2131-1,70,kicháosa makói,kicháosa makói,[],,['chan2019'],,False,False,,1
+cent2131-1-80-1,,cent2131-1,80,osá naósa makói,osá naósa makói,[],,['chan2019'],,False,False,,1
+cent2131-1-90-1,,cent2131-1,90,kímakóisa makói,kímakóisa makói,[],,['chan2019'],,False,False,,1
+cent2131-1-100-1,,cent2131-1,100,bilé siénto,bilé siénto,[],( siénto < Spanish ),['chan2019'],,True,False,,1
+cent2131-1-200-1,,cent2131-1,200,okuá siénto,okuá siénto,[],,['chan2019'],,False,False,,1
+cent2131-1-1000-1,,cent2131-1,1000,bilé míle,bilé míle,[],( míle < < Spanish ),['chan2019'],,True,False,,1
+cent2131-1-2000-1,,cent2131-1,2000,okuá míle,okuá míle,[],,['chan2019'],,False,False,,1

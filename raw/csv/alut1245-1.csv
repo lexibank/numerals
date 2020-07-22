@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+alut1245-1-1-1,,alut1245-1,1,ənnan,ənnan,[],,['chan2019'],,False,False,,1
+alut1245-1-2-1,,alut1245-1,2,ŋitaq,ŋitaq,[],,['chan2019'],,False,False,,1
+alut1245-1-3-1,,alut1245-1,3,ŋəruqqə,ŋəruqqə,[],,['chan2019'],,False,False,,1
+alut1245-1-4-1,,alut1245-1,4,ŋəraqqə,ŋəraqqə,[],,['chan2019'],,False,False,,1
+alut1245-1-5-1,,alut1245-1,5,məlləŋən,məlləŋən,[],,['chan2019'],,False,False,,1
+alut1245-1-6-1,,alut1245-1,6,ənnanməlləŋən,ənnanməlləŋən,[],( 1 + 5 ),['chan2019'],,False,False,,1
+alut1245-1-7-1,,alut1245-1,7,ŋitaqməlləŋən,ŋitaqməlləŋən,[],( 2 + 5 ),['chan2019'],,False,False,,1
+alut1245-1-8-1,,alut1245-1,8,ŋəruqməlləŋən,ŋəruqməlləŋən,[],( 3 + 5 ),['chan2019'],,False,False,,1
+alut1245-1-9-1,,alut1245-1,9,ŋəraqməlləŋən,ŋəraqməlləŋən,[],( 4 + 5 ),['chan2019'],,False,False,,1
+alut1245-1-10-1,,alut1245-1,10,mənɣəkin,mənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-11-1,,alut1245-1,11,mənɣətək ənnan,mənɣətək ənnan,[],(ɣapasus/pasus ),['chan2019'],,False,False,,1
+alut1245-1-12-1,,alut1245-1,12,mənɣətək ŋitaq,mənɣətək ŋitaq,[],(ɣapasus/pasus ),['chan2019'],,False,False,,1
+alut1245-1-13-1,,alut1245-1,13,mənɣətək ŋəruqqə,mənɣətək ŋəruqqə,[],(... //...),['chan2019'],,False,False,,1
+alut1245-1-14-1,,alut1245-1,14,mənɣətək ŋəraqqə,mənɣətək ŋəraqqə,[],(... //...),['chan2019'],,False,False,,1
+alut1245-1-15-1,,alut1245-1,15,mənɣətək məlləŋən,mənɣətək məlləŋən,[],(... //...),['chan2019'],,False,False,,1
+alut1245-1-16-1,,alut1245-1,16,mənɣətək ənnanməlləŋən,mənɣətək ənnanməlləŋən,[],(... //...),['chan2019'],,False,False,,1
+alut1245-1-17-1,,alut1245-1,17,mənɣətəkŋitaqməlləŋən,mənɣətəkŋitaqməlləŋən,[],(... //...),['chan2019'],,False,False,,1
+alut1245-1-18-1,,alut1245-1,18,mənɣətək ŋəruqməlləŋən,mənɣətək ŋəruqməlləŋən,[],(... //...),['chan2019'],,False,False,,1
+alut1245-1-19-1,,alut1245-1,19,mənɣətəkŋəraqməlləŋən,mənɣətəkŋəraqməlləŋən,[],(... //...),['chan2019'],,False,False,,1
+alut1245-1-20-1,,alut1245-1,20,qəlikkə,qəlikkə,[],,['chan2019'],,False,False,,1
+alut1245-1-21-1,,alut1245-1,21,qəlikək ənnan,qəlikək ənnan,[],,['chan2019'],,False,False,,1
+alut1245-1-22-1,,alut1245-1,22,qəlikək ŋitaq,qəlikək ŋitaq,[],,['chan2019'],,False,False,,1
+alut1245-1-23-1,,alut1245-1,23,qəlikək ŋəruqqə,qəlikək ŋəruqqə,[],,['chan2019'],,False,False,,1
+alut1245-1-24-1,,alut1245-1,24,qəlikək ŋəraqqə,qəlikək ŋəraqqə,[],,['chan2019'],,False,False,,1
+alut1245-1-25-1,,alut1245-1,25,qəlikək məlləŋən,qəlikək məlləŋən,[],,['chan2019'],,False,False,,1
+alut1245-1-26-1,,alut1245-1,26,qəlikək ənnanməlləŋən,qəlikək ənnanməlləŋən,[],,['chan2019'],,False,False,,1
+alut1245-1-27-1,,alut1245-1,27,qəlikək ŋitaqməlləŋən,qəlikək ŋitaqməlləŋən,[],,['chan2019'],,False,False,,1
+alut1245-1-28-1,,alut1245-1,28,qəlikək ŋəruqməlləŋən,qəlikək ŋəruqməlləŋən,[],,['chan2019'],,False,False,,1
+alut1245-1-29-1,,alut1245-1,29,qəlikək ŋəraqməlləŋən,qəlikək ŋəraqməlləŋən,[],,['chan2019'],,False,False,,1
+alut1245-1-30-1,,alut1245-1,30,ŋəruqmənɣəkin,ŋəruqmənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-40-1,,alut1245-1,40,ŋəraqmənɣəkin,ŋəraqmənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-50-1,,alut1245-1,50,məlləŋən mənɣəkin,məlləŋən mənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-60-1,,alut1245-1,60,ənnanməlləŋən mənɣəkin,ənnanməlləŋən mənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-70-1,,alut1245-1,70,ŋitaqməlləŋən mənɣəkin,ŋitaqməlləŋən mənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-80-1,,alut1245-1,80,ŋəruqməlləŋən mənɣəkin,ŋəruqməlləŋən mənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-90-1,,alut1245-1,90,ŋəraqməlləŋən mənɣəkin,ŋəraqməlləŋən mənɣəkin,[],,['chan2019'],,False,False,,1
+alut1245-1-100-1,,alut1245-1,100,əstun,əstun,[],< Russian ,['chan2019'],,True,False,,1
+alut1245-1-200-1,,alut1245-1,200,ŋitaq əstun,ŋitaq əstun,[],,['chan2019'],,False,False,,1
+alut1245-1-1000-1,,alut1245-1,1000,tət͡ɕat͡ɕan,tət͡ɕat͡ɕan,[],< Russian ,['chan2019'],,True,False,,1
+alut1245-1-2000-1,,alut1245-1,2000,ŋitaq tət͡ɕat͡ɕan,ŋitaq tət͡ɕat͡ɕan,[],,['chan2019'],,False,False,,1

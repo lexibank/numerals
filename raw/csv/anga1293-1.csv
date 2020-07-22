@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+anga1293-1-1-1,,anga1293-1,1,mend,mend,[],,['chan2019'],,False,False,,1
+anga1293-1-2-1,,anga1293-1,2,kap,kap,[],,['chan2019'],,False,False,,1
+anga1293-1-3-1,,anga1293-1,3,tep,tep,[],,['chan2019'],,False,False,,1
+anga1293-1-4-1,,anga1293-1,4,mal,mal,[],,['chan2019'],,False,False,,1
+anga1293-1-5-1,,anga1293-1,5,su,su,[],,['chan2019'],,False,False,,1
+anga1293-1-6-1,,anga1293-1,6,towa,towa,[],,['chan2019'],,False,False,,1
+anga1293-1-7-1,,anga1293-1,7,holo,holo,[],,['chan2019'],,False,False,,1
+anga1293-1-7-2,,anga1293-1,7,hol,hol,[],,['chan2019'],,False,False,,1
+anga1293-1-7-3,,anga1293-1,7,kerpo,kerpo,[],,['chan2019'],,False,False,,1
+anga1293-1-8-1,,anga1293-1,8,tulap,tulap,[],,['chan2019'],,False,False,,1
+anga1293-1-9-1,,anga1293-1,9,topon bor,topon bor,[],,['chan2019'],,False,False,,1
+anga1293-1-9-2,,anga1293-1,9,tepon bor,tepon bor,[],,['chan2019'],,False,False,,1
+anga1293-1-10-1,,anga1293-1,10,topon kap,topon kap,[],,['chan2019'],,False,False,,1
+anga1293-1-10-2,,anga1293-1,10,tepon kap,tepon kap,[],,['chan2019'],,False,False,,1
+anga1293-1-11-1,,anga1293-1,11,topon tep,topon tep,[],,['chan2019'],,False,False,,1
+anga1293-1-11-2,,anga1293-1,11,tepon tep,tepon tep,[],,['chan2019'],,False,False,,1
+anga1293-1-12-1,,anga1293-1,12,tutep,tutep,[],"( Note that one would expect that the alternate with topon in 9-11 would               have tutop for 12, but the person who said topon also said tutep )",['chan2019'],,False,False,,1
+anga1293-1-13-1,,anga1293-1,13,malapun mend,malapun mend,[],,['chan2019'],,False,False,,1
+anga1293-1-13-2,,anga1293-1,13,molapon pombor,molapon pombor,[],,['chan2019'],,False,False,,1
+anga1293-1-14-1,,anga1293-1,14,malapun kap,malapun kap,[],,['chan2019'],,False,False,,1
+anga1293-1-14-2,,anga1293-1,14,molapon kap,molapon kap,[],,['chan2019'],,False,False,,1
+anga1293-1-15-1,,anga1293-1,15,malapun tep,malapun tep,[],,['chan2019'],,False,False,,1
+anga1293-1-15-2,,anga1293-1,15,molapon tep,molapon tep,[],,['chan2019'],,False,False,,1
+anga1293-1-16-1,,anga1293-1,16,tumalap,tumalap,[],,['chan2019'],,False,False,,1
+anga1293-1-16-2,,anga1293-1,16,tumolap,tumolap,[],,['chan2019'],,False,False,,1
+anga1293-1-17-1,,anga1293-1,17,supun mend,supun mend,[],,['chan2019'],,False,False,,1
+anga1293-1-17-2,,anga1293-1,17,supun bor,supun bor,[],,['chan2019'],,False,False,,1
+anga1293-1-18-1,,anga1293-1,18,supun kap,supun kap,[],,['chan2019'],,False,False,,1
+anga1293-1-18-2,,anga1293-1,18,supun kap,supun kap,[],,['chan2019'],,False,False,,1
+anga1293-1-19-1,,anga1293-1,19,supun tep,supun tep,[],,['chan2019'],,False,False,,1
+anga1293-1-19-2,,anga1293-1,19,supun tep,supun tep,[],,['chan2019'],,False,False,,1
+anga1293-1-20-1,,anga1293-1,20,tusupu,tusupu,[],,['chan2019'],,False,False,,1
+anga1293-1-21-1,,anga1293-1,21,towapun mend,towapun mend,[],,['chan2019'],,False,False,,1
+anga1293-1-21-2,,anga1293-1,21,towapun bor,towapun bor,[],,['chan2019'],,False,False,,1
+anga1293-1-22-1,,anga1293-1,22,towapun kap,towapun kap,[],,['chan2019'],,False,False,,1
+anga1293-1-23-1,,anga1293-1,23,towapun tep,towapun tep,[],,['chan2019'],,False,False,,1
+anga1293-1-24-1,,anga1293-1,24,tutowapu,tutowapu,[],,['chan2019'],,False,False,,1

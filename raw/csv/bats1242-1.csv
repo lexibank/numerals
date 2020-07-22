@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bats1242-1-1-1,,bats1242-1,1,t͡sħɑ,t͡sħɑ,[],,['chan2019'],,False,False,,1
+bats1242-1-2-1,,bats1242-1,2,ʃi,ʃi,[],,['chan2019'],,False,False,,1
+bats1242-1-3-1,,bats1242-1,3,qo,qo,[],,['chan2019'],,False,False,,1
+bats1242-1-4-1,,bats1242-1,4,d-ʕivɦ,d-ʕivɦ,[],,['chan2019'],,False,False,,1
+bats1242-1-5-1,,bats1242-1,5,pχi,pχi,[],,['chan2019'],,False,False,,1
+bats1242-1-6-1,,bats1242-1,6,jɛtχ,jɛtχ,[],,['chan2019'],,False,False,,1
+bats1242-1-7-1,,bats1242-1,7,vorɬ,vorɬ,[],,['chan2019'],,False,False,,1
+bats1242-1-8-1,,bats1242-1,8,bɑrɬ,bɑrɬ,[],,['chan2019'],,False,False,,1
+bats1242-1-9-1,,bats1242-1,9,isː,isː,[],,['chan2019'],,False,False,,1
+bats1242-1-10-1,,bats1242-1,10,itːʼ,itːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-11-1,,bats1242-1,11,t͡sħe.jtːʼ,t͡sħe.jtːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-12-1,,bats1242-1,12,ʃi.itːʼ,ʃi.itːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-13-1,,bats1242-1,13,qo.itːʼ,qo.itːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-14-1,,bats1242-1,14,d-ʕev.ejtːʼ,d-ʕev.ejtːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-15-1,,bats1242-1,15,pχi.itːʼ,pχi.itːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-16-1,,bats1242-1,16,jɛtχ.ejtːʼ,jɛtχ.ejtːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-17-1,,bats1242-1,17,vorɬ.ejtːʼ,vorɬ.ejtːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-18-1,,bats1242-1,18,bɑrɬ.ejtːʼ,bɑrɬ.ejtːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-19-1,,bats1242-1,19,tʼqʼɛ.χt͡sʼ,tʼqʼɛ.χt͡sʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-20-1,,bats1242-1,20,tʼqʼɑ,tʼqʼɑ,[],,['chan2019'],,False,False,,1
+bats1242-1-21-1,,bats1242-1,21,tʼqʼɑ t͡sħɑ,tʼqʼɑ t͡sħɑ,[],,['chan2019'],,False,False,,1
+bats1242-1-22-1,,bats1242-1,22,tʼqʼɑ ʃi,tʼqʼɑ ʃi,[],,['chan2019'],,False,False,,1
+bats1242-1-23-1,,bats1242-1,23,tʼqʼɑ qo,tʼqʼɑ qo,[],,['chan2019'],,False,False,,1
+bats1242-1-24-1,,bats1242-1,24,tʼqʼɑ d-ʕivɦ,tʼqʼɑ d-ʕivɦ,[],,['chan2019'],,False,False,,1
+bats1242-1-25-1,,bats1242-1,25,tʼqʼɑ pχi,tʼqʼɑ pχi,[],,['chan2019'],,False,False,,1
+bats1242-1-26-1,,bats1242-1,26,tʼqʼɑ jɛtχ,tʼqʼɑ jɛtχ,[],,['chan2019'],,False,False,,1
+bats1242-1-27-1,,bats1242-1,27,tʼqʼɑ vorɬ,tʼqʼɑ vorɬ,[],,['chan2019'],,False,False,,1
+bats1242-1-28-1,,bats1242-1,28,tʼqʼɑ bɑrɬ,tʼqʼɑ bɑrɬ,[],,['chan2019'],,False,False,,1
+bats1242-1-29-1,,bats1242-1,29,tʼqʼɑ isː,tʼqʼɑ isː,[],,['chan2019'],,False,False,,1
+bats1242-1-30-1,,bats1242-1,30,tʼqʼɑ.itːʼ,tʼqʼɑ.itːʼ,[],( 20 + 10 ),['chan2019'],,False,False,,1
+bats1242-1-40-1,,bats1242-1,40,ʃɑ.uz.tqʼ(ɑ),ʃɑ.uz.tqʼ(ɑ),[],( 2 x 20 ),['chan2019'],,False,False,,1
+bats1242-1-50-1,,bats1242-1,50,ʃɑ.uz.tʼqʼɑ.itːʼ,ʃɑ.uz.tʼqʼɑ.itːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-60-1,,bats1242-1,60,qo.uz.tʼqʼ(ɑ),qo.uz.tʼqʼ(ɑ),[],( 3 x 20 ),['chan2019'],,False,False,,1
+bats1242-1-70-1,,bats1242-1,70,qo.uz.tʼqʼɑ.itːʼ,qo.uz.tʼqʼɑ.itːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-80-1,,bats1242-1,80,d-ʕɛ(v).uz.tʼqʼ(ɑ),d-ʕɛ(v).uz.tʼqʼ(ɑ),[],( 4 x 20 ),['chan2019'],,False,False,,1
+bats1242-1-90-1,,bats1242-1,90,d-ʕɛ(v).uz.tʼqʼɑ.itːʼ,d-ʕɛ(v).uz.tʼqʼɑ.itːʼ,[],,['chan2019'],,False,False,,1
+bats1242-1-100-1,,bats1242-1,100,pχɑ.uz.tʼqʼ,pχɑ.uz.tʼqʼ,[],( 5 x 20 ),['chan2019'],,False,False,,1
+bats1242-1-200-1,,bats1242-1,200,itsʼ.ɑ.tʼq(ɑ),itsʼ.ɑ.tʼq(ɑ),[],( 10 x 20 ),['chan2019'],,False,False,,1
+bats1242-1-1000-1,,bats1242-1,1000,ɑ.tɑs,ɑ.tɑs,[],< Georgian ,['chan2019'],,True,False,,1

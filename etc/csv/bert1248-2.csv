@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bert1248-2-1-1,,bert1248-2,1,muŋkʼú,muŋkʼú,[],,['chan2019'],,False,False,,2
+bert1248-2-1-2,,bert1248-2,1,mənnəkʼu,mənnəkʼu,[],,['chan2019'],,False,False,,2
+bert1248-2-1-3,,bert1248-2,1,ɗúkʼʊ́nʊ́ŋ,ɗúkʼʊ́nʊ́ŋ,[],,['chan2019'],,False,False,,2
+bert1248-2-2-1,,bert1248-2,2,mohɔ́ɔlaŋ,mohɔ́ɔlaŋ,[],,['chan2019'],,False,False,,2
+bert1248-2-2-2,,bert1248-2,2,hɔ̀lɔ́ŋɔ́ní,hɔ̀lɔ́ŋɔ́ní,[],,['chan2019'],,False,False,,2
+bert1248-2-3-1,,bert1248-2,3,múuθe,múuθe,[],,['chan2019'],,False,False,,2
+bert1248-2-3-2,,bert1248-2,3,mɔ́ɔθe,mɔ́ɔθe,[],,['chan2019'],,False,False,,2
+bert1248-2-4-1,,bert1248-2,4,mənəmu,mənəmu,[],,['chan2019'],,False,False,,2
+bert1248-2-5-1,,bert1248-2,5,mə́kʼuuʃó,mə́kʼuuʃó,[],,['chan2019'],,False,False,,2
+bert1248-2-6-1,,bert1248-2,6,makʼɛɛra,makʼɛɛra,[],( 5+ 1 ) or Arabic number,['chan2019'],,False,False,,2
+bert1248-2-7-1,,bert1248-2,7,θabɔ́ɔlaŋ,θabɔ́ɔlaŋ,[],( 5+ 2 ),['chan2019'],,False,False,,2
+bert1248-2-8-1,,bert1248-2,8,θabóoθe,θabóoθe,[],( 5+ 3 ),['chan2019'],,False,False,,2
+bert1248-2-9-1,,bert1248-2,9,θabáanámu,θabáanámu,[],( 5+ 4 ),['chan2019'],,False,False,,2
+bert1248-2-10-1,,bert1248-2,10,maθuuma,maθuuma,[],or Arabic number,['chan2019'],,False,False,,2
+bert1248-2-11-1,,bert1248-2,11,maθuuma-másíilo-muŋkʼu,maθuuma-másíilo-muŋkʼu,[],,['chan2019'],,False,False,,2
+bert1248-2-12-1,,bert1248-2,12,maθuuma-másíilo-mólaŋ,maθuuma-másíilo-mólaŋ,[],,['chan2019'],,False,False,,2
+bert1248-2-13-1,,bert1248-2,13,maθuuma-másíilo-múuθe,maθuuma-másíilo-múuθe,[],,['chan2019'],,False,False,,2
+bert1248-2-14-1,,bert1248-2,14,maθuuma-másíilo-mənəmu,maθuuma-másíilo-mənəmu,[],,['chan2019'],,False,False,,2
+bert1248-2-15-1,,bert1248-2,15,maθuuma-másíilo-mə́kʼuuʃó,maθuuma-másíilo-mə́kʼuuʃó,[],,['chan2019'],,False,False,,2
+bert1248-2-16-1,,bert1248-2,16,maθuuma-másíilo-makʼɛɛra,maθuuma-másíilo-makʼɛɛra,[],,['chan2019'],,False,False,,2
+bert1248-2-17-1,,bert1248-2,17,maθuuma-másíilo-θabɔ́ɔlaŋ,maθuuma-másíilo-θabɔ́ɔlaŋ,[],,['chan2019'],,False,False,,2
+bert1248-2-18-1,,bert1248-2,18,maθuuma-másíilo-θabóoθe,maθuuma-másíilo-θabóoθe,[],,['chan2019'],,False,False,,2
+bert1248-2-19-1,,bert1248-2,19,maθuuma-másíilo-θabánámu,maθuuma-másíilo-θabánámu,[],,['chan2019'],,False,False,,2
+bert1248-2-20-1,,bert1248-2,20,kʼisʼiríyo,kʼisʼiríyo,[],,['chan2019'],,False,False,,2
+bert1248-2-20-2,,bert1248-2,20,iʃirín,iʃirín,[],< Arabic ,['chan2019'],,True,False,,2
+bert1248-2-21-1,,bert1248-2,21,kʼisʼiríyo-muŋkʼú,kʼisʼiríyo-muŋkʼú,[],,['chan2019'],,False,False,,2
+bert1248-2-22-1,,bert1248-2,22,kʼisʼiríyo-mólaŋ,kʼisʼiríyo-mólaŋ,[],,['chan2019'],,False,False,,2
+bert1248-2-30-1,,bert1248-2,30,kʼisʼiríyo-maθuuma,kʼisʼiríyo-maθuuma,[],,['chan2019'],,False,False,,2
+bert1248-2-40-1,,bert1248-2,40,kʼisʼiríyo-mólaŋ,kʼisʼiríyo-mólaŋ,[],( 20 x 2 ),['chan2019'],,False,False,,2
+bert1248-2-50-1,,bert1248-2,50,maθuuma-yú-mákʼúuʃu,maθuuma-yú-mákʼúuʃu,[],( 10 x 5 ),['chan2019'],,False,False,,2
+bert1248-2-60-1,,bert1248-2,60,kʼisʼiríyo-múθe,kʼisʼiríyo-múθe,[],( 20 x 3 ),['chan2019'],,False,False,,2
+bert1248-2-70-1,,bert1248-2,70,maθuuma-yú-θábóolaŋ,maθuuma-yú-θábóolaŋ,[],( 10 x 7 ),['chan2019'],,False,False,,2
+bert1248-2-80-1,,bert1248-2,80,kʼisʼiríyo-mánámu,kʼisʼiríyo-mánámu,[],( 20 x 4 ),['chan2019'],,False,False,,2
+bert1248-2-90-1,,bert1248-2,90,maθuuma-yú-θabáanámu,maθuuma-yú-θabáanámu,[],(10 x 9 ),['chan2019'],,False,False,,2
+bert1248-2-100-1,,bert1248-2,100,maθuuma-yú-maθuuma,maθuuma-yú-maθuuma,[],,['chan2019'],,False,False,,2
+bert1248-2-100-2,,bert1248-2,100,miya,miya,[],< Arc ,['chan2019'],,True,False,,2
+bert1248-2-1000-1,,bert1248-2,1000,álif,álif,[],( Arabic ),['chan2019'],,False,False,,2

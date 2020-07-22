@@ -1,0 +1,37 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+foau1240-1-1-1,,foau1240-1,1,kiai word gloss,kiai word gloss,[],( one),['chan2019'],,False,True,,1
+foau1240-1-2-1,,foau1240-1,2,ta,ta,[],(lit: ''two''),['chan2019'],,False,False,,1
+foau1240-1-3-1,,foau1240-1,3,bio ta bio kiai,bio ta bio kiai,[],"(lit: ''other two other one'', 2 + 1)",['chan2019'],,False,False,,1
+foau1240-1-4-1,,foau1240-1,4,bio ta bio ta,bio ta bio ta,[],"(lit: ''other two other two'', 2 + 2)",['chan2019'],,False,False,,1
+foau1240-1-5-1,,foau1240-1,5,bio ta bio ta bio kiai,bio ta bio ta bio kiai,[],"(lit: ''other two other two other one'', 2 + 2 + 1)",['chan2019'],,False,False,,1
+foau1240-1-5-2,,foau1240-1,5,or worikre tobia fukari,or worikre tobia fukari,[],"(lit: ''hand side all'', all fingers on one hand)",['chan2019'],,False,True,,1
+foau1240-1-5-3,,foau1240-1,5,note that there,note that there,[],(are two ways to 5.),['chan2019'],,False,True,,1
+foau1240-1-6-1,,foau1240-1,6,worikre tobia kiai,worikre tobia kiai,[],"(lit: ''hand side one'', one hand +1)",['chan2019'],,False,False,,1
+foau1240-1-7-1,,foau1240-1,7,worikre tobia ta,worikre tobia ta,[],"(lit: ''hand side two'', one hand +2)",['chan2019'],,False,False,,1
+foau1240-1-8-1,,foau1240-1,8,worikre tobiabio ta bio kiai,worikre tobiabio ta bio kiai,[],"(lit: ''hand side other two other one'', one hand +2+1)",['chan2019'],,False,False,,1
+foau1240-1-9-1,,foau1240-1,9,worikre tobiabio ta bio ta,worikre tobiabio ta bio ta,[],"(lit: ''hand side other two other two'', one hand +2+2)",['chan2019'],,False,False,,1
+foau1240-1-10-1,,foau1240-1,10,worikre tobia worikre tobia,worikre tobia worikre tobia,[],(lit: ''hand side hand side''),['chan2019'],,False,False,,1
+foau1240-1-10-2,,foau1240-1,10,the hand on one side and,the hand on one side and,[],(the hand on the other side),['chan2019'],,False,True,,1
+foau1240-1-10-3,,foau1240-1,10,there are two ways to say 10,there are two ways to say 10,[],,['chan2019'],,False,True,,1
+foau1240-1-10-4,,foau1240-1,10,worikre tʷota,worikre tʷota,[],( litː ''hand both''),['chan2019'],,False,False,,1
+foau1240-1-11-1,,foau1240-1,11,worikre tʷota rabi kiai,worikre tʷota rabi kiai,[],"(lit: ''hand two toe one"")",['chan2019'],,False,False,,1
+foau1240-1-11-2,,foau1240-1,11,both hands +one toe,both hands +one toe,[],,['chan2019'],,False,True,,1
+foau1240-1-12-1,,foau1240-1,12,worikre tʷota rabi ta,worikre tʷota rabi ta,[],"(lit: ''hand two toe two"")",['chan2019'],,False,False,,1
+foau1240-1-12-2,,foau1240-1,12,both hands +two toes,both hands +two toes,[],,['chan2019'],,False,True,,1
+foau1240-1-13-1,,foau1240-1,13,worikre tʷota rabi bio ta bio kiai,worikre tʷota rabi bio ta bio kiai,[],"(lit: ''hand two toe other two other one"")",['chan2019'],,False,False,,1
+foau1240-1-13-2,,foau1240-1,13,both,both,[],(hands +2 +1 toes),['chan2019'],,False,False,,1
+foau1240-1-14-1,,foau1240-1,14,worikre tʷota rabi bio ta bio ta,worikre tʷota rabi bio ta bio ta,[],"(lit: ''hand two toe other two other two"")",['chan2019'],,False,False,,1
+foau1240-1-14-2,,foau1240-1,14,both,both,[],(hands +2 +2 toes),['chan2019'],,False,False,,1
+foau1240-1-15-1,,foau1240-1,15,(worikre tʷota) rakre tobia fukari,(worikre tʷota) rakre tobia fukari,[],"[lit: ''(hand both) foot side all""]",['chan2019'],,False,False,,1
+foau1240-1-15-2,,foau1240-1,15,both hands +,both hands +,[],( all toes on one foot),['chan2019'],,False,True,,1
+foau1240-1-15-3,,foau1240-1,15,the first two words seem to be optional.,the first two words seem to be optional.,[],,['chan2019'],,False,True,,1
+foau1240-1-16-1,,foau1240-1,16,(worikre tʷota) rakre tobia kiai,(worikre tʷota) rakre tobia kiai,[],"[lit: ''(hand both) foot side one""]",['chan2019'],,False,False,,1
+foau1240-1-16-2,,foau1240-1,16,both hands +,both hands +,[],( one foot +1.),['chan2019'],,False,True,,1
+foau1240-1-17-1,,foau1240-1,17,(worikre tʷota) rakre tobia ta,(worikre tʷota) rakre tobia ta,[],"[lit: ''(hand both) foot side two""]",['chan2019'],,False,False,,1
+foau1240-1-17-2,,foau1240-1,17,both hands +one,both hands +one,[],( foot +2.),['chan2019'],,False,True,,1
+foau1240-1-18-1,,foau1240-1,18,(worikre tʷota) rakre tobia bio ta bio kiai,(worikre tʷota) rakre tobia bio ta bio kiai,[],"[lit: ''(hand both) foot side other two     other one""]",['chan2019'],,False,False,,1
+foau1240-1-18-2,,foau1240-1,18,both hands + one foot +2 +1. Another possible form: worikre tʷota,both hands + one foot +2 +1. Another possible form: worikre tʷota,[],( rakre tobia fukari rakre tobia bio ta bio kiai),['chan2019'],,False,True,,1
+foau1240-1-19-1,,foau1240-1,19,(worikre tʷota) rakre tobia bio ta bio ta,(worikre tʷota) rakre tobia bio ta bio ta,[],"[lit: ''(hand both) foot side other two     other two""]",['chan2019'],,False,False,,1
+foau1240-1-19-2,,foau1240-1,19,both hands + one foot +2 +2.,both hands + one foot +2 +2.,[],,['chan2019'],,False,True,,1
+foau1240-1-20-1,,foau1240-1,20,rakre tʷota,rakre tʷota,[],( lit: ''foot both''),['chan2019'],,False,False,,1
+foau1240-1-20-2,,foau1240-1,20,both feet.,both feet.,[],,['chan2019'],,False,False,,1

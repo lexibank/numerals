@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+koyr1240-1-1-1,,koyr1240-1,1,foo,foo,[],,['chan2019'],,False,False,,1
+koyr1240-1-1-2,,koyr1240-1,1,a-foo,a-foo,[],,['chan2019'],,False,False,,1
+koyr1240-1-2-1,,koyr1240-1,2,hiŋka,hiŋka,[],,['chan2019'],,False,False,,1
+koyr1240-1-3-1,,koyr1240-1,3,hindʒa,hindʒa,[],,['chan2019'],,False,False,,1
+koyr1240-1-4-1,,koyr1240-1,4,taatʃi,taatʃi,[],,['chan2019'],,False,False,,1
+koyr1240-1-5-1,,koyr1240-1,5,ɡuu,ɡuu,[],,['chan2019'],,False,False,,1
+koyr1240-1-6-1,,koyr1240-1,6,iddu,iddu,[],,['chan2019'],,False,False,,1
+koyr1240-1-7-1,,koyr1240-1,7,iiye,iiye,[],,['chan2019'],,False,False,,1
+koyr1240-1-8-1,,koyr1240-1,8,yaaha,yaaha,[],,['chan2019'],,False,False,,1
+koyr1240-1-9-1,,koyr1240-1,9,yaɡɡa,yaɡɡa,[],,['chan2019'],,False,False,,1
+koyr1240-1-10-1,,koyr1240-1,10,woy,woy,[],,['chan2019'],,False,False,,1
+koyr1240-1-10-2,,koyr1240-1,10,wey,wey,[],,['chan2019'],,False,False,,1
+koyr1240-1-11-1,,koyr1240-1,11,woy tʃindi foo,woy tʃindi foo,[],,['chan2019'],,False,False,,1
+koyr1240-1-12-1,,koyr1240-1,12,woy tʃindi hiŋka,woy tʃindi hiŋka,[],,['chan2019'],,False,False,,1
+koyr1240-1-13-1,,koyr1240-1,13,woy tʃindi hindʒa,woy tʃindi hindʒa,[],,['chan2019'],,False,False,,1
+koyr1240-1-14-1,,koyr1240-1,14,woy tʃindi taatʃi,woy tʃindi taatʃi,[],,['chan2019'],,False,False,,1
+koyr1240-1-15-1,,koyr1240-1,15,woy tʃindi ɡuu,woy tʃindi ɡuu,[],,['chan2019'],,False,False,,1
+koyr1240-1-16-1,,koyr1240-1,16,woy tʃindi duu,woy tʃindi duu,[],,['chan2019'],,False,False,,1
+koyr1240-1-17-1,,koyr1240-1,17,woy tʃindi iyye,woy tʃindi iyye,[],,['chan2019'],,False,False,,1
+koyr1240-1-18-1,,koyr1240-1,18,woy tʃindi yaaha,woy tʃindi yaaha,[],,['chan2019'],,False,False,,1
+koyr1240-1-19-1,,koyr1240-1,19,woy tʃindi yaɡɡa,woy tʃindi yaɡɡa,[],,['chan2019'],,False,False,,1
+koyr1240-1-20-1,,koyr1240-1,20,waraŋka,waraŋka,[],,['chan2019'],,False,False,,1
+koyr1240-1-21-1,,koyr1240-1,21,waraŋka tʃindi foo,waraŋka tʃindi foo,[],,['chan2019'],,False,False,,1
+koyr1240-1-22-1,,koyr1240-1,22,waraŋka tʃindi hiŋka,waraŋka tʃindi hiŋka,[],,['chan2019'],,False,False,,1
+koyr1240-1-23-1,,koyr1240-1,23,waraŋka tʃindi hindʒa,waraŋka tʃindi hindʒa,[],,['chan2019'],,False,False,,1
+koyr1240-1-24-1,,koyr1240-1,24,waraŋka tʃindi taatʃi,waraŋka tʃindi taatʃi,[],,['chan2019'],,False,False,,1
+koyr1240-1-25-1,,koyr1240-1,25,waraŋka tʃindi ɡuu,waraŋka tʃindi ɡuu,[],,['chan2019'],,False,False,,1
+koyr1240-1-26-1,,koyr1240-1,26,waraŋka tʃindi duu,waraŋka tʃindi duu,[],,['chan2019'],,False,False,,1
+koyr1240-1-27-1,,koyr1240-1,27,waraŋka tʃindi iyye,waraŋka tʃindi iyye,[],,['chan2019'],,False,False,,1
+koyr1240-1-28-1,,koyr1240-1,28,waraŋka tʃindi yaaha,waraŋka tʃindi yaaha,[],,['chan2019'],,False,False,,1
+koyr1240-1-29-1,,koyr1240-1,29,waraŋka tʃindi yaɡɡa,waraŋka tʃindi yaɡɡa,[],,['chan2019'],,False,False,,1
+koyr1240-1-30-1,,koyr1240-1,30,warandʒa,warandʒa,[],,['chan2019'],,False,False,,1
+koyr1240-1-40-1,,koyr1240-1,40,woy-taatʃi,woy-taatʃi,[],,['chan2019'],,False,False,,1
+koyr1240-1-50-1,,koyr1240-1,50,woy-ɡu,woy-ɡu,[],,['chan2019'],,False,False,,1
+koyr1240-1-60-1,,koyr1240-1,60,woy-du,woy-du,[],,['chan2019'],,False,False,,1
+koyr1240-1-70-1,,koyr1240-1,70,woy-ye,woy-ye,[],,['chan2019'],,False,False,,1
+koyr1240-1-80-1,,koyr1240-1,80,woy-yaaha,woy-yaaha,[],,['chan2019'],,False,False,,1
+koyr1240-1-90-1,,koyr1240-1,90,woy-yaɡɡa,woy-yaɡɡa,[],,['chan2019'],,False,False,,1
+koyr1240-1-100-1,,koyr1240-1,100,dʒoŋɡu,dʒoŋɡu,[],,['chan2019'],,False,False,,1
+koyr1240-1-100-2,,koyr1240-1,100,dʒaŋɡu,dʒaŋɡu,[],,['chan2019'],,False,False,,1
+koyr1240-1-200-1,,koyr1240-1,200,dʒoŋɡu hiŋka,dʒoŋɡu hiŋka,[],,['chan2019'],,False,False,,1
+koyr1240-1-1000-1,,koyr1240-1,1000,dʒember,dʒember,[],,['chan2019'],,False,False,,1
+koyr1240-1-2000-1,,koyr1240-1,2000,dʒember hiŋka,dʒember hiŋka,[],,['chan2019'],,False,False,,1

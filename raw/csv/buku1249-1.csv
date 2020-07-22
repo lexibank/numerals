@@ -1,0 +1,77 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+buku1249-1-1-1,,buku1249-1,1,ndala,ndala,[],,['chan2019'],,False,False,,1
+buku1249-1-1-2,,buku1249-1,1,móótʃa,móótʃa,[],(< Swahili ),['chan2019'],,True,False,,1
+buku1249-1-2-1,,buku1249-1,2,tʃiβili,tʃiβili,[],,['chan2019'],,False,False,,1
+buku1249-1-2-2,,buku1249-1,2,mbííli,mbííli,[],(< Swahili ),['chan2019'],,True,False,,1
+buku1249-1-3-1,,buku1249-1,3,tʃitaru,tʃitaru,[],,['chan2019'],,False,False,,1
+buku1249-1-3-2,,buku1249-1,3,táátu,táátu,[],( Swahili ),['chan2019'],,False,False,,1
+buku1249-1-4-1,,buku1249-1,4,tʃiné,tʃiné,[],,['chan2019'],,False,False,,1
+buku1249-1-4-2,,buku1249-1,4,yine,yine,[],(< Swahili ),['chan2019'],,True,False,,1
+buku1249-1-5-1,,buku1249-1,5,tʃiraano,tʃiraano,[],,['chan2019'],,False,False,,1
+buku1249-1-5-2,,buku1249-1,5,tááno,tááno,[],(< Swahili ),['chan2019'],,True,False,,1
+buku1249-1-6-1,,buku1249-1,6,sííta,sííta,[],,['chan2019'],,False,False,,1
+buku1249-1-6-2,,buku1249-1,6,sííta,sííta,[],(< Arabic ),['chan2019'],,True,False,,1
+buku1249-1-7-1,,buku1249-1,7,saβá,saβá,[],,['chan2019'],,False,False,,1
+buku1249-1-7-2,,buku1249-1,7,saβá,saβá,[],(< Arabic ),['chan2019'],,True,False,,1
+buku1249-1-8-1,,buku1249-1,8,munaane,munaane,[],,['chan2019'],,False,False,,1
+buku1249-1-8-2,,buku1249-1,8,nááne,nááne,[],(< Swahili ),['chan2019'],,True,False,,1
+buku1249-1-9-1,,buku1249-1,9,tisá,tisá,[],,['chan2019'],,False,False,,1
+buku1249-1-9-2,,buku1249-1,9,tisá,tisá,[],(< Arabic ),['chan2019'],,True,False,,1
+buku1249-1-10-1,,buku1249-1,10,kúúmi,kúúmi,[],(< Swahili ),['chan2019'],,True,False,,1
+buku1249-1-10-2,,buku1249-1,10,lííkʰumi,lííkʰumi,[],,['chan2019'],,False,False,,1
+buku1249-1-11-1,,buku1249-1,11,kúmi ná móótʃa,kúmi ná móótʃa,[],,['chan2019'],,False,False,,1
+buku1249-1-11-2,,buku1249-1,11,lííkʰumi na ndala,lííkʰumi na ndala,[],,['chan2019'],,False,False,,1
+buku1249-1-12-1,,buku1249-1,12,kúmi ná mbííli,kúmi ná mbííli,[],,['chan2019'],,False,False,,1
+buku1249-1-12-2,,buku1249-1,12,lííkʰumi na tʃiβili,lííkʰumi na tʃiβili,[],,['chan2019'],,False,False,,1
+buku1249-1-13-1,,buku1249-1,13,kúmi ná táátu,kúmi ná táátu,[],,['chan2019'],,False,False,,1
+buku1249-1-13-2,,buku1249-1,13,lííkʰumi na tʃitaru,lííkʰumi na tʃitaru,[],,['chan2019'],,False,False,,1
+buku1249-1-14-1,,buku1249-1,14,kúmi ná yine,kúmi ná yine,[],,['chan2019'],,False,False,,1
+buku1249-1-14-2,,buku1249-1,14,lííkʰumi na tʃine,lííkʰumi na tʃine,[],,['chan2019'],,False,False,,1
+buku1249-1-15-1,,buku1249-1,15,kúmi ná tááno,kúmi ná tááno,[],,['chan2019'],,False,False,,1
+buku1249-1-15-2,,buku1249-1,15,lííkʰumi na tʃiraan.,lííkʰumi na tʃiraan.,[],,['chan2019'],,False,False,,1
+buku1249-1-16-1,,buku1249-1,16,kúmi ná sííta,kúmi ná sííta,[],,['chan2019'],,False,False,,1
+buku1249-1-16-2,,buku1249-1,16,lííkʰumi na sííta,lííkʰumi na sííta,[],,['chan2019'],,False,False,,1
+buku1249-1-17-1,,buku1249-1,17,kúmi ná sáβá,kúmi ná sáβá,[],,['chan2019'],,False,False,,1
+buku1249-1-17-2,,buku1249-1,17,lííkʰumi na saβá,lííkʰumi na saβá,[],,['chan2019'],,False,False,,1
+buku1249-1-18-1,,buku1249-1,18,kúmi ná nááne,kúmi ná nááne,[],,['chan2019'],,False,False,,1
+buku1249-1-18-2,,buku1249-1,18,lííkʰumi na mun.,lííkʰumi na mun.,[],,['chan2019'],,False,False,,1
+buku1249-1-19-1,,buku1249-1,19,kúmi ná tisá,kúmi ná tisá,[],,['chan2019'],,False,False,,1
+buku1249-1-19-2,,buku1249-1,19,lííkʰumi na tisá,lííkʰumi na tisá,[],,['chan2019'],,False,False,,1
+buku1249-1-20-1,,buku1249-1,20,ʃurííni,ʃurííni,[],(<Ar.),['chan2019'],,True,False,,1
+buku1249-1-20-2,,buku1249-1,20,kámákʰúmí káβíli,kámákʰúmí káβíli,[],,['chan2019'],,False,False,,1
+buku1249-1-21-1,,buku1249-1,21,ʃurííná móótʃa,ʃurííná móótʃa,[],,['chan2019'],,False,False,,1
+buku1249-1-21-2,,buku1249-1,21,kámákʰúmí káβíli n. n.,kámákʰúmí káβíli n. n.,[],,['chan2019'],,False,True,,1
+buku1249-1-22-1,,buku1249-1,22,ʃurííná mbííli,ʃurííná mbííli,[],,['chan2019'],,False,False,,1
+buku1249-1-22-2,,buku1249-1,22,kámákʰúmí káβíli n. tʃ.,kámákʰúmí káβíli n. tʃ.,[],,['chan2019'],,False,True,,1
+buku1249-1-23-1,,buku1249-1,23,ʃurííná táátu,ʃurííná táátu,[],,['chan2019'],,False,False,,1
+buku1249-1-23-2,,buku1249-1,23,kámákʰúmí káβíli n. tʃit.,kámákʰúmí káβíli n. tʃit.,[],,['chan2019'],,False,True,,1
+buku1249-1-24-1,,buku1249-1,24,ʃurííná yine,ʃurííná yine,[],,['chan2019'],,False,False,,1
+buku1249-1-24-2,,buku1249-1,24,kámákʰúmí káβíli n. tʃiné,kámákʰúmí káβíli n. tʃiné,[],,['chan2019'],,False,True,,1
+buku1249-1-25-1,,buku1249-1,25,ʃurííná tááno,ʃurííná tááno,[],,['chan2019'],,False,False,,1
+buku1249-1-25-2,,buku1249-1,25,kámákʰúmí káβíli n. tʃ.,kámákʰúmí káβíli n. tʃ.,[],,['chan2019'],,False,True,,1
+buku1249-1-26-1,,buku1249-1,26,ʃurííná sííta,ʃurííná sííta,[],,['chan2019'],,False,False,,1
+buku1249-1-26-2,,buku1249-1,26,kámákʰúmí káβíli na sííta,kámákʰúmí káβíli na sííta,[],,['chan2019'],,False,False,,1
+buku1249-1-27-1,,buku1249-1,27,ʃurííná sáβá,ʃurííná sáβá,[],,['chan2019'],,False,False,,1
+buku1249-1-27-2,,buku1249-1,27,kámákʰúmí káβíli na saβá,kámákʰúmí káβíli na saβá,[],,['chan2019'],,False,False,,1
+buku1249-1-28-1,,buku1249-1,28,ʃurííná nááne,ʃurííná nááne,[],,['chan2019'],,False,False,,1
+buku1249-1-28-2,,buku1249-1,28,kámákʰúmí káβíli n. m.,kámákʰúmí káβíli n. m.,[],,['chan2019'],,False,True,,1
+buku1249-1-29-1,,buku1249-1,29,ʃurííná tisá,ʃurííná tisá,[],,['chan2019'],,False,False,,1
+buku1249-1-29-2,,buku1249-1,29,kámákʰúmí káβíli na tisá,kámákʰúmí káβíli na tisá,[],,['chan2019'],,False,False,,1
+buku1249-1-30-1,,buku1249-1,30,salasííni,salasííni,[],(<Ar.),['chan2019'],,True,False,,1
+buku1249-1-30-2,,buku1249-1,30,kámákʰúmí kataru,kámákʰúmí kataru,[],,['chan2019'],,False,False,,1
+buku1249-1-40-1,,buku1249-1,40,árúpáyíne,árúpáyíne,[],(<Ar.),['chan2019'],,True,False,,1
+buku1249-1-40-2,,buku1249-1,40,kámákʰúmí káné,kámákʰúmí káné,[],,['chan2019'],,False,False,,1
+buku1249-1-50-1,,buku1249-1,50,kʰaamusííni,kʰaamusííni,[],(Ar.),['chan2019'],,False,False,,1
+buku1249-1-50-2,,buku1249-1,50,kámákʰúmí káraano,kámákʰúmí káraano,[],,['chan2019'],,False,False,,1
+buku1249-1-60-1,,buku1249-1,60,sitííni,sitííni,[],(<Ar.),['chan2019'],,True,False,,1
+buku1249-1-60-2,,buku1249-1,60,kámákʰúmí sííta,kámákʰúmí sííta,[],,['chan2019'],,False,False,,1
+buku1249-1-70-1,,buku1249-1,70,saβaíini,saβaíini,[],(<Ar.),['chan2019'],,True,False,,1
+buku1249-1-70-2,,buku1249-1,70,kámákʰúmí saβá,kámákʰúmí saβá,[],,['chan2019'],,False,False,,1
+buku1249-1-80-1,,buku1249-1,80,samánííni,samánííni,[],(Ar.),['chan2019'],,False,False,,1
+buku1249-1-80-2,,buku1249-1,80,kámákʰúmí munaane,kámákʰúmí munaane,[],,['chan2019'],,False,False,,1
+buku1249-1-90-1,,buku1249-1,90,tísáyíne,tísáyíne,[],(<Ar.),['chan2019'],,True,False,,1
+buku1249-1-90-2,,buku1249-1,90,kámákʰúmí tisá,kámákʰúmí tisá,[],,['chan2019'],,False,False,,1
+buku1249-1-100-1,,buku1249-1,100,miya móótʃa,miya móótʃa,[],( miya < Arabic ),['chan2019'],,True,False,,1
+buku1249-1-200-1,,buku1249-1,200,miya mbííli,miya mbííli,[],,['chan2019'],,False,False,,1
+buku1249-1-1000-1,,buku1249-1,1000,elefu móótʃa,elefu móótʃa,[],( elefu < Arabic ),['chan2019'],,True,False,,1
+buku1249-1-2000-1,,buku1249-1,2000,elefu mbííli,elefu mbííli,[],,['chan2019'],,False,False,,1

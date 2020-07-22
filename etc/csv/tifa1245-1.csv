@@ -1,0 +1,30 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tifa1245-1-1-1,,tifa1245-1,1,makop,makop,[],(litː ' left little finger'),['chan2019'],,False,False,,1
+tifa1245-1-2-1,,tifa1245-1,2,alep,alep,[],(litː 'ring finger'),['chan2019'],,False,False,,1
+tifa1245-1-3-1,,tifa1245-1,3,asumano,asumano,[],(litː 'middle finger'),['chan2019'],,False,False,,1
+tifa1245-1-4-1,,tifa1245-1,4,atailingkal,atailingkal,[],( litː 'index finger'),['chan2019'],,False,False,,1
+tifa1245-1-5-1,,tifa1245-1,5,awakal,awakal,[],(litː 'thumb'),['chan2019'],,False,False,,1
+tifa1245-1-6-1,,tifa1245-1,6,bukupkal,bukupkal,[],( litː 'wrist' ),['chan2019'],,False,False,,1
+tifa1245-1-7-1,,tifa1245-1,7,fetkal,fetkal,[],(litː 'lower arm'),['chan2019'],,False,False,,1
+tifa1245-1-8-1,,tifa1245-1,8,oklungkal,oklungkal,[],(litː 'elbow'),['chan2019'],,False,False,,1
+tifa1245-1-9-1,,tifa1245-1,9,betikal,betikal,[],( litː 'upper arm' ),['chan2019'],,False,False,,1
+tifa1245-1-10-1,,tifa1245-1,10,nakalkal,nakalkal,[],( litː 'shoulder' ),['chan2019'],,False,False,,1
+tifa1245-1-11-1,,tifa1245-1,11,kumkal,kumkal,[],( 'neck' ),['chan2019'],,False,False,,1
+tifa1245-1-12-1,,tifa1245-1,12,talangkal,talangkal,[],( litː 'ear' ),['chan2019'],,False,False,,1
+tifa1245-1-13-1,,tifa1245-1,13,tiinkal,tiinkal,[],( litː 'eye' ),['chan2019'],,False,False,,1
+tifa1245-1-14-1,,tifa1245-1,14,miilt,miilt,[],,['chan2019'],,False,False,,1
+tifa1245-1-14-2,,tifa1245-1,14,mutum,mutum,[],( litː 'nose'),['chan2019'],,False,False,,1
+tifa1245-1-15-1,,tifa1245-1,15,tiin madi,tiin madi,[],(litː 'right eye'),['chan2019'],,False,False,,1
+tifa1245-1-16-1,,tifa1245-1,16,taliang mali foko foko,taliang mali foko foko,[],('right ear'),['chan2019'],,False,False,,1
+tifa1245-1-17-1,,tifa1245-1,17,kum mali foko,kum mali foko,[],(litː 'right neck'),['chan2019'],,False,False,,1
+tifa1245-1-18-1,,tifa1245-1,18,nakal mali foko,nakal mali foko,[],(litː 'right shoulder'),['chan2019'],,False,False,,1
+tifa1245-1-19-1,,tifa1245-1,19,beti mali foko,beti mali foko,[],('right upper arm'),['chan2019'],,False,False,,1
+tifa1245-1-20-1,,tifa1245-1,20,oklung mali foko,oklung mali foko,[],('right wrist'),['chan2019'],,False,False,,1
+tifa1245-1-21-1,,tifa1245-1,21,fet mali foko,fet mali foko,[],('right lower arm'),['chan2019'],,False,False,,1
+tifa1245-1-22-1,,tifa1245-1,22,bukup mali foko,bukup mali foko,[],('right wrist'),['chan2019'],,False,False,,1
+tifa1245-1-23-1,,tifa1245-1,23,awak mali foko,awak mali foko,[],('right thumb'),['chan2019'],,False,False,,1
+tifa1245-1-24-1,,tifa1245-1,24,atailing mali foko,atailing mali foko,[],('right index finger'),['chan2019'],,False,False,,1
+tifa1245-1-25-1,,tifa1245-1,25,asumano mali,asumano mali,[],('right middle finger'),['chan2019'],,False,False,,1
+tifa1245-1-26-1,,tifa1245-1,26,alep mali foko,alep mali foko,[],('right ringer finger'),['chan2019'],,False,False,,1
+tifa1245-1-27-1,,tifa1245-1,27,makop madi,makop madi,[],('right little finger'),['chan2019'],,False,False,,1
+tifa1245-1-28-1,,tifa1245-1,28,deng,deng,[],,['chan2019'],,False,False,,1

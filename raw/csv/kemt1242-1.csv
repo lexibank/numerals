@@ -1,0 +1,27 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kemt1242-1-1-1,,kemt1242-1,1,klaya,klaya,[],,['chan2019'],,False,False,,1
+kemt1242-1-2-1,,kemt1242-1,2,namon,namon,[],,['chan2019'],,False,False,,1
+kemt1242-1-3-1,,kemt1242-1,3,naŋɡlik,naŋɡlik,[],(litː also 'a few' ),['chan2019'],,False,False,,1
+kemt1242-1-4-1,,kemt1242-1,4,namon-namon,namon-namon,[],(litː 'two - two'),['chan2019'],,False,False,,1
+kemt1242-1-5-1,,kemt1242-1,5,ta idi,ta idi,[],"(lit.:'hand side', also, 'complete')",['chan2019'],,False,False,,1
+kemt1242-1-6-1,,kemt1242-1,6,ta idi so klaya,ta idi so klaya,[],(lit.: 'hand side n one'),['chan2019'],,False,False,,1
+kemt1242-1-7-1,,kemt1242-1,7,ta idi so namon,ta idi so namon,[],(lit.: 'hand side in two'),['chan2019'],,False,False,,1
+kemt1242-1-8-1,,kemt1242-1,8,ta idi so naŋɡlik,ta idi so naŋɡlik,[],(lit.: 'hand side in three'),['chan2019'],,False,False,,1
+kemt1242-1-9-1,,kemt1242-1,9,ta idi so namon-namon,ta idi so namon-namon,[],,['chan2019'],,False,False,,1
+kemt1242-1-10-1,,kemt1242-1,10,ta namon,ta namon,[],(lit.: 'hand two'),['chan2019'],,False,False,,1
+kemt1242-1-11-1,,kemt1242-1,11,ta namon masi so klaya,ta namon masi so klaya,[],"(lit.: 'hand two, foot in one')",['chan2019'],,False,False,,1
+kemt1242-1-12-1,,kemt1242-1,12,ta namon masi so namon,ta namon masi so namon,[],"(lit.: 'hand  two, foot in two')",['chan2019'],,False,False,,1
+kemt1242-1-13-1,,kemt1242-1,13,ta namon masi sonaŋɡlik,ta namon masi sonaŋɡlik,[],,['chan2019'],,False,False,,1
+kemt1242-1-14-1,,kemt1242-1,14,ta namon masi so namon-namon,ta namon masi so namon-namon,[],,['chan2019'],,False,False,,1
+kemt1242-1-15-1,,kemt1242-1,15,ta namon masi idi,ta namon masi idi,[],(lit.: 'hand –two – foot – side'),['chan2019'],,False,False,,1
+kemt1242-1-16-1,,kemt1242-1,16,ta namon masi idi so klaya,ta namon masi idi so klaya,[],"(lit.: 'hand two, foot in side one')",['chan2019'],,False,False,,1
+kemt1242-1-17-1,,kemt1242-1,17,ta namon masi idi so namon,ta namon masi idi so namon,[],"(lit.: 'hand two, foot in side two')",['chan2019'],,False,False,,1
+kemt1242-1-18-1,,kemt1242-1,18,ta namom masi idi so naŋɡlik,ta namom masi idi so naŋɡlik,[],"(litː 'hand two, foot in side three')",['chan2019'],,False,False,,1
+kemt1242-1-19-1,,kemt1242-1,19,ta namon masi idi so namon-namon,ta namon masi idi so namon-namon,[],"(litː 'hand two, foot in side four')",['chan2019'],,False,False,,1
+kemt1242-1-20-1,,kemt1242-1,20,sedue si klaya,sedue si klaya,[],"(litː 'man,  'person one')",['chan2019'],,False,False,,1
+kemt1242-1-30-1,,kemt1242-1,30,sedue si klaya,sedue si klaya,[],,['chan2019'],,False,False,,1
+kemt1242-1-30-2,,kemt1242-1,30,ta namon,ta namon,[],"(lit. man person one, hand two)",['chan2019'],,False,False,,1
+kemt1242-1-40-1,,kemt1242-1,40,sedue si namon,sedue si namon,[],(lit.: man person two),['chan2019'],,False,False,,1
+kemt1242-1-50-1,,kemt1242-1,50,sedue si namon,sedue si namon,[],,['chan2019'],,False,False,,1
+kemt1242-1-50-2,,kemt1242-1,50,ta namon,ta namon,[],"(lit.: man person two, hand two)",['chan2019'],,False,False,,1
+kemt1242-1-60-1,,kemt1242-1,60,sedue si naŋɡlik (litt.: man person three) Etc.,sedue si naŋɡlik (litt.: man person three) Etc.,[],,['chan2019'],,False,True,,1

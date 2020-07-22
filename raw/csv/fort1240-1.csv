@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+fort1240-1-1-1,,fort1240-1,1,mo ese,mo ese,[],,['chan2019'],,False,False,,1
+fort1240-1-2-1,,fort1240-1,2,mo rua,mo rua,[],,['chan2019'],,False,False,,1
+fort1240-1-3-1,,fort1240-1,3,mo tolu,mo tolu,[],,['chan2019'],,False,False,,1
+fort1240-1-4-1,,fort1240-1,4,mo βati,mo βati,[],,['chan2019'],,False,False,,1
+fort1240-1-5-1,,fort1240-1,5,mo lima,mo lima,[],,['chan2019'],,False,False,,1
+fort1240-1-6-1,,fort1240-1,6,limaraβe,limaraβe,[],( 5 + 1 ),['chan2019'],,False,False,,1
+fort1240-1-7-1,,fort1240-1,7,raβrua,raβrua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+fort1240-1-8-1,,fort1240-1,8,raβtolu,raβtolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+fort1240-1-9-1,,fort1240-1,9,ramβati,ramβati,[],( 5 + 4 ),['chan2019'],,False,False,,1
+fort1240-1-10-1,,fort1240-1,10,sanaβulu,sanaβulu,[],,['chan2019'],,False,False,,1
+fort1240-1-11-1,,fort1240-1,11,sanaβulu mo ese,sanaβulu mo ese,[],,['chan2019'],,False,False,,1
+fort1240-1-12-1,,fort1240-1,12,sanaβulu mo rua,sanaβulu mo rua,[],,['chan2019'],,False,False,,1
+fort1240-1-13-1,,fort1240-1,13,sanaβulu mo tolu,sanaβulu mo tolu,[],,['chan2019'],,False,False,,1
+fort1240-1-14-1,,fort1240-1,14,sanaβulu mo βati,sanaβulu mo βati,[],,['chan2019'],,False,False,,1
+fort1240-1-15-1,,fort1240-1,15,sanaβulu mo lima,sanaβulu mo lima,[],,['chan2019'],,False,False,,1
+fort1240-1-16-1,,fort1240-1,16,sanaβulu mo limaraβe,sanaβulu mo limaraβe,[],,['chan2019'],,False,False,,1
+fort1240-1-17-1,,fort1240-1,17,sanaβulu mo raβrua,sanaβulu mo raβrua,[],,['chan2019'],,False,False,,1
+fort1240-1-18-1,,fort1240-1,18,sanaβulu mo raβtolu,sanaβulu mo raβtolu,[],,['chan2019'],,False,False,,1
+fort1240-1-19-1,,fort1240-1,19,sanaβulu mo ramβati,sanaβulu mo ramβati,[],,['chan2019'],,False,False,,1
+fort1240-1-20-1,,fort1240-1,20,naβulrua rua,naβulrua rua,[],,['chan2019'],,False,False,,1
+fort1240-1-21-1,,fort1240-1,21,naβulrua rua mo ese,naβulrua rua mo ese,[],,['chan2019'],,False,False,,1
+fort1240-1-22-1,,fort1240-1,22,naβulrua rua mo rua,naβulrua rua mo rua,[],,['chan2019'],,False,False,,1
+fort1240-1-23-1,,fort1240-1,23,naβulrua rua mo tolu,naβulrua rua mo tolu,[],,['chan2019'],,False,False,,1
+fort1240-1-24-1,,fort1240-1,24,naβulrua rua mo βati,naβulrua rua mo βati,[],,['chan2019'],,False,False,,1
+fort1240-1-25-1,,fort1240-1,25,naβulrua rua mo lima,naβulrua rua mo lima,[],,['chan2019'],,False,False,,1
+fort1240-1-26-1,,fort1240-1,26,naβulrua rua mo limaraβe,naβulrua rua mo limaraβe,[],,['chan2019'],,False,False,,1
+fort1240-1-27-1,,fort1240-1,27,naβulrua rua mo raβrua,naβulrua rua mo raβrua,[],,['chan2019'],,False,False,,1
+fort1240-1-28-1,,fort1240-1,28,naβulrua rua mo raβtolu,naβulrua rua mo raβtolu,[],,['chan2019'],,False,False,,1
+fort1240-1-29-1,,fort1240-1,29,naβulrua rua mo ramβati,naβulrua rua mo ramβati,[],,['chan2019'],,False,False,,1
+fort1240-1-30-1,,fort1240-1,30,naβultolu,naβultolu,[],,['chan2019'],,False,False,,1
+fort1240-1-40-1,,fort1240-1,40,naβulβati,naβulβati,[],,['chan2019'],,False,False,,1
+fort1240-1-50-1,,fort1240-1,50,naβullima,naβullima,[],,['chan2019'],,False,False,,1
+fort1240-1-60-1,,fort1240-1,60,naβullimaraβe,naβullimaraβe,[],,['chan2019'],,False,False,,1
+fort1240-1-70-1,,fort1240-1,70,naβulraβrua,naβulraβrua,[],,['chan2019'],,False,False,,1
+fort1240-1-80-1,,fort1240-1,80,naβulraβtolu,naβulraβtolu,[],,['chan2019'],,False,False,,1
+fort1240-1-90-1,,fort1240-1,90,naβulramβati,naβulramβati,[],,['chan2019'],,False,False,,1
+fort1240-1-100-1,,fort1240-1,100,laβul,laβul,[],,['chan2019'],,False,False,,1
+fort1240-1-200-1,,fort1240-1,200,laβulrua,laβulrua,[],,['chan2019'],,False,False,,1
+fort1240-1-1000-1,,fort1240-1,1000,laβul βasanβulu,laβul βasanβulu,[],,['chan2019'],,False,False,,1
+fort1240-1-1000-2,,fort1240-1,1000,wan tasusen,wan tasusen,[],,['chan2019'],,False,False,,1
+fort1240-1-2000-1,,fort1240-1,2000,laβul βa naβulrua,laβul βa naβulrua,[],,['chan2019'],,False,False,,1

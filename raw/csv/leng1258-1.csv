@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+leng1258-1-1-1,,leng1258-1,1,temoyi,temoyi,[],,['chan2019'],,False,False,,1
+leng1258-1-2-1,,leng1258-1,2,tabivili,tabivili,[],,['chan2019'],,False,False,,1
+leng1258-1-3-1,,leng1258-1,3,tabisaso,tabisaso,[],,['chan2019'],,False,False,,1
+leng1258-1-4-1,,leng1258-1,4,tabinayi,tabinayi,[],,['chan2019'],,False,False,,1
+leng1258-1-5-1,,leng1258-1,5,tifvu,tifvu,[],,['chan2019'],,False,False,,1
+leng1258-1-6-1,,leng1258-1,6,tifvu na mwandala,tifvu na mwandala,[],( 5 + 1 ),['chan2019'],,False,False,,1
+leng1258-1-7-1,,leng1258-1,7,tifvu na bandala tabavhili,tifvu na bandala tabavhili,[],( 5 + 2 ),['chan2019'],,False,False,,1
+leng1258-1-8-1,,leng1258-1,8,tifvu na bandala tabisaso,tifvu na bandala tabisaso,[],( 5 + 3 ),['chan2019'],,False,False,,1
+leng1258-1-9-1,,leng1258-1,9,tifvu na bandala tabinayi,tifvu na bandala tabinayi,[],( 5 + 4 ),['chan2019'],,False,False,,1
+leng1258-1-10-1,,leng1258-1,10,taɓu,taɓu,[],,['chan2019'],,False,False,,1
+leng1258-1-11-1,,leng1258-1,11,taɓu na bomoyi,taɓu na bomoyi,[],,['chan2019'],,False,False,,1
+leng1258-1-12-1,,leng1258-1,12,taɓu na bivili,taɓu na bivili,[],,['chan2019'],,False,False,,1
+leng1258-1-13-1,,leng1258-1,13,taɓu na bisaso,taɓu na bisaso,[],,['chan2019'],,False,False,,1
+leng1258-1-14-1,,leng1258-1,14,taɓu na binayi,taɓu na binayi,[],,['chan2019'],,False,False,,1
+leng1258-1-15-1,,leng1258-1,15,taɓu na bifvu,taɓu na bifvu,[],,['chan2019'],,False,False,,1
+leng1258-1-16-1,,leng1258-1,16,taɓu na mwandala,taɓu na mwandala,[],,['chan2019'],,False,False,,1
+leng1258-1-17-1,,leng1258-1,17,taɓu na bandala tabavhili,taɓu na bandala tabavhili,[],,['chan2019'],,False,False,,1
+leng1258-1-18-1,,leng1258-1,18,taɓu na bandala tabisaso,taɓu na bandala tabisaso,[],,['chan2019'],,False,False,,1
+leng1258-1-19-1,,leng1258-1,19,taɓu na bandala tabinayi,taɓu na bandala tabinayi,[],,['chan2019'],,False,False,,1
+leng1258-1-20-1,,leng1258-1,20,mitukhu tamivili,mitukhu tamivili,[],,['chan2019'],,False,False,,1
+leng1258-1-21-1,,leng1258-1,21,mitukhu tamivili na emoyi,mitukhu tamivili na emoyi,[],,['chan2019'],,False,False,,1
+leng1258-1-22-1,,leng1258-1,22,mitukhu tamivili na mivili,mitukhu tamivili na mivili,[],,['chan2019'],,False,False,,1
+leng1258-1-23-1,,leng1258-1,23,mitukhu tamivili na misaso,mitukhu tamivili na misaso,[],,['chan2019'],,False,False,,1
+leng1258-1-24-1,,leng1258-1,24,mitukhu tamivili na minayi,mitukhu tamivili na minayi,[],,['chan2019'],,False,False,,1
+leng1258-1-25-1,,leng1258-1,25,mitukhu tifvu nifvu,mitukhu tifvu nifvu,[],,['chan2019'],,False,False,,1
+leng1258-1-26-1,,leng1258-1,26,mitukhu tamivili na mwandala,mitukhu tamivili na mwandala,[],,['chan2019'],,False,False,,1
+leng1258-1-27-1,,leng1258-1,27,mitukhu tamivili na bandala tabavhili,mitukhu tamivili na bandala tabavhili,[],,['chan2019'],,False,False,,1
+leng1258-1-28-1,,leng1258-1,28,mitukhu tamivili na bandala tabisaso,mitukhu tamivili na bandala tabisaso,[],,['chan2019'],,False,False,,1
+leng1258-1-29-1,,leng1258-1,29,mitukhu tamivili na bandala tabinayi,mitukhu tamivili na bandala tabinayi,[],,['chan2019'],,False,False,,1
+leng1258-1-30-1,,leng1258-1,30,mitukhu tamisaso,mitukhu tamisaso,[],,['chan2019'],,False,False,,1
+leng1258-1-40-1,,leng1258-1,40,mitukhu taminayi,mitukhu taminayi,[],,['chan2019'],,False,False,,1
+leng1258-1-50-1,,leng1258-1,50,mitukhu tifvu,mitukhu tifvu,[],,['chan2019'],,False,False,,1
+leng1258-1-60-1,,leng1258-1,60,mitukhu tifvu na mwandala,mitukhu tifvu na mwandala,[],,['chan2019'],,False,False,,1
+leng1258-1-70-1,,leng1258-1,70,mitukhu tifvu na bandala tabavhili,mitukhu tifvu na bandala tabavhili,[],,['chan2019'],,False,False,,1
+leng1258-1-80-1,,leng1258-1,80,mitukhu tifvu na bandala tabisaso,mitukhu tifvu na bandala tabisaso,[],,['chan2019'],,False,False,,1
+leng1258-1-90-1,,leng1258-1,90,mitukhu tifvu na bandala tabinayi,mitukhu tifvu na bandala tabinayi,[],,['chan2019'],,False,False,,1
+leng1258-1-100-1,,leng1258-1,100,nkama tomoyi,nkama tomoyi,[],,['chan2019'],,False,False,,1
+leng1258-1-100-2,,leng1258-1,100,miya temoyi,miya temoyi,[],,['chan2019'],,False,False,,1
+leng1258-1-200-1,,leng1258-1,200,mikama tamivili,mikama tamivili,[],,['chan2019'],,False,False,,1
+leng1258-1-1000-1,,leng1258-1,1000,losambale,losambale,[],,['chan2019'],,False,False,,1
+leng1258-1-1000-2,,leng1258-1,1000,elefu,elefu,[],( < Swahili ),['chan2019'],,True,False,,1
+leng1258-1-2000-1,,leng1258-1,2000,misambel ta mivili,misambel ta mivili,[],,['chan2019'],,False,False,,1
+leng1258-1-2000-2,,leng1258-1,2000,elefu tipili,elefu tipili,[],,['chan2019'],,False,False,,1

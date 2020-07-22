@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kalu1247-1-1-1,,kalu1247-1,1,mesa,mesa,[],,['chan2019'],,False,False,,1
+kalu1247-1-2-1,,kalu1247-1,2,dua,dua,[],,['chan2019'],,False,False,,1
+kalu1247-1-3-1,,kalu1247-1,3,tallu,tallu,[],,['chan2019'],,False,False,,1
+kalu1247-1-4-1,,kalu1247-1,4,aʔpaʔ,aʔpaʔ,[],,['chan2019'],,False,False,,1
+kalu1247-1-5-1,,kalu1247-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+kalu1247-1-6-1,,kalu1247-1,6,annan,annan,[],,['chan2019'],,False,False,,1
+kalu1247-1-7-1,,kalu1247-1,7,pitu,pitu,[],,['chan2019'],,False,False,,1
+kalu1247-1-8-1,,kalu1247-1,8,karua,karua,[],(10 - 2 ),['chan2019'],,False,False,,1
+kalu1247-1-9-1,,kalu1247-1,9,kasera,kasera,[],(10 - 1),['chan2019'],,False,False,,1
+kalu1247-1-10-1,,kalu1247-1,10,sapulo,sapulo,[],,['chan2019'],,False,False,,1
+kalu1247-1-11-1,,kalu1247-1,11,sapulo mesa,sapulo mesa,[],,['chan2019'],,False,False,,1
+kalu1247-1-12-1,,kalu1247-1,12,sapulo dua,sapulo dua,[],,['chan2019'],,False,False,,1
+kalu1247-1-13-1,,kalu1247-1,13,sapulo tallu,sapulo tallu,[],,['chan2019'],,False,False,,1
+kalu1247-1-14-1,,kalu1247-1,14,sapulo aʔpaʔ,sapulo aʔpaʔ,[],,['chan2019'],,False,False,,1
+kalu1247-1-15-1,,kalu1247-1,15,sapulo lima,sapulo lima,[],,['chan2019'],,False,False,,1
+kalu1247-1-16-1,,kalu1247-1,16,sapulo annan,sapulo annan,[],,['chan2019'],,False,False,,1
+kalu1247-1-17-1,,kalu1247-1,17,sapulo pitu,sapulo pitu,[],,['chan2019'],,False,False,,1
+kalu1247-1-18-1,,kalu1247-1,18,sapulo karua,sapulo karua,[],,['chan2019'],,False,False,,1
+kalu1247-1-19-1,,kalu1247-1,19,sapulo kasera,sapulo kasera,[],,['chan2019'],,False,False,,1
+kalu1247-1-20-1,,kalu1247-1,20,dua pulo,dua pulo,[],,['chan2019'],,False,False,,1
+kalu1247-1-21-1,,kalu1247-1,21,dua pulo mesa,dua pulo mesa,[],,['chan2019'],,False,False,,1
+kalu1247-1-22-1,,kalu1247-1,22,dua pulo dua,dua pulo dua,[],,['chan2019'],,False,False,,1
+kalu1247-1-23-1,,kalu1247-1,23,dua pulo tallu,dua pulo tallu,[],,['chan2019'],,False,False,,1
+kalu1247-1-24-1,,kalu1247-1,24,dua pulo aʔpaʔ,dua pulo aʔpaʔ,[],,['chan2019'],,False,False,,1
+kalu1247-1-25-1,,kalu1247-1,25,dua pulo lima,dua pulo lima,[],,['chan2019'],,False,False,,1
+kalu1247-1-26-1,,kalu1247-1,26,dua pulo annan,dua pulo annan,[],,['chan2019'],,False,False,,1
+kalu1247-1-27-1,,kalu1247-1,27,dua pulo pitu,dua pulo pitu,[],,['chan2019'],,False,False,,1
+kalu1247-1-28-1,,kalu1247-1,28,dua pulo karua,dua pulo karua,[],,['chan2019'],,False,False,,1
+kalu1247-1-29-1,,kalu1247-1,29,dua pulo kasera,dua pulo kasera,[],,['chan2019'],,False,False,,1
+kalu1247-1-30-1,,kalu1247-1,30,tallu pulo,tallu pulo,[],,['chan2019'],,False,False,,1
+kalu1247-1-40-1,,kalu1247-1,40,aʔpaʔ pulo,aʔpaʔ pulo,[],,['chan2019'],,False,False,,1
+kalu1247-1-50-1,,kalu1247-1,50,lima pulo,lima pulo,[],,['chan2019'],,False,False,,1
+kalu1247-1-60-1,,kalu1247-1,60,annan pulon,annan pulon,[],,['chan2019'],,False,False,,1
+kalu1247-1-70-1,,kalu1247-1,70,pitu pulon,pitu pulon,[],,['chan2019'],,False,False,,1
+kalu1247-1-80-1,,kalu1247-1,80,karua pulon,karua pulon,[],,['chan2019'],,False,False,,1
+kalu1247-1-90-1,,kalu1247-1,90,kasera pulon,kasera pulon,[],,['chan2019'],,False,False,,1
+kalu1247-1-100-1,,kalu1247-1,100,saratuʔ,saratuʔ,[],,['chan2019'],,False,False,,1
+kalu1247-1-200-1,,kalu1247-1,200,dua ratuʔ,dua ratuʔ,[],,['chan2019'],,False,False,,1
+kalu1247-1-1000-1,,kalu1247-1,1000,sasaʔbu,sasaʔbu,[],,['chan2019'],,False,False,,1
+kalu1247-1-2000-1,,kalu1247-1,2000,dua saʔbu,dua saʔbu,[],,['chan2019'],,False,False,,1

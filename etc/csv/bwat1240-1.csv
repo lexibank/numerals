@@ -1,0 +1,24 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bwat1240-1-1-1,,bwat1240-1,1,θaːŋ,θaːŋ,[],,['chan2019'],,False,False,,1
+bwat1240-1-1-2,,bwat1240-1,1,θaː,θaː,[],,['chan2019'],,False,False,,1
+bwat1240-1-2-1,,bwat1240-1,2,ʈalo,ʈalo,[],,['chan2019'],,False,False,,1
+bwat1240-1-3-1,,bwat1240-1,3,ʈien,ʈien,[],,['chan2019'],,False,False,,1
+bwat1240-1-4-1,,bwat1240-1,4,fae,fae,[],,['chan2019'],,False,False,,1
+bwat1240-1-4-2,,bwat1240-1,4,faeː,faeː,[],,['chan2019'],,False,False,,1
+bwat1240-1-5-1,,bwat1240-1,5,nim,nim,[],( litː 'hand' ),['chan2019'],,False,False,,1
+bwat1240-1-6-1,,bwat1240-1,6,nim ᵐbʷa θaːŋ,nim ᵐbʷa θaːŋ,[],( 5 + 1 ),['chan2019'],,False,False,,1
+bwat1240-1-7-1,,bwat1240-1,7,nim ᵐbʷa ʈalo,nim ᵐbʷa ʈalo,[],( 5 + 2 ),['chan2019'],,False,False,,1
+bwat1240-1-8-1,,bwat1240-1,8,nim ᵐbʷa ʈien,nim ᵐbʷa ʈien,[],( 5 + 3 ),['chan2019'],,False,False,,1
+bwat1240-1-9-1,,bwat1240-1,9,nim ᵐbʷa faeː,nim ᵐbʷa faeː,[],( 5 + 4 ),['chan2019'],,False,False,,1
+bwat1240-1-10-1,,bwat1240-1,10,ᶮɟoa-lu-θiː-ᶮɟe,ᶮɟoa-lu-θiː-ᶮɟe,[],( litː 'completed two hands'),['chan2019'],,False,False,,1
+bwat1240-1-11-1,,bwat1240-1,11,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa θaːŋ,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa θaːŋ,[],,['chan2019'],,False,False,,1
+bwat1240-1-12-1,,bwat1240-1,12,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈalo,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈalo,[],,['chan2019'],,False,False,,1
+bwat1240-1-13-1,,bwat1240-1,13,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈien,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ʈien,[],,['chan2019'],,False,False,,1
+bwat1240-1-14-1,,bwat1240-1,14,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa faeː,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa faeː,[],,['chan2019'],,False,False,,1
+bwat1240-1-15-1,,bwat1240-1,15,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim,[],,['chan2019'],,False,False,,1
+bwat1240-1-16-1,,bwat1240-1,16,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa θaːŋ,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa θaːŋ,[],,['chan2019'],,False,False,,1
+bwat1240-1-17-1,,bwat1240-1,17,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈalo,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈalo,[],,['chan2019'],,False,False,,1
+bwat1240-1-18-1,,bwat1240-1,18,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈien,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa ʈien,[],,['chan2019'],,False,False,,1
+bwat1240-1-19-1,,bwat1240-1,19,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa faeː,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa nim ᵐbʷa faeː,[],,['chan2019'],,False,False,,1
+bwat1240-1-20-1,,bwat1240-1,20,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ᶮɟoa-lu-xa-ᶮɟe,ᶮɟoa-lu-θiː-ᶮɟe (ka) ᵐbʷa ᶮɟoa-lu-xa-ᶮɟe,[],,['chan2019'],,False,False,,1
+bwat1240-1-20-2,,bwat1240-1,20,θaːŋe-a-ɣaːᵐbuit,θaːŋe-a-ɣaːᵐbuit,[],(litː 'one person'),['chan2019'],,False,False,,1

@@ -1,0 +1,64 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hili1240-2-1-1,,hili1240-2,1,i'sa,i'sa,[],,['chan2019'],,False,False,,2
+hili1240-2-2-1,,hili1240-2,2,du'ha,du'ha,[],,['chan2019'],,False,False,,2
+hili1240-2-3-1,,hili1240-2,3,'tatlo,'tatlo,[],,['chan2019'],,False,False,,2
+hili1240-2-4-1,,hili1240-2,4,'apat,'apat,[],,['chan2019'],,False,False,,2
+hili1240-2-5-1,,hili1240-2,5,li'ma,li'ma,[],,['chan2019'],,False,False,,2
+hili1240-2-6-1,,hili1240-2,6,ʔanom,ʔanom,[],,['chan2019'],,False,False,,2
+hili1240-2-7-1,,hili1240-2,7,pi'to,pi'to,[],,['chan2019'],,False,False,,2
+hili1240-2-8-1,,hili1240-2,8,wa'lo,wa'lo,[],,['chan2019'],,False,False,,2
+hili1240-2-9-1,,hili1240-2,9,si'yam,si'yam,[],,['chan2019'],,False,False,,2
+hili1240-2-10-1,,hili1240-2,10,na'puloʔ,na'puloʔ,[],,['chan2019'],,False,False,,2
+hili1240-2-11-1,,hili1240-2,11,na'puloʔ ka i'sa,na'puloʔ ka i'sa,[],,['chan2019'],,False,False,,2
+hili1240-2-11-2,,hili1240-2,11,onsi,onsi,[],< Spanish ,['chan2019'],,True,False,,2
+hili1240-2-12-1,,hili1240-2,12,na'puloʔ ka du'ha,na'puloʔ ka du'ha,[],,['chan2019'],,False,False,,2
+hili1240-2-12-2,,hili1240-2,12,dosi,dosi,[],,['chan2019'],,False,False,,2
+hili1240-2-13-1,,hili1240-2,13,na'puloʔ ka 'tatlo,na'puloʔ ka 'tatlo,[],,['chan2019'],,False,False,,2
+hili1240-2-13-2,,hili1240-2,13,tresi,tresi,[],,['chan2019'],,False,False,,2
+hili1240-2-14-1,,hili1240-2,14,na'puloʔ ka 'apat,na'puloʔ ka 'apat,[],,['chan2019'],,False,False,,2
+hili1240-2-14-2,,hili1240-2,14,katorsi,katorsi,[],,['chan2019'],,False,False,,2
+hili1240-2-15-1,,hili1240-2,15,na'puloʔ ka li'ma,na'puloʔ ka li'ma,[],,['chan2019'],,False,False,,2
+hili1240-2-15-2,,hili1240-2,15,kinsi,kinsi,[],,['chan2019'],,False,False,,2
+hili1240-2-16-1,,hili1240-2,16,na'puloʔ ka ʔanom,na'puloʔ ka ʔanom,[],,['chan2019'],,False,False,,2
+hili1240-2-16-2,,hili1240-2,16,dyisisais,dyisisais,[],,['chan2019'],,False,False,,2
+hili1240-2-17-1,,hili1240-2,17,na'puloʔ ka pi'to,na'puloʔ ka pi'to,[],,['chan2019'],,False,False,,2
+hili1240-2-17-2,,hili1240-2,17,dyisisyiti,dyisisyiti,[],,['chan2019'],,False,False,,2
+hili1240-2-18-1,,hili1240-2,18,na'puloʔ ka wa'lo,na'puloʔ ka wa'lo,[],,['chan2019'],,False,False,,2
+hili1240-2-18-2,,hili1240-2,18,dyisiotso,dyisiotso,[],,['chan2019'],,False,False,,2
+hili1240-2-19-1,,hili1240-2,19,na'puloʔ ka si'yam,na'puloʔ ka si'yam,[],,['chan2019'],,False,False,,2
+hili1240-2-19-2,,hili1240-2,19,dyisinuwibi,dyisinuwibi,[],,['chan2019'],,False,False,,2
+hili1240-2-20-1,,hili1240-2,20,du'ha ka 'pulo,du'ha ka 'pulo,[],,['chan2019'],,False,False,,2
+hili1240-2-20-2,,hili1240-2,20,benti,benti,[],,['chan2019'],,False,False,,2
+hili1240-2-21-1,,hili1240-2,21,du'ha ka 'pulo i'sa,du'ha ka 'pulo i'sa,[],,['chan2019'],,False,False,,2
+hili1240-2-21-2,,hili1240-2,21,benti uno,benti uno,[],,['chan2019'],,False,False,,2
+hili1240-2-22-1,,hili1240-2,22,du'ha ka 'pulo du'ha,du'ha ka 'pulo du'ha,[],,['chan2019'],,False,False,,2
+hili1240-2-22-2,,hili1240-2,22,benti dos,benti dos,[],,['chan2019'],,False,False,,2
+hili1240-2-23-1,,hili1240-2,23,du'ha ka 'pulo 'tatlo,du'ha ka 'pulo 'tatlo,[],,['chan2019'],,False,False,,2
+hili1240-2-23-2,,hili1240-2,23,benti tris,benti tris,[],,['chan2019'],,False,False,,2
+hili1240-2-24-1,,hili1240-2,24,du'ha ka 'pulo 'apat,du'ha ka 'pulo 'apat,[],,['chan2019'],,False,False,,2
+hili1240-2-24-2,,hili1240-2,24,benti kwatro,benti kwatro,[],,['chan2019'],,False,False,,2
+hili1240-2-25-1,,hili1240-2,25,du'ha ka 'pulo li'ma,du'ha ka 'pulo li'ma,[],,['chan2019'],,False,False,,2
+hili1240-2-25-2,,hili1240-2,25,benti siŋko,benti siŋko,[],,['chan2019'],,False,False,,2
+hili1240-2-26-1,,hili1240-2,26,du'ha ka 'pulo ʔanom,du'ha ka 'pulo ʔanom,[],,['chan2019'],,False,False,,2
+hili1240-2-26-2,,hili1240-2,26,benti sais,benti sais,[],,['chan2019'],,False,False,,2
+hili1240-2-27-1,,hili1240-2,27,du'ha ka 'pulo pi'to,du'ha ka 'pulo pi'to,[],,['chan2019'],,False,False,,2
+hili1240-2-27-2,,hili1240-2,27,benti syiti,benti syiti,[],,['chan2019'],,False,False,,2
+hili1240-2-28-1,,hili1240-2,28,du'ha ka 'pulo wa'lo,du'ha ka 'pulo wa'lo,[],,['chan2019'],,False,False,,2
+hili1240-2-28-2,,hili1240-2,28,benti otso,benti otso,[],,['chan2019'],,False,False,,2
+hili1240-2-29-1,,hili1240-2,29,du'ha ka 'pulo si'yam,du'ha ka 'pulo si'yam,[],,['chan2019'],,False,False,,2
+hili1240-2-29-2,,hili1240-2,29,benti nuwibi,benti nuwibi,[],,['chan2019'],,False,False,,2
+hili1240-2-30-1,,hili1240-2,30,trainta,trainta,[],,['chan2019'],,False,False,,2
+hili1240-2-40-1,,hili1240-2,40,kwarinta,kwarinta,[],,['chan2019'],,False,False,,2
+hili1240-2-50-1,,hili1240-2,50,siŋkwenta,siŋkwenta,[],,['chan2019'],,False,False,,2
+hili1240-2-60-1,,hili1240-2,60,sesenta,sesenta,[],,['chan2019'],,False,False,,2
+hili1240-2-70-1,,hili1240-2,70,setenta,setenta,[],,['chan2019'],,False,False,,2
+hili1240-2-80-1,,hili1240-2,80,otsenta,otsenta,[],,['chan2019'],,False,False,,2
+hili1240-2-90-1,,hili1240-2,90,nobenta,nobenta,[],,['chan2019'],,False,False,,2
+hili1240-2-100-1,,hili1240-2,100,i'sa ka ɡatos,i'sa ka ɡatos,[],,['chan2019'],,False,False,,2
+hili1240-2-100-2,,hili1240-2,100,sien,sien,[],,['chan2019'],,False,False,,2
+hili1240-2-200-1,,hili1240-2,200,du'ha ka ɡatos,du'ha ka ɡatos,[],,['chan2019'],,False,False,,2
+hili1240-2-200-2,,hili1240-2,200,dos sientos,dos sientos,[],,['chan2019'],,False,False,,2
+hili1240-2-1000-1,,hili1240-2,1000,i'sa ka 'libo,i'sa ka 'libo,[],,['chan2019'],,False,False,,2
+hili1240-2-1000-2,,hili1240-2,1000,mil,mil,[],,['chan2019'],,False,False,,2
+hili1240-2-2000-1,,hili1240-2,2000,du'ha ka 'libo,du'ha ka 'libo,[],,['chan2019'],,False,False,,2
+hili1240-2-2000-2,,hili1240-2,2000,dos mil,dos mil,[],,['chan2019'],,False,False,,2

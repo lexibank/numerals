@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nucl1622-1-1-1,,nucl1622-1,1,hjakod,hjakod,[],,['chan2019'],,False,False,,1
+nucl1622-1-2-1,,nucl1622-1,2,inah,inah,[],,['chan2019'],,False,False,,1
+nucl1622-1-3-1,,nucl1622-1,3,inhjakod,inhjakod,[],(2 + 1) <inhjakod ‘three’,['chan2019'],,False,False,,1
+nucl1622-1-4-1,,nucl1622-1,4,inahinah,inahinah,[],(2 + 2) < inahinah ‘four’,['chan2019'],,False,False,,1
+nucl1622-1-5-1,,nucl1622-1,5,mbja-lay-saŋɡa,mbja-lay-saŋɡa,[],(litː 'all-side-hand'),['chan2019'],,False,False,,1
+nucl1622-1-6-1,,nucl1622-1,6,laɣ-saŋɡa-hjakod,laɣ-saŋɡa-hjakod,[],(litː 'side-hand+1'),['chan2019'],,False,False,,1
+nucl1622-1-7-1,,nucl1622-1,7,laɣ-saŋɡa-inah,laɣ-saŋɡa-inah,[],(litː 'side-hand+2'),['chan2019'],,False,False,,1
+nucl1622-1-8-1,,nucl1622-1,8,laɣ-saŋɡa-inhjakod,laɣ-saŋɡa-inhjakod,[],(litː 'side-hand+3'),['chan2019'],,False,False,,1
+nucl1622-1-9-1,,nucl1622-1,9,laɣ-saŋɡa-inahinah,laɣ-saŋɡa-inahinah,[],(litː 'side-hand+4'),['chan2019'],,False,False,,1
+nucl1622-1-10-1,,nucl1622-1,10,saŋɡa-balen,saŋɡa-balen,[],(litː 'hand-finish'),['chan2019'],,False,False,,1
+nucl1622-1-11-1,,nucl1622-1,11,taɡu-hjakod,taɡu-hjakod,[],(litː 'foot+1'),['chan2019'],,False,False,,1
+nucl1622-1-12-1,,nucl1622-1,12,taɡu-inah,taɡu-inah,[],(litː 'foot+2'),['chan2019'],,False,False,,1
+nucl1622-1-13-1,,nucl1622-1,13,taɡu-inhjakod,taɡu-inhjakod,[],(litː 'foot+3'),['chan2019'],,False,False,,1
+nucl1622-1-14-1,,nucl1622-1,14,taɡu-inahinah,taɡu-inahinah,[],(litː 'foot+4'),['chan2019'],,False,False,,1
+nucl1622-1-15-1,,nucl1622-1,15,mbja-laɣ-taɡu,mbja-laɣ-taɡu,[],(litː 'all-side-foot'),['chan2019'],,False,False,,1
+nucl1622-1-16-1,,nucl1622-1,16,laɣ-taɡu-hjakod,laɣ-taɡu-hjakod,[],(litː 'side-foot+1'),['chan2019'],,False,False,,1
+nucl1622-1-17-1,,nucl1622-1,17,laɣ-taɡu-inah,laɣ-taɡu-inah,[],(litː 'side-foot+2'),['chan2019'],,False,False,,1
+nucl1622-1-18-1,,nucl1622-1,18,laɣ-taɡu-inhjakod,laɣ-taɡu-inhjakod,[],(litː 'side-foot+3'),['chan2019'],,False,False,,1
+nucl1622-1-19-1,,nucl1622-1,19,laɣ-taɡu-inahinah,laɣ-taɡu-inahinah,[],(litː 'side-foot+4'),['chan2019'],,False,False,,1
+nucl1622-1-20-1,,nucl1622-1,20,taɡu-balen,taɡu-balen,[],(litː 'foot-finish'),['chan2019'],,False,False,,1

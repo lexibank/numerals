@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kutu1263-1-1-1,,kutu1263-1,1,-imwe,-imwe,[],,['chan2019'],,False,False,,1
+kutu1263-1-2-1,,kutu1263-1,2,-bili,-bili,[],,['chan2019'],,False,False,,1
+kutu1263-1-3-1,,kutu1263-1,3,-datu,-datu,[],,['chan2019'],,False,False,,1
+kutu1263-1-4-1,,kutu1263-1,4,-ne,-ne,[],,['chan2019'],,False,False,,1
+kutu1263-1-5-1,,kutu1263-1,5,-tano,-tano,[],,['chan2019'],,False,False,,1
+kutu1263-1-6-1,,kutu1263-1,6,sita,sita,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-7-1,,kutu1263-1,7,saba,saba,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-8-1,,kutu1263-1,8,name,name,[],,['chan2019'],,False,False,,1
+kutu1263-1-9-1,,kutu1263-1,9,tisa,tisa,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-10-1,,kutu1263-1,10,kumi,kumi,[],,['chan2019'],,False,False,,1
+kutu1263-1-11-1,,kutu1263-1,11,kumi na -imwe,kumi na -imwe,[],,['chan2019'],,False,False,,1
+kutu1263-1-12-1,,kutu1263-1,12,kumi na -bili,kumi na -bili,[],,['chan2019'],,False,False,,1
+kutu1263-1-13-1,,kutu1263-1,13,kumi na -datu,kumi na -datu,[],,['chan2019'],,False,False,,1
+kutu1263-1-14-1,,kutu1263-1,14,kumi na -ne,kumi na -ne,[],,['chan2019'],,False,False,,1
+kutu1263-1-15-1,,kutu1263-1,15,kumi na -tano,kumi na -tano,[],,['chan2019'],,False,False,,1
+kutu1263-1-16-1,,kutu1263-1,16,kumi na sita,kumi na sita,[],,['chan2019'],,False,False,,1
+kutu1263-1-17-1,,kutu1263-1,17,kumi na saba,kumi na saba,[],,['chan2019'],,False,False,,1
+kutu1263-1-18-1,,kutu1263-1,18,kumi na name,kumi na name,[],,['chan2019'],,False,False,,1
+kutu1263-1-19-1,,kutu1263-1,19,kumi na tisa,kumi na tisa,[],,['chan2019'],,False,False,,1
+kutu1263-1-20-1,,kutu1263-1,20,iʃilini,iʃilini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-21-1,,kutu1263-1,21,iʃilini na -imwe,iʃilini na -imwe,[],,['chan2019'],,False,False,,1
+kutu1263-1-22-1,,kutu1263-1,22,iʃilini na -bili,iʃilini na -bili,[],,['chan2019'],,False,False,,1
+kutu1263-1-23-1,,kutu1263-1,23,iʃilini na -datu,iʃilini na -datu,[],,['chan2019'],,False,False,,1
+kutu1263-1-24-1,,kutu1263-1,24,iʃilini na -ne,iʃilini na -ne,[],,['chan2019'],,False,False,,1
+kutu1263-1-25-1,,kutu1263-1,25,iʃilini na -tano,iʃilini na -tano,[],,['chan2019'],,False,False,,1
+kutu1263-1-26-1,,kutu1263-1,26,iʃilini na sita,iʃilini na sita,[],,['chan2019'],,False,False,,1
+kutu1263-1-27-1,,kutu1263-1,27,iʃilini na saba,iʃilini na saba,[],,['chan2019'],,False,False,,1
+kutu1263-1-28-1,,kutu1263-1,28,iʃilini na name,iʃilini na name,[],,['chan2019'],,False,False,,1
+kutu1263-1-29-1,,kutu1263-1,29,iʃilini na tisa,iʃilini na tisa,[],,['chan2019'],,False,False,,1
+kutu1263-1-30-1,,kutu1263-1,30,selasini,selasini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-40-1,,kutu1263-1,40,alubaini,alubaini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-50-1,,kutu1263-1,50,hamsini,hamsini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-60-1,,kutu1263-1,60,sitini,sitini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-70-1,,kutu1263-1,70,sabini,sabini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-80-1,,kutu1263-1,80,semanini,semanini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-90-1,,kutu1263-1,90,tisini,tisini,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-100-1,,kutu1263-1,100,mia,mia,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-200-1,,kutu1263-1,200,mia mbili,mia mbili,[],,['chan2019'],,False,False,,1
+kutu1263-1-1000-1,,kutu1263-1,1000,elfu,elfu,[],( < Kiswahili < Arabic ),['chan2019'],,True,False,,1
+kutu1263-1-2000-1,,kutu1263-1,2000,elfu mbili,elfu mbili,[],,['chan2019'],,False,False,,1

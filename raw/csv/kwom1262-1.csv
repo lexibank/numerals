@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kwom1262-1-1-1,,kwom1262-1,1,pochi,pochi,[],,['chan2019'],,False,False,,1
+kwom1262-1-1-2,,kwom1262-1,1,pondat,pondat,[],,['chan2019'],,False,False,,1
+kwom1262-1-2-1,,kwom1262-1,2,upurus,upurus,[],,['chan2019'],,False,False,,1
+kwom1262-1-3-1,,kwom1262-1,3,purachara,purachara,[],,['chan2019'],,False,False,,1
+kwom1262-1-3-2,,kwom1262-1,3,dupura kara,dupura kara,[],,['chan2019'],,False,False,,1
+kwom1262-1-4-1,,kwom1262-1,4,dupura kapura,dupura kapura,[],,['chan2019'],,False,False,,1
+kwom1262-1-5-1,,kwom1262-1,5,yoko tapa,yoko tapa,[],,['chan2019'],,False,False,,1
+kwom1262-1-6-1,,kwom1262-1,6,yoko tapa pondat,yoko tapa pondat,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kwom1262-1-7-1,,kwom1262-1,7,yoko tapa upurus,yoko tapa upurus,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kwom1262-1-8-1,,kwom1262-1,8,yoko tapa purachara,yoko tapa purachara,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kwom1262-1-9-1,,kwom1262-1,9,yoko tapa dupura kapura,yoko tapa dupura kapura,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kwom1262-1-10-1,,kwom1262-1,10,yoko tapa yoko tapa,yoko tapa yoko tapa,[],( 5 + 5 ),['chan2019'],,False,False,,1
+kwom1262-1-11-1,,kwom1262-1,11,yoko tapa yoko tapa yatii pondat,yoko tapa yoko tapa yatii pondat,[],( litː 'yatii' means 'foot'),['chan2019'],,False,False,,1
+kwom1262-1-12-1,,kwom1262-1,12,yoko tapa yoko tapa yatii upurus,yoko tapa yoko tapa yatii upurus,[],,['chan2019'],,False,False,,1
+kwom1262-1-13-1,,kwom1262-1,13,yoko tapa yoko tapa yatii purachara,yoko tapa yoko tapa yatii purachara,[],,['chan2019'],,False,False,,1
+kwom1262-1-14-1,,kwom1262-1,14,yoko tapa yoko tapa yatii dupura kapura,yoko tapa yoko tapa yatii dupura kapura,[],,['chan2019'],,False,False,,1
+kwom1262-1-15-1,,kwom1262-1,15,yoko tapa yoko tapa yatii yoko tapa,yoko tapa yoko tapa yatii yoko tapa,[],,['chan2019'],,False,False,,1
+kwom1262-1-16-1,,kwom1262-1,16,yoko tapa yoko tapa yatii yoko tapa pondat,yoko tapa yoko tapa yatii yoko tapa pondat,[],,['chan2019'],,False,False,,1
+kwom1262-1-17-1,,kwom1262-1,17,yoko tapa yoko tapa yatii yoko tapa upurus,yoko tapa yoko tapa yatii yoko tapa upurus,[],,['chan2019'],,False,False,,1
+kwom1262-1-18-1,,kwom1262-1,18,yoko tapa yoko tapa yatii yoko tapa purachara,yoko tapa yoko tapa yatii yoko tapa purachara,[],,['chan2019'],,False,False,,1
+kwom1262-1-19-1,,kwom1262-1,19,yoko tapa yoko tapa yatii yoko tapa dupura kapura,yoko tapa yoko tapa yatii yoko tapa dupura kapura,[],,['chan2019'],,False,False,,1
+kwom1262-1-20-1,,kwom1262-1,20,ma pondat,ma pondat,[],,['chan2019'],,False,False,,1

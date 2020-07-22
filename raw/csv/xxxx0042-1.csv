@@ -1,0 +1,59 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+xxxx0042-1-1-1,,xxxx0042-1,1,ehu,ehu,[],,['chan2019'],,False,False,ehu,2
+xxxx0042-1-2-1,,xxxx0042-1,2,riyau,riyau,[],,['chan2019'],,False,False,riau,2
+xxxx0042-1-3-1,,xxxx0042-1,3,siliː,siliː,[],,['chan2019'],,False,False,silih,2
+xxxx0042-1-4-1,,xxxx0042-1,4,pahiyɛu,pahiyɛu,[],,['chan2019'],,False,False,pahieu,2
+xxxx0042-1-5-1,,xxxx0042-1,5,limau,limau,[],,['chan2019'],,False,False,l̹imau,2
+xxxx0042-1-6-1,,xxxx0042-1,6,wenɛu,wenɛu,[],,['chan2019'],,False,False,weneu,2
+xxxx0042-1-7-1,,xxxx0042-1,7,isuː,isuː,[],,['chan2019'],,False,False,isuh,2
+xxxx0042-1-8-1,,xxxx0042-1,8,waluː,waluː,[],,['chan2019'],,False,False,waluh,2
+xxxx0042-1-9-1,,xxxx0042-1,9,tuwau,tuwau,[],,['chan2019'],,False,False,duwau,2
+xxxx0042-1-10-1,,xxxx0042-1,10,eisɛk,eisɛk,[],,['chan2019'],,False,False,eisek,2
+xxxx0042-1-10-2,,xxxx0042-1,10,ehk,ehk,[],,['chan2019'],,False,False,,2
+xxxx0042-1-10-3,,xxxx0042-1,10,ŋoul,ŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-11-1,,xxxx0042-1,11,eisek ehu,eisek ehu,[],,['chan2019'],,False,False,,2
+xxxx0042-1-12-1,,xxxx0042-1,12,eisek riau,eisek riau,[],,['chan2019'],,False,False,,2
+xxxx0042-1-13-1,,xxxx0042-1,13,eisek silih,eisek silih,[],,['chan2019'],,False,False,,2
+xxxx0042-1-14-1,,xxxx0042-1,14,eisek pahieu,eisek pahieu,[],,['chan2019'],,False,False,,2
+xxxx0042-1-15-1,,xxxx0042-1,15,eisek limau,eisek limau,[],,['chan2019'],,False,False,,2
+xxxx0042-1-16-1,,xxxx0042-1,16,eisek weneu,eisek weneu,[],,['chan2019'],,False,False,,2
+xxxx0042-1-17-1,,xxxx0042-1,17,eisek isuh,eisek isuh,[],,['chan2019'],,False,False,,2
+xxxx0042-1-18-1,,xxxx0042-1,18,eisek waluh,eisek waluh,[],,['chan2019'],,False,False,,2
+xxxx0042-1-19-1,,xxxx0042-1,19,eisek duwah,eisek duwah,[],,['chan2019'],,False,False,,2
+xxxx0042-1-20-1,,xxxx0042-1,20,rieisek,rieisek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-20-2,,xxxx0042-1,20,iehk,iehk,[],,['chan2019'],,False,False,,2
+xxxx0042-1-20-3,,xxxx0042-1,20,rieŋoul,rieŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-21-1,,xxxx0042-1,21,rieisek ehu,rieisek ehu,[],,['chan2019'],,False,False,,2
+xxxx0042-1-22-1,,xxxx0042-1,22,rieisek riau,rieisek riau,[],,['chan2019'],,False,False,,2
+xxxx0042-1-23-1,,xxxx0042-1,23,rieisek silih,rieisek silih,[],,['chan2019'],,False,False,,2
+xxxx0042-1-24-1,,xxxx0042-1,24,rieisek pahieu,rieisek pahieu,[],,['chan2019'],,False,False,,2
+xxxx0042-1-25-1,,xxxx0042-1,25,rieisek limau,rieisek limau,[],,['chan2019'],,False,False,,2
+xxxx0042-1-26-1,,xxxx0042-1,26,rieisek weneu,rieisek weneu,[],,['chan2019'],,False,False,,2
+xxxx0042-1-27-1,,xxxx0042-1,27,rieisek isuh,rieisek isuh,[],,['chan2019'],,False,False,,2
+xxxx0042-1-28-1,,xxxx0042-1,28,rieisek waluh,rieisek waluh,[],,['chan2019'],,False,False,,2
+xxxx0042-1-29-1,,xxxx0042-1,29,rieisek duwau,rieisek duwau,[],,['chan2019'],,False,False,,2
+xxxx0042-1-30-1,,xxxx0042-1,30,silihsek,silihsek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-30-2,,xxxx0042-1,30,siliakan,siliakan,[],,['chan2019'],,False,False,,2
+xxxx0042-1-30-3,,xxxx0042-1,30,siliŋoul,siliŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-40-1,,xxxx0042-1,40,pahisek,pahisek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-40-2,,xxxx0042-1,40,pahk,pahk,[],,['chan2019'],,False,False,,2
+xxxx0042-1-40-3,,xxxx0042-1,40,paːŋoul,paːŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-50-1,,xxxx0042-1,50,limeisek,limeisek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-50-2,,xxxx0042-1,50,limehk,limehk,[],,['chan2019'],,False,False,,2
+xxxx0042-1-50-3,,xxxx0042-1,50,limeŋoul,limeŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-60-1,,xxxx0042-1,60,weneisek,weneisek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-60-2,,xxxx0042-1,60,wenehk,wenehk,[],,['chan2019'],,False,False,,2
+xxxx0042-1-60-3,,xxxx0042-1,60,weneŋoul,weneŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-70-1,,xxxx0042-1,70,isihsek,isihsek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-70-2,,xxxx0042-1,70,isiakan,isiakan,[],,['chan2019'],,False,False,,2
+xxxx0042-1-70-3,,xxxx0042-1,70,isiŋoul,isiŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-80-1,,xxxx0042-1,80,welihsek,welihsek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-80-2,,xxxx0042-1,80,weliakan,weliakan,[],,['chan2019'],,False,False,,2
+xxxx0042-1-80-3,,xxxx0042-1,80,weliŋoul,weliŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-90-1,,xxxx0042-1,90,duweisek,duweisek,[],,['chan2019'],,False,False,,2
+xxxx0042-1-90-2,,xxxx0042-1,90,duwehk,duwehk,[],,['chan2019'],,False,False,,2
+xxxx0042-1-90-3,,xxxx0042-1,90,duweŋoul,duweŋoul,[],,['chan2019'],,False,False,,2
+xxxx0042-1-100-1,,xxxx0042-1,100,epwiki,epwiki,[],,['chan2019'],,False,False,,2
+xxxx0042-1-200-1,,xxxx0042-1,200,riepwiki,riepwiki,[],,['chan2019'],,False,False,,2
+xxxx0042-1-1000-1,,xxxx0042-1,1000,kid,kid,[],,['chan2019'],,False,False,,2
+xxxx0042-1-2000-1,,xxxx0042-1,2000,riekid,riekid,[],,['chan2019'],,False,False,,2

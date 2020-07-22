@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+adel1244-1-1-1,,adel1244-1,1,ɛ̀kí,ɛ̀kí,[],,['chan2019'],,False,False,,1
+adel1244-1-2-1,,adel1244-1,2,ɛ̀nyɔ̀ɔ̀n,ɛ̀nyɔ̀ɔ̀n,[],,['chan2019'],,False,False,,1
+adel1244-1-3-1,,adel1244-1,3,àsì,àsì,[],,['chan2019'],,False,False,,1
+adel1244-1-4-1,,adel1244-1,4,ɛ̀nàà,ɛ̀nàà,[],,['chan2019'],,False,False,,1
+adel1244-1-5-1,,adel1244-1,5,tòn,tòn,[],,['chan2019'],,False,False,,1
+adel1244-1-6-1,,adel1244-1,6,kòòròn,kòòròn,[],,['chan2019'],,False,False,,1
+adel1244-1-7-1,,adel1244-1,7,kɔ̀rɔ̀nkí,kɔ̀rɔ̀nkí,[],( 6 + 1 ) ?,['chan2019'],,False,False,,1
+adel1244-1-8-1,,adel1244-1,8,nìyɛ̀,nìyɛ̀,[],,['chan2019'],,False,False,,1
+adel1244-1-9-1,,adel1244-1,9,yɛ̀kí,yɛ̀kí,[],( 10 - 1 ) ?,['chan2019'],,False,False,,1
+adel1244-1-10-1,,adel1244-1,10,fò,fò,[],,['chan2019'],,False,False,,1
+adel1244-1-11-1,,adel1244-1,11,fò ɛ̀kí,fò ɛ̀kí,[],,['chan2019'],,False,False,,1
+adel1244-1-12-1,,adel1244-1,12,fò ànyɔ̀ɔ̀n,fò ànyɔ̀ɔ̀n,[],,['chan2019'],,False,False,,1
+adel1244-1-13-1,,adel1244-1,13,fò àsiyè,fò àsiyè,[],,['chan2019'],,False,False,,1
+adel1244-1-14-1,,adel1244-1,14,fò bɛ̀nàà,fò bɛ̀nàà,[],,['chan2019'],,False,False,,1
+adel1244-1-15-1,,adel1244-1,15,fò tòn,fò tòn,[],,['chan2019'],,False,False,,1
+adel1244-1-16-1,,adel1244-1,16,fò kòòròn,fò kòòròn,[],,['chan2019'],,False,False,,1
+adel1244-1-17-1,,adel1244-1,17,fò kɔ̀rɔ̀nki,fò kɔ̀rɔ̀nki,[],,['chan2019'],,False,False,,1
+adel1244-1-18-1,,adel1244-1,18,fò nìyɛ̀,fò nìyɛ̀,[],,['chan2019'],,False,False,,1
+adel1244-1-19-1,,adel1244-1,19,fò yɛ̀kí,fò yɛ̀kí,[],,['chan2019'],,False,False,,1
+adel1244-1-20-1,,adel1244-1,20,dìk͡pìlìn,dìk͡pìlìn,[],,['chan2019'],,False,False,,1
+adel1244-1-21-1,,adel1244-1,21,dìk͡pìlìn mà ɛ̀kí,dìk͡pìlìn mà ɛ̀kí,[],,['chan2019'],,False,False,,1
+adel1244-1-22-1,,adel1244-1,22,dìk͡pìlìn mà ɛ̀nyɔ̀ɔ̀n,dìk͡pìlìn mà ɛ̀nyɔ̀ɔ̀n,[],,['chan2019'],,False,False,,1
+adel1244-1-23-1,,adel1244-1,23,dìk͡pìlìn mà àsì,dìk͡pìlìn mà àsì,[],,['chan2019'],,False,False,,1
+adel1244-1-24-1,,adel1244-1,24,dìk͡pìlìn mà ɛ̀nàà,dìk͡pìlìn mà ɛ̀nàà,[],,['chan2019'],,False,False,,1
+adel1244-1-25-1,,adel1244-1,25,dìk͡pìlìn mà tòn,dìk͡pìlìn mà tòn,[],,['chan2019'],,False,False,,1
+adel1244-1-26-1,,adel1244-1,26,dìk͡pìlìn mà kòòròn,dìk͡pìlìn mà kòòròn,[],,['chan2019'],,False,False,,1
+adel1244-1-27-1,,adel1244-1,27,dìk͡pìlìn mà kɔ̀rɔ̀nkí,dìk͡pìlìn mà kɔ̀rɔ̀nkí,[],,['chan2019'],,False,False,,1
+adel1244-1-28-1,,adel1244-1,28,dìk͡pìlìn mà nìyɛ̀,dìk͡pìlìn mà nìyɛ̀,[],,['chan2019'],,False,False,,1
+adel1244-1-29-1,,adel1244-1,29,dìk͡pìlìn mà yɛ̀kí,dìk͡pìlìn mà yɛ̀kí,[],,['chan2019'],,False,False,,1
+adel1244-1-30-1,,adel1244-1,30,dìk͡pìlìn mà fò,dìk͡pìlìn mà fò,[],,['chan2019'],,False,False,,1
+adel1244-1-40-1,,adel1244-1,40,dìk͡pìlìn ànyɔ̀ɔ̀n,dìk͡pìlìn ànyɔ̀ɔ̀n,[],( 20 x 2 ),['chan2019'],,False,False,,1
+adel1244-1-50-1,,adel1244-1,50,dìk͡pìlìn ànyɔ̀ɔ̀n mà fò,dìk͡pìlìn ànyɔ̀ɔ̀n mà fò,[],,['chan2019'],,False,False,,1
+adel1244-1-60-1,,adel1244-1,60,dìk͡pìlìn àsìyè,dìk͡pìlìn àsìyè,[],( 20 x 3 ),['chan2019'],,False,False,,1
+adel1244-1-70-1,,adel1244-1,70,dìk͡pìlìn àsìyè mà fò,dìk͡pìlìn àsìyè mà fò,[],,['chan2019'],,False,False,,1
+adel1244-1-80-1,,adel1244-1,80,dìk͡pìlìn ànàà,dìk͡pìlìn ànàà,[],( 20 x 4 ),['chan2019'],,False,False,,1
+adel1244-1-90-1,,adel1244-1,90,dìk͡pìlìn ànàà mà fò,dìk͡pìlìn ànàà mà fò,[],,['chan2019'],,False,False,,1
+adel1244-1-100-1,,adel1244-1,100,dìk͡pìlìŋ̀ tòn,dìk͡pìlìŋ̀ tòn,[],( 20 x 5 ),['chan2019'],,False,False,,1
+adel1244-1-200-1,,adel1244-1,200,ɡɛ̀k͡pæn,ɡɛ̀k͡pæn,[],,['chan2019'],,False,False,,1
+adel1244-1-1000-1,,adel1244-1,1000,k͡pæn tòn,k͡pæn tòn,[],,['chan2019'],,False,False,,1
+adel1244-1-2000-1,,adel1244-1,2000,ɔ̀ɡ͡baa,ɔ̀ɡ͡baa,[],,['chan2019'],,False,False,,1

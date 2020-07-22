@@ -1,0 +1,35 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+hava1248-2-1-1,,hava1248-2,1,ʔsit-i,ʔsit-i,[],,['chan2019'],,False,False,,2
+hava1248-2-2-1,,hava1248-2,2,hwak-i,hwak-i,[],,['chan2019'],,False,False,,2
+hava1248-2-3-1,,hava1248-2,3,hmuk-i,hmuk-i,[],,['chan2019'],,False,False,,2
+hava1248-2-4-1,,hava1248-2,4,hopa,hopa,[],,['chan2019'],,False,False,,2
+hava1248-2-5-1,,hava1248-2,5,θraːp-i,θraːp-i,[],,['chan2019'],,False,False,,2
+hava1248-2-6-1,,hava1248-2,6,t-spe,t-spe,[],( cause-lean ),['chan2019'],,False,False,,2
+hava1248-2-7-1,,hava1248-2,7,hwak-spe,hwak-spe,[],( two-lean ),['chan2019'],,False,False,,2
+hava1248-2-8-1,,hava1248-2,8,hmuk-spe,hmuk-spe,[],( three-lean ),['chan2019'],,False,False,,2
+hava1248-2-9-1,,hava1248-2,9,halθuy-i,halθuy-i,[],,['chan2019'],,False,False,,2
+hava1248-2-10-1,,hava1248-2,10,v-waː v-a,v-waː v-a,[],,['chan2019'],,False,False,,2
+hava1248-2-11-1,,hava1248-2,11,v-waː v-k ʔsit-i,v-waː v-k ʔsit-i,[],,['chan2019'],,False,False,,2
+hava1248-2-12-1,,hava1248-2,12,v-waː v-k hwak-i,v-waː v-k hwak-i,[],,['chan2019'],,False,False,,2
+hava1248-2-13-1,,hava1248-2,13,v-waː v-k hmuk-i,v-waː v-k hmuk-i,[],,['chan2019'],,False,False,,2
+hava1248-2-14-1,,hava1248-2,14,v-waː v-k hopa,v-waː v-k hopa,[],,['chan2019'],,False,False,,2
+hava1248-2-15-1,,hava1248-2,15,v-waː v-k θraːp-i,v-waː v-k θraːp-i,[],,['chan2019'],,False,False,,2
+hava1248-2-16-1,,hava1248-2,16,v-waː v-k t-spe,v-waː v-k t-spe,[],,['chan2019'],,False,False,,2
+hava1248-2-17-1,,hava1248-2,17,v-waː v-k hwak-spe,v-waː v-k hwak-spe,[],,['chan2019'],,False,False,,2
+hava1248-2-18-1,,hava1248-2,18,v-waː v-k hmuk-spe,v-waː v-k hmuk-spe,[],,['chan2019'],,False,False,,2
+hava1248-2-19-1,,hava1248-2,19,v-waː v-k halθuy-i,v-waː v-k halθuy-i,[],,['chan2019'],,False,False,,2
+hava1248-2-20-1,,hava1248-2,20,hwak-a v-waː v-i,hwak-a v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-21-1,,hava1248-2,21,hwak-a v-waː v-k ʔsit-i,hwak-a v-waː v-k ʔsit-i,[],,['chan2019'],,False,False,,2
+hava1248-2-22-1,,hava1248-2,22,hwak-a v-waː v-k hwak-i,hwak-a v-waː v-k hwak-i,[],,['chan2019'],,False,False,,2
+hava1248-2-23-1,,hava1248-2,23,hwak-a v-waː v-k hmuk-i,hwak-a v-waː v-k hmuk-i,[],,['chan2019'],,False,False,,2
+hava1248-2-30-1,,hava1248-2,30,hmuk-a v-waː v-i,hmuk-a v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-40-1,,hava1248-2,40,hopa-č v-waː v-i,hopa-č v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-50-1,,hava1248-2,50,θraːp-a v-waː v-i,θraːp-a v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-60-1,,hava1248-2,60,t-spay v-waː v-i,t-spay v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-70-1,,hava1248-2,70,hwak-spay v-waː v-i,hwak-spay v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-80-1,,hava1248-2,80,hmuk-spay v-waː v-i,hmuk-spay v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-90-1,,hava1248-2,90,halθuy v-waː v-i,halθuy v-waː v-i,[],,['chan2019'],,False,False,,2
+hava1248-2-100-1,,hava1248-2,100,shuna,shuna,[],( < English ' hundred' ),['chan2019'],,True,False,,2
+hava1248-2-200-1,,hava1248-2,200,shuna hwak-i,shuna hwak-i,[],,['chan2019'],,False,False,,2
+hava1248-2-1000-1,,hava1248-2,1000,θawva,θawva,[],( < English ' thousand' ),['chan2019'],,True,False,,2
+hava1248-2-2000-1,,hava1248-2,2000,θawva hwak-i,θawva hwak-i,[],,['chan2019'],,False,False,,2

@@ -1,0 +1,16 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+wamp1248-1-1-1,,wamp1248-1,1,bisaŋʔua,bisaŋʔua,[],,['chan2019'],,False,False,,1
+wamp1248-1-2-1,,wamp1248-1,2,iruʔiruʔ,iruʔiruʔ,[],,['chan2019'],,False,False,,1
+wamp1248-1-3-1,,wamp1248-1,3,iruʔabits,iruʔabits,[],( 2 + 1 ),['chan2019'],,False,False,,1
+wamp1248-1-4-1,,wamp1248-1,4,iruʔairuʔ,iruʔairuʔ,[],( 2 + 2 ),['chan2019'],,False,False,,1
+wamp1248-1-5-1,,wamp1248-1,5,baʔinasih,baʔinasih,[],(litː 'hand half'),['chan2019'],,False,False,,1
+wamp1248-1-6-1,,wamp1248-1,6,baʔin a bisaŋʔua,baʔin a bisaŋʔua,[],,['chan2019'],,False,False,,1
+wamp1248-1-7-1,,wamp1248-1,7,baʔin a iruʔiruʔ,baʔin a iruʔiruʔ,[],,['chan2019'],,False,False,,1
+wamp1248-1-8-1,,wamp1248-1,8,baʔin a iruʔabits,baʔin a iruʔabits,[],,['chan2019'],,False,False,,1
+wamp1248-1-9-1,,wamp1248-1,9,baʔin a iruʔairuʔ,baʔin a iruʔairuʔ,[],,['chan2019'],,False,False,,1
+wamp1248-1-10-1,,wamp1248-1,10,baŋʔian ditir,baŋʔian ditir,[],(litː 'hands altogether'),['chan2019'],,False,False,,1
+wamp1248-1-11-1,,wamp1248-1,11,baʔin ditir haɡan bisaŋʔua,baʔin ditir haɡan bisaŋʔua,[],(litː 'hands altogether and leg one'),['chan2019'],,False,False,,1
+wamp1248-1-12-1,,wamp1248-1,12,baʔin ditir haɡan iruʔiruʔ,baʔin ditir haɡan iruʔiruʔ,[],,['chan2019'],,False,False,,1
+wamp1248-1-13-1,,wamp1248-1,13,baʔin ditir haɡan iruʔabits,baʔin ditir haɡan iruʔabits,[],,['chan2019'],,False,False,,1
+wamp1248-1-14-1,,wamp1248-1,14,baʔin ditir haɡan iruʔairuʔ,baʔin ditir haɡan iruʔairuʔ,[],,['chan2019'],,False,False,,1
+wamp1248-1-20-1,,wamp1248-1,20,ɡaram manɡa haɡan baŋʔian ditir,ɡaram manɡa haɡan baŋʔian ditir,[],(litː 'man one hands and leg together'),['chan2019'],,False,False,,1

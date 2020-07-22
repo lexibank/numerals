@@ -1,0 +1,34 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+yuku1243-1-1-1,,yuku1243-1,1,kítə́ŋ,kítə́ŋ,[],,['chan2019'],,False,False,,1
+yuku1243-1-2-1,,yuku1243-1,2,āpá(ŋ),āpá(ŋ),[],,['chan2019'],,False,False,,1
+yuku1243-1-3-1,,yuku1243-1,3,ātà,ātà,[],,['chan2019'],,False,False,,1
+yuku1243-1-3-2,,yuku1243-1,3,ārà,ārà,[],,['chan2019'],,False,False,,1
+yuku1243-1-4-1,,yuku1243-1,4,ēnzì,ēnzì,[],,['chan2019'],,False,False,,1
+yuku1243-1-5-1,,yuku1243-1,5,otòŋ,otòŋ,[],,['chan2019'],,False,False,,1
+yuku1243-1-6-1,,yuku1243-1,6,(ō)̄tòŋ kíhín,(ō)̄tòŋ kíhín,[],( 5+ 1 ),['chan2019'],,False,False,,1
+yuku1243-1-7-1,,yuku1243-1,7,(ō)̄tòŋ āpá,(ō)̄tòŋ āpá,[],( 5+ 2 ),['chan2019'],,False,False,,1
+yuku1243-1-8-1,,yuku1243-1,8,(ō)̄tòŋ ātà,(ō)̄tòŋ ātà,[],,['chan2019'],,False,False,,1
+yuku1243-1-8-2,,yuku1243-1,8,ārà,ārà,[],( 5+ 3 ),['chan2019'],,False,False,,1
+yuku1243-1-9-1,,yuku1243-1,9,(ō)̄tòŋ ēnzì,(ō)̄tòŋ ēnzì,[],( 5+ 4 ),['chan2019'],,False,False,,1
+yuku1243-1-10-1,,yuku1243-1,10,kùr,kùr,[],,['chan2019'],,False,False,,1
+yuku1243-1-11-1,,yuku1243-1,11,kùr (e)ríŋ kíjə́ŋ,kùr (e)ríŋ kíjə́ŋ,[],,['chan2019'],,False,False,,1
+yuku1243-1-12-1,,yuku1243-1,12,kùr afá,kùr afá,[],,['chan2019'],,False,False,,1
+yuku1243-1-13-1,,yuku1243-1,13,kùr (e)ríŋ atà,kùr (e)ríŋ atà,[],,['chan2019'],,False,False,,1
+yuku1243-1-14-1,,yuku1243-1,14,kùr (e)ríŋ enzì,kùr (e)ríŋ enzì,[],,['chan2019'],,False,False,,1
+yuku1243-1-15-1,,yuku1243-1,15,kùr rúŋ otòŋ,kùr rúŋ otòŋ,[],,['chan2019'],,False,False,,1
+yuku1243-1-16-1,,yuku1243-1,16,kùr rúŋ otòŋ kíjə́ŋ,kùr rúŋ otòŋ kíjə́ŋ,[],( 15+ 1 ),['chan2019'],,False,False,,1
+yuku1243-1-17-1,,yuku1243-1,17,kùr rúŋ otòŋ apá,kùr rúŋ otòŋ apá,[],( 15+ 2 ),['chan2019'],,False,False,,1
+yuku1243-1-18-1,,yuku1243-1,18,kùr rúŋ otòŋ atà,kùr rúŋ otòŋ atà,[],( 15+ 3 ),['chan2019'],,False,False,,1
+yuku1243-1-19-1,,yuku1243-1,19,kùr (e)ríŋ otòŋ enzì,kùr (e)ríŋ otòŋ enzì,[],( 15+ 4 ),['chan2019'],,False,False,,1
+yuku1243-1-20-1,,yuku1243-1,20,kekəm,kekəm,[],,['chan2019'],,False,False,,1
+yuku1243-1-21-1,,yuku1243-1,21,kekəm (e)ríŋ kíjə́ŋ,kekəm (e)ríŋ kíjə́ŋ,[],,['chan2019'],,False,False,,1
+yuku1243-1-22-1,,yuku1243-1,22,kekəm (e)ríŋ apá,kekəm (e)ríŋ apá,[],,['chan2019'],,False,False,,1
+yuku1243-1-29-1,,yuku1243-1,29,kekəm (e)ríŋ otòŋ enzì,kekəm (e)ríŋ otòŋ enzì,[],,['chan2019'],,False,False,,1
+yuku1243-1-30-1,,yuku1243-1,30,kekəm (e)ríŋ kùr,kekəm (e)ríŋ kùr,[],( 20+ 10 ),['chan2019'],,False,False,,1
+yuku1243-1-40-1,,yuku1243-1,40,akəm apá,akəm apá,[],( 20 x 2 ),['chan2019'],,False,False,,1
+yuku1243-1-50-1,,yuku1243-1,50,akəm apá (é)rúŋ kùr,akəm apá (é)rúŋ kùr,[],,['chan2019'],,False,False,,1
+yuku1243-1-60-1,,yuku1243-1,60,akəm atà,akəm atà,[],( 20 x 3 ),['chan2019'],,False,False,,1
+yuku1243-1-70-1,,yuku1243-1,70,akəm atà (é)rúŋ kùr,akəm atà (é)rúŋ kùr,[],,['chan2019'],,False,False,,1
+yuku1243-1-80-1,,yuku1243-1,80,akəm enzì,akəm enzì,[],( 20 x 4 ),['chan2019'],,False,False,,1
+yuku1243-1-90-1,,yuku1243-1,90,akəm enzì (é)rúŋ kùr,akəm enzì (é)rúŋ kùr,[],,['chan2019'],,False,False,,1
+yuku1243-1-100-1,,yuku1243-1,100,dìri,dìri,[],< Hausa ɗàɽí ?? ,['chan2019'],,True,False,,1

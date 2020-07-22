@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+phom1236-2-1-1,,phom1236-2,1,hük,hük,[],,['chan2019'],,False,False,,2
+phom1236-2-2-1,,phom1236-2,2,nyi,nyi,[],,['chan2019'],,False,False,,2
+phom1236-2-3-1,,phom1236-2,3,jem,jem,[],,['chan2019'],,False,False,,2
+phom1236-2-4-1,,phom1236-2,4,ali,ali,[],,['chan2019'],,False,False,,2
+phom1236-2-5-1,,phom1236-2,5,nga,nga,[],,['chan2019'],,False,False,,2
+phom1236-2-6-1,,phom1236-2,6,rok,rok,[],,['chan2019'],,False,False,,2
+phom1236-2-7-1,,phom1236-2,7,nyet,nyet,[],,['chan2019'],,False,False,,2
+phom1236-2-8-1,,phom1236-2,8,shet,shet,[],,['chan2019'],,False,False,,2
+phom1236-2-9-1,,phom1236-2,9,shü,shü,[],,['chan2019'],,False,False,,2
+phom1236-2-10-1,,phom1236-2,10,an,an,[],,['chan2019'],,False,False,,2
+phom1236-2-11-1,,phom1236-2,11,anpühük,anpühük,[],,['chan2019'],,False,False,,2
+phom1236-2-12-1,,phom1236-2,12,anpünyi,anpünyi,[],,['chan2019'],,False,False,,2
+phom1236-2-13-1,,phom1236-2,13,anpüjem,anpüjem,[],,['chan2019'],,False,False,,2
+phom1236-2-14-1,,phom1236-2,14,anpüali,anpüali,[],,['chan2019'],,False,False,,2
+phom1236-2-15-1,,phom1236-2,15,anpünga,anpünga,[],,['chan2019'],,False,False,,2
+phom1236-2-16-1,,phom1236-2,16,anpürok,anpürok,[],,['chan2019'],,False,False,,2
+phom1236-2-17-1,,phom1236-2,17,anpünyet,anpünyet,[],,['chan2019'],,False,False,,2
+phom1236-2-18-1,,phom1236-2,18,anpüshet,anpüshet,[],,['chan2019'],,False,False,,2
+phom1236-2-19-1,,phom1236-2,19,anpüshü,anpüshü,[],,['chan2019'],,False,False,,2
+phom1236-2-20-1,,phom1236-2,20,kukha,kukha,[],,['chan2019'],,False,False,,2
+phom1236-2-21-1,,phom1236-2,21,hapühük,hapühük,[],,['chan2019'],,False,False,,2
+phom1236-2-22-1,,phom1236-2,22,hapüjem,hapüjem,[],,['chan2019'],,False,False,,2
+phom1236-2-24-1,,phom1236-2,24,hapüali,hapüali,[],,['chan2019'],,False,False,,2
+phom1236-2-25-1,,phom1236-2,25,hapünga,hapünga,[],,['chan2019'],,False,False,,2
+phom1236-2-26-1,,phom1236-2,26,hapürok,hapürok,[],,['chan2019'],,False,False,,2
+phom1236-2-27-1,,phom1236-2,27,hapünyet,hapünyet,[],,['chan2019'],,False,False,,2
+phom1236-2-28-1,,phom1236-2,28,hapüshet,hapüshet,[],,['chan2019'],,False,False,,2
+phom1236-2-29-1,,phom1236-2,29,hapüshü,hapüshü,[],,['chan2019'],,False,False,,2
+phom1236-2-30-1,,phom1236-2,30,hapü an,hapü an,[],( 20 + 10),['chan2019'],,False,False,,2
+phom1236-2-40-1,,phom1236-2,40,pinnyi,pinnyi,[],( 20 x 2 ),['chan2019'],,False,False,,2
+phom1236-2-50-1,,phom1236-2,50,pinnyipü an,pinnyipü an,[],,['chan2019'],,False,False,,2
+phom1236-2-60-1,,phom1236-2,60,pejem,pejem,[],(20 x 3),['chan2019'],,False,False,,2
+phom1236-2-70-1,,phom1236-2,70,pejempü an,pejempü an,[],,['chan2019'],,False,False,,2
+phom1236-2-80-1,,phom1236-2,80,bü ali,bü ali,[],( 20 x 4),['chan2019'],,False,False,,2
+phom1236-2-90-1,,phom1236-2,90,bü alipü an,bü alipü an,[],,['chan2019'],,False,False,,2
+phom1236-2-100-1,,phom1236-2,100,kho hük,kho hük,[],,['chan2019'],,False,False,,2
+phom1236-2-200-1,,phom1236-2,200,khonyi,khonyi,[],,['chan2019'],,False,False,,2
+phom1236-2-1000-1,,phom1236-2,1000,haja hük,haja hük,[],( haja is an Indic loanword),['chan2019'],,False,False,,2
+phom1236-2-2000-1,,phom1236-2,2000,haja nyi,haja nyi,[],,['chan2019'],,False,False,,2

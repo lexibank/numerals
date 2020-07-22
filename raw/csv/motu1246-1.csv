@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+motu1246-1-1-1,,motu1246-1,1,ta,ta,[],,['chan2019'],,False,False,,1
+motu1246-1-1-2,,motu1246-1,1,tamona,tamona,[],( litː 'only one'),['chan2019'],,False,False,,1
+motu1246-1-2-1,,motu1246-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+motu1246-1-3-1,,motu1246-1,3,toi,toi,[],,['chan2019'],,False,False,,1
+motu1246-1-4-1,,motu1246-1,4,hani,hani,[],,['chan2019'],,False,False,,1
+motu1246-1-5-1,,motu1246-1,5,ima,ima,[],,['chan2019'],,False,False,,1
+motu1246-1-6-1,,motu1246-1,6,tauratoi,tauratoi,[],( 2 x 3 ),['chan2019'],,False,False,,1
+motu1246-1-7-1,,motu1246-1,7,hitu,hitu,[],,['chan2019'],,False,False,,1
+motu1246-1-8-1,,motu1246-1,8,taurahani,taurahani,[],( 2 x 4 ),['chan2019'],,False,False,,1
+motu1246-1-9-1,,motu1246-1,9,taurahani ta,taurahani ta,[],( 2 x 4 + 1),['chan2019'],,False,False,,1
+motu1246-1-10-1,,motu1246-1,10,ɡwauta,ɡwauta,[],,['chan2019'],,False,False,,1
+motu1246-1-11-1,,motu1246-1,11,ɡwauta ta,ɡwauta ta,[],,['chan2019'],,False,False,,1
+motu1246-1-12-1,,motu1246-1,12,ɡwauta rua,ɡwauta rua,[],,['chan2019'],,False,False,,1
+motu1246-1-13-1,,motu1246-1,13,ɡwauta toi,ɡwauta toi,[],,['chan2019'],,False,False,,1
+motu1246-1-14-1,,motu1246-1,14,ɡwauta hani,ɡwauta hani,[],,['chan2019'],,False,False,,1
+motu1246-1-15-1,,motu1246-1,15,ɡwauta ima,ɡwauta ima,[],,['chan2019'],,False,False,,1
+motu1246-1-16-1,,motu1246-1,16,ɡwauta tauratoi,ɡwauta tauratoi,[],,['chan2019'],,False,False,,1
+motu1246-1-17-1,,motu1246-1,17,ɡwauta hitu,ɡwauta hitu,[],,['chan2019'],,False,False,,1
+motu1246-1-18-1,,motu1246-1,18,ɡwauta taurahani,ɡwauta taurahani,[],,['chan2019'],,False,False,,1
+motu1246-1-19-1,,motu1246-1,19,ɡwauta taurahani ta,ɡwauta taurahani ta,[],,['chan2019'],,False,False,,1
+motu1246-1-20-1,,motu1246-1,20,ruahui,ruahui,[],,['chan2019'],,False,False,,1
+motu1246-1-21-1,,motu1246-1,21,ruahui ta,ruahui ta,[],,['chan2019'],,False,False,,1
+motu1246-1-22-1,,motu1246-1,22,ruahui rua,ruahui rua,[],,['chan2019'],,False,False,,1
+motu1246-1-23-1,,motu1246-1,23,ruahui toi,ruahui toi,[],,['chan2019'],,False,False,,1
+motu1246-1-24-1,,motu1246-1,24,ruahui hani,ruahui hani,[],,['chan2019'],,False,False,,1
+motu1246-1-25-1,,motu1246-1,25,ruahui ima,ruahui ima,[],,['chan2019'],,False,False,,1
+motu1246-1-26-1,,motu1246-1,26,ruahui tauratoi,ruahui tauratoi,[],,['chan2019'],,False,False,,1
+motu1246-1-27-1,,motu1246-1,27,ruahui hitu,ruahui hitu,[],,['chan2019'],,False,False,,1
+motu1246-1-28-1,,motu1246-1,28,ruahui taurahani,ruahui taurahani,[],,['chan2019'],,False,False,,1
+motu1246-1-29-1,,motu1246-1,29,ruahui taurahani ta,ruahui taurahani ta,[],,['chan2019'],,False,False,,1
+motu1246-1-30-1,,motu1246-1,30,toi ahui,toi ahui,[],,['chan2019'],,False,False,,1
+motu1246-1-40-1,,motu1246-1,40,hani ahui,hani ahui,[],,['chan2019'],,False,False,,1
+motu1246-1-50-1,,motu1246-1,50,ima ahui,ima ahui,[],,['chan2019'],,False,False,,1
+motu1246-1-60-1,,motu1246-1,60,tauratoi ahui,tauratoi ahui,[],,['chan2019'],,False,False,,1
+motu1246-1-70-1,,motu1246-1,70,hitu ahui,hitu ahui,[],,['chan2019'],,False,False,,1
+motu1246-1-80-1,,motu1246-1,80,taurahani ahui,taurahani ahui,[],,['chan2019'],,False,False,,1
+motu1246-1-90-1,,motu1246-1,90,taurahani ta ahui,taurahani ta ahui,[],,['chan2019'],,False,False,,1
+motu1246-1-100-1,,motu1246-1,100,sinahu ta,sinahu ta,[],,['chan2019'],,False,False,,1
+motu1246-1-200-1,,motu1246-1,200,sinahu rua,sinahu rua,[],,['chan2019'],,False,False,,1
+motu1246-1-1000-1,,motu1246-1,1000,daha ta,daha ta,[],,['chan2019'],,False,False,,1
+motu1246-1-2000-1,,motu1246-1,2000,daha rua,daha rua,[],,['chan2019'],,False,False,,1

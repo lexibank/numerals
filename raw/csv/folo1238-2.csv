@@ -1,0 +1,12 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+folo1238-2-1-1,,folo1238-2,1,beta,beta,[],,['chan2019'],,False,False,,2
+folo1238-2-2-1,,folo1238-2,2,tamo,tamo,[],,['chan2019'],,False,False,,2
+folo1238-2-3-1,,folo1238-2,3,sore,sore,[],,['chan2019'],,False,False,,2
+folo1238-2-4-1,,folo1238-2,4,douro,douro,[],,['chan2019'],,False,False,,2
+folo1238-2-5-1,,folo1238-2,5,apo or apo mi or naase beta,apo or apo mi or naase beta,[],( litː 'one hand'),['chan2019'],,False,True,,2
+folo1238-2-6-1,,folo1238-2,6,me naase beta,me naase beta,[],( litː 'another hand one'),['chan2019'],,False,False,,2
+folo1238-2-7-1,,folo1238-2,7,me naase tamo,me naase tamo,[],( litː 'another hand two'),['chan2019'],,False,False,,2
+folo1238-2-8-1,,folo1238-2,8,me naase sore ( litː 'another hand three') boko wale,me naase sore ( litː 'another hand three') boko wale,[],(litː 'wrist'),['chan2019'],,False,True,,2
+folo1238-2-9-1,,folo1238-2,9,me naase douro,me naase douro,[],( litː 'another hand  four'),['chan2019'],,False,False,,2
+folo1238-2-10-1,,folo1238-2,10,naase tamo,naase tamo,[],(litː 'two hands'),['chan2019'],,False,False,,2
+folo1238-2-20-1,,folo1238-2,20,whi beta,whi beta,[],(litː 'one man / two hands and two feet'),['chan2019'],,False,False,,2

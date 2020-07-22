@@ -1,0 +1,44 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tepo1239-1-1-1,,tepo1239-1,1,dò,dò,[],,['chan2019'],,False,False,,1
+tepo1239-1-2-1,,tepo1239-1,2,hɔ̃́,hɔ̃́,[],,['chan2019'],,False,False,,1
+tepo1239-1-3-1,,tepo1239-1,3,tā,tā,[],,['chan2019'],,False,False,,1
+tepo1239-1-4-1,,tepo1239-1,4,hɛ̃̀,hɛ̃̀,[],,['chan2019'],,False,False,,1
+tepo1239-1-5-1,,tepo1239-1,5,hũ̌,hũ̌,[],,['chan2019'],,False,False,,1
+tepo1239-1-6-1,,tepo1239-1,6,huõ̀nɔ̀,huõ̀nɔ̀,[],( 5 + 1 ),['chan2019'],,False,False,,1
+tepo1239-1-7-1,,tepo1239-1,7,nɪ́pātā,nɪ́pātā,[],(litː 'not/be/three' ),['chan2019'],,False,False,,1
+tepo1239-1-8-1,,tepo1239-1,8,nɪ́pāhɔ̃́,nɪ́pāhɔ̃́,[],,['chan2019'],,False,False,,1
+tepo1239-1-8-2,,tepo1239-1,8,yèhɛ̃̀yèhɛ̃̀,yèhɛ̃̀yèhɛ̃̀,[],( 2 x 4 ),['chan2019'],,False,False,,1
+tepo1239-1-9-1,,tepo1239-1,9,sēlédò,sēlédò,[],(litː 'remains /there/one' ),['chan2019'],,False,False,,1
+tepo1239-1-10-1,,tepo1239-1,10,pù,pù,[],,['chan2019'],,False,False,,1
+tepo1239-1-11-1,,tepo1239-1,11,pù tǔ ó dò,pù tǔ ó dò,[],,['chan2019'],,False,False,,1
+tepo1239-1-12-1,,tepo1239-1,12,pù tǔ ó hɔ̃́,pù tǔ ó hɔ̃́,[],,['chan2019'],,False,False,,1
+tepo1239-1-13-1,,tepo1239-1,13,pù tǔ ó tā,pù tǔ ó tā,[],,['chan2019'],,False,False,,1
+tepo1239-1-14-1,,tepo1239-1,14,pù tǔ ó hɛ̃̀,pù tǔ ó hɛ̃̀,[],,['chan2019'],,False,False,,1
+tepo1239-1-15-1,,tepo1239-1,15,pù tǔ ó hũ̌,pù tǔ ó hũ̌,[],,['chan2019'],,False,False,,1
+tepo1239-1-16-1,,tepo1239-1,16,pù tǔ ó huõ̀nɔ̀,pù tǔ ó huõ̀nɔ̀,[],,['chan2019'],,False,False,,1
+tepo1239-1-17-1,,tepo1239-1,17,pù tǔ ó nɪ́pātá,pù tǔ ó nɪ́pātá,[],,['chan2019'],,False,False,,1
+tepo1239-1-18-1,,tepo1239-1,18,pù tǔ ó nɪ́pāhɔ̃́,pù tǔ ó nɪ́pāhɔ̃́,[],,['chan2019'],,False,False,,1
+tepo1239-1-19-1,,tepo1239-1,19,pù tǔ ó sēlédò,pù tǔ ó sēlédò,[],,['chan2019'],,False,False,,1
+tepo1239-1-20-1,,tepo1239-1,20,wlʊ̀,wlʊ̀,[],,['chan2019'],,False,False,,1
+tepo1239-1-21-1,,tepo1239-1,21,wlʊ̀ tǔ ó dò,wlʊ̀ tǔ ó dò,[],,['chan2019'],,False,False,,1
+tepo1239-1-22-1,,tepo1239-1,22,wlʊ̀ tǔ ó hɔ̃́,wlʊ̀ tǔ ó hɔ̃́,[],,['chan2019'],,False,False,,1
+tepo1239-1-23-1,,tepo1239-1,23,wlʊ̀ tǔ ó tā,wlʊ̀ tǔ ó tā,[],,['chan2019'],,False,False,,1
+tepo1239-1-24-1,,tepo1239-1,24,wlʊ̀ tǔ ó hɛ̃̀,wlʊ̀ tǔ ó hɛ̃̀,[],,['chan2019'],,False,False,,1
+tepo1239-1-25-1,,tepo1239-1,25,wlʊ̀ tǔ ó hũ̌,wlʊ̀ tǔ ó hũ̌,[],,['chan2019'],,False,False,,1
+tepo1239-1-26-1,,tepo1239-1,26,wlʊ̀ tǔ ó huõ̀nɔ̀,wlʊ̀ tǔ ó huõ̀nɔ̀,[],,['chan2019'],,False,False,,1
+tepo1239-1-27-1,,tepo1239-1,27,wlʊ̀ tǔ ó nɪ́pātá,wlʊ̀ tǔ ó nɪ́pātá,[],( litː '20 put/there/7'),['chan2019'],,False,False,,1
+tepo1239-1-28-1,,tepo1239-1,28,wlʊ̀ tǔ ó nɪ́pāhɔ̃́,wlʊ̀ tǔ ó nɪ́pāhɔ̃́,[],,['chan2019'],,False,False,,1
+tepo1239-1-29-1,,tepo1239-1,29,wlʊ̀ tǔ ó sēlédò,wlʊ̀ tǔ ó sēlédò,[],,['chan2019'],,False,False,,1
+tepo1239-1-30-1,,tepo1239-1,30,wlʊ̀ tǔ ó pù,wlʊ̀ tǔ ó pù,[],( 20 + 10 ),['chan2019'],,False,False,,1
+tepo1239-1-40-1,,tepo1239-1,40,wlɩ̀-ɩ̄ hɔ̃́,wlɩ̀-ɩ̄ hɔ̃́,[],( lit: 'twenties two'),['chan2019'],,False,False,,1
+tepo1239-1-50-1,,tepo1239-1,50,wlɩ̀-ɩ̄hɔ̃́tǔ ó pù,wlɩ̀-ɩ̄hɔ̃́tǔ ó pù,[],,['chan2019'],,False,False,,1
+tepo1239-1-60-1,,tepo1239-1,60,wlɩ̀-ɩ̄ tā,wlɩ̀-ɩ̄ tā,[],( lit: 'twentiesthree'),['chan2019'],,False,False,,1
+tepo1239-1-70-1,,tepo1239-1,70,wlɩ̀-ɩ̄tā tǔ ó pù,wlɩ̀-ɩ̄tā tǔ ó pù,[],,['chan2019'],,False,False,,1
+tepo1239-1-80-1,,tepo1239-1,80,wlɩ̀-ɩ̄ hɛ̃̀,wlɩ̀-ɩ̄ hɛ̃̀,[],( lit: 'twentiesfour'),['chan2019'],,False,False,,1
+tepo1239-1-90-1,,tepo1239-1,90,wlɩ̀-ɩ̄hɛ̃̀ tǔ ó pù,wlɩ̀-ɩ̄hɛ̃̀ tǔ ó pù,[],,['chan2019'],,False,False,,1
+tepo1239-1-100-1,,tepo1239-1,100,wlɩ̀-ɩ̄ hũ̌,wlɩ̀-ɩ̄ hũ̌,[],,['chan2019'],,False,False,,1
+tepo1239-1-100-2,,tepo1239-1,100,hɔ̀trʊ̄,hɔ̀trʊ̄,[],,['chan2019'],,False,False,,1
+tepo1239-1-200-1,,tepo1239-1,200,wlɩ̀-ɩ̄ pù,wlɩ̀-ɩ̄ pù,[],,['chan2019'],,False,False,,1
+tepo1239-1-200-2,,tepo1239-1,200,hɔ̀trʊ̄-wɪ̄-ɪ̄ hɔ̃́,hɔ̀trʊ̄-wɪ̄-ɪ̄ hɔ̃́,[],,['chan2019'],,False,False,,1
+tepo1239-1-1000-1,,tepo1239-1,1000,mɪ́lō,mɪ́lō,[],,['chan2019'],,False,False,,1
+tepo1239-1-2000-1,,tepo1239-1,2000,mɪ́lō-wɪ̄ hɔ̃́,mɪ́lō-wɪ̄ hɔ̃́,[],,['chan2019'],,False,False,,1

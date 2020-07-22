@@ -1,0 +1,21 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+capa1241-1-1-1,,capa1241-1,1,wɯstí,wɯstí,[],,['chan2019'],,False,False,wïstí,1
+capa1241-1-2-1,,capa1241-1,2,raβɯ́,raβɯ́,[],,['chan2019'],,False,False,raβḯ,1
+capa1241-1-3-1,,capa1241-1,3,raβḯ nõ wïstḯ,raβḯ nõ wïstḯ,[],( 2 + 1 ),['chan2019'],,False,False,,1
+capa1241-1-4-1,,capa1241-1,4,raβḯriʔβi nõ raβḯriʔβi,raβḯriʔβi nõ raβḯriʔβi,[],( 2 + 2 ),['chan2019'],,False,False,,1
+capa1241-1-5-1,,capa1241-1,5,mïkĩ wïstí,mïkĩ wïstí,[],"(litː  ''hand one'', mïkĩ = hand  )",['chan2019'],,False,False,,1
+capa1241-1-6-1,,capa1241-1,6,mïkĩ wïstí wïsti,mïkĩ wïstí wïsti,[],( litː ''one hand one''),['chan2019'],,False,False,,1
+capa1241-1-7-1,,capa1241-1,7,mïkĩ wïstí raβi,mïkĩ wïstí raβi,[],( litː ''one hand two''),['chan2019'],,False,False,,1
+capa1241-1-8-1,,capa1241-1,8,mïkĩ wïstí kimiša,mïkĩ wïstí kimiša,[],(  ''kimiša''  < Quechua ),['chan2019'],,True,False,,1
+capa1241-1-9-1,,capa1241-1,9,mïkĩ wïstí čosko,mïkĩ wïstí čosko,[],(  ''čosko''  < Quechua ),['chan2019'],,True,False,,1
+capa1241-1-10-1,,capa1241-1,10,mïkĩ wïstí,mïkĩ wïstí,[],( litː ''two hand''),['chan2019'],,False,False,,1
+capa1241-1-11-1,,capa1241-1,11,mïkĩ wïstí wïstí,mïkĩ wïstí wïstí,[],,['chan2019'],,False,False,,1
+capa1241-1-12-1,,capa1241-1,12,mïkĩ wïstí raβḯ,mïkĩ wïstí raβḯ,[],,['chan2019'],,False,False,,1
+capa1241-1-13-1,,capa1241-1,13,mïkĩ wïstí kimiša,mïkĩ wïstí kimiša,[],,['chan2019'],,False,False,,1
+capa1241-1-14-1,,capa1241-1,14,mïkĩ wïstí čosko,mïkĩ wïstí čosko,[],,['chan2019'],,False,False,,1
+capa1241-1-15-1,,capa1241-1,15,mïkĩ wïstí wïstí taʔï̈,mïkĩ wïstí wïstí taʔï̈,[],"( litː ''two hand, one foot'')",['chan2019'],,False,False,,1
+capa1241-1-16-1,,capa1241-1,16,mïkĩ wïstí wïstí taʔï wïstí,mïkĩ wïstí wïstí taʔï wïstí,[],"( litː ''two hand, one foot, one'')",['chan2019'],,False,False,,1
+capa1241-1-17-1,,capa1241-1,17,mïkĩ wïstí wïstí taʔï raβḯ,mïkĩ wïstí wïstí taʔï raβḯ,[],,['chan2019'],,False,False,,1
+capa1241-1-18-1,,capa1241-1,18,mïkĩ wïstí wïstí taʔï kimiša,mïkĩ wïstí wïstí taʔï kimiša,[],,['chan2019'],,False,False,,1
+capa1241-1-19-1,,capa1241-1,19,mïkĩ wïstí wïstí taʔï čosko,mïkĩ wïstí wïstí taʔï čosko,[],,['chan2019'],,False,False,,1
+capa1241-1-20-1,,capa1241-1,20,raβḯ mïkĩ raβḯ taʔï̈,raβḯ mïkĩ raβḯ taʔï̈,[],"( litː ''two hands, two feet'')",['chan2019'],,False,False,,1

@@ -1,0 +1,30 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kadi1248-1-1-1,,kadi1248-1,1,onidateci,onidateci,[],,['chan2019'],,False,False,,1
+kadi1248-1-1-2,,kadi1248-1,1,oninidateci,oninidateci,[],,['chan2019'],,False,False,,1
+kadi1248-1-1-3,,kadi1248-1,1,oniditeci,oniditeci,[],,['chan2019'],,False,False,,1
+kadi1248-1-1-4,,kadi1248-1,1,onijoteci,onijoteci,[],,['chan2019'],,False,False,,1
+kadi1248-1-1-5,,kadi1248-1,1,oninadateci,oninadateci,[],,['chan2019'],,False,False,,1
+kadi1248-1-2-1,,kadi1248-1,2,-wataale,-wataale,[],( itowataale/iniwataale/itiwataale ),['chan2019'],,False,False,,1
+kadi1248-1-3-1,,kadi1248-1,3,-towataadɣi,-towataadɣi,[],( itowataadɣida/towataadɣini/towataadɣidi ),['chan2019'],,False,False,,1
+kadi1248-1-4-1,,kadi1248-1,4,ɡoatolo,ɡoatolo,[],,['chan2019'],,False,False,,1
+kadi1248-1-5-1,,kadi1248-1,5,niɡotino ɣobaɣadi,niɡotino ɣobaɣadi,[],"( litː 'end' of 'our hand' , niɡotino=end, ɣobaɣadi='our hand')",['chan2019'],,False,False,,1
+kadi1248-1-6-1,,kadi1248-1,6,dibatioɡi ɣobaɣadi,dibatioɡi ɣobaɣadi,[],( litː finger (of) 'our hand' ),['chan2019'],,False,False,,1
+kadi1248-1-7-1,,kadi1248-1,7,itowataa-dibatioɡi ɣobaɣadi,itowataa-dibatioɡi ɣobaɣadi,[],( litː two finger (of) 'our hand' ),['chan2019'],,False,False,,1
+kadi1248-1-8-1,,kadi1248-1,8,oito,oito,[],( < Portuguese ),['chan2019'],,True,False,,1
+kadi1248-1-9-1,,kadi1248-1,9,noobi,noobi,[],( < Portuguese ),['chan2019'],,True,False,,1
+kadi1248-1-10-1,,kadi1248-1,10,niɡotini ɣobaɣatedi,niɡotini ɣobaɣatedi,[],"( litː 'end, plural' of 'our hand' )",['chan2019'],,False,False,,1
+kadi1248-1-11-1,,kadi1248-1,11,niɡotino ɣobaɣatedi nɣiɡo onidateci,niɡotino ɣobaɣatedi nɣiɡo onidateci,[],"(litː 'our hands', 'nɣiɡo' goes more one )",['chan2019'],,False,False,,1
+kadi1248-1-12-1,,kadi1248-1,12,niɡotino ɣobaɣatedi nɣiɡo iniwataale,niɡotino ɣobaɣatedi nɣiɡo iniwataale,[],"(litː 'our hands', 'nɣiɡo' goes more two )",['chan2019'],,False,False,,1
+kadi1248-1-13-1,,kadi1248-1,13,niɡotino ɣobaɣatedi nɣiɡo towataadɣi,niɡotino ɣobaɣatedi nɣiɡo towataadɣi,[],,['chan2019'],,False,False,,1
+kadi1248-1-14-1,,kadi1248-1,14,niɡotino ɣobaɣatedi nɣiɡo ɡoatolo,niɡotino ɣobaɣatedi nɣiɡo ɡoatolo,[],,['chan2019'],,False,False,,1
+kadi1248-1-15-1,,kadi1248-1,15,niɡotino ɣodoɣonaɡi,niɡotino ɣodoɣonaɡi,[],"(litː 'end' of our foot', ɣodoɣonaɡi ='our foot'  )",['chan2019'],,False,False,,1
+kadi1248-1-16-1,,kadi1248-1,16,niɡotino ɣodoɣonaɡi nɣiɡo onidateci,niɡotino ɣodoɣonaɡi nɣiɡo onidateci,[],,['chan2019'],,False,False,,1
+kadi1248-1-16-2,,kadi1248-1,16,onadateci,onadateci,[],,['chan2019'],,False,False,,1
+kadi1248-1-17-1,,kadi1248-1,17,niɡotino ɣodoɣonaɡi nɣiɡo iniwataale,niɡotino ɣodoɣonaɡi nɣiɡo iniwataale,[],,['chan2019'],,False,False,,1
+kadi1248-1-18-1,,kadi1248-1,18,niɡotino ɣodoɣonaɡi nɣiɡo towataadɣi,niɡotino ɣodoɣonaɡi nɣiɡo towataadɣi,[],,['chan2019'],,False,False,,1
+kadi1248-1-19-1,,kadi1248-1,19,niɡotino ɣodoɣonaɡi nɣiɡo ɡoatolo,niɡotino ɣodoɣonaɡi nɣiɡo ɡoatolo,[],,['chan2019'],,False,False,,1
+kadi1248-1-20-1,,kadi1248-1,20,onokotioɣo diɡo,onokotioɣo diɡo,[],(litː 'person finish' implying all the digits of his hands and feet ),['chan2019'],,False,False,,1
+kadi1248-1-40-1,,kadi1248-1,40,oko itowata modiɡo(tini),oko itowata modiɡo(tini),[],(litː  'person two finish' ),['chan2019'],,False,False,,1
+kadi1248-1-60-1,,kadi1248-1,60,oko itowataadɣidaɡa modiɡo(tini),oko itowataadɣidaɡa modiɡo(tini),[],(litː  'person three finish' ),['chan2019'],,False,False,,1
+kadi1248-1-80-1,,kadi1248-1,80,oko ɡoatolo modiɡo(tini),oko ɡoatolo modiɡo(tini),[],(litː  'person four finish' ),['chan2019'],,False,False,,1
+kadi1248-1-100-1,,kadi1248-1,100,taalia,taalia,[],( < Portuguese word 'talha' ? ),['chan2019'],,True,False,,1

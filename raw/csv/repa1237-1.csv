@@ -1,0 +1,38 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+repa1237-1-1-1,,repa1237-1,1,isua,isua,[],,['chan2019'],,False,False,,1
+repa1237-1-2-1,,repa1237-1,2,i-rue,i-rue,[],,['chan2019'],,False,False,,1
+repa1237-1-3-1,,repa1237-1,3,i-til,i-til,[],,['chan2019'],,False,False,,1
+repa1237-1-4-1,,repa1237-1,4,i-βas,i-βas,[],,['chan2019'],,False,False,,1
+repa1237-1-5-1,,repa1237-1,5,i-ləme,i-ləme,[],,['chan2019'],,False,False,,1
+repa1237-1-6-1,,repa1237-1,6,loβə-sua,loβə-sua,[],( 5 + 1 ),['chan2019'],,False,False,,1
+repa1237-1-7-1,,repa1237-1,7,loβə-rue,loβə-rue,[],( 5 + 2 ),['chan2019'],,False,False,,1
+repa1237-1-8-1,,repa1237-1,8,loβ-til,loβ-til,[],( 5 + 3 ),['chan2019'],,False,False,,1
+repa1237-1-9-1,,repa1237-1,9,ila-βas,ila-βas,[],( 5 + 4 ),['chan2019'],,False,False,,1
+repa1237-1-10-1,,repa1237-1,10,laŋaβyl,laŋaβyl,[],,['chan2019'],,False,False,,1
+repa1237-1-11-1,,repa1237-1,11,i-laŋaβyl ia-i-sua,i-laŋaβyl ia-i-sua,[],,['chan2019'],,False,False,,1
+repa1237-1-12-1,,repa1237-1,12,i-laŋaβyl ia-i-rue,i-laŋaβyl ia-i-rue,[],,['chan2019'],,False,False,,1
+repa1237-1-13-1,,repa1237-1,13,i-laŋaβyl ia-i-til,i-laŋaβyl ia-i-til,[],,['chan2019'],,False,False,,1
+repa1237-1-14-1,,repa1237-1,14,i-laŋaβyl ia-i-βas,i-laŋaβyl ia-i-βas,[],,['chan2019'],,False,False,,1
+repa1237-1-15-1,,repa1237-1,15,i-laŋaβyl ia-i-ləme,i-laŋaβyl ia-i-ləme,[],,['chan2019'],,False,False,,1
+repa1237-1-16-1,,repa1237-1,16,i-laŋaβyl ia-loβə-sua,i-laŋaβyl ia-loβə-sua,[],,['chan2019'],,False,False,,1
+repa1237-1-17-1,,repa1237-1,17,i-laŋaβyl ia-loβə-rue,i-laŋaβyl ia-loβə-rue,[],,['chan2019'],,False,False,,1
+repa1237-1-18-1,,repa1237-1,18,i-laŋaβyl ia-loβ-til,i-laŋaβyl ia-loβ-til,[],,['chan2019'],,False,False,,1
+repa1237-1-19-1,,repa1237-1,19,i-laŋaβyl ia-ila-βas,i-laŋaβyl ia-ila-βas,[],,['chan2019'],,False,False,,1
+repa1237-1-20-1,,repa1237-1,20,i-laŋaβyl na-ute i-rua,i-laŋaβyl na-ute i-rua,[],,['chan2019'],,False,False,,1
+repa1237-1-21-1,,repa1237-1,21,i-laŋaβyl na-ute i-rua ia i-sua,i-laŋaβyl na-ute i-rua ia i-sua,[],,['chan2019'],,False,False,,1
+repa1237-1-22-1,,repa1237-1,22,i-laŋaβyl na-ute i-rua ia i-rue,i-laŋaβyl na-ute i-rua ia i-rue,[],,['chan2019'],,False,False,,1
+repa1237-1-23-1,,repa1237-1,23,i-laŋaβyl na-ute i-rua ia i-i-til,i-laŋaβyl na-ute i-rua ia i-i-til,[],,['chan2019'],,False,False,,1
+repa1237-1-24-1,,repa1237-1,24,i-laŋaβyl na-ute i-rua ia i-βas,i-laŋaβyl na-ute i-rua ia i-βas,[],,['chan2019'],,False,False,,1
+repa1237-1-25-1,,repa1237-1,25,i-laŋaβyl na-ute i-rua ia i-ləme,i-laŋaβyl na-ute i-rua ia i-ləme,[],,['chan2019'],,False,False,,1
+repa1237-1-26-1,,repa1237-1,26,i-laŋaβyl na-ute i-rua ia i-loβə-sua,i-laŋaβyl na-ute i-rua ia i-loβə-sua,[],,['chan2019'],,False,False,,1
+repa1237-1-27-1,,repa1237-1,27,i-laŋaβyl na-ute i-rua ia i-loβə-rue,i-laŋaβyl na-ute i-rua ia i-loβə-rue,[],,['chan2019'],,False,False,,1
+repa1237-1-28-1,,repa1237-1,28,i-laŋaβyl na-ute i-rua ia i-loβ-til,i-laŋaβyl na-ute i-rua ia i-loβ-til,[],,['chan2019'],,False,False,,1
+repa1237-1-29-1,,repa1237-1,29,i-laŋaβyl na-ute i-rua ia i-ila-βas,i-laŋaβyl na-ute i-rua ia i-ila-βas,[],,['chan2019'],,False,False,,1
+repa1237-1-30-1,,repa1237-1,30,na mukət i-sua ia laŋaβyl,na mukət i-sua ia laŋaβyl,[],,['chan2019'],,False,False,,1
+repa1237-1-40-1,,repa1237-1,40,na mukət i-rue,na mukət i-rue,[],,['chan2019'],,False,False,,1
+repa1237-1-50-1,,repa1237-1,50,na mukət i-rue i-me ləme,na mukət i-rue i-me ləme,[],,['chan2019'],,False,False,,1
+repa1237-1-60-1,,repa1237-1,60,na mukət i-til,na mukət i-til,[],,['chan2019'],,False,False,,1
+repa1237-1-70-1,,repa1237-1,70,na mukət i-til ia laŋaβyl,na mukət i-til ia laŋaβyl,[],,['chan2019'],,False,False,,1
+repa1237-1-80-1,,repa1237-1,80,na mukət i-βas,na mukət i-βas,[],,['chan2019'],,False,False,,1
+repa1237-1-90-1,,repa1237-1,90,na mukət i-βas ia laŋaβyl,na mukət i-βas ia laŋaβyl,[],,['chan2019'],,False,False,,1
+repa1237-1-100-1,,repa1237-1,100,na mukət i-ləme,na mukət i-ləme,[],,['chan2019'],,False,False,,1

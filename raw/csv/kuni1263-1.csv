@@ -1,0 +1,22 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kuni1263-1-1-1,,kuni1263-1,1,kaona,kaona,[],,['chan2019'],,False,False,,1
+kuni1263-1-2-1,,kuni1263-1,2,lua,lua,[],,['chan2019'],,False,False,,1
+kuni1263-1-3-1,,kuni1263-1,3,koi,koi,[],,['chan2019'],,False,False,,1
+kuni1263-1-4-1,,kuni1263-1,4,lualua,lualua,[],,['chan2019'],,False,False,,1
+kuni1263-1-4-2,,kuni1263-1,4,bani,bani,[],,['chan2019'],,False,False,,1
+kuni1263-1-5-1,,kuni1263-1,5,ima kaona,ima kaona,[],( litː 'one hand'),['chan2019'],,False,False,,1
+kuni1263-1-6-1,,kuni1263-1,6,ima kaona kaona,ima kaona kaona,[],( 5+ 1 ),['chan2019'],,False,False,,1
+kuni1263-1-7-1,,kuni1263-1,7,ima kaona lua,ima kaona lua,[],( 5+ 2 ),['chan2019'],,False,False,,1
+kuni1263-1-8-1,,kuni1263-1,8,ima kaona koi,ima kaona koi,[],( 5+ 3 ),['chan2019'],,False,False,,1
+kuni1263-1-9-1,,kuni1263-1,9,ima kaona lualua,ima kaona lualua,[],( 5+ 2 + 2  ),['chan2019'],,False,False,,1
+kuni1263-1-10-1,,kuni1263-1,10,ima lua,ima lua,[],( litː ' two hands'),['chan2019'],,False,False,,1
+kuni1263-1-11-1,,kuni1263-1,11,ima lua kaona,ima lua kaona,[],,['chan2019'],,False,False,,1
+kuni1263-1-12-1,,kuni1263-1,12,ima lua lua,ima lua lua,[],,['chan2019'],,False,False,,1
+kuni1263-1-13-1,,kuni1263-1,13,ima lua koi,ima lua koi,[],,['chan2019'],,False,False,,1
+kuni1263-1-14-1,,kuni1263-1,14,ima lua lualua,ima lua lualua,[],,['chan2019'],,False,False,,1
+kuni1263-1-15-1,,kuni1263-1,15,ima koi,ima koi,[],( litː 'three hands'),['chan2019'],,False,False,,1
+kuni1263-1-16-1,,kuni1263-1,16,ima koi kaona,ima koi kaona,[],,['chan2019'],,False,False,,1
+kuni1263-1-17-1,,kuni1263-1,17,ima koi lua,ima koi lua,[],,['chan2019'],,False,False,,1
+kuni1263-1-18-1,,kuni1263-1,18,ima koi koi,ima koi koi,[],,['chan2019'],,False,False,,1
+kuni1263-1-19-1,,kuni1263-1,19,ima koi lualaua,ima koi lualaua,[],,['chan2019'],,False,False,,1
+kuni1263-1-20-1,,kuni1263-1,20,ima lualua,ima lualua,[],( litː 'four hands'),['chan2019'],,False,False,,1

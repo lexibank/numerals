@@ -1,0 +1,46 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nucl1235-1-1-1,,nucl1235-1,1,mɛk,mɛk,[],,['chan2019'],,False,False,mek,1
+nucl1235-1-2-1,,nucl1235-1,2,jɛɾˈku,jɛɾˈku,[],,['chan2019'],,False,False,erku,1
+nucl1235-1-3-1,,nucl1235-1,3,jɛˈɾɛkʰ,jɛˈɾɛkʰ,[],,['chan2019'],,False,False,erekh,1
+nucl1235-1-4-1,,nucl1235-1,4,t͡ʃʰoɾs,t͡ʃʰoɾs,[],,['chan2019'],,False,False,chors,1
+nucl1235-1-5-1,,nucl1235-1,5,hin.g,hin.g,[],,['chan2019'],,False,False,hing,1
+nucl1235-1-6-1,,nucl1235-1,6,vɛt͡sʰ,vɛt͡sʰ,[],,['chan2019'],,False,False,vec,1
+nucl1235-1-7-1,,nucl1235-1,7,ˈjotʰ,ˈjotʰ,[],,['chan2019'],,False,False,yoth,1
+nucl1235-1-7-2,,nucl1235-1,7,ˈjotʰə,ˈjotʰə,[],(colloquial),['chan2019'],,False,False,,1
+nucl1235-1-8-1,,nucl1235-1,8,ˈutʰ,ˈutʰ,[],,['chan2019'],,False,False,uth,1
+nucl1235-1-8-2,,nucl1235-1,8,ˈutʰʊ,ˈutʰʊ,[],(colloquial),['chan2019'],,False,False,,1
+nucl1235-1-9-1,,nucl1235-1,9,ˈinʊ,ˈinʊ,[],,['chan2019'],,False,False,inn,1
+nucl1235-1-10-1,,nucl1235-1,10,tɑs,tɑs,[],,['chan2019'],,False,False,tas,1
+nucl1235-1-10-2,,nucl1235-1,10,ˈtasʊ,ˈtasʊ,[],,['chan2019'],,False,False,,1
+nucl1235-1-11-1,,nucl1235-1,11,tɑsnʊˈmɛk,tɑsnʊˈmɛk,[],,['chan2019'],,False,False,tasn-mek,1
+nucl1235-1-11-2,,nucl1235-1,11,tasnʊˈmɛk,tasnʊˈmɛk,[],,['chan2019'],,False,False,,1
+nucl1235-1-12-1,,nucl1235-1,12,tɑsnɛɾˈku,tɑsnɛɾˈku,[],,['chan2019'],,False,False,tasn-ereku,1
+nucl1235-1-13-1,,nucl1235-1,13,tɑsnɛˈɾɛkʰ,tɑsnɛˈɾɛkʰ,[],,['chan2019'],,False,False,tasn-erekh,1
+nucl1235-1-14-1,,nucl1235-1,14,tɑsnʊˈt͡ʃʰoɾs,tɑsnʊˈt͡ʃʰoɾs,[],,['chan2019'],,False,False,tasn-chors,1
+nucl1235-1-15-1,,nucl1235-1,15,tɑsnʊˈhing,tɑsnʊˈhing,[],,['chan2019'],,False,False,tasn-hing,1
+nucl1235-1-16-1,,nucl1235-1,16,tɑsnʊˈvɛt͡sʰ,tɑsnʊˈvɛt͡sʰ,[],,['chan2019'],,False,False,tasn-vec,1
+nucl1235-1-17-1,,nucl1235-1,17,tɑsnʊˈjotʰ,tɑsnʊˈjotʰ,[],,['chan2019'],,False,False,tasn-yoth,1
+nucl1235-1-18-1,,nucl1235-1,18,tɑsˈnʊtʰ,tɑsˈnʊtʰ,[],,['chan2019'],,False,False,tasn-uth,1
+nucl1235-1-19-1,,nucl1235-1,19,tɑsˈninʊ,tɑsˈninʊ,[],,['chan2019'],,False,False,tasn-inn,1
+nucl1235-1-20-1,,nucl1235-1,20,kʰsan / kʰʊˈsɑn,kʰsan,[],,['chan2019'],,False,True,khsan,1
+nucl1235-1-20-2,,nucl1235-1,20,kʰsan / kʰʊˈsɑn,kʰʊˈsɑn,[],,['chan2019'],,False,True,khsan,1
+nucl1235-1-21-1,,nucl1235-1,21,ˌkʰsɑn ˈmɛk,ˌkʰsɑn ˈmɛk,[],,['chan2019'],,False,False,khsan-mek,1
+nucl1235-1-22-1,,nucl1235-1,22,ˌkʰsɑn jɛɾˈku,ˌkʰsɑn jɛɾˈku,[],,['chan2019'],,False,False,khsan-erku,1
+nucl1235-1-23-1,,nucl1235-1,23,ˌkʰsɑn jɛˈɾɛkʰ,ˌkʰsɑn jɛˈɾɛkʰ,[],,['chan2019'],,False,False,khsan-erekh,1
+nucl1235-1-24-1,,nucl1235-1,24,ˌkʰsɑn ˈt͡ʃʰoɾs,ˌkʰsɑn ˈt͡ʃʰoɾs,[],,['chan2019'],,False,False,khsan-chors,1
+nucl1235-1-25-1,,nucl1235-1,25,ˌkʰsɑn ˈhin.g,ˌkʰsɑn ˈhin.g,[],,['chan2019'],,False,False,khsan-hing,1
+nucl1235-1-26-1,,nucl1235-1,26,ˌkʰsɑn ˈvɛt͡sʰ,ˌkʰsɑn ˈvɛt͡sʰ,[],,['chan2019'],,False,False,khsan-vec,1
+nucl1235-1-27-1,,nucl1235-1,27,ˌkʰsɑn ˈjotʰ,ˌkʰsɑn ˈjotʰ,[],,['chan2019'],,False,False,khsan-yoth,1
+nucl1235-1-28-1,,nucl1235-1,28,ˌkʰsɑn ˈutʰ,ˌkʰsɑn ˈutʰ,[],,['chan2019'],,False,False,khsan-uth,1
+nucl1235-1-29-1,,nucl1235-1,29,ˌkʰsɑn ˈinʊ,ˌkʰsɑn ˈinʊ,[],,['chan2019'],,False,False,khsan-inn,1
+nucl1235-1-30-1,,nucl1235-1,30,jɛɾɛˈsun,jɛɾɛˈsun,[],,['chan2019'],,False,False,eresun,1
+nucl1235-1-40-1,,nucl1235-1,40,kʰɑraˈsun,kʰɑraˈsun,[],,['chan2019'],,False,False,kharrasun,1
+nucl1235-1-50-1,,nucl1235-1,50,hiˈsun,hiˈsun,[],,['chan2019'],,False,False,hisun,1
+nucl1235-1-60-1,,nucl1235-1,60,vɑtʰˈsun,vɑtʰˈsun,[],,['chan2019'],,False,False,vatsun,1
+nucl1235-1-70-1,,nucl1235-1,70,jotʰɑnɑˈsun,jotʰɑnɑˈsun,[],,['chan2019'],,False,False,yothanasun,1
+nucl1235-1-80-1,,nucl1235-1,80,utʰˈsun,utʰˈsun,[],,['chan2019'],,False,False,utsun,1
+nucl1235-1-90-1,,nucl1235-1,90,innʊˈsun,innʊˈsun,[],,['chan2019'],,False,False,innsun,1
+nucl1235-1-100-1,,nucl1235-1,100,hɑɾˈjuɾ,hɑɾˈjuɾ,[],,['chan2019'],,False,False,haryur,1
+nucl1235-1-200-1,,nucl1235-1,200,jɛɾˈku hɑɾˈjur,jɛɾˈku hɑɾˈjur,[],,['chan2019'],,False,False,erku-haryur,1
+nucl1235-1-1000-1,,nucl1235-1,1000,hɑˈzɑɾ,hɑˈzɑɾ,[],< Irianian ,['chan2019'],,True,False,hazar,1
+nucl1235-1-2000-1,,nucl1235-1,2000,jɛɾˈku hɑˈzɑɾ,jɛɾˈku hɑˈzɑɾ,[],,['chan2019'],,False,False,erku-hazar,1

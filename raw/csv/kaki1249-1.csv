@@ -1,0 +1,8 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kaki1249-1-1-1,,kaki1249-1,1,oki,oki,[],,['chan2019'],,False,False,,1
+kaki1249-1-2-1,,kaki1249-1,2,ü'üka,ü'üka,[],( ü = nasal u [ũ]  and ' = ʔ),['chan2019'],,False,False,,1
+kaki1249-1-3-1,,kaki1249-1,3,ü'üka oki,ü'üka oki,[],( 2 + 1 ),['chan2019'],,False,False,,1
+kaki1249-1-3-2,,kaki1249-1,3,ü'üka pau'a,ü'üka pau'a,[],,['chan2019'],,False,False,,1
+kaki1249-1-4-1,,kaki1249-1,4,ü'üka ü'üka,ü'üka ü'üka,[],( 2 + 2 ),['chan2019'],,False,False,,1
+kaki1249-1-5-1,,kaki1249-1,5,upu oka'i,upu oka'i,[],,['chan2019'],,False,False,,1
+kaki1249-1-10-1,,kaki1249-1,10,(upu) oka'i oka'i,(upu) oka'i oka'i,[],,['chan2019'],,False,False,,1

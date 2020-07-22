@@ -1,0 +1,6 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ship1254-1-1-1,,ship1254-1,1,at͡ʃúi,at͡ʃúi,[], ([v́] indicates primary stress),['chan2019'],,False,False,,1
+ship1254-1-2-1,,ship1254-1,2,raβʷɨ,raβʷɨ,[],(primary stress on ɨ),['chan2019'],,False,False,,1
+ship1254-1-3-1,,ship1254-1,3,kimiʃa,kimiʃa,[],"(borrowed from Shipibo-Konibo that in turn borrowed it from Quechua, maybe through Ashaninka // This numeral is barely used in my database)",['chan2019'],,True,False,,1
+ship1254-1-5-1,,ship1254-1,5,mápai,mápai,[],"(this word seems to be historically related to hand, but synchronically it is not; a different word ‘meken’ is used for hand // This numeral is barely used and it seems to be a neologism recently introduced by school teachers)",['chan2019'],,True,False,,1
+ship1254-1-10-1,,ship1254-1,10,raβʷɨ mápai,raβʷɨ mápai,[],(compound consisting of the words for 2 nd 5) Numbers do not go above 11.,['chan2019'],,True,False,,1

@@ -1,0 +1,37 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kara1500-1-1-1,,kara1500-1,1,soho'dʒi,soho'dʒi,[],,['chan2019'],,False,False,sohoji,1
+kara1500-1-2-1,,kara1500-1,2,ina'tʃi,ina'tʃi,[],,['chan2019'],,False,False,inatxi,1
+kara1500-1-3-1,,kara1500-1,3,ina'taõ,ina'taõ,[],,['chan2019'],,False,False,inataõ,1
+kara1500-1-3-2,,kara1500-1,3,ina'tano,ina'tano,[],,['chan2019'],,False,False,♀ inatano,1
+kara1500-1-4-1,,kara1500-1,4,inaˈubio'wa,inaˈubio'wa,[],,['chan2019'],,False,False,inaubiòwa,1
+kara1500-1-4-2,,kara1500-1,4,inaˈkubiko'wa,inaˈkubiko'wa,[],,['chan2019'],,False,False,♀ inakubikòwa,1
+kara1500-1-5-1,,kara1500-1,5,iruɨ'rɛ,iruɨ'rɛ,[],,['chan2019'],,False,False,iruyrè,1
+kara1500-1-5-2,,kara1500-1,5,iruɨkɨ'rɛ,iruɨkɨ'rɛ,[],,['chan2019'],,False,False,♀ irukyrè,1
+kara1500-1-6-1,,kara1500-1,6,debɔˈɔ soho'dʒi,debɔˈɔ soho'dʒi,[],,['chan2019'],,False,False,dèbòò sohoji,1
+kara1500-1-6-2,,kara1500-1,6,debɔˈkɔ soho'dʒi,debɔˈkɔ soho'dʒi,[],('hand+one'),['chan2019'],,False,False,♀dèbòkò sohoji,1
+kara1500-1-7-1,,kara1500-1,7,debɔˈɔ ina'tʃi,debɔˈɔ ina'tʃi,[],,['chan2019'],,False,False,dèbòò inatxi,1
+kara1500-1-7-2,,kara1500-1,7,debɔˈkɔ ina'tʃi ],debɔˈkɔ ina'tʃi ],[],('hand+two'),['chan2019'],,False,True,♀dèbòkò inatxi,1
+kara1500-1-8-1,,kara1500-1,8,debɔˈɔ ina'taõ,debɔˈɔ ina'taõ,[],,['chan2019'],,False,False,dèbòò inataõ,1
+kara1500-1-8-2,,kara1500-1,8,debɔˈkɔ inata'nõ,debɔˈkɔ inata'nõ,[],('hand+three'),['chan2019'],,False,False,♀dèbòkò inatano,1
+kara1500-1-9-1,,kara1500-1,9,debɔˈɔ inaˈubio'wa,debɔˈɔ inaˈubio'wa,[],,['chan2019'],,False,False,dèbòò inaubiòwa,1
+kara1500-1-9-2,,kara1500-1,9,debɔˈkɔ inaˈkubiko'wa,debɔˈkɔ inaˈkubiko'wa,[],('hand+four'),['chan2019'],,False,False,♀dèbòkò inakubikòwa,1
+kara1500-1-10-1,,kara1500-1,10,de'bɔ itu'ɛ ('hands no more'],de'bɔ itu'ɛ ('hands no more'],[],,['chan2019'],,False,True,dèbò ituè,1
+kara1500-1-11-1,,kara1500-1,11,wa'ɔ soho'dʒi,wa'ɔ soho'dʒi,[],,['chan2019'],,False,False,waò sohoji,1
+kara1500-1-11-2,,kara1500-1,11,wa'kɔ soho'dʒi,wa'kɔ soho'dʒi,[],('foot+one'),['chan2019'],,False,False,♀ wakò sohoji,1
+kara1500-1-12-1,,kara1500-1,12,wa'ɔ ina'tʃi,wa'ɔ ina'tʃi,[],,['chan2019'],,False,False,waò inatxi,1
+kara1500-1-12-2,,kara1500-1,12,wa'kɔ ina'tʃi,wa'kɔ ina'tʃi,[],('foot+two'),['chan2019'],,False,False,♀ wakò  inatxi,1
+kara1500-1-13-1,,kara1500-1,13,wa'ɔ ina'taõ,wa'ɔ ina'taõ,[],,['chan2019'],,False,False,waò inataõ,1
+kara1500-1-13-2,,kara1500-1,13,wa'kɔ ina'tano ],wa'kɔ ina'tano ],[],('foot+three'),['chan2019'],,False,True,♀ wakò inatanõ,1
+kara1500-1-14-1,,kara1500-1,14,wa'ɔ inaˈubio'wa,wa'ɔ inaˈubio'wa,[],,['chan2019'],,False,False,waò inaubiòwa,1
+kara1500-1-14-2,,kara1500-1,14,wa'kɔ inaˈkubiko'wa,wa'kɔ inaˈkubiko'wa,[],('foot+four'),['chan2019'],,False,False,♀wakò inakubikòwa,1
+kara1500-1-15-1,,kara1500-1,15,waiɨ'rɛ,waiɨ'rɛ,[],,['chan2019'],,False,False,waiyrè,1
+kara1500-1-15-2,,kara1500-1,15,waikɨ'rɛ,waikɨ'rɛ,[],,['chan2019'],,False,False,♀ waikyrè,1
+kara1500-1-16-1,,kara1500-1,16,waiɨ're'ɔ soho'dʒi ɾeu'rɔ,waiɨ're'ɔ soho'dʒi ɾeu'rɔ,[],,['chan2019'],,False,False,waiyrèò  sohoji reurò,1
+kara1500-1-16-2,,kara1500-1,16,waikɨ're'kɔ soho'dʒi reku'rɔ,waikɨ're'kɔ soho'dʒi reku'rɔ,[],,['chan2019'],,False,False,♀ waikyrèkò sohoji rekurò,1
+kara1500-1-17-1,,kara1500-1,17,waiɨ're'ɔ ina'tʃi ɾeu'rɔ,waiɨ're'ɔ ina'tʃi ɾeu'rɔ,[],,['chan2019'],,False,False,waiyrèò  inatxi reurò,1
+kara1500-1-17-2,,kara1500-1,17,waikɨ're'kɔ ina'tʃi reku'rɔ,waikɨ're'kɔ ina'tʃi reku'rɔ,[],,['chan2019'],,False,False,♀ waikyrèkò inatxi rekurò,1
+kara1500-1-18-1,,kara1500-1,18,waiɨ're'ɔ ina'taõ ɾeu'rɔ,waiɨ're'ɔ ina'taõ ɾeu'rɔ,[],,['chan2019'],,False,False,waiyrèò inataõ reurò,1
+kara1500-1-18-2,,kara1500-1,18,waikɨ're'kɔ inata'nõ reku'rɔ,waikɨ're'kɔ inata'nõ reku'rɔ,[],,['chan2019'],,False,False,♀ waikyrèkò inatano rekurò,1
+kara1500-1-19-1,,kara1500-1,19,waiɨ're'ɔ inaˈubio'wa ɾeu'rɔ,waiɨ're'ɔ inaˈubio'wa ɾeu'rɔ,[],,['chan2019'],,False,False,waiyrèò inaubiòwa reurò,1
+kara1500-1-19-2,,kara1500-1,19,waikɨ're'kɔ inaˈkubiko'wa reku'rɔ,waikɨ're'kɔ inaˈkubiko'wa reku'rɔ,[],,['chan2019'],,False,False,♀ waikyrèkò inakubikòwa rekurò,1
+kara1500-1-20-1,,kara1500-1,20,waitu'ɛ,waitu'ɛ,[],('feet no more'),['chan2019'],,False,False,waituè,1

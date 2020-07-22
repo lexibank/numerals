@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tiwi1244-1-1-1,,tiwi1244-1,1,yati,yati,[],,['chan2019'],,False,False,,1
+tiwi1244-1-1-2,,tiwi1244-1,1,yati,yati,[],,['chan2019'],,False,False,,1
+tiwi1244-1-1-3,,tiwi1244-1,1,nyatinga,nyatinga,[],,['chan2019'],,False,False,,1
+tiwi1244-1-1-4,,tiwi1244-1,1,ɲatiŋa,ɲatiŋa,[],,['chan2019'],,False,False,,1
+tiwi1244-1-1-5,,tiwi1244-1,1,natinga,natinga,[],,['chan2019'],,False,False,,1
+tiwi1244-1-1-6,,tiwi1244-1,1,natiŋa,natiŋa,[],,['chan2019'],,False,False,,1
+tiwi1244-1-2-1,,tiwi1244-1,2,yirrara,yirrara,[],,['chan2019'],,False,False,,1
+tiwi1244-1-2-2,,tiwi1244-1,2,yiraɽa,yiraɽa,[],,['chan2019'],,False,False,,1
+tiwi1244-1-2-3,,tiwi1244-1,2,jara,jara,[],,['chan2019'],,False,False,,1
+tiwi1244-1-2-4,,tiwi1244-1,2,tʃaɽa,tʃaɽa,[],,['chan2019'],,False,False,,1
+tiwi1244-1-2-5,,tiwi1244-1,2,yuwurrara,yuwurrara,[],,['chan2019'],,False,False,,1
+tiwi1244-1-2-6,,tiwi1244-1,2,yuwuraɽa,yuwuraɽa,[],,['chan2019'],,False,False,,1
+tiwi1244-1-3-1,,tiwi1244-1,3,yirrajirrima,yirrajirrima,[],,['chan2019'],,False,False,,1
+tiwi1244-1-3-2,,tiwi1244-1,3,yiratʃirima,yiratʃirima,[],,['chan2019'],,False,False,,1
+tiwi1244-1-3-3,,tiwi1244-1,3,jajirrima,jajirrima,[],,['chan2019'],,False,False,,1
+tiwi1244-1-3-4,,tiwi1244-1,3,tʃatʃirima,tʃatʃirima,[],,['chan2019'],,False,False,,1
+tiwi1244-1-3-5,,tiwi1244-1,3,yuwurrajirrima,yuwurrajirrima,[],,['chan2019'],,False,False,,1
+tiwi1244-1-3-6,,tiwi1244-1,3,yuwuratʃirima,yuwuratʃirima,[],,['chan2019'],,False,False,,1
+tiwi1244-1-4-1,,tiwi1244-1,4,yatapinti,yatapinti,[],,['chan2019'],,False,False,,1
+tiwi1244-1-4-2,,tiwi1244-1,4,yatapinti,yatapinti,[],,['chan2019'],,False,False,,1
+tiwi1244-1-4-3,,tiwi1244-1,4,yatawulingirri,yatawulingirri,[],,['chan2019'],,False,False,,1
+tiwi1244-1-4-4,,tiwi1244-1,4,yatawuliŋiri,yatawuliŋiri,[],,['chan2019'],,False,False,,1
+tiwi1244-1-4-5,,tiwi1244-1,4,yukurri,yukurri,[],,['chan2019'],,False,False,,1
+tiwi1244-1-4-6,,tiwi1244-1,4,yukuri,yukuri,[],,['chan2019'],,False,False,,1
+tiwi1244-1-5-1,,tiwi1244-1,5,pinginingita,pinginingita,[],,['chan2019'],,False,False,,1
+tiwi1244-1-5-2,,tiwi1244-1,5,piŋiŋita,piŋiŋita,[],,['chan2019'],,False,False,,1
+tiwi1244-1-6-1,,tiwi1244-1,6,kiringarra,kiringarra,[],,['chan2019'],,False,False,,1
+tiwi1244-1-6-2,,tiwi1244-1,6,kiɽiŋara,kiɽiŋara,[],,['chan2019'],,False,False,,1
+tiwi1244-1-7-1,,tiwi1244-1,7,kiringarra yati,kiringarra yati,[],( 6 + 1 ) ( masculine ),['chan2019'],,False,False,,1
+tiwi1244-1-7-2,,tiwi1244-1,7,walimani,walimani,[],,['chan2019'],,False,False,,1
+tiwi1244-1-7-3,,tiwi1244-1,7,walimani,walimani,[],,['chan2019'],,False,False,,1
+tiwi1244-1-8-1,,tiwi1244-1,8,kiringarra yirrara,kiringarra yirrara,[],( 6 + 2 ),['chan2019'],,False,False,,1
+tiwi1244-1-8-2,,tiwi1244-1,8,pinginingita yirrajirrima,pinginingita yirrajirrima,[],( 5 + 3 ),['chan2019'],,False,False,,1
+tiwi1244-1-8-3,,tiwi1244-1,8,punyipunyinga,punyipunyinga,[],,['chan2019'],,False,False,,1
+tiwi1244-1-8-4,,tiwi1244-1,8,punyipuŋiŋ,punyipuŋiŋ,[],,['chan2019'],,False,False,,1
+tiwi1244-1-9-1,,tiwi1244-1,9,kiringarra yatawulingirri,kiringarra yatawulingirri,[],( 6 + 2 ),['chan2019'],,False,False,,1
+tiwi1244-1-9-2,,tiwi1244-1,9,punyipunyinga yati,punyipunyinga yati,[],,['chan2019'],,False,False,,1
+tiwi1244-1-9-3,,tiwi1244-1,9,natinga,natinga,[],( 8 + 1 ),['chan2019'],,False,False,,1
+tiwi1244-1-10-1,,tiwi1244-1,10,wumutirrara,wumutirrara,[],,['chan2019'],,False,False,,1

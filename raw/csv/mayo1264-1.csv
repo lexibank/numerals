@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mayo1264-1-1-1,,mayo1264-1,1,we.pu.ˀu.la,we.pu.ˀu.la,[],,['chan2019'],,False,False,wépüla,1
+mayo1264-1-2-1,,mayo1264-1,2,'woː.ji,'woː.ji,[],,['chan2019'],,False,False,wooyi,1
+mayo1264-1-3-1,,mayo1264-1,3,'bax.xi,'bax.xi,[],,['chan2019'],,False,False,bajji,1
+mayo1264-1-4-1,,mayo1264-1,4,'nai.ki,'nai.ki,[],,['chan2019'],,False,False,nayki,1
+mayo1264-1-5-1,,mayo1264-1,5,'mam.ni,'mam.ni,[],,['chan2019'],,False,False,mamni,1
+mayo1264-1-6-1,,mayo1264-1,6,'bu.sa.ni,'bu.sa.ni,[],,['chan2019'],,False,False,búsani,1
+mayo1264-1-7-1,,mayo1264-1,7,woi.'bu.sa.ni,woi.'bu.sa.ni,[],,['chan2019'],,False,False,woybúsani,1
+mayo1264-1-8-1,,mayo1264-1,8,woh.'nai.ki,woh.'nai.ki,[],,['chan2019'],,False,False,woxnayki,1
+mayo1264-1-9-1,,mayo1264-1,9,'ba.ta.ni,'ba.ta.ni,[],,['chan2019'],,False,False,bátani,1
+mayo1264-1-10-1,,mayo1264-1,10,woh.'mam.ni,woh.'mam.ni,[],,['chan2019'],,False,False,woxmamni,1
+mayo1264-1-11-1,,mayo1264-1,11,woxmamni ama wépüla,woxmamni ama wépüla,[],,['chan2019'],,False,False,,1
+mayo1264-1-12-1,,mayo1264-1,12,woxmamni ama wooyi,woxmamni ama wooyi,[],,['chan2019'],,False,False,,1
+mayo1264-1-13-1,,mayo1264-1,13,woxmamni ama bajji,woxmamni ama bajji,[],,['chan2019'],,False,False,,1
+mayo1264-1-14-1,,mayo1264-1,14,woxmamni ama nayki,woxmamni ama nayki,[],,['chan2019'],,False,False,,1
+mayo1264-1-15-1,,mayo1264-1,15,woxmamni ama mamni,woxmamni ama mamni,[],,['chan2019'],,False,False,,1
+mayo1264-1-16-1,,mayo1264-1,16,woxmamni ama búsani,woxmamni ama búsani,[],,['chan2019'],,False,False,,1
+mayo1264-1-17-1,,mayo1264-1,17,woxmamni ama woybúsani,woxmamni ama woybúsani,[],,['chan2019'],,False,False,,1
+mayo1264-1-18-1,,mayo1264-1,18,woxmamni ama woxnayki,woxmamni ama woxnayki,[],,['chan2019'],,False,False,,1
+mayo1264-1-19-1,,mayo1264-1,19,woxmamni ama bátani,woxmamni ama bátani,[],,['chan2019'],,False,False,,1
+mayo1264-1-20-1,,mayo1264-1,20,'seːnu.ta.ˌka.wa,'seːnu.ta.ˌka.wa,[],,['chan2019'],,False,False,seenu takáwa,1
+mayo1264-1-21-1,,mayo1264-1,21,seenu takáwa ama wépüla,seenu takáwa ama wépüla,[],,['chan2019'],,False,False,,1
+mayo1264-1-22-1,,mayo1264-1,22,seenu takáwa ama wooyi,seenu takáwa ama wooyi,[],,['chan2019'],,False,False,,1
+mayo1264-1-23-1,,mayo1264-1,23,seenu takáwa ama bajji,seenu takáwa ama bajji,[],,['chan2019'],,False,False,,1
+mayo1264-1-24-1,,mayo1264-1,24,seenu takáwa ama nayki,seenu takáwa ama nayki,[],,['chan2019'],,False,False,,1
+mayo1264-1-25-1,,mayo1264-1,25,seenu takáwa ama mamni,seenu takáwa ama mamni,[],,['chan2019'],,False,False,,1
+mayo1264-1-26-1,,mayo1264-1,26,seenu takáwa ama búsani,seenu takáwa ama búsani,[],,['chan2019'],,False,False,,1
+mayo1264-1-27-1,,mayo1264-1,27,seenu takáwa ama woybúsani,seenu takáwa ama woybúsani,[],,['chan2019'],,False,False,,1
+mayo1264-1-28-1,,mayo1264-1,28,seenu takáwa ama woxnayki,seenu takáwa ama woxnayki,[],,['chan2019'],,False,False,,1
+mayo1264-1-29-1,,mayo1264-1,29,seenu takáwa ama bátani,seenu takáwa ama bátani,[],,['chan2019'],,False,False,,1
+mayo1264-1-30-1,,mayo1264-1,30,seenu takáwa ama woxmamni,seenu takáwa ama woxmamni,[],,['chan2019'],,False,False,,1
+mayo1264-1-40-1,,mayo1264-1,40,wooy takáwa,wooy takáwa,[],,['chan2019'],,False,False,,1
+mayo1264-1-50-1,,mayo1264-1,50,wooy takáwa ama woxmamni,wooy takáwa ama woxmamni,[],,['chan2019'],,False,False,,1
+mayo1264-1-60-1,,mayo1264-1,60,bajji takáwa,bajji takáwa,[],( 3 x 20 ),['chan2019'],,False,False,,1
+mayo1264-1-70-1,,mayo1264-1,70,bajji takáwa ama woxmamni,bajji takáwa ama woxmamni,[],,['chan2019'],,False,False,,1
+mayo1264-1-80-1,,mayo1264-1,80,nayki takáwa,nayki takáwa,[],( 4 x 20 ),['chan2019'],,False,False,,1
+mayo1264-1-90-1,,mayo1264-1,90,nayki takáwa ama woxmamni,nayki takáwa ama woxmamni,[],,['chan2019'],,False,False,,1
+mayo1264-1-100-1,,mayo1264-1,100,mamni takáwa,mamni takáwa,[],( 5 x 20 ),['chan2019'],,False,False,,1
+mayo1264-1-200-1,,mayo1264-1,200,woxmamni takáwa,woxmamni takáwa,[],( 2 x  4 x 20 ),['chan2019'],,False,False,,1
+mayo1264-1-1000-1,,mayo1264-1,1000,miːl,miːl,[],< loan from Spanish ,['chan2019'],,True,False,míil,1
+mayo1264-1-2000-1,,mayo1264-1,2000,doh.'miːl,doh.'miːl,[],,['chan2019'],,False,False,doxmíil,1

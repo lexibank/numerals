@@ -1,0 +1,15 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+adze1240-2-1-1,,adze1240-2,1,bitsinta,bitsinta,[],,['chan2019'],,False,False,,2
+adze1240-2-1-2,,adze1240-2,1,biciⁿitaʔ,biciⁿitaʔ,[],,['chan2019'],,False,False,,2
+adze1240-2-2-1,,adze1240-2,2,iruʔ,iruʔ,[],,['chan2019'],,False,False,,2
+adze1240-2-3-1,,adze1240-2,3,iruʔ da bits,iruʔ da bits,[],( 2 + 1 ),['chan2019'],,False,False,,2
+adze1240-2-4-1,,adze1240-2,4,iruʔ da iruʔ,iruʔ da iruʔ,[],( 2 + 2 ),['chan2019'],,False,False,,2
+adze1240-2-5-1,,adze1240-2,5,iruʔ da iruʔ da bits,iruʔ da iruʔ da bits,[],( 2 + 2 + 1 ),['chan2019'],,False,False,,2
+adze1240-2-5-2,,adze1240-2,5,baŋ biciⁿitaʔ,baŋ biciⁿitaʔ,[],(litː 'one hand' ),['chan2019'],,False,False,,2
+adze1240-2-6-1,,adze1240-2,6,iruʔ da iruʔ da iruʔ,iruʔ da iruʔ da iruʔ,[],( 2 + 2 + 2),['chan2019'],,False,False,,2
+adze1240-2-7-1,,adze1240-2,7,iruʔ da iruʔ da iruʔ da bits,iruʔ da iruʔ da iruʔ da bits,[],( 2 + 2 + 2 + 1),['chan2019'],,False,False,,2
+adze1240-2-8-1,,adze1240-2,8,iruʔ da iruʔ da iruʔ da iruʔ,iruʔ da iruʔ da iruʔ da iruʔ,[],( 2 + 2 + 2 + 2),['chan2019'],,False,False,,2
+adze1240-2-9-1,,adze1240-2,9,iruʔ da iruʔ da iruʔ da iruʔ da bits,iruʔ da iruʔ da iruʔ da iruʔ da bits,[],( 2 + 2 + 2 + 2 + 1 ),['chan2019'],,False,False,,2
+adze1240-2-10-1,,adze1240-2,10,baŋi marafain da baŋi marafain,baŋi marafain da baŋi marafain,[],(litː 'my hand one side and my hand other side),['chan2019'],,False,False,,2
+adze1240-2-15-1,,adze1240-2,15,baŋi marafain da baŋi marafain da faɡa-ŋʔ marafain,baŋi marafain da baŋi marafain da faɡa-ŋʔ marafain,[],,['chan2019'],,False,False,,2
+adze1240-2-20-1,,adze1240-2,20,baŋi-ŋʔ iruʔun da faɡa-ŋʔ iruʔun,baŋi-ŋʔ iruʔun da faɡa-ŋʔ iruʔun,[],(litː 'my hands two and feet two'),['chan2019'],,False,False,,2

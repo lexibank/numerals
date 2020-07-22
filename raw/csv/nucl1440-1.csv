@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nucl1440-1-1-1,,nucl1440-1,1,tîyom,tîyom,[],(without noun),['chan2019'],,False,False,,1
+nucl1440-1-1-2,,nucl1440-1,1,tîle,tîle,[],(with n.),['chan2019'],,False,False,,1
+nucl1440-1-2-1,,nucl1440-1,2,mbara,mbara,[],,['chan2019'],,False,False,,1
+nucl1440-1-3-1,,nucl1440-1,3,kaŋ,kaŋ,[],,['chan2019'],,False,False,,1
+nucl1440-1-4-1,,nucl1440-1,4,as,as,[],,['chan2019'],,False,False,,1
+nucl1440-1-5-1,,nucl1440-1,5,tur,tur,[],,['chan2019'],,False,False,,1
+nucl1440-1-6-1,,nucl1440-1,6,iti,iti,[],,['chan2019'],,False,False,,1
+nucl1440-1-7-1,,nucl1440-1,7,mâri,mâri,[],,['chan2019'],,False,False,,1
+nucl1440-1-8-1,,nucl1440-1,8,aya,aya,[],,['chan2019'],,False,False,,1
+nucl1440-1-9-1,,nucl1440-1,9,adey,adey,[],,['chan2019'],,False,False,,1
+nucl1440-1-10-1,,nucl1440-1,10,ûtuk,ûtuk,[],(*),['chan2019'],,False,False,,1
+nucl1440-1-11-1,,nucl1440-1,11,(ûtuk)-tûluŋuny,(ûtuk)-tûluŋuny,[],,['chan2019'],,False,False,,1
+nucl1440-1-11-2,,nucl1440-1,11,or ûtuk dole tu,or ûtuk dole tu,[],,['chan2019'],,False,True,,1
+nucl1440-1-12-1,,nucl1440-1,12,(ûtuk)-mbar-naŋany,(ûtuk)-mbar-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-13-1,,nucl1440-1,13,(ûtuk)-kaŋ-naŋany,(ûtuk)-kaŋ-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-14-1,,nucl1440-1,14,(ûtuk)-as-naŋany,(ûtuk)-as-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-15-1,,nucl1440-1,15,(ûtuk)-tur-naŋany,(ûtuk)-tur-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-16-1,,nucl1440-1,16,(ûtuk)-iti-naŋany,(ûtuk)-iti-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-17-1,,nucl1440-1,17,(ûtuk)-mari-naŋany,(ûtuk)-mari-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-18-1,,nucl1440-1,18,(ûtuk)-aya-naŋany,(ûtuk)-aya-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-19-1,,nucl1440-1,19,(ûtuk)-adey-naŋany,(ûtuk)-adey-naŋany,[],,['chan2019'],,False,False,,1
+nucl1440-1-20-1,,nucl1440-1,20,ûtuk-ûtukata mbara,ûtuk-ûtukata mbara,[],,['chan2019'],,False,False,,1
+nucl1440-1-21-1,,nucl1440-1,21,ûtuk-ûtukata mbara dole tu,ûtuk-ûtukata mbara dole tu,[],,['chan2019'],,False,False,,1
+nucl1440-1-21-2,,nucl1440-1,21,or dole tîle,or dole tîle,[],,['chan2019'],,False,True,,1
+nucl1440-1-22-1,,nucl1440-1,22,ûtuk-ûtukata mbara dole mbara,ûtuk-ûtukata mbara dole mbara,[],,['chan2019'],,False,False,,1
+nucl1440-1-23-1,,nucl1440-1,23,ûtuk-ûtukata mbara dole kaŋ,ûtuk-ûtukata mbara dole kaŋ,[],,['chan2019'],,False,False,,1
+nucl1440-1-24-1,,nucl1440-1,24,ûtuk-ûtukata mbara dole as,ûtuk-ûtukata mbara dole as,[],,['chan2019'],,False,False,,1
+nucl1440-1-25-1,,nucl1440-1,25,ûtuk-ûtukata mbara dole tur,ûtuk-ûtukata mbara dole tur,[],,['chan2019'],,False,False,,1
+nucl1440-1-26-1,,nucl1440-1,26,ûtuk-ûtukata mbara dole iti,ûtuk-ûtukata mbara dole iti,[],,['chan2019'],,False,False,,1
+nucl1440-1-27-1,,nucl1440-1,27,ûtuk-ûtukata mbara dole mâri,ûtuk-ûtukata mbara dole mâri,[],,['chan2019'],,False,False,,1
+nucl1440-1-28-1,,nucl1440-1,28,ûtuk-ûtukata mbara dole aya,ûtuk-ûtukata mbara dole aya,[],,['chan2019'],,False,False,,1
+nucl1440-1-29-1,,nucl1440-1,29,ûtuk-ûtukata mbara dole adey,ûtuk-ûtukata mbara dole adey,[],,['chan2019'],,False,False,,1
+nucl1440-1-30-1,,nucl1440-1,30,ûtuk-ûtukata kaŋ,ûtuk-ûtukata kaŋ,[],,['chan2019'],,False,False,,1
+nucl1440-1-30-2,,nucl1440-1,30,ûtuk-ûtuk-ɡani-kaŋ,ûtuk-ûtuk-ɡani-kaŋ,[],,['chan2019'],,False,False,,1
+nucl1440-1-40-1,,nucl1440-1,40,ûtuk-ûtukata as,ûtuk-ûtukata as,[],,['chan2019'],,False,False,,1
+nucl1440-1-50-1,,nucl1440-1,50,ûtuk-ûtukata tur,ûtuk-ûtukata tur,[],,['chan2019'],,False,False,,1
+nucl1440-1-60-1,,nucl1440-1,60,ûtuk-ûtukata iti,ûtuk-ûtukata iti,[],,['chan2019'],,False,False,,1
+nucl1440-1-70-1,,nucl1440-1,70,ûtuk-ûtukata mâri,ûtuk-ûtukata mâri,[],,['chan2019'],,False,False,,1
+nucl1440-1-80-1,,nucl1440-1,80,ûtuk-ûtukata aya,ûtuk-ûtukata aya,[],,['chan2019'],,False,False,,1
+nucl1440-1-90-1,,nucl1440-1,90,ûtuk-ûtukata adey,ûtuk-ûtukata adey,[],,['chan2019'],,False,False,,1
+nucl1440-1-100-1,,nucl1440-1,100,ûtuk-ûtukata ûtuk,ûtuk-ûtukata ûtuk,[],,['chan2019'],,False,False,,1
+nucl1440-1-200-1,,nucl1440-1,200,ûtuk-ûtukata ûtuk mbara,ûtuk-ûtukata ûtuk mbara,[],,['chan2019'],,False,False,,1
+nucl1440-1-1000-1,,nucl1440-1,1000,aduma,aduma,[],,['chan2019'],,False,False,,1
+nucl1440-1-1000-2,,nucl1440-1,1000,buta,buta,[],,['chan2019'],,False,False,,1
+nucl1440-1-2000-1,,nucl1440-1,2000,adumany mbara,adumany mbara,[],,['chan2019'],,False,False,,1
+nucl1440-1-2000-2,,nucl1440-1,2000,butany mbara,butany mbara,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+deni1241-2-1-1,,deni1241-2,1,uhariaru,uhariaru,[],,['chan2019'],,False,False,,2
+deni1241-2-2-1,,deni1241-2,2,pamaru,pamaru,[],,['chan2019'],,False,False,,2
+deni1241-2-2-2,,deni1241-2,2,duhi-kanaru,duhi-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-3-1,,deni1241-2,3,pamihi uharihi,pamihi uharihi,[],( 2 + 1 ),['chan2019'],,False,False,,2
+deni1241-2-3-2,,deni1241-2,3,tirihi-kanaru,tirihi-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-4-1,,deni1241-2,4,pamihi pamihi,pamihi pamihi,[],( 2 + 2 ),['chan2019'],,False,False,,2
+deni1241-2-4-2,,deni1241-2,4,kuatu-kanaru,kuatu-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-5-1,,deni1241-2,5,izɛpɛ kahariaru,izɛpɛ kahariaru,[],(lit: ''one hand'' ),['chan2019'],,False,False,,2
+deni1241-2-5-2,,deni1241-2,5,siku-kanaru,siku-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-6-1,,deni1241-2,6,izɛpɛ kahariaru,izɛpɛ kahariaru,[],,['chan2019'],,False,False,,2
+deni1241-2-6-2,,deni1241-2,6,sihi-kanaru,sihi-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-7-1,,deni1241-2,7,seti-kanaru,seti-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-8-1,,deni1241-2,8,uitu-kanaru,uitu-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-9-1,,deni1241-2,9,ovi-kanaru,ovi-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-10-1,,deni1241-2,10,izɛpɛ kapamaru,izɛpɛ kapamaru,[],(lit: ''two hands'' ),['chan2019'],,False,False,,2
+deni1241-2-10-2,,deni1241-2,10,dehi-kanaru,dehi-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-15-1,,deni1241-2,15,izɛpɛ kaharihi,izɛpɛ kaharihi,[],,['chan2019'],,False,False,,2
+deni1241-2-20-1,,deni1241-2,20,izɛpɛ kapamihi kapamihi,izɛpɛ kapamihi kapamihi,[],,['chan2019'],,False,False,,2
+deni1241-2-20-2,,deni1241-2,20,viti-kanaru,viti-kanaru,[],,['chan2019'],,False,False,,2
+deni1241-2-20-3,,deni1241-2,20,30.tinita-kanaru,30.tinita-kanaru,[],,['chan2019'],,False,True,,2
+deni1241-2-20-4,,deni1241-2,20,40.kuareta-kanaru 50. sikueta-kanaru,40.kuareta-kanaru 50. sikueta-kanaru,[],,['chan2019'],,False,True,,2
+deni1241-2-20-5,,deni1241-2,20,60.seseta-kanaru,60.seseta-kanaru,[],,['chan2019'],,False,True,,2

@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+dong1288-1-1-1,,dong1288-1,1,weer,weer,[],,['chan2019'],,False,False,,1
+dong1288-1-2-1,,dong1288-1,2,owwi,owwi,[],,['chan2019'],,False,False,,1
+dong1288-1-3-1,,dong1288-1,3,toski,toski,[],,['chan2019'],,False,False,,1
+dong1288-1-4-1,,dong1288-1,4,kemis,kemis,[],,['chan2019'],,False,False,,1
+dong1288-1-5-1,,dong1288-1,5,dij,dij,[],,['chan2019'],,False,False,,1
+dong1288-1-6-1,,dong1288-1,6,ɡorij,ɡorij,[],,['chan2019'],,False,False,,1
+dong1288-1-7-1,,dong1288-1,7,kolod,kolod,[],,['chan2019'],,False,False,,1
+dong1288-1-8-1,,dong1288-1,8,idiw,idiw,[],,['chan2019'],,False,False,,1
+dong1288-1-9-1,,dong1288-1,9,iskood,iskood,[],,['chan2019'],,False,False,,1
+dong1288-1-10-1,,dong1288-1,10,dimin,dimin,[],,['chan2019'],,False,False,,1
+dong1288-1-11-1,,dong1288-1,11,dimindo weer,dimindo weer,[],,['chan2019'],,False,False,,1
+dong1288-1-12-1,,dong1288-1,12,dimindo owwi,dimindo owwi,[],,['chan2019'],,False,False,,1
+dong1288-1-13-1,,dong1288-1,13,dimindo toski,dimindo toski,[],,['chan2019'],,False,False,,1
+dong1288-1-14-1,,dong1288-1,14,dimindo kemis,dimindo kemis,[],,['chan2019'],,False,False,,1
+dong1288-1-15-1,,dong1288-1,15,dimindo dij,dimindo dij,[],,['chan2019'],,False,False,,1
+dong1288-1-16-1,,dong1288-1,16,dimindo ɡorij,dimindo ɡorij,[],,['chan2019'],,False,False,,1
+dong1288-1-17-1,,dong1288-1,17,dimindo kolod,dimindo kolod,[],,['chan2019'],,False,False,,1
+dong1288-1-18-1,,dong1288-1,18,dimindo idiw,dimindo idiw,[],,['chan2019'],,False,False,,1
+dong1288-1-19-1,,dong1288-1,19,dimindo iskood,dimindo iskood,[],,['chan2019'],,False,False,,1
+dong1288-1-20-1,,dong1288-1,20,arri,arri,[],,['chan2019'],,False,False,,1
+dong1288-1-21-1,,dong1288-1,21,arrir weer < arri -r weer,arrir weer < arri -r weer,[],,['chan2019'],,False,True,,1
+dong1288-1-22-1,,dong1288-1,22,arrir owwi,arrir owwi,[],,['chan2019'],,False,False,,1
+dong1288-1-23-1,,dong1288-1,23,arrir toski,arrir toski,[],,['chan2019'],,False,False,,1
+dong1288-1-24-1,,dong1288-1,24,arrir kemis,arrir kemis,[],,['chan2019'],,False,False,,1
+dong1288-1-25-1,,dong1288-1,25,arrir dij,arrir dij,[],,['chan2019'],,False,False,,1
+dong1288-1-26-1,,dong1288-1,26,arrir ɡorij,arrir ɡorij,[],,['chan2019'],,False,False,,1
+dong1288-1-27-1,,dong1288-1,27,arrir kolod,arrir kolod,[],,['chan2019'],,False,False,,1
+dong1288-1-28-1,,dong1288-1,28,arrir idiw,arrir idiw,[],,['chan2019'],,False,False,,1
+dong1288-1-29-1,,dong1288-1,29,arrir iskood,arrir iskood,[],,['chan2019'],,False,False,,1
+dong1288-1-30-1,,dong1288-1,30,dimin toski,dimin toski,[],,['chan2019'],,False,False,,1
+dong1288-1-40-1,,dong1288-1,40,dimin kemis,dimin kemis,[],,['chan2019'],,False,False,,1
+dong1288-1-50-1,,dong1288-1,50,dimin dij,dimin dij,[],,['chan2019'],,False,False,,1
+dong1288-1-60-1,,dong1288-1,60,dimin ɡorij,dimin ɡorij,[],,['chan2019'],,False,False,,1
+dong1288-1-70-1,,dong1288-1,70,dimin kolod,dimin kolod,[],,['chan2019'],,False,False,,1
+dong1288-1-80-1,,dong1288-1,80,dimin idiw,dimin idiw,[],,['chan2019'],,False,False,,1
+dong1288-1-90-1,,dong1288-1,90,dimin iskood,dimin iskood,[],,['chan2019'],,False,False,,1
+dong1288-1-100-1,,dong1288-1,100,imil weer,imil weer,[],,['chan2019'],,False,False,,1
+dong1288-1-200-1,,dong1288-1,200,imil owwi,imil owwi,[],,['chan2019'],,False,False,,1
+dong1288-1-1000-1,,dong1288-1,1000,dore or elif,dore or elif,[],( < Arabic ),['chan2019'],,True,True,,1
+dong1288-1-2000-1,,dong1288-1,2000,elif owwi,elif owwi,[],,['chan2019'],,False,False,,1

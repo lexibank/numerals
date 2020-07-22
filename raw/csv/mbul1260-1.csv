@@ -1,0 +1,40 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mbul1260-1-1-1,,mbul1260-1,1,mon,mon,[],,['chan2019'],,False,False,,1
+mbul1260-1-1-2,,mbul1260-1,1,mwashat,mwashat,[],,['chan2019'],,False,False,,1
+mbul1260-1-2-1,,mbul1260-1,2,rap,rap,[],,['chan2019'],,False,False,,1
+mbul1260-1-3-1,,mbul1260-1,3,taru,taru,[],,['chan2019'],,False,False,,1
+mbul1260-1-4-1,,mbul1260-1,4,ine,ine,[],,['chan2019'],,False,False,,1
+mbul1260-1-5-1,,mbul1260-1,5,tonɡno,tonɡno,[],,['chan2019'],,False,False,,1
+mbul1260-1-6-1,,mbul1260-1,6,tonɡno war mwashat,tonɡno war mwashat,[],( 5 + 1 ),['chan2019'],,False,False,,1
+mbul1260-1-7-1,,mbul1260-1,7,tonɡno war rap,tonɡno war rap,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mbul1260-1-8-1,,mbul1260-1,8,tonɡno war taru,tonɡno war taru,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mbul1260-1-9-1,,mbul1260-1,9,tonɡno war ine,tonɡno war ine,[],( 5 + 4 ),['chan2019'],,False,False,,1
+mbul1260-1-10-1,,mbul1260-1,10,lum,lum,[],,['chan2019'],,False,False,,1
+mbul1260-1-11-1,,mbul1260-1,11,lum war mwashat,lum war mwashat,[],,['chan2019'],,False,False,,1
+mbul1260-1-12-1,,mbul1260-1,12,lum war rap,lum war rap,[],,['chan2019'],,False,False,,1
+mbul1260-1-13-1,,mbul1260-1,13,lum war taru,lum war taru,[],,['chan2019'],,False,False,,1
+mbul1260-1-14-1,,mbul1260-1,14,lum war ine,lum war ine,[],,['chan2019'],,False,False,,1
+mbul1260-1-15-1,,mbul1260-1,15,lum war tonɡno,lum war tonɡno,[],,['chan2019'],,False,False,,1
+mbul1260-1-16-1,,mbul1260-1,16,lum war tonɡno war mwashat,lum war tonɡno war mwashat,[],,['chan2019'],,False,False,,1
+mbul1260-1-17-1,,mbul1260-1,17,lum war tonɡno war rap,lum war tonɡno war rap,[],,['chan2019'],,False,False,,1
+mbul1260-1-18-1,,mbul1260-1,18,lum war tonɡno war taru,lum war tonɡno war taru,[],,['chan2019'],,False,False,,1
+mbul1260-1-19-1,,mbul1260-1,19,lum war tonɡno war ine,lum war tonɡno war ine,[],,['chan2019'],,False,False,,1
+mbul1260-1-20-1,,mbul1260-1,20,lumi rap,lumi rap,[],,['chan2019'],,False,False,,1
+mbul1260-1-21-1,,mbul1260-1,21,lumi rap kasa muri mwashat,lumi rap kasa muri mwashat,[],,['chan2019'],,False,False,,1
+mbul1260-1-22-1,,mbul1260-1,22,lumi rap kasa muri rap,lumi rap kasa muri rap,[],,['chan2019'],,False,False,,1
+mbul1260-1-23-1,,mbul1260-1,23,lumi rap kasa muri taru,lumi rap kasa muri taru,[],,['chan2019'],,False,False,,1
+mbul1260-1-24-1,,mbul1260-1,24,lumi rap kasa muri ine,lumi rap kasa muri ine,[],,['chan2019'],,False,False,,1
+mbul1260-1-25-1,,mbul1260-1,25,lumi rap kasa muri tonɡno,lumi rap kasa muri tonɡno,[],,['chan2019'],,False,False,,1
+mbul1260-1-26-1,,mbul1260-1,26,lumi rap kasa muri t. war mwashat,lumi rap kasa muri t. war mwashat,[],,['chan2019'],,False,True,,1
+mbul1260-1-27-1,,mbul1260-1,27,lumi rap kasa muri tonɡno war rap,lumi rap kasa muri tonɡno war rap,[],,['chan2019'],,False,False,,1
+mbul1260-1-28-1,,mbul1260-1,28,lumi rap kasa muri tonɡno war taru,lumi rap kasa muri tonɡno war taru,[],,['chan2019'],,False,False,,1
+mbul1260-1-29-1,,mbul1260-1,29,lumi rap kasa muri tonɡno war ine,lumi rap kasa muri tonɡno war ine,[],,['chan2019'],,False,False,,1
+mbul1260-1-30-1,,mbul1260-1,30,a mon,a mon,[],,['chan2019'],,False,False,,1
+mbul1260-1-40-1,,mbul1260-1,40,lumi ine,lumi ine,[],( 10 x 4 ),['chan2019'],,False,False,,1
+mbul1260-1-50-1,,mbul1260-1,50,lumi tonɡno,lumi tonɡno,[],( 10 x 5 ),['chan2019'],,False,False,,1
+mbul1260-1-60-1,,mbul1260-1,60,a rap,a rap,[],( 30 x 2 ),['chan2019'],,False,False,,1
+mbul1260-1-70-1,,mbul1260-1,70,a rap nonɡ lumi,a rap nonɡ lumi,[],[ ( 30 x 2 ) + 10 ],['chan2019'],,False,False,,1
+mbul1260-1-80-1,,mbul1260-1,80,a rap nonɡ lumi rap,a rap nonɡ lumi rap,[],[ ( 30 x 2 ) + 20 ],['chan2019'],,False,False,,1
+mbul1260-1-90-1,,mbul1260-1,90,a taru,a taru,[],( 30 x 3 ),['chan2019'],,False,False,,1
+mbul1260-1-100-1,,mbul1260-1,100,luru,luru,[],,['chan2019'],,False,False,,1
+mbul1260-1-1000-1,,mbul1260-1,1000,ɓim nə nkiwi,ɓim nə nkiwi,[],,['chan2019'],,False,False,,1

@@ -1,0 +1,66 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+bugu1246-2-1-1,,bugu1246-2,1,jo,jo,[],,['chan2019'],,False,False,,2
+bugu1246-2-1-2,,bugu1246-2,1,dʒyɔ,dʒyɔ,[],,['chan2019'],,False,False,,2
+bugu1246-2-2-1,,bugu1246-2,2,nyeng,nyeng,[],,['chan2019'],,False,False,,2
+bugu1246-2-2-2,,bugu1246-2,2,ɲɛ̌ŋ,ɲɛ̌ŋ,[],,['chan2019'],,False,False,,2
+bugu1246-2-3-1,,bugu1246-2,3,um,um,[],,['chan2019'],,False,False,,2
+bugu1246-2-3-2,,bugu1246-2,3,ɨ̀m,ɨ̀m,[],,['chan2019'],,False,False,,2
+bugu1246-2-4-1,,bugu1246-2,4,wi,wi,[],,['chan2019'],,False,False,,2
+bugu1246-2-4-2,,bugu1246-2,4,bvì,bvì,[],,['chan2019'],,False,False,,2
+bugu1246-2-5-1,,bugu1246-2,5,kua,kua,[],,['chan2019'],,False,False,,2
+bugu1246-2-5-2,,bugu1246-2,5,uwə̌,uwə̌,[],,['chan2019'],,False,False,,2
+bugu1246-2-6-1,,bugu1246-2,6,rap,rap,[],,['chan2019'],,False,False,,2
+bugu1246-2-6-2,,bugu1246-2,6,ràp,ràp,[],,['chan2019'],,False,False,,2
+bugu1246-2-7-1,,bugu1246-2,7,millie,millie,[],,['chan2019'],,False,False,,2
+bugu1246-2-7-2,,bugu1246-2,7,mlyə,mlyə,[],,['chan2019'],,False,False,,2
+bugu1246-2-8-1,,bugu1246-2,8,mla,mla,[],,['chan2019'],,False,False,,2
+bugu1246-2-8-2,,bugu1246-2,8,mla,mla,[],,['chan2019'],,False,False,,2
+bugu1246-2-9-1,,bugu1246-2,9,diɡe,diɡe,[],,['chan2019'],,False,False,,2
+bugu1246-2-9-2,,bugu1246-2,9,dɡe,dɡe,[],,['chan2019'],,False,False,,2
+bugu1246-2-10-1,,bugu1246-2,10,sũa,sũa,[],,['chan2019'],,False,False,,2
+bugu1246-2-10-2,,bugu1246-2,10,sùŋá,sùŋá,[],,['chan2019'],,False,False,,2
+bugu1246-2-11-1,,bugu1246-2,11,sna-jo,sna-jo,[],,['chan2019'],,False,False,,2
+bugu1246-2-11-2,,bugu1246-2,11,sna dʒyɔ,sna dʒyɔ,[],,['chan2019'],,False,False,,2
+bugu1246-2-12-1,,bugu1246-2,12,sna nyeng,sna nyeng,[],,['chan2019'],,False,False,,2
+bugu1246-2-12-2,,bugu1246-2,12,sna ɲɛ̌ŋ,sna ɲɛ̌ŋ,[],,['chan2019'],,False,False,,2
+bugu1246-2-13-1,,bugu1246-2,13,sna-um,sna-um,[],,['chan2019'],,False,False,,2
+bugu1246-2-13-2,,bugu1246-2,13,sna ɨ̀m,sna ɨ̀m,[],,['chan2019'],,False,False,,2
+bugu1246-2-14-1,,bugu1246-2,14,sna-wi,sna-wi,[],,['chan2019'],,False,False,,2
+bugu1246-2-14-2,,bugu1246-2,14,sna bvì,sna bvì,[],,['chan2019'],,False,False,,2
+bugu1246-2-15-1,,bugu1246-2,15,sna-kua,sna-kua,[],,['chan2019'],,False,False,,2
+bugu1246-2-15-2,,bugu1246-2,15,sna gua,sna gua,[],,['chan2019'],,False,False,,2
+bugu1246-2-16-1,,bugu1246-2,16,sna-rap,sna-rap,[],,['chan2019'],,False,False,,2
+bugu1246-2-16-2,,bugu1246-2,16,sna rap,sna rap,[],,['chan2019'],,False,False,,2
+bugu1246-2-17-1,,bugu1246-2,17,sna-millie,sna-millie,[],,['chan2019'],,False,False,,2
+bugu1246-2-17-2,,bugu1246-2,17,sna mlya,sna mlya,[],,['chan2019'],,False,False,,2
+bugu1246-2-18-1,,bugu1246-2,18,sna-mla,sna-mla,[],,['chan2019'],,False,False,,2
+bugu1246-2-18-2,,bugu1246-2,18,sna mla,sna mla,[],,['chan2019'],,False,False,,2
+bugu1246-2-19-1,,bugu1246-2,19,sna-diɡe,sna-diɡe,[],,['chan2019'],,False,False,,2
+bugu1246-2-19-2,,bugu1246-2,19,sna dge,sna dge,[],,['chan2019'],,False,False,,2
+bugu1246-2-20-1,,bugu1246-2,20,ichak,ichak,[],,['chan2019'],,False,False,,2
+bugu1246-2-20-2,,bugu1246-2,20,atʃak,atʃak,[],,['chan2019'],,False,False,,2
+bugu1246-2-21-1,,bugu1246-2,21,ichak-jo,ichak-jo,[],,['chan2019'],,False,False,,2
+bugu1246-2-21-2,,bugu1246-2,21,atʃak nɛ dʒyɔ,atʃak nɛ dʒyɔ,[],,['chan2019'],,False,False,,2
+bugu1246-2-22-1,,bugu1246-2,22,ichak-nyeng,ichak-nyeng,[],,['chan2019'],,False,False,,2
+bugu1246-2-23-1,,bugu1246-2,23,ichak-um,ichak-um,[],,['chan2019'],,False,False,,2
+bugu1246-2-24-1,,bugu1246-2,24,ichak-wi,ichak-wi,[],,['chan2019'],,False,False,,2
+bugu1246-2-25-1,,bugu1246-2,25,ichak-kua,ichak-kua,[],,['chan2019'],,False,False,,2
+bugu1246-2-26-1,,bugu1246-2,26,ichak-rap,ichak-rap,[],,['chan2019'],,False,False,,2
+bugu1246-2-27-1,,bugu1246-2,27,ichak-millie,ichak-millie,[],,['chan2019'],,False,False,,2
+bugu1246-2-28-1,,bugu1246-2,28,ichak-mla,ichak-mla,[],,['chan2019'],,False,False,,2
+bugu1246-2-29-1,,bugu1246-2,29,ichak diɡe,ichak diɡe,[],,['chan2019'],,False,False,,2
+bugu1246-2-30-1,,bugu1246-2,30,sa-um,sa-um,[],,['chan2019'],,False,False,,2
+bugu1246-2-30-2,,bugu1246-2,30,sna bvì,sna bvì,[],,['chan2019'],,False,False,,2
+bugu1246-2-40-1,,bugu1246-2,40,sa-wi,sa-wi,[],,['chan2019'],,False,False,,2
+bugu1246-2-40-2,,bugu1246-2,40,sna bvi,sna bvi,[],,['chan2019'],,False,False,,2
+bugu1246-2-50-1,,bugu1246-2,50,sa-kua,sa-kua,[],,['chan2019'],,False,False,,2
+bugu1246-2-50-2,,bugu1246-2,50,sna gua,sna gua,[],,['chan2019'],,False,False,,2
+bugu1246-2-60-1,,bugu1246-2,60,sa-rap,sa-rap,[],,['chan2019'],,False,False,,2
+bugu1246-2-70-1,,bugu1246-2,70,sa-millie,sa-millie,[],,['chan2019'],,False,False,,2
+bugu1246-2-80-1,,bugu1246-2,80,sa-mla,sa-mla,[],,['chan2019'],,False,False,,2
+bugu1246-2-90-1,,bugu1246-2,90,sa diɡe,sa diɡe,[],,['chan2019'],,False,False,,2
+bugu1246-2-100-1,,bugu1246-2,100,wiem-jo,wiem-jo,[],,['chan2019'],,False,False,,2
+bugu1246-2-100-2,,bugu1246-2,100,yem dʒa,yem dʒa,[],,['chan2019'],,False,False,,2
+bugu1246-2-200-1,,bugu1246-2,200,??,??,[],,['chan2019'],,False,True,,2
+bugu1246-2-1000-1,,bugu1246-2,1000,??,??,[],,['chan2019'],,False,True,,2
+bugu1246-2-2000-1,,bugu1246-2,2000,??,??,[],,['chan2019'],,False,True,,2

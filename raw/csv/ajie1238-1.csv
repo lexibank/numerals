@@ -1,0 +1,30 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ajie1238-1-1-1,,ajie1238-1,1,raːxãː,raːxãː,[],,['chan2019'],,False,False,,1
+ajie1238-1-1-2,,ajie1238-1,1,ra,ra,[],,['chan2019'],,False,False,,1
+ajie1238-1-2-1,,ajie1238-1,2,kaːru,kaːru,[],,['chan2019'],,False,False,,1
+ajie1238-1-3-1,,ajie1238-1,3,kariɽi,kariɽi,[],,['chan2019'],,False,False,,1
+ajie1238-1-4-1,,ajie1238-1,4,kavɯɛ,kavɯɛ,[],,['chan2019'],,False,False,,1
+ajie1238-1-5-1,,ajie1238-1,5,kaniː,kaniː,[],,['chan2019'],,False,False,,1
+ajie1238-1-6-1,,ajie1238-1,6,kaniː na mã raːxãː,kaniː na mã raːxãː,[],( 5 + 1 ),['chan2019'],,False,False,,1
+ajie1238-1-7-1,,ajie1238-1,7,kaniː na mã kaːru,kaniː na mã kaːru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+ajie1238-1-8-1,,ajie1238-1,8,kaniː na mã kariɽi,kaniː na mã kariɽi,[],( 5 + 3 ),['chan2019'],,False,False,,1
+ajie1238-1-9-1,,ajie1238-1,9,kaniː na mã kavɯɛ,kaniː na mã kavɯɛ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+ajie1238-1-10-1,,ajie1238-1,10,pãrɔɽɔ,pãrɔɽɔ,[],,['chan2019'],,False,False,,1
+ajie1238-1-11-1,,ajie1238-1,11,pãrɔɽɔ na mã raːxãː,pãrɔɽɔ na mã raːxãː,[],,['chan2019'],,False,False,,1
+ajie1238-1-12-1,,ajie1238-1,12,pãrɔɽɔ na mã kaːru,pãrɔɽɔ na mã kaːru,[],,['chan2019'],,False,False,,1
+ajie1238-1-13-1,,ajie1238-1,13,pãrɔɽɔ na mã kariɽi,pãrɔɽɔ na mã kariɽi,[],,['chan2019'],,False,False,,1
+ajie1238-1-14-1,,ajie1238-1,14,pãrɔɽɔ na mã kavɯɛ,pãrɔɽɔ na mã kavɯɛ,[],,['chan2019'],,False,False,,1
+ajie1238-1-15-1,,ajie1238-1,15,pãrɔɽɔ na mã dɛxã e ã,pãrɔɽɔ na mã dɛxã e ã,[],,['chan2019'],,False,False,,1
+ajie1238-1-16-1,,ajie1238-1,16,pãrɔɽɔ na mã dɛxã e ã mã raːxãː,pãrɔɽɔ na mã dɛxã e ã mã raːxãː,[],,['chan2019'],,False,False,,1
+ajie1238-1-17-1,,ajie1238-1,17,pãrɔɽɔ na mã dɛxã e ã mã kaːru,pãrɔɽɔ na mã dɛxã e ã mã kaːru,[],,['chan2019'],,False,False,,1
+ajie1238-1-18-1,,ajie1238-1,18,pãrɔɽɔ na mã dɛxã e ã mã kariɽi,pãrɔɽɔ na mã dɛxã e ã mã kariɽi,[],,['chan2019'],,False,False,,1
+ajie1238-1-19-1,,ajie1238-1,19,pãrɔɽɔ na mã dɛxã e ã mã kavɯɛ,pãrɔɽɔ na mã dɛxã e ã mã kavɯɛ,[],,['chan2019'],,False,False,,1
+ajie1238-1-20-1,,ajie1238-1,20,(tawarɛ) ra kãmɔ,(tawarɛ) ra kãmɔ,[],(litː 'one person'),['chan2019'],,False,False,,1
+ajie1238-1-30-1,,ajie1238-1,30,ra kãmɔ mã pãrɔɽɔ,ra kãmɔ mã pãrɔɽɔ,[],( 20 + 10 ),['chan2019'],,False,False,,1
+ajie1238-1-40-1,,ajie1238-1,40,kaːru kãmɔ,kaːru kãmɔ,[],(litː 'two persons'),['chan2019'],,False,False,,1
+ajie1238-1-50-1,,ajie1238-1,50,kaːru kãmɔ mã pãrɔɽɔ,kaːru kãmɔ mã pãrɔɽɔ,[],,['chan2019'],,False,False,,1
+ajie1238-1-60-1,,ajie1238-1,60,kariɽi kãmɔ,kariɽi kãmɔ,[],(litː 'three persons'),['chan2019'],,False,False,,1
+ajie1238-1-70-1,,ajie1238-1,70,kariɽi kãmɔ mã pãrɔɽɔ,kariɽi kãmɔ mã pãrɔɽɔ,[],,['chan2019'],,False,False,,1
+ajie1238-1-80-1,,ajie1238-1,80,kavɯɛ kãmɔ,kavɯɛ kãmɔ,[],(litː 'four persons'),['chan2019'],,False,False,,1
+ajie1238-1-90-1,,ajie1238-1,90,kavɯɛ kãmɔ mã pãrɔɽɔ,kavɯɛ kãmɔ mã pãrɔɽɔ,[],,['chan2019'],,False,False,,1
+ajie1238-1-100-1,,ajie1238-1,100,kaniː kãmɔ,kaniː kãmɔ,[],(litː 'five persons'),['chan2019'],,False,False,,1

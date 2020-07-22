@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+west2418-1-1-1,,west2418-1,1,kat,kat,[],,['chan2019'],,False,False,,1
+west2418-1-2-1,,west2418-1,2,nɦisŋ,nɦisŋ,[],,['chan2019'],,False,False,,1
+west2418-1-3-1,,west2418-1,3,som,som,[],,['chan2019'],,False,False,,1
+west2418-1-4-1,,west2418-1,4,buli,buli,[],,['chan2019'],,False,False,,1
+west2418-1-5-1,,west2418-1,5,baŋa,baŋa,[],,['chan2019'],,False,False,,1
+west2418-1-6-1,,west2418-1,6,caŋ,caŋ,[],( < Nepali),['chan2019'],,True,False,,1
+west2418-1-7-1,,west2418-1,7,saŋ,saŋ,[],,['chan2019'],,False,False,,1
+west2418-1-8-1,,west2418-1,8,aŋ,aŋ,[],,['chan2019'],,False,False,,1
+west2418-1-9-1,,west2418-1,9,naŋ,naŋ,[],,['chan2019'],,False,False,,1
+west2418-1-10-1,,west2418-1,10,daŋ,daŋ,[],,['chan2019'],,False,False,,1
+west2418-1-11-1,,west2418-1,11,dʌs rʌ kat,dʌs rʌ kat,[],,['chan2019'],,False,False,,1
+west2418-1-12-1,,west2418-1,12,dʌs rʌ nɦis,dʌs rʌ nɦis,[],,['chan2019'],,False,False,,1
+west2418-1-13-1,,west2418-1,13,dʌs rʌ som,dʌs rʌ som,[],,['chan2019'],,False,False,,1
+west2418-1-14-1,,west2418-1,14,dʌs rʌ buli,dʌs rʌ buli,[],,['chan2019'],,False,False,,1
+west2418-1-15-1,,west2418-1,15,dʌs rʌ baŋa,dʌs rʌ baŋa,[],,['chan2019'],,False,False,,1
+west2418-1-16-1,,west2418-1,16,dʌs rʌ caŋ,dʌs rʌ caŋ,[],,['chan2019'],,False,False,,1
+west2418-1-17-1,,west2418-1,17,dʌs rʌ saŋ,dʌs rʌ saŋ,[],,['chan2019'],,False,False,,1
+west2418-1-18-1,,west2418-1,18,dʌs rʌ aŋ,dʌs rʌ aŋ,[],,['chan2019'],,False,False,,1
+west2418-1-19-1,,west2418-1,19,dʌs rʌ naŋ,dʌs rʌ naŋ,[],,['chan2019'],,False,False,,1
+west2418-1-20-1,,west2418-1,20,bis,bis,[],,['chan2019'],,False,False,,1
+west2418-1-21-1,,west2418-1,21,bis (rʌ) kat,bis (rʌ) kat,[],,['chan2019'],,False,False,,1
+west2418-1-22-1,,west2418-1,22,bis (rʌ) nɦis,bis (rʌ) nɦis,[],,['chan2019'],,False,False,,1
+west2418-1-23-1,,west2418-1,23,kat bise som,kat bise som,[],,['chan2019'],,False,False,,1
+west2418-1-24-1,,west2418-1,24,kat bise buli,kat bise buli,[],,['chan2019'],,False,False,,1
+west2418-1-25-1,,west2418-1,25,kat bise baŋa,kat bise baŋa,[],,['chan2019'],,False,False,,1
+west2418-1-26-1,,west2418-1,26,kat bise caŋ,kat bise caŋ,[],,['chan2019'],,False,False,,1
+west2418-1-27-1,,west2418-1,27,kat bise saŋ,kat bise saŋ,[],,['chan2019'],,False,False,,1
+west2418-1-28-1,,west2418-1,28,kat bise aŋ,kat bise aŋ,[],,['chan2019'],,False,False,,1
+west2418-1-29-1,,west2418-1,29,kat bise naŋ,kat bise naŋ,[],,['chan2019'],,False,False,,1
+west2418-1-30-1,,west2418-1,30,bis dʌs,bis dʌs,[],,['chan2019'],,False,False,,1
+west2418-1-40-1,,west2418-1,40,nɦis bis,nɦis bis,[],( 2 x 20 ),['chan2019'],,False,False,,1
+west2418-1-50-1,,west2418-1,50,nɦis bis dʌs,nɦis bis dʌs,[],,['chan2019'],,False,False,,1
+west2418-1-60-1,,west2418-1,60,som bise,som bise,[],( 3 x 20 ),['chan2019'],,False,False,,1
+west2418-1-70-1,,west2418-1,70,som bise dʌs,som bise dʌs,[],,['chan2019'],,False,False,,1
+west2418-1-80-1,,west2418-1,80,buli bis,buli bis,[],( 4 x 20 ),['chan2019'],,False,False,,1
+west2418-1-90-1,,west2418-1,90,buli bise dʌs,buli bise dʌs,[],,['chan2019'],,False,False,,1
+west2418-1-100-1,,west2418-1,100,kat saye,kat saye,[],< Nepali ,['chan2019'],,True,False,,1
+west2418-1-200-1,,west2418-1,200,nɦis saye,nɦis saye,[],,['chan2019'],,False,False,,1
+west2418-1-1000-1,,west2418-1,1000,hʌjar,hʌjar,[],< Nepali ,['chan2019'],,True,False,,1
+west2418-1-2000-1,,west2418-1,2000,nɦis hʌjar,nɦis hʌjar,[],,['chan2019'],,False,False,,1

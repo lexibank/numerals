@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lele1267-1-1-1,,lele1267-1,1,skei,skei,[],,['chan2019'],,False,False,,1
+lele1267-1-1-2,,lele1267-1,1,Skimau,Skimau,[],,['chan2019'],,False,False,,1
+lele1267-1-2-1,,lele1267-1,2,rua,rua,[],,['chan2019'],,False,False,,1
+lele1267-1-3-1,,lele1267-1,3,tolu,tolu,[],,['chan2019'],,False,False,,1
+lele1267-1-4-1,,lele1267-1,4,pati,pati,[],,['chan2019'],,False,False,,1
+lele1267-1-4-2,,lele1267-1,4,fati,fati,[],,['chan2019'],,False,False,,1
+lele1267-1-5-1,,lele1267-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+lele1267-1-6-1,,lele1267-1,6,latsa,latsa,[],( 5 + 1 ),['chan2019'],,False,False,,1
+lele1267-1-7-1,,lele1267-1,7,larua,larua,[],( 5 + 2 ),['chan2019'],,False,False,,1
+lele1267-1-8-1,,lele1267-1,8,latolu,latolu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+lele1267-1-9-1,,lele1267-1,9,lfet,lfet,[],( 5 + 4 ),['chan2019'],,False,False,,1
+lele1267-1-10-1,,lele1267-1,10,ralma skei,ralma skei,[],( 5 + 5 ),['chan2019'],,False,False,,1
+lele1267-1-11-1,,lele1267-1,11,ralma skei atmat skei,ralma skei atmat skei,[],,['chan2019'],,False,False,,1
+lele1267-1-12-1,,lele1267-1,12,ralma skei atmat rua,ralma skei atmat rua,[],,['chan2019'],,False,False,,1
+lele1267-1-13-1,,lele1267-1,13,ralma skei atmat tolu,ralma skei atmat tolu,[],,['chan2019'],,False,False,,1
+lele1267-1-14-1,,lele1267-1,14,ralma skei atmat pati,ralma skei atmat pati,[],,['chan2019'],,False,False,,1
+lele1267-1-15-1,,lele1267-1,15,ralma skei atmat lima,ralma skei atmat lima,[],,['chan2019'],,False,False,,1
+lele1267-1-16-1,,lele1267-1,16,ralma skei atmat latsa,ralma skei atmat latsa,[],,['chan2019'],,False,False,,1
+lele1267-1-17-1,,lele1267-1,17,ralma skei atmat larua,ralma skei atmat larua,[],,['chan2019'],,False,False,,1
+lele1267-1-18-1,,lele1267-1,18,ralma skei atmat latolu,ralma skei atmat latolu,[],,['chan2019'],,False,False,,1
+lele1267-1-19-1,,lele1267-1,19,ralma skei atmat lfet,ralma skei atmat lfet,[],,['chan2019'],,False,False,,1
+lele1267-1-20-1,,lele1267-1,20,ralma rua,ralma rua,[],,['chan2019'],,False,False,,1
+lele1267-1-21-1,,lele1267-1,21,ralma rua atmat skei,ralma rua atmat skei,[],,['chan2019'],,False,False,,1
+lele1267-1-22-1,,lele1267-1,22,ralma rua atmat rua,ralma rua atmat rua,[],,['chan2019'],,False,False,,1
+lele1267-1-23-1,,lele1267-1,23,ralma rua atmat tolu,ralma rua atmat tolu,[],,['chan2019'],,False,False,,1
+lele1267-1-24-1,,lele1267-1,24,ralma rua atmat pati,ralma rua atmat pati,[],,['chan2019'],,False,False,,1
+lele1267-1-25-1,,lele1267-1,25,ralma rua atmat lima,ralma rua atmat lima,[],,['chan2019'],,False,False,,1
+lele1267-1-26-1,,lele1267-1,26,ralma rua atmat latsa,ralma rua atmat latsa,[],,['chan2019'],,False,False,,1
+lele1267-1-27-1,,lele1267-1,27,ralma rua atmat larua,ralma rua atmat larua,[],,['chan2019'],,False,False,,1
+lele1267-1-28-1,,lele1267-1,28,ralma rua atmatlatolu,ralma rua atmatlatolu,[],,['chan2019'],,False,False,,1
+lele1267-1-29-1,,lele1267-1,29,ralma rua atmatlfet,ralma rua atmatlfet,[],,['chan2019'],,False,False,,1
+lele1267-1-30-1,,lele1267-1,30,ralma tolu,ralma tolu,[],,['chan2019'],,False,False,,1
+lele1267-1-40-1,,lele1267-1,40,ralma pati,ralma pati,[],,['chan2019'],,False,False,,1
+lele1267-1-50-1,,lele1267-1,50,ralma lima,ralma lima,[],,['chan2019'],,False,False,,1
+lele1267-1-60-1,,lele1267-1,60,ralma latsa,ralma latsa,[],,['chan2019'],,False,False,,1
+lele1267-1-70-1,,lele1267-1,70,ralma larua,ralma larua,[],,['chan2019'],,False,False,,1
+lele1267-1-80-1,,lele1267-1,80,ralma latolu,ralma latolu,[],,['chan2019'],,False,False,,1
+lele1267-1-90-1,,lele1267-1,90,ralma lfet,ralma lfet,[],,['chan2019'],,False,False,,1
+lele1267-1-100-1,,lele1267-1,100,pʷontia skei,pʷontia skei,[],,['chan2019'],,False,False,,1
+lele1267-1-200-1,,lele1267-1,200,pʷontia rua,pʷontia rua,[],,['chan2019'],,False,False,,1
+lele1267-1-1000-1,,lele1267-1,1000,maanu skei,maanu skei,[],,['chan2019'],,False,False,,1
+lele1267-1-2000-1,,lele1267-1,2000,maanu rua,maanu rua,[],,['chan2019'],,False,False,,1

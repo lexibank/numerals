@@ -1,0 +1,45 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+baba1268-1-1-1,,baba1268-1,1,kəke,kəke,[],,['chan2019'],,False,False,,1
+baba1268-1-2-1,,baba1268-1,2,kere,kere,[],,['chan2019'],,False,False,,1
+baba1268-1-3-1,,baba1268-1,3,tulu,tulu,[],,['chan2019'],,False,False,,1
+baba1268-1-4-1,,baba1268-1,4,vati,vati,[],,['chan2019'],,False,False,,1
+baba1268-1-5-1,,baba1268-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+baba1268-1-6-1,,baba1268-1,6,vɔnɔmɔ,vɔnɔmɔ,[],,['chan2019'],,False,False,,1
+baba1268-1-7-1,,baba1268-1,7,vitu,vitu,[],,['chan2019'],,False,False,,1
+baba1268-1-8-1,,baba1268-1,8,viu,viu,[],,['chan2019'],,False,False,,1
+baba1268-1-9-1,,baba1268-1,9,zia,zia,[],,['chan2019'],,False,False,,1
+baba1268-1-10-1,,baba1268-1,10,mano,mano,[],,['chan2019'],,False,False,,1
+baba1268-1-11-1,,baba1268-1,11,mano kəke,mano kəke,[],,['chan2019'],,False,False,,1
+baba1268-1-12-1,,baba1268-1,12,mano kere,mano kere,[],,['chan2019'],,False,False,,1
+baba1268-1-13-1,,baba1268-1,13,mano tulu,mano tulu,[],,['chan2019'],,False,False,,1
+baba1268-1-14-1,,baba1268-1,14,mano vati,mano vati,[],,['chan2019'],,False,False,,1
+baba1268-1-15-1,,baba1268-1,15,mano lima,mano lima,[],,['chan2019'],,False,False,,1
+baba1268-1-16-1,,baba1268-1,16,mano vɔnɔmɔ,mano vɔnɔmɔ,[],,['chan2019'],,False,False,,1
+baba1268-1-17-1,,baba1268-1,17,mano vitu,mano vitu,[],,['chan2019'],,False,False,,1
+baba1268-1-18-1,,baba1268-1,18,mano viu,mano viu,[],,['chan2019'],,False,False,,1
+baba1268-1-19-1,,baba1268-1,19,mano zia,mano zia,[],,['chan2019'],,False,False,,1
+baba1268-1-20-1,,baba1268-1,20,karabete,karabete,[],,['chan2019'],,False,False,,1
+baba1268-1-21-1,,baba1268-1,21,karabete kəke,karabete kəke,[],,['chan2019'],,False,False,,1
+baba1268-1-22-1,,baba1268-1,22,karabete kere,karabete kere,[],,['chan2019'],,False,False,,1
+baba1268-1-23-1,,baba1268-1,23,karabete tulu,karabete tulu,[],,['chan2019'],,False,False,,1
+baba1268-1-24-1,,baba1268-1,24,karabete vati,karabete vati,[],,['chan2019'],,False,False,,1
+baba1268-1-25-1,,baba1268-1,25,karabete lima,karabete lima,[],,['chan2019'],,False,False,,1
+baba1268-1-26-1,,baba1268-1,26,karabete vɔnɔmɔ,karabete vɔnɔmɔ,[],,['chan2019'],,False,False,,1
+baba1268-1-27-1,,baba1268-1,27,karabete vitu,karabete vitu,[],,['chan2019'],,False,False,,1
+baba1268-1-28-1,,baba1268-1,28,karabete viu,karabete viu,[],,['chan2019'],,False,False,,1
+baba1268-1-29-1,,baba1268-1,29,karabete zia,karabete zia,[],,['chan2019'],,False,False,,1
+baba1268-1-30-1,,baba1268-1,30,tulunənu,tulunənu,[],,['chan2019'],,False,False,,1
+baba1268-1-40-1,,baba1268-1,40,kere duki,kere duki,[],,['chan2019'],,False,False,,1
+baba1268-1-50-1,,baba1268-1,50,neᵑɡɔ,neᵑɡɔ,[],,['chan2019'],,False,False,,1
+baba1268-1-60-1,,baba1268-1,60,vɔnɔmnəlu,vɔnɔmnəlu,[],,['chan2019'],,False,False,,1
+baba1268-1-60-2,,baba1268-1,60,neᵑɡɔ mano,neᵑɡɔ mano,[],( 50 + 10 ),['chan2019'],,False,False,,1
+baba1268-1-70-1,,baba1268-1,70,vitunəlu,vitunəlu,[],,['chan2019'],,False,False,,1
+baba1268-1-70-2,,baba1268-1,70,neᵑɡɔ karabete,neᵑɡɔ karabete,[],( 50 + 20 ),['chan2019'],,False,False,,1
+baba1268-1-80-1,,baba1268-1,80,viunəlu,viunəlu,[],,['chan2019'],,False,False,,1
+baba1268-1-80-2,,baba1268-1,80,neᵑɡɔ tulunənu,neᵑɡɔ tulunənu,[],( 50 + 30 ),['chan2019'],,False,False,,1
+baba1268-1-90-1,,baba1268-1,90,zianəlu,zianəlu,[],,['chan2019'],,False,False,,1
+baba1268-1-90-2,,baba1268-1,90,neᵑɡɔ kereduki,neᵑɡɔ kereduki,[],( 50 + 40 ),['chan2019'],,False,False,,1
+baba1268-1-100-1,,baba1268-1,100,kəke vuᵐbi,kəke vuᵐbi,[],,['chan2019'],,False,False,,1
+baba1268-1-200-1,,baba1268-1,200,kere vuᵐbi,kere vuᵐbi,[],,['chan2019'],,False,False,,1
+baba1268-1-1000-1,,baba1268-1,1000,kəke mao,kəke mao,[],,['chan2019'],,False,False,,1
+baba1268-1-2000-1,,baba1268-1,2000,kere mao,kere mao,[],,['chan2019'],,False,False,,1

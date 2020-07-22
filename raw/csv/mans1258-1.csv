@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mans1258-1-1-1,,mans1258-1,1,akʷa,akʷa,[],,['chan2019'],,False,False,,1
+mans1258-1-1-2,,mans1258-1,1,akʷ,akʷ,[],,['chan2019'],,False,False,,1
+mans1258-1-2-1,,mans1258-1,2,kit,kit,[],(iɣ),['chan2019'],,False,False,,1
+mans1258-1-3-1,,mans1258-1,3,χuːrᵘm,χuːrᵘm,[],,['chan2019'],,False,False,,1
+mans1258-1-4-1,,mans1258-1,4,nʲila,nʲila,[],,['chan2019'],,False,False,,1
+mans1258-1-5-1,,mans1258-1,5,at,at,[],,['chan2019'],,False,False,,1
+mans1258-1-6-1,,mans1258-1,6,χoːt,χoːt,[],,['chan2019'],,False,False,,1
+mans1258-1-7-1,,mans1258-1,7,saːt,saːt,[],,['chan2019'],,False,False,,1
+mans1258-1-8-1,,mans1258-1,8,nʲollow,nʲollow,[],(nʲol '8?' + low '10'),['chan2019'],,False,False,,1
+mans1258-1-9-1,,mans1258-1,9,oːntəllow,oːntəllow,[],(oːntəl '9?' + low '10'),['chan2019'],,False,False,,1
+mans1258-1-10-1,,mans1258-1,10,low,low,[],,['chan2019'],,False,False,,1
+mans1258-1-11-1,,mans1258-1,11,akʷχujplow,akʷχujplow,[],(akʷ '1'+ χujp+low),['chan2019'],,False,False,,1
+mans1258-1-12-1,,mans1258-1,12,kitχujplow,kitχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-13-1,,mans1258-1,13,xuːrumχujplow,xuːrumχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-14-1,,mans1258-1,14,nʲilaχujplow,nʲilaχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-15-1,,mans1258-1,15,atχujplow,atχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-16-1,,mans1258-1,16,xoːtχujplow,xoːtχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-17-1,,mans1258-1,17,saːtχujplow,saːtχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-18-1,,mans1258-1,18,nʲollowχujplow,nʲollowχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-19-1,,mans1258-1,19,oːntəllowχujplow,oːntəllowχujplow,[],,['chan2019'],,False,False,,1
+mans1258-1-20-1,,mans1258-1,20,χus,χus,[],,['chan2019'],,False,False,,1
+mans1258-1-21-1,,mans1258-1,21,waːt nopəl akʷa,waːt nopəl akʷa,[],( litː '1 toward 30'),['chan2019'],,False,False,,1
+mans1258-1-22-1,,mans1258-1,22,waːt nopəl kit,waːt nopəl kit,[],,['chan2019'],,False,False,,1
+mans1258-1-23-1,,mans1258-1,23,waːt nopəl χuːrᵘm,waːt nopəl χuːrᵘm,[],,['chan2019'],,False,False,,1
+mans1258-1-24-1,,mans1258-1,24,waːt nopəl nʲila,waːt nopəl nʲila,[],,['chan2019'],,False,False,,1
+mans1258-1-25-1,,mans1258-1,25,waːt nopəl at,waːt nopəl at,[],,['chan2019'],,False,False,,1
+mans1258-1-26-1,,mans1258-1,26,waːt nopəl χoːt,waːt nopəl χoːt,[],,['chan2019'],,False,False,,1
+mans1258-1-27-1,,mans1258-1,27,waːt nopəl saːt,waːt nopəl saːt,[],,['chan2019'],,False,False,,1
+mans1258-1-28-1,,mans1258-1,28,waːt nopəl nʲollow,waːt nopəl nʲollow,[],,['chan2019'],,False,False,,1
+mans1258-1-29-1,,mans1258-1,29,waːt nopəl oːntəllow,waːt nopəl oːntəllow,[],,['chan2019'],,False,False,,1
+mans1258-1-30-1,,mans1258-1,30,waːt,waːt,[],,['chan2019'],,False,False,,1
+mans1258-1-40-1,,mans1258-1,40,naliman,naliman,[],(nʲali~nali'4'+ -pan/man?),['chan2019'],,False,False,,1
+mans1258-1-50-1,,mans1258-1,50,atpan,atpan,[],(at '5'+ -pan/man?),['chan2019'],,False,False,,1
+mans1258-1-60-1,,mans1258-1,60,χoːtpan,χoːtpan,[],(χoːt '6'+ -pan/man?),['chan2019'],,False,False,,1
+mans1258-1-70-1,,mans1258-1,70,saːtlow,saːtlow,[],(saːt '7'+ -low '10'),['chan2019'],,False,False,,1
+mans1258-1-80-1,,mans1258-1,80,nʲolsaːt,nʲolsaːt,[],( nʲol'8?' + saːt '100'),['chan2019'],,False,False,,1
+mans1258-1-90-1,,mans1258-1,90,oːntəlsaːt,oːntəlsaːt,[],( oːntəl '9?' + saːt '100'),['chan2019'],,False,False,,1
+mans1258-1-100-1,,mans1258-1,100,saːt,saːt,[],(it's exactly the same numerals as 7),['chan2019'],,False,False,,1
+mans1258-1-200-1,,mans1258-1,200,kit saːt,kit saːt,[],,['chan2019'],,False,False,,1
+mans1258-1-1000-1,,mans1258-1,1000,sotər,sotər,[],,['chan2019'],,False,False,,1
+mans1258-1-2000-1,,mans1258-1,2000,kit sotər,kit sotər,[],,['chan2019'],,False,False,,1

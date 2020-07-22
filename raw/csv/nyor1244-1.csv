@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nyor1244-1-1-1,,nyor1244-1,1,silala,silala,[],,['chan2019'],,False,False,,1
+nyor1244-1-2-1,,nyor1244-1,2,bili,bili,[],,['chan2019'],,False,False,,1
+nyor1244-1-3-1,,nyor1244-1,3,bitaru,bitaru,[],,['chan2019'],,False,False,,1
+nyor1244-1-4-1,,nyor1244-1,4,bine,bine,[],,['chan2019'],,False,False,,1
+nyor1244-1-5-1,,nyor1244-1,5,birano,birano,[],,['chan2019'],,False,False,,1
+nyor1244-1-6-1,,nyor1244-1,6,bisasaba,bisasaba,[],,['chan2019'],,False,False,,1
+nyor1244-1-7-1,,nyor1244-1,7,musafu,musafu,[],,['chan2019'],,False,False,,1
+nyor1244-1-8-1,,nyor1244-1,8,munane,munane,[],,['chan2019'],,False,False,,1
+nyor1244-1-9-1,,nyor1244-1,9,sienda,sienda,[],,['chan2019'],,False,False,,1
+nyor1244-1-10-1,,nyor1244-1,10,likhomi,likhomi,[],,['chan2019'],,False,False,,1
+nyor1244-1-11-1,,nyor1244-1,11,likhomina silala,likhomina silala,[],,['chan2019'],,False,False,,1
+nyor1244-1-12-1,,nyor1244-1,12,likhomina bili,likhomina bili,[],,['chan2019'],,False,False,,1
+nyor1244-1-13-1,,nyor1244-1,13,likhomina bitaru,likhomina bitaru,[],,['chan2019'],,False,False,,1
+nyor1244-1-14-1,,nyor1244-1,14,likhomina bine,likhomina bine,[],,['chan2019'],,False,False,,1
+nyor1244-1-15-1,,nyor1244-1,15,likhomina birano,likhomina birano,[],,['chan2019'],,False,False,,1
+nyor1244-1-16-1,,nyor1244-1,16,likhomi na sita,likhomi na sita,[],,['chan2019'],,False,False,,1
+nyor1244-1-17-1,,nyor1244-1,17,likhomina musafu,likhomina musafu,[],,['chan2019'],,False,False,,1
+nyor1244-1-18-1,,nyor1244-1,18,likhomina munane,likhomina munane,[],,['chan2019'],,False,False,,1
+nyor1244-1-19-1,,nyor1244-1,19,likhomina sienda,likhomina sienda,[],,['chan2019'],,False,False,,1
+nyor1244-1-20-1,,nyor1244-1,20,amakhomi kabili,amakhomi kabili,[],,['chan2019'],,False,False,,1
+nyor1244-1-21-1,,nyor1244-1,21,amakhomi kabili na silala,amakhomi kabili na silala,[],,['chan2019'],,False,False,,1
+nyor1244-1-22-1,,nyor1244-1,22,amakhomi kabili na bili,amakhomi kabili na bili,[],,['chan2019'],,False,False,,1
+nyor1244-1-23-1,,nyor1244-1,23,amakhomi kabili na bitaru,amakhomi kabili na bitaru,[],,['chan2019'],,False,False,,1
+nyor1244-1-24-1,,nyor1244-1,24,amakhomi kabili na bine,amakhomi kabili na bine,[],,['chan2019'],,False,False,,1
+nyor1244-1-25-1,,nyor1244-1,25,amakhomi kabili na birano,amakhomi kabili na birano,[],,['chan2019'],,False,False,,1
+nyor1244-1-26-1,,nyor1244-1,26,amakhomi kabili na sita,amakhomi kabili na sita,[],,['chan2019'],,False,False,,1
+nyor1244-1-27-1,,nyor1244-1,27,amakhomi kabili na musafu,amakhomi kabili na musafu,[],,['chan2019'],,False,False,,1
+nyor1244-1-28-1,,nyor1244-1,28,amakhomi kabili na munane,amakhomi kabili na munane,[],,['chan2019'],,False,False,,1
+nyor1244-1-29-1,,nyor1244-1,29,amakhomi kabili na sienda,amakhomi kabili na sienda,[],,['chan2019'],,False,False,,1
+nyor1244-1-30-1,,nyor1244-1,30,amakhomi kataru,amakhomi kataru,[],,['chan2019'],,False,False,,1
+nyor1244-1-40-1,,nyor1244-1,40,amakhomi kane,amakhomi kane,[],,['chan2019'],,False,False,,1
+nyor1244-1-50-1,,nyor1244-1,50,amakhomi karano,amakhomi karano,[],,['chan2019'],,False,False,,1
+nyor1244-1-60-1,,nyor1244-1,60,amakhomi sita,amakhomi sita,[],( < Swahili ),['chan2019'],,True,False,,1
+nyor1244-1-70-1,,nyor1244-1,70,amakhomi musafu,amakhomi musafu,[],,['chan2019'],,False,False,,1
+nyor1244-1-80-1,,nyor1244-1,80,amakhomi munane,amakhomi munane,[],,['chan2019'],,False,False,,1
+nyor1244-1-90-1,,nyor1244-1,90,amakhomi sienda,amakhomi sienda,[],,['chan2019'],,False,False,,1
+nyor1244-1-100-1,,nyor1244-1,100,emia ndala,emia ndala,[],( 'mia' < Swahili ),['chan2019'],,True,False,,1
+nyor1244-1-200-1,,nyor1244-1,200,tsimia tsibili ?,tsimia tsibili ?,[],,['chan2019'],,False,True,,1
+nyor1244-1-1000-1,,nyor1244-1,1000,elefu ndala,elefu ndala,[],( 'elefu' < Swahili ),['chan2019'],,True,False,,1
+nyor1244-1-2000-1,,nyor1244-1,2000,tislefu tsibili ?,tislefu tsibili ?,[],,['chan2019'],,False,True,,1

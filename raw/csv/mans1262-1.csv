@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mans1262-1-1-1,,mans1262-1,1,isa,isa,[],,['chan2019'],,False,False,,1
+mans1262-1-2-1,,mans1262-1,2,dowa,dowa,[],,['chan2019'],,False,False,,1
+mans1262-1-3-1,,mans1262-1,3,toro,toro,[],,['chan2019'],,False,False,,1
+mans1262-1-4-1,,mans1262-1,4,opat,opat,[],,['chan2019'],,False,False,,1
+mans1262-1-5-1,,mans1262-1,5,lima,lima,[],,['chan2019'],,False,False,,1
+mans1262-1-6-1,,mans1262-1,6,unum,unum,[],,['chan2019'],,False,False,,1
+mans1262-1-7-1,,mans1262-1,7,pito,pito,[],,['chan2019'],,False,False,,1
+mans1262-1-8-1,,mans1262-1,8,waro,waro,[],,['chan2019'],,False,False,,1
+mans1262-1-9-1,,mans1262-1,9,siyam,siyam,[],,['chan2019'],,False,False,,1
+mans1262-1-10-1,,mans1262-1,10,samporo,samporo,[],,['chan2019'],,False,False,,1
+mans1262-1-11-1,,mans1262-1,11,samporo aw isa,samporo aw isa,[],,['chan2019'],,False,False,,1
+mans1262-1-12-1,,mans1262-1,12,samporo aw dowa,samporo aw dowa,[],,['chan2019'],,False,False,,1
+mans1262-1-13-1,,mans1262-1,13,samporo aw toro,samporo aw toro,[],,['chan2019'],,False,False,,1
+mans1262-1-14-1,,mans1262-1,14,samporo aw opat,samporo aw opat,[],,['chan2019'],,False,False,,1
+mans1262-1-15-1,,mans1262-1,15,samporo aw lima,samporo aw lima,[],,['chan2019'],,False,False,,1
+mans1262-1-16-1,,mans1262-1,16,samporo aw unum,samporo aw unum,[],,['chan2019'],,False,False,,1
+mans1262-1-17-1,,mans1262-1,17,samporo aw pito,samporo aw pito,[],,['chan2019'],,False,False,,1
+mans1262-1-18-1,,mans1262-1,18,samporo aw waro,samporo aw waro,[],,['chan2019'],,False,False,,1
+mans1262-1-19-1,,mans1262-1,19,samporo aw siyam,samporo aw siyam,[],,['chan2019'],,False,False,,1
+mans1262-1-20-1,,mans1262-1,20,karowaʔan < ka+dowa+an,karowaʔan < ka+dowa+an,[],,['chan2019'],,False,True,,1
+mans1262-1-21-1,,mans1262-1,21,karowaʔan aw isa,karowaʔan aw isa,[],,['chan2019'],,False,False,,1
+mans1262-1-22-1,,mans1262-1,22,karowaʔan aw dowa,karowaʔan aw dowa,[],,['chan2019'],,False,False,,1
+mans1262-1-23-1,,mans1262-1,23,karowaʔan aw toro,karowaʔan aw toro,[],,['chan2019'],,False,False,,1
+mans1262-1-24-1,,mans1262-1,24,karowaʔan aw opat,karowaʔan aw opat,[],,['chan2019'],,False,False,,1
+mans1262-1-25-1,,mans1262-1,25,karowaʔan aw lima,karowaʔan aw lima,[],,['chan2019'],,False,False,,1
+mans1262-1-26-1,,mans1262-1,26,karowaʔan aw unum,karowaʔan aw unum,[],,['chan2019'],,False,False,,1
+mans1262-1-27-1,,mans1262-1,27,karowaʔan aw pito,karowaʔan aw pito,[],,['chan2019'],,False,False,,1
+mans1262-1-28-1,,mans1262-1,28,karowaʔan aw waro,karowaʔan aw waro,[],,['chan2019'],,False,False,,1
+mans1262-1-29-1,,mans1262-1,29,karowaʔan aw siyam,karowaʔan aw siyam,[],,['chan2019'],,False,False,,1
+mans1262-1-30-1,,mans1262-1,30,katlowan < ka+tora+an,katlowan < ka+tora+an,[],,['chan2019'],,False,True,,1
+mans1262-1-40-1,,mans1262-1,40,kaʔopatan,kaʔopatan,[],,['chan2019'],,False,False,,1
+mans1262-1-50-1,,mans1262-1,50,karimaʔan,karimaʔan,[],,['chan2019'],,False,False,,1
+mans1262-1-60-1,,mans1262-1,60,kaʔunuman,kaʔunuman,[],,['chan2019'],,False,False,,1
+mans1262-1-70-1,,mans1262-1,70,kapitowan,kapitowan,[],,['chan2019'],,False,False,,1
+mans1262-1-80-1,,mans1262-1,80,kawarowan,kawarowan,[],,['chan2019'],,False,False,,1
+mans1262-1-90-1,,mans1262-1,90,kasiyaman,kasiyaman,[],,['chan2019'],,False,False,,1
+mans1262-1-100-1,,mans1262-1,100,saŋɡatos < isa+na+ɡatos,saŋɡatos < isa+na+ɡatos,[],,['chan2019'],,False,True,,1
+mans1262-1-200-1,,mans1262-1,200,dowaŋ ɡatos,dowaŋ ɡatos,[],,['chan2019'],,False,False,,1
+mans1262-1-1000-1,,mans1262-1,1000,saŋ mararan <isa+na+mararan,saŋ mararan <isa+na+mararan,[],,['chan2019'],,False,True,,1
+mans1262-1-2000-1,,mans1262-1,2000,dowaŋ mararan,dowaŋ mararan,[],,['chan2019'],,False,False,,1

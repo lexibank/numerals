@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+mako1251-1-1-1,,mako1251-1,1,iímo,iímo,[],,['chan2019'],,False,False,,1
+mako1251-1-2-1,,mako1251-1,2,mbiíli,mbiíli,[],,['chan2019'],,False,False,,1
+mako1251-1-3-1,,mako1251-1,3,nnaátu,nnaátu,[],,['chan2019'],,False,False,,1
+mako1251-1-4-1,,mako1251-1,4,nt͡ʃe:ʃɛ,nt͡ʃe:ʃɛ,[],,['chan2019'],,False,False,,1
+mako1251-1-5-1,,mako1251-1,5,mwaánu,mwaánu,[],,['chan2019'],,False,False,,1
+mako1251-1-6-1,,mako1251-1,6,mwaánu na iímo,mwaánu na iímo,[],( 5 + 1 ),['chan2019'],,False,False,,1
+mako1251-1-7-1,,mako1251-1,7,mwaánu na mbiíli,mwaánu na mbiíli,[],( 5 + 2 ),['chan2019'],,False,False,,1
+mako1251-1-8-1,,mako1251-1,8,mwaánu na naátu,mwaánu na naátu,[],( 5 + 3 ),['chan2019'],,False,False,,1
+mako1251-1-9-1,,mako1251-1,9,mwaánu na nt͡ʃe:ʃɛ,mwaánu na nt͡ʃe:ʃɛ,[],( 5 + 4 ),['chan2019'],,False,False,,1
+mako1251-1-10-1,,mako1251-1,10,likuúmi or kuúmi,likuúmi or kuúmi,[],,['chan2019'],,False,True,,1
+mako1251-1-11-1,,mako1251-1,11,likuúmi liímo na iímo,likuúmi liímo na iímo,[],,['chan2019'],,False,False,,1
+mako1251-1-12-1,,mako1251-1,12,likuúmi liímo na mbiíli,likuúmi liímo na mbiíli,[],,['chan2019'],,False,False,,1
+mako1251-1-13-1,,mako1251-1,13,likuúmi liímo na nnaátu,likuúmi liímo na nnaátu,[],,['chan2019'],,False,False,,1
+mako1251-1-14-1,,mako1251-1,14,likuúmi liímo na nt͡ʃe:ʃɛ,likuúmi liímo na nt͡ʃe:ʃɛ,[],,['chan2019'],,False,False,,1
+mako1251-1-15-1,,mako1251-1,15,likuúmi liímo na mwaánu,likuúmi liímo na mwaánu,[],,['chan2019'],,False,False,,1
+mako1251-1-16-1,,mako1251-1,16,likuúmi liímo na mwaánu na iímo,likuúmi liímo na mwaánu na iímo,[],,['chan2019'],,False,False,,1
+mako1251-1-17-1,,mako1251-1,17,likuúmi liímo na mwaánu na mbiíli,likuúmi liímo na mwaánu na mbiíli,[],,['chan2019'],,False,False,,1
+mako1251-1-18-1,,mako1251-1,18,likuúmi liímo na mwaánu na naátu,likuúmi liímo na mwaánu na naátu,[],,['chan2019'],,False,False,,1
+mako1251-1-19-1,,mako1251-1,19,likuúmi liímo na mwaánu na n̩t͡ʃɛʃɛ,likuúmi liímo na mwaánu na n̩t͡ʃɛʃɛ,[],,['chan2019'],,False,False,,1
+mako1251-1-20-1,,mako1251-1,20,makuúmi maviíli,makuúmi maviíli,[],,['chan2019'],,False,False,,1
+mako1251-1-20-2,,mako1251-1,20,iʃiliíni,iʃiliíni,[],( < Sw. ),['chan2019'],,True,False,,1
+mako1251-1-21-1,,mako1251-1,21,makuúmi maviíli na iímo,makuúmi maviíli na iímo,[],,['chan2019'],,False,False,,1
+mako1251-1-22-1,,mako1251-1,22,makuúmi maviíli na mbiíli,makuúmi maviíli na mbiíli,[],,['chan2019'],,False,False,,1
+mako1251-1-23-1,,mako1251-1,23,makuúmi maviíli na nnaátu,makuúmi maviíli na nnaátu,[],,['chan2019'],,False,False,,1
+mako1251-1-24-1,,mako1251-1,24,makuúmi maviíli na nt͡ʃe:ʃɛ,makuúmi maviíli na nt͡ʃe:ʃɛ,[],,['chan2019'],,False,False,,1
+mako1251-1-25-1,,mako1251-1,25,makuúmi maviíli na mwaánu,makuúmi maviíli na mwaánu,[],,['chan2019'],,False,False,,1
+mako1251-1-26-1,,mako1251-1,26,makuúmi maviíli na mwaánu na iímo,makuúmi maviíli na mwaánu na iímo,[],,['chan2019'],,False,False,,1
+mako1251-1-27-1,,mako1251-1,27,makuúmi maviíli na mwaánu na mbiíli,makuúmi maviíli na mwaánu na mbiíli,[],,['chan2019'],,False,False,,1
+mako1251-1-28-1,,mako1251-1,28,makuúmi maviíli na mwaánu na naátu,makuúmi maviíli na mwaánu na naátu,[],,['chan2019'],,False,False,,1
+mako1251-1-29-1,,mako1251-1,29,makuúmi maviíli na mwaánu na nt͡ʃe:ʃɛ,makuúmi maviíli na mwaánu na nt͡ʃe:ʃɛ,[],,['chan2019'],,False,False,,1
+mako1251-1-30-1,,mako1251-1,30,makuúmi mataátu,makuúmi mataátu,[],,['chan2019'],,False,False,,1
+mako1251-1-40-1,,mako1251-1,40,makuúmi nt͡ʃe:ʃɛ,makuúmi nt͡ʃe:ʃɛ,[],,['chan2019'],,False,False,,1
+mako1251-1-50-1,,mako1251-1,50,makuúmi mwaánu,makuúmi mwaánu,[],,['chan2019'],,False,False,,1
+mako1251-1-60-1,,mako1251-1,60,makuúmi mwaánu na likuúmi liímo,makuúmi mwaánu na likuúmi liímo,[],,['chan2019'],,False,False,,1
+mako1251-1-70-1,,mako1251-1,70,makuúmi mwaánu na makuúmi maviíli,makuúmi mwaánu na makuúmi maviíli,[],,['chan2019'],,False,False,,1
+mako1251-1-80-1,,mako1251-1,80,makuúmi mwaánu na makuúmi mataátu,makuúmi mwaánu na makuúmi mataátu,[],,['chan2019'],,False,False,,1
+mako1251-1-90-1,,mako1251-1,90,makuúmi mwaánu na makuúmi nt͡ʃe:ʃɛ,makuúmi mwaánu na makuúmi nt͡ʃe:ʃɛ,[],,['chan2019'],,False,False,,1
+mako1251-1-100-1,,mako1251-1,100,makuúmi makuúmi or míía,makuúmi makuúmi or míía,[],( < Sw. ),['chan2019'],,True,True,,1
+mako1251-1-200-1,,mako1251-1,200,dímííya mbiíli,dímííya mbiíli,[],,['chan2019'],,False,False,,1
+mako1251-1-1000-1,,mako1251-1,1000,áluupu,áluupu,[],( < Swahili ),['chan2019'],,True,False,,1
+mako1251-1-2000-1,,mako1251-1,2000,dyááluupu mbiíli,dyááluupu mbiíli,[],,['chan2019'],,False,False,,1
