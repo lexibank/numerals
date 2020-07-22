@@ -5,8 +5,6 @@ import shutil
 import unicodedata
 import hashlib
 
-from pyglottolog import Glottolog
-
 from clldutils.path import Path, walk
 from pycldf import Wordlist
 from pylexibank.dataset import Dataset as BaseDataset
@@ -23,7 +21,6 @@ from pynumerals.numerals_utils import (
     check_for_problems,
     make_index_link,
     make_chan_link,
-    FAMILIES,
 )
 
 CHANURL = "https://mpi-lingweb.shh.mpg.de/numeral/"
@@ -80,16 +77,19 @@ class Dataset(BaseDataset):
         "sources.bib",
     ]
 
+    csv_dir = "csv"
+
     def cmd_download(self, args):
-        glottolog_path = "../glottolog"
-        glottolog = Glottolog(glottolog_path)
+
+        # Gather all overwrites from etc/csv
+        overwrites = [
+            c.stem for c in walk(self.etc_dir / self.csv_dir, mode="files") if c.suffix == ".csv"]
+
         index = Path(self.raw_dir / "index.md")
 
         # Create index always from scratch:
         if index.exists():
             Path.unlink(index)
-
-        languoids = {l.id: l for l in glottolog.languoids()}
 
         for f in self.channumerals_files:
             self.raw_dir.download("{0}/{1}".format(URL, f), f, log=args.log)
@@ -114,19 +114,17 @@ class Dataset(BaseDataset):
             chansrc = lt["SourceFile"]
             problems = check_for_problems(entry)
             csv_name = Path(lt["ID"] + ".csv")
-            family = "Other"
 
-            try:
-                if languoids[lid].family and languoids[lid].family.name in FAMILIES:
-                    family = languoids[lid].family.name
-            except KeyError:
-                pass
+            # check for overwrites
+            if lt["ID"] in overwrites:
+                problems += " - [has overwrite](../{0})".format(
+                        str(self.etc_dir / self.csv_dir / csv_name))
 
             pathlib.Path(self.raw_dir /
-                         family).mkdir(parents=True, exist_ok=True)
+                         self.csv_dir).mkdir(parents=True, exist_ok=True)
 
             # Write data from form table into respective CSV file:
-            with open(self.raw_dir / family / csv_name, "w") as outfile:
+            with open(self.raw_dir / self.csv_dir / csv_name, "w") as outfile:
                 fp = csv.DictWriter(outfile, entry[0].keys())
                 fp.writeheader()
                 fp.writerows(
@@ -141,7 +139,6 @@ class Dataset(BaseDataset):
                 outfile.write(index_link + chan_link +
                               language_name + problems + "\n")
 
-
     def cmd_makecldf(self, args):
 
         args.writer.add_sources()
@@ -150,6 +147,7 @@ class Dataset(BaseDataset):
         valid_languages = set()
         changed_glottolog_codes = []
         no_glottolog_codes = []
+        no_data_paths = []
 
         args.writer.add_concepts(id_factory=lambda d: d.english)
 
@@ -179,9 +177,23 @@ class Dataset(BaseDataset):
                             "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
                             "mans1258-3", "mono1275-1", "pume1238-2"]
 
+        language_data_paths = []
+        overwrites_cnt = 0
+
         for language in self.languages:
 
-            if language['ID'].strip() in ignored_lang_ids:
+            language['ID'] = language['ID'].strip()
+            if language['ID'] in ignored_lang_ids:
+                continue
+
+            # Gather correct data path
+            if (self.etc_dir / self.csv_dir / (language['ID'] + ".csv")).exists():
+                language_data_paths.append(self.etc_dir / self.csv_dir / (language['ID'] + ".csv"))
+                overwrites_cnt += 1
+            elif (self.raw_dir / self.csv_dir / (language['ID'] + ".csv")).exists():
+                language_data_paths.append(self.raw_dir / self.csv_dir / (language['ID'] + ".csv"))
+            else:
+                no_data_paths.append(language['ID'])
                 continue
 
             if language["Base"]:
@@ -204,16 +216,6 @@ class Dataset(BaseDataset):
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
-        # gather all overwrite candidates {file_name: path}
-        overwrites = {}
-        for c in walk(self.dir / "overwrite", mode="files"):
-            if c.name == "index.md" or c.name == "README.md"\
-                    or c.name in self.channumerals_files\
-                    or c.name.startswith("."):
-                continue
-            overwrites[c.name] = c
-
-        overwrites_cnt = 0
         unknown_params = []
         misaligned_overwrites = set()
         misaligned = set()
@@ -260,17 +262,9 @@ class Dataset(BaseDataset):
 
         datatable_checks = {}
 
-        for c in progressbar(sorted(walk(self.raw_dir, mode="files")), desc="makecldf"):
-            if c.name == "index.md" or c.name == "README.md"\
-                    or c.name in self.channumerals_files\
-                    or c.name.startswith("."):
-                continue
+        # Gather all csv data files
 
-            # if an overwrite exists then take the overwrite's path
-            if c.name in overwrites:
-                c = overwrites[c.name]
-                overwrites_cnt += 1
-
+        for c in progressbar(language_data_paths, desc="makecldf"):
             with Path.open(c) as csvfile:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
@@ -395,3 +389,6 @@ class Dataset(BaseDataset):
 
         for u in sorted(other_form):
             args.log.warn("check Other_Form for [] in {0}".format(u))
+
+        for u in sorted(no_data_paths):
+            args.log.warn("no data for {0}".format(u))
