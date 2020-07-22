@@ -1,7 +1,0 @@
-ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-cint1239-1-1-1,,cint1239-1,1,muuj,muuj,[],(litː 'one'),['chan2019'],,False,False,,1
-cint1239-1-2-1,,cint1239-1,2,busyyt,busyyt,[],(litː 'two'),['chan2019'],,False,False,,1
-cint1239-1-3-1,,cint1239-1,3,busyyt'muuj,busyyt'muuj,[],(litː 'two + one'?'),['chan2019'],,False,False,,1
-cint1239-1-4-1,,cint1239-1,4,xisaj'pitpareteet,xisaj'pitpareteet,[],(meaning ?),['chan2019'],,False,False,,1
-cint1239-1-5-1,,cint1239-1,5,muujpabe,muujpabe,[],(litː 'one hand' ?),['chan2019'],,False,False,,1
-cint1239-1-6-1,,cint1239-1,6,muujpabe'muuj ,muujpabe'muuj,[], (litː 'both hands and one'?). Manyː ngulua,['chan2019'],,False,False,,1
