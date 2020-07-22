@@ -179,6 +179,8 @@ class Dataset(BaseDataset):
 
         language_data_paths = []
         overwrites_cnt = 0
+        languoids_by_code = self.glottolog.languoids_by_code()
+        check_latlongs = []
 
         for language in self.languages:
 
@@ -203,16 +205,30 @@ class Dataset(BaseDataset):
                     args.log.warn("Base '{0}' is unknown for {1}".format(
                         language["Base"], language['ID']))
 
-            args.writer.add_language(**language)
-            valid_languages.add(language['ID'])
-
             if language['Glottocode']:
                 if language['ID'].split("-")[0] != language['Glottocode']:
                     changed_glottolog_codes.append(
                         (language['ID'], language['Glottocode'])
                     )
+
+                gl_entry = languoids_by_code[language['Glottocode']]
+                if not language["Latitude"]:
+                    language["Latitude"] = gl_entry.latitude
+                    language["Longitude"] = gl_entry.longitude
+                else:
+                    if gl_entry.latitude:
+                        check_latlongs.append(language['ID'])
+                if not language["Macroarea"]:
+                    language["Macroarea"] = gl_entry.macroareas[0].name\
+                            if gl_entry.macroareas else ""
+                if not language["Family"]:
+                    language["Family"] = gl_entry.family.name\
+                            if gl_entry.family else ""
             else:
                 no_glottolog_codes.append(language['ID'])
+
+            args.writer.add_language(**language)
+            valid_languages.add(language['ID'])
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
@@ -392,3 +408,6 @@ class Dataset(BaseDataset):
 
         for u in sorted(no_data_paths):
             args.log.warn("no data for {0}".format(u))
+
+        for u in sorted(check_latlongs):
+            args.log.warn("check lat/long for {0}".format(u))
