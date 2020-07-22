@@ -25,7 +25,7 @@ class TestUtil:
         This is likely going to break with changes to the upstream data. However, I'd rather see
         this fail in the tests first.
         """
-        assert len(channumerals) == 5284
+        assert len(channumerals) == 7
         assert channumerals[0][0]["ID"] == "aari1239-1-1-1"
         assert channumerals[0][0]["Language_ID"] == "aari1239-1"
         assert channumerals[-1][0]["ID"] == "zuoj1238-1-1-1"
@@ -42,8 +42,8 @@ class TestUtil:
     def test_chan_link():
         from pynumerals.numerals_utils import make_chan_link
 
-        assert f" ([Source]({CHANURL}))" == make_chan_link("", CHANURL)
-        assert f" ([Source]({CHANURL}Bateri.htm))" == make_chan_link("Bateri.htm", CHANURL)
+        assert " ([Source]({0}))".format(CHANURL) == make_chan_link("", CHANURL)
+        assert " ([Source]({0}Bateri.htm))".format(CHANURL) == make_chan_link("Bateri.htm", CHANURL)
 
     @staticmethod
     def test_check_problems():
