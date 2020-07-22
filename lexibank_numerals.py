@@ -14,10 +14,10 @@ from pylexibank.models import Lexeme, Language
 from pylexibank.util import progressbar
 from pylexibank.forms import FormSpec
 
-from errorcheck import errorchecks
-from base_mapper import BASE_MAP
+from pynumerals.errorcheck import errorchecks
+from pynumerals.mappings import BASE_MAP
 
-from numerals_util import (
+from pynumerals.numerals_utils import (
     split_form_table,
     make_language_name,
     check_for_problems,
@@ -29,7 +29,7 @@ from numerals_util import (
 CHANURL = "https://mpi-lingweb.shh.mpg.de/numeral/"
 
 # FIXME: Point to Zenodo or GitHub API?
-URL = "https://github.com/lexibank/channumerals/raw/v1.0/cldf"
+URL = "https://raw.githubusercontent.com/numeralbank/channumerals/master/cldf"
 
 
 @attr.s
@@ -81,7 +81,8 @@ class Dataset(BaseDataset):
     ]
 
     def cmd_download(self, args):
-        glottolog = Glottolog('../glottolog')
+        glottolog_path = "../glottolog"
+        glottolog = Glottolog(glottolog_path)
         index = Path(self.raw_dir / "index.md")
 
         # Create index always from scratch:
@@ -140,10 +141,6 @@ class Dataset(BaseDataset):
                 outfile.write(index_link + chan_link +
                               language_name + problems + "\n")
 
-        shutil.move(self.raw_dir / "parameters.csv",
-                    self.etc_dir / "concepts.csv")
-        shutil.move(self.raw_dir / "languages.csv",
-                    self.etc_dir / "languages.csv")
 
     def cmd_makecldf(self, args):
 
@@ -154,9 +151,10 @@ class Dataset(BaseDataset):
         changed_glottolog_codes = []
         no_glottolog_codes = []
 
-        for concept in self.concepts:
-            args.writer.add_concept(**concept)
-            valid_parameters.add(concept['ID'])
+        args.writer.add_concepts(id_factory=lambda d: d.english)
+
+        for concept in args.writer.objects['ParameterTable']:
+            valid_parameters.add(concept["Name"])
 
         ignored_lang_ids = ["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
                             "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
@@ -179,7 +177,7 @@ class Dataset(BaseDataset):
                             "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
                             "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
                             "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
-                            "mans1258-3", "mono1275-1"]
+                            "mans1258-3", "mono1275-1", "pume1238-2"]
 
         for language in self.languages:
 
@@ -190,7 +188,7 @@ class Dataset(BaseDataset):
                 if language["Base"] in BASE_MAP:
                     language["Base"] = BASE_MAP[language["Base"]]
                 else:
-                    args.log.warn("Base '{0}' is known for {1}".format(
+                    args.log.warn("Base '{0}' is unknown for {1}".format(
                         language["Base"], language['ID']))
 
             args.writer.add_language(**language)

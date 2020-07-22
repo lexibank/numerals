@@ -1,30 +1,35 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Chan-2019-133"
+    ],
+    "dc:identifier": "https://mpi-lingweb.shh.mpg.de/numeral",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "numerals",
-    "dcat:accessURL": "https://github.com/lexibank/numerals",
+    "dc:title": "CLDF dataset derived from curated Chan's \"Numeral Systems of the World's Languages.\" from 2019",
+    "dcat:accessURL": "https://github.com/numeralbank/numerals",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/numerals",
-            "dc:created": "f6f061a2"
+            "rdf:about": "https://github.com/numeralbank/numerals",
+            "dc:created": "61dd3c63"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "v4.2.1-13-g7970be034b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-41-g22d9d52"
+            "dc:created": "v2.4.0-rc.1-1-g37eec00"
         },
         {
             "rdf:type": "prov:Entity",
@@ -51,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 184485,
+            "dc:extent": 184526,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,7 +253,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 100,
+            "dc:extent": 133,
             "tableSchema": {
                 "columns": [
                     {
