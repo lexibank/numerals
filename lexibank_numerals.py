@@ -179,8 +179,6 @@ class Dataset(BaseDataset):
 
         language_data_paths = []
         overwrites_cnt = 0
-        languoids_by_code = self.glottolog.languoids_by_code()
-        check_latlongs = []
 
         for language in self.languages:
 
@@ -210,20 +208,16 @@ class Dataset(BaseDataset):
                     changed_glottolog_codes.append(
                         (language['ID'], language['Glottocode'])
                     )
-
-                gl_entry = languoids_by_code[language['Glottocode']]
+                del language["Glottolog_Name"]
+                # Remove empty attrs which can be provided by Glottolog
+                # for filling them while adding
                 if not language["Latitude"]:
-                    language["Latitude"] = gl_entry.latitude
-                    language["Longitude"] = gl_entry.longitude
-                else:
-                    if gl_entry.latitude:
-                        check_latlongs.append(language['ID'])
+                    del language["Latitude"]
+                    del language["Longitude"]
                 if not language["Macroarea"]:
-                    language["Macroarea"] = gl_entry.macroareas[0].name\
-                            if gl_entry.macroareas else ""
+                    del language["Macroarea"]
                 if not language["Family"]:
-                    language["Family"] = gl_entry.family.name\
-                            if gl_entry.family else ""
+                    del language["Family"]
             else:
                 no_glottolog_codes.append(language['ID'])
 
@@ -408,6 +402,3 @@ class Dataset(BaseDataset):
 
         for u in sorted(no_data_paths):
             args.log.warn("no data for {0}".format(u))
-
-        for u in sorted(check_latlongs):
-            args.log.warn("check lat/long for {0}".format(u))
