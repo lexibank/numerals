@@ -203,16 +203,26 @@ class Dataset(BaseDataset):
                     args.log.warn("Base '{0}' is unknown for {1}".format(
                         language["Base"], language['ID']))
 
-            args.writer.add_language(**language)
-            valid_languages.add(language['ID'])
-
             if language['Glottocode']:
                 if language['ID'].split("-")[0] != language['Glottocode']:
                     changed_glottolog_codes.append(
                         (language['ID'], language['Glottocode'])
                     )
+                del language["Glottolog_Name"]
+                # Remove empty attrs which can be provided by Glottolog
+                # for filling them while adding
+                if not language["Latitude"]:
+                    del language["Latitude"]
+                    del language["Longitude"]
+                if not language["Macroarea"]:
+                    del language["Macroarea"]
+                if not language["Family"]:
+                    del language["Family"]
             else:
                 no_glottolog_codes.append(language['ID'])
+
+            args.writer.add_language(**language)
+            valid_languages.add(language['ID'])
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
