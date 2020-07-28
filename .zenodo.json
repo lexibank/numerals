@@ -1,0 +1,56 @@
+{
+    "title": "CLDF dataset derived from curated Chan's \"Numeral Systems of the World's Languages.\" from 2019",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Eugene Chan"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Christoph Rzymski"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Eugene Chan",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Kristina Pianykh",
+            "type": "Other"
+        },
+        {
+            "name": "Marie Charlotte Gertich",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chan, Eugene (eds.) 2019. Numeral Systems of the World&#x27;s Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30</p>\n</blockquote>"
+}

@@ -30,5 +30,20 @@ Conceptlists in Concepticon:
   - Malinguat, Papua New Guinea [mali1288](http://glottolog.org/resource/languoid/id/mali1288)
   - Mengisa, Cameroun [meng1263](http://glottolog.org/resource/languoid/id/meng1263)
   - Punan Merap, Indonesia [puna1274](http://glottolog.org/resource/languoid/id/puna1274)
+  - Shempire Senoufo (Fourou), Mali [shem1239](http://glottolog.org/resource/languoid/id/shem1239)
+  - Shempire Senoufo (Tengrela), Côte d'Ivoire [shem1239](http://glottolog.org/resource/languoid/id/shem1239)
   - Xinca, Guatemala [xinc1247](http://glottolog.org/resource/languoid/id/xinc1247)
+
+
+
+# Contributors
+
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Eugene Chan |  | study design, data collection and data maintainer                               | DataCollector, Author
+Hans-Jörg Bibiko | @Bibiko | patron, code, helped with data collection | DataCollector, DataCurator, Maintainer
+Christoph Rzymski | @chrzyki | helped with code | Maintainer, Other
+Robert Forkel | @xrotwang | helped with code and project structure | Other
+Kristina Pianykh | @Kristina-Pianykh | helped with data cleaning | Other
+Marie Charlotte Gertich | @mcgertich | helped with data cleaning | Other
 
