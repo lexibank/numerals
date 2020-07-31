@@ -1,4 +1,4 @@
-x,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 cent2018-2-1-1,,cent2018-2,1,ɡoʔo,ɡoʔo,[],,['chan2019'],,False,False,,1
 cent2018-2-2-1,,cent2018-2,2,ɗiɗi,ɗiɗi,[],,['chan2019'],,False,False,,1
 cent2018-2-3-1,,cent2018-2,3,tati,tati,[],,['chan2019'],,False,False,,1
