@@ -12,9 +12,9 @@ doma1258-1-5-2,,doma1258-1,5,pandʒ,pandʒ,[],,['chan2019'],,False,False,,1
 doma1258-1-6-1,,doma1258-1,6,šēš,šēš,[],,['chan2019'],,False,False,,1
 doma1258-1-6-2,,doma1258-1,6,ʃeːʃ,ʃeːʃ,[],,['chan2019'],,False,False,,1
 doma1258-1-7-1,,doma1258-1,7,ḥawt,ḥawt,[],,['chan2019'],,False,False,,1
-doma1258-1-7-2,,doma1258-1,7,ḥaft,ḥaft,[],(Kurdish),['chan2019'],,False,False,,1
-doma1258-1-8-1,,doma1258-1,8,ḥašt,ḥašt,[],(Kurdish),['chan2019'],,False,False,,1
-doma1258-1-9-1,,doma1258-1,9,nu,nu,[],(Kurdish),['chan2019'],,False,False,,1
+doma1258-1-7-2,,doma1258-1,7,ḥaft,ḥaft,[],(Kurdish),['chan2019'],,True,False,,1
+doma1258-1-8-1,,doma1258-1,8,ḥašt,ḥašt,[],(Kurdish),['chan2019'],,True,False,,1
+doma1258-1-9-1,,doma1258-1,9,nu,nu,[],(Kurdish),['chan2019'],,True,False,,1
 doma1258-1-9-2,,doma1258-1,9,nah,nah,[],(inherited),['chan2019'],,False,False,,1
 doma1258-1-10-1,,doma1258-1,10,dazz,dazz,[],,['chan2019'],,False,False,,1
 doma1258-1-10-2,,doma1258-1,10,dazː,dazː,[],,['chan2019'],,False,False,,1
@@ -29,7 +29,7 @@ doma1258-1-17-2,,doma1258-1,17,dazz ḥaft,dazz ḥaft,[],,['chan2019'],,False,F
 doma1258-1-18-1,,doma1258-1,18,dazz h̩ašt,dazz h̩ašt,[],,['chan2019'],,False,False,,1
 doma1258-1-19-1,,doma1258-1,19,dazz nah,dazz nah,[],,['chan2019'],,False,False,,1
 doma1258-1-19-2,,doma1258-1,19,nu,nu,[],,['chan2019'],,False,False,,1
-doma1258-1-20-1,,doma1258-1,20,wīst,wīst,[],(Kurdish),['chan2019'],,False,False,,1
+doma1258-1-20-1,,doma1258-1,20,wīst,wīst,[],(Kurdish),['chan2019'],,True,False,,1
 doma1258-1-21-1,,doma1258-1,21,wīst yēka,wīst yēka,[],,['chan2019'],,False,False,,1
 doma1258-1-22-1,,doma1258-1,22,wīst dədī,wīst dədī,[],,['chan2019'],,False,False,,1
 doma1258-1-23-1,,doma1258-1,23,wīst trən,wīst trən,[],,['chan2019'],,False,False,,1
@@ -53,7 +53,7 @@ doma1258-1-80-1,,doma1258-1,80,trən wīst wīst,trən wīst wīst,[],,['cha
 doma1258-1-80-2,,doma1258-1,80,štār wīst,štār wīst,[],,['chan2019'],,False,False,,1
 doma1258-1-90-1,,doma1258-1,90,ṣadd illa dazz,ṣadd illa dazz,[],,['chan2019'],,False,False,,1
 doma1258-1-90-2,,doma1258-1,90,štār wīst dazz,štār wīst dazz,[],,['chan2019'],,False,False,,1
-doma1258-1-100-1,,doma1258-1,100,ṣadd,ṣadd,[],(Kurdish),['chan2019'],,False,False,,1
+doma1258-1-100-1,,doma1258-1,100,ṣadd,ṣadd,[],(Kurdish),['chan2019'],,True,False,,1
 doma1258-1-200-1,,doma1258-1,200,dī ṣadd,dī ṣadd,[],,['chan2019'],,False,False,,1
-doma1258-1-1000-1,,doma1258-1,1000,hazār,hazār,[],(Kurdish),['chan2019'],,False,False,,1
+doma1258-1-1000-1,,doma1258-1,1000,hazār,hazār,[],(Kurdish),['chan2019'],,True,False,,1
 doma1258-1-2000-1,,doma1258-1,2000,dī hazār,dī hazār,[],,['chan2019'],,False,False,,1

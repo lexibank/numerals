@@ -1,7 +1,7 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-izon1238-1-1-1,,izon1238-1,1,kẹnị́,kẹnị́,[],"(ẹ = IPA [ɛ], ị = IPA [ɪ])",['chan2019'],,False,False,,1
-izon1238-1-2-1,,izon1238-1,2,mamụ́,mamụ́,[],,['chan2019'],,False,False,,1
-izon1238-1-3-1,,izon1238-1,3,tǎrụ,tǎrụ,[],( ụ=IPA [ʊ]),['chan2019'],,False,False,,1
+izon1238-1-1-1,,izon1238-1,1,kɛnɪ́,kɛnɪ́,[],,['chan2019'],,False,False,,1
+izon1238-1-2-1,,izon1238-1,2,mamʊ́,mamʊ́,[],,['chan2019'],,False,False,,1
+izon1238-1-3-1,,izon1238-1,3,tǎrʊ,tǎrʊ,[],,['chan2019'],,False,False,,1
 izon1238-1-4-1,,izon1238-1,4,nóín,nóín,[],,['chan2019'],,False,False,,1
 izon1238-1-5-1,,izon1238-1,5,sɔ̃́rɔ̃́,sɔ̃́rɔ̃́,[],?,['chan2019'],,False,False,sọ́nrọ́n,1
 izon1238-1-6-1,,izon1238-1,6,sǒndie,sǒndie,[],,['chan2019'],,False,False,,1
@@ -9,9 +9,9 @@ izon1238-1-7-1,,izon1238-1,7,sọ́nọ́ma,sọ́nọ́ma,[],,['chan2019'],,Fal
 izon1238-1-8-1,,izon1238-1,8,nínɡíni,nínɡíni,[],,['chan2019'],,False,False,,1
 izon1238-1-9-1,,izon1238-1,9,isé,isé,[],,['chan2019'],,False,False,,1
 izon1238-1-10-1,,izon1238-1,10,óí,óí,[],,['chan2019'],,False,False,,1
-izon1238-1-11-1,,izon1238-1,11,óí kẹnị́ feni,óí kẹnị́ feni,[],(ten and one),['chan2019'],,False,False,,1
-izon1238-1-12-1,,izon1238-1,12,óí mamụ́ feni,óí mamụ́ feni,[],,['chan2019'],,False,False,,1
-izon1238-1-13-1,,izon1238-1,13,óí tǎrụ feni,óí tǎrụ feni,[],,['chan2019'],,False,False,,1
+izon1238-1-11-1,,izon1238-1,11,óí kɛnɪ́ feni,óí kɛnɪ́ feni,[],(ten and one),['chan2019'],,False,False,,1
+izon1238-1-12-1,,izon1238-1,12,óí mamʊ́ feni,óí mamʊ́ feni,[],,['chan2019'],,False,False,,1
+izon1238-1-13-1,,izon1238-1,13,óí tǎrʊ feni,óí tǎrʊ feni,[],,['chan2019'],,False,False,,1
 izon1238-1-14-1,,izon1238-1,14,óí nóín feni,óí nóín feni,[],,['chan2019'],,False,False,,1
 izon1238-1-15-1,,izon1238-1,15,óí sọ́nrọ́n feni,óí sọ́nrọ́n feni,[],,['chan2019'],,False,False,,1
 izon1238-1-15-2,,izon1238-1,15,dié,dié,[],,['chan2019'],,False,False,,1
@@ -21,15 +21,15 @@ izon1238-1-18-1,,izon1238-1,18,óí nínɡíni feni,óí nínɡíni feni,[],,['c
 izon1238-1-19-1,,izon1238-1,19,óí isé feni,óí isé feni,[],,['chan2019'],,False,False,,1
 izon1238-1-20-1,,izon1238-1,20,sí,sí,[],,['chan2019'],,False,False,,1
 izon1238-1-20-2,,izon1238-1,20,síí,síí,[],,['chan2019'],,False,False,,1
-izon1238-1-21-1,,izon1238-1,21,sí kẹnị́ feni,sí kẹnị́ feni,[],,['chan2019'],,False,False,,1
-izon1238-1-22-1,,izon1238-1,22,sí mamụ feni,sí mamụ feni,[],,['chan2019'],,False,False,,1
-izon1238-1-23-1,,izon1238-1,23,sí tǎrụ feni,sí tǎrụ feni,[],,['chan2019'],,False,False,,1
+izon1238-1-21-1,,izon1238-1,21,sí kɛnɪ́ feni,sí kɛnɪ́ feni,[],,['chan2019'],,False,False,,1
+izon1238-1-22-1,,izon1238-1,22,sí mamʊ feni,sí mamʊ feni,[],,['chan2019'],,False,False,,1
+izon1238-1-23-1,,izon1238-1,23,sí tǎrʊ feni,sí tǎrʊ feni,[],,['chan2019'],,False,False,,1
 izon1238-1-24-1,,izon1238-1,24,sí nóín feni,sí nóín feni,[],,['chan2019'],,False,False,,1
 izon1238-1-25-1,,izon1238-1,25,sí sọ́nrọ́n feni,sí sọ́nrọ́n feni,[],,['chan2019'],,False,False,,1
 izon1238-1-26-1,,izon1238-1,26,sí sǒndie feni,sí sǒndie feni,[],,['chan2019'],,False,False,,1
 izon1238-1-27-1,,izon1238-1,27,sí sọ́nọ́ma feni,sí sọ́nọ́ma feni,[],,['chan2019'],,False,False,,1
 izon1238-1-28-1,,izon1238-1,28,sí nínɡíni feni,sí nínɡíni feni,[],,['chan2019'],,False,False,,1
-izon1238-1-29-1,,izon1238-1,29,sí isé fị́ni,sí isé fị́ni,[],,['chan2019'],,False,False,,1
+izon1238-1-29-1,,izon1238-1,29,sí isé fɪ́ni,sí isé fɪ́ni,[],,['chan2019'],,False,False,,1
 izon1238-1-30-1,,izon1238-1,30,sí oyi feni,sí oyi feni,[],,['chan2019'],,False,False,,1
 izon1238-1-40-1,,izon1238-1,40,ma sí,ma sí,[],,['chan2019'],,False,False,,1
 izon1238-1-40-2,,izon1238-1,40,maa sí,maa sí,[],(two twenties),['chan2019'],,False,False,,1
@@ -40,8 +40,8 @@ izon1238-1-80-1,,izon1238-1,80,níá sí,níá sí,[],(four twenties),['chan2019
 izon1238-1-90-1,,izon1238-1,90,níá sí mọ oyi mọ,níá sí mọ oyi mọ,[],,['chan2019'],,False,False,,1
 izon1238-1-100-1,,izon1238-1,100,sọ́nrọ́n sí,sọ́nrọ́n sí,[],(five twenties),['chan2019'],,False,False,,1
 izon1238-1-200-1,,izon1238-1,200,oyia sí,oyia sí,[],(ten twenties),['chan2019'],,False,False,,1
-izon1238-1-400-1,,izon1238-1,400,andẹ,andẹ,[],,['chan2019'],,False,False,,1
-izon1238-1-400-2,,izon1238-1,400,andẹʔ,andẹʔ,[],,['chan2019'],,False,False,,1
-izon1238-1-400-3,,izon1238-1,400,ọndẹ́,ọndẹ́,[],,['chan2019'],,False,False,,1
+izon1238-1-400-1,,izon1238-1,400,andɛ,andɛ,[],,['chan2019'],,False,False,,1
+izon1238-1-400-2,,izon1238-1,400,andɛʔ,andɛʔ,[],,['chan2019'],,False,False,,1
+izon1238-1-400-3,,izon1238-1,400,ọndɛ́,ọndɛ́,[],,['chan2019'],,False,False,,1
 izon1238-1-400-4,,izon1238-1,400,sía sí,sía sí,[],,['chan2019'],,False,False,,1
-izon1238-1-1000-1,,izon1238-1,1000,ma andẹʔ mọ oyia sí mọ,ma andẹʔ mọ oyia sí mọ,[],,['chan2019'],,False,False,,1
+izon1238-1-1000-1,,izon1238-1,1000,ma andɛʔ mọ oyia sí mọ,ma andɛʔ mọ oyia sí mọ,[],,['chan2019'],,False,False,,1
