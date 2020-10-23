@@ -4,11 +4,21 @@ Cite the source dataset as
 
 > Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30
 
-Available online at https://mpi-lingweb.shh.mpg.de/numeral
+This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+
+Available online at https://numerals.clld.org
 
 
 Conceptlists in Concepticon:
 - [Chan-2019-133](https://concepticon.clld.org/contributions/Chan-2019-133)
+## Notes
+
+The underlying data are based on
+> Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages. [https://mpi-lingweb.shh.mpg.de/numeral](https://mpi-lingweb.shh.mpg.de/numeral) - accessed: 30 Sep 2019
+
+released as [channumerals v1.0](https://github.com/numeralbank/channumerals/releases/tag/v1.0) and cited as [DOI 10.5281/zenodo.3475912](https://doi.org/10.5281/zenodo.3475912)
+
+
 ## Statistics
 
 
