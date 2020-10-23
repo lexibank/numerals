@@ -6,8 +6,9 @@
     "dc:format": [
         "http://concepticon.clld.org/contributions/Chan-2019-133"
     ],
-    "dc:identifier": "https://mpi-lingweb.shh.mpg.de/numeral",
+    "dc:identifier": "https://numerals.clld.org",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from curated Chan's \"Numeral Systems of the World's Languages.\" from 2019",
@@ -17,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/numeralbank/numerals",
-            "dc:created": "a5e1eeec"
+            "dc:created": "0a11b23b"
         },
         {
             "rdf:type": "prov:Entity",
@@ -29,7 +30,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-1-g37eec00"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
