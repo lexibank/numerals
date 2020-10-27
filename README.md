@@ -16,7 +16,7 @@ Conceptlists in Concepticon:
 The underlying data are based on
 > Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages. [https://mpi-lingweb.shh.mpg.de/numeral](https://mpi-lingweb.shh.mpg.de/numeral) - accessed: 30 Sep 2019
 
-released as [channumerals v1.0](https://github.com/numeralbank/channumerals/releases/tag/v1.0) and cited as [DOI 10.5281/zenodo.3475912](https://doi.org/10.5281/zenodo.3475912)
+released as [channumerals v1.0](https://github.com/numeralbank/channumerals/releases/tag/v1.0) which are citable as [DOI 10.5281/zenodo.3475912](https://doi.org/10.5281/zenodo.3475912).
 
 
 ## Statistics
@@ -56,4 +56,5 @@ Christoph Rzymski | @chrzyki | helped with code | Maintainer, Other
 Robert Forkel | @xrotwang | helped with code and project structure | Other
 Kristina Pianykh | @Kristina-Pianykh | helped with data cleaning | Other
 Marie Charlotte Gertich | @mcgertich | helped with data cleaning | Other
+Simon J. Greenhill | @SimonGreehill | helped with with code and data collection | Other
 
