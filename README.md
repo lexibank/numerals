@@ -40,8 +40,6 @@ released as [channumerals v1.0](https://github.com/numeralbank/channumerals/rele
   - Malinguat, Papua New Guinea [mali1288](http://glottolog.org/resource/languoid/id/mali1288)
   - Mengisa, Cameroun [meng1263](http://glottolog.org/resource/languoid/id/meng1263)
   - Punan Merap, Indonesia [puna1274](http://glottolog.org/resource/languoid/id/puna1274)
-  - Shempire Senoufo (Fourou), Mali [shem1239](http://glottolog.org/resource/languoid/id/shem1239)
-  - Shempire Senoufo (Tengrela), Côte d'Ivoire [shem1239](http://glottolog.org/resource/languoid/id/shem1239)
   - Xinca, Guatemala [xinc1247](http://glottolog.org/resource/languoid/id/xinc1247)
 
 
