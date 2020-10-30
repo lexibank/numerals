@@ -56,5 +56,5 @@ Christoph Rzymski | @chrzyki | helped with code | Maintainer, Other
 Robert Forkel | @xrotwang | helped with code and project structure | Other
 Kristina Pianykh | @Kristina-Pianykh | helped with data cleaning | Other
 Marie Charlotte Gertich | @mcgertich | helped with data cleaning | Other
-Simon J. Greenhill | @SimonGreehill | helped with with code and data collection | Other
+Simon J. Greenhill | @SimonGreenhill | helped with with code and data collection | Other
 
