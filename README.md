@@ -29,7 +29,7 @@ released as [channumerals v1.0](https://github.com/numeralbank/channumerals/rele
 
 - **Varieties:** 5,248
 - **Concepts:** 133
-- **Lexemes:** 184,526
+- **Lexemes:** 184,522
 - **Sources:** 1
 - **Synonymy:** 1.09
 
