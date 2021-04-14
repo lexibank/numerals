@@ -20,9 +20,13 @@ setup(
         ]
     },
     install_requires=[
-        'cldfcatalog',
-        'pylexibank>=2.1',
+        'cldfbench>=1.6.0',
+        'clldutils>=3.7.0'
+        'cldfcatalog>=1.3.0',
+        'pycldf>=1.19.0'
+        'pylexibank>=2.8.2',
         'pynumerals',
+        'tqdm>=4.60.0',
     ],
     extras_require={
         'test': [
