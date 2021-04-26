@@ -4,12 +4,14 @@ import attr
 import shutil
 import unicodedata
 import hashlib
+import collections
+from tqdm import tqdm
 
 from clldutils.path import Path, walk
+from clldutils.misc import slug
 from pycldf import Wordlist
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.models import Lexeme, Language
-from pylexibank.util import progressbar
 from pylexibank.forms import FormSpec
 
 from pynumerals.errorcheck import errorchecks
@@ -175,10 +177,27 @@ class Dataset(BaseDataset):
                             "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
                             "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
                             "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
-                            "mans1258-3", "mono1275-1", "pume1238-2"]
+                            "mans1258-3", "mono1275-1", "pume1238-2", "ncan1245-1",
+                            "anam1249-2", "baka1277-2", "chak1270-1", "dghw1239-1",
+                            "gofa1235-1", "onge1236-2", "xhos1239-2", "xxxx0001-1"]
 
         language_data_paths = []
         overwrites_cnt = 0
+
+        # for lang_id follows glottocode and renumbering *-1, *-2, ...
+        lgid_map = collections.defaultdict(list)
+        lgid_map_gc = {}
+        for language in self.languages:
+            language['ID'] = language['ID'].strip()
+            if language['ID'] in ignored_lang_ids:
+                continue
+            if language['Glottocode']:
+                lgid_map[language['Glottocode']].append(language['ID'])
+                lgid_map_gc[language['ID']] = language['Glottocode']
+            else:
+                c_ = language['ID'].split('-')[0]
+                lgid_map[c_].append(language['ID'])
+                lgid_map_gc[language['ID']] = c_
 
         for language in self.languages:
 
@@ -221,8 +240,12 @@ class Dataset(BaseDataset):
             else:
                 no_glottolog_codes.append(language['ID'])
 
-            args.writer.add_language(**language)
             valid_languages.add(language['ID'])
+
+            ngc_ = lgid_map_gc[language['ID']]
+            language['ID'] = '{}-{}'.format(ngc_, lgid_map[ngc_].index(language['ID']) + 1)
+
+            args.writer.add_language(**language)
 
         args.writer.cldf['FormTable', 'Problematic'].datatype.base = 'boolean'
 
@@ -268,13 +291,16 @@ class Dataset(BaseDataset):
             "xian1251-2, xian1251-3",
             "yano1261-2, yano1262-2",
             "lada1244-2, lada1244-3",
+            "pila1245-1, toba1269-2",
+            "tson1249-2, tswa1255-1",
         ]
 
         datatable_checks = {}
+        datatable_checks_slug = {}
 
         # Gather all csv data files
 
-        for c in progressbar(language_data_paths, desc="makecldf"):
+        for c in tqdm(language_data_paths, desc="Processing data files"):
             with Path.open(c) as csvfile:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
@@ -320,10 +346,12 @@ class Dataset(BaseDataset):
                             ("[" in row["Other_Form"] or "]" in row["Other_Form"]):
                         other_form.add(c.name)
 
+                    ngc = lgid_map_gc[lang_id]
+                    nlang_id = '{}-{}'.format(ngc, lgid_map[ngc].index(lang_id) + 1)
                     args.writer.add_form(
                         Value=value,
                         Form=form,
-                        Language_ID=lang_id,
+                        Language_ID=nlang_id,
                         Parameter_ID=param_id,
                         Source="chan2019",
                         Comment=row["Comment"].strip() if row["Comment"].strip() else "",
@@ -335,6 +363,9 @@ class Dataset(BaseDataset):
                     if lang_id not in datatable_checks:
                         datatable_checks[lang_id] = []
                     datatable_checks[lang_id].append(form)
+                    if lang_id not in datatable_checks_slug:
+                        datatable_checks_slug[lang_id] = []
+                    datatable_checks_slug[lang_id].append(slug(form))
 
         # check identical data tables
         for f in datatable_checks:
@@ -352,6 +383,22 @@ class Dataset(BaseDataset):
                 if vj not in whitelist_datatable_check:
                     args.log.warn("Check identical data tables in lang_ids: {0}".format(vj))
 
+        # check identical data tables by using slug
+        for f in datatable_checks_slug:
+            datatable_checks_slug[f] = hashlib.md5(
+                "".join(datatable_checks_slug[f]).encode("utf-8")).hexdigest()
+        datatable_checks_slug_flipped = {}
+        for key, value in datatable_checks_slug.items():
+            if value not in datatable_checks_slug_flipped:
+                datatable_checks_slug_flipped[value] = [key]
+            else:
+                datatable_checks_slug_flipped[value].append(key)
+        for k, v in datatable_checks_slug_flipped.items():
+            if len(v) > 1:
+                vj = ", ".join(sorted(v))
+                if vj not in whitelist_datatable_check:
+                    args.log.warn("Check identical data tables in lang_ids (slug): {0}".format(vj))
+
         def _x(s):
             try:
                 return int(s)
@@ -361,6 +408,11 @@ class Dataset(BaseDataset):
         # apply the same sort order as for channumerals
         args.writer.objects['FormTable'] = sorted(
                 args.writer.objects['FormTable'],
+                key=lambda item: ([_x(i) for i in item['ID'].split('-')])
+            )
+        # sort LanguageTable
+        args.writer.objects['LanguageTable'] = sorted(
+                args.writer.objects['LanguageTable'],
                 key=lambda item: ([_x(i) for i in item['ID'].split('-')])
             )
 
