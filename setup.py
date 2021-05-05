@@ -27,6 +27,8 @@ setup(
         'pylexibank>=2.8.2',
         'pynumerals',
         'tqdm>=4.60.0',
+        'pyglottolog>=3.4.2',
+        'openpyxl>=3.0.5',
     ],
     extras_require={
         'test': [

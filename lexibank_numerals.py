@@ -5,6 +5,8 @@ import shutil
 import unicodedata
 import hashlib
 import collections
+import openpyxl
+import re
 from tqdm import tqdm
 
 from clldutils.path import Path, walk
@@ -13,6 +15,7 @@ from pycldf import Wordlist
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.models import Lexeme, Language
 from pylexibank.forms import FormSpec
+from pyglottolog.languoids import Glottocode
 
 from pynumerals.errorcheck import errorchecks
 from pynumerals.mappings import BASE_MAP
@@ -23,12 +26,14 @@ from pynumerals.numerals_utils import (
     check_for_problems,
     make_index_link,
     make_chan_link,
+    XLSX_LABELS,
 )
 
 CHANURL = "https://mpi-lingweb.shh.mpg.de/numeral/"
 
 # FIXME: Point to Zenodo or GitHub API?
 URL = "https://raw.githubusercontent.com/numeralbank/channumerals/master/cldf"
+XLSX_FILENAME_PATTERN = re.compile(r'^numerals\-(?P<lang_id>' + Glottocode.regex + r'\-\d+)')
 
 
 @attr.s
@@ -53,6 +58,13 @@ class CustomLexeme(Lexeme):
                 break
         if not self.Problematic and self.Other_Form and '<' in self.Other_Form:
             self.Problematic = True
+
+
+def _sort_int(s):
+    try:
+        return int(s)
+    except ValueError:
+        return s
 
 
 class Dataset(BaseDataset):
@@ -120,10 +132,10 @@ class Dataset(BaseDataset):
             # check for overwrites
             if lt["ID"] in overwrites:
                 problems += " - [has overwrite](../{0})".format(
-                        str(self.etc_dir / self.csv_dir / csv_name))
+                    str(self.etc_dir / self.csv_dir / csv_name))
 
-            pathlib.Path(self.raw_dir /
-                         self.csv_dir).mkdir(parents=True, exist_ok=True)
+            pathlib.Path(self.raw_dir / self.csv_dir).mkdir(
+                parents=True, exist_ok=True)
 
             # Write data from form table into respective CSV file:
             with open(self.raw_dir / self.csv_dir / csv_name, "w") as outfile:
@@ -141,6 +153,88 @@ class Dataset(BaseDataset):
                 outfile.write(index_link + chan_link +
                               language_name + problems + "\n")
 
+        # read edited xlsx files
+        etc_languages = {}
+        with open(self.etc_dir / 'languages.csv') as cf:
+            for row in csv.DictReader(cf):
+                etc_languages[row['ID']] = row
+        form_header = [c.name for c in channumerals["FormTable"].tableSchema.columns]
+        lang_header = [c.name for c in channumerals["LanguageTable"].tableSchema.columns]
+        edited_path = self.raw_dir / 'xlsx'
+        data_sheet_name = 'Data'
+        metadata_sheet_name = 'Metadata'
+
+        for xlsx_file in edited_path.glob('numerals-*.xlsx'):
+            p = edited_path.xlsx2csv(xlsx_file)
+            pdata = p[data_sheet_name]
+            try:
+                lang_id = XLSX_FILENAME_PATTERN.search(p[data_sheet_name].stem).group('lang_id')
+            except AttributeError:
+                args.log.error('Check XLSX file name {}'.format(xlsx_file))
+                raise
+            new_data_path = self.etc_dir / self.csv_dir / '{}.csv'.format(lang_id)
+            new_data = []
+            pcnts = collections.defaultdict(int)
+            var_id = new_data_path.stem.split('-')[-1]
+            with open(pdata) as cf:
+                reader = csv.DictReader(cf)
+                for row in reader:
+                    param = row[XLSX_LABELS['param']].strip()
+                    pcnts[param] += 1
+                    id_ = '{}-{}-{}'.format(new_data_path.stem, param, pcnts[param])
+                    f = CustomLexeme(
+                        id_,
+                        Language_ID=new_data_path.stem,
+                        Parameter_ID=param,
+                        Value=row[XLSX_LABELS['form']].strip(),
+                        Form=row[XLSX_LABELS['form']].strip(),
+                        Source=['chan2019'],
+                        Comment=row[XLSX_LABELS['form_comment']].strip()
+                        if row[XLSX_LABELS['form_comment']].strip() else '',
+                        Other_Form=row[XLSX_LABELS['other_form']].strip()
+                        if row[XLSX_LABELS['other_form']].strip() else '',
+                        Loan=bool(row[XLSX_LABELS['loan']].strip() == '1'),
+                        Variant_ID=var_id,
+                    )
+                    new_data.append({h: getattr(f, h) for h in form_header})
+
+            # write data to etc/csv
+            with open(new_data_path, 'w') as of:
+                fp = csv.DictWriter(of, new_data[0].keys())
+                fp.writeheader()
+                fp.writerows(
+                    sorted(new_data, key=lambda item: ([_sort_int(i) for i in item['ID'].split('-')])))
+            pdata.unlink()
+
+            # gather xlsx metadata for etc/languages.csv
+            with open(p[metadata_sheet_name]) as cf:
+                reader = csv.reader(cf)
+                row = {}
+                for r in reader:
+                    row[r[0].strip()] = r[1].strip()
+                if row['GLOTTOCODE:'] != new_data_path.stem.split('-')[0]:
+                    args.log.error('{} - mismatch file name and glottocode'.format(xlsx_file))
+                lg = CustomLanguage(
+                    new_data_path.stem,
+                    Name=row[XLSX_LABELS['name']],
+                    Glottocode=row[XLSX_LABELS['glottocode']],
+                    ISO639P3code=row[XLSX_LABELS['isocode']],
+                    SourceFile=row[XLSX_LABELS['sourcefile']],
+                    Contributor=row[XLSX_LABELS['author']],
+                    Base=row[XLSX_LABELS['base']],
+                    Comment=row[XLSX_LABELS['lg_comment']],
+                )
+                etc_languages[new_data_path.stem] = {h: getattr(lg, h) for h in lang_header}
+
+            p[metadata_sheet_name].unlink()
+
+        new_etc_languages = sorted(etc_languages.values(),
+                                   key=lambda item: ([_sort_int(i) for i in item['ID'].split('-')]))
+        with open(self.etc_dir / 'languages.csv', 'w') as of:
+            fp = csv.DictWriter(of, new_etc_languages[0].keys())
+            fp.writeheader()
+            fp.writerows(new_etc_languages)
+
     def cmd_makecldf(self, args):
 
         args.writer.add_sources()
@@ -156,35 +250,47 @@ class Dataset(BaseDataset):
         for concept in args.writer.objects['ParameterTable']:
             valid_parameters.add(concept["Name"])
 
-        ignored_lang_ids = ["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
-                            "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
-                            "twen1241-2", "brek1238-2", "nang1262-3", "nang1262-4",
-                            "guan1266-5", "guan1266-6", "guan1266-7", "orin1239-3",
-                            "tase1235-1", "tase1235-2", "whit1267-5", "whit1267-4",
-                            "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
-                            "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4",
-                            "alab1254-2", "yulu1243-1", "yulu1243-2", "caqu1242-2",
-                            "inap1243-1", "bayo1255-3", "chuw1238-2", "dalo1238-1",
-                            "koma1266-3", "nafa1258-1", "tswa1255-2", "tuni1251-1",
-                            "sout2711-1", "zigu1244-1", "kata1264-1", "kata1264-2",
-                            "lave1248-2", "adon1237-1", "aust1304-2", "boto1242-4",
-                            "inon1237-1", "kuan1248-1", "watu1247-1", "ngaj1237-1",
-                            "sout2866-2", "paaf1237-2", "ping1243-2", "farw1235-1",
-                            "ravu1237-2", "chha1249-1", "gade1236-2", "paha1251-1",
-                            "rohi1238-1", "waig1243-1", "tsak1250-2", "nang1259-2",
-                            "bert1249-1", "cogu1240-3", "gamo1244-3", "gamo1244-2",
-                            "hrus1242-3", "hupd1244-3", "kair1267-2", "kend1253-1",
-                            "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
-                            "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
-                            "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
-                            "mans1258-3", "mono1275-1", "pume1238-2", "ncan1245-1",
-                            "anam1249-2", "baka1277-2", "chak1270-1", "dghw1239-1",
-                            "gofa1235-1", "onge1236-2", "xhos1239-2", "xxxx0001-1"]
+        edited_lang_ids = set()  # coming from xlsx files
+        for xlsx_file in (self.raw_dir / 'xlsx').glob('numerals-*.xlsx'):
+            try:
+                edited_lang_ids.add(XLSX_FILENAME_PATTERN.search(xlsx_file.stem).group('lang_id'))
+            except AttributeError:
+                args.log.error('Check XLSX file name {}'.format(xlsx_file))
+                raise
+
+        ignored_lang_ids = set(["gela1261-3", "hmon1338-1", "scot1243-2", "faro1244-2",
+                                "mace1250-2", "nort2627-2", "serb1264-2", "huaa1248-1",
+                                "twen1241-2", "brek1238-2", "nang1262-3", "nang1262-4",
+                                "guan1266-5", "guan1266-6", "guan1266-7", "orin1239-3",
+                                "tase1235-1", "tase1235-2", "whit1267-5", "whit1267-4",
+                                "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
+                                "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4",
+                                "alab1254-2", "yulu1243-1", "yulu1243-2", "caqu1242-2",
+                                "inap1243-1", "bayo1255-3", "chuw1238-2", "dalo1238-1",
+                                "koma1266-3", "nafa1258-1", "tswa1255-2", "tuni1251-1",
+                                "sout2711-1", "zigu1244-1", "kata1264-1", "kata1264-2",
+                                "lave1248-2", "adon1237-1", "aust1304-2", "boto1242-4",
+                                "inon1237-1", "kuan1248-1", "watu1247-1", "ngaj1237-1",
+                                "sout2866-2", "paaf1237-2", "ping1243-2", "farw1235-1",
+                                "ravu1237-2", "chha1249-1", "gade1236-2", "paha1251-1",
+                                "rohi1238-1", "waig1243-1", "tsak1250-2", "nang1259-2",
+                                "bert1249-1", "cogu1240-3", "gamo1244-3", "gamo1244-2",
+                                "hrus1242-3", "hupd1244-3", "kair1267-2", "kend1253-1",
+                                "komo1258-3", "samo1303-3", "sout3221-1", "tene1248-1",
+                                "yora1241-2", "dong1286-2", "rawa1265-6", "tsha1245-1",
+                                "jiam1236-12", "jiam1236-15", "araw1273-2", "avac1239-2",
+                                "mans1258-3", "mono1275-1", "pume1238-2", "ncan1245-1",
+                                "anam1249-2", "baka1277-2", "chak1270-1", "dghw1239-1",
+                                "gofa1235-1", "onge1236-2", "xhos1239-2", "xxxx0001-1",
+                                "ncan1245-3", "ncan1245-4"])
+
+        # do not ignore IDs for xlsx data
+        ignored_lang_ids = ignored_lang_ids - edited_lang_ids
 
         language_data_paths = []
         overwrites_cnt = 0
 
-        # for lang_id follows glottocode and renumbering *-1, *-2, ...
+        # lang_id follows glottocode and renumbering *-1, *-2, ...
         lgid_map = collections.defaultdict(list)
         lgid_map_gc = {}
         for language in self.languages:
@@ -299,7 +405,6 @@ class Dataset(BaseDataset):
         datatable_checks_slug = {}
 
         # Gather all csv data files
-
         for c in tqdm(language_data_paths, desc="Processing data files"):
             with Path.open(c) as csvfile:
                 reader = csv.DictReader(csvfile)
@@ -318,8 +423,7 @@ class Dataset(BaseDataset):
                     param_id = row["Parameter_ID"].strip()
                     if param_id not in valid_parameters:
                         unknown_params.append(
-                                'Parameter_ID {0} for {1} unknown'.format(
-                                        param_id, lang_id))
+                            'Parameter_ID {0} for {1} unknown'.format(param_id, lang_id))
                         continue
 
                     form = unicodedata.normalize('NFC', row["Form"].strip())
@@ -338,7 +442,7 @@ class Dataset(BaseDataset):
 
                     value = unicodedata.normalize('NFC', row["Value"].strip())
 
-                    if len(form) > len(value)+1 or\
+                    if len(form) > len(value) + 1 or\
                             "[" in form or "]" in form:
                         form_length.add(c.name)
 
@@ -399,22 +503,16 @@ class Dataset(BaseDataset):
                 if vj not in whitelist_datatable_check:
                     args.log.warn("Check identical data tables in lang_ids (slug): {0}".format(vj))
 
-        def _x(s):
-            try:
-                return int(s)
-            except ValueError:
-                return s
-
         # apply the same sort order as for channumerals
         args.writer.objects['FormTable'] = sorted(
-                args.writer.objects['FormTable'],
-                key=lambda item: ([_x(i) for i in item['ID'].split('-')])
-            )
+            args.writer.objects['FormTable'],
+            key=lambda item: ([_sort_int(i) for i in item['ID'].split('-')])
+        )
         # sort LanguageTable
         args.writer.objects['LanguageTable'] = sorted(
-                args.writer.objects['LanguageTable'],
-                key=lambda item: ([_x(i) for i in item['ID'].split('-')])
-            )
+            args.writer.objects['LanguageTable'],
+            key=lambda item: ([_sort_int(i) for i in item['ID'].split('-')])
+        )
 
         args.log.info('{0} overwritten languages'.format(overwrites_cnt))
 
