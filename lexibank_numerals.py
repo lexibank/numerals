@@ -161,8 +161,8 @@ class Dataset(BaseDataset):
         form_header = [c.name for c in channumerals["FormTable"].tableSchema.columns]
         lang_header = [c.name for c in channumerals["LanguageTable"].tableSchema.columns]
         edited_path = self.raw_dir / 'xlsx'
-        data_sheet_name = 'Data'
-        metadata_sheet_name = 'Metadata'
+        data_sheet_name = XLSX_LABELS['data']
+        metadata_sheet_name = XLSX_LABELS['metadata']
 
         for xlsx_file in edited_path.glob('numerals-*.xlsx'):
             p = edited_path.xlsx2csv(xlsx_file)
