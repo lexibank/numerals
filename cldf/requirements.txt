@@ -19,12 +19,12 @@ iniconfig==1.1.1
 isodate==0.6.0
 jdcal==1.4.1
 Jinja2==2.11.3
-lingpy==2.6.6
+lingpy==2.6.7
 lxml==4.6.3
 Markdown==3.3.4
 MarkupSafe==1.1.1
 nameparser==1.0.6
-networkx==2.2
+networkx==2.5.1
 newick==1.0.0
 numpy==1.19.4
 openpyxl==3.0.5
@@ -38,7 +38,7 @@ pyconcepticon==2.7.0
 pycountry==20.7.3
 pyglottolog==3.4.2
 pylexibank==2.8.2
-pynumerals==1.0
+-e git+https://github.com/numeralbank/pynumerals.git@7c827ba7e7892b2779573cd3047ab44da027243d#egg=pynumerals
 pytest==6.2.3
 regex==2021.3.17
 requests==2.25.1
