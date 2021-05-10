@@ -113,7 +113,7 @@
 * [csv/alaw1244-1.csv](csv/alaw1244-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Alawa.htm)) (Alawa, Australia)
 * [csv/alek1238-1.csv](csv/alek1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Alekano.htm)) (Alekano, Papua New Guinea)
 * [csv/aleu1260-1.csv](csv/aleu1260-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Aleut.htm)) (Aleut, Russia, USA)
-* [csv/aleu1260-2.csv](csv/aleu1260-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Aleut.htm)) (Aleut, USA, Russia)
+* [csv/aleu1260-2.csv](csv/aleu1260-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Aleut.htm)) (Aleut, USA, Russia) - [has overwrite](../etc/csv/aleu1260-2.csv)
 * [csv/algo1255-1.csv](csv/algo1255-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Algonquin.htm)) (Algonquin, Canada)
 * [csv/alor1247-1.csv](csv/alor1247-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Alorese.htm)) (Alor, Indonesia)
 * [csv/aluk1238-1.csv](csv/aluk1238-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Kurumba-Alu.htm)) (Alu Kurumba, India)

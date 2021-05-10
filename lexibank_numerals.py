@@ -180,14 +180,17 @@ class Dataset(BaseDataset):
                 reader = csv.DictReader(cf)
                 for row in reader:
                     param = row[XLSX_LABELS['param']].strip()
+                    form = row[XLSX_LABELS['form']].strip()
+                    if not form or form in self.form_spec.missing_data:
+                        continue
                     pcnts[param] += 1
                     id_ = '{}-{}-{}'.format(new_data_path.stem, param, pcnts[param])
                     f = CustomLexeme(
                         id_,
                         Language_ID=new_data_path.stem,
                         Parameter_ID=param,
-                        Value=row[XLSX_LABELS['form']].strip(),
-                        Form=row[XLSX_LABELS['form']].strip(),
+                        Value=form,
+                        Form=form,
                         Source=['chan2019'],
                         Comment=row[XLSX_LABELS['form_comment']].strip()
                         if row[XLSX_LABELS['form_comment']].strip() else '',
