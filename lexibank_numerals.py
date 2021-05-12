@@ -192,7 +192,7 @@ class Dataset(BaseDataset):
                         Value=form,
                         Form=form,
                         Source=['chan2019'],
-                        Comment=row[XLSX_LABELS['form_comment']].strip()
+                        Comment=re.sub(r'[\n\r]', ' ', row[XLSX_LABELS['form_comment']]).strip()
                         if row[XLSX_LABELS['form_comment']].strip() else '',
                         Other_Form=row[XLSX_LABELS['other_form']].strip()
                         if row[XLSX_LABELS['other_form']].strip() else '',
@@ -219,13 +219,13 @@ class Dataset(BaseDataset):
                     args.log.error('{} - mismatch file name and glottocode'.format(xlsx_file))
                 lg = CustomLanguage(
                     new_data_path.stem,
-                    Name=row[XLSX_LABELS['name']],
-                    Glottocode=row[XLSX_LABELS['glottocode']],
-                    ISO639P3code=row[XLSX_LABELS['isocode']],
-                    SourceFile=row[XLSX_LABELS['sourcefile']],
-                    Contributor=row[XLSX_LABELS['author']],
-                    Base=row[XLSX_LABELS['base']],
-                    Comment=row[XLSX_LABELS['lg_comment']],
+                    Name=row[XLSX_LABELS['name']].strip(),
+                    Glottocode=row[XLSX_LABELS['glottocode']].strip(),
+                    ISO639P3code=row[XLSX_LABELS['isocode']].strip(),
+                    SourceFile=row[XLSX_LABELS['sourcefile']].strip(),
+                    Contributor=row[XLSX_LABELS['author']].strip(),
+                    Base=row[XLSX_LABELS['base']].strip(),
+                    Comment=re.sub(r'[\n\r]', ' ', row[XLSX_LABELS['lg_comment']]).strip(),
                 )
                 etc_languages[new_data_path.stem] = {h: getattr(lg, h) for h in lang_header}
 
