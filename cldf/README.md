@@ -14,7 +14,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://numerals.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/numeralbank/numerals
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numerals/tree/7091a9e0">numeralbank/numerals 7091a9e0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/ec173ae">CLTS v2.1.0-1-gec173ae</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/numeralbank/numerals/tree/82e21d55">numeralbank/numerals 82e21d55</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.3">Glottolog v4.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.4.0">Concepticon v2.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/ec173ae">CLTS v2.1.0-1-gec173ae</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | numerals
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -25,7 +25,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 184369
+[dc:extent](http://purl.org/dc/terms/extent) | 184329
 
 
 ### Columns
@@ -54,7 +54,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 5247
+[dc:extent](http://purl.org/dc/terms/extent) | 5246
 
 
 ### Columns
