@@ -29,7 +29,7 @@ released as [channumerals v1.0](https://github.com/numeralbank/channumerals/rele
 
 - **Varieties:** 5,246
 - **Concepts:** 133
-- **Lexemes:** 184,329
+- **Lexemes:** 184,335
 - **Sources:** 1
 - **Synonymy:** 1.09
 
@@ -38,7 +38,6 @@ released as [channumerals v1.0](https://github.com/numeralbank/channumerals/rele
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
   - Chamari, India [cham1329](http://glottolog.org/resource/languoid/id/cham1329)
   - Malinguat, Papua New Guinea [mali1288](http://glottolog.org/resource/languoid/id/mali1288)
-  - Mengisa, Cameroon [meng1263](http://glottolog.org/resource/languoid/id/meng1263)
   - Punan Merap, Indonesia [puna1274](http://glottolog.org/resource/languoid/id/puna1274)
   - Xinca, Guatemala [xinc1247](http://glottolog.org/resource/languoid/id/xinc1247)
 

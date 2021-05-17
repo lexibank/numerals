@@ -304,7 +304,7 @@
 * [csv/ayer1245-2.csv](csv/ayer1245-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ayu.htm)) (Ayu, Nigeria)
 * [csv/ayiw1239-1.csv](csv/ayiw1239-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Aiwo.htm)) (Aiwo, Solomon Islands)
 * [csv/ayiw1239-2.csv](csv/ayiw1239-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Aiwoo.htm)) (Äiwoo, Solomon Islands)
-* [csv/ayiw1239-3.csv](csv/ayiw1239-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Aiwoo.htm)) (Äiwoo, Solomon Islands)
+* [csv/ayiw1239-3.csv](csv/ayiw1239-3.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Aiwoo.htm)) (Äiwoo, Solomon Islands) - [has overwrite](../etc/csv/ayiw1239-3.csv)
 * [csv/ayor1240-1.csv](csv/ayor1240-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ayoreo.htm)) (Ayoreo, Paraguay, Bolivia) **(Problems)** - [has overwrite](../etc/csv/ayor1240-1.csv)
 * [csv/ayor1240-2.csv](csv/ayor1240-2.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Ayoreo.htm)) (Ayoreo, Paraguay, Bolivia)
 * [csv/azha1235-1.csv](csv/azha1235-1.csv) ([Source](https://mpi-lingweb.shh.mpg.de/numeral/Yi-Azha.htm)) (Azha, China) **(Problems)** - [has overwrite](../etc/csv/azha1235-1.csv)

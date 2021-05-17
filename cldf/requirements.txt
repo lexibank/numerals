@@ -36,7 +36,7 @@ pycldf==1.19.0
 pyclts==3.1.1
 pyconcepticon==2.7.0
 pycountry==20.7.3
-pyglottolog==3.4.2
+pyglottolog==3.6.0
 pylexibank==3.1.0
 -e git+https://github.com/numeralbank/pynumerals.git@7c827ba7e7892b2779573cd3047ab44da027243d#egg=pynumerals
 pytest==6.2.3
