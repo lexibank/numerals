@@ -1,8 +1,14 @@
 # CLDF dataset derived from curated Chan's "Numeral Systems of the World's Languages." from 2019
 
-Cite the source dataset as
+## How to cite
 
-> Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30
+If you use these data please cite
+- the original source
+  > Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30
+- the derived dataset using the DOI of the [particular released version](releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
@@ -27,9 +33,9 @@ released as [channumerals v1.0](https://github.com/numeralbank/channumerals/rele
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5,246
+- **Varieties:** 5,250
 - **Concepts:** 133
-- **Lexemes:** 184,335
+- **Lexemes:** 184,506
 - **Sources:** 1
 - **Synonymy:** 1.09
 
@@ -55,3 +61,10 @@ Kristina Pianykh | @Kristina-Pianykh | helped with data cleaning | Other
 Marie Charlotte Gertich | @mcgertich | helped with data cleaning | Other
 Simon J. Greenhill | @SimonGreenhill | helped with with code and data collection | Other
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

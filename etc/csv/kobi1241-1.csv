@@ -1,16 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-kobi1241-1-1-1,,kobi1241-1,1,-tee,-tee,[],(na),['chan2019'],,False,False,,1
-kobi1241-1-2-1,,kobi1241-1,2,-naŋ,-naŋ,[],,['chan2019'],,False,False,,1
-kobi1241-1-3-1,,kobi1241-1,3,-teeh,-teeh,[],,['chan2019'],,False,False,,1
-kobi1241-1-4-1,,kobi1241-1,4,-sannaŋ,-sannaŋ,[],,['chan2019'],,False,False,,1
-kobi1241-1-5-1,,kobi1241-1,5,jurooɡ,jurooɡ,[],,['chan2019'],,False,False,,1
-kobi1241-1-6-1,,kobi1241-1,6,jurooɡ -tee(na),jurooɡ -tee(na),[],( 5 + 1 ),['chan2019'],,False,False,,1
-kobi1241-1-8-1,,kobi1241-1,8,sannaŋ sannaŋ,sannaŋ sannaŋ,[],( 4 + 4 ),['chan2019'],,False,False,,1
-kobi1241-1-10-1,,kobi1241-1,10,ntaajã,ntaajã,[],,['chan2019'],,False,False,,1
-kobi1241-1-30-1,,kobi1241-1,30,ntaajaŋ ɡutee,ntaajaŋ ɡutee,[],( 10 x 3 ),['chan2019'],,False,False,,1
-kobi1241-1-40-1,,kobi1241-1,40,ntaaja sannaŋ,ntaaja sannaŋ,[],,['chan2019'],,False,False,,1
-kobi1241-1-50-1,,kobi1241-1,50,ntaaja jurooɡ,ntaaja jurooɡ,[],,['chan2019'],,False,False,,1
-kobi1241-1-100-1,,kobi1241-1,100,usɛnt,usɛnt,[],,['chan2019'],,False,False,,1
-kobi1241-1-200-1,,kobi1241-1,200,ɡusɛnt ɡunaa,ɡusɛnt ɡunaa,[],,['chan2019'],,False,False,,1
-kobi1241-1-1000-1,,kobi1241-1,1000,uŋkontu,uŋkontu,[],,['chan2019'],,False,False,,1
-kobi1241-1-2000-1,,kobi1241-1,2000,uŋkoŋ ɡutee,uŋkoŋ ɡutee,[],,['chan2019'],,False,False,,1
+kobi1241-1-1-1,,kobi1241-1,1,teena,teena,[],,['chan2019'],,False,False,,1
+kobi1241-1-2-1,,kobi1241-1,2,kuna,kuna,[],,['chan2019'],,False,False,,1
+kobi1241-1-2-2,,kobi1241-1,2,ɡena,ɡena,[],,['chan2019'],,False,False,,1
+kobi1241-1-3-1,,kobi1241-1,3,kuheh,kuheh,[],,['chan2019'],,False,False,,1
+kobi1241-1-3-2,,kobi1241-1,3,ɡaheh,ɡaheh,[],,['chan2019'],,False,False,,1
+kobi1241-1-4-1,,kobi1241-1,4,sana,sana,[],,['chan2019'],,False,False,,1
+kobi1241-1-5-1,,kobi1241-1,5,ɟirooɣ,ɟirooɣ,[],,['chan2019'],,False,False,,1
+kobi1241-1-5-2,,kobi1241-1,5,ɟurooɣ,ɟurooɣ,[],,['chan2019'],,False,False,,1
+kobi1241-1-6-1,,kobi1241-1,6,ɟirooɣ nɡo he,ɟirooɣ nɡo he,[],(5+1),['chan2019'],,False,False,,1
+kobi1241-1-6-2,,kobi1241-1,6,ɟurooɣ nɡo he,ɟurooɣ nɡo he,[],(5+1),['chan2019'],,False,False,,1
+kobi1241-1-7-1,,kobi1241-1,7,ɟirooɣ nɡo he nɡo koɲ,ɟirooɣ nɡo he nɡo koɲ,[],"(5+1+x), x='thing'",['chan2019'],,False,False,,1
+kobi1241-1-7-2,,kobi1241-1,7,ɟurooɣ nɡo he nɡo koɲ,ɟurooɣ nɡo he nɡo koɲ,[],"(5+1+x), x='thing'",['chan2019'],,False,False,,1
+kobi1241-1-8-1,,kobi1241-1,8,aɡ sana aɡ sana,aɡ sana aɡ sana,[],(4+4),['chan2019'],,False,False,,1
+kobi1241-1-9-1,,kobi1241-1,9,aɡ sana aɡ sana nɡo koɲ,aɡ sana aɡ sana nɡo koɲ,[],"(4+4+x ), x='thing'",['chan2019'],,False,False,,1
+kobi1241-1-10-1,,kobi1241-1,10,untaaza,untaaza,[],,['chan2019'],,False,False,,1
+kobi1241-1-11-1,,kobi1241-1,11,untaaza nɡo koɲ,untaaza nɡo koɲ,[],,['chan2019'],,False,False,,1
+kobi1241-1-12-1,,kobi1241-1,12,untaaza nɡo kuna,untaaza nɡo kuna,[],,['chan2019'],,False,False,,1
+kobi1241-1-13-1,,kobi1241-1,13,untaaza nɡo kuheh,untaaza nɡo kuheh,[],,['chan2019'],,False,False,,1
+kobi1241-1-14-1,,kobi1241-1,14,untaaza nɡo sana,untaaza nɡo sana,[],,['chan2019'],,False,False,,1
+kobi1241-1-15-1,,kobi1241-1,15,untaaza nɡo ɟirooɣ,untaaza nɡo ɟirooɣ,[],,['chan2019'],,False,False,,1
+kobi1241-1-16-1,,kobi1241-1,16,untaaza nɡo ɟirooɣ nɡo he,untaaza nɡo ɟirooɣ nɡo he,[],,['chan2019'],,False,False,,1
+kobi1241-1-17-1,,kobi1241-1,17,untaaza nɡo ɟirooɣ nɡo he nɡo koɲ,untaaza nɡo ɟirooɣ nɡo he nɡo koɲ,[],,['chan2019'],,False,False,,1
+kobi1241-1-18-1,,kobi1241-1,18,untaaza nɡo aɡ sana aɡ sana,untaaza nɡo aɡ sana aɡ sana,[],,['chan2019'],,False,False,,1
+kobi1241-1-19-1,,kobi1241-1,19,untaaza no aɡ sana aɡ sana nɡo koɲ,untaaza no aɡ sana aɡ sana nɡo koɲ,[],,['chan2019'],,False,False,,1
+kobi1241-1-20-1,,kobi1241-1,20,ŋuntaaza ŋuna,ŋuntaaza ŋuna,[],(10 x 2),['chan2019'],,False,False,,1
+kobi1241-1-21-1,,kobi1241-1,21,ŋuntaaza ŋuna nɡo koɲ,ŋuntaaza ŋuna nɡo koɲ,[],,['chan2019'],,False,False,,1
+kobi1241-1-22-1,,kobi1241-1,22,ŋuntaaza ŋuna nɡo kuna,ŋuntaaza ŋuna nɡo kuna,[],,['chan2019'],,False,False,,1
+kobi1241-1-23-1,,kobi1241-1,23,ŋuntaaza ŋuna nɡo kuheh,ŋuntaaza ŋuna nɡo kuheh,[],,['chan2019'],,False,False,,1
+kobi1241-1-24-1,,kobi1241-1,24,ŋuntaaza ŋuna nɡo sana,ŋuntaaza ŋuna nɡo sana,[],,['chan2019'],,False,False,,1
+kobi1241-1-25-1,,kobi1241-1,25,ŋuntaaza ŋuna nɡo ɟirooɣ,ŋuntaaza ŋuna nɡo ɟirooɣ,[],,['chan2019'],,False,False,,1
+kobi1241-1-26-1,,kobi1241-1,26,ŋuntaaza ŋuna nɡo ɟirooɣ nɡo he,ŋuntaaza ŋuna nɡo ɟirooɣ nɡo he,[],,['chan2019'],,False,False,,1
+kobi1241-1-27-1,,kobi1241-1,27,ŋuntaaza ŋuna nɡo ɟirooɣ nɡo he nɡo koɲ,ŋuntaaza ŋuna nɡo ɟirooɣ nɡo he nɡo koɲ,[],,['chan2019'],,False,False,,1
+kobi1241-1-27-2,,kobi1241-1,27,ŋuntaaza ŋuna nɡo kuheena,ŋuntaaza ŋuna nɡo kuheena,[],,['chan2019'],,False,False,,1
+kobi1241-1-28-1,,kobi1241-1,28,ŋuntaaza ŋuna nɡo aɡ sana aɡ sana,ŋuntaaza ŋuna nɡo aɡ sana aɡ sana,[],,['chan2019'],,False,False,,1
+kobi1241-1-29-1,,kobi1241-1,29,ŋuntaaza ŋuna nɡo aɡ sana aɡ sana nɡo koɲ,ŋuntaaza ŋuna nɡo aɡ sana aɡ sana nɡo koɲ,[],,['chan2019'],,False,False,,1
+kobi1241-1-30-1,,kobi1241-1,30,ŋuntaaza ŋuteh,ŋuntaaza ŋuteh,[],(10 x 3),['chan2019'],,False,False,,1
+kobi1241-1-40-1,,kobi1241-1,40,ŋuntaaza sana,ŋuntaaza sana,[],(10 x 4),['chan2019'],,False,False,,1
+kobi1241-1-50-1,,kobi1241-1,50,ŋuntaaza ɟirooɣ,ŋuntaaza ɟirooɣ,[],(10 x 5),['chan2019'],,False,False,,1
+kobi1241-1-60-1,,kobi1241-1,60,ŋuntaaza ɟirooɣ nɡo he,ŋuntaaza ɟirooɣ nɡo he,[],(10 x 6),['chan2019'],,False,False,,1
+kobi1241-1-70-1,,kobi1241-1,70,ŋuntaaza ɟirooɣ nɡo he nɡo koɲ,ŋuntaaza ɟirooɣ nɡo he nɡo koɲ,[],(10 x 7),['chan2019'],,False,False,,1
+kobi1241-1-80-1,,kobi1241-1,80,ŋuntaaza aɡ sana aɡ sana,ŋuntaaza aɡ sana aɡ sana,[],(10 x 8),['chan2019'],,False,False,,1
+kobi1241-1-90-1,,kobi1241-1,90,ŋuntaaza aɡ sana aɡ sana nɡo koɲ,ŋuntaaza aɡ sana aɡ sana nɡo koɲ,[],(10 x 9),['chan2019'],,False,False,,1
+kobi1241-1-100-1,,kobi1241-1,100,usɛ̰t,usɛ̰t,[],,['chan2019'],,False,False,,1
+kobi1241-1-200-1,,kobi1241-1,200,ŋusɛ̰t ŋuna,ŋusɛ̰t ŋuna,[],(100 x 2),['chan2019'],,False,False,,1
+kobi1241-1-1000-1,,kobi1241-1,1000,umil,umil,[],French 'mil',['chan2019'],,True,False,,1
+kobi1241-1-2000-1,,kobi1241-1,2000,ŋumil ŋuna,ŋumil ŋuna,[],,['chan2019'],,False,False,,1

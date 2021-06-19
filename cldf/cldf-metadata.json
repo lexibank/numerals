@@ -15,34 +15,34 @@
     "dcat:accessURL": "https://github.com/numeralbank/numerals",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/numeralbank/numerals",
-            "dc:created": "34020214"
+            "rdf:type": "prov:Entity",
+            "dc:created": "7d8c9e47",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.4"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.4",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.4.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0-1-gec173ae"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.1.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.9.5"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 184335,
+            "dc:extent": 184506,
             "tableSchema": {
                 "columns": [
                     {
@@ -172,7 +172,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5246,
+            "dc:extent": 5250,
             "tableSchema": {
                 "columns": [
                     {
@@ -208,8 +208,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -218,8 +218,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
