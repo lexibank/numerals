@@ -1,20 +1,47 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 bipi1237-1-1-1,,bipi1237-1,1,sih,sih,[],,['chan2019'],,False,False,,1
-bipi1237-1-2-1,,bipi1237-1,2,rchuoh,rchuoh,[],,['chan2019'],,False,False,,1
+bipi1237-1-2-1,,bipi1237-1,2,xuoh,xuoh,[],,['chan2019'],,False,False,,1
 bipi1237-1-3-1,,bipi1237-1,3,taloh,taloh,[],,['chan2019'],,False,False,,1
 bipi1237-1-4-1,,bipi1237-1,4,hah,hah,[],,['chan2019'],,False,False,,1
 bipi1237-1-5-1,,bipi1237-1,5,limeh,limeh,[],,['chan2019'],,False,False,,1
 bipi1237-1-6-1,,bipi1237-1,6,wonoh,wonoh,[],,['chan2019'],,False,False,,1
 bipi1237-1-7-1,,bipi1237-1,7,andritaloh,andritaloh,[],( 10 - 3 ),['chan2019'],,False,False,,1
-bipi1237-1-8-1,,bipi1237-1,8,androrchuoh,androrchuoh,[],( 10 - 2 ),['chan2019'],,False,False,,1
+bipi1237-1-8-1,,bipi1237-1,8,adrorxuoh,adrorxuoh,[],( 10 - 2 ),['chan2019'],,False,False,,1
 bipi1237-1-9-1,,bipi1237-1,9,androsih,androsih,[],( 10 - 1 ),['chan2019'],,False,False,,1
 bipi1237-1-10-1,,bipi1237-1,10,saŋon,saŋon,[],,['chan2019'],,False,False,,1
 bipi1237-1-11-1,,bipi1237-1,11,saŋon e sih,saŋon e sih,[],,['chan2019'],,False,False,,1
+bipi1237-1-12-1,,bipi1237-1,12,saŋon e xuoh,saŋon e xuoh,[],,['chan2019'],,False,False,,1
+bipi1237-1-13-1,,bipi1237-1,13,saŋon e taloh,saŋon e taloh,[],,['chan2019'],,False,False,,1
+bipi1237-1-14-1,,bipi1237-1,14,saŋon e hah,saŋon e hah,[],,['chan2019'],,False,False,,1
 bipi1237-1-15-1,,bipi1237-1,15,saŋon e limeh,saŋon e limeh,[],,['chan2019'],,False,False,,1
-bipi1237-1-20-1,,bipi1237-1,20,rchuŋon,rchuŋon,[],,['chan2019'],,False,False,,1
+bipi1237-1-16-1,,bipi1237-1,16,saŋon e wonoh,saŋon e wonoh,[],,['chan2019'],,False,False,,1
+bipi1237-1-17-1,,bipi1237-1,17,saŋon e adritaloh,saŋon e adritaloh,[],,['chan2019'],,False,False,,1
+bipi1237-1-18-1,,bipi1237-1,18,saŋon e adrorxuoh,saŋon e adrorxuoh,[],,['chan2019'],,False,False,,1
+bipi1237-1-19-1,,bipi1237-1,19,saŋon e adrosih,saŋon e adrosih,[],,['chan2019'],,False,False,,1
+bipi1237-1-20-1,,bipi1237-1,20,xuŋon,xuŋon,[],,['chan2019'],,False,False,,1
+bipi1237-1-21-1,,bipi1237-1,21,xuŋon e sih,xuŋon e sih,[],,['chan2019'],,False,False,,1
+bipi1237-1-22-1,,bipi1237-1,22,xuŋon e xuoh,xuŋon e xuoh,[],,['chan2019'],,False,False,,1
+bipi1237-1-23-1,,bipi1237-1,23,xuŋon e taloh,xuŋon e taloh,[],,['chan2019'],,False,False,,1
+bipi1237-1-24-1,,bipi1237-1,24,xuŋon e hah,xuŋon e hah,[],,['chan2019'],,False,False,,1
+bipi1237-1-25-1,,bipi1237-1,25,xuŋon e limeh,xuŋon e limeh,[],,['chan2019'],,False,False,,1
+bipi1237-1-26-1,,bipi1237-1,26,xuŋon e wonoh,xuŋon e wonoh,[],,['chan2019'],,False,False,,1
+bipi1237-1-27-1,,bipi1237-1,27,xuŋon e adritaloh,xuŋon e adritaloh,[],,['chan2019'],,False,False,,1
+bipi1237-1-28-1,,bipi1237-1,28,xuŋon e adrorxuoh,xuŋon e adrorxuoh,[],,['chan2019'],,False,False,,1
+bipi1237-1-29-1,,bipi1237-1,29,xuŋon e adrosih,xuŋon e adrosih,[],,['chan2019'],,False,False,,1
 bipi1237-1-30-1,,bipi1237-1,30,tuluŋon,tuluŋon,[],,['chan2019'],,False,False,,1
 bipi1237-1-40-1,,bipi1237-1,40,haŋon,haŋon,[],,['chan2019'],,False,False,,1
+bipi1237-1-50-1,,bipi1237-1,50,limeŋon,limeŋon,[],,['chan2019'],,False,False,,1
+bipi1237-1-60-1,,bipi1237-1,60,wonoŋon,wonoŋon,[],,['chan2019'],,False,False,,1
+bipi1237-1-70-1,,bipi1237-1,70,adroutuluŋon,adroutuluŋon,[],,['chan2019'],,False,False,,1
+bipi1237-1-80-1,,bipi1237-1,80,adroxuŋon,adroxuŋon,[],,['chan2019'],,False,False,,1
+bipi1237-1-90-1,,bipi1237-1,90,adrosaŋon,adrosaŋon,[],,['chan2019'],,False,False,,1
 bipi1237-1-100-1,,bipi1237-1,100,saŋak,saŋak,[],,['chan2019'],,False,False,,1
-bipi1237-1-200-1,,bipi1237-1,200,rchuŋek,rchuŋek,[],,['chan2019'],,False,False,,1
-bipi1237-1-300-1,,bipi1237-1,300,tuŋek,tuŋek,[],,['chan2019'],,False,False,,1
-bipi1237-1-1000-1,,bipi1237-1,1000,sapu,sapu,[],,['chan2019'],,False,False,,1
+bipi1237-1-200-1,,bipi1237-1,200,xuŋek,xuŋek,[],,['chan2019'],,False,False,,1
+bipi1237-1-300-1,,bipi1237-1,300,tuluŋek,tuluŋek,[],,['chan2019'],,False,False,,1
+bipi1237-1-400-1,,bipi1237-1,400,haŋak,haŋak,[],,['chan2019'],,False,False,,1
+bipi1237-1-500-1,,bipi1237-1,500,limeŋak,limeŋak,[],,['chan2019'],,False,False,,1
+bipi1237-1-600-1,,bipi1237-1,600,wonoŋak,wonoŋak,[],,['chan2019'],,False,False,,1
+bipi1237-1-700-1,,bipi1237-1,700,adrotuluŋak,adrotuluŋak,[],,['chan2019'],,False,False,,1
+bipi1237-1-800-1,,bipi1237-1,800,adroxuŋek,adroxuŋek,[],,['chan2019'],,False,False,,1
+bipi1237-1-900-1,,bipi1237-1,900,adrosaŋak,adrosaŋak,[],,['chan2019'],,False,False,,1
+bipi1237-1-1000-1,,bipi1237-1,1000,sapwaw,sapwaw,[],,['chan2019'],,False,False,,1
