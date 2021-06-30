@@ -1,7 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
 tosk1239-1-1-1,,tosk1239-1,1,ɲə,ɲə,[],,['chan2019'],,False,False,një,1
 tosk1239-1-2-1,,tosk1239-1,2,dy,dy,[],,['chan2019'],,False,False,dy,1
-tosk1239-1-3-1,,tosk1239-1,3,tɾɛ,tɾɛ,[],,['chan2019'],,False,False,tre,1
+tosk1239-1-3-1,,tosk1239-1,3,tɾɛ,tɾɛ,[],(m),['chan2019'],,False,False,tre,1
+tosk1239-1-3-2,,tosk1239-1,3,tɾi,tɾi,[],(f),['chan2019'],,False,False,tri,1
 tosk1239-1-4-1,,tosk1239-1,4,ˈkatəɾ,ˈkatəɾ,[],,['chan2019'],,False,False,katër,1
 tosk1239-1-5-1,,tosk1239-1,5,ˈpɛsə,ˈpɛsə,[],,['chan2019'],,False,False,pesë,1
 tosk1239-1-5-2,,tosk1239-1,5,pɛːs,pɛːs,[],,['chan2019'],,False,False,pesë,1
@@ -25,22 +26,22 @@ tosk1239-1-17-1,,tosk1239-1,17,ˌʃtatəmbəˈðjɛːt(ə),ˌʃtatəmbəˈðjɛ�
 tosk1239-1-18-1,,tosk1239-1,18,ˌtɛtəmbəˈðjɛːt(ə),ˌtɛtəmbəˈðjɛːt(ə),[],,['chan2019'],,False,False,tetëmbëdhjetë,1
 tosk1239-1-19-1,,tosk1239-1,19,ˌnəntəmbəˈðjɛːt(ə),ˌnəntəmbəˈðjɛːt(ə),[],,['chan2019'],,False,False,nëntëmbëdhjetë,1
 tosk1239-1-20-1,,tosk1239-1,20,ɲəˈzɛt,ɲəˈzɛt,[],,['chan2019'],,False,False,njëzet,1
-tosk1239-1-21-1,,tosk1239-1,21,ɲəˌzɛteˈɲə,ɲəˌzɛteˈɲə,[],,['chan2019'],,False,False,njëzet enjë,1
-tosk1239-1-22-1,,tosk1239-1,22,ɲəˌzɛteˈdy,ɲəˌzɛteˈdy,[],,['chan2019'],,False,False,njëzet edy,1
-tosk1239-1-23-1,,tosk1239-1,23,ɲəˌzɛteˈtɾɛ,ɲəˌzɛteˈtɾɛ,[],,['chan2019'],,False,False,njëzet etre,1
-tosk1239-1-24-1,,tosk1239-1,24,ɲəˌzɛteˈkatəɾ,ɲəˌzɛteˈkatəɾ,[],,['chan2019'],,False,False,njëzet ekatër,1
-tosk1239-1-25-1,,tosk1239-1,25,ɲəˌzɛteˈpɛs(ə),ɲəˌzɛteˈpɛs(ə),[],,['chan2019'],,False,False,njëzet epesë,1
-tosk1239-1-26-1,,tosk1239-1,26,ɲəˌzɛteˈɟaːʃt(ə),ɲəˌzɛteˈɟaːʃt(ə),[],,['chan2019'],,False,False,njëzet egjashtë,1
-tosk1239-1-27-1,,tosk1239-1,27,ɲəˌzɛteˈʃtaːt(ə),ɲəˌzɛteˈʃtaːt(ə),[],,['chan2019'],,False,False,njëzet eshtatë,1
-tosk1239-1-28-1,,tosk1239-1,28,ɲəˌzɛteˈtɛːt(ə),ɲəˌzɛteˈtɛːt(ə),[],,['chan2019'],,False,False,njëzet etetë,1
-tosk1239-1-29-1,,tosk1239-1,29,ɲəˌzɛteˈnəːnt(ə),ɲəˌzɛteˈnəːnt(ə),[],,['chan2019'],,False,False,njëzet enëntë,1
+tosk1239-1-21-1,,tosk1239-1,21,ɲəˌzɛteˈɲə,ɲəˌzɛteˈɲə,[],,['chan2019'],,False,False,njëzet e një,1
+tosk1239-1-22-1,,tosk1239-1,22,ɲəˌzɛteˈdy,ɲəˌzɛteˈdy,[],,['chan2019'],,False,False,njëzet e dy,1
+tosk1239-1-23-1,,tosk1239-1,23,ɲəˌzɛteˈtɾɛ,ɲəˌzɛteˈtɾɛ,[],,['chan2019'],,False,False,njëzet e tre,1
+tosk1239-1-24-1,,tosk1239-1,24,ɲəˌzɛteˈkatəɾ,ɲəˌzɛteˈkatəɾ,[],,['chan2019'],,False,False,njëzet e katër,1
+tosk1239-1-25-1,,tosk1239-1,25,ɲəˌzɛteˈpɛs(ə),ɲəˌzɛteˈpɛs(ə),[],,['chan2019'],,False,False,njëzet e pesë,1
+tosk1239-1-26-1,,tosk1239-1,26,ɲəˌzɛteˈɟaːʃt(ə),ɲəˌzɛteˈɟaːʃt(ə),[],,['chan2019'],,False,False,njëzet e gjashtë,1
+tosk1239-1-27-1,,tosk1239-1,27,ɲəˌzɛteˈʃtaːt(ə),ɲəˌzɛteˈʃtaːt(ə),[],,['chan2019'],,False,False,njëzet e shtatë,1
+tosk1239-1-28-1,,tosk1239-1,28,ɲəˌzɛteˈtɛːt(ə),ɲəˌzɛteˈtɛːt(ə),[],,['chan2019'],,False,False,njëzet e tetë,1
+tosk1239-1-29-1,,tosk1239-1,29,ɲəˌzɛteˈnəːnt(ə),ɲəˌzɛteˈnəːnt(ə),[],,['chan2019'],,False,False,njëzet e nëntë,1
 tosk1239-1-30-1,,tosk1239-1,30,ˌtɾiˈðjeːt(ə),ˌtɾiˈðjeːt(ə),[],,['chan2019'],,False,False,tridhjetë,1
 tosk1239-1-40-1,,tosk1239-1,40,ˌdyˈzɛːt,ˌdyˈzɛːt,[],(2 x 20 ),['chan2019'],,False,False,dyzet,1
 tosk1239-1-50-1,,tosk1239-1,50,ˌpɛs(ə)ˈðjeːt(ə),ˌpɛs(ə)ˈðjeːt(ə),[],,['chan2019'],,False,False,pesëdhjetëdhjetë,1
 tosk1239-1-60-1,,tosk1239-1,60,ˌɟaʃt(ə)ˈðjeːt(ə),ˌɟaʃt(ə)ˈðjeːt(ə),[],,['chan2019'],,False,False,gjastëdhjetë,1
 tosk1239-1-70-1,,tosk1239-1,70,ˌʃtat(ə)ˈðjeːt(ə),ˌʃtat(ə)ˈðjeːt(ə),[],,['chan2019'],,False,False,shtatëdhjetë,1
 tosk1239-1-80-1,,tosk1239-1,80,ˌtɛt(ə)ˈðjeːt(ə),ˌtɛt(ə)ˈðjeːt(ə),[],,['chan2019'],,False,False,tetëdhjetë,1
-tosk1239-1-90-1,,tosk1239-1,90,ˌnənt(ə)ˈðjeːt(ə),ˌnənt(ə)ˈðjeːt(ə),[],,['chan2019'],,False,False,dhjetë,1
+tosk1239-1-90-1,,tosk1239-1,90,ˌnənt(ə)ˈðjeːt(ə),ˌnənt(ə)ˈðjeːt(ə),[],,['chan2019'],,False,False,nëntëdhjetë,1
 tosk1239-1-100-1,,tosk1239-1,100,ˌɲəˈcind,ˌɲəˈcind,[],,['chan2019'],,False,False,njëqind,1
 tosk1239-1-200-1,,tosk1239-1,200,ˌdyˈcind,ˌdyˈcind,[],,['chan2019'],,False,False,dyqind,1
 tosk1239-1-1000-1,,tosk1239-1,1000,ˌɲəˈmij(ə),ˌɲəˈmij(ə),[],,['chan2019'],,False,False,njëmijë,1
