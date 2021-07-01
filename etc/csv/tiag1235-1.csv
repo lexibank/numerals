@@ -1,0 +1,24 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+tiag1235-1-1-1,,tiag1235-1,1,mɔnmɔ́n,mɔnmɔ́n,[],,['chan2019'],,False,False,,1
+tiag1235-1-2-1,,tiag1235-1,2,yeshɪ́n,yeshɪ́n,[],,['chan2019'],,False,False,,1
+tiag1235-1-3-1,,tiag1235-1,3,yetà,yetà,[],,['chan2019'],,False,False,,1
+tiag1235-1-4-1,,tiag1235-1,4,yebí,yebí,[],,['chan2019'],,False,False,,1
+tiag1235-1-5-1,,tiag1235-1,5,yuɡ͡bo,yuɡ͡bo,[],,['chan2019'],,False,False,,1
+tiag1235-1-6-1,,tiag1235-1,6,fɔ́,fɔ́,[],,['chan2019'],,False,False,,1
+tiag1235-1-7-1,,tiag1235-1,7,fréshé,fréshé,[],,['chan2019'],,False,False,,1
+tiag1235-1-8-1,,tiag1235-1,8,pátɛ,pátɛ,[],,['chan2019'],,False,False,,1
+tiag1235-1-9-1,,tiag1235-1,9,fí,fí,[],,['chan2019'],,False,False,,1
+tiag1235-1-10-1,,tiag1235-1,10,bɔ̂,bɔ̂,[],,['chan2019'],,False,False,,1
+tiag1235-1-11-1,,tiag1235-1,11,bɔ̀ allé,bɔ̀ allé,[],,['chan2019'],,False,False,,1
+tiag1235-1-20-1,,tiag1235-1,20,ɡú,ɡú,[],,['chan2019'],,False,False,,1
+tiag1235-1-21-1,,tiag1235-1,21,ɡú allé,ɡú allé,[],,['chan2019'],,False,False,,1
+tiag1235-1-30-1,,tiag1235-1,30,ɡú bɔ̀,ɡú bɔ̀,[],(20+10),['chan2019'],,False,False,,1
+tiag1235-1-40-1,,tiag1235-1,40,jú eshɪ́n,jú eshɪ́n,[],(20 x 2),['chan2019'],,False,False,,1
+tiag1235-1-50-1,,tiag1235-1,50,jú eshɪ́n bɔ̀,jú eshɪ́n bɔ̀,[],[(20x2)+10],['chan2019'],,False,False,,1
+tiag1235-1-60-1,,tiag1235-1,60,jú età,jú età,[],(20 x 3),['chan2019'],,False,False,,1
+tiag1235-1-100-1,,tiag1235-1,100,júɡ͡bo,júɡ͡bo,[],(20 x 5),['chan2019'],,False,False,,1
+tiag1235-1-200-1,,tiag1235-1,200,ɡʋ bɔ,ɡʋ bɔ,[],,['chan2019'],,False,False,,1
+tiag1235-1-400-1,,tiag1235-1,400,dú,dú,[],,['chan2019'],,False,False,,1
+tiag1235-1-420-1,,tiag1235-1,420,dún ɡu,dún ɡu,[],,['chan2019'],,False,False,,1
+tiag1235-1-800-1,,tiag1235-1,800,dún eshɪ́n,dún eshɪ́n,[],,['chan2019'],,False,False,,1
+tiag1235-1-1000-1,,tiag1235-1,1000,dún eshɪ́n ɡʋ bɔ,dún eshɪ́n ɡʋ bɔ,[],[(400x2)+200],['chan2019'],,False,False,,1
