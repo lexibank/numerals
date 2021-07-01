@@ -1,0 +1,29 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+akol1237-2-1-1,,akol1237-2,1,ke,ke,[],,['chan2019'],,False,False,,2
+akol1237-2-2-1,,akol1237-2,2,kiep,kiep,[],,['chan2019'],,False,False,,2
+akol1237-2-3-1,,akol1237-2,3,miok,miok,[],,['chan2019'],,False,False,,2
+akol1237-2-4-1,,akol1237-2,4,paŋ,paŋ,[],,['chan2019'],,False,False,,2
+akol1237-2-5-1,,akol1237-2,5,lim,lim,[],,['chan2019'],,False,False,,2
+akol1237-2-6-1,,akol1237-2,6,kesolo,kesolo,[],( 5 + 1 ),['chan2019'],,False,False,,2
+akol1237-2-7-1,,akol1237-2,7,kiepsolo,kiepsolo,[],( 5 + 2 ),['chan2019'],,False,False,,2
+akol1237-2-8-1,,akol1237-2,8,miosolo,miosolo,[],( 5 + 3 ),['chan2019'],,False,False,,2
+akol1237-2-9-1,,akol1237-2,9,paŋsolo,paŋsolo,[],( 5 + 4 ),['chan2019'],,False,False,,2
+akol1237-2-10-1,,akol1237-2,10,lokoŋa pa ke,lokoŋa pa ke,[],,['chan2019'],,False,False,,2
+akol1237-2-11-1,,akol1237-2,11,lokoŋa kisa ke,lokoŋa kisa ke,[],,['chan2019'],,False,False,,2
+akol1237-2-12-1,,akol1237-2,12,lokoŋa kisa kiep,lokoŋa kisa kiep,[],,['chan2019'],,False,False,,2
+akol1237-2-13-1,,akol1237-2,13,lokoŋa kisa miok,lokoŋa kisa miok,[],,['chan2019'],,False,False,,2
+akol1237-2-14-1,,akol1237-2,14,lokoŋa kisa paŋ,lokoŋa kisa paŋ,[],,['chan2019'],,False,False,,2
+akol1237-2-15-1,,akol1237-2,15,lokoŋa kisa lim,lokoŋa kisa lim,[],,['chan2019'],,False,False,,2
+akol1237-2-16-1,,akol1237-2,16,lokoŋa kisa kesolo,lokoŋa kisa kesolo,[],,['chan2019'],,False,False,,2
+akol1237-2-17-1,,akol1237-2,17,lokoŋa kisa kiepsolo,lokoŋa kisa kiepsolo,[],,['chan2019'],,False,False,,2
+akol1237-2-18-1,,akol1237-2,18,lokoŋa kisa miosolo,lokoŋa kisa miosolo,[],,['chan2019'],,False,False,,2
+akol1237-2-19-1,,akol1237-2,19,lokoŋa kisa paŋsolo,lokoŋa kisa paŋsolo,[],,['chan2019'],,False,False,,2
+akol1237-2-20-1,,akol1237-2,20,lokoŋa pa kiep,lokoŋa pa kiep,[],,['chan2019'],,False,False,,2
+akol1237-2-30-1,,akol1237-2,30,lokoŋa pa miok,lokoŋa pa miok,[],,['chan2019'],,False,False,,2
+akol1237-2-40-1,,akol1237-2,40,lokoŋa pa paŋ,lokoŋa pa paŋ,[],,['chan2019'],,False,False,,2
+akol1237-2-50-1,,akol1237-2,50,lokoŋa pa lim,lokoŋa pa lim,[],,['chan2019'],,False,False,,2
+akol1237-2-60-1,,akol1237-2,60,lokoŋa pa kesolo,lokoŋa pa kesolo,[],,['chan2019'],,False,False,,2
+akol1237-2-70-1,,akol1237-2,70,lokoŋa pa kiepsolo,lokoŋa pa kiepsolo,[],,['chan2019'],,False,False,,2
+akol1237-2-80-1,,akol1237-2,80,lokoŋa pa mioksolo,lokoŋa pa mioksolo,[],,['chan2019'],,False,False,,2
+akol1237-2-90-1,,akol1237-2,90,lokoŋa pa paŋsolo,lokoŋa pa paŋsolo,[],,['chan2019'],,False,False,,2
+akol1237-2-100-1,,akol1237-2,100,wan handret,wan handret,[],< English,['chan2019'],,True,False,,2
