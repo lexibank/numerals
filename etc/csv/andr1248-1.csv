@@ -1,0 +1,47 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+andr1248-1-1-1,,andr1248-1,1,sih,sih,[],,['chan2019'],,False,False,,1
+andr1248-1-2-1,,andr1248-1,2,luoh,luoh,[],,['chan2019'],,False,False,,1
+andr1248-1-3-1,,andr1248-1,3,taloh,taloh,[],,['chan2019'],,False,False,,1
+andr1248-1-4-1,,andr1248-1,4,hahu,hahu,[],,['chan2019'],,False,False,,1
+andr1248-1-5-1,,andr1248-1,5,limeh,limeh,[],,['chan2019'],,False,False,,1
+andr1248-1-6-1,,andr1248-1,6,onoh,onoh,[],,['chan2019'],,False,False,,1
+andr1248-1-7-1,,andr1248-1,7,horaloh,horaloh,[],( 10 - 3 ),['chan2019'],,False,False,,1
+andr1248-1-8-1,,andr1248-1,8,holuoh,holuoh,[],( 10 - 2 ),['chan2019'],,False,False,,1
+andr1248-1-9-1,,andr1248-1,9,hosi,hosi,[],( 10 - 1 ),['chan2019'],,False,False,,1
+andr1248-1-10-1,,andr1248-1,10,seŋol,seŋol,[],,['chan2019'],,False,False,,1
+andr1248-1-11-1,,andr1248-1,11,seŋol me sih,seŋol me sih,[],,['chan2019'],,False,False,,1
+andr1248-1-12-1,,andr1248-1,12,seŋol me luoh,seŋol me luoh,[],,['chan2019'],,False,False,,1
+andr1248-1-13-1,,andr1248-1,13,seŋol me taloh,seŋol me taloh,[],,['chan2019'],,False,False,,1
+andr1248-1-14-1,,andr1248-1,14,seŋol me hahu,seŋol me hahu,[],,['chan2019'],,False,False,,1
+andr1248-1-15-1,,andr1248-1,15,seŋol me limeh,seŋol me limeh,[],,['chan2019'],,False,False,,1
+andr1248-1-16-1,,andr1248-1,16,seŋol me onoh,seŋol me onoh,[],,['chan2019'],,False,False,,1
+andr1248-1-17-1,,andr1248-1,17,seŋol me horaloh,seŋol me horaloh,[],,['chan2019'],,False,False,,1
+andr1248-1-18-1,,andr1248-1,18,seŋol me holuoh,seŋol me holuoh,[],,['chan2019'],,False,False,,1
+andr1248-1-19-1,,andr1248-1,19,seŋol me hosi,seŋol me hosi,[],,['chan2019'],,False,False,,1
+andr1248-1-20-1,,andr1248-1,20,luŋuh,luŋuh,[],,['chan2019'],,False,False,,1
+andr1248-1-21-1,,andr1248-1,21,luŋuh me sih,luŋuh me sih,[],,['chan2019'],,False,False,,1
+andr1248-1-22-1,,andr1248-1,22,luŋuh me luoh,luŋuh me luoh,[],,['chan2019'],,False,False,,1
+andr1248-1-23-1,,andr1248-1,23,luŋuh me taloh,luŋuh me taloh,[],,['chan2019'],,False,False,,1
+andr1248-1-24-1,,andr1248-1,24,luŋuh me hahu,luŋuh me hahu,[],,['chan2019'],,False,False,,1
+andr1248-1-25-1,,andr1248-1,25,luŋuh me limeh,luŋuh me limeh,[],,['chan2019'],,False,False,,1
+andr1248-1-26-1,,andr1248-1,26,luŋuh me onoh,luŋuh me onoh,[],,['chan2019'],,False,False,,1
+andr1248-1-27-1,,andr1248-1,27,luŋuh me horaloh,luŋuh me horaloh,[],,['chan2019'],,False,False,,1
+andr1248-1-28-1,,andr1248-1,28,luŋuh me holuoh,luŋuh me holuoh,[],,['chan2019'],,False,False,,1
+andr1248-1-29-1,,andr1248-1,29,luŋuh me hosi,luŋuh me hosi,[],,['chan2019'],,False,False,,1
+andr1248-1-30-1,,andr1248-1,30,tuluŋuh,tuluŋuh,[],,['chan2019'],,False,False,,1
+andr1248-1-40-1,,andr1248-1,40,haŋuh,haŋuh,[],,['chan2019'],,False,False,,1
+andr1248-1-50-1,,andr1248-1,50,limiŋuh,limiŋuh,[],,['chan2019'],,False,False,,1
+andr1248-1-60-1,,andr1248-1,60,onoŋuh,onoŋuh,[],,['chan2019'],,False,False,,1
+andr1248-1-70-1,,andr1248-1,70,horaluŋuh,horaluŋuh,[],( 100 - 30 ),['chan2019'],,False,False,,1
+andr1248-1-80-1,,andr1248-1,80,horuŋuh,horuŋuh,[],( 100 - 20 ),['chan2019'],,False,False,,1
+andr1248-1-90-1,,andr1248-1,90,hoseŋuh,hoseŋuh,[],( 100 - 10 ),['chan2019'],,False,False,,1
+andr1248-1-100-1,,andr1248-1,100,saŋat,saŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-200-1,,andr1248-1,200,luŋat,luŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-300-1,,andr1248-1,300,tuluŋat,tuluŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-400-1,,andr1248-1,400,haŋat,haŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-500-1,,andr1248-1,500,limiŋat,limiŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-600-1,,andr1248-1,600,onoŋat,onoŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-700-1,,andr1248-1,700,horaluluŋat,horaluluŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-800-1,,andr1248-1,800,holuluŋat,holuluŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-900-1,,andr1248-1,900,hosaŋat,hosaŋat,[],,['chan2019'],,False,False,,1
+andr1248-1-1000-1,,andr1248-1,1000,pwesi,pwesi,[],,['chan2019'],,False,False,,1
