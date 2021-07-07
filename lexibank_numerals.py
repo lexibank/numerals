@@ -29,7 +29,7 @@ from pynumerals.numerals_utils import (
     XLSX_LABELS,
 )
 
-CHANURL = "https://mpi-lingweb.shh.mpg.de/numeral/"
+CHANURL = "https://lingweb.eva.mpg.de/channumerals/"
 
 # FIXME: Point to Zenodo or GitHub API?
 URL = "https://raw.githubusercontent.com/numeralbank/channumerals/master/cldf"

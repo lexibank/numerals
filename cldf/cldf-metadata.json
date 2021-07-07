@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30",
+    "dc:bibliographicCitation": "Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://lingweb.eva.mpg.de/channumerals - accessed: 2019-09-30",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Chan-2019-133"
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numerals",
             "rdf:type": "prov:Entity",
-            "dc:created": "6f86e899",
+            "dc:created": "2eabf86d",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 185257,
+            "dc:extent": 185299,
             "tableSchema": {
                 "columns": [
                     {
@@ -172,7 +172,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5270,
+            "dc:extent": 5272,
             "tableSchema": {
                 "columns": [
                     {
