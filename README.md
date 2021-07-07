@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://mpi-lingweb.shh.mpg.de/numeral - accessed: 2019-09-30
+  > Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://lingweb.eva.mpg.de/channumerals - accessed: 2019-09-30
 - the derived dataset using the DOI of the [particular released version](releases/) you were using
 
 ## Description
