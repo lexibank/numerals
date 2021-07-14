@@ -402,6 +402,7 @@ class Dataset(BaseDataset):
             "lada1244-2, lada1244-3",
             "pila1245-1, toba1269-2",
             "tson1249-2, tswa1255-1",
+            "bata1290-1, bata1291-1",
         ]
 
         datatable_checks = {}
