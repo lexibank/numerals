@@ -1,0 +1,23 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+avik1243-1-1-1,,avik1243-1,1,ɛton,ɛton,[],,['chan2019'],,False,False,,1
+avik1243-1-1-2,,avik1243-1,1,tekli,tekli,[],,['chan2019'],,False,False,,1
+avik1243-1-2-1,,avik1243-1,2,ányɔ̀n,ányɔ̀n,[],,['chan2019'],,False,False,,1
+avik1243-1-3-1,,avik1243-1,3,ánzán,ánzán,[],,['chan2019'],,False,False,,1
+avik1243-1-4-1,,avik1243-1,4,anán,anán,[],,['chan2019'],,False,False,,1
+avik1243-1-5-1,,avik1243-1,5,anyún,anyún,[],,['chan2019'],,False,False,,1
+avik1243-1-6-1,,avik1243-1,6,àwá,àwá,[],,['chan2019'],,False,False,,1
+avik1243-1-7-1,,avik1243-1,7,ɛbyon,ɛbyon,[],,['chan2019'],,False,False,,1
+avik1243-1-8-1,,avik1243-1,8,ɛcɛ,ɛcɛ,[],,['chan2019'],,False,False,,1
+avik1243-1-9-1,,avik1243-1,9,ɛmnon,ɛmnon,[],,['chan2019'],,False,False,,1
+avik1243-1-10-1,,avik1243-1,10,ɛjú,ɛjú,[],,['chan2019'],,False,False,,1
+avik1243-1-11-1,,avik1243-1,11,ɛjú ton,ɛjú ton,[],,['chan2019'],,False,False,,1
+avik1243-1-20-1,,avik1243-1,20,ɛvɛ,ɛvɛ,[],,['chan2019'],,False,False,,1
+avik1243-1-22-1,,avik1243-1,22,ɛvɛ ányɔ̀n,ɛvɛ ányɔ̀n,[],,['chan2019'],,False,False,,1
+avik1243-1-30-1,,avik1243-1,30,ɛvɛ jú,ɛvɛ jú,[],(20+10),['chan2019'],,False,False,,1
+avik1243-1-40-1,,avik1243-1,40,akpa ányɔ̀n,akpa ányɔ̀n,[],(20 x 2),['chan2019'],,False,False,,1
+avik1243-1-50-1,,avik1243-1,50,akpányɔ̀n mán ɛjú,akpányɔ̀n mán ɛjú,[],[(20x2)+10],['chan2019'],,False,False,,1
+avik1243-1-50-2,,avik1243-1,50,mɛjú,mɛjú,[],,['chan2019'],,False,False,,1
+avik1243-1-100-1,,avik1243-1,100,akpanyún,akpanyún,[],(20 x 5),['chan2019'],,False,False,,1
+avik1243-1-110-1,,avik1243-1,110,akpanyún mɛjú,akpanyún mɛjú,[],,['chan2019'],,False,False,,1
+avik1243-1-400-1,,avik1243-1,400,akpɛvɛ,akpɛvɛ,[],(20 x 20),['chan2019'],,False,False,,1
+avik1243-1-1000-1,,avik1243-1,1000,akpanyún ɛjú,akpanyún ɛjú,[],(20 x 5 x 10),['chan2019'],,False,False,,1
