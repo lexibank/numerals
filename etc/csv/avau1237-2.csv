@@ -1,0 +1,20 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+avau1237-2-1-1,,avau1237-2,1,keleŋa-suk,keleŋa-suk,[],,['chan2019'],,False,False,,2
+avau1237-2-2-1,,avau1237-2,2,su,su,[],,['chan2019'],,False,False,,2
+avau1237-2-3-1,,avau1237-2,3,miouk,miouk,[],,['chan2019'],,False,False,,2
+avau1237-2-4-1,,avau1237-2,4,penel,penel,[],,['chan2019'],,False,False,,2
+avau1237-2-5-1,,avau1237-2,5,limi,limi,[],,['chan2019'],,False,False,,2
+avau1237-2-6-1,,avau1237-2,6,kepolo,kepolo,[],( 5 + 1 ),['chan2019'],,False,False,,2
+avau1237-2-7-1,,avau1237-2,7,supolo,supolo,[],( 5 + 2 ),['chan2019'],,False,False,,2
+avau1237-2-8-1,,avau1237-2,8,mioupolo,mioupolo,[],( 5 + 3 ),['chan2019'],,False,False,,2
+avau1237-2-9-1,,avau1237-2,9,pinelpolo,pinelpolo,[],( 5 + 4 ),['chan2019'],,False,False,,2
+avau1237-2-10-1,,avau1237-2,10,lokoŋa,lokoŋa,[],,['chan2019'],,False,False,,2
+avau1237-2-20-1,,avau1237-2,20,lokoŋa pa su,lokoŋa pa su,[],,['chan2019'],,False,False,,2
+avau1237-2-30-1,,avau1237-2,30,lokoŋa pa kiep,lokoŋa pa kiep,[],,['chan2019'],,False,False,,2
+avau1237-2-40-1,,avau1237-2,40,lokoŋa pa miouk,lokoŋa pa miouk,[],,['chan2019'],,False,False,,2
+avau1237-2-50-1,,avau1237-2,50,lokoŋa pa paŋ,lokoŋa pa paŋ,[],,['chan2019'],,False,False,,2
+avau1237-2-60-1,,avau1237-2,60,lokoŋa pa limi,lokoŋa pa limi,[],,['chan2019'],,False,False,,2
+avau1237-2-70-1,,avau1237-2,70,lokoŋa pa kiepolo,lokoŋa pa kiepolo,[],,['chan2019'],,False,False,,2
+avau1237-2-80-1,,avau1237-2,80,lokoŋa pa mioupolo,lokoŋa pa mioupolo,[],,['chan2019'],,False,False,,2
+avau1237-2-90-1,,avau1237-2,90,lokoŋa pa pinepolo,lokoŋa pa pinepolo,[],,['chan2019'],,False,False,,2
+avau1237-2-100-1,,avau1237-2,100,lokoŋa weŋweŋ,lokoŋa weŋweŋ,[],,['chan2019'],,False,False,,2
