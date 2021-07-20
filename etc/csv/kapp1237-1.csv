@@ -1,0 +1,42 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kapp1237-1-1-1,,kapp1237-1,1,tei,tei,[],,['chan2019'],,False,False,,1
+kapp1237-1-2-1,,kapp1237-1,2,ro,ro,[],,['chan2019'],,False,False,,1
+kapp1237-1-3-1,,kapp1237-1,3,tul,tul,[],,['chan2019'],,False,False,,1
+kapp1237-1-3-2,,kapp1237-1,3,tual,tual,[],,['chan2019'],,False,False,,1
+kapp1237-1-4-1,,kapp1237-1,4,au,au,[],,['chan2019'],,False,False,,1
+kapp1237-1-5-1,,kapp1237-1,5,lim,lim,[],(litː 'hand'),['chan2019'],,False,False,,1
+kapp1237-1-6-1,,kapp1237-1,6,lim tei,lim tei,[],( 5 + 1 ),['chan2019'],,False,False,,1
+kapp1237-1-7-1,,kapp1237-1,7,lim ro,lim ro,[],( 5 + 2 ),['chan2019'],,False,False,,1
+kapp1237-1-8-1,,kapp1237-1,8,lim tul,lim tul,[],( 5 + 3 ),['chan2019'],,False,False,,1
+kapp1237-1-9-1,,kapp1237-1,9,lim au,lim au,[],( 5 + 4 ),['chan2019'],,False,False,,1
+kapp1237-1-10-1,,kapp1237-1,10,wilim etei,wilim etei,[],,['chan2019'],,False,False,,1
+kapp1237-1-11-1,,kapp1237-1,11,wilim etei tei,wilim etei tei,[],,['chan2019'],,False,False,,1
+kapp1237-1-12-1,,kapp1237-1,12,wilim etei ro,wilim etei ro,[],,['chan2019'],,False,False,,1
+kapp1237-1-13-1,,kapp1237-1,13,wilim etei tul,wilim etei tul,[],,['chan2019'],,False,False,,1
+kapp1237-1-14-1,,kapp1237-1,14,wilim etei au,wilim etei au,[],,['chan2019'],,False,False,,1
+kapp1237-1-15-1,,kapp1237-1,15,wilim etei lim,wilim etei lim,[],,['chan2019'],,False,False,,1
+kapp1237-1-16-1,,kapp1237-1,16,wilim etei lim tei,wilim etei lim tei,[],,['chan2019'],,False,False,,1
+kapp1237-1-17-1,,kapp1237-1,17,wilim etei lim rua,wilim etei lim rua,[],,['chan2019'],,False,False,,1
+kapp1237-1-18-1,,kapp1237-1,18,wilim etei lim tul,wilim etei lim tul,[],,['chan2019'],,False,False,,1
+kapp1237-1-19-1,,kapp1237-1,19,wilim etei lim au,wilim etei lim au,[],,['chan2019'],,False,False,,1
+kapp1237-1-20-1,,kapp1237-1,20,wilim ro,wilim ro,[],,['chan2019'],,False,False,,1
+kapp1237-1-21-1,,kapp1237-1,21,wilim ro tei,wilim ro tei,[],,['chan2019'],,False,False,,1
+kapp1237-1-22-1,,kapp1237-1,22,wilim ro ro,wilim ro ro,[],,['chan2019'],,False,False,,1
+kapp1237-1-23-1,,kapp1237-1,23,wilim ro tul,wilim ro tul,[],,['chan2019'],,False,False,,1
+kapp1237-1-24-1,,kapp1237-1,24,wilim ro au,wilim ro au,[],,['chan2019'],,False,False,,1
+kapp1237-1-25-1,,kapp1237-1,25,wilim ro lim,wilim ro lim,[],,['chan2019'],,False,False,,1
+kapp1237-1-26-1,,kapp1237-1,26,wilim ro lim tei,wilim ro lim tei,[],,['chan2019'],,False,False,,1
+kapp1237-1-27-1,,kapp1237-1,27,wilim ro lim ro,wilim ro lim ro,[],,['chan2019'],,False,False,,1
+kapp1237-1-28-1,,kapp1237-1,28,wilim ro lim tul,wilim ro lim tul,[],,['chan2019'],,False,False,,1
+kapp1237-1-29-1,,kapp1237-1,29,wilim ro lim au,wilim ro lim au,[],,['chan2019'],,False,False,,1
+kapp1237-1-30-1,,kapp1237-1,30,wilim tul,wilim tul,[],,['chan2019'],,False,False,,1
+kapp1237-1-40-1,,kapp1237-1,40,wilim au,wilim au,[],,['chan2019'],,False,False,,1
+kapp1237-1-50-1,,kapp1237-1,50,wilim lim,wilim lim,[],,['chan2019'],,False,False,,1
+kapp1237-1-60-1,,kapp1237-1,60,wilim lim tei,wilim lim tei,[],,['chan2019'],,False,False,,1
+kapp1237-1-70-1,,kapp1237-1,70,wilim lim ro,wilim lim ro,[],,['chan2019'],,False,False,,1
+kapp1237-1-80-1,,kapp1237-1,80,wilim lim tul,wilim lim tul,[],,['chan2019'],,False,False,,1
+kapp1237-1-90-1,,kapp1237-1,90,wilim lim au,wilim lim au,[],,['chan2019'],,False,False,,1
+kapp1237-1-100-1,,kapp1237-1,100,rabuaj tei,rabuaj tei,[],,['chan2019'],,False,False,,1
+kapp1237-1-200-1,,kapp1237-1,200,rabuaj ro,rabuaj ro,[],,['chan2019'],,False,False,,1
+kapp1237-1-1000-1,,kapp1237-1,1000,rabuaj wilim etei,rabuaj wilim etei,[],,['chan2019'],,False,False,,1
+kapp1237-1-2000-1,,kapp1237-1,2000,rabuaj wilim ro,rabuaj wilim ro,[],,['chan2019'],,False,False,,1

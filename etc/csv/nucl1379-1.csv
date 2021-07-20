@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nucl1379-1-1-1,,nucl1379-1,1,kɨpamato,kɨpamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-2-1,,nucl1379-1,2,sivɨlɨ,sivɨlɨ,[],,['chan2019'],,False,False,,1
+nucl1379-1-3-1,,nucl1379-1,3,sidatu,sidatu,[],,['chan2019'],,False,False,,1
+nucl1379-1-4-1,,nucl1379-1,4,sini,sini,[],,['chan2019'],,False,False,,1
+nucl1379-1-5-1,,nucl1379-1,5,sihaano,sihaano,[],,['chan2019'],,False,False,,1
+nucl1379-1-6-1,,nucl1379-1,6,intanato,intanato,[],( 2 x 3 ?),['chan2019'],,False,False,,1
+nucl1379-1-7-1,,nucl1379-1,7,lekelakʉpamato,lekelakʉpamato,[],( ? 1 ),['chan2019'],,False,False,,1
+nucl1379-1-8-1,,nucl1379-1,8,innaana,innaana,[],( 2 x 4 ?),['chan2019'],,False,False,,1
+nucl1379-1-9-1,,nucl1379-1,9,budikakupamato,budikakupamato,[],( ? 1 ),['chan2019'],,False,False,,1
+nucl1379-1-10-1,,nucl1379-1,10,kɨtsiɡo,kɨtsiɡo,[],,['chan2019'],,False,False,,1
+nucl1379-1-11-1,,nucl1379-1,11,kɨtsiɡo na kɨpamato,kɨtsiɡo na kɨpamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-12-1,,nucl1379-1,12,kɨtsiɡo na sivɨlɨ,kɨtsiɡo na sivɨlɨ,[],,['chan2019'],,False,False,,1
+nucl1379-1-13-1,,nucl1379-1,13,kɨtsiɡo na sidatu,kɨtsiɡo na sidatu,[],,['chan2019'],,False,False,,1
+nucl1379-1-14-1,,nucl1379-1,14,kɨtsiɡo na sini,kɨtsiɡo na sini,[],,['chan2019'],,False,False,,1
+nucl1379-1-15-1,,nucl1379-1,15,kɨtsiɡo na sihaano,kɨtsiɡo na sihaano,[],,['chan2019'],,False,False,,1
+nucl1379-1-16-1,,nucl1379-1,16,kɨtsiɡo na ntanato,kɨtsiɡo na ntanato,[],,['chan2019'],,False,False,,1
+nucl1379-1-17-1,,nucl1379-1,17,kɨtsiɡo na lekelakʉpamato,kɨtsiɡo na lekelakʉpamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-18-1,,nucl1379-1,18,kɨtsiɡo na nnaana,kɨtsiɡo na nnaana,[],,['chan2019'],,False,False,,1
+nucl1379-1-19-1,,nucl1379-1,19,kɨtsiɡo na budikakupamato,kɨtsiɡo na budikakupamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-20-1,,nucl1379-1,20,amalonɡoɡavɨlɨ,amalonɡoɡavɨlɨ,[],,['chan2019'],,False,False,,1
+nucl1379-1-21-1,,nucl1379-1,21,amalonɡoɡavɨlɨ na kɨpamato,amalonɡoɡavɨlɨ na kɨpamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-22-1,,nucl1379-1,22,amalonɡoɡavɨlɨ na sivɨlɨ,amalonɡoɡavɨlɨ na sivɨlɨ,[],,['chan2019'],,False,False,,1
+nucl1379-1-23-1,,nucl1379-1,23,amalonɡoɡavɨlɨ na sidatu,amalonɡoɡavɨlɨ na sidatu,[],,['chan2019'],,False,False,,1
+nucl1379-1-24-1,,nucl1379-1,24,amalonɡoɡavɨlɨ na sini,amalonɡoɡavɨlɨ na sini,[],,['chan2019'],,False,False,,1
+nucl1379-1-25-1,,nucl1379-1,25,amalonɡoɡavɨlɨ na sihaano,amalonɡoɡavɨlɨ na sihaano,[],,['chan2019'],,False,False,,1
+nucl1379-1-26-1,,nucl1379-1,26,amalonɡoɡavɨlɨ na ntanato,amalonɡoɡavɨlɨ na ntanato,[],,['chan2019'],,False,False,,1
+nucl1379-1-27-1,,nucl1379-1,27,amalonɡoɡavɨlɨ na lekelakʉpamato,amalonɡoɡavɨlɨ na lekelakʉpamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-28-1,,nucl1379-1,28,amalonɡoɡavɨlɨ na nnaana,amalonɡoɡavɨlɨ na nnaana,[],,['chan2019'],,False,False,,1
+nucl1379-1-29-1,,nucl1379-1,29,amalonɡoɡavɨlɨ na budikakupamato,amalonɡoɡavɨlɨ na budikakupamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-30-1,,nucl1379-1,30,amalonɡo ɡadatu,amalonɡo ɡadatu,[],,['chan2019'],,False,False,,1
+nucl1379-1-40-1,,nucl1379-1,40,amalonɡo ɡani,amalonɡo ɡani,[],,['chan2019'],,False,False,,1
+nucl1379-1-50-1,,nucl1379-1,50,amalonɡo ɡahanu,amalonɡo ɡahanu,[],,['chan2019'],,False,False,,1
+nucl1379-1-60-1,,nucl1379-1,60,amalonɡo intanato,amalonɡo intanato,[],,['chan2019'],,False,False,,1
+nucl1379-1-70-1,,nucl1379-1,70,amalonɡo lekelakʉpamato,amalonɡo lekelakʉpamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-80-1,,nucl1379-1,80,amalonɡo innaana,amalonɡo innaana,[],,['chan2019'],,False,False,,1
+nucl1379-1-90-1,,nucl1379-1,90,amalonɡo budikakupamato,amalonɡo budikakupamato,[],,['chan2019'],,False,False,,1
+nucl1379-1-100-1,,nucl1379-1,100,ʉndevʉlʉ,ʉndevʉlʉ,[],,['chan2019'],,False,False,,1
+nucl1379-1-200-1,,nucl1379-1,200,ɨmilevʉlʉ ɡɨvɨlɨ,ɨmilevʉlʉ ɡɨvɨlɨ,[],,['chan2019'],,False,False,,1
+nucl1379-1-400-1,,nucl1379-1,400,imia zini,imia zini,[],,['chan2019'],,False,False,,1
+nucl1379-1-800-1,,nucl1379-1,800,ɨmilevʉlʉ innaana,ɨmilevʉlʉ innaana,[],,['chan2019'],,False,False,,1
+nucl1379-1-1000-1,,nucl1379-1,1000,elufu,elufu,[],,['chan2019'],,False,False,,1
+nucl1379-1-2000-1,,nucl1379-1,2000,avaelufu vavɨlɨ,avaelufu vavɨlɨ,[],,['chan2019'],,False,False,,1
