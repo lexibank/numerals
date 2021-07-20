@@ -1,0 +1,9 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+suku1264-6-1-1,,suku1264-6,1,bisan,bisan,[],,['chan2019'],,False,False,,6
+suku1264-6-1-2,,suku1264-6,1,misandon,misandon,[],,['chan2019'],,False,False,,6
+suku1264-6-2-1,,suku1264-6,2,leluk,leluk,[],,['chan2019'],,False,False,,6
+suku1264-6-2-2,,suku1264-6,2,lɛluk,lɛluk,[],,['chan2019'],,False,False,,6
+suku1264-6-3-1,,suku1264-6,3,leluk anɡa bisan dɑ,leluk anɡa bisan dɑ,[],(2 + 1),['chan2019'],,False,False,,6
+suku1264-6-4-1,,suku1264-6,4,leluk anɡa leluk,leluk anɡa leluk,[],(2 + 2),['chan2019'],,False,False,,6
+suku1264-6-5-1,,suku1264-6,5,leluk anɡa leluk anɡa bisan,leluk anɡa leluk anɡa bisan,[],(2 + 2 + 1),['chan2019'],,False,False,,6
+suku1264-6-6-1,,suku1264-6,6,leluk anɡ leluk anɡa leluk,leluk anɡ leluk anɡa leluk,[],(2 + 2 + 2),['chan2019'],,False,False,,6
