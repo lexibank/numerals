@@ -269,7 +269,7 @@ class Dataset(BaseDataset):
                                 "zakh1243-1", "zakh1243-2", "zakh1243-3", "food1238-2",
                                 "meta1238-1", "piem1238-2", "piem1238-3", "diga1241-4",
                                 "alab1254-2", "yulu1243-1", "yulu1243-2", "caqu1242-2",
-                                "inap1243-1", "bayo1255-3", "chuw1238-2", "dalo1238-1",
+                                "inap1243-1", "bayo1255-3", "chuw1238-2",
                                 "koma1266-3", "nafa1258-1", "tswa1255-2", "tuni1251-1",
                                 "sout2711-1", "zigu1244-1", "kata1264-1", "kata1264-2",
                                 "lave1248-2", "adon1237-1", "aust1304-2", "boto1242-4",

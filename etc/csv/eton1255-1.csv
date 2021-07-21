@@ -1,0 +1,11 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+eton1255-1-1-1,,eton1255-1,1,eskei,eskei,[],,['chan2019'],,False,False,,1
+eton1255-1-2-1,,eton1255-1,2,e-ru,e-ru,[],,['chan2019'],,False,False,,1
+eton1255-1-3-1,,eton1255-1,3,e-tol,e-tol,[],,['chan2019'],,False,False,,1
+eton1255-1-4-1,,eton1255-1,4,e-pat,e-pat,[],,['chan2019'],,False,False,,1
+eton1255-1-5-1,,eton1255-1,5,e-lim,e-lim,[],,['chan2019'],,False,False,,1
+eton1255-1-6-1,,eton1255-1,6,e-lase,e-lase,[],( 5 + 1 ),['chan2019'],,False,False,,1
+eton1255-1-7-1,,eton1255-1,7,e-la-ru,e-la-ru,[],( 5 + 2 ),['chan2019'],,False,False,,1
+eton1255-1-8-1,,eton1255-1,8,e-la-tol,e-la-tol,[],( 5 + 3 ),['chan2019'],,False,False,,1
+eton1255-1-9-1,,eton1255-1,9,e-l-fot,e-l-fot,[],( 5 + 4 ),['chan2019'],,False,False,,1
+eton1255-1-10-1,,eton1255-1,10,ralim,ralim,[],( 5 + 5 ),['chan2019'],,False,False,,1
