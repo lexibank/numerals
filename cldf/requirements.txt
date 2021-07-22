@@ -31,7 +31,7 @@ pycldf==1.21.1
 pyclts==3.1.1
 pyconcepticon==2.7.0
 pycountry==20.7.3
--e git+https://github.com/glottolog/pyglottolog.git@9114534d3a49771ea6bd8ff9ee6f3f15befaffaa#egg=pyglottolog
+pyglottolog==3.6.0
 pylexibank==3.1.0
 -e git+https://github.com/numeralbank/pynumerals.git@7c827ba7e7892b2779573cd3047ab44da027243d#egg=pynumerals
 pytest==6.2.4
