@@ -1,0 +1,36 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+lake1258-1-1-1,,lake1258-1,1,kénne,kénne,[],,['chan2019'],,False,False,,1
+lake1258-1-2-1,,lake1258-1,2,'óʈʈa,'óʈʈa,[],,['chan2019'],,False,False,,1
+lake1258-1-3-1,,lake1258-1,3,teléeka,teléeka,[],,['chan2019'],,False,False,,1
+lake1258-1-3-2,,lake1258-1,3,deléeka,deléeka,[],,['chan2019'],,False,False,,1
+lake1258-1-4-1,,lake1258-1,4,'oʈóʈʈa,'oʈóʈʈa,[],(lit: 'two times two'),['chan2019'],,False,False,,1
+lake1258-1-5-1,,lake1258-1,5,kedékku,kedékku,[],(lit: 'one hand?'),['chan2019'],,False,False,,1
+lake1258-1-6-1,,lake1258-1,6,pát͡ʃːadak,pát͡ʃːadak,[],,['chan2019'],,False,False,,1
+lake1258-1-7-1,,lake1258-1,7,ʂemláawi,ʂemláawi,[],,['chan2019'],,False,False,,1
+lake1258-1-8-1,,lake1258-1,8,'óʈʈhaja,'óʈʈhaja,[],(lit: 'two times four'),['chan2019'],,False,False,,1
+lake1258-1-9-1,,lake1258-1,9,kénnenhelak,kénnenhelak,[],(lit: 'one lacking'),['chan2019'],,False,False,,1
+lake1258-1-10-1,,lake1258-1,10,'ukúukot͡ʃi,'ukúukot͡ʃi,[],(lit: 'dual hands?'),['chan2019'],,False,False,,1
+lake1258-1-11-1,,lake1258-1,11,kénne wállik,kénne wállik,[],('one outside / increased'),['chan2019'],,False,False,,1
+lake1258-1-12-1,,lake1258-1,12,'óʈʈa wállik,'óʈʈa wállik,[],(two outside / increased),['chan2019'],,False,False,,1
+lake1258-1-13-1,,lake1258-1,13,deléeka wállik,deléeka wállik,[],('three outside / increased'),['chan2019'],,False,False,,1
+lake1258-1-13-2,,lake1258-1,13,teléeka wállik,teléeka wállik,[],('three outside / increased'),['chan2019'],,False,False,,1
+lake1258-1-14-1,,lake1258-1,14,óʈóʈʈa wállik,óʈóʈʈa wállik,[],(four outside/increased,['chan2019'],,False,False,,1
+lake1258-1-15-1,,lake1258-1,15,kedékku wállik,kedékku wállik,[],(five outside / increased),['chan2019'],,False,False,,1
+lake1258-1-16-1,,lake1258-1,16,pát͡ʃːadak wállik,pát͡ʃːadak wállik,[],(six outside / increased),['chan2019'],,False,False,,1
+lake1258-1-17-1,,lake1258-1,17,ʂemláawi wállik,ʂemláawi wállik,[],(seven outside / increased),['chan2019'],,False,False,,1
+lake1258-1-18-1,,lake1258-1,18,óʈʈhaja wállik,óʈʈhaja wállik,[],(eight outside / increased),['chan2019'],,False,False,,1
+lake1258-1-19-1,,lake1258-1,19,kénnenhelak wállik,kénnenhelak wállik,[],(nine outside/ increased),['chan2019'],,False,False,,1
+lake1258-1-20-1,,lake1258-1,20,'óʈʈatumaj,'óʈʈatumaj,[],(lit: 'two sticks'),['chan2019'],,False,False,,1
+lake1258-1-21-1,,lake1258-1,21,óʈʈatumajto kénne,óʈʈatumajto kénne,[],(two sticks plus one),['chan2019'],,False,False,,1
+lake1258-1-30-1,,lake1258-1,30,deléekatumaj,deléekatumaj,[],(three sticks),['chan2019'],,False,False,,1
+lake1258-1-30-2,,lake1258-1,30,teléekatumaj,teléekatumaj,[],(three sticks),['chan2019'],,False,False,,1
+lake1258-1-40-1,,lake1258-1,40,óʈóʈʈatumaj,óʈóʈʈatumaj,[],(lit: 'four sticks'),['chan2019'],,False,False,,1
+lake1258-1-50-1,,lake1258-1,50,kedékkutumaj,kedékkutumaj,[],(lit: 'five sticks'),['chan2019'],,False,False,,1
+lake1258-1-60-1,,lake1258-1,60,pát͡ʃːadaktumaj,pát͡ʃːadaktumaj,[],(lit: 'six sticks'),['chan2019'],,False,False,,1
+lake1258-1-70-1,,lake1258-1,70,ʂemláawitumaj,ʂemláawitumaj,[],(lit: 'seven sticks'),['chan2019'],,False,False,,1
+lake1258-1-80-1,,lake1258-1,80,'óʈʈhajatumaj,'óʈʈhajatumaj,[],(lit: 'eight sticks '),['chan2019'],,False,False,,1
+lake1258-1-90-1,,lake1258-1,90,kénnenhelaktumaj,kénnenhelaktumaj,[],(lit: 'nine sticks'),['chan2019'],,False,False,,1
+lake1258-1-100-1,,lake1258-1,100,kénne ʂijénto,kénne ʂijénto,[],(one hundred < Sp. ciento = 100),['chan2019'],,True,False,,1
+lake1258-1-100-2,,lake1258-1,100,kénne ʂénto,kénne ʂénto,[],(one hundred < Sp. ciento = 100),['chan2019'],,True,False,,1
+lake1258-1-130-1,,lake1258-1,130,kénne ʂijénto teléekatumaj,kénne ʂijénto teléekatumaj,[],,['chan2019'],,False,False,,1
+lake1258-1-1000-1,,lake1258-1,1000,míil,míil,[],(< Sp. mil = 1000),['chan2019'],,True,False,,1
