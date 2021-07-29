@@ -1,0 +1,26 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sout2985-2-1-1,,sout2985-2,1,keŋŋe-,keŋŋe-,[],,['chan2019'],,False,False,,2
+sout2985-2-2-1,,sout2985-2,2,oʈi-,oʈi-,[],,['chan2019'],,False,False,,2
+sout2985-2-2-2,,sout2985-2,2,oʈiko-,oʈiko-,[],,['chan2019'],,False,False,,2
+sout2985-2-3-1,,sout2985-2,3,tolookoʈɨ-,tolookoʈɨ-,[],,['chan2019'],,False,False,,2
+sout2985-2-4-1,,sout2985-2,4,'ojissa-,'ojissa-,[],,['chan2019'],,False,False,,2
+sout2985-2-5-1,,sout2985-2,5,mahhoka-,mahhoka-,[],,['chan2019'],,False,False,,2
+sout2985-2-6-1,,sout2985-2,6,temmoka-,temmoka-,[],,['chan2019'],,False,False,,2
+sout2985-2-7-1,,sout2985-2,7,tiʈʈawwa-,tiʈʈawwa-,[],,['chan2019'],,False,False,,2
+sout2985-2-8-1,,sout2985-2,8,kawwinta-,kawwinta-,[],,['chan2019'],,False,False,,2
+sout2985-2-9-1,,sout2985-2,9,'elliwa-,'elliwa-,[],,['chan2019'],,False,False,,2
+sout2985-2-9-2,,sout2985-2,9,'ellewa-,'ellewa-,[],,['chan2019'],,False,False,,2
+sout2985-2-10-1,,sout2985-2,10,na'aaca-,na'aaca-,[],,['chan2019'],,False,False,,2
+sout2985-2-11-1,,sout2985-2,11,na'aaca- keŋŋe''ɨni-,na'aaca- keŋŋe''ɨni-,[],(litː '10+has 1'),['chan2019'],,False,True,,2
+sout2985-2-12-1,,sout2985-2,12,na'aaca- 'oʈi''ɨni-,na'aaca- 'oʈi''ɨni-,[],(litː '10 + has 2'),['chan2019'],,False,True,,2
+sout2985-2-13-1,,sout2985-2,13,na'aaca- tolookoʈɨ''ɨni-,na'aaca- tolookoʈɨ''ɨni-,[],"('10+has 3"")",['chan2019'],,False,True,,2
+sout2985-2-20-1,,sout2985-2,20,'oʈiijak ná'aaca-,'oʈiijak ná'aaca-,[],(litː '2 x 10'),['chan2019'],,False,False,,2
+sout2985-2-26-1,,sout2985-2,26,'oʈiijak ná'aaca- temmoka''ɨni-,'oʈiijak ná'aaca- temmoka''ɨni-,[],,['chan2019'],,False,True,,2
+sout2985-2-30-1,,sout2985-2,30,toloojak na'ááca-,toloojak na'ááca-,[],(litː'3 x 10'),['chan2019'],,False,False,,2
+sout2985-2-40-1,,sout2985-2,40,'ojiisijak na'aaca-,'ojiisijak na'aaca-,[],,['chan2019'],,False,False,,2
+sout2985-2-50-1,,sout2985-2,50,mahoojak na'aaca-,mahoojak na'aaca-,[],,['chan2019'],,False,False,,2
+sout2985-2-60-1,,sout2985-2,60,temoojak na'aaca-,temoojak na'aaca-,[],,['chan2019'],,False,False,,2
+sout2985-2-70-1,,sout2985-2,70,tiʈaawijak na'ááca-,tiʈaawijak na'ááca-,[],,['chan2019'],,False,False,,2
+sout2985-2-80-1,,sout2985-2,80,kawiitijak na'aaca-,kawiitijak na'aaca-,[],,['chan2019'],,False,False,,2
+sout2985-2-84-1,,sout2985-2,84,kawiitijak 'ojissa''ɨni-,kawiitijak 'ojissa''ɨni-,[],,['chan2019'],,False,True,,2
+sout2985-2-100-1,,sout2985-2,100,maʃókmumu-,maʃókmumu-,[],(litː '5 twenties'),['chan2019'],,False,False,,2
