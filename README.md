@@ -5,7 +5,7 @@
 If you use these data please cite
 - the original source
   > Chan, Eugene (eds.) 2019. Numeral Systems of the World's Languages (curated). https://lingweb.eva.mpg.de/channumerals - accessed: 2019-09-30
-- the derived dataset using the DOI of the [particular released version](releases/) you were using
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
@@ -35,7 +35,7 @@ released as [channumerals v1.0](https://github.com/numeralbank/channumerals/rele
 
 - **Varieties:** 5,334
 - **Concepts:** 133
-- **Lexemes:** 187,059
+- **Lexemes:** 187,062
 - **Sources:** 1
 - **Synonymy:** 1.09
 

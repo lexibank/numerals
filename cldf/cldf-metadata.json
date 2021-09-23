@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numerals",
             "rdf:type": "prov:Entity",
-            "dc:created": "323957a2",
+            "dc:created": "76b7cfc7",
             "dc:title": "Repository"
         },
         {
@@ -41,6 +41,10 @@
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
             "dc:description": "3.9.5"
         },
@@ -57,7 +61,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 187059,
+            "dc:extent": 187062,
             "tableSchema": {
                 "columns": [
                     {
