@@ -1,0 +1,61 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+basq1248-1-1-1,,basq1248-1,1,bat,bat,[],,['chan2019'],,False,False,bat,1
+basq1248-1-2-1,,basq1248-1,2,bi,bi,[],,['chan2019'],,False,False,bi,1
+basq1248-1-3-1,,basq1248-1,3,ˈiɾu,ˈiɾu,[],,['chan2019'],,False,False,hiru,1
+basq1248-1-4-1,,basq1248-1,4,law,law,[],,['chan2019'],,False,False,lau,1
+basq1248-1-5-1,,basq1248-1,5,bos̪t,bos̪t,[],,['chan2019'],,False,False,bost,1
+basq1248-1-6-1,,basq1248-1,6,s̪ej,s̪ej,[],,['chan2019'],,False,False,sei,1
+basq1248-1-7-1,,basq1248-1,7,ˈs̻as̻pi,ˈs̻as̻pi,[],,['chan2019'],,False,False,zazpi,1
+basq1248-1-8-1,,basq1248-1,8,ˈs̻ort͡s̻i,ˈs̻ort͡s̻i,[],,['chan2019'],,False,False,zortzi,1
+basq1248-1-9-1,,basq1248-1,9,beˈdeɾaˌt͡s̻i,beˈdeɾaˌt͡s̻i,[],,['chan2019'],,False,False,bederatzi,1
+basq1248-1-10-1,,basq1248-1,10,aˈmar,aˈmar,[],,['chan2019'],,False,False,hamar,1
+basq1248-1-10-2,,basq1248-1,10,ˈamar,ˈamar,[],,['chan2019'],,False,False,hamar,1
+basq1248-1-11-1,,basq1248-1,11,aˈmajka,aˈmajka,[],,['chan2019'],,False,False,hamaika,1
+basq1248-1-12-1,,basq1248-1,12,aˈmabi,aˈmabi,[],,['chan2019'],,False,False,hamabi,1
+basq1248-1-13-1,,basq1248-1,13,aˈmajɾu,aˈmajɾu,[],,['chan2019'],,False,False,hamahiru,1
+basq1248-1-14-1,,basq1248-1,14,aˈmalaw,aˈmalaw,[],,['chan2019'],,False,False,hamalau,1
+basq1248-1-14-2,,basq1248-1,14,amaˈlaw,amaˈlaw,[],,['chan2019'],,False,False,hamalau,1
+basq1248-1-15-1,,basq1248-1,15,aˈmabos̪t,aˈmabos̪t,[],,['chan2019'],,False,False,hamabost,1
+basq1248-1-15-2,,basq1248-1,15,amaˈbos̪t,amaˈbos̪t,[],,['chan2019'],,False,False,hamabost,1
+basq1248-1-16-1,,basq1248-1,16,aˈmas̪ej,aˈmas̪ej,[],,['chan2019'],,False,False,hamasei,1
+basq1248-1-16-2,,basq1248-1,16,amaˈs̪ej,amaˈs̪ej,[],,['chan2019'],,False,False,hamasei,1
+basq1248-1-17-1,,basq1248-1,17,aˈmas̻as̻ˌpi,aˈmas̻as̻ˌpi,[],,['chan2019'],,False,False,hamazazpi,1
+basq1248-1-17-2,,basq1248-1,17,amaˈs̻as̻pi,amaˈs̻as̻pi,[],,['chan2019'],,False,False,hamazazpi,1
+basq1248-1-18-1,,basq1248-1,18,aˈmas̻orˌt͡s̻i,aˈmas̻orˌt͡s̻i,[],,['chan2019'],,False,False,hamazortzi,1
+basq1248-1-18-2,,basq1248-1,18,eˈmes̻orˌt͡s̻i,eˈmes̻orˌt͡s̻i,[],,['chan2019'],,False,False,hemezortzi,1
+basq1248-1-19-1,,basq1248-1,19,eˈmeɾeˌt͡s̻i,eˈmeɾeˌt͡s̻i,[],,['chan2019'],,False,False,hemeretzi,1
+basq1248-1-20-1,,basq1248-1,20,oˈɡej,oˈɡej,[],,['chan2019'],,False,False,hogei,1
+basq1248-1-21-1,,basq1248-1,21,oˌɡejtaˈbat,oˌɡejtaˈbat,[],,['chan2019'],,False,False,hogeita bat,1
+basq1248-1-21-2,,basq1248-1,21,oˈɡejtaˌbat,oˈɡejtaˌbat,[],,['chan2019'],,False,False,hogeita bat,1
+basq1248-1-22-1,,basq1248-1,22,oɡejtaˈbi,oɡejtaˈbi,[],,['chan2019'],,False,False,hogeita bi,1
+basq1248-1-22-2,,basq1248-1,22,oˈɡejtaˌbi,oˈɡejtaˌbi,[],,['chan2019'],,False,False,hogeita bi,1
+basq1248-1-23-1,,basq1248-1,23,oˌɡejtaˈiɾu,oˌɡejtaˈiɾu,[],,['chan2019'],,False,False,hogeita hiru,1
+basq1248-1-23-2,,basq1248-1,23,oˈɡejtaˌiɾu,oˈɡejtaˌiɾu,[],,['chan2019'],,False,False,hogeita hiru,1
+basq1248-1-24-1,,basq1248-1,24,oɡejtaˈlaw,oɡejtaˈlaw,[],,['chan2019'],,False,False,hogeita lau,1
+basq1248-1-24-2,,basq1248-1,24,oˈɡejtaˌlaw,oˈɡejtaˌlaw,[],,['chan2019'],,False,False,hogeita lau,1
+basq1248-1-25-1,,basq1248-1,25,oɡejtaˈbos̪t,oɡejtaˈbos̪t,[],,['chan2019'],,False,False,hogeita bost,1
+basq1248-1-25-2,,basq1248-1,25,oˈɡejtabos̪t,oˈɡejtabos̪t,[],,['chan2019'],,False,False,hogeita bost,1
+basq1248-1-26-1,,basq1248-1,26,oɡejtaˈs̪ej,oɡejtaˈs̪ej,[],,['chan2019'],,False,False,hogeita sei,1
+basq1248-1-26-2,,basq1248-1,26,oˈɡejtaˌs̪ej,oˈɡejtaˌs̪ej,[],,['chan2019'],,False,False,hogeita sei,1
+basq1248-1-27-1,,basq1248-1,27,oɡejtaˈs̻aspi,oɡejtaˈs̻aspi,[],,['chan2019'],,False,False,hogeita zapzi,1
+basq1248-1-27-2,,basq1248-1,27,oˈɡejtaˌs̻aspi,oˈɡejtaˌs̻aspi,[],,['chan2019'],,False,False,hogeita zapzi,1
+basq1248-1-28-1,,basq1248-1,28,oɡejtaˈs̻ort͡s̻i,oɡejtaˈs̻ort͡s̻i,[],,['chan2019'],,False,False,hogeita zortzi,1
+basq1248-1-28-2,,basq1248-1,28,oˈɡejtaˌs̻ort͡s̻i,oˈɡejtaˌs̻ort͡s̻i,[],,['chan2019'],,False,False,hogeita zortzi,1
+basq1248-1-29-1,,basq1248-1,29,oˈɡejtabeˌdeɾat͡s̻i,oˈɡejtabeˌdeɾat͡s̻i,[],,['chan2019'],,False,False,hogeita bederatzi,1
+basq1248-1-29-2,,basq1248-1,29,oɡejtabedeˈɾat͡s̻i,oɡejtabedeˈɾat͡s̻i,[],,['chan2019'],,False,False,hogeita bederatzi,1
+basq1248-1-30-1,,basq1248-1,30,oɡejtaˈmar,oɡejtaˈmar,[],( 20 + 10 ),['chan2019'],,False,False,hogeita hamar,1
+basq1248-1-40-1,,basq1248-1,40,beˈroˌɡej,beˈroˌɡej,[],,['chan2019'],,False,False,berrogei,1
+basq1248-1-50-1,,basq1248-1,50,beroɡejtaˈmar,beroɡejtaˈmar,[],( 2 x 20 + 10 ),['chan2019'],,False,False,berrogeita hamar,1
+basq1248-1-50-2,,basq1248-1,50,beˈroɡejˌtamar,beˈroɡejˌtamar,[],( 2 x 20 + 10 ),['chan2019'],,False,False,berrogeita hamar,1
+basq1248-1-60-1,,basq1248-1,60,iˈɾuɾoˌɡej,iˈɾuɾoˌɡej,[],,['chan2019'],,False,False,hirurogei,1
+basq1248-1-70-1,,basq1248-1,70,iˌɾuɾoɡejtaˈmar,iˌɾuɾoɡejtaˈmar,[],( 3 x 20 + 10 ),['chan2019'],,False,False,hirurogeita hamar,1
+basq1248-1-70-2,,basq1248-1,70,iˌɾuɾoɡejˈtamar,iˌɾuɾoɡejˈtamar,[],( 3 x 20 + 10 ),['chan2019'],,False,False,hirurogeita hamar,1
+basq1248-1-80-1,,basq1248-1,80,la(w)ˈɾoɡej,la(w)ˈɾoɡej,[],,['chan2019'],,False,False,laurogei,1
+basq1248-1-90-1,,basq1248-1,90,la(w)ˌɾoɡejtaˈmar,la(w)ˌɾoɡejtaˈmar,[],( 4 x 20 + 10 ),['chan2019'],,False,False,laurogeita hamar,1
+basq1248-1-90-2,,basq1248-1,90,la(w)ˈɾoɡejˌtamar,la(w)ˈɾoɡejˌtamar,[],( 4 x 20 + 10 ),['chan2019'],,False,False,laurogeita hamar,1
+basq1248-1-100-1,,basq1248-1,100,eun,eun,[],,['chan2019'],,False,False,ehun,1
+basq1248-1-200-1,,basq1248-1,200,beˈreun,beˈreun,[],,['chan2019'],,False,False,berrehun,1
+basq1248-1-300-1,,basq1248-1,300,iˈɾuɾeun,iˈɾuɾeun,[],,['chan2019'],,False,False,hirurehun,1
+basq1248-1-1000-1,,basq1248-1,1000,ˈmiʎa,ˈmiʎa,[],< Celtic < Latin,['chan2019'],,True,False,mila,1
+basq1248-1-2000-1,,basq1248-1,2000,biˈmiˌʎa,biˈmiˌʎa,[],,['chan2019'],,False,False,bi mila,1
+basq1248-1-2000-2,,basq1248-1,2000,ˈbimiʎa,ˈbimiʎa,[],,['chan2019'],,False,False,bi mila,1
