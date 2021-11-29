@@ -385,6 +385,12 @@ class Dataset(BaseDataset):
             "west2643-1-24-1": "oko kõ(o̥/h)mĩ",
             "west2643-1-80-1": "kõ(o̥/h)mĩ ʃiko",
             "west2643-1-90-1": "kõ(o̥/h)mĩ ʃiko uʃi",
+            "torr1259-1-15-1": "əndal wombuk wombuk are wombuk",
+            "torr1259-1-16-1": "əndal wombuk wombuk are wombuk latən",
+            "torr1259-1-17-1": "əndal wombuk wombuk are wombuk wiyeu",
+            "torr1259-1-18-1": "əndal wombuk wombuk are wombuk awɨyāl",
+            "torr1259-1-19-1": "əndal wombuk wombuk are wombuk wiyeu wiyeu",
+            "torr1259-1-20-1": "əndal wombuk wombuk are wombuk wombuk",
         }
         whitelist_datatable_check = [
             "mach1267-1, nant1250-1",

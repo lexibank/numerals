@@ -1,0 +1,5 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+sout2949-1-1-1,,sout2949-1,1,nau,nau,[],,['chan2019'],,False,False,,1
+sout2949-1-2-1,,sout2949-1,2,netewa,netewa,[],,['chan2019'],,False,False,,1
+sout2949-1-3-1,,sout2949-1,3,netewa naubi,netewa naubi,[],( 2 + 1 ),['chan2019'],,False,False,,1
+sout2949-1-4-1,,sout2949-1,4,netewa netewa,netewa netewa,[],( 2 + 2 ),['chan2019'],,False,False,,1

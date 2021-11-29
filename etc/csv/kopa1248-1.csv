@@ -1,0 +1,35 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+kopa1248-1-1-1,,kopa1248-1,1,ombe,ombe,[],(both dialects) (litː ‘one’ ),['chan2019'],,False,False,,1
+kopa1248-1-1-2,,kopa1248-1,1,mbiyona,mbiyona,[],(both dialects) (litː ‘one’ ),['chan2019'],,False,False,,1
+kopa1248-1-1-3,,kopa1248-1,1,mbatep,mbatep,[],(both dialects) (litː ‘one’ ),['chan2019'],,False,False,,1
+kopa1248-1-2-1,,kopa1248-1,2,kombar(i),kombar(i),[],(Kopar dialect) (litː ‘two’ ),['chan2019'],,False,False,,1
+kopa1248-1-2-2,,kopa1248-1,2,kombri,kombri,[],(Wongan dialect) (litː ‘two’ ),['chan2019'],,False,False,,1
+kopa1248-1-3-1,,kopa1248-1,3,kereməŋ,kereməŋ,[],(Kopar dialect) (litː ‘three’ ),['chan2019'],,False,False,,1
+kopa1248-1-3-2,,kopa1248-1,3,kereməŋgo,kereməŋgo,[],(Wongan dialect) (litː ‘three’ ),['chan2019'],,False,False,,1
+kopa1248-1-4-1,,kopa1248-1,4,sanandək,sanandək,[],(Kopar dialect) (litː ‘four’ ),['chan2019'],,False,False,,1
+kopa1248-1-4-2,,kopa1248-1,4,anandəko,anandəko,[],(Wongan dialect) (litː ‘four’ ),['chan2019'],,False,False,,1
+kopa1248-1-5-1,,kopa1248-1,5,tambək,tambək,[],(both dialects) (litː ‘five’ ),['chan2019'],,False,False,,1
+kopa1248-1-6-1,,kopa1248-1,6,tambək mbatepanda,tambək mbatepanda,[],(Kopar dialect),['chan2019'],,False,False,,1
+kopa1248-1-6-2,,kopa1248-1,6,tambək mbatepand,tambək mbatepand,[],(Wongan dialect),['chan2019'],,False,False,,1
+kopa1248-1-7-1,,kopa1248-1,7,ambək koɲjiranda,ambək koɲjiranda,[],(Kopar dialect),['chan2019'],,False,False,,1
+kopa1248-1-7-2,,kopa1248-1,7,tambək koɲjirand,tambək koɲjirand,[],(Wongan dialect),['chan2019'],,False,False,,1
+kopa1248-1-8-1,,kopa1248-1,8,tambək kereməŋganda,tambək kereməŋganda,[],(Kopar dialect),['chan2019'],,False,False,,1
+kopa1248-1-8-2,,kopa1248-1,8,tambək kereməgad,tambək kereməgad,[],(Wongan dialect),['chan2019'],,False,False,,1
+kopa1248-1-9-1,,kopa1248-1,9,tambək sanandəkanda,tambək sanandəkanda,[],(Kopar dialect),['chan2019'],,False,False,,1
+kopa1248-1-9-2,,kopa1248-1,9,tambək sanandəkand,tambək sanandəkand,[],(Wongan dialect),['chan2019'],,False,False,,1
+kopa1248-1-10-1,,kopa1248-1,10,aitapor,aitapor,[],(Kopar dialect) (litː ‘ten’ ),['chan2019'],,False,False,,1
+kopa1248-1-10-2,,kopa1248-1,10,aitaporək,aitaporək,[],(Wongan dialect) (litː ‘ten’ ),['chan2019'],,False,False,,1
+kopa1248-1-11-1,,kopa1248-1,11,aitaporək mbatepanda,aitaporək mbatepanda,[],(litː ‘eleven’ ),['chan2019'],,False,False,,1
+kopa1248-1-12-1,,kopa1248-1,12,aitaporək koɲjiranda,aitaporək koɲjiranda,[],,['chan2019'],,False,False,,1
+kopa1248-1-13-1,,kopa1248-1,13,aitaporək kereməŋ,aitaporək kereməŋ,[],,['chan2019'],,False,False,,1
+kopa1248-1-14-1,,kopa1248-1,14,aitaporək sanandək,aitaporək sanandək,[],,['chan2019'],,False,False,,1
+kopa1248-1-15-1,,kopa1248-1,15,aitaporək tambəkanda,aitaporək tambəkanda,[],(litː ‘fifteen’ ),['chan2019'],,False,False,,1
+kopa1248-1-16-1,,kopa1248-1,16,aitaporək tambək mbatepanda,aitaporək tambək mbatepanda,[],,['chan2019'],,False,False,,1
+kopa1248-1-17-1,,kopa1248-1,17,aitaporək ambək koɲjiranda,aitaporək ambək koɲjiranda,[],,['chan2019'],,False,False,,1
+kopa1248-1-18-1,,kopa1248-1,18,aitaporək tambəkanda kereməŋganda,aitaporək tambəkanda kereməŋganda,[],,['chan2019'],,False,False,,1
+kopa1248-1-19-1,,kopa1248-1,19,aitaporək tambəkanda sanandəkanda,aitaporək tambəkanda sanandəkanda,[],(litː ‘nineteen’ ),['chan2019'],,False,False,,1
+kopa1248-1-20-1,,kopa1248-1,20,pwoyn,pwoyn,[],"(litː ‘male, man’)",['chan2019'],,False,False,,1
+kopa1248-1-21-1,,kopa1248-1,21,pwoyn mbatepanda,pwoyn mbatepanda,[],,['chan2019'],,False,False,,1
+kopa1248-1-39-1,,kopa1248-1,39,pwoyn aitaporəkanda tambəkanda sanandəkanda,pwoyn aitaporəkanda tambəkanda sanandəkanda,[],,['chan2019'],,False,False,,1
+kopa1248-1-40-1,,kopa1248-1,40,pwoyn kompar(i),pwoyn kompar(i),[],(litː ‘two men’),['chan2019'],,False,False,,1
+kopa1248-1-60-1,,kopa1248-1,60,pwoyn kereməŋ,pwoyn kereməŋ,[],(litː ‘three men’),['chan2019'],,False,False,,1
