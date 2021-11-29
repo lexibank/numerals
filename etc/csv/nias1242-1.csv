@@ -1,0 +1,43 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+nias1242-1-1-1,,nias1242-1,1,sara,sara,[],,['chan2019'],,False,False,sara,1
+nias1242-1-2-1,,nias1242-1,2,dua,dua,[],,['chan2019'],,False,False,dua,1
+nias1242-1-3-1,,nias1242-1,3,tɤlu,tɤlu,[],,['chan2019'],,False,False,tölu,1
+nias1242-1-4-1,,nias1242-1,4,ʔɤfa,ʔɤfa,[],,['chan2019'],,False,False,öfa,1
+nias1242-1-5-1,,nias1242-1,5,lima,lima,[],,['chan2019'],,False,False,lima,1
+nias1242-1-6-1,,nias1242-1,6,ʔɤnɤ,ʔɤnɤ,[],,['chan2019'],,False,False,önö,1
+nias1242-1-7-1,,nias1242-1,7,fitu,fitu,[],,['chan2019'],,False,False,fitu,1
+nias1242-1-8-1,,nias1242-1,8,walu,walu,[],,['chan2019'],,False,False,ŵalu,1
+nias1242-1-9-1,,nias1242-1,9,siwa,siwa,[],,['chan2019'],,False,False,siŵa,1
+nias1242-1-10-1,,nias1242-1,10,fulu,fulu,[],,['chan2019'],,False,False,fulu,1
+nias1242-1-11-1,,nias1242-1,11,fele'dʒara,fele'dʒara,[],,['chan2019'],,False,False,felezara,1
+nias1242-1-12-1,,nias1242-1,12,fele'ⁿdʳua,fele'ⁿdʳua,[],,['chan2019'],,False,False,felendrua,1
+nias1242-1-13-1,,nias1242-1,13,fele'dɤlu,fele'dɤlu,[],,['chan2019'],,False,False,feledölu,1
+nias1242-1-14-1,,nias1242-1,14,fele'ʔɤfa,fele'ʔɤfa,[],,['chan2019'],,False,False,fele'öfa,1
+nias1242-1-15-1,,nias1242-1,15,fele'lima,fele'lima,[],,['chan2019'],,False,False,felelima,1
+nias1242-1-16-1,,nias1242-1,16,feleʔɤnɤ,feleʔɤnɤ,[],,['chan2019'],,False,False,feleönö,1
+nias1242-1-17-1,,nias1242-1,17,fele'witu,fele'witu,[],,['chan2019'],,False,False,feleŵitu,1
+nias1242-1-18-1,,nias1242-1,18,fele'walu,fele'walu,[],,['chan2019'],,False,False,feleŵalu,1
+nias1242-1-19-1,,nias1242-1,19,fele'dʒiwa,fele'dʒiwa,[],,['chan2019'],,False,False,feleziŵa,1
+nias1242-1-20-1,,nias1242-1,20,dua'ʋulu,dua'ʋulu,[],(2 x10 ),['chan2019'],,False,False,duawulu,1
+nias1242-1-21-1,,nias1242-1,21,dua'ʋuluʔa'sara,dua'ʋuluʔa'sara,[],,['chan2019'],,False,False,dua wulu a sara,1
+nias1242-1-22-1,,nias1242-1,22,dua'ʋuluʔa'dua,dua'ʋuluʔa'dua,[],,['chan2019'],,False,False,dua wulu a dua,1
+nias1242-1-23-1,,nias1242-1,23,dua'ʋuluʔa'tɤlu,dua'ʋuluʔa'tɤlu,[],,['chan2019'],,False,False,dua wulu a tölu,1
+nias1242-1-24-1,,nias1242-1,24,dua'ʋuluʔa'ʔɤfa,dua'ʋuluʔa'ʔɤfa,[],,['chan2019'],,False,False,dua wulu a öfa,1
+nias1242-1-25-1,,nias1242-1,25,dua'ʋuluʔa'lima,dua'ʋuluʔa'lima,[],,['chan2019'],,False,False,dua wulu a lima,1
+nias1242-1-26-1,,nias1242-1,26,dua'ʋuluʔaʔɤnɤ,dua'ʋuluʔaʔɤnɤ,[],,['chan2019'],,False,False,dua wulu a önö,1
+nias1242-1-27-1,,nias1242-1,27,dua'ʋuluʔa'fitu,dua'ʋuluʔa'fitu,[],,['chan2019'],,False,False,dua wulu a fitu,1
+nias1242-1-28-1,,nias1242-1,28,dua'ʋuluʔa'walu,dua'ʋuluʔa'walu,[],,['chan2019'],,False,False,dua wulu a ŵalu,1
+nias1242-1-29-1,,nias1242-1,29,dua'ʋuluʔa'siwa,dua'ʋuluʔa'siwa,[],,['chan2019'],,False,False,dua wulu a siŵa,1
+nias1242-1-30-1,,nias1242-1,30,tɤluna'fulu,tɤluna'fulu,[],,['chan2019'],,False,False,tölu na fulu,1
+nias1242-1-40-1,,nias1242-1,40,ʔɤfa'ʋulu,ʔɤfa'ʋulu,[],,['chan2019'],,False,False,öfa wulu,1
+nias1242-1-50-1,,nias1242-1,50,lima'ʋulu,lima'ʋulu,[],,['chan2019'],,False,False,lima wulu,1
+nias1242-1-60-1,,nias1242-1,60,ʔɤnɤna'fulu,ʔɤnɤna'fulu,[],,['chan2019'],,False,False,önö na fulu,1
+nias1242-1-70-1,,nias1242-1,70,fituna'fulu,fituna'fulu,[],,['chan2019'],,False,False,fitu na fulu,1
+nias1242-1-80-1,,nias1242-1,80,waluna'fulu,waluna'fulu,[],,['chan2019'],,False,False,ŵalu na fulu,1
+nias1242-1-90-1,,nias1242-1,90,siwana'fulu,siwana'fulu,[],,['chan2019'],,False,False,siŵa na fulu,1
+nias1242-1-100-1,,nias1242-1,100,ʔɤtu,ʔɤtu,[],,['chan2019'],,False,False,ötu,1
+nias1242-1-200-1,,nias1242-1,200,dua'naotu,dua'naotu,[],(100 x 2),['chan2019'],,False,False,dua na ötu,1
+nias1242-1-400-1,,nias1242-1,400,ʔɤfa'naotu,ʔɤfa'naotu,[],(100 x 4),['chan2019'],,False,False,öfa na otu,1
+nias1242-1-800-1,,nias1242-1,800,walu'naotu,walu'naotu,[],(100 x 8),['chan2019'],,False,False,ŵalu na otu,1
+nias1242-1-1000-1,,nias1242-1,1000,sa'ribu,sa'ribu,[],,['chan2019'],,False,False,sa'ribu,1
+nias1242-1-2000-1,,nias1242-1,2000,dua'ribu,dua'ribu,[],(1000 x 2),['chan2019'],,False,False,dua ribu,1
