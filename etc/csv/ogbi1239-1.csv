@@ -1,42 +1,50 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
-ogbi1239-1-1-1,,ogbi1239-1,1,onin,onin,[],,['chan2019'],,False,False,,1
-ogbi1239-1-2-1,,ogbi1239-1,2,ɛwal,ɛwal,[],,['chan2019'],,False,False,,1
-ogbi1239-1-3-1,,ogbi1239-1,3,ɛsar,ɛsar,[],,['chan2019'],,False,False,,1
-ogbi1239-1-4-1,,ogbi1239-1,4,iɲə,iɲə,[],,['chan2019'],,False,False,,1
-ogbi1239-1-5-1,,ogbi1239-1,5,ɔwʊ,ɔwʊ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-6-1,,ogbi1239-1,6,odin,odin,[],,['chan2019'],,False,False,,1
-ogbi1239-1-7-1,,ogbi1239-1,7,oɗuən,oɗuən,[],,['chan2019'],,False,False,,1
-ogbi1239-1-8-1,,ogbi1239-1,8,ɛɲa,ɛɲa,[],,['chan2019'],,False,False,,1
-ogbi1239-1-8-2,,ogbi1239-1,8,ɛβɪβɪɛɲa,ɛβɪβɪɛɲa,[],,['chan2019'],,False,False,,1
-ogbi1239-1-9-1,,ogbi1239-1,9,ɛsuwo,ɛsuwo,[],,['chan2019'],,False,False,,1
-ogbi1239-1-10-1,,ogbi1239-1,10,iɗioβ,iɗioβ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-11-1,,ogbi1239-1,11,iɗioβ na onin,iɗioβ na onin,[],,['chan2019'],,False,False,,1
-ogbi1239-1-12-1,,ogbi1239-1,12,iɗioβ na ɛwal,iɗioβ na ɛwal,[],,['chan2019'],,False,False,,1
-ogbi1239-1-13-1,,ogbi1239-1,13,iɗioβ na ɛsar,iɗioβ na ɛsar,[],,['chan2019'],,False,False,,1
-ogbi1239-1-14-1,,ogbi1239-1,14,iɗioβ na iɲə,iɗioβ na iɲə,[],,['chan2019'],,False,False,,1
-ogbi1239-1-15-1,,ogbi1239-1,15,iɗioβ na ɔwʊ,iɗioβ na ɔwʊ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-16-1,,ogbi1239-1,16,iɗioβ na odin,iɗioβ na odin,[],,['chan2019'],,False,False,,1
-ogbi1239-1-17-1,,ogbi1239-1,17,iɗioβ na oɗuən,iɗioβ na oɗuən,[],,['chan2019'],,False,False,,1
-ogbi1239-1-18-1,,ogbi1239-1,18,iɗioβ na ɛɲa,iɗioβ na ɛɲa,[],,['chan2019'],,False,False,,1
-ogbi1239-1-19-1,,ogbi1239-1,19,iɗioβ na ɛsuwo,iɗioβ na ɛsuwo,[],,['chan2019'],,False,False,,1
-ogbi1239-1-20-1,,ogbi1239-1,20,ərusuβ,ərusuβ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-21-1,,ogbi1239-1,21,ərusuβ na onin,ərusuβ na onin,[],,['chan2019'],,False,False,,1
-ogbi1239-1-22-1,,ogbi1239-1,22,ərusuβ na ɛwal,ərusuβ na ɛwal,[],,['chan2019'],,False,False,,1
-ogbi1239-1-23-1,,ogbi1239-1,23,ərusuβ na ɛsar,ərusuβ na ɛsar,[],,['chan2019'],,False,False,,1
-ogbi1239-1-24-1,,ogbi1239-1,24,ərusuβ na iɲə,ərusuβ na iɲə,[],,['chan2019'],,False,False,,1
-ogbi1239-1-25-1,,ogbi1239-1,25,ərusuβ na ɔwʊ,ərusuβ na ɔwʊ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-26-1,,ogbi1239-1,26,ərusuβ na odin,ərusuβ na odin,[],,['chan2019'],,False,False,,1
-ogbi1239-1-27-1,,ogbi1239-1,27,ərusuβ na oɗuən,ərusuβ na oɗuən,[],,['chan2019'],,False,False,,1
-ogbi1239-1-28-1,,ogbi1239-1,28,ərusuβ na ɛɲa,ərusuβ na ɛɲa,[],,['chan2019'],,False,False,,1
-ogbi1239-1-29-1,,ogbi1239-1,29,ərusuβ na ɛsuwo,ərusuβ na ɛsuwo,[],,['chan2019'],,False,False,,1
-ogbi1239-1-30-1,,ogbi1239-1,30,ərusuβ na iɗioβ,ərusuβ na iɗioβ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-40-1,,ogbi1239-1,40,ɛwal poɣ,ɛwal poɣ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-50-1,,ogbi1239-1,50,ɛwal poɣ na iɗioβ,ɛwal poɣ na iɗioβ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-60-1,,ogbi1239-1,60,ɛsar poɣ,ɛsar poɣ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-70-1,,ogbi1239-1,70,ɛsar poɣ na iɗioβ,ɛsar poɣ na iɗioβ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-80-1,,ogbi1239-1,80,iɲə poɣ,iɲə poɣ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-90-1,,ogbi1239-1,90,iɲə poɣ na iɗioβ,iɲə poɣ na iɗioβ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-100-1,,ogbi1239-1,100,ɔwʊ poɣ,ɔwʊ poɣ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-200-1,,ogbi1239-1,200,iɗioβ poɣ,iɗioβ poɣ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-400-1,,ogbi1239-1,400,ɔdɛ,ɔdɛ,[],,['chan2019'],,False,False,,1
-ogbi1239-1-2000-1,,ogbi1239-1,2000,ɔwʊ ɔdɛ,ɔwʊ ɔdɛ,[],( 5 x 400),['chan2019'],,False,False,,1
+ogbi1239-1-1-1,,ogbi1239-1,1,ònín,ònín,[],,['chan2019'],,False,False,,1
+ogbi1239-1-2-1,,ogbi1239-1,2,wàalɪ̀,wàalɪ̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-3-1,,ogbi1239-1,3,sàarɪ̀,sàarɪ̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-4-1,,ogbi1239-1,4,ìɲə̀,ìɲə̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-5-1,,ogbi1239-1,5,òwù,òwù,[],,['chan2019'],,False,False,,1
+ogbi1239-1-6-1,,ogbi1239-1,6,òdìn,òdìn,[],,['chan2019'],,False,False,,1
+ogbi1239-1-7-1,,ogbi1239-1,7,òɗùəl,òɗùəl,[],,['chan2019'],,False,False,,1
+ogbi1239-1-8-1,,ogbi1239-1,8,ɪ́ɲàn,ɪ́ɲàn,[],,['chan2019'],,False,False,,1
+ogbi1239-1-8-2,,ogbi1239-1,8,waàlɪ́ bà ɗioβ,waàlɪ́ bà ɗioβ,[],(10 - 2),['chan2019'],,False,False,,1
+ogbi1239-1-9-1,,ogbi1239-1,9,ísíó,ísíó,[],,['chan2019'],,False,False,,1
+ogbi1239-1-9-2,,ogbi1239-1,9,ònìn bà ɗioβ,ònìn bà ɗioβ,[],(10 - 1),['chan2019'],,False,False,,1
+ogbi1239-1-10-1,,ogbi1239-1,10,ɗiòβ,ɗiòβ,[],,['chan2019'],,False,False,,1
+ogbi1239-1-11-1,,ogbi1239-1,11,ɗiòβ nò ònín,ɗiòβ nò ònín,[],(10+1),['chan2019'],,False,False,,1
+ogbi1239-1-12-1,,ogbi1239-1,12,ɗiòβ nì wàalɪ̀,ɗiòβ nì wàalɪ̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-13-1,,ogbi1239-1,13,ɗiòβ nì sàarɪ̀,ɗiòβ nì sàarɪ̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-14-1,,ogbi1239-1,14,ɗiòβ nì ìɲə̀,ɗiòβ nì ìɲə̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-15-1,,ogbi1239-1,15,ɗiòβ nò òwù,ɗiòβ nò òwù,[],,['chan2019'],,False,False,,1
+ogbi1239-1-16-1,,ogbi1239-1,16,ɗiòβ nì òdìn,ɗiòβ nì òdìn,[],,['chan2019'],,False,False,,1
+ogbi1239-1-17-1,,ogbi1239-1,17,ɗiòβ nì òɗùəl,ɗiòβ nì òɗùəl,[],,['chan2019'],,False,False,,1
+ogbi1239-1-18-1,,ogbi1239-1,18,ɗiòβ nì ɪɲ́àn,ɗiòβ nì ɪɲ́àn,[],(10+8),['chan2019'],,False,False,,1
+ogbi1239-1-18-2,,ogbi1239-1,18,waàlɪ́ bà súβ,waàlɪ́ bà súβ,[],(20 - 2),['chan2019'],,False,False,,1
+ogbi1239-1-19-1,,ogbi1239-1,19,ɗiòβ nì ísíó,ɗiòβ nì ísíó,[],(10+9),['chan2019'],,False,False,,1
+ogbi1239-1-19-2,,ogbi1239-1,19,ònìn bà súβ,ònìn bà súβ,[],(20 - 1),['chan2019'],,False,False,,1
+ogbi1239-1-20-1,,ogbi1239-1,20,súβ,súβ,[],,['chan2019'],,False,False,,1
+ogbi1239-1-21-1,,ogbi1239-1,21,súβ nò ònín,súβ nò ònín,[],,['chan2019'],,False,False,,1
+ogbi1239-1-22-1,,ogbi1239-1,22,súβ nì wàalɪ̀,súβ nì wàalɪ̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-23-1,,ogbi1239-1,23,súβ nì sàarɪ̀,súβ nì sàarɪ̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-24-1,,ogbi1239-1,24,súβ nì ìɲə̀,súβ nì ìɲə̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-25-1,,ogbi1239-1,25,súβ nò òwù,súβ nò òwù,[],,['chan2019'],,False,False,,1
+ogbi1239-1-26-1,,ogbi1239-1,26,súβ nò òdìn,súβ nò òdìn,[],,['chan2019'],,False,False,,1
+ogbi1239-1-27-1,,ogbi1239-1,27,súβ nò òɗùəl,súβ nò òɗùəl,[],,['chan2019'],,False,False,,1
+ogbi1239-1-28-1,,ogbi1239-1,28,súβ nì ɪ́ɲàn,súβ nì ɪ́ɲàn,[],,['chan2019'],,False,False,,1
+ogbi1239-1-28-2,,ogbi1239-1,28,waàlɪ́ bà súβ,waàlɪ́ bà súβ,[],(30 - 2),['chan2019'],,False,False,,1
+ogbi1239-1-29-1,,ogbi1239-1,29,súβ nì ísíó,súβ nì ísíó,[],,['chan2019'],,False,False,,1
+ogbi1239-1-29-2,,ogbi1239-1,29,ònìn bà ɔ̀dàβár,ònìn bà ɔ̀dàβár,[],(30 - 1),['chan2019'],,False,False,,1
+ogbi1239-1-30-1,,ogbi1239-1,30,ɔ̀dàβár,ɔ̀dàβár,[],,['chan2019'],,False,False,,1
+ogbi1239-1-40-1,,ogbi1239-1,40,wálɪ̀ ípó,wálɪ̀ ípó,[],(2 x 20),['chan2019'],,False,False,,1
+ogbi1239-1-50-1,,ogbi1239-1,50,ɗìaβàr,ɗìaβàr,[],,['chan2019'],,False,False,,1
+ogbi1239-1-50-2,,ogbi1239-1,50,wàlɪ̀ ɪ́pò nì ɗiòβ,wàlɪ̀ ɪ́pò nì ɗiòβ,[],,['chan2019'],,False,False,,1
+ogbi1239-1-60-1,,ogbi1239-1,60,sààrɪ̀ ɪ́pó,sààrɪ̀ ɪ́pó,[],(3 x 20),['chan2019'],,False,False,,1
+ogbi1239-1-70-1,,ogbi1239-1,70,sààrɪ̀ ɪ́pó nì ɗiòβ,sààrɪ̀ ɪ́pó nì ɗiòβ,[],,['chan2019'],,False,False,,1
+ogbi1239-1-80-1,,ogbi1239-1,80,ɪ̀ɲə̀ ɪ́pó,ɪ̀ɲə̀ ɪ́pó,[],(4 x 20),['chan2019'],,False,False,,1
+ogbi1239-1-90-1,,ogbi1239-1,90,ɪ̀ɲə̀ ɪ́pó nì ɗiòβ,ɪ̀ɲə̀ ɪ́pó nì ɗiòβ,[],,['chan2019'],,False,False,,1
+ogbi1239-1-100-1,,ogbi1239-1,100,òwù ɪ́pó,òwù ɪ́pó,[],(5 x 20),['chan2019'],,False,False,,1
+ogbi1239-1-200-1,,ogbi1239-1,200,wàalɪ̀ òwù ɪ́pó,wàalɪ̀ òwù ɪ́pó,[],,['chan2019'],,False,False,,1
+ogbi1239-1-400-1,,ogbi1239-1,400,ìɲə̀ òwù ɪ́pó,ìɲə̀ òwù ɪ́pó,[],,['chan2019'],,False,False,,1
+ogbi1239-1-800-1,,ogbi1239-1,800,wàalɪ̀ òwù ɪ́pó bá ɔ̀dɛ,wàalɪ̀ òwù ɪ́pó bá ɔ̀dɛ,[],,['chan2019'],,False,False,,1
+ogbi1239-1-1000-1,,ogbi1239-1,1000,ɔ̀dɛ̀,ɔ̀dɛ̀,[],,['chan2019'],,False,False,,1
+ogbi1239-1-2000-1,,ogbi1239-1,2000,wàalɪ̀ ɔ̀dɛ,wàalɪ̀ ɔ̀dɛ,[],,['chan2019'],,False,False,,1
