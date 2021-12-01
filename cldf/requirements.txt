@@ -42,12 +42,12 @@ python-Levenshtein==0.12.2
 regex==2021.8.28
 requests==2.26.0
 rfc3986==1.5.0
-scipy==1.6.3
+scipy==1.7.3
 segments==2.2.0
 six==1.16.0
 smmap==4.0.0
 soupsieve==2.2.1
-SQLAlchemy==1.4.23
+SQLAlchemy==1.4.27
 tabulate==0.8.9
 termcolor==1.1.0
 tqdm==4.62.3

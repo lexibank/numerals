@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numerals",
             "rdf:type": "prov:Entity",
-            "dc:created": "c83452c6",
+            "dc:created": "c11cb81f",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.8"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -61,7 +61,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 187588,
+            "dc:extent": 187637,
             "tableSchema": {
                 "columns": [
                     {
@@ -176,7 +176,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5350,
+            "dc:extent": 5351,
             "tableSchema": {
                 "columns": [
                     {
