@@ -1,0 +1,41 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Problematic,Other_Form,Variant_ID
+keak1239-1-1-1,,keak1239-1,1,kɨte,kɨte,[],,['chan2019'],,False,False,,1
+keak1239-1-2-1,,keak1239-1,2,βli,βli,[],,['chan2019'],,False,False,,1
+keak1239-1-3-1,,keak1239-1,3,kɨβʉk,kɨβʉk,[],,['chan2019'],,False,False,,1
+keak1239-1-4-1,,keak1239-1,4,ainak,ainak,[],,['chan2019'],,False,False,,1
+keak1239-1-5-1,,keak1239-1,5,tambanak,tambanak,[],(lit: 'one hand' ),['chan2019'],,False,False,,1
+keak1239-1-6-1,,keak1239-1,6,sla kɨte,sla kɨte,[],(lit: '(5) plus one' ),['chan2019'],,False,False,,1
+keak1239-1-7-1,,keak1239-1,7,sla βli,sla βli,[],(lit: '(5) plus two' ),['chan2019'],,False,False,,1
+keak1239-1-8-1,,keak1239-1,8,sla kɨβʉk,sla kɨβʉk,[],(lit: '(5) plus three' ),['chan2019'],,False,False,,1
+keak1239-1-9-1,,keak1239-1,9,sla ainak,sla ainak,[],(lit: '(5) plus four' ),['chan2019'],,False,False,,1
+keak1239-1-10-1,,keak1239-1,10,tambli,tambli,[],(lit: 'two hands' ),['chan2019'],,False,False,,1
+keak1239-1-11-1,,keak1239-1,11,tambli keli kɨte,tambli keli kɨte,[],,['chan2019'],,False,False,,1
+keak1239-1-12-1,,keak1239-1,12,tambli keli βli,tambli keli βli,[],,['chan2019'],,False,False,,1
+keak1239-1-13-1,,keak1239-1,13,tambli keli kɨβʉk,tambli keli kɨβʉk,[],,['chan2019'],,False,False,,1
+keak1239-1-14-1,,keak1239-1,14,tambli keli ainak,tambli keli ainak,[],,['chan2019'],,False,False,,1
+keak1239-1-15-1,,keak1239-1,15,tambli keli tambanak,tambli keli tambanak,[],,['chan2019'],,False,False,,1
+keak1239-1-16-1,,keak1239-1,16,tambli keli sla kɨte,tambli keli sla kɨte,[],,['chan2019'],,False,False,,1
+keak1239-1-17-1,,keak1239-1,17,tambli keli sla βli,tambli keli sla βli,[],,['chan2019'],,False,False,,1
+keak1239-1-18-1,,keak1239-1,18,tambli keli sla kɨβʉk,tambli keli sla kɨβʉk,[],,['chan2019'],,False,False,,1
+keak1239-1-19-1,,keak1239-1,19,tambli keli sla ainak,tambli keli sla ainak,[],,['chan2019'],,False,False,,1
+keak1239-1-20-1,,keak1239-1,20,ndɨmi,ndɨmi,[],(lit: 'whole man'),['chan2019'],,False,False,,1
+keak1239-1-21-1,,keak1239-1,21,ndɨmi keli kɨte,ndɨmi keli kɨte,[],,['chan2019'],,False,False,,1
+keak1239-1-22-1,,keak1239-1,22,ndɨmi keli βli,ndɨmi keli βli,[],,['chan2019'],,False,False,,1
+keak1239-1-23-1,,keak1239-1,23,ndɨmi keli kɨβʉk,ndɨmi keli kɨβʉk,[],,['chan2019'],,False,False,,1
+keak1239-1-24-1,,keak1239-1,24,ndɨmi keli ainak,ndɨmi keli ainak,[],,['chan2019'],,False,False,,1
+keak1239-1-25-1,,keak1239-1,25,ndɨmi keli tambanak,ndɨmi keli tambanak,[],,['chan2019'],,False,False,,1
+keak1239-1-26-1,,keak1239-1,26,ndɨmi keli sla kɨte,ndɨmi keli sla kɨte,[],,['chan2019'],,False,False,,1
+keak1239-1-27-1,,keak1239-1,27,ndɨmi keli sla βli,ndɨmi keli sla βli,[],,['chan2019'],,False,False,,1
+keak1239-1-28-1,,keak1239-1,28,ndɨmi keli sla kɨβʉk,ndɨmi keli sla kɨβʉk,[],,['chan2019'],,False,False,,1
+keak1239-1-29-1,,keak1239-1,29,ndɨmi keli sla ainak,ndɨmi keli sla ainak,[],,['chan2019'],,False,False,,1
+keak1239-1-30-1,,keak1239-1,30,ndɨmi keli tambli,ndɨmi keli tambli,[],,['chan2019'],,False,False,,1
+keak1239-1-40-1,,keak1239-1,40,ndɨmi βli,ndɨmi βli,[],(lit: 'two whole men' ),['chan2019'],,False,False,,1
+keak1239-1-50-1,,keak1239-1,50,ndɨmi βli keli tambli,ndɨmi βli keli tambli,[],,['chan2019'],,False,False,,1
+keak1239-1-60-1,,keak1239-1,60,ndɨmi kɨβʉk,ndɨmi kɨβʉk,[],(lit: 'three whole men' ),['chan2019'],,False,False,,1
+keak1239-1-70-1,,keak1239-1,70,ndɨmi kɨβʉk keli tambli,ndɨmi kɨβʉk keli tambli,[],,['chan2019'],,False,False,,1
+keak1239-1-80-1,,keak1239-1,80,ndɨmi ainak,ndɨmi ainak,[],(lit: 'four whole men' ),['chan2019'],,False,False,,1
+keak1239-1-90-1,,keak1239-1,90,ndɨmi ainak keli tambli,ndɨmi ainak keli tambli,[],,['chan2019'],,False,False,,1
+keak1239-1-100-1,,keak1239-1,100,ndɨmi tambanak,ndɨmi tambanak,[],(lit: 'five whole men' ),['chan2019'],,False,False,,1
+keak1239-1-200-1,,keak1239-1,200,ndɨmi kɨte nɨmba tambli,ndɨmi kɨte nɨmba tambli,[],,['chan2019'],,False,False,,1
+keak1239-1-400-1,,keak1239-1,400,ndɨmi kɨte nɨmba ndɨmi,ndɨmi kɨte nɨmba ndɨmi,[],,['chan2019'],,False,False,,1
+keak1239-1-600-1,,keak1239-1,600,ndɨmi kɨte keli tambli nɨmba tambli,ndɨmi kɨte keli tambli nɨmba tambli,[],,['chan2019'],,False,False,,1

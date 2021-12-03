@@ -286,7 +286,7 @@ class Dataset(BaseDataset):
                                 "anam1249-2", "baka1277-2", "chak1270-1", "dghw1239-1",
                                 "gofa1235-1", "onge1236-2", "xhos1239-2", "xxxx0001-1",
                                 "ncan1245-3", "ncan1245-4", "amar1274-2", "ayiw1239-1",
-                                "yaum1237-1", "baha1256-3", "sout2782-1"])
+                                "yaum1237-1", "baha1256-3", "sout2782-1", "mali1288-1"])
 
         # do not ignore IDs for xlsx data
         ignored_lang_ids = ignored_lang_ids - edited_lang_ids
