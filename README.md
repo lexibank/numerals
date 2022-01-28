@@ -33,9 +33,9 @@ released as [channumerals v1.0](https://github.com/numeralbank/channumerals/rele
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 5,351
+- **Varieties:** 5,352
 - **Concepts:** 133
-- **Lexemes:** 187,637
+- **Lexemes:** 187,680
 - **Sources:** 1
 - **Synonymy:** 1.09
 

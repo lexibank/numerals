@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/numeralbank/numerals",
             "rdf:type": "prov:Entity",
-            "dc:created": "69cc7cc1",
+            "dc:created": "bccbbb32",
             "dc:title": "Repository"
         },
         {
@@ -61,7 +61,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 187637,
+            "dc:extent": 187680,
             "tableSchema": {
                 "columns": [
                     {
@@ -176,7 +176,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5351,
+            "dc:extent": 5352,
             "tableSchema": {
                 "columns": [
                     {
