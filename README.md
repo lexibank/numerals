@@ -1,4 +1,4 @@
-# CLDF dataset derived from curated Chan's "Numeral Systems of the World's Languages." from 2019
+# CLDF dataset derived from curated Chan's "Numeral Systems of the World's Languages" from 2019
 
 ## How to cite
 
@@ -10,9 +10,9 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://numerals.clld.org
+Available online at https://github.com/numeralbank/numerals
 
 
 Conceptlists in Concepticon:
@@ -57,6 +57,8 @@ Robert Forkel | @xrotwang | helped with code and project structure | Other
 Kristina Pianykh | @Kristina-Pianykh | helped with data cleaning | Other
 Marie Charlotte Gertich | @mcgertich | helped with data cleaning | Other
 Simon J. Greenhill | @SimonGreenhill | helped with with code and data collection | Other
+Johann-Mattis List | @lingulist |  | Other
+
 
 
 

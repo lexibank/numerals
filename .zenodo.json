@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from curated Chan's \"Numeral Systems of the World's Languages.\" from 2019",
+    "title": "CLDF dataset derived from curated Chan's \"Numeral Systems of the World's Languages\" from 2019",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -47,6 +47,10 @@
         },
         {
             "name": "Simon J. Greenhill",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
             "type": "Other"
         }
     ],
